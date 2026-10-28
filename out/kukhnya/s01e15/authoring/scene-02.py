@@ -4,27 +4,26 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 15
 SCENE = 2
-TITLE = "Лишний сосед  (An Extra Roommate)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Лишний сосед  (An Extra Roommate)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "nastya": "angelina", "anya": "alisa", "kostya": "anja"}
-LABELS = {"nastya": "Настя", "anya": "Макс", "kostya": "Костя"}
+LABELS = {'kostya': 'Костя', 'max': 'Макс', 'nastya': 'Настя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.15'
 SOURCE_FILE = 'sources/kukhnya/s01/e15.ru.dual.srt'
 INTRO = "Max enters the bedroom inviting Kostya and Nastya to the cinema, driving Nastya to her limit. Let's listen closely to their exchange in Russian first, and then walk through each line together."
 OPENER = "Now let's go back through the exchange around An Extra Roommate line by line and unpack how the Russian works."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Nastya makes it clear to Kostya that Max cannot stay in their apartment any longer. Next time you watch the episode, listen for the Russian expressions for 'washcloth' and 'to hear' — you will catch every word right away. See you next time!"
-CLOSING = ("nastya", "Пока!")
+CLOSING = ('nastya', 'Пока!')
 STORY = [
     ('nastya', 'Это моя мочалка, а это Костина.', "This is my loofah, and this one is Kostya's.", [(6, 'Это моя мочалка, а это Костина.')], ''),
-    ('anya', 'Слышь, народ, давай в кино сходим?', 'Hey, guys, let us go to the cinema?', [(7, 'Слышь, народ, давай в кино сходим')], ''),
+    ('max', 'Слышь, народ, давай в кино сходим?', 'Hey, guys, let us go to the cinema?', [(7, 'Слышь, народ, давай в кино сходим')], ''),
     ('kostya', 'Макс, мы спим уже давно.', 'Max, we have been sleeping for a long time.', [(8, 'Макс, мы спим')], ''),
     ('nastya', 'Да. Точнее, мы спали.', 'Yes. More precisely, we were sleeping.', [(9, 'Да. Точнее, спали')], ''),
-    ('anya', 'Ну, давай попозже сходим вместе.', 'Well, let us go later together.', [(10, 'Ну, давай попозже сходим')], ''),
+    ('max', 'Ну, давай попозже сходим вместе.', 'Well, let us go later together.', [(10, 'Ну, давай попозже сходим')], ''),
     ('kostya', 'Ты же видишь, что мы отдыхаем.', 'You see that we are resting.', [], ''),
     ('nastya', 'Иди спать, пожалуйста, Макс!', 'Go to sleep, please, Max!', [(11, 'Спать')], ''),
-    ('anya', 'Ну, понятно, я ухожу к себе.', 'Well, understood, I am going to my room.', [(12, 'Ну, понятно')], ''),
+    ('max', 'Ну, понятно, я ухожу к себе.', 'Well, understood, I am going to my room.', [(12, 'Ну, понятно')], ''),
     ('nastya', 'Всё, я так больше не могу!', 'That is it, I cannot take this anymore!', [(13, 'Все. Я так больше не могу.')], ''),
     ('kostya', 'Настя, успокойся, он просто наш друг.', 'Nastya, calm down, he is just our friend.', [], ''),
     ('nastya', 'Он постоянно заходит в нашу комнату!', 'He constantly walks into our room!', [], ''),

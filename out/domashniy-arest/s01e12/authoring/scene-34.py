@@ -1,34 +1,36 @@
-# domashniy-arest/s01e12/scene-34.py
-ID = "domashniy-arest-s01e12-scene-34"
-SHOW = "domashniy-arest"
+# Authoring module for domashniy-arest-s01e12-scene-34.
+ID = 'domashniy-arest-s01e12-scene-34'
+SHOW = 'domashniy-arest'
 SEASON = 1
 EPISODE = 12
 SCENE = 34
-TITLE = "Присели на дорожку  (Sitting Before the Journey)"
-LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-SOURCE_NAME = "Домашний арест (Domashniy Arest) S1.12"
-SOURCE_FILE = "sources/domashniy-arest/s01/e12.ru.dual.srt"
-VOICES = {"narrator": "sky", "nina": "angelina", "samson": "anja"}
-LABELS = {"nina": "Нина", "samson": "Самсон"}
-INTRO = "In the communal apartment, the Samsonov family finishes packing their bags and sits together with their neighbor before departing for their new life in Siberia."
-STORY = [
-    ("samson", "Нина, хорош там возиться на кухне!", "Nina, stop fussing around in the kitchen!", [(868, 'Нина, хорош там возиться.')], "Samson calls Nina"),
-    ("samson", "Давайте скорее присядем на дорожку.", "Come on, let us sit for a moment before the road.", [(869, 'Давайте, присели на дорожку.')], "tradition of sitting before travel"),
-    ("nina", "Я уже собрала все наши вещи.", "I have already packed all our things.", [], "Nina packed bags"),
-    ("nina", "Деткам вы жизнь, конечно, перечеркнули!", "You have certainly ruined those children's lives!", [(873, 'Деткам вы жизнь, конечно, перечеркнули.')], "Klavdiya scolds them"),
-    ("nina", "Как вы будете жить в Сибири?", "How will you live in Siberia?", [(874, 'Как они там будут в этой Сибири?')], "dismay over Siberia"),
-    ("nina", "Клавдия Викторовна, можете помолчать хотя бы минуту?", "Klavdiya Viktorovna, can you be quiet for at least a minute?", [(877, 'Клавдия Викторовна, вы можете помолчать?')], "Nina asks for quiet"),
-    ("samson", "Нина, проверь билеты, паспорта и деньги.", "Nina, check the tickets, passports, and money.", [(883, 'Билеты, паспорта, деньги?')], "checking travel documents"),
-    ("nina", "Все наши документы лежат в сумке.", "All our documents are lying in the bag.", [(884, 'Да.')], "documents safe"),
-    ("samson", "Такси уже подъехало к нашему дому.", "The taxi has already driven up to our house.", [(886, 'Машина пришла.')], "taxi arrives"),
-    ("samson", "Всё, берём чемоданы и выходим!", "That is it, we take the suitcases and go out!", [(885, 'Все, выходим, выходим.')], "departing"),
-    ("nina", "Я буду очень скучать по вам.", "I will miss you very much.", [], "neighbor's affection"),
-    ("nina", "Спасибо вам за всё, соседка дорогая.", "Thank you for everything, dear neighbor.", [], "gratitude expressed"),
-    ("samson", "Прощайте, наш старый коммунальный дом!", "Farewell, our old communal apartment!", [], "farewell to apartment"),
-    ("nina", "Начинается наша совершенно новая жизнь.", "Our completely new life is beginning.", [], "fresh start"),
-]
+TITLE = 'Присели на дорожку  (Sitting Before the Journey)'
+LEVEL = 'A1 — Duolingo Section 2'
+PAIR = 'ru-en'
+LABELS = {'klavdia': 'Клавдия Викторовна', 'nina': 'Нина', 'samson': 'Самсон'}
+SOURCE_NAME = 'Домашний арест (Domashniy Arest) S1.12'
+SOURCE_FILE = 'sources/domashniy-arest/s01/e12.ru.dual.srt'
+INTRO = 'In the communal apartment, the Samsonov family finishes packing their bags and sits together with their neighbor before departing for their new life in Siberia.'
 OPENER = "Let's explore the poignant moments before the Samsonovs depart their communal apartment."
+TRANSITION = "Now let's listen to the emotional communal apartment farewell once more."
+OUTRO = 'With suitcases packed and farewells spoken, the Samsonov family steps out into their new chapter. See you next time!'
+CLOSING = ('nina', 'Пока!')
+STORY = [
+    ('samson', 'Нина, хорош там возиться на кухне!', 'Nina, stop fussing around in the kitchen!', [(868, 'Нина, хорош там возиться.')], 'Samson calls Nina'),
+    ('samson', 'Давайте скорее присядем на дорожку.', 'Come on, let us sit for a moment before the road.', [(869, 'Давайте, присели на дорожку.')], 'tradition of sitting before travel'),
+    ('nina', 'Я уже собрала все наши вещи.', 'I have already packed all our things.', [], 'Nina packed bags'),
+    ('klavdia', 'Деткам вы жизнь, конечно, перечеркнули!', "You have certainly ruined those children's lives!", [(873, 'Деткам вы жизнь, конечно, перечеркнули.')], 'Klavdiya scolds them'),
+    ('klavdia', 'Как вы будете жить в Сибири?', 'How will you live in Siberia?', [(874, 'Как они там будут в этой Сибири?')], 'dismay over Siberia'),
+    ('nina', 'Клавдия Викторовна, можете помолчать хотя бы минуту?', 'Klavdiya Viktorovna, can you be quiet for at least a minute?', [(877, 'Клавдия Викторовна, вы можете помолчать?')], 'Nina asks for quiet'),
+    ('samson', 'Нина, проверь билеты, паспорта и деньги.', 'Nina, check the tickets, passports, and money.', [(883, 'Билеты, паспорта, деньги?')], 'checking travel documents'),
+    ('nina', 'Все наши документы лежат в сумке.', 'All our documents are lying in the bag.', [(884, 'Да.')], 'documents safe'),
+    ('samson', 'Такси уже подъехало к нашему дому.', 'The taxi has already driven up to our house.', [(886, 'Машина пришла.')], 'taxi arrives'),
+    ('samson', 'Всё, берём чемоданы и выходим!', 'That is it, we take the suitcases and go out!', [(885, 'Все, выходим, выходим.')], 'departing'),
+    ('klavdia', 'Я буду очень скучать по вам.', 'I will miss you very much.', [], "neighbor's affection"),
+    ('nina', 'Спасибо вам за всё, соседка дорогая.', 'Thank you for everything, dear neighbor.', [], 'gratitude expressed'),
+    ('samson', 'Прощайте, наш старый коммунальный дом!', 'Farewell, our old communal apartment!', [], 'farewell to apartment'),
+    ('nina', 'Начинается наша совершенно новая жизнь.', 'Our completely new life is beginning.', [], 'fresh start'),
+]
 WALK = [
     (0, None, "'Nina, stop fussing around in the kitchen!' Samsonov urges his wife to hurry up with packing."),
     (1, None, "'Come on, let us sit for a moment before the road.' The Russian tradition involves sitting quietly before departing."),
@@ -45,6 +47,3 @@ WALK = [
     (12, None, "'Farewell, our old communal apartment!' Samsonov bids a final farewell to his lifelong home."),
     (13, None, "'Our completely new life is beginning.' Nina looks forward with hope to a fresh start."),
 ]
-TRANSITION = "Now let's listen to the emotional communal apartment farewell once more."
-OUTRO = "With suitcases packed and farewells spoken, the Samsonov family steps out into their new chapter. See you next time!"
-CLOSING = ("nina", "Пока!")

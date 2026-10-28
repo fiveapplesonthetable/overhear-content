@@ -11,16 +11,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Самсон | Где мы? Кругом дым и воронки. | Where are we? Smoke and bomb craters are all around. | new | new |
-| 2 | Солдат | Ползи вперёд! Мы почти дошли. | Crawl forward! We have almost arrived. | #136 00:08:44: по-пластунски отпахали | verbatim |
-| 3 | Самсон | Мы ползём по грязи так долго! | We have been crawling through mud for so long! | #136 00:08:44: по-пластунски | verbatim |
-| 4 | Солдат | Завтра нас ждёт последний бой. | Tomorrow the final battle awaits us. | #137 00:08:49: завтра, наконец, последний бой | verbatim |
-| 5 | Самсон | Ещё немного, ещё чуть-чуть! | Just a little more, just a little bit! | #138 00:08:55: Еще немного, а еще чуть-чуть | verbatim |
-| 6 | Солдат | Этот бой будет самый трудный. | This battle will be the hardest one. | #139 00:09:13: Последний бой, он трудный самый | verbatim |
+| 2 | Солдат | Ползи вперёд! Мы почти дошли. | Crawl forward! We have almost arrived. | #136: по-пластунски отпахали | verbatim |
+| 3 | Самсон | Мы ползём по грязи так долго! | We have been crawling through mud for so long! | #136: по-пластунски | verbatim |
+| 4 | Солдат | Завтра нас ждёт последний бой. | Tomorrow the final battle awaits us. | #137: завтра, наконец, последний бой | verbatim |
+| 5 | Самсон | Ещё немного, ещё чуть-чуть! | Just a little more, just a little bit! | #138: Еще немного, а еще чуть-чуть | verbatim |
+| 6 | Солдат | Этот бой будет самый трудный. | This battle will be the hardest one. | #139: Последний бой, он трудный самый | verbatim |
 | 7 | Самсон | Мой дедушка не был предателем! | My grandfather was not a traitor! | new | new |
 | 8 | Солдат | Все знают правду. Держись, боец! | Everyone knows the truth. Hold on, soldier! | new | new |
-| 9 | Самсон | А я домой в Россию хочу. | And I want to go home to Russia. | #140 00:09:18: А я в Россию домой хочу | verbatim |
+| 9 | Самсон | А я домой в Россию хочу. | And I want to go home to Russia. | #140: А я в Россию домой хочу | verbatim |
 | 10 | Солдат | Скоро мы вернёмся домой. | Soon we will return home. | new | new |
-| 11 | Самсон | Я так давно не видел маму. | I haven't seen my mother in so long. | #141 00:09:23: Так давно не видел маму | verbatim |
+| 11 | Самсон | Я так давно не видел маму. | I haven't seen my mother in so long. | #141: Так давно не видел маму | verbatim |
 | 12 | Солдат | Мама ждёт тебя живым. | Mother is waiting for you alive. | new | new |
 | 13 | Самсон | Я не предам родную землю! | I will not betray my native land! | new | new |
 | 14 | Солдат | Тогда просыпайся, Иван! Тебе пора. | Then wake up, Ivan! It is time for you. | new | new |

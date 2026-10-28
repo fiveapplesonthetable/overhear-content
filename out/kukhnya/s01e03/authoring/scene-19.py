@@ -4,33 +4,32 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 3
 SCENE = 19
-TITLE = "Итоги первой недели  (First Week Summary)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Итоги первой недели  (First Week Summary)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "chef": "anja", "anya": "alisa"}
-LABELS = {"chef": "Шеф", "anya": "Макс"}
+LABELS = {'barinov': 'Шеф', 'guest': 'Гость', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.03'
 SOURCE_FILE = 'sources/kukhnya/s01/e03.ru.dual.srt'
 INTRO = "In the dining room of Claude Monet, an embarrassed guest apologizes to Chef Barinov for a sudden commotion, prompting Barinov to deliver a hilarious summary of Max's first week."
 OPENER = "Let's explore Chef Barinov's comedic review of Max's chaotic first week on the job."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Against all odds, Max survives his turbulent first week and officially joins the kitchen crew. Next time you watch the episode, listen for the Russian expressions for 'art director' and 'to worry' — you will catch every word right away. See you next time!"
-CLOSING = ("chef", "Пока!")
+CLOSING = ('barinov', 'Пока!')
 STORY = [
-    ('chef', 'Шеф, извините нас за этот шум.', 'Chef, excuse us for this noise.', [(321, 'Извините нас.')], ''),
-    ('chef', 'Не беспокойтесь, этот пистолет был не настоящий.', 'Do not worry, this pistol was not real.', [(323, 'это был не настоящий пистолет.')], ''),
-    ('chef', 'Вот вам щедрые деньги за эти неудобства.', 'Here is generous money for these inconveniences.', [(325, 'Вот возьмите, тут всем сотрудникам')], ''),
-    ('chef', 'Спасибо, мы рады помочь нашим гостям.', 'Thank you, we are glad to help our guests.', [(327, 'Договорились.')], ''),
-    ('chef', 'Огузок, иди сюда прямо сейчас!', 'Runt, come here right now!', [(328, 'Подведем итоги')], ''),
-    ('anya', 'Шеф, вы хотите меня уволить?', 'Chef, do you want to fire me?', [(328, 'Подведем итоги твоей первой рабочей недели.')], ''),
-    ('chef', 'Подведём итоги твоей первой рабочей недели.', 'Let us sum up your first work week.', [(328, 'Подведем итоги твоей первой рабочей недели.')], ''),
-    ('chef', 'В первый день ты чуть не отравил гостя.', 'On the first day you almost poisoned a guest.', [(329, 'В первый день ты чуть не отравил человека,')], ''),
-    ('chef', 'Во второй день ты устроил драку в баре.', 'On the second day you started a brawl in the bar.', [(330, 'во второй день подрался с барменом, разгромил весь бар.')], ''),
-    ('chef', 'Ты разозлил нашего главного арт-директора.', 'You angered our chief art director.', [(331, 'Викторию Сергеевну,')], ''),
-    ('chef', 'А сегодня тебя чуть не застрелили!', 'And today you were almost shot!', [(332, 'а сегодня тебя чуть вообще не пристрелили.')], ''),
-    ('anya', 'Шеф, я обещаю работать намного лучше.', 'Chef, I promise to work much better.', [(333, 'Похоже, ты вписываешься в наш коллектив.')], ''),
-    ('chef', 'Похоже, ты отлично вписываешься в коллектив!', 'Looks like you fit right into the team!', [(333, 'Похоже, ты вписываешься в наш коллектив.')], ''),
-    ('chef', 'Пошли скорее работать на нашу кухню.', 'Let us head quickly to work in our kitchen.', [(334, 'Пошли.')], ''),
+    ('guest', 'Шеф, извините нас за этот шум.', 'Chef, excuse us for this noise.', [(321, 'Извините нас.')], ''),
+    ('guest', 'Не беспокойтесь, этот пистолет был не настоящий.', 'Do not worry, this pistol was not real.', [(323, 'это был не настоящий пистолет.')], ''),
+    ('guest', 'Вот вам щедрые деньги за эти неудобства.', 'Here is generous money for these inconveniences.', [(325, 'Вот возьмите, тут всем сотрудникам')], ''),
+    ('barinov', 'Спасибо, мы рады помочь нашим гостям.', 'Thank you, we are glad to help our guests.', [(327, 'Договорились.')], ''),
+    ('barinov', 'Огузок, иди сюда прямо сейчас!', 'Runt, come here right now!', [(328, 'Подведем итоги')], ''),
+    ('max', 'Шеф, вы хотите меня уволить?', 'Chef, do you want to fire me?', [(328, 'Подведем итоги твоей первой рабочей недели.')], ''),
+    ('barinov', 'Подведём итоги твоей первой рабочей недели.', 'Let us sum up your first work week.', [(328, 'Подведем итоги твоей первой рабочей недели.')], ''),
+    ('barinov', 'В первый день ты чуть не отравил гостя.', 'On the first day you almost poisoned a guest.', [(329, 'В первый день ты чуть не отравил человека,')], ''),
+    ('barinov', 'Во второй день ты устроил драку в баре.', 'On the second day you started a brawl in the bar.', [(330, 'во второй день подрался с барменом, разгромил весь бар.')], ''),
+    ('barinov', 'Ты разозлил нашего главного арт-директора.', 'You angered our chief art director.', [(331, 'Викторию Сергеевну,')], ''),
+    ('barinov', 'А сегодня тебя чуть не застрелили!', 'And today you were almost shot!', [(332, 'а сегодня тебя чуть вообще не пристрелили.')], ''),
+    ('max', 'Шеф, я обещаю работать намного лучше.', 'Chef, I promise to work much better.', [(333, 'Похоже, ты вписываешься в наш коллектив.')], ''),
+    ('barinov', 'Похоже, ты отлично вписываешься в коллектив!', 'Looks like you fit right into the team!', [(333, 'Похоже, ты вписываешься в наш коллектив.')], ''),
+    ('barinov', 'Пошли скорее работать на нашу кухню.', 'Let us head quickly to work in our kitchen.', [(334, 'Пошли.')], ''),
 ]
 WALK = [
     (0, None, "'Chef, excuse us for this noise.' The dining guest graciously apologizes for her companion's drunken outburst."),

@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Самсон | Привет, дорогая жена! | Hello, dear wife! | #901 00:49:59: Привет, жена | verbatim |
-| 2 | Самсон | Ну что, наш вопрос закрыт? | Well then, is our issue closed? | #902 00:50:01: Ну что<br>#904 00:50:07: Вопрос закрыт | verbatim |
-| 3 | Нина | А ты чего такой довольный? | And why are you so pleased? | #906 00:50:11: А ты чего довольный такой | verbatim |
-| 4 | Нина | Ходишь тут и песни поёшь! | You walk around here and sing songs! | #906 00:50:11: Песенки поешь | verbatim |
-| 5 | Самсон | Я рад, что у нас всё в порядке. | I am glad that everything is in order with us. | #907 00:50:14: я рад, что у нас все в порядке | verbatim |
-| 6 | Нина | Ты думаешь, у нас всё в порядке? | You think everything is fine with us? | #908 00:50:17: У нас все в порядке | verbatim |
-| 7 | Самсон | А почему ты такая грустная? | And why are you so gloomy? | #910 00:50:20: А ты чего смурная такая | verbatim |
-| 8 | Нина | Я вчера очень сильно устала. | I got very tired yesterday. | #915 00:50:37: Я с Даней мучилась | adapted: simplified from crude colloquial phrasing |
-| 9 | Самсон | Поверь мне, я тоже устал. | Believe me, I got tired too. | #918 00:50:42: Я тоже мучился | verbatim |
-| 10 | Нина | По твоему лицу этого не видно! | From your face, this is not visible! | #919 00:50:44: По тебе видно | adapted: ironic negation |
+| 1 | Самсон | Привет, дорогая жена! | Hello, dear wife! | #901: Привет, жена | verbatim |
+| 2 | Самсон | Ну что, наш вопрос закрыт? | Well then, is our issue closed? | #902: Ну что<br>#904: Вопрос закрыт | verbatim |
+| 3 | Нина | А ты чего такой довольный? | And why are you so pleased? | #906: А ты чего довольный такой | verbatim |
+| 4 | Нина | Ходишь тут и песни поёшь! | You walk around here and sing songs! | #906: Песенки поешь | verbatim |
+| 5 | Самсон | Я рад, что у нас всё в порядке. | I am glad that everything is in order with us. | #907: я рад, что у нас все в порядке | verbatim |
+| 6 | Нина | Ты думаешь, у нас всё в порядке? | You think everything is fine with us? | #908: У нас все в порядке | verbatim |
+| 7 | Самсон | А почему ты такая грустная? | And why are you so gloomy? | #910: А ты чего смурная такая | verbatim |
+| 8 | Нина | Я вчера очень сильно устала. | I got very tired yesterday. | #915: Я с Даней мучилась | adapted: simplified from crude colloquial phrasing |
+| 9 | Самсон | Поверь мне, я тоже устал. | Believe me, I got tired too. | #918: Я тоже мучился | verbatim |
+| 10 | Нина | По твоему лицу этого не видно! | From your face, this is not visible! | #919: По тебе видно | adapted: ironic negation |
 | 11 | Самсон | Давай не будем снова ссориться. | Let us not quarrel again. | new | new: Samsonov tries to keep the peace |
-| 12 | Нина | Дети, мойте руки и идите есть! | Children, wash your hands and come eat! | #922 00:50:52: Дети, идите есть | verbatim |
+| 12 | Нина | Дети, мойте руки и идите есть! | Children, wash your hands and come eat! | #922: Дети, идите есть | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

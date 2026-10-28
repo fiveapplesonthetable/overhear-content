@@ -4,32 +4,31 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 17
 SCENE = 22
-TITLE = "Бокал для шефа  (A Glass for the Chef)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Бокал для шефа  (A Glass for the Chef)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "chef": "anja", "anya": "alisa", "nastya": "angelina"}
-LABELS = {"chef": "Шеф", "anya": "Макс", "nastya": "Настя"}
+LABELS = {'barinov': 'Шеф', 'max': 'Макс', 'nastya': 'Настя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.17'
 SOURCE_FILE = 'sources/kukhnya/s01/e17.ru.dual.srt'
 INTRO = "Standing by the kitchen counter after the conflict is resolved, Chef Viktor decides it is time to properly celebrate with his staff. He asks Nastya to bring a clean glass so he can pour a celebratory drink and raise a toast with Max. Let's listen to their conversation in Russian first."
 OPENER = "Now let's examine this kitchen conversation line by line."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "With glasses in hand, Chef Viktor and the kitchen crew prepare to drink together, enjoying a rare moment of camaraderie in Claude Monet. Next time you watch the episode, listen for the Russian expressions for 'to bring' and 'clean' — you will catch every word right away. See you next time!"
-CLOSING = ("chef", "Пока!")
+CLOSING = ('barinov', 'Пока!')
 STORY = [
-    ('chef', 'Настя, принеси мне чистый бокал.', 'Nastya, bring me a clean glass.', [(326, 'принеси бокал.')], ''),
+    ('barinov', 'Настя, принеси мне чистый бокал.', 'Nastya, bring me a clean glass.', [(326, 'принеси бокал.')], ''),
     ('nastya', 'Сейчас принесу, шеф.', 'I will bring it right away, chef.', [], ''),
-    ('chef', 'Мы должны выпить за праздник.', 'We must drink to the holiday.', [], ''),
-    ('anya', 'Шеф, это очень приятно.', 'Chef, this is very pleasant.', [], ''),
-    ('chef', 'Наливай всем хорошее вино.', 'Pour good wine for everyone.', [], ''),
+    ('barinov', 'Мы должны выпить за праздник.', 'We must drink to the holiday.', [], ''),
+    ('max', 'Шеф, это очень приятно.', 'Chef, this is very pleasant.', [], ''),
+    ('barinov', 'Наливай всем хорошее вино.', 'Pour good wine for everyone.', [], ''),
     ('nastya', 'Вот ваш бокал, шеф.', 'Here is your glass, chef.', [], ''),
-    ('chef', 'Спасибо, Настя, молодец.', 'Thank you, Nastya, well done.', [], ''),
-    ('anya', 'Какой красивый бокал!', 'What a beautiful glass!', [], ''),
-    ('chef', 'Для хорошего вина нужен красивый бокал.', 'For good wine one needs a beautiful glass.', [], ''),
+    ('barinov', 'Спасибо, Настя, молодец.', 'Thank you, Nastya, well done.', [], ''),
+    ('max', 'Какой красивый бокал!', 'What a beautiful glass!', [], ''),
+    ('barinov', 'Для хорошего вина нужен красивый бокал.', 'For good wine one needs a beautiful glass.', [], ''),
     ('nastya', 'Я принесла бокалы для всех.', 'I brought glasses for everyone.', [], ''),
-    ('anya', 'Теперь у всех есть бокалы.', 'Now everyone has glasses.', [], ''),
-    ('chef', 'Поднимите ваши бокалы.', 'Raise your glasses.', [], ''),
-    ('chef', 'Давайте выпьем за дружбу!', 'Let us drink to friendship!', [], ''),
+    ('max', 'Теперь у всех есть бокалы.', 'Now everyone has glasses.', [], ''),
+    ('barinov', 'Поднимите ваши бокалы.', 'Raise your glasses.', [], ''),
+    ('barinov', 'Давайте выпьем за дружбу!', 'Let us drink to friendship!', [], ''),
 ]
 WALK = [
     (0, None, "'Nastya, bring me a clean glass.' Chef Barinov leads with the direct command form meaning 'bring', pairing it with 'clean' and 'glass'."),

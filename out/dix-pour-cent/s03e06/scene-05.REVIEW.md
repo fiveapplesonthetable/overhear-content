@@ -1,30 +1,41 @@
-# Review: `dix-pour-cent-s03e06-scene-05` — Fille de traître  (Traitor's Daughter)
+# dix-pour-cent-s03e06-scene-05: review sheet
 
-- **Source**: `sources/dix-pour-cent/s03/e06.fr.dual.srt`
-- **Level**: A1 — débutant
-- **Voices**: `{"narrator": "sky", "herve": "marcel", "noemie": "emilie", "lea": "lucie"}`
-- **Labels**: `{"herve": "Hervé", "noemie": "Noémie", "lea": "Andréa"}`
+Title: Fille de traître  (Traitor's Daughter)
+Level: A1 — débutant
+Pair: fr-en
+Source: Dix pour cent (Call My Agent!) S03E06
 
-## Part 1 — Intro
-> At the ASK agency, tensions flare between assistants and junior agents ahead of the thirtieth anniversary gala. Camille, Noemie, and Herve argue about betrayal and family loyalty before putting differences aside to clean the office. Let's listen to their exchange in French first.
 
-## Part 2 — Story Lines
-| # | Role | French | English | Source Cues |
-|---|------|--------|---------|-------------|
-| 0 | `lea` (Andréa) | Fille de traître, voilà ce qu'il pense. | Traitor | 343:Fille de traître, c'est ça qu'il aurait dû écrire. |
-| 1 | `noemie` (Noémie) | Il faut parfois se salir les mains. | One must sometimes get one | 345:faut savoir se salir les mains |
-| 2 | `herve` (Hervé) | Tu es pathétique à le défendre ainsi! | You are pathetic defending him like that! | 348:Tu sais que tu deviens pathétique |
-| 3 | `noemie` (Noémie) | Et vous avec vos petites manigances? | And what about you with your little schemes? | 349:avec vos petites bidouilles. |
-| 4 | `noemie` (Noémie) | On a tous un cadavre dans le placard! | We all have a skeleton in the closet! | 350:un petit cadavre dans le placard |
-| 5 | `herve` (Hervé) | Mais nous n'avons trahi personne! | But we never betrayed anyone! | 352:nous, on a trahi personne. |
-| 6 | `lea` (Andréa) | Moi, je croyais que nous étions amis. | I believed that we were friends. | 355:Je croyais qu'on était amis. |
-| 7 | `noemie` (Noémie) | Mathias cherche seulement à sauver son avenir. | Mathias is only looking to save his future. | 345:accomplir de grandes choses |
-| 8 | `herve` (Hervé) | Il n'y a plus rien à dire. | There is nothing left to say. | 358:il y a plus rien à dire. |
-| 9 | `herve` (Hervé) | C'est à moi de tout ranger ici. | It is up to me to tidy up everything here. | 360:C'est à moi de m'en occuper. |
-| 10 | `lea` (Andréa) | Attends Hervé, nous allons t'aider. | Wait Herve, we are going to help you. | 362:On va t'aider. |
-| 11 | `noemie` (Noémie) | Oui, préparons cette soirée ensemble. | Yes, let | 359:Allez-y, les filles. |
-| 12 | `herve` (Hervé) | Merci les filles, rangeons ces dossiers. | Thank you ladies, let | 362:On va t'aider. |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 5 — Outro & Closing
-> That's it for this scene around traitor's daughter. When you watch the episode, listen out for the expressions meaning 'daughter' and 'traitor'. You'll catch them now. See you next time!
-- **Closing**: `herve`: *Bonne journée!*
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+|---|---|---|---|---|---|
+| 1 | Camille | Fille de traître, voilà ce qu'il pense. | Traitor | #343: Fille de traître, c'est ça qu'il aurait dû écrire. | verbatim |
+| 2 | Noémie | Il faut parfois se salir les mains. | One must sometimes get one | #345: faut savoir se salir les mains | verbatim |
+| 3 | Hervé | Tu es pathétique à le défendre ainsi! | You are pathetic defending him like that! | #348: Tu sais que tu deviens pathétique | verbatim |
+| 4 | Noémie | Et vous avec vos petites manigances? | And what about you with your little schemes? | #349: avec vos petites bidouilles. | verbatim |
+| 5 | Noémie | On a tous un cadavre dans le placard! | We all have a skeleton in the closet! | #350: un petit cadavre dans le placard | verbatim |
+| 6 | Hervé | Mais nous n'avons trahi personne! | But we never betrayed anyone! | #352: nous, on a trahi personne. | verbatim |
+| 7 | Camille | Moi, je croyais que nous étions amis. | I believed that we were friends. | #355: Je croyais qu'on était amis. | verbatim |
+| 8 | Noémie | Mathias cherche seulement à sauver son avenir. | Mathias is only looking to save his future. | #345: accomplir de grandes choses | verbatim |
+| 9 | Hervé | Il n'y a plus rien à dire. | There is nothing left to say. | #358: il y a plus rien à dire. | verbatim |
+| 10 | Hervé | C'est à moi de tout ranger ici. | It is up to me to tidy up everything here. | #360: C'est à moi de m'en occuper. | verbatim |
+| 11 | Camille | Attends Hervé, nous allons t'aider. | Wait Herve, we are going to help you. | #362: On va t'aider. | verbatim |
+| 12 | Noémie | Oui, préparons cette soirée ensemble. | Yes, let | #359: Allez-y, les filles. | verbatim |
+| 13 | Hervé | Merci les filles, rangeons ces dossiers. | Thank you ladies, let | #362: On va t'aider. | verbatim |
+
+## Walk-through narration (English only, no target-language words quoted)
+
+- 'Traitor's daughter, that is what he thinks.' Camille feels stung by office accusations against her father. In spoken French, the little word before 'thinks.' drops its final vowel and attaches with an apostrophe.
+- 'One must sometimes get one's hands dirty.' Noemie defends Mathias's aggressive maneuvers to secure his position. The short 'self' word sits right in front of the verb for 'must', turning the action back onto the subject.
+- 'You are pathetic defending him like that!' Herve criticizes Noemie's unconditional loyalty to Mathias. The clause hinges on the everyday verb meaning 'defending'.
+- 'And what about you with your little schemes?' Noemie reminds Herve of the junior agents' own plotting. The formal 'you' pronoun sets a courteous, professional distance around 'schemes?'.
+- 'We all have a skeleton in the closet!' Noemie points out that nobody at ASK is completely blameless. Notice how 'have' leads directly into the noun meaning 'skeleton'.
+- 'But we never betrayed anyone!' Herve insists on a moral distinction between their actions and Mathias's buyout. The two-part French negation brackets the verb for 'have' on both sides.
+- 'I believed that we were friends.' Camille laments the damage done to their close workplace friendships. Notice how 'thought' leads directly into the noun meaning 'friends.'.
+- 'Mathias is only looking to save his future.' Noemie explains Mathias's motivations under heavy pressure. The verb meaning 'is seeking' pairs naturally with the noun for 'future.' in everyday conversation.
+- 'There is nothing left to say.' Herve attempts to end the painful argument. In spoken French, the little word before 'say.' drops its final vowel and attaches with an apostrophe.
+- 'It is up to me to tidy up everything here.' Herve prepares to clean the messy offices alone. The clause hinges on the everyday verb meaning 'it is'.
+- 'Wait Herve, we are going to help you.' Camille refuses to let her friend clean in isolation. Camille uses the casual singular 'you' with 'wait', showing close familiarity.
+- 'Yes, let's prepare this evening together.' Noemie joins in solidarity before the arrival of guests. The verb meaning 'let's prepare' pairs naturally with the noun for 'party' in everyday conversation.
+- 'Thank you ladies, let's put away these files.' Herve accepts their help with genuine relief. Notice how 'let's put away' leads directly into the noun meaning 'girls'.

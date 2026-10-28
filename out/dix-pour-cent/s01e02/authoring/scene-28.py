@@ -7,8 +7,7 @@ SCENE = 28
 TITLE = "Toute la famille est là  (The Whole Family's Here)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'hippolyte': 'theo', 'camille': 'emilie', 'mathias': 'marcel'}
-LABELS = {'hippolyte': 'Hippolyte', 'camille': 'Camille', 'mathias': 'Mathias'}
+LABELS = {'camille': 'Camille', 'hippolyte': 'Hippolyte', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e02.fr.dual.srt'
 INTRO = "They arrived late, and Hippolyte's mother, Catherine, is scolding him for running through the cemetery. Camille doesn't know these people yet. In a minute she will, and she won't like what she finds out. Listen to it in French first; you don't need every word to feel the shock."
@@ -39,7 +38,7 @@ WALK = [
     (1, None, "'This is Catherine, my mother.' The first word is the one you use to present someone: 'here is'. Camille greets her politely."),
     (2, None, "'Hello.' The second word is the polite way to address a woman, and Catherine is older and a stranger. Now it's Camille's turn to be introduced."),
     (3, None, "'This is Camille, Andréa's new assistant.' To say whose assistant, French says 'the assistant of Andréa'. There's no apostrophe-s. Then a bit of family history."),
-    (4, None, "'My father worked with Samuel for fifteen years.' Camille hears it, but doesn't connect the dots yet. And right then, someone walks up."),
+    (4, None, "'My father worked with Samuel for fifteen years.' In response, Camille hears it, but doesn't connect the dots yet. And right then, someone walks up."),
     (5, None, "'Speak of the devil… Dad!' The French saying is literally 'when you talk about the wolf'. And the wolf is Mathias."),
     (6, None, "'Your father is Mathias?' Word for word: 'your father, it's Mathias?' This is the moment Camille understands. Mathias is her father too, so Hippolyte, the boy she kissed last night, is her half-brother."),
     (7, None, "'The whole family's here now.' Mathias says it to be polite, but for Camille it hurts: she's part of this family, and nobody here knows it except him."),

@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Шеф | Всё, я поставил. | That's it, I placed my bet. | #205 00:13:55: Все, я поставил | verbatim |
-| 2 | Елена | Витя, ты что, пил всю ночь? | Vitya, were you drinking all night? | #207 00:14:12: Витя, ты что, пил всю ночь | verbatim |
-| 3 | Шеф | Пил. Я столько проиграл, что надо было выпить. | I drank. I lost so much that I had to have a drink. | #208 00:14:16: Пил<br>#209 00:14:18: Я столько проиграл, что надо было выпить | adapted: adapted |
-| 4 | Елена | То есть ты ещё и играл? | So you were gambling too? | #210 00:14:22: То есть ты еще играл | adapted: adapted |
-| 5 | Шеф | Ну, в этом как раз ты виновата. | Well, you are the one to blame for that. | #211 00:14:24: Ну, в этом как раз ты виновата | verbatim |
-| 6 | Шеф | Подарила мне этого слона несчастного. | You gave me that wretched elephant. | #212 00:14:27: Подарила мне этого слона несчастного | verbatim |
-| 7 | Елена | То есть я ещё и виновата? | So I am to blame too? | #213 00:14:30: То есть я еще и виновата | verbatim |
-| 8 | Елена | Хорошо, придёшь в себя — мы поговорим. | Fine, when you come to your senses, we will talk. | #214 00:14:32: Хорошо, придешь<br>#214 00:14:32: мы поговорим | adapted: adapted |
-| 9 | Шеф | Лена, ну не ты виновата, а слон этот, которого я потерял! | Lena, well you aren't to blame, it's that elephant that I lost! | #215 00:14:37: не ты виновата<br>#216 00:14:40: а слон этот<br>#217 00:14:43: которого я потерял | adapted: adapted |
-| 10 | Шеф | Тебя что, вернули? Да нет, я за расчётом пришёл. | What, did they rehire you? No, I came for my final pay. | #219 00:15:19: тебя что вернули<br>#220 00:15:22: я за расчетом пришел | adapted: adapted |
-| 11 | Шеф | Всем привет! Ты не переживай. | Hello everyone! Don't you worry. | #220 00:15:22: Всем привет<br>#221 00:15:25: ты не переживай | adapted: adapted |
-| 12 | Шеф | Нагиев уже два дня Катину химию ест, ему недолго осталось. | Nagiyev has been eating Katya's molecular food for two days now. | #222 00:15:27: Нагиев уже два дня<br>#222 00:15:27: ему недолго осталось | adapted: adapted |
+| 1 | Шеф | Всё, я поставил. | That's it, I placed my bet. | #205: Все, я поставил | verbatim |
+| 2 | Елена | Витя, ты что, пил всю ночь? | Vitya, were you drinking all night? | #207: Витя, ты что, пил всю ночь | verbatim |
+| 3 | Шеф | Пил. Я столько проиграл, что надо было выпить. | I drank. I lost so much that I had to have a drink. | #208: Пил<br>#209: Я столько проиграл, что надо было выпить | adapted: adapted |
+| 4 | Елена | То есть ты ещё и играл? | So you were gambling too? | #210: То есть ты еще играл | adapted: adapted |
+| 5 | Шеф | Ну, в этом как раз ты виновата. | Well, you are the one to blame for that. | #211: Ну, в этом как раз ты виновата | verbatim |
+| 6 | Шеф | Подарила мне этого слона несчастного. | You gave me that wretched elephant. | #212: Подарила мне этого слона несчастного | verbatim |
+| 7 | Елена | То есть я ещё и виновата? | So I am to blame too? | #213: То есть я еще и виновата | verbatim |
+| 8 | Елена | Хорошо, придёшь в себя — мы поговорим. | Fine, when you come to your senses, we will talk. | #214: Хорошо, придешь<br>#214: мы поговорим | adapted: adapted |
+| 9 | Шеф | Лена, ну не ты виновата, а слон этот, которого я потерял! | Lena, well you aren't to blame, it's that elephant that I lost! | #215: не ты виновата<br>#216: а слон этот<br>#217: которого я потерял | adapted: adapted |
+| 10 | Илья | Тебя что, вернули? Да нет, я за расчётом пришёл. | What, did they rehire you? No, I came for my final pay. | #219: тебя что вернули<br>#220: я за расчетом пришел | adapted: adapted |
+| 11 | Илья | Всем привет! Ты не переживай. | Hello everyone! Don't you worry. | #220: Всем привет<br>#221: ты не переживай | adapted: adapted |
+| 12 | Илья | Нагиев уже два дня Катину химию ест, ему недолго осталось. | Nagiyev has been eating Katya's molecular food for two days now. | #222: Нагиев уже два дня<br>#222: ему недолго осталось | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'That's it, I placed my bet.' Notice how Russian expresses 'everything' and 'bet' with crisp inflection rather than helper words. Elena answers right away.
-- 'Vitya, were you drinking all night?' Elena brings out the contrast between 'Vitya' and 'you' in a few short words.
-- 'I drank. I lost so much that I had to have a drink.' The meaning hinges on 'drank' working together with 'to drink' in spoken Russian.
-- 'So you were gambling too?' The meaning hinges on 'that' working together with 'played' in spoken Russian. Chef Barinov answers right away.
-- 'Well, you are the one to blame for that.' Chef Barinov brings out the contrast between 'come on' and 'this' in a few short words.
-- 'You gave me that wretched elephant.' In Russian, the idea of 'gave as a gift' flows naturally into 'wretched' without extra filler words.
-- 'So I am to blame too?' Spoken Russian keeps this brisk, leaning on 'that' and finishing on 'guilty'.
-- 'Fine, when you come to your senses, we will talk.' Notice how Russian expresses 'well' and 'talk' with crisp inflection rather than helper words.
-- 'Lena, well you aren't to blame, it's that elephant that I lost!' The meaning hinges on 'Lena' working together with 'lost' in spoken Russian.
-- 'What, did they rehire you? No, I came for my final pay.' Ilya pairs 'brought back, rehired' with 'arrived' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
-- 'Hello everyone! Don't you worry.' The meaning hinges on 'to everyone' working together with 'to worry' in spoken Russian.
-- 'Nagiyev has been eating Katya's molecular food for two days now.' Here Ilya anchors the thought on 'already, now' and finishes on 'was left', keeping the spoken rhythm brisk and natural.
+- 'That's it, I placed my bet.' Mentioning that that is it he placed his bet moves the talk in a new direction.
+- 'Vitya, were you drinking all night?' By checking whether Barinov drinking all night, Elena presses Barinov for a straight answer.
+- 'I drank. I lost so much that I had to have a drink.' Because he lost so much that he had to have a drink, Barinov treats the matter as settled. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
+- 'So you were gambling too?' When Elena asks if Barinov was gambling, Barinov has to answer fast. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Well, you are the one to blame for that.' Barinov mentions that Elena is the one to blame so Elena sees what is at stake.
+- 'You gave me that wretched elephant.' Claiming that Elena gave him that wretched elephant sounds confident, even if Elena has doubts.
+- 'So I am to blame too?' Elena asks whether she is to blame, refusing to let the point slide. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Fine, when you come to your senses, we will talk.' Elena explains that fine when Barinov comes to Barinov's senses they will talk, keeping her voice calm and direct.
+- 'Lena, well you aren't to blame, it's that elephant that I lost!' Declaring that someone well Elena is not to blame it is that elephant that he lost brings Barinov's temper right to the surface. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'What, did they rehire you? No, I came for my final pay.' By wondering what they rehire Barinov, Ilya presses Barinov for a straight answer. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Hello everyone! Don't you worry.' Saying that do not Barinov worries is how Ilya takes charge of the moment.
+- 'Nagiyev has been eating Katya's molecular food for two days now.' Admitting that Nagiyev has been eating Katya molecular food for two days now shows Ilya being honest for a change.

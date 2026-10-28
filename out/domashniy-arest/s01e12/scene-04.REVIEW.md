@@ -10,17 +10,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Паша | В новостях снова говорят про выборы. | The news is talking about the elections again. | #74 00:07:40: Выборная эпопея в Синеозерске продолжается | adapted: adapted |
-| 2 | Паша | Кто-то опубликовал секретное видео в интернете! | Someone published a secret video on the internet! | #75 00:08:01: Опубликованные сегодня кадры с камер наблюдения | adapted: adapted |
-| 3 | Вика | Это же кадры из твоего кабинета! | These are clips from your office! | #75 00:08:01: в кабинете мэра | adapted: adapted |
-| 4 | Паша | Я совсем забыл про скрытую камеру. | I completely forgot about the hidden camera. | #80 00:08:11: Я забыл совсем, что у меня там камера | adapted: adapted |
-| 5 | Вика | Зачем ты вообще её туда поставил? | Why did you put it there in the first place? | #81 00:08:14: Ее год назад поставил | adapted: adapted |
-| 6 | Паша | Я хотел поймать воров на работе. | I wanted to catch thieves at work. | #81 00:08:14: чтобы узнать, кто мне какая ворует | adapted: adapted |
-| 7 | Вика | Теперь над нами смеётся весь город! | Now the whole city is laughing at us! | #77 00:08:06: повеселили пользователей интернета | adapted: adapted |
-| 8 | Паша | Нам нужно срочно что-то придумать. | We need to come up with something urgently. | #83 00:08:30: Надо что-то делать | adapted: adapted |
-| 9 | Вика | Здесь больше нечего ловить, Паша. | There is nothing left to gain here, Pasha. | #88 00:08:50: Больше здесь ловить нечего | verbatim |
-| 10 | Паша | Вика, куда ты сейчас собираешься? | Vika, where are you going right now? | #87 00:08:47: А ты куда собралась-то | verbatim |
-| 11 | Вика | Я собираю свои вещи и ухожу. | I am packing my things and leaving. | #89 00:08:52: Уйди | adapted: adapted |
+| 1 | Паша | В новостях снова говорят про выборы. | The news is talking about the elections again. | #74: Выборная эпопея в Синеозерске продолжается | adapted: adapted |
+| 2 | Паша | Кто-то опубликовал секретное видео в интернете! | Someone published a secret video on the internet! | #75: Опубликованные сегодня кадры с камер наблюдения | adapted: adapted |
+| 3 | Вика | Это же кадры из твоего кабинета! | These are clips from your office! | #75: в кабинете мэра | adapted: adapted |
+| 4 | Паша | Я совсем забыл про скрытую камеру. | I completely forgot about the hidden camera. | #80: Я забыл совсем, что у меня там камера | adapted: adapted |
+| 5 | Вика | Зачем ты вообще её туда поставил? | Why did you put it there in the first place? | #81: Ее год назад поставил | adapted: adapted |
+| 6 | Паша | Я хотел поймать воров на работе. | I wanted to catch thieves at work. | #81: чтобы узнать, кто мне какая ворует | adapted: adapted |
+| 7 | Вика | Теперь над нами смеётся весь город! | Now the whole city is laughing at us! | #77: повеселили пользователей интернета | adapted: adapted |
+| 8 | Паша | Нам нужно срочно что-то придумать. | We need to come up with something urgently. | #83: Надо что-то делать | adapted: adapted |
+| 9 | Вика | Здесь больше нечего ловить, Паша. | There is nothing left to gain here, Pasha. | #88: Больше здесь ловить нечего | verbatim |
+| 10 | Паша | Вика, куда ты сейчас собираешься? | Vika, where are you going right now? | #87: А ты куда собралась-то | verbatim |
+| 11 | Вика | Я собираю свои вещи и ухожу. | I am packing my things and leaving. | #89: Уйди | adapted: adapted |
 | 12 | Паша | Пожалуйста, не бросай меня одного! | Please don't abandon me alone! | new | new: new |
 | 13 | Вика | Твоя политическая карьера уже закончилась. | Your political career is already over. | new | new: new |
 

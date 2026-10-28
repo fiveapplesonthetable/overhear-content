@@ -8,14 +8,10 @@
  "scene": 6,
  "title": "Девичник вдвоём  (Girls' Night for Two)",
  "level": "A1 — Duolingo Section 2",
- "voices": {
-  "narrator": "sky",
-  "nastya": "angelina",
-  "chef": "anja"
- },
  "labels": {
-  "nastya": "Настя",
-  "chef": "Шеф"
+  "barinov": "Шеф",
+  "lyova": "Лёва",
+  "nastya": "Настя"
  },
  "segments": [
   {
@@ -24,32 +20,32 @@
    "gap": 0.8
   },
   {
-   "v": "nastya",
+   "v": "lyova",
    "t": "Шеф, может, не стоило Елену обманывать?",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Чтобы она совсем запретила мне работать?",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Понимаешь, Лёва, тут дело очень тонкое.",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Важно успеть сделать в жизни побольше.",
    "gap": 0.55
   },
   {
-   "v": "nastya",
+   "v": "lyova",
    "t": "Врачи говорят, что он сильно болеет.",
    "gap": 0.55
   },
   {
-   "v": "nastya",
+   "v": "lyova",
    "t": "Он может умереть в любой момент.",
    "gap": 0.55
   },
@@ -59,7 +55,7 @@
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Сегодня вечером будем только мы вдвоём.",
    "gap": 0.55
   },
@@ -79,7 +75,7 @@
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Ладно, давай закажем себе по коктейлю.",
    "gap": 0.9
   },
@@ -89,63 +85,63 @@
    "gap": 0.4
   },
   {
-   "v": "nastya",
+   "v": "lyova",
    "t": "Шеф, может, не стоило Елену обманывать?",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Chef, maybe you should not have deceived Elena?' In Russian, the idea of 'Chef Barinov' flows naturally into 'to deceive' without extra filler words. Chef Barinov answers right away.",
+   "t": "'Chef, maybe you should not have deceived Elena?' Wondering if maybe Barinov should not have deceived Elena shows Lyova caught off guard. In Russian, he does not need helper words like \"do\" or \"did\"—rising pitch alone turns it into a question.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Чтобы она совсем запретила мне работать?",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'So that she would forbid me from working altogether?' Spoken Russian keeps this brisk, leaning on 'so that' and finishing on 'to work'.",
+   "t": "'So that she would forbid me from working altogether?' Wondering if that she would forbid him from working altogether shows Barinov caught off guard.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Понимаешь, Лёва, тут дело очень тонкое.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'You understand, Lyova, this is a very delicate matter.' In Russian, the idea of 'to understand' flows naturally into 'thin' without extra filler words.",
+   "t": "'You understand, Lyova, this is a very delicate matter.' Claiming that Lyova understands Lyova this is a very delicate matter sounds confident, even if Lyova has doubts.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Важно успеть сделать в жизни побольше.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'It is important to manage to do more in life.' Spoken Russian keeps this brisk, leaning on 'important' and finishing on 'a bit more'. Lyova answers right away.",
+   "t": "'It is important to manage to do more in life.' Pointing out that it is important to manage to do more in life gives Lyova a sobering reality check.",
    "gap": 0.4
   },
   {
-   "v": "nastya",
+   "v": "lyova",
    "t": "Врачи говорят, что он сильно болеет.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'The doctors say that he is seriously ill.' Notice how Russian expresses 'doctor' and 'is ill' with crisp inflection rather than helper words.",
+   "t": "'The doctors say that he is seriously ill.' Lyova explains that the doctors say that he is seriously ill, keeping his voice calm and direct.",
    "gap": 0.4
   },
   {
-   "v": "nastya",
+   "v": "lyova",
    "t": "Он может умереть в любой момент.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'He could die at any moment.' Here the Russian phrasing highlights 'he' before landing on 'moment'.",
+   "t": "'He could die at any moment.' Realizing that he could die at any moment changes how Lyova handles the situation.",
    "gap": 0.4
   },
   {
@@ -155,17 +151,17 @@
   },
   {
    "v": "narrator",
-   "t": "'And who else of the girls will be here today?' Spoken Russian keeps this brisk, leaning on 'and' and finishing on 'will be'. Chef Barinov answers right away.",
+   "t": "'And who else of the girls will be here today?' Wondering if who else of the girls will be here today shows Nastya caught off guard. In Russian, she does not need helper words like \"do\" or \"did\"—rising pitch alone turns it into a question.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Сегодня вечером будем только мы вдвоём.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Tonight it will be just the two of us.' Chef Barinov anchors the line on 'tonight', while 'the two of us' completes the thought.",
+   "t": "'Tonight it will be just the two of us.' Even though tonight it will be just the two of them, Barinov keeps a steady face in front of Lyova.",
    "gap": 0.4
   },
   {
@@ -175,7 +171,7 @@
   },
   {
    "v": "narrator",
-   "t": "'Can you imagine, at the last moment everyone changed their minds.' The grammar packs 'imagine' and 'to change one's mind' into a tight, idiomatic kitchen exchange.",
+   "t": "'Can you imagine, at the last moment everyone changed their minds.' Admitting that can Barinov imagines at the last moment everyone changed their minds shows Nastya being honest for a change.",
    "gap": 0.4
   },
   {
@@ -185,7 +181,7 @@
   },
   {
    "v": "narrator",
-   "t": "'Girls are such unreliable people.' The meaning hinges on 'such' working together with 'girl' in spoken Russian.",
+   "t": "'Girls are such unreliable people.' Saying that girls are such unreliable people is how Nastya sets the tone with Barinov.",
    "gap": 0.4
   },
   {
@@ -195,46 +191,46 @@
   },
   {
    "v": "narrator",
-   "t": "'That is fine, the two of us will have a great time together!' In Russian, the idea of 'nothing' flows naturally into 'sit a while' without extra filler words.",
+   "t": "'That is fine, the two of us will have a great time together!' Because that is fine the two of them will have a great time together, Nastya does not bother softening the blow for Barinov.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Ладно, давай закажем себе по коктейлю.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Alright, let us order ourselves a cocktail each.' Spoken Russian keeps this brisk, leaning on 'all right' and finishing on 'cocktail'. Alright, let's hear the entire conversation one more time from start to finish.",
+   "t": "'Alright, let us order ourselves a cocktail each.' Adding that Alright let them order themselves a cocktail each fills in the missing piece for Lyova. Starting with \"davay\" is the everyday Russian way to say \"come on, let us do this\". Alright, let's hear the entire conversation one more time from start to finish.",
    "gap": 0.9
   },
   {
-   "v": "nastya",
+   "v": "lyova",
    "t": "Шеф, может, не стоило Елену обманывать?",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Чтобы она совсем запретила мне работать?",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Понимаешь, Лёва, тут дело очень тонкое.",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Важно успеть сделать в жизни побольше.",
    "gap": 0.5
   },
   {
-   "v": "nastya",
+   "v": "lyova",
    "t": "Врачи говорят, что он сильно болеет.",
    "gap": 0.5
   },
   {
-   "v": "nastya",
+   "v": "lyova",
    "t": "Он может умереть в любой момент.",
    "gap": 0.5
   },
@@ -244,7 +240,7 @@
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Сегодня вечером будем только мы вдвоём.",
    "gap": 0.5
   },
@@ -264,7 +260,7 @@
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Ладно, давай закажем себе по коктейлю.",
    "gap": 0.9
   },

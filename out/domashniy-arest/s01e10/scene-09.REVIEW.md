@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Нина | Кто мне вставит нитку в иголку? | Who will thread the needle for me? | #259 00:14:25: вставит<br>#258 00:14:21: нитку в иголку | verbatim |
-| 2 | Нина | Вот папа нам сейчас и поможет. | Dad will help us right now. | #259 00:14:25: А вот папа и вставит | verbatim |
-| 3 | Самсон | Давай сюда, я быстро вставлю. | Give it here, I will thread it quickly. | #260 00:14:27: Ну да | verbatim |
-| 4 | Нина | Сегодня как раз твоя очередь помогать. | Today is precisely your turn to help. | #261 00:14:29: Сегодня же папина очередь | verbatim |
+| 1 | Нина | Кто мне вставит нитку в иголку? | Who will thread the needle for me? | #259: вставит<br>#258: нитку в иголку | verbatim |
+| 2 | Нина | Вот папа нам сейчас и поможет. | Dad will help us right now. | #259: А вот папа и вставит | verbatim |
+| 3 | Самсон | Давай сюда, я быстро вставлю. | Give it here, I will thread it quickly. | #260: Ну да | verbatim |
+| 4 | Нина | Сегодня как раз твоя очередь помогать. | Today is precisely your turn to help. | #261: Сегодня же папина очередь | verbatim |
 | 5 | Самсон | Ну вот, нитка уже на месте. | Well, the thread is already in place. | new | new: Samsonov threads the needle |
-| 6 | Нина | Спасибо. А как тебе костюм? | Thanks. And how do you like the costume? | #262 00:14:33: Ну как тебе | verbatim |
-| 7 | Самсон | Сверху костюм выглядит просто супер! | On top the costume looks simply super! | #263 00:14:38: Сверху вообще супер | verbatim |
-| 8 | Нина | А снизу я бы немного изменила. | And on the bottom I would change a bit. | #264 00:14:40: А снизу я бы, конечно, изменила | verbatim |
+| 6 | Нина | Спасибо. А как тебе костюм? | Thanks. And how do you like the costume? | #262: Ну как тебе | verbatim |
+| 7 | Самсон | Сверху костюм выглядит просто супер! | On top the costume looks simply super! | #263: Сверху вообще супер | verbatim |
+| 8 | Нина | А снизу я бы немного изменила. | And on the bottom I would change a bit. | #264: А снизу я бы, конечно, изменила | verbatim |
 | 9 | Самсон | Зачем там что-то менять? | Why change anything there? | new | new: Samsonov asks why alter it |
-| 10 | Нина | Совсем чуть-чуть, самую малость. | Just a tiny bit, the bare minimum. | #265 00:14:43: Но чуть-чуть<br>#266 00:14:45: Самой малость | verbatim |
+| 10 | Нина | Совсем чуть-чуть, самую малость. | Just a tiny bit, the bare minimum. | #265: Но чуть-чуть<br>#266: Самой малость | verbatim |
 | 11 | Самсон | Штаны слишком длинные для Славика? | Are the pants too long for Slavik? | new | new: checking fit |
-| 12 | Нина | Да, надо подогнуть разок-другой. | Yes, need to hem it a time or two. | #267 00:14:47: Разок-другой | verbatim |
+| 12 | Нина | Да, надо подогнуть разок-другой. | Yes, need to hem it a time or two. | #267: Разок-другой | verbatim |
 | 13 | Самсон | Главное, чтобы дети хорошо выступили. | The main thing is that the children perform well. | new | new: focus on performance |
 | 14 | Нина | Мы сделаем всё красиво, не волнуйся. | We will make everything beautiful, don't worry. | new | new: reassurance |
 

@@ -7,8 +7,7 @@ SCENE = 9
 TITLE = "Le trac du chef  (The Chef's Stage Fright)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'jose': 'theo', 'lea': 'lucie'}
-LABELS = {'jose': 'José', 'lea': 'Andréa'}
+LABELS = {'andrea': 'Andréa', 'jose': 'José'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e03.fr.dual.srt'
 INTRO = "On a movie set where he plays a temperamental restaurant chef, Jose Garcia experiences severe stage fright. After botching a dozen takes in his chef apron, Jose confesses to his agent Andrea that he feels paralyzed around his co-star Laurence. Andrea listens to his worries before delivering an astonishing piece of news. Let's listen to their conversation in French first."
@@ -18,19 +17,19 @@ OUTRO = "Relieved to learn that Laurence stood him up twenty years ago just as h
 CLOSING = ('jose', 'Au revoir!')
 STORY = [
     ('jose', "Je rate toutes mes prises aujourd'hui.", 'I mess up all my takes today.', [(348, "C'est la 12e prise qu'il rate")], ''),
-    ('lea', 'Calme-toi José, respire un grand coup.', 'Calm down Jose, take a deep breath.', [(351, '-José'), (354, 'OK ?')], ''),
+    ('andrea', 'Calme-toi José, respire un grand coup.', 'Calm down Jose, take a deep breath.', [(351, '-José'), (354, 'OK ?')], ''),
     ('jose', "J'oublie mon texte à chaque fois!", 'I forget my lines every time!', [(349, 'il oublie son texte')], ''),
-    ('lea', 'Tu dois juste crier sur ta brigade.', 'You must just shout at your brigade.', [(352, 'Tu dois leur crier dessus')], ''),
+    ('andrea', 'Tu dois juste crier sur ta brigade.', 'You must just shout at your brigade.', [(352, 'Tu dois leur crier dessus')], ''),
     ('jose', "Je n'y arrive pas avec Laurence.", 'I cannot manage with Laurence.', [(379, 'Il va bien ?')], ''),
-    ('lea', 'Tu penses encore à cette histoire?', 'Are you still thinking about that story?', [(382, 'votre liaison il y a 20 ans')], ''),
+    ('andrea', 'Tu penses encore à cette histoire?', 'Are you still thinking about that story?', [(382, 'votre liaison il y a 20 ans')], ''),
     ('jose', "Nous devions nous retrouver à l'hôtel.", 'We were supposed to meet at the hotel.', [(387, "À l'hôtel, il y a 20 ans")], ''),
-    ('lea', "C'était il y a vingt ans!", 'That was twenty years ago!', [(382, 'il y a 20 ans')], ''),
+    ('andrea', "C'était il y a vingt ans!", 'That was twenty years ago!', [(382, 'il y a 20 ans')], ''),
     ('jose', 'Je me sens toujours très coupable.', 'I still feel very guilty.', [(386, 'il se sent coupable')], ''),
-    ('lea', "J'ai parlé avec Laurence tout à l'heure.", 'I spoke with Laurence just earlier.', [(378, 'Je suis Andréa Martel')], ''),
+    ('andrea', "J'ai parlé avec Laurence tout à l'heure.", 'I spoke with Laurence just earlier.', [(378, 'Je suis Andréa Martel')], ''),
     ('jose', "Qu'est-ce qu'elle a dit sur moi?", 'What did she say about me?', [(388, 'de savoir que vous ne lui en voulez pas')], ''),
-    ('lea', "Elle n'est pas allée à l'hôtel!", 'She did not go to the hotel!', [(394, "Moi non plus, je ne suis pas allée à l'hôtel")], ''),
+    ('andrea', "Elle n'est pas allée à l'hôtel!", 'She did not go to the hotel!', [(394, "Moi non plus, je ne suis pas allée à l'hôtel")], ''),
     ('jose', "Elle m'a posé un lapin aussi?", 'She stood me up too?', [(397, 'Vous vous êtes posé un lapin')], ''),
-    ('lea', 'Oui, vous êtes quittes tous les deux!', 'Yes, you are both even now!', [(398, 'On peut dire ça comme ça')], ''),
+    ('andrea', 'Oui, vous êtes quittes tous les deux!', 'Yes, you are both even now!', [(398, 'On peut dire ça comme ça')], ''),
 ]
 WALK = [
     (0, None, "'I mess up all my takes today.' Jose despairs over his disastrous performance on set. In spoken French, the little word before 'mess up' drops its final vowel and attaches with an apostrophe."),

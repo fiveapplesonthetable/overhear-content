@@ -10,20 +10,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Губернатор | Степаныч, я скоро стану федеральным министром! | Stepanych, I will soon become a federal minister! | #686 00:55:04: Я буду министром. | verbatim |
-| 2 | Степаныч | Какое именно министерство ты возглавишь? | What ministry specifically will you head? | #687 00:55:06: Каким? | verbatim |
-| 3 | Губернатор | Министерство рыбного хозяйства всей страны! | The ministry of fisheries of the whole country! | #688 00:55:10: Рыбного хозяйства. | verbatim |
-| 4 | Степаныч | Вот это да, настоящая удача! | Well look at that, real good luck! | #691 00:55:15: Вот это да. | verbatim |
-| 5 | Степаныч | Такого подарка даже я не ожидал. | Even I did not expect such a gift. | #692 00:55:17: Такого даже я не ожидал. | verbatim |
-| 6 | Степаныч | Я от всей души поздравляю тебя. | I congratulate you from all my heart. | #693 00:55:18: я поздравляю | verbatim |
-| 7 | Степаныч | Это же настоящее золотое дно! | This is a real gold mine after all! | #693 00:55:18: это же золотое дно. | verbatim |
-| 8 | Губернатор | Да, это открывает огромные возможности. | Yes, this opens huge opportunities. | #694 00:55:23: Да. | verbatim |
-| 9 | Степаныч | Теперь мы решим абсолютно все проблемы. | Now we will solve absolutely all problems. | new | new |
-| 10 | Губернатор | Сначала надо закончить важное дело. | First one must finish an important matter. | #701 00:55:35: Сначала надо дела доделать, потом. | verbatim |
-| 11 | Степаныч | Мы едем прямо сейчас? | Are we going right now? | #702 00:55:39: Все, поехали. | verbatim |
-| 12 | Губернатор | Да, поехали немедленно в резиденцию. | Yes, let's go to the residence immediately. | #702 00:55:39: Все, поехали. | verbatim |
-| 13 | Степаныч | Куда именно мы сейчас направляемся? | Where exactly are we heading right now? | #703 00:55:41: Куда? | verbatim |
-| 14 | Губернатор | Пора обозначиться перед влиятельными людьми. | It is time to make our move before influential people. | #704 00:55:42: Обозначаться. | verbatim |
+| 1 | Губернатор | Степаныч, я скоро стану федеральным министром! | Stepanych, I will soon become a federal minister! | #686: Я буду министром. | verbatim |
+| 2 | Степан Геннадьевич | Какое именно министерство ты возглавишь? | What ministry specifically will you head? | #687: Каким? | verbatim |
+| 3 | Губернатор | Министерство рыбного хозяйства всей страны! | The ministry of fisheries of the whole country! | #688: Рыбного хозяйства. | verbatim |
+| 4 | Степан Геннадьевич | Вот это да, настоящая удача! | Well look at that, real good luck! | #691: Вот это да. | verbatim |
+| 5 | Степан Геннадьевич | Такого подарка даже я не ожидал. | Even I did not expect such a gift. | #692: Такого даже я не ожидал. | verbatim |
+| 6 | Степан Геннадьевич | Я от всей души поздравляю тебя. | I congratulate you from all my heart. | #693: я поздравляю | verbatim |
+| 7 | Степан Геннадьевич | Это же настоящее золотое дно! | This is a real gold mine after all! | #693: это же золотое дно. | verbatim |
+| 8 | Губернатор | Да, это открывает огромные возможности. | Yes, this opens huge opportunities. | #694: Да. | verbatim |
+| 9 | Степан Геннадьевич | Теперь мы решим абсолютно все проблемы. | Now we will solve absolutely all problems. | new | new |
+| 10 | Губернатор | Сначала надо закончить важное дело. | First one must finish an important matter. | #701: Сначала надо дела доделать, потом. | verbatim |
+| 11 | Степан Геннадьевич | Мы едем прямо сейчас? | Are we going right now? | #702: Все, поехали. | verbatim |
+| 12 | Губернатор | Да, поехали немедленно в резиденцию. | Yes, let's go to the residence immediately. | #702: Все, поехали. | verbatim |
+| 13 | Степан Геннадьевич | Куда именно мы сейчас направляемся? | Where exactly are we heading right now? | #703: Куда? | verbatim |
+| 14 | Губернатор | Пора обозначиться перед влиятельными людьми. | It is time to make our move before influential people. | #704: Обозначаться. | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

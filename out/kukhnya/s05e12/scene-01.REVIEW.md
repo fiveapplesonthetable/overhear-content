@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Говорят, что мысли материальны. | They say that thoughts are material. | #1 00:00:22: Говорят, что мысли | adapted: adapted |
-| 2 | Аня | Если о чём-то постоянно думать, это обязательно произойдёт. | If you think about something constantly, it will definitely happen. | #2 00:00:24: Если о чем-то постоянно думать, это обязательно произойдет | adapted: adapted |
-| 3 | Аня | Алло, Вика? | Hello, Vika? | #3 00:00:39: Алло<br>#4 00:00:41: Вика, алло | adapted: adapted |
-| 4 | Вика | Алло, Макс. | Hello, Max. | #4 00:00:41: алло. Макс | adapted: adapted |
-| 5 | Аня | Да, что-то случилось? | Yes, did something happen? | #5 00:00:44: Да что-то случилось | adapted: adapted |
-| 6 | Аня | Ну, не молчи. | Well, do not stay silent. | #6 00:00:47: Ну, не молчи | adapted: adapted |
-| 7 | Вика | Можешь мне кое-что привезти? | Can you bring me something? | #6 00:00:47: Можешь мне кое-что привезти | adapted: adapted |
-| 8 | Аня | Да, конечно! | Yes, of course! | #7 00:00:50: Да, да, конечно | adapted: adapted |
-| 9 | Аня | Что, лекарства? | What is it, medicine? | #7 00:00:50: Что, лекарства | adapted: adapted |
-| 10 | Вика | Тушёнку. | Canned stewed meat. | #8 00:00:53: Тушонку | adapted: adapted |
-| 11 | Аня | Что? | What? | #9 00:00:55: Что | adapted: adapted |
-| 12 | Вика | Привези мне тушёнку, пожалуйста. | Bring me canned stewed meat, please. | #6 00:00:47: привезти<br>#8 00:00:53: Тушонку | adapted: adapted |
+| 1 | Макс | Говорят, что мысли материальны. | They say that thoughts are material. | #1: Говорят, что мысли | adapted: adapted |
+| 2 | Макс | Если о чём-то постоянно думать, это обязательно произойдёт. | If you think about something constantly, it will definitely happen. | #2: Если о чем-то постоянно думать, это обязательно произойдет | adapted: adapted |
+| 3 | Макс | Алло, Вика? | Hello, Vika? | #3: Алло<br>#4: Вика, алло | adapted: adapted |
+| 4 | Вика | Алло, Макс. | Hello, Max. | #4: алло. Макс | adapted: adapted |
+| 5 | Макс | Да, что-то случилось? | Yes, did something happen? | #5: Да что-то случилось | adapted: adapted |
+| 6 | Макс | Ну, не молчи. | Well, do not stay silent. | #6: Ну, не молчи | adapted: adapted |
+| 7 | Вика | Можешь мне кое-что привезти? | Can you bring me something? | #6: Можешь мне кое-что привезти | adapted: adapted |
+| 8 | Макс | Да, конечно! | Yes, of course! | #7: Да, да, конечно | adapted: adapted |
+| 9 | Макс | Что, лекарства? | What is it, medicine? | #7: Что, лекарства | adapted: adapted |
+| 10 | Вика | Тушёнку. | Canned stewed meat. | #8: Тушонку | adapted: adapted |
+| 11 | Макс | Что? | What? | #9: Что | adapted: adapted |
+| 12 | Вика | Привези мне тушёнку, пожалуйста. | Bring me canned stewed meat, please. | #6: привезти<br>#8: Тушонку | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'They say that thoughts are material.' Max anchors the line on 'say', while 'material' completes the thought.
-- 'If you think about something constantly, it will definitely happen.' The grammar packs 'if' and 'to happen' into a tight, idiomatic kitchen exchange.
-- 'Hello, Vika?' Max raises the pitch on 'Vika' to turn the phrase into a direct spoken question. Vika answers right away.
-- 'Hello, Max.' In Russian, the idea of 'hello' flows naturally into 'Max' without extra filler words.
-- 'Yes, did something happen?' Spoken Russian keeps this brisk, leaning on 'yes' and finishing on 'happened'.
-- 'Well, do not stay silent.' Spoken Russian keeps this brisk, leaning on 'come on' and finishing on 'be silent'. Vika answers right away.
-- 'Can you bring me something?' Vika anchors the line on 'can', while 'to bring' completes the thought.
-- 'Yes, of course!' Max brings out the contrast between 'yes' and 'of course' in a few short words.
-- 'What is it, medicine?' Notice how Russian expresses 'what' and 'medicines' with crisp inflection rather than helper words. Vika answers right away.
-- 'Canned stewed meat.' The grammar packs 'canned stewed meat' and 'canned stewed meat' into a tight, idiomatic kitchen exchange.
-- 'What?' The meaning hinges on 'what' working together with 'what' in spoken Russian.
-- 'Bring me canned stewed meat, please.' In Russian, the idea of 'to bring' flows naturally into 'please' without extra filler words.
+- 'They say that thoughts are material.' Claiming that they say that thoughts are material sounds confident, even if Vika has doubts.
+- 'If you think about something constantly, it will definitely happen.' Once if Vika thinks about something constantly it will definitely happen, Max can finally tell Vika what he means. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'Hello, Vika?' Turning from the call to the conversation, Max asks Vika directly. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Hello, Max.' Between the work and the meat, Vika gives Max a quick, grounded response.
+- 'Yes, did something happen?' Asking whether something happen cuts straight through the tension between Max and Vika. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Well, do not stay silent.' Mentioning that do not stay silent moves the talk in a new direction.
+- 'Can you bring me something?' Here checking whether Max brings her something shows Vika looking for the real truth.
+- 'Yes, of course!' Around the meat and conversation, Max makes his point loud and clear. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'What is it, medicine?' Wondering what it medicine is cuts straight through the tension between Max and Vika. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Canned stewed meat.' Around the point and meat, Vika sets a calm, everyday tone with Max.
+- 'What?' With the phone and kitchen hanging in the air, Max puts Vika on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Bring me canned stewed meat, please.' Bringing her canned stewed meat please moves the conversation forward without extra drama.

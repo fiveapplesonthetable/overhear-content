@@ -1,41 +1,43 @@
-# Новые открытия  (New Discoveries) — `kukhnya-s01e09-scene-20`
+# kukhnya-s01e09-scene-20: review sheet
 
-**Source:** Кухня (Kukhnya) S1.09 · `sources/kukhnya/s01/e09.ru.dual.srt`  
-**Target level:** A1 — Duolingo Section 2
+Title: Новые открытия  (New Discoveries)
+Level: A1 — Duolingo Section 2
+Pair: ru-en
+Source: Кухня (Kukhnya) S1.09
 
-## Cast
 
-| Role | Voice | Label |
-|---|---|---|
-| `narrator` | sky | — |
-| `anya` | alisa | Макс |
-| `louis` | anja | Луи |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 1 — Intro
-
-> Late at night in the quiet kitchen of Claude Monet, Max watches Louis patiently crafting delicate desserts. Reflecting on how easily we misjudge people, Max apologizes to the pastry chef and discovers the profound art behind his culinary craft.
-
-## Part 2 — Story
-
-| # | Speaker | Line | English | Source cue(s) | Change |
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 0 | Макс | Луи, ты всё ещё работаешь на кухне? | Louis, are you still working in the kitchen? | *(added)* |  |
-| 1 | Луи | Да, я делаю нежный шоколадный крем. | Yes, I am making delicate chocolate cream. | *(added)* |  |
-| 2 | Макс | Тебе кажется, что он ко всему равнодушен. | It seems to you that he is indifferent to everything. | #350 "Тебе кажется, что он ко всему равнодушен." |  |
-| 3 | Макс | Но понимаешь, что мало знаешь о нём. | Then you realize you know little about him. | #351 "Но понимаешь, что мало знаешь о нем." |  |
-| 4 | Макс | Луи, не обижайся на мои глупые слова. | Louis, do not take offense at my silly words. | #352 "Слушай, Луи, ты, если что, не обижайся на меня." |  |
-| 5 | Макс | Я был совсем не прав насчёт тебя. | I was completely wrong about you. | #353 "Я не прав был." |  |
-| 6 | Луи | Ничего страшного, Макс, я понимаю. | Nothing terrible, Max, I understand. | #355 "О, ну." |  |
-| 7 | Макс | Готовить такие десерты — это реально сложно. | Cooking such desserts is really difficult. | #354 "То, что ты делаешь, это реально сложно." |  |
-| 8 | Луи | Многие думают, что это простые сладости. | Many think that these are simple sweets. | #356 "Первым, да. Подумаешь, какие-то десертики." |  |
-| 9 | Луи | Но кондитерское искусство требует большого терпения. | But confectionery art requires great patience. | *(added)* |  |
-| 10 | Макс | Теперь я очень уважаю твой труд. | Now I respect your work very much. | *(added)* |  |
-| 11 | Луи | Спасибо, Макс, попробуй этот свежий десерт. | Thank you, Max, try this fresh dessert. | *(added)* |  |
-| 12 | Макс | Как много открытий нам ещё предстоит. | How many discoveries still lie ahead for us. | #357 "Как много открытий нам предстоит." |  |
-| 13 | Макс | И это по-настоящему здорово для нас! | And this is truly wonderful for us! | #358 "И это здорово." |  |
+| 1 | Макс | Луи, ты всё ещё работаешь на кухне? | Louis, are you still working in the kitchen? | new | new |
+| 2 | Луи | Да, я делаю нежный шоколадный крем. | Yes, I am making delicate chocolate cream. | new | new |
+| 3 | Макс | Тебе кажется, что он ко всему равнодушен. | It seems to you that he is indifferent to everything. | #350: Тебе кажется, что он ко всему равнодушен. | verbatim |
+| 4 | Макс | Но понимаешь, что мало знаешь о нём. | Then you realize you know little about him. | #351: Но понимаешь, что мало знаешь о нем. | verbatim |
+| 5 | Макс | Луи, не обижайся на мои глупые слова. | Louis, do not take offense at my silly words. | #352: Слушай, Луи, ты, если что, не обижайся на меня. | verbatim |
+| 6 | Макс | Я был совсем не прав насчёт тебя. | I was completely wrong about you. | #353: Я не прав был. | verbatim |
+| 7 | Луи | Ничего страшного, Макс, я понимаю. | Nothing terrible, Max, I understand. | #355: О, ну. | verbatim |
+| 8 | Макс | Готовить такие десерты — это реально сложно. | Cooking such desserts is really difficult. | #354: То, что ты делаешь, это реально сложно. | verbatim |
+| 9 | Луи | Многие думают, что это простые сладости. | Many think that these are simple sweets. | #356: Первым, да. Подумаешь, какие-то десертики. | verbatim |
+| 10 | Луи | Но кондитерское искусство требует большого терпения. | But confectionery art requires great patience. | new | new |
+| 11 | Макс | Теперь я очень уважаю твой труд. | Now I respect your work very much. | new | new |
+| 12 | Луи | Спасибо, Макс, попробуй этот свежий десерт. | Thank you, Max, try this fresh dessert. | new | new |
+| 13 | Макс | Как много открытий нам ещё предстоит. | How many discoveries still lie ahead for us. | #357: Как много открытий нам предстоит. | verbatim |
+| 14 | Макс | И это по-настоящему здорово для нас! | And this is truly wonderful for us! | #358: И это здорово. | verbatim |
 
-## Part 5 — Outro & closing
+## Walk-through narration (English only, no target-language words quoted)
 
-> As the shift ends with mutual respect and a taste of fresh dessert, Max realizes that understanding other people is a lifelong journey of wonderful discoveries. Next time you watch the episode, listen for the Russian expressions for 'big' and 'to be' — you will catch every word right away. See you next time!
-
-**Макс:** Пока!
+- 'Louis, are you still working in the kitchen?' Max approaches the pastry station late at night.
+- 'Yes, I am making delicate chocolate cream.' Louis concentrates carefully on his sweet creation.
+- 'It seems to you that he is indifferent to everything.' Max reflects quietly on his past assumptions.
+- 'Then you realize you know little about him.' Max admits that first impressions are often mistaken.
+- 'Louis, do not take offense at my silly words.' Max speaks with sincere regret to his coworker.
+- 'I was completely wrong about you.' Max openly acknowledges his mistake to the pastry chef.
+- 'Nothing terrible, Max, I understand.' Louis smiles warmly and accepts the heartfelt apology.
+- 'Cooking such desserts is really difficult.' Max expresses newfound admiration for pastry skills.
+- 'Many think that these are simple sweets.' Louis explains the common misconception about his work.
+- 'But confectionery art requires great patience.' The pastry chef describes the dedication demanded by his craft.
+- 'Now I respect your work very much.' Max shows genuine appreciation for his colleague.
+- 'Thank you, Max, try this fresh dessert.' Louis generously offers a sweet sample to taste.
+- 'How many discoveries still lie ahead for us.' Max reflects on the endless lessons learned from people.
+- 'And this is truly wonderful for us!' Max smiles with gratitude as the night shift concludes.

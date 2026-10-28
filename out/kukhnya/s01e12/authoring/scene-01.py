@@ -4,32 +4,31 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 12
 SCENE = 1
-TITLE = "Время перемен  (Time for Changes)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Время перемен  (Time for Changes)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "anya": "alisa", "kostya": "anja"}
-LABELS = {"anya": "Макс", "kostya": "Костя"}
+LABELS = {'kostya': 'Костя', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.12'
 SOURCE_FILE = 'sources/kukhnya/s01/e12.ru.dual.srt'
 INTRO = "Getting ready for his shift in the locker room, Max reflects on the inevitability of change, telling Kostya that he is determined to actively pursue the changes he wants in his life. Let's listen to their conversation in Russian first."
 OPENER = "Now let's examine this conversation line by line."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Filled with determination and armed with a bold plan to impress Victoria, Max leaves the locker room to put his romantic surprise into action. Next time you watch the episode, listen for the Russian expressions for 'absolutely' and 'to be afraid' — you will catch every word right away. See you next time!"
-CLOSING = ("anya", "Пока!")
+CLOSING = ('max', 'Пока!')
 STORY = [
-    ('anya', 'В жизни каждого человека нужны изменения.', "Changes are needed in every person's life.", [(1, 'Рано или поздно в жизни каждого человека наступают перемены.')], ''),
+    ('max', 'В жизни каждого человека нужны изменения.', "Changes are needed in every person's life.", [(1, 'Рано или поздно в жизни каждого человека наступают перемены.')], ''),
     ('kostya', 'Ты абсолютно прав, Макс.', 'You are absolutely right, Max.', [], ''),
-    ('anya', 'Я хочу изменить свою судьбу сегодня.', 'I want to change my destiny today.', [], ''),
+    ('max', 'Я хочу изменить свою судьбу сегодня.', 'I want to change my destiny today.', [], ''),
     ('kostya', 'Надо действовать смело и не бояться.', 'One must act boldly and not be afraid.', [], ''),
-    ('anya', 'Моя цель — стать лучшим поваром.', 'My goal is to become the best cook.', [], ''),
+    ('max', 'Моя цель — стать лучшим поваром.', 'My goal is to become the best cook.', [], ''),
     ('kostya', 'Это очень хорошая мечта для тебя.', 'This is a very good dream for you.', [], ''),
-    ('anya', 'Я сделаю важный шаг прямо сейчас.', 'I will make an important step right now.', [], ''),
+    ('max', 'Я сделаю важный шаг прямо сейчас.', 'I will make an important step right now.', [], ''),
     ('kostya', 'Какой сюрприз ты приготовил для нас?', 'What surprise have you prepared for us?', [], ''),
-    ('anya', 'Этот сюрприз ждёт только одну Вику.', 'This surprise awaits only one Vika.', [], ''),
+    ('max', 'Этот сюрприз ждёт только одну Вику.', 'This surprise awaits only one Vika.', [], ''),
     ('kostya', 'Удачи тебе, мой смелый друг.', 'Good luck to you, my brave friend.', [], ''),
-    ('anya', 'Спасибо, Костя, я пойду к ней.', 'Thank you, Kostya, I will go to her.', [], ''),
+    ('max', 'Спасибо, Костя, я пойду к ней.', 'Thank you, Kostya, I will go to her.', [], ''),
     ('kostya', 'Главное — ничего не испортить сегодня.', 'The main thing is not to ruin anything today.', [], ''),
-    ('anya', 'Не волнуйся, всё будет просто отлично.', 'Do not worry, everything will be simply great.', [], ''),
+    ('max', 'Не волнуйся, всё будет просто отлично.', 'Do not worry, everything will be simply great.', [], ''),
 ]
 WALK = [
     (0, None, "'Changes are needed in every person's life.' Russian omits the present-tense verb 'to be' here, linking 'life' directly with 'every', pairing it with 'person' and 'needed'."),

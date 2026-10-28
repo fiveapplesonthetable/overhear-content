@@ -10,32 +10,32 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Шеф | Я всегда думал, что ты просто идиот. | I always thought that you were simply an idiot. | #205 00:13:27: Я всегда думал, что ты просто идиот | verbatim |
-| 2 | Елена | Но ты не идиот. | Wait, you are not just an idiot. | #206 00:13:31: Но ты не идиот | verbatim |
-| 3 | Елена | Какого черта ты решил. | Why the hell did you decide to do that. | #208 00:13:36: Какого черта ты решил | verbatim |
-| 4 | Шеф | Шеф, а я подумал. | Chef, I just thought it would help. | #209 00:13:40: Шеф, а я подумал | verbatim |
-| 5 | Елена | Еще раз добрый день. | Good afternoon once again. | #212 00:13:48: Еще раз добрый день | verbatim |
-| 6 | Елена | Как настроение? | How is your mood today? | #213 00:13:51: Как настроение | verbatim |
-| 7 | Шеф | Гостей много? | Do you have many guests? | #214 00:13:53: Гостей много | verbatim |
-| 8 | Елена | Сообщение от Елены. | It is a message from Elena. | #215 00:13:54: Сообщение от Елены | verbatim |
-| 9 | Елена | Что это? | Wait, what is that? | #215 00:13:54: Что это | verbatim |
-| 10 | Шеф | Да вы не волнуйтесь. | Do not worry, Chef. | #216 00:13:57: да вы не волнуйтесь | verbatim |
-| 11 | Елена | Я сейчас все удалю. | I will delete the whole thing right now. | #216 00:13:57: я сейчас все удалю | verbatim |
-| 12 | Елена | Надо что-то ответить. | We have to reply something to her. | #217 00:14:00: надо что-то ответить | verbatim |
-| 13 | Шеф | Напиши так. | Write it down like this. | #218 00:14:08: Напиши так | verbatim |
+| 1 | Шеф | Я всегда думал, что ты просто идиот. | I always thought that you were simply an idiot. | #205: Я всегда думал, что ты просто идиот | verbatim |
+| 2 | Настя | Но ты не идиот. | Wait, you are not just an idiot. | #206: Но ты не идиот | verbatim |
+| 3 | Елена | Какого черта ты решил. | Why the hell did you decide to do that. | #208: Какого черта ты решил | verbatim |
+| 4 | Шеф | Шеф, а я подумал. | Chef, I just thought it would help. | #209: Шеф, а я подумал | verbatim |
+| 5 | Настя | Еще раз добрый день. | Good afternoon once again. | #212: Еще раз добрый день | verbatim |
+| 6 | Елена | Как настроение? | How is your mood today? | #213: Как настроение | verbatim |
+| 7 | Шеф | Гостей много? | Do you have many guests? | #214: Гостей много | verbatim |
+| 8 | Настя | Сообщение от Елены. | It is a message from Elena. | #215: Сообщение от Елены | verbatim |
+| 9 | Елена | Что это? | Wait, what is that? | #215: Что это | verbatim |
+| 10 | Шеф | Да вы не волнуйтесь. | Do not worry, Chef. | #216: да вы не волнуйтесь | verbatim |
+| 11 | Настя | Я сейчас все удалю. | I will delete the whole thing right now. | #216: я сейчас все удалю | verbatim |
+| 12 | Елена | Надо что-то ответить. | We have to reply something to her. | #217: надо что-то ответить | verbatim |
+| 13 | Шеф | Напиши так. | Write it down like this. | #218: Напиши так | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I always thought that you were simply an idiot.' In Russian, the idea of 'I' flows naturally into 'idiot' without extra filler words.
-- 'Wait, you are not just an idiot.' Nastya addresses the listener with the informal singular 'you' alongside 'idiot'. Elena answers right away.
-- 'Why the hell did you decide to do that.' Elena brings out the contrast between 'what a' and 'devil' in a few short words.
-- 'Chef, I just thought it would help.' Chef Viktor brings out the contrast between 'chef' and 'and' in a few short words.
-- 'Good afternoon once again.' In Russian, the idea of 'else' flows naturally into 'day' without extra filler words. Elena answers right away.
-- 'How is your mood today?' In Russian, the idea of 'how' flows naturally into 'mood' without extra filler words.
-- 'Do you have many guests?' Here the Russian phrasing highlights 'guests' before landing on 'much'.
-- 'It is a message from Elena.' Spoken Russian keeps this brisk, leaning on 'message' and finishing on 'Elena's'. Elena answers right away.
-- 'Wait, what is that?' The meaning hinges on 'what' working together with 'this' in spoken Russian.
-- 'Do not worry, Chef.' The grammar packs 'yes' and 'worry' into a tight, idiomatic kitchen exchange.
-- 'I will delete the whole thing right now.' Notice how Russian expresses 'I' and 'to delete' with crisp inflection rather than helper words. Elena answers right away.
-- 'We have to reply something to her.' Elena anchors the line on 'at', while 'answer' completes the thought.
-- 'Write it down like this.' In Russian, the idea of 'write' flows naturally into 'like this' without extra filler words.
+- 'I always thought that you were simply an idiot.' Once he always thought that Elena was simply an idiot, Barinov can finally tell Elena what he means. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Wait, you are not just an idiot.' Adding that Barinov is not just an idiot fills in the missing piece for Barinov.
+- 'Why the hell did you decide to do that.' Elena tells Barinov that why the hell did Barinov decides to do without dressing it up. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Chef, I just thought it would help.' Since he just thought it would help, Barinov does not waste words on excuses.
+- 'Good afternoon once again.' Around the plan and conversation, Nastya sets a calm, everyday tone with Barinov.
+- 'How is your mood today?' Here wondering how Barinov's mood today is shows Elena looking for the real truth. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Do you have many guests?' By asking whether Elena has many guests, Barinov presses Elena for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'It is a message from Elena.' Explaining that it is a message from Elena lays the cards on the table for Barinov.
+- 'Wait, what is that?' With the kitchen and moment hanging in the air, Elena puts Barinov on the spot. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'Do not worry, Chef.' Claiming that do not worry sounds confident, even if Elena has doubts. Notice how he sticks to the formal "you", keeping a professional line between them.
+- 'I will delete the whole thing right now.' Pointing out that she will delete the whole thing right now gives Barinov a sobering reality check.
+- 'We have to reply something to her.' Elena explains that they have to reply something, keeping her voice calm and direct. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
+- 'Write it down like this.' Writing it down like this is how Barinov lays out the situation for Elena.

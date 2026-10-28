@@ -10,32 +10,32 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Сочной мраморной говядины. | Of juicy marbled beef. | #1 00:00:25: сочной мраморной говядины | verbatim |
-| 2 | Шеф | Перед карой молодого ягненка не устоит никто. | Nobody can resist a rack of young lamb. | #3 00:00:36: Перед карой молодого ягненка не устоит никто | verbatim |
-| 3 | Аня | Вам не предложат хорошо прожаренный стейк. | They will not offer you a well-done steak. | #4 00:00:40: вам не предложат хорошо прожаренный стейк | verbatim |
-| 4 | Шеф | Неужели кто-то может отказаться от этого чуда? | Can someone really refuse this miracle? | #5 00:00:45: Неужели кто-то может отказаться от этого чуда | verbatim |
-| 5 | Аня | Скажите, а нет ли у вас чего-нибудь вегетарианского? | Tell me, do you have anything vegetarian? | #6 00:00:47: Скажите, а нет ли у вас чего-нибудь вегетарианского | verbatim |
-| 6 | Шеф | Вы вегетарианец? | Are you a vegetarian? | #7 00:00:50: Вы вегетарианец | verbatim |
-| 7 | Аня | Я тоже. | Me too. | #8 00:00:52: Я тоже | verbatim |
-| 8 | Шеф | Есть люди. | There are people like that. | #9 00:00:54: Есть люди | verbatim |
-| 9 | Аня | А где мясо, бабушка? | And where is the meat, grandma? | #10 00:00:59: А где мясо, бабушка | verbatim |
-| 10 | Шеф | Мясо будешь дома есть. | You will eat meat at home. | #11 00:01:01: Мясо будешь дома есть | verbatim |
-| 11 | Аня | А у нас тут полезный вкусный завтрак. | Here we have a healthy, delicious breakfast. | #12 00:01:03: А у нас тут полезный вкусный завтрак | verbatim |
-| 12 | Шеф | Как в лучших домах Парижа. | Just like in the finest homes of Paris. | #14 00:01:08: Как в лучших домах Парижа | verbatim |
-| 13 | Аня | Приятного аппетита. | Enjoy your meal. | #15 00:01:11: Приятного аппетита | verbatim |
+| 1 | Макс | Сочной мраморной говядины. | Of juicy marbled beef. | #1: сочной мраморной говядины | verbatim |
+| 2 | Шеф | Перед карой молодого ягненка не устоит никто. | Nobody can resist a rack of young lamb. | #3: Перед карой молодого ягненка не устоит никто | verbatim |
+| 3 | Макс | Вам не предложат хорошо прожаренный стейк. | They will not offer you a well-done steak. | #4: вам не предложат хорошо прожаренный стейк | verbatim |
+| 4 | Шеф | Неужели кто-то может отказаться от этого чуда? | Can someone really refuse this miracle? | #5: Неужели кто-то может отказаться от этого чуда | verbatim |
+| 5 | Макс | Скажите, а нет ли у вас чего-нибудь вегетарианского? | Tell me, do you have anything vegetarian? | #6: Скажите, а нет ли у вас чего-нибудь вегетарианского | verbatim |
+| 6 | Шеф | Вы вегетарианец? | Are you a vegetarian? | #7: Вы вегетарианец | verbatim |
+| 7 | Макс | Я тоже. | Me too. | #8: Я тоже | verbatim |
+| 8 | Шеф | Есть люди. | There are people like that. | #9: Есть люди | verbatim |
+| 9 | Макс | А где мясо, бабушка? | And where is the meat, grandma? | #10: А где мясо, бабушка | verbatim |
+| 10 | Шеф | Мясо будешь дома есть. | You will eat meat at home. | #11: Мясо будешь дома есть | verbatim |
+| 11 | Макс | А у нас тут полезный вкусный завтрак. | Here we have a healthy, delicious breakfast. | #12: А у нас тут полезный вкусный завтрак | verbatim |
+| 12 | Шеф | Как в лучших домах Парижа. | Just like in the finest homes of Paris. | #14: Как в лучших домах Парижа | verbatim |
+| 13 | Макс | Приятного аппетита. | Enjoy your meal. | #15: Приятного аппетита | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Of juicy marbled beef.' The grammar packs 'juicy' and 'beef' into a tight, idiomatic kitchen exchange.
-- 'Nobody can resist a rack of young lamb.' Spoken Russian keeps this brisk, leaning on 'before' and finishing on 'nobody'. Max answers right away.
-- 'They will not offer you a well-done steak.' The grammar packs 'for you' and 'steak' into a tight, idiomatic kitchen exchange.
-- 'Can someone really refuse this miracle?' The meaning hinges on 'really' working together with 'miracle' in spoken Russian.
-- 'Tell me, do you have anything vegetarian?' Notice how Russian expresses 'say' and 'vegetarian' with crisp inflection rather than helper words. Chef Viktor answers right away.
-- 'Are you a vegetarian?' Here the Russian phrasing highlights 'you' before landing on 'vegetarian'.
-- 'Me too.' In Russian, the idea of 'I' flows naturally into 'some' without extra filler words.
-- 'There are people like that.' Here the Russian phrasing highlights 'there is' before landing on 'people'. Max answers right away.
-- 'And where is the meat, grandma?' In Russian, the idea of 'and' flows naturally into 'grandma' without extra filler words.
-- 'You will eat meat at home.' Spoken Russian keeps this brisk, leaning on 'meat' and finishing on 'there is'.
-- 'Here we have a healthy, delicious breakfast.' Spoken Russian keeps this brisk, leaning on 'and' and finishing on 'breakfast'. Chef Viktor answers right away.
-- 'Just like in the finest homes of Paris.' The meaning hinges on 'how' working together with 'paris' in spoken Russian.
-- 'Enjoy your meal.' Notice how Russian expresses 'pleasant' and 'appetite' with crisp inflection rather than helper words.
+- 'Of juicy marbled beef.' With the work and meat in play, Max keeps this short reply brisk and direct.
+- 'Nobody can resist a rack of young lamb.' Admitting that nobody can resist a rack of young lamb shows Barinov being honest for a change. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
+- 'They will not offer you a well-done steak.' Saying that they will not offer Barinov a well done steak is how Max sets the tone with Barinov. Notice how he sticks to the formal "you", keeping a professional line between them.
+- 'Can someone really refuse this miracle?' Here asking whether someone really refuse this miracle shows Barinov looking for the real truth.
+- 'Tell me, do you have anything vegetarian?' Asking whether tell him do Barinov has anything vegetarian puts Barinov right on the defensive. Russian expresses having something as "by me is", keeping the phrase short and grounded.
+- 'Are you a vegetarian?' Asking whether Max a vegetarian cuts straight through the tension between Barinov and Max. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
+- 'Me too.' Between the work and the shift, Max gives Barinov a quick, grounded response.
+- 'There are people like that.' Mentioning that there are people like moves the talk in a new direction.
+- 'And where is the meat, grandma?' By asking where the meat grandma is, Max presses Barinov for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'You will eat meat at home.' Because Max will eat meat at home, Barinov treats the matter as settled.
+- 'Here we have a healthy, delicious breakfast.' Explaining that here they have a healthy delicious breakfast lays the cards on the table for Barinov. Russian expresses having something as "by me is", keeping the phrase short and grounded.
+- 'Just like in the finest homes of Paris.' Between the point and the dish, Barinov gives Max a quick, grounded response.
+- 'Enjoy your meal.' Since Barinov should enjoy Barinov's meal, Max does not waste words on excuses.

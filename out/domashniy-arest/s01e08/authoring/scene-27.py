@@ -1,35 +1,37 @@
-# domashniy-arest/s01e08/scene-27.py
-ID = "domashniy-arest-s01e08-scene-27"
-SHOW = "domashniy-arest"
+# Authoring module for domashniy-arest-s01e08-scene-27.
+ID = 'domashniy-arest-s01e08-scene-27'
+SHOW = 'domashniy-arest'
 SEASON = 1
 EPISODE = 8
 SCENE = 27
-TITLE = "Друзья против Самсона  (Friends Reject Ivan)"
-LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-SOURCE_NAME = "Домашний арест (Domashniy Arest) S1.08"
-SOURCE_FILE = "sources/domashniy-arest/s01/e08.ru.dual.srt"
-VOICES = {"narrator": "sky", "samson": "anja", "sanya": "angelina"}
-LABELS = {"samson": "Самсон", "sanya": "Саня"}
+TITLE = 'Друзья против Самсона  (Friends Reject Ivan)'
+LEVEL = 'A1 — Duolingo Section 2'
+PAIR = 'ru-en'
+LABELS = {'grisha': 'Дядя Гриша', 'samson': 'Самсон', 'sanya': 'Саня'}
+SOURCE_NAME = 'Домашний арест (Domashniy Arest) S1.08'
+SOURCE_FILE = 'sources/domashniy-arest/s01/e08.ru.dual.srt'
 INTRO = "In the previous scene, Arkady's political rivals plotted their next move. Now on the building site, Ivan Samsonov gathers his construction co-workers to ask for their support at the upcoming televised debates, only to hear one ridiculous excuse after another. Listen to the Russian conversation first, and do not worry about catching every word."
-STORY = [
-    ("samson", "Короче, мужики! Если поддержите меня, мы прорвёмся.", "In short, guys! If you support me, we will break through.", [(458, 'короче, мужики'), (459, 'Если поддержите меня, прорвемся')], ""),
-    ("samson", "Давайте дадим жару на этих дебатах! Что скажете?", "Let's bring the heat at these debates! What do you say?", [(460, 'Давайте дадим жару на этих дебатах'), (461, 'Что скажете')], ""),
-    ("samson", "Самсон, я не могу. У меня тёща приезжает.", "Samson, I cannot. My mother-in-law is arriving.", [(462, 'Самсон, я не могу'), (463, 'У меня теща приезжает')], ""),
-    ("samson", "Встретить надо.", "I need to meet her.", [(464, 'Устретить надо')], ""),
-    ("samson", "А ты чего молчишь? К тебе кто приезжает?", "And why are you silent? Who is coming to see you?", [(467, 'Вот тебя кто приезжает')], ""),
-    ("sanya", "Никто. У меня зуб болит.", "Nobody. My tooth hurts.", [(468, 'Никто'), (469, 'У меня зуб болит')], ""),
-    ("sanya", "Я к врачу записался.", "I made an appointment with the doctor.", [(470, 'Я к врачу записался')], ""),
-    ("samson", "Вы что, с дуба рухнули? Какой зуб?", "Have you lost your minds? What tooth?", [(474, 'Вы что, с дуба рухнули'), (476, 'Какой')], "crude 'нахрен' omitted"),
-    ("sanya", "Зуб мудрости болит!", "My wisdom tooth hurts!", [(477, 'мудрости'), (478, 'мудрости')], ""),
-    ("samson", "Мы твою тёщу три года назад похоронили! Откуда она приезжает?", "We buried your mother-in-law three years ago! Where is she coming from?", [(483, 'Мы твою тещу хоронили'), (485, 'откуда он у тебя приезжает-то')], ""),
-    ("samson", "Самсон, если мы пойдём, все подумают плохо.", "Samson, if we go, everyone will think badly.", [(488, 'Самсон'), (489, 'ну если я пойду'), (490, 'все подумают')], ""),
-    ("samson", "Подумают, что мы плохих людей поддерживаем.", "They will think that we support bad people.", [(491, 'поддерживаю')], "crude accusations simplified to A1"),
-    ("samson", "А по-вашему, я плохой человек? Чего молчите?", "And in your opinion, am I a bad person? Why are you silent?", [(492, 'А, по-вашему, я что'), (493, 'Чего молчите')], ""),
-    ("sanya", "Слушай, Самсон, ты извини. Но ты изменился.", "Listen, Samson, forgive us. But you have changed.", [(494, 'Слушай, Самсон, ты извини'), (494, 'есть в тебе это')], ""),
-    ("samson", "Ну и сидите тут одни! Я сам всё сделаю.", "Well, stay here by yourselves! I will do everything myself.", [], "new closing A1 line as Samsonov storms out"),
-]
 OPENER = "Let's examine how Samsonov's friends turn their backs on him line by line."
+TRANSITION = "Now listen to Samsonov's confrontation with his friends again."
+OUTRO = 'Shocked that his closest co-workers have deserted him right before the election debates, Samsonov heads off alone. See you next time!'
+CLOSING = ('samson', 'Пока!')
+STORY = [
+    ('samson', 'Короче, мужики! Если поддержите меня, мы прорвёмся.', 'In short, guys! If you support me, we will break through.', [(458, 'короче, мужики'), (459, 'Если поддержите меня, прорвемся')], ''),
+    ('samson', 'Давайте дадим жару на этих дебатах! Что скажете?', "Let's bring the heat at these debates! What do you say?", [(460, 'Давайте дадим жару на этих дебатах'), (461, 'Что скажете')], ''),
+    ('grisha', 'Самсон, я не могу. У меня тёща приезжает.', 'Samson, I cannot. My mother-in-law is arriving.', [(462, 'Самсон, я не могу'), (463, 'У меня теща приезжает')], ''),
+    ('grisha', 'Встретить надо.', 'I need to meet her.', [(464, 'Устретить надо')], ''),
+    ('samson', 'А ты чего молчишь? К тебе кто приезжает?', 'And why are you silent? Who is coming to see you?', [(467, 'Вот тебя кто приезжает')], ''),
+    ('sanya', 'Никто. У меня зуб болит.', 'Nobody. My tooth hurts.', [(468, 'Никто'), (469, 'У меня зуб болит')], ''),
+    ('sanya', 'Я к врачу записался.', 'I made an appointment with the doctor.', [(470, 'Я к врачу записался')], ''),
+    ('samson', 'Вы что, с дуба рухнули? Какой зуб?', 'Have you lost your minds? What tooth?', [(474, 'Вы что, с дуба рухнули'), (476, 'Какой')], "crude 'нахрен' omitted"),
+    ('sanya', 'Зуб мудрости болит!', 'My wisdom tooth hurts!', [(477, 'мудрости'), (478, 'мудрости')], ''),
+    ('samson', 'Мы твою тёщу три года назад похоронили! Откуда она приезжает?', 'We buried your mother-in-law three years ago! Where is she coming from?', [(483, 'Мы твою тещу хоронили'), (485, 'откуда он у тебя приезжает-то')], ''),
+    ('grisha', 'Самсон, если мы пойдём, все подумают плохо.', 'Samson, if we go, everyone will think badly.', [(488, 'Самсон'), (489, 'ну если я пойду'), (490, 'все подумают')], ''),
+    ('grisha', 'Подумают, что мы плохих людей поддерживаем.', 'They will think that we support bad people.', [(491, 'поддерживаю')], 'crude accusations simplified to A1'),
+    ('samson', 'А по-вашему, я плохой человек? Чего молчите?', 'And in your opinion, am I a bad person? Why are you silent?', [(492, 'А, по-вашему, я что'), (493, 'Чего молчите')], ''),
+    ('sanya', 'Слушай, Самсон, ты извини. Но ты изменился.', 'Listen, Samson, forgive us. But you have changed.', [(494, 'Слушай, Самсон, ты извини'), (494, 'есть в тебе это')], ''),
+    ('samson', 'Ну и сидите тут одни! Я сам всё сделаю.', 'Well, stay here by yourselves! I will do everything myself.', [], 'new closing A1 line as Samsonov storms out'),
+]
 WALK = [
     (0, 'Короче, мужики!', "'In short, guys!' Samsonov addresses his construction team informally."),
     (0, 'Если поддержите меня, мы прорвёмся.', "'If you support me, we will break through.' The conditional sentence uses the future tense in Russian."),
@@ -57,6 +59,3 @@ WALK = [
     (14, 'Ну и сидите тут одни!', "'Well, stay here by yourselves!' Samsonov snaps back in deep hurt."),
     (14, 'Я сам всё сделаю.', "'I will do everything myself.' He slams the locker room door behind him."),
 ]
-TRANSITION = "Now listen to Samsonov's confrontation with his friends again."
-OUTRO = "Shocked that his closest co-workers have deserted him right before the election debates, Samsonov heads off alone. See you next time!"
-CLOSING = ("samson", "Пока!")

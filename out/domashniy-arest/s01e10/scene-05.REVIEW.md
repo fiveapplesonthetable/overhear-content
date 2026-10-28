@@ -10,20 +10,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Тебе не дают играть с пожарной машиной? | They don't let you play with the fire truck? | #156 00:09:22: тебе не дают играть с пожарной машиной | verbatim |
-| 2 | Лёша | Нет, и с танком тоже не дают. | No, and they don't let me play with the tank either. | #157 00:09:25: Нет<br>#158 00:09:26: И с танком | verbatim |
-| 3 | Лёша | Воспитательница кричит на всех, кроме Петухова! | The teacher yells at everyone except Petukhov! | #159 00:09:27: воспиталка орет на всех, кроме Петухова | verbatim |
-| 4 | Аня | А почему она кричит на всех? | And why does she yell at everyone? | #160 00:09:31: А почему же она на всех орет | verbatim |
-| 5 | Лёша | Потому что его папа часто приходит. | Because his dad comes by often. | #161 00:09:33: папа Петухов бывает | verbatim |
-| 6 | Аня | А эта воспитательница — не мама Петухова? | And this teacher is not Petukhov's mom? | #166 00:09:44: А это ваша воспиталка, она не мама Петухова | verbatim |
-| 7 | Лёша | Нет, его мама совсем другая женщина. | No, his mom is a completely different woman. | #167 00:09:47: Нет, мама Петухова совсем другая | verbatim |
-| 8 | Аня | Сегодня тебе разрешат играть со всеми игрушками. | Today they will let you play with all toys. | #168 00:09:50: сегодня тебе разрешат играть со всеми игрушками | verbatim |
-| 9 | Лёша | Нет, мне точно ничего не разрешат. | No, they definitely will not let me. | #169 00:09:54: Нет, не разрешат | verbatim |
-| 10 | Аня | Если не разрешат, больше не пойдёшь туда! | If they don't let you, you won't go there anymore! | #170 00:09:56: Если не разрешат, в садик больше не пойдешь | verbatim |
-| 11 | Лёша | Правда? Это честное слово пацана? | Really? Is that a boy's word of honor? | #171 00:09:59: Точно<br>#172 00:10:00: слово пацана | verbatim |
-| 12 | Аня | Да, честное слово, мы договорились. | Yes, word of honor, we have a deal. | #172 00:10:00: Договорились | verbatim |
-| 13 | Марина | Я не поняла, как тебе это удалось. | I didn't understand how you managed that. | #176 00:10:12: Я не поняла, как тебе это удалось | verbatim |
-| 14 | Аня | Это наши маленькие мужские секреты! | These are our little men's secrets! | #177 00:10:14: Мужские секреты | verbatim |
+| 1 | Аркадий | Тебе не дают играть с пожарной машиной? | They don't let you play with the fire truck? | #156: тебе не дают играть с пожарной машиной | verbatim |
+| 2 | Лёша | Нет, и с танком тоже не дают. | No, and they don't let me play with the tank either. | #157: Нет<br>#158: И с танком | verbatim |
+| 3 | Лёша | Воспитательница кричит на всех, кроме Петухова! | The teacher yells at everyone except Petukhov! | #159: воспиталка орет на всех, кроме Петухова | verbatim |
+| 4 | Аркадий | А почему она кричит на всех? | And why does she yell at everyone? | #160: А почему же она на всех орет | verbatim |
+| 5 | Лёша | Потому что его папа часто приходит. | Because his dad comes by often. | #161: папа Петухов бывает | verbatim |
+| 6 | Аркадий | А эта воспитательница — не мама Петухова? | And this teacher is not Petukhov's mom? | #166: А это ваша воспиталка, она не мама Петухова | verbatim |
+| 7 | Лёша | Нет, его мама совсем другая женщина. | No, his mom is a completely different woman. | #167: Нет, мама Петухова совсем другая | verbatim |
+| 8 | Аркадий | Сегодня тебе разрешат играть со всеми игрушками. | Today they will let you play with all toys. | #168: сегодня тебе разрешат играть со всеми игрушками | verbatim |
+| 9 | Лёша | Нет, мне точно ничего не разрешат. | No, they definitely will not let me. | #169: Нет, не разрешат | verbatim |
+| 10 | Аркадий | Если не разрешат, больше не пойдёшь туда! | If they don't let you, you won't go there anymore! | #170: Если не разрешат, в садик больше не пойдешь | verbatim |
+| 11 | Лёша | Правда? Это честное слово пацана? | Really? Is that a boy's word of honor? | #171: Точно<br>#172: слово пацана | verbatim |
+| 12 | Аркадий | Да, честное слово, мы договорились. | Yes, word of honor, we have a deal. | #172: Договорились | verbatim |
+| 13 | Марина | Я не поняла, как тебе это удалось. | I didn't understand how you managed that. | #176: Я не поняла, как тебе это удалось | verbatim |
+| 14 | Аркадий | Это наши маленькие мужские секреты! | These are our little men's secrets! | #177: Мужские секреты | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

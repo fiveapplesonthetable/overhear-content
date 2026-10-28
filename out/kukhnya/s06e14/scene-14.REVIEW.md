@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Настя | Подождите, что здесь вообще сейчас происходит? | Wait, what is even going on here right now? | #188 00:15:21: Что происходит | adapted: adapted |
-| 2 | Настя | Немедленно отпустите меня, что вы делаете? | Let me go immediately, what are you doing? | #189 00:15:23: Отпустите | adapted: adapted |
-| 3 | Костя | Костя, принеси бутылку виски на крышу. | Kostya, bring a bottle of whiskey to the roof. | #192 00:15:36: Костя, принеси, пожалуйста, бутылку виски на крышу | adapted: adapted |
-| 4 | Костя | Только, пожалуйста, ничего Насте не говори. | Just please do not say anything to Nastya. | #193 00:15:41: Только Насте не говори | adapted: adapted |
-| 5 | Настя | В детстве у меня была такая кличка. | In childhood I had a nickname like that. | #196 00:15:50: в детстве у меня была кличка такая | adapted: adapted |
-| 6 | Костя | Настя, мне только что позвонила Катя. | Nastya, Katya just called me. | #199 00:16:00: Позвонила Кать | adapted: adapted |
-| 7 | Костя | Она попросила принести на крышу виски. | She asked me to bring whiskey to the roof. | #199 00:16:00: попросила на крышу принести виски | adapted: adapted |
-| 8 | Настя | Ну вот, молодец, что сразу признался. | Well there, good job for confessing right away. | #200 00:16:03: Ну вот, молодец, что признался | adapted: adapted |
-| 9 | Настя | Эту бутылку виски оставь здесь мне. | Leave this bottle of whiskey here with me. | #201 00:16:06: Бутылку оставь | adapted: adapted |
-| 10 | Настя | Костя, а где у тебя вкусный чай? | Kostya, where do you keep the tasty tea? | #202 00:16:09: а где у тебя чай стоит | adapted: adapted |
-| 11 | Костя | Чай лежит вон там за баром. | The tea is over there behind the bar. | #203 00:16:12: За баром | adapted: adapted |
-| 12 | Настя | Я сама отнесу ей горячий чай. | I will take the hot tea to her myself. | #202 00:16:09: чай стоит | adapted: adapted |
+| 1 | Тимур | Подождите, что здесь вообще сейчас происходит? | Wait, what is even going on here right now? | #188: Что происходит | adapted: adapted |
+| 2 | Тимур | Немедленно отпустите меня, что вы делаете? | Let me go immediately, what are you doing? | #189: Отпустите | adapted: adapted |
+| 3 | Костя | Костя, принеси бутылку виски на крышу. | Kostya, bring a bottle of whiskey to the roof. | #192: Костя, принеси, пожалуйста, бутылку виски на крышу | adapted: adapted |
+| 4 | Костя | Только, пожалуйста, ничего Насте не говори. | Just please do not say anything to Nastya. | #193: Только Насте не говори | adapted: adapted |
+| 5 | Настя | В детстве у меня была такая кличка. | In childhood I had a nickname like that. | #196: в детстве у меня была кличка такая | adapted: adapted |
+| 6 | Костя | Настя, мне только что позвонила Катя. | Nastya, Katya just called me. | #199: Позвонила Кать | adapted: adapted |
+| 7 | Костя | Она попросила принести на крышу виски. | She asked me to bring whiskey to the roof. | #199: попросила на крышу принести виски | adapted: adapted |
+| 8 | Настя | Ну вот, молодец, что сразу признался. | Well there, good job for confessing right away. | #200: Ну вот, молодец, что признался | adapted: adapted |
+| 9 | Настя | Эту бутылку виски оставь здесь мне. | Leave this bottle of whiskey here with me. | #201: Бутылку оставь | adapted: adapted |
+| 10 | Настя | Костя, а где у тебя вкусный чай? | Kostya, where do you keep the tasty tea? | #202: а где у тебя чай стоит | adapted: adapted |
+| 11 | Костя | Чай лежит вон там за баром. | The tea is over there behind the bar. | #203: За баром | adapted: adapted |
+| 12 | Настя | Я сама отнесу ей горячий чай. | I will take the hot tea to her myself. | #202: чай стоит | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Wait, what is even going on here right now?' The meaning hinges on 'wait' working together with 'is happening' in spoken Russian.
-- 'Let me go immediately, what are you doing?' Timur anchors the line on 'immediately', while 'are doing' completes the thought. Kostya answers right away.
-- 'Kostya, bring a bottle of whiskey to the roof.' In Russian, the idea of 'Kostya' flows naturally into 'roof' without extra filler words.
-- 'Just please do not say anything to Nastya.' In Russian, the idea of 'only' flows naturally into 'to speak' without extra filler words.
-- 'In childhood I had a nickname like that.' The grammar packs 'childhood' and 'nickname' into a tight, idiomatic kitchen exchange. Kostya answers right away.
-- 'Nastya, Katya just called me.' Kostya anchors the line on 'Nastya', while 'Katya' completes the thought.
-- 'She asked me to bring whiskey to the roof.' The grammar packs 'she' and 'whiskey' into a tight, idiomatic kitchen exchange.
-- 'Well there, good job for confessing right away.' Nastya anchors the line on 'come on', while 'did he confess' completes the thought.
-- 'Leave this bottle of whiskey here with me.' The grammar packs 'this' and 'to me' into a tight, idiomatic kitchen exchange.
-- 'Kostya, where do you keep the tasty tea?' Spoken Russian keeps this brisk, leaning on 'Kostya' and finishing on 'tea'.
-- 'The tea is over there behind the bar.' In Russian, the idea of 'tea' flows naturally into 'bar' without extra filler words. Nastya answers right away.
-- 'I will take the hot tea to her myself.' Spoken Russian keeps this brisk, leaning on 'I' and finishing on 'tea'.
+- 'Wait, what is even going on here right now?' Asking what even going on here right now is is how Timur puts Kostya on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Let me go immediately, what are you doing?' Timur asks whether let him go immediately what are Kostya doing, refusing to let the point slide. Notice how he sticks to the formal "you", keeping a professional line between them.
+- 'Kostya, bring a bottle of whiskey to the roof.' Bringing a bottle of whiskey to the roof is how Kostya lays out the situation for Nastya.
+- 'Just please do not say anything to Nastya.' Saying that just please do not say anything to Nastya is how Kostya sets the tone with Nastya. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
+- 'In childhood I had a nickname like that.' Once in childhood she had a nickname like, Nastya can finally tell Kostya what she means. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
+- 'Nastya, Katya just called me.' Adding that Katya just called him fills in the missing piece for Nastya.
+- 'She asked me to bring whiskey to the roof.' Kostya tells Nastya that she asked him to bring whiskey to the roof without dressing it up.
+- 'Well there, good job for confessing right away.' Between the guest and the shift, Nastya gives Kostya a quick, grounded response.
+- 'Leave this bottle of whiskey here with me.' Claiming that Kostya should leave this bottle of whiskey here sounds confident, even if Kostya has doubts.
+- 'Kostya, where do you keep the tasty tea?' Here asking where Kostya keeps the tasty tea shows Nastya looking for the real truth. Russian expresses having something as "by me is", keeping the phrase short and grounded.
+- 'The tea is over there behind the bar.' Because the tea is over there behind the bar, Kostya treats the matter as settled.
+- 'I will take the hot tea to her myself.' Explaining that she will take the hot tea to her herself lays the cards on the table for Kostya.

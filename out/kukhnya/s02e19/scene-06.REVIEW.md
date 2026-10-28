@@ -10,32 +10,32 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Шеф | Ну, понимаешь. | Well, you understand how it is. | #93 00:05:27: Ну, понимаешь | verbatim |
-| 2 | Нагиев | Поэтому хожу. | That is why I walk around like this. | #95 00:05:31: Поэтому хожу | verbatim |
-| 3 | Нагиев | Видишь, люди знают, любят. | You see, people know me and love me. | #102 00:05:57: Видишь, люди знают, любят | verbatim |
-| 4 | Шеф | Получается так. | That is how it turns out. | #103 00:06:00: Получается так | verbatim |
-| 5 | Нагиев | Дмитрий Владимирович. | Dmitriy Vladimirovich. | #103 00:06:00: Дмитрий Владимирович | verbatim |
-| 6 | Нагиев | Ваш кофе. | Here is your coffee. | #104 00:06:02: Ваш кофе | verbatim |
-| 7 | Шеф | Че это? | What is this? | #104 00:06:02: Че это | verbatim |
-| 8 | Нагиев | Я не просил. | I did not ask for this. | #105 00:06:05: Я не просил | verbatim |
-| 9 | Нагиев | Ах, вот как и я. | Ah, so that is how it is. | #106 00:06:07: Ах, вот как и я | verbatim |
-| 10 | Шеф | Ах, вот как. | Ah, I see now. | #107 00:06:09: Ах, вот как | verbatim |
-| 11 | Нагиев | Молодец. Глядишь так. | Good job. Keep looking like that. | #108 00:06:13: Молодец. Глядишь так | verbatim |
-| 12 | Нагиев | А че? | Why, what is wrong? | #109 00:06:16: А че | verbatim |
-| 13 | Шеф | Кстати, вам очень идет. | By the way, it suits you very well. | #110 00:06:19: Кстати, вам очень идет | verbatim |
+| 1 | Шеф | Ну, понимаешь. | Well, you understand how it is. | #93: Ну, понимаешь | verbatim |
+| 2 | Вика | Поэтому хожу. | That is why I walk around like this. | #95: Поэтому хожу | verbatim |
+| 3 | Нагиев | Видишь, люди знают, любят. | You see, people know me and love me. | #102: Видишь, люди знают, любят | verbatim |
+| 4 | Шеф | Получается так. | That is how it turns out. | #103: Получается так | verbatim |
+| 5 | Вика | Дмитрий Владимирович. | Dmitriy Vladimirovich. | #103: Дмитрий Владимирович | verbatim |
+| 6 | Нагиев | Ваш кофе. | Here is your coffee. | #104: Ваш кофе | verbatim |
+| 7 | Шеф | Че это? | What is this? | #104: Че это | verbatim |
+| 8 | Вика | Я не просил. | I did not ask for this. | #105: Я не просил | verbatim |
+| 9 | Нагиев | Ах, вот как и я. | Ah, so that is how it is. | #106: Ах, вот как и я | verbatim |
+| 10 | Шеф | Ах, вот как. | Ah, I see now. | #107: Ах, вот как | verbatim |
+| 11 | Вика | Молодец. Глядишь так. | Good job. Keep looking like that. | #108: Молодец. Глядишь так | verbatim |
+| 12 | Нагиев | А че? | Why, what is wrong? | #109: А че | verbatim |
+| 13 | Шеф | Кстати, вам очень идет. | By the way, it suits you very well. | #110: Кстати, вам очень идет | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, you understand how it is.' Spoken Russian keeps this brisk, leaning on 'come on' and finishing on 'do you understand'.
-- 'That is why I walk around like this.' Vika brings out the contrast between 'therefore' and 'walks' in a few short words.
-- 'You see, people know me and love me.' The meaning hinges on 'see' working together with 'love' in spoken Russian. Chef Viktor answers right away.
-- 'That is how it turns out.' In Russian, the idea of 'it works out' flows naturally into 'like this' without extra filler words.
-- 'Dmitriy Vladimirovich.' Vika anchors the line on 'Dmitry', while 'Vladimirovich' completes the thought.
-- 'Here is your coffee.' Spoken Russian keeps this brisk, leaning on 'your' and finishing on 'coffee'. Chef Viktor answers right away.
-- 'What is this?' The meaning hinges on 'what' working together with 'this' in spoken Russian.
-- 'I did not ask for this.' The '-l' ending on the verb meaning 'ask for' places the action in the masculine past tense.
-- 'Ah, so that is how it is.' Spoken Russian keeps this brisk, leaning on 'oh' and finishing on 'I'. Chef Viktor answers right away.
-- 'Ah, I see now.' Chef Viktor brings out the contrast between 'oh' and 'there you go' in a few short words.
-- 'Good job. Keep looking like that.' The meaning hinges on 'well done' working together with 'like this' in spoken Russian.
-- 'Why, what is wrong?' Notice how Russian expresses 'and' and 'what' with crisp inflection rather than helper words. Chef Viktor answers right away.
-- 'By the way, it suits you very well.' In Russian, the idea of 'by the way' flows naturally into 'goes' without extra filler words.
+- 'Well, you understand how it is.' Explaining that Nagiyev understands how it is lays the cards on the table for Nagiyev.
+- 'That is why I walk around like this.' Vika mentions that that is why she walks around like this so Barinov sees what is at stake.
+- 'You see, people know me and love me.' With the moment and coffee in play, Nagiyev keeps this short reply brisk and direct.
+- 'That is how it turns out.' Pointing out that that is how it turns out gives Nagiyev a sobering reality check.
+- 'Dmitriy Vladimirovich.' Around the moment and coffee, Vika sets a calm, everyday tone with Barinov.
+- 'Here is your coffee.' Realizing that here is Barinov's coffee changes how Nagiyev handles the situation. Notice how he sticks to the formal "you", keeping a professional line between them.
+- 'What is this?' Here wondering what this is shows Barinov looking for the real truth. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'I did not ask for this.' Even though she did not ask for this, Vika keeps a steady face in front of Barinov.
+- 'Ah, so that is how it is.' Admitting that that is how it is shows Nagiyev being honest for a change.
+- 'Ah, I see now.' Barinov mentions that he sees now so Nagiyev sees what is at stake.
+- 'Good job. Keep looking like that.' By keeping looking like, Vika keeps her side of the story grounded.
+- 'Why, what is wrong?' When Nagiyev asks if why what is wrong, Barinov has to answer fast. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'By the way, it suits you very well.' With the conversation and coffee in play, Barinov keeps this short reply brisk and direct. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.

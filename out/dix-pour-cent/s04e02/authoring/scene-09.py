@@ -7,30 +7,29 @@ SCENE = 9
 TITLE = "L'attente au café  (Waiting at the Café)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'lea': 'lucie', 'serveur': 'marcel'}
-LABELS = {'lea': 'Andréa', 'serveur': 'Le serveur'}
+LABELS = {'andrea': 'Andréa', 'serveur': 'Le serveur'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e02.fr.dual.srt'
 INTRO = "Sitting anxiously at a bistro table, Andrea waits for her important meeting with iconic actress Nathalie Baye. When she orders another coffee, a playful waiter teases her with celebrity lookalikes until an urgent phone call reveals that Mathias has diverted Nathalie to ASK. Let's listen to their conversation in French first."
 OPENER = "Let's examine the conversation line by line and explore the French expressions."
 TRANSITION = "Now let's listen to the complete discussion once more to reinforce the vocabulary."
 OUTRO = "Andrea races out of the cafe after realizing Mathias has intercepted Nathalie Baye. When you watch the episode, listen out for the expressions meaning 'excuse me' and 'madam'. You'll catch them now. See you next time!"
-CLOSING = ('lea', 'À bientôt!')
+CLOSING = ('andrea', 'À bientôt!')
 STORY = [
-    ('lea', 'Pardon monsieur, excusez-moi.', 'Pardon sir, excuse me.', [(449, 'Pardon, excusez-moi.')], ''),
+    ('andrea', 'Pardon monsieur, excusez-moi.', 'Pardon sir, excuse me.', [(449, 'Pardon, excusez-moi.')], ''),
     ('serveur', 'Oui madame, que désirez-vous?', 'Yes madam, what would you like?', [(450, 'Bien sûr.')], ''),
-    ('lea', 'Je peux commander un autre café?', 'Can I order another coffee?', [(450, 'Je peux commander un autre café ?')], ''),
+    ('andrea', 'Je peux commander un autre café?', 'Can I order another coffee?', [(450, 'Je peux commander un autre café ?')], ''),
     ('serveur', "Bien sûr, je vous l'apporte immédiatement.", 'Of course, I bring it to you immediately.', [(450, 'Bien sûr.')], ''),
-    ('lea', "Vous avez vu Nathalie Baye aujourd'hui?", 'Have you seen Nathalie Baye today?', [(451, 'Vous avez vu Nathalie Baye ?')], ''),
+    ('andrea', "Vous avez vu Nathalie Baye aujourd'hui?", 'Have you seen Nathalie Baye today?', [(451, 'Vous avez vu Nathalie Baye ?')], ''),
     ('serveur', 'Nathalie Baye? Non, pas du tout.', 'Nathalie Baye? No, not at all.', [(452, 'Nathalie Baye ?'), (453, 'Non, mais Catherine Deneuve est là-bas.')], ''),
     ('serveur', 'Mais Catherine Deneuve est assise là-bas!', 'But Catherine Deneuve is seated over there!', [(453, 'Catherine Deneuve est là-bas.')], ''),
-    ('lea', 'Vraiment? Où ça dans la salle?', 'Really? Where in the room?', [(453, 'Vraiment ? Où ça ?')], ''),
+    ('andrea', 'Vraiment? Où ça dans la salle?', 'Really? Where in the room?', [(453, 'Vraiment ? Où ça ?')], ''),
     ('serveur', "Je plaisante, c'était une petite blague!", 'I am joking, it was a little joke!', [(454, 'Je plaisante !')], ''),
-    ('lea', "Super, je n'ai pas le temps de rire.", 'Great, I do not have time to laugh.', [(455, 'Super.')], ''),
-    ('lea', 'Allô Gabriel? Où est passée Nathalie?', 'Hello Gabriel? Where did Nathalie go?', [(451, 'Nathalie')], ''),
-    ('lea', "Mathias l'a emmenée directement à l'agence!", 'Mathias took her directly to the agency!', [], ''),
+    ('andrea', "Super, je n'ai pas le temps de rire.", 'Great, I do not have time to laugh.', [(455, 'Super.')], ''),
+    ('andrea', 'Allô Gabriel? Où est passée Nathalie?', 'Hello Gabriel? Where did Nathalie go?', [(451, 'Nathalie')], ''),
+    ('andrea', "Mathias l'a emmenée directement à l'agence!", 'Mathias took her directly to the agency!', [], ''),
     ('serveur', 'Madame, voici votre nouveau café chaud!', 'Madam, here is your hot fresh coffee!', [(450, 'café')], ''),
-    ('lea', 'Donnez-le plutôt à Catherine Deneuve!', 'Give it instead to Catherine Deneuve!', [(453, 'Catherine')], ''),
+    ('andrea', 'Donnez-le plutôt à Catherine Deneuve!', 'Give it instead to Catherine Deneuve!', [(453, 'Catherine')], ''),
 ]
 WALK = [
     (0, None, "'Pardon sir, excuse me.' Andrea calls the waiter to her table. Notice how 'excuse me' leads directly into the noun meaning 'excuse me'."),

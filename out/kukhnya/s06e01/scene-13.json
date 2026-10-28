@@ -8,14 +8,10 @@
  "scene": 13,
  "title": "Катя заступилась за Дениса  (Katya Stood Up for Denis)",
  "level": "A1 — Duolingo Section 2",
- "voices": {
-  "narrator": "sky",
-  "senya": "angelina",
-  "chef": "anja"
- },
  "labels": {
-  "senya": "Сеня",
-  "chef": "Шеф"
+  "barinov": "Шеф",
+  "denis": "Денис",
+  "senya": "Сеня"
  },
  "segments": [
   {
@@ -24,17 +20,17 @@
    "gap": 0.8
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "С меня хватит.",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Я больше ничего делать не буду.",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Я сам сейчас всё скажу Элеоноре.",
    "gap": 0.55
   },
@@ -44,12 +40,12 @@
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "denis",
    "t": "Какое возвращение?",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "denis",
    "t": "Я тут не задержусь.",
    "gap": 0.55
   },
@@ -79,7 +75,7 @@
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "denis",
    "t": "Не знаю, посмотрим.",
    "gap": 0.9
   },
@@ -89,33 +85,33 @@
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "С меня хватит.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'I have had enough.' Spoken Russian keeps this brisk, leaning on 'with' and finishing on 'enough'.",
+   "t": "'I have had enough.' Barinov mentions that he has had enough so Denis sees what is at stake.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Я больше ничего делать не буду.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'I will not do anything more.' In Russian, the idea of 'I' flows naturally into 'will be' without extra filler words.",
+   "t": "'I will not do anything more.' Admitting that he will not do anything shows Barinov being honest for a change. Russian stacks \"never\" or \"nothing\" together with \"not\", doubling the refusal for extra weight.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Я сам сейчас всё скажу Элеоноре.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'I will tell Eleonora everything myself right now.' Here the Russian phrasing highlights 'I' before landing on 'will say'. Senya answers right away.",
+   "t": "'I will tell Eleonora everything myself right now.' Saying that he will tell Eleonora everything himself right now is how Barinov sets the tone with Denis.",
    "gap": 0.4
   },
   {
@@ -125,27 +121,27 @@
   },
   {
    "v": "narrator",
-   "t": "'Let's celebrate your return, Denis.' Senya anchors the line on 'come on', while 'Denis' completes the thought.",
+   "t": "'Let's celebrate your return, Denis.' Explaining that they should celebrate Barinov's return lays the cards on the table for Barinov.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "denis",
    "t": "Какое возвращение?",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'What return?' The grammar packs 'which' and 'return' into a tight, idiomatic kitchen exchange.",
+   "t": "'What return?' With the truth and wedding hanging in the air, Denis puts Barinov on the spot. In Russian, he does not need helper words like \"do\" or \"did\"—rising pitch alone turns it into a question.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "denis",
    "t": "Я тут не задержусь.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'I will not stay here long.' Denis brings out the contrast between 'I' and 'here' in a few short words. Senya answers right away.",
+   "t": "'I will not stay here long.' Saying that he will not stay here long is how Denis sets the tone with Barinov.",
    "gap": 0.4
   },
   {
@@ -155,7 +151,7 @@
   },
   {
    "v": "narrator",
-   "t": "'And I thought you would come back for good.' In everyday Russian, 'thought' flows straight into 'you come back, will return' without extra linking words.",
+   "t": "'And I thought you would come back for good.' Since he thought Barinov would come back for good, Senya does not waste words on excuses.",
    "gap": 0.4
   },
   {
@@ -165,7 +161,7 @@
   },
   {
    "v": "narrator",
-   "t": "'Katya talked to her mom because of you.' Senya brings out the contrast between 'Katya' and 'because of' in a few short words.",
+   "t": "'Katya talked to her mom because of you.' Mentioning that Katya talked to her because of Barinov moves the talk in a new direction. Using the informal \"you\" shows how direct and unfiltered their kitchen relationship is.",
    "gap": 0.4
   },
   {
@@ -175,7 +171,7 @@
   },
   {
    "v": "narrator",
-   "t": "'Yes, she pleaded for you.' Senya addresses the listener with the informal singular 'you' alongside 'you'.",
+   "t": "'Yes, she pleaded for you.' Around the room and wedding, Senya sets a calm, everyday tone with Barinov. Speaking with the close, informal \"you\" strips away any polite distance between them.",
    "gap": 0.4
   },
   {
@@ -185,7 +181,7 @@
   },
   {
    "v": "narrator",
-   "t": "'She said, do not meddle in my personal life.' Senya brings out the contrast between 'told' and 'not' in a few short words.",
+   "t": "'She said, do not meddle in my personal life.' Because she said do not meddle in his personal life, Senya treats the matter as settled.",
    "gap": 0.4
   },
   {
@@ -195,31 +191,31 @@
   },
   {
    "v": "narrator",
-   "t": "'She still loves you, I am telling you for sure.' In Russian, the idea of 'she' flows naturally into 'speak' without extra filler words.",
+   "t": "'She still loves you, I am telling you for sure.' Explaining that she still loves Barinov he is telling Barinov for sure lays the cards on the table for Barinov. Speaking with the close, informal \"you\" strips away any polite distance between them.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "denis",
    "t": "Не знаю, посмотрим.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'I do not know, we will see.' Spoken Russian keeps this brisk, leaning on 'not' and finishing on 'we shall see'. Alright, let's hear the entire conversation one more time from start to finish.",
+   "t": "'I do not know, we will see.' Because he does not know they will see, Denis treats the matter as settled. Alright, let's hear the entire conversation one more time from start to finish.",
    "gap": 0.9
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "С меня хватит.",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Я больше ничего делать не буду.",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Я сам сейчас всё скажу Элеоноре.",
    "gap": 0.5
   },
@@ -229,12 +225,12 @@
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "denis",
    "t": "Какое возвращение?",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "denis",
    "t": "Я тут не задержусь.",
    "gap": 0.5
   },
@@ -264,7 +260,7 @@
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "denis",
    "t": "Не знаю, посмотрим.",
    "gap": 0.9
   },

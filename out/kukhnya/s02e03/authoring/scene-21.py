@@ -4,23 +4,22 @@ SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 3
 SCENE = 21
-TITLE = "Съеденный ремень  (The Eaten Belt)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Съеденный ремень  (The Eaten Belt)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "guest": "anja", "senya": "angelina"}
-LABELS = {"guest": "Гость", "senya": "Сеня"}
+LABELS = {'fedya': 'Федя', 'guest': 'Гость', 'senya': 'Сеня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S2.03'
 SOURCE_FILE = 'sources/kukhnya/s02/e03.ru.dual.srt'
 INTRO = "When an angry guest discovers a leather belt hidden inside his salad because of Senya and Fedya's foolish bet, he marches into the kitchen and forces Senya to eat the belt himself. Let's listen closely to Senya and Fedya's exchange in Russian first, and then walk through each line together."
 OPENER = 'Now let us examine the conversation line by line.'
 TRANSITION = 'Now let us listen to the conversation once again.'
 OUTRO = "And that's it for this scene. When you watch the episode, listen out for the exchange around the eaten belt, and for the words meaning 'salad' and 'bread'. You'll catch them now. See you next time!"
-CLOSING = ("senya", "До встречи!")
+CLOSING = ('guest', 'До встречи!')
 STORY = [
     ('senya', 'Встали!', 'On your feet!', [(303, 'Встали!')], ''),
-    ('guest', 'Салат не понравился.', "He didn't like your salad.", [(304, 'ему твой салат не понравился.')], ''),
+    ('fedya', 'Салат не понравился.', "He didn't like your salad.", [(304, 'ему твой салат не понравился.')], ''),
     ('senya', 'Он его не пробовал.', "He didn't try it.", [(306, 'если он его даже не пробовал?')], ''),
-    ('guest', 'Вообще-то попробовал.', 'Actually, he has.', [(307, 'Вообще-то попробовал.')], ''),
+    ('fedya', 'Вообще-то попробовал.', 'Actually, he has.', [(307, 'Вообще-то попробовал.')], ''),
     ('guest', 'У меня в салате ремень.', 'There was a belt in my salad.', [(313, 'У меня в салате ремень оказался.')], ''),
     ('senya', 'Мы просто поспорили.', 'We just had a bet.', [(317, 'мы просто наспорх хотели.')], ''),
     ('guest', 'Чтоб я ремень съел?', "To see if I'd eat a belt?", [(319, 'Чтоб я ремень съел?')], ''),

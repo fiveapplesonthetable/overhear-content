@@ -7,18 +7,17 @@ SCENE = 24
 TITLE = "La cérémonie d'ouverture  (The Opening Ceremony)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'juliette': 'emilie', 'gabriel': 'theo'}
-LABELS = {'juliette': 'Juliette', 'gabriel': 'Gabriel'}
+LABELS = {'arlette': 'Arlette', 'gabriel': 'Gabriel', 'juliette': 'Juliette'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e06.fr.dual.srt'
 INTRO = "At the grand opening of the Cannes Film Festival, Juliette Binoche walks onto the stage in her torn evening dress. With warmth, humor, and passion, she delivers an inspiring address celebrating women in cinema. Let's listen to the scene in French first."
 OPENER = "Let's examine how Juliette Binoche wins over the audience step by step during the opening ceremony."
 TRANSITION = "Now let's listen to the scene once more from start to finish."
 OUTRO = 'Turning a potential wardrobe disaster into an unforgettable speech, Juliette Binoche electrifies the audience and officially launches the festival. See you next time!'
-CLOSING = ('gabriel', 'À demain!')
+CLOSING = ('arlette', 'À demain!')
 STORY = [
     ('gabriel', 'Regarde Juliette monter sur scène!', 'Look at Juliette going on stage!', [(664, 'monter sur scène')], ''),
-    ('gabriel', 'Sa robe de soirée est déchirée!', 'Her evening dress is torn!', [(679, 'sur ma robe')], ''),
+    ('arlette', 'Sa robe de soirée est déchirée!', 'Her evening dress is torn!', [(679, 'sur ma robe')], ''),
     ('juliette', 'Je vous explique tout ce soir.', 'I will explain everything tonight.', [(666, 'Je vous explique tout.')], ''),
     ('juliette', "Je suis tombée dans l'escalier!", 'I fell down the stairs!', [(680, "je suis tombée dans l'escalier.")], ''),
     ('juliette', 'Mais je ne voulais pas renoncer.', 'But I did not want to give up.', [(682, 'renoncer')], ''),
@@ -30,7 +29,7 @@ STORY = [
     ('juliette', 'Je suis très heureuse ce soir.', 'I am very happy tonight.', [(699, 'ce soir, je suis si heureuse')], ''),
     ('juliette', 'Je déclare ouvert ce grand festival!', 'I declare open this great festival!', [(702, 'Je déclare ouvert')], ''),
     ('gabriel', "C'est un triomphe absolu, bravo!", 'It is an absolute triumph, bravo!', [(703, 'Bravo !')], ''),
-    ('gabriel', 'Elle retombe toujours sur ses pieds!', 'She always lands on her feet!', [(697, 'Elle retombe sur ses pieds !')], ''),
+    ('arlette', 'Elle retombe toujours sur ses pieds!', 'She always lands on her feet!', [(697, 'Elle retombe sur ses pieds !')], ''),
 ]
 WALK = [
     (0, None, "'Look at Juliette going on stage!' Gabriel watches the opening moments of the ceremony."),

@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Нагиев | Что, мне это снять надо? | Wait, do I need to take these off? | #307 00:20:57: Что мне это снять надо? | adapted: verbatim |
-| 2 | Федя | Да, давай быстрее, начинаем! | Yes, come on faster, let's start! | #308 00:20:59: Да, да, да. Давай, а! | adapted: adapted |
-| 3 | Федя | Всё, теперь уже готово! | There, now it is all done! | #310 00:21:03: Готово! | adapted: adapted |
-| 4 | Федя | Ты только зубами не бойся. | Just do not be afraid of my teeth. | #312 00:21:07: Не бойся зубами | adapted: adapted |
-| 5 | Федя | Тебе сейчас не больно, нет? | Does it hurt right now, or not? | #314 00:21:11: Не больно, нет? | adapted: verbatim |
-| 6 | Нагиев | Да нет, нормально, всё хорошо. | No, it is fine, everything is good. | #314 00:21:11: Да, нет, нормально, хорошо, да | adapted: adapted |
-| 7 | Федя | Вообще-то полоз — не ядовитая змея. | Actually, a rat snake is a non-venomous snake. | #315 00:21:14: не ядовитый, змея | adapted: adapted |
-| 8 | Федя | Наш полоз не ядовитый вообще. | Our rat snake is not venomous at all. | #316 00:21:16: не ядовитый вообще | adapted: adapted |
-| 9 | Нагиев | Ну, конечно, он не ядовитый. | Well, of course it is not venomous. | #317 00:21:22: Ну, конечно, не ядовитый | adapted: verbatim |
-| 10 | Федя | Полоз ведь совсем не ядовитый. | After all, a rat snake is not venomous at all. | #319 00:21:27: Полоз-то не ядовитый | adapted: adapted |
-| 11 | Нагиев | Значит, пятьдесят тысяч за полоза. | Then fifty thousand for a rat snake. | #321 00:21:32: Пятьдесят тысяч за полоза | adapted: verbatim |
-| 12 | Федя | Ладно, это вполне справедливо. | Fine, that is quite fair. | #322 00:21:34: Справедливо | adapted: adapted |
+| 1 | Нагиев | Что, мне это снять надо? | Wait, do I need to take these off? | #307: Что мне это снять надо? | adapted: verbatim |
+| 2 | Федя | Да, давай быстрее, начинаем! | Yes, come on faster, let's start! | #308: Да, да, да. Давай, а! | adapted: adapted |
+| 3 | Федя | Всё, теперь уже готово! | There, now it is all done! | #310: Готово! | adapted: adapted |
+| 4 | Федя | Ты только зубами не бойся. | Just do not be afraid of my teeth. | #312: Не бойся зубами | adapted: adapted |
+| 5 | Федя | Тебе сейчас не больно, нет? | Does it hurt right now, or not? | #314: Не больно, нет? | adapted: verbatim |
+| 6 | Нагиев | Да нет, нормально, всё хорошо. | No, it is fine, everything is good. | #314: Да, нет, нормально, хорошо, да | adapted: adapted |
+| 7 | Шеф | Вообще-то полоз — не ядовитая змея. | Actually, a rat snake is a non-venomous snake. | #315: не ядовитый, змея | adapted: adapted |
+| 8 | Шеф | Наш полоз не ядовитый вообще. | Our rat snake is not venomous at all. | #316: не ядовитый вообще | adapted: adapted |
+| 9 | Нагиев | Ну, конечно, он не ядовитый. | Well, of course it is not venomous. | #317: Ну, конечно, не ядовитый | adapted: verbatim |
+| 10 | Шеф | Полоз ведь совсем не ядовитый. | After all, a rat snake is not venomous at all. | #319: Полоз-то не ядовитый | adapted: adapted |
+| 11 | Нагиев | Значит, пятьдесят тысяч за полоза. | Then fifty thousand for a rat snake. | #321: Пятьдесят тысяч за полоза | adapted: verbatim |
+| 12 | Федя | Ладно, это вполне справедливо. | Fine, that is quite fair. | #322: Справедливо | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Wait, do I need to take these off?' Dmitry Nagiyev raises the pitch on 'need' to turn the phrase into a direct spoken question. Fedya answers right away.
-- 'Yes, come on faster, let's start!' Fedya brings out the contrast between 'yes' and 'come on' in a few short words.
-- 'There, now it is all done!' Fedya brings out the contrast between 'everything' and 'now' in a few short words.
-- 'Just do not be afraid of my teeth.' Fedya addresses the listener with the informal singular 'you' alongside 'fear'.
-- 'Does it hurt right now, or not?' Fedya brings out the contrast between 'to you' and 'now' in a few short words.
-- 'No, it is fine, everything is good.' The meaning hinges on 'yes' working together with 'well' in spoken Russian.
-- 'Actually, a rat snake is a non-venomous snake.' In Russian, the idea of 'actually' flows naturally into 'snake' without extra filler words.
-- 'Our rat snake is not venomous at all.' Spoken Russian keeps this brisk, leaning on 'our' and finishing on 'at all'.
-- 'Well, of course it is not venomous.' Notice how Russian expresses 'come on' and 'venomous' with crisp inflection rather than helper words.
-- 'After all, a rat snake is not venomous at all.' Here the Russian phrasing highlights 'rat snake' before landing on 'venomous'. Dmitry Nagiyev answers right away.
-- 'Then fifty thousand for a rat snake.' Dmitry Nagiyev brings out the contrast between 'so' and 'fifty' in a few short words.
-- 'Fine, that is quite fair.' Fedya anchors the line on 'all right', while 'fairly' completes the thought.
+- 'Wait, do I need to take these off?' Checking whether he needs to take these off cuts straight through the tension between Nagiyev and Barinov. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
+- 'Yes, come on faster, let's start!' Because Barinov should come on faster let them start, Fedya does not bother softening the blow for Barinov.
+- 'There, now it is all done!' Because there now it is all done, Fedya does not bother softening the blow for Barinov. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Just do not be afraid of my teeth.' Mentioning that just do not be afraid of his teeth moves the talk in a new direction. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Does it hurt right now, or not?' Asking whether it hurt right now or not cuts straight through the tension between Fedya and Barinov.
+- 'No, it is fine, everything is good.' Because it is fine everything is good, Nagiyev treats the matter as settled.
+- 'Actually, a rat snake is a non-venomous snake.' Explaining that a rat snake is a venomous snake lays the cards on the table for Fedya. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'Our rat snake is not venomous at all.' Barinov mentions that their rat snake is not venomous at all so Fedya sees what is at stake.
+- 'Well, of course it is not venomous.' Claiming that it is not venomous sounds confident, even if Barinov has doubts.
+- 'After all, a rat snake is not venomous at all.' Pointing out that after all a rat snake is not venomous at all gives Fedya a sobering reality check.
+- 'Then fifty thousand for a rat snake.' Around the point and conversation, Nagiyev sets a calm, everyday tone with Barinov.
+- 'Fine, that is quite fair.' Realizing that fine that is quite fair changes how Fedya handles the situation. Russian drops "is" in the present, setting the two halves of the thought side by side.

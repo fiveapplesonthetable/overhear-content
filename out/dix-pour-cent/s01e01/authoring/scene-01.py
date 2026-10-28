@@ -7,7 +7,6 @@ SCENE = 1
 TITLE = 'Cécile est en retard  (Cécile Is Late)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'cecile': 'emilie', 'gabriel': 'theo', 'journaliste': 'marcel'}
 LABELS = {'cecile': 'Cécile', 'gabriel': 'Gabriel', 'journaliste': 'Le journaliste'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e01.fr.dual.srt'
@@ -36,24 +35,24 @@ STORY = [
     ('cecile', "C'est comme un rêve pour moi.", 'It', [(68, "C'est comme un rêve pour moi")], ''),
 ]
 WALK = [
-    (0, None, "'Where are you?' The question word comes at the very end, which is how people really talk. And notice the formal 'you': Gabriel and Cécile have worked together for years, but agent and star keep the polite form."),
-    (1, None, "'I'm at my horse-riding lesson.' Cécile is cheerful, out in the countryside on a horse called Biscotte, and she has completely forgotten the photo shoot."),
-    (2, None, "'We're at the Westin.' That little word at the start means 'we' in everyday speech; it's shorter and more casual than the textbook word for 'we'."),
-    (3, None, "'Everyone is here.' Literally 'all the world is here'. Gabriel means the journalist, the photographer, the make-up people, all waiting."),
-    (4, None, "'Oh no! I'm late.' In the show she says something much ruder; here she keeps it clean."),
-    (5, None, "'You can ride, can't you?' The small word at the end turns a statement into a worried check. The American film people insisted that the actress must be good on a horse."),
-    (6, None, "'Yes, yes. I just need a little lesson.' The word for 'just' slips in after the verb. She sounds a lot less sure than she wants to."),
-    (7, None, "'Can I trust you?' Again the polite 'you', tucked in before the verb. Gabriel is getting anxious."),
-    (8, None, "'I've almost got it.' Literally 'I'm almost at the point'. Then she gets off the phone in a hurry, because the horse is heading into the woods."),
-    (9, None, "'I'll call you back.' A sentence you'll hear all the time in an agency where everybody is on the phone. Gabriel has one last question."),
-    (10, None, "'When will you be here?' This one is in the future tense, and again the question word sits at the end."),
-    (11, None, "'In an hour.' An hour later she rushes into the hotel, still smelling of horse."),
-    (12, None, "'I'm sorry. Really sorry.' On paper the word for 'sorry' gets an extra e at the end because Cécile is a woman; a man would write it without, though both sound exactly the same. Then make-up, lights, and the interview."),
-    (13, None, "'Are you making a film in the United States?' The journalist has heard a rumour, and she is fishing for news."),
-    (14, None, "'Nothing is signed. We're waiting for the call.' The word for 'nothing' works with the little negative word before the verb, just like 'not' does. They are waiting for a call from Los Angeles."),
-    (15, None, "'It's Tarantino's next film.' Cécile can't resist telling her, off the record of course."),
-    (16, None, "'Fantastic!' The same word as in English, with a French accent. But at that very moment, Gabriel's phone buzzes with a message."),
-    (17, None, "'Tarantino won't take Cécile.' The two little negative words wrap around the verb, here a verb in the future."),
-    (18, None, "'A problem with her age.' Cécile is in her early forties, and Hollywood has decided that is too old. Gabriel reads it under his breath, goes pale, and says nothing to her."),
-    (19, None, "'It's like a dream for me.' Cécile says it to the journalist, happy and unaware, while her agent stands right there holding the bad news. Now let's hear the whole scene again, from the phone call to the photo shoot."),
+    (0, 'Vous êtes où?', "'Where are you?' The question word comes at the very end, which is how people really talk. And notice the formal 'you': Gabriel and Cécile have worked together for years, but agent and star keep the polite form."),
+    (1, "Je suis à mon cours d'équitation.", "'I'm at my horse-riding lesson.' Cécile is cheerful, out in the countryside on a horse called Biscotte, and she has completely forgotten the photo shoot."),
+    (2, 'On est au Westin.', "'We're at the Westin.' That little word at the start means 'we' in everyday speech; it's shorter and more casual than the textbook word for 'we'."),
+    (2, 'Tout le monde est là.', "'Everyone is here.' Literally 'all the world is here'. Gabriel means the journalist, the photographer, the make-up people, all waiting."),
+    (3, None, "'Oh no! I'm late.' In the show she says something much ruder; here she keeps it clean."),
+    (4, None, "'You can ride, can't you?' The small word at the end turns a statement into a worried check. The American film people insisted that the actress must be good on a horse."),
+    (5, None, "'Yes, yes. I just need a little lesson.' The word for 'just' slips in after the verb. She sounds a lot less sure than she wants to."),
+    (6, None, "'Can I trust you?' Again the polite 'you', tucked in before the verb. Gabriel is getting anxious."),
+    (7, 'Je suis presque au point.', "'I've almost got it.' Literally 'I'm almost at the point'. Then she gets off the phone in a hurry, because the horse is heading into the woods."),
+    (7, 'Je vous rappelle.', "'I'll call you back.' A sentence you'll hear all the time in an agency where everybody is on the phone. Gabriel has one last question."),
+    (8, None, "'When will you be here?' This one is in the future tense, and again the question word sits at the end."),
+    (9, None, "'In an hour.' An hour later she rushes into the hotel, still smelling of horse."),
+    (10, None, "'I'm sorry. Really sorry.' On paper the word for 'sorry' gets an extra e at the end because Cécile is a woman; a man would write it without, though both sound exactly the same. Then make-up, lights, and the interview."),
+    (11, None, "'Are you making a film in the United States?' The journalist has heard a rumour, and she is fishing for news."),
+    (12, None, "'Nothing is signed. We're waiting for the call.' The word for 'nothing' works with the little negative word before the verb, just like 'not' does. They are waiting for a call from Los Angeles."),
+    (13, None, "'It's Tarantino's next film.' Cécile can't resist telling her, off the record of course."),
+    (14, None, "'Fantastic!' The same word as in English, with a French accent. But at that very moment, Gabriel's phone buzzes with a message."),
+    (15, 'Tarantino ne prendra pas Cécile.', "'Tarantino won't take Cécile.' The two little negative words wrap around the verb, here a verb in the future."),
+    (15, "Problème d'âge.", "'A problem with her age.' In response, Cécile is in her early forties, and Hollywood has decided that is too old. Gabriel reads it under his breath, goes pale, and says nothing to her."),
+    (16, None, "'It's like a dream for me.' Cécile says it to the journalist, happy and unaware, while her agent stands right there holding the bad news. Now let's hear the whole scene again, from the phone call to the photo shoot."),
 ]

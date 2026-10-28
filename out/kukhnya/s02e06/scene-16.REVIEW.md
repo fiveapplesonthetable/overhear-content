@@ -10,32 +10,32 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Сеня | Вычту из пенсии. | I will deduct it from your pension. | #264 00:17:21: Вычту из пенсии | verbatim |
-| 2 | Аня | Я не брал. | I did not take it. | #265 00:17:26: Я не брал | verbatim |
-| 3 | Сеня | Сеня. Леша. | Senya. Lyosha. | #266 00:17:32: Сеня. Леша | verbatim |
-| 4 | Аня | Ты брал отсюда пирожное? | Did you take the pastry from right here? | #267 00:17:34: Ты брал отсюда пирожное | verbatim |
-| 5 | Сеня | Нет. Сеня? | No. Senya? | #268 00:17:36: Нет. Сеня | verbatim |
-| 6 | Аня | Я плачу. | I am crying here. | #269 00:17:40: Я плачу | verbatim |
-| 7 | Сеня | И ты ничего не почувствовал? | And you did not feel anything hard inside? | #270 00:17:41: И ты ничего не почувствовал | verbatim |
-| 8 | Аня | Хозяин требует десерт. | The owner is demanding the dessert right now. | #271 00:17:45: Хозяин требует десерт | verbatim |
-| 9 | Сеня | Было вкусно. | It was delicious. | #271 00:17:45: Было вкусно | verbatim |
-| 10 | Аня | Вот где-то здесь. | Right around here somewhere. | #272 00:17:46: Вот где-то здесь | verbatim |
-| 11 | Сеня | Этот парень его уже съел. | This guy already ate it. | #273 00:17:50: Этот<br>#273 00:17:50: его | adapted: adapted |
-| 12 | Аня | А где наш десерт? | And where is our dessert? | #275 00:18:02: А где наш десерт | verbatim |
-| 13 | Сеня | Еще пару минут. | Just a couple more minutes. | #276 00:18:04: Еще пару минут | verbatim |
+| 1 | Сеня | Вычту из пенсии. | I will deduct it from your pension. | #264: Вычту из пенсии | verbatim |
+| 2 | Макс | Я не брал. | I did not take it. | #265: Я не брал | verbatim |
+| 3 | Сеня | Сеня. Леша. | Senya. Lyosha. | #266: Сеня. Леша | verbatim |
+| 4 | Макс | Ты брал отсюда пирожное? | Did you take the pastry from right here? | #267: Ты брал отсюда пирожное | verbatim |
+| 5 | Сеня | Нет. Сеня? | No. Senya? | #268: Нет. Сеня | verbatim |
+| 6 | Макс | Я плачу. | I am crying here. | #269: Я плачу | verbatim |
+| 7 | Сеня | И ты ничего не почувствовал? | And you did not feel anything hard inside? | #270: И ты ничего не почувствовал | verbatim |
+| 8 | Макс | Хозяин требует десерт. | The owner is demanding the dessert right now. | #271: Хозяин требует десерт | verbatim |
+| 9 | Сеня | Было вкусно. | It was delicious. | #271: Было вкусно | verbatim |
+| 10 | Макс | Вот где-то здесь. | Right around here somewhere. | #272: Вот где-то здесь | verbatim |
+| 11 | Сеня | Этот парень его уже съел. | This guy already ate it. | #273: Этот<br>#273: его | adapted: adapted |
+| 12 | Макс | А где наш десерт? | And where is our dessert? | #275: А где наш десерт | verbatim |
+| 13 | Сеня | Еще пару минут. | Just a couple more minutes. | #276: Еще пару минут | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I will deduct it from your pension.' The grammar packs 'salary' and 'pension' into a tight, idiomatic kitchen exchange.
-- 'I did not take it.' Spoken Russian keeps this brisk, leaning on 'I' and finishing on 'took'.
-- 'Senya. Lyosha.' Senya brings out the contrast between 'Senya' and 'Lyosha' in a few short words. Max answers right away.
-- 'Did you take the pastry from right here?' The '-l' ending on the verb meaning 'took' places the action in the masculine past tense.
-- 'No. Senya?' Here the Russian phrasing highlights 'there is no' before landing on 'Senya'.
-- 'I am crying here.' Max anchors the line on 'I', while 'pay' completes the thought. Senya answers right away.
-- 'And you did not feel anything hard inside?' In Russian, the idea of 'both' flows naturally into 'felt' without extra filler words.
-- 'The owner is demanding the dessert right now.' Here the Russian phrasing highlights 'owner' before landing on 'dessert'.
-- 'It was delicious.' The grammar packs 'there was' and 'tasty' into a tight, idiomatic kitchen exchange. Max answers right away.
-- 'Right around here somewhere.' Spoken Russian keeps this brisk, leaning on 'there you go' and finishing on 'here'.
-- 'This guy already ate it.' Here Senya anchors the thought on 'boyfriend' and finishes on 'ate', keeping the spoken rhythm brisk and natural.
-- 'And where is our dessert?' Notice how Russian expresses 'and' and 'dessert' with crisp inflection rather than helper words. Senya answers right away.
-- 'Just a couple more minutes.' Notice how Russian expresses 'else' and 'minutes' with crisp inflection rather than helper words.
+- 'I will deduct it from your pension.' Senya mentions that he will deduct it from Max's pension so Max sees what is at stake.
+- 'I did not take it.' Claiming that he did not take it sounds confident, even if Senya has doubts.
+- 'Senya. Lyosha.' Over the work and the conversation, Senya answers Max without a second thought.
+- 'Did you take the pastry from right here?' Here asking whether Senya takes the pastry from right here shows Max looking for the real truth.
+- 'No. Senya?' Around the truth and conversation, Senya wants to know where Max really stands. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'I am crying here.' Admitting that he is crying here shows Max being honest for a change.
+- 'And you did not feel anything hard inside?' Asking whether Max did not feel anything hard inside puts Max right on the defensive.
+- 'The owner is demanding the dessert right now.' Admitting that the owner is demanding the dessert right now shows Max being honest for a change.
+- 'It was delicious.' Saying that it was delicious is how Senya sets the tone with Max.
+- 'Right around here somewhere.' With the point and work in play, Max keeps this short reply brisk and direct.
+- 'This guy already ate it.' Adding that this guy already ate it fills in the missing piece for Max.
+- 'And where is our dessert?' Here asking where their dessert is shows Max looking for the real truth. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Just a couple more minutes.' Over the truth and the dessert, Senya answers Max without a second thought.

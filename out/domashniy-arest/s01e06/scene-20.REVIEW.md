@@ -10,29 +10,29 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Юля | А что, завидно? У него свой мясокомбинат! | What, are you jealous? He owns his own meatpacking plant! | #732 00:40:45: А что, завидно<br>#734 00:40:48: У него свой | adapted: ASR 'маск-комбинат' restored to 'мясокомбинат' |
-| 2 | Юля | Он мне машину скоро покупает. Так что пока! | He's buying me a car soon. So bye! | #735 00:40:51: Он мне<br>#735 00:40:51: скоро покупает<br>#736 00:40:54: Так что | adapted: slang 'тачку' -> 'машину'; Italian 'аривидерчи' -> 'пока' |
-| 3 | Юля | Ваня, я сама с ней спокойно поговорю. Успокойся. | Vanya, I'll talk to her calmly myself. Calm down. | #738 00:41:06: я сама с ней спокойно поговорю<br>#741 00:41:12: Успокойся | adapted: ASR 'Дядь' -> 'Ваня' |
-| 4 | Юля | Я дома! — Привет. Доченька, как дела в школе? | I'm home! — Hi. Sweetie, how are things at school? | #737 00:40:56: Я дома<br>#742 00:41:15: Привет<br>#743 00:41:17: Доченька<br>#743 00:41:17: как<br>#743 00:41:17: дела в школе | verbatim |
-| 5 | Юля | Хорошо! Пятёрка по литературе, пятёрка по русскому. | Good! A five in literature, a five in Russian. | #744 00:41:21: Хорошо<br>#745 00:41:23: Пятерка по литературе<br>#746 00:41:24: пятерка по русскому | verbatim |
-| 6 | Юля | Четыре по алгебре, зато по физкультуре пятёрка. | A four in algebra, but a five in gym. | #747 00:41:26: четыре по алгебре<br>#747 00:41:26: зато по физкультуре пятерка | verbatim |
-| 7 | Юля | Доченька! А ты нам про все пятёрки рассказала? | Sweetheart! Have you told us about all your fives? | #748 00:41:31: Доченька<br>#749 00:41:32: А ты нам про все<br>#749 00:41:32: рассказала | adapted: '-то' dropped for A1 |
-| 8 | Юля | Может, ты забыла про какие-нибудь? — Какие? — Вот эти вот! | Maybe you forgot about some? — Like what? — These right here! | #750 00:41:36: Может, ты забыла про какие-нибудь<br>#751 00:41:41: Какие<br>#752 00:41:43: Вот эти вот | verbatim |
-| 9 | Юля | Кто вам разрешил смотреть мои вещи? | Who gave you permission to look through my things? | #753 00:41:46: кто разрешил | adapted: slang 'по моим вещам шариться' -> 'смотреть мои вещи' |
-| 10 | Юля | Тебя две недели в школе не было! | You haven't been at school for two weeks! | #754 00:41:48: Тебя две недели в школе не было | verbatim |
-| 11 | Юля | Все думают, ты в больнице. Откуда деньги? | Everyone thinks you're in the hospital. Where did the money come from? | #755 00:41:50: Все думают, ты в больнице<br>#756 00:41:51: Откуда деньги | verbatim |
-| 12 | Юля | Не твоё дело! — Это моё дело! — Я их заработала! | None of your business! — It is my business! — I earned it! | #757 00:41:51: Не твое дело<br>#758 00:41:52: мое дело<br>#759 00:41:53: Я их заработала | verbatim |
-| 13 | Юля | Заработала? Расскажи нам тогда, как ты их заработала? | Earned it? Then tell us how you earned it? | #760 00:41:54: Заработала<br>#762 00:41:55: расскажи нам тогда, как ты их | verbatim |
-| 14 | Юля | Обманом? Украла? — Сама ты украла! | By cheating? Did you steal it? — You're the one who stole! | #767 00:42:00: Сама ты | adapted: crude accusations in cues 763-767 ('наркотиками', 'девочка по вызову', 'проститутка') cleaned to 'Обманом? Украла?' |
-| 15 | Юля | Я вас всех ненавижу! | I hate all of you! | #768 00:42:03: Вас всех ненавижу | verbatim |
-| 16 | Самсон | Молодец. Спокойно поговорила. | Nice job. Had a calm talk with her. | #770 00:42:20: Молодец<br>#771 00:42:22: Спокойно поговорила | verbatim |
+| 1 | Юля | А что, завидно? У него свой мясокомбинат! | What, are you jealous? He owns his own meatpacking plant! | #732: А что, завидно<br>#734: У него свой | adapted: ASR 'маск-комбинат' restored to 'мясокомбинат' |
+| 2 | Юля | Он мне машину скоро покупает. Так что пока! | He's buying me a car soon. So bye! | #735: Он мне<br>#735: скоро покупает<br>#736: Так что | adapted: slang 'тачку' -> 'машину'; Italian 'аривидерчи' -> 'пока' |
+| 3 | Нина | Ваня, я сама с ней спокойно поговорю. Успокойся. | Vanya, I'll talk to her calmly myself. Calm down. | #738: я сама с ней спокойно поговорю<br>#741: Успокойся | adapted: ASR 'Дядь' -> 'Ваня' |
+| 4 | Юля | Я дома! — Привет. Доченька, как дела в школе? | I'm home! — Hi. Sweetie, how are things at school? | #737: Я дома<br>#742: Привет<br>#743: Доченька<br>#743: как<br>#743: дела в школе | verbatim |
+| 5 | Юля | Хорошо! Пятёрка по литературе, пятёрка по русскому. | Good! A five in literature, a five in Russian. | #744: Хорошо<br>#745: Пятерка по литературе<br>#746: пятерка по русскому | verbatim |
+| 6 | Юля | Четыре по алгебре, зато по физкультуре пятёрка. | A four in algebra, but a five in gym. | #747: четыре по алгебре<br>#747: зато по физкультуре пятерка | verbatim |
+| 7 | Нина | Доченька! А ты нам про все пятёрки рассказала? | Sweetheart! Have you told us about all your fives? | #748: Доченька<br>#749: А ты нам про все<br>#749: рассказала | adapted: '-то' dropped for A1 |
+| 8 | Нина | Может, ты забыла про какие-нибудь? — Какие? — Вот эти вот! | Maybe you forgot about some? — Like what? — These right here! | #750: Может, ты забыла про какие-нибудь<br>#751: Какие<br>#752: Вот эти вот | verbatim |
+| 9 | Юля | Кто вам разрешил смотреть мои вещи? | Who gave you permission to look through my things? | #753: кто разрешил | adapted: slang 'по моим вещам шариться' -> 'смотреть мои вещи' |
+| 10 | Нина | Тебя две недели в школе не было! | You haven't been at school for two weeks! | #754: Тебя две недели в школе не было | verbatim |
+| 11 | Нина | Все думают, ты в больнице. Откуда деньги? | Everyone thinks you're in the hospital. Where did the money come from? | #755: Все думают, ты в больнице<br>#756: Откуда деньги | verbatim |
+| 12 | Юля | Не твоё дело! — Это моё дело! — Я их заработала! | None of your business! — It is my business! — I earned it! | #757: Не твое дело<br>#758: мое дело<br>#759: Я их заработала | verbatim |
+| 13 | Нина | Заработала? Расскажи нам тогда, как ты их заработала? | Earned it? Then tell us how you earned it? | #760: Заработала<br>#762: расскажи нам тогда, как ты их | verbatim |
+| 14 | Нина | Обманом? Украла? — Сама ты украла! | By cheating? Did you steal it? — You're the one who stole! | #767: Сама ты | adapted: crude accusations in cues 763-767 ('наркотиками', 'девочка по вызову', 'проститутка') cleaned to 'Обманом? Украла?' |
+| 15 | Юля | Я вас всех ненавижу! | I hate all of you! | #768: Вас всех ненавижу | verbatim |
+| 16 | Самсон | Молодец. Спокойно поговорила. | Nice job. Had a calm talk with her. | #770: Молодец<br>#771: Спокойно поговорила | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'What, are you jealous? He owns his own meatpacking plant!' Rather than admit she works there cleaning up, Yulya brags to her classmate.
 - 'He's buying me a car soon. So bye!' She waves Kapustina off and heads upstairs.
 - 'Vanya, I'll talk to her calmly myself. Calm down.' Inside the apartment, Nina promises Samson that she will handle their daughter gently.
-- 'I'm home! — Hi. Sweetie, how are things at school?' Nina starts in an overly sweet voice, using the affectionate diminutive for 'daughter'.
+- 'I'm home! — Hi. Sweetie, how are things at school?' In this moment, Nina starts in an overly sweet voice, using the affectionate diminutive for 'daughter'.
 - 'Good! A five in literature, a five in Russian.' In Russian schools, five is the top grade, like an A.
 - 'A four in algebra, but a five in gym.' After the preposition 'by' or 'in', each school subject takes the 'to/for' form.
 - 'Sweetheart! Have you told us about all your fives?' Nina's voice suddenly turns icy, playing on the double meaning of 'fives' as five-thousand-rouble banknotes.

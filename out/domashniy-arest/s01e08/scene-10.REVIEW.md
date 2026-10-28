@@ -10,7 +10,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Бармен | Доброе утро! Просыпайся, соня. | Good morning! Wake up, sleepyhead. | #143 00:09:32: Доброе утро | verbatim |
+| 1 | Бармен | Доброе утро! Просыпайся, соня. | Good morning! Wake up, sleepyhead. | #143: Доброе утро | verbatim |
 | 2 | Самсон | Где я? Который сейчас час? | Where am I? What time is it now? | new | new |
 | 3 | Бармен | Уже утро. Наш бар закрывается. | It is already morning. Our bar is closing. | new | new |
 | 4 | Самсон | Дай мне ещё один стакан. | Give me one more glass. | new | new |
@@ -20,9 +20,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 8 | Самсон | Я должен всё забыть. | I must forget everything. | new | new |
 | 9 | Бармен | Твои деньги совсем закончились. | Your money has completely run out. | new | new |
 | 10 | Самсон | Налей в долг! Я заплачу. | Pour on credit! I will pay. | new | new |
-| 11 | Бармен | Никаких долгов. Ты не мог заплатить. | No debts. You could not pay. | #144 00:09:40: Ты не мог | verbatim |
+| 11 | Бармен | Никаких долгов. Ты не мог заплатить. | No debts. You could not pay. | #144: Ты не мог | verbatim |
 | 12 | Самсон | Мне нужно на выборы! | I need to go to the election! | new | new |
-| 13 | Бармен | Вставай на ноги и вали отсюда! | Get on your feet and get lost! | #145 00:09:42: Вали | verbatim |
+| 13 | Бармен | Вставай на ноги и вали отсюда! | Get on your feet and get lost! | #145: Вали | verbatim |
 | 14 | Самсон | Ухожу, ухожу. Мне очень плохо. | I am leaving, leaving. I feel very bad. | new | new |
 
 ## Walk-through narration (English only, no target-language words quoted)

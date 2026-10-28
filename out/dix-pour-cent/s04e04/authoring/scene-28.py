@@ -7,8 +7,7 @@ SCENE = 28
 TITLE = "Course vers l'hôpital  (Race to the Hospital)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'camille': 'emilie', 'lea': 'lucie'}
-LABELS = {'camille': 'Camille', 'lea': 'Andréa'}
+LABELS = {'camille': 'Camille', 'noemie': 'Noémie'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e04.fr.dual.srt'
 INTRO = "Rushing out of the cafe into the bustling Parisian streets, Camille and Noemie look anxiously for an available cab. Terrified for Mathias's life, the two women put aside all past grievances as they scramble to reach the hospital emergency room. Let's listen to the scene in French first."
@@ -18,19 +17,19 @@ OUTRO = "Terrified by the news of Mathias's heart attack, Camille and Noemie fla
 CLOSING = ('camille', 'Au revoir!')
 STORY = [
     ('camille', "Taxi! Arrêtez-vous ici, s'il vous plaît!", 'Taxi! Stop here, please!', [(1285, 'Taxi !')], ''),
-    ('lea', 'Taxi! Nous sommes très pressées!', 'Taxi! We are in a great hurry!', [(1286, 'Taxi !')], ''),
+    ('noemie', 'Taxi! Nous sommes très pressées!', 'Taxi! We are in a great hurry!', [(1286, 'Taxi !')], ''),
     ('camille', 'Cette voiture passe sans ralentir.', 'This car passes without slowing down.', [(1285, 'Taxi !')], ''),
-    ('lea', 'Nous devons trouver une autre voiture.', 'We must find another car.', [(1286, 'Taxi !')], ''),
+    ('noemie', 'Nous devons trouver une autre voiture.', 'We must find another car.', [(1286, 'Taxi !')], ''),
     ('camille', "Mathias est en danger à l'hôpital.", 'Mathias is in danger at the hospital.', [(1285, 'Taxi !')], ''),
-    ('lea', "J'ai tellement peur pour sa vie.", 'I am so afraid for his life.', [(1286, 'Taxi !')], ''),
+    ('noemie', "J'ai tellement peur pour sa vie.", 'I am so afraid for his life.', [(1286, 'Taxi !')], ''),
     ('camille', 'Garde ton calme avec moi, Noémie.', 'Keep your calm with me, Noemie.', [(1285, 'Taxi !')], ''),
-    ('lea', 'Je ne veux pas le perdre.', 'I do not want to lose him.', [(1286, 'Taxi !')], ''),
+    ('noemie', 'Je ne veux pas le perdre.', 'I do not want to lose him.', [(1286, 'Taxi !')], ''),
     ('camille', 'Regarde là-bas, un taxi arrive enfin!', 'Look over there, a taxi is finally arriving!', [(1285, 'Taxi !')], ''),
-    ('lea', "Chauffeur, allez vite à l'hôpital!", 'Driver, go quickly to the hospital!', [(1286, 'Taxi !')], ''),
+    ('noemie', "Chauffeur, allez vite à l'hôpital!", 'Driver, go quickly to the hospital!', [(1286, 'Taxi !')], ''),
     ('camille', 'Montons ensemble dans le taxi maintenant.', 'Let us get into the taxi together now.', [(1285, 'Taxi !')], ''),
-    ('lea', "Mathias va s'en sortir, j'espère.", 'Mathias will pull through, I hope.', [(1286, 'Taxi !')], ''),
+    ('noemie', "Mathias va s'en sortir, j'espère.", 'Mathias will pull through, I hope.', [(1286, 'Taxi !')], ''),
     ('camille', 'Nous serons bientôt avec lui.', 'We will be with him soon.', [(1285, 'Taxi !')], ''),
-    ('lea', "Courage, arrivons vite à l'hôpital!", 'Courage, let us arrive quickly at the hospital!', [(1286, 'Taxi !')], ''),
+    ('noemie', "Courage, arrivons vite à l'hôpital!", 'Courage, let us arrive quickly at the hospital!', [(1286, 'Taxi !')], ''),
 ]
 WALK = [
     (0, None, "'Taxi! Stop here, please!' Camille flags down a passing cab on the avenue. Notice how 'stop' leads directly into the noun meaning 'taxi'."),

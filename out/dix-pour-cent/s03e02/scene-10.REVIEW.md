@@ -1,33 +1,47 @@
-# Review: `dix-pour-cent-s03e02-scene-10` — L'invitation de Monica  (Monica's Invitation)
+# dix-pour-cent-s03e02-scene-10: review sheet
 
-- **Source**: `sources/dix-pour-cent/s03/e02.fr.dual.srt`
-- **Level**: A1 — débutant
-- **Voices**: `{"narrator": "sky", "monica": "emilie", "gabriel": "theo", "hicham": "marcel"}`
-- **Labels**: `{"monica": "Monica", "gabriel": "Gabriel", "hicham": "Hicham"}`
+Title: L'invitation de Monica  (Monica's Invitation)
+Level: A1 — débutant
+Pair: fr-en
+Source: Dix pour cent (Call My Agent!) S03E02
 
-## Part 1 — Intro
-> At the agency, Italian screen icon Monica Bellucci calls to discuss advertising projects. After boss Hicham takes the initial call, Gabriel connects with Monica, who unexpectedly invites him to her home for dinner. Let's listen to the scene in French first.
 
-## Part 2 — Story Lines
-| # | Role | French | English | Source Cues |
-|---|------|--------|---------|-------------|
-| 0 | `monica` (Monica) | Bonjour, Gabriel est là? | Hello, is Gabriel there? | 589:Bonjour, Monica. |
-| 1 | `hicham` (Hicham) | Non, je suis son patron, Hicham Janowski. | No, I am his boss, Hicham Janowski. | 592:Non, je suis son patron,, 593:Hicham Janowski. |
-| 2 | `monica` (Monica) | Bonjour Hicham. Je voudrais parler à Gabriel. | Hello Hicham. I would like to speak to Gabriel. | 594:Bonjour. |
-| 3 | `gabriel` (Gabriel) | Allô, Monica! C'est moi, c'est Gabriel. | Hello, Monica! It is me, it is Gabriel. | 595:Allô, Monica !, 598:C'est moi, c'est Gabriel. |
-| 4 | `monica` (Monica) | Bonjour Gabriel, comment ça va? | Hello Gabriel, how are you doing? | 599:Oui, ça va ? |
-| 5 | `gabriel` (Gabriel) | Très bien! J'ai réfléchi pour les contrats publicitaires. | Very well! I thought about the advertising contracts. | 601:contrats publicitaires,, 602:j'ai réfléchi, |
-| 6 | `gabriel` (Gabriel) | Ça pourrait vraiment nous intéresser. | It could really interest us. | 602:ça pourrait m'intéresser, en fait. |
-| 7 | `monica` (Monica) | Super, j'en suis très ravie. | Great, I am very delighted about it. | 604:Super, je suis ravi. |
-| 8 | `gabriel` (Gabriel) | Tu veux passer au bureau pour en discuter? | Do you want to come by the office to discuss it? | 605:Tu veux passer au bureau pour en discuter ? |
-| 9 | `monica` (Monica) | Tu ne pourrais pas passer à la maison plutôt? | Couldn | 606:Tu pourrais pas passer à la maison, plutôt ? |
-| 10 | `monica` (Monica) | Je voudrais te montrer des photos pour une pub. | I would like to show you photos for an ad. | 607:Je voudrais te montrer des photos pour une pub, |
-| 11 | `gabriel` (Gabriel) | Oui, c'est une excellente idée. | Yes, that is an excellent idea. | 611:Oui, d'accord, super. |
-| 12 | `monica` (Monica) | Ce soir, tu peux venir chez moi? | Tonight, can you come to my place? | 610:Ce soir, tu peux ? |
-| 13 | `gabriel` (Gabriel) | Oui d'accord, c'est parfait pour moi. | Yes okay, that is perfect for me. | 611:Oui, d'accord, super. |
-| 14 | `monica` (Monica) | Je te ferai ma recette secrète du risotto. | I will make you my secret risotto recipe. | 612:Je te ferai ma recette secrète du risotto. |
-| 15 | `gabriel` (Gabriel) | Rendez-vous chez toi à vingt heures trente! | See you at your place at eight thirty! | 614:20h30 ?, 616:Au revoir. |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 5 — Outro & Closing
-> Monica Bellucci calls ASK to discuss new promotional contracts with Gabriel. When you watch the episode, listen out for the expressions meaning 'boss' and 'would like'. You'll catch them now. See you next time!
-- **Closing**: `monica`: *À bientôt!*
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+|---|---|---|---|---|---|
+| 1 | Monica | Bonjour, Gabriel est là? | Hello, is Gabriel there? | #589: Bonjour, Monica. | verbatim |
+| 2 | Hicham | Non, je suis son patron, Hicham Janowski. | No, I am his boss, Hicham Janowski. | #592: Non, je suis son patron,<br>#593: Hicham Janowski. | verbatim |
+| 3 | Monica | Bonjour Hicham. Je voudrais parler à Gabriel. | Hello Hicham. I would like to speak to Gabriel. | #594: Bonjour. | verbatim |
+| 4 | Gabriel | Allô, Monica! C'est moi, c'est Gabriel. | Hello, Monica! It is me, it is Gabriel. | #595: Allô, Monica !<br>#598: C'est moi, c'est Gabriel. | verbatim |
+| 5 | Monica | Bonjour Gabriel, comment ça va? | Hello Gabriel, how are you doing? | #599: Oui, ça va ? | verbatim |
+| 6 | Gabriel | Très bien! J'ai réfléchi pour les contrats publicitaires. | Very well! I thought about the advertising contracts. | #601: contrats publicitaires,<br>#602: j'ai réfléchi, | verbatim |
+| 7 | Gabriel | Ça pourrait vraiment nous intéresser. | It could really interest us. | #602: ça pourrait m'intéresser, en fait. | verbatim |
+| 8 | Monica | Super, j'en suis très ravie. | Great, I am very delighted about it. | #604: Super, je suis ravi. | verbatim |
+| 9 | Gabriel | Tu veux passer au bureau pour en discuter? | Do you want to come by the office to discuss it? | #605: Tu veux passer au bureau pour en discuter ? | verbatim |
+| 10 | Monica | Tu ne pourrais pas passer à la maison plutôt? | Couldn | #606: Tu pourrais pas passer à la maison, plutôt ? | verbatim |
+| 11 | Monica | Je voudrais te montrer des photos pour une pub. | I would like to show you photos for an ad. | #607: Je voudrais te montrer des photos pour une pub, | verbatim |
+| 12 | Gabriel | Oui, c'est une excellente idée. | Yes, that is an excellent idea. | #611: Oui, d'accord, super. | verbatim |
+| 13 | Monica | Ce soir, tu peux venir chez moi? | Tonight, can you come to my place? | #610: Ce soir, tu peux ? | verbatim |
+| 14 | Gabriel | Oui d'accord, c'est parfait pour moi. | Yes okay, that is perfect for me. | #611: Oui, d'accord, super. | verbatim |
+| 15 | Monica | Je te ferai ma recette secrète du risotto. | I will make you my secret risotto recipe. | #612: Je te ferai ma recette secrète du risotto. | verbatim |
+| 16 | Gabriel | Rendez-vous chez toi à vingt heures trente! | See you at your place at eight thirty! | #614: 20h30 ?<br>#616: Au revoir. | verbatim |
+
+## Walk-through narration (English only, no target-language words quoted)
+
+- 'Hello, is Gabriel there?' Monica calls the talent agency looking for her agent. In everyday spoken French, rising intonation on 'the key idea' at the end is enough to turn the sentence into a question.
+- 'No, I am his boss, Hicham Janowski.' Hicham introduces himself with executive authority. The key noun here means 'boss', anchored by its matching French article.
+- 'Hello Hicham. I would like to speak to Gabriel.' Monica maintains polite but focused intent. The clause hinges on the everyday verb meaning 'would like'.
+- 'Hello, Monica! It is me, it is Gabriel.' A short, idiomatic conversational reply that keeps the exchange moving naturally. A short, idiomatic conversational reply that keeps the exchange moving naturally.
+- 'Hello Gabriel, how are you doing?' Monica greets her agent warmly. In everyday spoken French, rising intonation on 'goes' at the end is enough to turn the sentence into a question.
+- 'Very well! I thought about the advertising contracts.' Gabriel shares his positive reflection. The descriptive adjective for 'advertising' agrees in gender and number with its noun.
+- 'It could really interest us.' Gabriel confirms the commercial opportunity. The clause hinges on the everyday verb meaning 'could'.
+- 'Great, I am very delighted about it.' Monica welcomes his agreement. The adverb meaning 'very' gives the reply its conversational emphasis.
+- 'Do you want to come by the office to discuss it?' Gabriel proposes a standard agency meeting. The informal 'you' form around 'want' marks a direct, personal relationship.
+- 'Couldn't you come by my place instead?' Monica shifts the venue to her private residence. In everyday spoken French, rising intonation on 'could' at the end is enough to turn the sentence into a question.
+- 'I would like to show you photos for an ad.' Monica provides a professional pretext. Monica uses the casual singular 'you' with 'would like', showing close familiarity.
+- 'Yes, that is an excellent idea.' Gabriel enthusiastically agrees. The key noun here means 'idea', anchored by its matching French article.
+- 'Tonight, can you come to my place?' Monica proposes dinner that very evening. Notice how 'can' leads directly into the noun meaning 'evening'.
+- 'Yes okay, that is perfect for me.' Gabriel confirms the evening plan without hesitation. In spoken French, the little word before 'the next word' drops its final vowel and attaches with an apostrophe.
+- 'I will make you my secret risotto recipe.' Monica entices Gabriel with homemade cooking. Monica uses the casual singular 'you' with 'will make', showing close familiarity.
+- 'See you at your place at eight thirty!' Gabriel confirms the dinner appointment. The informal 'you' form around 'appointment' marks a direct, personal relationship.

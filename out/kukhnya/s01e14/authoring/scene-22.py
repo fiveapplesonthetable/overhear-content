@@ -4,18 +4,17 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 14
 SCENE = 22
-TITLE = "Божественно  (Divine)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Божественно  (Divine)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "nagiyev": "angelina"}
-LABELS = {"nagiyev": "Нагиев"}
+LABELS = {'nagiyev': 'Нагиев'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.14'
 SOURCE_FILE = 'sources/kukhnya/s01/e14.ru.dual.srt'
 INTRO = "Dmitry Nagiyev tastes the dish. He takes a bite and is absolutely amazed. We'll hear it in Russian first; don't worry about catching every word. Let's listen closely to the conversation in Russian first, and then walk through each line together."
 OPENER = "Let's go through it line by line. Nagiyev closes his eyes in delight."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "The guests applaud as Nagiyev praises the meal. Next time you watch the episode, listen for the Russian expressions for 'divinely' and 'very' — you will catch every word right away. See you next time!"
-CLOSING = ("nagiyev", "Пока!")
+CLOSING = ('nagiyev', 'Пока!')
 STORY = [
     ('nagiyev', 'Это божественно.', 'This is divine.', [(305, 'Это божественно')], ''),
     ('nagiyev', 'Это очень вкусно.', 'This is very tasty.', [], ''),

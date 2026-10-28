@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Слушай, неужели он всегда так пил? | Listen, did he really always drink like this? | #210 00:15:18: Слушай, неужели он всегда | adapted: adapted |
-| 2 | Катя | Насколько я помню, да, всегда. | As far as I remember, yes, always. | #211 00:15:20: Насколько я помню, да | adapted: adapted |
-| 3 | Катя | В детстве он взял меня на рынок. | In childhood he took me to the market. | #211 00:15:20: в детстве он пьяный взял мне с собой на<br>#212 00:15:24: рынок | adapted: adapted |
-| 4 | Катя | Там он меня случайно потерял. | There he accidentally lost me. | #212 00:15:24: и потерял | adapted: adapted |
-| 5 | Катя | Потом нашёл, но зато бросил пить. | Later he found me, and as a result he quit drinking. | #212 00:15:24: Потом нашел, конечно, но зато бросил пить | adapted: adapted |
-| 6 | Аня | У меня сейчас родилась отличная идея. | A great idea was just born in my head. | #214 00:15:30: у меня родилась идея | adapted: adapted |
-| 7 | Аня | Но ты должна мне помочь. | But you have to help me with it. | #215 00:15:34: но ты должна мне помочь | adapted: adapted |
-| 8 | Катя | Хорошо, я обязательно тебе помогу. | Alright, I will definitely help you. | #216 00:15:36: Поможешь? Да | adapted: adapted |
-| 9 | Аня | Тихо, мы с тобой потом договорим. | Quiet, you and I will finish talking later. | #217 00:15:40: Потом договорим | adapted: adapted |
-| 10 | Катя | Катя, ты свои документы принесла? | Katya, did you bring your documents? | #218 00:15:46: Катя, ты документы принесла | adapted: adapted |
-| 11 | Катя | Извините, я сегодня опять забыла. | Excuse me, I forgot again today. | #219 00:15:47: Я забыла | adapted: adapted |
-| 12 | Катя | Давайте я точно завтра принесу. | Let me definitely bring them tomorrow. | #220 00:15:49: Давайте я завтра принесу | adapted: adapted |
+| 1 | Макс | Слушай, неужели он всегда так пил? | Listen, did he really always drink like this? | #210: Слушай, неужели он всегда | adapted: adapted |
+| 2 | Катя | Насколько я помню, да, всегда. | As far as I remember, yes, always. | #211: Насколько я помню, да | adapted: adapted |
+| 3 | Катя | В детстве он взял меня на рынок. | In childhood he took me to the market. | #211: в детстве он пьяный взял мне с собой на<br>#212: рынок | adapted: adapted |
+| 4 | Катя | Там он меня случайно потерял. | There he accidentally lost me. | #212: и потерял | adapted: adapted |
+| 5 | Катя | Потом нашёл, но зато бросил пить. | Later he found me, and as a result he quit drinking. | #212: Потом нашел, конечно, но зато бросил пить | adapted: adapted |
+| 6 | Макс | У меня сейчас родилась отличная идея. | A great idea was just born in my head. | #214: у меня родилась идея | adapted: adapted |
+| 7 | Макс | Но ты должна мне помочь. | But you have to help me with it. | #215: но ты должна мне помочь | adapted: adapted |
+| 8 | Катя | Хорошо, я обязательно тебе помогу. | Alright, I will definitely help you. | #216: Поможешь? Да | adapted: adapted |
+| 9 | Макс | Тихо, мы с тобой потом договорим. | Quiet, you and I will finish talking later. | #217: Потом договорим | adapted: adapted |
+| 10 | Вика | Катя, ты свои документы принесла? | Katya, did you bring your documents? | #218: Катя, ты документы принесла | adapted: adapted |
+| 11 | Катя | Извините, я сегодня опять забыла. | Excuse me, I forgot again today. | #219: Я забыла | adapted: adapted |
+| 12 | Катя | Давайте я точно завтра принесу. | Let me definitely bring them tomorrow. | #220: Давайте я завтра принесу | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Listen, did he really always drink like this?' The grammar packs 'listen' and 'was drinking' into a tight, idiomatic kitchen exchange.
-- 'As far as I remember, yes, always.' The meaning hinges on 'as far as' working together with 'always' in spoken Russian.
-- 'In childhood he took me to the market.' Katya brings out the contrast between 'childhood' and 'he' in a few short words.
-- 'There he accidentally lost me.' In Russian, the idea of 'there' flows naturally into 'lost' without extra filler words.
-- 'Later he found me, and as a result he quit drinking.' The grammar packs 'then' and 'drink' into a tight, idiomatic kitchen exchange. Max answers right away.
-- 'A great idea was just born in my head.' Here the Russian phrasing highlights 'at' before landing on 'idea'.
-- 'But you have to help me with it.' The grammar packs 'but' and 'to help' into a tight, idiomatic kitchen exchange.
-- 'Alright, I will definitely help you.' Notice how Russian expresses 'well' and 'will help' with crisp inflection rather than helper words. Max answers right away.
-- 'Quiet, you and I will finish talking later.' Here the Russian phrasing highlights 'quiet' before landing on 'we will finish talking'.
-- 'Katya, did you bring your documents?' Spoken Russian keeps this brisk, leaning on 'Katya' and finishing on 'brought'.
-- 'Excuse me, I forgot again today.' The '-a' ending on the past-tense verb for 'forgot' marks a female speaker or subject.
-- 'Let me definitely bring them tomorrow.' Spoken Russian keeps this brisk, leaning on 'let's' and finishing on 'will bring'.
+- 'Listen, did he really always drink like this?' Here checking whether he really always drink like this shows Max looking for the real truth. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'As far as I remember, yes, always.' Katya tells Max that as far as she remembers yes always without dressing it up.
+- 'In childhood he took me to the market.' Since in childhood he took her to the market, Katya does not waste words on excuses.
+- 'There he accidentally lost me.' Mentioning that there he accidentally lost moves the talk in a new direction.
+- 'Later he found me, and as a result he quit drinking.' Katya reminds Max that later he found her and as a result he quit drinking before the moment passes. That little word "zato" means "on the bright side", flipping a complaint into an advantage.
+- 'A great idea was just born in my head.' Because a great idea was just born in his head, Max treats the matter as settled.
+- 'But you have to help me with it.' Explaining that Katya has to help him with it lays the cards on the table for Katya. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Alright, I will definitely help you.' Katya mentions that Alright she will definitely help Max so Max sees what is at stake. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Quiet, you and I will finish talking later.' Claiming that quiet Katya and he will finish talking later sounds confident, even if Katya has doubts.
+- 'Katya, did you bring your documents?' By asking whether Katya brings Katya's documents, Vika presses Katya for a straight answer. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Excuse me, I forgot again today.' Katya explains that she forgot again today, keeping her voice calm and direct.
+- 'Let me definitely bring them tomorrow.' Noting that Max should let her definitely bring them tomorrow keeps Katya's side of the story simple and clear.

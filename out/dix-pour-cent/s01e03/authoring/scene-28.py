@@ -7,32 +7,31 @@ SCENE = 28
 TITLE = "Les papiers d'Andréa  (Andréa's Papers)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'colette': 'emilie', 'lea': 'lucie'}
-LABELS = {'colette': 'Colette', 'lea': 'Andréa'}
+LABELS = {'andrea': 'Andréa', 'colette': 'Colette'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e03.fr.dual.srt'
 INTRO = "Andréa tried to apologise and to charm her, and Colette wasn't having it. Now it's the end of the day, and Andréa brings Colette the documents she asked for. Here it is in French first. Don't try to catch everything; just listen."
 OPENER = "Let's go through it. Andréa walks up to Colette's desk with a pile of documents, being extra polite."
 TRANSITION = "Now let's listen to the whole scene one more time."
 OUTRO = "A small embarrassing moment, and maybe the start of something between these two. Listen for 'to have reason', the French way to say someone is right, when you watch. See you next time!"
-CLOSING = ('lea', 'Bonne soirée!')
+CLOSING = ('andrea', 'Bonne soirée!')
 STORY = [
-    ('lea', 'Je peux vous donner mes papiers?', 'Can I give you my papers?', [(727, 'Je peux vous donner mes papiers')], ''),
+    ('andrea', 'Je peux vous donner mes papiers?', 'Can I give you my papers?', [(727, 'Je peux vous donner mes papiers')], ''),
     ('colette', 'Oui, bien sûr.', 'Yes, of course.', [(728, 'Oui')], ''),
-    ('lea', 'Voilà.', 'There you go.', [(729, 'Voilà')], ''),
+    ('andrea', 'Voilà.', 'There you go.', [(729, 'Voilà')], ''),
     ('colette', "Madame Martel? Ça, ce n'est pas pour moi.", 'Ms Martel? This isn', [(730, 'Martel')], ''),
-    ('lea', "Ah bon? C'est quoi?", 'Really? What is it?', [], ''),
+    ('andrea', "Ah bon? C'est quoi?", 'Really? What is it?', [], ''),
     ('colette', 'Ce sont vos résultats médicaux.', 'It', [(732, 'Résultats médicaux')], ''),
-    ('lea', "Oh, pardon! C'était sur mon bureau.", 'Oh, sorry! It was on my desk.', [(733, 'sur mon bureau')], ''),
+    ('andrea', "Oh, pardon! C'était sur mon bureau.", 'Oh, sorry! It was on my desk.', [(733, 'sur mon bureau')], ''),
     ('colette', 'Au revoir, Madame Martel.', 'Goodbye, Ms Martel.', [(734, 'Au revoir')], ''),
-    ('lea', 'Oui, au revoir.', 'Yes, goodbye.', [(734, 'Oui, au revoir')], ''),
+    ('andrea', 'Oui, au revoir.', 'Yes, goodbye.', [(734, 'Oui, au revoir')], ''),
     ('colette', "Vous êtes stressée par l'audit?", 'Are you stressed about the audit?', [(735, "Vous êtes stressée par l'audit")], ''),
     ('colette', "Vous n'aimez pas perdre le contrôle.", 'You don', [(736, 'contrôle')], ''),
     ('colette', 'Vous êtes une femme de pouvoir, Andréa!', 'You', [(737, 'Vous êtes une femme de pouvoir, Andréa')], ''),
-    ('lea', 'On va manger?', 'Shall we go and eat?', [(739, 'On va manger')], ''),
+    ('andrea', 'On va manger?', 'Shall we go and eat?', [(739, 'On va manger')], ''),
     ('colette', 'Non, je rentre chez moi.', 'No, I', [(740, 'Non, je rentre chez moi')], ''),
     ('colette', 'Merci quand même.', 'Thanks anyway.', [(741, 'Merci quand même')], ''),
-    ('lea', 'Vous avez raison. À demain.', 'You', [(743, 'Vous avez raison'), (744, 'À demain')], ''),
+    ('andrea', 'Vous avez raison. À demain.', 'You', [(743, 'Vous avez raison'), (744, 'À demain')], ''),
 ]
 WALK = [
     (0, None, "'Can I give you my papers?' Andréa links 'I' directly with 'can' to express the thought clearly. Then Colette responds."),

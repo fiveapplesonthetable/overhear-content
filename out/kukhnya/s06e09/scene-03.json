@@ -8,14 +8,10 @@
  "scene": 3,
  "title": "Приглашение на обед  (Invitation to Lunch)",
  "level": "A1 — Duolingo Section 2",
- "voices": {
-  "narrator": "sky",
-  "lyova": "angelina",
-  "chef": "anja"
- },
  "labels": {
-  "lyova": "Лёва",
-  "chef": "Шеф"
+  "barinov": "Шеф",
+  "eleonora": "Элеонора",
+  "lyova": "Лёва"
  },
  "segments": [
   {
@@ -24,17 +20,17 @@
    "gap": 0.8
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Елена, привет, я уже очень соскучился.",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Не пора ли нам пообедать вместе?",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Прекрасно, тогда я тебя очень жду.",
    "gap": 0.55
   },
@@ -44,7 +40,7 @@
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Что тебе нужно, говори быстрее.",
    "gap": 0.55
   },
@@ -59,12 +55,12 @@
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Хорошо, иди, только не очень долго.",
    "gap": 0.55
   },
   {
-   "v": "lyova",
+   "v": "eleonora",
    "t": "Чего тебе нужно в моём номере?",
    "gap": 0.55
   },
@@ -74,7 +70,7 @@
    "gap": 0.55
   },
   {
-   "v": "lyova",
+   "v": "eleonora",
    "t": "Ладно, просто оставь это на столе.",
    "gap": 0.55
   },
@@ -84,7 +80,7 @@
    "gap": 0.55
   },
   {
-   "v": "lyova",
+   "v": "eleonora",
    "t": "Немедленно убери это и выйди отсюда!",
    "gap": 0.9
   },
@@ -94,33 +90,33 @@
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Елена, привет, я уже очень соскучился.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Elena, hello, I have missed you very much already.' In everyday Russian, 'already' flows straight into 'missed' without extra linking words.",
+   "t": "'Elena, hello, I have missed you very much already.' Mentioning that he has missed Eleonora very much already moves the talk in a new direction.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Не пора ли нам пообедать вместе?",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Isn't it time for us to have lunch together?' Chef Barinov brings out the contrast between 'not' and 'it's time' in a few short words.",
+   "t": "'Isn't it time for us to have lunch together?' Here asking whether not it time for them to have lunch together shows Barinov looking for the real truth.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Прекрасно, тогда я тебя очень жду.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Wonderful, then I am waiting for you eagerly.' The grammar packs 'wonderfully' and 'am waiting for' into a tight, idiomatic kitchen exchange.",
+   "t": "'Wonderful, then I am waiting for you eagerly.' Adding that wonderful then he is waiting for Eleonora eagerly fills in the missing piece for Eleonora. Speaking with the close, informal \"you\" strips away any polite distance between them.",
    "gap": 0.4
   },
   {
@@ -130,17 +126,17 @@
   },
   {
    "v": "narrator",
-   "t": "'Viktor Petrovich, may I have a minute?' Lyova brings out the contrast between 'may' and 'you' in a few short words. Chef Barinov answers right away.",
+   "t": "'Viktor Petrovich, may I have a minute?' Around the point and friend, Lyova wants to know where Barinov really stands. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Что тебе нужно, говори быстрее.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'What do you need, speak faster.' Here the Russian phrasing highlights 'what' before landing on 'faster'.",
+   "t": "'What do you need, speak faster.' Since what do Eleonora needs speak faster, Barinov does not waste words on excuses.",
    "gap": 0.4
   },
   {
@@ -150,7 +146,7 @@
   },
   {
    "v": "narrator",
-   "t": "'Mom and her friend want to have lunch at our place.' The meaning hinges on 'mom' working together with 'to have lunch' in spoken Russian.",
+   "t": "'Mom and her friend want to have lunch at our place.' Mentioning that Mom and her friend want to have lunch at their place moves the talk in a new direction. Russian expresses having something as \"by me is\", keeping the phrase short and grounded.",
    "gap": 0.4
   },
   {
@@ -160,27 +156,27 @@
   },
   {
    "v": "narrator",
-   "t": "'May I keep them company today?' Lyova raises the pitch on 'company' to turn the phrase into a direct spoken question. Chef Barinov answers right away.",
+   "t": "'May I keep them company today?' Questioning whether may he keeps them company today is how Lyova tests Barinov's story. There is no \"you\" needed in the Russian here: one short word states the rule for everyone in the room.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Хорошо, иди, только не очень долго.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Alright, go, just not for very long.' Chef Barinov brings out the contrast between 'well' and 'go' in a few short words.",
+   "t": "'Alright, go, just not for very long.' With the restaurant and friend in play, Barinov keeps this short reply brisk and direct.",
    "gap": 0.4
   },
   {
-   "v": "lyova",
+   "v": "eleonora",
    "t": "Чего тебе нужно в моём номере?",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'What do you need in my room?' Eleonora raises the pitch on 'number' to turn the phrase into a direct spoken question.",
+   "t": "'What do you need in my room?' Asking what Barinov needs in her room is how Eleonora puts Barinov on the spot. There is no \"you\" needed in the Russian here: one short word states the rule for everyone in the room.",
    "gap": 0.4
   },
   {
@@ -190,17 +186,17 @@
   },
   {
    "v": "narrator",
-   "t": "'I brought you a fresh hot breakfast.' Spoken Russian keeps this brisk, leaning on 'I' and finishing on 'brought'. Eleonora answers right away.",
+   "t": "'I brought you a fresh hot breakfast.' Lyova mentions that he brought Barinov a fresh hot breakfast so Barinov sees what is at stake. Even in the middle of the drama, he keeps the polite plural \"you\" that workplace Russian expects.",
    "gap": 0.4
   },
   {
-   "v": "lyova",
+   "v": "eleonora",
    "t": "Ладно, просто оставь это на столе.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Alright, just leave it on the table.' Spoken Russian keeps this brisk, leaning on 'all right' and finishing on 'table'.",
+   "t": "'Alright, just leave it on the table.' With the restaurant and breakup in play, Eleonora keeps this short reply brisk and direct.",
    "gap": 0.4
   },
   {
@@ -210,31 +206,31 @@
   },
   {
    "v": "narrator",
-   "t": "'You have not eaten anything since yesterday.' Lyova brings out the contrast between 'you' and 'with' in a few short words.",
+   "t": "'You have not eaten anything since yesterday.' Pointing out that Barinov has not eaten anything since yesterday gives Barinov a sobering reality check. Russian stacks \"never\" or \"nothing\" together with \"not\", doubling the refusal for extra weight.",
    "gap": 0.4
   },
   {
-   "v": "lyova",
+   "v": "eleonora",
    "t": "Немедленно убери это и выйди отсюда!",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Take this away immediately and get out of here!' Notice how Russian expresses 'immediately' and 'from here' with crisp inflection rather than helper words. Alright, let's hear the entire conversation one more time from start to finish.",
+   "t": "'Take this away immediately and get out of here!' Declaring that Barinov should take this away immediately and get out of here brings Eleonora's temper right to the surface. Russian drops \"is\" in the present, setting the two halves of the thought side by side. Alright, let's hear the entire conversation one more time from start to finish.",
    "gap": 0.9
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Елена, привет, я уже очень соскучился.",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Не пора ли нам пообедать вместе?",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Прекрасно, тогда я тебя очень жду.",
    "gap": 0.5
   },
@@ -244,7 +240,7 @@
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Что тебе нужно, говори быстрее.",
    "gap": 0.5
   },
@@ -259,12 +255,12 @@
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Хорошо, иди, только не очень долго.",
    "gap": 0.5
   },
   {
-   "v": "lyova",
+   "v": "eleonora",
    "t": "Чего тебе нужно в моём номере?",
    "gap": 0.5
   },
@@ -274,7 +270,7 @@
    "gap": 0.5
   },
   {
-   "v": "lyova",
+   "v": "eleonora",
    "t": "Ладно, просто оставь это на столе.",
    "gap": 0.5
   },
@@ -284,7 +280,7 @@
    "gap": 0.5
   },
   {
-   "v": "lyova",
+   "v": "eleonora",
    "t": "Немедленно убери это и выйди отсюда!",
    "gap": 0.9
   },

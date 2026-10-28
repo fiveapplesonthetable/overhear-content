@@ -10,23 +10,23 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Мне жутко неудобно. Я не люблю быть в тягость. | I feel terribly awkward. I don't like being a burden. | #869 00:43:02: Мне жутко неудобно<br>#869 00:43:02: не люблю быть в тягость | verbatim |
-| 2 | Эдуард Владимирович | А вы в тягость. В тягость! | And you are a burden. A burden! | #870 00:43:05: А вы в тягость. В тягость | verbatim |
-| 3 | Марина | Эдик! — Что, Эдик? | Edik! — What, Edik? | #871 00:43:06: Эдик<br>#872 00:43:07: Что, Эдик | verbatim |
-| 4 | Аня | Ну, он прав. Я вчера был очень груб с вами. | Well, he's right. I was very rude to you yesterday. | #873 00:43:08: Ну, он прав. Я вчера был очень груб с вами | verbatim |
-| 5 | Аня | Я взял ваши цветы. — Вот слышишь? Мои цветы! | I took your flowers. — You hear that? My flowers! | #873 00:43:08: Я взял ваши цветы<br>#874 00:43:14: Вот слышишь? Мои цветы | verbatim |
-| 6 | Аня | Но я многое понял с того момента. | But I've understood a lot since that moment. | #875 00:43:16: Но я многое<br>#875 00:43:16: с того момента | adapted: 'переосмыслил' -> 'понял' for A1 |
-| 7 | Аня | Когда не можешь сам себе нос вытереть. | When you can't even wipe your own nose yourself. | #876 00:43:19: Когда не можешь<br>#876 00:43:19: себе нос вытереть | adapted: 'толком' -> 'сам'; split long cue 876 into two sentences |
-| 8 | Аня | Тогда совсем по-другому смотришь на мир. | Then you look at the world completely differently. | #876 00:43:19: совсем по-другому<br>#876 00:43:19: на мир | adapted: 'начинаешь смотреть' -> 'смотришь' |
-| 9 | Аня | Я мог вчера умереть. Свернуть шею. | I could have died yesterday. Broken my neck. | #878 00:43:24: Я мог вчера умереть. Свернуть шею | verbatim |
-| 10 | Эдуард Владимирович | Да я не верю вам! Такие люди сто лет живут. | I don't believe you! People like that live a hundred years. | #879 00:43:26: Да я не верю вам. Такие<br>#879 00:43:26: сто лет живут | verbatim |
-| 11 | Марина | Эдик, зачем ты так? — Что значит, зачем я так? | Edik, why would you say that? — What do you mean, why would I say that? | #880 00:43:31: Эдик, зачем ты так<br>#881 00:43:32: Что значит, зачем я так | verbatim |
-| 12 | Эдуард Владимирович | Не он зачем, а я зачем? Нет, всё, я так не могу. | Not why is he, but why am I? No, that's it, I can't do this. | #883 00:43:35: Не он зачем, а я зачем<br>#885 00:43:39: Нет, все, я так не могу | verbatim |
-| 13 | Эдуард Владимирович | Я, пожалуй, пойду. — Подожди, Эдик! | I think I'll go. — Wait, Edik! | #885 00:43:39: Я, пожалуй, пойду<br>#886 00:43:42: Подожди, Эдик | verbatim |
-| 14 | Аня | Эдуард Валентинович, не уходите, пожалуйста. | Eduard Valentinovich, please don't leave. | #887 00:43:43: Эдуард Валентинович, не уходите, пожалуйста | verbatim |
-| 15 | Марина | Ваша каша. Приятного аппетита. | Your porridge. Enjoy your meal. | #889 00:43:46: Ваша каша. Приятного аппетита | verbatim |
-| 16 | Марина | Постарайтесь обойтись без нашей помощи. — Спасибо вам огромное! | Try to manage without our help. — Thank you so much! | #890 00:43:49: постарайтесь обойтись без нашей помощи<br>#891 00:43:50: Спасибо вам огромное | verbatim |
-| 17 | Марина | Вы издеваетесь? — Ну? | Are you mocking me? — Well? | #893 00:43:59: Вы издеваетесь<br>#895 00:44:05: Ну | verbatim |
+| 1 | Аркадий | Мне жутко неудобно. Я не люблю быть в тягость. | I feel terribly awkward. I don't like being a burden. | #869: Мне жутко неудобно<br>#869: не люблю быть в тягость | verbatim |
+| 2 | Эдуард Владимирович | А вы в тягость. В тягость! | And you are a burden. A burden! | #870: А вы в тягость. В тягость | verbatim |
+| 3 | Марина | Эдик! — Что, Эдик? | Edik! — What, Edik? | #871: Эдик<br>#872: Что, Эдик | verbatim |
+| 4 | Аркадий | Ну, он прав. Я вчера был очень груб с вами. | Well, he's right. I was very rude to you yesterday. | #873: Ну, он прав. Я вчера был очень груб с вами | verbatim |
+| 5 | Аркадий | Я взял ваши цветы. — Вот слышишь? Мои цветы! | I took your flowers. — You hear that? My flowers! | #873: Я взял ваши цветы<br>#874: Вот слышишь? Мои цветы | verbatim |
+| 6 | Аркадий | Но я многое понял с того момента. | But I've understood a lot since that moment. | #875: Но я многое<br>#875: с того момента | adapted: 'переосмыслил' -> 'понял' for A1 |
+| 7 | Аркадий | Когда не можешь сам себе нос вытереть. | When you can't even wipe your own nose yourself. | #876: Когда не можешь<br>#876: себе нос вытереть | adapted: 'толком' -> 'сам'; split long cue 876 into two sentences |
+| 8 | Аркадий | Тогда совсем по-другому смотришь на мир. | Then you look at the world completely differently. | #876: совсем по-другому<br>#876: на мир | adapted: 'начинаешь смотреть' -> 'смотришь' |
+| 9 | Аркадий | Я мог вчера умереть. Свернуть шею. | I could have died yesterday. Broken my neck. | #878: Я мог вчера умереть. Свернуть шею | verbatim |
+| 10 | Эдуард Владимирович | Да я не верю вам! Такие люди сто лет живут. | I don't believe you! People like that live a hundred years. | #879: Да я не верю вам. Такие<br>#879: сто лет живут | verbatim |
+| 11 | Марина | Эдик, зачем ты так? — Что значит, зачем я так? | Edik, why would you say that? — What do you mean, why would I say that? | #880: Эдик, зачем ты так<br>#881: Что значит, зачем я так | verbatim |
+| 12 | Эдуард Владимирович | Не он зачем, а я зачем? Нет, всё, я так не могу. | Not why is he, but why am I? No, that's it, I can't do this. | #883: Не он зачем, а я зачем<br>#885: Нет, все, я так не могу | verbatim |
+| 13 | Эдуард Владимирович | Я, пожалуй, пойду. — Подожди, Эдик! | I think I'll go. — Wait, Edik! | #885: Я, пожалуй, пойду<br>#886: Подожди, Эдик | verbatim |
+| 14 | Аркадий | Эдуард Валентинович, не уходите, пожалуйста. | Eduard Valentinovich, please don't leave. | #887: Эдуард Валентинович, не уходите, пожалуйста | verbatim |
+| 15 | Марина | Ваша каша. Приятного аппетита. | Your porridge. Enjoy your meal. | #889: Ваша каша. Приятного аппетита | verbatim |
+| 16 | Марина | Постарайтесь обойтись без нашей помощи. — Спасибо вам огромное! | Try to manage without our help. — Thank you so much! | #890: постарайтесь обойтись без нашей помощи<br>#891: Спасибо вам огромное | verbatim |
+| 17 | Марина | Вы издеваетесь? — Ну? | Are you mocking me? — Well? | #893: Вы издеваетесь<br>#895: Ну | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

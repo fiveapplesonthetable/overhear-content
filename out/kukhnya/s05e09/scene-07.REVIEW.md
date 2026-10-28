@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Сеня | Лёв, тебе что, Гуля понравилась? | Lyova, did you take a liking to Gulya? | #85 00:06:58: Лев, тебе что, Гуля понравилась | adapted: adapted |
-| 2 | Сеня | Если хочешь её удивить, скажи что-нибудь. | If you want to surprise her, say something. | #86 00:07:05: если хочешь ее как-то удивить, скажи что-нибудь | adapted: adapted |
-| 3 | Сеня | На киргизском языке. | In the Kyrgyz language. | #86 00:07:05: на киргизском языке | adapted: adapted |
-| 4 | Сеня | Это ей точно понравится. | She will definitely like that. | #87 00:07:08: это ей точно понравится | adapted: adapted |
-| 5 | Сеня | Вот что ты ей хочешь сказать? | Now what do you want to say to her? | #88 00:07:12: Вот что ты ей хочешь сказать | adapted: adapted |
-| 6 | Сеня | У тебя очень красивые глаза. | You have very beautiful eyes. | #90 00:07:17: У тебя очень красивые глаза | adapted: adapted |
-| 7 | Сеня | Я очень рад с тобой познакомиться. | I am very glad to meet you. | #91 00:07:22: Я очень рад с тобой познакомиться | adapted: adapted |
-| 8 | Шеф | Ты что, не видел, что я здесь стою? | Did you not see that I am standing here? | #92 00:07:34: Ты что, не видел, что я здесь стою | adapted: adapted |
-| 9 | Сеня | Извините, шеф. | Excuse me, chef. | #92 00:07:34: я здесь стою | adapted: adapted |
-| 10 | Сеня | Чего шеф сегодня такой злой? | Why is the chef so angry today? | #94 00:07:41: Чего, Сим, Сим, такой | adapted: adapted |
-| 11 | Сеня | Он весь день ест этот сельдерей. | He has been eating this celery all day. | #95 00:07:43: Он весь день есть этот пихотивный сельдерейп | adapted: adapted |
-| 12 | Сеня | А, ну понятно. | Ah, well that makes sense. | #97 00:07:48: А, ну понятно | adapted: adapted |
+| 1 | Сеня | Лёв, тебе что, Гуля понравилась? | Lyova, did you take a liking to Gulya? | #85: Лев, тебе что, Гуля понравилась | adapted: adapted |
+| 2 | Сеня | Если хочешь её удивить, скажи что-нибудь. | If you want to surprise her, say something. | #86: если хочешь ее как-то удивить, скажи что-нибудь | adapted: adapted |
+| 3 | Сеня | На киргизском языке. | In the Kyrgyz language. | #86: на киргизском языке | adapted: adapted |
+| 4 | Сеня | Это ей точно понравится. | She will definitely like that. | #87: это ей точно понравится | adapted: adapted |
+| 5 | Сеня | Вот что ты ей хочешь сказать? | Now what do you want to say to her? | #88: Вот что ты ей хочешь сказать | adapted: adapted |
+| 6 | Лёва | У тебя очень красивые глаза. | You have very beautiful eyes. | #90: У тебя очень красивые глаза | adapted: adapted |
+| 7 | Лёва | Я очень рад с тобой познакомиться. | I am very glad to meet you. | #91: Я очень рад с тобой познакомиться | adapted: adapted |
+| 8 | Шеф | Ты что, не видел, что я здесь стою? | Did you not see that I am standing here? | #92: Ты что, не видел, что я здесь стою | adapted: adapted |
+| 9 | Лёва | Извините, шеф. | Excuse me, chef. | #92: я здесь стою | adapted: adapted |
+| 10 | Лёва | Чего шеф сегодня такой злой? | Why is the chef so angry today? | #94: Чего, Сим, Сим, такой | adapted: adapted |
+| 11 | Сеня | Он весь день ест этот сельдерей. | He has been eating this celery all day. | #95: Он весь день есть этот пихотивный сельдерейп | adapted: adapted |
+| 12 | Лёва | А, ну понятно. | Ah, well that makes sense. | #97: А, ну понятно | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lyova, did you take a liking to Gulya?' Here the Russian phrasing highlights 'Lyova' before landing on 'pleased'.
-- 'If you want to surprise her, say something.' Senya brings out the contrast between 'if' and 'want' in a few short words.
-- 'In the Kyrgyz language.' Senya anchors the line on 'on', while 'language' completes the thought.
-- 'She will definitely like that.' Here the Russian phrasing highlights 'this' before landing on 'is liked'.
-- 'Now what do you want to say to her?' Here the Russian phrasing highlights 'here' before landing on 'to say'.
-- 'You have very beautiful eyes.' Notice how Russian expresses 'at' and 'eyes' with crisp inflection rather than helper words.
-- 'I am very glad to meet you.' Here the Russian phrasing highlights 'I' before landing on 'to get acquainted'.
-- 'Did you not see that I am standing here?' The grammar packs 'you' and 'stand' into a tight, idiomatic kitchen exchange.
-- 'Excuse me, chef.' Here the Russian phrasing highlights 'excuse me' before landing on 'proper name'.
-- 'Why is the chef so angry today?' Lyova anchors the line on 'what', while 'angry' completes the thought.
-- 'He has been eating this celery all day.' Senya anchors the line on 'he', while 'celery' completes the thought.
-- 'Ah, well that makes sense.' Lyova centers this short reply on 'understood', letting a few direct words carry the whole meaning.
+- 'Lyova, did you take a liking to Gulya?' Asking whether Barinov takes a liking to Gulya is how Senya puts Barinov on the spot.
+- 'If you want to surprise her, say something.' Realizing that if Barinov wants to surprise her say something changes how Senya handles the situation.
+- 'In the Kyrgyz language.' Over the point and the room, Senya answers Barinov without a second thought.
+- 'She will definitely like that.' Even though she will definitely like, Senya keeps a steady face in front of Barinov.
+- 'Now what do you want to say to her?' Wondering what Barinov wants to say is how Senya puts Barinov on the spot. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'You have very beautiful eyes.' Saying that Barinov has very beautiful eyes is how Lyova sets the tone with Barinov. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
+- 'I am very glad to meet you.' Once he is very glad to meet Barinov, Lyova can finally tell Barinov what he means.
+- 'Did you not see that I am standing here?' Checking whether Lyova not see that he is standing here cuts straight through the tension between Barinov and Lyova. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Excuse me, chef.' With the truth and room in play, Lyova keeps this short reply brisk and direct.
+- 'Why is the chef so angry today?' Here asking why the so angry today is shows Lyova looking for the real truth.
+- 'He has been eating this celery all day.' Senya explains that he has been eating this celery all day, keeping his voice calm and direct.
+- 'Ah, well that makes sense.' Lyova reminds Barinov that that makes sense before the moment passes.

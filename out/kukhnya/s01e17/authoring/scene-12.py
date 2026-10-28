@@ -4,29 +4,28 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 17
 SCENE = 12
-TITLE = "Хитрость и слайсер  (A Trick and a Slicer)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Хитрость и слайсер  (A Trick and a Slicer)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "nagiyev": "angelina"}
-LABELS = {"nagiyev": "Нагиев"}
+LABELS = {'nagiyev': 'Нагиев', 'senya': 'Сеня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.17'
 SOURCE_FILE = 'sources/kukhnya/s01/e17.ru.dual.srt'
 INTRO = "From the popular Russian comedy series Kukhnya, Senya impresses Nagiyev with his tasty veal rolls and cleverly convinces him to buy a new slicer. Let's listen carefully to their interesting conversation in Russian."
 OPENER = "Now let's go back through the exchange around A Trick and a Slicer line by line and unpack how the Russian works."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Senya impresses Nagiyev with his tasty veal rolls and cleverly convinces him to buy a new slicer. Next time you watch the episode, listen for the Russian expressions for 'new' and 'seasonal' — you will catch every word right away. See you next time!"
-CLOSING = ("nagiyev", "Пока!")
+CLOSING = ('nagiyev', 'Пока!')
 STORY = [
     ('nagiyev', 'Ты кто такой? Это что такое?', 'Who are you? What is this?', [(145, 'Это точно? Блин, уж анализы пересдать.')], ''),
-    ('nagiyev', 'Это новое сезонное блюдо от шеф-повара.', 'It is the chef', [], ''),
-    ('nagiyev', 'Мясные рулетики из телятины с тонкими ломтиками ветчины.', 'You know, veal rolls with thin slices of ham.', [], ''),
-    ('nagiyev', 'Это я придумал, шеф утвердил.', 'I came up with it, and the chef approved it.', [], ''),
+    ('senya', 'Это новое сезонное блюдо от шеф-повара.', 'It is the chef', [], ''),
+    ('senya', 'Мясные рулетики из телятины с тонкими ломтиками ветчины.', 'You know, veal rolls with thin slices of ham.', [], ''),
+    ('senya', 'Это я придумал, шеф утвердил.', 'I came up with it, and the chef approved it.', [], ''),
     ('nagiyev', 'Человек придумал блюдо от шеф-повара вместо шеф-повара.', 'The guy came up with the chef', [], ''),
     ('nagiyev', 'Шеф-повар угонит.', 'The chef is going to flip.', [], ''),
     ('nagiyev', 'Очень неплохо. Спасибо.', 'Really not bad. Thanks.', [], ''),
-    ('nagiyev', 'Нам на кухню нужен еще для этого блюда слайсер.', 'You know, we need a slicer in the kitchen for this dish.', [], ''),
+    ('senya', 'Нам на кухню нужен еще для этого блюда слайсер.', 'You know, we need a slicer in the kitchen for this dish.', [], ''),
     ('nagiyev', 'Что такое? Надеюсь, что это законное?', 'What is it? I hope it is legal.', [], ''),
-    ('nagiyev', 'Это такая штука для нарезки ветчины очень тонкими ломтиками.', 'It is a gadget for slicing ham really thin.', [], ''),
+    ('senya', 'Это такая штука для нарезки ветчины очень тонкими ломтиками.', 'It is a gadget for slicing ham really thin.', [], ''),
     ('nagiyev', 'Я-то думал, купи ему этот слайсер.', 'I thought, buy him this slicer.', [], ''),
     ('nagiyev', 'Пускай человек ломтиками режет.', 'Let the man slice away.', [], ''),
     ('nagiyev', 'В конце концов! Кто-то должен у нас рожать блюдо от шеф-повара.', 'After all, someone has got to give birth to the chef', [], ''),

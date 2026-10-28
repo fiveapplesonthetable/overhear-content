@@ -1,34 +1,36 @@
-# domashniy-arest/s01e06/scene-23.py
-ID = "domashniy-arest-s01e06-scene-23"
-SHOW = "domashniy-arest"
+# Authoring module for domashniy-arest-s01e06-scene-23.
+ID = 'domashniy-arest-s01e06-scene-23'
+SHOW = 'domashniy-arest'
 SEASON = 1
 EPISODE = 6
 SCENE = 23
-TITLE = "Спортивная злость  (Competitive Anger)"
-LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-SOURCE_NAME = "Домашний арест (Domashniy Arest) S1.06"
-SOURCE_FILE = "sources/domashniy-arest/s01/e06.ru.dual.srt"
-VOICES = {"narrator": "sky", "ilona": "angelina"}
-LABELS = {"ilona": "Илона"}
+TITLE = 'Спортивная злость  (Competitive Anger)'
+LEVEL = 'A1 — Duolingo Section 2'
+PAIR = 'ru-en'
+LABELS = {'galina': 'Галина', 'ilona': 'Илона', 'nina': 'Нина'}
+SOURCE_NAME = 'Домашний арест (Domashniy Arest) S1.06'
+SOURCE_FILE = 'sources/domashniy-arest/s01/e06.ru.dual.srt'
 INTRO = "Backstage at the ballet studio. Now, while Ilona is waiting backstage at the ballet audition, Nina phones her in a panic because Samson ran off to look for Yulya. Let's listen in Russian first."
-STORY = [
-    ("ilona", "Не найдёт он никого! Что мне делать?", "He won't find anyone! What should I do?", [(843, 'не найдет он никого'), (845, 'мне делать')], "'он же бестолковый' dropped; 'Да ничего мне делать, а?' -> 'Что мне делать?'"),
-    ("ilona", "Не волнуйся. Можно по телефону узнать, где она.", "Don't worry. We can find out by phone where she is.", [(844, 'Не волнуйся')], "'по социальным сетям пробить геолокацию' (848) -> 'Можно по телефону узнать, где она' (A1)"),
-    ("ilona", "Да я в этом ничего не понимаю!", "I don't understand anything about that!", [(849, 'Да я в этом'), (849, 'ничего не')], "'соображаю' -> 'понимаю' (A1)"),
-    ("ilona", "Я сейчас приеду.", "I'll come right over.", [(850, 'Я сейчас приеду')], ""),
-    ("ilona", "Я же десять раз сказала! Я видеть его не хочу.", "I've said it ten times! I don't want to see him.", [(851, 'Я же десять раз сказала, я видеть его не хочу')], "split into two short sentences"),
-    ("ilona", "Когда-нибудь ты захочешь помириться со своим папой.", "Someday you will want to make up with your dad.", [(854, 'Когда-нибудь ты захочешь помириться со своим папой')], ""),
-    ("ilona", "Но будет уже слишком поздно!", "But it will already be too late!", [(855, 'но будет уже слишком поздно')], ""),
-    ("ilona", "Я сто раз хотела с ним помириться!", "I wanted to make up with him a hundred times!", [(857, 'Я сто раз'), (857, 'с ним помириться')], "'пыталась' -> 'хотела' (A1)"),
-    ("ilona", "Он сразу начинает кричать! Оставьте меня в покое.", "He immediately starts shouting! Leave me in peace.", [(858, 'Он'), (858, 'сразу начинает'), (859, 'оставьте меня в покое')], "'орать' -> 'кричать' (A1)"),
-    ("ilona", "Хорошо. А знаешь, почему ты так злишься?", "Fine. And do you know why you are so angry?", [(862, 'А знаешь'), (864, 'ты так злишься')], ""),
-    ("ilona", "Потому что твой папа прав! У тебя нет таланта.", "Because your dad is right! You have no talent.", [(864, 'потому что твой папа прав')], "'Ну ты реально бездарная' (866) -> 'У тебя нет таланта' (A1)"),
-    ("ilona", "Видела я твой танец. Балерина из тебя никакая!", "I saw your dance. You are no ballerina at all!", [(867, 'Видела я'), (868, 'из тебя'), (868, 'какая')], "'тренировку' -> 'танец'; garbled 'Валерина из тебя извинения какая' -> 'Балерина из тебя никакая!'"),
-    ("ilona", "Тебя даже в простой театр никто не возьмёт!", "Nobody will even take you into a simple theatre!", [(870, 'тебя даже'), (871, 'никто не возьмет')], "'под танцовку' -> 'в простой театр' (A1)"),
-    ("ilona", "Что?! Да я сейчас всем покажу!", "What?! Why, I will show everyone right now!", [(863, 'Что')], "Galina's furious reaction as she is called onto the stage in cues 872-874"),
-]
 OPENER = "Let's go through the scene line by line. Backstage at the ballet hall, Ilona answers a frantic phone call from Nina."
+TRANSITION = "Now let's hear the whole scene again, from start to finish."
+OUTRO = "So before hurrying off to help Nina find Yulya, Ilona used reverse psychology to turn Galina's stage fright into pure competitive anger right before her audition. See you next time!"
+CLOSING = ('ilona', 'Пока!')
+STORY = [
+    ('nina', 'Не найдёт он никого! Что мне делать?', "He won't find anyone! What should I do?", [(843, 'не найдет он никого'), (845, 'мне делать')], "'он же бестолковый' dropped; 'Да ничего мне делать, а?' -> 'Что мне делать?'"),
+    ('ilona', 'Не волнуйся. Можно по телефону узнать, где она.', "Don't worry. We can find out by phone where she is.", [(844, 'Не волнуйся')], "'по социальным сетям пробить геолокацию' (848) -> 'Можно по телефону узнать, где она' (A1)"),
+    ('nina', 'Да я в этом ничего не понимаю!', "I don't understand anything about that!", [(849, 'Да я в этом'), (849, 'ничего не')], "'соображаю' -> 'понимаю' (A1)"),
+    ('ilona', 'Я сейчас приеду.', "I'll come right over.", [(850, 'Я сейчас приеду')], ''),
+    ('galina', 'Я же десять раз сказала! Я видеть его не хочу.', "I've said it ten times! I don't want to see him.", [(851, 'Я же десять раз сказала, я видеть его не хочу')], 'split into two short sentences'),
+    ('ilona', 'Когда-нибудь ты захочешь помириться со своим папой.', 'Someday you will want to make up with your dad.', [(854, 'Когда-нибудь ты захочешь помириться со своим папой')], ''),
+    ('ilona', 'Но будет уже слишком поздно!', 'But it will already be too late!', [(855, 'но будет уже слишком поздно')], ''),
+    ('galina', 'Я сто раз хотела с ним помириться!', 'I wanted to make up with him a hundred times!', [(857, 'Я сто раз'), (857, 'с ним помириться')], "'пыталась' -> 'хотела' (A1)"),
+    ('galina', 'Он сразу начинает кричать! Оставьте меня в покое.', 'He immediately starts shouting! Leave me in peace.', [(858, 'Он'), (858, 'сразу начинает'), (859, 'оставьте меня в покое')], "'орать' -> 'кричать' (A1)"),
+    ('ilona', 'Хорошо. А знаешь, почему ты так злишься?', 'Fine. And do you know why you are so angry?', [(862, 'А знаешь'), (864, 'ты так злишься')], ''),
+    ('ilona', 'Потому что твой папа прав! У тебя нет таланта.', 'Because your dad is right! You have no talent.', [(864, 'потому что твой папа прав')], "'Ну ты реально бездарная' (866) -> 'У тебя нет таланта' (A1)"),
+    ('ilona', 'Видела я твой танец. Балерина из тебя никакая!', 'I saw your dance. You are no ballerina at all!', [(867, 'Видела я'), (868, 'из тебя'), (868, 'какая')], "'тренировку' -> 'танец'; garbled 'Валерина из тебя извинения какая' -> 'Балерина из тебя никакая!'"),
+    ('ilona', 'Тебя даже в простой театр никто не возьмёт!', 'Nobody will even take you into a simple theatre!', [(870, 'тебя даже'), (871, 'никто не возьмет')], "'под танцовку' -> 'в простой театр' (A1)"),
+    ('galina', 'Что?! Да я сейчас всем покажу!', 'What?! Why, I will show everyone right now!', [(863, 'Что')], "Galina's furious reaction as she is called onto the stage in cues 872-874"),
+]
 WALK = [
     (0, None, "'He won't find anyone! What should I do?' Russian uses double negation here: 'not he will find nobody', and 'what to me to do?' uses the 'to'-form."),
     (1, None, "'Don't worry. We can find out by phone where she is.' Ilona calmly explains that she can check Yulya's location through her phone."),
@@ -46,6 +48,3 @@ WALK = [
     (12, None, "'Nobody will even take you into a simple theatre!' Ilona smirks and walks away just as the announcer calls Galina's name for the audition."),
     (13, None, "'What?! Why, I will show everyone right now!' Forgetting all about her stage fright, furious Galina marches out onto the stage to prove Ilona wrong."),
 ]
-TRANSITION = "Now let's hear the whole scene again, from start to finish."
-OUTRO = "So before hurrying off to help Nina find Yulya, Ilona used reverse psychology to turn Galina's stage fright into pure competitive anger right before her audition. See you next time!"
-CLOSING = ("ilona", "Пока!")

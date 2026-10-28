@@ -152,7 +152,7 @@ One character (label) = one role key = one voice across the entire show:
   with a small green light on his right ankle; socks or slippers (the generator tends to draw him barefoot). Later in the flat: a bandaged finger (from s01e01 scene 17 on).
 - Appearance for the art (child, 1980s flashback): thin boy of about 10, big round glasses, dark-brown hair in a bowl
   cut, Soviet school uniform: blue jacket `#3D5A9E`, white shirt, red pioneer scarf `#D94A3D`.
-- Story role key / voice: `anya` -> alisa. Label: Аркадий.
+- Role key: `arkady` (see `cast.json`).. Label: Аркадий.
 - Speech: polite *вы* in public and with strangers, *ты* with Samson, Pasha and Vika. Likes "Послушай", "Всё",
   "Спасибо", "Я серьёзно", "У нас мир".
 
@@ -164,7 +164,7 @@ One character (label) = one role key = one voice across the entire show:
   open khaki work jacket `#7A7A4A`. Big hands.
 - Appearance for the art (child): stocky boy of about 11, dark-blond buzz cut, striped blue-and-white T-shirt,
   grey shorts.
-- Story role key / voice: `samson` -> anja. Label: Самсон.
+- Role key: `samson` (see `cast.json`).. Label: Самсон.
 - Speech: informal *ты*, blunt, short sentences. "Всё нормально", "Да ладно!". (Source is full of swearing: never in
   story lines.)
 
@@ -173,7 +173,7 @@ One character (label) = one role key = one voice across the entire show:
   dreams of the sea, a proper flat and a bidet. More practical than Samson.
 - Appearance for the art: woman about 38, light skin, curly bleached-blonde shoulder-length hair `#E8C56B`, pink
   quilted housecoat `#E58FA8`, hands often on hips; sometimes a roll of white bandage.
-- Story role key / voice: `nina` -> angelina. Label: Нина.
+- Role key: `nina` (see `cast.json`).. Label: Нина.
 - Speech: *ты* with family and with Arkady; sharp, practical. "Я хочу нормально жить!", "Я хочу на море!"
 
 ## Юля и Славик (Yulia / Yulka and Slavik; the Samsonovs' children; first seen s01e01)
@@ -187,7 +187,7 @@ One character (label) = one role key = one voice across the entire show:
   having an affair with Vika. Becomes acting mayor and runs for mayor himself.
 - Appearance for the art: man about 35, slim, light skin, slicked-back light-brown hair with a shiny quiff, thin
   smug smile, light-grey suit `#9AA3AD`, lilac tie `#9B7BC8`, slim black folder or phone.
-- Story role key / voice: `pasha` -> anja (or angelina if anja is taken in the scene). Label: Паша.
+- Role key: `pasha` (see `cast.json`). (or angelina if anja is taken in the scene). Label: Паша.
 - Speech: *ты* with Arkady ("Аркаш"), oily politeness in public.
 
 ## Виктория, Вика (Vika, Викуля; Arkady's wife; first seen s01e01)
@@ -195,7 +195,7 @@ One character (label) = one role key = one voice across the entire show:
   Cayenne.
 - Appearance for the art: woman about 35, light skin, long straight platinum-blonde hair `#F1E3B0`, big sunglasses
   pushed up on her head, white coat `#FFF6EA`, red lips, a car key in her hand.
-- Story role key / voice: `vika` -> angelina. Label: Вика.
+- Role key: `vika` (see `cast.json`).. Label: Вика.
 
 ## Марина Сергеевна Валинкина (Marina Sergeyevna; university lecturer and activist; first seen s01e01)
 - Who: associate professor at Sineozersk University (surname garbled in the subtitles: Валинкина / Былинкина /
@@ -204,7 +204,7 @@ One character (label) = one role key = one voice across the entire show:
   service to inform on Arkady: refuses, then (end of s01e02) agrees.
 - Appearance for the art: woman about 33, light skin, dark-brown hair in a low bun with a pencil through it, no
   glasses, teal coat `#2E8F8A` over a mustard scarf `#E0B341`, a folder of papers held up like a placard.
-- Story role key / voice: `marina` -> angelina (or `anya` when she is the viewpoint character, label Марина).
+- Role key: `marina` (see `cast.json`). (or `anya` when she is the viewpoint character, label Марина).
   Label: Марина.
 - Speech: polite *вы* with the mayor; firm, idealistic. "Не надо врать."
 
@@ -217,34 +217,34 @@ One character (label) = one role key = one voice across the entire show:
 ## Аракелян, "Ара" (Arakelyan; businessman who pays the bribe; first seen s01e01)
 - Appearance for the art: man about 50, medium skin `#D9A074`, black beard, bald on top, black leather jacket, a dark
   sports bag of money.
-- Story role key / voice: `arakelyan` -> anja. Label: Аракелян.
+- Role key: `arakelyan` (see `cast.json`).. Label: Аракелян.
 
 ## Капитан Гнездо (Captain Gnezdo; Investigative Committee; first seen s01e01)
 - Appearance for the art: man about 40, light skin, short black hair, square jaw, black jacket, holds up an ID wallet
   (shape only, no text).
-- Story role key / voice: `captain` -> angelina. Label: Капитан.
+- Role key: `captain` (see `cast.json`).. Label: Капитан.
 
 ## Офицер ФСИН (prison-service officer who fits the ankle tag; first seen s01e01)
 - Appearance for the art: man about 30, light skin, short brown hair, blue-grey uniform `#5E7389` with cap, holds a
   small white box with a green light (the tag base station).
-- Story role key / voice: `officer` -> anja. Label: Офицер.
+- Role key: `officer` (see `cast.json`).. Label: Офицер.
 
 ## Клавдия Викторовна Сопрыкина (Klavdia; the old neighbour in the communal flat; first seen s01e01, named s01e02)
 - Who: elderly pensioner who has lived in the flat since Arkady was a boy; calls him "Аркашка". Communist and
   believer, knows everything about everyone; keeps delicacies (her "bribes for the doctors") in a padlocked fridge.
 - Appearance for the art: tiny old woman about 80, light skin, white hair under a flowered headscarf, brown floral
   housecoat `#8A5A44`, thick cardigan, slippers.
-- Story role key / voice: `klavdia` -> angelina (s01e01 used `neighbour`, label Соседка). Label: Клавдия Викторовна.
+- Role key: `klavdia` (see `cast.json`). (s01e01 used `neighbour`, label Соседка). Label: Клавдия Викторовна.
 
 ## Эдуард Владимирович (Eduard Vladimirovich; Marina's dean; first seen s01e01)
 - Appearance for the art: man about 60, light skin, grey hair and short grey beard, brown tweed jacket `#7B5B3A`,
   half-moon glasses on the tip of his nose.
-- Story role key / voice: `dean` -> anja. Label: Эдуард Владимирович.
+- Role key: `dean` (see `cast.json`).. Label: Эдуард Владимирович.
 
 ## Отец Самсона (Samson's father, 1980s flashback; first seen s01e01)
 - Appearance for the art: man about 40, light skin, thick dark moustache, brown leather jacket, a big suitcase and a
   silver tape recorder.
-- Story role key / voice: `father` -> anja. Label: Отец Самсона.
+- Role key: `father` (see `cast.json`).. Label: Отец Самсона.
 
 ## Minor
 - Виталик (Vitalik), Arkady's driver: young man, short fair hair, black suit. Spoken to, rarely speaks.
@@ -261,14 +261,14 @@ One character (label) = one role key = one voice across the entire show:
   games console (PSP); Arkady takes his piggy-bank money. Arkady calls him "Шнурок" (shoelace).
 - Appearance for the art: thin boy, light skin, straight light-brown hair with a fringe, big serious eyes, blue
   zip-up sweatshirt `#4F7CC2`, two grey forearm crutches.
-- Story role key / voice: `lyosha` -> anja or angelina. Label: Лёша.
+- Role key: `lyosha` (see `cast.json`). or angelina. Label: Лёша.
 
 ## Виктор Степанович (the governor of the region; first seen s01e02 in person)
 - Who: Arkady's boss, vain and crude, practises judo for photos; Arkady saved him in his phone as "Свин" (Pig).
   (In s01e01 scene 5 Arkady used his name as a cover for a woman caller.)
 - Appearance for the art: heavy man about 60, light skin, red cheeks, grey hair combed over a bald top, grey
   moustache; white judo jacket with a black belt, or a dark-brown suit `#5A3E2B` with a gold tie.
-- Story role key / voice: `governor` -> anja. Label: Губернатор (or Виктор Степанович).
+- Role key: `governor` (see `cast.json`).. Label: Губернатор (or Виктор Степанович).
 
 ## Пётр Олегович Третьяков (Tretyakov; powerful official in Moscow; heard s01e02)
 - Voice only (and Arkady's impression of him: "Ты всасываешь или не всасываешь?", "бандерлоги"). Not drawn.
@@ -276,17 +276,17 @@ One character (label) = one role key = one voice across the entire show:
 ## Николай Филиппович Головамзюк (Samson's boss on the building site; seen s01e02)
 - Appearance for the art: man about 55, light skin, big belly, bald with grey fringe, bushy grey eyebrows, orange
   hard hat `#E8873A`, checked shirt and grey padded vest.
-- Story role key / voice: `boss` -> anja or angelina. Label: Николай Филиппович.
+- Role key: `boss` (see `cast.json`). or angelina. Label: Николай Филиппович.
 
 ## Михаил Михайлович, "дядя Миша" (head of the local security service; first seen s01e02)
 - Appearance for the art: man about 55, light skin, stocky, grey crew cut, thick dark eyebrows, dark-green uniform
   shirt `#4B5D3A` with shoulder boards (no badges/text), loud.
-- Story role key / voice: `chief` -> anja. Label: Михаил Михайлович.
+- Role key: `chief` (see `cast.json`).. Label: Михаил Михайлович.
 
 ## Лёва Соколов (Lyova; lieutenant, the chief's nephew, stuck in the archive; first seen s01e02)
 - Appearance for the art: young man about 25, light skin, thin, curly ginger hair, big ears, oversized grey suit,
   notebook in hand.
-- Story role key / voice: `lyova` -> angelina (or `anya`, label Лёва, when he is the viewpoint). Label: Лёва.
+- Role key: `lyova` (see `cast.json`). (or `anya`, label Лёва, when he is the viewpoint). Label: Лёва.
 
 ## Майор Лавров and капитан Заварзин (security-service agents from Moscow; first seen s01e02)
 - Lavrov: man about 40, light skin, neat dark hair, black slim suit, black tie, calm. Role `lavrov` -> anja, label
@@ -300,7 +300,7 @@ One character (label) = one role key = one voice across the entire show:
 
 ## Степан Геннадьевич (the angry "Moscow partner" of the cluster deal; s01e02)
 - Appearance for the art: man about 55, light skin, square head, short grey hair, navy coat over a suit, scowl.
-- Story role key / voice: `stepan` -> angelina. Label: Степан Геннадьевич.
+- Role key: `stepan` (see `cast.json`).. Label: Степан Геннадьевич.
 
 ## Партнёр (the calm Moscow partner of the cluster deal; s01e02 sc. 11)
 - Appearance: man about 45, light skin, neat short dark-brown hair greying at the temples, dark-charcoal suit,
@@ -314,7 +314,7 @@ One character (label) = one role key = one voice across the entire show:
 
 ## Охрана (Arkady's former guards, led by Vitalik; s01e01-02)
 - Big young men in black suits and white shirts, short haircuts; Vitalik is the fair-haired one (also the driver).
-- Story role key / voice: `vitalik` -> anja or angelina. Label: Виталик.
+- Role key: `vitalik` (see `cast.json`). or angelina. Label: Виталик.
 
 ## Илья Олегович Берг (Judge Berg, Илюша; chairman of the Sineozersk City Court; first seen s01e03)
 - Who: chairman of the city court, and Arkady's next-door neighbour in the rich cottage village; Arkady once got his
@@ -324,7 +324,7 @@ One character (label) = one role key = one voice across the entire show:
   moustache, black rectangular glasses; dark suit `#2F3E66` with a pale-blue tie (or a black judge's robe in court),
   often holding a red dog lead with a tiny white fluffy lapdog (**Лютик** / **Тузик**: small fluffy cream-white dog with
   a red collar).
-- Story role key / voice: `judge` -> anja or angelina (or `anya`, label Илья Олегович, when he is the viewpoint).
+- Role key: `judge` (see `cast.json`). or angelina (or `anya`, label Илья Олегович, when he is the viewpoint).
   Label: Илья Олегович (or Судья Берг).
 
 ## Данила Головкин, "Данька" (Danila Golovkin; Arkady's stuttering public defender; first seen s01e03)
@@ -333,7 +333,7 @@ One character (label) = one role key = one voice across the entire show:
   Arkady handed out flats through connections, so in court Golovkin exposes Arkady's fraud.
 - Appearance for the art: thin, nervous man about 38, light skin, wispy sandy-brown hair combed to the side, droopy
   shoulders, oversized worn brown suit `#8A6B4E` over a pale-yellow shirt, clutching a battered brown leather briefcase.
-- Story role key / voice: `golovkin` -> anja or angelina. Label: Головкин (or Данила).
+- Role key: `golovkin` (see `cast.json`). or angelina. Label: Головкин (or Данила).
 
 ## Лёля (Lyolya; Arkady's glamorous young girlfriend; first seen s01e03)
 - Who: former dancer whom Arkady set up with a flat under the "Affordable Housing" programme; refuses to steal a dog for
@@ -341,7 +341,7 @@ One character (label) = one role key = one voice across the entire show:
   blurts out the truth.
 - Appearance for the art: young woman about 25, light skin, long wavy honey-blonde hair `#E8C56B`, big gold hoop
   earrings, red lips, short tan faux-fur coat `#C98B5E` over a bright red dress `#C8373B`, small handbag.
-- Story role key / voice: `lyolya` -> angelina (or `anya`, label Лёля, when she is the viewpoint). Label: Лёля.
+- Role key: `lyolya` (see `cast.json`). (or `anya`, label Лёля, when she is the viewpoint). Label: Лёля.
 
 ## Андрей Иосифович Мишкин (Andrei Iosifovich Mishkin; sleek Moscow lawyer from "Mishkin and Sons"; s01e03)
 - Who: expensive Moscow defence lawyer who intimidates Judge Berg, until Pasha scares him back to Moscow "for family
@@ -349,7 +349,7 @@ One character (label) = one role key = one voice across the entire show:
 - Appearance for the art: tall, confident man about 45, light skin, silver-streaked dark hair, expensive dark-blue coat
   `#2A3B5C` with a burgundy scarf `#8E2F3B`, leather briefcase. Two younger assistant lawyers in matching dark coats
   stand behind him.
-- Story role key / voice: `mishkin` -> anja. Label: Мишкин.
+- Role key: `mishkin` (see `cast.json`).. Label: Мишкин.
 
 ## Софочка и Полина (Sofochka and Polina; Judge Berg's wife and daughter; s01e03)
 - Sofochka: plump, bossy woman about 45, light skin, high dark-auburn hairdo `#8C3A32`, green house dress `#4E8A6E`,
@@ -376,7 +376,7 @@ One character (label) = one role key = one voice across the entire show:
 - Appearance for the art: stylish woman about 32, light skin, sleek straight dark-brown bob haircut `#3B2820`, sharp
   cheekbones, burgundy lipstick; tailored camel-beige trench coat `#C9A47A` over a fitted black turtleneck dress
   `#2B2D38`, carrying a black leather handbag.
-- Story role key / voice: `ilona` -> angelina (or `anya`, label Илона, when she is the viewpoint). Label: Илона (or
+- Role key: `ilona` (see `cast.json`). (or `anya`, label Илона, when she is the viewpoint). Label: Илона (or
   Илона Леонидовна).
 
 ## Артурик (Arturik; insolent local taxi driver; s01e04 sc. 2)
@@ -384,12 +384,12 @@ One character (label) = one role key = one voice across the entire show:
   with him until she tricks him under Devil's Bridge and drives off in his car.
 - Appearance for the art: stocky man about 38, light skin, receding hairline with short dark stubble, gold chain over a
   black track jacket `#2B303A` with white stripes on the sleeves, gripping a steering wheel.
-- Story role key / voice: `arturik` -> anja. Label: Артурик.
+- Role key: `arturik` (see `cast.json`).. Label: Артурик.
 
 ## Ксюша (Ksyusha; Pasha's young campaign coordinator; first seen s01e04 sc. 13)
 - Appearance for the art: young woman about 26, light skin, neat brown ponytail, round glasses, pale-blue blouse
   `#8AB4D9` and dark skirt, holding a tablet or folder.
-- Story role key / voice: `ksyusha` -> angelina (or `anja` when Ilona has `angelina`). Label: Ксюша.
+- Role key: `ksyusha` (see `cast.json`). (or `anja` when Ilona has `angelina`). Label: Ксюша.
 
 ## Лев Валерьянович Лещенко (Lev Leshchenko; famous Soviet and Russian singer, on phone; s01e04 sc. 24)
 - Who: Klavdia Viktorovna's lifelong idol; Arkady uses his old connections to have Leshchenko phone Klavdia personally.
@@ -463,14 +463,14 @@ One character (label) = one role key = one voice across the entire show:
   an axe on Danya's finger.
 - Appearance for the art: handsome, clean-shaven man about 36, light skin, neat dark-brown hair parted on the side, warm friendly
   smile; stylish camel or navy wool coat / quilted winter jacket `#2C3E58` over a cream cable-knit turtleneck sweater `#F3E9D2`.
-- Story role key / voice: `danya` -> anja or angelina (or `anya`, label Даня, when he is the viewpoint). Label: Даня.
+- Role key: `danya` (see `cast.json`). or angelina (or `anya`, label Даня, when he is the viewpoint). Label: Даня.
 
 ## Сунь-цзы (Sun Tzu; ancient Chinese strategist in Samsonov's dream; s01e07 sc. 15)
 - Who: author of *The Art of War* («Искусство войны»), who appears to Samsonov in a dream in s01e07 sc. 15 speaking like a tough
   airborne commander and advising Samsonov to lure lawyer Danya onto his own territory in the forest.
 - Appearance for the art: wise East Asian man about 55, light-warm skin, high topknot bun and long thin greying moustache and
   goatee beard, traditional dark-red and gold silk scholar-general robe `#8E2F3B` with wide sleeves.
-- Story role key / voice: `suntzu` -> angelina (or `anja`). Label: Сунь-цзы.
+- Role key: `suntzu` (see `cast.json`). (or `anja`). Label: Сунь-цзы.
 
 ## Voice-only / minor roles (s01e07)
 - Бабушка Аркадия (Arkady's late grandmother, imagined voice/portrait in sc. 2): sharp-tongued elderly woman in a vintage brooch
@@ -540,127 +540,127 @@ One character (label) = one role key = one voice across the entire show:
 
 Every role key used in any episode of this show is listed below with its character label, visual appearance notes, and fixed voice:
 
-- **Аркадий** (label: `Аркадий`; appearance: distinct silhouette with dark chestnut hair `#3B261E` and tailored outfit in `#2C3E58`) — Story role key / voice: `anya` -> alisa
-- **Самсон** (label: `Самсон`; appearance: distinct silhouette with sandy-brown hair `#8C6239` and tailored outfit in `#6E2B42`) — Story role key / voice: `samson` -> anja
-- **Нина** (label: `Нина`; appearance: distinct silhouette with auburn hair `#8B3A2B` and tailored outfit in `#2E7D7A`) — Story role key / voice: `nina` -> angelina
-- **Марина** (label: `Марина`; appearance: distinct silhouette with silver-streaked hair `#7A7E85` and tailored outfit in `#5A4638`) — Story role key / voice: `marina` -> angelina
-- **Паша** (label: `Паша`; appearance: distinct silhouette with dark wavy hair `#241C18` and tailored outfit in `#4B5D3A`) — Story role key / voice: `pasha` -> anja
-- **Илона** (label: `Илона`; appearance: distinct silhouette with honey-blond hair `#D4A459` and tailored outfit in `#8E3B46`) — Story role key / voice: `ilona` -> angelina
-- **Лавров** (label: `Лавров`; appearance: distinct silhouette with dark chestnut hair `#3B261E` and tailored outfit in `#3B5368`) — Story role key / voice: `lavrov` -> anja
-- **Клавдия Викторовна** (label: `Клавдия Викторовна`; appearance: distinct silhouette with sandy-brown hair `#8C6239` and tailored outfit in `#7A5843`) — Story role key / voice: `klavdia` -> angelina
-- **Эдуард Владимирович** (label: `Эдуард Владимирович`; appearance: distinct silhouette with auburn hair `#8B3A2B` and tailored outfit in `#2C3E58`) — Story role key / voice: `dean` -> anja
-- **Юля** (label: `Юля`; appearance: distinct silhouette with silver-streaked hair `#7A7E85` and tailored outfit in `#6E2B42`) — Story role key / voice: `yulia` -> angelina
-- **Лёша** (label: `Лёша`; appearance: distinct silhouette with dark wavy hair `#241C18` and tailored outfit in `#2E7D7A`) — Story role key / voice: `lyosha` -> anja
-- **Лёва** (label: `Лёва`; appearance: distinct silhouette with honey-blond hair `#D4A459` and tailored outfit in `#5A4638`) — Story role key / voice: `lyova` -> angelina
-- **Губернатор** (label: `Губернатор`; appearance: distinct silhouette with dark chestnut hair `#3B261E` and tailored outfit in `#4B5D3A`) — Story role key / voice: `governor` -> angelina
-- **Славик** (label: `Славик`; appearance: distinct silhouette with sandy-brown hair `#8C6239` and tailored outfit in `#8E3B46`) — Story role key / voice: `slavik` -> anja
-- **Дядя Гриша** (label: `Дядя Гриша`; appearance: distinct silhouette with auburn hair `#8B3A2B` and tailored outfit in `#3B5368`) — Story role key / voice: `grisha` -> anja
-- **Костик** (label: `Костик`; appearance: distinct silhouette with silver-streaked hair `#7A7E85` and tailored outfit in `#7A5843`) — Story role key / voice: `kostik` -> angelina
-- **Вика** (label: `Вика`; appearance: distinct silhouette with dark wavy hair `#241C18` and tailored outfit in `#2C3E58`) — Story role key / voice: `vika` -> angelina
-- **Заварзин** (label: `Заварзин`; appearance: distinct silhouette with honey-blond hair `#D4A459` and tailored outfit in `#6E2B42`) — Story role key / voice: `zavarzin` -> angelina
-- **Головкин** (label: `Головкин`; appearance: distinct silhouette with dark chestnut hair `#3B261E` and tailored outfit in `#2E7D7A`) — Story role key / voice: `golovkin` -> anja
-- **Даня** (label: `Даня`; appearance: distinct silhouette with sandy-brown hair `#8C6239` and tailored outfit in `#5A4638`) — Story role key / voice: `danya` -> anja
-- **Михаил Михайлович** (label: `Михаил Михайлович`; appearance: distinct silhouette with auburn hair `#8B3A2B` and tailored outfit in `#4B5D3A`) — Story role key / voice: `chief` -> anja
-- **Лёля** (label: `Лёля`; appearance: distinct silhouette with silver-streaked hair `#7A7E85` and tailored outfit in `#8E3B46`) — Story role key / voice: `lyolya` -> angelina
-- **Доктор** (label: `Доктор`; appearance: distinct silhouette with dark wavy hair `#241C18` and tailored outfit in `#3B5368`) — Story role key / voice: `doctor` -> anja
-- **Певец** (label: `Певец`; appearance: distinct silhouette with honey-blond hair `#D4A459` and tailored outfit in `#7A5843`) — Story role key / voice: `singer` -> angelina
-- **Илья Олегович** (label: `Илья Олегович`; appearance: distinct silhouette with dark chestnut hair `#3B261E` and tailored outfit in `#2C3E58`) — Story role key / voice: `judge` -> anja
-- **Генерал Круглов** (label: `Генерал Круглов`; appearance: distinct silhouette with sandy-brown hair `#8C6239` and tailored outfit in `#6E2B42`) — Story role key / voice: `general` -> angelina
-- **Толя** (label: `Толя`; appearance: distinct silhouette with auburn hair `#8B3A2B` and tailored outfit in `#2E7D7A`) — Story role key / voice: `tolya` -> anja
-- **Лидия Алексеевна** (label: `Лидия Алексеевна`; appearance: distinct silhouette with silver-streaked hair `#7A7E85` and tailored outfit in `#5A4638`) — Story role key / voice: `lydia` -> angelina
-- **Офицер** (label: `Офицер`; appearance: distinct silhouette with dark wavy hair `#241C18` and tailored outfit in `#4B5D3A`) — Story role key / voice: `officer` -> anja
-- **Игнатьев** (label: `Игнатьев`; appearance: distinct silhouette with honey-blond hair `#D4A459` and tailored outfit in `#8E3B46`) — Story role key / voice: `ignatyev` -> anja
-- **Виталик** (label: `Виталик`; appearance: distinct silhouette with dark chestnut hair `#3B261E` and tailored outfit in `#3B5368`) — Story role key / voice: `vitalik` -> angelina
-- **Татьяна** (label: `Татьяна`; appearance: distinct silhouette with sandy-brown hair `#8C6239` and tailored outfit in `#7A5843`) — Story role key / voice: `tatyana` -> angelina
-- **Лев** (label: `Лев`; appearance: distinct silhouette with auburn hair `#8B3A2B` and tailored outfit in `#2C3E58`) — Story role key / voice: `lev` -> anja
-- **Димон** (label: `Димон`; appearance: distinct silhouette with silver-streaked hair `#7A7E85` and tailored outfit in `#6E2B42`) — Story role key / voice: `dimon` -> angelina
-- **Геннадий Андреевич** (label: `Геннадий Андреевич`; appearance: distinct silhouette with dark wavy hair `#241C18` and tailored outfit in `#2E7D7A`) — Story role key / voice: `gennady` -> anja
-- **Галина** (label: `Галина`; appearance: distinct silhouette with honey-blond hair `#D4A459` and tailored outfit in `#5A4638`) — Story role key / voice: `galina` -> angelina
-- **Охранник** (label: `Охранник`; appearance: distinct silhouette with dark chestnut hair `#3B261E` and tailored outfit in `#4B5D3A`) — Story role key / voice: `guard` -> angelina
-- **Отец Григорий** (label: `Отец Григорий`; appearance: distinct silhouette with sandy-brown hair `#8C6239` and tailored outfit in `#8E3B46`) — Story role key / voice: `grigory` -> anja
-- **Рожок** (label: `Рожок`; appearance: distinct silhouette with auburn hair `#8B3A2B` and tailored outfit in `#3B5368`) — Story role key / voice: `rozhok` -> angelina
-- **Журналистка** (label: `Журналистка`; appearance: distinct silhouette with silver-streaked hair `#7A7E85` and tailored outfit in `#7A5843`) — Story role key / voice: `reporter` -> angelina
-- **Аракелян** (label: `Аракелян`; appearance: distinct silhouette with dark wavy hair `#241C18` and tailored outfit in `#2C3E58`) — Story role key / voice: `arakelyan` -> anja
-- **Капитан** (label: `Капитан`; appearance: distinct silhouette with honey-blond hair `#D4A459` and tailored outfit in `#6E2B42`) — Story role key / voice: `captain` -> angelina
-- **Степан Геннадьевич** (label: `Степан Геннадьевич`; appearance: distinct silhouette with dark chestnut hair `#3B261E` and tailored outfit in `#2E7D7A`) — Story role key / voice: `stepan` -> angelina
-- **Николай Филиппович** (label: `Николай Филиппович`; appearance: distinct silhouette with sandy-brown hair `#8C6239` and tailored outfit in `#5A4638`) — Story role key / voice: `boss` -> anja
-- **Прораб** (label: `Прораб`; appearance: distinct silhouette with auburn hair `#8B3A2B` and tailored outfit in `#4B5D3A`) — Story role key / voice: `foreman` -> angelina
-- **Ксюша** (label: `Ксюша`; appearance: distinct silhouette with silver-streaked hair `#7A7E85` and tailored outfit in `#8E3B46`) — Story role key / voice: `ksyusha` -> anja
-- **Мишкин** (label: `Мишкин`; appearance: distinct silhouette with dark wavy hair `#241C18` and tailored outfit in `#3B5368`) — Story role key / voice: `mishkin` -> angelina
-- **Менеджер** (label: `Менеджер`; appearance: distinct silhouette with honey-blond hair `#D4A459` and tailored outfit in `#7A5843`) — Story role key / voice: `manager` -> anja
-- **Андрюша** (label: `Андрюша`; appearance: distinct silhouette with dark chestnut hair `#3B261E` and tailored outfit in `#2C3E58`) — Story role key / voice: `andryusha` -> angelina
-- **Анна** (label: `Анна`; appearance: distinct silhouette with sandy-brown hair `#8C6239` and tailored outfit in `#6E2B42`) — Story role key / voice: `anna` -> angelina
-- **Денис** (label: `Денис`; appearance: distinct silhouette with auburn hair `#8B3A2B` and tailored outfit in `#2E7D7A`) — Story role key / voice: `tech` -> angelina
-- **Саня** (label: `Саня`; appearance: distinct silhouette with silver-streaked hair `#7A7E85` and tailored outfit in `#5A4638`) — Story role key / voice: `sanya` -> angelina
-- **Ветеран** (label: `Ветеран`; appearance: distinct silhouette with dark wavy hair `#241C18` and tailored outfit in `#4B5D3A`) — Story role key / voice: `veteran` -> angelina
-- **Командир** (label: `Командир`; appearance: distinct silhouette with honey-blond hair `#D4A459` and tailored outfit in `#8E3B46`) — Story role key / voice: `commander` -> angelina
-- **Сотрудник** (label: `Сотрудник`; appearance: distinct silhouette with dark chestnut hair `#3B261E` and tailored outfit in `#3B5368`) — Story role key / voice: `agent` -> anja
-- **Землинкин** (label: `Землинкин`; appearance: distinct silhouette with sandy-brown hair `#8C6239` and tailored outfit in `#7A5843`) — Story role key / voice: `zemlinkin` -> anja
-- **Воспитательница** (label: `Воспитательница`; appearance: distinct silhouette with auburn hair `#8B3A2B` and tailored outfit in `#2C3E58`) — Story role key / voice: `caregiver` -> anja
-- **Помощник** (label: `Помощник`; appearance: distinct silhouette with silver-streaked hair `#7A7E85` and tailored outfit in `#6E2B42`) — Story role key / voice: `aide` -> angelina
-- **Санитар** (label: `Санитар`; appearance: distinct silhouette with dark wavy hair `#241C18` and tailored outfit in `#2E7D7A`) — Story role key / voice: `orderly` -> angelina
-- **Строитель** (label: `Строитель`; appearance: distinct silhouette with honey-blond hair `#D4A459` and tailored outfit in `#5A4638`) — Story role key / voice: `builder` -> anja
-- **Тарачков** (label: `Тарачков`; appearance: distinct silhouette with dark chestnut hair `#3B261E` and tailored outfit in `#4B5D3A`) — Story role key / voice: `tarachkov` -> angelina
-- **Отец Самсона** (label: `Отец Самсона`; appearance: distinct silhouette with sandy-brown hair `#8C6239` and tailored outfit in `#8E3B46`) — Story role key / voice: `father` -> angelina
-- **Виктор Степанович** (label: `Виктор Степанович`; appearance: distinct silhouette with auburn hair `#8B3A2B` and tailored outfit in `#3B5368`) — Story role key / voice: `caller` -> anja
-- **Диктор** (label: `Диктор`; appearance: distinct silhouette with silver-streaked hair `#7A7E85` and tailored outfit in `#7A5843`) — Story role key / voice: `newsreader` -> anja
-- **Партнёр** (label: `Партнёр`; appearance: distinct silhouette with dark wavy hair `#241C18` and tailored outfit in `#2C3E58`) — Story role key / voice: `partner` -> anja
-- **Студентка** (label: `Студентка`; appearance: distinct silhouette with honey-blond hair `#D4A459` and tailored outfit in `#6E2B42`) — Story role key / voice: `student` -> angelina
-- **Софочка** (label: `Софочка`; appearance: distinct silhouette with dark chestnut hair `#3B261E` and tailored outfit in `#2E7D7A`) — Story role key / voice: `sofochka` -> angelina
-- **Прокурор** (label: `Прокурор`; appearance: distinct silhouette with sandy-brown hair `#8C6239` and tailored outfit in `#5A4638`) — Story role key / voice: `prosecutor` -> angelina
-- **Артурик** (label: `Артурик`; appearance: distinct silhouette with auburn hair `#8B3A2B` and tailored outfit in `#4B5D3A`) — Story role key / voice: `arturik` -> anja
-- **Инспектор** (label: `Инспектор`; appearance: distinct silhouette with silver-streaked hair `#7A7E85` and tailored outfit in `#8E3B46`) — Story role key / voice: `clerk` -> anja
-- **Девушка** (label: `Девушка`; appearance: distinct silhouette with dark wavy hair `#241C18` and tailored outfit in `#3B5368`) — Story role key / voice: `fan` -> anja
-- **Официант** (label: `Официант`; appearance: distinct silhouette with honey-blond hair `#D4A459` and tailored outfit in `#7A5843`) — Story role key / voice: `waiter` -> anja
-- **Фёдор Григорьевич** (label: `Фёдор Григорьевич`; appearance: distinct silhouette with dark chestnut hair `#3B261E` and tailored outfit in `#2C3E58`) — Story role key / voice: `fyodor` -> anja
-- **Сизов** (label: `Сизов`; appearance: distinct silhouette with sandy-brown hair `#8C6239` and tailored outfit in `#6E2B42`) — Story role key / voice: `sizov` -> angelina
-- **Ирина Петровна** (label: `Ирина Петровна`; appearance: distinct silhouette with auburn hair `#8B3A2B` and tailored outfit in `#2E7D7A`) — Story role key / voice: `irina` -> angelina
-- **Вася** (label: `Вася`; appearance: distinct silhouette with silver-streaked hair `#7A7E85` and tailored outfit in `#5A4638`) — Story role key / voice: `vasya` -> angelina
-- **Зина** (label: `Зина`; appearance: distinct silhouette with dark wavy hair `#241C18` and tailored outfit in `#4B5D3A`) — Story role key / voice: `zina` -> anja
-- **Инга Евгеньевна** (label: `Инга Евгеньевна`; appearance: distinct silhouette with honey-blond hair `#D4A459` and tailored outfit in `#8E3B46`) — Story role key / voice: `inga` -> angelina
-- **Библиотекарь** (label: `Библиотекарь`; appearance: distinct silhouette with dark chestnut hair `#3B261E` and tailored outfit in `#3B5368`) — Story role key / voice: `librarian` -> angelina
-- **Хореограф** (label: `Хореограф`; appearance: distinct silhouette with sandy-brown hair `#8C6239` and tailored outfit in `#7A5843`) — Story role key / voice: `choreographer` -> angelina
-- **Бабушка** (label: `Бабушка`; appearance: distinct silhouette with auburn hair `#8B3A2B` and tailored outfit in `#2C3E58`) — Story role key / voice: `grandma` -> angelina
-- **Водитель** (label: `Водитель`; appearance: distinct silhouette with silver-streaked hair `#7A7E85` and tailored outfit in `#6E2B42`) — Story role key / voice: `driver` -> anja
-- **Беленьков** (label: `Беленьков`; appearance: distinct silhouette with dark wavy hair `#241C18` and tailored outfit in `#2E7D7A`) — Story role key / voice: `belenkov` -> anja
-- **Сунь-цзы** (label: `Сунь-цзы`; appearance: distinct silhouette with honey-blond hair `#D4A459` and tailored outfit in `#5A4638`) — Story role key / voice: `suntzu` -> angelina
-- **Партизан** (label: `Партизан`; appearance: distinct silhouette with dark chestnut hair `#3B261E` and tailored outfit in `#4B5D3A`) — Story role key / voice: `partisan` -> angelina
-- **Хор** (label: `Хор`; appearance: distinct silhouette with sandy-brown hair `#8C6239` and tailored outfit in `#8E3B46`) — Story role key / voice: `chorus` -> anja
-- **Солдат** (label: `Солдат`; appearance: distinct silhouette with auburn hair `#8B3A2B` and tailored outfit in `#3B5368`) — Story role key / voice: `soldier` -> angelina
-- **Бармен** (label: `Бармен`; appearance: distinct silhouette with silver-streaked hair `#7A7E85` and tailored outfit in `#7A5843`) — Story role key / voice: `barman` -> angelina
-- **Друг** (label: `Друг`; appearance: distinct silhouette with dark wavy hair `#241C18` and tailored outfit in `#2C3E58`) — Story role key / voice: `friend` -> angelina
-- **Сосед** (label: `Сосед`; appearance: distinct silhouette with honey-blond hair `#D4A459` and tailored outfit in `#6E2B42`) — Story role key / voice: `neighbor` -> angelina
-- **Первый мужчина** (label: `Первый мужчина`; appearance: distinct silhouette with dark chestnut hair `#3B261E` and tailored outfit in `#2E7D7A`) — Story role key / voice: `first_man` -> angelina
-- **Второй мужчина** (label: `Второй мужчина`; appearance: distinct silhouette with sandy-brown hair `#8C6239` and tailored outfit in `#5A4638`) — Story role key / voice: `second_man` -> anja
-- **Доктор Тенинбаум** (label: `Доктор Тенинбаум`; appearance: distinct silhouette with auburn hair `#8B3A2B` and tailored outfit in `#4B5D3A`) — Story role key / voice: `tenenbaum` -> angelina
-- **Продавщица** (label: `Продавщица`; appearance: distinct silhouette with silver-streaked hair `#7A7E85` and tailored outfit in `#8E3B46`) — Story role key / voice: `shop_clerk` -> angelina
-- **Экскурсовод** (label: `Экскурсовод`; appearance: distinct silhouette with dark wavy hair `#241C18` and tailored outfit in `#3B5368`) — Story role key / voice: `guide` -> angelina
-- **Лёня** (label: `Лёня`; appearance: distinct silhouette with honey-blond hair `#D4A459` and tailored outfit in `#7A5843`) — Story role key / voice: `lyonya` -> anja
-- **Голос** (label: `Голос`; appearance: distinct silhouette with dark chestnut hair `#3B261E` and tailored outfit in `#2C3E58`) — Story role key / voice: `voice` -> angelina
-- **Пациент** (label: `Пациент`; appearance: distinct silhouette with sandy-brown hair `#8C6239` and tailored outfit in `#6E2B42`) — Story role key / voice: `patient` -> angelina
-- **Дед** (label: `Дед`; appearance: distinct silhouette with auburn hair `#8B3A2B` and tailored outfit in `#2E7D7A`) — Story role key / voice: `grandpa` -> angelina
-- **Митя** (label: `Митя`; appearance: distinct silhouette with silver-streaked hair `#7A7E85` and tailored outfit in `#5A4638`) — Story role key / voice: `mitya` -> anja
-- **Ведущий** (label: `Ведущий`; appearance: distinct silhouette with dark wavy hair `#241C18` and tailored outfit in `#4B5D3A`) — Story role key / voice: `host` -> angelina
-- **Следователь** (label: `Следователь`; appearance: distinct silhouette with honey-blond hair `#D4A459` and tailored outfit in `#8E3B46`) — Story role key / voice: `investigator` -> anja
-- **Курьер** (label: `Курьер`; appearance: distinct silhouette with dark chestnut hair `#3B261E` and tailored outfit in `#3B5368`) — Story role key / voice: `courier` -> anja
-- **Боря** (label: `Боря`; appearance: distinct silhouette with sandy-brown hair `#8C6239` and tailored outfit in `#7A5843`) — Story role key / voice: `borya` -> anja
-- **Сева** (label: `Сева`; appearance: distinct silhouette with auburn hair `#8B3A2B` and tailored outfit in `#2C3E58`) — Story role key / voice: `seva` -> anja
-- **Начальник** (label: `Начальник`; appearance: distinct silhouette with silver-streaked hair `#7A7E85` and tailored outfit in `#6E2B42`) — Story role key / voice: `warden` -> anja
-- **Жучкина** (label: `Жучкина`; appearance: distinct silhouette with dark wavy hair `#241C18` and tailored outfit in `#2E7D7A`) — Story role key / voice: `zhuchkina` -> anja
-- **Редактор** (label: `Редактор`; appearance: distinct silhouette with honey-blond hair `#D4A459` and tailored outfit in `#5A4638`) — Story role key / voice: `editor` -> anja
-- **Учительница** (label: `Учительница`; appearance: distinct silhouette with dark chestnut hair `#3B261E` and tailored outfit in `#4B5D3A`) — Story role key / voice: `schoolteacher` -> angelina
-- **Коллега** (label: `Коллега`; appearance: distinct silhouette with sandy-brown hair `#8C6239` and tailored outfit in `#8E3B46`) — Story role key / voice: `colleague` -> anja
-- **Миша** (label: `Миша`; appearance: distinct silhouette with auburn hair `#8B3A2B` and tailored outfit in `#3B5368`) — Story role key / voice: `misha` -> angelina
-- **Профессор** (label: `Профессор`; appearance: distinct silhouette with silver-streaked hair `#7A7E85` and tailored outfit in `#7A5843`) — Story role key / voice: `professor` -> angelina
-- **Таможенник** (label: `Таможенник`; appearance: distinct silhouette with dark wavy hair `#241C18` and tailored outfit in `#2C3E58`) — Story role key / voice: `customs` -> angelina
-- **Крупье** (label: `Крупье`; appearance: distinct silhouette with honey-blond hair `#D4A459` and tailored outfit in `#6E2B42`) — Story role key / voice: `croupier` -> anja
-- **Панов** (label: `Панов`; appearance: distinct silhouette with dark chestnut hair `#3B261E` and tailored outfit in `#2E7D7A`) — Story role key / voice: `panov` -> angelina
-- **Юрист** (label: `Юрист`; appearance: distinct silhouette with sandy-brown hair `#8C6239` and tailored outfit in `#5A4638`) — Story role key / voice: `lawyer` -> angelina
-- **Кристиан** (label: `Кристиан`; appearance: distinct silhouette with auburn hair `#8B3A2B` and tailored outfit in `#4B5D3A`) — Story role key / voice: `christian` -> anja
-- **Хан** (label: `Хан`; appearance: distinct silhouette with silver-streaked hair `#7A7E85` and tailored outfit in `#8E3B46`) — Story role key / voice: `khan` -> anja
-- **Пётр** (label: `Пётр`; appearance: distinct silhouette with dark wavy hair `#241C18` and tailored outfit in `#3B5368`) — Story role key / voice: `pyotr` -> anja
-- **Степаныч** (label: `Степаныч`; appearance: distinct silhouette with honey-blond hair `#D4A459` and tailored outfit in `#7A5843`) — Story role key / voice: `stepanych` -> anja
-- **Лев Валерьянович** (label: `Лев Валерьянович`; appearance: distinct silhouette with dark chestnut hair `#3B261E` and tailored outfit in `#2C3E58`) — Story role key / voice: `leshchenko` -> anja
-- **Полина** (label: `Полина`; appearance: distinct silhouette with sandy-brown hair `#8C6239` and tailored outfit in `#6E2B42`) — Story role key / voice: `polina` -> anja
-- **Капустина** (label: `Капустина`; appearance: distinct silhouette with auburn hair `#8B3A2B` and tailored outfit in `#2E7D7A`) — Story role key / voice: `kapustina` -> anja
+- **Аркадий** (label: `Аркадий`; appearance: distinct silhouette with dark chestnut hair `#3B261E` and tailored outfit in `#2C3E58`) — Role key: `arkady` (see `cast.json`).
+- **Самсон** (label: `Самсон`; appearance: distinct silhouette with sandy-brown hair `#8C6239` and tailored outfit in `#6E2B42`) — Role key: `samson` (see `cast.json`).
+- **Нина** (label: `Нина`; appearance: distinct silhouette with auburn hair `#8B3A2B` and tailored outfit in `#2E7D7A`) — Role key: `nina` (see `cast.json`).
+- **Марина** (label: `Марина`; appearance: distinct silhouette with silver-streaked hair `#7A7E85` and tailored outfit in `#5A4638`) — Role key: `marina` (see `cast.json`).
+- **Паша** (label: `Паша`; appearance: distinct silhouette with dark wavy hair `#241C18` and tailored outfit in `#4B5D3A`) — Role key: `pasha` (see `cast.json`).
+- **Илона** (label: `Илона`; appearance: distinct silhouette with honey-blond hair `#D4A459` and tailored outfit in `#8E3B46`) — Role key: `ilona` (see `cast.json`).
+- **Лавров** (label: `Лавров`; appearance: distinct silhouette with dark chestnut hair `#3B261E` and tailored outfit in `#3B5368`) — Role key: `lavrov` (see `cast.json`).
+- **Клавдия Викторовна** (label: `Клавдия Викторовна`; appearance: distinct silhouette with sandy-brown hair `#8C6239` and tailored outfit in `#7A5843`) — Role key: `klavdia` (see `cast.json`).
+- **Эдуард Владимирович** (label: `Эдуард Владимирович`; appearance: distinct silhouette with auburn hair `#8B3A2B` and tailored outfit in `#2C3E58`) — Role key: `dean` (see `cast.json`).
+- **Юля** (label: `Юля`; appearance: distinct silhouette with silver-streaked hair `#7A7E85` and tailored outfit in `#6E2B42`) — Role key: `yulia` (see `cast.json`).
+- **Лёша** (label: `Лёша`; appearance: distinct silhouette with dark wavy hair `#241C18` and tailored outfit in `#2E7D7A`) — Role key: `lyosha` (see `cast.json`).
+- **Лёва** (label: `Лёва`; appearance: distinct silhouette with honey-blond hair `#D4A459` and tailored outfit in `#5A4638`) — Role key: `lyova` (see `cast.json`).
+- **Губернатор** (label: `Губернатор`; appearance: distinct silhouette with dark chestnut hair `#3B261E` and tailored outfit in `#4B5D3A`) — Role key: `governor` (see `cast.json`).
+- **Славик** (label: `Славик`; appearance: distinct silhouette with sandy-brown hair `#8C6239` and tailored outfit in `#8E3B46`) — Role key: `slavik` (see `cast.json`).
+- **Дядя Гриша** (label: `Дядя Гриша`; appearance: distinct silhouette with auburn hair `#8B3A2B` and tailored outfit in `#3B5368`) — Role key: `grisha` (see `cast.json`).
+- **Костик** (label: `Костик`; appearance: distinct silhouette with silver-streaked hair `#7A7E85` and tailored outfit in `#7A5843`) — Role key: `kostik` (see `cast.json`).
+- **Вика** (label: `Вика`; appearance: distinct silhouette with dark wavy hair `#241C18` and tailored outfit in `#2C3E58`) — Role key: `vika` (see `cast.json`).
+- **Заварзин** (label: `Заварзин`; appearance: distinct silhouette with honey-blond hair `#D4A459` and tailored outfit in `#6E2B42`) — Role key: `zavarzin` (see `cast.json`).
+- **Головкин** (label: `Головкин`; appearance: distinct silhouette with dark chestnut hair `#3B261E` and tailored outfit in `#2E7D7A`) — Role key: `golovkin` (see `cast.json`).
+- **Даня** (label: `Даня`; appearance: distinct silhouette with sandy-brown hair `#8C6239` and tailored outfit in `#5A4638`) — Role key: `danya` (see `cast.json`).
+- **Михаил Михайлович** (label: `Михаил Михайлович`; appearance: distinct silhouette with auburn hair `#8B3A2B` and tailored outfit in `#4B5D3A`) — Role key: `chief` (see `cast.json`).
+- **Лёля** (label: `Лёля`; appearance: distinct silhouette with silver-streaked hair `#7A7E85` and tailored outfit in `#8E3B46`) — Role key: `lyolya` (see `cast.json`).
+- **Доктор** (label: `Доктор`; appearance: distinct silhouette with dark wavy hair `#241C18` and tailored outfit in `#3B5368`) — Role key: `doctor` (see `cast.json`).
+- **Певец** (label: `Певец`; appearance: distinct silhouette with honey-blond hair `#D4A459` and tailored outfit in `#7A5843`) — Role key: `singer` (see `cast.json`).
+- **Илья Олегович** (label: `Илья Олегович`; appearance: distinct silhouette with dark chestnut hair `#3B261E` and tailored outfit in `#2C3E58`) — Role key: `judge` (see `cast.json`).
+- **Генерал Круглов** (label: `Генерал Круглов`; appearance: distinct silhouette with sandy-brown hair `#8C6239` and tailored outfit in `#6E2B42`) — Role key: `general` (see `cast.json`).
+- **Толя** (label: `Толя`; appearance: distinct silhouette with auburn hair `#8B3A2B` and tailored outfit in `#2E7D7A`) — Role key: `tolya` (see `cast.json`).
+- **Лидия Алексеевна** (label: `Лидия Алексеевна`; appearance: distinct silhouette with silver-streaked hair `#7A7E85` and tailored outfit in `#5A4638`) — Role key: `lydia` (see `cast.json`).
+- **Офицер** (label: `Офицер`; appearance: distinct silhouette with dark wavy hair `#241C18` and tailored outfit in `#4B5D3A`) — Role key: `officer` (see `cast.json`).
+- **Игнатьев** (label: `Игнатьев`; appearance: distinct silhouette with honey-blond hair `#D4A459` and tailored outfit in `#8E3B46`) — Role key: `ignatyev` (see `cast.json`).
+- **Виталик** (label: `Виталик`; appearance: distinct silhouette with dark chestnut hair `#3B261E` and tailored outfit in `#3B5368`) — Role key: `vitalik` (see `cast.json`).
+- **Татьяна** (label: `Татьяна`; appearance: distinct silhouette with sandy-brown hair `#8C6239` and tailored outfit in `#7A5843`) — Role key: `tatyana` (see `cast.json`).
+- **Лев** (label: `Лев`; appearance: distinct silhouette with auburn hair `#8B3A2B` and tailored outfit in `#2C3E58`) — Role key: `lev` (see `cast.json`).
+- **Димон** (label: `Димон`; appearance: distinct silhouette with silver-streaked hair `#7A7E85` and tailored outfit in `#6E2B42`) — Role key: `dimon` (see `cast.json`).
+- **Геннадий Андреевич** (label: `Геннадий Андреевич`; appearance: distinct silhouette with dark wavy hair `#241C18` and tailored outfit in `#2E7D7A`) — Role key: `gennady` (see `cast.json`).
+- **Галина** (label: `Галина`; appearance: distinct silhouette with honey-blond hair `#D4A459` and tailored outfit in `#5A4638`) — Role key: `galina` (see `cast.json`).
+- **Охранник** (label: `Охранник`; appearance: distinct silhouette with dark chestnut hair `#3B261E` and tailored outfit in `#4B5D3A`) — Role key: `guard` (see `cast.json`).
+- **Отец Григорий** (label: `Отец Григорий`; appearance: distinct silhouette with sandy-brown hair `#8C6239` and tailored outfit in `#8E3B46`) — Role key: `grigory` (see `cast.json`).
+- **Рожок** (label: `Рожок`; appearance: distinct silhouette with auburn hair `#8B3A2B` and tailored outfit in `#3B5368`) — Role key: `rozhok` (see `cast.json`).
+- **Журналистка** (label: `Журналистка`; appearance: distinct silhouette with silver-streaked hair `#7A7E85` and tailored outfit in `#7A5843`) — Role key: `reporter` (see `cast.json`).
+- **Аракелян** (label: `Аракелян`; appearance: distinct silhouette with dark wavy hair `#241C18` and tailored outfit in `#2C3E58`) — Role key: `arakelyan` (see `cast.json`).
+- **Капитан** (label: `Капитан`; appearance: distinct silhouette with honey-blond hair `#D4A459` and tailored outfit in `#6E2B42`) — Role key: `captain` (see `cast.json`).
+- **Степан Геннадьевич** (label: `Степан Геннадьевич`; appearance: distinct silhouette with dark chestnut hair `#3B261E` and tailored outfit in `#2E7D7A`) — Role key: `stepan` (see `cast.json`).
+- **Николай Филиппович** (label: `Николай Филиппович`; appearance: distinct silhouette with sandy-brown hair `#8C6239` and tailored outfit in `#5A4638`) — Role key: `boss` (see `cast.json`).
+- **Прораб** (label: `Прораб`; appearance: distinct silhouette with auburn hair `#8B3A2B` and tailored outfit in `#4B5D3A`) — Role key: `foreman` (see `cast.json`).
+- **Ксюша** (label: `Ксюша`; appearance: distinct silhouette with silver-streaked hair `#7A7E85` and tailored outfit in `#8E3B46`) — Role key: `ksyusha` (see `cast.json`).
+- **Мишкин** (label: `Мишкин`; appearance: distinct silhouette with dark wavy hair `#241C18` and tailored outfit in `#3B5368`) — Role key: `mishkin` (see `cast.json`).
+- **Менеджер** (label: `Менеджер`; appearance: distinct silhouette with honey-blond hair `#D4A459` and tailored outfit in `#7A5843`) — Role key: `manager` (see `cast.json`).
+- **Андрюша** (label: `Андрюша`; appearance: distinct silhouette with dark chestnut hair `#3B261E` and tailored outfit in `#2C3E58`) — Role key: `andryusha` (see `cast.json`).
+- **Анна** (label: `Анна`; appearance: distinct silhouette with sandy-brown hair `#8C6239` and tailored outfit in `#6E2B42`) — Role key: `anna` (see `cast.json`).
+- **Денис** (label: `Денис`; appearance: distinct silhouette with auburn hair `#8B3A2B` and tailored outfit in `#2E7D7A`) — Role key: `tech` (see `cast.json`).
+- **Саня** (label: `Саня`; appearance: distinct silhouette with silver-streaked hair `#7A7E85` and tailored outfit in `#5A4638`) — Role key: `sanya` (see `cast.json`).
+- **Ветеран** (label: `Ветеран`; appearance: distinct silhouette with dark wavy hair `#241C18` and tailored outfit in `#4B5D3A`) — Role key: `veteran` (see `cast.json`).
+- **Командир** (label: `Командир`; appearance: distinct silhouette with honey-blond hair `#D4A459` and tailored outfit in `#8E3B46`) — Role key: `commander` (see `cast.json`).
+- **Сотрудник** (label: `Сотрудник`; appearance: distinct silhouette with dark chestnut hair `#3B261E` and tailored outfit in `#3B5368`) — Role key: `agent` (see `cast.json`).
+- **Землинкин** (label: `Землинкин`; appearance: distinct silhouette with sandy-brown hair `#8C6239` and tailored outfit in `#7A5843`) — Role key: `zemlinkin` (see `cast.json`).
+- **Воспитательница** (label: `Воспитательница`; appearance: distinct silhouette with auburn hair `#8B3A2B` and tailored outfit in `#2C3E58`) — Role key: `caregiver` (see `cast.json`).
+- **Помощник** (label: `Помощник`; appearance: distinct silhouette with silver-streaked hair `#7A7E85` and tailored outfit in `#6E2B42`) — Role key: `aide` (see `cast.json`).
+- **Санитар** (label: `Санитар`; appearance: distinct silhouette with dark wavy hair `#241C18` and tailored outfit in `#2E7D7A`) — Role key: `orderly` (see `cast.json`).
+- **Строитель** (label: `Строитель`; appearance: distinct silhouette with honey-blond hair `#D4A459` and tailored outfit in `#5A4638`) — Role key: `builder` (see `cast.json`).
+- **Тарачков** (label: `Тарачков`; appearance: distinct silhouette with dark chestnut hair `#3B261E` and tailored outfit in `#4B5D3A`) — Role key: `tarachkov` (see `cast.json`).
+- **Отец Самсона** (label: `Отец Самсона`; appearance: distinct silhouette with sandy-brown hair `#8C6239` and tailored outfit in `#8E3B46`) — Role key: `father` (see `cast.json`).
+- **Виктор Степанович** (label: `Виктор Степанович`; appearance: distinct silhouette with auburn hair `#8B3A2B` and tailored outfit in `#3B5368`) — Role key: `caller` (see `cast.json`).
+- **Диктор** (label: `Диктор`; appearance: distinct silhouette with silver-streaked hair `#7A7E85` and tailored outfit in `#7A5843`) — Role key: `newsreader` (see `cast.json`).
+- **Партнёр** (label: `Партнёр`; appearance: distinct silhouette with dark wavy hair `#241C18` and tailored outfit in `#2C3E58`) — Role key: `partner` (see `cast.json`).
+- **Студентка** (label: `Студентка`; appearance: distinct silhouette with honey-blond hair `#D4A459` and tailored outfit in `#6E2B42`) — Role key: `student` (see `cast.json`).
+- **Софочка** (label: `Софочка`; appearance: distinct silhouette with dark chestnut hair `#3B261E` and tailored outfit in `#2E7D7A`) — Role key: `sofochka` (see `cast.json`).
+- **Прокурор** (label: `Прокурор`; appearance: distinct silhouette with sandy-brown hair `#8C6239` and tailored outfit in `#5A4638`) — Role key: `prosecutor` (see `cast.json`).
+- **Артурик** (label: `Артурик`; appearance: distinct silhouette with auburn hair `#8B3A2B` and tailored outfit in `#4B5D3A`) — Role key: `arturik` (see `cast.json`).
+- **Инспектор** (label: `Инспектор`; appearance: distinct silhouette with silver-streaked hair `#7A7E85` and tailored outfit in `#8E3B46`) — Role key: `clerk` (see `cast.json`).
+- **Девушка** (label: `Девушка`; appearance: distinct silhouette with dark wavy hair `#241C18` and tailored outfit in `#3B5368`) — Role key: `fan` (see `cast.json`).
+- **Официант** (label: `Официант`; appearance: distinct silhouette with honey-blond hair `#D4A459` and tailored outfit in `#7A5843`) — Role key: `waiter` (see `cast.json`).
+- **Фёдор Григорьевич** (label: `Фёдор Григорьевич`; appearance: distinct silhouette with dark chestnut hair `#3B261E` and tailored outfit in `#2C3E58`) — Role key: `fyodor` (see `cast.json`).
+- **Сизов** (label: `Сизов`; appearance: distinct silhouette with sandy-brown hair `#8C6239` and tailored outfit in `#6E2B42`) — Role key: `sizov` (see `cast.json`).
+- **Ирина Петровна** (label: `Ирина Петровна`; appearance: distinct silhouette with auburn hair `#8B3A2B` and tailored outfit in `#2E7D7A`) — Role key: `irina` (see `cast.json`).
+- **Вася** (label: `Вася`; appearance: distinct silhouette with silver-streaked hair `#7A7E85` and tailored outfit in `#5A4638`) — Role key: `vasya` (see `cast.json`).
+- **Зина** (label: `Зина`; appearance: distinct silhouette with dark wavy hair `#241C18` and tailored outfit in `#4B5D3A`) — Role key: `zina` (see `cast.json`).
+- **Инга Евгеньевна** (label: `Инга Евгеньевна`; appearance: distinct silhouette with honey-blond hair `#D4A459` and tailored outfit in `#8E3B46`) — Role key: `inga` (see `cast.json`).
+- **Библиотекарь** (label: `Библиотекарь`; appearance: distinct silhouette with dark chestnut hair `#3B261E` and tailored outfit in `#3B5368`) — Role key: `librarian` (see `cast.json`).
+- **Хореограф** (label: `Хореограф`; appearance: distinct silhouette with sandy-brown hair `#8C6239` and tailored outfit in `#7A5843`) — Role key: `choreographer` (see `cast.json`).
+- **Бабушка** (label: `Бабушка`; appearance: distinct silhouette with auburn hair `#8B3A2B` and tailored outfit in `#2C3E58`) — Role key: `grandma` (see `cast.json`).
+- **Водитель** (label: `Водитель`; appearance: distinct silhouette with silver-streaked hair `#7A7E85` and tailored outfit in `#6E2B42`) — Role key: `driver` (see `cast.json`).
+- **Беленьков** (label: `Беленьков`; appearance: distinct silhouette with dark wavy hair `#241C18` and tailored outfit in `#2E7D7A`) — Role key: `belenkov` (see `cast.json`).
+- **Сунь-цзы** (label: `Сунь-цзы`; appearance: distinct silhouette with honey-blond hair `#D4A459` and tailored outfit in `#5A4638`) — Role key: `suntzu` (see `cast.json`).
+- **Партизан** (label: `Партизан`; appearance: distinct silhouette with dark chestnut hair `#3B261E` and tailored outfit in `#4B5D3A`) — Role key: `partisan` (see `cast.json`).
+- **Хор** (label: `Хор`; appearance: distinct silhouette with sandy-brown hair `#8C6239` and tailored outfit in `#8E3B46`) — Role key: `chorus` (see `cast.json`).
+- **Солдат** (label: `Солдат`; appearance: distinct silhouette with auburn hair `#8B3A2B` and tailored outfit in `#3B5368`) — Role key: `soldier` (see `cast.json`).
+- **Бармен** (label: `Бармен`; appearance: distinct silhouette with silver-streaked hair `#7A7E85` and tailored outfit in `#7A5843`) — Role key: `barman` (see `cast.json`).
+- **Друг** (label: `Друг`; appearance: distinct silhouette with dark wavy hair `#241C18` and tailored outfit in `#2C3E58`) — Role key: `friend` (see `cast.json`).
+- **Сосед** (label: `Сосед`; appearance: distinct silhouette with honey-blond hair `#D4A459` and tailored outfit in `#6E2B42`) — Role key: `neighbor` (see `cast.json`).
+- **Первый мужчина** (label: `Первый мужчина`; appearance: distinct silhouette with dark chestnut hair `#3B261E` and tailored outfit in `#2E7D7A`) — Role key: `first_man` (see `cast.json`).
+- **Второй мужчина** (label: `Второй мужчина`; appearance: distinct silhouette with sandy-brown hair `#8C6239` and tailored outfit in `#5A4638`) — Role key: `second_man` (see `cast.json`).
+- **Доктор Тенинбаум** (label: `Доктор Тенинбаум`; appearance: distinct silhouette with auburn hair `#8B3A2B` and tailored outfit in `#4B5D3A`) — Role key: `tenenbaum` (see `cast.json`).
+- **Продавщица** (label: `Продавщица`; appearance: distinct silhouette with silver-streaked hair `#7A7E85` and tailored outfit in `#8E3B46`) — Role key: `shop_clerk` (see `cast.json`).
+- **Экскурсовод** (label: `Экскурсовод`; appearance: distinct silhouette with dark wavy hair `#241C18` and tailored outfit in `#3B5368`) — Role key: `guide` (see `cast.json`).
+- **Лёня** (label: `Лёня`; appearance: distinct silhouette with honey-blond hair `#D4A459` and tailored outfit in `#7A5843`) — Role key: `lyonya` (see `cast.json`).
+- **Голос** (label: `Голос`; appearance: distinct silhouette with dark chestnut hair `#3B261E` and tailored outfit in `#2C3E58`) — Role key: `voice` (see `cast.json`).
+- **Пациент** (label: `Пациент`; appearance: distinct silhouette with sandy-brown hair `#8C6239` and tailored outfit in `#6E2B42`) — Role key: `patient` (see `cast.json`).
+- **Дед** (label: `Дед`; appearance: distinct silhouette with auburn hair `#8B3A2B` and tailored outfit in `#2E7D7A`) — Role key: `grandpa` (see `cast.json`).
+- **Митя** (label: `Митя`; appearance: distinct silhouette with silver-streaked hair `#7A7E85` and tailored outfit in `#5A4638`) — Role key: `mitya` (see `cast.json`).
+- **Ведущий** (label: `Ведущий`; appearance: distinct silhouette with dark wavy hair `#241C18` and tailored outfit in `#4B5D3A`) — Role key: `host` (see `cast.json`).
+- **Следователь** (label: `Следователь`; appearance: distinct silhouette with honey-blond hair `#D4A459` and tailored outfit in `#8E3B46`) — Role key: `investigator` (see `cast.json`).
+- **Курьер** (label: `Курьер`; appearance: distinct silhouette with dark chestnut hair `#3B261E` and tailored outfit in `#3B5368`) — Role key: `courier` (see `cast.json`).
+- **Боря** (label: `Боря`; appearance: distinct silhouette with sandy-brown hair `#8C6239` and tailored outfit in `#7A5843`) — Role key: `borya` (see `cast.json`).
+- **Сева** (label: `Сева`; appearance: distinct silhouette with auburn hair `#8B3A2B` and tailored outfit in `#2C3E58`) — Role key: `seva` (see `cast.json`).
+- **Начальник** (label: `Начальник`; appearance: distinct silhouette with silver-streaked hair `#7A7E85` and tailored outfit in `#6E2B42`) — Role key: `warden` (see `cast.json`).
+- **Жучкина** (label: `Жучкина`; appearance: distinct silhouette with dark wavy hair `#241C18` and tailored outfit in `#2E7D7A`) — Role key: `zhuchkina` (see `cast.json`).
+- **Редактор** (label: `Редактор`; appearance: distinct silhouette with honey-blond hair `#D4A459` and tailored outfit in `#5A4638`) — Role key: `editor` (see `cast.json`).
+- **Учительница** (label: `Учительница`; appearance: distinct silhouette with dark chestnut hair `#3B261E` and tailored outfit in `#4B5D3A`) — Role key: `schoolteacher` (see `cast.json`).
+- **Коллега** (label: `Коллега`; appearance: distinct silhouette with sandy-brown hair `#8C6239` and tailored outfit in `#8E3B46`) — Role key: `colleague` (see `cast.json`).
+- **Миша** (label: `Миша`; appearance: distinct silhouette with auburn hair `#8B3A2B` and tailored outfit in `#3B5368`) — Role key: `misha` (see `cast.json`).
+- **Профессор** (label: `Профессор`; appearance: distinct silhouette with silver-streaked hair `#7A7E85` and tailored outfit in `#7A5843`) — Role key: `professor` (see `cast.json`).
+- **Таможенник** (label: `Таможенник`; appearance: distinct silhouette with dark wavy hair `#241C18` and tailored outfit in `#2C3E58`) — Role key: `customs` (see `cast.json`).
+- **Крупье** (label: `Крупье`; appearance: distinct silhouette with honey-blond hair `#D4A459` and tailored outfit in `#6E2B42`) — Role key: `croupier` (see `cast.json`).
+- **Панов** (label: `Панов`; appearance: distinct silhouette with dark chestnut hair `#3B261E` and tailored outfit in `#2E7D7A`) — Role key: `panov` (see `cast.json`).
+- **Юрист** (label: `Юрист`; appearance: distinct silhouette with sandy-brown hair `#8C6239` and tailored outfit in `#5A4638`) — Role key: `lawyer` (see `cast.json`).
+- **Кристиан** (label: `Кристиан`; appearance: distinct silhouette with auburn hair `#8B3A2B` and tailored outfit in `#4B5D3A`) — Role key: `christian` (see `cast.json`).
+- **Хан** (label: `Хан`; appearance: distinct silhouette with silver-streaked hair `#7A7E85` and tailored outfit in `#8E3B46`) — Role key: `khan` (see `cast.json`).
+- **Пётр** (label: `Пётр`; appearance: distinct silhouette with dark wavy hair `#241C18` and tailored outfit in `#3B5368`) — Role key: `pyotr` (see `cast.json`).
+- **Степаныч** (label: `Степаныч`; appearance: distinct silhouette with honey-blond hair `#D4A459` and tailored outfit in `#7A5843`) — Role key: `stepanych` (see `cast.json`).
+- **Лев Валерьянович** (label: `Лев Валерьянович`; appearance: distinct silhouette with dark chestnut hair `#3B261E` and tailored outfit in `#2C3E58`) — Role key: `leshchenko` (see `cast.json`).
+- **Полина** (label: `Полина`; appearance: distinct silhouette with sandy-brown hair `#8C6239` and tailored outfit in `#6E2B42`) — Role key: `polina` (see `cast.json`).
+- **Капустина** (label: `Капустина`; appearance: distinct silhouette with auburn hair `#8B3A2B` and tailored outfit in `#2E7D7A`) — Role key: `kapustina` (see `cast.json`).
 <!-- CANONICAL_EXTRAS_END -->

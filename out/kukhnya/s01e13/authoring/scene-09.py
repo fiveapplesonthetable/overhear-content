@@ -4,30 +4,29 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 13
 SCENE = 9
-TITLE = "Ссора перед отъездом  (An Argument Before Leaving)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Ссора перед отъездом  (An Argument Before Leaving)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "vika": "angelina", "anya": "alisa"}
-LABELS = {"vika": "Вика", "anya": "Макс"}
+LABELS = {'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.13'
 SOURCE_FILE = 'sources/kukhnya/s01/e13.ru.dual.srt'
 INTRO = "Max finally confronts Vika about her leaving for a business trip. He wants to explain his earlier behaviour, but she is hurt that he avoided her all day. We will hear it in Russian first; don't worry about catching every word."
 OPENER = "Now let's go back through the conversation line by line."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "That's it for this scene! Max really ruined Vika's plans. Next time you watch the episode, listen for the Russian expressions for 'why' and 'to say' — you will catch every word right away. See you next time!"
-CLOSING = ("vika", "Пока!")
+CLOSING = ('vika', 'Пока!')
 STORY = [
-    ('anya', 'Почему ты не сказала, что уезжаешь?', "Why didn't you tell me you were leaving?", [(124, 'что')], ''),
+    ('max', 'Почему ты не сказала, что уезжаешь?', "Why didn't you tell me you were leaving?", [(124, 'что')], ''),
     ('vika', 'Давай позже поговорим.', "Let's talk later.", [(117, 'Давай позже поговорим')], ''),
-    ('anya', 'Нет, поговорим сейчас!', "No, we're talking now!", [(117, 'поговорим')], ''),
-    ('anya', 'Разреши мне объяснить, в чём дело.', "Let me explain what's going on.", [(114, 'мне объяснить, в чем дело')], ''),
+    ('max', 'Нет, поговорим сейчас!', "No, we're talking now!", [(117, 'поговорим')], ''),
+    ('max', 'Разреши мне объяснить, в чём дело.', "Let me explain what's going on.", [(114, 'мне объяснить, в чем дело')], ''),
     ('vika', 'Ты весь день от меня бегаешь!', "You've been avoiding me all day!", [(115, 'Ты сегодня весь день от меня бегаешь')], ''),
     ('vika', 'Мне надо подумать.', 'I need to think.', [(116, 'Мне надо подумать')], ''),
     ('vika', 'Поговорим через три дня, когда прилечу.', "We'll talk in three days when I get back.", [(117, 'Через три дня, когда я прилечу')], ''),
-    ('anya', 'Вика, доброе утро!', 'Vika, good morning!', [(118, 'Вик, доброе утро')], ''),
-    ('anya', 'Я тебе кофе принёс.', 'I brought you coffee.', [(119, 'Я тебе кофе принес')], ''),
+    ('max', 'Вика, доброе утро!', 'Vika, good morning!', [(118, 'Вик, доброе утро')], ''),
+    ('max', 'Я тебе кофе принёс.', 'I brought you coffee.', [(119, 'Я тебе кофе принес')], ''),
     ('vika', 'Я тебя ненавижу!', 'I hate you!', [(120, 'Я тебя ненавижу')], ''),
-    ('anya', 'Ты не любишь кофе?', "You don't like coffee?", [(121, 'Ты не любишь кофе')], ''),
+    ('max', 'Ты не любишь кофе?', "You don't like coffee?", [(121, 'Ты не любишь кофе')], ''),
     ('vika', 'Да какой к чёрту кофе!', 'What the hell coffee!', [(121, 'Да какой к черту кофе')], ''),
     ('vika', 'Я из-за тебя не полетела в Милан!', 'I missed the Milan trip because of you!', [(122, 'Я из-за тебя не полетела на выставку в Милан')], ''),
 ]

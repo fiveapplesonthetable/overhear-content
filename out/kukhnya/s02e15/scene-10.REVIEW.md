@@ -10,32 +10,32 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Шеф | Народ, кто денег может занять, а? | Folks, who can lend me some money, huh? | #157 00:09:52: Народ, кто денег может занять, а | verbatim |
-| 2 | Аня | Как отказать в деньгах. | How to refuse when someone asks for money. | #158 00:09:57: как отказать в деньгах | verbatim |
-| 3 | Шеф | Сделать вид, что не расслышал. | Pretend that you did not hear properly. | #160 00:10:04: Сделать вид, что не расслышал | verbatim |
-| 4 | Аня | Че? А? | What? Huh? | #161 00:10:07: Че? А | verbatim |
-| 5 | Шеф | Я тебя не слышу. | I cannot hear you. | #163 00:10:11: Я тебя не слышу | verbatim |
-| 6 | Аня | Сделать вид, что собираешься помочь. | Pretend that you are about to help out. | #164 00:10:13: Сделать вид, что собираешься помочь | verbatim |
-| 7 | Шеф | Ну... Ну. | Well... Let me see. | #165 00:10:17: Ну... Ну | verbatim |
-| 8 | Аня | Ага. Сейчас. | Yeah. Just a second. | #167 00:10:22: Ага. Сейчас | verbatim |
-| 9 | Шеф | Третий этап. | Stage three. | #170 00:10:27: Третий этап | verbatim |
-| 10 | Аня | Нет у меня. | I do not have any. | #173 00:10:39: Нет у меня | verbatim |
-| 11 | Шеф | Что ты спрашивал? | What were you asking for? | #174 00:10:42: Что ты спрашивал | verbatim |
-| 12 | Аня | Я могу занять. | I can lend it to you. | #175 00:10:44: Я могу занять | verbatim |
-| 13 | Шеф | Да пошел ты. | Oh, get lost. | #176 00:10:47: Да пошел ты | verbatim |
+| 1 | Шеф | Народ, кто денег может занять, а? | Folks, who can lend me some money, huh? | #157: Народ, кто денег может занять, а | verbatim |
+| 2 | Макс | Как отказать в деньгах. | How to refuse when someone asks for money. | #158: как отказать в деньгах | verbatim |
+| 3 | Шеф | Сделать вид, что не расслышал. | Pretend that you did not hear properly. | #160: Сделать вид, что не расслышал | verbatim |
+| 4 | Макс | Че? А? | What? Huh? | #161: Че? А | verbatim |
+| 5 | Шеф | Я тебя не слышу. | I cannot hear you. | #163: Я тебя не слышу | verbatim |
+| 6 | Макс | Сделать вид, что собираешься помочь. | Pretend that you are about to help out. | #164: Сделать вид, что собираешься помочь | verbatim |
+| 7 | Шеф | Ну... Ну. | Well... Let me see. | #165: Ну... Ну | verbatim |
+| 8 | Макс | Ага. Сейчас. | Yeah. Just a second. | #167: Ага. Сейчас | verbatim |
+| 9 | Шеф | Третий этап. | Stage three. | #170: Третий этап | verbatim |
+| 10 | Макс | Нет у меня. | I do not have any. | #173: Нет у меня | verbatim |
+| 11 | Шеф | Что ты спрашивал? | What were you asking for? | #174: Что ты спрашивал | verbatim |
+| 12 | Макс | Я могу занять. | I can lend it to you. | #175: Я могу занять | verbatim |
+| 13 | Шеф | Да пошел ты. | Oh, get lost. | #176: Да пошел ты | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Folks, who can lend me some money, huh?' In Russian, the idea of 'the people' flows naturally into 'and' without extra filler words.
-- 'How to refuse when someone asks for money.' Max brings out the contrast between 'how' and 'to refuse' in a few short words.
-- 'Pretend that you did not hear properly.' Here the Russian phrasing highlights 'to make' before landing on 'to catch'. Max answers right away.
-- 'What? Huh?' The meaning hinges on 'what' working together with 'and' in spoken Russian.
-- 'I cannot hear you.' Chef Viktor anchors the line on 'I', while 'hear' completes the thought.
-- 'Pretend that you are about to help out.' In everyday Russian, 'to make' flows straight into 'to help' without extra linking words.
-- 'Well... Let me see.' Here the Russian phrasing highlights 'come on' before landing on 'come on'.
-- 'Yeah. Just a second.' The grammar packs 'yeah' and 'any minute' into a tight, idiomatic kitchen exchange.
-- 'Stage three.' Spoken Russian keeps this brisk, leaning on 'third' and finishing on 'stage'. Max answers right away.
-- 'I do not have any.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.
-- 'What were you asking for?' Chef Viktor brings out the contrast between 'what' and 'you' in a few short words.
-- 'I can lend it to you.' Notice how Russian expresses 'I' and 'to borrow' with crisp inflection rather than helper words. Chef Viktor answers right away.
-- 'Oh, get lost.' Here the Russian phrasing highlights 'yes' before landing on 'you'.
+- 'Folks, who can lend me some money, huh?' Wondering if folks who can lend him some money huh shows Barinov caught off guard.
+- 'How to refuse when someone asks for money.' Explaining that how to refuse when someone asks for money lays the cards on the table for Barinov.
+- 'Pretend that you did not hear properly.' Since Max should pretend that Max did not hear properly, Barinov does not waste words on excuses.
+- 'What? Huh?' With the work and truth hanging in the air, Max puts Barinov on the spot.
+- 'I cannot hear you.' Since he cannot hear Max, Barinov does not waste words on excuses. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Pretend that you are about to help out.' Pretending that Barinov is about to help out moves the conversation forward without extra drama.
+- 'Well... Let me see.' Mentioning that Max should let him see moves the talk in a new direction.
+- 'Yeah. Just a second.' With the moment and money in play, Max keeps this short reply brisk and direct.
+- 'Stage three.' Between the moment and the money, Barinov gives Max a quick, grounded response.
+- 'I do not have any.' Admitting that he does not have any shows Max being honest for a change.
+- 'What were you asking for?' Here asking what Max asking was shows Barinov looking for the real truth. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'I can lend it to you.' Once he can lend it to Barinov, Max can finally tell Barinov what he means.
+- 'Oh, get lost.' Here getting lost sets up the next turn in their exchange.

@@ -4,31 +4,30 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 3
 SCENE = 7
-TITLE = "Строгий судья  (The Strict Judge)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Строгий судья  (The Strict Judge)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "chef": "anja", "judge": "angelina"}
-LABELS = {"chef": "Шеф", "judge": "Судья"}
+LABELS = {'barinov': 'Шеф', 'judge': 'Судья'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.03'
 SOURCE_FILE = 'sources/kukhnya/s01/e03.ru.dual.srt'
 INTRO = "In the dining room of Claude Monet, Viktor Barinov personally brings a traditional dessert to an important guest. Bragging about his culinary stature, the Chef is horrified to discover that the woman is the exact judge who recently suspended his driving license. Let's listen to their confrontation in Russian first."
 OPENER = "Let's review this unexpected courtroom reunion in the dining room line by line."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Realizing he will not be getting his driver's license back anytime soon, Barinov slinks back to the kitchen. See you next time!"
-CLOSING = ("judge", "Пока!")
+CLOSING = ('judge', 'Пока!')
 STORY = [
-    ('chef', 'Вот десерт от нашего кондитера.', 'Here is dessert from our pastry chef.', [(167, 'от нашего кондитера')], ''),
+    ('barinov', 'Вот десерт от нашего кондитера.', 'Here is dessert from our pastry chef.', [(167, 'от нашего кондитера')], ''),
     ('judge', 'Спасибо, что изменили меню для меня.', 'Thank you for changing the menu for me.', [(169, 'Спасибо, что вы внесли изменения')], ''),
-    ('chef', 'Я шеф и выполняю любые заказы.', 'I am the chef and I fulfill any orders.', [(170, 'Я шеф-повар и выполняю любые')], ''),
-    ('chef', 'А вы кем работаете, если не секрет?', 'And what do you do, if it is not a secret?', [(171, 'А вы, кстати, чем занимаетесь')], ''),
+    ('barinov', 'Я шеф и выполняю любые заказы.', 'I am the chef and I fulfill any orders.', [(170, 'Я шеф-повар и выполняю любые')], ''),
+    ('barinov', 'А вы кем работаете, если не секрет?', 'And what do you do, if it is not a secret?', [(171, 'А вы, кстати, чем занимаетесь')], ''),
     ('judge', 'Я работаю судьёй в Тверском суде.', 'I work as a judge at the Tverskoy court.', [(173, 'Я судья'), (181, 'в Тверском суде работаю')], ''),
-    ('chef', 'Ого! А меня вчера лишили прав!', 'Whoa! And they suspended my license yesterday!', [(178, 'Прав лишили')], ''),
+    ('barinov', 'Ого! А меня вчера лишили прав!', 'Whoa! And they suspended my license yesterday!', [(178, 'Прав лишили')], ''),
     ('judge', 'Как ваша фамилия?', 'What is your last name?', [(183, 'Как ваша фамилия')], ''),
-    ('chef', 'Моя фамилия Баринов. Виктор Баринов.', 'My last name is Barinov. Viktor Barinov.', [(184, 'Баринов. Виктор Баринов')], ''),
+    ('barinov', 'Моя фамилия Баринов. Виктор Баринов.', 'My last name is Barinov. Viktor Barinov.', [(184, 'Баринов. Виктор Баринов')], ''),
     ('judge', 'Так это я вынесла такое решение!', 'So it was I who issued that decision!', [(185, 'я выносила решение по вашему делу')], ''),
-    ('chef', 'Может быть, мы можем всё исправить?', 'Maybe we can fix everything?', [(188, 'можно что-то исправить')], ''),
+    ('barinov', 'Может быть, мы можем всё исправить?', 'Maybe we can fix everything?', [(188, 'можно что-то исправить')], ''),
     ('judge', 'Нет. Вы сбили светофор на дороге!', 'No. You knocked down a traffic light on the road!', [(190, 'сбитый светофор')], ''),
-    ('chef', 'Но у меня было уважительное оправдание.', 'But I had a valid excuse.', [(191, 'у меня есть оправдание')], ''),
+    ('barinov', 'Но у меня было уважительное оправдание.', 'But I had a valid excuse.', [(191, 'у меня есть оправдание')], ''),
     ('judge', 'Скажите спасибо, что срок всего год.', 'Say thank you that the suspension is only a year.', [(192, 'спасибо скажите, что вас только на год')], ''),
 ]
 WALK = [

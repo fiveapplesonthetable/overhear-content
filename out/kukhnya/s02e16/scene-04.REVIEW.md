@@ -10,32 +10,32 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Шеф | Да, сынок, привет. | Yes, son, hello. | #56 00:03:54: Да, сынок, привет | verbatim |
-| 2 | Вика | Ты на работе? | Are you at work? | #57 00:03:56: Ты на работе | verbatim |
-| 3 | Шеф | Ну, тихо, прошу. | Please keep quiet for a moment. | #58 00:04:00: Ну, тихо, прошу | verbatim |
-| 4 | Вика | Нормально. Только тут холодильник. | I am fine. Only the fridge here is empty. | #59 00:04:02: Нормально. Только тут холодильник | verbatim |
-| 5 | Шеф | Ты носки надел теплые? | Did you put on your warm socks? | #60 00:04:05: Ты носки надел теплые | verbatim |
-| 6 | Вика | Мне же не пять лет. | I am not five years old, mom. | #62 00:04:10: Мне же не пять лет | verbatim |
-| 7 | Шеф | Леда, ты ведешь себя как ребенок. | Lena, now you are the one acting like a child. | #64 00:04:14: Леда, ты ведешь себя как ребенок | verbatim |
-| 8 | Вика | Как на работу? | What do you mean, heading to work? | #68 00:04:29: Как на работу | verbatim |
-| 9 | Шеф | А завтрак? | What about breakfast? | #69 00:04:31: А завтрак | verbatim |
-| 10 | Вика | Как же аппетитно звучит. | That sounds so appetizing. | #72 00:04:44: Как же аппетитно звучит | verbatim |
-| 11 | Шеф | Это моя любимая пицца. | That is my favorite pizza. | #73 00:04:46: Это моя любимая пицца | verbatim |
-| 12 | Вика | Ну, конечно. | Well, of course. | #74 00:04:49: Ну, конечно | verbatim |
-| 13 | Шеф | Зато у нас будет еще полчаса. | At least we will have another half hour together. | #75 00:04:50: Зато у нас будет еще полчаса | verbatim |
+| 1 | Шеф | Да, сынок, привет. | Yes, son, hello. | #56: Да, сынок, привет | verbatim |
+| 2 | Вика | Ты на работе? | Are you at work? | #57: Ты на работе | verbatim |
+| 3 | Шеф | Ну, тихо, прошу. | Please keep quiet for a moment. | #58: Ну, тихо, прошу | verbatim |
+| 4 | Вика | Нормально. Только тут холодильник. | I am fine. Only the fridge here is empty. | #59: Нормально. Только тут холодильник | verbatim |
+| 5 | Шеф | Ты носки надел теплые? | Did you put on your warm socks? | #60: Ты носки надел теплые | verbatim |
+| 6 | Вика | Мне же не пять лет. | I am not five years old, mom. | #62: Мне же не пять лет | verbatim |
+| 7 | Шеф | Леда, ты ведешь себя как ребенок. | Lena, now you are the one acting like a child. | #64: Леда, ты ведешь себя как ребенок | verbatim |
+| 8 | Вика | Как на работу? | What do you mean, heading to work? | #68: Как на работу | verbatim |
+| 9 | Шеф | А завтрак? | What about breakfast? | #69: А завтрак | verbatim |
+| 10 | Вика | Как же аппетитно звучит. | That sounds so appetizing. | #72: Как же аппетитно звучит | verbatim |
+| 11 | Шеф | Это моя любимая пицца. | That is my favorite pizza. | #73: Это моя любимая пицца | verbatim |
+| 12 | Вика | Ну, конечно. | Well, of course. | #74: Ну, конечно | verbatim |
+| 13 | Шеф | Зато у нас будет еще полчаса. | At least we will have another half hour together. | #75: Зато у нас будет еще полчаса | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Yes, son, hello.' Chef Viktor brings out the contrast between 'yes' and 'son' in a few short words.
-- 'Are you at work?' Vika raises the pitch on 'work' to turn the phrase into a direct spoken question. Chef Viktor answers right away.
-- 'Please keep quiet for a moment.' Notice how Russian expresses 'come on' and 'beg' with crisp inflection rather than helper words.
-- 'I am fine. Only the fridge here is empty.' Vika anchors the line on 'fine', while 'refrigerator' completes the thought.
-- 'Did you put on your warm socks?' Chef Viktor addresses the listener with the informal singular 'you' alongside 'warm'. Vika answers right away.
-- 'I am not five years old, mom.' Here the Russian phrasing highlights 'for me' before landing on 'years'.
-- 'Lena, now you are the one acting like a child.' Chef Viktor anchors the line on 'ice', while 'child' completes the thought.
-- 'What do you mean, heading to work?' Vika raises the pitch on 'work' to turn the phrase into a direct spoken question. Chef Viktor answers right away.
-- 'What about breakfast?' In spoken Russian, the words stay in their normal statement order and Chef Barinov's rising voice at the end turns the line into a question.
-- 'That sounds so appetizing.' The meaning hinges on 'how' working together with 'sounds' in spoken Russian.
-- 'That is my favorite pizza.' Notice how Russian expresses 'this' and 'pizza' with crisp inflection rather than helper words. Vika answers right away.
-- 'Well, of course.' Vika anchors the line on 'come on', while 'of course' completes the thought.
-- 'At least we will have another half hour together.' Here the Russian phrasing highlights 'but on the other hand' before landing on 'half-hour'.
+- 'Yes, son, hello.' Over the phone and the call, Barinov answers Vika without a second thought.
+- 'Are you at work?' Here asking whether Barinov at work shows Vika looking for the real truth. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Please keep quiet for a moment.' Here telling Vika to keep quiet for a moment sets up the next turn in their exchange.
+- 'I am fine. Only the fridge here is empty.' Noting that she is fine keeps Vika's side of the story simple and clear.
+- 'Did you put on your warm socks?' Checking whether Vika puts on Vika's warm socks is how Barinov puts Vika on the spot. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'I am not five years old, mom.' Pointing out that she is not five years old gives Barinov a sobering reality check.
+- 'Lena, now you are the one acting like a child.' Barinov mentions that someone now Vika is the one acting like a child so Vika sees what is at stake.
+- 'What do you mean, heading to work?' Wondering what Barinov means heading to work cuts straight through the tension between Vika and Barinov. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'What about breakfast?' With the moment and truth hanging in the air, Barinov puts Vika on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'That sounds so appetizing.' Vika explains that that sounds so appetizing, keeping her voice calm and direct.
+- 'That is my favorite pizza.' Realizing that that is his favorite pizza changes how Barinov handles the situation. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'Well, of course.' Between the order and the work, Vika gives Barinov a quick, grounded response.
+- 'At least we will have another half hour together.' Even though at least they will have another half hour together, Barinov keeps a steady face in front of Vika.

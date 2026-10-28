@@ -10,32 +10,32 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Костя | Здесь еще? | Are you still here? | #283 00:18:27: Здесь еще | verbatim |
-| 2 | Нагиев | Язык длинный. | You have a big mouth. | #285 00:18:30: Язык длинный | verbatim |
-| 3 | Костя | Ой, и на вас потом. | Watch out or I will spill it on you next. | #287 00:18:36: Ой, и на вас потом | verbatim |
-| 4 | Нагиев | Ты что? | What did you just do? | #288 00:18:38: Ты что | verbatim |
-| 5 | Костя | Что вы делаете? | What are you doing? | #289 00:18:42: Что вы делаете | verbatim |
-| 6 | Нагиев | Сейчас дам боль. | I am about to teach you a painful lesson. | #290 00:18:44: Сейчас дам боль | verbatim |
-| 7 | Костя | Отпустите, вы что делаете? | Let go of him, what are you doing? | #292 00:19:03: Отпустите, вы что делаете | verbatim |
-| 8 | Нагиев | Дим, ты чего? | Dima, what is going on? | #293 00:19:05: Дим, ты чего | verbatim |
-| 9 | Костя | А мой сын? | That is my son! | #294 00:19:08: а мой сын | verbatim |
-| 10 | Нагиев | Ты следи за выражениями. | Watch your language, kid. | #295 00:19:11: ты следи за выражениями | verbatim |
-| 11 | Костя | Мне чуть костюм не испортил? | He nearly ruined my suit! | #296 00:19:14: мне чуть костюм не испортил | verbatim |
-| 12 | Нагиев | Он теперь год здесь обедать должен. | Now he has to dine here for a year. | #297 00:19:18: Он теперь год здесь<br>#297 00:19:18: должен | adapted: adapted |
-| 13 | Костя | Извините, пожалуйста. | Please excuse us. | #298 00:19:21: Извините, пожалуйста | verbatim |
+| 1 | Костя | Здесь еще? | Are you still here? | #283: Здесь еще | verbatim |
+| 2 | Нагиев | Язык длинный. | You have a big mouth. | #285: Язык длинный | verbatim |
+| 3 | Костя | Ой, и на вас потом. | Watch out or I will spill it on you next. | #287: Ой, и на вас потом | verbatim |
+| 4 | Нагиев | Ты что? | What did you just do? | #288: Ты что | verbatim |
+| 5 | Костя | Что вы делаете? | What are you doing? | #289: Что вы делаете | verbatim |
+| 6 | Нагиев | Сейчас дам боль. | I am about to teach you a painful lesson. | #290: Сейчас дам боль | verbatim |
+| 7 | Костя | Отпустите, вы что делаете? | Let go of him, what are you doing? | #292: Отпустите, вы что делаете | verbatim |
+| 8 | Нагиев | Дим, ты чего? | Dima, what is going on? | #293: Дим, ты чего | verbatim |
+| 9 | Костя | А мой сын? | That is my son! | #294: а мой сын | verbatim |
+| 10 | Нагиев | Ты следи за выражениями. | Watch your language, kid. | #295: ты следи за выражениями | verbatim |
+| 11 | Костя | Мне чуть костюм не испортил? | He nearly ruined my suit! | #296: мне чуть костюм не испортил | verbatim |
+| 12 | Нагиев | Он теперь год здесь обедать должен. | Now he has to dine here for a year. | #297: Он теперь год здесь<br>#297: должен | adapted: adapted |
+| 13 | Костя | Извините, пожалуйста. | Please excuse us. | #298: Извините, пожалуйста | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Are you still here?' Notice how Russian expresses 'here' and 'else' with crisp inflection rather than helper words. Dmitry answers right away.
-- 'You have a big mouth.' Dmitry brings out the contrast between 'language' and 'long' in a few short words.
-- 'Watch out or I will spill it on you next.' Here the Russian phrasing highlights 'oh no' before landing on 'later'.
-- 'What did you just do?' Notice how Russian expresses 'you' and 'what' with crisp inflection rather than helper words. Kostya answers right away.
-- 'What are you doing?' Kostya raises the pitch on 'are doing' to turn the phrase into a direct spoken question.
-- 'I am about to teach you a painful lesson.' In Russian, the idea of 'any minute' flows naturally into 'pain' without extra filler words.
-- 'Let go of him, what are you doing?' The meaning hinges on 'let go' working together with 'are doing' in spoken Russian. Dmitry answers right away.
-- 'Dima, what is going on?' In Russian, the idea of 'Dima' flows naturally into 'why' without extra filler words.
-- 'That is my son!' Kostya brings out the contrast between 'and' and 'my' in a few short words.
-- 'Watch your language, kid.' Notice how Russian expresses 'you' and 'expression' with crisp inflection rather than helper words. Kostya answers right away.
-- 'He nearly ruined my suit!' In Russian, the idea of 'for me' flows naturally into 'ruined' without extra filler words.
-- 'Now he has to dine here for a year.' Nagiyev pairs 'now' with 'has to, must' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
-- 'Please excuse us.' Kostya anchors the line on 'excuse me', while 'there you go' completes the thought.
+- 'Are you still here?' Checking whether Nagiyev still here cuts straight through the tension between Kostya and Nagiyev. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'You have a big mouth.' Since Kostya has a big mouth, Nagiyev does not waste words on excuses.
+- 'Watch out or I will spill it on you next.' Telling Nagiyev to watch out or he will spill it on Nagiyev next is how Kostya lays out the situation for Nagiyev.
+- 'What did you just do?' By wondering what Kostya just do, Nagiyev presses Kostya for a straight answer. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'What are you doing?' Here asking what Nagiyev doing is shows Kostya looking for the real truth. Notice how he sticks to the formal "you", keeping a professional line between them.
+- 'I am about to teach you a painful lesson.' Nagiyev explains that he is about to teach Kostya a painful lesson, keeping his voice calm and direct.
+- 'Let go of him, what are you doing?' Questioning whether let go of him what are Nagiyev doing is how Kostya tests Nagiyev's story. Notice how he sticks to the formal "you", keeping a professional line between them.
+- 'Dima, what is going on?' By asking what going is, Nagiyev presses Kostya for a straight answer. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'That is my son!' Kostya asks whether that is his son, refusing to let the point slide.
+- 'Watch your language, kid.' Telling Kostya to watch Kostya's language kid moves the conversation forward without extra drama. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'He nearly ruined my suit!' Turning from the suit to the conversation, Kostya asks Nagiyev directly. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Now he has to dine here for a year.' Having to dine here for a year is how Nagiyev lays out the situation for Kostya.
+- 'Please excuse us.' Adding that Nagiyev should excuse them fills in the missing piece for Nagiyev.

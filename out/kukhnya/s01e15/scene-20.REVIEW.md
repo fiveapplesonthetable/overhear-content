@@ -1,39 +1,39 @@
-# Ожидание Макса  (Waiting for Max) — `kukhnya-s01e15-scene-20`
+# kukhnya-s01e15-scene-20: review sheet
 
-**Source:** Кухня (Kukhnya) S1.15 · `sources/kukhnya/s01/e15.ru.dual.srt`  
-**Target level:** A1 — Duolingo Section 2
+Title: Ожидание Макса  (Waiting for Max)
+Level: A1 — Duolingo Section 2
+Pair: ru-en
+Source: Кухня (Kukhnya) S1.15
 
-## Cast
 
-| Role | Voice | Label |
-|---|---|---|
-| `narrator` | sky | — |
-| `senya` | angelina | Сеня |
-| `ilya` | anja | Илья |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 1 — Intro
-
-> Back at the restaurant, the staff is waiting to see if Max will finally return to work after everything that happened. They discuss his possible arrival. Let us listen to their conversation in Russian first.
-
-## Part 2 — Story
-
-| # | Speaker | Line | English | Source cue(s) | Change |
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 0 | Илья | Тебя это тоже волнует? | Does this worry you too? | #372 "Тебя это тоже воспринимает?" |  |
-| 1 | Сеня | Что именно? | What exactly? | *(added)* |  |
-| 2 | Илья | Например, Макс придёт или нет? | For example, will Max come or not? | #373 "Например, зайдет Макс или нет?" |  |
-| 3 | Сеня | Я думаю, он придёт. | I think he will come. | *(added)* |  |
-| 4 | Илья | Он любит нашу кухню. | He loves our kitchen. | *(added)* |  |
-| 5 | Сеня | И он любит работать. | And he loves to work. | *(added)* |  |
-| 6 | Илья | А как же шеф? | And what about the chef? | *(added)* |  |
-| 7 | Сеня | Шеф его простит. | The chef will forgive him. | *(added)* |  |
-| 8 | Илья | Они помирятся. | They will make peace. | *(added)* |  |
-| 9 | Сеня | Конечно помирятся. | Of course they will make peace. | *(added)* |  |
-| 10 | Илья | Тогда всё будет хорошо. | Then everything will be fine. | *(added)* |  |
-| 11 | Сеня | Да, просто ждём. | Yes, we are just waiting. | *(added)* |  |
+| 1 | Илья | Тебя это тоже волнует? | Does this worry you too? | #372: Тебя это тоже воспринимает? | verbatim |
+| 2 | Сеня | Что именно? | What exactly? | new | new |
+| 3 | Илья | Например, Макс придёт или нет? | For example, will Max come or not? | #373: Например, зайдет Макс или нет? | verbatim |
+| 4 | Сеня | Я думаю, он придёт. | I think he will come. | new | new |
+| 5 | Илья | Он любит нашу кухню. | He loves our kitchen. | new | new |
+| 6 | Сеня | И он любит работать. | And he loves to work. | new | new |
+| 7 | Илья | А как же шеф? | And what about the chef? | new | new |
+| 8 | Сеня | Шеф его простит. | The chef will forgive him. | new | new |
+| 9 | Илья | Они помирятся. | They will make peace. | new | new |
+| 10 | Сеня | Конечно помирятся. | Of course they will make peace. | new | new |
+| 11 | Илья | Тогда всё будет хорошо. | Then everything will be fine. | new | new |
+| 12 | Сеня | Да, просто ждём. | Yes, we are just waiting. | new | new |
 
-## Part 5 — Outro & closing
+## Walk-through narration (English only, no target-language words quoted)
 
-> Back at the restaurant, the staff is waiting to see if Max will finally return to work after everything that happened. They discuss his possible arrival. Next time you watch the episode, listen for the Russian expressions for 'too' and 'to worry' — you will catch every word right away. See you next time!
-
-**Сеня:** Пока!
+- 'Does this worry you too?' Ilya turns a statement into a question purely through rising intonation on the word meaning 'too', followed by 'to worry'.
+- 'What exactly?' Russian omits the present-tense verb 'to be' here, linking 'what' directly with 'exactly', combining 'what' with 'exactly'.
+- 'For example, will Max come or not?' Ilya turns a statement into a question purely through rising intonation on the word meaning 'for example', followed by 'will come'.
+- 'I think he will come.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'He loves our kitchen.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'And he loves to work.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'And what about the chef?' Ilya delivers a punchy one-word reaction built around the Russian word meaning 'how'.
+- 'The chef will forgive him.' — Notice the proper name meaning 'chef, boss' paired with the word for 'him'.
+- 'They will make peace.' Ilya delivers a punchy one-word reaction built around the Russian word meaning 'to make up'.
+- 'Of course they will make peace.' Here Senya anchors the line on the word meaning 'of course' and builds the thought around 'to make up'.
+- 'Then everything will be fine.' The phrasing opens with 'back then' before bringing in 'will be' and 'good' to make the point clear.
+- 'Yes, we are just waiting.' Senya expresses this naturally by combining the word for 'just' with 'we wait'.

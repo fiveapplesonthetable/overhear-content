@@ -1,22 +1,24 @@
+# Authoring module for kukhnya-s06e10-scene-03.
 ID = 'kukhnya-s06e10-scene-03'
 SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 10
 SCENE = 3
 TITLE = "Утро Лёвы и совет врача  (Lyova's Morning and Doctor's Advice)"
-LEVEL = "A1 — Duolingo Section 2"
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "doctor": "anja", "eleonora": "angelina"}
-LABELS = {"doctor": "Врач", "eleonora": "Элеонора"}
+LABELS = {'doctor': 'Врач', 'eleonora': 'Элеонора', 'lyova': 'Лёва'}
 SOURCE_NAME = 'Кухня (Kukhnya) S6.10'
 SOURCE_FILE = 'sources/kukhnya/s06/e10.ru.srt'
-
 INTRO = "After walking out of his mother's apartment, Lyova wakes up at Ainura and Gulya's place surrounded by noisy relatives who pull the sheets right off his bed. Back at the hotel, Eleonora's psychiatrist gently suggests she visit a peaceful countryside sanatorium."
-
+OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
+TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
+OUTRO = 'The sanatorium sounds idyllic until Eleonora realizes what kind of hospital the doctor actually means. Until next time!'
+CLOSING = ('doctor', 'Пока!')
 STORY = [
-    ('eleonora', 'Доброе утро, спасибо вам за вкусный завтрак.', 'Good morning, thank you for the tasty breakfast.', [(34, 'доброе утро'), (35, 'мы тебе завтрак приготовили'), (36, 'Спасибо')], 'adapted'),
+    ('lyova', 'Доброе утро, спасибо вам за вкусный завтрак.', 'Good morning, thank you for the tasty breakfast.', [(34, 'доброе утро'), (35, 'мы тебе завтрак приготовили'), (36, 'Спасибо')], 'adapted'),
     ('eleonora', 'Как замечательно ты придумал жить всем вместе.', 'How wonderfully you thought of living all together.', [(36, 'Как замечательно ты придумал'), (37, 'Жить всем вместе')], 'adapted'),
-    ('eleonora', 'Почему вы меня будите так рано утром?', 'Why are you waking me up so early in the morning?', [(38, 'Лёва'), (39, 'Вставай')], 'adapted'),
+    ('lyova', 'Почему вы меня будите так рано утром?', 'Why are you waking me up so early in the morning?', [(38, 'Лёва'), (39, 'Вставай')], 'adapted'),
     ('eleonora', 'Лёва, вставай, мне твою кровать перестирать надо.', 'Lyova, get up, I need to rewash your bed.', [(39, 'Вставай'), (42, 'твою кровать перестирать надо')], 'adapted'),
     ('doctor', 'Элеонора Андреевна, вам нужно сменить обстановку.', 'Eleonora Andreevna, you need a change of scenery.', [(43, 'Элеонора Андреевна, я бы рекомендовал вам сменить обстановку')], 'adapted'),
     ('doctor', 'Есть одна хорошая больница, точнее тихий санаторий.', 'There is one good hospital, or rather a quiet sanatorium.', [(44, 'Есть одна больница, точнее, санаторий')], 'adapted'),
@@ -27,24 +29,17 @@ STORY = [
     ('eleonora', 'Вы думаете, мне это действительно сейчас поможет?', 'Do you think this will really help me right now?', [(43, 'Элеонора Андреевна')], 'adapted'),
     ('doctor', 'Безусловно, вам нужен полный покой и отдых.', 'Without a doubt, you need complete peace and rest.', [(46, 'крепкий сон')], 'adapted'),
 ]
-
-OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
-
 WALK = [
-    (0, None, "'Good morning, thank you for the tasty breakfast.' Spoken Russian keeps this brisk, leaning on 'good' and finishing on 'breakfast'. Eleonora answers right away."),
-    (1, None, "'How wonderfully you thought of living all together.' Eleonora brings out the contrast between 'how' and 'wonderful' in a few short words."),
-    (2, None, "'Why are you waking me up so early in the morning?' Lyova raises the pitch on 'in the morning' to turn the phrase into a direct spoken question."),
-    (3, None, "'Lyova, get up, I need to rewash your bed.' Notice how Russian expresses 'Lyova' and 'need' with crisp inflection rather than helper words. the doctor answers right away."),
-    (4, None, "'Eleonora Andreevna, you need a change of scenery.' Here the Russian phrasing highlights 'Eleonora' before landing on 'surroundings'."),
-    (5, None, "'There is one good hospital, or rather a quiet sanatorium.' the doctor brings out the contrast between 'there is' and 'one' in a few short words."),
-    (6, None, "'It is located in the forest right outside the city.' Notice how Russian puts 'is located' and 'town, city' together in a short, direct phrase where word endings show how the ideas connect."),
-    (7, None, "'There is fresh air, sound sleep, and horses there.' The grammar packs 'there' and 'horses' into a tight, idiomatic kitchen exchange."),
-    (8, None, "'Tell me, do they have a large swimming pool there?' Eleonora raises the pitch on 'there is' to turn the phrase into a direct spoken question."),
-    (9, None, "'Of course, there is a simply wonderful warm pool there.' In Russian, the idea of 'of course' flows naturally into 'swimming pool' without extra filler words. Eleonora answers right away."),
-    (10, None, "'Do you think this will really help me right now?' Eleonora raises the pitch on 'will help' to turn the phrase into a direct spoken question."),
-    (11, None, "'Without a doubt, you need complete peace and rest.' The grammar packs 'without a doubt' and 'rest' into a tight, idiomatic kitchen exchange."),
+    (0, None, '\'Good morning, thank you for the tasty breakfast.\' Over the doctor and the shift, Lyova answers the doctor without a second thought. Notice how he sticks to the formal "you", keeping a professional line between them.'),
+    (1, None, "'How wonderfully you thought of living all together.' Noting that how wonderfully the doctor thought of living all together keeps Eleonora's side of the story simple and clear."),
+    (2, None, '\'Why are you waking me up so early in the morning?\' Here wondering why the doctor waking him up so early in the morning is shows Lyova looking for the real truth. Notice how he sticks to the formal "you", keeping a professional line between them.'),
+    (3, None, "'Lyova, get up, I need to rewash your bed.' Pointing out that the doctor should get up she needs to rewash the doctor's bed gives the doctor a sobering reality check. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front."),
+    (4, None, "'Eleonora Andreevna, you need a change of scenery.' Saying that Eleonora needs a change of scenery is how the doctor sets the tone with Eleonora."),
+    (5, None, "'There is one good hospital, or rather a quiet sanatorium.' Once there is one good hospital or rather a quiet sanatorium, the doctor can finally tell Eleonora what he means."),
+    (6, None, "'It is located in the forest right outside the city.' Adding that it is located in the forest right outside the city fills in the missing piece for Eleonora."),
+    (7, None, "'There is fresh air, sound sleep, and horses there.' The doctor tells Eleonora that there is fresh air sound sleep and horses there without dressing it up."),
+    (8, None, '\'Tell me, do they have a large swimming pool there?\' Asking whether tell her do they have a large swimming pool there puts the doctor right on the defensive. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.'),
+    (9, None, "'Of course, there is a simply wonderful warm pool there.' Mentioning that there is a simply wonderful warm pool there moves the talk in a new direction."),
+    (10, None, "'Do you think this will really help me right now?' Here checking whether the doctor thinks this will really help her right now shows Eleonora looking for the real truth."),
+    (11, None, '\'Without a doubt, you need complete peace and rest.\' Because without a doubt Eleonora needs complete peace and rest, the doctor treats the matter as settled. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.'),
 ]
-
-TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'The sanatorium sounds idyllic until Eleonora realizes what kind of hospital the doctor actually means. Until next time!'
-CLOSING = ("doctor", "Пока!")

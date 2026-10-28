@@ -8,14 +8,10 @@
  "scene": 16,
  "title": "Виктор берёт вину на себя  (Victor Takes the Blame)",
  "level": "A1 — Duolingo Section 2",
- "voices": {
-  "narrator": "sky",
-  "chef": "anja",
-  "eleonora": "angelina"
- },
  "labels": {
-  "chef": "Шеф",
-  "eleonora": "Элеонора"
+  "barinov": "Шеф",
+  "eleonora": "Элеонора",
+  "katya": "Катя"
  },
  "segments": [
   {
@@ -24,27 +20,27 @@
    "gap": 0.8
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Вылезай скорее из машины, террорист.",
    "gap": 0.55
   },
   {
-   "v": "eleonora",
+   "v": "katya",
    "t": "Папа, что случилось, он ранен?",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Да, литром виски прямо в голову.",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Тебе лучше сейчас тихо отползать.",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Сиди там совсем тихо.",
    "gap": 0.55
   },
@@ -54,12 +50,12 @@
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Эля, в этом только я виноват.",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Я совершенно случайно въехал в неё.",
    "gap": 0.55
   },
@@ -74,12 +70,12 @@
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Ладно, вы тут сами разбирайтесь.",
    "gap": 0.55
   },
   {
-   "v": "eleonora",
+   "v": "katya",
    "t": "Спасибо, папа, мы тогда пойдём.",
    "gap": 0.9
   },
@@ -89,53 +85,53 @@
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Вылезай скорее из машины, террорист.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Climb out of the car quickly, terrorist.' In Russian, the idea of 'climb out' flows naturally into 'terrorist' without extra filler words.",
+   "t": "'Climb out of the car quickly, terrorist.' Around the room and car, Barinov sets a calm, everyday tone with Eleonora.",
    "gap": 0.4
   },
   {
-   "v": "eleonora",
+   "v": "katya",
    "t": "Папа, что случилось, он ранен?",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Dad, what happened, is he wounded?' Spoken Russian keeps this brisk, leaning on 'dad' and finishing on 'are wounded'.",
+   "t": "'Dad, what happened, is he wounded?' Wondering if dad what happened is he wounded shows Katya caught off guard. In Russian, she does not need helper words like \"do\" or \"did\"—rising pitch alone turns it into a question.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Да, литром виски прямо в голову.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Yes, by a liter of whiskey straight to the head.' Notice how Russian expresses 'yes' and 'head' with crisp inflection rather than helper words.",
+   "t": "'Yes, by a liter of whiskey straight to the head.' Between the room and the car, Barinov gives Eleonora a quick, grounded response.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Тебе лучше сейчас тихо отползать.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'You had better crawl away quietly right now.' Here the Russian phrasing highlights 'to you' before landing on 'to crawl away'.",
+   "t": "'You had better crawl away quietly right now.' Saying that Eleonora had better crawl away quietly right now is how Barinov sets the tone with Eleonora.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Сиди там совсем тихо.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Sit there completely quietly.' Chef Barinov brings out the contrast between 'sit' and 'there' in a few short words.",
+   "t": "'Sit there completely quietly.' Noting that Eleonora should sit there completely quietly keeps Barinov's side of the story simple and clear.",
    "gap": 0.4
   },
   {
@@ -145,27 +141,27 @@
   },
   {
    "v": "narrator",
-   "t": "'What is going on with you here?' Eleonora chooses the respectful plural 'you' alongside 'is happening' to keep a polite distance. Chef Barinov answers right away.",
+   "t": "'What is going on with you here?' Asking what going on with Barinov here is is how Eleonora puts Barinov on the spot. In Russian you say \"by me\" or \"with us\" rather than \"I have\", so the situation sits right with the person.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Эля, в этом только я виноват.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Elya, only I am to blame for this.' The grammar packs 'Elya' and 'at fault' into a tight, idiomatic kitchen exchange.",
+   "t": "'Elya, only I am to blame for this.' Barinov tells Eleonora that someone only he is to blame for this without dressing it up.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Я совершенно случайно въехал в неё.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'I drove into it completely by accident.' In Russian, the idea of 'I' flows naturally into 'she' without extra filler words.",
+   "t": "'I drove into it completely by accident.' Since he drove into it completely by accident, Barinov does not waste words on excuses.",
    "gap": 0.4
   },
   {
@@ -175,7 +171,7 @@
   },
   {
    "v": "narrator",
-   "t": "'So you drove into my car?' Eleonora anchors the line on 'that', while 'car' completes the thought.",
+   "t": "'So you drove into my car?' When Eleonora asks if Barinov drove into her car, Barinov has to answer fast. Using the informal \"you\" shows how direct and unfiltered their kitchen relationship is.",
    "gap": 0.4
   },
   {
@@ -185,51 +181,51 @@
   },
   {
    "v": "narrator",
-   "t": "'Thank goodness, I mean what the heck?' Eleonora anchors the line on 'glory', while 'devil' completes the thought.",
+   "t": "'Thank goodness, I mean what the heck?' Eleonora asks whether thank goodness she means what the heck, refusing to let the point slide.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Ладно, вы тут сами разбирайтесь.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Alright, you two sort it out here yourselves.' In Russian, the idea of 'all right' flows naturally into 'to understand well' without extra filler words.",
+   "t": "'Alright, you two sort it out here yourselves.' Over the car and the kitchen, Barinov answers Eleonora without a second thought. Even in the middle of the drama, he keeps the polite plural \"you\" that workplace Russian expects.",
    "gap": 0.4
   },
   {
-   "v": "eleonora",
+   "v": "katya",
    "t": "Спасибо, папа, мы тогда пойдём.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Thanks, Dad, we will get going then.' Here the Russian phrasing highlights 'thank you' before landing on 'let's go'. Alright, let's hear the entire conversation one more time from start to finish.",
+   "t": "'Thanks, Dad, we will get going then.' Explaining that dad they will get going then lays the cards on the table for Barinov. Alright, let's hear the entire conversation one more time from start to finish.",
    "gap": 0.9
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Вылезай скорее из машины, террорист.",
    "gap": 0.5
   },
   {
-   "v": "eleonora",
+   "v": "katya",
    "t": "Папа, что случилось, он ранен?",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Да, литром виски прямо в голову.",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Тебе лучше сейчас тихо отползать.",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Сиди там совсем тихо.",
    "gap": 0.5
   },
@@ -239,12 +235,12 @@
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Эля, в этом только я виноват.",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Я совершенно случайно въехал в неё.",
    "gap": 0.5
   },
@@ -259,12 +255,12 @@
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Ладно, вы тут сами разбирайтесь.",
    "gap": 0.5
   },
   {
-   "v": "eleonora",
+   "v": "katya",
    "t": "Спасибо, папа, мы тогда пойдём.",
    "gap": 0.9
   },
@@ -274,7 +270,7 @@
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "До завтра!",
    "gap": 0.3
   }

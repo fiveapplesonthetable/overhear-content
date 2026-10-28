@@ -1,18 +1,20 @@
+# Authoring module for kukhnya-s02e07-scene-02.
 ID = 'kukhnya-s02e07-scene-02'
 SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 7
 SCENE = 2
 TITLE = "Овощи аль денте и куртка Кости  (Al Dente Vegetables and Kostya's Jacket)"
-LEVEL = "A1 — Duolingo Section 2"
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "kostya": "anja", "nastya": "angelina"}
-LABELS = {"kostya": "Костя", "nastya": "Настя"}
+LABELS = {'kostya': 'Костя', 'nastya': 'Настя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S2.07'
 SOURCE_FILE = 'sources/kukhnya/s02/e07.ru.srt'
-
 INTRO = "Behind the restaurant by the dumpsters, homeless gourmet Rodion Sergeyevich tastes the kitchen's discarded food and remarks that the vegetables are overcooked instead of true al dente. When Chef Barinov scolds Max using Rodion's exact words, Nastya asks Kostya to lend her his warm jacket to step outside."
-
+OPENER = "Now let's break down each line of their conversation."
+TRANSITION = "Now let's put it all back together and hear the whole scene again."
+OUTRO = "That wraps up this scene as in the courtyard, homeless gourmet Rodion Sergeyevich critiques Max's overcooked vegetables, and Nastya asks to borrow Kostya's warm jacket. See you next time!"
+CLOSING = ('nastya', 'До свидания!')
 STORY = [
     ('kostya', 'Дошли за счет своей внутренней температуры.', 'They finished cooking from their own internal heat.', [(21, 'дошли за счет своей внутренней температуры')], ''),
     ('nastya', 'А рагу какой-то.', 'And some kind of stew.', [(22, 'а рагу какой-то')], ''),
@@ -28,25 +30,18 @@ STORY = [
     ('nastya', 'Мне на улицу надо выйти.', 'I need to step outside for a minute.', [(33, 'Мне на улицу надо выйти')], ''),
     ('kostya', 'А что мне за это будет?', 'And what do I get in return for that?', [(34, 'А что мне за это будет')], ''),
 ]
-
-OPENER = "Now let's break down each line of their conversation."
-
 WALK = [
-    (0, None, "'They finished cooking from their own internal heat.' Spoken Russian keeps this brisk, leaning on 'reached' and finishing on 'temperature'. Nastya answers right away."),
-    (1, None, "'And some kind of stew.' Nastya brings out the contrast between 'and' and 'stew' in a few short words."),
-    (2, None, "'That is the cook's doing.' The meaning hinges on 'this' working together with 'cooks' in spoken Russian."),
-    (3, None, "'Nastya gave it to me.' The '-l' ending on the verb meaning 'donated' places the action in the masculine past tense. Kostya answers right away."),
-    (4, None, "'Why are the two of you hanging around out here?' Notice how Russian expresses 'and' and 'to hang around' with crisp inflection rather than helper words."),
-    (5, None, "'Go learn how to cook properly.' Nastya brings out the contrast between 'go' and 'learn' in a few short words."),
-    (6, None, "'A very competent person told me.' Notice how Russian expresses 'one' and 'to say' with crisp inflection rather than helper words. Nastya answers right away."),
-    (7, None, "'That your vegetables are supposed to be al dente.' In Russian, the idea of 'what' flows naturally into 'dente' without extra filler words."),
-    (8, None, "'Just like...' Spoken Russian keeps this brisk, leaning on 'how' and finishing on 'by'."),
-    (9, None, "'I am heading back in.' Spoken Russian keeps this brisk, leaning on 'I' and finishing on 'go'. Kostya answers right away."),
-    (10, None, "'Kostik, lend me your jacket, please.' The meaning hinges on 'Kostik' working together with 'there you go' in spoken Russian."),
-    (11, None, "'I need to step outside for a minute.' Notice how Russian expresses 'for me' and 'to marry' with crisp inflection rather than helper words."),
-    (12, None, "'And what do I get in return for that?' Kostya raises the pitch on 'will' to turn the phrase into a direct spoken question."),
+    (0, None, "'They finished cooking from their own internal heat.' Around the moment and restaurant, Kostya sets a calm, everyday tone with Nastya."),
+    (1, None, "'And some kind of stew.' Over the moment and the conversation, Nastya answers Kostya without a second thought."),
+    (2, None, "'That is the cook's doing.' Because that is the cook doing, Kostya treats the matter as settled."),
+    (3, None, "'Nastya gave it to me.' Explaining that Nastya gave it lays the cards on the table for Kostya."),
+    (4, None, '\'Why are the two of you hanging around out here?\' By asking why the two of Nastya hanging around out here are, Kostya presses Nastya for a straight answer. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.'),
+    (5, None, "'Go learn how to cook properly.' Mentioning that Kostya should go learn how to cook properly moves the talk in a new direction."),
+    (6, None, "'A very competent person told me.' Pointing out that a very competent person told him gives Nastya a sobering reality check."),
+    (7, None, '\'That your vegetables are supposed to be al dente.\' Nastya explains that that Kostya\'s vegetables are supposed to be al dente, keeping her voice calm and direct. Speaking with the close, informal "you" strips away any polite distance between them.'),
+    (8, None, "'Just like...' With the conversation and moment in play, Kostya keeps this short reply brisk and direct."),
+    (9, None, "'I am heading back in.' Saying that she is heading back is how Nastya sets the tone with Kostya."),
+    (10, None, "'Kostik, lend me your jacket, please.' Around the conversation and point, Kostya sets a calm, everyday tone with Nastya."),
+    (11, None, "'I need to step outside for a minute.' Noting that she needs to step outside for a minute keeps Nastya's side of the story simple and clear."),
+    (12, None, '\'And what do I get in return for that?\' Asking what he gets in return cuts straight through the tension between Kostya and Nastya. Russian drops "is" in the present, setting the two halves of the thought side by side.'),
 ]
-
-TRANSITION = "Now let's put it all back together and hear the whole scene again."
-OUTRO = "That wraps up this scene as in the courtyard, homeless gourmet Rodion Sergeyevich critiques Max's overcooked vegetables, and Nastya asks to borrow Kostya's warm jacket. See you next time!"
-CLOSING = ("nastya", "До свидания!")

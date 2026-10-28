@@ -4,31 +4,30 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 20
 SCENE = 22
-TITLE = "Иллюзии  (Illusions)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Иллюзии  (Illusions)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "anya": "alisa"}
-LABELS = {"anya": "Макс"}
+LABELS = {'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.20'
 SOURCE_FILE = 'sources/kukhnya/s01/e20.ru.dual.srt'
 INTRO = "The reflection continues as the episode nears its finale. Max talks about the perfect illusions we create for ourselves. Let's listen closely to their exchange in Russian first, and then walk through each line together."
 OPENER = "Now let's go back through the exchange around Illusions line by line and unpack how the Russian works."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Max talks about the illusions we create for ourselves. Next time you watch the episode, listen for the Russian expressions for 'very' and 'often' — you will catch every word right away. See you next time!"
-CLOSING = ("anya", "До свидания!")
+CLOSING = ('max', 'До свидания!')
 STORY = [
-    ('anya', 'Мы очень часто существуем в иллюзиях.', 'We very often exist in illusions.', [(335, 'очень часто существуем в'), (335, 'иллюзиях')], ''),
-    ('anya', 'Это наши фантазии.', 'These are our fantasies.', [], ''),
-    ('anya', 'Мы забываем о том, кто мы.', 'We forget who we are.', [(336, 'Мы забываем о том, кто мы')], ''),
-    ('anya', 'Кто мы на самом деле?', 'Who are we really?', [(336, 'на самом деле')], ''),
-    ('anya', 'Все играют роли.', 'Everyone plays roles.', [(336, 'играя роли')], ''),
-    ('anya', 'Это чужие маски.', 'These are foreign masks.', [(336, 'людей')], ''),
-    ('anya', 'Но наступает момент пробуждения.', 'But the moment of awakening comes.', [(337, 'Но наступает момент пробуждения')], ''),
-    ('anya', 'Жизнь срывает с нас эти маски.', 'Life tears these masks off us.', [(337, 'срывает с нас'), (337, 'маски')], ''),
-    ('anya', 'Они были бесконечные.', 'They were endless.', [(337, 'бесконечные')], ''),
-    ('anya', 'Свет оголяет реальность.', 'Light lays bare the reality.', [(338, 'оголяет реальность')], ''),
-    ('anya', 'Мы видим правду.', 'We see the truth.', [], ''),
-    ('anya', 'Мы были к ней не готовы.', 'We were not prepared for it.', [(338, 'мы были'), (338, 'не готовы')], ''),
+    ('max', 'Мы очень часто существуем в иллюзиях.', 'We very often exist in illusions.', [(335, 'очень часто существуем в'), (335, 'иллюзиях')], ''),
+    ('max', 'Это наши фантазии.', 'These are our fantasies.', [], ''),
+    ('max', 'Мы забываем о том, кто мы.', 'We forget who we are.', [(336, 'Мы забываем о том, кто мы')], ''),
+    ('max', 'Кто мы на самом деле?', 'Who are we really?', [(336, 'на самом деле')], ''),
+    ('max', 'Все играют роли.', 'Everyone plays roles.', [(336, 'играя роли')], ''),
+    ('max', 'Это чужие маски.', 'These are foreign masks.', [(336, 'людей')], ''),
+    ('max', 'Но наступает момент пробуждения.', 'But the moment of awakening comes.', [(337, 'Но наступает момент пробуждения')], ''),
+    ('max', 'Жизнь срывает с нас эти маски.', 'Life tears these masks off us.', [(337, 'срывает с нас'), (337, 'маски')], ''),
+    ('max', 'Они были бесконечные.', 'They were endless.', [(337, 'бесконечные')], ''),
+    ('max', 'Свет оголяет реальность.', 'Light lays bare the reality.', [(338, 'оголяет реальность')], ''),
+    ('max', 'Мы видим правду.', 'We see the truth.', [], ''),
+    ('max', 'Мы были к ней не готовы.', 'We were not prepared for it.', [(338, 'мы были'), (338, 'не готовы')], ''),
 ]
 WALK = [
     (0, None, "'We very often exist in illusions.' Max puts the word for 'very much' together with 'often' and 'to exist' in a crisp, natural spoken turn of phrase."),

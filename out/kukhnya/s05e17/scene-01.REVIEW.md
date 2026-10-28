@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Здравствуйте, Гончарова уже родила? | Hello, has Goncharova given birth yet? | #1 00:00:22: Гончарова родила | adapted: adapted |
-| 2 | Врач | Ещё нет, ждите здесь. | Not yet, wait here. | #2 00:00:27: Ещё нет | adapted: adapted |
-| 3 | Аня | Чего она трубку не берёт? | Why is she not picking up the phone? | #2 00:00:27: Чего он трубку не берёт | adapted: adapted |
-| 4 | Врач | Мужчина, как вы себе роды представляете? | Sir, how do you imagine childbirth? | #3 00:00:29: Мужчина, а вы вообще как себе | adapted: adapted |
-| 5 | Аня | Да, привет, всё нормально? | Yes, hi, is everything alright? | #4 00:00:33: Да, привет<br>#5 00:00:35: всё нормально | adapted: adapted |
-| 6 | Аня | Я уже в роддоме. | I am already at the maternity hospital. | #5 00:00:35: я в роддоме | adapted: adapted |
-| 7 | Аня | Повиси секундочку на линии. | Hold on the line for a second. | #6 00:00:38: повиси секундочку | adapted: adapted |
-| 8 | Аня | Скажите, а как мне пройти? | Tell me, how can I get through? | #9 00:00:49: а как мне пройти | adapted: adapted |
-| 9 | Врач | А вы вообще кто? | And who are you anyway? | #10 00:00:51: А вы кто | adapted: adapted |
-| 10 | Аня | Я её законный муж. | I am her lawful husband. | #10 00:00:51: Я муж | adapted: adapted |
-| 11 | Врач | По контракту мы родственников пускаем. | Under the contract we let close relatives in. | #11 00:00:56: По контракту мы только ближайших родственников пускаем | adapted: adapted |
-| 12 | Аня | Откройте мне дверь, пожалуйста. | Open the door for me, please. | #13 00:01:02: Сейчас я открою | adapted: adapted |
+| 1 | Макс | Здравствуйте, Гончарова уже родила? | Hello, has Goncharova given birth yet? | #1: Гончарова родила | adapted: adapted |
+| 2 | Врач | Ещё нет, ждите здесь. | Not yet, wait here. | #2: Ещё нет | adapted: adapted |
+| 3 | Макс | Чего она трубку не берёт? | Why is she not picking up the phone? | #2: Чего он трубку не берёт | adapted: adapted |
+| 4 | Врач | Мужчина, как вы себе роды представляете? | Sir, how do you imagine childbirth? | #3: Мужчина, а вы вообще как себе | adapted: adapted |
+| 5 | Макс | Да, привет, всё нормально? | Yes, hi, is everything alright? | #4: Да, привет<br>#5: всё нормально | adapted: adapted |
+| 6 | Макс | Я уже в роддоме. | I am already at the maternity hospital. | #5: я в роддоме | adapted: adapted |
+| 7 | Макс | Повиси секундочку на линии. | Hold on the line for a second. | #6: повиси секундочку | adapted: adapted |
+| 8 | Макс | Скажите, а как мне пройти? | Tell me, how can I get through? | #9: а как мне пройти | adapted: adapted |
+| 9 | Врач | А вы вообще кто? | And who are you anyway? | #10: А вы кто | adapted: adapted |
+| 10 | Макс | Я её законный муж. | I am her lawful husband. | #10: Я муж | adapted: adapted |
+| 11 | Врач | По контракту мы родственников пускаем. | Under the contract we let close relatives in. | #11: По контракту мы только ближайших родственников пускаем | adapted: adapted |
+| 12 | Макс | Откройте мне дверь, пожалуйста. | Open the door for me, please. | #13: Сейчас я открою | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, has Goncharova given birth yet?' Spoken Russian keeps this brisk, leaning on 'hello' and finishing on 'gave birth'.
-- 'Not yet, wait here.' The grammar packs 'else' and 'here' into a tight, idiomatic kitchen exchange.
-- 'Why is she not picking up the phone?' Spoken Russian keeps this brisk, leaning on 'what' and finishing on 'takes'. the doctor answers right away.
-- 'Sir, how do you imagine childbirth?' In Russian, the idea of 'man' flows naturally into 'to imagine' without extra filler words.
-- 'Yes, hi, is everything alright?' In Russian, the idea of 'yes' flows naturally into 'normally' without extra filler words.
-- 'I am already at the maternity hospital.' Notice how Russian expresses 'I' and 'maternity hospital' with crisp inflection rather than helper words.
-- 'Hold on the line for a second.' Here the Russian phrasing highlights 'hold on' before landing on 'line'.
-- 'Tell me, how can I get through?' The grammar packs 'say' and 'take place' into a tight, idiomatic kitchen exchange.
-- 'And who are you anyway?' Spoken Russian keeps this brisk, leaning on 'and' and finishing on 'who'. Max answers right away.
-- 'I am her lawful husband.' The grammar packs 'I' and 'husband' into a tight, idiomatic kitchen exchange.
-- 'Under the contract we let close relatives in.' The meaning hinges on 'according to' working together with 'to let in' in spoken Russian.
-- 'Open the door for me, please.' In Russian, the idea of 'open' flows naturally into 'please' without extra filler words.
+- 'Hello, has Goncharova given birth yet?' By asking whether Goncharova given birth yet, Max presses the doctor for a straight answer.
+- 'Not yet, wait here.' Around the hospital and conversation, the doctor sets a calm, everyday tone with Max.
+- 'Why is she not picking up the phone?' Asking why she not picking up the phone is is how Max puts the doctor on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Sir, how do you imagine childbirth?' When the doctor asks if sir how do Max imagines childbirth, Max has to answer fast.
+- 'Yes, hi, is everything alright?' By checking whether everything alright, Max presses the doctor for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'I am already at the maternity hospital.' Max tells the doctor that he is already at the maternity hospital without dressing it up.
+- 'Hold on the line for a second.' Holding on the line for a second moves the conversation forward without extra drama.
+- 'Tell me, how can I get through?' Questioning whether tell him how can he gets is how Max tests the doctor's story. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'And who are you anyway?' By asking who Max anyway is, the doctor presses Max for a straight answer. Notice how he sticks to the formal "you", keeping a professional line between them.
+- 'I am her lawful husband.' Being her lawful husband moves the conversation forward without extra drama.
+- 'Under the contract we let close relatives in.' Because under the contract they let close relatives, the doctor treats the matter as settled.
+- 'Open the door for me, please.' By telling the doctor to open the door for him please, Max keeps his side of the story grounded.

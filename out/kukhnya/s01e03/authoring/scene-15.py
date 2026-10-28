@@ -4,18 +4,17 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 3
 SCENE = 15
-TITLE = "Живой гусь  (The Live Goose)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Живой гусь  (The Live Goose)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "nastya": "angelina", "sasha": "anja"}
-LABELS = {"nastya": "Настя", "sasha": "Саша"}
+LABELS = {'nastya': 'Настя', 'sasha': 'Саша'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.03'
 SOURCE_FILE = 'sources/kukhnya/s01/e03.ru.dual.srt'
 INTRO = 'In the restaurant back hallway, waitress Nastya has made a startling discovery inside a delivery box. Horrified that Chef Barinov plans to slaughter a live banquet goose, Nastya resolves to save the bird. Listen to her whispered conversation with Sasha in Russian first, and then we will examine every phrase.'
 OPENER = 'Now let us walk through each line together to understand every Russian word.'
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = 'Nastya successfully hustles the live goose out of the prep area, determined to keep him safe until her shift ends. Meanwhile in the dining hall, Chef Barinov is about to present a special birthday dish. See you next time!'
-CLOSING = ("nastya", "Пока!")
+CLOSING = ('nastya', 'Пока!')
 STORY = [
     ('nastya', 'Саша, иди скорее сюда!', 'Sasha, come here quickly!', [(265, 'сюда и позвала')], ''),
     ('sasha', 'Что случилось, Настя?', 'What happened, Nastya?', [(261, 'на минуточку')], ''),

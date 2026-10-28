@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Ну что, Костя, как тут дела? | So, Kostya, how are things going here? | #181 00:13:52: Ну что, как тут | adapted: adapted |
-| 2 | Гость | Тишина, никто тобой не интересовался. | All quiet, nobody asked for you. | #182 00:13:54: Тишина<br>#182 00:13:54: никто не интересовался | adapted: adapted |
-| 3 | Гость | Девушка, дадите ручку поцеловать? | Miss, will you let me kiss your hand? | #183 00:14:05: Дадите ручку | adapted: adapted |
-| 4 | Гость | А может быть, красивую ножку? | Or maybe your pretty little foot? | #185 00:14:09: А ножку | adapted: adapted |
-| 5 | Аня | Так, дружище, пойдём скорее на выход. | Alright, buddy, let's head for the exit quickly. | #187 00:14:12: Так, дружище | adapted: adapted |
-| 6 | Гость | Здравствуйте, вы кого-то ищете? | Hello, are you looking for someone? | #191 00:14:25: Здравствуйте | adapted: adapted |
-| 7 | Гость | Подскажите, где найти Викторию Сергеевну? | Could you tell me where to find Viktoria Sergeyevna? | #189 00:14:19: где найти Викторию Сергеевну | adapted: adapted |
-| 8 | Гость | Я по поводу ремонта систем видеонаблюдения. | I am here about repairing the video surveillance system. | #190 00:14:22: Я по поводу ремонта систем видеонаблюдения | adapted: adapted |
-| 9 | Гость | Здравствуйте, Виктория вас уже ждёт. | Hello, Viktoria is already waiting for you. | #191 00:14:25: Здравствуйте. Виктория вас уже ждет | adapted: adapted |
-| 10 | Аня | Слушай, друг, а ты зачем приходил? | Listen, friend, why did you come here anyway? | #193 00:14:31: Слушай, друг, а ты что вообще приходил | adapted: adapted |
-| 11 | Гость | Так вашу кофемашину ремонтировать! | To repair your coffee machine, of course! | #194 00:14:35: Так вашу кофемашину ремонтировать | adapted: adapted |
-| 12 | Гость | А вы сами её починили, красавцы! | And you fixed it yourselves, well done! | #195 00:14:38: сами ее починили<br>#196 00:14:40: Красавцы | adapted: adapted |
+| 1 | Макс | Ну что, Костя, как тут дела? | So, Kostya, how are things going here? | #181: Ну что, как тут | adapted: adapted |
+| 2 | Костя | Тишина, никто тобой не интересовался. | All quiet, nobody asked for you. | #182: Тишина<br>#182: никто не интересовался | adapted: adapted |
+| 3 | Гость | Девушка, дадите ручку поцеловать? | Miss, will you let me kiss your hand? | #183: Дадите ручку | adapted: adapted |
+| 4 | Гость | А может быть, красивую ножку? | Or maybe your pretty little foot? | #185: А ножку | adapted: adapted |
+| 5 | Макс | Так, дружище, пойдём скорее на выход. | Alright, buddy, let's head for the exit quickly. | #187: Так, дружище | adapted: adapted |
+| 6 | Костя | Здравствуйте, вы кого-то ищете? | Hello, are you looking for someone? | #191: Здравствуйте | adapted: adapted |
+| 7 | Гость | Подскажите, где найти Викторию Сергеевну? | Could you tell me where to find Viktoria Sergeyevna? | #189: где найти Викторию Сергеевну | adapted: adapted |
+| 8 | Гость | Я по поводу ремонта систем видеонаблюдения. | I am here about repairing the video surveillance system. | #190: Я по поводу ремонта систем видеонаблюдения | adapted: adapted |
+| 9 | Костя | Здравствуйте, Виктория вас уже ждёт. | Hello, Viktoria is already waiting for you. | #191: Здравствуйте. Виктория вас уже ждет | adapted: adapted |
+| 10 | Макс | Слушай, друг, а ты зачем приходил? | Listen, friend, why did you come here anyway? | #193: Слушай, друг, а ты что вообще приходил | adapted: adapted |
+| 11 | Гость | Так вашу кофемашину ремонтировать! | To repair your coffee machine, of course! | #194: Так вашу кофемашину ремонтировать | adapted: adapted |
+| 12 | Гость | А вы сами её починили, красавцы! | And you fixed it yourselves, well done! | #195: сами ее починили<br>#196: Красавцы | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'So, Kostya, how are things going here?' Spoken Russian keeps this brisk, leaning on 'come on' and finishing on 'things to do'. Kostya answers right away.
-- 'All quiet, nobody asked for you.' Kostya anchors the line on 'silence', while 'asked about' completes the thought.
-- 'Miss, will you let me kiss your hand?' The grammar packs 'miss' and 'to kiss' into a tight, idiomatic kitchen exchange.
-- 'Or maybe your pretty little foot?' Notice how Russian expresses 'and' and 'little foot' with crisp inflection rather than helper words. Max answers right away.
-- 'Alright, buddy, let's head for the exit quickly.' In Russian, the idea of 'so' flows naturally into 'exit' without extra filler words.
-- 'Hello, are you looking for someone?' Here the Russian phrasing highlights 'hello' before landing on 'to look for'.
-- 'Could you tell me where to find Viktoria Sergeyevna?' the guest raises the pitch on 'Sergeyevna' to turn the phrase into a direct spoken question.
-- 'I am here about repairing the video surveillance system.' Here the Russian phrasing highlights 'I' before landing on 'video surveillance'.
-- 'Hello, Viktoria is already waiting for you.' In Russian, the idea of 'hello' flows naturally into 'is waiting for' without extra filler words.
-- 'Listen, friend, why did you come here anyway?' Max brings out the contrast between 'listen' and 'friend' in a few short words. the guest answers right away.
-- 'To repair your coffee machine, of course!' the guest anchors the line on 'so', while 'to repair' completes the thought.
-- 'And you fixed it yourselves, well done!' The meaning hinges on 'and' working together with 'handsome man' in spoken Russian.
+- 'So, Kostya, how are things going here?' Asking how things going here are cuts straight through the tension between Max and the guest. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'All quiet, nobody asked for you.' Since all quiet nobody asked for the guest, Kostya does not waste words on excuses.
+- 'Miss, will you let me kiss your hand?' Asking whether miss will Kostya lets him kiss Kostya's hand puts Kostya right on the defensive. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Or maybe your pretty little foot?' Around the kitchen and work, the guest wants to know where Kostya really stands. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Alright, buddy, let's head for the exit quickly.' Because Alright buddy let them head for the exit quickly, Max treats the matter as settled.
+- 'Hello, are you looking for someone?' Asking whether the guest looking for someone is how Kostya puts the guest on the spot. Notice how he sticks to the formal "you", keeping a professional line between them.
+- 'Could you tell me where to find Viktoria Sergeyevna?' Here asking whether Kostya tells him where to find Viktoria Sergeyevna shows the guest looking for the real truth. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'I am here about repairing the video surveillance system.' Being here about repairing the video surveillance system is how the guest lays out the situation for Kostya.
+- 'Hello, Viktoria is already waiting for you.' Pointing out that Viktoria is already waiting for the guest gives the guest a sobering reality check. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
+- 'Listen, friend, why did you come here anyway?' Questioning whether friend why did the guest comes here anyway is how Max tests the guest's story. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'To repair your coffee machine, of course!' With the moment and restaurant at stake, the guest reacts without holding back.
+- 'And you fixed it yourselves, well done!' Around the moment and room, the guest makes his point loud and clear. Notice how he sticks to the formal "you", keeping a professional line between them.

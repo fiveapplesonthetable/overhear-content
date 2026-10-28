@@ -7,8 +7,7 @@ SCENE = 22
 TITLE = 'Soirée confidences  (Evening Confidences)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'virginie': 'emilie', 'gabriel': 'theo'}
-LABELS = {'virginie': 'Virginie', 'gabriel': 'Gabriel'}
+LABELS = {'gabriel': 'Gabriel', 'virginie': 'Virginie'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e01.fr.dual.srt'
 INTRO = "Inside Gabriel's apartment, Virginie finds a temporary sanctuary from the media circus outside. As night falls, she confides her genuine guilt about her breakup with Ramzy before losing her temper at the paparazzi waiting below. Listen to the scene in French first. Don't worry about catching every word."
@@ -38,12 +37,12 @@ WALK = [
     (2, None, "'Playing the ideal couple makes no sense.' Pretending on screen felt completely false to her. Virginie pairs the verb meaning 'to play' with the noun for 'meaning'."),
     (3, None, "'We never talk about our real worries.' Deep communication issues were constantly ignored. Listen for the expression meaning 'not', which leads naturally into 'troubles'."),
     (4, None, "'Do you have worries between you two?' Gabriel inquires gently about their personal relationship. Notice how the verb for 'have' leads straight into 'problems'."),
-    (5, None, "'He acts as though everything were fine.' Ramzy avoided confronting any unpleasant truth. Listen for the expression meaning 'acts', which leads naturally into 'well'."),
+    (5, None, "'He acts as though everything were fine.' Right then, Ramzy avoided confronting any unpleasant truth. Listen for the expression meaning 'acts', which leads naturally into 'well'."),
     (6, None, "'He always wants to joke with everyone.' Humor became a constant defense mechanism. Listen for the expression meaning 'wishes', which leads naturally into 'everybody'."),
     (7, None, "'Me, I prefer to speak about real things.' Virginie needs emotional honesty and open dialogue. The key word here means 'prefer', paired with 'things' to make the point clear."),
     (8, None, "'So after five months, the tension exploded.' The prolonged pressure on set finally reached a breaking point. Virginie pairs the verb meaning 'has' with the noun for 'emotional strain'."),
     (9, None, "'Do you have news from him today?' Gabriel wonders if Ramzy has tried to get in touch. Notice how the verb for 'have' leads straight into 'news'."),
-    (10, None, "'No, he still refuses to speak to me.' Ramzy remains hurt and completely unreachable. Listen for the expression meaning 'no', which leads naturally into 'to speak'."),
+    (10, None, "'No, he still refuses to speak to me.' In this moment, Ramzy remains hurt and completely unreachable. Listen for the expression meaning 'no', which leads naturally into 'to speak'."),
     (11, None, "'It weighs on me to hurt him.' She carries a heavy emotional burden from their breakup. The impersonal construction expresses a feeling of being weighed down with guilt."),
     (12, None, "'Look through the window, they are still there!' She spots the persistent paparazzi waiting outside on the street. Virginie opens with the word for 'look' and lands on 'there' at the close."),
     (13, None, "'Leave me alone, go away from here!' She vents her anger and frustration into the night air. The polite command form form laissez-moi asks for immediate personal space."),

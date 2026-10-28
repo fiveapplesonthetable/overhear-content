@@ -10,32 +10,32 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Костя | Настя, ты только не волнуйся. | Nastya, just promise you will not get upset. | #187 00:12:26: Настя, ты только не волнуйся | verbatim |
-| 2 | Настя | Я не волнуюсь. | I am not getting upset. | #188 00:12:29: Я не волнуюсь | verbatim |
-| 3 | Костя | Я очень хотел помочь тебе. | I really wanted to help you make peace. | #189 00:12:31: Я очень хотел помочь тебе | verbatim |
-| 4 | Настя | Сломал ему нос. | And I broke his nose. | #190 00:12:34: сломал ему нос | verbatim |
-| 5 | Костя | Вы опять подрались? | Did the two of you get into a fight again? | #191 00:12:41: Вы опять подрались | verbatim |
-| 6 | Настя | Он почти не дрался. | He barely even fought back. | #192 00:12:42: Он почти не дрался | verbatim |
-| 7 | Костя | Но он сам предложил. | He was the one who told me to swing. | #193 00:12:45: Но он сам предложил | verbatim |
-| 8 | Настя | И избил человека. | And you beat the man up. | #194 00:12:47: И избил человека | verbatim |
-| 9 | Костя | Значит, он сам захотел. | Well, he asked for it himself. | #195 00:12:50: Значит, он сам захотел | verbatim |
-| 10 | Настя | Костя, может, ты маму мою тоже и забьешь? | Kostya, maybe you are going to beat up my mother next? | #196 00:12:52: Костя, может, ты маму мою тоже и забьешь | verbatim |
-| 11 | Костя | И вообще, похоже, я тебя плохо знала. | Honestly, it seems I hardly knew you at all. | #198 00:13:01: И вообще, похоже, я тебя плохо знала | verbatim |
-| 12 | Настя | Алло, мам, что с папой? | Hello, Mom, what happened to Dad? | #199 00:13:05: Алло, мам, что с папой | verbatim |
-| 13 | Костя | Так, я сейчас приеду. | All right, I am on my way right now. | #200 00:13:09: Так, я сейчас приеду | verbatim |
+| 1 | Костя | Настя, ты только не волнуйся. | Nastya, just promise you will not get upset. | #187: Настя, ты только не волнуйся | verbatim |
+| 2 | Настя | Я не волнуюсь. | I am not getting upset. | #188: Я не волнуюсь | verbatim |
+| 3 | Костя | Я очень хотел помочь тебе. | I really wanted to help you make peace. | #189: Я очень хотел помочь тебе | verbatim |
+| 4 | Настя | Сломал ему нос. | And I broke his nose. | #190: сломал ему нос | verbatim |
+| 5 | Костя | Вы опять подрались? | Did the two of you get into a fight again? | #191: Вы опять подрались | verbatim |
+| 6 | Настя | Он почти не дрался. | He barely even fought back. | #192: Он почти не дрался | verbatim |
+| 7 | Костя | Но он сам предложил. | He was the one who told me to swing. | #193: Но он сам предложил | verbatim |
+| 8 | Настя | И избил человека. | And you beat the man up. | #194: И избил человека | verbatim |
+| 9 | Костя | Значит, он сам захотел. | Well, he asked for it himself. | #195: Значит, он сам захотел | verbatim |
+| 10 | Настя | Костя, может, ты маму мою тоже и забьешь? | Kostya, maybe you are going to beat up my mother next? | #196: Костя, может, ты маму мою тоже и забьешь | verbatim |
+| 11 | Настя | И вообще, похоже, я тебя плохо знала. | Honestly, it seems I hardly knew you at all. | #198: И вообще, похоже, я тебя плохо знала | verbatim |
+| 12 | Настя | Алло, мам, что с папой? | Hello, Mom, what happened to Dad? | #199: Алло, мам, что с папой | verbatim |
+| 13 | Костя | Так, я сейчас приеду. | All right, I am on my way right now. | #200: Так, я сейчас приеду | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Nastya, just promise you will not get upset.' Here the Russian phrasing highlights 'Nastya' before landing on 'worry'.
-- 'I am not getting upset.' Nastya brings out the contrast between 'I' and 'not' in a few short words.
-- 'I really wanted to help you make peace.' Kostya anchors the line on 'I', while 'you' completes the thought. Nastya answers right away.
-- 'And I broke his nose.' In Russian, the idea of 'broke' flows naturally into 'nose' without extra filler words.
-- 'Did the two of you get into a fight again?' Here the Russian phrasing highlights 'you' before landing on 'to fight'.
-- 'He barely even fought back.' Nastya pairs 'almost' with 'to fight, to brawl' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
-- 'He was the one who told me to swing.' The meaning hinges on 'but' working together with 'suggested' in spoken Russian.
-- 'And you beat the man up.' Nastya anchors the line on 'both', while 'a person' completes the thought.
-- 'Well, he asked for it himself.' The '-l' ending on the verb meaning 'to want' places the action in the masculine past tense. Nastya answers right away.
-- 'Kostya, maybe you are going to beat up my mother next?' In Russian, the idea of 'Kostya' flows naturally into 'to score' without extra filler words.
-- 'Honestly, it seems I hardly knew you at all.' Here the Russian phrasing highlights 'both' before landing on 'knew'.
-- 'Hello, Mom, what happened to Dad?' Notice how Russian expresses 'hello' and 'dad' with crisp inflection rather than helper words. Kostya answers right away.
-- 'All right, I am on my way right now.' The meaning hinges on 'like this' working together with 'to arrive' in spoken Russian.
+- 'Nastya, just promise you will not get upset.' Once just promise Nastya will not get upset, Kostya can finally tell Nastya what he means. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'I am not getting upset.' Noting that she is not getting upset keeps Nastya's side of the story simple and clear.
+- 'I really wanted to help you make peace.' Kostya tells Nastya that he really wanted to help Nastya makes peace without dressing it up.
+- 'And I broke his nose.' Around the moment and point, Nastya sets a calm, everyday tone with Kostya.
+- 'Did the two of you get into a fight again?' Here asking whether the two of Nastya gets into a fight again shows Kostya looking for the real truth. Notice how he sticks to the formal "you", keeping a professional line between them.
+- 'He barely even fought back.' Over the conversation and the peace, Nastya answers Kostya without a second thought.
+- 'He was the one who told me to swing.' Because he was the one who told him to swing, Kostya treats the matter as settled.
+- 'And you beat the man up.' Explaining that Kostya beats the man up lays the cards on the table for Kostya.
+- 'Well, he asked for it himself.' Kostya mentions that he asked for it himself so Nastya sees what is at stake.
+- 'Kostya, maybe you are going to beat up my mother next?' Asking whether maybe Kostya is going to beat up her mother next puts Kostya right on the defensive. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Honestly, it seems I hardly knew you at all.' Pointing out that it seems she hardly knew Kostya at all gives Kostya a sobering reality check. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Hello, Mom, what happened to Dad?' Over the call and the news, Nastya presses Kostya for a straight answer.
+- 'All right, I am on my way right now.' Realizing that all right he is on his way right now changes how Kostya handles the situation.

@@ -4,31 +4,30 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 19
 SCENE = 21
-TITLE = "Вместе  (Together)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Вместе  (Together)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "anya": "alisa", "vika": "angelina"}
-LABELS = {"anya": "Макс", "vika": "Вика"}
+LABELS = {'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.19'
 SOURCE_FILE = 'sources/kukhnya/s01/e19.ru.dual.srt'
 INTRO = "Focused on together, Max says that the main thing is that they are together. Let's listen closely to Vika and Max's exchange in Russian first, and then walk through each line together."
 OPENER = 'Now let us examine the conversation line by line.'
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Max says that the main thing is that they are together. Next time you watch the episode, listen for the Russian expressions for 'to worry' and 'why' — you will catch every word right away. See you next time!"
-CLOSING = ("anya", "Пока!")
+CLOSING = ('max', 'Пока!')
 STORY = [
     ('vika', 'Я переживаю.', 'I worry.', [(380, 'Не переживайте так.')], ''),
-    ('anya', 'Не переживай так.', 'Do not worry so much.', [(380, 'Не переживайте так.')], ''),
+    ('max', 'Не переживай так.', 'Do not worry so much.', [(380, 'Не переживайте так.')], ''),
     ('vika', 'Почему?', 'Why?', [], ''),
-    ('anya', 'Главное, что мы вместе.', 'The main thing is that we are together.', [(381, 'Главное, что мы вместе.')], ''),
+    ('max', 'Главное, что мы вместе.', 'The main thing is that we are together.', [(381, 'Главное, что мы вместе.')], ''),
     ('vika', 'Это главное.', 'This is the main thing.', [], ''),
-    ('anya', 'Кому-то проще потерять все.', 'For some it is easier to lose everything.', [(382, 'Кому-то проще потерять все, чтобы понять, насколько ему это было дорого.')], ''),
+    ('max', 'Кому-то проще потерять все.', 'For some it is easier to lose everything.', [(382, 'Кому-то проще потерять все, чтобы понять, насколько ему это было дорого.')], ''),
     ('vika', 'Зачем?', 'What for?', [], ''),
-    ('anya', 'Чтобы понять.', 'In order to understand.', [(382, 'Кому-то проще потерять все, чтобы понять, насколько ему это было дорого.')], ''),
+    ('max', 'Чтобы понять.', 'In order to understand.', [(382, 'Кому-то проще потерять все, чтобы понять, насколько ему это было дорого.')], ''),
     ('vika', 'Понять что?', 'To understand what?', [], ''),
-    ('anya', 'Насколько это было дорого.', 'How dear it was.', [(382, 'Кому-то проще потерять все, чтобы понять, насколько ему это было дорого.')], ''),
+    ('max', 'Насколько это было дорого.', 'How dear it was.', [(382, 'Кому-то проще потерять все, чтобы понять, насколько ему это было дорого.')], ''),
     ('vika', 'Нам не надо терять.', 'We do not need to lose.', [], ''),
-    ('anya', 'Не надо.', 'No need.', [], ''),
+    ('max', 'Не надо.', 'No need.', [], ''),
 ]
 WALK = [
     (0, None, "'I worry.' Vika delivers a punchy one-word reaction built around the Russian word meaning 'worry'."),

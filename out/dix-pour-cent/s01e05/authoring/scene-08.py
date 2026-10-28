@@ -7,8 +7,7 @@ SCENE = 8
 TITLE = 'Gabriel Sarda, mon agent!  (Gabriel Sarda, My Agent!)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'sofia': 'emilie', 'gabriel': 'theo', 'lea': 'lucie'}
-LABELS = {'sofia': 'Sofia', 'gabriel': 'Gabriel', 'lea': 'Andréa'}
+LABELS = {'andrea': 'Andréa', 'gabriel': 'Gabriel', 'sofia': 'Sofia'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e05.fr.dual.srt'
 INTRO = "After leaving JoeyStarr's trailer, Gabriel walks across the courtyard toward the film set's catering tent. There, Sofia is in her eighteenth-century servant costume, tasting the strange snacks on the buffet table. Listen to the French first, without worrying about catching every word."
@@ -31,7 +30,7 @@ STORY = [
     ('sofia', 'Je peux avoir des invitations? Oui, il dit oui!', 'Can I have invitations? Yes, he says yes!', [(152, 'Je peux avoir des invitations'), (153, 'Oui, il dit oui')], ''),
     ('gabriel', 'Je vous laisse vous concentrer.', 'I', [(154, 'Je vous laisse vous concentrer')], ''),
     ('sofia', 'Il y a des chevaux et tout!', 'There are horses and everything!', [(155, 'Il y a des chevaux et tout')], ''),
-    ('lea', 'Tiens, chérie. Ça va te faire du bien. Viens là.', 'Here, darling. This will do you good. Come here.', [(156, 'Tiens, chérie. Ça va te'), (157, 'Viens là')], ''),
+    ('andrea', 'Tiens, chérie. Ça va te faire du bien. Viens là.', 'Here, darling. This will do you good. Come here.', [(156, 'Tiens, chérie. Ça va te'), (157, 'Viens là')], ''),
 ]
 WALK = [
     (0, None, "'One is black and the other is yellow. What does it taste like?' Literally 'That has what taste?' — French uses the verb 'to have' with the noun 'taste'."),

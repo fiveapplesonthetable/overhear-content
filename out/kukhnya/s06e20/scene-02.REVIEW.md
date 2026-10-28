@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Михаил | Он что, всё-таки заплатил деньги? | Wait, did he pay the money after all? | #14 00:02:39: Он что, заплатит | adapted: adapted |
-| 2 | Михаил | Да, он заплатил, конечно. | Yes, he paid, of course. | #15 00:02:41: он заплатит, конечно | adapted: adapted |
-| 3 | Михаил | Ведь этот гость у нас иностранец. | After all, this guest of ours is a foreigner. | #16 00:02:43: иностранец | adapted: adapted |
-| 4 | Михаил | Он вам вот это передал. | He passed this along to you. | #17 00:02:44: Он вам это вот передал | adapted: adapted |
-| 5 | Михаил | Это инспектор Мишлен из Парижа! | This is a Michelin inspector from Paris! | #20 00:02:55: Инспектор Мишлен из Парижа | adapted: adapted |
-| 6 | Михаил | Он их самый главный инспектор. | He is their very chief inspector. | #22 00:03:01: главный инспектор | adapted: adapted |
-| 7 | Михаил | Он уже погубил много поваров. | He has already ruined many chefs. | #24 00:03:08: Он погубил | adapted: adapted |
-| 8 | Михаил | Почему со мной это происходит? | Why is this happening to me? | #25 00:03:16: со мной все это происходит | adapted: adapted |
-| 9 | Михаил | Вы только сейчас не нервничайте. | Just do not get nervous right now. | #26 00:03:19: Вы только не нервничайте | adapted: adapted |
-| 10 | Инспектор | Добрый день, кто здесь повар? | Good afternoon, who is the chef here? | #28 00:03:26: Добрый день<br>#30 00:03:34: Кто | adapted: adapted |
-| 11 | Михаил | Вот он сидит перед вами. | Here he is sitting before you. | #31 00:03:37: Вот он | adapted: adapted |
-| 12 | Инспектор | Спасибо вам за ваш ответ. | Thank you for your answer. | #32 00:03:40: Спасибо | adapted: adapted |
+| 1 | Шеф | Он что, всё-таки заплатил деньги? | Wait, did he pay the money after all? | #14: Он что, заплатит | adapted: adapted |
+| 2 | Михаил | Да, он заплатил, конечно. | Yes, he paid, of course. | #15: он заплатит, конечно | adapted: adapted |
+| 3 | Михаил | Ведь этот гость у нас иностранец. | After all, this guest of ours is a foreigner. | #16: иностранец | adapted: adapted |
+| 4 | Михаил | Он вам вот это передал. | He passed this along to you. | #17: Он вам это вот передал | adapted: adapted |
+| 5 | Михаил | Это инспектор Мишлен из Парижа! | This is a Michelin inspector from Paris! | #20: Инспектор Мишлен из Парижа | adapted: adapted |
+| 6 | Шеф | Он их самый главный инспектор. | He is their very chief inspector. | #22: главный инспектор | adapted: adapted |
+| 7 | Шеф | Он уже погубил много поваров. | He has already ruined many chefs. | #24: Он погубил | adapted: adapted |
+| 8 | Шеф | Почему со мной это происходит? | Why is this happening to me? | #25: со мной все это происходит | adapted: adapted |
+| 9 | Михаил | Вы только сейчас не нервничайте. | Just do not get nervous right now. | #26: Вы только не нервничайте | adapted: adapted |
+| 10 | Инспектор | Добрый день, кто здесь повар? | Good afternoon, who is the chef here? | #28: Добрый день<br>#30: Кто | adapted: adapted |
+| 11 | Михаил | Вот он сидит перед вами. | Here he is sitting before you. | #31: Вот он | adapted: adapted |
+| 12 | Инспектор | Спасибо вам за ваш ответ. | Thank you for your answer. | #32: Спасибо | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Wait, did he pay the money after all?' Notice how Russian expresses 'he' and 'money' with crisp inflection rather than helper words.
-- 'Yes, he paid, of course.' Notice how Russian expresses 'yes' and 'of course' with crisp inflection rather than helper words.
-- 'After all, this guest of ours is a foreigner.' Here the Russian phrasing highlights 'after all' before landing on 'foreigner'.
-- 'He passed this along to you.' Here the Russian phrasing highlights 'he' before landing on 'to pass on'.
-- 'This is a Michelin inspector from Paris!' The grammar packs 'this' and 'from' into a tight, idiomatic kitchen exchange. Chef Barinov answers right away.
-- 'He is their very chief inspector.' The meaning hinges on 'he' working together with 'inspector' in spoken Russian.
-- 'He has already ruined many chefs.' In Russian, the idea of 'he' flows naturally into 'cooks' without extra filler words.
-- 'Why is this happening to me?' Spoken Russian keeps this brisk, leaning on 'why' and finishing on 'is happening'. Mikhail answers right away.
-- 'Just do not get nervous right now.' Notice how Russian expresses 'you' and 'to be nervous' with crisp inflection rather than helper words.
-- 'Good afternoon, who is the chef here?' The grammar packs 'good' and 'cook' into a tight, idiomatic kitchen exchange.
-- 'Here he is sitting before you.' Notice how Russian expresses 'here' and 'you' with crisp inflection rather than helper words. the inspector answers right away.
-- 'Thank you for your answer.' Here the Russian phrasing highlights 'thank you' before landing on 'answer'.
+- 'Wait, did he pay the money after all?' By asking whether he pay the money after all, Barinov presses the inspector for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Yes, he paid, of course.' Explaining that he paid of course lays the cards on the table for Barinov.
+- 'After all, this guest of ours is a foreigner.' Saying that after all this guest of their is a foreigner is how Mikhail sets the tone with Barinov.
+- 'He passed this along to you.' With the inspector and guest in play, Mikhail keeps this short reply brisk and direct. Notice how he sticks to the formal "you", keeping a professional line between them.
+- 'This is a Michelin inspector from Paris!' Because this is a Michelin inspector from Paris, Mikhail does not bother softening the blow for Barinov. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'He is their very chief inspector.' Since he is their very chief inspector, Barinov does not waste words on excuses.
+- 'He has already ruined many chefs.' Saying that he has already ruined many chefs is how Barinov sets the tone with the inspector.
+- 'Why is this happening to me?' Here wondering why this happening to him is shows Barinov looking for the real truth. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'Just do not get nervous right now.' Even though just do not get nervous right now, Mikhail keeps a steady face in front of Barinov.
+- 'Good afternoon, who is the chef here?' Wondering who the here is cuts straight through the tension between the inspector and Barinov. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Here he is sitting before you.' Saying that here he is sitting before Barinov is how Mikhail sets the tone with Barinov. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
+- 'Thank you for your answer.' Around the guest and shift, the inspector sets a calm, everyday tone with Barinov.

@@ -7,29 +7,28 @@ SCENE = 3
 TITLE = "Matinée à l'agence  (Morning at the Agency)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'lea': 'lucie', 'gabriel': 'theo'}
-LABELS = {'lea': 'Andréa', 'gabriel': 'Gabriel'}
+LABELS = {'andrea': 'Andréa', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e04.fr.dual.srt'
 INTRO = "The morning after a long night out in Paris, Gabriel arrives at the ASK agency looking visibly worn out. Andrea notices his weary appearance and inquires about his meeting with Sandrine Kiberlain, only to learn that the star actress has developed unexpected second thoughts about her next major film role. Let's listen to their conversation in French first."
 OPENER = "Let's explore Andrea and Gabriel's morning discussion line by line."
 TRANSITION = "Now let's listen to Andrea and Gabriel's conversation once more from start to finish."
 OUTRO = "That's it for this scene around morning at the agency. When you watch the episode, listen out for the expressions meaning 'look' and 'returned'. You'll catch them now. See you next time!"
-CLOSING = ('lea', 'Au revoir!')
+CLOSING = ('andrea', 'Au revoir!')
 STORY = [
-    ('lea', 'Bonjour Gabriel, tu as bonne mine!', 'Hello Gabriel, you look well!', [(93, 'Bonjour.')], ''),
+    ('andrea', 'Bonjour Gabriel, tu as bonne mine!', 'Hello Gabriel, you look well!', [(93, 'Bonjour.')], ''),
     ('gabriel', 'Bonjour Andréa, je suis rentré tard.', 'Hello Andrea, I got home late.', [(93, 'Bonjour.')], ''),
-    ('lea', "Comment s'est passée ta longue soirée?", 'How did your long evening go?', [], ''),
+    ('andrea', "Comment s'est passée ta longue soirée?", 'How did your long evening go?', [], ''),
     ('gabriel', 'Sandrine Kiberlain a été tout simplement remarquable.', 'Sandrine Kiberlain was simply remarkable.', [], ''),
-    ('lea', 'Elle signe pour le film historique?', 'Is she signing for the historical movie?', [], ''),
+    ('andrea', 'Elle signe pour le film historique?', 'Is she signing for the historical movie?', [], ''),
     ('gabriel', 'Non, elle hésite beaucoup à signer.', 'No, she hesitates a lot about signing.', [], ''),
-    ('lea', 'Que veut-elle faire à la place?', 'What does she want to do instead?', [], ''),
+    ('andrea', 'Que veut-elle faire à la place?', 'What does she want to do instead?', [], ''),
     ('gabriel', 'Elle rêve maintenant de faire du stand-up.', 'She now dreams of doing stand-up comedy.', [], ''),
-    ('lea', 'Tu plaisantes? Elle adore le théâtre!', 'Are you joking? She loves theater!', [], ''),
+    ('andrea', 'Tu plaisantes? Elle adore le théâtre!', 'Are you joking? She loves theater!', [], ''),
     ('gabriel', 'Elle veut faire rire le public.', 'She wants to make the audience laugh.', [], ''),
-    ('lea', 'Nous devons la convaincre rapidement.', 'We must convince her quickly.', [], ''),
+    ('andrea', 'Nous devons la convaincre rapidement.', 'We must convince her quickly.', [], ''),
     ('gabriel', "Je vais la revoir aujourd'hui.", 'I am going to see her again today.', [], ''),
-    ('lea', 'Rassure-la sur son immense talent.', 'Reassure her about her immense talent.', [], ''),
+    ('andrea', 'Rassure-la sur son immense talent.', 'Reassure her about her immense talent.', [], ''),
     ('gabriel', 'Je ferai de mon mieux, Andréa.', 'I will do my best, Andrea.', [], ''),
 ]
 WALK = [

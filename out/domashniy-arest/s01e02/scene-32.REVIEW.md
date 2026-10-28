@@ -11,20 +11,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Нина | Ну что? Работа есть? | Well? Is there a job? | new | new: new: Nina asks how it went with the boss |
-| 2 | Самсон | Короче, нет. | Long story short, no. | #1179 01:05:46: Короче, нет | verbatim |
-| 3 | Самсон | С работой не получилось. | The job didn't work out. | #1180 01:05:49: с работой | adapted: облом (slang) -> не получилось |
-| 4 | Самсон | И с Крымом тоже. | And the same with Crimea. | #1181 01:05:54: с Крымом | adapted: 'понятно' left out; 'И' added |
-| 5 | Нина | А никто и не сомневался. | Nobody ever doubted it. | #1182 01:06:00: А никто и не сомневался | verbatim |
+| 2 | Самсон | Короче, нет. | Long story short, no. | #1179: Короче, нет | verbatim |
+| 3 | Самсон | С работой не получилось. | The job didn't work out. | #1180: с работой | adapted: облом (slang) -> не получилось |
+| 4 | Самсон | И с Крымом тоже. | And the same with Crimea. | #1181: с Крымом | adapted: 'понятно' left out; 'И' added |
+| 5 | Нина | А никто и не сомневался. | Nobody ever doubted it. | #1182: А никто и не сомневался | verbatim |
 | 6 | Самсон | Нин, ну не начинай. | Nin, come on, don't start. | new | new: new: Samson's reply |
-| 7 | Аня | Лёша, слушай меня. | Lyosha, listen to me. | new | new: new: Lyosha has come to ask about his console (cue 1183) |
-| 8 | Аня | Никакой приставки не будет. | There won't be any console. | #1186 01:06:48: не будет | adapted: «Нет никакого PSP не будет» -> «Никакой приставки не будет» (Cyrillic word for the console) |
-| 9 | Аня | Тебя обманули, понял? | You've been fooled, got it? | #1187 01:06:50: понял | adapted: «Обманули дурака на четыре кулака» (a mocking rhyme) -> «Тебя обманули» |
+| 7 | Аркадий | Лёша, слушай меня. | Lyosha, listen to me. | new | new: new: Lyosha has come to ask about his console (cue 1183) |
+| 8 | Аркадий | Никакой приставки не будет. | There won't be any console. | #1186: не будет | adapted: «Нет никакого PSP не будет» -> «Никакой приставки не будет» (Cyrillic word for the console) |
+| 9 | Аркадий | Тебя обманули, понял? | You've been fooled, got it? | #1187: понял | adapted: «Обманули дурака на четыре кулака» (a mocking rhyme) -> «Тебя обманули» |
 | 10 | Самсон | Аркадий, ты что? Он же ребёнок. | Arkady, what's got into you? He's just a kid. | new | new: new: a reaction to Arkady's cruelty |
-| 11 | Аня | Славик, дай сюда. | Slavik, give that here. | #1189 01:06:54: Дай сюда | adapted: 'идиот' dropped; 'Славик' added as address |
-| 12 | Аня | Это мой айфон. | That's my iPhone. | #1190 01:06:56: Это мой айфон | adapted: speaker of cue 1190 not marked; given to Arkady, who takes his iPhone back |
+| 11 | Аркадий | Славик, дай сюда. | Slavik, give that here. | #1189: Дай сюда | adapted: 'идиот' dropped; 'Славик' added as address |
+| 12 | Аркадий | Это мой айфон. | That's my iPhone. | #1190: Это мой айфон | adapted: speaker of cue 1190 not marked; given to Arkady, who takes his iPhone back |
 | 13 | Нина | Как твой? Вы же поменялись! | What do you mean, yours? You two swapped! | new | new: new: Arkady traded the iPhone to Slavik in scene 15 |
-| 14 | Аня | Мечтай. | Dream on. | #1191 01:06:58: Мечтай | verbatim |
-| 15 | Аня | Всё, иди отсюда! | That's it, off you go! | #1192 01:06:59: отсюда | adapted: «Брысь мне отсюда!» -> «Всё, иди отсюда!» (to Slavik) |
+| 14 | Аркадий | Мечтай. | Dream on. | #1191: Мечтай | verbatim |
+| 15 | Аркадий | Всё, иди отсюда! | That's it, off you go! | #1192: отсюда | adapted: «Брысь мне отсюда!» -> «Всё, иди отсюда!» (to Slavik) |
 | 16 | Самсон | Что это было? | What was that? | new | new: new: plain stand-in for cue 1194 «Что за ёшкин кот?» |
 | 17 | Нина | Ну вот. Ни работы, ни Крыма, ни айфона. | Well, there you go. No job, no Crimea, and no iPhone. | new | new: new: Nina's wry summing-up |
 

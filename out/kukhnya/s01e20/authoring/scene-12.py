@@ -4,32 +4,31 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 20
 SCENE = 12
-TITLE = "Ожидание столика  (Waiting for a Table)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Ожидание столика  (Waiting for a Table)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "vika": "angelina", "chef": "anja"}
-LABELS = {"vika": "Вика", "chef": "Шеф"}
+LABELS = {'barinov': 'Шеф', 'guest': 'Гость', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.20'
 SOURCE_FILE = 'sources/kukhnya/s01/e20.ru.dual.srt'
 INTRO = 'The hostess is talking to an angry guest who is waiting for a table in the busy restaurant. Then the Chef comes out and talks to the hostess about planning a party for the team.'
 OPENER = "Now let's examine this conversation line by line."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "The hostess agrees to tell the staff about the planned party. The angry guest is still waiting for his table near the door. Next time you watch the episode, listen for the Russian expressions for 'girl' and 'when' — you will catch every word right away. See you next time!"
-CLOSING = ("vika", "Пока!")
+CLOSING = ('vika', 'Пока!')
 STORY = [
-    ('chef', 'Девушка, когда мы сядем за столик?', 'Miss, when will we sit at a table?', [(201, 'Девушка, скажите, когда мы сядем за столик?')], ''),
+    ('guest', 'Девушка, когда мы сядем за столик?', 'Miss, when will we sit at a table?', [(201, 'Девушка, скажите, когда мы сядем за столик?')], ''),
     ('vika', 'Подождите одну минуту, пожалуйста.', 'Wait one minute, please.', [], ''),
-    ('chef', 'Я жду уже двадцать минут!', 'I am already waiting twenty minutes!', [], ''),
+    ('guest', 'Я жду уже двадцать минут!', 'I am already waiting twenty minutes!', [], ''),
     ('vika', 'Извините, ресторан сейчас очень полный.', 'Sorry, the restaurant is very full now.', [], ''),
-    ('chef', 'Вика, как дела в зале?', 'Vika, how are things in the dining room?', [], ''),
+    ('barinov', 'Вика, как дела в зале?', 'Vika, how are things in the dining room?', [], ''),
     ('vika', 'Очень много новых гостей сегодня.', 'Very many new guests today.', [], ''),
-    ('chef', 'Это хорошо, у нас был сложный период.', 'This is good, we had a difficult period.', [], ''),
+    ('barinov', 'Это хорошо, у нас был сложный период.', 'This is good, we had a difficult period.', [], ''),
     ('vika', 'Да, а сейчас у нас много работы.', 'Yes, and now we have a lot of work.', [], ''),
-    ('chef', 'Нам нужно сказать спасибо нашей команде.', 'We need to say thank you to our team.', [], ''),
+    ('barinov', 'Нам нужно сказать спасибо нашей команде.', 'We need to say thank you to our team.', [], ''),
     ('vika', 'Как мы можем это сделать?', 'How can we do this?', [], ''),
-    ('chef', 'Скажи всем, что в субботу будет вечеринка.', 'Tell everyone that on Saturday there will be a party.', [], ''),
+    ('barinov', 'Скажи всем, что в субботу будет вечеринка.', 'Tell everyone that on Saturday there will be a party.', [], ''),
     ('vika', 'Вечеринка для нашей команды? Отлично!', 'A party for our team? Excellent!', [], ''),
-    ('chef', 'Да, после двенадцати ночи.', 'Yes, after twelve at night.', [], ''),
+    ('barinov', 'Да, после двенадцати ночи.', 'Yes, after twelve at night.', [], ''),
     ('vika', 'Хорошо, я скажу всем на кухне.', 'Good, I will tell everyone in the kitchen.', [], ''),
 ]
 WALK = [

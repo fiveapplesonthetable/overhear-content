@@ -1,40 +1,41 @@
-# Знакомство в клубе  (Meeting at the Club) — `kukhnya-s01e01-scene-01`
+# kukhnya-s01e01-scene-01: review sheet
 
-**Source:** Кухня (Kukhnya) S1.01 · `sources/kukhnya/s01/e01.ru.dual.srt`  
-**Target level:** A1 — Duolingo Section 2
+Title: Знакомство в клубе  (Meeting at the Club)
+Level: A1 — Duolingo Section 2
+Pair: ru-en
+Source: Кухня (Kukhnya) S1.01
 
-## Cast
 
-| Role | Voice | Label |
-|---|---|---|
-| `narrator` | sky | — |
-| `vika` | angelina | Вика |
-| `anya` | alisa | Макс |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 1 — Intro
-
-> Aspiring young cook Maksim Lavrov arrives in Moscow dreaming of culinary fame. Outside a crowded nightclub, he steps in to defend a striking young woman named Vika and gets punched in the face. As Vika checks his bruised nose, they strike up an easy conversation and realize they share a passion for the restaurant world. Let's listen to their meeting in Russian first.
-
-## Part 2 — Story
-
-| # | Speaker | Line | English | Source cue(s) | Change |
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 0 | Макс | Девушка, с вами всё в порядке? | Miss, are you all right? | #13 "Слышь, мужик, ты как сейчас девушку ведёшь" |  |
-| 1 | Вика | Да, спасибо за вашу помощь. | Yes, thank you for your help. | *(added)* |  |
-| 2 | Вика | Ой, кажется, у вас сломан нос! | Oh, it looks like your nose is broken! | #15 "А мне кажется, у меня нос сломан" |  |
-| 3 | Макс | Мой нос — это мой главный инструмент. | My nose is my main instrument. | #16 "Это же мой инструмент" |  |
-| 4 | Вика | Почему нос так важен для вас? | Why is your nose so important to you? | *(added)* |  |
-| 5 | Макс | Завтра у меня важное собеседование на работу. | Tomorrow I have an important job interview. | #14 "мне просто на собеседование завтра" |  |
-| 6 | Вика | Кем вы хотите устроиться на работу? | What job do you want to get? | #17 "А ты кем устраиваешься" |  |
-| 7 | Макс | Я хочу работать поваром в ресторане. | I want to work as a cook in a restaurant. | #18 "поваром в ресторан" |  |
-| 8 | Вика | Правда? Я тоже работаю в ресторане! | Really? I work in a restaurant too! | #19 "А я тоже в ресторане работаю", #20 "Да ну? Да" |  |
-| 9 | Макс | Значит, у нас с тобой много общего. | So you and I have a lot in common. | #21 "У нас с тобой много общего" |  |
-| 10 | Вика | Ты очень милый и смелый парень. | You are a very sweet and brave guy. | *(added)* |  |
-| 11 | Макс | Может быть, пойдём выпьем вместе кофе? | Maybe we should go drink coffee together? | *(added)* |  |
-| 12 | Вика | С большим удовольствием, пойдём скорее! | With great pleasure, let's go quickly! | *(added)* |  |
+| 1 | Макс | Девушка, с вами всё в порядке? | Miss, are you all right? | #13: Слышь, мужик, ты как сейчас девушку ведёшь | verbatim |
+| 2 | Вика | Да, спасибо за вашу помощь. | Yes, thank you for your help. | new | new |
+| 3 | Вика | Ой, кажется, у вас сломан нос! | Oh, it looks like your nose is broken! | #15: А мне кажется, у меня нос сломан | verbatim |
+| 4 | Макс | Мой нос — это мой главный инструмент. | My nose is my main instrument. | #16: Это же мой инструмент | verbatim |
+| 5 | Вика | Почему нос так важен для вас? | Why is your nose so important to you? | new | new |
+| 6 | Макс | Завтра у меня важное собеседование на работу. | Tomorrow I have an important job interview. | #14: мне просто на собеседование завтра | verbatim |
+| 7 | Вика | Кем вы хотите устроиться на работу? | What job do you want to get? | #17: А ты кем устраиваешься | verbatim |
+| 8 | Макс | Я хочу работать поваром в ресторане. | I want to work as a cook in a restaurant. | #18: поваром в ресторан | verbatim |
+| 9 | Вика | Правда? Я тоже работаю в ресторане! | Really? I work in a restaurant too! | #19: А я тоже в ресторане работаю<br>#20: Да ну? Да | verbatim |
+| 10 | Макс | Значит, у нас с тобой много общего. | So you and I have a lot in common. | #21: У нас с тобой много общего | verbatim |
+| 11 | Вика | Ты очень милый и смелый парень. | You are a very sweet and brave guy. | new | new |
+| 12 | Макс | Может быть, пойдём выпьем вместе кофе? | Maybe we should go drink coffee together? | new | new |
+| 13 | Вика | С большим удовольствием, пойдём скорее! | With great pleasure, let's go quickly! | new | new |
 
-## Part 5 — Outro & closing
+## Walk-through narration (English only, no target-language words quoted)
 
-> That wraps up this scene from Kukhnya. Listen for these everyday Russian expressions when you watch the episode. See you next time!
-
-**Макс:** Пока!
+- 'Miss, are you all right?' Max turns a statement into a question purely through rising intonation on the word meaning 'miss', followed by 'order'.
+- 'Yes, thank you for your help.' Russian omits the present-tense verb 'to be' here, linking 'thank you' directly with 'help', combining 'thank you' with 'help'.
+- 'Oh, it looks like your nose is broken!' Vika uses the classic Russian possession phrasing — literally 'at you' rather than a verb meaning 'to have', combining 'oh' with 'it seems' and 'broken'.
+- 'My nose is my main instrument.' Russian omits the present-tense verb 'to be' here, linking 'nose' directly with 'main', combining 'nose' with 'main' and 'instrument'.
+- 'Why is your nose so important to you?' Russian omits the present-tense verb 'to be' here, linking 'why' directly with 'nose', combining 'why' with 'nose' and 'so'.
+- 'Tomorrow I have an important job interview.' Max uses the classic Russian possession phrasing — literally 'at me' rather than a verb meaning 'to have', combining 'tomorrow' with 'important' and 'interview'.
+- 'What job do you want to get?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'I want to work as a cook in a restaurant.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'Really? I work in a restaurant too!' Vika puts the word for 'really' together with 'also' and 'work' in a crisp, natural spoken turn of phrase.
+- 'So you and I have a lot in common.' Max uses the classic Russian possession phrasing — literally 'at us' rather than a verb meaning 'to have', combining 'so' with 'much' and 'common'.
+- 'You are a very sweet and brave guy.' Vika compliments his courage with descriptive adjectives.
+- 'Maybe we should go drink coffee together?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'With great pleasure, let's go quickly!' Vika puts the word for 'great' together with 'pleasure' and 'let's go' in a crisp, natural spoken turn of phrase.

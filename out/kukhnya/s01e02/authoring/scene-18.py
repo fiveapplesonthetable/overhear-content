@@ -4,31 +4,30 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 2
 SCENE = 18
-TITLE = "Матч на кухне  (Match in the Kitchen)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Матч на кухне  (Match in the Kitchen)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "senya": "angelina", "chef": "anja"}
-LABELS = {"senya": "Сеня", "chef": "Шеф"}
+LABELS = {'barinov': 'Шеф', 'senya': 'Сеня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.02'
 SOURCE_FILE = 'sources/kukhnya/s01/e02.ru.dual.srt'
 INTRO = "In his kitchen office, Chef Viktor is glued to the television watching the Moscow football derby between Spartak and CSKA. Line cook Senya asks about dinner service, but the chef is completely absorbed in the tense play near the goal. Let's listen to their exchange in Russian first."
 OPENER = "Let's examine the dialogue line by line. Notice the exciting sports vocabulary and the chef's intense football passion."
 TRANSITION = "Now let's listen to the entire exchange one more time at normal conversational speed."
 OUTRO = "Chef Barinov's love of football brings lively energy to Claude Monet between stressful dinner orders. See you next time!"
-CLOSING = ("chef", "Пока!")
+CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('senya', 'Шеф, пора начинать готовить горячие блюда?', 'Chef, is it time to start preparing hot dishes?', [], ''),
-    ('chef', 'Тихо, Сеня! Сейчас идёт решающий матч!', 'Quiet, Senya! A decisive match is on right now!', [], ''),
+    ('barinov', 'Тихо, Сеня! Сейчас идёт решающий матч!', 'Quiet, Senya! A decisive match is on right now!', [], ''),
     ('senya', 'Кто сегодня играет на этом матче?', 'Who is playing in this match today?', [], ''),
-    ('chef', 'Наш великий Спартак играет против ЦСКА!', 'Our great Spartak is playing against CSKA!', [], ''),
+    ('barinov', 'Наш великий Спартак играет против ЦСКА!', 'Our great Spartak is playing against CSKA!', [], ''),
     ('senya', 'И какой сейчас счёт в игре?', 'And what is the score in the game now?', [], ''),
-    ('chef', 'Пока ничья, но мы должны победить!', 'A draw so far, but we must win!', [], ''),
+    ('barinov', 'Пока ничья, но мы должны победить!', 'A draw so far, but we must win!', [], ''),
     ('senya', 'Смотрите, мяч летит к их воротам!', 'Look, the ball is flying toward their goal!', [], ''),
-    ('chef', 'У чужой штрафной площади ЦСКА держит оборону.', 'Near the opponent penalty area CSKA is holding defense.', [(209, 'держит оборону')], ''),
+    ('barinov', 'У чужой штрафной площади ЦСКА держит оборону.', 'Near the opponent penalty area CSKA is holding defense.', [(209, 'держит оборону')], ''),
     ('senya', 'Нападающий Спартака получает быстрый пас.', 'The Spartak forward receives a fast pass.', [], ''),
-    ('chef', 'Давай, Ари с мячом сильно бьёт!', 'Come on, Ari with the ball shoots hard!', [(210, 'бьет')], ''),
+    ('barinov', 'Давай, Ари с мячом сильно бьёт!', 'Come on, Ari with the ball shoots hard!', [(210, 'бьет')], ''),
     ('senya', 'Вратарь с трудом ловит этот мяч.', 'The goalkeeper catches this ball with difficulty.', [], ''),
-    ('chef', 'Какой опасный и красивый был момент!', 'What a dangerous and beautiful moment it was!', [], ''),
+    ('barinov', 'Какой опасный и красивый был момент!', 'What a dangerous and beautiful moment it was!', [], ''),
     ('senya', 'А теперь пора вернуться к нашей кухне.', 'And now it is time to return to our kitchen.', [], ''),
 ]
 WALK = [

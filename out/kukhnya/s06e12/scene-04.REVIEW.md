@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Шеф | Добрый день, Денис, вас приветствует наш ювелирный магазин. | Good afternoon, Denis, our jewelry store welcomes you. | #60 00:04:02: Добрый день, Денис. Вас приветствует ювелирный | adapted: adapted |
-| 2 | Шеф | Поздравляем, вы выиграли большую скидку пятьдесят процентов. | Congratulations, you won a big fifty-percent discount. | #61 00:04:05: Поздравляем, ваш номер был в нашей базе, вы выиграли | adapted: adapted |
-| 3 | Шеф | Эта специальная скидка действует только на золотые кольца. | This special discount applies only to gold rings. | #62 00:04:10: Скидка действует только на кольца | adapted: adapted |
-| 4 | Шеф | Если вы собираетесь подарить девушке красивое кольцо. | If you are planning to give a girl a beautiful ring. | #63 00:04:12: Если вы собираетесь подарить кому-то кольцо | adapted: adapted |
-| 5 | Шеф | Не упустите шанс, я пришлю вам адрес сайта. | Do not miss the chance, I will send you the website address. | #64 00:04:17: не упустите этот шанс<br>#64 00:04:17: я пришлю вам адрес нашего сайта | adapted: adapted |
-| 6 | Шеф | Да, хорошо, большое спасибо вам за звонок. | Yes, alright, thank you very much for calling. | #65 00:04:20: Да, хорошо, спасибо | adapted: adapted |
-| 7 | Шеф | Ничего, этот букмекер ещё не такой крепкий орешек. | It is fine, this bookmaker is not such a tough nut to crack. | #66 00:04:25: Ничего, ничего. Тоже мне крепкий орешек | adapted: adapted |
-| 8 | Шеф | Ради такого выигрыша я точно смогу его разговорить. | For such a payout I will definitely be able to make him talk. | #67 00:04:28: я смогу его расколоть | adapted: adapted |
-| 9 | Шеф | В основе сыворотки правды лежит экстракт белладонны. | At the base of the truth serum lies belladonna extract. | #68 00:04:40: В основе | adapted: adapted |
-| 10 | Шеф | Тимур, привет, мне сегодня срочно нужна белладонна. | Timur, hi, I urgently need belladonna today. | #70 00:04:50: Тимур, привет. Мне срочно нужна | adapted: adapted |
-| 11 | Шеф | Да нет, Тимур, это совсем не женщина! | Why no, Timur, it is not a woman at all! | #71 00:04:54: Да нет, не женщина | adapted: adapted |
-| 12 | Шеф | Это просто такая редкая полезная трава для кухни. | It is just such a rare useful herb for the kitchen. | #72 00:04:56: Трава такая | adapted: adapted |
+| 1 | Гость | Добрый день, Денис, вас приветствует наш ювелирный магазин. | Good afternoon, Denis, our jewelry store welcomes you. | #60: Добрый день, Денис. Вас приветствует ювелирный | adapted: adapted |
+| 2 | Гость | Поздравляем, вы выиграли большую скидку пятьдесят процентов. | Congratulations, you won a big fifty-percent discount. | #61: Поздравляем, ваш номер был в нашей базе, вы выиграли | adapted: adapted |
+| 3 | Гость | Эта специальная скидка действует только на золотые кольца. | This special discount applies only to gold rings. | #62: Скидка действует только на кольца | adapted: adapted |
+| 4 | Гость | Если вы собираетесь подарить девушке красивое кольцо. | If you are planning to give a girl a beautiful ring. | #63: Если вы собираетесь подарить кому-то кольцо | adapted: adapted |
+| 5 | Гость | Не упустите шанс, я пришлю вам адрес сайта. | Do not miss the chance, I will send you the website address. | #64: не упустите этот шанс<br>#64: я пришлю вам адрес нашего сайта | adapted: adapted |
+| 6 | Денис | Да, хорошо, большое спасибо вам за звонок. | Yes, alright, thank you very much for calling. | #65: Да, хорошо, спасибо | adapted: adapted |
+| 7 | Шеф | Ничего, этот букмекер ещё не такой крепкий орешек. | It is fine, this bookmaker is not such a tough nut to crack. | #66: Ничего, ничего. Тоже мне крепкий орешек | adapted: adapted |
+| 8 | Шеф | Ради такого выигрыша я точно смогу его разговорить. | For such a payout I will definitely be able to make him talk. | #67: я смогу его расколоть | adapted: adapted |
+| 9 | Шеф | В основе сыворотки правды лежит экстракт белладонны. | At the base of the truth serum lies belladonna extract. | #68: В основе | adapted: adapted |
+| 10 | Шеф | Тимур, привет, мне сегодня срочно нужна белладонна. | Timur, hi, I urgently need belladonna today. | #70: Тимур, привет. Мне срочно нужна | adapted: adapted |
+| 11 | Шеф | Да нет, Тимур, это совсем не женщина! | Why no, Timur, it is not a woman at all! | #71: Да нет, не женщина | adapted: adapted |
+| 12 | Шеф | Это просто такая редкая полезная трава для кухни. | It is just such a rare useful herb for the kitchen. | #72: Трава такая | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good afternoon, Denis, our jewelry store welcomes you.' the guest brings out the contrast between 'good' and 'day' in a few short words.
-- 'Congratulations, you won a big fifty-percent discount.' the guest anchors the line on 'to congratulate', while 'percent' completes the thought.
-- 'This special discount applies only to gold rings.' The grammar packs 'this' and 'of a ring' into a tight, idiomatic kitchen exchange.
-- 'If you are planning to give a girl a beautiful ring.' the guest anchors the line on 'if', while 'ring' completes the thought.
-- 'Do not miss the chance, I will send you the website address.' The grammar packs 'not' and 'website' into a tight, idiomatic kitchen exchange.
-- 'Yes, alright, thank you very much for calling.' Notice how Russian expresses 'yes' and 'call' with crisp inflection rather than helper words. Chef Barinov answers right away.
-- 'It is fine, this bookmaker is not such a tough nut to crack.' Notice how Russian expresses 'nothing' and 'nut' with crisp inflection rather than helper words.
-- 'For such a payout I will definitely be able to make him talk.' Here the Russian phrasing highlights 'for the sake of' before landing on 'to get talking'.
-- 'At the base of the truth serum lies belladonna extract.' Chef Barinov brings out the contrast between 'foundation' and 'of the serum' in a few short words.
-- 'Timur, hi, I urgently need belladonna today.' Chef Barinov anchors the line on 'Timur', while 'belladonna' completes the thought.
-- 'Why no, Timur, it is not a woman at all!' The grammar packs 'yes' and 'woman' into a tight, idiomatic kitchen exchange.
-- 'It is just such a rare useful herb for the kitchen.' The meaning hinges on 'this' working together with 'kitchen' in spoken Russian.
+- 'Good afternoon, Denis, our jewelry store welcomes you.' Between the friend and the order, the guest gives Barinov a quick, grounded response.
+- 'Congratulations, you won a big fifty-percent discount.' The guest reminds Barinov that congratulations Barinov won a big fifty percent discount before the moment passes. Notice how he sticks to the formal "you", keeping a professional line between them.
+- 'This special discount applies only to gold rings.' Around the friend and moment, the guest sets a calm, everyday tone with Barinov.
+- 'If you are planning to give a girl a beautiful ring.' Explaining that if Barinov is planning to give a girl a beautiful ring lays the cards on the table for Barinov.
+- 'Do not miss the chance, I will send you the website address.' The guest reminds Barinov that do not miss the chance he will send Barinov the website address before the moment passes. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
+- 'Yes, alright, thank you very much for calling.' With the office and friend in play, Denis keeps this short reply brisk and direct. Notice how he sticks to the formal "you", keeping a professional line between them.
+- 'It is fine, this bookmaker is not such a tough nut to crack.' Pointing out that it is fine this bookmaker is not such a tough nut to crack gives Denis a sobering reality check.
+- 'For such a payout I will definitely be able to make him talk.' Barinov explains that for such a payout he will definitely be able to make him talk, keeping his voice calm and direct.
+- 'At the base of the truth serum lies belladonna extract.' Realizing that at the base of the truth serum lies belladonna extract changes how Barinov handles the situation.
+- 'Timur, hi, I urgently need belladonna today.' With the order and call in play, Barinov keeps this short reply brisk and direct.
+- 'Why no, Timur, it is not a woman at all!' Barinov declares that why no Timur it is not a woman at all as the tension in the room peaks. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'It is just such a rare useful herb for the kitchen.' Admitting that it is just such a rare useful herb for the kitchen shows Barinov being honest for a change. Russian drops "is" in the present, setting the two halves of the thought side by side.

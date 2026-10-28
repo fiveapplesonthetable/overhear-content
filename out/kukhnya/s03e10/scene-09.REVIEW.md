@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Сеня | Шеф, там в зале красотка сидит. | Chef, there is a beauty sitting in the dining room. | #135 00:11:00: Шеф, там в зале такая красотка сидит | adapted: adapted |
-| 2 | Сеня | Мы в вас верим, всё получится. | We believe in you, everything will work out. | #138 00:11:06: мы у вас верим, у вас все получится | adapted: adapted |
-| 3 | Сеня | Потому что вы красивый и умный. | Because you are handsome and smart. | #139 00:11:10: потому что вы такой красивый<br>#140 00:11:12: Умный | adapted: adapted |
-| 4 | Шеф | Добрый день, я шеф-повар этого ресторана. | Good afternoon, I am the head chef of this restaurant. | #143 00:11:22: Добрый день, я шеф-повар этого ресторана | adapted: adapted |
-| 5 | Шеф | Могу я вам что-нибудь предложить? | May I offer you something? | #144 00:11:25: Могу вам что-нибудь предложить | adapted: adapted |
-| 6 | Шеф | Ой, это же вы ведёте кулинарное шоу! | Oh, you are the one who hosts the cooking show! | #145 00:11:27: Ой, это же вы<br>#146 00:11:29: ведете кулинарное шоу | adapted: adapted |
-| 7 | Шеф | Это было давно, я был молод. | That was a long time ago, I was young. | #147 00:11:32: Ну, это было давно, я был молод | adapted: adapted |
-| 8 | Шеф | Меня Света зовут, а вас как? | My name is Sveta, and what is yours? | #148 00:11:35: Меня Света зовут | adapted: adapted |
-| 9 | Шеф | Меня зовут Виктор Петрович Баринов. | My name is Victor Petrovich Barinov. | #149 00:11:37: Виктор Петрович | adapted: adapted |
-| 10 | Шеф | Как официально, составите мне компанию? | How formal, will you keep me company? | #149 00:11:37: Как официально<br>#150 00:11:40: вы не составите мне компанию | adapted: adapted |
-| 11 | Шеф | Витя, ты такой смешной мужчина! | Vitya, you are such a funny man! | #154 00:11:57: Вить, ты такой смешной | adapted: adapted |
-| 12 | Шеф | Светочка, я на минутку отойду, не скучайте. | Svetochka, I will step away for a minute, do not be bored. | #155 00:12:03: Светочка, я сейчас на одну минутку отойду, а вы тут не скучайте | adapted: adapted |
+| 1 | Сеня | Шеф, там в зале красотка сидит. | Chef, there is a beauty sitting in the dining room. | #135: Шеф, там в зале такая красотка сидит | adapted: adapted |
+| 2 | Сеня | Мы в вас верим, всё получится. | We believe in you, everything will work out. | #138: мы у вас верим, у вас все получится | adapted: adapted |
+| 3 | Сеня | Потому что вы красивый и умный. | Because you are handsome and smart. | #139: потому что вы такой красивый<br>#140: Умный | adapted: adapted |
+| 4 | Шеф | Добрый день, я шеф-повар этого ресторана. | Good afternoon, I am the head chef of this restaurant. | #143: Добрый день, я шеф-повар этого ресторана | adapted: adapted |
+| 5 | Шеф | Могу я вам что-нибудь предложить? | May I offer you something? | #144: Могу вам что-нибудь предложить | adapted: adapted |
+| 6 | Гость | Ой, это же вы ведёте кулинарное шоу! | Oh, you are the one who hosts the cooking show! | #145: Ой, это же вы<br>#146: ведете кулинарное шоу | adapted: adapted |
+| 7 | Шеф | Это было давно, я был молод. | That was a long time ago, I was young. | #147: Ну, это было давно, я был молод | adapted: adapted |
+| 8 | Гость | Меня Света зовут, а вас как? | My name is Sveta, and what is yours? | #148: Меня Света зовут | adapted: adapted |
+| 9 | Шеф | Меня зовут Виктор Петрович Баринов. | My name is Victor Petrovich Barinov. | #149: Виктор Петрович | adapted: adapted |
+| 10 | Гость | Как официально, составите мне компанию? | How formal, will you keep me company? | #149: Как официально<br>#150: вы не составите мне компанию | adapted: adapted |
+| 11 | Гость | Витя, ты такой смешной мужчина! | Vitya, you are such a funny man! | #154: Вить, ты такой смешной | adapted: adapted |
+| 12 | Шеф | Светочка, я на минутку отойду, не скучайте. | Svetochka, I will step away for a minute, do not be bored. | #155: Светочка, я сейчас на одну минутку отойду, а вы тут не скучайте | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, there is a beauty sitting in the dining room.' Senya anchors the line on 'Chef Barinov', while 'is sitting' completes the thought.
-- 'We believe in you, everything will work out.' The grammar packs 'we' and 'will work out' into a tight, idiomatic kitchen exchange.
-- 'Because you are handsome and smart.' In Russian, the idea of 'that is why' flows naturally into 'smart' without extra filler words.
-- 'Good afternoon, I am the head chef of this restaurant.' In Russian, the idea of 'good' flows naturally into 'restaurant' without extra filler words.
-- 'May I offer you something?' Chef Barinov anchors the line on 'can', while 'to offer' completes the thought.
-- 'Oh, you are the one who hosts the cooking show!' The grammar packs 'oh' and 'show' into a tight, idiomatic kitchen exchange.
-- 'That was a long time ago, I was young.' Notice how Russian expresses 'this' and 'young' with crisp inflection rather than helper words. the guest answers right away.
-- 'My name is Sveta, and what is yours?' The grammar packs 'me' and 'how' into a tight, idiomatic kitchen exchange.
-- 'My name is Victor Petrovich Barinov.' Chef Barinov anchors the line on 'me', while 'is called' completes the thought.
-- 'How formal, will you keep me company?' the guest raises the pitch on 'company' to turn the phrase into a direct spoken question.
-- 'Vitya, you are such a funny man!' the guest brings out the contrast between 'Vitya' and 'you' in a few short words.
-- 'Svetochka, I will step away for a minute, do not be bored.' In Russian, the idea of 'Svetochka' flows naturally into 'be bored' without extra filler words.
+- 'Chef, there is a beauty sitting in the dining room.' Even though there is a beauty sitting in the dining room, Senya keeps a steady face in front of Barinov.
+- 'We believe in you, everything will work out.' Claiming that they believe in Barinov everything will work out sounds confident, even if Barinov has doubts.
+- 'Because you are handsome and smart.' Saying that because Barinov is handsome and smart is how Senya sets the tone with Barinov. Notice how he sticks to the formal "you", keeping a professional line between them.
+- 'Good afternoon, I am the head chef of this restaurant.' Because he is the head of this restaurant, Barinov treats the matter as settled.
+- 'May I offer you something?' Barinov asks whether may he offers the guest something, refusing to let the point slide.
+- 'Oh, you are the one who hosts the cooking show!' Insisting that Barinov is the one who hosts the cooking show shows the guest is not backing down. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
+- 'That was a long time ago, I was young.' Since that was a long time ago he was young, Barinov does not waste words on excuses. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'My name is Sveta, and what is yours?' Wondering if his name is Sveta and what is shows the guest caught off guard.
+- 'My name is Victor Petrovich Barinov.' Barinov reminds the guest that his name is Victor Petrovich Barinov before the moment passes.
+- 'How formal, will you keep me company?' When the guest asks if how formal will Barinov keeps him company, Barinov has to answer fast. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Vitya, you are such a funny man!' The guest declares that Barinov is such a funny man as the tension in the room peaks.
+- 'Svetochka, I will step away for a minute, do not be bored.' Barinov mentions that someone he will step away for a minute do not be bored so the guest sees what is at stake.

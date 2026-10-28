@@ -4,31 +4,30 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 19
 SCENE = 13
-TITLE = "Инвалиды  (The Cripples)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Инвалиды  (The Cripples)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "anya": "alisa", "fedya": "anja", "senya": "angelina"}
-LABELS = {"anya": "Макс", "fedya": "Федя", "senya": "Сеня"}
+LABELS = {'fedya': 'Федя', 'max': 'Макс', 'senya': 'Сеня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.19'
 SOURCE_FILE = 'sources/kukhnya/s01/e19.ru.dual.srt'
 INTRO = "Max and the other cooks are taking a quick break in the kitchen. They are just standing around chatting when Senya and Fedya walk in and mock them for being lazy. Let's listen."
 OPENER = "Now let's go back through the exchange around The Cripples line by line and unpack how the Russian works."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "The kitchen is always a battlefield. Next time you watch the episode, listen for the Russian expressions for 'very' and 'to get tired' — you will catch every word right away. See you next time!"
-CLOSING = ("anya", "До встречи!")
+CLOSING = ('max', 'До встречи!')
 STORY = [
-    ('anya', 'Я очень устал сегодня.', 'I am very tired today.', [], ''),
-    ('anya', 'Мы много работали утром.', 'We worked a lot in the morning.', [], ''),
-    ('anya', 'Давайте немного отдохнем.', "Let's rest a bit.", [], ''),
+    ('max', 'Я очень устал сегодня.', 'I am very tired today.', [], ''),
+    ('max', 'Мы много работали утром.', 'We worked a lot in the morning.', [], ''),
+    ('max', 'Давайте немного отдохнем.', "Let's rest a bit.", [], ''),
     ('senya', 'Привет, повара!', 'Hello, cooks!', [], ''),
     ('fedya', 'Что встали, инвалиды?', 'What are you standing around for, cripples?', [(233, 'Что встали, инвалиды')], ''),
     ('fedya', 'Не видите?', "Can't you see?", [(234, 'Не видите')], ''),
     ('senya', 'Профессионалы пришли.', 'The pros are here.', [(235, 'Профессионалы пришли')], ''),
-    ('anya', 'Вы не профессионалы.', 'You are not professionals.', [], ''),
-    ('anya', 'Вы просто много говорите.', 'You just talk a lot.', [], ''),
+    ('max', 'Вы не профессионалы.', 'You are not professionals.', [], ''),
+    ('max', 'Вы просто много говорите.', 'You just talk a lot.', [], ''),
     ('fedya', 'Мы говорим правду.', 'We are telling the truth.', [], ''),
     ('senya', 'Идите работать!', 'Go to work!', [], ''),
-    ('anya', 'Хорошо, мы идем.', 'Okay, we are going.', [], ''),
+    ('max', 'Хорошо, мы идем.', 'Okay, we are going.', [], ''),
 ]
 WALK = [
     (0, None, "'I am very tired today.' Max starts by complaining. The word for 'tired' is an adjective, and here it is in the matching form because Max is a guy. We use 'is' in English, but Russian skips it."),

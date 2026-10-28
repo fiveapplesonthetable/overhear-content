@@ -4,18 +4,17 @@ SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 1
 SCENE = 18
-TITLE = "Записка  (The Note)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Записка  (The Note)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "vika": "angelina"}
-LABELS = {"vika": "Вика"}
+LABELS = {'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S2.01'
 SOURCE_FILE = 'sources/kukhnya/s02/e01.ru.dual.srt'
 INTRO = "Victoria reads the strange note she received from Kostya. She quickly realizes it is from Max and becomes annoyed by his dramatic behavior. Let's listen closely to their conversation in Russian first, and then walk through each line together."
 OPENER = "Now let's go back through the exchange around The Note line by line and unpack how the Russian works."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Angry and determined, Victoria decides to find Max and put an end to his childish games once and for all. Next time you watch the episode, listen for the Russian expressions for 'strange' and 'note' — you will catch every word right away. See you next time!"
-CLOSING = ("vika", "Пока!")
+CLOSING = ('vika', 'Пока!')
 STORY = [
     ('vika', 'Что это за странная записка?', 'What is this strange note?', [], ''),
     ('vika', 'Посмотрим, что он здесь написал.', "Let's see what he wrote here.", [], ''),

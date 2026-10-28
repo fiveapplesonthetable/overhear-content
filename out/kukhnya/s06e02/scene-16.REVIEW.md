@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Гуля | Лёва, ты жив? | Lyova, are you alive? | #263 00:18:34: ты жив? | adapted: adapted |
-| 2 | Лёва | Да, подожди секунду. | Yes, wait a second. | #263 00:18:34: Да, да, да, подожди | adapted: adapted |
-| 3 | Лёва | Чуть не заметила меня. | She almost spotted me. | #266 00:19:02: Чуть не заметила | adapted: adapted |
-| 4 | Гуля | Кто не заметил? | Who almost spotted you? | #266 00:19:02: Кто? | adapted: adapted |
-| 5 | Лёва | Да мама моя. | Why, my mom. | #267 00:19:04: Да, мама моя | adapted: exact |
-| 6 | Гуля | А, я поняла, ты меня стесняешься? | Ah, I get it, are you ashamed of me? | #268 00:19:06: А, я поняла<br>#269 00:19:11: Ты меня стесняешься? | adapted: adapted |
-| 7 | Гуля | Мы должны встречаться так, чтобы никто не видел? | Must we meet so that nobody sees us? | #270 00:19:13: Мы должны встречаться так, чтобы никто не видел | adapted: exact |
-| 8 | Лёва | Нет, ты самая красивая девушка на свете. | No, you are the most beautiful girl in the world. | #272 00:19:20: самый красивый на свете | adapted: adapted |
-| 9 | Лёва | Я просто маме наврал, что я на работе. | I simply lied to my mom that I was at work. | #273 00:19:24: Я просто маме наврал, что я на работе | adapted: exact |
-| 10 | Гуля | Лёва, ты чего делаешь? | Lyova, what are you doing? | #275 00:19:33: ты чего | adapted: adapted |
-| 11 | Лёва | Хочу тебя поцеловать. | I want to kiss you. | #276 00:19:38: Сейчас увидишь | adapted: adapted |
-| 12 | Лёва | Сейчас сама увидишь. | You will see for yourself right now. | #276 00:19:38: Сейчас увидишь | adapted: adapted |
+| 1 | Гуля | Лёва, ты жив? | Lyova, are you alive? | #263: ты жив? | adapted: adapted |
+| 2 | Лёва | Да, подожди секунду. | Yes, wait a second. | #263: Да, да, да, подожди | adapted: adapted |
+| 3 | Лёва | Чуть не заметила меня. | She almost spotted me. | #266: Чуть не заметила | adapted: adapted |
+| 4 | Гуля | Кто не заметил? | Who almost spotted you? | #266: Кто? | adapted: adapted |
+| 5 | Лёва | Да мама моя. | Why, my mom. | #267: Да, мама моя | adapted: exact |
+| 6 | Гуля | А, я поняла, ты меня стесняешься? | Ah, I get it, are you ashamed of me? | #268: А, я поняла<br>#269: Ты меня стесняешься? | adapted: adapted |
+| 7 | Гуля | Мы должны встречаться так, чтобы никто не видел? | Must we meet so that nobody sees us? | #270: Мы должны встречаться так, чтобы никто не видел | adapted: exact |
+| 8 | Лёва | Нет, ты самая красивая девушка на свете. | No, you are the most beautiful girl in the world. | #272: самый красивый на свете | adapted: adapted |
+| 9 | Лёва | Я просто маме наврал, что я на работе. | I simply lied to my mom that I was at work. | #273: Я просто маме наврал, что я на работе | adapted: exact |
+| 10 | Гуля | Лёва, ты чего делаешь? | Lyova, what are you doing? | #275: ты чего | adapted: adapted |
+| 11 | Лёва | Хочу тебя поцеловать. | I want to kiss you. | #276: Сейчас увидишь | adapted: adapted |
+| 12 | Лёва | Сейчас сама увидишь. | You will see for yourself right now. | #276: Сейчас увидишь | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lyova, are you alive?' In Russian, the idea of 'Lyova' flows naturally into 'alive' without extra filler words.
-- 'Yes, wait a second.' Spoken Russian keeps this brisk, leaning on 'yes' and finishing on 'second'.
-- 'She almost spotted me.' In Russian, the idea of 'almost' flows naturally into 'me' without extra filler words. Gulya answers right away.
-- 'Who almost spotted you?' The negative particle sits right before the verb meaning 'noticed' to negate the statement.
-- 'Why, my mom.' Lyova brings out the contrast between 'yes' and 'mom' in a few short words.
-- 'Ah, I get it, are you ashamed of me?' Spoken Russian keeps this brisk, leaning on 'and' and finishing on 'are ashamed'.
-- 'Must we meet so that nobody sees us?' The negative particle sits right before the verb meaning 'to date' to negate the statement.
-- 'No, you are the most beautiful girl in the world.' In Russian, the idea of 'no' flows naturally into 'world' without extra filler words.
-- 'I simply lied to my mom that I was at work.' Spoken Russian keeps this brisk, leaning on 'I' and finishing on 'work'. Gulya answers right away.
-- 'Lyova, what are you doing?' Spoken Russian keeps this brisk, leaning on 'Lyova' and finishing on 'are doing'.
-- 'I want to kiss you.' The grammar packs 'want' and 'to kiss' into a tight, idiomatic kitchen exchange.
-- 'You will see for yourself right now.' Here the Russian phrasing highlights 'now' before landing on 'see'.
+- 'Lyova, are you alive?' By checking whether Lyova alive, Gulya presses Lyova for a straight answer.
+- 'Yes, wait a second.' Over the room and the situation, Lyova answers Gulya without a second thought.
+- 'She almost spotted me.' Between the situation and the truth, Lyova gives Gulya a quick, grounded response.
+- 'Who almost spotted you?' With the point and work hanging in the air, Gulya puts Lyova on the spot.
+- 'Why, my mom.' With the situation and work in play, Lyova keeps this short reply brisk and direct.
+- 'Ah, I get it, are you ashamed of me?' Questioning whether she gets it are Lyova ashamed is how Gulya tests Lyova's story. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Must we meet so that nobody sees us?' Wondering if must they meet so that nobody sees them shows Gulya caught off guard.
+- 'No, you are the most beautiful girl in the world.' Once Gulya is the most beautiful girl in the world, Lyova can finally tell Gulya what he means. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'I simply lied to my mom that I was at work.' Adding that he simply lied to his that he was at work fills in the missing piece for Gulya.
+- 'Lyova, what are you doing?' Asking what Lyova doing is cuts straight through the tension between Gulya and Lyova.
+- 'I want to kiss you.' Admitting that he wants to kiss Gulya shows Lyova being honest for a change. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'You will see for yourself right now.' Mentioning that Gulya will see for themselves right now moves the talk in a new direction.

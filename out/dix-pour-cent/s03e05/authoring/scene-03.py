@@ -7,8 +7,7 @@ SCENE = 3
 TITLE = "Les trente ans d'ASK  (Thirty Years of ASK)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'mathias': 'marcel', 'lea': 'lucie'}
-LABELS = {'mathias': 'Mathias', 'lea': 'Andréa'}
+LABELS = {'hicham': 'Hicham', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e05.fr.dual.srt'
 INTRO = "At the ASK office, senior agent Mathias Barneville walks executive director Hicham Janowski through party plans. Insisting on celebrating the agency's thirtieth anniversary right at the firm, Mathias shares the founding history of the company. Let's listen to the scene in French first."
@@ -18,19 +17,19 @@ OUTRO = "Hicham agrees to host the milestone celebration inside the agency, touc
 CLOSING = ('mathias', 'Au revoir!')
 STORY = [
     ('mathias', "Voici mon projet pour la fête d'ASK.", 'Here is my project for the ASK party.', [(46, 'les gens arrivent')], ''),
-    ('lea', "Comment prévois-tu d'accueillir les invités?", 'How do you plan to welcome the guests?', [(48, 'petite coupe')], ''),
+    ('hicham', "Comment prévois-tu d'accueillir les invités?", 'How do you plan to welcome the guests?', [(48, 'petite coupe')], ''),
     ('mathias', 'Une coupe de champagne de bienvenue.', 'A welcome glass of champagne.', [(48, 'petite coupe')], ''),
-    ('lea', 'Et ensuite, où vont les gens?', 'And next, where do people go?', [(49, 'sur la terrasse avec vue sur tout Paris')], ''),
+    ('hicham', 'Et ensuite, où vont les gens?', 'And next, where do people go?', [(49, 'sur la terrasse avec vue sur tout Paris')], ''),
     ('mathias', 'Tout le monde monte sur la terrasse.', 'Everyone goes up to the terrace.', [(49, 'sur la terrasse avec vue sur tout Paris')], ''),
-    ('lea', 'Pourquoi ne pas louer un grand lieu?', 'Why not rent a large venue?', [(51, "les 30 ans de l'agence dans un grand lieu")], ''),
+    ('hicham', 'Pourquoi ne pas louer un grand lieu?', 'Why not rent a large venue?', [(51, "les 30 ans de l'agence dans un grand lieu")], ''),
     ('mathias', 'Je veux fêter nos trente ans ici.', 'I want to celebrate our thirty years here.', [(51, "les 30 ans de l'agence dans un grand lieu")], ''),
-    ('lea', 'Je suis prêt à payer le prix.', 'I am ready to pay the price.', [(52, "je suis prêt à mettre les moyens qu'il faut")], ''),
+    ('hicham', 'Je suis prêt à payer le prix.', 'I am ready to pay the price.', [(52, "je suis prêt à mettre les moyens qu'il faut")], ''),
     ('mathias', "Regarde, c'est ici qu'on a commencé.", 'Look, this is where we started.', [(54, "C'est ici qu'on a commencé avec Samuel")], ''),
-    ('lea', 'Vous aviez commencé dans cette pièce?', 'You had started in this room?', [(55, 'On louait un petit studio')], ''),
+    ('hicham', 'Vous aviez commencé dans cette pièce?', 'You had started in this room?', [(55, 'On louait un petit studio')], ''),
     ('mathias', 'Samuel et moi partagions ce petit studio.', 'Samuel and I shared this small studio.', [(55, 'On louait un petit studio')], ''),
-    ('lea', "C'est une belle histoire pour l'agence.", 'That is a lovely story for the agency.', [(54, "C'est ici qu'on a commencé avec Samuel")], ''),
+    ('hicham', "C'est une belle histoire pour l'agence.", 'That is a lovely story for the agency.', [(54, "C'est ici qu'on a commencé avec Samuel")], ''),
     ('mathias', 'Cette fête aura une valeur sentimentale unique.', 'This party will have a unique sentimental value.', [(50, 'je vais pas me battre avec toi là-dessus')], ''),
-    ('lea', "D'accord Mathias, organisons tout sur place.", 'Agreed Mathias, let us organize everything on site.', [(50, 'je vais pas me battre avec toi là-dessus')], ''),
+    ('hicham', "D'accord Mathias, organisons tout sur place.", 'Agreed Mathias, let us organize everything on site.', [(50, 'je vais pas me battre avec toi là-dessus')], ''),
 ]
 WALK = [
     (0, None, "'Here is my project for the ASK party.' A direct presentation introducing the event layout. The key noun here means 'project', anchored by its matching French article."),

@@ -5,32 +5,31 @@ SEASON = 1
 EPISODE = 4
 SCENE = 6
 TITLE = "Гнев шефа  (The Chef's Wrath)"
-LEVEL = "A1 — Duolingo Section 2"
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "chef": "anja", "anya": "alisa", "elena": "angelina"}
-LABELS = {"chef": "Шеф", "anya": "Макс", "elena": "Елена"}
+LABELS = {'barinov': 'Шеф', 'elena': 'Елена', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.04'
 SOURCE_FILE = 'sources/kukhnya/s01/e04.ru.dual.srt'
 INTRO = 'Chef Viktor Barinov discovers that rival restaurant Arcobaleno is trying to recruit his kitchen staff. After an angry phone call with rival chef Elena, Barinov confronts his cooks and demands to know who applied for the job. Listen to the tense scene in Russian first, and then we will examine every line.'
 OPENER = "Let's examine this fiery interrogation line by line."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = 'That concludes our sixth scene. In Kukhnya, betraying Chef Barinov for a rival restaurant is a dangerous game that nobody wins easily. See you next time!'
-CLOSING = ("anya", "До встречи!")
+CLOSING = ('max', 'До встречи!')
 STORY = [
-    ('chef', 'Я съем свой поварской колпак!', "I will eat my chef's hat!", [(52, 'Я съем свой колпак')], ''),
-    ('chef', 'Никто из моих людей не пойдёт к вам!', 'None of my people will go to you!', [(52, 'кто-то из моих ходил к вам')], ''),
+    ('barinov', 'Я съем свой поварской колпак!', "I will eat my chef's hat!", [(52, 'Я съем свой колпак')], ''),
+    ('barinov', 'Никто из моих людей не пойдёт к вам!', 'None of my people will go to you!', [(52, 'кто-то из моих ходил к вам')], ''),
     ('elena', 'Тогда приятного вам аппетита, Виктор!', 'Then bon appétit to you, Viktor!', [(53, 'Тогда приятного аппетита')], ''),
-    ('chef', 'Ах вы, неблагодарные люди!', 'Oh you, ungrateful people!', [(54, 'неблагодарные')], ''),
-    ('chef', 'Чьё это резюме лежит на столе?', 'Whose résumé is lying on the table?', [(55, 'Чье это')], ''),
-    ('chef', 'Кто ходил на собеседование к конкурентам?', 'Who went for an interview to the competitors?', [], ''),
-    ('anya', 'Шеф, мы ничего об этом не знаем.', 'Chef, we know nothing about this.', [], ''),
-    ('chef', 'Почему вы все молчите?', 'Why are you all silent?', [(56, 'Молчите')], ''),
-    ('chef', 'Вы думаете, я ничего не узнаю?', "Do you think I won't find out anything?", [], ''),
-    ('anya', 'Мы верны нашему ресторану.', 'We are loyal to our restaurant.', [], ''),
-    ('chef', 'Ну что ж, я сам всё выясню!', 'Well then, I will find out everything myself!', [(57, 'Ничтуж')], ''),
-    ('chef', 'Предатель будет немедленно уволен!', 'The traitor will be immediately fired!', [], ''),
-    ('anya', 'Кажется, шеф в настоящей ярости.', 'It seems the chef is in a real fury.', [], ''),
-    ('anya', 'Надо быть очень осторожным сегодня.', 'Must be very careful today.', [], ''),
+    ('barinov', 'Ах вы, неблагодарные люди!', 'Oh you, ungrateful people!', [(54, 'неблагодарные')], ''),
+    ('barinov', 'Чьё это резюме лежит на столе?', 'Whose résumé is lying on the table?', [(55, 'Чье это')], ''),
+    ('barinov', 'Кто ходил на собеседование к конкурентам?', 'Who went for an interview to the competitors?', [], ''),
+    ('max', 'Шеф, мы ничего об этом не знаем.', 'Chef, we know nothing about this.', [], ''),
+    ('barinov', 'Почему вы все молчите?', 'Why are you all silent?', [(56, 'Молчите')], ''),
+    ('barinov', 'Вы думаете, я ничего не узнаю?', "Do you think I won't find out anything?", [], ''),
+    ('max', 'Мы верны нашему ресторану.', 'We are loyal to our restaurant.', [], ''),
+    ('barinov', 'Ну что ж, я сам всё выясню!', 'Well then, I will find out everything myself!', [(57, 'Ничтуж')], ''),
+    ('barinov', 'Предатель будет немедленно уволен!', 'The traitor will be immediately fired!', [], ''),
+    ('max', 'Кажется, шеф в настоящей ярости.', 'It seems the chef is in a real fury.', [], ''),
+    ('max', 'Надо быть очень осторожным сегодня.', 'Must be very careful today.', [], ''),
 ]
 WALK = [
     (0, None, "'I will eat my chef's hat!' Barinov makes an outrageous bet on the phone."),

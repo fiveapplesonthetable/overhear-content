@@ -1,39 +1,39 @@
-# Ответ  (The Answer) — `kukhnya-s01e19-scene-19`
+# kukhnya-s01e19-scene-19: review sheet
 
-**Source:** Кухня (Kukhnya) S1.19 · `sources/kukhnya/s01/e19.ru.dual.srt`  
-**Target level:** A1 — Duolingo Section 2
+Title: Ответ  (The Answer)
+Level: A1 — Duolingo Section 2
+Pair: ru-en
+Source: Кухня (Kukhnya) S1.19
 
-## Cast
 
-| Role | Voice | Label |
-|---|---|---|
-| `narrator` | sky | — |
-| `vika` | angelina | Вика |
-| `anya` | alisa | Макс |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 1 — Intro
-
-> Focused on the answer, Max asks if Vika agrees to be his girlfriend. Let's listen closely to Vika and Max's exchange in Russian first, and then walk through each line together.
-
-## Part 2 — Story
-
-| # | Speaker | Line | English | Source cue(s) | Change |
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 0 | Макс | Это значит да? | Does that mean yes? | #378 "значит да?" |  |
-| 1 | Вика | Да. | Yes. | *(added)* |  |
-| 2 | Макс | Я так рад. | I am so glad. | *(added)* |  |
-| 3 | Вика | Я тоже рада. | I am also glad. | *(added)* |  |
-| 4 | Макс | Теперь мы вместе. | Now we are together. | *(added)* |  |
-| 5 | Вика | Да, мы вместе. | Yes, we are together. | *(added)* |  |
-| 6 | Макс | Это прекрасно. | This is wonderful. | *(added)* |  |
-| 7 | Вика | Очень. | Very. | *(added)* |  |
-| 8 | Макс | Я люблю тебя. | I love you, Max. | *(added)* |  |
-| 9 | Вика | Я люблю тебя, Макс. | I love you, Max. | *(added)* |  |
-| 10 | Макс | Наконец-то. | I am so glad, Max. | *(added)* |  |
-| 11 | Вика | Я так рада, Макс. | I am so glad, Max. | *(added)* |  |
+| 1 | Макс | Это значит да? | Does that mean yes? | #378: значит да? | verbatim |
+| 2 | Вика | Да. | Yes. | new | new |
+| 3 | Макс | Я так рад. | I am so glad. | new | new |
+| 4 | Вика | Я тоже рада. | I am also glad. | new | new |
+| 5 | Макс | Теперь мы вместе. | Now we are together. | new | new |
+| 6 | Вика | Да, мы вместе. | Yes, we are together. | new | new |
+| 7 | Макс | Это прекрасно. | This is wonderful. | new | new |
+| 8 | Вика | Очень. | Very. | new | new |
+| 9 | Макс | Я люблю тебя. | I love you, Max. | new | new |
+| 10 | Вика | Я люблю тебя, Макс. | I love you, Max. | new | new |
+| 11 | Макс | Наконец-то. | I am so glad, Max. | new | new |
+| 12 | Вика | Я так рада, Макс. | I am so glad, Max. | new | new |
 
-## Part 5 — Outro & closing
+## Walk-through narration (English only, no target-language words quoted)
 
-> Max asks if Vika agrees to be his girlfriend. Next time you watch the episode, listen for the Russian expressions for 'so' and 'too' — you will catch every word right away. See you next time!
-
-**Вика:** Пока!
+- 'Does that mean yes?' Russian omits the present-tense verb 'to be', connecting 'this' directly with 'yes'.
+- 'Yes.' A crisp, everyday conversational reply meaning 'yes' that you will hear constantly in Russian dialogue.
+- 'I am so glad.' Max delivers a punchy one-word reaction built around the Russian word meaning 'glad'.
+- 'I am also glad.' Russian omits the present-tense verb 'to be' here, linking 'too' directly with 'glad', combining 'too' with 'glad'.
+- 'Now we are together.' Russian omits the present-tense verb 'to be', connecting 'now' directly with 'together'.
+- 'Yes, we are together.' Vika delivers a punchy one-word reaction built around the Russian word meaning 'together'.
+- 'This is wonderful.' Max delivers a punchy one-word reaction built around the Russian word meaning 'perfectly'.
+- 'Very.' Vika delivers a punchy one-word reaction built around the Russian word meaning 'very much'.
+- 'I love you.' Max delivers a punchy one-word reaction built around the Russian word meaning 'love'.
+- 'I love you, Max.' Vika uses the informal everyday 'you' here with 'Max', as friends and close colleagues do.
+- 'Finally.' Max delivers a punchy one-word reaction built around the Russian word meaning 'at last'.
+- 'I am so glad, Max.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'I' straight to 'Max'.

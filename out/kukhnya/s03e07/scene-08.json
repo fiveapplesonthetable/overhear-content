@@ -8,14 +8,10 @@
  "scene": 8,
  "title": "Второй вариант: погоня на такси  (Second Version: Taxi Chase)",
  "level": "A1 — Duolingo Section 2",
- "voices": {
-  "narrator": "sky",
-  "nagiyev": "angelina",
-  "chef": "anja"
- },
  "labels": {
-  "nagiyev": "Нагиев",
-  "chef": "Шеф"
+  "barinov": "Шеф",
+  "lyova": "Лёва",
+  "nagiyev": "Нагиев"
  },
  "segments": [
   {
@@ -24,17 +20,17 @@
    "gap": 0.8
   },
   {
-   "v": "nagiyev",
+   "v": "lyova",
    "t": "Шеф, там гость в блюде нашёл таракана.",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Опять таракана, чьё это блюдо?",
    "gap": 0.55
   },
   {
-   "v": "nagiyev",
+   "v": "lyova",
    "t": "Это снова ваше блюдо, шеф.",
    "gap": 0.55
   },
@@ -64,22 +60,22 @@
    "gap": 0.55
   },
   {
-   "v": "nagiyev",
+   "v": "lyova",
    "t": "Короче, моего сына будут звать Дмитрий.",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Вот сам родишь себе сына и назовёшь его Дмитрий.",
    "gap": 0.55
   },
   {
-   "v": "nagiyev",
+   "v": "lyova",
    "t": "Шеф, что будем делать с гостем?",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Сейчас я сам к нему выйду.",
    "gap": 0.9
   },
@@ -89,33 +85,33 @@
    "gap": 0.4
   },
   {
-   "v": "nagiyev",
+   "v": "lyova",
    "t": "Шеф, там гость в блюде нашёл таракана.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Chef, a guest out there found a cockroach in his dish.' In Russian, the idea of 'Chef Barinov' flows naturally into 'cockroach' without extra filler words.",
+   "t": "'Chef, a guest out there found a cockroach in his dish.' Claiming that a guest out there found a cockroach in his dish sounds confident, even if Barinov has doubts.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Опять таракана, чьё это блюдо?",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'A cockroach again, whose dish is it?' Spoken Russian keeps this brisk, leaning on 'again' and finishing on 'dish'. Lyova answers right away.",
+   "t": "'A cockroach again, whose dish is it?' Asking whether a cockroach again whose dish is it puts Lyova right on the defensive. Russian drops \"is\" in the present, setting the two halves of the thought side by side.",
    "gap": 0.4
   },
   {
-   "v": "nagiyev",
+   "v": "lyova",
    "t": "Это снова ваше блюдо, шеф.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'It is your dish again, Chef.' Lyova anchors the line on 'this', while 'dish' completes the thought.",
+   "t": "'It is your dish again, Chef.' Lyova explains that it is Barinov's dish again, keeping his voice calm and direct.",
    "gap": 0.4
   },
   {
@@ -125,7 +121,7 @@
   },
   {
    "v": "narrator",
-   "t": "'Quieter, he was just yelling at a cat.' The grammar packs 'quieter' and 'shouted' into a tight, idiomatic kitchen exchange.",
+   "t": "'Quieter, he was just yelling at a cat.' Realizing that quieter he was just yelling at a cat changes how Nagiyev handles the situation.",
    "gap": 0.4
   },
   {
@@ -135,7 +131,7 @@
   },
   {
    "v": "narrator",
-   "t": "'Quickly catch up with my car, mine!' Notice how Russian expresses 'quickly' and 'catch up with' with crisp inflection rather than helper words.",
+   "t": "'Quickly catch up with my car, mine!' With the truth and work at stake, Nagiyev reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat.",
    "gap": 0.4
   },
   {
@@ -145,7 +141,7 @@
   },
   {
    "v": "narrator",
-   "t": "'Here is a thousand rubles for you right away.' Here the Russian phrasing highlights 'here' before landing on 'rubles'.",
+   "t": "'Here is a thousand rubles for you right away.' Even though here is a thousand rubles for Barinov right away, Nagiyev keeps a steady face in front of Barinov.",
    "gap": 0.4
   },
   {
@@ -155,7 +151,7 @@
   },
   {
    "v": "narrator",
-   "t": "'If you catch up, I will give you five thousand.' The meaning hinges on 'if' working together with 'will give' in spoken Russian.",
+   "t": "'If you catch up, I will give you five thousand.' Admitting that if Barinov catches up he will give Barinov five thousand shows Nagiyev being honest for a change. Using the informal \"you\" shows how direct and unfiltered their kitchen relationship is.",
    "gap": 0.4
   },
   {
@@ -165,61 +161,61 @@
   },
   {
    "v": "narrator",
-   "t": "'Well that is it, let us go quickly!' An emphatic spoken line centered on the verb meaning 'here we go'. Lyova answers right away.",
+   "t": "'Well that is it, let us go quickly!' Declaring that that is it let them go quickly brings Nagiyev's temper right to the surface. Starting with \"davay\" is the everyday Russian way to say \"come on, let us do this\".",
    "gap": 0.4
   },
   {
-   "v": "nagiyev",
+   "v": "lyova",
    "t": "Короче, моего сына будут звать Дмитрий.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'In short, my son will be named Dmitry.' In Russian, the idea of 'long story short' flows naturally into 'to call' without extra filler words.",
+   "t": "'In short, my son will be named Dmitry.' Once in short his son will be named Dmitry, Lyova can finally tell Barinov what he means.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Вот сам родишь себе сына и назовёшь его Дмитрий.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Give birth to a son yourself and name him Dmitry.' Spoken Russian keeps this brisk, leaning on 'here' and finishing on 'his'.",
+   "t": "'Give birth to a son yourself and name him Dmitry.' Here giving birth to a son themselves and name him Dmitry sets up the next turn in their exchange.",
    "gap": 0.4
   },
   {
-   "v": "nagiyev",
+   "v": "lyova",
    "t": "Шеф, что будем делать с гостем?",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Chef, what are we going to do with the guest?' Spoken Russian keeps this brisk, leaning on 'Chef Barinov' and finishing on 'guest'. Chef Barinov answers right away.",
+   "t": "'Chef, what are we going to do with the guest?' Wondering what they going to do with the guest are cuts straight through the tension between Lyova and Barinov. In Russian, he does not need helper words like \"do\" or \"did\"—rising pitch alone turns it into a question.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Сейчас я сам к нему выйду.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Right now I will go out to him myself.' Here the Russian phrasing highlights 'now' before landing on 'I'll get out'. Alright, let's hear the entire conversation one more time from start to finish.",
+   "t": "'Right now I will go out to him myself.' Since right now he will go out to him himself, Barinov does not waste words on excuses. Alright, let's hear the entire conversation one more time from start to finish.",
    "gap": 0.9
   },
   {
-   "v": "nagiyev",
+   "v": "lyova",
    "t": "Шеф, там гость в блюде нашёл таракана.",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Опять таракана, чьё это блюдо?",
    "gap": 0.5
   },
   {
-   "v": "nagiyev",
+   "v": "lyova",
    "t": "Это снова ваше блюдо, шеф.",
    "gap": 0.5
   },
@@ -249,22 +245,22 @@
    "gap": 0.5
   },
   {
-   "v": "nagiyev",
+   "v": "lyova",
    "t": "Короче, моего сына будут звать Дмитрий.",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Вот сам родишь себе сына и назовёшь его Дмитрий.",
    "gap": 0.5
   },
   {
-   "v": "nagiyev",
+   "v": "lyova",
    "t": "Шеф, что будем делать с гостем?",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Сейчас я сам к нему выйду.",
    "gap": 0.9
   },

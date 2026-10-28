@@ -1,39 +1,36 @@
-# Щучья пасха  (Pike Caviar Dish) — `kukhnya-s01e10-scene-32`
+# kukhnya-s01e10-scene-32: review sheet
 
-**Source:** Кухня (Kukhnya) S1.10 · `sources/kukhnya/s01/e10.ru.dual.srt`  
-**Target level:** A1 — Duolingo Section 2
+Title: Щучья пасха  (Pike Caviar Dish)
+Level: A1 — Duolingo Section 2
+Pair: ru-en
+Source: Кухня (Kukhnya) S1.10
 
-## Cast
 
-| Role | Voice | Label |
-|---|---|---|
-| `narrator` | sky | — |
-| `senya` | angelina | Сеня |
-| `fedya` | anja | Федя |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 1 — Intro
-
-> In the Claude Monet kitchen, Fedya and Senya marvel at their newly dyed caviar as it gleams under the lights. Senya jokes that their creation looks like a traditional festive pike delicacy, perfectly disguised for the banquet. Listen to their conversation in Russian first, then we will break down each line in English.
-
-## Part 2 — Story
-
-| # | Speaker | Line | English | Source cue(s) | Change |
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 0 | Федя | Сеня, посмотри, как блестит икра! | Senya, look how the caviar shines! | *(added)* |  |
-| 1 | Сеня | Я же говорил тебе, краска отличная. | I told you, the dye is great. | *(added)* |  |
-| 2 | Федя | Она выглядит как настоящая чёрная икра. | It looks like genuine black caviar. | *(added)* |  |
-| 3 | Сеня | Это блюдо называется щучья пасха. | This dish is called pike easter. | #209 "Щучья пасха." |  |
-| 4 | Федя | Почему именно щучья пасха? | Why specifically pike easter? | *(added)* |  |
-| 5 | Сеня | Потому что это настоящее кулинарное чудо! | Because it is a real culinary miracle! | *(added)* |  |
-| 6 | Федя | Дай мне ложку, я хочу попробовать. | Give me a spoon, I want to taste. | *(added)* |  |
-| 7 | Сеня | Попробуй чуть-чуть, только не съешь всё. | Taste a tiny bit, just do not eat it all. | *(added)* |  |
-| 8 | Федя | Слушай, вкус просто великолепный. | Listen, the taste is simply magnificent. | *(added)* |  |
-| 9 | Сеня | Наши гости будут в полном восторге. | Our guests will be in total delight. | *(added)* |  |
-| 10 | Федя | Главное, чтобы шеф ничего не заподозрил. | The main thing is that Chef suspects nothing. | *(added)* |  |
-| 11 | Сеня | Шеф ничего не узнает, прячь банку! | Chef will not find out anything, hide the jar! | *(added)* |  |
+| 1 | Федя | Сеня, посмотри, как блестит икра! | Senya, look how the caviar shines! | new | new |
+| 2 | Сеня | Я же говорил тебе, краска отличная. | I told you, the dye is great. | new | new |
+| 3 | Федя | Она выглядит как настоящая чёрная икра. | It looks like genuine black caviar. | new | new |
+| 4 | Сеня | Это блюдо называется щучья пасха. | This dish is called pike easter. | #209: Щучья пасха. | verbatim |
+| 5 | Федя | Почему именно щучья пасха? | Why specifically pike easter? | new | new |
+| 6 | Сеня | Потому что это настоящее кулинарное чудо! | Because it is a real culinary miracle! | new | new |
+| 7 | Федя | Дай мне ложку, я хочу попробовать. | Give me a spoon, I want to taste. | new | new |
+| 8 | Сеня | Попробуй чуть-чуть, только не съешь всё. | Taste a tiny bit, just do not eat it all. | new | new |
+| 9 | Федя | Слушай, вкус просто великолепный. | Listen, the taste is simply magnificent. | new | new |
+| 10 | Сеня | Наши гости будут в полном восторге. | Our guests will be in total delight. | new | new |
+| 11 | Федя | Главное, чтобы шеф ничего не заподозрил. | The main thing is that Chef suspects nothing. | new | new |
+| 12 | Сеня | Шеф ничего не узнает, прячь банку! | Chef will not find out anything, hide the jar! | new | new |
 
-## Part 5 — Outro & closing
+## Walk-through narration (English only, no target-language words quoted)
 
-> Fedya and Senya marvel at the dyed black caviar glistening in the bowl, joking that the festive pike delicacy will easily pass as real caviar for the banquet. Next time you watch the episode, listen for the Russian expressions for 'that's why' and 'caviar' — you will catch every word right away. See you next time!
-
-**Сеня:** Пока!
+- 'Senya, look how the caviar shines!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'I told you, the dye is great.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'It looks like genuine black caviar.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'This dish is called pike easter.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'Because it is a real culinary miracle!' — causal conjunction followed by an emphatic noun phrase.
+- 'Give me a spoon, I want to taste.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'Listen, the taste is simply magnificent.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'Our guests will be in total delight.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'Chef will not find out anything, hide the jar!' — negative future word paired with an command form. Now listen to the full conversation once more. Now let's listen to the whole conversation again from start to finish.

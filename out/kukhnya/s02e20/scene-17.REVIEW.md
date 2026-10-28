@@ -10,32 +10,32 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Шеф | Лена, Лена, я трижды ошибался в своей жизни. | Lena, Lena, I have made three big mistakes in my life. | #285 00:18:55: Лена, Лена, я трижды ошибался в своей жизни | verbatim |
-| 2 | Сеня | И сейчас больше всего боюсь ошибиться еще раз. | And right now my greatest fear is making one more mistake. | #286 00:18:58: И сейчас больше всего боюсь ошибиться еще раз | verbatim |
-| 3 | Шеф | Поэтому я не хочу торопить события. | That is why I do not want to rush things between us. | #287 00:19:02: Поэтому я не хочу торопить события | verbatim |
-| 4 | Шеф | Печень возьми на складе. | Grab the liver from the storage room. | #288 00:19:08: Печень возьми на складе | verbatim |
-| 5 | Сеня | Все равно не успеете за час приготовить. | You still will not manage to cook it all in an hour. | #289 00:19:10: Все равно не успеете за час приготовить | verbatim |
-| 6 | Шеф | Рук не хватит. | You do not have enough hands. | #290 00:19:13: Рук не хватит | verbatim |
-| 7 | Шеф | За работу, девочки! | Get to work, girls! | #294 00:19:21: За работу, девочки | verbatim |
-| 8 | Сеня | Шеф, не успеваем. | Chef, we are not going to make it in time. | #295 00:19:32: Шеф, не успеваем | verbatim |
-| 9 | Шеф | Я подумала, вам не помешают лишние руки. | I figured you could use a few extra pairs of hands. | #296 00:19:48: Я подумала, вам не помешают лишние руки | verbatim |
-| 10 | Шеф | Ну что ж. | Well then, look at that. | #297 00:20:11: Ну что ж | verbatim |
-| 11 | Сеня | Рад сообщить вам? | I am delighted to inform all of you. | #298 00:20:12: рад сообщить вам | verbatim |
-| 12 | Шеф | Что невесту мы все-таки нашли? | That we have found our bride after all! | #298 00:20:12: что невесту мы все-таки нашли | verbatim |
-| 13 | Шеф | Это значит, что пора подавать горячее. | Which means it is time to serve the hot main course. | #299 00:20:17: Это значит, что пора подавать горячее | verbatim |
+| 1 | Шеф | Лена, Лена, я трижды ошибался в своей жизни. | Lena, Lena, I have made three big mistakes in my life. | #285: Лена, Лена, я трижды ошибался в своей жизни | verbatim |
+| 2 | Сеня | И сейчас больше всего боюсь ошибиться еще раз. | And right now my greatest fear is making one more mistake. | #286: И сейчас больше всего боюсь ошибиться еще раз | verbatim |
+| 3 | Елена | Поэтому я не хочу торопить события. | That is why I do not want to rush things between us. | #287: Поэтому я не хочу торопить события | verbatim |
+| 4 | Шеф | Печень возьми на складе. | Grab the liver from the storage room. | #288: Печень возьми на складе | verbatim |
+| 5 | Сеня | Все равно не успеете за час приготовить. | You still will not manage to cook it all in an hour. | #289: Все равно не успеете за час приготовить | verbatim |
+| 6 | Елена | Рук не хватит. | You do not have enough hands. | #290: Рук не хватит | verbatim |
+| 7 | Шеф | За работу, девочки! | Get to work, girls! | #294: За работу, девочки | verbatim |
+| 8 | Сеня | Шеф, не успеваем. | Chef, we are not going to make it in time. | #295: Шеф, не успеваем | verbatim |
+| 9 | Елена | Я подумала, вам не помешают лишние руки. | I figured you could use a few extra pairs of hands. | #296: Я подумала, вам не помешают лишние руки | verbatim |
+| 10 | Шеф | Ну что ж. | Well then, look at that. | #297: Ну что ж | verbatim |
+| 11 | Сеня | Рад сообщить вам? | I am delighted to inform all of you. | #298: рад сообщить вам | verbatim |
+| 12 | Елена | Что невесту мы все-таки нашли? | That we have found our bride after all! | #298: что невесту мы все-таки нашли | verbatim |
+| 13 | Шеф | Это значит, что пора подавать горячее. | Which means it is time to serve the hot main course. | #299: Это значит, что пора подавать горячее | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lena, Lena, I have made three big mistakes in my life.' Notice how Russian puts 'three times' and 'life' together in a short, direct phrase where word endings show how the ideas connect.
-- 'And right now my greatest fear is making one more mistake.' The grammar packs 'both' and 'time' into a tight, idiomatic kitchen exchange.
-- 'That is why I do not want to rush things between us.' Notice how Russian expresses 'therefore' and 'event' with crisp inflection rather than helper words. Chef Viktor answers right away.
-- 'Grab the liver from the storage room.' The grammar packs 'liver' and 'warehouse' into a tight, idiomatic kitchen exchange.
-- 'You still will not manage to cook it all in an hour.' Here the Russian phrasing highlights 'all' before landing on 'to prepare'.
-- 'You do not have enough hands.' Spoken Russian keeps this brisk, leaning on 'hands' and finishing on 'enough'. Chef Viktor answers right away.
-- 'Get to work, girls!' The meaning hinges on 'behind' working together with 'girls' in spoken Russian.
-- 'Chef, we are not going to make it in time.' Senya anchors the line on 'chef', while 'to manage in time' completes the thought.
-- 'I figured you could use a few extra pairs of hands.' Notice how Russian expresses 'I' and 'hands' with crisp inflection rather than helper words. Chef Viktor answers right away.
-- 'Well then, look at that.' In Russian, the idea of 'come on' flows naturally into 'on earth' without extra filler words.
-- 'I am delighted to inform all of you.' Senya raises the pitch on 'for you' to turn the phrase into a direct spoken question.
-- 'That we have found our bride after all!' The grammar packs 'what' and 'found' into a tight, idiomatic kitchen exchange. Chef Viktor answers right away.
-- 'Which means it is time to serve the hot main course.' Spoken Russian keeps this brisk, leaning on 'this' and finishing on 'hot'.
+- 'Lena, Lena, I have made three big mistakes in my life.' Since someone he has made three big mistakes in his life, Barinov does not waste words on excuses.
+- 'And right now my greatest fear is making one more mistake.' Mentioning that right now his greatest fear is making one more mistake moves the talk in a new direction.
+- 'That is why I do not want to rush things between us.' Saying that that is why she does not want to rush things between them is how Elena sets the tone with Barinov.
+- 'Grab the liver from the storage room.' Here grabbing the liver from the storage room sets up the next turn in their exchange.
+- 'You still will not manage to cook it all in an hour.' Explaining that Barinov still will not manage to cook it all in an hour lays the cards on the table for Barinov.
+- 'You do not have enough hands.' Elena mentions that Barinov does not have enough hands so Barinov sees what is at stake.
+- 'Get to work, girls!' By telling Elena to get to work girls, Barinov raises the stakes in the room at once. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Chef, we are not going to make it in time.' Pointing out that they are not going to make it in time gives Barinov a sobering reality check.
+- 'I figured you could use a few extra pairs of hands.' Elena explains that she figured Barinov could use a few extra pairs of hands, keeping her voice calm and direct.
+- 'Well then, look at that.' With the mistake and banquet in play, Barinov keeps this short reply brisk and direct.
+- 'I am delighted to inform all of you.' By being delighted to inform all of Barinov, Senya presses Barinov for a straight answer. Notice how he sticks to the formal "you", keeping a professional line between them.
+- 'That we have found our bride after all!' Wondering if that they have found their bride after all shows Elena caught off guard.
+- 'Which means it is time to serve the hot main course.' Admitting that which means it is time to serve the hot main course shows Barinov being honest for a change. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.

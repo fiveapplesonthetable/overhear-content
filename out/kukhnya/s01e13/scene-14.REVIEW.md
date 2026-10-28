@@ -1,40 +1,41 @@
-# Честный разговор  (An Honest Conversation) — `kukhnya-s01e13-scene-14`
+# kukhnya-s01e13-scene-14: review sheet
 
-**Source:** Кухня (Kukhnya) S1.13 · `sources/kukhnya/s01/e13.ru.dual.srt`  
-**Target level:** A1 — Duolingo Section 2
+Title: Честный разговор  (An Honest Conversation)
+Level: A1 — Duolingo Section 2
+Pair: ru-en
+Source: Кухня (Kukhnya) S1.13
 
-## Cast
 
-| Role | Voice | Label |
-|---|---|---|
-| `narrator` | sky | — |
-| `nastya` | angelina | Настя |
-| `kostya` | anja | Костя |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 1 — Intro
-
-> Visiting Nastya at her apartment, Kostya expects a romantic evening together. However, Nastya candidly confesses that she feels uncomfortable acting out of obligation or gratitude rather than genuine love, leading to a tender and respectful agreement. Let's listen to their conversation in Russian.
-
-## Part 2 — Story
-
-| # | Speaker | Line | English | Source cue(s) | Change |
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 0 | Настя | Костя, подожди секунду, не спеши. | Kostya, wait a second, do not rush. | *(added)* |  |
-| 1 | Костя | Настя, что случилось, почему ты грустная? | Nastya, what happened, why are you sad? | #192 "Что" |  |
-| 2 | Настя | Сегодня у нас ничего не получится. | Nothing will work out between us today. | #193 "сегодня" |  |
-| 3 | Костя | Давай выпьем ещё немного сока! | Let us drink a little more juice! | *(added)* |  |
-| 4 | Настя | Нет, Костя, дело совсем не в этом. | No, Kostya, that is not the point. | #195 "Нет." |  |
-| 5 | Настя | Я не хочу поступать не по любви. | I do not want to act without love. | *(added)* |  |
-| 6 | Настя | Я просто очень благодарна за твою помощь. | I am simply very grateful for your help. | *(added)* |  |
-| 7 | Костя | Ты думаешь, что ты обязана мне? | Do you think that you owe me? | *(added)* |  |
-| 8 | Настя | Да, я чувствую себя нечестным человеком. | Yes, I feel like a dishonest person. | *(added)* |  |
-| 9 | Настя | Давай сегодня просто спокойно поспим. | Let us just sleep quietly tonight. | #196 "Сегодня" |  |
-| 10 | Костя | Хорошо, давай сегодня просто поспим. | All right, let us just sleep tonight. | *(added)* |  |
-| 11 | Настя | Костя, ты правда понимаешь мои чувства? | Kostya, do you really understand my feelings? | *(added)* |  |
-| 12 | Костя | Да, Настя, всё совершенно нормально. | Yes, Nastya, everything is completely fine. | *(added)* |  |
+| 1 | Настя | Костя, подожди секунду, не спеши. | Kostya, wait a second, do not rush. | new | new |
+| 2 | Костя | Настя, что случилось, почему ты грустная? | Nastya, what happened, why are you sad? | #192: Что | verbatim |
+| 3 | Настя | Сегодня у нас ничего не получится. | Nothing will work out between us today. | #193: сегодня | verbatim |
+| 4 | Костя | Давай выпьем ещё немного сока! | Let us drink a little more juice! | new | new |
+| 5 | Настя | Нет, Костя, дело совсем не в этом. | No, Kostya, that is not the point. | #195: Нет. | verbatim |
+| 6 | Настя | Я не хочу поступать не по любви. | I do not want to act without love. | new | new |
+| 7 | Настя | Я просто очень благодарна за твою помощь. | I am simply very grateful for your help. | new | new |
+| 8 | Костя | Ты думаешь, что ты обязана мне? | Do you think that you owe me? | new | new |
+| 9 | Настя | Да, я чувствую себя нечестным человеком. | Yes, I feel like a dishonest person. | new | new |
+| 10 | Настя | Давай сегодня просто спокойно поспим. | Let us just sleep quietly tonight. | #196: Сегодня | verbatim |
+| 11 | Костя | Хорошо, давай сегодня просто поспим. | All right, let us just sleep tonight. | new | new |
+| 12 | Настя | Костя, ты правда понимаешь мои чувства? | Kostya, do you really understand my feelings? | new | new |
+| 13 | Костя | Да, Настя, всё совершенно нормально. | Yes, Nastya, everything is completely fine. | new | new |
 
-## Part 5 — Outro & closing
+## Walk-through narration (English only, no target-language words quoted)
 
-> Finding mutual respect and emotional clarity, Kostya and Nastya spend a quiet, peaceful night together. Next time you watch the episode, listen for the Russian expressions for 'to wait' and 'second' — you will catch every word right away. See you next time!
-
-**Костя:** Пока!
+- 'Kostya, wait a second, do not rush.' Nastya leads with the direct command form meaning 'wait', pairing it with 'second' and 'hurry'.
+- 'Nastya, what happened, why are you sad?' Kostya uses the action verb meaning 'happened' to focus on the single completed result, pairing it with 'why' and 'sad'.
+- 'Nothing will work out between us today.' Nastya uses the classic Russian possession phrasing — literally 'at us' rather than a verb meaning 'to have', combining 'today' with 'will come out'.
+- 'Let us drink a little more juice!' Kostya suggests a refreshing beverage to relax.
+- 'No, Kostya, that is not the point.' She clarifies that drinks cannot solve her dilemma.
+- 'I do not want to act without love.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'I am simply very grateful for your help.' Russian omits the present-tense verb 'to be' here, linking 'just' directly with 'very much', combining 'just' with 'very much' and 'grateful'.
+- 'Do you think that you owe me?' Kostya reassures her that he expects nothing in return.
+- 'Yes, I feel like a dishonest person.' Nastya shares her inner moral conflict with him.
+- 'Let us just sleep quietly tonight.' Nastya leads with the direct command form meaning 'let's', pairing it with 'today' and 'just'.
+- 'All right, let us just sleep tonight.' Kostya leads with the direct command form meaning 'let's', pairing it with 'good' and 'today'.
+- 'Kostya, do you really understand my feelings?' Nastya turns a statement into a question purely through rising intonation on the word meaning 'honestly', pairing it with 'do you understand' and 'feelings'.
+- 'Yes, Nastya, everything is completely fine.' Russian omits the present-tense verb 'to be' here, linking 'quite' directly with 'fine', combining 'quite' with 'fine'.

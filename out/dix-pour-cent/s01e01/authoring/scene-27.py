@@ -7,8 +7,7 @@ SCENE = 27
 TITLE = 'Prends tes affaires  (Get Your Things)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'lea': 'lucie', 'camille': 'emilie', 'herve': 'marcel'}
-LABELS = {'lea': 'Andréa', 'camille': 'Camille', 'herve': 'Hervé'}
+LABELS = {'andrea': 'Andréa', 'camille': 'Camille', 'herve': 'Hervé'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e01.fr.dual.srt'
 INTRO = "Now Andréa walks straight to the assistants' desks, where Camille is working next to Hervé and Noémie. You'll hear the whole scene in French first. Don't worry about catching every word; we'll go through it together afterwards. Let's listen to the scene in French first."
@@ -17,16 +16,16 @@ TRANSITION = "Now let's listen to the entire dialogue once more."
 OUTRO = "That's the end of a very short first job. If you picked up the two little words that wrap around a verb to make it negative, you've learned something you'll use every single day. See you next time!"
 CLOSING = ('camille', 'Au revoir!')
 STORY = [
-    ('lea', 'Pas de chance pour moi!', 'Unlucky me!', [(708, 'Pas de chance pour moi')], ''),
-    ('lea', 'Je trouve une assistante qui me plaît.', 'I find an assistant I like.', [(709, 'Je trouve une assistante qui me plaît')], ''),
-    ('lea', 'Mais je me suis trompée.', 'But I was wrong.', [(711, 'Mais je me suis trompé')], ''),
-    ('lea', 'Tu réalises ce que tu as fait?', 'Do you realise what you did?', [(715, 'Tu réalises ce que tu as fait')], ''),
-    ('lea', 'Tu voulais un selfie? Un autographe?', 'Did you want a selfie? An autograph?', [(714, 'Un selfie'), (714, 'Un autographe')], ''),
-    ('lea', 'Nous avons presque perdu une grande star!', 'We almost lost a big star!', [(716, 'plus grandes stars')], ''),
+    ('andrea', 'Pas de chance pour moi!', 'Unlucky me!', [(708, 'Pas de chance pour moi')], ''),
+    ('andrea', 'Je trouve une assistante qui me plaît.', 'I find an assistant I like.', [(709, 'Je trouve une assistante qui me plaît')], ''),
+    ('andrea', 'Mais je me suis trompée.', 'But I was wrong.', [(711, 'Mais je me suis trompé')], ''),
+    ('andrea', 'Tu réalises ce que tu as fait?', 'Do you realise what you did?', [(715, 'Tu réalises ce que tu as fait')], ''),
+    ('andrea', 'Tu voulais un selfie? Un autographe?', 'Did you want a selfie? An autograph?', [(714, 'Un selfie'), (714, 'Un autographe')], ''),
+    ('andrea', 'Nous avons presque perdu une grande star!', 'We almost lost a big star!', [(716, 'plus grandes stars')], ''),
     ('camille', "Oui, mais Cécile est restée à l'agence.", 'Yes, but Cécile stayed with the agency.', [(717, 'Ouais, mais')], ''),
     ('camille', "Non, ce n'est pas comme ça.", 'No, it isn', [(719, 'pas comme ça')], ''),
     ('camille', 'Je ne suis pas bavarde.', 'I', [(720, 'Je ne suis pas')], ''),
-    ('lea', 'Prends tes affaires.', 'Get your things.', [(724, 'Prends tes affaires')], ''),
+    ('andrea', 'Prends tes affaires.', 'Get your things.', [(724, 'Prends tes affaires')], ''),
     ('herve', "C'était bref, mais intense.", 'It was short, but intense.', [(725, "C'était bref, mais intense")], ''),
     ('herve', 'Mais il y a un côté positif.', 'But there', [(726, 'Mais il y a un côté positif')], ''),
     ('herve', 'Tu es loin de ce business. Je le pense vraiment.', "You're far from this business. I really mean it.", [(727, 'Tu es hors de ce'), (727, 'Je le pense vraiment')], ''),
@@ -49,12 +48,12 @@ WALK = [
     (9, None, "'Get your things.' Three words, and Camille is fired. It's a casual command, said to one person. Hervé, at the next desk, tries to soften the blow."),
     (10, None, "'It was short, but intense.' Notice how 'it was' sets up the clause and leads naturally into 'intense'."),
     (11, None, "'But there's a bright side.' Literally 'there is a positive side'. The opening three words mean 'there is', and you hear them everywhere in French."),
-    (12, None, "'You're far from this business.' Hervé means she has escaped a nasty world. The word for business is simply the English one."),
-    (13, None, "'I really mean it.' Literally 'I think it really'. Now Hervé turns to Noémie, who hasn't looked up from her screen."),
-    (14, None, "'Noémie, say goodbye to Camille!' Another casual command, from the verb 'to say'. Noémie mumbles that she's too busy, and Camille covers for her."),
-    (15, None, "'It doesn't matter.' Literally 'it isn't serious', with the same two negative words around the verb. It's what French people say all day long when something is no big deal."),
-    (16, None, "'She's in a hurry.' One more feminine ending: Noémie is a woman, so the adjective takes the extra letter. Camille picks up her bag."),
-    (17, None, "'Well, goodbye.' The first word is a little sigh that means 'right then'. Hervé answers warmly."),
-    (18, None, "'Goodbye, Camille. Good luck!' The second phrase literally means 'good courage', and it's how you wish someone strength for something hard. And Camille leaves on a hopeful note."),
-    (19, None, "'I'm sure we'll see each other again.' The word for 'sure' is in the feminine again. She doesn't know it yet, but she's right. Now listen to the whole scene once more, and see how much of it you can follow."),
+    (12, 'Tu es loin de ce business.', "'You're far from this business.' Hervé means she has escaped a nasty world. The word for business is simply the English one."),
+    (12, 'Je le pense vraiment.', "'I really mean it.' Literally 'I think it really'. Now Hervé turns to Noémie, who hasn't looked up from her screen."),
+    (13, None, "'Noémie, say goodbye to Camille!' Another casual command, from the verb 'to say'. Noémie mumbles that she's too busy, and Camille covers for her."),
+    (14, "Ce n'est pas grave.", "'It doesn't matter.' Literally 'it isn't serious', with the same two negative words around the verb. It's what French people say all day long when something is no big deal."),
+    (14, 'Elle est pressée.', "'She's in a hurry.' One more feminine ending: Noémie is a woman, so the adjective takes the extra letter. Camille picks up her bag."),
+    (15, None, "'Well, goodbye.' The first word is a little sigh that means 'right then'. Hervé answers warmly."),
+    (16, None, "'Goodbye, Camille. Good luck!' The second phrase literally means 'good courage', and it's how you wish someone strength for something hard. And Camille leaves on a hopeful note."),
+    (17, None, "'I'm sure we'll see each other again.' The word for 'sure' is in the feminine again. She doesn't know it yet, but she's right. Now listen to the whole scene once more, and see how much of it you can follow."),
 ]

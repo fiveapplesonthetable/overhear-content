@@ -4,18 +4,17 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 4
 SCENE = 13
-TITLE = "Заказ у бара  (Order at the Bar)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Заказ у бара  (Order at the Bar)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "nastya": "angelina", "kostya": "anja"}
-LABELS = {"nastya": "Настя", "kostya": "Костя"}
+LABELS = {'kostya': 'Костя', 'nastya': 'Настя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.04'
 SOURCE_FILE = 'sources/kukhnya/s01/e04.ru.dual.srt'
 INTRO = "At the bar counter of Claude Monet, waitress Nastya places an urgent drink order with bartender Kostya. Distracted by his secret affection for her, Kostya gets flustered and has to ask for the beverage measurements a second time. Let's listen to their conversation in Russian."
 OPENER = "Let's examine the dialogue sentence by sentence. Notice the conversational drink orders, precise numbers, and everyday bar vocabulary."
 TRANSITION = "Now let's listen to the conversation again without interruption."
 OUTRO = "Kostya quickly gets behind the bar to mix the drinks while Nastya hurries back to serve the restaurant guests. Great work practicing conversational Russian! Next time you watch the episode, listen for the Russian expressions for 'carefully' and 'fast' — you will catch every word right away. See you next time!"
-CLOSING = ("kostya", "Пока!")
+CLOSING = ('kostya', 'Пока!')
 STORY = [
     ('nastya', 'Костя, приготовь срочный заказ для гостей.', 'Kostya, prepare an urgent order for the guests.', [(166, 'мне коньяку')], ''),
     ('kostya', 'Я слушаю тебя очень внимательно.', 'I am listening to you very attentively.', [(168, 'Сделаем')], ''),

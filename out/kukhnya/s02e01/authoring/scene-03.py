@@ -4,32 +4,31 @@ SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 1
 SCENE = 3
-TITLE = "Начало смены  (Start of the Shift)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Начало смены  (Start of the Shift)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "chef": "anja", "anya": "alisa", "senya": "angelina"}
-LABELS = {"chef": "Шеф", "anya": "Макс", "senya": "Сеня"}
+LABELS = {'barinov': 'Шеф', 'max': 'Макс', 'senya': 'Сеня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S2.01'
 SOURCE_FILE = 'sources/kukhnya/s02/e01.ru.dual.srt'
 INTRO = 'In the kitchen of Claude Monet, Chef Viktor is furious after the new owner confiscated all of his alcohol. As the restaurant opens for service, Viktor barks orders at Max and Senya to begin cooking immediately. Let us listen to their kitchen exchange in Russian first.'
 OPENER = 'Now let us examine the start of the kitchen shift line by line.'
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Despite losing his prized alcohol stash to the new owner, Chef Viktor channels his anger into strict discipline as the kitchen team begins the busy shift. Next time you watch the episode, listen for the Russian expressions for 'cook' and 'fast' — you will catch every word right away. See you next time!"
-CLOSING = ("anya", "Пока!")
+CLOSING = ('max', 'Пока!')
 STORY = [
-    ('chef', 'Повара, быстро встаньте все на свои места!', 'Cooks, quickly stand at your places, everyone!', [], ''),
-    ('chef', 'Сейчас наш ресторан открывает двери для гостей.', 'Right now our restaurant is opening its doors for guests.', [], ''),
-    ('chef', 'Приступайте сразу к своей работе на кухне!', 'Get started immediately with your work in the kitchen!', [(95, 'Приступайте.')], ''),
+    ('barinov', 'Повара, быстро встаньте все на свои места!', 'Cooks, quickly stand at your places, everyone!', [], ''),
+    ('barinov', 'Сейчас наш ресторан открывает двери для гостей.', 'Right now our restaurant is opening its doors for guests.', [], ''),
+    ('barinov', 'Приступайте сразу к своей работе на кухне!', 'Get started immediately with your work in the kitchen!', [(95, 'Приступайте.')], ''),
     ('senya', 'Шеф, почему вы сегодня такой очень злой?', 'Chef, why are you so very angry today?', [], ''),
-    ('chef', 'Новый хозяин забрал весь мой дорогой алкоголь!', 'The new owner took away all my expensive alcohol!', [], ''),
-    ('anya', 'Он действительно запретил вам пить на работе?', 'Did he really forbid you to drink at work?', [], ''),
-    ('chef', 'Да, теперь на кухне действует сухой закон.', 'Yes, now a dry law is in effect in the kitchen.', [], ''),
+    ('barinov', 'Новый хозяин забрал весь мой дорогой алкоголь!', 'The new owner took away all my expensive alcohol!', [], ''),
+    ('max', 'Он действительно запретил вам пить на работе?', 'Did he really forbid you to drink at work?', [], ''),
+    ('barinov', 'Да, теперь на кухне действует сухой закон.', 'Yes, now a dry law is in effect in the kitchen.', [], ''),
     ('senya', 'Без вина вам будет трудно готовить блюда.', 'Without wine it will be hard for you to cook dishes.', [], ''),
-    ('chef', 'Хватит болтать, начинайте резать свежее мясо!', 'Enough chatting, start cutting the fresh meat!', [], ''),
-    ('anya', 'Я уже приготовил вкусный соус для рыбы.', 'I already prepared a delicious sauce for the fish.', [], ''),
+    ('barinov', 'Хватит болтать, начинайте резать свежее мясо!', 'Enough chatting, start cutting the fresh meat!', [], ''),
+    ('max', 'Я уже приготовил вкусный соус для рыбы.', 'I already prepared a delicious sauce for the fish.', [], ''),
     ('senya', 'А я сейчас поставлю горячий суп на плиту.', 'And I will now put the hot soup on the stove.', [], ''),
-    ('chef', 'Сегодня каждое наше блюдо должно быть идеальным.', 'Today every dish of ours must be ideal.', [], ''),
-    ('anya', 'Хорошо, шеф, мы сделаем всё очень быстро!', 'Fine, chef, we will do everything very quickly!', [], ''),
+    ('barinov', 'Сегодня каждое наше блюдо должно быть идеальным.', 'Today every dish of ours must be ideal.', [], ''),
+    ('max', 'Хорошо, шеф, мы сделаем всё очень быстро!', 'Fine, chef, we will do everything very quickly!', [], ''),
 ]
 WALK = [
     (0, None, "'Cooks, quickly stand at your places, everyone!' Chef Barinov puts the word for 'cook' together with 'quickly' and 'stand' in a crisp, natural spoken turn of phrase."),

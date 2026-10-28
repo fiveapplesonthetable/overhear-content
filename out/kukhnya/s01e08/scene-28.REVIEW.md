@@ -1,41 +1,42 @@
-# Порядок на кухне  (Order in the Kitchen) — `kukhnya-s01e08-scene-28`
+# kukhnya-s01e08-scene-28: review sheet
 
-**Source:** Кухня (Kukhnya) S1.08 · `sources/kukhnya/s01/e08.ru.dual.srt`  
-**Target level:** A1 — Duolingo Section 2
+Title: Порядок на кухне  (Order in the Kitchen)
+Level: A1 — Duolingo Section 2
+Pair: ru-en
+Source: Кухня (Kukhnya) S1.08
 
-## Cast
 
-| Role | Voice | Label |
-|---|---|---|
-| `narrator` | sky | — |
-| `chef` | anja | Шеф |
-| `elena` | angelina | Елена |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 1 — Intro
-
-> In the Claude Monet kitchen, temporary chef Elena is overwhelmed as orders back up and customers return dishes. Chef Barinov suddenly arrives and calmly restores order within seconds by addressing each cook's individual habits. Listen to their conversation in Russian first, then we will break down each line in English.
-
-## Part 2 — Story
-
-| # | Speaker | Line | English | Source cue(s) | Change |
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 0 | Елена | У нас уже три возврата блюд! | We already have three returned dishes! | #324 "три отката от блюд." |  |
-| 1 | Елена | Повара ничего не успевают вовремя отдавать. | The cooks cannot serve anything on time. | #325 "Вы ничего не успеваете вовремя подавать." |  |
-| 2 | Шеф | Елена Павловна, что здесь случилось? | Elena Pavlovna, what happened here? | #327 "Елена Павловна, что случилось?" |  |
-| 3 | Елена | Шеф, я совсем не справляюсь. | Chef, I am not coping at all. | #328 "Ну, в общем..." |  |
-| 4 | Шеф | Спокойно, сейчас я наведу порядок. | Calm down, now I will restore order. | *(added)* |  |
-| 5 | Шеф | Федя, иди покури три минуты. | Fedya, go have a smoke for three minutes. | #330 "Федя, иди покури, у тебя три минуты." |  |
-| 6 | Шеф | Ему нужен перекур каждые полтора часа. | He needs a smoke break every hour and a half. | #331 "Ему надо давать перекур каждые полтора часа." |  |
-| 7 | Шеф | Сеня, переходи готовить мясо. | Senya, switch to preparing meat. | #332 "Сеня, переходи на мясо." |  |
-| 8 | Шеф | Он совершенно не умеет готовить птицу. | He does not know how to cook poultry at all. | #334 "Он не может готовить птицу." |  |
-| 9 | Шеф | Луи, позвони другу на две минуты. | Louis, call your friend for two minutes. | #339 "Пара минут трепа по телефону, и он в норме." |  |
-| 10 | Елена | А почему Мазар ничего не делает? | And why is Mazar doing nothing? | #340 "А это почему не справляется?" |  |
-| 11 | Шеф | Потому что он никогда ничего не умеет. | Because he never knows how to do anything. | #341 "А это вообще никогда не справляется." |  |
-| 12 | Шеф | Мазар, ты уволен! | Mazar, you are fired! | #342 "Мазар, ты уволен." |  |
-| 13 | Шеф | Вот теперь кухня работает идеально. | Now the kitchen works perfectly. | *(added)* |  |
+| 1 | Елена | У нас уже три возврата блюд! | We already have three returned dishes! | #324: три отката от блюд. | verbatim |
+| 2 | Елена | Повара ничего не успевают вовремя отдавать. | The cooks cannot serve anything on time. | #325: Вы ничего не успеваете вовремя подавать. | verbatim |
+| 3 | Шеф | Елена Павловна, что здесь случилось? | Elena Pavlovna, what happened here? | #327: Елена Павловна, что случилось? | verbatim |
+| 4 | Елена | Шеф, я совсем не справляюсь. | Chef, I am not coping at all. | #328: Ну, в общем... | verbatim |
+| 5 | Шеф | Спокойно, сейчас я наведу порядок. | Calm down, now I will restore order. | new | new |
+| 6 | Шеф | Федя, иди покури три минуты. | Fedya, go have a smoke for three minutes. | #330: Федя, иди покури, у тебя три минуты. | verbatim |
+| 7 | Шеф | Ему нужен перекур каждые полтора часа. | He needs a smoke break every hour and a half. | #331: Ему надо давать перекур каждые полтора часа. | verbatim |
+| 8 | Шеф | Сеня, переходи готовить мясо. | Senya, switch to preparing meat. | #332: Сеня, переходи на мясо. | verbatim |
+| 9 | Шеф | Он совершенно не умеет готовить птицу. | He does not know how to cook poultry at all. | #334: Он не может готовить птицу. | verbatim |
+| 10 | Шеф | Луи, позвони другу на две минуты. | Louis, call your friend for two minutes. | #339: Пара минут трепа по телефону, и он в норме. | verbatim |
+| 11 | Елена | А почему Мазар ничего не делает? | And why is Mazar doing nothing? | #340: А это почему не справляется? | verbatim |
+| 12 | Шеф | Потому что он никогда ничего не умеет. | Because he never knows how to do anything. | #341: А это вообще никогда не справляется. | verbatim |
+| 13 | Шеф | Мазар, ты уволен! | Mazar, you are fired! | #342: Мазар, ты уволен. | verbatim |
+| 14 | Шеф | Вот теперь кухня работает идеально. | Now the kitchen works perfectly. | new | new |
 
-## Part 5 — Outro & closing
+## Walk-through narration (English only, no target-language words quoted)
 
-> Temporary chef Elena is overwhelmed by mounting ticket delays and customer returns until Chef Barinov steps in and swiftly restores order by addressing each cook's individual habits. Next time you watch the episode, listen for the Russian expressions for 'why' and 'ideally' — you will catch every word right away. See you next time!
-
-**Шеф:** Пока!
+- 'We already have three returned dishes!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'The cooks cannot serve anything on time.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'Elena Pavlovna, what happened here?' — addressing a person with polite name and patronymic.
+- 'Chef, I am not coping at all.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
+- 'Calm down, now I will restore order.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'Fedya, go have a smoke for three minutes.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'He needs a smoke break every hour and a half.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'Senya, switch to preparing meat.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'He does not know how to cook poultry at all.' — stating inability using an intensifying adverb.
+- 'Louis, call your friend for two minutes.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'Because he never knows how to do anything.' — double negation highlighting permanent incompetence.
+- 'Mazar, you are fired!' — a short decisive dismissal in the short passive form.
+- 'Now the kitchen works perfectly.' — pointing word and temporal adverb declaring success. Now listen to the full conversation once more. Now let's listen to the whole conversation again from start to finish.

@@ -7,29 +7,28 @@ SCENE = 7
 TITLE = "Ouvrir l'appétit  (Sharpens My Appetite)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'lea': 'lucie', 'hicham': 'marcel'}
-LABELS = {'lea': 'Andréa', 'hicham': 'Hicham'}
+LABELS = {'andrea': 'Andréa', 'hicham': 'Hicham'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e06.fr.dual.srt'
 INTRO = "Outside Andréa's apartment building after dinner, Hicham gently probes Andréa about her pregnancy and future plans. Andréa feels conflicted about becoming a mother while managing top clients at the Cannes festival. Let's listen to the scene in French first."
 OPENER = "Let's examine Andréa and Hicham's intimate street conversation step by step to explore romantic ambiguity and parenthood."
 TRANSITION = "Now let's listen to the scene once more from start to finish."
 OUTRO = 'Hicham and Andréa share a tender moment on the Parisian pavement as pregnancy forces Andréa to reconsider her priorities before Cannes. See you next time!'
-CLOSING = ('lea', 'À bientôt!')
+CLOSING = ('andrea', 'À bientôt!')
 STORY = [
-    ('lea', 'Merci pour ce très bon dîner, Hicham.', 'Thank you for this very good dinner, Hicham.', [(134, 'Merci pour le dîner.')], ''),
+    ('andrea', 'Merci pour ce très bon dîner, Hicham.', 'Thank you for this very good dinner, Hicham.', [(134, 'Merci pour le dîner.')], ''),
     ('hicham', "Je ne t'ai jamais vue manger autant!", 'I have never seen you eat so much!', [(135, "Je ne t'ai jamais vue manger comme ça.")], ''),
-    ('lea', "Être avec toi m'ouvre l'appétit.", 'Being with you whets my appetite.', [(136, "Être avec toi m'ouvre l'appétit.")], ''),
+    ('andrea', "Être avec toi m'ouvre l'appétit.", 'Being with you whets my appetite.', [(136, "Être avec toi m'ouvre l'appétit.")], ''),
     ('hicham', "Ce n'est pas plutôt la grossesse?", 'Is it not rather the pregnancy?', [(137, "C'est pas plutôt la grossesse ?")], ''),
-    ('lea', 'Non, je ne crois pas vraiment.', 'No, I do not really think so.', [(138, 'Non, je ne crois pas. Et toi ?')], ''),
-    ('lea', "Est-ce que j'ai beaucoup grossi?", 'Have I gained a lot of weight?', [(141, "-J'ai grossi ?")], ''),
+    ('andrea', 'Non, je ne crois pas vraiment.', 'No, I do not really think so.', [(138, 'Non, je ne crois pas. Et toi ?')], ''),
+    ('andrea', "Est-ce que j'ai beaucoup grossi?", 'Have I gained a lot of weight?', [(141, "-J'ai grossi ?")], ''),
     ('hicham', "Non, mais cette grossesse t'a changée.", 'No, but this pregnancy has changed you.', [(142, "ça t'a changée d'une certaine façon.")], ''),
     ('hicham', 'Tu es plus calme et très rayonnante.', 'You are calmer and very radiant.', [(143, 'Tu es plus calme, plus rayonnante.')], ''),
-    ('lea', 'Mes seins ne sont pas très rayonnants!', 'My breasts are not very radiant!', [(144, 'Mes seins ne sont pas vraiment rayonnants !')], ''),
+    ('andrea', 'Mes seins ne sont pas très rayonnants!', 'My breasts are not very radiant!', [(144, 'Mes seins ne sont pas vraiment rayonnants !')], ''),
     ('hicham', 'Je reconnais bien ta rue maintenant.', 'I recognize your street well now.', [(146, 'Oui, je reconnais ta rue.')], ''),
     ('hicham', "Tu t'inquiètes pour le futur bébé?", 'Are you worried about the future baby?', [(151, "Tu t'inquiètes ?")], ''),
-    ('lea', 'Je ne sais pas ce que je ferai.', 'I do not know what I will do.', [(155, 'Je ne sais pas ce que je vais faire.')], ''),
-    ('lea', 'On se verra à mon retour de Cannes.', 'We will see each other on my return from Cannes.', [(156, 'On se voit à mon retour de Cannes ?')], ''),
+    ('andrea', 'Je ne sais pas ce que je ferai.', 'I do not know what I will do.', [(155, 'Je ne sais pas ce que je vais faire.')], ''),
+    ('andrea', 'On se verra à mon retour de Cannes.', 'We will see each other on my return from Cannes.', [(156, 'On se voit à mon retour de Cannes ?')], ''),
 ]
 WALK = [
     (0, None, "'Thank you for this very good dinner, Hicham.' Andréa thanks him politely as they arrive outside her home."),

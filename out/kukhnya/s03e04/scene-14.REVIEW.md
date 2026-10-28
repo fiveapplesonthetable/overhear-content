@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Нагиев | Виктория Сергеевна, душа моя! А чего не дома? | Viktoria Sergeyevna, my soul! Why aren't you at home? | #189 00:12:09: Виктория Сергеевна, душа моя<br>#190 00:12:14: А чего не дома | adapted: adapted |
-| 2 | Нагиев | Чего на работе сидим? | Why are we sitting at work? | #191 00:12:17: Чего на работе | adapted: adapted |
-| 3 | Нагиев | Да ведь мы работаем до последнего гостя. | Why, because we work until the last guest. | #192 00:12:21: Да ведь мы работаем до последнего гостя | verbatim |
-| 4 | Нагиев | На меня намекаете? Какой гость? Я просто хозяин. | Are you hinting at me? What guest? I am simply the owner. | #193 00:12:23: На меня<br>#194 00:12:25: Какой гость? Я просто хозяин | adapted: adapted |
-| 5 | Нагиев | А хозяин — барин! Даю выходной на сегодня. | And the owner is lord! I grant you the night off today. | #195 00:12:28: А хозяин барин<br>#196 00:12:30: на сегодня | adapted: adapted |
-| 6 | Шеф | Продолжим удачный день! | Let's continue this lucky day! | #197 00:12:44: Продолжим удачный день | verbatim |
-| 7 | Нагиев | Если честно, не очень. | To be honest, not really. | #198 00:12:57: Если честно, не очень | verbatim |
-| 8 | Шеф | Виски! | Whiskey! | #199 00:13:09: Виски | verbatim |
-| 9 | Нагиев | Повторить? Нет, не хочу больше пить. | Another round? No, I don't want to drink anymore. | #200 00:13:10: Повторить? Нет, не хочу больше пить | verbatim |
-| 10 | Шеф | Виски? Да, с колой. | Whiskey? Yes, with cola. | #201 00:13:22: Виски? Да, с колой | verbatim |
-| 11 | Шеф | Виски с колой, точно. | Whiskey with cola, for sure. | #202 00:13:25: Виски с колой, точно | verbatim |
-| 12 | Шеф | А как сделаем? | And how shall we do it? | #203 00:13:26: А как сделаем | verbatim |
+| 1 | Нагиев | Виктория Сергеевна, душа моя! А чего не дома? | Viktoria Sergeyevna, my soul! Why aren't you at home? | #189: Виктория Сергеевна, душа моя<br>#190: А чего не дома | adapted: adapted |
+| 2 | Нагиев | Чего на работе сидим? | Why are we sitting at work? | #191: Чего на работе | adapted: adapted |
+| 3 | Вика | Да ведь мы работаем до последнего гостя. | Why, because we work until the last guest. | #192: Да ведь мы работаем до последнего гостя | verbatim |
+| 4 | Нагиев | На меня намекаете? Какой гость? Я просто хозяин. | Are you hinting at me? What guest? I am simply the owner. | #193: На меня<br>#194: Какой гость? Я просто хозяин | adapted: adapted |
+| 5 | Нагиев | А хозяин — барин! Даю выходной на сегодня. | And the owner is lord! I grant you the night off today. | #195: А хозяин барин<br>#196: на сегодня | adapted: adapted |
+| 6 | Шеф | Продолжим удачный день! | Let's continue this lucky day! | #197: Продолжим удачный день | verbatim |
+| 7 | Вика | Если честно, не очень. | To be honest, not really. | #198: Если честно, не очень | verbatim |
+| 8 | Шеф | Виски! | Whiskey! | #199: Виски | verbatim |
+| 9 | Вика | Повторить? Нет, не хочу больше пить. | Another round? No, I don't want to drink anymore. | #200: Повторить? Нет, не хочу больше пить | verbatim |
+| 10 | Шеф | Виски? Да, с колой. | Whiskey? Yes, with cola. | #201: Виски? Да, с колой | verbatim |
+| 11 | Шеф | Виски с колой, точно. | Whiskey with cola, for sure. | #202: Виски с колой, точно | verbatim |
+| 12 | Шеф | А как сделаем? | And how shall we do it? | #203: А как сделаем | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Viktoria Sergeyevna, my soul! Why aren't you at home?' The meaning hinges on 'shower' working together with 'at home' in spoken Russian.
-- 'Why are we sitting at work?' Dmitry Nagiyev raises the pitch on 'we are sitting' to turn the phrase into a direct spoken question. Vika answers right away.
-- 'Why, because we work until the last guest.' In Russian, the idea of 'yes' flows naturally into 'guest' without extra filler words.
-- 'Are you hinting at me? What guest? I am simply the owner.' Spoken Russian keeps this brisk, leaning on 'on' and finishing on 'owner'.
-- 'And the owner is lord! I grant you the night off today.' Notice how Russian expresses 'and' and 'tonight' with crisp inflection rather than helper words. Chef Barinov answers right away.
-- 'Let's continue this lucky day!' Chef Barinov anchors the line on 'let's continue', while 'day' completes the thought.
-- 'To be honest, not really.' Vika brings out the contrast between 'if' and 'honestly' in a few short words.
-- 'Whiskey!' Chef Barinov anchors the line on 'whiskey', while 'whiskey' completes the thought. Vika answers right away.
-- 'Another round? No, I don't want to drink anymore.' Here the Russian phrasing highlights 'to repeat' before landing on 'drink'.
-- 'Whiskey? Yes, with cola.' The meaning hinges on 'whiskey' working together with 'cola' in spoken Russian.
-- 'Whiskey with cola, for sure.' In Russian, the idea of 'whiskey' flows naturally into 'exactly' without extra filler words.
-- 'And how shall we do it?' Chef Barinov brings out the contrast between 'and' and 'how' in a few short words.
+- 'Viktoria Sergeyevna, my soul! Why aren't you at home?' By asking why not Barinov at home are, Nagiyev presses Barinov for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Why are we sitting at work?' Wondering why they sitting at work are cuts straight through the tension between Nagiyev and Barinov. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Why, because we work until the last guest.' Over the moment and the room, Vika answers Barinov without a second thought.
+- 'Are you hinting at me? What guest? I am simply the owner.' Here asking whether Barinov hinting at him shows Nagiyev looking for the real truth. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'And the owner is lord! I grant you the night off today.' Because the owner is, Nagiyev does not bother softening the blow for Barinov. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'Let's continue this lucky day!' Here proposing that they continue this lucky day lets Barinov's real feelings break through.
+- 'To be honest, not really.' Turning from the kitchen to the work, Vika keeps the exchange moving.
+- 'Whiskey!' With the plan and shift at stake, Barinov reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Another round? No, I don't want to drink anymore.' Wondering if no she does not want to drink anymore shows Vika caught off guard.
+- 'Whiskey? Yes, with cola.' With the plan and room hanging in the air, Barinov puts Nagiyev on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Whiskey with cola, for sure.' Around the shift and moment, Barinov sets a calm, everyday tone with Nagiyev.
+- 'And how shall we do it?' Barinov asks whether how shall they do it, refusing to let the point slide.

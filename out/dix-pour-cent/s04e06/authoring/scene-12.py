@@ -7,28 +7,27 @@ SCENE = 12
 TITLE = 'Le budget  (The budget)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'lea': 'lucie', 'mathias': 'marcel'}
-LABELS = {'lea': 'Andréa', 'mathias': 'Mathias'}
+LABELS = {'andrea': 'Andréa', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent S04E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e06.fr.dual.srt'
 INTRO = "In the agency office, Andrea urgently discusses a major movie budget problem with Mathias and asks for his help. We will hear it in French first, so don't worry about catching every word."
 OPENER = "Let's go back through it. Mathias greets Andrea."
 TRANSITION = "Now let's listen to the entire dialogue once more."
 OUTRO = "Andrea realizes the budget problem is serious. When you watch the episode, listen out for the expressions meaning 'madam' and 'producer'. You'll catch them now. See you next time!"
-CLOSING = ('lea', 'À demain!')
+CLOSING = ('andrea', 'À demain!')
 STORY = [
     ('mathias', 'Bonjour, Madame la Productrice...', 'Hello, Madam Producer...', [(526, 'Bonjour, Madame la Productrice...')], ''),
-    ('lea', "Tu m'as fait peur.", 'You scared me.', [(527, "Tu m'as fait peur.")], ''),
+    ('andrea', "Tu m'as fait peur.", 'You scared me.', [(527, "Tu m'as fait peur.")], ''),
     ('mathias', 'Des croissants.', 'Croissants.', [(528, 'Des croissants.')], ''),
-    ('lea', 'Oh, merveilleux.', 'Oh, marvelous.', [(529, 'Oh, merveilleux.')], ''),
+    ('andrea', 'Oh, merveilleux.', 'Oh, marvelous.', [(529, 'Oh, merveilleux.')], ''),
     ('mathias', 'Longue nuit?', 'Long night?', [(530, 'Longue nuit?')], ''),
-    ('lea', "J'ai étudié le projet.", 'I studied the project.', [(532, "J'ai étudié le projet sous tous les angles...")], ''),
-    ('lea', "J'ai revu tout le budget...", 'I reviewed the whole budget...', [(533, 'Revu tout le budget...')], ''),
-    ('lea', 'Les chiffres ne bougent pas.', 'The numbers do not budge.', [(535, 'Les chiffres ne bougent pas, il nous manque 6 millions.')], ''),
-    ('lea', 'Il nous manque 6 millions.', 'We are missing 6 millions.', [(535, 'Les chiffres ne bougent pas, il nous manque 6 millions.')], ''),
+    ('andrea', "J'ai étudié le projet.", 'I studied the project.', [(532, "J'ai étudié le projet sous tous les angles...")], ''),
+    ('andrea', "J'ai revu tout le budget...", 'I reviewed the whole budget...', [(533, 'Revu tout le budget...')], ''),
+    ('andrea', 'Les chiffres ne bougent pas.', 'The numbers do not budge.', [(535, 'Les chiffres ne bougent pas, il nous manque 6 millions.')], ''),
+    ('andrea', 'Il nous manque 6 millions.', 'We are missing 6 millions.', [(535, 'Les chiffres ne bougent pas, il nous manque 6 millions.')], ''),
     ('mathias', 'Tu as appelé Xavier?', 'Did you call Xavier?', [(536, 'Tu as appelé Xavier pour lui demander de faire un effort sur les figurants?')], ''),
-    ('lea', 'Oui.', 'Yes.', [(537, 'Oui.')], ''),
-    ('lea', 'Mais il ne veut pas céder.', 'But he does not want to give in.', [(538, 'Mais il ne veut pas céder.')], ''),
+    ('andrea', 'Oui.', 'Yes.', [(537, 'Oui.')], ''),
+    ('andrea', 'Mais il ne veut pas céder.', 'But he does not want to give in.', [(538, 'Mais il ne veut pas céder.')], ''),
 ]
 WALK = [
     (0, None, "'Hello, Madam Producer...' Mathias teases Andrea with her new title. The key noun here means 'madam', anchored by its matching French article."),

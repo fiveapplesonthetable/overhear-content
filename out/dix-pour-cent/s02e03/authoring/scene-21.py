@@ -7,8 +7,7 @@ SCENE = 21
 TITLE = 'Méthodes de relaxation  (Relaxation Methods)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'norman': 'marcel'}
-LABELS = {'gabriel': 'Gabriel', 'norman': 'Norman'}
+LABELS = {'gabriel': 'Gabriel', 'herve': 'Hervé', 'norman': 'Norman'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e03.fr.dual.srt'
 INTRO = "In the corridors of ASK, agent Gabriel frets over young client Norman Thavaud, who is taking his driving test for the fourth time. While assistant Hervé offers dubious remedies to calm his nerves, Norman stubbornly insists that he is in total control. Listen to the scene in French first. Don't worry about catching every word."
@@ -18,18 +17,18 @@ OUTRO = 'Norman heads off to his driving test determined to rely on his own natu
 CLOSING = ('norman', 'Au revoir!')
 STORY = [
     ('gabriel', "J'ai peur qu'il rate son permis.", 'I am afraid he will fail his driving test.', [(532, "J'ai peur qu'il rate son permis")], ''),
-    ('gabriel', 'Il ne sait pas conduire?', 'Does he not know how to drive?', [(533, '-Il ne sait pas conduire ?')], ''),
+    ('herve', 'Il ne sait pas conduire?', 'Does he not know how to drive?', [(533, '-Il ne sait pas conduire ?')], ''),
     ('gabriel', "Si, mais il panique pendant l'examen.", 'Yes, but he panics during the exam.', [(533, "-Si, c'est juste l'examen"), (534, 'Il panique et se fige')], ''),
     ('gabriel', 'Il ne peut pas tourner sans permis.', 'He cannot film without a license.', [(535, "Il ne peut pas faire le film d'Audiard sans permis")], ''),
-    ('gabriel', "J'ai quelque chose pour se détendre.", 'I have something to relax.', [(547, '-Une taffe pour se détendre')], ''),
+    ('herve', "J'ai quelque chose pour se détendre.", 'I have something to relax.', [(547, '-Une taffe pour se détendre')], ''),
     ('gabriel', "Il ne peut pas fumer avant l'examen!", 'He cannot smoke before the exam!', [(545, 'Il peut pas fumer un joint avant son permis')], ''),
-    ('gabriel', "Alors, j'ai ces pilules très efficaces.", 'Then, I have these very effective pills.', [(549, '-Ou il y a ça'), (550, 'mais légal et efficace')], ''),
+    ('herve', "Alors, j'ai ces pilules très efficaces.", 'Then, I have these very effective pills.', [(549, '-Ou il y a ça'), (550, 'mais légal et efficace')], ''),
     ('norman', 'Regardez les effets secondaires sur Internet!', 'Look at the side effects on the Internet!', [(552, 'Regardez : réactions cutanées'), (555, 'sur Internet')], ''),
-    ('gabriel', "Ils racontent toujours n'importe quoi.", 'They always say total nonsense.', [(555, "Ils racontent n'importe quoi sur Internet")], ''),
+    ('herve', "Ils racontent toujours n'importe quoi.", 'They always say total nonsense.', [(555, "Ils racontent n'importe quoi sur Internet")], ''),
     ('norman', 'Tout médicament a des effets indésirables.', 'Every medication has undesirable effects.', [(557, 'Tout médicament a des effets secondaires')], ''),
     ('norman', "Je n'en ai pas du tout besoin.", 'I do not need it at all.', [(559, "J'en ai pas besoin")], ''),
     ('norman', 'Je suis très calme et détendu.', 'I am very calm and relaxed.', [(559, 'je suis calme et détendu')], ''),
-    ('gabriel', 'Comme vous voulez, mon cher Norman.', 'As you wish, my dear Norman.', [(560, '-Comme vous voulez')], ''),
+    ('herve', 'Comme vous voulez, mon cher Norman.', 'As you wish, my dear Norman.', [(560, '-Comme vous voulez')], ''),
     ('norman', "Attendez, j'ai oublié mon téléphone portable!", 'Wait, I forgot my mobile phone!', [(561, "Attends, j'ai oublié mon téléphone")], ''),
 ]
 WALK = [

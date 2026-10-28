@@ -4,33 +4,32 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 16
 SCENE = 4
-TITLE = "Любопытный Макс  (Curious Max)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Любопытный Макс  (Curious Max)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "chef": "anja", "anya": "alisa"}
-LABELS = {"chef": "Шеф", "anya": "Макс"}
+LABELS = {'barinov': 'Шеф', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.16'
 SOURCE_FILE = 'sources/kukhnya/s01/e16.ru.dual.srt'
 INTRO = 'In the kitchen, Max is bored and looking for a distraction. He approaches Chef Victor and curiously asks about the special dish the chef is preparing, but Victor quickly shuts him down. Let us listen to their conversation in Russian first.'
 OPENER = 'Now let us examine the conversation line by line.'
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "In the kitchen, Max approaches Chef Barinov during a five-minute break, asking what he is cooking and hoping to learn from him and taste the dish. Next time you watch the episode, listen for the Russian expressions for 'it is necessary' and 'to cook' — you will catch every word right away. See you next time!"
-CLOSING = ("chef", "Пока!")
+CLOSING = ('barinov', 'Пока!')
 STORY = [
-    ('anya', 'Шеф.', 'Chef.', [(33, 'Шеф.')], ''),
-    ('chef', 'Что тебе надо?', 'What do you need?', [], ''),
-    ('anya', 'А что вы готовите?', 'And what are you preparing?', [(34, 'А что вы готовите?')], ''),
-    ('chef', 'А тебе какое дело?', 'And what is it to you?', [(34, 'Тебе какое дело?')], ''),
-    ('chef', 'Тебе нечем заняться?', 'Do you have nothing to do?', [(35, 'Тебе что, заняться нечем?')], ''),
-    ('anya', 'У меня есть пять минут.', 'I have five minutes.', [(35, 'Ну, у меня пять минут есть,')], ''),
-    ('anya', 'Я хотел поучиться у вас.', 'I wanted to learn from you.', [(35, 'я хотел поучиться у вас.')], ''),
-    ('chef', 'Иди работай.', 'Go work.', [], ''),
-    ('anya', 'А можно попробовать?', 'And can I try it?', [(36, 'А можно попробовать?')], ''),
-    ('chef', 'Нет, нельзя.', 'No, you cannot.', [], ''),
-    ('anya', 'Почему?', 'Why?', [], ''),
-    ('chef', 'Потому что я так сказал.', 'Because I said so.', [], ''),
-    ('anya', 'Ладно, я понял.', 'Alright, I understand.', [], ''),
-    ('chef', 'Тогда иди отсюда.', 'Then go from here.', [], ''),
+    ('max', 'Шеф.', 'Chef.', [(33, 'Шеф.')], ''),
+    ('barinov', 'Что тебе надо?', 'What do you need?', [], ''),
+    ('max', 'А что вы готовите?', 'And what are you preparing?', [(34, 'А что вы готовите?')], ''),
+    ('barinov', 'А тебе какое дело?', 'And what is it to you?', [(34, 'Тебе какое дело?')], ''),
+    ('barinov', 'Тебе нечем заняться?', 'Do you have nothing to do?', [(35, 'Тебе что, заняться нечем?')], ''),
+    ('max', 'У меня есть пять минут.', 'I have five minutes.', [(35, 'Ну, у меня пять минут есть,')], ''),
+    ('max', 'Я хотел поучиться у вас.', 'I wanted to learn from you.', [(35, 'я хотел поучиться у вас.')], ''),
+    ('barinov', 'Иди работай.', 'Go work.', [], ''),
+    ('max', 'А можно попробовать?', 'And can I try it?', [(36, 'А можно попробовать?')], ''),
+    ('barinov', 'Нет, нельзя.', 'No, you cannot.', [], ''),
+    ('max', 'Почему?', 'Why?', [], ''),
+    ('barinov', 'Потому что я так сказал.', 'Because I said so.', [], ''),
+    ('max', 'Ладно, я понял.', 'Alright, I understand.', [], ''),
+    ('barinov', 'Тогда иди отсюда.', 'Then go from here.', [], ''),
 ]
 WALK = [
     (0, None, "'Chef.' — Built around the key proper name meaning 'chef, boss'."),

@@ -4,31 +4,30 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 9
 SCENE = 3
-TITLE = "Занят с дочерью  (Busy with His Daughter)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Занят с дочерью  (Busy with His Daughter)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "lyova": "angelina", "chef": "anja"}
-LABELS = {"lyova": "Лёва", "chef": "Шеф"}
+LABELS = {'barinov': 'Шеф', 'lyova': 'Лёва'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.09'
 SOURCE_FILE = 'sources/kukhnya/s01/e09.ru.dual.srt'
 INTRO = "In his private office at Claude Monet, Chef Viktor Barinov is supposed to be managing the kitchen during a busy lunch service. When sous-chef Lyova rushes in with urgent orders from VIP guests, Barinov bluntly dismisses him, insisting that spending quality time with his visiting daughter comes before any restaurant dish. Let's listen to their conversation in Russian first."
 OPENER = "Now let's examine Lyova and Chef Barinov's office exchange line by line."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Leaving Chef Barinov happily playing games with Alisa behind closed doors, a flustered Lyova returns to the line to manage the rush and prepare the specialty dishes on his own. Next time you watch the episode, listen for the Russian expressions for 'dish' and 'important' — you will catch every word right away. See you next time!"
-CLOSING = ("lyova", "Пока!")
+CLOSING = ('lyova', 'Пока!')
 STORY = [
     ('lyova', 'Шеф, вам нужно срочно на кухню.', 'Chef, you need to go to the kitchen urgently.', [], ''),
-    ('chef', 'Лёва, не видишь, я занят?', "Lyova, don't you see I am busy?", [(85, 'не видишь, я занят.')], ''),
+    ('barinov', 'Лёва, не видишь, я занят?', "Lyova, don't you see I am busy?", [(85, 'не видишь, я занят.')], ''),
     ('lyova', 'Гости в зале ждут особые блюда.', 'Guests in the dining room are waiting for special dishes.', [(84, 'два блюда от шефа')], ''),
-    ('chef', 'Я сейчас играю с моей дочерью.', 'I am playing with my daughter right now.', [(86, 'Я с дочерью играю.')], ''),
+    ('barinov', 'Я сейчас играю с моей дочерью.', 'I am playing with my daughter right now.', [(86, 'Я с дочерью играю.')], ''),
     ('lyova', 'Но это важный заказ от шефа.', 'But this is an important order from the chef.', [(84, 'блюда от шефа')], ''),
-    ('chef', 'Ты прекрасный повар и справишься сам.', 'You are a wonderful cook and will manage yourself.', [], ''),
+    ('barinov', 'Ты прекрасный повар и справишься сам.', 'You are a wonderful cook and will manage yourself.', [], ''),
     ('lyova', 'Они хотят именно ваше фирменное мясо.', 'They want specifically your signature meat.', [], ''),
-    ('chef', 'Приготовь наше обычное вкусное мясо сам.', 'Cook our usual tasty meat yourself.', [], ''),
+    ('barinov', 'Приготовь наше обычное вкусное мясо сам.', 'Cook our usual tasty meat yourself.', [], ''),
     ('lyova', 'А если гостям не понравится вкус?', 'And what if the guests do not like the taste?', [], ''),
-    ('chef', 'Добавь немного соли и свежего перца.', 'Add a little salt and fresh pepper.', [], ''),
+    ('barinov', 'Добавь немного соли и свежего перца.', 'Add a little salt and fresh pepper.', [], ''),
     ('lyova', 'Шеф, на кухне начинается настоящий хаос.', 'Chef, real chaos is starting in the kitchen.', [], ''),
-    ('chef', 'Закрой дверь и наведите там порядок.', 'Close the door and establish order there.', [], ''),
+    ('barinov', 'Закрой дверь и наведите там порядок.', 'Close the door and establish order there.', [], ''),
     ('lyova', 'Хорошо, шеф, я всё сделаю сам.', 'Alright, chef, I will do everything myself.', [], ''),
 ]
 WALK = [

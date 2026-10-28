@@ -4,18 +4,17 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 10
 SCENE = 11
-TITLE = "Вопрос у барной стойки  (A Question at the Bar)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Вопрос у барной стойки  (A Question at the Bar)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "kostya": "anja", "vika": "angelina"}
-LABELS = {"kostya": "Костя", "vika": "Вика"}
+LABELS = {'kostya': 'Костя', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.10'
 SOURCE_FILE = 'sources/kukhnya/s01/e10.ru.dual.srt'
 INTRO = "In the dining room near the bar counter, art director Victoria notices bartender Kostya finishing up his drink preparations. Having watched Max quickly slip away from the bar area, Victoria approaches Kostya to check if everything is ready and see what is going on. Let's listen to their conversation in Russian first."
 OPENER = "Let's examine the conversation between Victoria and the bartender at the counter line by line."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = 'Now you know how to talk about finished tasks, suspicious behavior, and honest answers in Russian. See you next time!'
-CLOSING = ("kostya", "Пока!")
+CLOSING = ('kostya', 'Пока!')
 STORY = [
     ('vika', 'Костя, ты закончил готовить напитки?', 'Kostya, have you finished preparing the drinks?', [(87, 'Все')], ''),
     ('kostya', 'Да, все заказы уже готовы.', 'Yes, all orders are already ready.', [(87, 'все')], ''),

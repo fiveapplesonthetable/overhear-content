@@ -7,8 +7,7 @@ SCENE = 32
 TITLE = 'Le héros du jour  (The Hero of the Day)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'lea': 'lucie', 'arlette': 'emilie', 'mathias': 'marcel'}
-LABELS = {'lea': 'Andréa', 'arlette': 'Arlette', 'mathias': 'Mathias'}
+LABELS = {'andrea': 'Andréa', 'arlette': 'Arlette', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e04.fr.dual.srt'
 INTRO = 'In the final scene of the fourth episode, the whole agency gathers with glasses of sparkling wine to celebrate Mathias Barneville. Everyone believes he pretended to join their rival StarMédia just to scare off the German buyer and save ASK—and now that he is a hero here, Mathias can hardly leave! Only Andréa still has a quiet doubt. Listen to the French first, without worrying about catching every word.'
@@ -18,19 +17,19 @@ OUTRO = 'That wraps up the fourth episode of Call My Agent: Audrey Fleurot has a
 CLOSING = ('arlette', 'À demain!')
 STORY = [
     ('arlette', 'Champagne! Tu as sauvé notre agence, bravo Mathias!', 'Champagne! You saved our agency, well done Mathias!', [(838, 'Champagne'), (839, 'Faire croire à tout le monde que tu allais chez nos rivaux'), (840, "pour sauver l'agence")], ''),
-    ('lea', 'Vivre dangereusement! Respect, monsieur Barneville!', 'Living dangerously! Respect, Mr Barneville!', [(840, 'Vivre dangereusement'), (841, 'Respect'), (841, 'Barneville')], ''),
+    ('andrea', 'Vivre dangereusement! Respect, monsieur Barneville!', 'Living dangerously! Respect, Mr Barneville!', [(840, 'Vivre dangereusement'), (841, 'Respect'), (841, 'Barneville')], ''),
     ('arlette', "Le héros du jour! Mathias, vous entrerez dans l'histoire.", 'The hero of the day! Mathias, you', [(842, 'Le héros du jour'), (844, "Mathias, vous entrerez dans l'histoire")], ''),
-    ('lea', 'Désolée de vous avoir insulté. Dîner demain?', 'Sorry for insulting you. Dinner tomorrow?', [(845, 'de vous avoir insulté'), (846, 'Dîner demain')], ''),
+    ('andrea', 'Désolée de vous avoir insulté. Dîner demain?', 'Sorry for insulting you. Dinner tomorrow?', [(845, 'de vous avoir insulté'), (846, 'Dîner demain')], ''),
     ('arlette', 'Jean Gabin aussi. Dis pardon, Jean Gabin.', 'Jean Gabin too. Say sorry, Jean Gabin.', [(847, 'Jean Gabin aussi. Dis pardon, Jean Gabin')], ''),
     ('mathias', 'Laisse tomber.', 'Forget it.', [(848, 'Laisse tomber')], ''),
-    ('lea', 'Pourquoi vous ne nous avez rien dit?', 'Why didn', [(849, 'Pourquoi vous ne nous avez rien dit')], ''),
+    ('andrea', 'Pourquoi vous ne nous avez rien dit?', 'Why didn', [(849, 'Pourquoi vous ne nous avez rien dit')], ''),
     ('mathias', 'Je ne voulais prendre aucun risque.', 'I didn', [(850, 'Je ne voulais prendre aucun risque')], ''),
     ('arlette', 'Samuel serait si fier de nous! Encore une goutte.', 'Samuel would be so proud of us! Another drop.', [(851, 'Samuel'), (852, 'Encore une goutte')], ''),
-    ('lea', "Vous n'alliez jamais partir?", 'You were never going to leave?', [(853, "Vous n'alliez jamais partir")], ''),
+    ('andrea', "Vous n'alliez jamais partir?", 'You were never going to leave?', [(853, "Vous n'alliez jamais partir")], ''),
     ('mathias', 'Non! Vous en doutez?', 'No! Do you doubt it?', [(854, 'Non'), (854, 'Vous en doutez')], ''),
-    ('lea', "Un peu. Mais c'est moi.", 'A bit. But that', [(855, "Un peu. Mais c'est moi")], ''),
+    ('andrea', "Un peu. Mais c'est moi.", 'A bit. But that', [(855, "Un peu. Mais c'est moi")], ''),
     ('mathias', 'Quel rabat-joie! On trinque?', 'What a killjoy! Shall we clink glasses?', [(856, 'Quel rabat-joie'), (857, 'On trinque')], ''),
-    ('lea', 'Oui! À ASK!', 'Yes! To ASK!', [(857, 'Oui'), (858, 'À ASK')], ''),
+    ('andrea', 'Oui! À ASK!', 'Yes! To ASK!', [(857, 'Oui'), (858, 'À ASK')], ''),
     ('arlette', 'À ASK! Longue vie!', 'To ASK! Long life!', [(858, 'À ASK'), (859, 'Longue vie')], ''),
     ('mathias', 'Il est bon, ce pétillant. Un peu jeune.', 'It', [(860, 'Il est bon, ce pétillant'), (861, 'Un peu jeune')], ''),
 ]
@@ -47,9 +46,9 @@ WALK = [
     (9, None, "'You were never going to leave?' Quietly, Andréa looks Mathias in the eye. The negative wraps 'never' around 'were going'."),
     (10, None, "'No! Do you doubt it?' Again the little word before 'doubt' means 'of it'."),
     (11, None, "'A bit. But that's me.' Andréa knows Mathias too well to believe he is a saint, even if she can't prove it."),
-    (12, None, "'What a killjoy!' Literally 'what a joy-folder', a colourful compound noun for someone who spoils the mood."),
-    (13, None, "'Shall we clink glasses?' French has a single verb for clinking glasses together in a toast."),
-    (14, None, "'Yes! To ASK!' In a toast, you simply put the linking word 'to' before the name."),
-    (15, None, "'To ASK! Long life!' Notice how the adjective 'long' comes before the noun in this fixed wish."),
-    (16, None, "'It's good, this bubbly. A bit young.' Even at his own triumph, snobbish Mathias cannot resist judging the cheap sparkling wine. Now let's hear the whole celebration again from start to finish."),
+    (12, 'Quel rabat-joie!', "'What a killjoy!' Literally 'what a joy-folder', a colourful compound noun for someone who spoils the mood."),
+    (12, 'On trinque?', "'Shall we clink glasses?' French has a single verb for clinking glasses together in a toast."),
+    (13, None, "'Yes! To ASK!' In a toast, you simply put the linking word 'to' before the name."),
+    (14, None, "'To ASK! Long life!' Notice how the adjective 'long' comes before the noun in this fixed wish."),
+    (15, None, "'It's good, this bubbly. A bit young.' Even at his own triumph, snobbish Mathias cannot resist judging the cheap sparkling wine. Now let's hear the whole celebration again from start to finish."),
 ]

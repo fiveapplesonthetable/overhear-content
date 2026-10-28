@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Сеня | Не понял, что здесь происходит? | I do not understand, what is going on here? | #208 00:15:49: Не понял | adapted: adapted |
-| 2 | Гуля | А я тоже не поняла! | I did not understand either! | #209 00:15:52: А я тоже не поняла | adapted: adapted |
-| 3 | Гуля | Он меня сам стал целовать! | He started kissing me himself! | #210 00:15:54: Он меня сам стал целовать | adapted: adapted |
-| 4 | Гуля | Про какой-то ещё баркас говорил, Сень. | He was talking about some boat too, Senya. | #211 00:15:57: Про какой-то еще<br>#211 00:15:57: говорил, Сень | adapted: adapted |
-| 5 | Сеня | Рот закрой! | Shut your mouth! | #212 00:15:59: закрой | adapted: adapted |
-| 6 | Сеня | Вот денёк какой выдался. | What a day this has turned out to be. | #213 00:16:01: Вот денек какой выдался | adapted: adapted |
-| 7 | Сеня | И друга потерял, и жену. | I lost both a friend and a wife. | #214 00:16:03: И друга потерял<br>#215 00:16:05: И жену | adapted: adapted |
-| 8 | Гуля | Сеня, прекрати, помогите! | Senya, stop it, help! | #218 00:16:13: Помогите! Сеня<br>#219 00:16:15: Сеня, прекратите | adapted: adapted |
-| 9 | Гуля | Сенечка, он сам начал! | Senechka, he started it himself! | #220 00:16:22: Сенечка, он сам начал | adapted: adapted |
-| 10 | Гуля | Ну всё нормально, всё нормально. | Everything is fine, everything is fine. | #221 00:16:25: Ну все нормально<br>#222 00:16:26: Все нормально | adapted: adapted |
-| 11 | Гуля | Сенечка, милый мой, зайчик, послушай. | Senechka, my darling, little bunny, listen. | #223 00:16:29: Сенечка<br>#224 00:16:31: Милый мой. Сенечка, зайчик | adapted: adapted |
-| 12 | Сеня | Увольняйся отсюда сейчас же! | Quit this job right now! | #216 00:16:08: Понял ты | adapted: adapted |
+| 1 | Сеня | Не понял, что здесь происходит? | I do not understand, what is going on here? | #208: Не понял | adapted: adapted |
+| 2 | Гуля | А я тоже не поняла! | I did not understand either! | #209: А я тоже не поняла | adapted: adapted |
+| 3 | Гуля | Он меня сам стал целовать! | He started kissing me himself! | #210: Он меня сам стал целовать | adapted: adapted |
+| 4 | Гуля | Про какой-то ещё баркас говорил, Сень. | He was talking about some boat too, Senya. | #211: Про какой-то еще<br>#211: говорил, Сень | adapted: adapted |
+| 5 | Сеня | Рот закрой! | Shut your mouth! | #212: закрой | adapted: adapted |
+| 6 | Сеня | Вот денёк какой выдался. | What a day this has turned out to be. | #213: Вот денек какой выдался | adapted: adapted |
+| 7 | Сеня | И друга потерял, и жену. | I lost both a friend and a wife. | #214: И друга потерял<br>#215: И жену | adapted: adapted |
+| 8 | Федя | Сеня, прекрати, помогите! | Senya, stop it, help! | #218: Помогите! Сеня<br>#219: Сеня, прекратите | adapted: adapted |
+| 9 | Гуля | Сенечка, он сам начал! | Senechka, he started it himself! | #220: Сенечка, он сам начал | adapted: adapted |
+| 10 | Гуля | Ну всё нормально, всё нормально. | Everything is fine, everything is fine. | #221: Ну все нормально<br>#222: Все нормально | adapted: adapted |
+| 11 | Гуля | Сенечка, милый мой, зайчик, послушай. | Senechka, my darling, little bunny, listen. | #223: Сенечка<br>#224: Милый мой. Сенечка, зайчик | adapted: adapted |
+| 12 | Сеня | Увольняйся отсюда сейчас же! | Quit this job right now! | #216: Понял ты | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I do not understand, what is going on here?' The negative particle sits right before the verb meaning 'understood' to negate the statement.
-- 'I did not understand either!' The meaning hinges on 'and' working together with 'understood' in spoken Russian.
-- 'He started kissing me himself!' An emphatic spoken line centered on the verb meaning 'to become'.
-- 'He was talking about some boat too, Senya.' Gulya anchors the line on 'about', while 'Senya' completes the thought.
-- 'Shut your mouth!' The grammar packs 'mouth' and 'close' into a tight, idiomatic kitchen exchange.
-- 'What a day this has turned out to be.' Senya brings out the contrast between 'here' and 'day' in a few short words.
-- 'I lost both a friend and a wife.' Here the Russian phrasing highlights 'and' before landing on 'wife'.
-- 'Senya, stop it, help!' The meaning hinges on 'Senya' working together with 'help' in spoken Russian.
-- 'Senechka, he started it himself!' An emphatic spoken line centered on the verb meaning 'started'.
-- 'Everything is fine, everything is fine.' Notice how Russian expresses 'come on' and 'normally' with crisp inflection rather than helper words.
-- 'Senechka, my darling, little bunny, listen.' Here the Russian phrasing highlights 'Senechka' before landing on 'listen'.
-- 'Quit this job right now!' Senya brings out the contrast between 'quit' and 'from here' in a few short words.
+- 'I do not understand, what is going on here?' With the plan and friend hanging in the air, Senya puts Fedya on the spot.
+- 'I did not understand either!' Declaring that she did not understand either brings Gulya's temper right to the surface. Russian puts the key word right up front so her emotion lands on the first beat.
+- 'He started kissing me himself!' Gulya insists that he started kissing her himself, leaving Fedya no room to argue. Russian puts the key word right up front so her emotion lands on the first beat.
+- 'He was talking about some boat too, Senya.' Noting that he was talking about some boat keeps Gulya's side of the story simple and clear.
+- 'Shut your mouth!' Senya insists that Fedya should shut Fedya's mouth, leaving Fedya no room to argue. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'What a day this has turned out to be.' Explaining that what a day this has turned out to be lays the cards on the table for Fedya.
+- 'I lost both a friend and a wife.' Senya mentions that he lost both a friend and a wife so Fedya sees what is at stake.
+- 'Senya, stop it, help!' Stopping it help is Fedya's blunt reaction in front of Gulya. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Senechka, he started it himself!' Declaring that someone he started it himself brings Gulya's temper right to the surface. Russian puts the key word right up front so her emotion lands on the first beat.
+- 'Everything is fine, everything is fine.' Gulya explains that everything is fine everything is fine, keeping her voice calm and direct.
+- 'Senechka, my darling, little bunny, listen.' Over the point and the friend, Gulya answers Fedya without a second thought.
+- 'Quit this job right now!' Quitting this job right now shows Senya is done holding back. Russian puts the key word right up front so his emotion lands on the first beat.

@@ -4,18 +4,17 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 2
 SCENE = 13
-TITLE = "Посторонний в баре  (An Outsider in the Bar)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Посторонний в баре  (An Outsider in the Bar)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "vika": "angelina", "master": "anja"}
-LABELS = {"vika": "Вика", "master": "Мастер"}
+LABELS = {'master': 'Мастер', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.02'
 SOURCE_FILE = 'sources/kukhnya/s01/e02.ru.dual.srt'
 INTRO = "At the restaurant bar in Claude Monet, dining room manager Vika discovers an unfamiliar man tampering with the register. Infuriated that an unauthorized stranger is behind the counter without supervision, she angrily throws him out. Let's listen to their argument in Russian."
 OPENER = "Let's examine the dialogue sentence by sentence. Notice the imperative commands and expressions used in urgent situations."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Vika ejects the suspicious repairman from behind the counter and summons Kostya to explain himself. Keep up the great work practicing fast-paced conversational Russian! Next time you watch the episode, listen for the Russian expressions for 'bartender' and 'bar' — you will catch every word right away. See you next time!"
-CLOSING = ("vika", "Пока!")
+CLOSING = ('vika', 'Пока!')
 STORY = [
     ('vika', 'Костя, ты уже починил нашу кассу?', 'Kostya, have you already fixed our register?', [(179, 'ты сикибер починил')], ''),
     ('master', 'Нет, я ещё работаю над этой кассой.', 'No, I am still working on this register.', [(180, 'Нет но и работу надо')], ''),

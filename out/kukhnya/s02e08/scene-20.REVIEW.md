@@ -10,32 +10,32 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Шеф | Хороший фильм. | That was a really good movie. | #342 00:21:28: Хороший фильм | verbatim |
-| 2 | Вика | А я чуть не расплакалась в конце. | I nearly burst into tears at the end. | #343 00:21:31: А я чуть не расплакалась в конце | verbatim |
-| 3 | Шеф | Никогда бы не подумал, что вы умеете плакать. | I never would have guessed that you know how to cry. | #344 00:21:33: Никогда бы не подумал, что вы умеете плакать | verbatim |
-| 4 | Вика | Это почему? | And why is that? | #345 00:21:37: Это почему | verbatim |
-| 5 | Шеф | Вы же шеф-повар. | Because you are a head chef. | #346 00:21:39: вы же шеф-повар | verbatim |
-| 6 | Вика | А мы шеф. | And we head chefs. | #346 00:21:39: а мы шеф | verbatim |
-| 7 | Шеф | А ребята крепкие. | Are tough guys. | #346 00:21:39: а ребята крепкие | verbatim |
-| 8 | Вика | Слушайте, Виктор Петрович, вообще-то я женщина. | Listen, Viktor Petrovich, I am actually a woman. | #347 00:21:42: Слушайте, Виктор Петрович, вообще-то я женщина | verbatim |
-| 9 | Шеф | Да, если вы еще не успели заметить. | Yes, in case you have not managed to notice yet. | #348 00:21:45: Да, если вы еще не успели заметить | verbatim |
-| 10 | Вика | Вот с такими вот крепкими ребятами. | Right alongside tough guys like that. | #350 00:21:51: вот с такими вот крепкими ребятами | verbatim |
-| 11 | Шеф | А я давно хотел спросить? | By the way, I have wanted to ask you for a long time. | #351 00:21:53: А я давно хотел спросить | verbatim |
-| 12 | Вика | Что это за название для ресторана? | What kind of name is that for a restaurant? | #352 00:21:55: Что это за название для ресторана | verbatim |
-| 13 | Шеф | Это просто цвет. | It simply means rainbow in Italian. | #355 00:22:01: это просто цвет | verbatim |
+| 1 | Шеф | Хороший фильм. | That was a really good movie. | #342: Хороший фильм | verbatim |
+| 2 | Вика | А я чуть не расплакалась в конце. | I nearly burst into tears at the end. | #343: А я чуть не расплакалась в конце | verbatim |
+| 3 | Шеф | Никогда бы не подумал, что вы умеете плакать. | I never would have guessed that you know how to cry. | #344: Никогда бы не подумал, что вы умеете плакать | verbatim |
+| 4 | Вика | Это почему? | And why is that? | #345: Это почему | verbatim |
+| 5 | Шеф | Вы же шеф-повар. | Because you are a head chef. | #346: вы же шеф-повар | verbatim |
+| 6 | Вика | А мы шеф. | And we head chefs. | #346: а мы шеф | verbatim |
+| 7 | Шеф | А ребята крепкие. | Are tough guys. | #346: а ребята крепкие | verbatim |
+| 8 | Вика | Слушайте, Виктор Петрович, вообще-то я женщина. | Listen, Viktor Petrovich, I am actually a woman. | #347: Слушайте, Виктор Петрович, вообще-то я женщина | verbatim |
+| 9 | Шеф | Да, если вы еще не успели заметить. | Yes, in case you have not managed to notice yet. | #348: Да, если вы еще не успели заметить | verbatim |
+| 10 | Вика | Вот с такими вот крепкими ребятами. | Right alongside tough guys like that. | #350: вот с такими вот крепкими ребятами | verbatim |
+| 11 | Шеф | А я давно хотел спросить? | By the way, I have wanted to ask you for a long time. | #351: А я давно хотел спросить | verbatim |
+| 12 | Вика | Что это за название для ресторана? | What kind of name is that for a restaurant? | #352: Что это за название для ресторана | verbatim |
+| 13 | Шеф | Это просто цвет. | It simply means rainbow in Italian. | #355: это просто цвет | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'That was a really good movie.' Chef Viktor brings out the contrast between 'good' and 'movie' in a few short words.
-- 'I nearly burst into tears at the end.' The negative particle sits right before the verb meaning 'to burst into tears' to negate the statement.
-- 'I never would have guessed that you know how to cry.' The grammar packs 'never' and 'to cry' into a tight, idiomatic kitchen exchange. Vika answers right away.
-- 'And why is that?' Spoken Russian keeps this brief and expressive, built right around 'why' without extra helper words.
-- 'Because you are a head chef.' Here the Russian phrasing highlights 'you' before landing on 'head chef'.
-- 'And we head chefs.' Here the Russian phrasing highlights 'and' before landing on 'chef'. Chef Viktor answers right away.
-- 'Are tough guys.' Here Chef Barinov anchors the thought on 'kids, guys' and finishes on 'strong', keeping the spoken rhythm brisk and natural.
-- 'Listen, Viktor Petrovich, I am actually a woman.' Spoken Russian keeps this brisk, leaning on 'listen' and finishing on 'woman'.
-- 'Yes, in case you have not managed to notice yet.' Chef Viktor brings out the contrast between 'yes' and 'if' in a few short words. Vika answers right away.
-- 'Right alongside tough guys like that.' The meaning hinges on 'there you go' working together with 'kids' in spoken Russian.
-- 'By the way, I have wanted to ask you for a long time.' Chef Viktor brings out the contrast between 'and' and 'I' in a few short words.
-- 'What kind of name is that for a restaurant?' Notice how Russian expresses 'what' and 'restaurant' with crisp inflection rather than helper words. Chef Viktor answers right away.
-- 'It simply means rainbow in Italian.' Chef Barinov centers this short reply on 'colour', letting a few direct words carry the whole meaning.
+- 'That was a really good movie.' Once that was a really good movie, Barinov can finally tell Vika what he means.
+- 'I nearly burst into tears at the end.' With the plan and kitchen in play, Vika keeps this short reply brisk and direct.
+- 'I never would have guessed that you know how to cry.' Barinov tells Vika that he never would have guessed that Vika knows how to cry without dressing it up.
+- 'And why is that?' With the restaurant and plan hanging in the air, Vika puts Barinov on the spot. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'Because you are a head chef.' Mentioning that because Vika is a head moves the talk in a new direction. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
+- 'And we head chefs.' Between the plan and the point, Vika gives Barinov a quick, grounded response.
+- 'Are tough guys.' Because are tough guys, Barinov treats the matter as settled.
+- 'Listen, Viktor Petrovich, I am actually a woman.' Since she is actually a woman, Vika does not waste words on excuses.
+- 'Yes, in case you have not managed to notice yet.' Barinov mentions that in case Vika has not managed to notice yet so Vika sees what is at stake.
+- 'Right alongside tough guys like that.' Over the story and the conversation, Vika answers Barinov without a second thought.
+- 'By the way, I have wanted to ask you for a long time.' By having wanted to ask Vika for a long time, Barinov presses Vika for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'What kind of name is that for a restaurant?' Asking whether what kind of name is that for a restaurant puts Barinov right on the defensive.
+- 'It simply means rainbow in Italian.' Realizing that it simply means rainbow in Italian changes how Barinov handles the situation. Russian drops "is" in the present, setting the two halves of the thought side by side.

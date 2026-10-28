@@ -10,32 +10,32 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Елена | Ну да. | Well, yes. | #168 00:10:19: Ну да | verbatim |
-| 2 | Аня | Это он может. | That sounds just like him. | #170 00:10:25: Это он может | verbatim |
-| 3 | Елена | Вот. Хорошо. | There. Good. | #173 00:10:35: Вот. Хорошо | verbatim |
-| 4 | Аня | Я могу на вас рассчитывать? | Can I count on you? | #174 00:10:37: Я могу на вас рассчитывать | verbatim |
-| 5 | Елена | Ну, Елена Павловна, будете мне должны. | Well, Elena Pavlovna, you will owe me one. | #176 00:10:42: Ну, Елена Павловна, будете мне должны | verbatim |
-| 6 | Аня | Буду вам должна. | I will owe you one. | #176 00:10:42: Буду вам должна | verbatim |
-| 7 | Елена | Вить, ты дурак, а? | Vitya, are you a fool or what? | #177 00:10:54: Вить, ты дурак, а | verbatim |
-| 8 | Аня | Да ладно. | Oh, come on. | #179 00:11:00: Да ладно | verbatim |
-| 9 | Елена | Ой, представляете, забыла свой телефон. | Oh, can you imagine, I forgot my phone. | #180 00:11:07: Ой, представляете, забыла свой телефон | verbatim |
-| 10 | Аня | А, я бежать хотел. | Ah, I was just about to head out. | #181 00:11:09: А, я бежать хотел | verbatim |
-| 11 | Елена | До свидания. | Goodbye. | #182 00:11:11: До свидания | verbatim |
-| 12 | Аня | Ты жив там? | Are you still alive under there? | #183 00:11:15: ты жив там | verbatim |
-| 13 | Елена | Не то слово. | You bet I am. | #184 00:11:19: Не то слово | verbatim |
+| 1 | Елена | Ну да. | Well, yes. | #168: Ну да | verbatim |
+| 2 | Макс | Это он может. | That sounds just like him. | #170: Это он может | verbatim |
+| 3 | Елена | Вот. Хорошо. | There. Good. | #173: Вот. Хорошо | verbatim |
+| 4 | Макс | Я могу на вас рассчитывать? | Can I count on you? | #174: Я могу на вас рассчитывать | verbatim |
+| 5 | Елена | Ну, Елена Павловна, будете мне должны. | Well, Elena Pavlovna, you will owe me one. | #176: Ну, Елена Павловна, будете мне должны | verbatim |
+| 6 | Макс | Буду вам должна. | I will owe you one. | #176: Буду вам должна | verbatim |
+| 7 | Елена | Вить, ты дурак, а? | Vitya, are you a fool or what? | #177: Вить, ты дурак, а | verbatim |
+| 8 | Макс | Да ладно. | Oh, come on. | #179: Да ладно | verbatim |
+| 9 | Елена | Ой, представляете, забыла свой телефон. | Oh, can you imagine, I forgot my phone. | #180: Ой, представляете, забыла свой телефон | verbatim |
+| 10 | Макс | А, я бежать хотел. | Ah, I was just about to head out. | #181: А, я бежать хотел | verbatim |
+| 11 | Елена | До свидания. | Goodbye. | #182: До свидания | verbatim |
+| 12 | Макс | Ты жив там? | Are you still alive under there? | #183: ты жив там | verbatim |
+| 13 | Елена | Не то слово. | You bet I am. | #184: Не то слово | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, yes.' In Russian, the idea of 'come on' flows naturally into 'yes' without extra filler words. Max answers right away.
-- 'That sounds just like him.' Here the Russian phrasing highlights 'this' before landing on 'maybe'.
-- 'There. Good.' The grammar packs 'there you go' and 'fine' into a tight, idiomatic kitchen exchange.
-- 'Can I count on you?' Here the Russian phrasing highlights 'I' before landing on 'to count on'. Elena answers right away.
-- 'Well, Elena Pavlovna, you will owe me one.' Elena brings out the contrast between 'come on' and 'Elena' in a few short words.
-- 'I will owe you one.' Here the Russian phrasing highlights 'will' before landing on 'must'.
-- 'Vitya, are you a fool or what?' Elena addresses the listener with the informal singular 'you' alongside 'and'. Max answers right away.
-- 'Oh, come on.' Max anchors the line on 'yes', while 'really?!' completes the thought.
-- 'Oh, can you imagine, I forgot my phone.' Elena anchors the line on 'oh no', while 'phone' completes the thought.
-- 'Ah, I was just about to head out.' The '-l' ending on the verb meaning 'wanted' places the action in the masculine past tense. Elena answers right away.
-- 'Goodbye.' The grammar packs 'until' and 'meeting' into a tight, idiomatic kitchen exchange.
-- 'Are you still alive under there?' The meaning hinges on 'you' working together with 'there' in spoken Russian.
-- 'You bet I am.' Elena brings out the contrast between 'not' and 'then' in a few short words.
+- 'Well, yes.' With the trip and phone in play, Elena keeps this short reply brisk and direct.
+- 'That sounds just like him.' Max explains that that sounds just like him, keeping his voice calm and direct. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'There. Good.' Turning from the trip to the kitchen, Elena keeps the exchange moving.
+- 'Can I count on you?' Checking whether he counts on Elena cuts straight through the tension between Max and Elena.
+- 'Well, Elena Pavlovna, you will owe me one.' Even though Max will owe her one, Elena keeps a steady face in front of Max.
+- 'I will owe you one.' Admitting that he will owe Elena one shows Max being honest for a change. Notice how he sticks to the formal "you", keeping a professional line between them.
+- 'Vitya, are you a fool or what?' By checking whether Max a fool, Elena presses Max for a straight answer.
+- 'Oh, come on.' Turning from the phone to the trip, Max keeps the exchange moving.
+- 'Oh, can you imagine, I forgot my phone.' Adding that can Max imagines she forgot her phone fills in the missing piece for Max.
+- 'Ah, I was just about to head out.' Saying that he was just about to head out is how Max sets the tone with Elena.
+- 'Goodbye.' With the phone and conversation in play, Elena keeps this short reply brisk and direct.
+- 'Are you still alive under there?' Checking whether Elena still alive under there cuts straight through the tension between Max and Elena. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'You bet I am.' Elena reminds Max that Max bets she is before the moment passes.

@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Нагиев | Ты не думал, что мог бы стать хорошим актером? | Have you ever thought that you could become a good actor? | #119 00:07:47: Ты не думал, что мог бы стать хорошим актером? | adapted: exact |
-| 2 | Шеф | А ты не думал? | And have you ever thought that? | #120 00:07:50: А ты? | adapted: adapted |
-| 3 | Нагиев | Узнаю старика, я к тебе по делу. | I recognize my old friend, I am here on business. | #121 00:07:52: Узнаю, старика. Я к тебе по делу | adapted: adapted |
-| 4 | Нагиев | Я тебе шанс хочу дать сняться в хорошем кино. | I want to give you a chance to act in a good movie. | #122 00:07:55: Я тебе шанс хочу дать. Сняться в хорошем кино | adapted: adapted |
-| 5 | Шеф | Ни за какие деньги. | Not for any money. | #124 00:08:00: Ни за какие деньги | adapted: exact |
-| 6 | Нагиев | Даю сто тысяч рублей. | I am offering a hundred thousand rubles. | #125 00:08:01: Сто тысяч | adapted: adapted |
-| 7 | Шеф | Давай двести тысяч. | Make it two hundred thousand. | #125 00:08:01: Двести | adapted: adapted |
-| 8 | Нагиев | Ты совесть имей, в стране кризис. | Have a conscience, there is a crisis in the country. | #126 00:08:03: Ты совесть имей<br>#127 00:08:05: Кризис | adapted: adapted |
-| 9 | Шеф | Ладно, сто тысяч. | Fine, a hundred thousand. | #129 00:08:09: Ладно, сто тысяч | adapted: exact |
-| 10 | Шеф | Но только ты заказываешь у меня обед для всей группы. | But only if you order lunch from me for the entire crew. | #130 00:08:10: Но только ты заказываешь у меня обед для всей | adapted: adapted |
-| 11 | Нагиев | Красавчик, пойдем познакомлю тебя с большим кино. | Good man, come on, I will introduce you to big cinema. | #131 00:08:15: Красавчик<br>#132 00:08:17: Пойдем, познакомлю тебя с большим кино | adapted: adapted |
-| 12 | Нагиев | Погнали снимать! | Let's roll and film! | #134 00:08:22: Погнали | adapted: adapted |
+| 1 | Нагиев | Ты не думал, что мог бы стать хорошим актером? | Have you ever thought that you could become a good actor? | #119: Ты не думал, что мог бы стать хорошим актером? | adapted: exact |
+| 2 | Шеф | А ты не думал? | And have you ever thought that? | #120: А ты? | adapted: adapted |
+| 3 | Нагиев | Узнаю старика, я к тебе по делу. | I recognize my old friend, I am here on business. | #121: Узнаю, старика. Я к тебе по делу | adapted: adapted |
+| 4 | Нагиев | Я тебе шанс хочу дать сняться в хорошем кино. | I want to give you a chance to act in a good movie. | #122: Я тебе шанс хочу дать. Сняться в хорошем кино | adapted: adapted |
+| 5 | Шеф | Ни за какие деньги. | Not for any money. | #124: Ни за какие деньги | adapted: exact |
+| 6 | Нагиев | Даю сто тысяч рублей. | I am offering a hundred thousand rubles. | #125: Сто тысяч | adapted: adapted |
+| 7 | Шеф | Давай двести тысяч. | Make it two hundred thousand. | #125: Двести | adapted: adapted |
+| 8 | Нагиев | Ты совесть имей, в стране кризис. | Have a conscience, there is a crisis in the country. | #126: Ты совесть имей<br>#127: Кризис | adapted: adapted |
+| 9 | Шеф | Ладно, сто тысяч. | Fine, a hundred thousand. | #129: Ладно, сто тысяч | adapted: exact |
+| 10 | Шеф | Но только ты заказываешь у меня обед для всей группы. | But only if you order lunch from me for the entire crew. | #130: Но только ты заказываешь у меня обед для всей | adapted: adapted |
+| 11 | Нагиев | Красавчик, пойдем познакомлю тебя с большим кино. | Good man, come on, I will introduce you to big cinema. | #131: Красавчик<br>#132: Пойдем, познакомлю тебя с большим кино | adapted: adapted |
+| 12 | Нагиев | Погнали снимать! | Let's roll and film! | #134: Погнали | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Have you ever thought that you could become a good actor?' Here the Russian phrasing highlights 'you' before landing on 'actor'.
-- 'And have you ever thought that?' In Russian, the idea of 'and' flows naturally into 'thought' without extra filler words.
-- 'I recognize my old friend, I am here on business.' Notice how Russian expresses 'will find out' and 'case' with crisp inflection rather than helper words.
-- 'I want to give you a chance to act in a good movie.' Notice how Russian expresses 'I' and 'cinema' with crisp inflection rather than helper words.
-- 'Not for any money.' The meaning hinges on 'not even' working together with 'money' in spoken Russian.
-- 'I am offering a hundred thousand rubles.' In Russian, the idea of 'give' flows naturally into 'rubles' without extra filler words. Chef Barinov answers right away.
-- 'Make it two hundred thousand.' Spoken Russian keeps this brisk, leaning on 'come on' and finishing on 'thousand'.
-- 'Have a conscience, there is a crisis in the country.' Here Nagiyev anchors the thought on 'conscience' and finishes on 'crisis', keeping the spoken rhythm brisk and natural.
-- 'Fine, a hundred thousand.' Here the Russian phrasing highlights 'all right' before landing on 'thousand'.
-- 'But only if you order lunch from me for the entire crew.' Notice how Russian expresses 'but' and 'crew' with crisp inflection rather than helper words.
-- 'Good man, come on, I will introduce you to big cinema.' The grammar packs 'good man' and 'cinema' into a tight, idiomatic kitchen exchange.
-- 'Let's roll and film!' Notice how Russian expresses 'let us roll' and 'to take off' with crisp inflection rather than helper words.
+- 'Have you ever thought that you could become a good actor?' By checking whether Barinov ever thought that Barinov could become a good actor, Nagiyev presses Barinov for a straight answer.
+- 'And have you ever thought that?' Asking whether Nagiyev ever thought cuts straight through the tension between Barinov and Nagiyev. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'I recognize my old friend, I am here on business.' Nagiyev tells Barinov that he recognizes his old friend he is here on business without dressing it up. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'I want to give you a chance to act in a good movie.' Realizing that he wants to give Barinov a chance to act in a good movie changes how Nagiyev handles the situation.
+- 'Not for any money.' With the point and deal in play, Barinov keeps this short reply brisk and direct.
+- 'I am offering a hundred thousand rubles.' Realizing that he is offering a hundred thousand rubles changes how Nagiyev handles the situation.
+- 'Make it two hundred thousand.' Making it two hundred thousand is how Barinov lays out the situation for Nagiyev.
+- 'Have a conscience, there is a crisis in the country.' Noting that have a conscience there is a crisis in the country keeps Nagiyev's side of the story simple and clear. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Fine, a hundred thousand.' Between the point and the menu, Barinov gives Nagiyev a quick, grounded response.
+- 'But only if you order lunch from me for the entire crew.' Admitting that only if Nagiyev orders lunch from him for the entire crew shows Barinov being honest for a change.
+- 'Good man, come on, I will introduce you to big cinema.' Saying that good man come on he will introduce Barinov to big cinema is how Nagiyev sets the tone with Barinov. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Let's roll and film!' Here proposing that they roll and film lets Nagiyev's real feelings break through. Russian puts the key word right up front so his emotion lands on the first beat.

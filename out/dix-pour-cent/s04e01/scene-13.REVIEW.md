@@ -1,31 +1,43 @@
-# Review: `dix-pour-cent-s04e01-scene-13` — Les pleurs de décharge  (Release Crying)
+# dix-pour-cent-s04e01-scene-13: review sheet
 
-- **Source**: `sources/dix-pour-cent/s04/e01.fr.dual.srt`
-- **Level**: A1 — débutant
-- **Voices**: `{"narrator": "sky", "lea": "lucie", "colette": "emilie"}`
-- **Labels**: `{"lea": "Andréa", "colette": "Colette"}`
+Title: Les pleurs de décharge  (Release Crying)
+Level: A1 — débutant
+Pair: fr-en
+Source: Dix pour cent (Call My Agent!) S04E01
 
-## Part 1 — Intro
-> In the quiet living room, Colette notices that baby Flora immediately stops crying when held. Andrea explains the pediatric concept of release crying, leading to a thoughtful exchange between the exhausted mothers. Let's listen to their conversation in French first.
 
-## Part 2 — Story Lines
-| # | Role | French | English | Source Cues |
-|---|------|--------|---------|-------------|
-| 0 | `colette` (Colette) | Tu as vu ça, Andréa? | Did you see that, Andrea? | 661:Tu as vu ça |
-| 1 | `lea` (Andréa) | Elle arrête de pleurer dans tes bras. | She stops crying in your arms. | 662:Elle arrête de pleurer |
-| 2 | `colette` (Colette) | Elle a besoin de notre présence. | She needs our presence. | 663:en sécurité |
-| 3 | `lea` (Andréa) | Ce sont des pleurs de décharge. | These are release crying episodes. | 664:Les pleurs de décharge |
-| 4 | `colette` (Colette) | Qu'est-ce que cela veut dire? | What does that mean? | 664:Les pleurs de décharge |
-| 5 | `lea` (Andréa) | Le bébé évacue tout son stress. | The baby releases all its stress. | 665:se sentir en sécurité |
-| 6 | `colette` (Colette) | C'est donc un très bon signe? | Is that a very good sign? | 666:Bien au contraire |
-| 7 | `lea` (Andréa) | Bien au contraire, c'est de l'angoisse. | Quite the opposite, it is anxiety. | 666:Bien au contraire |
-| 8 | `colette` (Colette) | Où as-tu appris toutes ces théories? | Where did you learn all these theories? | 667:sur ton bureau |
-| 9 | `lea` (Andréa) | Le livre est sur ton bureau. | The book is on your desk. | 667:sur ton bureau |
-| 10 | `colette` (Colette) | Oui, il est super ce livre! | Yes, it is great, this book! | 668:Il est super |
-| 11 | `lea` (Andréa) | Il faut le lire très attentivement. | One must read it very attentively. | 668:Il est super |
-| 12 | `colette` (Colette) | Je vais me coucher maintenant. | I am going to bed now. | 669:Je vais me coucher |
-| 13 | `lea` (Andréa) | Bonne nuit, dors bien cette nuit. | Good night, sleep well tonight. | 669:Je vais me coucher |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 5 — Outro & Closing
-> Andrea and Colette navigate the emotional intricacies of new parenthood together. When you watch the episode, listen out for the expressions meaning 'seen' and 'stops'. You'll catch them now. See you next time!
-- **Closing**: `lea`: *Bonne soirée!*
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+|---|---|---|---|---|---|
+| 1 | Colette | Tu as vu ça, Andréa? | Did you see that, Andrea? | #661: Tu as vu ça | verbatim |
+| 2 | Andréa | Elle arrête de pleurer dans tes bras. | She stops crying in your arms. | #662: Elle arrête de pleurer | verbatim |
+| 3 | Colette | Elle a besoin de notre présence. | She needs our presence. | #663: en sécurité | verbatim |
+| 4 | Andréa | Ce sont des pleurs de décharge. | These are release crying episodes. | #664: Les pleurs de décharge | verbatim |
+| 5 | Colette | Qu'est-ce que cela veut dire? | What does that mean? | #664: Les pleurs de décharge | verbatim |
+| 6 | Andréa | Le bébé évacue tout son stress. | The baby releases all its stress. | #665: se sentir en sécurité | verbatim |
+| 7 | Colette | C'est donc un très bon signe? | Is that a very good sign? | #666: Bien au contraire | verbatim |
+| 8 | Andréa | Bien au contraire, c'est de l'angoisse. | Quite the opposite, it is anxiety. | #666: Bien au contraire | verbatim |
+| 9 | Colette | Où as-tu appris toutes ces théories? | Where did you learn all these theories? | #667: sur ton bureau | verbatim |
+| 10 | Andréa | Le livre est sur ton bureau. | The book is on your desk. | #667: sur ton bureau | verbatim |
+| 11 | Colette | Oui, il est super ce livre! | Yes, it is great, this book! | #668: Il est super | verbatim |
+| 12 | Andréa | Il faut le lire très attentivement. | One must read it very attentively. | #668: Il est super | verbatim |
+| 13 | Colette | Je vais me coucher maintenant. | I am going to bed now. | #669: Je vais me coucher | verbatim |
+| 14 | Andréa | Bonne nuit, dors bien cette nuit. | Good night, sleep well tonight. | #669: Je vais me coucher | verbatim |
+
+## Walk-through narration (English only, no target-language words quoted)
+
+- 'Did you see that, Andrea?' Colette points out the sudden change in Flora's behavior. The informal 'you' form around 'have' marks a direct, personal relationship.
+- 'She stops crying in your arms.' Andrea confirms the soothing effect of physical contact. Andrea uses the casual singular 'you' with 'stops', showing close familiarity.
+- 'She needs our presence.' Colette emphasizes parental comfort. Notice how 'has' leads directly into the noun meaning 'need'.
+- 'These are release crying episodes.' Andrea introduces a pediatric concept. The key noun here means 'tears', anchored by its matching French article.
+- 'What does that mean?' Colette asks for clarification. In spoken French, the little word before 'wants' drops its final vowel and attaches with an apostrophe.
+- 'The baby releases all its stress.' Andrea explains the physiological process. The verb meaning 'releases' pairs naturally with the noun for 'baby' in everyday conversation.
+- 'Is that a very good sign?' Colette wonders if it indicates healthy development. The descriptive adjective for 'good' agrees in gender and number with its noun.
+- 'Quite the opposite, it is anxiety.' Andrea corrects the misunderstanding. The key noun here means 'opposite', anchored by its matching French article.
+- 'Where did you learn all these theories?' Colette asks about the source of knowledge. Inverting the verb and pronoun around 'have' creates a crisp, polished question.
+- 'The book is on your desk.' Andrea mentions the parenting guide. The informal 'you' form around 'book' marks a direct, personal relationship.
+- 'Yes, it is great, this book!' Colette confirms having seen the volume. The key noun here means 'book', anchored by its matching French article.
+- 'One must read it very attentively.' Andrea encourages careful study. The clause hinges on the everyday verb meaning 'must'.
+- 'I am going to bed now.' Colette heads to the bedroom to rest. The short 'self' word sits right in front of the verb for 'am going', turning the action back onto the subject.
+- 'Good night, sleep well tonight.' Andrea offers loving parting wishes. Notice how 'sleep' leads directly into the noun meaning 'night'.

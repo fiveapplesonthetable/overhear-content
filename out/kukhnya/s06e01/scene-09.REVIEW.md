@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Элеонора | Дима, олигарх приехал! | Dima, the oligarch has arrived! | #151 00:10:16: Дима, Дима, Дима | adapted: adapted |
-| 2 | Элеонора | Как я рада вас видеть! | How glad I am to see you! | #153 00:10:21: как рада вас видеть | adapted: adapted |
-| 3 | Гость | Мое поздравление молодоженам. | My congratulations to the newlyweds. | #154 00:10:24: Мое поздравление молодоженам | adapted: exact |
-| 4 | Элеонора | Одно ваше присутствие — это уже подарок. | Your presence alone is already a gift. | #155 00:10:27: Одно ваше присутствие, это уже подарок | adapted: adapted |
-| 5 | Элеонора | Ух ты, тяжелый подарок. | Wow, it is a heavy gift. | #156 00:10:30: Ух ты, тяжелый | adapted: adapted |
-| 6 | Элеонора | Там золотой слиток? | Is there a gold ingot in there? | #157 00:10:32: золотой слиток | adapted: adapted |
-| 7 | Гость | Можете взглянуть. | You may take a look. | #158 00:10:34: Можете взглянуть | adapted: exact |
-| 8 | Элеонора | Это просто кирпич. | It is just a brick. | #159 00:10:38: Кирпич | adapted: adapted |
-| 9 | Гость | Это непростой кирпич, а внутри золотой слиток. | It is no ordinary brick, and inside is a gold ingot. | #160 00:10:40: Это непростой кирпич<br>#161 00:10:44: а внутри золотой слиток | adapted: adapted |
-| 10 | Гость | И я готов его финансировать. | And I am ready to finance it. | #163 00:10:51: И я готов его финансировать | adapted: exact |
-| 11 | Элеонора | Боже мой, спасибо вам огромное! | Oh my goodness, thank you so much! | #164 00:10:53: Боже мой, спасибо | adapted: adapted |
-| 12 | Гость | Я приехал с супругой, а вот она. | I arrived with my wife, and here she is. | #170 00:11:09: Нет, с супругой<br>#171 00:11:11: А вот, кстати, она | adapted: adapted |
+| 1 | Элеонора | Дима, олигарх приехал! | Dima, the oligarch has arrived! | #151: Дима, Дима, Дима | adapted: adapted |
+| 2 | Элеонора | Как я рада вас видеть! | How glad I am to see you! | #153: как рада вас видеть | adapted: adapted |
+| 3 | Гость | Мое поздравление молодоженам. | My congratulations to the newlyweds. | #154: Мое поздравление молодоженам | adapted: exact |
+| 4 | Элеонора | Одно ваше присутствие — это уже подарок. | Your presence alone is already a gift. | #155: Одно ваше присутствие, это уже подарок | adapted: adapted |
+| 5 | Нагиев | Ух ты, тяжелый подарок. | Wow, it is a heavy gift. | #156: Ух ты, тяжелый | adapted: adapted |
+| 6 | Нагиев | Там золотой слиток? | Is there a gold ingot in there? | #157: золотой слиток | adapted: adapted |
+| 7 | Гость | Можете взглянуть. | You may take a look. | #158: Можете взглянуть | adapted: exact |
+| 8 | Нагиев | Это просто кирпич. | It is just a brick. | #159: Кирпич | adapted: adapted |
+| 9 | Гость | Это непростой кирпич, а внутри золотой слиток. | It is no ordinary brick, and inside is a gold ingot. | #160: Это непростой кирпич<br>#161: а внутри золотой слиток | adapted: adapted |
+| 10 | Гость | И я готов его финансировать. | And I am ready to finance it. | #163: И я готов его финансировать | adapted: exact |
+| 11 | Элеонора | Боже мой, спасибо вам огромное! | Oh my goodness, thank you so much! | #164: Боже мой, спасибо | adapted: adapted |
+| 12 | Гость | Я приехал с супругой, а вот она. | I arrived with my wife, and here she is. | #170: Нет, с супругой<br>#171: А вот, кстати, она | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dima, the oligarch has arrived!' Eleonora anchors the line on 'Dima', while 'came' completes the thought.
-- 'How glad I am to see you!' The grammar packs 'how' and 'to see' into a tight, idiomatic kitchen exchange.
-- 'My congratulations to the newlyweds.' The meaning hinges on 'my' working together with 'newlyweds' in spoken Russian.
-- 'Your presence alone is already a gift.' Spoken Russian keeps this brisk, leaning on 'one' and finishing on 'gift'. Dmitry Nagiyev answers right away.
-- 'Wow, it is a heavy gift.' Dmitry Nagiyev anchors the line on 'oh', while 'gift' completes the thought.
-- 'Is there a gold ingot in there?' The grammar packs 'there' and 'ingot' into a tight, idiomatic kitchen exchange.
-- 'You may take a look.' Here the Russian phrasing highlights 'can' before landing on 'to take a look'. Dmitry Nagiyev answers right away.
-- 'It is just a brick.' Dmitry Nagiyev brings out the contrast between 'this' and 'simply' in a few short words.
-- 'It is no ordinary brick, and inside is a gold ingot.' the guest anchors the line on 'this', while 'ingot' completes the thought.
-- 'And I am ready to finance it.' Here the guest anchors the thought on 'ready' and finishes on 'to finance', keeping the spoken rhythm brisk and natural.
-- 'Oh my goodness, thank you so much!' Eleonora brings out the contrast between 'God' and 'my' in a few short words.
-- 'I arrived with my wife, and here she is.' In Russian, the idea of 'I' flows naturally into 'she' without extra filler words.
+- 'Dima, the oligarch has arrived!' Eleonora declares that the oligarch has arrived as the tension in the room peaks. Russian puts the key word right up front so her emotion lands on the first beat.
+- 'How glad I am to see you!' Because how glad she is to see the guest, Eleonora does not bother softening the blow for the guest.
+- 'My congratulations to the newlyweds.' With the conversation and gift in play, the guest keeps this short reply brisk and direct.
+- 'Your presence alone is already a gift.' Once the guest's presence alone is already a gift, Eleonora can finally tell the guest what she means. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.
+- 'Wow, it is a heavy gift.' Adding that wow it is a heavy gift fills in the missing piece for Eleonora.
+- 'Is there a gold ingot in there?' Checking whether there a gold ingot in there cuts straight through the tension between Nagiyev and Eleonora. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'You may take a look.' Since Eleonora may take a look, the guest does not waste words on excuses.
+- 'It is just a brick.' Mentioning that it is just a brick moves the talk in a new direction.
+- 'It is no ordinary brick, and inside is a gold ingot.' The guest tells Eleonora that it is no ordinary brick and inside is a gold ingot without dressing it up. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'And I am ready to finance it.' Explaining that he is ready to finance it lays the cards on the table for Eleonora.
+- 'Oh my goodness, thank you so much!' Over the moment and the wedding, Eleonora lets her real feelings show.
+- 'I arrived with my wife, and here she is.' The guest mentions that he arrived with his wife and here she is so Eleonora sees what is at stake.

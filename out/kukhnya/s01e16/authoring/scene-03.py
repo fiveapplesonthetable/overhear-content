@@ -4,18 +4,17 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 16
 SCENE = 3
-TITLE = "Ответный удар  (Strike Back)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Ответный удар  (Strike Back)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "nagiyev": "angelina", "chef": "anja"}
-LABELS = {"nagiyev": "Нагиев", "chef": "Шеф"}
+LABELS = {'barinov': 'Шеф', 'nagiyev': 'Нагиев'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.16'
 SOURCE_FILE = 'sources/kukhnya/s01/e16.ru.dual.srt'
 INTRO = 'Realizing that the neighboring Italian restaurant, Arcobaleno, ordered the fake fire inspection, Dmitry decides to take revenge. He angrily calls the immigration service with a fake complaint against his rivals. Let us listen to their conversation in Russian first.'
 OPENER = 'Now let us examine the conversation line by line.'
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Furious at his rivals at Arcobaleno, Chef Barinov declares war and calls the migration service with a dramatic complaint to retaliate against the neighboring restaurant. Next time you watch the episode, listen for the Russian expressions for 'to want' and 'war' — you will catch every word right away. See you next time!"
-CLOSING = ("chef", "Пока!")
+CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('nagiyev', 'Вы хотите войну?', 'Do you want a war?', [(27, 'Война и хотите, будет вам война.')], ''),
     ('nagiyev', 'Будет вам война.', 'There will be a war for you.', [(27, 'будет вам война.')], ''),
@@ -28,9 +27,9 @@ STORY = [
     ('nagiyev', 'А вы там спите?', 'And are you sleeping there?', [(31, 'А вы что, там спите?')], ''),
     ('nagiyev', 'Приезжайте быстро.', 'Come quickly.', [], ''),
     ('nagiyev', 'Аркабалена.', 'Arcobaleno.', [(32, 'Аркабалена.')], ''),
-    ('chef', 'Что ты делаешь?', 'What are you doing?', [], ''),
+    ('barinov', 'Что ты делаешь?', 'What are you doing?', [], ''),
     ('nagiyev', 'Я решаю наши проблемы.', 'I am solving our problems.', [], ''),
-    ('chef', 'Молодец, так держать.', 'Well done, keep it up.', [], ''),
+    ('barinov', 'Молодец, так держать.', 'Well done, keep it up.', [], ''),
 ]
 WALK = [
     (0, None, "'Do you want a war?' Nagiyev turns a statement into a question purely through rising intonation on the word meaning 'want', followed by 'the war'."),

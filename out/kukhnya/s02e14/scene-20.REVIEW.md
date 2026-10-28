@@ -10,32 +10,32 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Настя | Дело в том. | The thing is. | #336 00:20:31: Дело в том | verbatim |
-| 2 | Илья | Я не знаю, как правильно чистить картошку. | I do not know how to peel potatoes properly. | #337 00:20:35: Я не знаю, как правильно чистить картошку | verbatim |
-| 3 | Илья | А у меня лосось горит. | And my salmon is burning! | #339 00:20:42: А у меня лосось горит | verbatim |
-| 4 | Настя | Попробуйте соус. | Please taste this sauce. | #340 00:20:45: Попробуйте соус | verbatim |
-| 5 | Илья | А вот меня скрываете. | Why are you all blocking my way? | #341 00:20:47: А вот меня скрываете | verbatim |
-| 6 | Илья | Настя, ты Сашу с Ильей не видела? | Nastya, have you seen Sasha and Ilya? | #342 00:20:54: Настя, ты Сашу с Ильей не видела | verbatim |
-| 7 | Настя | Илью не видела. | I have not seen Ilya. | #343 00:20:57: Илью не видела | verbatim |
-| 8 | Илья | Это совсем не то, что вы подумали. | This is not at all what you think. | #345 00:21:29: Это совсем не то, что вы подумали | verbatim |
-| 9 | Илья | Ты как туда попал-то вообще? | How on earth did you even get in there? | #346 00:21:39: Ты как туда попал-то вообще | verbatim |
-| 10 | Настя | Вот именно. | That is what I would like to know. | #347 00:21:41: Вот именно | verbatim |
-| 11 | Илья | Я так соскучился. | I missed this place so much. | #348 00:21:49: Я так соскучился | verbatim |
-| 12 | Илья | Я тоже. | Me too. | #348 00:21:49: Я тоже | verbatim |
-| 13 | Настя | Это что? | What is this? | #349 00:21:59: Это что | verbatim |
+| 1 | Настя | Дело в том. | The thing is. | #336: Дело в том | verbatim |
+| 2 | Саша | Я не знаю, как правильно чистить картошку. | I do not know how to peel potatoes properly. | #337: Я не знаю, как правильно чистить картошку | verbatim |
+| 3 | Илья | А у меня лосось горит. | And my salmon is burning! | #339: А у меня лосось горит | verbatim |
+| 4 | Настя | Попробуйте соус. | Please taste this sauce. | #340: Попробуйте соус | verbatim |
+| 5 | Саша | А вот меня скрываете. | Why are you all blocking my way? | #341: А вот меня скрываете | verbatim |
+| 6 | Илья | Настя, ты Сашу с Ильей не видела? | Nastya, have you seen Sasha and Ilya? | #342: Настя, ты Сашу с Ильей не видела | verbatim |
+| 7 | Настя | Илью не видела. | I have not seen Ilya. | #343: Илью не видела | verbatim |
+| 8 | Саша | Это совсем не то, что вы подумали. | This is not at all what you think. | #345: Это совсем не то, что вы подумали | verbatim |
+| 9 | Илья | Ты как туда попал-то вообще? | How on earth did you even get in there? | #346: Ты как туда попал-то вообще | verbatim |
+| 10 | Настя | Вот именно. | That is what I would like to know. | #347: Вот именно | verbatim |
+| 11 | Саша | Я так соскучился. | I missed this place so much. | #348: Я так соскучился | verbatim |
+| 12 | Илья | Я тоже. | Me too. | #348: Я тоже | verbatim |
+| 13 | Настя | Это что? | What is this? | #349: Это что | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'The thing is.' Notice how Russian expresses 'matter' and 'that' with crisp inflection rather than helper words.
-- 'I do not know how to peel potatoes properly.' Sasha anchors the line on 'I', while 'potatoes' completes the thought.
-- 'And my salmon is burning!' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.
-- 'Please taste this sauce.' Here the Russian phrasing highlights 'try' before landing on 'sauce'.
-- 'Why are you all blocking my way?' Sasha centers this short reply on 'to hide; to conceal', letting a few direct words carry the whole meaning.
-- 'Nastya, have you seen Sasha and Ilya?' Spoken Russian keeps this brisk, leaning on 'Nastya' and finishing on 'to see'. Nastya answers right away.
-- 'I have not seen Ilya.' The '-a' ending on the past-tense verb for 'to see' marks a female speaker or subject.
-- 'This is not at all what you think.' Sasha chooses the respectful plural 'you' alongside 'thought' to keep a polite distance.
-- 'How on earth did you even get in there?' Notice how Russian expresses 'you' and 'at all' with crisp inflection rather than helper words. Nastya answers right away.
-- 'That is what I would like to know.' Nastya anchors the line on 'there you go', while 'exactly' completes the thought.
-- 'I missed this place so much.' The grammar packs 'I' and 'to miss' into a tight, idiomatic kitchen exchange.
-- 'Me too.' Here the Russian phrasing highlights 'I' before landing on 'some'. Nastya answers right away.
-- 'What is this?' The grammar packs 'this' and 'what' into a tight, idiomatic kitchen exchange.
+- 'The thing is.' Pointing out that the thing is gives Ilya a sobering reality check.
+- 'I do not know how to peel potatoes properly.' Sasha explains that she does not know how to peel potatoes properly, keeping her voice calm and direct.
+- 'And my salmon is burning!' Saying that his salmon is burning is how Ilya takes charge of the moment.
+- 'Please taste this sauce.' Saying that Ilya should taste this sauce is how Nastya sets the tone with Ilya.
+- 'Why are you all blocking my way?' By asking why Ilya all blocking her way is, Sasha presses Ilya for a straight answer.
+- 'Nastya, have you seen Sasha and Ilya?' Checking whether Nastya seen Sasha and Ilya cuts straight through the tension between Ilya and Nastya.
+- 'I have not seen Ilya.' Nastya mentions that she has not seen Ilya so Ilya sees what is at stake.
+- 'This is not at all what you think.' Once this is not at all what Ilya thinks, Sasha can finally tell Ilya what she means. Notice how she sticks to the formal "you", keeping a professional line between them.
+- 'How on earth did you even get in there?' When Ilya asks if how on earth did Nastya even get in there, Nastya has to answer fast.
+- 'That is what I would like to know.' Saying that that is what she would like to know is how Nastya sets the tone with Ilya.
+- 'I missed this place so much.' Around the point and situation, Sasha sets a calm, everyday tone with Ilya.
+- 'Me too.' Between the point and the situation, Ilya gives Nastya a quick, grounded response.
+- 'What is this?' Here asking what this is shows Nastya looking for the real truth. Russian drops "is" in the present, setting the two halves of the thought side by side.

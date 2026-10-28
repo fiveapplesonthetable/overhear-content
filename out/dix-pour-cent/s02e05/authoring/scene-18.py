@@ -7,7 +7,6 @@ SCENE = 18
 TITLE = 'Le coup du beurre  (The Butter Trick)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'arlette': 'emilie', 'guy': 'marcel'}
 LABELS = {'arlette': 'Arlette', 'guy': 'Guy'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e05.fr.dual.srt'

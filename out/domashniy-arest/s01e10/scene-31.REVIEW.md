@@ -10,21 +10,21 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Учительница | Итак, у нас конкурс детских поделок. | And so, we have a children's craft contest. | #960 00:53:20: Итак | adapted: expanded cue 960 |
-| 2 | Учительница | На третьем месте Света Копылова. | In third place is Sveta Kopylova. | #961 00:53:21: на третьем месте<br>#962 00:53:22: Света Копылова | adapted: combined cues 961-962 |
-| 3 | Учительница | На втором месте Вова Петухов. | In second place is Vova Petukhov. | #964 00:53:27: На втором месте<br>#965 00:53:31: Вова Петухов | adapted: combined cues 964-965 |
-| 4 | Учительница | А первое место у Алексея Былинкина! | And first place goes to Alexei Bylinkin! | #967 00:53:37: А на первом месте<br>#969 00:53:50: у Алексея Былинкина | adapted: combined cues 967 and 969 |
-| 5 | Учительница | Лёша, напомни нам, что это? | Lyosha, remind us, what is this? | #971 00:53:54: Напомни, что это | adapted: adapted cue 971 with yo |
-| 6 | Лёша | Это барашек. Надо перевернуть работу. | This is a lamb. You have to flip the work. | #972 00:53:59: Барашек<br>#973 00:54:01: Просто перевернуть надо | adapted: combined cues 972-973 |
-| 7 | Учительница | Прекрасно! Аплодисменты нашему победителю! | Wonderful! Applause for our winner! | #974 00:54:03: Аплодисменты | adapted: expanded cue 974 |
-| 8 | Учительница | Возьмите свои работы и подарите родителям. | Take your works and give them to parents. | #976 00:54:10: возьмите свои работы<br>#977 00:54:12: и подарите родителям | adapted: combined cues 976-977 |
-| 9 | Лёша | Мама, смотри! Я занял первое место! | Mama, look! I took first place! | #982 00:54:25: Мама | adapted: expanded cue 982 |
-| 10 | Учительница | Лёшка, милый, я тебя поздравляю! | Lyoshka, sweetie, I congratulate you! | #985 00:54:28: Лешка, я тебя поздравляю | adapted: verbatim cue 985 with yo |
-| 11 | Учительница | Спасибо вам за честное судейство. | Thank you for the fair judging. | #988 00:54:30: Спасибо вам<br>#989 00:54:31: за объективное судейство | adapted: simplified cue 989 |
-| 12 | Учительница | Поздравляю. До свидания вам. | Congratulations. Goodbye to you. | #984 00:54:27: До свидания | adapted: expanded cue 984 |
-| 13 | Учительница | Она очень странно на нас посмотрела. | She looked at us very strangely. | #991 00:54:42: Странная такая | adapted: expanded cue 991 |
-| 14 | Учительница | Приходи сегодня домой пораньше, Аркадий. | Come home early today, Arkady. | #996 00:54:51: приходи сегодня домой пораньше | adapted: adapted cue 996 |
-| 15 | Учительница | Тебя ждёт очень вкусный ужин. | A very tasty dinner is waiting for you. | #997 00:54:53: тебя ждет вкусный ужин | adapted: verbatim cue 997 with yo |
+| 1 | Учительница | Итак, у нас конкурс детских поделок. | And so, we have a children's craft contest. | #960: Итак | adapted: expanded cue 960 |
+| 2 | Учительница | На третьем месте Света Копылова. | In third place is Sveta Kopylova. | #961: на третьем месте<br>#962: Света Копылова | adapted: combined cues 961-962 |
+| 3 | Учительница | На втором месте Вова Петухов. | In second place is Vova Petukhov. | #964: На втором месте<br>#965: Вова Петухов | adapted: combined cues 964-965 |
+| 4 | Учительница | А первое место у Алексея Былинкина! | And first place goes to Alexei Bylinkin! | #967: А на первом месте<br>#969: у Алексея Былинкина | adapted: combined cues 967 and 969 |
+| 5 | Учительница | Лёша, напомни нам, что это? | Lyosha, remind us, what is this? | #971: Напомни, что это | adapted: adapted cue 971 with yo |
+| 6 | Лёша | Это барашек. Надо перевернуть работу. | This is a lamb. You have to flip the work. | #972: Барашек<br>#973: Просто перевернуть надо | adapted: combined cues 972-973 |
+| 7 | Учительница | Прекрасно! Аплодисменты нашему победителю! | Wonderful! Applause for our winner! | #974: Аплодисменты | adapted: expanded cue 974 |
+| 8 | Учительница | Возьмите свои работы и подарите родителям. | Take your works and give them to parents. | #976: возьмите свои работы<br>#977: и подарите родителям | adapted: combined cues 976-977 |
+| 9 | Лёша | Мама, смотри! Я занял первое место! | Mama, look! I took first place! | #982: Мама | adapted: expanded cue 982 |
+| 10 | Марина | Лёшка, милый, я тебя поздравляю! | Lyoshka, sweetie, I congratulate you! | #985: Лешка, я тебя поздравляю | adapted: verbatim cue 985 with yo |
+| 11 | Марина | Спасибо вам за честное судейство. | Thank you for the fair judging. | #988: Спасибо вам<br>#989: за объективное судейство | adapted: simplified cue 989 |
+| 12 | Учительница | Поздравляю. До свидания вам. | Congratulations. Goodbye to you. | #984: До свидания | adapted: expanded cue 984 |
+| 13 | Марина | Она очень странно на нас посмотрела. | She looked at us very strangely. | #991: Странная такая | adapted: expanded cue 991 |
+| 14 | Марина | Приходи сегодня домой пораньше, Аркадий. | Come home early today, Arkady. | #996: приходи сегодня домой пораньше | adapted: adapted cue 996 |
+| 15 | Марина | Тебя ждёт очень вкусный ужин. | A very tasty dinner is waiting for you. | #997: тебя ждет вкусный ужин | adapted: verbatim cue 997 with yo |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

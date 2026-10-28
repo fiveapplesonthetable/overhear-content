@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Нагиев | Что скажешь, моя бывшая дорогая? | What do you say, my dear ex? | #151 00:11:05: Что, моя бывшая дорогая | adapted: adapted |
-| 2 | Нагиев | Предлагаю нам мирно разойтись. | I propose that we part ways peacefully. | #152 00:11:08: разойтись | adapted: adapted |
-| 3 | Аня | Здравствуйте, чего-нибудь сейчас желаете? | Hello, do you wish for anything right now? | #154 00:11:16: Чего-нибудь желаете | adapted: adapted |
-| 4 | Нагиев | Желаем тебя больше здесь не видеть никогда. | We wish never to see you here again. | #155 00:11:25: Желаем. Тебя больше здесь не видеть никогда | adapted: adapted |
-| 5 | Нагиев | Максим, ты уволен, иди домой. | Maxim, you are fired, go home. | #156 00:11:27: Ты уволен | adapted: adapted |
-| 6 | Кристина | Не хочу тебя расстраивать, но Максим не уволен. | I do not want to upset you, but Maxim is not fired. | #157 00:11:31: не хочу тебя расстраивать, но Максим не уволен | adapted: adapted |
-| 7 | Кристина | Ну тогда я беру его обратно. | Well then I am taking him back. | #159 00:11:38: Ну тогда я беру его обратно | adapted: adapted |
-| 8 | Кристина | Максим, поздравляю, ты снова принят. | Maxim, congratulations, you are hired again. | #160 00:11:40: принят | adapted: adapted |
-| 9 | Нагиев | Не торопись так рано улыбаться. | Do not hurry to smile so soon. | #161 00:11:42: Не торопись улыбаться | adapted: adapted |
-| 10 | Нагиев | Два месяца будешь работать бесплатно. | For two months you will work for free. | #161 00:11:42: Два месяца будешь работать бесплатно | adapted: adapted |
-| 11 | Кристина | Ещё одно такое грубое оскорбление. | One more rude insult like that. | #164 00:11:53: Еще одно такое оскорбление | adapted: adapted |
-| 12 | Кристина | Алло, наш адвокат только что умер. | Hello, our lawyer just died. | #169 00:12:12: Иван Соломонович умер | adapted: adapted |
+| 1 | Нагиев | Что скажешь, моя бывшая дорогая? | What do you say, my dear ex? | #151: Что, моя бывшая дорогая | adapted: adapted |
+| 2 | Нагиев | Предлагаю нам мирно разойтись. | I propose that we part ways peacefully. | #152: разойтись | adapted: adapted |
+| 3 | Макс | Здравствуйте, чего-нибудь сейчас желаете? | Hello, do you wish for anything right now? | #154: Чего-нибудь желаете | adapted: adapted |
+| 4 | Нагиев | Желаем тебя больше здесь не видеть никогда. | We wish never to see you here again. | #155: Желаем. Тебя больше здесь не видеть никогда | adapted: adapted |
+| 5 | Нагиев | Максим, ты уволен, иди домой. | Maxim, you are fired, go home. | #156: Ты уволен | adapted: adapted |
+| 6 | Кристина | Не хочу тебя расстраивать, но Максим не уволен. | I do not want to upset you, but Maxim is not fired. | #157: не хочу тебя расстраивать, но Максим не уволен | adapted: adapted |
+| 7 | Кристина | Ну тогда я беру его обратно. | Well then I am taking him back. | #159: Ну тогда я беру его обратно | adapted: adapted |
+| 8 | Кристина | Максим, поздравляю, ты снова принят. | Maxim, congratulations, you are hired again. | #160: принят | adapted: adapted |
+| 9 | Нагиев | Не торопись так рано улыбаться. | Do not hurry to smile so soon. | #161: Не торопись улыбаться | adapted: adapted |
+| 10 | Нагиев | Два месяца будешь работать бесплатно. | For two months you will work for free. | #161: Два месяца будешь работать бесплатно | adapted: adapted |
+| 11 | Кристина | Ещё одно такое грубое оскорбление. | One more rude insult like that. | #164: Еще одно такое оскорбление | adapted: adapted |
+| 12 | Кристина | Алло, наш адвокат только что умер. | Hello, our lawyer just died. | #169: Иван Соломонович умер | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What do you say, my dear ex?' Here the Russian phrasing highlights 'what' before landing on 'dear'.
-- 'I propose that we part ways peacefully.' The meaning hinges on 'suggest' working together with 'part ways' in spoken Russian.
-- 'Hello, do you wish for anything right now?' Max raises the pitch on 'wish' to turn the phrase into a direct spoken question. Dmitry Nagiyev answers right away.
-- 'We wish never to see you here again.' The meaning hinges on 'wish' working together with 'never' in spoken Russian.
-- 'Maxim, you are fired, go home.' Here Nagiyev anchors the thought on 'fired' and finishes on 'home', keeping the spoken rhythm brisk and natural.
-- 'I do not want to upset you, but Maxim is not fired.' The meaning hinges on 'not' working together with 'fired' in spoken Russian.
-- 'Well then I am taking him back.' In Russian, the idea of 'come on' flows naturally into 'back' without extra filler words.
-- 'Maxim, congratulations, you are hired again.' The grammar packs 'congratulations' and 'hired' into a tight, idiomatic kitchen exchange.
-- 'Do not hurry to smile so soon.' Putting the short word for 'not' right in front of the action word is all Russian needs to make a sentence negative, with no extra helper words like 'do' or 'did'.
-- 'For two months you will work for free.' Here the Russian phrasing highlights 'two' before landing on 'for free'.
-- 'One more rude insult like that.' Kristina brings out the contrast between 'else' and 'one' in a few short words.
-- 'Hello, our lawyer just died.' Kristina anchors the line on 'hello', while 'died' completes the thought.
+- 'What do you say, my dear ex?' Asking what Kristina says his dear ex is how Nagiyev puts Kristina on the spot.
+- 'I propose that we part ways peacefully.' With the kitchen and table in play, Nagiyev keeps this short reply brisk and direct.
+- 'Hello, do you wish for anything right now?' By checking whether Kristina wishes for anything right now, Max presses Kristina for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'We wish never to see you here again.' Wishing never to see Kristina here again moves the conversation forward without extra drama.
+- 'Maxim, you are fired, go home.' Once Maxim Kristina is fired go home, Nagiyev can finally tell Kristina what he means. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'I do not want to upset you, but Maxim is not fired.' Admitting that she does not want to upset Max but Maxim is not fired shows Kristina being honest for a change. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Well then I am taking him back.' Saying that she is taking him back is how Kristina sets the tone with Max.
+- 'Maxim, congratulations, you are hired again.' Since Maxim congratulations Max is hired again, Kristina does not waste words on excuses. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Do not hurry to smile so soon.' Mentioning that do not hurry to smile so soon moves the talk in a new direction.
+- 'For two months you will work for free.' Nagiyev reminds Kristina that for two months Kristina will work for free before the moment passes.
+- 'One more rude insult like that.' Around the moment and table, Kristina sets a calm, everyday tone with Max.
+- 'Hello, our lawyer just died.' Between the moment and the table, Kristina gives Max a quick, grounded response.

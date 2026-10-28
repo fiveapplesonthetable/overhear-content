@@ -7,7 +7,6 @@ SCENE = 1
 TITLE = 'Arlette regarde une série  (Game of Thrones)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'arlette': 'emilie', 'mathias': 'marcel'}
 LABELS = {'arlette': 'Arlette', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e04.fr.dual.srt'

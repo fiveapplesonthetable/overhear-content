@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Денис | Кстати, сегодня я собираюсь отыграться. | By the way, today I am going to win it back. | #229 00:15:48: Кстати, сегодня собираюсь отыграться | adapted: adapted |
-| 2 | Денис | Может, тебе не надо опять играть? | Maybe you should not play again? | #230 00:15:50: Опять? Может, не надо | adapted: adapted |
-| 3 | Денис | Нет, сегодня точно мой счастливый день. | No, today is definitely my lucky day. | #231 00:15:52: Не, сегодня мой день | adapted: adapted |
-| 4 | Денис | Шеф, пожалуйста, помогите нам на кухне. | Chef, please help us in the kitchen. | #232 00:15:55: Шеф, пожалуйста | adapted: adapted |
-| 5 | Денис | Федя сегодня съел что-то не то. | Fedya ate something bad today. | #233 00:16:00: Съел что-то не то | adapted: adapted |
-| 6 | Денис | Ладно, я всё прекрасно понял. | Alright, I understood everything. | #234 00:16:04: Я все понял | adapted: adapted |
-| 7 | Денис | Это все, кто выходил из отеля. | That is everyone who left the hotel. | #236 00:16:16: Это все, кто выходил из отеля | adapted: adapted |
-| 8 | Денис | Ему в номер заказали ужин и вино. | Dinner and wine were ordered to his room. | #237 00:16:18: Ему в номер заказали ужин на двоих и вино | adapted: adapted |
-| 9 | Денис | У них там точно свидание намечается. | They definitely have a date coming up there. | #238 00:16:22: У них там что-то намечается | adapted: adapted |
-| 10 | Денис | Надо тихо пробраться к нему в номер. | We need to sneak quietly into his room. | #239 00:16:25: Надо пробраться к нему в номер | adapted: adapted |
-| 11 | Денис | Можно залезть через соседнее окно. | You can climb in through the neighboring window. | #240 00:16:27: Можно через окно из соседнего номера | adapted: adapted |
-| 12 | Денис | Или просто Катю туда сразу отвести. | Or simply bring Katya right up there. | #241 00:16:30: Или просто Катю туда отвезти | adapted: adapted |
+| 1 | Михаил | Кстати, сегодня я собираюсь отыграться. | By the way, today I am going to win it back. | #229: Кстати, сегодня собираюсь отыграться | adapted: adapted |
+| 2 | Шеф | Может, тебе не надо опять играть? | Maybe you should not play again? | #230: Опять? Может, не надо | adapted: adapted |
+| 3 | Михаил | Нет, сегодня точно мой счастливый день. | No, today is definitely my lucky day. | #231: Не, сегодня мой день | adapted: adapted |
+| 4 | Денис | Шеф, пожалуйста, помогите нам на кухне. | Chef, please help us in the kitchen. | #232: Шеф, пожалуйста | adapted: adapted |
+| 5 | Денис | Федя сегодня съел что-то не то. | Fedya ate something bad today. | #233: Съел что-то не то | adapted: adapted |
+| 6 | Шеф | Ладно, я всё прекрасно понял. | Alright, I understood everything. | #234: Я все понял | adapted: adapted |
+| 7 | Михаил | Это все, кто выходил из отеля. | That is everyone who left the hotel. | #236: Это все, кто выходил из отеля | adapted: adapted |
+| 8 | Михаил | Ему в номер заказали ужин и вино. | Dinner and wine were ordered to his room. | #237: Ему в номер заказали ужин на двоих и вино | adapted: adapted |
+| 9 | Денис | У них там точно свидание намечается. | They definitely have a date coming up there. | #238: У них там что-то намечается | adapted: adapted |
+| 10 | Денис | Надо тихо пробраться к нему в номер. | We need to sneak quietly into his room. | #239: Надо пробраться к нему в номер | adapted: adapted |
+| 11 | Михаил | Можно залезть через соседнее окно. | You can climb in through the neighboring window. | #240: Можно через окно из соседнего номера | adapted: adapted |
+| 12 | Денис | Или просто Катю туда сразу отвести. | Or simply bring Katya right up there. | #241: Или просто Катю туда отвезти | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'By the way, today I am going to win it back.' The meaning hinges on 'by the way' working together with 'to tie the score' in spoken Russian. Chef Barinov answers right away.
-- 'Maybe you should not play again?' Chef Barinov brings out the contrast between 'maybe' and 'to you' in a few short words.
-- 'No, today is definitely my lucky day.' Mikhail anchors the line on 'no', while 'day' completes the thought.
-- 'Chef, please help us in the kitchen.' The grammar packs 'Chef Barinov' and 'kitchen' into a tight, idiomatic kitchen exchange.
-- 'Fedya ate something bad today.' The meaning hinges on 'Fedya' working together with 'that' in spoken Russian.
-- 'Alright, I understood everything.' In Russian, the idea of 'all right' flows naturally into 'understood' without extra filler words.
-- 'That is everyone who left the hotel.' Spoken Russian keeps this brisk, leaning on 'this' and finishing on 'hotel'.
-- 'Dinner and wine were ordered to his room.' Mikhail anchors the line on 'to him', while 'wine' completes the thought.
-- 'They definitely have a date coming up there.' The meaning hinges on 'at' working together with 'is being planned' in spoken Russian.
-- 'We need to sneak quietly into his room.' Notice how Russian expresses 'need' and 'number' with crisp inflection rather than helper words. Mikhail answers right away.
-- 'You can climb in through the neighboring window.' Mikhail anchors the line on 'may', while 'window' completes the thought.
-- 'Or simply bring Katya right up there.' The grammar packs 'or' and 'to take' into a tight, idiomatic kitchen exchange.
+- 'By the way, today I am going to win it back.' Admitting that today he is going to win it back shows Mikhail being honest for a change.
+- 'Maybe you should not play again?' Questioning whether maybe Denis should not play again is how Barinov tests Denis's story.
+- 'No, today is definitely my lucky day.' Once today is definitely his lucky day, Mikhail can finally tell Barinov what he means.
+- 'Chef, please help us in the kitchen.' Noting that Barinov should help them in the kitchen keeps Denis's side of the story simple and clear.
+- 'Fedya ate something bad today.' Denis tells Barinov that Fedya ate something bad today without dressing it up.
+- 'Alright, I understood everything.' Since Alright he understood everything, Barinov does not waste words on excuses.
+- 'That is everyone who left the hotel.' Mentioning that that is everyone who left the hotel moves the talk in a new direction. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'Dinner and wine were ordered to his room.' Mikhail reminds Barinov that dinner and wine were ordered to his room before the moment passes.
+- 'They definitely have a date coming up there.' Because they definitely have a date coming up there, Denis treats the matter as settled.
+- 'We need to sneak quietly into his room.' Here needing to sneak quietly into his room sets up the next turn in their exchange. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
+- 'You can climb in through the neighboring window.' Mikhail mentions that Barinov can climb in through the neighboring window so Barinov sees what is at stake.
+- 'Or simply bring Katya right up there.' With the money and moment in play, Denis keeps this short reply brisk and direct.

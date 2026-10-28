@@ -7,8 +7,7 @@ SCENE = 3
 TITLE = "La visite de Catherine  (Catherine's Visit)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'catherine': 'emilie', 'lea': 'lucie'}
-LABELS = {'catherine': 'Catherine', 'lea': 'Andréa'}
+LABELS = {'catherine': 'Catherine', 'noemie': 'Noémie'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e03.fr.dual.srt'
 INTRO = "At her apartment, recovering assistant Noemie Leclerc receives a surprise visit from Catherine Barneville. Bringing a comforting gift to make amends for the street accident, Catherine discovers Noemie's growing interest in spiritual healing. Let's listen to the scene in French first."
@@ -18,19 +17,19 @@ OUTRO = "Catherine and Noemie connect beyond professional boundaries, sharing th
 CLOSING = ('catherine', 'Bonne journée!')
 STORY = [
     ('catherine', 'Bonjour Noémie, je peux entrer?', 'Hello Noemie, may I come in?', [(214, 'Bonjour, Noémie.'), (216, 'Je peux entrer ?')], ''),
-    ('lea', 'Bonjour Catherine, entrez, je vous en prie.', 'Hello Catherine, come in, please.', [(217, 'Oui, oui.')], ''),
+    ('noemie', 'Bonjour Catherine, entrez, je vous en prie.', 'Hello Catherine, come in, please.', [(217, 'Oui, oui.')], ''),
     ('catherine', 'Ce joli pull vous va très bien.', 'This pretty sweater suits you very well.', [(219, 'Ça vous va bien !')], ''),
-    ('lea', 'Merci pour ce magnifique cadeau.', 'Thank you for this wonderful gift.', [(221, 'Oh non, mais merci.')], ''),
+    ('noemie', 'Merci pour ce magnifique cadeau.', 'Thank you for this wonderful gift.', [(221, 'Oh non, mais merci.')], ''),
     ('catherine', "C'est normal après ce terrible accident.", 'It is natural after that terrible accident.', [(223, "C'est la moindre des choses.")], ''),
-    ('lea', "Ne vous inquiétez pas, j'ai les os solides.", 'Do not worry, I have sturdy bones.', [(224, "j'ai les os solides.")], ''),
+    ('noemie', "Ne vous inquiétez pas, j'ai les os solides.", 'Do not worry, I have sturdy bones.', [(224, "j'ai les os solides.")], ''),
     ('catherine', 'Vous lisez un livre sur le chamanisme?', 'Are you reading a book about shamanism?', [(227, 'Réveillez le chamane qui est en vous.')], ''),
-    ('lea', "Oui, j'essaie de réveiller mon chamane.", 'Yes, I am trying to awaken my shaman.', [(227, 'Réveillez le chamane qui est en vous.'), (229, "j'essaie.")], ''),
+    ('noemie', "Oui, j'essaie de réveiller mon chamane.", 'Yes, I am trying to awaken my shaman.', [(227, 'Réveillez le chamane qui est en vous.'), (229, "j'essaie.")], ''),
     ('catherine', "Ce sujet spirituel m'intéresse beaucoup.", 'This spiritual subject interests me very much.', [(231, "ça m'intéresse vachement.")], ''),
-    ('lea', 'Vraiment? Vous vous intéressez à ces pratiques?', 'Really? Are you interested in these practices?', [(232, 'Ah bon ?')], ''),
+    ('noemie', 'Vraiment? Vous vous intéressez à ces pratiques?', 'Really? Are you interested in these practices?', [(232, 'Ah bon ?')], ''),
     ('catherine', 'Je fais de la méditation et du yoga.', 'I do meditation and yoga.', [(236, 'je fais de la méditation, du yoga.')], ''),
-    ('lea', 'Tenez, prenez ce livre pour vous.', 'Here, take this book for yourself.', [(240, 'tenez, prenez-le.')], ''),
+    ('noemie', 'Tenez, prenez ce livre pour vous.', 'Here, take this book for yourself.', [(240, 'tenez, prenez-le.')], ''),
     ('catherine', 'Merci Noémie, vous êtes une vraie perle.', 'Thank you Noemie, you are a real gem.', [(243, 'Oh, vous êtes une perle.')], ''),
-    ('lea', 'Cette lecture vous fera du bien.', 'This reading will do you good.', [(240, 'tenez, prenez-le.')], ''),
+    ('noemie', 'Cette lecture vous fera du bien.', 'This reading will do you good.', [(240, 'tenez, prenez-le.')], ''),
 ]
 WALK = [
     (0, None, "'Hello Noemie, may I come in?' The clause hinges on the everyday verb meaning 'can'."),

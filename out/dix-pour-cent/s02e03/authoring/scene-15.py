@@ -7,28 +7,27 @@ SCENE = 15
 TITLE = 'Rendez-vous au Grand Colbert  (Lunch Plans)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'camille': 'emilie', 'lea': 'lucie'}
-LABELS = {'camille': 'Camille', 'lea': 'Andréa'}
+LABELS = {'annick': 'Annick', 'camille': 'Camille'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e03.fr.dual.srt'
 INTRO = 'At the agency, Noémie asked to join Camille for lunch, but Camille declined so she could spend time with her mother Annick. Now seated together at Le Grand Colbert restaurant, Annick frets over her appearance as they wait for Mathias. Listen to the scene in French first.'
 OPENER = "Let's walk through the conversation step by step."
 TRANSITION = 'Now listen to the whole scene again at normal speed, and see how much more you catch.'
 OUTRO = 'Annick tries to mask her deep emotions behind small worries about hair and makeup, while Camille patiently stands by her side. See you next time!'
-CLOSING = ('lea', 'À bientôt!')
+CLOSING = ('annick', 'À bientôt!')
 STORY = [
     ('camille', "J'ai un déjeuner avec ma mère au Grand Colbert.", 'I am having lunch with my mother at the Grand Colbert.', [(386, 'avec ma mère. Au Grand Colbert')], ''),
     ('camille', "On a besoin d'un moment seules toutes les deux.", 'We need time alone together.', [(389, "on a besoin d'un moment seules toutes les deux")], ''),
     ('camille', "Ça fait une éternité que je ne l'ai pas vue.", 'It has been ages since I saw her.', [(390, "Ça fait une éternité que je ne l'ai pas vue")], ''),
-    ('lea', 'Il arrive à quelle heure?', 'What time is he coming?', [(393, 'Il arrive à quelle heure')], ''),
-    ('lea', 'Il a peut-être oublié.', 'Maybe he forgot.', [(394, 'Il a peut-être oublié')], ''),
-    ('lea', 'Ou il ne veut pas me voir.', 'Or he does not want to see me.', [(394, 'ou ne veut pas me voir')], ''),
+    ('annick', 'Il arrive à quelle heure?', 'What time is he coming?', [(393, 'Il arrive à quelle heure')], ''),
+    ('annick', 'Il a peut-être oublié.', 'Maybe he forgot.', [(394, 'Il a peut-être oublié')], ''),
+    ('annick', 'Ou il ne veut pas me voir.', 'Or he does not want to see me.', [(394, 'ou ne veut pas me voir')], ''),
     ('camille', "Il a dit qu'il viendrait pour le café.", 'He said he would come for coffee.', [(395, "il a dit qu'il viendrait pour le café")], ''),
     ('camille', "D'accord, maman?", 'Okay, Mom?', [(396, "D'accord")], ''),
-    ('lea', "Je n'ai pas fait mes racines.", 'I have not done my roots.', [(397, "Je n'ai pas fait mes racines")], ''),
+    ('annick', "Je n'ai pas fait mes racines.", 'I have not done my roots.', [(397, "Je n'ai pas fait mes racines")], ''),
     ('camille', "Tu n'as pas un seul cheveu blanc.", 'You do not have a single white hair.', [(399, "Tu n'as pas un seul cheveu blanc")], ''),
-    ('lea', "C'est pas un rendez-vous galant.", 'This is not a romantic date.', [(400, "C'est pas un rendez-vous galant")], ''),
-    ('lea', 'Ça fait huit ans!', 'It has been eight years!', [(402, 'Ça fait huit ans')], ''),
+    ('annick', "C'est pas un rendez-vous galant.", 'This is not a romantic date.', [(400, "C'est pas un rendez-vous galant")], ''),
+    ('annick', 'Ça fait huit ans!', 'It has been eight years!', [(402, 'Ça fait huit ans')], ''),
     ('camille', "C'est un super produit.", 'This is a great product.', [(403, "C'est un super produit")], ''),
     ('camille', 'Voilà, tu es très bien.', 'There, you look very nice.', [(404, 'Voilà')], ''),
 ]

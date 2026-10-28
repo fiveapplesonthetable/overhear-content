@@ -7,8 +7,7 @@ SCENE = 15
 TITLE = 'À la crèche  (At the Daycare)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'jose': 'theo', 'lea': 'lucie'}
-LABELS = {'jose': 'José', 'lea': 'Andréa'}
+LABELS = {'andrea': 'Andréa', 'jose': 'José'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e03.fr.dual.srt'
 INTRO = "Andrea rushes into the daycare center in absolute terror after finding her apartment empty. She discovers Jose Garcia happily cradling baby Flora, completely unbothered by her panic. Let's listen to their chaotic encounter in French first."
@@ -17,20 +16,20 @@ TRANSITION = "Now let's listen to the complete discussion once more to reinforce
 OUTRO = "Andrea recovers her baby daughter safely from Jose Garcia at the daycare center. When you watch the episode, listen out for the expressions meaning 'baby' and 'adored'. You'll catch them now. See you next time!"
 CLOSING = ('jose', 'À plus tard, maman stressée!')
 STORY = [
-    ('lea', 'Flora! Oh, mon bébé adoré!', 'Flora! Oh, my beloved baby!', [(667, 'mon bébé')], ''),
+    ('andrea', 'Flora! Oh, mon bébé adoré!', 'Flora! Oh, my beloved baby!', [(667, 'mon bébé')], ''),
     ('jose', 'Andréa, tout va très bien ici.', 'Andrea, everything is going very well here.', [(666, 'Andréa, ça va ?'), (669, 'tout va bien')], ''),
-    ('lea', "C'est un enlèvement d'enfant!", 'It is a child abduction!', [(681, "enlèvement d'enfant")], ''),
+    ('andrea', "C'est un enlèvement d'enfant!", 'It is a child abduction!', [(681, "enlèvement d'enfant")], ''),
     ('jose', "Mais non, j'ai laissé un mot!", 'Of course not, I left a note!', [(670, "J'ai laissé un mot")], ''),
-    ('lea', 'Tu es complètement fou, José!', 'You are completely crazy, Jose!', [(668, "T'es folle")], ''),
+    ('andrea', 'Tu es complètement fou, José!', 'You are completely crazy, Jose!', [(668, "T'es folle")], ''),
     ('jose', 'Regarde, elle est très heureuse.', 'Look, she is very happy.', [(672, 'Regarde')], ''),
     ('jose', 'Bonjour Princesse Joues-rebondies!', 'Hello Princess Chubby-cheeks!', [(673, 'Princesse Joues-rebondies')], ''),
-    ('lea', 'Elle est où, la directrice?', 'Where is the director?', [(675, 'Elle est où')], ''),
+    ('andrea', 'Elle est où, la directrice?', 'Where is the director?', [(675, 'Elle est où')], ''),
     ('jose', "Capucine s'occupe des autres enfants.", 'Capucine takes care of the other children.', [(678, "s'appelle Capucine")], ''),
     ('jose', 'Allez, calme-toi et respire un peu.', 'Come on, calm down and breathe a bit.', [(683, 'calme-toi'), (684, 'respire')], ''),
     ('jose', 'Regarde, nous sommes totalement zen.', 'Look, we are totally zen.', [(688, 'Regarde, on est zen')], ''),
-    ('lea', "Une voiture t'attend pour le tournage.", 'A car is waiting for you for the shoot.', [(692, "Une voiture t'attend")], ''),
+    ('andrea', "Une voiture t'attend pour le tournage.", 'A car is waiting for you for the shoot.', [(692, "Une voiture t'attend")], ''),
     ('jose', "D'accord, je pars immédiatement.", 'All right, I am leaving immediately.', [(703, 'José. On y va')], ''),
-    ('lea', 'Ne touche plus jamais à mon bébé!', 'Never touch my baby again!', [(667, 'mon bébé')], ''),
+    ('andrea', 'Ne touche plus jamais à mon bébé!', 'Never touch my baby again!', [(667, 'mon bébé')], ''),
 ]
 WALK = [
     (0, None, "'Flora! Oh, my beloved baby!' Andrea bursts into tears of relief upon spotting her child. Notice how 'adored' leads directly into the noun meaning 'baby'."),

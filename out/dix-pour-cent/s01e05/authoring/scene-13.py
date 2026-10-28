@@ -7,8 +7,7 @@ SCENE = 13
 TITLE = "La cible, c'est la femme chez le coiffeur  (The Target Is the Woman at the Hairdresser's)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'mathias': 'marcel', 'camille': 'emilie', 'lea': 'lucie'}
-LABELS = {'mathias': 'Mathias', 'camille': 'Camille', 'lea': 'Andréa'}
+LABELS = {'camille': 'Camille', 'herve': 'Hervé', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e05.fr.dual.srt'
 INTRO = "Back in Paris at the ASK offices, Mathias is trying to stop the daytime soap opera from killing off his client Jonathan Joubert's character, Doctor Ryan. Camille suggests leaking the news to salon magazines so loyal viewers protest, and Hervé proudly unveils a mock death notice that goes way too far. Let's listen to the scene in French first."
@@ -22,14 +21,14 @@ STORY = [
     ('camille', 'Ryan, je veux dire.', 'Ryan, I mean.', [(240, 'Ryan, je veux dire')], ''),
     ('camille', 'Il nous faut une rumeur pour faire réagir les fans.', 'We need a rumor to make the fans react.', [(241, "Ce qu'il nous faut, c'est une fuite, pour que les fans commencent à protester")], ''),
     ('mathias', "C'est quoi ton idée, comme un avis de décès?", 'What is your idea, like a death notice?', [(242, "C'est quoi ton idée"), (242, 'un avis de décès')], ''),
-    ('lea', 'Exactement!', 'Exactly!', [(243, 'Exactement')], ''),
-    ('lea', "Je me suis inspiré de cette affaire d'un enfant disparu en Corrèze.", 'I took inspiration from that case of a missing child in Corrèze.', [(244, "Je me suis inspiré de cette affaire d'un enfant disparu en Corrèze")], ''),
+    ('herve', 'Exactement!', 'Exactly!', [(243, 'Exactement')], ''),
+    ('herve', "Je me suis inspiré de cette affaire d'un enfant disparu en Corrèze.", 'I took inspiration from that case of a missing child in Corrèze.', [(244, "Je me suis inspiré de cette affaire d'un enfant disparu en Corrèze")], ''),
     ('mathias', "C'est horrible.", 'It', [(246, "C'est"), (247, 'horrible')], ''),
     ('mathias', 'Écoute, laisse tomber.', 'Listen, drop it.', [(248, 'Écoute, laisse tomber')], ''),
     ('mathias', "Occupe-toi d'Audrey Fleurot.", 'Take care of Audrey Fleurot.', [(249, "Occupe-toi d'Audrey Fleurot")], ''),
     ('mathias', "Elle a un problème d'emploi du temps avec ses enfants.", 'She has a schedule problem with her children.', [(250, "Elle a un problème d'emploi du temps avec ses enfants")], ''),
     ('mathias', 'Merci quand même.', 'Thanks all the same.', [(251, 'Merci quand même')], ''),
-    ('lea', 'De rien.', 'You', [(251, 'De rien')], ''),
+    ('herve', 'De rien.', 'You', [(251, 'De rien')], ''),
 ]
 WALK = [
     (0, None, "'Our audience is the woman chatting at the hairdresser's.'s.' The linking word before a profession means at their shop."),

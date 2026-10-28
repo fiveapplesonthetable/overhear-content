@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Шеф | Сегодня здесь собрались просто потрясающие люди! | Simply amazing people have gathered here today! | #151 00:11:04: И самое главное, что | adapted: adapted |
-| 2 | Шеф | Мы рады приветствовать вас на благотворительном аукционе. | We are glad to welcome you at the charity auction. | #154 00:11:15: Мы рады приветствовать вас | adapted: adapted |
-| 3 | Шеф | Лёва, эта крыса специально закрыла Моне! | Lyova, that rat closed Monet on purpose! | #155 00:11:20: Лёва, эта крыса закрыла | adapted: adapted |
-| 4 | Шеф | Через сорок минут сюда придут мои гости. | In forty minutes my guests will arrive here. | #157 00:11:32: Через 40 минут гости | adapted: adapted |
-| 5 | Шеф | Куда мне теперь девать всех друзей? | Where am I supposed to put all my friends now? | #158 00:11:34: Куда мне их девать? | adapted: adapted |
-| 6 | Шеф | А что, если отметить праздник прямо здесь? | And what if we celebrate the holiday right here? | #160 00:11:46: А что, если мне | adapted: adapted |
-| 7 | Лёва | Как здесь, тут же чужое мероприятие! | What do you mean here, there is someone else's event here! | #161 00:11:51: Как? А смотри, все | adapted: adapted |
-| 8 | Шеф | Смотри, все люди веселятся, пьют и едят. | Look, all the people are having fun, drinking, and eating. | #161 00:11:51: Как? А смотри, все | adapted: adapted |
-| 9 | Шеф | Можно пить за леопардов, а можно за меня! | One can drink to leopards, or one can drink to me! | #163 00:11:58: Не важно. Можно за | adapted: adapted |
-| 10 | Шеф | Лёва, быстро предупреди кухню и бар. | Lyova, quickly warn the kitchen and the bar. | #165 00:12:06: Предупреди кухню и бар. | adapted: adapted |
-| 11 | Шеф | Прошу вас, лотерейные билеты лежат в кладовке. | After you, the lottery tickets are in the storeroom. | #169 00:12:21: Всё для благотворительной лотереи | adapted: adapted |
-| 12 | Шеф | Эй, откройте дверь, это совсем не смешно! | Hey, open the door, this is not funny at all! | #170 00:12:32: Эй, откройте дверь! | adapted: adapted |
+| 1 | Гость | Сегодня здесь собрались просто потрясающие люди! | Simply amazing people have gathered here today! | #151: И самое главное, что | adapted: adapted |
+| 2 | Гость | Мы рады приветствовать вас на благотворительном аукционе. | We are glad to welcome you at the charity auction. | #154: Мы рады приветствовать вас | adapted: adapted |
+| 3 | Шеф | Лёва, эта крыса специально закрыла Моне! | Lyova, that rat closed Monet on purpose! | #155: Лёва, эта крыса закрыла | adapted: adapted |
+| 4 | Шеф | Через сорок минут сюда придут мои гости. | In forty minutes my guests will arrive here. | #157: Через 40 минут гости | adapted: adapted |
+| 5 | Шеф | Куда мне теперь девать всех друзей? | Where am I supposed to put all my friends now? | #158: Куда мне их девать? | adapted: adapted |
+| 6 | Шеф | А что, если отметить праздник прямо здесь? | And what if we celebrate the holiday right here? | #160: А что, если мне | adapted: adapted |
+| 7 | Лёва | Как здесь, тут же чужое мероприятие! | What do you mean here, there is someone else's event here! | #161: Как? А смотри, все | adapted: adapted |
+| 8 | Шеф | Смотри, все люди веселятся, пьют и едят. | Look, all the people are having fun, drinking, and eating. | #161: Как? А смотри, все | adapted: adapted |
+| 9 | Шеф | Можно пить за леопардов, а можно за меня! | One can drink to leopards, or one can drink to me! | #163: Не важно. Можно за | adapted: adapted |
+| 10 | Шеф | Лёва, быстро предупреди кухню и бар. | Lyova, quickly warn the kitchen and the bar. | #165: Предупреди кухню и бар. | adapted: adapted |
+| 11 | Шеф | Прошу вас, лотерейные билеты лежат в кладовке. | After you, the lottery tickets are in the storeroom. | #169: Всё для благотворительной лотереи | adapted: adapted |
+| 12 | Гость | Эй, откройте дверь, это совсем не смешно! | Hey, open the door, this is not funny at all! | #170: Эй, откройте дверь! | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Simply amazing people have gathered here today!' In everyday Russian, 'today' flows straight into 'people' without extra linking words.
-- 'We are glad to welcome you at the charity auction.' the guest pairs 'glad' with 'auction' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
-- 'Lyova, that rat closed Monet on purpose!' Barinov vents to Lyova about German's dirty trick.
-- 'In forty minutes my guests will arrive here.' Here Chef Barinov anchors the thought on 'minutes' and finishes on 'guests', keeping the spoken rhythm brisk and natural.
-- 'Where am I supposed to put all my friends now?' In everyday Russian, 'where to' flows straight into 'friends' without extra linking words.
-- 'And what if we celebrate the holiday right here?' Barinov's eyes light up as he surveys the festive dining room.
-- 'What do you mean here, there is someone else's event here!' Notice how Russian puts 'how / as' and 'event' together in a short, direct phrase where word endings show how the ideas connect.
-- 'Look, all the people are having fun, drinking, and eating.' Three third-person plural present verbs describe the lively party atmosphere.
-- 'One can drink to leopards, or one can drink to me!' In everyday Russian, 'may, possible, allowed' flows straight into 'one' without extra linking words.
-- 'Lyova, quickly warn the kitchen and the bar.' Chef Barinov pairs 'quickly' with 'bar' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
-- 'After you, the lottery tickets are in the storeroom.' Barinov lures the unsuspecting charity organizer into a side closet.
-- 'Hey, open the door, this is not funny at all!' Here the guest anchors the thought on 'open' and finishes on 'ridiculous, funny', keeping the spoken rhythm brisk and natural.
+- 'Simply amazing people have gathered here today!' Once simply amazing people have gathered here today, the guest makes sure Barinov hears every word. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'We are glad to welcome you at the charity auction.' Mentioning that they are glad to welcome Barinov at the charity auction moves the talk in a new direction. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
+- 'Lyova, that rat closed Monet on purpose!' Over the work and the idea, Barinov lets his real feelings show.
+- 'In forty minutes my guests will arrive here.' Because in forty minutes his guests will arrive here, Barinov treats the matter as settled.
+- 'Where am I supposed to put all my friends now?' Wondering if where am he supposed to put all his friends now shows Barinov caught off guard. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'And what if we celebrate the holiday right here?' Over the point and the idea, Barinov presses the guest for a straight answer.
+- 'What do you mean here, there is someone else's event here!' Saying that what do Barinov means here there is someone else event here is how Lyova takes charge of the moment. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Look, all the people are having fun, drinking, and eating.' Pointing out that all the people are having fun drinking and eating gives the guest a sobering reality check.
+- 'One can drink to leopards, or one can drink to me!' Declaring that one can drink to leopards or one can drink to him brings Barinov's temper right to the surface.
+- 'Lyova, quickly warn the kitchen and the bar.' With the work and idea in play, Barinov keeps this short reply brisk and direct.
+- 'After you, the lottery tickets are in the storeroom.' Noting that after the guest the lottery tickets are in the storeroom keeps Barinov's side of the story simple and clear. Notice how he sticks to the formal "you", keeping a professional line between them.
+- 'Hey, open the door, this is not funny at all!' Here opening the door this is not funny at all lets the guest's real feelings break through.

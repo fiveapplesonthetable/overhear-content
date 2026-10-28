@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Лёва | Добрый вечер, вы сегодня ждёте главного шефа? | Good evening, are you waiting for the head chef today? | #180 00:13:26: Добрый вечер. | adapted: adapted |
-| 2 | Лёва | Виктор Петрович, я не могу бегать к каждому столику! | Viktor Petrovich, I cannot run to every table! | #183 00:13:33: Я не могу бегать к каждому столику. | adapted: adapted |
-| 3 | Лёва | Как я узнаю, кого именно вы ждёте? | How will I find out whom exactly you are waiting for? | #184 00:13:36: Как я узнаю, кого вы ждете? | adapted: adapted |
-| 4 | Шеф | Сфотографируй гостей на телефон и пришли мне. | Photograph the guests on your phone and send it to me. | #185 00:13:37: Сфотографировали телефон и пришли мне. | adapted: adapted |
-| 5 | Шеф | Лёва, ешь морковку, она для мозга полезна! | Lyova, eat a carrot, it is good for the brain! | #186 00:13:39: Лёва, ешь морковку.<br>#187 00:13:41: Для мозга полезно. | adapted: adapted |
+| 1 | Лёва | Добрый вечер, вы сегодня ждёте главного шефа? | Good evening, are you waiting for the head chef today? | #180: Добрый вечер. | adapted: adapted |
+| 2 | Лёва | Виктор Петрович, я не могу бегать к каждому столику! | Viktor Petrovich, I cannot run to every table! | #183: Я не могу бегать к каждому столику. | adapted: adapted |
+| 3 | Лёва | Как я узнаю, кого именно вы ждёте? | How will I find out whom exactly you are waiting for? | #184: Как я узнаю, кого вы ждете? | adapted: adapted |
+| 4 | Шеф | Сфотографируй гостей на телефон и пришли мне. | Photograph the guests on your phone and send it to me. | #185: Сфотографировали телефон и пришли мне. | adapted: adapted |
+| 5 | Шеф | Лёва, ешь морковку, она для мозга полезна! | Lyova, eat a carrot, it is good for the brain! | #186: Лёва, ешь морковку.<br>#187: Для мозга полезно. | adapted: adapted |
 | 6 | Шеф | А вот и твой друг, быстро встречай! | And here is your friend, greet him quickly! | new | new: new |
-| 7 | Лёва | Здравствуйте, Виктор Петрович, ваши гости уже в зале. | Hello, Viktor Petrovich, your guests are already in the hall. | #188 00:13:53: Здравствуйте, Виктор Петрович. Привет. | adapted: adapted |
+| 7 | Лёва | Здравствуйте, Виктор Петрович, ваши гости уже в зале. | Hello, Viktor Petrovich, your guests are already in the hall. | #188: Здравствуйте, Виктор Петрович. Привет. | adapted: adapted |
 | 8 | Шеф | Отлично, сейчас я быстро приготовлю им горячее блюдо. | Excellent, right now I will quickly cook them a hot dish. | new | new: new |
 | 9 | Шеф | А потом сразу побегу обратно к Лене. | And then I will immediately run back to Lena. | new | new: new |
 | 10 | Лёва | Смотрите только, чтобы Елена Павловна ничего не заметила! | Just make sure that Elena Pavlovna does not notice anything! | new | new: new |
-| 11 | Шеф | А вот и я снова в зале! | And here I am back in the dining room again! | #189 00:14:01: А вот и я. | adapted: adapted |
+| 11 | Шеф | А вот и я снова в зале! | And here I am back in the dining room again! | #189: А вот и я. | adapted: adapted |
 | 12 | Шеф | Надеюсь, наш десерт ещё не скоро принесут. | I hope they will not bring our dessert anytime soon. | new | new: new |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good evening, are you waiting for the head chef?' Lyova awkwardly checks a random table in the dining room.
-- 'Viktor Petrovich, I cannot run to every table!' Here Lyova anchors the thought on 'can, am able to' and finishes on 'small table, café table', keeping the spoken rhythm brisk and natural.
-- 'How will I find out whom exactly you are waiting for?' In everyday Russian, 'how / as' flows straight into 'to wait, to expect' without extra linking words.
-- 'Photograph the guests on your phone and send it to me.' Chef Barinov pairs 'photograph' with 'came' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
-- 'Lyova, eat a carrot, it is good for the brain!' Notice how Russian puts 'eat' and 'brain' together in a short, direct phrase where word endings show how the ideas connect.
-- 'And here is your friend, greet him quickly!' Barinov spots Volodya in the photo Lyova sends him.
-- 'Hello, Viktor Petrovich, your guests are already in the hall.' Lyova welcomes Barinov at the back door of Arcobaleno.
-- 'Excellent, right now I will quickly cook them a hot dish.' Chef Barinov pairs 'perfectly' with 'dish' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
-- 'And then I will immediately run back to Lena.' Notice how Russian puts 'later, afterwards' and 'Lena' together in a short, direct phrase where word endings show how the ideas connect.
-- 'Just make sure that Elena Pavlovna does not notice anything!' Lyova warns him that the ruse is risky.
-- 'And here I am back in the dining room again!' Out of breath, Barinov slides back into his chair opposite Elena.
-- 'I hope they will not bring our dessert anytime soon.' Meanwhile, Nagiyev is arriving at Claude Monet for his wine.
+- 'Good evening, are you waiting for the head chef?' Here checking whether Barinov waiting for the head shows Lyova looking for the real truth.
+- 'Viktor Petrovich, I cannot run to every table!' Because he cannot run to every table, Lyova does not bother softening the blow for Barinov. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'How will I find out whom exactly you are waiting for?' Wondering how he finds out whom exactly Barinov is waiting will cuts straight through the tension between Lyova and Barinov. Notice how he sticks to the formal "you", keeping a professional line between them.
+- 'Photograph the guests on your phone and send it to me.' Between the truth and the phone, Barinov gives Lyova a quick, grounded response.
+- 'Lyova, eat a carrot, it is good for the brain!' Here telling Lyova to eat a carrot it is good for the brain lets Barinov's real feelings break through. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'And here is your friend, greet him quickly!' Because here is Lyova's friend greet him quickly, Barinov does not bother softening the blow for Lyova. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Hello, Viktor Petrovich, your guests are already in the hall.' Explaining that Barinov's guests are already in the hall lays the cards on the table for Barinov.
+- 'Excellent, right now I will quickly cook them a hot dish.' Barinov mentions that excellent right now he will quickly cook them a hot dish so Lyova sees what is at stake.
+- 'And then I will immediately run back to Lena.' Claiming that he will immediately run back sounds confident, even if Lyova has doubts.
+- 'Just make sure that Elena Pavlovna does not notice anything!' Lyova insists that just make sure that Elena Pavlovna does not notice anything, leaving Barinov no room to argue.
+- 'And here I am back in the dining room again!' Saying that here he is back in the dining room again is how Barinov takes charge of the moment. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'I hope they will not bring our dessert anytime soon.' Pointing out that he hopes they will not bring their dessert anytime soon gives Lyova a sobering reality check.

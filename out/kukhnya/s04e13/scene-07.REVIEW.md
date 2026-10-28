@@ -10,32 +10,32 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Вика | Я, видимо, вас неправильно поняла. | I apparently misunderstood you. | #65 00:05:38: Я, видимо, вас не | adapted: adapted |
-| 2 | Вика | Вы хотите отметить праздник своей собаки? | Do you want to celebrate your dog's party? | #66 00:05:42: Вы хотите отметить день | adapted: adapted |
-| 3 | Гость | Да, я хочу закрыть весь ресторан. | Yes, I want to close the whole restaurant. | #67 00:05:45: Да, я хочу закрыть | adapted: adapted |
-| 4 | Гость | Нам и нашим гостям нужно удобство. | We and our guests need comfort. | #68 00:05:47: чтобы нам с Темой | adapted: adapted |
-| 5 | Гость | У него сильная аллергия на лактозу. | He has a strong allergy to lactose. | #71 00:05:58: У него аллергия на | adapted: adapted |
-| 6 | Вика | Мы не проводим подобные мероприятия. | We do not hold such events. | #72 00:06:01: Вы знаете, дело в | adapted: adapted |
-| 7 | Гость | А Дима Нагиев сказал совсем другое. | But Dima Nagiyev said something completely different. | #73 00:06:06: А Дима Нагип сказал, | adapted: adapted |
-| 8 | Гость | Он обещал, что всё будет хорошо. | He promised that everything will be fine. | #73 00:06:06: А Дима Нагип сказал, | adapted: adapted |
-| 9 | Гость | Я хотела прийти к вам позавчера. | I wanted to come to you the day before yesterday. | #74 00:06:09: Я хотела позавчера прийти, | adapted: adapted |
-| 10 | Гость | Но он сказал, что вы разводитесь. | But he said that you are getting divorced. | #74 00:06:09: Я хотела позавчера прийти, | adapted: adapted |
-| 11 | Вика | Извините меня, пожалуйста, на минутку. | Excuse me, please, for a minute. | #76 00:06:18: Извините. | adapted: adapted |
-| 12 | Вика | Настя, если заплачешь, я тебя оштрафую! | Nastya, if you cry, I will fine you! | #77 00:06:23: Если еще раз ты | adapted: adapted |
-| 13 | Вика | Что вы встали, быстро за работу! | Why are you standing there, get to work quickly! | #78 00:06:27: Поняла? Что встали? | adapted: adapted |
+| 1 | Вика | Я, видимо, вас неправильно поняла. | I apparently misunderstood you. | #65: Я, видимо, вас не | adapted: adapted |
+| 2 | Вика | Вы хотите отметить праздник своей собаки? | Do you want to celebrate your dog's party? | #66: Вы хотите отметить день | adapted: adapted |
+| 3 | Гость | Да, я хочу закрыть весь ресторан. | Yes, I want to close the whole restaurant. | #67: Да, я хочу закрыть | adapted: adapted |
+| 4 | Гость | Нам и нашим гостям нужно удобство. | We and our guests need comfort. | #68: чтобы нам с Темой | adapted: adapted |
+| 5 | Гость | У него сильная аллергия на лактозу. | He has a strong allergy to lactose. | #71: У него аллергия на | adapted: adapted |
+| 6 | Вика | Мы не проводим подобные мероприятия. | We do not hold such events. | #72: Вы знаете, дело в | adapted: adapted |
+| 7 | Гость | А Дима Нагиев сказал совсем другое. | But Dima Nagiyev said something completely different. | #73: А Дима Нагип сказал, | adapted: adapted |
+| 8 | Гость | Он обещал, что всё будет хорошо. | He promised that everything will be fine. | #73: А Дима Нагип сказал, | adapted: adapted |
+| 9 | Элеонора | Я хотела прийти к вам позавчера. | I wanted to come to you the day before yesterday. | #74: Я хотела позавчера прийти, | adapted: adapted |
+| 10 | Гость | Но он сказал, что вы разводитесь. | But he said that you are getting divorced. | #74: Я хотела позавчера прийти, | adapted: adapted |
+| 11 | Вика | Извините меня, пожалуйста, на минутку. | Excuse me, please, for a minute. | #76: Извините. | adapted: adapted |
+| 12 | Вика | Настя, если заплачешь, я тебя оштрафую! | Nastya, if you cry, I will fine you! | #77: Если еще раз ты | adapted: adapted |
+| 13 | Вика | Что вы встали, быстро за работу! | Why are you standing there, get to work quickly! | #78: Поняла? Что встали? | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I apparently misunderstood you.' Vika uses a parenthetical adverb meaning apparently and a feminine past-tense verb.
-- 'Do you want to celebrate your dog's party?' In spoken Russian, the words stay in their normal statement order and Vika's rising voice at the end turns the line into a question.
-- 'Yes, I want to close the whole restaurant.' Notice how Russian puts 'want' and 'restaurant' together in a short, direct phrase where word endings show how the ideas connect.
-- 'We and our guests need comfort.' Here the guest anchors the thought on 'guests' and finishes on 'comfort', keeping the spoken rhythm brisk and natural.
-- 'He has a strong allergy to lactose.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.
-- 'We do not hold such events.' Vika tries to decline politely using a negated first-person plural verb.
-- 'But Dima Nagiyev said something completely different.' The guest invokes the restaurant owner's name to overrule Vika.
-- 'He promised that everything will be fine.' A past-tense verb of promising introduces a future-tense clause.
-- 'I wanted to come to you the day before yesterday.' The temporal adverb for the day before yesterday specifies when she originally planned to visit.
-- 'But he said that you are getting divorced.' the guest pairs 'said' with 'to get divorced' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
-- 'Excuse me, please, for a minute.' Vika uses a polite everyday Russian courtesy expression that sets the tone of the conversation right away.
-- 'Nastya, if you cry, I will fine you!' Here Vika anchors the thought on 'to fine' and finishes on 'will fine', keeping the spoken rhythm brisk and natural.
-- 'Why are you standing there, get to work quickly!' In everyday Russian, 'stood still, stopped' flows straight into 'work' without extra linking words.
+- 'I apparently misunderstood you.' With the restaurant and tears in play, Vika keeps this short reply brisk and direct.
+- 'Do you want to celebrate your dog's party?' Checking whether Eleonora wants to celebrate Eleonora's dog party is how Vika puts Eleonora on the spot. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.
+- 'Yes, I want to close the whole restaurant.' Mentioning that he wants to close the whole restaurant moves the talk in a new direction.
+- 'We and our guests need comfort.' Around the restaurant and conversation, the guest sets a calm, everyday tone with Eleonora.
+- 'He has a strong allergy to lactose.' Adding that he has a strong allergy to lactose fills in the missing piece for Eleonora. Russian expresses having something as "by me is", keeping the phrase short and grounded.
+- 'We do not hold such events.' Realizing that they do not hold such events changes how Vika handles the situation.
+- 'But Dima Nagiyev said something completely different.' Noting that Dima Nagiyev said something completely different keeps the guest's side of the story simple and clear.
+- 'He promised that everything will be fine.' Even though he promised that everything will be fine, the guest keeps a steady face in front of Eleonora.
+- 'I wanted to come to you the day before yesterday.' Admitting that she wanted to come to the guest the day before yesterday shows Eleonora being honest for a change. Notice how she sticks to the formal "you", keeping a professional line between them.
+- 'But he said that you are getting divorced.' Saying that he said that Eleonora is getting divorced is how the guest sets the tone with Eleonora.
+- 'Excuse me, please, for a minute.' Turning from the breakup to the conversation, Vika keeps the exchange moving.
+- 'Nastya, if you cry, I will fine you!' Saying that if Eleonora cries she will fine Eleonora is how Vika takes charge of the moment. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Why are you standing there, get to work quickly!' Insisting that why are Eleonora standing there get to work quickly shows Vika is not backing down.

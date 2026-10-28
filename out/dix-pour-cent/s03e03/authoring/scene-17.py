@@ -7,8 +7,7 @@ SCENE = 17
 TITLE = 'Croiser Guy Marchand  (Crossing Paths with Guy Marchand)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'guy': 'marcel', 'lea': 'lucie'}
-LABELS = {'guy': 'Guy', 'lea': 'Andréa'}
+LABELS = {'andrea': 'Andréa', 'guy': 'Guy'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e03.fr.dual.srt'
 INTRO = "At the agency, Andrea bumps into veteran actor Guy Marchand, who casually reveals he saw her on Avenue de Trudaine earlier. To protect her confidential agency meetings, Andrea invents a story about apartment hunting, before teasing Guy about his tarot card reader. Let's listen to the scene in French first."
@@ -18,17 +17,17 @@ OUTRO = "With quick thinking and charm, Andrea deflects suspicion while keeping 
 CLOSING = ('guy', 'Bonne soirée!')
 STORY = [
     ('guy', 'Andréa, on ne se quitte plus!', 'Andrea, we never leave each other anymore!', [(1049, "On n'arrête pas de se voir")], ''),
-    ('lea', "Bonjour Guy, comment vas-tu aujourd'hui?", 'Hello Guy, how are you today?', [(1048, 'Guy, bah ça alors')], ''),
+    ('andrea', "Bonjour Guy, comment vas-tu aujourd'hui?", 'Hello Guy, how are you today?', [(1048, 'Guy, bah ça alors')], ''),
     ('guy', "Je t'ai vue ce matin.", 'I saw you this morning.', [(1050, 'croisés ce matin')], ''),
     ('guy', 'Tu marchais avenue de Trudaine.', 'You were walking on Avenue de Trudaine.', [(1050, 'avenue de Truden')], ''),
-    ('lea', 'Oui, je visitais un petit appartement.', 'Yes, I was visiting a small apartment.', [(1051, "J'ai visité un appart")], ''),
-    ('lea', 'Nous cherchons un logement avec Colette.', 'We are looking for housing with Colette.', [(1053, 'Avec Colette pour le bébé')], ''),
+    ('andrea', 'Oui, je visitais un petit appartement.', 'Yes, I was visiting a small apartment.', [(1051, "J'ai visité un appart")], ''),
+    ('andrea', 'Nous cherchons un logement avec Colette.', 'We are looking for housing with Colette.', [(1053, 'Avec Colette pour le bébé')], ''),
     ('guy', "C'est un quartier très agréable.", 'It is a very pleasant neighborhood.', [(1060, "C'est très joli, là-bas")], ''),
-    ('lea', 'Tu viens pour un nouveau rôle?', 'Are you coming for a new role?', [(1072, "J'avais un doute sur un rôle")], ''),
+    ('andrea', 'Tu viens pour un nouveau rôle?', 'Are you coming for a new role?', [(1072, "J'avais un doute sur un rôle")], ''),
     ('guy', "J'avais un doute sur ce projet.", 'I had a doubt about this project.', [(1072, "J'avais un doute sur un rôle")], ''),
     ('guy', 'Ma voyante lit dans les cartes.', 'My fortune teller reads the cards.', [(1078, "La carte au Mansi, c'est sérieux")], ''),
-    ('lea', 'Tu écoutes encore cette femme?', 'Are you still listening to that woman?', [(1070, "T'es encore allé voir ta voyante")], ''),
-    ('lea', "C'est moi ton agent officiel!", 'I am your official agent!', [(1074, 'mes conseils à moi, ton agent')], ''),
+    ('andrea', 'Tu écoutes encore cette femme?', 'Are you still listening to that woman?', [(1070, "T'es encore allé voir ta voyante")], ''),
+    ('andrea', "C'est moi ton agent officiel!", 'I am your official agent!', [(1074, 'mes conseils à moi, ton agent')], ''),
     ('guy', 'Ne sois pas jalouse, Andréa!', 'Do not be jealous, Andrea!', [(1077, "Arrête, je te l'ai déjà dit")], ''),
     ('guy', 'Tu restes ma petite reine.', 'You remain my little queen.', [(1083, "Ma p'tite reine")], ''),
 ]

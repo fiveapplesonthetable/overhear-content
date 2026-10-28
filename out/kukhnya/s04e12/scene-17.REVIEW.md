@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Тимур | Скажите, а сколько это может стоить? | Tell me, how much could this be worth? | #275 00:16:59: Сколько это может стоить | adapted: adapted for A1 clarity |
-| 2 | Тимур | Я не знаю, почём нынче стекло. | I do not know how much glass goes for these days. | #276 00:17:06: Я просто не знаю, почем нынче стекло | adapted: adapted for A1 clarity |
-| 3 | Тимур | Дядя Тимур, у меня высшее образование! | Uncle Timur, I have a university education! | #277 00:17:19: Дядя Тимур, у меня вообще-то высшее образование | adapted: adapted for A1 clarity |
-| 4 | Тимур | А как иначе несвежую рыбу продавать? | And how else are we supposed to sell stale fish? | #279 00:17:27: А как по-твоему не свежую рыбу продавать | adapted: adapted for A1 clarity |
-| 5 | Тимур | Учись, студент, это же настоящий маркетинг! | Learn, student, this is real marketing! | #280 00:17:31: Это же маркетинг | adapted: adapted for A1 clarity |
-| 6 | Саша | Скажите, а почему так много рыбы? | Tell me, why is there so much fish? | #282 00:17:52: А почему у нас так много рыбы | adapted: adapted for A1 clarity |
-| 7 | Саша | Ну, видимо, потому что сегодня четверг. | Well, apparently because today is Thursday. | #283 00:17:55: потому что четверг | adapted: adapted for A1 clarity |
-| 8 | Саша | Саша, я тоже хочу тебя поздравить. | Sasha, I want to congratulate you too. | #287 00:18:03: Я хочу тебя поздравить | adapted: adapted for A1 clarity |
-| 9 | Саша | Меня поздравить, спасибо тебе большое, Вика. | Congratulate me, thank you very much, Vika. | #288 00:18:05: Меня? Спасибо | adapted: adapted for A1 clarity |
-| 10 | Саша | Когда мой муж будет помогать тебе... | Next time my husband is helping you... | #290 00:18:09: В следующий раз, когда мой муж будет помогать тебе | adapted: adapted for A1 clarity |
-| 11 | Саша | Пожалуйста, будь аккуратней, не теряй ничего. | Please be more careful, do not lose anything. | #291 00:18:13: Не теряй ничего | adapted: adapted for A1 clarity |
-| 12 | Саша | Девочки, хватит секретничать, мы похищаем невесту! | Girls, enough whispering, we are kidnapping the bride! | #292 00:18:17: Саш, я тебя похищаю | adapted: adapted for A1 clarity |
+| 1 | Тимур | Скажите, а сколько это может стоить? | Tell me, how much could this be worth? | #275: Сколько это может стоить | adapted: adapted for A1 clarity |
+| 2 | Тимур | Я не знаю, почём нынче стекло. | I do not know how much glass goes for these days. | #276: Я просто не знаю, почем нынче стекло | adapted: adapted for A1 clarity |
+| 3 | Тимур | Дядя Тимур, у меня высшее образование! | Uncle Timur, I have a university education! | #277: Дядя Тимур, у меня вообще-то высшее образование | adapted: adapted for A1 clarity |
+| 4 | Тимур | А как иначе несвежую рыбу продавать? | And how else are we supposed to sell stale fish? | #279: А как по-твоему не свежую рыбу продавать | adapted: adapted for A1 clarity |
+| 5 | Тимур | Учись, студент, это же настоящий маркетинг! | Learn, student, this is real marketing! | #280: Это же маркетинг | adapted: adapted for A1 clarity |
+| 6 | Саша | Скажите, а почему так много рыбы? | Tell me, why is there so much fish? | #282: А почему у нас так много рыбы | adapted: adapted for A1 clarity |
+| 7 | Вика | Ну, видимо, потому что сегодня четверг. | Well, apparently because today is Thursday. | #283: потому что четверг | adapted: adapted for A1 clarity |
+| 8 | Вика | Саша, я тоже хочу тебя поздравить. | Sasha, I want to congratulate you too. | #287: Я хочу тебя поздравить | adapted: adapted for A1 clarity |
+| 9 | Саша | Меня поздравить, спасибо тебе большое, Вика. | Congratulate me, thank you very much, Vika. | #288: Меня? Спасибо | adapted: adapted for A1 clarity |
+| 10 | Вика | Когда мой муж будет помогать тебе... | Next time my husband is helping you... | #290: В следующий раз, когда мой муж будет помогать тебе | adapted: adapted for A1 clarity |
+| 11 | Вика | Пожалуйста, будь аккуратней, не теряй ничего. | Please be more careful, do not lose anything. | #291: Не теряй ничего | adapted: adapted for A1 clarity |
+| 12 | Саша | Девочки, хватит секретничать, мы похищаем невесту! | Girls, enough whispering, we are kidnapping the bride! | #292: Саш, я тебя похищаю | adapted: adapted for A1 clarity |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Tell me, how much could this be worth?' At the pawnshop window, Barinov slides the stone under the magnifying glass.
-- 'I do not know how much glass goes for these days.' Colloquial 'pochom' means 'at what price / how much does it cost'.
-- 'Uncle Timur, I have a university education!' Back at Timur's truck, his nephew stuffs glass beads into dead fish and complains.
-- 'And how else are we supposed to sell stale fish?' Timur grins proudly at his brilliant scam.
-- 'Learn, student, this is real marketing!' Two glass beads sold eighty kilograms of stale fish to two top chefs!
-- 'Tell me, why is there so much fish?' At the wedding banquet in Claude Monet, every single dish on the table is fish.
-- 'Well, apparently because today is Thursday.' In Soviet and Russian dining tradition, Thursday is famously 'fish day' ('rybny den').
-- 'Sasha, I want to congratulate you too.' Vika walks up to the bride holding a small box.
-- 'Congratulate me, thank you very much, Vika.' Sasha opens the box and sees the earring she lost on Tuesday.
-- 'Next time my husband is helping you...' Vika's smile turns icy cold.
-- 'Please be more careful, do not lose anything.' Vika uses a polite everyday Russian courtesy expression that sets the tone of the conversation right away.
-- 'Girls, enough whispering, we are kidnapping the bride!' Laughing bridesmaids spirit Sasha away to hide her in the kitchen cooler.
+- 'Tell me, how much could this be worth?' Questioning whether tell him how much could this be worth is how Timur tests Sasha's story. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'I do not know how much glass goes for these days.' Since he does not know how much glass goes for these days, Timur does not waste words on excuses.
+- 'Uncle Timur, I have a university education!' Once someone Timur he has a university education, Timur makes sure Sasha hears every word.
+- 'And how else are we supposed to sell stale fish?' Asking whether how else are they supposed to sell stale fish puts Sasha right on the defensive. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Learn, student, this is real marketing!' By telling Sasha to learn student this is real marketing, Timur raises the stakes in the room at once. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'Tell me, why is there so much fish?' Questioning whether tell her why is there so much fish is how Sasha tests Timur's story.
+- 'Well, apparently because today is Thursday.' Once apparently because today is Thursday, Vika can finally tell Sasha what she means.
+- 'Sasha, I want to congratulate you too.' Here wanting to congratulate Sasha sets up the next turn in their exchange. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Congratulate me, thank you very much, Vika.' Even though Timur should congratulate her thank Timur very much, Sasha keeps a steady face in front of Timur.
+- 'Next time my husband is helping you...' Since next time her husband is helping Sasha, Vika does not waste words on excuses. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Please be more careful, do not lose anything.' Mentioning that be more careful do not lose anything moves the talk in a new direction. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
+- 'Girls, enough whispering, we are kidnapping the bride!' Sasha insists that girls enough whispering they are kidnapping the bride, leaving Timur no room to argue.

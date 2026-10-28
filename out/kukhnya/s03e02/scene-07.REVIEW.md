@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Настя | Ешь! Ненасытный. | Eat! Insatiable. | #87 00:07:49: Ешь<br>#88 00:07:54: Ненасытный | adapted: adapted |
-| 2 | Настя | Вот конфетка. | Here is a piece of candy. | #89 00:08:17: конфетка | adapted: adapted |
-| 3 | Аня | Значит, по поводу вырезки. | So, regarding the tenderloin. | #90 00:08:28: Значит, по поводу вырезки | verbatim |
-| 4 | Аня | Она должна быть, во-первых, свежей. | First of all, it must be fresh. | #91 00:08:30: Она должна быть, во-первых, свежей | verbatim |
-| 5 | Аня | Как минимум. | At a minimum. | #92 00:08:32: Как минимум | verbatim |
-| 6 | Илья | Ягнёнка забираем. | Picking up the lamb. | #93 00:08:48: ягнёнка, забираем | adapted: adapted |
-| 7 | Илья | Так, почему здесь остывает? Забираем. | Right, why is it getting cold here? Taking it. | #94 00:08:56: остывает<br>#95 00:08:59: Забираем | adapted: adapted |
-| 8 | Аня | Приятного аппетита! | Bon appetit! | #96 00:09:08: Приятного аппетита | verbatim |
-| 9 | Илья | Ну что это? | Well, what is this? | #97 00:09:13: Ну что это | verbatim |
-| 10 | Аня | Видимо, ягнёнок был очень вкусный, и повар не удержался. | Apparently, the lamb was very delicious, and the cook couldn't resist. | #98 00:09:19: видимо, ягнёнок был очень вкусный, и повар не удержался | adapted: adapted |
-| 11 | Аня | Давайте я сейчас всё переделаю. | Let me redo everything right now. | #99 00:09:23: Давайте я сейчас всё переделаю | verbatim |
-| 12 | Аня | Простите! Ну, ты напросился. | Forgive me! Well, you asked for it. | #100 00:09:26: Простите, ну ты напросился | verbatim |
+| 1 | Настя | Ешь! Ненасытный. | Eat! Insatiable. | #87: Ешь<br>#88: Ненасытный | adapted: adapted |
+| 2 | Настя | Вот конфетка. | Here is a piece of candy. | #89: конфетка | adapted: adapted |
+| 3 | Макс | Значит, по поводу вырезки. | So, regarding the tenderloin. | #90: Значит, по поводу вырезки | verbatim |
+| 4 | Макс | Она должна быть, во-первых, свежей. | First of all, it must be fresh. | #91: Она должна быть, во-первых, свежей | verbatim |
+| 5 | Макс | Как минимум. | At a minimum. | #92: Как минимум | verbatim |
+| 6 | Илья | Ягнёнка забираем. | Picking up the lamb. | #93: ягнёнка, забираем | adapted: adapted |
+| 7 | Илья | Так, почему здесь остывает? Забираем. | Right, why is it getting cold here? Taking it. | #94: остывает<br>#95: Забираем | adapted: adapted |
+| 8 | Макс | Приятного аппетита! | Bon appetit! | #96: Приятного аппетита | verbatim |
+| 9 | Илья | Ну что это? | Well, what is this? | #97: Ну что это | verbatim |
+| 10 | Макс | Видимо, ягнёнок был очень вкусный, и повар не удержался. | Apparently, the lamb was very delicious, and the cook couldn't resist. | #98: видимо, ягнёнок был очень вкусный, и повар не удержался | adapted: adapted |
+| 11 | Макс | Давайте я сейчас всё переделаю. | Let me redo everything right now. | #99: Давайте я сейчас всё переделаю | verbatim |
+| 12 | Макс | Простите! Ну, ты напросился. | Forgive me! Well, you asked for it. | #100: Простите, ну ты напросился | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Eat! Insatiable.' Here the Russian phrasing highlights 'eat' before landing on 'insatiable'.
-- 'Here is a piece of candy.' Nastya brings out the contrast between 'here' and 'piece of candy' in a few short words.
-- 'So, regarding the tenderloin.' Max anchors the line on 'so', while 'tenderloin' completes the thought.
-- 'First of all, it must be fresh.' The grammar packs 'she' and 'fresh' into a tight, idiomatic kitchen exchange.
-- 'At a minimum.' The meaning hinges on 'how' working together with 'minimum' in spoken Russian.
-- 'Picking up the lamb.' In Russian, the idea of 'lamb' flows naturally into 'we are taking' without extra filler words.
-- 'Right, why is it getting cold here? Taking it.' Spoken Russian keeps this brisk, leaning on 'so' and finishing on 'we are taking'.
-- 'Bon appetit!' Notice how Russian expresses 'pleasant' and 'appetite' with crisp inflection rather than helper words.
-- 'Well, what is this?' Spoken Russian keeps this brisk, leaning on 'come on' and finishing on 'this'. Max answers right away.
-- 'Apparently, the lamb was very delicious, and the cook couldn't resist.' Max brings out the contrast between 'apparently' and 'lamb' in a few short words.
-- 'Let me redo everything right now.' Max anchors the line on 'let's', while 'will redo' completes the thought.
-- 'Forgive me! Well, you asked for it.' The grammar packs 'forgive' and 'asked for it' into a tight, idiomatic kitchen exchange.
+- 'Eat! Insatiable.' With the meat and order at stake, Nastya reacts without holding back.
+- 'Here is a piece of candy.' Noting that here is a piece of candy keeps Nastya's side of the story simple and clear.
+- 'So, regarding the tenderloin.' Around the moment and meat, Max sets a calm, everyday tone with Ilya.
+- 'First of all, it must be fresh.' Admitting that first of all it must be fresh shows Max being honest for a change.
+- 'At a minimum.' With the moment and bet in play, Max keeps this short reply brisk and direct.
+- 'Picking up the lamb.' With the conversation and order in play, Ilya keeps this short reply brisk and direct.
+- 'Right, why is it getting cold here? Taking it.' When Ilya asks if right why is it getting cold here, Max has to answer fast.
+- 'Bon appetit!' Around the room and bet, Max makes his point loud and clear. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Well, what is this?' With the room and conversation hanging in the air, Ilya puts Max on the spot. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'Apparently, the lamb was very delicious, and the cook couldn't resist.' Mentioning that apparently the lamb was very delicious and the cook could not resist moves the talk in a new direction.
+- 'Let me redo everything right now.' Because Ilya should let him redo everything right now, Max treats the matter as settled. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
+- 'Forgive me! Well, you asked for it.' Max insists that Ilya asked for it, leaving Ilya no room to argue. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.

@@ -7,29 +7,28 @@ SCENE = 1
 TITLE = 'Réveil matinal  (Early Wake-Up)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'lea': 'lucie', 'gabriel': 'theo'}
-LABELS = {'lea': 'Andréa', 'gabriel': 'Gabriel'}
+LABELS = {'andrea': 'Andréa', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e03.fr.dual.srt'
 INTRO = "At five in the morning, Andrea wakes up to soothe her baby daughter Flora. She tenderly notes that the restless infant takes after her own night-owl habits, just before Gabriel calls to coordinate an early start on the movie set. Let's listen to their conversation in French first."
 OPENER = "Let's explore Andrea and Gabriel's early conversation line by line."
 TRANSITION = "Now let's listen to Andrea and Gabriel's exchange once more from start to finish."
 OUTRO = "That's it for this scene around early wake-up. When you watch the episode, listen out for the expressions meaning 'am coming' and 'little'. You'll catch them now. See you next time!"
-CLOSING = ('lea', 'Bonne soirée!')
+CLOSING = ('andrea', 'Bonne soirée!')
 STORY = [
-    ('lea', "J'arrive, mon petit bébé, j'arrive!", 'I am coming, my little baby, I am coming!', [(1, "J'arrive, mon bébé !")], ''),
-    ('lea', 'Te voilà enfin réveillée si tôt.', 'There you are finally awake so early.', [(2, 'Te voilà !'), (3, 'Te voilà.')], ''),
-    ('lea', "Qu'est-ce que tu fais debout à cette heure?", 'What are you doing up at this hour?', [(6, 'debout à cette heure-ci ?')], ''),
-    ('lea', "Cinq heures du matin, ce n'est pas l'heure.", 'Five in the morning is no time to wake up.', [(7, 'Cinq heures du mat')], ''),
-    ('lea', 'Tu es bien réveillée, dis-moi.', 'You are wide awake, tell me.', [(9, "T'es bien réveillée")], ''),
-    ('lea', 'À cette heure, maman était en boîte.', 'At this hour, mommy was in nightclubs.', [(10, 'en boîte de nuit.')], ''),
-    ('lea', 'Tu tiens vraiment de maman Andréa!', 'You truly take after mommy Andrea!', [(11, 'Tu tiens de maman Andréa.')], ''),
-    ('lea', 'On va aller voir maman Colette?', 'Shall we go see mommy Colette?', [(12, 'On va voir maman Colette ?')], ''),
-    ('lea', "Allô Gabriel? Pourquoi m'appelles-tu si tôt?", 'Hello Gabriel? Why are you calling me so early?', [], ''),
+    ('andrea', "J'arrive, mon petit bébé, j'arrive!", 'I am coming, my little baby, I am coming!', [(1, "J'arrive, mon bébé !")], ''),
+    ('andrea', 'Te voilà enfin réveillée si tôt.', 'There you are finally awake so early.', [(2, 'Te voilà !'), (3, 'Te voilà.')], ''),
+    ('andrea', "Qu'est-ce que tu fais debout à cette heure?", 'What are you doing up at this hour?', [(6, 'debout à cette heure-ci ?')], ''),
+    ('andrea', "Cinq heures du matin, ce n'est pas l'heure.", 'Five in the morning is no time to wake up.', [(7, 'Cinq heures du mat')], ''),
+    ('andrea', 'Tu es bien réveillée, dis-moi.', 'You are wide awake, tell me.', [(9, "T'es bien réveillée")], ''),
+    ('andrea', 'À cette heure, maman était en boîte.', 'At this hour, mommy was in nightclubs.', [(10, 'en boîte de nuit.')], ''),
+    ('andrea', 'Tu tiens vraiment de maman Andréa!', 'You truly take after mommy Andrea!', [(11, 'Tu tiens de maman Andréa.')], ''),
+    ('andrea', 'On va aller voir maman Colette?', 'Shall we go see mommy Colette?', [(12, 'On va voir maman Colette ?')], ''),
+    ('andrea', "Allô Gabriel? Pourquoi m'appelles-tu si tôt?", 'Hello Gabriel? Why are you calling me so early?', [], ''),
     ('gabriel', "José Garcia t'attend déjà sur le plateau.", 'Jose Garcia is already waiting for you on the movie set.', [], ''),
-    ('lea', 'Je sais, je prépare ma fille Flora.', 'I know, I am getting my daughter Flora ready.', [], ''),
+    ('andrea', 'Je sais, je prépare ma fille Flora.', 'I know, I am getting my daughter Flora ready.', [], ''),
     ('gabriel', 'Ne sois pas en retard ce matin.', 'Do not be late this morning.', [], ''),
-    ('lea', "J'arrive tout de suite au tournage.", 'I am coming right away to the film shoot.', [], ''),
+    ('andrea', "J'arrive tout de suite au tournage.", 'I am coming right away to the film shoot.', [], ''),
     ('gabriel', 'Parfait, je compte sur toi, Andréa.', 'Perfect, I count on you, Andrea.', [], ''),
 ]
 WALK = [

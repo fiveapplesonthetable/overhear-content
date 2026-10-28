@@ -10,22 +10,22 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Паша, слушай. Это были не местные, а московские. | Pasha, listen. They weren't local police, they were from Moscow. | #820 00:46:00: не местные | adapted: 'Слушай' new; 'не местные, московские' -> 'не местные, а московские'; 'Это были' added |
-| 2 | Аня | Поговори с Аракеляном. Пусть он заберёт заявление. | Talk to Arakelyan. Get him to withdraw his statement. | new | new: new, retelling cues 821-822 ('надави на Аракеляна, чтоб он забрал своё заявление') in plain words |
-| 3 | Паша | Не заберёт он заявление, Аркаша. | He won't withdraw the statement, Arkasha. | #824 00:46:08: Не заберет он заявление, Аркаша | verbatim |
-| 4 | Аня | Значит, сделай так, чтобы забрал. | Then make sure he does. | #826 00:46:14: Значит, сделай так, чтобы забрал | verbatim |
-| 5 | Паша | А зачем? Я сам сделал так, чтобы он его написал. | And why would I? I'm the one who made him write it. | #827 00:46:16: А зачем<br>#828 00:46:17: сделал так, чтобы он его написал | adapted: 'Если я' -> 'Я сам' |
-| 6 | Аня | Как так, Паша? | What do you mean, Pasha? | #835 00:46:36: Как так, Паша | verbatim |
-| 7 | Паша | Я тебе утром говорил: не торопись. Это очень важный вопрос. | I told you this morning: don't rush. It's a very important question. | #831 00:46:29: не торопись<br>#833 00:46:32: это очень важный вопрос | adapted: 'Я утром что тебе сказал' -> 'Я тебе утром говорил' |
-| 8 | Паша | Все в городе хотят этот кластер. Только ты против. | Everyone in town wants this cluster. Only you are against it. | #842 00:46:51: Все в городе хотят этот кластер<br>#844 00:46:55: Только ты | adapted: 'в позу встал' -> 'против' |
-| 9 | Паша | Ты слишком сентиментальным стал. А лидер должен быть жёстким. | You've become too sentimental. And a leader has to be tough. | #839 00:46:46: Ты слишком сентиментальным стал<br>#840 00:46:48: лидер должен быть жестким | adapted: 'Аркашенька' dropped |
-| 10 | Аня | Ты поняла, Вика? Он нас обманул. | Did you get that, Vika? He has cheated us. | #846 00:46:57: Ты поняла, Вика<br>#847 00:46:59: Он нас | adapted: 'кинул' (slang) -> 'обманул' |
-| 11 | Паша | Тихо, тихо. | Easy, easy. | #849 00:47:03: Тихо, тихо | verbatim |
-| 12 | Аня | Не трогай меня! | Don't touch me! | #851 00:47:04: Не трогай | adapted: 'ты' dropped |
-| 13 | Аня | Ты знаешь, сколько у меня денег? Ты ещё пожалеешь! | Do you know how much money I have? You'll be sorry! | #853 00:47:11: Ты знаешь, сколько у меня | adapted: 'бабок' (slang) -> 'денег'; the threat 'Я тебя закопаю' retold cleanly as 'Ты ещё пожалеешь!' |
-| 14 | Паша | Да нет у тебя никаких денег. | But you don't have any money. | #858 00:47:21: Да нет у тебя никаких денег | verbatim |
-| 15 | Паша | Все деньги у жены твоей. | All the money is your wife's. | #859 00:47:23: у жены твоей | adapted: 'Все бабки он' -> 'Все деньги' (slang removed) |
-| 16 | Аня | Ну и что? Какая разница? Вика — моя жена. | So what? What difference does it make? Vika is my wife. | #860 00:47:24: Ну и что? Какая разница | adapted: 'Вика — моя жена.' added |
+| 1 | Аркадий | Паша, слушай. Это были не местные, а московские. | Pasha, listen. They weren't local police, they were from Moscow. | #820: не местные | adapted: 'Слушай' new; 'не местные, московские' -> 'не местные, а московские'; 'Это были' added |
+| 2 | Аркадий | Поговори с Аракеляном. Пусть он заберёт заявление. | Talk to Arakelyan. Get him to withdraw his statement. | new | new: new, retelling cues 821-822 ('надави на Аракеляна, чтоб он забрал своё заявление') in plain words |
+| 3 | Паша | Не заберёт он заявление, Аркаша. | He won't withdraw the statement, Arkasha. | #824: Не заберет он заявление, Аркаша | verbatim |
+| 4 | Аркадий | Значит, сделай так, чтобы забрал. | Then make sure he does. | #826: Значит, сделай так, чтобы забрал | verbatim |
+| 5 | Паша | А зачем? Я сам сделал так, чтобы он его написал. | And why would I? I'm the one who made him write it. | #827: А зачем<br>#828: сделал так, чтобы он его написал | adapted: 'Если я' -> 'Я сам' |
+| 6 | Аркадий | Как так, Паша? | What do you mean, Pasha? | #835: Как так, Паша | verbatim |
+| 7 | Паша | Я тебе утром говорил: не торопись. Это очень важный вопрос. | I told you this morning: don't rush. It's a very important question. | #831: не торопись<br>#833: это очень важный вопрос | adapted: 'Я утром что тебе сказал' -> 'Я тебе утром говорил' |
+| 8 | Паша | Все в городе хотят этот кластер. Только ты против. | Everyone in town wants this cluster. Only you are against it. | #842: Все в городе хотят этот кластер<br>#844: Только ты | adapted: 'в позу встал' -> 'против' |
+| 9 | Паша | Ты слишком сентиментальным стал. А лидер должен быть жёстким. | You've become too sentimental. And a leader has to be tough. | #839: Ты слишком сентиментальным стал<br>#840: лидер должен быть жестким | adapted: 'Аркашенька' dropped |
+| 10 | Аркадий | Ты поняла, Вика? Он нас обманул. | Did you get that, Vika? He has cheated us. | #846: Ты поняла, Вика<br>#847: Он нас | adapted: 'кинул' (slang) -> 'обманул' |
+| 11 | Паша | Тихо, тихо. | Easy, easy. | #849: Тихо, тихо | verbatim |
+| 12 | Аркадий | Не трогай меня! | Don't touch me! | #851: Не трогай | adapted: 'ты' dropped |
+| 13 | Аркадий | Ты знаешь, сколько у меня денег? Ты ещё пожалеешь! | Do you know how much money I have? You'll be sorry! | #853: Ты знаешь, сколько у меня | adapted: 'бабок' (slang) -> 'денег'; the threat 'Я тебя закопаю' retold cleanly as 'Ты ещё пожалеешь!' |
+| 14 | Паша | Да нет у тебя никаких денег. | But you don't have any money. | #858: Да нет у тебя никаких денег | verbatim |
+| 15 | Паша | Все деньги у жены твоей. | All the money is your wife's. | #859: у жены твоей | adapted: 'Все бабки он' -> 'Все деньги' (slang removed) |
+| 16 | Аркадий | Ну и что? Какая разница? Вика — моя жена. | So what? What difference does it make? Vika is my wife. | #860: Ну и что? Какая разница | adapted: 'Вика — моя жена.' added |
 | 17 | Вика | Аркаша, я должна тебе сказать… | Arkasha, there's something I have to tell you... | new | new: new, leads into the next scene (cue 862 'Аркаша, я понимаю...') |
 
 ## Walk-through narration (English only, no target-language words quoted)
@@ -50,4 +50,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'But you don't have any money.' The same pattern: 'at you there is no money'. And here is why.
 - 'All the money is your wife's.' Literally, 'all the money is at your wife's'. Notice that 'your' comes after 'wife' here; in speech that puts weight on it. Every account is in Vika's name. Arkady still trusts her.
 - 'So what? What difference does it make? Vika is my wife.' The dash stands for the missing 'is'; Russian simply leaves it out in the present. But Vika has news of her own.
-- 'Arkasha, there's something I have to tell you.' Arkasha is the warm, short form of his name. The word for 'have to' ends in 'a' this time, because Vika is a woman.
+- 'Arkasha, there's something I have to tell you.' Meanwhile, Arkasha is the warm, short form of his name. The word for 'have to' ends in 'a' this time, because Vika is a woman.

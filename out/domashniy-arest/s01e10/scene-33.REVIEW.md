@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Марина | Эдуард Валентинович, что здесь происходит? | Eduard Valentinovich, what is going on here? | #1008 00:55:33: Что происходит | adapted: adapted cue 1008 |
-| 2 | Марина | Почему вы обижаете наших сотрудников? | Why are you mistreating our staff? | #1009 00:55:34: ущемляете сотрудников | adapted: simplified cue 1009 |
-| 3 | Эдуард Владимирович | Их зарплаты пошли на ваш проект. | Their salaries went toward your project. | #1010 00:55:38: Потому что их зарплаты пошли<br>#1011 00:55:40: на ваш проект | adapted: combined cues 1010-1011 |
-| 4 | Марина | Значит, не будет никакого проекта! | Then there will be no project! | #1012 00:55:41: Значит, не будет никакого проекта | adapted: verbatim cue 1012 |
-| 5 | Марина | Я полностью отказываюсь от него. | I completely drop it. | #1012 00:55:41: Я отказываюсь от него | adapted: adapted cue 1012 |
-| 6 | Эдуард Владимирович | Стойте! Что значит отказываетесь? | Wait! What do you mean you drop it? | #1013 00:55:44: Стойте! Что значит отказываюсь | adapted: adapted cue 1013 |
-| 7 | Эдуард Владимирович | Вы должны делать этот проект! | You must do this project! | #1014 00:55:48: Вы должны делать этот проект | adapted: verbatim cue 1014 |
-| 8 | Марина | Я ничего не должна другим людям! | I owe nothing to other people! | #1015 00:55:51: Ничего я не должна за счет других людей | adapted: simplified cue 1015 |
-| 9 | Эдуард Владимирович | Подождите! Иначе меня просто убьют! | Wait! Otherwise they will simply kill me! | #1016 00:55:53: Да ждите<br>#1018 00:55:58: иначе меня<br>#1019 00:56:00: убьют | adapted: combined cues 1016-1019 |
+| 1 | Марина | Эдуард Валентинович, что здесь происходит? | Eduard Valentinovich, what is going on here? | #1008: Что происходит | adapted: adapted cue 1008 |
+| 2 | Марина | Почему вы обижаете наших сотрудников? | Why are you mistreating our staff? | #1009: ущемляете сотрудников | adapted: simplified cue 1009 |
+| 3 | Эдуард Владимирович | Их зарплаты пошли на ваш проект. | Their salaries went toward your project. | #1010: Потому что их зарплаты пошли<br>#1011: на ваш проект | adapted: combined cues 1010-1011 |
+| 4 | Марина | Значит, не будет никакого проекта! | Then there will be no project! | #1012: Значит, не будет никакого проекта | adapted: verbatim cue 1012 |
+| 5 | Марина | Я полностью отказываюсь от него. | I completely drop it. | #1012: Я отказываюсь от него | adapted: adapted cue 1012 |
+| 6 | Эдуард Владимирович | Стойте! Что значит отказываетесь? | Wait! What do you mean you drop it? | #1013: Стойте! Что значит отказываюсь | adapted: adapted cue 1013 |
+| 7 | Эдуард Владимирович | Вы должны делать этот проект! | You must do this project! | #1014: Вы должны делать этот проект | adapted: verbatim cue 1014 |
+| 8 | Марина | Я ничего не должна другим людям! | I owe nothing to other people! | #1015: Ничего я не должна за счет других людей | adapted: simplified cue 1015 |
+| 9 | Эдуард Владимирович | Подождите! Иначе меня просто убьют! | Wait! Otherwise they will simply kill me! | #1016: Да ждите<br>#1018: иначе меня<br>#1019: убьют | adapted: combined cues 1016-1019 |
 | 10 | Марина | Кто вас убьёт? Вы шутите? | Who will kill you? Are you joking? | new | new: added skeptical question |
-| 11 | Эдуард Владимирович | Меня бьют буквально каждый день! | They beat me literally every day! | #1020 00:56:03: Меня бьют каждый день | adapted: expanded cue 1020 |
-| 12 | Эдуард Владимирович | Два огромных и страшных человека! | Two huge and scary men! | #1021 00:56:05: Два таких здоровенных | adapted: adapted cue 1021 |
+| 11 | Эдуард Владимирович | Меня бьют буквально каждый день! | They beat me literally every day! | #1020: Меня бьют каждый день | adapted: expanded cue 1020 |
+| 12 | Эдуард Владимирович | Два огромных и страшных человека! | Two huge and scary men! | #1021: Два таких здоровенных | adapted: adapted cue 1021 |
 | 13 | Марина | Это ваши проблемы, а не мои. | These are your problems, not mine. | new | new: added firm refusal |
 | 14 | Марина | Я не буду работать за чужие деньги. | I will not work for someone else's money. | new | new: added moral stance |
 

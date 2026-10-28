@@ -4,31 +4,30 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 20
 SCENE = 23
-TITLE = "Пробуждение  (Awakening)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Пробуждение  (Awakening)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "anya": "alisa"}
-LABELS = {"anya": "Макс"}
+LABELS = {'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.20'
 SOURCE_FILE = 'sources/kukhnya/s01/e20.ru.dual.srt'
 INTRO = "The first season reaches its final, dramatic conclusion. A single, powerful question is left hanging in the air for the audience to ponder. Let's listen closely to their conversation in Russian first, and then walk through each line together."
 OPENER = "Now let's go back through the exchange around Awakening line by line and unpack how the Russian works."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "A question is left hanging in the air. Next time you watch the episode, listen for the Russian expressions for 'morning' and 'to come' — you will catch every word right away. See you next time!"
-CLOSING = ("anya", "До свидания!")
+CLOSING = ('max', 'До свидания!')
 STORY = [
-    ('anya', 'Утро пришло.', 'Morning has come.', [], ''),
-    ('anya', 'Теперь все ясно.', 'Now everything is clear.', [], ''),
-    ('anya', 'Но уже поздно.', 'But it is already late.', [], ''),
-    ('anya', 'Время ушло.', 'Time has gone.', [], ''),
-    ('anya', 'Это наша общая ошибка.', 'This is our common mistake.', [], ''),
-    ('anya', 'Может быть, стоило проснуться?', 'Maybe we should have woken up?', [(339, 'Может быть, стоило проснуться')], ''),
-    ('anya', 'Проснуться раньше?', 'Woken up sooner?', [(339, 'проснуться раньше')], ''),
-    ('anya', 'Я не знаю ответ.', "I don't know the answer.", [], ''),
-    ('anya', 'Никто не знает.', 'Nobody knows.', [], ''),
-    ('anya', 'Жизнь продолжается.', 'Life goes on.', [], ''),
-    ('anya', 'Нужно идти.', 'Need to go.', [], ''),
-    ('anya', 'Идти только вперед.', 'Go only forward.', [], ''),
+    ('max', 'Утро пришло.', 'Morning has come.', [], ''),
+    ('max', 'Теперь все ясно.', 'Now everything is clear.', [], ''),
+    ('max', 'Но уже поздно.', 'But it is already late.', [], ''),
+    ('max', 'Время ушло.', 'Time has gone.', [], ''),
+    ('max', 'Это наша общая ошибка.', 'This is our common mistake.', [], ''),
+    ('max', 'Может быть, стоило проснуться?', 'Maybe we should have woken up?', [(339, 'Может быть, стоило проснуться')], ''),
+    ('max', 'Проснуться раньше?', 'Woken up sooner?', [(339, 'проснуться раньше')], ''),
+    ('max', 'Я не знаю ответ.', "I don't know the answer.", [], ''),
+    ('max', 'Никто не знает.', 'Nobody knows.', [], ''),
+    ('max', 'Жизнь продолжается.', 'Life goes on.', [], ''),
+    ('max', 'Нужно идти.', 'Need to go.', [], ''),
+    ('max', 'Идти только вперед.', 'Go only forward.', [], ''),
 ]
 WALK = [
     (0, None, "'Morning has come.' Max puts the word for 'morning' together with 'to come' in a crisp, natural spoken turn of phrase."),

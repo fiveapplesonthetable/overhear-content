@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Сеня | Севрюга, собственной персоной! | Stellate sturgeon, in person! | #285 00:20:16: Севрюга<br>#286 00:20:19: персона | adapted: adapted |
-| 2 | Федя | Сеня, ты где такую красоту взял? | Senya, where did you get such a beauty? | #287 00:20:21: Ты где такую красоту взял | adapted: adapted |
-| 3 | Сеня | О, это я заработал собственным умом! | Oh, I earned this with my own wit! | #288 00:20:24: О, это я заработал<br>#289 00:20:26: Собственным умом | adapted: adapted |
-| 4 | Сеня | Пропавшую рыбу куда денешь? | What will you do with the spoiled fish? | #290 00:20:31: Пропавшую рыбу куда денешь | adapted: adapted |
-| 5 | Сеня | Выкинул. | I threw it out. | #291 00:20:34: Выкидал | adapted: adapted |
-| 6 | Сеня | Мне можешь отдать? | Can you give it to me? | #291 00:20:34: Мне можешь отдать | adapted: adapted |
-| 7 | Сеня | Пятьсот рублей. | Five hundred rubles. | #292 00:20:36: рублей | adapted: adapted |
-| 8 | Сеня | Чего пятьсот рублей? | What do you mean five hundred rubles? | #292 00:20:36: Чего<br>#292 00:20:36: рублей | adapted: adapted |
-| 9 | Сеня | Ты её выкидывать собрался! | You were going to throw it out! | #293 00:20:38: Ты ее выкидывать собрался | adapted: adapted |
-| 10 | Сеня | Сейчас на неё спрос появился. | Now a demand for it has appeared. | #293 00:20:38: Сейчас на нее спрос появился | adapted: adapted |
-| 11 | Сеня | Бери, хорошая рыба. | Take it, it is a good fish. | #294 00:20:41: Бери хорошая рыба | adapted: adapted |
-| 12 | Сеня | Только немного испортилась. | It just spoiled a little. | #294 00:20:41: только испортилась | adapted: adapted |
+| 1 | Сеня | Севрюга, собственной персоной! | Stellate sturgeon, in person! | #285: Севрюга<br>#286: персона | adapted: adapted |
+| 2 | Федя | Сеня, ты где такую красоту взял? | Senya, where did you get such a beauty? | #287: Ты где такую красоту взял | adapted: adapted |
+| 3 | Сеня | О, это я заработал собственным умом! | Oh, I earned this with my own wit! | #288: О, это я заработал<br>#289: Собственным умом | adapted: adapted |
+| 4 | Тимур | Пропавшую рыбу куда денешь? | What will you do with the spoiled fish? | #290: Пропавшую рыбу куда денешь | adapted: adapted |
+| 5 | Сеня | Выкинул. | I threw it out. | #291: Выкидал | adapted: adapted |
+| 6 | Тимур | Мне можешь отдать? | Can you give it to me? | #291: Мне можешь отдать | adapted: adapted |
+| 7 | Сеня | Пятьсот рублей. | Five hundred rubles. | #292: рублей | adapted: adapted |
+| 8 | Тимур | Чего пятьсот рублей? | What do you mean five hundred rubles? | #292: Чего<br>#292: рублей | adapted: adapted |
+| 9 | Тимур | Ты её выкидывать собрался! | You were going to throw it out! | #293: Ты ее выкидывать собрался | adapted: adapted |
+| 10 | Сеня | Сейчас на неё спрос появился. | Now a demand for it has appeared. | #293: Сейчас на нее спрос появился | adapted: adapted |
+| 11 | Сеня | Бери, хорошая рыба. | Take it, it is a good fish. | #294: Бери хорошая рыба | adapted: adapted |
+| 12 | Сеня | Только немного испортилась. | It just spoiled a little. | #294: только испортилась | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Stellate sturgeon, in person!' Notice how Russian expresses 'stellate sturgeon' and 'person' with crisp inflection rather than helper words. Fedya answers right away.
-- 'Senya, where did you get such a beauty?' In Russian, the idea of 'Senya' flows naturally into 'took' without extra filler words.
-- 'Oh, I earned this with my own wit!' Senya brings out the contrast between 'about' and 'this' in a few short words.
-- 'What will you do with the spoiled fish?' Spoken Russian keeps this brisk, leaning on 'missing' and finishing on 'will put'. Senya answers right away.
-- 'I threw it out.' Senya anchors the line on 'to throw out', while 'to throw out' completes the thought.
-- 'Can you give it to me?' The grammar packs 'to me' and 'give' into a tight, idiomatic kitchen exchange.
-- 'Five hundred rubles.' In Russian, the idea of 'five hundred' flows naturally into 'rubles' without extra filler words. Timur answers right away.
-- 'What do you mean five hundred rubles?' Here the Russian phrasing highlights 'what' before landing on 'rubles'.
-- 'You were going to throw it out!' The grammar packs 'you' and 'got ready' into a tight, idiomatic kitchen exchange.
-- 'Now a demand for it has appeared.' In everyday Russian, 'now' flows straight into 'to appear, to show up' without extra linking words.
-- 'Take it, it is a good fish.' Senya brings out the contrast between 'take' and 'good' in a few short words.
-- 'It just spoiled a little.' Notice how Russian puts 'a little' and 'went bad / spoiled' together in a short, direct phrase where word endings show how the ideas connect.
+- 'Stellate sturgeon, in person!' With the fish and moment at stake, Senya reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Senya, where did you get such a beauty?' Here asking where Senya gets such a beauty shows Fedya looking for the real truth.
+- 'Oh, I earned this with my own wit!' Around the fish and point, Senya makes his point loud and clear. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'What will you do with the spoiled fish?' Asking what Fedya does with the spoiled fish will cuts straight through the tension between Timur and Fedya. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'I threw it out.' Pointing out that he threw it out gives Fedya a sobering reality check.
+- 'Can you give it to me?' Here checking whether Fedya gives it to him shows Timur looking for the real truth. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Five hundred rubles.' Around the plan and fish, Senya sets a calm, everyday tone with Fedya.
+- 'What do you mean five hundred rubles?' Wondering what Fedya means five hundred rubles cuts straight through the tension between Timur and Fedya.
+- 'You were going to throw it out!' Because Fedya was going to throw it out, Timur does not bother softening the blow for Fedya. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Now a demand for it has appeared.' Admitting that a demand for it has appeared shows Senya being honest for a change.
+- 'Take it, it is a good fish.' Saying that Fedya should take it it is a good fish is how Senya sets the tone with Fedya.
+- 'It just spoiled a little.' Between the plan and the fish, Senya gives Fedya a quick, grounded response.

@@ -12,13 +12,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 |---|---|---|---|---|---|
 | 1 | Коллега | Марина, ты довольна своим проектом? | Marina, are you pleased with your project? | new | new: added opening challenge |
 | 2 | Марина | Да, я закончила важную работу. | Yes, I finished important work. | new | new: added proud response |
-| 3 | Коллега | Ну и делай свой проект дальше. | Fine, go work on your project further. | #999 00:55:05: Ну и делай свой | adapted: softened cue 999 |
-| 4 | Коллега | Нам из-за тебя зарплату урезали! | Our salaries were cut because of you! | #1001 00:55:13: Нам из-за тебя зарплату<br>#1002 00:55:15: урезали вдвое | adapted: combined cues 1001-1002 |
-| 5 | Коллега | Урезали ровно в два раза. | They cut it exactly in half. | #1002 00:55:15: урезали вдвое | adapted: paraphrased cue 1002 |
+| 3 | Коллега | Ну и делай свой проект дальше. | Fine, go work on your project further. | #999: Ну и делай свой | adapted: softened cue 999 |
+| 4 | Коллега | Нам из-за тебя зарплату урезали! | Our salaries were cut because of you! | #1001: Нам из-за тебя зарплату<br>#1002: урезали вдвое | adapted: combined cues 1001-1002 |
+| 5 | Коллега | Урезали ровно в два раза. | They cut it exactly in half. | #1002: урезали вдвое | adapted: paraphrased cue 1002 |
 | 6 | Марина | Что? Почему из-за меня? | What? Why because of me? | new | new: added shocked question |
 | 7 | Коллега | Все деньги ушли на твой проект. | All the money went to your project. | new | new: added budget explanation |
-| 8 | Коллега | У Лены муж вообще инвалид. | Lena's husband is actually disabled. | #1004 00:55:20: У Ленки он вообще муж<br>#1005 00:55:21: инвалид | adapted: adapted cues 1004-1005 |
-| 9 | Коллега | Ему платят совсем маленькие копейки. | They pay him very tiny pennies. | #1006 00:55:23: за нее копейки платят | adapted: adapted cue 1006 |
+| 8 | Коллега | У Лены муж вообще инвалид. | Lena's husband is actually disabled. | #1004: У Ленки он вообще муж<br>#1005: инвалид | adapted: adapted cues 1004-1005 |
+| 9 | Коллега | Ему платят совсем маленькие копейки. | They pay him very tiny pennies. | #1006: за нее копейки платят | adapted: adapted cue 1006 |
 | 10 | Марина | Я совершенно ничего не знала! | I knew absolutely nothing! | new | new: added genuine protest |
 | 11 | Коллега | Теперь все сотрудники будут страдать. | Now all employees will suffer. | new | new: added collective complaint |
 | 12 | Марина | Я сейчас пойду к ректору. | I will go to the dean right now. | new | new: added decision to confront |

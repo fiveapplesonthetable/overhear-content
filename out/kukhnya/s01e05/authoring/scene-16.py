@@ -4,18 +4,17 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 5
 SCENE = 16
-TITLE = "Укромный уголок  (A Secluded Corner)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Укромный уголок  (A Secluded Corner)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "nastya": "angelina", "kostya": "anja"}
-LABELS = {"nastya": "Настя", "kostya": "Костя"}
+LABELS = {'kostya': 'Костя', 'nastya': 'Настя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.05'
 SOURCE_FILE = 'sources/kukhnya/s01/e05.ru.dual.srt'
 INTRO = "Nastya quickly pulls bartender Kostya away from the bustling restaurant into a quiet storage corner. She wants to make sure nobody can overhear their private conversation. Kostya is curious and ready to assist her with whatever she needs. Let's listen to their brief exchange in Russian first."
 OPENER = "Let's analyze their secret meeting line by line. Notice how the characters establish privacy before sharing their cunning plan."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Nastya sets the stage for her revenge, swearing Kostya to complete secrecy. Keep up the excellent practice with conversational Russian! Next time you watch the episode, listen for the Russian expressions for 'fast' and 'to be' — you will catch every word right away. See you next time!"
-CLOSING = ("nastya", "Пока!")
+CLOSING = ('nastya', 'Пока!')
 STORY = [
     ('nastya', 'Всё, тут нам никто не помешает.', 'There, nobody will bother us here.', [(207, 'никто не помешает')], ''),
     ('kostya', 'Настя, зачем мы сюда быстро пришли?', 'Nastya, why did we come here quickly?', [], ''),

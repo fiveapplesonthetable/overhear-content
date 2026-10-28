@@ -4,30 +4,29 @@ SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 3
 SCENE = 2
-TITLE = "Авария на улице  (Crash on the Street)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Авария на улице  (Crash on the Street)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "elena": "angelina", "chef": "anja"}
-LABELS = {"elena": "Елена", "chef": "Шеф"}
+LABELS = {'barinov': 'Шеф', 'elena': 'Елена'}
 SOURCE_NAME = 'Кухня (Kukhnya) S2.03'
 SOURCE_FILE = 'sources/kukhnya/s02/e03.ru.dual.srt'
 INTRO = "Elena accidentally hits someone with her car. She rushes out to check on the victim and realizes it is her rival, Chef Viktor. Let's listen closely to their exchange in Russian first, and then walk through each line together."
 OPENER = "Let's listen to their conversation."
 TRANSITION = "Now let's hear the whole thing once more."
 OUTRO = "And that's it for this scene. When you watch the episode, listen out for the exchange around crash on the street, and for the words meaning 'living' and 'excuse me'. You'll catch them now. See you next time."
-CLOSING = ("elena", "Пока!")
+CLOSING = ('elena', 'Пока!')
 STORY = [
     ('elena', 'Виктор Петрович, вы живы?', 'Viktor Petrovich, are you alive?', [(8, 'Виктор Петрович, вы живы, Виктор Петрович?')], ''),
-    ('chef', 'А?', 'Huh?', [(9, 'А?')], ''),
+    ('barinov', 'А?', 'Huh?', [(9, 'А?')], ''),
     ('elena', 'Ой, вы простите меня.', 'Oh, please forgive me.', [(10, 'Ой.'), (11, 'Вы простите меня, ради бога, я вас просто не заметила.')], ''),
     ('elena', 'Ради бога, простите.', "For God's sake, forgive me.", [(11, 'Вы простите меня, ради бога')], ''),
     ('elena', 'Я вас просто не заметила.', "I just didn't see you.", [(11, 'я вас просто не заметила.')], ''),
-    ('chef', 'Так вы расправляетесь с конкурентами.', 'So this is how you deal with the competition.', [(12, 'Так-то вы расправляетесь с конкурентами.')], ''),
+    ('barinov', 'Так вы расправляетесь с конкурентами.', 'So this is how you deal with the competition.', [(12, 'Так-то вы расправляетесь с конкурентами.')], ''),
     ('elena', 'Дайте, я вас приподниму.', 'Here, let me help you up.', [(13, 'Дайте, я вас как-то приподниму')], ''),
     ('elena', 'Поедем в больницу.', 'We will go to the hospital.', [(13, 'и в больницу.')], ''),
-    ('chef', 'Мне больно.', 'It hurts.', [], ''),
+    ('barinov', 'Мне больно.', 'It hurts.', [], ''),
     ('elena', 'Надо ехать к врачу.', 'We need to go to the doctor.', [], ''),
-    ('chef', 'Ладно, поехали.', "All right, let's go.", [], ''),
+    ('barinov', 'Ладно, поехали.', "All right, let's go.", [], ''),
     ('elena', 'Осторожно.', 'Careful.', [], ''),
 ]
 WALK = [

@@ -7,8 +7,7 @@ SCENE = 27
 TITLE = 'ASK ne sera pas vendue  (ASK Will Not Be Sold)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'mathias': 'marcel', 'gabriel': 'theo', 'lea': 'lucie'}
-LABELS = {'mathias': 'Mathias', 'gabriel': 'Gabriel', 'lea': 'Andréa'}
+LABELS = {'andrea': 'Andréa', 'gabriel': 'Gabriel', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e05.fr.dual.srt'
 INTRO = "At home with Catherine, Mathias finalized his financial plan with his father-in-law and promised Catherine he would meet her at the opera tonight. The next morning at ASK, the assistants wonder why Mathias has called an urgent meeting. Now Andréa, Gabriel, and Arlette gather in Mathias's office to hear his announcement. Listen to the French first, without worrying about catching every word."
@@ -20,19 +19,19 @@ STORY = [
     ('mathias', "Bonjour à tous. Merci à tous d'être venus.", 'Good morning, everyone. Thank you all for coming.', [(592, 'Bonjour à tous'), (593, "Merci à tous d'être venus")], ''),
     ('mathias', "Ce matin, j'ai une bonne nouvelle pour vous.", 'This morning, I have good news for you.', [(599, 'Je vous ai demandé de venir ce matin pour vous annoncer une bonne nouvelle')], ''),
     ('mathias', 'ASK ne sera pas vendue.', 'ASK will not be sold.', [(600, 'ASK ne sera pas vendue')], ''),
-    ('lea', 'Hélène Kerr garde les parts de Samuel?', 'Is Hélène Kerr keeping Samuel', [(601, 'Hélène Kerr garde les parts de Samuel')], ''),
+    ('andrea', 'Hélène Kerr garde les parts de Samuel?', 'Is Hélène Kerr keeping Samuel', [(601, 'Hélène Kerr garde les parts de Samuel')], ''),
     ('mathias', 'Non. Je les rachète.', 'No. I', [(601, 'Non. Je les rachète')], ''),
     ('mathias', "L'avenir d'ASK est assuré. Vous pouvez être soulagés.", 'ASK', [(602, "L'avenir d'ASK est assuré. Vous pouvez être soulagés")], ''),
     ('gabriel', 'Depuis quand tu le sais?', 'How long have you known?', [(603, 'Depuis quand tu le sais')], ''),
     ('mathias', "J'ai trouvé un partenaire financier hier.", 'I found a financial partner yesterday.', [(604, "J'ai trouvé un partenaire financier hier")], ''),
-    ('lea', 'Mais tu ne voulais pas nous le présenter?', 'But you didn', [(605, 'Mais tu ne voulais pas nous le présenter')], ''),
+    ('andrea', 'Mais tu ne voulais pas nous le présenter?', 'But you didn', [(605, 'Mais tu ne voulais pas nous le présenter')], ''),
     ('mathias', "Je n'en avais pas l'intention parce que c'est ma femme.", 'I didn', [(606, "Je n'en avais pas l'intention parce que c'est ma femme")], ''),
     ('gabriel', 'Quoi? Et on est censés être soulagés?', 'What? And we', [(607, 'Quoi'), (608, 'Et on est censés être soulagés')], ''),
-    ('lea', 'Bravo!', 'Well done!', [(610, 'Bravo')], ''),
+    ('andrea', 'Bravo!', 'Well done!', [(610, 'Bravo')], ''),
     ('mathias', 'Vous auriez préféré les Allemands?', 'Would you have preferred the Germans?', [(611, 'Vous auriez préféré les Allemands')], ''),
     ('gabriel', 'Avec lui, même une bonne nouvelle semble très triste!', 'With him, even good news sounds very sad!', [(612, 'Il récupère tout, lui'), (613, "même les bonnes nouvelles ont l'air de mauvaises nouvelles")], ''),
     ('gabriel', 'Oui? Julie Gayet et JoeyStarr ont disparu.', 'Yes? Julie Gayet and JoeyStarr have disappeared.', [(620, 'Oui'), (621, 'Julie Gayet et JoeyStarr ont disparu')], ''),
-    ('lea', "Julie, c'est encore moi. Rappelle-moi, s'il te plaît.", 'Julie, it', [(623, "Julie, c'est encore moi"), (624, "Rappelle-moi, s'il te plaît")], ''),
+    ('andrea', "Julie, c'est encore moi. Rappelle-moi, s'il te plaît.", 'Julie, it', [(623, "Julie, c'est encore moi"), (624, "Rappelle-moi, s'il te plaît")], ''),
     ('gabriel', 'Didier, rappelle-moi. La prod est furieuse!', 'Didier, call me back. Production is furious!', [(624, 'Didier, rappelle-moi'), (625, 'La prod est furieuse')], ''),
 ]
 WALK = [

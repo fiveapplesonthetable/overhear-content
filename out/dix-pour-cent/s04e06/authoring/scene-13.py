@@ -7,8 +7,7 @@ SCENE = 13
 TITLE = "L'attente de Jean Reno  (Waiting for Jean Reno)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'lea': 'lucie'}
-LABELS = {'gabriel': 'Gabriel', 'lea': 'Andréa'}
+LABELS = {'andrea': 'Andréa', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e06.fr.dual.srt'
 INTRO = "In Andrea's office at ASK, tensions run high as Gabriel reports another devastating financing rejection for Xavier Beauvois's script. Just as their hopes seem completely dashed, unexpected news arrives that movie star Jean Reno is heading to the agency. Let's listen to their conversation in French first."
@@ -18,19 +17,19 @@ OUTRO = "Crushed by another funding rejection, Andrea and Gabriel suddenly find 
 CLOSING = ('gabriel', 'Bonne soirée!')
 STORY = [
     ('gabriel', 'Je ne comprends pas son refus.', 'I do not understand his refusal.', [(623, 'Je ne comprends pas')], ''),
-    ('lea', 'Tu avais presque réussi à le convaincre?', 'You had almost managed to convince him?', [(624, 'presque réussi à le convaincre')], ''),
+    ('andrea', 'Tu avais presque réussi à le convaincre?', 'You had almost managed to convince him?', [(624, 'presque réussi à le convaincre')], ''),
     ('gabriel', 'Oui, et au dernier moment, il refuse.', 'Yes, and at the last moment, he refuses.', [(624, 'au dernier moment')], ''),
-    ('lea', "Il t'a donné une raison précise?", 'Did he give you a specific reason?', [(625, "Il t'a donné une raison")], ''),
+    ('andrea', "Il t'a donné une raison précise?", 'Did he give you a specific reason?', [(625, "Il t'a donné une raison")], ''),
     ('gabriel', 'Non, il reste muet comme une tombe.', 'No, he remains silent as a grave.', [(627, 'comme une tombe')], ''),
-    ('lea', "Alors c'est terminé avec lui.", 'Then it is over with him.', [(628, "c'est terminé maintenant")], ''),
+    ('andrea', "Alors c'est terminé avec lui.", 'Then it is over with him.', [(628, "c'est terminé maintenant")], ''),
     ('gabriel', "Laisse tomber, c'est trop tard.", 'Forget it, it is too late.', [(631, 'Laisse tomber')], ''),
-    ('lea', "Nous avons besoin d'un grand acteur.", 'We need a great actor.', [(628, "c'est terminé maintenant")], ''),
+    ('andrea', "Nous avons besoin d'un grand acteur.", 'We need a great actor.', [(628, "c'est terminé maintenant")], ''),
     ('gabriel', 'Jean Reno sera bientôt là!', 'Jean Reno will be here soon!', [(633, 'Il est en route')], ''),
-    ('lea', "Jean Reno arrive vraiment à l'agence?", 'Jean Reno is really coming to the agency?', [(634, 'Sérieusement')], ''),
+    ('andrea', "Jean Reno arrive vraiment à l'agence?", 'Jean Reno is really coming to the agency?', [(634, 'Sérieusement')], ''),
     ('gabriel', 'Oui, il est en route maintenant.', 'Yes, he is on his way now.', [(633, 'Il est en route')], ''),
-    ('lea', "C'est notre dernière chance de survie.", 'It is our last chance of survival.', [(634, 'Sérieusement')], ''),
+    ('andrea', "C'est notre dernière chance de survie.", 'It is our last chance of survival.', [(634, 'Sérieusement')], ''),
     ('gabriel', 'Il adore déjà le beau scénario.', 'He already loves the beautiful script.', [(633, 'Il est en route')], ''),
-    ('lea', 'Préparons son accueil avec grand soin.', 'Let us prepare his welcome with great care.', [(634, 'Sérieusement')], ''),
+    ('andrea', 'Préparons son accueil avec grand soin.', 'Let us prepare his welcome with great care.', [(634, 'Sérieusement')], ''),
 ]
 WALK = [
     (0, None, "'I do not understand his refusal.' Gabriel expresses bewilderment at the financier's rejection. Notice the classic French sandwich negation wrapping right around 'understand'."),

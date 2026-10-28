@@ -1,32 +1,45 @@
-# Review: `dix-pour-cent-s01e04-scene-04` — Le film d'Augustin  (Augustin's Film)
+# dix-pour-cent-s01e04-scene-04: review sheet
 
-- **Source**: `sources/dix-pour-cent/s01/e04.fr.dual.srt`
-- **Level**: A1 — débutant
-- **Voices**: `{"narrator": "sky", "mathias": "marcel", "augustin": "theo", "noemie": "emilie"}`
-- **Labels**: `{"mathias": "Mathias", "augustin": "Augustin", "noemie": "Noémie"}`
+Title: Le film d'Augustin  (Augustin's Film)
+Level: A1 — débutant
+Pair: fr-en
+Source: Dix pour cent (Call My Agent!) S01E04
 
-## Part 1 — Intro
-> Meanwhile, in his office, Mathias is already looking for a well-paid role for Audrey Fleurot. He is meeting Augustin, a twenty-four-year-old internet comedy star who is about to direct his first cinema film. Augustin wants an unknown actress called Armelle Borzek, but Mathias has another plan. Here it is in French first; let it flow past you.
 
-## Part 2 — Story Lines
-| # | Role | French | English | Source Cues |
-|---|------|--------|---------|-------------|
-| 0 | `noemie` (Noémie) | Voilà le café, Mathias. | Here is the coffee, Mathias. | adapted |
-| 1 | `mathias` (Mathias) | Merci, Noémie. J'adore cette version finale. | Thank you, Noémie. I love this final version. | 95:Merci, 93:J'adore cette version finale |
-| 2 | `mathias` (Mathias) | Je crois qu'on tient vraiment quelque chose. | I think we really have something here. | 94:Je crois qu'on tient vraiment quelque chose |
-| 3 | `mathias` (Mathias) | Vous êtes toujours sûr pour le rôle principal féminin? | Are you still sure about the female lead? | 96:Vous êtes toujours sûr pour le rôle principal féminin ? |
-| 4 | `augustin` (Augustin) | Oui! Elle s'appelle Armelle Borzek. Elle est géniale! | Yes! Her name is Armelle Borzek. She | 97:Oui, 98:Armelle Borzek, 97:Elle est géniale ! |
-| 5 | `augustin` (Augustin) | Retenez ce nom, elle est fantastique! | Remember that name, she | 100:Retenez ce nom, elle est fantastique ! |
-| 6 | `mathias` (Mathias) | Mais le public ne la connaît pas. | But the public doesn | 102:Mais le public |
-| 7 | `augustin` (Augustin) | Dans mes vidéos en ligne, il n'y a pas de stars. | In my online videos, there are no stars. | 103:mes vidéos en ligne, 104:Pas de stars |
-| 8 | `mathias` (Mathias) | C'est vrai. Mais le cinéma, ce n'est pas Internet. | That | 105:C'est vrai, 106:Mais le cinéma, 106:pas Internet |
-| 9 | `mathias` (Mathias) | Quand j'ai lu cette dernière version, j'ai pensé à Audrey Fleurot. | When I read this latest version, I thought of Audrey Fleurot. | 108:Quand j'ai lu cette dernière version, j'ai pensé, 109:Audrey Fleurot |
-| 10 | `augustin` (Augustin) | Audrey Fleurot? Pourquoi pas? Elle est sublime! | Audrey Fleurot? Why not? She | 112:Audrey Fleurot, 113:Pourquoi pas ?, 114:Elle est sublime |
-| 11 | `mathias` (Mathias) | Elle attire le public, et elle aime vos vidéos. | She draws the public, and she likes your videos. | 119:elle attire le public, 120:Et elle aime vos vidéos |
-| 12 | `augustin` (Augustin) | Attends! Audrey Fleurot a regardé mes vidéos? | Wait! Audrey Fleurot watched my videos? | 121:Attends !, 122:Audrey Fleurot a regardé mes vidéos |
-| 13 | `augustin` (Augustin) | Elle t'a dit qu'elle les aimait? Vraiment? | She told you she liked them? Really? | 123:Elle t'a dit qu'elle les aimait ?, 124:Vraiment ? |
-| 14 | `noemie` (Noémie) | Ne faites pas attention à moi. | Don | 125:Ne faites pas attention à moi |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 5 — Outro & Closing
-> Mathias hasn't even told Audrey about Augustin's film yet, and he certainly hasn't told her what kind of part it is. You'll catch every step of his trick when you watch. See you next time!
-- **Closing**: `augustin`: *Bonne journée!*
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+|---|---|---|---|---|---|
+| 1 | Noémie | Voilà le café, Mathias. | Here is the coffee, Mathias. | new | new |
+| 2 | Mathias | Merci, Noémie. J'adore cette version finale. | Thank you, Noémie. I love this final version. | #95: Merci<br>#93: J'adore cette version finale | verbatim |
+| 3 | Mathias | Je crois qu'on tient vraiment quelque chose. | I think we really have something here. | #94: Je crois qu'on tient vraiment quelque chose | verbatim |
+| 4 | Mathias | Vous êtes toujours sûr pour le rôle principal féminin? | Are you still sure about the female lead? | #96: Vous êtes toujours sûr pour le rôle principal féminin ? | verbatim |
+| 5 | Augustin | Oui! Elle s'appelle Armelle Borzek. Elle est géniale! | Yes! Her name is Armelle Borzek. She | #97: Oui<br>#98: Armelle Borzek<br>#97: Elle est géniale ! | verbatim |
+| 6 | Augustin | Retenez ce nom, elle est fantastique! | Remember that name, she | #100: Retenez ce nom, elle est fantastique ! | verbatim |
+| 7 | Mathias | Mais le public ne la connaît pas. | But the public doesn | #102: Mais le public | verbatim |
+| 8 | Augustin | Dans mes vidéos en ligne, il n'y a pas de stars. | In my online videos, there are no stars. | #103: mes vidéos en ligne<br>#104: Pas de stars | verbatim |
+| 9 | Mathias | C'est vrai. Mais le cinéma, ce n'est pas Internet. | That | #105: C'est vrai<br>#106: Mais le cinéma<br>#106: pas Internet | verbatim |
+| 10 | Mathias | Quand j'ai lu cette dernière version, j'ai pensé à Audrey Fleurot. | When I read this latest version, I thought of Audrey Fleurot. | #108: Quand j'ai lu cette dernière version, j'ai pensé<br>#109: Audrey Fleurot | verbatim |
+| 11 | Augustin | Audrey Fleurot? Pourquoi pas? Elle est sublime! | Audrey Fleurot? Why not? She | #112: Audrey Fleurot<br>#113: Pourquoi pas ?<br>#114: Elle est sublime | verbatim |
+| 12 | Mathias | Elle attire le public, et elle aime vos vidéos. | She draws the public, and she likes your videos. | #119: elle attire le public<br>#120: Et elle aime vos vidéos | verbatim |
+| 13 | Augustin | Attends! Audrey Fleurot a regardé mes vidéos? | Wait! Audrey Fleurot watched my videos? | #121: Attends !<br>#122: Audrey Fleurot a regardé mes vidéos | verbatim |
+| 14 | Augustin | Elle t'a dit qu'elle les aimait? Vraiment? | She told you she liked them? Really? | #123: Elle t'a dit qu'elle les aimait ?<br>#124: Vraiment ? | verbatim |
+| 15 | Noémie | Ne faites pas attention à moi. | Don | #125: Ne faites pas attention à moi | verbatim |
+
+## Walk-through narration (English only, no target-language words quoted)
+
+- 'Here is the coffee, Mathias.' The first word is the handy pointer word for 'here is' or 'there is'.
+- 'Thank you, Noémie. I love this final version.' The verb means 'to love' or 'to adore', very common in everyday French for things you really like.
+- 'I think we really have something here.' Literally 'we hold really something'.
+- 'Are you still sure about the female lead?' Literally 'the main feminine role'. Now Mathias plants a doubt.
+- 'Yes! Her name is Armelle Borzek. She's brilliant!' Augustin is completely convinced by the young unknown actress he chose.
+- 'Remember that name, she's fantastic!' A polite command from the verb 'to retain' or 'to remember'.
+- 'But the public doesn't know her.' The little word for 'her' sits right before the verb 'knows'.
+- 'In my online videos, there are no stars.' Literally 'videos in line', the French phrase for online.
+- 'That's true. But cinema isn't the Internet.' Mathias gently reminds the young web star how movie financing works.
+- 'When I read this latest version, I thought of Audrey Fleurot.' Both verbs are in the everyday past tense. To think of someone uses the linking word 'to'.
+- 'Audrey Fleurot? Why not? She's sublime!' The famous red-haired actress immediately catches Augustin's imagination.
+- 'She draws the public, and she likes your videos.' Mathias adds a shameless little lie at the end to seal the deal.
+- 'Wait! Audrey Fleurot watched my videos?' In his excitement, Augustin drops the polite form and uses a casual command.
+- 'She told you she liked them? Really?' Notice how he now uses the casual 'you' with Mathias. He is thrilled.
+- 'Don't mind me.' Literally 'do not pay attention to me'. Augustin is dancing around the room when Noémie walks back in. Let's hear the whole pitch in Mathias's office again.

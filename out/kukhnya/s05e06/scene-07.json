@@ -8,14 +8,10 @@
  "scene": 7,
  "title": "Подпольное казино  (The Underground Casino)",
  "level": "A1 — Duolingo Section 2",
- "voices": {
-  "narrator": "sky",
-  "chef": "anja",
-  "katya": "angelina"
- },
  "labels": {
-  "chef": "Шеф",
-  "katya": "Катя"
+  "barinov": "Шеф",
+  "katya": "Катя",
+  "mikhail": "Михаил"
  },
  "segments": [
   {
@@ -29,22 +25,22 @@
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Это самое приличное подпольное казино Москвы.",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Гражданин, вы в курсе, что азартные игры запрещены?",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "mikhail",
    "t": "Виктор Петрович, мне бы не хотелось, чтобы Элеонора Андреевна узнала.",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Ну что, доча, обыграем дядю Мишу?",
    "gap": 0.55
   },
@@ -54,7 +50,7 @@
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "А ты смотри и учись, сдавай.",
    "gap": 0.55
   },
@@ -64,12 +60,12 @@
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Я уезжаю в Питер.",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Пришёл попрощаться.",
    "gap": 0.55
   },
@@ -79,7 +75,7 @@
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Вика, подожди, ты куда?",
    "gap": 0.9
   },
@@ -95,47 +91,47 @@
   },
   {
    "v": "narrator",
-   "t": "'Dad, are you sure that this is the right place?' Here the Russian phrasing highlights 'Dad' before landing on 'place'.",
+   "t": "'Dad, are you sure that this is the right place?' Wondering if dad are Barinov sure that this is the right place shows Katya caught off guard.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Это самое приличное подпольное казино Москвы.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'This is the most respectable underground casino in Moscow.' Chef Barinov brings out the contrast between 'this' and 'the most' in a few short words.",
+   "t": "'This is the most respectable underground casino in Moscow.' Explaining that this is the most respectable underground casino in Moscow lays the cards on the table for Katya. Russian drops \"is\" in the present, setting the two halves of the thought side by side.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Гражданин, вы в курсе, что азартные игры запрещены?",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Citizen, are you aware that gambling is prohibited?' Here the Russian phrasing highlights 'citizen' before landing on 'prohibited'. Mikhail answers right away.",
+   "t": "'Citizen, are you aware that gambling is prohibited?' When Barinov asks if citizen are Katya aware that gambling is prohibited, Katya has to answer fast. Notice how he sticks to the formal \"you\", keeping a professional line between them.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "mikhail",
    "t": "Виктор Петрович, мне бы не хотелось, чтобы Элеонора Андреевна узнала.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Victor Petrovich, I would not want Eleonora Andreyevna to find out.' The negative particle sits right before the verb meaning 'to feel like' to negate the statement.",
+   "t": "'Victor Petrovich, I would not want Eleonora Andreyevna to find out.' Claiming that he would not want Eleonora Andreyevna to find out sounds confident, even if Barinov has doubts.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Ну что, доча, обыграем дядю Мишу?",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Well then, daughter, shall we beat Uncle Misha?' The meaning hinges on 'come on' working together with 'Misha' in spoken Russian.",
+   "t": "'Well then, daughter, shall we beat Uncle Misha?' With the work and surprise hanging in the air, Barinov puts Katya on the spot. In Russian, he does not need helper words like \"do\" or \"did\"—rising pitch alone turns it into a question.",
    "gap": 0.4
   },
   {
@@ -145,17 +141,17 @@
   },
   {
    "v": "narrator",
-   "t": "'I do not know how.' The negative particle sits right before the verb meaning 'know how' to negate the statement. Chef Barinov answers right away.",
+   "t": "'I do not know how.' Since she does not know, Katya does not waste words on excuses.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "А ты смотри и учись, сдавай.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Just watch and learn, deal the cards.' Here the Russian phrasing highlights 'and' before landing on 'deal'.",
+   "t": "'Just watch and learn, deal the cards.' Around the moment and surprise, Barinov sets a calm, everyday tone with Katya.",
    "gap": 0.4
   },
   {
@@ -165,27 +161,27 @@
   },
   {
    "v": "narrator",
-   "t": "'What do you want?' Notice how Russian expresses 'what' and 'to you' with crisp inflection rather than helper words.",
+   "t": "'What do you want?' Over the point and the surprise, Katya presses Barinov for a straight answer. Using the informal \"you\" shows how direct and unfiltered their kitchen relationship is.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Я уезжаю в Питер.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'I am leaving for Saint Petersburg.' Here the Russian phrasing highlights 'I' before landing on 'Saint Petersburg'.",
+   "t": "'I am leaving for Saint Petersburg.' Being leaving for Saint Petersburg is how Barinov lays out the situation for Katya.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Пришёл попрощаться.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'I came to say goodbye.' Notice how Russian expresses 'arrived' and 'to say goodbye' with crisp inflection rather than helper words.",
+   "t": "'I came to say goodbye.' Admitting that he came to say goodbye shows Barinov being honest for a change.",
    "gap": 0.4
   },
   {
@@ -195,17 +191,17 @@
   },
   {
    "v": "narrator",
-   "t": "'Goodbye.' Katya anchors the line on 'farewell', while 'farewell' completes the thought.",
+   "t": "'Goodbye.' Around the moment and hotel, Katya sets a calm, everyday tone with Barinov.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Вика, подожди, ты куда?",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Vika, wait, where are you going?' Notice how Russian expresses 'Vika' and 'where to' with crisp inflection rather than helper words. Alright, let's hear the entire conversation one more time from start to finish.",
+   "t": "'Vika, wait, where are you going?' By wondering where Katya going is, Barinov presses Katya for a straight answer. Using the informal \"you\" shows how direct and unfiltered their kitchen relationship is. Alright, let's hear the entire conversation one more time from start to finish.",
    "gap": 0.9
   },
   {
@@ -214,22 +210,22 @@
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Это самое приличное подпольное казино Москвы.",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Гражданин, вы в курсе, что азартные игры запрещены?",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "mikhail",
    "t": "Виктор Петрович, мне бы не хотелось, чтобы Элеонора Андреевна узнала.",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Ну что, доча, обыграем дядю Мишу?",
    "gap": 0.5
   },
@@ -239,7 +235,7 @@
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "А ты смотри и учись, сдавай.",
    "gap": 0.5
   },
@@ -249,12 +245,12 @@
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Я уезжаю в Питер.",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Пришёл попрощаться.",
    "gap": 0.5
   },
@@ -264,7 +260,7 @@
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Вика, подожди, ты куда?",
    "gap": 0.9
   },
@@ -274,7 +270,7 @@
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "До свидания!",
    "gap": 0.3
   }

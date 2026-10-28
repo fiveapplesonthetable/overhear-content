@@ -7,7 +7,6 @@ SCENE = 19
 TITLE = "PDG d'ASK  (CEO of ASK)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'catherine': 'emilie', 'mathias': 'marcel'}
 LABELS = {'catherine': 'Catherine', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e05.fr.dual.srt'
@@ -37,26 +36,26 @@ STORY = [
     ('mathias', 'Pourquoi pas? Oui!', 'Why not? Yes!', [(392, 'Pourquoi pas'), (392, 'Oui')], ''),
 ]
 WALK = [
-    (0, None, "'I had lunch with my father today.' Catherine links 'I have' directly with 'had lunch' to express the thought clearly."),
-    (1, None, "'He's worried about you.' A reflexive verb meaning 'to worry'."),
-    (2, None, "'Really? What's wrong with my professional future?' Literally 'what is it that does not go with my professional future'."),
-    (3, None, "'You just turned down a golden opportunity at StarMédia.' The verb 'come from' plus an infinitive means 'just did something', and 'a chance in gold' means a golden opportunity."),
-    (4, None, "'To stay at ASK, where the situation is uncertain.' The question is anchored by the question form word for 'where' paired with 'uncertain'."),
-    (5, None, "'But he wants to stick his nose in everywhere and tell me what to do!' Literally 'put his nose everywhere', the exact same image as in English."),
-    (6, None, "'That's a shame. It was good news.' Notice that 'news' is singular in French here."),
-    (7, None, "'Good night.' Catherine pretends to drop the subject and turn off her lamp, knowing Mathias won't be able to resist asking."),
-    (8, None, "'What good news? What is it?' Mathias takes the bait immediately."),
-    (9, None, "'Especially since he wants to lend us money.' This everyday French sentence pairs 'especially' with 'money'."),
-    (10, None, "'Sorry, what?' Mathias sits up in surprise."),
-    (11, None, "'To buy out ASK.' Adding the prefix 're-' to 'buy' gives the verb 'to buy out' or 'buy back'."),
-    (12, None, "'Was it his idea?' Mathias is still suspicious of his father-in-law."),
+    (0, "J'ai déjeuné avec mon père aujourd'hui.", "'I had lunch with my father today.' Catherine links 'I have' directly with 'had lunch' to express the thought clearly."),
+    (0, "Il s'inquiète pour toi.", "'He's worried about you.' A reflexive verb meaning 'to worry'."),
+    (1, None, "'Really? What's wrong with my professional future?' Literally 'what is it that does not go with my professional future'."),
+    (2, None, "'You just turned down a golden opportunity at StarMédia.' The verb 'come from' plus an infinitive means 'just did something', and 'a chance in gold' means a golden opportunity."),
+    (3, None, "'To stay at ASK, where the situation is uncertain.' The question is anchored by the question form word for 'where' paired with 'uncertain'."),
+    (4, None, "'But he wants to stick his nose in everywhere and tell me what to do!' Literally 'put his nose everywhere', the exact same image as in English."),
+    (5, "C'est dommage. C'était une bonne nouvelle.", "'That's a shame. It was good news.' Notice that 'news' is singular in French here."),
+    (5, 'Bonne nuit.', "'Good night.' Catherine pretends to drop the subject and turn off her lamp, knowing Mathias won't be able to resist asking."),
+    (6, None, "'What good news? What is it?' Mathias takes the bait immediately."),
+    (7, None, "'Especially since he wants to lend us money.' This everyday French sentence pairs 'especially' with 'money'."),
+    (8, None, "'Sorry, what?' Mathias sits up in surprise."),
+    (9, None, "'To buy out ASK.' Adding the prefix 're-' to 'buy' gives the verb 'to buy out' or 'buy back'."),
+    (10, None, "'Was it his idea?' Mathias is still suspicious of his father-in-law."),
     (13, None, "'If we buy back the agency, you will be the new boss of ASK.'m the one who brought it up.' Literally 'it is I who spoke of it'."),
-    (14, None, "'And I convinced him.' Notice the object pronoun 'him' shortened before the vowel."),
-    (15, None, "'He's lending the money to me.' Literally 'it is to me that he lends the money', so her father won't be able to boss Mathias around."),
-    (16, None, "'I do what I want with it.' The little two-letter word before the verb means 'with it'."),
+    (11, "Et je l'ai convaincu.", "'And I convinced him.' Notice the object pronoun 'him' shortened before the vowel."),
+    (12, "C'est à moi qu'il prête l'argent.", "'He's lending the money to me.' Literally 'it is to me that he lends the money', so her father won't be able to boss Mathias around."),
+    (12, "J'en fais ce que je veux.", "'I do what I want with it.' The little two-letter word before the verb means 'with it'."),
     (17, None, "'If we buy out Samuel's shares, you'll be the boss. CEO of ASK.' The three letters stand for 'president-director general', the French equivalent of chief executive officer."),
-    (18, None, "'Do you know what I'd like? A writers-directors department.' Mathias's eyes light up at the thought of running the agency."),
-    (19, None, "'And an image-management department for the actors.' Mathias combines 'and' with 'actors' in a natural French turn of phrase. Then Catherine responds."),
-    (20, None, "'And production!' Catherine adds enthusiastically, knowing that producing films is Mathias's dream."),
-    (21, None, "'Why not? Yes!' Mathias links 'why' directly with 'not' to express the thought clearly. Now let's hear the whole scene again from start to finish."),
+    (14, None, "'Do you know what I'd like? A writers-directors department.' Mathias's eyes light up at the thought of running the agency."),
+    (15, None, "'And an image-management department for the actors.' Mathias combines 'and' with 'actors' in a natural French turn of phrase. Then Catherine responds."),
+    (16, None, "'And production!' Catherine adds enthusiastically, knowing that producing films is Mathias's dream."),
+    (17, None, "'Why not? Yes!' Mathias links 'why' directly with 'not' to express the thought clearly. Now let's hear the whole scene again from start to finish."),
 ]

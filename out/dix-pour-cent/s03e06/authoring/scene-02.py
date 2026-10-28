@@ -7,15 +7,14 @@ SCENE = 2
 TITLE = 'Panique et trahisons  (Panic and Betrayals)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'noemie': 'emilie', 'lea': 'lucie', 'mathias': 'marcel'}
-LABELS = {'noemie': 'Noémie', 'lea': 'Andréa', 'mathias': 'Mathias'}
+LABELS = {'andrea': 'Andréa', 'mathias': 'Mathias', 'noemie': 'Noémie'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e06.fr.dual.srt'
 INTRO = "In the bustling hallways of ASK, Mathias takes charge of organizing the agency's thirtieth anniversary celebration. While assistant Noemie helps him manage the practical details, Andrea and Gabriel struggle with the reality of his triumph. Disgusted by the atmosphere of mutual suspicion, the agents wonder if walking away is their only remaining option. Let's listen to the scene in French first."
 OPENER = "Let's observe as Mathias plans the party while Andrea denounces the toxic rivalry."
 TRANSITION = "Now let's listen to Mathias and the agents again at full speed."
 OUTRO = "Tensions inside the agency reach an all-time high as preparations for the anniversary party continue. When you watch the episode, listen out for the expressions meaning 'serve' and 'champagne'. You'll catch them now. See you next time!"
-CLOSING = ('lea', 'Au revoir!')
+CLOSING = ('andrea', 'Au revoir!')
 STORY = [
     ('mathias', 'Nous servons uniquement du champagne ce soir.', 'We are serving only champagne tonight.', [(147, 'On avait dit champagne uniquement')], ''),
     ('mathias', 'Veuillez annuler ce bar à cocktails.', 'Please cancel this cocktail bar.', [(151, "m'annuler le bar à cocktails")], ''),
@@ -23,14 +22,14 @@ STORY = [
     ('mathias', 'Ce qui est fait est fait.', 'What is done is done.', [(160, 'ce qui est fait est fait')], ''),
     ('noemie', 'Vous êtes maintenant le grand patron.', 'You are now the big boss.', [(163, 'Vous êtes le patron')], ''),
     ('noemie', "Nous devons regarder vers l'avenir.", 'We must look toward the future.', [(164, "on se tourne vers l'avenir")], ''),
-    ('lea', 'Je ne peux plus travailler avec lui.', 'I can no longer work with him.', [(173, 'je peux pas rester')], ''),
-    ('lea', 'Nous devrions tous démissionner ensemble.', 'We should all resign together.', [(212, 'on démissionne')], ''),
+    ('andrea', 'Je ne peux plus travailler avec lui.', 'I can no longer work with him.', [(173, 'je peux pas rester')], ''),
+    ('andrea', 'Nous devrions tous démissionner ensemble.', 'We should all resign together.', [(212, 'on démissionne')], ''),
     ('noemie', 'Mathias se retrouverait complètement seul.', 'Mathias would find himself completely alone.', [(212, 'on démissionne')], ''),
-    ('lea', "C'est une trahison à tous les étages.", 'It is betrayal on every floor.', [(228, "c'est la trahison à tous les étages")], ''),
+    ('andrea', "C'est une trahison à tous les étages.", 'It is betrayal on every floor.', [(228, "c'est la trahison à tous les étages")], ''),
     ('noemie', 'Nos petites erreurs semblent insignifiantes désormais.', 'Our little mistakes seem insignificant now.', [(227, 'à côté de vos combines')], ''),
-    ('lea', 'Cette ambiance détruit toute notre équipe.', 'This atmosphere is destroying our whole team.', [(228, "c'est la trahison à tous les étages")], ''),
+    ('andrea', 'Cette ambiance détruit toute notre équipe.', 'This atmosphere is destroying our whole team.', [(228, "c'est la trahison à tous les étages")], ''),
     ('noemie', 'Pourtant, Mathias adore cette lutte acharnée.', 'Yet, Mathias loves this fierce struggle.', [(230, "j'ai l'impression que t'adores ça")], ''),
-    ('lea', 'Je refuse de céder sans combattre.', 'I refuse to give up without fighting.', [(173, 'je peux pas rester')], ''),
+    ('andrea', 'Je refuse de céder sans combattre.', 'I refuse to give up without fighting.', [(173, 'je peux pas rester')], ''),
 ]
 WALK = [
     (0, None, "'We are serving only champagne tonight.' A firm directive demanding prestigious catering for the anniversary. The verb meaning 'serve' pairs naturally with the noun for 'champagne' in everyday conversation."),

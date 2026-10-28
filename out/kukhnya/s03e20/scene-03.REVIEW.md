@@ -10,32 +10,32 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Шеф | Доброе утро, Андрей Михайлович, вы меня звали? | Good morning, Andrey Mikhailovich, did you call for me? | #47 00:04:05: Доброе утро, звали | adapted: adapted |
-| 2 | Инспектор | Да, Виктор Петрович, знакомьтесь: это Сергей Владимирович. | Yes, Viktor Petrovich, meet Sergey Vladimirovich. | #48 00:04:07: Да, Виктор Петрович, знакомьтесь<br>#49 00:04:10: Это Сергей Владимирович | adapted: adapted |
-| 3 | Инспектор | С сегодняшнего дня это ваш новый начальник. | Starting today he is your new boss. | #49 00:04:10: ваш новый начальник | adapted: adapted |
-| 4 | Инспектор | Сергей — лучший менеджер всей нашей сети. | Sergey is the best manager in our entire chain. | #51 00:04:16: Сергей лучший<br>#51 00:04:16: нашей сети | adapted: adapted |
-| 5 | Инспектор | Пришлось вызвать его спасать нашу рентабельность. | We had to call him in to save our profitability. | #52 00:04:18: Пришлось вызвать его<br>#52 00:04:18: спасать нашу рентабельность | adapted: adapted |
-| 6 | Шеф | У нас прибыль выше, чем в любом европейском ресторане! | Our profit is higher than in any European restaurant! | #54 00:04:23: выше, чем в любом европейском ресторане | adapted: adapted |
-| 7 | Аня | Здравствуйте, Серёжа! Тебе тоже привет, дорогая! | Hello, Seryozha! Hello to you too, darling! | #55 00:04:26: Здравствуйте. Серёжа, привет<br>#56 00:04:29: Тебе привет, дорогая | adapted: adapted |
-| 8 | Инспектор | Подождите, а вы что, вчера уже виделись? | Wait a second, did the two of you already see each other yesterday? | #58 00:04:34: А вы что, уже виделись | adapted: adapted |
-| 9 | Аня | Да, Оля вчера помогла мне с гостиницей. | Yes, Olya helped me with the hotel yesterday. | #59 00:04:36: Да, Оля помогла мне с гостиницей | adapted: adapted |
-| 10 | Шеф | Ольга, скажите, а сейчас так модно ходить? | Olga, tell me, is it fashionable to walk around like that now? | #61 00:04:41: А сейчас так модно | adapted: adapted |
-| 11 | Шеф | Посмотрите, у вас одной серёжки в ухе нет. | Look, you are missing one earring in your ear. | #62 00:04:43: У тебя одной серёжки нет | adapted: adapted |
-| 12 | Аня | Андрей, положи её к себе, а то и эту потеряю. | Andrey, put it in your pocket, or I will lose this one too. | #63 00:04:46: положи-ка ее к себе<br>#64 00:04:49: эту тоже потеряю | adapted: adapted |
-| 13 | Шеф | Мне пора идти, оказывается, надо спасать рентабельность! | It is time for me to go, it turns out we have to save profitability! | #65 00:04:52: но надо идти<br>#66 00:04:56: Оказывается, нам надо спасать рентабельность | adapted: adapted |
+| 1 | Шеф | Доброе утро, Андрей Михайлович, вы меня звали? | Good morning, Andrey Mikhailovich, did you call for me? | #47: Доброе утро, звали | adapted: adapted |
+| 2 | Инспектор | Да, Виктор Петрович, знакомьтесь: это Сергей Владимирович. | Yes, Viktor Petrovich, meet Sergey Vladimirovich. | #48: Да, Виктор Петрович, знакомьтесь<br>#49: Это Сергей Владимирович | adapted: adapted |
+| 3 | Инспектор | С сегодняшнего дня это ваш новый начальник. | Starting today he is your new boss. | #49: ваш новый начальник | adapted: adapted |
+| 4 | Инспектор | Сергей — лучший менеджер всей нашей сети. | Sergey is the best manager in our entire chain. | #51: Сергей лучший<br>#51: нашей сети | adapted: adapted |
+| 5 | Инспектор | Пришлось вызвать его спасать нашу рентабельность. | We had to call him in to save our profitability. | #52: Пришлось вызвать его<br>#52: спасать нашу рентабельность | adapted: adapted |
+| 6 | Шеф | У нас прибыль выше, чем в любом европейском ресторане! | Our profit is higher than in any European restaurant! | #54: выше, чем в любом европейском ресторане | adapted: adapted |
+| 7 | Макс | Здравствуйте, Серёжа! Тебе тоже привет, дорогая! | Hello, Seryozha! Hello to you too, darling! | #55: Здравствуйте. Серёжа, привет<br>#56: Тебе привет, дорогая | adapted: adapted |
+| 8 | Инспектор | Подождите, а вы что, вчера уже виделись? | Wait a second, did the two of you already see each other yesterday? | #58: А вы что, уже виделись | adapted: adapted |
+| 9 | Макс | Да, Оля вчера помогла мне с гостиницей. | Yes, Olya helped me with the hotel yesterday. | #59: Да, Оля помогла мне с гостиницей | adapted: adapted |
+| 10 | Шеф | Ольга, скажите, а сейчас так модно ходить? | Olga, tell me, is it fashionable to walk around like that now? | #61: А сейчас так модно | adapted: adapted |
+| 11 | Шеф | Посмотрите, у вас одной серёжки в ухе нет. | Look, you are missing one earring in your ear. | #62: У тебя одной серёжки нет | adapted: adapted |
+| 12 | Макс | Андрей, положи её к себе, а то и эту потеряю. | Andrey, put it in your pocket, or I will lose this one too. | #63: положи-ка ее к себе<br>#64: эту тоже потеряю | adapted: adapted |
+| 13 | Шеф | Мне пора идти, оказывается, надо спасать рентабельность! | It is time for me to go, it turns out we have to save profitability! | #65: но надо идти<br>#66: Оказывается, нам надо спасать рентабельность | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good morning, Andrey Mikhailovich, did you call for me?' Chef Barinov brings out the contrast between 'good' and 'morning' in a few short words. the inspector answers right away.
-- 'Yes, Viktor Petrovich, meet Sergey Vladimirovich.' the inspector anchors the line on 'yes', while 'Vladimirovich' completes the thought.
-- 'Starting today he is your new boss.' The grammar packs 'with' and 'boss' into a tight, idiomatic kitchen exchange.
-- 'Sergey is the best manager in our entire chain.' Notice how Russian expresses 'Sergey' and 'nets' with crisp inflection rather than helper words.
-- 'We had to call him in to save our profitability.' Here the Russian phrasing highlights 'had to' before landing on 'profitability'.
-- 'Our profit is higher than in any European restaurant!' The meaning hinges on 'at' working together with 'restaurant' in spoken Russian.
-- 'Hello, Seryozha! Hello to you too, darling!' An emphatic spoken line centered on the verb meaning 'hello'. the inspector answers right away.
-- 'Wait a second, did the two of you already see each other yesterday?' the inspector chooses the respectful plural 'you' alongside 'saw each other' to keep a polite distance.
-- 'Yes, Olya helped me with the hotel yesterday.' In Russian, the idea of 'yes' flows naturally into 'with the hotel' without extra filler words.
-- 'Olga, tell me, is it fashionable to walk around like that now?' Spoken Russian keeps this brisk, leaning on 'Olga' and finishing on 'go'.
-- 'Look, you are missing one earring in your ear.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.
-- 'Andrey, put it in your pocket, or I will lose this one too.' Notice how Russian expresses 'Andrei' and 'I will lose' with crisp inflection rather than helper words.
-- 'It is time for me to go, it turns out we have to save profitability!' An emphatic spoken line centered on the verb meaning 'to go'.
+- 'Good morning, Andrey Mikhailovich, did you call for me?' Questioning whether Andrey Mikhailovich did the inspector calls for him is how Barinov tests the inspector's story. Notice how he sticks to the formal "you", keeping a professional line between them.
+- 'Yes, Viktor Petrovich, meet Sergey Vladimirovich.' Adding that Barinov should meet Sergey Vladimirovich fills in the missing piece for Barinov.
+- 'Starting today he is your new boss.' Pointing out that starting today he is Barinov's new boss gives Barinov a sobering reality check. Notice how he sticks to the formal "you", keeping a professional line between them.
+- 'Sergey is the best manager in our entire chain.' The inspector explains that Sergey is the best manager in their entire chain, keeping his voice calm and direct. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'We had to call him in to save our profitability.' Realizing that they had to call him in to save their profitability changes how the inspector handles the situation.
+- 'Our profit is higher than in any European restaurant!' Insisting that their profit is higher than in any European restaurant shows Barinov is not backing down. Russian expresses having something as "by me is", keeping the phrase short and grounded.
+- 'Hello, Seryozha! Hello to you too, darling!' With the boss and kitchen at stake, Max reacts without holding back. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Wait a second, did the two of you already see each other yesterday?' The inspector asks whether a second did the two of Barinov already see each other yesterday, refusing to let the point slide.
+- 'Yes, Olya helped me with the hotel yesterday.' Saying that Olya helped him with the hotel yesterday is how Max sets the tone with Barinov.
+- 'Olga, tell me, is it fashionable to walk around like that now?' Wondering if someone tell him is it fashionable to walk around like that now shows Barinov caught off guard. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Look, you are missing one earring in your ear.' Adding that the inspector is missing one earring in the inspector's ear fills in the missing piece for the inspector.
+- 'Andrey, put it in your pocket, or I will lose this one too.' Max tells Barinov that Andrey put it in Barinov's pocket or he will lose this one without dressing it up.
+- 'It is time for me to go, it turns out we have to save profitability!' Insisting that it is time for him to go it turns out they have to save profitability shows Barinov is not backing down. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.

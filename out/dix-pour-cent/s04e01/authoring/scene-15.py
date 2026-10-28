@@ -7,8 +7,7 @@ SCENE = 15
 TITLE = 'La fausse jambe cassée  (The Fake Broken Leg)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'lea': 'lucie', 'charlotte': 'emilie', 'paco': 'theo'}
-LABELS = {'lea': 'Andréa', 'charlotte': 'Charlotte', 'paco': 'Paco'}
+LABELS = {'andrea': 'Andréa', 'charlotte': 'Charlotte', 'paco': 'Paco'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e01.fr.dual.srt'
 INTRO = "At Charlotte Gainsbourg's apartment, Andrea hatches an audacious scheme to rescue her star client from an awful sci-fi film. To avoid hurting her director friend Oscar, Andrea brings in prop master Paco to fit Charlotte with a fake plaster cast before Oscar arrives. Listen to the scene in French first."
@@ -17,19 +16,19 @@ TRANSITION = "Now let's listen to the entire dialogue once more."
 OUTRO = "With a fake plaster cast and seconds to spare, Charlotte and Andrea prepare for Oscar's sudden inspection. When you watch the episode, listen out for the expressions meaning 'movie' and 'science fiction'. You'll catch them now. See you next time!"
 CLOSING = ('charlotte', 'À bientôt!')
 STORY = [
-    ('lea', 'Ce film de science-fiction sera un navet.', 'This science fiction movie will be a dud.', [(762, 'ça va être un navet total')], ''),
+    ('andrea', 'Ce film de science-fiction sera un navet.', 'This science fiction movie will be a dud.', [(762, 'ça va être un navet total')], ''),
     ('charlotte', 'Je veux faire ce film par amitié.', 'I want to do this film out of friendship.', [(764, "j'en ferai un par amitié")], ''),
-    ('lea', 'Je ne peux pas te laisser faire.', 'I cannot let you do that.', [(765, 'Je ne peux pas te laisser faire')], ''),
-    ('lea', "J'ai dit à Oscar que tu étais blessée.", 'I told Oscar that you were injured.', [(774, "Elle est à l'hôpital. Elle s'est cassé la jambe")], ''),
+    ('andrea', 'Je ne peux pas te laisser faire.', 'I cannot let you do that.', [(765, 'Je ne peux pas te laisser faire')], ''),
+    ('andrea', "J'ai dit à Oscar que tu étais blessée.", 'I told Oscar that you were injured.', [(774, "Elle est à l'hôpital. Elle s'est cassé la jambe")], ''),
     ('charlotte', 'Quoi, tu lui as dit cela?', 'What, you told him that?', [(776, "Pourquoi t'as dû lui dire ça")], ''),
-    ('lea', 'Oui, tu as une jambe cassée!', 'Yes, you have a broken leg!', [(774, "s'est cassé la jambe")], ''),
+    ('andrea', 'Oui, tu as une jambe cassée!', 'Yes, you have a broken leg!', [(774, "s'est cassé la jambe")], ''),
     ('charlotte', 'Mais Oscar arrive chez moi maintenant!', 'But Oscar is arriving at my place now!', [(781, "Il arrête pas de m'envoyer des SMS")], ''),
-    ('lea', 'Paco est là pour nous aider.', 'Paco is here to help us.', [(783, "Regardez, j'ai tout prévu. Paco")], ''),
+    ('andrea', 'Paco est là pour nous aider.', 'Paco is here to help us.', [(783, "Regardez, j'ai tout prévu. Paco")], ''),
     ('paco', "Bonjour, Charlotte, c'est un grand honneur.", 'Hello, Charlotte, it is a great honor.', [(787, "Bonjour, c'est un honneur")], ''),
     ('paco', 'Je suis accessoiriste pour le cinéma.', 'I am a prop master for cinema.', [(790, 'il est aussi accessoiriste')], ''),
     ('paco', 'Voici un faux plâtre très élégant.', 'Here is a very elegant fake cast.', [(799, 'Élégant')], ''),
     ('charlotte', "C'est parfait, enfilons cette fausse botte!", 'It is perfect, let us slip on this fake boot!', [(800, "j'aime bien le plâtre"), (812, "C'est comme une botte")], ''),
-    ('lea', "Attention, Oscar sonne à l'interphone!", 'Watch out, Oscar is ringing the intercom!', [(805, "l'interphone")], ''),
+    ('andrea', "Attention, Oscar sonne à l'interphone!", 'Watch out, Oscar is ringing the intercom!', [(805, "l'interphone")], ''),
     ('charlotte', 'Vite, assieds-moi sur le canapé!', 'Quickly, sit me down on the sofa!', [(809, 'Assieds-toi, là'), (810, 'dépêche-toi')], ''),
 ]
 WALK = [

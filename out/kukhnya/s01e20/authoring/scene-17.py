@@ -4,18 +4,17 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 20
 SCENE = 17
-TITLE = "Уход с праздника  (Leaving the Party)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Уход с праздника  (Leaving the Party)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "kostya": "anja", "nastya": "angelina"}
-LABELS = {"kostya": "Костя", "nastya": "Настя"}
+LABELS = {'kostya': 'Костя', 'nastya': 'Настя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.20'
 SOURCE_FILE = 'sources/kukhnya/s01/e20.ru.dual.srt'
 INTRO = 'Nastya decides to leave the restaurant party early because she is feeling bored. Kostya rushes after her to stop her from leaving, as he has something very important to tell her.'
 OPENER = "Now let's go back through the exchange around Leaving the Party line by line and unpack how the Russian works."
 TRANSITION = "Now let's listen to the conversation again without interruption."
 OUTRO = "Kostya successfully stops Nastya, preparing himself for a major life decision. Next time you watch the episode, listen for the Russian expressions for 'to wait' and 'for now' — you will catch every word right away. See you next time!"
-CLOSING = ("kostya", "Пока!")
+CLOSING = ('kostya', 'Пока!')
 STORY = [
     ('kostya', 'Настя, подожди!', 'Nastya, wait!', [], ''),
     ('nastya', 'Пока.', 'Bye.', [(288, 'Пока')], ''),
@@ -33,8 +32,8 @@ STORY = [
     ('kostya', 'Пожалуйста, выслушай меня.', 'Please, hear me out.', [], ''),
 ]
 WALK = [
-    (0, None, "'Bye.' A crisp, everyday conversational reply meaning 'bye' that you will hear constantly in Russian dialogue."),
-    (1, None, "'Oh, you are leaving already?' Kostya turns a statement into a question purely through rising intonation on the word meaning 'already', followed by 'are leaving'."),
-    (2, None, "'Yeah. It is kind of a downer here.' Russian omits the present-tense verb 'to be' here, linking 'yeah' directly with 'somehow', combining 'yeah' with 'somehow' and 'here'."),
-    (3, None, "'Please, hear me out.' Kostya leads with the direct command form meaning 'hear out' to make the point directly in conversation. Now let's listen to the whole conversation again from start to finish."),
+    (1, None, "'Bye.' A crisp, everyday conversational reply meaning 'bye' that you will hear constantly in Russian dialogue."),
+    (2, None, "'Oh, you are leaving already?' Kostya turns a statement into a question purely through rising intonation on the word meaning 'already', followed by 'are leaving'."),
+    (3, None, "'Yeah. It is kind of a downer here.' Russian omits the present-tense verb 'to be' here, linking 'yeah' directly with 'somehow', combining 'yeah' with 'somehow' and 'here'."),
+    (13, None, "'Please, hear me out.' Kostya leads with the direct command form meaning 'hear out' to make the point directly in conversation. Now let's listen to the whole conversation again from start to finish."),
 ]

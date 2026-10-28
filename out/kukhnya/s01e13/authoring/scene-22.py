@@ -4,21 +4,20 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 13
 SCENE = 22
-TITLE = "Границы  (Borders)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Границы  (Borders)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "vika": "angelina", "anya": "alisa"}
-LABELS = {"vika": "Вика", "anya": "Макс"}
+LABELS = {'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.13'
 SOURCE_FILE = 'sources/kukhnya/s01/e13.ru.dual.srt'
 INTRO = "Focused on borders, Vika angrily breaks up with Max, while the narrator reflects on the walls people build between themselves. Let's listen closely to Vika and Max's exchange in Russian first, and then walk through each line together."
 OPENER = "Now let's go back through the exchange around Borders line by line and unpack how the Russian works."
 TRANSITION = "Now let's listen to the conversation again without interruption."
 OUTRO = "Vika angrily breaks up with Max, while the narrator reflects on the walls people build between themselves. Next time you watch the episode, listen for the Russian expressions for 'matter' and 'today' — you will catch every word right away. See you next time!"
-CLOSING = ("anya", "Пока!")
+CLOSING = ('max', 'Пока!')
 STORY = [
-    ('anya', 'Вик, что с тобой?', 'Vik, what is wrong?', [(303, 'вик')], ''),
-    ('anya', 'В чём дело, Макс?', 'What is the matter, Max?', [(305, 'чем')], ''),
+    ('max', 'Вик, что с тобой?', 'Vik, what is wrong?', [(303, 'вик')], ''),
+    ('max', 'В чём дело, Макс?', 'What is the matter, Max?', [(305, 'чем')], ''),
     ('vika', 'В чем дело?', 'What is the matter?', [(305, 'чем')], ''),
     ('vika', 'Меня сегодня чуть не уволили с работы.', 'I almost got fired today.', [(309, 'меня')], ''),
     ('vika', 'И все благодаря тебе.', 'And it is all thanks to you.', [(304, 'все')], ''),
@@ -29,11 +28,11 @@ STORY = [
     ('vika', 'Ты постоянно все усложняешь.', 'You make everything so complicated.', [(306, 'постоянно')], ''),
     ('vika', 'А виноватыми делаешь других.', 'Then you blame everyone else.', [(307, 'виноватыми')], ''),
     ('vika', 'Может, стоит поискать причины в себе?', 'Maybe you should look at yourself for the reasons?', [(308, 'может')], ''),
-    ('anya', 'Меня всегда удивляло...', 'I have always wondered...', [(309, 'меня')], ''),
-    ('anya', 'почему люди сами возводят между собой границы.', 'why people build walls between themselves.', [(309, 'почему')], ''),
+    ('max', 'Меня всегда удивляло...', 'I have always wondered...', [(309, 'меня')], ''),
+    ('max', 'почему люди сами возводят между собой границы.', 'why people build walls between themselves.', [(309, 'почему')], ''),
     ('vika', 'Костя, давай с тобой сегодня тоже просто поспим.', 'Kostya, how about we just sleep tonight too, okay?', [(310, 'костя')], ''),
-    ('anya', 'Но есть границы, которые мы специально возводим...', 'But there are walls we build on purpose...', [(315, 'есть')], ''),
-    ('anya', 'чтобы с удовольствием их разрушить.', 'so we can enjoy tearing them down.', [(316, 'чтобы')], ''),
+    ('max', 'Но есть границы, которые мы специально возводим...', 'But there are walls we build on purpose...', [(315, 'есть')], ''),
+    ('max', 'чтобы с удовольствием их разрушить.', 'so we can enjoy tearing them down.', [(316, 'чтобы')], ''),
 ]
 WALK = [
     (0, None, "'Vik, what is wrong?' Russian omits the present-tense verb 'to be' here, linking 'Vika' directly with 'what', combining 'Vika' with 'what' and 'with'."),

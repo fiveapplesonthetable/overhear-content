@@ -7,8 +7,7 @@ SCENE = 33
 TITLE = "Il faut qu'on parle  (We Have to Talk)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'cecile': 'emilie'}
-LABELS = {'gabriel': 'Gabriel', 'cecile': 'Cécile'}
+LABELS = {'cecile': 'Cécile', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e01.fr.dual.srt'
 INTRO = "He drives out of Paris to her riding school and finds her up on a big chestnut horse, which she still can't really control. The two old friends have not spoken since she called him a liar. You'll hear the scene in French first; don't worry about catching every word."
@@ -35,19 +34,19 @@ STORY = [
 ]
 WALK = [
     (0, None, "'Hello, I'm looking for Cécile de France.' The verb for looking for already contains the 'for', so nothing else is needed before her name. Someone points across the field, and he calls out to her."),
-    (1, None, "'We have to talk.' The opening two words mean 'it is necessary', a very common way to say that something must happen. The little word in the middle is the everyday way of saying 'we'."),
+    (1, "Il faut qu'on parle.", "'We have to talk.' The opening two words mean 'it is necessary', a very common way to say that something must happen. The little word in the middle is the everyday way of saying 'we'."),
     (2, None, "'Gabriel? What are you doing here?' She uses the casual 'you'. These two have worked together for years, so they always speak to each other as friends."),
-    (3, None, "'I can't!' She is shouting at the horse to stop, and it isn't listening. Notice how the negation wraps around the verb: one small word goes before it, and the word for 'not' comes after it."),
+    (3, 'Je ne peux pas!', "'I can't!' She is shouting at the horse to stop, and it isn't listening. Notice how the negation wraps around the verb: one small word goes before it, and the word for 'not' comes after it."),
     (4, None, "'Cécile, you're really bad at this.' Not very kind, but he is hurt. The word for 'bad at' or 'useless' here ends in a feminine way, because he is talking about a woman."),
-    (5, None, "'You told me you could ride.' On the phone that morning she had promised him she had it under control."),
-    (6, None, "'You lied.' A short past tense: the helper verb meaning 'to have', then the past form of 'to lie'. Cécile protests."),
-    (7, None, "'I didn't lie, Gabriel.' Here is the same negation pattern in the past: the two pieces wrap around the helper verb, not around the word for 'lied'. She explains."),
-    (8, None, "'I'm soon going to be good enough.' To talk about the near future, take the verb 'to go' and put a plain verb after it, exactly like 'going to' in English. The word for 'good' is feminine again."),
-    (9, None, "'Look how bad you are!' He is giving orders now, in the casual form, just as she wobbles past him."),
-    (10, None, "'And you lied to me too!' Now it's her turn to attack. He kept the truth about Tarantino from her."),
-    (11, None, "'There's lying and there's lying.' Literally 'there is to lie and to lie'. It's his excuse: some lies are worse than others."),
-    (12, None, "'I didn't want to hurt you.' Again the negation wraps around the verb, this time a past form for wanting. And at that very moment, the horse decides it has heard enough."),
-    (13, None, "'Oh no! He won't stop!' The verb for stopping takes an extra little word for 'itself', because in French a horse stops itself. The horse is off, with Cécile hanging on."),
-    (14, None, "'Wait! Cécile, hold on!' The first word is polite, shouted at nobody in particular. The second order is the casual one, for her: grab something and don't let go."),
-    (15, None, "'Careful, you're heading for the road!' The very first word is the classic warning shout. The argument will have to wait. Now let's hear the whole scene once more, at normal speed."),
+    (5, "Tu m'as dit que tu savais monter.", "'You told me you could ride.' On the phone that morning she had promised him she had it under control."),
+    (5, 'Tu as menti.', "'You lied.' A short past tense: the helper verb meaning 'to have', then the past form of 'to lie'. Cécile protests."),
+    (6, None, "'I didn't lie, Gabriel.' Here is the same negation pattern in the past: the two pieces wrap around the helper verb, not around the word for 'lied'. She explains."),
+    (7, 'Je vais bientôt être assez bonne.', "'I'm soon going to be good enough.' To talk about the near future, take the verb 'to go' and put a plain verb after it, exactly like 'going to' in English. The word for 'good' is feminine again."),
+    (8, None, "'Look how bad you are!' He is giving orders now, in the casual form, just as she wobbles past him."),
+    (9, None, "'And you lied to me too!' Now it's her turn to attack. He kept the truth about Tarantino from her."),
+    (10, None, "'There's lying and there's lying.' Literally 'there is to lie and to lie'. It's his excuse: some lies are worse than others."),
+    (11, None, "'I didn't want to hurt you.' Again the negation wraps around the verb, this time a past form for wanting. And at that very moment, the horse decides it has heard enough."),
+    (12, None, "'Oh no! He won't stop!' The verb for stopping takes an extra little word for 'itself', because in French a horse stops itself. The horse is off, with Cécile hanging on."),
+    (13, None, "'Wait! Cécile, hold on!' The first word is polite, shouted at nobody in particular. The second order is the casual one, for her: grab something and don't let go."),
+    (14, None, "'Careful, you're heading for the road!' The very first word is the classic warning shout. The argument will have to wait. Now let's hear the whole scene once more, at normal speed."),
 ]

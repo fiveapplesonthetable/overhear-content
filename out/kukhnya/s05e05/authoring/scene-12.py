@@ -1,18 +1,20 @@
+# Authoring module for kukhnya-s05e05-scene-12.
 ID = 'kukhnya-s05e05-scene-12'
 SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 5
 SCENE = 12
-TITLE = "Катя прощает Дениса  (Katya Forgives Denis)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Катя прощает Дениса  (Katya Forgives Denis)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "katya": "angelina", "denis": "anja"}
-LABELS = {"katya": "Катя", "denis": "Денис"}
+LABELS = {'barinov': 'Шеф', 'denis': 'Денис', 'katya': 'Катя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S5.05'
 SOURCE_FILE = 'sources/kukhnya/s05/e05.ru.srt'
-
 INTRO = 'Back in the kitchen, Katya approaches Denis and announces that Kostya told her the whole secret. Before Denis can figure out why she wants to rent an apartment for the three of them, Chef Barinov calls him back to his station.'
-
+OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
+TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
+OUTRO = "Completely baffled by Katya's talk of living together as three, Denis heads off to confront Kostya about what story he told her. See you next time!"
+CLOSING = ('denis', 'Всего хорошего!')
 STORY = [
     ('katya', 'Привет, Денис, я всё знаю.', 'Hi, Denis, I know everything.', [(206, 'Привет. Денис, я все знаю')], 'adapted'),
     ('denis', 'В смысле?', 'In what sense?', [(207, 'В смысле')], 'adapted'),
@@ -25,26 +27,19 @@ STORY = [
     ('katya', 'Мы справимся со всеми трудностями.', 'We will cope with all the difficulties.', [(214, 'мы справимся со всеми трудностями')], 'adapted'),
     ('katya', 'Мы снимем квартиру.', 'We will rent an apartment.', [(215, 'Мы снимем квартиру')], 'adapted'),
     ('katya', 'Будем жить втроём.', 'The three of us will live together.', [(216, 'Будем жить втроем')], 'adapted'),
-    ('denis', 'Денис, мне нужен свежий хлеб!', 'Denis, I need fresh bread!', [(217, 'Денис! Через 40 минут мне нужен свежий хлеб')], 'adapted'),
+    ('barinov', 'Денис, мне нужен свежий хлеб!', 'Denis, I need fresh bread!', [(217, 'Денис! Через 40 минут мне нужен свежий хлеб')], 'adapted'),
 ]
-
-OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
-
 WALK = [
-    (0, None, "'Hi, Denis, I know everything.' Katya brings out the contrast between 'hello' and 'Denis' in a few short words. Denis answers right away."),
-    (1, None, "'In what sense?' Denis anchors the line on 'sense', while 'sense' completes the thought."),
-    (2, None, "'Well, Kostya told me.' The grammar packs 'come on' and 'told' into a tight, idiomatic kitchen exchange."),
-    (3, None, "'I see.' The meaning hinges on 'understood' working together with 'understood' in spoken Russian. Katya answers right away."),
-    (4, None, "'Why did you not tell me yourself?' Katya brings out the contrast between 'why' and 'you' in a few short words."),
-    (5, None, "'If only you knew how many times I tried.' The '-l' ending on the verb meaning 'tried' places the action in the masculine past tense."),
-    (6, None, "'Did you really think that this would scare me?' In Russian, the idea of 'really' flows naturally into 'will scare' without extra filler words."),
-    (7, None, "'Do not worry.' Here the Russian phrasing highlights 'you' before landing on 'to worry'."),
-    (8, None, "'We will cope with all the difficulties.' In Russian, the idea of 'we' flows naturally into 'difficulties' without extra filler words."),
-    (9, None, "'We will rent an apartment.' Katya anchors the line on 'we', while 'apartment' completes the thought."),
-    (10, None, "'The three of us will live together.' The grammar packs 'will' and 'the three of us' into a tight, idiomatic kitchen exchange."),
-    (11, None, "'Denis, I need fresh bread!' The meaning hinges on 'Denis' working together with 'bread' in spoken Russian."),
+    (0, None, "'Hi, Denis, I know everything.' Katya explains that she knows everything, keeping her voice calm and direct."),
+    (1, None, "'In what sense?' Over the plan and the secret, Denis presses Barinov for a straight answer."),
+    (2, None, "'Well, Kostya told me.' Around the work and secret, Katya sets a calm, everyday tone with Barinov."),
+    (3, None, "'I see.' Between the truth and the secret, Denis gives Barinov a quick, grounded response."),
+    (4, None, "'Why did you not tell me yourself?' Asking why Barinov not tell her themselves is how Katya puts Barinov on the spot."),
+    (5, None, '\'If only you knew how many times I tried.\' Admitting that if only Barinov knew how many times he tried shows Denis being honest for a change. Speaking with the close, informal "you" strips away any polite distance between them.'),
+    (6, None, '\'Did you really think that this would scare me?\' Here asking whether Barinov really think that this would scare shows Katya looking for the real truth. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
+    (7, None, "'Do not worry.' Once do not worry, Katya can finally tell Barinov what she means."),
+    (8, None, "'We will cope with all the difficulties.' Adding that they will cope with all the difficulties fills in the missing piece for Barinov."),
+    (9, None, "'We will rent an apartment.' Saying that they will rent an apartment is how Katya sets the tone with Barinov."),
+    (10, None, "'The three of us will live together.' Since the three of them will live together, Katya does not waste words on excuses."),
+    (11, None, "'Denis, I need fresh bread!' Barinov declares that he needs fresh bread as the tension in the room peaks. Russian puts the key word right up front so his emotion lands on the first beat."),
 ]
-
-TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Completely baffled by Katya's talk of living together as three, Denis heads off to confront Kostya about what story he told her. See you next time!"
-CLOSING = ("denis", "Всего хорошего!")

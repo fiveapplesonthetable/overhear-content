@@ -1,38 +1,40 @@
-# domashniy-arest/s01e02/scene-23.py
-ID = "domashniy-arest-s01e02-scene-23"
-SHOW = "domashniy-arest"
+# Authoring module for domashniy-arest-s01e02-scene-23.
+ID = 'domashniy-arest-s01e02-scene-23'
+SHOW = 'domashniy-arest'
 SEASON = 1
 EPISODE = 2
 SCENE = 23
-TITLE = "Звонок от Третьякова  (A Call from Tretyakov)"
-LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-SOURCE_NAME = "Домашний арест (Domashniy Arest) S1.02"
-SOURCE_FILE = "sources/domashniy-arest/s01/e02.ru.dual.srt"
-VOICES = {"narrator": "sky", "anya": "alisa", "yulia": "angelina", "slavik": "anja"}
-LABELS = {"anya": "Аркадий", "yulia": "Юля", "slavik": "Славик"}
+TITLE = 'Звонок от Третьякова  (A Call from Tretyakov)'
+LEVEL = 'A1 — Duolingo Section 2'
+PAIR = 'ru-en'
+LABELS = {'arkady': 'Аркадий', 'slavik': 'Славик', 'yulia': 'Юля'}
+SOURCE_NAME = 'Домашний арест (Domashniy Arest) S1.02'
+SOURCE_FILE = 'sources/domashniy-arest/s01/e02.ru.dual.srt'
 INTRO = "Back in the communal flat, Arkady is with the children in the Samsonovs' room. Last time, at the university, Marina lost her job; and before that, the governor told Arkady that only one man in Moscow, a powerful official called Tretyakov, can help him. Now Arkady shows the children what Tretyakov is like. We'll hear it in Russian first; don't worry about catching every word."
-STORY = [
-    ("anya", "Вот это что такое, я вас спрашиваю!", "What is this, I'm asking you!", [(711, 'Вот это что такое, я вас спрашиваю')], "Arkady playing Tretyakov"),
-    ("anya", "Что смотрите, бандерлоги? Вы совсем страх потеряли?", "What are you staring at, you monkeys? Have you lost all fear?", [(712, 'смотрите, бандерлоги'), (713, 'Вы совсем страх потеряли')], "'Че' -> 'Что'"),
-    ("anya", "Ну как я позвоню этому Третьякову? Что я ему скажу?", "So how can I call this Tretyakov? What will I say to him?", [(729, 'Ну как я позвоню этому Третьякову? Что я ему скажу')], ""),
-    ("anya", "Здравствуйте, Пётр Олегович, это Аникеев.", "Hello, Pyotr Olegovich, it's Anikeev.", [(730, 'здравствуйте, Петр Олегович, это Аникеев')], "'Скажу,' dropped"),
-    ("anya", "Аникеев? Ну что, проворовался? Да я тебя посажу!", "Anikeev? Well then, caught stealing? I'll put you in prison!", [(731, 'Аникеев? Ну что, проворовался'), (732, 'Да я тебя посажу')], "the insults in cues 731-732 and the threat in 733 dropped"),
-    ("slavik", "Очень похоже!", "That's just like him!", [(736, 'Очень похоже')], "speaker of cue 736 given to Slavik"),
-    ("yulia", "Правда похоже. А может, вы сами позвоните губернатору?", "It really is. Why don't you call the governor yourself?", [(737, 'похоже'), (738, 'может, вы сами позвоните')], "'Да, реально похоже' (737) -> 'Правда похоже'; 'этому вашему губернатору' (738) -> 'губернатору'"),
-    ("anya", "И что?", "And then what?", [(739, 'И что')], ""),
-    ("yulia", "Я один раз позвонила как директор и отменила контрольную.", "Once I phoned pretending to be the headmistress and cancelled a test.", [(741, 'отменила контрольную')], "adapted from cues 740-741 ('развела', 'от имени директрисы' -> 'позвонила как директор')"),
-    ("anya", "Со своего телефона? И все поверили?", "From your own phone? And everyone believed it?", [(742, 'со своего телефона'), (743, 'все поверили')], "the rest of cues 742-743 dropped"),
-    ("yulia", "Нет, есть такие программы. Они меняют номер.", "No, there are apps for that. They change the number.", [(745, 'номер')], "adapted from cues 744-745 ('программ куча всяких', 'подменяют номер' -> 'меняют номер'); the app names dropped"),
-    ("anya", "Бред какой-то. Но, с другой стороны, чем я рискую?", "What nonsense. But on the other hand, what have I got to lose?", [(748, 'Бред какой-то'), (750, 'Но, с другой стороны, чем я рискую')], "cue 749 dropped"),
-    ("anya", "Так, давай свою программу попробуем.", "Right, let's try your app.", [(751, 'Так'), (751, 'давай свою программу попробуем')], "'слушай' dropped"),
-    ("yulia", "А у меня её нет. Я её удалила.", "But I haven't got it. I deleted it.", [(752, 'у меня её нет'), (753, 'удалила')], "'Так' -> 'А'; 'там такой скандал был, ... нафиг' dropped"),
-    ("yulia", "Теперь новую надо покупать.", "Now you'd have to buy a new one.", [(754, 'Теперь новую надо покупать')], ""),
-    ("anya", "Сколько?", "How much?", [(755, 'Сколько')], ""),
-    ("yulia", "Рублей пятьсот.", "About five hundred roubles.", [(756, 'Рублей пятьсот')], ""),
-    ("anya", "Пятьсот. А у меня ни копейки.", "Five hundred. And I haven't got a penny.", [(757, 'Пятьсот')], "'Копейки нету. Чёрт.' -> 'А у меня ни копейки.'"),
-]
 OPENER = "Let's go through it together. Arkady is putting on a show: he plays Tretyakov, a loud, frightening boss."
+TRANSITION = 'Now listen to the whole scene again, impression and all.'
+OUTRO = "So there's a plan: a fake call from Tretyakov, but no money even for the app. If the impression went by too fast, that's fine; it's loud and quick in the show too. See you next time!"
+CLOSING = ('arkady', 'Пока!')
+STORY = [
+    ('arkady', 'Вот это что такое, я вас спрашиваю!', "What is this, I'm asking you!", [(711, 'Вот это что такое, я вас спрашиваю')], 'Arkady playing Tretyakov'),
+    ('arkady', 'Что смотрите, бандерлоги? Вы совсем страх потеряли?', 'What are you staring at, you monkeys? Have you lost all fear?', [(712, 'смотрите, бандерлоги'), (713, 'Вы совсем страх потеряли')], "'Че' -> 'Что'"),
+    ('arkady', 'Ну как я позвоню этому Третьякову? Что я ему скажу?', 'So how can I call this Tretyakov? What will I say to him?', [(729, 'Ну как я позвоню этому Третьякову? Что я ему скажу')], ''),
+    ('arkady', 'Здравствуйте, Пётр Олегович, это Аникеев.', "Hello, Pyotr Olegovich, it's Anikeev.", [(730, 'здравствуйте, Петр Олегович, это Аникеев')], "'Скажу,' dropped"),
+    ('arkady', 'Аникеев? Ну что, проворовался? Да я тебя посажу!', "Anikeev? Well then, caught stealing? I'll put you in prison!", [(731, 'Аникеев? Ну что, проворовался'), (732, 'Да я тебя посажу')], 'the insults in cues 731-732 and the threat in 733 dropped'),
+    ('slavik', 'Очень похоже!', "That's just like him!", [(736, 'Очень похоже')], 'speaker of cue 736 given to Slavik'),
+    ('yulia', 'Правда похоже. А может, вы сами позвоните губернатору?', "It really is. Why don't you call the governor yourself?", [(737, 'похоже'), (738, 'может, вы сами позвоните')], "'Да, реально похоже' (737) -> 'Правда похоже'; 'этому вашему губернатору' (738) -> 'губернатору'"),
+    ('arkady', 'И что?', 'And then what?', [(739, 'И что')], ''),
+    ('yulia', 'Я один раз позвонила как директор и отменила контрольную.', 'Once I phoned pretending to be the headmistress and cancelled a test.', [(741, 'отменила контрольную')], "adapted from cues 740-741 ('развела', 'от имени директрисы' -> 'позвонила как директор')"),
+    ('arkady', 'Со своего телефона? И все поверили?', 'From your own phone? And everyone believed it?', [(742, 'со своего телефона'), (743, 'все поверили')], 'the rest of cues 742-743 dropped'),
+    ('yulia', 'Нет, есть такие программы. Они меняют номер.', 'No, there are apps for that. They change the number.', [(745, 'номер')], "adapted from cues 744-745 ('программ куча всяких', 'подменяют номер' -> 'меняют номер'); the app names dropped"),
+    ('arkady', 'Бред какой-то. Но, с другой стороны, чем я рискую?', 'What nonsense. But on the other hand, what have I got to lose?', [(748, 'Бред какой-то'), (750, 'Но, с другой стороны, чем я рискую')], 'cue 749 dropped'),
+    ('arkady', 'Так, давай свою программу попробуем.', "Right, let's try your app.", [(751, 'Так'), (751, 'давай свою программу попробуем')], "'слушай' dropped"),
+    ('yulia', 'А у меня её нет. Я её удалила.', "But I haven't got it. I deleted it.", [(752, 'у меня её нет'), (753, 'удалила')], "'Так' -> 'А'; 'там такой скандал был, ... нафиг' dropped"),
+    ('yulia', 'Теперь новую надо покупать.', "Now you'd have to buy a new one.", [(754, 'Теперь новую надо покупать')], ''),
+    ('arkady', 'Сколько?', 'How much?', [(755, 'Сколько')], ''),
+    ('yulia', 'Рублей пятьсот.', 'About five hundred roubles.', [(756, 'Рублей пятьсот')], ''),
+    ('arkady', 'Пятьсот. А у меня ни копейки.', "Five hundred. And I haven't got a penny.", [(757, 'Пятьсот')], "'Копейки нету. Чёрт.' -> 'А у меня ни копейки.'"),
+]
 WALK = [
     (0, None, "'What is this, I'm asking you!' A boss's favourite question, shouted at a room full of people. The 'you' is the plural, polite form, because he is shouting at everybody."),
     (1, 'Что смотрите, бандерлоги?', "'What are you staring at, you monkeys?' The odd word at the end is the name of the monkey people in Kipling's Jungle Book, a favourite insult of grumpy bosses."),
@@ -56,6 +58,3 @@ WALK = [
     (16, None, "'About five hundred roubles.' Putting the number after the noun makes it approximate, so this means 'roughly five hundred'."),
     (17, None, "'Five hundred. And I haven't got a penny.' The smallest Russian coin stands in for 'a penny'. The former mayor is completely broke."),
 ]
-TRANSITION = "Now listen to the whole scene again, impression and all."
-OUTRO = "So there's a plan: a fake call from Tretyakov, but no money even for the app. If the impression went by too fast, that's fine; it's loud and quick in the show too. See you next time!"
-CLOSING = ("anya", "Пока!")

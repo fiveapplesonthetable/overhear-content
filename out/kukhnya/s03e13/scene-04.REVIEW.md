@@ -10,34 +10,34 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Шеф | Вы что, коньяком полы моете? | Are you mopping the floors with cognac? | #40 00:03:20: Коньяком полы моете | adapted: adapted |
-| 2 | Шеф | Шеф, кто-то ночью устроил разгром в баре. | Chef, someone trashed the bar last night. | #41 00:03:22: кто-то ночью устроил разгром в баре | adapted: adapted |
-| 3 | Шеф | Не знаете, кто это мог быть? | Do you know who it could have been? | #42 00:03:24: Не знаете, кто это мог быть | adapted: adapted |
-| 4 | Шеф | Откуда я знаю, понятия не имею. | How should I know, I have no idea. | #43 00:03:26: Понятия не имею | adapted: adapted |
-| 5 | Шеф | Костя, налей мне холодного пива. | Kostya, pour me a cold beer. | #44 00:03:30: Костя, налей-ка мне пивка | adapted: adapted |
-| 6 | Шеф | Что вы тут мучаетесь, друзья? | Why are you torturing yourselves here, friends? | #45 00:03:34: Что вы мучаетесь | adapted: adapted |
-| 7 | Шеф | Посмотрите запись камер наблюдений. | Check the security camera recording. | #46 00:03:35: запись камер наблюдений | adapted: adapted |
-| 8 | Шеф | Пива сегодня нет, шеф. | There is no beer today, Chef. | #47 00:03:38: Пива нет, шеф | adapted: adapted |
-| 9 | Шеф | Ну тогда дай хотя бы кофе. | Well then give me at least some coffee. | #48 00:03:42: Ну так, хотя бы кофейку | adapted: adapted |
-| 10 | Шеф | Шеф, кофемашина тоже сломалась. | Chef, the coffee machine broke down too. | #49 00:03:44: кофемашина, наверное, тоже сломалась | adapted: adapted |
-| 11 | Аня | А где ключ от серверной? | And where is the key to the server room? | #50 00:03:48: Ключ от серверной | adapted: adapted |
-| 12 | Шеф | Он у Вики, у кого же ещё? | Vika has it, who else would have it? | #51 00:03:50: У Вики. У кого же ещё | adapted: adapted |
-| 13 | Шеф | Она позвонила, сказала, что опоздает. | She called and said that she would be late. | #52 00:03:52: Она позвонила, сказала, что опоздает | adapted: adapted |
-| 14 | Шеф | В ресторане погром, директор опаздывает! | The restaurant is a mess, the manager is late! | #53 00:03:56: В ресторане погром, кофемашина сломалась, директор опаздывает | adapted: adapted |
+| 1 | Шеф | Вы что, коньяком полы моете? | Are you mopping the floors with cognac? | #40: Коньяком полы моете | adapted: adapted |
+| 2 | Костя | Шеф, кто-то ночью устроил разгром в баре. | Chef, someone trashed the bar last night. | #41: кто-то ночью устроил разгром в баре | adapted: adapted |
+| 3 | Костя | Не знаете, кто это мог быть? | Do you know who it could have been? | #42: Не знаете, кто это мог быть | adapted: adapted |
+| 4 | Шеф | Откуда я знаю, понятия не имею. | How should I know, I have no idea. | #43: Понятия не имею | adapted: adapted |
+| 5 | Шеф | Костя, налей мне холодного пива. | Kostya, pour me a cold beer. | #44: Костя, налей-ка мне пивка | adapted: adapted |
+| 6 | Шеф | Что вы тут мучаетесь, друзья? | Why are you torturing yourselves here, friends? | #45: Что вы мучаетесь | adapted: adapted |
+| 7 | Шеф | Посмотрите запись камер наблюдений. | Check the security camera recording. | #46: запись камер наблюдений | adapted: adapted |
+| 8 | Костя | Пива сегодня нет, шеф. | There is no beer today, Chef. | #47: Пива нет, шеф | adapted: adapted |
+| 9 | Шеф | Ну тогда дай хотя бы кофе. | Well then give me at least some coffee. | #48: Ну так, хотя бы кофейку | adapted: adapted |
+| 10 | Костя | Шеф, кофемашина тоже сломалась. | Chef, the coffee machine broke down too. | #49: кофемашина, наверное, тоже сломалась | adapted: adapted |
+| 11 | Макс | А где ключ от серверной? | And where is the key to the server room? | #50: Ключ от серверной | adapted: adapted |
+| 12 | Костя | Он у Вики, у кого же ещё? | Vika has it, who else would have it? | #51: У Вики. У кого же ещё | adapted: adapted |
+| 13 | Костя | Она позвонила, сказала, что опоздает. | She called and said that she would be late. | #52: Она позвонила, сказала, что опоздает | adapted: adapted |
+| 14 | Шеф | В ресторане погром, директор опаздывает! | The restaurant is a mess, the manager is late! | #53: В ресторане погром, кофемашина сломалась, директор опаздывает | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Are you mopping the floors with cognac?' The grammar packs 'you' and 'to wash' into a tight, idiomatic kitchen exchange.
-- 'Chef, someone trashed the bar last night.' In Russian, the idea of 'Chef' flows naturally into 'bar' without extra filler words.
-- 'Do you know who it could have been?' The grammar packs 'not' and 'be' into a tight, idiomatic kitchen exchange. Chef Barinov answers right away.
-- 'How should I know, I have no idea.' Chef Barinov anchors the line on 'where from', while 'to have' completes the thought.
-- 'Kostya, pour me a cold beer.' In Russian, the idea of 'Kostya' flows naturally into 'of beer' without extra filler words.
-- 'Why are you torturing yourselves here, friends?' Notice how Russian expresses 'what' and 'friend' with crisp inflection rather than helper words.
-- 'Check the security camera recording.' Notice how Russian expresses 'look' and 'of surveillance' with crisp inflection rather than helper words.
-- 'There is no beer today, Chef.' Here the Russian phrasing highlights 'of beer' before landing on 'Chef'.
-- 'Well then give me at least some coffee.' Chef Barinov brings out the contrast between 'come on' and 'then' in a few short words. Kostya answers right away.
-- 'Chef, the coffee machine broke down too.' Kostya anchors the line on 'Chef', while 'broke' completes the thought.
-- 'And where is the key to the server room?' In Russian, the idea of 'and' flows naturally into 'server room' without extra filler words.
-- 'Vika has it, who else would have it?' Spoken Russian keeps this brisk, leaning on 'he' and finishing on 'else'.
-- 'She called and said that she would be late.' The grammar packs 'she' and 'to be late' into a tight, idiomatic kitchen exchange.
-- 'The restaurant is a mess, the manager is late!' The grammar packs 'restaurant' and 'is late' into a tight, idiomatic kitchen exchange.
+- 'Are you mopping the floors with cognac?' Asking whether Kostya mopping the floors with cognac cuts straight through the tension between Barinov and Kostya.
+- 'Chef, someone trashed the bar last night.' Around the shift and coffee, Kostya sets a calm, everyday tone with Barinov.
+- 'Do you know who it could have been?' Here checking whether Barinov knows who it could have been shows Kostya looking for the real truth. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'How should I know, I have no idea.' Barinov reminds Kostya that how should he knows he has no idea before the moment passes.
+- 'Kostya, pour me a cold beer.' Pouring him a cold beer moves the conversation forward without extra drama.
+- 'Why are you torturing yourselves here, friends?' Asking why Kostya torturing yourselves here is is how Barinov puts Kostya on the spot. Notice how he sticks to the formal "you", keeping a professional line between them.
+- 'Check the security camera recording.' Checking the security camera recording is how Barinov lays out the situation for Kostya.
+- 'There is no beer today, Chef.' Claiming that there is no beer today sounds confident, even if Barinov has doubts.
+- 'Well then give me at least some coffee.' Even though Kostya should give him at least some coffee, Barinov keeps a steady face in front of Kostya.
+- 'Chef, the coffee machine broke down too.' Over the conversation and the coffee, Kostya answers Barinov without a second thought.
+- 'And where is the key to the server room?' Here wondering where the key to the server room is shows Max looking for the real truth. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Vika has it, who else would have it?' Kostya asks whether Vika has it who else would have it, refusing to let the point slide. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'She called and said that she would be late.' Even though she called and said that she would be late, Kostya keeps a steady face in front of Barinov.
+- 'The restaurant is a mess, the manager is late!' Insisting that the restaurant is a mess the manager is late shows Barinov is not backing down. Russian puts the key word right up front so his emotion lands on the first beat.

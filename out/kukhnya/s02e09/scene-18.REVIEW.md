@@ -10,32 +10,32 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Кристина | Было круто. | That was amazing. | #295 00:21:19: Было круто | verbatim |
-| 2 | Аня | Надо нам почаще разводиться. | We should get divorced more often. | #297 00:21:25: Надо нам почаще разводиться | verbatim |
-| 3 | Кристина | Ты зачем пришел-то? | Why did you come here anyway? | #298 00:21:27: Ты зачем пришел-то | verbatim |
-| 4 | Аня | Ты знаешь. | You know why. | #301 00:21:35: Ты знаешь | verbatim |
-| 5 | Кристина | Это да. | That is true. | #302 00:21:38: Это да | verbatim |
-| 6 | Аня | Ой, елки. | Oh, shoot. | #303 00:21:41: Ой, елки | verbatim |
-| 7 | Кристина | Фу, елки. | Phew, thank goodness. | #304 00:21:43: Фу, елки | verbatim |
-| 8 | Аня | Тут такое дело. | Here is the thing. | #306 00:21:51: тут такое дело | verbatim |
-| 9 | Кристина | Не могла бы ты мне дать свой? | Could you possibly give me yours? | #307 00:21:54: Не могла бы ты мне дать свой | verbatim |
-| 10 | Аня | Конечно, даже милая. | Of course, my dear. | #307 00:21:54: Конечно, даже милая | verbatim |
-| 11 | Кристина | Спасибо большое. | Thank you very much. | #308 00:21:57: Спасибо большое | verbatim |
-| 12 | Аня | Да, кто стерва? | Yes, who is a bitch? | #309 00:22:06: Да, кто стерва | verbatim |
-| 13 | Кристина | Чего ж я тебе раньше-то не написала? | Why did I not text you earlier? | #310 00:22:10: Чего ж я тебе раньше-то не написала | verbatim |
+| 1 | Кристина | Было круто. | That was amazing. | #295: Было круто | verbatim |
+| 2 | Макс | Надо нам почаще разводиться. | We should get divorced more often. | #297: Надо нам почаще разводиться | verbatim |
+| 3 | Кристина | Ты зачем пришел-то? | Why did you come here anyway? | #298: Ты зачем пришел-то | verbatim |
+| 4 | Макс | Ты знаешь. | You know why. | #301: Ты знаешь | verbatim |
+| 5 | Кристина | Это да. | That is true. | #302: Это да | verbatim |
+| 6 | Макс | Ой, елки. | Oh, shoot. | #303: Ой, елки | verbatim |
+| 7 | Кристина | Фу, елки. | Phew, thank goodness. | #304: Фу, елки | verbatim |
+| 8 | Макс | Тут такое дело. | Here is the thing. | #306: тут такое дело | verbatim |
+| 9 | Кристина | Не могла бы ты мне дать свой? | Could you possibly give me yours? | #307: Не могла бы ты мне дать свой | verbatim |
+| 10 | Макс | Конечно, даже милая. | Of course, my dear. | #307: Конечно, даже милая | verbatim |
+| 11 | Кристина | Спасибо большое. | Thank you very much. | #308: Спасибо большое | verbatim |
+| 12 | Макс | Да, кто стерва? | Yes, who is a bitch? | #309: Да, кто стерва | verbatim |
+| 13 | Кристина | Чего ж я тебе раньше-то не написала? | Why did I not text you earlier? | #310: Чего ж я тебе раньше-то не написала | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'That was amazing.' Here the Russian phrasing highlights 'there was' before landing on 'cool'. Max answers right away.
-- 'We should get divorced more often.' The grammar packs 'at' and 'we are getting divorced' into a tight, idiomatic kitchen exchange.
-- 'Why did you come here anyway?' Kristina raises the pitch on 'arrived' to turn the phrase into a direct spoken question.
-- 'You know why.' Notice how Russian expresses 'you' and 'know' with crisp inflection rather than helper words. Kristina answers right away.
-- 'That is true.' The meaning hinges on 'this' working together with 'yes' in spoken Russian.
-- 'Oh, shoot.' Notice how Russian expresses 'oh no' and 'fir tree' with crisp inflection rather than helper words.
-- 'Phew, thank goodness.' Kristina anchors the line on 'ugh', while 'fir tree' completes the thought. Max answers right away.
-- 'Here is the thing.' In Russian, the idea of 'here' flows naturally into 'matter' without extra filler words.
-- 'Could you possibly give me yours?' Here the Russian phrasing highlights 'not' before landing on 'his own'.
-- 'Of course, my dear.' The grammar packs 'of course' and 'darling' into a tight, idiomatic kitchen exchange. Kristina answers right away.
-- 'Thank you very much.' Spoken Russian keeps this brisk, leaning on 'thank you' and finishing on 'big'.
-- 'Yes, who is a bitch?' Max brings out the contrast between 'yes' and 'who' in a few short words.
-- 'Why did I not text you earlier?' Kristina raises the pitch on 'to write' to turn the phrase into a direct spoken question.
+- 'That was amazing.' Noting that that was amazing keeps Kristina's side of the story simple and clear.
+- 'We should get divorced more often.' Even though they should get divorced more often, Max keeps a steady face in front of Kristina.
+- 'Why did you come here anyway?' Wondering why Max comes here anyway cuts straight through the tension between Kristina and Max. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'You know why.' With the room and truth in play, Max keeps this short reply brisk and direct. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'That is true.' Once that is true, Kristina can finally tell Max what she means.
+- 'Oh, shoot.' With the wine and shift in play, Max keeps this short reply brisk and direct.
+- 'Phew, thank goodness.' Over the wine and the moment, Kristina answers Max without a second thought.
+- 'Here is the thing.' Since here is the thing, Max does not waste words on excuses.
+- 'Could you possibly give me yours?' Here checking whether Max possibly give shows Kristina looking for the real truth. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Of course, my dear.' Around the wine and truth, Max sets a calm, everyday tone with Kristina.
+- 'Thank you very much.' With the wine and room in play, Kristina keeps this short reply brisk and direct.
+- 'Yes, who is a bitch?' Asking who a bitch is is how Max puts Kristina on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Why did I not text you earlier?' Here asking why she not text Max earlier shows Kristina looking for the real truth. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.

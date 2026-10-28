@@ -4,29 +4,28 @@ SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 2
 SCENE = 7
-TITLE = "Увольнение  (The Firing)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Увольнение  (The Firing)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "lyova": "angelina", "chef": "anja"}
-LABELS = {"lyova": "Лёва", "chef": "Шеф"}
+LABELS = {'barinov': 'Шеф', 'lyova': 'Лёва'}
 SOURCE_NAME = 'Кухня (Kukhnya) S2.02'
 SOURCE_FILE = 'sources/kukhnya/s02/e02.ru.dual.srt'
 INTRO = "The Chef is furious about the food poisoning incident. He blames the supplier and decides to fire him immediately. Let's listen closely to their exchange in Russian first, and then walk through each line together."
 OPENER = "Now let's go back through the exchange around The Firing line by line and unpack how the Russian works."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "The Chef blames the supplier and decides to fire him immediately. Next time you watch the episode, listen for the Russian expressions for 'to admire' and 'wine' — you will catch every word right away. See you next time!"
-CLOSING = ("lyova", "До свидания!")
+CLOSING = ('lyova', 'До свидания!')
 STORY = [
-    ('chef', 'Вот полюбуйся.', 'Take a good look.', [(109, 'Вот полюбуйся')], ''),
-    ('chef', 'Это твоя вина.', 'This is your fault.', [], ''),
-    ('chef', 'Ты человека чуть не угробил.', 'You nearly killed a man.', [(115, 'Ты человека чуть не угробил')], ''),
+    ('barinov', 'Вот полюбуйся.', 'Take a good look.', [(109, 'Вот полюбуйся')], ''),
+    ('barinov', 'Это твоя вина.', 'This is your fault.', [], ''),
+    ('barinov', 'Ты человека чуть не угробил.', 'You nearly killed a man.', [(115, 'Ты человека чуть не угробил')], ''),
     ('lyova', 'Шеф, хватит.', 'Chef, enough.', [], ''),
     ('lyova', 'Он не понимает по-русски.', "He doesn't understand Russian.", [(116, 'по-русски не понимает')], ''),
-    ('chef', 'Это продукты от Тимура.', 'These are products from Timur.', [], ''),
+    ('barinov', 'Это продукты от Тимура.', 'These are products from Timur.', [], ''),
     ('lyova', 'Тимур, иди сюда.', 'Timur, come here.', [], ''),
     ('lyova', 'Человек отравился.', 'A person got poisoned.', [(130, 'человек отравился')], ''),
     ('lyova', 'Мы в ваших услугах не нуждаемся.', 'We do not need your services.', [(131, 'Мы в ваших услугах'), (131, 'не нуждаемся')], ''),
-    ('chef', 'Все, свободен.', "That's it, you're dismissed.", [(135, 'Все, свободен')], ''),
+    ('barinov', 'Все, свободен.', "That's it, you're dismissed.", [(135, 'Все, свободен')], ''),
     ('lyova', 'Это Тигран.', 'This is Tigran.', [], ''),
     ('lyova', 'Очень приятно, Тигран.', 'Nice to meet you, Tigran.', [(147, 'Очень приятно, Тигран')], ''),
     ('lyova', 'Ну, вот и договорились.', "Well, then it's settled.", [(155, 'Ну, вот и договорились')], ''),

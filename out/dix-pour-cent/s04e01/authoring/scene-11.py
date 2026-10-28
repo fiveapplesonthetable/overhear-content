@@ -7,8 +7,7 @@ SCENE = 11
 TITLE = 'Le oui de Xavier Beauvois  (Xavier Beauvois Says Yes)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'colette': 'emilie', 'lea': 'lucie'}
-LABELS = {'colette': 'Colette', 'lea': 'Andréa'}
+LABELS = {'andrea': 'Andréa', 'colette': 'Colette'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e01.fr.dual.srt'
 INTRO = "Andrea receives an urgent phone call from Colette while navigating her hectic workday. Colette shares exhilarating news: renowned filmmaker Xavier Beauvois has officially greenlit her project, giving the couple cause for joyous celebration. Let's listen to their conversation in French first."
@@ -18,18 +17,18 @@ OUTRO = "Colette's professional success brings joy and excitement to the couple'
 CLOSING = ('colette', 'Au revoir!')
 STORY = [
     ('colette', 'Andréa, Xavier Beauvois a dit oui!', 'Andrea, Xavier Beauvois said yes!', [(643, 'Xavier Beauvois a dit oui.')], ''),
-    ('lea', "Ce n'est pas vrai! C'est génial!", 'That is not true! That is amazing!', [(644, "C'est pas vrai ! C'est génial.")], ''),
+    ('andrea', "Ce n'est pas vrai! C'est génial!", 'That is not true! That is amazing!', [(644, "C'est pas vrai ! C'est génial.")], ''),
     ('colette', 'Bien sûr que oui, il adore le projet.', 'Of course yes, he loves the project.', [(645, 'Bien sûr que oui.')], ''),
-    ('lea', 'Je suis tellement fière de toi, mon amour.', 'I am so proud of you, my love.', [(648, 'Bravo.')], ''),
+    ('andrea', 'Je suis tellement fière de toi, mon amour.', 'I am so proud of you, my love.', [(648, 'Bravo.')], ''),
     ('colette', 'On se retrouve à la maison ce soir?', 'Do we meet at home tonight?', [(646, 'On se retrouve à la maison')], ''),
-    ('lea', "Oui, à la maison, c'est beaucoup plus simple.", 'Yes, at home, it is much simpler.', [(647, "C'est plus simple.")], ''),
+    ('andrea', "Oui, à la maison, c'est beaucoup plus simple.", 'Yes, at home, it is much simpler.', [(647, "C'est plus simple.")], ''),
     ('colette', 'Nous allons fêter ça dignement toutes les deux.', 'We are going to celebrate properly both together.', [(648, 'Bravo.')], ''),
-    ('lea', 'Bravo ma chérie, tu mérites ce succès.', 'Well done my darling, you deserve this success.', [(648, 'Bravo.')], ''),
+    ('andrea', 'Bravo ma chérie, tu mérites ce succès.', 'Well done my darling, you deserve this success.', [(648, 'Bravo.')], ''),
     ('colette', "Des bisous partout, à tout à l'heure!", 'Kisses all over, see you in a bit!', [(649, 'Wow. Des bisous...'), (650, "À tout à l'heure.")], ''),
-    ('lea', "À tout à l'heure, je t'aime fort.", 'See you soon, I love you deeply.', [(650, "À tout à l'heure.")], ''),
-    ('lea', 'Bon, où en étions-nous avec notre dossier?', 'Right, where were we with our file?', [(652, 'Où en étions-nous ?')], ''),
+    ('andrea', "À tout à l'heure, je t'aime fort.", 'See you soon, I love you deeply.', [(650, "À tout à l'heure.")], ''),
+    ('andrea', 'Bon, où en étions-nous avec notre dossier?', 'Right, where were we with our file?', [(652, 'Où en étions-nous ?')], ''),
     ('colette', "N'oublie pas notre pendaison de crémaillère!", 'Do not forget our housewarming party!', [(653, 'La pendaison de crémaillère !')], ''),
-    ('lea', "Je serai à l'heure, c'est promis!", 'I will be on time, promised!', [(647, "C'est plus simple.")], ''),
+    ('andrea', "Je serai à l'heure, c'est promis!", 'I will be on time, promised!', [(647, "C'est plus simple.")], ''),
     ('colette', 'Parfait, je prépare le champagne pour nous!', 'Perfect, I am preparing champagne for us!', [(648, 'Bravo.')], ''),
 ]
 WALK = [

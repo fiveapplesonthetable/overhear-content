@@ -4,30 +4,29 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 18
 SCENE = 21
-TITLE = "Под ноги  (Underfoot)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Под ноги  (Underfoot)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "kostya": "anja", "anya": "alisa"}
-LABELS = {"kostya": "Костя", "anya": "Макс"}
+LABELS = {'kostya': 'Костя', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.18'
 SOURCE_FILE = 'sources/kukhnya/s01/e18.ru.dual.srt'
 INTRO = "Max and Kostya sit outside after losing their jobs. They reflect on their failures and try to find some hope for the future. Let's listen closely to their exchange in Russian first, and then walk through each line together."
 OPENER = "Now let's go back through the exchange around Underfoot line by line and unpack how the Russian works."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Despite the setbacks, the two friends agree to keep moving forward and face the challenges ahead. Next time you watch the episode, listen for the Russian expressions for 'to fire' and 'restaurant' — you will catch every word right away. See you next time!"
-CLOSING = ("kostya", "Пока!")
+CLOSING = ('kostya', 'Пока!')
 STORY = [
-    ('anya', 'Нас уволили из ресторана.', 'We got fired from the restaurant.', [], ''),
+    ('max', 'Нас уволили из ресторана.', 'We got fired from the restaurant.', [], ''),
     ('kostya', 'По крайней мере, нам есть где жить.', 'At least we have somewhere to live.', [(377, 'нам есть где жить')], ''),
-    ('anya', 'Мы падаем и страдаем от боли.', 'We fall and suffer from pain.', [(378, 'падаем, страдаем от боли')], ''),
+    ('max', 'Мы падаем и страдаем от боли.', 'We fall and suffer from pain.', [(378, 'падаем, страдаем от боли')], ''),
     ('kostya', 'А потом встаём и идём дальше.', 'And then we get up and walk further.', [(378, 'встаем, идем дальше')], ''),
-    ('anya', 'И так будет продолжаться бесконечно?', 'And it will continue like this forever?', [(379, 'И так бесконечно')], ''),
+    ('max', 'И так будет продолжаться бесконечно?', 'And it will continue like this forever?', [(379, 'И так бесконечно')], ''),
     ('kostya', 'Жизнь всегда полна трудных моментов.', 'Life is always full of difficult moments.', [], ''),
-    ('anya', 'Может, пора смотреть под ноги?', 'Maybe it is time to look underfoot?', [(380, 'Может, уже стоит начать смотреть под ноги')], ''),
+    ('max', 'Может, пора смотреть под ноги?', 'Maybe it is time to look underfoot?', [(380, 'Может, уже стоит начать смотреть под ноги')], ''),
     ('kostya', 'Ты прав, нужно быть осторожнее.', 'You are right, we need to be more careful.', [], ''),
-    ('anya', 'Завтра мы начнём искать новую работу.', 'Tomorrow we will start looking for new work.', [], ''),
+    ('max', 'Завтра мы начнём искать новую работу.', 'Tomorrow we will start looking for new work.', [], ''),
     ('kostya', 'У нас обязательно всё получится.', 'Everything will definitely work out for us.', [], ''),
-    ('anya', 'Главное, что мы не сдаёмся.', 'The main thing is that we do not give up.', [], ''),
+    ('max', 'Главное, что мы не сдаёмся.', 'The main thing is that we do not give up.', [], ''),
     ('kostya', 'Я верю в нас.', 'I believe in us.', [], ''),
 ]
 WALK = [

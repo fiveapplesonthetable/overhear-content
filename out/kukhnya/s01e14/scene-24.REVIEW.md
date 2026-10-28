@@ -1,39 +1,39 @@
-# Храбрый круассан  (The Brave Croissant) — `kukhnya-s01e14-scene-24`
+# kukhnya-s01e14-scene-24: review sheet
 
-**Source:** Кухня (Kukhnya) S1.14 · `sources/kukhnya/s01/e14.ru.dual.srt`  
-**Target level:** A1 — Duolingo Section 2
+Title: Храбрый круассан  (The Brave Croissant)
+Level: A1 — Duolingo Section 2
+Pair: ru-en
+Source: Кухня (Kukhnya) S1.14
 
-## Cast
 
-| Role | Voice | Label |
-|---|---|---|
-| `narrator` | sky | — |
-| `vika` | angelina | Вика |
-| `anya` | alisa | Макс |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 1 — Intro
-
-> Max approaches Victoria at the bar. She pours him a strong drink to say thank you. We'll hear it in Russian first; don't worry about catching every word. Let's listen closely to the conversation in Russian first, and then walk through each line together.
-
-## Part 2 — Story
-
-| # | Speaker | Line | English | Source cue(s) | Change |
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 0 | Макс | А я кто? | And what am I? | #313 "А я кто" |  |
-| 1 | Макс | Круассан или сельдерей? | A croissant or celery? | #313 "Круассан или сельдерей" |  |
-| 2 | Вика | Ну, конечно, круассан. | Well, of course a croissant. | #314 "Ну, конечно, круассан" |  |
-| 3 | Макс | Почему круассан? | Why a croissant? | *(added)* |  |
-| 4 | Макс | Я же не ем мучное. | I don't eat flour products. | #315 "Я же не ем мучную" |  |
-| 5 | Вика | Ты спас наш ресторан. | You saved our restaurant. | *(added)* |  |
-| 6 | Вика | Ты молодец, Макс. | You did great, Max. | *(added)* |  |
-| 7 | Макс | Я просто сделал свою работу. | I just did my job. | *(added)* |  |
-| 8 | Вика | Нет, это было круто. | No, it was cool. | *(added)* |  |
-| 9 | Вика | Ты очень помог мне. | You helped me a lot. | *(added)* |  |
-| 10 | Вика | Спасибо тебе. | Thank you. | #316 "Спасибо тебе" |  |
-| 11 | Вика | Мой храбрый круассан. | My brave croissant. | #316 "мой храбрый круассан" |  |
+| 1 | Макс | А я кто? | And what am I? | #313: А я кто | verbatim |
+| 2 | Макс | Круассан или сельдерей? | A croissant or celery? | #313: Круассан или сельдерей | verbatim |
+| 3 | Вика | Ну, конечно, круассан. | Well, of course a croissant. | #314: Ну, конечно, круассан | verbatim |
+| 4 | Макс | Почему круассан? | Why a croissant? | new | new |
+| 5 | Макс | Я же не ем мучное. | I don't eat flour products. | #315: Я же не ем мучную | verbatim |
+| 6 | Вика | Ты спас наш ресторан. | You saved our restaurant. | new | new |
+| 7 | Вика | Ты молодец, Макс. | You did great, Max. | new | new |
+| 8 | Макс | Я просто сделал свою работу. | I just did my job. | new | new |
+| 9 | Вика | Нет, это было круто. | No, it was cool. | new | new |
+| 10 | Вика | Ты очень помог мне. | You helped me a lot. | new | new |
+| 11 | Вика | Спасибо тебе. | Thank you. | #316: Спасибо тебе | verbatim |
+| 12 | Вика | Мой храбрый круассан. | My brave croissant. | #316: мой храбрый круассан | verbatim |
 
-## Part 5 — Outro & closing
+## Walk-through narration (English only, no target-language words quoted)
 
-> They share a warm moment of mutual respect. Next time you watch the episode, listen for the Russian expressions for 'croissant' and 'celery' — you will catch every word right away. See you next time!
-
-**Вика:** Пока!
+- 'And what am I?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'A croissant or celery?' Russian omits the present-tense verb 'to be', connecting 'a croissant' directly with 'celery'.
+- 'Well, of course a croissant.' Russian omits the present-tense verb 'to be' here, linking 'of course' directly with 'a croissant', combining 'of course' with 'a croissant'.
+- 'Why a croissant?' Russian omits the present-tense verb 'to be' here, linking 'why' directly with 'a croissant', combining 'why' with 'a croissant'.
+- 'I don' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
+- 'You saved our restaurant.' Vika uses the action verb meaning 'saved' to focus on the single completed result, pairing it with 'restaurant'.
+- 'You did great, Max.' Vika uses the informal everyday 'you' here with 'Max', as friends and close colleagues do.
+- 'I just did my job.' Max expresses this naturally by combining the word for 'just' with 'did' and 'job'.
+- 'No, it was cool.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'You helped me a lot.' Vika uses the informal everyday 'you' here with 'to me', as friends and close colleagues do.
+- 'Thank you.' Vika delivers a punchy one-word reaction built around the Russian word meaning 'thank you'.
+- 'My brave croissant.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'brave' straight to 'a croissant'.

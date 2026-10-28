@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Шеф | Сказали, будет к четырем, а уже почти пять. | They said they would be here by four, and it is already almost five. | #299 00:20:49: Сказали, будет к четырем. А уже почти пять | adapted: exact |
-| 2 | Шеф | И трубку никто не берет. | And nobody is picking up the phone. | #300 00:20:52: И трубку никто не берет | adapted: exact |
-| 3 | Шеф | Это Москва, пробки. | This is Moscow, traffic jams. | #301 00:20:54: Москва, пробки | adapted: adapted |
-| 4 | Элеонора | Я не поняла, почему ресторан закрыт? | I do not understand, why is the restaurant closed? | #304 00:21:01: Я не поняла, почему ресторан закрыт? | adapted: exact |
-| 5 | Элеонора | А вот заместитель мэра у нас проверку устраивает. | Here the deputy mayor is conducting an inspection at our place. | #305 00:21:05: А вот заместитель мэра<br>#306 00:21:09: у нас устраивает | adapted: adapted |
-| 6 | Элеонора | Хочу его накормить, чтобы был добрее. | I want to feed him so that he will be kinder. | #307 00:21:12: Хочу его накормить, чтобы был добрее | adapted: exact |
-| 7 | Шеф | Михаил, управляющий отелем, очень приятно. | Mikhail, hotel manager, very pleased to meet you. | #308 00:21:16: Михаил, управляющий отелем. Очень приятно | adapted: exact |
-| 8 | Элеонора | Такие ребрышки, как здесь, в префектуре не подают. | Ribs like the ones here are not served at the prefecture. | #310 00:21:22: такие ребрышки, как здесь, в префектуре не подают | adapted: adapted |
-| 9 | Элеонора | Это мой ресторан, и я решаю, что здесь едят. | This is my restaurant, and I decide what people eat here. | #314 00:21:35: Потому что это мой ресторан, и я решаю, что здесь едят | adapted: adapted |
-| 10 | Шеф | Решаешь ты, а готовлю я! | You decide, but I do the cooking! | #315 00:21:40: Решаешь ты, а готовлю я | adapted: exact |
-| 11 | Шеф | И если я говорю, что нам нужна авторская кухня, значит, она нужна. | And if I say that we need auteur cuisine, then we need it. | #316 00:21:43: И если я говорю, что нам нужна авторская кухня, значит, она нужна | adapted: exact |
-| 12 | Элеонора | Спорите, чем нас угощать? | Are you arguing over what to treat us with? | #318 00:21:50: Спорите, чем нас угощать? | adapted: exact |
+| 1 | Михаил | Сказали, будет к четырем, а уже почти пять. | They said they would be here by four, and it is already almost five. | #299: Сказали, будет к четырем. А уже почти пять | adapted: exact |
+| 2 | Шеф | И трубку никто не берет. | And nobody is picking up the phone. | #300: И трубку никто не берет | adapted: exact |
+| 3 | Михаил | Это Москва, пробки. | This is Moscow, traffic jams. | #301: Москва, пробки | adapted: adapted |
+| 4 | Элеонора | Я не поняла, почему ресторан закрыт? | I do not understand, why is the restaurant closed? | #304: Я не поняла, почему ресторан закрыт? | adapted: exact |
+| 5 | Элеонора | А вот заместитель мэра у нас проверку устраивает. | Here the deputy mayor is conducting an inspection at our place. | #305: А вот заместитель мэра<br>#306: у нас устраивает | adapted: adapted |
+| 6 | Элеонора | Хочу его накормить, чтобы был добрее. | I want to feed him so that he will be kinder. | #307: Хочу его накормить, чтобы был добрее | adapted: exact |
+| 7 | Михаил | Михаил, управляющий отелем, очень приятно. | Mikhail, hotel manager, very pleased to meet you. | #308: Михаил, управляющий отелем. Очень приятно | adapted: exact |
+| 8 | Элеонора | Такие ребрышки, как здесь, в префектуре не подают. | Ribs like the ones here are not served at the prefecture. | #310: такие ребрышки, как здесь, в префектуре не подают | adapted: adapted |
+| 9 | Элеонора | Это мой ресторан, и я решаю, что здесь едят. | This is my restaurant, and I decide what people eat here. | #314: Потому что это мой ресторан, и я решаю, что здесь едят | adapted: adapted |
+| 10 | Шеф | Решаешь ты, а готовлю я! | You decide, but I do the cooking! | #315: Решаешь ты, а готовлю я | adapted: exact |
+| 11 | Шеф | И если я говорю, что нам нужна авторская кухня, значит, она нужна. | And if I say that we need auteur cuisine, then we need it. | #316: И если я говорю, что нам нужна авторская кухня, значит, она нужна | adapted: exact |
+| 12 | Элеонора | Спорите, чем нас угощать? | Are you arguing over what to treat us with? | #318: Спорите, чем нас угощать? | adapted: exact |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'They said they would be here by four, and it is already almost five.' The plural past ending '-li' on the verb for 'told' covers a group or the polite 'you'. Chef Barinov answers right away.
-- 'And nobody is picking up the phone.' Chef Barinov brings out the contrast between 'and' and 'receiver' in a few short words.
-- 'This is Moscow, traffic jams.' Mikhail brings out the contrast between 'this' and 'traffic jams' in a few short words.
-- 'I do not understand, why is the restaurant closed?' Eleonora raises the pitch on 'closed' to turn the phrase into a direct spoken question.
-- 'Here the deputy mayor is conducting an inspection at our place.' Eleonora anchors the line on 'and', while 'to organize' completes the thought.
-- 'I want to feed him so that he will be kinder.' The grammar packs 'want' and 'kinder' into a tight, idiomatic kitchen exchange.
-- 'Mikhail, hotel manager, very pleased to meet you.' In Russian, the idea of 'Mikhail' flows naturally into 'pleasant' without extra filler words. Eleonora answers right away.
-- 'Ribs like the ones here are not served at the prefecture.' Here the Russian phrasing highlights 'such' before landing on 'serve'.
-- 'This is my restaurant, and I decide what people eat here.' Notice how Russian expresses 'this' and 'eat' with crisp inflection rather than helper words.
-- 'You decide, but I do the cooking!' An emphatic spoken line centered on the verb meaning 'to decide'.
-- 'And if I say that we need auteur cuisine, then we need it.' Chef Barinov brings out the contrast between 'and' and 'if' in a few short words.
-- 'Are you arguing over what to treat us with?' In Russian, the idea of 'argue' flows naturally into 'to treat' without extra filler words.
+- 'They said they would be here by four, and it is already almost five.' Pointing out that they said they would be here by four and it is already almost five gives Barinov a sobering reality check.
+- 'And nobody is picking up the phone.' Barinov explains that nobody is picking up the phone, keeping his voice calm and direct.
+- 'This is Moscow, traffic jams.' Realizing that this is Moscow traffic jams changes how Mikhail handles the situation. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'I do not understand, why is the restaurant closed?' Eleonora asks whether she does not understand why is the restaurant closed, refusing to let the point slide. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Here the deputy mayor is conducting an inspection at our place.' Even though here the deputy mayor is conducting an inspection at their place, Eleonora keeps a steady face in front of Barinov.
+- 'I want to feed him so that he will be kinder.' Admitting that she wants to feed him so that he will be kinder shows Eleonora being honest for a change.
+- 'Mikhail, hotel manager, very pleased to meet you.' Around the menu and kitchen, Mikhail sets a calm, everyday tone with Barinov.
+- 'Ribs like the ones here are not served at the prefecture.' Once ribs like the ones here are not served at the prefecture, Eleonora can finally tell Barinov what she means.
+- 'This is my restaurant, and I decide what people eat here.' Adding that this is her restaurant and she decides what people eat here fills in the missing piece for Barinov. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'You decide, but I do the cooking!' Barinov insists that Eleonora decides but he does the cooking, leaving Eleonora no room to argue. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'And if I say that we need auteur cuisine, then we need it.' Since if he says that they need auteur cuisine then they need it, Barinov does not waste words on excuses.
+- 'Are you arguing over what to treat us with?' Asking whether Barinov arguing over what to treat them cuts straight through the tension between Eleonora and Barinov. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.

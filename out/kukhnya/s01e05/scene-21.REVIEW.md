@@ -1,40 +1,41 @@
-# Запара в голове  (Rush in the Head) — `kukhnya-s01e05-scene-21`
+# kukhnya-s01e05-scene-21: review sheet
 
-**Source:** Кухня (Kukhnya) S1.05 · `sources/kukhnya/s01/e05.ru.dual.srt`  
-**Target level:** A1 — Duolingo Section 2
+Title: Запара в голове  (Rush in the Head)
+Level: A1 — Duolingo Section 2
+Pair: ru-en
+Source: Кухня (Kukhnya) S1.05
 
-## Cast
 
-| Role | Voice | Label |
-|---|---|---|
-| `narrator` | sky | — |
-| `fedya` | anja | Федя |
-| `anya` | alisa | Макс |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 1 — Intro
-
-> During the overwhelming evening rush at Claude Monet, orders pile up endlessly and Max finds himself pushed to the absolute breaking point. Taking pity on the rookie, seasoned fish cook Fedya steps up to his station to teach him the ultimate golden rule of kitchen survival. Let's listen to their conversation in Russian first.
-
-## Part 2 — Story
-
-| # | Speaker | Line | English | Source cue(s) | Change |
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 0 | Федя | Ладно, новичок, отойди немного в сторону. | Alright, newcomer, step aside a little. | #306 "Ладно" |  |
-| 1 | Федя | Подвинься давай, я помогу тебе. | Move over, come on, I will help you. | #307 "Подвинься давай." |  |
-| 2 | Макс | Федя, спасибо, у меня ничего не получается! | Fedya, thank you, nothing is working out for me! | *(added)* |  |
-| 3 | Федя | Сейчас главное — полностью успокоиться. | Right now the main thing is to completely calm down. | #308 "Нужно расслабиться." |  |
-| 4 | Федя | Сделай глубокий вдох. | Take a deep breath. | #308 "Вдох." |  |
-| 5 | Федя | А теперь медленный выдох. | And now a slow exhale. | #309 "Выдох." |  |
-| 6 | Федя | И навсегда запомни главное правило. | And forever remember the main rule. | #310 "И запомнить." |  |
-| 7 | Федя | Запара бывает не на кухне. | The rush does not happen in the kitchen. | #311 "на кухне." |  |
-| 8 | Федя | Настоящая запара всегда только в голове! | The real rush is always only in your head! | #312 "Запара в голове." |  |
-| 9 | Макс | Но заказы идут каждую минуту! | But orders keep coming every minute! | *(added)* |  |
-| 10 | Федя | Делай каждое блюдо по очереди. | Make each dish in turn. | *(added)* |  |
-| 11 | Макс | Хорошо, я понял твой совет. | Alright, I understood your advice. | *(added)* |  |
-| 12 | Федя | Тогда начинай готовить спокойно! | Then begin to cook calmly! | *(added)* |  |
+| 1 | Федя | Ладно, новичок, отойди немного в сторону. | Alright, newcomer, step aside a little. | #306: Ладно | verbatim |
+| 2 | Федя | Подвинься давай, я помогу тебе. | Move over, come on, I will help you. | #307: Подвинься давай. | verbatim |
+| 3 | Макс | Федя, спасибо, у меня ничего не получается! | Fedya, thank you, nothing is working out for me! | new | new |
+| 4 | Федя | Сейчас главное — полностью успокоиться. | Right now the main thing is to completely calm down. | #308: Нужно расслабиться. | verbatim |
+| 5 | Федя | Сделай глубокий вдох. | Take a deep breath. | #308: Вдох. | verbatim |
+| 6 | Федя | А теперь медленный выдох. | And now a slow exhale. | #309: Выдох. | verbatim |
+| 7 | Федя | И навсегда запомни главное правило. | And forever remember the main rule. | #310: И запомнить. | verbatim |
+| 8 | Федя | Запара бывает не на кухне. | The rush does not happen in the kitchen. | #311: на кухне. | verbatim |
+| 9 | Федя | Настоящая запара всегда только в голове! | The real rush is always only in your head! | #312: Запара в голове. | verbatim |
+| 10 | Макс | Но заказы идут каждую минуту! | But orders keep coming every minute! | new | new |
+| 11 | Федя | Делай каждое блюдо по очереди. | Make each dish in turn. | new | new |
+| 12 | Макс | Хорошо, я понял твой совет. | Alright, I understood your advice. | new | new |
+| 13 | Федя | Тогда начинай готовить спокойно! | Then begin to cook calmly! | new | new |
 
-## Part 5 — Outro & closing
+## Walk-through narration (English only, no target-language words quoted)
 
-> Equipped with Fedya's invaluable advice, Max steadies his hands and prepares to clear the rush. Next time you watch the episode, listen for the Russian expressions for 'dish' and 'to happen' — you will catch every word right away. See you next time!
-
-**Федя:** Пока!
+- 'Alright, newcomer, step aside a little.' Fedya takes charge of the crowded workspace with calm authority.
+- 'Move over, come on, I will help you.' The experienced line cook generously offers practical assistance.
+- 'Fedya, thank you, nothing is working out for me!' Max gratefully admits his helplessness amid the tickets.
+- 'Right now the main thing is to completely calm down.' Fedya emphasizes emotional control over panic.
+- 'Take a deep breath.' Fedya guides his young colleague through a simple centering exercise.
+- 'And now a slow exhale.' The veteran chef ensures Max releases the mounting physical tension.
+- 'And forever remember the main rule.' Fedya prepares to impart essential professional wisdom.
+- 'The rush does not happen in the kitchen.' Fedya begins dismantling the illusion of external chaos.
+- 'The real rush is always only in your head!' The seasoned cook reveals the psychological secret to handling pressure.
+- 'But orders keep coming every minute!' Max vocalizes the anxiety caused by the relentless printer.
+- 'Make each dish in turn.' Fedya reminds him that steady sequential focus conquers any pile of tickets.
+- 'Alright, I understood your advice.' Max internalizes the lesson and regains his composure.
+- 'Then begin to cook calmly!' Fedya gives the green light to restart work with confidence.

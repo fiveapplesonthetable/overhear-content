@@ -7,7 +7,6 @@ SCENE = 19
 TITLE = 'Le couple improbable  (The Improbable Couple)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'guillaume': 'theo', 'sigourney': 'emilie'}
 LABELS = {'guillaume': 'Guillaume', 'sigourney': 'Sigourney'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e05.fr.dual.srt'

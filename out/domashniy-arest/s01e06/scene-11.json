@@ -8,13 +8,9 @@
  "scene": 11,
  "title": "Начнём со стирки  (We'll Start with the Laundry)",
  "level": "A1 — Duolingo Section 2",
- "voices": {
-  "narrator": "sky",
-  "anya": "alisa",
-  "marina": "angelina"
- },
  "labels": {
-  "anya": "Аркадий",
+  "arkady": "Аркадий",
+  "klavdia": "Клавдия Викторовна",
   "marina": "Марина"
  },
  "segments": [
@@ -29,22 +25,22 @@
    "gap": 0.55
   },
   {
-   "v": "anya",
+   "v": "arkady",
    "t": "А зачем вам ехать? Оставайтесь дома.",
    "gap": 0.55
   },
   {
-   "v": "anya",
+   "v": "arkady",
    "t": "Да я профессор в этом деле! Не то что ваш дядя Эдик.",
    "gap": 0.55
   },
   {
-   "v": "anya",
+   "v": "arkady",
    "t": "Марина, я могу быть очень нежным и ласковым.",
    "gap": 0.55
   },
   {
-   "v": "anya",
+   "v": "arkady",
    "t": "Послушайте, ну дайте мне ещё один шанс!",
    "gap": 0.55
   },
@@ -54,12 +50,12 @@
    "gap": 0.55
   },
   {
-   "v": "anya",
+   "v": "arkady",
    "t": "Ладно, ну займите тогда хотя бы денег.",
    "gap": 0.55
   },
   {
-   "v": "anya",
+   "v": "arkady",
    "t": "Пять тысяч рублей. Я подругу приглашу.",
    "gap": 0.55
   },
@@ -69,7 +65,7 @@
    "gap": 0.55
   },
   {
-   "v": "anya",
+   "v": "arkady",
    "t": "А я вас, между прочим, спас от коллекторов!",
    "gap": 0.55
   },
@@ -79,27 +75,27 @@
    "gap": 0.55
   },
   {
-   "v": "marina",
+   "v": "klavdia",
    "t": "Аркаша, я же тебе могу пять тысяч дать.",
    "gap": 0.55
   },
   {
-   "v": "marina",
+   "v": "klavdia",
    "t": "На подружку твою! Только тебе придётся их отработать.",
    "gap": 0.55
   },
   {
-   "v": "anya",
+   "v": "arkady",
    "t": "Вот это неожиданно! Ягодка вы моя!",
    "gap": 0.55
   },
   {
-   "v": "anya",
+   "v": "arkady",
    "t": "Да я на всё готов! Командуйте.",
    "gap": 0.55
   },
   {
-   "v": "marina",
+   "v": "klavdia",
    "t": "Начнём со стирки. Пошли.",
    "gap": 0.9
   },
@@ -129,7 +125,7 @@
    "gap": 0.4
   },
   {
-   "v": "anya",
+   "v": "arkady",
    "t": "А зачем вам ехать?",
    "gap": 0.55
   },
@@ -139,7 +135,7 @@
    "gap": 0.4
   },
   {
-   "v": "anya",
+   "v": "arkady",
    "t": "Оставайтесь дома.",
    "gap": 0.55
   },
@@ -149,7 +145,7 @@
    "gap": 0.4
   },
   {
-   "v": "anya",
+   "v": "arkady",
    "t": "Да я профессор в этом деле!",
    "gap": 0.55
   },
@@ -159,7 +155,7 @@
    "gap": 0.4
   },
   {
-   "v": "anya",
+   "v": "arkady",
    "t": "Не то что ваш дядя Эдик.",
    "gap": 0.55
   },
@@ -169,7 +165,7 @@
    "gap": 0.4
   },
   {
-   "v": "anya",
+   "v": "arkady",
    "t": "Марина, я могу быть очень нежным и ласковым.",
    "gap": 0.55
   },
@@ -179,13 +175,13 @@
    "gap": 0.4
   },
   {
-   "v": "anya",
+   "v": "arkady",
    "t": "Послушайте, ну дайте мне ещё один шанс!",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Listen, just give me one more chance!' Marina cuts him off in the corridor and tells him to stop.",
+   "t": "'Listen, just give me one more chance!' In this moment, Marina cuts him off in the corridor and tells him to stop.",
    "gap": 0.4
   },
   {
@@ -199,7 +195,7 @@
    "gap": 0.4
   },
   {
-   "v": "anya",
+   "v": "arkady",
    "t": "Ладно, ну займите тогда хотя бы денег.",
    "gap": 0.55
   },
@@ -209,7 +205,7 @@
    "gap": 0.4
   },
   {
-   "v": "anya",
+   "v": "arkady",
    "t": "Пять тысяч рублей.",
    "gap": 0.55
   },
@@ -219,13 +215,13 @@
    "gap": 0.4
   },
   {
-   "v": "anya",
+   "v": "arkady",
    "t": "Я подругу приглашу.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'I'll invite a female friend over.' Marina ignores him and takes her son by the hand.",
+   "t": "'I'll invite a female friend over.' Right then, Marina ignores him and takes her son by the hand.",
    "gap": 0.4
   },
   {
@@ -239,7 +235,7 @@
    "gap": 0.4
   },
   {
-   "v": "anya",
+   "v": "arkady",
    "t": "А я вас, между прочим, спас от коллекторов!",
    "gap": 0.55
   },
@@ -259,17 +255,17 @@
    "gap": 0.4
   },
   {
-   "v": "marina",
+   "v": "klavdia",
    "t": "Аркаша, я же тебе могу пять тысяч дать.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Arkasha, I can give you five thousand, after all.' Arkady blinks in surprise, and she adds her condition.",
+   "t": "'Arkasha, I can give you five thousand, after all.' In response, Arkady blinks in surprise, and she adds her condition.",
    "gap": 0.4
   },
   {
-   "v": "marina",
+   "v": "klavdia",
    "t": "На подружку твою!",
    "gap": 0.55
   },
@@ -279,7 +275,7 @@
    "gap": 0.4
   },
   {
-   "v": "marina",
+   "v": "klavdia",
    "t": "Только тебе придётся их отработать.",
    "gap": 0.55
   },
@@ -289,7 +285,7 @@
    "gap": 0.4
   },
   {
-   "v": "anya",
+   "v": "arkady",
    "t": "Вот это неожиданно!",
    "gap": 0.55
   },
@@ -299,7 +295,7 @@
    "gap": 0.4
   },
   {
-   "v": "anya",
+   "v": "arkady",
    "t": "Ягодка вы моя!",
    "gap": 0.55
   },
@@ -309,7 +305,7 @@
    "gap": 0.4
   },
   {
-   "v": "anya",
+   "v": "arkady",
    "t": "Да я на всё готов!",
    "gap": 0.55
   },
@@ -319,17 +315,17 @@
    "gap": 0.4
   },
   {
-   "v": "anya",
+   "v": "arkady",
    "t": "Командуйте.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Give the orders.' Klavdia Viktorovna points down the corridor toward a mountain of washing.",
+   "t": "'Give the orders.' In response, Klavdia Viktorovna points down the corridor toward a mountain of washing.",
    "gap": 0.4
   },
   {
-   "v": "marina",
+   "v": "klavdia",
    "t": "Начнём со стирки.",
    "gap": 0.55
   },
@@ -339,7 +335,7 @@
    "gap": 0.4
   },
   {
-   "v": "marina",
+   "v": "klavdia",
    "t": "Пошли.",
    "gap": 0.55
   },
@@ -354,22 +350,22 @@
    "gap": 0.5
   },
   {
-   "v": "anya",
+   "v": "arkady",
    "t": "А зачем вам ехать? Оставайтесь дома.",
    "gap": 0.5
   },
   {
-   "v": "anya",
+   "v": "arkady",
    "t": "Да я профессор в этом деле! Не то что ваш дядя Эдик.",
    "gap": 0.5
   },
   {
-   "v": "anya",
+   "v": "arkady",
    "t": "Марина, я могу быть очень нежным и ласковым.",
    "gap": 0.5
   },
   {
-   "v": "anya",
+   "v": "arkady",
    "t": "Послушайте, ну дайте мне ещё один шанс!",
    "gap": 0.5
   },
@@ -379,12 +375,12 @@
    "gap": 0.5
   },
   {
-   "v": "anya",
+   "v": "arkady",
    "t": "Ладно, ну займите тогда хотя бы денег.",
    "gap": 0.5
   },
   {
-   "v": "anya",
+   "v": "arkady",
    "t": "Пять тысяч рублей. Я подругу приглашу.",
    "gap": 0.5
   },
@@ -394,7 +390,7 @@
    "gap": 0.5
   },
   {
-   "v": "anya",
+   "v": "arkady",
    "t": "А я вас, между прочим, спас от коллекторов!",
    "gap": 0.5
   },
@@ -404,27 +400,27 @@
    "gap": 0.5
   },
   {
-   "v": "marina",
+   "v": "klavdia",
    "t": "Аркаша, я же тебе могу пять тысяч дать.",
    "gap": 0.5
   },
   {
-   "v": "marina",
+   "v": "klavdia",
    "t": "На подружку твою! Только тебе придётся их отработать.",
    "gap": 0.5
   },
   {
-   "v": "anya",
+   "v": "arkady",
    "t": "Вот это неожиданно! Ягодка вы моя!",
    "gap": 0.5
   },
   {
-   "v": "anya",
+   "v": "arkady",
    "t": "Да я на всё готов! Командуйте.",
    "gap": 0.5
   },
   {
-   "v": "marina",
+   "v": "klavdia",
    "t": "Начнём со стирки. Пошли.",
    "gap": 0.9
   },
@@ -434,7 +430,7 @@
    "gap": 0.5
   },
   {
-   "v": "marina",
+   "v": "klavdia",
    "t": "Пока!",
    "gap": 0.3
   }

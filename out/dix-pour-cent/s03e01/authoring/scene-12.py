@@ -7,32 +7,31 @@ SCENE = 12
 TITLE = "L'homme des bois  (The Wild Man)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'jean': 'theo', 'lea': 'lucie'}
-LABELS = {'jean': 'Jean', 'lea': 'Andréa'}
+LABELS = {'andrea': 'Andréa', 'jean': 'Jean'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e01.fr.dual.srt'
 INTRO = "Andrea visits the estate of star client Jean Dujardin after his family raises urgent concerns. Still deeply immersed in his wilderness movie role, Jean is camping outside in the woods and refusing all modern comforts. Let's listen to their conversation in French first."
 OPENER = "Let's explore the conversation line by line and unpack the French phrases."
 TRANSITION = "Now let's listen to the entire dialogue once more to lock in what you have learned."
 OUTRO = "Andrea tracks down Jean Dujardin camping outside in his garden. When you watch the episode, listen out for the expressions meaning 'was necessary' and 'travel'. You'll catch them now. See you next time!"
-CLOSING = ('lea', 'Au revoir!')
+CLOSING = ('andrea', 'Au revoir!')
 STORY = [
-    ('lea', 'Jean? Tu es là?', 'Jean? Are you there?', [(293, 'Jean ?')], ''),
+    ('andrea', 'Jean? Tu es là?', 'Jean? Are you there?', [(293, 'Jean ?')], ''),
     ('jean', 'Hein? Eh, Andréa!', 'Huh? Hey, Andrea!', [(294, 'Hein ?'), (295, 'Eh, Andréa !')], ''),
     ('jean', 'Il ne fallait pas te déplacer.', 'You should not have traveled out here.', [(296, 'Fallait pas te déplacer,')], ''),
-    ('lea', 'Mais il y a une vraie urgence pour toi!', 'But there is a real emergency for you!', [(297, 'il y a urgence, là,')], ''),
-    ('lea', "Tu as besoin d'une douche immédiatement.", 'You need a shower immediately.', [(297, 'douche, pressing,')], ''),
+    ('andrea', 'Mais il y a une vraie urgence pour toi!', 'But there is a real emergency for you!', [(297, 'il y a urgence, là,')], ''),
+    ('andrea', "Tu as besoin d'une douche immédiatement.", 'You need a shower immediately.', [(297, 'douche, pressing,')], ''),
     ('jean', "Oui, c'est ce que me dit ma femme aussi.", 'Yes, that is what my wife tells me too.', [(298, "c'est ce que me dit ma femme, aussi,")], ''),
     ('jean', "Ne t'inquiète pas, ce n'est pas grave.", 'Do not worry, it is not serious.', [(299, "T'inquiète pas, c'est pas grave.")], ''),
     ('jean', "C'est l'odeur naturelle de la terre.", 'It is the natural smell of the earth.', [(300, "C'est l'odeur de la terre,")], ''),
-    ('lea', "Non, c'est plutôt une odeur de putréfaction.", 'No, it is rather a smell of putrefaction.', [(301, 'De la putréfaction.')], ''),
+    ('andrea', "Non, c'est plutôt une odeur de putréfaction.", 'No, it is rather a smell of putrefaction.', [(301, 'De la putréfaction.')], ''),
     ('jean', 'Vous vivez dans un monde tellement aseptisé!', 'You live in such a sanitized world!', [(302, 'Vous vivez dans un monde qui est tellement aseptisé,')], ''),
     ('jean', "Regarde là-haut, c'est une buse.", 'Look up there, that is a buzzard.', [(303, "Ça, c'est une buse,")], ''),
     ('jean', 'Tu vois comme elle tourne en rond?', 'Do you see how it circles around?', [(304, 'Tu vois, elle tourne autour.')], ''),
     ('jean', 'Elle vient pour me voler quelque chose.', 'It is coming to steal something from me.', [(305, 'Elle vient me chourer,')], ''),
-    ('lea', 'Jean, tu as un rendez-vous important demain.', 'Jean, you have an important meeting tomorrow.', [(297, 'il y a urgence, là,')], ''),
+    ('andrea', 'Jean, tu as un rendez-vous important demain.', 'Jean, you have an important meeting tomorrow.', [(297, 'il y a urgence, là,')], ''),
     ('jean', 'Ici, je me sens libre et vivant.', 'Here, I feel free and alive.', [(300, "C'est l'odeur de la terre,")], ''),
-    ('lea', 'Tu dois redevenir un acteur maintenant.', 'You must become an actor again now.', [(296, "je suis passé à l'agence.")], ''),
+    ('andrea', 'Tu dois redevenir un acteur maintenant.', 'You must become an actor again now.', [(296, "je suis passé à l'agence.")], ''),
 ]
 WALK = [
     (0, None, "'Jean? Are you there?' Andrea calls out into the dense garden foliage. Andrea uses the casual singular 'you' with 'this line', showing close familiarity."),

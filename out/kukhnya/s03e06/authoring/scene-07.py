@@ -1,18 +1,20 @@
+# Authoring module for kukhnya-s03e06-scene-07.
 ID = 'kukhnya-s03e06-scene-07'
 SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 6
 SCENE = 7
-TITLE = "Прятки в ванной  (Hiding in the Bathroom)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Прятки в ванной  (Hiding in the Bathroom)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "vika": "angelina", "kostya": "anja", "anya": "alisa"}
-LABELS = {"vika": "Вика", "kostya": "Костя", "anya": "Макс"}
+LABELS = {'kostya': 'Костя', 'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S3.06'
 SOURCE_FILE = 'sources/kukhnya/s03/e06.ru.srt'
-
 INTRO = "Kostya calls Max's phone, which is sitting in Vika's living room. Vika brings the phone to the bathroom, scolds Max for being a coward, and accidentally slips."
-
+OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
+TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
+OUTRO = 'Hearing Vika cry out when she slips in the bathroom, Nagiyev rushes inside and opens the bathroom door. Until next time!'
+CLOSING = ('vika', 'До встречи!')
 STORY = [
     ('kostya', 'Макс, чего ты там молчишь?', 'Max, why are you keeping silent there?', [(104, 'Чего ты молчишь')], 'adapted'),
     ('kostya', 'Ты же сегодня не ночевал дома.', 'After all, you did not spend the night at home today.', [(105, 'ты не ночевал дома')], 'adapted'),
@@ -23,28 +25,21 @@ STORY = [
     ('vika', 'Возьми, это тебе Костя звонит.', 'Take it, that is Kostya calling you.', [(111, 'Костя звонит')], 'adapted'),
     ('vika', 'А ты ещё и трус, оказывается.', 'And it turns out you are a coward too.', [(112, 'А ты еще и трус, оказывается')], 'adapted'),
     ('vika', 'Как я вообще могла в тебя влюбиться?', 'How could I ever fall in love with you at all?', [(113, 'Как я вообще могла в тебя влюбиться')], 'adapted'),
-    ('anya', 'Да успокойся ты наконец.', 'Oh calm down finally.', [(114, 'Да успокойся ты')], 'adapted'),
+    ('max', 'Да успокойся ты наконец.', 'Oh calm down finally.', [(114, 'Да успокойся ты')], 'adapted'),
     ('vika', 'Ой, кажется, я упала!', 'Oh, it seems I fell!', [(115, 'Ой')], 'adapted'),
-    ('anya', 'Вика, может, я тебе помогу?', 'Vika, maybe I can help you?', [(116, 'Может')], 'adapted'),
+    ('max', 'Вика, может, я тебе помогу?', 'Vika, maybe I can help you?', [(116, 'Может')], 'adapted'),
 ]
-
-OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
-
 WALK = [
-    (0, None, "'Max, why are you keeping silent there?' Here the Russian phrasing highlights 'Max' before landing on 'keep silent'."),
-    (1, None, "'After all, you did not spend the night at home today.' Kostya pairs 'tonight' with 'at home' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'."),
-    (2, None, "'I see you managed after all today.' Here the Russian phrasing highlights 'see' before landing on 'succeeded'."),
-    (3, None, "'And Vika did not interfere this time.' Notice how Russian expresses 'and' and 'time' with crisp inflection rather than helper words."),
-    (4, None, "'Hello, dear Kostya.' The meaning hinges on 'hello' working together with 'Kostya' in spoken Russian."),
-    (5, None, "'Oh, I will call you back later.' Kostya chooses the respectful plural 'you' alongside 'will call back' to keep a polite distance. Vika answers right away."),
-    (6, None, "'Take it, that is Kostya calling you.' Vika brings out the contrast between 'take' and 'this' in a few short words."),
-    (7, None, "'And it turns out you are a coward too.' Notice how Russian expresses 'and' and 'to turn out to be' with crisp inflection rather than helper words."),
-    (8, None, "'How could I ever fall in love with you at all?' Vika raises the pitch on 'fall in love' to turn the phrase into a direct spoken question. Max answers right away."),
-    (9, None, "'Oh calm down finally.' Notice how Russian expresses 'yes' and 'finally' with crisp inflection rather than helper words."),
-    (10, None, "'Oh, it seems I fell!' Vika anchors the line on 'oh', while 'to fall' completes the thought."),
-    (11, None, "'Vika, maybe I can help you?' Notice how Russian expresses 'Vika' and 'will help' with crisp inflection rather than helper words."),
+    (0, None, "'Max, why are you keeping silent there?' Wondering why Max keeping silent there is cuts straight through the tension between Kostya and Max."),
+    (1, None, '\'After all, you did not spend the night at home today.\' Even though after all Max did not spend the night at home today, Kostya keeps a steady face in front of Max. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
+    (2, None, '\'I see you managed after all today.\' Since he sees Max managed after all today, Kostya does not waste words on excuses. Speaking with the close, informal "you" strips away any polite distance between them.'),
+    (3, None, "'And Vika did not interfere this time.' Saying that Vika did not interfere this time is how Kostya sets the tone with Max."),
+    (4, None, "'Hello, dear Kostya.' Between the call and the work, Vika gives Kostya a quick, grounded response."),
+    (5, None, '\'Oh, I will call you back later.\' Adding that he will call Max back later fills in the missing piece for Max. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.'),
+    (6, None, "'Take it, that is Kostya calling you.' Mentioning that Kostya should take it that is Kostya calling Kostya moves the talk in a new direction."),
+    (7, None, '\'And it turns out you are a coward too.\' Since it turns out Kostya is a coward, Vika does not waste words on excuses. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
+    (8, None, '\'How could I ever fall in love with you at all?\' Wondering how she ever fall in love with Kostya at all could cuts straight through the tension between Vika and Kostya. Speaking with the close, informal "you" strips away any polite distance between them.'),
+    (9, None, "'Oh calm down finally.' Even though Kostya should calm down finally, Max keeps a steady face in front of Kostya."),
+    (10, None, "'Oh, it seems I fell!' Once it seems she fell, Vika makes sure Kostya hears every word. Russian puts the key word right up front so her emotion lands on the first beat."),
+    (11, None, '\'Vika, maybe I can help you?\' Questioning whether maybe he can help Kostya is how Max tests Kostya\'s story. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
 ]
-
-TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Hearing Vika cry out when she slips in the bathroom, Nagiyev rushes inside and opens the bathroom door. Until next time!'
-CLOSING = ("vika", "До встречи!")

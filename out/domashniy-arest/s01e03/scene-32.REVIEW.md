@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Илья Олегович | Прошу внимания. Открылись новые обстоятельства по другому делу. | May I have your attention. New circumstances have come to light in another case. | #1072 00:59:30: Прошу внимания<br>#1073 00:59:33: Открылись новые обстоятельства по другому делу | verbatim |
-| 2 | Илья Олегович | Махинации с недвижимостью по программе «Доступное жильё». | Property fraud in the 'Affordable Housing' programme. | #1074 00:59:37: Махинации с недвижимостью по программе «Доступное жильё» | verbatim |
-| 3 | Илья Олегович | Гражданин Аникеев подозревается в новом преступлении. | Citizen Anikeev is suspected of a new crime. | #1075 00:59:41: гражданин Аникеев подозревается в | adapted: cues 1075-1077 simplified to A1 |
-| 4 | Илья Олегович | Я вынужден отменить своё решение. | I am forced to cancel my decision. | #1078 00:59:58: я вынужден отменить свое решение | adapted: 'По совокупности открывшегося' dropped |
-| 5 | Илья Олегович | Мера пресечения остаётся прежней. Домашний арест! | The preventive measure remains the same. House arrest! | #1079 01:00:06: Мера пресечения остается прежней | adapted: 'Увести' -> 'Домашний арест!' for clarity |
-| 6 | Аня | Как? Ты?! А как же адвокатская тайна? | How? You?! What about lawyer-client secrecy? | #1080 01:00:11: Как? Ты<br>#1080 01:00:11: А как же адвокатская тайна | adapted: insult in cue 1080 dropped |
-| 7 | Илья Олегович | Моя мама пятнадцать лет по этой программе стояла! | My mum waited fifteen years in that programme! | #1081 01:00:19: Моя мама<br>#1081 01:00:19: лет по этой программе<br>#1081 01:00:19: стояла | adapted: crude opening of cue 1081 dropped; '15' written out as 'пятнадцать' |
-| 8 | Илья Олегович | Пятнадцать лет в очереди стояла! Забыли? | She stood in the queue for fifteen years! Did you forget? | #1081 01:00:19: в очереди стояла | adapted: 'Пятнадцать лет' repeated; 'Забыли?' added |
-| 9 | Аня | Илья Олегович! А как же Лютик? | Ilya Olegovich! But what about Lyutik? | #1082 01:00:27: А как же Лютик | adapted: 'Илья Олегович!' added |
-| 10 | Аня | Как же Лютик? Мы же договорились! | What about Lyutik? We had a deal! | #1082 01:00:27: Как же Лютик | adapted: 'Мы же договорились!' added |
-| 11 | Илья Олегович | Заседание суда объявляю закрытым. | I declare the court session closed. | #1083 01:00:32: суда объявляю закрытым | adapted: 'Соседание' (subtitle typo) -> 'Заседание' |
-| 12 | Аня | Оставьте меня в покое! Это какая-то ошибка! | Leave me alone! This is some kind of mistake! | #1085 01:00:44: Оставьте меня в покое. Это какая-то ошибка | adapted: outside the courthouse, to the waiting reporters |
-| 13 | Аня | Отойдите! Без комментариев! Без комментариев! | Step back! No comment! No comment! | #1086 01:00:50: Отойдите<br>#1087 01:00:51: Без комментариев. Без комментариев | verbatim |
+| 1 | Илья Олегович | Прошу внимания. Открылись новые обстоятельства по другому делу. | May I have your attention. New circumstances have come to light in another case. | #1072: Прошу внимания<br>#1073: Открылись новые обстоятельства по другому делу | verbatim |
+| 2 | Илья Олегович | Махинации с недвижимостью по программе «Доступное жильё». | Property fraud in the 'Affordable Housing' programme. | #1074: Махинации с недвижимостью по программе «Доступное жильё» | verbatim |
+| 3 | Илья Олегович | Гражданин Аникеев подозревается в новом преступлении. | Citizen Anikeev is suspected of a new crime. | #1075: гражданин Аникеев подозревается в | adapted: cues 1075-1077 simplified to A1 |
+| 4 | Илья Олегович | Я вынужден отменить своё решение. | I am forced to cancel my decision. | #1078: я вынужден отменить свое решение | adapted: 'По совокупности открывшегося' dropped |
+| 5 | Илья Олегович | Мера пресечения остаётся прежней. Домашний арест! | The preventive measure remains the same. House arrest! | #1079: Мера пресечения остается прежней | adapted: 'Увести' -> 'Домашний арест!' for clarity |
+| 6 | Аркадий | Как? Ты?! А как же адвокатская тайна? | How? You?! What about lawyer-client secrecy? | #1080: Как? Ты<br>#1080: А как же адвокатская тайна | adapted: insult in cue 1080 dropped |
+| 7 | Головкин | Моя мама пятнадцать лет по этой программе стояла! | My mum waited fifteen years in that programme! | #1081: Моя мама<br>#1081: лет по этой программе<br>#1081: стояла | adapted: crude opening of cue 1081 dropped; '15' written out as 'пятнадцать' |
+| 8 | Головкин | Пятнадцать лет в очереди стояла! Забыли? | She stood in the queue for fifteen years! Did you forget? | #1081: в очереди стояла | adapted: 'Пятнадцать лет' repeated; 'Забыли?' added |
+| 9 | Аркадий | Илья Олегович! А как же Лютик? | Ilya Olegovich! But what about Lyutik? | #1082: А как же Лютик | adapted: 'Илья Олегович!' added |
+| 10 | Аркадий | Как же Лютик? Мы же договорились! | What about Lyutik? We had a deal! | #1082: Как же Лютик | adapted: 'Мы же договорились!' added |
+| 11 | Илья Олегович | Заседание суда объявляю закрытым. | I declare the court session closed. | #1083: суда объявляю закрытым | adapted: 'Соседание' (subtitle typo) -> 'Заседание' |
+| 12 | Аркадий | Оставьте меня в покое! Это какая-то ошибка! | Leave me alone! This is some kind of mistake! | #1085: Оставьте меня в покое. Это какая-то ошибка | adapted: outside the courthouse, to the waiting reporters |
+| 13 | Аркадий | Отойдите! Без комментариев! Без комментариев! | Step back! No comment! No comment! | #1086: Отойдите<br>#1087: Без комментариев. Без комментариев | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

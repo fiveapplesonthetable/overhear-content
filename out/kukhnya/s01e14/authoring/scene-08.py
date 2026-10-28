@@ -5,17 +5,16 @@ SEASON = 1
 EPISODE = 14
 SCENE = 8
 TITLE = "Обещание Нагиева  (Nagiyev's Promise)"
-LEVEL = "A1 — Duolingo Section 2"
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "nagiyev": "angelina", "diana": "anja"}
-LABELS = {"nagiyev": "Нагиев", "diana": "Диана"}
+LABELS = {'diana': 'Диана', 'nagiyev': 'Нагиев'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.14'
 SOURCE_FILE = 'sources/kukhnya/s01/e14.ru.dual.srt'
 INTRO = 'In the dining room, restaurant owner Dmitry Nagiyev greets his VIP guest Diana. She excitedly praises the handsome and sociable head chef she just met, unknowingly talking about Max instead of Chef Barinov. Confused but eager to please, Nagiyev agrees to her requests. Let us listen to their conversation in Russian first.'
 OPENER = "Now let us examine Diana and Nagiyev's confusing conversation line by line."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Eager to please his wealthy guest, Nagiyev blindly promises that the chef will cook live in the dining room, setting up a disastrous encounter with the real Barinov. Next time you watch the episode, listen for the Russian expressions for 'always' and 'perfectly' — you will catch every word right away. See you next time!"
-CLOSING = ("nagiyev", "Пока!")
+CLOSING = ('nagiyev', 'Пока!')
 STORY = [
     ('nagiyev', 'Диана, вы как всегда прекрасно пахнете!', 'Diana, you smell wonderful as always!', [(152, 'Дианочка, как всегда, прекрасно, цветете, пахнете.')], ''),
     ('diana', 'Дмитрий, вы такой смешной.', 'Dmitry, you are so funny.', [(155, 'Невечка, вы такой смешной.')], ''),

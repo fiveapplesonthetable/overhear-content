@@ -10,32 +10,32 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Елена | Не Аркадий. | Not Arkady. | #142 00:08:51: не Аркадий | verbatim |
-| 2 | Аня | Это очень личная встреча. | This is a very private meeting. | #143 00:08:53: Это очень личная встреча | verbatim |
-| 3 | Елена | Елена Павловна, это я. | Elena Pavlovna, it is me. | #144 00:08:58: Елена Павловна, это я | verbatim |
-| 4 | Аня | У меня для вас сюрприз. | I have a surprise for you. | #146 00:09:06: У меня для вас сюрприз | verbatim |
-| 5 | Елена | А в чем же сюрприз? | And what is the surprise? | #148 00:09:16: А в чем же сюрприз | verbatim |
-| 6 | Аня | В том, что ресторан не работает? | That the restaurant is closed for the night? | #149 00:09:18: В том, что ресторан не работает | verbatim |
-| 7 | Елена | В том. | Exactly that. | #150 00:09:20: в том | verbatim |
-| 8 | Аня | Извините. Здрасте. | Excuse us. Hello. | #152 00:09:29: Извините. Здрасте | verbatim |
-| 9 | Елена | На рабочем месте. | Right at the workplace. | #154 00:09:37: На рабочем месте | verbatim |
-| 10 | Аня | Какой кошмар. | What a nightmare. | #154 00:09:37: Какой кошмар | verbatim |
-| 11 | Елена | Аморальная молодежь пошла. | Young people nowadays have no morals at all. | #155 00:09:40: Аморальная молодежь пошла | verbatim |
-| 12 | Аня | Превращает ресторан. | Turning a respectable restaurant. | #155 00:09:40: Превращает ресторан | verbatim |
-| 13 | Елена | Я не знаю, во что. | Into I do not know what. | #156 00:09:42: Я не знаю, во что | verbatim |
+| 1 | Елена | Не Аркадий. | Not Arkady. | #142: не Аркадий | verbatim |
+| 2 | Макс | Это очень личная встреча. | This is a very private meeting. | #143: Это очень личная встреча | verbatim |
+| 3 | Елена | Елена Павловна, это я. | Elena Pavlovna, it is me. | #144: Елена Павловна, это я | verbatim |
+| 4 | Макс | У меня для вас сюрприз. | I have a surprise for you. | #146: У меня для вас сюрприз | verbatim |
+| 5 | Елена | А в чем же сюрприз? | And what is the surprise? | #148: А в чем же сюрприз | verbatim |
+| 6 | Макс | В том, что ресторан не работает? | That the restaurant is closed for the night? | #149: В том, что ресторан не работает | verbatim |
+| 7 | Елена | В том. | Exactly that. | #150: в том | verbatim |
+| 8 | Макс | Извините. Здрасте. | Excuse us. Hello. | #152: Извините. Здрасте | verbatim |
+| 9 | Елена | На рабочем месте. | Right at the workplace. | #154: На рабочем месте | verbatim |
+| 10 | Макс | Какой кошмар. | What a nightmare. | #154: Какой кошмар | verbatim |
+| 11 | Елена | Аморальная молодежь пошла. | Young people nowadays have no morals at all. | #155: Аморальная молодежь пошла | verbatim |
+| 12 | Макс | Превращает ресторан. | Turning a respectable restaurant. | #155: Превращает ресторан | verbatim |
+| 13 | Елена | Я не знаю, во что. | Into I do not know what. | #156: Я не знаю, во что | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Not Arkady.' In Russian, the idea of 'not' flows naturally into 'Arkady' without extra filler words. Max answers right away.
-- 'This is a very private meeting.' Here the Russian phrasing highlights 'this' before landing on 'a meeting'.
-- 'Elena Pavlovna, it is me.' The grammar packs 'Elena' and 'I' into a tight, idiomatic kitchen exchange.
-- 'I have a surprise for you.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.
-- 'And what is the surprise?' In spoken Russian, the words stay in their normal statement order and Elena's rising voice at the end turns the line into a question.
-- 'That the restaurant is closed for the night?' Spoken Russian keeps this brisk, leaning on 'that' and finishing on 'works'.
-- 'Exactly that.' Notice how Russian expresses 'that' and 'that' with crisp inflection rather than helper words. Max answers right away.
-- 'Excuse us. Hello.' Max anchors the line on 'excuse me', while 'hello' completes the thought.
-- 'Right at the workplace.' In Russian, the idea of 'on' flows naturally into 'place' without extra filler words.
-- 'What a nightmare.' Here the Russian phrasing highlights 'what' before landing on 'nightmare'. Elena answers right away.
-- 'Young people nowadays have no morals at all.' The meaning hinges on 'immoral' working together with 'went' in spoken Russian.
-- 'Turning a respectable restaurant.' Spoken Russian keeps this brisk, leaning on 'to turn' and finishing on 'restaurant'.
-- 'Into I do not know what.' The negative particle sits right before the verb meaning 'know' to negate the statement.
+- 'Not Arkady.' Over the restaurant and the work, Elena answers Max without a second thought.
+- 'This is a very private meeting.' Explaining that this is a very private meeting lays the cards on the table for Elena.
+- 'Elena Pavlovna, it is me.' Between the restaurant and the truth, Elena gives Max a quick, grounded response. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'I have a surprise for you.' Explaining that he has a surprise for Elena lays the cards on the table for Elena. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
+- 'And what is the surprise?' Asking what the surprise is is how Elena puts Max on the spot.
+- 'That the restaurant is closed for the night?' Max asks whether that the restaurant is closed for the night, refusing to let the point slide. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Exactly that.' Over the office and the conversation, Elena answers Max without a second thought.
+- 'Excuse us. Hello.' By telling Elena to excuse them, Max keeps his side of the story grounded.
+- 'Right at the workplace.' Over the office and the truth, Elena answers Max without a second thought.
+- 'What a nightmare.' Around the kitchen and surprise, Max sets a calm, everyday tone with Elena.
+- 'Young people nowadays have no morals at all.' Saying that young people nowadays have no morals at all is how Elena sets the tone with Max.
+- 'Turning a respectable restaurant.' With the shift and surprise in play, Max keeps this short reply brisk and direct.
+- 'Into I do not know what.' Adding that into she does not know fills in the missing piece for Max.

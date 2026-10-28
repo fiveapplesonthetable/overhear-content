@@ -1,39 +1,39 @@
-# Тоже мне бармен  (Some Bartender You Are) — `kukhnya-s01e02-scene-07`
+# kukhnya-s01e02-scene-07: review sheet
 
-**Source:** Кухня (Kukhnya) S1.02 · `sources/kukhnya/s01/e02.ru.dual.srt`  
-**Target level:** A1 — Duolingo Section 2
+Title: Тоже мне бармен  (Some Bartender You Are)
+Level: A1 — Duolingo Section 2
+Pair: ru-en
+Source: Кухня (Kukhnya) S1.02
 
-## Cast
 
-| Role | Voice | Label |
-|---|---|---|
-| `narrator` | sky | — |
-| `sasha` | anja | Саша |
-| `anya` | alisa | Макс |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 1 — Intro
-
-> At the bar counter of Claude Monet, Max has made a mess while attempting to brew coffee. Waitress Sasha arrives, surveys the spilled milk, and orders him away from the machine. Listen to their playful conversation in Russian first, and then we will review it in English.
-
-## Part 2 — Story
-
-| # | Speaker | Line | English | Source cue(s) | Change |
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 0 | Саша | Что ты тут вообще делаешь? | What are you even doing here? | *(added)* |  |
-| 1 | Макс | Я просто варю кофе для гостей. | I am just brewing coffee for the guests. | *(added)* |  |
-| 2 | Саша | Ты разлил молоко на всю стойку! | You spilled milk all over the counter! | *(added)* |  |
-| 3 | Макс | Я хотел показать красивый фокус. | I wanted to show a neat trick. | *(added)* |  |
-| 4 | Саша | Тоже мне бармен! | Some bartender you are! | #108 "Тоже мне бармен" |  |
-| 5 | Макс | У каждого мастера бывают ошибки. | Every master makes mistakes. | *(added)* |  |
-| 6 | Саша | Проваливай, давай, я сама всё сделаю. | Get lost, go on, I will do everything myself. | #109 "Проваливай, давай, я сама сделаю" |  |
-| 7 | Макс | Ладно, я лучше пойду на кухню. | All right, I had better go to the kitchen. | *(added)* |  |
-| 8 | Саша | И больше никогда не трогай кофемашину! | And never touch the coffee machine again! | *(added)* |  |
-| 9 | Макс | Кухня мне точно ближе, чем этот бар. | The kitchen is definitely closer to my heart than this bar. | *(added)* |  |
-| 10 | Саша | Вот и иди помогать поварам. | Then go help the cooks. | *(added)* |  |
-| 11 | Макс | Уже ухожу, шеф бара! | Leaving already, bar boss! | *(added)* |  |
+| 1 | Саша | Что ты тут вообще делаешь? | What are you even doing here? | new | new |
+| 2 | Макс | Я просто варю кофе для гостей. | I am just brewing coffee for the guests. | new | new |
+| 3 | Саша | Ты разлил молоко на всю стойку! | You spilled milk all over the counter! | new | new |
+| 4 | Макс | Я хотел показать красивый фокус. | I wanted to show a neat trick. | new | new |
+| 5 | Саша | Тоже мне бармен! | Some bartender you are! | #108: Тоже мне бармен | verbatim |
+| 6 | Макс | У каждого мастера бывают ошибки. | Every master makes mistakes. | new | new |
+| 7 | Саша | Проваливай, давай, я сама всё сделаю. | Get lost, go on, I will do everything myself. | #109: Проваливай, давай, я сама сделаю | verbatim |
+| 8 | Макс | Ладно, я лучше пойду на кухню. | All right, I had better go to the kitchen. | new | new |
+| 9 | Саша | И больше никогда не трогай кофемашину! | And never touch the coffee machine again! | new | new |
+| 10 | Макс | Кухня мне точно ближе, чем этот бар. | The kitchen is definitely closer to my heart than this bar. | new | new |
+| 11 | Саша | Вот и иди помогать поварам. | Then go help the cooks. | new | new |
+| 12 | Макс | Уже ухожу, шеф бара! | Leaving already, bar boss! | new | new |
 
-## Part 5 — Outro & closing
+## Walk-through narration (English only, no target-language words quoted)
 
-> Relieved of his bartending duties, Max heads back to the kitchen, leaving coffee preparation to the professionals. See you next time!
-
-**Саша:** Пока!
+- 'What are you even doing here?' Sasha asks Max with deep skepticism as she enters the bar area.
+- 'I am just brewing coffee for the guests.' Max defends his unauthorized attempt to operate the coffee machine.
+- 'You spilled milk all over the counter!' Sasha points out the messy puddle on the wooden bar surface.
+- 'I wanted to show a neat trick.' Max explains his failed bottle routine with a guilty smile.
+- 'Some bartender you are!' Sasha mocks his nonexistent bartending credentials.
+- 'Every master makes mistakes.' Max offers a humorous justification for the little accident.
+- 'Get lost, go on, I will do everything myself.' Sasha takes over the coffee machine to serve the patrons.
+- 'All right, I had better go to the kitchen.' Max recognizes that his bartending career has come to an end.
+- 'And never touch the coffee machine again!' Sasha firmly establishes the boundaries of the restaurant floor.
+- 'The kitchen is definitely closer to my heart than this bar.' Max finds solace in his true culinary calling.
+- 'Then go help the cooks.' Sasha sends him back where he belongs before Chef notices his absence.
+- 'Leaving already, bar boss!' Max departs with a playful salute before retreating to the kitchen.

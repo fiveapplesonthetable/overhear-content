@@ -7,15 +7,14 @@ SCENE = 24
 TITLE = "L'offensive d'Andréa  (Andréa's Offensive)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'lea': 'lucie', 'gabriel': 'theo', 'herve': 'marcel'}
-LABELS = {'lea': 'Andréa', 'gabriel': 'Gabriel', 'herve': 'Hervé'}
+LABELS = {'andrea': 'Andréa', 'gabriel': 'Gabriel', 'herve': 'Hervé'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e01.fr.dual.srt'
 INTRO = "At the Cesar ceremony, Herve reveals breaking news that Mathias is becoming an independent producer at Mediawan. Andrea and Gabriel immediately resolve to fight to keep their talents. Let's listen to the scene in French first."
 OPENER = "Let's examine how Andrea and Gabriel react to the surprise industry announcement line by line."
 TRANSITION = "Now let's listen to the entire dialogue once more."
 OUTRO = "Faced with Mathias Barneville's sudden departure to become a film producer, Andrea rallies Gabriel to take the offensive and calls an emergency agency meeting for eight o'clock tomorrow morning. When you watch the episode, listen out for the expressions meaning 'said' and 'keeps'. You'll catch them now. See you next time!"
-CLOSING = ('lea', 'Bonne journée!')
+CLOSING = ('andrea', 'Bonne journée!')
 STORY = [
     ('herve', 'Noémie ne vous a rien dit?', 'Didn', [(994, 'Noémie ne vous a rien dit')], ''),
     ('herve', 'Elle garde le secret professionnel.', 'She keeps professional confidentiality.', [(995, 'secret professionnel')], ''),
@@ -23,14 +22,14 @@ STORY = [
     ('herve', 'Mathias devient producteur chez Mediawan!', 'Mathias is becoming a producer at Mediawan!', [(997, 'devient producteur pour Mediawan')], ''),
     ('gabriel', "C'est une nouvelle tout à fait incroyable.", 'That is completely incredible news.', [(998, 'excellente nouvelle')], ''),
     ('gabriel', 'Je refuse de négocier avec lui.', 'I refuse to negotiate with him.', [(999, 'envie de négocier avec lui')], ''),
-    ('lea', "Préfères-tu qu'il parte avec ses talents?", 'Would you prefer he left with his talents?', [(1000, "qu'il parte avec tous ses clients")], ''),
-    ('lea', 'Notre mission est claire maintenant.', 'Our mission is clear now.', [(1001, 'Notre mission est maintenant claire')], ''),
-    ('lea', 'Nous devons convaincre tous les artistes.', 'We must convince all the artists.', [(1001, 'convaincre de rester avec nous')], ''),
+    ('andrea', "Préfères-tu qu'il parte avec ses talents?", 'Would you prefer he left with his talents?', [(1000, "qu'il parte avec tous ses clients")], ''),
+    ('andrea', 'Notre mission est claire maintenant.', 'Our mission is clear now.', [(1001, 'Notre mission est maintenant claire')], ''),
+    ('andrea', 'Nous devons convaincre tous les artistes.', 'We must convince all the artists.', [(1001, 'convaincre de rester avec nous')], ''),
     ('gabriel', 'Regarde, les rivaux forment un groupe.', 'Look, our rivals are forming a group.', [(1002, 'Un conclave StarMédia')], ''),
     ('gabriel', 'Devons-nous nous inquiéter ce soir?', 'Should we be worried tonight?', [(1003, "On devrait s'inquiéter")], ''),
-    ('lea', "Non, nous passons à l'offensive.", 'No, we go on the offensive.', [(1003, "passer à l'offensive")], ''),
-    ('lea', 'Demain matin, réunion à huit heures.', 'Tomorrow morning, meeting at eight o', [(1004, "réunion à l'agence")], ''),
-    ('lea', "C'est une occasion parfaite pour nous.", 'It is a perfect opportunity for us.', [(1004, "C'est bien")], ''),
+    ('andrea', "Non, nous passons à l'offensive.", 'No, we go on the offensive.', [(1003, "passer à l'offensive")], ''),
+    ('andrea', 'Demain matin, réunion à huit heures.', 'Tomorrow morning, meeting at eight o', [(1004, "réunion à l'agence")], ''),
+    ('andrea', "C'est une occasion parfaite pour nous.", 'It is a perfect opportunity for us.', [(1004, "C'est bien")], ''),
 ]
 WALK = [
     (0, None, "'Didn't Noemie tell you anything?' Herve asks Gabriel and Andrea if they heard the news. The two-part negative frame surrounds 'has' to mean 'nothing at all'."),

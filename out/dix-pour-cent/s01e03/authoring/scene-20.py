@@ -7,8 +7,7 @@ SCENE = 20
 TITLE = 'Je veux être agent  (I Want to Be an Agent)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'camille': 'emilie', 'mathias': 'marcel', 'dominique': 'theo'}
-LABELS = {'camille': 'Camille', 'mathias': 'Mathias', 'dominique': 'Dominique'}
+LABELS = {'camille': 'Camille', 'dominique': 'Dominique', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e03.fr.dual.srt'
 INTRO = "Now Camille is at the ceremony reception, among the gold lights and the champagne, and Mathias has a surprise for her: he wants her to meet a famous producer. The next morning, though, Camille will have something to say about it. First, the whole thing in French; don't worry if it goes by fast."
@@ -39,23 +38,23 @@ STORY = [
 WALK = [
     (0, None, "'Go and get some champagne at the bar.' A casual command: Mathias uses the casual 'you' with Camille. The small word before champagne means 'some'."),
     (1, None, "'Okay. See you in a bit.' The second phrase is a handy goodbye for when you'll meet again the same day."),
-    (2, None, "'Camille! Over here.' Literally 'by here'. Mathias waves to her across the room."),
-    (3, None, "'This is Dominique Besnehard.' Literally 'I present to you'. It's the standard way to introduce one person to another. Camille answers very politely."),
-    (4, None, "'Hello, delighted to meet you.' The word for 'delighted' ends with an extra silent letter, because Camille is a woman."),
-    (5, None, "'A producer.' Mathias adds it in a low voice, so that she knows how important this man is."),
-    (6, None, "'Hello, Camille. Mathias has told me a lot about you.' The everyday past tense, 'has spoken', with the little word for 'me' tucked in before the helper verb. Notice he uses the polite 'you' with her."),
-    (7, None, "'Really? Good things, I hope!' Literally 'in good'. A light, charming answer."),
-    (8, None, "'Absolutely. Do you like films?' A question made just by raising the voice at the end."),
+    (2, 'Camille! Par ici.', "'Camille! Over here.' Literally 'by here'. Mathias waves to her across the room."),
+    (2, 'Je te présente Dominique Besnehard.', "'This is Dominique Besnehard.' Literally 'I present to you'. It's the standard way to introduce one person to another. Camille answers very politely."),
+    (3, None, "'Hello, delighted to meet you.' The word for 'delighted' ends with an extra silent letter, because Camille is a woman."),
+    (4, None, "'A producer.' Mathias adds it in a low voice, so that she knows how important this man is."),
+    (5, None, "'Hello, Camille. Mathias has told me a lot about you.' The everyday past tense, 'has spoken', with the little word for 'me' tucked in before the helper verb. Notice he uses the polite 'you' with her."),
+    (6, None, "'Really? Good things, I hope!' Literally 'in good'. A light, charming answer."),
+    (7, None, "'Absolutely. Do you like films?' A question made just by raising the voice at the end."),
     (9, None, "'I can offer you an internship on our next big film.'s my dream.' The first two words literally mean 'and how!', a cheerful way to say 'absolutely'."),
     (10, None, "'I can offer you an internship.' Here's our grammar point: 'I can' followed by a verb in its dictionary form, with the polite word for 'you' placed just before that second verb."),
     (11, None, "'It's on Guillaume Gallienne's next film.' To say 'Gallienne's film', French says 'the film of Gallienne'."),
-    (12, None, "'Really?' Camille can hardly believe it."),
-    (13, None, "'She's perfect for it.' The adjective is in its feminine form, because it's about Camille. Mathias looks very pleased with himself."),
-    (14, None, "'My card. Call me at the office.' A polite command, 'call me', with 'me' stuck to the verb by a hyphen."),
-    (15, None, "'I'm not going to call Besnehard.' The next morning, in the agency corridor. This is the near future, 'I am going to call', made negative: the two little words of the negative wrap around 'going'."),
-    (16, None, "'Why? He's a great producer!' Mathias doesn't understand. The word for 'great' here is the casual 'super'."),
-    (17, None, "'I'm happy here.' Literally 'I am well here'. It's what Camille has been saying since she arrived."),
-    (18, None, "'I want to learn to be an agent.' This everyday French sentence pairs 'I' with 'talent agent'."),
-    (19, None, "'I have no qualifications, but I can learn.' The negative here uses a word that means 'not a single one'."),
-    (20, None, "'Otherwise, I'll look for a job at another agency.' The first word means 'if not'. She's polite, but it's a real ultimatum. Let's listen to the whole scene again from the start."),
+    (10, None, "'Really?' Camille can hardly believe it."),
+    (11, None, "'She's perfect for it.' The adjective is in its feminine form, because it's about Camille. Mathias looks very pleased with himself."),
+    (12, None, "'My card. Call me at the office.' A polite command, 'call me', with 'me' stuck to the verb by a hyphen."),
+    (13, None, "'I'm not going to call Besnehard.' The next morning, in the agency corridor. This is the near future, 'I am going to call', made negative: the two little words of the negative wrap around 'going'."),
+    (14, None, "'Why? He's a great producer!' Mathias doesn't understand. The word for 'great' here is the casual 'super'."),
+    (15, 'Je suis bien ici.', "'I'm happy here.' Literally 'I am well here'. It's what Camille has been saying since she arrived."),
+    (15, 'Je veux apprendre à être agent.', "'I want to learn to be an agent.' This everyday French sentence pairs 'I' with 'talent agent'."),
+    (16, None, "'I have no qualifications, but I can learn.' The negative here uses a word that means 'not a single one'."),
+    (17, None, "'Otherwise, I'll look for a job at another agency.' The first word means 'if not'. She's polite, but it's a real ultimatum. Let's listen to the whole scene again from the start."),
 ]

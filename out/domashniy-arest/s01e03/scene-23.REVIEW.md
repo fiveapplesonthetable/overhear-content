@@ -10,22 +10,22 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Самсон | Ну что, успокоился? Где деньги? | Well, have you calmed down? Where's the money? | #754 00:40:51: Успокоился<br>#756 00:40:55: Где | adapted: 'Ну что' added; slang 'бабки' -> 'деньги' |
-| 2 | Аня | Я тебе говорю, у меня нет никаких денег. Вас обманывают! | I'm telling you, I don't have any money. They're tricking you! | #758 00:40:58: Я тебе говорю, у меня нет никаких денег<br>#759 00:41:00: Вас | adapted: slang 'разводят' -> 'обманывают'; insult in 757 dropped |
-| 3 | Самсон | Ну всё. Я сейчас сжимаю палец! | Right, that's it. I'm squeezing your finger right now! | #760 00:41:01: Ну все<br>#765 00:41:07: Я сейчас сжимаю<br>#766 00:41:08: палец | verbatim |
-| 4 | Аня | Нет, не надо! Не надо, мне больно! | No, don't! Don't, it hurts! | #762 00:41:04: Нет, не надо<br>#763 00:41:05: Не надо мне больно | verbatim |
-| 5 | Самсон | Ну всё, хватит. Я так не могу. | Okay, that's enough. I can't do this. | #770 00:41:18: Ну всё | adapted: 'хватит. Я так не могу' sums up Samson letting go and sitting down in 767-770 |
-| 6 | Нина | Ваня, ты что? Он только начал бояться, а ты остановился! | Vanya, what is wrong with you? He just started getting scared, and you stopped! | #779 00:41:27: Он только начал бояться, а ты остановился | adapted: cue 778 'Ты чё дебил что ли, Вань?' -> 'Ваня, ты что?' |
-| 7 | Самсон | Ну что мне делать? Мы договорились его просто напугать! | Well, what am I supposed to do? We agreed to just scare him! | #781 00:41:30: ну что мне<br>#782 00:41:31: Мы договорились его просто напугать | adapted: 'Блин' dropped; 'палец ему откусить что ли' -> 'делать' |
-| 8 | Нина | Ваня, ты глупый? Зачем ты сейчас это при нём сказал? | Vanya, are you stupid? Why did you just say that in front of him? | #785 00:41:37: зачем ты сейчас это при нем сказал | adapted: cue 784 'Вань, ты чё дебил?' -> 'Ваня, ты глупый?' |
-| 9 | Нина | Теперь он уже всё понял! | Now he has worked everything out! | #786 00:41:39: Теперь он уже все понял | verbatim |
-| 10 | Аня | Я всё понял! Развяжите меня, пожалуйста. | I get it now! Untie me, please. | #789 00:41:48: Я все понял<br>#791 00:41:53: Развяжите меня, пожалуйста | verbatim |
-| 11 | Аня | Самсон, я устал. Мне сегодня ещё в суд идти! | Samson, I'm tired. I still have to go to court today! | #793 00:41:57: Самсон<br>#793 00:41:57: я устал<br>#804 00:42:20: мне сегодня еще в суд идти | verbatim |
-| 12 | Нина | Послушай ты, очкарик! Если он тряпка, то я нет. | Listen here, four-eyes! If he's a pushover, I'm not. | #796 00:42:03: Послушай ты<br>#797 00:42:05: Если он тряпка<br>#798 00:42:07: то я нет | adapted: cue 796 'Очконавт' is a transcription slip for 'очкарик' |
-| 13 | Нина | Я медицинский работник. Вот это скальпель. | I'm a medical worker. This right here is a scalpel. | #800 00:42:11: Я медицинский работник<br>#808 00:42:26: Вот это скальпель | verbatim |
-| 14 | Нина | Я тебе сейчас отрежу ухо! | I'm going to cut off your ear right now! | #809 00:42:27: я тебе сейчас отрежу ухо | verbatim |
-| 15 | Аня | Ой, два лузера! Быстро развязали меня! | Oh, two losers! Untie me, fast! | #813 00:42:37: Ой, два лузера<br>#803 00:42:18: быстро развязали меня | adapted: crude 802 and insult in 814 dropped |
-| 16 | Аня | Что это? Это кровь? | What is this? Is this blood? | #817 00:42:48: Что это<br>#818 00:42:50: Это кровь | verbatim |
+| 1 | Самсон | Ну что, успокоился? Где деньги? | Well, have you calmed down? Where's the money? | #754: Успокоился<br>#756: Где | adapted: 'Ну что' added; slang 'бабки' -> 'деньги' |
+| 2 | Аркадий | Я тебе говорю, у меня нет никаких денег. Вас обманывают! | I'm telling you, I don't have any money. They're tricking you! | #758: Я тебе говорю, у меня нет никаких денег<br>#759: Вас | adapted: slang 'разводят' -> 'обманывают'; insult in 757 dropped |
+| 3 | Самсон | Ну всё. Я сейчас сжимаю палец! | Right, that's it. I'm squeezing your finger right now! | #760: Ну все<br>#765: Я сейчас сжимаю<br>#766: палец | verbatim |
+| 4 | Аркадий | Нет, не надо! Не надо, мне больно! | No, don't! Don't, it hurts! | #762: Нет, не надо<br>#763: Не надо мне больно | verbatim |
+| 5 | Самсон | Ну всё, хватит. Я так не могу. | Okay, that's enough. I can't do this. | #770: Ну всё | adapted: 'хватит. Я так не могу' sums up Samson letting go and sitting down in 767-770 |
+| 6 | Нина | Ваня, ты что? Он только начал бояться, а ты остановился! | Vanya, what is wrong with you? He just started getting scared, and you stopped! | #779: Он только начал бояться, а ты остановился | adapted: cue 778 'Ты чё дебил что ли, Вань?' -> 'Ваня, ты что?' |
+| 7 | Самсон | Ну что мне делать? Мы договорились его просто напугать! | Well, what am I supposed to do? We agreed to just scare him! | #781: ну что мне<br>#782: Мы договорились его просто напугать | adapted: 'Блин' dropped; 'палец ему откусить что ли' -> 'делать' |
+| 8 | Нина | Ваня, ты глупый? Зачем ты сейчас это при нём сказал? | Vanya, are you stupid? Why did you just say that in front of him? | #785: зачем ты сейчас это при нем сказал | adapted: cue 784 'Вань, ты чё дебил?' -> 'Ваня, ты глупый?' |
+| 9 | Нина | Теперь он уже всё понял! | Now he has worked everything out! | #786: Теперь он уже все понял | verbatim |
+| 10 | Аркадий | Я всё понял! Развяжите меня, пожалуйста. | I get it now! Untie me, please. | #789: Я все понял<br>#791: Развяжите меня, пожалуйста | verbatim |
+| 11 | Аркадий | Самсон, я устал. Мне сегодня ещё в суд идти! | Samson, I'm tired. I still have to go to court today! | #793: Самсон<br>#793: я устал<br>#804: мне сегодня еще в суд идти | verbatim |
+| 12 | Нина | Послушай ты, очкарик! Если он тряпка, то я нет. | Listen here, four-eyes! If he's a pushover, I'm not. | #796: Послушай ты<br>#797: Если он тряпка<br>#798: то я нет | adapted: cue 796 'Очконавт' is a transcription slip for 'очкарик' |
+| 13 | Нина | Я медицинский работник. Вот это скальпель. | I'm a medical worker. This right here is a scalpel. | #800: Я медицинский работник<br>#808: Вот это скальпель | verbatim |
+| 14 | Нина | Я тебе сейчас отрежу ухо! | I'm going to cut off your ear right now! | #809: я тебе сейчас отрежу ухо | verbatim |
+| 15 | Аркадий | Ой, два лузера! Быстро развязали меня! | Oh, two losers! Untie me, fast! | #813: Ой, два лузера<br>#803: быстро развязали меня | adapted: crude 802 and insult in 814 dropped |
+| 16 | Аркадий | Что это? Это кровь? | What is this? Is this blood? | #817: Что это<br>#818: Это кровь | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

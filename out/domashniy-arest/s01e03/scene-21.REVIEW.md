@@ -10,21 +10,21 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Самсон | Я тебя предупреждал. | I warned you. | #695 00:37:25: Я тебя предупреждал | verbatim |
-| 2 | Аня | О чём предупреждал? Да ты что делаешь? | Warned me about what? Hey, what are you doing? | #696 00:37:57: О чем предупреждал<br>#698 00:38:01: Да ты что | adapted: cue 698 'наделал' -> 'делаешь' |
+| 1 | Самсон | Я тебя предупреждал. | I warned you. | #695: Я тебя предупреждал | verbatim |
+| 2 | Аркадий | О чём предупреждал? Да ты что делаешь? | Warned me about what? Hey, what are you doing? | #696: О чем предупреждал<br>#698: Да ты что | adapted: cue 698 'наделал' -> 'делаешь' |
 | 3 | Нина | Держи его крепче, Ваня! | Hold him tighter, Vanya! | new | new: Nina helps Samson tie Arkady to a chair |
-| 4 | Аня | Самсоновы, вы что творите? Хватит, я прошу вас! | Samsonovs, what are you doing? Stop it, I beg you! | #700 00:38:13: Самсоновы, вы что творите<br>#701 00:38:15: хватит, я прошу вас | verbatim |
-| 5 | Самсон | Где деньги? | Where is the money? | #706 00:38:35: где | adapted: slang 'бабки' -> 'деньги' |
-| 6 | Аня | Я тебе ещё раз говорю! У меня нет никаких денег, слышишь? | I'm telling you again! I don't have any money, do you hear? | #707 00:38:36: Я тебе еще раз говорю, у меня нет никаких денег, слышишь | adapted: split into two short sentences |
-| 7 | Аня | У меня ничего нет. Я клянусь тебе, я клянусь! | I have nothing. I swear to you, I swear! | #708 00:38:39: У меня нет. Я клянусь тебе, я клянусь | adapted: 'ничего' added |
-| 8 | Самсон | Нинуль, включай паяльник. | Ninul, plug in the soldering iron. | #709 00:38:41: включай паяльник | adapted: cue 709 mistranscribes 'Нинуль' as 'Синуль' |
+| 4 | Аркадий | Самсоновы, вы что творите? Хватит, я прошу вас! | Samsonovs, what are you doing? Stop it, I beg you! | #700: Самсоновы, вы что творите<br>#701: хватит, я прошу вас | verbatim |
+| 5 | Самсон | Где деньги? | Where is the money? | #706: где | adapted: slang 'бабки' -> 'деньги' |
+| 6 | Аркадий | Я тебе ещё раз говорю! У меня нет никаких денег, слышишь? | I'm telling you again! I don't have any money, do you hear? | #707: Я тебе еще раз говорю, у меня нет никаких денег, слышишь | adapted: split into two short sentences |
+| 7 | Аркадий | У меня ничего нет. Я клянусь тебе, я клянусь! | I have nothing. I swear to you, I swear! | #708: У меня нет. Я клянусь тебе, я клянусь | adapted: 'ничего' added |
+| 8 | Самсон | Нинуль, включай паяльник. | Ninul, plug in the soldering iron. | #709: включай паяльник | adapted: cue 709 mistranscribes 'Нинуль' as 'Синуль' |
 | 9 | Нина | Сейчас включу. Он у нас быстро всё вспомнит. | I'll plug it in right now. He'll remember everything quickly with us. | new | new: Nina plugs in the soldering iron |
-| 10 | Аня | Да нет у меня никаких денег! Ну вы слышите меня? | I don't have any money! Can you hear me? | #710 00:38:44: Да нет, у меня никаких денег<br>#711 00:38:46: Ну вы слышите меня | verbatim |
-| 11 | Самсон | Последний раз спрашиваю. Где деньги? | I'm asking for the last time. Where is the money? | #712 00:38:49: Спрашиваю<br>#713 00:38:50: Последний раз. Где | adapted: slang 'бабки' -> 'деньги' |
-| 12 | Аня | Самсоновы, ну вы очнитесь! Я понимаю, вам очень хочется квартиру. | Samsonovs, come to your senses! I understand you really want the flat. | #714 00:38:52: ну вы очнитесь<br>#716 00:38:55: Я понимаю<br>#716 00:38:55: вам очень хочется квартиру | adapted: 'Самсонов' -> plural 'Самсоновы'; 'что' trimmed |
-| 13 | Аня | Но вы же нормальные люди. Вы о детях своих подумайте. | But you're normal people. Think about your children. | #717 00:38:57: Вы же нормальные люди<br>#718 00:38:59: Вы о детях своих подумайте | adapted: 'Но' added |
-| 14 | Аня | Послушайте, вас посадят за это! | Listen, they will put you in prison for this! | #719 00:39:01: Послушайте, вас<br>#720 00:39:03: Вас посадят за это | verbatim |
-| 15 | Аня | Соседи! Пожалуйста, помогите! Убивают! | Neighbours! Please, help! They're killing me! | #722 00:39:10: Соседи<br>#723 00:39:14: Пожалуйста, убивают | adapted: 'помогите' added |
+| 10 | Аркадий | Да нет у меня никаких денег! Ну вы слышите меня? | I don't have any money! Can you hear me? | #710: Да нет, у меня никаких денег<br>#711: Ну вы слышите меня | verbatim |
+| 11 | Самсон | Последний раз спрашиваю. Где деньги? | I'm asking for the last time. Where is the money? | #712: Спрашиваю<br>#713: Последний раз. Где | adapted: slang 'бабки' -> 'деньги' |
+| 12 | Аркадий | Самсоновы, ну вы очнитесь! Я понимаю, вам очень хочется квартиру. | Samsonovs, come to your senses! I understand you really want the flat. | #714: ну вы очнитесь<br>#716: Я понимаю<br>#716: вам очень хочется квартиру | adapted: 'Самсонов' -> plural 'Самсоновы'; 'что' trimmed |
+| 13 | Аркадий | Но вы же нормальные люди. Вы о детях своих подумайте. | But you're normal people. Think about your children. | #717: Вы же нормальные люди<br>#718: Вы о детях своих подумайте | adapted: 'Но' added |
+| 14 | Аркадий | Послушайте, вас посадят за это! | Listen, they will put you in prison for this! | #719: Послушайте, вас<br>#720: Вас посадят за это | verbatim |
+| 15 | Аркадий | Соседи! Пожалуйста, помогите! Убивают! | Neighbours! Please, help! They're killing me! | #722: Соседи<br>#723: Пожалуйста, убивают | adapted: 'помогите' added |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

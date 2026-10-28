@@ -10,24 +10,24 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Ребята, дайте денег, а? | Kids, give me some money, eh? | #758 00:41:07: дайте денег, а | adapted: 'Так, ребятушки' -> 'Ребята' |
-| 2 | Юля | У меня нет. | I haven't got any. | #760 00:41:12: У меня нет | adapted: speaker of cue 760 given to Yulia |
-| 3 | Аня | А у кого есть? Так, Шнурок, есть же копилка? | So who has? Right, Shoelace, you've got a piggy bank, haven't you? | #762 00:41:14: А у кого есть<br>#763 00:41:15: Так, Шнурок<br>#764 00:41:18: Есть же копилка | verbatim |
-| 4 | Лёша | Мы с мамой на приставку копим. | Mum and I are saving up for a games console. | #766 00:41:22: Мы с мамой<br>#766 00:41:22: копим | adapted: 'на пей-шопе' (a PSP, garbled) -> 'на приставку' |
-| 5 | Аня | Да? И сколько уже накопили? | Really? And how much have you saved so far? | #767 00:41:24: Да? И сколько уже накопили | verbatim |
-| 6 | Лёша | Семьсот пятьдесят рублей. Копим полгода. | Seven hundred and fifty roubles. We've been saving for half a year. | #768 00:41:27: Семьсот пятьдесят рублей<br>#772 00:41:33: Полгода | adapted: 'Копим' added; cue 771 (Arkady's question) folded in |
-| 7 | Аня | А сколько стоит приставка? | And how much does the console cost? | #769 00:41:28: А сколько стоит | adapted: 'твоя пипися' (a mocking name for the PSP) -> 'приставка' |
-| 8 | Лёша | Пять тысяч рублей. | Five thousand roubles. | #770 00:41:30: Пять тысяч рублей | verbatim |
-| 9 | Аня | Послушай, малыш, у меня есть деловое предложение. | Listen, kid, I've got a business proposal. | #774 00:41:35: Послушай, малыш, у меня есть<br>#774 00:41:35: деловое предложение | adapted: 'к тебе' dropped |
-| 10 | Аня | Ты даёшь пятьсот рублей, а я покупаю тебе лучшую приставку в мире. | You give me five hundred roubles, and I get out and buy you the best console in the world. | #775 00:41:38: даешь пятьсот рублей<br>#776 00:41:41: покупаю тебе<br>#776 00:41:41: в мире | adapted: 'Смотри,' dropped; 'лучшие пи-спи' -> 'лучшую приставку' |
-| 11 | Лёша | А если не выйдете? | And what if you don't get out? | #777 00:41:45: А если не выйдете | verbatim |
-| 12 | Аня | Видишь эти часы? Это швейцарское золото. | See this watch? It's Swiss gold. | #778 00:41:48: эти часы | adapted: 'Вот видите' -> 'Видишь' (said to Lyosha); 'Это Швейцария. Золото.' (779-780) -> 'Это швейцарское золото.' |
-| 13 | Аня | Я их продам и куплю тебе приставку. Ну, согласен? | I'll sell it and buy you a console. Well, deal? | #781 00:41:52: Я их продам<br>#783 00:41:55: Ну, согласен | adapted: 'А тебе куплю' (782) -> 'и куплю тебе приставку' |
-| 14 | Лёша | Мама сказала, что вы все жулики. | Mum said you're all crooks. | #784 00:41:56: Мама сказала, что вы | adapted: 'сволочи, вы все к жареным' -> 'все жулики' (clean) |
-| 15 | Аня | Допустим, я жулик. А ты жадина и не помогаешь людям в беде. | All right, let's say I'm a crook. But you're greedy, and you don't help people in trouble. | #785 00:42:00: допустим, я<br>#785 00:42:00: а ты жадина<br>#785 00:42:00: не помогаешь людям | adapted: 'сволочь' -> 'жулик'; 'жлоб' dropped; 'которые в беде' -> 'в беде' |
-| 16 | Аня | Что, обиделся? Иди, иди. | What, are you offended? Go on, off you go. | #786 00:42:08: Что, обиделся? Иди, иди | adapted: 'Ну и чем ты лучше меня?' dropped |
-| 17 | Лёша | Вот. Я не жадина. | Here. I'm not greedy. | #792 00:42:24: Я не жадин | adapted: 'Вот.' added: Lyosha comes back with the money; cue 792 has the slip 'жадин' |
-| 18 | Аня | Вижу, вижу, ты герой. Молодец. | I see, I see, you're a hero. Well done. | #793 00:42:32: Вижу, вижу, ты герой. Молодец | verbatim |
+| 1 | Аркадий | Ребята, дайте денег, а? | Kids, give me some money, eh? | #758: дайте денег, а | adapted: 'Так, ребятушки' -> 'Ребята' |
+| 2 | Юля | У меня нет. | I haven't got any. | #760: У меня нет | adapted: speaker of cue 760 given to Yulia |
+| 3 | Аркадий | А у кого есть? Так, Шнурок, есть же копилка? | So who has? Right, Shoelace, you've got a piggy bank, haven't you? | #762: А у кого есть<br>#763: Так, Шнурок<br>#764: Есть же копилка | verbatim |
+| 4 | Лёша | Мы с мамой на приставку копим. | Mum and I are saving up for a games console. | #766: Мы с мамой<br>#766: копим | adapted: 'на пей-шопе' (a PSP, garbled) -> 'на приставку' |
+| 5 | Аркадий | Да? И сколько уже накопили? | Really? And how much have you saved so far? | #767: Да? И сколько уже накопили | verbatim |
+| 6 | Лёша | Семьсот пятьдесят рублей. Копим полгода. | Seven hundred and fifty roubles. We've been saving for half a year. | #768: Семьсот пятьдесят рублей<br>#772: Полгода | adapted: 'Копим' added; cue 771 (Arkady's question) folded in |
+| 7 | Аркадий | А сколько стоит приставка? | And how much does the console cost? | #769: А сколько стоит | adapted: 'твоя пипися' (a mocking name for the PSP) -> 'приставка' |
+| 8 | Лёша | Пять тысяч рублей. | Five thousand roubles. | #770: Пять тысяч рублей | verbatim |
+| 9 | Аркадий | Послушай, малыш, у меня есть деловое предложение. | Listen, kid, I've got a business proposal. | #774: Послушай, малыш, у меня есть<br>#774: деловое предложение | adapted: 'к тебе' dropped |
+| 10 | Аркадий | Ты даёшь пятьсот рублей, а я покупаю тебе лучшую приставку в мире. | You give me five hundred roubles, and I get out and buy you the best console in the world. | #775: даешь пятьсот рублей<br>#776: покупаю тебе<br>#776: в мире | adapted: 'Смотри,' dropped; 'лучшие пи-спи' -> 'лучшую приставку' |
+| 11 | Лёша | А если не выйдете? | And what if you don't get out? | #777: А если не выйдете | verbatim |
+| 12 | Аркадий | Видишь эти часы? Это швейцарское золото. | See this watch? It's Swiss gold. | #778: эти часы | adapted: 'Вот видите' -> 'Видишь' (said to Lyosha); 'Это Швейцария. Золото.' (779-780) -> 'Это швейцарское золото.' |
+| 13 | Аркадий | Я их продам и куплю тебе приставку. Ну, согласен? | I'll sell it and buy you a console. Well, deal? | #781: Я их продам<br>#783: Ну, согласен | adapted: 'А тебе куплю' (782) -> 'и куплю тебе приставку' |
+| 14 | Лёша | Мама сказала, что вы все жулики. | Mum said you're all crooks. | #784: Мама сказала, что вы | adapted: 'сволочи, вы все к жареным' -> 'все жулики' (clean) |
+| 15 | Аркадий | Допустим, я жулик. А ты жадина и не помогаешь людям в беде. | All right, let's say I'm a crook. But you're greedy, and you don't help people in trouble. | #785: допустим, я<br>#785: а ты жадина<br>#785: не помогаешь людям | adapted: 'сволочь' -> 'жулик'; 'жлоб' dropped; 'которые в беде' -> 'в беде' |
+| 16 | Аркадий | Что, обиделся? Иди, иди. | What, are you offended? Go on, off you go. | #786: Что, обиделся? Иди, иди | adapted: 'Ну и чем ты лучше меня?' dropped |
+| 17 | Лёша | Вот. Я не жадина. | Here. I'm not greedy. | #792: Я не жадин | adapted: 'Вот.' added: Lyosha comes back with the money; cue 792 has the slip 'жадин' |
+| 18 | Аркадий | Вижу, вижу, ты герой. Молодец. | I see, I see, you're a hero. Well done. | #793: Вижу, вижу, ты герой. Молодец | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

@@ -1,36 +1,38 @@
-# domashniy-arest/s01e06/scene-15.py
-ID = "domashniy-arest-s01e06-scene-15"
-SHOW = "domashniy-arest"
+# Authoring module for domashniy-arest-s01e06-scene-15.
+ID = 'domashniy-arest-s01e06-scene-15'
+SHOW = 'domashniy-arest'
 SEASON = 1
 EPISODE = 6
 SCENE = 15
-TITLE = "Знакомо ли тебе слово педикюр?  (Are You Familiar with the Word Pedicure?)"
-LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-SOURCE_NAME = "Домашний арест (Domashniy Arest) S1.06"
-SOURCE_FILE = "sources/domashniy-arest/s01/e06.ru.dual.srt"
-VOICES = {"narrator": "sky", "klavdia": "angelina", "anya": "alisa"}
-LABELS = {"klavdia": "Клавдия Викторовна", "anya": "Аркадий"}
+TITLE = 'Знакомо ли тебе слово педикюр?  (Are You Familiar with the Word Pedicure?)'
+LEVEL = 'A1 — Duolingo Section 2'
+PAIR = 'ru-en'
+LABELS = {'arkady': 'Аркадий', 'klavdia': 'Клавдия Викторовна', 'marina': 'Марина'}
+SOURCE_NAME = 'Домашний арест (Domashniy Arest) S1.06'
+SOURCE_FILE = 'sources/domashniy-arest/s01/e06.ru.dual.srt'
 INTRO = "Behind Colonel Mikhail Mikhailovich's back, Major Lavrov and Captain Ovechkin persuade diminutive Lieutenant Lyova Sokolov to dress up as a schoolboy so he can provoke Samsonov on camera. Meanwhile, back at the communal flat, Arkady scrubs Klavdia Viktorovna's mountain of laundry by hand to earn the five thousand roubles she promised him, while Marina prepares a cake in the kitchen. Let's listen in Russian first."
-STORY = [
-    ("klavdia", "Аркашка, ты еле стираешь! Сильнее три!", "Arkashka, you're barely washing! Rub harder!", [(531, 'Еле'), (532, 'три')], "ASR 'жулькаешь / селее' -> 'стираешь / Сильнее'"),
-    ("anya", "Клавдия Викторовна, нельзя иначе? Давайте это в стиральной машине постираем?", "Klavdia Viktorovna, can't we do it differently? Let's wash all this in the washing machine?", [(534, 'Клавдия Викторовна'), (534, 'в стиральной машине')], "split 534 into two short sentences"),
-    ("klavdia", "Ты что, Аркашка? Это же югославские вещи! Их аккуратно руками надо стирать.", "Are you crazy, Arkashka? These are Yugoslavian things! They have to be washed carefully by hand.", [(535, 'Ты что, Аркашка?'), (536, 'Это же югославские'), (537, 'Их аккуратно'), (537, 'надо')], ""),
-    ("klavdia", "Хватит болтать, столько дел впереди. Ты хочешь получить деньги или нет?", "And anyway stop chatting, there's so much work ahead. Do you want to get the money or not?", [(538, 'хватит болтать'), (539, 'Столько дел впереди'), (540, 'или нет?')], "cleaned up cues 540-551"),
-    ("anya", "Клавдия Викторовна, вы со всей квартиры бельё принесли! У меня спина болит.", "Klavdia Viktorovna, you brought laundry from the whole flat! My back is hurting already.", [(541, 'Клавдия Викторовна, вы со всей квартиры белье')], "colloquial 'притащили' -> 'принесли'"),
-    ("anya", "Ой, спина не разгибается! Какая вы строгая, Клавдия Викторовна.", "Ow, my back won't straighten! How strict you are, Klavdia Viktorovna.", [(555, 'Какая вы'), (556, 'Клавдия Викторовна')], "simplified 'неуемная' to 'строгая'"),
-    ("anya", "Марина, зря вы стараетесь. Он никогда не уйдёт от своей Аллы Евгеньевны.", "Marina, you're trying in vain. He will never leave his Alla Evgenyevna.", [(561, 'он никогда не уйдет от своей Аллы Евгеньевны')], "omitted crude cue 560"),
-    ("klavdia", "Он уже ушёл.", "He has already left.", [(562, 'Уже ушел')], ""),
-    ("anya", "Это он вам так сказал? И вы поверили?", "Did he tell you that? And you believed him?", [(563, 'Это он вам так сказал? И вы поверили?')], ""),
-    ("klavdia", "Поверила. Он же не вы.", "I believed him. He isn't like you.", [(564, 'Поверила. Он же не вы')], ""),
-    ("klavdia", "Марина, опять ты со сгущёнкой! В прошлый раз я думала, война началась.", "Marina, there you go again with your condensed milk! Last time I thought a war had started.", [(565, 'сгущенкой'), (566, 'В прошлый раз'), (566, 'я думала война началась')], ""),
-    ("klavdia", "Я сейчас таймер поставлю.", "I'll set a timer right now.", [(567, 'Я таймер поставлю')], ""),
-    ("anya", "Клавдия Викторовна, я всё закончил! Давайте мои пять тысяч.", "Klavdia Viktorovna, I've finished everything! Hand over my five thousand.", [(568, 'я закончил'), (569, 'пять тысяч')], "colloquial 'Гоните' -> 'Давайте мои'"),
-    ("klavdia", "Ничего ты ещё не закончил!", "You haven't finished anything yet!", [(570, 'Ничего'), (570, 'не закончил')], "ASR 'тысяча' -> 'ты ещё'"),
-    ("anya", "В смысле не закончил?", "What do you mean I haven't finished?", [(571, 'В смысле?')], ""),
-    ("klavdia", "А знакомо ли тебе, Аркашка, слово педикюр?", "And are you familiar, Arkashka, with the word pedicure?", [(572, 'ли тебе, Аркашка, слово педикюр?')], "ASR 'знакома' -> 'знакомо'"),
-]
 OPENER = "Let's walk through Arkady's chores and the kitchen conversation."
+TRANSITION = "Now let's listen to the whole scene again from start to finish."
+OUTRO = "While Marina leaves the tin of condensed milk boiling on the stove and Arkady is forced to give Klavdia Viktorovna a pedicure, Ivan Samsonov visits the city library. Listen for 'in the washing machine', 'back', and 'condensed milk' when you watch. See you next time!"
+CLOSING = ('arkady', 'Пока!')
+STORY = [
+    ('klavdia', 'Аркашка, ты еле стираешь! Сильнее три!', "Arkashka, you're barely washing! Rub harder!", [(531, 'Еле'), (532, 'три')], "ASR 'жулькаешь / селее' -> 'стираешь / Сильнее'"),
+    ('arkady', 'Клавдия Викторовна, нельзя иначе? Давайте это в стиральной машине постираем?', "Klavdia Viktorovna, can't we do it differently? Let's wash all this in the washing machine?", [(534, 'Клавдия Викторовна'), (534, 'в стиральной машине')], 'split 534 into two short sentences'),
+    ('klavdia', 'Ты что, Аркашка? Это же югославские вещи! Их аккуратно руками надо стирать.', 'Are you crazy, Arkashka? These are Yugoslavian things! They have to be washed carefully by hand.', [(535, 'Ты что, Аркашка?'), (536, 'Это же югославские'), (537, 'Их аккуратно'), (537, 'надо')], ''),
+    ('klavdia', 'Хватит болтать, столько дел впереди. Ты хочешь получить деньги или нет?', "And anyway stop chatting, there's so much work ahead. Do you want to get the money or not?", [(538, 'хватит болтать'), (539, 'Столько дел впереди'), (540, 'или нет?')], 'cleaned up cues 540-551'),
+    ('arkady', 'Клавдия Викторовна, вы со всей квартиры бельё принесли! У меня спина болит.', 'Klavdia Viktorovna, you brought laundry from the whole flat! My back is hurting already.', [(541, 'Клавдия Викторовна, вы со всей квартиры белье')], "colloquial 'притащили' -> 'принесли'"),
+    ('arkady', 'Ой, спина не разгибается! Какая вы строгая, Клавдия Викторовна.', "Ow, my back won't straighten! How strict you are, Klavdia Viktorovna.", [(555, 'Какая вы'), (556, 'Клавдия Викторовна')], "simplified 'неуемная' to 'строгая'"),
+    ('arkady', 'Марина, зря вы стараетесь. Он никогда не уйдёт от своей Аллы Евгеньевны.', "Marina, you're trying in vain. He will never leave his Alla Evgenyevna.", [(561, 'он никогда не уйдет от своей Аллы Евгеньевны')], 'omitted crude cue 560'),
+    ('marina', 'Он уже ушёл.', 'He has already left.', [(562, 'Уже ушел')], ''),
+    ('arkady', 'Это он вам так сказал? И вы поверили?', 'Did he tell you that? And you believed him?', [(563, 'Это он вам так сказал? И вы поверили?')], ''),
+    ('marina', 'Поверила. Он же не вы.', "I believed him. He isn't like you.", [(564, 'Поверила. Он же не вы')], ''),
+    ('klavdia', 'Марина, опять ты со сгущёнкой! В прошлый раз я думала, война началась.', 'Marina, there you go again with your condensed milk! Last time I thought a war had started.', [(565, 'сгущенкой'), (566, 'В прошлый раз'), (566, 'я думала война началась')], ''),
+    ('marina', 'Я сейчас таймер поставлю.', "I'll set a timer right now.", [(567, 'Я таймер поставлю')], ''),
+    ('arkady', 'Клавдия Викторовна, я всё закончил! Давайте мои пять тысяч.', "Klavdia Viktorovna, I've finished everything! Hand over my five thousand.", [(568, 'я закончил'), (569, 'пять тысяч')], "colloquial 'Гоните' -> 'Давайте мои'"),
+    ('klavdia', 'Ничего ты ещё не закончил!', "You haven't finished anything yet!", [(570, 'Ничего'), (570, 'не закончил')], "ASR 'тысяча' -> 'ты ещё'"),
+    ('arkady', 'В смысле не закончил?', "What do you mean I haven't finished?", [(571, 'В смысле?')], ''),
+    ('klavdia', 'А знакомо ли тебе, Аркашка, слово педикюр?', 'And are you familiar, Arkashka, with the word pedicure?', [(572, 'ли тебе, Аркашка, слово педикюр?')], "ASR 'знакома' -> 'знакомо'"),
+]
 WALK = [
     (0, None, "Standing over Arkady as he scrubs laundry in a basin, Klavdia Viktorovna scolds him: 'Arkashka, you're barely washing! Rub harder!'"),
     (1, 'Клавдия Викторовна, нельзя иначе?', "Exhausted, Arkady begs for mercy: 'Klavdia Viktorovna, can't we do it differently?'"),
@@ -56,6 +58,3 @@ WALK = [
     (14, None, "'What do you mean I haven't finished?' The verb for 'finished' is in the masculine past tense, marked by that 'l' sound at the end."),
     (15, None, "Pointing down at her slippers, the old neighbour smiles wickedly: 'And are you familiar, Arkashka, with the word pedicure?'"),
 ]
-TRANSITION = "Now let's listen to the whole scene again from start to finish."
-OUTRO = "While Marina leaves the tin of condensed milk boiling on the stove and Arkady is forced to give Klavdia Viktorovna a pedicure, Ivan Samsonov visits the city library. Listen for 'in the washing machine', 'back', and 'condensed milk' when you watch. See you next time!"
-CLOSING = ("anya", "Пока!")

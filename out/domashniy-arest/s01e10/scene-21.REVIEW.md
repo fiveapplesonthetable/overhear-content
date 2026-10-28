@@ -10,20 +10,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Костик | Дядя Гриша, давай уедем отсюда скорее. | Uncle Grisha, let us drive away from here quickly. | #623 00:34:15: Давай соскучим, дядь Гриш, пока не поздно | verbatim |
-| 2 | Костик | У меня на душе сильная тревога. | I have a strong anxiety in my soul. | #624 00:34:19: Что-то тревога какая-то на душе у меня | verbatim |
-| 3 | Дядя Гриша | Ты всегда и всего боишься, Костик. | You are always afraid of everything, Kostik. | #625 00:34:21: У тебя всегда тревога<br>#626 00:34:23: ты ссыкло | adapted: simplified colloquial insult to clean A1 Russian |
-| 4 | Костик | А ты сам людей когда-нибудь убивал? | And have you yourself ever killed people? | #628 00:34:26: людей убивал когда-нибудь | verbatim |
-| 5 | Дядя Гриша | Людей не убивал, но резал свиней. | I haven't killed people, but slaughtered pigs. | #629 00:34:33: Ну не убивал<br>#631 00:34:38: свинью зарезал | verbatim |
-| 6 | Дядя Гриша | Человек как комар: придавил и нету! | A person is like a mosquito: squashed and gone! | #636 00:34:47: Человек он как комар<br>#637 00:34:51: Придавил и нету | verbatim |
-| 7 | Дядя Гриша | Мне надоело жить в вечной нищете. | I am tired of living in eternal poverty. | #638 00:34:53: Мне надоело<br>#639 00:34:55: шкилять | adapted: adapted colloquial slang to clean A1 Russian |
-| 8 | Дядя Гриша | Посмотри, как богато живут эти чиновники! | Look at how richly these officials live! | #640 00:34:56: смотри, как живут сволочи | adapted: replaced swear word with чиновники |
-| 9 | Костик | А пятнадцать лет тюрьмы ты хочешь? | And do you want fifteen years in prison? | #643 00:35:03: А пятнашку ты не хочешь | verbatim |
-| 10 | Дядя Гриша | Если боишься, сиди дома в нищете. | If you are afraid, sit at home in poverty. | #648 00:35:16: Оставайся в своей | verbatim |
-| 11 | Дядя Гриша | Я могу всё сделать совершенно один. | I can do everything completely alone. | #646 00:35:11: Я сам все сделаю | verbatim |
-| 12 | Костик | Нет, дядя Гриша, я с тобой! | No, Uncle Grisha, I am with you! | #650 00:35:19: я с тобой | verbatim |
-| 13 | Дядя Гриша | Тогда сиди тихо и внимательно смотри. | Then sit quietly and watch carefully. | #658 00:35:37: Поглядимся | verbatim |
-| 14 | Дядя Гриша | Сейчас мы осмотрим этот большой дом. | Now we will inspect this big house. | #658 00:35:37: Поглядимся, куда<br>#659 00:35:42: откуда | verbatim |
+| 1 | Костик | Дядя Гриша, давай уедем отсюда скорее. | Uncle Grisha, let us drive away from here quickly. | #623: Давай соскучим, дядь Гриш, пока не поздно | verbatim |
+| 2 | Костик | У меня на душе сильная тревога. | I have a strong anxiety in my soul. | #624: Что-то тревога какая-то на душе у меня | verbatim |
+| 3 | Дядя Гриша | Ты всегда и всего боишься, Костик. | You are always afraid of everything, Kostik. | #625: У тебя всегда тревога<br>#626: ты ссыкло | adapted: simplified colloquial insult to clean A1 Russian |
+| 4 | Костик | А ты сам людей когда-нибудь убивал? | And have you yourself ever killed people? | #628: людей убивал когда-нибудь | verbatim |
+| 5 | Дядя Гриша | Людей не убивал, но резал свиней. | I haven't killed people, but slaughtered pigs. | #629: Ну не убивал<br>#631: свинью зарезал | verbatim |
+| 6 | Дядя Гриша | Человек как комар: придавил и нету! | A person is like a mosquito: squashed and gone! | #636: Человек он как комар<br>#637: Придавил и нету | verbatim |
+| 7 | Дядя Гриша | Мне надоело жить в вечной нищете. | I am tired of living in eternal poverty. | #638: Мне надоело<br>#639: шкилять | adapted: adapted colloquial slang to clean A1 Russian |
+| 8 | Дядя Гриша | Посмотри, как богато живут эти чиновники! | Look at how richly these officials live! | #640: смотри, как живут сволочи | adapted: replaced swear word with чиновники |
+| 9 | Костик | А пятнадцать лет тюрьмы ты хочешь? | And do you want fifteen years in prison? | #643: А пятнашку ты не хочешь | verbatim |
+| 10 | Дядя Гриша | Если боишься, сиди дома в нищете. | If you are afraid, sit at home in poverty. | #648: Оставайся в своей | verbatim |
+| 11 | Дядя Гриша | Я могу всё сделать совершенно один. | I can do everything completely alone. | #646: Я сам все сделаю | verbatim |
+| 12 | Костик | Нет, дядя Гриша, я с тобой! | No, Uncle Grisha, I am with you! | #650: я с тобой | verbatim |
+| 13 | Дядя Гриша | Тогда сиди тихо и внимательно смотри. | Then sit quietly and watch carefully. | #658: Поглядимся | verbatim |
+| 14 | Дядя Гриша | Сейчас мы осмотрим этот большой дом. | Now we will inspect this big house. | #658: Поглядимся, куда<br>#659: откуда | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

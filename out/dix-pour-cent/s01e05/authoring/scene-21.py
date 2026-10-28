@@ -7,15 +7,14 @@ SCENE = 21
 TITLE = 'Dîner pour deux dans la chambre seize  (Dinner for Two in Room Sixteen)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'lea': 'lucie', 'receptionniste': 'emilie'}
-LABELS = {'gabriel': 'Gabriel', 'lea': 'Andréa', 'receptionniste': 'Réceptionniste'}
+LABELS = {'andrea': 'Andréa', 'gabriel': 'Gabriel', 'receptionniste': 'Réceptionniste'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e05.fr.dual.srt'
 INTRO = "The receptionist is struggling with her computer, and when Gabriel leans over to help her, he spots something very interesting on the screen: dinner for two and champagne in room sixteen, Andréa's room. Curiosity gets the better of him, and he marches straight upstairs with a breakfast tray. Let's hear the scene in French first."
 OPENER = "Let's walk through it. At the front desk, the receptionist apologises for the delay."
 TRANSITION = "Now let's listen to the whole scene again."
 OUTRO = 'Cornered in her hotel room with Colette hiding in the bathroom, Andréa has no choice left but to confess to Gabriel on the drive to the film set. See you next time!'
-CLOSING = ('lea', 'À bientôt!')
+CLOSING = ('andrea', 'À bientôt!')
 STORY = [
     ('receptionniste', 'Désolée, on a ce nouveau logiciel.', 'Sorry, we have this new software.', [(421, 'on a ce nouveau logiciel')], ''),
     ('gabriel', 'Peut-être que je peux aider.', 'Maybe I can help.', [(422, 'Peut-être que je peux aider')], ''),
@@ -23,14 +22,14 @@ STORY = [
     ('receptionniste', 'Par exemple, dîner pour deux et champagne dans la chambre seize.', 'For example, dinner for two and champagne in room sixteen.', [(425, 'Par exemple, dîner pour deux et champagne dans la chambre')], ''),
     ('gabriel', 'Quelle chambre?', 'Which room?', [(428, 'Quelle chambre')], ''),
     ('gabriel', "C'est moi, ouvre-moi! C'est vraiment urgent.", 'It', [(430, "C'est moi, ouvre-moi"), (431, "C'est vraiment urgent")], ''),
-    ('lea', 'Je ne peux pas là. Quoi?', 'I can', [(431, 'Je ne peux pas là'), (432, 'Quoi')], ''),
+    ('andrea', 'Je ne peux pas là. Quoi?', 'I can', [(431, 'Je ne peux pas là'), (432, 'Quoi')], ''),
     ('gabriel', "Tu étais si fatiguée hier soir, j'étais inquiet. Tu vas mieux?", 'You were so tired last night, I was worried. Are you feeling better?', [(434, "Tu étais si fatiguée hier soir, j'étais inquiet. Tu vas mieux")], ''),
-    ('lea', 'Oui, ça va.', 'Yes, I', [(436, 'ça va')], ''),
+    ('andrea', 'Oui, ça va.', 'Yes, I', [(436, 'ça va')], ''),
     ('gabriel', 'Tu avais une petite faim?', 'Were you a little hungry?', [(437, 'Tu avais une petite faim')], ''),
-    ('lea', "Je ne dormais pas, alors j'ai travaillé toute la nuit.", 'I could not sleep, so I worked all night.', [(439, "dormir, alors j'ai travaillé et ça m'a donné faim")], ''),
+    ('andrea', "Je ne dormais pas, alors j'ai travaillé toute la nuit.", 'I could not sleep, so I worked all night.', [(439, "dormir, alors j'ai travaillé et ça m'a donné faim")], ''),
     ('gabriel', "Arrête de raconter n'importe quoi!", 'Stop talking nonsense!', [(441, "Arrête de raconter n'importe quoi")], ''),
     ('gabriel', "Je sais que tu n'étais pas seule hier soir. C'est qui?", 'I know you weren', [(442, "Je sais que tu n'étais pas seule hier soir. C'est qui")], ''),
-    ('lea', 'Tu me connais, jamais au travail!', 'You know me, never at work!', [(445, 'Tu me connais, jamais au')], ''),
+    ('andrea', 'Tu me connais, jamais au travail!', 'You know me, never at work!', [(445, 'Tu me connais, jamais au')], ''),
     ('gabriel', 'Je veux savoir. Je reste.', 'I want to know. I', [(446, 'Je veux savoir. Je reste')], ''),
 ]
 WALK = [
@@ -47,6 +46,6 @@ WALK = [
     (10, None, "'I could not sleep, so I worked all night.'t sleep, so I worked and that made me hungry.' First the past tense for background ('I couldn't sleep'), then the past with 'have' for what she did next."),
     (11, None, "'Stop talking nonsense!' Gabriel doesn't believe a word of it."),
     (12, None, "'I know you weren't alone last night. Who is it?' He looks straight at the closed bathroom door."),
-    (13, None, "'You know me, never at work!' Gabriel guesses it's an intern from the film crew, and Andréa protests."),
+    (13, None, "'You know me, never at work!' In response, Gabriel guesses it's an intern from the film crew, and Andréa protests."),
     (14, None, "'I want to know. I'm staying.' He sits down and refuses to budge until she tells him the truth."),
 ]

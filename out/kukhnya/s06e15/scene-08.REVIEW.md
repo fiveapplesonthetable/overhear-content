@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Настя | Видишь, всё-таки твоему отцу очень одиноко. | You see, your father is very lonely after all. | #117 00:07:43: Все-таки ему одиноко | adapted: adapted |
-| 2 | Настя | Извините, пожалуйста, я сейчас всё уберу. | Excuse me, please, I will clean everything up right now. | #119 00:07:47: Извините, ради бога, я сейчас все | adapted: adapted |
-| 3 | Настя | Я уверена, ему точно нужна женщина. | I am sure he definitely needs a woman. | #121 00:07:52: И ему точно нужна женщина | adapted: adapted |
-| 4 | Денис | Настя, ну какая ещё ему женщина? | Nastya, what kind of woman does he need? | #122 00:07:53: Настя, какая женщина | adapted: adapted |
-| 5 | Настя | Вот ты пойди и спокойно выясни. | Well you go and calmly find out. | #123 00:07:56: Ну так выясни | adapted: adapted |
-| 6 | Настя | Не я же буду об этом разговаривать. | It is not like I am going to talk about this. | #124 00:07:58: про женщину разговаривать | adapted: adapted |
-| 7 | Денис | Сейчас лекарство подействует, и станет легче. | Now the medicine will take effect, and it will feel better. | #125 00:08:03: подействует<br>#126 00:08:07: Станет легче | adapted: adapted |
-| 8 | Денис | К счастью, глаз серьёзно не пострадал. | Fortunately, the eye was not seriously injured. | #127 00:08:10: Глаз серьезно не пострадал | adapted: adapted |
-| 9 | Денис | Света, слушай, я хочу кое-что сказать. | Sveta, listen, I want to tell you something. | #129 00:08:18: Свет, слушай, я хочу тебе кое-что сказать | adapted: adapted |
-| 10 | Денис | Кажется, у неё аллергия на лекарство! | It seems she has an allergy to the medicine! | #130 00:08:26: Аллергия на лекарства | adapted: adapted |
-| 11 | Денис | Доктор, помогите нам, пожалуйста, скорее! | Doctor, please help us quickly! | #131 00:08:28: Доктор, помогите | adapted: adapted |
-| 12 | Денис | Подождите, сейчас я внимательно её посмотрю. | Wait, I will examine her carefully right now. | #132 00:08:30: Посмотрите, доктор | adapted: adapted |
+| 1 | Настя | Видишь, всё-таки твоему отцу очень одиноко. | You see, your father is very lonely after all. | #117: Все-таки ему одиноко | adapted: adapted |
+| 2 | Настя | Извините, пожалуйста, я сейчас всё уберу. | Excuse me, please, I will clean everything up right now. | #119: Извините, ради бога, я сейчас все | adapted: adapted |
+| 3 | Настя | Я уверена, ему точно нужна женщина. | I am sure he definitely needs a woman. | #121: И ему точно нужна женщина | adapted: adapted |
+| 4 | Денис | Настя, ну какая ещё ему женщина? | Nastya, what kind of woman does he need? | #122: Настя, какая женщина | adapted: adapted |
+| 5 | Настя | Вот ты пойди и спокойно выясни. | Well you go and calmly find out. | #123: Ну так выясни | adapted: adapted |
+| 6 | Настя | Не я же буду об этом разговаривать. | It is not like I am going to talk about this. | #124: про женщину разговаривать | adapted: adapted |
+| 7 | Врач | Сейчас лекарство подействует, и станет легче. | Now the medicine will take effect, and it will feel better. | #125: подействует<br>#126: Станет легче | adapted: adapted |
+| 8 | Врач | К счастью, глаз серьёзно не пострадал. | Fortunately, the eye was not seriously injured. | #127: Глаз серьезно не пострадал | adapted: adapted |
+| 9 | Денис | Света, слушай, я хочу кое-что сказать. | Sveta, listen, I want to tell you something. | #129: Свет, слушай, я хочу тебе кое-что сказать | adapted: adapted |
+| 10 | Денис | Кажется, у неё аллергия на лекарство! | It seems she has an allergy to the medicine! | #130: Аллергия на лекарства | adapted: adapted |
+| 11 | Денис | Доктор, помогите нам, пожалуйста, скорее! | Doctor, please help us quickly! | #131: Доктор, помогите | adapted: adapted |
+| 12 | Врач | Подождите, сейчас я внимательно её посмотрю. | Wait, I will examine her carefully right now. | #132: Посмотрите, доктор | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You see, your father is very lonely after all.' In Russian, the idea of 'see' flows naturally into 'lonely' without extra filler words.
-- 'Excuse me, please, I will clean everything up right now.' Spoken Russian keeps this brisk, leaning on 'excuse me' and finishing on 'to remove'.
-- 'I am sure he definitely needs a woman.' Notice how Russian expresses 'I' and 'woman' with crisp inflection rather than helper words.
-- 'Nastya, what kind of woman does he need?' The grammar packs 'Nastya' and 'woman' into a tight, idiomatic kitchen exchange.
-- 'Well you go and calmly find out.' Notice how Russian expresses 'here' and 'to find out' with crisp inflection rather than helper words.
-- 'It is not like I am going to talk about this.' Here the Russian phrasing highlights 'not' before landing on 'to talk'.
-- 'Now the medicine will take effect, and it will feel better.' The grammar packs 'now' and 'easier' into a tight, idiomatic kitchen exchange.
-- 'Fortunately, the eye was not seriously injured.' The negative particle sits right before the verb meaning 'suffer' to negate the statement. Denis answers right away.
-- 'Sveta, listen, I want to tell you something.' In Russian, the idea of 'Sveta' flows naturally into 'to say' without extra filler words.
-- 'It seems she has an allergy to the medicine!' Notice how Russian expresses 'it seems' and 'medicine' with crisp inflection rather than helper words.
-- 'Doctor, please help us quickly!' Spoken Russian keeps this brisk, leaning on 'Doctor' and finishing on 'quickly'. the doctor answers right away.
-- 'Wait, I will examine her carefully right now.' Here the Russian phrasing highlights 'wait' before landing on 'will look'.
+- 'You see, your father is very lonely after all.' Claiming that Denis's father is very lonely after all sounds confident, even if Denis has doubts.
+- 'Excuse me, please, I will clean everything up right now.' Pointing out that she will clean everything up right now gives Denis a sobering reality check.
+- 'I am sure he definitely needs a woman.' Saying that she is sure he definitely needs a woman is how Nastya sets the tone with Denis.
+- 'Nastya, what kind of woman does he need?' Asking whether what kind of woman does he need puts the doctor right on the defensive. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Well you go and calmly find out.' Noting that Denis goes and calmly find out keeps Nastya's side of the story simple and clear. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'It is not like I am going to talk about this.' Even though it is not like she is going to talk about this, Nastya keeps a steady face in front of Denis.
+- 'Now the medicine will take effect, and it will feel better.' Admitting that the medicine will take effect and it will feel better shows the doctor being honest for a change.
+- 'Fortunately, the eye was not seriously injured.' Saying that the eye was not seriously injured is how the doctor sets the tone with Denis.
+- 'Sveta, listen, I want to tell you something.' Explaining that he wants to tell the doctor something lays the cards on the table for the doctor.
+- 'It seems she has an allergy to the medicine!' Once it seems she has an allergy to the medicine, Denis makes sure the doctor hears every word. Russian expresses having something as "by me is", keeping the phrase short and grounded.
+- 'Doctor, please help us quickly!' With the plan and hospital at stake, Denis reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Wait, I will examine her carefully right now.' Since he will examine her carefully right now, the doctor does not waste words on excuses.

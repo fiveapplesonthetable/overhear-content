@@ -10,32 +10,32 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Шеф | И что же мне делать, Аркаша? | So what am I supposed to do, Arkasha? | #171 00:11:52: И что же мне делать, Аркаша | verbatim |
-| 2 | Лёва | Зенит должен проиграть. | Zenit has to lose. | #172 00:11:55: Зенит должен проиграть | verbatim |
-| 3 | Шеф | Другого такого шанса может не быть. | There might never be another chance like this. | #174 00:12:00: Другого такого шанса может не быть | verbatim |
-| 4 | Лёва | Надо помочь Спартаку. | We have to help Spartak. | #175 00:12:04: Надо помочь Спартаку | verbatim |
-| 5 | Шеф | А ты что думаешь? | And what do you think? | #176 00:12:08: А ты что думаешь | verbatim |
-| 6 | Лёва | Я с ним согласен. | I agree with him. | #177 00:12:10: Я с ним согласен | verbatim |
-| 7 | Шеф | Оторвали его. | Take it away from him. | #178 00:12:12: Оторвали его | verbatim |
-| 8 | Лёва | Шеф, там блюдо от шефа. | Chef, there is a complimentary dish from the chef. | #181 00:12:25: Шеф, там блюдо от шефа | verbatim |
-| 9 | Шеф | Шеф, вы что делаете? | Chef, what are you doing? | #182 00:12:27: Шеф, вы что делаете | verbatim |
-| 10 | Лёва | Лев, иди. | Lyova, go away. | #185 00:12:38: Лев, иди | verbatim |
-| 11 | Шеф | Я сам разберусь. | I will handle this myself. | #186 00:12:40: Я сам разберусь | verbatim |
-| 12 | Лёва | Это подло, шеф. | That is underhanded, Chef. | #187 00:12:42: Это подло, шеф | verbatim |
-| 13 | Шеф | Я сказал. | I said go. | #188 00:12:45: Я сказал | verbatim |
+| 1 | Шеф | И что же мне делать, Аркаша? | So what am I supposed to do, Arkasha? | #171: И что же мне делать, Аркаша | verbatim |
+| 2 | Лёва | Зенит должен проиграть. | Zenit has to lose. | #172: Зенит должен проиграть | verbatim |
+| 3 | Шеф | Другого такого шанса может не быть. | There might never be another chance like this. | #174: Другого такого шанса может не быть | verbatim |
+| 4 | Лёва | Надо помочь Спартаку. | We have to help Spartak. | #175: Надо помочь Спартаку | verbatim |
+| 5 | Шеф | А ты что думаешь? | And what do you think? | #176: А ты что думаешь | verbatim |
+| 6 | Лёва | Я с ним согласен. | I agree with him. | #177: Я с ним согласен | verbatim |
+| 7 | Шеф | Оторвали его. | Take it away from him. | #178: Оторвали его | verbatim |
+| 8 | Лёва | Шеф, там блюдо от шефа. | Chef, there is a complimentary dish from the chef. | #181: Шеф, там блюдо от шефа | verbatim |
+| 9 | Шеф | Шеф, вы что делаете? | Chef, what are you doing? | #182: Шеф, вы что делаете | verbatim |
+| 10 | Лёва | Лев, иди. | Lyova, go away. | #185: Лев, иди | verbatim |
+| 11 | Шеф | Я сам разберусь. | I will handle this myself. | #186: Я сам разберусь | verbatim |
+| 12 | Лёва | Это подло, шеф. | That is underhanded, Chef. | #187: Это подло, шеф | verbatim |
+| 13 | Шеф | Я сказал. | I said go. | #188: Я сказал | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'So what am I supposed to do, Arkasha?' The meaning hinges on 'both' working together with 'Arkasha' in spoken Russian.
-- 'Zenit has to lose.' Here the Russian phrasing highlights 'Zenit' before landing on 'lose'.
-- 'There might never be another chance like this.' The negative particle sits right before the verb meaning 'maybe' to negate the statement. Lyova answers right away.
-- 'We have to help Spartak.' Spoken Russian keeps this brisk, leaning on 'at' and finishing on 'Spartak'.
-- 'And what do you think?' Chef Viktor brings out the contrast between 'and' and 'you' in a few short words.
-- 'I agree with him.' The meaning hinges on 'I' working together with 'agree' in spoken Russian. Chef Viktor answers right away.
-- 'Take it away from him.' In Russian, the idea of 'to tear off' flows naturally into 'him' without extra filler words.
-- 'Chef, there is a complimentary dish from the chef.' Lyova anchors the line on 'chef', while 'from' completes the thought.
-- 'Chef, what are you doing?' Notice how Russian expresses 'chef' and 'are doing' with crisp inflection rather than helper words. Lyova answers right away.
-- 'Lyova, go away.' Here the Russian phrasing highlights 'Lev' before landing on 'go'.
-- 'I will handle this myself.' Chef Viktor anchors the line on 'I', while 'will sort out' completes the thought.
-- 'That is underhanded, Chef.' Spoken Russian keeps this brisk, leaning on 'this' and finishing on 'chef'. Chef Viktor answers right away.
-- 'I said go.' The grammar packs 'I' and 'to say' into a tight, idiomatic kitchen exchange.
+- 'So what am I supposed to do, Arkasha?' When Barinov asks if what am he supposed to do Arkasha, Lyova has to answer fast. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Zenit has to lose.' Noting that Zenit has to lose keeps Lyova's side of the story simple and clear.
+- 'There might never be another chance like this.' Even though there might never be another chance like this, Barinov keeps a steady face in front of Lyova.
+- 'We have to help Spartak.' Admitting that they have to help Spartak shows Lyova being honest for a change. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
+- 'And what do you think?' Asking what Lyova thinks is how Barinov puts Lyova on the spot. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'I agree with him.' Admitting that he agrees with him shows Lyova being honest for a change.
+- 'Take it away from him.' Once Lyova should take it away from him, Barinov can finally tell Lyova what he means.
+- 'Chef, there is a complimentary dish from the chef.' Lyova tells Barinov that there is a complimentary dish without dressing it up.
+- 'Chef, what are you doing?' Wondering what Lyova doing is is how Barinov puts Lyova on the spot.
+- 'Lyova, go away.' By going away, Lyova keeps his side of the story grounded.
+- 'I will handle this myself.' Barinov reminds Lyova that he will handle this himself before the moment passes.
+- 'That is underhanded, Chef.' Because that is underhanded, Lyova treats the matter as settled.
+- 'I said go.' Explaining that he said go lays the cards on the table for Lyova.

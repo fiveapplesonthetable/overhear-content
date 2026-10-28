@@ -1,31 +1,43 @@
-# Review: `dix-pour-cent-s03e03-scene-13` — L'agent double  (The Double Agent)
+# dix-pour-cent-s03e03-scene-13: review sheet
 
-- **Source**: `sources/dix-pour-cent/s03/e03.fr.dual.srt`
-- **Level**: A1 — débutant
-- **Voices**: `{"narrator": "sky", "camille": "emilie", "herve": "marcel", "lea": "lucie"}`
-- **Labels**: `{"camille": "Camille", "herve": "Hervé", "lea": "Andréa"}`
+Title: L'agent double  (The Double Agent)
+Level: A1 — débutant
+Pair: fr-en
+Source: Dix pour cent (Call My Agent!) S03E03
 
-## Part 1 — Intro
-> At home, Camille and Herve prepare an ambitious undercover scheme to manage talent together. By sharing two phones and a joint calendar under the single name of Camille Valentini, they plan to conquer Paris. Listen to the scene in French first.
 
-## Part 2 — Story Lines
-| # | Role | French | English | Source Cues |
-|---|------|--------|---------|-------------|
-| 0 | `herve` (Hervé) | Est-ce que tu es prêt? | Are you ready? | 541:t'es prêt |
-| 1 | `camille` (Camille) | Voici les téléphones de Camille Valentini. | Here are the phones for Camille Valentini. | 546:téléphones de la |
-| 2 | `camille` (Camille) | Un pour toi, un pour moi. | One for you, one for me. | 549:Un pour toi, un pour moi |
-| 3 | `herve` (Hervé) | Mais c'est vraiment génial! | But that is truly genius! | 550:c'est génial |
-| 4 | `camille` (Camille) | J'ai créé une adresse commune. | I created a shared address. | 553:j'ai créé une adresse |
-| 5 | `camille` (Camille) | On va être partout à la fois. | We are going to be everywhere at once. | 562:On va être partout à la fois |
-| 6 | `camille` (Camille) | Attends, c'est ma mère. | Wait, it is my mother. | 567:C'est ma mère |
-| 7 | `camille` (Camille) | Surtout, tu ne lui dis rien. | Above all, you do not tell her anything. | 573:tu lui dis rien |
-| 8 | `lea` (Andréa) | Camille, qu'est-ce qui se passe? | Camille, what is going on? | 575:qu'est-ce qui se passe |
-| 9 | `herve` (Hervé) | On va être Camille tous les deux. | We are going to be Camille together. | 576:tous les deux |
-| 10 | `lea` (Andréa) | Vous êtes complètement dérangées! | You are completely out of your minds! | 577:vous êtes complètement dérangées |
-| 11 | `camille` (Camille) | Tu dis toujours que je travaille trop. | You always say that I work too much. | 582:que je travaille trop |
-| 12 | `lea` (Andréa) | Tu lui fais confiance, à lui? | Do you trust him? | 586:Tu lui fais confiance, à lui |
-| 13 | `camille` (Camille) | Maman, il t'entend là! | Mom, he can hear you right now! | 589:Maman, il t'entend |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 5 — Outro & Closing
-> United under one identity, Camille and Herve take on double the workload with double the energy. When you watch the episode, listen out for the expressions meaning 'ready' and 'phones'. You'll catch them now. See you next time!
-- **Closing**: `herve`: *Bonne journée!*
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+|---|---|---|---|---|---|
+| 1 | Hervé | Est-ce que tu es prêt? | Are you ready? | #541: t'es prêt | verbatim |
+| 2 | Camille | Voici les téléphones de Camille Valentini. | Here are the phones for Camille Valentini. | #546: téléphones de la | verbatim |
+| 3 | Camille | Un pour toi, un pour moi. | One for you, one for me. | #549: Un pour toi, un pour moi | verbatim |
+| 4 | Hervé | Mais c'est vraiment génial! | But that is truly genius! | #550: c'est génial | verbatim |
+| 5 | Camille | J'ai créé une adresse commune. | I created a shared address. | #553: j'ai créé une adresse | verbatim |
+| 6 | Camille | On va être partout à la fois. | We are going to be everywhere at once. | #562: On va être partout à la fois | verbatim |
+| 7 | Camille | Attends, c'est ma mère. | Wait, it is my mother. | #567: C'est ma mère | verbatim |
+| 8 | Camille | Surtout, tu ne lui dis rien. | Above all, you do not tell her anything. | #573: tu lui dis rien | verbatim |
+| 9 | Annick | Camille, qu'est-ce qui se passe? | Camille, what is going on? | #575: qu'est-ce qui se passe | verbatim |
+| 10 | Hervé | On va être Camille tous les deux. | We are going to be Camille together. | #576: tous les deux | verbatim |
+| 11 | Annick | Vous êtes complètement dérangées! | You are completely out of your minds! | #577: vous êtes complètement dérangées | verbatim |
+| 12 | Camille | Tu dis toujours que je travaille trop. | You always say that I work too much. | #582: que je travaille trop | verbatim |
+| 13 | Annick | Tu lui fais confiance, à lui? | Do you trust him? | #586: Tu lui fais confiance, à lui | verbatim |
+| 14 | Camille | Maman, il t'entend là! | Mom, he can hear you right now! | #589: Maman, il t'entend | verbatim |
+
+## Walk-through narration (English only, no target-language words quoted)
+
+- 'Are you ready?' Herve checks if his partner is prepared for the plan. A short, idiomatic conversational reply that keeps the exchange moving naturally.
+- 'Here are the phones for Camille Valentini.' Camille presents the new mobile devices. The key noun here means 'phones', anchored by its matching French article.
+- 'One for you, one for me.' She divides the matching handsets fairly. Camille uses the casual singular 'you' with 'this line', showing close familiarity.
+- 'But that is truly genius!' Herve expresses his genuine admiration for the setup. The descriptive adjective for 'brilliant' agrees in gender and number with its noun.
+- 'I created a shared address.' Camille explains their new shared inbox. Notice how 'I have' leads directly into the noun meaning 'address'.
+- 'We are going to be everywhere at once.' She shares their ambitious vision for the agency. French forms the near future by pairing the present tense of 'to go' directly with 'to be'.
+- 'Wait, it is my mother.' Camille notices an incoming phone call. Notice how 'wait' leads directly into the noun meaning 'mother'.
+- 'Above all, you do not tell her anything.' She warns Herve to keep quiet about the identity trick. The informal 'you' form around 'tell' marks a direct, personal relationship.
+- 'Camille, what is going on?' Annick senses something unusual right away. Notice how the short vowel drops before a vowel sound around 'happens', making the phrase flow smoothly as one unit.
+- 'We are going to be Camille together.' Herve proudly reveals their shared professional persona. French forms the near future by pairing the present tense of 'to go' directly with 'to be'.
+- 'You are completely out of your minds!' Annick reacts with disbelief at the dangerous idea. The clause hinges on the everyday verb meaning 'out of your minds'.
+- 'You always say that I work too much.' Camille defends their secret workload sharing. Camille uses the casual singular 'you' with 'say', showing close familiarity.
+- 'Do you trust him?' Annick questions whether Herve is genuinely dependable. The verb meaning 'make' pairs naturally with the noun for 'trust' in everyday conversation.
+- 'Mom, he can hear you right now!' Camille reminds her mother that speakerphone is on. The short 'self' word sits right in front of the verb for 'hears you', turning the action back onto the subject. Now let's hear the whole conversation again.

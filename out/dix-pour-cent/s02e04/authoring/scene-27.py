@@ -7,8 +7,7 @@ SCENE = 27
 TITLE = "L'improvisation humiliante  (The Humiliating Improvisation)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'isabelle': 'emilie', 'sacha': 'theo', 'lea': 'lucie'}
-LABELS = {'isabelle': 'Isabelle', 'sacha': 'Sacha', 'lea': 'Andréa'}
+LABELS = {'camille': 'Camille', 'isabelle': 'Isabelle', 'sacha': 'Sacha'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e04.fr.dual.srt'
 INTRO = "At the production office, Isabelle Adjani meets young director Sacha Hartman for an audition. Sacha treats the legendary star coldly, demanding an apology improvisation before Camille reveals the true misunderstanding. Let's listen to the scene in French first."
@@ -29,9 +28,9 @@ STORY = [
     ('sacha', "Vous avez brisé mon cœur d'artiste.", 'You broke my artist heart.', [(853, 'Presque rien. Juste brisé mon cœur.')], ''),
     ('sacha', 'Vous avez rejeté mon scénario autrefois.', 'You rejected my screenplay in the past.', [(859, "Le scénario d'Amour Éternel, que vous avez refusé il y a quatre ans.")], ''),
     ('isabelle', "Je n'ai jamais vu votre texte!", 'I have never seen your text!', [(860, "Je n'ai jamais reçu de scénario ni de lettre.")], ''),
-    ('lea', "C'est ma faute, pardonnez-moi tous les deux.", 'It is my fault, forgive me both of you.', [(862, "C'est ma faute.")], ''),
-    ('lea', "J'étais stagiaire et j'ai jeté ce scénario.", 'I was an intern and I threw away this script.', [(863, 'Il y a quatre ans, je débutais chez ASK.'), (866, "et je l'ai jeté.")], ''),
-    ('lea', "Isabelle ne l'a jamais lu!", 'Isabelle never read it!', [(867, "Isabelle ne l'a jamais vu."), (868, 'Je suis vraiment désolé.')], ''),
+    ('camille', "C'est ma faute, pardonnez-moi tous les deux.", 'It is my fault, forgive me both of you.', [(862, "C'est ma faute.")], ''),
+    ('camille', "J'étais stagiaire et j'ai jeté ce scénario.", 'I was an intern and I threw away this script.', [(863, 'Il y a quatre ans, je débutais chez ASK.'), (866, "et je l'ai jeté.")], ''),
+    ('camille', "Isabelle ne l'a jamais lu!", 'Isabelle never read it!', [(867, "Isabelle ne l'a jamais vu."), (868, 'Je suis vraiment désolé.')], ''),
     ('isabelle', "Au moins, nous avons vidé l'abcès ensemble.", 'At least, we cleared the air together.', [(870, 'Alors tout va bien.'), (871, "On a vidé l'abcès.")], ''),
 ]
 WALK = [

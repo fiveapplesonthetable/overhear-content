@@ -1,31 +1,43 @@
-# Review: `dix-pour-cent-s03e03-scene-07` — Erreur de casting  (Casting Mistake)
+# dix-pour-cent-s03e03-scene-07: review sheet
 
-- **Source**: `sources/dix-pour-cent/s03/e03.fr.dual.srt`
-- **Level**: A1 — débutant
-- **Voices**: `{"narrator": "sky", "gabriel": "theo", "lea": "lucie"}`
-- **Labels**: `{"gabriel": "Gabriel", "lea": "Andréa"}`
+Title: Erreur de casting  (Casting Mistake)
+Level: A1 — débutant
+Pair: fr-en
+Source: Dix pour cent (Call My Agent!) S03E03
 
-## Part 1 — Intro
-> At the ASK agency, Gabriel suddenly realizes he made a catastrophic blunder with the casting names. He rushes to Andrea to explain that he reached Mathias's voicemail after confusing two candidates. Let's listen to their conversation in French first.
 
-## Part 2 — Story Lines
-| # | Role | French | English | Source Cues |
-|---|------|--------|---------|-------------|
-| 0 | `gabriel` (Gabriel) | Andréa, on a un gros problème avec le casting. | Andrea, we have a big problem with the casting. | 367:Le casting. |
-| 1 | `lea` (Andréa) | Qu'est-ce qui se passe avec le film? | What is going on with the film? | 367:Le casting. |
-| 2 | `gabriel` (Gabriel) | J'ai fait une énorme bêtise. | I made a huge mistake. | 368:Bassem, c'est pas Baptiste. |
-| 3 | `gabriel` (Gabriel) | Bassem, ce n'est pas Baptiste. | Bassem is not Baptiste. | 368:Bassem, c'est pas Baptiste. |
-| 4 | `lea` (Andréa) | Comment ça? Baptiste a quarante-cinq ans! | What do you mean? Baptiste is forty-five years old! | 369:Baptiste, il a 45 ans. |
-| 5 | `gabriel` (Gabriel) | Oui, c'est un rôle très important. | Yes, it is a very important role. | 370:C'est un énorme rôle. |
-| 6 | `gabriel` (Gabriel) | C'est le partenaire principal de Gérard Lanvin. | He is the main partner of Gerard Lanvin. | 371:C'est le partenaire de l'an 20. |
-| 7 | `lea` (Andréa) | Mais comment tu as pu confondre les deux? | But how could you confuse the two? | 372:C'est interdit aussi de choisir des noms de personnages aussi proches. |
-| 8 | `gabriel` (Gabriel) | Les deux prénoms se ressemblent trop. | The two first names sound too much alike. | 372:C'est interdit aussi de choisir des noms de personnages aussi proches. |
-| 9 | `lea` (Andréa) | Tu as essayé d'appeler Mathias? | Did you try calling Mathias? | adapted |
-| 10 | `gabriel` (Gabriel) | Oui, je suis tombé sur sa messagerie. | Yes, I reached his voicemail. | 373:Messagerie. |
-| 11 | `lea` (Andréa) | Il faut trouver une solution tout de suite. | We must find a solution right away. | 373:Messagerie. |
-| 12 | `gabriel` (Gabriel) | Je vais essayer de réparer mon erreur. | I am going to try to fix my mistake. | 373:Messagerie. |
-| 13 | `lea` (Andréa) | Dépêche-toi, le casting commence maintenant. | Hurry up, the casting is starting now. | 373:Messagerie. |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 5 — Outro & Closing
-> Gabriel rushes off after alerting Andrea about the casting catastrophe. When you watch the episode, listen out for the expressions meaning 'problem' and 'casting'. You'll catch them now. See you next time!
-- **Closing**: `gabriel`: *Bonne soirée!*
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+|---|---|---|---|---|---|
+| 1 | Gabriel | Andréa, on a un gros problème avec le casting. | Andrea, we have a big problem with the casting. | #367: Le casting. | verbatim |
+| 2 | Andréa | Qu'est-ce qui se passe avec le film? | What is going on with the film? | #367: Le casting. | verbatim |
+| 3 | Gabriel | J'ai fait une énorme bêtise. | I made a huge mistake. | #368: Bassem, c'est pas Baptiste. | verbatim |
+| 4 | Gabriel | Bassem, ce n'est pas Baptiste. | Bassem is not Baptiste. | #368: Bassem, c'est pas Baptiste. | verbatim |
+| 5 | Andréa | Comment ça? Baptiste a quarante-cinq ans! | What do you mean? Baptiste is forty-five years old! | #369: Baptiste, il a 45 ans. | verbatim |
+| 6 | Gabriel | Oui, c'est un rôle très important. | Yes, it is a very important role. | #370: C'est un énorme rôle. | verbatim |
+| 7 | Gabriel | C'est le partenaire principal de Gérard Lanvin. | He is the main partner of Gerard Lanvin. | #371: C'est le partenaire de l'an 20. | verbatim |
+| 8 | Andréa | Mais comment tu as pu confondre les deux? | But how could you confuse the two? | #372: C'est interdit aussi de choisir des noms de personnages aussi proches. | verbatim |
+| 9 | Gabriel | Les deux prénoms se ressemblent trop. | The two first names sound too much alike. | #372: C'est interdit aussi de choisir des noms de personnages aussi proches. | verbatim |
+| 10 | Andréa | Tu as essayé d'appeler Mathias? | Did you try calling Mathias? | new | new |
+| 11 | Gabriel | Oui, je suis tombé sur sa messagerie. | Yes, I reached his voicemail. | #373: Messagerie. | verbatim |
+| 12 | Andréa | Il faut trouver une solution tout de suite. | We must find a solution right away. | #373: Messagerie. | verbatim |
+| 13 | Gabriel | Je vais essayer de réparer mon erreur. | I am going to try to fix my mistake. | #373: Messagerie. | verbatim |
+| 14 | Andréa | Dépêche-toi, le casting commence maintenant. | Hurry up, the casting is starting now. | #373: Messagerie. | verbatim |
+
+## Walk-through narration (English only, no target-language words quoted)
+
+- 'Andrea, we have a big problem with the casting.' Gabriel breaks the bad news to Andrea. The verb meaning 'have' pairs naturally with the noun for 'problem' in everyday conversation.
+- 'What is going on with the film?' Andrea asks what happened. The short 'self' word sits right in front of the verb for 'happens', turning the action back onto the subject.
+- 'I made a huge mistake.' Gabriel admits his serious blunder. The adjective meaning 'huge' takes its feminine form here to match the noun it describes.
+- 'Bassem is not Baptiste.' Gabriel explains the mix-up between two similar names. The adverb meaning 'not' gives the reply its conversational emphasis.
+- 'What do you mean? Baptiste is forty-five years old!' Andrea reacts in shock. Notice how 'has' leads directly into the noun meaning 'years'.
+- 'Yes, it is a very important role.' Gabriel acknowledges the importance of the part. The descriptive adjective for 'important' agrees in gender and number with its noun.
+- 'He is the main partner of Gerard Lanvin.' Gabriel names the major movie star. The key noun here means 'partner', anchored by its matching French article.
+- 'But how could you confuse the two?' Andrea demands an explanation. Andrea uses the casual singular 'you' with 'have', showing close familiarity.
+- 'The two first names sound too much alike.' Gabriel explains the confusion. The short 'self' word sits right in front of the verb for 'resemble', turning the action back onto the subject.
+- 'Did you try calling Mathias?' Andrea asks whether Mathias was alerted. The clause hinges on the everyday verb meaning 'have'.
+- 'Yes, I reached his voicemail.' Gabriel explains that Mathias did not answer. Notice how 'fallen' leads directly into the noun meaning 'voicemail'.
+- 'We must find a solution right away.' Andrea urges prompt action. The verb meaning 'is necessary' pairs naturally with the noun for 'solution' in everyday conversation.
+- 'I am going to try to fix my mistake.' Gabriel vows to make amends. The verb meaning 'go' pairs naturally with the noun for 'mistake' in everyday conversation.
+- 'Hurry up, the casting is starting now.' Andrea gives urgent marching orders. The verb meaning 'hurry up' pairs naturally with the noun for 'casting' in everyday conversation.

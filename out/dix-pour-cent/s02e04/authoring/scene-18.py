@@ -7,8 +7,7 @@ SCENE = 18
 TITLE = 'Nouveau rendez-vous  (Rescheduling the Meeting)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'lea': 'lucie', 'sacha': 'theo'}
-LABELS = {'lea': 'Andréa', 'sacha': 'Sacha'}
+LABELS = {'andrea': 'Andréa', 'sacha': 'Sacha'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e04.fr.dual.srt'
 INTRO = 'In her office, Andréa meets with German film director Sacha Hartman, who is furious because he believes superstar Isabelle Adjani is ignoring him. Andréa decides to take control of the situation and calls Isabelle directly. Listen to the scene in French first.'
@@ -18,20 +17,20 @@ OUTRO = 'With a single phone call, Andréa fixes the misunderstanding and confir
 CLOSING = ('sacha', 'Bonne journée!')
 STORY = [
     ('sacha', 'Comment ça, Isabelle est indisponible?', 'What do you mean, Isabelle is unavailable?', [(481, 'Comment ça, indisponible ?')], ''),
-    ('lea', 'Elle a un défilé et des essayages.', 'She has a fashion show and costume fittings.', [(482, 'Rien. Elle a des essayages'), (483, 'puis un défilé Chanel')], ''),
+    ('andrea', 'Elle a un défilé et des essayages.', 'She has a fashion show and costume fittings.', [(482, 'Rien. Elle a des essayages'), (483, 'puis un défilé Chanel')], ''),
     ('sacha', 'Je suis resté à Paris exprès pour elle!', 'I stayed in Paris specially for her!', [(485, "Mais je suis resté exprès. Qu'est-ce qu'elle fait ?")], ''),
     ('sacha', 'Elle me séduit, puis elle me snobe.', 'She charms me, then she snubs me.', [(487, 'Elle vous séduit, puis vous snobe')], ''),
-    ('lea', 'Sacha, ne soyez pas si paranoïaque.', 'Sacha, do not be so paranoid.', [(489, 'Sacha, ne soyez pas si paranoïaque')], ''),
+    ('andrea', 'Sacha, ne soyez pas si paranoïaque.', 'Sacha, do not be so paranoid.', [(489, 'Sacha, ne soyez pas si paranoïaque')], ''),
     ('sacha', "Je n'ai pas besoin d'Adjani pour mon film.", 'I do not need Adjani for my movie.', [(492, "Je n'ai pas besoin d'Adjani !")], ''),
     ('sacha', "Il y a d'autres grandes actrices.", 'There are other great actresses.', [(493, 'Il y a plein de grandes actrices')], ''),
-    ('lea', "Attendez, je vais l'appeler tout de suite.", 'Wait, I am going to call her right away.', [(494, "Attendez, je vais l'appeler")], ''),
-    ('lea', "Allô Isabelle? C'est Andréa Martel.", 'Hello Isabelle? It is Andréa Martel.', [(497, "Isabelle, c'est Andréa Martel d'ASK")], ''),
-    ('lea', 'Sacha Hartman aimerait beaucoup vous voir.', 'Sacha Hartman would really like to see you.', [(498, "J'appelle de la part de Sacha Hartman"), (499, 'Souhaitez-vous le rencontrer ?')], ''),
-    ('lea', 'Seriez-vous libre demain matin au bureau?', 'Would you be free tomorrow morning at the office?', [(501, 'Demain, au bureau ?')], ''),
-    ('lea', 'Parfait, rendez-vous demain à onze heures!', 'Perfect, see you tomorrow at eleven o', [(504, 'Demain à 11h'), (505, 'Parfait, à demain, Isabelle')], ''),
-    ('lea', "Vous voyez, Sacha? C'est réglé.", 'You see, Sacha? It is settled.', [(510, "Alors, c'est réglé !")], ''),
+    ('andrea', "Attendez, je vais l'appeler tout de suite.", 'Wait, I am going to call her right away.', [(494, "Attendez, je vais l'appeler")], ''),
+    ('andrea', "Allô Isabelle? C'est Andréa Martel.", 'Hello Isabelle? It is Andréa Martel.', [(497, "Isabelle, c'est Andréa Martel d'ASK")], ''),
+    ('andrea', 'Sacha Hartman aimerait beaucoup vous voir.', 'Sacha Hartman would really like to see you.', [(498, "J'appelle de la part de Sacha Hartman"), (499, 'Souhaitez-vous le rencontrer ?')], ''),
+    ('andrea', 'Seriez-vous libre demain matin au bureau?', 'Would you be free tomorrow morning at the office?', [(501, 'Demain, au bureau ?')], ''),
+    ('andrea', 'Parfait, rendez-vous demain à onze heures!', 'Perfect, see you tomorrow at eleven o', [(504, 'Demain à 11h'), (505, 'Parfait, à demain, Isabelle')], ''),
+    ('andrea', "Vous voyez, Sacha? C'est réglé.", 'You see, Sacha? It is settled.', [(510, "Alors, c'est réglé !")], ''),
     ('sacha', 'Elle a vraiment accepté de me voir?', 'She really agreed to see me?', [(506, 'Indisponible ?')], ''),
-    ('lea', 'Oui, elle essaie de vous joindre depuis deux jours.', 'Yes, she has been trying to reach you for two days.', [(499, 'Depuis deux jours'), (500, "j'essaie !")], ''),
+    ('andrea', 'Oui, elle essaie de vous joindre depuis deux jours.', 'Yes, she has been trying to reach you for two days.', [(499, 'Depuis deux jours'), (500, "j'essaie !")], ''),
     ('sacha', "D'accord, alors je serai là demain.", 'Alright, then I will be there tomorrow.', [(504, "D'accord, merci"), (511, 'Très bien')], ''),
 ]
 WALK = [

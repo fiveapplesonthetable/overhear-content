@@ -8,14 +8,10 @@
  "scene": 9,
  "title": "Странная секта  (A Strange Sect)",
  "level": "A1 — Duolingo Section 2",
- "voices": {
-  "narrator": "sky",
-  "senya": "angelina",
-  "chef": "anja"
- },
  "labels": {
-  "senya": "Сеня",
-  "chef": "Шеф"
+  "barinov": "Шеф",
+  "lyova": "Лёва",
+  "senya": "Сеня"
  },
  "segments": [
   {
@@ -24,27 +20,27 @@
    "gap": 0.8
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Это очень хорошая и свежая говядина.",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Лёва, попробуй ещё один маленький кусочек.",
    "gap": 0.55
   },
   {
-   "v": "senya",
+   "v": "lyova",
    "t": "Подождите, шеф, это ведь не говядина.",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Точно, это же молодая нежная телятина!",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Видите, эти корейцы обычные нормальные люди.",
    "gap": 0.55
   },
@@ -59,7 +55,7 @@
    "gap": 0.55
   },
   {
-   "v": "senya",
+   "v": "lyova",
    "t": "Посмотрите, шеф, какие это обычные люди!",
    "gap": 0.55
   },
@@ -74,12 +70,12 @@
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Да хватит вам всякую глупость говорить!",
    "gap": 0.55
   },
   {
-   "v": "senya",
+   "v": "lyova",
    "t": "Давайте лучше пойдём обратно на кухню.",
    "gap": 0.9
   },
@@ -89,53 +85,53 @@
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Это очень хорошая и свежая говядина.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'This is very good and fresh beef.' Chef Barinov anchors the line on 'this', while 'beef' completes the thought.",
+   "t": "'This is very good and fresh beef.' Noting that this is very good and fresh beef keeps Barinov's side of the story simple and clear. Russian drops \"is\" in the present, setting the two halves of the thought side by side.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Лёва, попробуй ещё один маленький кусочек.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Lyova, try one more small piece.' The grammar packs 'Lyova' and 'piece' into a tight, idiomatic kitchen exchange.",
+   "t": "'Lyova, try one more small piece.' Telling Lyova to try one more small piece is how Barinov lays out the situation for Lyova.",
    "gap": 0.4
   },
   {
-   "v": "senya",
+   "v": "lyova",
    "t": "Подождите, шеф, это ведь не говядина.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Wait, chef, this is not beef after all.' In Russian, the idea of 'wait' flows naturally into 'beef' without extra filler words.",
+   "t": "'Wait, chef, this is not beef after all.' Admitting that this is not beef after all shows Lyova being honest for a change. Russian drops \"is\" in the present, setting the two halves of the thought side by side.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Точно, это же молодая нежная телятина!",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Exactly, this is young tender veal!' In Russian, the idea of 'exactly' flows naturally into 'veal' without extra filler words.",
+   "t": "'Exactly, this is young tender veal!' Barinov insists that exactly this is young tender veal, leaving Lyova no room to argue. Russian drops \"is\" in the present, setting the two halves of the thought side by side.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Видите, эти корейцы обычные нормальные люди.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'You see, these Koreans are ordinary normal people.' Spoken Russian keeps this brisk, leaning on 'you see' and finishing on 'people'.",
+   "t": "'You see, these Koreans are ordinary normal people.' Once these are ordinary normal people, Barinov can finally tell Lyova what he means.",
    "gap": 0.4
   },
   {
@@ -145,7 +141,7 @@
   },
   {
    "v": "narrator",
-   "t": "'They have some kind of special day today.' The grammar packs 'at' and 'day' into a tight, idiomatic kitchen exchange.",
+   "t": "'They have some kind of special day today.' Adding that they have some kind of special day today fills in the missing piece for Barinov.",
    "gap": 0.4
   },
   {
@@ -155,17 +151,17 @@
   },
   {
    "v": "narrator",
-   "t": "'They are celebrating the birthday of their teacher.' Here the Russian phrasing highlights 'they' before landing on 'the teachers'. Lyova answers right away.",
+   "t": "'They are celebrating the birthday of their teacher.' Saying that they are celebrating the birthday of their teacher is how Senya sets the tone with Barinov.",
    "gap": 0.4
   },
   {
-   "v": "senya",
+   "v": "lyova",
    "t": "Посмотрите, шеф, какие это обычные люди!",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Look, chef, what ordinary people they are!' Here the Russian phrasing highlights 'look' before landing on 'people'.",
+   "t": "'Look, chef, what ordinary people they are!' Insisting that what ordinary people they are shows Lyova is not backing down.",
    "gap": 0.4
   },
   {
@@ -175,7 +171,7 @@
   },
   {
    "v": "narrator",
-   "t": "'It seems this is some very strange sect.' The meaning hinges on 'it seems' working together with 'sect' in spoken Russian.",
+   "t": "'It seems this is some very strange sect.' Mentioning that it seems this is some very strange sect moves the talk in a new direction. Russian drops \"is\" in the present, setting the two halves of the thought side by side.",
    "gap": 0.4
   },
   {
@@ -185,51 +181,51 @@
   },
   {
    "v": "narrator",
-   "t": "'We are lucky if this is veal.' The grammar packs 'us' and 'veal' into a tight, idiomatic kitchen exchange. Chef Barinov answers right away.",
+   "t": "'We are lucky if this is veal.' Saying that they are lucky if this is veal is how Senya sets the tone with Barinov. Russian drops \"is\" in the present, setting the two halves of the thought side by side.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Да хватит вам всякую глупость говорить!",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Stop talking all kinds of nonsense!' Chef Barinov anchors the line on 'yes', while 'to speak' completes the thought.",
+   "t": "'Stop talking all kinds of nonsense!' Insisting that Lyova should stop talking all kinds of nonsense shows Barinov is not backing down.",
    "gap": 0.4
   },
   {
-   "v": "senya",
+   "v": "lyova",
    "t": "Давайте лучше пойдём обратно на кухню.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Let us better go back to the kitchen.' In Russian, the idea of 'let's' flows naturally into 'kitchen' without extra filler words. Alright, let's hear the entire conversation one more time from start to finish.",
+   "t": "'Let us better go back to the kitchen.' Even though they should better go back to the kitchen, Lyova keeps a steady face in front of Barinov. Starting with \"davay\" is the everyday Russian way to say \"come on, let us do this\". Alright, let's hear the entire conversation one more time from start to finish.",
    "gap": 0.9
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Это очень хорошая и свежая говядина.",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Лёва, попробуй ещё один маленький кусочек.",
    "gap": 0.5
   },
   {
-   "v": "senya",
+   "v": "lyova",
    "t": "Подождите, шеф, это ведь не говядина.",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Точно, это же молодая нежная телятина!",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Видите, эти корейцы обычные нормальные люди.",
    "gap": 0.5
   },
@@ -244,7 +240,7 @@
    "gap": 0.5
   },
   {
-   "v": "senya",
+   "v": "lyova",
    "t": "Посмотрите, шеф, какие это обычные люди!",
    "gap": 0.5
   },
@@ -259,12 +255,12 @@
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Да хватит вам всякую глупость говорить!",
    "gap": 0.5
   },
   {
-   "v": "senya",
+   "v": "lyova",
    "t": "Давайте лучше пойдём обратно на кухню.",
    "gap": 0.9
   },
@@ -274,7 +270,7 @@
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Всего хорошего!",
    "gap": 0.3
   }

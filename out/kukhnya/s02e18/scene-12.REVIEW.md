@@ -10,32 +10,32 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Родион | Зря вы Константина с собой привели. | You should not have brought Konstantin along with you. | #197 00:11:18: Зря вы Константина с собой привели | verbatim |
-| 2 | Родион | Да, алло. | Yes, hello. | #197 00:11:18: Да, алло | verbatim |
-| 3 | Родион | А мы все знаем. | We know everything that happened. | #198 00:11:22: А мы все знаем | verbatim |
-| 4 | Родион | Как вы узнали? | How did you find out? | #198 00:11:22: Как вы узнали | verbatim |
-| 5 | Родион | Магазин на другой стороне улицы. | There is a shop on the other side of the street. | #199 00:11:26: Магазин на другой стороне улицы | verbatim |
-| 6 | Родион | Вот, справа за углом урна. | Right there, around the corner to the right, is a trash bin. | #200 00:11:29: Вот, справа за углом урна | verbatim |
-| 7 | Родион | Положите туда деньги и уходите. | Put the money inside it and walk away. | #201 00:11:34: Положите туда деньги и уходите | verbatim |
-| 8 | Родион | Родион Сергеевич? | Rodion Sergeyevich? | #203 00:11:39: Родион Сергеевич | verbatim |
-| 9 | Родион | А то я уже на работу опаздываю. | Otherwise I am going to be late for work already. | #204 00:11:45: А то я уже на работу опаздываю | verbatim |
-| 10 | Родион | Одному? Ну? | All by myself? Well? | #206 00:11:53: одному? Ну | verbatim |
-| 11 | Родион | Только ради вас. | Only for your sake. | #207 00:11:57: Только ради вас | verbatim |
-| 12 | Родион | В ресторане Клод Мане. | At the Claude Monet restaurant. | #210 00:12:28: в ресторане Клод Мане | verbatim |
-| 13 | Родион | Но дело в том. | Because the thing is. | #211 00:12:31: но дело в том | verbatim |
+| 1 | Родион | Зря вы Константина с собой привели. | You should not have brought Konstantin along with you. | #197: Зря вы Константина с собой привели | verbatim |
+| 2 | Шеф | Да, алло. | Yes, hello. | #197: Да, алло | verbatim |
+| 3 | Родион | А мы все знаем. | We know everything that happened. | #198: А мы все знаем | verbatim |
+| 4 | Шеф | Как вы узнали? | How did you find out? | #198: Как вы узнали | verbatim |
+| 5 | Родион | Магазин на другой стороне улицы. | There is a shop on the other side of the street. | #199: Магазин на другой стороне улицы | verbatim |
+| 6 | Шеф | Вот, справа за углом урна. | Right there, around the corner to the right, is a trash bin. | #200: Вот, справа за углом урна | verbatim |
+| 7 | Родион | Положите туда деньги и уходите. | Put the money inside it and walk away. | #201: Положите туда деньги и уходите | verbatim |
+| 8 | Шеф | Родион Сергеевич? | Rodion Sergeyevich? | #203: Родион Сергеевич | verbatim |
+| 9 | Родион | А то я уже на работу опаздываю. | Otherwise I am going to be late for work already. | #204: А то я уже на работу опаздываю | verbatim |
+| 10 | Шеф | Одному? Ну? | All by myself? Well? | #206: одному? Ну | verbatim |
+| 11 | Родион | Только ради вас. | Only for your sake. | #207: Только ради вас | verbatim |
+| 12 | Шеф | В ресторане Клод Мане. | At the Claude Monet restaurant. | #210: в ресторане Клод Мане | verbatim |
+| 13 | Родион | Но дело в том. | Because the thing is. | #211: но дело в том | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You should not have brought Konstantin along with you.' In Russian, the idea of 'for nothing' flows naturally into 'brought' without extra filler words. Chef Viktor answers right away.
-- 'Yes, hello.' Spoken Russian keeps this brisk, leaning on 'yes' and finishing on 'hello'.
-- 'We know everything that happened.' Rodion brings out the contrast between 'and' and 'we' in a few short words.
-- 'How did you find out?' Chef Viktor brings out the contrast between 'how' and 'you' in a few short words. Rodion answers right away.
-- 'There is a shop on the other side of the street.' Notice how Russian expresses 'store' and 'street' with crisp inflection rather than helper words.
-- 'Right there, around the corner to the right, is a trash bin.' Chef Viktor anchors the line on 'there you go', while 'trash bin' completes the thought.
-- 'Put the money inside it and walk away.' In Russian, the idea of 'put' flows naturally into 'leave' without extra filler words. Chef Viktor answers right away.
-- 'Rodion Sergeyevich?' The grammar packs 'Rodion' and 'Sergeyevich' into a tight, idiomatic kitchen exchange.
-- 'Otherwise I am going to be late for work already.' Rodion pairs 'now, already' with 'am running late' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
-- 'All by myself? Well?' Notice how Russian expresses 'alone' and 'come on' with crisp inflection rather than helper words. Rodion answers right away.
-- 'Only for your sake.' In Russian, the idea of 'only' flows naturally into 'you' without extra filler words.
-- 'At the Claude Monet restaurant.' The meaning hinges on 'restaurant' working together with 'Monet' in spoken Russian.
-- 'Because the thing is.' Notice how Russian expresses 'but' and 'that' with crisp inflection rather than helper words.
+- 'You should not have brought Konstantin along with you.' Rodion explains that Barinov should not have brought Konstantin along with Barinov, keeping his voice calm and direct. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
+- 'Yes, hello.' Around the shift and restaurant, Barinov sets a calm, everyday tone with Rodion.
+- 'We know everything that happened.' Knowing everything that happened is how Rodion lays out the situation for Barinov.
+- 'How did you find out?' Wondering how Rodion finds out is how Barinov puts Rodion on the spot. Notice how he sticks to the formal "you", keeping a professional line between them.
+- 'There is a shop on the other side of the street.' Admitting that there is a shop on the other side of the street shows Rodion being honest for a change.
+- 'Right there, around the corner to the right, is a trash bin.' Saying that right there around the corner to the right is a trash bin is how Barinov sets the tone with Rodion.
+- 'Put the money inside it and walk away.' Once Barinov should put the money inside it and walk away, Rodion can finally tell Barinov what he means.
+- 'Rodion Sergeyevich?' Turning from the money to the restaurant, Barinov asks Rodion directly.
+- 'Otherwise I am going to be late for work already.' Rodion tells Barinov that otherwise he is going to be late for work already without dressing it up.
+- 'All by myself? Well?' With the money and shift hanging in the air, Barinov puts Rodion on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Only for your sake.' Around the conversation and money, Rodion sets a calm, everyday tone with Barinov.
+- 'At the Claude Monet restaurant.' Between the conversation and the money, Barinov gives Rodion a quick, grounded response.
+- 'Because the thing is.' Because because the thing is, Rodion treats the matter as settled.

@@ -4,30 +4,29 @@ SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 2
 SCENE = 16
-TITLE = "Срочное дело  (Urgent Business)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Срочное дело  (Urgent Business)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "nagiyev": "angelina"}
-LABELS = {"nagiyev": "Нагиев"}
+LABELS = {'nagiyev': 'Нагиев', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S2.02'
 SOURCE_FILE = 'sources/kukhnya/s02/e02.ru.dual.srt'
 INTRO = "Nagiyev urgently asks Victoria to come with him to discuss a very important matter. Victoria is busy and annoyed by his sudden request. Let's listen closely to their conversation in Russian first, and then walk through each line together."
 OPENER = "Now let's go back through the exchange around Urgent Business line by line and unpack how the Russian works."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Victoria reluctantly agrees to follow her boss, wondering what kind of problem he has created this time. Next time you watch the episode, listen for the Russian expressions for 'carefully' and 'to listen' — you will catch every word right away. See you next time!"
-CLOSING = ("nagiyev", "Пока!")
+CLOSING = ('nagiyev', 'Пока!')
 STORY = [
     ('nagiyev', 'Вика!', 'Vika!', [], ''),
-    ('nagiyev', 'Да, я тебя внимательно слушаю.', 'Yes, I am listening to you carefully.', [(274, 'Я тебя слушаю.')], ''),
+    ('vika', 'Да, я тебя внимательно слушаю.', 'Yes, I am listening to you carefully.', [(274, 'Я тебя слушаю.')], ''),
     ('nagiyev', 'Нам нужно срочно поговорить.', 'We need to talk urgently.', [], ''),
-    ('nagiyev', 'Что у тебя там за срочное дело?', 'What urgent business do you have there?', [(275, 'Что у тебя там за срочное дело')], ''),
-    ('nagiyev', 'О котором ты не можешь говорить по телефону?', 'About which you cannot speak on the phone?', [(275, 'о котором ты не можешь говорить по телефону')], ''),
+    ('vika', 'Что у тебя там за срочное дело?', 'What urgent business do you have there?', [(275, 'Что у тебя там за срочное дело')], ''),
+    ('vika', 'О котором ты не можешь говорить по телефону?', 'About which you cannot speak on the phone?', [(275, 'о котором ты не можешь говорить по телефону')], ''),
     ('nagiyev', 'Это не для телефонного разговора.', 'This is not for a telephone conversation.', [], ''),
-    ('nagiyev', 'Я сейчас очень занята.', 'I am very busy right now.', [], ''),
+    ('vika', 'Я сейчас очень занята.', 'I am very busy right now.', [], ''),
     ('nagiyev', 'Это действительно очень важно.', 'This is truly very important.', [], ''),
-    ('nagiyev', 'Хорошо, что случилось?', 'Fine, what happened?', [], ''),
+    ('vika', 'Хорошо, что случилось?', 'Fine, what happened?', [], ''),
     ('nagiyev', 'Просто пойдем со мной.', 'Just come with me.', [(276, 'Пойдем со мной.')], ''),
-    ('nagiyev', 'Куда мы идём?', 'Where are we going?', [], ''),
+    ('vika', 'Куда мы идём?', 'Where are we going?', [], ''),
     ('nagiyev', 'Ты скоро всё сама увидишь.', 'You will soon see everything yourself.', [], ''),
 ]
 WALK = [

@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Сеня | Марина, дорогая, я хотел с тобой посоветоваться. | Marina, darling, I wanted to ask your advice. | #109 00:07:44: Марина, я с тобой поговорить хотела?<br>#111 00:07:48: Я просто посоветоваться хотела. | adapted: adapted |
-| 2 | Марина | Сразу тебе говорю, денег я не дам! | I am telling you right away, I will not give you money! | #110 00:07:46: Денег не дам. | adapted: adapted |
-| 3 | Сеня | При чём тут деньги, у парня огромное горе! | What does money have to do with it, the guy has a terrible grief! | #111 00:07:48: Какие деньги? Деньги ни при чем.<br>#128 00:08:32: Парни, такое горе. | adapted: adapted |
-| 4 | Сеня | Можно у нас парень с работы немного поживёт? | Can a guy from work stay at our place for a little while? | #112 00:07:52: Можно у нас парень с моей работой поживет чуть-чуть? | adapted: adapted |
-| 5 | Сеня | Бедный парень совсем недавно всю семью потерял. | The poor guy lost his entire family very recently. | #117 00:08:05: он всю семью потерял. | adapted: adapted |
-| 6 | Сеня | А потом у него ещё и квартиру отобрали! | And then they even took his apartment away from him! | #120 00:08:15: отобрали квартиру. | adapted: adapted |
-| 7 | Марина | Бедный человек, как же ему сейчас тяжело! | Poor man, how hard it must be for him right now! | #119 00:08:12: Представляешь, ему как тяжело. | adapted: adapted |
-| 8 | Сеня | Он даже предлагал платить нам по пять тысяч. | He even offered to pay us five thousand a month. | #125 00:08:25: Говорит, давайте, даже платить буду.<br>#126 00:08:28: пять тысяч давайте. | adapted: adapted |
-| 9 | Марина | Да что ты, Сеня, пусть живёт у нас бесплатно! | Why, what are you saying, Senya, let him live with us for free! | #127 00:08:30: Да что ты, Сеня, ну пусть живет бесплатно.<br>#130 00:08:37: Сеня, пусть живет бесплатно. | adapted: adapted |
-| 10 | Сеня | Ладно, Марина, пусть он живёт у нас бесплатно. | All right, Marina, let him live at our place for free. | #131 00:08:41: Пусть живет бесплатно. | adapted: adapted |
-| 11 | Сеня | В общем, старик, комната стоит двадцать пять тысяч. | In short, old pal, the room costs twenty-five thousand. | #132 00:08:45: Ну, в общем, старик за 25. | adapted: adapted |
-| 12 | Сеня | Моя жена за двадцать тысяч никак не согласилась! | My wife refused to agree to twenty thousand at all! | #133 00:08:48: Жена за 20 не согласилась. | adapted: adapted |
+| 1 | Сеня | Марина, дорогая, я хотел с тобой посоветоваться. | Marina, darling, I wanted to ask your advice. | #109: Марина, я с тобой поговорить хотела?<br>#111: Я просто посоветоваться хотела. | adapted: adapted |
+| 2 | Марина | Сразу тебе говорю, денег я не дам! | I am telling you right away, I will not give you money! | #110: Денег не дам. | adapted: adapted |
+| 3 | Сеня | При чём тут деньги, у парня огромное горе! | What does money have to do with it, the guy has a terrible grief! | #111: Какие деньги? Деньги ни при чем.<br>#128: Парни, такое горе. | adapted: adapted |
+| 4 | Сеня | Можно у нас парень с работы немного поживёт? | Can a guy from work stay at our place for a little while? | #112: Можно у нас парень с моей работой поживет чуть-чуть? | adapted: adapted |
+| 5 | Сеня | Бедный парень совсем недавно всю семью потерял. | The poor guy lost his entire family very recently. | #117: он всю семью потерял. | adapted: adapted |
+| 6 | Сеня | А потом у него ещё и квартиру отобрали! | And then they even took his apartment away from him! | #120: отобрали квартиру. | adapted: adapted |
+| 7 | Марина | Бедный человек, как же ему сейчас тяжело! | Poor man, how hard it must be for him right now! | #119: Представляешь, ему как тяжело. | adapted: adapted |
+| 8 | Сеня | Он даже предлагал платить нам по пять тысяч. | He even offered to pay us five thousand a month. | #125: Говорит, давайте, даже платить буду.<br>#126: пять тысяч давайте. | adapted: adapted |
+| 9 | Марина | Да что ты, Сеня, пусть живёт у нас бесплатно! | Why, what are you saying, Senya, let him live with us for free! | #127: Да что ты, Сеня, ну пусть живет бесплатно.<br>#130: Сеня, пусть живет бесплатно. | adapted: adapted |
+| 10 | Сеня | Ладно, Марина, пусть он живёт у нас бесплатно. | All right, Marina, let him live at our place for free. | #131: Пусть живет бесплатно. | adapted: adapted |
+| 11 | Сеня | В общем, старик, комната стоит двадцать пять тысяч. | In short, old pal, the room costs twenty-five thousand. | #132: Ну, в общем, старик за 25. | adapted: adapted |
+| 12 | Сеня | Моя жена за двадцать тысяч никак не согласилась! | My wife refused to agree to twenty thousand at all! | #133: Жена за 20 не согласилась. | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Marina, darling, I wanted to ask your advice.' In everyday Russian, 'dear' flows straight into 'to consult, to ask advice' without extra linking words.
-- 'I am telling you right away, I will not give you money!' Knowing her husband's boat obsession, Marina cuts him off immediately.
-- 'What does money have to do with it, the guy has a terrible grief!' Senya pretends to be offended by her suspicion.
-- 'Can a guy from work stay at our place for a little while?' Prefix on the future verb means 'to live/stay for a while'.
-- 'The poor guy lost his entire family very recently.' In everyday Russian, 'poor' flows straight into 'lost' without extra linking words.
-- 'And then they even took his apartment away from him!' Senya piles one melodramatic disaster onto another.
-- 'Poor man, how hard it must be for him right now!' Warm-hearted Marina is immediately moved to tears by the story.
-- 'He even offered to pay us five thousand a month.' Senya tests whether Marina will let him collect any cash openly.
-- 'Why, what are you saying, Senya, let him live with us for free!' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.
-- 'All right, Marina, let him live at our place for free.' Having secured Marina's permission, Senya steps out to meet Denis.
-- 'In short, old pal, the room costs twenty-five thousand.' Not only does Senya pocket the rent, he raises the price by five grand!
-- 'My wife refused to agree to twenty thousand at all!' Denis agrees and hands over the cash, unaware that Marina thinks he is a charity guest.
+- 'Marina, darling, I wanted to ask your advice.' Pointing out that darling he wanted to ask Marina's advice gives Marina a sobering reality check.
+- 'I am telling you right away, I will not give you money!' Marina insists that she is telling Senya right away she will not give Senya money, leaving Senya no room to argue. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'What does money have to do with it, the guy has a terrible grief!' Senya declares that what does money have to do with it the guy has a terrible grief as the tension in the room peaks. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Can a guy from work stay at our place for a little while?' Checking whether a guy from work stay at their place for a little is how Senya puts Marina on the spot.
+- 'The poor guy lost his entire family very recently.' Even though the poor guy lost his entire family very recently, Senya keeps a steady face in front of Marina.
+- 'And then they even took his apartment away from him!' Once they even took his apartment away from him, Senya makes sure Marina hears every word. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
+- 'Poor man, how hard it must be for him right now!' Declaring that poor man how hard it must be for him right now brings Marina's temper right to the surface.
+- 'He even offered to pay us five thousand a month.' Between the point and the secret, Senya gives Marina a quick, grounded response.
+- 'Why, what are you saying, Senya, let him live with us for free!' Saying that why what are Senya saying Senya let him live with them for free is how Marina takes charge of the moment. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
+- 'All right, Marina, let him live at our place for free.' Saying that all right Marina let him live at their place for free is how Senya sets the tone with Marina.
+- 'In short, old pal, the room costs twenty-five thousand.' Since in short old pal the room costs twenty five thousand, Senya does not waste words on excuses.
+- 'My wife refused to agree to twenty thousand at all!' Over the story and the family, Senya lets his real feelings show. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.

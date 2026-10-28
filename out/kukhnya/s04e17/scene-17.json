@@ -8,14 +8,10 @@
  "scene": 17,
  "title": "Признание доктора  (The Doctor's Confession)",
  "level": "A1 — Duolingo Section 2",
- "voices": {
-  "narrator": "sky",
-  "lyova": "angelina",
-  "chef": "anja"
- },
  "labels": {
-  "lyova": "Лёва",
-  "chef": "Шеф"
+  "barinov": "Шеф",
+  "eva": "Ева",
+  "lyova": "Лёва"
  },
  "segments": [
   {
@@ -24,12 +20,12 @@
    "gap": 0.8
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Доктор, что вы здесь вечером делаете?",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Вы на дому осмотры устраиваете?",
    "gap": 0.55
   },
@@ -44,7 +40,7 @@
    "gap": 0.55
   },
   {
-   "v": "lyova",
+   "v": "eva",
    "t": "Витя, отпусти его, он всё врёт!",
    "gap": 0.55
   },
@@ -59,12 +55,12 @@
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "У нас не будет никакого ребёнка!",
    "gap": 0.55
   },
   {
-   "v": "lyova",
+   "v": "eva",
    "t": "Как это не будет, ты трус!",
    "gap": 0.55
   },
@@ -74,12 +70,12 @@
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Конечно, иди отсюда скорее домой!",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Ева, тебе серьёзно лечиться надо.",
    "gap": 0.9
   },
@@ -89,23 +85,23 @@
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Доктор, что вы здесь вечером делаете?",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Doctor, what are you doing here in the evening?' Barinov grabs the doctor on the stairs, recognizing him from the clinic.",
+   "t": "'Doctor, what are you doing here in the evening?' Questioning whether doctor what are Eva doing here in the evening is how Barinov tests Eva's story. Notice how he sticks to the formal \"you\", keeping a professional line between them.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Вы на дому осмотры устраиваете?",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Do you arrange medical exams at home?' In spoken Russian, the words stay in their normal statement order and Chef Barinov's rising voice at the end turns the line into a question.",
+   "t": "'Do you arrange medical exams at home?' Asking whether Eva arranges medical exams at home cuts straight through the tension between Barinov and Eva. Even in the middle of the drama, he keeps the polite plural \"you\" that workplace Russian expects.",
    "gap": 0.4
   },
   {
@@ -115,7 +111,7 @@
   },
   {
    "v": "narrator",
-   "t": "'She paid me money for this!' In everyday Russian, 'to pay' flows straight into 'money' without extra linking words.",
+   "t": "'She paid me money for this!' Lyova declares that she paid him money for this as the tension in the room peaks.",
    "gap": 0.4
   },
   {
@@ -125,17 +121,17 @@
   },
   {
    "v": "narrator",
-   "t": "'She asked me to say that she is pregnant.' He reveals how Eva staged the ultrasound exam.",
+   "t": "'She asked me to say that she is pregnant.' Lyova explains that she asked him to say that she is pregnant, keeping his voice calm and direct.",
    "gap": 0.4
   },
   {
-   "v": "lyova",
+   "v": "eva",
    "t": "Витя, отпусти его, он всё врёт!",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Vitya, let him go, he is lying about everything!' Eva rushes out of her door and tries to silence Edik.",
+   "t": "'Vitya, let him go, he is lying about everything!' Letting him go he is lying about everything is Eva's blunt reaction in front of Barinov. Russian puts the key word right up front so her emotion lands on the first beat.",
    "gap": 0.4
   },
   {
@@ -145,7 +141,7 @@
   },
   {
    "v": "narrator",
-   "t": "'No, I am not lying at all right now.' The first-person singular present tense comes from the everyday verb meaning to tell lies.",
+   "t": "'No, I am not lying at all right now.' Lyova mentions that he is not lying at all right now so Barinov sees what is at stake.",
    "gap": 0.4
   },
   {
@@ -155,27 +151,27 @@
   },
   {
    "v": "narrator",
-   "t": "'I was lying back then at the morning exam.' In everyday Russian, 'then, in that case' flows straight into 'exam' without extra linking words.",
+   "t": "'I was lying back then at the morning exam.' Even though he was lying back then at the morning exam, Lyova keeps a steady face in front of Barinov.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "У нас не будет никакого ребёнка!",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'We are not having any child!' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.",
+   "t": "'We are not having any child!' Barinov insists that they are not having any child, leaving Eva no room to argue. In Russian you say \"by me\" or \"with us\" rather than \"I have\", so the situation sits right with the person.",
    "gap": 0.4
   },
   {
-   "v": "lyova",
+   "v": "eva",
    "t": "Как это не будет, ты трус!",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'What do you mean there won't be, you coward!' Furious that her scam collapsed, Eva snaps at her accomplice.",
+   "t": "'What do you mean there won't be, you coward!' Because what do Barinov means there will not be Barinov coward, Eva does not bother softening the blow for Barinov.",
    "gap": 0.4
   },
   {
@@ -185,36 +181,36 @@
   },
   {
    "v": "narrator",
-   "t": "'Viktor Petrovich, will you let me go now?' In spoken Russian, the words stay in their normal statement order and Lyova's rising voice at the end turns the line into a question.",
+   "t": "'Viktor Petrovich, will you let me go now?' Asking whether Barinov lets him go now cuts straight through the tension between Lyova and Barinov. Even in the middle of the drama, he keeps the polite plural \"you\" that workplace Russian expects.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Конечно, иди отсюда скорее домой!",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Of course, get out of here and go home quickly!' Barinov lets the doctor go now that he knows the truth.",
+   "t": "'Of course, get out of here and go home quickly!' Here telling Eva to get out of here and go home quickly lets Barinov's real feelings break through. Russian puts the key word right up front so his emotion lands on the first beat.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Ева, тебе серьёзно лечиться надо.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Eva, you seriously need medical treatment.' Chef Barinov pairs 'seriously' with 'need to, must' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'. Now let's hear the staircase confrontation again without interruption.",
+   "t": "'Eva, you seriously need medical treatment.' With the doctor and kitchen in play, Barinov keeps this short reply brisk and direct. Now let's hear the staircase confrontation again without interruption.",
    "gap": 0.9
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Доктор, что вы здесь вечером делаете?",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Вы на дому осмотры устраиваете?",
    "gap": 0.5
   },
@@ -229,7 +225,7 @@
    "gap": 0.5
   },
   {
-   "v": "lyova",
+   "v": "eva",
    "t": "Витя, отпусти его, он всё врёт!",
    "gap": 0.5
   },
@@ -244,12 +240,12 @@
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "У нас не будет никакого ребёнка!",
    "gap": 0.5
   },
   {
-   "v": "lyova",
+   "v": "eva",
    "t": "Как это не будет, ты трус!",
    "gap": 0.5
   },
@@ -259,12 +255,12 @@
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Конечно, иди отсюда скорее домой!",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Ева, тебе серьёзно лечиться надо.",
    "gap": 0.9
   },
@@ -274,7 +270,7 @@
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "До свидания!",
    "gap": 0.3
   }

@@ -10,20 +10,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Самсон | Узнаёшь? У нас здесь ничего не изменилось. | Recognise it? Nothing has changed here. | #695 00:41:00: Узнаёшь<br>#697 00:41:02: у нас здесь ничего не изменилось | verbatim |
-| 2 | Аня | Пусти меня, Самсон! | Let me go, Samson! | #694 00:40:57: Пусти меня | adapted: 'Самсон' added as address |
-| 3 | Самсон | Сейчас будешь чинить трубу. И унитаз не забудь помыть. | Now you're going to fix the pipe. And don't forget to wash the toilet. | #698 00:41:03: Сейчас будешь<br>#703 00:41:15: Унитаз не забудь помыть | adapted: 698 'стоять, чинить' simplified to 'чинить трубу'; the detailed repair orders (699-702) summarised |
-| 4 | Аня | Послушай, Самсон, я это делать не буду. | Listen, Samson, I'm not going to do this. | #705 00:41:23: Послушай, Самсон | adapted: 706 retold cleanly: the crude refusal becomes 'я это делать не буду' |
-| 5 | Аня | Я выйду отсюда через две недели. Я решу все ваши проблемы. | I'll be out of here in two weeks. I'll solve all your problems. | #709 00:41:35: Я выйду отсюда через две недели<br>#710 00:41:37: Я решу все ваши проблемы | adapted: 'максимум' dropped |
-| 6 | Аня | У вас будет всё, что захотите. | You'll have everything you want. | #711 00:41:39: У вас будет все, что захотите | verbatim |
-| 7 | Нина | Всё, что захотим, говоришь? | Everything we want, you say? | #716 00:41:48: Все, что захотим, говоришь | adapted: given to Nina |
-| 8 | Аня | Всё, что захотите. Клянусь! | Everything you want. I swear! | #717 00:41:53: Все, что захотите<br>#719 00:41:55: клянусь | adapted: 'Мама' dropped from 719 |
+| 1 | Самсон | Узнаёшь? У нас здесь ничего не изменилось. | Recognise it? Nothing has changed here. | #695: Узнаёшь<br>#697: у нас здесь ничего не изменилось | verbatim |
+| 2 | Аркадий | Пусти меня, Самсон! | Let me go, Samson! | #694: Пусти меня | adapted: 'Самсон' added as address |
+| 3 | Самсон | Сейчас будешь чинить трубу. И унитаз не забудь помыть. | Now you're going to fix the pipe. And don't forget to wash the toilet. | #698: Сейчас будешь<br>#703: Унитаз не забудь помыть | adapted: 698 'стоять, чинить' simplified to 'чинить трубу'; the detailed repair orders (699-702) summarised |
+| 4 | Аркадий | Послушай, Самсон, я это делать не буду. | Listen, Samson, I'm not going to do this. | #705: Послушай, Самсон | adapted: 706 retold cleanly: the crude refusal becomes 'я это делать не буду' |
+| 5 | Аркадий | Я выйду отсюда через две недели. Я решу все ваши проблемы. | I'll be out of here in two weeks. I'll solve all your problems. | #709: Я выйду отсюда через две недели<br>#710: Я решу все ваши проблемы | adapted: 'максимум' dropped |
+| 6 | Аркадий | У вас будет всё, что захотите. | You'll have everything you want. | #711: У вас будет все, что захотите | verbatim |
+| 7 | Нина | Всё, что захотим, говоришь? | Everything we want, you say? | #716: Все, что захотим, говоришь | adapted: given to Nina |
+| 8 | Аркадий | Всё, что захотите. Клянусь! | Everything you want. I swear! | #717: Все, что захотите<br>#719: клянусь | adapted: 'Мама' dropped from 719 |
 | 9 | Самсон | Нина, не слушай. Это опять обман. | Nina, don't listen. It's another trick. | new | new: retells 720-721 ('разводняк очередной' -> 'опять обман') |
-| 10 | Аня | Нет, это не обман. В этот раз всё будет официально. | No, it's not a trick. This time everything will be official. | #722 00:41:59: это не<br>#723 00:42:00: В этот раз все будет официально | adapted: 722 'разводняк' -> 'обман' |
-| 11 | Нина | Пока всё не подпишешь, отсюда не выйдешь. | You're not leaving here until you sign everything. | #726 00:42:06: Пока все не подпишешь, отсюда не выйдешь | verbatim |
-| 12 | Аня | Вот, сразу видно, деловая женщина. | Now there's a businesswoman, you can see it at once. | #727 00:42:07: Вот, сразу видно, деловая женщина | verbatim |
-| 13 | Нина | Юля, неси ручку и листик. | Yulia, bring a pen and a piece of paper. | #730 00:42:13: неси ручку и листик | adapted: 'Юля' written in its standard form |
-| 14 | Аня | Послушайте, а можно в другое место? Здесь плохо пахнет. | Listen, could we go somewhere else? It smells bad in here. | #731 00:42:17: Послушайте<br>#733 00:42:20: в другое место | adapted: 732-735 simplified: 'можем мы переместиться' -> 'можно'; the smell line retold |
+| 10 | Аркадий | Нет, это не обман. В этот раз всё будет официально. | No, it's not a trick. This time everything will be official. | #722: это не<br>#723: В этот раз все будет официально | adapted: 722 'разводняк' -> 'обман' |
+| 11 | Нина | Пока всё не подпишешь, отсюда не выйдешь. | You're not leaving here until you sign everything. | #726: Пока все не подпишешь, отсюда не выйдешь | verbatim |
+| 12 | Аркадий | Вот, сразу видно, деловая женщина. | Now there's a businesswoman, you can see it at once. | #727: Вот, сразу видно, деловая женщина | verbatim |
+| 13 | Нина | Юля, неси ручку и листик. | Yulia, bring a pen and a piece of paper. | #730: неси ручку и листик | adapted: 'Юля' written in its standard form |
+| 14 | Аркадий | Послушайте, а можно в другое место? Здесь плохо пахнет. | Listen, could we go somewhere else? It smells bad in here. | #731: Послушайте<br>#733: в другое место | adapted: 732-735 simplified: 'можем мы переместиться' -> 'можно'; the smell line retold |
 | 15 | Нина | Ладно, пойдём в комнату. | All right, let's go to our room. | new | new: added: the next scene takes place in the Samsonovs' room |
 
 ## Walk-through narration (English only, no target-language words quoted)
@@ -38,7 +38,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I'll solve all your problems.' Same thing: a completed-action verb, so it means 'I will solve'. Spoken like a true politician.
 - 'You'll have everything you want.' Literally 'at you will be everything'. That's how Russians say someone has something. Nina is interested.
 - 'Everything we want, you say?' She repeats his words, but changes 'you want' to 'we want'. Arkady insists.
-- 'Everything you want. I swear!' Samson isn't convinced at all.
+- 'Everything you want. I swear!' Right then, Samson isn't convinced at all.
 - 'Nina, don't listen. It's another trick.' The word for 'again' makes it clear: he has tricked them before. Arkady has an answer for that.
 - 'No, it's not a trick. This time everything will be official.' The last word sounds like the English, so you can guess it. Nina knows what she wants.
 - 'You're not leaving here until you sign everything.' Literally 'while you don't sign everything, you won't leave'. A useful pattern for setting conditions. Arkady likes her style.

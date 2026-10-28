@@ -7,8 +7,7 @@ SCENE = 20
 TITLE = 'Visite nocturne  (Late Night Visit)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'hicham': 'marcel', 'carlotta': 'emilie', 'lea': 'lucie'}
-LABELS = {'hicham': 'Hicham', 'carlotta': 'Carlotta', 'lea': 'Andréa'}
+LABELS = {'andrea': 'Andréa', 'carlotta': 'Carlotta', 'hicham': 'Hicham'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e05.fr.dual.srt'
 INTRO = "After an upsetting phone argument with his ex-wife about their son, Hicham visits Andrea's apartment late at night. Seeking comfort, he asks to hold his newborn baby daughter. Listen to the scene in French first."
@@ -25,12 +24,12 @@ STORY = [
     ('carlotta', 'Il ne veut pas venir à Paris.', 'He does not want to come to Paris.', [(809, 'il aime pas venir te voir à Paris')], ''),
     ('hicham', 'Moi, je fais tout pour lui!', 'As for me, I do everything for him!', [(816, 'je fais tout pour lui')], ''),
     ('hicham', 'Bonsoir, Andréa. Je peux entrer un instant?', 'Good evening, Andrea. May I come in for a moment?', [(824, 'Je peux entrer')], ''),
-    ('lea', 'Il est trop tard pour parler boulot.', 'It is too late to talk work.', [(825, 'il est trop tard pour parler boulot')], ''),
+    ('andrea', 'Il est trop tard pour parler boulot.', 'It is too late to talk work.', [(825, 'il est trop tard pour parler boulot')], ''),
     ('hicham', 'Je ne suis pas là pour travailler.', 'I am not here to work.', [(826, 'pas là pour parler boulot')], ''),
     ('hicham', "S'il te plaît. Je peux voir la petite?", 'Please. May I see the little one?', [(827, 'je peux voir un peu la petite')], ''),
-    ('lea', 'Elle dort tranquillement dans son berceau.', 'She is sleeping peacefully in her crib.', [(827, 'la petite')], ''),
+    ('andrea', 'Elle dort tranquillement dans son berceau.', 'She is sleeping peacefully in her crib.', [(827, 'la petite')], ''),
     ('hicham', 'Est-ce que je peux la prendre?', 'May I hold her?', [(828, 'peux la garder un peu')], ''),
-    ('lea', 'Oui, tiens-la doucement contre toi.', 'Yes, hold her gently against you.', [(828, 'comme ça')], ''),
+    ('andrea', 'Oui, tiens-la doucement contre toi.', 'Yes, hold her gently against you.', [(828, 'comme ça')], ''),
 ]
 WALK = [
     (0, None, "'I just wanted to speak to Elvis.' Hicham explains why he called his ex-wife. The clause hinges on the everyday verb meaning 'wanted'."),

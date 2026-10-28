@@ -4,31 +4,30 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 5
 SCENE = 21
-TITLE = "Запара в голове  (Rush in the Head)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Запара в голове  (Rush in the Head)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "fedya": "anja", "anya": "alisa"}
-LABELS = {"fedya": "Федя", "anya": "Макс"}
+LABELS = {'fedya': 'Федя', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.05'
 SOURCE_FILE = 'sources/kukhnya/s01/e05.ru.dual.srt'
 INTRO = "During the overwhelming evening rush at Claude Monet, orders pile up endlessly and Max finds himself pushed to the absolute breaking point. Taking pity on the rookie, seasoned fish cook Fedya steps up to his station to teach him the ultimate golden rule of kitchen survival. Let's listen to their conversation in Russian first."
 OPENER = "Now let's examine Fedya and Max's kitchen advice line by line."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Equipped with Fedya's invaluable advice, Max steadies his hands and prepares to clear the rush. Next time you watch the episode, listen for the Russian expressions for 'dish' and 'to happen' — you will catch every word right away. See you next time!"
-CLOSING = ("fedya", "Пока!")
+CLOSING = ('fedya', 'Пока!')
 STORY = [
     ('fedya', 'Ладно, новичок, отойди немного в сторону.', 'Alright, newcomer, step aside a little.', [(306, 'Ладно')], ''),
     ('fedya', 'Подвинься давай, я помогу тебе.', 'Move over, come on, I will help you.', [(307, 'Подвинься давай.')], ''),
-    ('anya', 'Федя, спасибо, у меня ничего не получается!', 'Fedya, thank you, nothing is working out for me!', [], ''),
+    ('max', 'Федя, спасибо, у меня ничего не получается!', 'Fedya, thank you, nothing is working out for me!', [], ''),
     ('fedya', 'Сейчас главное — полностью успокоиться.', 'Right now the main thing is to completely calm down.', [(308, 'Нужно расслабиться.')], ''),
     ('fedya', 'Сделай глубокий вдох.', 'Take a deep breath.', [(308, 'Вдох.')], ''),
     ('fedya', 'А теперь медленный выдох.', 'And now a slow exhale.', [(309, 'Выдох.')], ''),
     ('fedya', 'И навсегда запомни главное правило.', 'And forever remember the main rule.', [(310, 'И запомнить.')], ''),
     ('fedya', 'Запара бывает не на кухне.', 'The rush does not happen in the kitchen.', [(311, 'на кухне.')], ''),
     ('fedya', 'Настоящая запара всегда только в голове!', 'The real rush is always only in your head!', [(312, 'Запара в голове.')], ''),
-    ('anya', 'Но заказы идут каждую минуту!', 'But orders keep coming every minute!', [], ''),
+    ('max', 'Но заказы идут каждую минуту!', 'But orders keep coming every minute!', [], ''),
     ('fedya', 'Делай каждое блюдо по очереди.', 'Make each dish in turn.', [], ''),
-    ('anya', 'Хорошо, я понял твой совет.', 'Alright, I understood your advice.', [], ''),
+    ('max', 'Хорошо, я понял твой совет.', 'Alright, I understood your advice.', [], ''),
     ('fedya', 'Тогда начинай готовить спокойно!', 'Then begin to cook calmly!', [], ''),
 ]
 WALK = [

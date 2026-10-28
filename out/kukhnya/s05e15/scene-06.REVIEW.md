@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Катя | Привет, ты что, наш новый повар на кухне? | Hi, are you our new cook in the kitchen? | #90 00:05:22: новый повар | adapted: adapted |
-| 2 | Никита | Нет, я уже уволенный официант из ресторана. | No, I am already a fired waiter from the restaurant. | #91 00:05:24: Нет. Уволенный официант | adapted: adapted |
-| 3 | Катя | Ну ладно, ты только сильно не расстраивайся. | Well alright, just do not get too upset about it. | #92 00:05:27: Ну ладно, ты не расстраивайся | adapted: adapted |
-| 4 | Никита | Слушай, может, мне действительно пойти к вам поваром? | Listen, maybe I really should come work with you as a cook? | #94 00:05:31: может мне действительно поваром пойти | adapted: adapted |
-| 5 | Катя | А за что тебя так быстро сегодня уволили? | And what did they fire you so quickly for today? | #97 00:05:39: А за что уволили | adapted: adapted |
-| 6 | Никита | Я случайно подал хозяйке отеля не тот кофе. | I accidentally served the hotel owner the wrong coffee. | #98 00:05:41: Подал хозяйке отеля | adapted: adapted |
-| 7 | Катя | Ну да, это очень на неё похоже, удачи! | Well yes, that sounds just like her, good luck! | #99 00:05:43: Ну да, это на нее похоже | adapted: adapted |
-| 8 | Катя | Никита, ты ещё здесь? Элеонора просила не уходить. | Nikita, are you still here? Eleonora asked you not to leave. | #101 00:05:49: Никита, ты еще здесь | adapted: adapted |
-| 9 | Катя | Она великодушно даёт тебе сегодня последний шанс. | She is generously giving you one last chance today. | #102 00:05:52: Она дает тебе последний шанс | adapted: adapted |
-| 10 | Катя | Поздравляю тебя с возвращением на работу, Никита! | Congratulations on returning to work, Nikita! | #103 00:05:56: Поздравляю | adapted: adapted |
-| 11 | Никита | Печально, что Москва потеряла такого отличного дворника! | It is sad that Moscow lost such an excellent street sweeper! | #105 00:06:00: что Москва потеряла такого перспективного дворника | adapted: adapted |
-| 12 | Катя | Быстрее переодевайся и выходи обратно в зал. | Change clothes quickly and head back out into the hall. | #102 00:05:52: последний шанс | adapted: adapted |
+| 1 | Катя | Привет, ты что, наш новый повар на кухне? | Hi, are you our new cook in the kitchen? | #90: новый повар | adapted: adapted |
+| 2 | Никита | Нет, я уже уволенный официант из ресторана. | No, I am already a fired waiter from the restaurant. | #91: Нет. Уволенный официант | adapted: adapted |
+| 3 | Катя | Ну ладно, ты только сильно не расстраивайся. | Well alright, just do not get too upset about it. | #92: Ну ладно, ты не расстраивайся | adapted: adapted |
+| 4 | Никита | Слушай, может, мне действительно пойти к вам поваром? | Listen, maybe I really should come work with you as a cook? | #94: может мне действительно поваром пойти | adapted: adapted |
+| 5 | Катя | А за что тебя так быстро сегодня уволили? | And what did they fire you so quickly for today? | #97: А за что уволили | adapted: adapted |
+| 6 | Никита | Я случайно подал хозяйке отеля не тот кофе. | I accidentally served the hotel owner the wrong coffee. | #98: Подал хозяйке отеля | adapted: adapted |
+| 7 | Катя | Ну да, это очень на неё похоже, удачи! | Well yes, that sounds just like her, good luck! | #99: Ну да, это на нее похоже | adapted: adapted |
+| 8 | Вика | Никита, ты ещё здесь? Элеонора просила не уходить. | Nikita, are you still here? Eleonora asked you not to leave. | #101: Никита, ты еще здесь | adapted: adapted |
+| 9 | Вика | Она великодушно даёт тебе сегодня последний шанс. | She is generously giving you one last chance today. | #102: Она дает тебе последний шанс | adapted: adapted |
+| 10 | Катя | Поздравляю тебя с возвращением на работу, Никита! | Congratulations on returning to work, Nikita! | #103: Поздравляю | adapted: adapted |
+| 11 | Никита | Печально, что Москва потеряла такого отличного дворника! | It is sad that Moscow lost such an excellent street sweeper! | #105: что Москва потеряла такого перспективного дворника | adapted: adapted |
+| 12 | Вика | Быстрее переодевайся и выходи обратно в зал. | Change clothes quickly and head back out into the hall. | #102: последний шанс | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hi, are you our new cook in the kitchen?' In Russian, the idea of 'hello' flows naturally into 'kitchen' without extra filler words. Nikita answers right away.
-- 'No, I am already a fired waiter from the restaurant.' The meaning hinges on 'no' working together with 'restaurant' in spoken Russian.
-- 'Well alright, just do not get too upset about it.' Katya addresses the listener with the informal singular 'you' alongside 'get upset'.
-- 'Listen, maybe I really should come work with you as a cook?' Spoken Russian keeps this brisk, leaning on 'listen' and finishing on 'as a cook'. Katya answers right away.
-- 'And what did they fire you so quickly for today?' Katya addresses the listener with the informal singular 'you' alongside 'to fire'.
-- 'I accidentally served the hotel owner the wrong coffee.' Spoken Russian keeps this brisk, leaning on 'I' and finishing on 'coffee'.
-- 'Well yes, that sounds just like her, good luck!' Katya brings out the contrast between 'come on' and 'yes' in a few short words. Vika answers right away.
-- 'Nikita, are you still here? Eleonora asked you not to leave.' Notice how Russian expresses 'Nikita' and 'to leave' with crisp inflection rather than helper words.
-- 'She is generously giving you one last chance today.' The grammar packs 'she' and 'chance' into a tight, idiomatic kitchen exchange.
-- 'Congratulations on returning to work, Nikita!' Spoken Russian keeps this brisk, leaning on 'congratulations' and finishing on 'Nikita'. Nikita answers right away.
-- 'It is sad that Moscow lost such an excellent street sweeper!' In Russian, the idea of 'sadly' flows naturally into 'janitor' without extra filler words.
-- 'Change clothes quickly and head back out into the hall.' The meaning hinges on 'faster' working together with 'hall' in spoken Russian.
+- 'Hi, are you our new cook in the kitchen?' Checking whether Nikita their new cook in the kitchen cuts straight through the tension between Katya and Nikita. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'No, I am already a fired waiter from the restaurant.' Being already a fired waiter from the restaurant is how Nikita lays out the situation for Katya.
+- 'Well alright, just do not get too upset about it.' Because alright just do not get too upset about it, Katya treats the matter as settled. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Listen, maybe I really should come work with you as a cook?' Questioning whether maybe he really should come work with Katya as a cook is how Nikita tests Katya's story. Notice how he sticks to the formal "you", keeping a professional line between them.
+- 'And what did they fire you so quickly for today?' Asking what they fire Nikita so quickly for today cuts straight through the tension between Katya and Nikita.
+- 'I accidentally served the hotel owner the wrong coffee.' With the chance and plan in play, Nikita keeps this short reply brisk and direct.
+- 'Well yes, that sounds just like her, good luck!' Katya declares that that sounds just like her good luck as the tension in the room peaks. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'Nikita, are you still here? Eleonora asked you not to leave.' Here asking whether Katya still here shows Vika looking for the real truth.
+- 'She is generously giving you one last chance today.' Since she is generously giving Katya one last chance today, Vika does not waste words on excuses. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Congratulations on returning to work, Nikita!' With the point and chance at stake, Katya reacts without holding back. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'It is sad that Moscow lost such an excellent street sweeper!' Declaring that it is sad that Moscow lost such an excellent street sweeper brings Nikita's temper right to the surface.
+- 'Change clothes quickly and head back out into the hall.' Noting that Katya should change clothes quickly and head back out into the hall keeps Vika's side of the story simple and clear.

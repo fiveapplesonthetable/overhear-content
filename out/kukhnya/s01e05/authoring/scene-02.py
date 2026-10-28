@@ -4,18 +4,17 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 5
 SCENE = 2
-TITLE = "Мечты о будущем  (Dreams of the Future)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Мечты о будущем  (Dreams of the Future)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "nastya": "angelina", "sasha": "anja"}
-LABELS = {"nastya": "Настя", "sasha": "Саша"}
+LABELS = {'nastya': 'Настя', 'sasha': 'Саша'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.05'
 SOURCE_FILE = 'sources/kukhnya/s01/e05.ru.dual.srt'
 INTRO = "In the restaurant locker room, waitress Nastya glows with romantic excitement. She confides in fellow waitress Sasha about yesterday's unexpected kiss with Max. Sasha is stunned by how quickly Nastya has planned out their future together, including children and family life. Let's listen to their conversation in Russian first."
 OPENER = "Now let's examine Nastya and Sasha's romantic conversation line by line."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = 'That wraps up this scene from Kukhnya. Listen for these everyday Russian expressions when you watch the episode. See you next time!'
-CLOSING = ("nastya", "Пока!")
+CLOSING = ('nastya', 'Пока!')
 STORY = [
     ('sasha', 'Настя, у вас с Максом всё серьёзно?', 'Nastya, is everything serious between you and Max?', [], ''),
     ('nastya', 'Да, мы вчера даже поцеловались.', 'Yes, yesterday we even kissed.', [], ''),

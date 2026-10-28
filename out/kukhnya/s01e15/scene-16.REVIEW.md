@@ -1,39 +1,39 @@
-# Больное сердце  (A Bad Heart) — `kukhnya-s01e15-scene-16`
+# kukhnya-s01e15-scene-16: review sheet
 
-**Source:** Кухня (Kukhnya) S1.15 · `sources/kukhnya/s01/e15.ru.dual.srt`  
-**Target level:** A1 — Duolingo Section 2
+Title: Больное сердце  (A Bad Heart)
+Level: A1 — Duolingo Section 2
+Pair: ru-en
+Source: Кухня (Kukhnya) S1.15
 
-## Cast
 
-| Role | Voice | Label |
-|---|---|---|
-| `narrator` | sky | — |
-| `lyova` | angelina | Лёва |
-| `fedya` | anja | Федя |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 1 — Intro
-
-> Back in the restaurant kitchen, Lyova gets into an argument with another chef. Let's listen closely to their exchange in Russian first, and then walk through each line together.
-
-## Part 2 — Story
-
-| # | Speaker | Line | English | Source cue(s) | Change |
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 0 | Федя | Лёва, ну что такое? | Lyova, well what is this? | #330 "Лёва, ну что такое, а?" |  |
-| 1 | Лёва | Что ты хочешь сказать? | What do you want to say? | *(added)* |  |
-| 2 | Федя | Что за цирк ты устроил? | What kind of circus did you stage? | *(added)* |  |
-| 3 | Лёва | Я ничего не устраивал. | I did not stage anything. | *(added)* |  |
-| 4 | Федя | Виктору Петровичу надо хорошо выспаться. | Viktor Petrovich needs to sleep well. | *(added)* |  |
-| 5 | Лёва | Почему ему надо спать? | Why does he need to sleep? | *(added)* |  |
-| 6 | Федя | Ты же знаешь его ситуацию. | You know his situation. | *(added)* |  |
-| 7 | Федя | У него больное сердце. | He has a sick heart. | *(added)* |  |
-| 8 | Лёва | У него больное сердце? | He has a sick heart? | *(added)* |  |
-| 9 | Лёва | Это у меня больное сердце. | It is me who has a sick heart. | *(added)* |  |
-| 10 | Федя | Тебе надо успокоиться, Лёва. | You need to calm down, Lyova. | *(added)* |  |
-| 11 | Лёва | Я не могу работать в таком стрессе. | I cannot work in such stress. | *(added)* |  |
+| 1 | Федя | Лёва, ну что такое? | Lyova, well what is this? | #330: Лёва, ну что такое, а? | verbatim |
+| 2 | Лёва | Что ты хочешь сказать? | What do you want to say? | new | new |
+| 3 | Федя | Что за цирк ты устроил? | What kind of circus did you stage? | new | new |
+| 4 | Лёва | Я ничего не устраивал. | I did not stage anything. | new | new |
+| 5 | Федя | Виктору Петровичу надо хорошо выспаться. | Viktor Petrovich needs to sleep well. | new | new |
+| 6 | Лёва | Почему ему надо спать? | Why does he need to sleep? | new | new |
+| 7 | Федя | Ты же знаешь его ситуацию. | You know his situation. | new | new |
+| 8 | Федя | У него больное сердце. | He has a sick heart. | new | new |
+| 9 | Лёва | У него больное сердце? | He has a sick heart? | new | new |
+| 10 | Лёва | Это у меня больное сердце. | It is me who has a sick heart. | new | new |
+| 11 | Федя | Тебе надо успокоиться, Лёва. | You need to calm down, Lyova. | new | new |
+| 12 | Лёва | Я не могу работать в таком стрессе. | I cannot work in such stress. | new | new |
 
-## Part 5 — Outro & closing
+## Walk-through narration (English only, no target-language words quoted)
 
-> Lyova realizes that the fake illness is causing him real anxiety. Next time you watch the episode, listen for the Russian expressions for 'to want' and 'to say' — you will catch every word right away. See you next time!
-
-**Лёва:** Пока!
+- 'Lyova, well what is this?' Russian omits the present-tense verb 'to be' here, linking 'Lyova' directly with 'oh', combining 'Lyova' with 'oh' and 'what'.
+- 'What do you want to say?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'What kind of circus did you stage?' The phrasing opens with 'circus' before bringing in 'caused' to make the point clear.
+- 'I did not stage anything.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
+- 'Viktor Petrovich needs to sleep well.' Fedya puts the word for 'it is necessary' together with 'good' and 'get enough sleep' in a crisp, natural spoken turn of phrase.
+- 'Why does he need to sleep?' Here Lyova anchors the line on the word meaning 'why' and builds the thought around 'it is necessary' and 'to sleep'.
+- 'You know his situation.' Fedya uses the informal everyday 'you' here with 'the situation', as friends and close colleagues do.
+- 'He has a sick heart.' Russian omits the present-tense verb 'to be' here, linking 'sore' directly with 'heart', combining 'sore' with 'heart'.
+- 'He has a sick heart?' Lyova turns a statement into a question purely through rising intonation on the word meaning 'sore', followed by 'heart'.
+- 'It is me who has a sick heart.' Russian omits the present-tense verb 'to be', connecting 'this' directly with 'heart'.
+- 'You need to calm down, Lyova.' The phrasing opens with 'it is necessary' before bringing in 'to calm down' to make the point clear.
+- 'I cannot work in such stress.' The little negative word sits right in front of the verb for 'can', just like 'not' in English.

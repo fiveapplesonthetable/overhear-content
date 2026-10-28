@@ -4,33 +4,32 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 10
 SCENE = 7
-TITLE = "Побег от разговора  (Escaping the Conversation)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Побег от разговора  (Escaping the Conversation)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "anya": "alisa", "kostya": "anja", "vika": "angelina"}
-LABELS = {"anya": "Макс", "kostya": "Костя", "vika": "Вика"}
+LABELS = {'kostya': 'Костя', 'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.10'
 SOURCE_FILE = 'sources/kukhnya/s01/e10.ru.dual.srt'
 INTRO = 'In the restaurant hallway, Victoria tries to approach Max for an important talk. Panicked by the thought of relationship commitments, Max fakes an incoming phone call from Kostya and runs away to the bar. Listen to their fast-paced exchange in Russian first, and then we will examine each sentence.'
 OPENER = 'Now, let us examine the vocabulary and phrasing of this comical escape attempt.'
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "A funny depiction of dodging uncomfortable romantic conversations at all costs. Next time you watch the episode, listen for the Russian expressions for 'to see' and 'to speak' — you will catch every word right away. See you next time!"
-CLOSING = ("anya", "Пока!")
+CLOSING = ('max', 'Пока!')
 STORY = [
     ('vika', 'Макс, нам надо серьёзно поговорить!', 'Max, we need to talk seriously!', [(57, 'Макс!')], ''),
-    ('anya', 'Привет, Вика! Рад тебя видеть.', 'Hey, Vika! Glad to see you.', [(58, 'Привет, Вик!')], ''),
-    ('anya', 'Ой, Костя звонит, извини!', 'Oh, Kostya is calling, sorry!', [(59, 'Костян звонит, извини!')], ''),
-    ('anya', 'Алло, Костя, говори громче!', 'Hello, Kostya, speak louder!', [(60, 'Алло, Костян, говори громче, не слышу!')], ''),
-    ('anya', 'Плохо слышно, я сейчас подойду!', 'Hard to hear, I will come over right now!', [(63, 'Да, сейчас!')], ''),
+    ('max', 'Привет, Вика! Рад тебя видеть.', 'Hey, Vika! Glad to see you.', [(58, 'Привет, Вик!')], ''),
+    ('max', 'Ой, Костя звонит, извини!', 'Oh, Kostya is calling, sorry!', [(59, 'Костян звонит, извини!')], ''),
+    ('max', 'Алло, Костя, говори громче!', 'Hello, Kostya, speak louder!', [(60, 'Алло, Костян, говори громче, не слышу!')], ''),
+    ('max', 'Плохо слышно, я сейчас подойду!', 'Hard to hear, I will come over right now!', [(63, 'Да, сейчас!')], ''),
     ('vika', 'Макс, подожди, не уходи!', 'Max, wait, do not leave!', [], ''),
-    ('anya', 'Вика, это очень срочное дело!', 'Vika, this is a very urgent matter!', [], ''),
-    ('anya', 'Костя, а ты чего звонил?', 'Kostya, why did you call?', [(64, 'Костян, а ты чего звонил-то?')], ''),
+    ('max', 'Вика, это очень срочное дело!', 'Vika, this is a very urgent matter!', [], ''),
+    ('max', 'Костя, а ты чего звонил?', 'Kostya, why did you call?', [(64, 'Костян, а ты чего звонил-то?')], ''),
     ('kostya', 'В смысле, я тебе не звонил.', 'What do you mean, I did not call you.', [(65, 'В смысле, звоню?')], ''),
-    ('anya', 'Сделай вид, что нужна помощь!', 'Pretend that you need help!', [(65, 'ты помочь, чтобы я тебе помог, да?')], ''),
+    ('max', 'Сделай вид, что нужна помощь!', 'Pretend that you need help!', [(65, 'ты помочь, чтобы я тебе помог, да?')], ''),
     ('kostya', 'А, ты прячешься от Вики?', 'Oh, you are hiding from Vika?', [], ''),
-    ('anya', 'Да, подыграй мне, пожалуйста!', 'Yes, play along with me, please!', [], ''),
+    ('max', 'Да, подыграй мне, пожалуйста!', 'Yes, play along with me, please!', [], ''),
     ('kostya', 'Ну давай, пошли на склад.', 'All right, let us go to the storeroom.', [(66, 'Ну давай, пошли.')], ''),
-    ('anya', 'Спасибо, друг, ты меня спас!', 'Thank you, friend, you saved me!', [], ''),
+    ('max', 'Спасибо, друг, ты меня спас!', 'Thank you, friend, you saved me!', [], ''),
 ]
 WALK = [
     (0, None, "'Max, we need to talk seriously!' Victoria approaches him with an important purpose."),

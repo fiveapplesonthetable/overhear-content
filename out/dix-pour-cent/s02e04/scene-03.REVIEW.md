@@ -1,31 +1,43 @@
-# Review: `dix-pour-cent-s02e04-scene-03` — Andréa appelle Sacha Hartman  (Calling Hartman)
+# dix-pour-cent-s02e04-scene-03: review sheet
 
-- **Source**: `sources/dix-pour-cent/s02/e04.fr.dual.srt`
-- **Level**: A1 — débutant
-- **Voices**: `{"narrator": "sky", "lea": "lucie", "sacha": "theo", "noemie": "emilie"}`
-- **Labels**: `{"lea": "Andréa", "sacha": "Sacha", "noemie": "Noémie"}`
+Title: Andréa appelle Sacha Hartman  (Calling Hartman)
+Level: A1 — débutant
+Pair: fr-en
+Source: Dix pour cent (Call My Agent!) S02E04
 
-## Part 1 — Intro
-> In her office at ASK, Andréa calls young director Sacha Hartman to propose Isabelle Adjani for his new film. Expecting enthusiasm, she is stunned when Hartman bitterly recounts an old grudge and flatly refuses to work with her. Let's listen to the scene in French first.
 
-## Part 2 — Story Lines
-| # | Role | French | English | Source Cues |
-|---|------|--------|---------|-------------|
-| 0 | `lea` (Andréa) | Allô Sacha? C'est Andréa, réveille-toi! | Hello Sacha? It is Andréa, wake up! | 53:-Allô ? -Sacha, c'est Andréa. |
-| 1 | `sacha` (Sacha) | Salut Andréa, je dormais encore un peu. | Hi Andréa, I was still sleeping a bit. | 54:-Salut. -Tu dormais ?, 55:-Un peu. |
-| 2 | `lea` (Andréa) | Je viens de croiser Isabelle Adjani au bureau. | I just bumped into Isabelle Adjani at the office. | 56:Je viens de croiser Isabelle Adjani. |
-| 3 | `lea` (Andréa) | Elle meurt d'envie de te rencontrer. | She is dying to meet you. | 57:Elle meurt d'envie de te rencontrer. |
-| 4 | `lea` (Andréa) | Elle est parfaite pour ton nouveau film. | She is perfect for your new film. | 59:Elle est parfaite pour le rôle de Milena. |
-| 5 | `sacha` (Sacha) | Je refuse de travailler avec cette actrice. | I refuse to work with this actress. | 66:Je refuse de travailler avec cette femme. |
-| 6 | `lea` (Andréa) | Pourquoi? C'est une immense star du cinéma. | Why? She is an immense movie star. | 69:mais quelle grande actrice. |
-| 7 | `sacha` (Sacha) | Elle a refusé mon premier projet autrefois. | She refused my first project in the past. | 78:Elle ne l'était pas quand je lui ai envoyé le scénario de mon premier film., 79:C'était il y a quatre ans, personne ne vous connaissait. |
-| 8 | `sacha` (Sacha) | Elle m'a envoyé un message très méchant. | She sent me a very nasty message. | 81:Ça n'excuse pas l'e-mail infect que j'ai reçu en retour., 82:« Mademoiselle Adjani n'est pas intéressée. » |
-| 9 | `sacha` (Sacha) | Dis-lui que je ne suis pas intéressé. | Tell her that I am not interested. | 84:Dites-lui que M. Hartman n'est pas intéressé non plus. |
-| 10 | `lea` (Andréa) | Sacha, s'il te plaît, écoute-moi! | Sacha, please, listen to me! | 63:Allô ? |
-| 11 | `noemie` (Noémie) | Alors Andréa, qu'est-ce qu'il a dit? | So Andréa, what did he say? | 64:Alors ?, 87:Comment ça ? |
-| 12 | `lea` (Andréa) | Hartman est furieux et refuse cette rencontre. | Hartman is furious and refuses this meeting. | 86:Hartman ne veut pas d'Adjani., 90:Il est encore amer et refuse de la rencontrer. |
-| 13 | `noemie` (Noémie) | C'est une vraie catastrophe pour notre agence. | That is a real disaster for our agency. | 95:On passe à côté de deux des plus grands noms du cinéma |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 5 — Outro & Closing
-> Hartman holds a four-year grudge after Isabelle rejected his debut film, putting Andréa in an impossible bind. With Noémie watching, Andréa must urgently figure out how to save the deal. See you next time!
-- **Closing**: `lea`: *Bonne journée!*
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+|---|---|---|---|---|---|
+| 1 | Andréa | Allô Sacha? C'est Andréa, réveille-toi! | Hello Sacha? It is Andréa, wake up! | #53: -Allô ? -Sacha, c'est Andréa. | verbatim |
+| 2 | Sacha | Salut Andréa, je dormais encore un peu. | Hi Andréa, I was still sleeping a bit. | #54: -Salut. -Tu dormais ?<br>#55: -Un peu. | verbatim |
+| 3 | Andréa | Je viens de croiser Isabelle Adjani au bureau. | I just bumped into Isabelle Adjani at the office. | #56: Je viens de croiser Isabelle Adjani. | verbatim |
+| 4 | Andréa | Elle meurt d'envie de te rencontrer. | She is dying to meet you. | #57: Elle meurt d'envie de te rencontrer. | verbatim |
+| 5 | Andréa | Elle est parfaite pour ton nouveau film. | She is perfect for your new film. | #59: Elle est parfaite pour le rôle de Milena. | verbatim |
+| 6 | Sacha | Je refuse de travailler avec cette actrice. | I refuse to work with this actress. | #66: Je refuse de travailler avec cette femme. | verbatim |
+| 7 | Andréa | Pourquoi? C'est une immense star du cinéma. | Why? She is an immense movie star. | #69: mais quelle grande actrice. | verbatim |
+| 8 | Sacha | Elle a refusé mon premier projet autrefois. | She refused my first project in the past. | #78: Elle ne l'était pas quand je lui ai envoyé le scénario de mon premier film.<br>#79: C'était il y a quatre ans, personne ne vous connaissait. | verbatim |
+| 9 | Sacha | Elle m'a envoyé un message très méchant. | She sent me a very nasty message. | #81: Ça n'excuse pas l'e-mail infect que j'ai reçu en retour.<br>#82: « Mademoiselle Adjani n'est pas intéressée. » | verbatim |
+| 10 | Sacha | Dis-lui que je ne suis pas intéressé. | Tell her that I am not interested. | #84: Dites-lui que M. Hartman n'est pas intéressé non plus. | verbatim |
+| 11 | Andréa | Sacha, s'il te plaît, écoute-moi! | Sacha, please, listen to me! | #63: Allô ? | verbatim |
+| 12 | Noémie | Alors Andréa, qu'est-ce qu'il a dit? | So Andréa, what did he say? | #64: Alors ?<br>#87: Comment ça ? | verbatim |
+| 13 | Andréa | Hartman est furieux et refuse cette rencontre. | Hartman is furious and refuses this meeting. | #86: Hartman ne veut pas d'Adjani.<br>#90: Il est encore amer et refuse de la rencontrer. | verbatim |
+| 14 | Noémie | C'est une vraie catastrophe pour notre agence. | That is a real disaster for our agency. | #95: On passe à côté de deux des plus grands noms du cinéma | verbatim |
+
+## Walk-through narration (English only, no target-language words quoted)
+
+- 'Hello Sacha? It is Andréa, wake up!' An energetic telephone greeting demanding attention.
+- 'Hi Andréa, I was still sleeping a bit.' An imperfect verb explaining sleepy morning confusion.
+- 'I just bumped into Isabelle Adjani at the office.' A recent past construction with 'have just'.
+- 'She is dying to meet you.' An idiomatic French expression showing extreme eagerness.
+- 'She is perfect for your new film.' A strong descriptive claim promoting the casting.
+- 'I refuse to work with this actress.' A blunt present tense refusal rejecting collaboration.
+- 'Why? She is an immense movie star.' Notice how the verb for 'is' leads straight into 'film industry'.
+- 'She refused my first project in the past.' A compound past verb recounting an old rejection.
+- 'She sent me a very nasty message.' A compound past recalling an offensive email.
+- 'Tell her that I am not interested.' Sacha gives a direct command form using the verb for 'tell him'.
+- 'Sacha, please, listen to me!' The key word here means 'pleases', paired with 'listen to me' to make the point clear.
+- 'So Andréa, what did he say?' The key word here means 'so', paired with 'said' to make the point clear.
+- 'Hartman is furious and refuses this meeting.' A summary of the director's bitter resentment.
+- 'That is a real disaster for our agency.' An exclamatory evaluation highlighting high stakes.

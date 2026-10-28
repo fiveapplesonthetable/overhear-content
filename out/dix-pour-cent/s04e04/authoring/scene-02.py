@@ -7,7 +7,6 @@ SCENE = 2
 TITLE = 'Confidences en coulisses  (Backstage Confidences)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'sandrine': 'emilie'}
 LABELS = {'gabriel': 'Gabriel', 'sandrine': 'Sandrine'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e04.fr.dual.srt'

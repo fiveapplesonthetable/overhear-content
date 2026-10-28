@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Лёва | Аркадий Борисович, вы живы? Вставайте аккуратно. | Arkady Borisovich, are you alive? Get up carefully. | #796 01:03:29: Да встаем аккуратно, аккуратно! Аркадий Борисович, как вы? | adapted: adapted cue |
-| 2 | Аня | Меня эти бандиты чуть не утопили! | These gangsters almost drowned me! | #799 01:03:35: Меня чуть не утопили! | adapted: adapted cue |
-| 3 | Лёва | Срочно укутайте его в тёплые вещи! | Wrap him in warm clothes immediately! | #800 01:03:36: Утепляем! | adapted: adapted cue |
-| 4 | Лёва | Мы думали, он повезёт вас домой. | We thought he would take you home. | #801 01:03:39: Мы думали, он вас на квартиру повезёт! | adapted: adapted cue |
-| 5 | Лёва | А он вон какой душегуб оказался! | And turns out he is quite a murderer! | #802 01:03:41: А он вон какой душегуб оказался! | adapted: exact cue |
-| 6 | Лёва | Зато мы взяли его прямо с поличным! | At least we caught him red-handed! | #803 01:03:43: Зато с поличным взяли! | adapted: adapted cue |
-| 7 | Аня | Степаныч, ты настоящий подлый злодей! | Stepanych, you are a truly vile villain! | #807 01:03:52: Урод!<br>#808 01:03:54: Толстый скотина! | adapted: adapted polite cue |
-| 8 | Аня | Теперь ты сам сядешь в тюрьму! | Now you will go to prison yourself! | #810 01:03:57: Сядешь, сидеть будешь! | adapted: adapted cue |
-| 9 | Лёва | Тихо, Аркадий Борисович, успокойтесь немного. | Quiet, Arkady Borisovich, calm down a bit. | #805 01:03:49: Тихо! Аркадий Борисович! | adapted: adapted cue |
-| 10 | Лёва | Аркадий, ну как же так вышло? | Arkady, how did this turn out like this? | #814 01:04:06: Аркадий, ну как же так? | adapted: adapted cue |
-| 11 | Лёва | А вот так, Степаныч, наша многоходовочка. | Just like that, Stepanych, our multi-move operation. | #815 01:04:08: А вот так вот<br>#816 01:04:11: Многоходовочка | adapted: adapted cue |
-| 12 | Лёва | На, смотри на видеозапись нашей камеры. | Here, look at our camera's video recording. | #818 01:04:13: На, смотри<br>#819 01:04:14: Смотри | adapted: adapted cue |
-| 13 | Лёва | Насколько далеко зашло всё это следствие? | How far has this whole investigation gone? | #822 01:04:23: Насколько все это? | adapted: adapted cue |
+| 1 | Лёва | Аркадий Борисович, вы живы? Вставайте аккуратно. | Arkady Borisovich, are you alive? Get up carefully. | #796: Да встаем аккуратно, аккуратно! Аркадий Борисович, как вы? | adapted: adapted cue |
+| 2 | Аркадий | Меня эти бандиты чуть не утопили! | These gangsters almost drowned me! | #799: Меня чуть не утопили! | adapted: adapted cue |
+| 3 | Лёва | Срочно укутайте его в тёплые вещи! | Wrap him in warm clothes immediately! | #800: Утепляем! | adapted: adapted cue |
+| 4 | Лёва | Мы думали, он повезёт вас домой. | We thought he would take you home. | #801: Мы думали, он вас на квартиру повезёт! | adapted: adapted cue |
+| 5 | Лёва | А он вон какой душегуб оказался! | And turns out he is quite a murderer! | #802: А он вон какой душегуб оказался! | adapted: exact cue |
+| 6 | Лёва | Зато мы взяли его прямо с поличным! | At least we caught him red-handed! | #803: Зато с поличным взяли! | adapted: adapted cue |
+| 7 | Аркадий | Степаныч, ты настоящий подлый злодей! | Stepanych, you are a truly vile villain! | #807: Урод!<br>#808: Толстый скотина! | adapted: adapted polite cue |
+| 8 | Аркадий | Теперь ты сам сядешь в тюрьму! | Now you will go to prison yourself! | #810: Сядешь, сидеть будешь! | adapted: adapted cue |
+| 9 | Лёва | Тихо, Аркадий Борисович, успокойтесь немного. | Quiet, Arkady Borisovich, calm down a bit. | #805: Тихо! Аркадий Борисович! | adapted: adapted cue |
+| 10 | Губернатор | Аркадий, ну как же так вышло? | Arkady, how did this turn out like this? | #814: Аркадий, ну как же так? | adapted: adapted cue |
+| 11 | Лёва | А вот так, Степаныч, наша многоходовочка. | Just like that, Stepanych, our multi-move operation. | #815: А вот так вот<br>#816: Многоходовочка | adapted: adapted cue |
+| 12 | Лёва | На, смотри на видеозапись нашей камеры. | Here, look at our camera's video recording. | #818: На, смотри<br>#819: Смотри | adapted: adapted cue |
+| 13 | Губернатор | Насколько далеко зашло всё это следствие? | How far has this whole investigation gone? | #822: Насколько все это? | adapted: adapted cue |
 | 14 | Лёва | Ты ответишь перед судом по закону. | You will answer in court according to law. | new | new: Sokolov's stern conclusion |
 
 ## Walk-through narration (English only, no target-language words quoted)

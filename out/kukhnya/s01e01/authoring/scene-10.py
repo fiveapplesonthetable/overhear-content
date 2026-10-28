@@ -4,36 +4,35 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 1
 SCENE = 10
-TITLE = "Знакомое лицо в зале  (A Familiar Face in the Hall)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Знакомое лицо в зале  (A Familiar Face in the Hall)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "anya": "alisa", "sasha": "anja"}
-LABELS = {"anya": "Макс", "sasha": "Саша"}
+LABELS = {'max': 'Макс', 'sasha': 'Саша'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.01'
 SOURCE_FILE = 'sources/kukhnya/s01/e01.ru.dual.srt'
 INTRO = "Arriving at Claude Monet for his job interview, Max steps into the elegant dining hall and speaks with a waitress. Looking across the room, he is horrified to spot Vika—his date from the night before—commanding the floor as the art director. Let's listen to their conversation in Russian first."
 OPENER = "Let's replay a few lines to examine key phrases and grammar."
 TRANSITION = "Now let's listen to the conversation again without interruption."
 OUTRO = "Max quickly retreats toward the corridor to avoid being spotted. Next time you watch the episode, listen for the Russian expressions for 'art director' and 'meeting' — you will catch every word right away. See you next time!"
-CLOSING = ("anya", "Пока!")
+CLOSING = ('max', 'Пока!')
 STORY = [
-    ('anya', 'Здравствуйте! Я пришёл на встречу.', 'Hello! I arrived for an appointment.', [], ''),
+    ('max', 'Здравствуйте! Я пришёл на встречу.', 'Hello! I arrived for an appointment.', [], ''),
     ('sasha', 'Добрый день! Вы к Дмитрию Владимировичу?', 'Good day! Are you here to see Dmitry Vladimirovich?', [], ''),
-    ('anya', 'Да, он приглашал меня на работу.', 'Yes, he invited me for a job.', [], ''),
+    ('max', 'Да, он приглашал меня на работу.', 'Yes, he invited me for a job.', [], ''),
     ('sasha', 'Хозяин пока занят на кухне.', 'The owner is busy in the kitchen for now.', [], ''),
-    ('anya', 'Понятно. А кто руководит залом?', 'Understood. And who is managing the dining room?', [], ''),
+    ('max', 'Понятно. А кто руководит залом?', 'Understood. And who is managing the dining room?', [], ''),
     ('sasha', 'Вон та строгая девушка у окна.', 'That strict young woman over by the window.', [], ''),
-    ('anya', 'Как зовут эту красивую девушку?', "What is this beautiful young woman's name?", [], ''),
+    ('max', 'Как зовут эту красивую девушку?', "What is this beautiful young woman's name?", [], ''),
     ('sasha', 'Это Виктория Сергеевна, наш арт-директор.', 'This is Viktoria Sergeyevna, our art director.', [], ''),
-    ('anya', 'О нет, какая неприятная ситуация!', 'Oh no, what an unpleasant situation!', [(72, 'Дерьмо')], ''),
+    ('max', 'О нет, какая неприятная ситуация!', 'Oh no, what an unpleasant situation!', [(72, 'Дерьмо')], ''),
     ('sasha', 'Что случилось? Вы так побледнели!', 'What happened? You turned so pale!', [], ''),
-    ('anya', 'Ничего страшного, голова кружится.', 'Nothing terrible, my head is spinning.', [], ''),
+    ('max', 'Ничего страшного, голова кружится.', 'Nothing terrible, my head is spinning.', [], ''),
     ('sasha', 'Хотите сесть за свободный столик?', 'Would you like to sit at an available table?', [], ''),
-    ('anya', 'Нет, спасибо, я отойду назад.', 'No, thank you, I will step back.', [], ''),
+    ('max', 'Нет, спасибо, я отойду назад.', 'No, thank you, I will step back.', [], ''),
 ]
 WALK = [
-    (0, None, "'Are you here to see Dmitry Vladimirovich?' Sasha asks, using the preposition 'k' with the matching word ending for visiting a person."),
-    (1, None, "'This is Viktoria Sergeyevna, our art director.' Sasha explains, introducing the formal patronymic."),
-    (2, None, "'Oh no, what an unpleasant situation!' Max mutters under his breath in complete shock."),
-    (3, None, "'Would you like to sit at an available table?' Sasha turns a statement into a question purely through rising intonation on the word meaning 'would you like', pairing it with 'to sit down' and 'free'. Now let's listen to the whole conversation again from start to finish."),
+    (1, 'Вы к Дмитрию Владимировичу?', "'Are you here to see Dmitry Vladimirovich?' Sasha asks, using the preposition 'k' with the matching word ending for visiting a person."),
+    (7, None, "'This is Viktoria Sergeyevna, our art director.' Sasha explains, introducing the formal patronymic."),
+    (8, None, "'Oh no, what an unpleasant situation!' Max mutters under his breath in complete shock."),
+    (11, None, "'Would you like to sit at an available table?' Sasha turns a statement into a question purely through rising intonation on the word meaning 'would you like', pairing it with 'to sit down' and 'free'. Now let's listen to the whole conversation again from start to finish."),
 ]

@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Гуля | Тебе под ноги смотреть не учили? | Did they not teach you to watch your step? | #180 00:13:06: Тебе под ноги смотреть не учили | adapted: adapted |
-| 2 | Сеня | Ты опять завелась? | Are you worked up again? | #181 00:13:09: Ты опять завелась | adapted: adapted |
-| 3 | Гуля | Я завелась? Она специально моё ведро пнула! | I got worked up? She kicked my bucket on purpose! | #182 00:13:14: Я завелась? Она специально моё ведро пнула | adapted: adapted |
-| 4 | Сеня | Да отстань ты уже от неё! | Just leave her alone already! | #183 00:13:16: Да отстань ты уже | adapted: adapted |
-| 5 | Сеня | У нас с Катей ничего нет и не было. | There is nothing and never was anything between Katya and me. | #183 00:13:16: Кате ничего нет и не было | adapted: adapted |
-| 6 | Гуля | И не будет! | And never will be! | #184 00:13:19: И не будет | adapted: adapted |
-| 7 | Сеня | Да конечно не будет. | Of course there never will be. | #184 00:13:19: Да конечно не будет | adapted: adapted |
-| 8 | Гуля | Почему ты сразу не сказал: не было, нет и не будет? | Why did you not say right away: there was not, is not, and will not be? | #185 00:13:21: Почему ты сразу не сказал? Не было, нет и не будет | adapted: adapted |
-| 9 | Гуля | Почему я за тебя должна это говорить? | Why do I have to say this for you? | #186 00:13:24: Почему я за тебя должна это говорить | adapted: adapted |
-| 10 | Гуля | А может, ты всё-таки её хочешь? | Or maybe you still want her after all? | #187 00:13:25: А может ты всё-таки её хочешь | adapted: adapted |
-| 11 | Сеня | Да что ты заладила! | Why do you keep repeating that! | #188 00:13:27: Да что ты заладила | adapted: adapted |
-| 12 | Сеня | Дура ненормальная! | Crazy fool! | #189 00:13:29: Дура | adapted: adapted |
+| 1 | Гуля | Тебе под ноги смотреть не учили? | Did they not teach you to watch your step? | #180: Тебе под ноги смотреть не учили | adapted: adapted |
+| 2 | Сеня | Ты опять завелась? | Are you worked up again? | #181: Ты опять завелась | adapted: adapted |
+| 3 | Гуля | Я завелась? Она специально моё ведро пнула! | I got worked up? She kicked my bucket on purpose! | #182: Я завелась? Она специально моё ведро пнула | adapted: adapted |
+| 4 | Сеня | Да отстань ты уже от неё! | Just leave her alone already! | #183: Да отстань ты уже | adapted: adapted |
+| 5 | Сеня | У нас с Катей ничего нет и не было. | There is nothing and never was anything between Katya and me. | #183: Кате ничего нет и не было | adapted: adapted |
+| 6 | Гуля | И не будет! | And never will be! | #184: И не будет | adapted: adapted |
+| 7 | Сеня | Да конечно не будет. | Of course there never will be. | #184: Да конечно не будет | adapted: adapted |
+| 8 | Гуля | Почему ты сразу не сказал: не было, нет и не будет? | Why did you not say right away: there was not, is not, and will not be? | #185: Почему ты сразу не сказал? Не было, нет и не будет | adapted: adapted |
+| 9 | Гуля | Почему я за тебя должна это говорить? | Why do I have to say this for you? | #186: Почему я за тебя должна это говорить | adapted: adapted |
+| 10 | Гуля | А может, ты всё-таки её хочешь? | Or maybe you still want her after all? | #187: А может ты всё-таки её хочешь | adapted: adapted |
+| 11 | Сеня | Да что ты заладила! | Why do you keep repeating that! | #188: Да что ты заладила | adapted: adapted |
+| 12 | Катя | Дура ненормальная! | Crazy fool! | #189: Дура | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Did they not teach you to watch your step?' The meaning hinges on 'to you' working together with 'taught' in spoken Russian.
-- 'Are you worked up again?' The '-a' ending on the past-tense verb for 'got worked up' marks a female speaker or subject. Gulya answers right away.
-- 'I got worked up? She kicked my bucket on purpose!' Gulya anchors the line on 'I', while 'kicked' completes the thought.
-- 'Just leave her alone already!' In Russian, the idea of 'yes' flows naturally into 'she' without extra filler words.
-- 'There is nothing and never was anything between Katya and me.' Spoken Russian keeps this brisk, leaning on 'at' and finishing on 'was'. Gulya answers right away.
-- 'And never will be!' In Russian, the idea of 'and' flows naturally into 'will be' without extra filler words.
-- 'Of course there never will be.' In Russian, the idea of 'yes' flows naturally into 'will be' without extra filler words.
-- 'Why did you not say right away: there was not, is not, and will not be?' Notice how Russian expresses 'why' and 'will be' with crisp inflection rather than helper words.
-- 'Why do I have to say this for you?' Spoken Russian keeps this brisk, leaning on 'why' and finishing on 'to speak'.
-- 'Or maybe you still want her after all?' In Russian, the idea of 'and' flows naturally into 'want' without extra filler words.
-- 'Why do you keep repeating that!' The meaning hinges on 'yes' working together with 'keep repeating' in spoken Russian. Katya answers right away.
-- 'Crazy fool!' Notice how Russian expresses 'fool' and 'crazy' with crisp inflection rather than helper words.
+- 'Did they not teach you to watch your step?' By asking whether they not teach Katya to watch Katya's step, Gulya presses Katya for a straight answer. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Are you worked up again?' Checking whether Gulya worked up again cuts straight through the tension between Senya and Gulya. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'I got worked up? She kicked my bucket on purpose!' Questioning whether she got worked up is how Gulya tests Katya's story.
+- 'Just leave her alone already!' Between the situation and the moment, Senya delivers a sharp reaction. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'There is nothing and never was anything between Katya and me.' Because there is nothing and never was anything between Katya and him, Senya treats the matter as settled. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
+- 'And never will be!' Once never will be, Gulya makes sure Katya hears every word.
+- 'Of course there never will be.' Senya mentions that there never will be so Gulya sees what is at stake.
+- 'Why did you not say right away: there was not, is not, and will not be?' Here wondering why Katya not say right away there was not is not and will not be shows Gulya looking for the real truth. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Why do I have to say this for you?' By asking why she has to say this for Katya, Gulya presses Katya for a straight answer.
+- 'Or maybe you still want her after all?' With the kitchen and point hanging in the air, Gulya puts Katya on the spot. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Why do you keep repeating that!' Because why do Gulya keeps repeating, Senya does not bother softening the blow for Gulya. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Crazy fool!' With the kitchen and situation at stake, Katya reacts without holding back.

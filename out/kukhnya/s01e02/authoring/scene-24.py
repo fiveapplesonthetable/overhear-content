@@ -5,32 +5,31 @@ SEASON = 1
 EPISODE = 2
 SCENE = 24
 TITLE = "Меч крестоносца  (The Crusader's Sword)"
-LEVEL = "A1 — Duolingo Section 2"
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "chef": "anja", "anya": "alisa"}
-LABELS = {"chef": "Шеф", "anya": "Макс"}
+LABELS = {'barinov': 'Шеф', 'guest': 'Гость', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.02'
 SOURCE_FILE = 'sources/kukhnya/s01/e02.ru.dual.srt'
 INTRO = 'In the elegant dining room of Claude Monet, panic erupts when an influential guest discovers a filleting knife baked inside his fish, threatening the restaurant with immediate disaster.'
 OPENER = "Let's explore the kitchen emergency and Max's brilliant storytelling."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Saved from disaster by quick thinking, Max earns grudging respect from the head chef. Next time you watch the episode, listen for the Russian expressions for 'appetite' and 'tasty' — you will catch every word right away. See you next time!"
-CLOSING = ("chef", "Пока!")
+CLOSING = ('barinov', 'Пока!')
 STORY = [
-    ('chef', 'В зале гость нашёл нож в рыбе!', 'In the dining room a guest found a knife in the fish!', [(253, 'Там рыбий нож нашли.')], ''),
-    ('anya', 'Шеф, нужно срочно что-то делать.', 'Chef, we must urgently do something.', [(256, 'Нужно что-то делать.')], ''),
-    ('chef', 'Я сам пойду в зал.', 'I will go out to the dining room myself.', [(260, 'Я шеф-повар этого ресторана.')], ''),
-    ('chef', 'Вы объясните мне, что это такое?', 'Will you explain to me what this is?', [(261, 'Вы не объясните мне, что это.')], ''),
-    ('anya', 'Позвольте мне всё объяснить гостю.', 'Allow me to explain everything to the guest.', [(262, 'А позвольте я, шеф.')], ''),
-    ('anya', 'Перед вами уникальный старинный рецепт.', 'Before you is a unique ancient recipe.', [(264, 'уникальный рецепт более чем с тысячелетней')], ''),
-    ('anya', 'Крестоносцы готовили рыбу прямо на мечах.', 'The Crusaders prepared fish right on their swords.', [(268, 'нанизывания ее на лезвие меча.')], ''),
-    ('chef', 'Да, это действительно очень вкусно!', 'Yes, this is indeed very delicious!', [(271, 'Да, действительно.')], ''),
-    ('chef', 'Это настоящая поэзия высокой кухни.', 'This is true poetry of haute cuisine.', [(272, 'Это же настоящая поэзия кулинарии.')], ''),
-    ('chef', 'Принесите мне ещё одну такую рыбу!', 'Bring me another fish just like this!', [(275, 'А можно мне такую же рыбу?')], ''),
-    ('chef', 'Сейчас всё сделаем, приятного аппетита.', 'We will prepare everything right away, bon appetit.', [(277, 'Приятного аппетита.')], ''),
-    ('chef', 'Макс, пошли скорее на кухню.', "Max, let's head quickly to the kitchen.", [(276, 'Макс, пошли.')], ''),
-    ('anya', 'Шеф, вы назвали меня по имени!', 'Chef, you called me by my name!', [(278, 'Шеф, а вы меня по именем назвали.')], ''),
-    ('chef', 'Огузок, без спроса не выходи в зал!', 'Runt, do not come out to the dining room without permission!', [(279, 'если ты еще раз без моего разрешения')], ''),
+    ('barinov', 'В зале гость нашёл нож в рыбе!', 'In the dining room a guest found a knife in the fish!', [(253, 'Там рыбий нож нашли.')], ''),
+    ('max', 'Шеф, нужно срочно что-то делать.', 'Chef, we must urgently do something.', [(256, 'Нужно что-то делать.')], ''),
+    ('barinov', 'Я сам пойду в зал.', 'I will go out to the dining room myself.', [(260, 'Я шеф-повар этого ресторана.')], ''),
+    ('guest', 'Вы объясните мне, что это такое?', 'Will you explain to me what this is?', [(261, 'Вы не объясните мне, что это.')], ''),
+    ('max', 'Позвольте мне всё объяснить гостю.', 'Allow me to explain everything to the guest.', [(262, 'А позвольте я, шеф.')], ''),
+    ('max', 'Перед вами уникальный старинный рецепт.', 'Before you is a unique ancient recipe.', [(264, 'уникальный рецепт более чем с тысячелетней')], ''),
+    ('max', 'Крестоносцы готовили рыбу прямо на мечах.', 'The Crusaders prepared fish right on their swords.', [(268, 'нанизывания ее на лезвие меча.')], ''),
+    ('guest', 'Да, это действительно очень вкусно!', 'Yes, this is indeed very delicious!', [(271, 'Да, действительно.')], ''),
+    ('guest', 'Это настоящая поэзия высокой кухни.', 'This is true poetry of haute cuisine.', [(272, 'Это же настоящая поэзия кулинарии.')], ''),
+    ('guest', 'Принесите мне ещё одну такую рыбу!', 'Bring me another fish just like this!', [(275, 'А можно мне такую же рыбу?')], ''),
+    ('barinov', 'Сейчас всё сделаем, приятного аппетита.', 'We will prepare everything right away, bon appetit.', [(277, 'Приятного аппетита.')], ''),
+    ('barinov', 'Макс, пошли скорее на кухню.', "Max, let's head quickly to the kitchen.", [(276, 'Макс, пошли.')], ''),
+    ('max', 'Шеф, вы назвали меня по имени!', 'Chef, you called me by my name!', [(278, 'Шеф, а вы меня по именем назвали.')], ''),
+    ('barinov', 'Огузок, без спроса не выходи в зал!', 'Runt, do not come out to the dining room without permission!', [(279, 'если ты еще раз без моего разрешения')], ''),
 ]
 WALK = [
     (0, None, "'In the dining room a guest found a knife in the fish!' The kitchen staff realizes an enormous disaster is unfolding."),

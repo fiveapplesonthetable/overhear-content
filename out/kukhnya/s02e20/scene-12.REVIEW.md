@@ -10,32 +10,32 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Вика | А сейчас, дорогие друзья, проходим за столики. | And now, dear friends, let us proceed to our tables. | #203 00:14:19: А сейчас, дорогие друзья, проходим за столики | verbatim |
-| 2 | Вика | Да, Екатерины и... | Yes, for Ekaterina and... | #205 00:14:30: Да, Екатерины и | verbatim |
-| 3 | Вика | Екатерины? Да? | Ekaterina, right? | #205 00:14:30: Екатерины? Да | verbatim |
-| 4 | Вика | Сергея Владимировича. | Sergey Vladimirovich. | #206 00:14:32: Сергея Владимировича | verbatim |
-| 5 | Вика | И Владимира Сергеевича! | And Vladimir Sergeyevich! | #207 00:14:34: И Владимира Сергеевича | verbatim |
-| 6 | Вика | Конечно, на счастье. | Of course, for good luck. | #209 00:14:42: Конечно, на счастье | verbatim |
-| 7 | Вика | Счастье! Конечно. | Good luck! Of course. | #209 00:14:42: счастье! Конечно | verbatim |
-| 8 | Вика | Лупасти на здоровье. | Smash away to your heart's content. | #210 00:14:45: Лупасти на здоровье | verbatim |
-| 9 | Вика | Вика, следи за этим счастливчиком. | Vika, keep a close eye on that lucky fellow. | #211 00:14:47: Вика, следи за этим счастливчиком | verbatim |
-| 10 | Вика | Он к концу свадьбы по миру нас пустит. | He will bankrupt us by the end of the wedding. | #212 00:14:49: Он к концу свадьбы по миру нас пустит | verbatim |
-| 11 | Вика | Настя, тебе чего? | Nastya, what are you up to? | #214 00:14:55: Настя, тебе чего | verbatim |
-| 12 | Вика | Ты мне такой хороший. | You are so wonderful to me. | #216 00:14:59: Ты мне такой хороший | verbatim |
-| 13 | Вика | Мне так повезло с тобой. | I am so lucky to have you. | #217 00:15:07: Мне так повезло с тобой | verbatim |
+| 1 | Вика | А сейчас, дорогие друзья, проходим за столики. | And now, dear friends, let us proceed to our tables. | #203: А сейчас, дорогие друзья, проходим за столики | verbatim |
+| 2 | Настя | Да, Екатерины и... | Yes, for Ekaterina and... | #205: Да, Екатерины и | verbatim |
+| 3 | Нагиев | Екатерины? Да? | Ekaterina, right? | #205: Екатерины? Да | verbatim |
+| 4 | Вика | Сергея Владимировича. | Sergey Vladimirovich. | #206: Сергея Владимировича | verbatim |
+| 5 | Настя | И Владимира Сергеевича! | And Vladimir Sergeyevich! | #207: И Владимира Сергеевича | verbatim |
+| 6 | Нагиев | Конечно, на счастье. | Of course, for good luck. | #209: Конечно, на счастье | verbatim |
+| 7 | Вика | Счастье! Конечно. | Good luck! Of course. | #209: счастье! Конечно | verbatim |
+| 8 | Настя | Лупасти на здоровье. | Smash away to your heart's content. | #210: Лупасти на здоровье | verbatim |
+| 9 | Нагиев | Вика, следи за этим счастливчиком. | Vika, keep a close eye on that lucky fellow. | #211: Вика, следи за этим счастливчиком | verbatim |
+| 10 | Вика | Он к концу свадьбы по миру нас пустит. | He will bankrupt us by the end of the wedding. | #212: Он к концу свадьбы по миру нас пустит | verbatim |
+| 11 | Настя | Настя, тебе чего? | Nastya, what are you up to? | #214: Настя, тебе чего | verbatim |
+| 12 | Нагиев | Ты мне такой хороший. | You are so wonderful to me. | #216: Ты мне такой хороший | verbatim |
+| 13 | Вика | Мне так повезло с тобой. | I am so lucky to have you. | #217: Мне так повезло с тобой | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'And now, dear friends, let us proceed to our tables.' In Russian, the idea of 'and' flows naturally into 'tables' without extra filler words.
-- 'Yes, for Ekaterina and...' Here the Russian phrasing highlights 'yes' before landing on 'both'. Dmitry answers right away.
-- 'Ekaterina, right?' In Russian, the idea of 'Ekaterina' flows naturally into 'yes' without extra filler words.
-- 'Sergey Vladimirovich.' Spoken Russian keeps this brisk, leaning on 'Sergey' and finishing on 'Vladimirovich'.
-- 'And Vladimir Sergeyevich!' Nastya brings out the contrast between 'both' and 'Vladimir' in a few short words. Dmitry answers right away.
-- 'Of course, for good luck.' The meaning hinges on 'of course' working together with 'joy' in spoken Russian.
-- 'Good luck! Of course.' Notice how Russian expresses 'joy' and 'of course' with crisp inflection rather than helper words.
-- 'Smash away to your heart's content.' Nastya anchors the line on 'foolishness', while 'health' completes the thought. Dmitry answers right away.
-- 'Vika, keep a close eye on that lucky fellow.' In Russian, the idea of 'Vika' flows naturally into 'lucky guy' without extra filler words.
-- 'He will bankrupt us by the end of the wedding.' Here the Russian phrasing highlights 'he' before landing on 'to let go'.
-- 'Nastya, what are you up to?' Nastya brings out the contrast between 'Nastya' and 'you' in a few short words. Dmitry answers right away.
-- 'You are so wonderful to me.' Spoken Russian keeps this brief and expressive, built right around 'good' without extra helper words.
-- 'I am so lucky to have you.' Here the Russian phrasing highlights 'for me' before landing on 'you'.
+- 'And now, dear friends, let us proceed to our tables.' Since dear friends let them proceed to their tables, Vika does not waste words on excuses.
+- 'Yes, for Ekaterina and...' Between the work and the wedding, Nastya gives Nagiyev a quick, grounded response.
+- 'Ekaterina, right?' Around the room and guest, Nagiyev wants to know where Nastya really stands. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Sergey Vladimirovich.' With the point and wedding in play, Vika keeps this short reply brisk and direct.
+- 'And Vladimir Sergeyevich!' With the room and conversation at stake, Nastya reacts without holding back.
+- 'Of course, for good luck.' Over the point and the wedding, Nagiyev answers Nastya without a second thought.
+- 'Good luck! Of course.' Over the guest and the wedding, Vika lets her real feelings show. Russian puts the key word right up front so her emotion lands on the first beat.
+- 'Smash away to your heart's content.' Around the point and wedding, Nastya sets a calm, everyday tone with Nagiyev.
+- 'Vika, keep a close eye on that lucky fellow.' Keeping a close eye on that lucky fellow is how Nagiyev lays out the situation for Nastya.
+- 'He will bankrupt us by the end of the wedding.' Realizing that he will bankrupt them by the end of the wedding changes how Vika handles the situation.
+- 'Nastya, what are you up to?' By asking what Nagiyev up is, Nastya presses Nagiyev for a straight answer.
+- 'You are so wonderful to me.' Even though Nastya is so wonderful to him, Nagiyev keeps a steady face in front of Nastya. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'I am so lucky to have you.' Noting that she is so lucky to have Nagiyev keeps Vika's side of the story simple and clear. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.

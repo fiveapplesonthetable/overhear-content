@@ -1,37 +1,39 @@
-# domashniy-arest/s01e02/scene-28.py
-ID = "domashniy-arest-s01e02-scene-28"
-SHOW = "domashniy-arest"
+# Authoring module for domashniy-arest-s01e02-scene-28.
+ID = 'domashniy-arest-s01e02-scene-28'
+SHOW = 'domashniy-arest'
 SEASON = 1
 EPISODE = 2
 SCENE = 28
-TITLE = "Пир из холодильника  (A Feast from the Fridge)"
-LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-SOURCE_NAME = "Домашний арест (Domashniy Arest) S1.02"
-SOURCE_FILE = "sources/domashniy-arest/s01/e02.ru.dual.srt"
-VOICES = {"narrator": "sky", "anya": "alisa", "yulia": "angelina", "lyosha": "anja"}
-LABELS = {"anya": "Аркадий", "yulia": "Юля", "lyosha": "Лёша"}
+TITLE = 'Пир из холодильника  (A Feast from the Fridge)'
+LEVEL = 'A1 — Duolingo Section 2'
+PAIR = 'ru-en'
+LABELS = {'arkady': 'Аркадий', 'lyosha': 'Лёша', 'yulia': 'Юля'}
+SOURCE_NAME = 'Домашний арест (Domashniy Arest) S1.02'
+SOURCE_FILE = 'sources/domashniy-arest/s01/e02.ru.dual.srt'
 INTRO = "Back in the communal flat, Arkady is very pleased with himself: last time, he phoned the governor with a number-faking app, pretending to be the powerful Tretyakov from Moscow, and ordered him to let the mayor go. Now, starving, he goes looking for food with the children, and finds the old neighbour's locked fridge. Let's listen in Russian first."
-STORY = [
-    ("anya", "Не могу поверить! Я всё сделал за пятьсот рублей.", "I can't believe it! I did it all for five hundred roubles.", [(992, 'Не могу поверить'), (993, 'все сделал')], "'за 500 рублей' written out in words; the million-dollar comparison (992) is left out"),
-    ("yulia", "Значит, вас скоро отпустят?", "So they'll let you go soon?", [], "new: the children know about the trick call (scene 27) and Arkady expects to be freed (cue 1011)"),
-    ("anya", "Скоро. А пока я есть хочу, слона бы съел!", "Soon. But for now I'm hungry, I could eat an elephant!", [(995, 'слона бы съел')], "'Скоро. А пока' new; жрать -> есть (plain word)"),
-    ("yulia", "Да вон, курица.", "There's chicken, over there.", [(998, 'Да вон')], "the garbled «мам, курицу свою» simplified to «курица»"),
-    ("anya", "Курица? Нет. А чей это холодильник?", "Chicken? No. And whose fridge is this?", [(999, 'Курицу'), (1002, 'чей холодильник')], "case changed (курицу -> курица); 'Нет.' new; 'это' added"),
-    ("yulia", "Это Клавдии Викторовны.", "That's Klavdia Viktorovna's.", [(1003, 'Это Клавдии Викторовны')], "speaker unclear in the source, given to Yulia"),
-    ("anya", "А почему там замок?", "And why is there a lock on it?", [(1004, 'замок')], "«А чё, замок висит?» -> «А почему там замок?» (plain words)"),
-    ("yulia", "Она там взятки для врачей хранит.", "She keeps bribes for the doctors in there.", [(1005, 'Она там взятки для врачей хранит')], "speaker unclear in the source, given to Yulia"),
-    ("anya", "Взятки? Очень интересно.", "Bribes? Very interesting.", [(1006, 'Взятки')], "'Очень интересно.' new (Arkady then breaks the lock, told by the narrator)"),
-    ("lyosha", "Вы что? Нас же мама убьёт!", "What are you doing? Mum will kill us!", [(1009, 'Нас же мама убьёт')], "«вы чё» (1008) -> «Вы что?»; speaker unclear in the source, given to Lyosha"),
-    ("anya", "Так, успокойтесь все. Сейчас за мной приедут.", "Right, everyone calm down. They're coming for me any minute.", [(1010, 'успокойтесь все'), (1011, 'Сейчас за мной приедут')], ""),
-    ("yulia", "А так можно?", "Is that allowed?", [(1017, 'А так можно')], "speaker unclear in the source, given to Yulia"),
-    ("anya", "Можно. А ты чего сидишь? Давай, ешь.", "It is. And why are you just sitting there? Come on, eat.", [(1024, 'а ты чего сидишь'), (1024, 'Давай, ешь')], "'Можно.' new; «как неродной» left out"),
-    ("lyosha", "Мама говорила, что у меня на икру аллергия.", "Mum said I'm allergic to caviar.", [(1025, 'Мама говорила, что у меня на икру аллергия')], ""),
-    ("anya", "Мама так говорит, чтобы ты икру не просил. У неё денег нет.", "Mum says that so you won't ask for caviar. She has no money.", [(1026, 'Мама так говорит'), (1027, 'У неё денег нет')], "«чтоб ты у неё икру не просила» -> «чтобы ты икру не просил» (full form, masculine for the boy); «Вы ж нищие» left out"),
-    ("lyosha", "Ладно. Ой, вкусно!", "All right. Oh, it's tasty!", [(1029, 'Вкусно')], "'Ладно. Ой' new; Arkady's question «Вкусно?» and the boy's «Ага» (1029-1030) become the boy's exclamation"),
-    ("anya", "Вот видишь? И никакой аллергии.", "There, you see? And no allergy at all.", [(1031, 'И никакой аллергии')], "'Вот видишь?' new"),
-]
 OPENER = "Let's go back through it slowly. The trick call is over, and Arkady can hardly believe how cheap his freedom was."
+TRANSITION = "Now let's hear the whole feast again, from the beginning."
+OUTRO = "And that's the scene: a broken lock, a stolen feast, and a boy who has just eaten the one thing he was told never to touch. We'll soon find out what the caviar does. See you next time!"
+CLOSING = ('arkady', 'Пока!')
+STORY = [
+    ('arkady', 'Не могу поверить! Я всё сделал за пятьсот рублей.', "I can't believe it! I did it all for five hundred roubles.", [(992, 'Не могу поверить'), (993, 'все сделал')], "'за 500 рублей' written out in words; the million-dollar comparison (992) is left out"),
+    ('yulia', 'Значит, вас скоро отпустят?', "So they'll let you go soon?", [], 'new: the children know about the trick call (scene 27) and Arkady expects to be freed (cue 1011)'),
+    ('arkady', 'Скоро. А пока я есть хочу, слона бы съел!', "Soon. But for now I'm hungry, I could eat an elephant!", [(995, 'слона бы съел')], "'Скоро. А пока' new; жрать -> есть (plain word)"),
+    ('yulia', 'Да вон, курица.', "There's chicken, over there.", [(998, 'Да вон')], 'the garbled «мам, курицу свою» simplified to «курица»'),
+    ('arkady', 'Курица? Нет. А чей это холодильник?', 'Chicken? No. And whose fridge is this?', [(999, 'Курицу'), (1002, 'чей холодильник')], "case changed (курицу -> курица); 'Нет.' new; 'это' added"),
+    ('yulia', 'Это Клавдии Викторовны.', "That's Klavdia Viktorovna's.", [(1003, 'Это Клавдии Викторовны')], 'speaker unclear in the source, given to Yulia'),
+    ('arkady', 'А почему там замок?', 'And why is there a lock on it?', [(1004, 'замок')], '«А чё, замок висит?» -> «А почему там замок?» (plain words)'),
+    ('yulia', 'Она там взятки для врачей хранит.', 'She keeps bribes for the doctors in there.', [(1005, 'Она там взятки для врачей хранит')], 'speaker unclear in the source, given to Yulia'),
+    ('arkady', 'Взятки? Очень интересно.', 'Bribes? Very interesting.', [(1006, 'Взятки')], "'Очень интересно.' new (Arkady then breaks the lock, told by the narrator)"),
+    ('lyosha', 'Вы что? Нас же мама убьёт!', 'What are you doing? Mum will kill us!', [(1009, 'Нас же мама убьёт')], '«вы чё» (1008) -> «Вы что?»; speaker unclear in the source, given to Lyosha'),
+    ('arkady', 'Так, успокойтесь все. Сейчас за мной приедут.', "Right, everyone calm down. They're coming for me any minute.", [(1010, 'успокойтесь все'), (1011, 'Сейчас за мной приедут')], ''),
+    ('yulia', 'А так можно?', 'Is that allowed?', [(1017, 'А так можно')], 'speaker unclear in the source, given to Yulia'),
+    ('arkady', 'Можно. А ты чего сидишь? Давай, ешь.', 'It is. And why are you just sitting there? Come on, eat.', [(1024, 'а ты чего сидишь'), (1024, 'Давай, ешь')], "'Можно.' new; «как неродной» left out"),
+    ('lyosha', 'Мама говорила, что у меня на икру аллергия.', "Mum said I'm allergic to caviar.", [(1025, 'Мама говорила, что у меня на икру аллергия')], ''),
+    ('arkady', 'Мама так говорит, чтобы ты икру не просил. У неё денег нет.', "Mum says that so you won't ask for caviar. She has no money.", [(1026, 'Мама так говорит'), (1027, 'У неё денег нет')], '«чтоб ты у неё икру не просила» -> «чтобы ты икру не просил» (full form, masculine for the boy); «Вы ж нищие» left out'),
+    ('lyosha', 'Ладно. Ой, вкусно!', "All right. Oh, it's tasty!", [(1029, 'Вкусно')], "'Ладно. Ой' new; Arkady's question «Вкусно?» and the boy's «Ага» (1029-1030) become the boy's exclamation"),
+    ('arkady', 'Вот видишь? И никакой аллергии.', 'There, you see? And no allergy at all.', [(1031, 'И никакой аллергии')], "'Вот видишь?' new"),
+]
 WALK = [
     (0, 'Не могу поверить!', "'I can't believe it!' Literally, 'I can't to believe': the verb for 'can' is followed by a basic action verb, just like in English. Then he explains why."),
     (0, 'Я всё сделал за пятьсот рублей.', "'I did it all for five hundred roubles.' The little word in front of the price means 'for', in the sense of 'in exchange for'. Five hundred roubles is what the faking app cost, and it came out of little Lyosha's piggy bank. Samson's teenage daughter Yulia has a question."),
@@ -56,6 +58,3 @@ WALK = [
     (15, None, "'All right. Oh, it's tasty!' The last word on its own means 'it tastes good', and you'll hear it at every Russian table. Arkady is triumphant."),
     (16, None, "'There, you see? And no allergy at all.' The word before allergy means 'no ... at all', and it makes the denial stronger. Meanwhile, on a building site, Samson is phoning Nina: his boss has given him a trip to Crimea, with a heated seawater pool, and she should go and buy a swimsuit."),
 ]
-TRANSITION = "Now let's hear the whole feast again, from the beginning."
-OUTRO = "And that's the scene: a broken lock, a stolen feast, and a boy who has just eaten the one thing he was told never to touch. We'll soon find out what the caviar does. See you next time!"
-CLOSING = ("anya", "Пока!")

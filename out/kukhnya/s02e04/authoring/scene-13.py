@@ -1,18 +1,20 @@
+# Authoring module for kukhnya-s02e04-scene-13.
 ID = 'kukhnya-s02e04-scene-13'
 SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 4
 SCENE = 13
-TITLE = "Купальник для Кипра  (The Swimsuit for Cyprus)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Купальник для Кипра  (The Swimsuit for Cyprus)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "sasha": "anja", "ainura": "angelina"}
-LABELS = {"sasha": "Саша", "ainura": "Айнура"}
+LABELS = {'ainura': 'Айнура', 'sasha': 'Саша'}
 SOURCE_NAME = 'Кухня (Kukhnya) S2.04'
 SOURCE_FILE = 'sources/kukhnya/s02/e04.ru.srt'
-
 INTRO = 'Determined to break off their relationship cleanly, Max meets Sasha and tells her they need to talk seriously. Before he can say a word, however, Sasha pulls him into a fitting booth to show off the new swimsuit she bought for Cyprus, completely derailing his breakup speech.'
-
+OPENER = "Let's replay the exchange and look closely at each Russian phrase."
+TRANSITION = "Let's hear the complete conversation once more."
+OUTRO = 'That wraps up this scene as max tries to break up with Sasha before their trip, but she pulls him into a fitting room to model her new bikini for Cyprus and melts his resolve. Until next time!'
+CLOSING = ('sasha', 'Хорошего дня!')
 STORY = [
     ('sasha', 'Сашка, мне надо с тобой поговорить, короче.', 'Sasha, I need to talk to you, basically.', [(216, 'Сашка, мне надо с тобой поговорить, короче')], ''),
     ('ainura', 'Мне тоже нужно с тобой поговорить.', 'I need to talk to you too.', [(217, 'Мне тоже нужно с тобой поговорить')], ''),
@@ -28,25 +30,18 @@ STORY = [
     ('ainura', 'Не трогай.', 'Do not touch those.', [(227, 'не трогай')], ''),
     ('sasha', 'Я их купил племяннику.', 'I bought them for my nephew.', [(228, 'Я их купил племяннику')], ''),
 ]
-
-OPENER = "Let's replay the exchange and look closely at each Russian phrase."
-
 WALK = [
-    (0, None, "'Sasha, I need to talk to you, basically.' Sasha anchors the line on 'Sasha', while 'in short' completes the thought."),
-    (1, None, "'I need to talk to you too.' Ainura addresses the listener with the informal singular 'you' alongside 'to talk'. Sasha answers right away."),
-    (2, None, "'Just not out here.' The meaning hinges on 'only' working together with 'here' in spoken Russian."),
-    (3, None, "'Sasha, will you be much longer?' The grammar packs 'Sasha' and 'soon' into a tight, idiomatic kitchen exchange."),
-    (4, None, "'I actually wanted to talk.' Notice how Russian expresses 'I' and 'wanted' with crisp inflection rather than helper words. Ainura answers right away."),
-    (5, None, "'Come on in, let us talk.' In Russian, the idea of 'come in' flows naturally into 'we'll have a talk' without extra filler words."),
-    (6, None, "'How do you like it?' Here the Russian phrasing highlights 'how' before landing on 'you'."),
-    (7, None, "'Very beautiful! I am going to Cyprus.' Ainura pairs 'very much' with 'going, running' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'."),
-    (8, None, "'And I will be wearing it in Cyprus.' Spoken Russian keeps this brisk, leaning on 'and' and finishing on 'Cyprus'."),
-    (9, None, "'And then without it.' Ainura brings out the contrast between 'but' and 'later' in a few short words."),
-    (10, None, "'Come here.' The meaning hinges on 'go' working together with 'here' in spoken Russian. Ainura answers right away."),
-    (11, None, "'Do not touch those.' The grammar packs 'not' and 'touch' into a tight, idiomatic kitchen exchange."),
-    (12, None, "'I bought them for my nephew.' Sasha brings out the contrast between 'I' and 'them' in a few short words."),
+    (0, None, "'Sasha, I need to talk to you, basically.' Realizing that she needs to talk to Ainura basically changes how Sasha handles the situation."),
+    (1, None, "'I need to talk to you too.' Needing to talk to Sasha moves the conversation forward without extra drama. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front."),
+    (2, None, "'Just not out here.' Between the shift and the trip, Sasha gives Ainura a quick, grounded response."),
+    (3, None, "'Sasha, will you be much longer?' By checking whether Sasha is much longer, Ainura presses Sasha for a straight answer."),
+    (4, None, "'I actually wanted to talk.' Since she actually wanted to talk, Sasha does not waste words on excuses."),
+    (5, None, "'Come on in, let us talk.' Coming on in let them talk moves the conversation forward without extra drama."),
+    (6, None, "'How do you like it?' Here wondering how Ainura likes it shows Sasha looking for the real truth."),
+    (7, None, "'Very beautiful! I am going to Cyprus.' Being going to Cyprus is Ainura's blunt reaction in front of Sasha. Russian puts the key word right up front so her emotion lands on the first beat."),
+    (8, None, "'And I will be wearing it in Cyprus.' Explaining that she will be wearing it in Cyprus lays the cards on the table for Ainura."),
+    (9, None, "'And then without it.' Around the moment and room, Ainura sets a calm, everyday tone with Sasha."),
+    (10, None, "'Come here.' By telling Ainura to come here, Sasha keeps her side of the story grounded."),
+    (11, None, "'Do not touch those.' Pointing out that do not touch those gives Sasha a sobering reality check."),
+    (12, None, "'I bought them for my nephew.' Sasha explains that she bought them for her nephew, keeping her voice calm and direct."),
 ]
-
-TRANSITION = "Let's hear the complete conversation once more."
-OUTRO = 'That wraps up this scene as max tries to break up with Sasha before their trip, but she pulls him into a fitting room to model her new bikini for Cyprus and melts his resolve. Until next time!'
-CLOSING = ("sasha", "Хорошего дня!")

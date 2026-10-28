@@ -10,32 +10,32 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | К нам пришел вегетарианец. | A vegetarian came to our restaurant. | #17 00:02:31: К нам пришел вегетарианец | verbatim |
-| 2 | Вика | И он просит. | And he is asking for it. | #18 00:02:33: И он просит | verbatim |
-| 3 | Аня | Из говяжьего паштета. | Made with beef pate. | #18 00:02:33: из говяжьего паштета | verbatim |
-| 4 | Вика | Но без говяжьего паштета. | Only without the beef pate. | #19 00:02:38: но без говяжьего паштета | verbatim |
-| 5 | Аня | А, ну, отнеси ему, пусть ест. | Oh, well, take it out to him and let him eat. | #19 00:02:38: А, ну, отнеси ему, пусть ест | verbatim |
-| 6 | Вика | Потому что я такой ерундой заниматься не буду. | Because I am not going to bother with such nonsense. | #20 00:02:41: потому что я такой<br>#20 00:02:41: заниматься не буду | adapted: adapted |
-| 7 | Аня | Или, может, ты можешь котлеты сделать из огурцов? | Or maybe you can make cutlets out of cucumbers? | #21 00:02:43: Или, может, ты можешь котлеты сделать из огурцов | verbatim |
-| 8 | Вика | Максим, приготовишь рулетики? | Maksim, will you make the rolls? | #22 00:02:48: Максим, приготовишь рулетики | verbatim |
-| 9 | Аня | Ну, пожалуйста. | Oh, please. | #23 00:02:51: Ну, пожалуйста | verbatim |
-| 10 | Вика | Умеешь уговаривать. | You really know how to persuade someone. | #25 00:02:57: Умеешь уговаривать | verbatim |
-| 11 | Аня | Спасибо, Максиш. | Thank you, Maksish. | #27 00:03:02: Спасибо, Максиш | verbatim |
-| 12 | Вика | Иди. Спасибо. | Go on. Thank you. | #27 00:03:02: Иди. Спасибо | verbatim |
-| 13 | Аня | Ладно, я пошутил. | Alright, I was joking. | #29 00:03:11: Ладно, я пошутил | verbatim |
+| 1 | Макс | К нам пришел вегетарианец. | A vegetarian came to our restaurant. | #17: К нам пришел вегетарианец | verbatim |
+| 2 | Вика | И он просит. | And he is asking for it. | #18: И он просит | verbatim |
+| 3 | Макс | Из говяжьего паштета. | Made with beef pate. | #18: из говяжьего паштета | verbatim |
+| 4 | Вика | Но без говяжьего паштета. | Only without the beef pate. | #19: но без говяжьего паштета | verbatim |
+| 5 | Макс | А, ну, отнеси ему, пусть ест. | Oh, well, take it out to him and let him eat. | #19: А, ну, отнеси ему, пусть ест | verbatim |
+| 6 | Вика | Потому что я такой ерундой заниматься не буду. | Because I am not going to bother with such nonsense. | #20: потому что я такой<br>#20: заниматься не буду | adapted: adapted |
+| 7 | Макс | Или, может, ты можешь котлеты сделать из огурцов? | Or maybe you can make cutlets out of cucumbers? | #21: Или, может, ты можешь котлеты сделать из огурцов | verbatim |
+| 8 | Вика | Максим, приготовишь рулетики? | Maksim, will you make the rolls? | #22: Максим, приготовишь рулетики | verbatim |
+| 9 | Макс | Ну, пожалуйста. | Oh, please. | #23: Ну, пожалуйста | verbatim |
+| 10 | Вика | Умеешь уговаривать. | You really know how to persuade someone. | #25: Умеешь уговаривать | verbatim |
+| 11 | Макс | Спасибо, Максиш. | Thank you, Maksish. | #27: Спасибо, Максиш | verbatim |
+| 12 | Вика | Иди. Спасибо. | Go on. Thank you. | #27: Иди. Спасибо | verbatim |
+| 13 | Макс | Ладно, я пошутил. | Alright, I was joking. | #29: Ладно, я пошутил | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'A vegetarian came to our restaurant.' Notice how Russian expresses 'for us' and 'vegetarian' with crisp inflection rather than helper words. Vika answers right away.
-- 'And he is asking for it.' Notice how Russian expresses 'both' and 'is asking for' with crisp inflection rather than helper words.
-- 'Made with beef pate.' Max anchors the line on 'out of', while 'pâté' completes the thought.
-- 'Only without the beef pate.' In Russian, the idea of 'but' flows naturally into 'pâté' without extra filler words. Max answers right away.
-- 'Oh, well, take it out to him and let him eat.' Here the Russian phrasing highlights 'and' before landing on 'eats'.
-- 'Because I am not going to bother with such nonsense.' In everyday Russian, 'because' flows straight into 'will be' without extra linking words.
-- 'Or maybe you can make cutlets out of cucumbers?' Here the Russian phrasing highlights 'or' before landing on 'cucumber'. Vika answers right away.
-- 'Maksim, will you make the rolls?' The grammar packs 'Maxim' and 'little roll' into a tight, idiomatic kitchen exchange.
-- 'Oh, please.' The meaning hinges on 'come on' working together with 'there you go' in spoken Russian.
-- 'You really know how to persuade someone.' Notice how Russian expresses 'know how to' and 'persuade' with crisp inflection rather than helper words. Max answers right away.
-- 'Thank you, Maksish.' Max anchors the line on 'thank you', while 'Max' completes the thought.
-- 'Go on. Thank you.' In Russian, the idea of 'go' flows naturally into 'thank you' without extra filler words.
-- 'Alright, I was joking.' Spoken Russian keeps this brisk, leaning on 'really?!' and finishing on 'joked'.
+- 'A vegetarian came to our restaurant.' Even though a vegetarian came to their restaurant, Max keeps a steady face in front of Vika.
+- 'And he is asking for it.' Admitting that he is asking for it shows Vika being honest for a change.
+- 'Made with beef pate.' Saying that made with beef pate is how Max sets the tone with Vika.
+- 'Only without the beef pate.' Around the conversation and room, Vika sets a calm, everyday tone with Max.
+- 'Oh, well, take it out to him and let him eat.' Max mentions that Vika should take it out to him and let him eat so Vika sees what is at stake.
+- 'Because I am not going to bother with such nonsense.' Saying that because she is not going to bother with such nonsense is how Vika sets the tone with Max.
+- 'Or maybe you can make cutlets out of cucumbers?' Max asks whether maybe Vika can make cutlets out of cucumbers, refusing to let the point slide. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Maksim, will you make the rolls?' Asking whether Max makes the rolls is how Vika puts Max on the spot. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Oh, please.' With the work and guest in play, Max keeps this short reply brisk and direct.
+- 'You really know how to persuade someone.' With the work and table in play, Vika keeps this short reply brisk and direct.
+- 'Thank you, Maksish.' Over the work and the table, Max answers Vika without a second thought.
+- 'Go on. Thank you.' Around the work and shift, Vika sets a calm, everyday tone with Max.
+- 'Alright, I was joking.' Claiming that Alright he was joking sounds confident, even if Vika has doubts.

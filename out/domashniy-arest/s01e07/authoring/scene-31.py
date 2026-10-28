@@ -1,34 +1,36 @@
-# domashniy-arest/s01e07/scene-31.py
-ID = "domashniy-arest-s01e07-scene-31"
-SHOW = "domashniy-arest"
+# Authoring module for domashniy-arest-s01e07-scene-31.
+ID = 'domashniy-arest-s01e07-scene-31'
+SHOW = 'domashniy-arest'
 SEASON = 1
 EPISODE = 7
 SCENE = 31
-TITLE = "Немецкие источники  (German Archive Sources)"
-LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-SOURCE_NAME = "Домашний арест (Domashniy Arest) S1.07"
-SOURCE_FILE = "sources/domashniy-arest/s01/e07.ru.dual.srt"
-VOICES = {"narrator": "sky", "general": "angelina", "lavrov": "anja"}
-LABELS = {"general": "Генерал Круглов", "lavrov": "Лавров"}
+TITLE = 'Немецкие источники  (German Archive Sources)'
+LEVEL = 'A1 — Duolingo Section 2'
+PAIR = 'ru-en'
+LABELS = {'general': 'Генерал Круглов', 'lavrov': 'Лавров', 'lyova': 'Лёва'}
+SOURCE_NAME = 'Домашний арест (Domashniy Arest) S1.07'
+SOURCE_FILE = 'sources/domashniy-arest/s01/e07.ru.dual.srt'
 INTRO = "Meanwhile at the security office, Major Lavrov and Colonel Mikhail Mikhailovich report on a video call to General Kruglov in Moscow that Samsonov's family record is spotless. Suddenly, young archive lieutenant Lyova Sokolov steps forward with a thick folder. Let's hear the conversation in Russian first, then walk through it together."
-STORY = [
-    ("lavrov", "К сожалению, компромата на него нет.", "Unfortunately, there is no compromising material on him.", [(1187, 'К сожалению'), (1187, 'компромата на него')], ""),
-    ("lavrov", "Нам придётся искать другие методы.", "We will have to look for other methods.", [(1188, 'придется'), (1188, 'методам')], "'прибегнуть к менее корректным методам' -> 'искать другие методы'"),
-    ("general", "А вы все архивные документы посмотрели?", "Did you look through all the archive documents?", [(1190, 'А вы все архивные документы посмотрели')], ""),
-    ("lavrov", "Так точно, товарищ генерал! Мы вторые сутки не спим.", "Yes, sir, Comrade General! We haven't slept for two days.", [(1191, 'Так точно'), (1192, 'Товарищ генерал, мы вторые сутки не спим')], "Colonel's line folded into Lavrov"),
-    ("general", "Двое суток они не спят! Мы годами не спим.", "Two days they haven't slept! We go years without sleeping.", [(1193, 'Двое суток они не спят'), (1194, 'Мы годами не спим')], ""),
-    ("lavrov", "На родственников ничего нет. Оба деда воевали.", "There's nothing on his relatives. Both grandfathers fought in the war.", [(1196, 'На родственников ничего. Оба деда воевали')], ""),
-    ("lavrov", "Один из них погиб на войне. Бабушки обыкновенные.", "One of them died in the war. The grandmothers are ordinary.", [(1197, 'Один из них'), (1197, 'погиб'), (1198, 'Бабушки обыкновенные')], "'партизанил' -> 'на войне'"),
-    ("general", "А у меня есть другая информация!", "Wait, I have different information!", [(1200, 'А у меня есть другая информация')], ""),
-    ("general", "Дед Самсонова по линии матери не был героем.", "Samsonov's grandfather on his mother's side was no hero.", [(1201, 'Дед Самсонова по линии матери')], "'Вовсе не партизанил' -> 'не был героем'"),
-    ("general", "Он был полицаем под Брянском! Осторожно, это архив.", "He was a collaborator policeman near Bryansk! Careful, this is an archive file.", [(1203, 'был полицаем'), (1204, 'Под Брянском'), (1205, 'Осторожно, архив')], ""),
-    ("general", "Соколов проявил инициативу и нашёл документы.", "Sokolov showed initiative and found the documents.", [(1208, 'Соколов проявил инициативу, нашел документы')], ""),
-    ("general", "Нужно смотреть не только наши источники! Есть и немецкие.", "One must check not only our sources! There are German ones too.", [(1212, 'Не только наши источники нужно смотреть'), (1212, 'немецкие')], "ASR 'Мы маму' omitted"),
-    ("general", "Спасибо, лейтенант Соколов! У него здоровые амбиции.", "Thank you, Lieutenant Sokolov! He has healthy ambitions.", [(1213, 'спасибо, лейтенант Соколов'), (1215, 'У него здоровые амбиции')], ""),
-    ("general", "Соколов переходит в вашу группу. Вот и договорились!", "Sokolov is transferring to your group. Then it's settled!", [(1216, 'Соколов'), (1216, 'в вашу группу'), (1219, 'Вот и договорились')], "'прикреплен' -> 'переходит'"),
-]
 OPENER = "Now let's break down how Lieutenant Lyova Sokolov surprises everyone on the video call."
+TRANSITION = "Now let's listen to the whole archive report again from start to finish."
+OUTRO = "Thanks to his German archive discovery, young Lyova Sokolov is officially assigned to Major Lavrov's team, and Lavrov now has the wartime scandal he needs against Samsonov. See you next time!"
+CLOSING = ('lyova', 'Пока!')
+STORY = [
+    ('lavrov', 'К сожалению, компромата на него нет.', 'Unfortunately, there is no compromising material on him.', [(1187, 'К сожалению'), (1187, 'компромата на него')], ''),
+    ('lavrov', 'Нам придётся искать другие методы.', 'We will have to look for other methods.', [(1188, 'придется'), (1188, 'методам')], "'прибегнуть к менее корректным методам' -> 'искать другие методы'"),
+    ('general', 'А вы все архивные документы посмотрели?', 'Did you look through all the archive documents?', [(1190, 'А вы все архивные документы посмотрели')], ''),
+    ('lavrov', 'Так точно, товарищ генерал! Мы вторые сутки не спим.', "Yes, sir, Comrade General! We haven't slept for two days.", [(1191, 'Так точно'), (1192, 'Товарищ генерал, мы вторые сутки не спим')], "Colonel's line folded into Lavrov"),
+    ('general', 'Двое суток они не спят! Мы годами не спим.', "Two days they haven't slept! We go years without sleeping.", [(1193, 'Двое суток они не спят'), (1194, 'Мы годами не спим')], ''),
+    ('lavrov', 'На родственников ничего нет. Оба деда воевали.', "There's nothing on his relatives. Both grandfathers fought in the war.", [(1196, 'На родственников ничего. Оба деда воевали')], ''),
+    ('lavrov', 'Один из них погиб на войне. Бабушки обыкновенные.', 'One of them died in the war. The grandmothers are ordinary.', [(1197, 'Один из них'), (1197, 'погиб'), (1198, 'Бабушки обыкновенные')], "'партизанил' -> 'на войне'"),
+    ('lyova', 'А у меня есть другая информация!', 'Wait, I have different information!', [(1200, 'А у меня есть другая информация')], ''),
+    ('lyova', 'Дед Самсонова по линии матери не был героем.', "Samsonov's grandfather on his mother's side was no hero.", [(1201, 'Дед Самсонова по линии матери')], "'Вовсе не партизанил' -> 'не был героем'"),
+    ('lyova', 'Он был полицаем под Брянском! Осторожно, это архив.', 'He was a collaborator policeman near Bryansk! Careful, this is an archive file.', [(1203, 'был полицаем'), (1204, 'Под Брянском'), (1205, 'Осторожно, архив')], ''),
+    ('general', 'Соколов проявил инициативу и нашёл документы.', 'Sokolov showed initiative and found the documents.', [(1208, 'Соколов проявил инициативу, нашел документы')], ''),
+    ('lyova', 'Нужно смотреть не только наши источники! Есть и немецкие.', 'One must check not only our sources! There are German ones too.', [(1212, 'Не только наши источники нужно смотреть'), (1212, 'немецкие')], "ASR 'Мы маму' omitted"),
+    ('general', 'Спасибо, лейтенант Соколов! У него здоровые амбиции.', 'Thank you, Lieutenant Sokolov! He has healthy ambitions.', [(1213, 'спасибо, лейтенант Соколов'), (1215, 'У него здоровые амбиции')], ''),
+    ('general', 'Соколов переходит в вашу группу. Вот и договорились!', "Sokolov is transferring to your group. Then it's settled!", [(1216, 'Соколов'), (1216, 'в вашу группу'), (1219, 'Вот и договорились')], "'прикреплен' -> 'переходит'"),
+]
 WALK = [
     (0, None, "'Unfortunately, there is no compromising material on him.' Major Lavrov begins with bad news for Moscow while Colonel Mikhail Mikhailovich nods beside him."),
     (1, None, "'We will have to look for other methods.' The impersonal future verb takes a 'to me/you' pronoun to express 'we will have to'."),
@@ -46,6 +48,3 @@ WALK = [
     (12, None, "'Thank you, Lieutenant Sokolov! He has healthy ambitions.' When Colonel Mikhail Mikhailovich protests that his nephew went over their heads, the general cuts him off."),
     (13, None, "'Sokolov is transferring to your group. Then it's settled!' Before signing off, Kruglov officially assigns Lyova to Lavrov's team."),
 ]
-TRANSITION = "Now let's listen to the whole archive report again from start to finish."
-OUTRO = "Thanks to his German archive discovery, young Lyova Sokolov is officially assigned to Major Lavrov's team, and Lavrov now has the wartime scandal he needs against Samsonov. See you next time!"
-CLOSING = ("general", "Пока!")

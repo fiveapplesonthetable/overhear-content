@@ -1,31 +1,43 @@
-# Review: `dix-pour-cent-s02e02-scene-19` — Le choix de Mathias  (The Choice of Mathias)
+# dix-pour-cent-s02e02-scene-19: review sheet
 
-- **Source**: `sources/dix-pour-cent/s02/e02.fr.dual.srt`
-- **Level**: A1 — débutant
-- **Voices**: `{"narrator": "sky", "sofia": "emilie", "gabriel": "theo"}`
-- **Labels**: `{"sofia": "Sofia", "gabriel": "Gabriel"}`
+Title: Le choix de Mathias  (The Choice of Mathias)
+Level: A1 — débutant
+Pair: fr-en
+Source: Dix pour cent (Call My Agent!) S02E02
 
-## Part 1 — Intro
-> Back at the ASK offices, Sofia and Gabriel have a candid, mature discussion about their future. Realizing that mixing love and professional representation causes unnecessary tension, Sofia looks for a new agent within ASK. Listen to their conversation in French first.
 
-## Part 2 — Story Lines
-| # | Role | French | English | Source Cues |
-|---|------|--------|---------|-------------|
-| 0 | `sofia` (Sofia) | Je crois que vous avez raison. | I think you are right. | 677:Je crois que vous avez raison |
-| 1 | `sofia` (Sofia) | Mélanger travail et vie sentimentale, c'est difficile. | Mixing work and personal life is difficult. | 678:Mélanger travail et vie sentimentale, c'est |
-| 2 | `gabriel` (Gabriel) | Alors vous me lâchez ou vous trouvez un nouvel agent? | So are you dropping me or finding a new agent? | 679:Alors vous me lâchez ou vous trouvez un nouvel agent |
-| 3 | `sofia` (Sofia) | Si je change d'agent, vous pouvez quand même me conseiller? | If I change agents, can you still advise me? | 680:Si je change d'agent, vous pouvez quand même me conseiller |
-| 4 | `sofia` (Sofia) | Ou m'aider discrètement? | Or help me discreetly? | 681:ou m'aider discrètement |
-| 5 | `gabriel` (Gabriel) | Bien sûr. Vous avez quelqu'un en tête? Andréa? | Of course. Do you have someone in mind? Andréa? | 682:Bien sûr, 683:Vous avez quelqu'un en tête ? Andréa |
-| 6 | `sofia` (Sofia) | Je ne sais pas, elle fait un peu peur. | I don | 684:Je ne sais pas, elle fait un peu peur |
-| 7 | `sofia` (Sofia) | En plus c'est votre amie, c'est délicat. | Besides she is your friend, it | 685:En plus c'est votre amie, c'est délicat |
-| 8 | `gabriel` (Gabriel) | Arlette n'est peut-être pas le bon choix pour une jeune actrice. | Arlette might not be the right choice for a young actress. | 686:Arlette n'est peut-être pas le bon choix pour une jeune actrice |
-| 9 | `sofia` (Sofia) | Même si on l'aime bien! | Even if we like her! | 687:Même si on l'aime bien |
-| 10 | `sofia` (Sofia) | Je pensais à Mathias. Parce que c'est un bon agent. | I was thinking of Mathias. Because he | 688:Je pensais à Mathias. Parce que c'est un bon agent |
-| 11 | `sofia` (Sofia) | Avec lui, je n'ai aucun privilège spécial. | With him, I have no special privilege. | 689:Avec lui, personne ne peut dire que je bénéficie d'un traitement de faveur |
-| 12 | `gabriel` (Gabriel) | Je suis sûr que vous avez raison. C'est un bon choix. | I | 690:Je suis sûr que vous avez raison. C'est un bon choix |
-| 13 | `sofia` (Sofia) | Oui, je crois. À tout à l'heure! | Yes, I think so. See you shortly! | 691:Oui, je crois, 692:À tout à l'heure |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 5 — Outro & Closing
-> Sofia has chosen Mathias as her new agent, creating a clear professional boundary while keeping Gabriel's love. Remember the key expression for having someone in mind: avoir quelqu'un en tête. See you next time!
-- **Closing**: `gabriel`: *Bonne soirée!*
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+|---|---|---|---|---|---|
+| 1 | Sofia | Je crois que vous avez raison. | I think you are right. | #677: Je crois que vous avez raison | verbatim |
+| 2 | Sofia | Mélanger travail et vie sentimentale, c'est difficile. | Mixing work and personal life is difficult. | #678: Mélanger travail et vie sentimentale, c'est | verbatim |
+| 3 | Gabriel | Alors vous me lâchez ou vous trouvez un nouvel agent? | So are you dropping me or finding a new agent? | #679: Alors vous me lâchez ou vous trouvez un nouvel agent | verbatim |
+| 4 | Sofia | Si je change d'agent, vous pouvez quand même me conseiller? | If I change agents, can you still advise me? | #680: Si je change d'agent, vous pouvez quand même me conseiller | verbatim |
+| 5 | Sofia | Ou m'aider discrètement? | Or help me discreetly? | #681: ou m'aider discrètement | verbatim |
+| 6 | Gabriel | Bien sûr. Vous avez quelqu'un en tête? Andréa? | Of course. Do you have someone in mind? Andréa? | #682: Bien sûr<br>#683: Vous avez quelqu'un en tête ? Andréa | verbatim |
+| 7 | Sofia | Je ne sais pas, elle fait un peu peur. | I don | #684: Je ne sais pas, elle fait un peu peur | verbatim |
+| 8 | Sofia | En plus c'est votre amie, c'est délicat. | Besides she is your friend, it | #685: En plus c'est votre amie, c'est délicat | verbatim |
+| 9 | Gabriel | Arlette n'est peut-être pas le bon choix pour une jeune actrice. | Arlette might not be the right choice for a young actress. | #686: Arlette n'est peut-être pas le bon choix pour une jeune actrice | verbatim |
+| 10 | Sofia | Même si on l'aime bien! | Even if we like her! | #687: Même si on l'aime bien | verbatim |
+| 11 | Sofia | Je pensais à Mathias. Parce que c'est un bon agent. | I was thinking of Mathias. Because he | #688: Je pensais à Mathias. Parce que c'est un bon agent | verbatim |
+| 12 | Sofia | Avec lui, je n'ai aucun privilège spécial. | With him, I have no special privilege. | #689: Avec lui, personne ne peut dire que je bénéficie d'un traitement de faveur | verbatim |
+| 13 | Gabriel | Je suis sûr que vous avez raison. C'est un bon choix. | I | #690: Je suis sûr que vous avez raison. C'est un bon choix | verbatim |
+| 14 | Sofia | Oui, je crois. À tout à l'heure! | Yes, I think so. See you shortly! | #691: Oui, je crois<br>#692: À tout à l'heure | verbatim |
+
+## Walk-through narration (English only, no target-language words quoted)
+
+- 'I think you are right.' Sofia acknowledges the wisdom of separating romance from management. Notice how the verb for 'suppose' leads straight into 'the correct view'.
+- 'Mixing work and personal life is difficult.' She names the central conflict. The adjective meaning 'romantic' agrees in gender and number with masculine noun 'business'.
+- 'So are you dropping me or finding a new agent?' Gabriel asks for clarity. Gabriel opens with the word for 'in that case' and lands on 'talent agent' at the close.
+- 'If I change agents, can you still advise me?' Sofia seeks reassurance that Gabriel will remain close. Listen for the expression meaning 'switch', which leads naturally into 'guide'.
+- 'Or help me discreetly?' She wants his behind-the-scenes guidance. The key word here means 'to assist', paired with 'behind the scenes' to make the point clear.
+- 'Of course. Do you have someone in mind? Andréa?' Gabriel suggests their dynamic colleague. Gabriel opens with the word for 'most' and lands on 'mind' at the close.
+- 'I don't know, she's a bit scary.' Sofia hesitates given Andréa's fierce intensity. Notice how the verb for 'am sure' leads straight into 'fright'.
+- 'Besides she is your friend, it's delicate.' She points out the awkward overlapping friendships. Sofia opens with the word for 'that' and lands on 'sensitive' at the close.
+- 'Arlette might not be the right choice for a young actress.' Gabriel considers generational differences. Gabriel opens with the word for 'not' and lands on 'performer' at the close.
+- 'Even if we like her!' Sofia adds warmly to avoid sounding dismissive. The key word here means 'even', paired with 'dearly' to make the point clear.
+- 'I was thinking of Mathias. Because he's a good agent.' Sofia reveals her top candidate. The key word here means 'was leaning toward', paired with 'talent agent' to make the point clear.
+- 'With him, I have no special privilege.' In response, Mathias's strict professionalism protects her reputation. Sofia pairs the verb meaning 'can' with the noun for 'favoritism'.
+- 'I'm sure you are right. It's a good choice.' Gabriel gracefully accepts her decision. Notice how the verb for 'am' leads straight into 'decision'.
+- 'Yes, I think so. See you shortly!' Sofia wraps up their meeting with optimism. The adverb meaning 'yes indeed' sharpens the verb for 'agree' here.

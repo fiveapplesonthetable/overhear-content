@@ -10,32 +10,32 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Гость | Я хочу закрыть ресторан на спецобслуживание. | I want to close the restaurant for a private event. | #52 00:03:37: я хочу в ресторан на спецобслуживание закрыть | adapted: adapted |
-| 2 | Гость | Свой день рождения буду отмечать. | I will be celebrating my birthday. | #53 00:03:43: День рождения буду отмечать | adapted: adapted |
-| 3 | Вика | Конечно, а когда именно? | Of course, and when exactly? | #54 00:03:44: Конечно, когда | adapted: adapted |
-| 4 | Гость | Ну, сегодня или завтра вечером. | Well, tonight or tomorrow evening. | #54 00:03:44: сегодня или завтра | adapted: adapted |
-| 5 | Вика | Аренда ресторана заранее обговаривается. | Renting the restaurant is arranged in advance. | #57 00:03:54: аренда ресторана<br>#58 00:03:58: Заранее обговаривается | adapted: adapted |
-| 6 | Аня | Вика, можно тебя на минуту? | Vika, can I have a word with you? | #59 00:04:01: можно тебя | adapted: adapted |
-| 7 | Вика | Подожди, я сейчас разговариваю. | Wait, I am talking right now. | #59 00:04:01: Я разговариваю | adapted: adapted |
-| 8 | Аня | А почему ты не в роддоме? | And why are you not at the maternity hospital? | #61 00:04:06: А почему ты не в роддоме | adapted: adapted |
-| 9 | Вика | Утренние схватки оказались ложными. | The morning contractions turned out to be false. | #63 00:04:11: Схватки оказались ложными | adapted: adapted |
-| 10 | Вика | Меня врачи домой отпустили. | The doctors let me go home. | #63 00:04:11: Меня домой отпустили | adapted: adapted |
-| 11 | Аня | А позвонить мне нельзя было? | Could you not have called me? | #64 00:04:14: А позвонить нельзя было | adapted: adapted |
-| 12 | Гость | Юноша, подождите, пока мы закончим. | Young man, wait until we finish. | #65 00:04:16: пока мы закончим | adapted: adapted |
-| 13 | Аня | Я просто поговорю с женой! | I will just talk to my wife! | #66 00:04:19: а я поговорю с женой | adapted: adapted |
+| 1 | Гость | Я хочу закрыть ресторан на спецобслуживание. | I want to close the restaurant for a private event. | #52: я хочу в ресторан на спецобслуживание закрыть | adapted: adapted |
+| 2 | Гость | Свой день рождения буду отмечать. | I will be celebrating my birthday. | #53: День рождения буду отмечать | adapted: adapted |
+| 3 | Вика | Конечно, а когда именно? | Of course, and when exactly? | #54: Конечно, когда | adapted: adapted |
+| 4 | Гость | Ну, сегодня или завтра вечером. | Well, tonight or tomorrow evening. | #54: сегодня или завтра | adapted: adapted |
+| 5 | Вика | Аренда ресторана заранее обговаривается. | Renting the restaurant is arranged in advance. | #57: аренда ресторана<br>#58: Заранее обговаривается | adapted: adapted |
+| 6 | Макс | Вика, можно тебя на минуту? | Vika, can I have a word with you? | #59: можно тебя | adapted: adapted |
+| 7 | Вика | Подожди, я сейчас разговариваю. | Wait, I am talking right now. | #59: Я разговариваю | adapted: adapted |
+| 8 | Макс | А почему ты не в роддоме? | And why are you not at the maternity hospital? | #61: А почему ты не в роддоме | adapted: adapted |
+| 9 | Вика | Утренние схватки оказались ложными. | The morning contractions turned out to be false. | #63: Схватки оказались ложными | adapted: adapted |
+| 10 | Вика | Меня врачи домой отпустили. | The doctors let me go home. | #63: Меня домой отпустили | adapted: adapted |
+| 11 | Макс | А позвонить мне нельзя было? | Could you not have called me? | #64: А позвонить нельзя было | adapted: adapted |
+| 12 | Гость | Юноша, подождите, пока мы закончим. | Young man, wait until we finish. | #65: пока мы закончим | adapted: adapted |
+| 13 | Макс | Я просто поговорю с женой! | I will just talk to my wife! | #66: а я поговорю с женой | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I want to close the restaurant for a private event.' the guest brings out the contrast between 'I' and 'want' in a few short words.
-- 'I will be celebrating my birthday.' the guest anchors the line on 'my own', while 'celebrate' completes the thought.
-- 'Of course, and when exactly?' Spoken Russian keeps this brisk, leaning on 'of course' and finishing on 'specifically'. the guest answers right away.
-- 'Well, tonight or tomorrow evening.' The meaning hinges on 'come on' working together with 'in the evening' in spoken Russian.
-- 'Renting the restaurant is arranged in advance.' The grammar packs 'rental' and 'is arranged' into a tight, idiomatic kitchen exchange.
-- 'Vika, can I have a word with you?' Max anchors the line on 'Vika', while 'a minute' completes the thought. Vika answers right away.
-- 'Wait, I am talking right now.' Notice how Russian expresses 'wait' and 'to talk' with crisp inflection rather than helper words.
-- 'And why are you not at the maternity hospital?' Max anchors the line on 'and', while 'maternity hospital' completes the thought.
-- 'The morning contractions turned out to be false.' The grammar packs 'morning' and 'false' into a tight, idiomatic kitchen exchange.
-- 'The doctors let me go home.' Vika brings out the contrast between 'me' and 'doctor' in a few short words.
-- 'Could you not have called me?' In Russian, the idea of 'and' flows naturally into 'was' without extra filler words.
-- 'Young man, wait until we finish.' The meaning hinges on 'young man' working together with 'finish' in spoken Russian. Max answers right away.
-- 'I will just talk to my wife!' Max anchors the line on 'I', while 'wife' completes the thought.
+- 'I want to close the restaurant for a private event.' Even though he wants to close the restaurant for a private event, the guest keeps a steady face in front of Max.
+- 'I will be celebrating my birthday.' Even though he will be celebrating his birthday, the guest keeps a steady face in front of Max.
+- 'Of course, and when exactly?' With the conversation and argument hanging in the air, Vika puts the guest on the spot. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Well, tonight or tomorrow evening.' Around the argument and conversation, the guest sets a calm, everyday tone with Max.
+- 'Renting the restaurant is arranged in advance.' Once renting the restaurant is arranged in advance, Vika can finally tell the guest what she means.
+- 'Vika, can I have a word with you?' Checking whether he has a word with the guest is how Max puts the guest on the spot. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
+- 'Wait, I am talking right now.' Vika reminds the guest that she is talking right now before the moment passes.
+- 'And why are you not at the maternity hospital?' Here asking why the guest not at the maternity hospital is shows Max looking for the real truth. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'The morning contractions turned out to be false.' Mentioning that the morning contractions turned out to be false moves the talk in a new direction.
+- 'The doctors let me go home.' Saying that the doctors let her go home is how Vika sets the tone with the guest.
+- 'Could you not have called me?' Checking whether the guest not have called him is how Max puts the guest on the spot. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
+- 'Young man, wait until we finish.' With the banquet and guest in play, the guest keeps this short reply brisk and direct.
+- 'I will just talk to my wife!' Declaring that he will just talk to his wife brings Max's temper right to the surface.

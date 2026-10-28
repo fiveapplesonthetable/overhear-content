@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Шеф | Доброе утро, я тебе ужин принёс. | Good morning, I brought you dinner. | #91 00:06:23: Доброе утро<br>#92 00:06:25: Я тебе ужин принес | adapted: adapted |
-| 2 | Катя | Я не хочу есть. | I do not want to eat. | #93 00:06:27: Я не хочу есть | adapted: adapted |
-| 3 | Шеф | А ты попробуй: вода и аспирин. | Just try it: water and aspirin. | #93 00:06:27: А ты попробуй<br>#94 00:06:31: Вода и аспирин | adapted: adapted |
-| 4 | Катя | Очень вкусно. | Very delicious. | #95 00:06:33: Очень вкусно | adapted: adapted |
-| 5 | Шеф | Я тут подумал, мы с тобой редко видимся. | I was thinking here, you and I rarely see each other. | #96 00:06:37: Я тут подумал, мы же с тобой редко видимся | adapted: adapted |
-| 6 | Шеф | Давай сходим куда-нибудь. | Let us go out somewhere. | #97 00:06:41: сходим куда-нибудь | adapted: adapted |
-| 7 | Катя | Давай, куда? | Sure, where to? | #98 00:06:43: Давай. Куда | adapted: adapted |
-| 8 | Шеф | В зоопарк или в кино? | To the zoo or to the movies? | #98 00:06:43: В зоопарк или в кино | adapted: adapted |
-| 9 | Катя | Пап, ты себя слышишь, какой зоопарк? | Dad, do you hear yourself, what zoo? | #100 00:06:47: Пап, ты себя слышишь<br>#100 00:06:47: какой зоопарк | adapted: adapted |
-| 10 | Шеф | Ну, ещё куда-нибудь сходим. | Well, we will go somewhere else. | #101 00:06:52: Ну, еще куда-нибудь сходим | adapted: adapted |
-| 11 | Шеф | Я что-нибудь придумаю. | I will think of something. | #102 00:06:57: Я что-нибудь придумаю | adapted: adapted |
-| 12 | Катя | Да, и чем ты можешь меня удивить? | Yeah, and what can you surprise me with? | #103 00:06:58: Да, и чем ты можешь меня удивить | adapted: adapted |
+| 1 | Шеф | Доброе утро, я тебе ужин принёс. | Good morning, I brought you dinner. | #91: Доброе утро<br>#92: Я тебе ужин принес | adapted: adapted |
+| 2 | Катя | Я не хочу есть. | I do not want to eat. | #93: Я не хочу есть | adapted: adapted |
+| 3 | Шеф | А ты попробуй: вода и аспирин. | Just try it: water and aspirin. | #93: А ты попробуй<br>#94: Вода и аспирин | adapted: adapted |
+| 4 | Катя | Очень вкусно. | Very delicious. | #95: Очень вкусно | adapted: adapted |
+| 5 | Шеф | Я тут подумал, мы с тобой редко видимся. | I was thinking here, you and I rarely see each other. | #96: Я тут подумал, мы же с тобой редко видимся | adapted: adapted |
+| 6 | Шеф | Давай сходим куда-нибудь. | Let us go out somewhere. | #97: сходим куда-нибудь | adapted: adapted |
+| 7 | Катя | Давай, куда? | Sure, where to? | #98: Давай. Куда | adapted: adapted |
+| 8 | Шеф | В зоопарк или в кино? | To the zoo or to the movies? | #98: В зоопарк или в кино | adapted: adapted |
+| 9 | Катя | Пап, ты себя слышишь, какой зоопарк? | Dad, do you hear yourself, what zoo? | #100: Пап, ты себя слышишь<br>#100: какой зоопарк | adapted: adapted |
+| 10 | Шеф | Ну, ещё куда-нибудь сходим. | Well, we will go somewhere else. | #101: Ну, еще куда-нибудь сходим | adapted: adapted |
+| 11 | Шеф | Я что-нибудь придумаю. | I will think of something. | #102: Я что-нибудь придумаю | adapted: adapted |
+| 12 | Катя | Да, и чем ты можешь меня удивить? | Yeah, and what can you surprise me with? | #103: Да, и чем ты можешь меня удивить | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good morning, I brought you dinner.' Notice how Russian expresses 'good' and 'brought' with crisp inflection rather than helper words. Katya answers right away.
-- 'I do not want to eat.' Here the Russian phrasing highlights 'I' before landing on 'there is'.
-- 'Just try it: water and aspirin.' The meaning hinges on 'and' working together with 'aspirin' in spoken Russian.
-- 'Very delicious.' Spoken Russian keeps this brisk, leaning on 'very' and finishing on 'deliciously'. Chef Barinov answers right away.
-- 'I was thinking here, you and I rarely see each other.' Here Chef Barinov anchors the thought on 'to think' and finishes on 'see each other', keeping the spoken rhythm brisk and natural.
-- 'Let us go out somewhere.' Here the Russian phrasing highlights 'come on' before landing on 'anywhere'.
-- 'Sure, where to?' Spoken Russian keeps this brisk, leaning on 'come on' and finishing on 'where to'. Chef Barinov answers right away.
-- 'To the zoo or to the movies?' Chef Barinov anchors the line on 'zoo', while 'cinema' completes the thought.
-- 'Dad, do you hear yourself, what zoo?' In Russian, the idea of 'Dad' flows naturally into 'zoo' without extra filler words.
-- 'Well, we will go somewhere else.' The meaning hinges on 'come on' working together with 'go' in spoken Russian.
-- 'I will think of something.' In Russian, the idea of 'I' flows naturally into 'will come up with' without extra filler words.
-- 'Yeah, and what can you surprise me with?' Spoken Russian keeps this brisk, leaning on 'yes' and finishing on 'to surprise'.
+- 'Good morning, I brought you dinner.' Because he brought Katya dinner, Barinov treats the matter as settled. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'I do not want to eat.' Realizing that she does not want to eat changes how Katya handles the situation.
+- 'Just try it: water and aspirin.' Around the shift and dinner, Barinov sets a calm, everyday tone with Katya. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Very delicious.' Between the moment and the dinner, Katya gives Barinov a quick, grounded response.
+- 'I was thinking here, you and I rarely see each other.' Pointing out that he was thinking here Katya and he rarely see each other gives Katya a sobering reality check.
+- 'Let us go out somewhere.' Proposing that they go out somewhere is how Barinov lays out the situation for Katya. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
+- 'Sure, where to?' With the truth and dinner hanging in the air, Katya puts Barinov on the spot. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
+- 'To the zoo or to the movies?' Over the plan and the dinner, Barinov presses Katya for a straight answer.
+- 'Dad, do you hear yourself, what zoo?' Questioning whether dad do Barinov hears themselves what zoo is how Katya tests Barinov's story. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Well, we will go somewhere else.' Admitting that they will go somewhere else shows Barinov being honest for a change.
+- 'I will think of something.' Saying that he will think of something is how Barinov sets the tone with Katya.
+- 'Yeah, and what can you surprise me with?' Asking whether yeah and what can Barinov surprises puts Barinov right on the defensive. Speaking with the close, informal "you" strips away any polite distance between them.

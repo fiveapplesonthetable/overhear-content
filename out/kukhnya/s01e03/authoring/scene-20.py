@@ -4,33 +4,32 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 3
 SCENE = 20
-TITLE = "Посвящение на кухне  (Kitchen Initiation)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Посвящение на кухне  (Kitchen Initiation)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "anya": "alisa", "chef": "anja", "senya": "angelina"}
-LABELS = {"anya": "Макс", "chef": "Шеф", "senya": "Сеня"}
+LABELS = {'barinov': 'Шеф', 'max': 'Макс', 'senya': 'Сеня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.03'
 SOURCE_FILE = 'sources/kukhnya/s01/e03.ru.dual.srt'
 INTRO = "In the kitchen of Claude Monet, Chef Barinov and the cooks gather around Max to perform a mock knighting ceremony, prompting Max to reflect on life's gains and losses."
 OPENER = "Let's explore Max's hilarious kitchen initiation ceremony and his poignant reflections."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Officially initiated into Claude Monet's kitchen family, Max looks forward with hope to new culinary challenges. Next time you watch the episode, listen for the Russian expressions for 'trouble' and 'combat' — you will catch every word right away. See you next time!"
-CLOSING = ("anya", "Пока!")
+CLOSING = ('max', 'Пока!')
 STORY = [
-    ('chef', 'Огузок, встань перед нами на колено!', 'Runt, kneel down on one knee before us!', [(336, 'На колено.')], ''),
-    ('anya', 'Шеф, что сейчас со мной будет?', 'Chef, what will happen to me now?', [(335, 'принимаем тебя на нашу кухню.')], ''),
-    ('chef', 'Мы торжественно принимаем тебя на кухню!', 'We solemnly accept you into our kitchen!', [(337, 'Отныне и вовеки веков принимаем тебя')], ''),
-    ('chef', 'Во имя горячей духовки и противня!', 'In the name of the hot oven and baking tray!', [(338, 'Во имя духовки и противня,')], ''),
-    ('chef', 'Во имя тяжёлой сковородки и половника!', 'In the name of the heavy frying pan and ladle!', [(339, 'во имя сковородки и')], ''),
+    ('barinov', 'Огузок, встань перед нами на колено!', 'Runt, kneel down on one knee before us!', [(336, 'На колено.')], ''),
+    ('max', 'Шеф, что сейчас со мной будет?', 'Chef, what will happen to me now?', [(335, 'принимаем тебя на нашу кухню.')], ''),
+    ('barinov', 'Мы торжественно принимаем тебя на кухню!', 'We solemnly accept you into our kitchen!', [(337, 'Отныне и вовеки веков принимаем тебя')], ''),
+    ('barinov', 'Во имя горячей духовки и противня!', 'In the name of the hot oven and baking tray!', [(338, 'Во имя духовки и противня,')], ''),
+    ('barinov', 'Во имя тяжёлой сковородки и половника!', 'In the name of the heavy frying pan and ladle!', [(339, 'во имя сковородки и')], ''),
     ('senya', 'Поздравляем тебя с боевым кулинарным крещением!', 'Congratulations on your culinary baptism of fire!', [(349, 'прошел этот обряд.')], ''),
-    ('anya', 'Шеф, вы меня даже не накажете?', 'Chef, are you not even going to punish me?', [(347, 'шеф, меня даже не накажете?')], ''),
-    ('chef', 'Разве этого обряда тебе было мало?', 'Was this ritual not enough for you?', [(348, 'А этого тебе было мало?')], ''),
-    ('chef', 'Ты первый человек, который прошёл посвящение!', 'You are the first person who passed the initiation!', [(349, 'Ты вообще первый человек, который прошел')], ''),
+    ('max', 'Шеф, вы меня даже не накажете?', 'Chef, are you not even going to punish me?', [(347, 'шеф, меня даже не накажете?')], ''),
+    ('barinov', 'Разве этого обряда тебе было мало?', 'Was this ritual not enough for you?', [(348, 'А этого тебе было мало?')], ''),
+    ('barinov', 'Ты первый человек, который прошёл посвящение!', 'You are the first person who passed the initiation!', [(349, 'Ты вообще первый человек, который прошел')], ''),
     ('senya', 'Надо будет всех новичков так посвящать!', 'We should initiate all future newcomers like this!', [(351, 'Надо будет всех так посвящать.')], ''),
-    ('anya', 'Жизнь полна разных потерь и приобретений.', 'Life is full of various losses and gains.', [(341, 'Жизнь – это череда потерь и приобретений.')], ''),
-    ('anya', 'Одни люди грустят, другие всегда радуются.', 'Some people grieve, while others always rejoice.', [(342, 'Кто-то грустит о потерях,')], ''),
-    ('anya', 'Но настоящие друзья всегда помогают в беде.', 'But true friends always help in trouble.', [(344, 'Есть те, кто приобретают')], ''),
-    ('anya', 'Главное понимать, что это только начало!', 'The main thing is to understand that this is only the beginning!', [(354, 'главное понимать, что это только начало.')], ''),
+    ('max', 'Жизнь полна разных потерь и приобретений.', 'Life is full of various losses and gains.', [(341, 'Жизнь – это череда потерь и приобретений.')], ''),
+    ('max', 'Одни люди грустят, другие всегда радуются.', 'Some people grieve, while others always rejoice.', [(342, 'Кто-то грустит о потерях,')], ''),
+    ('max', 'Но настоящие друзья всегда помогают в беде.', 'But true friends always help in trouble.', [(344, 'Есть те, кто приобретают')], ''),
+    ('max', 'Главное понимать, что это только начало!', 'The main thing is to understand that this is only the beginning!', [(354, 'главное понимать, что это только начало.')], ''),
 ]
 WALK = [
     (0, None, "'Runt, kneel down on one knee before us!' Barinov solemnly opens the kitchen knighting ceremony."),

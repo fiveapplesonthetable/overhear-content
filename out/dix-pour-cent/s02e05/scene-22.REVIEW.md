@@ -1,31 +1,43 @@
-# Review: `dix-pour-cent-s02e05-scene-22` — Refuser la promotion  (Turning Down the Promotion)
+# dix-pour-cent-s02e05-scene-22: review sheet
 
-- **Source**: `sources/dix-pour-cent/s02/e05.fr.dual.srt`
-- **Level**: A1 — débutant
-- **Voices**: `{"narrator": "sky", "hicham": "marcel", "camille": "emilie"}`
-- **Labels**: `{"hicham": "Hicham", "camille": "Camille"}`
+Title: Refuser la promotion  (Turning Down the Promotion)
+Level: A1 — débutant
+Pair: fr-en
+Source: Dix pour cent (Call My Agent!) S02E05
 
-## Part 1 — Intro
-> In Hicham's sleek office, Camille arrives determined to decline the offer of becoming a junior agent. Hoping to remain Andréa's assistant, Camille faces a ruthless ultimatum from the ambitious agency owner. Listen to the scene in French first. Don't worry about catching every word.
 
-## Part 2 — Story Lines
-| # | Role | French | English | Source Cues |
-|---|------|--------|---------|-------------|
-| 0 | `camille` (Camille) | Je refuse le poste d'agent junior. | I refuse the junior agent job. | 675:Je ne prends pas le poste d'agent junior. |
-| 1 | `hicham` (Hicham) | Répète un peu, je n'ai pas compris. | Say that again, I did not understand. | 676:Répète, je n'ai pas compris. |
-| 2 | `camille` (Camille) | Je refuse cette belle promotion. | I refuse this fine promotion. | 679:Je refuse la promotion. |
-| 3 | `camille` (Camille) | Je préfère rester assistante pour l'instant. | I prefer to remain an assistant for now. | 681:de continuer à être l'assistante d'Andréa pour l'instant. |
-| 4 | `hicham` (Hicham) | Tu réalises vraiment ce que tu dis? | Do you truly realize what you are saying? | 683:Tu réalises ce que tu dis ? |
-| 5 | `camille` (Camille) | Je sais exactement où est ma place. | I know exactly where my place is. | 686:Je sais où est ma place. |
-| 6 | `hicham` (Hicham) | Non, tu ne sais rien du tout. | No, you know nothing at all. | 687:Non, visiblement pas. |
-| 7 | `camille` (Camille) | Qu'est-ce que tu veux dire? | What do you mean? | 688:Qu'est-ce que tu veux dire ? |
-| 8 | `hicham` (Hicham) | Une agence évolue comme une rivière. | An agency evolves like a river. | 691:Une entreprise, c'est comme une rivière, |
-| 9 | `hicham` (Hicham) | On ne revient jamais en arrière. | We never go backward. | 689:Il n'y a plus d'"comme avant"., 692:on ne se baigne jamais deux fois dans la même. |
-| 10 | `camille` (Camille) | Mais j'adore mon travail actuel. | But I love my current work. | 680:Je sens que c'est mieux pour moi |
-| 11 | `hicham` (Hicham) | Tu as le choix, ma chérie. | You have the choice, my dear. | 695:Prends le poste, ma chérie, |
-| 12 | `hicham` (Hicham) | Prends ce poste ou prends la porte! | Take this job or take the door! | 695:Prends le poste, ma chérie, ou prends la porte. |
-| 13 | `camille` (Camille) | C'est un chantage inacceptable, Hicham. | That is unacceptable blackmail, Hicham. | 695:Prends le poste, ma chérie, ou prends la porte. |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 5 — Outro & Closing
-> Stunned by Hicham's brutal ultimatum, Camille realizes she cannot easily step backward in her agency career. Remember the colloquial French idiom for leaving or being dismissed: prendre la porte. See you next time!
-- **Closing**: `hicham`: *Bonne journée!*
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+|---|---|---|---|---|---|
+| 1 | Camille | Je refuse le poste d'agent junior. | I refuse the junior agent job. | #675: Je ne prends pas le poste d'agent junior. | verbatim |
+| 2 | Hicham | Répète un peu, je n'ai pas compris. | Say that again, I did not understand. | #676: Répète, je n'ai pas compris. | verbatim |
+| 3 | Camille | Je refuse cette belle promotion. | I refuse this fine promotion. | #679: Je refuse la promotion. | verbatim |
+| 4 | Camille | Je préfère rester assistante pour l'instant. | I prefer to remain an assistant for now. | #681: de continuer à être l'assistante d'Andréa pour l'instant. | verbatim |
+| 5 | Hicham | Tu réalises vraiment ce que tu dis? | Do you truly realize what you are saying? | #683: Tu réalises ce que tu dis ? | verbatim |
+| 6 | Camille | Je sais exactement où est ma place. | I know exactly where my place is. | #686: Je sais où est ma place. | verbatim |
+| 7 | Hicham | Non, tu ne sais rien du tout. | No, you know nothing at all. | #687: Non, visiblement pas. | verbatim |
+| 8 | Camille | Qu'est-ce que tu veux dire? | What do you mean? | #688: Qu'est-ce que tu veux dire ? | verbatim |
+| 9 | Hicham | Une agence évolue comme une rivière. | An agency evolves like a river. | #691: Une entreprise, c'est comme une rivière, | verbatim |
+| 10 | Hicham | On ne revient jamais en arrière. | We never go backward. | #689: Il n'y a plus d'"comme avant".<br>#692: on ne se baigne jamais deux fois dans la même. | verbatim |
+| 11 | Camille | Mais j'adore mon travail actuel. | But I love my current work. | #680: Je sens que c'est mieux pour moi | verbatim |
+| 12 | Hicham | Tu as le choix, ma chérie. | You have the choice, my dear. | #695: Prends le poste, ma chérie, | verbatim |
+| 13 | Hicham | Prends ce poste ou prends la porte! | Take this job or take the door! | #695: Prends le poste, ma chérie, ou prends la porte. | verbatim |
+| 14 | Camille | C'est un chantage inacceptable, Hicham. | That is unacceptable blackmail, Hicham. | #695: Prends le poste, ma chérie, ou prends la porte. | verbatim |
+
+## Walk-through narration (English only, no target-language words quoted)
+
+- 'I refuse the junior agent job.' Camille shocks Hicham by rejecting the promotion to agent. Listen for the expression meaning 'refuse', which leads naturally into 'junior'.
+- 'Say that again, I did not understand.' Hicham asks her to repeat her unexpected declaration. The adverb meaning 'bit' sharpens the verb for 'repeat' here.
+- 'I refuse this fine promotion.' She reiterates her decision despite the status of the offer. Camille pairs the verb meaning 'decline' with the noun for 'promotion'.
+- 'I prefer to remain an assistant for now.' Camille values her current apprenticeship under Andréa. Notice how the verb for 'prefer' leads straight into 'assistant'.
+- 'Do you truly realize what you are saying?' Hicham questions her grasp of agency career stakes. The verb meaning 'realize' anchors the whole remark.
+- 'I know exactly where my place is.' She asserts her comfort and confidence in her current role. Camille opens with the word for 'know' and lands on 'seat' at the close.
+- 'No, you know nothing at all.' Hicham dismisses her perspective as naive and shortsighted. The adverb meaning 'no' sharpens the verb for 'know' here.
+- 'What do you mean?' Camille asks for clarification on his harsh assessment. The key word here means 'mean', paired with 'to say' to make the point clear.
+- 'An agency evolves like a river.' The boss uses a philosophical metaphor about corporate change. The key word here means 'agency', paired with 'river' to make the point clear.
+- 'We never go backward.' He insists that career steps cannot simply be reversed. The verb meaning 'goes back' anchors the whole remark.
+- 'But I love my current work.' Camille pleads her passion for her daily tasks. The adjective meaning 'current' agrees in gender and number with masculine noun 'job'.
+- 'You have the choice, my dear.' Hicham condescendingly frames the situation as an ultimatum. Hicham pairs the verb meaning 'have' with the noun for 'dear'.
+- 'Take this job or take the door!' He delivers a ruthless career ultimatum to the young assistant. Listen for the expression meaning 'take', which leads naturally into 'door'.
+- 'That is unacceptable blackmail, Hicham.' Camille pushes back against the coercive pressure. The key word here means 'it is', paired with 'unacceptable' to make the point clear.

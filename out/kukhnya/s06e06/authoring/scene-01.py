@@ -1,18 +1,20 @@
+# Authoring module for kukhnya-s06e06-scene-01.
 ID = 'kukhnya-s06e06-scene-01'
 SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 6
 SCENE = 1
-TITLE = "Приглашение в Париж  (Invitation to Paris)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Приглашение в Париж  (Invitation to Paris)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "guest": "anja", "katya": "angelina"}
-LABELS = {"guest": "Гость", "katya": "Катя"}
+LABELS = {'denis': 'Денис', 'guest': 'Гость', 'katya': 'Катя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S6.06'
 SOURCE_FILE = 'sources/kukhnya/s06/e06.ru.srt'
-
 INTRO = 'Welcome to episode six of Kukhnya season six. Over a romantic dinner, Olivier invites Katya to fly to Paris with him, while Denis and Nikita watch jealously from across the dining room.'
-
+OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
+TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
+OUTRO = "Denis's desperate attempt to ruin the date with a fire alarm and spilled wine only brings Katya and Olivier closer together. Until next time!"
+CLOSING = ('katya', 'Хорошего дня!')
 STORY = [
     ('guest', 'Тебе ещё не надоела серая Москва?', 'Are you not tired of gray Moscow yet?', [(1, 'тебе не надоело эта серая Москва')], 'adapted'),
     ('guest', 'Может, поедешь со мной в Париж?', 'Maybe you will go to Paris with me?', [(2, 'Может, со мной в Париж')], 'adapted'),
@@ -24,27 +26,20 @@ STORY = [
     ('guest', 'По-моему, я уже жутко опаздываю.', 'In my opinion, I am already terribly late.', [(8, 'По-моему, я жутко опаздываю')], 'adapted'),
     ('katya', 'Слышишь, это сработала пожарная сигнализация.', 'Listen, the fire alarm has gone off.', [(9, 'Это пожарная сигнализация')], 'adapted'),
     ('katya', 'Нам сейчас срочно надо идти на улицу.', 'We urgently need to go outside right now.', [(10, 'Надо идти')], 'adapted'),
-    ('guest', 'Прости, пожалуйста, я совсем случайно.', 'Forgive me, please, it was completely accidental.', [(12, 'Прости, пожалуйста')], 'adapted'),
+    ('denis', 'Прости, пожалуйста, я совсем случайно.', 'Forgive me, please, it was completely accidental.', [(12, 'Прости, пожалуйста')], 'adapted'),
     ('guest', 'Ничего страшного, это просто красное вино.', 'No big deal, it is just red wine.', [(12, 'Ничего, ничего, ничего')], 'adapted'),
 ]
-
-OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
-
 WALK = [
-    (0, None, "'Are you not tired of gray Moscow yet?' the guest anchors the line on 'to you', while 'gray' completes the thought."),
-    (1, None, "'Maybe you will go to Paris with me?' The meaning hinges on 'maybe' working together with 'me' in spoken Russian."),
-    (2, None, "'There we will find you a good job.' the guest addresses the listener with the informal singular 'you' alongside 'work'."),
-    (3, None, "'Or is something keeping you here?' In Russian, the idea of 'or' flows naturally into 'holds' without extra filler words."),
-    (4, None, "'No, nothing is keeping me here.' In Russian, the idea of 'no' flows naturally into 'holds' without extra filler words."),
-    (5, None, "'Are you not rushing things a bit too much?' Notice how Russian expresses 'and' and 'to be in a hurry' with crisp inflection rather than helper words. the guest answers right away."),
-    (6, None, "'I am kissing you for the first time in five years.' the guest anchors the line on 'I', while 'years' completes the thought."),
-    (7, None, "'In my opinion, I am already terribly late.' the guest brings out the contrast between 'in my opinion' and 'I' in a few short words."),
-    (8, None, "'Listen, the fire alarm has gone off.' Notice how Russian expresses 'to hear' and 'alarm system' with crisp inflection rather than helper words."),
-    (9, None, "'We urgently need to go outside right now.' The grammar packs 'us' and 'street' into a tight, idiomatic kitchen exchange."),
-    (10, None, "'Forgive me, please, it was completely accidental.' The meaning hinges on 'forgive' working together with 'by chance' in spoken Russian."),
-    (11, None, "'No big deal, it is just red wine.' In Russian, the idea of 'nothing' flows naturally into 'wine' without extra filler words."),
+    (0, None, "'Are you not tired of gray Moscow yet?' Here asking whether Denis not tired of gray Moscow yet shows the guest looking for the real truth."),
+    (1, None, '\'Maybe you will go to Paris with me?\' Wondering if maybe Denis will go to Paris with him shows the guest caught off guard. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.'),
+    (2, None, '\'There we will find you a good job.\' Noting that there they will find Denis a good job keeps the guest\'s side of the story simple and clear. Speaking with the close, informal "you" strips away any polite distance between them.'),
+    (3, None, "'Or is something keeping you here?' Checking whether something keeping Denis here is how the guest puts Denis on the spot."),
+    (4, None, '\'No, nothing is keeping me here.\' Admitting that nothing is keeping her here shows Katya being honest for a change. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.'),
+    (5, None, '\'Are you not rushing things a bit too much?\' By asking whether Denis not rushing things a bit too much, Katya presses Denis for a straight answer. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
+    (6, None, "'I am kissing you for the first time in five years.' Being kissing Denis for the first time in five years moves the conversation forward without extra drama."),
+    (7, None, "'In my opinion, I am already terribly late.' Adding that in his opinion he is already terribly late fills in the missing piece for Denis."),
+    (8, None, '\'Listen, the fire alarm has gone off.\' Katya tells Denis that the fire alarm has gone off without dressing it up. Russian drops "is" in the present, setting the two halves of the thought side by side.'),
+    (9, None, "'We urgently need to go outside right now.' With the wine and dinner in play, Katya keeps this short reply brisk and direct."),
+    (10, None, "'Forgive me, please, it was completely accidental.' Mentioning that it was completely accidental moves the talk in a new direction."),
+    (11, None, '\'No big deal, it is just red wine.\' The guest reminds Denis that big deal it is just red wine before the moment passes. Russian drops "is" in the present, setting the two halves of the thought side by side.'),
 ]
-
-TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Denis's desperate attempt to ruin the date with a fire alarm and spilled wine only brings Katya and Olivier closer together. Until next time!"
-CLOSING = ("katya", "Хорошего дня!")

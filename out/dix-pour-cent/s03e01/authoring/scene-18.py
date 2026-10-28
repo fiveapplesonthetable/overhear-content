@@ -7,8 +7,7 @@ SCENE = 18
 TITLE = "Le conseil de Samuel  (Samuel's Advice)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'mathias': 'marcel', 'annick': 'emilie', 'lea': 'lucie'}
-LABELS = {'mathias': 'Mathias', 'annick': 'Annick', 'lea': 'Andréa'}
+LABELS = {'annick': 'Annick', 'camille': 'Camille', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e01.fr.dual.srt'
 INTRO = "Mathias arrives at Camille's apartment late in the evening and finds Annick and Camille talking. Annick asks Mathias whether Camille truly has the qualities required to succeed in show business. Listen to the conversation in French first."
@@ -24,11 +23,11 @@ STORY = [
     ('mathias', 'Elle est courageuse et très fine.', 'She is courageous and very sharp.', [(620, 'elle est pugnace, elle est courageuse.')], ''),
     ('annick', 'Je sens venir un grand défaut!', 'I feel a big flaw coming!', [(621, 'Je sens venir le mais.')], ''),
     ('mathias', 'Elle manque encore de confiance en elle.', 'She still lacks confidence in herself.', [(622, 'Mais elle manque encore de confiance en elle.')], ''),
-    ('lea', 'Arrêtez de parler comme des psychiatres!', 'Stop talking like psychiatrists!', [(626, "Puis c'est quoi, cette fausse séance de psy ?")], ''),
+    ('camille', 'Arrêtez de parler comme des psychiatres!', 'Stop talking like psychiatrists!', [(626, "Puis c'est quoi, cette fausse séance de psy ?")], ''),
     ('annick', 'Écoute ton père pour une fois.', 'Listen to your father for once.', [(627, 'Camille, écoute ton père.')], ''),
-    ('lea', 'Je suis là dans la pièce!', 'I am here in the room!', [(625, "Parler de moi comme si j'étais pas là.")], ''),
+    ('camille', 'Je suis là dans la pièce!', 'I am here in the room!', [(625, "Parler de moi comme si j'étais pas là.")], ''),
     ('mathias', 'Rappelle-toi la leçon de Samuel Kerr.', 'Remember the lesson of Samuel Kerr.', [(630, 'Tu sais ce que disait Samuel ?')], ''),
-    ('lea', 'Quelle était sa règle préférée?', 'What was his favorite rule?', [(630, 'Tu sais ce que disait Samuel ?')], ''),
+    ('camille', 'Quelle était sa règle préférée?', 'What was his favorite rule?', [(630, 'Tu sais ce que disait Samuel ?')], ''),
     ('mathias', 'Ne montre jamais ton besoin aux acteurs.', 'Never show your need to actors.', [(631, "Ne laisse pas un acteur croire que t'as besoin de lui,")], ''),
     ('mathias', "Fais croire qu'ils ont besoin de toi.", 'Make them believe that they need you.', [(632, "mais toi, fais-lui croire qu'il a besoin de toi.")], ''),
 ]

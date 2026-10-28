@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Илья | Приятного аппетита. | Bon appetit. | #130 00:08:16: приятного аппетита | verbatim |
-| 2 | Илья | Вы знаете, вы правильно сделали, что развелись с ней. | You know, you did the right thing getting divorced from her. | #131 00:08:24: Вы знаете, вы правильно сделали, что развелись с | adapted: adapted |
-| 3 | Нагиев | Какое твоё собачье дело? | What business is it of yours? | #132 00:08:28: Какое твое собачье дело | verbatim |
-| 4 | Нагиев | Твоя задача какая? Следить за едой, которую ты мне подаёшь. | What is your job? To watch over the food that you serve me. | #133 00:08:30: Твоя задача какая<br>#134 00:08:33: Следить за<br>#134 00:08:33: которую ты мне подаешь | adapted: adapted |
-| 5 | Нагиев | Что это за блюдо? Уволен! | What kind of dish is this? You are fired! | #135 00:08:36: Что это за<br>#136 00:08:40: Уволен | adapted: adapted |
-| 6 | Илья | Дмитрий Владимирович! | Dmitry Vladimirovich! | #136 00:08:40: Дмитрий Владимирович | verbatim |
-| 7 | Нагиев | Уволен! И повар, который это приготовил, тоже уволен. | Fired! And the cook who prepared this is fired too. | #137 00:08:42: Уволен. И повар, который<br>#137 00:08:42: приготовил, тоже уволен | adapted: adapted |
-| 8 | Нагиев | Ты некрасивый. Поди сюда. | You are unattractive. Come here. | #138 00:08:46: ты некрасивый<br>#139 00:08:56: сюда | adapted: adapted |
-| 9 | Аня | Да, Дмитрий Владимирович. Сейчас я вам меню принесу. | Yes, Dmitry Vladimirovich. I will bring you the menu right now. | #140 00:08:57: Да, Дмитрий Владимирович<br>#142 00:09:01: сейчас я вам меню принесу | adapted: adapted |
-| 10 | Нагиев | Принеси мне что-нибудь поесть. Ты мне холодца принеси. | Bring me something to eat. Bring me some aspic. | #141 00:08:58: принеси мне что-нибудь<br>#143 00:09:02: Ты мне холодца принеси | adapted: adapted |
-| 11 | Аня | Холодец? У нас его нет в меню. | Aspic? We do not have it on the menu. | #144 00:09:04: У нас его нет в меню | adapted: adapted |
-| 12 | Нагиев | Мне по барабану! Давай. | I don't care one bit! Go on. | #145 00:09:07: Мне по барабану<br>#146 00:09:09: Давай | adapted: adapted |
+| 1 | Илья | Приятного аппетита. | Bon appetit. | #130: приятного аппетита | verbatim |
+| 2 | Илья | Вы знаете, вы правильно сделали, что развелись с ней. | You know, you did the right thing getting divorced from her. | #131: Вы знаете, вы правильно сделали, что развелись с | adapted: adapted |
+| 3 | Нагиев | Какое твоё собачье дело? | What business is it of yours? | #132: Какое твое собачье дело | verbatim |
+| 4 | Нагиев | Твоя задача какая? Следить за едой, которую ты мне подаёшь. | What is your job? To watch over the food that you serve me. | #133: Твоя задача какая<br>#134: Следить за<br>#134: которую ты мне подаешь | adapted: adapted |
+| 5 | Нагиев | Что это за блюдо? Уволен! | What kind of dish is this? You are fired! | #135: Что это за<br>#136: Уволен | adapted: adapted |
+| 6 | Илья | Дмитрий Владимирович! | Dmitry Vladimirovich! | #136: Дмитрий Владимирович | verbatim |
+| 7 | Нагиев | Уволен! И повар, который это приготовил, тоже уволен. | Fired! And the cook who prepared this is fired too. | #137: Уволен. И повар, который<br>#137: приготовил, тоже уволен | adapted: adapted |
+| 8 | Нагиев | Ты некрасивый. Поди сюда. | You are unattractive. Come here. | #138: ты некрасивый<br>#139: сюда | adapted: adapted |
+| 9 | Макс | Да, Дмитрий Владимирович. Сейчас я вам меню принесу. | Yes, Dmitry Vladimirovich. I will bring you the menu right now. | #140: Да, Дмитрий Владимирович<br>#142: сейчас я вам меню принесу | adapted: adapted |
+| 10 | Нагиев | Принеси мне что-нибудь поесть. Ты мне холодца принеси. | Bring me something to eat. Bring me some aspic. | #141: принеси мне что-нибудь<br>#143: Ты мне холодца принеси | adapted: adapted |
+| 11 | Макс | Холодец? У нас его нет в меню. | Aspic? We do not have it on the menu. | #144: У нас его нет в меню | adapted: adapted |
+| 12 | Нагиев | Мне по барабану! Давай. | I don't care one bit! Go on. | #145: Мне по барабану<br>#146: Давай | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Bon appetit.' Notice how Russian expresses 'pleasant' and 'appetite' with crisp inflection rather than helper words.
-- 'You know, you did the right thing getting divorced from her.' The meaning hinges on 'you' working together with 'her' in spoken Russian.
-- 'What business is it of yours?' Dmitry Nagiyev addresses the listener with the informal singular 'you' alongside 'business'.
-- 'What is your job? To watch over the food that you serve me.' Dmitry Nagiyev brings out the contrast between 'your' and 'task' in a few short words.
-- 'What kind of dish is this? You are fired!' Here Nagiyev anchors the thought on 'dish' and finishes on 'fired', keeping the spoken rhythm brisk and natural.
-- 'Dmitry Vladimirovich!' The meaning hinges on '' working together with '' in spoken Russian. Dmitry Nagiyev answers right away.
-- 'Fired! And the cook who prepared this is fired too.' Dmitry Nagiyev anchors the line on 'fired', while 'also' completes the thought.
-- 'You are unattractive. Come here.' The grammar packs 'you' and 'here' into a tight, idiomatic kitchen exchange.
-- 'Yes, Dmitry Vladimirovich. I will bring you the menu right now.' Notice how Russian expresses 'yes' and 'will bring' with crisp inflection rather than helper words. Dmitry Nagiyev answers right away.
-- 'Bring me something to eat. Bring me some aspic.' Here the Russian phrasing highlights 'bring' before landing on 'aspic'.
-- 'Aspic? We do not have it on the menu.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.
-- 'I don't care one bit! Go on.' Dmitry Nagiyev anchors the line on 'to me', while 'come on' completes the thought.
+- 'Bon appetit.' With the menu and kitchen in play, Ilya keeps this short reply brisk and direct.
+- 'You know, you did the right thing getting divorced from her.' Ilya reminds Max that Max did the right thing getting divorced before the moment passes. Notice how he sticks to the formal "you", keeping a professional line between them.
+- 'What business is it of yours?' Questioning whether what business is it is how Nagiyev tests Ilya's story. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'What is your job? To watch over the food that you serve me.' Here wondering what Ilya's job is shows Nagiyev looking for the real truth.
+- 'What kind of dish is this? You are fired!' Asking whether what kind of dish is this puts Ilya right on the defensive. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'Dmitry Vladimirovich!' With the work and kitchen at stake, Ilya reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Fired! And the cook who prepared this is fired too.' Nagiyev declares that and the cook who prepared this is fired as the tension in the room peaks.
+- 'You are unattractive. Come here.' Nagiyev explains that Ilya is unattractive, keeping his voice calm and direct. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Yes, Dmitry Vladimirovich. I will bring you the menu right now.' Realizing that he will bring Ilya the menu right now changes how Max handles the situation. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
+- 'Bring me something to eat. Bring me some aspic.' Admitting that Ilya should bring him something to eat shows Nagiyev being honest for a change.
+- 'Aspic? We do not have it on the menu.' Asking whether they do not have it on the menu puts Ilya right on the defensive. Russian expresses having something as "by me is", keeping the phrase short and grounded.
+- 'I don't care one bit! Go on.' Nagiyev insists that he does not care one bit, leaving Ilya no room to argue. Starting with "davay" is the everyday Russian way to say "come on, let us do this".

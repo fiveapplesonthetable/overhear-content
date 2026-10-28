@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Самсон | Ну как так можно, а? | How is that even possible, eh? | #201 00:12:22: Ну, как так, а | verbatim |
-| 2 | Самсон | Для нас это святой праздник! | For us that is a sacred holiday! | #203 00:12:25: главный праздник | verbatim |
-| 3 | Самсон | Я всегда смотрел фильмы про войну. | I always watched movies about the war. | #204 00:12:34: все вот эти фильмы про войну | verbatim |
-| 4 | Самсон | Есть такая профессия — родину защищать! | There is such a profession — defending the motherland! | #205 00:12:44: такая профессия, родину защищать | verbatim |
-| 5 | Самсон | Как теперь с этим жить, а? | How can one live with this now, eh? | #206 00:12:48: Как мы теперь с этим жить, а | verbatim |
-| 6 | Друг | Да, дела совсем плохие. | Yes, things are really bad. | #207 00:12:53: Да, дела | verbatim |
-| 7 | Друг | Где ты был так долго? | Where were you for so long? | #212 00:13:25: Ты где был | verbatim |
-| 8 | Самсон | Извини, у меня тяжёлая депрессия. | Sorry, I have severe depression. | #213 00:13:27: у меня депрессия | verbatim |
-| 9 | Друг | Тогда сходи за новой бутылкой. | Then go get a new bottle. | #214 00:13:29: за новый | adapted: slang/ASR cleaned for A1 |
-| 10 | Самсон | Ты меня посылаешь за водкой? | Are you sending me for vodka? | #215 00:13:32: Ты мне сейчас водочную посылаешь | verbatim |
-| 11 | Друг | Ты же сам всё выпил! | You drank it all yourself after all! | #216 00:13:34: Ты все выжрал | adapted: crude verb cleaned to 'выпил' |
-| 12 | Самсон | Там на улице одни алкаши. | There are only drunks out on the street. | #217 00:13:36: Так там алкаши одни | verbatim |
-| 13 | Самсон | Пойдём вместе, я хочу ещё выпить. | Let's go together, I want to drink more. | #218 00:13:37: Пошли вместе, я еще хочу | adapted: slang 'бухнуть' cleaned for A1 |
+| 1 | Самсон | Ну как так можно, а? | How is that even possible, eh? | #201: Ну, как так, а | verbatim |
+| 2 | Самсон | Для нас это святой праздник! | For us that is a sacred holiday! | #203: главный праздник | verbatim |
+| 3 | Самсон | Я всегда смотрел фильмы про войну. | I always watched movies about the war. | #204: все вот эти фильмы про войну | verbatim |
+| 4 | Самсон | Есть такая профессия — родину защищать! | There is such a profession — defending the motherland! | #205: такая профессия, родину защищать | verbatim |
+| 5 | Самсон | Как теперь с этим жить, а? | How can one live with this now, eh? | #206: Как мы теперь с этим жить, а | verbatim |
+| 6 | Друг | Да, дела совсем плохие. | Yes, things are really bad. | #207: Да, дела | verbatim |
+| 7 | Друг | Где ты был так долго? | Where were you for so long? | #212: Ты где был | verbatim |
+| 8 | Самсон | Извини, у меня тяжёлая депрессия. | Sorry, I have severe depression. | #213: у меня депрессия | verbatim |
+| 9 | Друг | Тогда сходи за новой бутылкой. | Then go get a new bottle. | #214: за новый | adapted: slang/ASR cleaned for A1 |
+| 10 | Самсон | Ты меня посылаешь за водкой? | Are you sending me for vodka? | #215: Ты мне сейчас водочную посылаешь | verbatim |
+| 11 | Друг | Ты же сам всё выпил! | You drank it all yourself after all! | #216: Ты все выжрал | adapted: crude verb cleaned to 'выпил' |
+| 12 | Самсон | Там на улице одни алкаши. | There are only drunks out on the street. | #217: Так там алкаши одни | verbatim |
+| 13 | Самсон | Пойдём вместе, я хочу ещё выпить. | Let's go together, I want to drink more. | #218: Пошли вместе, я еще хочу | adapted: slang 'бухнуть' cleaned for A1 |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

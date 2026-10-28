@@ -10,20 +10,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Илона | Алло, Ханикеев! Ты зря волновался. | Hello, Khanikeyev! You were worried for nothing. | #839 00:46:53: Ханикеев | adapted: adapted cue 839 |
-| 2 | Илона | В детском саду всё нормально. | At the kindergarten everything is fine. | #839 00:46:53: В саду все нормально | adapted: expanded cue 839 with yo |
-| 3 | Аня | Ты уверена? Там нет полиции? | Are you sure? There is no police there? | new | new: added Khanikeyev inquiry |
-| 4 | Илона | Воспитатель, конечно, немного странный. | The teacher, of course, is a bit strange. | #840 00:46:58: Воспитатель, конечно, немного не в себе | adapted: simplified cue 840 |
-| 5 | Илона | Но они там все такие. | But they are all like that there. | #840 00:46:58: но они все такие | adapted: verbatim cue 840 |
-| 6 | Илона | Так что спи спокойно. | So sleep peacefully. | #841 00:47:01: Так что спи спокойно | adapted: verbatim cue 841 |
-| 7 | Аня | Хорошо. Большое спасибо за помощь. | Good. Thank you very much for your help. | #843 00:47:05: Спасибо | adapted: expanded cue 843 |
+| 1 | Илона | Алло, Ханикеев! Ты зря волновался. | Hello, Khanikeyev! You were worried for nothing. | #839: Ханикеев | adapted: adapted cue 839 |
+| 2 | Илона | В детском саду всё нормально. | At the kindergarten everything is fine. | #839: В саду все нормально | adapted: expanded cue 839 with yo |
+| 3 | Аркадий | Ты уверена? Там нет полиции? | Are you sure? There is no police there? | new | new: added Khanikeyev inquiry |
+| 4 | Илона | Воспитатель, конечно, немного странный. | The teacher, of course, is a bit strange. | #840: Воспитатель, конечно, немного не в себе | adapted: simplified cue 840 |
+| 5 | Илона | Но они там все такие. | But they are all like that there. | #840: но они все такие | adapted: verbatim cue 840 |
+| 6 | Илона | Так что спи спокойно. | So sleep peacefully. | #841: Так что спи спокойно | adapted: verbatim cue 841 |
+| 7 | Аркадий | Хорошо. Большое спасибо за помощь. | Good. Thank you very much for your help. | #843: Спасибо | adapted: expanded cue 843 |
 | 8 | Илона | Пожалуйста. Я еду домой. | You are welcome. I am driving home. | new | new: added Ilona departure |
 | 9 | Офицер | Она уехала? Всё чисто? | Did she leave? Is everything clear? | new | new: added officer check |
-| 10 | Офицер | Ну вот, нормально всё прошло? | Well now, did everything go fine? | #844 00:47:14: Ну вот, нормально все | adapted: adapted cue 844 with yo |
+| 10 | Офицер | Ну вот, нормально всё прошло? | Well now, did everything go fine? | #844: Ну вот, нормально все | adapted: adapted cue 844 with yo |
 | 11 | Офицер | Она ничего не поняла. | She understood nothing. | new | new: added relief observation |
 | 12 | Офицер | Операция прошла отлично! | The operation went excellently! | new | new: added success remark |
-| 13 | Офицер | Ты свободен, Гриша. | You are free, Grisha. | #845 00:47:18: Все | adapted: adapted cue 845 |
-| 14 | Офицер | Иди отдыхай после танцев. | Go rest after the dancing. | #846 00:47:19: Пошел отсюда | adapted: softened cue 846 |
+| 13 | Офицер | Ты свободен, Гриша. | You are free, Grisha. | #845: Все | adapted: adapted cue 845 |
+| 14 | Офицер | Иди отдыхай после танцев. | Go rest after the dancing. | #846: Пошел отсюда | adapted: softened cue 846 |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

@@ -4,31 +4,30 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 17
 SCENE = 17
-TITLE = "Спор о блюде  (Dispute Over the Dish)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Спор о блюде  (Dispute Over the Dish)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "chef": "anja", "elena": "angelina"}
-LABELS = {"chef": "Шеф", "elena": "Елена"}
+LABELS = {'barinov': 'Шеф', 'elena': 'Елена'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.17'
 SOURCE_FILE = 'sources/kukhnya/s01/e17.ru.dual.srt'
 INTRO = "Viktor goes to the rival restaurant and accuses the chef of stealing his new dish. We will hear it in Russian first, do not worry about catching every word. Let's listen closely to the conversation in Russian first, and then walk through each line together."
 OPENER = "Let's walk through it. Viktor storms into the kitchen."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Viktor realizes he was wrong. Next time you watch the episode, listen for the Russian expressions for 'to stand' and 'matter' — you will catch every word right away. See you next time!"
-CLOSING = ("elena", "До свидания.")
+CLOSING = ('elena', 'До свидания.')
 STORY = [
-    ('chef', 'Так, стоять.', 'Hold it right there.', [(270, 'Так стоять.')], ''),
+    ('barinov', 'Так, стоять.', 'Hold it right there.', [(270, 'Так стоять.')], ''),
     ('elena', 'В чём дело?', 'What is the matter?', [(271, 'Это что такое?')], ''),
-    ('chef', 'Вы украли наше блюдо.', 'You stole our dish.', [(275, 'Да вы украли у нас сезонное блюдо от шефа.')], ''),
+    ('barinov', 'Вы украли наше блюдо.', 'You stole our dish.', [(275, 'Да вы украли у нас сезонное блюдо от шефа.')], ''),
     ('elena', 'Мы его сами придумали.', 'We invented it ourselves.', [(277, 'Мы не успели его в меню вставить, как мы его уже украли.')], ''),
-    ('chef', 'Я так и знал.', 'I knew it.', [(276, 'А я так и знал, что вы ничего не можете сами, паразиты.')], ''),
-    ('chef', 'Вы ничего не можете сами.', 'You cannot do anything yourselves.', [(276, 'А я так и знал, что вы ничего не можете сами, паразиты.')], ''),
+    ('barinov', 'Я так и знал.', 'I knew it.', [(276, 'А я так и знал, что вы ничего не можете сами, паразиты.')], ''),
+    ('barinov', 'Вы ничего не можете сами.', 'You cannot do anything yourselves.', [(276, 'А я так и знал, что вы ничего не можете сами, паразиты.')], ''),
     ('elena', 'Посмотрите на эту дату.', 'Look at this date.', [(286, 'Посмотрите, пожалуйста, на дату утверждения меню.')], ''),
-    ('chef', 'Ну, ну.', 'Well, well.', [(287, 'Ну, ну.')], ''),
+    ('barinov', 'Ну, ну.', 'Well, well.', [(287, 'Ну, ну.')], ''),
     ('elena', 'Дайте мне меню, пожалуйста.', 'Give me the menu, please.', [(285, 'Меню дайте мне, пожалуйста.')], ''),
     ('elena', 'Вы хорошо видите?', 'Can you see clearly?', [(288, 'Вы хорошо видите?')], ''),
-    ('chef', 'Да, нормально.', 'Yes, fine.', [(289, 'Нормально.')], ''),
-    ('chef', 'Извините.', 'Sorry.', [], ''),
+    ('barinov', 'Да, нормально.', 'Yes, fine.', [(289, 'Нормально.')], ''),
+    ('barinov', 'Извините.', 'Sorry.', [], ''),
 ]
 WALK = [
     (0, None, "'Hold it right there.' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'to stand'."),

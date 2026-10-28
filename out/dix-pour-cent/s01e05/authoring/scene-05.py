@@ -7,8 +7,7 @@ SCENE = 5
 TITLE = "Je ne peux pas jouer comme ça!  (I Can't Act Like This!)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'joey': 'marcel', 'samir': 'theo', 'julie': 'emilie'}
-LABELS = {'joey': 'JoeyStarr', 'samir': 'Samir', 'julie': 'Julie'}
+LABELS = {'joey': 'JoeyStarr', 'julie': 'Julie', 'samir': 'Samir'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e05.fr.dual.srt'
 INTRO = "At the coffee table, JoeyStarr has just helped Sofia rehearse her two lines and calmed her stage fright. Now JoeyStarr is back on the chateau set with Julie Gayet to shoot a passionate eighteenth-century declaration of love, but he keeps stumbling over his lines. We'll hear the scene in French first; don't worry about catching every word."
@@ -41,7 +40,7 @@ WALK = [
     (6, None, "'But what is she doing now?' The long question phrase at the start is the standard spoken way to ask 'what'."),
     (7, None, "'She's in her dressing room. She refuses to come out.' The word for a theatre dressing room or an actor's trailer on a film set is the same."),
     (8, None, "'What? Out of the way! Open the door, Julie!' Literally 'push yourselves!'. JoeyStarr marches up to her trailer and hammers on the door."),
-    (9, None, "'Didier, stop! Here are the agents.' Didier is JoeyStarr's real first name, and just in time, Gabriel and Andréa arrive from Paris."),
+    (9, None, "'Didier, stop! Here are the agents.' Meanwhile, Didier is JoeyStarr's real first name, and just in time, Gabriel and Andréa arrive from Paris."),
     (10, None, "'She gets on my nerves! She still lives in the eighteenth century!' He greets Gabriel by complaining bitterly about his co-star."),
     (11, None, "'She's too serious! She grew up in a convent!' The everyday past tense of the verb 'to grow up' uses 'has' plus 'grown'."),
     (12, None, "'He must apologise first!' Inside her trailer, Julie is just as angry. Let's hear the whole scene once more."),

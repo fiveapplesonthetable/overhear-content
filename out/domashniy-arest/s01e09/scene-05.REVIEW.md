@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Самсон | Аркадий, ты ничего не понимаешь! | Arkady, you don't understand anything! | #149 00:08:41: ты не понимаешь | verbatim |
-| 2 | Самсон | Она просто унижает меня перед детьми! | She is simply humiliating me in front of the children! | #150 00:08:42: Она меня просто унижает перед детьми | verbatim |
-| 3 | Аня | Ну ты терпи. Не реагируй. | Well, bear it. Don't react. | #151 00:08:44: ты терпи, не реагируй | verbatim |
-| 4 | Самсон | Легко сказать, не реагируй! | Easy to say, don't react! | #152 00:08:46: Не реагируй | verbatim |
-| 5 | Самсон | Я мужчина или нет, в конце концов? | Am I a man or not, after all? | #153 00:08:47: Я мужик или не мужик | adapted: garble 'концы хозов' -> 'в конце концов' |
-| 6 | Самсон | Что я должен ей ответить? | What should I answer her? | #154 00:08:49: должен ей сказать, ответить | verbatim |
-| 7 | Аня | Ничего не говори. Посмотри на неё. | Don't say anything. Look at her. | #155 00:08:52: Посмотри на нее | verbatim |
-| 8 | Самсон | Как посмотреть? Объясни мне. | Look how? Explain to me. | #156 00:08:54: Как | verbatim |
-| 9 | Аня | Посмотри тяжело, пристально. | Look heavily, intensely. | #155 00:08:52: пристально<br>#157 00:08:56: Тяжело | verbatim |
-| 10 | Аня | По-мужски, секунд десять. | Like a real man, for about ten seconds. | #158 00:08:57: По-мужски секунд десять | verbatim |
-| 11 | Аня | Можешь даже в уме посчитать. | You can even count in your head. | #159 00:08:59: Можешь даже в уме посчитать | verbatim |
-| 12 | Самсон | Хорошо. Я всё понял! | Alright. I understood everything! | #160 00:09:01: Хорошо, понял | verbatim |
+| 1 | Самсон | Аркадий, ты ничего не понимаешь! | Arkady, you don't understand anything! | #149: ты не понимаешь | verbatim |
+| 2 | Самсон | Она просто унижает меня перед детьми! | She is simply humiliating me in front of the children! | #150: Она меня просто унижает перед детьми | verbatim |
+| 3 | Аркадий | Ну ты терпи. Не реагируй. | Well, bear it. Don't react. | #151: ты терпи, не реагируй | verbatim |
+| 4 | Самсон | Легко сказать, не реагируй! | Easy to say, don't react! | #152: Не реагируй | verbatim |
+| 5 | Самсон | Я мужчина или нет, в конце концов? | Am I a man or not, after all? | #153: Я мужик или не мужик | adapted: garble 'концы хозов' -> 'в конце концов' |
+| 6 | Самсон | Что я должен ей ответить? | What should I answer her? | #154: должен ей сказать, ответить | verbatim |
+| 7 | Аркадий | Ничего не говори. Посмотри на неё. | Don't say anything. Look at her. | #155: Посмотри на нее | verbatim |
+| 8 | Самсон | Как посмотреть? Объясни мне. | Look how? Explain to me. | #156: Как | verbatim |
+| 9 | Аркадий | Посмотри тяжело, пристально. | Look heavily, intensely. | #155: пристально<br>#157: Тяжело | verbatim |
+| 10 | Аркадий | По-мужски, секунд десять. | Like a real man, for about ten seconds. | #158: По-мужски секунд десять | verbatim |
+| 11 | Аркадий | Можешь даже в уме посчитать. | You can even count in your head. | #159: Можешь даже в уме посчитать | verbatim |
+| 12 | Самсон | Хорошо. Я всё понял! | Alright. I understood everything! | #160: Хорошо, понял | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

@@ -7,31 +7,30 @@ SCENE = 27
 TITLE = 'La fin de la lune de miel  (The End of the Honeymoon)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'hicham': 'marcel', 'lea': 'lucie', 'gabriel': 'theo'}
-LABELS = {'hicham': 'Hicham', 'lea': 'Andréa', 'gabriel': 'Gabriel'}
+LABELS = {'andrea': 'Andréa', 'hicham': 'Hicham', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e02.fr.dual.srt'
 INTRO = "At the agency, Andréa tries unsuccessfully to reach Mathias Barneville before meeting with Hicham. When she tries to apologize for the disastrous evening with Fabrice Luchini, Hicham's patience runs out. Let's listen to the scene in French first."
 OPENER = "Let's examine how Hicham is coldly dismissing Andréa with no hesitation."
 TRANSITION = "Now let's listen to the whole discussion again without stopping."
 OUTRO = 'Hicham has ruthlessly fired Andréa, asserting his complete authority as majority owner. Andréa faces exile from the agency she helped build. See you next time!'
-CLOSING = ('lea', 'Au revoir!')
+CLOSING = ('andrea', 'Au revoir!')
 STORY = [
-    ('gabriel', 'Vous êtes sur la messagerie de Mathias.', 'You have reached Mathias', [(896, 'Bonjour, vous êtes sur la messagerie de Mathias Barneville.')], ''),
-    ('gabriel', 'Laissez un message après le bip.', 'Leave a message after the beep.', [(897, 'Laissez un message et je vous rappellerai.')], ''),
-    ('lea', 'Mathias ne répond toujours pas.', 'Mathias is still not answering.', [(898, 'tu as vu Mathias ?')], ''),
-    ('lea', 'Bonjour, Hicham. Je suis désolée.', 'Hello, Hicham. I am sorry.', [(902, 'Bonjour.'), (903, 'Désolée pour hier soir.')], ''),
-    ('lea', 'Hier soir, la situation était difficile.', 'Last night, the situation was difficult.', [(904, "Ça s'est tendu, j'avais peur."), (905, "C'était horrible.")], ''),
+    ('mathias', 'Vous êtes sur la messagerie de Mathias.', 'You have reached Mathias', [(896, 'Bonjour, vous êtes sur la messagerie de Mathias Barneville.')], ''),
+    ('mathias', 'Laissez un message après le bip.', 'Leave a message after the beep.', [(897, 'Laissez un message et je vous rappellerai.')], ''),
+    ('andrea', 'Mathias ne répond toujours pas.', 'Mathias is still not answering.', [(898, 'tu as vu Mathias ?')], ''),
+    ('andrea', 'Bonjour, Hicham. Je suis désolée.', 'Hello, Hicham. I am sorry.', [(902, 'Bonjour.'), (903, 'Désolée pour hier soir.')], ''),
+    ('andrea', 'Hier soir, la situation était difficile.', 'Last night, the situation was difficult.', [(904, "Ça s'est tendu, j'avais peur."), (905, "C'était horrible.")], ''),
     ('hicham', 'La lune de miel est terminée.', 'The honeymoon is over.', [(907, 'la lune de miel est terminée, Marteau.')], ''),
     ('hicham', "Prends tes affaires et va-t'en.", 'Take your things and go away.', [(908, "Prends tes affaires et va-t'en.")], ''),
-    ('lea', 'Arrête, Hicham, sois raisonnable.', 'Stop it, Hicham, be reasonable.', [(909, 'Arrête, Hicham.')], ''),
+    ('andrea', 'Arrête, Hicham, sois raisonnable.', 'Stop it, Hicham, be reasonable.', [(909, 'Arrête, Hicham.')], ''),
     ('hicham', 'Il y a des limites ici.', 'There are limits here.', [(910, 'Il y a des limites.')], ''),
     ('hicham', 'Nous ne sommes pas des animaux.', 'We are not animals.', [(910, "On n'est pas des animaux.")], ''),
-    ('lea', "Qu'est-ce que tu veux de plus?", 'What more do you want?', [(914, "Qu'est-ce que tu veux de plus ?")], ''),
+    ('andrea', "Qu'est-ce que tu veux de plus?", 'What more do you want?', [(914, "Qu'est-ce que tu veux de plus ?")], ''),
     ('hicham', 'Rentre chez toi maintenant.', 'Go home now.', [(915, 'Rentre chez toi.')], ''),
-    ('lea', 'Tu ne peux pas me virer!', 'You cannot fire me!', [(916, 'Tu ne peux pas me virer.')], ''),
+    ('andrea', 'Tu ne peux pas me virer!', 'You cannot fire me!', [(916, 'Tu ne peux pas me virer.')], ''),
     ('hicham', 'Et pourquoi pas?', 'And why not?', [(916, 'Pourquoi pas ?')], ''),
-    ('lea', "Je suis associée de l'agence.", 'I am a partner in the agency.', [(917, 'Je suis associé, il faut un accord.')], ''),
+    ('andrea', "Je suis associée de l'agence.", 'I am a partner in the agency.', [(917, 'Je suis associé, il faut un accord.')], ''),
     ('hicham', "Je suis l'actionnaire majoritaire.", 'I am the majority shareholder.', [(918, 'Je suis actionnaire majoritaire.')], ''),
     ('hicham', 'Laisse ton ordinateur et tes dossiers.', 'Leave your computer and your files.', [(920, 'Laisse tout ce qui appartient'), (921, 'ordinateur, clients... tout.')], ''),
 ]

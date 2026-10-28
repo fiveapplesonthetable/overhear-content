@@ -1,39 +1,39 @@
-# Признание Насти  (Nastya's Confession) — `kukhnya-s01e13-scene-08`
+# kukhnya-s01e13-scene-08: review sheet
 
-**Source:** Кухня (Kukhnya) S1.13 · `sources/kukhnya/s01/e13.ru.dual.srt`  
-**Target level:** A1 — Duolingo Section 2
+Title: Признание Насти  (Nastya's Confession)
+Level: A1 — Duolingo Section 2
+Pair: ru-en
+Source: Кухня (Kukhnya) S1.13
 
-## Cast
 
-| Role | Voice | Label |
-|---|---|---|
-| `narrator` | sky | — |
-| `nastya` | angelina | Настя |
-| `kostya` | anja | Костя |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 1 — Intro
-
-> Nastya feels guilty about accidentally breaking the Chef's car mirror, especially now that he blamed the restaurant owner Eleonora. She pulls Kostya aside to confess, but Kostya has a different priority. We will hear it in Russian first; don't worry about catching every word.
-
-## Part 2 — Story
-
-| # | Speaker | Line | English | Source cue(s) | Change |
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 0 | Настя | Костя, мне надо тебе кое-что сказать. | Kostya, I need to tell you something. | #103 "надо тебе кое-что сказать" |  |
-| 1 | Настя | Я поступила неправильно. | I acted wrongly. | #104 "Я поступила неправильно" |  |
-| 2 | Костя | Настя, ты передумала насчет вечера? | Nastya, did you change your mind about tonight? | #105 "Настя, ты передумала насчет вечера" |  |
-| 3 | Настя | Я не об этом. | That's not what I'm talking about. | #106 "Я не об этом" |  |
-| 4 | Настя | Это я разбила зеркало Виктору Петровичу. | It was me who broke Viktor Petrovich's mirror. | #107 "я разбила зеркало Виктору Петровичу" |  |
-| 5 | Настя | И теперь они из-за меня ссорятся. | And now they are fighting because of me. | #108 "Они из-за меня ссорятся" |  |
-| 6 | Костя | Ничего себе! | Wow! | #109 "Ничего себе" |  |
-| 7 | Костя | И что теперь делать? | And what do we do now? | *(added)* |  |
-| 8 | Костя | Стало быть, насчет вечера всё в силе? | So, is everything still on for tonight? | #110 "Стало быть, насчет вечера" |  |
-| 9 | Настя | Костя! | Kostya! | #111 "Костя" |  |
-| 10 | Настя | Как ты можешь? | How could you? | *(added)* |  |
-| 11 | Настя | Ты только об одном и думаешь! | You only think about one thing! | #111 "только об одном и думаешь" |  |
+| 1 | Настя | Костя, мне надо тебе кое-что сказать. | Kostya, I need to tell you something. | #103: надо тебе кое-что сказать | verbatim |
+| 2 | Настя | Я поступила неправильно. | I acted wrongly. | #104: Я поступила неправильно | verbatim |
+| 3 | Костя | Настя, ты передумала насчет вечера? | Nastya, did you change your mind about tonight? | #105: Настя, ты передумала насчет вечера | verbatim |
+| 4 | Настя | Я не об этом. | That's not what I'm talking about. | #106: Я не об этом | verbatim |
+| 5 | Настя | Это я разбила зеркало Виктору Петровичу. | It was me who broke Viktor Petrovich's mirror. | #107: я разбила зеркало Виктору Петровичу | verbatim |
+| 6 | Настя | И теперь они из-за меня ссорятся. | And now they are fighting because of me. | #108: Они из-за меня ссорятся | verbatim |
+| 7 | Костя | Ничего себе! | Wow! | #109: Ничего себе | verbatim |
+| 8 | Костя | И что теперь делать? | And what do we do now? | new | new |
+| 9 | Костя | Стало быть, насчет вечера всё в силе? | So, is everything still on for tonight? | #110: Стало быть, насчет вечера | verbatim |
+| 10 | Настя | Костя! | Kostya! | #111: Костя | verbatim |
+| 11 | Настя | Как ты можешь? | How could you? | new | new |
+| 12 | Настя | Ты только об одном и думаешь! | You only think about one thing! | #111: только об одном и думаешь | verbatim |
 
-## Part 5 — Outro & closing
+## Walk-through narration (English only, no target-language words quoted)
 
-> That's it for this scene! Kostya really needs to work on his timing. Next time you watch the episode, listen for the Russian expressions for 'it is necessary' and 'to say' — you will catch every word right away. See you next time!
-
-**Настя:** Пока!
+- 'Kostya, I need to tell you something.' Nastya puts the word for 'it is necessary' together with 'tell' in a crisp, natural spoken turn of phrase.
+- 'I acted wrongly.' Nastya uses the action verb meaning 'to enter' to focus on the single completed result, pairing it with 'wrongly'.
+- 'Nastya, did you change your mind about tonight?' Kostya turns a statement into a question purely through rising intonation on the word meaning 'changed my mind', followed by 'evening'.
+- 'That's not what I'm talking about.' Russian omits the present-tense verb 'to be' here, linking 'I' directly with 'not', combining 'I' with 'not' and 'about'.
+- 'It was me who broke Viktor Petrovich' s mirror.' Nastya uses the action verb meaning 'to break' to focus on the single completed result, pairing it with 'mirror'.
+- 'And now they are fighting because of me.' Here Nastya anchors the line on the word meaning 'now' and builds the thought around 'fight'.
+- 'Wow!' Russian omits the present-tense verb 'to be' here, linking 'nothing' directly with 'yourself', combining 'nothing' with 'yourself'.
+- 'And what do we do now?' Kostya expresses this naturally by combining the word for 'now' with 'do'.
+- 'So, is everything still on for tonight?' Kostya turns a statement into a question purely through rising intonation on the word meaning 'became', pairing it with 'be' and 'evening'.
+- 'Kostya!' Nastya delivers a punchy one-word reaction built around the Russian word meaning 'Kostya'.
+- 'How could you?' The phrasing opens with 'how' before bringing in 'can' to make the point clear.
+- 'You only think about one thing!' She scolds him for being insensitive. Let's break down the language.

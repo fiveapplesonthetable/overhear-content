@@ -7,8 +7,7 @@ SCENE = 8
 TITLE = 'Le code secret  (The Secret Code)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'lea': 'lucie'}
-LABELS = {'gabriel': 'Gabriel', 'lea': 'Andréa'}
+LABELS = {'andrea': 'Andréa', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e05.fr.dual.srt'
 INTRO = "Back at the agency, Gabriel and Andrea have stolen Elise's phone and are frantically trying to guess her PIN before she returns from the bathroom. We'll hear their conversation in French first, but don't worry about catching every word."
@@ -18,16 +17,16 @@ OUTRO = 'Elise Formain deleted all her messages, which only makes Gabriel more s
 CLOSING = ('gabriel', 'À demain!')
 STORY = [
     ('gabriel', "Dépêche-toi! Je t'en supplie.", 'Hurry up! I beg you.', [(384, "Dépêche-toi ! Je t'en supplie.")], ''),
-    ('lea', "Ce n'est pas sa date de naissance.", 'It is not her birth date.', [(383, "C'est pas sa date de naissance.")], ''),
+    ('andrea', "Ce n'est pas sa date de naissance.", 'It is not her birth date.', [(383, "C'est pas sa date de naissance.")], ''),
     ('gabriel', 'Essaie quatre fois un.', 'Try four times one.', [(387, 'Essaie 1-1-1-1.')], ''),
-    ('lea', 'Elle est bien trop complexe pour ça.', 'She is much too complex for that.', [(388, 'elle est bien trop complexe pour ça.')], ''),
+    ('andrea', 'Elle est bien trop complexe pour ça.', 'She is much too complex for that.', [(388, 'elle est bien trop complexe pour ça.')], ''),
     ('gabriel', "On n'a pas le temps d'essayer au hasard!", 'We do not have time to try randomly!', [(394, "On n'a pas le temps d'essayer des codes au hasard")], ''),
     ('gabriel', "J'ai trouvé!", 'I found it!', [(395, "J'ai trouvé !")], ''),
-    ('lea', 'Quoi?', 'What?', [(395, 'Quoi ?')], ''),
+    ('andrea', 'Quoi?', 'What?', [(395, 'Quoi ?')], ''),
     ('gabriel', "Ça a marché! J'y suis!", 'It worked! I am in!', [(396, "Ça a marché ! J'y suis !")], ''),
-    ('lea', "Qu'est-ce que tu as trouvé?", 'What did you find?', [(400, "Qu'est-ce que t'as trouvé ?")], ''),
+    ('andrea', "Qu'est-ce que tu as trouvé?", 'What did you find?', [(400, "Qu'est-ce que t'as trouvé ?")], ''),
     ('gabriel', 'Rien! Pas un seul message sur son téléphone.', 'Nothing! Not a single message on her phone.', [(401, 'Rien ! Pas un seul message sur son téléphone.')], ''),
-    ('lea', "Alors on s'est énervés pour rien?", 'So we got worked up for nothing?', [(402, "Alors on s'est énervées pour rien ?")], ''),
+    ('andrea', "Alors on s'est énervés pour rien?", 'So we got worked up for nothing?', [(402, "Alors on s'est énervées pour rien ?")], ''),
     ('gabriel', "Faire le ménage, c'est un geste coupable.", 'Cleaning up, it is a guilty move.', [(404, "Faire le ménage, c'est un geste coupable.")], ''),
 ]
 WALK = [

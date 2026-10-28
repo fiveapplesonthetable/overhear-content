@@ -1,40 +1,41 @@
-# Урок для критика  (A Lesson for the Critic) — `kukhnya-s01e11-scene-23`
+# kukhnya-s01e11-scene-23: review sheet
 
-**Source:** Кухня (Kukhnya) S1.11 · `sources/kukhnya/s01/e11.ru.dual.srt`  
-**Target level:** A1 — Duolingo Section 2
+Title: Урок для критика  (A Lesson for the Critic)
+Level: A1 — Duolingo Section 2
+Pair: ru-en
+Source: Кухня (Kukhnya) S1.11
 
-## Cast
 
-| Role | Voice | Label |
-|---|---|---|
-| `narrator` | sky | — |
-| `senya` | angelina | Сеня |
-| `fedya` | anja | Федя |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 1 — Intro
-
-> At the pass window of Claude Monet, line cooks Senya and Fedya watch in shock as bartender Kostya confronts the arrogant restaurant critic. Defending Nastya from further insults, Kostya delivers an unforgettable drink to the rude patron. Let's listen to the cooks' amazed reaction in Russian.
-
-## Part 2 — Story
-
-| # | Speaker | Line | English | Source cue(s) | Change |
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 0 | Сеня | Ты видел, что сейчас произошло в зале? | Did you see what just happened in the hall? | *(added)* |  |
-| 1 | Федя | Наш бармен смело подошёл к столику критика. | Our bartender boldly stepped up to the critic's table. | *(added)* |  |
-| 2 | Сеня | Этот критик опять грубо обижал нашу Настю. | This critic was rudely insulting our Nastya again. | *(added)* |  |
-| 3 | Федя | Костя не стал терпеть такое наглое поведение. | Kostya did not start tolerating such insolent behavior. | *(added)* |  |
-| 4 | Сеня | Что, гость заказал напиток из бара сейчас? | What, did the guest order a drink from the bar now? | #311 "что-то из вары заказал?" |  |
-| 5 | Федя | Точно, он получил заказ по полной программе! | Exactly, he received an order to the fullest program! | #311 "Точно, по полной заказал." |  |
-| 6 | Сеня | Костя вылил стакан прямо на его костюм! | Kostya poured a glass right onto his suit! | *(added)* |  |
-| 7 | Федя | Наш тихий бармен оказался настоящим храбрым героем. | Our quiet bartender turned out to be a real brave hero. | *(added)* |  |
-| 8 | Сеня | Теперь этот важный критик весь мокрый сидит. | Now this important critic sits completely wet. | *(added)* |  |
-| 9 | Федя | Но шеф будет ужасно зол из-за скандала. | But the chef will be terribly angry because of the scandal. | *(added)* |  |
-| 10 | Сеня | Виктория уже быстро бежит в обеденный зал. | Victoria is already quickly running into the dining hall. | *(added)* |  |
-| 11 | Федя | Косте сейчас точно грозит очень быстрое увольнение. | A very swift dismissal definitely threatens Kostya right now. | *(added)* |  |
-| 12 | Сеня | Зато он храбро защитил свою любимую девушку! | At least he courageously protected his beloved girl! | *(added)* |  |
+| 1 | Сеня | Ты видел, что сейчас произошло в зале? | Did you see what just happened in the hall? | new | new |
+| 2 | Федя | Наш бармен смело подошёл к столику критика. | Our bartender boldly stepped up to the critic's table. | new | new |
+| 3 | Сеня | Этот критик опять грубо обижал нашу Настю. | This critic was rudely insulting our Nastya again. | new | new |
+| 4 | Федя | Костя не стал терпеть такое наглое поведение. | Kostya did not start tolerating such insolent behavior. | new | new |
+| 5 | Сеня | Что, гость заказал напиток из бара сейчас? | What, did the guest order a drink from the bar now? | #311: что-то из вары заказал? | verbatim |
+| 6 | Федя | Точно, он получил заказ по полной программе! | Exactly, he received an order to the fullest program! | #311: Точно, по полной заказал. | verbatim |
+| 7 | Сеня | Костя вылил стакан прямо на его костюм! | Kostya poured a glass right onto his suit! | new | new |
+| 8 | Федя | Наш тихий бармен оказался настоящим храбрым героем. | Our quiet bartender turned out to be a real brave hero. | new | new |
+| 9 | Сеня | Теперь этот важный критик весь мокрый сидит. | Now this important critic sits completely wet. | new | new |
+| 10 | Федя | Но шеф будет ужасно зол из-за скандала. | But the chef will be terribly angry because of the scandal. | new | new |
+| 11 | Сеня | Виктория уже быстро бежит в обеденный зал. | Victoria is already quickly running into the dining hall. | new | new |
+| 12 | Федя | Косте сейчас точно грозит очень быстрое увольнение. | A very swift dismissal definitely threatens Kostya right now. | new | new |
+| 13 | Сеня | Зато он храбро защитил свою любимую девушку! | At least he courageously protected his beloved girl! | new | new |
 
-## Part 5 — Outro & closing
+## Walk-through narration (English only, no target-language words quoted)
 
-> Although Kostya faces certain termination for soaking the critic, the kitchen crew respects him deeply for defending Nastya. Great work practicing conversational Russian! Next time you watch the episode, listen for the Russian expressions for 'bartender' and 'to run' — you will catch every word right away. See you next time!
-
-**Сеня:** Пока!
+- 'Did you see what just happened in the hall?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'Our bartender boldly stepped up to the critic' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'This critic was rudely insulting our Nastya again.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'Kostya did not start tolerating such insolent behavior.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'What, did the guest order a drink from the bar now?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'Exactly, he received an order to the fullest program!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'Kostya poured a glass right onto his suit!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'Our quiet bartender turned out to be a real brave hero.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'Now this important critic sits completely wet.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
+- 'But the chef will be terribly angry because of the scandal.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'Victoria is already quickly running into the dining hall.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'A very swift dismissal definitely threatens Kostya right now.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'At least he courageously protected his beloved girl!' Contrastive conjunction with subject word, manner adverb, past verb, and matching form everyday-adjective-noun phrase.

@@ -4,18 +4,17 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 20
 SCENE = 2
-TITLE = "Лестница к солнцу  (Stairway to the Sun)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Лестница к солнцу  (Stairway to the Sun)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "nastya": "angelina", "kostya": "anja"}
-LABELS = {"nastya": "Настя", "kostya": "Костя"}
+LABELS = {'kostya': 'Костя', 'nastya': 'Настя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.20'
 SOURCE_FILE = 'sources/kukhnya/s01/e20.ru.dual.srt'
 INTRO = "Nastya and Kostya discuss their relationship. Nastya uses a poetic metaphor about a staircase, which leaves Kostya slightly confused. Let's listen closely to their exchange in Russian first, and then walk through each line together."
 OPENER = "Now let's go back through the exchange around Stairway to the Sun line by line and unpack how the Russian works."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Kostya politely agrees with Nastya's romantic philosophy, even though he does not fully grasp its implications. Next time you watch the episode, listen for the Russian expressions for 'well' and 'together' — you will catch every word right away. See you next time!"
-CLOSING = ("kostya", "Пока!")
+CLOSING = ('kostya', 'Пока!')
 STORY = [
     ('nastya', 'Костя, нам же хорошо вместе?', 'Kostya, we are good together, right?', [(54, 'нам же хорошо вместе')], ''),
     ('kostya', 'Ну да, конечно хорошо.', 'Well yes, of course it is good.', [(55, 'Ну да')], ''),

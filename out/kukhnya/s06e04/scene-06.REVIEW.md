@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Никита | Денис, можно тебя на минутку? | Denis, may I have a word with you for a minute? | #90 00:06:05: Денис, можно тебя на минутку? | adapted: exact |
-| 2 | Никита | Ты на работе, поэтому займи свое рабочее место. | You are at work, so take your workstation. | #91 00:06:08: ты на работе, поэтому, пожалуйста, займи свое рабочее место | adapted: adapted |
-| 3 | Никита | Мой начальник — Михаил Джекович. | My boss is Mikhail Dzhekovich. | #92 00:06:14: Мой начальник Михаил Джекович | adapted: exact |
-| 4 | Никита | Поэтому убери руку, пожалуйста. | So take your hand off me, please. | #93 00:06:16: Поэтому убери руку, пожалуйста | adapted: exact |
-| 5 | Никита | Да, но и со мной портить отношения не стоит. | Yes, but it is not worth ruining relations with me either. | #95 00:06:21: Но и со мной портить отношения не стоит | adapted: adapted |
-| 6 | Никита | Ты хочешь занять место управляющего? | Do you want to take the manager's place? | #97 00:06:26: на место управляющего? | adapted: adapted |
-| 7 | Никита | Ну а почему бы и нет? | Well and why not? | #98 00:06:28: Ну, а почему бы и нет? | adapted: exact |
-| 8 | Никита | Джекович уже старый, теряет хватку. | Dzhekovich is already old, he is losing his grip. | #99 00:06:30: Джекович уже старый, теряет хватку | adapted: exact |
-| 9 | Никита | Во-первых, не старый, а опытный. | First of all, not old, but experienced. | #100 00:06:33: во-первых, не старый, а опытный | adapted: adapted |
-| 10 | Никита | А во-вторых, хватку иногда надо ослабить. | And secondly, sometimes you need to loosen your grip. | #101 00:06:37: Во-вторых, хватку иногда надо ослабить | adapted: exact |
-| 11 | Никита | Извините, что прервал вашу беседу, хорошего дня. | Sorry to interrupt your conversation, have a good day. | #102 00:06:44: Извините, что прервал вашу беседу<br>#103 00:06:46: Хорошего дня | adapted: adapted |
-| 12 | Никита | Ты специально меня подставил? | Did you set me up on purpose? | #104 00:06:50: специально меня подставил? | adapted: adapted |
+| 1 | Никита | Денис, можно тебя на минутку? | Denis, may I have a word with you for a minute? | #90: Денис, можно тебя на минутку? | adapted: exact |
+| 2 | Никита | Ты на работе, поэтому займи свое рабочее место. | You are at work, so take your workstation. | #91: ты на работе, поэтому, пожалуйста, займи свое рабочее место | adapted: adapted |
+| 3 | Денис | Мой начальник — Михаил Джекович. | My boss is Mikhail Dzhekovich. | #92: Мой начальник Михаил Джекович | adapted: exact |
+| 4 | Денис | Поэтому убери руку, пожалуйста. | So take your hand off me, please. | #93: Поэтому убери руку, пожалуйста | adapted: exact |
+| 5 | Никита | Да, но и со мной портить отношения не стоит. | Yes, but it is not worth ruining relations with me either. | #95: Но и со мной портить отношения не стоит | adapted: adapted |
+| 6 | Денис | Ты хочешь занять место управляющего? | Do you want to take the manager's place? | #97: на место управляющего? | adapted: adapted |
+| 7 | Никита | Ну а почему бы и нет? | Well and why not? | #98: Ну, а почему бы и нет? | adapted: exact |
+| 8 | Никита | Джекович уже старый, теряет хватку. | Dzhekovich is already old, he is losing his grip. | #99: Джекович уже старый, теряет хватку | adapted: exact |
+| 9 | Михаил | Во-первых, не старый, а опытный. | First of all, not old, but experienced. | #100: во-первых, не старый, а опытный | adapted: adapted |
+| 10 | Михаил | А во-вторых, хватку иногда надо ослабить. | And secondly, sometimes you need to loosen your grip. | #101: Во-вторых, хватку иногда надо ослабить | adapted: exact |
+| 11 | Михаил | Извините, что прервал вашу беседу, хорошего дня. | Sorry to interrupt your conversation, have a good day. | #102: Извините, что прервал вашу беседу<br>#103: Хорошего дня | adapted: adapted |
+| 12 | Никита | Ты специально меня подставил? | Did you set me up on purpose? | #104: специально меня подставил? | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Denis, may I have a word with you for a minute?' In Russian, the idea of 'Denis' flows naturally into 'a minute' without extra filler words.
-- 'You are at work, so take your workstation.' Here the Russian phrasing highlights 'you' before landing on 'place'.
-- 'My boss is Mikhail Dzhekovich.' In Russian, the idea of 'my' flows naturally into 'Mikhail' without extra filler words.
-- 'So take your hand off me, please.' Spoken Russian keeps this brisk, leaning on 'therefore' and finishing on 'please'. Nikita answers right away.
-- 'Yes, but it is not worth ruining relations with me either.' Nikita brings out the contrast between 'yes' and 'but' in a few short words.
-- 'Do you want to take the manager's place?' Spoken Russian keeps this brisk, leaning on 'you' and finishing on 'manager'.
-- 'Well and why not?' Spoken Russian keeps this brisk, leaning on 'come on' and finishing on 'no'.
-- 'Dzhekovich is already old, he is losing his grip.' Nikita anchors the line on 'already', while 'grip' completes the thought.
-- 'First of all, not old, but experienced.' The grammar packs 'first of all' and 'experienced' into a tight, idiomatic kitchen exchange.
-- 'And secondly, sometimes you need to loosen your grip.' The meaning hinges on 'and' working together with 'to loosen' in spoken Russian.
-- 'Sorry to interrupt your conversation, have a good day.' Here the Russian phrasing highlights 'excuse me' before landing on 'day'.
-- 'Did you set me up on purpose?' In spoken Russian, the words stay in their normal statement order and Nikita's rising voice at the end turns the line into a question.
+- 'Denis, may I have a word with you for a minute?' Questioning whether may he has a word with Denis for a minute is how Nikita tests Denis's story. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
+- 'You are at work, so take your workstation.' Since Denis is at work so take Denis's workstation, Nikita does not waste words on excuses.
+- 'My boss is Mikhail Dzhekovich.' Mentioning that his boss is Mikhail Dzhekovich moves the talk in a new direction. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'So take your hand off me, please.' Realizing that Mikhail should take Mikhail's hand off him please changes how Denis handles the situation.
+- 'Yes, but it is not worth ruining relations with me either.' Because it is not worth ruining relations with him either, Nikita treats the matter as settled.
+- 'Do you want to take the manager's place?' Checking whether Mikhail wants to take the manager place cuts straight through the tension between Denis and Mikhail. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Well and why not?' Over the work and the job, Nikita presses Denis for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Dzhekovich is already old, he is losing his grip.' Claiming that Dzhekovich is already old he is losing his grip sounds confident, even if Denis has doubts.
+- 'First of all, not old, but experienced.' With the plan and job in play, Mikhail keeps this short reply brisk and direct.
+- 'And secondly, sometimes you need to loosen your grip.' Mikhail explains that secondly sometimes Denis needs to loosen Denis's grip, keeping his voice calm and direct. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
+- 'Sorry to interrupt your conversation, have a good day.' Realizing that to interrupt Denis's conversation have a good day changes how Mikhail handles the situation.
+- 'Did you set me up on purpose?' Here checking whether Denis sets him up on purpose shows Nikita looking for the real truth. Speaking with the close, informal "you" strips away any polite distance between them.

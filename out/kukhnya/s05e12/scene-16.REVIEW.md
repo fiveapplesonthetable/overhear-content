@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Елена | Только вы Виктору Петровичу не говорите! | Only do not tell Viktor Petrovich! | #258 00:17:18: Только вы Виктору Петровичу не говорите | adapted: adapted |
-| 2 | Елена | Елена Павловна? | Elena Pavlovna? | #259 00:17:29: Елена Павловна | adapted: adapted |
-| 3 | Елена | Да. | Yes. | #259 00:17:29: Да | adapted: adapted |
-| 4 | Елена | Позвольте проводить вас на торжество. | Allow me to escort you to the celebration. | #260 00:17:31: Позвольте проводить вас на торжество | adapted: adapted |
-| 5 | Елена | Позволяю! | I allow it! | #261 00:17:34: Позволяю | adapted: adapted |
-| 6 | Елена | Снимайте халат, ложитесь на бок. | Take off your robe, lie down on your side. | #262 00:17:47: Снимайте халат, ложитесь на бок | adapted: adapted |
-| 7 | Шеф | Лена, с днём рождения! | Lena, happy birthday! | #263 00:18:01: Лен, с днём рождения | adapted: adapted |
-| 8 | Елена | Спасибо. | Thank you. | #264 00:18:03: Спасибо | adapted: adapted |
-| 9 | Шеф | Ты удивительная, красивая и очень умная. | You are amazing, beautiful, and very smart. | #264 00:18:03: Ты удивительная, красивая и очень умная | adapted: adapted |
-| 10 | Шеф | И благодаря твоему доброму сердцу мы снова вместе. | And thanks to your kind heart we are together again. | #265 00:18:07: И благодаря твоему доброму сердцу мы снова вместе | adapted: adapted |
-| 11 | Шеф | И я обещаю больше никогда не делать глупых ошибок. | And I promise never to make foolish mistakes again. | #266 00:18:12: И я обещаю больше никогда не делать глупых ошибок | adapted: adapted |
-| 12 | Елена | Спасибо тебе, Витя. | Thank you, Vitya. | #264 00:18:03: Спасибо | adapted: adapted |
+| 1 | Елена | Только вы Виктору Петровичу не говорите! | Only do not tell Viktor Petrovich! | #258: Только вы Виктору Петровичу не говорите | adapted: adapted |
+| 2 | Лёва | Елена Павловна? | Elena Pavlovna? | #259: Елена Павловна | adapted: adapted |
+| 3 | Елена | Да. | Yes. | #259: Да | adapted: adapted |
+| 4 | Лёва | Позвольте проводить вас на торжество. | Allow me to escort you to the celebration. | #260: Позвольте проводить вас на торжество | adapted: adapted |
+| 5 | Елена | Позволяю! | I allow it! | #261: Позволяю | adapted: adapted |
+| 6 | Лёва | Снимайте халат, ложитесь на бок. | Take off your robe, lie down on your side. | #262: Снимайте халат, ложитесь на бок | adapted: adapted |
+| 7 | Шеф | Лена, с днём рождения! | Lena, happy birthday! | #263: Лен, с днём рождения | adapted: adapted |
+| 8 | Елена | Спасибо. | Thank you. | #264: Спасибо | adapted: adapted |
+| 9 | Шеф | Ты удивительная, красивая и очень умная. | You are amazing, beautiful, and very smart. | #264: Ты удивительная, красивая и очень умная | adapted: adapted |
+| 10 | Шеф | И благодаря твоему доброму сердцу мы снова вместе. | And thanks to your kind heart we are together again. | #265: И благодаря твоему доброму сердцу мы снова вместе | adapted: adapted |
+| 11 | Шеф | И я обещаю больше никогда не делать глупых ошибок. | And I promise never to make foolish mistakes again. | #266: И я обещаю больше никогда не делать глупых ошибок | adapted: adapted |
+| 12 | Елена | Спасибо тебе, Витя. | Thank you, Vitya. | #264: Спасибо | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Only do not tell Viktor Petrovich!' Spoken Russian keeps this brisk, leaning on 'only' and finishing on 'speak'.
-- 'Elena Pavlovna?' The grammar packs 'Elena' and 'proper name' into a tight, idiomatic kitchen exchange.
-- 'Yes.' Notice how Russian expresses 'yes' and 'yes' with crisp inflection rather than helper words. Lyova answers right away.
-- 'Allow me to escort you to the celebration.' Here the Russian phrasing highlights 'to allow' before landing on 'celebration'.
-- 'I allow it!' The meaning hinges on 'allow' working together with 'allow' in spoken Russian.
-- 'Take off your robe, lie down on your side.' Notice how Russian puts 'to take off; to film; to rent' and 'side' together in a short, direct phrase where word endings show how the ideas connect.
-- 'Lena, happy birthday!' The grammar packs 'Lena' and 'birthday' into a tight, idiomatic kitchen exchange.
-- 'Thank you.' The meaning hinges on 'thank you' working together with 'thank you' in spoken Russian.
-- 'You are amazing, beautiful, and very smart.' Spoken Russian keeps this brisk, leaning on 'you' and finishing on 'smart'.
-- 'And thanks to your kind heart we are together again.' Spoken Russian keeps this brisk, leaning on 'and' and finishing on 'together'.
-- 'And I promise never to make foolish mistakes again.' Here Chef Barinov anchors the thought on 'promise' and finishes on 'mistakes', keeping the spoken rhythm brisk and natural.
-- 'Thank you, Vitya.' Notice how Russian expresses 'thank you' and 'proper name' with crisp inflection rather than helper words.
+- 'Only do not tell Viktor Petrovich!' Declaring that only do not tell Viktor Petrovich brings Elena's temper right to the surface.
+- 'Elena Pavlovna?' With the work and table hanging in the air, Lyova puts Barinov on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Yes.' With the table and plan in play, Elena keeps this short reply brisk and direct.
+- 'Allow me to escort you to the celebration.' Lyova explains that Barinov should allow him to escort Barinov to the celebration, keeping his voice calm and direct.
+- 'I allow it!' By allowing it, Elena raises the stakes in the room at once. Russian puts the key word right up front so her emotion lands on the first beat.
+- 'Take off your robe, lie down on your side.' Realizing that Barinov should take off Barinov's robe lie down on Barinov's side changes how Lyova handles the situation.
+- 'Lena, happy birthday!' Between the point and the table, Barinov delivers a sharp reaction.
+- 'Thank you.' Adding that Barinov should thank Barinov fills in the missing piece for Barinov.
+- 'You are amazing, beautiful, and very smart.' Explaining that Elena is amazing beautiful and very smart lays the cards on the table for Elena. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'And thanks to your kind heart we are together again.' Barinov mentions that to Elena's kind heart they are together again so Elena sees what is at stake.
+- 'And I promise never to make foolish mistakes again.' Promising never to make foolish mistakes again is how Barinov lays out the situation for Elena. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
+- 'Thank you, Vitya.' Between the truth and the table, Elena gives Barinov a quick, grounded response. Speaking with the close, informal "you" strips away any polite distance between them.

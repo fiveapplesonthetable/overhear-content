@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Даня | Привет, Нина! Это красивые цветы тебе. | Hello, Nina! These beautiful flowers are for you. | #643 00:35:15: Привет<br>#645 00:35:17: Это мне | adapted: adapted cues 643 and 645 |
-| 2 | Нина | Ой, спасибо! Они очень приятно пахнут. | Oh, thank you! They smell very nice. | #646 00:35:20: Спасибо<br>#647 00:35:21: ой, как пахнут вкусно | adapted: adapted cues 646-647 |
-| 3 | Даня | Они тебе очень идут. | They suit you very well. | #648 00:35:25: Мне идет, да? | adapted: turned into statement |
-| 4 | Даня | Давай сфотографируемся на фоне дома! | Let's take a photo in front of the house! | #650 00:35:28: На фоне дома сфоткаемся | adapted: expanded cue 650 |
-| 5 | Даня | Ты же любишь красивые фотографии? | You like beautiful photos, don't you? | #651 00:35:29: Ну, ты же любишь фотографировать, да? | adapted: adapted cue 651 |
-| 6 | Даня | Мы наберём много лайков в интернете. | We will gather many likes on the internet. | #653 00:35:32: Лайков наберем | adapted: added в интернете |
+| 1 | Даня | Привет, Нина! Это красивые цветы тебе. | Hello, Nina! These beautiful flowers are for you. | #643: Привет<br>#645: Это мне | adapted: adapted cues 643 and 645 |
+| 2 | Нина | Ой, спасибо! Они очень приятно пахнут. | Oh, thank you! They smell very nice. | #646: Спасибо<br>#647: ой, как пахнут вкусно | adapted: adapted cues 646-647 |
+| 3 | Даня | Они тебе очень идут. | They suit you very well. | #648: Мне идет, да? | adapted: turned into statement |
+| 4 | Даня | Давай сфотографируемся на фоне дома! | Let's take a photo in front of the house! | #650: На фоне дома сфоткаемся | adapted: expanded cue 650 |
+| 5 | Даня | Ты же любишь красивые фотографии? | You like beautiful photos, don't you? | #651: Ну, ты же любишь фотографировать, да? | adapted: adapted cue 651 |
+| 6 | Даня | Мы наберём много лайков в интернете. | We will gather many likes on the internet. | #653: Лайков наберем | adapted: added в интернете |
 | 7 | Нина | Подожди. Зачем ты это делаешь? | Wait. Why are you doing this? | new | new: suspicious pause |
-| 8 | Даня | Ты чего? Что случилось? | What is wrong with you? What happened? | #656 00:35:37: Ты чего? | adapted: added Что случилось? |
-| 9 | Нина | Ты разрушил мою семью своими фотографиями! | You destroyed my family with your photos! | #658 00:35:39: своим дебильным инстаграмом<br>#659 00:35:41: мне семью разрушил | adapted: cleaned cue 658 |
-| 10 | Нина | Муж увидел твой глупый снимок. | My husband saw your foolish snapshot. | #660 00:35:42: Тебя кто-то просил? | adapted: explanatory line |
-| 11 | Даня | Я просто хотел похвастаться. | I simply wanted to show off. | #661 00:35:44: похвастаться хотел | adapted: added Я просто |
-| 12 | Нина | Между нами ничего не будет! | There will never be anything between us! | #663 00:35:48: Между нами ничего нет, не было и не будет | adapted: shortened cue 663 |
-| 13 | Нина | Уходи отсюда, я не хочу тебя видеть. | Get out of here, I do not want to see you. | #664 00:35:50: Я тебя видеть не хочу<br>#665 00:35:53: Дрись мне отсюда | adapted: cleaned cues 664-665 |
+| 8 | Даня | Ты чего? Что случилось? | What is wrong with you? What happened? | #656: Ты чего? | adapted: added Что случилось? |
+| 9 | Нина | Ты разрушил мою семью своими фотографиями! | You destroyed my family with your photos! | #658: своим дебильным инстаграмом<br>#659: мне семью разрушил | adapted: cleaned cue 658 |
+| 10 | Нина | Муж увидел твой глупый снимок. | My husband saw your foolish snapshot. | #660: Тебя кто-то просил? | adapted: explanatory line |
+| 11 | Даня | Я просто хотел похвастаться. | I simply wanted to show off. | #661: похвастаться хотел | adapted: added Я просто |
+| 12 | Нина | Между нами ничего не будет! | There will never be anything between us! | #663: Между нами ничего нет, не было и не будет | adapted: shortened cue 663 |
+| 13 | Нина | Уходи отсюда, я не хочу тебя видеть. | Get out of here, I do not want to see you. | #664: Я тебя видеть не хочу<br>#665: Дрись мне отсюда | adapted: cleaned cues 664-665 |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

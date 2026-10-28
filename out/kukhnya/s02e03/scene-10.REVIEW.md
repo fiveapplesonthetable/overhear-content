@@ -1,39 +1,39 @@
-# Без машины  (Without a Car) — `kukhnya-s02e03-scene-10`
+# kukhnya-s02e03-scene-10: review sheet
 
-**Source:** Кухня (Kukhnya) S2.03 · `sources/kukhnya/s02/e03.ru.dual.srt`  
-**Target level:** A1 — Duolingo Section 2
+Title: Без машины  (Without a Car)
+Level: A1 — Duolingo Section 2
+Pair: ru-en
+Source: Кухня (Kukhnya) S2.03
 
-## Cast
 
-| Role | Voice | Label |
-|---|---|---|
-| `narrator` | sky | — |
-| `sasha` | anja | Саша |
-| `anya` | alisa | Макс |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 1 — Intro
-
-> Max and Sasha are relaxing together after work. They are joking around, but then Sasha asks Max how he plans to get home without his car. Let's listen closely to their conversation in Russian first, and then walk through each line together.
-
-## Part 2 — Story
-
-| # | Speaker | Line | English | Source cue(s) | Change |
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 0 | Макс | Хорошо с тобой. | I feel good with you. | #174 "Хорошо с тобой" |  |
-| 1 | Саша | Мне тоже хорошо. | I feel good too. | #175 "Мне тоже хорошо" |  |
-| 2 | Саша | Особенно когда ты без одежды. | Especially when you are without clothes. | #175 "Особенно голота без одежды" |  |
-| 3 | Макс | Ты очень смешная. | You are very funny. | *(added)* |  |
-| 4 | Саша | Я серьезно. | I am serious. | *(added)* |  |
-| 5 | Макс | Я знаю. | I know. | *(added)* |  |
-| 6 | Саша | Тебе вызвать такси? | Should I call you a taxi? | #177 "Может, тебе такси вызвать" |  |
-| 7 | Макс | Зачем? | Why? | #178 "Чего" |  |
-| 8 | Саша | Ты сегодня без машины. | You are without a car today. | #179 "ты ж сегодня без машины" |  |
-| 9 | Саша | Как ты будешь добираться домой? | How will you get home? | #180 "Как тогда дома добираться будешь" |  |
-| 10 | Макс | Я поеду на метро. | I will go by subway. | *(added)* |  |
-| 11 | Саша | Метро уже закрыто. | The subway is already closed. | *(added)* |  |
+| 1 | Макс | Хорошо с тобой. | I feel good with you. | #174: Хорошо с тобой | verbatim |
+| 2 | Саша | Мне тоже хорошо. | I feel good too. | #175: Мне тоже хорошо | verbatim |
+| 3 | Саша | Особенно когда ты без одежды. | Especially when you are without clothes. | #175: Особенно голота без одежды | verbatim |
+| 4 | Макс | Ты очень смешная. | You are very funny. | new | new |
+| 5 | Саша | Я серьезно. | I am serious. | new | new |
+| 6 | Макс | Я знаю. | I know. | new | new |
+| 7 | Саша | Тебе вызвать такси? | Should I call you a taxi? | #177: Может, тебе такси вызвать | verbatim |
+| 8 | Макс | Зачем? | Why? | #178: Чего | verbatim |
+| 9 | Саша | Ты сегодня без машины. | You are without a car today. | #179: ты ж сегодня без машины | verbatim |
+| 10 | Саша | Как ты будешь добираться домой? | How will you get home? | #180: Как тогда дома добираться будешь | verbatim |
+| 11 | Макс | Я поеду на метро. | I will go by subway. | new | new |
+| 12 | Саша | Метро уже закрыто. | The subway is already closed. | new | new |
 
-## Part 5 — Outro & closing
+## Walk-through narration (English only, no target-language words quoted)
 
-> And that's it for this scene. When you watch the episode, listen out for the exchange around without a car, and for the words meaning 'clothes' and 'funny'. You'll catch them now. See you next time.
-
-**Макс:** До встречи!
+- 'I feel good with you.' The first content word means 'good', and 'you' rounds out the thought.
+- 'I feel good too.' Notice the word order: 'to me' comes first, and 'good' finishes the sentence.
+- 'Especially when you are without clothes.' In Russian, 'especially' leads into 'clothes' in a very natural everyday phrasing.
+- 'You are very funny.' You'll hear 'you' all the time in the show, here connected with 'funny'.
+- 'I am serious.' The key word here means 'I', which Sasha combines with 'seriously'. Then Max replies.
+- 'I know.' The key word here means 'I', which Max combines with 'know'.
+- 'Should I call you a taxi?' Notice the word order: 'for you' comes first, and 'taxi' finishes the sentence.
+- 'Why?' In Russian, 'what for' leads into 'what for' in a very natural everyday phrasing. And Sasha jumps in.
+- 'You are without a car today.' Sasha puts 'you' up front so the listener immediately catches the tone, followed by 'today'.
+- 'How will you get home?' Sasha starts with 'how' and pairs it with 'you' to make the point clear.
+- 'I will go by subway.' The first content word means 'I', and 'metro' rounds out the thought. Sasha answers straight away.
+- 'The subway is already closed.' A compact expression built around 'metro' and 'to close'. Let's hear it again.

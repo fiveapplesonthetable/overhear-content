@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Катя | Знакомьтесь, это мой будущий муж Арсений. | Meet my future husband Arseny. | #85 00:05:41: Знакомьтесь, это мой будущий муж Арсений | verbatim |
-| 2 | Катя | А это мой будущий муж Луи. | And this is my future husband Louis. | #87 00:06:00: Знакомьтесь, это мой будущий муж Луи | adapted: adapted |
-| 3 | Денис | Ой, мне тоже очень приятно. | Oh, it is very nice for me too. | #88 00:06:03: очень приятно | adapted: adapted |
+| 1 | Катя | Знакомьтесь, это мой будущий муж Арсений. | Meet my future husband Arseny. | #85: Знакомьтесь, это мой будущий муж Арсений | verbatim |
+| 2 | Катя | А это мой будущий муж Луи. | And this is my future husband Louis. | #87: Знакомьтесь, это мой будущий муж Луи | adapted: adapted |
+| 3 | Денис | Ой, мне тоже очень приятно. | Oh, it is very nice for me too. | #88: очень приятно | adapted: adapted |
 | 4 | Катя | Нет, эти варианты совсем не подходят. | No, these options do not suit at all. | new | new: new |
-| 5 | Катя | Денис, будешь моим женихом? | Denis, will you be my fiancé? | #89 00:06:13: Денис, будешь моим женихом | verbatim |
+| 5 | Катя | Денис, будешь моим женихом? | Denis, will you be my fiancé? | #89: Денис, будешь моим женихом | verbatim |
 | 6 | Денис | Что ты сейчас мне сказала? | What did you just say to me? | new | new: new |
-| 7 | Катя | Я так понимаю, это значит да? | I take it that means yes? | #90 00:06:18: Ну, я так понимаю, это да | adapted: adapted |
-| 8 | Денис | Ну, а что вы хотите сыграть? | Well, and what do you want to play? | #92 00:06:29: Ну, а что вы хотите сыграть | verbatim |
-| 9 | Катя | Ну, не знаю, придумай что-нибудь. | Well, I do not know, think of something. | #93 00:06:32: Ну, не знаю | adapted: adapted |
-| 10 | Катя | Нужна очень красивая и страстная музыка. | We need very beautiful and passionate music. | new | new: new |
-| 11 | Катя | Чтобы она сразу захотела меня. | So that she wants me right away. | #95 00:06:38: Захотела меня | adapted: adapted |
+| 7 | Катя | Я так понимаю, это значит да? | I take it that means yes? | #90: Ну, я так понимаю, это да | adapted: adapted |
+| 8 | Денис | Ну, а что вы хотите сыграть? | Well, and what do you want to play? | #92: Ну, а что вы хотите сыграть | verbatim |
+| 9 | Нагиев | Ну, не знаю, придумай что-нибудь. | Well, I do not know, think of something. | #93: Ну, не знаю | adapted: adapted |
+| 10 | Нагиев | Нужна очень красивая и страстная музыка. | We need very beautiful and passionate music. | new | new: new |
+| 11 | Нагиев | Чтобы она сразу захотела меня. | So that she wants me right away. | #95: Захотела меня | adapted: adapted |
 | 12 | Денис | Понял, тогда начнём с простой мелодии. | Got it, then let's start with a simple melody. | new | new: new |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Meet my future husband Arseny.' In everyday Russian, 'meet' flows straight into 'husband' without extra linking words.
-- 'And this is my future husband Louis.' She imagines introducing the French pastry chef with an adjective meaning future.
-- 'Oh, it is very nice for me too.' In her imagination, Louis replies with an overly enthusiastic greeting.
-- 'No, these options do not suit at all.' Katya rejects both ideas using a third-person plural verb meaning to suit or fit.
-- 'Denis, will you be my fiancé?' In spoken Russian, the words stay in their normal statement order and Katya's rising voice at the end turns the line into a question.
-- 'What did you just say to me?' Denis blinks in surprise, asking her to repeat with a feminine past-tense verb.
-- 'I take it that means yes?' Katya interprets his stunned silence as agreement using a parenthetical phrase meaning 'as I understand it'.
-- 'Well, and what do you want to play?' Back at the piano, Denis asks Nagiyev to choose a repertoire piece.
-- 'Well, I do not know, think of something.' Putting the short word for 'not' right in front of the action word is all Russian needs to make a sentence negative, with no extra helper words like 'do' or 'did'.
-- 'We need very beautiful and passionate music.' A feminine short-form adjective of necessity agrees in gender with the subject noun for music.
-- 'So that she wants me right away.' A purpose conjunction takes a past-tense verb form in Russian to express a desired result.
-- 'Got it, then let's start with a simple melody.' Denis suggests starting simply using a first-person plural future verb as an invitation.
+- 'Meet my future husband Arseny.' Because Denis should meet her future husband, Katya treats the matter as settled.
+- 'And this is my future husband Louis.' Claiming that this is her future husband Louis sounds confident, even if Denis has doubts. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'Oh, it is very nice for me too.' Pointing out that it is very nice for him gives Katya a sobering reality check.
+- 'No, these options do not suit at all.' Katya explains that these options do not suit at all, keeping her voice calm and direct.
+- 'Denis, will you be my fiancé?' Asking whether Denis is is how Katya puts Denis on the spot. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'What did you just say to me?' Wondering what Katya just say to him is how Denis puts Katya on the spot. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'I take it that means yes?' Taking it that means yes is how Katya puts Denis on the spot.
+- 'Well, and what do you want to play?' Asking what Katya wants to play cuts straight through the tension between Denis and Katya. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
+- 'Well, I do not know, think of something.' Because he does not know think of something, Nagiyev treats the matter as settled.
+- 'We need very beautiful and passionate music.' Here needing very beautiful and passionate music sets up the next turn in their exchange.
+- 'So that she wants me right away.' Adding that that she wants him right away fills in the missing piece for Denis.
+- 'Got it, then let's start with a simple melody.' Denis tells Katya that got it then let them start with a simple melody without dressing it up.

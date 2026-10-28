@@ -10,20 +10,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Самсон | И всё одно к одному. | And everything piles on at once. | #847 00:47:28: И все одно к одному. | adapted: original cue |
-| 2 | Самсон | Эта дурацкая рыба — как плохой знак. | This foolish fish is like a bad sign. | #848 00:47:30: Это рыба еще как знак. | adapted: adapted cue |
-| 3 | Нина | Знаешь, ты тоже хорош. | You know, you are being difficult too. | #850 00:47:33: Знаешь, ну ты тоже хорошо. | adapted: adapted cue |
-| 4 | Нина | Что я такого плохого сделала? | What did I do that was so bad? | #851 00:47:35: Ты чего я такого сделал-то? | adapted: adapted cue |
-| 5 | Нина | Я просто пошла на обычный концерт. | I simply went to an ordinary concert. | #852 00:47:36: Я просто пошла на концерт. | adapted: adapted cue |
-| 6 | Самсон | Я тебя вообще в последнее время не узнаю. | I do not recognize you at all lately. | #855 00:47:41: Слушай, я тебя вообще в последнее время не узнаю. | adapted: adapted cue |
-| 7 | Самсон | Раньше ты была спокойная и смеялась. | Before you were calm and laughed. | #857 00:47:44: была нормальная спокойная смеялась | adapted: cleaned cue |
-| 8 | Самсон | А сейчас ты завела себе молодого кавалера! | And now you got yourself a young suitor! | #858 00:47:55: кавалер себе какого-то завела | adapted: adapted cue |
+| 1 | Самсон | И всё одно к одному. | And everything piles on at once. | #847: И все одно к одному. | adapted: original cue |
+| 2 | Самсон | Эта дурацкая рыба — как плохой знак. | This foolish fish is like a bad sign. | #848: Это рыба еще как знак. | adapted: adapted cue |
+| 3 | Нина | Знаешь, ты тоже хорош. | You know, you are being difficult too. | #850: Знаешь, ну ты тоже хорошо. | adapted: adapted cue |
+| 4 | Нина | Что я такого плохого сделала? | What did I do that was so bad? | #851: Ты чего я такого сделал-то? | adapted: adapted cue |
+| 5 | Нина | Я просто пошла на обычный концерт. | I simply went to an ordinary concert. | #852: Я просто пошла на концерт. | adapted: adapted cue |
+| 6 | Самсон | Я тебя вообще в последнее время не узнаю. | I do not recognize you at all lately. | #855: Слушай, я тебя вообще в последнее время не узнаю. | adapted: adapted cue |
+| 7 | Самсон | Раньше ты была спокойная и смеялась. | Before you were calm and laughed. | #857: была нормальная спокойная смеялась | adapted: cleaned cue |
+| 8 | Самсон | А сейчас ты завела себе молодого кавалера! | And now you got yourself a young suitor! | #858: кавалер себе какого-то завела | adapted: adapted cue |
 | 9 | Нина | Ваня, постой, между нами ничего нет! | Vanya, wait, there is nothing between us! | new | new: added plea |
-| 10 | Нина | Ты Самсонову рассказала про ребёнка? | Did you tell Samsonov about the baby? | #893 00:50:01: Ты Самсонову рассказала? | adapted: expanded cue |
-| 11 | Нина | Нет, я ничего ему не сказала. | No, I did not tell him anything. | #894 00:50:15: Нет. | adapted: expanded cue |
-| 12 | Нина | Куда нам с ним третьего ребёнка? | Where would we put a third child? | #898 00:50:25: Ну, куда нам Марина Третьего ребенка? | adapted: adapted cue |
-| 13 | Нина | Мне что, на голову его сажать? | Am I supposed to put him on my head? | #899 00:50:27: Мне что, на голову | adapted: adapted cue |
-| 14 | Нина | Да дура ты! Иди и расскажи ему всё. | You are a fool! Go and tell him everything. | #900 00:50:29: Да дура ты. Дура, иди к нему и рассказывай. | adapted: adapted cue |
+| 10 | Марина | Ты Самсонову рассказала про ребёнка? | Did you tell Samsonov about the baby? | #893: Ты Самсонову рассказала? | adapted: expanded cue |
+| 11 | Нина | Нет, я ничего ему не сказала. | No, I did not tell him anything. | #894: Нет. | adapted: expanded cue |
+| 12 | Нина | Куда нам с ним третьего ребёнка? | Where would we put a third child? | #898: Ну, куда нам Марина Третьего ребенка? | adapted: adapted cue |
+| 13 | Нина | Мне что, на голову его сажать? | Am I supposed to put him on my head? | #899: Мне что, на голову | adapted: adapted cue |
+| 14 | Марина | Да дура ты! Иди и расскажи ему всё. | You are a fool! Go and tell him everything. | #900: Да дура ты. Дура, иди к нему и рассказывай. | adapted: adapted cue |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

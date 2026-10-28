@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Елена | Любимый мужчина готовит мне вкусный ужин. | My beloved man is cooking me a delicious dinner. | #1 00:00:12: любимый мужчина готовит тебе ужин | adapted: adapted |
-| 2 | Шеф | Тем более я гениальный шеф-повар. | Especially since I am a brilliant head chef. | #2 00:00:16: он гениальный повар | adapted: adapted |
-| 3 | Елена | Смотри, твой су-шеф сейчас звонит. | Look, your sous-chef is calling right now. | #6 00:00:28: твой су-шеф звонит | adapted: adapted |
-| 4 | Шеф | Поставь телефон на громкую связь. | Put the phone on speakerphone. | #8 00:00:31: поставь на громкую | adapted: adapted |
-| 5 | Шеф | Да, Лёва, что там случилось? | Yes, Lyova, what happened over there? | #9 00:00:34: Да, Лёва, что случилось | adapted: adapted |
-| 6 | Елена | Завтра можете вообще на работу не приходить. | Tomorrow you do not have to come to work at all. | #10 00:00:36: а завтра можете вообще не приходить | adapted: adapted |
-| 7 | Елена | Вы лучше спокойно дома отдохните. | You had better rest quietly at home. | #11 00:00:41: Вы лучше отдохните | adapted: adapted |
-| 8 | Шеф | Лёва, какую ерунду ты сейчас говоришь? | Lyova, what nonsense are you talking right now? | #12 00:00:44: что за ерунду ты говоришь | adapted: adapted |
-| 9 | Елена | Я знаю, что вам нельзя работать. | I know that you must not work. | #13 00:00:47: Я прекрасно знаю, что вам вообще нельзя работать | adapted: adapted |
-| 10 | Шеф | Это я соврал, чтобы уйти пораньше. | I made that up so I could leave early. | #18 00:01:01: Это я Лёве соврал, чтобы уйти пораньше с работы | adapted: adapted |
-| 11 | Елена | Ты обязательно пройдёшь полное обследование. | You will definitely undergo a full medical checkup. | #22 00:01:14: пока ты не пройдешь полное обследование | adapted: adapted |
-| 12 | Елена | У меня подруга работает в поликлинике. | My friend works as chief doctor at the clinic. | #23 00:01:19: главврач в поликлинике | adapted: adapted |
+| 1 | Елена | Любимый мужчина готовит мне вкусный ужин. | My beloved man is cooking me a delicious dinner. | #1: любимый мужчина готовит тебе ужин | adapted: adapted |
+| 2 | Шеф | Тем более я гениальный шеф-повар. | Especially since I am a brilliant head chef. | #2: он гениальный повар | adapted: adapted |
+| 3 | Елена | Смотри, твой су-шеф сейчас звонит. | Look, your sous-chef is calling right now. | #6: твой су-шеф звонит | adapted: adapted |
+| 4 | Шеф | Поставь телефон на громкую связь. | Put the phone on speakerphone. | #8: поставь на громкую | adapted: adapted |
+| 5 | Шеф | Да, Лёва, что там случилось? | Yes, Lyova, what happened over there? | #9: Да, Лёва, что случилось | adapted: adapted |
+| 6 | Лёва | Завтра можете вообще на работу не приходить. | Tomorrow you do not have to come to work at all. | #10: а завтра можете вообще не приходить | adapted: adapted |
+| 7 | Лёва | Вы лучше спокойно дома отдохните. | You had better rest quietly at home. | #11: Вы лучше отдохните | adapted: adapted |
+| 8 | Шеф | Лёва, какую ерунду ты сейчас говоришь? | Lyova, what nonsense are you talking right now? | #12: что за ерунду ты говоришь | adapted: adapted |
+| 9 | Лёва | Я знаю, что вам нельзя работать. | I know that you must not work. | #13: Я прекрасно знаю, что вам вообще нельзя работать | adapted: adapted |
+| 10 | Шеф | Это я соврал, чтобы уйти пораньше. | I made that up so I could leave early. | #18: Это я Лёве соврал, чтобы уйти пораньше с работы | adapted: adapted |
+| 11 | Елена | Ты обязательно пройдёшь полное обследование. | You will definitely undergo a full medical checkup. | #22: пока ты не пройдешь полное обследование | adapted: adapted |
+| 12 | Елена | У меня подруга работает в поликлинике. | My friend works as chief doctor at the clinic. | #23: главврач в поликлинике | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'My beloved man is cooking me a delicious dinner.' Elena anchors the line on 'favorite', while 'dinner' completes the thought.
-- 'Especially since I am a brilliant head chef.' The grammar packs 'that' and 'head chef' into a tight, idiomatic kitchen exchange.
-- 'Look, your sous-chef is calling right now.' Elena addresses the listener with the informal singular 'you' alongside 'is calling'. Chef Barinov answers right away.
-- 'Put the phone on speakerphone.' In Russian, the idea of 'place' flows naturally into 'connection' without extra filler words.
-- 'Yes, Lyova, what happened over there?' Spoken Russian keeps this brisk, leaning on 'yes' and finishing on 'happened'.
-- 'Tomorrow you do not have to come to work at all.' Spoken Russian keeps this brisk, leaning on 'tomorrow' and finishing on 'come'.
-- 'You had better rest quietly at home.' Lyova anchors the line on 'you', while 'to have a rest' completes the thought.
-- 'Lyova, what nonsense are you talking right now?' In Russian, the idea of 'Lyova' flows naturally into 'speak' without extra filler words.
-- 'I know that you must not work.' Notice how Russian expresses 'I' and 'to work' with crisp inflection rather than helper words. Chef Barinov answers right away.
-- 'I made that up so I could leave early.' Here the Russian phrasing highlights 'this' before landing on 'a bit earlier'.
-- 'You will definitely undergo a full medical checkup.' The meaning hinges on 'you' working together with 'medical checkup' in spoken Russian.
-- 'My friend works as chief doctor at the clinic.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.
+- 'My beloved man is cooking me a delicious dinner.' Explaining that her beloved man is cooking her a delicious dinner lays the cards on the table for Barinov.
+- 'Especially since I am a brilliant head chef.' Barinov mentions that especially since he is a brilliant head so Elena sees what is at stake.
+- 'Look, your sous-chef is calling right now.' Claiming that Barinov's is calling right now sounds confident, even if Barinov has doubts. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Put the phone on speakerphone.' Here putting the phone on speakerphone sets up the next turn in their exchange.
+- 'Yes, Lyova, what happened over there?' With the point and dinner hanging in the air, Barinov puts Elena on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Tomorrow you do not have to come to work at all.' Realizing that tomorrow Barinov does not have to come to work at all changes how Lyova handles the situation.
+- 'You had better rest quietly at home.' Noting that Barinov had better rest quietly at home keeps Lyova's side of the story simple and clear.
+- 'Lyova, what nonsense are you talking right now?' Questioning whether what nonsense are Elena talking right now is how Barinov tests Elena's story. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'I know that you must not work.' Knowing that Barinov must not work moves the conversation forward without extra drama. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
+- 'I made that up so I could leave early.' Saying that he made that up so he could leave early is how Barinov sets the tone with Elena.
+- 'You will definitely undergo a full medical checkup.' Once Barinov will definitely undergo a full medical checkup, Elena can finally tell Barinov what she means. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'My friend works as chief doctor at the clinic.' Adding that her friend works as chief doctor at the clinic fills in the missing piece for Barinov. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.

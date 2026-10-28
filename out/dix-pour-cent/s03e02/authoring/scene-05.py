@@ -7,7 +7,6 @@ SCENE = 5
 TITLE = 'Une soirée incognito  (An Incognito Evening)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'monica': 'emilie'}
 LABELS = {'gabriel': 'Gabriel', 'monica': 'Monica'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e02.fr.dual.srt'

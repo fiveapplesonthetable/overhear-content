@@ -1,41 +1,43 @@
-# Неловкое расставание  (An Awkward Breakup) — `kukhnya-s01e05-scene-04`
+# kukhnya-s01e05-scene-04: review sheet
 
-**Source:** Кухня (Kukhnya) S1.05 · `sources/kukhnya/s01/e05.ru.dual.srt`  
-**Target level:** A1 — Duolingo Section 2
+Title: Неловкое расставание  (An Awkward Breakup)
+Level: A1 — Duolingo Section 2
+Pair: ru-en
+Source: Кухня (Kukhnya) S1.05
 
-## Cast
 
-| Role | Voice | Label |
-|---|---|---|
-| `narrator` | sky | — |
-| `anya` | alisa | Макс |
-| `nastya` | angelina | Настя |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 1 — Intro
-
-> Max meets waitress Nastya in the vegetable storeroom to clear up a huge misunderstanding. Nastya thinks they are on a romantic date and talking about their future, while Max frantically tries to explain they were never together. Listen to their comical conversation in Russian first, and then we will examine every line.
-
-## Part 2 — Story
-
-| # | Speaker | Line | English | Source cue(s) | Change |
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 0 | Макс | Настя, что ты сейчас делаешь? | Nastya, what are you doing now? | #50 "Что ты делаешь" |  |
-| 1 | Настя | Ну, у нас же настоящее свидание! | Well, we are on a real date! | #50 "Ну, у нас же свидание" |  |
-| 2 | Макс | Нет, Настя, у нас не свидание. | No, Nastya, we are not on a date. | #51 "Нет, Настя, у нас не свидание" |  |
-| 3 | Макс | Ты вчера всё не так поняла. | You understood everything wrong yesterday. | #52 "Ты вчера все не так поняла" |  |
-| 4 | Макс | Мы с тобой совсем не встречаемся. | You and I are not dating at all. | #53 "Мы с тобой не встречаемся" |  |
-| 5 | Макс | Я не твой парень. | I am not your boyfriend. | #53 "Я не твой парень" |  |
-| 6 | Макс | А ты не моя девушка. | And you are not my girlfriend. | #53 "а ты не моя девушка" |  |
-| 7 | Настя | Ты что, меня сейчас бросаешь? | Are you dumping me right now? | #54 "Ты что, меня бросаешь" |  |
-| 8 | Макс | Это вовсе не глупые шутки. | These are not silly jokes at all. | #55 "шуточки", #56 "Это не шутки, Настя" |  |
-| 9 | Макс | Между нами никогда ничего не было. | Nothing ever happened between us. | #58 "Между нами ничего не было" |  |
-| 10 | Настя | А как же наш поцелуй? | And what about our kiss? | #60 "А поцелуй" |  |
-| 11 | Настя | А наши будущие дети? | And what about our future children? | #61 "А наши дети" |  |
-| 12 | Макс | Какие ещё дети, Настя? | What children, Nastya? | #62 "Какие дети" |  |
-| 13 | Макс | Да, если хочешь, я тебя бросаю! | Yes, if you want, I am dumping you! | #63 "да, я тебя бросаю" |  |
+| 1 | Макс | Настя, что ты сейчас делаешь? | Nastya, what are you doing now? | #50: Что ты делаешь | verbatim |
+| 2 | Настя | Ну, у нас же настоящее свидание! | Well, we are on a real date! | #50: Ну, у нас же свидание | verbatim |
+| 3 | Макс | Нет, Настя, у нас не свидание. | No, Nastya, we are not on a date. | #51: Нет, Настя, у нас не свидание | verbatim |
+| 4 | Макс | Ты вчера всё не так поняла. | You understood everything wrong yesterday. | #52: Ты вчера все не так поняла | verbatim |
+| 5 | Макс | Мы с тобой совсем не встречаемся. | You and I are not dating at all. | #53: Мы с тобой не встречаемся | verbatim |
+| 6 | Макс | Я не твой парень. | I am not your boyfriend. | #53: Я не твой парень | verbatim |
+| 7 | Макс | А ты не моя девушка. | And you are not my girlfriend. | #53: а ты не моя девушка | verbatim |
+| 8 | Настя | Ты что, меня сейчас бросаешь? | Are you dumping me right now? | #54: Ты что, меня бросаешь | verbatim |
+| 9 | Макс | Это вовсе не глупые шутки. | These are not silly jokes at all. | #55: шуточки<br>#56: Это не шутки, Настя | verbatim |
+| 10 | Макс | Между нами никогда ничего не было. | Nothing ever happened between us. | #58: Между нами ничего не было | verbatim |
+| 11 | Настя | А как же наш поцелуй? | And what about our kiss? | #60: А поцелуй | verbatim |
+| 12 | Настя | А наши будущие дети? | And what about our future children? | #61: А наши дети | verbatim |
+| 13 | Макс | Какие ещё дети, Настя? | What children, Nastya? | #62: Какие дети | verbatim |
+| 14 | Макс | Да, если хочешь, я тебя бросаю! | Yes, if you want, I am dumping you! | #63: да, я тебя бросаю | verbatim |
 
-## Part 5 — Outro & closing
+## Walk-through narration (English only, no target-language words quoted)
 
-> That concludes our fourth scene. In Kukhnya, clarifying relationship boundaries in the vegetable storeroom never goes quite as planned. See you next time!
-
-**Макс:** До встречи!
+- 'Nastya, what are you doing now?' Max puts the word for 'now' together with 'are doing' in a crisp, natural spoken turn of phrase.
+- 'Well, we are on a real date!' Nastya assumes they are an official romantic couple.
+- 'No, Nastya, we are not on a date.' Max uses the classic Russian possession phrasing — literally 'at us' rather than a verb meaning 'to have' around the word meaning 'date'.
+- 'You understood everything wrong yesterday.' Max expresses this naturally by combining the word for 'yesterday' with 'so' and 'understood'.
+- 'You and I are not dating at all.' Firmly clarifying their actual relationship status.
+- 'I am not your boyfriend.' Max delivers a punchy one-word reaction built around the Russian word meaning 'boyfriend'.
+- 'And you are not my girlfriend.' Max delivers a punchy one-word reaction built around the Russian word meaning 'girlfriend'.
+- 'Are you dumping me right now?' Nastya expresses this naturally by combining the word for 'now' with 'are dumping'.
+- 'These are not silly jokes at all.' Russian omits the present-tense verb 'to be' here, linking 'at all' directly with 'silly', combining 'at all' with 'silly' and 'jokes'.
+- 'Nothing ever happened between us.' Here Max anchors the line on the word meaning 'never' and builds the thought around 'was'.
+- 'And what about our kiss?' Russian omits the present-tense verb 'to be' here, linking 'how' directly with 'kiss', combining 'how' with 'kiss'.
+- 'And what about our future children?' Dramatically jumping far ahead into the imagined future.
+- 'What children, Nastya?' He is completely flabbergasted by her wild assumption.
+- 'Yes, if you want, I am dumping you!' Max chooses the action verb meaning 'you want' for the ongoing action, followed by 'am dumping'.

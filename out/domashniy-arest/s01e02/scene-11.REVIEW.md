@@ -10,23 +10,23 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Паша | Добрый день! С прилётом. | Good afternoon! Welcome. | #288 00:19:50: Добрый день<br>#290 00:19:51: С прилетом | adapted: two cues joined |
-| 2 | Паша | Добрый день. Спасибо. | Good afternoon. Thank you. | #291 00:19:52: Спасибо | adapted: 'Добрый день' echoes cue 288-289 |
-| 3 | Паша | Господа, прошу прощения. Деньги будут. | Gentlemen, I apologise. The money will be there. | #293 00:19:55: господа, прошу прощения<br>#294 00:20:01: Деньги будут | adapted: 'Я' and 'произошла техническая задержка' (there's been a technical delay) dropped; the narrator mentions it |
-| 4 | Паша | Будут когда? | And when will it be there? | #295 00:20:09: Будут когда | verbatim |
-| 5 | Паша | Мне нужно немножко поработать с бывшим мэром. | I need to do a little work on the former mayor. | #296 00:20:11: Мне нужно немножко поработать с бывшим мэром | verbatim |
-| 6 | Паша | Вы мне сказали, деньги будут сегодня. | You told me the money would be here today. | #297 00:20:15: Вы мне сказали, деньги будут сегодня | verbatim |
-| 7 | Степан Геннадьевич | Мы сюда зачем прилетели? Я сразу сказал: с ним ничего не получится. | What did we even fly out here for? I said from the start: nothing will come of it with him. | #299 00:20:17: Мы сюда зачем прилетели<br>#301 00:20:20: Я сразу сказал | adapted: 'вообще' dropped; 'с ним ловить нечего' (slang) -> 'с ним ничего не получится' |
-| 8 | Паша | Мы всё подготовили и прилетели на сделку. | We got everything ready and flew in for the deal. | #307 00:20:33: подготовили<br>#308 00:20:34: Прилетели на сделку | adapted: simplified from cues 306-308 ('we cleared it with the ministry, prepared all the documents') |
-| 9 | Паша | Я прекрасно понимаю. | I understand perfectly. | #309 00:20:36: Я прекрасно понимаю | verbatim |
-| 10 | Степан Геннадьевич | Зачем ты сюда приехал? Пустой! | Why did you even come here? Empty-handed! | #316 00:20:51: сюда<br>#316 00:20:51: Пустой | adapted: the rude 'Чего ты ... приперся' -> 'Зачем ты ... приехал' |
-| 11 | Паша | Степан Геннадьевич, я же внёс аванс! | Stepan Gennadyevich, I did pay the advance! | #315 00:20:48: Степан Геннадьевич<br>#315 00:20:48: я же внес аванс | adapted: 'почему чудила?' (why a clown?) dropped |
-| 12 | Паша | Давайте так: два дня. Или мы переводим проект в Калугу. | Here's what we'll do: two days. Or we move the project to Kaluga. | #324 00:21:06: Давайте так<br>#325 00:21:08: два дня<br>#325 00:21:08: мы переводим проект в Калугу | adapted: the 'if... then' of cue 325 simplified to 'two days, or...' |
-| 13 | Степан Геннадьевич | А аванс остаётся у нас. | And the advance stays with us. | #326 00:21:13: остается у нас | adapted: from cue 326 ('ваш аванс, конечно же'), given to Stepan |
-| 14 | Паша | Подождите! Два дня — это же очень мало. | Hold on! Two days is far too little. | #327 00:21:16: Подождите<br>#329 00:21:19: Это же очень мало | adapted: 'Как два дня?' (328) folded in |
-| 15 | Степан Геннадьевич | Мало для тех, кто ничего не делает. | Too little for people who do nothing. | #330 00:21:21: Для тех, кто | adapted: the idiom 'кто сопли жует' (who dawdle) -> 'кто ничего не делает' |
-| 16 | Паша | Хорошо, давайте три. Под мою личную ответственность. | All right, let's say three. On my personal responsibility. | #332 00:21:24: Хорошо, давайте три<br>#333 00:21:26: Под мою личную ответственность | verbatim |
-| 17 | Паша | Три дня. Больше не могу. | Three days. I can't give you more. | #336 00:21:31: Три дня. Больше не могу | verbatim |
+| 1 | Паша | Добрый день! С прилётом. | Good afternoon! Welcome. | #288: Добрый день<br>#290: С прилетом | adapted: two cues joined |
+| 2 | Партнёр | Добрый день. Спасибо. | Good afternoon. Thank you. | #291: Спасибо | adapted: 'Добрый день' echoes cue 288-289 |
+| 3 | Паша | Господа, прошу прощения. Деньги будут. | Gentlemen, I apologise. The money will be there. | #293: господа, прошу прощения<br>#294: Деньги будут | adapted: 'Я' and 'произошла техническая задержка' (there's been a technical delay) dropped; the narrator mentions it |
+| 4 | Партнёр | Будут когда? | And when will it be there? | #295: Будут когда | verbatim |
+| 5 | Паша | Мне нужно немножко поработать с бывшим мэром. | I need to do a little work on the former mayor. | #296: Мне нужно немножко поработать с бывшим мэром | verbatim |
+| 6 | Партнёр | Вы мне сказали, деньги будут сегодня. | You told me the money would be here today. | #297: Вы мне сказали, деньги будут сегодня | verbatim |
+| 7 | Степан Геннадьевич | Мы сюда зачем прилетели? Я сразу сказал: с ним ничего не получится. | What did we even fly out here for? I said from the start: nothing will come of it with him. | #299: Мы сюда зачем прилетели<br>#301: Я сразу сказал | adapted: 'вообще' dropped; 'с ним ловить нечего' (slang) -> 'с ним ничего не получится' |
+| 8 | Партнёр | Мы всё подготовили и прилетели на сделку. | We got everything ready and flew in for the deal. | #307: подготовили<br>#308: Прилетели на сделку | adapted: simplified from cues 306-308 ('we cleared it with the ministry, prepared all the documents') |
+| 9 | Паша | Я прекрасно понимаю. | I understand perfectly. | #309: Я прекрасно понимаю | verbatim |
+| 10 | Степан Геннадьевич | Зачем ты сюда приехал? Пустой! | Why did you even come here? Empty-handed! | #316: сюда<br>#316: Пустой | adapted: the rude 'Чего ты ... приперся' -> 'Зачем ты ... приехал' |
+| 11 | Паша | Степан Геннадьевич, я же внёс аванс! | Stepan Gennadyevich, I did pay the advance! | #315: Степан Геннадьевич<br>#315: я же внес аванс | adapted: 'почему чудила?' (why a clown?) dropped |
+| 12 | Партнёр | Давайте так: два дня. Или мы переводим проект в Калугу. | Here's what we'll do: two days. Or we move the project to Kaluga. | #324: Давайте так<br>#325: два дня<br>#325: мы переводим проект в Калугу | adapted: the 'if... then' of cue 325 simplified to 'two days, or...' |
+| 13 | Степан Геннадьевич | А аванс остаётся у нас. | And the advance stays with us. | #326: остается у нас | adapted: from cue 326 ('ваш аванс, конечно же'), given to Stepan |
+| 14 | Паша | Подождите! Два дня — это же очень мало. | Hold on! Two days is far too little. | #327: Подождите<br>#329: Это же очень мало | adapted: 'Как два дня?' (328) folded in |
+| 15 | Степан Геннадьевич | Мало для тех, кто ничего не делает. | Too little for people who do nothing. | #330: Для тех, кто | adapted: the idiom 'кто сопли жует' (who dawdle) -> 'кто ничего не делает' |
+| 16 | Паша | Хорошо, давайте три. Под мою личную ответственность. | All right, let's say three. On my personal responsibility. | #332: Хорошо, давайте три<br>#333: Под мою личную ответственность | verbatim |
+| 17 | Партнёр | Три дня. Больше не могу. | Three days. I can't give you more. | #336: Три дня. Больше не могу | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

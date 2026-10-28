@@ -4,31 +4,30 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 19
 SCENE = 2
-TITLE = "Новые имена  (New names)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Новые имена  (New names)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "chef": "anja", "artyom": "angelina"}
-LABELS = {"chef": "Шеф", "artyom": "Артём"}
+LABELS = {'artyom': 'Артём', 'barinov': 'Шеф', 'fedya': 'Федя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.19'
 SOURCE_FILE = 'sources/kukhnya/s01/e19.ru.dual.srt'
 INTRO = "Chef Viktor is angry because Senya and Fedya got fired. He reassigns their names to the remaining cooks in the kitchen. Let's listen closely to their exchange in Russian first, and then walk through each line together."
 OPENER = "Now let's go back through the exchange around New names line by line and unpack how the Russian works."
 TRANSITION = "Now listen to the whole scene again. Now let's listen to the whole conversation again from start to finish."
 OUTRO = "The cooks confusedly accept their new identities to avoid making the Chef even angrier. Next time you watch the episode, listen for the Russian expressions for 'sauce' and 'ready' — you will catch every word right away. See you next time!"
-CLOSING = ("chef", "До свидания.")
+CLOSING = ('fedya', 'До свидания.')
 STORY = [
-    ('chef', 'Сеня, соус готов?', 'Senya, is the sauce ready?', [(16, 'Сеня, соус готов?')], ''),
+    ('barinov', 'Сеня, соус готов?', 'Senya, is the sauce ready?', [(16, 'Сеня, соус готов?')], ''),
     ('artyom', 'А я не Сеня.', 'I am not Senya.', [(17, 'А я не Сеня, я Артем.')], ''),
     ('artyom', 'Я Артем.', 'I am Artyom.', [(17, 'А я не Сеня, я Артем.')], ''),
-    ('chef', 'Сеню уволили.', 'Senya got fired.', [(18, 'Сеню же уволили. А мне плевать, кто ты.')], ''),
-    ('chef', 'Мне плевать, кто ты.', 'I do not care who you are.', [(18, 'Сеню же уволили. А мне плевать, кто ты.')], ''),
-    ('chef', 'Сегодня ты Сеня.', 'Today you are Senya.', [(19, 'Сегодня ты Сеня.')], ''),
-    ('chef', 'Федя бы это быстро сделал.', 'Fedya would have done it fast.', [(21, 'Федя бы это за 10 секунд сделал.')], ''),
-    ('chef', 'Я тоже Федя, шеф.', 'I am Fedya too, Chef.', [(22, 'Я, кстати, тоже Федя, шеф.')], ''),
-    ('chef', 'Нет, ты не Федя.', 'No, you are not Fedya.', [(23, 'Нет, ты не Федя.')], ''),
-    ('chef', 'Имя Федя заслужить надо.', 'You have to earn the name Fedya.', [(24, 'Имя Федя заслужить надо.')], ''),
-    ('chef', 'Теперь ты Артем.', 'Now you are Artyom.', [(25, 'Теперь ты Артем.')], ''),
-    ('chef', 'Да, шеф.', 'Yes, Chef.', [(26, 'Да, шеф.')], ''),
+    ('barinov', 'Сеню уволили.', 'Senya got fired.', [(18, 'Сеню же уволили. А мне плевать, кто ты.')], ''),
+    ('barinov', 'Мне плевать, кто ты.', 'I do not care who you are.', [(18, 'Сеню же уволили. А мне плевать, кто ты.')], ''),
+    ('barinov', 'Сегодня ты Сеня.', 'Today you are Senya.', [(19, 'Сегодня ты Сеня.')], ''),
+    ('barinov', 'Федя бы это быстро сделал.', 'Fedya would have done it fast.', [(21, 'Федя бы это за 10 секунд сделал.')], ''),
+    ('fedya', 'Я тоже Федя, шеф.', 'I am Fedya too, Chef.', [(22, 'Я, кстати, тоже Федя, шеф.')], ''),
+    ('barinov', 'Нет, ты не Федя.', 'No, you are not Fedya.', [(23, 'Нет, ты не Федя.')], ''),
+    ('barinov', 'Имя Федя заслужить надо.', 'You have to earn the name Fedya.', [(24, 'Имя Федя заслужить надо.')], ''),
+    ('barinov', 'Теперь ты Артем.', 'Now you are Artyom.', [(25, 'Теперь ты Артем.')], ''),
+    ('fedya', 'Да, шеф.', 'Yes, Chef.', [(26, 'Да, шеф.')], ''),
 ]
 WALK = [
     (0, None, "'Senya, is the sauce ready?' — Notice the proper name meaning 'Senya' paired with the noun for 'sauce'."),

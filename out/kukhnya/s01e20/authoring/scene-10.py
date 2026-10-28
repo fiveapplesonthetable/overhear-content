@@ -4,32 +4,31 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 20
 SCENE = 10
-TITLE = "Дима ждёт  (Dima is Waiting)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Дима ждёт  (Dima is Waiting)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "chef": "anja"}
-LABELS = {"chef": "Шеф"}
+LABELS = {'barinov': 'Шеф', 'hostess': 'Хостес'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.20'
 SOURCE_FILE = 'sources/kukhnya/s01/e20.ru.dual.srt'
 INTRO = 'The hostess spots Chef Viktor and delivers an important message from a celebrity, and we will listen to them in Russian first; do not worry about catching every single word.'
 OPENER = "Now let's go back through the exchange around Dima is Waiting line by line and unpack how the Russian works."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "The chef heads out to the dining room to see what the celebrity wants. Next time you watch the episode, listen for the Russian expressions for 'kind' and 'morning' — you will catch every word right away. See you next time!"
-CLOSING = ("chef", "Пока!")
+CLOSING = ('barinov', 'Пока!')
 STORY = [
-    ('chef', 'Здравствуйте.', 'Hello.', [(152, 'Здравствуйте.')], ''),
-    ('chef', 'Доброе утро.', 'Good morning.', [], ''),
-    ('chef', 'Шеф, вас ожидают.', 'Chef, they are waiting for you.', [], ''),
-    ('chef', 'Кто меня ждет?', 'Who is waiting for me?', [], ''),
-    ('chef', 'Дима тебя ждет.', 'Dima is waiting for you.', [], ''),
-    ('chef', 'Нагиев здесь?', 'Nagiyev is here?', [], ''),
-    ('chef', 'Да, он за своим столом.', 'Yes, he is at his table.', [], ''),
-    ('chef', 'Что он хочет?', 'What does he want?', [], ''),
-    ('chef', 'Я не знаю.', 'I do not know.', [], ''),
-    ('chef', 'Обычно он сначала звонит.', 'He usually calls first.', [], ''),
-    ('chef', 'Он кажется очень взволнованным.', 'He seems very excited.', [], ''),
-    ('chef', 'Хорошо, я иду.', 'Okay, I am coming.', [], ''),
-    ('chef', 'Принеси ему немного кофе.', 'Bring him some coffee.', [], ''),
+    ('hostess', 'Здравствуйте.', 'Hello.', [(152, 'Здравствуйте.')], ''),
+    ('barinov', 'Доброе утро.', 'Good morning.', [], ''),
+    ('hostess', 'Шеф, вас ожидают.', 'Chef, they are waiting for you.', [], ''),
+    ('barinov', 'Кто меня ждет?', 'Who is waiting for me?', [], ''),
+    ('hostess', 'Дима тебя ждет.', 'Dima is waiting for you.', [], ''),
+    ('barinov', 'Нагиев здесь?', 'Nagiyev is here?', [], ''),
+    ('hostess', 'Да, он за своим столом.', 'Yes, he is at his table.', [], ''),
+    ('barinov', 'Что он хочет?', 'What does he want?', [], ''),
+    ('hostess', 'Я не знаю.', 'I do not know.', [], ''),
+    ('barinov', 'Обычно он сначала звонит.', 'He usually calls first.', [], ''),
+    ('hostess', 'Он кажется очень взволнованным.', 'He seems very excited.', [], ''),
+    ('barinov', 'Хорошо, я иду.', 'Okay, I am coming.', [], ''),
+    ('barinov', 'Принеси ему немного кофе.', 'Bring him some coffee.', [], ''),
 ]
 WALK = [
     (0, None, "'Hello.' A crisp, everyday conversational reply meaning 'hello' that you will hear constantly in Russian dialogue."),

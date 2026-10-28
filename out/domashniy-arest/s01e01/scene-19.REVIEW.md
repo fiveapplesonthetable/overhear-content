@@ -10,23 +10,23 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Нина | Квартира. Три комнаты. | A flat. Three rooms. | #736 00:42:37: Квартира<br>#745 00:42:54: три комнаты | adapted: 736 'трёхкомнатная' simplified to 'три комнаты' |
-| 2 | Аня | Квартира будет отличная. На Симашко есть новый дом. | It'll be an excellent flat. There's a new building on Simashko Street. | #737 00:42:40: будет отличная<br>#738 00:42:42: на Симашко | adapted: 'квартирка' -> 'квартира'; 'новостроечка' -> 'новый дом' |
-| 3 | Аня | Хороший район. Там три комнаты и балкон. | It's a good area. There are three rooms and a balcony. | #740 00:42:46: хороший район<br>#745 00:42:54: три комнаты | adapted: 746 'балкончик' -> 'балкон' |
-| 4 | Нина | С мебелью? | With furniture? | #747 00:42:58: С мебелью | verbatim |
-| 5 | Аня | Конечно, с мебелью. | Of course, with furniture. | #747 00:42:58: с мебелью | adapted: 748 'Разумеется' -> the simpler 'Конечно' |
-| 6 | Самсон | Машина. Немецкая. | A car. A German one. | #749 00:43:01: Машина | adapted: 749 slang 'Немец' -> 'Немецкая' |
-| 7 | Нина | Мне ещё работа нужна. | I need a job too. | #752 00:43:07: Мне еще работа нужна | verbatim |
-| 8 | Аня | Для вас можно открыть салон красоты. | We could open a beauty salon for you. | #754 00:43:13: для вас<br>#755 00:43:15: салон красоты | adapted: 754-755 simplified: 'мы можем ... открыть' -> 'можно открыть' |
-| 9 | Аня | Или ещё лучше: спа! | Or even better: a spa! | #756 00:43:16: Или еще лучше<br>#757 00:43:19: Спа | verbatim |
-| 10 | Нина | Спа. Давайте! | A spa. Let's do it! | #758 00:43:20: Спа<br>#759 00:43:22: Давайте | verbatim |
-| 11 | Нина | Юле надо поступить в институт. | Yulia needs to get into university. | #761 00:43:24: в институт поступить надо | adapted: 'Юльке' -> 'Юле'; word order made neutral |
-| 12 | Аня | Это вообще без проблем. | That's no problem at all. | #764 00:43:27: Это вообще без проблем | verbatim |
-| 13 | Самсон | Слушай, обманешь — будут проблемы. Понял? | Listen, if you cheat us, there'll be trouble. Got it? | #766 00:43:34: обманешь<br>#766 00:43:34: понял | adapted: 766 retold cleanly: the threat to tear his head off -> 'будут проблемы' |
-| 14 | Аня | Ваня, расслабься. В этот раз без обмана. | Vanya, relax. This time there's no trick. | #769 00:43:38: Ваня, ну расслабься<br>#770 00:43:40: без обмана | adapted: 'ну' and 'вообще' dropped |
-| 15 | Аня | Почему он меня всё время за горло хватает? | Why does he keep grabbing me by the throat? | #772 00:43:44: все время за горло хватает | adapted: 772 'мне' (transcription slip) -> 'меня' |
-| 16 | Самсон | А мне что? | And what about me? | #774 00:43:49: А мне что | verbatim |
-| 17 | Аня | О, а вот и мой заместитель! Пойдёмте, я вас познакомлю. | Oh, and here's my deputy! Come on, I'll introduce you. | #776 00:43:50: мой заместитель<br>#777 00:43:56: Пойдемте, я вас | adapted: 'с ним' dropped from 777 |
+| 1 | Нина | Квартира. Три комнаты. | A flat. Three rooms. | #736: Квартира<br>#745: три комнаты | adapted: 736 'трёхкомнатная' simplified to 'три комнаты' |
+| 2 | Аркадий | Квартира будет отличная. На Симашко есть новый дом. | It'll be an excellent flat. There's a new building on Simashko Street. | #737: будет отличная<br>#738: на Симашко | adapted: 'квартирка' -> 'квартира'; 'новостроечка' -> 'новый дом' |
+| 3 | Аркадий | Хороший район. Там три комнаты и балкон. | It's a good area. There are three rooms and a balcony. | #740: хороший район<br>#745: три комнаты | adapted: 746 'балкончик' -> 'балкон' |
+| 4 | Нина | С мебелью? | With furniture? | #747: С мебелью | verbatim |
+| 5 | Аркадий | Конечно, с мебелью. | Of course, with furniture. | #747: с мебелью | adapted: 748 'Разумеется' -> the simpler 'Конечно' |
+| 6 | Самсон | Машина. Немецкая. | A car. A German one. | #749: Машина | adapted: 749 slang 'Немец' -> 'Немецкая' |
+| 7 | Нина | Мне ещё работа нужна. | I need a job too. | #752: Мне еще работа нужна | verbatim |
+| 8 | Аркадий | Для вас можно открыть салон красоты. | We could open a beauty salon for you. | #754: для вас<br>#755: салон красоты | adapted: 754-755 simplified: 'мы можем ... открыть' -> 'можно открыть' |
+| 9 | Аркадий | Или ещё лучше: спа! | Or even better: a spa! | #756: Или еще лучше<br>#757: Спа | verbatim |
+| 10 | Нина | Спа. Давайте! | A spa. Let's do it! | #758: Спа<br>#759: Давайте | verbatim |
+| 11 | Нина | Юле надо поступить в институт. | Yulia needs to get into university. | #761: в институт поступить надо | adapted: 'Юльке' -> 'Юле'; word order made neutral |
+| 12 | Аркадий | Это вообще без проблем. | That's no problem at all. | #764: Это вообще без проблем | verbatim |
+| 13 | Самсон | Слушай, обманешь — будут проблемы. Понял? | Listen, if you cheat us, there'll be trouble. Got it? | #766: обманешь<br>#766: понял | adapted: 766 retold cleanly: the threat to tear his head off -> 'будут проблемы' |
+| 14 | Аркадий | Ваня, расслабься. В этот раз без обмана. | Vanya, relax. This time there's no trick. | #769: Ваня, ну расслабься<br>#770: без обмана | adapted: 'ну' and 'вообще' dropped |
+| 15 | Аркадий | Почему он меня всё время за горло хватает? | Why does he keep grabbing me by the throat? | #772: все время за горло хватает | adapted: 772 'мне' (transcription slip) -> 'меня' |
+| 16 | Самсон | А мне что? | And what about me? | #774: А мне что | verbatim |
+| 17 | Аркадий | О, а вот и мой заместитель! Пойдёмте, я вас познакомлю. | Oh, and here's my deputy! Come on, I'll introduce you. | #776: мой заместитель<br>#777: Пойдемте, я вас | adapted: 'с ним' dropped from 777 |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

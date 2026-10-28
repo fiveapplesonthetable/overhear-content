@@ -7,8 +7,7 @@ SCENE = 19
 TITLE = 'Le choix de Mathias  (The Choice of Mathias)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'sofia': 'emilie', 'gabriel': 'theo'}
-LABELS = {'sofia': 'Sofia', 'gabriel': 'Gabriel'}
+LABELS = {'gabriel': 'Gabriel', 'sofia': 'Sofia'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e02.fr.dual.srt'
 INTRO = 'Back at the ASK offices, Sofia and Gabriel have a candid, mature discussion about their future. Realizing that mixing love and professional representation causes unnecessary tension, Sofia looks for a new agent within ASK. Listen to their conversation in French first.'
@@ -44,7 +43,7 @@ WALK = [
     (8, None, "'Arlette might not be the right choice for a young actress.' Gabriel considers generational differences. Gabriel opens with the word for 'not' and lands on 'performer' at the close."),
     (9, None, "'Even if we like her!' Sofia adds warmly to avoid sounding dismissive. The key word here means 'even', paired with 'dearly' to make the point clear."),
     (10, None, "'I was thinking of Mathias. Because he's a good agent.' Sofia reveals her top candidate. The key word here means 'was leaning toward', paired with 'talent agent' to make the point clear."),
-    (11, None, "'With him, I have no special privilege.' Mathias's strict professionalism protects her reputation. Sofia pairs the verb meaning 'can' with the noun for 'favoritism'."),
+    (11, None, "'With him, I have no special privilege.' In response, Mathias's strict professionalism protects her reputation. Sofia pairs the verb meaning 'can' with the noun for 'favoritism'."),
     (12, None, "'I'm sure you are right. It's a good choice.' Gabriel gracefully accepts her decision. Notice how the verb for 'am' leads straight into 'decision'."),
     (13, None, "'Yes, I think so. See you shortly!' Sofia wraps up their meeting with optimism. The adverb meaning 'yes indeed' sharpens the verb for 'agree' here."),
 ]

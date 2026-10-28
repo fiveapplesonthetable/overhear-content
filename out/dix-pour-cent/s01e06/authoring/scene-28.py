@@ -7,7 +7,6 @@ SCENE = 28
 TITLE = 'Menace de faillite chez ASK  (Threat of Bankruptcy at ASK)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'helene': 'emilie', 'mathias': 'marcel'}
 LABELS = {'gabriel': 'Gabriel', 'helene': 'Hélène', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e06.fr.dual.srt'
@@ -38,19 +37,19 @@ WALK = [
     (1, None, "'Yes.' Mathias answers quietly to the group."),
     (2, None, "'Won't that affect their intention to buy out my shares?' Hélène pairs the verb meaning 'will affect' with the noun for 'shares'."),
     (3, None, "'I don't know, Hélène.' Mathias avoids making any promises."),
-    (4, None, "'It's unbelievable!' The prefix turns the adjective into its opposite."),
+    (4, "C'est incroyable!", "'It's unbelievable!' The prefix turns the adjective into its opposite."),
     (5, None, "'Without fresh money, the agency will close after this audit.' The little word for 'them' sits directly before the infinitive verb."),
     (6, None, "'If there are no new funds, ASK will not survive this tax audit.' Hélène pairs the verb meaning 'is' with the noun for 'audit'."),
-    (7, None, "'Do you all understand that?' Hélène looks around the table at Gabriel and Arlette."),
-    (8, None, "'What then? Are we going bankrupt?' The everyday idiom for going bust or declaring bankruptcy."),
-    (9, None, "'I'm asking you the question!' Gabriel demands an immediate answer from Mathias."),
-    (10, None, "'What do you mean, you don't know?' Literally 'how that, you do not know'."),
-    (11, None, "'I don't know, Gabriel!' Mathias loses his cool under Gabriel's shouting."),
-    (12, None, "'You always know everything!' Gabriel adds the emphasis word at the end for emphasis."),
-    (13, None, "'Call your wife, now.' Gabriel insists that Mathias contact Catherine."),
-    (14, None, "'We have to know.' Listen for the expression meaning 'is necessary', which leads naturally into 'know'."),
-    (15, None, "'That won't do any good.' Literally 'that will serve to nothing'."),
-    (16, None, "'She won't talk to me.' Mathias combines 'she' with 'will speak' in a natural French turn of phrase."),
-    (17, None, "'It looks like a divorce.' Notice how the verb for 'looks like' leads straight into 'divorce'."),
-    (18, None, "'What is she doing? Andréa is running off!' While the partners argue, Andréa suddenly bolts out of the conference room and sprints down the stairs after Colette. Now let's hear the whole scene again from start to finish."),
+    (6, None, "'Do you all understand that?' Hélène looks around the table at Gabriel and Arlette."),
+    (7, None, "'What then? Are we going bankrupt?' The everyday idiom for going bust or declaring bankruptcy."),
+    (8, 'Je vous pose la question!', "'I'm asking you the question!' Gabriel demands an immediate answer from Mathias."),
+    (8, 'Comment ça, vous ne savez pas?', "'What do you mean, you don't know?' Literally 'how that, you do not know'."),
+    (9, None, "'I don't know, Gabriel!' Mathias loses his cool under Gabriel's shouting."),
+    (10, None, "'You always know everything!' Gabriel adds the emphasis word at the end for emphasis."),
+    (11, 'Appelle ta femme, maintenant.', "'Call your wife, now.' Gabriel insists that Mathias contact Catherine."),
+    (11, "Il faut qu'on sache.", "'We have to know.' Listen for the expression meaning 'is necessary', which leads naturally into 'know'."),
+    (12, 'Ça ne servira à rien.', "'That won't do any good.' Literally 'that will serve to nothing'."),
+    (12, 'Elle ne me parlera pas.', "'She won't talk to me.' Mathias combines 'she' with 'will speak' in a natural French turn of phrase."),
+    (13, None, "'It looks like a divorce.' Notice how the verb for 'looks like' leads straight into 'divorce'."),
+    (14, None, "'What is she doing? Andréa is running off!' While the partners argue, Andréa suddenly bolts out of the conference room and sprints down the stairs after Colette. Now let's hear the whole scene again from start to finish."),
 ]

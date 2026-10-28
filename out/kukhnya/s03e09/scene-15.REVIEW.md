@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Настя | Здорово, привет, мой дорогой Костя! | Hey there, hello, my dear Kostya! | #222 00:16:22: Здорово. Привет, Костя | adapted: adapted |
-| 2 | Настя | Слушай, налей водички, пить хочется. | Listen, pour me some water, I am so thirsty. | #223 00:16:25: налей водички, а так пить хочется | adapted: adapted |
-| 3 | Костя | Легко, сейчас сразу налью тебе. | Easy, I will pour some for you right away. | #224 00:16:27: Легко | adapted: adapted |
-| 4 | Костя | Простите, а вы что здесь делаете? | Excuse me, what are you doing back here? | #226 00:16:35: Простите, а вы что здесь делаете | adapted: adapted |
-| 5 | Костя | Ты что, прикалываешься надо мной? | Are you pulling my leg or what? | #227 00:16:40: ты что, прикалываешься, что ли | adapted: adapted |
-| 6 | Костя | В смысле? Ты зачем зашёл сюда? | What do you mean? Why did you walk back here? | #228 00:16:43: В смысле? Ты что, зашёл сюда | adapted: adapted |
-| 7 | Костя | Я вообще здесь работаю, я бармен. | I actually work here, I am the bartender. | #229 00:16:44: Я вообще здесь работаю, я бармен | adapted: adapted |
-| 8 | Костя | Я ваш новый бармен с утра. | I am your new bartender since this morning. | #230 00:16:46: Новый | adapted: adapted |
-| 9 | Костя | Не знаю, мне ничего не сказали. | I do not know, nobody told me anything. | #231 00:16:48: Не знаю, мне ничего не сказали | adapted: adapted |
-| 10 | Настя | Бедный, ты работаешь без выходных. | Poor thing, you are working without any days off. | #233 00:16:56: Бедный, работаешь без выходных | adapted: adapted |
-| 11 | Настя | Ладно, пойду я лучше домой. | Alright, I had better go home. | #234 00:16:58: Ладно, пойду я | adapted: adapted |
-| 12 | Настя | У тебя ещё проблемы будут из-за меня. | You will end up having problems because of me. | #235 00:17:00: У тебя еще проблемы будут из-за меня | adapted: adapted |
+| 1 | Настя | Здорово, привет, мой дорогой Костя! | Hey there, hello, my dear Kostya! | #222: Здорово. Привет, Костя | adapted: adapted |
+| 2 | Настя | Слушай, налей водички, пить хочется. | Listen, pour me some water, I am so thirsty. | #223: налей водички, а так пить хочется | adapted: adapted |
+| 3 | Костя | Легко, сейчас сразу налью тебе. | Easy, I will pour some for you right away. | #224: Легко | adapted: adapted |
+| 4 | Гость | Простите, а вы что здесь делаете? | Excuse me, what are you doing back here? | #226: Простите, а вы что здесь делаете | adapted: adapted |
+| 5 | Костя | Ты что, прикалываешься надо мной? | Are you pulling my leg or what? | #227: ты что, прикалываешься, что ли | adapted: adapted |
+| 6 | Гость | В смысле? Ты зачем зашёл сюда? | What do you mean? Why did you walk back here? | #228: В смысле? Ты что, зашёл сюда | adapted: adapted |
+| 7 | Костя | Я вообще здесь работаю, я бармен. | I actually work here, I am the bartender. | #229: Я вообще здесь работаю, я бармен | adapted: adapted |
+| 8 | Костя | Я ваш новый бармен с утра. | I am your new bartender since this morning. | #230: Новый | adapted: adapted |
+| 9 | Гость | Не знаю, мне ничего не сказали. | I do not know, nobody told me anything. | #231: Не знаю, мне ничего не сказали | adapted: adapted |
+| 10 | Настя | Бедный, ты работаешь без выходных. | Poor thing, you are working without any days off. | #233: Бедный, работаешь без выходных | adapted: adapted |
+| 11 | Настя | Ладно, пойду я лучше домой. | Alright, I had better go home. | #234: Ладно, пойду я | adapted: adapted |
+| 12 | Настя | У тебя ещё проблемы будут из-за меня. | You will end up having problems because of me. | #235: У тебя еще проблемы будут из-за меня | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hey there, hello, my dear Kostya!' Here the Russian phrasing highlights 'great' before landing on 'Kostya'.
-- 'Listen, pour me some water, I am so thirsty.' Here the Russian phrasing highlights 'listen' before landing on 'want'.
-- 'Easy, I will pour some for you right away.' The meaning hinges on 'easily' working together with 'to you' in spoken Russian.
-- 'Excuse me, what are you doing back here?' the guest chooses the respectful plural 'you' alongside 'are doing' to keep a polite distance. Kostya answers right away.
-- 'Are you pulling my leg or what?' In everyday Russian, 'you are joking, pulling my leg' flows straight into 'need' without extra linking words.
-- 'What do you mean? Why did you walk back here?' Notice how Russian expresses 'sense' and 'here' with crisp inflection rather than helper words.
-- 'I actually work here, I am the bartender.' Spoken Russian keeps this brisk, leaning on 'I' and finishing on 'bartender'.
-- 'I am your new bartender since this morning.' Kostya anchors the line on 'I', while 'morning' completes the thought.
-- 'I do not know, nobody told me anything.' The meaning hinges on 'not' working together with 'told' in spoken Russian.
-- 'Poor thing, you are working without any days off.' Notice how Russian expresses 'poor' and 'weekend' with crisp inflection rather than helper words.
-- 'Alright, I had better go home.' Nastya anchors the line on 'all right', while 'home' completes the thought.
-- 'You will end up having problems because of me.' Nastya addresses the listener with the informal singular 'you' alongside 'me'.
+- 'Hey there, hello, my dear Kostya!' With the shift and room at stake, Nastya reacts without holding back. Russian puts the key word right up front so her emotion lands on the first beat.
+- 'Listen, pour me some water, I am so thirsty.' Claiming that the guest should pour her some water she is so thirsty sounds confident, even if the guest has doubts.
+- 'Easy, I will pour some for you right away.' Since easy he will pour some for the guest right away, Kostya does not waste words on excuses. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Excuse me, what are you doing back here?' Asking what Kostya doing back here is cuts straight through the tension between the guest and Kostya. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
+- 'Are you pulling my leg or what?' Checking whether the guest pulling his leg is how Kostya puts the guest on the spot.
+- 'What do you mean? Why did you walk back here?' Here wondering what Kostya means shows the guest looking for the real truth. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'I actually work here, I am the bartender.' Explaining that he actually work here he is the bartender lays the cards on the table for the guest.
+- 'I am your new bartender since this morning.' Because he is the guest's new bartender since this morning, Kostya treats the matter as settled.
+- 'I do not know, nobody told me anything.' Because he does not know nobody told him anything, the guest treats the matter as settled. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
+- 'Poor thing, you are working without any days off.' Pointing out that poor thing the guest is working without any days off gives the guest a sobering reality check. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Alright, I had better go home.' Nastya explains that Alright she had better go home, keeping her voice calm and direct.
+- 'You will end up having problems because of me.' Realizing that the guest will end up having problems changes how Nastya handles the situation. Russian expresses having something as "by me is", keeping the phrase short and grounded.

@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Лёва | Она ушла и хлопнула дверью. | She left and slammed the door. | #192 00:11:41: Открывайте | adapted: reaction to Marina's exit |
-| 2 | Толя | Да, сорвалась наша рыбка. | Yes, our fish got away. | #193 00:11:56: Да, сорвалась рыбка | verbatim |
-| 3 | Лёва | Анатолий Иванович, вы были слишком жестоки. | Anatoly Ivanovich, you were too harsh. | #194 00:12:00: Зря вы, Анатолий Иванович, с ней так жестко | verbatim |
-| 4 | Лёва | Она очень сильно расстроилась. | She got very upset. | #194 00:12:00: так жестко | verbatim |
-| 5 | Толя | Всё нормально, не переживай. | Everything is fine, don't worry. | #195 00:12:04: Нормально | verbatim |
-| 6 | Толя | Она немного поплачет и вернётся. | She will cry a little and return. | #196 00:12:05: Поплачет и вернется | verbatim |
-| 7 | Лёва | Вы уверены в этом? | Are you sure about that? | #196 00:12:05: выбора нет | verbatim |
-| 8 | Толя | У неё просто нет выбора. | She simply has no choice. | #196 00:12:05: выбора нет | verbatim |
-| 9 | Толя | Куда она теперь денется? | Where can she go now? | #197 00:12:07: Куда она денется | verbatim |
-| 10 | Лёва | А если она не придёт? | And what if she doesn't come? | #197 00:12:07: Куда она | verbatim |
-| 11 | Толя | Она придёт ради сына. | She will come for her son's sake. | #196 00:12:05: вернется | verbatim |
-| 12 | Толя | Мы умеем ждать нужного момента. | We know how to wait for the right moment. | #195 00:12:04: Нормально | adapted: tactical conclusion |
+| 1 | Лёва | Она ушла и хлопнула дверью. | She left and slammed the door. | #192: Открывайте | adapted: reaction to Marina's exit |
+| 2 | Лавров | Да, сорвалась наша рыбка. | Yes, our fish got away. | #193: Да, сорвалась рыбка | verbatim |
+| 3 | Лёва | Анатолий Иванович, вы были слишком жестоки. | Anatoly Ivanovich, you were too harsh. | #194: Зря вы, Анатолий Иванович, с ней так жестко | verbatim |
+| 4 | Лёва | Она очень сильно расстроилась. | She got very upset. | #194: так жестко | verbatim |
+| 5 | Лавров | Всё нормально, не переживай. | Everything is fine, don't worry. | #195: Нормально | verbatim |
+| 6 | Лавров | Она немного поплачет и вернётся. | She will cry a little and return. | #196: Поплачет и вернется | verbatim |
+| 7 | Лёва | Вы уверены в этом? | Are you sure about that? | #196: выбора нет | verbatim |
+| 8 | Лавров | У неё просто нет выбора. | She simply has no choice. | #196: выбора нет | verbatim |
+| 9 | Лавров | Куда она теперь денется? | Where can she go now? | #197: Куда она денется | verbatim |
+| 10 | Лёва | А если она не придёт? | And what if she doesn't come? | #197: Куда она | verbatim |
+| 11 | Лавров | Она придёт ради сына. | She will come for her son's sake. | #196: вернется | verbatim |
+| 12 | Лавров | Мы умеем ждать нужного момента. | We know how to wait for the right moment. | #195: Нормально | adapted: tactical conclusion |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

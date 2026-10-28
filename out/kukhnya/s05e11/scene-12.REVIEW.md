@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Элеонора | Ты хотел меня видеть? | Did you want to see me? | #177 00:10:59: Ты хотел меня видеть | adapted: adapted |
-| 2 | Шеф | Да. Я хотел извиниться. | Yes. I wanted to apologize. | #178 00:11:01: Да<br>#179 00:11:03: Я хотел извиниться | adapted: adapted |
-| 3 | Шеф | И то, что произошло утром, просто недопустимо. | And what happened this morning is simply unacceptable. | #182 00:11:11: И то, что произошло утром, просто недопустимо | adapted: adapted |
-| 4 | Шеф | Ты хозяйка отеля, я не имел права ставить под сомнение твой авторитет. | You are the owner of the hotel, I had no right to question your authority. | #183 00:11:14: Ты хозяйка отеля. Я не имел права ставить<br>#183 00:11:14: твой авторитет | adapted: adapted |
-| 5 | Шеф | Извини, я сегодня же уволю этого повара. | Forgive me, I will fire this cook this very day. | #184 00:11:18: Извини. Я сегодня же уволю этого | adapted: adapted |
-| 6 | Элеонора | Ну, ты не торопись! | Well, do not rush! | #185 00:11:23: Ну, ты не торопись | adapted: adapted |
-| 7 | Элеонора | Ты знаешь, я попробовала то, что он приготовил. | You know, I tasted what he cooked. | #186 00:11:25: Ты знаешь, я попробовала то, что приготовил | adapted: adapted |
-| 8 | Элеонора | Это вполне достойно. Мальчик-то хороший. | It is quite decent. The boy is good. | #187 00:11:28: это вполне достойно<br>#190 00:11:34: Мальчик-то хороший | adapted: adapted |
-| 9 | Шеф | Мне за это никто не доплачивает. | Nobody pays me extra for that. | #193 00:11:44: за это никто не доплачивает | adapted: adapted |
-| 10 | Элеонора | Хорошо, будет тебе небольшой бонус. | Alright, there will be a small bonus for you. | #195 00:11:49: хорошо<br>#196 00:11:52: Будет тебе небольшой бонус | adapted: adapted |
-| 11 | Шеф | Спасибо. | Thank you. | #196 00:11:52: Спасибо | adapted: adapted |
-| 12 | Элеонора | Вечером встреча с партнёрами. Всё должно быть на высшем уровне! | Tonight is a meeting with partners. Everything must be at the highest level! | #197 00:11:54: с партнерами<br>#198 00:11:56: Все должно быть на высшем уровне | adapted: adapted |
+| 1 | Элеонора | Ты хотел меня видеть? | Did you want to see me? | #177: Ты хотел меня видеть | adapted: adapted |
+| 2 | Шеф | Да. Я хотел извиниться. | Yes. I wanted to apologize. | #178: Да<br>#179: Я хотел извиниться | adapted: adapted |
+| 3 | Шеф | И то, что произошло утром, просто недопустимо. | And what happened this morning is simply unacceptable. | #182: И то, что произошло утром, просто недопустимо | adapted: adapted |
+| 4 | Шеф | Ты хозяйка отеля, я не имел права ставить под сомнение твой авторитет. | You are the owner of the hotel, I had no right to question your authority. | #183: Ты хозяйка отеля. Я не имел права ставить<br>#183: твой авторитет | adapted: adapted |
+| 5 | Шеф | Извини, я сегодня же уволю этого повара. | Forgive me, I will fire this cook this very day. | #184: Извини. Я сегодня же уволю этого | adapted: adapted |
+| 6 | Элеонора | Ну, ты не торопись! | Well, do not rush! | #185: Ну, ты не торопись | adapted: adapted |
+| 7 | Элеонора | Ты знаешь, я попробовала то, что он приготовил. | You know, I tasted what he cooked. | #186: Ты знаешь, я попробовала то, что приготовил | adapted: adapted |
+| 8 | Элеонора | Это вполне достойно. Мальчик-то хороший. | It is quite decent. The boy is good. | #187: это вполне достойно<br>#190: Мальчик-то хороший | adapted: adapted |
+| 9 | Шеф | Мне за это никто не доплачивает. | Nobody pays me extra for that. | #193: за это никто не доплачивает | adapted: adapted |
+| 10 | Элеонора | Хорошо, будет тебе небольшой бонус. | Alright, there will be a small bonus for you. | #195: хорошо<br>#196: Будет тебе небольшой бонус | adapted: adapted |
+| 11 | Шеф | Спасибо. | Thank you. | #196: Спасибо | adapted: adapted |
+| 12 | Элеонора | Вечером встреча с партнёрами. Всё должно быть на высшем уровне! | Tonight is a meeting with partners. Everything must be at the highest level! | #197: с партнерами<br>#198: Все должно быть на высшем уровне | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Did you want to see me?' The meaning hinges on 'you' working together with 'to see' in spoken Russian. Chef Barinov answers right away.
-- 'Yes. I wanted to apologize.' Here the Russian phrasing highlights 'yes' before landing on 'to apologize'.
-- 'And what happened this morning is simply unacceptable.' Here Chef Barinov anchors the thought on 'happened' and finishes on 'unacceptable', keeping the spoken rhythm brisk and natural.
-- 'You are the owner of the hotel, I had no right to question your authority.' Here the Russian phrasing highlights 'you' before landing on 'authority'.
-- 'Forgive me, I will fire this cook this very day.' In Russian, the idea of 'sorry' flows naturally into 'cook' without extra filler words.
-- 'Well, do not rush!' The negative particle sits right before the verb meaning 'hurry' to negate the statement.
-- 'You know, I tasted what he cooked.' Here Eleonora anchors the thought on 'know' and finishes on 'prepared', keeping the spoken rhythm brisk and natural.
-- 'It is quite decent. The boy is good.' Here the Russian phrasing highlights 'this' before landing on 'good'.
-- 'Nobody pays me extra for that.' In Russian, the idea of 'to me' flows naturally into 'pays extra' without extra filler words.
-- 'Alright, there will be a small bonus for you.' Spoken Russian keeps this brisk, leaning on 'well' and finishing on 'bonus'. Chef Barinov answers right away.
-- 'Thank you.' The grammar packs 'thank you' and 'thank you' into a tight, idiomatic kitchen exchange.
-- 'Tonight is a meeting with partners. Everything must be at the highest level!' In everyday Russian, 'in the evening' flows straight into 'level, height' without extra linking words.
+- 'Did you want to see me?' Asking whether Barinov wants to see is how Eleonora puts Barinov on the spot. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Yes. I wanted to apologize.' Mentioning that he wanted to apologize moves the talk in a new direction.
+- 'And what happened this morning is simply unacceptable.' Barinov tells Eleonora that what happened this morning is simply unacceptable without dressing it up.
+- 'You are the owner of the hotel, I had no right to question your authority.' Because Eleonora is the owner of the hotel he had no right to question Eleonora's authority, Barinov treats the matter as settled. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Forgive me, I will fire this cook this very day.' Explaining that he will fire this cook this very day lays the cards on the table for Eleonora.
+- 'Well, do not rush!' Because do not rush, Eleonora does not bother softening the blow for Barinov. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'You know, I tasted what he cooked.' With the apology and office in play, Eleonora keeps this short reply brisk and direct. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'It is quite decent. The boy is good.' Pointing out that it is quite decent gives Barinov a sobering reality check.
+- 'Nobody pays me extra for that.' Barinov explains that nobody pays him extra, keeping his voice calm and direct. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
+- 'Alright, there will be a small bonus for you.' Realizing that Alright there will be a small bonus for Barinov changes how Eleonora handles the situation. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Thank you.' Mentioning that Eleonora should thank Eleonora moves the talk in a new direction.
+- 'Tonight is a meeting with partners. Everything must be at the highest level!' Eleonora declares that tonight is a meeting with partners as the tension in the room peaks. Russian puts the key word right up front so her emotion lands on the first beat.

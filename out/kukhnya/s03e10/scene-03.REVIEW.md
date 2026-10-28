@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Нагиев | Мы вроде встречаемся, а вроде нет. | We are sort of dating, and sort of not. | #35 00:03:44: мы вроде встречаемся, вроде нет | adapted: adapted |
-| 2 | Нагиев | Мы ведь не спали до сих пор. | After all, we still have not slept together. | #36 00:03:49: мы ведь не спали до сих пор | adapted: adapted |
-| 3 | Нагиев | Для тебя это дело привычное. | For you this kind of thing is familiar. | #38 00:03:53: Для тебя это дело привычно | adapted: adapted |
-| 4 | Нагиев | А Дима сейчас в полной растерянности. | But Dima is in complete bewilderment right now. | #39 00:03:56: А Дима в растерянности | adapted: adapted |
-| 5 | Нагиев | Я вообще не понимаю, что делать. | I do not understand what to do at all. | #40 00:03:58: Я вообще не понимаю, что делать | adapted: adapted |
-| 6 | Нагиев | Она всех друзей моих сторонится. | She shies away from all of my friends. | #41 00:04:01: Друзей моих сторонится | adapted: adapted |
-| 7 | Шеф | А от меня что тебе надо? | And what do you need from me? | #43 00:04:05: От меня-то что надо | adapted: adapted |
-| 8 | Нагиев | Я её решил на ужин пригласить. | I decided to invite her out to dinner. | #47 00:04:16: Я ее решил на ужин пригласить | adapted: adapted |
-| 9 | Нагиев | С красивыми, умными, интеллигентными людьми. | With handsome, smart, cultured people. | #48 00:04:19: С красивыми, умными, интеллигентными людьми | adapted: adapted |
-| 10 | Нагиев | Лена красивая, умная и интеллигентная. | Lena is beautiful, smart, and cultured. | #49 00:04:22: Лена красивая, умная, интеллигентная | adapted: adapted |
-| 11 | Шеф | К сожалению, ничего у нас не получится. | Unfortunately, nothing will work out for us. | #51 00:04:28: Ничего не получится | adapted: adapted |
-| 12 | Шеф | Потому что я с ней расстался. | Because I broke up with her. | #52 00:04:29: Я с ней расстался | adapted: adapted |
+| 1 | Нагиев | Мы вроде встречаемся, а вроде нет. | We are sort of dating, and sort of not. | #35: мы вроде встречаемся, вроде нет | adapted: adapted |
+| 2 | Нагиев | Мы ведь не спали до сих пор. | After all, we still have not slept together. | #36: мы ведь не спали до сих пор | adapted: adapted |
+| 3 | Нагиев | Для тебя это дело привычное. | For you this kind of thing is familiar. | #38: Для тебя это дело привычно | adapted: adapted |
+| 4 | Нагиев | А Дима сейчас в полной растерянности. | But Dima is in complete bewilderment right now. | #39: А Дима в растерянности | adapted: adapted |
+| 5 | Нагиев | Я вообще не понимаю, что делать. | I do not understand what to do at all. | #40: Я вообще не понимаю, что делать | adapted: adapted |
+| 6 | Нагиев | Она всех друзей моих сторонится. | She shies away from all of my friends. | #41: Друзей моих сторонится | adapted: adapted |
+| 7 | Шеф | А от меня что тебе надо? | And what do you need from me? | #43: От меня-то что надо | adapted: adapted |
+| 8 | Нагиев | Я её решил на ужин пригласить. | I decided to invite her out to dinner. | #47: Я ее решил на ужин пригласить | adapted: adapted |
+| 9 | Нагиев | С красивыми, умными, интеллигентными людьми. | With handsome, smart, cultured people. | #48: С красивыми, умными, интеллигентными людьми | adapted: adapted |
+| 10 | Нагиев | Лена красивая, умная и интеллигентная. | Lena is beautiful, smart, and cultured. | #49: Лена красивая, умная, интеллигентная | adapted: adapted |
+| 11 | Шеф | К сожалению, ничего у нас не получится. | Unfortunately, nothing will work out for us. | #51: Ничего не получится | adapted: adapted |
+| 12 | Шеф | Потому что я с ней расстался. | Because I broke up with her. | #52: Я с ней расстался | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We are sort of dating, and sort of not.' Spoken Russian keeps this brisk, leaning on 'we' and finishing on 'no'.
-- 'After all, we still have not slept together.' Dmitry Nagiyev brings out the contrast between 'we' and 'after all' in a few short words.
-- 'For you this kind of thing is familiar.' The grammar packs 'for' and 'familiar' into a tight, idiomatic kitchen exchange.
-- 'But Dima is in complete bewilderment right now.' Notice how Russian expresses 'and' and 'confusion' with crisp inflection rather than helper words.
-- 'I do not understand what to do at all.' Here the Russian phrasing highlights 'I' before landing on 'to do'.
-- 'She shies away from all of my friends.' The meaning hinges on 'she' working together with 'avoids' in spoken Russian.
-- 'And what do you need from me?' Chef Barinov raises the pitch on 'need' to turn the phrase into a direct spoken question. Dmitry Nagiyev answers right away.
-- 'I decided to invite her out to dinner.' Dmitry Nagiyev brings out the contrast between 'I' and 'she' in a few short words.
-- 'With handsome, smart, cultured people.' The meaning hinges on 'with' working together with 'people' in spoken Russian.
-- 'Lena is beautiful, smart, and cultured.' In Russian, the idea of 'Lena' flows naturally into 'cultured' without extra filler words. Chef Barinov answers right away.
-- 'Unfortunately, nothing will work out for us.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.
-- 'Because I broke up with her.' Chef Barinov brings out the contrast between 'that is why' and 'what' in a few short words.
+- 'We are sort of dating, and sort of not.' Even though they are sort of dating and sort of not, Nagiyev keeps a steady face in front of Barinov.
+- 'After all, we still have not slept together.' Admitting that after all they still have not slept together shows Nagiyev being honest for a change.
+- 'For you this kind of thing is familiar.' Saying that for Barinov this kind of thing is familiar is how Nagiyev sets the tone with Barinov. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'But Dima is in complete bewilderment right now.' Once Dima is in complete bewilderment right now, Nagiyev can finally tell Barinov what he means.
+- 'I do not understand what to do at all.' Adding that he does not understand what to do at all fills in the missing piece for Barinov.
+- 'She shies away from all of my friends.' Over the dinner and the problem, Nagiyev answers Barinov without a second thought.
+- 'And what do you need from me?' Here wondering what Nagiyev needs from him shows Barinov looking for the real truth. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
+- 'I decided to invite her out to dinner.' Mentioning that he decided to invite her out to dinner moves the talk in a new direction.
+- 'With handsome, smart, cultured people.' Around the dinner and shift, Nagiyev sets a calm, everyday tone with Barinov.
+- 'Lena is beautiful, smart, and cultured.' Because someone is beautiful smart and cultured, Nagiyev treats the matter as settled.
+- 'Unfortunately, nothing will work out for us.' Explaining that nothing will work out for them lays the cards on the table for Nagiyev.
+- 'Because I broke up with her.' Between the dinner and the point, Barinov gives Nagiyev a quick, grounded response.

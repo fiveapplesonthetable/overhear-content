@@ -7,31 +7,30 @@ SCENE = 30
 TITLE = "Je t'aime, Andréa  (I Love You, Andréa)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'colette': 'emilie', 'lea': 'lucie', 'gabriel': 'theo'}
-LABELS = {'colette': 'Colette', 'lea': 'Andréa', 'gabriel': 'Gabriel'}
+LABELS = {'andrea': 'Andréa', 'colette': 'Colette', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e06.fr.dual.srt'
 INTRO = "Outside the crowded Cannes party, Andréa receives an unexpected phone call from Colette. Just as their heartfelt conversation concludes, Gabriel stumbles over in tears with heartbreaking news. Listen to the scene in French first. Don't worry about catching every word."
 OPENER = "Let's walk through these two emotional phone and party moments step by step."
 TRANSITION = 'Now listen to the whole scene again at normal speed, and see how much more you catch.'
 OUTRO = 'After receiving an unexpected and heartfelt confession of love from Colette, Andréa turns to comfort a devastated Gabriel after Sofia leaves him. See you next time!'
-CLOSING = ('lea', 'Bonne soirée!')
+CLOSING = ('andrea', 'Bonne soirée!')
 STORY = [
-    ('lea', 'Allô, Colette?', 'Hello, Colette?', [(858, 'Allô')], ''),
+    ('andrea', 'Allô, Colette?', 'Hello, Colette?', [(858, 'Allô')], ''),
     ('colette', 'Je suis désolée pour hier soir.', 'I am sorry about last night.', [(859, 'Je suis désolé pour hier soir')], ''),
     ('colette', "J'ai vraiment dépassé les bornes.", 'I really crossed the line.', [(859, "j'ai dépassé les bornes")], ''),
-    ('lea', "Non, ce n'est rien.", 'No, it is nothing.', [(860, 'Non')], ''),
+    ('andrea', "Non, ce n'est rien.", 'No, it is nothing.', [(860, 'Non')], ''),
     ('colette', "Ce n'est pas facile pour toi.", 'It is not easy for you.', [(861, "Je sais que c'est pas facile pour toi en ce moment")], ''),
     ('colette', "Tu vis quelque chose d'incroyable.", 'You are living through something incredible.', [(866, 'Tu vis quelque chose'), (867, "d'incroyable")], ''),
     ('colette', 'Je voulais te dire que je suis là.', 'I wanted to tell you that I am here.', [(874, 'Je voulais juste te dire que je suis là')], ''),
     ('colette', 'Je veux le vivre avec toi.', 'I want to experience it with you.', [(875, 'Et je crois que je veux le vivre avec toi')], ''),
     ('colette', "Parce que je t'aime, Andréa.", 'Because I love you, Andréa.', [(877, "Parce que je t'aime, Andréa")], ''),
-    ('lea', "Moi aussi je t'aime, Colette.", 'I love you too, Colette.', [(878, "Moi aussi je t'aime")], ''),
+    ('andrea', "Moi aussi je t'aime, Colette.", 'I love you too, Colette.', [(878, "Moi aussi je t'aime")], ''),
     ('gabriel', 'Sofia est partie!', 'Sofia is gone!', [(879, 'Elle est partie')], ''),
     ('gabriel', "Elle m'a définitivement quitté.", 'She definitely left me.', [(880, "Elle m'a quitté")], ''),
     ('gabriel', 'Elle avait totalement raison.', 'She was completely right.', [(881, 'Elle avait raison')], ''),
     ('gabriel', 'Je suis vraiment une ordure!', 'I really am a piece of trash!', [(882, 'Je suis une ordure')], ''),
-    ('lea', 'Gabriel, calme-toi un peu.', 'Gabriel, calm down a little.', [(882, 'Je suis une ordure')], ''),
+    ('andrea', 'Gabriel, calme-toi un peu.', 'Gabriel, calm down a little.', [(882, 'Je suis une ordure')], ''),
 ]
 WALK = [
     (0, None, "'Hello, Colette?' Andréa answers her ringing phone away from the loud music."),

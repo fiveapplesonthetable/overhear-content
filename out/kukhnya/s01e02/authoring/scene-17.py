@@ -4,18 +4,17 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 2
 SCENE = 17
-TITLE = "Один нормальный день  (One Normal Day)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Один нормальный день  (One Normal Day)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "sasha": "anja", "vika": "angelina"}
-LABELS = {"sasha": "Саша", "vika": "Вика"}
+LABELS = {'sasha': 'Саша', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.02'
 SOURCE_FILE = 'sources/kukhnya/s01/e02.ru.dual.srt'
 INTRO = "Exhausted by constant workplace crises, missing liquor, and staff arguments, art director Vika sits down in the restaurant dining room. Waitress Sasha listens sympathetically as Vika vents her frustration about how everything constantly seems to go wrong at Claude Monet. Yearning for peace, Vika begs for just one quiet, normal working day. Let's listen to their conversation in Russian first."
 OPENER = "Let's examine the dialogue line by line. Notice the expressions of exhaustion and the sympathetic workplace reassurance."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Vika finds a moment of calm empathy with Sasha before the busy evening rush begins. Keep up the great work practicing conversational Russian! Next time you watch the episode, listen for the Russian expressions for 'mess' and 'bartender' — you will catch every word right away. See you next time!"
-CLOSING = ("vika", "Пока!")
+CLOSING = ('vika', 'Пока!')
 STORY = [
     ('sasha', 'Виктория Сергеевна, вам принести чашку кофе?', 'Viktoriya Sergeyevna, should I bring you a cup of coffee?', [], ''),
     ('vika', 'Господи, как же меня всё достало!', 'Lord, how sick of everything I am!', [(205, 'меня все достало')], ''),

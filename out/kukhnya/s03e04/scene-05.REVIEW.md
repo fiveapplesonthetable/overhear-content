@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Нагиев | О, грибы! Мне один дурак на корпоративе дал. | Oh, mushrooms! Some fool gave them to me at an office party. | #55 00:03:39: О, грибы<br>#56 00:03:42: Мне один дурак на корпоративе дал | adapted: adapted |
-| 2 | Нагиев | Крылья, говорит, прямо вырастают. | Wings, he says, sprout right out. | #57 00:03:47: крылья, говорит<br>#57 00:03:47: вырастают | adapted: adapted |
-| 3 | Нагиев | Будешь себя отлично чувствовать. | You will feel great. | #58 00:03:51: будешь себя чувствовать | adapted: adapted |
-| 4 | Илья | Мне двадцать четыре. | I am twenty-four. | #59 00:03:55: Мне | adapted: adapted |
-| 5 | Нагиев | Ты не умничай. Понял? | Don't be a smart-aleck. Got it? | #59 00:03:55: Ты не умничай<br>#60 00:03:57: Понял | adapted: adapted |
-| 6 | Нагиев | Илюша, приготовь мне что-нибудь праздничное. | Ilyusha, prepare something festive for me. | #61 00:03:59: Илюша, приготовь мне что-нибудь праздничное | adapted: adapted |
-| 7 | Нагиев | Сделай. Давай. | Make it. Go on. | #62 00:04:03: Сделай<br>#63 00:04:05: Давай | adapted: adapted |
-| 8 | Илья | А вы что тут столпились? | And why have you crowded around here? | #64 00:04:08: А вы что тут столпились | verbatim |
-| 9 | Илья | Здравствуйте, шеф. | Hello, Chef. | #65 00:04:11: Здравствуйте, шеф | verbatim |
-| 10 | Илья | Опять ерундой занимаетесь? | Are you messing around with nonsense again? | #65 00:04:11: Опять ерундой занимаетесь | verbatim |
-| 11 | Илья | Шеф, это не ерунда, это большая игра. | Chef, this is not nonsense, this is a big game. | #66 00:04:13: Шеф, это не ерунда, это большая игра | verbatim |
-| 12 | Илья | Открытый чемпионат кухни по сбиванию банок. Солидные деньги на кону. | The open kitchen can-knocking championship. Serious money is at stake. | #67 00:04:16: Открытый чемпионат кухни<br>#67 00:04:16: банок<br>#68 00:04:21: Солидные деньги на кону | adapted: adapted |
+| 1 | Нагиев | О, грибы! Мне один дурак на корпоративе дал. | Oh, mushrooms! Some fool gave them to me at an office party. | #55: О, грибы<br>#56: Мне один дурак на корпоративе дал | adapted: adapted |
+| 2 | Нагиев | Крылья, говорит, прямо вырастают. | Wings, he says, sprout right out. | #57: крылья, говорит<br>#57: вырастают | adapted: adapted |
+| 3 | Нагиев | Будешь себя отлично чувствовать. | You will feel great. | #58: будешь себя чувствовать | adapted: adapted |
+| 4 | Илья | Мне двадцать четыре. | I am twenty-four. | #59: Мне | adapted: adapted |
+| 5 | Нагиев | Ты не умничай. Понял? | Don't be a smart-aleck. Got it? | #59: Ты не умничай<br>#60: Понял | adapted: adapted |
+| 6 | Нагиев | Илюша, приготовь мне что-нибудь праздничное. | Ilyusha, prepare something festive for me. | #61: Илюша, приготовь мне что-нибудь праздничное | adapted: adapted |
+| 7 | Нагиев | Сделай. Давай. | Make it. Go on. | #62: Сделай<br>#63: Давай | adapted: adapted |
+| 8 | Шеф | А вы что тут столпились? | And why have you crowded around here? | #64: А вы что тут столпились | verbatim |
+| 9 | Илья | Здравствуйте, шеф. | Hello, Chef. | #65: Здравствуйте, шеф | verbatim |
+| 10 | Шеф | Опять ерундой занимаетесь? | Are you messing around with nonsense again? | #65: Опять ерундой занимаетесь | verbatim |
+| 11 | Илья | Шеф, это не ерунда, это большая игра. | Chef, this is not nonsense, this is a big game. | #66: Шеф, это не ерунда, это большая игра | verbatim |
+| 12 | Илья | Открытый чемпионат кухни по сбиванию банок. Солидные деньги на кону. | The open kitchen can-knocking championship. Serious money is at stake. | #67: Открытый чемпионат кухни<br>#67: банок<br>#68: Солидные деньги на кону | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Oh, mushrooms! Some fool gave them to me at an office party.' The meaning hinges on 'about' working together with 'to give' in spoken Russian.
-- 'Wings, he says, sprout right out.' Notice how Russian expresses 'wings' and 'grow' with crisp inflection rather than helper words.
-- 'You will feel great.' Here the Russian phrasing highlights 'will' before landing on 'to feel'.
-- 'I am twenty-four.' Ilya brings out the contrast between 'to me' and 'twenty' in a few short words.
-- 'Don't be a smart-aleck. Got it?' Spoken Russian keeps this brisk, leaning on 'you' and finishing on 'understood'.
-- 'Ilyusha, prepare something festive for me.' The grammar packs 'Ilyusha' and 'festive' into a tight, idiomatic kitchen exchange.
-- 'Make it. Go on.' The meaning hinges on 'make' working together with 'come on' in spoken Russian.
-- 'And why have you crowded around here?' The plural past ending '-li' on the verb for 'crowded around' covers a group or the polite 'you'. Ilya answers right away.
-- 'Hello, Chef.' Spoken Russian keeps this brisk, leaning on 'hello' and finishing on 'hello'.
-- 'Are you messing around with nonsense again?' In spoken Russian, the words stay in their normal statement order and Chef Barinov's rising voice at the end turns the line into a question.
-- 'Chef, this is not nonsense, this is a big game.' Here the Russian phrasing highlights 'Chef Barinov' before landing on 'game'.
-- 'The open kitchen can-knocking championship. Serious money is at stake.' Ilya brings out the contrast between 'open' and 'championship' in a few short words.
+- 'Oh, mushrooms! Some fool gave them to me at an office party.' Saying that some fool gave them to him at an office party is how Nagiyev takes charge of the moment. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Wings, he says, sprout right out.' Nagiyev reminds Barinov that wings he says sprout right out before the moment passes.
+- 'You will feel great.' Because Barinov will feel great, Nagiyev treats the matter as settled.
+- 'I am twenty-four.' Since he is twenty four, Ilya does not waste words on excuses.
+- 'Don't be a smart-aleck. Got it?' Checking whether not be a smart cuts straight through the tension between Nagiyev and Barinov. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Ilyusha, prepare something festive for me.' With the truth and office in play, Nagiyev keeps this short reply brisk and direct.
+- 'Make it. Go on.' Nagiyev explains that Barinov should make it, keeping his voice calm and direct. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
+- 'And why have you crowded around here?' Questioning whether why have Ilya crowded around here is how Barinov tests Ilya's story. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
+- 'Hello, Chef.' Over the truth and the office, Ilya answers Barinov without a second thought.
+- 'Are you messing around with nonsense again?' Checking whether Ilya messing around with nonsense again is how Barinov puts Ilya on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Chef, this is not nonsense, this is a big game.' Even though this is not nonsense this is a big game, Ilya keeps a steady face in front of Barinov. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'The open kitchen can-knocking championship. Serious money is at stake.' Admitting that the open kitchen can knocking championship shows Ilya being honest for a change.

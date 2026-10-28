@@ -1,31 +1,43 @@
-# Review: `dix-pour-cent-s04e01-scene-23` — Le coup de théâtre  (The Dramatic Twist)
+# dix-pour-cent-s04e01-scene-23: review sheet
 
-- **Source**: `sources/dix-pour-cent/s04/e01.fr.dual.srt`
-- **Level**: A1 — débutant
-- **Voices**: `{"narrator": "sky", "lea": "lucie", "gabriel": "theo", "xavier": "marcel"}`
-- **Labels**: `{"lea": "Andréa", "gabriel": "Gabriel", "xavier": "Xavier"}`
+Title: Le coup de théâtre  (The Dramatic Twist)
+Level: A1 — débutant
+Pair: fr-en
+Source: Dix pour cent (Call My Agent!) S04E01
 
-## Part 1 — Intro
-> Director Xavier Beauvois takes the stage to accept the Cesar for Best Director and makes a stunning announcement about his next film. Sitting in the audience, Andrea and Gabriel are struck dumb when Xavier reveals his producer is none other than Mathias Barneville. Let's listen to the scene in French first.
 
-## Part 2 — Story Lines
-| # | Role | French | English | Source Cues |
-|---|------|--------|---------|-------------|
-| 0 | `xavier` (Xavier) | Je partage ce prix avec mon équipe. | I share this prize with my team. | 983:Je voudrais d'abord partager ce prix avec mon formidable équipe |
-| 1 | `lea` (Andréa) | Xavier Beauvois a remporté le grand prix. | Xavier Beauvois won the big prize. | 984:C'est mon deuxième César |
-| 2 | `gabriel` (Gabriel) | Il va présenter son prochain projet ambitieux. | He is going to present his next ambitious project. | 986:lancer mon prochain projet |
-| 3 | `xavier` (Xavier) | Ce projet sera un film totalement fou. | This project will be a totally crazy film. | 987:un film fou, comme on n'en fait plus |
-| 4 | `lea` (Andréa) | Il cherche sans doute un producteur solide. | He is probably looking for a solid producer. | 988:travailler avec un producteur |
-| 5 | `gabriel` (Gabriel) | Écoute bien ce qu'il va annoncer. | Listen carefully to what he will announce. | 988:C'est pourquoi je vais travailler avec un producteur |
-| 6 | `xavier` (Xavier) | Je vais travailler avec un producteur fou. | I am going to work with a crazy producer. | 988:travailler avec un producteur, 989:fou |
-| 7 | `lea` (Andréa) | De qui parle-t-il devant tout le monde? | Whom is he talking about before everyone? | 990:Où est-il ? |
-| 8 | `xavier` (Xavier) | Mathias Barneville, mon cher ami producteur! | Mathias Barneville, my dear producer friend! | 990:Mathias Barneville !, 991:Mon ami |
-| 9 | `lea` (Andréa) | Qu'est-ce qu'il vient de dire là? | What did he just say there? | 992:Qu'est-ce qu'il a dit ? |
-| 10 | `gabriel` (Gabriel) | Il a prononcé le nom de Mathias! | He spoke the name of Mathias! | 990:Mathias Barneville !, 992:Qu'est-ce qu'il a dit ? |
-| 11 | `lea` (Andréa) | Mathias a trahi notre accord en secret? | Did Mathias secretly betray our agreement? | 990:Mathias Barneville ! |
-| 12 | `gabriel` (Gabriel) | Il s'associe directement avec les réalisateurs. | He partners directly with directors. | 991:travailler ensemble |
-| 13 | `lea` (Andréa) | Cette trahison change absolument toute la donne. | This betrayal changes the game completely. | 992:Qu'est-ce qu'il a dit ? |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 5 — Outro & Closing
-> Mathias's surprise announcement as an independent producer leaves Andrea and Gabriel reeling. When you watch the episode, listen out for the expressions meaning 'share' and 'prize'. You'll catch them now. See you next time!
-- **Closing**: `lea`: *Bonne soirée!*
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+|---|---|---|---|---|---|
+| 1 | Xavier | Je partage ce prix avec mon équipe. | I share this prize with my team. | #983: Je voudrais d'abord partager ce prix avec mon formidable équipe | verbatim |
+| 2 | Andréa | Xavier Beauvois a remporté le grand prix. | Xavier Beauvois won the big prize. | #984: C'est mon deuxième César | verbatim |
+| 3 | Gabriel | Il va présenter son prochain projet ambitieux. | He is going to present his next ambitious project. | #986: lancer mon prochain projet | verbatim |
+| 4 | Xavier | Ce projet sera un film totalement fou. | This project will be a totally crazy film. | #987: un film fou, comme on n'en fait plus | verbatim |
+| 5 | Andréa | Il cherche sans doute un producteur solide. | He is probably looking for a solid producer. | #988: travailler avec un producteur | verbatim |
+| 6 | Gabriel | Écoute bien ce qu'il va annoncer. | Listen carefully to what he will announce. | #988: C'est pourquoi je vais travailler avec un producteur | verbatim |
+| 7 | Xavier | Je vais travailler avec un producteur fou. | I am going to work with a crazy producer. | #988: travailler avec un producteur<br>#989: fou | verbatim |
+| 8 | Andréa | De qui parle-t-il devant tout le monde? | Whom is he talking about before everyone? | #990: Où est-il ? | verbatim |
+| 9 | Xavier | Mathias Barneville, mon cher ami producteur! | Mathias Barneville, my dear producer friend! | #990: Mathias Barneville !<br>#991: Mon ami | verbatim |
+| 10 | Andréa | Qu'est-ce qu'il vient de dire là? | What did he just say there? | #992: Qu'est-ce qu'il a dit ? | verbatim |
+| 11 | Gabriel | Il a prononcé le nom de Mathias! | He spoke the name of Mathias! | #990: Mathias Barneville !<br>#992: Qu'est-ce qu'il a dit ? | verbatim |
+| 12 | Andréa | Mathias a trahi notre accord en secret? | Did Mathias secretly betray our agreement? | #990: Mathias Barneville ! | verbatim |
+| 13 | Gabriel | Il s'associe directement avec les réalisateurs. | He partners directly with directors. | #991: travailler ensemble | verbatim |
+| 14 | Andréa | Cette trahison change absolument toute la donne. | This betrayal changes the game completely. | #992: Qu'est-ce qu'il a dit ? | verbatim |
+
+## Walk-through narration (English only, no target-language words quoted)
+
+- 'I share this prize with my team.' Xavier Beauvois addresses the hall from the podium. Notice how 'share' leads directly into the noun meaning 'prize'.
+- 'Xavier Beauvois won the big prize.' Andrea whispers to Gabriel in the auditorium. The verb meaning 'has' pairs naturally with the noun for 'prize' in everyday conversation.
+- 'He is going to present his next ambitious project.' Gabriel leans forward attentively. The descriptive adjective for 'next' agrees in gender and number with its noun.
+- 'This project will be a totally crazy film.' Xavier describes the daring aesthetic of his script. Notice how 'will be' leads directly into the noun meaning 'project'.
+- 'He is probably looking for a solid producer.' Andrea evaluates the financial needs of the project. The descriptive adjective for 'solid' agrees in gender and number with its noun.
+- 'Listen carefully to what he will announce.' Gabriel gestures for quiet as the director speaks. French forms the near future by pairing the present tense of 'to go' directly with 'to announce'.
+- 'I am going to work with a crazy producer.' Xavier smiles broadly into the spotlights. The descriptive adjective for 'crazy' agrees in gender and number with its noun.
+- 'Whom is he talking about before everyone?' Andrea frowns in growing curiosity. Inverting the verb and pronoun around 'does he speak' creates a crisp, polished question.
+- 'Mathias Barneville, my dear producer friend!' Xavier calls out the familiar name with enthusiasm. The key noun here means 'friend', anchored by its matching French article.
+- 'What did he just say there?' Andrea gasps in utter astonishment. The standard spoken question formula at the front turns the statement about 'comes' into a natural inquiry.
+- 'He spoke the name of Mathias!' Gabriel turns to her with wide eyes. This conversational past tense combines a helper verb with the past verb form for 'spoken'.
+- 'Did Mathias secretly betray our agreement?' Andrea grasps the full weight of the move. This conversational past tense combines a helper verb with the past verb form for 'betrayed'.
+- 'He partners directly with directors.' Gabriel recognizes the tactical threat to the agency. Notice how 'associates' leads directly into the noun meaning 'directors'.
+- 'This betrayal changes the game completely.' Andrea stares grimly toward the stage. The verb meaning 'changes' pairs naturally with the noun for 'betrayal' in everyday conversation. Now let's hear the whole conversation again.

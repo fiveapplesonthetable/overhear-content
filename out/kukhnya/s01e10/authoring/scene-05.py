@@ -4,32 +4,31 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 10
 SCENE = 5
-TITLE = "Неожиданное признание  (An Unexpected Confession)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Неожиданное признание  (An Unexpected Confession)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "anya": "alisa", "chef": "anja"}
-LABELS = {"anya": "Макс", "chef": "Шеф"}
+LABELS = {'barinov': 'Шеф', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.10'
 SOURCE_FILE = 'sources/kukhnya/s01/e10.ru.dual.srt'
 INTRO = "At the Claude Monet bar counter, junior cook Max notices Chef Viktor Barinov sitting gloomily with a dark expression. When Max asks what went wrong, expecting another complaint about football or hangovers, Barinov abruptly shocks him by revealing a secret about Victoria's feelings. Let's listen to their conversation in Russian first."
 OPENER = "Now let's examine this startling revelation from Barinov line by line."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Leaving Max in absolute disbelief and questioning everything about his future with Victoria, Chef Barinov watches his bewildered expression with grim amusement. Next time you watch the episode, listen for the Russian expressions for 'to be' and 'important' — you will catch every word right away. See you next time!"
-CLOSING = ("anya", "Пока!")
+CLOSING = ('max', 'Пока!')
 STORY = [
-    ('anya', 'Здравствуйте, шеф, как ваши дела сегодня?', 'Hello, chef, how are your affairs today?', [(21, 'Здрасте.')], ''),
-    ('chef', 'Макс, не задавай мне глупых вопросов.', 'Max, do not ask me foolish questions.', [], ''),
-    ('anya', 'Вы опять проиграли деньги на ставках?', 'Did you lose money on bets again?', [(22, 'Опять проигрался?')], ''),
-    ('chef', 'Я бы сейчас с удовольствием выпил водки.', 'I would gladly drink vodka right now.', [(23, 'Да я бы водки хлебнул.')], ''),
-    ('anya', 'Что ещё неприятного у вас случилось?', 'What else unpleasant has happened to you?', [(24, 'Что случилось?')], ''),
-    ('chef', 'Дело вовсе не в моих ставках.', 'The matter is not at all about my bets.', [], ''),
-    ('anya', 'А в чём тогда настоящая проблема?', 'Then what is the real problem?', [], ''),
-    ('chef', 'У меня есть для тебя важная новость.', 'I have important news for you.', [], ''),
-    ('anya', 'Какая новость, шеф, говорите скорее.', 'What news, chef, tell me quickly.', [], ''),
-    ('chef', 'Тётя Вика сказала, что любит тебя.', 'Aunt Vika said that she loves you.', [(25, 'А тетя Вика сказала, что любит тебя.')], ''),
-    ('anya', 'Что? Этого просто не может быть!', 'What? That simply cannot be!', [], ''),
-    ('chef', 'Она сама призналась мне в этом.', 'She herself confessed this to me.', [], ''),
-    ('anya', 'Шеф, вы точно не шутите сейчас?', 'Chef, are you definitely not joking right now?', [], ''),
+    ('max', 'Здравствуйте, шеф, как ваши дела сегодня?', 'Hello, chef, how are your affairs today?', [(21, 'Здрасте.')], ''),
+    ('barinov', 'Макс, не задавай мне глупых вопросов.', 'Max, do not ask me foolish questions.', [], ''),
+    ('max', 'Вы опять проиграли деньги на ставках?', 'Did you lose money on bets again?', [(22, 'Опять проигрался?')], ''),
+    ('barinov', 'Я бы сейчас с удовольствием выпил водки.', 'I would gladly drink vodka right now.', [(23, 'Да я бы водки хлебнул.')], ''),
+    ('max', 'Что ещё неприятного у вас случилось?', 'What else unpleasant has happened to you?', [(24, 'Что случилось?')], ''),
+    ('barinov', 'Дело вовсе не в моих ставках.', 'The matter is not at all about my bets.', [], ''),
+    ('max', 'А в чём тогда настоящая проблема?', 'Then what is the real problem?', [], ''),
+    ('barinov', 'У меня есть для тебя важная новость.', 'I have important news for you.', [], ''),
+    ('max', 'Какая новость, шеф, говорите скорее.', 'What news, chef, tell me quickly.', [], ''),
+    ('barinov', 'Тётя Вика сказала, что любит тебя.', 'Aunt Vika said that she loves you.', [(25, 'А тетя Вика сказала, что любит тебя.')], ''),
+    ('max', 'Что? Этого просто не может быть!', 'What? That simply cannot be!', [], ''),
+    ('barinov', 'Она сама призналась мне в этом.', 'She herself confessed this to me.', [], ''),
+    ('max', 'Шеф, вы точно не шутите сейчас?', 'Chef, are you definitely not joking right now?', [], ''),
 ]
 WALK = [
     (0, None, "'Hello, chef, how are your affairs today?' Max leads with the direct command form meaning 'hello', pairing it with 'chef' and 'how'."),

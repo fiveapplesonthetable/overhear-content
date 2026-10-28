@@ -7,8 +7,7 @@ SCENE = 28
 TITLE = "Le départ d'Adjani  (Adjani Leaves)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'camille': 'emilie', 'mathias': 'marcel', 'lea': 'lucie'}
-LABELS = {'camille': 'Camille', 'mathias': 'Mathias', 'lea': 'Andréa'}
+LABELS = {'camille': 'Camille', 'isabelle': 'Isabelle', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e04.fr.dual.srt'
 INTRO = "The meeting between Isabelle Adjani and director Sacha Hartman has completely collapsed. As Isabelle storms out in fury, Camille rushes to find Mathias hiding in his office, paralyzed with panic. Listen to the scene in French first. Don't worry about catching every word."
@@ -17,10 +16,10 @@ TRANSITION = 'Now listen to the whole scene again at normal speed, and see how m
 OUTRO = 'After Isabelle storms out of the agency, Camille forcefully snaps Mathias out of his panic and pushes him to face the partners. See you next time!'
 CLOSING = ('camille', 'Bonne journée!')
 STORY = [
-    ('lea', 'Félicitez Mathias pour son absence.', 'Congratulate Mathias on his absence.', [(879, 'Félicitez Mathias')], ''),
+    ('isabelle', 'Félicitez Mathias pour son absence.', 'Congratulate Mathias on his absence.', [(879, 'Félicitez Mathias')], ''),
     ('camille', 'Pour quoi, Isabelle?', 'For what, Isabelle?', [(879, 'Pour quoi')], ''),
-    ('lea', "Dites-lui d'attendre un peu.", 'Tell him to wait awhile.', [(882, "Dites-lui d'attendre un peu")], ''),
-    ('lea', 'Disons, le reste de ma vie.', 'Say, the rest of my life.', [(882, 'Disons, le reste de ma vie')], ''),
+    ('isabelle', "Dites-lui d'attendre un peu.", 'Tell him to wait awhile.', [(882, "Dites-lui d'attendre un peu")], ''),
+    ('isabelle', 'Disons, le reste de ma vie.', 'Say, the rest of my life.', [(882, 'Disons, le reste de ma vie')], ''),
     ('camille', "Mathias, c'est la catastrophe!", 'Mathias, it is a disaster!', [(885, "Mathias, c'est la catastrophe")], ''),
     ('camille', 'Adjani et Hartman sont partis.', 'Adjani and Hartman stormed out.', [(885, 'Adjani et Hartman se sont disputés et sont partis')], ''),
     ('camille', 'Il faut y aller tout de suite!', 'We must go right away!', [(886, 'Il faut y aller')], ''),

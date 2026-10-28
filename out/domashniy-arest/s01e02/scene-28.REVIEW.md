@@ -10,23 +10,23 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Не могу поверить! Я всё сделал за пятьсот рублей. | I can't believe it! I did it all for five hundred roubles. | #992 00:54:06: Не могу поверить<br>#993 00:54:28: все сделал | adapted: 'за 500 рублей' written out in words; the million-dollar comparison (992) is left out |
+| 1 | Аркадий | Не могу поверить! Я всё сделал за пятьсот рублей. | I can't believe it! I did it all for five hundred roubles. | #992: Не могу поверить<br>#993: все сделал | adapted: 'за 500 рублей' written out in words; the million-dollar comparison (992) is left out |
 | 2 | Юля | Значит, вас скоро отпустят? | So they'll let you go soon? | new | new: new: the children know about the trick call (scene 27) and Arkady expects to be freed (cue 1011) |
-| 3 | Аня | Скоро. А пока я есть хочу, слона бы съел! | Soon. But for now I'm hungry, I could eat an elephant! | #995 00:54:37: слона бы съел | adapted: 'Скоро. А пока' new; жрать -> есть (plain word) |
-| 4 | Юля | Да вон, курица. | There's chicken, over there. | #998 00:54:58: Да вон | adapted: the garbled «мам, курицу свою» simplified to «курица» |
-| 5 | Аня | Курица? Нет. А чей это холодильник? | Chicken? No. And whose fridge is this? | #999 00:55:00: Курицу<br>#1002 00:55:13: чей холодильник | adapted: case changed (курицу -> курица); 'Нет.' new; 'это' added |
-| 6 | Юля | Это Клавдии Викторовны. | That's Klavdia Viktorovna's. | #1003 00:55:15: Это Клавдии Викторовны | adapted: speaker unclear in the source, given to Yulia |
-| 7 | Аня | А почему там замок? | And why is there a lock on it? | #1004 00:55:17: замок | adapted: «А чё, замок висит?» -> «А почему там замок?» (plain words) |
-| 8 | Юля | Она там взятки для врачей хранит. | She keeps bribes for the doctors in there. | #1005 00:55:18: Она там взятки для врачей хранит | adapted: speaker unclear in the source, given to Yulia |
-| 9 | Аня | Взятки? Очень интересно. | Bribes? Very interesting. | #1006 00:55:19: Взятки | adapted: 'Очень интересно.' new (Arkady then breaks the lock, told by the narrator) |
-| 10 | Лёша | Вы что? Нас же мама убьёт! | What are you doing? Mum will kill us! | #1009 00:55:36: Нас же мама убьёт | adapted: «вы чё» (1008) -> «Вы что?»; speaker unclear in the source, given to Lyosha |
-| 11 | Аня | Так, успокойтесь все. Сейчас за мной приедут. | Right, everyone calm down. They're coming for me any minute. | #1010 00:55:37: успокойтесь все<br>#1011 00:55:40: Сейчас за мной приедут | verbatim |
-| 12 | Юля | А так можно? | Is that allowed? | #1017 00:55:55: А так можно | adapted: speaker unclear in the source, given to Yulia |
-| 13 | Аня | Можно. А ты чего сидишь? Давай, ешь. | It is. And why are you just sitting there? Come on, eat. | #1024 00:56:32: а ты чего сидишь<br>#1024 00:56:32: Давай, ешь | adapted: 'Можно.' new; «как неродной» left out |
-| 14 | Лёша | Мама говорила, что у меня на икру аллергия. | Mum said I'm allergic to caviar. | #1025 00:56:37: Мама говорила, что у меня на икру аллергия | verbatim |
-| 15 | Аня | Мама так говорит, чтобы ты икру не просил. У неё денег нет. | Mum says that so you won't ask for caviar. She has no money. | #1026 00:56:40: Мама так говорит<br>#1027 00:56:43: У неё денег нет | adapted: «чтоб ты у неё икру не просила» -> «чтобы ты икру не просил» (full form, masculine for the boy); «Вы ж нищие» left out |
-| 16 | Лёша | Ладно. Ой, вкусно! | All right. Oh, it's tasty! | #1029 00:56:50: Вкусно | adapted: 'Ладно. Ой' new; Arkady's question «Вкусно?» and the boy's «Ага» (1029-1030) become the boy's exclamation |
-| 17 | Аня | Вот видишь? И никакой аллергии. | There, you see? And no allergy at all. | #1031 00:56:54: И никакой аллергии | adapted: 'Вот видишь?' new |
+| 3 | Аркадий | Скоро. А пока я есть хочу, слона бы съел! | Soon. But for now I'm hungry, I could eat an elephant! | #995: слона бы съел | adapted: 'Скоро. А пока' new; жрать -> есть (plain word) |
+| 4 | Юля | Да вон, курица. | There's chicken, over there. | #998: Да вон | adapted: the garbled «мам, курицу свою» simplified to «курица» |
+| 5 | Аркадий | Курица? Нет. А чей это холодильник? | Chicken? No. And whose fridge is this? | #999: Курицу<br>#1002: чей холодильник | adapted: case changed (курицу -> курица); 'Нет.' new; 'это' added |
+| 6 | Юля | Это Клавдии Викторовны. | That's Klavdia Viktorovna's. | #1003: Это Клавдии Викторовны | adapted: speaker unclear in the source, given to Yulia |
+| 7 | Аркадий | А почему там замок? | And why is there a lock on it? | #1004: замок | adapted: «А чё, замок висит?» -> «А почему там замок?» (plain words) |
+| 8 | Юля | Она там взятки для врачей хранит. | She keeps bribes for the doctors in there. | #1005: Она там взятки для врачей хранит | adapted: speaker unclear in the source, given to Yulia |
+| 9 | Аркадий | Взятки? Очень интересно. | Bribes? Very interesting. | #1006: Взятки | adapted: 'Очень интересно.' new (Arkady then breaks the lock, told by the narrator) |
+| 10 | Лёша | Вы что? Нас же мама убьёт! | What are you doing? Mum will kill us! | #1009: Нас же мама убьёт | adapted: «вы чё» (1008) -> «Вы что?»; speaker unclear in the source, given to Lyosha |
+| 11 | Аркадий | Так, успокойтесь все. Сейчас за мной приедут. | Right, everyone calm down. They're coming for me any minute. | #1010: успокойтесь все<br>#1011: Сейчас за мной приедут | verbatim |
+| 12 | Юля | А так можно? | Is that allowed? | #1017: А так можно | adapted: speaker unclear in the source, given to Yulia |
+| 13 | Аркадий | Можно. А ты чего сидишь? Давай, ешь. | It is. And why are you just sitting there? Come on, eat. | #1024: а ты чего сидишь<br>#1024: Давай, ешь | adapted: 'Можно.' new; «как неродной» left out |
+| 14 | Лёша | Мама говорила, что у меня на икру аллергия. | Mum said I'm allergic to caviar. | #1025: Мама говорила, что у меня на икру аллергия | verbatim |
+| 15 | Аркадий | Мама так говорит, чтобы ты икру не просил. У неё денег нет. | Mum says that so you won't ask for caviar. She has no money. | #1026: Мама так говорит<br>#1027: У неё денег нет | adapted: «чтоб ты у неё икру не просила» -> «чтобы ты икру не просил» (full form, masculine for the boy); «Вы ж нищие» left out |
+| 16 | Лёша | Ладно. Ой, вкусно! | All right. Oh, it's tasty! | #1029: Вкусно | adapted: 'Ладно. Ой' new; Arkady's question «Вкусно?» and the boy's «Ага» (1029-1030) become the boy's exclamation |
+| 17 | Аркадий | Вот видишь? И никакой аллергии. | There, you see? And no allergy at all. | #1031: И никакой аллергии | adapted: 'Вот видишь?' new |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

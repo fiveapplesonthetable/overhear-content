@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Лёва | Сейчас они чай допьют и уйдут. | They will finish their tea now and leave. | #237 00:14:42: сейчас чай допьют | adapted: adapted |
-| 2 | Лёва | Ты зачем свои усы сегодня сбрил? | Why did you shave off your mustache today? | #241 00:14:52: Ты зачем усы сбрил | adapted: adapted |
-| 3 | Лёва | Аня мне сказала, что тебе очень идёт. | Anya told me that it suits you very well. | #242 00:14:55: Аня мне сказала, говоришь, все очень идет | adapted: adapted |
-| 4 | Лёва | Да мне просто надоели эти старые усы. | I just got tired of that old mustache. | #243 00:14:58: Вот надоели эти усы | adapted: adapted |
-| 5 | Лёва | Знаешь, если честно, мне они тоже надоели. | You know, to be honest, I was tired of it too. | #244 00:15:03: Знаешь, если честно, мне тоже | adapted: adapted |
-| 6 | Лёва | Сегодня вечером я сама за тобой заеду. | Tonight I will come pick you up myself. | #245 00:15:05: Вечером за тобой заеду | adapted: adapted |
-| 7 | Гуля | Лёва, нам надо серьёзно поговорить. | Lyova, we need to have a serious talk. | #248 00:15:20: Лева, надо поговорить | adapted: adapted |
-| 8 | Лёва | Хорошо, я только эту тележку отвезу. | Alright, I will just wheel this cart away. | #249 00:15:21: Хорошо, я только тележку отвезу | adapted: adapted |
-| 9 | Гуля | Нет, сейчас, хватит уже от меня бегать! | No, right now, stop running away from me already! | #250 00:15:23: Нет, сейчас. Хватит уже от меня бегать | adapted: adapted |
-| 10 | Гуля | Чтобы ты знал, я тебя не брошу. | Just so you know, I will not abandon you. | #251 00:15:28: чтоб ты знал, я тебя не брошу | adapted: adapted |
-| 11 | Гуля | До самого последнего дня я буду с тобой. | Until the very last day I will be with you. | #252 00:15:31: До самого последнего дня я буду с тобой | adapted: adapted |
-| 12 | Лёва | Ну хорошо, я очень этому рад. | Well alright, I am very glad to hear that. | #253 00:15:37: Ну, хорошо | adapted: adapted |
+| 1 | Лёва | Сейчас они чай допьют и уйдут. | They will finish their tea now and leave. | #237: сейчас чай допьют | adapted: adapted |
+| 2 | Елена | Ты зачем свои усы сегодня сбрил? | Why did you shave off your mustache today? | #241: Ты зачем усы сбрил | adapted: adapted |
+| 3 | Елена | Аня мне сказала, что тебе очень идёт. | Anya told me that it suits you very well. | #242: Аня мне сказала, говоришь, все очень идет | adapted: adapted |
+| 4 | Лёва | Да мне просто надоели эти старые усы. | I just got tired of that old mustache. | #243: Вот надоели эти усы | adapted: adapted |
+| 5 | Елена | Знаешь, если честно, мне они тоже надоели. | You know, to be honest, I was tired of it too. | #244: Знаешь, если честно, мне тоже | adapted: adapted |
+| 6 | Елена | Сегодня вечером я сама за тобой заеду. | Tonight I will come pick you up myself. | #245: Вечером за тобой заеду | adapted: adapted |
+| 7 | Гуля | Лёва, нам надо серьёзно поговорить. | Lyova, we need to have a serious talk. | #248: Лева, надо поговорить | adapted: adapted |
+| 8 | Лёва | Хорошо, я только эту тележку отвезу. | Alright, I will just wheel this cart away. | #249: Хорошо, я только тележку отвезу | adapted: adapted |
+| 9 | Гуля | Нет, сейчас, хватит уже от меня бегать! | No, right now, stop running away from me already! | #250: Нет, сейчас. Хватит уже от меня бегать | adapted: adapted |
+| 10 | Гуля | Чтобы ты знал, я тебя не брошу. | Just so you know, I will not abandon you. | #251: чтоб ты знал, я тебя не брошу | adapted: adapted |
+| 11 | Гуля | До самого последнего дня я буду с тобой. | Until the very last day I will be with you. | #252: До самого последнего дня я буду с тобой | adapted: adapted |
+| 12 | Лёва | Ну хорошо, я очень этому рад. | Well alright, I am very glad to hear that. | #253: Ну, хорошо | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'They will finish their tea now and leave.' The grammar packs 'now' and 'leave' into a tight, idiomatic kitchen exchange.
-- 'Why did you shave off your mustache today?' Elena addresses the listener with the informal singular 'you' alongside 'shaved off'.
-- 'Anya told me that it suits you very well.' The grammar packs 'Anya' and 'is coming' into a tight, idiomatic kitchen exchange.
-- 'I just got tired of that old mustache.' In Russian, the idea of 'yes' flows naturally into 'mustache' without extra filler words.
-- 'You know, to be honest, I was tired of it too.' Spoken Russian keeps this brisk, leaning on 'know' and finishing on 'to bore'.
-- 'Tonight I will come pick you up myself.' Elena anchors the line on 'tonight', while 'will stop by' completes the thought.
-- 'Lyova, we need to have a serious talk.' Gulya brings out the contrast between 'Lyova' and 'us' in a few short words.
-- 'Alright, I will just wheel this cart away.' Lyova anchors the line on 'well', while 'I'll drive' completes the thought. Gulya answers right away.
-- 'No, right now, stop running away from me already!' Here the Russian phrasing highlights 'no' before landing on 'to run'.
-- 'Just so you know, I will not abandon you.' Spoken Russian keeps this brisk, leaning on 'so that' and finishing on 'will abandon'.
-- 'Until the very last day I will be with you.' Gulya addresses the listener with the informal singular 'you' alongside 'you'. Lyova answers right away.
-- 'Well alright, I am very glad to hear that.' Spoken Russian keeps this brisk, leaning on 'come on' and finishing on 'glad'.
+- 'They will finish their tea now and leave.' Explaining that they will finish their tea now and leave lays the cards on the table for Elena.
+- 'Why did you shave off your mustache today?' Wondering why Gulya shave off Gulya's mustache today is how Elena puts Gulya on the spot. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Anya told me that it suits you very well.' Claiming that Anya told her that it suits Gulya very well sounds confident, even if Gulya has doubts.
+- 'I just got tired of that old mustache.' Pointing out that he just got tired of that old mustache gives Elena a sobering reality check.
+- 'You know, to be honest, I was tired of it too.' Elena explains that to be honest she was tired of it, keeping her voice calm and direct.
+- 'Tonight I will come pick you up myself.' Realizing that tonight she will come pick Gulya up herself changes how Elena handles the situation.
+- 'Lyova, we need to have a serious talk.' Realizing that they need to have a serious talk changes how Gulya handles the situation. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
+- 'Alright, I will just wheel this cart away.' Even though Alright he will just wheel this cart away, Lyova keeps a steady face in front of Elena.
+- 'No, right now, stop running away from me already!' With the doctor and plan at stake, Gulya reacts without holding back.
+- 'Just so you know, I will not abandon you.' Saying that just so Elena knows she will not abandon Elena is how Gulya sets the tone with Elena. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Until the very last day I will be with you.' Once until the very last day she will be with Elena, Gulya can finally tell Elena what she means. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Well alright, I am very glad to hear that.' Adding that alright he is very glad to hear fills in the missing piece for Elena.

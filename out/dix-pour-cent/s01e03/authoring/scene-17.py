@@ -7,17 +7,16 @@ SCENE = 17
 TITLE = "L'audition de Nathalie  (Nathalie's Audition)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'nathalie': 'emilie', 'mathias': 'marcel'}
-LABELS = {'nathalie': 'Nathalie', 'mathias': 'Mathias'}
+LABELS = {'mathias': 'Mathias', 'nathalie': 'Nathalie', 'solveig': 'Solveig'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e03.fr.dual.srt'
 INTRO = "Laura is afraid of hurting her mother by saying no, so the agents talk of a trick: be impossible, like a difficult star, so that the director refuses you. Now it's Nathalie's audition. Hervé fusses over Solveig with a long list of drinks, and she only wants water. We follow Nathalie. Here's the scene in French first; it's fine to catch just the feeling."
 OPENER = "Let's go through it. Solveig turns down coffee, tea and juice, and asks for the simplest thing there is."
 TRANSITION = 'Now listen to the whole conversation one more time.'
 OUTRO = "Nathalie can't act badly even when she tries, and you followed a whole audition in French. See you next time!"
-CLOSING = ('mathias', 'Au revoir!')
+CLOSING = ('solveig', 'Au revoir!')
 STORY = [
-    ('mathias', "Non, merci. Un verre d'eau.", 'No, thank you. A glass of water.', [(415, 'Non, merci'), (419, "Un verre d'eau")], ''),
+    ('solveig', "Non, merci. Un verre d'eau.", 'No, thank you. A glass of water.', [(415, 'Non, merci'), (419, "Un verre d'eau")], ''),
     ('mathias', 'Non, Nathalie, tu ne peux pas faire ça.', 'No, Nathalie, you can', [(420, 'Non, Nathalie, tu ne peux pas faire ça')], ''),
     ('nathalie', 'Bien sûr que oui.', 'Of course I can.', [(421, 'Bien sûr que oui')], ''),
     ('mathias', 'Tu ne sais même pas comment faire.', 'You don', [(422, 'même pas comment faire')], ''),
@@ -28,8 +27,8 @@ STORY = [
     ('nathalie', 'Pars, alors! Pars!', 'Go, then! Go!', [(428, 'Pars, alors ! Pars')], ''),
     ('nathalie', 'Je ne suis pas surprise.', 'I', [(430, 'je ne suis pas surprise')], ''),
     ('nathalie', 'Tu as toujours aimé le vent.', 'You', [(432, 'Tu as toujours aimé le vent')], ''),
-    ('mathias', 'Tu peux réessayer, sans tant de tragédie?', 'Can you try again, without so much tragedy?', [(437, 'réessayer, sans tant de tragédie')], ''),
-    ('mathias', 'Quelque chose de plus neutre.', 'Something more neutral.', [(438, 'Quelque chose de plus neutre')], ''),
+    ('solveig', 'Tu peux réessayer, sans tant de tragédie?', 'Can you try again, without so much tragedy?', [(437, 'réessayer, sans tant de tragédie')], ''),
+    ('solveig', 'Quelque chose de plus neutre.', 'Something more neutral.', [(438, 'Quelque chose de plus neutre')], ''),
     ('nathalie', "Si c'est ce que tu veux.", 'If that', [(442, "Si c'est ce que tu veux")], ''),
     ('nathalie', 'Depuis que tu es petite, je le savais.', 'Since you were little, I knew it.', [(444, 'Depuis que tu es petite')], ''),
     ('nathalie', "C'est plus neutre?", 'Is that more neutral?', [(445, "C'est plus neutre")], ''),

@@ -1,35 +1,37 @@
-# domashniy-arest/s01e03/scene-20.py
-ID = "domashniy-arest-s01e03-scene-20"
-SHOW = "domashniy-arest"
+# Authoring module for domashniy-arest-s01e03-scene-20.
+ID = 'domashniy-arest-s01e03-scene-20'
+SHOW = 'domashniy-arest'
 SEASON = 1
 EPISODE = 3
 SCENE = 20
-TITLE = "Прозвище на всю жизнь  (A Nickname for Life)"
-LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-SOURCE_NAME = "Домашний арест (Domashniy Arest) S1.03"
-SOURCE_FILE = "sources/domashniy-arest/s01/e03.ru.dual.srt"
-VOICES = {"narrator": "sky", "anya": "alisa", "slavik": "anja"}
-LABELS = {"anya": "Аркадий", "slavik": "Славик"}
+TITLE = 'Прозвище на всю жизнь  (A Nickname for Life)'
+LEVEL = 'A1 — Duolingo Section 2'
+PAIR = 'ru-en'
+LABELS = {'arkady': 'Аркадий', 'slavik': 'Славик'}
+SOURCE_NAME = 'Домашний арест (Domashniy Arest) S1.03'
+SOURCE_FILE = 'sources/domashniy-arest/s01/e03.ru.dual.srt'
 INTRO = "Meanwhile, in the communal kitchen, Arkady finds young Slavik sitting gloomily because his classmates gave him a humiliating nickname over Lyolya. While the bored secret-service agents across the street munch dry bread rings at their post, Arkady talks the boy into stealing Judge Berg's little dog. Let's listen in Russian first."
-STORY = [
-    ("anya", "Чего ты такой грустный, боец?", "Why are you so sad, soldier?", [(651, 'Чего'), (653, 'боец')], "cue 651 'пригорюнился, кружок очумелый ручек' simplified to A1 'ты такой грустный'"),
-    ("slavik", "Из-за вашей Лёли весь класс зовёт меня врунишкой!", "Because of your Lyolya the whole class calls me a little liar!", [(654, 'из-за'), (654, 'вашей Лёли'), (654, 'меня весь класс')], "vulgar schoolyard nickname in cue 654 replaced with clean A1 'врунишкой'"),
-    ("anya", "А Лёля здесь при чём?", "And what does Lyolya have to do with it?", [(655, 'А Лёля здесь при чем')], ""),
-    ("slavik", "Да при всём! У меня ничего не получается.", "Everything! Nothing is working out for me.", [(656, 'Да при всем'), (665, 'У меня не получается')], "'ничего' added"),
-    ("anya", "Да это легко. Схватил собачку в парке и побежал.", "Come on, it's easy. Grab the little dog in the park and run.", [(666, 'Да это легко. Схватил собачку и побежал')], "'в парке' added for clarity"),
-    ("anya", "Толстая девочка тебя не догонит. А Лёля пойдёт с тобой на вечеринку.", "The chubby girl won't catch you. And Lyolya will go to the party with you.", [(667, 'Толстая девочка тебя не догонит'), (668, 'А Лёля пойдёт с тобой на вечеринку')], ""),
-    ("slavik", "Я не буду красть собаку.", "I'm not going to steal a dog.", [(670, 'Я не буду'), (670, 'собаку')], "cue 670 misspells 'красть' as 'кресть'"),
-    ("anya", "Послушай, мы её вернём. Это просто шутка.", "Listen, we'll give her back. It's just a prank.", [(671, 'Послушай, мы её вернём')], "cue 672 'Это плёвое дело. Это розыгрыш.' simplified to 'Это просто шутка.'"),
-    ("slavik", "Нет.", "No.", [(673, 'Нет')], ""),
-    ("anya", "Слушай, эти детские клички такие прилипчивые. Твой отец когда-то назвал меня очкариком.", "Listen, these childhood nicknames really stick. Your father once called me four-eyes.", [(675, 'Слушай, эти детские клички'), (675, 'такие прилипчивые'), (677, 'твой отец')], "cue 677 'очконавт' -> 'очкарик'"),
-    ("anya", "И вот так на всю жизнь — очкарик.", "And it stayed like that for my whole life: four-eyes.", [(678, 'Вот так на всю жизнь')], "cue 678 'Очконавт' -> 'очкарик'"),
-    ("anya", "Тебе сорок лет, жена, дети. А тебя все зовут врунишкой!", "Imagine: you're forty, with a beautiful wife, children, a business. And everyone still calls you a little liar!", [(680, 'жена'), (681, 'Дети'), (682, 'все зовут')], "cue 682 vulgar nickname replaced with 'врунишкой'"),
-    ("anya", "Смотрите, врунишка новую машину купил! У врунишки сегодня день рождения!", "Look, the little liar bought a new car! It's the little liar's birthday today!", [(686, 'новую'), (686, 'купил'), (688, 'смотрите'), (689, 'сегодня день рождения')], "slang 'тачку' -> 'машину'; vulgar nickname -> 'врунишка'"),
-    ("slavik", "Ладно, давайте ваш адрес.", "Alright, give me your address.", [(693, 'Ладно, давайте ваш адрес')], ""),
-    ("anya", "А вот это молодец.", "Now that's a good lad.", [(694, 'А вот это молодец')], ""),
-]
 OPENER = "Let's go back through the conversation. Arkady comes into the kitchen and sees ten-year-old Slavik staring miserably at the table."
+TRANSITION = "Let's listen to the whole kitchen scene again from the beginning."
+OUTRO = "So Arkady scares poor Slavik with the thought of carrying a schoolyard nickname to his fortieth birthday, and sends him off to steal Judge Berg's dog. Listen for the nickname and the bargain when you watch. See you next time!"
+CLOSING = ('arkady', 'Пока!')
+STORY = [
+    ('arkady', 'Чего ты такой грустный, боец?', 'Why are you so sad, soldier?', [(651, 'Чего'), (653, 'боец')], "cue 651 'пригорюнился, кружок очумелый ручек' simplified to A1 'ты такой грустный'"),
+    ('slavik', 'Из-за вашей Лёли весь класс зовёт меня врунишкой!', 'Because of your Lyolya the whole class calls me a little liar!', [(654, 'из-за'), (654, 'вашей Лёли'), (654, 'меня весь класс')], "vulgar schoolyard nickname in cue 654 replaced with clean A1 'врунишкой'"),
+    ('arkady', 'А Лёля здесь при чём?', 'And what does Lyolya have to do with it?', [(655, 'А Лёля здесь при чем')], ''),
+    ('slavik', 'Да при всём! У меня ничего не получается.', 'Everything! Nothing is working out for me.', [(656, 'Да при всем'), (665, 'У меня не получается')], "'ничего' added"),
+    ('arkady', 'Да это легко. Схватил собачку в парке и побежал.', "Come on, it's easy. Grab the little dog in the park and run.", [(666, 'Да это легко. Схватил собачку и побежал')], "'в парке' added for clarity"),
+    ('arkady', 'Толстая девочка тебя не догонит. А Лёля пойдёт с тобой на вечеринку.', "The chubby girl won't catch you. And Lyolya will go to the party with you.", [(667, 'Толстая девочка тебя не догонит'), (668, 'А Лёля пойдёт с тобой на вечеринку')], ''),
+    ('slavik', 'Я не буду красть собаку.', "I'm not going to steal a dog.", [(670, 'Я не буду'), (670, 'собаку')], "cue 670 misspells 'красть' as 'кресть'"),
+    ('arkady', 'Послушай, мы её вернём. Это просто шутка.', "Listen, we'll give her back. It's just a prank.", [(671, 'Послушай, мы её вернём')], "cue 672 'Это плёвое дело. Это розыгрыш.' simplified to 'Это просто шутка.'"),
+    ('slavik', 'Нет.', 'No.', [(673, 'Нет')], ''),
+    ('arkady', 'Слушай, эти детские клички такие прилипчивые. Твой отец когда-то назвал меня очкариком.', 'Listen, these childhood nicknames really stick. Your father once called me four-eyes.', [(675, 'Слушай, эти детские клички'), (675, 'такие прилипчивые'), (677, 'твой отец')], "cue 677 'очконавт' -> 'очкарик'"),
+    ('arkady', 'И вот так на всю жизнь — очкарик.', 'And it stayed like that for my whole life: four-eyes.', [(678, 'Вот так на всю жизнь')], "cue 678 'Очконавт' -> 'очкарик'"),
+    ('arkady', 'Тебе сорок лет, жена, дети. А тебя все зовут врунишкой!', "Imagine: you're forty, with a beautiful wife, children, a business. And everyone still calls you a little liar!", [(680, 'жена'), (681, 'Дети'), (682, 'все зовут')], "cue 682 vulgar nickname replaced with 'врунишкой'"),
+    ('arkady', 'Смотрите, врунишка новую машину купил! У врунишки сегодня день рождения!', "Look, the little liar bought a new car! It's the little liar's birthday today!", [(686, 'новую'), (686, 'купил'), (688, 'смотрите'), (689, 'сегодня день рождения')], "slang 'тачку' -> 'машину'; vulgar nickname -> 'врунишка'"),
+    ('slavik', 'Ладно, давайте ваш адрес.', 'Alright, give me your address.', [(693, 'Ладно, давайте ваш адрес')], ''),
+    ('arkady', 'А вот это молодец.', "Now that's a good lad.", [(694, 'А вот это молодец')], ''),
+]
 WALK = [
     (0, None, "'Why are you so sad, soldier?' In casual Russian, 'of what' is often used to mean 'why'. He calls the boy 'fighter' or 'soldier' to sound matey. Slavik blames Arkady."),
     (1, None, "'Because of your Lyolya the whole class calls me a little liar!' Remember, Slavik showed off Lyolya's photo at school and claimed she was his girlfriend; in the show the boys give him a much cruder nickname, which we have cleaned up to 'little liar'. Notice the 'with/as' ending '-oy' after 'calls me'."),
@@ -54,6 +56,3 @@ WALK = [
     (13, None, "'Alright, give me your address.' He uses the polite plural command 'give' and 'your' because he is talking to an adult. Arkady beams."),
     (14, None, "'Now that's a good lad.' Literally 'and here this is a fine fellow'."),
 ]
-TRANSITION = "Let's listen to the whole kitchen scene again from the beginning."
-OUTRO = "So Arkady scares poor Slavik with the thought of carrying a schoolyard nickname to his fortieth birthday, and sends him off to steal Judge Berg's dog. Listen for the nickname and the bargain when you watch. See you next time!"
-CLOSING = ("anya", "Пока!")

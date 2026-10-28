@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Федя | Гена, ну скоро там? У меня рука затекла! | Gena, will it be much longer? My arm has gone numb! | #235 00:14:07: у меня все затекло уже | adapted: adapted |
-| 2 | Сеня | Сюрприз! Поздравляем нашего дорогого шефа со свадьбой! | Surprise! Congratulations to our dear Chef on his wedding! | #237 00:14:15: Чёрприз | adapted: adapted |
-| 3 | Федя | Ой, кажется, нам лучше отсюда быстро бежать! | Oh, it seems we had better run away from here quickly! | #238 00:14:18: Стоять | adapted: adapted |
-| 4 | Федя | Стоять на месте! Вы что тут вообще делаете? | Freeze right there! What on earth are you doing here? | #241 00:14:26: Вы вообще тут что делаете | adapted: adapted |
-| 5 | Сеня | Шеф, честно, я вообще сейчас ничего не видел! | Chef, honestly, I did not see anything at all right now! | #239 00:14:21: Шеф, а я вообще ничего не видел | adapted: adapted |
-| 6 | Федя | Мы клянёмся, что никому ничего не скажем! | We swear that we will not tell anyone anything! | #240 00:14:23: мы никому ничего не скажем | adapted: adapted |
-| 7 | Сеня | Нам сказали, что вы попросили открыть этот номер. | We were told that you asked to open this room. | #243 00:14:29: Попросили его открыть люкс | adapted: adapted |
-| 8 | Федя | А хорошее настроение у вас бывает редко. | And you are in a good mood only rarely. | #243 00:14:29: такое хорошее настроение у вас бывает только | adapted: adapted |
-| 9 | Сеня | Либо когда Спартак победил, либо перед выпивкой! | Either when Spartak won, or right before a drink! | #244 00:14:32: победил, либо перед выпивкой | adapted: adapted |
-| 10 | Федя | К тому же вы мне утром хитро подмигнули. | Besides, you slyly winked at me this morning. | #246 00:14:38: вы еще мне глазом вот так вот подмигнули | adapted: adapted |
-| 11 | Сеня | Вот мы и решили устроить вам весёлый мальчишник! | So we decided to throw you a fun bachelor party! | #247 00:14:41: Вот мы и решили, что вы готовитесь к мальчишнику | adapted: adapted |
-| 12 | Федя | Ладно, заходите, только закройте плотно входную дверь! | Fine, come in, just close the front door tightly! | #238 00:14:18: Стоять | adapted: adapted |
+| 1 | Шеф | Гена, ну скоро там? У меня рука затекла! | Gena, will it be much longer? My arm has gone numb! | #235: у меня все затекло уже | adapted: adapted |
+| 2 | Сеня | Сюрприз! Поздравляем нашего дорогого шефа со свадьбой! | Surprise! Congratulations to our dear Chef on his wedding! | #237: Чёрприз | adapted: adapted |
+| 3 | Федя | Ой, кажется, нам лучше отсюда быстро бежать! | Oh, it seems we had better run away from here quickly! | #238: Стоять | adapted: adapted |
+| 4 | Шеф | Стоять на месте! Вы что тут вообще делаете? | Freeze right there! What on earth are you doing here? | #241: Вы вообще тут что делаете | adapted: adapted |
+| 5 | Сеня | Шеф, честно, я вообще сейчас ничего не видел! | Chef, honestly, I did not see anything at all right now! | #239: Шеф, а я вообще ничего не видел | adapted: adapted |
+| 6 | Федя | Мы клянёмся, что никому ничего не скажем! | We swear that we will not tell anyone anything! | #240: мы никому ничего не скажем | adapted: adapted |
+| 7 | Сеня | Нам сказали, что вы попросили открыть этот номер. | We were told that you asked to open this room. | #243: Попросили его открыть люкс | adapted: adapted |
+| 8 | Федя | А хорошее настроение у вас бывает редко. | And you are in a good mood only rarely. | #243: такое хорошее настроение у вас бывает только | adapted: adapted |
+| 9 | Сеня | Либо когда Спартак победил, либо перед выпивкой! | Either when Spartak won, or right before a drink! | #244: победил, либо перед выпивкой | adapted: adapted |
+| 10 | Федя | К тому же вы мне утром хитро подмигнули. | Besides, you slyly winked at me this morning. | #246: вы еще мне глазом вот так вот подмигнули | adapted: adapted |
+| 11 | Сеня | Вот мы и решили устроить вам весёлый мальчишник! | So we decided to throw you a fun bachelor party! | #247: Вот мы и решили, что вы готовитесь к мальчишнику | adapted: adapted |
+| 12 | Шеф | Ладно, заходите, только закройте плотно входную дверь! | Fine, come in, just close the front door tightly! | #238: Стоять | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Gena, will it be much longer? My arm has gone numb!' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.
-- 'Surprise! Congratulations to our dear Chef on his wedding!' In Russian, the idea of 'surprise' flows naturally into 'wedding' without extra filler words.
-- 'Oh, it seems we had better run away from here quickly!' An emphatic spoken line centered on the verb meaning 'it seems'. Chef Barinov answers right away.
-- 'Freeze right there! What on earth are you doing here?' Chef Barinov brings out the contrast between 'to stand' and 'on' in a few short words.
-- 'Chef, honestly, I did not see anything at all right now!' Here the Russian phrasing highlights 'Chef Barinov' before landing on 'saw'.
-- 'We swear that we will not tell anyone anything!' Fedya anchors the line on 'we', while 'let's say' completes the thought. Senya answers right away.
-- 'We were told that you asked to open this room.' The grammar packs 'us' and 'number' into a tight, idiomatic kitchen exchange.
-- 'And you are in a good mood only rarely.' Fedya brings out the contrast between 'and' and 'lovely' in a few short words.
-- 'Either when Spartak won, or right before a drink!' An emphatic spoken line centered on the verb meaning 'won'. Fedya answers right away.
-- 'Besides, you slyly winked at me this morning.' Fedya brings out the contrast between 'that' and 'but' in a few short words.
-- 'So we decided to throw you a fun bachelor party!' Senya brings out the contrast between 'here' and 'we' in a few short words.
-- 'Fine, come in, just close the front door tightly!' Spoken Russian keeps this brisk, leaning on 'all right' and finishing on 'door'.
+- 'Gena, will it be much longer? My arm has gone numb!' Questioning whether someone will it be much longer is how Barinov tests Fedya's story.
+- 'Surprise! Congratulations to our dear Chef on his wedding!' Over the point and the party, Senya lets his real feelings show. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Oh, it seems we had better run away from here quickly!' Once it seems they had better run away from here quickly, Fedya makes sure Barinov hears every word. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Freeze right there! What on earth are you doing here?' With the point and surprise hanging in the air, Barinov puts Fedya on the spot.
+- 'Chef, honestly, I did not see anything at all right now!' Senya insists that he did not see anything at all right now, leaving Barinov no room to argue. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
+- 'We swear that we will not tell anyone anything!' Once they swear that they will not tell anyone anything, Fedya makes sure Barinov hears every word. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
+- 'We were told that you asked to open this room.' Pointing out that they were told that Barinov asked to open this room gives Barinov a sobering reality check.
+- 'And you are in a good mood only rarely.' Fedya explains that Barinov is in a good mood only rarely, keeping his voice calm and direct. Russian expresses having something as "by me is", keeping the phrase short and grounded.
+- 'Either when Spartak won, or right before a drink!' Insisting that either when Spartak won or right before a drink shows Senya is not backing down. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Besides, you slyly winked at me this morning.' With the shift and party in play, Fedya keeps this short reply brisk and direct.
+- 'So we decided to throw you a fun bachelor party!' Declaring that they decided to throw Barinov a fun bachelor party brings Senya's temper right to the surface. Notice how he sticks to the formal "you", keeping a professional line between them.
+- 'Fine, come in, just close the front door tightly!' Over the party and the hotel, Barinov lets his real feelings show. Russian puts the key word right up front so his emotion lands on the first beat.

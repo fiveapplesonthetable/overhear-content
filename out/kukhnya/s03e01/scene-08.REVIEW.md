@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Шеф | Дима, ты что, издеваешься? | Dima, are you kidding me? | #131 00:08:49: Дим, ты что издеваешься | adapted: adapted |
-| 2 | Шеф | Это же женщина! | She is a woman! | #131 00:08:49: Это же женщина | verbatim |
-| 3 | Шеф | Дима, ты знаешь моё отношение к этому. | Dima, you know my attitude toward this. | #134 00:09:04: Дима, ты знаешь мое отношение к этому | verbatim |
-| 4 | Шеф | Женщина на моей кухне работать не будет. | A woman will not work in my kitchen. | #135 00:09:07: Женщина на моей кухне работать не будет | verbatim |
-| 5 | Шеф | Настя, ты рассказала родителям? | Nastya, did you tell your parents? | #142 00:09:35: Настя, ты рассказала родителям | verbatim |
-| 6 | Настя | Нет ещё. | Not yet. | #143 00:09:38: Нет еще | verbatim |
-| 7 | Шеф | Настя, в чём дело? Почему ты скрываешь? | Nastya, what is the matter? Why are you hiding it? | #144 00:09:40: Настя, в чем дело? Почему ты скрываешь | verbatim |
-| 8 | Настя | Боюсь. | I am afraid. | #145 00:09:43: Боюсь | verbatim |
-| 9 | Настя | У меня папа старых взглядов. | My dad has old-fashioned views. | #146 00:09:46: у меня папа, он старых взглядов | adapted: adapted |
-| 10 | Настя | Я забеременела до свадьбы. | I got pregnant before the wedding. | #147 00:09:50: я забеременела до свадьбы | verbatim |
-| 11 | Настя | Он, пожалуй, тебя убьёт. | He will probably kill you. | #148 00:09:53: он, пожалуй, тебя убьет | verbatim |
-| 12 | Шеф | Меня? Меня-то он за что? | Me? Why me? | #149 00:09:56: Меня? Меня-то он | adapted: adapted |
+| 1 | Шеф | Дима, ты что, издеваешься? | Dima, are you kidding me? | #131: Дим, ты что издеваешься | adapted: adapted |
+| 2 | Шеф | Это же женщина! | She is a woman! | #131: Это же женщина | verbatim |
+| 3 | Шеф | Дима, ты знаешь моё отношение к этому. | Dima, you know my attitude toward this. | #134: Дима, ты знаешь мое отношение к этому | verbatim |
+| 4 | Шеф | Женщина на моей кухне работать не будет. | A woman will not work in my kitchen. | #135: Женщина на моей кухне работать не будет | verbatim |
+| 5 | Костя | Настя, ты рассказала родителям? | Nastya, did you tell your parents? | #142: Настя, ты рассказала родителям | verbatim |
+| 6 | Настя | Нет ещё. | Not yet. | #143: Нет еще | verbatim |
+| 7 | Костя | Настя, в чём дело? Почему ты скрываешь? | Nastya, what is the matter? Why are you hiding it? | #144: Настя, в чем дело? Почему ты скрываешь | verbatim |
+| 8 | Настя | Боюсь. | I am afraid. | #145: Боюсь | verbatim |
+| 9 | Настя | У меня папа старых взглядов. | My dad has old-fashioned views. | #146: у меня папа, он старых взглядов | adapted: adapted |
+| 10 | Настя | Я забеременела до свадьбы. | I got pregnant before the wedding. | #147: я забеременела до свадьбы | verbatim |
+| 11 | Настя | Он, пожалуй, тебя убьёт. | He will probably kill you. | #148: он, пожалуй, тебя убьет | verbatim |
+| 12 | Костя | Меня? Меня-то он за что? | Me? Why me? | #149: Меня? Меня-то он | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dima, are you kidding me?' Chef Barinov anchors the line on 'Dima', while 'are mocking' completes the thought.
-- 'She is a woman!' Spoken Russian keeps this brisk, leaning on 'this' and finishing on 'woman'.
-- 'Dima, you know my attitude toward this.' Chef Barinov anchors the line on 'Dima', while 'this' completes the thought.
-- 'A woman will not work in my kitchen.' The grammar packs 'woman' and 'will be' into a tight, idiomatic kitchen exchange.
-- 'Nastya, did you tell your parents?' Kostya raises the pitch on 'to parents' to turn the phrase into a direct spoken question. Nastya answers right away.
-- 'Not yet.' Nastya anchors the line on 'no', while 'else' completes the thought.
-- 'Nastya, what is the matter? Why are you hiding it?' Kostya brings out the contrast between 'Nastya' and 'what' in a few short words.
-- 'I am afraid.' Spoken Russian keeps this brief and expressive, built right around 'am afraid' without extra helper words.
-- 'My dad has old-fashioned views.' Nastya brings out the contrast between 'at' and 'me' in a few short words.
-- 'I got pregnant before the wedding.' In Russian, the idea of 'I' flows naturally into 'wedding' without extra filler words.
-- 'He will probably kill you.' Spoken Russian keeps this brisk, leaning on 'he' and finishing on 'will kill'. Kostya answers right away.
-- 'Me? Why me?' Kostya anchors the line on 'me', while 'what' completes the thought.
+- 'Dima, are you kidding me?' Asking whether Kostya kidding him cuts straight through the tension between Barinov and Kostya. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'She is a woman!' Once she is a woman, Barinov makes sure Kostya hears every word. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'Dima, you know my attitude toward this.' Around the truth and point, Barinov sets a calm, everyday tone with Kostya.
+- 'A woman will not work in my kitchen.' Barinov tells Kostya that a woman will not work in his kitchen without dressing it up.
+- 'Nastya, did you tell your parents?' Checking whether Barinov tells Barinov's parents cuts straight through the tension between Kostya and Barinov. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Not yet.' Between the plan and the kitchen, Nastya gives Barinov a quick, grounded response.
+- 'Nastya, what is the matter? Why are you hiding it?' Here asking what the matter is shows Kostya looking for the real truth. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'I am afraid.' Explaining that she is afraid lays the cards on the table for Barinov.
+- 'My dad has old-fashioned views.' Explaining that her dad has old views lays the cards on the table for Barinov.
+- 'I got pregnant before the wedding.' Nastya mentions that she got pregnant before the wedding so Barinov sees what is at stake.
+- 'He will probably kill you.' Claiming that he will probably kill Barinov sounds confident, even if Barinov has doubts. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Me? Why me?' With the conversation and room hanging in the air, Kostya puts Barinov on the spot.

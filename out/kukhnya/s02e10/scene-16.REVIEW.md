@@ -10,32 +10,32 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Не мог бы. | Could I possibly borrow it. | #249 00:17:04: Не мог бы | verbatim |
-| 2 | Саша | Они не мои. | The money is not mine. | #250 00:17:06: Они не мои | verbatim |
-| 3 | Лёва | Я хотел сделать ей такой подарок. | I wanted to get her a special gift. | #253 00:17:14: Я хотел сделать ей такой подарок | verbatim |
-| 4 | Аня | Мама это святое. | A mother is sacred. | #256 00:17:27: Мама это святое | verbatim |
-| 5 | Саша | Я обязательно верну. | I will definitely pay it back. | #257 00:17:29: Я обязательно верну | verbatim |
-| 6 | Лёва | А салат уже готов. | And the salad is already ready. | #259 00:17:37: А салат уже готов | verbatim |
-| 7 | Аня | Саша, слушай. | Sasha, listen. | #260 00:17:40: Саша, слушай | verbatim |
-| 8 | Саша | Я вижу, тебе у нас не совсем удобно. | I can see that you are not entirely comfortable staying at our place. | #261 00:17:45: Я вижу, тебе у нас не совсем удобно | verbatim |
-| 9 | Лёва | Я нашел деньги. | I found the money. | #262 00:17:47: Я нашел деньги | verbatim |
-| 10 | Аня | Ты знаешь. | You know. | #263 00:17:53: ты знаешь | verbatim |
-| 11 | Саша | Потому что я так поругалась хозяйка на днях. | Because I had such a bad fight with the landlady the other day. | #264 00:17:57: потому что я так поругалась хозяйка на днях | verbatim |
-| 12 | Лёва | Давай сам к ней поеду. | Let me go talk to her myself. | #265 00:18:00: Давай сам к ней поеду | verbatim |
-| 13 | Аня | Да? Да? | Really? Really? | #266 00:18:03: Да? Да | verbatim |
+| 1 | Макс | Не мог бы. | Could I possibly borrow it. | #249: Не мог бы | verbatim |
+| 2 | Саша | Они не мои. | The money is not mine. | #250: Они не мои | verbatim |
+| 3 | Лёва | Я хотел сделать ей такой подарок. | I wanted to get her a special gift. | #253: Я хотел сделать ей такой подарок | verbatim |
+| 4 | Макс | Мама это святое. | A mother is sacred. | #256: Мама это святое | verbatim |
+| 5 | Саша | Я обязательно верну. | I will definitely pay it back. | #257: Я обязательно верну | verbatim |
+| 6 | Лёва | А салат уже готов. | And the salad is already ready. | #259: А салат уже готов | verbatim |
+| 7 | Макс | Саша, слушай. | Sasha, listen. | #260: Саша, слушай | verbatim |
+| 8 | Саша | Я вижу, тебе у нас не совсем удобно. | I can see that you are not entirely comfortable staying at our place. | #261: Я вижу, тебе у нас не совсем удобно | verbatim |
+| 9 | Лёва | Я нашел деньги. | I found the money. | #262: Я нашел деньги | verbatim |
+| 10 | Макс | Ты знаешь. | You know. | #263: ты знаешь | verbatim |
+| 11 | Саша | Потому что я так поругалась хозяйка на днях. | Because I had such a bad fight with the landlady the other day. | #264: потому что я так поругалась хозяйка на днях | verbatim |
+| 12 | Лёва | Давай сам к ней поеду. | Let me go talk to her myself. | #265: Давай сам к ней поеду | verbatim |
+| 13 | Макс | Да? Да? | Really? Really? | #266: Да? Да | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Could I possibly borrow it.' Max anchors the line on 'not', while 'would' completes the thought.
-- 'The money is not mine.' Sasha anchors the line on 'they', while 'my' completes the thought. Lyova answers right away.
-- 'I wanted to get her a special gift.' The grammar packs 'I' and 'gift' into a tight, idiomatic kitchen exchange.
-- 'A mother is sacred.' Here the Russian phrasing highlights 'mum' before landing on 'holy'.
-- 'I will definitely pay it back.' The grammar packs 'I' and 'to return' into a tight, idiomatic kitchen exchange. Lyova answers right away.
-- 'And the salad is already ready.' Spoken Russian keeps this brisk, leaning on 'and' and finishing on 'ready'.
-- 'Sasha, listen.' Max brings out the contrast between 'Sasha' and 'listen' in a few short words.
-- 'I can see that you are not entirely comfortable staying at our place.' The negative particle sits right before the verb meaning 'see' to negate the statement. Lyova answers right away.
-- 'I found the money.' The meaning hinges on 'I' working together with 'money' in spoken Russian.
-- 'You know.' Max anchors the line on 'you', while 'know' completes the thought.
-- 'Because I had such a bad fight with the landlady the other day.' The grammar packs 'because' and 'days' into a tight, idiomatic kitchen exchange. Lyova answers right away.
-- 'Let me go talk to her myself.' Here the Russian phrasing highlights 'let's' before landing on 'will go'.
-- 'Really? Really?' Max brings out the contrast between 'yes' and 'yes' in a few short words.
+- 'Could I possibly borrow it.' Claiming that could he possibly borrow it sounds confident, even if Lyova has doubts.
+- 'The money is not mine.' Pointing out that the money is not gives Lyova a sobering reality check.
+- 'I wanted to get her a special gift.' Lyova explains that he wanted to get her a special gift, keeping his voice calm and direct.
+- 'A mother is sacred.' Realizing that a mother is sacred changes how Max handles the situation.
+- 'I will definitely pay it back.' Noting that she will definitely pay it back keeps Sasha's side of the story simple and clear.
+- 'And the salad is already ready.' Even though the salad is already ready, Lyova keeps a steady face in front of Max.
+- 'Sasha, listen.' Around the money and moment, Max sets a calm, everyday tone with Lyova.
+- 'I can see that you are not entirely comfortable staying at our place.' Saying that she can see that Lyova is not entirely comfortable staying at their place is how Sasha sets the tone with Lyova. Russian expresses having something as "by me is", keeping the phrase short and grounded.
+- 'I found the money.' Once he found the money, Lyova can finally tell Max what he means.
+- 'You know.' Between the money and the truth, Max gives Lyova a quick, grounded response.
+- 'Because I had such a bad fight with the landlady the other day.' Sasha tells Lyova that because she had such a bad fight with the landlady the other day without dressing it up.
+- 'Let me go talk to her myself.' Admitting that Max should let him go talk to her himself shows Lyova being honest for a change. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
+- 'Really? Really?' Around the shift and apartment, Max wants to know where Lyova really stands.

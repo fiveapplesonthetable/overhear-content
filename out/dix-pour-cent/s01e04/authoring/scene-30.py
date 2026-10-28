@@ -7,7 +7,6 @@ SCENE = 30
 TITLE = "Tout pour l'UNICEF  (All for UNICEF)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'audrey': 'emilie', 'mathias': 'marcel'}
 LABELS = {'audrey': 'Audrey', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e04.fr.dual.srt'

@@ -1,40 +1,38 @@
-# Полный зал  (A Packed House) — `kukhnya-s01e12-scene-18`
+# kukhnya-s01e12-scene-18: review sheet
 
-**Source:** Кухня (Kukhnya) S1.12 · `sources/kukhnya/s01/e12.ru.dual.srt`  
-**Target level:** A1 — Duolingo Section 2
+Title: Полный зал  (A Packed House)
+Level: A1 — Duolingo Section 2
+Pair: ru-en
+Source: Кухня (Kukhnya) S1.12
 
-## Cast
 
-| Role | Voice | Label |
-|---|---|---|
-| `narrator` | sky | — |
-| `nagiyev` | angelina | Нагиев |
-| `angelina_h` | anja | Ангелина |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 1 — Intro
-
-> In the dining room of Claude Monet, restaurant owner Dmitry Nagiyev checks the reservation book with hostess Angelina. Delighted to hear that all tables are booked solid, Nagiyev proudly declares that their restaurant needs no gimmicks to win over guests. Listen to their conversation in Russian first, then we will break down each line in English.
-
-## Part 2 — Story
-
-| # | Speaker | Line | English | Source cue(s) | Change |
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 0 | Нагиев | Ангелина, что у нас с резервами сегодня? | Angelina, how are our reservations today? | #239 "Ангелина, что у нас с резервами на сегодня?" |  |
-| 1 | Ангелина | Дмитрий Владимирович, все столики уже заняты. | Dmitry Vladimirovich, all tables are already booked. | #240 "Все столики забронированы." |  |
-| 2 | Нагиев | Правда? Совсем не осталось мест? | Really? Are there no seats left at all? | *(added)* |  |
-| 3 | Ангелина | Да, свободных столиков больше нет. | Yes, there are no more free tables. | *(added)* |  |
-| 4 | Ангелина | Гости начнут приходить с минуты на минуту. | The guests will start arriving any minute. | #240 "Гость сейчас будет приезжать." |  |
-| 5 | Нагиев | Ты смотри! Вышло так, как я говорил. | Look at that! It turned out just like I said. | #241 "Ты смотри, опять вышло так, как я сказал." |  |
-| 6 | Ангелина | Наш ресторан сейчас очень популярен. | Our restaurant is very popular right now. | *(added)* |  |
-| 7 | Нагиев | Люди любят нас именно такими! | People love us just the way we are! | #242 "Нас любят такими, какими мы есть." |  |
-| 8 | Нагиев | Иди готовь дополнительные столики. | Go prepare additional tables. | #243 "Иди готовь экстра столики." |  |
-| 9 | Ангелина | Мы поставим ещё два стола у окна. | We will place two more tables by the window. | *(added)* |  |
-| 10 | Нагиев | Отлично, сегодня у нас полный зал! | Great, today we have a full house! | #244 "У нас сегодня биток." |  |
-| 11 | Ангелина | Я сейчас всё быстро организую. | I will quickly organize everything right now. | *(added)* |  |
-| 12 | Нагиев | Прекрасно, вечер обещает быть удачным! | Wonderful, the evening promises to be successful! | *(added)* |  |
+| 1 | Нагиев | Ангелина, что у нас с резервами сегодня? | Angelina, how are our reservations today? | #239: Ангелина, что у нас с резервами на сегодня? | verbatim |
+| 2 | Ангелина | Дмитрий Владимирович, все столики уже заняты. | Dmitry Vladimirovich, all tables are already booked. | #240: Все столики забронированы. | verbatim |
+| 3 | Нагиев | Правда? Совсем не осталось мест? | Really? Are there no seats left at all? | new | new |
+| 4 | Ангелина | Да, свободных столиков больше нет. | Yes, there are no more free tables. | new | new |
+| 5 | Ангелина | Гости начнут приходить с минуты на минуту. | The guests will start arriving any minute. | #240: Гость сейчас будет приезжать. | verbatim |
+| 6 | Нагиев | Ты смотри! Вышло так, как я говорил. | Look at that! It turned out just like I said. | #241: Ты смотри, опять вышло так, как я сказал. | verbatim |
+| 7 | Ангелина | Наш ресторан сейчас очень популярен. | Our restaurant is very popular right now. | new | new |
+| 8 | Нагиев | Люди любят нас именно такими! | People love us just the way we are! | #242: Нас любят такими, какими мы есть. | verbatim |
+| 9 | Нагиев | Иди готовь дополнительные столики. | Go prepare additional tables. | #243: Иди готовь экстра столики. | verbatim |
+| 10 | Ангелина | Мы поставим ещё два стола у окна. | We will place two more tables by the window. | new | new |
+| 11 | Нагиев | Отлично, сегодня у нас полный зал! | Great, today we have a full house! | #244: У нас сегодня биток. | verbatim |
+| 12 | Ангелина | Я сейчас всё быстро организую. | I will quickly organize everything right now. | new | new |
+| 13 | Нагиев | Прекрасно, вечер обещает быть удачным! | Wonderful, the evening promises to be successful! | new | new |
 
-## Part 5 — Outro & closing
+## Walk-through narration (English only, no target-language words quoted)
 
-> In the Claude Monet dining room, owner Dmitry Nagiyev inspects the reservation book with hostess Angelina, celebrating that every single table is booked for the evening. Next time you watch the episode, listen for the Russian expressions for 'perfectly' and 'window' — you will catch every word right away. See you next time!
-
-**Нагиев:** Пока!
+- 'Angelina, how are our reservations today?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'Dmitry Vladimirovich, all tables are already booked.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'Yes, there are no more free tables.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'The guests will start arriving any minute.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
+- 'Look at that! It turned out just like I said.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'People love us just the way we are!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'Go prepare additional tables.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'We will place two more tables by the window.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'Great, today we have a full house!' — exclamatory adverb followed by an idiomatic possession phrase.
+- 'Wonderful, the evening promises to be successful!' — modal verb governing an basic verb form and matching form adjective. Now listen to the full conversation once more. Now let's listen to the whole conversation again from start to finish.

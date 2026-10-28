@@ -1,38 +1,40 @@
-# domashniy-arest/s01e02/scene-08.py
-ID = "domashniy-arest-s01e02-scene-08"
-SHOW = "domashniy-arest"
+# Authoring module for domashniy-arest-s01e02-scene-08.
+ID = 'domashniy-arest-s01e02-scene-08'
+SHOW = 'domashniy-arest'
 SEASON = 1
 EPISODE = 2
 SCENE = 8
-TITLE = "Самсон идёт в мэры  (Samson for Mayor)"
-LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-SOURCE_NAME = "Домашний арест (Domashniy Arest) S1.02"
-SOURCE_FILE = "sources/domashniy-arest/s01/e02.ru.dual.srt"
-VOICES = {"narrator": "sky", "samson": "anja", "nina": "angelina"}
-LABELS = {"samson": "Самсон", "nina": "Нина"}
+TITLE = 'Самсон идёт в мэры  (Samson for Mayor)'
+LEVEL = 'A1 — Duolingo Section 2'
+PAIR = 'ru-en'
+LABELS = {'nina': 'Нина', 'samson': 'Самсон'}
+SOURCE_NAME = 'Домашний арест (Domashniy Arest) S1.02'
+SOURCE_FILE = 'sources/domashniy-arest/s01/e02.ru.dual.srt'
 INTRO = "Last time, in the toilet queue, Arkady pushed past a sick little boy and was told off by the boy's mother, Marina, the lecturer from the monastery protest; then his own former bodyguards took him away. Meanwhile, next door, Samson bursts into his family's room in high spirits, with big news for his wife Nina. Let's listen in Russian first."
-STORY = [
-    ("samson", "Подъём! Папка уже закалку совершил.", "Rise and shine! Daddy's already had his cold dip.", [(185, 'подъем'), (188, 'Папка уже закалку совершил')], "'Аркаша, подъём!' (cue 185) -> 'Подъём!'"),
-    ("nina", "Ну тебя! Больной!", "Oh, get away! You're crazy!", [(191, 'Ну, тебя'), (189, 'Больной')], "cue order swapped"),
-    ("samson", "Нина, налей мужу. Есть праздник!", "Nina, pour your husband a drink. We've got something to celebrate!", [(192, 'мужу'), (194, 'Есть праздник')], "slangy 'полтишку плескани' (splash fifty grams) -> 'налей'"),
-    ("nina", "Что за праздник?", "What's the occasion?", [(193, 'Что за праздник')], "'-то' dropped"),
-    ("samson", "Да, всё будет хорошо.", "Yes, everything's going to be fine.", [(197, 'Да, все будет')], "slang 'пучком' -> 'хорошо'"),
-    ("nina", "Что-то я не вижу.", "I can't see it somehow.", [(198, 'я не вижу')], "colloquial 'Чего-то' -> 'Что-то'"),
-    ("samson", "В общем, я иду в мэры.", "So, I'm running for mayor.", [(201, 'В общем'), (201, 'в мэры')], "'буду выбираться' (I'll get myself elected) -> 'иду', as Nina says in cue 213"),
-    ("nina", "Куда?", "Running for what?", [(202, 'Куда')], ""),
-    ("samson", "В мэры нашего города. Аркаша предложил.", "For mayor of our town. Arkasha suggested it.", [(203, 'В мэры нашего города'), (204, 'предложил')], "'Аркаш' -> 'Аркаша'"),
-    ("samson", "Я буду мэром вместо него, чтобы его потом вытащить.", "I'll be mayor instead of him, so I can get him out later.", [(206, 'чтобы его потом вытащить')], "cue 205 ('I'll run for his seat') simplified to 'Я буду мэром вместо него'"),
-    ("samson", "А у меня все шансы. Жена, двое детей, служил в армии.", "And I've got every chance. A wife, two kids, no prison record, I served in the army.", [(207, 'А у меня все шансы'), (208, 'Жена, двое детей')], "'православный' (Orthodox) left to the narrator; 'в ВДВ' (the Airborne Troops) -> 'служил в армии'"),
-    ("samson", "Почему ты молчишь?", "Why aren't you saying anything?", [(211, 'ты молчишь')], "colloquial 'Чего' -> 'Почему'"),
-    ("nina", "Ничего. А может, потом в президенты?", "Nothing. And maybe president after that?", [(212, 'Ничего'), (214, 'А может потом в президенты')], ""),
-    ("samson", "Ну что ты начинаешь?", "Oh, why do you have to start?", [(216, 'ты начинаешь')], "'чего' -> 'что'; 'вот' dropped"),
-    ("nina", "Сходи к начальнику, попроси у него прощения.", "Go to your boss and ask him to forgive you.", [(220, 'Сходи ты к'), (221, 'попроси ты у него прощения')], "the boss's surname -> 'к начальнику'; the two emphatic 'ты' dropped, so only the cue openings are cited"),
-    ("samson", "Нина, имей совесть! Я вчера ради вас всё сделал.", "Nina, have a heart! Yesterday I did everything for you.", [(224, 'совесть'), (225, 'ради вас')], "colloquial 'поимей' -> 'имей'; cue 225 (the crude allusion to the humiliating kiss) -> 'всё сделал'"),
-    ("nina", "Всё, теперь ты герой? И можно только пить?", "So now you're a hero? And all you have to do is drink?", [(228, 'Всё, теперь'), (228, 'герой')], "slang 'бухать' -> 'пить'; 'ничего делать не надо' dropped"),
-    ("samson", "Я стану мэром, понятно?", "I'm going to be mayor, understood?", [(229, 'Я стану мэром, понятно')], ""),
-]
 OPENER = "Let's take it slowly. Samson has just come back from a swim in icy water, and he wants everybody to know."
+TRANSITION = 'And now the whole scene again, from the moment he bursts in.'
+OUTRO = "So Samson wants to be mayor, and Nina thinks he's dreaming. Listen out for 'rise and shine' and for his big promise at the end. See you next time!"
+CLOSING = ('nina', 'Пока!')
+STORY = [
+    ('samson', 'Подъём! Папка уже закалку совершил.', "Rise and shine! Daddy's already had his cold dip.", [(185, 'подъем'), (188, 'Папка уже закалку совершил')], "'Аркаша, подъём!' (cue 185) -> 'Подъём!'"),
+    ('nina', 'Ну тебя! Больной!', "Oh, get away! You're crazy!", [(191, 'Ну, тебя'), (189, 'Больной')], 'cue order swapped'),
+    ('samson', 'Нина, налей мужу. Есть праздник!', "Nina, pour your husband a drink. We've got something to celebrate!", [(192, 'мужу'), (194, 'Есть праздник')], "slangy 'полтишку плескани' (splash fifty grams) -> 'налей'"),
+    ('nina', 'Что за праздник?', "What's the occasion?", [(193, 'Что за праздник')], "'-то' dropped"),
+    ('samson', 'Да, всё будет хорошо.', "Yes, everything's going to be fine.", [(197, 'Да, все будет')], "slang 'пучком' -> 'хорошо'"),
+    ('nina', 'Что-то я не вижу.', "I can't see it somehow.", [(198, 'я не вижу')], "colloquial 'Чего-то' -> 'Что-то'"),
+    ('samson', 'В общем, я иду в мэры.', "So, I'm running for mayor.", [(201, 'В общем'), (201, 'в мэры')], "'буду выбираться' (I'll get myself elected) -> 'иду', as Nina says in cue 213"),
+    ('nina', 'Куда?', 'Running for what?', [(202, 'Куда')], ''),
+    ('samson', 'В мэры нашего города. Аркаша предложил.', 'For mayor of our town. Arkasha suggested it.', [(203, 'В мэры нашего города'), (204, 'предложил')], "'Аркаш' -> 'Аркаша'"),
+    ('samson', 'Я буду мэром вместо него, чтобы его потом вытащить.', "I'll be mayor instead of him, so I can get him out later.", [(206, 'чтобы его потом вытащить')], "cue 205 ('I'll run for his seat') simplified to 'Я буду мэром вместо него'"),
+    ('samson', 'А у меня все шансы. Жена, двое детей, служил в армии.', "And I've got every chance. A wife, two kids, no prison record, I served in the army.", [(207, 'А у меня все шансы'), (208, 'Жена, двое детей')], "'православный' (Orthodox) left to the narrator; 'в ВДВ' (the Airborne Troops) -> 'служил в армии'"),
+    ('samson', 'Почему ты молчишь?', "Why aren't you saying anything?", [(211, 'ты молчишь')], "colloquial 'Чего' -> 'Почему'"),
+    ('nina', 'Ничего. А может, потом в президенты?', 'Nothing. And maybe president after that?', [(212, 'Ничего'), (214, 'А может потом в президенты')], ''),
+    ('samson', 'Ну что ты начинаешь?', 'Oh, why do you have to start?', [(216, 'ты начинаешь')], "'чего' -> 'что'; 'вот' dropped"),
+    ('nina', 'Сходи к начальнику, попроси у него прощения.', 'Go to your boss and ask him to forgive you.', [(220, 'Сходи ты к'), (221, 'попроси ты у него прощения')], "the boss's surname -> 'к начальнику'; the two emphatic 'ты' dropped, so only the cue openings are cited"),
+    ('samson', 'Нина, имей совесть! Я вчера ради вас всё сделал.', 'Nina, have a heart! Yesterday I did everything for you.', [(224, 'совесть'), (225, 'ради вас')], "colloquial 'поимей' -> 'имей'; cue 225 (the crude allusion to the humiliating kiss) -> 'всё сделал'"),
+    ('nina', 'Всё, теперь ты герой? И можно только пить?', "So now you're a hero? And all you have to do is drink?", [(228, 'Всё, теперь'), (228, 'герой')], "slang 'бухать' -> 'пить'; 'ничего делать не надо' dropped"),
+    ('samson', 'Я стану мэром, понятно?', "I'm going to be mayor, understood?", [(229, 'Я стану мэром, понятно')], ''),
+]
 WALK = [
     (0, 'Подъём!', "'Rise and shine!' It's the army wake-up call, literally 'getting up'. Samson served in the army, and it shows."),
     (0, 'Папка уже закалку совершил.', "'Daddy's already had his cold dip.' He calls himself 'Daddy', the way a father does with his kids. The noun means toughening yourself up with cold water, and the verb is a solemn word for 'did'. Nina isn't impressed."),
@@ -58,6 +60,3 @@ WALK = [
     (16, None, "'So now you're a hero? And all you have to do is drink?' Literally 'and you may only drink'. That stings. Samson answers with a promise."),
     (17, None, "'I'm going to be mayor, understood?' The verb is a single-action verb, so it's a firm future: 'I will become'. And notice the ending on 'mayor': after 'become', a job or role takes a special ending, the one that means 'as'."),
 ]
-TRANSITION = "And now the whole scene again, from the moment he bursts in."
-OUTRO = "So Samson wants to be mayor, and Nina thinks he's dreaming. Listen out for 'rise and shine' and for his big promise at the end. See you next time!"
-CLOSING = ("nina", "Пока!")

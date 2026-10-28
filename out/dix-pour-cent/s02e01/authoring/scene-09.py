@@ -7,8 +7,7 @@ SCENE = 9
 TITLE = "L'agent de façade  (The Front Agent)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'virginie': 'emilie', 'gabriel': 'theo', 'mathias': 'marcel'}
-LABELS = {'virginie': 'Virginie', 'gabriel': 'Gabriel', 'mathias': 'Mathias'}
+LABELS = {'gabriel': 'Gabriel', 'mathias': 'Mathias', 'virginie': 'Virginie'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e01.fr.dual.srt'
 INTRO = "At the ASK offices, actress Virginie Efira arrives in complete distress. Scandalous magazine photos showed her kissing an old flame in Brussels, and her partner Ramzy Bedia immediately threw her out of their apartment. Now Mathias and Gabriel must manage the crisis. Let's listen to the scene in French first."
@@ -41,15 +40,15 @@ WALK = [
     (3, None, "'You should have spoken to him.' A past conditional expression of advice or regret."),
     (4, None, "'It was nothing, just a very affectionate goodbye.' An imperfect description followed by a common greeting noun."),
     (5, None, "'That guy does not matter, it is an old story.' The adjective meaning 'old' agrees in gender and number with masculine noun 'guy'."),
-    (6, None, "'I ruined everything!' A strong past tense exclamation of regret."),
-    (7, None, "'How do we pay the rent now?' An informal present tense question using the pronoun meaning we."),
-    (8, None, "'We must be reasonable. Mathias will find a solution.' Gabriel urges patience while invoking Mathias's authority."),
-    (9, None, "'Virginie, calm down. We are handling it.' An command form followed by the pronominal verb for taking care of a problem."),
-    (10, None, "'The paparazzi are downstairs, they are waiting for you.' The spatial adverb meaning downstairs."),
-    (11, None, "'Here is what we are going to do.' A classic presentative phrase introducing a plan of action."),
-    (12, None, "'I will be your interim agent in a way.' The simple future tense of the verb to be."),
-    (13, None, "'A temporary arrangement, just a facade.' Mathias clarifies the diplomatic nature of the split."),
-    (14, None, "'First my boyfriend leaves me, now my agent!' Virginie sums up her terrible morning with dark humour."),
-    (15, None, "'Do not take it like that. Gabriel and I work together.' A reassuring negative command form."),
-    (16, None, "'We are going to fix this, we promise you.' The key word here means 'are going to', paired with 'promise' to make the point clear. Now let's listen to the whole discussion again without stopping."),
+    (6, "J'ai tout gâché!", "'I ruined everything!' A strong past tense exclamation of regret."),
+    (6, 'Comment on paie le loyer maintenant?', "'How do we pay the rent now?' An informal present tense question using the pronoun meaning we."),
+    (7, None, "'We must be reasonable. Mathias will find a solution.' Gabriel urges patience while invoking Mathias's authority."),
+    (8, None, "'Virginie, calm down. We are handling it.' An command form followed by the pronominal verb for taking care of a problem."),
+    (9, None, "'The paparazzi are downstairs, they are waiting for you.' The spatial adverb meaning downstairs."),
+    (10, None, "'Here is what we are going to do.' A classic presentative phrase introducing a plan of action."),
+    (11, None, "'I will be your interim agent in a way.' The simple future tense of the verb to be."),
+    (12, None, "'A temporary arrangement, just a facade.' Mathias clarifies the diplomatic nature of the split."),
+    (13, None, "'First my boyfriend leaves me, now my agent!' Virginie sums up her terrible morning with dark humour."),
+    (14, None, "'Do not take it like that. Gabriel and I work together.' A reassuring negative command form."),
+    (15, None, "'We are going to fix this, we promise you.' The key word here means 'are going to', paired with 'promise' to make the point clear. Now let's listen to the whole discussion again without stopping."),
 ]

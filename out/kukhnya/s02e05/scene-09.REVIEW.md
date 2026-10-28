@@ -10,32 +10,32 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Не Максу сказал? | Did he not tell Max? | #139 00:09:08: Не Максу сказал | verbatim |
-| 2 | Вика | Он совсем старый был. | He was very old. | #140 00:09:13: Он совсем старый был | verbatim |
-| 3 | Костя | Жалко деда. | It is a shame about his grandfather. | #141 00:09:18: Жалко деда | verbatim |
-| 4 | Аня | А Макс сказал, что собака. | Wait, Max said that it was a dog. | #142 00:09:20: А Макс сказал, что собака | verbatim |
-| 5 | Вика | Деда? А Макс сказал? | His grandfather? Max said that? | #142 00:09:20: Деда? А Макс сказал | verbatim |
-| 6 | Костя | Она просто очень старая была. | She was just a very old dog. | #143 00:09:29: Она просто очень старая была | verbatim |
-| 7 | Аня | И поэтому и была кличка у нее Дед. | And that is why her nickname was Grandpa. | #145 00:09:34: И поэтому и была кличка у нее Дед | verbatim |
-| 8 | Вика | Мне очень жаль Кости. | I feel so sorry for Kostya. | #146 00:09:37: Мне очень жаль Кости | verbatim |
-| 9 | Костя | Уже с Сашей. | Already with Sasha too. | #147 00:09:44: уже с Сашей | verbatim |
-| 10 | Аня | Ты же только что Вику убрал. | You only just got Vika out of the way. | #147 00:09:44: Ты же только что Вику убрал | verbatim |
-| 11 | Вика | Костян, да я сам не знаю. | Kostyan, I do not even know what to do myself. | #148 00:09:46: Костян, да я сам не знаю | verbatim |
-| 12 | Костя | Как они, что? | How are they, what happened? | #150 00:10:37: Как они, что | verbatim |
-| 13 | Аня | Что? Потрясающе? | Wait, what? Amazing? | #150 00:10:37: что? Потрясающе | verbatim |
+| 1 | Макс | Не Максу сказал? | Did he not tell Max? | #139: Не Максу сказал | verbatim |
+| 2 | Вика | Он совсем старый был. | He was very old. | #140: Он совсем старый был | verbatim |
+| 3 | Костя | Жалко деда. | It is a shame about his grandfather. | #141: Жалко деда | verbatim |
+| 4 | Макс | А Макс сказал, что собака. | Wait, Max said that it was a dog. | #142: А Макс сказал, что собака | verbatim |
+| 5 | Вика | Деда? А Макс сказал? | His grandfather? Max said that? | #142: Деда? А Макс сказал | verbatim |
+| 6 | Костя | Она просто очень старая была. | She was just a very old dog. | #143: Она просто очень старая была | verbatim |
+| 7 | Макс | И поэтому и была кличка у нее Дед. | And that is why her nickname was Grandpa. | #145: И поэтому и была кличка у нее Дед | verbatim |
+| 8 | Вика | Мне очень жаль Кости. | I feel so sorry for Kostya. | #146: Мне очень жаль Кости | verbatim |
+| 9 | Костя | Уже с Сашей. | Already with Sasha too. | #147: уже с Сашей | verbatim |
+| 10 | Макс | Ты же только что Вику убрал. | You only just got Vika out of the way. | #147: Ты же только что Вику убрал | verbatim |
+| 11 | Вика | Костян, да я сам не знаю. | Kostyan, I do not even know what to do myself. | #148: Костян, да я сам не знаю | verbatim |
+| 12 | Костя | Как они, что? | How are they, what happened? | #150: Как они, что | verbatim |
+| 13 | Макс | Что? Потрясающе? | Wait, what? Amazing? | #150: что? Потрясающе | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Did he not tell Max?' Notice how Russian expresses 'not' and 'to say' with crisp inflection rather than helper words.
-- 'He was very old.' Notice how Russian expresses 'he' and 'there was' with crisp inflection rather than helper words. Kostya answers right away.
-- 'It is a shame about his grandfather.' Kostya brings out the contrast between 'feel sorry for' and 'grandfathers' in a few short words.
-- 'Wait, Max said that it was a dog.' Here the Russian phrasing highlights 'and' before landing on 'dog'.
-- 'His grandfather? Max said that?' The '-l' ending on the verb meaning 'to say' places the action in the masculine past tense. Kostya answers right away.
-- 'She was just a very old dog.' The meaning hinges on 'she' working together with 'was' in spoken Russian.
-- 'And that is why her nickname was Grandpa.' Max anchors the line on 'both', while 'grandfather' completes the thought.
-- 'I feel so sorry for Kostya.' Here the Russian phrasing highlights 'for me' before landing on 'bones'. Kostya answers right away.
-- 'Already with Sasha too.' The grammar packs 'now' and 'Sasha' into a tight, idiomatic kitchen exchange.
-- 'You only just got Vika out of the way.' The meaning hinges on 'you' working together with 'to remove' in spoken Russian.
-- 'Kostyan, I do not even know what to do myself.' Notice how Russian expresses 'Kostyan' and 'know' with crisp inflection rather than helper words. Kostya answers right away.
-- 'How are they, what happened?' In Russian, the idea of 'how' flows naturally into 'what' without extra filler words.
-- 'Wait, what? Amazing?' Here the Russian phrasing highlights 'what' before landing on 'incredible'.
+- 'Did he not tell Max?' By asking whether he not tell Max, Max presses Kostya for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'He was very old.' Noting that he was very old keeps Vika's side of the story simple and clear.
+- 'It is a shame about his grandfather.' Even though it is a shame about his grandfather, Kostya keeps a steady face in front of Max.
+- 'Wait, Max said that it was a dog.' Admitting that Max said that it was a dog shows Max being honest for a change.
+- 'His grandfather? Max said that?' Around the point and kitchen, Vika wants to know where Kostya really stands.
+- 'She was just a very old dog.' Once she was just a very old dog, Kostya can finally tell Max what he means.
+- 'And that is why her nickname was Grandpa.' Adding that that is why her nickname was Grandpa fills in the missing piece for Kostya. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
+- 'I feel so sorry for Kostya.' Vika reminds Kostya that she feels so sorry for Kostya before the moment passes.
+- 'Already with Sasha too.' With the work and plan in play, Kostya keeps this short reply brisk and direct.
+- 'You only just got Vika out of the way.' Mentioning that Kostya only just got Vika out of the way moves the talk in a new direction. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Kostyan, I do not even know what to do myself.' Vika reminds Kostya that someone she does not even know what to do herself before the moment passes.
+- 'How are they, what happened?' Here asking how they what happened are shows Kostya looking for the real truth. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Wait, what? Amazing?' Around the truth and point, Max wants to know where Kostya really stands. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.

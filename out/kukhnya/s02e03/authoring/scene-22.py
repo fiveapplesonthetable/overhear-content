@@ -4,23 +4,22 @@ SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 3
 SCENE = 22
-TITLE = "Цена спора  (The Price of a Bet)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Цена спора  (The Price of a Bet)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "fedya": "anja", "senya": "angelina"}
-LABELS = {"fedya": "Федя", "senya": "Сеня"}
+LABELS = {'barinov': 'Шеф', 'fedya': 'Федя', 'senya': 'Сеня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S2.03'
 SOURCE_FILE = 'sources/kukhnya/s02/e03.ru.dual.srt'
 INTRO = "Chef Viktor calls Elena to apologize for all the trouble and asks for a ride on an important errand, while back in the kitchen Fedya demands five thousand rubles from Senya after proving a person really can eat a belt. Let's listen closely to their exchange in Russian first, and then walk through each line together."
 OPENER = 'Now let us examine the conversation line by line.'
 TRANSITION = 'Now let us listen to the conversation once again.'
 OUTRO = "And that's it for this scene. When you watch the episode, listen out for the exchange around the price of a bet, and for the words meaning 'wanted' and 'to apologise'. You'll catch them now. See you next time!"
-CLOSING = ("senya", "Пока!")
+CLOSING = ('senya', 'Пока!')
 STORY = [
-    ('fedya', 'Я хотел извиниться.', 'I wanted to apologize.', [(331, 'я хотел извиниться,')], ''),
-    ('fedya', 'Куча проблем из-за меня.', 'A lot of problems because of me.', [(331, 'у вас из-за меня куча проблем,')], ''),
-    ('fedya', 'Отвезите меня по важному делу.', 'Drive me for an important matter.', [(333, 'не могли бы вы меня отвезти по важному делу?')], ''),
-    ('fedya', 'Я пришлю адрес.', 'I will send the address.', [(336, 'Я вам сейчас пришлю адрес,')], ''),
+    ('barinov', 'Я хотел извиниться.', 'I wanted to apologize.', [(331, 'я хотел извиниться,')], ''),
+    ('barinov', 'Куча проблем из-за меня.', 'A lot of problems because of me.', [(331, 'у вас из-за меня куча проблем,')], ''),
+    ('barinov', 'Отвезите меня по важному делу.', 'Drive me for an important matter.', [(333, 'не могли бы вы меня отвезти по важному делу?')], ''),
+    ('barinov', 'Я пришлю адрес.', 'I will send the address.', [(336, 'Я вам сейчас пришлю адрес,')], ''),
     ('fedya', 'Проспорил пять тысяч?', 'You lost the bet. Five thousand?', [(347, 'Проспорил пять тысяч?')], ''),
     ('senya', 'Чего?', 'What?', [(347, 'Чего?')], ''),
     ('fedya', 'Мы спорили.', 'We bet.', [(349, 'Мы с тобой спорили,')], ''),

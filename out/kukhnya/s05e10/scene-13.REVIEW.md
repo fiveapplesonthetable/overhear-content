@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Михаил | Тихо, спите, спите. | Quiet, sleep, sleep. | #187 00:13:39: Тихо<br>#188 00:13:46: спите, спите, спите | adapted: adapted |
-| 2 | Михаил | Я не виноват, я не хотел! | It is not my fault, I did not mean to! | #189 00:13:48: Я не виноват, я не хотел | adapted: adapted |
-| 3 | Михаил | Не переживайте. Скажем, что он сам упал случайно. | Do not worry. We will say that he fell by himself accidentally. | #190 00:13:51: Не переживайте<br>#191 00:13:53: Скажем, что он сам упал случайно | adapted: adapted |
-| 4 | Михаил | Я буду свидетелем. | I will be a witness. | #192 00:13:56: Я буду свидетелем | adapted: adapted |
-| 5 | Михаил | Что, доктор? Необходима госпитализация? | What is it, doctor? Is hospitalization necessary? | #194 00:14:01: Что, доктор? Ну что, необходимая госпитализация | adapted: adapted |
-| 6 | Сеня | Там переломы. | There are fractures there. | #195 00:14:04: Там обширные переломы | adapted: adapted |
-| 7 | Сеня | В общем, если выживет, то хорошо. | In short, if he survives, then good. | #196 00:14:09: В общем, если выживет | adapted: adapted |
-| 8 | Михаил | Конечно, выживет! Там травмы не такие тяжёлые. | Of course he will survive! The injuries there are not so severe. | #198 00:14:15: Конечно, выживет. Там травмы не такие тяжелые | adapted: adapted |
-| 9 | Михаил | К тому же медицина сейчас на серьёзном уровне. | Besides, medicine is at a serious level now. | #199 00:14:18: К тому же медицина сейчас<br>#200 00:14:21: На серьезном уровне | adapted: adapted |
-| 10 | Сеня | Успокойтесь, я вас прикрою. | Calm down, I will cover for you. | #201 00:14:22: Успокойтесь. Я вас прикрою | adapted: adapted |
-| 11 | Михаил | Отнеси его в мой кабинет. | Carry him into my office. | #202 00:14:26: Отнеси его в мой кабинет | adapted: adapted |
-| 12 | Михаил | И глаз с него не спускай! | And do not take your eyes off him! | #202 00:14:26: не спускай | adapted: adapted |
+| 1 | Михаил | Тихо, спите, спите. | Quiet, sleep, sleep. | #187: Тихо<br>#188: спите, спите, спите | adapted: adapted |
+| 2 | Михаил | Я не виноват, я не хотел! | It is not my fault, I did not mean to! | #189: Я не виноват, я не хотел | adapted: adapted |
+| 3 | Шеф | Не переживайте. Скажем, что он сам упал случайно. | Do not worry. We will say that he fell by himself accidentally. | #190: Не переживайте<br>#191: Скажем, что он сам упал случайно | adapted: adapted |
+| 4 | Шеф | Я буду свидетелем. | I will be a witness. | #192: Я буду свидетелем | adapted: adapted |
+| 5 | Михаил | Что, доктор? Необходима госпитализация? | What is it, doctor? Is hospitalization necessary? | #194: Что, доктор? Ну что, необходимая госпитализация | adapted: adapted |
+| 6 | Сеня | Там переломы. | There are fractures there. | #195: Там обширные переломы | adapted: adapted |
+| 7 | Сеня | В общем, если выживет, то хорошо. | In short, if he survives, then good. | #196: В общем, если выживет | adapted: adapted |
+| 8 | Шеф | Конечно, выживет! Там травмы не такие тяжёлые. | Of course he will survive! The injuries there are not so severe. | #198: Конечно, выживет. Там травмы не такие тяжелые | adapted: adapted |
+| 9 | Шеф | К тому же медицина сейчас на серьёзном уровне. | Besides, medicine is at a serious level now. | #199: К тому же медицина сейчас<br>#200: На серьезном уровне | adapted: adapted |
+| 10 | Сеня | Успокойтесь, я вас прикрою. | Calm down, I will cover for you. | #201: Успокойтесь. Я вас прикрою | adapted: adapted |
+| 11 | Михаил | Отнеси его в мой кабинет. | Carry him into my office. | #202: Отнеси его в мой кабинет | adapted: adapted |
+| 12 | Михаил | И глаз с него не спускай! | And do not take your eyes off him! | #202: не спускай | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Quiet, sleep, sleep.' Spoken Russian keeps this brisk, leaning on 'quiet' and finishing on 'are sleeping'.
-- 'It is not my fault, I did not mean to!' The meaning hinges on 'I' working together with 'wanted' in spoken Russian.
-- 'Do not worry. We will say that he fell by himself accidentally.' The negative particle sits right before the verb meaning 'worry' to negate the statement.
-- 'I will be a witness.' Chef Barinov brings out the contrast between 'I' and 'will be' in a few short words.
-- 'What is it, doctor? Is hospitalization necessary?' The grammar packs 'what' and 'hospitalization' into a tight, idiomatic kitchen exchange.
-- 'There are fractures there.' The grammar packs 'there' and 'fractures' into a tight, idiomatic kitchen exchange.
-- 'In short, if he survives, then good.' The meaning hinges on 'shared' working together with 'well' in spoken Russian.
-- 'Of course he will survive! The injuries there are not so severe.' The meaning hinges on 'of course' working together with 'heavy' in spoken Russian.
-- 'Besides, medicine is at a serious level now.' Spoken Russian keeps this brisk, leaning on 'that' and finishing on 'level'. Senya answers right away.
-- 'Calm down, I will cover for you.' Senya brings out the contrast between 'calm down' and 'I' in a few short words.
-- 'Carry him into my office.' Here the Russian phrasing highlights 'carry' before landing on 'office'.
-- 'And do not take your eyes off him!' Mikhail brings out the contrast between 'and' and 'of eyes' in a few short words.
+- 'Quiet, sleep, sleep.' Between the point and the doctor, Mikhail gives Barinov a quick, grounded response.
+- 'It is not my fault, I did not mean to!' Insisting that it is not his fault he did not mean shows Mikhail is not backing down. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Do not worry. We will say that he fell by himself accidentally.' Since do not worry, Barinov does not waste words on excuses.
+- 'I will be a witness.' Explaining that he will be a witness lays the cards on the table for Mikhail.
+- 'What is it, doctor? Is hospitalization necessary?' Here asking what it doctor is shows Mikhail looking for the real truth. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'There are fractures there.' Realizing that there are fractures there changes how Senya handles the situation.
+- 'In short, if he survives, then good.' Noting that in short if he survives then good keeps Senya's side of the story simple and clear.
+- 'Of course he will survive! The injuries there are not so severe.' Declaring that he will survive brings Barinov's temper right to the surface. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Besides, medicine is at a serious level now.' Admitting that besides medicine is at a serious level now shows Barinov being honest for a change.
+- 'Calm down, I will cover for you.' Calming down he will cover for Barinov moves the conversation forward without extra drama.
+- 'Carry him into my office.' Mentioning that Barinov should carry him into his office moves the talk in a new direction.
+- 'And do not take your eyes off him!' Because do not take Barinov's eyes off him, Mikhail does not bother softening the blow for Barinov. Russian puts the key word right up front so his emotion lands on the first beat.

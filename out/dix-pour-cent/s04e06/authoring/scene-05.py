@@ -7,8 +7,7 @@ SCENE = 5
 TITLE = 'Un pastis matinal  (A Morning Pastis)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'jean': 'theo', 'lea': 'lucie'}
-LABELS = {'jean': 'Jean', 'lea': 'Andréa'}
+LABELS = {'andrea': 'Andréa', 'jean': 'Jean'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e06.fr.dual.srt'
 INTRO = "At a Parisian cafe around ten in the morning, Andrea meets movie star Jean Reno. To her surprise, she finds him already drinking pastis to clear his head. Let's listen to their conversation in French first."
@@ -18,19 +17,19 @@ OUTRO = "Troubled by Jean Reno's morning drinking, Andrea tries to understand wh
 CLOSING = ('jean', 'À bientôt!')
 STORY = [
     ('jean', "Un pastis, s'il vous plaît!", 'A pastis, please!', [(199, 'Un pastis')], ''),
-    ('lea', 'Mais Jean, il est dix heures.', 'Oh but Jean, it is ten in the morning.', [(200, '10h')], ''),
+    ('andrea', 'Mais Jean, il est dix heures.', 'Oh but Jean, it is ten in the morning.', [(200, '10h')], ''),
     ('jean', 'Oui, mais on doit parler.', 'Yes, but we have to talk.', [(201, 'on doit parler')], ''),
-    ('lea', 'Pourquoi boire si tôt le matin?', 'Why drink so early in the morning?', [(200, 'matin')], ''),
+    ('andrea', 'Pourquoi boire si tôt le matin?', 'Why drink so early in the morning?', [(200, 'matin')], ''),
     ('jean', 'Il faut être à égalité.', 'We must be on equal footing.', [(202, 'égalité')], ''),
-    ('lea', 'Tu en es à combien?', 'How many have you had?', [(203, 'combien')], ''),
+    ('andrea', 'Tu en es à combien?', 'How many have you had?', [(203, 'combien')], ''),
     ('jean', "C'est seulement le deuxième verre.", 'This is only my second glass.', [(204, 'deuxième')], ''),
-    ('lea', 'Ça ne te ressemble pas du tout.', 'That is not like you at all.', [(205, 'ressemble pas')], ''),
+    ('andrea', 'Ça ne te ressemble pas du tout.', 'That is not like you at all.', [(205, 'ressemble pas')], ''),
     ('jean', "J'avais besoin d'éclaircir mes idées.", 'I needed to clear my thoughts.', [(207, 'idées')], ''),
-    ('lea', 'Tu as un problème grave?', 'Do you have a serious problem?', [(201, 'doit parler')], ''),
+    ('andrea', 'Tu as un problème grave?', 'Do you have a serious problem?', [(201, 'doit parler')], ''),
     ('jean', 'Je suis fatigué de ce métier.', 'I am tired of this profession.', [(207, 'idées')], ''),
-    ('lea', 'Tu dois rester calme, Jean.', 'You must stay calm, Jean.', [(205, 'ressemble pas')], ''),
+    ('andrea', 'Tu dois rester calme, Jean.', 'You must stay calm, Jean.', [(205, 'ressemble pas')], ''),
     ('jean', "Remettez-m'en un, s'il vous plaît.", 'Pour me another one, please.', [(208, "Remettez-m'en un")], ''),
-    ('lea', "Non, écoute-moi d'abord, Jean.", 'No, listen to me first, Jean.', [(201, 'doit parler')], ''),
+    ('andrea', "Non, écoute-moi d'abord, Jean.", 'No, listen to me first, Jean.', [(201, 'doit parler')], ''),
 ]
 WALK = [
     (0, None, "'A pastis, please!' Jean orders an aniseed aperitif from the cafe waiter. Jean uses the polite 'you' form alongside 'pleases' to keep a respectful professional tone."),

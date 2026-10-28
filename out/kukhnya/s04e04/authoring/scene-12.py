@@ -1,50 +1,45 @@
+# Authoring module for kukhnya-s04e04-scene-12.
 ID = 'kukhnya-s04e04-scene-12'
 SHOW = 'kukhnya'
 SEASON = 4
 EPISODE = 4
 SCENE = 12
-TITLE = "Записки для Вики  (Notes for Vika)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Записки для Вики  (Notes for Vika)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "anya": "alisa", "elena": "angelina", "chef": "anja"}
-LABELS = {"anya": "Макс", "elena": "Елена", "chef": "Шеф"}
+LABELS = {'barinov': 'Шеф', 'elena': 'Елена', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S4.04'
 SOURCE_FILE = 'sources/kukhnya/s04/e04.ru.srt'
-
 INTRO = "At Arcobaleno, Elena realizes Viktor has been slacking off while her cooks cover for him, and at Claude Monet Max tries to make up with Vika by passing notes when she refuses to speak to him. Let's hear the Russian dialogue."
-
+OPENER = 'Time to unpack every phrase from the exchange you just heard.'
+TRANSITION = "Now let's replay the complete scene in Russian without interruption."
+OUTRO = "That completes Elena calling out Viktor's slacking and Max passing notes to Vika. Notice how Russian uses past-tense short adjectives to admit fault. See you next time!"
+CLOSING = ('max', 'До завтра!')
 STORY = [
-    ('chef', 'Елена Павловна, вы бы шли отдыхать.', 'Elena Pavlovna, you should go get some rest.', [(185, 'Елена Павловна, вы бы шли отдыхать.')], ''),
-    ('chef', 'Мы тут справимся.', 'We will manage fine here.', [(186, 'Мы тут справимся')], ''),
+    ('barinov', 'Елена Павловна, вы бы шли отдыхать.', 'Elena Pavlovna, you should go get some rest.', [(185, 'Елена Павловна, вы бы шли отдыхать.')], ''),
+    ('barinov', 'Мы тут справимся.', 'We will manage fine here.', [(186, 'Мы тут справимся')], ''),
     ('elena', 'Да я вижу, у вас много времени.', 'Yes, I can see that you have plenty of free time.', [(187, 'Да я вижу, у вас много времени.')], ''),
     ('elena', 'Хватает на разговоры, на всё прочее.', 'Enough for conversations and everything else.', [(188, 'Хватает на разговоры, на все прочее.')], ''),
     ('elena', 'Возьмите ещё заказ.', 'Take another order.', [(189, 'Возьмите еще заказ.')], ''),
     ('elena', 'Вот, летний салат, болоньезе.', 'Here, a summer salad and bolognese.', [(190, 'Вот, летний салат')], ''),
-    ('anya', 'Значит, не хочешь поговорить?', "So you don't want to talk?", [(191, 'Значит,'), (191, 'хочешь поговорить?')], ''),
-    ('anya', 'Окей, давай поговорим.', "Okay, let's talk this way.", [(192, 'Окей, давай поговорим.')], ''),
-    ('anya', 'Вчера ты была не права. Я тоже был не прав.', 'Yesterday you were wrong. I was wrong too.', [(193, 'Вчера ты была не права. Я тоже был не прав.')], ''),
-    ('anya', 'Но так как мы с тобой серьёзные взрослые люди...', 'But since you and I are serious adults...', [(194, 'Но так как мы с тобой серьезные взрослые люди...')], ''),
-    ('anya', 'Прямо сейчас?', 'Right now?', [(196, 'Прямо сейчас?')], ''),
-    ('anya', 'Класс, погнали.', "Awesome, let's go.", [(197, 'Класс, погнали.')], ''),
+    ('max', 'Значит, не хочешь поговорить?', "So you don't want to talk?", [(191, 'Значит,'), (191, 'хочешь поговорить?')], ''),
+    ('max', 'Окей, давай поговорим.', "Okay, let's talk this way.", [(192, 'Окей, давай поговорим.')], ''),
+    ('max', 'Вчера ты была не права. Я тоже был не прав.', 'Yesterday you were wrong. I was wrong too.', [(193, 'Вчера ты была не права. Я тоже был не прав.')], ''),
+    ('max', 'Но так как мы с тобой серьёзные взрослые люди...', 'But since you and I are serious adults...', [(194, 'Но так как мы с тобой серьезные взрослые люди...')], ''),
+    ('max', 'Прямо сейчас?', 'Right now?', [(196, 'Прямо сейчас?')], ''),
+    ('max', 'Класс, погнали.', "Awesome, let's go.", [(197, 'Класс, погнали.')], ''),
 ]
-
-OPENER = 'Time to unpack every phrase from the exchange you just heard.'
-
 WALK = [
-    (0, None, "'Elena Pavlovna, you should go get some rest.' Chef Barinov pairs 'were going, were leading' with 'to rest, to relax, to vacation' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'."),
-    (1, None, "'We will manage fine here.' Spoken Russian keeps this brief and expressive, built right around 'will cope' without extra helper words."),
-    (2, None, "'Yes, I can see that you have plenty of free time.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'."),
-    (3, None, "'Enough for conversations and everything else.' In everyday Russian, 'is enough, suffices' flows straight into 'other' without extra linking words."),
-    (4, None, "'Take another order.' Elena pairs 'take' with 'order' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'."),
-    (5, None, "'Here, a summer salad and bolognese.' Notice how Russian puts 'summer' and 'bolognese' together in a short, direct phrase where word endings show how the ideas connect."),
-    (6, None, "'So you don't want to talk?' Putting the short word for 'not' right in front of the action word is all Russian needs to make a sentence negative, with no extra helper words like 'do' or 'did'."),
-    (7, None, "'Okay, let's talk this way.' Starting with the everyday word for 'let us' is how Russian speakers warmly invite someone to do something together."),
-    (8, None, "'Yesterday you were wrong. I was wrong too.' Max pairs 'yesterday' with 'also, too' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'."),
-    (9, None, "'But since you and I are serious adults...' Notice how Russian puts 'so, like this' and 'people' together in a short, direct phrase where word endings show how the ideas connect."),
-    (10, None, "'Right now?' In spoken Russian, the words stay in their normal statement order and Max's rising voice at the end turns the line into a question."),
-    (11, None, "'Awesome, let's go.' In everyday Russian, 'caliber' flows straight into 'to let's' without extra linking words."),
+    (0, None, '\'Elena Pavlovna, you should go get some rest.\' Claiming that Elena should go get some rest sounds confident, even if Elena has doubts. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.'),
+    (1, None, "'We will manage fine here.' Pointing out that they will manage fine here gives Elena a sobering reality check."),
+    (2, None, '\'Yes, I can see that you have plenty of free time.\' Elena explains that she can see that Barinov has plenty of free time, keeping her voice calm and direct. Russian expresses having something as "by me is", keeping the phrase short and grounded.'),
+    (3, None, "'Enough for conversations and everything else.' Around the truth and room, Elena sets a calm, everyday tone with Barinov."),
+    (4, None, "'Take another order.' Adding that Barinov should take another order fills in the missing piece for Barinov."),
+    (5, None, "'Here, a summer salad and bolognese.' Over the plan and the work, Elena answers Barinov without a second thought."),
+    (6, None, '\'So you don\'t want to talk?\' Wondering if Barinov does not want to talk shows Max caught off guard. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.'),
+    (7, None, "'Okay, let's talk this way.' Saying that Okay let them talk this way is how Max sets the tone with Barinov."),
+    (8, None, '\'Yesterday you were wrong. I was wrong too.\' Once yesterday Barinov was wrong, Max can finally tell Barinov what he means. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
+    (9, None, '\'But since you and I are serious adults...\' Adding that since Barinov and he are serious adults fills in the missing piece for Barinov. Speaking with the close, informal "you" strips away any polite distance between them.'),
+    (10, None, "'Right now?' Over the plan and the conversation, Max presses Barinov for a straight answer."),
+    (11, None, "'Awesome, let's go.' Since awesome let them go, Max does not waste words on excuses."),
 ]
-
-TRANSITION = "Now let's replay the complete scene in Russian without interruption."
-OUTRO = "That completes Elena calling out Viktor's slacking and Max passing notes to Vika. Notice how Russian uses past-tense short adjectives to admit fault. See you next time!"
-CLOSING = ("anya", "До завтра!")

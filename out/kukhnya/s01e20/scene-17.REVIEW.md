@@ -1,41 +1,33 @@
-# Уход с праздника  (Leaving the Party) — `kukhnya-s01e20-scene-17`
+# kukhnya-s01e20-scene-17: review sheet
 
-**Source:** Кухня (Kukhnya) S1.20 · `sources/kukhnya/s01/e20.ru.dual.srt`  
-**Target level:** A1 — Duolingo Section 2
+Title: Уход с праздника  (Leaving the Party)
+Level: A1 — Duolingo Section 2
+Pair: ru-en
+Source: Кухня (Kukhnya) S1.20
 
-## Cast
 
-| Role | Voice | Label |
-|---|---|---|
-| `narrator` | sky | — |
-| `kostya` | anja | Костя |
-| `nastya` | angelina | Настя |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 1 — Intro
-
-> Nastya decides to leave the restaurant party early because she is feeling bored. Kostya rushes after her to stop her from leaving, as he has something very important to tell her.
-
-## Part 2 — Story
-
-| # | Speaker | Line | English | Source cue(s) | Change |
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 0 | Костя | Настя, подожди! | Nastya, wait! | *(added)* |  |
-| 1 | Настя | Пока. | Bye. | #288 "Пока" |  |
-| 2 | Костя | О, уже уходишь? | Oh, you are leaving already? | #289 "О, уже уходишь" |  |
-| 3 | Настя | Ага. Как-то здесь невесело. | Yeah. It is kind of a downer here. | #290 "Ага. Как-то здесь невесело" |  |
-| 4 | Костя | Не уходи так быстро. | Do not leave so fast. | *(added)* |  |
-| 5 | Настя | У меня много дел. | I have a lot of things to do. | *(added)* |  |
-| 6 | Костя | Я хочу поговорить с тобой. | I want to talk to you. | *(added)* |  |
-| 7 | Настя | О чем ты хочешь поговорить? | What do you want to talk about? | *(added)* |  |
-| 8 | Костя | Это очень важно. | This is very important. | *(added)* |  |
-| 9 | Настя | Говори быстрее. | Speak faster. | *(added)* |  |
-| 10 | Костя | Подойди поближе. | Come closer. | *(added)* |  |
-| 11 | Настя | Я слушаю. | I am listening. | *(added)* |  |
-| 12 | Костя | Я не могу молчать. | I cannot stay silent. | #291 "Я" |  |
-| 13 | Костя | Пожалуйста, выслушай меня. | Please, hear me out. | *(added)* |  |
+| 1 | Костя | Настя, подожди! | Nastya, wait! | new | new |
+| 2 | Настя | Пока. | Bye. | #288: Пока | verbatim |
+| 3 | Костя | О, уже уходишь? | Oh, you are leaving already? | #289: О, уже уходишь | verbatim |
+| 4 | Настя | Ага. Как-то здесь невесело. | Yeah. It is kind of a downer here. | #290: Ага. Как-то здесь невесело | verbatim |
+| 5 | Костя | Не уходи так быстро. | Do not leave so fast. | new | new |
+| 6 | Настя | У меня много дел. | I have a lot of things to do. | new | new |
+| 7 | Костя | Я хочу поговорить с тобой. | I want to talk to you. | new | new |
+| 8 | Настя | О чем ты хочешь поговорить? | What do you want to talk about? | new | new |
+| 9 | Костя | Это очень важно. | This is very important. | new | new |
+| 10 | Настя | Говори быстрее. | Speak faster. | new | new |
+| 11 | Костя | Подойди поближе. | Come closer. | new | new |
+| 12 | Настя | Я слушаю. | I am listening. | new | new |
+| 13 | Костя | Я не могу молчать. | I cannot stay silent. | #291: Я | verbatim |
+| 14 | Костя | Пожалуйста, выслушай меня. | Please, hear me out. | new | new |
 
-## Part 5 — Outro & closing
+## Walk-through narration (English only, no target-language words quoted)
 
-> Kostya successfully stops Nastya, preparing himself for a major life decision. Next time you watch the episode, listen for the Russian expressions for 'to wait' and 'for now' — you will catch every word right away. See you next time!
-
-**Костя:** Пока!
+- 'Bye.' A crisp, everyday conversational reply meaning 'bye' that you will hear constantly in Russian dialogue.
+- 'Oh, you are leaving already?' Kostya turns a statement into a question purely through rising intonation on the word meaning 'already', followed by 'are leaving'.
+- 'Yeah. It is kind of a downer here.' Russian omits the present-tense verb 'to be' here, linking 'yeah' directly with 'somehow', combining 'yeah' with 'somehow' and 'here'.
+- 'Please, hear me out.' Kostya leads with the direct command form meaning 'hear out' to make the point directly in conversation. Now let's listen to the whole conversation again from start to finish.

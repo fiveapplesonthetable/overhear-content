@@ -7,8 +7,7 @@ SCENE = 14
 TITLE = "On tourne la scène d'amour demain  (We Shoot the Love Scene Tomorrow)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'samir': 'theo', 'lea': 'lucie', 'julie': 'emilie'}
-LABELS = {'samir': 'Samir', 'lea': 'Andréa', 'julie': 'Julie'}
+LABELS = {'andrea': 'Andréa', 'julie': 'Julie', 'samir': 'Samir'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e05.fr.dual.srt'
 INTRO = "At the country hotel near the film set, Julie is resting in her room after bruising her back in the horse fall. In the corridor outside, director Samir tells Andréa that all the delays leave them no choice: they must shoot the big barn love scene tomorrow morning. When Andréa breaks the news to Julie, the actress tries to pitch a poetic alternative. Let's hear the scene in French first."
@@ -20,17 +19,17 @@ STORY = [
     ('samir', 'Avec tous ces retards, il nous reste une demi-journée dans la grange.', 'With all these delays, we have half a day left in the barn.', [(252, 'Avec tous ces retards, il nous reste une demi-journée dans la grange')], ''),
     ('samir', "J'ai dû réécrire le planning.", 'I had to rewrite the schedule.', [(253, "J'ai dû réécrire le planning")], ''),
     ('samir', "On tourne la scène d'amour demain.", 'We shoot the love scene tomorrow.', [(254, "On tourne la scène d'amour demain")], ''),
-    ('lea', "Ce n'est peut-être pas le bon moment.", 'Maybe it is not the right time.', [(254, 'peut-être pas le bon moment')], ''),
+    ('andrea', "Ce n'est peut-être pas le bon moment.", 'Maybe it is not the right time.', [(254, 'peut-être pas le bon moment')], ''),
     ('samir', "C'est demain, on n'a pas le choix!", 'It is tomorrow, we have no choice!', [(255, "C'est demain, on n'a pas le choix")], ''),
-    ('lea', 'On va y arriver, Samir.', 'We are going to manage, Samir.', [(256, 'On va y arriver, Samir')], ''),
+    ('andrea', 'On va y arriver, Samir.', 'We are going to manage, Samir.', [(256, 'On va y arriver, Samir')], ''),
     ('samir', 'Si tu le dis. Dis-le aux acteurs, je suis trop occupé.', 'If you say so. Tell the actors, I am too busy.', [(256, 'Si tu le dis'), (257, 'Dis-le aux acteurs, je suis trop occupé')], ''),
     ('julie', "Pourquoi il y a toujours des scènes d'amour?", 'Why are there always love scenes?', [(258, "Pourquoi il y a toujours des scènes d'amour")], ''),
     ('julie', 'Ce serait tellement plus fort de le suggérer symboliquement.', 'It would be so much stronger to suggest it symbolically.', [(259, 'Ce serait tellement plus fort de le suggérer symboliquement')], ''),
-    ('lea', "C'est-à-dire?", 'Meaning what?', [(260, "C'est-à-dire")], ''),
+    ('andrea', "C'est-à-dire?", 'Meaning what?', [(260, "C'est-à-dire")], ''),
     ('julie', 'Je ne sais pas.', 'I don', [(261, 'sais pas')], ''),
     ('julie', 'Une rivière qui coule? Des animaux qui gambadent dans les bois?', 'A flowing river? Animals frolicking in the woods?', [(262, 'Une rivière qui coule'), (262, 'Des animaux qui gambadent dans les bois')], ''),
-    ('lea', 'Oui! Le public préférerait voir des lapins dans les bois.', 'Yes! The audience would prefer to see rabbits in the woods.', [(263, 'Le public préférerait voir des lapins')], ''),
-    ('lea', "Plutôt que toi et JoeyStarr ensemble à l'écran!", 'Rather than you and JoeyStarr together on screen!', [(264, 'plutôt que toi et JoeyStarr')], ''),
+    ('andrea', 'Oui! Le public préférerait voir des lapins dans les bois.', 'Yes! The audience would prefer to see rabbits in the woods.', [(263, 'Le public préférerait voir des lapins')], ''),
+    ('andrea', "Plutôt que toi et JoeyStarr ensemble à l'écran!", 'Rather than you and JoeyStarr together on screen!', [(264, 'plutôt que toi et JoeyStarr')], ''),
 ]
 WALK = [
     (0, None, "'With all these delays, we have half a day left in the barn.' The impersonal construction literally means 'there remains to us'."),

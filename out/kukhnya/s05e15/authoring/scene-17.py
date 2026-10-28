@@ -1,50 +1,45 @@
+# Authoring module for kukhnya-s05e15-scene-17.
 ID = 'kukhnya-s05e15-scene-17'
 SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 15
 SCENE = 17
-TITLE = "Катя заступается за Никиту  (Katya Stands Up for Nikita)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Катя заступается за Никиту  (Katya Stands Up for Nikita)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "eleonora": "angelina", "nikita": "anja"}
-LABELS = {"eleonora": "Элеонора", "nikita": "Никита"}
+LABELS = {'eleonora': 'Элеонора', 'katya': 'Катя', 'nikita': 'Никита'}
 SOURCE_NAME = 'Кухня (Kukhnya) S5.15'
 SOURCE_FILE = 'sources/kukhnya/s05/e15.ru.srt'
-
 INTRO = 'When Eleonora bumps into Nikita and spills hot coffee on herself, she immediately tries to fire him again, until Katya steps in and shames her mother into apologizing to the young waiter.'
-
+OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
+TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
+OUTRO = 'Grateful to Katya for standing up for him, Nikita watches her with growing admiration. Until next time!'
+CLOSING = ('eleonora', 'Увидимся!')
 STORY = [
     ('eleonora', 'Ты что делаешь? Этот кофе же совсем горячий!', 'What are you doing? This coffee is piping hot!', [(305, 'что делаешь? Он же горячий')], 'adapted'),
     ('nikita', 'Извините меня, но вы же сами меня толкнули.', 'Excuse me, but you bumped into me yourself.', [(306, 'Извините, но вы же сами')], 'adapted'),
     ('eleonora', 'Ты ещё хочешь обвинить в этом меня саму?', 'Do you also want to blame me for this myself?', [(306, 'хочешь меня обвинить')], 'adapted'),
     ('eleonora', 'У тебя был последний шанс, но ты его потерял.', 'You had a last chance, but you lost it.', [(308, 'Знаешь, у тебя был шанс, но ты его не использовал')], 'adapted'),
     ('eleonora', 'Всё, с этой минуты ты окончательно уволен!', 'That is it, from this minute you are fired for good!', [(309, 'Все, ты уволен')], 'adapted'),
-    ('eleonora', 'Мама, ты сейчас серьёзно это ему говоришь?', 'Mom, are you seriously saying that to him right now?', [(309, 'Мам, ты серьезно')], 'adapted'),
-    ('eleonora', 'Ты же сама на себя этот кофе разлила!', 'You spilled that coffee on yourself!', [(310, 'Ты же сама на себя кофе разлила')], 'adapted'),
-    ('eleonora', 'За что же ты тогда его сейчас увольняешь?', 'What are you firing him for right now then?', [(310, 'за что ты его увольняешь')], 'adapted'),
-    ('eleonora', 'Так несправедливо нельзя к людям относиться, мама!', 'You cannot treat people so unfairly, Mom!', [(311, 'Так нельзя к людям относиться')], 'adapted'),
+    ('katya', 'Мама, ты сейчас серьёзно это ему говоришь?', 'Mom, are you seriously saying that to him right now?', [(309, 'Мам, ты серьезно')], 'adapted'),
+    ('katya', 'Ты же сама на себя этот кофе разлила!', 'You spilled that coffee on yourself!', [(310, 'Ты же сама на себя кофе разлила')], 'adapted'),
+    ('katya', 'За что же ты тогда его сейчас увольняешь?', 'What are you firing him for right now then?', [(310, 'за что ты его увольняешь')], 'adapted'),
+    ('katya', 'Так несправедливо нельзя к людям относиться, мама!', 'You cannot treat people so unfairly, Mom!', [(311, 'Так нельзя к людям относиться')], 'adapted'),
     ('eleonora', 'Да, пожалуй, моя дочь Катя совершенно права.', 'Yes, perhaps my daughter Katya is completely right.', [(312, 'Да, Катя права')], 'adapted'),
     ('eleonora', 'Никита, извини меня, я просто немного погорячилась.', 'Nikita, forgive me, I just lost my temper a little.', [(313, 'Никита, извини, я погорячилась')], 'adapted'),
     ('nikita', 'Спасибо вам и приятного аппетита, Элеонора Андреевна.', 'Thank you and enjoy your meal, Eleonora Andreyevna.', [(314, 'Спасибо. Приятного аппетита')], 'adapted'),
 ]
-
-OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
-
 WALK = [
-    (0, None, "'What are you doing? This coffee is piping hot!' Here the Russian phrasing highlights 'you' before landing on 'hot'."),
-    (1, None, "'Excuse me, but you bumped into me yourself.' Notice how Russian expresses 'excuse me' and 'push' with crisp inflection rather than helper words. Eleonora answers right away."),
-    (2, None, "'Do you also want to blame me for this myself?' Here the Russian phrasing highlights 'you' before landing on 'oneself'."),
-    (3, None, "'You had a last chance, but you lost it.' In Russian, the idea of 'at' flows naturally into 'lost' without extra filler words."),
-    (4, None, "'That is it, from this minute you are fired for good!' Here the Russian phrasing highlights 'everything' before landing on 'fired'. Katya answers right away."),
-    (5, None, "'Mom, are you seriously saying that to him right now?' Notice how Russian expresses 'mom' and 'speak' with crisp inflection rather than helper words."),
-    (6, None, "'You spilled that coffee on yourself!' The '-a' ending on the past-tense verb for 'spill' marks a female speaker or subject."),
-    (7, None, "'What are you firing him for right now then?' Notice how Russian expresses 'for' and 'to fire' with crisp inflection rather than helper words."),
-    (8, None, "'You cannot treat people so unfairly, Mom!' Here the Russian phrasing highlights 'so' before landing on 'mom'."),
-    (9, None, "'Yes, perhaps my daughter Katya is completely right.' The grammar packs 'yes' and 'right' into a tight, idiomatic kitchen exchange."),
-    (10, None, "'Nikita, forgive me, I just lost my temper a little.' Here the Russian phrasing highlights 'Nikita' before landing on 'lose one's temper'. Nikita answers right away."),
-    (11, None, "'Thank you and enjoy your meal, Eleonora Andreyevna.' Nikita anchors the line on 'thank you', while 'proper name' completes the thought."),
+    (0, None, '\'What are you doing? This coffee is piping hot!\' Over the coffee and the kitchen, Eleonora presses Katya for a straight answer. Speaking with the close, informal "you" strips away any polite distance between them.'),
+    (1, None, '\'Excuse me, but you bumped into me yourself.\' Between the conversation and the coffee, Nikita gives Eleonora a quick, grounded response. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.'),
+    (2, None, "'Do you also want to blame me for this myself?' By checking whether Katya also want to blame her for this herself, Eleonora presses Katya for a straight answer."),
+    (3, None, '\'You had a last chance, but you lost it.\' Explaining that Katya had a last chance but Katya lost it lays the cards on the table for Katya. Russian expresses having something as "by me is", keeping the phrase short and grounded.'),
+    (4, None, '\'That is it, from this minute you are fired for good!\' Because that is it from this minute Katya is fired for good, Eleonora does not bother softening the blow for Katya. Speaking with the close, informal "you" strips away any polite distance between them.'),
+    (5, None, "'Mom, are you seriously saying that to him right now?' Asking whether Mom are Eleonora seriously saying that to him right now puts Eleonora right on the defensive."),
+    (6, None, '\'You spilled that coffee on yourself!\' Around the coffee and moment, Katya makes her point loud and clear. Speaking with the close, informal "you" strips away any polite distance between them.'),
+    (7, None, '\'What are you firing him for right now then?\' Wondering what Eleonora firing him for right now then is cuts straight through the tension between Katya and Eleonora. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
+    (8, None, "'You cannot treat people so unfairly, Mom!' Katya insists that Eleonora cannot treat people so unfairly Mom, leaving Eleonora no room to argue."),
+    (9, None, "'Yes, perhaps my daughter Katya is completely right.' Noting that perhaps her daughter Katya is completely right keeps Eleonora's side of the story simple and clear."),
+    (10, None, "'Nikita, forgive me, I just lost my temper a little.' Even though she just lost her temper a little, Eleonora keeps a steady face in front of Katya."),
+    (11, None, "'Thank you and enjoy your meal, Eleonora Andreyevna.' Nikita explains that Eleonora should enjoy Eleonora's meal Eleonora Andreyevna, keeping his voice calm and direct."),
 ]
-
-TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Grateful to Katya for standing up for him, Nikita watches her with growing admiration. Until next time!'
-CLOSING = ("eleonora", "Увидимся!")

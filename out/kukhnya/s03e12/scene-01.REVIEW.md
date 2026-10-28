@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | На сегодня мой прогноз отличный. | My forecast for today is excellent. | #2 00:00:26: На сегодня мой прогноз отличный | adapted: adapted |
-| 2 | Аня | Хочется войти через парадный вход. | I feel like walking in through the front entrance. | #3 00:00:29: войти через парадный вход | adapted: adapted |
-| 3 | Аня | Ничто не испортит мне настроение. | Nothing will ruin my mood. | #4 00:00:32: не испортит мне настроение | adapted: adapted |
-| 4 | Аня | Бывает, что прогнозы врут. | Sometimes forecasts lie. | #5 00:00:37: бывает, что прогнозы врут | adapted: adapted |
-| 5 | Нагиев | Иди на задний двор. | Go to the back courtyard. | #7 00:00:52: на задний двор | adapted: adapted |
-| 6 | Нагиев | Не позорь наш ресторан. | Do not disgrace our restaurant. | #8 00:00:54: Не позорь ресторан | adapted: adapted |
-| 7 | Аня | Это не лучший мой день. | This is not my best day. | #10 00:00:58: это не лучший мой день | adapted: adapted |
-| 8 | Аня | Друзья всегда меня поддержат. | Friends will always support me. | #11 00:01:06: друзья, которые всегда поддержат | adapted: adapted |
-| 9 | Костя | Здорово, Макс, тут такое дело. | Hey, Max, here is the thing. | #12 00:01:09: Здорово, Макс<br>#13 00:01:15: тут такое дело | adapted: adapted |
-| 10 | Костя | Тебе нужно съехать с квартиры. | You need to move out of the apartment. | #14 00:01:18: тебе нужно съехать с квартиры | adapted: adapted |
-| 11 | Костя | У нас малыш скоро родится. | Our baby will be born soon. | #15 00:01:24: У нас малыш скоро родится | adapted: adapted |
-| 12 | Аня | Скорее бы этот день закончился. | I wish this day would end soon. | #16 00:01:28: Скорее бы этот день закончился | adapted: adapted |
+| 1 | Макс | На сегодня мой прогноз отличный. | My forecast for today is excellent. | #2: На сегодня мой прогноз отличный | adapted: adapted |
+| 2 | Макс | Хочется войти через парадный вход. | I feel like walking in through the front entrance. | #3: войти через парадный вход | adapted: adapted |
+| 3 | Макс | Ничто не испортит мне настроение. | Nothing will ruin my mood. | #4: не испортит мне настроение | adapted: adapted |
+| 4 | Макс | Бывает, что прогнозы врут. | Sometimes forecasts lie. | #5: бывает, что прогнозы врут | adapted: adapted |
+| 5 | Нагиев | Иди на задний двор. | Go to the back courtyard. | #7: на задний двор | adapted: adapted |
+| 6 | Нагиев | Не позорь наш ресторан. | Do not disgrace our restaurant. | #8: Не позорь ресторан | adapted: adapted |
+| 7 | Макс | Это не лучший мой день. | This is not my best day. | #10: это не лучший мой день | adapted: adapted |
+| 8 | Макс | Друзья всегда меня поддержат. | Friends will always support me. | #11: друзья, которые всегда поддержат | adapted: adapted |
+| 9 | Костя | Здорово, Макс, тут такое дело. | Hey, Max, here is the thing. | #12: Здорово, Макс<br>#13: тут такое дело | adapted: adapted |
+| 10 | Костя | Тебе нужно съехать с квартиры. | You need to move out of the apartment. | #14: тебе нужно съехать с квартиры | adapted: adapted |
+| 11 | Костя | У нас малыш скоро родится. | Our baby will be born soon. | #15: У нас малыш скоро родится | adapted: adapted |
+| 12 | Макс | Скорее бы этот день закончился. | I wish this day would end soon. | #16: Скорее бы этот день закончился | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'My forecast for today is excellent.' Max anchors the line on 'on', while 'excellent' completes the thought.
-- 'I feel like walking in through the front entrance.' The meaning hinges on 'want' working together with 'entrance' in spoken Russian.
-- 'Nothing will ruin my mood.' The negative particle sits right before the verb meaning 'to spoil' to negate the statement.
-- 'Sometimes forecasts lie.' In Russian, the idea of 'it is' flows naturally into 'they lie' without extra filler words.
-- 'Go to the back courtyard.' Spoken Russian keeps this brisk, leaning on 'go' and finishing on 'yard'.
-- 'Do not disgrace our restaurant.' Spoken Russian keeps this brisk, leaning on 'not' and finishing on 'restaurant'. Max answers right away.
-- 'This is not my best day.' Here the Russian phrasing highlights 'this' before landing on 'day'.
-- 'Friends will always support me.' Max brings out the contrast between 'friend' and 'always' in a few short words.
-- 'Hey, Max, here is the thing.' Kostya anchors the line on 'great', while 'business' completes the thought.
-- 'You need to move out of the apartment.' Here the Russian phrasing highlights 'to you' before landing on 'apartments'.
-- 'Our baby will be born soon.' Spoken Russian keeps this brisk, leaning on 'at' and finishing on 'will be born'.
-- 'I wish this day would end soon.' In Russian, the idea of 'quickly' flows naturally into 'to end' without extra filler words.
+- 'My forecast for today is excellent.' Because his forecast for today is excellent, Max treats the matter as settled.
+- 'I feel like walking in through the front entrance.' Feeling like walking in through the front entrance is how Max lays out the situation for Kostya.
+- 'Nothing will ruin my mood.' Max mentions that nothing will ruin his mood so Kostya sees what is at stake.
+- 'Sometimes forecasts lie.' With the news and moment in play, Max keeps this short reply brisk and direct.
+- 'Go to the back courtyard.' Explaining that Kostya should go to the back courtyard lays the cards on the table for Kostya.
+- 'Do not disgrace our restaurant.' Nagiyev explains that do not disgrace their restaurant, keeping his voice calm and direct.
+- 'This is not my best day.' Realizing that this is not his best day changes how Max handles the situation.
+- 'Friends will always support me.' Noting that friends will always support him keeps Max's side of the story simple and clear.
+- 'Hey, Max, here is the thing.' Even though here is the thing, Kostya keeps a steady face in front of Max.
+- 'You need to move out of the apartment.' Admitting that Max needs to move out of the apartment shows Kostya being honest for a change.
+- 'Our baby will be born soon.' Saying that their baby will be born soon is how Kostya sets the tone with Max. Russian expresses having something as "by me is", keeping the phrase short and grounded.
+- 'I wish this day would end soon.' Noting that he wishes this day would end soon keeps Max's side of the story simple and clear.

@@ -8,13 +8,9 @@
  "scene": 4,
  "title": "Шеф готовится к спорту  (The Chef Prepares for Sports)",
  "level": "A1 — Duolingo Section 2",
- "voices": {
-  "narrator": "sky",
-  "chef": "anja",
-  "lyova": "angelina"
- },
  "labels": {
-  "chef": "Шеф",
+  "barinov": "Шеф",
+  "kostya": "Костя",
   "lyova": "Лёва"
  },
  "segments": [
@@ -24,12 +20,12 @@
    "gap": 0.8
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Лёва, на минутку.",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "kostya",
    "t": "Только не спрашивай.",
    "gap": 0.55
   },
@@ -39,12 +35,12 @@
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Мысль интересная, но у них денег не хватит.",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "kostya",
    "t": "Вали отсюда.",
    "gap": 0.55
   },
@@ -54,12 +50,12 @@
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Для здоровья.",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "kostya",
    "t": "А, здорово.",
    "gap": 0.55
   },
@@ -69,12 +65,12 @@
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Какие деньги, Лёва?",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "kostya",
    "t": "Ты не в церкви, тебя не обманут.",
    "gap": 0.55
   },
@@ -84,7 +80,7 @@
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Потом отдам.",
    "gap": 0.9
   },
@@ -94,23 +90,23 @@
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Лёва, на минутку.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Lyova, step in for a minute.' Here the Russian phrasing highlights 'Lyova' before landing on 'a minute'.",
+   "t": "'Lyova, step in for a minute.' Claiming that Kostya should step in for a minute sounds confident, even if Kostya has doubts.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "kostya",
    "t": "Только не спрашивай.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Just do not ask any questions.' Notice how Russian expresses 'only' and 'to ask' with crisp inflection rather than helper words. Lyova answers right away.",
+   "t": "'Just do not ask any questions.' Kostya reminds Barinov that just do not ask any questions before the moment passes.",
    "gap": 0.4
   },
   {
@@ -120,27 +116,27 @@
   },
   {
    "v": "narrator",
-   "t": "'Wait, what do you need that for?' The meaning hinges on 'and' working together with 'for you' in spoken Russian.",
+   "t": "'Wait, what do you need that for?' Wondering what Barinov needs cuts straight through the tension between Lyova and Barinov. Even in the middle of the drama, he keeps the polite plural \"you\" that workplace Russian expects.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Мысль интересная, но у них денег не хватит.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'That is an interesting thought, but they do not have enough money.' In Russian, the idea of 'thought' flows naturally into 'enough' without extra filler words.",
+   "t": "'That is an interesting thought, but they do not have enough money.' Explaining that that is an interesting thought but they do not have enough money lays the cards on the table for Kostya.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "kostya",
    "t": "Вали отсюда.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Get out of here.' Spoken Russian keeps this brisk, leaning on 'get lost' and finishing on 'from here'. Lyova answers right away.",
+   "t": "'Get out of here.' Pointing out that Barinov should get out of here gives Barinov a sobering reality check.",
    "gap": 0.4
   },
   {
@@ -150,27 +146,27 @@
   },
   {
    "v": "narrator",
-   "t": "'Lyova, I have decided to take up sports.' Lyova brings out the contrast between 'Lyova' and 'I' in a few short words.",
+   "t": "'Lyova, I have decided to take up sports.' Once he has decided to take up sports, Lyova can finally tell Barinov what he means.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Для здоровья.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'For my health.' Chef Barinov centers this short reply on 'health', letting a few direct words carry the whole meaning.",
+   "t": "'For my health.' Over the shift and the conversation, Barinov answers Kostya without a second thought.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "kostya",
    "t": "А, здорово.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Oh, that is great.' In Russian, the idea of 'and' flows naturally into 'great' without extra filler words. Lyova answers right away.",
+   "t": "'Oh, that is great.' Kostya explains that that is great, keeping his voice calm and direct.",
    "gap": 0.4
   },
   {
@@ -180,27 +176,27 @@
   },
   {
    "v": "narrator",
-   "t": "'Wait, where did my money go?' Lyova pairs 'somewhere' with 'money' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.",
+   "t": "'Wait, where did my money go?' Here wondering where his money go shows Lyova looking for the real truth. In Russian, he does not need helper words like \"do\" or \"did\"—rising pitch alone turns it into a question.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Какие деньги, Лёва?",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'What money, Lyova?' Chef Viktor brings out the contrast between 'what kind of' and 'money' in a few short words.",
+   "t": "'What money, Lyova?' Around the conversation and morning, Barinov wants to know where Kostya really stands.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "kostya",
    "t": "Ты не в церкви, тебя не обманут.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'You are not in church, nobody is going to cheat you.' Kostya addresses the listener with the informal singular 'you' alongside 'will deceive'. Lyova answers right away.",
+   "t": "'You are not in church, nobody is going to cheat you.' Even though Barinov is not in church nobody is going to cheat Barinov, Kostya keeps a steady face in front of Barinov. Using the informal \"you\" shows how direct and unfiltered their kitchen relationship is.",
    "gap": 0.4
   },
   {
@@ -210,26 +206,26 @@
   },
   {
    "v": "narrator",
-   "t": "'Lyova? You are not in church, right?' The grammar packs 'Lyova' and 'church' into a tight, idiomatic kitchen exchange.",
+   "t": "'Lyova? You are not in church, right?' Questioning whether Barinov is not in church right is how Lyova tests Barinov's story. Speaking with the close, informal \"you\" strips away any polite distance between them.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Потом отдам.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'I will pay you back later.' The meaning hinges on 'later' working together with 'I give back' in spoken Russian. Let's hear the complete conversation once more.",
+   "t": "'I will pay you back later.' Saying that he will pay Kostya back later is how Barinov sets the tone with Kostya. Let's hear the complete conversation once more.",
    "gap": 0.9
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Лёва, на минутку.",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "kostya",
    "t": "Только не спрашивай.",
    "gap": 0.5
   },
@@ -239,12 +235,12 @@
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Мысль интересная, но у них денег не хватит.",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "kostya",
    "t": "Вали отсюда.",
    "gap": 0.5
   },
@@ -254,12 +250,12 @@
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Для здоровья.",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "kostya",
    "t": "А, здорово.",
    "gap": 0.5
   },
@@ -269,12 +265,12 @@
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Какие деньги, Лёва?",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "kostya",
    "t": "Ты не в церкви, тебя не обманут.",
    "gap": 0.5
   },
@@ -284,7 +280,7 @@
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Потом отдам.",
    "gap": 0.9
   },
@@ -294,7 +290,7 @@
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "До завтра!",
    "gap": 0.3
   }

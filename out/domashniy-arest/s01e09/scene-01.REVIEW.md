@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Самсон | Сколько раз тебе говорить? | How many times do I have to tell you? | #1 00:00:36: Сколько раз | verbatim |
-| 2 | Самсон | Я просто сходил на концерт. | I just went to a concert. | #1 00:00:36: я просто сходил<br>#1 00:00:36: на концерт | verbatim |
-| 3 | Самсон | Я был там с одноклассником. | I was there with a classmate. | #1 00:00:36: с одноклассником | verbatim |
-| 4 | Самсон | Я тебе не изменял! | I didn't cheat on you! | #2 00:00:39: Я тебя не изменял | adapted: corrected grammar from dialectal тебя -> тебе |
+| 1 | Самсон | Сколько раз тебе говорить? | How many times do I have to tell you? | #1: Сколько раз | verbatim |
+| 2 | Самсон | Я просто сходил на концерт. | I just went to a concert. | #1: я просто сходил<br>#1: на концерт | verbatim |
+| 3 | Самсон | Я был там с одноклассником. | I was there with a classmate. | #1: с одноклассником | verbatim |
+| 4 | Самсон | Я тебе не изменял! | I didn't cheat on you! | #2: Я тебя не изменял | adapted: corrected grammar from dialectal тебя -> тебе |
 | 5 | Нина | А люди говорят другое. | And people say otherwise. | new | new: added dialogue line |
-| 6 | Самсон | Мне всё равно, что ты думаешь! | I don't care what you think! | #3 00:00:40: Да мне<br>#3 00:00:40: как ты считаешь | adapted: slang пофиг softened to всё равно |
-| 7 | Самсон | Ты меня поняла? | Did you understand me? | #3 00:00:40: поняла | verbatim |
-| 8 | Самсон | Я разведусь с тобой! | I will divorce you! | #4 00:00:42: Я разведусь с тобой | verbatim |
-| 9 | Самсон | Тебе всё понятно? | Is everything clear to you? | #4 00:00:42: понятно | verbatim |
-| 10 | Нина | Самсон, ну всё, хватит. | Samson, that's enough, stop it. | #6 00:00:47: Самсон, ну все | verbatim |
-| 11 | Нина | Не смеши меня, пожалуйста. | Don't make me laugh, please. | #6 00:00:47: не смеши меня | verbatim |
-| 12 | Нина | Пойдём уже спать. | Let's just go to sleep. | #7 00:00:49: Пойдем спать | verbatim |
-| 13 | Самсон | Посмотрим, Нина. Посмотрим. | We will see, Nina. We will see. | #8 00:00:51: Посмотрим | verbatim |
+| 6 | Самсон | Мне всё равно, что ты думаешь! | I don't care what you think! | #3: Да мне<br>#3: как ты считаешь | adapted: slang пофиг softened to всё равно |
+| 7 | Самсон | Ты меня поняла? | Did you understand me? | #3: поняла | verbatim |
+| 8 | Самсон | Я разведусь с тобой! | I will divorce you! | #4: Я разведусь с тобой | verbatim |
+| 9 | Самсон | Тебе всё понятно? | Is everything clear to you? | #4: понятно | verbatim |
+| 10 | Нина | Самсон, ну всё, хватит. | Samson, that's enough, stop it. | #6: Самсон, ну все | verbatim |
+| 11 | Нина | Не смеши меня, пожалуйста. | Don't make me laugh, please. | #6: не смеши меня | verbatim |
+| 12 | Нина | Пойдём уже спать. | Let's just go to sleep. | #7: Пойдем спать | verbatim |
+| 13 | Самсон | Посмотрим, Нина. Посмотрим. | We will see, Nina. We will see. | #8: Посмотрим | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

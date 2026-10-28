@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Лёля | Короче, девочки. Верить на слово нельзя никому. | In short, girls. You can't take anyone at their word. | #1043 00:57:05: Короче<br>#1044 00:57:07: Верить на слово нельзя никому | adapted: 'девочки' added |
-| 2 | Лёля | Поняли? Нужен штамп в паспорте. | Got that? You need a stamp in the passport. | #1045 00:57:10: Поняли<br>#1046 00:57:12: Нужен штамп в паспорте | verbatim |
-| 3 | Лёля | Или счёт в банке. Потому что они все обманщики. | Or a bank account. Because they are all cheats. | #1047 00:57:16: Или счет<br>#1048 00:57:18: Потому что они все | adapted: 'в банке' added; slang in 1048 -> 'обманщики' |
-| 4 | Лёля | Я так два года потеряла. Любила так сильно! | I lost two years like that. I loved him so much! | #1049 00:57:27: Я<br>#1049 00:57:27: так два года<br>#1050 00:57:30: Любила так сильно | adapted: 'его ... убила' -> 'потеряла' (A1) |
-| 5 | Лёля | А у меня только квартира осталась. И его посадили! | And I only have a flat left. And they locked him up! | #1051 00:57:33: А у меня<br>#1053 00:57:39: Его посадили | adapted: cues 1051-1052 simplified to A1 |
-| 6 | Славик | Малыш, может, тебе хватит уже? | Babe, maybe you've had enough already? | #1058 00:58:04: Малыш, может, тебе хватит уже | verbatim |
-| 7 | Лёля | Ты мой парень? Такого в жизни не будет! | You're my boyfriend? That will never happen in your life! | #1062 00:58:25: в жизни не будет | adapted: cue 1060 'Я твой бойфренд?' -> 'Ты мой парень?'; 'Такого' added |
-| 8 | Лёля | Девушки, как я, у тебя не будет! | You'll never have a girl like me! | #1061 00:58:14: Девушки, как я<br>#1062 00:58:25: не будет | adapted: 'у тебя' added |
-| 9 | Лёля | Понял меня? Ты же ещё мальчик! | Do you understand me? You're still just a boy! | #1063 00:58:27: Понял меня | adapted: cues 1064-1065 retold cleanly as 'Ты же ещё мальчик!' |
-| 10 | Лёля | А почему ты тогда пришла с ним? | Then why did you come with him? | new | new: new: Dimon asks in front of the whole room |
-| 11 | Лёля | Просто бывший мой попросил, чтобы я подыграла ему. | My ex simply asked me to play along for him. | #1066 00:58:37: Просто бывший мой попросил<br>#1067 00:58:38: чтобы я подыграла ему | verbatim |
-| 12 | Лёля | Ой, сейчас что-то я выпила. Мне сейчас так грустно стало. | Oh, I've had a bit to drink now. I feel so sad all of a sudden. | #1069 00:58:42: Ой, сейчас что-то я выпила<br>#1070 00:58:45: Мне сейчас так грустно стало | verbatim |
-| 13 | Лёля | Вот это да! Славик, ну ты и обманщик! | Well, well! Slavik, what a cheat you are! | new | new: new: Dimon laughs at Slavik in front of the guests |
+| 1 | Лёля | Короче, девочки. Верить на слово нельзя никому. | In short, girls. You can't take anyone at their word. | #1043: Короче<br>#1044: Верить на слово нельзя никому | adapted: 'девочки' added |
+| 2 | Лёля | Поняли? Нужен штамп в паспорте. | Got that? You need a stamp in the passport. | #1045: Поняли<br>#1046: Нужен штамп в паспорте | verbatim |
+| 3 | Лёля | Или счёт в банке. Потому что они все обманщики. | Or a bank account. Because they are all cheats. | #1047: Или счет<br>#1048: Потому что они все | adapted: 'в банке' added; slang in 1048 -> 'обманщики' |
+| 4 | Лёля | Я так два года потеряла. Любила так сильно! | I lost two years like that. I loved him so much! | #1049: Я<br>#1049: так два года<br>#1050: Любила так сильно | adapted: 'его ... убила' -> 'потеряла' (A1) |
+| 5 | Лёля | А у меня только квартира осталась. И его посадили! | And I only have a flat left. And they locked him up! | #1051: А у меня<br>#1053: Его посадили | adapted: cues 1051-1052 simplified to A1 |
+| 6 | Славик | Малыш, может, тебе хватит уже? | Babe, maybe you've had enough already? | #1058: Малыш, может, тебе хватит уже | verbatim |
+| 7 | Лёля | Ты мой парень? Такого в жизни не будет! | You're my boyfriend? That will never happen in your life! | #1062: в жизни не будет | adapted: cue 1060 'Я твой бойфренд?' -> 'Ты мой парень?'; 'Такого' added |
+| 8 | Лёля | Девушки, как я, у тебя не будет! | You'll never have a girl like me! | #1061: Девушки, как я<br>#1062: не будет | adapted: 'у тебя' added |
+| 9 | Лёля | Понял меня? Ты же ещё мальчик! | Do you understand me? You're still just a boy! | #1063: Понял меня | adapted: cues 1064-1065 retold cleanly as 'Ты же ещё мальчик!' |
+| 10 | Димон | А почему ты тогда пришла с ним? | Then why did you come with him? | new | new: new: Dimon asks in front of the whole room |
+| 11 | Лёля | Просто бывший мой попросил, чтобы я подыграла ему. | My ex simply asked me to play along for him. | #1066: Просто бывший мой попросил<br>#1067: чтобы я подыграла ему | verbatim |
+| 12 | Лёля | Ой, сейчас что-то я выпила. Мне сейчас так грустно стало. | Oh, I've had a bit to drink now. I feel so sad all of a sudden. | #1069: Ой, сейчас что-то я выпила<br>#1070: Мне сейчас так грустно стало | verbatim |
+| 13 | Димон | Вот это да! Славик, ну ты и обманщик! | Well, well! Slavik, what a cheat you are! | new | new: new: Dimon laughs at Slavik in front of the guests |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

@@ -1,32 +1,34 @@
-# domashniy-arest/s01e11/scene-12.py
-ID = "domashniy-arest-s01e11-scene-12"
-SHOW = "domashniy-arest"
+# Authoring module for domashniy-arest-s01e11-scene-12.
+ID = 'domashniy-arest-s01e11-scene-12'
+SHOW = 'domashniy-arest'
 SEASON = 1
 EPISODE = 11
 SCENE = 12
-TITLE = "Ещё парочку  (A Couple More)"
-LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-SOURCE_NAME = "Домашний арест (Domashniy Arest) S1.11"
-SOURCE_FILE = "sources/domashniy-arest/s01/e11.ru.dual.srt"
-VOICES = {"narrator": "sky", "lev": "anja", "vika": "angelina"}
-LABELS = {"lev": "Лев", "vika": "Вика"}
+TITLE = 'Ещё парочку  (A Couple More)'
+LEVEL = 'A1 — Duolingo Section 2'
+PAIR = 'ru-en'
+LABELS = {'lev': 'Лев', 'vika': 'Вика'}
+SOURCE_NAME = 'Домашний арест (Domashniy Arest) S1.11'
+SOURCE_FILE = 'sources/domashniy-arest/s01/e11.ru.dual.srt'
 INTRO = "Vika worries about gaining weight from eating so much, but Lev reassures her that genuine affection is not about physical appearances. Touched by his words, Vika asks for another serving. Let's listen in Russian first."
-STORY = [
-    ("vika", "Знаете, Лев, я поправляюсь очень быстро.", "You know, Lev, I gain weight very quickly.", [(341, 'знаете')], ""),
-    ("lev", "Не говорите так, вы прекрасно выглядите!", "Do not say that, you look wonderful!", [], ""),
-    ("vika", "А кто полюбит меня, если растолстею?", "And who will love me if I get fat?", [(344, 'меня')], ""),
-    ("lev", "Любят человека не за фигуру.", "People love a person not for their figure.", [], ""),
-    ("lev", "Вас любят просто за доброе сердце.", "They love you simply for your kind heart.", [(344, 'просто')], ""),
-    ("vika", "Вы правда так искренне думаете?", "Do you truly think so sincerely?", [(341, 'А знаете что')], ""),
-    ("lev", "Да, я говорю чистую правду.", "Yes, I am speaking the pure truth.", [(341, 'А знаете что')], ""),
-    ("vika", "Тогда положите мне ещё парочку блинов!", "Then serve me a couple more pancakes!", [(341, 'а давайте еще парочку')], ""),
-    ("lev", "Вот, совсем другое дело, кушайте!", "There, that is much better, eat up!", [(342, 'Вот, другое дело')], ""),
-    ("vika", "Большое спасибо вам за вкусные блины.", "Thank you very much for the delicious pancakes.", [(343, 'Спасибо')], ""),
-    ("lev", "Называйте меня теперь просто Лев.", "Call me simply Lev from now on.", [(344, 'Называйте меня просто Лев')], ""),
-    ("vika", "Договорились, просто Лев, без отчества.", "Agreed, simply Lev, without a patronymic.", [(344, 'Называйте меня просто Лев')], ""),
-]
 OPENER = "Let's examine the dialogue line by line. Notice the polite compliments and conversational terms for food and serving."
+TRANSITION = "Now let's listen to the whole conversation again at normal conversational speed."
+OUTRO = 'Vika happily takes another helping of pancakes, having dropped the formal barriers between her and Lev. See you next time!'
+CLOSING = ('lev', 'Пока!')
+STORY = [
+    ('vika', 'Знаете, Лев, я поправляюсь очень быстро.', 'You know, Lev, I gain weight very quickly.', [(341, 'знаете')], ''),
+    ('lev', 'Не говорите так, вы прекрасно выглядите!', 'Do not say that, you look wonderful!', [], ''),
+    ('vika', 'А кто полюбит меня, если растолстею?', 'And who will love me if I get fat?', [(344, 'меня')], ''),
+    ('lev', 'Любят человека не за фигуру.', 'People love a person not for their figure.', [], ''),
+    ('lev', 'Вас любят просто за доброе сердце.', 'They love you simply for your kind heart.', [(344, 'просто')], ''),
+    ('vika', 'Вы правда так искренне думаете?', 'Do you truly think so sincerely?', [(341, 'А знаете что')], ''),
+    ('lev', 'Да, я говорю чистую правду.', 'Yes, I am speaking the pure truth.', [(341, 'А знаете что')], ''),
+    ('vika', 'Тогда положите мне ещё парочку блинов!', 'Then serve me a couple more pancakes!', [(341, 'а давайте еще парочку')], ''),
+    ('lev', 'Вот, совсем другое дело, кушайте!', 'There, that is much better, eat up!', [(342, 'Вот, другое дело')], ''),
+    ('vika', 'Большое спасибо вам за вкусные блины.', 'Thank you very much for the delicious pancakes.', [(343, 'Спасибо')], ''),
+    ('lev', 'Называйте меня теперь просто Лев.', 'Call me simply Lev from now on.', [(344, 'Называйте меня просто Лев')], ''),
+    ('vika', 'Договорились, просто Лев, без отчества.', 'Agreed, simply Lev, without a patronymic.', [(344, 'Называйте меня просто Лев')], ''),
+]
 WALK = [
     (0, None, "'You know, Lev, I gain weight very quickly.' Parenthetical verb with self-action verb form verb and adverb of speed."),
     (1, None, "'Do not say that, you look wonderful!' Negative command of speech followed by an expressive compliment."),
@@ -41,6 +43,3 @@ WALK = [
     (10, None, "'Call me simply Lev from now on.' Command of naming with temporal adverb and descriptive phrase subject-form proper noun."),
     (11, None, "'Agreed, simply Lev, without a patronymic.' Past verbal adjective of consensus followed by preposition with 'of'-form."),
 ]
-TRANSITION = "Now let's listen to the whole conversation again at normal conversational speed."
-OUTRO = "Vika happily takes another helping of pancakes, having dropped the formal barriers between her and Lev. See you next time!"
-CLOSING = ("lev", "Пока!")

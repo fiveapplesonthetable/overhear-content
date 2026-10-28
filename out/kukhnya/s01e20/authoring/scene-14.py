@@ -4,31 +4,30 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 20
 SCENE = 14
-TITLE = "Новый план  (The New Plan)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Новый план  (The New Plan)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "vika": "angelina", "anya": "alisa", "guest": "anja"}
-LABELS = {"vika": "Вика", "anya": "Макс", "guest": "Гость"}
+LABELS = {'guest': 'Гость', 'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.20'
 SOURCE_FILE = 'sources/kukhnya/s01/e20.ru.dual.srt'
 INTRO = 'Max wins a drinking competition in the kitchen and gets very drunk. He walks into the dining room and interrupts Victoria, who is receiving an expensive birthday gift from an important guest.'
 OPENER = "Now let's examine this conversation line by line."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Victoria is very embarrassed in front of the important guest. Drunk Max tries to give Victoria the ring he bought for her, but she is very angry. Next time you watch the episode, listen for the Russian expressions for 'to hear' and 'day' — you will catch every word right away. See you next time!"
-CLOSING = ("vika", "Пока!")
+CLOSING = ('vika', 'Пока!')
 STORY = [
     ('guest', 'Вика, я слышал, у вас день рождения.', 'Vika, I heard it is your birthday.', [(243, 'Итак, приветствуем нового чемпиона.')], ''),
     ('guest', 'У меня есть красивый подарок для вас.', 'I have a beautiful gift for you.', [], ''),
     ('vika', 'Боже мой! Это очень дорогая картина.', 'Oh my God! This is a very expensive painting.', [], ''),
     ('guest', 'Главное, что она вам очень нравится.', 'The main thing is that you like it very much.', [], ''),
     ('vika', 'Спасибо большое, это мой любимый художник.', 'Thank you very much, this is my favorite artist.', [], ''),
-    ('anya', 'А я смотрю, вы тут хорошо развлекаетесь.', 'And I see you are having good fun here.', [], ''),
+    ('max', 'А я смотрю, вы тут хорошо развлекаетесь.', 'And I see you are having good fun here.', [], ''),
     ('vika', 'Макс, что ты делаешь? Иди отсюда.', 'Max, what are you doing? Go from here.', [], ''),
-    ('anya', 'Я хочу выпить за удивительную девушку.', 'I want to drink to an amazing girl.', [], ''),
+    ('max', 'Я хочу выпить за удивительную девушку.', 'I want to drink to an amazing girl.', [], ''),
     ('vika', 'Макс, ты пьян. Пойдем, выйдем, пожалуйста.', "Max, you are drunk. Let's go out, please.", [], ''),
-    ('anya', 'Подожди, я еще не подарил свой подарок.', 'Wait, I did not give my gift yet.', [], ''),
+    ('max', 'Подожди, я еще не подарил свой подарок.', 'Wait, I did not give my gift yet.', [], ''),
     ('vika', 'Мне не нужны твои глупые подарки сейчас.', 'I do not need your stupid gifts now.', [], ''),
-    ('anya', 'Смотри, это красивое кольцо для тебя.', 'Look, this is a beautiful ring for you.', [], ''),
+    ('max', 'Смотри, это красивое кольцо для тебя.', 'Look, this is a beautiful ring for you.', [], ''),
     ('guest', 'Извините, я, наверное, пойду сейчас.', 'Excuse me, I will probably go now.', [], ''),
     ('vika', 'Нет, останьтесь. Макс, ты сошел с ума!', 'No, stay. Max, you have gone crazy!', [], ''),
 ]

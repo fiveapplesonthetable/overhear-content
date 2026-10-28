@@ -1,40 +1,43 @@
-# Хитрый план  (A Cunning Plan) — `kukhnya-s01e05-scene-19`
+# kukhnya-s01e05-scene-19: review sheet
 
-**Source:** Кухня (Kukhnya) S1.05 · `sources/kukhnya/s01/e05.ru.dual.srt`  
-**Target level:** A1 — Duolingo Section 2
+Title: Хитрый план  (A Cunning Plan)
+Level: A1 — Duolingo Section 2
+Pair: ru-en
+Source: Кухня (Kukhnya) S1.05
 
-## Cast
 
-| Role | Voice | Label |
-|---|---|---|
-| `narrator` | sky | — |
-| `kostya` | anja | Костя |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 1 — Intro
-
-> In the Claude Monet dining room, waitress Sasha approaches the bar to debrief with bartender Kostya. They discuss the false story they planted to make Max jealous, and Kostya cleverly turns the fake dating scheme into a real movie date. Listen to their conversation in Russian first, then we will break down each line in English.
-
-## Part 2 — Story
-
-| # | Speaker | Line | English | Source cue(s) | Change |
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 0 | Костя | Саша, ну что, ты сказала Максу? | Sasha, well, did you tell Max? | #278 "ты сказала Максу" |  |
-| 1 | Костя | Да, я сказала, что забыла его. | Yes, I said that I forgot him. | #264 "я тебя уже забыла", #279 "Сказала" |  |
-| 2 | Костя | И как он на это отреагировал? | And how did he react to that? | #280 "Ну и что он" |  |
-| 3 | Костя | Он очень сильно удивился и расстроился. | He was very surprised and upset. | #281 "Расплакался" |  |
-| 4 | Костя | Мне даже немного жалко его стало. | I even felt a little sorry for him. | #282 "Мне даже его жалко стало" |  |
-| 5 | Костя | Ты только никому не рассказывай правду. | Just do not tell anyone the truth. | #286 "не говорили, что мы" |  |
-| 6 | Костя | Конечно, никто ничего не узнает. | Of course, no one will find out anything. | #287 "Понятное дело" |  |
-| 7 | Костя | Спасибо, ты настоящий верный друг! | Thank you, you are a true loyal friend! | *(added)* |  |
-| 8 | Костя | Слушай, а может мы сходим куда-нибудь? | Listen, maybe we should go somewhere? | #288 "а может мы с тобой повстречаемся" |  |
-| 9 | Костя | Куда именно ты предлагаешь пойти? | Where exactly do you suggest going? | *(added)* |  |
-| 10 | Костя | Давай сходим в кино вместе. | Let us go to the movies together. | #290 "в кино, я не знаю, сходим" |  |
-| 11 | Костя | Это нужно для правдоподобности нашего плана. | This is needed for the believability of our plan. | #289 "Для правдоподобности" |  |
-| 12 | Костя | Отличная идея, пойдём сегодня вечером! | Great idea, let us go tonight! | #291 "ну давай" |  |
-| 13 | Костя | Договорились, тогда встретимся после работы. | Agreed, then let us meet after work. | #291 "Так точно никто не догадается" |  |
+| 1 | Костя | Саша, ну что, ты сказала Максу? | Sasha, well, did you tell Max? | #278: ты сказала Максу | verbatim |
+| 2 | Саша | Да, я сказала, что забыла его. | Yes, I said that I forgot him. | #264: я тебя уже забыла<br>#279: Сказала | verbatim |
+| 3 | Костя | И как он на это отреагировал? | And how did he react to that? | #280: Ну и что он | verbatim |
+| 4 | Саша | Он очень сильно удивился и расстроился. | He was very surprised and upset. | #281: Расплакался | verbatim |
+| 5 | Костя | Мне даже немного жалко его стало. | I even felt a little sorry for him. | #282: Мне даже его жалко стало | verbatim |
+| 6 | Саша | Ты только никому не рассказывай правду. | Just do not tell anyone the truth. | #286: не говорили, что мы | verbatim |
+| 7 | Костя | Конечно, никто ничего не узнает. | Of course, no one will find out anything. | #287: Понятное дело | verbatim |
+| 8 | Саша | Спасибо, ты настоящий верный друг! | Thank you, you are a true loyal friend! | new | new |
+| 9 | Костя | Слушай, а может мы сходим куда-нибудь? | Listen, maybe we should go somewhere? | #288: а может мы с тобой повстречаемся | verbatim |
+| 10 | Саша | Куда именно ты предлагаешь пойти? | Where exactly do you suggest going? | new | new |
+| 11 | Костя | Давай сходим в кино вместе. | Let us go to the movies together. | #290: в кино, я не знаю, сходим | verbatim |
+| 12 | Костя | Это нужно для правдоподобности нашего плана. | This is needed for the believability of our plan. | #289: Для правдоподобности | verbatim |
+| 13 | Саша | Отличная идея, пойдём сегодня вечером! | Great idea, let us go tonight! | #291: ну давай | verbatim |
+| 14 | Костя | Договорились, тогда встретимся после работы. | Agreed, then let us meet after work. | #291: Так точно никто не догадается | verbatim |
 
-## Part 5 — Outro & closing
+## Walk-through narration (English only, no target-language words quoted)
 
-> Kostya successfully turns the fake dating cover story into a real date with Sasha. Until then! Next time you watch the episode, listen for the Russian expressions for 'faithful' and 'evening' — you will catch every word right away. See you next time!
-
-**Костя:** Пока!
+- 'Sasha, well, did you tell Max?' The bartender eagerly asks about the conversation.
+- 'Yes, I said that I forgot him.' Sasha reports that she delivered the harsh message.
+- 'And how did he react to that?' Kostya wants to know the rival's emotional response.
+- 'He was very surprised and upset.' Sasha describes Max's visible disappointment.
+- 'I even felt a little sorry for him.' A momentary pang of sympathy for the heartbroken cook.
+- 'Just do not tell anyone the truth.' Sasha insists on keeping their secret deception quiet.
+- 'Of course, no one will find out anything.' The phrasing opens with 'of course' before bringing in 'will find out' to make the point clear.
+- 'Thank you, you are a true loyal friend!' Sasha expresses heartfelt gratitude for his loyalty.
+- 'Listen, maybe we should go somewhere?' Kostya seizes the chance to suggest spending time together.
+- 'Where exactly do you suggest going?' A curious question about potential date plans.
+- 'Let us go to the movies together.' Kostya leads with the direct command form meaning 'let us', pairing it with 'go' and 'cinema'.
+- 'This is needed for the believability of our plan.' A clever pretext to justify a romantic outing.
+- 'Great idea, let us go tonight!' Sasha enthusiastically agrees to the evening movie plan.
+- 'Agreed, then let us meet after work.' Kostya confirms the exciting date after their shifts. Alright, let's hear the whole thing once more.

@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Ну вот ваш Степан. | Well, here is your Stepan. | #212 00:15:57: вот тебе, Степан | adapted: adapted for A1 clarity |
-| 2 | Аня | Давай сделаем обмен. | Let's make a swap. | #213 00:16:00: Давай | adapted: adapted for A1 clarity |
-| 3 | Аня | Это совсем другой мальчик. | This is a completely different boy. | #216 00:16:12: не мой сын | adapted: adapted for A1 clarity |
-| 4 | Аня | Дети не могут так быстро меняться. | Children cannot change that fast. | #219 00:16:21: Дети имеют | adapted: adapted for A1 clarity |
-| 5 | Аня | Снимите маску и посмотрите. | Take off the mask and take a look. | #218 00:16:18: Ну-ка | adapted: adapted for A1 clarity |
-| 6 | Аня | Где же тогда мой внук? | Where is my grandson then? | #224 00:16:32: Где мой внук | adapted: adapted for A1 clarity |
-| 7 | Федя | Подняли сейф, осторожно! | We lifted the safe, careful! | #226 00:17:02: Подняли, подняли. Осторожно | adapted: adapted for A1 clarity |
-| 8 | Федя | Справа аккуратно обходим стол. | We go around the table carefully on the right. | #227 00:17:03: Справа аккуратно обходим | adapted: adapted for A1 clarity |
-| 9 | Федя | Шеф, помогли бы нам лучше! | Chef, you could help us instead! | #228 00:17:05: Помог бы лучше | adapted: adapted for A1 clarity |
-| 10 | Федя | Вообще-то я этим и занимаюсь. | Actually, that is exactly what I am doing. | #229 00:17:07: Вообще-то этим и занимаюсь | adapted: adapted for A1 clarity |
-| 11 | Федя | Давай сюда, тяни на себя. | Bring it this way, pull toward yourself. | #232 00:17:13: Давай сюда, на себя | adapted: adapted for A1 clarity |
-| 12 | Федя | Всё, нам конец! | That is it, we are done for! | #233 00:17:19: Всё | adapted: adapted for A1 clarity |
+| 1 | Макс | Ну вот ваш Степан. | Well, here is your Stepan. | #212: вот тебе, Степан | adapted: adapted for A1 clarity |
+| 2 | Макс | Давай сделаем обмен. | Let's make a swap. | #213: Давай | adapted: adapted for A1 clarity |
+| 3 | Макс | Это совсем другой мальчик. | This is a completely different boy. | #216: не мой сын | adapted: adapted for A1 clarity |
+| 4 | Макс | Дети не могут так быстро меняться. | Children cannot change that fast. | #219: Дети имеют | adapted: adapted for A1 clarity |
+| 5 | Макс | Снимите маску и посмотрите. | Take off the mask and take a look. | #218: Ну-ка | adapted: adapted for A1 clarity |
+| 6 | Макс | Где же тогда мой внук? | Where is my grandson then? | #224: Где мой внук | adapted: adapted for A1 clarity |
+| 7 | Шеф | Подняли сейф, осторожно! | We lifted the safe, careful! | #226: Подняли, подняли. Осторожно | adapted: adapted for A1 clarity |
+| 8 | Федя | Справа аккуратно обходим стол. | We go around the table carefully on the right. | #227: Справа аккуратно обходим | adapted: adapted for A1 clarity |
+| 9 | Федя | Шеф, помогли бы нам лучше! | Chef, you could help us instead! | #228: Помог бы лучше | adapted: adapted for A1 clarity |
+| 10 | Шеф | Вообще-то я этим и занимаюсь. | Actually, that is exactly what I am doing. | #229: Вообще-то этим и занимаюсь | adapted: adapted for A1 clarity |
+| 11 | Федя | Давай сюда, тяни на себя. | Bring it this way, pull toward yourself. | #232: Давай сюда, на себя | adapted: adapted for A1 clarity |
+| 12 | Федя | Всё, нам конец! | That is it, we are done for! | #233: Всё | adapted: adapted for A1 clarity |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, here is your Stepan.' Spoken Russian keeps this brief and expressive, built right around 'Stepan' without extra helper words.
-- 'Let's make a swap.' The noun for 'exchange' or 'swap' is the direct object of 'let's make'.
-- 'This is a completely different boy.' The adverb 'completely' intensifies the adjective 'other/different'.
-- 'Children cannot change that fast.' Putting the short word for 'not' right in front of the action word is all Russian needs to make a sentence negative, with no extra helper words like 'do' or 'did'.
-- 'Take off the mask and take a look.' Polite plural imperatives urge the skeptical grandfather to check the boy's face.
-- 'Where is my grandson then?' Once the mask comes off, the grandfather demands to know where his real grandson is.
-- 'We lifted the safe, careful!' The adverb 'carefully' serves as a quick warning cry while carrying something heavy.
-- 'We go around the table carefully on the right.' The prefix 'ob-' on the motion verb means 'to walk around' an obstacle.
-- 'Chef, you could help us instead!' Combining the past tense with the conditional particle turns a wish into a mild reproach: 'you might have helped'.
-- 'Actually, that is exactly what I am doing.' The conversational opener means 'actually' or 'as a matter of fact'.
-- 'Bring it this way, pull toward yourself.' In Russian, 'pull toward yourself' is also how doors are labeled 'Pull'.
-- 'That is it, we are done for!' When the safe smashes onto German's car below, Fedya sums up their doom with 'to us is the end'.
+- 'Well, here is your Stepan.' Because here is Barinov's Stepan, Max treats the matter as settled. Notice how he sticks to the formal "you", keeping a professional line between them.
+- 'Let's make a swap.' Explaining that they should make a swap lays the cards on the table for Barinov.
+- 'This is a completely different boy.' Saying that this is a completely different boy is how Max sets the tone with Barinov. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'Children cannot change that fast.' Claiming that children cannot change that fast sounds confident, even if Barinov has doubts.
+- 'Take off the mask and take a look.' Once Barinov should take off the mask and take a look, Max can finally tell Barinov what he means.
+- 'Where is my grandson then?' Here asking where his grandson then is shows Max looking for the real truth. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'We lifted the safe, careful!' With the restaurant and truth at stake, Barinov reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'We go around the table carefully on the right.' Going around the table carefully on the right moves the conversation forward without extra drama.
+- 'Chef, you could help us instead!' Once Barinov could help them instead, Fedya makes sure Barinov hears every word. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Actually, that is exactly what I am doing.' Admitting that that is exactly what he is doing shows Barinov being honest for a change.
+- 'Bring it this way, pull toward yourself.' Pointing out that Barinov should bring it this way pull toward themselves gives Barinov a sobering reality check.
+- 'That is it, we are done for!' Saying that that is it they are done is how Fedya takes charge of the moment. Russian puts the key word right up front so his emotion lands on the first beat.

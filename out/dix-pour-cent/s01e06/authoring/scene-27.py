@@ -7,8 +7,7 @@ SCENE = 27
 TITLE = 'Le verdict du contrôle fiscal  (The Tax Audit Verdict)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'colette': 'emilie', 'mathias': 'marcel', 'gabriel': 'theo'}
-LABELS = {'colette': 'Colette', 'mathias': 'Mathias', 'gabriel': 'Gabriel'}
+LABELS = {'colette': 'Colette', 'gabriel': 'Gabriel', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e06.fr.dual.srt'
 INTRO = 'After three days of silence following her breakup with Andréa, tax inspector Colette Brancillon has returned to ASK, walking straight past Andréa into the conference room. Now Colette stands before Mathias, Andréa, Gabriel, Arlette, and Hélène Kerr to announce the verdict of her tax audit. Listen to the French first, without worrying about catching every word.'
@@ -40,7 +39,7 @@ WALK = [
     (5, None, "'You confuse private life and professional life.' Notice how both adjectives come after the feminine noun 'life'."),
     (6, None, "'You are going to pay a big fine in court.' The future form 'there will be' introduces the penalty."),
     (7, None, "'Why the court?' Mathias is stunned that the audit is going beyond a simple tax bill."),
-    (8, None, "'The company paid for a private hotel room for ten years.' Samuel Kerr lived in a luxury hotel at the agency's expense."),
+    (8, None, "'The company paid for a private hotel room for ten years.' At this point, Samuel Kerr lived in a luxury hotel at the agency's expense."),
     (9, None, "'The agency was paying for his vacations and his big house.'s money.' The partners treated the company bank account like their personal wallet."),
     (10, None, "'Some people even bought socks with the company's money!' Notice how the verb for 'have' leads straight into 'company'."),
     (11, None, "'That's different. It was a festival in the Alps, my feet were freezing!' Gabriel tries to defend his ski-festival socks."),

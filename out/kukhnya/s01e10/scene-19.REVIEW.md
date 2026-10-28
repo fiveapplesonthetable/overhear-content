@@ -1,39 +1,31 @@
-# Маленькая победа  (A Small Victory) — `kukhnya-s01e10-scene-19`
+# kukhnya-s01e10-scene-19: review sheet
 
-**Source:** Кухня (Kukhnya) S1.10 · `sources/kukhnya/s01/e10.ru.dual.srt`  
-**Target level:** A1 — Duolingo Section 2
+Title: Маленькая победа  (A Small Victory)
+Level: A1 — Duolingo Section 2
+Pair: ru-en
+Source: Кухня (Kukhnya) S1.10
 
-## Cast
 
-| Role | Voice | Label |
-|---|---|---|
-| `narrator` | sky | — |
-| `chef` | anja | Шеф |
-| `lyova` | angelina | Лёва |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 1 — Intro
-
-> Clutching the envelope of cash intended for caviar, Chef Barinov triumphantly returns to the kitchen in high spirits. Convinced his secret sports gamble will pay off handsomely, he proudly shares his excitement with his sous-chef, Lyova. Let's listen to their brief exchange in Russian.
-
-## Part 2 — Story
-
-| # | Speaker | Line | English | Source cue(s) | Change |
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 0 | Шеф | Это просто настоящий праздник какой-то! | This is simply some kind of real holiday! | #153 "Это просто праздник какой-то" |  |
-| 1 | Лёва | Шеф, почему вы так радостно улыбаетесь? | Chef, why are you smiling so joyfully? | *(added)* |  |
-| 2 | Шеф | Всё складывается даже лучше наших планов. | Everything is turning out even better than our plans. | *(added)* |  |
-| 3 | Лёва | Вы уже решили проблему с плитой? | Have you already solved the problem with the stove? | *(added)* |  |
-| 4 | Шеф | Плита вернётся на кухню вовремя, Лёва. | The stove will return to the kitchen on time, Lyova. | *(added)* |  |
-| 5 | Шеф | Не говори потом, что я не слушаю. | Do not say later that I do not listen. | #154 "Не говори потом" |  |
-| 6 | Лёва | Я просто переживаю за вечерний сервис. | I am simply worried about the evening service. | *(added)* |  |
-| 7 | Шеф | Сегодня вечером наш ресторан заработает состояние. | Tonight our restaurant will make a fortune. | *(added)* |  |
-| 8 | Лёва | Ладно, шеф, я вернусь к работе. | All right, chef, I will get back to work. | #155 "Ладно" |  |
-| 9 | Шеф | Иди и проследи за горячим цехом. | Go and supervise the hot kitchen section. | *(added)* |  |
-| 10 | Лёва | Сделаю всё в лучшем виде, шеф. | I will do everything in the best way, chef. | *(added)* |  |
-| 11 | Шеф | Вот это правильный и бодрый настрой. | Now that is the right and cheerful attitude. | *(added)* |  |
+| 1 | Шеф | Это просто настоящий праздник какой-то! | This is simply some kind of real holiday! | #153: Это просто праздник какой-то | verbatim |
+| 2 | Лёва | Шеф, почему вы так радостно улыбаетесь? | Chef, why are you smiling so joyfully? | new | new |
+| 3 | Шеф | Всё складывается даже лучше наших планов. | Everything is turning out even better than our plans. | new | new |
+| 4 | Лёва | Вы уже решили проблему с плитой? | Have you already solved the problem with the stove? | new | new |
+| 5 | Шеф | Плита вернётся на кухню вовремя, Лёва. | The stove will return to the kitchen on time, Lyova. | new | new |
+| 6 | Шеф | Не говори потом, что я не слушаю. | Do not say later that I do not listen. | #154: Не говори потом | verbatim |
+| 7 | Лёва | Я просто переживаю за вечерний сервис. | I am simply worried about the evening service. | new | new |
+| 8 | Шеф | Сегодня вечером наш ресторан заработает состояние. | Tonight our restaurant will make a fortune. | new | new |
+| 9 | Лёва | Ладно, шеф, я вернусь к работе. | All right, chef, I will get back to work. | #155: Ладно | verbatim |
+| 10 | Шеф | Иди и проследи за горячим цехом. | Go and supervise the hot kitchen section. | new | new |
+| 11 | Лёва | Сделаю всё в лучшем виде, шеф. | I will do everything in the best way, chef. | new | new |
+| 12 | Шеф | Вот это правильный и бодрый настрой. | Now that is the right and cheerful attitude. | new | new |
 
-## Part 5 — Outro & closing
+## Walk-through narration (English only, no target-language words quoted)
 
-> Now you know how to express celebration, discuss kitchen readiness, and encourage colleagues in Russian. Keep practicing these positive conversational phrases as you continue learning. Next time you watch the episode, listen for the Russian expressions for 'cheerful' and 'to come back' — you will catch every word right away. See you next time!
-
-**Шеф:** Пока!
+- 'This is simply some kind of real holiday!' Russian omits the present-tense verb 'to be' here, linking 'simply' directly with 'real', combining 'simply' with 'real' and 'holiday'.
+- 'The stove will return to the kitchen on time, Lyova.' A confident future tense promise meant to ease a colleague's worry about work.
+- 'I am simply worried about the evening service.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'All right, chef, I will get back to work.' An optimistic predictive statement expressing high expectations of success for the business. Now, let's hear Chef Barinov celebrate his small triumph once more. Now let's listen to the whole conversation again from start to finish.

@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Нагиев | Элеонора Андреевна, звали? | Eleonora Andreyevna, did you call for me? | #39 00:03:17: звали | adapted: adapted |
-| 2 | Нагиев | Да, Виктория. | Yes, Victoria. | #39 00:03:17: Да, Виктория | adapted: adapted |
-| 3 | Нагиев | Я уговорила медийного человека сыграть у нас свадьбу. | I persuaded a famous person to hold a wedding here. | #40 00:03:19: Я уговорила одного очень медийного человека сыграть | adapted: adapted |
-| 4 | Нагиев | Всё ясно, сделаем на высшем уровне. | Everything is clear, we will do it at the highest level. | #41 00:03:24: Все ясно<br>#42 00:03:26: на высшем уровне | adapted: adapted |
-| 5 | Нагиев | А вот и наш жених. | And here is our groom. | #43 00:03:28: А вот и наш жених | adapted: adapted |
-| 6 | Нагиев | Ну и запахи у вас в туалете. | What smells you have in the restroom. | #44 00:03:33: Ну и запахи у вас в туалете | adapted: adapted |
-| 7 | Нагиев | Всё пахнет, даже бумажка. | Everything smells nice, even the paper. | #45 00:03:35: Все пахнет, даже бумажка | adapted: adapted |
-| 8 | Нагиев | Нет, это манго. | No, it is mango. | #46 00:03:38: Нет, манго | adapted: adapted |
-| 9 | Нагиев | Ладно, перейдём к мелочам, к моей свадьбе. | Alright, let us move on to small details, to my wedding. | #48 00:03:48: Ладно<br>#50 00:03:51: Перейдем к мелочам. Моей свадьбе | adapted: adapted |
-| 10 | Нагиев | Она мне даже не сказала, кто отец ребёнка. | She did not even tell me who the child's father is. | #51 00:03:58: она мне даже не сказала, кто отец ребенка | adapted: adapted |
-| 11 | Нагиев | Эй, ты так не налегай, тебе ещё на поезд. | Hey, do not go so heavy on that, you still have a train to catch. | #52 00:04:04: Эй, ты так не налегай<br>#53 00:04:06: Тебе еще на поезд | adapted: adapted |
-| 12 | Нагиев | Я же не машинист. | I am not the train driver, after all. | #54 00:04:09: Я же не машинист | adapted: adapted |
+| 1 | Вика | Элеонора Андреевна, звали? | Eleonora Andreyevna, did you call for me? | #39: звали | adapted: adapted |
+| 2 | Элеонора | Да, Виктория. | Yes, Victoria. | #39: Да, Виктория | adapted: adapted |
+| 3 | Элеонора | Я уговорила медийного человека сыграть у нас свадьбу. | I persuaded a famous person to hold a wedding here. | #40: Я уговорила одного очень медийного человека сыграть | adapted: adapted |
+| 4 | Вика | Всё ясно, сделаем на высшем уровне. | Everything is clear, we will do it at the highest level. | #41: Все ясно<br>#42: на высшем уровне | adapted: adapted |
+| 5 | Элеонора | А вот и наш жених. | And here is our groom. | #43: А вот и наш жених | adapted: adapted |
+| 6 | Нагиев | Ну и запахи у вас в туалете. | What smells you have in the restroom. | #44: Ну и запахи у вас в туалете | adapted: adapted |
+| 7 | Нагиев | Всё пахнет, даже бумажка. | Everything smells nice, even the paper. | #45: Все пахнет, даже бумажка | adapted: adapted |
+| 8 | Элеонора | Нет, это манго. | No, it is mango. | #46: Нет, манго | adapted: adapted |
+| 9 | Нагиев | Ладно, перейдём к мелочам, к моей свадьбе. | Alright, let us move on to small details, to my wedding. | #48: Ладно<br>#50: Перейдем к мелочам. Моей свадьбе | adapted: adapted |
+| 10 | Вика | Она мне даже не сказала, кто отец ребёнка. | She did not even tell me who the child's father is. | #51: она мне даже не сказала, кто отец ребенка | adapted: adapted |
+| 11 | Нагиев | Эй, ты так не налегай, тебе ещё на поезд. | Hey, do not go so heavy on that, you still have a train to catch. | #52: Эй, ты так не налегай<br>#53: Тебе еще на поезд | adapted: adapted |
+| 12 | Вика | Я же не машинист. | I am not the train driver, after all. | #54: Я же не машинист | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Eleonora Andreyevna, did you call for me?' Vika raises the pitch on 'called' to turn the phrase into a direct spoken question. Eleonora answers right away.
-- 'Yes, Victoria.' In Russian, the idea of 'yes' flows naturally into 'proper name' without extra filler words.
-- 'I persuaded a famous person to hold a wedding here.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.
-- 'Everything is clear, we will do it at the highest level.' Notice how Russian expresses 'everything' and 'level' with crisp inflection rather than helper words. Eleonora answers right away.
-- 'And here is our groom.' Here the Russian phrasing highlights 'and' before landing on 'groom'.
-- 'What smells you have in the restroom.' Dmitry Nagiyev brings out the contrast between 'come on' and 'and' in a few short words.
-- 'Everything smells nice, even the paper.' Dmitry Nagiyev anchors the line on 'everything', while 'slip of paper' completes the thought. Eleonora answers right away.
-- 'No, it is mango.' The grammar packs 'no' and 'mango' into a tight, idiomatic kitchen exchange.
-- 'Alright, let us move on to small details, to my wedding.' The meaning hinges on 'all right' working together with 'wedding' in spoken Russian.
-- 'She did not even tell me who the child's father is.' Vika brings out the contrast between 'she' and 'to me' in a few short words. Dmitry Nagiyev answers right away.
-- 'Hey, do not go so heavy on that, you still have a train to catch.' Dmitry Nagiyev addresses the listener with the informal singular 'you' alongside 'a train'.
-- 'I am not the train driver, after all.' Notice how Russian expresses 'I' and 'train driver' with crisp inflection rather than helper words.
+- 'Eleonora Andreyevna, did you call for me?' Asking whether Eleonora calls cuts straight through the tension between Vika and Eleonora. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Yes, Victoria.' With the office and wedding in play, Eleonora keeps this short reply brisk and direct.
+- 'I persuaded a famous person to hold a wedding here.' Around the office and restaurant, Eleonora sets a calm, everyday tone with Nagiyev. Russian expresses having something as "by me is", keeping the phrase short and grounded.
+- 'Everything is clear, we will do it at the highest level.' Claiming that everything is clear they will do it at the highest level sounds confident, even if Eleonora has doubts.
+- 'And here is our groom.' Explaining that here is their groom lays the cards on the table for Nagiyev.
+- 'What smells you have in the restroom.' Nagiyev explains that what smells Eleonora has in the restroom, keeping his voice calm and direct. Russian expresses having something as "by me is", keeping the phrase short and grounded.
+- 'Everything smells nice, even the paper.' Over the office and the work, Nagiyev answers Eleonora without a second thought.
+- 'No, it is mango.' Noting that it is mango keeps Eleonora's side of the story simple and clear.
+- 'Alright, let us move on to small details, to my wedding.' Even though Alright let them move on to small details to his wedding, Nagiyev keeps a steady face in front of Eleonora.
+- 'She did not even tell me who the child's father is.' Admitting that she did not even tell her who the child father is shows Vika being honest for a change.
+- 'Hey, do not go so heavy on that, you still have a train to catch.' Saying that do not go so heavy on that Eleonora still have a train to catch is how Nagiyev sets the tone with Eleonora.
+- 'I am not the train driver, after all.' Noting that she is not the train driver after all keeps Vika's side of the story simple and clear.

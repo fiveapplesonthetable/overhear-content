@@ -4,30 +4,29 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 17
 SCENE = 19
-TITLE = "Сюрприз для всех  (A Surprise for Everyone)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Сюрприз для всех  (A Surprise for Everyone)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "vika": "angelina", "anya": "alisa"}
-LABELS = {"vika": "Вика", "anya": "Макс"}
+LABELS = {'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.17'
 SOURCE_FILE = 'sources/kukhnya/s01/e17.ru.dual.srt'
 INTRO = "Vika calls Max, who is waiting outside her apartment with unexpected guests. We will hear it in Russian first, do not worry about catching every word. Let's listen closely to the conversation in Russian first, and then walk through each line together."
 OPENER = "Let's walk through it. Vika is looking for Max."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Max is about to ruin the evening. Next time you watch the episode, listen for the Russian expressions for 'soon' and 'here' — you will catch every word right away. See you next time!"
-CLOSING = ("vika", "Пока!")
+CLOSING = ('vika', 'Пока!')
 STORY = [
     ('vika', 'Макс, ну ты где?', 'Max, well where are you?', [(295, 'Макс, ну ты где?')], ''),
     ('vika', 'Ты скоро?', 'Are you coming soon?', [(295, 'Скоро ты?')], ''),
-    ('anya', 'Я уже здесь.', 'I am already here.', [(296, 'Я уже здесь.')], ''),
+    ('max', 'Я уже здесь.', 'I am already here.', [(296, 'Я уже здесь.')], ''),
     ('vika', 'Почему ты там стоишь?', 'Why are you standing there?', [], ''),
-    ('anya', 'Я жду своих друзей.', 'I am waiting for my friends.', [], ''),
+    ('max', 'Я жду своих друзей.', 'I am waiting for my friends.', [], ''),
     ('vika', 'Каких друзей?', 'What friends?', [], ''),
-    ('anya', 'Настю и Костю.', 'Nastya and Kostya.', [], ''),
+    ('max', 'Настю и Костю.', 'Nastya and Kostya.', [], ''),
     ('vika', 'Ты их позвал сюда?', 'Did you invite them here?', [], ''),
-    ('anya', 'Да, это сюрприз.', 'Yes, it is a surprise.', [], ''),
+    ('max', 'Да, это сюрприз.', 'Yes, it is a surprise.', [], ''),
     ('vika', 'Я не готова к гостям.', 'I am not ready for guests.', [], ''),
-    ('anya', 'Всё будет хорошо.', 'Everything will be fine.', [], ''),
+    ('max', 'Всё будет хорошо.', 'Everything will be fine.', [], ''),
     ('vika', 'Заходи быстрее.', 'Come in faster.', [], ''),
 ]
 WALK = [

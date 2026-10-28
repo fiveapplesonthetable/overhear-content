@@ -1,18 +1,20 @@
+# Authoring module for kukhnya-s03e17-scene-18.
 ID = 'kukhnya-s03e17-scene-18'
 SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 17
 SCENE = 18
-TITLE = "Два банкрота  (Two Bankrupts)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Два банкрота  (Two Bankrupts)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "nagiyev": "angelina", "anya": "alisa", "guest": "anja"}
-LABELS = {"nagiyev": "Нагиев", "anya": "Макс", "guest": "Гость"}
+LABELS = {'guest': 'Гость', 'max': 'Макс', 'nagiyev': 'Нагиев'}
 SOURCE_NAME = 'Кухня (Kukhnya) S3.17'
 SOURCE_FILE = 'sources/kukhnya/s03/e17.ru.srt'
-
 INTRO = 'Nagiyev talks Sergey Fyodorovich into handing over his gun by admitting that he is bankrupt too and cannot afford a tragedy inside his restaurant. Listen to the full conversation in Russian first, and then we will walk through every line together.'
-
+OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
+TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
+OUTRO = 'Nagiyev disarms the despondent oligarch, but without an investor he has no way left to save Claude Monet on his own. See you next time!'
+CLOSING = ('nagiyev', 'Всего хорошего!')
 STORY = [
     ('nagiyev', 'Лучше бы ты спокойно на природу пошёл.', 'You would have done better to go calmly into nature.', [(273, 'На природу бы пошел')], 'adapted'),
     ('nagiyev', 'В тихий лес или в красивый парк пойти.', 'To go to a quiet forest or a nice park.', [(273, 'В лес, может, в парк пойти')], 'adapted'),
@@ -24,27 +26,20 @@ STORY = [
     ('nagiyev', 'Так что ты на меня не обижайся, друг.', 'So do not be offended with me, my friend.', [(279, 'ты не обижайся, Сергей Федорович')], 'adapted'),
     ('nagiyev', 'Труп мне сейчас в ресторане совсем не нужен.', 'I really do not need a dead body in my restaurant right now.', [(281, 'совсем не нужен')], 'adapted'),
     ('nagiyev', 'Давай сюда спокойно свой маленький пистолетик.', 'Calmly hand over your little pistol here.', [(283, 'Давай пистолетик')], 'adapted'),
-    ('anya', 'Порой мы уже не в силах с ними бороться.', 'At times we no longer have the strength to fight them.', [(284, 'мы не в силах с ними бороться')], 'adapted'),
-    ('anya', 'Решив одни проблемы, мы встречаем сразу новые.', 'Having solved some problems, we immediately meet new ones.', [(285, 'мы натыкаемся на новые')], 'adapted'),
+    ('max', 'Порой мы уже не в силах с ними бороться.', 'At times we no longer have the strength to fight them.', [(284, 'мы не в силах с ними бороться')], 'adapted'),
+    ('max', 'Решив одни проблемы, мы встречаем сразу новые.', 'Having solved some problems, we immediately meet new ones.', [(285, 'мы натыкаемся на новые')], 'adapted'),
 ]
-
-OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
-
 WALK = [
-    (0, None, "'You would have done better to go calmly into nature.' Dmitry Nagiyev brings out the contrast between 'better' and 'would' in a few short words."),
-    (1, None, "'To go to a quiet forest or a nice park.' Here the Russian phrasing highlights 'quiet' before landing on 'to go'."),
-    (2, None, "'Why come to my restaurant for that?' In Russian, the idea of 'why' flows naturally into 'go' without extra filler words."),
-    (3, None, "'Forgive me, Dima, I wanted to leave in style.' Spoken Russian keeps this brisk, leaning on 'forgive' and finishing on 'beautifully'. Dmitry Nagiyev answers right away."),
-    (4, None, "'Wait a minute and listen to me carefully.' The grammar packs 'wait' and 'carefully' into a tight, idiomatic kitchen exchange."),
-    (5, None, "'If we look at it honestly, I am bankrupt too.' The grammar packs 'if' and 'bankrupt' into a tight, idiomatic kitchen exchange."),
-    (6, None, "'Well what now, should we shoot ourselves every day?' Dmitry Nagiyev brings out the contrast between 'come on' and 'what' in a few short words."),
-    (7, None, "'So do not be offended with me, my friend.' Notice how Russian puts 'be offended' and 'friend' together in a short, direct phrase where word endings show how the ideas connect."),
-    (8, None, "'I really do not need a dead body in my restaurant right now.' Notice how Russian expresses 'corpse' and 'needed' with crisp inflection rather than helper words."),
-    (9, None, "'Calmly hand over your little pistol here.' Here the Russian phrasing highlights 'come on' before landing on 'little pistol'. Max answers right away."),
-    (10, None, "'At times we no longer have the strength to fight them.' Max brings out the contrast between 'at times' and 'we' in a few short words."),
-    (11, None, "'Having solved some problems, we immediately meet new ones.' Max anchors the line on 'having solved', while 'new' completes the thought."),
+    (0, None, '\'You would have done better to go calmly into nature.\' Since the guest would have done better to go calmly into nature, Nagiyev does not waste words on excuses. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
+    (1, None, "'To go to a quiet forest or a nice park.' Around the work and restaurant, Nagiyev sets a calm, everyday tone with the guest."),
+    (2, None, '\'Why come to my restaurant for that?\' Around the restaurant and plan, Nagiyev wants to know where the guest really stands. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.'),
+    (3, None, "'Forgive me, Dima, I wanted to leave in style.' Because he wanted to leave in style, the guest treats the matter as settled."),
+    (4, None, "'Wait a minute and listen to me carefully.' Between the work and the restaurant, Nagiyev gives the guest a quick, grounded response."),
+    (5, None, "'If we look at it honestly, I am bankrupt too.' Nagiyev mentions that if they look at it honestly he is bankrupt so the guest sees what is at stake."),
+    (6, None, '\'Well what now, should we shoot ourselves every day?\' Asking whether what now should they shoot themselves every day puts the guest right on the defensive. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.'),
+    (7, None, "'So do not be offended with me, my friend.' Pointing out that do not be offended with him gives the guest a sobering reality check."),
+    (8, None, "'I really do not need a dead body in my restaurant right now.' Nagiyev explains that he really does not need a dead body in his restaurant right now, keeping his voice calm and direct."),
+    (9, None, '\'Calmly hand over your little pistol here.\' Between the restaurant and the kitchen, Nagiyev gives the guest a quick, grounded response. Starting with "davay" is the everyday Russian way to say "come on, let us do this".'),
+    (10, None, "'At times we no longer have the strength to fight them.' Noting that at times they no longer have the strength to fight them keeps Max's side of the story simple and clear."),
+    (11, None, "'Having solved some problems, we immediately meet new ones.' Around the restaurant and moment, Max sets a calm, everyday tone with the guest."),
 ]
-
-TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Nagiyev disarms the despondent oligarch, but without an investor he has no way left to save Claude Monet on his own. See you next time!'
-CLOSING = ("nagiyev", "Всего хорошего!")

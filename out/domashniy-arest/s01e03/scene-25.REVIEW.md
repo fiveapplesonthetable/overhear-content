@@ -10,22 +10,22 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Самсон | Остановилась там кровь уже? Смотри, сколько крови вылилось! | Has the bleeding stopped yet? Look how much blood came out! | #852 00:44:47: Остановилась там кровь уже<br>#856 00:44:54: сколько<br>#856 00:44:54: вылилось | adapted: Nina's reply (853-854) narrated; 'кровища' -> 'крови' |
-| 2 | Аня | Самсон, не задуши меня. | Samson, don't choke me. | #857 00:44:57: не задуши меня | adapted: 'Самсон' added as Samson wraps the bandage too tightly |
-| 3 | Самсон | Аркаша, держи горячий чай. И бутерброд с вареньем ешь. | Arkasha, here's some hot tea. And eat a jam sandwich. | #858 00:44:59: держи<br>#861 00:45:05: с вареньем | adapted: cues 858-861 ('горяченького чайка хлопня', 'на бутер налегай') simplified to plain A1 |
-| 4 | Самсон | Нина, ну как ты могла? Живого человека ножом резать! | Nina, how could you? Cutting a living person with a knife! | #863 00:45:09: ну как<br>#864 00:45:12: Живого человека ножом резать | adapted: cue 863 garbled 'Денис, ну как вы могли' -> 'Нина, ну как ты могла' |
-| 5 | Аня | Подожди, это что, абрикос? Я ненавижу абрикосы. | Wait, what is this, apricot? I hate apricots. | #868 00:45:22: это что, абрикос<br>#870 00:45:24: Я ненавижу абрикосы | verbatim |
-| 6 | Аня | А есть у вас малина? | Do you have raspberry? | #871 00:45:26: А есть у вас малина | verbatim |
-| 7 | Самсон | Малины нет. Вишнёвое варенье есть, будешь? | No raspberry. There's cherry jam, do you want some? | #872 00:45:27: Нет<br>#873 00:45:28: есть, будешь | adapted: cue 873 garbled 'вишню варежем' -> 'Вишнёвое варенье' |
-| 8 | Аня | Да. Несите вашу вишню. | Yes. Bring your cherry. | #874 00:45:30: Да<br>#875 00:45:32: вишню | adapted: slang 'тащите вишню свою' -> 'Несите вашу вишню'; Nina's crude remark in 876 dropped |
-| 9 | Самсон | Ну что, признался? | Well, did he confess? | #877 00:45:40: Ну что, признался | verbatim |
-| 10 | Аня | Самсон, кто это? Я хочу, чтобы он ушёл. | Samson, who is that? I want him to leave. | #878 00:45:42: Самсон. Я хочу, чтобы он ушел | adapted: 'кто это?' added |
-| 11 | Самсон | У нас всё не так пошло. Нина ему чуть ухо не отрезала. | Things went wrong for us. Nina nearly cut his ear off. | #882 00:45:51: У нас<br>#882 00:45:51: все<br>#882 00:45:51: не так пошло<br>#882 00:45:51: чуть не | adapted: cue 882 garbled 'Нинокому реально ух чуть не отрезало' -> 'Нина ему чуть ухо не отрезала' |
-| 12 | Самсон | Ну и что? Он должен страдать, а нам нужна информация. | So what? He is supposed to suffer, and we need the information. | #883 00:45:56: Ну и что? Он должен<br>#883 00:45:56: страдать<br>#883 00:45:56: информацию | adapted: 'а вы должны были получить информацию' -> 'а нам нужна информация' |
-| 13 | Самсон | Нельзя так живого человека пытать! | You can't torture a living person like that! | #884 00:45:59: человека<br>#884 00:45:59: пытать | adapted: cue 884 garbled 'душевого человека-то пытать' -> 'живого человека пытать' |
-| 14 | Аня | Так развяжите меня! Я всё скажу в полиции! | Then untie me! I'll tell the police everything! | #887 00:46:24: Так развяжите меня | adapted: insult 'кретины' dropped; 'Я всё скажу в полиции' sets up 892 |
-| 15 | Аня | Скажу, что ты нанял людей меня пытать. И не видать вам квартиры! | I'll say that you hired people to torture me. And you'll never see that flat! | #892 00:46:41: скажу, что<br>#892 00:46:41: нанял<br>#892 00:46:41: пытать<br>#893 00:46:44: не видать<br>#893 00:46:44: квартиры | adapted: slang 'ментам' -> 'в полиции'; cue 892 'человека' -> 'людей меня'; 'тебе' -> 'вам' |
-| 16 | Самсон | Не нужна нам такая квартира! Уходи отсюда! | We don't need a flat like that! Get out of here! | #894 00:46:45: Квартиру | adapted: clean stand-in for Samson's crude refusal in 894 |
+| 1 | Самсон | Остановилась там кровь уже? Смотри, сколько крови вылилось! | Has the bleeding stopped yet? Look how much blood came out! | #852: Остановилась там кровь уже<br>#856: сколько<br>#856: вылилось | adapted: Nina's reply (853-854) narrated; 'кровища' -> 'крови' |
+| 2 | Аркадий | Самсон, не задуши меня. | Samson, don't choke me. | #857: не задуши меня | adapted: 'Самсон' added as Samson wraps the bandage too tightly |
+| 3 | Самсон | Аркаша, держи горячий чай. И бутерброд с вареньем ешь. | Arkasha, here's some hot tea. And eat a jam sandwich. | #858: держи<br>#861: с вареньем | adapted: cues 858-861 ('горяченького чайка хлопня', 'на бутер налегай') simplified to plain A1 |
+| 4 | Самсон | Нина, ну как ты могла? Живого человека ножом резать! | Nina, how could you? Cutting a living person with a knife! | #863: ну как<br>#864: Живого человека ножом резать | adapted: cue 863 garbled 'Денис, ну как вы могли' -> 'Нина, ну как ты могла' |
+| 5 | Аркадий | Подожди, это что, абрикос? Я ненавижу абрикосы. | Wait, what is this, apricot? I hate apricots. | #868: это что, абрикос<br>#870: Я ненавижу абрикосы | verbatim |
+| 6 | Аркадий | А есть у вас малина? | Do you have raspberry? | #871: А есть у вас малина | verbatim |
+| 7 | Самсон | Малины нет. Вишнёвое варенье есть, будешь? | No raspberry. There's cherry jam, do you want some? | #872: Нет<br>#873: есть, будешь | adapted: cue 873 garbled 'вишню варежем' -> 'Вишнёвое варенье' |
+| 8 | Аркадий | Да. Несите вашу вишню. | Yes. Bring your cherry. | #874: Да<br>#875: вишню | adapted: slang 'тащите вишню свою' -> 'Несите вашу вишню'; Nina's crude remark in 876 dropped |
+| 9 | Паша | Ну что, признался? | Well, did he confess? | #877: Ну что, признался | verbatim |
+| 10 | Аркадий | Самсон, кто это? Я хочу, чтобы он ушёл. | Samson, who is that? I want him to leave. | #878: Самсон. Я хочу, чтобы он ушел | adapted: 'кто это?' added |
+| 11 | Самсон | У нас всё не так пошло. Нина ему чуть ухо не отрезала. | Things went wrong for us. Nina nearly cut his ear off. | #882: У нас<br>#882: все<br>#882: не так пошло<br>#882: чуть не | adapted: cue 882 garbled 'Нинокому реально ух чуть не отрезало' -> 'Нина ему чуть ухо не отрезала' |
+| 12 | Паша | Ну и что? Он должен страдать, а нам нужна информация. | So what? He is supposed to suffer, and we need the information. | #883: Ну и что? Он должен<br>#883: страдать<br>#883: информацию | adapted: 'а вы должны были получить информацию' -> 'а нам нужна информация' |
+| 13 | Самсон | Нельзя так живого человека пытать! | You can't torture a living person like that! | #884: человека<br>#884: пытать | adapted: cue 884 garbled 'душевого человека-то пытать' -> 'живого человека пытать' |
+| 14 | Аркадий | Так развяжите меня! Я всё скажу в полиции! | Then untie me! I'll tell the police everything! | #887: Так развяжите меня | adapted: insult 'кретины' dropped; 'Я всё скажу в полиции' sets up 892 |
+| 15 | Аркадий | Скажу, что ты нанял людей меня пытать. И не видать вам квартиры! | I'll say that you hired people to torture me. And you'll never see that flat! | #892: скажу, что<br>#892: нанял<br>#892: пытать<br>#893: не видать<br>#893: квартиры | adapted: slang 'ментам' -> 'в полиции'; cue 892 'человека' -> 'людей меня'; 'тебе' -> 'вам' |
+| 16 | Самсон | Не нужна нам такая квартира! Уходи отсюда! | We don't need a flat like that! Get out of here! | #894: Квартиру | adapted: clean stand-in for Samson's crude refusal in 894 |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

@@ -1,50 +1,45 @@
+# Authoring module for kukhnya-s03e02-scene-15.
 ID = 'kukhnya-s03e02-scene-15'
 SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 2
 SCENE = 15
-TITLE = "Итоги спора  (Results of the Bet)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Итоги спора  (Results of the Bet)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "vika": "angelina", "anya": "alisa", "ilya": "anja"}
-LABELS = {"vika": "Вика", "anya": "Макс", "ilya": "Илья"}
+LABELS = {'ilya': 'Илья', 'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S3.02'
 SOURCE_FILE = 'sources/kukhnya/s03/e02.ru.srt'
-
 INTRO = "At the end of the shift, Vika reads out each waiter's tip total: Ilya edges out Max by fifty rubles, but to everyone's surprise, Nastya wins the entire pool."
-
+OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
+TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
+OUTRO = "And that finishes Scene Fifteen. Listen for Ilya celebrating prematurely over beating Max by fifty rubles right before Vika announces Nastya's winning total. Until next time!"
+CLOSING = ('vika', 'До завтра!')
 STORY = [
-    ('anya', 'Да не важно. Поехали домой.', "It doesn't matter. Let's go home.", [(214, 'Да не важно. Поехали домой')], ''),
+    ('max', 'Да не важно. Поехали домой.', "It doesn't matter. Let's go home.", [(214, 'Да не важно. Поехали домой')], ''),
     ('vika', 'Поехали.', "Let's go.", [(215, 'Поехали')], ''),
     ('vika', 'Внимание, результаты!', 'Attention, the results!', [(216, 'Внимание, результаты')], ''),
     ('vika', 'Ева — пять тысяч двести.', 'Eva — five thousand two hundred.', [(217, 'Ева')], 'adapted'),
     ('vika', 'Олег — три тысячи семьсот.', 'Oleg — three thousand seven hundred.', [(219, 'Олег')], 'adapted'),
     ('vika', 'Илья — девять тысяч.', 'Ilya — nine thousand.', [(220, 'Илья')], 'adapted'),
     ('ilya', 'Ну?', 'Well?', [(221, 'Ну')], ''),
-    ('anya', 'Молодец. Молодец.', 'Well done. Well done.', [(222, 'Молодец. Молодец')], ''),
+    ('max', 'Молодец. Молодец.', 'Well done. Well done.', [(222, 'Молодец. Молодец')], ''),
     ('vika', 'Макс — восемь тысяч девятьсот пятьдесят.', 'Max — eight thousand nine hundred fifty.', [(223, 'Макс')], 'adapted'),
     ('ilya', 'Выходите. Тихо!', 'Step out. Quiet!', [(224, 'Выходите. Тихо')], ''),
     ('vika', 'Но это не предел.', 'But that is not the limit.', [(225, 'Но это не предел')], ''),
     ('vika', 'Настя Фомина — четырнадцать тысяч!', 'Nastya Fomina — fourteen thousand!', [(226, 'Настя Фомина')], 'adapted'),
 ]
-
-OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
-
 WALK = [
-    (0, None, "'It doesn't matter. Let's go home.' The meaning hinges on 'yes' working together with 'home' in spoken Russian. Vika answers right away."),
-    (1, None, "'Let's go.' Here the Russian phrasing highlights 'let's go' before landing on 'let's go'."),
-    (2, None, "'Attention, the results!' Vika anchors the line on 'attention', while 'results' completes the thought."),
-    (3, None, "'Eva — five thousand two hundred.' The grammar packs 'Eva' and 'two hundred' into a tight, idiomatic kitchen exchange."),
-    (4, None, "'Oleg — three thousand seven hundred.' The meaning hinges on 'Oleg' working together with 'seven hundred' in spoken Russian."),
-    (5, None, "'Ilya — nine thousand.' In Russian, the idea of 'Ilya' flows naturally into 'thousand' without extra filler words."),
-    (6, None, "'Well?' Spoken Russian keeps this brisk, leaning on 'come on' and finishing on 'come on'. Max answers right away."),
-    (7, None, "'Well done. Well done.' Notice how Russian expresses 'well done' and 'well done' with crisp inflection rather than helper words."),
-    (8, None, "'Max — eight thousand nine hundred fifty.' Here the Russian phrasing highlights 'Max' before landing on 'fifty'."),
-    (9, None, "'Step out. Quiet!' Notice how Russian expresses 'step out' and 'quiet' with crisp inflection rather than helper words. Vika answers right away."),
-    (10, None, "'But that is not the limit.' Vika anchors the line on 'but', while 'limit' completes the thought."),
-    (11, None, "'Nastya Fomina — fourteen thousand!' The grammar packs 'Nastya' and 'thousand' into a tight, idiomatic kitchen exchange."),
+    (0, None, "'It doesn't matter. Let's go home.' Claiming that it does not matter sounds confident, even if Ilya has doubts."),
+    (1, None, "'Let's go.' Going together is how Vika lays out the situation for Ilya."),
+    (2, None, "'Attention, the results!' Between the moment and the surprise, Vika delivers a sharp reaction. Russian puts the key word right up front so her emotion lands on the first beat."),
+    (3, None, '\'Eva — five thousand two hundred.\' With the bet and shift in play, Vika keeps this short reply brisk and direct. Russian drops "is" in the present, setting the two halves of the thought side by side.'),
+    (4, None, "'Oleg — three thousand seven hundred.' Over the bet and the shift, Vika answers Ilya without a second thought."),
+    (5, None, '\'Ilya — nine thousand.\' Around the bet and shift, Vika sets a calm, everyday tone with Ilya. Russian drops "is" in the present, setting the two halves of the thought side by side.'),
+    (6, None, '\'Well?\' Over the conversation and the surprise, Ilya presses Max for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.'),
+    (7, None, "'Well done. Well done.' With the bet and kitchen in play, Max keeps this short reply brisk and direct."),
+    (8, None, '\'Max — eight thousand nine hundred fifty.\' Around the bet and moment, Vika sets a calm, everyday tone with Ilya. Russian drops "is" in the present, setting the two halves of the thought side by side.'),
+    (9, None, "'Step out. Quiet!' Once Max should step out, Ilya makes sure Max hears every word. Russian puts the key word right up front so his emotion lands on the first beat."),
+    (10, None, "'But that is not the limit.' Saying that that is not the limit is how Vika sets the tone with Ilya."),
+    (11, None, '\'Nastya Fomina — fourteen thousand!\' Around the work and bet, Vika makes her point loud and clear. Russian drops "is" in the present, setting the two halves of the thought side by side.'),
 ]
-
-TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "And that finishes Scene Fifteen. Listen for Ilya celebrating prematurely over beating Max by fifty rubles right before Vika announces Nastya's winning total. Until next time!"
-CLOSING = ("vika", "До завтра!")

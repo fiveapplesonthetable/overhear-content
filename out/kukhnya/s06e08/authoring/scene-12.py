@@ -1,50 +1,45 @@
+# Authoring module for kukhnya-s06e08-scene-12.
 ID = 'kukhnya-s06e08-scene-12'
 SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 8
 SCENE = 12
 TITLE = "Подозрения Михаила  (Mikhail's Suspicions)"
-LEVEL = "A1 — Duolingo Section 2"
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "mikhail": "anja", "katya": "angelina"}
-LABELS = {"mikhail": "Михаил", "katya": "Катя"}
+LABELS = {'barinov': 'Шеф', 'katya': 'Катя', 'mikhail': 'Михаил'}
 SOURCE_NAME = 'Кухня (Kukhnya) S6.08'
 SOURCE_FILE = 'sources/kukhnya/s06/e08.ru.srt'
-
 INTRO = "At the bar counter, Mikhail casually reminds Chef Barinov of Dmitry Nagiyev's history of buying expensive gifts for women, planting a dark suspicion in Victor's mind."
-
+OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
+TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
+OUTRO = "Hearing that Katya is heading upstairs to deliver a room-service order right after Mikhail's warning sets Chef Barinov's paternal instincts on fire. See you next time!"
+CLOSING = ('katya', 'До встречи!')
 STORY = [
     ('mikhail', 'Что-то Нагиев сегодня расщедрился, не находишь?', "Nagiyev got awfully generous today, don't you find?", [(197, 'Что-то Нагиев расщедрился, не находишь')], 'adapted'),
-    ('mikhail', 'Ему главное покрасоваться перед Элей и всеми.', 'The main thing for him is to show off in front of Elya and everyone.', [(199, 'перед Элей, перед всеми')], 'adapted'),
-    ('mikhail', 'Одним словом, он просто типичный актёр.', 'In a word, he is just a typical actor.', [(200, 'Актер, одно слово')], 'adapted'),
+    ('barinov', 'Ему главное покрасоваться перед Элей и всеми.', 'The main thing for him is to show off in front of Elya and everyone.', [(199, 'перед Элей, перед всеми')], 'adapted'),
+    ('barinov', 'Одним словом, он просто типичный актёр.', 'In a word, he is just a typical actor.', [(200, 'Актер, одно слово')], 'adapted'),
     ('mikhail', 'Слушай, но ты же его дольше знаешь.', 'Listen, but you have known him longer.', [(201, 'Слушай, ну ты же его дольше знаешь')], 'adapted'),
     ('mikhail', 'Он раньше такие дорогие подарки кому-нибудь делал?', 'Did he ever give such expensive gifts to anyone before?', [(202, 'Он раньше такие дорогие подарки делал')], 'adapted'),
-    ('mikhail', 'Когда он за Викой ухаживал, машину подарил.', 'When he was courting Vika, he gave her a car.', [(204, 'Вике, когда он за ней ухаживал, машину подарил')], 'adapted'),
-    ('mikhail', 'Подожди, ты сейчас на что мне намекаешь?', 'Wait, what are you hinting at to me right now?', [(206, 'Ты на что намекаешь')], 'adapted'),
+    ('barinov', 'Когда он за Викой ухаживал, машину подарил.', 'When he was courting Vika, he gave her a car.', [(204, 'Вике, когда он за ней ухаживал, машину подарил')], 'adapted'),
+    ('barinov', 'Подожди, ты сейчас на что мне намекаешь?', 'Wait, what are you hinting at to me right now?', [(206, 'Ты на что намекаешь')], 'adapted'),
     ('mikhail', 'У этого человека нет ничего святого в жизни.', 'That man holds nothing sacred in life.', [(207, 'Ты же сам знаешь, у этого человека нет ничего святого')], 'adapted'),
     ('mikhail', 'Он даже на свадьбе изменил собственной жене!', 'He even cheated on his own wife at his wedding!', [(208, 'Он на свадьбе изменил собственной жене')], 'adapted'),
-    ('mikhail', 'Да ну тебя, какой же ты тёмный человек!', 'Oh come on, what a dark-minded man you are!', [(209, 'ты человек')], 'adapted'),
+    ('barinov', 'Да ну тебя, какой же ты тёмный человек!', 'Oh come on, what a dark-minded man you are!', [(209, 'ты человек')], 'adapted'),
     ('mikhail', 'Катя, прости, что беспокою в день рождения.', 'Katya, forgive me for bothering you on your birthday.', [(212, 'прости, что беспокою тебя в твой день рождения')], 'adapted'),
     ('mikhail', 'Из номера спрашивают, сколько ещё ждать заказ.', 'They are asking from the room how much longer to wait for the order.', [(213, 'спрашивают, сколько еще ждать заказа')], 'adapted'),
 ]
-
-OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
-
 WALK = [
-    (0, None, "'Nagiyev got awfully generous today, don't you find?' The '-l' ending on the verb meaning 'became generous' places the action in the masculine past tense. Chef Barinov answers right away."),
-    (1, None, "'The main thing for him is to show off in front of Elya and everyone.' Chef Barinov anchors the line on 'to him', while 'all' completes the thought."),
-    (2, None, "'In a word, he is just a typical actor.' The grammar packs 'one' and 'actor' into a tight, idiomatic kitchen exchange."),
-    (3, None, "'Listen, but you have known him longer.' Notice how Russian expresses 'listen' and 'know' with crisp inflection rather than helper words."),
-    (4, None, "'Did he ever give such expensive gifts to anyone before?' Notice how Russian expresses 'he' and 'did' with crisp inflection rather than helper words."),
-    (5, None, "'When he was courting Vika, he gave her a car.' Here the Russian phrasing highlights 'when' before landing on 'gifted'."),
-    (6, None, "'Wait, what are you hinting at to me right now?' Notice how Russian expresses 'wait' and 'are hinting' with crisp inflection rather than helper words. Mikhail answers right away."),
-    (7, None, "'That man holds nothing sacred in life.' Here the Russian phrasing highlights 'at' before landing on 'life'."),
-    (8, None, "'He even cheated on his own wife at his wedding!' Notice how Russian expresses 'he' and 'wife' with crisp inflection rather than helper words."),
-    (9, None, "'Oh come on, what a dark-minded man you are!' Spoken Russian keeps this brisk, leaning on 'yes' and finishing on 'man'. Mikhail answers right away."),
-    (10, None, "'Katya, forgive me for bothering you on your birthday.' The grammar packs 'Katya' and 'birthday' into a tight, idiomatic kitchen exchange."),
-    (11, None, "'They are asking from the room how much longer to wait for the order.' The meaning hinges on 'from' working together with 'order' in spoken Russian."),
+    (0, None, '\'Nagiyev got awfully generous today, don\'t you find?\' Mikhail asks whether Nagiyev got awfully generous today do not Barinov finds, refusing to let the point slide. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.'),
+    (1, None, "'The main thing for him is to show off in front of Elya and everyone.' Mentioning that the main thing for him is to show off in front of and everyone moves the talk in a new direction."),
+    (2, None, "'In a word, he is just a typical actor.' Barinov reminds Katya that in a word he is just a typical actor before the moment passes."),
+    (3, None, '\'Listen, but you have known him longer.\' Because Barinov has known him longer, Mikhail treats the matter as settled. Speaking with the close, informal "you" strips away any polite distance between them.'),
+    (4, None, "'Did he ever give such expensive gifts to anyone before?' Checking whether he ever give such expensive gifts to anyone is how Mikhail puts Barinov on the spot."),
+    (5, None, "'When he was courting Vika, he gave her a car.' Barinov mentions that when he was courting Vika he gave her a car so Katya sees what is at stake."),
+    (6, None, '\'Wait, what are you hinting at to me right now?\' By asking what Katya hinting at to him right now is, Barinov presses Katya for a straight answer. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
+    (7, None, "'That man holds nothing sacred in life.' Pointing out that that man holds nothing sacred in life gives Barinov a sobering reality check."),
+    (8, None, "'He even cheated on his own wife at his wedding!' Over the moment and the conversation, Mikhail lets his real feelings show. Russian puts the key word right up front so his emotion lands on the first beat."),
+    (9, None, '\'Oh come on, what a dark-minded man you are!\' Once Katya should come on what a dark man Katya is, Barinov makes sure Katya hears every word. Speaking with the close, informal "you" strips away any polite distance between them.'),
+    (10, None, "'Katya, forgive me for bothering you on your birthday.' Over the work and the moment, Mikhail answers Barinov without a second thought."),
+    (11, None, "'They are asking from the room how much longer to wait for the order.' Even though they are asking from the room how much longer to wait for the order, Mikhail keeps a steady face in front of Barinov."),
 ]
-
-TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Hearing that Katya is heading upstairs to deliver a room-service order right after Mikhail's warning sets Chef Barinov's paternal instincts on fire. See you next time!"
-CLOSING = ("katya", "До встречи!")

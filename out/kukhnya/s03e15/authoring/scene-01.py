@@ -1,22 +1,24 @@
+# Authoring module for kukhnya-s03e15-scene-01.
 ID = 'kukhnya-s03e15-scene-01'
 SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 15
 SCENE = 1
-TITLE = "Солнце светит всем одинаково  (The Sun Shines Equally on Everyone)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Солнце светит всем одинаково  (The Sun Shines Equally on Everyone)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "nagiyev": "angelina", "guest": "anja", "anya": "alisa"}
-LABELS = {"nagiyev": "Нагиев", "guest": "Гость", "anya": "Макс"}
+LABELS = {'guest': 'Гость', 'max': 'Макс', 'nagiyev': 'Нагиев'}
 SOURCE_NAME = 'Кухня (Kukhnya) S3.15'
 SOURCE_FILE = 'sources/kukhnya/s03/e15.ru.srt'
-
 INTRO = 'Welcome to Episode Fifteen of Season Three of Kukhnya. As morning sunlight warms Moscow, Dmitry Nagiyev complains to a wealthy restaurateur friend about working like a galley slave since Vika quit, and argues that food is the heart of any restaurant. Listen first.'
-
+OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
+TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
+OUTRO = 'That wraps up this scene as max reflects on the sun shining equally on everyone, while Nagiyev complains about running the restaurant alone and argues with a buyer about the importance of cuisine. Until next time!'
+CLOSING = ('nagiyev', 'До завтра!')
 STORY = [
-    ('anya', 'Как говорил один мудрец, солнце светит всем одинаково.', 'As one wise man said, the sun shines equally on everyone.', [(1, 'Как говорил один мудрец, солнце светит всем одинаково')], 'adapted'),
-    ('anya', 'Оно греет и влюблённую пару, и одинокого парня.', 'It warms both a couple in love and a lonely guy.', [(3, 'греет'), (6, 'и одинокого парня')], 'adapted'),
-    ('anya', 'Одинокого парня, который уже забыл, что такое солнце.', 'A lonely guy who has already forgotten what the sun is.', [(6, 'одинокого парня, который уже забыл, что такое солнце')], 'adapted'),
+    ('max', 'Как говорил один мудрец, солнце светит всем одинаково.', 'As one wise man said, the sun shines equally on everyone.', [(1, 'Как говорил один мудрец, солнце светит всем одинаково')], 'adapted'),
+    ('max', 'Оно греет и влюблённую пару, и одинокого парня.', 'It warms both a couple in love and a lonely guy.', [(3, 'греет'), (6, 'и одинокого парня')], 'adapted'),
+    ('max', 'Одинокого парня, который уже забыл, что такое солнце.', 'A lonely guy who has already forgotten what the sun is.', [(6, 'одинокого парня, который уже забыл, что такое солнце')], 'adapted'),
     ('nagiyev', 'Как же сильно я сегодня устал!', 'How exhausted I am today!', [(7, 'устал я')], 'adapted'),
     ('nagiyev', 'Двадцать четыре часа в сутки работаю как раб.', 'I work twenty-four hours a day like a slave.', [(8, 'часа в сутки работаю'), (9, 'Как раб')], 'adapted'),
     ('nagiyev', 'Теперь весь ресторан полностью на мне.', 'Now the entire restaurant is completely on my shoulders.', [(11, 'ресторан на мне')], 'adapted'),
@@ -27,24 +29,17 @@ STORY = [
     ('nagiyev', 'Что главное в ресторане, конечно кухня и еда!', 'What is the main thing in a restaurant, the kitchen and food, of course!', [(16, 'Что? Кухня, еда')], 'adapted'),
     ('guest', 'Нет, Дима, тут ты совсем неправ.', 'No, Dima, you are completely wrong here.', [(12, 'Дим')], 'adapted'),
 ]
-
-OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
-
 WALK = [
-    (0, None, "'As one wise man said, the sun shines equally on everyone.' Here the Russian phrasing highlights 'how' before landing on 'equally'."),
-    (1, None, "'It warms both a couple in love and a lonely guy.' The grammar packs 'it' and 'boyfriend' into a tight, idiomatic kitchen exchange."),
-    (2, None, "'A lonely guy who has already forgotten what the sun is.' The '-l' ending on the verb meaning 'to forget' places the action in the masculine past tense. Dmitry Nagiyev answers right away."),
-    (3, None, "'How exhausted I am today!' In Russian, the idea of 'how' flows naturally into 'was tired' without extra filler words."),
-    (4, None, "'I work twenty-four hours a day like a slave.' Spoken Russian keeps this brisk, leaning on 'twenty' and finishing on 'slave'."),
-    (5, None, "'Now the entire restaurant is completely on my shoulders.' Notice how Russian expresses 'now' and 'to me' with crisp inflection rather than helper words. the guest answers right away."),
-    (6, None, "'I already told you about the restaurant, Dima.' Spoken Russian keeps this brisk, leaning on 'according to' and finishing on 'Dima'."),
-    (7, None, "'Sell it to us, and you will have one less problem.' the guest brings out the contrast between 'to sell' and 'his' in a few short words."),
-    (8, None, "'If I leave, everything here will collapse without me!' Notice how Russian expresses 'if' and 'me' with crisp inflection rather than helper words. the guest answers right away."),
-    (9, None, "'Nothing will collapse, what is the main thing in a restaurant?' In Russian, the idea of 'yes' flows naturally into 'what' without extra filler words."),
-    (10, None, "'What is the main thing in a restaurant, the kitchen and food, of course!' The meaning hinges on 'what' working together with 'food' in spoken Russian."),
-    (11, None, "'No, Dima, you are completely wrong here.' the guest addresses the listener with the informal singular 'you' alongside 'wrong'."),
+    (0, None, "'As one wise man said, the sun shines equally on everyone.' Max explains that as one wise man said the shines equally on everyone, keeping his voice calm and direct."),
+    (1, None, "'It warms both a couple in love and a lonely guy.' With the conversation and friend in play, Max keeps this short reply brisk and direct."),
+    (2, None, "'A lonely guy who has already forgotten what the sun is.' Noting that a lonely guy who has already forgotten what the is keeps Max's side of the story simple and clear."),
+    (3, None, "'How exhausted I am today!' Nagiyev insists that how exhausted he is today, leaving the guest no room to argue."),
+    (4, None, "'I work twenty-four hours a day like a slave.' Adding that he works twenty four hours a day like a slave fills in the missing piece for the guest."),
+    (5, None, "'Now the entire restaurant is completely on my shoulders.' Saying that the entire restaurant is completely on his shoulders is how Nagiyev sets the tone with the guest."),
+    (6, None, "'I already told you about the restaurant, Dima.' Once he already told Max about the restaurant Dima, the guest can finally tell Max what he means."),
+    (7, None, "'Sell it to us, and you will have one less problem.' Realizing that Max should sell it to them and Max will have one less problem changes how the guest handles the situation."),
+    (8, None, "'If I leave, everything here will collapse without me!' Once if he leaves everything here will collapse without him, Nagiyev makes sure the guest hears every word. Russian puts the key word right up front so his emotion lands on the first beat."),
+    (9, None, "'Nothing will collapse, what is the main thing in a restaurant?' Questioning whether nothing will collapse what is the main thing in a restaurant is how the guest tests Max's story."),
+    (10, None, "'What is the main thing in a restaurant, the kitchen and food, of course!' Nagiyev insists that what is the main thing in a restaurant the kitchen and food of course, leaving the guest no room to argue. Russian puts the key word right up front so his emotion lands on the first beat."),
+    (11, None, '\'No, Dima, you are completely wrong here.\' Saying that Max is completely wrong here is how the guest sets the tone with Max. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
 ]
-
-TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'That wraps up this scene as max reflects on the sun shining equally on everyone, while Nagiyev complains about running the restaurant alone and argues with a buyer about the importance of cuisine. Until next time!'
-CLOSING = ("nagiyev", "До завтра!")

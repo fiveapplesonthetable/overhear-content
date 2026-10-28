@@ -7,15 +7,14 @@ SCENE = 31
 TITLE = "Moi aussi, je suis ta famille  (I'm Your Family Too)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'camille': 'emilie', 'mathias': 'marcel'}
-LABELS = {'camille': 'Camille', 'mathias': 'Mathias'}
+LABELS = {'camille': 'Camille', 'mathias': 'Mathias', 'noemie': 'Noémie'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e02.fr.dual.srt'
 INTRO = "Luckily, nothing more happened between them. But Mathias doesn't know that, and nobody knows Camille is his daughter. Now he catches her outside, furious. Later, someone unexpected keeps her company. This is the last scene of the episode. Listen to it in French first, and don't worry about the details."
 OPENER = "Let's take it slowly. Mathias walks straight up to Camille and attacks."
 TRANSITION = "Now let's listen to the entire dialogue once more."
 OUTRO = "That's the end of the second episode. It was a long, emotional week at the agency, and you followed it all the way to the last puff of smoke. See you next time!"
-CLOSING = ('mathias', 'À demain, Camille.')
+CLOSING = ('noemie', 'À demain, Camille.')
 STORY = [
     ('mathias', 'À quoi tu joues avec mon fils?', 'What are you playing at with my son?', [(826, 'À quoi tu joues avec mon fils')], ''),
     ('camille', "Je ne savais pas que c'était ton fils.", 'I didn', [(827, "Je ne savais pas que c'était ton fils")], ''),
@@ -27,11 +26,11 @@ STORY = [
     ('mathias', 'Reste loin de ma famille.', 'Stay away from my family.', [(835, 'Reste loin de ma famille')], ''),
     ('camille', 'Je fais partie de ta famille, moi aussi!', 'I', [(836, 'Je fais partie de ta famille, moi aussi')], ''),
     ('camille', 'Tu as du feu, Noémie?', 'Have you got a light, Noémie?', [(837, 'du feu, Noémie')], ''),
-    ('mathias', 'Non, je ne fume pas.', 'No, I don', [(838, 'Non, je ne fume pas')], ''),
-    ('mathias', 'Mais attends... Voilà.', 'But wait... There you go.', [], ''),
+    ('noemie', 'Non, je ne fume pas.', 'No, I don', [(838, 'Non, je ne fume pas')], ''),
+    ('noemie', 'Mais attends... Voilà.', 'But wait... There you go.', [], ''),
     ('camille', 'Merci.', 'Thanks.', [(839, 'Merci')], ''),
-    ('mathias', "C'est rien.", 'It', [(840, "C'est rien")], ''),
-    ('mathias', 'Les chagrins, les hommes, tout part en fumée.', 'Sorrows, men, it all goes up in smoke.', [(841, 'Les chagrins, les hommes'), (842, 'tout part en fumée')], ''),
+    ('noemie', "C'est rien.", 'It', [(840, "C'est rien")], ''),
+    ('noemie', 'Les chagrins, les hommes, tout part en fumée.', 'Sorrows, men, it all goes up in smoke.', [(841, 'Les chagrins, les hommes'), (842, 'tout part en fumée')], ''),
 ]
 WALK = [
     (0, None, "'What are you playing at with my son?' Literally 'at what are you playing?'. He uses the casual 'you', as a boss to a young assistant, and as a father, though only she knows that."),

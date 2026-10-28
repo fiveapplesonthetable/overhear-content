@@ -10,32 +10,32 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Костя | Костян, ты представляешь, это какой-то... | Kostyan, can you imagine, this is some kind of... | #119 00:08:07: Костян, ты представляешь, это какой-то | verbatim |
-| 2 | Костя | О, привет, Саш. | Oh, hi, Sasha. | #120 00:08:11: О, привет, Саш | verbatim |
-| 3 | Костя | Спасибо, Костя, супер. | Thank you, Kostya, that is super. | #121 00:08:13: Спасибо, Костя, супер | verbatim |
-| 4 | Костя | Ну, как видишь, нет. | Well, as you can see, I did not go. | #123 00:08:18: Ну, как видишь, нет | verbatim |
-| 5 | Костя | Хотела поговорить. | I wanted to talk. | #124 00:08:20: Хотела поговорить | verbatim |
-| 6 | Костя | Да, конечно. | Yes, of course. | #125 00:08:22: Да, конечно | verbatim |
-| 7 | Костя | Что мы вместе. | That we are together. | #128 00:08:35: что мы вместе | verbatim |
-| 8 | Костя | Ну, что, тогда до вечера? | Well then, see you tonight? | #130 00:08:46: Ну, что, тогда до вечера | verbatim |
-| 9 | Костя | Я, наверное, сегодня не смогу. | I probably will not be able to make it tonight. | #132 00:08:50: Я, наверное, сегодня не смогу | verbatim |
-| 10 | Костя | Мне надо Костю поддержать. | I need to support Kostya. | #133 00:08:52: Мне надо Костю поддержать | verbatim |
-| 11 | Костя | А что случилось? | What happened? | #134 00:08:54: А что случилось | verbatim |
-| 12 | Костя | Да у него собака умерла. | His dog died. | #135 00:08:56: Да у него собака умерла | verbatim |
-| 13 | Костя | Он ее очень любил. | He loved her very much. | #137 00:09:01: Он ее очень любил | verbatim |
+| 1 | Костя | Костян, ты представляешь, это какой-то... | Kostyan, can you imagine, this is some kind of... | #119: Костян, ты представляешь, это какой-то | verbatim |
+| 2 | Саша | О, привет, Саш. | Oh, hi, Sasha. | #120: О, привет, Саш | verbatim |
+| 3 | Костя | Спасибо, Костя, супер. | Thank you, Kostya, that is super. | #121: Спасибо, Костя, супер | verbatim |
+| 4 | Саша | Ну, как видишь, нет. | Well, as you can see, I did not go. | #123: Ну, как видишь, нет | verbatim |
+| 5 | Костя | Хотела поговорить. | I wanted to talk. | #124: Хотела поговорить | verbatim |
+| 6 | Саша | Да, конечно. | Yes, of course. | #125: Да, конечно | verbatim |
+| 7 | Костя | Что мы вместе. | That we are together. | #128: что мы вместе | verbatim |
+| 8 | Саша | Ну, что, тогда до вечера? | Well then, see you tonight? | #130: Ну, что, тогда до вечера | verbatim |
+| 9 | Костя | Я, наверное, сегодня не смогу. | I probably will not be able to make it tonight. | #132: Я, наверное, сегодня не смогу | verbatim |
+| 10 | Саша | Мне надо Костю поддержать. | I need to support Kostya. | #133: Мне надо Костю поддержать | verbatim |
+| 11 | Костя | А что случилось? | What happened? | #134: А что случилось | verbatim |
+| 12 | Саша | Да у него собака умерла. | His dog died. | #135: Да у него собака умерла | verbatim |
+| 13 | Костя | Он ее очень любил. | He loved her very much. | #137: Он ее очень любил | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostyan, can you imagine, this is some kind of...' In Russian, the idea of 'Kostyan' flows naturally into 'kind of' without extra filler words.
-- 'Oh, hi, Sasha.' In Russian, the idea of 'about' flows naturally into 'Sasha' without extra filler words.
-- 'Thank you, Kostya, that is super.' Here the Russian phrasing highlights 'thank you' before landing on 'super'. Sasha answers right away.
-- 'Well, as you can see, I did not go.' The grammar packs 'come on' and 'there is no' into a tight, idiomatic kitchen exchange.
-- 'I wanted to talk.' Kostya anchors the line on 'to want', while 'to talk' completes the thought.
-- 'Yes, of course.' Sasha brings out the contrast between 'yes' and 'of course' in a few short words. Kostya answers right away.
-- 'That we are together.' The meaning hinges on 'what' working together with 'together' in spoken Russian.
-- 'Well then, see you tonight?' Sasha brings out the contrast between 'come on' and 'what' in a few short words.
-- 'I probably will not be able to make it tonight.' Notice how Russian expresses 'I' and 'will be able to' with crisp inflection rather than helper words. Sasha answers right away.
-- 'I need to support Kostya.' In Russian, the idea of 'for me' flows naturally into 'to support' without extra filler words.
-- 'What happened?' Here the Russian phrasing highlights 'and' before landing on 'to happen'.
-- 'His dog died.' Sasha brings out the contrast between 'yes' and 'by' in a few short words. Kostya answers right away.
-- 'He loved her very much.' The meaning hinges on 'he' working together with 'loved' in spoken Russian.
+- 'Kostyan, can you imagine, this is some kind of...' Realizing that someone can Sasha imagines this is some kind changes how Kostya handles the situation. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Oh, hi, Sasha.' Between the shift and the kitchen, Sasha gives Kostya a quick, grounded response.
+- 'Thank you, Kostya, that is super.' Even though that is super, Kostya keeps a steady face in front of Sasha.
+- 'Well, as you can see, I did not go.' Admitting that as Kostya can see she did not go shows Sasha being honest for a change.
+- 'I wanted to talk.' Saying that he wanted to talk is how Kostya sets the tone with Sasha.
+- 'Yes, of course.' Over the shift and the plan, Sasha answers Kostya without a second thought.
+- 'That we are together.' Adding that that they are together fills in the missing piece for Sasha.
+- 'Well then, see you tonight?' Over the conversation and the shift, Sasha presses Kostya for a straight answer. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'I probably will not be able to make it tonight.' Since he probably will not be able to make it tonight, Kostya does not waste words on excuses.
+- 'I need to support Kostya.' Here needing to support Kostya sets up the next turn in their exchange. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
+- 'What happened?' Over the conversation and the plan, Kostya presses Sasha for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'His dog died.' Between the moment and the truth, Sasha gives Kostya a quick, grounded response.
+- 'He loved her very much.' Explaining that he loved her very much lays the cards on the table for Sasha.

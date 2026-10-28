@@ -10,32 +10,32 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Нагиев | Витя, что ты здесь сейчас делаешь? | Vitya, what are you doing here right now? | #170 00:13:06: ты что | adapted: adapted |
-| 2 | Нагиев | Витя, я вообще-то с тобой разговариваю! | Vitya, I am actually talking to you! | #171 00:13:08: Витя, я с тобой разговариваю | adapted: adapted |
-| 3 | Нагиев | Уже два часа дня на улице! | It is already two o'clock in the afternoon outside! | #173 00:13:12: Два часа дня на дворе | adapted: adapted |
-| 4 | Нагиев | Ты опять пил здесь всю ночь? | Were you drinking here all night again? | #174 00:13:14: всю ночь | adapted: adapted |
-| 5 | Шеф | Нет, Дима, я совсем не пил. | No, Dima, I did not drink at all. | #175 00:13:16: Нет, Дим, я не пил | adapted: adapted |
-| 6 | Шеф | Я всю ночь новое меню делал! | I was making the new menu all night! | #176 00:13:18: Я новое меню придумал | adapted: adapted |
-| 7 | Нагиев | Я прекрасно вижу, какое меню ты сделал. | I see very well what kind of menu you made. | #177 00:13:20: Я вижу, какое ты меню придумал | adapted: adapted |
-| 8 | Шеф | Я тебе сейчас новое блюдо приготовлю! | I will cook a new dish for you right now! | #178 00:13:22: Я тебе сейчас новое блюдо приготовлю | adapted: adapted |
-| 9 | Нагиев | Что ты приготовишь, когда ты так устал? | What will you cook when you are so tired? | #179 00:13:29: Что ты приготовишь | adapted: adapted |
-| 10 | Шеф | Дима, я почему-то не чувствую руку! | Dima, for some reason I cannot feel my arm! | #181 00:13:36: Дима, я не чувствую | adapted: adapted |
-| 11 | Шеф | Подожди, Дима, смотри, я в порядке. | Wait, Dima, look, I am fine. | #182 00:13:39: Дима, смотри, я в порядке | adapted: adapted |
-| 12 | Шеф | Ну что ты, я просто плохо спал. | Come on, I just slept badly. | #183 00:13:44: Ну что ты? Вот смотри | adapted: adapted |
-| 13 | Шеф | Вот смотри, на меня тоже вода попала. | Here look, water got on me too. | #185 00:13:53: Вот на меня тоже попало немножко | adapted: adapted |
+| 1 | Нагиев | Витя, что ты здесь сейчас делаешь? | Vitya, what are you doing here right now? | #170: ты что | adapted: adapted |
+| 2 | Нагиев | Витя, я вообще-то с тобой разговариваю! | Vitya, I am actually talking to you! | #171: Витя, я с тобой разговариваю | adapted: adapted |
+| 3 | Нагиев | Уже два часа дня на улице! | It is already two o'clock in the afternoon outside! | #173: Два часа дня на дворе | adapted: adapted |
+| 4 | Нагиев | Ты опять пил здесь всю ночь? | Were you drinking here all night again? | #174: всю ночь | adapted: adapted |
+| 5 | Шеф | Нет, Дима, я совсем не пил. | No, Dima, I did not drink at all. | #175: Нет, Дим, я не пил | adapted: adapted |
+| 6 | Шеф | Я всю ночь новое меню делал! | I was making the new menu all night! | #176: Я новое меню придумал | adapted: adapted |
+| 7 | Нагиев | Я прекрасно вижу, какое меню ты сделал. | I see very well what kind of menu you made. | #177: Я вижу, какое ты меню придумал | adapted: adapted |
+| 8 | Шеф | Я тебе сейчас новое блюдо приготовлю! | I will cook a new dish for you right now! | #178: Я тебе сейчас новое блюдо приготовлю | adapted: adapted |
+| 9 | Нагиев | Что ты приготовишь, когда ты так устал? | What will you cook when you are so tired? | #179: Что ты приготовишь | adapted: adapted |
+| 10 | Шеф | Дима, я почему-то не чувствую руку! | Dima, for some reason I cannot feel my arm! | #181: Дима, я не чувствую | adapted: adapted |
+| 11 | Шеф | Подожди, Дима, смотри, я в порядке. | Wait, Dima, look, I am fine. | #182: Дима, смотри, я в порядке | adapted: adapted |
+| 12 | Шеф | Ну что ты, я просто плохо спал. | Come on, I just slept badly. | #183: Ну что ты? Вот смотри | adapted: adapted |
+| 13 | Шеф | Вот смотри, на меня тоже вода попала. | Here look, water got on me too. | #185: Вот на меня тоже попало немножко | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vitya, what are you doing here right now?' Spoken Russian keeps this brisk, leaning on 'Vitya' and finishing on 'are doing'.
-- 'Vitya, I am actually talking to you!' In Russian, the idea of 'Vitya' flows naturally into 'to talk' without extra filler words.
-- 'It is already two o'clock in the afternoon outside!' Spoken Russian keeps this brisk, leaning on 'already' and finishing on 'street'.
-- 'Were you drinking here all night again?' Dmitry Nagiyev anchors the line on 'you', while 'night' completes the thought.
-- 'No, Dima, I did not drink at all.' Spoken Russian keeps this brisk, leaning on 'no' and finishing on 'was drinking'.
-- 'I was making the new menu all night!' In Russian, the idea of 'I' flows naturally into 'did' without extra filler words.
-- 'I see very well what kind of menu you made.' Spoken Russian keeps this brisk, leaning on 'I' and finishing on 'made'.
-- 'I will cook a new dish for you right now!' In Russian, the idea of 'I' flows naturally into 'will prepare' without extra filler words. Dmitry Nagiyev answers right away.
-- 'What will you cook when you are so tired?' Dmitry Nagiyev brings out the contrast between 'what' and 'you' in a few short words.
-- 'Dima, for some reason I cannot feel my arm!' In Russian, the idea of 'Dima' flows naturally into 'arm' without extra filler words.
-- 'Wait, Dima, look, I am fine.' Spoken Russian keeps this brisk, leaning on 'wait' and finishing on 'order'.
-- 'Come on, I just slept badly.' In Russian, the idea of 'come on' flows naturally into 'slept' without extra filler words.
-- 'Here look, water got on me too.' The meaning hinges on 'here' working together with 'got hit' in spoken Russian.
+- 'Vitya, what are you doing here right now?' Here wondering what Barinov doing here right now is shows Nagiyev looking for the real truth. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Vitya, I am actually talking to you!' Because he is actually talking to Barinov, Nagiyev does not bother softening the blow for Barinov. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'It is already two o'clock in the afternoon outside!' Insisting that it is already two o'clock in the afternoon outside shows Nagiyev is not backing down.
+- 'Were you drinking here all night again?' Here checking whether Barinov drinking here all night again shows Nagiyev looking for the real truth. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'No, Dima, I did not drink at all.' Even though he did not drink at all, Barinov keeps a steady face in front of Nagiyev.
+- 'I was making the new menu all night!' Barinov insists that he was making the new menu all night, leaving Nagiyev no room to argue.
+- 'I see very well what kind of menu you made.' Even though he sees very well what kind of menu Barinov made, Nagiyev keeps a steady face in front of Barinov. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'I will cook a new dish for you right now!' Barinov declares that he will cook a new dish for Nagiyev right now as the tension in the room peaks. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'What will you cook when you are so tired?' By wondering what Barinov cooks when Barinov is so tired will, Nagiyev presses Barinov for a straight answer.
+- 'Dima, for some reason I cannot feel my arm!' Insisting that for some reason he cannot feel his arm shows Barinov is not backing down. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Wait, Dima, look, I am fine.' Barinov mentions that he is fine so Nagiyev sees what is at stake.
+- 'Come on, I just slept badly.' Since Nagiyev should come on he just slept badly, Barinov does not waste words on excuses.
+- 'Here look, water got on me too.' Barinov reminds Nagiyev that here look water got on him before the moment passes.

@@ -4,18 +4,17 @@ SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 3
 SCENE = 13
-TITLE = "Спор на кухне  (An Argument in the Kitchen)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Спор на кухне  (An Argument in the Kitchen)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "fedya": "anja", "senya": "angelina"}
-LABELS = {"fedya": "Федя", "senya": "Сеня"}
+LABELS = {'fedya': 'Федя', 'senya': 'Сеня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S2.03'
 SOURCE_FILE = 'sources/kukhnya/s02/e03.ru.dual.srt'
 INTRO = "In the kitchen of Claude Monet, Senya prepares to eat a leather belt after losing a bet to Fedya. Fedya mocks him by telling him to tenderize the leather first so it is not as tough as Senya's steak from yesterday."
 OPENER = 'Listen to Fedya teasing Senya in the kitchen over their bet.'
 TRANSITION = "Now listen to the kitchen banter between Senya and Fedya again. Now let's listen to the whole conversation again from start to finish."
 OUTRO = "To avoid chewing raw leather alone, Senya decides to disguise the sliced belt inside a fresh green salad. Next time you watch the episode, listen for the Russian expressions for 'to bring' and 'belt' — you will catch every word right away. See you next time!"
-CLOSING = ("senya", "Пока!")
+CLOSING = ('senya', 'Пока!')
 STORY = [
     ('fedya', 'Сеня, ты уже принёс этот ремень?', 'Senya, did you already bring that belt?', [(198, 'оставь кусочек')], ''),
     ('fedya', 'Только весь сразу один не ешь!', 'Just do not eat it all at once by yourself!', [(198, 'Только весь сразу не ешь')], ''),

@@ -4,32 +4,31 @@ SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 1
 SCENE = 20
-TITLE = "Извинения  (Apologies)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Извинения  (Apologies)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "anya": "alisa", "vika": "angelina"}
-LABELS = {"anya": "Макс", "vika": "Вика"}
+LABELS = {'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S2.01'
 SOURCE_FILE = 'sources/kukhnya/s02/e01.ru.dual.srt'
 INTRO = "After surviving his accidental hanging, Max sincerely apologizes to Victoria for his foolish stunt. He begs her for another chance to prove his love. Let's listen closely to the conversation in Russian first, and then walk through each line together."
 OPENER = "Now let's go back through the exchange around Apologies line by line and unpack how the Russian works."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Victoria remains skeptical of his promises, leaving Max desperate to show that he can truly change his immature behavior. Next time you watch the episode, listen for the Russian expressions for 'to save' and 'fool' — you will catch every word right away. See you next time!"
-CLOSING = ("anya", "Пока!")
+CLOSING = ('max', 'Пока!')
 STORY = [
-    ('anya', 'Спасибо, что спас меня.', 'Thank you for saving me.', [(257, 'Спасибо.')], ''),
+    ('max', 'Спасибо, что спас меня.', 'Thank you for saving me.', [(257, 'Спасибо.')], ''),
     ('vika', 'Какой же ты дурак.', 'What a fool you are.', [(258, 'Дурак.')], ''),
     ('vika', 'Думаешь, это смешные шутки?', 'Do you think these are funny jokes?', [(259, 'Думаешь, это шутки?')], ''),
-    ('anya', 'Вика, прости меня, пожалуйста.', 'Vika, forgive me, please.', [(260, 'Вик, прости меня.')], ''),
-    ('anya', 'Я реально очень сильно облажался.', 'I really screwed up badly.', [(261, 'Я реально облажался.')], ''),
-    ('anya', 'Я просто не хочу тебя терять.', 'I simply do not want to lose you.', [(262, 'Я не хочу тебя терять')], ''),
-    ('anya', 'У меня есть хоть маленький шанс?', 'Do I have even a small chance?', [(262, 'есть хоть маленький шанс')], ''),
-    ('anya', 'Я сделаю всё, что ты скажешь.', 'I will do everything that you say.', [], ''),
+    ('max', 'Вика, прости меня, пожалуйста.', 'Vika, forgive me, please.', [(260, 'Вик, прости меня.')], ''),
+    ('max', 'Я реально очень сильно облажался.', 'I really screwed up badly.', [(261, 'Я реально облажался.')], ''),
+    ('max', 'Я просто не хочу тебя терять.', 'I simply do not want to lose you.', [(262, 'Я не хочу тебя терять')], ''),
+    ('max', 'У меня есть хоть маленький шанс?', 'Do I have even a small chance?', [(262, 'есть хоть маленький шанс')], ''),
+    ('max', 'Я сделаю всё, что ты скажешь.', 'I will do everything that you say.', [], ''),
     ('vika', 'Я больше не верю твоим словам.', 'I no longer believe your words.', [], ''),
-    ('anya', 'Но я говорю тебе правду.', 'But I am telling you the truth.', [], ''),
+    ('max', 'Но я говорю тебе правду.', 'But I am telling you the truth.', [], ''),
     ('vika', 'Тебе нужно измениться.', 'You need to change.', [], ''),
-    ('anya', 'Я обещаю, я изменюсь.', 'I promise, I will change.', [], ''),
-    ('anya', 'Ещё раз прости меня.', 'Once again, forgive me.', [(263, 'Прости меня.')], ''),
+    ('max', 'Я обещаю, я изменюсь.', 'I promise, I will change.', [], ''),
+    ('max', 'Ещё раз прости меня.', 'Once again, forgive me.', [(263, 'Прости меня.')], ''),
 ]
 WALK = [
     (0, None, "'Thank you for saving me.' The question word for 'what' comes right at the start, followed directly by 'me'."),

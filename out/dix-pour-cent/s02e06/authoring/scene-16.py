@@ -7,7 +7,6 @@ SCENE = 16
 TITLE = 'Garder la maison ensemble  (Holding the Fort Together)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'herve': 'marcel', 'noemie': 'emilie'}
 LABELS = {'herve': 'Hervé', 'noemie': 'Noémie'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e06.fr.dual.srt'

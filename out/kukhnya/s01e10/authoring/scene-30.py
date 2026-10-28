@@ -4,32 +4,31 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 10
 SCENE = 30
-TITLE = "Хитрый рецепт  (A Tricky Recipe)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Хитрый рецепт  (A Tricky Recipe)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "chef": "anja", "senya": "angelina"}
-LABELS = {"chef": "Шеф", "senya": "Сеня"}
+LABELS = {'barinov': 'Шеф', 'senya': 'Сеня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.10'
 SOURCE_FILE = 'sources/kukhnya/s01/e10.ru.dual.srt'
 INTRO = 'In the kitchen workspace behind closed doors, Chef Viktor and Senya commence their bold culinary deception. Armed with dark natural food dye, they set out to tint the yellow pike caviar into convincing black pearls, joking that it feels like decorating eggs for Easter. Let us listen to their conspiratorial dialogue in Russian first.'
 OPENER = "Now let us examine Viktor and Senya's secret recipe step by step."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "With the pike caviar successfully dyed a glistening black, Viktor and Senya admire their handiwork, confident that no patron will discover their culinary ruse. Next time you watch the episode, listen for the Russian expressions for 'carefully' and 'to look' — you will catch every word right away. See you next time!"
-CLOSING = ("chef", "Пока!")
+CLOSING = ('barinov', 'Пока!')
 STORY = [
-    ('chef', 'Давай начнём красить эту щучью икру.', 'Let us start dyeing this pike caviar.', [(207, 'Давай'), (207, 'давай')], ''),
+    ('barinov', 'Давай начнём красить эту щучью икру.', 'Let us start dyeing this pike caviar.', [(207, 'Давай'), (207, 'давай')], ''),
     ('senya', 'Вы хотите превратить её в чёрную?', 'Do you want to turn it into black?', [], ''),
-    ('chef', 'Да, мы покрасим всю эту икру.', 'Yes, we will dye all of this caviar.', [], ''),
+    ('barinov', 'Да, мы покрасим всю эту икру.', 'Yes, we will dye all of this caviar.', [], ''),
     ('senya', 'Это прямо настоящая щучья пасха получается.', 'This turns out to be a real pike Easter.', [], ''),
-    ('chef', 'Неси сюда чёрный краситель.', 'Bring black food dye here.', [], ''),
+    ('barinov', 'Неси сюда чёрный краситель.', 'Bring black food dye here.', [], ''),
     ('senya', 'Я нашёл на полке отличный краситель.', 'I found an excellent dye on the shelf.', [], ''),
-    ('chef', 'Добавляй краситель медленно и аккуратно.', 'Add the dye slowly and carefully.', [], ''),
+    ('barinov', 'Добавляй краситель медленно и аккуратно.', 'Add the dye slowly and carefully.', [], ''),
     ('senya', 'Икра уже становится совсем чёрной.', 'The caviar is already becoming completely black.', [], ''),
-    ('chef', 'Теперь хорошо помешай ложкой всю икру.', 'Now stir all the caviar well with a spoon.', [], ''),
+    ('barinov', 'Теперь хорошо помешай ложкой всю икру.', 'Now stir all the caviar well with a spoon.', [], ''),
     ('senya', 'Она выглядит прямо как дорогая чёрная.', 'It looks just like expensive black caviar.', [], ''),
-    ('chef', 'Ни один гость ресторана ничего не заметит.', 'Not a single guest of the restaurant will notice anything.', [], ''),
+    ('barinov', 'Ни один гость ресторана ничего не заметит.', 'Not a single guest of the restaurant will notice anything.', [], ''),
     ('senya', 'Вы просто гений кулинарных секретов, шеф.', 'You are simply a genius of culinary secrets, chef.', [], ''),
-    ('chef', 'Этот секрет никто не должен знать.', 'No one must know this secret.', [], ''),
+    ('barinov', 'Этот секрет никто не должен знать.', 'No one must know this secret.', [], ''),
 ]
 WALK = [
     (0, None, "'Let us start dyeing this pike caviar.' Chef Barinov leads with the direct command form meaning 'let us', pairing it with 'will begin' and 'to paint'."),

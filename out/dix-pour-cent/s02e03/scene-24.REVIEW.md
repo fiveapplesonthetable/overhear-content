@@ -1,31 +1,43 @@
-# Review: `dix-pour-cent-s02e03-scene-24` — Julien veut partir  (Julien Wants to Leave)
+# dix-pour-cent-s02e03-scene-24: review sheet
 
-- **Source**: `sources/dix-pour-cent/s02/e03.fr.dual.srt`
-- **Level**: A1 — débutant
-- **Voices**: `{"narrator": "sky", "gabriel": "theo", "julien": "marcel", "sofia": "emilie"}`
-- **Labels**: `{"gabriel": "Gabriel", "julien": "Julien", "sofia": "Sofia"}`
+Title: Julien veut partir  (Julien Wants to Leave)
+Level: A1 — débutant
+Pair: fr-en
+Source: Dix pour cent (Call My Agent!) S02E03
 
-## Part 1 — Intro
-> In the lounge of the laser game center, Gabriel spots musician and filmmaker Julien Dore looking anxious to leave. After Julien admits to a creative dispute, Gabriel pushes actress Sofia Leprince to seize the moment and introduce herself. Listen to the scene in French first. Don't worry about catching every word.
 
-## Part 2 — Story Lines
-| # | Role | French | English | Source Cues |
-|---|------|--------|---------|-------------|
-| 0 | `gabriel` (Gabriel) | Salut Julien! Tu vas bien? | Hi Julien! Are you doing well? | 622:-Salut, Julien. |
-| 1 | `julien` (Julien) | Tu peux me trouver un taxi? | Can you find me a taxi? | 623:Tu peux me trouver un taxi ? |
-| 2 | `gabriel` (Gabriel) | Il y a un problème? | Is there a problem? | 624:Un problème ? |
-| 3 | `julien` (Julien) | Je me suis disputé avec Charlotte. | I argued with Charlotte. | 625:Charlotte et moi on s'est disputés à propos du film. |
-| 4 | `julien` (Julien) | Elle ne comprend pas la fin. | She does not understand the ending. | 626:Elle ne comprend pas. |
-| 5 | `julien` (Julien) | Je dois rentrer à Paris. | I must go back to Paris. | 627:Je dois rentrer à Paris. |
-| 6 | `gabriel` (Gabriel) | Sofia veut faire des essais. | Sofia wants to do screen tests. | 629:Dis-moi si tu veux organiser des essais voix avec Sofia. |
-| 7 | `julien` (Julien) | On verra ça plus tard. | We will see about that later. | 638:Ça va se faire |
-| 8 | `sofia` (Sofia) | Tu es trop lourd, Gabriel! | You are too pushy, Gabriel! | 631:-T'es lourd, c'est pénible. |
-| 9 | `sofia` (Sofia) | Il n'est pas intéressé. | He is not interested. | 634:Il n'est visiblement pas intéressé par moi. |
-| 10 | `gabriel` (Gabriel) | Arrête de t'inquiéter comme ça. | Stop worrying like that. | 635:Allez, arrête de t'inquiéter ! |
-| 11 | `gabriel` (Gabriel) | Julien est toujours très stressé. | Julien is always very stressed. | 636:Julien est toujours stressé |
-| 12 | `gabriel` (Gabriel) | Tu dois tenter le coup. | You must give it a shot. | 638:tu dois tenter le coup. |
-| 13 | `sofia` (Sofia) | D'accord, je vais lui parler. | All right, I will talk to him. | 640:Ah, c'est super que tu sois venu. |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 5 — Outro & Closing
-> Despite her initial hesitation, Sofia gathers her courage to approach Julien Dore. Remember the colloquial French idiom for taking a chance: tenter le coup. See you next time!
-- **Closing**: `sofia`: *Bonne journée!*
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+|---|---|---|---|---|---|
+| 1 | Gabriel | Salut Julien! Tu vas bien? | Hi Julien! Are you doing well? | #622: -Salut, Julien. | verbatim |
+| 2 | Julien | Tu peux me trouver un taxi? | Can you find me a taxi? | #623: Tu peux me trouver un taxi ? | verbatim |
+| 3 | Gabriel | Il y a un problème? | Is there a problem? | #624: Un problème ? | verbatim |
+| 4 | Julien | Je me suis disputé avec Charlotte. | I argued with Charlotte. | #625: Charlotte et moi on s'est disputés à propos du film. | verbatim |
+| 5 | Julien | Elle ne comprend pas la fin. | She does not understand the ending. | #626: Elle ne comprend pas. | verbatim |
+| 6 | Julien | Je dois rentrer à Paris. | I must go back to Paris. | #627: Je dois rentrer à Paris. | verbatim |
+| 7 | Gabriel | Sofia veut faire des essais. | Sofia wants to do screen tests. | #629: Dis-moi si tu veux organiser des essais voix avec Sofia. | verbatim |
+| 8 | Julien | On verra ça plus tard. | We will see about that later. | #638: Ça va se faire | verbatim |
+| 9 | Sofia | Tu es trop lourd, Gabriel! | You are too pushy, Gabriel! | #631: -T'es lourd, c'est pénible. | verbatim |
+| 10 | Sofia | Il n'est pas intéressé. | He is not interested. | #634: Il n'est visiblement pas intéressé par moi. | verbatim |
+| 11 | Gabriel | Arrête de t'inquiéter comme ça. | Stop worrying like that. | #635: Allez, arrête de t'inquiéter ! | verbatim |
+| 12 | Gabriel | Julien est toujours très stressé. | Julien is always very stressed. | #636: Julien est toujours stressé | verbatim |
+| 13 | Gabriel | Tu dois tenter le coup. | You must give it a shot. | #638: tu dois tenter le coup. | verbatim |
+| 14 | Sofia | D'accord, je vais lui parler. | All right, I will talk to him. | #640: Ah, c'est super que tu sois venu. | verbatim |
+
+## Walk-through narration (English only, no target-language words quoted)
+
+- 'Hi Julien! Are you doing well?' Gabriel greets the visiting artist in the party lounge. The verb meaning 'are doing' anchors the whole remark.
+- 'Can you find me a taxi?' Julien urgently asks for a ride away from the venue. Listen for the expression meaning 'can', which leads naturally into 'taxi'.
+- 'Is there a problem?' The agent senses that something went wrong with the project. Gabriel pairs the verb meaning 'is' with the noun for 'problem'.
+- 'I argued with Charlotte.' The musician explains the artistic disagreement with his partner. Julien opens with the word for 'am' and lands on 'argued' at the close.
+- 'She does not understand the ending.' Julien feels misunderstood regarding the climax of his film. Listen for the expression meaning 'not', which leads naturally into 'ending'.
+- 'I must go back to Paris.' Frustrated by the dispute, he decides to cut his visit short. The key word here means 'must', paired with 'to go back' to make the point clear.
+- 'Sofia wants to do screen tests.' Gabriel seizes the opportunity to pitch his actress client. Listen for the expression meaning 'wants', which leads naturally into 'screen tests'.
+- 'We will see about that later.' Julien deflects the business pitch while in a hurry. The adverb meaning 'more' sharpens the verb for 'will see' here.
+- 'You are too pushy, Gabriel!' Sofia reproaches her agent for bringing up work at an awkward moment. Sofia opens with the word for 'are' and lands on 'pushy' at the close.
+- 'He is not interested.' She feels discouraged and doubts the singer has any interest in her. The key word here means 'not', paired with 'interested' to make the point clear.
+- 'Stop worrying like that.' Gabriel urges her not to let insecurity hold her back. Listen for the expression meaning 'stop', which leads naturally into 'to worry'.
+- 'Julien is always very stressed.' The agent explains that creative people often experience intense anxiety. Listen for the expression meaning 'is', which leads naturally into 'stressed'.
+- 'You must give it a shot.' Gabriel encourages his client to take advantage of the opportunity. Gabriel pairs the verb meaning 'must' with the noun for 'shot'.
+- 'All right, I will talk to him.' Sofia finally agrees to approach the artist directly. Sofia opens with the word for 'all right' and lands on 'to talk' at the close.

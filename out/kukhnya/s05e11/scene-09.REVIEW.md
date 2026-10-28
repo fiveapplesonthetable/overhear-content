@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Ну, как тебе, дед? | Well, how do you like it, grandpa? | #139 00:08:35: Ну, как тебе, дед | adapted: adapted |
-| 2 | Гость | На вкус совсем безвкусно. | It tastes completely bland. | #140 00:08:37: На вкус, как | adapted: adapted |
-| 3 | Гость | Всё, ухожу. | That is it, I am leaving. | #141 00:08:42: Все, ухожу | adapted: adapted |
-| 4 | Гость | Я сегодня встречусь с подругой. | Today I am meeting with a friend. | #142 00:08:44: Я сегодня встречусь с подругой | adapted: adapted |
-| 5 | Гость | Я её не видела десять лет. | I have not seen her for ten years. | #143 00:08:46: Я ее не видела<br>#143 00:08:46: лет | adapted: adapted |
-| 6 | Аня | Пойдём, бабуля, провожу. | Let us go, granny, I will walk you out. | #144 00:08:49: Пойдем, бабуля | adapted: adapted |
-| 7 | Аня | Бабуль, ты не переживай, я за ним присмотрю. | Granny, do not worry, I will look after him. | #145 00:08:54: Бабуль, ты не переживай. Я за ним присмотрю | adapted: adapted |
-| 8 | Аня | Вегетарианца из него сделаю! | I will make a vegetarian out of him! | #146 00:08:57: из него | adapted: adapted |
-| 9 | Гость | Делай что хочешь, главное — чтобы он не ел мясо. | Do whatever you want, the main thing is that he does not eat meat. | #147 00:08:59: Что хочешь, главное, чтобы он не ел мясо | adapted: adapted |
-| 10 | Аня | Хорошо, бабуль, обещаю. | Alright, granny, I promise. | #145 00:08:54: Бабуль | adapted: adapted |
-| 11 | Гость | Да. Всё, пошла! | Yes. That is it, I am off! | #148 00:09:01: Да<br>#149 00:09:05: Всё, пошла | adapted: adapted |
-| 12 | Аня | Хорошего вечера! | Have a nice evening! | #148 00:09:01: хорошие | adapted: adapted |
+| 1 | Макс | Ну, как тебе, дед? | Well, how do you like it, grandpa? | #139: Ну, как тебе, дед | adapted: adapted |
+| 2 | Гость | На вкус совсем безвкусно. | It tastes completely bland. | #140: На вкус, как | adapted: adapted |
+| 3 | Гость | Всё, ухожу. | That is it, I am leaving. | #141: Все, ухожу | adapted: adapted |
+| 4 | Гость | Я сегодня встречусь с подругой. | Today I am meeting with a friend. | #142: Я сегодня встречусь с подругой | adapted: adapted |
+| 5 | Мама | Я её не видела десять лет. | I have not seen her for ten years. | #143: Я ее не видела<br>#143: лет | adapted: adapted |
+| 6 | Макс | Пойдём, бабуля, провожу. | Let us go, granny, I will walk you out. | #144: Пойдем, бабуля | adapted: adapted |
+| 7 | Макс | Бабуль, ты не переживай, я за ним присмотрю. | Granny, do not worry, I will look after him. | #145: Бабуль, ты не переживай. Я за ним присмотрю | adapted: adapted |
+| 8 | Макс | Вегетарианца из него сделаю! | I will make a vegetarian out of him! | #146: из него | adapted: adapted |
+| 9 | Гость | Делай что хочешь, главное — чтобы он не ел мясо. | Do whatever you want, the main thing is that he does not eat meat. | #147: Что хочешь, главное, чтобы он не ел мясо | adapted: adapted |
+| 10 | Макс | Хорошо, бабуль, обещаю. | Alright, granny, I promise. | #145: Бабуль | adapted: adapted |
+| 11 | Гость | Да. Всё, пошла! | Yes. That is it, I am off! | #148: Да<br>#149: Всё, пошла | adapted: adapted |
+| 12 | Макс | Хорошего вечера! | Have a nice evening! | #148: хорошие | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, how do you like it, grandpa?' Max anchors the line on 'come on', while 'grandfather' completes the thought. the guest answers right away.
-- 'It tastes completely bland.' The grammar packs 'on' and 'tasteless' into a tight, idiomatic kitchen exchange.
-- 'That is it, I am leaving.' The meaning hinges on 'everything' working together with 'leave' in spoken Russian.
-- 'Today I am meeting with a friend.' Spoken Russian keeps this brisk, leaning on 'I' and finishing on 'female friend'.
-- 'I have not seen her for ten years.' the guest anchors the line on 'I', while 'years' completes the thought.
-- 'Let us go, granny, I will walk you out.' Notice how Russian expresses 'let's go' and 'will walk out' with crisp inflection rather than helper words.
-- 'Granny, do not worry, I will look after him.' Max anchors the line on 'granny', while 'will look after' completes the thought.
-- 'I will make a vegetarian out of him!' Here the Russian phrasing highlights 'vegetarian' before landing on 'will do'.
-- 'Do whatever you want, the main thing is that he does not eat meat.' The meaning hinges on 'do' working together with 'meat' in spoken Russian.
-- 'Alright, granny, I promise.' The grammar packs 'well' and 'promise' into a tight, idiomatic kitchen exchange. the guest answers right away.
-- 'Yes. That is it, I am off!' the guest anchors the line on 'yes', while 'am off' completes the thought.
-- 'Have a nice evening!' In Russian, the idea of 'good' flows naturally into 'in the evening' without extra filler words.
+- 'Well, how do you like it, grandpa?' Wondering how the guest likes it is how Max puts the guest on the spot. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'It tastes completely bland.' Mentioning that it tastes completely bland moves the talk in a new direction.
+- 'That is it, I am leaving.' Noting that that is it he is leaving keeps the guest's side of the story simple and clear.
+- 'Today I am meeting with a friend.' Because today he is meeting with a friend, the guest treats the matter as settled.
+- 'I have not seen her for ten years.' Saying that she has not seen her for ten years is how Mama sets the tone with the guest.
+- 'Let us go, granny, I will walk you out.' Going granny he will walk the guest out together moves the conversation forward without extra drama.
+- 'Granny, do not worry, I will look after him.' Claiming that granny do not worry he will look after him sounds confident, even if the guest has doubts. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'I will make a vegetarian out of him!' Saying that he will make a vegetarian out of him is how Max takes charge of the moment.
+- 'Do whatever you want, the main thing is that he does not eat meat.' The guest explains that do whatever Mama wants the main thing is that he does not eat meat, keeping his voice calm and direct. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'Alright, granny, I promise.' Realizing that Alright granny he promises changes how Max handles the situation.
+- 'Yes. That is it, I am off!' Insisting that that is it he is off shows the guest is not backing down.
+- 'Have a nice evening!' Once have a nice evening, Max makes sure the guest hears every word. Russian puts the key word right up front so his emotion lands on the first beat.

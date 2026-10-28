@@ -1,39 +1,39 @@
-# Поддержка подруги  (A Friend's Support) — `kukhnya-s01e05-scene-09`
+# kukhnya-s01e05-scene-09: review sheet
 
-**Source:** Кухня (Kukhnya) S1.05 · `sources/kukhnya/s01/e05.ru.dual.srt`  
-**Target level:** A1 — Duolingo Section 2
+Title: Поддержка подруги  (A Friend's Support)
+Level: A1 — Duolingo Section 2
+Pair: ru-en
+Source: Кухня (Kukhnya) S1.05
 
-## Cast
 
-| Role | Voice | Label |
-|---|---|---|
-| `narrator` | sky | — |
-| `nastya` | angelina | Настя |
-| `sasha` | anja | Саша |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 1 — Intro
-
-> In the quiet service area, waitress Nastya is sobbing after her painful breakup with Max. Her close colleague Sasha comes over to comfort her, telling her not to waste tears on a careless cook and reminding her of her worth. Let's listen to their conversation in Russian first.
-
-## Part 2 — Story
-
-| # | Speaker | Line | English | Source cue(s) | Change |
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 0 | Саша | Настя, перестань так сильно расстраиваться! | Nastya, stop being so deeply upset! | #137 "Да не расстраивайся ты" |  |
-| 1 | Настя | Мне очень больно, он разбил мне сердце. | It hurts me very much, he broke my heart. | *(added)* |  |
-| 2 | Саша | Знаешь, сколько парней у тебя ещё будет? | Do you know how many more guys you will still have? | #138 "Знаешь, сколько мужиков тебя еще кинет" |  |
-| 3 | Настя | Мне не нужны другие, мне нравился Макс. | I do not need others, I liked Max. | *(added)* |  |
-| 4 | Саша | Неужели стоит так убиваться из-за каждого? | Is it really worth falling apart over every one? | #139 "Что, и за каждого убиваться, что ли" |  |
-| 5 | Настя | Я боюсь, что меня снова обманут. | I am afraid that they will deceive me again. | #140 "Меня опять кинут" |  |
-| 6 | Саша | Ты добрая, красивая и очень умная. | You are kind, beautiful, and very smart. | *(added)* |  |
-| 7 | Настя | Тогда почему он так быстро забыл меня? | Then why did he forget me so quickly? | *(added)* |  |
-| 8 | Саша | Потому что он глупый и ветреный парень. | Because he is a foolish and fickle guy. | *(added)* |  |
-| 9 | Настя | Я хочу, чтобы он понял свою ошибку. | I want him to understand his mistake. | *(added)* |  |
-| 10 | Саша | Вот это уже правильные мысли, подруга! | Now those are the right thoughts, my friend! | *(added)* |  |
-| 11 | Настя | Спасибо тебе огромное за тёплую поддержку. | Thank you so much for the warm support. | *(added)* |  |
+| 1 | Саша | Настя, перестань так сильно расстраиваться! | Nastya, stop being so deeply upset! | #137: Да не расстраивайся ты | verbatim |
+| 2 | Настя | Мне очень больно, он разбил мне сердце. | It hurts me very much, he broke my heart. | new | new |
+| 3 | Саша | Знаешь, сколько парней у тебя ещё будет? | Do you know how many more guys you will still have? | #138: Знаешь, сколько мужиков тебя еще кинет | verbatim |
+| 4 | Настя | Мне не нужны другие, мне нравился Макс. | I do not need others, I liked Max. | new | new |
+| 5 | Саша | Неужели стоит так убиваться из-за каждого? | Is it really worth falling apart over every one? | #139: Что, и за каждого убиваться, что ли | verbatim |
+| 6 | Настя | Я боюсь, что меня снова обманут. | I am afraid that they will deceive me again. | #140: Меня опять кинут | verbatim |
+| 7 | Саша | Ты добрая, красивая и очень умная. | You are kind, beautiful, and very smart. | new | new |
+| 8 | Настя | Тогда почему он так быстро забыл меня? | Then why did he forget me so quickly? | new | new |
+| 9 | Саша | Потому что он глупый и ветреный парень. | Because he is a foolish and fickle guy. | new | new |
+| 10 | Настя | Я хочу, чтобы он понял свою ошибку. | I want him to understand his mistake. | new | new |
+| 11 | Саша | Вот это уже правильные мысли, подруга! | Now those are the right thoughts, my friend! | new | new |
+| 12 | Настя | Спасибо тебе огромное за тёплую поддержку. | Thank you so much for the warm support. | new | new |
 
-## Part 5 — Outro & closing
+## Walk-through narration (English only, no target-language words quoted)
 
-> With Sasha's sincere support, Nastya begins to recover her dignity and self-confidence. See you next time!
-
-**Настя:** Пока!
+- 'Nastya, stop being so deeply upset!' Sasha tries to calm her distraught friend down.
+- 'It hurts me very much, he broke my heart.' Nastya confesses how wounded she feels by the sudden rejection.
+- 'Do you know how many more guys you will still have?' Sasha reminds her that she has a bright romantic future ahead.
+- 'I do not need others, I liked Max.' Nastya laments that she was genuinely interested in the new cook.
+- 'Is it really worth falling apart over every one?' Sasha argues that no careless man is worth so many tears.
+- 'I am afraid that they will deceive me again.' Nastya shares her deep fear of repeated heartbreak.
+- 'You are kind, beautiful, and very smart.' Sasha boosts Nastya's self-esteem with warm compliments.
+- 'Then why did he forget me so quickly?' Nastya struggles to comprehend Max's indifferent attitude.
+- 'Because he is a foolish and fickle guy.' Sasha bluntly assesses Max's immature behavior.
+- 'I want him to understand his mistake.' Nastya shifts from despair to a sense of injured pride.
+- 'Now those are the right thoughts, my friend!' Russian omits the present-tense verb 'to be' here, linking 'already' directly with 'right', combining 'already' with 'right' and 'thoughts'.
+- 'Thank you so much for the warm support.' Nastya expresses heartfelt gratitude to her loyal friend.

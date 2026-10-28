@@ -7,8 +7,7 @@ SCENE = 12
 TITLE = "Elvis à l'agence  (Elvis at the Agency)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'hicham': 'marcel', 'sofia': 'emilie', 'elvis': 'theo'}
-LABELS = {'hicham': 'Hicham', 'sofia': 'Sofia', 'elvis': 'Elvis'}
+LABELS = {'camille': 'Camille', 'hicham': 'Hicham', 'sofia': 'Sofia'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e03.fr.dual.srt'
 INTRO = "At the ASK reception desk, majority shareholder Hicham Janowski arrives with his young son Elvis. After introducing Elvis to Sofia and Camille, Hicham generously offers tickets to a big football match. Let's listen to the scene in French first."
@@ -26,12 +25,12 @@ STORY = [
     ('hicham', "On sera dans mon bureau, à tout à l'heure.", 'We will be in my office, see you later.', [(293, "On sera dans mon bureau, à tout à l'heure.")], ''),
     ('hicham', "J'ai des billets pour le match du PSG!", 'I have tickets for the PSG match!', [(298, "J'ai des billets pour le match du PSG !")], ''),
     ('hicham', 'Camille, tu veux venir avec nous?', 'Camille, do you want to come with us?', [(298, 'match')], ''),
-    ('elvis', "Merci, monsieur Janowski, c'est très gentil.", 'Thank you, Mr. Janowski, that is very kind.', [(300, 'Paris.')], ''),
+    ('camille', "Merci, monsieur Janowski, c'est très gentil.", 'Thank you, Mr. Janowski, that is very kind.', [(300, 'Paris.')], ''),
     ('sofia', 'Tu as envie de devenir agent plus tard?', 'Do you want to become an agent later on?', [(304, 'une fois que je suis agent...')], ''),
-    ('elvis', "Oui, j'aimerais beaucoup être agente un jour.", 'Yes, I would very much like to be an agent one day.', [(304, 'suis agent...')], ''),
+    ('camille', "Oui, j'aimerais beaucoup être agente un jour.", 'Yes, I would very much like to be an agent one day.', [(304, 'suis agent...')], ''),
     ('sofia', "L'avenir du cinéma français est entre tes mains!", 'The future of French cinema is in your hands!', [(305, "l'avenir du cinéma français est en bonnes mains.")], ''),
     ('sofia', "N'oublie pas que beaucoup d'acteurs sont des actrices.", 'Do not forget that many actors are actresses.', [(306, 'des acteurs sont des actrices.')], ''),
-    ('elvis', 'Tu ne veux pas que je postule?', 'You do not want me to apply?', [(308, 'Tu ne veux pas que je postule ?')], ''),
+    ('camille', 'Tu ne veux pas que je postule?', 'You do not want me to apply?', [(308, 'Tu ne veux pas que je postule ?')], ''),
     ('sofia', "Bien sûr que si, j'y réfléchirai avec toi.", 'Of course I do, I will think about it with you.', [(309, "J'y réfléchirai.")], ''),
 ]
 WALK = [

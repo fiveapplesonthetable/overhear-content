@@ -4,18 +4,17 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 12
 SCENE = 17
-TITLE = "Примирение у бара  (Reconciliation by the Bar)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Примирение у бара  (Reconciliation by the Bar)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "kostya": "anja", "nastya": "angelina"}
-LABELS = {"kostya": "Костя", "nastya": "Настя"}
+LABELS = {'kostya': 'Костя', 'nastya': 'Настя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.12'
 SOURCE_FILE = 'sources/kukhnya/s01/e12.ru.dual.srt'
 INTRO = 'In a quiet corner near the bar counter, bartender Kostya approaches Nastya to resolve their recent spat. Regretting harsh words exchanged in the heat of an argument, Kostya delivers an earnest apology, eager to mend their romantic relationship. Let us listen to their heartfelt exchange in Russian first.'
 OPENER = "Now let us examine Kostya and Nastya's tender reconciliation line by line."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "With heartfelt apologies accepted and tender affection restored, Kostya and Nastya happily put their minor misunderstanding behind them. Next time you watch the episode, listen for the Russian expressions for 'to be' and 'important' — you will catch every word right away. See you next time!"
-CLOSING = ("kostya", "Пока!")
+CLOSING = ('kostya', 'Пока!')
 STORY = [
     ('kostya', 'Настя, пожалуйста, перестань мучить меня.', 'Nastya, please stop torturing me.', [(234, 'Настя, хватит о меня мучить')], ''),
     ('nastya', 'А почему ты сердишься на меня?', 'And why are you angry with me?', [], ''),

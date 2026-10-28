@@ -4,31 +4,30 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 13
 SCENE = 4
-TITLE = "Тайный роман  (A Secret Romance)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Тайный роман  (A Secret Romance)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "anya": "alisa", "vika": "angelina"}
-LABELS = {"anya": "Макс", "vika": "Вика"}
+LABELS = {'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.13'
 SOURCE_FILE = 'sources/kukhnya/s01/e13.ru.dual.srt'
 INTRO = "As they commute to the restaurant, Victoria suggests they shouldn't arrive together to avoid damaging her professional reputation, though Max mockingly agrees. Let's listen closely to the conversation in Russian first, and then walk through each line together."
 OPENER = "Let's join Max and Vika as they discuss their arrival at work."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Trying to keep their romance a secret, they agree to enter the restaurant separately. Next time you watch the episode, listen for the Russian expressions for 'to give' and 'from here' — you will catch every word right away. See you next time!"
-CLOSING = ("anya", "Пока!")
+CLOSING = ('max', 'Пока!')
 STORY = [
     ('vika', 'Давай отсюда ты дойдёшь пешком.', "Let's have you walk from here.", [(52, 'давай')], ''),
     ('vika', 'Нам не надо появляться на работе вместе.', 'We do not need to appear at work together.', [], ''),
-    ('anya', 'Ты совершенно права, Вика.', 'You are absolutely right, Vika.', [(44, 'Это значит, ты права.')], ''),
-    ('anya', 'Это может нанести урон моей репутации.', 'It could cause damage to my reputation.', [(44, 'Это может нанести серьезный урон моей репутации.')], ''),
+    ('max', 'Ты совершенно права, Вика.', 'You are absolutely right, Vika.', [(44, 'Это значит, ты права.')], ''),
+    ('max', 'Это может нанести урон моей репутации.', 'It could cause damage to my reputation.', [(44, 'Это может нанести серьезный урон моей репутации.')], ''),
     ('vika', 'Макс, ты уверен, что это правильно?', 'Max, are you sure that this is right?', [(45, 'Макс! Макс, ты уверен, что все это правильно?')], ''),
-    ('anya', 'Посмотрим.', 'We will see.', [(46, 'Посмотрим.')], ''),
+    ('max', 'Посмотрим.', 'We will see.', [(46, 'Посмотрим.')], ''),
     ('vika', 'Я не хочу лишних вопросов от шефа.', 'I do not want extra questions from the boss.', [], ''),
-    ('anya', 'Никто не узнает про наш тайный роман.', 'No one will find out about our secret romance.', [], ''),
+    ('max', 'Никто не узнает про наш тайный роман.', 'No one will find out about our secret romance.', [], ''),
     ('vika', 'В этом ресторане люди очень любят сплетни.', 'In this restaurant people really love gossip.', [], ''),
-    ('anya', 'Я буду молчать и просто готовить еду.', 'I will keep quiet and just cook food.', [], ''),
+    ('max', 'Я буду молчать и просто готовить еду.', 'I will keep quiet and just cook food.', [], ''),
     ('vika', 'Тогда иди первым, а я пойду потом.', 'Then you go first, and I will go later.', [], ''),
-    ('anya', 'Хорошо, увидимся на кухне через десять минут.', 'Good, see you in the kitchen in ten minutes.', [], ''),
+    ('max', 'Хорошо, увидимся на кухне через десять минут.', 'Good, see you in the kitchen in ten minutes.', [], ''),
 ]
 WALK = [
     (0, None, "'Let's have you walk from here.' Vika suggests they separate before reaching the restaurant."),

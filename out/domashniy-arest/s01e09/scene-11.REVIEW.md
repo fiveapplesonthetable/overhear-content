@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Нина | Что, Нина, допрыгалась? | What, Nina, did you finally go too far? | #299 00:17:36: Че, Нинка, допрыгалась | verbatim |
-| 2 | Нина | Убежал твой Ваня к молодухе? | Did your Vanya run off to a younger woman? | #300 00:17:39: Сбежала твоя Ванечка к молодухе | verbatim |
-| 3 | Нина | Кому он вообще нужен? | Who even needs him anyway? | #301 00:17:41: Кому он нужен-то | verbatim |
-| 4 | Нина | Если мэром станет, очередь выстроится! | If he becomes mayor, a whole line will form! | #302 00:17:42: Да, если мэром станет<br>#303 00:17:44: очередь выстроится | verbatim |
-| 5 | Нина | Это официальный документ, между прочим. | This is an official document, by the way. | #305 00:17:47: Документ, между прочим | verbatim |
-| 6 | Нина | Да вы же сами его хвалили! | Why, you yourself were praising him! | #308 00:17:52: Да вы же сами мне его нахваливали | verbatim |
-| 7 | Нина | Беги скорее с Ваней мириться! | Run quickly to make peace with Vanya! | #311 00:17:59: Беги скорее с Ванькой, мирись | verbatim |
-| 8 | Нина | Вам надо, вы и миритесь. | If you need to, you go make peace. | #314 00:18:04: Вам надо, вы валяйтесь | verbatim |
-| 9 | Нина | Вечером придёт домой, как миленький. | Tonight he will come home, meek as a lamb. | #315 00:18:06: Вечером придет, как миленький | verbatim |
-| 10 | Нина | Ну, моё дело — только предупредить. | Well, my job was only to warn you. | #316 00:18:07: Ну, мое дело предупредить | verbatim |
-| 11 | Нина | Оставьте меня все в покое! | Leave me in peace, all of you! | #319 00:18:13: Идите все в задницу<br>#320 00:18:17: Я не хочу никого видеть | adapted: cleaned crude slang to polite colloquial Russian |
-| 12 | Нина | Нина, у вас всё в порядке? | Nina, is everything alright with you? | #323 00:18:40: У вас все в порядке | verbatim |
-| 13 | Нина | Да, да, всё в порядке. | Yes, yes, everything is alright. | #324 00:18:50: Да, да, все в порядке | verbatim |
+| 1 | Клавдия Викторовна | Что, Нина, допрыгалась? | What, Nina, did you finally go too far? | #299: Че, Нинка, допрыгалась | verbatim |
+| 2 | Клавдия Викторовна | Убежал твой Ваня к молодухе? | Did your Vanya run off to a younger woman? | #300: Сбежала твоя Ванечка к молодухе | verbatim |
+| 3 | Нина | Кому он вообще нужен? | Who even needs him anyway? | #301: Кому он нужен-то | verbatim |
+| 4 | Клавдия Викторовна | Если мэром станет, очередь выстроится! | If he becomes mayor, a whole line will form! | #302: Да, если мэром станет<br>#303: очередь выстроится | verbatim |
+| 5 | Клавдия Викторовна | Это официальный документ, между прочим. | This is an official document, by the way. | #305: Документ, между прочим | verbatim |
+| 6 | Нина | Да вы же сами его хвалили! | Why, you yourself were praising him! | #308: Да вы же сами мне его нахваливали | verbatim |
+| 7 | Клавдия Викторовна | Беги скорее с Ваней мириться! | Run quickly to make peace with Vanya! | #311: Беги скорее с Ванькой, мирись | verbatim |
+| 8 | Нина | Вам надо, вы и миритесь. | If you need to, you go make peace. | #314: Вам надо, вы валяйтесь | verbatim |
+| 9 | Нина | Вечером придёт домой, как миленький. | Tonight he will come home, meek as a lamb. | #315: Вечером придет, как миленький | verbatim |
+| 10 | Клавдия Викторовна | Ну, моё дело — только предупредить. | Well, my job was only to warn you. | #316: Ну, мое дело предупредить | verbatim |
+| 11 | Нина | Оставьте меня все в покое! | Leave me in peace, all of you! | #319: Идите все в задницу<br>#320: Я не хочу никого видеть | adapted: cleaned crude slang to polite colloquial Russian |
+| 12 | Марина | Нина, у вас всё в порядке? | Nina, is everything alright with you? | #323: У вас все в порядке | verbatim |
+| 13 | Нина | Да, да, всё в порядке. | Yes, yes, everything is alright. | #324: Да, да, все в порядке | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

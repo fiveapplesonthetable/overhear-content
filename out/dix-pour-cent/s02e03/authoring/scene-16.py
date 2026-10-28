@@ -7,8 +7,7 @@ SCENE = 16
 TITLE = 'Retrouvailles au Grand Colbert  (Reunion at Grand Colbert)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'annick': 'emilie', 'mathias': 'marcel', 'lea': 'lucie'}
-LABELS = {'annick': 'Annick', 'mathias': 'Mathias', 'lea': 'Andréa'}
+LABELS = {'annick': 'Annick', 'camille': 'Camille', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e03.fr.dual.srt'
 INTRO = 'At Le Grand Colbert restaurant, Mathias finally arrives to meet Annick and their daughter Camille. Years of estrangement create palpable tension as the former couple exchange polite pleasantries and order drinks. Listen to the conversation in French first.'
@@ -18,12 +17,12 @@ OUTRO = 'Mathias and Annick attempt to bridge eight years of distance over coffe
 CLOSING = ('annick', 'Au revoir!')
 STORY = [
     ('annick', "J'ai besoin d'un verre. Garçon!", 'I need a drink. Waiter!', [(405, "J'ai besoin d'un verre. Garçon")], ''),
-    ('lea', 'Regarde maman, il est là.', 'Look Mom, he is here.', [(407, 'Il est là')], ''),
+    ('camille', 'Regarde maman, il est là.', 'Look Mom, he is here.', [(407, 'Il est là')], ''),
     ('annick', "Il n'a pas changé.", 'He has not changed.', [(408, "Il n'a pas changé")], ''),
-    ('lea', 'Toi non plus.', 'Neither have you.', [(408, 'Toi non plus')], ''),
+    ('camille', 'Toi non plus.', 'Neither have you.', [(408, 'Toi non plus')], ''),
     ('mathias', 'Bonjour Annick. Bonjour Camille.', 'Hello Annick. Hello Camille.', [(410, 'Bonjour')], ''),
     ('annick', 'Bonjour Mathias.', 'Hello Mathias.', [(410, 'Bonjour')], ''),
-    ('lea', "Vous n'allez pas vous serrer la main?", 'Are you not going to shake hands?', [(411, "Vous n'allez pas vous serrer la main")], ''),
+    ('camille', "Vous n'allez pas vous serrer la main?", 'Are you not going to shake hands?', [(411, "Vous n'allez pas vous serrer la main")], ''),
     ('mathias', 'Non, bien sûr que non.', 'No, of course not.', [(412, 'Non')], ''),
     ('annick', 'Asseyez-vous, Mathias.', 'Sit down, Mathias.', [(414, 'Asseyez-vous')], ''),
     ('annick', 'Un homme important doit être pressé.', 'An important man must be in a hurry.', [(414, 'Un homme important comme vous doit être pressé')], ''),

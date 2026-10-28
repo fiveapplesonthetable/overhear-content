@@ -4,18 +4,17 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 10
 SCENE = 24
-TITLE = "Горит на плите  (Burning on the Stove)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Горит на плите  (Burning on the Stove)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "fedya": "anja", "senya": "angelina"}
-LABELS = {"fedya": "Федя", "senya": "Сеня"}
+LABELS = {'fedya': 'Федя', 'senya': 'Сеня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.10'
 SOURCE_FILE = 'sources/kukhnya/s01/e10.ru.dual.srt'
 INTRO = "During the busy dinner rush in Claude Monet's kitchen, cook Fedya gets completely lost in thought while working the hot line. His partner Senya notices smoke pouring from a neglected frying pan and frantically screams at him to save the burning food. Let's listen to their conversation in Russian."
 OPENER = "Let's examine the dialogue sentence by sentence. Notice the frantic kitchen emergencies, cooking vocabulary, and colloquial admonishments."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Thanks to Senya's urgent alert, the kitchen crisis is averted and Fedya swiftly restarts the dinner ticket. Great work practicing conversational Russian! Next time you watch the episode, listen for the Russian expressions for 'dish' and 'fast' — you will catch every word right away. See you next time!"
-CLOSING = ("fedya", "Пока!")
+CLOSING = ('fedya', 'Пока!')
 STORY = [
     ('senya', 'Федя, ты что, совсем с ума сошёл?', 'Fedya, have you completely lost your mind?', [(183, 'Ты что, Гузик, охренел?')], ''),
     ('fedya', 'Что случилось, Сеня, почему ты так кричишь?', 'What happened, Senya, why are you shouting so?', [(184, 'Да, извини, Семкин')], ''),

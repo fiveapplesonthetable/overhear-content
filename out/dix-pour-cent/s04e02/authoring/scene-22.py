@@ -7,8 +7,7 @@ SCENE = 22
 TITLE = "Le départ de Dany Boon  (Dany Boon's Departure)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'elise': 'emilie', 'lea': 'lucie'}
-LABELS = {'elise': 'Élise', 'lea': 'Andréa'}
+LABELS = {'andrea': 'Andréa', 'elise': 'Élise'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e02.fr.dual.srt'
 INTRO = "Andrea questions Elise about the true motive behind her late-night visit, only for Elise to drop a devastating bombshell: Dany Boon is leaving ASK to join StarMedia. Mathias has orchestrated the defection, leaving Andrea reeling from the betrayal. Let's listen to the scene in French first."
@@ -17,19 +16,19 @@ TRANSITION = "Now let's listen to the entire dialogue once more."
 OUTRO = "Elise's bombshell about Dany Boon leaves Andrea facing a dangerous new war on two fronts. When you watch the episode, listen out for the expressions meaning 'come' and 'decided'. You'll catch them now. See you next time!"
 CLOSING = ('elise', 'Bonne soirée!')
 STORY = [
-    ('lea', "Tu n'es pas venue juste pour ça.", 'You did not come just for that.', [(1048, "tu n'es pas venue pour me dire ça")], ''),
+    ('andrea', "Tu n'es pas venue juste pour ça.", 'You did not come just for that.', [(1048, "tu n'es pas venue pour me dire ça")], ''),
     ('elise', 'Dany Boon a décidé de quitter ASK.', 'Dany Boon has decided to leave ASK.', [(1049, 'Dany Boon quitte ASK')], ''),
-    ('lea', "Pardon? Qu'est-ce que tu viens d'annoncer?", 'Excuse me? What did you just announce?', [(1050, 'Pardon ?')], ''),
+    ('andrea', "Pardon? Qu'est-ce que tu viens d'annoncer?", 'Excuse me? What did you just announce?', [(1050, 'Pardon ?')], ''),
     ('elise', 'Il me rejoint directement chez StarMédia.', 'He joins me directly at StarMedia.', [(1051, 'Il me rejoint chez StarMédia')], ''),
-    ('lea', "Tu bluffes, c'est totalement faux!", 'You are bluffing, that is totally false!', [(1052, 'Tu bluffes')], ''),
+    ('andrea', "Tu bluffes, c'est totalement faux!", 'You are bluffing, that is totally false!', [(1052, 'Tu bluffes')], ''),
     ('elise', 'Mathias Barneville a fait le nécessaire.', 'Mathias Barneville did what was needed.', [(1053, 'Mathias a fait le nécessaire')], ''),
-    ('lea', 'Mathias a négocié ce départ en cachette?', 'Did Mathias negotiate this departure in secret?', [(1053, 'Mathias a fait')], ''),
+    ('andrea', 'Mathias a négocié ce départ en cachette?', 'Did Mathias negotiate this departure in secret?', [(1053, 'Mathias a fait')], ''),
     ('elise', "Toi aussi, tu t'es fait avoir.", 'You were fooled too.', [(1055, "Toi aussi, tu t'es fait avoir")], ''),
-    ('lea', 'Tu voulais voir ma tête bouleversée?', 'Did you want to see my shocked face?', [(1056, 'Voir ma tête')], ''),
+    ('andrea', 'Tu voulais voir ma tête bouleversée?', 'Did you want to see my shocked face?', [(1056, 'Voir ma tête')], ''),
     ('elise', 'Non, je veux te faire une proposition.', 'No, I want to make you a proposal.', [(1057, 'Je voulais te faire une proposition')], ''),
-    ('lea', 'Quelle sorte de proposition malhonnête?', 'What kind of dishonest proposal?', [(1057, 'proposition')], ''),
+    ('andrea', 'Quelle sorte de proposition malhonnête?', 'What kind of dishonest proposal?', [(1057, 'proposition')], ''),
     ('elise', 'Nous devrions nous allier contre Mathias.', 'We should ally ourselves against Mathias.', [(1057, 'proposition')], ''),
-    ('lea', 'Je ne te ferai jamais confiance.', 'I will never trust you.', [(1057, 'proposition')], ''),
+    ('andrea', 'Je ne te ferai jamais confiance.', 'I will never trust you.', [(1057, 'proposition')], ''),
     ('elise', 'Réfléchis bien avant de refuser, Andréa.', 'Think carefully before refusing, Andrea.', [(1057, 'proposition')], ''),
 ]
 WALK = [

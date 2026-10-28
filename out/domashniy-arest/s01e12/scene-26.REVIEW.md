@@ -10,20 +10,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Пётр | Ты почему меня вовремя не предупредил? | Why did you not warn me in time? | #653 00:53:22: Ты почему меня в курс не ввел? | verbatim |
-| 2 | Губернатор | Действовать надо было очень быстро. | One had to act very quickly. | #656 00:53:30: Действовать надо было быстро, вот и... | verbatim |
-| 3 | Пётр | Ладно, ты всё равно большой молодец. | Alright, you did a great job anyway. | #658 00:53:38: Ладно, молодец. | verbatim |
-| 4 | Губернатор | Спасибо большое, мы очень старались. | Thank you very much, we tried very hard. | #660 00:53:41: Спасибо.<br>#663 00:53:48: Мы стараемся. | verbatim |
-| 5 | Пётр | Мне сейчас звонили из Белого дома. | They just called me from the White House. | #664 00:53:50: мне сейчас был звонок из Белого дома. | verbatim |
-| 6 | Пётр | Тебя всерьёз рассматривают на пост министра. | They are seriously considering you for the post of minister. | #665 00:53:57: Тебя рассматривают.<br>#669 00:54:03: На пост министра тебя рассматривают. | verbatim |
-| 7 | Губернатор | Какое именно министерство мне предлагают? | What ministry specifically are they offering me? | #670 00:54:08: Какого министра? | verbatim |
-| 8 | Пётр | Твой успех зависит только от тебя. | Your success depends only on you. | #672 00:54:16: Зависит от тебя. | verbatim |
-| 9 | Губернатор | Какие у меня реальные шансы? | What are my realistic chances? | #671 00:54:09: И какие у меня шансы? | verbatim |
-| 10 | Пётр | Ты должен срочно финансово обозначиться. | You must urgently make your financial move. | #673 00:54:17: Успеешь быстро обозначиться? | verbatim |
-| 11 | Губернатор | В каком объёме нужно платить? | In what amount must one pay? | #675 00:54:21: но в каком объеме? | verbatim |
-| 12 | Пётр | Сто пятьдесят миллионов будет нормально. | One hundred fifty million will be adequate. | #677 00:54:33: Сто пятьдесят.<br>#678 00:54:35: Вот. Нормальный объем. Правильный. | verbatim |
+| 1 | Пётр | Ты почему меня вовремя не предупредил? | Why did you not warn me in time? | #653: Ты почему меня в курс не ввел? | verbatim |
+| 2 | Губернатор | Действовать надо было очень быстро. | One had to act very quickly. | #656: Действовать надо было быстро, вот и... | verbatim |
+| 3 | Пётр | Ладно, ты всё равно большой молодец. | Alright, you did a great job anyway. | #658: Ладно, молодец. | verbatim |
+| 4 | Губернатор | Спасибо большое, мы очень старались. | Thank you very much, we tried very hard. | #660: Спасибо.<br>#663: Мы стараемся. | verbatim |
+| 5 | Пётр | Мне сейчас звонили из Белого дома. | They just called me from the White House. | #664: мне сейчас был звонок из Белого дома. | verbatim |
+| 6 | Пётр | Тебя всерьёз рассматривают на пост министра. | They are seriously considering you for the post of minister. | #665: Тебя рассматривают.<br>#669: На пост министра тебя рассматривают. | verbatim |
+| 7 | Губернатор | Какое именно министерство мне предлагают? | What ministry specifically are they offering me? | #670: Какого министра? | verbatim |
+| 8 | Пётр | Твой успех зависит только от тебя. | Your success depends only on you. | #672: Зависит от тебя. | verbatim |
+| 9 | Губернатор | Какие у меня реальные шансы? | What are my realistic chances? | #671: И какие у меня шансы? | verbatim |
+| 10 | Пётр | Ты должен срочно финансово обозначиться. | You must urgently make your financial move. | #673: Успеешь быстро обозначиться? | verbatim |
+| 11 | Губернатор | В каком объёме нужно платить? | In what amount must one pay? | #675: но в каком объеме? | verbatim |
+| 12 | Пётр | Сто пятьдесят миллионов будет нормально. | One hundred fifty million will be adequate. | #677: Сто пятьдесят.<br>#678: Вот. Нормальный объем. Правильный. | verbatim |
 | 13 | Губернатор | Я сейчас же найду эти деньги. | I will find this money right now. | new | new |
-| 14 | Пётр | Без нужных денег министерского портфеля нет. | Without the necessary money there is no ministerial portfolio. | #680 00:54:43: ну на нет и портфеля нет. | verbatim |
+| 14 | Пётр | Без нужных денег министерского портфеля нет. | Without the necessary money there is no ministerial portfolio. | #680: ну на нет и портфеля нет. | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

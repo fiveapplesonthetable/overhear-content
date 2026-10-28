@@ -4,33 +4,32 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 14
 SCENE = 20
-TITLE = "Сосед из Парижа  (A Neighbor from Paris)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Сосед из Парижа  (A Neighbor from Paris)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "chef": "anja", "nagiyev": "angelina"}
-LABELS = {"chef": "Шеф", "nagiyev": "Нагиев"}
+LABELS = {'barinov': 'Шеф', 'jacques': 'Жак', 'nagiyev': 'Нагиев'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.14'
 SOURCE_FILE = 'sources/kukhnya/s01/e14.ru.dual.srt'
 INTRO = 'Chef Victor wants to impress someone with his French friend Jacques. Jacques mumbles in French and tries to kiss Victor. Victor stops him and offers him some food first. Let us listen to their conversation in Russian first.'
 OPENER = 'Now let us examine the conversation line by line.'
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Chef Victor wants to impress someone with his French friend Jacques. Jacques mumbles in French and tries to kiss Victor. Victor stops him and offers him some food first. Next time you watch the episode, listen for the Russian expressions for 'to give' and 'to try' — you will catch every word right away. See you next time!"
-CLOSING = ("chef", "Пока!")
+CLOSING = ('barinov', 'Пока!')
 STORY = [
-    ('chef', 'Давайте мы попробуем это.', "Let's try this.", [(283, 'давайте попробуем.')], ''),
-    ('chef', 'Жак, ты где?', 'Jacques, where are you?', [(284, 'Жак!')], ''),
-    ('chef', 'Я здесь, я иду!', 'I am here, I am coming!', [(285, 'Жак! Несу, несу!')], ''),
+    ('barinov', 'Давайте мы попробуем это.', "Let's try this.", [(283, 'давайте попробуем.')], ''),
+    ('barinov', 'Жак, ты где?', 'Jacques, where are you?', [(284, 'Жак!')], ''),
+    ('jacques', 'Я здесь, я иду!', 'I am here, I am coming!', [(285, 'Жак! Несу, несу!')], ''),
     ('nagiyev', 'А вы кто такой?', 'And who are you?', [(288, 'А вы кто? Сосед.')], ''),
-    ('chef', 'Он мой сосед.', 'He is my neighbor.', [(288, 'Сосед.')], ''),
+    ('barinov', 'Он мой сосед.', 'He is my neighbor.', [(288, 'Сосед.')], ''),
     ('nagiyev', 'Представляешь, мы жили в Париже.', 'Can you imagine, we lived in Paris.', [(290, 'Его. Представляешь, мы с ним жили в Париже на соседних улицах.')], ''),
-    ('chef', 'Подожди, мы не будем целоваться.', 'Wait, we are not going to kiss.', [(293, 'Подожди, целоваться.')], ''),
-    ('chef', 'Сначала надо закусить.', 'First we need to have a bite.', [(294, 'Сначала закусить.')], ''),
-    ('chef', 'На, попробуй это.', 'Here, try this.', [(295, 'На, попробуй.')], ''),
-    ('chef', 'Это очень вкусно.', 'This is very delicious.', [(296, 'Очень вкусно.')], ''),
+    ('barinov', 'Подожди, мы не будем целоваться.', 'Wait, we are not going to kiss.', [(293, 'Подожди, целоваться.')], ''),
+    ('barinov', 'Сначала надо закусить.', 'First we need to have a bite.', [(294, 'Сначала закусить.')], ''),
+    ('barinov', 'На, попробуй это.', 'Here, try this.', [(295, 'На, попробуй.')], ''),
+    ('jacques', 'Это очень вкусно.', 'This is very delicious.', [(296, 'Очень вкусно.')], ''),
     ('nagiyev', 'Он говорит, что это вкусно?', 'He says that it is delicious?', [], ''),
-    ('chef', 'Да, ему очень нравится.', 'Yes, he likes it very much.', [], ''),
-    ('chef', 'Спасибо, мой дорогой друг.', 'Thank you, my dear friend.', [], ''),
-    ('chef', 'Пожалуйста, кушай на здоровье.', 'You are welcome, eat to your health.', [], ''),
+    ('barinov', 'Да, ему очень нравится.', 'Yes, he likes it very much.', [], ''),
+    ('jacques', 'Спасибо, мой дорогой друг.', 'Thank you, my dear friend.', [], ''),
+    ('barinov', 'Пожалуйста, кушай на здоровье.', 'You are welcome, eat to your health.', [], ''),
 ]
 WALK = [
     (0, None, "'Let's try this.' Chef Barinov leads with the direct command form meaning 'let's', followed by 'try'."),

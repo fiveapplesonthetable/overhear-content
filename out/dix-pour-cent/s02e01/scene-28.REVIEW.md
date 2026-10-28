@@ -1,34 +1,49 @@
-# Review: `dix-pour-cent-s02e01-scene-28` — Le départ pour StarMedia  (Leaving for StarMedia)
+# dix-pour-cent-s02e01-scene-28: review sheet
 
-- **Source**: `sources/dix-pour-cent/s02/e01.fr.dual.srt`
-- **Level**: A1 — débutant
-- **Voices**: `{"narrator": "sky", "ramzy": "theo", "virginie": "emilie", "mathias": "marcel"}`
-- **Labels**: `{"ramzy": "Ramzy", "virginie": "Virginie", "mathias": "Mathias"}`
+Title: Le départ pour StarMedia  (Leaving for StarMedia)
+Level: A1 — débutant
+Pair: fr-en
+Source: Dix pour cent (Call My Agent!) S02E01
 
-## Part 1 — Intro
-> Back at the ASK offices after their televised reconciliation, Virginie Efira and Ramzy Bedia visit Mathias Barneville in his corner office. Returning his personal gift, the reunited couple drop a bombshell on their veteran agent: because of his manipulative contracts, they are leaving the agency for their rival, StarMédia. Listen to the scene in French first. Don't worry about catching every word.
 
-## Part 2 — Story Lines
-| # | Role | French | English | Source Cues |
-|---|------|--------|---------|-------------|
-| 0 | `mathias` (Mathias) | Asseyez-vous. | Sit down. | 854:Asseyez-vous |
-| 1 | `virginie` (Virginie) | Bonjour, Mathias. J'ai quelque chose pour vous. | Hello, Mathias. I have something for you. | 854:Bonjour, Mathias, 855:J'ai quelque chose pour vous |
-| 2 | `ramzy` (Ramzy) | Ça aurait été dommage de le jeter. | It would have been a shame to throw it away. | 857:Ça aurait été dommage de le jeter |
-| 3 | `mathias` (Mathias) | Quel plaisir de vous voir ensemble. | What a pleasure to see you together. | 859:Quel plaisir de vous voir ensemble |
-| 4 | `ramzy` (Ramzy) | On en a longuement discuté. | We discussed it at length. | 860:on en a longuement discuté |
-| 5 | `virginie` (Virginie) | On a décidé de repartir de zéro. | We decided to start from scratch. | 861:On a décidé de repartir de zéro |
-| 6 | `ramzy` (Ramzy) | Pour nous, ça implique des changements. Changer d'agent. | For us, that implies changes. Changing agents. | 863:Pour nous, ça implique des changements, 864:Changer d'agent |
-| 7 | `virginie` (Virginie) | Mathias, il y a eu beaucoup de mensonges. | Mathias, there were many lies. | 866:Mathias, il y a eu beaucoup de mensonges |
-| 8 | `mathias` (Mathias) | De quoi parlez-vous exactement? | What exactly are you talking about? | 869:De quoi parlez-vous exactement |
-| 9 | `ramzy` (Ramzy) | Du deuxième contrat. | About the second contract. | 870:Du deuxième contrat |
-| 10 | `virginie` (Virginie) | Surtout, vous en savez trop sur nous. | Above all, you know too much about us. | 874:Surtout, vous en savez trop sur nous |
-| 11 | `ramzy` (Ramzy) | Et nous avons besoin d'une relation nouvelle. | And we need a new relationship. | 875:et nous avons besoin d'une relation nouvelle |
-| 12 | `virginie` (Virginie) | On est vraiment désolés, bien sûr. | We are really sorry, of course. | 877:On est vraiment désolés, bien sûr |
-| 13 | `mathias` (Mathias) | Bon, écoutez, c'est votre décision. | Well, listen, it | 878:Bon, écoutez, 879:c'est votre décision |
-| 14 | `mathias` (Mathias) | Puis-je savoir où vous allez? | May I know where you are going? | 880:Puis-je savoir où vous allez |
-| 15 | `ramzy` (Ramzy) | StarMedia. | We are going to StarMédia. | 881:StarMedia |
-| 16 | `virginie` (Virginie) | On vous laisse, Mathias. À bientôt. | We | 882:On vous laisse, Mathias, 886:À bientôt |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 5 — Outro & Closing
-> Losing Virginie and Ramzy to StarMédia is a devastating blow for Mathias and a terrible start to the new year for ASK. See you next time!
-- **Closing**: `ramzy`: *Au revoir!*
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+|---|---|---|---|---|---|
+| 1 | Mathias | Asseyez-vous. | Sit down. | #854: Asseyez-vous | verbatim |
+| 2 | Virginie | Bonjour, Mathias. J'ai quelque chose pour vous. | Hello, Mathias. I have something for you. | #854: Bonjour, Mathias<br>#855: J'ai quelque chose pour vous | verbatim |
+| 3 | Ramzy | Ça aurait été dommage de le jeter. | It would have been a shame to throw it away. | #857: Ça aurait été dommage de le jeter | verbatim |
+| 4 | Mathias | Quel plaisir de vous voir ensemble. | What a pleasure to see you together. | #859: Quel plaisir de vous voir ensemble | verbatim |
+| 5 | Ramzy | On en a longuement discuté. | We discussed it at length. | #860: on en a longuement discuté | verbatim |
+| 6 | Virginie | On a décidé de repartir de zéro. | We decided to start from scratch. | #861: On a décidé de repartir de zéro | verbatim |
+| 7 | Ramzy | Pour nous, ça implique des changements. Changer d'agent. | For us, that implies changes. Changing agents. | #863: Pour nous, ça implique des changements<br>#864: Changer d'agent | verbatim |
+| 8 | Virginie | Mathias, il y a eu beaucoup de mensonges. | Mathias, there were many lies. | #866: Mathias, il y a eu beaucoup de mensonges | verbatim |
+| 9 | Mathias | De quoi parlez-vous exactement? | What exactly are you talking about? | #869: De quoi parlez-vous exactement | verbatim |
+| 10 | Ramzy | Du deuxième contrat. | About the second contract. | #870: Du deuxième contrat | verbatim |
+| 11 | Virginie | Surtout, vous en savez trop sur nous. | Above all, you know too much about us. | #874: Surtout, vous en savez trop sur nous | verbatim |
+| 12 | Ramzy | Et nous avons besoin d'une relation nouvelle. | And we need a new relationship. | #875: et nous avons besoin d'une relation nouvelle | verbatim |
+| 13 | Virginie | On est vraiment désolés, bien sûr. | We are really sorry, of course. | #877: On est vraiment désolés, bien sûr | verbatim |
+| 14 | Mathias | Bon, écoutez, c'est votre décision. | Well, listen, it | #878: Bon, écoutez<br>#879: c'est votre décision | verbatim |
+| 15 | Mathias | Puis-je savoir où vous allez? | May I know where you are going? | #880: Puis-je savoir où vous allez | verbatim |
+| 16 | Ramzy | StarMedia. | We are going to StarMédia. | #881: StarMedia | verbatim |
+| 17 | Virginie | On vous laisse, Mathias. À bientôt. | We | #882: On vous laisse, Mathias<br>#886: À bientôt | verbatim |
+
+## Walk-through narration (English only, no target-language words quoted)
+
+- 'Sit down.' Mathias politely invites his star clients in to the office.
+- 'Hello, Mathias. I have something for you.' Virginie places Mathias's unopened gift back on his desk.
+- 'It would have been a shame to throw it away.' Notice how the verb for 'would have' leads straight into 'a shame'.
+- 'What a pleasure to see you together.' Mathias smiles, unaware of what is coming.
+- 'We discussed it at length.' The adverb meaning 'at length' sharpens the verb for 'have' here.
+- 'We decided to start from scratch.' Virginie opens with the word for 'have' and lands on 'zero' at the close.
+- 'For us, that implies changes. Changing agents.' Ramzy delivers the shocking news directly.
+- 'Mathias, there were many lies.' The key word here means 'has', paired with 'lies' to make the point clear.
+- 'What exactly are you talking about?' Mathias tries to feign innocence.
+- 'About the second contract.' Ramzy cites the secret wage clause Mathias negotiated behind Virginie's back.
+- 'Above all, you know too much about us.' Virginie opens with the word for 'above all' and lands on 'too much' at the close.
+- 'And we need a new relationship.' Ramzy opens with the word for 'have' and lands on 'new' at the close.
+- 'We are really sorry, of course.' Virginie softens the blow with polite regret.
+- 'Well, listen, it's your decision.' Mathias accepts their departure with tight-lipped resignation.
+- 'May I know where you are going?' The inversion 'may I' is a formal way to ask permission.
+- 'We are going to StarMédia.' Ramzy names the fiercest corporate rival of ASK.
+- 'We'll leave you, Mathias. See you soon.' The key word here means 'leave', paired with 'soon' to make the point clear.

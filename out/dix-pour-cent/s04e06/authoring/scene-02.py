@@ -7,15 +7,14 @@ SCENE = 2
 TITLE = 'Un bateau qui coule  (A Sinking Ship)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'mathias': 'marcel', 'gabriel': 'theo', 'lea': 'lucie'}
-LABELS = {'mathias': 'Mathias', 'gabriel': 'Gabriel', 'lea': 'Andréa'}
+LABELS = {'andrea': 'Andréa', 'gabriel': 'Gabriel', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e06.fr.dual.srt'
 INTRO = "At the ASK agency, the entire team is panicking over the impending bankruptcy following the loss of most of their talents. As tensions run high, Gabriel compares the failing agency to a famous doomed ocean liner. Let's listen to their conversation in French first."
 OPENER = "Let's explore the chaotic panic at the agency line by line."
 TRANSITION = "Now let's listen to the sinking ship comparison once more from start to finish."
 OUTRO = "That's it for this scene around a sinking ship. When you watch the episode, listen out for the expressions meaning 'to be' and 'court'. You'll catch them now. See you next time!"
-CLOSING = ('lea', 'À demain!')
+CLOSING = ('andrea', 'À demain!')
 STORY = [
     ('mathias', "On n'est pas encore au tribunal.", 'FIXME translation', [(59, "On n'est pas encore au tribunal, de quoi vous parlez?")], ''),
     ('gabriel', 'Demandez à la mère de Camille!', 'FIXME translation', [(60, 'Demandez à la mère de Camille!')], ''),
@@ -28,8 +27,8 @@ STORY = [
     ('mathias', "J'attends juste Andréa.", 'FIXME translation', [(73, "J'attends juste Andréa.")], ''),
     ('mathias', "Quelqu'un sait où elle est?", 'FIXME translation', [(73, "Quelqu'un sait où elle est?")], ''),
     ('gabriel', "On a foncé droit sur l'iceberg.", 'FIXME translation', [(80, "On a foncé droit sur l'iceberg, on coule.")], ''),
-    ('lea', 'On se croirait à la morgue, ici.', 'FIXME translation', [(84, 'On se croirait à la morgue, ici.')], ''),
-    ('lea', "Quel est votre plan pour sauver l'agence?", 'FIXME translation', [(87, "Quel est votre plan pour sauver l'agence?")], ''),
+    ('andrea', 'On se croirait à la morgue, ici.', 'FIXME translation', [(84, 'On se croirait à la morgue, ici.')], ''),
+    ('andrea', "Quel est votre plan pour sauver l'agence?", 'FIXME translation', [(87, "Quel est votre plan pour sauver l'agence?")], ''),
     ('mathias', 'On peut arrêter de dire ça?', 'FIXME translation', [(92, 'On peut arrêter de dire ça? Certains sont superstitieux. Merci!')], ''),
 ]
 WALK = [

@@ -1,41 +1,43 @@
-# Шанс остаться  (A Chance to Stay) — `kukhnya-s01e04-scene-24`
+# kukhnya-s01e04-scene-24: review sheet
 
-**Source:** Кухня (Kukhnya) S1.04 · `sources/kukhnya/s01/e04.ru.dual.srt`  
-**Target level:** A1 — Duolingo Section 2
+Title: Шанс остаться  (A Chance to Stay)
+Level: A1 — Duolingo Section 2
+Pair: ru-en
+Source: Кухня (Kukhnya) S1.04
 
-## Cast
 
-| Role | Voice | Label |
-|---|---|---|
-| `narrator` | sky | — |
-| `anya` | alisa | Макс |
-| `vika` | angelina | Вика |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 1 — Intro
-
-> Outside Claude Monet, Vika catches up with Max as he prepares to leave the restaurant for good. To his immense relief, Vika reveals that she intervened with Chef Barinov and secured him a second chance.
-
-## Part 2 — Story
-
-| # | Speaker | Line | English | Source cue(s) | Change |
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 0 | Вика | Макс, подожди минуту! | Max, wait a minute! | #331 "Макс!" |  |
-| 1 | Макс | Вика? Что случилось? | Vika? What happened? | *(added)* |  |
-| 2 | Вика | Ты никуда не уходишь. | You are not leaving anywhere. | *(added)* |  |
-| 3 | Макс | Но шеф только что меня уволил. | But the chef just fired me. | *(added)* |  |
-| 4 | Вика | Я поговорила с шефом. | I spoke with the chef. | *(added)* |  |
-| 5 | Макс | И что он тебе сказал? | And what did he tell you? | *(added)* |  |
-| 6 | Вика | Он разрешил тебе остаться на кухне. | He allowed you to stay in the kitchen. | *(added)* |  |
-| 7 | Макс | Правда? Ты меня спасла! | Really? You saved me! | *(added)* |  |
-| 8 | Вика | Только больше не совершай глупых ошибок. | Just do not make stupid mistakes anymore. | *(added)* |  |
-| 9 | Макс | Обещаю, я буду работать очень старательно. | I promise, I will work very diligently. | *(added)* |  |
-| 10 | Вика | Возвращайся на свое рабочее место. | Return to your work station. | *(added)* |  |
-| 11 | Макс | Спасибо огромное за твою помощь, Вика! | Thank you very much for your help, Vika! | *(added)* |  |
-| 12 | Вика | Иди, пока шеф не передумал. | Go, before the chef changes his mind. | *(added)* |  |
-| 13 | Макс | У меня появился второй шанс! | I got a second chance! | *(added)* |  |
+| 1 | Вика | Макс, подожди минуту! | Max, wait a minute! | #331: Макс! | verbatim |
+| 2 | Макс | Вика? Что случилось? | Vika? What happened? | new | new |
+| 3 | Вика | Ты никуда не уходишь. | You are not leaving anywhere. | new | new |
+| 4 | Макс | Но шеф только что меня уволил. | But the chef just fired me. | new | new |
+| 5 | Вика | Я поговорила с шефом. | I spoke with the chef. | new | new |
+| 6 | Макс | И что он тебе сказал? | And what did he tell you? | new | new |
+| 7 | Вика | Он разрешил тебе остаться на кухне. | He allowed you to stay in the kitchen. | new | new |
+| 8 | Макс | Правда? Ты меня спасла! | Really? You saved me! | new | new |
+| 9 | Вика | Только больше не совершай глупых ошибок. | Just do not make stupid mistakes anymore. | new | new |
+| 10 | Макс | Обещаю, я буду работать очень старательно. | I promise, I will work very diligently. | new | new |
+| 11 | Вика | Возвращайся на свое рабочее место. | Return to your work station. | new | new |
+| 12 | Макс | Спасибо огромное за твою помощь, Вика! | Thank you very much for your help, Vika! | new | new |
+| 13 | Вика | Иди, пока шеф не передумал. | Go, before the chef changes his mind. | new | new |
+| 14 | Макс | У меня появился второй шанс! | I got a second chance! | new | new |
 
-## Part 5 — Outro & closing
+## Walk-through narration (English only, no target-language words quoted)
 
-> With a second chance in hand, Max returns to the kitchen ready to prove himself. Next time you watch the episode, listen for the Russian expressions for 'more' and 'to be' — you will catch every word right away. See you next time!
-
-**Макс:** Пока!
+- 'Max, wait a minute!' Vika rushes out to stop Max before he leaves.
+- 'Vika? What happened?' Max turns around in surprise with his packed bag.
+- 'You are not leaving anywhere.' The dining room director delivers the surprising news.
+- 'But the chef just fired me.' Max expresses this naturally by combining the word for 'boss' with 'to fire'.
+- 'I spoke with the chef.' Vika reveals that she intervened on his behalf.
+- 'And what did he tell you?' Max delivers a punchy one-word reaction built around the Russian word meaning 'to say'.
+- 'He allowed you to stay in the kitchen.' Vika uses the action verb meaning 'to allow' to focus on the single completed result, pairing it with 'to remain' and 'kitchen'.
+- 'Really? You saved me!' Max expresses this naturally by combining the word for 'truth' with 'to save'.
+- 'Just do not make stupid mistakes anymore.' Vika puts the word for 'more' together with 'to commit' and 'stupid' in a crisp, natural spoken turn of phrase.
+- 'I promise, I will work very diligently.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'Return to your work station.' Vika instructs him to get back to the kitchen.
+- 'Thank you very much for your help, Vika!' Russian omits the present-tense verb 'to be' here, linking 'thank you' directly with 'huge', combining 'thank you' with 'huge' and 'help'.
+- 'Go, before the chef changes his mind.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'I got a second chance!' Max celebrates his narrow escape from being fired.

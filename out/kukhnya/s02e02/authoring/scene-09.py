@@ -4,32 +4,31 @@ SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 2
 SCENE = 9
-TITLE = "Бездомные  (The Homeless)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Бездомные  (The Homeless)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "anya": "alisa", "kostya": "anja"}
-LABELS = {"anya": "Макс", "kostya": "Костя"}
+LABELS = {'kostya': 'Костя', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S2.02'
 SOURCE_FILE = 'sources/kukhnya/s02/e02.ru.dual.srt'
 INTRO = "Kostya and Max are getting ready to distribute food to the homeless. A colleague makes a snarky comment. Let's listen closely to their exchange in Russian first, and then walk through each line together."
 OPENER = "Now let's go back through the exchange around The Homeless line by line and unpack how the Russian works."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Kostya and Max are getting ready to distribute food to the homeless. Next time you watch the episode, listen for the Russian expressions for 'ready' and 'let's go' — you will catch every word right away. See you next time!"
-CLOSING = ("anya", "До свидания!")
+CLOSING = ('max', 'До свидания!')
 STORY = [
     ('kostya', 'Все, я готов.', 'All right, I am ready.', [(158, 'Все, я готов')], ''),
     ('kostya', 'Пойдем.', "Let's go.", [(159, 'Пойдем')], ''),
-    ('anya', 'Все, давайте.', 'All right, see you.', [(159, 'Все, давайте')], ''),
-    ('anya', 'Привет бомжам.', 'Say hi to the bums.', [(160, 'Привет бомжам')], ''),
+    ('max', 'Все, давайте.', 'All right, see you.', [(159, 'Все, давайте')], ''),
+    ('max', 'Привет бомжам.', 'Say hi to the bums.', [(160, 'Привет бомжам')], ''),
     ('kostya', 'Не бомжам, а бездомным.', 'Not bums, but homeless.', [(160, 'не бомжам, а бездомным')], ''),
-    ('anya', 'Смотрите.', 'Look.', [(161, 'Смотрите')], ''),
-    ('anya', 'Заразу не принесите в дом.', 'Do not bring infection home.', [(161, 'заразу'), (161, 'не принесите в дом')], ''),
+    ('max', 'Смотрите.', 'Look.', [(161, 'Смотрите')], ''),
+    ('max', 'Заразу не принесите в дом.', 'Do not bring infection home.', [(161, 'заразу'), (161, 'не принесите в дом')], ''),
     ('kostya', 'От кого?', 'From whom?', [], ''),
-    ('anya', 'От бездомных.', 'From the homeless.', [(162, 'От бездомных')], ''),
+    ('max', 'От бездомных.', 'From the homeless.', [(162, 'От бездомных')], ''),
     ('kostya', 'Мы будем осторожны.', 'We will be careful.', [], ''),
-    ('anya', 'Надеюсь.', 'I hope.', [], ''),
+    ('max', 'Надеюсь.', 'I hope.', [], ''),
     ('kostya', 'До вечера.', 'Until evening.', [], ''),
-    ('anya', 'Пока.', 'Bye.', [], ''),
+    ('max', 'Пока.', 'Bye.', [], ''),
 ]
 WALK = [
     (0, None, "'All right, I am ready.' Kostya delivers a punchy one-word reaction built around the Russian word meaning 'ready'."),

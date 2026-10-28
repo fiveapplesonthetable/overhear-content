@@ -7,30 +7,29 @@ SCENE = 14
 TITLE = 'Le faux casting de James Bond  (The Fake James Bond Casting)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'lea': 'lucie', 'gabriel': 'theo', 'mathias': 'marcel'}
-LABELS = {'lea': 'Andréa', 'gabriel': 'Gabriel', 'mathias': 'Mathias'}
+LABELS = {'andrea': 'Andréa', 'gabriel': 'Gabriel', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e02.fr.dual.srt'
 INTRO = "They decide to use actress Linda Gérard to pose as the legendary James Bond casting director and trick Fabrice into believing his agent failed him. Listen to the scene in French first. Don't worry about catching every word. Let's listen to the scene in French first."
 OPENER = "Let's walk through the conversation step by step."
 TRANSITION = 'Now listen to the whole scene again at normal speed, and see how much more you catch.'
 OUTRO = 'With their outrageous plan set in motion, the agents prepare Linda Gérard for the role of her life. Listen to the scene once more to reinforce your mastery of conversational French. See you next time!'
-CLOSING = ('lea', 'Bonne soirée!')
+CLOSING = ('andrea', 'Bonne soirée!')
 STORY = [
     ('gabriel', "Alors Andréa, comment s'est passé le rendez-vous?", 'So Andréa, how did the meeting go?', [(451, "Alors, t'en es où")], ''),
-    ('lea', 'Il a campé sur ses positions.', 'He dug his heels in.', [(453, 'Il a campé sur ses positions')], ''),
+    ('andrea', 'Il a campé sur ses positions.', 'He dug his heels in.', [(453, 'Il a campé sur ses positions')], ''),
     ('mathias', 'Il faut discréditer son agent Bréhier.', 'We must discredit his agent Bréhier.', [(464, 'Maintenant il faut discréditer Bréhier')], ''),
     ('gabriel', "Qu'est-ce qui manque à Fabrice?", 'What does Fabrice lack?', [(466, "Qu'est-ce qui manque à Luchini")], ''),
     ('mathias', 'Une carrière internationale dans James Bond.', 'An international career in James Bond.', [(468, 'Une carrière internationale'), (469, 'un méchant dans James Bond')], ''),
-    ('lea', 'Il rêve de jouer un méchant!', 'He dreams of playing a villain!', [(469, "J'ai lu qu'il rêvait de jouer un méchant")], ''),
+    ('andrea', 'Il rêve de jouer un méchant!', 'He dreams of playing a villain!', [(469, "J'ai lu qu'il rêvait de jouer un méchant")], ''),
     ('gabriel', 'Faisons croire que Bréhier a raté ce contrat.', 'Let', [(471, 'Bréhier a raté le contrat')], ''),
     ('mathias', "La directrice s'appelle Debbie MacWilliams.", 'The casting director is called Debbie MacWilliams.', [(477, "Elle s'appelle Debbie MacWilliams")], ''),
-    ('lea', 'Est-ce que Fabrice la connaît personnellement?', 'Does Fabrice know her personally?', [(480, 'Luchini la connaît')], ''),
+    ('andrea', 'Est-ce que Fabrice la connaît personnellement?', 'Does Fabrice know her personally?', [(480, 'Luchini la connaît')], ''),
     ('gabriel', "Non, il ne l'a jamais vue.", 'No, he has never seen her.', [(481, 'Je pourrais savoir')], ''),
-    ('lea', 'Notre actrice Linda Gérard lui ressemble.', 'Our actress Linda Gérard looks like her.', [(486, 'Une de mes actrices, Linda Gérard')], ''),
+    ('andrea', 'Notre actrice Linda Gérard lui ressemble.', 'Our actress Linda Gérard looks like her.', [(486, 'Une de mes actrices, Linda Gérard')], ''),
     ('gabriel', "Elle parle parfaitement anglais avec l'accent.", 'She speaks English perfectly with the accent.', [(487, 'Elle est à moitié écossaise')], ''),
     ('mathias', 'Envoyer une fausse directrice de casting?', 'Send a fake casting director?', [(488, "On n'envoie pas une fausse Debbie MacWilliams")], ''),
-    ('lea', "C'est notre seule chance de réussir!", 'It is our only chance to succeed!', [(491, 'Ça pourrait marcher')], ''),
+    ('andrea', "C'est notre seule chance de réussir!", 'It is our only chance to succeed!', [(491, 'Ça pourrait marcher')], ''),
     ('mathias', "D'accord, mais restons très discrets.", 'All right, but let us stay very discreet.', [(492, 'Vous êtes tous fous')], ''),
 ]
 WALK = [

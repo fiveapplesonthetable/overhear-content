@@ -4,31 +4,30 @@ SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 2
 SCENE = 2
-TITLE = "Новый сушист  (The New Sushi Chef)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Новый сушист  (The New Sushi Chef)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "chef": "anja", "ainura": "angelina"}
-LABELS = {"chef": "Шеф", "ainura": "Айнура"}
+LABELS = {'ainura': 'Айнура', 'barinov': 'Шеф', 'senya': 'Сеня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S2.02'
 SOURCE_FILE = 'sources/kukhnya/s02/e02.ru.dual.srt'
 INTRO = "Focused on the new sushi chef, The Chef discovers a strange new person in the kitchen who doesn't speak Russian well. He asks Aynura about him. Let's listen closely to Ainura and Chef Viktor's exchange in Russian first, and then walk through each line together."
 OPENER = 'Now let us examine the conversation line by line.'
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "The Chef discovers a strange new person in the kitchen who doesn't speak Russian well. He asks Aynura about him. Next time you watch the episode, listen for the Russian expressions for 'to smile' and 'to give' — you will catch every word right away. See you next time!"
-CLOSING = ("chef", "Пока!")
+CLOSING = ('barinov', 'Пока!')
 STORY = [
-    ('chef', 'Ты кто такой?', 'Who are you?', [(32, 'Ты кто такой?')], ''),
-    ('chef', 'Что ты улыбаешься?', 'What are you smiling at?', [(33, 'Что ты улыбаешься?')], ''),
-    ('chef', 'Давай, отвечай.', 'Come on, answer.', [(33, 'Давай, отвечай.')], ''),
-    ('chef', 'Айнура, это японец?', 'Aynura, is this a Japanese person?', [(34, 'Айнура, это что, реальные японецы')], ''),
+    ('barinov', 'Ты кто такой?', 'Who are you?', [(32, 'Ты кто такой?')], ''),
+    ('barinov', 'Что ты улыбаешься?', 'What are you smiling at?', [(33, 'Что ты улыбаешься?')], ''),
+    ('barinov', 'Давай, отвечай.', 'Come on, answer.', [(33, 'Давай, отвечай.')], ''),
+    ('barinov', 'Айнура, это японец?', 'Aynura, is this a Japanese person?', [(34, 'Айнура, это что, реальные японецы')], ''),
     ('ainura', 'Нет.', 'No.', [(35, 'Не,')], ''),
     ('ainura', 'Он не наш.', 'He is not ours.', [(36, 'не наш.')], ''),
-    ('chef', 'Слушай, ты перепутал.', 'Listen, you made a mistake.', [(37, 'Слышь, Бехада, ты перепутал.')], ''),
-    ('chef', 'Суши делают рядом.', 'They make sushi next door.', [(38, 'Суши делают в соседнем ресторане.')], ''),
-    ('ainura', 'Шеф, это новый повар.', 'Chef, this is the new cook.', [], ''),
-    ('chef', 'Какой повар?', 'What cook?', [], ''),
-    ('ainura', 'Он будет делать суши.', 'He will make sushi.', [], ''),
-    ('chef', 'Иди отсюда.', 'Get out of here.', [(39, 'Давай, дуй отсюда.')], ''),
+    ('barinov', 'Слушай, ты перепутал.', 'Listen, you made a mistake.', [(37, 'Слышь, Бехада, ты перепутал.')], ''),
+    ('barinov', 'Суши делают рядом.', 'They make sushi next door.', [(38, 'Суши делают в соседнем ресторане.')], ''),
+    ('senya', 'Шеф, это новый повар.', 'Chef, this is the new cook.', [], ''),
+    ('barinov', 'Какой повар?', 'What cook?', [], ''),
+    ('senya', 'Он будет делать суши.', 'He will make sushi.', [], ''),
+    ('barinov', 'Иди отсюда.', 'Get out of here.', [(39, 'Давай, дуй отсюда.')], ''),
 ]
 WALK = [
     (0, None, "'Who are you?' Russian omits the present-tense verb 'to be' here, linking 'you' directly with 'who', combining 'you' with 'who' and 'such'."),

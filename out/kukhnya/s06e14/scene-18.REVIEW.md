@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Шеф | Доченька, я сегодня так рад за тебя! | My daughter, I am so happy for you today! | #254 00:20:40: Доченька, я так рад за тебя | adapted: adapted |
-| 2 | Катя | Смотри, она пришла в таком же платье. | Look, she came in the exact same dress. | #255 00:20:47: Я в таком же пришла | adapted: adapted |
-| 3 | Шеф | Не обращай внимания, идём скорее к гостям. | Do not pay attention, let us go quickly to the guests. | #256 00:20:52: Идем | adapted: adapted |
-| 4 | Катя | Подожди, папа, а как же Денис? | Wait, Dad, what about Denis? | #258 00:20:57: А как же Денис | adapted: adapted |
-| 5 | Шеф | Ну зачем тебе нужен этот бедный парень? | Why do you need that poor guy? | #260 00:21:00: Ну зачем тебе этот | adapted: adapted |
-| 6 | Шеф | Сегодня в океан жизни отправляется ваша семья. | Today your family sets sail into the ocean of life. | #261 00:21:09: Сегодня<br>#262 00:21:11: В океан жизни отправляется | adapted: adapted |
-| 7 | Шеф | Пускай все бури и штормы обойдут вас. | May all storms and tempests pass you by. | #263 00:21:16: Пускай бури и штормы | adapted: adapted |
-| 8 | Катя | Спасибо, я всё очень хорошо поняла. | Thank you, I understood everything very well. | #264 00:21:22: Я поняла | adapted: adapted |
-| 9 | Шеф | Если кто-то против брака, пусть скажет сейчас. | If anyone is against the marriage, let them speak now. | #265 00:21:24: Если кто-то против этого брака, пусть скажет | adapted: adapted |
-| 10 | Шеф | Подождите, я категорически против этой свадьбы! | Wait, I am categorically against this wedding! | #266 00:21:30: Я против | adapted: adapted |
-| 11 | Шеф | Да не слушайте вы этого странного парня! | Do not listen to that strange guy! | #267 00:21:32: Да не слушайте его | adapted: adapted |
-| 12 | Катя | Нет, подождите, я хочу его выслушать! | No, wait, I want to hear him out! | #259 00:20:59: Денис | adapted: adapted |
+| 1 | Шеф | Доченька, я сегодня так рад за тебя! | My daughter, I am so happy for you today! | #254: Доченька, я так рад за тебя | adapted: adapted |
+| 2 | Катя | Смотри, она пришла в таком же платье. | Look, she came in the exact same dress. | #255: Я в таком же пришла | adapted: adapted |
+| 3 | Шеф | Не обращай внимания, идём скорее к гостям. | Do not pay attention, let us go quickly to the guests. | #256: Идем | adapted: adapted |
+| 4 | Катя | Подожди, папа, а как же Денис? | Wait, Dad, what about Denis? | #258: А как же Денис | adapted: adapted |
+| 5 | Шеф | Ну зачем тебе нужен этот бедный парень? | Why do you need that poor guy? | #260: Ну зачем тебе этот | adapted: adapted |
+| 6 | Шеф | Сегодня в океан жизни отправляется ваша семья. | Today your family sets sail into the ocean of life. | #261: Сегодня<br>#262: В океан жизни отправляется | adapted: adapted |
+| 7 | Шеф | Пускай все бури и штормы обойдут вас. | May all storms and tempests pass you by. | #263: Пускай бури и штормы | adapted: adapted |
+| 8 | Катя | Спасибо, я всё очень хорошо поняла. | Thank you, I understood everything very well. | #264: Я поняла | adapted: adapted |
+| 9 | Шеф | Если кто-то против брака, пусть скажет сейчас. | If anyone is against the marriage, let them speak now. | #265: Если кто-то против этого брака, пусть скажет | adapted: adapted |
+| 10 | Денис | Подождите, я категорически против этой свадьбы! | Wait, I am categorically against this wedding! | #266: Я против | adapted: adapted |
+| 11 | Шеф | Да не слушайте вы этого странного парня! | Do not listen to that strange guy! | #267: Да не слушайте его | adapted: adapted |
+| 12 | Катя | Нет, подождите, я хочу его выслушать! | No, wait, I want to hear him out! | #259: Денис | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'My daughter, I am so happy for you today!' Chef Barinov addresses the listener with the informal singular 'you' alongside 'you'. Katya answers right away.
-- 'Look, she came in the exact same dress.' Katya brings out the contrast between 'watch' and 'she' in a few short words.
-- 'Do not pay attention, let us go quickly to the guests.' In Russian, the idea of 'not' flows naturally into 'guests' without extra filler words.
-- 'Wait, Dad, what about Denis?' Spoken Russian keeps this brisk, leaning on 'wait' and finishing on 'Denis'. Chef Barinov answers right away.
-- 'Why do you need that poor guy?' Chef Barinov brings out the contrast between 'come on' and 'why' in a few short words.
-- 'Today your family sets sail into the ocean of life.' Chef Barinov chooses the respectful plural 'you' alongside 'family' to keep a polite distance.
-- 'May all storms and tempests pass you by.' Notice how Russian expresses 'let' and 'you' with crisp inflection rather than helper words. Katya answers right away.
-- 'Thank you, I understood everything very well.' Here the Russian phrasing highlights 'thank you' before landing on 'understood'.
-- 'If anyone is against the marriage, let them speak now.' Notice how Russian expresses 'if' and 'now' with crisp inflection rather than helper words.
-- 'Wait, I am categorically against this wedding!' An emphatic spoken line centered on the verb meaning 'wait'. Chef Barinov answers right away.
-- 'Do not listen to that strange guy!' Chef Barinov anchors the line on 'yes', while 'boyfriend' completes the thought.
-- 'No, wait, I want to hear him out!' In Russian, the idea of 'no' flows naturally into 'to listen to' without extra filler words.
+- 'My daughter, I am so happy for you today!' Barinov declares that his daughter he is so happy for Denis today as the tension in the room peaks. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Look, she came in the exact same dress.' Even though she came in the exact same dress, Katya keeps a steady face in front of Barinov.
+- 'Do not pay attention, let us go quickly to the guests.' Admitting that do not pay attention let them go quickly to the guests shows Barinov being honest for a change.
+- 'Wait, Dad, what about Denis?' Over the wedding and the kitchen, Katya presses Barinov for a straight answer. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Why do you need that poor guy?' Asking why Denis needs that poor guy is how Barinov puts Denis on the spot.
+- 'Today your family sets sail into the ocean of life.' Adding that today Denis's family sets sail into the ocean of life fills in the missing piece for Denis. Notice how he sticks to the formal "you", keeping a professional line between them.
+- 'May all storms and tempests pass you by.' Barinov tells Denis that may all storms and tempests pass Denis without dressing it up. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
+- 'Thank you, I understood everything very well.' Since she understood everything very well, Katya does not waste words on excuses.
+- 'If anyone is against the marriage, let them speak now.' Mentioning that if anyone is against the marriage let them speak now moves the talk in a new direction.
+- 'Wait, I am categorically against this wedding!' Here being categorically against this wedding lets Denis's real feelings break through. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Do not listen to that strange guy!' Once do not listen to that strange guy, Barinov makes sure Denis hears every word.
+- 'No, wait, I want to hear him out!' Here wanting to hear him out lets Katya's real feelings break through. Russian puts the key word right up front so her emotion lands on the first beat.

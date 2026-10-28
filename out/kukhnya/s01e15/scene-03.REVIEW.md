@@ -1,39 +1,39 @@
-# Утренний звонок  (A Morning Call) — `kukhnya-s01e15-scene-03`
+# kukhnya-s01e15-scene-03: review sheet
 
-**Source:** Кухня (Kukhnya) S1.15 · `sources/kukhnya/s01/e15.ru.dual.srt`  
-**Target level:** A1 — Duolingo Section 2
+Title: Утренний звонок  (A Morning Call)
+Level: A1 — Duolingo Section 2
+Pair: ru-en
+Source: Кухня (Kukhnya) S1.15
 
-## Cast
 
-| Role | Voice | Label |
-|---|---|---|
-| `narrator` | sky | — |
-| `chef` | anja | Шеф |
-| `lyuba` | angelina | Люба |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 1 — Intro
-
-> Viktor Petrovich wakes up with a terrible headache as Lyuba calls to remind him about work. Let's listen closely to their exchange in Russian first, and then walk through each line together.
-
-## Part 2 — Story
-
-| # | Speaker | Line | English | Source cue(s) | Change |
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 0 | Шеф | Что за шум с утра пораньше? | What is that noise early in the morning? | *(added)* |  |
-| 1 | Шеф | Кто мне звонит так рано утром? | Who is calling me so early in the morning? | *(added)* |  |
-| 2 | Люба | Алло, Виктор Петрович, вы уже встали? | Hello, Viktor Petrovich, are you up already? | #16 "Алло. Виктор Петрович, вы уже встали?" |  |
-| 3 | Шеф | Конечно, я давно уже на ногах. | Of course, I have been up for a long time. | *(added)* |  |
-| 4 | Люба | Вы меня обманываете, вы ещё спите! | You are lying to me, you are still sleeping! | #17 "Вы меня обманываете" |  |
-| 5 | Шеф | Я бодрый и полон новых сил. | I am cheerful and full of new strength. | *(added)* |  |
-| 6 | Люба | Виктор Петрович, вы опоздаете на работу! | Viktor Petrovich, you will be late for work! | #18 "Виктор Петрович, вы опоздаете на работу" |  |
-| 7 | Шеф | Люба, отстань, я знаю своё дело. | Lyuba, leave me alone, I know my business. | #19 "Люба, отстань" |  |
-| 8 | Люба | Ресторан скоро открывается для гостей. | The restaurant is opening soon for guests. | *(added)* |  |
-| 9 | Шеф | Это ты опоздаешь сегодня на смену! | You are the one who will be late for the shift today! | #19 "Это ты опоздаешь" |  |
-| 10 | Люба | А когда вы сами приедете на кухню? | And when will you arrive at the kitchen yourself? | *(added)* |  |
-| 11 | Шеф | А я шеф, я немного задержусь! | And I am the chef, I will be a little late! | #20 "А я задержусь" |  |
+| 1 | Шеф | Что за шум с утра пораньше? | What is that noise early in the morning? | new | new |
+| 2 | Шеф | Кто мне звонит так рано утром? | Who is calling me so early in the morning? | new | new |
+| 3 | Люба | Алло, Виктор Петрович, вы уже встали? | Hello, Viktor Petrovich, are you up already? | #16: Алло. Виктор Петрович, вы уже встали? | verbatim |
+| 4 | Шеф | Конечно, я давно уже на ногах. | Of course, I have been up for a long time. | new | new |
+| 5 | Люба | Вы меня обманываете, вы ещё спите! | You are lying to me, you are still sleeping! | #17: Вы меня обманываете | verbatim |
+| 6 | Шеф | Я бодрый и полон новых сил. | I am cheerful and full of new strength. | new | new |
+| 7 | Люба | Виктор Петрович, вы опоздаете на работу! | Viktor Petrovich, you will be late for work! | #18: Виктор Петрович, вы опоздаете на работу | verbatim |
+| 8 | Шеф | Люба, отстань, я знаю своё дело. | Lyuba, leave me alone, I know my business. | #19: Люба, отстань | verbatim |
+| 9 | Люба | Ресторан скоро открывается для гостей. | The restaurant is opening soon for guests. | new | new |
+| 10 | Шеф | Это ты опоздаешь сегодня на смену! | You are the one who will be late for the shift today! | #19: Это ты опоздаешь | verbatim |
+| 11 | Люба | А когда вы сами приедете на кухню? | And when will you arrive at the kitchen yourself? | new | new |
+| 12 | Шеф | А я шеф, я немного задержусь! | And I am the chef, I will be a little late! | #20: А я задержусь | verbatim |
 
-## Part 5 — Outro & closing
+## Walk-through narration (English only, no target-language words quoted)
 
-> Viktor hangs up the phone, determined to get a few more minutes of rest. Next time you watch the episode, listen for the Russian expressions for 'morning' and 'a bit earlier' — you will catch every word right away. See you next time!
-
-**Шеф:** Пока!
+- 'What is that noise early in the morning?' Russian omits the present-tense verb 'to be' here, linking 'noise' directly with 'morning', followed by 'a bit earlier'.
+- 'Who is calling me so early in the morning?' Chef Barinov chooses the action verb meaning 'is calling' for the ongoing action, followed by 'early' and 'this morning'.
+- 'Hello, Viktor Petrovich, are you up already?' , combining 'hello?' with 'already' and 'stood still'.
+- 'Of course, I have been up for a long time.' Russian omits the present-tense verb 'to be' here, linking 'of course' directly with 'for a long time', pairing it with 'already' and 'legs'.
+- 'You are lying to me, you are still sleeping!' the speaker chooses the action verb meaning 'are deceiving' for the ongoing action, followed by 'more' and 'are sleeping'.
+- 'I am cheerful and full of new strength.' Russian omits the present-tense verb 'to be' here, linking 'cheerful' directly with 'full', pairing it with 'new' and 'ofpower'.
+- 'Viktor Petrovich, you will be late for work!' the speaker uses the action verb meaning 'will be late' to focus on the single completed result, pairing it with 'job'.
+- 'Lyuba, leave me alone, I know my business.' Chef Barinov leads with the direct command form meaning 'leave alone', pairing it with 'know' and 'matter'.
+- 'The restaurant is opening soon for guests.' the speaker puts the word for 'restaurant' together with 'soon' and 'is opening' in a crisp, natural spoken turn of phrase.
+- 'You are the one who will be late for the shift today!' Chef Barinov uses the action verb meaning 'will be late' to focus on the single completed result, pairing it with 'today' and 'shift'.
+- 'And when will you arrive at the kitchen yourself?' The phrasing opens with 'when' before bringing in 'will arrive' and 'kitchen' to make the point clear.
+- 'And I am the chef, I will be a little late!' Chef Barinov expresses this naturally by combining the word for 'a bit' with 'will be delayed'.

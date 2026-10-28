@@ -10,32 +10,32 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Вика | Приглашаю тебя сегодня вечером на ужин в Мане. | I invite you to dinner tonight at Claude Monet. | #153 00:09:27: Приглашаю тебя сегодня вечером на ужин в Мане | verbatim |
-| 2 | Вика | Боже мой, как приятно. | Oh my goodness, how wonderful. | #154 00:09:31: Боже мой, как приятно | verbatim |
-| 3 | Вика | Конечно, я согласна. | Of course I accept. | #155 00:09:33: Конечно, я согласна | verbatim |
-| 4 | Вика | Актриса с тебя не очень. | You are not much of an actress. | #156 00:09:35: актриса с тебя не очень | verbatim |
-| 5 | Вика | Договорились. Целую. | It is a date. Kisses. | #157 00:09:38: Договорились. Целую | verbatim |
-| 6 | Вика | Вика, забронируй мне на вечер вот этот столик. | Vika, reserve this table right here for me tonight. | #159 00:09:47: Вика, забронируй мне на вечер вот этот столик | verbatim |
-| 7 | Вика | Это любимый столик Дмитрия Владимировича. | That is Dmitry Vladimirovich's favorite table. | #160 00:09:51: Это любимый столик Дмитрия Владимировича | verbatim |
-| 8 | Вика | Он его на сегодня уже забронировал. | He has already reserved it for tonight. | #161 00:09:53: Он его на сегодня уже забронировал | verbatim |
-| 9 | Вика | Он каждый день его бронирует и не приходит. | He reserves it every single day and never shows up. | #162 00:09:54: Он каждый день его бронирует и не приходит | verbatim |
-| 10 | Вика | Если придет, я с ним договорю. | If he shows up, I will smooth it over with him. | #163 00:09:56: Если придет, я с ним договорю | verbatim |
-| 11 | Вика | Ну или скажу, что ты меня не предупреждал. | Or else I will just say that you never warned me. | #163 00:09:56: Ну или скажу, что ты меня не предупреждал | verbatim |
-| 12 | Вика | Для пятого столика. | This is for table five. | #165 00:10:04: Для пятого столика | verbatim |
-| 13 | Вика | Столько меня сегодня заказывают, как будто пост закончился. | People are ordering so much meat today, as if Lent just ended. | #167 00:10:11: Столько меня сегодня заказывают, как будто пост закончился | verbatim |
+| 1 | Вика | Приглашаю тебя сегодня вечером на ужин в Мане. | I invite you to dinner tonight at Claude Monet. | #153: Приглашаю тебя сегодня вечером на ужин в Мане | verbatim |
+| 2 | Нагиев | Боже мой, как приятно. | Oh my goodness, how wonderful. | #154: Боже мой, как приятно | verbatim |
+| 3 | Вика | Конечно, я согласна. | Of course I accept. | #155: Конечно, я согласна | verbatim |
+| 4 | Нагиев | Актриса с тебя не очень. | You are not much of an actress. | #156: актриса с тебя не очень | verbatim |
+| 5 | Вика | Договорились. Целую. | It is a date. Kisses. | #157: Договорились. Целую | verbatim |
+| 6 | Нагиев | Вика, забронируй мне на вечер вот этот столик. | Vika, reserve this table right here for me tonight. | #159: Вика, забронируй мне на вечер вот этот столик | verbatim |
+| 7 | Вика | Это любимый столик Дмитрия Владимировича. | That is Dmitry Vladimirovich's favorite table. | #160: Это любимый столик Дмитрия Владимировича | verbatim |
+| 8 | Нагиев | Он его на сегодня уже забронировал. | He has already reserved it for tonight. | #161: Он его на сегодня уже забронировал | verbatim |
+| 9 | Вика | Он каждый день его бронирует и не приходит. | He reserves it every single day and never shows up. | #162: Он каждый день его бронирует и не приходит | verbatim |
+| 10 | Нагиев | Если придет, я с ним договорю. | If he shows up, I will smooth it over with him. | #163: Если придет, я с ним договорю | verbatim |
+| 11 | Вика | Ну или скажу, что ты меня не предупреждал. | Or else I will just say that you never warned me. | #163: Ну или скажу, что ты меня не предупреждал | verbatim |
+| 12 | Нагиев | Для пятого столика. | This is for table five. | #165: Для пятого столика | verbatim |
+| 13 | Вика | Столько меня сегодня заказывают, как будто пост закончился. | People are ordering so much meat today, as if Lent just ended. | #167: Столько меня сегодня заказывают, как будто пост закончился | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I invite you to dinner tonight at Claude Monet.' The grammar packs 'invite' and 'Monet' into a tight, idiomatic kitchen exchange.
-- 'Oh my goodness, how wonderful.' Dmitry brings out the contrast between 'goodness' and 'my' in a few short words.
-- 'Of course I accept.' The meaning hinges on 'of course' working together with 'agreeable' in spoken Russian. Dmitry answers right away.
-- 'You are not much of an actress.' In Russian, the idea of 'actress' flows naturally into 'very' without extra filler words.
-- 'It is a date. Kisses.' Spoken Russian keeps this brisk, leaning on 'agreed' and finishing on 'am kissing'.
-- 'Vika, reserve this table right here for me tonight.' In Russian, the idea of 'Vika' flows naturally into 'table' without extra filler words. Vika answers right away.
-- 'That is Dmitry Vladimirovich's favorite table.' Here the Russian phrasing highlights 'this' before landing on 'Vladimirovich'.
-- 'He has already reserved it for tonight.' Dmitry anchors the line on 'he', while 'reserved' completes the thought.
-- 'He reserves it every single day and never shows up.' The negative particle sits right before the verb meaning 'to book' to negate the statement. Dmitry answers right away.
-- 'If he shows up, I will smooth it over with him.' Dmitry brings out the contrast between 'if' and 'will come' in a few short words.
-- 'Or else I will just say that you never warned me.' The grammar packs 'come on' and 'warned' into a tight, idiomatic kitchen exchange.
-- 'This is for table five.' Notice how Russian expresses 'for' and 'table' with crisp inflection rather than helper words. Vika answers right away.
-- 'People are ordering so much meat today, as if Lent just ended.' Vika anchors the line on 'so many', while 'ended' completes the thought.
+- 'I invite you to dinner tonight at Claude Monet.' Once she invites Nagiyev to dinner tonight at Claude Monet, Vika can finally tell Nagiyev what she means. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Oh my goodness, how wonderful.' Over the room and the truth, Nagiyev answers Vika without a second thought.
+- 'Of course I accept.' Between the room and the truth, Vika gives Nagiyev a quick, grounded response.
+- 'You are not much of an actress.' Saying that Vika is not much of an actress is how Nagiyev sets the tone with Vika. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'It is a date. Kisses.' Because it is a date, Vika treats the matter as settled.
+- 'Vika, reserve this table right here for me tonight.' Over the shift and the table, Nagiyev answers Vika without a second thought.
+- 'That is Dmitry Vladimirovich's favorite table.' Vika mentions that that is Dmitry Vladimirovich favorite table so Nagiyev sees what is at stake. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'He has already reserved it for tonight.' Mentioning that he has already reserved it for tonight moves the talk in a new direction.
+- 'He reserves it every single day and never shows up.' Pointing out that he reserves it every single day and never shows up gives Nagiyev a sobering reality check.
+- 'If he shows up, I will smooth it over with him.' Nagiyev explains that if he shows up he will smooth it over with him, keeping his voice calm and direct.
+- 'Or else I will just say that you never warned me.' Realizing that else she will just say that Nagiyev never warned changes how Vika handles the situation.
+- 'This is for table five.' Noting that this is for table five keeps Nagiyev's side of the story simple and clear.
+- 'People are ordering so much meat today, as if Lent just ended.' Even though people are ordering so much meat today as if just ended, Vika keeps a steady face in front of Nagiyev.

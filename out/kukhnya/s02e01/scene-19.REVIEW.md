@@ -1,41 +1,41 @@
-# Неудачный спектакль  (The Failed Play) — `kukhnya-s02e01-scene-19`
+# kukhnya-s02e01-scene-19: review sheet
 
-**Source:** Кухня (Kukhnya) S2.01 · `sources/kukhnya/s02/e01.ru.dual.srt`  
-**Target level:** A1 — Duolingo Section 2
+Title: Неудачный спектакль  (The Failed Play)
+Level: A1 — Duolingo Section 2
+Pair: ru-en
+Source: Кухня (Kukhnya) S2.01
 
-## Cast
 
-| Role | Voice | Label |
-|---|---|---|
-| `narrator` | sky | — |
-| `anya` | alisa | Макс |
-| `vika` | angelina | Вика |
-| `kostya` | anja | Костя |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 1 — Intro
-
-> Max stages a fake suicide attempt on a high structure to win Victoria's pity. His dangerous stunt goes horribly wrong when he accidentally slips. Let's listen closely to the conversation in Russian first, and then walk through each line together.
-
-## Part 2 — Story
-
-| # | Speaker | Line | English | Source cue(s) | Change |
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 0 | Вика | Ты что, больной? Слезь немедленно! | Are you sick? Get down immediately! | #241 "Ты что, больной? Слезь немедленно." |  |
-| 1 | Макс | Вика, я не могу жить без тебя. | Vika, I cannot live without you. | #242 "Бик, я не могу жить без тебя." |  |
-| 2 | Вика | Прекрати этот цирк! | Stop this circus! | #243 "Прекрати этот цирк." |  |
-| 3 | Макс | Не вини себя ни в чём. | Do not blame yourself for anything. | #244 "Не вини себя ни в чем." |  |
-| 4 | Вика | Я понимаю, что это твоя уловка. | I understand that this is your trick. | #245 "я не понимаю, что это одна из твоих уловок" |  |
-| 5 | Вика | Хочешь вешаться — вешайся, мне всё равно. | You want to hang yourself — hang yourself, I do not care. | #246 "Хочешь вешаться, вешайся, мне все равно." |  |
-| 6 | Макс | Постой, я хочу, чтобы ты знала. | Wait, I want you to know. | #247 "Постой.", #248 "Я хочу, чтобы ты знала" |  |
-| 7 | Макс | Я действительно люблю тебя! | I truly love you! | #248 "я люблю тебя." |  |
-| 8 | Макс | Помоги! Костя, помоги! | Help! Kostya, help! | #249 "Помоги!", #254 "Костя, помоги!" |  |
-| 9 | Костя | Парень вас любит, а вы что? | The guy loves you, and what about you? | #252 "Парень вас любит, а вы что?" |  |
-| 10 | Костя | Вы засунули его в петлю. | You shoved him into a noose. | #253 "В петлю его засунули." |  |
-| 11 | Вика | Костя, срочно помоги ему! | Kostya, urgently help him! | *(added)* |  |
-| 12 | Костя | Ты что, реально повесился? | Did you really hang yourself? | #256 "Ты что, реально повесился?" |  |
+| 1 | Вика | Ты что, больной? Слезь немедленно! | Are you sick? Get down immediately! | #241: Ты что, больной? Слезь немедленно. | verbatim |
+| 2 | Макс | Вика, я не могу жить без тебя. | Vika, I cannot live without you. | #242: Бик, я не могу жить без тебя. | verbatim |
+| 3 | Вика | Прекрати этот цирк! | Stop this circus! | #243: Прекрати этот цирк. | verbatim |
+| 4 | Макс | Не вини себя ни в чём. | Do not blame yourself for anything. | #244: Не вини себя ни в чем. | verbatim |
+| 5 | Вика | Я понимаю, что это твоя уловка. | I understand that this is your trick. | #245: я не понимаю, что это одна из твоих уловок | verbatim |
+| 6 | Вика | Хочешь вешаться — вешайся, мне всё равно. | You want to hang yourself — hang yourself, I do not care. | #246: Хочешь вешаться, вешайся, мне все равно. | verbatim |
+| 7 | Макс | Постой, я хочу, чтобы ты знала. | Wait, I want you to know. | #247: Постой.<br>#248: Я хочу, чтобы ты знала | verbatim |
+| 8 | Макс | Я действительно люблю тебя! | I truly love you! | #248: я люблю тебя. | verbatim |
+| 9 | Макс | Помоги! Костя, помоги! | Help! Kostya, help! | #249: Помоги!<br>#254: Костя, помоги! | verbatim |
+| 10 | Костя | Парень вас любит, а вы что? | The guy loves you, and what about you? | #252: Парень вас любит, а вы что? | verbatim |
+| 11 | Костя | Вы засунули его в петлю. | You shoved him into a noose. | #253: В петлю его засунули. | verbatim |
+| 12 | Вика | Костя, срочно помоги ему! | Kostya, urgently help him! | new | new |
+| 13 | Костя | Ты что, реально повесился? | Did you really hang yourself? | #256: Ты что, реально повесился? | verbatim |
 
-## Part 5 — Outro & closing
+## Walk-through narration (English only, no target-language words quoted)
 
-> Kostya rushes to help his panicked friend while Victoria watches the embarrassing and chaotic situation unfold before her eyes. Next time you watch the episode, listen for the Russian expressions for 'sick' and 'get down' — you will catch every word right away. See you next time!
-
-**Костя:** Пока!
+- 'Are you sick? Get down immediately!' The question word for 'what' comes right at the start, followed directly by 'immediately'.
+- 'Vika, I cannot live without you.' The little negative word sits right in front of the verb for 'can', just like 'not' in English. Vika answers straight away.
+- 'Stop this circus!' Vika leads with the direct command form meaning 'stop it', followed by 'circus'.
+- 'Do not blame yourself for anything.' Max delivers a punchy one-word reaction built around the Russian word meaning 'to blame'.
+- 'I understand that this is your trick.' Vika uses the informal everyday 'you' here with 'trick', as friends and close colleagues do.
+- 'You want to hang yourself — hang yourself, I do not care.' Notice the self-directed ending on the verb for 'hang oneself', which directs the action back onto the subject.
+- 'Wait, I want you to know.' Max uses the informal everyday 'you' here with 'knew', as friends and close colleagues do.
+- 'I truly love you!' Max expresses this naturally by combining the word for 'really' with 'love'.
+- 'Help! Kostya, help!' Max leads with the direct command form meaning 'help' to make the point directly in conversation.
+- 'The guy loves you, and what about you?' Here Kostya anchors the line on the word meaning 'boyfriend' and builds the thought around 'loves'.
+- 'You shoved him into a noose.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'Kostya, urgently help him!' Vika uses an urgent command built around the verb for 'help'.
+- 'Did you really hang yourself?' Russian forms this yes-or-no question without a question word, relying on rising pitch on 'hang oneself'.

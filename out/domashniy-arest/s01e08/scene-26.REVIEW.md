@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Самсон | Нина, у меня есть второй билет. | Nina, I have a second ticket. | #449 00:28:20: Нина, у меня еще один<br>#450 00:28:25: билет есть | adapted: adapted cues 449-450 |
+| 1 | Самсон | Нина, у меня есть второй билет. | Nina, I have a second ticket. | #449: Нина, у меня еще один<br>#450: билет есть | adapted: adapted cues 449-450 |
 | 2 | Самсон | Завтра вечером в городе концерт. | Tomorrow evening there is a concert in town. | new | new: transitional dialogue line |
 | 3 | Нина | И что ты предлагаешь? | And what are you suggesting? | new | new: skeptical question |
-| 4 | Самсон | Если ты хочешь, пойдём вместе. | If you want, let's go together. | #452 00:28:34: если ты хочешь | adapted: added пойдём вместе |
-| 5 | Нина | Вот это настоящий мужчина! | Now that is a real man! | #453 00:28:41: Вот это мужчина | adapted: added настоящий |
-| 6 | Нина | Какой ты деликатный и добрый! | How tactful and kind you are! | #454 00:28:43: Деликатный<br>#455 00:28:44: обходительный | adapted: adapted cues 454-455 |
-| 7 | Самсон | Значит, ты согласна пойти? | Does that mean you agree to go? | #451 00:28:33: Так что | adapted: expanded into question |
+| 4 | Самсон | Если ты хочешь, пойдём вместе. | If you want, let's go together. | #452: если ты хочешь | adapted: added пойдём вместе |
+| 5 | Нина | Вот это настоящий мужчина! | Now that is a real man! | #453: Вот это мужчина | adapted: added настоящий |
+| 6 | Нина | Какой ты деликатный и добрый! | How tactful and kind you are! | #454: Деликатный<br>#455: обходительный | adapted: adapted cues 454-455 |
+| 7 | Самсон | Значит, ты согласна пойти? | Does that mean you agree to go? | #451: Так что | adapted: expanded into question |
 | 8 | Нина | Нет, конечно! Я не пойду. | No, of course not! I won't go. | new | new: sharp refusal |
-| 9 | Нина | Лучше сходи с Клавдией Викторовной. | Better go with Klavdia Viktorovna. | #456 00:28:46: Ну, с Клавдией Викторовной сходи | adapted: adapted cue 456 |
-| 10 | Самсон | Она же меня совсем не любит. | She does not like me at all, after all. | #449 00:28:20: меня | adapted: echoed cue 422 |
+| 9 | Нина | Лучше сходи с Клавдией Викторовной. | Better go with Klavdia Viktorovna. | #456: Ну, с Клавдией Викторовной сходи | adapted: adapted cue 456 |
+| 10 | Самсон | Она же меня совсем не любит. | She does not like me at all, after all. | #449: меня | adapted: echoed cue 422 |
 | 11 | Нина | А я люблю тебя ещё меньше! | And I love you even less! | new | new: sarcastic response |
-| 12 | Самсон | Спасибо за честный ответ, Нина. | Thank you for the honest answer, Nina. | #449 00:28:20: нина | adapted: adapted cue 419 |
+| 12 | Самсон | Спасибо за честный ответ, Нина. | Thank you for the honest answer, Nina. | #449: нина | adapted: adapted cue 419 |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

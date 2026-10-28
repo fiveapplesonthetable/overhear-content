@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Лёва | Поставь меня быстрее обратно на стол! | Put me back on the table quickly! | #185 00:12:45: Поставь меня на стол | adapted: adapted |
-| 2 | Шеф | Лёва, давай быстрее, мне некогда! | Lyova, hurry up, I have no time! | #188 00:12:52: быстрей! Быстрей | adapted: adapted |
-| 3 | Лёва | Заявку на продукты прочитайте и подпишите. | Read and sign the supply request. | #189 00:12:53: Заявка на продукты прочитайте и подпишите | adapted: adapted |
-| 4 | Шеф | Что там читать, я тебе доверяю. | What is there to read, I trust you. | #190 00:12:57: Ну, что там читать? Я тебе доверяю | adapted: adapted |
-| 5 | Шеф | Давай сюда ручку, я быстро подпишу. | Give me the pen here, I will sign quickly. | #191 00:12:59: Давай подпишу, давай | adapted: adapted |
-| 6 | Шеф | Давай быстрее ищи этот пакет! | Hurry up and look for that packet! | #193 00:13:05: давай быстрей | adapted: adapted |
-| 7 | Лёва | Я пакет в его чемодан положил. | I put the packet inside his suitcase. | #194 00:13:08: Я пакет в чемодан положил | adapted: adapted |
-| 8 | Лёва | А француз закрыл чемодан на замок. | And the Frenchman locked the suitcase. | #194 00:13:08: француз его закрыл | adapted: adapted |
-| 9 | Шеф | Значит, будем выносить весь чемодан вместе. | Then we will carry out the whole suitcase together. | #195 00:13:11: Значит, будем выносить вместе чемодан | adapted: adapted |
-| 10 | Шеф | Куда же я дел свой ключ? | Where on earth did I put my key? | #196 00:13:15: Куда же я дел свой ключ | adapted: adapted |
-| 11 | Шеф | Скажите, полиция сюда уже приезжала? | Tell me, have the police arrived here already? | #197 00:13:23: Полиция приезжала | adapted: adapted |
-| 12 | Лёва | Да, дежурный повёл их прямо наверх. | Yes, the receptionist led them straight upstairs. | #197 00:13:23: Да, Егор повел их наверх | adapted: adapted |
+| 1 | Лёва | Поставь меня быстрее обратно на стол! | Put me back on the table quickly! | #185: Поставь меня на стол | adapted: adapted |
+| 2 | Шеф | Лёва, давай быстрее, мне некогда! | Lyova, hurry up, I have no time! | #188: быстрей! Быстрей | adapted: adapted |
+| 3 | Лёва | Заявку на продукты прочитайте и подпишите. | Read and sign the supply request. | #189: Заявка на продукты прочитайте и подпишите | adapted: adapted |
+| 4 | Шеф | Что там читать, я тебе доверяю. | What is there to read, I trust you. | #190: Ну, что там читать? Я тебе доверяю | adapted: adapted |
+| 5 | Шеф | Давай сюда ручку, я быстро подпишу. | Give me the pen here, I will sign quickly. | #191: Давай подпишу, давай | adapted: adapted |
+| 6 | Денис | Давай быстрее ищи этот пакет! | Hurry up and look for that packet! | #193: давай быстрей | adapted: adapted |
+| 7 | Лёва | Я пакет в его чемодан положил. | I put the packet inside his suitcase. | #194: Я пакет в чемодан положил | adapted: adapted |
+| 8 | Лёва | А француз закрыл чемодан на замок. | And the Frenchman locked the suitcase. | #194: француз его закрыл | adapted: adapted |
+| 9 | Денис | Значит, будем выносить весь чемодан вместе. | Then we will carry out the whole suitcase together. | #195: Значит, будем выносить вместе чемодан | adapted: adapted |
+| 10 | Шеф | Куда же я дел свой ключ? | Where on earth did I put my key? | #196: Куда же я дел свой ключ | adapted: adapted |
+| 11 | Шеф | Скажите, полиция сюда уже приезжала? | Tell me, have the police arrived here already? | #197: Полиция приезжала | adapted: adapted |
+| 12 | Лёва | Да, дежурный повёл их прямо наверх. | Yes, the receptionist led them straight upstairs. | #197: Да, Егор повел их наверх | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Put me back on the table quickly!' Spoken Russian keeps this brisk, leaning on 'place' and finishing on 'table'. Chef Barinov answers right away.
-- 'Lyova, hurry up, I have no time!' Chef Barinov anchors the line on 'Lyova', while 'no time' completes the thought.
-- 'Read and sign the supply request.' The grammar packs 'request' and 'to sign' into a tight, idiomatic kitchen exchange.
-- 'What is there to read, I trust you.' Notice how Russian expresses 'what' and 'to trust' with crisp inflection rather than helper words.
-- 'Give me the pen here, I will sign quickly.' In Russian, the idea of 'come on' flows naturally into 'will sign' without extra filler words.
-- 'Hurry up and look for that packet!' The meaning hinges on 'come on' working together with 'bag' in spoken Russian.
-- 'I put the packet inside his suitcase.' The '-l' ending on the verb meaning 'put' places the action in the masculine past tense.
-- 'And the Frenchman locked the suitcase.' Lyova brings out the contrast between 'and' and 'Frenchman' in a few short words.
-- 'Then we will carry out the whole suitcase together.' Denis brings out the contrast between 'so' and 'will' in a few short words.
-- 'Where on earth did I put my key?' Spoken Russian keeps this brisk, leaning on 'where to' and finishing on 'key'.
-- 'Tell me, have the police arrived here already?' Notice how Russian expresses 'say' and 'to come' with crisp inflection rather than helper words.
-- 'Yes, the receptionist led them straight upstairs.' The grammar packs 'yes' and 'upstairs' into a tight, idiomatic kitchen exchange.
+- 'Put me back on the table quickly!' Because Barinov should put him back on the table quickly, Lyova does not bother softening the blow for Barinov. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Lyova, hurry up, I have no time!' Here telling Denis to hurry up he has no time lets Barinov's real feelings break through.
+- 'Read and sign the supply request.' Adding that Barinov should read and sign the supply request fills in the missing piece for Barinov.
+- 'What is there to read, I trust you.' Even though what is there to read he trusts Denis, Barinov keeps a steady face in front of Denis. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Give me the pen here, I will sign quickly.' Explaining that Denis should give him the pen here he will sign quickly lays the cards on the table for Denis.
+- 'Hurry up and look for that packet!' Insisting that Barinov should hurry up and look for that packet shows Denis is not backing down. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
+- 'I put the packet inside his suitcase.' Lyova tells Barinov that he puts the packet inside his suitcase without dressing it up.
+- 'And the Frenchman locked the suitcase.' Turning from the order to the truth, Lyova keeps the exchange moving.
+- 'Then we will carry out the whole suitcase together.' Saying that they will carry out the whole suitcase together is how Denis sets the tone with Barinov.
+- 'Where on earth did I put my key?' Asking whether where on earth did he puts his key puts Denis right on the defensive. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Tell me, have the police arrived here already?' Wondering if tell him have the police arrived here already shows Barinov caught off guard.
+- 'Yes, the receptionist led them straight upstairs.' Lyova reminds Barinov that the receptionist led them straight upstairs before the moment passes.

@@ -14,8 +14,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 2 | Нина | Ты всё ещё стоишь на холоде. | You are still standing in the cold. | new | new |
 | 3 | Самсон | Я же обещал, что буду ждать. | I promised that I would wait. | new | new |
 | 4 | Нина | Ты действительно совершенно неисправимый человек. | You are truly a completely incorrigible person. | new | new |
-| 5 | Самсон | Так может быть, всё-таки да? | So maybe after all it is yes? | #54 00:02:50: так может все-таки да | verbatim |
-| 6 | Нина | Ну хорошо, может быть и да! | Well alright, maybe it is yes! | #55 00:03:03: Может и да | verbatim |
+| 5 | Самсон | Так может быть, всё-таки да? | So maybe after all it is yes? | #54: так может все-таки да | verbatim |
+| 6 | Нина | Ну хорошо, может быть и да! | Well alright, maybe it is yes! | #55: Может и да | verbatim |
 | 7 | Самсон | Ты правда согласна стать моей женой? | Are you truly willing to become my wife? | new | new |
 | 8 | Нина | Да, я согласна выйти за тебя. | Yes, I agree to marry you. | new | new |
 | 9 | Самсон | Тогда надевай скорее это кольцо! | Then put on this ring quickly! | new | new |

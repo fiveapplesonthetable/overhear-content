@@ -1,34 +1,36 @@
-# domashniy-arest/s01e03/scene-35.py
-ID = "domashniy-arest-s01e03-scene-35"
-SHOW = "domashniy-arest"
+# Authoring module for domashniy-arest-s01e03-scene-35.
+ID = 'domashniy-arest-s01e03-scene-35'
+SHOW = 'domashniy-arest'
 SEASON = 1
 EPISODE = 3
 SCENE = 35
-TITLE = "Собака нашлась  (The Dog Is Found)"
-LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-SOURCE_NAME = "Домашний арест (Domashniy Arest) S1.03"
-SOURCE_FILE = "sources/domashniy-arest/s01/e03.ru.dual.srt"
-VOICES = {"narrator": "sky", "judge": "anja", "anya": "alisa"}
-LABELS = {"judge": "Илья Олегович", "anya": "Аркадий"}
+TITLE = 'Собака нашлась  (The Dog Is Found)'
+LEVEL = 'A1 — Duolingo Section 2'
+PAIR = 'ru-en'
+LABELS = {'arkady': 'Аркадий', 'judge': 'Илья Олегович', 'samson': 'Самсон'}
+SOURCE_NAME = 'Домашний арест (Domashniy Arest) S1.03'
+SOURCE_FILE = 'sources/domashniy-arest/s01/e03.ru.dual.srt'
 INTRO = "Still in the communal flat, a moment later. Now the door opens, and Judge Berg bursts in with his daughter Polina, who points straight at Slavik as the boy who stole her dog Lyutik. Let's listen in Russian first."
-STORY = [
-    ("judge", "Собака где? Где наш Лютик?", "Where's the dog? Where is our Lyutik?", [(1123, 'Собака где'), (1132, 'Лютик')], ""),
-    ("judge", "Так, Славик, это кто? Что случилось?", "Right, Slavik, who is this? What happened?", [(1126, 'Так, Славик, это кто? Что случилось')], ""),
-    ("judge", "Это ваш сын? Он украл нашу собаку!", "Is this your son? He stole our dog!", [(1127, 'Это ваш сын'), (1128, 'Он украл нашу собаку')], "'с целью шантажа' dropped for A1 length; explained by the narrator"),
-    ("judge", "Собаку? Ты зачем украл собаку?", "A dog? Why did you steal a dog?", [(1129, 'Собаку')], "'Ты зачем украл собаку?' added as Samson turns to Slavik"),
-    ("judge", "Дядя Аркаша попросил?! Отдай собаку!", "Uncle Arkasha asked you?! Give back the dog!", [(1130, 'дядя Аркаша попросил'), (1134, 'Отдай собаку')], "Samson repeats Slavik's excuse (cue 1130) in disbelief; 'дебил' (1131) dropped"),
-    ("judge", "Между прочим, я председатель суда.", "For your information, I am the chairman of the court.", [(1133, 'Между прочим, я председатель суда')], ""),
-    ("judge", "Скажите спасибо, что собака нашлась.", "Say thank you that the dog was found.", [(1138, 'скажите спасибо, что собака нашлась')], ""),
-    ("judge", "А то бы он попал в колонию!", "Otherwise he would have ended up in a colony!", [(1139, 'А то бы'), (1139, 'в колонию')], "'ты мигом загремел в колонию для несовершеннолетних' -> 'он попал в колонию'"),
-    ("judge", "А вообще-то я ещё не решил. Пошли!", "Actually, I haven't decided yet. Let's go!", [(1140, 'А вообще-то я еще не решил'), (1142, 'пошли')], ""),
-    ("anya", "Что, Ваня?", "What's up, Vanya?", [(1143, 'Вань')], "'Че, Вань?' -> 'Что, Ваня?'"),
-    ("judge", "Ты решил из моего сына уголовника сделать?", "Did you decide to make my son a criminal?", [(1144, 'решил из моего сына уголовника сделать')], "'Ты че' -> 'Ты'"),
-    ("anya", "Не понял.", "I don't understand.", [(1145, 'Не понял')], ""),
-    ("judge", "Что ты не понял? Что ты делал?!", "What did you not understand? What were you doing?!", [(1146, 'ты не понял'), (1148, 'делал')], "'Че' -> 'Что'"),
-    ("anya", "Ваня, послушай! Послушай меня!", "Vanya, listen! Listen to me!", [(1149, 'Послушай'), (1150, 'Послушай')], "'Ваня' and 'меня' added around cues 1149-1150"),
-]
 OPENER = "Let's walk through it slowly. Polina has just pointed at Slavik, and Judge Berg demands his dog."
+TRANSITION = "Let's hear the whole scene once more, from the beginning."
+OUTRO = 'Samson swings a punch, and everything goes black. A moment later, a paramedic is bending over Arkady on the floor, asking if he can hear and telling him not to move. That cliffhanger ends Episode 3, followed by the closing song about how much money it takes to be happy. Great work, and see you in Episode 4. See you next time!'
+CLOSING = ('arkady', 'Пока!')
+STORY = [
+    ('judge', 'Собака где? Где наш Лютик?', "Where's the dog? Where is our Lyutik?", [(1123, 'Собака где'), (1132, 'Лютик')], ''),
+    ('samson', 'Так, Славик, это кто? Что случилось?', 'Right, Slavik, who is this? What happened?', [(1126, 'Так, Славик, это кто? Что случилось')], ''),
+    ('judge', 'Это ваш сын? Он украл нашу собаку!', 'Is this your son? He stole our dog!', [(1127, 'Это ваш сын'), (1128, 'Он украл нашу собаку')], "'с целью шантажа' dropped for A1 length; explained by the narrator"),
+    ('samson', 'Собаку? Ты зачем украл собаку?', 'A dog? Why did you steal a dog?', [(1129, 'Собаку')], "'Ты зачем украл собаку?' added as Samson turns to Slavik"),
+    ('samson', 'Дядя Аркаша попросил?! Отдай собаку!', 'Uncle Arkasha asked you?! Give back the dog!', [(1130, 'дядя Аркаша попросил'), (1134, 'Отдай собаку')], "Samson repeats Slavik's excuse (cue 1130) in disbelief; 'дебил' (1131) dropped"),
+    ('judge', 'Между прочим, я председатель суда.', 'For your information, I am the chairman of the court.', [(1133, 'Между прочим, я председатель суда')], ''),
+    ('judge', 'Скажите спасибо, что собака нашлась.', 'Say thank you that the dog was found.', [(1138, 'скажите спасибо, что собака нашлась')], ''),
+    ('judge', 'А то бы он попал в колонию!', 'Otherwise he would have ended up in a colony!', [(1139, 'А то бы'), (1139, 'в колонию')], "'ты мигом загремел в колонию для несовершеннолетних' -> 'он попал в колонию'"),
+    ('judge', 'А вообще-то я ещё не решил. Пошли!', "Actually, I haven't decided yet. Let's go!", [(1140, 'А вообще-то я еще не решил'), (1142, 'пошли')], ''),
+    ('arkady', 'Что, Ваня?', "What's up, Vanya?", [(1143, 'Вань')], "'Че, Вань?' -> 'Что, Ваня?'"),
+    ('samson', 'Ты решил из моего сына уголовника сделать?', 'Did you decide to make my son a criminal?', [(1144, 'решил из моего сына уголовника сделать')], "'Ты че' -> 'Ты'"),
+    ('arkady', 'Не понял.', "I don't understand.", [(1145, 'Не понял')], ''),
+    ('samson', 'Что ты не понял? Что ты делал?!', 'What did you not understand? What were you doing?!', [(1146, 'ты не понял'), (1148, 'делал')], "'Че' -> 'Что'"),
+    ('arkady', 'Ваня, послушай! Послушай меня!', 'Vanya, listen! Listen to me!', [(1149, 'Послушай'), (1150, 'Послушай')], "'Ваня' and 'меня' added around cues 1149-1150"),
+]
 WALK = [
     (0, None, "'Where's the dog? Where is our Lyutik?' Putting the word for 'where' after 'dog' makes the question sound sharp and urgent. Samson has no idea why this stranger is in their corridor."),
     (1, None, "'Right, Slavik, who is this? What happened?' The verb 'happened' has the neuter past ending because 'what' is grammatically neuter. Judge Berg answers for the boy."),
@@ -47,6 +49,3 @@ WALK = [
     (12, None, "'What did you not understand? What were you doing?!' He steps right up to Arkady, furious that Arkady dragged little Slavik into stealing a judge's dog. Arkady backs away."),
     (13, None, "'Vanya, listen! Listen to me!' Two urgent commands from the single-action form 'to listen'. But Samson doesn't listen."),
 ]
-TRANSITION = "Let's hear the whole scene once more, from the beginning."
-OUTRO = "Samson swings a punch, and everything goes black. A moment later, a paramedic is bending over Arkady on the floor, asking if he can hear and telling him not to move. That cliffhanger ends Episode 3, followed by the closing song about how much money it takes to be happy. Great work, and see you in Episode 4. See you next time!"
-CLOSING = ("anya", "Пока!")

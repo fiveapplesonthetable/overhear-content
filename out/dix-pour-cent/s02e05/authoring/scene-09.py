@@ -7,8 +7,7 @@ SCENE = 9
 TITLE = 'La nouvelle junior  (The New Junior)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'hicham': 'marcel', 'lea': 'lucie', 'camille': 'emilie'}
-LABELS = {'hicham': 'Hicham', 'lea': 'Andréa', 'camille': 'Camille'}
+LABELS = {'andrea': 'Andréa', 'camille': 'Camille', 'hicham': 'Hicham'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e05.fr.dual.srt'
 INTRO = "In the ASK conference room, Hicham interrupts the partners meeting to deliver a major announcement. Without consulting the other agents, he reveals his choice for the new junior agent position. Let's listen to the scene in French first."
@@ -18,14 +17,14 @@ OUTRO = "Hicham stuns the agency partners by appointing Camille as the new junio
 CLOSING = ('hicham', 'Au revoir!')
 STORY = [
     ('hicham', "Et maintenant, que diriez-vous d'accueillir officiellement notre nouveau junior?", 'And now, what would you say to officially welcoming our new junior?', [(259, "que diriez-vous d'accueillir officiellement notre nouveau junior ?")], ''),
-    ('lea', 'Vous auriez dû nous consulter avant.', 'You should have consulted us beforehand.', [(260, 'Vous auriez dû nous consulter.')], ''),
+    ('andrea', 'Vous auriez dû nous consulter avant.', 'You should have consulted us beforehand.', [(260, 'Vous auriez dû nous consulter.')], ''),
     ('hicham', "Je me suis consulté moi-même. Et j'ai décidé.", 'I consulted myself. And I decided.', [(261, 'Je me suis consulté moi-même.'), (262, "Et j'ai décidé.")], ''),
     ('hicham', 'Notre nouveau junior est une femme.', 'Our new junior is a woman.', [(263, 'Notre nouveau junior est une femme.')], ''),
     ('hicham', "Et elle s'appelle Camille Valentini.", 'And her name is Camille Valentini.', [(264, "Et elle s'appelle Camille..."), (265, 'Valentini.')], ''),
-    ('lea', 'Quoi? Camille?', 'What? Camille?', [(265, 'Quoi ?')], ''),
+    ('andrea', 'Quoi? Camille?', 'What? Camille?', [(265, 'Quoi ?')], ''),
     ('hicham', 'Il y avait des candidats qui savaient très bien se vendre.', 'There were candidates who knew very well how to sell themselves.', [(266, 'Il y avait des candidats qui savaient très bien se vendre.')], ''),
     ('hicham', "Elle, elle n'a pas parlé, elle a agi.", 'She did not talk, she acted.', [(267, "Elle, elle n'a pas parlé, elle a agi.")], ''),
-    ('lea', 'Camille, vous étiez candidate?', 'Camille, were you a candidate?', [(268, 'Vous étiez candidate ?')], ''),
+    ('andrea', 'Camille, vous étiez candidate?', 'Camille, were you a candidate?', [(268, 'Vous étiez candidate ?')], ''),
     ('camille', 'Non, pas du tout.', 'No, not at all.', [(268, 'Non, pas du tout.')], ''),
     ('hicham', "Non, elle ne l'était pas, mais elle est venue seule à Paris.", 'No, she was not, but she came to Paris alone.', [(269, "Non, elle ne l'était pas, mais elle est venue seule à Paris,")], ''),
     ('hicham', "Elle s'y est fait une place sans révéler qui était son père.", 'She made a place for herself there without revealing who her father was.', [(270, "elle s'y est fait une place,"), (271, 'sans révéler qui était son père...')], ''),

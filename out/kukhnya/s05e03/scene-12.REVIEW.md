@@ -10,34 +10,34 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Нагиев | Что ты в моём номере делаешь? | What are you doing in my room? | #216 00:14:01: делаешь? | adapted: adapted |
-| 2 | Михаил | Извините, пожалуйста, я не могу. | Excuse me, please, I cannot wait. | #217 00:14:04: Извините<br>#218 00:14:06: Я не могу | adapted: adapted |
-| 3 | Михаил | Дайте мне всего пять минут. | Give me just five minutes. | #219 00:14:08: Дайте пять минут | adapted: adapted |
-| 4 | Нагиев | Иди отсюда, я тебе сказал! | Get out of here, I told you! | #222 00:14:17: Иди отсюда, я тебе сказал | adapted: verbatim |
-| 5 | Нагиев | Баринов решил мне так отомстить? | Did Barinov decide to take revenge on me like this? | #224 00:14:22: отомстить<br>#224 00:14:22: решил | adapted: adapted |
-| 6 | Михаил | Тебе ничего доверять нельзя. | You cannot be trusted with anything. | #226 00:14:34: Тебе ничего доверять нельзя | adapted: verbatim |
-| 7 | Михаил | У нас есть девушки лёгкого поведения? | Do we have girls of easy virtue? | #227 00:14:39: У нас же есть девушки легкого поведения? | adapted: adapted |
-| 8 | Михаил | Поднимись сейчас наверх в номер. | Go upstairs to the room right now. | #230 00:15:00: поднимись | adapted: adapted |
-| 9 | Михаил | Ты что здесь у меня делаешь? | What are you doing here in my office? | #231 00:15:09: Ты что здесь? | adapted: adapted |
-| 10 | Нагиев | Знай, что это моя месть. | Know that this is my revenge. | #233 00:15:12: месть | adapted: adapted |
-| 11 | Нагиев | Это блюдо, которое подают холодным. | It is a dish that is served cold. | #234 00:15:14: Это блюдо, которое подают холодным | adapted: verbatim |
-| 12 | Нагиев | А я тебе его разогрел. | And I warmed it up for you. | #234 00:15:14: а я тебе<br>#234 00:15:14: разогрел | adapted: adapted |
-| 13 | Михаил | Ты что, убил моего Аркадия?! | Wait, did you kill my Arkady?! | #235 00:15:21: Ты убил | adapted: adapted |
-| 14 | Нагиев | Питаюсь плохо, надо к врачу сходить. | I am eating poorly, I should go see a doctor. | #236 00:15:24: Питаюсь, наверное, плохо, надо к врачу сходить | adapted: adapted |
+| 1 | Нагиев | Что ты в моём номере делаешь? | What are you doing in my room? | #216: делаешь? | adapted: adapted |
+| 2 | Михаил | Извините, пожалуйста, я не могу. | Excuse me, please, I cannot wait. | #217: Извините<br>#218: Я не могу | adapted: adapted |
+| 3 | Михаил | Дайте мне всего пять минут. | Give me just five minutes. | #219: Дайте пять минут | adapted: adapted |
+| 4 | Нагиев | Иди отсюда, я тебе сказал! | Get out of here, I told you! | #222: Иди отсюда, я тебе сказал | adapted: verbatim |
+| 5 | Нагиев | Баринов решил мне так отомстить? | Did Barinov decide to take revenge on me like this? | #224: отомстить<br>#224: решил | adapted: adapted |
+| 6 | Михаил | Тебе ничего доверять нельзя. | You cannot be trusted with anything. | #226: Тебе ничего доверять нельзя | adapted: verbatim |
+| 7 | Михаил | У нас есть девушки лёгкого поведения? | Do we have girls of easy virtue? | #227: У нас же есть девушки легкого поведения? | adapted: adapted |
+| 8 | Михаил | Поднимись сейчас наверх в номер. | Go upstairs to the room right now. | #230: поднимись | adapted: adapted |
+| 9 | Шеф | Ты что здесь у меня делаешь? | What are you doing here in my office? | #231: Ты что здесь? | adapted: adapted |
+| 10 | Нагиев | Знай, что это моя месть. | Know that this is my revenge. | #233: месть | adapted: adapted |
+| 11 | Нагиев | Это блюдо, которое подают холодным. | It is a dish that is served cold. | #234: Это блюдо, которое подают холодным | adapted: verbatim |
+| 12 | Нагиев | А я тебе его разогрел. | And I warmed it up for you. | #234: а я тебе<br>#234: разогрел | adapted: adapted |
+| 13 | Шеф | Ты что, убил моего Аркадия?! | Wait, did you kill my Arkady?! | #235: Ты убил | adapted: adapted |
+| 14 | Нагиев | Питаюсь плохо, надо к врачу сходить. | I am eating poorly, I should go see a doctor. | #236: Питаюсь, наверное, плохо, надо к врачу сходить | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What are you doing in my room?' Notice how Russian expresses 'what' and 'are doing' with crisp inflection rather than helper words. Mikhail answers right away.
-- 'Excuse me, please, I cannot wait.' Mikhail anchors the line on 'excuse me', while 'can' completes the thought.
-- 'Give me just five minutes.' The grammar packs 'give' and 'minutes' into a tight, idiomatic kitchen exchange.
-- 'Get out of here, I told you!' Here the Russian phrasing highlights 'go' before landing on 'said'.
-- 'Did Barinov decide to take revenge on me like this?' Notice how Russian expresses 'proper name' and 'to take revenge' with crisp inflection rather than helper words.
-- 'You cannot be trusted with anything.' The meaning hinges on 'to you' working together with 'one must not' in spoken Russian.
-- 'Do we have girls of easy virtue?' Notice how Russian expresses 'at' and 'of behavior' with crisp inflection rather than helper words.
-- 'Go upstairs to the room right now.' Mikhail brings out the contrast between 'go upstairs' and 'now' in a few short words.
-- 'What are you doing here in my office?' Chef Barinov raises the pitch on 'are doing' to turn the phrase into a direct spoken question.
-- 'Know that this is my revenge.' Dmitry Nagiyev anchors the line on 'to know', while 'revenge' completes the thought.
-- 'It is a dish that is served cold.' The grammar packs 'this' and 'cold' into a tight, idiomatic kitchen exchange.
-- 'And I warmed it up for you.' Here the Russian phrasing highlights 'and' before landing on 'warmed up'.
-- 'Wait, did you kill my Arkady?!' The '-l' ending on the verb meaning 'killed' places the action in the masculine past tense. Dmitry Nagiyev answers right away.
-- 'I am eating poorly, I should go see a doctor.' Here the Russian phrasing highlights 'I eat' before landing on 'to go'.
+- 'What are you doing in my room?' Asking what Barinov doing in his room is is how Nagiyev puts Barinov on the spot. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Excuse me, please, I cannot wait.' Mikhail tells Barinov that he cannot wait without dressing it up.
+- 'Give me just five minutes.' Mikhail mentions that Barinov should give him just five minutes so Barinov sees what is at stake.
+- 'Get out of here, I told you!' Getting out of here he told Barinov is Nagiyev's blunt reaction in front of Barinov. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Did Barinov decide to take revenge on me like this?' Here asking whether Barinov decide to take revenge on him like this shows Nagiyev looking for the real truth.
+- 'You cannot be trusted with anything.' Because Barinov cannot be trusted with anything, Mikhail treats the matter as settled. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
+- 'Do we have girls of easy virtue?' Asking whether they have girls of easy virtue cuts straight through the tension between Mikhail and Barinov. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
+- 'Go upstairs to the room right now.' Going upstairs to the room right now is how Mikhail lays out the situation for Barinov.
+- 'What are you doing here in my office?' Wondering what Mikhail doing here in his office is is how Barinov puts Mikhail on the spot. Russian expresses having something as "by me is", keeping the phrase short and grounded.
+- 'Know that this is my revenge.' Knowing that this is his revenge is how Nagiyev lays out the situation for Barinov. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'It is a dish that is served cold.' Saying that it is a dish that is served cold is how Nagiyev sets the tone with Barinov.
+- 'And I warmed it up for you.' Over the shift and the revenge, Nagiyev answers Barinov without a second thought. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Wait, did you kill my Arkady?!' Here asking whether Mikhail kills his Arkady shows Barinov looking for the real truth. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'I am eating poorly, I should go see a doctor.' Once he is eating poorly he should go see a doctor, Nagiyev can finally tell Barinov what he means.

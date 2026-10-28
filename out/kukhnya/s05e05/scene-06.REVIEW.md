@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Костя | У чувака на форуме такая же проблема. | A guy on the forum has the exact same problem. | #95 00:06:41: У чувака на форуме такая же | adapted: adapted |
-| 2 | Костя | Моя бывшая беременна, говорит, что не от меня. | My ex is pregnant and says it is not mine. | #97 00:06:46: Моя бывшая беременна. Говорит, что не от меня | adapted: adapted |
-| 3 | Костя | Но я точно знаю, что ребёнок мой. | But I know for sure that the child is mine. | #98 00:06:48: Но я точно знаю, что ребенок мой | adapted: adapted |
-| 4 | Аня | Что советуют? | What do they advise? | #100 00:06:52: Что советует | adapted: adapted |
-| 5 | Костя | Расслабься и наслаждайся жизнью. | Relax and enjoy life. | #101 00:06:55: и наслаждайся жизнью | adapted: adapted |
-| 6 | Настя | Чай будете? | Will you have tea? | #104 00:07:02: Чай будете | adapted: adapted |
-| 7 | Аня | А может, это ребёнок не от меня, правда? | Maybe this child really is not mine? | #105 00:07:05: а может, это ребенок не от меня, правда | adapted: adapted |
-| 8 | Настя | Вы с Викой расстались, и она сразу кого-то нашла? | You and Vika broke up, and she immediately found someone? | #107 00:07:11: вы с Викой расстались, и она сразу | adapted: adapted |
-| 9 | Настя | Убедиться в том, что ребёнок твой, очень просто. | Making sure that the child is yours is very simple. | #108 00:07:14: Убедиться в том, что ребенок твой, очень просто | adapted: adapted |
-| 10 | Аня | Как раз перед моим отъездом. | Right before my departure. | #110 00:07:18: Как раз перед моим отъездом | adapted: adapted |
-| 11 | Настя | Получается, пять месяцев назад. | That means five months ago. | #111 00:07:22: Получается, пять месяцев назад | adapted: adapted |
-| 12 | Аня | Осталось только это проверить. | All that is left is to check this. | #113 00:07:30: Осталось только это проверить | adapted: adapted |
+| 1 | Костя | У чувака на форуме такая же проблема. | A guy on the forum has the exact same problem. | #95: У чувака на форуме такая же | adapted: adapted |
+| 2 | Костя | Моя бывшая беременна, говорит, что не от меня. | My ex is pregnant and says it is not mine. | #97: Моя бывшая беременна. Говорит, что не от меня | adapted: adapted |
+| 3 | Костя | Но я точно знаю, что ребёнок мой. | But I know for sure that the child is mine. | #98: Но я точно знаю, что ребенок мой | adapted: adapted |
+| 4 | Макс | Что советуют? | What do they advise? | #100: Что советует | adapted: adapted |
+| 5 | Костя | Расслабься и наслаждайся жизнью. | Relax and enjoy life. | #101: и наслаждайся жизнью | adapted: adapted |
+| 6 | Настя | Чай будете? | Will you have tea? | #104: Чай будете | adapted: adapted |
+| 7 | Макс | А может, это ребёнок не от меня, правда? | Maybe this child really is not mine? | #105: а может, это ребенок не от меня, правда | adapted: adapted |
+| 8 | Настя | Вы с Викой расстались, и она сразу кого-то нашла? | You and Vika broke up, and she immediately found someone? | #107: вы с Викой расстались, и она сразу | adapted: adapted |
+| 9 | Настя | Убедиться в том, что ребёнок твой, очень просто. | Making sure that the child is yours is very simple. | #108: Убедиться в том, что ребенок твой, очень просто | adapted: adapted |
+| 10 | Макс | Как раз перед моим отъездом. | Right before my departure. | #110: Как раз перед моим отъездом | adapted: adapted |
+| 11 | Настя | Получается, пять месяцев назад. | That means five months ago. | #111: Получается, пять месяцев назад | adapted: adapted |
+| 12 | Макс | Осталось только это проверить. | All that is left is to check this. | #113: Осталось только это проверить | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'A guy on the forum has the exact same problem.' The grammar packs 'at' and 'problem' into a tight, idiomatic kitchen exchange.
-- 'My ex is pregnant and says it is not mine.' Here the Russian phrasing highlights 'my' before landing on 'me'.
-- 'But I know for sure that the child is mine.' In Russian, the idea of 'but' flows naturally into 'my' without extra filler words.
-- 'What do they advise?' Max raises the pitch on 'advise' to turn the phrase into a direct spoken question. Kostya answers right away.
-- 'Relax and enjoy life.' In Russian, the idea of 'relax' flows naturally into 'life' without extra filler words.
-- 'Will you have tea?' In Russian, the idea of 'tea' flows naturally into 'will' without extra filler words.
-- 'Maybe this child really is not mine?' Spoken Russian keeps this brisk, leaning on 'and' and finishing on 'really'. Nastya answers right away.
-- 'You and Vika broke up, and she immediately found someone?' Notice how Russian expresses 'you' and 'found' with crisp inflection rather than helper words.
-- 'Making sure that the child is yours is very simple.' In Russian, the idea of 'to make sure' flows naturally into 'simply' without extra filler words.
-- 'Right before my departure.' The meaning hinges on 'how' working together with 'departure' in spoken Russian. Nastya answers right away.
-- 'That means five months ago.' Here the Russian phrasing highlights 'to work out' before landing on 'back'.
-- 'All that is left is to check this.' The meaning hinges on 'remained' working together with 'to check' in spoken Russian.
+- 'A guy on the forum has the exact same problem.' Pointing out that a guy on the forum has the exact same problem gives Max a sobering reality check.
+- 'My ex is pregnant and says it is not mine.' Kostya explains that his ex is pregnant and says it is not, keeping his voice calm and direct.
+- 'But I know for sure that the child is mine.' Knowing for sure that the child is is how Kostya lays out the situation for Max.
+- 'What do they advise?' Wondering what they advise is how Max puts Kostya on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Relax and enjoy life.' Kostya mentions that Max should relax and enjoy life so Max sees what is at stake.
+- 'Will you have tea?' By asking whether Kostya has tea, Nastya presses Kostya for a straight answer. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Maybe this child really is not mine?' Max asks whether maybe this child really is not, refusing to let the point slide. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'You and Vika broke up, and she immediately found someone?' Asking whether Kostya and Vika broke up and she immediately found someone puts Kostya right on the defensive.
+- 'Making sure that the child is yours is very simple.' Adding that making sure that the child is Kostya's is very simple fills in the missing piece for Kostya. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Right before my departure.' Over the apartment and the moment, Max answers Kostya without a second thought.
+- 'That means five months ago.' Since that means five months ago, Nastya does not waste words on excuses.
+- 'All that is left is to check this.' Mentioning that all that is left is to check this moves the talk in a new direction. Russian drops "is" in the present, setting the two halves of the thought side by side.

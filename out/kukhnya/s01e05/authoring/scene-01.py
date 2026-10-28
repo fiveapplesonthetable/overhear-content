@@ -4,31 +4,30 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 5
 SCENE = 1
-TITLE = "Ссора из-за поцелуя  (A Quarrel Over a Kiss)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Ссора из-за поцелуя  (A Quarrel Over a Kiss)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "anya": "alisa", "kostya": "anja"}
-LABELS = {"anya": "Макс", "kostya": "Костя"}
+LABELS = {'kostya': 'Костя', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.05'
 SOURCE_FILE = 'sources/kukhnya/s01/e05.ru.dual.srt'
 INTRO = "Morning at Claude Monet begins with high drama behind the bar. Bartender Kostya confronts Max in a fury after finding out Max kissed waitress Nastya during yesterday's shift. Max frantically tries to convince his best friend that the kiss was a sleep-deprived accident and that he has no feelings for Nastya. Let's listen to their argument in Russian first."
 OPENER = "Now let's examine Max and Kostya's argument line by line."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = 'That wraps up this scene from Kukhnya. Listen for these everyday Russian expressions when you watch the episode. See you next time!'
-CLOSING = ("kostya", "Пока!")
+CLOSING = ('kostya', 'Пока!')
 STORY = [
-    ('anya', 'Костя, привет. Почему ты сердишься?', 'Kostya, hi. Why are you angry?', [], ''),
+    ('max', 'Костя, привет. Почему ты сердишься?', 'Kostya, hi. Why are you angry?', [], ''),
     ('kostya', 'Отвали, или я сломаю тебе нос!', 'Back off, or I will break your nose!', [(6, 'Отвали, или я тебе нос сломаю')], ''),
-    ('anya', 'За что? Что я тебе сделал?', 'What for? What did I do to you?', [(7, 'За что')], ''),
+    ('max', 'За что? Что я тебе сделал?', 'What for? What did I do to you?', [(7, 'За что')], ''),
     ('kostya', 'Ты вчера целовался с моей девушкой!', 'Yesterday you kissed my girl!', [(7, 'ты целовался с моей девушкой')], ''),
-    ('anya', 'Это было совершенно случайное недоразумение.', 'It was a completely accidental misunderstanding.', [(11, 'это вообще недоразумение было')], ''),
+    ('max', 'Это было совершенно случайное недоразумение.', 'It was a completely accidental misunderstanding.', [(11, 'это вообще недоразумение было')], ''),
     ('kostya', 'Вы целовались прямо в ресторане!', 'You were kissing right in the restaurant!', [], ''),
-    ('anya', 'Я вчера весь день хотел спать.', 'I wanted to sleep all day yesterday.', [(12, 'Я вчера весь день'), (12, 'спать хотел')], ''),
-    ('anya', 'Кстати, технически она пока не твоя.', 'By the way, technically she is not yours yet.', [(13, 'Кстати, технически она пока не твоя')], ''),
+    ('max', 'Я вчера весь день хотел спать.', 'I wanted to sleep all day yesterday.', [(12, 'Я вчера весь день'), (12, 'спать хотел')], ''),
+    ('max', 'Кстати, технически она пока не твоя.', 'By the way, technically she is not yours yet.', [(13, 'Кстати, технически она пока не твоя')], ''),
     ('kostya', 'Для меня это не имеет значения.', 'For me that does not matter.', [], ''),
-    ('anya', 'Между мной и Настей ничего нет!', 'There is nothing between me and Nastya!', [(15, 'между нами ничего нет')], ''),
+    ('max', 'Между мной и Настей ничего нет!', 'There is nothing between me and Nastya!', [(15, 'между нами ничего нет')], ''),
     ('kostya', 'Ты предал нашу дружбу, Макс.', 'You betrayed our friendship, Max.', [], ''),
-    ('anya', 'Я докажу, что она мне безразлична.', 'I will prove that she means nothing to me.', [], ''),
+    ('max', 'Я докажу, что она мне безразлична.', 'I will prove that she means nothing to me.', [], ''),
     ('kostya', 'Посмотрим, как ты это докажешь.', 'We will see how you prove it.', [], ''),
 ]
 WALK = [

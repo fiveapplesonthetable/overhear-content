@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Ну что там? | Well, what does it say? | #25 00:02:08: Ну что там? | verbatim |
-| 2 | Вика | Опять одна. | Only one line again. | #26 00:02:11: Опять одна. | verbatim |
-| 3 | Аня | Фу, слава богу. | Phew, thank goodness. | #27 00:02:12: Фу, слава богу. | verbatim |
-| 4 | Аня | Ой, извини, по привычке. | Oops, sorry, out of habit. | #28 00:02:14: Ой, извини,<br>#28 00:02:14: привычки. | verbatim |
-| 5 | Врач | Ничего страшного. Судя по анализам, вы здоровы. | Nothing terrible. Judging by the tests, you are healthy. | #29 00:02:18: Ничего страшного. Судя по анализам, вы здоровы. | verbatim |
-| 6 | Врач | В ближайшие два дня советую вам хорошенько потрудиться. | Over the next two days I advise you to work really hard. | #30 00:02:20: в ближайшие два дня советую вам хорошенько<br>#31 00:02:25: потрудиться. | verbatim |
-| 7 | Вика | Извините, а как часто мы должны? | Excuse me, and how often should we try? | #32 00:02:28: Извините, а как часто мы должны? | verbatim |
-| 8 | Врач | Ну, это уже зависит от вас. | Well, that depends on you. | #33 00:02:31: Ну, это уже зависит от вас. | verbatim |
-| 9 | Врач | Кто-то может и семь раз. | Some people can manage seven times. | #34 00:02:33: Кто-то может и семь раз | verbatim |
-| 10 | Вика | Ну, семь так семь. | Well, seven it is then. | #35 00:02:37: Ну, семь так семь. | verbatim |
-| 11 | Аня | Семь? | Seven times? | #36 00:02:39: Семь? | verbatim |
-| 12 | Врач | Имеется в виду за два дня. | I mean over the course of two days. | #37 00:02:41: за два дня. | verbatim |
+| 1 | Макс | Ну что там? | Well, what does it say? | #25: Ну что там? | verbatim |
+| 2 | Вика | Опять одна. | Only one line again. | #26: Опять одна. | verbatim |
+| 3 | Макс | Фу, слава богу. | Phew, thank goodness. | #27: Фу, слава богу. | verbatim |
+| 4 | Макс | Ой, извини, по привычке. | Oops, sorry, out of habit. | #28: Ой, извини,<br>#28: привычки. | verbatim |
+| 5 | Врач | Ничего страшного. Судя по анализам, вы здоровы. | Nothing terrible. Judging by the tests, you are healthy. | #29: Ничего страшного. Судя по анализам, вы здоровы. | verbatim |
+| 6 | Врач | В ближайшие два дня советую вам хорошенько потрудиться. | Over the next two days I advise you to work really hard. | #30: в ближайшие два дня советую вам хорошенько<br>#31: потрудиться. | verbatim |
+| 7 | Вика | Извините, а как часто мы должны? | Excuse me, and how often should we try? | #32: Извините, а как часто мы должны? | verbatim |
+| 8 | Врач | Ну, это уже зависит от вас. | Well, that depends on you. | #33: Ну, это уже зависит от вас. | verbatim |
+| 9 | Врач | Кто-то может и семь раз. | Some people can manage seven times. | #34: Кто-то может и семь раз | verbatim |
+| 10 | Вика | Ну, семь так семь. | Well, seven it is then. | #35: Ну, семь так семь. | verbatim |
+| 11 | Макс | Семь? | Seven times? | #36: Семь? | verbatim |
+| 12 | Врач | Имеется в виду за два дня. | I mean over the course of two days. | #37: за два дня. | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, what does it say?' Max keeps this everyday Russian response short and direct, without needing English helper words like 'am', 'is', or 'are'.
-- 'Only one line again.' Spoken Russian keeps this brief and expressive, built right around 'again' without extra helper words.
-- 'Phew, thank goodness.' Max pairs 'glory' with 'to God' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
-- 'Oops, sorry, out of habit.' Notice how Russian puts 'sorry' and 'habit' together in a short, direct phrase where word endings show how the ideas connect.
-- 'Nothing terrible. Judging by the tests, you are healthy.' Here the doctor anchors the thought on 'terrible' and finishes on 'healthy, well; huge', keeping the spoken rhythm brisk and natural.
-- 'Over the next two days I advise you to work really hard.' In everyday Russian, 'next' flows straight into 'to take the trouble, to bother' without extra linking words.
-- 'Excuse me, and how often should we try?' Vika raises the pitch on the key word to turn this short Russian clause into a direct question.
-- 'Well, that depends on you.' Notice how Russian puts 'already' and 'depends' together in a short, direct phrase where word endings show how the ideas connect.
-- 'Some people can manage seven times.' Here the doctor anchors the thought on 'maybe' and finishes on 'time, occasion', keeping the spoken rhythm brisk and natural.
-- 'Well, seven it is then.' Spoken Russian keeps this brief and expressive, built right around 'so, like this' without extra helper words.
-- 'Seven times?' Max raises the pitch on the key word to turn this short Russian clause into a direct question.
-- 'I mean over the course of two days.' Notice how Russian puts 'is available, I have' and 'day' together in a short, direct phrase where word endings show how the ideas connect.
+- 'Well, what does it say?' By asking what it say, Max presses the doctor for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Only one line again.' Between the visit and the moment, Vika gives the doctor a quick, grounded response.
+- 'Phew, thank goodness.' With the visit and point in play, Max keeps this short reply brisk and direct.
+- 'Oops, sorry, out of habit.' Around the visit and truth, Max sets a calm, everyday tone with the doctor.
+- 'Nothing terrible. Judging by the tests, you are healthy.' Noting that judging by the tests Max is healthy keeps the doctor's side of the story simple and clear. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
+- 'Over the next two days I advise you to work really hard.' Even though over the next two days he advises Max to work really hard, the doctor keeps a steady face in front of Max.
+- 'Excuse me, and how often should we try?' Asking whether how often should they try puts the doctor right on the defensive. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Well, that depends on you.' Around the kitchen and conversation, the doctor sets a calm, everyday tone with Max. Notice how he sticks to the formal "you", keeping a professional line between them.
+- 'Some people can manage seven times.' Once some people can manage seven times, the doctor can finally tell Max what he means.
+- 'Well, seven it is then.' Adding that seven it is then fills in the missing piece for the doctor.
+- 'Seven times?' Over the visit and the point, Max presses the doctor for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'I mean over the course of two days.' Admitting that he means over the course of two days shows the doctor being honest for a change.

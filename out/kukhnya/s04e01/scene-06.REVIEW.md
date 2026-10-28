@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Костя | Ты что? | What is wrong with you? | #86 00:08:59: Ты что? | verbatim |
-| 2 | Аня | Да так, семейное. | Oh, just family stuff. | #87 00:09:02: Да так | verbatim |
-| 3 | Аня | Меня Вика уже достала. | Vika has really worn me out. | #88 00:09:06: Вика уже достала | verbatim |
-| 4 | Аня | Пилит по каждому поводу. | She nags me over every little thing. | #89 00:09:08: Пилит по каждому поводу. | verbatim |
-| 5 | Костя | Найди какой-нибудь её косяк. | Find some mistake of hers. | #90 00:09:11: найди какой-нибудь ее косяк | verbatim |
-| 6 | Костя | Тогда она не сможет тебя упрекнуть. | Then she won't be able to reproach you. | #91 00:09:13: не сможет тебя упрекнуть | verbatim |
-| 7 | Аня | Какой косяк? | What kind of mistake? | #92 00:09:15: Какой косяк? | verbatim |
-| 8 | Костя | Не знаю. | I don't know. | #93 00:09:17: Не знаю. | verbatim |
-| 9 | Костя | Или бритвой твоей пользуется. | Or maybe she uses your razor. | #96 00:09:31: Или бритвой твоей пользуется. | verbatim |
-| 10 | Настя | Бывает же такое? | Does that really happen? | #98 00:09:40: Бывает же такое? | verbatim |
-| 11 | Аня | Да вроде нет. | It doesn't seem so. | #99 00:09:42: Да вроде нет. | verbatim |
-| 12 | Костя | Ищи. | Keep looking. | #101 00:09:51: Ищи. | verbatim |
+| 1 | Костя | Ты что? | What is wrong with you? | #86: Ты что? | verbatim |
+| 2 | Макс | Да так, семейное. | Oh, just family stuff. | #87: Да так | verbatim |
+| 3 | Макс | Меня Вика уже достала. | Vika has really worn me out. | #88: Вика уже достала | verbatim |
+| 4 | Макс | Пилит по каждому поводу. | She nags me over every little thing. | #89: Пилит по каждому поводу. | verbatim |
+| 5 | Костя | Найди какой-нибудь её косяк. | Find some mistake of hers. | #90: найди какой-нибудь ее косяк | verbatim |
+| 6 | Костя | Тогда она не сможет тебя упрекнуть. | Then she won't be able to reproach you. | #91: не сможет тебя упрекнуть | verbatim |
+| 7 | Макс | Какой косяк? | What kind of mistake? | #92: Какой косяк? | verbatim |
+| 8 | Костя | Не знаю. | I don't know. | #93: Не знаю. | verbatim |
+| 9 | Костя | Или бритвой твоей пользуется. | Or maybe she uses your razor. | #96: Или бритвой твоей пользуется. | verbatim |
+| 10 | Настя | Бывает же такое? | Does that really happen? | #98: Бывает же такое? | verbatim |
+| 11 | Макс | Да вроде нет. | It doesn't seem so. | #99: Да вроде нет. | verbatim |
+| 12 | Костя | Ищи. | Keep looking. | #101: Ищи. | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What is wrong with you?' Kostya raises the pitch on the key word to turn this short Russian clause into a direct question.
-- 'Oh, just family stuff.' In everyday Russian, 'so, like this' flows straight into 'family' without extra linking words.
-- 'Vika has really worn me out.' Max pairs 'already' with 'to take out, to get, to reach' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
-- 'She nags me over every little thing.' Notice how Russian puts 'nag' and 'matter' together in a short, direct phrase where word endings show how the ideas connect.
-- 'Find some mistake of hers.' Here Kostya anchors the thought on 'find' and finishes on 'hers', keeping the spoken rhythm brisk and natural.
-- 'Then she won't be able to reproach you.' In everyday Russian, 'then, in that case' flows straight into 'to reproach' without extra linking words.
-- 'What kind of mistake?' Max raises the pitch on the key word to turn this short Russian clause into a direct question.
-- 'I don't know.' Spoken Russian keeps this brief and expressive, built right around 'know' without extra helper words.
-- 'Or maybe she uses your razor.' Here Kostya anchors the thought on 'razor' and finishes on 'to use, to take advantage of', keeping the spoken rhythm brisk and natural.
-- 'Does that really happen?' In spoken Russian, the words stay in their normal statement order and Nastya's rising voice at the end turns the line into a question.
-- 'It doesn't seem so.' Max keeps this everyday Russian response short and direct, without needing English helper words like 'am', 'is', or 'are'.
-- 'Keep looking.' Spoken Russian keeps this brief and expressive, built right around 'look for' without extra helper words.
+- 'What is wrong with you?' Here asking what wrong with Max is shows Kostya looking for the real truth. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Oh, just family stuff.' Around the shift and friend, Max sets a calm, everyday tone with Kostya.
+- 'Vika has really worn me out.' Because Vika has really worn him out, Max treats the matter as settled.
+- 'She nags me over every little thing.' With the shift and mistake in play, Max keeps this short reply brisk and direct.
+- 'Find some mistake of hers.' Adding that Max should find some mistake of hers fills in the missing piece for Max.
+- 'Then she won't be able to reproach you.' Claiming that she will not be able to reproach Max sounds confident, even if Max has doubts. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'What kind of mistake?' With the mistake and moment hanging in the air, Max puts Kostya on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'I don't know.' Once he does not know, Kostya can finally tell Max what he means.
+- 'Or maybe she uses your razor.' Realizing that maybe she uses Max's razor changes how Kostya handles the situation.
+- 'Does that really happen?' By checking whether that really happen, Nastya presses Kostya for a straight answer. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'It doesn't seem so.' Even though it does not seem, Max keeps a steady face in front of Kostya.
+- 'Keep looking.' Realizing that Max should keep looking changes how Kostya handles the situation.

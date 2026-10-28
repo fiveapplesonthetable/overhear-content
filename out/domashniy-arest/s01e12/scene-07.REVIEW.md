@@ -12,17 +12,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 |---|---|---|---|---|---|
 | 1 | Таможенник | Здравствуйте, покажите ваши документы на машину. | Hello, show your documents for the car. | new | new |
 | 2 | Самсон | Пожалуйста, вот все нужные бумаги. | Please, here are all the necessary papers. | new | new |
-| 3 | Таможенник | Скажите, какого года эта Фронтера? | Tell me, what year is this Frontera? | #128 00:15:29: Какого года Фронтера | verbatim |
-| 4 | Самсон | Эта машина две тысячи восьмого года. | This car is from the year 2008. | #129 00:15:31: Восьмого | verbatim |
-| 5 | Таможенник | Да, это действительно очень хорошая машина. | Yes, this is truly a very good car. | #130 00:15:33: Хорошая машина | verbatim |
+| 3 | Таможенник | Скажите, какого года эта Фронтера? | Tell me, what year is this Frontera? | #128: Какого года Фронтера | verbatim |
+| 4 | Самсон | Эта машина две тысячи восьмого года. | This car is from the year 2008. | #129: Восьмого | verbatim |
+| 5 | Таможенник | Да, это действительно очень хорошая машина. | Yes, this is truly a very good car. | #130: Хорошая машина | verbatim |
 | 6 | Самсон | Мы пригоняем только самые надёжные автомобили. | We bring in only the most reliable cars. | new | new |
 | 7 | Таможенник | Куда вы сейчас направляетесь на ней? | Where are you heading in it now? | new | new |
 | 8 | Самсон | Мы сейчас спешим в город Синеозёрск. | We are hurrying to the town of Sineozersk now. | new | new |
-| 9 | Самсон | Слышишь, братан, пропусти нас скорее вперёд. | Listen, bro, let us through forward quickly. | #131 00:15:35: Слышь, братан | verbatim |
-| 10 | Самсон | Мы очень сильно торопимся по делам. | We are in a very big hurry on business. | #131 00:15:35: торопимся | verbatim |
+| 9 | Самсон | Слышишь, братан, пропусти нас скорее вперёд. | Listen, bro, let us through forward quickly. | #131: Слышь, братан | verbatim |
+| 10 | Самсон | Мы очень сильно торопимся по делам. | We are in a very big hurry on business. | #131: торопимся | verbatim |
 | 11 | Таможенник | Хорошо, с документами всё в порядке. | Alright, everything is in order with the documents. | new | new |
-| 12 | Самсон | Большое спасибо за вашу быструю помощь! | Thank you very much for your quick help! | #132 00:15:39: Спасибо | verbatim |
-| 13 | Таможенник | Давай, счастливого пути и хорошей дороги! | Go ahead, safe travels and have a good road! | #133 00:15:39: Давай | verbatim |
+| 12 | Самсон | Большое спасибо за вашу быструю помощь! | Thank you very much for your quick help! | #132: Спасибо | verbatim |
+| 13 | Таможенник | Давай, счастливого пути и хорошей дороги! | Go ahead, safe travels and have a good road! | #133: Давай | verbatim |
 | 14 | Самсон | Спасибо, друг, мы поехали дальше! | Thanks, friend, we drove on further! | new | new |
 
 ## Walk-through narration (English only, no target-language words quoted)

@@ -4,18 +4,17 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 7
 SCENE = 4
-TITLE = "Уксус и воровство  (Vinegar and Theft)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Уксус и воровство  (Vinegar and Theft)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "fedya": "anja", "senya": "angelina", "anya": "alisa"}
-LABELS = {"fedya": "Федя", "senya": "Сеня", "anya": "Макс"}
+LABELS = {'fedya': 'Федя', 'max': 'Макс', 'senya': 'Сеня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.07'
 SOURCE_FILE = 'sources/kukhnya/s01/e07.ru.dual.srt'
 INTRO = 'In the restaurant kitchen, prankster cook Fedya catches his buddy Senya secretly stealing a bottle of culinary vinegar. Senya invents hilarious excuses about starving children, and the two rush to prepare meat before Chef Barinov returns from the morning market. Listen to their funny dialogue in Russian first, and then we will examine every line.'
 OPENER = "Let's examine this kitchen conversation step by step."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "That concludes our fourth scene. In Kukhnya, petty kitchen mischief is always cut short by the fear of the head chef's wrath. See you next time!"
-CLOSING = ("anya", "До встречи!")
+CLOSING = ('max', 'До встречи!')
 STORY = [
     ('fedya', 'Ты что, совсем с ума сошёл?', 'Have you completely lost your mind?', [(24, 'Ты что, совсем что ли уже')], ''),
     ('fedya', 'Ты зачем воруешь наш уксус?', 'Why are you stealing our vinegar?', [(25, 'Ты уксус тырешь')], ''),

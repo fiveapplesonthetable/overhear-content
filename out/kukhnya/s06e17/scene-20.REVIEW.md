@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Шеф | Господи, за что меня наказываешь? | Lord, why are you punishing me? | #321 00:20:47: Господи, за что ты меня наказываешь | adapted: adapted |
-| 2 | Шеф | Нет дыхания, начинаем реанимацию. | No breathing, we are starting resuscitation. | #322 00:20:53: Нет дыхания, нет. Начинаем | adapted: adapted |
-| 3 | Шеф | У нас Лёва опять заклинил. | Our Lyova jammed up again. | #324 00:21:06: он опять заклинил | adapted: adapted |
-| 4 | Шеф | Витя, что ты за человек? | Vitya, what kind of person are you? | #325 00:21:24: Витя, вот что ты за человек | adapted: adapted |
-| 5 | Шеф | Всю свадьбу испортил похоронами. | You ruined the whole wedding with a funeral. | #326 00:21:27: Всю свадьбу испортил своими похоронами | adapted: adapted |
-| 6 | Шеф | Давай выпьем за наш оптимизм. | Let us drink to our optimism. | #329 00:21:35: Выпьем за оптимизм | adapted: adapted |
-| 7 | Шеф | Виктор Петрович находится в коме. | Viktor Petrovich is in a coma. | #330 00:21:44: Виктор Петрович сейчас находится в коме | adapted: adapted |
-| 8 | Шеф | Его состояние стабильно тяжёлое. | His condition is stable but serious. | #331 00:21:47: Состояние стабильно тяжелое | adapted: adapted |
-| 9 | Элеонора | Витя, прости меня, пожалуйста. | Vitya, forgive me, please. | #332 00:22:39: Прости меня | adapted: adapted |
-| 10 | Элеонора | Этот инспектор был не настоящим. | That inspector was not real. | #332 00:22:39: Инспектор был не настоящим | adapted: adapted |
-| 11 | Элеонора | Это я сама всё подстроила. | I staged all of this myself. | #333 00:22:43: Это я все подстроил | adapted: adapted |
-| 12 | Элеонора | Кто же знал, что так получится. | Who could have known it would turn out like this. | #334 00:22:47: знал, что так получится | adapted: adapted |
+| 1 | Шеф | Господи, за что меня наказываешь? | Lord, why are you punishing me? | #321: Господи, за что ты меня наказываешь | adapted: adapted |
+| 2 | Врач | Нет дыхания, начинаем реанимацию. | No breathing, we are starting resuscitation. | #322: Нет дыхания, нет. Начинаем | adapted: adapted |
+| 3 | Шеф | У нас Лёва опять заклинил. | Our Lyova jammed up again. | #324: он опять заклинил | adapted: adapted |
+| 4 | Шеф | Витя, что ты за человек? | Vitya, what kind of person are you? | #325: Витя, вот что ты за человек | adapted: adapted |
+| 5 | Шеф | Всю свадьбу испортил похоронами. | You ruined the whole wedding with a funeral. | #326: Всю свадьбу испортил своими похоронами | adapted: adapted |
+| 6 | Шеф | Давай выпьем за наш оптимизм. | Let us drink to our optimism. | #329: Выпьем за оптимизм | adapted: adapted |
+| 7 | Врач | Виктор Петрович находится в коме. | Viktor Petrovich is in a coma. | #330: Виктор Петрович сейчас находится в коме | adapted: adapted |
+| 8 | Врач | Его состояние стабильно тяжёлое. | His condition is stable but serious. | #331: Состояние стабильно тяжелое | adapted: adapted |
+| 9 | Элеонора | Витя, прости меня, пожалуйста. | Vitya, forgive me, please. | #332: Прости меня | adapted: adapted |
+| 10 | Элеонора | Этот инспектор был не настоящим. | That inspector was not real. | #332: Инспектор был не настоящим | adapted: adapted |
+| 11 | Элеонора | Это я сама всё подстроила. | I staged all of this myself. | #333: Это я все подстроил | adapted: adapted |
+| 12 | Элеонора | Кто же знал, что так получится. | Who could have known it would turn out like this. | #334: знал, что так получится | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lord, why are you punishing me?' The grammar packs 'Lord' and 'you punish' into a tight, idiomatic kitchen exchange.
-- 'No breathing, we are starting resuscitation.' the doctor anchors the line on 'no', while 'resuscitation' completes the thought. Chef Barinov answers right away.
-- 'Our Lyova jammed up again.' The '-l' ending on the verb meaning 'jammed' places the action in the masculine past tense.
-- 'Vitya, what kind of person are you?' The meaning hinges on 'what' working together with 'man' in spoken Russian.
-- 'You ruined the whole wedding with a funeral.' The '-l' ending on the verb meaning 'ruined' places the action in the masculine past tense.
-- 'Let us drink to our optimism.' Spoken Russian keeps this brisk, leaning on 'come on' and finishing on 'optimism'.
-- 'Viktor Petrovich is in a coma.' In Russian, the idea of 'is located' flows naturally into 'coma' without extra filler words.
-- 'His condition is stable but serious.' Here the Russian phrasing highlights 'his' before landing on 'heavy'. Eleonora answers right away.
-- 'Vitya, forgive me, please.' Eleonora brings out the contrast between 'forgive' and 'me' in a few short words.
-- 'That inspector was not real.' The meaning hinges on 'this' working together with 'real' in spoken Russian.
-- 'I staged all of this myself.' Notice how Russian expresses 'this' and 'to set up' with crisp inflection rather than helper words.
-- 'Who could have known it would turn out like this.' The meaning hinges on 'who' working together with 'will work out' in spoken Russian.
+- 'Lord, why are you punishing me?' When Barinov asks if someone why are the doctor punishing him, the doctor has to answer fast. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'No breathing, we are starting resuscitation.' The doctor tells Barinov that breathing they are starting resuscitation without dressing it up.
+- 'Our Lyova jammed up again.' With the doctor and conversation in play, Barinov keeps this short reply brisk and direct.
+- 'Vitya, what kind of person are you?' Wondering if what kind of person are the doctor shows Barinov caught off guard. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'You ruined the whole wedding with a funeral.' With the doctor and truth in play, Barinov keeps this short reply brisk and direct.
+- 'Let us drink to our optimism.' Noting that they should drink to their optimism keeps Barinov's side of the story simple and clear.
+- 'Viktor Petrovich is in a coma.' Explaining that Viktor Petrovich is in a coma lays the cards on the table for Barinov.
+- 'His condition is stable but serious.' The doctor mentions that his condition is stable but serious so Barinov sees what is at stake.
+- 'Vitya, forgive me, please.' Around the shift and doctor, Eleonora sets a calm, everyday tone with Barinov.
+- 'That inspector was not real.' Pointing out that that inspector was not real gives Barinov a sobering reality check.
+- 'I staged all of this myself.' Between the shift and the doctor, Eleonora gives Barinov a quick, grounded response. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'Who could have known it would turn out like this.' Realizing that who could have known it would turn out like this changes how Eleonora handles the situation.

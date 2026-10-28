@@ -7,8 +7,7 @@ SCENE = 24
 TITLE = 'Sept mois  (Seven Months)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'jean': 'theo', 'lea': 'lucie'}
-LABELS = {'jean': 'Jean', 'lea': 'Andréa'}
+LABELS = {'andrea': 'Andréa', 'jean': 'Jean'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e01.fr.dual.srt'
 INTRO = "In her ASK office, Andrea Martel shares a quiet moment with star actor Jean Dujardin. When Jean offers her a drink, he suddenly notices her rounded belly and discovers that Andrea is seven months pregnant. Let's listen to their intimate conversation in French first."
@@ -18,19 +17,19 @@ OUTRO = "Jean connects the timeline of Andrea's pregnancy with the start of his 
 CLOSING = ('jean', 'Bonne soirée!')
 STORY = [
     ('jean', 'Tu veux boire un verre de whisky?', 'Do you want to drink a glass of whisky?', [(1004, 'boire du whisky')], ''),
-    ('lea', 'Pas pour moi, ça va très bien.', 'Not for me, I am doing fine.', [(1002, 'Pas pour moi, ça va.')], ''),
+    ('andrea', 'Pas pour moi, ça va très bien.', 'Not for me, I am doing fine.', [(1002, 'Pas pour moi, ça va.')], ''),
     ('jean', 'Mais tu es enceinte, Andréa!', 'Oh, but you are pregnant, Andrea!', [(1005, "t'es enceinte")], ''),
-    ('lea', "Oui, mais ce n'est pas grave.", 'Yes, but it is no big deal.', [(1006, "c'est pas grave")], ''),
+    ('andrea', "Oui, mais ce n'est pas grave.", 'Yes, but it is no big deal.', [(1006, "c'est pas grave")], ''),
     ('jean', "Non, je t'assure, c'est formidable.", 'No, I assure you, it is wonderful.', [(1008, "Non, je t'assure, c'est bien.")], ''),
-    ('lea', "Tu ne m'en veux pas trop?", 'You are not too upset with me?', [(1009, 'ça veut dire')], ''),
+    ('andrea', "Tu ne m'en veux pas trop?", 'You are not too upset with me?', [(1009, 'ça veut dire')], ''),
     ('jean', 'Tu en es à combien de mois?', 'How many months along are you?', [(1010, "T'en es à combien, là ?")], ''),
-    ('lea', "J'en suis déjà à sept mois.", 'I am already at seven months.', [(1011, '7 mois.')], ''),
+    ('andrea', "J'en suis déjà à sept mois.", 'I am already at seven months.', [(1011, '7 mois.')], ''),
     ('jean', "C'était le début du tournage du Déserteur!", 'That was the start of shooting The Deserter!', [(1013, "c'était le début du déserteur.")], ''),
-    ('lea', 'Oui, exactement à ce moment-là.', 'Yes, exactly at that time.', [(1014, "C'est là où j'ai commencé")], ''),
+    ('andrea', 'Oui, exactement à ce moment-là.', 'Yes, exactly at that time.', [(1014, "C'est là où j'ai commencé")], ''),
     ('jean', "C'est là que j'ai commencé à déserter.", 'That is when I began to desert.', [(1015, 'Déserter ?')], ''),
-    ('lea', 'Tu étais trop immergé dans ton rôle.', 'You were too immersed in your role.', [(1016, 'Voilà.')], ''),
+    ('andrea', 'Tu étais trop immergé dans ton rôle.', 'You were too immersed in your role.', [(1016, 'Voilà.')], ''),
     ('jean', 'Je suis heureux pour toi, Andréa.', 'I am happy for you, Andrea.', [(1017, '7 mois, oui.')], ''),
-    ('lea', 'Merci Jean, cela me touche beaucoup.', 'Thank you Jean, that touches me a lot.', [(1018, 'Tiens.')], ''),
+    ('andrea', 'Merci Jean, cela me touche beaucoup.', 'Thank you Jean, that touches me a lot.', [(1018, 'Tiens.')], ''),
 ]
 WALK = [
     (0, None, "'Do you want to drink a glass of whisky?' In everyday spoken French, rising intonation on 'want' at the end is enough to turn the sentence into a question. In everyday spoken French, rising intonation on 'want' at the end is enough to turn the sentence into a question."),

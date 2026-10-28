@@ -7,31 +7,30 @@ SCENE = 26
 TITLE = "Notre chambre, comme d'habitude  (Our Room, as Usual)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'lea': 'lucie', 'gabriel': 'theo', 'colette': 'emilie'}
-LABELS = {'lea': 'Andréa', 'gabriel': 'Gabriel', 'colette': 'Colette'}
+LABELS = {'andrea': 'Andréa', 'colette': 'Colette', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e04.fr.dual.srt'
 INTRO = "Now Andréa and Gabriel rush to the Hotel Saint-Georges to ask the manager, Monsieur Audibert, to cover for them before the tax inspector finds out. Listen to it in French first. Don't worry about catching every word. Let's listen to the scene in French first."
 OPENER = "Let's walk through it. Andréa and Gabriel have just stepped away from the reception desk in the lobby of the Hotel Saint-Georges."
 TRANSITION = "Now let's listen to the entire dialogue once more."
 OUTRO = "Andréa's quick thinking saves them for a moment, though Colette is no fool. Listen out for the phrase meaning 'as usual', literally 'like of habit', whenever you hear everyday French. See you next time!"
-CLOSING = ('lea', 'Au revoir!')
+CLOSING = ('andrea', 'Au revoir!')
 STORY = [
     ('gabriel', 'Monsieur Audibert nous reçoit dans cinq minutes.', 'Mr Audibert will see us in five minutes.', [(677, 'reçoit dans cinq minutes')], ''),
     ('gabriel', "Qu'est-ce qu'on va lui dire?", 'What are we going to say to him?', [(679, "Qu'est-ce qu'on va lui dire")], ''),
-    ('lea', "Il nous aide, ou on arrête d'envoyer nos clients ici.", 'He helps us, or we stop sending our clients here.', [(680, 'on arrête'), (680, 'nos clients')], ''),
+    ('andrea', "Il nous aide, ou on arrête d'envoyer nos clients ici.", 'He helps us, or we stop sending our clients here.', [(680, 'on arrête'), (680, 'nos clients')], ''),
     ('gabriel', "Comme d'habitude.", 'As usual.', [(695, "d'habitude")], ''),
-    ('lea', 'Oh non! Regarde!', 'Oh no! Look!', [], ''),
+    ('andrea', 'Oh non! Regarde!', 'Oh no! Look!', [], ''),
     ('gabriel', 'Quoi? Qui est là?', 'What? Who is there?', [(683, 'Quoi')], ''),
-    ('lea', "C'est Brancillon! Elle sait déjà tout pour la chambre!", 'It', [(684, 'Brancillon'), (685, 'déjà'), (685, 'pour la chambre')], ''),
+    ('andrea', "C'est Brancillon! Elle sait déjà tout pour la chambre!", 'It', [(684, 'Brancillon'), (685, 'déjà'), (685, 'pour la chambre')], ''),
     ('gabriel', 'Bonjour, Madame Brancillon.', 'Hello, Ms Brancillon.', [(686, 'Bonjour'), (686, 'Brancillon')], ''),
     ('gabriel', "Ce n'est pas ce que vous croyez.", 'It', [(687, 'pas ce que vous croyez')], ''),
-    ('lea', 'Laisse tomber, mon chéri.', 'Leave it, darling.', [(688, 'Laisse tomber')], ''),
+    ('andrea', 'Laisse tomber, mon chéri.', 'Leave it, darling.', [(688, 'Laisse tomber')], ''),
     ('colette', 'Bonjour. Ça ne me regarde pas.', 'Hello. It', [(690, 'Bonjour'), (689, 'Ça ne me regarde pas')], ''),
-    ('lea', 'Allez, viens!', 'Come on!', [(691, 'Allez, viens')], ''),
+    ('andrea', 'Allez, viens!', 'Come on!', [(691, 'Allez, viens')], ''),
     ('colette', "Je voudrais voir Monsieur Audibert, s'il vous plaît.", 'I', [(692, 'Je voudrais voir'), (692, "Audibert, s'il vous plaît")], ''),
-    ('lea', "Notre chambre, s'il vous plaît.", 'Our room, please.', [(695, "Notre chambre, s'il vous plaît")], ''),
-    ('lea', "La même que d'habitude. Merci.", 'The same as usual. Thank you.', [(695, "La même que d'habitude"), (696, 'Merci')], ''),
+    ('andrea', "Notre chambre, s'il vous plaît.", 'Our room, please.', [(695, "Notre chambre, s'il vous plaît")], ''),
+    ('andrea', "La même que d'habitude. Merci.", 'The same as usual. Thank you.', [(695, "La même que d'habitude"), (696, 'Merci')], ''),
 ]
 WALK = [
     (0, None, "'Mr Audibert will see us in five minutes.' Literally 'receives us in five minutes'. French often uses the present tense for something happening very soon."),

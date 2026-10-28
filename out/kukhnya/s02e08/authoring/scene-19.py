@@ -1,18 +1,20 @@
+# Authoring module for kukhnya-s02e08-scene-19.
 ID = 'kukhnya-s02e08-scene-19'
 SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 8
 SCENE = 19
-TITLE = "Мужской разговор на лестнице и коньяк  (Man-to-Man Talk on the Stairs and Cognac)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Мужской разговор на лестнице и коньяк  (Man-to-Man Talk on the Stairs and Cognac)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "kostya": "anja", "nastya": "angelina"}
-LABELS = {"kostya": "Костя", "nastya": "Настя"}
+LABELS = {'kostya': 'Костя', 'nastya': 'Настя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S2.08'
 SOURCE_FILE = 'sources/kukhnya/s02/e08.ru.srt'
-
 INTRO = "When Stepan Andreyevich loses his temper and shouts at Nastya at the table, Kostya firmly tells him not to yell at his daughter and invites him to step outside into the hallway. Impressed that Kostya is brave enough to defend Nastya's principles against him, Stepan Andreyevich pulls out a bottle of cognac and meat snacks on the stairs."
-
+OPENER = "Now let's break down each line of their conversation."
+TRANSITION = "Now let's put it all back together and hear the whole scene again."
+OUTRO = "That wraps up this scene as when Stepan Andreyevich yells at Nastya, Kostya stands up to him and challenges him to step outside, winning the older man's respect and a shared bottle of cognac. Until next time!"
+CLOSING = ('kostya', 'Увидимся!')
 STORY = [
     ('kostya', 'То это его дело.', 'Then that is his own business.', [(327, 'то это его дело')], ''),
     ('nastya', 'И не надо на Настю орать.', 'And there is no need to yell at Nastya.', [(328, 'И не надо на Настю орать')], ''),
@@ -28,25 +30,18 @@ STORY = [
     ('nastya', 'Папа, мы не пьем.', 'Dad, we do not drink alcohol.', [(339, 'Папа, мы не пьем')], ''),
     ('kostya', 'Коньяк будешь?', 'Want some cognac?', [(339, 'Коньяк будешь')], ''),
 ]
-
-OPENER = "Now let's break down each line of their conversation."
-
 WALK = [
-    (0, None, "'Then that is his own business.' Here the Russian phrasing highlights 'then' before landing on 'matter'. Nastya answers right away."),
-    (1, None, "'And there is no need to yell at Nastya.' In Russian, the idea of 'both' flows naturally into 'to yell' without extra filler words."),
-    (2, None, "'Nastya, Kostya, please stop.' Spoken Russian keeps this brisk, leaning on 'Nastya' and finishing on 'stop it'."),
-    (3, None, "'Who do you think you are?' Notice how Russian expresses 'you' and 'such' with crisp inflection rather than helper words. Kostya answers right away."),
-    (4, None, "'Come on, let us step outside.' The meaning hinges on 'go on' working together with 'to go out' in spoken Russian."),
-    (5, None, "'What do you think you are doing?' The grammar packs 'you' and 'think' into a tight, idiomatic kitchen exchange."),
-    (6, None, "'And what will she do for you?' The meaning hinges on 'and' working together with 'what' in spoken Russian. Nastya answers right away."),
-    (7, None, "'Love you more for it?' The grammar packs 'love' and 'more' into a tight, idiomatic kitchen exchange."),
-    (8, None, "'Those are her principles, right?' Kostya brings out the contrast between 'this' and 'her' in a few short words."),
-    (9, None, "'I respect them, and you ought to respect them too.' Notice how Russian expresses 'I' and 'respect' with crisp inflection rather than helper words. Kostya answers right away."),
-    (10, None, "'You will not have to beg me for long.' Kostya anchors the line on 'to ask', while 'it will be necessary' completes the thought."),
-    (11, None, "'Dad, we do not drink alcohol.' Here the Russian phrasing highlights 'Dad' before landing on 'to drink'."),
-    (12, None, "'Want some cognac?' Spoken Russian keeps this brisk, leaning on 'cognac' and finishing on 'will you?'."),
+    (0, None, "'Then that is his own business.' Once that is his own business, Kostya can finally tell Nastya what he means."),
+    (1, None, "'And there is no need to yell at Nastya.' Adding that there is no need to yell at Nastya fills in the missing piece for Kostya. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front."),
+    (2, None, "'Nastya, Kostya, please stop.' With the truth and table in play, Kostya keeps this short reply brisk and direct."),
+    (3, None, "'Who do you think you are?' Asking who Kostya thinks Kostya is is how Nastya puts Kostya on the spot."),
+    (4, None, "'Come on, let us step outside.' By telling Nastya to come on let them step outside, Kostya keeps his side of the story grounded."),
+    (5, None, '\'What do you think you are doing?\' By wondering what Kostya thinks Kostya is doing, Nastya presses Kostya for a straight answer. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
+    (6, None, "'And what will she do for you?' Asking what she do for Nastya will cuts straight through the tension between Kostya and Nastya."),
+    (7, None, '\'Love you more for it?\' Over the meat and the shift, Nastya presses Kostya for a straight answer. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.'),
+    (8, None, '\'Those are her principles, right?\' Asking whether those are her principles right puts Nastya right on the defensive. Russian drops "is" in the present, setting the two halves of the thought side by side.'),
+    (9, None, "'I respect them, and you ought to respect them too.' Nastya reminds Kostya that she respects them and Kostya ought to respect them before the moment passes."),
+    (10, None, "'You will not have to beg me for long.' Pointing out that Nastya will not have to beg him for long gives Nastya a sobering reality check."),
+    (11, None, "'Dad, we do not drink alcohol.' Nastya explains that dad they do not drink alcohol, keeping her voice calm and direct."),
+    (12, None, "'Want some cognac?' Around the kitchen and moment, Kostya wants to know where Nastya really stands."),
 ]
-
-TRANSITION = "Now let's put it all back together and hear the whole scene again."
-OUTRO = "That wraps up this scene as when Stepan Andreyevich yells at Nastya, Kostya stands up to him and challenges him to step outside, winning the older man's respect and a shared bottle of cognac. Until next time!"
-CLOSING = ("kostya", "Увидимся!")

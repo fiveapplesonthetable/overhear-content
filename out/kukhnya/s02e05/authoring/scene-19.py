@@ -1,52 +1,47 @@
+# Authoring module for kukhnya-s02e05-scene-19.
 ID = 'kukhnya-s02e05-scene-19'
 SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 5
 SCENE = 19
-TITLE = "Потеря обеих и просьба о работе  (Losing Both Girls and Asking for Work)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Потеря обеих и просьба о работе  (Losing Both Girls and Asking for Work)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "chef": "anja", "vika": "angelina"}
-LABELS = {"chef": "Шеф", "vika": "Вика"}
+LABELS = {'barinov': 'Шеф', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S2.05'
 SOURCE_FILE = 'sources/kukhnya/s02/e05.ru.srt'
-
 INTRO = 'Having discovered that Max was lying to both of them simultaneously, Vika and Sasha coldly walk out of the hospital and leave Max completely alone. Returning to the kitchen in disgrace while Chef Barinov watches football highlights, Max begs his boss to bury him in work without a single day off.'
-
-STORY = [
-    ('chef', 'Вика! Вика.', 'Vika! Vika.', [(323, 'Вика! Вика')], ''),
-    ('vika', 'Как разберешься в себе?', 'Once you figure yourself out.', [(324, 'Как разберешься в себе')], ''),
-    ('chef', 'Дай знать, ладно?', 'Let me know, all right?', [(324, 'Дай знать, ладно')], ''),
-    ('vika', 'Жизнь часто ставит нас перед выбором.', 'Life often puts us in front of a choice.', [(325, 'Жизнь часто ставит нас перед выбором')], ''),
-    ('chef', 'Кто-то осознанно делает неправильный выбор.', 'Someone consciously makes the wrong choice.', [(326, 'Кто-то осознанно делает неправильный выбор')], ''),
-    ('vika', 'Но у него ничего не получается.', 'And nothing works out for him.', [(327, 'но у него ничего не получается')], ''),
-    ('chef', 'А кто-то совсем запутался.', 'While someone else gets completely tangled up.', [(328, 'А кто-то совсем запутался')], ''),
-    ('vika', 'Да, на этом все.', 'Yes, that is all for the sports news.', [(329, 'Да, на этом все')], ''),
-    ('chef', 'Видимо, сказалось отсутствие голкипера Вячеслава Малафеева.', 'Apparently, the absence of goalkeeper Vyacheslav Malafeev took its toll.', [(331, 'Видимо, сказалось отсутствие голкипера Вячеслава Малафеева')], ''),
-    ('vika', 'Таким образом, ЦСКА, набрав три очка.', 'Thus, CSKA picked up three points.', [(332, 'Таким образом, ЦСКА, набрав три очка')], ''),
-    ('chef', 'Шеф, что тебе надо?', 'Chef, what do you need?', [(334, 'Шеф, что тебе надо')], ''),
-    ('vika', 'Завалите меня работой.', 'Bury me in work.', [(335, 'Завалите меня работой')], ''),
-    ('chef', 'Я хочу работать без выходных.', 'I want to work without any days off.', [(336, 'Я хочу работать без выходных')], ''),
-]
-
 OPENER = "Now let's go back through the conversation line by line."
-
-WALK = [
-    (0, None, "'Vika! Vika.' In Russian, the idea of 'Vika' flows naturally into 'Vika' without extra filler words. Vika answers right away."),
-    (1, None, "'Once you figure yourself out.' Here the Russian phrasing highlights 'how' before landing on 'to oneself'."),
-    (2, None, "'Let me know, all right?' Chef Viktor brings out the contrast between 'give' and 'to know' in a few short words."),
-    (3, None, "'Life often puts us in front of a choice.' Spoken Russian keeps this brisk, leaning on 'life' and finishing on 'choice'. Chef Viktor answers right away."),
-    (4, None, "'Someone consciously makes the wrong choice.' Chef Viktor brings out the contrast between 'someone' and 'consciously' in a few short words."),
-    (5, None, "'And nothing works out for him.' Notice how Russian expresses 'but' and 'it works out' with crisp inflection rather than helper words."),
-    (6, None, "'While someone else gets completely tangled up.' Notice how Russian expresses 'and' and 'got confused' with crisp inflection rather than helper words. Vika answers right away."),
-    (7, None, "'Yes, that is all for the sports news.' Vika anchors the line on 'yes', while 'all' completes the thought."),
-    (8, None, "'Apparently, the absence of goalkeeper Vyacheslav Malafeev took its toll.' Chef Viktor anchors the line on 'apparently', while 'Malafeyev' completes the thought."),
-    (9, None, "'Thus, CSKA picked up three points.' Here the Russian phrasing highlights 'in such a' before landing on 'point'. Chef Viktor answers right away."),
-    (10, None, "'Chef, what do you need?' In Russian, the idea of 'chef' flows naturally into 'at' without extra filler words."),
-    (11, None, "'Bury me in work.' Spoken Russian keeps this brisk, leaning on 'to overwhelm' and finishing on 'the job'."),
-    (12, None, "'I want to work without any days off.' Chef Viktor brings out the contrast between 'I' and 'want' in a few short words."),
-]
-
 TRANSITION = "Alright, let's hear the whole conversation once more from start to finish."
 OUTRO = 'That wraps up this scene as both Vika and Sasha dump Max on the spot at the hospital, and a miserable Max returns to the kitchen begging Chef Barinov to bury him in work with no days off. Until next time!'
-CLOSING = ("chef", "Увидимся!")
+CLOSING = ('barinov', 'Увидимся!')
+STORY = [
+    ('barinov', 'Вика! Вика.', 'Vika! Vika.', [(323, 'Вика! Вика')], ''),
+    ('vika', 'Как разберешься в себе?', 'Once you figure yourself out.', [(324, 'Как разберешься в себе')], ''),
+    ('barinov', 'Дай знать, ладно?', 'Let me know, all right?', [(324, 'Дай знать, ладно')], ''),
+    ('vika', 'Жизнь часто ставит нас перед выбором.', 'Life often puts us in front of a choice.', [(325, 'Жизнь часто ставит нас перед выбором')], ''),
+    ('barinov', 'Кто-то осознанно делает неправильный выбор.', 'Someone consciously makes the wrong choice.', [(326, 'Кто-то осознанно делает неправильный выбор')], ''),
+    ('vika', 'Но у него ничего не получается.', 'And nothing works out for him.', [(327, 'но у него ничего не получается')], ''),
+    ('barinov', 'А кто-то совсем запутался.', 'While someone else gets completely tangled up.', [(328, 'А кто-то совсем запутался')], ''),
+    ('vika', 'Да, на этом все.', 'Yes, that is all for the sports news.', [(329, 'Да, на этом все')], ''),
+    ('barinov', 'Видимо, сказалось отсутствие голкипера Вячеслава Малафеева.', 'Apparently, the absence of goalkeeper Vyacheslav Malafeev took its toll.', [(331, 'Видимо, сказалось отсутствие голкипера Вячеслава Малафеева')], ''),
+    ('vika', 'Таким образом, ЦСКА, набрав три очка.', 'Thus, CSKA picked up three points.', [(332, 'Таким образом, ЦСКА, набрав три очка')], ''),
+    ('barinov', 'Шеф, что тебе надо?', 'Chef, what do you need?', [(334, 'Шеф, что тебе надо')], ''),
+    ('vika', 'Завалите меня работой.', 'Bury me in work.', [(335, 'Завалите меня работой')], ''),
+    ('barinov', 'Я хочу работать без выходных.', 'I want to work without any days off.', [(336, 'Я хочу работать без выходных')], ''),
+]
+WALK = [
+    (0, None, "'Vika! Vika.' Over the point and the plan, Barinov lets his real feelings show."),
+    (1, None, '\'Once you figure yourself out.\' Turning from the truth to the work, Vika asks Barinov directly. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.'),
+    (2, None, '\'Let me know, all right?\' Wondering if let him know all right shows Barinov caught off guard. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.'),
+    (3, None, "'Life often puts us in front of a choice.' Admitting that life often puts them in front of a choice shows Vika being honest for a change."),
+    (4, None, "'Someone consciously makes the wrong choice.' Saying that someone consciously makes the wrong choice is how Barinov sets the tone with Vika."),
+    (5, None, '\'And nothing works out for him.\' Once nothing works out for him, Vika can finally tell Barinov what she means. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.'),
+    (6, None, "'While someone else gets completely tangled up.' Adding that while someone else gets completely tangled up fills in the missing piece for Vika."),
+    (7, None, "'Yes, that is all for the sports news.' Saying that that is all for the sports news is how Vika sets the tone with Barinov."),
+    (8, None, "'Apparently, the absence of goalkeeper Vyacheslav Malafeev took its toll.' Since apparently the absence of goalkeeper Vyacheslav Malafeev took its toll, Barinov does not waste words on excuses."),
+    (9, None, "'Thus, CSKA picked up three points.' Mentioning that thus CSKA picked up three points moves the talk in a new direction."),
+    (10, None, '\'Chef, what do you need?\' By asking what Vika needs, Barinov presses Vika for a straight answer. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.'),
+    (11, None, "'Bury me in work.' Over the truth and the work, Vika answers Barinov without a second thought."),
+    (12, None, "'I want to work without any days off.' Because he wants to work without any days off, Barinov treats the matter as settled."),
+]

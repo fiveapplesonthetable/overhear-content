@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Шеф | Что тут, выход на пенсию отмечают? | What is this here, are they celebrating a retirement? | #101 00:06:58: Тут выход на пенсию | adapted: adapted |
-| 2 | Шеф | А это уже совсем не ваше дело. | And that is none of your business at all. | #102 00:07:01: А это не ваше | adapted: adapted |
-| 3 | Шеф | Очень глупо хамить повару, который будет готовить. | It is very foolish to be rude to the cook who will cook. | #103 00:07:03: По-моему, очень непредусмотрительно хамить | adapted: adapted |
-| 4 | Шеф | Вечером вы будете готовить моим гостям. | Tonight you will be cooking for my guests. | #105 00:07:08: И не мне одному. | adapted: adapted |
-| 5 | Шеф | Например, хозяину ресторана Дмитрию Нагиеву! | For example, for the restaurant owner Dmitry Nagiyev! | #106 00:07:11: Диме Нагиеву, например. | adapted: adapted |
-| 6 | Шеф | Кстати, мы с ним недавно помирились. | By the way, he and I recently made peace. | #107 00:07:14: Кстати, мы с ним | adapted: adapted |
-| 7 | Шеф | О, вот как раз Дима звонит! | Oh, here is Dima calling right now! | #108 00:07:16: А, вот он звонит. | adapted: adapted |
-| 8 | Шеф | Дима, привет, спасибо большое за поздравление! | Dima, hello, thank you very much for the birthday wish! | #109 00:07:19: Дим, привет. | adapted: adapted |
-| 9 | Шеф | Он хочет подарить мне дорогие часы! | He wants to give me an expensive watch! | #112 00:07:28: Часы мне хочет подарить. | adapted: adapted |
-| 10 | Шеф | Если тебе не жалко двести тысяч, давай! | If you do not mind spending two hundred thousand, go ahead! | #113 00:07:32: Ну давай, если тебе | adapted: adapted |
-| 11 | Шеф | Герман Михайлович, приготовьте всё на высшем уровне! | German Mikhailovich, prepare everything at the highest level! | #115 00:07:39: Так что, Герман Михайлович, | adapted: adapted |
-| 12 | Шеф | Ладно, тогда я пошёл стараться на кухню. | All right, then I am off to the kitchen to try hard. | #116 00:07:54: Пошел стараться. | adapted: adapted |
+| 1 | Герман | Что тут, выход на пенсию отмечают? | What is this here, are they celebrating a retirement? | #101: Тут выход на пенсию | adapted: adapted |
+| 2 | Шеф | А это уже совсем не ваше дело. | And that is none of your business at all. | #102: А это не ваше | adapted: adapted |
+| 3 | Шеф | Очень глупо хамить повару, который будет готовить. | It is very foolish to be rude to the cook who will cook. | #103: По-моему, очень непредусмотрительно хамить | adapted: adapted |
+| 4 | Шеф | Вечером вы будете готовить моим гостям. | Tonight you will be cooking for my guests. | #105: И не мне одному. | adapted: adapted |
+| 5 | Шеф | Например, хозяину ресторана Дмитрию Нагиеву! | For example, for the restaurant owner Dmitry Nagiyev! | #106: Диме Нагиеву, например. | adapted: adapted |
+| 6 | Шеф | Кстати, мы с ним недавно помирились. | By the way, he and I recently made peace. | #107: Кстати, мы с ним | adapted: adapted |
+| 7 | Шеф | О, вот как раз Дима звонит! | Oh, here is Dima calling right now! | #108: А, вот он звонит. | adapted: adapted |
+| 8 | Шеф | Дима, привет, спасибо большое за поздравление! | Dima, hello, thank you very much for the birthday wish! | #109: Дим, привет. | adapted: adapted |
+| 9 | Шеф | Он хочет подарить мне дорогие часы! | He wants to give me an expensive watch! | #112: Часы мне хочет подарить. | adapted: adapted |
+| 10 | Шеф | Если тебе не жалко двести тысяч, давай! | If you do not mind spending two hundred thousand, go ahead! | #113: Ну давай, если тебе | adapted: adapted |
+| 11 | Шеф | Герман Михайлович, приготовьте всё на высшем уровне! | German Mikhailovich, prepare everything at the highest level! | #115: Так что, Герман Михайлович, | adapted: adapted |
+| 12 | Герман | Ладно, тогда я пошёл стараться на кухню. | All right, then I am off to the kitchen to try hard. | #116: Пошел стараться. | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What is this here, are they celebrating a retirement?' German needles Barinov using an impersonal third-person plural present verb.
-- 'And that is none of your business at all.' Putting the short word for 'not' right in front of the action word is all Russian needs to make a sentence negative, with no extra helper words like 'do' or 'did'.
-- 'It is very foolish to be rude to the cook who will cook.' Barinov flips the roles, reminding German who will be serving whom tonight.
-- 'Tonight you will be cooking for my guests.' In everyday Russian, 'in the evening' flows straight into 'guests' without extra linking words.
-- 'For example, for the restaurant owner Dmitry Nagiyev!' Chef Barinov pairs 'for example, for instance' with 'Nagiyev' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
-- 'By the way, he and I recently made peace.' Notice how Russian puts 'by the way' and 'reconciled' together in a short, direct phrase where word endings show how the ideas connect.
-- 'Oh, here is Dima calling right now!' Barinov holds up his ringing phone with a triumphant grin.
-- 'Dima, hello, thank you very much for the birthday wish!' He answers warmly so German can hear every word.
-- 'He wants to give me an expensive watch!' Chef Barinov pairs 'wants' with 'watch' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
-- 'If you do not mind spending two hundred thousand, go ahead!' Barinov loudly mentions the lavish price tag to make German wince.
-- 'German Mikhailovich, prepare everything at the highest level!' Here Chef Barinov anchors the thought on 'Mikhailovich' and finishes on 'level', keeping the spoken rhythm brisk and natural.
-- 'All right, then I am off to the kitchen to try hard.' German masks his anger with a grim smile and heads off.
+- 'What is this here, are they celebrating a retirement?' By asking what this here are they celebrating a retirement is, German presses Barinov for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'And that is none of your business at all.' Mentioning that that is none of German's business at all moves the talk in a new direction. Notice how he sticks to the formal "you", keeping a professional line between them.
+- 'It is very foolish to be rude to the cook who will cook.' Saying that it is very foolish to be rude to the cook who will cook is how Barinov sets the tone with German.
+- 'Tonight you will be cooking for my guests.' Because tonight German will be cooking for his guests, Barinov treats the matter as settled. Notice how he sticks to the formal "you", keeping a professional line between them.
+- 'For example, for the restaurant owner Dmitry Nagiyev!' With the moment and call at stake, Barinov reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'By the way, he and I recently made peace.' Barinov mentions that he and he recently made peace so German sees what is at stake.
+- 'Oh, here is Dima calling right now!' Barinov insists that here is Dima calling right now, leaving German no room to argue. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Dima, hello, thank you very much for the birthday wish!' With the conversation and call at stake, Barinov reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'He wants to give me an expensive watch!' Barinov declares that he wants to give him an expensive watch as the tension in the room peaks.
+- 'If you do not mind spending two hundred thousand, go ahead!' Because if German does not mind spending two hundred thousand go ahead, Barinov does not bother softening the blow for German. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
+- 'German Mikhailovich, prepare everything at the highest level!' Preparing everything at the highest level is Barinov's blunt reaction in front of German. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'All right, then I am off to the kitchen to try hard.' German explains that all right then he is off to the kitchen to try hard, keeping his voice calm and direct.

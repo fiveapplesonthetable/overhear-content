@@ -1,37 +1,39 @@
-# domashniy-arest/s01e02/scene-17.py
-ID = "domashniy-arest-s01e02-scene-17"
-SHOW = "domashniy-arest"
+# Authoring module for domashniy-arest-s01e02-scene-17.
+ID = 'domashniy-arest-s01e02-scene-17'
+SHOW = 'domashniy-arest'
 SEASON = 1
 EPISODE = 2
 SCENE = 17
 TITLE = "Телефон губернатора  (The Governor's Number)"
-LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-SOURCE_NAME = "Домашний арест (Domashniy Arest) S1.02"
-SOURCE_FILE = "sources/domashniy-arest/s01/e02.ru.dual.srt"
-VOICES = {"narrator": "sky", "anya": "alisa", "slavik": "anja", "yulia": "angelina"}
-LABELS = {"anya": "Аркадий", "slavik": "Славик", "yulia": "Юля"}
+LEVEL = 'A1 — Duolingo Section 2'
+PAIR = 'ru-en'
+LABELS = {'arkady': 'Аркадий', 'slavik': 'Славик', 'yulia': 'Юля'}
+SOURCE_NAME = 'Домашний арест (Domashniy Arest) S1.02'
+SOURCE_FILE = 'sources/domashniy-arest/s01/e02.ru.dual.srt'
 INTRO = "Back in the communal flat, Arkady has just traded his blocked iPhone to young Slavik, the Samsonovs' son, for the boy's old push-button phone. Now Arkady wants to ring the governor, the one man who might get him out, but the number is in the iPhone he has just given away. Let's listen in Russian first."
-STORY = [
-    ("anya", "Что за меню здесь? Как позвонить?", "What's this menu here? How do I make a call?", [(503, 'меню здесь')], "'дебильное' (idiotic) dropped; 'Как позвонить?' simplifies cue 504 'Ну как выйти в номера?'"),
-    ("slavik", "Вот так, и трубочка.", "Like this, and there's the little phone.", [(505, 'Вот так'), (505, 'и трубочка')], "'вот проводите' dropped"),
-    ("anya", "Так, дай айфон.", "Right, give me the iPhone.", [(506, 'Так, дай айфон')], ""),
-    ("slavik", "Зачем? Мы поменялись, он мой.", "What for? We swapped, it's mine.", [(507, 'Зачем'), (507, 'Поменялись, он мой')], "'Мы' added"),
-    ("anya", "Мне нужно посмотреть телефон губернатора. Дай сюда.", "I need to look up the governor's number. Give it here.", [(508, 'телефон губернатора'), (508, 'Дай сюда')], "word order of cue 508 made standard (нужно before the verb)"),
-    ("slavik", "Только из моих рук.", "Only if I hold it.", [(509, 'Только из моих рук')], ""),
-    ("anya", "Ну ты и жадина!", "You're such a greedy little thing!", [], "new: clean stand-in for cue 510 'зажилоб у тебя страшный' (what a miser you are)"),
-    ("anya", "Губернатор... Вот он. Свин.", "The governor... Here he is. 'Pig'.", [(511, 'Губернатор'), (513, 'Свин')], "'Вот он' new: Arkady finds the contact"),
-    ("slavik", "Свин? Это свинка Пеппа!", "'Pig'? That's Peppa Pig!", [(514, 'Свинка')], "the cue spells 'Пепа'; standard 'Пеппа' used, so only 'Свинка' is cited"),
-    ("anya", "Не смейся. Диктуй номер.", "Don't laugh. Read me the number.", [], "new: links to cues 515-520, where the digits are read out"),
-    ("slavik", "Восемь, девять, шесть, шесть...", "Eight, nine, six, six...", [], "cues 515-516 '8' / '966' written out as words (digits are not allowed in spoken lines)"),
-    ("anya", "Так, ребята, выйдите из комнаты.", "Right, kids, go out of the room.", [(522, 'ребята, выйдите из комнаты')], "'Ну-ка' -> 'Так' (from cue 521)"),
-    ("anya", "Мне с губернатором нужно поговорить.", "I need to talk to the governor.", [(523, 'Мне с губернатором нужно поговорить')], ""),
-    ("yulia", "Это наша комната.", "This is our room.", [(525, 'Это наша комната')], "speaker not marked in the subtitles; given to Yulia"),
-    ("anya", "Слово мэра уже ничего не значит?", "Doesn't the mayor's word mean anything any more?", [(528, 'Слово мэра уже ничего не значит')], "said as a question, as in the English subtitle"),
-    ("yulia", "А вы мне тоже айфон подарите?", "Will you give me an iPhone too?", [(530, 'А вы мне тоже'), (530, 'айфон подарите')], "'седьмой' (seventh, the model) dropped"),
-    ("anya", "Подарю, всё вам подарю!", "I will, I'll give you everything!", [(531, 'Подарю'), (531, 'вам подарю')], "the cue's 'все' read as 'всё' (everything)"),
-]
 OPENER = "Let's take it slowly. Arkady is holding a phone with buttons instead of a screen, and he has forgotten how these things work."
+TRANSITION = "Here's the whole scene again, from the start."
+OUTRO = "So the children leave the room, and Arkady is alone with an old phone and the governor's number. Whether the call goes well is another story. See you next time!"
+CLOSING = ('arkady', 'Пока!')
+STORY = [
+    ('arkady', 'Что за меню здесь? Как позвонить?', "What's this menu here? How do I make a call?", [(503, 'меню здесь')], "'дебильное' (idiotic) dropped; 'Как позвонить?' simplifies cue 504 'Ну как выйти в номера?'"),
+    ('slavik', 'Вот так, и трубочка.', "Like this, and there's the little phone.", [(505, 'Вот так'), (505, 'и трубочка')], "'вот проводите' dropped"),
+    ('arkady', 'Так, дай айфон.', 'Right, give me the iPhone.', [(506, 'Так, дай айфон')], ''),
+    ('slavik', 'Зачем? Мы поменялись, он мой.', "What for? We swapped, it's mine.", [(507, 'Зачем'), (507, 'Поменялись, он мой')], "'Мы' added"),
+    ('arkady', 'Мне нужно посмотреть телефон губернатора. Дай сюда.', "I need to look up the governor's number. Give it here.", [(508, 'телефон губернатора'), (508, 'Дай сюда')], 'word order of cue 508 made standard (нужно before the verb)'),
+    ('slavik', 'Только из моих рук.', 'Only if I hold it.', [(509, 'Только из моих рук')], ''),
+    ('arkady', 'Ну ты и жадина!', "You're such a greedy little thing!", [], "new: clean stand-in for cue 510 'зажилоб у тебя страшный' (what a miser you are)"),
+    ('arkady', 'Губернатор... Вот он. Свин.', "The governor... Here he is. 'Pig'.", [(511, 'Губернатор'), (513, 'Свин')], "'Вот он' new: Arkady finds the contact"),
+    ('slavik', 'Свин? Это свинка Пеппа!', "'Pig'? That's Peppa Pig!", [(514, 'Свинка')], "the cue spells 'Пепа'; standard 'Пеппа' used, so only 'Свинка' is cited"),
+    ('arkady', 'Не смейся. Диктуй номер.', "Don't laugh. Read me the number.", [], 'new: links to cues 515-520, where the digits are read out'),
+    ('slavik', 'Восемь, девять, шесть, шесть...', 'Eight, nine, six, six...', [], "cues 515-516 '8' / '966' written out as words (digits are not allowed in spoken lines)"),
+    ('arkady', 'Так, ребята, выйдите из комнаты.', 'Right, kids, go out of the room.', [(522, 'ребята, выйдите из комнаты')], "'Ну-ка' -> 'Так' (from cue 521)"),
+    ('arkady', 'Мне с губернатором нужно поговорить.', 'I need to talk to the governor.', [(523, 'Мне с губернатором нужно поговорить')], ''),
+    ('yulia', 'Это наша комната.', 'This is our room.', [(525, 'Это наша комната')], 'speaker not marked in the subtitles; given to Yulia'),
+    ('arkady', 'Слово мэра уже ничего не значит?', "Doesn't the mayor's word mean anything any more?", [(528, 'Слово мэра уже ничего не значит')], 'said as a question, as in the English subtitle'),
+    ('yulia', 'А вы мне тоже айфон подарите?', 'Will you give me an iPhone too?', [(530, 'А вы мне тоже'), (530, 'айфон подарите')], "'седьмой' (seventh, the model) dropped"),
+    ('arkady', 'Подарю, всё вам подарю!', "I will, I'll give you everything!", [(531, 'Подарю'), (531, 'вам подарю')], "the cue's 'все' read as 'всё' (everything)"),
+]
 WALK = [
     (0, 'Что за меню здесь?', "'What's this menu here?' The first two words together mean 'what kind of', a very common way to ask about something strange. Then the question that matters."),
     (0, 'Как позвонить?', "'How do I make a call?' Just 'how' and the verb 'to call', with no 'I' at all. Slavik shows him."),
@@ -53,6 +55,3 @@ WALK = [
     (15, None, "'Will you give me an iPhone too?' The verb is the one for giving a present, in the future tense. She is polite to the grown-up. And Arkady will promise anything."),
     (16, None, "'I will, I'll give you everything!' The first word alone means 'I'll give it as a present'. A promise from a man who has no money left at all."),
 ]
-TRANSITION = "Here's the whole scene again, from the start."
-OUTRO = "So the children leave the room, and Arkady is alone with an old phone and the governor's number. Whether the call goes well is another story. See you next time!"
-CLOSING = ("anya", "Пока!")

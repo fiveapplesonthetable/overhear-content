@@ -7,8 +7,7 @@ SCENE = 18
 TITLE = "L'adieu lucide  (A Clear-Eyed Farewell)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'lea': 'lucie', 'colette': 'emilie'}
-LABELS = {'lea': 'Andréa', 'colette': 'Colette'}
+LABELS = {'andrea': 'Andréa', 'colette': 'Colette'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e06.fr.dual.srt'
 INTRO = "On a quiet bench in a Parisian park, Andrea Martel and Colette Brancillon watch over baby Flora. With genuine honesty, Andrea reflects on their painful separation and confronts her own nature as an ambitious agent. Together, they make a mature decision about their future and their daughter. Let's listen to their conversation in French first."
@@ -18,18 +17,18 @@ OUTRO = "With heavy hearts but clear minds, Andrea and Colette release their rom
 CLOSING = ('colette', 'Bonne soirée!')
 STORY = [
     ('colette', "Qu'est-ce qu'elle a tout à coup?", 'What is wrong with her suddenly?', [(828, "Qu'est-ce qu'elle a ?")], ''),
-    ('lea', 'Ce sont des pleurs de soulagement.', 'These are tears of relief.', [(829, "C'est des pleurs de décompression, je crois...")], ''),
+    ('andrea', 'Ce sont des pleurs de soulagement.', 'These are tears of relief.', [(829, "C'est des pleurs de décompression, je crois...")], ''),
     ('colette', "Ne t'inquiète pas, ça va aller.", 'Do not worry, it will be fine.', [(831, "Ne t'inquiète pas.")], ''),
-    ('lea', "J'étais très en colère contre toi.", 'I was very angry with you.', [(835, "J'étais très en colère contre toi.")], ''),
+    ('andrea', "J'étais très en colère contre toi.", 'I was very angry with you.', [(835, "J'étais très en colère contre toi.")], ''),
     ('colette', 'Je comprends ta colère de départ.', 'I understand your initial anger.', [(836, 'Mais je comprends pourquoi tu es partie.')], ''),
-    ('lea', "Tu n'avais pas d'autre choix.", 'You had no other choice.', [(837, "Tu n'avais pas le choix.")], ''),
-    ('lea', "Cela m'a forcé à réfléchir.", 'That forced me to reflect.', [(838, "C'était la seule façon de me forcer à regarder la vérité en face.")], ''),
+    ('andrea', "Tu n'avais pas d'autre choix.", 'You had no other choice.', [(837, "Tu n'avais pas le choix.")], ''),
+    ('andrea', "Cela m'a forcé à réfléchir.", 'That forced me to reflect.', [(838, "C'était la seule façon de me forcer à regarder la vérité en face.")], ''),
     ('colette', 'À réfléchir à notre avenir commun?', 'To reflect on our shared future?', [(839, 'Et à réfléchir à ce que je veux vraiment dans la vie.')], ''),
-    ('lea', 'Je ne peux pas changer qui je suis.', 'I cannot change who I am.', [(844, "Je ne peux jamais être quelqu'un d'autre.")], ''),
-    ('lea', "Je t'aime, mais soyons honnêtes.", 'I love you, but let us be honest.', [(845, "Je t'aime Colette, mais je ne veux pas...")], ''),
-    ('lea', "Il vaut mieux qu'on s'arrête là.", 'It is better that we stop there.', [(847, "Il vaut mieux qu'on s'arrête là.")], ''),
+    ('andrea', 'Je ne peux pas changer qui je suis.', 'I cannot change who I am.', [(844, "Je ne peux jamais être quelqu'un d'autre.")], ''),
+    ('andrea', "Je t'aime, mais soyons honnêtes.", 'I love you, but let us be honest.', [(845, "Je t'aime Colette, mais je ne veux pas...")], ''),
+    ('andrea', "Il vaut mieux qu'on s'arrête là.", 'It is better that we stop there.', [(847, "Il vaut mieux qu'on s'arrête là.")], ''),
     ('colette', "C'est sans doute la meilleure décision.", 'It is undoubtedly the best decision.', [(847, "Il vaut mieux qu'on s'arrête là.")], ''),
-    ('lea', "On va s'occuper de Flora ensemble.", 'We will take care of Flora together.', [(848, "Et puis on verra ensemble comment s'occuper de Flora.")], ''),
+    ('andrea', "On va s'occuper de Flora ensemble.", 'We will take care of Flora together.', [(848, "Et puis on verra ensemble comment s'occuper de Flora.")], ''),
     ('colette', 'Oui, nous serons toujours une famille.', 'Yes, we will always be a family.', [(848, "Et puis on verra ensemble comment s'occuper de Flora.")], ''),
 ]
 WALK = [

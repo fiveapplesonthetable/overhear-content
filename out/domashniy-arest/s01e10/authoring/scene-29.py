@@ -1,32 +1,34 @@
-# domashniy-arest/s01e10/scene-29.py
-ID = "domashniy-arest-s01e10-scene-29"
-SHOW = "domashniy-arest"
+# Authoring module for domashniy-arest-s01e10-scene-29.
+ID = 'domashniy-arest-s01e10-scene-29'
+SHOW = 'domashniy-arest'
 SEASON = 1
 EPISODE = 10
 SCENE = 29
 TITLE = "Хорошее настроение Самсона  (Samsonov's Good Mood)"
-LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-SOURCE_NAME = "Домашний арест (Domashniy Arest) S1.10"
-SOURCE_FILE = "sources/domashniy-arest/s01/e10.ru.dual.srt"
-VOICES = {"narrator": "sky", "nina": "angelina", "samson": "anja"}
-LABELS = {"nina": "Нина", "samson": "Самсон"}
-INTRO = "Ivan Samsonov returns home to the communal flat whistling cheerfully, believing that his marital troubles are finally behind them. Nina, however, looks sour and unimpressed by his carefree attitude, suspecting he spent a great night out while she was left exhausted. Listen to their Russian conversation first, and do not worry about catching every word."
-STORY = [
-    ("samson", "Привет, дорогая жена!", "Hello, dear wife!", [(901, 'Привет, жена')], ""),
-    ("samson", "Ну что, наш вопрос закрыт?", "Well then, is our issue closed?", [(902, 'Ну что'), (904, 'Вопрос закрыт')], ""),
-    ("nina", "А ты чего такой довольный?", "And why are you so pleased?", [(906, 'А ты чего довольный такой')], ""),
-    ("nina", "Ходишь тут и песни поёшь!", "You walk around here and sing songs!", [(906, 'Песенки поешь')], ""),
-    ("samson", "Я рад, что у нас всё в порядке.", "I am glad that everything is in order with us.", [(907, 'я рад, что у нас все в порядке')], ""),
-    ("nina", "Ты думаешь, у нас всё в порядке?", "You think everything is fine with us?", [(908, 'У нас все в порядке')], ""),
-    ("samson", "А почему ты такая грустная?", "And why are you so gloomy?", [(910, 'А ты чего смурная такая')], ""),
-    ("nina", "Я вчера очень сильно устала.", "I got very tired yesterday.", [(915, 'Я с Даней мучилась')], "simplified from crude colloquial phrasing"),
-    ("samson", "Поверь мне, я тоже устал.", "Believe me, I got tired too.", [(918, 'Я тоже мучился')], ""),
-    ("nina", "По твоему лицу этого не видно!", "From your face, this is not visible!", [(919, 'По тебе видно')], "ironic negation"),
-    ("samson", "Давай не будем снова ссориться.", "Let us not quarrel again.", [], "Samsonov tries to keep the peace"),
-    ("nina", "Дети, мойте руки и идите есть!", "Children, wash your hands and come eat!", [(922, 'Дети, идите есть')], ""),
-]
+LEVEL = 'A1 — Duolingo Section 2'
+PAIR = 'ru-en'
+LABELS = {'nina': 'Нина', 'samson': 'Самсон'}
+SOURCE_NAME = 'Домашний арест (Domashniy Arest) S1.10'
+SOURCE_FILE = 'sources/domashniy-arest/s01/e10.ru.dual.srt'
+INTRO = 'Ivan Samsonov returns home to the communal flat whistling cheerfully, believing that his marital troubles are finally behind them. Nina, however, looks sour and unimpressed by his carefree attitude, suspecting he spent a great night out while she was left exhausted. Listen to their Russian conversation first, and do not worry about catching every word.'
 OPENER = "Let's examine line by line how Samsonov has a tense domestic reunion."
+TRANSITION = "Now listen to Samsonov and Nina's domestic exchange once again."
+OUTRO = "Samsonov fails to lift Nina's dark mood, sensing that unspoken tensions remain between them. See you next time!"
+CLOSING = ('nina', 'Пока!')
+STORY = [
+    ('samson', 'Привет, дорогая жена!', 'Hello, dear wife!', [(901, 'Привет, жена')], ''),
+    ('samson', 'Ну что, наш вопрос закрыт?', 'Well then, is our issue closed?', [(902, 'Ну что'), (904, 'Вопрос закрыт')], ''),
+    ('nina', 'А ты чего такой довольный?', 'And why are you so pleased?', [(906, 'А ты чего довольный такой')], ''),
+    ('nina', 'Ходишь тут и песни поёшь!', 'You walk around here and sing songs!', [(906, 'Песенки поешь')], ''),
+    ('samson', 'Я рад, что у нас всё в порядке.', 'I am glad that everything is in order with us.', [(907, 'я рад, что у нас все в порядке')], ''),
+    ('nina', 'Ты думаешь, у нас всё в порядке?', 'You think everything is fine with us?', [(908, 'У нас все в порядке')], ''),
+    ('samson', 'А почему ты такая грустная?', 'And why are you so gloomy?', [(910, 'А ты чего смурная такая')], ''),
+    ('nina', 'Я вчера очень сильно устала.', 'I got very tired yesterday.', [(915, 'Я с Даней мучилась')], 'simplified from crude colloquial phrasing'),
+    ('samson', 'Поверь мне, я тоже устал.', 'Believe me, I got tired too.', [(918, 'Я тоже мучился')], ''),
+    ('nina', 'По твоему лицу этого не видно!', 'From your face, this is not visible!', [(919, 'По тебе видно')], 'ironic negation'),
+    ('samson', 'Давай не будем снова ссориться.', 'Let us not quarrel again.', [], 'Samsonov tries to keep the peace'),
+    ('nina', 'Дети, мойте руки и идите есть!', 'Children, wash your hands and come eat!', [(922, 'Дети, идите есть')], ''),
+]
 WALK = [
     (0, None, "'Hello, dear wife!' Samsonov uses an affectionate address to set a cheerful mood."),
     (1, None, "'Well then, is our issue closed?' The short passive form denotes a resolved topic."),
@@ -41,6 +43,3 @@ WALK = [
     (10, None, "'Let us not quarrel again.' A polite 'let's' expression construction seeking domestic truce."),
     (11, None, "'Children, wash your hands and come eat!' Nina calls her kids into the communal kitchen."),
 ]
-TRANSITION = "Now listen to Samsonov and Nina's domestic exchange once again."
-OUTRO = "Samsonov fails to lift Nina's dark mood, sensing that unspoken tensions remain between them. See you next time!"
-CLOSING = ("nina", "Пока!")

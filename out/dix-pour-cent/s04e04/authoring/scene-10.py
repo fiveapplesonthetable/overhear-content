@@ -7,8 +7,7 @@ SCENE = 10
 TITLE = 'Une mafia de nounous  (A Nanny Mafia)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'elise': 'emilie', 'lea': 'lucie'}
-LABELS = {'elise': 'Élise', 'lea': 'Andréa'}
+LABELS = {'andrea': 'Andréa', 'elise': 'Élise'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e04.fr.dual.srt'
 INTRO = "After losing her daycare spot, Andrea Martel is exhausted from bringing baby Flora to the ASK agency every day. Rival agent Elise Formain steps into her office and observes her colleague's mounting distress. Rather than exploiting Andrea's weakness, Elise offers unexpected maternal advice and a surprising solution. Let's listen to their exchange in French first."
@@ -18,17 +17,17 @@ OUTRO = "Grateful for Elise's surprising warmth and support, Andrea feels a glim
 CLOSING = ('elise', 'Bonne soirée!')
 STORY = [
     ('elise', "C'est quoi tout ce va-et-vient ici?", 'What is all this coming and going here?', [(836, "C'est quoi tout ce va-et-vient ?")], ''),
-    ('lea', 'Je cherche une nounou pour ma fille.', 'I am looking for a nanny for my daughter.', [(840, 'une')], ''),
+    ('andrea', 'Je cherche une nounou pour ma fille.', 'I am looking for a nanny for my daughter.', [(840, 'une')], ''),
     ('elise', 'Tu amènes Flora au bureau depuis lundi.', 'You bring Flora to the office since Monday.', [(840, 'Ça fait une semaine que vous amenez votre fille')], ''),
-    ('lea', 'Nous avons perdu notre place en crèche.', 'We lost our place at daycare.', [(844, 'Un malentendu avec la crèche')], ''),
+    ('andrea', 'Nous avons perdu notre place en crèche.', 'We lost our place at daycare.', [(844, 'Un malentendu avec la crèche')], ''),
     ('elise', "Tu as l'air complètement épuisée, Andréa.", 'You seem completely exhausted, Andrea.', [(841, "Tu as l'air… Complètement stressé.")], ''),
-    ('lea', "Les crèches demandent deux ans d'attente!", 'Daycare centers ask two years of waiting!', [(857, 'Les'), (845, 'avant la conception')], ''),
+    ('andrea', "Les crèches demandent deux ans d'attente!", 'Daycare centers ask two years of waiting!', [(857, 'Les'), (845, 'avant la conception')], ''),
     ('elise', 'Tu peux me parler en toute confiance.', 'You can talk to me in full confidence.', [(842, 'Tu peux me parler, tu sais.')], ''),
-    ('lea', "J'ai l'impression de tout faire mal.", 'I feel like I do everything wrong.', [(857, "J'ai l'impression que tout ce que je fais est faux")], ''),
+    ('andrea', "J'ai l'impression de tout faire mal.", 'I feel like I do everything wrong.', [(857, "J'ai l'impression que tout ce que je fais est faux")], ''),
     ('elise', "J'ai eu trois enfants toute seule.", 'I had three children all alone.', [(850, "J'ai eu trois enfants de trois pères différents.")], ''),
-    ('lea', 'Comment fais-tu pour tout organiser?', 'How do you manage to organize everything?', [(851, 'donner des conseils')], ''),
+    ('andrea', 'Comment fais-tu pour tout organiser?', 'How do you manage to organize everything?', [(851, 'donner des conseils')], ''),
     ('elise', 'Pour rendre Flora heureuse, sois heureuse.', 'To make Flora happy, be happy.', [(852, 'si tu veux que ton enfant soit heureux,'), (853, "tu dois l'être toi-même.")], ''),
-    ('lea', "J'ai juste besoin d'une bonne nounou.", 'I just need a good nanny.', [(856, "Si j'avais quelqu'un pour s'occuper de Flora")], ''),
+    ('andrea', "J'ai juste besoin d'une bonne nounou.", 'I just need a good nanny.', [(856, "Si j'avais quelqu'un pour s'occuper de Flora")], ''),
     ('elise', "Les nounous à Paris, c'est une mafia!", 'Nannies in Paris are a mafia!', [(859, "Les nounous, c'est une mafia.")], ''),
     ('elise', 'Laisse-moi faire, je connais du monde.', 'Leave it to me, I know people.', [(858, 'Tu veux que je te trouve une nounou ?'), (860, 'Moi, oui.')], ''),
 ]

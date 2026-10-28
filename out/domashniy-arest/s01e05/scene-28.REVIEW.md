@@ -10,22 +10,22 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Илона, точно ничего не сделает наш Самсонов? | Ilona, is our Samsonov really not going to do anything? | #1070 00:58:14: Ничего не сделает | adapted: garbled 'Виссамсонов' -> 'наш Самсонов' |
-| 2 | Аня | Ты его убедила? Ты уверена в этом? | You convinced him? Are you sure about this? | #1071 00:58:17: его убедила<br>#1072 00:58:18: Уверена в этом | verbatim |
-| 3 | Аня | Ты настоящий профессионал! Ты знаешь психологию. | You're a real professional! You know psychology. | #1073 00:58:20: профессионал<br>#1074 00:58:23: психологию | adapted: Ilona's cues 1073-1074 folded into Arkady's praise |
-| 4 | Аня | Ладно, поезжай в гостиницу, ты устала. Спасибо! | Alright, go to the hotel, you're tired. Thank you! | #1075 00:58:27: Ладно<br>#1077 00:58:32: в гостиницу<br>#1078 00:58:33: устала<br>#1081 00:58:42: Спасибо | adapted: Ilona's cues 1077-1080 folded into Arkady's send-off; cue 1079 'травы нет' omitted |
-| 5 | Самсон | Даня, ты ещё раз извини за вчерашнее. | Danya, sorry once again for yesterday. | #1085 00:58:56: ты еще раз извини за | adapted: shortened from cue 1085 |
-| 6 | Самсон | Мы тебе настроение испортили и приёмник сломали. | We ruined your mood and broke your radio. | #1085 00:58:56: мы тебе настроение испортили<br>#1086 00:59:01: Приемник сломали | verbatim |
-| 7 | Самсон | И стыки у тебя ровные! Пока, Даня! | And your joints are even! Bye, Danya! | #1087 00:59:03: И стыки у тебя ровные<br>#1096 00:59:56: Пока | verbatim |
-| 8 | Самсон | Нина, знаешь, что я подумал? | Nina, do you know what I thought? | #1098 00:59:59: я знаешь, что подумал | adapted: garbled 'Дедушка' (for 'Нинушка') -> 'Нина' |
-| 9 | Самсон | Мне за ум пора браться. Серьёзно. | It's time for me to get smart. Seriously. | #1099 01:00:04: мне пора браться<br>#1100 01:00:09: Серьезно | adapted: garbled 'от золу' -> 'за ум' |
-| 10 | Самсон | Надо пить меньше. Книжки буду читать. | I need to drink less. I'm going to read books. | #1100 01:00:09: Надо пить<br>#1101 01:00:13: Книжки буду читать | adapted: 'поменьше' -> 'меньше' |
-| 11 | Самсон | Вообще надо расти во всех смыслах. | In general, I need to grow in every sense. | #1102 01:00:15: Вообще надо расти<br>#1103 01:00:18: во всех смыслах | verbatim |
-| 12 | Нина | Давно пора, Ваня. Сорок лет всё-таки. | Long overdue, Vanya. Forty years old, after all. | #1104 01:00:20: Давно<br>#1104 01:00:20: Сорок лет все-таки | adapted: garbled 'Давно, парень' -> 'Давно пора, Ваня' |
-| 13 | Самсон | Ну что ты? Я серьёзно тебе говорю! | Oh, come on! I'm telling you seriously! | #1105 01:00:23: Ну что ты? Я серьезно тебе говорю | verbatim |
-| 14 | Самсон | Вот посмотришь, ты ещё удивишься! | Just wait and see, you'll be surprised yet! | #1106 01:00:26: посмотришь, ты еще удивишься | verbatim |
-| 15 | Нина | Я не сомневаюсь. | I don't doubt it. | #1107 01:00:27: Я не сомневаюсь | verbatim |
-| 16 | Самсон | Ну вот! Никакой поддержки! | There you go! No support at all! | #1109 01:00:33: Никакой поддержки | adapted: cue 1108 'блин' -> 'Ну вот!' |
+| 1 | Аркадий | Илона, точно ничего не сделает наш Самсонов? | Ilona, is our Samsonov really not going to do anything? | #1070: Ничего не сделает | adapted: garbled 'Виссамсонов' -> 'наш Самсонов' |
+| 2 | Аркадий | Ты его убедила? Ты уверена в этом? | You convinced him? Are you sure about this? | #1071: его убедила<br>#1072: Уверена в этом | verbatim |
+| 3 | Аркадий | Ты настоящий профессионал! Ты знаешь психологию. | You're a real professional! You know psychology. | #1073: профессионал<br>#1074: психологию | adapted: Ilona's cues 1073-1074 folded into Arkady's praise |
+| 4 | Аркадий | Ладно, поезжай в гостиницу, ты устала. Спасибо! | Alright, go to the hotel, you're tired. Thank you! | #1075: Ладно<br>#1077: в гостиницу<br>#1078: устала<br>#1081: Спасибо | adapted: Ilona's cues 1077-1080 folded into Arkady's send-off; cue 1079 'травы нет' omitted |
+| 5 | Самсон | Даня, ты ещё раз извини за вчерашнее. | Danya, sorry once again for yesterday. | #1085: ты еще раз извини за | adapted: shortened from cue 1085 |
+| 6 | Самсон | Мы тебе настроение испортили и приёмник сломали. | We ruined your mood and broke your radio. | #1085: мы тебе настроение испортили<br>#1086: Приемник сломали | verbatim |
+| 7 | Самсон | И стыки у тебя ровные! Пока, Даня! | And your joints are even! Bye, Danya! | #1087: И стыки у тебя ровные<br>#1096: Пока | verbatim |
+| 8 | Самсон | Нина, знаешь, что я подумал? | Nina, do you know what I thought? | #1098: я знаешь, что подумал | adapted: garbled 'Дедушка' (for 'Нинушка') -> 'Нина' |
+| 9 | Самсон | Мне за ум пора браться. Серьёзно. | It's time for me to get smart. Seriously. | #1099: мне пора браться<br>#1100: Серьезно | adapted: garbled 'от золу' -> 'за ум' |
+| 10 | Самсон | Надо пить меньше. Книжки буду читать. | I need to drink less. I'm going to read books. | #1100: Надо пить<br>#1101: Книжки буду читать | adapted: 'поменьше' -> 'меньше' |
+| 11 | Самсон | Вообще надо расти во всех смыслах. | In general, I need to grow in every sense. | #1102: Вообще надо расти<br>#1103: во всех смыслах | verbatim |
+| 12 | Нина | Давно пора, Ваня. Сорок лет всё-таки. | Long overdue, Vanya. Forty years old, after all. | #1104: Давно<br>#1104: Сорок лет все-таки | adapted: garbled 'Давно, парень' -> 'Давно пора, Ваня' |
+| 13 | Самсон | Ну что ты? Я серьёзно тебе говорю! | Oh, come on! I'm telling you seriously! | #1105: Ну что ты? Я серьезно тебе говорю | verbatim |
+| 14 | Самсон | Вот посмотришь, ты ещё удивишься! | Just wait and see, you'll be surprised yet! | #1106: посмотришь, ты еще удивишься | verbatim |
+| 15 | Нина | Я не сомневаюсь. | I don't doubt it. | #1107: Я не сомневаюсь | verbatim |
+| 16 | Самсон | Ну вот! Никакой поддержки! | There you go! No support at all! | #1109: Никакой поддержки | adapted: cue 1108 'блин' -> 'Ну вот!' |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

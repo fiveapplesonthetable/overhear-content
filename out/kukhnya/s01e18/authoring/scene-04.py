@@ -4,31 +4,30 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 18
 SCENE = 4
-TITLE = "Дорогой коньяк  (Expensive Cognac)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Дорогой коньяк  (Expensive Cognac)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "anya": "alisa", "kostya": "anja"}
-LABELS = {"anya": "Макс", "kostya": "Костя"}
+LABELS = {'kostya': 'Костя', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.18'
 SOURCE_FILE = 'sources/kukhnya/s01/e18.ru.dual.srt'
 INTRO = "At the bar counter, Max shows Kostya another way to make extra money by serving cognac. Let's listen closely to their exchange in Russian first, and then walk through each line together."
 OPENER = "Now let's go back through the exchange around Expensive Cognac line by line and unpack how the Russian works."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Kostya pours the drink as Max finishes his lesson on bar economics. Next time you watch the episode, listen for the Russian expressions for 'to listen' and 'next' — you will catch every word right away. See you next time!"
-CLOSING = ("anya", "Пока!")
+CLOSING = ('max', 'Пока!')
 STORY = [
-    ('anya', 'Это ещё не всё, слушай дальше.', 'That is not all yet, listen further.', [(129, 'Еще не все. Слушай дальше.')], ''),
+    ('max', 'Это ещё не всё, слушай дальше.', 'That is not all yet, listen further.', [(129, 'Еще не все. Слушай дальше.')], ''),
     ('kostya', 'Какой ещё секрет ты мне покажешь?', 'What other secret will you show me?', [], ''),
-    ('anya', 'Сейчас я покажу тебе новый фокус.', 'Now I will show you a new trick.', [], ''),
-    ('anya', 'Короче, сначала ты берёшь чистый стакан.', 'In short, first you take a clean glass.', [(130, 'берешь стакан')], ''),
+    ('max', 'Сейчас я покажу тебе новый фокус.', 'Now I will show you a new trick.', [], ''),
+    ('max', 'Короче, сначала ты берёшь чистый стакан.', 'In short, first you take a clean glass.', [(130, 'берешь стакан')], ''),
     ('kostya', 'Хорошо, я взял большой красивый бокал.', 'Alright, I took a large beautiful glass.', [], ''),
-    ('anya', 'Теперь представь, что я богатый гость.', 'Now imagine that I am a rich guest.', [], ''),
+    ('max', 'Теперь представь, что я богатый гость.', 'Now imagine that I am a rich guest.', [], ''),
     ('kostya', 'Что вы желаете заказать сегодня вечером?', 'What would you like to order tonight?', [], ''),
-    ('anya', 'Налей мне пятьдесят грамм дорогого коньяка.', 'Pour me fifty grams of expensive cognac.', [(131, '50 грамм')], ''),
+    ('max', 'Налей мне пятьдесят грамм дорогого коньяка.', 'Pour me fifty grams of expensive cognac.', [(131, '50 грамм')], ''),
     ('kostya', 'Отличный выбор, сейчас всё будет сделано.', 'Great choice, everything will be done right now.', [(132, 'Будет сделано.')], ''),
-    ('anya', 'Но наливай не дорогой, а дешёвый коньяк!', 'But pour cheap cognac, not the expensive one!', [], ''),
+    ('max', 'Но наливай не дорогой, а дешёвый коньяк!', 'But pour cheap cognac, not the expensive one!', [], ''),
     ('kostya', 'Ты думаешь, гость совсем ничего не заметит?', 'Do you think the guest will notice nothing at all?', [], ''),
-    ('anya', 'Поверь мне, никто не почувствует разницу!', 'Believe me, nobody will feel the difference!', [], ''),
+    ('max', 'Поверь мне, никто не почувствует разницу!', 'Believe me, nobody will feel the difference!', [], ''),
 ]
 WALK = [
     (0, None, "'That is not all yet, listen further.' Max leads with the direct command form meaning 'listen', pairing it with 'more' and 'next'."),

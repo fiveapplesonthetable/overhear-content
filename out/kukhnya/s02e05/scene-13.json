@@ -8,14 +8,10 @@
  "scene": 13,
  "title": "Звонок из больницы  (The Call from the Hospital)",
  "level": "A1 — Duolingo Section 2",
- "voices": {
-  "narrator": "sky",
-  "nastya": "angelina",
-  "anya": "alisa"
- },
  "labels": {
+  "max": "Макс",
   "nastya": "Настя",
-  "anya": "Макс"
+  "vika": "Вика"
  },
  "segments": [
   {
@@ -24,12 +20,12 @@
    "gap": 0.8
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Алло, здравствуйте.",
    "gap": 0.55
   },
   {
-   "v": "nastya",
+   "v": "vika",
    "t": "Сейчас не может подойти.",
    "gap": 0.55
   },
@@ -39,12 +35,12 @@
    "gap": 0.55
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "О, хорошо, что вы позвонили.",
    "gap": 0.55
   },
   {
-   "v": "nastya",
+   "v": "vika",
    "t": "У меня для вас плохие новости.",
    "gap": 0.55
   },
@@ -54,12 +50,12 @@
    "gap": 0.55
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Вышел в коридор, куда-то делся.",
    "gap": 0.55
   },
   {
-   "v": "nastya",
+   "v": "vika",
    "t": "Теперь не можем его найти.",
    "gap": 0.55
   },
@@ -69,12 +65,12 @@
    "gap": 0.55
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Слушай, это ты так пошутил?",
    "gap": 0.55
   },
   {
-   "v": "nastya",
+   "v": "vika",
    "t": "Ну что, ты где?",
    "gap": 0.55
   },
@@ -84,7 +80,7 @@
    "gap": 0.55
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Вот лежу, отдыхаю.",
    "gap": 0.9
   },
@@ -94,23 +90,23 @@
    "gap": 0.4
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Алло, здравствуйте.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Hello, good afternoon.' Notice how Russian expresses 'hello' and 'hello' with crisp inflection rather than helper words. Vika answers right away.",
+   "t": "'Hello, good afternoon.' Over the kitchen and the moment, Max answers Nastya without a second thought.",
    "gap": 0.4
   },
   {
-   "v": "nastya",
+   "v": "vika",
    "t": "Сейчас не может подойти.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'He cannot come to the phone right now.' In Russian, the idea of 'any minute' flows naturally into 'to walk up to' without extra filler words.",
+   "t": "'He cannot come to the phone right now.' Noting that he cannot come to the phone right now keeps Vika's side of the story simple and clear.",
    "gap": 0.4
   },
   {
@@ -120,27 +116,27 @@
   },
   {
    "v": "narrator",
-   "t": "'Hello, I am a friend of his.' In Russian, the idea of 'hello' flows naturally into 'friend' without extra filler words.",
+   "t": "'Hello, I am a friend of his.' Realizing that she is a friend changes how Nastya handles the situation.",
    "gap": 0.4
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "О, хорошо, что вы позвонили.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Oh, it is good that you called.' The meaning hinges on 'about' working together with 'called' in spoken Russian. Vika answers right away.",
+   "t": "'Oh, it is good that you called.' Admitting that it is good that Nastya called shows Max being honest for a change.",
    "gap": 0.4
   },
   {
-   "v": "nastya",
+   "v": "vika",
    "t": "У меня для вас плохие новости.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'I have bad news for you.' In Russian, the idea of 'by' flows naturally into 'news' without extra filler words.",
+   "t": "'I have bad news for you.' Claiming that she has bad news for Max sounds confident, even if Max has doubts. Russian expresses having something as \"by me is\", keeping the phrase short and grounded.",
    "gap": 0.4
   },
   {
@@ -150,27 +146,27 @@
   },
   {
    "v": "narrator",
-   "t": "'We lost him.' Nastya anchors the line on 'we', while 'lost' completes the thought.",
+   "t": "'We lost him.' Once they lost him, Nastya can finally tell Max what she means.",
    "gap": 0.4
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Вышел в коридор, куда-то делся.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'He walked out into the hallway and disappeared somewhere.' The '-l' ending on the verb meaning 'to go out' places the action in the masculine past tense. Vika answers right away.",
+   "t": "'He walked out into the hallway and disappeared somewhere.' Adding that he walked out into the hallway and disappeared somewhere fills in the missing piece for Nastya.",
    "gap": 0.4
   },
   {
-   "v": "nastya",
+   "v": "vika",
    "t": "Теперь не можем его найти.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Now we cannot find him anywhere.' The grammar packs 'now' and 'find' into a tight, idiomatic kitchen exchange.",
+   "t": "'Now we cannot find him anywhere.' Here refusing to find him anywhere sets up the next turn in their exchange.",
    "gap": 0.4
   },
   {
@@ -180,27 +176,27 @@
   },
   {
    "v": "narrator",
-   "t": "'Wait a second, so he is alive?' Nastya brings out the contrast between 'wait' and 'like this' in a few short words.",
+   "t": "'Wait a second, so he is alive?' Asking whether a second so he is alive puts Max right on the defensive. In Russian, she does not need helper words like \"do\" or \"did\"—rising pitch alone turns it into a question.",
    "gap": 0.4
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Слушай, это ты так пошутил?",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Listen, was that you playing a prank?' In spoken Russian, the words stay in their normal statement order and Max's rising voice at the end turns the line into a question.",
+   "t": "'Listen, was that you playing a prank?' Asking whether that Nastya playing a prank cuts straight through the tension between Max and Nastya.",
    "gap": 0.4
   },
   {
-   "v": "nastya",
+   "v": "vika",
    "t": "Ну что, ты где?",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Well, where are you?' Notice how Russian expresses 'come on' and 'where' with crisp inflection rather than helper words.",
+   "t": "'Well, where are you?' Wondering where Max is is how Vika puts Max on the spot. Speaking with the close, informal \"you\" strips away any polite distance between them.",
    "gap": 0.4
   },
   {
@@ -210,26 +206,26 @@
   },
   {
    "v": "narrator",
-   "t": "'It looks like I ate something bad.' The negative particle sits right before the verb meaning 'to sit down' to negate the statement.",
+   "t": "'It looks like I ate something bad.' Because it looks like she ate something bad, Nastya treats the matter as settled.",
    "gap": 0.4
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Вот лежу, отдыхаю.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'So here I am lying down and resting.' The grammar packs 'there you go' and 'am resting' into a tight, idiomatic kitchen exchange. Alright, let's hear the whole conversation once more from start to finish.",
+   "t": "'So here I am lying down and resting.' Explaining that here he is lying down and resting lays the cards on the table for Nastya. Alright, let's hear the whole conversation once more from start to finish.",
    "gap": 0.9
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Алло, здравствуйте.",
    "gap": 0.5
   },
   {
-   "v": "nastya",
+   "v": "vika",
    "t": "Сейчас не может подойти.",
    "gap": 0.5
   },
@@ -239,12 +235,12 @@
    "gap": 0.5
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "О, хорошо, что вы позвонили.",
    "gap": 0.5
   },
   {
-   "v": "nastya",
+   "v": "vika",
    "t": "У меня для вас плохие новости.",
    "gap": 0.5
   },
@@ -254,12 +250,12 @@
    "gap": 0.5
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Вышел в коридор, куда-то делся.",
    "gap": 0.5
   },
   {
-   "v": "nastya",
+   "v": "vika",
    "t": "Теперь не можем его найти.",
    "gap": 0.5
   },
@@ -269,12 +265,12 @@
    "gap": 0.5
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Слушай, это ты так пошутил?",
    "gap": 0.5
   },
   {
-   "v": "nastya",
+   "v": "vika",
    "t": "Ну что, ты где?",
    "gap": 0.5
   },
@@ -284,7 +280,7 @@
    "gap": 0.5
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Вот лежу, отдыхаю.",
    "gap": 0.9
   },
@@ -294,7 +290,7 @@
    "gap": 0.5
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Хорошего дня!",
    "gap": 0.3
   }

@@ -10,34 +10,34 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Михаил | Давай по дороге обсудим. | Let's discuss it on the way. | #50 00:04:34: Давай по дороге обсудим | adapted: verbatim |
-| 2 | Михаил | А как мне реагировать? | And how should I react? | #51 00:04:38: а как мне реагировать? | adapted: verbatim |
-| 3 | Михаил | Я же её люблю. | After all, I love her. | #51 00:04:38: Я же ее люблю | adapted: verbatim |
-| 4 | Михаил | Это нормально ревновать, нет? | Is it normal to be jealous, or not? | #52 00:04:41: Это нормально ревновать, нет? | adapted: verbatim |
-| 5 | Сеня | Конечно, это нормально. | Of course it is normal. | #53 00:04:43: Конечно, нормально | adapted: adapted |
-| 6 | Сеня | У них ревнуешь — плохо. | With them, if you are jealous, it is bad. | #54 00:04:45: У них ревнуешь плохо | adapted: verbatim |
-| 7 | Михаил | И как мне быть? | And what should I do? | #56 00:04:51: И как быть? | adapted: adapted |
-| 8 | Сеня | Возьми, подойди к нему. | Go ahead and walk up to him. | #57 00:04:54: Возьми, подойди к нему | adapted: verbatim |
-| 9 | Михаил | Пойми, Витя, завтра открытие. | Understand, Vitya, the opening is tomorrow. | #60 00:05:05: Пойми, Витя, завтра открытие | adapted: verbatim |
-| 10 | Михаил | Наш отель должен удивить гостей. | Our hotel must surprise the guests. | #61 00:05:08: Наш отель должен удивить гостей | adapted: verbatim |
-| 11 | Сеня | Ресторан наш не трогай. | Do not touch our restaurant. | #63 00:05:14: Ресторан не трогай | adapted: adapted |
-| 12 | Михаил | Как вы провели эту ночь? | How did you spend this night? | #68 00:05:30: Как вы провели эту ночь? | adapted: verbatim |
-| 13 | Михаил | О, вижу, что получили. | Oh, I see that you received it. | #71 00:05:37: О, вижу, что получили | adapted: verbatim |
-| 14 | Михаил | Он только что расстался с другом. | He just broke up with his friend. | #75 00:05:53: Он только что расстался | adapted: adapted |
+| 1 | Денис | Давай по дороге обсудим. | Let's discuss it on the way. | #50: Давай по дороге обсудим | adapted: verbatim |
+| 2 | Денис | А как мне реагировать? | And how should I react? | #51: а как мне реагировать? | adapted: verbatim |
+| 3 | Денис | Я же её люблю. | After all, I love her. | #51: Я же ее люблю | adapted: verbatim |
+| 4 | Денис | Это нормально ревновать, нет? | Is it normal to be jealous, or not? | #52: Это нормально ревновать, нет? | adapted: verbatim |
+| 5 | Сеня | Конечно, это нормально. | Of course it is normal. | #53: Конечно, нормально | adapted: adapted |
+| 6 | Сеня | У них ревнуешь — плохо. | With them, if you are jealous, it is bad. | #54: У них ревнуешь плохо | adapted: verbatim |
+| 7 | Денис | И как мне быть? | And what should I do? | #56: И как быть? | adapted: adapted |
+| 8 | Сеня | Возьми, подойди к нему. | Go ahead and walk up to him. | #57: Возьми, подойди к нему | adapted: verbatim |
+| 9 | Михаил | Пойми, Витя, завтра открытие. | Understand, Vitya, the opening is tomorrow. | #60: Пойми, Витя, завтра открытие | adapted: verbatim |
+| 10 | Михаил | Наш отель должен удивить гостей. | Our hotel must surprise the guests. | #61: Наш отель должен удивить гостей | adapted: verbatim |
+| 11 | Сеня | Ресторан наш не трогай. | Do not touch our restaurant. | #63: Ресторан не трогай | adapted: adapted |
+| 12 | Михаил | Как вы провели эту ночь? | How did you spend this night? | #68: Как вы провели эту ночь? | adapted: verbatim |
+| 13 | Михаил | О, вижу, что получили. | Oh, I see that you received it. | #71: О, вижу, что получили | adapted: verbatim |
+| 14 | Михаил | Он только что расстался с другом. | He just broke up with his friend. | #75: Он только что расстался | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Let's discuss it on the way.' Denis brings out the contrast between 'come on' and 'according to' in a few short words.
-- 'And how should I react?' In Russian, the idea of 'and' flows naturally into 'to react' without extra filler words.
-- 'After all, I love her.' The grammar packs 'I' and 'like' into a tight, idiomatic kitchen exchange.
-- 'Is it normal to be jealous, or not?' Denis anchors the line on 'this', while 'no' completes the thought.
-- 'Of course it is normal.' In Russian, the idea of 'of course' flows naturally into 'normally' without extra filler words.
-- 'With them, if you are jealous, it is bad.' Notice how Russian expresses 'at' and 'badly' with crisp inflection rather than helper words. Denis answers right away.
-- 'And what should I do?' Here the Russian phrasing highlights 'and' before landing on 'be'.
-- 'Go ahead and walk up to him.' Here the Russian phrasing highlights 'take' before landing on 'him'.
-- 'Understand, Vitya, the opening is tomorrow.' Mikhail brings out the contrast between 'understand' and 'proper name' in a few short words.
-- 'Our hotel must surprise the guests.' Mikhail anchors the line on 'our', while 'guests' completes the thought.
-- 'Do not touch our restaurant.' In Russian, the idea of 'restaurant' flows naturally into 'touch' without extra filler words.
-- 'How did you spend this night?' Mikhail raises the pitch on 'night' to turn the phrase into a direct spoken question.
-- 'Oh, I see that you received it.' Mikhail anchors the line on 'about', while 'received' completes the thought.
-- 'He just broke up with his friend.' Mikhail anchors the line on 'he', while 'friend' completes the thought.
+- 'Let's discuss it on the way.' Discussing it on the way together moves the conversation forward without extra drama.
+- 'And how should I react?' Asking how he react should is how Denis puts Mikhail on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'After all, I love her.' Denis mentions that after all he loves so Mikhail sees what is at stake.
+- 'Is it normal to be jealous, or not?' By checking whether it normal to be jealous or not, Denis presses Mikhail for a straight answer.
+- 'Of course it is normal.' Noting that it is normal keeps Senya's side of the story simple and clear. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'With them, if you are jealous, it is bad.' Even though with them if Denis is jealous it is bad, Senya keeps a steady face in front of Denis. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'And what should I do?' Here wondering what he does should shows Denis looking for the real truth.
+- 'Go ahead and walk up to him.' Here telling Denis to go ahead and walk up to him sets up the next turn in their exchange.
+- 'Understand, Vitya, the opening is tomorrow.' Since Denis should understand Vitya the opening is tomorrow, Mikhail does not waste words on excuses.
+- 'Our hotel must surprise the guests.' Adding that their hotel must surprise the guests fills in the missing piece for Denis.
+- 'Do not touch our restaurant.' Saying that do not touch their restaurant is how Senya sets the tone with Denis.
+- 'How did you spend this night?' By wondering how Denis spends this night, Mikhail presses Denis for a straight answer. Notice how he sticks to the formal "you", keeping a professional line between them.
+- 'Oh, I see that you received it.' Mikhail explains that he sees that Denis received it, keeping his voice calm and direct.
+- 'He just broke up with his friend.' Around the hotel and guest, Mikhail sets a calm, everyday tone with Denis.

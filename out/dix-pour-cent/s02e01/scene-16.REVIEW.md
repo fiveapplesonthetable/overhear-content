@@ -1,33 +1,47 @@
-# Review: `dix-pour-cent-s02e01-scene-16` — Trêve entre Gabriel et Mathias  (Truce Between Gabriel and Mathias)
+# dix-pour-cent-s02e01-scene-16: review sheet
 
-- **Source**: `sources/dix-pour-cent/s02/e01.fr.dual.srt`
-- **Level**: A1 — débutant
-- **Voices**: `{"narrator": "sky", "gabriel": "theo", "mathias": "marcel", "camille": "emilie"}`
-- **Labels**: `{"gabriel": "Gabriel", "mathias": "Mathias", "camille": "Camille"}`
+Title: Trêve entre Gabriel et Mathias  (Truce Between Gabriel and Mathias)
+Level: A1 — débutant
+Pair: fr-en
+Source: Dix pour cent (Call My Agent!) S02E01
 
-## Part 1 — Intro
-> Overwhelmed by Virginie Efira's depression, Gabriel goes to Mathias's office to hand her back. Instead of another bitter argument, the two rival agents reach a humorous truce about relationships and life. Let's listen to the scene in French first.
 
-## Part 2 — Story Lines
-| # | Role | French | English | Source Cues |
-|---|------|--------|---------|-------------|
-| 0 | `camille` (Camille) | Gabriel, Mathias est dans son bureau. | Gabriel, Mathias is in his office. | adapted |
-| 1 | `gabriel` (Gabriel) | Mathias, je peux vous dire un mot? | Mathias, can I have a word with you? | 436:Je peux vous dire un mot |
-| 2 | `mathias` (Mathias) | Qu'est-ce qui se passe? | What is going on? | 437:Qu'est-ce qui se passe |
-| 3 | `gabriel` (Gabriel) | Concernant Virginie, je préférerais que tu la reprennes. | Regarding Virginie, I would prefer that you take her back. | 438:concernant Virginie, 438:je préférerais que tu la reprennes |
-| 4 | `mathias` (Mathias) | Non, pitié! | No, please have mercy! | 439:Non, pitié |
-| 5 | `gabriel` (Gabriel) | Elle est à deux doigts de craquer. | She is on the verge of breaking down. | 440:Elle est à deux doigts de craquer |
-| 6 | `mathias` (Mathias) | Je t'ai juste demandé de l'aide. | I just asked you for help. | 443:je t'ai juste demandé de l'aide |
-| 7 | `gabriel` (Gabriel) | Tu veux vraiment que je t'aide? | Do you really want me to help you? | 446:Tu veux vraiment que je t'aide |
-| 8 | `mathias` (Mathias) | Bien sûr! | Of course! | 446:Bien sûr |
-| 9 | `gabriel` (Gabriel) | Depuis que tu t'es séparé de ta femme, tu es plus humain. | Since you separated from your wife, you are more human. | 451:depuis que tu t'es séparé, 452:de ta femme... tu es devenu plus humain |
-| 10 | `mathias` (Mathias) | C'est temporaire. | It is temporary. | 453:C'est temporaire |
-| 11 | `gabriel` (Gabriel) | La séparation ou l'humanité? | The separation or the humanity? | 454:La séparation ou l'humanité |
-| 12 | `mathias` (Mathias) | Une fois réconciliés, j'aurai les deux à nouveau. | Once reconciled, I will have both again. | 455:Une fois réconciliés, j'aurai les deux à nouveau |
-| 13 | `gabriel` (Gabriel) | Une vraie relation commence quand, alors? | When does a real relationship begin, then? | 462:Une vraie relation commence après 3 ans, 463:et avant ça, c'est quoi |
-| 14 | `mathias` (Mathias) | Une comédie romantique. | A romantic comedy. | 464:Une comédie romantique |
-| 15 | `camille` (Camille) | Une comédie romantique, c'est déjà pas mal! | A romantic comedy is not bad at all! | adapted |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 5 — Outro & Closing
-> The unexpected moment of warmth between Gabriel and Mathias seals their alliance to protect the agency. Soon after, dark clouds gather as rival agent François Bréhier approaches Arlette on the street. See you next time!
-- **Closing**: `camille`: *Bonne journée!*
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+|---|---|---|---|---|---|
+| 1 | Camille | Gabriel, Mathias est dans son bureau. | Gabriel, Mathias is in his office. | new | new |
+| 2 | Gabriel | Mathias, je peux vous dire un mot? | Mathias, can I have a word with you? | #436: Je peux vous dire un mot | verbatim |
+| 3 | Mathias | Qu'est-ce qui se passe? | What is going on? | #437: Qu'est-ce qui se passe | verbatim |
+| 4 | Gabriel | Concernant Virginie, je préférerais que tu la reprennes. | Regarding Virginie, I would prefer that you take her back. | #438: concernant Virginie<br>#438: je préférerais que tu la reprennes | verbatim |
+| 5 | Mathias | Non, pitié! | No, please have mercy! | #439: Non, pitié | verbatim |
+| 6 | Gabriel | Elle est à deux doigts de craquer. | She is on the verge of breaking down. | #440: Elle est à deux doigts de craquer | verbatim |
+| 7 | Mathias | Je t'ai juste demandé de l'aide. | I just asked you for help. | #443: je t'ai juste demandé de l'aide | verbatim |
+| 8 | Gabriel | Tu veux vraiment que je t'aide? | Do you really want me to help you? | #446: Tu veux vraiment que je t'aide | verbatim |
+| 9 | Mathias | Bien sûr! | Of course! | #446: Bien sûr | verbatim |
+| 10 | Gabriel | Depuis que tu t'es séparé de ta femme, tu es plus humain. | Since you separated from your wife, you are more human. | #451: depuis que tu t'es séparé<br>#452: de ta femme... tu es devenu plus humain | verbatim |
+| 11 | Mathias | C'est temporaire. | It is temporary. | #453: C'est temporaire | verbatim |
+| 12 | Gabriel | La séparation ou l'humanité? | The separation or the humanity? | #454: La séparation ou l'humanité | verbatim |
+| 13 | Mathias | Une fois réconciliés, j'aurai les deux à nouveau. | Once reconciled, I will have both again. | #455: Une fois réconciliés, j'aurai les deux à nouveau | verbatim |
+| 14 | Gabriel | Une vraie relation commence quand, alors? | When does a real relationship begin, then? | #462: Une vraie relation commence après 3 ans<br>#463: et avant ça, c'est quoi | verbatim |
+| 15 | Mathias | Une comédie romantique. | A romantic comedy. | #464: Une comédie romantique | verbatim |
+| 16 | Camille | Une comédie romantique, c'est déjà pas mal! | A romantic comedy is not bad at all! | new | new |
+
+## Walk-through narration (English only, no target-language words quoted)
+
+- 'Gabriel, Mathias is in his office.' Camille points Gabriel toward the corner office.
+- 'Mathias, can I have a word with you?' Notice how the verb for 'can' leads straight into 'word'.
+- 'What is going on?' Listen for the expression meaning 'is happening', which leads naturally into 'is happening'.
+- 'Regarding Virginie, I would prefer that you take her back.' Gabriel opens with the word for 'would prefer' and lands on 'take back' at the close.
+- 'No, please have mercy!' Pitie is a noun meaning pity or mercy, used here as an exclamation.
+- 'She is on the verge of breaking down.' The key word here means 'is', paired with 'cracking' to make the point clear.
+- 'I just asked you for help.' Listen for the expression meaning 'have you', which leads naturally into 'help'.
+- 'Do you really want me to help you?' Listen for the expression meaning 'want', which leads naturally into 'help you'.
+- 'Of course!' Mathias opens with the word for 'of' and lands on 'course' at the close.
+- 'Since you separated from your wife, you are more human.' The adjective meaning 'human' agrees in gender and number with feminine noun 'wife'.
+- 'It is temporary.' The key word here means 'temporary', paired with 'temporary' to make the point clear.
+- 'The separation or the humanity?' Gabriel teases Mathias with a clever contrast.
+- 'Once reconciled, I will have both again.' Listen for the expression meaning 'time', which leads naturally into 'new'.
+- 'When does a real relationship begin, then?' The adjective meaning 'real' agrees in gender and number with feminine noun 'relationship'.
+- 'A romantic comedy.' Mathias opens with the word for 'comedy' and lands on 'romantic' at the close.
+- 'A romantic comedy is not bad at all!' The key word here means 'comedy', paired with 'bad' to make the point clear.

@@ -1,39 +1,36 @@
-# Сухой закон  (Dry Law) — `kukhnya-s02e01-scene-13`
+# kukhnya-s02e01-scene-13: review sheet
 
-**Source:** Кухня (Kukhnya) S2.01 · `sources/kukhnya/s02/e01.ru.dual.srt`  
-**Target level:** A1 — Duolingo Section 2
+Title: Сухой закон  (Dry Law)
+Level: A1 — Duolingo Section 2
+Pair: ru-en
+Source: Кухня (Kukhnya) S2.01
 
-## Cast
 
-| Role | Voice | Label |
-|---|---|---|
-| `narrator` | sky | — |
-| `lyova` | angelina | Лёва |
-| `chef` | anja | Шеф |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 1 — Intro
-
-> Lyova accompanies Chef Viktor Barinov to work every morning to prevent him from buying alcohol along the way, warning him that new owner Igor Valentinovich has installed cameras in the kitchen.
-
-## Part 2 — Story
-
-| # | Speaker | Line | English | Source cue(s) | Change |
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 0 | Шеф | Ты будешь со мной таскаться каждый день? | Are you going to follow me around every day? | #183 "И что, ты так и будешь со мной таскаться каждый день?" |  |
-| 1 | Лёва | Да. | Yes. | *(added)* |  |
-| 2 | Лёва | Если я не буду с вами ездить... | If I don't ride with you... | *(added)* |  |
-| 3 | Лёва | Вы будете скупать алкоголь во всех магазинах. | You'll buy booze at every store. | *(added)* |  |
-| 4 | Лёва | Мой долг уберечь вас от этого. | It's my duty to protect you from this. | *(added)* |  |
-| 5 | Лёва | Потом еще сами спасибо скажете. | You'll thank me for it yourself later. | *(added)* |  |
-| 6 | Шеф | Спасибо. | Thanks. | *(added)* |  |
-| 7 | Шеф | Лева, я ведь все равно нажерусь. | Lyova, I'm getting hammered anyway. | *(added)* |  |
-| 8 | Шеф | Назло тебе и твоему боссу. | Just to spite you and your boss. | *(added)* |  |
-| 9 | Лёва | Не получится. | It won't work. | *(added)* |  |
-| 10 | Лёва | Игорь Валентинович сказал, что в ресторане установили камеры. | Igor Valentinovich said they installed cameras at the restaurant. | *(added)* |  |
-| 11 | Лёва | Это для вашего же блага. | It's for your own good. | *(added)* |  |
+| 1 | Шеф | Ты будешь со мной таскаться каждый день? | Are you going to follow me around every day? | #183: И что, ты так и будешь со мной таскаться каждый день? | verbatim |
+| 2 | Лёва | Да. | Yes. | new | new |
+| 3 | Лёва | Если я не буду с вами ездить... | If I don't ride with you... | new | new |
+| 4 | Лёва | Вы будете скупать алкоголь во всех магазинах. | You'll buy booze at every store. | new | new |
+| 5 | Лёва | Мой долг уберечь вас от этого. | It's my duty to protect you from this. | new | new |
+| 6 | Лёва | Потом еще сами спасибо скажете. | You'll thank me for it yourself later. | new | new |
+| 7 | Шеф | Спасибо. | Thanks. | new | new |
+| 8 | Шеф | Лева, я ведь все равно нажерусь. | Lyova, I'm getting hammered anyway. | new | new |
+| 9 | Шеф | Назло тебе и твоему боссу. | Just to spite you and your boss. | new | new |
+| 10 | Лёва | Не получится. | It won't work. | new | new |
+| 11 | Лёва | Игорь Валентинович сказал, что в ресторане установили камеры. | Igor Valentinovich said they installed cameras at the restaurant. | new | new |
+| 12 | Лёва | Это для вашего же блага. | It's for your own good. | new | new |
 
-## Part 5 — Outro & closing
+## Walk-through narration (English only, no target-language words quoted)
 
-> Lyova reveals the real reason he is keeping such a close eye on the Chef. Next time you watch the episode, listen for the Russian expressions for 'to be' and 'follow' — you will catch every word right away. See you next time!
-
-**Лёва:** Пока!
+- 'Are you going to follow me around every day?' the self-directed ending on the verb for 'follow' turns the action back onto the subject.
+- 'You' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'It's my duty to protect you from this.' The phrasing opens with 'debt' before bringing in 'to protect' to make the point clear.
+- 'You'll thank me for it yourself later.' Lyova expresses this naturally by combining the word for 'then' with 'still' and 'thank you'.
+- 'Lyova, I'm getting hammered anyway.' Chef Barinov puts the word for 'the same' together with 'get hammered' in a crisp, natural spoken turn of phrase.
+- 'Just to spite you and your boss.' Chef Viktor uses the informal everyday 'you' here with 'boss', as friends and close colleagues do. Then Lyova responds.
+- 'It won' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
+- 'Igor Valentinovich said they installed cameras at the restaurant.' Lyova uses the action verb meaning 'said' to focus on the single completed result, pairing it with 'restaurant' and 'installed'.
+- 'It's for your own good.' Russian omits the present-tense verb 'to be', connecting 'this' directly with 'good'. Now let's listen to the whole conversation again from start to finish.

@@ -10,21 +10,21 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Ещё раз вам говорю, я не выходил! Я выпал из окна! | I'm telling you again, I didn't walk out! I fell out the window! | #815 00:45:06: Еще раз вам говорю, я не выходил. Я выпал из окна | verbatim |
-| 2 | Клавдия Викторовна | Целый? Спасибо тебе, Аркашенька! Теперь к окну подойти можно. | In one piece? Thank you, Arkashenka! Now I can go near the window. | #817 00:45:12: Целый? Спасибо тебе, Аркашенька. Теперь к окну подойти можно | verbatim |
-| 3 | Аня | Деньги! — Какие деньги? — Пять тысяч рублей! | The money! — What money? — Five thousand roubles! | #818 00:45:37: Деньги<br>#819 00:45:38: Какие деньги<br>#820 00:45:39: Пять тысяч рублей | verbatim |
-| 4 | Клавдия Викторовна | Аркаш, откуда у меня такие деньги? Я же пенсионерка! | Arkash, where would I get that kind of money? I'm a pensioner! | #821 00:45:40: Аркаш, откуда у меня такие деньги<br>#822 00:45:44: пенсионерка | verbatim |
-| 5 | Клавдия Викторовна | Я двенадцать тысяч получаю! Еле концы с концами свожу. | I get twelve thousand! I can barely make ends meet. | #822 00:45:44: тысяч получаю. Еле концы с концами свожу | adapted: '12' written out as 'двенадцать' |
-| 6 | Аня | Мне всё равно! Где мои пять тысяч рублей? | I don't care! Where are my five thousand roubles? | #823 00:45:52: Где мои<br>#823 00:45:52: тысяч рублей | adapted: slang 'Меня не колышет' -> 'Мне всё равно'; '5' written out as 'пять' |
-| 7 | Клавдия Викторовна | А ты не кричи на меня! Я тебе русским языком сказала. | Don't you yell at me! I told you in plain Russian. | #824 00:45:56: А ты не<br>#824 00:45:56: на меня<br>#825 00:46:01: Я тебе русским языком сказала | adapted: rude 'ори' -> 'кричи' |
-| 8 | Клавдия Викторовна | Я пенсионерка! И денег у меня нет! | I'm a pensioner! And I have no money! | #825 00:46:01: Я пенсионерка. И денег у меня нет | verbatim |
-| 9 | Аня | То есть вы обманули меня? Я вам отомщу! | So you cheated me? I'll get my revenge on you! | #826 00:46:13: То есть вы<br>#826 00:46:13: меня<br>#827 00:46:16: Я вам отомщу | adapted: slang 'чего, кинули' -> 'обманули' |
-| 10 | Клавдия Викторовна | Да вы мне уже отомстили! Говорю же, пенсия двенадцать тысяч. | You already have! I keep telling you, my pension is twelve thousand. | #828 00:46:24: Да вы мне уже отомстили<br>#829 00:46:33: Говорю же, пенсия<br>#830 00:46:34: тысяч | verbatim |
-| 11 | Клавдия Викторовна | Вообще-то, Клавдия Викторовна, свою работу он выполнил. | Actually, Klavdia Viktorovna, he did his job. | #834 00:46:42: Вообще-то Клавдия Викторовна<br>#835 00:46:44: свою работу | adapted: ASR 'выполнила' restored to masculine 'он выполнил' |
-| 12 | Клавдия Викторовна | А вы его обманули! | And you cheated him! | #835 00:46:44: а вы его обманули | verbatim |
-| 13 | Клавдия Викторовна | Честная нашлась! Сама мужчину из семьи увела! | Look who's found a conscience! You stole a man from his family yourself! | #836 00:46:47: честная нашлась<br>#837 00:46:52: Сама<br>#838 00:46:53: из семьи увела | adapted: 'мужика' -> 'мужчину' |
-| 14 | Клавдия Викторовна | А старую бабушку морали учит! | And now she's lecturing an old grandmother about morals! | #838 00:46:53: а старую<br>#839 00:46:55: морали учит | adapted: 'бабку' -> 'бабушку' |
-| 15 | Клавдия Викторовна | У них с женой давно сложные отношения! — Ага, расскажешь! | He and his wife have had a rocky relationship for a long time! — Yeah, tell me another one! | #840 00:46:58: давно<br>#842 00:47:02: Ага<br>#842 00:47:02: расскажешь | adapted: 'Эдуард Валентинович давно был в стадии разрыва отношений' simplified to A1; 'в аду' dropped |
+| 1 | Аркадий | Ещё раз вам говорю, я не выходил! Я выпал из окна! | I'm telling you again, I didn't walk out! I fell out the window! | #815: Еще раз вам говорю, я не выходил. Я выпал из окна | verbatim |
+| 2 | Клавдия Викторовна | Целый? Спасибо тебе, Аркашенька! Теперь к окну подойти можно. | In one piece? Thank you, Arkashenka! Now I can go near the window. | #817: Целый? Спасибо тебе, Аркашенька. Теперь к окну подойти можно | verbatim |
+| 3 | Аркадий | Деньги! — Какие деньги? — Пять тысяч рублей! | The money! — What money? — Five thousand roubles! | #818: Деньги<br>#819: Какие деньги<br>#820: Пять тысяч рублей | verbatim |
+| 4 | Клавдия Викторовна | Аркаш, откуда у меня такие деньги? Я же пенсионерка! | Arkash, where would I get that kind of money? I'm a pensioner! | #821: Аркаш, откуда у меня такие деньги<br>#822: пенсионерка | verbatim |
+| 5 | Клавдия Викторовна | Я двенадцать тысяч получаю! Еле концы с концами свожу. | I get twelve thousand! I can barely make ends meet. | #822: тысяч получаю. Еле концы с концами свожу | adapted: '12' written out as 'двенадцать' |
+| 6 | Аркадий | Мне всё равно! Где мои пять тысяч рублей? | I don't care! Where are my five thousand roubles? | #823: Где мои<br>#823: тысяч рублей | adapted: slang 'Меня не колышет' -> 'Мне всё равно'; '5' written out as 'пять' |
+| 7 | Клавдия Викторовна | А ты не кричи на меня! Я тебе русским языком сказала. | Don't you yell at me! I told you in plain Russian. | #824: А ты не<br>#824: на меня<br>#825: Я тебе русским языком сказала | adapted: rude 'ори' -> 'кричи' |
+| 8 | Клавдия Викторовна | Я пенсионерка! И денег у меня нет! | I'm a pensioner! And I have no money! | #825: Я пенсионерка. И денег у меня нет | verbatim |
+| 9 | Аркадий | То есть вы обманули меня? Я вам отомщу! | So you cheated me? I'll get my revenge on you! | #826: То есть вы<br>#826: меня<br>#827: Я вам отомщу | adapted: slang 'чего, кинули' -> 'обманули' |
+| 10 | Клавдия Викторовна | Да вы мне уже отомстили! Говорю же, пенсия двенадцать тысяч. | You already have! I keep telling you, my pension is twelve thousand. | #828: Да вы мне уже отомстили<br>#829: Говорю же, пенсия<br>#830: тысяч | verbatim |
+| 11 | Марина | Вообще-то, Клавдия Викторовна, свою работу он выполнил. | Actually, Klavdia Viktorovna, he did his job. | #834: Вообще-то Клавдия Викторовна<br>#835: свою работу | adapted: ASR 'выполнила' restored to masculine 'он выполнил' |
+| 12 | Марина | А вы его обманули! | And you cheated him! | #835: а вы его обманули | verbatim |
+| 13 | Клавдия Викторовна | Честная нашлась! Сама мужчину из семьи увела! | Look who's found a conscience! You stole a man from his family yourself! | #836: честная нашлась<br>#837: Сама<br>#838: из семьи увела | adapted: 'мужика' -> 'мужчину' |
+| 14 | Клавдия Викторовна | А старую бабушку морали учит! | And now she's lecturing an old grandmother about morals! | #838: а старую<br>#839: морали учит | adapted: 'бабку' -> 'бабушку' |
+| 15 | Марина | У них с женой давно сложные отношения! — Ага, расскажешь! | He and his wife have had a rocky relationship for a long time! — Yeah, tell me another one! | #840: давно<br>#842: Ага<br>#842: расскажешь | adapted: 'Эдуард Валентинович давно был в стадии разрыва отношений' simplified to A1; 'в аду' dropped |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -39,7 +39,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'So you cheated me? I'll get my revenge on you!' The verb 'to take revenge' takes the 'to/for' form for the person you get back at.
 - 'You already have! I keep telling you, my pension is twelve thousand.' She hints at all the years Arkady robbed the town as mayor. Arkady storms out of the kitchen.
 - 'Actually, Klavdia Viktorovna, he did his job.' Even Marina, standing by the caramel-splattered stove, feels sorry for Arkady.
-- 'And you cheated him!' Klavdia Viktorovna immediately turns on Marina.
+- 'And you cheated him!' Here, Klavdia Viktorovna immediately turns on Marina.
 - 'Look who's found a conscience! You stole a man from his family yourself!' Literally, 'an honest one was found! Yourself led a man away from his family'.
 - 'And now she's lecturing an old grandmother about morals!' The verb 'to teach' takes the object-form for the person and the 'to'-form for the subject taught.
-- 'He and his wife have had a rocky relationship for a long time! — Yeah, tell me another one!' Klavdia Viktorovna scoffs and walks out.
+- 'He and his wife have had a rocky relationship for a long time! — Yeah, tell me another one!' Here, Klavdia Viktorovna scoffs and walks out.

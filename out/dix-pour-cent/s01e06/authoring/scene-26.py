@@ -7,31 +7,30 @@ SCENE = 26
 TITLE = 'Le retour de Madame Brancillon  (The Return of Madame Brancillon)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'lea': 'lucie', 'camille': 'emilie'}
-LABELS = {'lea': 'Andréa', 'camille': 'Camille'}
+LABELS = {'andrea': 'Andréa', 'camille': 'Camille'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e06.fr.dual.srt'
 INTRO = "When Camille stops by with the morning mail, Andréa tries to hide her mounting anxiety before spotting a familiar figure in the hallway. Listen to the scene in French first. Don't worry about catching every word. Let's listen to the scene in French first."
 OPENER = "Let's walk through Andréa's frustration and Colette's icy return step by step."
 TRANSITION = 'Now listen to the whole scene again at normal speed, and see how much more you catch.'
 OUTRO = 'Colette is back at ASK, but strictly as an unyielding tax auditor with devastating news for the agency. See you next time!'
-CLOSING = ('lea', 'Bonne soirée!')
+CLOSING = ('andrea', 'Bonne soirée!')
 STORY = [
-    ('lea', 'Tu Coucheras avec Moi Ce Soir?', 'Will You Sleep with Me Tonight?', [(678, 'Tu Coucheras avec Moi Ce Soir')], ''),
-    ('lea', 'Mince!', 'Darn!', [(679, 'Merde')], ''),
-    ('lea', 'Amour et Muffins.', 'Love and Muffins.', [(680, 'Amour et Muffins')], ''),
-    ('lea', "C'est un complot ou quoi?", 'Is it a conspiracy or what?', [(681, "C'est un complot ou quoi")], ''),
+    ('andrea', 'Tu Coucheras avec Moi Ce Soir?', 'Will You Sleep with Me Tonight?', [(678, 'Tu Coucheras avec Moi Ce Soir')], ''),
+    ('andrea', 'Mince!', 'Darn!', [(679, 'Merde')], ''),
+    ('andrea', 'Amour et Muffins.', 'Love and Muffins.', [(680, 'Amour et Muffins')], ''),
+    ('andrea', "C'est un complot ou quoi?", 'Is it a conspiracy or what?', [(681, "C'est un complot ou quoi")], ''),
     ('camille', 'Ça va?', 'Are you okay?', [(682, 'Ça va')], ''),
-    ('lea', 'Ouais.', 'Yeah.', [(683, 'Ouais')], ''),
-    ('lea', 'On a des nouvelles de cette Brancillon?', 'Do we have news of that Brancillon?', [(684, 'On a des nouvelles de'), (684, 'cette Brancillon')], ''),
+    ('andrea', 'Ouais.', 'Yeah.', [(683, 'Ouais')], ''),
+    ('andrea', 'On a des nouvelles de cette Brancillon?', 'Do we have news of that Brancillon?', [(684, 'On a des nouvelles de'), (684, 'cette Brancillon')], ''),
     ('camille', "Ça fait trois jours qu'elle n'est pas venue.", 'It has been three days since she came.', [(685, "ça fait trois jours qu'elle n'est pas venue")], ''),
     ('camille', 'Bizarre, non?', 'Strange, isn', [(685, 'Bizarre, non')], ''),
-    ('lea', 'Elle avait besoin de papiers.', 'She needed papers.', [(686, 'Elle avait besoin de papiers')], ''),
-    ('lea', "Elle n'a pas appelé?", 'She didn', [(686, "Elle n'a pas appelé")], ''),
+    ('andrea', 'Elle avait besoin de papiers.', 'She needed papers.', [(686, 'Elle avait besoin de papiers')], ''),
+    ('andrea', "Elle n'a pas appelé?", 'She didn', [(686, "Elle n'a pas appelé")], ''),
     ('camille', 'Non.', 'No.', [(687, 'Non')], ''),
     ('camille', 'Je vous laisse.', 'I\\', [(688, 'Je vous laisse')], ''),
-    ('lea', 'Madame Brancillon!', 'Madame Brancillon! Wait!', [(691, 'Madame Brancillon')], ''),
-    ('lea', 'Je peux vous dire un mot?', 'Can I have a word with you?', [(691, 'je peux vous dire un mot')], ''),
+    ('andrea', 'Madame Brancillon!', 'Madame Brancillon! Wait!', [(691, 'Madame Brancillon')], ''),
+    ('andrea', 'Je peux vous dire un mot?', 'Can I have a word with you?', [(691, 'je peux vous dire un mot')], ''),
 ]
 WALK = [
     (0, None, "'Will You Sleep with Me Tonight?' The simple future 'will sleep' forms a direct proposal."),

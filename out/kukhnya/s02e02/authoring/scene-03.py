@@ -4,18 +4,17 @@ SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 2
 SCENE = 3
-TITLE = "Новая кровь  (New Blood)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Новая кровь  (New Blood)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "kristina": "anja", "vika": "angelina"}
-LABELS = {"kristina": "Кристина", "vika": "Вика"}
+LABELS = {'kristina': 'Кристина', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S2.02'
 SOURCE_FILE = 'sources/kukhnya/s02/e02.ru.dual.srt'
 INTRO = "Centered on new blood, Vika and Kristina navigate a tense moment in the restaurant. Let's listen closely to their exchange in Russian first, and then walk through each line together."
 OPENER = 'Now let us examine the conversation line by line.'
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Kristina Semyonovna calls Vika for a private conversation and tells her that the restaurant needs fresh ideas and new people. Next time you watch the episode, listen for the Russian expressions for 'may' and 'a minute' — you will catch every word right away. See you next time!"
-CLOSING = ("vika", "Пока!")
+CLOSING = ('vika', 'Пока!')
 STORY = [
     ('vika', 'Можно тебя на минуточку?', 'Can I have a word with you for a minute?', [(68, 'можно я тебя на минуточку?')], ''),
     ('kristina', 'Я слушаю.', 'I am listening.', [(71, 'Я вас слушаю,')], ''),

@@ -7,8 +7,7 @@ SCENE = 13
 TITLE = "L'agent double  (The Double Agent)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'camille': 'emilie', 'herve': 'marcel', 'lea': 'lucie'}
-LABELS = {'camille': 'Camille', 'herve': 'Hervé', 'lea': 'Andréa'}
+LABELS = {'annick': 'Annick', 'camille': 'Camille', 'herve': 'Hervé'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e03.fr.dual.srt'
 INTRO = 'At home, Camille and Herve prepare an ambitious undercover scheme to manage talent together. By sharing two phones and a joint calendar under the single name of Camille Valentini, they plan to conquer Paris. Listen to the scene in French first.'
@@ -25,11 +24,11 @@ STORY = [
     ('camille', 'On va être partout à la fois.', 'We are going to be everywhere at once.', [(562, 'On va être partout à la fois')], ''),
     ('camille', "Attends, c'est ma mère.", 'Wait, it is my mother.', [(567, "C'est ma mère")], ''),
     ('camille', 'Surtout, tu ne lui dis rien.', 'Above all, you do not tell her anything.', [(573, 'tu lui dis rien')], ''),
-    ('lea', "Camille, qu'est-ce qui se passe?", 'Camille, what is going on?', [(575, "qu'est-ce qui se passe")], ''),
+    ('annick', "Camille, qu'est-ce qui se passe?", 'Camille, what is going on?', [(575, "qu'est-ce qui se passe")], ''),
     ('herve', 'On va être Camille tous les deux.', 'We are going to be Camille together.', [(576, 'tous les deux')], ''),
-    ('lea', 'Vous êtes complètement dérangées!', 'You are completely out of your minds!', [(577, 'vous êtes complètement dérangées')], ''),
+    ('annick', 'Vous êtes complètement dérangées!', 'You are completely out of your minds!', [(577, 'vous êtes complètement dérangées')], ''),
     ('camille', 'Tu dis toujours que je travaille trop.', 'You always say that I work too much.', [(582, 'que je travaille trop')], ''),
-    ('lea', 'Tu lui fais confiance, à lui?', 'Do you trust him?', [(586, 'Tu lui fais confiance, à lui')], ''),
+    ('annick', 'Tu lui fais confiance, à lui?', 'Do you trust him?', [(586, 'Tu lui fais confiance, à lui')], ''),
     ('camille', "Maman, il t'entend là!", 'Mom, he can hear you right now!', [(589, "Maman, il t'entend")], ''),
 ]
 WALK = [

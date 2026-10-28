@@ -4,31 +4,30 @@ SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 2
 SCENE = 8
-TITLE = "Держи  (Here You Go)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Держи  (Here You Go)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "anya": "alisa", "vika": "angelina"}
-LABELS = {"anya": "Макс", "vika": "Вика"}
+LABELS = {'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S2.02'
 SOURCE_FILE = 'sources/kukhnya/s02/e02.ru.dual.srt'
 INTRO = "In the middle of the kitchen chaos, a very brief exchange happens between two people handing over an item. Let's listen closely to their exchange in Russian first, and then walk through each line together."
 OPENER = "Now let's go back through the exchange around Here You Go line by line and unpack how the Russian works."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "A very brief exchange happens between two people handing over an item. Next time you watch the episode, listen for the Russian expressions for 'thing' and 'to take' — you will catch every word right away. See you next time!"
-CLOSING = ("anya", "До свидания!")
+CLOSING = ('max', 'До свидания!')
 STORY = [
-    ('anya', 'Привет.', 'Hi.', [], ''),
+    ('max', 'Привет.', 'Hi.', [], ''),
     ('vika', 'Привет, Вика.', 'Hi, Vika.', [], ''),
-    ('anya', 'Вот твоя вещь.', 'Here is your thing.', [], ''),
-    ('anya', 'Возьми это.', 'Take this.', [], ''),
-    ('anya', 'Держи.', 'Here you go.', [(157, 'Держи')], ''),
+    ('max', 'Вот твоя вещь.', 'Here is your thing.', [], ''),
+    ('max', 'Возьми это.', 'Take this.', [], ''),
+    ('max', 'Держи.', 'Here you go.', [(157, 'Держи')], ''),
     ('vika', 'Спасибо.', 'Thanks.', [], ''),
     ('vika', 'Это мне?', 'Is this for me?', [], ''),
-    ('anya', 'Да, тебе.', 'Yes, for you.', [], ''),
+    ('max', 'Да, тебе.', 'Yes, for you.', [], ''),
     ('vika', 'Очень хорошо.', 'Very good.', [], ''),
     ('vika', 'Я рад.', 'I am glad.', [], ''),
-    ('anya', 'Пожалуйста.', "You're welcome.", [], ''),
-    ('anya', 'Я пойду.', 'I will go.', [], ''),
+    ('max', 'Пожалуйста.', "You're welcome.", [], ''),
+    ('max', 'Я пойду.', 'I will go.', [], ''),
     ('vika', 'Пока.', 'Bye.', [], ''),
 ]
 WALK = [

@@ -10,32 +10,32 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Шеф | Чтобы сто тысяч завтра у меня были. | Make sure I have the hundred thousand tomorrow. | #185 00:11:16: Чтобы сто тысяч завтра у меня были | verbatim |
-| 2 | Лёва | Иначе разговаривать будем по-другому. | Otherwise we will be having a very different conversation. | #186 00:11:21: иначе разговаривать будем по-другому | verbatim |
-| 3 | Шеф | Ну что ты так волнуешься? | Why are you worrying so much? | #187 00:11:26: Ну что ты так волнуешься | verbatim |
-| 4 | Лёва | Не ты же занимал. | You are not the one who borrowed it. | #188 00:11:28: Не ты же занимал | verbatim |
-| 5 | Шеф | Ага, занимал не я. | Yeah, right, I was not the one who borrowed it. | #189 00:11:30: Ага, занимал не я | verbatim |
-| 6 | Лёва | Шеф-то в больнице с него что возьмешь? | The Chef is in the hospital, what can you get from him now? | #190 00:11:31: Шеф-то в больнице с него что возьмешь | verbatim |
-| 7 | Шеф | Да что ты разволновался? | Why are you getting so worked up? | #191 00:11:34: Да что ты разволновался | verbatim |
-| 8 | Лёва | Ой, а я за. | Oh, I am in. | #193 00:11:38: Ой, а я за | verbatim |
-| 9 | Шеф | Вот, вот, десять тысяч. | Here, take ten thousand. | #194 00:11:42: Вот, вот, десять тысяч | verbatim |
-| 10 | Лёва | Что вы мне так смотрите? | Why are you all looking at me like that? | #195 00:11:53: Что вы мне так смотрите | verbatim |
-| 11 | Шеф | Мне шеф десять тысяч должен. | The Chef already owes me ten thousand. | #196 00:11:55: Мне шеф десять тысяч должен | verbatim |
-| 12 | Лёва | Так что я еще больше, чем ты положил. | So I have actually put in even more than you did. | #197 00:11:57: Так что я еще больше, чем ты положил | verbatim |
-| 13 | Шеф | Ладно, вот. | All right, here you go. | #198 00:12:01: Ладно, вот | verbatim |
+| 1 | Шеф | Чтобы сто тысяч завтра у меня были. | Make sure I have the hundred thousand tomorrow. | #185: Чтобы сто тысяч завтра у меня были | verbatim |
+| 2 | Лёва | Иначе разговаривать будем по-другому. | Otherwise we will be having a very different conversation. | #186: иначе разговаривать будем по-другому | verbatim |
+| 3 | Шеф | Ну что ты так волнуешься? | Why are you worrying so much? | #187: Ну что ты так волнуешься | verbatim |
+| 4 | Лёва | Не ты же занимал. | You are not the one who borrowed it. | #188: Не ты же занимал | verbatim |
+| 5 | Шеф | Ага, занимал не я. | Yeah, right, I was not the one who borrowed it. | #189: Ага, занимал не я | verbatim |
+| 6 | Лёва | Шеф-то в больнице с него что возьмешь? | The Chef is in the hospital, what can you get from him now? | #190: Шеф-то в больнице с него что возьмешь | verbatim |
+| 7 | Шеф | Да что ты разволновался? | Why are you getting so worked up? | #191: Да что ты разволновался | verbatim |
+| 8 | Лёва | Ой, а я за. | Oh, I am in. | #193: Ой, а я за | verbatim |
+| 9 | Шеф | Вот, вот, десять тысяч. | Here, take ten thousand. | #194: Вот, вот, десять тысяч | verbatim |
+| 10 | Лёва | Что вы мне так смотрите? | Why are you all looking at me like that? | #195: Что вы мне так смотрите | verbatim |
+| 11 | Шеф | Мне шеф десять тысяч должен. | The Chef already owes me ten thousand. | #196: Мне шеф десять тысяч должен | verbatim |
+| 12 | Лёва | Так что я еще больше, чем ты положил. | So I have actually put in even more than you did. | #197: Так что я еще больше, чем ты положил | verbatim |
+| 13 | Шеф | Ладно, вот. | All right, here you go. | #198: Ладно, вот | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Make sure I have the hundred thousand tomorrow.' Chef Viktor brings out the contrast between 'so that' and 'one hundred' in a few short words.
-- 'Otherwise we will be having a very different conversation.' Spoken Russian keeps this brisk, leaning on 'otherwise' and finishing on 'differently'.
-- 'Why are you worrying so much?' Chef Viktor addresses the listener with the informal singular 'you' alongside 'to worry'. Lyova answers right away.
-- 'You are not the one who borrowed it.' Spoken Russian keeps this brisk, leaning on 'not' and finishing on 'occupy'.
-- 'Yeah, right, I was not the one who borrowed it.' Notice how Russian expresses 'yeah' and 'I' with crisp inflection rather than helper words.
-- 'The Chef is in the hospital, what can you get from him now?' Notice how Russian expresses 'Chef Barinov' and 'to take' with crisp inflection rather than helper words. Chef Viktor answers right away.
-- 'Why are you getting so worked up?' In Russian, the idea of 'yes' flows naturally into 'to get nervous' without extra filler words.
-- 'Oh, I am in.' Here the Russian phrasing highlights 'oh no' before landing on 'behind'.
-- 'Here, take ten thousand.' The grammar packs 'there you go' and 'thousand' into a tight, idiomatic kitchen exchange. Lyova answers right away.
-- 'Why are you all looking at me like that?' Here the Russian phrasing highlights 'what' before landing on 'look'.
-- 'The Chef already owes me ten thousand.' Chef Viktor brings out the contrast between 'for me' and 'chef' in a few short words.
-- 'So I have actually put in even more than you did.' Lyova anchors the line on 'like this', while 'laid' completes the thought. Chef Viktor answers right away.
-- 'All right, here you go.' Notice how Russian expresses 'really?!' and 'there you go' with crisp inflection rather than helper words.
+- 'Make sure I have the hundred thousand tomorrow.' Making sure he has the hundred thousand tomorrow is how Barinov lays out the situation for Lyova. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
+- 'Otherwise we will be having a very different conversation.' Pointing out that otherwise they will be having a very different conversation gives Barinov a sobering reality check.
+- 'Why are you worrying so much?' Asking why Lyova worrying so much is is how Barinov puts Lyova on the spot. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'You are not the one who borrowed it.' Realizing that Barinov is not the one who borrowed it changes how Lyova handles the situation. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Yeah, right, I was not the one who borrowed it.' Noting that yeah right he was not the one who borrowed it keeps Barinov's side of the story simple and clear.
+- 'The Chef is in the hospital, what can you get from him now?' Asking whether the Chef is in the hospital what can Barinov gets from him now puts Barinov right on the defensive. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Why are you getting so worked up?' Wondering why Lyova getting so worked up is is how Barinov puts Lyova on the spot. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Oh, I am in.' Around the plan and moment, Lyova sets a calm, everyday tone with Barinov.
+- 'Here, take ten thousand.' With the plan and work in play, Barinov keeps this short reply brisk and direct.
+- 'Why are you all looking at me like that?' Wondering why Barinov all looking at him like is cuts straight through the tension between Lyova and Barinov. Notice how he sticks to the formal "you", keeping a professional line between them.
+- 'The Chef already owes me ten thousand.' Barinov tells Lyova that the Chef already owes him ten thousand without dressing it up.
+- 'So I have actually put in even more than you did.' Saying that he has actually put in even more than Barinov did is how Lyova sets the tone with Barinov. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'All right, here you go.' Mentioning that all right here Lyova goes moves the talk in a new direction.

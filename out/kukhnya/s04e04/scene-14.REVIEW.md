@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Ты чего дома не ночевал? | Why didn't you sleep at home last night? | #209 00:15:57: Ты чего дома не ночевал? | verbatim |
-| 2 | Аня | Да ладно, чего ты обижаешься-то? | Come on, why are you holding a grudge? | #210 00:16:03: Да ладно, чего ты обижаешься-то? | verbatim |
-| 3 | Аня | Вчера ты нам с Викой просто помешал. | Yesterday you simply interrupted Vika and me. | #211 00:16:06: Вчера ты нам с Викой просто помешал | verbatim |
-| 4 | Аня | И мы из-за этого поссорились. | And we had a fight because of that. | #211 00:16:06: и мы из-за этого поссорились. | verbatim |
-| 5 | Аня | У нас не получается забеременеть. | We haven't been able to get pregnant. | #212 00:16:10: у нас не получается забеременеть. | verbatim |
-| 6 | Аня | В общем, всё сложно. | In short, everything is complicated. | #213 00:16:18: В общем, все сложно. | verbatim |
-| 7 | Денис | Ты меня тоже прости. | Forgive me too. | #214 00:16:23: Ты меня тоже прости. | verbatim |
-| 8 | Денис | Из-за меня у тебя одни неприятности. | Because of me you have nothing but trouble. | #215 00:16:25: Из-за меня у тебя одни неприятности. | verbatim |
-| 9 | Аня | Да ладно, справимся. Ну, что у тебя? | Come on, we will manage. So, how are things with you? | #216 00:16:32: Да ладно,<br>#216 00:16:32: справимся.<br>#217 00:16:34: Ну, что у тебя? | verbatim |
-| 10 | Денис | Мне нужно до вечера почистить восемнадцать мешков картошки. | I need to peel eighteen sacks of potatoes before evening. | #218 00:16:36: мне нужно до вечера почистить<br>#218 00:16:36: мешков картошки. | verbatim |
-| 11 | Денис | Но три я уже почистил. | But I have already peeled three. | #219 00:16:39: Но три я уже почистил. | verbatim |
-| 12 | Аня | Сейчас поможем. | We will help you right now. | #216 00:16:32: справимся. | verbatim |
+| 1 | Макс | Ты чего дома не ночевал? | Why didn't you sleep at home last night? | #209: Ты чего дома не ночевал? | verbatim |
+| 2 | Макс | Да ладно, чего ты обижаешься-то? | Come on, why are you holding a grudge? | #210: Да ладно, чего ты обижаешься-то? | verbatim |
+| 3 | Макс | Вчера ты нам с Викой просто помешал. | Yesterday you simply interrupted Vika and me. | #211: Вчера ты нам с Викой просто помешал | verbatim |
+| 4 | Макс | И мы из-за этого поссорились. | And we had a fight because of that. | #211: и мы из-за этого поссорились. | verbatim |
+| 5 | Макс | У нас не получается забеременеть. | We haven't been able to get pregnant. | #212: у нас не получается забеременеть. | verbatim |
+| 6 | Макс | В общем, всё сложно. | In short, everything is complicated. | #213: В общем, все сложно. | verbatim |
+| 7 | Денис | Ты меня тоже прости. | Forgive me too. | #214: Ты меня тоже прости. | verbatim |
+| 8 | Денис | Из-за меня у тебя одни неприятности. | Because of me you have nothing but trouble. | #215: Из-за меня у тебя одни неприятности. | verbatim |
+| 9 | Макс | Да ладно, справимся. Ну, что у тебя? | Come on, we will manage. So, how are things with you? | #216: Да ладно,<br>#216: справимся.<br>#217: Ну, что у тебя? | verbatim |
+| 10 | Денис | Мне нужно до вечера почистить восемнадцать мешков картошки. | I need to peel eighteen sacks of potatoes before evening. | #218: мне нужно до вечера почистить<br>#218: мешков картошки. | verbatim |
+| 11 | Денис | Но три я уже почистил. | But I have already peeled three. | #219: Но три я уже почистил. | verbatim |
+| 12 | Макс | Сейчас поможем. | We will help you right now. | #216: справимся. | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Why didn't you sleep at home last night?' In spoken Russian, the words stay in their normal statement order and Max's rising voice at the end turns the line into a question.
-- 'Come on, why are you holding a grudge?' Max addresses the listener with the informal singular pronoun, showing a close or familiar relationship.
-- 'Yesterday you simply interrupted Vika and me.' The past-tense verb ending marks the grammatical gender and number of the subject directly.
-- 'And we had a fight because of that.' Spoken Russian keeps this brief and expressive, built right around 'had a fight' without extra helper words.
-- 'We haven't been able to get pregnant.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.
-- 'In short, everything is complicated.' In everyday Russian, 'shared, common' flows straight into 'difficultly, hard, complicated' without extra linking words.
-- 'Forgive me too.' Denis addresses the listener with the informal singular pronoun, showing a close or familiar relationship.
-- 'Because of me you have nothing but trouble.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.
-- 'Come on, we will manage. So, how are things with you?' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.
-- 'I need to peel eighteen sacks of potatoes before evening.' Russian expresses feelings and needs by saying 'to me it is needed' or 'to me it seems', putting the person in the 'to me' form.
-- 'But I have already peeled three.' Denis pairs 'already' with 'to three' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
-- 'We will help you right now.' Notice how Russian puts 'right now' and 'will help' together in a short, direct phrase where word endings show how the ideas connect.
+- 'Why didn't you sleep at home last night?' By wondering why not Denis sleeps at home last night, Max presses Denis for a straight answer. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Come on, why are you holding a grudge?' Max asks whether come on why are Denis holding a grudge, refusing to let the point slide. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Yesterday you simply interrupted Vika and me.' Over the conversation and the team, Max answers Denis without a second thought.
+- 'And we had a fight because of that.' Claiming that they had a fight sounds confident, even if Denis has doubts.
+- 'We haven't been able to get pregnant.' Noting that they have not been able to get pregnant keeps Max's side of the story simple and clear. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
+- 'In short, everything is complicated.' Even though in short everything is complicated, Max keeps a steady face in front of Denis.
+- 'Forgive me too.' Once Max should forgive him, Denis can finally tell Max what he means. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Because of me you have nothing but trouble.' Saying that because of him Max has nothing but trouble is how Denis sets the tone with Max. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
+- 'Come on, we will manage. So, how are things with you?' Wondering if come on they will manage shows Max caught off guard.
+- 'I need to peel eighteen sacks of potatoes before evening.' Here needing to peel eighteen sacks of potatoes before evening sets up the next turn in their exchange. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
+- 'But I have already peeled three.' Since he has already peeled three, Denis does not waste words on excuses.
+- 'We will help you right now.' Since they will help Denis right now, Max does not waste words on excuses.

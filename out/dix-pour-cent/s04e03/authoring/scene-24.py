@@ -7,29 +7,28 @@ SCENE = 24
 TITLE = 'Renvoyée de la crèche  (Expelled from the Creche)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'lea': 'lucie', 'gabriel': 'theo'}
-LABELS = {'lea': 'Andréa', 'gabriel': 'Gabriel'}
+LABELS = {'andrea': 'Andréa', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e03.fr.dual.srt'
 INTRO = "After allowing actor Jose Garcia to supervise children at the daycare, Andrea is kicked out by the furious director and arrives at ASK with baby Flora in her arms. Let's listen to the scene in French first."
 OPENER = "Let's examine how Andrea deals with her daycare dilemma step by step."
 TRANSITION = "Now let's listen to the entire dialogue once more."
 OUTRO = "Cast out of the local daycare following the babysitting incident with Jose Garcia, Andrea brings baby Flora to ASK and explains her parenting predicament to Gabriel. When you watch the episode, listen out for the expressions meaning 'find' and 'solution'. You'll catch them now. See you next time!"
-CLOSING = ('lea', 'Au revoir!')
+CLOSING = ('andrea', 'Au revoir!')
 STORY = [
-    ('lea', 'On peut trouver une bonne solution!', 'We can find a good solution!', [(1028, 'On peut trouver une solution')], ''),
-    ('lea', "José Garcia n'est pas un inconnu.", 'Jose Garcia is not a stranger.', [(1033, "José Garcia n'est pas vraiment un inconnu")], ''),
-    ('lea', "Capucine s'occupe très bien des enfants.", 'Capucine takes very good care of the children.', [(1034, "Capucine s'en est très bien sortie avec les enfants")], ''),
-    ('lea', "La directrice refuse de m'écouter aujourd'hui.", 'The director refuses to listen to me today.', [(1032, 'Je ne le tolérerai pas')], ''),
-    ('lea', 'Elle nous a chassées de là!', 'She kicked us out of there!', [(1032, 'Je ne le tolérerai pas')], ''),
+    ('andrea', 'On peut trouver une bonne solution!', 'We can find a good solution!', [(1028, 'On peut trouver une solution')], ''),
+    ('andrea', "José Garcia n'est pas un inconnu.", 'Jose Garcia is not a stranger.', [(1033, "José Garcia n'est pas vraiment un inconnu")], ''),
+    ('andrea', "Capucine s'occupe très bien des enfants.", 'Capucine takes very good care of the children.', [(1034, "Capucine s'en est très bien sortie avec les enfants")], ''),
+    ('andrea', "La directrice refuse de m'écouter aujourd'hui.", 'The director refuses to listen to me today.', [(1032, 'Je ne le tolérerai pas')], ''),
+    ('andrea', 'Elle nous a chassées de là!', 'She kicked us out of there!', [(1032, 'Je ne le tolérerai pas')], ''),
     ('gabriel', 'Bonjour Andréa, que fais-tu avec Flora?', 'Hello Andrea, what are you doing with Flora?', [(1041, 'Bonjour, Andréa')], ''),
     ('gabriel', 'Tu inscris le bébé aux castings?', 'Are you signing the baby up for auditions?', [(1042, 'Tu inscris le gamin à des castings')], ''),
-    ('lea', 'Non, la directrice est trop méchante.', 'No, the director is too mean.', [(1038, 'Madame Sale-garce')], ''),
-    ('lea', 'On nous a mises à la porte!', 'They threw us out the door!', [(1043, 'On nous a mis à la porte de la crèche')], ''),
+    ('andrea', 'Non, la directrice est trop méchante.', 'No, the director is too mean.', [(1038, 'Madame Sale-garce')], ''),
+    ('andrea', 'On nous a mises à la porte!', 'They threw us out the door!', [(1043, 'On nous a mis à la porte de la crèche')], ''),
     ('gabriel', 'À la porte de la crèche?', 'Out the door of the daycare?', [(1043, 'On nous a mis à la porte de la crèche')], ''),
-    ('lea', "Oui, je n'ai plus de garde.", 'Yes, I no longer have childcare.', [(1043, 'On nous a mis à la porte de la crèche')], ''),
+    ('andrea', "Oui, je n'ai plus de garde.", 'Yes, I no longer have childcare.', [(1043, 'On nous a mis à la porte de la crèche')], ''),
     ('gabriel', "C'est une catastrophe pour ton travail.", 'That is a disaster for your work.', [(1043, 'On nous a mis à la porte de la crèche')], ''),
-    ('lea', "Je dois garder Flora à l'agence.", 'I must keep Flora at the agency.', [(1043, 'On nous a mis à la porte de la crèche')], ''),
+    ('andrea', "Je dois garder Flora à l'agence.", 'I must keep Flora at the agency.', [(1043, 'On nous a mis à la porte de la crèche')], ''),
     ('gabriel', "Nous allons t'aider avec le bébé.", 'We are going to help you with the baby.', [(1043, 'On nous a mis à la porte de la crèche')], ''),
 ]
 WALK = [

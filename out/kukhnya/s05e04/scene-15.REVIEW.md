@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Шеф | Обслуживание номеров. | Room service. | #227 00:17:18: Обслуживание номеров | adapted: adapted |
-| 2 | Элеонора | Ходите. В ванную идите, | Come in. Bring it into the bathroom, | #228 00:17:19: Ходите. В ванную | adapted: adapted |
-| 3 | Элеонора | я здесь в ванной. | I am right here in the bathroom. | #229 00:17:25: я здесь | adapted: adapted |
-| 4 | Элеонора | Привет, проходи сюда. | Hello, come right in. | #230 00:17:32: Привет | adapted: adapted |
-| 5 | Элеонора | Привет. А ты как тут? | Hello. How did you get in here? | #231 00:17:34: Привет. А ты | adapted: adapted |
-| 6 | Шеф | Вот решил устроить романтический ужин своему повару. | A head chef decided to arrange a romantic dinner. | #232 00:17:37: Вот решил устроить | adapted: adapted |
-| 7 | Шеф | Тебе ножку? | Would you like a leg? | #233 00:17:40: Тебе ножку | adapted: adapted |
-| 8 | Шеф | Или крылышко? | Or a wing? | #234 00:17:46: Крылышко | adapted: adapted |
-| 9 | Шеф | Или, может, грудку? | Or perhaps a breast? | #235 00:17:56: Или, может, грудку | adapted: adapted |
-| 10 | Шеф | Все очень вкусно. | Everything is very tasty. | #235 00:17:56: Или, может, грудку | adapted: adapted |
-| 11 | Элеонора | Нет, не надо. | No, do not. | #236 00:17:59: Нет | adapted: adapted |
-| 12 | Элеонора | Убери это, пожалуйста. | Take that away, please. | #236 00:17:59: Нет | adapted: adapted |
+| 1 | Денис | Обслуживание номеров. | Room service. | #227: Обслуживание номеров | adapted: adapted |
+| 2 | Элеонора | Ходите. В ванную идите, | Come in. Bring it into the bathroom, | #228: Ходите. В ванную | adapted: adapted |
+| 3 | Элеонора | я здесь в ванной. | I am right here in the bathroom. | #229: я здесь | adapted: adapted |
+| 4 | Элеонора | Привет, проходи сюда. | Hello, come right in. | #230: Привет | adapted: adapted |
+| 5 | Элеонора | Привет. А ты как тут? | Hello. How did you get in here? | #231: Привет. А ты | adapted: adapted |
+| 6 | Шеф | Вот решил устроить романтический ужин своему повару. | A head chef decided to arrange a romantic dinner. | #232: Вот решил устроить | adapted: adapted |
+| 7 | Шеф | Тебе ножку? | Would you like a leg? | #233: Тебе ножку | adapted: adapted |
+| 8 | Шеф | Или крылышко? | Or a wing? | #234: Крылышко | adapted: adapted |
+| 9 | Шеф | Или, может, грудку? | Or perhaps a breast? | #235: Или, может, грудку | adapted: adapted |
+| 10 | Шеф | Все очень вкусно. | Everything is very tasty. | #235: Или, может, грудку | adapted: adapted |
+| 11 | Элеонора | Нет, не надо. | No, do not. | #236: Нет | adapted: adapted |
+| 12 | Элеонора | Убери это, пожалуйста. | Take that away, please. | #236: Нет | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Room service.' Here the Russian phrasing highlights 'service' before landing on 'of rooms'. Eleonora answers right away.
-- 'Come in. Bring it into the bathroom,' Eleonora brings out the contrast between 'come in' and 'into the bathroom' in a few short words.
-- 'I am right here in the bathroom.' Eleonora anchors the line on 'I', while 'bathtub' completes the thought.
-- 'Hello, come right in.' The grammar packs 'hello' and 'here' into a tight, idiomatic kitchen exchange.
-- 'Hello. How did you get in here?' The meaning hinges on 'hello' working together with 'here' in spoken Russian.
-- 'A head chef decided to arrange a romantic dinner.' In Russian, the idea of 'here' flows naturally into 'cook' without extra filler words.
-- 'Would you like a leg?' The meaning hinges on 'to you' working together with 'little leg' in spoken Russian.
-- 'Or a wing?' Chef Barinov anchors the line on 'or', while 'little wing' completes the thought.
-- 'Or perhaps a breast?' The grammar packs 'or' and 'breast' into a tight, idiomatic kitchen exchange.
-- 'Everything is very tasty.' Chef Barinov brings out the contrast between 'all' and 'very' in a few short words. Eleonora answers right away.
-- 'No, do not.' Eleonora anchors the line on 'no', while 'need' completes the thought.
-- 'Take that away, please.' The grammar packs 'to remove' and 'please' into a tight, idiomatic kitchen exchange.
+- 'Room service.' Over the moment and the truth, Denis answers Barinov without a second thought.
+- 'Come in. Bring it into the bathroom,' Bringing it into the bathroom moves the conversation forward without extra drama.
+- 'I am right here in the bathroom.' Explaining that she is right here in the bathroom lays the cards on the table for Barinov.
+- 'Hello, come right in.' Coming right is how Eleonora lays out the situation for Barinov.
+- 'Hello. How did you get in here?' Here wondering how Barinov gets in here shows Eleonora looking for the real truth.
+- 'A head chef decided to arrange a romantic dinner.' Barinov tells Denis that a head decided to arrange a romantic dinner without dressing it up.
+- 'Would you like a leg?' Checking whether Denis likes a leg cuts straight through the tension between Barinov and Denis. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Or a wing?' With the plan and conversation hanging in the air, Barinov puts Denis on the spot.
+- 'Or perhaps a breast?' Over the plan and the point, Barinov presses Denis for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Everything is very tasty.' Because everything is very tasty, Barinov treats the matter as settled.
+- 'No, do not.' Over the work and the shift, Eleonora answers Barinov without a second thought.
+- 'Take that away, please.' Explaining that Barinov should take that away please lays the cards on the table for Barinov. Russian drops "is" in the present, setting the two halves of the thought side by side.

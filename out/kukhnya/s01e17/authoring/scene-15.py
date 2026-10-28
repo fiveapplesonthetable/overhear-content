@@ -4,33 +4,32 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 17
 SCENE = 15
-TITLE = "Билет в клуб  (A Ticket to the Club)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Билет в клуб  (A Ticket to the Club)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "chef": "anja", "vika": "angelina", "anya": "alisa"}
-LABELS = {"chef": "Шеф", "vika": "Вика", "anya": "Макс"}
+LABELS = {'barinov': 'Шеф', 'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.17'
 SOURCE_FILE = 'sources/kukhnya/s01/e17.ru.dual.srt'
 INTRO = "At the rival restaurant, Chef Viktor Barinov scoffs at a chaotic menu combining cuisines from around the world. Meanwhile back at Claude Monet, Vika shares her dinner plans with Max before spotting his concert ticket. Let's listen to their conversation in Russian first."
 OPENER = "Now let's examine this conversation line by line."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Caught between his friends' club outing and Vika's romantic birthday dinner, Max promises Vika that Kostya and Nastya will understand if he stays with her. Next time you watch the episode, listen for the Russian expressions for 'menu' and 'big' — you will catch every word right away. See you next time!"
-CLOSING = ("anya", "Пока!")
+CLOSING = ('max', 'Пока!')
 STORY = [
-    ('chef', 'Меню уже у нас, большое спасибо.', 'We already have the menu, thank you very much.', [(241, 'Меню есть, спасибо')], ''),
-    ('chef', 'Ну и что тут у нас?', 'So what do we have here?', [(244, 'Ну что тут у нас')], ''),
-    ('chef', 'Тут русская, французская и японская кухня.', 'Here is Russian, French, and Japanese cuisine.', [(245, 'Русская кухня, французская')], ''),
-    ('chef', 'Они называют это всей кухней мира.', 'They call this cuisine from all over the world.', [(247, 'Вся кухня мира')], ''),
-    ('chef', 'Тут есть пицца, суши и борщ.', 'They have pizza, sushi, and borscht here.', [(251, 'Пицца, суши')], ''),
+    ('barinov', 'Меню уже у нас, большое спасибо.', 'We already have the menu, thank you very much.', [(241, 'Меню есть, спасибо')], ''),
+    ('barinov', 'Ну и что тут у нас?', 'So what do we have here?', [(244, 'Ну что тут у нас')], ''),
+    ('barinov', 'Тут русская, французская и японская кухня.', 'Here is Russian, French, and Japanese cuisine.', [(245, 'Русская кухня, французская')], ''),
+    ('barinov', 'Они называют это всей кухней мира.', 'They call this cuisine from all over the world.', [(247, 'Вся кухня мира')], ''),
+    ('barinov', 'Тут есть пицца, суши и борщ.', 'They have pizza, sushi, and borscht here.', [(251, 'Пицца, суши')], ''),
     ('vika', 'Макс, как идут дела на кухне?', 'Max, how are things going in the kitchen?', [(254, 'Как дела')], ''),
-    ('anya', 'Всё хорошо, мы спокойно работаем.', 'Everything is fine, we are working calmly.', [(255, 'Вот, работаем')], ''),
+    ('max', 'Всё хорошо, мы спокойно работаем.', 'Everything is fine, we are working calmly.', [(255, 'Вот, работаем')], ''),
     ('vika', 'Я придумала блюдо на праздничный ужин.', 'I thought of a dish for the holiday dinner.', [(256, 'приготовить на праздничный ужин')], ''),
-    ('anya', 'Это просто здорово, большое спасибо тебе.', 'That is simply great, thank you very much.', [(257, 'Здорово')], ''),
+    ('max', 'Это просто здорово, большое спасибо тебе.', 'That is simply great, thank you very much.', [(257, 'Здорово')], ''),
     ('vika', 'Подожди, а это что за билет?', 'Wait, what kind of ticket is this?', [(258, 'А это что')], ''),
-    ('anya', 'Настя и Костя подарили билет в клуб.', 'Nastya and Kostya gave me a ticket to the club.', [(259, 'подарили билет на сегодня в клуб')], ''),
+    ('max', 'Настя и Костя подарили билет в клуб.', 'Nastya and Kostya gave me a ticket to the club.', [(259, 'подарили билет на сегодня в клуб')], ''),
     ('vika', 'Значит, там только один билет?', 'So there is only one ticket there?', [(260, 'Один')], ''),
     ('vika', 'Мне готовить сегодня ужин или нет?', 'Should I cook dinner tonight or not?', [(262, 'мне готовить ужин или нет')], ''),
-    ('anya', 'Вика, мои друзья меня точно поймут.', 'Vika, my friends will definitely understand me.', [(264, 'они меня поймут')], ''),
+    ('max', 'Вика, мои друзья меня точно поймут.', 'Vika, my friends will definitely understand me.', [(264, 'они меня поймут')], ''),
 ]
 WALK = [
     (0, None, "'We already have the menu, thank you very much.' Chef Barinov uses the classic Russian possession phrasing — literally 'at us' rather than a verb meaning 'to have', pairing it with 'menu' and 'already'."),

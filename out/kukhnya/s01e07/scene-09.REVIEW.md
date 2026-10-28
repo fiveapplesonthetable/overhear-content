@@ -1,41 +1,32 @@
-# Дегустация соуса  (Tasting the Sauce) — `kukhnya-s01e07-scene-09`
+# kukhnya-s01e07-scene-09: review sheet
 
-**Source:** Кухня (Kukhnya) S1.07 · `sources/kukhnya/s01/e07.ru.dual.srt`  
-**Target level:** A1 — Duolingo Section 2
+Title: Дегустация соуса  (Tasting the Sauce)
+Level: A1 — Duolingo Section 2
+Pair: ru-en
+Source: Кухня (Kukhnya) S1.07
 
-## Cast
 
-| Role | Voice | Label |
-|---|---|---|
-| `narrator` | sky | — |
-| `chef` | anja | Шеф |
-| `anya` | alisa | Макс |
-| `lyova` | angelina | Лёва |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 1 — Intro
-
-> In the kitchen of Claude Monet, Chef Viktor Barinov puts the finishing touches on a brand new signature sauce. Calling his line cooks over to the stove, he demands their honest feedback and basks in their immediate admiration. Let's listen to their enthusiastic exchange in Russian first.
-
-## Part 2 — Story
-
-| # | Speaker | Line | English | Source cue(s) | Change |
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 0 | Шеф | Повара, быстро подойдите все сюда! | Cooks, quickly come over here, everyone! | #169 "подошли все сюда" |  |
-| 1 | Макс | Что вы приготовили, шеф? | What did you cook, chef? | *(added)* |  |
-| 2 | Шеф | Все пробуем новый соус. Быстро! | Everyone taste the new sauce. Quickly! | #172 "Все пробуем соус. Быстро" |  |
-| 3 | Шеф | Лёва, ты пробуешь самым первым. | Lyova, you taste very first. | #173 "Лёва" |  |
-| 4 | Лёва | Шеф, это невероятно вкусно! | Chef, this is incredibly delicious! | #175 "Очень вкусно" |  |
-| 5 | Шеф | А теперь твоя очередь, Огузок. | And now it is your turn, Oguzok. | #179 "Гузак" |  |
-| 6 | Шеф | Ты такого в Воронеже не пробовал? | You haven't tasted anything like this in Voronezh? | #179 "ты такого даже не пробовал в своих воронежских столовках" |  |
-| 7 | Макс | Потрясающий соус, шеф, просто восторг! | Amazing sauce, chef, pure delight! | #181 "Потрясающий соус, шеф" |  |
-| 8 | Макс | Я никогда не пробовал ничего лучше. | I have never tasted anything better. | #182 "Я такого никогда не пробовал" |  |
-| 9 | Шеф | Учись, пока я добрый сегодня! | Learn while I am kind today! | #184 "Учись" |  |
-| 10 | Макс | Я искренне завидую нашему гостю. | I genuinely envy our guest. | #183 "Я искренне завидую тому человеку" |  |
-| 11 | Шеф | Хватит болтать, оформите красивую подачу. | Stop chatting, prepare a beautiful plating. | #186 "Пошел на оформление" |  |
-| 12 | Лёва | Всё сделаем идеально, шеф! | We will make everything ideally, chef! | *(added)* |  |
+| 1 | Шеф | Повара, быстро подойдите все сюда! | Cooks, quickly come over here, everyone! | #169: подошли все сюда | verbatim |
+| 2 | Макс | Что вы приготовили, шеф? | What did you cook, chef? | new | new |
+| 3 | Шеф | Все пробуем новый соус. Быстро! | Everyone taste the new sauce. Quickly! | #172: Все пробуем соус. Быстро | verbatim |
+| 4 | Шеф | Лёва, ты пробуешь самым первым. | Lyova, you taste very first. | #173: Лёва | verbatim |
+| 5 | Лёва | Шеф, это невероятно вкусно! | Chef, this is incredibly delicious! | #175: Очень вкусно | verbatim |
+| 6 | Шеф | А теперь твоя очередь, Огузок. | And now it is your turn, Oguzok. | #179: Гузак | verbatim |
+| 7 | Шеф | Ты такого в Воронеже не пробовал? | You haven't tasted anything like this in Voronezh? | #179: ты такого даже не пробовал в своих воронежских столовках | verbatim |
+| 8 | Макс | Потрясающий соус, шеф, просто восторг! | Amazing sauce, chef, pure delight! | #181: Потрясающий соус, шеф | verbatim |
+| 9 | Макс | Я никогда не пробовал ничего лучше. | I have never tasted anything better. | #182: Я такого никогда не пробовал | verbatim |
+| 10 | Шеф | Учись, пока я добрый сегодня! | Learn while I am kind today! | #184: Учись | verbatim |
+| 11 | Макс | Я искренне завидую нашему гостю. | I genuinely envy our guest. | #183: Я искренне завидую тому человеку | verbatim |
+| 12 | Шеф | Хватит болтать, оформите красивую подачу. | Stop chatting, prepare a beautiful plating. | #186: Пошел на оформление | verbatim |
+| 13 | Лёва | Всё сделаем идеально, шеф! | We will make everything ideally, chef! | new | new |
 
-## Part 5 — Outro & closing
+## Walk-through narration (English only, no target-language words quoted)
 
-> Now you understand how Russian chefs present new dishes to their brigade. Listen for these culinary compliments next time you watch the episode. Next time you watch the episode, listen for the Russian expressions for 'to chatter' and 'fast' — you will catch every word right away. See you next time!
-
-**Макс:** Пока!
+- 'Cooks, quickly come over here, everyone!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'Everyone taste the new sauce. Quickly!' The inclusive present tense verb invites collective action, emphasized by an energetic adverb.
+- 'Amazing sauce, chef, pure delight!' The enthusiastic compliment uses an expressive adjective and an emotional noun phrase.
+- 'I have never tasted anything better.' The negative construction employs a double negative with a comparative adverb for superlative praise. Okay, let's hear the sauce tasting dialogue once more. Now let's listen to the whole conversation again from start to finish.

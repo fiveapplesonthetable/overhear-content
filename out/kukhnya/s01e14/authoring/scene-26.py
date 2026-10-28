@@ -4,31 +4,30 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 14
 SCENE = 26
-TITLE = "Выводы  (Conclusions)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Выводы  (Conclusions)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "anya": "alisa", "chef": "anja"}
-LABELS = {"anya": "Макс", "chef": "Шеф"}
+LABELS = {'barinov': 'Шеф', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.14'
 SOURCE_FILE = 'sources/kukhnya/s01/e14.ru.dual.srt'
 INTRO = "The evening ends. Max shares a final thought about responsibility. We'll hear it in Russian first; don't worry about catching every word. Let's listen closely to their conversation in Russian first, and then walk through each line together."
 OPENER = "Let's go through it line by line. Max narrates the closing montage."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "And so another chaotic day at Claude Monet comes to an end. Next time you watch the episode, listen for the Russian expressions for 'responsibility' and 'strange' — you will catch every word right away. See you next time!"
-CLOSING = ("chef", "Пока!")
+CLOSING = ('barinov', 'Пока!')
 STORY = [
-    ('anya', 'Ответственность — странная штука.', 'Responsibility is a strange thing.', [], ''),
-    ('anya', 'С одной стороны, мы её боимся.', 'On the one hand, we are afraid of it.', [], ''),
-    ('anya', 'А с другой стороны...', 'And on the other hand...', [], ''),
-    ('anya', 'Именно благодаря ей завоёвываем уважение.', 'It is what earns us respect.', [], ''),
-    ('anya', 'И становимся ближе друг к другу.', 'And brings us closer together.', [], ''),
-    ('anya', 'Совершая безответственные поступки...', 'When we act irresponsibly...', [(371, 'А совершая безответственные поступки')], ''),
-    ('anya', 'Мы делаем правильные выводы.', 'We draw the right conclusions.', [(371, 'делаем правильные выводы')], ''),
-    ('chef', 'Всё, на работе больше не пью.', "That's it, I won't drink at work anymore.", [(372, 'Все, на работе больше не пью')], ''),
-    ('chef', 'Я решил.', "I've decided.", [], ''),
-    ('chef', 'Точно не пью.', "I definitely won't drink.", [], ''),
-    ('chef', 'Но это надо отметить.', 'But we should celebrate that.', [(374, 'Это надо отметить')], ''),
-    ('chef', 'Наливай!', 'Pour!', [], ''),
+    ('max', 'Ответственность — странная штука.', 'Responsibility is a strange thing.', [], ''),
+    ('max', 'С одной стороны, мы её боимся.', 'On the one hand, we are afraid of it.', [], ''),
+    ('max', 'А с другой стороны...', 'And on the other hand...', [], ''),
+    ('max', 'Именно благодаря ей завоёвываем уважение.', 'It is what earns us respect.', [], ''),
+    ('max', 'И становимся ближе друг к другу.', 'And brings us closer together.', [], ''),
+    ('max', 'Совершая безответственные поступки...', 'When we act irresponsibly...', [(371, 'А совершая безответственные поступки')], ''),
+    ('max', 'Мы делаем правильные выводы.', 'We draw the right conclusions.', [(371, 'делаем правильные выводы')], ''),
+    ('barinov', 'Всё, на работе больше не пью.', "That's it, I won't drink at work anymore.", [(372, 'Все, на работе больше не пью')], ''),
+    ('barinov', 'Я решил.', "I've decided.", [], ''),
+    ('barinov', 'Точно не пью.', "I definitely won't drink.", [], ''),
+    ('barinov', 'Но это надо отметить.', 'But we should celebrate that.', [(374, 'Это надо отметить')], ''),
+    ('barinov', 'Наливай!', 'Pour!', [], ''),
 ]
 WALK = [
     (0, None, "'Responsibility is a strange thing.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'responsibility' straight to 'thing'."),

@@ -1,33 +1,47 @@
-# Review: `dix-pour-cent-s02e05-scene-09` — La nouvelle junior  (The New Junior)
+# dix-pour-cent-s02e05-scene-09: review sheet
 
-- **Source**: `sources/dix-pour-cent/s02/e05.fr.dual.srt`
-- **Level**: A1 — débutant
-- **Voices**: `{"narrator": "sky", "hicham": "marcel", "lea": "lucie", "camille": "emilie"}`
-- **Labels**: `{"hicham": "Hicham", "lea": "Andréa", "camille": "Camille"}`
+Title: La nouvelle junior  (The New Junior)
+Level: A1 — débutant
+Pair: fr-en
+Source: Dix pour cent (Call My Agent!) S02E05
 
-## Part 1 — Intro
-> In the ASK conference room, Hicham interrupts the partners meeting to deliver a major announcement. Without consulting the other agents, he reveals his choice for the new junior agent position. Let's listen to the scene in French first.
 
-## Part 2 — Story Lines
-| # | Role | French | English | Source Cues |
-|---|------|--------|---------|-------------|
-| 0 | `hicham` (Hicham) | Et maintenant, que diriez-vous d'accueillir officiellement notre nouveau junior? | And now, what would you say to officially welcoming our new junior? | 259:que diriez-vous d'accueillir officiellement notre nouveau junior ? |
-| 1 | `lea` (Andréa) | Vous auriez dû nous consulter avant. | You should have consulted us beforehand. | 260:Vous auriez dû nous consulter. |
-| 2 | `hicham` (Hicham) | Je me suis consulté moi-même. Et j'ai décidé. | I consulted myself. And I decided. | 261:Je me suis consulté moi-même., 262:Et j'ai décidé. |
-| 3 | `hicham` (Hicham) | Notre nouveau junior est une femme. | Our new junior is a woman. | 263:Notre nouveau junior est une femme. |
-| 4 | `hicham` (Hicham) | Et elle s'appelle Camille Valentini. | And her name is Camille Valentini. | 264:Et elle s'appelle Camille..., 265:Valentini. |
-| 5 | `lea` (Andréa) | Quoi? Camille? | What? Camille? | 265:Quoi ? |
-| 6 | `hicham` (Hicham) | Il y avait des candidats qui savaient très bien se vendre. | There were candidates who knew very well how to sell themselves. | 266:Il y avait des candidats qui savaient très bien se vendre. |
-| 7 | `hicham` (Hicham) | Elle, elle n'a pas parlé, elle a agi. | She did not talk, she acted. | 267:Elle, elle n'a pas parlé, elle a agi. |
-| 8 | `lea` (Andréa) | Camille, vous étiez candidate? | Camille, were you a candidate? | 268:Vous étiez candidate ? |
-| 9 | `camille` (Camille) | Non, pas du tout. | No, not at all. | 268:Non, pas du tout. |
-| 10 | `hicham` (Hicham) | Non, elle ne l'était pas, mais elle est venue seule à Paris. | No, she was not, but she came to Paris alone. | 269:Non, elle ne l'était pas, mais elle est venue seule à Paris, |
-| 11 | `hicham` (Hicham) | Elle s'y est fait une place sans révéler qui était son père. | She made a place for herself there without revealing who her father was. | 270:elle s'y est fait une place,, 271:sans révéler qui était son père... |
-| 12 | `hicham` (Hicham) | Serrer les dents, ne se confier à personne. | Gritting your teeth, confiding in no one. | 272:Serrer les dents, ne se confier à personne, |
-| 13 | `hicham` (Hicham) | Ce sont les qualités qu'il faut dans ce métier. | Those are the qualities you need in this business. | 274:Ce sont les qualités qu'il faut dans ce métier. |
-| 14 | `hicham` (Hicham) | Alors bienvenue, Camille, notre nouvelle agente. | So welcome, Camille, our new agent. | 275:Alors bienvenue, Camille, notre nouvelle agente. |
-| 15 | `camille` (Camille) | Merci, je ferai de mon mieux. | Thank you, I will do my best. | 276:Je vois. |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 5 — Outro & Closing
-> Hicham stuns the agency partners by appointing Camille as the new junior agent. Despite Andréa's surprise, Hicham praises Camille's tenacity, discretion, and quiet courage. See you next time!
-- **Closing**: `hicham`: *Au revoir!*
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+|---|---|---|---|---|---|
+| 1 | Hicham | Et maintenant, que diriez-vous d'accueillir officiellement notre nouveau junior? | And now, what would you say to officially welcoming our new junior? | #259: que diriez-vous d'accueillir officiellement notre nouveau junior ? | verbatim |
+| 2 | Andréa | Vous auriez dû nous consulter avant. | You should have consulted us beforehand. | #260: Vous auriez dû nous consulter. | verbatim |
+| 3 | Hicham | Je me suis consulté moi-même. Et j'ai décidé. | I consulted myself. And I decided. | #261: Je me suis consulté moi-même.<br>#262: Et j'ai décidé. | verbatim |
+| 4 | Hicham | Notre nouveau junior est une femme. | Our new junior is a woman. | #263: Notre nouveau junior est une femme. | verbatim |
+| 5 | Hicham | Et elle s'appelle Camille Valentini. | And her name is Camille Valentini. | #264: Et elle s'appelle Camille...<br>#265: Valentini. | verbatim |
+| 6 | Andréa | Quoi? Camille? | What? Camille? | #265: Quoi ? | verbatim |
+| 7 | Hicham | Il y avait des candidats qui savaient très bien se vendre. | There were candidates who knew very well how to sell themselves. | #266: Il y avait des candidats qui savaient très bien se vendre. | verbatim |
+| 8 | Hicham | Elle, elle n'a pas parlé, elle a agi. | She did not talk, she acted. | #267: Elle, elle n'a pas parlé, elle a agi. | verbatim |
+| 9 | Andréa | Camille, vous étiez candidate? | Camille, were you a candidate? | #268: Vous étiez candidate ? | verbatim |
+| 10 | Camille | Non, pas du tout. | No, not at all. | #268: Non, pas du tout. | verbatim |
+| 11 | Hicham | Non, elle ne l'était pas, mais elle est venue seule à Paris. | No, she was not, but she came to Paris alone. | #269: Non, elle ne l'était pas, mais elle est venue seule à Paris, | verbatim |
+| 12 | Hicham | Elle s'y est fait une place sans révéler qui était son père. | She made a place for herself there without revealing who her father was. | #270: elle s'y est fait une place,<br>#271: sans révéler qui était son père... | verbatim |
+| 13 | Hicham | Serrer les dents, ne se confier à personne. | Gritting your teeth, confiding in no one. | #272: Serrer les dents, ne se confier à personne, | verbatim |
+| 14 | Hicham | Ce sont les qualités qu'il faut dans ce métier. | Those are the qualities you need in this business. | #274: Ce sont les qualités qu'il faut dans ce métier. | verbatim |
+| 15 | Hicham | Alors bienvenue, Camille, notre nouvelle agente. | So welcome, Camille, our new agent. | #275: Alors bienvenue, Camille, notre nouvelle agente. | verbatim |
+| 16 | Camille | Merci, je ferai de mon mieux. | Thank you, I will do my best. | #276: Je vois. | verbatim |
+
+## Walk-through narration (English only, no target-language words quoted)
+
+- 'And now, what would you say to officially welcoming our new junior?' Hicham opens the floor dramatically. The adjective meaning 'new' agrees in gender and number with masculine noun 'junior'.
+- 'You should have consulted us beforehand.' Andréa objects to the unilateral move. The past conditional 'you' expresses reproach for an omitted duty.
+- 'I consulted myself. And I decided.' Hicham asserts his autocratic authority boldly. The reflexive passe compose 'I' emphasizes his sole decision-making.
+- 'Our new junior is a woman.' Hicham begins unveiling his choice. Hicham pairs the verb meaning 'is' with the noun for 'woman'.
+- 'And her name is Camille Valentini.' Hicham drops the bombshell announcement. The key word here means 'is named', paired with 'is named' to make the point clear.
+- 'What? Camille?' Andréa gasps in shock. The question word 'what' conveys disbelief at the unexpected choice.
+- 'There were candidates who knew very well how to sell themselves.' Hicham explains his reasoning. Hicham opens with the word for 'were' and lands on 'to sell' at the close.
+- 'She did not talk, she acted.' Hicham praises Camille's quiet initiative. The adverb meaning 'not' sharpens the verb for 'has not' here.
+- 'Camille, were you a candidate?' Andréa questions Camille directly. Andréa opens with the word for 'were' and lands on 'a candidate' at the close.
+- 'No, not at all.' Camille answers honestly. The emphatic negative idiom 'not' denies any prior ambition.
+- 'No, she was not, but she came to Paris alone.' Hicham defends her independent spirit. The verb meaning 'was it' anchors the whole remark.
+- 'She made a place for herself there without revealing who her father was.' Hicham admires her discretion. Listen for the expression meaning 'is', which leads naturally into 'father'.
+- 'Gritting your teeth, confiding in no one.' Hicham lists the qualities of resilience. The idiomatic infinitive 'to grit' represents quiet perseverance under pressure.
+- 'Those are the qualities you need in this business.' Hicham summarizes the agency virtues. Hicham opens with the word for 'are' and lands on 'profession' at the close.
+- 'So welcome, Camille, our new agent.' Hicham concludes his promotion speech. The interjection 'welcome' greets the newly elevated colleague warmly.
+- 'Thank you, I will do my best.' Camille accepts the daunting challenge. The adverb meaning 'best' sharpens the verb for 'will do' here.

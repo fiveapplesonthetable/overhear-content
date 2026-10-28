@@ -11,8 +11,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Эдуард Владимирович | Мариночка, открой скорее дверь! | Marinochka, open the door quickly! | new | new: adapted cue |
-| 2 | Марина | Она сейчас сидит в туалете. | She is in the bathroom right now. | #991 01:00:55: Она в туалете. | adapted: exact cue |
-| 3 | Марина | Она сидит там с Аркашкой. | She is sitting there with Arkashka. | #992 01:00:59: С Аркашкой. | adapted: adapted cue |
+| 2 | Клавдия Викторовна | Она сейчас сидит в туалете. | She is in the bathroom right now. | #991: Она в туалете. | adapted: exact cue |
+| 3 | Клавдия Викторовна | Она сидит там с Аркашкой. | She is sitting there with Arkashka. | #992: С Аркашкой. | adapted: adapted cue |
 | 4 | Эдуард Владимирович | Ой, как это трогательно! | Oh, how touching that is! | new | new: adapted cue |
 | 5 | Марина | Эдик, ты опять пьяный пришёл? | Edik, did you come drunk again? | new | new: adapted cue |
 | 6 | Марина | Иди скорее к себе домой. | Go to your home right away. | new | new: adapted cue |
@@ -22,7 +22,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 10 | Эдуард Владимирович | А ты оказалась неблагодарной женщиной! | And you turned out to be an ungrateful woman! | new | new: polite adaptation of cue |
 | 11 | Марина | Я больше не буду работать на вас. | I will not work for you anymore. | new | new: Marina's declaration |
 | 12 | Эдуард Владимирович | Ты разбила моё верное сердце! | You broke my faithful heart! | new | new: Eduard's lament |
-| 13 | Марина | Хватит шуметь, иди проспись, командир. | Enough making noise, go sleep it off, commander. | new | new: Klavdiya's intervention |
+| 13 | Клавдия Викторовна | Хватит шуметь, иди проспись, командир. | Enough making noise, go sleep it off, commander. | new | new: Klavdiya's intervention |
 | 14 | Эдуард Владимирович | Я всё равно не забуду эту обиду. | I will not forget this insult anyway. | new | new: Eduard's parting grudge |
 
 ## Walk-through narration (English only, no target-language words quoted)

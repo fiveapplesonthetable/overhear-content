@@ -4,30 +4,29 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 15
 SCENE = 1
-TITLE = "Новая жизнь втроём  (A New Life for Three)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Новая жизнь втроём  (A New Life for Three)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "kostya": "anja", "anya": "alisa"}
-LABELS = {"kostya": "Костя", "anya": "Макс"}
+LABELS = {'kostya': 'Костя', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.15'
 SOURCE_FILE = 'sources/kukhnya/s01/e15.ru.dual.srt'
 INTRO = "Nastya moved in with Max and Kostya, but the guys still spend their time playing video games on the couch. Let's listen closely to their exchange in Russian first, and then walk through each line together."
 OPENER = "Now let's go back through the exchange around A New Life for Three line by line and unpack how the Russian works."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "The boys finish their gaming session as Nastya continues cooking dinner in the kitchen. Next time you watch the episode, listen for the Russian expressions for 'week' and 'ago' — you will catch every word right away. See you next time!"
-CLOSING = ("kostya", "Пока!")
+CLOSING = ('kostya', 'Пока!')
 STORY = [
-    ('anya', 'Неделю назад к нам переехала Настя.', 'Nastya moved in with us a week ago.', [(1, 'неделю назад к нам переехала')], ''),
+    ('max', 'Неделю назад к нам переехала Настя.', 'Nastya moved in with us a week ago.', [(1, 'неделю назад к нам переехала')], ''),
     ('kostya', 'Да, теперь мы живём здесь втроём.', 'Yes, now we live here as three.', [], ''),
-    ('anya', 'Наша жизнь от этого почти не изменилась.', 'Our life barely changed from that.', [(2, 'наша жизнь от этого практически не изменилась')], ''),
+    ('max', 'Наша жизнь от этого почти не изменилась.', 'Our life barely changed from that.', [(2, 'наша жизнь от этого практически не изменилась')], ''),
     ('kostya', 'Мы всё так же играем вместе.', 'We still play together just the same.', [], ''),
-    ('anya', 'Костян, давай скорее, стреляй в них!', 'Kostya, hurry up, shoot at them!', [(3, 'Костян, давай скорее')], ''),
+    ('max', 'Костян, давай скорее, стреляй в них!', 'Kostya, hurry up, shoot at them!', [(3, 'Костян, давай скорее')], ''),
     ('kostya', 'Я выбираю своё новое оружие.', 'I am choosing my new weapon.', [], ''),
-    ('anya', 'Меня тут с трёх сторон окружили!', 'They surrounded me from three sides here!', [(3, 'меня тут с трех сторон')], ''),
+    ('max', 'Меня тут с трёх сторон окружили!', 'They surrounded me from three sides here!', [(3, 'меня тут с трех сторон')], ''),
     ('kostya', 'Держись, я уже бегу на помощь!', 'Hold on, I am already running to help!', [], ''),
-    ('anya', 'Отличная работа, это наша победа!', 'Great work, this is our victory!', [], ''),
+    ('max', 'Отличная работа, это наша победа!', 'Great work, this is our victory!', [], ''),
     ('kostya', 'Мы отличная команда в этой игре.', 'We are a great team in this game.', [], ''),
-    ('anya', 'Главное, чтобы Настя нам не мешала.', 'The main thing is that Nastya does not disturb us.', [], ''),
+    ('max', 'Главное, чтобы Настя нам не мешала.', 'The main thing is that Nastya does not disturb us.', [], ''),
     ('kostya', 'Она готовит вкусный ужин на кухне.', 'She is cooking a tasty dinner in the kitchen.', [], ''),
 ]
 WALK = [

@@ -1,34 +1,36 @@
-# domashniy-arest/s01e03/scene-05.py
-ID = "domashniy-arest-s01e03-scene-05"
-SHOW = "domashniy-arest"
+# Authoring module for domashniy-arest-s01e03-scene-05.
+ID = 'domashniy-arest-s01e03-scene-05'
+SHOW = 'domashniy-arest'
 SEASON = 1
 EPISODE = 3
 SCENE = 5
-TITLE = "Жучок на липучке  (The Sticky Bug)"
-LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-SOURCE_NAME = "Домашний арест (Domashniy Arest) S1.03"
-SOURCE_FILE = "sources/domashniy-arest/s01/e03.ru.dual.srt"
-VOICES = {"narrator": "sky", "marina": "angelina", "lavrov": "anja"}
-LABELS = {"marina": "Марина", "lavrov": "Лавров"}
+TITLE = 'Жучок на липучке  (The Sticky Bug)'
+LEVEL = 'A1 — Duolingo Section 2'
+PAIR = 'ru-en'
+LABELS = {'lavrov': 'Лавров', 'marina': 'Марина', 'zavarzin': 'Заварзин'}
+SOURCE_NAME = 'Домашний арест (Domashniy Arest) S1.03'
+SOURCE_FILE = 'sources/domashniy-arest/s01/e03.ru.dual.srt'
 INTRO = "Outside in the courtyard, Marina meets the two security agents from Moscow, Major Lavrov and Captain Zavarzin. Now the two agents have their own job for Marina: they hand her a tiny listening bug to hide inside Arkady's room. Let's listen in Russian first."
-STORY = [
-    ("lavrov", "Это нужно поставить в комнате Аникеева.", "This needs to be put in Anikeev's room.", [(198, 'Это нужно'), (198, 'в комнате Аникеева')], "'установить' -> 'поставить'"),
-    ("marina", "Это просто, он на липучке.", "It's simple, it's on a sticky pad.", [(199, 'Это просто, он на липучке')], ""),
-    ("lavrov", "Лепите на уровне головы, в тихое место.", "Stick it at head height, in a quiet spot.", [(200, 'Лепите'), (200, 'на уровне головы'), (201, 'место')], "'где-нибудь' dropped; 'неприметное место и все' -> 'тихое место'"),
-    ("marina", "Как я это сделаю? Он всё время в комнате.", "How will I do that? He's in the room all the time.", [(202, 'Как я это сделаю, он все время в комнате')], "split into two sentences"),
-    ("marina", "Но он же выходит в туалет, на кухню.", "But he goes out to the bathroom, to the kitchen.", [(203, 'Но он же выходит в туалет'), (203, 'на кухню')], "'душ принять' dropped"),
-    ("marina", "Мне что, ждать у двери?", "What, am I supposed to wait by the door?", [(204, 'Мне что')], "cue 204 'его кураулить, что ли?' (stake him out, garbled) simplified to 'ждать у двери?'"),
-    ("marina", "Я этим никогда не занималась. Что я здесь делаю?", "I've never done anything like this. What am I doing here?", [(205, 'этим никогда не занималась'), (206, 'Что я здесь делаю')], "'вообще' dropped"),
-    ("marina", "Хорошо, давайте я попробую.", "Fine, let me try.", [(207, 'Хорошо, давайте я попробую')], "first 'хорошо' dropped"),
-    ("lavrov", "Подождите, это образец. А вот ваш.", "Wait, that's a sample. And here is yours.", [(208, 'Это образец'), (209, 'Ваш')], "'Подождите' and 'А вот' added"),
-    ("marina", "Что это? Зачем мне это?", "What is this? Why are you giving me this?", [], "clean stand-in for cue 210 (where Marina sees the small foil packet)"),
-    ("lavrov", "Там внутри такой же жучок.", "There's the same kind of bug inside.", [(211, 'Там внутри такой же жучок')], ""),
-    ("marina", "Марина Сергеевна, упаковка маскирующая. Не вызывает подозрений.", "Marina Sergeyevna, the packaging is camouflage. It doesn't raise suspicion.", [(212, 'Марина Сергеевна, упаковка маскирующая'), (213, 'не вызывает подозрений')], ""),
-    ("lavrov", "Такая вещь есть у каждого.", "Everyone has one of these.", [(213, 'Есть у каждого')], "'Такая вещь' added"),
-    ("marina", "У меня нет.", "I don't.", [(214, 'У меня нет')], ""),
-]
 OPENER = "Let's walk through it line by line. Major Lavrov holds up a tiny microphone and gives Marina her instructions."
+TRANSITION = "Now let's listen to the whole conversation again from the beginning."
+OUTRO = "So Marina walks back to the communal flat with a listening bug disguised in a foil wrapper in her pocket. Next we'll see Samson try to earn his new flat from Arkady; see you then. See you next time!"
+CLOSING = ('marina', 'Пока!')
+STORY = [
+    ('lavrov', 'Это нужно поставить в комнате Аникеева.', "This needs to be put in Anikeev's room.", [(198, 'Это нужно'), (198, 'в комнате Аникеева')], "'установить' -> 'поставить'"),
+    ('zavarzin', 'Это просто, он на липучке.', "It's simple, it's on a sticky pad.", [(199, 'Это просто, он на липучке')], ''),
+    ('lavrov', 'Лепите на уровне головы, в тихое место.', 'Stick it at head height, in a quiet spot.', [(200, 'Лепите'), (200, 'на уровне головы'), (201, 'место')], "'где-нибудь' dropped; 'неприметное место и все' -> 'тихое место'"),
+    ('marina', 'Как я это сделаю? Он всё время в комнате.', "How will I do that? He's in the room all the time.", [(202, 'Как я это сделаю, он все время в комнате')], 'split into two sentences'),
+    ('zavarzin', 'Но он же выходит в туалет, на кухню.', 'But he goes out to the bathroom, to the kitchen.', [(203, 'Но он же выходит в туалет'), (203, 'на кухню')], "'душ принять' dropped"),
+    ('marina', 'Мне что, ждать у двери?', 'What, am I supposed to wait by the door?', [(204, 'Мне что')], "cue 204 'его кураулить, что ли?' (stake him out, garbled) simplified to 'ждать у двери?'"),
+    ('marina', 'Я этим никогда не занималась. Что я здесь делаю?', "I've never done anything like this. What am I doing here?", [(205, 'этим никогда не занималась'), (206, 'Что я здесь делаю')], "'вообще' dropped"),
+    ('marina', 'Хорошо, давайте я попробую.', 'Fine, let me try.', [(207, 'Хорошо, давайте я попробую')], "first 'хорошо' dropped"),
+    ('lavrov', 'Подождите, это образец. А вот ваш.', "Wait, that's a sample. And here is yours.", [(208, 'Это образец'), (209, 'Ваш')], "'Подождите' and 'А вот' added"),
+    ('marina', 'Что это? Зачем мне это?', 'What is this? Why are you giving me this?', [], 'clean stand-in for cue 210 (where Marina sees the small foil packet)'),
+    ('lavrov', 'Там внутри такой же жучок.', "There's the same kind of bug inside.", [(211, 'Там внутри такой же жучок')], ''),
+    ('zavarzin', 'Марина Сергеевна, упаковка маскирующая. Не вызывает подозрений.', "Marina Sergeyevna, the packaging is camouflage. It doesn't raise suspicion.", [(212, 'Марина Сергеевна, упаковка маскирующая'), (213, 'не вызывает подозрений')], ''),
+    ('lavrov', 'Такая вещь есть у каждого.', 'Everyone has one of these.', [(213, 'Есть у каждого')], "'Такая вещь' added"),
+    ('marina', 'У меня нет.', "I don't.", [(214, 'У меня нет')], ''),
+]
 WALK = [
     (0, None, "'This needs to be put in Anikeev's room.' Literally, 'this is necessary to put'. Anikeev's surname takes the 'of' ending, meaning 'room of Anikeev'. Captain Zavarzin reassures her."),
     (1, None, "'It's simple, it's on a sticky pad.' He calls the little bug 'he' because the Russian word for a bug is masculine. The last word comes from the verb 'to stick', so it means a sticky pad or Velcro. Lavrov tells her where it goes."),
@@ -49,6 +51,3 @@ WALK = [
     (12, None, "'Everyone has one of these.' Literally, 'such a thing is at everyone'. Marina has the last word."),
     (13, None, "'I don't.' Literally, 'at me there isn't', the exact mirror of 'at everyone there is'."),
 ]
-TRANSITION = "Now let's listen to the whole conversation again from the beginning."
-OUTRO = "So Marina walks back to the communal flat with a listening bug disguised in a foil wrapper in her pocket. Next we'll see Samson try to earn his new flat from Arkady; see you then. See you next time!"
-CLOSING = ("marina", "Пока!")

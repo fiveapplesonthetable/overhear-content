@@ -1,31 +1,43 @@
-# Review: `dix-pour-cent-s04e05-scene-22` — Le carnage des talents  (The Talent Carnage)
+# dix-pour-cent-s04e05-scene-22: review sheet
 
-- **Source**: `sources/dix-pour-cent/s04/e05.fr.dual.srt`
-- **Level**: A1 — débutant
-- **Voices**: `{"narrator": "sky", "lea": "lucie", "gabriel": "theo"}`
-- **Labels**: `{"lea": "Andréa", "gabriel": "Gabriel"}`
+Title: Le carnage des talents  (The Talent Carnage)
+Level: A1 — débutant
+Pair: fr-en
+Source: Dix pour cent (Call My Agent!) S04E05
 
-## Part 1 — Intro
-> Stepping into the agency, Andrea and Gabriel find the floor deserted and phone lines blinking with panic. Within minutes, devastating emails confirm their worst nightmare: rival agent Elise Formain has poached their most prestigious clients. Let's listen to their conversation in French first.
 
-## Part 2 — Story Lines
-| # | Role | French | English | Source Cues |
-|---|------|--------|---------|-------------|
-| 0 | `gabriel` (Gabriel) | Les téléphones sonnent sans arrêt aujourd'hui. | The phones are ringing without stopping today. | 836:C'est quoi ces conneries |
-| 1 | `lea` (Andréa) | Où sont passés tous nos assistants? | Where have all our assistants gone? | 834:Les assistants ?, 835:Je ne les ai pas vus |
-| 2 | `gabriel` (Gabriel) | Fabrice Luchini vient de me quitter! | Fabrice Luchini has just left me! | 837:Luchini dit qu'il me lâche |
-| 3 | `lea` (Andréa) | Pourquoi prend-il une telle décision brutale? | Why does he make such a brutal decision? | 838:Je ne comprends pas |
-| 4 | `gabriel` (Gabriel) | Il prétend que je le critique. | He claims that I criticize him. | 837:je dis du mal de lui dans son dos |
-| 5 | `lea` (Andréa) | Regarde mes courriels, c'est le carnage. | Look at my emails, it is carnage. | 841:T'as regardé tes mails ?, 843:C'est le carnage |
-| 6 | `gabriel` (Gabriel) | Qu'est-ce qui se passe encore? | What is happening now? | 842:Non. Pourquoi ? |
-| 7 | `lea` (Andréa) | Dujardin et Berléand nous quittent aussi! | Dujardin and Berleand are leaving us too! | 844:Dujardin, Berléand... Toutes nos stars quittent |
-| 8 | `gabriel` (Gabriel) | Mais toutes nos stars partent ensemble? | Are all our stars leaving together? | 844:Toutes nos stars quittent l'agence |
-| 9 | `lea` (Andréa) | Élise est en train de nous saigner. | Elise is bleeding us dry. | 845:Elle nous saigne ? |
-| 10 | `gabriel` (Gabriel) | Je t'avais prévenue pour cette traîtresse! | I had warned you about that traitor! | 848:Elle part chez StarMédia ? |
-| 11 | `lea` (Andréa) | Elle emmène tout le monde chez StarMédia. | She is taking everyone to StarMedia. | 848:Elle part chez StarMédia |
-| 12 | `gabriel` (Gabriel) | Notre agence est complètement ruinée, Andréa. | Our agency is completely ruined, Andrea. | 846:Donne-moi au moins une raison |
-| 13 | `lea` (Andréa) | Je vais lui faire payer cher. | I am going to make her pay dearly. | 847:Elle a raccroché |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 5 — Outro & Closing
-> Stunned into silence, Andrea and Gabriel realize that ASK has just suffered the deadliest strike in its history. When you watch the episode, listen out for the expressions meaning 'phones' and 'ring'. You'll catch them now. See you next time!
-- **Closing**: `lea`: *Au revoir!*
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+|---|---|---|---|---|---|
+| 1 | Gabriel | Les téléphones sonnent sans arrêt aujourd'hui. | The phones are ringing without stopping today. | #836: C'est quoi ces conneries | verbatim |
+| 2 | Andréa | Où sont passés tous nos assistants? | Where have all our assistants gone? | #834: Les assistants ?<br>#835: Je ne les ai pas vus | verbatim |
+| 3 | Gabriel | Fabrice Luchini vient de me quitter! | Fabrice Luchini has just left me! | #837: Luchini dit qu'il me lâche | verbatim |
+| 4 | Andréa | Pourquoi prend-il une telle décision brutale? | Why does he make such a brutal decision? | #838: Je ne comprends pas | verbatim |
+| 5 | Gabriel | Il prétend que je le critique. | He claims that I criticize him. | #837: je dis du mal de lui dans son dos | verbatim |
+| 6 | Andréa | Regarde mes courriels, c'est le carnage. | Look at my emails, it is carnage. | #841: T'as regardé tes mails ?<br>#843: C'est le carnage | verbatim |
+| 7 | Gabriel | Qu'est-ce qui se passe encore? | What is happening now? | #842: Non. Pourquoi ? | verbatim |
+| 8 | Andréa | Dujardin et Berléand nous quittent aussi! | Dujardin and Berleand are leaving us too! | #844: Dujardin, Berléand... Toutes nos stars quittent | verbatim |
+| 9 | Gabriel | Mais toutes nos stars partent ensemble? | Are all our stars leaving together? | #844: Toutes nos stars quittent l'agence | verbatim |
+| 10 | Andréa | Élise est en train de nous saigner. | Elise is bleeding us dry. | #845: Elle nous saigne ? | verbatim |
+| 11 | Gabriel | Je t'avais prévenue pour cette traîtresse! | I had warned you about that traitor! | #848: Elle part chez StarMédia ? | verbatim |
+| 12 | Andréa | Elle emmène tout le monde chez StarMédia. | She is taking everyone to StarMedia. | #848: Elle part chez StarMédia | verbatim |
+| 13 | Gabriel | Notre agence est complètement ruinée, Andréa. | Our agency is completely ruined, Andrea. | #846: Donne-moi au moins une raison | verbatim |
+| 14 | Andréa | Je vais lui faire payer cher. | I am going to make her pay dearly. | #847: Elle a raccroché | verbatim |
+
+## Walk-through narration (English only, no target-language words quoted)
+
+- 'The phones are ringing without stopping today.' Gabriel rushes across the bustling floor. The verb meaning 'ring' pairs naturally with the noun for 'phones' in everyday conversation.
+- 'Where have all our assistants gone?' Andrea surveys the empty desks with unease. In everyday spoken French, rising intonation on 'gone' at the end is enough to turn the sentence into a question.
+- 'Fabrice Luchini has just left me!' Gabriel clutches his receiver in disbelief. The short 'self' word sits right in front of the verb for 'comes', turning the action back onto the subject.
+- 'Why does he make such a brutal decision?' Andrea questions the actor's motive. Notice how 'takes' leads directly into the noun meaning 'decision'.
+- 'He claims that I criticize him.' Gabriel recounts the false accusation. The clause hinges on the everyday verb meaning 'claims'.
+- 'Look at my emails, it is carnage.' Andrea opens her inbox to endless resignation notices. Notice how 'look at' leads directly into the noun meaning 'emails'.
+- 'What is happening now?' Gabriel asks in dread. The standard spoken question formula at the front turns the statement about 'happens' into a natural inquiry.
+- 'Dujardin and Berleand are leaving us too!' Andrea reads the incoming signatures. The clause hinges on the everyday verb meaning 'leave'.
+- 'Are all our stars leaving together?' Gabriel connects the coordinated strike. In everyday spoken French, rising intonation on 'leave' at the end is enough to turn the sentence into a question.
+- 'Elise is bleeding us dry.' Andrea grasps the ruthless strategy. The clause hinges on the everyday verb meaning 'to bleed'.
+- 'I had warned you about that traitor!' Gabriel's earlier warnings prove prophetic. Notice how 'had' leads directly into the noun meaning 'traitor'.
+- 'She is taking everyone to StarMedia.' Andrea names the rival agency destination. Notice how 'takes' leads directly into the noun meaning 'world'.
+- 'Our agency is completely ruined, Andrea.' Gabriel faces financial collapse. The verb meaning 'ruined' pairs naturally with the noun for 'agency' in everyday conversation.
+- 'I am going to make her pay dearly.' Andrea's shock turns to cold anger. The clause hinges on the everyday verb meaning 'am going'.

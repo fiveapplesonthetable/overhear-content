@@ -7,7 +7,6 @@ SCENE = 17
 TITLE = 'La scène secrète  (The Secret Scene)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'elisabeth': 'emilie', 'gabriel': 'theo'}
 LABELS = {'elisabeth': 'Élisabeth', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e05.fr.dual.srt'

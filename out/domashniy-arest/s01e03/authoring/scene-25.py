@@ -1,36 +1,38 @@
-# domashniy-arest/s01e03/scene-25.py
-ID = "domashniy-arest-s01e03-scene-25"
-SHOW = "domashniy-arest"
+# Authoring module for domashniy-arest-s01e03-scene-25.
+ID = 'domashniy-arest-s01e03-scene-25'
+SHOW = 'domashniy-arest'
 SEASON = 1
 EPISODE = 3
 SCENE = 25
-TITLE = "Чай с вишнёвым вареньем  (Tea with Cherry Jam)"
-LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-SOURCE_NAME = "Домашний арест (Domashniy Arest) S1.03"
-SOURCE_FILE = "sources/domashniy-arest/s01/e03.ru.dual.srt"
-VOICES = {"narrator": "sky", "samson": "anja", "anya": "alisa"}
-LABELS = {"samson": "Самсон", "anya": "Аркадий"}
+TITLE = 'Чай с вишнёвым вареньем  (Tea with Cherry Jam)'
+LEVEL = 'A1 — Duolingo Section 2'
+PAIR = 'ru-en'
+LABELS = {'arkady': 'Аркадий', 'pasha': 'Паша', 'samson': 'Самсон'}
+SOURCE_NAME = 'Домашний арест (Domashniy Arest) S1.03'
+SOURCE_FILE = 'sources/domashniy-arest/s01/e03.ru.dual.srt'
 INTRO = "Back in the communal flat, Nina's scalpel has just nicked Arkady's ear, and the sight of real blood turns everything upside down. Here, big Samson panics over the bleeding cut, bandages Arkady's head, and starts fussing over him like a guest—just as Pasha walks in to see if Arkady has confessed. Let's listen in Russian first."
-STORY = [
-    ("samson", "Остановилась там кровь уже? Смотри, сколько крови вылилось!", "Has the bleeding stopped yet? Look how much blood came out!", [(852, 'Остановилась там кровь уже'), (856, 'сколько'), (856, 'вылилось')], "Nina's reply (853-854) narrated; 'кровища' -> 'крови'"),
-    ("anya", "Самсон, не задуши меня.", "Samson, don't choke me.", [(857, 'не задуши меня')], "'Самсон' added as Samson wraps the bandage too tightly"),
-    ("samson", "Аркаша, держи горячий чай. И бутерброд с вареньем ешь.", "Arkasha, here's some hot tea. And eat a jam sandwich.", [(858, 'держи'), (861, 'с вареньем')], "cues 858-861 ('горяченького чайка хлопня', 'на бутер налегай') simplified to plain A1"),
-    ("samson", "Нина, ну как ты могла? Живого человека ножом резать!", "Nina, how could you? Cutting a living person with a knife!", [(863, 'ну как'), (864, 'Живого человека ножом резать')], "cue 863 garbled 'Денис, ну как вы могли' -> 'Нина, ну как ты могла'"),
-    ("anya", "Подожди, это что, абрикос? Я ненавижу абрикосы.", "Wait, what is this, apricot? I hate apricots.", [(868, 'это что, абрикос'), (870, 'Я ненавижу абрикосы')], ""),
-    ("anya", "А есть у вас малина?", "Do you have raspberry?", [(871, 'А есть у вас малина')], ""),
-    ("samson", "Малины нет. Вишнёвое варенье есть, будешь?", "No raspberry. There's cherry jam, do you want some?", [(872, 'Нет'), (873, 'есть, будешь')], "cue 873 garbled 'вишню варежем' -> 'Вишнёвое варенье'"),
-    ("anya", "Да. Несите вашу вишню.", "Yes. Bring your cherry.", [(874, 'Да'), (875, 'вишню')], "slang 'тащите вишню свою' -> 'Несите вашу вишню'; Nina's crude remark in 876 dropped"),
-    ("samson", "Ну что, признался?", "Well, did he confess?", [(877, 'Ну что, признался')], ""),
-    ("anya", "Самсон, кто это? Я хочу, чтобы он ушёл.", "Samson, who is that? I want him to leave.", [(878, 'Самсон. Я хочу, чтобы он ушел')], "'кто это?' added"),
-    ("samson", "У нас всё не так пошло. Нина ему чуть ухо не отрезала.", "Things went wrong for us. Nina nearly cut his ear off.", [(882, 'У нас'), (882, 'все'), (882, 'не так пошло'), (882, 'чуть не')], "cue 882 garbled 'Нинокому реально ух чуть не отрезало' -> 'Нина ему чуть ухо не отрезала'"),
-    ("samson", "Ну и что? Он должен страдать, а нам нужна информация.", "So what? He is supposed to suffer, and we need the information.", [(883, 'Ну и что? Он должен'), (883, 'страдать'), (883, 'информацию')], "'а вы должны были получить информацию' -> 'а нам нужна информация'"),
-    ("samson", "Нельзя так живого человека пытать!", "You can't torture a living person like that!", [(884, 'человека'), (884, 'пытать')], "cue 884 garbled 'душевого человека-то пытать' -> 'живого человека пытать'"),
-    ("anya", "Так развяжите меня! Я всё скажу в полиции!", "Then untie me! I'll tell the police everything!", [(887, 'Так развяжите меня')], "insult 'кретины' dropped; 'Я всё скажу в полиции' sets up 892"),
-    ("anya", "Скажу, что ты нанял людей меня пытать. И не видать вам квартиры!", "I'll say that you hired people to torture me. And you'll never see that flat!", [(892, 'скажу, что'), (892, 'нанял'), (892, 'пытать'), (893, 'не видать'), (893, 'квартиры')], "slang 'ментам' -> 'в полиции'; cue 892 'человека' -> 'людей меня'; 'тебе' -> 'вам'"),
-    ("samson", "Не нужна нам такая квартира! Уходи отсюда!", "We don't need a flat like that! Get out of here!", [(894, 'Квартиру')], "clean stand-in for Samson's crude refusal in 894"),
-]
 OPENER = "Let's go through it line by line. Nina says there is barely a scratch, but Samson is horrified by the blood and wraps a thick white bandage around Arkady's head."
+TRANSITION = "Let's hear the whole scene with the bandage and the cherry jam again."
+OUTRO = "So Nina's accidental cut ended the torture session, Samson gave up the three-room flat and threw Pasha out, and Arkady is still tied to his chair drinking tea. Next time, young Slavik walks in with a very surprising delivery. See you next time!"
+CLOSING = ('arkady', 'Пока!')
+STORY = [
+    ('samson', 'Остановилась там кровь уже? Смотри, сколько крови вылилось!', 'Has the bleeding stopped yet? Look how much blood came out!', [(852, 'Остановилась там кровь уже'), (856, 'сколько'), (856, 'вылилось')], "Nina's reply (853-854) narrated; 'кровища' -> 'крови'"),
+    ('arkady', 'Самсон, не задуши меня.', "Samson, don't choke me.", [(857, 'не задуши меня')], "'Самсон' added as Samson wraps the bandage too tightly"),
+    ('samson', 'Аркаша, держи горячий чай. И бутерброд с вареньем ешь.', "Arkasha, here's some hot tea. And eat a jam sandwich.", [(858, 'держи'), (861, 'с вареньем')], "cues 858-861 ('горяченького чайка хлопня', 'на бутер налегай') simplified to plain A1"),
+    ('samson', 'Нина, ну как ты могла? Живого человека ножом резать!', 'Nina, how could you? Cutting a living person with a knife!', [(863, 'ну как'), (864, 'Живого человека ножом резать')], "cue 863 garbled 'Денис, ну как вы могли' -> 'Нина, ну как ты могла'"),
+    ('arkady', 'Подожди, это что, абрикос? Я ненавижу абрикосы.', 'Wait, what is this, apricot? I hate apricots.', [(868, 'это что, абрикос'), (870, 'Я ненавижу абрикосы')], ''),
+    ('arkady', 'А есть у вас малина?', 'Do you have raspberry?', [(871, 'А есть у вас малина')], ''),
+    ('samson', 'Малины нет. Вишнёвое варенье есть, будешь?', "No raspberry. There's cherry jam, do you want some?", [(872, 'Нет'), (873, 'есть, будешь')], "cue 873 garbled 'вишню варежем' -> 'Вишнёвое варенье'"),
+    ('arkady', 'Да. Несите вашу вишню.', 'Yes. Bring your cherry.', [(874, 'Да'), (875, 'вишню')], "slang 'тащите вишню свою' -> 'Несите вашу вишню'; Nina's crude remark in 876 dropped"),
+    ('pasha', 'Ну что, признался?', 'Well, did he confess?', [(877, 'Ну что, признался')], ''),
+    ('arkady', 'Самсон, кто это? Я хочу, чтобы он ушёл.', 'Samson, who is that? I want him to leave.', [(878, 'Самсон. Я хочу, чтобы он ушел')], "'кто это?' added"),
+    ('samson', 'У нас всё не так пошло. Нина ему чуть ухо не отрезала.', 'Things went wrong for us. Nina nearly cut his ear off.', [(882, 'У нас'), (882, 'все'), (882, 'не так пошло'), (882, 'чуть не')], "cue 882 garbled 'Нинокому реально ух чуть не отрезало' -> 'Нина ему чуть ухо не отрезала'"),
+    ('pasha', 'Ну и что? Он должен страдать, а нам нужна информация.', 'So what? He is supposed to suffer, and we need the information.', [(883, 'Ну и что? Он должен'), (883, 'страдать'), (883, 'информацию')], "'а вы должны были получить информацию' -> 'а нам нужна информация'"),
+    ('samson', 'Нельзя так живого человека пытать!', "You can't torture a living person like that!", [(884, 'человека'), (884, 'пытать')], "cue 884 garbled 'душевого человека-то пытать' -> 'живого человека пытать'"),
+    ('arkady', 'Так развяжите меня! Я всё скажу в полиции!', "Then untie me! I'll tell the police everything!", [(887, 'Так развяжите меня')], "insult 'кретины' dropped; 'Я всё скажу в полиции' sets up 892"),
+    ('arkady', 'Скажу, что ты нанял людей меня пытать. И не видать вам квартиры!', "I'll say that you hired people to torture me. And you'll never see that flat!", [(892, 'скажу, что'), (892, 'нанял'), (892, 'пытать'), (893, 'не видать'), (893, 'квартиры')], "slang 'ментам' -> 'в полиции'; cue 892 'человека' -> 'людей меня'; 'тебе' -> 'вам'"),
+    ('samson', 'Не нужна нам такая квартира! Уходи отсюда!', "We don't need a flat like that! Get out of here!", [(894, 'Квартиру')], "clean stand-in for Samson's crude refusal in 894"),
+]
 WALK = [
     (0, 'Остановилась там кровь уже?', "'Has the bleeding stopped yet?' Literally 'did the blood stop there already?'. The word for 'blood' is feminine, so the past verb ends in the feminine form."),
     (0, 'Смотри, сколько крови вылилось!', "'Look how much blood came out!' After 'how much', 'blood' takes its 'of'-form ending. Samson winds the bandage so tightly round Arkady's neck and chin that Arkady can hardly breathe."),
@@ -59,6 +61,3 @@ WALK = [
     (14, 'И не видать вам квартиры!', "'And you'll never see that flat!' Literally 'not to see to you of the flat'—a vivid Russian idiom for 'you can kiss that flat goodbye'. Pasha and Samson square up to each other, and Samson has had enough."),
     (15, None, "'We don't need a flat like that! Get out of here!' Samson throws away the dream of the three-room flat rather than torture a man for Pasha, and Pasha leaves empty-handed."),
 ]
-TRANSITION = "Let's hear the whole scene with the bandage and the cherry jam again."
-OUTRO = "So Nina's accidental cut ended the torture session, Samson gave up the three-room flat and threw Pasha out, and Arkady is still tied to his chair drinking tea. Next time, young Slavik walks in with a very surprising delivery. See you next time!"
-CLOSING = ("anya", "Пока!")

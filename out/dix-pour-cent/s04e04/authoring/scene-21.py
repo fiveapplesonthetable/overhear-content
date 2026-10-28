@@ -7,8 +7,7 @@ SCENE = 21
 TITLE = 'Confidences au bar  (Confidences at the Bar)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'elise': 'emilie', 'lea': 'lucie'}
-LABELS = {'elise': 'Élise', 'lea': 'Andréa'}
+LABELS = {'andrea': 'Andréa', 'elise': 'Élise'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e04.fr.dual.srt'
 INTRO = "In a relaxed Parisian lounge bar, Andrea and rival agent Elise unwind over cocktails after a grueling week of work. Letting their professional guard down, the two women trade hilarious confidential anecdotes about their most eccentric clients. Let's listen to their conversation in French first."
@@ -17,19 +16,19 @@ TRANSITION = "Now let's listen to the complete discussion once more to reinforce
 OUTRO = "Andrea and Elise raise their glasses in laughter, united in friendship against the daily chaos of show business. When you watch the episode, listen out for the expressions meaning 'nanny' and 'fabulous'. You'll catch them now. See you next time!"
 CLOSING = ('elise', 'Bonne journée!')
 STORY = [
-    ('lea', 'Ma nounou Patsy est vraiment fabuleuse.', 'My nanny Patsy is really fabulous.', [(1150, 'Patsy est fabuleuse !')], ''),
+    ('andrea', 'Ma nounou Patsy est vraiment fabuleuse.', 'My nanny Patsy is really fabulous.', [(1150, 'Patsy est fabuleuse !')], ''),
     ('elise', 'Buvons un autre verre toutes les deux.', 'Let us drink another glass, both of us.', [(1156, 'On en prend un autre ?')], ''),
-    ('lea', 'Je dois rentrer avant minuit ce soir.', 'I must go home before midnight tonight.', [(1157, "j'ai dit à Patsy que je rentrais")], ''),
+    ('andrea', 'Je dois rentrer avant minuit ce soir.', 'I must go home before midnight tonight.', [(1157, "j'ai dit à Patsy que je rentrais")], ''),
     ('elise', "J'ai prévenu ta nounou par téléphone.", 'I notified your nanny by phone.', [(1159, "Oui, bonjour Patsy, c'est Élise")], ''),
-    ('lea', "Tu n'as vraiment peur de rien!", 'You are truly afraid of nothing!', [(1161, 'Mais…')], ''),
+    ('andrea', "Tu n'as vraiment peur de rien!", 'You are truly afraid of nothing!', [(1161, 'Mais…')], ''),
     ('elise', "J'éteins mon portable pour la soirée.", 'I am turning off my phone for the evening.', [(1172, "Et j'éteins mon téléphone")], ''),
-    ('lea', 'Nos acteurs nous épuisent toute la journée.', 'Our actors exhaust us all day long.', [(1178, "On s'occupe d'eux toute la journée")], ''),
+    ('andrea', 'Nos acteurs nous épuisent toute la journée.', 'Our actors exhaust us all day long.', [(1178, "On s'occupe d'eux toute la journée")], ''),
     ('elise', 'Quel est ton client le plus difficile?', 'Who is your most difficult client?', [(1174, "c'est qui le talent le plus pénible ?")], ''),
-    ('lea', 'François Berléand est un hypocondriaque total!', 'Francois Berleand is a total hypochondriac!', [(1180, 'Berléand'), (1181, "C'est un hypocondriaque total")], ''),
+    ('andrea', 'François Berléand est un hypocondriaque total!', 'Francois Berleand is a total hypochondriac!', [(1180, 'Berléand'), (1181, "C'est un hypocondriaque total")], ''),
     ('elise', 'Raconte-moi un peu ses habitudes bizarres.', 'Tell me a little about his strange habits.', [(1175, 'Dis-moi tout !')], ''),
-    ('lea', "Il panique dès qu'un acteur éternue.", 'He panics as soon as an actor sneezes.', [(1185, "Tu éternues, t'es dehors")], ''),
+    ('andrea', "Il panique dès qu'un acteur éternue.", 'He panics as soon as an actor sneezes.', [(1185, "Tu éternues, t'es dehors")], ''),
     ('elise', "C'est tellement drôle et absurde!", 'It is so funny and absurd!', [(1188, "C'est trop fort !")], ''),
-    ('lea', 'Nous faisons un métier de fous.', 'We do a crazy profession.', [(1170, 'Ça fait partie du boulot')], ''),
+    ('andrea', 'Nous faisons un métier de fous.', 'We do a crazy profession.', [(1170, 'Ça fait partie du boulot')], ''),
     ('elise', 'Trinquons à notre belle amitié secrète!', 'Let us toast to our lovely secret friendship!', [(1155, 'À sainte Patsy !')], ''),
 ]
 WALK = [

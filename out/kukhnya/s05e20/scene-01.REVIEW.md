@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Сегодня самый лучший день в моей жизни. | Today is the very best day of my life. | #1 00:00:24: Сегодня самый лучший день в моей жизни | adapted: adapted |
-| 2 | Аня | Сегодня первый раз мне улыбнулась моя дочка. | Today my daughter smiled at me for the first time. | #2 00:00:28: Сегодня первый раз мне улыбнулась моя дочка | adapted: adapted |
-| 3 | Аня | Честное слово, она улыбнулась, я не вру! | Honestly, she smiled, I am not lying! | #3 00:00:32: Улыбнулась, я не вру | adapted: adapted |
-| 4 | Аня | Буквально минуту назад она мне улыбалась. | Literally a minute ago she was smiling at me. | #4 00:00:34: Минуту назад она мне улыбалась | adapted: adapted |
-| 5 | Вика | Ничего особенного, она просто засыпает. | Nothing special, she is simply falling asleep. | #5 00:00:38: просто | adapted: adapted |
-| 6 | Аня | Давай подождём, может, она улыбнётся ещё? | Let's wait, maybe she will smile again? | #6 00:00:41: Еще | adapted: adapted |
-| 7 | Аня | Виктор Петрович, вы снова к нам вернулись! | Viktor Petrovich, you have returned to us again! | #7 00:00:57: Вы вернулись | adapted: adapted |
-| 8 | Аня | А мы все уже думали, вы ушли. | And all of us already thought you had left. | #7 00:00:57: А мы думали | adapted: adapted |
-| 9 | Шеф | А вы думали, что от меня избавились? | And did you think that you had gotten rid of me? | #8 00:00:59: А вы думали<br>#9 00:01:02: Что от меня избавились | adapted: adapted |
-| 10 | Шеф | Даже не надейтесь, не дождётесь такого! | Do not even hope for it, you will never see the day! | #10 00:01:03: Не дождёте | adapted: adapted |
-| 11 | Аня | Мы очень рады снова видеть вас, шеф. | We are very glad to see you again, Chef. | #7 00:00:57: Вы вернулись | adapted: adapted |
-| 12 | Шеф | Тогда быстро за работу, бездельники! | Then get back to work quickly, slackers! | #8 00:00:59: А вы думали | adapted: adapted |
+| 1 | Макс | Сегодня самый лучший день в моей жизни. | Today is the very best day of my life. | #1: Сегодня самый лучший день в моей жизни | adapted: adapted |
+| 2 | Макс | Сегодня первый раз мне улыбнулась моя дочка. | Today my daughter smiled at me for the first time. | #2: Сегодня первый раз мне улыбнулась моя дочка | adapted: adapted |
+| 3 | Макс | Честное слово, она улыбнулась, я не вру! | Honestly, she smiled, I am not lying! | #3: Улыбнулась, я не вру | adapted: adapted |
+| 4 | Макс | Буквально минуту назад она мне улыбалась. | Literally a minute ago she was smiling at me. | #4: Минуту назад она мне улыбалась | adapted: adapted |
+| 5 | Вика | Ничего особенного, она просто засыпает. | Nothing special, she is simply falling asleep. | #5: просто | adapted: adapted |
+| 6 | Макс | Давай подождём, может, она улыбнётся ещё? | Let's wait, maybe she will smile again? | #6: Еще | adapted: adapted |
+| 7 | Макс | Виктор Петрович, вы снова к нам вернулись! | Viktor Petrovich, you have returned to us again! | #7: Вы вернулись | adapted: adapted |
+| 8 | Макс | А мы все уже думали, вы ушли. | And all of us already thought you had left. | #7: А мы думали | adapted: adapted |
+| 9 | Шеф | А вы думали, что от меня избавились? | And did you think that you had gotten rid of me? | #8: А вы думали<br>#9: Что от меня избавились | adapted: adapted |
+| 10 | Шеф | Даже не надейтесь, не дождётесь такого! | Do not even hope for it, you will never see the day! | #10: Не дождёте | adapted: adapted |
+| 11 | Макс | Мы очень рады снова видеть вас, шеф. | We are very glad to see you again, Chef. | #7: Вы вернулись | adapted: adapted |
+| 12 | Шеф | Тогда быстро за работу, бездельники! | Then get back to work quickly, slackers! | #8: А вы думали | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Today is the very best day of my life.' Max anchors the line on 'tonight', while 'life' completes the thought.
-- 'Today my daughter smiled at me for the first time.' In Russian, the idea of 'tonight' flows naturally into 'daughter' without extra filler words.
-- 'Honestly, she smiled, I am not lying!' An emphatic spoken line centered on the verb meaning 'to smile'.
-- 'Literally a minute ago she was smiling at me.' In Russian, the idea of 'literally' flows naturally into 'smiled' without extra filler words.
-- 'Nothing special, she is simply falling asleep.' Spoken Russian keeps this brisk, leaning on 'nothing' and finishing on 'to fall asleep'.
-- 'Let's wait, maybe she will smile again?' In Russian, the idea of 'come on' flows naturally into 'else' without extra filler words.
-- 'Viktor Petrovich, you have returned to us again!' Here the Russian phrasing highlights 'proper name' before landing on 'to come back'.
-- 'And all of us already thought you had left.' Spoken Russian keeps this brisk, leaning on 'and' and finishing on 'to leave'.
-- 'And did you think that you had gotten rid of me?' In Russian, the idea of 'and' flows naturally into 'to get rid of' without extra filler words.
-- 'Do not even hope for it, you will never see the day!' The negative particle sits right before the verb meaning 'to hope' to negate the statement.
-- 'We are very glad to see you again, Chef.' The meaning hinges on 'we' working together with 'proper name' in spoken Russian.
-- 'Then get back to work quickly, slackers!' In Russian, the idea of 'then' flows naturally into 'slackers' without extra filler words.
+- 'Today is the very best day of my life.' Adding that today is the very best day of his life fills in the missing piece for Barinov.
+- 'Today my daughter smiled at me for the first time.' Between the apartment and the point, Max gives Barinov a quick, grounded response.
+- 'Honestly, she smiled, I am not lying!' Max insists that she smiled he is not lying, leaving Barinov no room to argue. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Literally a minute ago she was smiling at me.' Mentioning that literally a minute ago she was smiling at him moves the talk in a new direction.
+- 'Nothing special, she is simply falling asleep.' Vika reminds Barinov that nothing special she is simply falling asleep before the moment passes.
+- 'Let's wait, maybe she will smile again?' Here proposing that they wait maybe she will smile again shows Max looking for the real truth. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
+- 'Viktor Petrovich, you have returned to us again!' Insisting that Barinov has returned to them again shows Max is not backing down.
+- 'And all of us already thought you had left.' Max mentions that all of them already thought Barinov had left so Barinov sees what is at stake. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
+- 'And did you think that you had gotten rid of me?' Checking whether Max thinks that Max had gotten rid of him cuts straight through the tension between Barinov and Max. Notice how he sticks to the formal "you", keeping a professional line between them.
+- 'Do not even hope for it, you will never see the day!' Barinov insists that do not even hope for it Max will never see the day, leaving Max no room to argue.
+- 'We are very glad to see you again, Chef.' Max explains that they are very glad to see Barinov again, keeping his voice calm and direct. Notice how he sticks to the formal "you", keeping a professional line between them.
+- 'Then get back to work quickly, slackers!' Getting back to work quickly slackers shows Barinov is done holding back. Russian puts the key word right up front so his emotion lands on the first beat.

@@ -1,18 +1,20 @@
+# Authoring module for kukhnya-s02e12-scene-06.
 ID = 'kukhnya-s02e12-scene-06'
 SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 12
 SCENE = 6
-TITLE = "Деревенский салат с тунцом  (Rustic Tuna Salad)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Деревенский салат с тунцом  (Rustic Tuna Salad)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "kostya": "anja", "nastya": "angelina"}
-LABELS = {"kostya": "Костя", "nastya": "Настя"}
+LABELS = {'kostya': 'Костя', 'nastya': 'Настя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S2.12'
 SOURCE_FILE = 'sources/kukhnya/s02/e12.ru.srt'
-
 INTRO = 'Out in the kitchen, the new head chef Aleksandr gathers the cooks around the prep table to demonstrate a rustic salad with tuna, quail eggs, and olives. As he tears the lettuce leaves by hand, he entertains the crew with a tall tale about inventing the dish while stranded in a remote village.'
-
+OPENER = "Now let's go back through the conversation line by line."
+TRANSITION = "Alright, let's hear the whole conversation once more from start to finish."
+OUTRO = 'That wraps up this scene as new chef Aleksandr charms the kitchen staff by spinning a dramatic story about inventing a rustic tuna and quail egg salad in a remote village. See you next time!'
+CLOSING = ('nastya', 'Хорошего дня!')
 STORY = [
     ('kostya', 'Остановились в захаусле деревушки.', 'We stopped in a rundown little village.', [(88, 'Остановились в захаусле деревушки')], ''),
     ('nastya', 'Есть хотелось так.', 'We were starving.', [(89, 'Есть хотелось так')], ''),
@@ -28,25 +30,18 @@ STORY = [
     ('nastya', 'Поперчим все это дело.', 'We pepper the whole thing.', [(98, 'Поперчим все это дело')], ''),
     ('kostya', 'И затем все это аккуратненько мешаем.', 'And then we gently toss it all together.', [(100, 'И затем все это аккуратненько мешаем')], ''),
 ]
-
-OPENER = "Now let's go back through the conversation line by line."
-
 WALK = [
-    (0, None, "'We stopped in a rundown little village.' In Russian, the idea of 'to stop' flows naturally into 'small village' without extra filler words. Nastya answers right away."),
-    (1, None, "'We were starving.' The grammar packs 'there is' and 'like this' into a tight, idiomatic kitchen exchange."),
-    (2, None, "'And then by chance I found a can of tuna.' Kostya brings out the contrast between 'both' and 'here' in a few short words."),
-    (3, None, "'So I decided to make a rustic village salad.' Notice how Russian expresses 'like this' and 'salad' with crisp inflection rather than helper words. Kostya answers right away."),
-    (4, None, "'We take a lettuce leaf.' The grammar packs 'we take' and 'salad' into a tight, idiomatic kitchen exchange."),
-    (5, None, "'We tear it roughly just like this.' Spoken Russian keeps this brisk, leaning on 'rudely' and finishing on 'like this'."),
-    (6, None, "'Here is how it goes.' Kostya brings out the contrast between 'so' and 'like this' in a few short words. Nastya answers right away."),
-    (7, None, "'Next we add some quail eggs.' The meaning hinges on 'then' working together with 'egg' in spoken Russian."),
-    (8, None, "'A little bit of tuna.' Notice how Russian expresses 'a little' and 'tuna' with crisp inflection rather than helper words."),
-    (9, None, "'A few olives.' Nastya anchors the line on 'a little', while 'olive' completes the thought. Kostya answers right away."),
-    (10, None, "'How could we do without potatoes.' In Russian, the idea of 'how' flows naturally into 'potato' without extra filler words."),
-    (11, None, "'We pepper the whole thing.' Here the Russian phrasing highlights 'to pepper' before landing on 'matter'."),
-    (12, None, "'And then we gently toss it all together.' The grammar packs 'both' and 'to be in the way' into a tight, idiomatic kitchen exchange."),
+    (0, None, "'We stopped in a rundown little village.' Adding that they stopped in a rundown little village fills in the missing piece for Nastya."),
+    (1, None, "'We were starving.' Nastya tells Kostya that they were starving without dressing it up."),
+    (2, None, "'And then by chance I found a can of tuna.' Since by chance he found a can of tuna, Kostya does not waste words on excuses."),
+    (3, None, "'So I decided to make a rustic village salad.' Mentioning that she decided to make a rustic village salad moves the talk in a new direction."),
+    (4, None, "'We take a lettuce leaf.' By taking a lettuce leaf, Kostya keeps his side of the story grounded."),
+    (5, None, "'We tear it roughly just like this.' With the point and story in play, Nastya keeps this short reply brisk and direct."),
+    (6, None, "'Here is how it goes.' Explaining that here is how it goes lays the cards on the table for Nastya."),
+    (7, None, "'Next we add some quail eggs.' Between the point and the tears, Nastya gives Kostya a quick, grounded response."),
+    (8, None, "'A little bit of tuna.' With the kitchen and story in play, Kostya keeps this short reply brisk and direct."),
+    (9, None, "'A few olives.' Over the kitchen and the story, Nastya answers Kostya without a second thought."),
+    (10, None, "'How could we do without potatoes.' Kostya explains that how could they do without potatoes, keeping his voice calm and direct."),
+    (11, None, '\'We pepper the whole thing.\' Around the kitchen and story, Nastya sets a calm, everyday tone with Kostya. Russian drops "is" in the present, setting the two halves of the thought side by side.'),
+    (12, None, '\'And then we gently toss it all together.\' Between the kitchen and the table, Kostya gives Nastya a quick, grounded response. Russian drops "is" in the present, setting the two halves of the thought side by side.'),
 ]
-
-TRANSITION = "Alright, let's hear the whole conversation once more from start to finish."
-OUTRO = 'That wraps up this scene as new chef Aleksandr charms the kitchen staff by spinning a dramatic story about inventing a rustic tuna and quail egg salad in a remote village. See you next time!'
-CLOSING = ("nastya", "Хорошего дня!")

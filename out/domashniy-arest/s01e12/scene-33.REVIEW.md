@@ -10,20 +10,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Лёва | Допустим, у губернатора есть куча денег. | Let's suppose the governor has a pile of money. | #824 01:04:36: Допустим, у губернатора куча бабла | adapted: adapted cue |
-| 2 | Лёва | Но как он отдаст их нам? | But how will he hand them over to us? | #825 01:04:39: Как он нам его отдаст? | adapted: adapted cue |
-| 3 | Аня | А вот тут вам понадобится мой опыт. | And right here you will need my experience. | #827 01:04:43: А вот тут, ребята, вам понадобится Аркадий Борисович | adapted: adapted cue |
-| 4 | Аня | Этот хряк мечтает стать крупным министром. | This pig dreams of becoming a major minister. | #828 01:04:48: Короче, этот хряк мечтает стать министром | adapted: adapted cue |
-| 5 | Аня | Надо предложить ему министерский пост за взятку. | We should offer him a ministerial post for a bribe. | #829 01:04:52: Надо предложить ему пост за взятку | adapted: adapted cue |
-| 6 | Лёва | Губернатор не поверит в это так просто. | The governor will not believe that so easily. | #833 01:05:05: Так просто он не поверит | adapted: adapted cue |
-| 7 | Аня | Я всё устрою на высшем уровне. | I will arrange everything at the highest level. | #840 01:05:18: Я все устрою | adapted: adapted cue |
-| 8 | Аня | Но мне нужно три процента от денег. | But I need three percent of the money. | #842 01:05:22: Мне нужно 3% от бабла губернатора | adapted: adapted cue |
-| 9 | Лёва | Могу предложить вам только условный срок. | I can offer you only a suspended sentence. | #844 01:05:26: Могу предложить условный срок | adapted: adapted cue |
-| 10 | Лёва | И небольшую государственную премию за помощь. | And a modest state bonus for your help. | #845 01:05:29: и премию в 15 тысяч рублей | adapted: adapted cue |
-| 11 | Аня | Нет, так наше дело не пойдёт! | No, that's not how our business will work! | #848 01:05:38: Нет, ребят, так дело не пойдет | adapted: adapted cue |
-| 12 | Лёва | Аркадий Борисович согласен на эти условия! | Arkady Borisovich agrees to these conditions! | #850 01:05:45: Он согласен<br>#852 01:05:53: Я сказала, Аркадий Борисович согласен | adapted: adapted cue |
-| 13 | Аня | Марина, это чисто мужской деловой разговор. | Marina, this is purely a men's business conversation. | #851 01:05:49: Марина, это мужской разговор | adapted: adapted cue |
-| 14 | Лёва | Я защищаю твоё будущее от глупости. | I am protecting your future from foolishness. | new | new: Marina taking firm charge |
+| 1 | Лёва | Допустим, у губернатора есть куча денег. | Let's suppose the governor has a pile of money. | #824: Допустим, у губернатора куча бабла | adapted: adapted cue |
+| 2 | Лёва | Но как он отдаст их нам? | But how will he hand them over to us? | #825: Как он нам его отдаст? | adapted: adapted cue |
+| 3 | Аркадий | А вот тут вам понадобится мой опыт. | And right here you will need my experience. | #827: А вот тут, ребята, вам понадобится Аркадий Борисович | adapted: adapted cue |
+| 4 | Аркадий | Этот хряк мечтает стать крупным министром. | This pig dreams of becoming a major minister. | #828: Короче, этот хряк мечтает стать министром | adapted: adapted cue |
+| 5 | Аркадий | Надо предложить ему министерский пост за взятку. | We should offer him a ministerial post for a bribe. | #829: Надо предложить ему пост за взятку | adapted: adapted cue |
+| 6 | Лёва | Губернатор не поверит в это так просто. | The governor will not believe that so easily. | #833: Так просто он не поверит | adapted: adapted cue |
+| 7 | Аркадий | Я всё устрою на высшем уровне. | I will arrange everything at the highest level. | #840: Я все устрою | adapted: adapted cue |
+| 8 | Аркадий | Но мне нужно три процента от денег. | But I need three percent of the money. | #842: Мне нужно 3% от бабла губернатора | adapted: adapted cue |
+| 9 | Лёва | Могу предложить вам только условный срок. | I can offer you only a suspended sentence. | #844: Могу предложить условный срок | adapted: adapted cue |
+| 10 | Лёва | И небольшую государственную премию за помощь. | And a modest state bonus for your help. | #845: и премию в 15 тысяч рублей | adapted: adapted cue |
+| 11 | Аркадий | Нет, так наше дело не пойдёт! | No, that's not how our business will work! | #848: Нет, ребят, так дело не пойдет | adapted: adapted cue |
+| 12 | Марина | Аркадий Борисович согласен на эти условия! | Arkady Borisovich agrees to these conditions! | #850: Он согласен<br>#852: Я сказала, Аркадий Борисович согласен | adapted: adapted cue |
+| 13 | Аркадий | Марина, это чисто мужской деловой разговор. | Marina, this is purely a men's business conversation. | #851: Марина, это мужской разговор | adapted: adapted cue |
+| 14 | Марина | Я защищаю твоё будущее от глупости. | I am protecting your future from foolishness. | new | new: Marina taking firm charge |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

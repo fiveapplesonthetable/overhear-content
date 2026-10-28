@@ -1,32 +1,45 @@
-# Review: `dix-pour-cent-s02e06-scene-16` — Garder la maison ensemble  (Holding the Fort Together)
+# dix-pour-cent-s02e06-scene-16: review sheet
 
-- **Source**: `sources/dix-pour-cent/s02/e06.fr.dual.srt`
-- **Level**: A1 — débutant
-- **Voices**: `{"narrator": "sky", "herve": "marcel", "noemie": "emilie"}`
-- **Labels**: `{"herve": "Hervé", "noemie": "Noémie"}`
+Title: Garder la maison ensemble  (Holding the Fort Together)
+Level: A1 — débutant
+Pair: fr-en
+Source: Dix pour cent (Call My Agent!) S02E06
 
-## Part 1 — Intro
-> Back at the Paris office, Hervé returns flustered, only to find Noémie crying after giving up her travel ticket to Mathias's wife. Recognizing her heartbreak over Mathias, Hervé offers comforting words and decides to stay in Paris with her so they can hold down the fort together. Listen to the scene in French first.
 
-## Part 2 — Story Lines
-| # | Role | French | English | Source Cues |
-|---|------|--------|---------|-------------|
-| 0 | `herve` (Hervé) | C'est horrible, vraiment horrible! | It is horrible, truly horrible! | 413:C'est horrible |
-| 1 | `herve` (Hervé) | Tu n'es pas dans le train? | Are you not on the train? | 414:dans le train |
-| 2 | `noemie` (Noémie) | Non, je n'y vais plus. | No, I am not going anymore. | 415:je n'y vais plus |
-| 3 | `herve` (Hervé) | Mais pourquoi ce changement soudain? | But why this sudden change? | 416:Pourquoi |
-| 4 | `noemie` (Noémie) | Le moment était vraiment mal choisi. | The timing was really poorly chosen. | 417:le moment était vraiment mal choisi |
-| 5 | `noemie` (Noémie) | Tu peux y aller si tu veux. | You can go if you want. | 423:Tu peux y aller si tu veux |
-| 6 | `noemie` (Noémie) | Je garderai la maison tout seul. | I will hold down the fort all alone. | 424:garderai la maison |
-| 7 | `herve` (Hervé) | Tu es sûre de ton choix? | Are you sure of your choice? | 427:T'es sûre |
-| 8 | `herve` (Hervé) | Tu as prévenu Mathias? | Have you warned Mathias? | 430:tu as prévenu Mathias |
-| 9 | `noemie` (Noémie) | J'ai dit que j'étais malade. | I said that I was sick. | 431:j'ai dit que j'étais malade |
-| 10 | `herve` (Hervé) | Tu pleures, Noémie? | Are you crying, Noémie? | 435:Tu pleures, Noémie |
-| 11 | `herve` (Hervé) | C'est à cause d'un homme? | Is it because of a man? | 437:C'est un homme |
-| 12 | `noemie` (Noémie) | Oui, mais je vais m'en remettre. | Yes, but I will get over it. | 438:Oui |
-| 13 | `herve` (Hervé) | Je vais rester ici aussi. | I will stay here too. | 443:rester ici aussi |
-| 14 | `noemie` (Noémie) | Merci pour ton soutien, Hervé! | Thank you for your support, Hervé! | 446:Merci, Hervé |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 5 — Outro & Closing
-> Comforting a tearful Noémie over her secret heartbreak, Hervé decides to stay behind in Paris so they can look after the office together. See you next time!
-- **Closing**: `herve`: *Bonne journée!*
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+|---|---|---|---|---|---|
+| 1 | Hervé | C'est horrible, vraiment horrible! | It is horrible, truly horrible! | #413: C'est horrible | verbatim |
+| 2 | Hervé | Tu n'es pas dans le train? | Are you not on the train? | #414: dans le train | verbatim |
+| 3 | Noémie | Non, je n'y vais plus. | No, I am not going anymore. | #415: je n'y vais plus | verbatim |
+| 4 | Hervé | Mais pourquoi ce changement soudain? | But why this sudden change? | #416: Pourquoi | verbatim |
+| 5 | Noémie | Le moment était vraiment mal choisi. | The timing was really poorly chosen. | #417: le moment était vraiment mal choisi | verbatim |
+| 6 | Noémie | Tu peux y aller si tu veux. | You can go if you want. | #423: Tu peux y aller si tu veux | verbatim |
+| 7 | Noémie | Je garderai la maison tout seul. | I will hold down the fort all alone. | #424: garderai la maison | verbatim |
+| 8 | Hervé | Tu es sûre de ton choix? | Are you sure of your choice? | #427: T'es sûre | verbatim |
+| 9 | Hervé | Tu as prévenu Mathias? | Have you warned Mathias? | #430: tu as prévenu Mathias | verbatim |
+| 10 | Noémie | J'ai dit que j'étais malade. | I said that I was sick. | #431: j'ai dit que j'étais malade | verbatim |
+| 11 | Hervé | Tu pleures, Noémie? | Are you crying, Noémie? | #435: Tu pleures, Noémie | verbatim |
+| 12 | Hervé | C'est à cause d'un homme? | Is it because of a man? | #437: C'est un homme | verbatim |
+| 13 | Noémie | Oui, mais je vais m'en remettre. | Yes, but I will get over it. | #438: Oui | verbatim |
+| 14 | Hervé | Je vais rester ici aussi. | I will stay here too. | #443: rester ici aussi | verbatim |
+| 15 | Noémie | Merci pour ton soutien, Hervé! | Thank you for your support, Hervé! | #446: Merci, Hervé | verbatim |
+
+## Walk-through narration (English only, no target-language words quoted)
+
+- 'It is horrible, truly horrible!' Hervé vents about a bizarre dog incident outside. The intensifying adverb underscores his distress.
+- 'Are you not on the train?' Hervé is surprised to find Noémie still at the office. The negative question form questions her missed departure.
+- 'No, I am not going anymore.' Noémie reveals that she cancelled her trip to Cannes. The adverbial pronoun refers to the canceled destination.
+- 'But why this sudden change?' Hervé inquires about her sudden reversal. The question form adverb seeks an explanation for her decision.
+- 'The timing was really poorly chosen.' She makes an excuse about poor timing. The evaluative adverbial phrase justifies backing out.
+- 'You can go if you want.' Noémie offers her colleague the opportunity to attend the festival instead. The key word here means 'can', paired with 'wish' to make the point clear.
+- 'I will hold down the fort all alone.' She volunteers to manage the agency office in Paris. The simple future verb expresses selfless commitment.
+- 'Are you sure of your choice?' Hervé checks if she truly wants to stay behind. The predicate adjective inquires about her certainty.
+- 'Have you warned Mathias?' He asks whether her boss and lover knows she cancelled. The verb meaning 'have' anchors the whole remark.
+- 'I said that I was sick.' Noémie admits to telling a white lie to cover up her heartache. The key word here means 'I have', paired with 'unwell' to make the point clear.
+- 'Are you crying, Noémie?' Hervé notices tears welling up in her eyes. The direct address conveys gentle concern.
+- 'Is it because of a man?' He intuitively suspects romantic heartbreak behind her tears. The prepositional phrase targets the emotional cause.
+- 'Yes, but I will get over it.' Noémie acknowledges the pain while trying to stay brave. The pronominal verb construction expresses emotional recovery.
+- 'I will stay here too.' Touched by her distress, Hervé decides to keep her company in Paris. The near-future verb form shows spontaneous loyalty.
+- 'Thank you for your support, Hervé!' She appreciates his comforting presence during a difficult moment. Listen for the expression meaning 'loyal support', which leads naturally into 'loyal support'.

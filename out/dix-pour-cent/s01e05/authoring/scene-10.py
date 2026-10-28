@@ -7,15 +7,14 @@ SCENE = 10
 TITLE = 'Envoyez des fleurs à Marie-Sophie  (Send Flowers to Marie-Sophie)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'mathias': 'marcel', 'noemie': 'emilie'}
-LABELS = {'mathias': 'Mathias', 'noemie': 'Noémie'}
+LABELS = {'camille': 'Camille', 'mathias': 'Mathias', 'noemie': 'Noémie'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e05.fr.dual.srt'
 INTRO = "Mathias steps out to the assistants' desks to try to save his client with a bouquet of flowers, just as the actor Zinedine Soualem walks in unannounced. Listen to the French first, without worrying about catching every word."
 OPENER = "Let's walk through it step by step. Mathias comes out of his office and gives Noémie an urgent task."
 TRANSITION = "Now let's listen to the whole scene again."
 OUTRO = "Camille knows just how much the women in her mother's hairdressing salon love Doctor Ryan. See you next time!"
-CLOSING = ('mathias', 'Au revoir!')
+CLOSING = ('camille', 'Au revoir!')
 STORY = [
     ('mathias', "Noémie, envoyez des fleurs à Marie-Sophie Garnier, s'il vous plaît.", 'Noémie, send flowers to Marie-Sophie Garnier, please.', [(179, "Noémie, envoyez des fleurs à Marie-Sophie Garnier, s'il vous plaît")], ''),
     ('mathias', 'Signez le mot: Chère Marie-Sophie, je suis désolé.', 'Sign the note: Dear Marie-Sophie, I am sorry.', [(180, 'Signez le mot'), (180, 'Chère Marie-Sophie, je suis désolé')], ''),
@@ -27,12 +26,12 @@ STORY = [
     ('noemie', "C'est bon, il est parti.", 'It', [(193, "C'est bon, il est parti")], ''),
     ('mathias', "N'oublie pas les fleurs pour Marie-Sophie Garnier.", 'Don', [(194, "N'oublie pas les fleurs pour Marie-Sophie Garnier")], ''),
     ('noemie', "Bien sûr. Interflora, s'il vous plaît.", 'Of course. Interflora, please.', [(195, 'Bien sûr'), (202, "Interflora, s'il vous plaît")], ''),
-    ('mathias', "C'est vrai qu'ils vont tuer Ryan?", 'Is it true that they', [(196, "C'est vrai qu'ils vont tuer Ryan")], ''),
+    ('camille', "C'est vrai qu'ils vont tuer Ryan?", 'Is it true that they', [(196, "C'est vrai qu'ils vont tuer Ryan")], ''),
     ('noemie', "Ce n'est pas possible!", 'That', [(197, 'Pas possible')], ''),
-    ('mathias', 'Ma mère va être très triste.', 'My mother is going to be very sad.', [(198, 'Ma mère va être')], ''),
-    ('mathias', 'Elle regarde la série tous les jours!', 'She watches the series every day!', [(198, 'Elle regarde'), (198, 'tous les jours')], ''),
-    ('mathias', 'Si je lui dis ça, elle va organiser des manifestations!', 'If I tell her that, she', [(199, 'Si je lui dis, elle va organiser des')], ''),
-    ('mathias', 'Ma mère va être très surprise dans son salon!', 'My mother is going to be very surprised in her salon!', [(201, 'dans le salon de ma mère')], ''),
+    ('camille', 'Ma mère va être très triste.', 'My mother is going to be very sad.', [(198, 'Ma mère va être')], ''),
+    ('camille', 'Elle regarde la série tous les jours!', 'She watches the series every day!', [(198, 'Elle regarde'), (198, 'tous les jours')], ''),
+    ('camille', 'Si je lui dis ça, elle va organiser des manifestations!', 'If I tell her that, she', [(199, 'Si je lui dis, elle va organiser des')], ''),
+    ('camille', 'Ma mère va être très surprise dans son salon!', 'My mother is going to be very surprised in her salon!', [(201, 'dans le salon de ma mère')], ''),
 ]
 WALK = [
     (0, None, "'Noémie, send flowers to Marie-Sophie Garnier, please.' Notice that Mathias uses the formal command here in the open office."),

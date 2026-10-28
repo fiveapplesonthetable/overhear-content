@@ -10,32 +10,32 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Шеф | Слушай, прости, пожалуйста. | Listen, forgive me, please. | #17 00:01:25: Слушай, прости, пожалуйста | verbatim |
-| 2 | Аня | А ты можешь сейчас быстренько им сказать. | Could you quickly go tell them right now? | #18 00:01:26: А ты можешь сейчас быстренько им сказать | verbatim |
-| 3 | Шеф | Вот это не очень интересно. | Now that is not very interesting. | #20 00:01:33: Вот это не очень интересно | verbatim |
-| 4 | Аня | А почему шеф-повар Фёдор Михайлович. | And why does it say head chef Fyodor Mikhailovich? | #20 00:01:33: А почему шеф-повар Фёдор Михайлович | verbatim |
-| 5 | Шеф | А не Арсений Андреевич, а? | And not Arseniy Andreyevich, huh? | #21 00:01:36: а не Арсений Андреевич, а | verbatim |
-| 6 | Аня | Я вас умоляю. | Oh, I beg of you. | #21 00:01:36: Я вас умоляю | verbatim |
-| 7 | Шеф | Вы себя видели? | Have you taken a look at yourself? | #22 00:01:39: Вы себя видели | verbatim |
-| 8 | Аня | А то, что вы и они. | Because of who you are and who they are. | #23 00:01:41: А то, что вы и они | verbatim |
-| 9 | Шеф | И чё? | And so what? | #23 00:01:41: И чё | verbatim |
-| 10 | Аня | По-французски звучит, конечно, красивее, но смысл тот же. | In French it sounds prettier, of course, but the meaning is the same. | #25 00:01:48: По-французски звучит, конечно, красивее, но смысл тот же | verbatim |
-| 11 | Шеф | А спорим. | Wanna bet on it? | #27 00:01:59: А спорим | verbatim |
-| 12 | Аня | Ты? Я? | You? And me? | #28 00:02:02: Ты? Я | verbatim |
-| 13 | Шеф | Давай, на три штуки. | Come on, for three grand. | #29 00:02:05: Давай, на три штуки | verbatim |
+| 1 | Шеф | Слушай, прости, пожалуйста. | Listen, forgive me, please. | #17: Слушай, прости, пожалуйста | verbatim |
+| 2 | Макс | А ты можешь сейчас быстренько им сказать. | Could you quickly go tell them right now? | #18: А ты можешь сейчас быстренько им сказать | verbatim |
+| 3 | Шеф | Вот это не очень интересно. | Now that is not very interesting. | #20: Вот это не очень интересно | verbatim |
+| 4 | Макс | А почему шеф-повар Фёдор Михайлович. | And why does it say head chef Fyodor Mikhailovich? | #20: А почему шеф-повар Фёдор Михайлович | verbatim |
+| 5 | Шеф | А не Арсений Андреевич, а? | And not Arseniy Andreyevich, huh? | #21: а не Арсений Андреевич, а | verbatim |
+| 6 | Макс | Я вас умоляю. | Oh, I beg of you. | #21: Я вас умоляю | verbatim |
+| 7 | Шеф | Вы себя видели? | Have you taken a look at yourself? | #22: Вы себя видели | verbatim |
+| 8 | Макс | А то, что вы и они. | Because of who you are and who they are. | #23: А то, что вы и они | verbatim |
+| 9 | Шеф | И чё? | And so what? | #23: И чё | verbatim |
+| 10 | Макс | По-французски звучит, конечно, красивее, но смысл тот же. | In French it sounds prettier, of course, but the meaning is the same. | #25: По-французски звучит, конечно, красивее, но смысл тот же | verbatim |
+| 11 | Шеф | А спорим. | Wanna bet on it? | #27: А спорим | verbatim |
+| 12 | Макс | Ты? Я? | You? And me? | #28: Ты? Я | verbatim |
+| 13 | Шеф | Давай, на три штуки. | Come on, for three grand. | #29: Давай, на три штуки | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Listen, forgive me, please.' Here the Russian phrasing highlights 'listen' before landing on 'there you go'.
-- 'Could you quickly go tell them right now?' Max brings out the contrast between 'and' and 'you' in a few short words.
-- 'Now that is not very interesting.' Spoken Russian keeps this brisk, leaning on 'there you go' and finishing on 'interesting'. Max answers right away.
-- 'And why does it say head chef Fyodor Mikhailovich?' Max brings out the contrast between 'and' and 'why' in a few short words.
-- 'And not Arseniy Andreyevich, huh?' Here the Russian phrasing highlights 'and' before landing on 'andreyevich'.
-- 'Oh, I beg of you.' Spoken Russian keeps this brisk, leaning on 'I' and finishing on 'I beg'. Chef Viktor answers right away.
-- 'Have you taken a look at yourself?' Chef Viktor anchors the line on 'you', while 'saw' completes the thought.
-- 'Because of who you are and who they are.' Max anchors the line on 'and', while 'they' completes the thought.
-- 'And so what?' Chef Viktor raises the pitch on 'what' to turn the phrase into a direct spoken question. Max answers right away.
-- 'In French it sounds prettier, of course, but the meaning is the same.' The grammar packs 'in French' and 'already' into a tight, idiomatic kitchen exchange.
-- 'Wanna bet on it?' Spoken Russian keeps this brisk, leaning on 'and' and finishing on 'wanna bet'.
-- 'You? And me?' In spoken Russian, the words stay in their normal statement order and Max's rising voice at the end turns the line into a question.
-- 'Come on, for three grand.' The meaning hinges on 'let's' working together with 'thing' in spoken Russian.
+- 'Listen, forgive me, please.' Around the morning and room, Barinov sets a calm, everyday tone with Max.
+- 'Could you quickly go tell them right now?' By asking whether Barinov quickly go tell them right now, Max presses Barinov for a straight answer. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Now that is not very interesting.' Once that is not very interesting, Barinov can finally tell Max what he means.
+- 'And why does it say head chef Fyodor Mikhailovich?' Asking why it say head Mikhailovich is how Max puts Barinov on the spot.
+- 'And not Arseniy Andreyevich, huh?' Over the shift and the bet, Barinov presses Max for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Oh, I beg of you.' Because he begs of Barinov, Max treats the matter as settled.
+- 'Have you taken a look at yourself?' Asking whether Max taken a look at themselves cuts straight through the tension between Barinov and Max. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
+- 'Because of who you are and who they are.' Max tells Barinov that because of who Barinov is and who they are without dressing it up. Notice how he sticks to the formal "you", keeping a professional line between them.
+- 'And so what?' Over the moment and the bet, Barinov presses Max for a straight answer.
+- 'In French it sounds prettier, of course, but the meaning is the same.' Explaining that in French it sounds prettier of course but the meaning is the same lays the cards on the table for Barinov.
+- 'Wanna bet on it?' With the moment and bet hanging in the air, Barinov puts Max on the spot.
+- 'You? And me?' With the moment and guest hanging in the air, Max puts Barinov on the spot.
+- 'Come on, for three grand.' Coming on for three grand is how Barinov lays out the situation for Max. Starting with "davay" is the everyday Russian way to say "come on, let us do this".

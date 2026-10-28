@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Вика | Что ты здесь делаешь? | What are you doing here? | #161 00:12:04: Что ты здесь делаешь | adapted: adapted |
-| 2 | Аня | Кто-то должен отвезти тебя на работу. | Someone has to drive you to work. | #162 00:12:06: кто-то должен отвезти тебя на работу | adapted: adapted |
-| 3 | Гость | Всё нормально? А вы муж Вики? | Is everything alright? Are you Vika's husband? | #163 00:12:10: Все нормально<br>#164 00:12:12: А вы муж Вики | adapted: adapted |
-| 4 | Вика | Нет, это просто мой водитель. | No, this is just my driver. | #165 00:12:14: Нет, это просто мой водитель | adapted: adapted |
-| 5 | Аня | Да Вика шутит, слушай, какой водитель? | Vika is joking, listen, what driver? | #166 00:12:16: Да Вика шутит<br>#167 00:12:18: Слушай, какой водитель | adapted: adapted |
-| 6 | Вика | А, забыла, прости, просто повар. | Ah, I forgot, sorry, just a cook. | #168 00:12:20: А, забыла, прости<br>#169 00:12:23: Просто повар | adapted: adapted |
-| 7 | Аня | Ты меня стесняешься? Макс, что ты несёшь? | Are you embarrassed by me? Max, what are you babbling about? | #170 00:12:25: Ты меня стесняешься? Макс, что ты несешь | adapted: adapted |
-| 8 | Аня | Любимая, жду тебя в машине, на работу надо возвращаться. | Darling, I am waiting for you in the car, you need to return to work. | #172 00:12:33: Любимая, жду тебя в машине<br>#173 00:12:35: На работу надо возвращаться | adapted: adapted |
-| 9 | Аня | А то хозяин отеля уволит. | Otherwise the owner of the hotel will fire you. | #174 00:12:37: А то хозяин отеля уволит | adapted: adapted |
-| 10 | Аня | Это она у меня в отеле работает, шутка такая. | She works at my hotel, it is a little joke. | #175 00:12:41: Это она у меня в отеле работает<br>#176 00:12:42: Шутка такая | adapted: adapted |
-| 11 | Гость | А у вас свой отель? | Do you have your own hotel? | #176 00:12:42: А у вас свой отель | adapted: adapted |
-| 12 | Аня | Да, и ресторан, но начинал я водителем. | Yes, and a restaurant, though I started out as a driver. | #177 00:12:45: Да. Ресторан<br>#178 00:12:48: Но начинал я водителем | adapted: adapted |
+| 1 | Вика | Что ты здесь делаешь? | What are you doing here? | #161: Что ты здесь делаешь | adapted: adapted |
+| 2 | Макс | Кто-то должен отвезти тебя на работу. | Someone has to drive you to work. | #162: кто-то должен отвезти тебя на работу | adapted: adapted |
+| 3 | Гость | Всё нормально? А вы муж Вики? | Is everything alright? Are you Vika's husband? | #163: Все нормально<br>#164: А вы муж Вики | adapted: adapted |
+| 4 | Вика | Нет, это просто мой водитель. | No, this is just my driver. | #165: Нет, это просто мой водитель | adapted: adapted |
+| 5 | Макс | Да Вика шутит, слушай, какой водитель? | Vika is joking, listen, what driver? | #166: Да Вика шутит<br>#167: Слушай, какой водитель | adapted: adapted |
+| 6 | Вика | А, забыла, прости, просто повар. | Ah, I forgot, sorry, just a cook. | #168: А, забыла, прости<br>#169: Просто повар | adapted: adapted |
+| 7 | Макс | Ты меня стесняешься? Макс, что ты несёшь? | Are you embarrassed by me? Max, what are you babbling about? | #170: Ты меня стесняешься? Макс, что ты несешь | adapted: adapted |
+| 8 | Макс | Любимая, жду тебя в машине, на работу надо возвращаться. | Darling, I am waiting for you in the car, you need to return to work. | #172: Любимая, жду тебя в машине<br>#173: На работу надо возвращаться | adapted: adapted |
+| 9 | Макс | А то хозяин отеля уволит. | Otherwise the owner of the hotel will fire you. | #174: А то хозяин отеля уволит | adapted: adapted |
+| 10 | Макс | Это она у меня в отеле работает, шутка такая. | She works at my hotel, it is a little joke. | #175: Это она у меня в отеле работает<br>#176: Шутка такая | adapted: adapted |
+| 11 | Гость | А у вас свой отель? | Do you have your own hotel? | #176: А у вас свой отель | adapted: adapted |
+| 12 | Макс | Да, и ресторан, но начинал я водителем. | Yes, and a restaurant, though I started out as a driver. | #177: Да. Ресторан<br>#178: Но начинал я водителем | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What are you doing here?' Vika addresses the listener with the informal singular 'you' alongside 'are doing'.
-- 'Someone has to drive you to work.' The meaning hinges on 'someone' working together with 'work' in spoken Russian.
-- 'Is everything alright? Are you Vika's husband?' the guest chooses the respectful plural 'you' alongside 'Vika' to keep a polite distance. Vika answers right away.
-- 'No, this is just my driver.' Vika anchors the line on 'no', while 'driver' completes the thought.
-- 'Vika is joking, listen, what driver?' In Russian, the idea of 'yes' flows naturally into 'driver' without extra filler words.
-- 'Ah, I forgot, sorry, just a cook.' Spoken Russian keeps this brisk, leaning on 'and' and finishing on 'cook'. Max answers right away.
-- 'Are you embarrassed by me? Max, what are you babbling about?' Max raises the pitch on 'are babbling' to turn the phrase into a direct spoken question.
-- 'Darling, I am waiting for you in the car, you need to return to work.' The meaning hinges on 'favourite' working together with 'to return' in spoken Russian.
-- 'Otherwise the owner of the hotel will fire you.' Notice how Russian expresses 'and' and 'will fire' with crisp inflection rather than helper words.
-- 'She works at my hotel, it is a little joke.' Here the Russian phrasing highlights 'this' before landing on 'so'.
-- 'Do you have your own hotel?' the guest chooses the respectful plural 'you' alongside 'hotel' to keep a polite distance.
-- 'Yes, and a restaurant, though I started out as a driver.' The '-l' ending on the verb meaning 'to begin' places the action in the masculine past tense.
+- 'What are you doing here?' Asking what the guest doing here is cuts straight through the tension between Vika and the guest.
+- 'Someone has to drive you to work.' Since someone has to drive the guest to work, Max does not waste words on excuses. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Is everything alright? Are you Vika's husband?' Here checking whether everything alright shows the guest looking for the real truth. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
+- 'No, this is just my driver.' Vika tells the guest that this is just her driver without dressing it up.
+- 'Vika is joking, listen, what driver?' Questioning whether Vika is joking listen what driver is how Max tests the guest's story. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Ah, I forgot, sorry, just a cook.' Explaining that she forgot sorry just a cook lays the cards on the table for the guest.
+- 'Are you embarrassed by me? Max, what are you babbling about?' Here asking whether the guest embarrassed by him shows Max looking for the real truth.
+- 'Darling, I am waiting for you in the car, you need to return to work.' Even though he is waiting for the guest in the car the guest needs to return to work, Max keeps a steady face in front of the guest. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
+- 'Otherwise the owner of the hotel will fire you.' Pointing out that otherwise the owner of the hotel will fire the guest gives the guest a sobering reality check.
+- 'She works at my hotel, it is a little joke.' Max explains that she works at his hotel it is a little joke, keeping his voice calm and direct.
+- 'Do you have your own hotel?' Here checking whether Max has Max's own hotel shows the guest looking for the real truth. Russian expresses having something as "by me is", keeping the phrase short and grounded.
+- 'Yes, and a restaurant, though I started out as a driver.' Noting that a restaurant though he started out as a driver keeps Max's side of the story simple and clear.

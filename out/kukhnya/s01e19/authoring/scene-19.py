@@ -4,30 +4,29 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 19
 SCENE = 19
-TITLE = "Ответ  (The Answer)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Ответ  (The Answer)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "vika": "angelina", "anya": "alisa"}
-LABELS = {"vika": "Вика", "anya": "Макс"}
+LABELS = {'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.19'
 SOURCE_FILE = 'sources/kukhnya/s01/e19.ru.dual.srt'
 INTRO = "Focused on the answer, Max asks if Vika agrees to be his girlfriend. Let's listen closely to Vika and Max's exchange in Russian first, and then walk through each line together."
 OPENER = 'Now let us examine the conversation line by line.'
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Max asks if Vika agrees to be his girlfriend. Next time you watch the episode, listen for the Russian expressions for 'so' and 'too' — you will catch every word right away. See you next time!"
-CLOSING = ("vika", "Пока!")
+CLOSING = ('vika', 'Пока!')
 STORY = [
-    ('anya', 'Это значит да?', 'Does that mean yes?', [(378, 'значит да?')], ''),
+    ('max', 'Это значит да?', 'Does that mean yes?', [(378, 'значит да?')], ''),
     ('vika', 'Да.', 'Yes.', [], ''),
-    ('anya', 'Я так рад.', 'I am so glad.', [], ''),
+    ('max', 'Я так рад.', 'I am so glad.', [], ''),
     ('vika', 'Я тоже рада.', 'I am also glad.', [], ''),
-    ('anya', 'Теперь мы вместе.', 'Now we are together.', [], ''),
+    ('max', 'Теперь мы вместе.', 'Now we are together.', [], ''),
     ('vika', 'Да, мы вместе.', 'Yes, we are together.', [], ''),
-    ('anya', 'Это прекрасно.', 'This is wonderful.', [], ''),
+    ('max', 'Это прекрасно.', 'This is wonderful.', [], ''),
     ('vika', 'Очень.', 'Very.', [], ''),
-    ('anya', 'Я люблю тебя.', 'I love you, Max.', [], ''),
+    ('max', 'Я люблю тебя.', 'I love you, Max.', [], ''),
     ('vika', 'Я люблю тебя, Макс.', 'I love you, Max.', [], ''),
-    ('anya', 'Наконец-то.', 'I am so glad, Max.', [], ''),
+    ('max', 'Наконец-то.', 'I am so glad, Max.', [], ''),
     ('vika', 'Я так рада, Макс.', 'I am so glad, Max.', [], ''),
 ]
 WALK = [

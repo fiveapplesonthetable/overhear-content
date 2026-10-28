@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Денис | Я выиграл счастливый билет. | I won a lucky ticket. | #1 00:00:25: я выиграл счастливый билет | adapted: adapted |
-| 2 | Денис | Когда зарождаются новые отношения? | When do new relationships begin? | #3 00:00:52: Когда зарождаются отношения | adapted: adapted |
-| 3 | Денис | Тогда вспыхивает яркое пламя. | Then a bright flame flares up. | #4 00:00:55: вспыхивает яркое пламя | adapted: adapted |
-| 4 | Денис | Со временем пламя может потухнуть. | Over time a flame can go out. | #5 00:01:03: со временем любое пламя может потухнуть | adapted: adapted |
-| 5 | Денис | Но достаточно только одной искры. | But just one spark is enough. | #6 00:01:14: достаточно одной искры | adapted: adapted |
-| 6 | Денис | Ты сегодня опять убегаешь? | Are you running away again today? | #7 00:01:30: Опять убегаешь | adapted: adapted |
-| 7 | Катя | Нет, я не убегаю. | No, I am not running away. | #8 00:01:33: Нет | adapted: adapted |
-| 8 | Катя | Просто всё так быстро происходит. | Everything is just happening so fast. | #9 00:01:34: просто все как-то так быстро происходит | adapted: adapted |
+| 1 | Денис | Я выиграл счастливый билет. | I won a lucky ticket. | #1: я выиграл счастливый билет | adapted: adapted |
+| 2 | Денис | Когда зарождаются новые отношения? | When do new relationships begin? | #3: Когда зарождаются отношения | adapted: adapted |
+| 3 | Денис | Тогда вспыхивает яркое пламя. | Then a bright flame flares up. | #4: вспыхивает яркое пламя | adapted: adapted |
+| 4 | Денис | Со временем пламя может потухнуть. | Over time a flame can go out. | #5: со временем любое пламя может потухнуть | adapted: adapted |
+| 5 | Денис | Но достаточно только одной искры. | But just one spark is enough. | #6: достаточно одной искры | adapted: adapted |
+| 6 | Денис | Ты сегодня опять убегаешь? | Are you running away again today? | #7: Опять убегаешь | adapted: adapted |
+| 7 | Катя | Нет, я не убегаю. | No, I am not running away. | #8: Нет | adapted: adapted |
+| 8 | Катя | Просто всё так быстро происходит. | Everything is just happening so fast. | #9: просто все как-то так быстро происходит | adapted: adapted |
 | 9 | Денис | Тебе со мной сейчас плохо? | Do you feel bad with me right now? | new | new: new |
 | 10 | Катя | Мне с тобой очень хорошо. | I feel very good with you. | new | new: new |
-| 11 | Денис | Катя, я тебя прошу, останься. | Katya, I beg you, stay. | #10 00:01:43: Катя, я тебя прошу, останься | verbatim |
+| 11 | Денис | Катя, я тебя прошу, останься. | Katya, I beg you, stay. | #10: Катя, я тебя прошу, останься | verbatim |
 | 12 | Катя | Ладно, я ещё немного побуду. | All right, I will stay a little longer. | new | new: new |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I won a lucky ticket.' Notice how Russian puts 'won' and 'ticket' together in a short, direct phrase where word endings show how the ideas connect.
-- 'When do new relationships begin?' Here Denis anchors the thought on 'when' and finishes on 'relationship', keeping the spoken rhythm brisk and natural.
-- 'Then a bright flame flares up.' The neuter singular noun for flame takes a neuter adjective and a third-person singular verb.
-- 'Over time a flame can go out.' Denis pairs 'time' with 'to out' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
-- 'But just one spark is enough.' Spoken Russian keeps this brief and expressive, built right around 'enough' without extra helper words.
-- 'Are you running away again today?' In spoken Russian, the words stay in their normal statement order and Denis's rising voice at the end turns the line into a question.
-- 'No, I am not running away.' Katya denies leaving by negating the first-person singular form of the same motion verb.
-- 'Everything is just happening so fast.' A neuter singular pronoun serves as the subject of a third-person singular verb meaning happens.
-- 'Do you feel bad with me right now?' In spoken Russian, the words stay in their normal statement order and Denis's rising voice at the end turns the line into a question.
-- 'I feel very good with you.' Here Katya anchors the thought on 'very, really' and finishes on 'good, well, all right', keeping the spoken rhythm brisk and natural.
-- 'Katya, I beg you, stay.' In everyday Russian, 'ask for' flows straight into 'to remain, to be left' without extra linking words.
-- 'All right, I will stay a little longer.' Katya pairs 'still, yet, more' with 'to stay for a while, to be' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
+- 'I won a lucky ticket.' Mentioning that he won a lucky ticket moves the talk in a new direction.
+- 'When do new relationships begin?' By asking when new relationships begin, Denis presses Katya for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Then a bright flame flares up.' With the moment and ticket in play, Denis keeps this short reply brisk and direct.
+- 'Over time a flame can go out.' Explaining that over time a flame can go out lays the cards on the table for Katya.
+- 'But just one spark is enough.' Denis mentions that just one spark is enough so Katya sees what is at stake.
+- 'Are you running away again today?' By checking whether Katya running away again today, Denis presses Katya for a straight answer. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'No, I am not running away.' Mentioning that she is not running away moves the talk in a new direction.
+- 'Everything is just happening so fast.' Katya explains that everything is just happening so fast, keeping her voice calm and direct.
+- 'Do you feel bad with me right now?' Here checking whether Katya feels bad with him right now shows Denis looking for the real truth. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'I feel very good with you.' Feeling very good with Denis is how Katya lays out the situation for Denis.
+- 'Katya, I beg you, stay.' Admitting that he begs Katya stays shows Denis being honest for a change. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'All right, I will stay a little longer.' Realizing that all right she will stay a little longer changes how Katya handles the situation.

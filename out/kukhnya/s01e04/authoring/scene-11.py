@@ -4,36 +4,35 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 4
 SCENE = 11
-TITLE = "Девчонки любят смелых  (Girls Like a Guy with Guts)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Девчонки любят смелых  (Girls Like a Guy with Guts)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "kostya": "anja", "anya": "alisa"}
-LABELS = {"kostya": "Костя", "anya": "Макс"}
+LABELS = {'kostya': 'Костя', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.04'
 SOURCE_FILE = 'sources/kukhnya/s01/e04.ru.dual.srt'
 INTRO = "Near the dining room entrance, novice cook Max hesitates anxiously, uncertain whether to approach glamorous art director Vika. Bartender Kostya notices his hesitation and offers encouraging romantic advice, urging Max to take the initiative with confidence. Let's listen to their conversation in Russian first."
 OPENER = "Let's replay a few lines to examine key phrases and vocabulary."
 TRANSITION = "Now let's listen to the conversation again without interruption."
 OUTRO = "Max takes a deep breath and prepares to walk toward Vika. Next time you watch the episode, listen for the Russian expressions for 'to be afraid' and 'forever' — you will catch every word right away. See you next time!"
-CLOSING = ("anya", "Пока!")
+CLOSING = ('max', 'Пока!')
 STORY = [
     ('kostya', 'Опять смотришь на неё издалека?', 'Watching her from afar again?', [], ''),
-    ('anya', 'Она кажется такой недоступной сегодня.', 'She seems so unapproachable today.', [], ''),
+    ('max', 'Она кажется такой недоступной сегодня.', 'She seems so unapproachable today.', [], ''),
     ('kostya', 'Хватит стоять и просто смотреть.', 'Stop standing and merely watching.', [], ''),
-    ('anya', 'А что мне делать, Костя?', 'And what should I do, Kostya?', [], ''),
+    ('max', 'А что мне делать, Костя?', 'And what should I do, Kostya?', [], ''),
     ('kostya', 'Прояви инициативу прямо сейчас!', 'Take the initiative right now!', [(145, 'Прояви инициативу')], ''),
-    ('anya', 'Думаешь, это хорошая идея?', 'Do you think that is a good idea?', [], ''),
+    ('max', 'Думаешь, это хорошая идея?', 'Do you think that is a good idea?', [], ''),
     ('kostya', 'Девчонки любят смелых парней.', 'Girls like brave guys.', [(145, 'Девчонки любят смелых')], ''),
-    ('anya', 'А если она прогонит меня?', 'And what if she sends me away?', [], ''),
+    ('max', 'А если она прогонит меня?', 'And what if she sends me away?', [], ''),
     ('kostya', 'Тогда ты хотя бы попробовал.', 'Then at least you tried.', [], ''),
-    ('anya', 'Ты прав, нельзя вечно бояться.', 'You are right, one cannot be afraid forever.', [], ''),
+    ('max', 'Ты прав, нельзя вечно бояться.', 'You are right, one cannot be afraid forever.', [], ''),
     ('kostya', 'Подойди и уверенно заговори с ней.', 'Walk over and talk with her confidently.', [], ''),
-    ('anya', 'Спасибо за совет, я сделаю это!', 'Thanks for the advice, I will do it!', [], ''),
+    ('max', 'Спасибо за совет, я сделаю это!', 'Thanks for the advice, I will do it!', [], ''),
     ('kostya', 'Удачи, друг, покажи свою смелость.', 'Good luck, my friend, show your courage.', [], ''),
 ]
 WALK = [
-    (0, None, "'She seems so unapproachable today.' Max confides, admiring Vika from across the dining room."),
-    (1, None, "'Take the initiative right now!' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (2, None, "'Girls love brave guys.' the bartender declares, quoting the popular romantic maxim."),
-    (3, None, "'Thanks for the advice, I'll do it!' Max resolves, gathering up his courage to approach Vika. Now listen to the full hallway conversation once more. Now let's listen to the whole conversation again from start to finish."),
+    (1, None, "'She seems so unapproachable today.' Max confides, admiring Vika from across the dining room."),
+    (4, None, "'Take the initiative right now!' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
+    (6, None, "'Girls love brave guys.' the bartender declares, quoting the popular romantic maxim."),
+    (11, None, "'Thanks for the advice, I'll do it!' Max resolves, gathering up his courage to approach Vika. Now listen to the full hallway conversation once more. Now let's listen to the whole conversation again from start to finish."),
 ]

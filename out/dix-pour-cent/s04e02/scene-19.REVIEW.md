@@ -1,31 +1,43 @@
-# Review: `dix-pour-cent-s04e02-scene-19` — Le prix du métier  (The Price of the Trade)
+# dix-pour-cent-s04e02-scene-19: review sheet
 
-- **Source**: `sources/dix-pour-cent/s04/e02.fr.dual.srt`
-- **Level**: A1 — débutant
-- **Voices**: `{"narrator": "sky", "mathias": "marcel", "elise": "emilie"}`
-- **Labels**: `{"mathias": "Mathias", "elise": "Élise"}`
+Title: Le prix du métier  (The Price of the Trade)
+Level: A1 — débutant
+Pair: fr-en
+Source: Dix pour cent (Call My Agent!) S04E02
 
-## Part 1 — Intro
-> Late at night, Elise Formet calls Mathias Barneville to deliver major industry news. While confirming that superstar Dany Boon has agreed to sign, Elise confronts Mathias on the cynical maneuvering required to win, forcing him to reflect on the nature of their business. Let's listen to their conversation in French first.
 
-## Part 2 — Story Lines
-| # | Role | French | English | Source Cues |
-|---|------|--------|---------|-------------|
-| 0 | `elise` (Élise) | Allô Mathias? Oui, c'est enfin fait. | Hello Mathias? Yes, it is finally done. | 1024:Allô, 1024:c'est fait |
-| 1 | `mathias` (Mathias) | Dany Boon va signer chez nous? | Is Dany Boon signing with us? | 1025:signer avec vous |
-| 2 | `elise` (Élise) | Oui, il a accepté notre offre. | Yes, he accepted our offer. | 1025:signer avec vous |
-| 3 | `mathias` (Mathias) | C'est une très bonne nouvelle, merci. | That is very good news, thank you. | 1026:pas l'air ravi |
-| 4 | `elise` (Élise) | Tu n'as pas l'air très ravi. | You do not seem very thrilled. | 1026:pas l'air ravi |
-| 5 | `mathias` (Mathias) | Je suis fatigué par ces négociations. | I am tired from these negotiations. | 1026:ce que vous vouliez |
-| 6 | `elise` (Élise) | Tu n'as jamais honte de manipuler? | Are you never ashamed of manipulating? | 1027:jamais honte, 1029:manipuler les gens |
-| 7 | `mathias` (Mathias) | Honte de quoi? D'obtenir des contrats? | Ashamed of what? Of getting contracts? | 1028:Honte de quoi |
-| 8 | `elise` (Élise) | De manipuler tous nos amis artistes? | Of manipulating all our artist friends? | 1029:manipuler les gens |
-| 9 | `mathias` (Mathias) | C'est notre métier, nous l'avons choisi. | It is our job, we chose it. | 1032:C'est notre métier, 1032:on l'a choisi |
-| 10 | `elise` (Élise) | Ce métier détruit nos belles amitiés. | This profession destroys our good friendships. | 1031:vraie question |
-| 11 | `mathias` (Mathias) | Les affaires demandent de la dureté. | Business demands toughness. | 1032:notre métier |
-| 12 | `elise` (Élise) | Je t'envoie les contrats signés demain. | I will send you signed contracts tomorrow. | 1033:envoyez les contrats demain |
-| 13 | `mathias` (Mathias) | D'accord, bonne soirée à toi, Élise. | All right, good evening to you, Elise. | 1034:D'accord |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 5 — Outro & Closing
-> Though victorious in securing Dany Boon, Mathias is left alone with the bitter truth of Elise's words. When you watch the episode, listen out for the expressions meaning 'done' and 'is going'. You'll catch them now. See you next time!
-- **Closing**: `mathias`: *À bientôt!*
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+|---|---|---|---|---|---|
+| 1 | Élise | Allô Mathias? Oui, c'est enfin fait. | Hello Mathias? Yes, it is finally done. | #1024: Allô<br>#1024: c'est fait | verbatim |
+| 2 | Mathias | Dany Boon va signer chez nous? | Is Dany Boon signing with us? | #1025: signer avec vous | verbatim |
+| 3 | Élise | Oui, il a accepté notre offre. | Yes, he accepted our offer. | #1025: signer avec vous | verbatim |
+| 4 | Mathias | C'est une très bonne nouvelle, merci. | That is very good news, thank you. | #1026: pas l'air ravi | verbatim |
+| 5 | Élise | Tu n'as pas l'air très ravi. | You do not seem very thrilled. | #1026: pas l'air ravi | verbatim |
+| 6 | Mathias | Je suis fatigué par ces négociations. | I am tired from these negotiations. | #1026: ce que vous vouliez | verbatim |
+| 7 | Élise | Tu n'as jamais honte de manipuler? | Are you never ashamed of manipulating? | #1027: jamais honte<br>#1029: manipuler les gens | verbatim |
+| 8 | Mathias | Honte de quoi? D'obtenir des contrats? | Ashamed of what? Of getting contracts? | #1028: Honte de quoi | verbatim |
+| 9 | Élise | De manipuler tous nos amis artistes? | Of manipulating all our artist friends? | #1029: manipuler les gens | verbatim |
+| 10 | Mathias | C'est notre métier, nous l'avons choisi. | It is our job, we chose it. | #1032: C'est notre métier<br>#1032: on l'a choisi | verbatim |
+| 11 | Élise | Ce métier détruit nos belles amitiés. | This profession destroys our good friendships. | #1031: vraie question | verbatim |
+| 12 | Mathias | Les affaires demandent de la dureté. | Business demands toughness. | #1032: notre métier | verbatim |
+| 13 | Élise | Je t'envoie les contrats signés demain. | I will send you signed contracts tomorrow. | #1033: envoyez les contrats demain | verbatim |
+| 14 | Mathias | D'accord, bonne soirée à toi, Élise. | All right, good evening to you, Elise. | #1034: D'accord | verbatim |
+
+## Walk-through narration (English only, no target-language words quoted)
+
+- 'Hello Mathias? Yes, it is finally done.' Elise delivers the long-awaited news. The clause hinges on the everyday verb meaning 'done'.
+- 'Is Dany Boon signing with us?' Mathias asks about the star client's signature. The clause hinges on the everyday verb meaning 'is going'.
+- 'Yes, he accepted our offer.' Elise confirms the client's consent. This conversational past tense combines a helper verb with the past verb form for 'accepted'.
+- 'That is very good news, thank you.' Mathias expresses measured appreciation. The adjective meaning 'good' takes its feminine form here to match the noun it describes.
+- 'You do not seem very thrilled.' Elise detects a lack of genuine joy. Elise uses the casual singular 'you' with 'have', showing close familiarity.
+- 'I am tired from these negotiations.' Mathias admits the weariness of endless wrangling. The descriptive adjective for 'tired' agrees in gender and number with its noun.
+- 'Are you never ashamed of manipulating?' Elise confronts him with an uncomfortable moral truth. Notice how 'have' leads directly into the noun meaning 'shame'.
+- 'Ashamed of what? Of getting contracts?' Mathias defends his business results. Notice how 'to obtain' leads directly into the noun meaning 'shame'.
+- 'Of manipulating all our artist friends?' Elise highlights the betrayal of personal relationships. In everyday spoken French, rising intonation on 'to manipulate' at the end is enough to turn the sentence into a question.
+- 'It is our job, we chose it.' Mathias reminds her of the rules of the agency trade. The verb meaning 'have' pairs naturally with the noun for 'job' in everyday conversation.
+- 'This profession destroys our good friendships.' Elise mourns the erosion of authentic bonds. Notice how 'destroys' leads directly into the noun meaning 'job'.
+- 'Business demands toughness.' Mathias explains the uncompromising demands of corporate survival. The verb meaning 'demand' pairs naturally with the noun for 'business' in everyday conversation.
+- 'I will send you signed contracts tomorrow.' Elise returns to immediate paperwork tasks. The verb meaning 'send' pairs naturally with the noun for 'contracts' in everyday conversation.
+- 'All right, good evening to you, Elise.' Mathias concludes the conversation pensively. Mathias uses the casual singular 'you' with 'evening', showing close familiarity.

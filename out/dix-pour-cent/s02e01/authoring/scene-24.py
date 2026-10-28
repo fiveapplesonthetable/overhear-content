@@ -7,8 +7,7 @@ SCENE = 24
 TITLE = "La décision de Catherine  (Catherine's Decision)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'mathias': 'marcel', 'catherine': 'emilie'}
-LABELS = {'mathias': 'Mathias', 'catherine': 'Catherine'}
+LABELS = {'catherine': 'Catherine', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e01.fr.dual.srt'
 INTRO = "At Catherine's apartment, Mathias Barneville arrives hoping for a calm conversation and a chance to repair their marriage. But Catherine has already made up her mind. Let's listen to the scene in French first."
@@ -52,6 +51,6 @@ WALK = [
     (13, None, "'She broke up with Ramzy, that is all.' The key word here means 'has', paired with 'it is' to make the point clear."),
     (14, None, "'You see, I do not believe you anymore.' The key word here means 'see', paired with 'anymore' to make the point clear."),
     (15, None, "'It is the truth, Catherine.' Mathias pleads his honesty."),
-    (16, None, "'I cannot take it anymore.' Listen for the expression meaning 'can', which leads naturally into 'anymore'."),
-    (17, None, "'We are getting a divorce.' The informal subject pronoun on used for we. Now let's listen to the whole discussion again without stopping."),
+    (16, "Je n'en peux plus.", "'I cannot take it anymore.' Listen for the expression meaning 'can', which leads naturally into 'anymore'."),
+    (16, 'On divorce.', "'We are getting a divorce.' The informal subject pronoun on used for we. Now let's listen to the whole discussion again without stopping."),
 ]

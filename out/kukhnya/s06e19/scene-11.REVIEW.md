@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Катя | Я про тебя рассказала Кате. | I already told Katya about you. | #168 00:11:54: про тебя уже рассказала Кате | adapted: adapted |
-| 2 | Катя | Всё, я тебя очень жду. | That is all, I am waiting for you eagerly. | #169 00:11:56: Все, я тебя жду | adapted: adapted |
-| 3 | Катя | Денис, это опять здесь ты? | Denis, is that you in here again? | #171 00:12:04: Опять ты | adapted: adapted |
-| 4 | Денис | Я тут ночью к тебе заходил. | I stopped by here at night. | #172 00:12:09: Я тут ночью | adapted: adapted |
-| 5 | Денис | Я вчера твоё платье украл. | I stole your dress yesterday. | #174 00:12:13: Твое платье украл | adapted: adapted |
-| 6 | Денис | Хотел свадьбу сорвать, но вернул. | I wanted to ruin the wedding, but returned it. | #174 00:12:13: Хотел свадьбу сорвать, а сейчас вернул | adapted: adapted |
-| 7 | Катя | Что, передумал срывать мою свадьбу? | What, did you change your mind about ruining my wedding? | #175 00:12:17: Что, передумал сорвать | adapted: adapted |
-| 8 | Денис | Скажи честно, ты с ним счастлива? | Tell me honestly, are you happy with him? | #177 00:12:24: Ты<br>#178 00:12:34: счастлива | adapted: adapted |
-| 9 | Катя | Денис зашёл пожелать нам счастья. | Denis stopped by to wish us happiness. | #179 00:12:44: Денис зашел пожелать нам счастья | adapted: adapted |
-| 10 | Денис | Да, желаю большого счастья вам. | Yes, I wish great happiness to you both. | #181 00:12:48: Да. Счастья вам | adapted: adapted |
-| 11 | Денис | Спасибо тебе за добрые слова. | Thank you for the kind words. | #182 00:12:58: Спасибо | adapted: adapted |
-| 12 | Катя | Прощай, Денис, и будь счастлив. | Farewell, Denis, and be happy. | #178 00:12:34: счастлива | adapted: adapted |
+| 1 | Катя | Я про тебя рассказала Кате. | I already told Katya about you. | #168: про тебя уже рассказала Кате | adapted: adapted |
+| 2 | Катя | Всё, я тебя очень жду. | That is all, I am waiting for you eagerly. | #169: Все, я тебя жду | adapted: adapted |
+| 3 | Катя | Денис, это опять здесь ты? | Denis, is that you in here again? | #171: Опять ты | adapted: adapted |
+| 4 | Денис | Я тут ночью к тебе заходил. | I stopped by here at night. | #172: Я тут ночью | adapted: adapted |
+| 5 | Денис | Я вчера твоё платье украл. | I stole your dress yesterday. | #174: Твое платье украл | adapted: adapted |
+| 6 | Денис | Хотел свадьбу сорвать, но вернул. | I wanted to ruin the wedding, but returned it. | #174: Хотел свадьбу сорвать, а сейчас вернул | adapted: adapted |
+| 7 | Катя | Что, передумал срывать мою свадьбу? | What, did you change your mind about ruining my wedding? | #175: Что, передумал сорвать | adapted: adapted |
+| 8 | Денис | Скажи честно, ты с ним счастлива? | Tell me honestly, are you happy with him? | #177: Ты<br>#178: счастлива | adapted: adapted |
+| 9 | Катя | Денис зашёл пожелать нам счастья. | Denis stopped by to wish us happiness. | #179: Денис зашел пожелать нам счастья | adapted: adapted |
+| 10 | Денис | Да, желаю большого счастья вам. | Yes, I wish great happiness to you both. | #181: Да. Счастья вам | adapted: adapted |
+| 11 | Никита | Спасибо тебе за добрые слова. | Thank you for the kind words. | #182: Спасибо | adapted: adapted |
+| 12 | Катя | Прощай, Денис, и будь счастлив. | Farewell, Denis, and be happy. | #178: счастлива | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I already told Katya about you.' Spoken Russian keeps this brisk, leaning on 'I' and finishing on 'to tell'.
-- 'That is all, I am waiting for you eagerly.' Notice how Russian expresses 'everything' and 'am waiting for' with crisp inflection rather than helper words.
-- 'Denis, is that you in here again?' Spoken Russian keeps this brisk, leaning on 'Denis' and finishing on 'you'.
-- 'I stopped by here at night.' In Russian, the idea of 'I' flows naturally into 'went in' without extra filler words.
-- 'I stole your dress yesterday.' Spoken Russian keeps this brisk, leaning on 'I' and finishing on 'stole'.
-- 'I wanted to ruin the wedding, but returned it.' In Russian, the idea of 'wanted' flows naturally into 'to give back' without extra filler words.
-- 'What, did you change your mind about ruining my wedding?' Spoken Russian keeps this brisk, leaning on 'what' and finishing on 'wedding'.
-- 'Tell me honestly, are you happy with him?' In Russian, the idea of 'say' flows naturally into 'happy' without extra filler words. Katya answers right away.
-- 'Denis stopped by to wish us happiness.' Katya anchors the line on 'Denis', while 'happiness' completes the thought.
-- 'Yes, I wish great happiness to you both.' The grammar packs 'yes' and 'you' into a tight, idiomatic kitchen exchange.
-- 'Thank you for the kind words.' Notice how Russian expresses 'thank you' and 'words' with crisp inflection rather than helper words. Katya answers right away.
-- 'Farewell, Denis, and be happy.' Notice how Russian expresses 'farewell' and 'happy' with crisp inflection rather than helper words.
+- 'I already told Katya about you.' Explaining that she already told Katya about Denis lays the cards on the table for Denis. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'That is all, I am waiting for you eagerly.' Katya mentions that that is all she is waiting for Denis eagerly so Denis sees what is at stake. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Denis, is that you in here again?' Asking whether that Denis in here again is how Katya puts Denis on the spot.
+- 'I stopped by here at night.' Noting that he stopped by here at night keeps Denis's side of the story simple and clear. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'I stole your dress yesterday.' Even though he stole Katya's dress yesterday, Denis keeps a steady face in front of Katya. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'I wanted to ruin the wedding, but returned it.' Admitting that he wanted to ruin the wedding but returned it shows Denis being honest for a change.
+- 'What, did you change your mind about ruining my wedding?' Wondering what Denis changes Denis's mind about ruining her wedding is how Katya puts Denis on the spot. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Tell me honestly, are you happy with him?' Asking whether tell him honestly are Katya happy with him puts Katya right on the defensive. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Denis stopped by to wish us happiness.' Adding that Denis stopped by to wish them happiness fills in the missing piece for Denis.
+- 'Yes, I wish great happiness to you both.' By wishing great happiness to Katya both, Denis keeps his side of the story grounded. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
+- 'Thank you for the kind words.' With the kitchen and dress in play, Nikita keeps this short reply brisk and direct. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Farewell, Denis, and be happy.' Over the kitchen and the dress, Katya answers Denis without a second thought.

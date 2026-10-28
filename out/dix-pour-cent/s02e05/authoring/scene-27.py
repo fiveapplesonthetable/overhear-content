@@ -7,8 +7,7 @@ SCENE = 27
 TITLE = "La révélation d'Andréa  (Andréa's Revelation)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'colette': 'emilie', 'lea': 'lucie', 'hicham': 'marcel'}
-LABELS = {'colette': 'Colette', 'lea': 'Andréa', 'hicham': 'Hicham'}
+LABELS = {'andrea': 'Andréa', 'colette': 'Colette', 'hicham': 'Hicham'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e05.fr.dual.srt'
 INTRO = "Andréa meets Colette at a neighborhood cafe to talk through a personal crisis. As Andréa confesses to an unexpected pregnancy, an unexpected visit from Hicham sparks a startling realization. Listen to the scene in French first. Don't worry about catching every word."
@@ -18,19 +17,19 @@ OUTRO = "After confessing her unplanned pregnancy to Colette, Andréa is interru
 CLOSING = ('colette', 'Bonne journée!')
 STORY = [
     ('colette', "C'est mauvais pour le bébé.", 'It is bad for the baby.', [(875, "Même à petite dose, c'est mauvais pour le bébé")], ''),
-    ('lea', "Pour l'instant, il n'y a pas de bébé.", 'For now, there is no baby.', [(876, "Pour l'instant, il n'y a pas de bébé")], ''),
+    ('andrea', "Pour l'instant, il n'y a pas de bébé.", 'For now, there is no baby.', [(876, "Pour l'instant, il n'y a pas de bébé")], ''),
     ('colette', 'Et pas de père non plus?', 'And no father either?', [(877, 'Et pas de père non plus')], ''),
-    ('lea', "C'était une erreur stupide.", 'It was a stupid mistake.', [(878, 'Une erreur stupide')], ''),
-    ('lea', 'Un accident complètement improbable.', 'A completely improbable accident.', [(880, "C'était un accident improbable")], ''),
+    ('andrea', "C'était une erreur stupide.", 'It was a stupid mistake.', [(878, 'Une erreur stupide')], ''),
+    ('andrea', 'Un accident complètement improbable.', 'A completely improbable accident.', [(880, "C'était un accident improbable")], ''),
     ('colette', 'Tu ne vas pas le garder?', 'You are not going to keep it?', [(888, 'tu sais déjà que tu ne vas pas le garder')], ''),
-    ('lea', 'Je ne peux pas, Colette.', 'I cannot, Colette.', [(889, 'Je peux pas')], ''),
+    ('andrea', 'Je ne peux pas, Colette.', 'I cannot, Colette.', [(889, 'Je peux pas')], ''),
     ('colette', 'Tu as besoin de mon aide?', 'Do you need my help?', [(898, "t'as besoin de moi")], ''),
     ('hicham', 'Bonjour, bonjour! Ça va, Marteau?', 'Hello, hello! How are you, Marteau?', [(900, 'Bonjour, bonjour ! Ça va, Marteau')], ''),
     ('hicham', "C'est qui, ta ravissante amie?", 'Who is your ravishing friend?', [(903, "C'est qui, ta ravissante amie")], ''),
-    ('lea', "Hicham, on n'est pas au bureau.", 'Hicham, we are not at the office.', [(904, "Hicham, on n'est pas au bureau là")], ''),
+    ('andrea', "Hicham, on n'est pas au bureau.", 'Hicham, we are not at the office.', [(904, "Hicham, on n'est pas au bureau là")], ''),
     ('hicham', 'Je suis Hicham Janowski.', 'I am Hicham Janowski.', [(906, 'je suis Hicham Janowski')], ''),
     ('colette', 'Colette Brancillon. Enchantée.', 'Colette Brancillon. Nice to meet you.', [(907, 'Colette Brancillon'), (907, 'Enchanté')], ''),
-    ('lea', "Hicham est l'actionnaire d'ASK.", 'Hicham is the shareholder of ASK.', [(908, "Hicham est le nouveau principal actionnaire d'ASK")], ''),
+    ('andrea', "Hicham est l'actionnaire d'ASK.", 'Hicham is the shareholder of ASK.', [(908, "Hicham est le nouveau principal actionnaire d'ASK")], ''),
     ('colette', 'Je dois y aller maintenant.', 'I must get going now.', [(911, 'Non, je dois y aller')], ''),
     ('hicham', 'Bonne soirée à vous deux.', 'Have a good evening, both of you.', [(915, 'Bonne soirée')], ''),
     ('colette', "Dis-moi, c'est lui le père?", 'Tell me, is he the father?', [(916, "C'est lui, le père")], ''),

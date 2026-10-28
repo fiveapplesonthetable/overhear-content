@@ -1,34 +1,36 @@
-# domashniy-arest/s01e03/scene-22.py
-ID = "domashniy-arest-s01e03-scene-22"
-SHOW = "domashniy-arest"
+# Authoring module for domashniy-arest-s01e03-scene-22.
+ID = 'domashniy-arest-s01e03-scene-22'
+SHOW = 'domashniy-arest'
 SEASON = 1
 EPISODE = 3
 SCENE = 22
-TITLE = "Аванс  (The Advance)"
-LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-SOURCE_NAME = "Домашний арест (Domashniy Arest) S1.03"
-SOURCE_FILE = "sources/domashniy-arest/s01/e03.ru.dual.srt"
-VOICES = {"narrator": "sky", "chief": "anja", "marina": "angelina"}
-LABELS = {"chief": "Михаил Михайлович", "marina": "Марина"}
+TITLE = 'Аванс  (The Advance)'
+LEVEL = 'A1 — Duolingo Section 2'
+PAIR = 'ru-en'
+LABELS = {'chief': 'Михаил Михайлович', 'marina': 'Марина'}
+SOURCE_NAME = 'Домашний арест (Domashniy Arest) S1.03'
+SOURCE_FILE = 'sources/domashniy-arest/s01/e03.ru.dual.srt'
 INTRO = "Meanwhile, at security headquarters, Marina is meeting the local chief, Mikhail Mikhailovich. Here at headquarters, the chief has good news for Marina about her mission to plant the listening bug, plus an envelope she does not expect. Let's listen in Russian first."
-STORY = [
-    ("chief", "Марина Сергеевна, присядьте. Попробуйте чай с сушками, очень вкусные.", "Marina Sergeyevna, have a seat. Try the tea with bread rings, they're very tasty.", [(732, 'Присядьте'), (729, 'попробуйте с сушками. Очень вкусные')], "'Марина Сергеевна' and 'чай' added"),
-    ("marina", "Да, спасибо, Михаил Михайлович.", "Yes, thank you, Mikhail Mikhailovich.", [(733, 'Да, спасибо, Михаил Михайлович')], ""),
-    ("chief", "Ну вот, само всё разрешилось. Аникеев сегодня едет в суд.", "Well, everything worked itself out. Anikeev is going to court today.", [(735, 'Ну вот, само все разрешилось'), (736, 'едет в суд')], "cue 736 'А Никеев' is a transcription slip for 'Аникеев'; 'сегодня' added"),
-    ("chief", "Его не будет часа два. Вы спокойно всё сделаете.", "He'll be gone for about two hours. You'll do everything calmly.", [(736, 'его не будет часа два'), (737, 'Вы спокойно все сделаете')], ""),
-    ("marina", "А дальше? Я очень волнуюсь, я к этому не приспособлена.", "And then what? I'm very nervous, I'm not cut out for this.", [(738, 'А дальше'), (739, 'я к этому не приспособлена')], "cue 739 garbled 'Я у него тахария' (tachycardia) -> 'Я очень волнуюсь'"),
-    ("chief", "Да, кстати, чуть не забыл.", "Oh, by the way, I almost forgot.", [(740, 'Да, кстати, чуть не забыл')], ""),
-    ("marina", "Что это?", "What's this?", [(741, 'Что это')], ""),
-    ("chief", "Это ваш аванс. Вот в ведомости расписаться надо.", "This is your advance. Here, you need to sign the payment sheet.", [(742, 'Это ваш аванс'), (743, 'ведомости расписаться надо')], "cue 743 'Вот и' -> 'Вот в'"),
-    ("marina", "Вы что, меня покупаете, что ли?", "What, are you buying me or something?", [(744, 'Вы что, меня покупаете, что ли')], ""),
-    ("chief", "Да никто никого не покупает. Это заложено в бюджет операции.", "Nobody is buying anybody. It's built into the operation budget.", [(745, 'Да никто никого не покупает'), (746, 'Это заложено в бюджет операции')], ""),
-    ("chief", "Прошу.", "Please, go ahead.", [(747, 'Прошу')], ""),
-    ("marina", "Хорошо. Значит, вот куда идут деньги налогоплательщиков.", "Fine. So this is where taxpayers' money goes.", [(748, 'Хорошо. Значит, вот куда идут'), (749, 'Деньги')], "cue 749 'налог, платильщиков' is a transcription slip for 'налогоплательщиков'"),
-    ("marina", "Всё, я пошла. До свидания.", "Right, I'm off. Goodbye.", [(730, 'Все, я пошла')], "moved to Marina's exit; 'До свидания' added"),
-    ("chief", "Надо было бабушку брать.", "We should have taken the old lady.", [(753, 'Надо было'), (753, 'брать')], "'бабку' -> 'бабушку'"),
-]
 OPENER = "Let's go through it step by step. Mikhail Mikhailovich welcomes Marina into his office and offers her tea and dry bread rings."
+TRANSITION = "Now let's hear the whole conversation at headquarters again."
+OUTRO = 'So Marina has her advance in her pocket and believes Arkady is off to court for two hours—though as we know, Arkady is still tied to a chair in the communal flat. See you next time!'
+CLOSING = ('chief', 'Пока!')
+STORY = [
+    ('chief', 'Марина Сергеевна, присядьте. Попробуйте чай с сушками, очень вкусные.', "Marina Sergeyevna, have a seat. Try the tea with bread rings, they're very tasty.", [(732, 'Присядьте'), (729, 'попробуйте с сушками. Очень вкусные')], "'Марина Сергеевна' and 'чай' added"),
+    ('marina', 'Да, спасибо, Михаил Михайлович.', 'Yes, thank you, Mikhail Mikhailovich.', [(733, 'Да, спасибо, Михаил Михайлович')], ''),
+    ('chief', 'Ну вот, само всё разрешилось. Аникеев сегодня едет в суд.', 'Well, everything worked itself out. Anikeev is going to court today.', [(735, 'Ну вот, само все разрешилось'), (736, 'едет в суд')], "cue 736 'А Никеев' is a transcription slip for 'Аникеев'; 'сегодня' added"),
+    ('chief', 'Его не будет часа два. Вы спокойно всё сделаете.', "He'll be gone for about two hours. You'll do everything calmly.", [(736, 'его не будет часа два'), (737, 'Вы спокойно все сделаете')], ''),
+    ('marina', 'А дальше? Я очень волнуюсь, я к этому не приспособлена.', "And then what? I'm very nervous, I'm not cut out for this.", [(738, 'А дальше'), (739, 'я к этому не приспособлена')], "cue 739 garbled 'Я у него тахария' (tachycardia) -> 'Я очень волнуюсь'"),
+    ('chief', 'Да, кстати, чуть не забыл.', 'Oh, by the way, I almost forgot.', [(740, 'Да, кстати, чуть не забыл')], ''),
+    ('marina', 'Что это?', "What's this?", [(741, 'Что это')], ''),
+    ('chief', 'Это ваш аванс. Вот в ведомости расписаться надо.', 'This is your advance. Here, you need to sign the payment sheet.', [(742, 'Это ваш аванс'), (743, 'ведомости расписаться надо')], "cue 743 'Вот и' -> 'Вот в'"),
+    ('marina', 'Вы что, меня покупаете, что ли?', 'What, are you buying me or something?', [(744, 'Вы что, меня покупаете, что ли')], ''),
+    ('chief', 'Да никто никого не покупает. Это заложено в бюджет операции.', "Nobody is buying anybody. It's built into the operation budget.", [(745, 'Да никто никого не покупает'), (746, 'Это заложено в бюджет операции')], ''),
+    ('chief', 'Прошу.', 'Please, go ahead.', [(747, 'Прошу')], ''),
+    ('marina', 'Хорошо. Значит, вот куда идут деньги налогоплательщиков.', "Fine. So this is where taxpayers' money goes.", [(748, 'Хорошо. Значит, вот куда идут'), (749, 'Деньги')], "cue 749 'налог, платильщиков' is a transcription slip for 'налогоплательщиков'"),
+    ('marina', 'Всё, я пошла. До свидания.', "Right, I'm off. Goodbye.", [(730, 'Все, я пошла')], "moved to Marina's exit; 'До свидания' added"),
+    ('chief', 'Надо было бабушку брать.', 'We should have taken the old lady.', [(753, 'Надо было'), (753, 'брать')], "'бабку' -> 'бабушку'"),
+]
 WALK = [
     (0, 'Марина Сергеевна, присядьте.', "'Marina Sergeyevna, have a seat.' He uses her first name and father's name, with a polite plural command that literally means 'sit down for a moment'. Then he points to the table."),
     (0, 'Попробуйте чай с сушками, очень вкусные.', "'Try the tea with bread rings, they're very tasty.' Bread rings are small, crunchy ring-shaped rolls that Russians love with tea. After 'with', the noun takes the 'with'-form plural ending. Marina replies politely."),
@@ -52,6 +54,3 @@ WALK = [
     (12, None, "'Right, I'm off. Goodbye.' She uses the feminine past form, 'I set off', which is how Russians say 'I'm heading out'. In the show, she even tries to walk out through the archive door by mistake. Once she is gone, the chief sighs."),
     (13, None, "'We should have taken the old lady.' Literally 'it was necessary to take the grandmother'—meaning old Klavdia Viktorovna, whom he wanted to recruit in the first place."),
 ]
-TRANSITION = "Now let's hear the whole conversation at headquarters again."
-OUTRO = "So Marina has her advance in her pocket and believes Arkady is off to court for two hours—though as we know, Arkady is still tied to a chair in the communal flat. See you next time!"
-CLOSING = ("chief", "Пока!")

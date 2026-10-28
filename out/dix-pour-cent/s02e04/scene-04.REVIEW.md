@@ -1,31 +1,43 @@
-# Review: `dix-pour-cent-s02e04-scene-04` — Dispute au sujet d'Isabelle  (Arguing Over Adjani)
+# dix-pour-cent-s02e04-scene-04: review sheet
 
-- **Source**: `sources/dix-pour-cent/s02/e04.fr.dual.srt`
-- **Level**: A1 — débutant
-- **Voices**: `{"narrator": "sky", "lea": "lucie", "noemie": "emilie"}`
-- **Labels**: `{"lea": "Andréa", "noemie": "Noémie"}`
+Title: Dispute au sujet d'Isabelle  (Arguing Over Adjani)
+Level: A1 — débutant
+Pair: fr-en
+Source: Dix pour cent (Call My Agent!) S02E04
 
-## Part 1 — Intro
-> Inside Andréa's office, tensions rise as Andréa and Noémie argue over how to salvage the situation. While Noémie suggests asking Isabelle to apologize, Andréa adamantly refuses to let her star client humiliate herself. Let's listen to the scene in French first.
 
-## Part 2 — Story Lines
-| # | Role | French | English | Source Cues |
-|---|------|--------|---------|-------------|
-| 0 | `lea` (Andréa) | Noémie, prends-moi un rendez-vous avec Mathias. | Noémie, get me an appointment with Mathias. | 97:Noémie, prenez-moi un rendez-vous avec Mathias Barneville. |
-| 1 | `noemie` (Noémie) | Pourquoi Mathias? C'est votre client le problème. | Why Mathias? Your client is the problem. | 100:C'est votre client qui fait des difficultés ici. |
-| 2 | `noemie` (Noémie) | Vous avez entraîné Isabelle dans cette histoire. | You dragged Isabelle into this story. | 101:C'est vous qui avez entraîné Isabelle dans tout ça. |
-| 3 | `lea` (Andréa) | Arrêtez! Elle voulait absolument travailler avec lui. | Stop! She absolutely wanted to work with him. | 102:Arrêtez. Vous l'avez vue ?, 103:Elle mourait d'envie de travailler avec lui ! |
-| 4 | `noemie` (Noémie) | Isabelle pourrait peut-être l'appeler pour s'excuser. | Maybe Isabelle could call him to apologize. | 104:Elle pourrait peut-être l'appeler., 105:-Pour s'excuser. -Hors de question ! |
-| 5 | `lea` (Andréa) | Hors de question, elle ne s'excusera pas! | Out of the question, she will not apologize! | 105:-Hors de question ! |
-| 6 | `lea` (Andréa) | Je refuse de la laisser s'humilier. | I refuse to let her humiliate herself. | 106:Je ne la laisserai pas s'humilier devant un type |
-| 7 | `lea` (Andréa) | Sacha se prend pour un génie. | Sacha thinks he is a genius. | 107:qui se prend pour un grand du cinéma ! |
-| 8 | `noemie` (Noémie) | Alors, qu'est-ce que nous faisons maintenant? | So, what do we do now? | 108:Bien..., 109:Non, je comprends. |
-| 9 | `noemie` (Noémie) | Voulez-vous que j'appelle Isabelle au téléphone? | Do you want me to call Isabelle on the phone? | 110:Bon, j'appellerai Isabelle. |
-| 10 | `lea` (Andréa) | Non, c'est ma cliente, je m'en charge. | No, that is my client, I will handle it. | 112:C'est ma cliente, je m'en charge. |
-| 11 | `noemie` (Noémie) | Très bien, faites comme vous voulez! | Very well, do as you wish! | 113:Ah, très bien !, 114:Merci, monseigneur. Merci ! |
-| 12 | `lea` (Andréa) | Fermez la porte et laissez-moi réfléchir. | Close the door and let me think. | 118:Andréa, fermez la porte. |
-| 13 | `noemie` (Noémie) | D'accord, mais trouvez vite une solution. | All right, but find a solution quickly. | 115:-Elle est tellement impolie ! -Bref... |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 5 — Outro & Closing
-> Andréa refuses to let an iconic actress apologize to an arrogant young director, taking full charge of the crisis. She must now find a creative way to bring the two together without damaging Isabelle's reputation. See you next time!
-- **Closing**: `lea`: *À bientôt!*
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+|---|---|---|---|---|---|
+| 1 | Andréa | Noémie, prends-moi un rendez-vous avec Mathias. | Noémie, get me an appointment with Mathias. | #97: Noémie, prenez-moi un rendez-vous avec Mathias Barneville. | verbatim |
+| 2 | Noémie | Pourquoi Mathias? C'est votre client le problème. | Why Mathias? Your client is the problem. | #100: C'est votre client qui fait des difficultés ici. | verbatim |
+| 3 | Noémie | Vous avez entraîné Isabelle dans cette histoire. | You dragged Isabelle into this story. | #101: C'est vous qui avez entraîné Isabelle dans tout ça. | verbatim |
+| 4 | Andréa | Arrêtez! Elle voulait absolument travailler avec lui. | Stop! She absolutely wanted to work with him. | #102: Arrêtez. Vous l'avez vue ?<br>#103: Elle mourait d'envie de travailler avec lui ! | verbatim |
+| 5 | Noémie | Isabelle pourrait peut-être l'appeler pour s'excuser. | Maybe Isabelle could call him to apologize. | #104: Elle pourrait peut-être l'appeler.<br>#105: -Pour s'excuser. -Hors de question ! | verbatim |
+| 6 | Andréa | Hors de question, elle ne s'excusera pas! | Out of the question, she will not apologize! | #105: -Hors de question ! | verbatim |
+| 7 | Andréa | Je refuse de la laisser s'humilier. | I refuse to let her humiliate herself. | #106: Je ne la laisserai pas s'humilier devant un type | verbatim |
+| 8 | Andréa | Sacha se prend pour un génie. | Sacha thinks he is a genius. | #107: qui se prend pour un grand du cinéma ! | verbatim |
+| 9 | Noémie | Alors, qu'est-ce que nous faisons maintenant? | So, what do we do now? | #108: Bien...<br>#109: Non, je comprends. | verbatim |
+| 10 | Noémie | Voulez-vous que j'appelle Isabelle au téléphone? | Do you want me to call Isabelle on the phone? | #110: Bon, j'appellerai Isabelle. | verbatim |
+| 11 | Andréa | Non, c'est ma cliente, je m'en charge. | No, that is my client, I will handle it. | #112: C'est ma cliente, je m'en charge. | verbatim |
+| 12 | Noémie | Très bien, faites comme vous voulez! | Very well, do as you wish! | #113: Ah, très bien !<br>#114: Merci, monseigneur. Merci ! | verbatim |
+| 13 | Andréa | Fermez la porte et laissez-moi réfléchir. | Close the door and let me think. | #118: Andréa, fermez la porte. | verbatim |
+| 14 | Noémie | D'accord, mais trouvez vite une solution. | All right, but find a solution quickly. | #115: -Elle est tellement impolie ! -Bref... | verbatim |
+
+## Walk-through narration (English only, no target-language words quoted)
+
+- 'Noémie, get me an appointment with Mathias.' Andréa uses the command form form for 'arrange for me' together with the word for 'scheduled appointment'.
+- 'Why Mathias? Your client is the problem.' The key word here means 'why', paired with 'trouble' to make the point clear.
+- 'You dragged Isabelle into this story.' An accusation pointing out premature agent enthusiasm.
+- 'Stop! She absolutely wanted to work with him.' A fierce defense of client motivation.
+- 'Maybe Isabelle could call him to apologize.' A pragmatic compromise suggesting an apology.
+- 'Out of the question, she will not apologize!' The key word here means 'matter', paired with 'will apologize' to make the point clear.
+- 'I refuse to let her humiliate herself.' A fierce protective instinct shielding an iconic star.
+- 'Sacha thinks he is a genius.' A dismissive critique of young director arrogance.
+- 'So, what do we do now?' Noémie opens with the word for 'so' and lands on 'now' at the close.
+- 'Do you want me to call Isabelle on the phone?' An offer from an assistant to break bad news.
+- 'No, that is my client, I will handle it.' A firm territorial declaration asserting agent responsibility.
+- 'Very well, do as you wish!' A sarcastic surrender conceding control.
+- 'Close the door and let me think.' Andréa uses the command form form for 'close' together with the word for 'room door'.
+- 'All right, but find a solution quickly.' An urgent closing reminder of looming consequences.

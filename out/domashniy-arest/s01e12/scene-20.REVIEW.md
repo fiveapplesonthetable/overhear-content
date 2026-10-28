@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Строитель | Что здесь вообще такое происходит? | What is even happening here? | #526 00:45:38: Это что за | adapted: bewildered |
-| 2 | Строитель | Пойдёмте отсюда, ребята, уходим! | Let's get out of here, guys, we are leaving! | #527 00:45:48: Пойдем отсюда<br>#529 00:45:56: Ребята уходим | adapted: ordering retreat |
-| 3 | Строитель | Начальник сказал, что стену не тронут. | The boss said that they will not touch the wall. | #528 00:45:54: не тронут они вашу стену | adapted: explaining orders |
-| 4 | Строитель | Быстро собираем все вещи и уезжаем. | We quickly pack all things and leave. | #530 00:45:58: Уходим уходим | adapted: packing up |
-| 5 | Марина | Куда же вы теперь уходите, хорошие мои? | Where are you leaving now, my good ones? | #531 00:46:01: Куда мои хорошие | adapted: mocking workers |
-| 6 | Марина | Неужели вам вдруг стало страшно? | Did you really suddenly get scared? | #532 00:46:03: страшно стала | adapted: taunting |
-| 7 | Марина | Куда уезжают ваши тяжёлые машины? | Where are your heavy machines driving off to? | #535 00:46:10: 22-тонные | adapted: questioning equipment |
-| 8 | Строитель | Эта странная женщина совсем потеряла голову. | This strange woman has completely lost her head. | #536 00:46:16: Когда успела | adapted: muttering |
-| 9 | Марина | Наша старинная стена теперь полностью спасена. | Our ancient wall is now completely saved. | #528 00:45:54: не тронут они вашу стену | adapted: celebrating victory |
-| 10 | Марина | У нашего города наконец появился реальный шанс. | Our city finally has a real chance. | #537 00:46:18: У него появился шанс | adapted: hopeful proclamation |
-| 11 | Строитель | Полиция скоро примет официальное решение. | The police will soon make an official decision. | #538 00:46:26: Определение полиции | adapted: deferring to authorities |
-| 12 | Марина | Правда и закон сегодня на нашей стороне. | Truth and law are on our side today. | #537 00:46:18: появился шанс | adapted: final assertion |
+| 1 | Строитель | Что здесь вообще такое происходит? | What is even happening here? | #526: Это что за | adapted: bewildered |
+| 2 | Строитель | Пойдёмте отсюда, ребята, уходим! | Let's get out of here, guys, we are leaving! | #527: Пойдем отсюда<br>#529: Ребята уходим | adapted: ordering retreat |
+| 3 | Строитель | Начальник сказал, что стену не тронут. | The boss said that they will not touch the wall. | #528: не тронут они вашу стену | adapted: explaining orders |
+| 4 | Строитель | Быстро собираем все вещи и уезжаем. | We quickly pack all things and leave. | #530: Уходим уходим | adapted: packing up |
+| 5 | Марина | Куда же вы теперь уходите, хорошие мои? | Where are you leaving now, my good ones? | #531: Куда мои хорошие | adapted: mocking workers |
+| 6 | Марина | Неужели вам вдруг стало страшно? | Did you really suddenly get scared? | #532: страшно стала | adapted: taunting |
+| 7 | Марина | Куда уезжают ваши тяжёлые машины? | Where are your heavy machines driving off to? | #535: 22-тонные | adapted: questioning equipment |
+| 8 | Строитель | Эта странная женщина совсем потеряла голову. | This strange woman has completely lost her head. | #536: Когда успела | adapted: muttering |
+| 9 | Марина | Наша старинная стена теперь полностью спасена. | Our ancient wall is now completely saved. | #528: не тронут они вашу стену | adapted: celebrating victory |
+| 10 | Марина | У нашего города наконец появился реальный шанс. | Our city finally has a real chance. | #537: У него появился шанс | adapted: hopeful proclamation |
+| 11 | Строитель | Полиция скоро примет официальное решение. | The police will soon make an official decision. | #538: Определение полиции | adapted: deferring to authorities |
+| 12 | Марина | Правда и закон сегодня на нашей стороне. | Truth and law are on our side today. | #537: появился шанс | adapted: final assertion |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

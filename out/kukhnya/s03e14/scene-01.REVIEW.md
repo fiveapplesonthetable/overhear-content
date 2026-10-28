@@ -10,32 +10,32 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Шеф | Двести лошадей, отличный мотоцикл! | Two hundred horsepower, an excellent motorcycle! | #1 00:00:30: лошадей | adapted: adapted |
-| 2 | Шеф | У меня в молодости такой мотоцикл был. | I had a motorcycle like that in my youth. | #2 00:00:33: У меня такой мотоцикл был | adapted: adapted |
-| 3 | Шеф | Час гоняешь, потом весь день перебираешь. | You ride for an hour, then overhaul it all day. | #3 00:00:35: Час гоняешь, день перебираешь | adapted: adapted |
-| 4 | Аня | У меня такой в мастерской стоит. | I have one like that standing in my workshop. | #4 00:00:37: в мастерской стоит | adapted: adapted |
-| 5 | Шеф | А что у тебя за мастерская? | And what kind of workshop do you have? | #7 00:00:43: А что у тебя за мастерская | adapted: adapted |
-| 6 | Аня | Собираю всякие байки на заказ. | I build all kinds of bikes to order. | #8 00:00:46: собираю всякие байки на заказ | adapted: adapted |
-| 7 | Аня | Дам тебе покататься, спасибо, зайду. | I will let you go for a ride, thanks, I will stop by. | #10 00:00:55: покататься. Спасибо, зайду | adapted: adapted |
-| 8 | Шеф | Меня зовут Виктор, а тебя? | My name is Viktor, and yours? | #11 00:00:58: Виктор | adapted: adapted |
-| 9 | Аня | Меня друзья называют просто Поршень. | My friends just call me Piston. | #12 00:01:01: Ну, поршень<br>#13 00:01:04: так назвали | adapted: adapted |
-| 10 | Аня | Девчонки меня так недавно назвали. | The girls recently gave me that name. | #13 00:01:04: Девчонки так назвали | adapted: adapted |
-| 11 | Катя | Привет, ты меня долго ждёшь? | Hi, have you been waiting long for me? | #16 00:01:14: Привет | adapted: adapted |
-| 12 | Шеф | Катя, подожди, это вообще кто? | Katya, wait, who on earth is this? | #17 00:01:17: Катя, это кто | adapted: adapted |
-| 13 | Катя | Вы что, знакомы, это мой отец! | Do you two know each other, this is my father! | #18 00:01:19: Вы что, знакомы, что ли? Ага, это мой отец | adapted: adapted |
+| 1 | Шеф | Двести лошадей, отличный мотоцикл! | Two hundred horsepower, an excellent motorcycle! | #1: лошадей | adapted: adapted |
+| 2 | Шеф | У меня в молодости такой мотоцикл был. | I had a motorcycle like that in my youth. | #2: У меня такой мотоцикл был | adapted: adapted |
+| 3 | Шеф | Час гоняешь, потом весь день перебираешь. | You ride for an hour, then overhaul it all day. | #3: Час гоняешь, день перебираешь | adapted: adapted |
+| 4 | Макс | У меня такой в мастерской стоит. | I have one like that standing in my workshop. | #4: в мастерской стоит | adapted: adapted |
+| 5 | Шеф | А что у тебя за мастерская? | And what kind of workshop do you have? | #7: А что у тебя за мастерская | adapted: adapted |
+| 6 | Макс | Собираю всякие байки на заказ. | I build all kinds of bikes to order. | #8: собираю всякие байки на заказ | adapted: adapted |
+| 7 | Макс | Дам тебе покататься, спасибо, зайду. | I will let you go for a ride, thanks, I will stop by. | #10: покататься. Спасибо, зайду | adapted: adapted |
+| 8 | Шеф | Меня зовут Виктор, а тебя? | My name is Viktor, and yours? | #11: Виктор | adapted: adapted |
+| 9 | Макс | Меня друзья называют просто Поршень. | My friends just call me Piston. | #12: Ну, поршень<br>#13: так назвали | adapted: adapted |
+| 10 | Макс | Девчонки меня так недавно назвали. | The girls recently gave me that name. | #13: Девчонки так назвали | adapted: adapted |
+| 11 | Катя | Привет, ты меня долго ждёшь? | Hi, have you been waiting long for me? | #16: Привет | adapted: adapted |
+| 12 | Шеф | Катя, подожди, это вообще кто? | Katya, wait, who on earth is this? | #17: Катя, это кто | adapted: adapted |
+| 13 | Катя | Вы что, знакомы, это мой отец! | Do you two know each other, this is my father! | #18: Вы что, знакомы, что ли? Ага, это мой отец | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Two hundred horsepower, an excellent motorcycle!' Chef Barinov anchors the line on 'two hundred', while 'motorcycle' completes the thought.
-- 'I had a motorcycle like that in my youth.' In Russian, the idea of 'at' flows naturally into 'was' without extra filler words.
-- 'You ride for an hour, then overhaul it all day.' The meaning hinges on 'hour' working together with 'overhaul' in spoken Russian. Max answers right away.
-- 'I have one like that standing in my workshop.' Max brings out the contrast between 'at' and 'me' in a few short words.
-- 'And what kind of workshop do you have?' Chef Barinov anchors the line on 'and', while 'workshop' completes the thought.
-- 'I build all kinds of bikes to order.' Notice how Russian expresses 'am packing' and 'order' with crisp inflection rather than helper words.
-- 'I will let you go for a ride, thanks, I will stop by.' Spoken Russian keeps this brisk, leaning on 'will give' and finishing on 'to come in'.
-- 'My name is Viktor, and yours?' In Russian, the idea of 'me' flows naturally into 'you' without extra filler words.
-- 'My friends just call me Piston.' Max anchors the line on 'me', while 'piston' completes the thought.
-- 'The girls recently gave me that name.' Here the Russian phrasing highlights 'girls' before landing on 'to call'.
-- 'Hi, have you been waiting long for me?' Spoken Russian keeps this brisk, leaning on 'hello' and finishing on 'to wait'.
-- 'Katya, wait, who on earth is this?' Chef Barinov raises the pitch on 'who' to turn the phrase into a direct spoken question. Katya answers right away.
-- 'Do you two know each other, this is my father!' Katya brings out the contrast between 'you' and 'what' in a few short words.
+- 'Two hundred horsepower, an excellent motorcycle!' With the kitchen and restaurant at stake, Barinov reacts without holding back.
+- 'I had a motorcycle like that in my youth.' Saying that he had a motorcycle like that in his youth is how Barinov sets the tone with Katya. Russian expresses having something as "by me is", keeping the phrase short and grounded.
+- 'You ride for an hour, then overhaul it all day.' Around the point and restaurant, Barinov sets a calm, everyday tone with Katya.
+- 'I have one like that standing in my workshop.' Having one like that standing in his workshop is how Max lays out the situation for Barinov.
+- 'And what kind of workshop do you have?' Wondering if what kind of workshop do Katya has shows Barinov caught off guard. Russian expresses having something as "by me is", keeping the phrase short and grounded.
+- 'I build all kinds of bikes to order.' Building all kinds of bikes to order is how Max lays out the situation for Barinov.
+- 'I will let you go for a ride, thanks, I will stop by.' Mentioning that he will let Barinov goes for a ride thanks he will stop moves the talk in a new direction.
+- 'My name is Viktor, and yours?' Barinov asks whether his name is Viktor, refusing to let the point slide. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'My friends just call me Piston.' Around the restaurant and kitchen, Max sets a calm, everyday tone with Barinov.
+- 'The girls recently gave me that name.' Explaining that the girls recently gave him that name lays the cards on the table for Barinov.
+- 'Hi, have you been waiting long for me?' Checking whether Barinov been waiting long cuts straight through the tension between Katya and Barinov. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Katya, wait, who on earth is this?' Barinov asks whether who on earth is this, refusing to let the point slide. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'Do you two know each other, this is my father!' Insisting that do Barinov two know each other this is her father shows Katya is not backing down.

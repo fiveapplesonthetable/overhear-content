@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Вик, ну не начинай. | Vika, come on, don't start. | #51 00:05:42: Вик, ну не начинай. | verbatim |
-| 2 | Аня | Сегодня я устрою его на работу. | Today I will get him a job. | #51 00:05:42: Сегодня я устрою его на работу | verbatim |
-| 3 | Аня | Он начнёт зарабатывать и съедет. | He will start earning money and move out. | #52 00:05:45: он начнет зарабатывать и съедет. | verbatim |
-| 4 | Нагиев | Ты устроишь? И куда? | You will get him a job? And where? | #53 00:05:47: Ты устроишь? И куда? | verbatim |
-| 5 | Аня | Нет, я связи подключу. | No, I will pull some strings. | #55 00:05:52: Нет, я связи подключу. | verbatim |
-| 6 | Аня | У меня в одном французском ресторане жена директор. | My wife is the director at a certain French restaurant. | #56 00:05:55: в одном французском ресторане жена директор | verbatim |
-| 7 | Аня | Я её попрошу, она его официантом устроит. | I will ask her and she will hire him as a waiter. | #57 00:05:59: Я ее попрошу, она его официантом устроит. | verbatim |
-| 8 | Нагиев | То есть ты решил всю проблему переложить на меня? | So you decided to shift the whole problem onto me? | #58 00:06:02: То есть ты решил всю проблему переложить на меня? | verbatim |
-| 9 | Нагиев | Это я. Скользко, но уже всё нормально. | It is me. It was slippery, but everything is fine now. | #60 00:06:15: Это я. Скользко, но уже все нормально. | verbatim |
-| 10 | Нагиев | Алло, Аслан. | Hello, Aslan. | #61 00:06:22: Алло, Аслан. | verbatim |
-| 11 | Нагиев | Здравствуй, дорогой. | Hello, my dear friend. | #62 00:06:24: Здравствуй, дорогой. | verbatim |
-| 12 | Нагиев | Ну, перезвоню. Давай, давай. | Well, I will call back. Take care. | #67 00:06:38: Давай, давай. | verbatim |
+| 1 | Макс | Вик, ну не начинай. | Vika, come on, don't start. | #51: Вик, ну не начинай. | verbatim |
+| 2 | Макс | Сегодня я устрою его на работу. | Today I will get him a job. | #51: Сегодня я устрою его на работу | verbatim |
+| 3 | Макс | Он начнёт зарабатывать и съедет. | He will start earning money and move out. | #52: он начнет зарабатывать и съедет. | verbatim |
+| 4 | Вика | Ты устроишь? И куда? | You will get him a job? And where? | #53: Ты устроишь? И куда? | verbatim |
+| 5 | Макс | Нет, я связи подключу. | No, I will pull some strings. | #55: Нет, я связи подключу. | verbatim |
+| 6 | Макс | У меня в одном французском ресторане жена директор. | My wife is the director at a certain French restaurant. | #56: в одном французском ресторане жена директор | verbatim |
+| 7 | Макс | Я её попрошу, она его официантом устроит. | I will ask her and she will hire him as a waiter. | #57: Я ее попрошу, она его официантом устроит. | verbatim |
+| 8 | Вика | То есть ты решил всю проблему переложить на меня? | So you decided to shift the whole problem onto me? | #58: То есть ты решил всю проблему переложить на меня? | verbatim |
+| 9 | Нагиев | Это я. Скользко, но уже всё нормально. | It is me. It was slippery, but everything is fine now. | #60: Это я. Скользко, но уже все нормально. | verbatim |
+| 10 | Нагиев | Алло, Аслан. | Hello, Aslan. | #61: Алло, Аслан. | verbatim |
+| 11 | Нагиев | Здравствуй, дорогой. | Hello, my dear friend. | #62: Здравствуй, дорогой. | verbatim |
+| 12 | Нагиев | Ну, перезвоню. Давай, давай. | Well, I will call back. Take care. | #67: Давай, давай. | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vika, come on, don't start.' Notice how Russian puts 'Vika' and 'begin' together in a short, direct phrase where word endings show how the ideas connect.
-- 'Today I will get him a job.' Here Max anchors the thought on 'today' and finishes on 'work', keeping the spoken rhythm brisk and natural.
-- 'He will start earning money and move out.' In everyday Russian, 'to begin, to start' flows straight into 'to move out' without extra linking words.
-- 'You will get him a job? And where?' Vika pairs 'to arrange, organize, set up' with 'where to' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
-- 'No, I will pull some strings.' Notice how Russian puts 'of the connection, call' and 'strings' together in a short, direct phrase where word endings show how the ideas connect.
-- 'My wife is the director at a certain French restaurant.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.
-- 'I will ask her and she will hire him as a waiter.' In everyday Russian, 'to ask, to request' flows straight into 'to arrange, organize, set up' without extra linking words.
-- 'So you decided to shift the whole problem onto me?' The past-tense verb ending marks the grammatical gender and number of the subject directly.
-- 'It is me. It was slippery, but everything is fine now.' Notice how Russian puts 'fine' and 'normally' together in a short, direct phrase where word endings show how the ideas connect.
-- 'Hello, Aslan.' Nagiyev centers this short reply on 'aslan', letting a few direct words carry the whole meaning.
-- 'Hello, my dear friend.' Spoken Russian keeps this brief and expressive, built right around 'expensive' without extra helper words.
-- 'Well, I will call back. Take care.' Starting with the everyday word for 'let us' is how Russian speakers warmly invite someone to do something together.
+- 'Vika, come on, don't start.' Once Nagiyev should come on do not start, Max can finally tell Nagiyev what he means.
+- 'Today I will get him a job.' Adding that today he will get him a job fills in the missing piece for Nagiyev.
+- 'He will start earning money and move out.' Saying that he will start earning money and move out is how Max sets the tone with Nagiyev.
+- 'You will get him a job? And where?' Wondering if Max will get him a job shows Vika caught off guard. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'No, I will pull some strings.' Mentioning that he will pull some strings moves the talk in a new direction.
+- 'My wife is the director at a certain French restaurant.' Max reminds Nagiyev that his wife is the director at a certain French restaurant before the moment passes.
+- 'I will ask her and she will hire him as a waiter.' Because he will ask her and she will hire him as a waiter, Max treats the matter as settled.
+- 'So you decided to shift the whole problem onto me?' Asking whether Max decided to shift the whole problem puts Max right on the defensive. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'It is me. It was slippery, but everything is fine now.' Nagiyev mentions that it is him so Max sees what is at stake.
+- 'Hello, Aslan.' Between the kitchen and the friend, Nagiyev gives Max a quick, grounded response.
+- 'Hello, my dear friend.' Over the kitchen and the calm, Nagiyev answers Max without a second thought.
+- 'Well, I will call back. Take care.' Nagiyev explains that he will call back, keeping his voice calm and direct.

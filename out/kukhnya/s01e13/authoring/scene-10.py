@@ -4,26 +4,25 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 13
 SCENE = 10
-TITLE = "Звонок из Милана  (A Call from Milan)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Звонок из Милана  (A Call from Milan)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "anya": "alisa", "angelina_h": "anja", "vika": "angelina"}
-LABELS = {"anya": "Макс", "angelina_h": "Ангелина", "vika": "Вика"}
+LABELS = {'angelina_h': 'Ангелина', 'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.13'
 SOURCE_FILE = 'sources/kukhnya/s01/e13.ru.dual.srt'
 INTRO = "Max decides to fix his mistake by making a fake phone call. He calls the restaurant hostess Angelina, pretending to be from the Milan trade show. Let's listen to his brilliant plan in Russian."
 OPENER = "Now let's go back through the exchange around A Call from Milan line by line and unpack how the Russian works."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Max's crazy plan actually worked, and Vika is heading back to the restaurant. Let's see what happens next. Next time you watch the episode, listen for the Russian expressions for 'signora' and 'kind' — you will catch every word right away. See you next time!"
-CLOSING = ("anya", "Пока!")
+CLOSING = ('max', 'Пока!')
 STORY = [
-    ('anya', 'Бонжорно, синьоры.', 'Buongiorno, signori.', [], ''),
+    ('max', 'Бонжорно, синьоры.', 'Buongiorno, signori.', [], ''),
     ('angelina_h', 'Добрый день, ресторан Клод Моне.', 'Good afternoon, Claude Monet restaurant.', [], ''),
-    ('anya', 'Меня зовут Александр.', 'My name is Alexander.', [(130, 'Меня зовут Александр')], ''),
-    ('anya', 'Выставка отменяется.', 'The exhibition is cancelled.', [(132, 'выставка отменится')], ''),
-    ('anya', 'Передайте это Виктории.', 'Pass this on to Victoria.', [(133, 'Передайте')], ''),
+    ('max', 'Меня зовут Александр.', 'My name is Alexander.', [(130, 'Меня зовут Александр')], ''),
+    ('max', 'Выставка отменяется.', 'The exhibition is cancelled.', [(132, 'выставка отменится')], ''),
+    ('max', 'Передайте это Виктории.', 'Pass this on to Victoria.', [(133, 'Передайте')], ''),
     ('angelina_h', 'Хорошо, я передам.', 'All right, I will pass it on.', [], ''),
-    ('anya', 'Граци, синьора, чао-чао.', 'Grazie, signora, ciao-ciao.', [(134, 'Граци, сеньора'), (135, 'Чао-чао.')], ''),
+    ('max', 'Граци, синьора, чао-чао.', 'Grazie, signora, ciao-ciao.', [(134, 'Граци, сеньора'), (135, 'Чао-чао.')], ''),
     ('angelina_h', 'Да, алло. Виктория Сергеевна, здравствуйте.', 'Yes, hello. Victoria Sergeyevna, hello.', [(138, 'Да, алло. Виктория Сергеевна, здравствуйте')], ''),
     ('angelina_h', 'Звонил представитель выставки из Милана.', 'A representative of the exhibition from Milan called.', [(139, 'Звонил представитель выставки из Милана')], ''),
     ('angelina_h', 'Он сказал, что она отменяется.', 'He said that it is cancelled.', [(139, 'сказал, что она отменяется.')], ''),

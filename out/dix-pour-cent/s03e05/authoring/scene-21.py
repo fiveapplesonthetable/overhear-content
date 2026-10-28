@@ -7,8 +7,7 @@ SCENE = 21
 TITLE = 'Un moment de paix  (A Moment of Peace)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'hicham': 'marcel', 'lea': 'lucie', 'colette': 'emilie'}
-LABELS = {'hicham': 'Hicham', 'lea': 'Andréa', 'colette': 'Colette'}
+LABELS = {'andrea': 'Andréa', 'colette': 'Colette', 'hicham': 'Hicham'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e05.fr.dual.srt'
 INTRO = "At Andrea's apartment, Hicham visits to hold baby Flora peacefully. When Colette walks in surprised, Hicham reassures her that he comes without conflict, and the three parents share a rare quiet moment of domestic peace. Let's listen to the scene in French first."
@@ -18,18 +17,18 @@ OUTRO = "In a rare quiet evening, Andrea, Colette, and Hicham find unexpected ha
 CLOSING = ('colette', 'Bonne journée!')
 STORY = [
     ('hicham', 'Je ne viens pas parler boulot.', 'I am not coming to talk business.', [], ''),
-    ('lea', 'Alors, que veux-tu ce soir, Hicham?', 'So, what do you want tonight, Hicham?', [(829, 'que')], ''),
+    ('andrea', 'Alors, que veux-tu ce soir, Hicham?', 'So, what do you want tonight, Hicham?', [(829, 'que')], ''),
     ('hicham', 'Je voudrais juste voir le bébé.', 'I would just like to see the baby.', [], ''),
     ('hicham', 'Puis-je la prendre dans mes bras?', 'May I hold her in my arms?', [], ''),
-    ('lea', "D'accord, tiens bien sa tête.", 'All right, hold her head well.', [], ''),
+    ('andrea', "D'accord, tiens bien sa tête.", 'All right, hold her head well.', [], ''),
     ('hicham', 'Elle est tellement belle et calme.', 'She is so beautiful and calm.', [(829, 'est')], ''),
-    ('lea', "Elle s'endort paisiblement avec toi.", 'She falls asleep peacefully with you.', [], ''),
+    ('andrea', "Elle s'endort paisiblement avec toi.", 'She falls asleep peacefully with you.', [], ''),
     ('colette', "Bonjour, qu'est-ce que vous faites là?", 'Hello, what are you doing here?', [(829, "Qu'est-ce que vous faites")], ''),
-    ('lea', 'Colette, regarde, nous sommes calmes.', 'Colette, look, we are calm.', [(830, 'On kiffe')], ''),
+    ('andrea', 'Colette, regarde, nous sommes calmes.', 'Colette, look, we are calm.', [(830, 'On kiffe')], ''),
     ('hicham', 'On kiffe ce joli moment ensemble.', 'We are enjoying this lovely moment together.', [(830, 'On kiffe')], ''),
     ('colette', "C'est une surprise très inattendue.", 'It is a very unexpected surprise.', [(829, "Qu'est-ce que vous faites")], ''),
     ('hicham', 'Je ne veux aucun conflit, Colette.', 'I want no conflict, Colette.', [], ''),
-    ('lea', 'Nous voulons le bonheur de Flora.', 'We want Flora', [], ''),
+    ('andrea', 'Nous voulons le bonheur de Flora.', 'We want Flora', [], ''),
     ('colette', "C'est un beau moment de paix.", 'It is a beautiful moment of peace.', [(830, 'On kiffe')], ''),
 ]
 WALK = [

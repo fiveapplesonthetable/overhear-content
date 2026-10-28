@@ -7,15 +7,14 @@ SCENE = 27
 TITLE = 'Le bilan annuel et le sursis  (Annual Review and Probation)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'hicham': 'marcel', 'lea': 'lucie', 'gabriel': 'theo'}
-LABELS = {'hicham': 'Hicham', 'lea': 'Andréa', 'gabriel': 'Gabriel'}
+LABELS = {'andrea': 'Andréa', 'gabriel': 'Gabriel', 'hicham': 'Hicham'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e01.fr.dual.srt'
 INTRO = "In the ASK conference room, Hicham holds the agency's end-of-year review meeting. After complimenting the team, he drops a bombshell about Gabriel's future at the agency. Listen to the dramatic confrontation in French first. Don't worry about catching every word."
 OPENER = "Let's walk through this intense confrontation in the agency meeting step by step."
 TRANSITION = "Now let's listen to the entire dialogue once more."
 OUTRO = "After threatening to fire Gabriel for hiding his failures, Hicham agrees to keep him at ASK on the condition that Andrea supervises his work. When you watch the episode, listen out for the expressions meaning 'struggled' and 'canines'. You'll catch them now. See you next time!"
-CLOSING = ('lea', 'Au revoir!')
+CLOSING = ('andrea', 'Au revoir!')
 STORY = [
     ('hicham', 'Vous vous êtes tous battus comme des chiens.', 'You all fought like dogs.', [(1039, 'Vous vous êtes tous battus comme des chiens')], ''),
     ('hicham', "Andréa, c'est le pitbull.", 'Andrea, she is the pitbull.', [(1041, "Andrea, c'est le pitbull")], ''),
@@ -26,12 +25,12 @@ STORY = [
     ('hicham', 'Elle vous emmène toujours où elle veut.', 'She always takes you where she wants.', [(1056, 'et elle vous emmène toujours où elle veut')], ''),
     ('hicham', 'Elle aurait été excellente sans un naufrage.', 'It could have been excellent without a disaster.', [(1066, 'Elle aurait même pu être excellente sans un naufrage inattendu')], ''),
     ('hicham', 'Pour virer un associé, il faut une faute.', 'To fire a partner, you must prove misconduct.', [(1073, 'Pour virer un associé, il faut prouver une faute grave')], ''),
-    ('lea', "Attendez, qu'est-ce que c'est?", 'Wait, what is going on here?', [(1075, "Attendez, qu'est-ce que c'est")], ''),
+    ('andrea', "Attendez, qu'est-ce que c'est?", 'Wait, what is going on here?', [(1075, "Attendez, qu'est-ce que c'est")], ''),
     ('hicham', "La faute grave, c'est d'avoir menti.", 'The serious misconduct is having lied.', [(1080, "c'est d'avoir menti")], ''),
     ('gabriel', "J'ai compris, je m'en vais.", 'I understand, I am leaving.', [(1086, "J'ai compris. Je m'en vais")], ''),
-    ('lea', 'Une décision pareille se prend entre nous!', 'Such a decision is made between us!', [(1091, 'Une décision pareille, ça se prend entre nous')], ''),
+    ('andrea', 'Une décision pareille se prend entre nous!', 'Such a decision is made between us!', [(1091, 'Une décision pareille, ça se prend entre nous')], ''),
     ('hicham', 'Tout le monde a le droit à une chance?', 'Does everyone deserve a second chance?', [(1095, 'Tout le monde a le droit à une deuxième chance')], ''),
-    ('lea', 'À partir de maintenant, on fait tout ensemble!', 'From now on, we do everything together!', [(1106, 'À partir de maintenant, je vais tout faire avec toi')], ''),
+    ('andrea', 'À partir de maintenant, on fait tout ensemble!', 'From now on, we do everything together!', [(1106, 'À partir de maintenant, je vais tout faire avec toi')], ''),
 ]
 WALK = [
     (0, None, "'You all fought like dogs.' Hicham praises the relentless effort of the team. The formal 'you' pronoun sets a courteous, professional distance around 'have'."),

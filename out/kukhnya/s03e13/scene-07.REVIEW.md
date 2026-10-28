@@ -10,34 +10,34 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Знаешь, откуда взялись те две бутылки? | Do you know where those two bottles came from? | #88 00:06:17: Знаешь, откуда взялись те две бутылки | adapted: adapted |
-| 2 | Аня | Мы взяли их из нашего бара. | We took them from our bar. | #89 00:06:19: Из нашего бара | adapted: adapted |
-| 3 | Катя | А я думала, мне это приснилось! | And I thought I dreamed that! | #90 00:06:23: А я думала, мне приснилось | adapted: adapted |
-| 4 | Катя | Ты меня ночью в ресторан приглашал. | You invited me to the restaurant at night. | #90 00:06:23: ты меня ночью в ресторан приглашал | adapted: adapted |
-| 5 | Аня | Мы там набили посуды на огромную сумму. | We broke a huge amount of glassware there. | #91 00:06:27: мы с тобой там напили и набили | adapted: adapted |
-| 6 | Аня | Если начальство увидит запись с камер наблюдения, нам конец. | If management sees the security camera recording, we are done for. | #92 00:06:30: Если начальство увидит запись с камер наблюдения | adapted: adapted |
-| 7 | Аня | Спокойно, у меня есть план. | Stay calm, I have a plan. | #93 00:06:37: Спокойно, детка, у меня есть план | adapted: adapted |
-| 8 | Аня | Ключи от серверной сейчас у Вики. | Vika has the keys to the server room right now. | #94 00:06:40: Ключи от серверной у Вики | adapted: adapted |
-| 9 | Аня | Она подъезжает к ресторану и выходит из машины. | She drives up to the restaurant and gets out of the car. | #95 00:06:42: Она подъезжает к ресторану и выходит из машины | adapted: adapted |
-| 10 | Аня | Я отвлекаю её разговором. | I distract her with conversation. | #96 00:06:45: Я отвлекаю | adapted: adapted |
-| 11 | Аня | А ты быстро забираешь ключи. | And you quickly grab the keys. | #98 00:06:58: Ты забираешь ключи | adapted: adapted |
-| 12 | Аня | Ты проникаешь в ресторан и уничтожаешь записи. | You sneak into the restaurant and destroy the recordings. | #100 00:07:06: ты проникаешь в ресторан и уничтожаешь записи | adapted: adapted |
-| 13 | Катя | Где ты биту возьмёшь в ресторане? | Where will you get a bat in the restaurant? | #102 00:07:17: Где ты биту возьмёшь в ресторане | adapted: adapted |
-| 14 | Аня | Возьму со стены пожарный багром! | I will grab the fire hook off the wall! | #103 00:07:19: Багром | adapted: adapted |
+| 1 | Макс | Знаешь, откуда взялись те две бутылки? | Do you know where those two bottles came from? | #88: Знаешь, откуда взялись те две бутылки | adapted: adapted |
+| 2 | Макс | Мы взяли их из нашего бара. | We took them from our bar. | #89: Из нашего бара | adapted: adapted |
+| 3 | Катя | А я думала, мне это приснилось! | And I thought I dreamed that! | #90: А я думала, мне приснилось | adapted: adapted |
+| 4 | Катя | Ты меня ночью в ресторан приглашал. | You invited me to the restaurant at night. | #90: ты меня ночью в ресторан приглашал | adapted: adapted |
+| 5 | Макс | Мы там набили посуды на огромную сумму. | We broke a huge amount of glassware there. | #91: мы с тобой там напили и набили | adapted: adapted |
+| 6 | Макс | Если начальство увидит запись с камер наблюдения, нам конец. | If management sees the security camera recording, we are done for. | #92: Если начальство увидит запись с камер наблюдения | adapted: adapted |
+| 7 | Макс | Спокойно, у меня есть план. | Stay calm, I have a plan. | #93: Спокойно, детка, у меня есть план | adapted: adapted |
+| 8 | Макс | Ключи от серверной сейчас у Вики. | Vika has the keys to the server room right now. | #94: Ключи от серверной у Вики | adapted: adapted |
+| 9 | Макс | Она подъезжает к ресторану и выходит из машины. | She drives up to the restaurant and gets out of the car. | #95: Она подъезжает к ресторану и выходит из машины | adapted: adapted |
+| 10 | Макс | Я отвлекаю её разговором. | I distract her with conversation. | #96: Я отвлекаю | adapted: adapted |
+| 11 | Макс | А ты быстро забираешь ключи. | And you quickly grab the keys. | #98: Ты забираешь ключи | adapted: adapted |
+| 12 | Макс | Ты проникаешь в ресторан и уничтожаешь записи. | You sneak into the restaurant and destroy the recordings. | #100: ты проникаешь в ресторан и уничтожаешь записи | adapted: adapted |
+| 13 | Катя | Где ты биту возьмёшь в ресторане? | Where will you get a bat in the restaurant? | #102: Где ты биту возьмёшь в ресторане | adapted: adapted |
+| 14 | Макс | Возьму со стены пожарный багром! | I will grab the fire hook off the wall! | #103: Багром | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Do you know where those two bottles came from?' The grammar packs 'know' and 'bottles' into a tight, idiomatic kitchen exchange.
-- 'We took them from our bar.' The grammar packs 'we' and 'of the bar' into a tight, idiomatic kitchen exchange.
-- 'And I thought I dreamed that!' Spoken Russian keeps this brisk, leaning on 'and' and finishing on 'dreamed'.
-- 'You invited me to the restaurant at night.' Notice how Russian expresses 'you' and 'invited' with crisp inflection rather than helper words.
-- 'We broke a huge amount of glassware there.' The meaning hinges on 'we' working together with 'sum' in spoken Russian.
-- 'If management sees the security camera recording, we are done for.' In Russian, the idea of 'if' flows naturally into 'end' without extra filler words.
-- 'Stay calm, I have a plan.' Max brings out the contrast between 'calmly' and 'at' in a few short words.
-- 'Vika has the keys to the server room right now.' Notice how Russian expresses 'the keys' and 'Vika' with crisp inflection rather than helper words.
-- 'She drives up to the restaurant and gets out of the car.' Here the Russian phrasing highlights 'she' before landing on 'cars'.
-- 'I distract her with conversation.' Max brings out the contrast between 'I' and 'distract' in a few short words.
-- 'And you quickly grab the keys.' Notice how Russian puts 'quickly' and 'the keys' together in a short, direct phrase where word endings show how the ideas connect.
-- 'You sneak into the restaurant and destroy the recordings.' Notice how Russian expresses 'you' and 'recordings' with crisp inflection rather than helper words. Katya answers right away.
-- 'Where will you get a bat in the restaurant?' Here the Russian phrasing highlights 'where' before landing on 'restaurant'.
-- 'I will grab the fire hook off the wall!' The meaning hinges on 'will take' working together with 'with a fire hook' in spoken Russian.
+- 'Do you know where those two bottles came from?' Checking whether Katya knows where those two bottles came is how Max puts Katya on the spot.
+- 'We took them from our bar.' Since they took them from their bar, Max does not waste words on excuses.
+- 'And I thought I dreamed that!' Insisting that she thought she dreamed shows Katya is not backing down. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'You invited me to the restaurant at night.' With the work and shift in play, Katya keeps this short reply brisk and direct.
+- 'We broke a huge amount of glassware there.' Around the work and moment, Max sets a calm, everyday tone with Katya.
+- 'If management sees the security camera recording, we are done for.' Explaining that if management sees the security camera recording they are done lays the cards on the table for Katya.
+- 'Stay calm, I have a plan.' Staying calm he has a plan is how Max lays out the situation for Katya.
+- 'Vika has the keys to the server room right now.' Claiming that Vika has the keys to the server room right now sounds confident, even if Katya has doubts.
+- 'She drives up to the restaurant and gets out of the car.' Pointing out that she drives up to the restaurant and gets out of the car gives Katya a sobering reality check.
+- 'I distract her with conversation.' Around the point and kitchen, Max sets a calm, everyday tone with Katya.
+- 'And you quickly grab the keys.' Turning from the point to the shift, Max keeps the exchange moving. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'You sneak into the restaurant and destroy the recordings.' Over the point and the conversation, Max answers Katya without a second thought. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Where will you get a bat in the restaurant?' Asking where Max gets a bat in the restaurant will is how Katya puts Max on the spot.
+- 'I will grab the fire hook off the wall!' Saying that he will grab the fire hook off the wall is how Max takes charge of the moment. Russian puts the key word right up front so his emotion lands on the first beat.

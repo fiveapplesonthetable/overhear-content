@@ -7,8 +7,7 @@ SCENE = 6
 TITLE = "Magali s'en va  (Magali Quits)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'lea': 'lucie', 'magali': 'emilie'}
-LABELS = {'lea': 'Andréa', 'magali': 'Magali'}
+LABELS = {'andrea': 'Andréa', 'magali': 'Magali'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e01.fr.dual.srt'
 INTRO = "Now we follow Magali, Andréa's assistant. She has worked day and night for Andréa, she's exhausted, and today her mind is made up. First the whole scene in French; don't try to catch everything, the gist is enough."
@@ -17,22 +16,22 @@ TRANSITION = "Now let's listen to the entire dialogue once more."
 OUTRO = "So Magali is gone, and Andréa has no assistant at all. If commands felt easy this time, you've already learned a lot. See you next time!"
 CLOSING = ('magali', 'Au revoir, Andréa!')
 STORY = [
-    ('lea', 'Magali! Tu as une enveloppe?', 'Magali! Have you got an envelope?', [(213, 'Magali'), (219, 'Tu as une enveloppe')], ''),
+    ('andrea', 'Magali! Tu as une enveloppe?', 'Magali! Have you got an envelope?', [(213, 'Magali'), (219, 'Tu as une enveloppe')], ''),
     ('magali', "J'en ai assez. Je pars!", 'I', [(218, "J'en ai assez, je pars")], ''),
-    ('lea', 'Tu vas où?', 'Where are you going?', [(221, 'Tu vas où ?')], ''),
-    ('lea', 'Ne fais pas ça, Magali.', 'Don', [(222, 'Ne fais pas ça, Magali')], ''),
+    ('andrea', 'Tu vas où?', 'Where are you going?', [(221, 'Tu vas où ?')], ''),
+    ('andrea', 'Ne fais pas ça, Magali.', 'Don', [(222, 'Ne fais pas ça, Magali')], ''),
     ('magali', "Je n'en peux plus, Andréa.", 'I can', [(224, "Je n'en peux plus, Andréa")], ''),
     ('magali', 'Je suis très fatiguée.', 'I', [], ''),
-    ('lea', 'Bien sûr que tu es fatiguée.', 'Of course you', [(227, 'Bien sûr que tu es fatiguée')], ''),
-    ('lea', "On est tous fatigués. C'est l'hiver!", 'We', [(228, "l'hiver")], ''),
-    ('lea', 'Prends de la gelée royale.', 'Take some royal jelly.', [(229, 'Prends de la gelée royale')], ''),
-    ('lea', 'Fais du vélo! Ça donne des forces.', 'Ride a bike! It gives you energy.', [(230, 'Fais du vélo'), (230, 'des forces')], ''),
-    ('lea', "C'est comme ça que tu me remercies?", 'Is this how you thank me?', [(233, "C'est comme ça que tu me remercies ?")], ''),
-    ('lea', "C'est moi qui t'ai formée!", 'I', [(234, "C'est moi qui t'ai formée")], ''),
+    ('andrea', 'Bien sûr que tu es fatiguée.', 'Of course you', [(227, 'Bien sûr que tu es fatiguée')], ''),
+    ('andrea', "On est tous fatigués. C'est l'hiver!", 'We', [(228, "l'hiver")], ''),
+    ('andrea', 'Prends de la gelée royale.', 'Take some royal jelly.', [(229, 'Prends de la gelée royale')], ''),
+    ('andrea', 'Fais du vélo! Ça donne des forces.', 'Ride a bike! It gives you energy.', [(230, 'Fais du vélo'), (230, 'des forces')], ''),
+    ('andrea', "C'est comme ça que tu me remercies?", 'Is this how you thank me?', [(233, "C'est comme ça que tu me remercies ?")], ''),
+    ('andrea', "C'est moi qui t'ai formée!", 'I', [(234, "C'est moi qui t'ai formée")], ''),
     ('magali', "Je ne veux pas l'entendre!", 'I don', [(235, "Je ne veux pas l'entendre")], ''),
     ('magali', 'Je veux juste partir.', 'I just want to leave.', [(236, 'Je veux juste partir')], ''),
-    ('lea', "Tu ne pars pas. C'est moi qui te vire!", 'You', [(237, "Tu ne pars pas, c'est moi qui te vire")], ''),
-    ('lea', 'Tu es virée!', 'You', [(238, 'Tu es virée !')], ''),
+    ('andrea', "Tu ne pars pas. C'est moi qui te vire!", 'You', [(237, "Tu ne pars pas, c'est moi qui te vire")], ''),
+    ('andrea', 'Tu es virée!', 'You', [(238, 'Tu es virée !')], ''),
 ]
 WALK = [
     (0, None, "'Magali! Have you got an envelope?' Andréa uses the casual 'you' with her assistant, as everyone does at the agency. But Magali isn't fetching envelopes today."),

@@ -1,23 +1,25 @@
+# Authoring module for kukhnya-s04e11-scene-08.
 ID = 'kukhnya-s04e11-scene-08'
 SHOW = 'kukhnya'
 SEASON = 4
 EPISODE = 11
 SCENE = 8
-TITLE = "Музыкант на полставки  (Part-Time Musician)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Музыкант на полставки  (Part-Time Musician)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "nagiyev": "angelina", "denis": "anja"}
-LABELS = {"nagiyev": "Нагиев", "denis": "Денис"}
+LABELS = {'denis': 'Денис', 'nagiyev': 'Нагиев', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S4.11'
 SOURCE_FILE = 'sources/kukhnya/s04/e11.ru.srt'
-
 INTRO = "As soon as the lights flicker back on, Nagiyev's date realizes he only hosts The Voice and has no power over casting, leaving Nagiyev to console himself by hiring Denis as a pianist."
-
+OPENER = "Let's go through each line of the breakup and Denis's promotion."
+TRANSITION = "Now let's hear the whole scene again from start to finish."
+OUTRO = "That wraps up this scene as when the lights come back on, Nagiyev's date storms out after learning he cannot get her onto The Voice, and Nagiyev hires Denis part-time for his piano playing. See you next time!"
+CLOSING = ('nagiyev', 'Всего хорошего!')
 STORY = [
     ('nagiyev', 'Вот наконец и появился свет!', 'Here at last the light has come back on!', [(103, 'будет свет')], 'adapted for A1 clarity'),
     ('nagiyev', 'Ну что, поедем сейчас ко мне?', 'Well then, shall we go to my place now?', [(105, 'Поедем к тебе')], 'adapted for A1 clarity'),
-    ('nagiyev', 'Нет, у меня ещё важные дела.', 'No, I still have important business.', [(106, 'У меня еще дела')], 'adapted for A1 clarity'),
-    ('nagiyev', 'А как же кастинг на шоу?', 'And what about the casting for the show?', [(108, 'А как же кастинг на шоу')], ''),
+    ('vika', 'Нет, у меня ещё важные дела.', 'No, I still have important business.', [(106, 'У меня еще дела')], 'adapted for A1 clarity'),
+    ('vika', 'А как же кастинг на шоу?', 'And what about the casting for the show?', [(108, 'А как же кастинг на шоу')], ''),
     ('nagiyev', 'Это тебе совсем не ко мне.', 'You have come to the wrong person for that.', [(109, 'Это тебе не ко мне')], 'adapted for A1 clarity'),
     ('nagiyev', 'Я же там просто ведущий!', 'I am just the host on there!', [(111, 'ведущий просто')], 'adapted for A1 clarity'),
     ('nagiyev', 'Куда же ты пошла, постой!', 'Where are you going, wait!', [(112, 'Ты брось')], 'adapted for A1 clarity'),
@@ -29,26 +31,19 @@ STORY = [
     ('nagiyev', 'Возьму тебя на полставки.', 'I will put you on half-time pay.', [(120, 'На полставки')], 'adapted for A1 clarity'),
     ('denis', 'Спасибо большое, Дмитрий Владимирович!', 'Thank you very much, Dmitry Vladimirovich!', [(121, 'Спасибо')], 'adapted for A1 clarity'),
 ]
-
-OPENER = "Let's go through each line of the breakup and Denis's promotion."
-
 WALK = [
-    (0, None, "'Here at last the light has come back on!' When the electricity returns, the dining room lights up brightly."),
-    (1, None, "'Well then, shall we go to my place now?' Nagiyev leans across the table expecting his romantic evening to continue."),
-    (2, None, "'No, I still have important business.' In Russian, 'dela' in the plural means 'business', 'errands', or 'things to do'."),
-    (3, None, "'And what about the casting for the show?' The phrase 'and how about...?' brings up the real reason she agreed to dinner."),
-    (4, None, "'You have come to the wrong person for that.' Literally 'that for you is not to me', an idiomatic way to say 'that's not my department'."),
-    (5, None, "'I am just the host on there!' Notice how Russian puts 'simply, just' and 'host' together in a short, direct phrase where word endings show how the ideas connect."),
-    (6, None, "'Where are you going, wait!' His date throws her napkin down and marches out of the restaurant."),
-    (7, None, "'Thank you, you cheered an old man up.' Turning to Denis at the piano, Nagiyev praises his soulful music."),
-    (8, None, "'Thank you, I tried very hard.' Denis stands up respectfully by the piano."),
-    (9, None, "'Who are you at our place, anyway?' Nagiyev does not even recognize his own kitchen cook out of uniform."),
-    (10, None, "'I work here as a cook.' Here Denis anchors the thought on 'work' and finishes on 'as a cook', keeping the spoken rhythm brisk and natural."),
-    (11, None, "'You will also be a musician at our place.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'."),
-    (12, None, "'I will put you on half-time pay.' In Russian labor terms, 'stavka' is a full-time salary rate, so 'polstavki' is a half-time position."),
-    (13, None, "'Thank you very much, Dmitry Vladimirovich!' Denis beams at earning a second paycheck playing the piano he loves."),
+    (0, None, "'Here at last the light has come back on!' Nagiyev insists that here at last the light has come back, leaving Denis no room to argue. Russian puts the key word right up front so his emotion lands on the first beat."),
+    (1, None, '\'Well then, shall we go to my place now?\' Over the shift and the date, Nagiyev presses Denis for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.'),
+    (2, None, "'No, I still have important business.' Once she still has important business, Vika can finally tell Denis what she means."),
+    (3, None, '\'And what about the casting for the show?\' With the shift and date hanging in the air, Vika puts Denis on the spot. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.'),
+    (4, None, '\'You have come to the wrong person for that.\' Saying that Denis has come to the wrong person is how Nagiyev sets the tone with Denis. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
+    (5, None, "'I am just the host on there!' Saying that he is just the host on there is how Nagiyev takes charge of the moment."),
+    (6, None, '\'Where are you going, wait!\' Declaring that where are Denis going wait brings Nagiyev\'s temper right to the surface. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
+    (7, None, '\'Thank you, you cheered an old man up.\' Around the shift and date, Nagiyev sets a calm, everyday tone with Denis. Speaking with the close, informal "you" strips away any polite distance between them.'),
+    (8, None, "'Thank you, I tried very hard.' Because he tried very hard, Denis treats the matter as settled."),
+    (9, None, '\'Who are you at our place, anyway?\' By asking who Denis at their place anyway is, Nagiyev presses Denis for a straight answer. Russian expresses having something as "by me is", keeping the phrase short and grounded.'),
+    (10, None, "'I work here as a cook.' Admitting that he works here as a cook shows Denis being honest for a change."),
+    (11, None, "'You will also be a musician at our place.' Claiming that Denis will also be a musician at their place sounds confident, even if Denis has doubts."),
+    (12, None, '\'I will put you on half-time pay.\' Explaining that he will put Denis on half time pay lays the cards on the table for Denis. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
+    (13, None, "'Thank you very much, Dmitry Vladimirovich!' Over the conversation and the date, Denis lets his real feelings show. Russian puts the key word right up front so his emotion lands on the first beat."),
 ]
-
-TRANSITION = "Now let's hear the whole scene again from start to finish."
-OUTRO = "That wraps up this scene as when the lights come back on, Nagiyev's date storms out after learning he cannot get her onto The Voice, and Nagiyev hires Denis part-time for his piano playing. See you next time!"
-CLOSING = ("nagiyev", "Всего хорошего!")

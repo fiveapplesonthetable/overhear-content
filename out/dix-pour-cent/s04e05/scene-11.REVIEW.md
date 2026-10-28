@@ -1,31 +1,43 @@
-# Review: `dix-pour-cent-s04e05-scene-11` — Répétition amoureuse  (Romantic Rehearsal)
+# dix-pour-cent-s04e05-scene-11: review sheet
 
-- **Source**: `sources/dix-pour-cent/s04/e05.fr.dual.srt`
-- **Level**: A1 — débutant
-- **Voices**: `{"narrator": "sky", "sofia": "emilie", "gabriel": "theo"}`
-- **Labels**: `{"sofia": "Sofia", "gabriel": "Gabriel"}`
+Title: Répétition amoureuse  (Romantic Rehearsal)
+Level: A1 — débutant
+Pair: fr-en
+Source: Dix pour cent (Call My Agent!) S04E05
 
-## Part 1 — Intro
-> In Gabriel Sarda's office, Sofia Leprince finds Gabriel anxious about reconnecting with his ex-girlfriend Sarah. To help him prepare, Sofia offers to roleplay Sarah so Gabriel can rehearse his answers. However, the pretend rehearsal quickly stirs up unresolved feelings between the two former lovers. Let's listen to their conversation in French first.
 
-## Part 2 — Story Lines
-| # | Role | French | English | Source Cues |
-|---|------|--------|---------|-------------|
-| 0 | `gabriel` (Gabriel) | Sarah accepte de me revoir ce soir! | Sarah agrees to see me again tonight! | 439:C'est Sarah., 440:Elle accepte de me revoir. |
-| 1 | `sofia` (Sofia) | C'est super, tu es content? | That is great, are you happy? | 441:Merci. |
-| 2 | `gabriel` (Gabriel) | J'ai peur de faire une erreur. | I am afraid of making a mistake. | 442:J'espère que je ne vais pas tout rater, comme d'habitude. |
-| 3 | `sofia` (Sofia) | On va répéter ensemble comme au cinéma. | We will rehearse together like in cinema. | 443:L'amour, c'est comme le cinéma, ça se répète., 444:On répète. |
-| 4 | `sofia` (Sofia) | Moi, je suis Sarah, action! | Me, I am Sarah, action! | 445:Je suis Sarah, tu es Gabriel., 447:Action. |
-| 5 | `sofia` (Sofia) | Pourquoi tu as rompu avec moi? | Why did you break up with me? | 448:Pourquoi tu m'as larguée pour ton ex ? |
-| 6 | `gabriel` (Gabriel) | Sarah ne va pas parler comme ça! | Sarah will not speak like that! | 449:Elle va être aussi énervée que ça ? |
-| 7 | `sofia` (Sofia) | Tu as encore des sentiments pour Sofia? | Do you still have feelings for Sofia? | 450:Réponds. Tu couches encore avec Sofia ? |
-| 8 | `gabriel` (Gabriel) | Non, c'est du passé entre nous. | No, it is in the past between us. | 451:Non. Pas du tout. Il ne s'est rien passé. |
-| 9 | `sofia` (Sofia) | Tu as hésité avant de répondre! | You hesitated before answering! | 452:Tu as hésité. Pourquoi tu as hésité ? |
-| 10 | `sofia` (Sofia) | Promets-moi que tu ne l'aimes plus. | Promise me that you no longer love her. | 458:Promets-moi que tu ne l'aimes pas., 460:Promets-moi... que tu ne l'aimes plus. |
-| 11 | `gabriel` (Gabriel) | Sofia, on devrait s'arrêter là. | Sofia, we should stop there. | 461:Écoute, je crois qu'on devrait s'arrêter là. |
-| 12 | `sofia` (Sofia) | Tu parles à Sarah ou à moi? | Are you talking to Sarah or to me? | 462:Tu parles à qui ? À Sarah ou à moi ? |
-| 13 | `gabriel` (Gabriel) | Je ne sais plus du tout. | I no longer know at all. | 462:Tu parles à qui ? À Sarah ou à moi ? |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 5 — Outro & Closing
-> What started as a lighthearted rehearsal leaves both Gabriel and Sofia unsettled by their true feelings. When you watch the episode, listen out for the expressions meaning 'agrees' and 'see again'. You'll catch them now. See you next time!
-- **Closing**: `gabriel`: *À bientôt!*
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+|---|---|---|---|---|---|
+| 1 | Gabriel | Sarah accepte de me revoir ce soir! | Sarah agrees to see me again tonight! | #439: C'est Sarah.<br>#440: Elle accepte de me revoir. | verbatim |
+| 2 | Sofia | C'est super, tu es content? | That is great, are you happy? | #441: Merci. | verbatim |
+| 3 | Gabriel | J'ai peur de faire une erreur. | I am afraid of making a mistake. | #442: J'espère que je ne vais pas tout rater, comme d'habitude. | verbatim |
+| 4 | Sofia | On va répéter ensemble comme au cinéma. | We will rehearse together like in cinema. | #443: L'amour, c'est comme le cinéma, ça se répète.<br>#444: On répète. | verbatim |
+| 5 | Sofia | Moi, je suis Sarah, action! | Me, I am Sarah, action! | #445: Je suis Sarah, tu es Gabriel.<br>#447: Action. | verbatim |
+| 6 | Sofia | Pourquoi tu as rompu avec moi? | Why did you break up with me? | #448: Pourquoi tu m'as larguée pour ton ex ? | verbatim |
+| 7 | Gabriel | Sarah ne va pas parler comme ça! | Sarah will not speak like that! | #449: Elle va être aussi énervée que ça ? | verbatim |
+| 8 | Sofia | Tu as encore des sentiments pour Sofia? | Do you still have feelings for Sofia? | #450: Réponds. Tu couches encore avec Sofia ? | verbatim |
+| 9 | Gabriel | Non, c'est du passé entre nous. | No, it is in the past between us. | #451: Non. Pas du tout. Il ne s'est rien passé. | verbatim |
+| 10 | Sofia | Tu as hésité avant de répondre! | You hesitated before answering! | #452: Tu as hésité. Pourquoi tu as hésité ? | verbatim |
+| 11 | Sofia | Promets-moi que tu ne l'aimes plus. | Promise me that you no longer love her. | #458: Promets-moi que tu ne l'aimes pas.<br>#460: Promets-moi... que tu ne l'aimes plus. | verbatim |
+| 12 | Gabriel | Sofia, on devrait s'arrêter là. | Sofia, we should stop there. | #461: Écoute, je crois qu'on devrait s'arrêter là. | verbatim |
+| 13 | Sofia | Tu parles à Sarah ou à moi? | Are you talking to Sarah or to me? | #462: Tu parles à qui ? À Sarah ou à moi ? | verbatim |
+| 14 | Gabriel | Je ne sais plus du tout. | I no longer know at all. | #462: Tu parles à qui ? À Sarah ou à moi ? | verbatim |
+
+## Walk-through narration (English only, no target-language words quoted)
+
+- 'Sarah agrees to see me again tonight!' Gabriel shares his excitement. Notice how 'agrees' leads directly into the noun meaning 'evening'.
+- 'That is great, are you happy?' Sofia asks while masking her true reaction. Sofia uses the casual singular 'you' with 'this line', showing close familiarity.
+- 'I am afraid of making a mistake.' Gabriel confesses his self-doubt. Notice how 'have' leads directly into the noun meaning 'fear'.
+- 'We will rehearse together like in cinema.' Sofia suggests a practical acting exercise. Notice how 'are going to' leads directly into the noun meaning 'cinema'.
+- 'Me, I am Sarah, action!' Sofia adopts the character of Gabriel's date. The key noun here means 'action', anchored by its matching French article.
+- 'Why did you break up with me?' Sofia begins the simulated confrontation. In everyday spoken French, rising intonation on 'have' at the end is enough to turn the sentence into a question.
+- 'Sarah will not speak like that!' Gabriel objects to the hostile greeting. The two-part French negation brackets the verb for 'will' on both sides.
+- 'Do you still have feelings for Sofia?' Sofia uses the roleplay to question Gabriel about herself. In everyday spoken French, rising intonation on 'have' at the end is enough to turn the sentence into a question.
+- 'No, it is in the past between us.' Gabriel claims that his past relationship is over. The key noun here means 'past', anchored by its matching French article.
+- 'You hesitated before answering!' Sofia detects doubt in his immediate reply. This conversational past tense combines a helper verb with the past verb form for 'hesitated'.
+- 'Promise me that you no longer love her.' Sofia uses the casual singular 'you' with 'promise', showing close familiarity. Sofia uses the casual singular 'you' with 'promise', showing close familiarity.
+- 'Sofia, we should stop there.' Gabriel recognizes that the exercise has gone too far. The clause hinges on the everyday verb meaning 'should'.
+- 'Are you talking to Sarah or to me?' Sofia challenges him to face his authentic emotions. The clause hinges on the everyday verb meaning 'are speaking'.
+- 'I no longer know at all.' Gabriel admits his helplessness in front of her. The two-part negative structure wraps around 'know' to express 'no longer' or 'not anymore'.

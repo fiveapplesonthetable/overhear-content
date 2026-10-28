@@ -7,8 +7,7 @@ SCENE = 18
 TITLE = 'Une rencontre embarrassante  (An Awkward Encounter)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'catherine': 'emilie', 'mathias': 'marcel', 'lea': 'lucie'}
-LABELS = {'catherine': 'Catherine', 'mathias': 'Mathias', 'lea': 'Andréa'}
+LABELS = {'catherine': 'Catherine', 'mathias': 'Mathias', 'noemie': 'Noémie'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e03.fr.dual.srt'
 INTRO = 'At Le Grand Colbert restaurant, Mathias is having lunch with Camille and her mother Annick when Catherine arrives unexpectedly. A mortified Noémie stands beside her as Mathias tries to control the deeply uncomfortable situation. Listen to the scene in French first.'
@@ -22,7 +21,7 @@ STORY = [
     ('mathias', "Catherine? Qu'est-ce que tu fais là?", 'Catherine? What are you doing here?', [(450, 'je ne savais pas que Mathias serait là')], ''),
     ('catherine', 'Je viens déjeuner avec vous tous.', 'I came to have lunch with you all.', [(446, 'Je viens avec toi')], ''),
     ('mathias', "Noémie, retournez au bureau, s'il vous plaît.", 'Noémie, please return to the office.', [(457, "Retournez au bureau, s'il vous plaît")], ''),
-    ('lea', 'Très bien, je vous laisse.', 'Very well, I will leave you.', [(457, "D'accord")], ''),
+    ('noemie', 'Très bien, je vous laisse.', 'Very well, I will leave you.', [(457, "D'accord")], ''),
     ('mathias', "Ce déjeuner n'était pas prévu ainsi.", 'This lunch was not planned this way.', [(451, "Je n'avais pas prévu de le voir")], ''),
     ('catherine', "Ce n'est rien, je m'assieds avec vous.", 'It', [(459, "Ne t'inquiète pas, c'est pas ta faute")], ''),
     ('mathias', 'Tu veux commander à manger?', 'Do you want to order something to eat?', [(460, 'Vous êtes trois ? Quatre ? Pour déjeuner ?')], ''),

@@ -7,26 +7,25 @@ SCENE = 7
 TITLE = 'Le mauvais partenaire  (The Wrong Partner)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'sigourney': 'emilie', 'mathias': 'marcel'}
-LABELS = {'sigourney': 'Sigourney', 'mathias': 'Mathias'}
+LABELS = {'camille': 'Camille', 'sigourney': 'Sigourney'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e05.fr.dual.srt'
 INTRO = "At the hotel, Sigourney Weaver is furious and packing her bags to return to Los Angeles. Camille tries to calm her down. We'll hear their conversation in French first, but don't worry about catching every word."
 OPENER = "Let's walk through it. Camille finds her client packing her bags."
 TRANSITION = "Now let's listen to the entire dialogue once more."
 OUTRO = "Sigourney Weaver wants a young romantic lead, and she won't settle for less. See you next time!"
-CLOSING = ('mathias', 'À plus tard!')
+CLOSING = ('camille', 'À plus tard!')
 STORY = [
-    ('mathias', "Sigourney, qu'est-ce qui se passe?", 'Sigourney, what is going on?', [(299, "Sigourney... Qu'est-ce qui se passe ?")], ''),
+    ('camille', "Sigourney, qu'est-ce qui se passe?", 'Sigourney, what is going on?', [(299, "Sigourney... Qu'est-ce qui se passe ?")], ''),
     ('sigourney', 'Je rentre à Los Angeles.', 'I am going back to Los Angeles.', [(300, 'Je rentre à Los Angeles.')], ''),
-    ('mathias', 'Mais pourquoi?', 'But why?', [(301, 'Mais pourquoi ?')], ''),
+    ('camille', 'Mais pourquoi?', 'But why?', [(301, 'Mais pourquoi ?')], ''),
     ('sigourney', 'Je dois prendre cet avion.', 'I must take this plane.', [(302, 'Je dois prendre cet avion.')], ''),
-    ('mathias', 'Vous avez douze heures pour vous expliquer.', 'You have twelve hours to explain.', [(308, 'Vous aurez 12 heures pour vous expliquer.')], ''),
+    ('camille', 'Vous avez douze heures pour vous expliquer.', 'You have twelve hours to explain.', [(308, 'Vous aurez 12 heures pour vous expliquer.')], ''),
     ('sigourney', 'Je pensais que Gaspard Ulliel serait mon partenaire.', 'I thought that Gaspard Ulliel would be my partner.', [(310, 'je pensais que Gaspard Ulliel serait mon partenaire.')], ''),
-    ('mathias', "Mais personne n'a dit ça.", 'But nobody said that.', [(311, "Mais personne n'a dit ça...")], ''),
+    ('camille', "Mais personne n'a dit ça.", 'But nobody said that.', [(311, "Mais personne n'a dit ça...")], ''),
     ('sigourney', 'Une Américaine qui tout quitte par amour...', 'An American woman who leaves everything for love...', [(313, 'Une Américaine'), (313, 'qui tout quitte par amour')], ''),
     ('sigourney', 'Pour un jeune professeur, je trouvais ça fort.', 'For a young professor, I thought that was compelling.', [(314, "d'un jeune professeur"), (314, 'je trouvais ça fort.')], ''),
-    ('mathias', 'Gaspard Ulliel a trente-cinq ans.', 'Gaspard Ulliel is thirty-five years old.', [(315, 'Gaspard Ulliel a 35 ans.')], ''),
+    ('camille', 'Gaspard Ulliel a trente-cinq ans.', 'Gaspard Ulliel is thirty-five years old.', [(315, 'Gaspard Ulliel a 35 ans.')], ''),
     ('sigourney', 'Il est temps que les choses changent.', 'It is time for things to change.', [(319, 'il est temps que les choses changent ?')], ''),
     ('sigourney', 'Et Gaspard sera mon amant.', 'And Gaspard will be my lover.', [(323, 'Et Gaspard, mon amant.')], ''),
 ]

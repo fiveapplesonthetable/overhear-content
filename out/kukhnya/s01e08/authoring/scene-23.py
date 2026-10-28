@@ -4,18 +4,17 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 8
 SCENE = 23
-TITLE = "Сгоревшие перепела  (Burnt Quails)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Сгоревшие перепела  (Burnt Quails)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "vika": "angelina", "fedya": "anja"}
-LABELS = {"vika": "Вика", "fedya": "Федя"}
+LABELS = {'fedya': 'Федя', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.08'
 SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
 INTRO = "In the dining room, guests are growing impatient as kitchen delays mount during the dinner rush. Victoria storms into the kitchen demanding immediate answers from Fedya about overdue fish orders. Fedya protests that he is overwhelmed by a mountain of checks, when suddenly acrid smoke fills the air. Let's listen to the kitchen chaos in Russian first."
 OPENER = "Let's break down this fast-paced kitchen emergency line by line. Notice how urgent time expressions and sensory exclamations build dramatic tension."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Choking on smoke and racing against the clock, Fedya and Victoria face a dinner service spinning out of control. Superb job tackling dramatic dialogue in conversational Russian! Next time you watch the episode, listen for the Russian expressions for 'to be' and 'possible' — you will catch every word right away. See you next time!"
-CLOSING = ("vika", "Пока!")
+CLOSING = ('vika', 'Пока!')
 STORY = [
     ('vika', 'Федя, когда дорада наконец будет готова?', 'Fedya, when will the sea bream finally be ready?', [(266, 'Федор, когда дорада будет готова')], ''),
     ('fedya', 'Чек пробили только сейчас, я спешу!', 'The receipt was punched only now, I am rushing!', [(267, 'чек пробили')], ''),

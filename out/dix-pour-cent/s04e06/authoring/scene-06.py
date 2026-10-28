@@ -7,8 +7,7 @@ SCENE = 6
 TITLE = "L'envie de partir  (The Desire to Leave)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'jean': 'theo', 'lea': 'lucie'}
-LABELS = {'jean': 'Jean', 'lea': 'Andréa'}
+LABELS = {'andrea': 'Andréa', 'jean': 'Jean'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e06.fr.dual.srt'
 INTRO = "Sitting together at the cafe terrace, Jean Reno opens his heart to Andrea. He reveals that he is weary of commercial cinema and longs for a simpler life with family and nature. Let's listen to their conversation in French first."
@@ -18,18 +17,18 @@ OUTRO = "Despite Andrea's passionate pitch for a revolutionary historical drama,
 CLOSING = ('jean', 'Au revoir!')
 STORY = [
     ('jean', 'Maintenant on peut enfin parler.', 'Now we can finally talk.', [(210, 'Maintenant on peut parler')], ''),
-    ('lea', "Je m'inquiète beaucoup pour toi.", 'I am very worried about you.', [(211, "Je m'inquiète pour toi")], ''),
+    ('andrea', "Je m'inquiète beaucoup pour toi.", 'I am very worried about you.', [(211, "Je m'inquiète pour toi")], ''),
     ('jean', 'Je suis un homme très simple.', 'I am a very simple man.', [(213, 'Je suis un homme simple')], ''),
     ('jean', "J'aime la famille et les amis.", 'I love family and friends.', [(214, 'La famille')], ''),
     ('jean', 'Le cinéma est devenu trop compliqué.', 'Cinema has become too complicated.', [(216, 'compliqué')], ''),
     ('jean', 'Il faut savoir partir maintenant.', 'One must know when to leave now.', [(219, 'il faut savoir partir')], ''),
     ('jean', 'Quitter le devant de la scène.', 'To leave the front of the stage.', [(220, 'devant de la scène')], ''),
-    ('lea', "J'avais un très beau rôle.", 'I had a very beautiful role.', [(223, 'beau rôle')], ''),
-    ('lea', 'Un film sur la Révolution française.', 'A movie about the French Revolution.', [(227, 'révolutionnaire')], ''),
+    ('andrea', "J'avais un très beau rôle.", 'I had a very beautiful role.', [(223, 'beau rôle')], ''),
+    ('andrea', 'Un film sur la Révolution française.', 'A movie about the French Revolution.', [(227, 'révolutionnaire')], ''),
     ('jean', 'Ça sonne bien, mais je décline.', 'It sounds good, but I decline.', [(231, 'je décline')], ''),
-    ('lea', 'Tu préfères finir en Père Noël?', 'Do you prefer ending as Santa Claus?', [(232, 'Père Noël')], ''),
+    ('andrea', 'Tu préfères finir en Père Noël?', 'Do you prefer ending as Santa Claus?', [(232, 'Père Noël')], ''),
     ('jean', 'Je te laisse méditer là-dessus.', 'I leave you to ponder that.', [(236, 'méditer')], ''),
-    ('lea', 'Je ne lâcherai pas le combat!', 'I will not give up the fight!', [(238, 'ne lâcherai pas')], ''),
+    ('andrea', 'Je ne lâcherai pas le combat!', 'I will not give up the fight!', [(238, 'ne lâcherai pas')], ''),
     ('jean', 'Bien, alors continue le grand combat.', 'Good, then continue the great fight.', [(239, 'continue le combat')], ''),
 ]
 WALK = [

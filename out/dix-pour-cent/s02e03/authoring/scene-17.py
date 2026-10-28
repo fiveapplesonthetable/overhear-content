@@ -7,8 +7,7 @@ SCENE = 17
 TITLE = "La visite surprise de Catherine  (Catherine's Surprise Visit)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'noemie': 'emilie', 'lea': 'lucie'}
-LABELS = {'noemie': 'Noémie', 'lea': 'Andréa'}
+LABELS = {'catherine': 'Catherine', 'noemie': 'Noémie'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e03.fr.dual.srt'
 INTRO = "At the agency, Noémie receives a shock when Mathias's estranged wife Catherine arrives asking to see her. Terrified that Catherine has discovered their secret affair, Noémie scrambles for an excuse to flee the office. Listen to the scene in French first."
@@ -24,14 +23,14 @@ STORY = [
     ('noemie', "Ta femme est là à l'agence!", 'Your wife is here at the agency!', [(432, 'Ta femme est là')], ''),
     ('noemie', 'Elle est au courant pour nous?', 'Does she know about us?', [(432, 'Elle est au courant pour nous')], ''),
     ('noemie', 'Je ne sais pas quoi faire, rappelle-moi!', 'I don', [(433, 'Je ne sais pas quoi faire. Rappelle-moi')], ''),
-    ('lea', 'Bonjour, Noémie.', 'Hello, Noémie.', [(436, 'Noémie... Bonjour, Noémie')], ''),
+    ('catherine', 'Bonjour, Noémie.', 'Hello, Noémie.', [(436, 'Noémie... Bonjour, Noémie')], ''),
     ('noemie', 'Bonjour Catherine. Désolée, je dois partir.', 'Hello Catherine. Sorry, I have to leave.', [(437, 'Désolée, je dois y aller')], ''),
-    ('lea', "Attends, c'est à propos de Mathias.", 'Wait, it', [(438, 'Noémie'), (439, "C'est à propos de Mathias")], ''),
+    ('catherine', "Attends, c'est à propos de Mathias.", 'Wait, it', [(438, 'Noémie'), (439, "C'est à propos de Mathias")], ''),
     ('noemie', 'Je suis très en retard.', 'I am running very late.', [(440, 'je suis en retard'), (442, 'Et je suis... très, très en retard')], ''),
     ('noemie', 'Je déjeune avec Camille et sa mère.', 'I', [(441, 'Je déjeune avec Camille et sa mère')], ''),
-    ('lea', 'Camille et sa mère?', 'Camille and her mother?', [(443, 'Camille et sa mère')], ''),
-    ('lea', "J'ai besoin de manger un steak tartare.", 'I need to eat a steak tartare.', [(444, "Elle est à Paris, j'ai besoin d'un steak tartare")], ''),
-    ('lea', 'Je viens avec toi!', 'I', [(446, 'Je viens avec toi')], ''),
+    ('catherine', 'Camille et sa mère?', 'Camille and her mother?', [(443, 'Camille et sa mère')], ''),
+    ('catherine', "J'ai besoin de manger un steak tartare.", 'I need to eat a steak tartare.', [(444, "Elle est à Paris, j'ai besoin d'un steak tartare")], ''),
+    ('catherine', 'Je viens avec toi!', 'I', [(446, 'Je viens avec toi')], ''),
     ('noemie', "D'accord... allons-y ensemble.", 'All right... let', [(445, 'Fermeture des portes')], ''),
 ]
 WALK = [

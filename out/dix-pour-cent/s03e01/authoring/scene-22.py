@@ -7,8 +7,7 @@ SCENE = 22
 TITLE = "Les confidences de Noémie  (Noémie's Confidences)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'noemie': 'emilie', 'herve': 'marcel', 'lea': 'lucie'}
-LABELS = {'noemie': 'Noémie', 'herve': 'Hervé', 'lea': 'Andréa'}
+LABELS = {'camille': 'Camille', 'herve': 'Hervé', 'noemie': 'Noémie'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e01.fr.dual.srt'
 INTRO = "At the ASK agency after hours, assistants Herve, Camille, and Noemie chat about their evening plans. Noemie reveals the ongoing romantic drama with her married neighbour Philippe. Let's listen to the scene in French first."
@@ -18,14 +17,14 @@ OUTRO = "That's it for this scene around noemie's confidences. When you watch th
 CLOSING = ('herve', 'Au revoir!')
 STORY = [
     ('herve', 'Que faites-vous ce soir, les filles?', 'What are you doing tonight, girls?', [(924, 'ce soir, les filles ?')], ''),
-    ('lea', 'Moi, je vais au théâtre ce soir.', 'Me, I am going to the theater tonight.', [(925, 'Moi, je vais au théâtre')], ''),
+    ('camille', 'Moi, je vais au théâtre ce soir.', 'Me, I am going to the theater tonight.', [(925, 'Moi, je vais au théâtre')], ''),
     ('herve', 'Et toi Noémie, tu vois Philippe?', 'And you Noemie, are you seeing Philippe?', [(927, 'Avec qui ? Avec Philippe ?')], ''),
-    ('lea', "C'est qui exactement, ce Philippe?", 'Who exactly is this Philippe?', [(930, "C'est qui, Philippe ?")], ''),
+    ('camille', "C'est qui exactement, ce Philippe?", 'Who exactly is this Philippe?', [(930, "C'est qui, Philippe ?")], ''),
     ('herve', "Mais attends, c'est son cher voisin!", 'Well wait, he is her dear neighbour!', [(938, "Philippe, c'est son voisin.")], ''),
     ('noemie', 'En fait, Philippe est un homme marié.', 'In fact, Philippe is a married man.', [(940, 'il est marié,')], ''),
     ('noemie', 'Nous avons eu une petite histoire secrète.', 'We had a little secret affair.', [(940, 'on a eu une liaison')], ''),
     ('herve', 'Ils vivent dans le même immeuble!', 'They live in the same building!', [(943, 'dans le même immeuble.')], ''),
-    ('lea', "Tu devrais peut-être changer d'appartement.", 'You should perhaps change apartments.', [(947, 'je déménage rien.')], ''),
+    ('camille', "Tu devrais peut-être changer d'appartement.", 'You should perhaps change apartments.', [(947, 'je déménage rien.')], ''),
     ('noemie', 'Ah non, moi je reste ici!', 'Oh no, I am staying here!', [(948, 'Alors là, non.')], ''),
     ('noemie', "C'est à lui de déménager, franchement.", 'It is up to him to move, honestly.', [(949, "C'est plutôt à lui de déménager")], ''),
     ('noemie', 'Je vois bien ses regards discrets.', 'I clearly see his discreet glances.', [(952, 'Je vois bien comment il me regarde.')], ''),

@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Шеф | Парни, сейчас всё в ваших руках. | Guys, everything is in your hands right now. | #75 00:05:16: Парни, сейчас все в ваших руках | adapted: adapted |
-| 2 | Шеф | Покажите, кто на кухне хозяин. | Show them who is the master in the kitchen. | #76 00:05:18: кто на этой кухне хозяин | adapted: adapted |
-| 3 | Шеф | Идите и верните свою работу. | Go and win back your jobs. | #77 00:05:23: Идите и верните свою работу | adapted: adapted |
-| 4 | Сеня | Шеф, мы их сегодня порвём! | Chef, we will tear them apart today! | #78 00:05:26: Мы их порвем | adapted: adapted |
-| 5 | Шеф | Мы быстро победим этих поваров. | We will quickly defeat these cooks. | #79 00:05:28: сделаем их все | adapted: adapted |
-| 6 | Шеф | Лучше докажи это на кухне. | Better prove that in the kitchen. | #85 00:05:40: Лучше сделай это с ними на кухне | adapted: adapted |
-| 7 | Шеф | Давайте как в старые времена! | Let us do it like in the old days! | #86 00:05:43: как в старые добрые времена | adapted: adapted |
-| 8 | Шеф | Каждая пара приготовит одно блюдо. | Each pair will prepare one dish. | #87 00:06:06: Каждая пара приготовит по одному блюду | adapted: adapted |
-| 9 | Шеф | Кто приготовит лучше, тот останется. | Whoever cooks better will stay. | #88 00:06:11: Кто приготовит лучше, тот и останется | adapted: adapted |
-| 10 | Шеф | Лучшие останутся на этой кухне. | The best will remain in this kitchen. | #88 00:06:11: останется на этой кухне | adapted: adapted |
-| 11 | Шеф | У вас ровно полчаса времени. | You have exactly half an hour. | #89 00:06:14: У вас полчаса | adapted: adapted |
-| 12 | Шеф | Давайте, ребята, приступайте к работе! | Come on, guys, get started on the work! | #90 00:06:19: Приступайте | adapted: adapted |
+| 1 | Шеф | Парни, сейчас всё в ваших руках. | Guys, everything is in your hands right now. | #75: Парни, сейчас все в ваших руках | adapted: adapted |
+| 2 | Шеф | Покажите, кто на кухне хозяин. | Show them who is the master in the kitchen. | #76: кто на этой кухне хозяин | adapted: adapted |
+| 3 | Шеф | Идите и верните свою работу. | Go and win back your jobs. | #77: Идите и верните свою работу | adapted: adapted |
+| 4 | Сеня | Шеф, мы их сегодня порвём! | Chef, we will tear them apart today! | #78: Мы их порвем | adapted: adapted |
+| 5 | Федя | Мы быстро победим этих поваров. | We will quickly defeat these cooks. | #79: сделаем их все | adapted: adapted |
+| 6 | Шеф | Лучше докажи это на кухне. | Better prove that in the kitchen. | #85: Лучше сделай это с ними на кухне | adapted: adapted |
+| 7 | Шеф | Давайте как в старые времена! | Let us do it like in the old days! | #86: как в старые добрые времена | adapted: adapted |
+| 8 | Шеф | Каждая пара приготовит одно блюдо. | Each pair will prepare one dish. | #87: Каждая пара приготовит по одному блюду | adapted: adapted |
+| 9 | Шеф | Кто приготовит лучше, тот останется. | Whoever cooks better will stay. | #88: Кто приготовит лучше, тот и останется | adapted: adapted |
+| 10 | Шеф | Лучшие останутся на этой кухне. | The best will remain in this kitchen. | #88: останется на этой кухне | adapted: adapted |
+| 11 | Шеф | У вас ровно полчаса времени. | You have exactly half an hour. | #89: У вас полчаса | adapted: adapted |
+| 12 | Шеф | Давайте, ребята, приступайте к работе! | Come on, guys, get started on the work! | #90: Приступайте | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Guys, everything is in your hands right now.' Spoken Russian keeps this brisk, leaning on 'guys' and finishing on 'hands'.
-- 'Show them who is the master in the kitchen.' Notice how Russian expresses 'to show' and 'owner' with crisp inflection rather than helper words.
-- 'Go and win back your jobs.' Here the Russian phrasing highlights 'go' before landing on 'work'.
-- 'Chef, we will tear them apart today!' In Russian, the idea of 'Chef Barinov' flows naturally into 'we will tear apart' without extra filler words.
-- 'We will quickly defeat these cooks.' Fedya anchors the line on 'we', while 'cooks' completes the thought. Chef Barinov answers right away.
-- 'Better prove that in the kitchen.' The grammar packs 'better' and 'kitchen' into a tight, idiomatic kitchen exchange.
-- 'Let us do it like in the old days!' The grammar packs 'let's' and 'time' into a tight, idiomatic kitchen exchange.
-- 'Each pair will prepare one dish.' In Russian, the idea of 'every' flows naturally into 'dish' without extra filler words.
-- 'Whoever cooks better will stay.' Here the Russian phrasing highlights 'who' before landing on 'remains'.
-- 'The best will remain in this kitchen.' The meaning hinges on 'best' working together with 'kitchen' in spoken Russian.
-- 'You have exactly half an hour.' The meaning hinges on 'at' working together with 'time' in spoken Russian.
-- 'Come on, guys, get started on the work!' Chef Barinov brings out the contrast between 'let's' and 'guys' in a few short words.
+- 'Guys, everything is in your hands right now.' Pointing out that everything is in Fedya's hands right now gives Fedya a sobering reality check.
+- 'Show them who is the master in the kitchen.' Claiming that Fedya should show them who is the master in the kitchen sounds confident, even if Fedya has doubts.
+- 'Go and win back your jobs.' By going and win back Fedya's jobs, Barinov keeps his side of the story grounded.
+- 'Chef, we will tear them apart today!' Saying that they will tear them apart today is how Senya takes charge of the moment. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'We will quickly defeat these cooks.' Even though they will quickly defeat these cooks, Fedya keeps a steady face in front of Barinov.
+- 'Better prove that in the kitchen.' With the kitchen and work in play, Barinov keeps this short reply brisk and direct.
+- 'Let us do it like in the old days!' Because they should do it like in the old days, Barinov does not bother softening the blow for Fedya. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
+- 'Each pair will prepare one dish.' Once each pair will prepare one dish, Barinov can finally tell Fedya what he means.
+- 'Whoever cooks better will stay.' Adding that whoever cooks better will stay fills in the missing piece for Fedya.
+- 'The best will remain in this kitchen.' Barinov tells Fedya that the best will remain in this kitchen without dressing it up.
+- 'You have exactly half an hour.' Since Fedya has exactly half an hour, Barinov does not waste words on excuses. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
+- 'Come on, guys, get started on the work!' Once Fedya should come on guys get started on the work, Barinov makes sure Fedya hears every word.

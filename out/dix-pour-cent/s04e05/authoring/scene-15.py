@@ -7,26 +7,25 @@ SCENE = 15
 TITLE = 'Le cabaret  (The Cabaret)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'lea': 'lucie', 'arlette': 'emilie'}
-LABELS = {'lea': 'Andréa', 'arlette': 'Arlette'}
+LABELS = {'andrea': 'Andréa', 'arlette': 'Arlette'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e05.fr.dual.srt'
 INTRO = "Andrea pleads with Colette on the phone to come home, before Arlette arrives back at the agency with an energetic crowd of nocturnal partygoers. Surprised by the festive chaos, Andrea demands an explanation. Let's listen closely to their words in French first."
 OPENER = "Let's walk through it."
 TRANSITION = "Now let's listen to the entire dialogue once more."
 OUTRO = "And that's it for this scene. When you watch the episode, listen out for the exchange around the cabaret, and for the words meaning 'are doing' and 'are'. You'll catch them now. See you next time!"
-CLOSING = ('lea', 'Au revoir.')
+CLOSING = ('andrea', 'Au revoir.')
 STORY = [
-    ('lea', 'Comment tu vas?', 'How are you?', [(681, 'Comment tu vas')], ''),
-    ('lea', 'Tu es où?', 'Where are you?', [(682, 'Tu es où')], ''),
-    ('lea', 'Arrête avec le mystère.', 'Stop with the mystery.', [(683, 'arrête avec le mystère')], ''),
-    ('lea', "Je n'en peux plus.", 'I can', [(683, "je n'en peux plus")], ''),
-    ('lea', 'Tu reviens quand?', 'When are you coming back?', [(689, 'Tu reviens quand')], ''),
-    ('lea', "Coucou chérie, c'est maman.", 'Hi darling, it is mommy.', [(692, "Coucou chérie, c'est maman")], ''),
-    ('lea', 'Je te vois très bientôt.', 'I will see you very soon.', [(693, 'je te vois très bientôt')], ''),
-    ('lea', 'Prends soin de toi.', 'Take care of yourself.', [(697, 'Prends soin de toi')], ''),
-    ('lea', 'Vous pouvez nous expliquer ce qui se passe?', 'Can you explain to us what is happening?', [(721, 'vous pouvez nous expliquer ce qui se passe')], ''),
-    ('lea', "C'est quoi ce bazar?", 'What is this mess?', [(721, "C'est quoi ce bazar")], ''),
+    ('andrea', 'Comment tu vas?', 'How are you?', [(681, 'Comment tu vas')], ''),
+    ('andrea', 'Tu es où?', 'Where are you?', [(682, 'Tu es où')], ''),
+    ('andrea', 'Arrête avec le mystère.', 'Stop with the mystery.', [(683, 'arrête avec le mystère')], ''),
+    ('andrea', "Je n'en peux plus.", 'I can', [(683, "je n'en peux plus")], ''),
+    ('andrea', 'Tu reviens quand?', 'When are you coming back?', [(689, 'Tu reviens quand')], ''),
+    ('andrea', "Coucou chérie, c'est maman.", 'Hi darling, it is mommy.', [(692, "Coucou chérie, c'est maman")], ''),
+    ('andrea', 'Je te vois très bientôt.', 'I will see you very soon.', [(693, 'je te vois très bientôt')], ''),
+    ('andrea', 'Prends soin de toi.', 'Take care of yourself.', [(697, 'Prends soin de toi')], ''),
+    ('andrea', 'Vous pouvez nous expliquer ce qui se passe?', 'Can you explain to us what is happening?', [(721, 'vous pouvez nous expliquer ce qui se passe')], ''),
+    ('andrea', "C'est quoi ce bazar?", 'What is this mess?', [(721, "C'est quoi ce bazar")], ''),
     ('arlette', 'On a fait la fête.', 'We partied.', [(722, 'On a fait la fête')], ''),
     ('arlette', "C'est là qu'elle a rencontré son Roméo.", 'That is where she met her Romeo.', [(724, "C'est là qu'elle a rencontré son Roméo")], ''),
     ('arlette', 'Elle voulait voir des plumes et des paillettes.', 'She wanted to see feathers and glitter.', [(725, 'elle voulait voir des plumes et des paillettes')], ''),

@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Шеф | Здравствуйте, вы уже сюда как к себе домой ходите. | Hello, you already walk in here like it is your own home. | #172 00:12:19: домой ходите | adapted: adapted |
-| 2 | Шеф | Я ключи у Лёвы тайком взяла, чтобы вас проведать. | I secretly took the keys from Lyova to check on you. | #174 00:12:25: Нет, я ключи у Лёва тайком вытащила, чтобы вас проведать | adapted: adapted |
-| 3 | Шеф | Проведали меня, спасибо большое, а теперь до свидания. | You checked on me, thank you very much, and now goodbye. | #175 00:12:31: Проведали, спасибо, до свидания | adapted: adapted |
-| 4 | Шеф | Скажите честно, а вы сегодня на рентген съездили? | Tell me honestly, did you go for an X-ray today? | #178 00:12:38: А вы на рентген съездили | adapted: adapted |
-| 5 | Шеф | Нет ещё, моя соседка Анна Петровна сегодня занята. | Not yet, my neighbor Anna Petrovna is busy today. | #179 00:12:39: Нет, Анна Петровна ещё занята | adapted: adapted |
-| 6 | Шеф | Хорошо, тогда собирайтесь, я сама вас сейчас свожу. | Alright, then get ready, I will take you there myself right now. | #180 00:12:42: Хорошо, тогда я вас свожу | adapted: adapted |
-| 7 | Шеф | Миша, хочу помочь тебе как другу разбогатеть со мной. | Misha, I want to help you as a friend get rich with me. | #183 00:12:56: Хочу помочь тебе как другу разбогатеть вместе со мной | adapted: adapted |
-| 8 | Шеф | Смотри, это настоящая сыворотка правды для того букмекера. | Look, this is a real truth serum for that bookmaker. | #184 00:13:00: Сыворотка правды<br>#185 00:13:02: для того букмекера | adapted: adapted |
-| 9 | Шеф | Я сам сегодня утром приготовил её из белладонны. | I made it myself this morning from belladonna. | #186 00:13:04: Сам приготовил | adapted: adapted |
-| 10 | Шеф | Виктор, неужели эта твоя сыворотка действительно работает? | Viktor, does this serum of yours really work? | #187 00:13:07: Неужели работает | adapted: adapted |
-| 11 | Шеф | Отлично работает, я только что на Сене проверял. | It works great, I just tested it on Senya. | #187 00:13:07: Работает<br>#188 00:13:09: проверял | adapted: adapted |
-| 12 | Шеф | Сеня, скажи, ведь у вас дома Марина всё решает? | Senya, tell me, Marina decides everything at your home, right? | #191 00:13:16: все решает | adapted: adapted |
+| 1 | Михаил | Здравствуйте, вы уже сюда как к себе домой ходите. | Hello, you already walk in here like it is your own home. | #172: домой ходите | adapted: adapted |
+| 2 | Гуля | Я ключи у Лёвы тайком взяла, чтобы вас проведать. | I secretly took the keys from Lyova to check on you. | #174: Нет, я ключи у Лёва тайком вытащила, чтобы вас проведать | adapted: adapted |
+| 3 | Михаил | Проведали меня, спасибо большое, а теперь до свидания. | You checked on me, thank you very much, and now goodbye. | #175: Проведали, спасибо, до свидания | adapted: adapted |
+| 4 | Гуля | Скажите честно, а вы сегодня на рентген съездили? | Tell me honestly, did you go for an X-ray today? | #178: А вы на рентген съездили | adapted: adapted |
+| 5 | Михаил | Нет ещё, моя соседка Анна Петровна сегодня занята. | Not yet, my neighbor Anna Petrovna is busy today. | #179: Нет, Анна Петровна ещё занята | adapted: adapted |
+| 6 | Гуля | Хорошо, тогда собирайтесь, я сама вас сейчас свожу. | Alright, then get ready, I will take you there myself right now. | #180: Хорошо, тогда я вас свожу | adapted: adapted |
+| 7 | Шеф | Миша, хочу помочь тебе как другу разбогатеть со мной. | Misha, I want to help you as a friend get rich with me. | #183: Хочу помочь тебе как другу разбогатеть вместе со мной | adapted: adapted |
+| 8 | Шеф | Смотри, это настоящая сыворотка правды для того букмекера. | Look, this is a real truth serum for that bookmaker. | #184: Сыворотка правды<br>#185: для того букмекера | adapted: adapted |
+| 9 | Шеф | Я сам сегодня утром приготовил её из белладонны. | I made it myself this morning from belladonna. | #186: Сам приготовил | adapted: adapted |
+| 10 | Михаил | Виктор, неужели эта твоя сыворотка действительно работает? | Viktor, does this serum of yours really work? | #187: Неужели работает | adapted: adapted |
+| 11 | Шеф | Отлично работает, я только что на Сене проверял. | It works great, I just tested it on Senya. | #187: Работает<br>#188: проверял | adapted: adapted |
+| 12 | Шеф | Сеня, скажи, ведь у вас дома Марина всё решает? | Senya, tell me, Marina decides everything at your home, right? | #191: все решает | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, you already walk in here like it is your own home.' The grammar packs 'hello' and 'walk around' into a tight, idiomatic kitchen exchange.
-- 'I secretly took the keys from Lyova to check on you.' Notice how Russian expresses 'I' and 'to check on' with crisp inflection rather than helper words. Mikhail answers right away.
-- 'You checked on me, thank you very much, and now goodbye.' Here the Russian phrasing highlights 'visited' before landing on 'goodbye'.
-- 'Tell me honestly, did you go for an X-ray today?' Gulya anchors the line on 'say', while 'went' completes the thought.
-- 'Not yet, my neighbor Anna Petrovna is busy today.' Here the Russian phrasing highlights 'no' before landing on 'busy'. Gulya answers right away.
-- 'Alright, then get ready, I will take you there myself right now.' In Russian, the idea of 'well' flows naturally into 'I bring together' without extra filler words.
-- 'Misha, I want to help you as a friend get rich with me.' In Russian, the idea of 'Misha' flows naturally into 'me' without extra filler words.
-- 'Look, this is a real truth serum for that bookmaker.' The grammar packs 'watch' and 'for the bookmaker' into a tight, idiomatic kitchen exchange.
-- 'I made it myself this morning from belladonna.' Chef Barinov anchors the line on 'I', while 'of belladonna' completes the thought.
-- 'Viktor, does this serum of yours really work?' In Russian, the idea of 'really' flows naturally into 'works' without extra filler words.
-- 'It works great, I just tested it on Senya.' Notice how Russian expresses 'perfectly' and 'to check' with crisp inflection rather than helper words.
-- 'Senya, tell me, Marina decides everything at your home, right?' Chef Barinov chooses the respectful plural 'you' alongside 'solves' to keep a polite distance.
+- 'Hello, you already walk in here like it is your own home.' Mentioning that Barinov already walk in here like it is Barinov's own home moves the talk in a new direction. Notice how he sticks to the formal "you", keeping a professional line between them.
+- 'I secretly took the keys from Lyova to check on you.' Gulya reminds Barinov that she secretly took the keys from Lyova to check on Barinov before the moment passes. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.
+- 'You checked on me, thank you very much, and now goodbye.' With the shift and trip in play, Mikhail keeps this short reply brisk and direct.
+- 'Tell me honestly, did you go for an X-ray today?' Wondering if tell her honestly did Barinov goes for an today shows Gulya caught off guard. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.
+- 'Not yet, my neighbor Anna Petrovna is busy today.' Mikhail mentions that not yet his neighbor is busy today so Barinov sees what is at stake.
+- 'Alright, then get ready, I will take you there myself right now.' Claiming that Alright then get ready she will take Barinov there herself right now sounds confident, even if Barinov has doubts.
+- 'Misha, I want to help you as a friend get rich with me.' Wanting to help Gulya as a friend get rich with him is how Barinov lays out the situation for Gulya. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Look, this is a real truth serum for that bookmaker.' Noting that this is a real truth serum for that bookmaker keeps Barinov's side of the story simple and clear. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'I made it myself this morning from belladonna.' Realizing that he made it himself this morning from belladonna changes how Barinov handles the situation.
+- 'Viktor, does this serum of yours really work?' By checking whether this serum of Barinov's really work, Mikhail presses Barinov for a straight answer. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'It works great, I just tested it on Senya.' Even though it works great he just tested it on Senya, Barinov keeps a steady face in front of Gulya.
+- 'Senya, tell me, Marina decides everything at your home, right?' Wondering if tell him Marina decides everything at Gulya's home right shows Barinov caught off guard.

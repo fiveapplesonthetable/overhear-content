@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Катя | Слушайте, отстаньте, мне сейчас не до вас. | Listen, back off, I have no time for you right now. | #256 00:19:33: Слушайте, серьезно, мне сейчас не до | adapted: adapted |
-| 2 | Денис | Эй, вы что тут сейчас творите? | Hey, what are you two doing right here? | #259 00:19:42: Эй, вы что творите | adapted: adapted |
-| 3 | Денис | Быстро руки убрал от моей девушки! | Take your hands off my girlfriend right now! | #260 00:19:45: Руки | adapted: adapted |
-| 4 | Денис | А ну быстро ушли все отсюда! | Come on, get out of here right now! | #261 00:19:47: Ушла отсюда<br>#263 00:19:51: Валите отсюда | adapted: adapted |
-| 5 | Денис | Я сейчас сюда наших ребят позову! | I will call our guys out here right now! | #264 00:19:53: Сейчас ребят позову | adapted: adapted |
-| 6 | Катя | Денис, скажи, тебе сейчас очень больно? | Denis, tell me, does it hurt very much right now? | #266 00:20:01: Больно | adapted: adapted |
-| 7 | Катя | Подожди, дай я внимательно посмотрю. | Wait, let me take a careful look. | #266 00:20:01: Дай посмотрю | adapted: adapted |
-| 8 | Денис | Со мной всё нормально, совсем не больно. | Everything is fine with me, it does not hurt at all. | #267 00:20:04: Все нормально. Больно? Нет, нет | adapted: adapted |
-| 9 | Денис | Катя, прошу тебя, прости меня, пожалуйста. | Katya, I beg you, forgive me, please. | #268 00:20:07: Кать, прости меня | adapted: adapted |
+| 1 | Катя | Слушайте, отстаньте, мне сейчас не до вас. | Listen, back off, I have no time for you right now. | #256: Слушайте, серьезно, мне сейчас не до | adapted: adapted |
+| 2 | Денис | Эй, вы что тут сейчас творите? | Hey, what are you two doing right here? | #259: Эй, вы что творите | adapted: adapted |
+| 3 | Денис | Быстро руки убрал от моей девушки! | Take your hands off my girlfriend right now! | #260: Руки | adapted: adapted |
+| 4 | Денис | А ну быстро ушли все отсюда! | Come on, get out of here right now! | #261: Ушла отсюда<br>#263: Валите отсюда | adapted: adapted |
+| 5 | Денис | Я сейчас сюда наших ребят позову! | I will call our guys out here right now! | #264: Сейчас ребят позову | adapted: adapted |
+| 6 | Катя | Денис, скажи, тебе сейчас очень больно? | Denis, tell me, does it hurt very much right now? | #266: Больно | adapted: adapted |
+| 7 | Катя | Подожди, дай я внимательно посмотрю. | Wait, let me take a careful look. | #266: Дай посмотрю | adapted: adapted |
+| 8 | Денис | Со мной всё нормально, совсем не больно. | Everything is fine with me, it does not hurt at all. | #267: Все нормально. Больно? Нет, нет | adapted: adapted |
+| 9 | Денис | Катя, прошу тебя, прости меня, пожалуйста. | Katya, I beg you, forgive me, please. | #268: Кать, прости меня | adapted: adapted |
 | 10 | Денис | Я правда никогда тебе не изменял. | I really never cheated on you. | new | new: new |
-| 11 | Денис | Катя, я не хочу тебя потерять. | Katya, I do not want to lose you. | #269 00:20:11: Я не хочу тебя | adapted: adapted |
-| 12 | Катя | Тихо, я тебя уже давно простила. | Quiet, I forgave you a long time ago. | #270 00:20:15: Прости | adapted: adapted |
+| 11 | Денис | Катя, я не хочу тебя потерять. | Katya, I do not want to lose you. | #269: Я не хочу тебя | adapted: adapted |
+| 12 | Катя | Тихо, я тебя уже давно простила. | Quiet, I forgave you a long time ago. | #270: Прости | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Listen, back off, I have no time for you right now.' Notice how Russian puts 'to listen' and 'right now' together in a short, direct phrase where word endings show how the ideas connect.
-- 'Hey, what are you two doing right here?' Hearing the commotion, Denis runs over and confronts the two strangers.
-- 'Take your hands off my girlfriend right now!' In everyday Russian, 'quickly' flows straight into 'a girl' without extra linking words.
-- 'Come on, get out of here right now!' After taking a punch, Denis grabs a heavy pipe with his good hand and stands his ground.
-- 'I will call our guys out here right now!' Notice how Russian puts 'right now' and 'will call' together in a short, direct phrase where word endings show how the ideas connect.
-- 'Denis, tell me, does it hurt very much right now?' In spoken Russian, the words stay in their normal statement order and Katya's rising voice at the end turns the line into a question.
-- 'Wait, let me take a careful look.' In everyday Russian, 'wait' flows straight into 'will look' without extra linking words.
-- 'Everything is fine with me, it does not hurt at all.' Denis winces slightly but insists that he feels no pain.
-- 'Katya, I beg you, forgive me, please.' Denis uses a polite everyday Russian courtesy expression that sets the tone of the conversation right away.
-- 'I really never cheated on you.' He reassures her from the heart that he has always been faithful to her.
-- 'Katya, I do not want to lose you.' Putting the short word for 'not' right in front of the action word is all Russian needs to make a sentence negative, with no extra helper words like 'do' or 'did'.
-- 'Quiet, I forgave you a long time ago.' Katya pairs 'quiet' with 'would forgive' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
+- 'Listen, back off, I have no time for you right now.' Noting that back off she has no time for Denis right now keeps Katya's side of the story simple and clear. Notice how she sticks to the formal "you", keeping a professional line between them.
+- 'Hey, what are you two doing right here?' Wondering what Katya two doing right here is is how Denis puts Katya on the spot. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
+- 'Take your hands off my girlfriend right now!' Once Katya should take Katya's hands off his girlfriend right now, Denis makes sure Katya hears every word.
+- 'Come on, get out of here right now!' Coming on get out of here right now shows Denis is done holding back. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'I will call our guys out here right now!' Once he will call their guys out here right now, Denis makes sure Katya hears every word. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Denis, tell me, does it hurt very much right now?' Asking whether tell her does it hurt very much right now puts Denis right on the defensive.
+- 'Wait, let me take a careful look.' Letting her take a careful look moves the conversation forward without extra drama.
+- 'Everything is fine with me, it does not hurt at all.' Since everything is fine with him it does not hurt at all, Denis does not waste words on excuses.
+- 'Katya, I beg you, forgive me, please.' Pointing out that he begs Katya forgives him please gives Katya a sobering reality check.
+- 'I really never cheated on you.' Between the shift and the conversation, Denis gives Katya a quick, grounded response. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
+- 'Katya, I do not want to lose you.' Claiming that he does not want to lose Katya sounds confident, even if Katya has doubts. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Quiet, I forgave you a long time ago.' Explaining that quiet she forgave Denis a long time ago lays the cards on the table for Denis.

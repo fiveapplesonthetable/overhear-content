@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Славик | Мы уже месяц встречаемся. Мне надоело уже. | We've been going out for a month already. I'm tired of it already. | #306 00:16:13: месяц уже встречаемся<br>#307 00:16:19: Надоело уже | adapted: cue 306 crude boast replaced by clean 'Мы уже месяц встречаемся' |
-| 2 | Димон | А как вы с ней познакомились? | And how did you two meet? | #308 00:16:20: А как вы с ней познакомились | adapted: a classmate's question given to Dimon |
-| 3 | Славик | Это она со мной познакомилась! Вокруг меня бегала. | She was the one who came up to me! She was running after me. | #309 00:16:22: это она со мной познакомилась<br>#309 00:16:22: вокруг меня | adapted: cue 309 'круги вокруг меня нарезала, как акума' simplified to 'Вокруг меня бегала' |
-| 4 | Славик | Ладно, у вас тоже будет девушка. Какие ваши годы? | All right, you'll have a girlfriend too. You've got plenty of years ahead of you. | #310 00:16:27: Какие ваши годы | adapted: cue 310 'Да ладно, будет у вас ещё' made explicit with 'девушка' |
-| 5 | Димон | А ну-ка, дай посмотрю! Внимание, ребята! | Hold on, let me have a look! Attention, everyone! | #311 00:16:30: А ну-ка дай посмотрю<br>#312 00:16:35: Внимание | adapted: Dimon grabs the phone to show the boys |
-| 6 | Димон | Кому ты врёшь, Самсон? Кому ты нужен? | Who are you lying to, Samson? Who needs you? | #313 00:16:38: кому<br>#313 00:16:38: Самсон | adapted: cue 313 'кому стираешь, Самсон, нафиг ты сдался' cleaned to A1 |
-| 7 | Славик | Отдай телефон! Её Лёля зовут. | Give back the phone! Her name is Lyolya. | #314 00:16:42: её Лёля зовут | adapted: 'Отдай телефон!' added as Slavik reaches for his phone |
-| 8 | Димон | Да ладно! Не верю я тебе. | Come on! I don't believe you. | #310 00:16:27: Да ладно | adapted: clean stand-in for the crude hand joke in cues 315-316 |
-| 9 | Славик | Вам завидно просто! Она очень красивая. | You're just jealous! She's very beautiful. | #317 00:16:48: Вам завидно просто | adapted: crude 'Да пошёл ты!' dropped |
-| 10 | Димон | Ну раз ты такой крутой, может, познакомишь нас? | Well, since you're so cool, maybe you'll introduce us? | #318 00:16:52: Ну раз ты такой крутой, может, познакомишь нас | verbatim |
-| 11 | Димон | Приводи её сегодня к Димону на вечеринку! | Bring her to Dimon's party tonight! | #319 00:16:55: к Димону<br>#319 00:16:55: сегодня приводи её | adapted: cue 319-320 slang 'в Песон / на туре' -> 'на вечеринку' |
-| 12 | Славик | Она у меня не такая. Она на вечеринки не ходит. | She isn't like that. She doesn't go to parties. | #321 00:16:59: Она у меня не такая, она<br>#321 00:16:59: не ходит | adapted: slang 'по впискам' -> 'на вечеринки' |
-| 13 | Димон | Короче, Самсон, сегодня ты приводишь её к Димону. | In short, Samson, tonight you bring her to Dimon's place. | #323 00:17:05: Короче<br>#323 00:17:05: ты приводишь её сегодня к Димону | adapted: cue 323 'Самсончик' -> 'Самсон', slang 'в Песон' dropped |
+| 1 | Славик | Мы уже месяц встречаемся. Мне надоело уже. | We've been going out for a month already. I'm tired of it already. | #306: месяц уже встречаемся<br>#307: Надоело уже | adapted: cue 306 crude boast replaced by clean 'Мы уже месяц встречаемся' |
+| 2 | Димон | А как вы с ней познакомились? | And how did you two meet? | #308: А как вы с ней познакомились | adapted: a classmate's question given to Dimon |
+| 3 | Славик | Это она со мной познакомилась! Вокруг меня бегала. | She was the one who came up to me! She was running after me. | #309: это она со мной познакомилась<br>#309: вокруг меня | adapted: cue 309 'круги вокруг меня нарезала, как акума' simplified to 'Вокруг меня бегала' |
+| 4 | Славик | Ладно, у вас тоже будет девушка. Какие ваши годы? | All right, you'll have a girlfriend too. You've got plenty of years ahead of you. | #310: Какие ваши годы | adapted: cue 310 'Да ладно, будет у вас ещё' made explicit with 'девушка' |
+| 5 | Димон | А ну-ка, дай посмотрю! Внимание, ребята! | Hold on, let me have a look! Attention, everyone! | #311: А ну-ка дай посмотрю<br>#312: Внимание | adapted: Dimon grabs the phone to show the boys |
+| 6 | Димон | Кому ты врёшь, Самсон? Кому ты нужен? | Who are you lying to, Samson? Who needs you? | #313: кому<br>#313: Самсон | adapted: cue 313 'кому стираешь, Самсон, нафиг ты сдался' cleaned to A1 |
+| 7 | Славик | Отдай телефон! Её Лёля зовут. | Give back the phone! Her name is Lyolya. | #314: её Лёля зовут | adapted: 'Отдай телефон!' added as Slavik reaches for his phone |
+| 8 | Димон | Да ладно! Не верю я тебе. | Come on! I don't believe you. | #310: Да ладно | adapted: clean stand-in for the crude hand joke in cues 315-316 |
+| 9 | Славик | Вам завидно просто! Она очень красивая. | You're just jealous! She's very beautiful. | #317: Вам завидно просто | adapted: crude 'Да пошёл ты!' dropped |
+| 10 | Димон | Ну раз ты такой крутой, может, познакомишь нас? | Well, since you're so cool, maybe you'll introduce us? | #318: Ну раз ты такой крутой, может, познакомишь нас | verbatim |
+| 11 | Димон | Приводи её сегодня к Димону на вечеринку! | Bring her to Dimon's party tonight! | #319: к Димону<br>#319: сегодня приводи её | adapted: cue 319-320 slang 'в Песон / на туре' -> 'на вечеринку' |
+| 12 | Славик | Она у меня не такая. Она на вечеринки не ходит. | She isn't like that. She doesn't go to parties. | #321: Она у меня не такая, она<br>#321: не ходит | adapted: slang 'по впискам' -> 'на вечеринки' |
+| 13 | Димон | Короче, Самсон, сегодня ты приводишь её к Димону. | In short, Samson, tonight you bring her to Dimon's place. | #323: Короче<br>#323: ты приводишь её сегодня к Димону | adapted: cue 323 'Самсончик' -> 'Самсон', slang 'в Песон' dropped |
 | 14 | Димон | А то у тебя будет новое прозвище! Слабак! | Or else you'll get a new nickname! Weakling! | new | new: clean replacement for cue 324's vulgar nickname |
 
 ## Walk-through narration (English only, no target-language words quoted)
@@ -41,7 +41,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Her name is Lyolya.' Literally 'they call her Lyolya'. Dimon laughs in his face.
 - 'Come on! I don't believe you.' In the original scene the boys make a crude schoolyard joke that his only girlfriend is his own hand. Slavik gets angry.
 - 'You're just jealous!' Literally 'to you all it is envious simply'. Then he defends her.
-- 'She's very beautiful.' Dimon sees a way to test his story.
+- 'She's very beautiful.' In response, Dimon sees a way to test his story.
 - 'Well, since you're so cool, maybe you'll introduce us?' Here the little word for 'time' means 'since' or 'if'. And Dimon issues the dare.
 - 'Bring her to Dimon's party tonight!' Dimon is hosting a party at his flat that evening, and the boys dare Slavik to bring Lyolya along. Slavik tries to back out.
 - 'She isn't like that.' Adding 'by me' is a warm, possessive way of saying 'my girl isn't that sort'.

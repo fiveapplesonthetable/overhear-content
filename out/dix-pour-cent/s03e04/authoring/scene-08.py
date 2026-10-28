@@ -7,7 +7,6 @@ SCENE = 8
 TITLE = "La scène d'agonie  (The Agony Scene)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'isabelle': 'emilie', 'realisateur': 'marcel'}
 LABELS = {'isabelle': 'Isabelle', 'realisateur': 'Le réalisateur'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e04.fr.dual.srt'

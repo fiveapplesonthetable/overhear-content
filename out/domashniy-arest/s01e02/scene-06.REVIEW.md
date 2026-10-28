@@ -10,20 +10,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Маленькие умеют терпеть, а взрослые нет, понял? | Little ones can hold on, but grown-ups can't, got it? | #149 00:11:41: Маленькие умеют терпеть, а взрослые нет, понял | verbatim |
-| 2 | Лёша | Так нечестно. | That's not fair. | #150 00:12:50: Так нечестно | verbatim |
-| 3 | Аня | Как тебя зовут, мальчик? | What's your name, boy? | #151 00:12:51: Как тебя зовут, мальчик | verbatim |
-| 4 | Лёша | Лёха. | Lyokha. | #152 00:12:53: Лёха | verbatim |
-| 5 | Аня | Всё честно, Лёха. Взрослые не умеют ждать. | It's all fair, Lyokha. Grown-ups can't wait. | #153 00:12:54: Всё честно, Лёха | adapted: second sentence new: a clean stand-in for the crude reason in cue 154 |
+| 1 | Аркадий | Маленькие умеют терпеть, а взрослые нет, понял? | Little ones can hold on, but grown-ups can't, got it? | #149: Маленькие умеют терпеть, а взрослые нет, понял | verbatim |
+| 2 | Лёша | Так нечестно. | That's not fair. | #150: Так нечестно | verbatim |
+| 3 | Аркадий | Как тебя зовут, мальчик? | What's your name, boy? | #151: Как тебя зовут, мальчик | verbatim |
+| 4 | Лёша | Лёха. | Lyokha. | #152: Лёха | verbatim |
+| 5 | Аркадий | Всё честно, Лёха. Взрослые не умеют ждать. | It's all fair, Lyokha. Grown-ups can't wait. | #153: Всё честно, Лёха | adapted: second sentence new: a clean stand-in for the crude reason in cue 154 |
 | 6 | Лёша | Мама! Он идёт без очереди! | Mum! He's jumping the queue! | new | new: the boy calls his mother, who then comes to the door (her protest starts at cue 158) |
-| 7 | Аня | Послушайте, в чём дело, женщина? Здесь занято. | Listen, what's the matter, woman? It's occupied. | #158 00:13:37: Послушайте, в чём дело, женщина<br>#159 00:13:39: занято | adapted: cue 159 'Не видите, занято здесь' simplified to 'Здесь занято' |
-| 8 | Марина | Вы взяточник! Вы лезете вперёд больного ребёнка. | You're a bribe-taker! You're pushing in ahead of a sick child. | #160 00:13:41: вы, взяточник<br>#162 00:13:43: Вперёд больного ребёнка | adapted: cue 162 simplified: 'лезть' kept as 'Вы лезете'; 'в туалет' and 'это совсем гнусность' (a disgrace) dropped |
-| 9 | Аня | Я вас где-то видел, кажется. | I think I've seen you somewhere. | #163 00:13:47: Я вас где-то видел, кажется | verbatim |
-| 10 | Марина | Я ваш советник по историческому наследию. Забыли? | I'm your adviser on historical heritage. Have you forgotten? | #164 00:13:48: Я ваш советник по историческому наследию<br>#165 00:13:51: Забыли | adapted: the town name dropped |
-| 11 | Аня | Да, да. Но туалет — это пока не историческое наследие. | Yes, yes. But the toilet isn't historical heritage yet. | #166 00:13:51: Да, да | adapted: second sentence simplifies cue 167 (none of this counts as historical heritage yet) |
-| 12 | Аня | Всё, извините. | That's it, excuse me. | #168 00:13:57: Извините | adapted: 'Всё' added: he shuts the door on her |
-| 13 | Марина | Запомните: зло всегда возвращается к правителю. | Remember: evil always comes back to the ruler. | #169 00:14:01: Запомните, зло всегда возвращается | adapted: the cue's 'от правителя' (a slip) -> 'к правителю', as in the English subtitle |
-| 14 | Аня | Сталину расскажите. | Tell that to Stalin. | #171 00:14:05: Сталину расскажите | adapted: 'вот это' dropped |
+| 7 | Аркадий | Послушайте, в чём дело, женщина? Здесь занято. | Listen, what's the matter, woman? It's occupied. | #158: Послушайте, в чём дело, женщина<br>#159: занято | adapted: cue 159 'Не видите, занято здесь' simplified to 'Здесь занято' |
+| 8 | Марина | Вы взяточник! Вы лезете вперёд больного ребёнка. | You're a bribe-taker! You're pushing in ahead of a sick child. | #160: вы, взяточник<br>#162: Вперёд больного ребёнка | adapted: cue 162 simplified: 'лезть' kept as 'Вы лезете'; 'в туалет' and 'это совсем гнусность' (a disgrace) dropped |
+| 9 | Аркадий | Я вас где-то видел, кажется. | I think I've seen you somewhere. | #163: Я вас где-то видел, кажется | verbatim |
+| 10 | Марина | Я ваш советник по историческому наследию. Забыли? | I'm your adviser on historical heritage. Have you forgotten? | #164: Я ваш советник по историческому наследию<br>#165: Забыли | adapted: the town name dropped |
+| 11 | Аркадий | Да, да. Но туалет — это пока не историческое наследие. | Yes, yes. But the toilet isn't historical heritage yet. | #166: Да, да | adapted: second sentence simplifies cue 167 (none of this counts as historical heritage yet) |
+| 12 | Аркадий | Всё, извините. | That's it, excuse me. | #168: Извините | adapted: 'Всё' added: he shuts the door on her |
+| 13 | Марина | Запомните: зло всегда возвращается к правителю. | Remember: evil always comes back to the ruler. | #169: Запомните, зло всегда возвращается | adapted: the cue's 'от правителя' (a slip) -> 'к правителю', as in the English subtitle |
+| 14 | Аркадий | Сталину расскажите. | Tell that to Stalin. | #171: Сталину расскажите | adapted: 'вот это' dropped |
 | 15 | Лёша | Мама, а кто это? | Mum, who is that? | new | new: the boy asks about the stranger |
 | 16 | Марина | Это наш мэр, Лёша. | That's our mayor, Lyosha. | new | new: she knows him from the protest (cues 160, 164) |
 

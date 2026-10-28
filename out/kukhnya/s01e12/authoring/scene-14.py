@@ -4,18 +4,17 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 12
 SCENE = 14
-TITLE = "Спектакль у бара  (Show at the Bar)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Спектакль у бара  (Show at the Bar)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "nastya": "angelina", "kostya": "anja"}
-LABELS = {"nastya": "Настя", "kostya": "Костя"}
+LABELS = {'kostya': 'Костя', 'nastya': 'Настя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.12'
 SOURCE_FILE = 'sources/kukhnya/s01/e12.ru.dual.srt'
 INTRO = "To hide their relationship from Victoria's watchful eye, Kostya and Nastya stage a loud argument across the bar counter. However, Kostya gets carried away with his improvised insults, leaving Nastya genuinely hurt and angry. Let's listen to their conversation in Russian."
 OPENER = "Let's examine the dialogue sentence by sentence. Notice the staged insults, boundary negotiations, and genuine emotional hurt."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Kostya's performance successfully fooled the management, but it cost him Nastya's trust. Great work practicing conversational Russian! Next time you watch the episode, listen for the Russian expressions for 'more' and 'to be' — you will catch every word right away. See you next time!"
-CLOSING = ("nastya", "Пока!")
+CLOSING = ('nastya', 'Пока!')
 STORY = [
     ('kostya', 'Настя, ты готова начать наш громкий спектакль?', 'Nastya, are you ready to start our loud performance?', [(120, 'Кость, ну что, готов? А?')], ''),
     ('nastya', 'Да, только не говори слишком грубых слов.', 'Yes, only do not say overly rude words.', [(121, 'Ты импровизируй, если что')], ''),

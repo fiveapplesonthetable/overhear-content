@@ -7,8 +7,7 @@ SCENE = 27
 TITLE = 'Une terrible nouvelle  (Terrible News)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'noemie': 'emilie', 'lea': 'lucie'}
-LABELS = {'noemie': 'Noémie', 'lea': 'Andréa'}
+LABELS = {'camille': 'Camille', 'noemie': 'Noémie'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e04.fr.dual.srt'
 INTRO = "In a Parisian cafe, Camille and Noemie share hot coffees while commiserating over their complicated relationships with Mathias. Mocking his sinister demeanor, the two women laugh about how much he resembles the villain Jafar, until an alarming phone call changes everything. Let's listen to the scene in French first."
@@ -18,18 +17,18 @@ OUTRO = "After spending the morning venting their resentment toward Mathias, Cam
 CLOSING = ('noemie', 'À bientôt!')
 STORY = [
     ('noemie', "Mathias m'a menti en face hier.", 'Mathias lied to my face yesterday.', [(1246, "Il m'a menti en face")], ''),
-    ('lea', 'Pour moi aussi, tout est terminé.', 'For me too, everything is finished.', [(1247, "c'est terminé")], ''),
-    ('lea', 'Je refuse sa reconnaissance de paternité.', 'I refuse his recognition of paternity.', [(1253, 'reconnaissance de paternité')], ''),
+    ('camille', 'Pour moi aussi, tout est terminé.', 'For me too, everything is finished.', [(1247, "c'est terminé")], ''),
+    ('camille', 'Je refuse sa reconnaissance de paternité.', 'I refuse his recognition of paternity.', [(1253, 'reconnaissance de paternité')], ''),
     ('noemie', 'Tu as raison de le rejeter.', 'You are right to reject him.', [(1255, "T'as raison")], ''),
-    ('lea', 'Il ressemble vraiment au méchant Jafar!', 'He truly looks like the villain Jafar!', [(1255, 'il ressemble vraiment à Jafar')], ''),
+    ('camille', 'Il ressemble vraiment au méchant Jafar!', 'He truly looks like the villain Jafar!', [(1255, 'il ressemble vraiment à Jafar')], ''),
     ('noemie', 'Il a déjà le regard traître!', 'He already has the treacherous look!', [(1258, 'Il a déjà le regard traître')], ''),
-    ('lea', 'Ne le laissons plus rien gâcher.', 'Let us not let him ruin anything anymore.', [(1262, 'On ne le laisse pas gâcher')], ''),
+    ('camille', 'Ne le laissons plus rien gâcher.', 'Let us not let him ruin anything anymore.', [(1262, 'On ne le laisse pas gâcher')], ''),
     ('noemie', 'Attends, mon téléphone sonne sans arrêt.', 'Wait, my phone is ringing without stopping.', [(1265, 'Attends')], ''),
     ('noemie', "Allô? J'arrive tout de suite!", 'Hello? I am coming right away!', [(1274, "J'arrive tout de suite")], ''),
-    ('lea', "Noémie, qu'est-ce qui se passe?", 'Noemie, what is going on?', [(1277, "qu'est-ce qui se passe")], ''),
+    ('camille', "Noémie, qu'est-ce qui se passe?", 'Noemie, what is going on?', [(1277, "qu'est-ce qui se passe")], ''),
     ('noemie', "C'est Mathias, il est à l'hôpital!", 'It is Mathias, he is at the hospital!', [(1280, "C'est Mathias"), (1281, "Il est à l'hôpital")], ''),
     ('noemie', 'Il a eu une crise cardiaque!', 'He had a heart attack!', [(1281, 'crise cardiaque')], ''),
-    ('lea', "Mon Dieu, c'est une catastrophe!", 'My God, this is a disaster!', [(1284, 'Mon Dieu')], ''),
+    ('camille', "Mon Dieu, c'est une catastrophe!", 'My God, this is a disaster!', [(1284, 'Mon Dieu')], ''),
     ('noemie', 'Vite, on doit prendre un taxi!', 'Quick, we must take a taxi!', [(1283, 'On doit prendre un taxi')], ''),
 ]
 WALK = [

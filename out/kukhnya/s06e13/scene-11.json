@@ -8,12 +8,10 @@
  "scene": 11,
  "title": "Игра начинается  (The Game Begins)",
  "level": "A1 — Duolingo Section 2",
- "voices": {
-  "narrator": "sky",
-  "guest": "anja"
- },
  "labels": {
-  "guest": "Гость"
+  "barinov": "Шеф",
+  "guest": "Гость",
+  "mikhail": "Михаил"
  },
  "segments": [
   {
@@ -27,7 +25,7 @@
    "gap": 0.55
   },
   {
-   "v": "guest",
+   "v": "mikhail",
    "t": "Интересно, и кто вам это шепнул?",
    "gap": 0.55
   },
@@ -42,7 +40,7 @@
    "gap": 0.55
   },
   {
-   "v": "guest",
+   "v": "mikhail",
    "t": "Хорошо, я обязательно что-нибудь для вас придумаю.",
    "gap": 0.55
   },
@@ -52,17 +50,17 @@
    "gap": 0.55
   },
   {
-   "v": "guest",
+   "v": "mikhail",
    "t": "Все телефоны есть на моей визитке.",
    "gap": 0.55
   },
   {
-   "v": "guest",
+   "v": "mikhail",
    "t": "Смотри, у него такой же костюм.",
    "gap": 0.55
   },
   {
-   "v": "guest",
+   "v": "mikhail",
    "t": "Мы отдали мой костюм в химчистку.",
    "gap": 0.55
   },
@@ -77,7 +75,7 @@
    "gap": 0.55
   },
   {
-   "v": "guest",
+   "v": "barinov",
    "t": "Извините, я зашёл только быстро спросить.",
    "gap": 0.9
   },
@@ -93,17 +91,17 @@
   },
   {
    "v": "narrator",
-   "t": "'I was told you can organize a game.' Spoken Russian keeps this brisk, leaning on 'to me' and finishing on 'game'.",
+   "t": "'I was told you can organize a game.' Once he was told Barinov can organize a game, the guest can finally tell Barinov what he means. Notice how he sticks to the formal \"you\", keeping a professional line between them.",
    "gap": 0.4
   },
   {
-   "v": "guest",
+   "v": "mikhail",
    "t": "Интересно, и кто вам это шепнул?",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Interesting, and who whispered that to you?' Notice how Russian expresses 'interesting' and 'whispered' with crisp inflection rather than helper words. the guest answers right away.",
+   "t": "'Interesting, and who whispered that to you?' With the conversation and secret hanging in the air, Mikhail puts Barinov on the spot. Even in the middle of the drama, he keeps the polite plural \"you\" that workplace Russian expects.",
    "gap": 0.4
   },
   {
@@ -113,7 +111,7 @@
   },
   {
    "v": "narrator",
-   "t": "'Well, that is not so important right now.' Spoken Russian keeps this brisk, leaning on 'come on' and finishing on 'important'.",
+   "t": "'Well, that is not so important right now.' Saying that that is not so important right now is how the guest sets the tone with Barinov.",
    "gap": 0.4
   },
   {
@@ -123,17 +121,17 @@
   },
   {
    "v": "narrator",
-   "t": "'So can you help me or not?' In Russian, the idea of 'so' flows naturally into 'no' without extra filler words.",
+   "t": "'So can you help me or not?' Checking whether Barinov helps him or not cuts straight through the tension between the guest and Barinov. Even in the middle of the drama, he keeps the polite plural \"you\" that workplace Russian expects.",
    "gap": 0.4
   },
   {
-   "v": "guest",
+   "v": "mikhail",
    "t": "Хорошо, я обязательно что-нибудь для вас придумаю.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Fine, I will definitely think of something for you.' Mikhail chooses the respectful plural 'you' alongside 'will come up with' to keep a polite distance. the guest answers right away.",
+   "t": "'Fine, I will definitely think of something for you.' Mentioning that fine he will definitely think of something for Barinov moves the talk in a new direction. Notice how he sticks to the formal \"you\", keeping a professional line between them.",
    "gap": 0.4
   },
   {
@@ -143,37 +141,37 @@
   },
   {
    "v": "narrator",
-   "t": "'And how can I find you later?' In Russian, the idea of 'and' flows naturally into 'to find' without extra filler words.",
+   "t": "'And how can I find you later?' Here asking how he finds Barinov later can shows the guest looking for the real truth.",
    "gap": 0.4
   },
   {
-   "v": "guest",
+   "v": "mikhail",
    "t": "Все телефоны есть на моей визитке.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'All the phone numbers are on my business card.' Mikhail anchors the line on 'all', while 'business card' completes the thought.",
+   "t": "'All the phone numbers are on my business card.' Because all the phone numbers are on his business card, Mikhail treats the matter as settled.",
    "gap": 0.4
   },
   {
-   "v": "guest",
+   "v": "mikhail",
    "t": "Смотри, у него такой же костюм.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Look, he has the exact same suit.' Spoken Russian keeps this brisk, leaning on 'watch' and finishing on 'suit'.",
+   "t": "'Look, he has the exact same suit.' Explaining that he has the exact same suit lays the cards on the table for Barinov. In Russian you say \"by me\" or \"with us\" rather than \"I have\", so the situation sits right with the person.",
    "gap": 0.4
   },
   {
-   "v": "guest",
+   "v": "mikhail",
    "t": "Мы отдали мой костюм в химчистку.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'We gave my suit to the dry cleaners.' Mikhail anchors the line on 'we', while 'dry cleaner’s' completes the thought.",
+   "t": "'We gave my suit to the dry cleaners.' Mikhail mentions that they gave his suit to the dry cleaners so Barinov sees what is at stake.",
    "gap": 0.4
   },
   {
@@ -183,7 +181,7 @@
   },
   {
    "v": "narrator",
-   "t": "'I have not had such good luck in a long time.' The grammar packs 'for a long time' and 'to transport' into a tight, idiomatic kitchen exchange.",
+   "t": "'I have not had such good luck in a long time.' Mentioning that he has not had such good luck in a long time moves the talk in a new direction.",
    "gap": 0.4
   },
   {
@@ -193,17 +191,17 @@
   },
   {
    "v": "narrator",
-   "t": "'Please, do not worry at all.' The meaning hinges on 'please' working together with 'to worry' in spoken Russian. Chef Barinov answers right away.",
+   "t": "'Please, do not worry at all.' Mentioning that do not worry at all moves the talk in a new direction. Notice how he sticks to the formal \"you\", keeping a professional line between them.",
    "gap": 0.4
   },
   {
-   "v": "guest",
+   "v": "barinov",
    "t": "Извините, я зашёл только быстро спросить.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Excuse me, I came in just to ask quickly.' Here the Russian phrasing highlights 'excuse me' before landing on 'to ask'. Alright, let's hear the entire conversation one more time from start to finish.",
+   "t": "'Excuse me, I came in just to ask quickly.' Barinov explains that he came in just to ask quickly, keeping his voice calm and direct. Alright, let's hear the entire conversation one more time from start to finish.",
    "gap": 0.9
   },
   {
@@ -212,7 +210,7 @@
    "gap": 0.5
   },
   {
-   "v": "guest",
+   "v": "mikhail",
    "t": "Интересно, и кто вам это шепнул?",
    "gap": 0.5
   },
@@ -227,7 +225,7 @@
    "gap": 0.5
   },
   {
-   "v": "guest",
+   "v": "mikhail",
    "t": "Хорошо, я обязательно что-нибудь для вас придумаю.",
    "gap": 0.5
   },
@@ -237,17 +235,17 @@
    "gap": 0.5
   },
   {
-   "v": "guest",
+   "v": "mikhail",
    "t": "Все телефоны есть на моей визитке.",
    "gap": 0.5
   },
   {
-   "v": "guest",
+   "v": "mikhail",
    "t": "Смотри, у него такой же костюм.",
    "gap": 0.5
   },
   {
-   "v": "guest",
+   "v": "mikhail",
    "t": "Мы отдали мой костюм в химчистку.",
    "gap": 0.5
   },
@@ -262,7 +260,7 @@
    "gap": 0.5
   },
   {
-   "v": "guest",
+   "v": "barinov",
    "t": "Извините, я зашёл только быстро спросить.",
    "gap": 0.9
   },

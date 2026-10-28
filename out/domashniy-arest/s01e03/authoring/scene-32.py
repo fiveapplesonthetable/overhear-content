@@ -1,33 +1,35 @@
-# domashniy-arest/s01e03/scene-32.py
-ID = "domashniy-arest-s01e03-scene-32"
-SHOW = "domashniy-arest"
+# Authoring module for domashniy-arest-s01e03-scene-32.
+ID = 'domashniy-arest-s01e03-scene-32'
+SHOW = 'domashniy-arest'
 SEASON = 1
 EPISODE = 3
 SCENE = 32
-TITLE = "Адвокатская тайна  (Legal Privilege)"
-LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-SOURCE_NAME = "Домашний арест (Domashniy Arest) S1.03"
-SOURCE_FILE = "sources/domashniy-arest/s01/e03.ru.dual.srt"
-VOICES = {"narrator": "sky", "judge": "anja", "anya": "alisa"}
-LABELS = {"judge": "Илья Олегович", "anya": "Аркадий"}
+TITLE = 'Адвокатская тайна  (Legal Privilege)'
+LEVEL = 'A1 — Duolingo Section 2'
+PAIR = 'ru-en'
+LABELS = {'arkady': 'Аркадий', 'golovkin': 'Головкин', 'judge': 'Илья Олегович'}
+SOURCE_NAME = 'Домашний арест (Domashniy Arest) S1.03'
+SOURCE_FILE = 'sources/domashniy-arest/s01/e03.ru.dual.srt'
 INTRO = "Back in the courtroom. Last time, at Dimon's party, tipsy Lyolya blurted out in front of everyone that her ex had asked her to pretend to be Slavik's girlfriend. Now we return to the court hearing, just after Arkady's public defender Danila Golovkin has testified and the prosecution has presented the new evidence. Judge Berg rises to announce his decision. Let's listen in Russian first."
-STORY = [
-    ("judge", "Прошу внимания. Открылись новые обстоятельства по другому делу.", "May I have your attention. New circumstances have come to light in another case.", [(1072, 'Прошу внимания'), (1073, 'Открылись новые обстоятельства по другому делу')], ""),
-    ("judge", "Махинации с недвижимостью по программе «Доступное жильё».", "Property fraud in the 'Affordable Housing' programme.", [(1074, 'Махинации с недвижимостью по программе «Доступное жильё»')], ""),
-    ("judge", "Гражданин Аникеев подозревается в новом преступлении.", "Citizen Anikeev is suspected of a new crime.", [(1075, 'гражданин Аникеев подозревается в')], "cues 1075-1077 simplified to A1"),
-    ("judge", "Я вынужден отменить своё решение.", "I am forced to cancel my decision.", [(1078, 'я вынужден отменить свое решение')], "'По совокупности открывшегося' dropped"),
-    ("judge", "Мера пресечения остаётся прежней. Домашний арест!", "The preventive measure remains the same. House arrest!", [(1079, 'Мера пресечения остается прежней')], "'Увести' -> 'Домашний арест!' for clarity"),
-    ("anya", "Как? Ты?! А как же адвокатская тайна?", "How? You?! What about lawyer-client secrecy?", [(1080, 'Как? Ты'), (1080, 'А как же адвокатская тайна')], "insult in cue 1080 dropped"),
-    ("judge", "Моя мама пятнадцать лет по этой программе стояла!", "My mum waited fifteen years in that programme!", [(1081, 'Моя мама'), (1081, 'лет по этой программе'), (1081, 'стояла')], "crude opening of cue 1081 dropped; '15' written out as 'пятнадцать'"),
-    ("judge", "Пятнадцать лет в очереди стояла! Забыли?", "She stood in the queue for fifteen years! Did you forget?", [(1081, 'в очереди стояла')], "'Пятнадцать лет' repeated; 'Забыли?' added"),
-    ("anya", "Илья Олегович! А как же Лютик?", "Ilya Olegovich! But what about Lyutik?", [(1082, 'А как же Лютик')], "'Илья Олегович!' added"),
-    ("anya", "Как же Лютик? Мы же договорились!", "What about Lyutik? We had a deal!", [(1082, 'Как же Лютик')], "'Мы же договорились!' added"),
-    ("judge", "Заседание суда объявляю закрытым.", "I declare the court session closed.", [(1083, 'суда объявляю закрытым')], "'Соседание' (subtitle typo) -> 'Заседание'"),
-    ("anya", "Оставьте меня в покое! Это какая-то ошибка!", "Leave me alone! This is some kind of mistake!", [(1085, 'Оставьте меня в покое. Это какая-то ошибка')], "outside the courthouse, to the waiting reporters"),
-    ("anya", "Отойдите! Без комментариев! Без комментариев!", "Step back! No comment! No comment!", [(1086, 'Отойдите'), (1087, 'Без комментариев. Без комментариев')], ""),
-]
 OPENER = "Let's go through the courtroom showdown line by line. Judge Berg calls for quiet and reads out the new charge."
+TRANSITION = "Now let's hear the whole scene once more, start to finish."
+OUTRO = "So Arkady's own public defender brought down his appeal, and Arkady is heading straight back to house arrest in the communal flat — where Judge Berg's stolen dog is still waiting. See you next time!"
+CLOSING = ('arkady', 'Пока!')
+STORY = [
+    ('judge', 'Прошу внимания. Открылись новые обстоятельства по другому делу.', 'May I have your attention. New circumstances have come to light in another case.', [(1072, 'Прошу внимания'), (1073, 'Открылись новые обстоятельства по другому делу')], ''),
+    ('judge', 'Махинации с недвижимостью по программе «Доступное жильё».', "Property fraud in the 'Affordable Housing' programme.", [(1074, 'Махинации с недвижимостью по программе «Доступное жильё»')], ''),
+    ('judge', 'Гражданин Аникеев подозревается в новом преступлении.', 'Citizen Anikeev is suspected of a new crime.', [(1075, 'гражданин Аникеев подозревается в')], 'cues 1075-1077 simplified to A1'),
+    ('judge', 'Я вынужден отменить своё решение.', 'I am forced to cancel my decision.', [(1078, 'я вынужден отменить свое решение')], "'По совокупности открывшегося' dropped"),
+    ('judge', 'Мера пресечения остаётся прежней. Домашний арест!', 'The preventive measure remains the same. House arrest!', [(1079, 'Мера пресечения остается прежней')], "'Увести' -> 'Домашний арест!' for clarity"),
+    ('arkady', 'Как? Ты?! А как же адвокатская тайна?', 'How? You?! What about lawyer-client secrecy?', [(1080, 'Как? Ты'), (1080, 'А как же адвокатская тайна')], 'insult in cue 1080 dropped'),
+    ('golovkin', 'Моя мама пятнадцать лет по этой программе стояла!', 'My mum waited fifteen years in that programme!', [(1081, 'Моя мама'), (1081, 'лет по этой программе'), (1081, 'стояла')], "crude opening of cue 1081 dropped; '15' written out as 'пятнадцать'"),
+    ('golovkin', 'Пятнадцать лет в очереди стояла! Забыли?', 'She stood in the queue for fifteen years! Did you forget?', [(1081, 'в очереди стояла')], "'Пятнадцать лет' repeated; 'Забыли?' added"),
+    ('arkady', 'Илья Олегович! А как же Лютик?', 'Ilya Olegovich! But what about Lyutik?', [(1082, 'А как же Лютик')], "'Илья Олегович!' added"),
+    ('arkady', 'Как же Лютик? Мы же договорились!', 'What about Lyutik? We had a deal!', [(1082, 'Как же Лютик')], "'Мы же договорились!' added"),
+    ('judge', 'Заседание суда объявляю закрытым.', 'I declare the court session closed.', [(1083, 'суда объявляю закрытым')], "'Соседание' (subtitle typo) -> 'Заседание'"),
+    ('arkady', 'Оставьте меня в покое! Это какая-то ошибка!', 'Leave me alone! This is some kind of mistake!', [(1085, 'Оставьте меня в покое. Это какая-то ошибка')], 'outside the courthouse, to the waiting reporters'),
+    ('arkady', 'Отойдите! Без комментариев! Без комментариев!', 'Step back! No comment! No comment!', [(1086, 'Отойдите'), (1087, 'Без комментариев. Без комментариев')], ''),
+]
 WALK = [
     (0, 'Прошу внимания.', "'May I have your attention.' Literally, 'I ask of attention', with 'attention' in the 'of' form after 'I ask'."),
     (0, 'Открылись новые обстоятельства по другому делу.', "'New circumstances have come to light in another case.' Literally, 'opened themselves', using the self-action verb form plural past tense. And what is that other case?"),
@@ -44,6 +46,3 @@ WALK = [
     (11, None, "'Leave me alone! This is some kind of mistake!' Literally, 'leave me in peace', a fixed everyday expression."),
     (12, None, "'Step back! No comment! No comment!' After the preposition 'without', 'comments' takes the plural 'of' form ending, and the guards put him back into the van to return to the communal flat."),
 ]
-TRANSITION = "Now let's hear the whole scene once more, start to finish."
-OUTRO = "So Arkady's own public defender brought down his appeal, and Arkady is heading straight back to house arrest in the communal flat — where Judge Berg's stolen dog is still waiting. See you next time!"
-CLOSING = ("anya", "Пока!")

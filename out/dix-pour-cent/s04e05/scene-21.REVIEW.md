@@ -1,31 +1,43 @@
-# Review: `dix-pour-cent-s04e05-scene-21` — Une théorie du complot  (A Conspiracy Theory)
+# dix-pour-cent-s04e05-scene-21: review sheet
 
-- **Source**: `sources/dix-pour-cent/s04/e05.fr.dual.srt`
-- **Level**: A1 — débutant
-- **Voices**: `{"narrator": "sky", "lea": "lucie", "gabriel": "theo"}`
-- **Labels**: `{"lea": "Andréa", "gabriel": "Gabriel"}`
+Title: Une théorie du complot  (A Conspiracy Theory)
+Level: A1 — débutant
+Pair: fr-en
+Source: Dix pour cent (Call My Agent!) S04E05
 
-## Part 1 — Intro
-> Outside the ASK offices, Gabriel frantically waits to pull Andrea aside after spotting her with dancer Rayane Bensetti. Armed with photos from tailing Elise Formain across Paris, Gabriel tries to convince a skeptical Andrea that their new partner is a traitor. Let's listen to their conversation in French first.
 
-## Part 2 — Story Lines
-| # | Role | French | English | Source Cues |
-|---|------|--------|---------|-------------|
-| 0 | `gabriel` (Gabriel) | Andréa, tu as reçu mes messages? | Andrea, did you receive my messages? | 819:Andréa ! Tu as eu mes messages ? |
-| 1 | `lea` (Andréa) | J'étais avec Rayane Bensetti, Gabriel. | I was with Rayane Bensetti, Gabriel. | 808:Rayane, ça va ?, 816:Rayane Bensetti |
-| 2 | `gabriel` (Gabriel) | On file Élise depuis deux jours. | We have been tailing Elise for two days. | 821:On file Élise depuis deux jours |
-| 3 | `lea` (Andréa) | Tu tombes dans une paranoïa totale! | You are falling into complete paranoia! | 823:embarquer dans sa paranoïa |
-| 4 | `gabriel` (Gabriel) | Elle rencontre toujours le patron Bréhier. | She is still meeting the boss Brehier. | 825:Elle voit toujours Bréhier |
-| 5 | `lea` (Andréa) | Ils discutent peut-être de simple paperasse. | They are perhaps discussing simple paperwork. | 826:ils font de la paperasse |
-| 6 | `gabriel` (Gabriel) | De la paperasse sur un pont? | Paperwork on a bridge? | 827:De la paperasse sur un pont ? |
-| 7 | `lea` (Andréa) | C'est ta collègue de travail maintenant. | She is your work colleague now. | 824:c'est ta collègue |
-| 8 | `gabriel` (Gabriel) | Elle travaille toujours pour StarMédia, Andréa! | She is still working for StarMedia, Andrea! | 828:n'a jamais rompu avec StarMédia |
-| 9 | `lea` (Andréa) | C'est une belle théorie du complot. | That is a fine conspiracy theory. | 830:belle petite théorie du complot |
-| 10 | `gabriel` (Gabriel) | Elle veut nous détruire de l'intérieur. | She wants to destroy us from the inside. | 829:faire pression sur Bréhier |
-| 11 | `lea` (Andréa) | Allons lui poser la question directement. | Let us go ask her the question directly. | 832:allons lui demander directement |
-| 12 | `gabriel` (Gabriel) | Elle ne va rien nous avouer. | She is not going to confess anything to us. | 831:C'est pas une théorie |
-| 13 | `lea` (Andréa) | Nous allons éclaircir cette affaire ensemble. | We are going to clear up this matter together. | 833:reprendre le travail |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 5 — Outro & Closing
-> Gabriel and Andrea walk into the agency lobby, determined to uncover the truth behind Elise's secret meetings. When you watch the episode, listen out for the expressions meaning 'received' and 'messages'. You'll catch them now. See you next time!
-- **Closing**: `lea`: *À bientôt!*
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+|---|---|---|---|---|---|
+| 1 | Gabriel | Andréa, tu as reçu mes messages? | Andrea, did you receive my messages? | #819: Andréa ! Tu as eu mes messages ? | verbatim |
+| 2 | Andréa | J'étais avec Rayane Bensetti, Gabriel. | I was with Rayane Bensetti, Gabriel. | #808: Rayane, ça va ?<br>#816: Rayane Bensetti | verbatim |
+| 3 | Gabriel | On file Élise depuis deux jours. | We have been tailing Elise for two days. | #821: On file Élise depuis deux jours | verbatim |
+| 4 | Andréa | Tu tombes dans une paranoïa totale! | You are falling into complete paranoia! | #823: embarquer dans sa paranoïa | verbatim |
+| 5 | Gabriel | Elle rencontre toujours le patron Bréhier. | She is still meeting the boss Brehier. | #825: Elle voit toujours Bréhier | verbatim |
+| 6 | Andréa | Ils discutent peut-être de simple paperasse. | They are perhaps discussing simple paperwork. | #826: ils font de la paperasse | verbatim |
+| 7 | Gabriel | De la paperasse sur un pont? | Paperwork on a bridge? | #827: De la paperasse sur un pont ? | verbatim |
+| 8 | Andréa | C'est ta collègue de travail maintenant. | She is your work colleague now. | #824: c'est ta collègue | verbatim |
+| 9 | Gabriel | Elle travaille toujours pour StarMédia, Andréa! | She is still working for StarMedia, Andrea! | #828: n'a jamais rompu avec StarMédia | verbatim |
+| 10 | Andréa | C'est une belle théorie du complot. | That is a fine conspiracy theory. | #830: belle petite théorie du complot | verbatim |
+| 11 | Gabriel | Elle veut nous détruire de l'intérieur. | She wants to destroy us from the inside. | #829: faire pression sur Bréhier | verbatim |
+| 12 | Andréa | Allons lui poser la question directement. | Let us go ask her the question directly. | #832: allons lui demander directement | verbatim |
+| 13 | Gabriel | Elle ne va rien nous avouer. | She is not going to confess anything to us. | #831: C'est pas une théorie | verbatim |
+| 14 | Andréa | Nous allons éclaircir cette affaire ensemble. | We are going to clear up this matter together. | #833: reprendre le travail | verbatim |
+
+## Walk-through narration (English only, no target-language words quoted)
+
+- 'Andrea, did you receive my messages?' Gabriel intercepts his colleague on the street. In everyday spoken French, rising intonation on 'have' at the end is enough to turn the sentence into a question.
+- 'I was with Rayane Bensetti, Gabriel.' Andrea justifies her busy afternoon. The clause hinges on the everyday verb meaning 'was'.
+- 'We have been tailing Elise for two days.' Gabriel reveals the shadow operation. Notice how 'are tailing' leads directly into the noun meaning 'days'.
+- 'You are falling into complete paranoia!' Andrea scoffs at the cloak-and-dagger talk. Notice how 'fall' leads directly into the noun meaning 'paranoia'.
+- 'She is still meeting the boss Brehier.' Gabriel offers hard proof of collusion. Notice how 'meets' leads directly into the noun meaning 'boss'.
+- 'They are perhaps discussing simple paperwork.' Andrea looks for a harmless rationale. Notice how 'discuss' leads directly into the noun meaning 'paperwork'.
+- 'Paperwork on a bridge?' Gabriel scoffs at the absurd excuse. The key noun here means 'paperwork', anchored by its matching French article.
+- 'She is your work colleague now.' Andrea urges professional etiquette. The informal 'you' form around 'colleague' marks a direct, personal relationship.
+- 'She is still working for StarMedia, Andrea!' Gabriel refuses to let his guard down. The clause hinges on the everyday verb meaning 'works'.
+- 'That is a fine conspiracy theory.' Andrea brushes off his dramatic narrative. The adjective meaning 'fine' takes its feminine form here to match the noun it describes.
+- 'She wants to destroy us from the inside.' Gabriel warns of an undercover plot. Notice how 'wants' leads directly into the noun meaning 'inside'.
+- 'Let us go ask her the question directly.' Andrea chooses a forthright solution. Notice how 'let us go' leads directly into the noun meaning 'question'.
+- 'She is not going to confess anything to us.' Gabriel warns that she will lie. The two-part negative frame surrounds 'is going' to mean 'nothing at all'.
+- 'We are going to clear up this matter together.' Andrea wraps up the debate firmly. The verb meaning 'are going' pairs naturally with the noun for 'matter' in everyday conversation.

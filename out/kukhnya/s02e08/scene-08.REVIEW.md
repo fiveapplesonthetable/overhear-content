@@ -10,32 +10,32 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Можно вас на минутку? | May I have a word with you for a minute? | #130 00:08:04: можно вас на минутку | verbatim |
-| 2 | Елена | Не поняла. | I did not quite catch that. | #131 00:08:09: Не поняла | verbatim |
-| 3 | Елена | На свидание с вами? | Go on a date with you? | #135 00:08:20: На свидание с вами | verbatim |
-| 4 | Аня | Со старым толстым алкоголиком? | With an old, fat alcoholic? | #136 00:08:22: Со старым толстым алкоголиком | verbatim |
-| 5 | Елена | А я не могу. | I just cannot do it. | #137 00:08:27: А я не могу | verbatim |
-| 6 | Елена | Витя, Витя. | Vitya, pull yourself together. | #138 00:08:44: Витя, Витя | verbatim |
-| 7 | Аня | Да ты трясешься. | Look at you, you are shaking. | #139 00:08:59: Да ты трясешься | verbatim |
-| 8 | Елена | Помолчи и поспорь со мной. | Be quiet and make a bet with me. | #142 00:09:18: и поспорь со мной | adapted: adapted |
-| 9 | Елена | Что я не приглашу Елену на свидание. | Bet me that I will not ask Elena out on a date. | #143 00:09:22: что я не приглашу Елену на свидание | verbatim |
-| 10 | Аня | На что спорим? | How much are we betting? | #144 00:09:26: На что спорим | verbatim |
-| 11 | Елена | На пять тысяч. | Five thousand rubles. | #145 00:09:28: На пять тысяч | verbatim |
-| 12 | Елена | Да, возьми. | Here, take it. | #147 00:09:34: Да, возьми | verbatim |
-| 13 | Аня | Спорим, что вам слабо пригласить Елену на свидание? | I bet you do not have the guts to ask Elena out on a date? | #149 00:09:39: Спорим, что вам слабо пригласить Елену на свидание | verbatim |
+| 1 | Макс | Можно вас на минутку? | May I have a word with you for a minute? | #130: можно вас на минутку | verbatim |
+| 2 | Лёва | Не поняла. | I did not quite catch that. | #131: Не поняла | verbatim |
+| 3 | Елена | На свидание с вами? | Go on a date with you? | #135: На свидание с вами | verbatim |
+| 4 | Макс | Со старым толстым алкоголиком? | With an old, fat alcoholic? | #136: Со старым толстым алкоголиком | verbatim |
+| 5 | Лёва | А я не могу. | I just cannot do it. | #137: А я не могу | verbatim |
+| 6 | Елена | Витя, Витя. | Vitya, pull yourself together. | #138: Витя, Витя | verbatim |
+| 7 | Макс | Да ты трясешься. | Look at you, you are shaking. | #139: Да ты трясешься | verbatim |
+| 8 | Лёва | Помолчи и поспорь со мной. | Be quiet and make a bet with me. | #142: и поспорь со мной | adapted: adapted |
+| 9 | Елена | Что я не приглашу Елену на свидание. | Bet me that I will not ask Elena out on a date. | #143: что я не приглашу Елену на свидание | verbatim |
+| 10 | Макс | На что спорим? | How much are we betting? | #144: На что спорим | verbatim |
+| 11 | Лёва | На пять тысяч. | Five thousand rubles. | #145: На пять тысяч | verbatim |
+| 12 | Елена | Да, возьми. | Here, take it. | #147: Да, возьми | verbatim |
+| 13 | Макс | Спорим, что вам слабо пригласить Елену на свидание? | I bet you do not have the guts to ask Elena out on a date? | #149: Спорим, что вам слабо пригласить Елену на свидание | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'May I have a word with you for a minute?' Max chooses the respectful plural 'you' alongside 'a minute' to keep a polite distance.
-- 'I did not quite catch that.' Spoken Russian keeps this brisk, leaning on 'not' and finishing on 'understood'.
-- 'Go on a date with you?' Notice how Russian expresses 'on' and 'with you' with crisp inflection rather than helper words. Max answers right away.
-- 'With an old, fat alcoholic?' The grammar packs 'with' and 'alcoholic' into a tight, idiomatic kitchen exchange.
-- 'I just cannot do it.' Lyova brings out the contrast between 'and' and 'I' in a few short words.
-- 'Vitya, pull yourself together.' The meaning hinges on 'Vitya' working together with 'Vitya' in spoken Russian. Max answers right away.
-- 'Look at you, you are shaking.' In Russian, the idea of 'yes' flows naturally into 'to tremble' without extra filler words.
-- 'Be quiet and make a bet with me.' In everyday Russian, 'to be quiet' flows straight into 'to make a bet, wager, argue' without extra linking words.
-- 'Bet me that I will not ask Elena out on a date.' Spoken Russian keeps this brisk, leaning on 'what' and finishing on 'date'. Max answers right away.
-- 'How much are we betting?' The meaning hinges on 'on' working together with 'wanna bet' in spoken Russian.
-- 'Five thousand rubles.' The grammar packs 'on' and 'thousand' into a tight, idiomatic kitchen exchange.
-- 'Here, take it.' Spoken Russian keeps this brisk, leaning on 'yes' and finishing on 'take'. Max answers right away.
-- 'I bet you do not have the guts to ask Elena out on a date?' Notice how Russian expresses 'wanna bet' and 'date' with crisp inflection rather than helper words.
+- 'May I have a word with you for a minute?' Asking whether may he has a word with Elena for a minute puts Elena right on the defensive. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
+- 'I did not quite catch that.' Adding that he did not quite catch fills in the missing piece for Elena.
+- 'Go on a date with you?' Around the point and shift, Elena wants to know where Lyova really stands.
+- 'With an old, fat alcoholic?' With the point and conversation hanging in the air, Max puts Elena on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'I just cannot do it.' Mentioning that he just cannot do it moves the talk in a new direction.
+- 'Vitya, pull yourself together.' Telling Lyova to pull themselves together moves the conversation forward without extra drama.
+- 'Look at you, you are shaking.' Because at Elena Elena is shaking, Max treats the matter as settled. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Be quiet and make a bet with me.' Over the work and the point, Lyova answers Elena without a second thought.
+- 'Bet me that I will not ask Elena out on a date.' Adding that Lyova should bet her that she will not ask Elena out on a date fills in the missing piece for Lyova.
+- 'How much are we betting?' Max asks whether how much are they betting, refusing to let the point slide. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Five thousand rubles.' Around the point and date, Lyova sets a calm, everyday tone with Elena.
+- 'Here, take it.' With the point and shift in play, Elena keeps this short reply brisk and direct.
+- 'I bet you do not have the guts to ask Elena out on a date?' Betting Elena does not have the guts to ask Elena out on a date is how Max puts Elena on the spot. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.

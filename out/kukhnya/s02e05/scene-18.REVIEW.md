@@ -10,32 +10,32 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Да перестань, Макс. | Oh, stop it, Max. | #303 00:20:51: Да перестань, Макс | verbatim |
-| 2 | Шеф | Я много думала о нас. | I have thought a lot about us. | #304 00:20:56: Я много думала о нас | verbatim |
-| 3 | Вика | Я решила, что мы... | I decided that we... | #305 00:21:01: Я решила, что мы | verbatim |
-| 4 | Аня | Я уже делал. | I already had my procedure. | #307 00:21:07: Я уже делал | verbatim |
-| 5 | Шеф | Ну, это было вчера. | Well, that was yesterday. | #310 00:21:16: Ну, это было вчера | verbatim |
-| 6 | Вика | Вика, ты извини. | Vika, I am sorry. | #311 00:21:20: Вика, ты извини | verbatim |
-| 7 | Аня | Простите, это не ваше место. | Excuse me, that is not your bed. | #315 00:22:04: Простите, это не ваше место | verbatim |
-| 8 | Шеф | Как не мое? | What do you mean it is not mine? | #316 00:22:05: Как не мое | verbatim |
-| 9 | Вика | Виктория Сергеевна, а вы что здесь делаете? | Viktoriya Sergeyevna, what are you doing here? | #318 00:22:25: Виктория Сергеевна, а вы что здесь делаете | verbatim |
-| 10 | Аня | Я что здесь делаю? | What am I doing here? | #319 00:22:29: Я что здесь делаю | verbatim |
-| 11 | Шеф | Это ты что здесь делаешь? | What are you doing here? | #320 00:22:31: Это ты что здесь делаешь | verbatim |
-| 12 | Вика | Я к Максу пришла. | I came to visit Max. | #321 00:22:33: Я к Максу пришла | verbatim |
-| 13 | Аня | Он правда сейчас вышел на процедуры. | Though right now he stepped out for his procedures. | #322 00:22:36: Он правда сейчас вышел на процедуры | verbatim |
+| 1 | Макс | Да перестань, Макс. | Oh, stop it, Max. | #303: Да перестань, Макс | verbatim |
+| 2 | Вика | Я много думала о нас. | I have thought a lot about us. | #304: Я много думала о нас | verbatim |
+| 3 | Вика | Я решила, что мы... | I decided that we... | #305: Я решила, что мы | verbatim |
+| 4 | Макс | Я уже делал. | I already had my procedure. | #307: Я уже делал | verbatim |
+| 5 | Шеф | Ну, это было вчера. | Well, that was yesterday. | #310: Ну, это было вчера | verbatim |
+| 6 | Вика | Вика, ты извини. | Vika, I am sorry. | #311: Вика, ты извини | verbatim |
+| 7 | Макс | Простите, это не ваше место. | Excuse me, that is not your bed. | #315: Простите, это не ваше место | verbatim |
+| 8 | Шеф | Как не мое? | What do you mean it is not mine? | #316: Как не мое | verbatim |
+| 9 | Вика | Виктория Сергеевна, а вы что здесь делаете? | Viktoriya Sergeyevna, what are you doing here? | #318: Виктория Сергеевна, а вы что здесь делаете | verbatim |
+| 10 | Макс | Я что здесь делаю? | What am I doing here? | #319: Я что здесь делаю | verbatim |
+| 11 | Шеф | Это ты что здесь делаешь? | What are you doing here? | #320: Это ты что здесь делаешь | verbatim |
+| 12 | Вика | Я к Максу пришла. | I came to visit Max. | #321: Я к Максу пришла | verbatim |
+| 13 | Макс | Он правда сейчас вышел на процедуры. | Though right now he stepped out for his procedures. | #322: Он правда сейчас вышел на процедуры | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Oh, stop it, Max.' The meaning hinges on 'yes' working together with 'Max' in spoken Russian.
-- 'I have thought a lot about us.' Notice how Russian expresses 'I' and 'us' with crisp inflection rather than helper words. Vika answers right away.
-- 'I decided that we...' In Russian, the idea of 'I' flows naturally into 'we' without extra filler words.
-- 'I already had my procedure.' Here the Russian phrasing highlights 'I' before landing on 'were doing'.
-- 'Well, that was yesterday.' Here the Russian phrasing highlights 'come on' before landing on 'yesterday'. Vika answers right away.
-- 'Vika, I am sorry.' The meaning hinges on 'Vika' working together with 'sorry' in spoken Russian.
-- 'Excuse me, that is not your bed.' Max chooses the respectful plural 'you' alongside 'station' to keep a polite distance.
-- 'What do you mean it is not mine?' Chef Viktor raises the pitch on 'my' to turn the phrase into a direct spoken question. Vika answers right away.
-- 'Viktoriya Sergeyevna, what are you doing here?' The meaning hinges on 'Viktoriya' working together with 'are doing' in spoken Russian.
-- 'What am I doing here?' Max brings out the contrast between 'I' and 'what' in a few short words.
-- 'What are you doing here?' Here the Russian phrasing highlights 'this' before landing on 'are you doing'. Vika answers right away.
-- 'I came to visit Max.' In Russian, the idea of 'I' flows naturally into 'came' without extra filler words.
-- 'Though right now he stepped out for his procedures.' Here the Russian phrasing highlights 'he' before landing on 'procedure'.
+- 'Oh, stop it, Max.' Max mentions that Barinov should stop it so Barinov sees what is at stake.
+- 'I have thought a lot about us.' Having thought a lot about them moves the conversation forward without extra drama.
+- 'I decided that we...' Even though she decided that they, Vika keeps a steady face in front of Barinov.
+- 'I already had my procedure.' Admitting that he already had his procedure shows Max being honest for a change.
+- 'Well, that was yesterday.' Saying that that was yesterday is how Barinov sets the tone with Max.
+- 'Vika, I am sorry.' Here being sorry sets up the next turn in their exchange. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Excuse me, that is not your bed.' Adding that that is not Barinov's bed fills in the missing piece for Barinov. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
+- 'What do you mean it is not mine?' Asking what Max means it is not is how Barinov puts Max on the spot.
+- 'Viktoriya Sergeyevna, what are you doing here?' Asking whether Viktoriya Sergeyevna what are Barinov doing here puts Barinov right on the defensive. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.
+- 'What am I doing here?' Around the plan and kitchen, Max wants to know where Barinov really stands. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'What are you doing here?' Asking what Max doing here is cuts straight through the tension between Barinov and Max.
+- 'I came to visit Max.' Because she came to visit Max, Vika treats the matter as settled.
+- 'Though right now he stepped out for his procedures.' With the point and plan in play, Max keeps this short reply brisk and direct.

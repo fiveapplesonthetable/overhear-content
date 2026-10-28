@@ -7,8 +7,7 @@ SCENE = 9
 TITLE = "L'amour et les affaires  (Love and Business)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'mathias': 'marcel', 'lea': 'lucie'}
-LABELS = {'gabriel': 'Gabriel', 'mathias': 'Mathias', 'lea': 'Andréa'}
+LABELS = {'andrea': 'Andréa', 'gabriel': 'Gabriel', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e02.fr.dual.srt'
 INTRO = "At the ASK agency, tensions rise in the office corridor. Mathias and Andréa confront Gabriel about his decision to represent his girlfriend Sofia as an actress. They warn him that blending romance with professional representation spells disaster. Let's listen to the scene in French first."
@@ -28,10 +27,10 @@ STORY = [
     ('mathias', 'Fais ce que tu veux, mais ne la représente pas.', 'Do what you want, but do not represent her.', [(269, 'Fais ce que tu veux avec elle'), (270, 'mais ne la représente pas.')], ''),
     ('gabriel', 'Je fais ce que je veux avec mes clients.', 'I do what I want with my clients.', [(272, 'Je fais ce que je veux avec mes clients.')], ''),
     ('gabriel', 'Chaque dossier est sacré ici. Toujours.', 'Every file is sacred here. Always.', [(273, 'Chaque dossier est sacré. Toujours.')], ''),
-    ('lea', "Franchement, Gabriel, il n'a pas tort.", 'Frankly, Gabriel, he is not wrong.', [(276, "Franchement, il n'a pas tort.")], ''),
-    ('lea', "Ce n'est pas bon pour un couple de travailler ensemble.", 'It is not good for a couple to work together.', [(281, "Ce n'est pas bon pour un couple de tout faire ensemble.")], ''),
+    ('andrea', "Franchement, Gabriel, il n'a pas tort.", 'Frankly, Gabriel, he is not wrong.', [(276, "Franchement, il n'a pas tort.")], ''),
+    ('andrea', "Ce n'est pas bon pour un couple de travailler ensemble.", 'It is not good for a couple to work together.', [(281, "Ce n'est pas bon pour un couple de tout faire ensemble.")], ''),
     ('gabriel', 'Des couples légendaires travaillaient ensemble.', 'Legendary couples worked together.', [(284, 'Des couples légendaires qui travaillaient ensemble.')], ''),
-    ('lea', "L'un battait sa femme, l'autre a été assassiné.", 'One beat his wife, the other was murdered.', [(285, "L'un battait sa femme,"), (287, 'le troisième a été assassiné.')], ''),
+    ('andrea', "L'un battait sa femme, l'autre a été assassiné.", 'One beat his wife, the other was murdered.', [(285, "L'un battait sa femme,"), (287, 'le troisième a été assassiné.')], ''),
     ('gabriel', 'Je suis complètement à bout avec cette histoire.', 'I am completely exhausted with this story.', [(289, 'Je suis à bout.')], ''),
 ]
 WALK = [

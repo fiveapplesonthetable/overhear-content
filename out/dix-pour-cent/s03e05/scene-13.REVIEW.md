@@ -1,31 +1,43 @@
-# Review: `dix-pour-cent-s03e05-scene-13` — La répétition intime  (The Intimate Rehearsal)
+# dix-pour-cent-s03e05-scene-13: review sheet
 
-- **Source**: `sources/dix-pour-cent/s03/e05.fr.dual.srt`
-- **Level**: A1 — débutant
-- **Voices**: `{"narrator": "sky", "camille": "emilie", "valentin": "theo"}`
-- **Labels**: `{"camille": "Camille", "valentin": "Valentin"}`
+Title: La répétition intime  (The Intimate Rehearsal)
+Level: A1 — débutant
+Pair: fr-en
+Source: Dix pour cent (Call My Agent!) S03E05
 
-## Part 1 — Intro
-> In the quiet of the agency office, Camille Valentini rehearses an audition scene with Valentin. When Valentin launches into an intense, shouting performance, Camille stops him to explain the nuance of film acting. Let's listen to their conversation in French first.
 
-## Part 2 — Story Lines
-| # | Role | French | English | Source Cues |
-|---|------|--------|---------|-------------|
-| 0 | `valentin` (Valentin) | Tu dois partir immédiatement là-bas! | You must leave over there immediately! | 408:Faut que tu ailles là-bas |
-| 1 | `valentin` (Valentin) | C'est une très grande chance pour toi. | It is a very big opportunity for you. | 410:C'est une grande chance |
-| 2 | `valentin` (Valentin) | Ne gâche pas cette opportunité unique! | Do not waste this unique opportunity! | 411:Ne la gâche pas |
-| 3 | `valentin` (Valentin) | Pourquoi tu ne veux pas venir avec moi? | Why do you not want to come with me? | 415:Pourquoi tu veux pas venir avec moi ? |
-| 4 | `camille` (Camille) | Pourquoi est-ce que tu cries comme ça? | Why are you shouting like that? | 416:Pourquoi tu cries comme ça ? |
-| 5 | `camille` (Camille) | C'est une scène d'amour très intime. | It is a very intimate love scene. | 418:C'est une scène intime |
-| 6 | `camille` (Camille) | Tu n'as pas besoin de hurler. | You do not need to yell. | 420:T'as pas besoin de hurler comme ça |
-| 7 | `valentin` (Valentin) | Mais mon personnage est vraiment en colère! | But my character is really angry! | 422:Parce qu'il est en colère ? |
-| 8 | `camille` (Camille) | Il faut une progression dans la scène. | There must be a progression in the scene. | 425:y'a une progression dans la scène |
-| 9 | `camille` (Camille) | La caméra devine tes pensées secrètes. | The camera guesses your secret thoughts. | 428:Ça finit ta pensée la caméra |
-| 10 | `camille` (Camille) | Garde le visage calme comme un masque. | Keep your face calm like a mask. | 429:t'exprimes rien, 430:Comme un masque |
-| 11 | `valentin` (Valentin) | Tu sais quoi, laisse tomber, j'arrête! | You know what, forget it, I stop! | 435:laisse tomber, 437:Vaut mieux qu'on arrête |
-| 12 | `camille` (Camille) | Attends, reste, je suis désolée Valentin. | Wait, stay, I am sorry Valentin. | 439:reste, 444:Pardon si je t'ai fait douter |
-| 13 | `camille` (Camille) | Pardon, c'est entièrement de ma faute. | Sorry, it is entirely my fault. | 445:Pardon c'est ma faute |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 5 — Outro & Closing
-> Coaching an actor who is also a boyfriend proves delicate for Camille. When you watch the episode, listen out for the expressions meaning 'must' and 'to leave'. You'll catch them now. See you next time!
-- **Closing**: `camille`: *Au revoir!*
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+|---|---|---|---|---|---|
+| 1 | Valentin | Tu dois partir immédiatement là-bas! | You must leave over there immediately! | #408: Faut que tu ailles là-bas | verbatim |
+| 2 | Valentin | C'est une très grande chance pour toi. | It is a very big opportunity for you. | #410: C'est une grande chance | verbatim |
+| 3 | Valentin | Ne gâche pas cette opportunité unique! | Do not waste this unique opportunity! | #411: Ne la gâche pas | verbatim |
+| 4 | Valentin | Pourquoi tu ne veux pas venir avec moi? | Why do you not want to come with me? | #415: Pourquoi tu veux pas venir avec moi ? | verbatim |
+| 5 | Camille | Pourquoi est-ce que tu cries comme ça? | Why are you shouting like that? | #416: Pourquoi tu cries comme ça ? | verbatim |
+| 6 | Camille | C'est une scène d'amour très intime. | It is a very intimate love scene. | #418: C'est une scène intime | verbatim |
+| 7 | Camille | Tu n'as pas besoin de hurler. | You do not need to yell. | #420: T'as pas besoin de hurler comme ça | verbatim |
+| 8 | Valentin | Mais mon personnage est vraiment en colère! | But my character is really angry! | #422: Parce qu'il est en colère ? | verbatim |
+| 9 | Camille | Il faut une progression dans la scène. | There must be a progression in the scene. | #425: y'a une progression dans la scène | verbatim |
+| 10 | Camille | La caméra devine tes pensées secrètes. | The camera guesses your secret thoughts. | #428: Ça finit ta pensée la caméra | verbatim |
+| 11 | Camille | Garde le visage calme comme un masque. | Keep your face calm like a mask. | #429: t'exprimes rien<br>#430: Comme un masque | verbatim |
+| 12 | Valentin | Tu sais quoi, laisse tomber, j'arrête! | You know what, forget it, I stop! | #435: laisse tomber<br>#437: Vaut mieux qu'on arrête | verbatim |
+| 13 | Camille | Attends, reste, je suis désolée Valentin. | Wait, stay, I am sorry Valentin. | #439: reste<br>#444: Pardon si je t'ai fait douter | verbatim |
+| 14 | Camille | Pardon, c'est entièrement de ma faute. | Sorry, it is entirely my fault. | #445: Pardon c'est ma faute | verbatim |
+
+## Walk-through narration (English only, no target-language words quoted)
+
+- 'You must leave over there immediately!' Valentin recites his dramatic audition dialogue loudly. The informal 'you' form around 'must' marks a direct, personal relationship.
+- 'It is a very big opportunity for you.' The character emphasizes what is at stake. Valentin uses the casual singular 'you' with 'opportunity', showing close familiarity.
+- 'Do not waste this unique opportunity!' Valentin urges his fictional partner not to squander her future. The descriptive adjective for 'unique' agrees in gender and number with its noun.
+- 'Why do you not want to come with me?' Valentin pushes with intense emotion. In everyday spoken French, rising intonation on 'want' at the end is enough to turn the sentence into a question.
+- 'Why are you shouting like that?' Camille halts the rehearsal to question his volume. The informal 'you' form around 'are shouting' marks a direct, personal relationship.
+- 'It is a very intimate love scene.' Camille reminds him of the tender context. The descriptive adjective for 'intimate' agrees in gender and number with its noun.
+- 'You do not need to yell.' Camille explains that projection is unnecessary for film. Notice how 'have' leads directly into the noun meaning 'need'.
+- 'But my character is really angry!' Valentin justifies his intense vocal delivery. The key noun here means 'dramatic character', anchored by its matching French article.
+- 'There must be a progression in the scene.' Camille teaches pacing and gradual buildup. Notice how 'there must be' leads directly into the noun meaning 'gradual development'.
+- 'The camera guesses your secret thoughts.' Camille notes how the camera magnifies subtle thought. The adjective meaning 'secret' takes its feminine form here to match the noun it describes.
+- 'Keep your face calm like a mask.' Camille urges a restrained, interior performance. Notice how 'keep' leads directly into the noun meaning 'face'.
+- 'You know what, forget it, I stop!' Valentin feels hurt and threatens to walk away. Valentin uses the casual singular 'you' with 'know', showing close familiarity.
+- 'Wait, stay, I am sorry Valentin.' Camille rushes to comfort her vulnerable boyfriend. The clause hinges on the everyday verb meaning 'wait'.
+- 'Sorry, it is entirely my fault.' Camille softens the critique to rebuild his confidence. The key noun here means 'sorry', anchored by its matching French article.

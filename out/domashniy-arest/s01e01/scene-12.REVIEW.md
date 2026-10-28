@@ -10,21 +10,21 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Виталик, почему мы так медленно едем? Быстрее! | Vitalik, why are we going so slowly? Faster! | #492 00:30:11: Виталик | adapted: slang 'ну чего тащимся? Притопи!' -> plain 'почему мы так медленно едем? Быстрее!' |
-| 2 | Аня | Да, слушаю. | Yes, I'm listening. | #493 00:30:18: Да | adapted: 'слушаю' added (how Russians answer the phone) |
-| 3 | Аракелян | Аркадий Борисович, здравствуйте. | Arkady Borisovich, hello. | #494 00:30:19: Аркадий Борисович, здравствуйте | verbatim |
-| 4 | Аракелян | Это Аракелян. Я по поводу торгового центра. | It's Arakelyan. I'm calling about the shopping centre. | #496 00:30:22: Я по поводу торгового центра | adapted: 'Это Аракелян' new: the subtitle garbles his self-introduction in cue 495 |
-| 5 | Аракелян | У меня всё готово. | Everything is ready on my side. | #496 00:30:22: У меня все готово | verbatim |
-| 6 | Аня | Это хорошо, что готово. А то мы уже начали беспокоиться. | It's good that it's ready. We were starting to worry. | #497 00:30:26: Это хорошо, что готово<br>#497 00:30:26: беспокоиться | adapted: 'уж беспокоиться начали' -> 'уже начали беспокоиться' |
-| 7 | Аня | Позвони мне вечером. Договоримся на завтра. | Call me this evening. We'll arrange something for tomorrow. | #498 00:30:30: Договоримся | adapted: slang 'Вечерком меня набери' -> 'Позвони мне вечером'; 'На счет завтра' -> 'на завтра' |
-| 8 | Аракелян | Извините, вечером не могу. Я улетаю в Ереван. | Sorry, I can't this evening. I'm flying to Yerevan. | #499 00:30:34: вечером не могу<br>#499 00:30:34: улетаю | adapted: 'Я извиняюсь' -> 'Извините'; 'Ереван улетаю' -> 'Я улетаю в Ереван' |
-| 9 | Аракелян | Мама болеет. | My mother is ill. | #500 00:30:38: Мама болеет | verbatim |
-| 10 | Аракелян | Может, встретимся сейчас? | Maybe we could meet now? | #500 00:30:38: сейчас | adapted: slang 'Не могли бы сейчас пересекнуться?' -> 'Может, встретимся сейчас?' |
-| 11 | Аня | Ну как же ты не вовремя! Где ты сейчас? | Your timing couldn't be worse! Where are you now? | #501 00:30:42: Ну как же ты не вовремя<br>#501 00:30:42: Где ты сейчас | adapted: 'со своей мамой' dropped |
-| 12 | Аракелян | Я в Санта-Фе. | I'm at the Santa Fe. | #502 00:30:45: Санта-Фе | adapted: 'Я' added |
-| 13 | Аня | Ладно, будь там. Через десять минут буду. | All right, stay there. I'll be there in ten minutes. | #503 00:30:49: Ладно, будь там. Через десять минут буду | verbatim |
+| 1 | Аркадий | Виталик, почему мы так медленно едем? Быстрее! | Vitalik, why are we going so slowly? Faster! | #492: Виталик | adapted: slang 'ну чего тащимся? Притопи!' -> plain 'почему мы так медленно едем? Быстрее!' |
+| 2 | Аркадий | Да, слушаю. | Yes, I'm listening. | #493: Да | adapted: 'слушаю' added (how Russians answer the phone) |
+| 3 | Аракелян | Аркадий Борисович, здравствуйте. | Arkady Borisovich, hello. | #494: Аркадий Борисович, здравствуйте | verbatim |
+| 4 | Аракелян | Это Аракелян. Я по поводу торгового центра. | It's Arakelyan. I'm calling about the shopping centre. | #496: Я по поводу торгового центра | adapted: 'Это Аракелян' new: the subtitle garbles his self-introduction in cue 495 |
+| 5 | Аракелян | У меня всё готово. | Everything is ready on my side. | #496: У меня все готово | verbatim |
+| 6 | Аркадий | Это хорошо, что готово. А то мы уже начали беспокоиться. | It's good that it's ready. We were starting to worry. | #497: Это хорошо, что готово<br>#497: беспокоиться | adapted: 'уж беспокоиться начали' -> 'уже начали беспокоиться' |
+| 7 | Аркадий | Позвони мне вечером. Договоримся на завтра. | Call me this evening. We'll arrange something for tomorrow. | #498: Договоримся | adapted: slang 'Вечерком меня набери' -> 'Позвони мне вечером'; 'На счет завтра' -> 'на завтра' |
+| 8 | Аракелян | Извините, вечером не могу. Я улетаю в Ереван. | Sorry, I can't this evening. I'm flying to Yerevan. | #499: вечером не могу<br>#499: улетаю | adapted: 'Я извиняюсь' -> 'Извините'; 'Ереван улетаю' -> 'Я улетаю в Ереван' |
+| 9 | Аракелян | Мама болеет. | My mother is ill. | #500: Мама болеет | verbatim |
+| 10 | Аракелян | Может, встретимся сейчас? | Maybe we could meet now? | #500: сейчас | adapted: slang 'Не могли бы сейчас пересекнуться?' -> 'Может, встретимся сейчас?' |
+| 11 | Аркадий | Ну как же ты не вовремя! Где ты сейчас? | Your timing couldn't be worse! Where are you now? | #501: Ну как же ты не вовремя<br>#501: Где ты сейчас | adapted: 'со своей мамой' dropped |
+| 12 | Аракелян | Я в Санта-Фе. | I'm at the Santa Fe. | #502: Санта-Фе | adapted: 'Я' added |
+| 13 | Аркадий | Ладно, будь там. Через десять минут буду. | All right, stay there. I'll be there in ten minutes. | #503: Ладно, будь там. Через десять минут буду | verbatim |
 | 14 | Аракелян | Хорошо. Жду вас. | Fine. I'll be waiting for you. | new | new: new: closes the call |
-| 15 | Аня | Виталик, в Санта-Фе едем. | Vitalik, we're going to the Santa Fe. | #504 00:30:52: Виталик, в Санта-Фе едем | verbatim |
+| 15 | Аркадий | Виталик, в Санта-Фе едем. | Vitalik, we're going to the Santa Fe. | #504: Виталик, в Санта-Фе едем | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

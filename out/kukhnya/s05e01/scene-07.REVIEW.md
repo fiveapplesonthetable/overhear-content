@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Денис | Что это было? Извините. | What was that? Excuse me. | #107 00:08:01: Извините | adapted: adapted |
-| 2 | Денис | Глаза открой. | Open your eyes. | #108 00:08:07: Глаза открой | adapted: verbatim |
-| 3 | Денис | Извини, я случайно. | Sorry, I did it by accident. | #109 00:08:09: Извини, я случайно | adapted: verbatim |
-| 4 | Денис | Слушай, я к тебе пришёл. | Listen, I actually came to see you. | #110 00:08:13: я на самом деле к тебе пришел | adapted: adapted |
-| 5 | Денис | Я пришёл на самом деле. | I came here for a real reason. | #110 00:08:13: на самом деле | adapted: adapted |
-| 6 | Денис | Ты Катю знаешь? | Do you know Katya? | #111 00:08:17: Ты Катю знаешь? | adapted: verbatim |
-| 7 | Денис | Кого ты сейчас назвал? | Who did you just name? | #111 00:08:17: Кого? | adapted: adapted |
-| 8 | Денис | Нашу Катю с кухни. | Our Katya from the kitchen. | #112 00:08:21: Катю | adapted: adapted |
-| 9 | Денис | Я её парень, понял? | I am her boyfriend, got it? | #113 00:08:23: Я ее парень, понял? | adapted: verbatim |
-| 10 | Денис | Не надо к ней приставать. | You should not hit on her. | #114 00:08:24: к ней не приставать | adapted: adapted |
-| 11 | Денис | Чего? Я тебя не понял. | What? I did not understand you. | #115 00:08:26: Чего? Не понял | adapted: adapted |
-| 12 | Денис | О чём ты вообще говоришь? | What are you talking about at all? | #115 00:08:26: Не понял | adapted: adapted |
+| 1 | Никита | Что это было? Извините. | What was that? Excuse me. | #107: Извините | adapted: adapted |
+| 2 | Никита | Глаза открой. | Open your eyes. | #108: Глаза открой | adapted: verbatim |
+| 3 | Денис | Извини, я случайно. | Sorry, I did it by accident. | #109: Извини, я случайно | adapted: verbatim |
+| 4 | Денис | Слушай, я к тебе пришёл. | Listen, I actually came to see you. | #110: я на самом деле к тебе пришел | adapted: adapted |
+| 5 | Денис | Я пришёл на самом деле. | I came here for a real reason. | #110: на самом деле | adapted: adapted |
+| 6 | Денис | Ты Катю знаешь? | Do you know Katya? | #111: Ты Катю знаешь? | adapted: verbatim |
+| 7 | Никита | Кого ты сейчас назвал? | Who did you just name? | #111: Кого? | adapted: adapted |
+| 8 | Денис | Нашу Катю с кухни. | Our Katya from the kitchen. | #112: Катю | adapted: adapted |
+| 9 | Денис | Я её парень, понял? | I am her boyfriend, got it? | #113: Я ее парень, понял? | adapted: verbatim |
+| 10 | Денис | Не надо к ней приставать. | You should not hit on her. | #114: к ней не приставать | adapted: adapted |
+| 11 | Никита | Чего? Я тебя не понял. | What? I did not understand you. | #115: Чего? Не понял | adapted: adapted |
+| 12 | Никита | О чём ты вообще говоришь? | What are you talking about at all? | #115: Не понял | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What was that? Excuse me.' Here the Russian phrasing highlights 'what' before landing on 'excuse me'.
-- 'Open your eyes.' Nikita brings out the contrast between 'eyes' and 'to open' in a few short words.
-- 'Sorry, I did it by accident.' Denis anchors the line on 'sorry', while 'by accident' completes the thought.
-- 'Listen, I actually came to see you.' Notice how Russian expresses 'listen' and 'arrived' with crisp inflection rather than helper words.
-- 'I came here for a real reason.' The meaning hinges on 'I' working together with 'practice' in spoken Russian.
-- 'Do you know Katya?' Notice how Russian expresses 'you' and 'know' with crisp inflection rather than helper words. Nikita answers right away.
-- 'Who did you just name?' The meaning hinges on 'whom' working together with 'called' in spoken Russian.
-- 'Our Katya from the kitchen.' Notice how Russian expresses 'our' and 'kitchen' with crisp inflection rather than helper words.
-- 'I am her boyfriend, got it?' Here the Russian phrasing highlights 'I' before landing on 'understood'.
-- 'You should not hit on her.' Denis anchors the line on 'not', while 'to hit on' completes the thought.
-- 'What? I did not understand you.' Nikita anchors the line on 'what', while 'understood' completes the thought.
-- 'What are you talking about at all?' Notice how Russian expresses 'about' and 'speak' with crisp inflection rather than helper words.
+- 'What was that? Excuse me.' Over the shift and the hotel, Nikita presses Denis for a straight answer.
+- 'Open your eyes.' Because Denis should open Denis's eyes, Nikita treats the matter as settled.
+- 'Sorry, I did it by accident.' Denis explains that he did it by accident, keeping his voice calm and direct.
+- 'Listen, I actually came to see you.' Realizing that he actually came to see Nikita changes how Denis handles the situation.
+- 'I came here for a real reason.' Noting that he came here for a real reason keeps Denis's side of the story simple and clear.
+- 'Do you know Katya?' Here checking whether Nikita knows Katya shows Denis looking for the real truth. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Who did you just name?' By asking who Denis just name, Nikita presses Denis for a straight answer.
+- 'Our Katya from the kitchen.' With the hotel and kitchen in play, Denis keeps this short reply brisk and direct.
+- 'I am her boyfriend, got it?' Questioning whether he is her boyfriend got it is how Denis tests Nikita's story. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'You should not hit on her.' Adding that Nikita should not hit fills in the missing piece for Nikita.
+- 'What? I did not understand you.' Wondering if he did not understand Denis shows Nikita caught off guard. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'What are you talking about at all?' By asking what Denis talking about at all is, Nikita presses Denis for a straight answer. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.

@@ -1,31 +1,43 @@
-# Review: `dix-pour-cent-s04e04-scene-18` — Trahison par courriel  (Betrayal by Email)
+# dix-pour-cent-s04e04-scene-18: review sheet
 
-- **Source**: `sources/dix-pour-cent/s04/e04.fr.dual.srt`
-- **Level**: A1 — débutant
-- **Voices**: `{"narrator": "sky", "camille": "emilie", "mathias": "marcel"}`
-- **Labels**: `{"camille": "Camille", "mathias": "Mathias"}`
+Title: Trahison par courriel  (Betrayal by Email)
+Level: A1 — débutant
+Pair: fr-en
+Source: Dix pour cent (Call My Agent!) S04E04
 
-## Part 1 — Intro
-> In Mathias's office, Camille waits while he retrieves two glasses to celebrate their signed paternity papers. Glancing at his open computer screen, Camille reads an email revealing Mathias's ruthless plot to mislead and replace director Ulrika. Let's listen to their confrontation in French first.
 
-## Part 2 — Story Lines
-| # | Role | French | English | Source Cues |
-|---|------|--------|---------|-------------|
-| 0 | `mathias` (Mathias) | J'ai apporté deux verres pour trinquer. | I brought two glasses to toast. | adapted |
-| 1 | `camille` (Camille) | Je viens de lire tes courriels. | I have just read your emails. | adapted |
-| 2 | `mathias` (Mathias) | Qu'est-ce que tu racontes là? | What are you saying there? | 1033:Camille ? |
-| 3 | `camille` (Camille) | Tu veux décourager Ulrika en secret. | You want to discourage Ulrika secretly. | adapted |
-| 4 | `mathias` (Mathias) | Ce n'est pas ce que tu crois! | It is not what you think! | 1033:Camille ? |
-| 5 | `camille` (Camille) | Tu as signé la reconnaissance pour ça? | Did you sign the acknowledgment for that? | adapted |
-| 6 | `mathias` (Mathias) | Non, je voulais seulement te protéger. | No, I only wanted to protect you. | adapted |
-| 7 | `camille` (Camille) | Tu manipules tout le monde ici! | You manipulate everyone here! | adapted |
-| 8 | `mathias` (Mathias) | Écoute-moi deux minutes, je t'en prie. | Listen to me for two minutes, please. | 1033:Camille ? |
-| 9 | `camille` (Camille) | Je ne veux plus rien entendre. | I do not want to hear anything anymore. | 1033:Camille ? |
-| 10 | `mathias` (Mathias) | Ne pars pas comme ça, Camille! | Do not leave like that, Camille! | 1033:Camille ? |
-| 11 | `camille` (Camille) | Je rentre chez moi immédiatement. | I am going home immediately. | 1033:Camille ? |
-| 12 | `mathias` (Mathias) | Laisse-moi au moins t'expliquer tout ça. | Let me at least explain all that to you. | 1033:Camille ? |
-| 13 | `camille` (Camille) | C'est terminé entre nous, monsieur Barneville. | It is over between us, Mr. Barneville. | 1033:Camille ? |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 5 — Outro & Closing
-> Camille walks out of the building, leaving Mathias standing alone in his empty office. When you watch the episode, listen out for the expressions meaning 'brought' and 'glasses'. You'll catch them now. See you next time!
-- **Closing**: `camille`: *Au revoir!*
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+|---|---|---|---|---|---|
+| 1 | Mathias | J'ai apporté deux verres pour trinquer. | I brought two glasses to toast. | new | new |
+| 2 | Camille | Je viens de lire tes courriels. | I have just read your emails. | new | new |
+| 3 | Mathias | Qu'est-ce que tu racontes là? | What are you saying there? | #1033: Camille ? | verbatim |
+| 4 | Camille | Tu veux décourager Ulrika en secret. | You want to discourage Ulrika secretly. | new | new |
+| 5 | Mathias | Ce n'est pas ce que tu crois! | It is not what you think! | #1033: Camille ? | verbatim |
+| 6 | Camille | Tu as signé la reconnaissance pour ça? | Did you sign the acknowledgment for that? | new | new |
+| 7 | Mathias | Non, je voulais seulement te protéger. | No, I only wanted to protect you. | new | new |
+| 8 | Camille | Tu manipules tout le monde ici! | You manipulate everyone here! | new | new |
+| 9 | Mathias | Écoute-moi deux minutes, je t'en prie. | Listen to me for two minutes, please. | #1033: Camille ? | verbatim |
+| 10 | Camille | Je ne veux plus rien entendre. | I do not want to hear anything anymore. | #1033: Camille ? | verbatim |
+| 11 | Mathias | Ne pars pas comme ça, Camille! | Do not leave like that, Camille! | #1033: Camille ? | verbatim |
+| 12 | Camille | Je rentre chez moi immédiatement. | I am going home immediately. | #1033: Camille ? | verbatim |
+| 13 | Mathias | Laisse-moi au moins t'expliquer tout ça. | Let me at least explain all that to you. | #1033: Camille ? | verbatim |
+| 14 | Camille | C'est terminé entre nous, monsieur Barneville. | It is over between us, Mr. Barneville. | #1033: Camille ? | verbatim |
+
+## Walk-through narration (English only, no target-language words quoted)
+
+- 'I brought two glasses to toast.' Mathias walks in ready to celebrate. This conversational past tense combines a helper verb with the past verb form for 'brought'.
+- 'I have just read your emails.' Camille confronts him with cold clarity. The informal 'you' form around 'come' marks a direct, personal relationship.
+- 'What are you saying there?' Mathias senses the sudden tension in the room. Mathias uses the casual singular 'you' with 'are saying', showing close familiarity.
+- 'You want to discourage Ulrika secretly.' Camille reveals what was on the screen. Notice how 'want' leads directly into the noun meaning 'secretly'.
+- 'It is not what you think!' Mathias tries to deflect the accusation. Dropping the subject pronoun turns the verb for 'think' into a direct, punchy command.
+- 'Did you sign the acknowledgment for that?' Camille challenges his honesty. Notice how 'have' leads directly into the noun meaning 'recognition'.
+- 'No, I only wanted to protect you.' Mathias attempts to reassure his daughter. Mathias uses the casual singular 'you' with 'wanted', showing close familiarity.
+- 'You manipulate everyone here!' Camille rejects his excuses with anger. Notice how 'manipulate' leads directly into the noun meaning 'world'.
+- 'Listen to me for two minutes, please.' Mathias pleads for a brief conversation. The verb meaning 'listen' pairs naturally with the noun for 'minutes' in everyday conversation.
+- 'I do not want to hear anything anymore.' Camille shuts down the conversation. The clause hinges on the everyday verb meaning 'want'.
+- 'Do not leave like that, Camille!' Mathias panics as she grabs her coat. The two-part French negation brackets the verb for 'leave' on both sides.
+- 'I am going home immediately.' Camille steps toward the door. The clause hinges on the everyday verb meaning 'go home'.
+- 'Let me at least explain all that to you.' Mathias makes a final plea. The clause hinges on the everyday verb meaning 'let'.
+- 'It is over between us, Mr. Barneville.' Camille uses his formal surname to mark the break. The verb meaning 'finished' pairs naturally with the noun for 'mister' in everyday conversation.

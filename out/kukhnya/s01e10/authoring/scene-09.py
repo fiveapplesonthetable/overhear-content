@@ -4,32 +4,31 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 10
 SCENE = 9
-TITLE = "Старый долг  (An Old Debt)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Старый долг  (An Old Debt)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "fedya": "anja"}
-LABELS = {"fedya": "Федя"}
+LABELS = {'barinov': 'Шеф', 'fedya': 'Федя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.10'
 SOURCE_FILE = 'sources/kukhnya/s01/e10.ru.dual.srt'
 INTRO = 'In the kitchen, Chef Viktor Barinov tries to borrow cash from his line cook Fedya. Desperate to bet on the Spartak derby, Viktor flatters his cook, only for Fedya to remind him of an outstanding debt. Listen to their conversation in Russian first, and then we will examine each sentence.'
 OPENER = 'Now, let us examine the vocabulary and phrasing of this kitchen financial plea.'
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "A relatable humorous scene showing how difficult it is to collect past debts from an eccentric boss. Next time you watch the episode, listen for the Russian expressions for 'absolutely' and 'to believe' — you will catch every word right away. See you next time!"
-CLOSING = ("fedya", "Пока!")
+CLOSING = ('fedya', 'Пока!')
 STORY = [
-    ('fedya', 'Федя, дорогой мой друг!', 'Fedya, my dear friend!', [(73, 'ружище')], ''),
+    ('barinov', 'Федя, дорогой мой друг!', 'Fedya, my dear friend!', [(73, 'ружище')], ''),
     ('fedya', 'Шеф, почему вы такой добрый?', 'Chef, why are you so kind?', [], ''),
-    ('fedya', 'Мне срочно нужна твоя помощь.', 'I urgently need your help.', [], ''),
+    ('barinov', 'Мне срочно нужна твоя помощь.', 'I urgently need your help.', [], ''),
     ('fedya', 'Не, шеф, я абсолютно пустой!', 'No, chef, I am completely broke!', [(74, 'Не, шеф, я пустой.')], ''),
-    ('fedya', 'Даже пары тысяч не найдется?', 'Not even a couple of thousand can be found?', [], ''),
+    ('barinov', 'Даже пары тысяч не найдется?', 'Not even a couple of thousand can be found?', [], ''),
     ('fedya', 'Вы мне еще пять тысяч должны!', 'You still owe me five thousand!', [(75, 'Кроме того, вы мне еще пять тысяч должны.')], ''),
-    ('fedya', 'Я всё верну завтра утром!', 'I will return everything tomorrow morning!', [], ''),
+    ('barinov', 'Я всё верну завтра утром!', 'I will return everything tomorrow morning!', [], ''),
     ('fedya', 'Вы всегда так обещаете, шеф.', 'You always promise that, chef.', [], ''),
-    ('fedya', 'Но сегодня Спартак точно победит!', 'But today Spartak will definitely win!', [], ''),
+    ('barinov', 'Но сегодня Спартак точно победит!', 'But today Spartak will definitely win!', [], ''),
     ('fedya', 'Спартак играет против сильного соперника.', 'Spartak is playing against a strong opponent.', [], ''),
-    ('fedya', 'У них проблемы с составом!', 'They have roster problems!', [], ''),
+    ('barinov', 'У них проблемы с составом!', 'They have roster problems!', [], ''),
     ('fedya', 'Шеф, футбол это чистая лотерея.', 'Chef, football is pure lottery.', [], ''),
-    ('fedya', 'Ты не веришь в наш футбол?', 'Do you not believe in our football?', [], ''),
+    ('barinov', 'Ты не веришь в наш футбол?', 'Do you not believe in our football?', [], ''),
     ('fedya', 'Я верю только в наличные деньги!', 'I believe only in cash money!', [], ''),
 ]
 WALK = [

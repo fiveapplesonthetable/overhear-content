@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Михаил | Витя, садись, выпьем. | Vitya, sit down, let's drink. | #302 00:20:52: Витя, садись<br>#303 00:20:55: Выпьем | adapted: adapted |
-| 2 | Михаил | Сегодня же такой счастливый день. | After all, today is such a happy day. | #304 00:20:56: Сегодня же такой счастливый день | adapted: exact |
-| 3 | Михаил | Уж я-то знаю. | I certainly know. | #306 00:21:02: Уж я-то знаю | adapted: exact |
-| 4 | Михаил | А это кто? | And who is that? | #307 00:21:11: А это кто? | adapted: exact |
-| 5 | Михаил | Бывшая жена Нагиева. | Nagiyev's ex-wife. | #308 00:21:15: Бывшая жена Нагиева | adapted: exact |
-| 6 | Михаил | Миша, ты куда? | Misha, where are you going? | #310 00:21:20: ты куда? | adapted: adapted |
-| 7 | Михаил | Где мои деньги? | Where is my money? | #311 00:21:23: мои где? | adapted: adapted |
-| 8 | Михаил | Нет никаких денег! | There is no money! | #312 00:21:24: Нет никаких денег! | adapted: exact |
-| 9 | Михаил | Вон какой денежный мешок. | Look what a moneybag you found. | #314 00:21:30: денежный мешок | adapted: adapted |
-| 10 | Михаил | На себя посмотрите, прямо по любви, да? | Look at yourselves, right out of love, huh? | #315 00:21:32: На себя посмотрите прям по любви, да? | adapted: adapted |
-| 11 | Михаил | Да, по любви. | Yes, out of love. | #316 00:21:35: Да, по любви | adapted: exact |
-| 12 | Михаил | Да, ты прав. | Yes, you are right. | #318 00:21:57: Да. Ты прав | adapted: exact |
+| 1 | Михаил | Витя, садись, выпьем. | Vitya, sit down, let's drink. | #302: Витя, садись<br>#303: Выпьем | adapted: adapted |
+| 2 | Михаил | Сегодня же такой счастливый день. | After all, today is such a happy day. | #304: Сегодня же такой счастливый день | adapted: exact |
+| 3 | Михаил | Уж я-то знаю. | I certainly know. | #306: Уж я-то знаю | adapted: exact |
+| 4 | Михаил | А это кто? | And who is that? | #307: А это кто? | adapted: exact |
+| 5 | Шеф | Бывшая жена Нагиева. | Nagiyev's ex-wife. | #308: Бывшая жена Нагиева | adapted: exact |
+| 6 | Шеф | Миша, ты куда? | Misha, where are you going? | #310: ты куда? | adapted: adapted |
+| 7 | Кристина | Где мои деньги? | Where is my money? | #311: мои где? | adapted: adapted |
+| 8 | Михаил | Нет никаких денег! | There is no money! | #312: Нет никаких денег! | adapted: exact |
+| 9 | Михаил | Вон какой денежный мешок. | Look what a moneybag you found. | #314: денежный мешок | adapted: adapted |
+| 10 | Кристина | На себя посмотрите, прямо по любви, да? | Look at yourselves, right out of love, huh? | #315: На себя посмотрите прям по любви, да? | adapted: adapted |
+| 11 | Михаил | Да, по любви. | Yes, out of love. | #316: Да, по любви | adapted: exact |
+| 12 | Кристина | Да, ты прав. | Yes, you are right. | #318: Да. Ты прав | adapted: exact |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vitya, sit down, let's drink.' In Russian, the idea of 'sit down' flows naturally into 'let us drink' without extra filler words.
-- 'After all, today is such a happy day.' The grammar packs 'tonight' and 'day' into a tight, idiomatic kitchen exchange.
-- 'I certainly know.' The meaning hinges on 'certainly' working together with 'know' in spoken Russian.
-- 'And who is that?' Mikhail keeps this everyday Russian response short and direct, without needing English helper words like 'am', 'is', or 'are'.
-- 'Nagiyev's ex-wife.' Spoken Russian keeps this brisk, leaning on 'former' and finishing on 'wife'.
-- 'Misha, where are you going?' Notice how Russian expresses 'Misha' and 'where to' with crisp inflection rather than helper words.
-- 'Where is my money?' The meaning hinges on 'where' working together with 'money' in spoken Russian.
-- 'There is no money!' Mikhail brings out the contrast between 'no' and 'money' in a few short words.
-- 'Look what a moneybag you found.' Mikhail anchors the line on 'over there', while 'sack' completes the thought.
-- 'Look at yourselves, right out of love, huh?' In Russian, the idea of 'on' flows naturally into 'yes' without extra filler words.
-- 'Yes, out of love.' The meaning hinges on 'yes' working together with 'love' in spoken Russian. Kristina answers right away.
-- 'Yes, you are right.' Kristina anchors the line on 'yes', while 'right' completes the thought.
+- 'Vitya, sit down, let's drink.' Mikhail explains that Barinov should sit down let them drink, keeping his voice calm and direct.
+- 'After all, today is such a happy day.' Admitting that after all today is such a happy day shows Mikhail being honest for a change.
+- 'I certainly know.' Over the truth and the money, Mikhail answers Barinov without a second thought.
+- 'And who is that?' With the work and money hanging in the air, Mikhail puts Barinov on the spot. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'Nagiyev's ex-wife.' Around the truth and money, Barinov sets a calm, everyday tone with Kristina.
+- 'Misha, where are you going?' Wondering where Kristina going is cuts straight through the tension between Barinov and Kristina.
+- 'Where is my money?' Asking where her money is is how Kristina puts Barinov on the spot. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'There is no money!' Saying that there is no money is how Mikhail takes charge of the moment. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Look what a moneybag you found.' Mikhail tells Barinov that what a moneybag Barinov found without dressing it up.
+- 'Look at yourselves, right out of love, huh?' With the point and money hanging in the air, Kristina puts Barinov on the spot. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Yes, out of love.' With the wedding and money in play, Mikhail keeps this short reply brisk and direct.
+- 'Yes, you are right.' Kristina mentions that Barinov is right so Barinov sees what is at stake.

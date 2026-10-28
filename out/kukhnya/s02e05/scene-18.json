@@ -8,16 +8,10 @@
  "scene": 18,
  "title": "Двойное разоблачение в больнице  (Double Exposure at the Hospital)",
  "level": "A1 — Duolingo Section 2",
- "voices": {
-  "narrator": "sky",
-  "anya": "alisa",
-  "vika": "angelina",
-  "chef": "anja"
- },
  "labels": {
-  "anya": "Макс",
-  "vika": "Вика",
-  "chef": "Шеф"
+  "barinov": "Шеф",
+  "max": "Макс",
+  "vika": "Вика"
  },
  "segments": [
   {
@@ -26,12 +20,12 @@
    "gap": 0.8
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Да перестань, Макс.",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "vika",
    "t": "Я много думала о нас.",
    "gap": 0.55
   },
@@ -41,12 +35,12 @@
    "gap": 0.55
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Я уже делал.",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Ну, это было вчера.",
    "gap": 0.55
   },
@@ -56,12 +50,12 @@
    "gap": 0.55
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Простите, это не ваше место.",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Как не мое?",
    "gap": 0.55
   },
@@ -71,12 +65,12 @@
    "gap": 0.55
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Я что здесь делаю?",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Это ты что здесь делаешь?",
    "gap": 0.55
   },
@@ -86,7 +80,7 @@
    "gap": 0.55
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Он правда сейчас вышел на процедуры.",
    "gap": 0.9
   },
@@ -96,23 +90,23 @@
    "gap": 0.4
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Да перестань, Макс.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Oh, stop it, Max.' The meaning hinges on 'yes' working together with 'Max' in spoken Russian.",
+   "t": "'Oh, stop it, Max.' Max mentions that Barinov should stop it so Barinov sees what is at stake.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "vika",
    "t": "Я много думала о нас.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'I have thought a lot about us.' Notice how Russian expresses 'I' and 'us' with crisp inflection rather than helper words. Vika answers right away.",
+   "t": "'I have thought a lot about us.' Having thought a lot about them moves the conversation forward without extra drama.",
    "gap": 0.4
   },
   {
@@ -122,27 +116,27 @@
   },
   {
    "v": "narrator",
-   "t": "'I decided that we...' In Russian, the idea of 'I' flows naturally into 'we' without extra filler words.",
+   "t": "'I decided that we...' Even though she decided that they, Vika keeps a steady face in front of Barinov.",
    "gap": 0.4
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Я уже делал.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'I already had my procedure.' Here the Russian phrasing highlights 'I' before landing on 'were doing'.",
+   "t": "'I already had my procedure.' Admitting that he already had his procedure shows Max being honest for a change.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Ну, это было вчера.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Well, that was yesterday.' Here the Russian phrasing highlights 'come on' before landing on 'yesterday'. Vika answers right away.",
+   "t": "'Well, that was yesterday.' Saying that that was yesterday is how Barinov sets the tone with Max.",
    "gap": 0.4
   },
   {
@@ -152,27 +146,27 @@
   },
   {
    "v": "narrator",
-   "t": "'Vika, I am sorry.' The meaning hinges on 'Vika' working together with 'sorry' in spoken Russian.",
+   "t": "'Vika, I am sorry.' Here being sorry sets up the next turn in their exchange. Speaking with the close, informal \"you\" strips away any polite distance between them.",
    "gap": 0.4
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Простите, это не ваше место.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Excuse me, that is not your bed.' Max chooses the respectful plural 'you' alongside 'station' to keep a polite distance.",
+   "t": "'Excuse me, that is not your bed.' Adding that that is not Barinov's bed fills in the missing piece for Barinov. Even in the middle of the drama, he keeps the polite plural \"you\" that workplace Russian expects.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Как не мое?",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'What do you mean it is not mine?' Chef Viktor raises the pitch on 'my' to turn the phrase into a direct spoken question. Vika answers right away.",
+   "t": "'What do you mean it is not mine?' Asking what Max means it is not is how Barinov puts Max on the spot.",
    "gap": 0.4
   },
   {
@@ -182,27 +176,27 @@
   },
   {
    "v": "narrator",
-   "t": "'Viktoriya Sergeyevna, what are you doing here?' The meaning hinges on 'Viktoriya' working together with 'are doing' in spoken Russian.",
+   "t": "'Viktoriya Sergeyevna, what are you doing here?' Asking whether Viktoriya Sergeyevna what are Barinov doing here puts Barinov right on the defensive. Even in the middle of the drama, she keeps the polite plural \"you\" that workplace Russian expects.",
    "gap": 0.4
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Я что здесь делаю?",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'What am I doing here?' Max brings out the contrast between 'I' and 'what' in a few short words.",
+   "t": "'What am I doing here?' Around the plan and kitchen, Max wants to know where Barinov really stands. In Russian, he does not need helper words like \"do\" or \"did\"—rising pitch alone turns it into a question.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Это ты что здесь делаешь?",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'What are you doing here?' Here the Russian phrasing highlights 'this' before landing on 'are you doing'. Vika answers right away.",
+   "t": "'What are you doing here?' Asking what Max doing here is cuts straight through the tension between Barinov and Max.",
    "gap": 0.4
   },
   {
@@ -212,26 +206,26 @@
   },
   {
    "v": "narrator",
-   "t": "'I came to visit Max.' In Russian, the idea of 'I' flows naturally into 'came' without extra filler words.",
+   "t": "'I came to visit Max.' Because she came to visit Max, Vika treats the matter as settled.",
    "gap": 0.4
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Он правда сейчас вышел на процедуры.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Though right now he stepped out for his procedures.' Here the Russian phrasing highlights 'he' before landing on 'procedure'. Let's hear the complete conversation once more.",
+   "t": "'Though right now he stepped out for his procedures.' With the point and plan in play, Max keeps this short reply brisk and direct. Let's hear the complete conversation once more.",
    "gap": 0.9
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Да перестань, Макс.",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "vika",
    "t": "Я много думала о нас.",
    "gap": 0.5
   },
@@ -241,12 +235,12 @@
    "gap": 0.5
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Я уже делал.",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Ну, это было вчера.",
    "gap": 0.5
   },
@@ -256,12 +250,12 @@
    "gap": 0.5
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Простите, это не ваше место.",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Как не мое?",
    "gap": 0.5
   },
@@ -271,12 +265,12 @@
    "gap": 0.5
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Я что здесь делаю?",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Это ты что здесь делаешь?",
    "gap": 0.5
   },
@@ -286,7 +280,7 @@
    "gap": 0.5
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Он правда сейчас вышел на процедуры.",
    "gap": 0.9
   },

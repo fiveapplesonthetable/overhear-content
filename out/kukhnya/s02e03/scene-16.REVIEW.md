@@ -1,41 +1,34 @@
-# Где мой салат?  (Where is My Salad?) — `kukhnya-s02e03-scene-16`
+# kukhnya-s02e03-scene-16: review sheet
 
-**Source:** Кухня (Kukhnya) S2.03 · `sources/kukhnya/s02/e03.ru.dual.srt`  
-**Target level:** A1 — Duolingo Section 2
+Title: Где мой салат?  (Where is My Salad?)
+Level: A1 — Duolingo Section 2
+Pair: ru-en
+Source: Кухня (Kukhnya) S2.03
 
-## Cast
 
-| Role | Voice | Label |
-|---|---|---|
-| `narrator` | sky | — |
-| `senya` | angelina | Сеня |
-| `fedya` | anja | Федя |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 1 — Intro
-
-> The kitchen staff is very busy preparing food for the evening guests. One of the cooks suddenly realizes that a dish he just prepared has mysteriously disappeared from his table.
-
-## Part 2 — Story
-
-| # | Speaker | Line | English | Source cue(s) | Change |
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 0 | Сеня | Привет. Где мой салат? | Hello. Where is my salad? | *(added)* |  |
-| 1 | Федя | Я его не брал. | I did not take it. | *(added)* |  |
-| 2 | Сеня | Утром он был здесь. | It was here in the morning. | *(added)* |  |
-| 3 | Федя | Спроси у других поваров. | Ask the other cooks. | *(added)* |  |
-| 4 | Сеня | Уи, ты мой салат не видел? | Hey, have you seen my salad? | #280 "ты мой салат не видел" |  |
-| 5 | Федя | Нет, я готовил десерты. | No, I was preparing desserts. | *(added)* |  |
-| 6 | Сеня | Куда он мог пропасть? | Where could it have gone? | *(added)* |  |
-| 7 | Федя | Может, его уже подали. | Maybe it was already served. | *(added)* |  |
-| 8 | Сеня | Это был мой лучший салат. | It was my best salad. | *(added)* |  |
-| 9 | Федя | Сделай новый, время есть. | Make a new one, there is time. | *(added)* |  |
-| 10 | Сеня | Гости будут ждать. | The guests will wait. | *(added)* |  |
-| 11 | Федя | Ничего страшного не случится. | Nothing terrible will happen. | *(added)* |  |
-| 12 | Сеня | Я не успею сделать новый. | I will not have time to make a new one. | *(added)* |  |
-| 13 | Федя | Тогда придумай что-нибудь другое. | Then think of something else. | *(added)* |  |
+| 1 | Сеня | Привет. Где мой салат? | Hello. Where is my salad? | new | new |
+| 2 | Федя | Я его не брал. | I did not take it. | new | new |
+| 3 | Сеня | Утром он был здесь. | It was here in the morning. | new | new |
+| 4 | Федя | Спроси у других поваров. | Ask the other cooks. | new | new |
+| 5 | Сеня | Уи, ты мой салат не видел? | Hey, have you seen my salad? | #280: ты мой салат не видел | verbatim |
+| 6 | Федя | Нет, я готовил десерты. | No, I was preparing desserts. | new | new |
+| 7 | Сеня | Куда он мог пропасть? | Where could it have gone? | new | new |
+| 8 | Федя | Может, его уже подали. | Maybe it was already served. | new | new |
+| 9 | Сеня | Это был мой лучший салат. | It was my best salad. | new | new |
+| 10 | Федя | Сделай новый, время есть. | Make a new one, there is time. | new | new |
+| 11 | Сеня | Гости будут ждать. | The guests will wait. | new | new |
+| 12 | Федя | Ничего страшного не случится. | Nothing terrible will happen. | new | new |
+| 13 | Сеня | Я не успею сделать новый. | I will not have time to make a new one. | new | new |
+| 14 | Федя | Тогда придумай что-нибудь другое. | Then think of something else. | new | new |
 
-## Part 5 — Outro & closing
+## Walk-through narration (English only, no target-language words quoted)
 
-> The cook continues searching for his missing dish while the others ignore him and focus on their own work. Next time you watch the episode, listen for the Russian expressions for 'salad' and 'to take' — you will catch every word right away. See you next time!
-
-**Сеня:** Пока!
+- 'Hey, have you seen my salad?' The verb for 'saw' is in the matching past tense, marked by the '-l' ending.
+- 'It was my best salad.' The verb for 'was' is in the matching past tense, marked by the '-l' ending.
+- 'Make a new one, there is time.' Fedya leads with the direct command form meaning 'make', pairing it with 'new' and 'time'.
+- 'I will not have time to make a new one.' Senya uses the action verb meaning 'will manage' to focus on the single completed result, pairing it with 'to do' and 'new'.
+- 'Then think of something else.' Fedya leads with the direct command form meaning 'think up', pairing it with 'back then' and 'another'. Now let's listen to the whole conversation again from start to finish.

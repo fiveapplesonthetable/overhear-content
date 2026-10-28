@@ -7,8 +7,7 @@ SCENE = 6
 TITLE = "L'ennemie dans nos murs  (The Enemy in Our Walls)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'herve': 'marcel', 'camille': 'emilie', 'gabriel': 'theo'}
-LABELS = {'herve': 'Hervé', 'camille': 'Camille', 'gabriel': 'Gabriel'}
+LABELS = {'camille': 'Camille', 'gabriel': 'Gabriel', 'herve': 'Hervé'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e03.fr.dual.srt'
 INTRO = "At ASK reception, Camille and Herve spot rival super-agent Elise Formain striding through the lobby. Fearing an aggressive buyout by competitor StarMedia, they alert Gabriel as tension peaks. Let's listen to their conversation in French first."
@@ -26,7 +25,7 @@ STORY = [
     ('camille', 'Que fait-elle ici dans notre agence?', 'What is she doing here in our agency?', [(200, "Qu'est-ce qu'elle fait là ?")], ''),
     ('herve', 'StarMédia veut peut-être nous racheter?', 'Does StarMedia perhaps want to buy us out?', [(201, 'StarMédia va racheter ASK ?')], ''),
     ('camille', 'Ce serait une catastrophe pour nous tous!', 'That would be a catastrophe for all of us!', [(201, 'racheter ASK ?')], ''),
-    ('gabriel', 'Gabriel arrive enfin, viens vite voir!', 'Gabriel is finally arriving, come see quickly!', [(202, 'Gabriel !')], ''),
+    ('herve', 'Gabriel arrive enfin, viens vite voir!', 'Gabriel is finally arriving, come see quickly!', [(202, 'Gabriel !')], ''),
     ('gabriel', "Qu'est-ce qui se passe ici, les amis?", 'What is happening here, friends?', [(202, 'Gabriel !')], ''),
     ('herve', 'Regarde dans le couloir, Élise Formain approche!', 'Look in the hallway, Elise Formain is approaching!', [(200, "Qu'est-ce qu'elle fait là ?")], ''),
     ('gabriel', 'Mon Dieu, que vient faire cette concurrente?', 'My God, what is this competitor coming to do?', [(201, 'StarMédia va racheter ASK ?')], ''),

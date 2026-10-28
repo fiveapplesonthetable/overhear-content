@@ -10,32 +10,32 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Лёва | Сейчас, сейчас, сейчас. | Just a second, right now. | #97 00:06:30: Сейчас, сейчас, сейчас | verbatim |
-| 2 | Лёва | Сейчас вот. | Right here. | #98 00:06:32: Сейчас вот | verbatim |
-| 3 | Лёва | Я сейчас! | I am coming right now! | #99 00:06:34: Я сейчас | verbatim |
-| 4 | Лёва | Лёва, я просил, не звонить мне, я занят. | Lyova, I asked you not to call me when I am busy. | #102 00:06:52: Лёва, я просил, не звонить мне, я занят | verbatim |
-| 5 | Лёва | Ага, хорошо, сейчас приеду. | All right, fine, I will be right there. | #103 00:06:56: Ага, хорошо, сейчас приеду | verbatim |
-| 6 | Лёва | Да, срочно вызывает на работу. | Yes, they are urgently calling me in to work. | #105 00:07:01: Да, срочно вызывает на работу | verbatim |
-| 7 | Лёва | Неужели уходите, а? | Are you really leaving already, huh? | #105 00:07:01: Неужели уходите, а | verbatim |
-| 8 | Лёва | Ну ничего. | Well, it cannot be helped. | #106 00:07:05: Ну ничего | verbatim |
-| 9 | Лёва | О, завидую. | Oh, I envy your stamina. | #109 00:07:12: О, завидую | verbatim |
-| 10 | Лёва | Ну что, завтра здесь же, это же время. | Well then, tomorrow at the same place, same time. | #109 00:07:12: Ну что, завтра здесь же, это же время | verbatim |
-| 11 | Лёва | Да, ну что вы. | Yes, of course. | #111 00:07:20: Да, ну что вы | verbatim |
-| 12 | Лёва | Ну до завтра. | See you tomorrow, then. | #112 00:07:22: Ну до завтра | verbatim |
-| 13 | Лёва | Спасибо за компанию. | Thank you for the company. | #112 00:07:22: Спасибо за компанию | verbatim |
+| 1 | Лёва | Сейчас, сейчас, сейчас. | Just a second, right now. | #97: Сейчас, сейчас, сейчас | verbatim |
+| 2 | Вика | Сейчас вот. | Right here. | #98: Сейчас вот | verbatim |
+| 3 | Лёва | Я сейчас! | I am coming right now! | #99: Я сейчас | verbatim |
+| 4 | Вика | Лёва, я просил, не звонить мне, я занят. | Lyova, I asked you not to call me when I am busy. | #102: Лёва, я просил, не звонить мне, я занят | verbatim |
+| 5 | Лёва | Ага, хорошо, сейчас приеду. | All right, fine, I will be right there. | #103: Ага, хорошо, сейчас приеду | verbatim |
+| 6 | Вика | Да, срочно вызывает на работу. | Yes, they are urgently calling me in to work. | #105: Да, срочно вызывает на работу | verbatim |
+| 7 | Лёва | Неужели уходите, а? | Are you really leaving already, huh? | #105: Неужели уходите, а | verbatim |
+| 8 | Вика | Ну ничего. | Well, it cannot be helped. | #106: Ну ничего | verbatim |
+| 9 | Лёва | О, завидую. | Oh, I envy your stamina. | #109: О, завидую | verbatim |
+| 10 | Вика | Ну что, завтра здесь же, это же время. | Well then, tomorrow at the same place, same time. | #109: Ну что, завтра здесь же, это же время | verbatim |
+| 11 | Лёва | Да, ну что вы. | Yes, of course. | #111: Да, ну что вы | verbatim |
+| 12 | Вика | Ну до завтра. | See you tomorrow, then. | #112: Ну до завтра | verbatim |
+| 13 | Лёва | Спасибо за компанию. | Thank you for the company. | #112: Спасибо за компанию | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Just a second, right now.' The grammar packs 'any minute' and 'any minute' into a tight, idiomatic kitchen exchange.
-- 'Right here.' Spoken Russian keeps this brisk, leaning on 'any minute' and finishing on 'there you go'. Lyova answers right away.
-- 'I am coming right now!' Lyova brings out the contrast between 'I' and 'any minute' in a few short words.
-- 'Lyova, I asked you not to call me when I am busy.' The negative particle sits right before the verb meaning 'ask for' to negate the statement.
-- 'All right, fine, I will be right there.' Notice how Russian expresses 'yeah' and 'to arrive' with crisp inflection rather than helper words. Vika answers right away.
-- 'Yes, they are urgently calling me in to work.' Vika anchors the line on 'yes', while 'work' completes the thought.
-- 'Are you really leaving already, huh?' Lyova brings out the contrast between 'really' and 'leave' in a few short words.
-- 'Well, it cannot be helped.' Here the Russian phrasing highlights 'come on' before landing on 'nothing'. Lyova answers right away.
-- 'Oh, I envy your stamina.' The grammar packs 'about' and 'envy' into a tight, idiomatic kitchen exchange.
-- 'Well then, tomorrow at the same place, same time.' Spoken Russian keeps this brisk, leaning on 'come on' and finishing on 'time'.
-- 'Yes, of course.' Spoken Russian keeps this brisk, leaning on 'yes' and finishing on 'you'. Vika answers right away.
-- 'See you tomorrow, then.' The meaning hinges on 'come on' working together with 'tomorrow' in spoken Russian.
-- 'Thank you for the company.' Notice how Russian expresses 'thank you' and 'company' with crisp inflection rather than helper words.
+- 'Just a second, right now.' Around the restaurant and shift, Lyova sets a calm, everyday tone with Vika.
+- 'Right here.' Around the restaurant and conversation, Vika sets a calm, everyday tone with Lyova.
+- 'I am coming right now!' Being coming right now shows Lyova is done holding back. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Lyova, I asked you not to call me when I am busy.' Explaining that she asked Lyova not to call her when she is busy lays the cards on the table for Lyova.
+- 'All right, fine, I will be right there.' Lyova mentions that all right fine he will be right there so Vika sees what is at stake.
+- 'Yes, they are urgently calling me in to work.' Claiming that they are urgently calling her in to work sounds confident, even if Lyova has doubts.
+- 'Are you really leaving already, huh?' Checking whether Vika really leaving already huh is how Lyova puts Vika on the spot.
+- 'Well, it cannot be helped.' Vika explains that it cannot be helped, keeping her voice calm and direct.
+- 'Oh, I envy your stamina.' With the moment and call in play, Lyova keeps this short reply brisk and direct.
+- 'Well then, tomorrow at the same place, same time.' Over the moment and the call, Vika answers Lyova without a second thought.
+- 'Yes, of course.' Around the moment and call, Lyova sets a calm, everyday tone with Vika. Notice how he sticks to the formal "you", keeping a professional line between them.
+- 'See you tomorrow, then.' Adding that Lyova should see Lyova tomorrow then fills in the missing piece for Lyova.
+- 'Thank you for the company.' Over the moment and the work, Lyova answers Vika without a second thought.

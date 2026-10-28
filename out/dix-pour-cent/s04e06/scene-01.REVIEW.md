@@ -1,31 +1,43 @@
-# Review: `dix-pour-cent-s04e06-scene-01` — La petite chatte  (The Little Cat)
+# dix-pour-cent-s04e06-scene-01: review sheet
 
-- **Source**: `sources/dix-pour-cent/s04/e06.fr.dual.srt`
-- **Level**: A1 — débutant
-- **Voices**: `{"narrator": "sky", "jean": "theo", "lea": "lucie", "realisateur": "marcel"}`
-- **Labels**: `{"jean": "Jean", "lea": "Andréa", "realisateur": "Le réalisateur"}`
+Title: La petite chatte  (The Little Cat)
+Level: A1 — débutant
+Pair: fr-en
+Source: Dix pour cent (Call My Agent!) S04E06
 
-## Part 1 — Intro
-> On a hot movie set, legendary actor Jean Reno is shooting a ridiculous Christmas movie. Dressed as Santa Claus, he grows increasingly frustrated with his lines, the stifling heat, and the director's demands. Let's listen to their conversation in French first.
 
-## Part 2 — Story Lines
-| # | Role | French | English | Source Cues |
-|---|------|--------|---------|-------------|
-| 0 | `jean` (Jean) | Je sais, tu es débordée. | FIXME translation | 1:Je sais, tu es débordée. |
-| 1 | `jean` (Jean) | Mais j'ai organisé cette fête! | FIXME translation | 1:Mais j'ai organisé cette fête il y a une éternité! |
-| 2 | `lea` (Andréa) | Tu n'es pas la seule. | FIXME translation | 2:Tu n'es pas la seule à être occupée. |
-| 3 | `lea` (Andréa) | Blanche-Neige travaille dur, tu sais? | FIXME translation | 3:Blanche-Neige, 4:eux aussi travaillent dur, tu sais? |
-| 4 | `jean` (Jean) | C'est pas facile de les réunir! | FIXME translation | 5:C'est pas facile de les réunir tous les trois! |
-| 5 | `lea` (Andréa) | Après les cadeaux, je rentre directement. | FIXME translation | 8:Après avoir livré les cadeaux, je rentre directement. |
-| 6 | `realisateur` (Le réalisateur) | C'est pas ton texte, Lolita. | FIXME translation | 13:C'est pas ton texte, Lolita. |
-| 7 | `realisateur` (Le réalisateur) | C'est: Rentre t'occuper de ma féline. | FIXME translation | 14:C'est: « Rentre vite t'occuper de ma petite féline. » |
-| 8 | `lea` (Andréa) | Mais c'est quoi cette réplique? | FIXME translation | 15:Mais c'est quoi cette réplique? |
-| 9 | `realisateur` (Le réalisateur) | C'est un film pour enfants. | FIXME translation | 17:C'est un film pour enfants. |
-| 10 | `jean` (Jean) | Mais il fait 40 degrés ici! | FIXME translation | 36:Mais il fait 40 degrés ici! |
-| 11 | `realisateur` (Le réalisateur) | On reprend à la tournée. | FIXME translation | 40:On reprend à la tournée des bars. |
-| 12 | `jean` (Jean) | Je ne peux pas jouer ainsi. | FIXME translation | 52:Je m'en fiche, je ne peux pas jouer dans ces conditions. |
-| 13 | `jean` (Jean) | J'en ai marre! Assez! | FIXME translation | 55:J'en ai marre! Assez de ces conneries! |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 5 — Outro & Closing
-> That's it for this scene around the little cat. When you watch the episode, listen out for the expressions meaning 'to know' and 'to be'. You'll catch them now. See you next time!
-- **Closing**: `lea`: *Au revoir!*
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+|---|---|---|---|---|---|
+| 1 | Jean | Je sais, tu es débordée. | FIXME translation | #1: Je sais, tu es débordée. | verbatim |
+| 2 | Jean | Mais j'ai organisé cette fête! | FIXME translation | #1: Mais j'ai organisé cette fête il y a une éternité! | verbatim |
+| 3 | Andréa | Tu n'es pas la seule. | FIXME translation | #2: Tu n'es pas la seule à être occupée. | verbatim |
+| 4 | Andréa | Blanche-Neige travaille dur, tu sais? | FIXME translation | #3: Blanche-Neige<br>#4: eux aussi travaillent dur, tu sais? | verbatim |
+| 5 | Jean | C'est pas facile de les réunir! | FIXME translation | #5: C'est pas facile de les réunir tous les trois! | verbatim |
+| 6 | Andréa | Après les cadeaux, je rentre directement. | FIXME translation | #8: Après avoir livré les cadeaux, je rentre directement. | verbatim |
+| 7 | Le réalisateur | C'est pas ton texte, Lolita. | FIXME translation | #13: C'est pas ton texte, Lolita. | verbatim |
+| 8 | Le réalisateur | C'est: Rentre t'occuper de ma féline. | FIXME translation | #14: C'est: « Rentre vite t'occuper de ma petite féline. » | verbatim |
+| 9 | Andréa | Mais c'est quoi cette réplique? | FIXME translation | #15: Mais c'est quoi cette réplique? | verbatim |
+| 10 | Le réalisateur | C'est un film pour enfants. | FIXME translation | #17: C'est un film pour enfants. | verbatim |
+| 11 | Jean | Mais il fait 40 degrés ici! | FIXME translation | #36: Mais il fait 40 degrés ici! | verbatim |
+| 12 | Le réalisateur | On reprend à la tournée. | FIXME translation | #40: On reprend à la tournée des bars. | verbatim |
+| 13 | Jean | Je ne peux pas jouer ainsi. | FIXME translation | #52: Je m'en fiche, je ne peux pas jouer dans ces conditions. | verbatim |
+| 14 | Jean | J'en ai marre! Assez! | FIXME translation | #55: J'en ai marre! Assez de ces conneries! | verbatim |
+
+## Walk-through narration (English only, no target-language words quoted)
+
+- 'FIXME translation' The actor playing Santa Claus complains to his co-star about her busy schedule. The informal 'you' form around 'to know' marks a direct, personal relationship.
+- 'FIXME translation' He reminds her that he had arranged the celebration a long time ago. This conversational past tense combines a helper verb with the past verb form for 'to have'.
+- 'FIXME translation' The actress playing his wife retorts that other fairytale characters are also busy. The clause hinges on the everyday verb meaning 'to be'.
+- 'FIXME translation' She mentions Snow White as an example of someone who works diligently. The clause hinges on the everyday verb meaning 'to work'.
+- 'FIXME translation' Santa complains about the logistical nightmare of gathering fairy tale icons. The clause hinges on the everyday verb meaning 'to be'.
+- 'FIXME translation' She promises to return immediately after delivering the presents. The verb meaning 'to go home' pairs naturally with the noun for 'present' in everyday conversation.
+- 'FIXME translation' The director interrupts the scene to correct the actress's dialogue. Notice how 'to be' leads directly into the noun meaning 'text'.
+- 'FIXME translation' He instructs her to use a heavily sanitized line about a cat. The adjective meaning 'feline' takes its feminine form here to match the noun it describes.
+- 'FIXME translation' The actress questions the absurdity of her new line. In everyday spoken French, rising intonation on 'to be' at the end is enough to turn the sentence into a question.
+- 'FIXME translation' movie.' The director reminds them that the film is intended for children and must be appropriate. The verb meaning 'to be' pairs naturally with the noun for 'movie' in everyday conversation.
+- 'FIXME translation' The actor complains about the unbearable heat under the studio lights. Notice how 'to do' leads directly into the noun meaning 'degree'.
+- 'FIXME translation' The director instructs the crew to resume filming from the bar-hopping scene. The verb meaning 'to take back' pairs naturally with the noun for 'theatrical tour' in everyday conversation.
+- 'FIXME translation' The actor loses his patience and declares he cannot work under these ridiculous conditions. Notice the classic French sandwich negation wrapping right around 'can'.
+- 'FIXME translation' He throws a tantrum and storms off the set in frustration. The clause hinges on the everyday verb meaning 'to have'.

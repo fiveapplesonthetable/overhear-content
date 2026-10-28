@@ -7,30 +7,29 @@ SCENE = 21
 TITLE = 'Une trahison amère  (A Bitter Betrayal)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'lea': 'lucie', 'elise': 'emilie'}
-LABELS = {'lea': 'Andréa', 'elise': 'Élise'}
+LABELS = {'andrea': 'Andréa', 'elise': 'Élise'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e02.fr.dual.srt'
 INTRO = "Sipping her drink in Andrea's office, Elise Formain bitterly confesses that she was passed over for the leadership of StarMedia. Despite her superior competence, the board appointed Olivier Dimars simply because he is a man. Let's listen to the scene in French first."
 OPENER = "Let's break down the dialogue line by line."
 TRANSITION = "Now let's listen to the entire dialogue once more."
 OUTRO = "Elise's revelation of sexism at StarMedia exposes the brutal reality of agency politics. When you watch the episode, listen out for the expressions meaning 'sure' and 'to find'. You'll catch them now. See you next time!"
-CLOSING = ('lea', 'À demain!')
+CLOSING = ('andrea', 'À demain!')
 STORY = [
     ('elise', "J'étais sûre de te trouver ici.", 'I was sure I would find you here.', [(1036, "J'étais sûr de te trouver ici")], ''),
-    ('lea', "Les heures supplémentaires ne s'arrangent jamais.", 'Overtime hours never get any better.', [(1038, "les heures sup' ne s'arrangent pas")], ''),
+    ('andrea', "Les heures supplémentaires ne s'arrangent jamais.", 'Overtime hours never get any better.', [(1038, "les heures sup' ne s'arrangent pas")], ''),
     ('elise', "Ils ne m'ont pas choisie finalement.", 'They did not choose me after all.', [(1040, "Ils ne m'ont pas choisie pour diriger StarMédia")], ''),
-    ('lea', 'Pour la direction générale de StarMédia?', 'For the general directorship of StarMedia?', [(1040, 'diriger StarMédia')], ''),
+    ('andrea', 'Pour la direction générale de StarMédia?', 'For the general directorship of StarMedia?', [(1040, 'diriger StarMédia')], ''),
     ('elise', 'Bréhier a nommé Olivier à ma place.', 'Brehier appointed Olivier in my place.', [(1041, 'Bréhier, ce crétin, a nommé Olivier Dimars à ma place')], ''),
-    ('lea', "Olivier Dimars n'a presque aucune expérience.", 'Olivier Dimars has almost no experience.', [(1043, 'Moins expérimenté')], ''),
+    ('andrea', "Olivier Dimars n'a presque aucune expérience.", 'Olivier Dimars has almost no experience.', [(1043, 'Moins expérimenté')], ''),
     ('elise', 'Il est surtout bien moins compétent.', 'He is above all much less competent.', [(1043, 'bien moins compétent')], ''),
-    ('lea', "C'est un choix totalement injuste, Élise.", 'It is a totally unfair choice, Elise.', [(1045, 'être la meilleure')], ''),
+    ('andrea', "C'est un choix totalement injuste, Élise.", 'It is a totally unfair choice, Elise.', [(1045, 'être la meilleure')], ''),
     ('elise', "Mais c'est un homme, évidemment.", 'But he is a man, obviously.', [(1044, "Mais c'est un homme")], ''),
-    ('lea', 'Le sexisme dans ce milieu persiste.', 'Sexism in this industry persists.', [(1044, "Mais c'est un homme")], ''),
+    ('andrea', 'Le sexisme dans ce milieu persiste.', 'Sexism in this industry persists.', [(1044, "Mais c'est un homme")], ''),
     ('elise', "Je croyais qu'il suffisait d'être excellente.", 'I thought it was enough to be excellent.', [(1045, "Je croyais qu'il suffisait d'être la meilleure")], ''),
-    ('lea', 'Tu as fait un travail remarquable.', 'You did remarkable work.', [(1045, 'la meilleure')], ''),
+    ('andrea', 'Tu as fait un travail remarquable.', 'You did remarkable work.', [(1045, 'la meilleure')], ''),
     ('elise', "J'ai été bien trop naïve, apparemment.", 'I was much too naive, apparently.', [(1046, 'Je suis encore naïve, apparemment')], ''),
-    ('lea', 'Je suis vraiment désolée pour toi.', 'I am really sorry for you.', [(1047, 'Je suis désolée')], ''),
+    ('andrea', 'Je suis vraiment désolée pour toi.', 'I am really sorry for you.', [(1047, 'Je suis désolée')], ''),
 ]
 WALK = [
     (0, None, "'I was sure I would find you here.' Elise speaks with tired resignation. The adjective meaning 'sure' takes its feminine form here to match the noun it describes."),

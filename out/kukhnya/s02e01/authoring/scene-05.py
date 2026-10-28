@@ -4,32 +4,31 @@ SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 1
 SCENE = 5
-TITLE = "Букет цветов  (A Bouquet of Flowers)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Букет цветов  (A Bouquet of Flowers)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "chef": "anja", "anya": "alisa", "vika": "angelina"}
-LABELS = {"chef": "Шеф", "anya": "Макс", "vika": "Вика"}
+LABELS = {'barinov': 'Шеф', 'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S2.01'
 SOURCE_FILE = 'sources/kukhnya/s02/e01.ru.dual.srt'
 INTRO = 'In the dining room of Claude Monet, Bartender Kostya refuses to pour alcohol for Chef Viktor. Meanwhile, Max sends Victoria a large bouquet of flowers and begs for her forgiveness, while Viktor chats with guests at their table. Let us listen to the scene in Russian first.'
 OPENER = "Now let us examine Max's apology and Viktor's temptation line by line."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "While Victoria coldly rejects Max's flowers and apology, Chef Viktor finds a clever excuse to share a drink with appreciative restaurant guests. Next time you watch the episode, listen for the Russian expressions for 'why' and 'to pour' — you will catch every word right away. See you next time!"
-CLOSING = ("chef", "Пока!")
+CLOSING = ('barinov', 'Пока!')
 STORY = [
-    ('chef', 'Костя, почему ты налил мне простую воду?', 'Kostya, why did you pour me plain water?', [(103, 'Это что? Вода, Виктор Петрович.')], ''),
-    ('chef', 'Новый хозяин боится, что я буду пить.', 'The new owner is afraid that I will drink.', [(104, 'Новый хозяин заплатил мне его наливать, сказал, если налью — уволят.')], ''),
+    ('barinov', 'Костя, почему ты налил мне простую воду?', 'Kostya, why did you pour me plain water?', [(103, 'Это что? Вода, Виктор Петрович.')], ''),
+    ('barinov', 'Новый хозяин боится, что я буду пить.', 'The new owner is afraid that I will drink.', [(104, 'Новый хозяин заплатил мне его наливать, сказал, если налью — уволят.')], ''),
     ('vika', 'Посмотрите, кто прислал мне этот красивый букет?', 'Look, who sent me this beautiful bouquet?', [(105, 'Вам букет передали.'), (106, 'Да? Какой красивый.'), (107, 'От кого? От Макса.')], ''),
-    ('anya', 'Вика, это я подарил тебе свежие цветы.', 'Vika, it was I who gave you fresh flowers.', [(107, 'От кого? От Макса.')], ''),
-    ('anya', 'Подожди, пожалуйста, выслушай меня сейчас одну минуту.', 'Wait, please, listen to me right now for one minute.', [(108, 'Подождите, Виктория Сергеевна, понимаете, Макс, дело в том,'), (110, 'Секунду. Вика, я понимаю,')], ''),
-    ('anya', 'Я понимаю, что сделал вчера ужасный поступок.', 'I understand that I committed a terrible act yesterday.', [(111, 'что совершил ваш ужасный, ужас, ужасный поступок.')], ''),
-    ('anya', 'Я очень сильно жалею о своей глупости.', 'I very deeply regret my foolishness.', [(109, 'что он очень сильно, очень сожалеет и...')], ''),
-    ('anya', 'Пожалуйста, прости меня за эту плохую ночь!', 'Please, forgive me for that bad night!', [(112, 'Пожалуйста, прости меня, дурака.')], ''),
+    ('max', 'Вика, это я подарил тебе свежие цветы.', 'Vika, it was I who gave you fresh flowers.', [(107, 'От кого? От Макса.')], ''),
+    ('max', 'Подожди, пожалуйста, выслушай меня сейчас одну минуту.', 'Wait, please, listen to me right now for one minute.', [(108, 'Подождите, Виктория Сергеевна, понимаете, Макс, дело в том,'), (110, 'Секунду. Вика, я понимаю,')], ''),
+    ('max', 'Я понимаю, что сделал вчера ужасный поступок.', 'I understand that I committed a terrible act yesterday.', [(111, 'что совершил ваш ужасный, ужас, ужасный поступок.')], ''),
+    ('max', 'Я очень сильно жалею о своей глупости.', 'I very deeply regret my foolishness.', [(109, 'что он очень сильно, очень сожалеет и...')], ''),
+    ('max', 'Пожалуйста, прости меня за эту плохую ночь!', 'Please, forgive me for that bad night!', [(112, 'Пожалуйста, прости меня, дурака.')], ''),
     ('vika', 'Я не хочу слушать твои пустые слова.', 'I do not want to listen to your empty words.', [], ''),
-    ('chef', 'Добрый день, я главный повар этого ресторана.', 'Good afternoon, I am the head chef of this restaurant.', [(113, 'Добрый день. Я шеф-повар этого ресторана.')], ''),
-    ('chef', 'Вам нравятся наши сегодняшние горячие блюда?', 'Do you like our hot dishes today?', [(114, 'Вам все нравится? Знаете, все великолепно, очень вкусно.')], ''),
-    ('chef', 'Гости предлагают мне выпить с ними вина.', 'The guests are offering me to drink wine with them.', [(115, 'Может, выпьете с нами?')], ''),
-    ('chef', 'На работе нельзя, но сегодня можно немного!', 'At work it is forbidden, but today a little is allowed!', [(117, 'Я ведь на работе.'), (119, 'Для вас я сделаю скачей.')], ''),
+    ('barinov', 'Добрый день, я главный повар этого ресторана.', 'Good afternoon, I am the head chef of this restaurant.', [(113, 'Добрый день. Я шеф-повар этого ресторана.')], ''),
+    ('barinov', 'Вам нравятся наши сегодняшние горячие блюда?', 'Do you like our hot dishes today?', [(114, 'Вам все нравится? Знаете, все великолепно, очень вкусно.')], ''),
+    ('barinov', 'Гости предлагают мне выпить с ними вина.', 'The guests are offering me to drink wine with them.', [(115, 'Может, выпьете с нами?')], ''),
+    ('barinov', 'На работе нельзя, но сегодня можно немного!', 'At work it is forbidden, but today a little is allowed!', [(117, 'Я ведь на работе.'), (119, 'Для вас я сделаю скачей.')], ''),
 ]
 WALK = [
     (0, None, "'Kostya, why did you pour me plain water?' Chef Barinov puts the word for 'why' together with 'poured' and 'simple' in a crisp, natural spoken turn of phrase."),

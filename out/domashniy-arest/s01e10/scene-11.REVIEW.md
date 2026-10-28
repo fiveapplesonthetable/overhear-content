@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Илона | Ну что, все журналисты уже собрались? | Well now, have all the journalists assembled already? | #288 00:15:55: собрались | verbatim |
-| 2 | Жучкина | Все новые сюжеты уже на вашей почте. | All the new stories are already in your email. | #290 00:16:06: Все сюжеты у вас на почте | verbatim |
-| 3 | Илона | Да, я видела. Это полный кошмар! | Yes, I saw them. This is a total nightmare! | #291 00:16:08: Да, я видел. Полный кошмар | verbatim |
-| 4 | Жучкина | Почему кошмар? Мы старались сделать хорошо. | Why a nightmare? We tried to do it well. | #290 00:16:06: Все сюжеты у вас на почте | verbatim |
-| 5 | Илона | Вам всем надо больше и лучше работать. | All of you need to work more and better. | #296 00:16:20: Двигаться надо больше | verbatim |
-| 6 | Илона | Нужно ходить по городу с камерой! | You need to walk around town with a camera! | #297 00:16:21: Ногами, с камерой | verbatim |
-| 7 | Илона | Твой сюжет о биткоинах я снимаю. | I am pulling your story about bitcoins from air. | #299 00:16:25: я твой сюжет о биткоинах<br>#300 00:16:28: снимаю с эфира | verbatim |
-| 8 | Жучкина | Но мы же его уже анонсировали! | But we already advertised it in advance! | #301 00:16:32: Мы его анонсировали | verbatim |
-| 9 | Илона | Этот материал слишком старый и скучный. | This material is far too old and boring. | #300 00:16:28: это Нафталин, вторяк | adapted: rendered colloquial slang into clean A1 Russian |
-| 10 | Илона | Неужели так трудно найти хороший сюжет? | Is it really so difficult to find a good story? | #303 00:16:37: так сложно найти хороший сюжет | verbatim |
-| 11 | Жучкина | В нашем городе почти ничего не происходит. | Almost nothing happens in our small town. | #303 00:16:37: сложно найти | verbatim |
-| 12 | Илона | Ищите интересные новости, жду через час! | Search for interesting news, I expect them in an hour! | #303 00:16:37: найти хороший сюжет | verbatim |
+| 1 | Илона | Ну что, все журналисты уже собрались? | Well now, have all the journalists assembled already? | #288: собрались | verbatim |
+| 2 | Жучкина | Все новые сюжеты уже на вашей почте. | All the new stories are already in your email. | #290: Все сюжеты у вас на почте | verbatim |
+| 3 | Илона | Да, я видела. Это полный кошмар! | Yes, I saw them. This is a total nightmare! | #291: Да, я видел. Полный кошмар | verbatim |
+| 4 | Жучкина | Почему кошмар? Мы старались сделать хорошо. | Why a nightmare? We tried to do it well. | #290: Все сюжеты у вас на почте | verbatim |
+| 5 | Илона | Вам всем надо больше и лучше работать. | All of you need to work more and better. | #296: Двигаться надо больше | verbatim |
+| 6 | Илона | Нужно ходить по городу с камерой! | You need to walk around town with a camera! | #297: Ногами, с камерой | verbatim |
+| 7 | Илона | Твой сюжет о биткоинах я снимаю. | I am pulling your story about bitcoins from air. | #299: я твой сюжет о биткоинах<br>#300: снимаю с эфира | verbatim |
+| 8 | Жучкина | Но мы же его уже анонсировали! | But we already advertised it in advance! | #301: Мы его анонсировали | verbatim |
+| 9 | Илона | Этот материал слишком старый и скучный. | This material is far too old and boring. | #300: это Нафталин, вторяк | adapted: rendered colloquial slang into clean A1 Russian |
+| 10 | Илона | Неужели так трудно найти хороший сюжет? | Is it really so difficult to find a good story? | #303: так сложно найти хороший сюжет | verbatim |
+| 11 | Жучкина | В нашем городе почти ничего не происходит. | Almost nothing happens in our small town. | #303: сложно найти | verbatim |
+| 12 | Илона | Ищите интересные новости, жду через час! | Search for interesting news, I expect them in an hour! | #303: найти хороший сюжет | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

@@ -4,30 +4,29 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 10
 SCENE = 21
-TITLE = "Неожиданная новость  (Unexpected News)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Неожиданная новость  (Unexpected News)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "vika": "angelina", "anya": "alisa"}
-LABELS = {"vika": "Вика", "anya": "Макс"}
+LABELS = {'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.10'
 SOURCE_FILE = 'sources/kukhnya/s01/e10.ru.dual.srt'
 INTRO = "Max pulls Vika aside in a quiet hallway to ask about their relationship, only to receive a completely shocking revelation. Vika calmly informs him that she is pregnant with his child, leaving him utterly speechless. Let's listen to their conversation in Russian."
 OPENER = "Let's examine the dialogue sentence by sentence. Notice the expressions of surprise, pregnancy vocabulary, and independent assertions."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Shocked by Vika's revelation, Max is left to grapple with the reality of unexpected fatherhood. Great work practicing conversational Russian! Next time you watch the episode, listen for the Russian expressions for 'absolutely' and 'pregnant' — you will catch every word right away. See you next time!"
-CLOSING = ("vika", "Пока!")
+CLOSING = ('vika', 'Пока!')
 STORY = [
-    ('anya', 'Вика, почему ты так странно смотришь?', 'Vika, why are you looking so strangely?', [(162, 'никого не было')], ''),
+    ('max', 'Вика, почему ты так странно смотришь?', 'Vika, why are you looking so strangely?', [(162, 'никого не было')], ''),
     ('vika', 'Макс, я должна сказать тебе важную вещь.', 'Max, I must tell you an important thing.', [(165, 'что ты знал')], ''),
-    ('anya', 'Ты снова сердишься из-за вчерашней глупой шутки?', "Are you angry again because of yesterday's silly joke?", [(163, 'Ты не переживай')], ''),
+    ('max', 'Ты снова сердишься из-за вчерашней глупой шутки?', "Are you angry again because of yesterday's silly joke?", [(163, 'Ты не переживай')], ''),
     ('vika', 'Нет, я беременна от тебя.', 'No, I am pregnant with your child.', [(162, 'Точно от меня?')], ''),
-    ('anya', 'Ты абсолютно уверена, что ребёнок мой?', 'Are you absolutely sure that the baby is mine?', [(162, 'Точно от меня?')], ''),
+    ('max', 'Ты абсолютно уверена, что ребёнок мой?', 'Are you absolutely sure that the baby is mine?', [(162, 'Точно от меня?')], ''),
     ('vika', 'После тебя у меня никого не было.', 'I have not been with anyone since you.', [(162, 'После тебя у меня никого не было')], ''),
-    ('anya', 'Но мы же совсем молодые люди!', 'But we are completely young people!', [(163, 'Ты не переживай')], ''),
+    ('max', 'Но мы же совсем молодые люди!', 'But we are completely young people!', [(163, 'Ты не переживай')], ''),
     ('vika', 'Ты только не переживай так сильно, Макс.', 'Just do not worry so much, Max.', [(163, 'Ты не переживай')], ''),
-    ('anya', 'Что же нам теперь с этим делать?', 'What on earth should we do with this now?', [(164, 'Мне от тебя ничего не нужно')], ''),
+    ('max', 'Что же нам теперь с этим делать?', 'What on earth should we do with this now?', [(164, 'Мне от тебя ничего не нужно')], ''),
     ('vika', 'Мне от тебя совершенно ничего не нужно.', 'I do not need anything at all from you.', [(164, 'Мне от тебя ничего не нужно')], ''),
-    ('anya', 'Тогда зачем ты решила сказать мне правду?', 'Then why did you decide to tell me the truth?', [(165, 'Это я так')], ''),
+    ('max', 'Тогда зачем ты решила сказать мне правду?', 'Then why did you decide to tell me the truth?', [(165, 'Это я так')], ''),
     ('vika', 'Это просто для того, чтобы ты знал.', 'This is just so that you would know.', [(165, 'Это я так, что ты знал')], ''),
 ]
 WALK = [

@@ -7,7 +7,6 @@ SCENE = 23
 TITLE = 'Vos méthodes sont révoltantes  (Your methods are revolting)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'mathias': 'marcel', 'ulrika': 'emilie'}
 LABELS = {'mathias': 'Mathias', 'ulrika': 'Ulrika'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e04.fr.dual.srt'

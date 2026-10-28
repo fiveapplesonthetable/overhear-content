@@ -4,27 +4,26 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 16
 SCENE = 21
-TITLE = "Может помочь  (Can I help)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Может помочь  (Can I help)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "chef": "anja", "ainura": "angelina"}
-LABELS = {"chef": "Шеф", "ainura": "Айнура"}
+LABELS = {'ainura': 'Айнура', 'barinov': 'Шеф'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.16'
 SOURCE_FILE = 'sources/kukhnya/s01/e16.ru.dual.srt'
 INTRO = "The fire inspector is inspecting Claude Monet. The kitchen is in chaos. Let's listen closely to their exchange in Russian first, and then walk through each line together."
 OPENER = "Now let's go back through the exchange around Can I help line by line and unpack how the Russian works."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "The fire inspector is inspecting Claude Monet. The kitchen is in chaos. Let us see what happens next in this scene. Next time you watch the episode, listen for the Russian expressions for 'can' and 'to help' — you will catch every word right away. See you next time!"
-CLOSING = ("ainura", "До свидания!")
+CLOSING = ('ainura', 'До свидания!')
 STORY = [
     ('ainura', 'Шеф, может помочь?', 'Chef, can I help?', [(277, 'Шеф, может помочь?')], ''),
-    ('chef', 'Не знаю.', "I don't know.", [(278, 'Не знаю.')], ''),
-    ('chef', 'Меня он оштрафовал.', 'He fined me.', [(278, 'Меня он оштрафовал')], ''),
-    ('chef', 'Тебя депортировать.', 'You must be deported.', [(278, 'тебя депортировать.')], ''),
-    ('chef', 'Думаю, что это?', "I'm thinking, what is this?", [(279, 'Думаю, что это?')], ''),
-    ('chef', 'Думаю, нет.', "I don't think so.", [(279, 'Думаю, нет.')], ''),
-    ('chef', 'С другим может...', 'Maybe with another...', [(280, 'С другим может...')], ''),
-    ('chef', 'Договориться удастся.', 'We could negotiate.', [(281, 'Договориться удастся.')], ''),
+    ('barinov', 'Не знаю.', "I don't know.", [(278, 'Не знаю.')], ''),
+    ('barinov', 'Меня он оштрафовал.', 'He fined me.', [(278, 'Меня он оштрафовал')], ''),
+    ('barinov', 'Тебя депортировать.', 'You must be deported.', [(278, 'тебя депортировать.')], ''),
+    ('barinov', 'Думаю, что это?', "I'm thinking, what is this?", [(279, 'Думаю, что это?')], ''),
+    ('barinov', 'Думаю, нет.', "I don't think so.", [(279, 'Думаю, нет.')], ''),
+    ('barinov', 'С другим может...', 'Maybe with another...', [(280, 'С другим может...')], ''),
+    ('barinov', 'Договориться удастся.', 'We could negotiate.', [(281, 'Договориться удастся.')], ''),
     ('ainura', 'Вот.', 'There.', [(282, 'Вот.')], ''),
     ('ainura', 'Хотя...', 'Though...', [(283, 'Хотя,')], ''),
     ('ainura', 'Если ты ему жизнь спасёшь...', 'If you save his life...', [(283, 'если ты ему жизнь спасешь,')], ''),

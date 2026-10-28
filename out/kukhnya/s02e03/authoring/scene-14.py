@@ -4,30 +4,29 @@ SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 3
 SCENE = 14
-TITLE = "Важное дело  (Important Business)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Важное дело  (Important Business)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "chef": "anja", "elena": "angelina"}
-LABELS = {"chef": "Шеф", "elena": "Елена"}
+LABELS = {'barinov': 'Шеф', 'elena': 'Елена'}
 SOURCE_NAME = 'Кухня (Kukhnya) S2.03'
 SOURCE_FILE = 'sources/kukhnya/s02/e03.ru.dual.srt'
 INTRO = 'Chef Viktor asks Yelena to drive him across Moscow for what he claims is urgent business. After spending two hours stuck in heavy traffic, Yelena is furious to discover that Viktor only wanted to buy watermelon chewing gum at a street kiosk.'
 OPENER = 'Listen to Viktor taking Yelena on a two-hour drive across Moscow.'
 TRANSITION = "Now listen to Viktor and Yelena's car trip again. Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Viktor's awkward attempt to spend time with Yelena backfires when his two-hour traffic prank drives her away. Next time you watch the episode, listen for the Russian expressions for 'to promise' and 'to drive' — you will catch every word right away. See you next time!"
-CLOSING = ("chef", "Пока!")
+CLOSING = ('barinov', 'Пока!')
 STORY = [
-    ('chef', 'Елена, вы обещали отвезти меня сегодня.', 'Yelena, you promised to drive me today.', [(203, 'Елена, вы говорили, что можете отвезти меня')], ''),
-    ('chef', 'У меня появилось очень важное дело.', 'Very important business has come up for me.', [(203, 'по важному делу'), (204, 'появилась')], ''),
+    ('barinov', 'Елена, вы обещали отвезти меня сегодня.', 'Yelena, you promised to drive me today.', [(203, 'Елена, вы говорили, что можете отвезти меня')], ''),
+    ('barinov', 'У меня появилось очень важное дело.', 'Very important business has come up for me.', [(203, 'по важному делу'), (204, 'появилась')], ''),
     ('elena', 'Хорошо, садитесь в мою машину.', 'Alright, get into my car.', [(204, 'Да, появилась')], ''),
-    ('chef', 'Вот мы наконец и приехали сюда.', 'Here we have finally arrived.', [(249, 'Вот, уже приехали')], ''),
-    ('chef', 'Остановите машину прямо здесь, пожалуйста.', 'Stop the car right here, please.', [(250, 'Здесь остановите')], ''),
+    ('barinov', 'Вот мы наконец и приехали сюда.', 'Here we have finally arrived.', [(249, 'Вот, уже приехали')], ''),
+    ('barinov', 'Остановите машину прямо здесь, пожалуйста.', 'Stop the car right here, please.', [(250, 'Здесь остановите')], ''),
     ('elena', 'Зачем мы приехали в этот магазин?', 'Why did we drive to this shop?', [(251, 'мы ехали вот в этот ларек')], ''),
-    ('chef', 'Купите мне, пожалуйста, вкусную жвачку.', 'Buy me some tasty gum, please.', [(253, 'Купите мне, пожалуйста, жвачку')], ''),
+    ('barinov', 'Купите мне, пожалуйста, вкусную жвачку.', 'Buy me some tasty gum, please.', [(253, 'Купите мне, пожалуйста, жвачку')], ''),
     ('elena', 'Вы сейчас это серьёзно говорите?', 'Are you saying this seriously right now?', [(254, 'Вы сейчас серьезно?')], ''),
     ('elena', 'Я потратила на дорогу два часа!', 'I spent two hours on the road!', [(258, 'Два часа я потратила')], ''),
-    ('chef', 'Почему вы так сильно волнуетесь?', 'Why are you getting so upset?', [(261, 'Чего вы так разволновались?')], ''),
-    ('chef', 'Я просто хотел приятно общаться с вами.', 'I just wanted to chat nicely with you.', [(262, 'по Москве, пообщаться')], ''),
+    ('barinov', 'Почему вы так сильно волнуетесь?', 'Why are you getting so upset?', [(261, 'Чего вы так разволновались?')], ''),
+    ('barinov', 'Я просто хотел приятно общаться с вами.', 'I just wanted to chat nicely with you.', [(262, 'по Москве, пообщаться')], ''),
     ('elena', 'Нет, спасибо, дальше гуляйте без меня!', 'No, thank you, walk further without me!', [(265, 'Да нет, спасибо. Это уже вы без меня')], ''),
     ('elena', 'Я больше не хочу с вами говорить!', 'I do not want to talk to you anymore!', [(266, 'Я не хочу с вами разговаривать')], ''),
 ]

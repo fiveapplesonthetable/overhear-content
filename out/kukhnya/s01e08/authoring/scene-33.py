@@ -4,33 +4,32 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 8
 SCENE = 33
-TITLE = "Право на ошибку  (The Right to Make Mistakes)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Право на ошибку  (The Right to Make Mistakes)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "anya": "alisa", "kostya": "anja"}
-LABELS = {"anya": "Макс", "kostya": "Костя"}
+LABELS = {'kostya': 'Костя', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.08'
 SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
 INTRO = 'After an exhausting dinner service filled with kitchen blunders and shouting, Kostya confides his worries to Max. Max reflects on how mistakes are an unavoidable part of human life that ultimately help us find the right path.'
 OPENER = "Let's explore Max and Kostya's uplifting conversation about learning from life's mistakes."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "With renewed confidence and mutual support, Max and Kostya prepare to conquer tomorrow's shift. Next time you watch the episode, listen for the Russian expressions for 'more' and 'to be' — you will catch every word right away. See you next time!"
-CLOSING = ("anya", "Пока!")
+CLOSING = ('max', 'Пока!')
 STORY = [
     ('kostya', 'Макс, я сегодня натворил глупых глупостей.', 'Max, I did stupid things today.', [], ''),
-    ('anya', 'Не переживай, все повара делают ошибки.', 'Do not worry, all cooks make mistakes.', [], ''),
+    ('max', 'Не переживай, все повара делают ошибки.', 'Do not worry, all cooks make mistakes.', [], ''),
     ('kostya', 'Но шеф так громко на меня кричал!', 'But the chef shouted so loudly at me!', [], ''),
-    ('anya', 'Мы не можем не совершать разные ошибки.', 'We cannot help making various mistakes.', [(363, 'Мы не можем не совершать ошибки.')], ''),
+    ('max', 'Мы не можем не совершать разные ошибки.', 'We cannot help making various mistakes.', [(363, 'Мы не можем не совершать ошибки.')], ''),
     ('kostya', 'Ты правда думаешь, что это нормально?', 'Do you really think that this is normal?', [], ''),
-    ('anya', 'Ошибки — это важная часть нашей жизни.', 'Mistakes are an important part of our life.', [(364, 'Они часть нашей жизни.')], ''),
+    ('max', 'Ошибки — это важная часть нашей жизни.', 'Mistakes are an important part of our life.', [(364, 'Они часть нашей жизни.')], ''),
     ('kostya', 'И чему же они могут нас научить?', 'And what can they teach us?', [], ''),
-    ('anya', 'Они помогают найти нам правильный путь.', 'They help us find the right path.', [(365, 'А самое главное, они помогают найти нам правильный путь.')], ''),
+    ('max', 'Они помогают найти нам правильный путь.', 'They help us find the right path.', [(365, 'А самое главное, они помогают найти нам правильный путь.')], ''),
     ('kostya', 'Значит, каждый промах делает нас сильнее?', 'So every blunder makes us stronger?', [], ''),
-    ('anya', 'Именно так мы становимся настоящими мастерами.', 'That is precisely how we become true masters.', [], ''),
+    ('max', 'Именно так мы становимся настоящими мастерами.', 'That is precisely how we become true masters.', [], ''),
     ('kostya', 'Тогда я больше не буду сильно расстраиваться.', 'Then I will not be so upset anymore.', [], ''),
-    ('anya', 'Главное — помнить свои уроки и двигаться вперёд.', 'The main thing is to remember your lessons and move forward.', [], ''),
+    ('max', 'Главное — помнить свои уроки и двигаться вперёд.', 'The main thing is to remember your lessons and move forward.', [], ''),
     ('kostya', 'Спасибо за поддержку, ты отличный друг.', 'Thank you for the support, you are a great friend.', [], ''),
-    ('anya', 'Завтра мы покажем на кухне высший класс!', 'Tomorrow we will show top class in the kitchen!', [], ''),
+    ('max', 'Завтра мы покажем на кухне высший класс!', 'Tomorrow we will show top class in the kitchen!', [], ''),
 ]
 WALK = [
     (0, None, "'Max, I did stupid things today.' Kostya puts the word for 'today' together with 'to do' and 'stupid' in a crisp, natural spoken turn of phrase."),

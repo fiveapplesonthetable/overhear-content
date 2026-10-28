@@ -10,20 +10,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Самсон | Короче, мужики! Если поддержите меня, мы прорвёмся. | In short, guys! If you support me, we will break through. | #458 00:28:55: короче, мужики<br>#459 00:28:56: Если поддержите меня, прорвемся | verbatim |
-| 2 | Самсон | Давайте дадим жару на этих дебатах! Что скажете? | Let's bring the heat at these debates! What do you say? | #460 00:29:00: Давайте дадим жару на этих дебатах<br>#461 00:29:04: Что скажете | verbatim |
-| 3 | Самсон | Самсон, я не могу. У меня тёща приезжает. | Samson, I cannot. My mother-in-law is arriving. | #462 00:29:08: Самсон, я не могу<br>#463 00:29:09: У меня теща приезжает | verbatim |
-| 4 | Самсон | Встретить надо. | I need to meet her. | #464 00:29:11: Устретить надо | verbatim |
-| 5 | Самсон | А ты чего молчишь? К тебе кто приезжает? | And why are you silent? Who is coming to see you? | #467 00:29:19: Вот тебя кто приезжает | verbatim |
-| 6 | Саня | Никто. У меня зуб болит. | Nobody. My tooth hurts. | #468 00:29:20: Никто<br>#469 00:29:23: У меня зуб болит | verbatim |
-| 7 | Саня | Я к врачу записался. | I made an appointment with the doctor. | #470 00:29:24: Я к врачу записался | verbatim |
-| 8 | Самсон | Вы что, с дуба рухнули? Какой зуб? | Have you lost your minds? What tooth? | #474 00:29:37: Вы что, с дуба рухнули<br>#476 00:29:39: Какой | adapted: crude 'нахрен' omitted |
-| 9 | Саня | Зуб мудрости болит! | My wisdom tooth hurts! | #477 00:29:42: мудрости<br>#478 00:29:44: мудрости | verbatim |
-| 10 | Самсон | Мы твою тёщу три года назад похоронили! Откуда она приезжает? | We buried your mother-in-law three years ago! Where is she coming from? | #483 00:30:00: Мы твою тещу хоронили<br>#485 00:30:04: откуда он у тебя приезжает-то | verbatim |
-| 11 | Самсон | Самсон, если мы пойдём, все подумают плохо. | Samson, if we go, everyone will think badly. | #488 00:30:11: Самсон<br>#489 00:30:13: ну если я пойду<br>#490 00:30:14: все подумают | verbatim |
-| 12 | Самсон | Подумают, что мы плохих людей поддерживаем. | They will think that we support bad people. | #491 00:30:16: поддерживаю | adapted: crude accusations simplified to A1 |
-| 13 | Самсон | А по-вашему, я плохой человек? Чего молчите? | And in your opinion, am I a bad person? Why are you silent? | #492 00:30:18: А, по-вашему, я что<br>#493 00:30:30: Чего молчите | verbatim |
-| 14 | Саня | Слушай, Самсон, ты извини. Но ты изменился. | Listen, Samson, forgive us. But you have changed. | #494 00:30:34: Слушай, Самсон, ты извини<br>#494 00:30:34: есть в тебе это | verbatim |
+| 1 | Самсон | Короче, мужики! Если поддержите меня, мы прорвёмся. | In short, guys! If you support me, we will break through. | #458: короче, мужики<br>#459: Если поддержите меня, прорвемся | verbatim |
+| 2 | Самсон | Давайте дадим жару на этих дебатах! Что скажете? | Let's bring the heat at these debates! What do you say? | #460: Давайте дадим жару на этих дебатах<br>#461: Что скажете | verbatim |
+| 3 | Дядя Гриша | Самсон, я не могу. У меня тёща приезжает. | Samson, I cannot. My mother-in-law is arriving. | #462: Самсон, я не могу<br>#463: У меня теща приезжает | verbatim |
+| 4 | Дядя Гриша | Встретить надо. | I need to meet her. | #464: Устретить надо | verbatim |
+| 5 | Самсон | А ты чего молчишь? К тебе кто приезжает? | And why are you silent? Who is coming to see you? | #467: Вот тебя кто приезжает | verbatim |
+| 6 | Саня | Никто. У меня зуб болит. | Nobody. My tooth hurts. | #468: Никто<br>#469: У меня зуб болит | verbatim |
+| 7 | Саня | Я к врачу записался. | I made an appointment with the doctor. | #470: Я к врачу записался | verbatim |
+| 8 | Самсон | Вы что, с дуба рухнули? Какой зуб? | Have you lost your minds? What tooth? | #474: Вы что, с дуба рухнули<br>#476: Какой | adapted: crude 'нахрен' omitted |
+| 9 | Саня | Зуб мудрости болит! | My wisdom tooth hurts! | #477: мудрости<br>#478: мудрости | verbatim |
+| 10 | Самсон | Мы твою тёщу три года назад похоронили! Откуда она приезжает? | We buried your mother-in-law three years ago! Where is she coming from? | #483: Мы твою тещу хоронили<br>#485: откуда он у тебя приезжает-то | verbatim |
+| 11 | Дядя Гриша | Самсон, если мы пойдём, все подумают плохо. | Samson, if we go, everyone will think badly. | #488: Самсон<br>#489: ну если я пойду<br>#490: все подумают | verbatim |
+| 12 | Дядя Гриша | Подумают, что мы плохих людей поддерживаем. | They will think that we support bad people. | #491: поддерживаю | adapted: crude accusations simplified to A1 |
+| 13 | Самсон | А по-вашему, я плохой человек? Чего молчите? | And in your opinion, am I a bad person? Why are you silent? | #492: А, по-вашему, я что<br>#493: Чего молчите | verbatim |
+| 14 | Саня | Слушай, Самсон, ты извини. Но ты изменился. | Listen, Samson, forgive us. But you have changed. | #494: Слушай, Самсон, ты извини<br>#494: есть в тебе это | verbatim |
 | 15 | Самсон | Ну и сидите тут одни! Я сам всё сделаю. | Well, stay here by yourselves! I will do everything myself. | new | new: new closing A1 line as Samsonov storms out |
 
 ## Walk-through narration (English only, no target-language words quoted)

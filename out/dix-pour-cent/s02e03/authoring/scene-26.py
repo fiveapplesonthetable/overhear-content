@@ -7,8 +7,7 @@ SCENE = 26
 TITLE = 'Virée interdite  (Joyride)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'elvis': 'theo', 'norman': 'marcel', 'lea': 'lucie'}
-LABELS = {'elvis': 'Elvis', 'norman': 'Norman', 'lea': 'Andréa'}
+LABELS = {'elvis': 'Elvis', 'gabriel': 'Gabriel', 'norman': 'Norman'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e03.fr.dual.srt'
 INTRO = "In the dark parking lot outside the arena, young Elvis corners Norman near Hicham's luxury sports car. Daring him and calling him a coward, Elvis pushes Norman into making a reckless decision. Let's listen to the scene in French first."
@@ -27,11 +26,11 @@ STORY = [
     ('elvis', 'Tu as peur de conduire?', 'Are you afraid of driving?', [(671, "T'as peur ? Je parie que t'as peur de conduire.")], ''),
     ('elvis', 'Tu as peur, poule mouillée!', 'You are scared, wimp!', [(673, "T'as peur, poule mouillée !")], ''),
     ('norman', "D'accord, monte, on y va!", 'All right, get in, let us go!', [(674, 'On y va !')], ''),
-    ('lea', "Qu'est-ce qu'ils font là-bas?", 'What are they doing over there?', [(675, "Tu t'énerves, là ?")], ''),
-    ('lea', "Norman prend la voiture d'Hicham!", 'Norman is taking Hicham', [(678, "C'est dirigé contre moi.")], ''),
+    ('gabriel', "Qu'est-ce qu'ils font là-bas?", 'What are they doing over there?', [(675, "Tu t'énerves, là ?")], ''),
+    ('gabriel', "Norman prend la voiture d'Hicham!", 'Norman is taking Hicham', [(678, "C'est dirigé contre moi.")], ''),
     ('norman', 'Attache ta ceinture, Elvis!', 'Fasten your seat belt, Elvis!', [], ''),
     ('elvis', "C'est parti, roule vite!", 'Here we go, drive fast!', [], ''),
-    ('lea', "C'est une très mauvaise idée.", 'That is a very bad idea.', [(680, 'Il ne respecte rien.')], ''),
+    ('gabriel', "C'est une très mauvaise idée.", 'That is a very bad idea.', [(680, 'Il ne respecte rien.')], ''),
 ]
 WALK = [
     (0, None, "'Hey, are you still awake?' The key word here means 'are', paired with 'awake' to make the point clear."),

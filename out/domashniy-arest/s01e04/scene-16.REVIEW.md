@@ -10,21 +10,21 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Клавдия Викторовна | Я гляжу, ты, Аркашенька, довольный такой. | I see you're looking so pleased, Arkashenka. | #613 00:34:34: Я гляжу, ты, Аркашенька, довольный такой | verbatim |
-| 2 | Аня | Настроение у меня действительно очень хорошее. | My mood really is very good. | #617 00:34:47: настроения<br>#618 00:34:48: у меня действительно очень | adapted: cue 618 'Она ... хорошая' normalised to neuter 'Настроение ... хорошее' |
-| 3 | Клавдия Викторовна | Я сейчас, Аркашенька, свет этот тебе потушу. | I'm about to turn that light off for you, Arkashenka. | #620 00:34:54: я сейчас, Аркашенька, свет этот тебе потушу | adapted: 'Ну так' trimmed for sentence length |
-| 4 | Аня | Что вы имеете в виду, Клавдия Викторовна? | What do you mean, Klavdia Viktorovna? | #615 00:34:43: Клавдия Викторовна<br>#621 00:34:59: Что вы имеете в виду | adapted: 'ягодка моя' replaced with 'Клавдия Викторовна' |
-| 5 | Клавдия Викторовна | Вот гляди, кандидат твой во всей красе! | Take a look: your candidate in all his glory! | #622 00:35:01: Вот гляди, кандидат твой во всей красе | verbatim |
-| 6 | Аня | Что это за ужас такой? И когда это было? | What on earth is this horror? And when was this? | #623 00:35:11: Что это за ужас такой<br>#625 00:35:35: когда это было | adapted: crude cue 624 omitted |
-| 7 | Клавдия Викторовна | О, это, Аркашенька, бывает очень часто. Песни орём! | Oh, that happens very often, Arkashenka. Bellowing songs! | #626 00:35:47: О, это, Аркашенька, бывает очень часто<br>#627 00:35:52: песни орём | adapted: crude cue 628 omitted |
-| 8 | Аня | Это кошмар, я не спорю. Но зачем на видео снимать? | That's a nightmare, I don't argue. But why film it on video? | #629 00:36:02: Это кошмар, я не спорю, но зачем на видео снимать | adapted: split into two short sentences |
-| 9 | Клавдия Викторовна | А я участковому хотела показать. | I wanted to show it to the local policeman. | #630 00:36:05: А участковому хотела показать | adapted: 'я' added |
-| 10 | Аня | Отдайте это видео мне. А мы обеспечим вам достойную старость. | Give this video to me. And we will ensure you a comfortable old age. | #632 00:36:13: отдайте это видео мне, а мы<br>#632 00:36:13: обеспечим вам достойную старость | adapted: split into two short sentences |
-| 11 | Клавдия Викторовна | Лучше я это в новости отправлю. Мне пятнадцать тысяч переведут. | No, I'd rather send this to the news. They'll transfer fifteen thousand to my card. | #635 00:36:32: лучше я это в<br>#636 00:36:35: мне<br>#636 00:36:35: переведут | adapted: cue 635 'в Лах-Ньюс залью' -> 'в новости отправлю'; '15' written out as 'пятнадцать'; crude 634 omitted |
-| 12 | Клавдия Викторовна | У меня вот смартфон и приложение имеется. | I have a smartphone and the app right here. | #637 00:36:38: У меня вот смартфон и приложение имеется | verbatim |
-| 13 | Аня | Какая вы прогрессивная бабушка! Что вы хотите за это видео? | What a modern grandma you are! What do you want for this video? | #638 00:36:41: Какая вы<br>#638 00:36:41: прогрессивная бабушка<br>#639 00:36:46: Что вы хотите за это видео | adapted: 'все-таки' trimmed |
-| 14 | Клавдия Викторовна | Телевизор! И чтобы поддерживал три-дэ и смарт-телевизор! | A television! And it has to support 3D and Smart TV! | #640 00:36:49: Телевизор<br>#646 00:37:06: и чтобы поддерживал | adapted: '3D и смарт-ТВ' written in Cyrillic as 'три-дэ и смарт-телевизор' |
-| 15 | Клавдия Викторовна | И очки в комплекте! | And glasses included! | #647 00:37:11: И очки в комплекте | verbatim |
+| 1 | Клавдия Викторовна | Я гляжу, ты, Аркашенька, довольный такой. | I see you're looking so pleased, Arkashenka. | #613: Я гляжу, ты, Аркашенька, довольный такой | verbatim |
+| 2 | Аркадий | Настроение у меня действительно очень хорошее. | My mood really is very good. | #617: настроения<br>#618: у меня действительно очень | adapted: cue 618 'Она ... хорошая' normalised to neuter 'Настроение ... хорошее' |
+| 3 | Клавдия Викторовна | Я сейчас, Аркашенька, свет этот тебе потушу. | I'm about to turn that light off for you, Arkashenka. | #620: я сейчас, Аркашенька, свет этот тебе потушу | adapted: 'Ну так' trimmed for sentence length |
+| 4 | Аркадий | Что вы имеете в виду, Клавдия Викторовна? | What do you mean, Klavdia Viktorovna? | #615: Клавдия Викторовна<br>#621: Что вы имеете в виду | adapted: 'ягодка моя' replaced with 'Клавдия Викторовна' |
+| 5 | Клавдия Викторовна | Вот гляди, кандидат твой во всей красе! | Take a look: your candidate in all his glory! | #622: Вот гляди, кандидат твой во всей красе | verbatim |
+| 6 | Аркадий | Что это за ужас такой? И когда это было? | What on earth is this horror? And when was this? | #623: Что это за ужас такой<br>#625: когда это было | adapted: crude cue 624 omitted |
+| 7 | Клавдия Викторовна | О, это, Аркашенька, бывает очень часто. Песни орём! | Oh, that happens very often, Arkashenka. Bellowing songs! | #626: О, это, Аркашенька, бывает очень часто<br>#627: песни орём | adapted: crude cue 628 omitted |
+| 8 | Аркадий | Это кошмар, я не спорю. Но зачем на видео снимать? | That's a nightmare, I don't argue. But why film it on video? | #629: Это кошмар, я не спорю, но зачем на видео снимать | adapted: split into two short sentences |
+| 9 | Клавдия Викторовна | А я участковому хотела показать. | I wanted to show it to the local policeman. | #630: А участковому хотела показать | adapted: 'я' added |
+| 10 | Аркадий | Отдайте это видео мне. А мы обеспечим вам достойную старость. | Give this video to me. And we will ensure you a comfortable old age. | #632: отдайте это видео мне, а мы<br>#632: обеспечим вам достойную старость | adapted: split into two short sentences |
+| 11 | Клавдия Викторовна | Лучше я это в новости отправлю. Мне пятнадцать тысяч переведут. | No, I'd rather send this to the news. They'll transfer fifteen thousand to my card. | #635: лучше я это в<br>#636: мне<br>#636: переведут | adapted: cue 635 'в Лах-Ньюс залью' -> 'в новости отправлю'; '15' written out as 'пятнадцать'; crude 634 omitted |
+| 12 | Клавдия Викторовна | У меня вот смартфон и приложение имеется. | I have a smartphone and the app right here. | #637: У меня вот смартфон и приложение имеется | verbatim |
+| 13 | Аркадий | Какая вы прогрессивная бабушка! Что вы хотите за это видео? | What a modern grandma you are! What do you want for this video? | #638: Какая вы<br>#638: прогрессивная бабушка<br>#639: Что вы хотите за это видео | adapted: 'все-таки' trimmed |
+| 14 | Клавдия Викторовна | Телевизор! И чтобы поддерживал три-дэ и смарт-телевизор! | A television! And it has to support 3D and Smart TV! | #640: Телевизор<br>#646: и чтобы поддерживал | adapted: '3D и смарт-ТВ' written in Cyrillic as 'три-дэ и смарт-телевизор' |
+| 15 | Клавдия Викторовна | И очки в комплекте! | And glasses included! | #647: И очки в комплекте | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

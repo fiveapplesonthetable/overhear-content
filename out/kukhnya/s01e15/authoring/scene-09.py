@@ -4,18 +4,17 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 15
 SCENE = 9
-TITLE = "Без Макса  (Without Max)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Без Макса  (Without Max)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "fedya": "anja", "senya": "angelina"}
-LABELS = {"fedya": "Федя", "senya": "Сеня"}
+LABELS = {'fedya': 'Федя', 'senya': 'Сеня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.15'
 SOURCE_FILE = 'sources/kukhnya/s01/e15.ru.dual.srt'
 INTRO = 'In the kitchen, the cooks are enjoying a rare moment of peace and quiet. Senya notes how great the atmosphere is today, and Fedya quickly points out the reason. Let us listen to their conversation in Russian first.'
 OPENER = 'Now let us examine the conversation line by line.'
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "In the kitchen, the cooks are enjoying a rare moment of peace and quiet. Senya notes how great the atmosphere is today, and Fedya quickly points out the reason. Next time you watch the episode, listen for the Russian expressions for 'to think' and 'great' — you will catch every word right away. See you next time!"
-CLOSING = ("fedya", "Пока!")
+CLOSING = ('fedya', 'Пока!')
 STORY = [
     ('senya', 'Я не думал, что тут так классно.', "I didn't think it was so great here.", [(170, 'Я не думал, что на кухне так классно.')], ''),
     ('fedya', 'Везде классно, когда нет Макса.', 'It is great everywhere when there is no Max.', [(171, 'Без Макса везде классно.')], ''),

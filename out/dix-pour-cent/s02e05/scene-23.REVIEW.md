@@ -1,31 +1,43 @@
-# Review: `dix-pour-cent-s02e05-scene-23` — Un enfer total  (Sheer Hell)
+# dix-pour-cent-s02e05-scene-23: review sheet
 
-- **Source**: `sources/dix-pour-cent/s02/e05.fr.dual.srt`
-- **Level**: A1 — débutant
-- **Voices**: `{"narrator": "sky", "camille": "emilie", "lea": "lucie"}`
-- **Labels**: `{"camille": "Camille", "lea": "Andréa"}`
+Title: Un enfer total  (Sheer Hell)
+Level: A1 — débutant
+Pair: fr-en
+Source: Dix pour cent (Call My Agent!) S02E05
 
-## Part 1 — Intro
-> Late at night in her small Paris apartment, an overwhelmed Camille calls her mother Annick in tears. Suffering from the bitter jealousy and harsh treatment of her colleagues at ASK, Camille seeks comfort and advice. Listen to the scene in French first. Don't worry about catching every word.
 
-## Part 2 — Story Lines
-| # | Role | French | English | Source Cues |
-|---|------|--------|---------|-------------|
-| 0 | `camille` (Camille) | Coucou maman, ça ne va pas. | Hi Mom, things are not going well. | 697:-Coucou, maman. |
-| 1 | `lea` (Andréa) | Qu'est-ce qui se passe, ma chérie? | What is going on, my sweetie? | 697:-Qu'est-ce qui se passe ? |
-| 2 | `camille` (Camille) | À l'agence, c'est un véritable enfer! | At the agency, it is a real hell! | 700:Non, c'est les autres, c'est l'enfer. |
-| 3 | `camille` (Camille) | Ils sont tous jaloux de moi. | They are all jealous of me. | 701:Ils sont jaloux de ta promotion. |
-| 4 | `camille` (Camille) | Hervé ne me parle même plus. | Hervé will not even talk to me anymore. | 704:Personne ne me parle., 705:Hervé ne me regarde même plus. |
-| 5 | `camille` (Camille) | Il m'appelle Judas toute la journée. | He calls me Judas all day long. | 706:Il m'appelle Judas. |
-| 6 | `camille` (Camille) | Andréa me crie toujours dessus. | Andréa is always yelling at me. | 707:Andréa me crie dessus quatre fois plus qu'avant. |
-| 7 | `camille` (Camille) | Je n'en peux plus, maman! | I cannot take it anymore, Mom! | 709:Je n'en peux plus. |
-| 8 | `lea` (Andréa) | Ne pleure pas, ma petite fille. | Do not cry, my little girl. | 710:Oh, ma chérie, ne pleure pas., 714:Ne pleure pas, Camille ! |
-| 9 | `lea` (Andréa) | Rentre à la maison avec moi. | Come home with me. | 717:Rentre à la maison. |
-| 10 | `lea` (Andréa) | Le travail ne doit pas être douloureux. | Work must not be painful. | 719:Le travail ne doit pas être un supplice, ma fille. |
-| 11 | `lea` (Andréa) | Je vais te payer ton billet. | I will pay for your ticket. | 726:Je te paie ton billet. |
-| 12 | `lea` (Andréa) | On ira ensemble à la plage. | We will go together to the beach. | 727:On mangera des tomates et on ira à la plage. |
-| 13 | `camille` (Camille) | Merci maman, je vais y réfléchir. | Thank you Mom, I will think about it. | 715:D'accord. |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 5 — Outro & Closing
-> Heartened by her mother's loving support, Camille considers stepping away from the ruthless pressure of the agency. Remember the common French idiom for having reached one's limit: ne plus en pouvoir. See you next time!
-- **Closing**: `lea`: *À bientôt!*
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+|---|---|---|---|---|---|
+| 1 | Camille | Coucou maman, ça ne va pas. | Hi Mom, things are not going well. | #697: -Coucou, maman. | verbatim |
+| 2 | Annick | Qu'est-ce qui se passe, ma chérie? | What is going on, my sweetie? | #697: -Qu'est-ce qui se passe ? | verbatim |
+| 3 | Camille | À l'agence, c'est un véritable enfer! | At the agency, it is a real hell! | #700: Non, c'est les autres, c'est l'enfer. | verbatim |
+| 4 | Camille | Ils sont tous jaloux de moi. | They are all jealous of me. | #701: Ils sont jaloux de ta promotion. | verbatim |
+| 5 | Camille | Hervé ne me parle même plus. | Hervé will not even talk to me anymore. | #704: Personne ne me parle.<br>#705: Hervé ne me regarde même plus. | verbatim |
+| 6 | Camille | Il m'appelle Judas toute la journée. | He calls me Judas all day long. | #706: Il m'appelle Judas. | verbatim |
+| 7 | Camille | Andréa me crie toujours dessus. | Andréa is always yelling at me. | #707: Andréa me crie dessus quatre fois plus qu'avant. | verbatim |
+| 8 | Camille | Je n'en peux plus, maman! | I cannot take it anymore, Mom! | #709: Je n'en peux plus. | verbatim |
+| 9 | Annick | Ne pleure pas, ma petite fille. | Do not cry, my little girl. | #710: Oh, ma chérie, ne pleure pas.<br>#714: Ne pleure pas, Camille ! | verbatim |
+| 10 | Annick | Rentre à la maison avec moi. | Come home with me. | #717: Rentre à la maison. | verbatim |
+| 11 | Annick | Le travail ne doit pas être douloureux. | Work must not be painful. | #719: Le travail ne doit pas être un supplice, ma fille. | verbatim |
+| 12 | Annick | Je vais te payer ton billet. | I will pay for your ticket. | #726: Je te paie ton billet. | verbatim |
+| 13 | Annick | On ira ensemble à la plage. | We will go together to the beach. | #727: On mangera des tomates et on ira à la plage. | verbatim |
+| 14 | Camille | Merci maman, je vais y réfléchir. | Thank you Mom, I will think about it. | #715: D'accord. | verbatim |
+
+## Walk-through narration (English only, no target-language words quoted)
+
+- 'Hi Mom, things are not going well.' Camille reaches out to her mother in tears late at night. The key word here means 'hello', paired with 'not' to make the point clear.
+- 'What is going on, my sweetie?' Annick responds with maternal warmth and concern. The key word here means 'is going on', paired with 'dear' to make the point clear.
+- 'At the agency, it is a real hell!' The young woman pours out her distress over the hostile atmosphere. Notice how the verb for 'it is' leads straight into 'hell'.
+- 'They are all jealous of me.' She explains how her promotion created resentment among colleagues. Listen for the expression meaning 'are', which leads naturally into 'jealous'.
+- 'Hervé will not even talk to me anymore.' Her former friend and fellow assistant has turned against her. The adverb meaning 'not' sharpens the verb for 'speaks' here.
+- 'He calls me Judas all day long.' At this point, Hervé considers her promotion a betrayal of their assistant solidarity. Camille opens with the word for 'calls' and lands on 'day' at the close.
+- 'Andréa is always yelling at me.' Her boss takes out stress on her through verbal outbursts. The key word here means 'yells', paired with 'upon' to make the point clear.
+- 'I cannot take it anymore, Mom!' Camille reaches her breaking point under the toxic pressure. Camille pairs the verb meaning 'can' with the noun for 'mom'.
+- 'Do not cry, my little girl.' Annick tries to comfort her weeping daughter over the phone. The adverb meaning 'not' sharpens the verb for 'cry' here.
+- 'Come home with me.' Her mother urges her to abandon Paris and return to the south of France. Annick uses the command form form for 'come home' together with the word for 'home'.
+- 'Work must not be painful.' Annick affirms that no job is worth sacrificing mental health. The adjective meaning 'painful' agrees in gender and number with masculine noun 'work'.
+- 'I will pay for your ticket.' The mother generously offers to cover her train fare home. The key word here means 'am going', paired with 'ticket' to make the point clear.
+- 'We will go together to the beach.' She paints an idyllic picture of rest and recovery by the Mediterranean. The adverb meaning 'together' sharpens the verb for 'will go' here.
+- 'Thank you Mom, I will think about it.' Camille feels soothed by her mother's unconditional love. The adverbial pronoun y refers back to the suggestion of returning home.

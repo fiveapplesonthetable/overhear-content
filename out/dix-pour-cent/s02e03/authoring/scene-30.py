@@ -7,8 +7,7 @@ SCENE = 30
 TITLE = 'Libérés de cellule  (Released from the Cell)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'norman': 'marcel', 'gabriel': 'theo', 'lea': 'lucie'}
-LABELS = {'norman': 'Norman', 'gabriel': 'Gabriel', 'lea': 'Andréa'}
+LABELS = {'gabriel': 'Gabriel', 'norman': 'Norman', 'policier': 'Le policier'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e03.fr.dual.srt'
 INTRO = "Sharing a cold detention cell into the early morning hours, Gabriel helps Norman confront his deepest insecurities about working with legendary director Jacques Audiard. Moved by their honesty, the sympathetic police officer makes an unexpected decision that gives Norman a second chance at his film career. Listen to the scene in French first. Don't worry about catching every word."
@@ -28,10 +27,10 @@ STORY = [
     ('gabriel', "Non, ce n'est pas trop tard.", 'No, it is not too late.', [(818, "Non, ce n'est pas trop tard")], ''),
     ('gabriel', "Je ne l'ai pas appelé.", 'I did not call him.', [(820, "Je ne l'ai pas appelé")], ''),
     ('norman', "Tu m'as sauvé la mise!", 'You saved my skin!', [(822, "Tu m'as sauvé la mise")], ''),
-    ('lea', "Monsieur Sarda, suivez-moi, s'il vous plaît.", 'Mr. Sarda, follow me, please.', [(826, 'Monsieur Sarda'), (827, "Suivez-moi, s'il vous plaît")], ''),
-    ('lea', 'Vous êtes libre de partir.', 'You are free to leave.', [(828, 'Vous êtes libre de partir')], ''),
-    ('lea', 'Je vous ai entendus parler cette nuit.', 'I heard you talking last night.', [(831, 'Je vous ai entendus parler cette nuit')], ''),
-    ('lea', 'Tout le monde a peur. Il doit faire ce film.', 'Everyone has fear. He must make this movie.', [(833, 'tout le monde a peur'), (840, 'Il doit faire ce film')], ''),
+    ('policier', "Monsieur Sarda, suivez-moi, s'il vous plaît.", 'Mr. Sarda, follow me, please.', [(826, 'Monsieur Sarda'), (827, "Suivez-moi, s'il vous plaît")], ''),
+    ('policier', 'Vous êtes libre de partir.', 'You are free to leave.', [(828, 'Vous êtes libre de partir')], ''),
+    ('policier', 'Je vous ai entendus parler cette nuit.', 'I heard you talking last night.', [(831, 'Je vous ai entendus parler cette nuit')], ''),
+    ('policier', 'Tout le monde a peur. Il doit faire ce film.', 'Everyone has fear. He must make this movie.', [(833, 'tout le monde a peur'), (840, 'Il doit faire ce film')], ''),
     ('gabriel', 'Merci beaucoup!', 'Thank you very much!', [(841, 'Merci beaucoup')], ''),
     ('norman', 'Je conduis? Non.', 'Should I drive? No.', [(846, 'Je conduis ? Non')], ''),
 ]

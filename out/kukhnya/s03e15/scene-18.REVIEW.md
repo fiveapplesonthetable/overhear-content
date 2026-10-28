@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Нагиев | Попробуй, вкусно получилось или нет? | Taste it, did it turn out delicious or not? | #293 00:20:59: Вкусно | adapted: adapted |
-| 2 | Аня | Странно, но это действительно вкусно очень! | Strange, but this is actually very delicious! | #292 00:20:57: Странно<br>#293 00:20:59: Вкусно очень | adapted: adapted |
-| 3 | Аня | Признаю, Дима, я тебя раньше недооценивал. | I admit, Dima, I underestimated you before. | #294 00:21:01: Я тебя недооценивал | adapted: adapted |
-| 4 | Нагиев | А что, если он заподозрит обман и попросит всех выйти? | And what if he suspects a trick and asks everyone to leave? | #295 00:21:04: А что, если он заподозрит обман и попросит всех выйти | adapted: adapted |
-| 5 | Шеф | Вот и всё, приплыли, тогда нам нужен будет другой план. | Then we are sunk, and we will need another plan. | #296 00:21:08: Вот и все<br>#297 00:21:10: Приплыли<br>#298 00:21:12: Тогда нам нужен будет план | adapted: adapted |
-| 6 | Нагиев | Подожди, Витя, а у нас этот план есть? | Wait, Vitya, do we actually have that plan? | #299 00:21:14: А он есть | adapted: adapted |
-| 7 | Шеф | В духовке уже будет стоять готовое сырое блюдо. | A prepared raw dish will already be sitting inside the oven. | #299 00:21:14: В духовке уже будет стоять готовое сырое блюдо | adapted: adapted |
-| 8 | Шеф | Ты своё блюдо отправишь в духовку, а потом достанешь нужное блюдо. | You will put your dish in the oven, and then pull out the right dish. | #300 00:21:18: и отправишь в духовку<br>#301 00:21:20: А потом достанешь нужное блюдо | adapted: adapted |
-| 9 | Шеф | Самое главное, не забудь вовремя включить духовку! | Most importantly, do not forget to turn on the oven in time! | #302 00:21:23: Самое главное, не забудь включить духовку | adapted: adapted |
-| 10 | Нагиев | Подожди, а как мне включить эту духовку? | Wait, and how do I turn on this oven? | #304 00:21:29: А как | adapted: adapted |
-| 11 | Шеф | Просто поверни там тумблер направо! | Simply turn the switch over there to the right! | #305 00:21:31: Тумблер поверни | adapted: adapted |
-| 12 | Аня | Кролик сырой, не рассчитаться ли нам по спору? | The rabbit is raw, shall we settle up on our bet? | #306 00:21:32: Не рассчитаться ли нам | adapted: adapted |
+| 1 | Нагиев | Попробуй, вкусно получилось или нет? | Taste it, did it turn out delicious or not? | #293: Вкусно | adapted: adapted |
+| 2 | Макс | Странно, но это действительно вкусно очень! | Strange, but this is actually very delicious! | #292: Странно<br>#293: Вкусно очень | adapted: adapted |
+| 3 | Макс | Признаю, Дима, я тебя раньше недооценивал. | I admit, Dima, I underestimated you before. | #294: Я тебя недооценивал | adapted: adapted |
+| 4 | Нагиев | А что, если он заподозрит обман и попросит всех выйти? | And what if he suspects a trick and asks everyone to leave? | #295: А что, если он заподозрит обман и попросит всех выйти | adapted: adapted |
+| 5 | Шеф | Вот и всё, приплыли, тогда нам нужен будет другой план. | Then we are sunk, and we will need another plan. | #296: Вот и все<br>#297: Приплыли<br>#298: Тогда нам нужен будет план | adapted: adapted |
+| 6 | Нагиев | Подожди, Витя, а у нас этот план есть? | Wait, Vitya, do we actually have that plan? | #299: А он есть | adapted: adapted |
+| 7 | Шеф | В духовке уже будет стоять готовое сырое блюдо. | A prepared raw dish will already be sitting inside the oven. | #299: В духовке уже будет стоять готовое сырое блюдо | adapted: adapted |
+| 8 | Шеф | Ты своё блюдо отправишь в духовку, а потом достанешь нужное блюдо. | You will put your dish in the oven, and then pull out the right dish. | #300: и отправишь в духовку<br>#301: А потом достанешь нужное блюдо | adapted: adapted |
+| 9 | Шеф | Самое главное, не забудь вовремя включить духовку! | Most importantly, do not forget to turn on the oven in time! | #302: Самое главное, не забудь включить духовку | adapted: adapted |
+| 10 | Нагиев | Подожди, а как мне включить эту духовку? | Wait, and how do I turn on this oven? | #304: А как | adapted: adapted |
+| 11 | Шеф | Просто поверни там тумблер направо! | Simply turn the switch over there to the right! | #305: Тумблер поверни | adapted: adapted |
+| 12 | Макс | Кролик сырой, не рассчитаться ли нам по спору? | The rabbit is raw, shall we settle up on our bet? | #306: Не рассчитаться ли нам | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Taste it, did it turn out delicious or not?' Dmitry Nagiyev brings out the contrast between 'taste' and 'deliciously' in a few short words. Max answers right away.
-- 'Strange, but this is actually very delicious!' Here the Russian phrasing highlights 'strangely' before landing on 'very'.
-- 'I admit, Dima, I underestimated you before.' Max brings out the contrast between 'to admit' and 'Dima' in a few short words.
-- 'And what if he suspects a trick and asks everyone to leave?' Spoken Russian keeps this brisk, leaning on 'and' and finishing on 'to get out'. Chef Barinov answers right away.
-- 'Then we are sunk, and we will need another plan.' Chef Barinov anchors the line on 'here', while 'plan' completes the thought.
-- 'Wait, Vitya, do we actually have that plan?' Dmitry Nagiyev raises the pitch on 'there is' to turn the phrase into a direct spoken question.
-- 'A prepared raw dish will already be sitting inside the oven.' In Russian, the idea of 'in the oven' flows naturally into 'dish' without extra filler words.
-- 'You will put your dish in the oven, and then pull out the right dish.' Here the Russian phrasing highlights 'you' before landing on 'needed'.
-- 'Most importantly, do not forget to turn on the oven in time!' Chef Barinov brings out the contrast between 'the most' and 'the main thing' in a few short words.
-- 'Wait, and how do I turn on this oven?' Dmitry Nagiyev raises the pitch on 'oven' to turn the phrase into a direct spoken question. Chef Barinov answers right away.
-- 'Simply turn the switch over there to the right!' Chef Barinov brings out the contrast between 'simply' and 'turn!' in a few short words.
-- 'The rabbit is raw, shall we settle up on our bet?' The grammar packs 'rabbit' and 'bet' into a tight, idiomatic kitchen exchange.
+- 'Taste it, did it turn out delicious or not?' Questioning whether taste it did it turn out delicious or not is how Nagiyev tests Barinov's story. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Strange, but this is actually very delicious!' Max declares that strange but this is actually very delicious as the tension in the room peaks.
+- 'I admit, Dima, I underestimated you before.' Here admitting Dima he underestimated Barinov sets up the next turn in their exchange. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'And what if he suspects a trick and asks everyone to leave?' Asking whether what if he suspects a trick and asks everyone to leave puts Barinov right on the defensive. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Then we are sunk, and we will need another plan.' Admitting that they are sunk and they will need another plan shows Barinov being honest for a change.
+- 'Wait, Vitya, do we actually have that plan?' Asking whether they actually have that plan is how Nagiyev puts Barinov on the spot. Russian expresses having something as "by me is", keeping the phrase short and grounded.
+- 'A prepared raw dish will already be sitting inside the oven.' Once a prepared raw dish will already be sitting inside the oven, Barinov can finally tell Max what he means.
+- 'You will put your dish in the oven, and then pull out the right dish.' Adding that Max will put Max's dish in the oven and then pull out the right dish fills in the missing piece for Max.
+- 'Most importantly, do not forget to turn on the oven in time!' Barinov declares that most importantly do not forget to turn on the oven in time as the tension in the room peaks. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Wait, and how do I turn on this oven?' Wondering how he turns on this oven is how Nagiyev puts Barinov on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Simply turn the switch over there to the right!' With the plan and dish at stake, Barinov reacts without holding back.
+- 'The rabbit is raw, shall we settle up on our bet?' When Max asks if the rabbit is raw shall they settle up on their bet, Barinov has to answer fast. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.

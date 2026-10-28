@@ -4,33 +4,32 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 2
 SCENE = 5
-TITLE = "Японский нож  (The Japanese Knife)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Японский нож  (The Japanese Knife)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "senya": "angelina"}
-LABELS = {"senya": "Сеня"}
+LABELS = {'nastya': 'Настя', 'senya': 'Сеня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.02'
 SOURCE_FILE = 'sources/kukhnya/s01/e02.ru.dual.srt'
 INTRO = 'Nastya and Senya quietly discuss why Chef Barinov is so protective of his lost knife. Senya explains that it is an irreplaceable Japanese blade, and everyone must search thoroughly. Listen to the conversation in Russian first, and then we will examine it in English.'
 OPENER = "Let's explore why this particular kitchen knife is so valuable to the chef."
 TRANSITION = "Now let's listen to the conversation again without interruption."
 OUTRO = "That is our fifth scene. In Kukhnya, Barinov's beloved Japanese knife turns out to be hidden in the most unexpected place. See you next time!"
-CLOSING = ("senya", "До встречи!")
+CLOSING = ('nastya', 'До встречи!')
 STORY = [
-    ('senya', 'Почему нельзя купить такой нож?', "Why can't we buy such a knife?", [], ''),
+    ('nastya', 'Почему нельзя купить такой нож?', "Why can't we buy such a knife?", [], ''),
     ('senya', 'По-быстрому такой нож купить не получится.', "You can't buy such a knife in a hurry.", [(95, 'быстрому такой нож купить не получится')], ''),
-    ('senya', 'А сколько он стоит?', 'And how much does it cost?', [], ''),
+    ('nastya', 'А сколько он стоит?', 'And how much does it cost?', [], ''),
     ('senya', 'Это дорогой японский нож.', 'This is an expensive Japanese knife.', [], ''),
     ('senya', 'Шеф заказывал его очень долго.', 'The chef ordered it for a very long time.', [], ''),
-    ('senya', 'И он очень острый?', 'And is it very sharp?', [], ''),
+    ('nastya', 'И он очень острый?', 'And is it very sharp?', [], ''),
     ('senya', 'Самый острый нож на кухне.', 'The sharpest knife in the kitchen.', [], ''),
-    ('senya', 'Где же он может быть?', 'Where could it possibly be?', [], ''),
+    ('nastya', 'Где же он может быть?', 'Where could it possibly be?', [], ''),
     ('senya', 'Мы уже везде искали.', 'We already looked everywhere.', [], ''),
-    ('senya', 'Может, кто-то взял его домой?', 'Maybe someone took it home?', [], ''),
+    ('nastya', 'Может, кто-то взял его домой?', 'Maybe someone took it home?', [], ''),
     ('senya', 'Никто не посмеет это сделать.', 'Nobody would dare do that.', [], ''),
     ('senya', 'Шеф сразу всех уволит.', 'The chef will fire everyone immediately.', [], ''),
     ('senya', 'Давай нож ищи скорее.', 'Come on, look for the knife quickly.', [(97, 'Давай нож ищи')], ''),
-    ('senya', 'Хорошо. Я посмотрю здесь.', 'All right. I will look here.', [], ''),
+    ('nastya', 'Хорошо. Я посмотрю здесь.', 'All right. I will look here.', [], ''),
 ]
 WALK = [
     (0, None, "'Why can't we buy such a knife?' Nastya wonders why replacing the tool is so complicated."),
@@ -46,6 +45,6 @@ WALK = [
     (10, None, "'Nobody would dare do that.' The verb expresses courage or audacity to commit a forbidden act."),
     (11, None, "'The chef will fire everyone immediately.' Senya expresses this naturally by combining the word for 'chef' with 'immediately' and 'will fire'."),
     (12, None, "'Come on, look for the knife quickly.' A renewed push to continue the kitchen search."),
-    (13, None, "'All right.' Nastya delivers a punchy one-word reaction built around the Russian word meaning 'all right'."),
-    (14, None, "'I will look here.' Nastya uses the action verb meaning 'will look' to focus on the single completed result, pairing it with 'here'. Now let's listen to the whole conversation again from start to finish."),
+    (13, 'Хорошо.', "'All right.' Nastya delivers a punchy one-word reaction built around the Russian word meaning 'all right'."),
+    (13, 'Я посмотрю здесь.', "'I will look here.' Nastya uses the action verb meaning 'will look' to focus on the single completed result, pairing it with 'here'. Now let's listen to the whole conversation again from start to finish."),
 ]

@@ -10,20 +10,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Костик | Ух ты, похвала от настоятеля! | Oh wow, praise from the abbot! | #1 00:00:50: Ух ты, плюс | verbatim |
-| 2 | Отец Григорий | За что тебе похвала, Константин? | What praise do you deserve, Konstantin? | #2 00:00:52: За что, отец Григорий | verbatim |
-| 3 | Отец Григорий | Ты пишешь слишком медленно и грязно. | You write too slowly and messily. | #3 00:00:53: пишешь ты медленно и грязнишь | verbatim |
-| 4 | Костик | Я очень стараюсь писать красиво. | I try very hard to write nicely. | #4 00:01:00: Возюкаешь ты и рад | adapted: adapted |
-| 5 | Отец Григорий | Посмотри, какая кривая буква получилась! | Look what a crooked letter turned out! | #5 00:01:02: куды хвост пошел | adapted: adapted |
-| 6 | Отец Григорий | Исправляй эту ошибку прямо сейчас. | Correct this mistake right now. | #6 00:01:07: Подчищай | adapted: adapted |
-| 7 | Костик | Господи, прости меня грешного. | Lord, forgive me a sinner. | #7 00:01:10: Прости, господи | verbatim |
-| 8 | Отец Григорий | У нас осталось очень мало времени. | We have very little time left. | #8 00:01:12: Времени мало | verbatim |
-| 9 | Отец Григорий | Скоро эту летопись повезут назад. | Soon this chronicle will be taken back. | #8 00:01:12: рукопись обратно в Киев поедет | adapted: adapted |
-| 10 | Костик | Мне очень боязно на душе. | I feel very frightened in my soul. | #11 00:01:26: боязно мне отец Григорий. Тревога | verbatim |
-| 11 | Отец Григорий | Ты боишься из-за своих грехов! | You are afraid because of your sins! | #12 00:01:30: Тебе боязно, потому что ты | adapted: adapted |
-| 12 | Костик | Моя рука уже совсем немеет. | My hand is going completely numb. | #15 00:01:37: длань уж не имеет | adapted: adapted |
-| 13 | Отец Григорий | Тогда молись и кайся усердно! | Then pray and repent diligently! | #19 00:01:53: Молись и кайся | verbatim |
-| 14 | Отец Григорий | Я сам закончу эту страницу! | I will finish this page myself! | #27 00:02:41: Сам буду писать | adapted: adapted |
+| 1 | Костик | Ух ты, похвала от настоятеля! | Oh wow, praise from the abbot! | #1: Ух ты, плюс | verbatim |
+| 2 | Отец Григорий | За что тебе похвала, Константин? | What praise do you deserve, Konstantin? | #2: За что, отец Григорий | verbatim |
+| 3 | Отец Григорий | Ты пишешь слишком медленно и грязно. | You write too slowly and messily. | #3: пишешь ты медленно и грязнишь | verbatim |
+| 4 | Костик | Я очень стараюсь писать красиво. | I try very hard to write nicely. | #4: Возюкаешь ты и рад | adapted: adapted |
+| 5 | Отец Григорий | Посмотри, какая кривая буква получилась! | Look what a crooked letter turned out! | #5: куды хвост пошел | adapted: adapted |
+| 6 | Отец Григорий | Исправляй эту ошибку прямо сейчас. | Correct this mistake right now. | #6: Подчищай | adapted: adapted |
+| 7 | Костик | Господи, прости меня грешного. | Lord, forgive me a sinner. | #7: Прости, господи | verbatim |
+| 8 | Отец Григорий | У нас осталось очень мало времени. | We have very little time left. | #8: Времени мало | verbatim |
+| 9 | Отец Григорий | Скоро эту летопись повезут назад. | Soon this chronicle will be taken back. | #8: рукопись обратно в Киев поедет | adapted: adapted |
+| 10 | Костик | Мне очень боязно на душе. | I feel very frightened in my soul. | #11: боязно мне отец Григорий. Тревога | verbatim |
+| 11 | Отец Григорий | Ты боишься из-за своих грехов! | You are afraid because of your sins! | #12: Тебе боязно, потому что ты | adapted: adapted |
+| 12 | Костик | Моя рука уже совсем немеет. | My hand is going completely numb. | #15: длань уж не имеет | adapted: adapted |
+| 13 | Отец Григорий | Тогда молись и кайся усердно! | Then pray and repent diligently! | #19: Молись и кайся | verbatim |
+| 14 | Отец Григорий | Я сам закончу эту страницу! | I will finish this page myself! | #27: Сам буду писать | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

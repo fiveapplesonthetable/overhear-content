@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Шеф | Что случилось, Витя? | What happened, Vitya? | #145 00:09:55: Что случилось? | adapted: adapted |
-| 2 | Шеф | Префект не наелся. | The prefect did not eat his fill. | #145 00:09:55: не наелся | adapted: adapted |
-| 3 | Шеф | Миша, ты меня прости, что я тогда Элеоноре ничего не сказал. | Misha, forgive me for not saying anything to Eleonora back then. | #146 00:10:00: Миша, ты меня прости, что я тогда Элеоноре ничего не сказал | adapted: exact |
-| 4 | Шеф | Ты пойми, для нее это важно. | Understand, for her it is important. | #147 00:10:05: Ты пойми, для нее это | adapted: adapted |
-| 5 | Шеф | Никаких проблем, Витя. | No problem at all, Vitya. | #148 00:10:07: Никаких проблем | adapted: adapted |
-| 6 | Шеф | За новое меню и за звезду! | To the new menu and to the star! | #149 00:10:13: За новое меню и за звезду | adapted: adapted |
-| 7 | Шеф | Катя уже третий бокал пьет. | Katya is already drinking her third glass. | #150 00:10:20: Катя уже третий бокал пьет | adapted: exact |
-| 8 | Шеф | По-моему, пора идти. | In my opinion, it is time to go. | #151 00:10:23: По-моему, пора | adapted: adapted |
-| 9 | Шеф | Давай, удачи. | Go ahead, good luck. | #152 00:10:25: Давай | adapted: adapted |
-| 10 | Шеф | Ну что, думаешь, пора уже с Катей поговорить? | Well, do you think it is time to talk to Katya already? | #154 00:10:30: Ну что, думаешь, пора уж с Катей поговорить? | adapted: adapted |
-| 11 | Шеф | Да, а вино где? | Yes, and where is the wine? | #155 00:10:36: Да. А вино где? | adapted: exact |
-| 12 | Шеф | Не вопрос, сейчас налью. | No question, I will pour right now. | #158 00:10:45: Не вопрос | adapted: adapted |
+| 1 | Михаил | Что случилось, Витя? | What happened, Vitya? | #145: Что случилось? | adapted: adapted |
+| 2 | Шеф | Префект не наелся. | The prefect did not eat his fill. | #145: не наелся | adapted: adapted |
+| 3 | Шеф | Миша, ты меня прости, что я тогда Элеоноре ничего не сказал. | Misha, forgive me for not saying anything to Eleonora back then. | #146: Миша, ты меня прости, что я тогда Элеоноре ничего не сказал | adapted: exact |
+| 4 | Шеф | Ты пойми, для нее это важно. | Understand, for her it is important. | #147: Ты пойми, для нее это | adapted: adapted |
+| 5 | Михаил | Никаких проблем, Витя. | No problem at all, Vitya. | #148: Никаких проблем | adapted: adapted |
+| 6 | Шеф | За новое меню и за звезду! | To the new menu and to the star! | #149: За новое меню и за звезду | adapted: adapted |
+| 7 | Костя | Катя уже третий бокал пьет. | Katya is already drinking her third glass. | #150: Катя уже третий бокал пьет | adapted: exact |
+| 8 | Костя | По-моему, пора идти. | In my opinion, it is time to go. | #151: По-моему, пора | adapted: adapted |
+| 9 | Михаил | Давай, удачи. | Go ahead, good luck. | #152: Давай | adapted: adapted |
+| 10 | Костя | Ну что, думаешь, пора уже с Катей поговорить? | Well, do you think it is time to talk to Katya already? | #154: Ну что, думаешь, пора уж с Катей поговорить? | adapted: adapted |
+| 11 | Михаил | Да, а вино где? | Yes, and where is the wine? | #155: Да. А вино где? | adapted: exact |
+| 12 | Костя | Не вопрос, сейчас налью. | No question, I will pour right now. | #158: Не вопрос | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What happened, Vitya?' Mikhail anchors the line on 'what', while 'happened' completes the thought. Chef Barinov answers right away.
-- 'The prefect did not eat his fill.' Chef Barinov anchors the line on 'district prefect', while 'ate his fill' completes the thought.
-- 'Misha, forgive me for not saying anything to Eleonora back then.' The grammar packs 'Misha' and 'said' into a tight, idiomatic kitchen exchange.
-- 'Understand, for her it is important.' Spoken Russian keeps this brisk, leaning on 'you' and finishing on 'important'. Mikhail answers right away.
-- 'No problem at all, Vitya.' Spoken Russian keeps this brisk, leaning on 'no' and finishing on 'problems'.
-- 'To the new menu and to the star!' Notice how Russian expresses 'for' and 'star' with crisp inflection rather than helper words.
-- 'Katya is already drinking her third glass.' Here the Russian phrasing highlights 'Katya' before landing on 'drinks'.
-- 'In my opinion, it is time to go.' Kostya brings out the contrast between 'in my opinion' and 'it's time' in a few short words.
-- 'Go ahead, good luck.' Mikhail anchors the line on 'come on', while 'good luck' completes the thought.
-- 'Well, do you think it is time to talk to Katya already?' Kostya raises the pitch on 'to talk' to turn the phrase into a direct spoken question. Mikhail answers right away.
-- 'Yes, and where is the wine?' Mikhail brings out the contrast between 'yes' and 'and' in a few short words.
-- 'No question, I will pour right now.' In Russian, the idea of 'not' flows naturally into 'will pour' without extra filler words.
+- 'What happened, Vitya?' Turning from the wedding to the kitchen, Mikhail asks Barinov directly. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'The prefect did not eat his fill.' Barinov explains that the prefect did not eat his fill, keeping his voice calm and direct.
+- 'Misha, forgive me for not saying anything to Eleonora back then.' Over the work and the menu, Barinov answers Kostya without a second thought. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
+- 'Understand, for her it is important.' Noting that Kostya should understand for her it is important keeps Barinov's side of the story simple and clear. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'No problem at all, Vitya.' Around the work and menu, Mikhail sets a calm, everyday tone with Barinov.
+- 'To the new menu and to the star!' With the shift and menu at stake, Barinov reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Katya is already drinking her third glass.' Saying that Katya is already drinking her third glass is how Kostya sets the tone with Barinov.
+- 'In my opinion, it is time to go.' Once in his opinion it is time to go, Kostya can finally tell Barinov what he means.
+- 'Go ahead, good luck.' Claiming that Barinov should go ahead good luck sounds confident, even if Barinov has doubts. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
+- 'Well, do you think it is time to talk to Katya already?' By asking whether Barinov thinks it is time to talk to Katya already, Kostya presses Barinov for a straight answer. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
+- 'Yes, and where is the wine?' Wondering where the wine is cuts straight through the tension between Mikhail and Barinov.
+- 'No question, I will pour right now.' Mentioning that question he will pour right now moves the talk in a new direction.

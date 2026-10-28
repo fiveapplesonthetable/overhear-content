@@ -7,8 +7,7 @@ SCENE = 7
 TITLE = "Le départ de Noémie  (Noémie's Departure)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'noemie': 'emilie', 'herve': 'marcel', 'lea': 'lucie'}
-LABELS = {'noemie': 'Noémie', 'herve': 'Hervé', 'lea': 'Andréa'}
+LABELS = {'camille': 'Camille', 'herve': 'Hervé', 'noemie': 'Noémie'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e01.fr.dual.srt'
 INTRO = "At the ASK agency reception, Noemie packs up her belongings following Mathias's departure. She entrusts her cherished bonsai tree to Herve and makes plans with the assistants for a friendly farewell drink. Let's listen to their conversation in French first."
@@ -17,7 +16,7 @@ TRANSITION = "Now let's listen to the assistants' farewell exchange once more fr
 OUTRO = "That's it for this scene around noemie's departure. When you watch the episode, listen out for the expressions meaning 'goes' and 'need'. You'll catch them now. See you next time!"
 CLOSING = ('herve', 'À demain!')
 STORY = [
-    ('lea', "Ça va Noémie? Tu as besoin d'aide?", 'Are you okay Noemie? Do you need help?', [(487, 'Ça va ?'), (489, "Je t'appelle un taxi ?")], ''),
+    ('camille', "Ça va Noémie? Tu as besoin d'aide?", 'Are you okay Noemie? Do you need help?', [(487, 'Ça va ?'), (489, "Je t'appelle un taxi ?")], ''),
     ('noemie', 'Non, ça ira très bien, merci Camille.', 'No, I will be fine, thank you Camille.', [(490, 'Non, ça ira, merci.')], ''),
     ('herve', 'Tu pars déjà avec tes cartons?', 'Are you leaving already with your boxes?', [(491, 'Oh, Hervé !')], ''),
     ('noemie', "Hervé, j'ai mis le bonsaï sur ton bureau.", 'Herve, I put the bonsai on your desk.', [(492, "J'ai mis le bonsaï sur ton bureau.")], ''),
@@ -27,7 +26,7 @@ STORY = [
     ('noemie', 'Nous ne sommes pas des sauvages!', 'We are not savages!', [(496, "On n'est pas des sauvages après tout.")], ''),
     ('noemie', "J'espère que vous allez vous ennuyer sans moi.", 'I hope that you will be bored without me.', [(497, "J'espère que vous allez vous ennuyer sans moi.")], ''),
     ('herve', 'Tu peux compter sur nous pour ça!', 'You can count on us for that!', [(498, 'Tu peux compter sur nous.')], ''),
-    ('lea', 'On pourrait prendre un verre ensemble ce soir?', 'We could have a drink together tonight?', [(500, "On pourrait peut-être prendre un verre tout à l'heure ?")], ''),
+    ('camille', 'On pourrait prendre un verre ensemble ce soir?', 'We could have a drink together tonight?', [(500, "On pourrait peut-être prendre un verre tout à l'heure ?")], ''),
     ('noemie', 'Oui, un pot de départ entre nous!', 'Yes, a farewell drink just between us!', [(502, "Genre un pot de départ rien qu'entre nous.")], ''),
     ('herve', "C'est parfait, sans les patrons pénibles!", 'That is perfect, without the annoying bosses!', [(503, 'Sans les trucs pénibles.')], ''),
 ]

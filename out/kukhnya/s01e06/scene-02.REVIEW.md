@@ -1,40 +1,41 @@
-# Финальный штрих  (The Final Touch) — `kukhnya-s01e06-scene-02`
+# kukhnya-s01e06-scene-02: review sheet
 
-**Source:** Кухня (Kukhnya) S1.06 · `sources/kukhnya/s01/e06.ru.dual.srt`  
-**Target level:** A1 — Duolingo Section 2
+Title: Финальный штрих  (The Final Touch)
+Level: A1 — Duolingo Section 2
+Pair: ru-en
+Source: Кухня (Kukhnya) S1.06
 
-## Cast
 
-| Role | Voice | Label |
-|---|---|---|
-| `narrator` | sky | — |
-| `chef` | anja | Шеф |
-| `anya` | alisa | Макс |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 1 — Intro
-
-> At the Claude Monet kitchen pass, Chef Viktor Barinov inspects a hot dish before it leaves for the dining room. He teaches young cook Max how the final touch of fresh herbs elevates a plate into an appetizing masterpiece. Let's listen to their exchange in Russian first.
-
-## Part 2 — Story
-
-| # | Speaker | Line | English | Source cue(s) | Change |
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 0 | Шеф | Огузок, посмотри на эту тарелку. | Oguzok, look at this plate. | *(added)* |  |
-| 1 | Макс | Шеф, это блюдо уже готово? | Chef, is this dish already ready? | *(added)* |  |
-| 2 | Шеф | Осталось главное: украсить его зеленью. | The main thing remains: to garnish it with herbs. | #4 "Его украшают" |  |
-| 3 | Макс | Каждая деталь имеет важное значение. | Every detail has important meaning. | *(added)* |  |
-| 4 | Шеф | Еда обязана выглядеть красиво и аппетитно. | Food is obliged to look beautiful and appetizing. | #4 "украшают" |  |
-| 5 | Макс | Положим сюда свежую зелень? | Shall we put fresh herbs here? | *(added)* |  |
-| 6 | Шеф | Аккуратно! Не испорти дорогую подачу. | Carefully! Do not ruin the expensive presentation. | *(added)* |  |
-| 7 | Макс | Я делаю всё очень аккуратно, шеф. | I do everything very carefully, chef. | *(added)* |  |
-| 8 | Шеф | Красивая подача очень важна для гостей. | Beautiful presentation is very important for guests. | *(added)* |  |
-| 9 | Макс | Официанты уже ждут на кухне. | The waiters are already waiting in the kitchen. | *(added)* |  |
-| 10 | Шеф | Зови официанта, пусть несут заказ. | Call the waiter, let them carry the order. | *(added)* |  |
-| 11 | Макс | Саша, забери готовое горячее блюдо! | Sasha, take the ready hot dish! | *(added)* |  |
-| 12 | Шеф | Отлично, продолжаем работать дальше. | Great, we continue working further. | *(added)* |  |
+| 1 | Шеф | Огузок, посмотри на эту тарелку. | Oguzok, look at this plate. | new | new |
+| 2 | Макс | Шеф, это блюдо уже готово? | Chef, is this dish already ready? | new | new |
+| 3 | Шеф | Осталось главное: украсить его зеленью. | The main thing remains: to garnish it with herbs. | #4: Его украшают | verbatim |
+| 4 | Макс | Каждая деталь имеет важное значение. | Every detail has important meaning. | new | new |
+| 5 | Шеф | Еда обязана выглядеть красиво и аппетитно. | Food is obliged to look beautiful and appetizing. | #4: украшают | verbatim |
+| 6 | Макс | Положим сюда свежую зелень? | Shall we put fresh herbs here? | new | new |
+| 7 | Шеф | Аккуратно! Не испорти дорогую подачу. | Carefully! Do not ruin the expensive presentation. | new | new |
+| 8 | Макс | Я делаю всё очень аккуратно, шеф. | I do everything very carefully, chef. | new | new |
+| 9 | Шеф | Красивая подача очень важна для гостей. | Beautiful presentation is very important for guests. | new | new |
+| 10 | Макс | Официанты уже ждут на кухне. | The waiters are already waiting in the kitchen. | new | new |
+| 11 | Шеф | Зови официанта, пусть несут заказ. | Call the waiter, let them carry the order. | new | new |
+| 12 | Макс | Саша, забери готовое горячее блюдо! | Sasha, take the ready hot dish! | new | new |
+| 13 | Шеф | Отлично, продолжаем работать дальше. | Great, we continue working further. | new | new |
 
-## Part 5 — Outro & closing
+## Walk-through narration (English only, no target-language words quoted)
 
-> That wraps up this scene from Kukhnya. Listen for these everyday Russian expressions when you watch the episode. See you next time!
-
-**Шеф:** Пока!
+- 'Oguzok, look at this plate.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'Chef, is this dish already ready?' Max asks about the state of preparation with a short adjective.
+- 'The main thing remains: to garnish it with herbs.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'Every detail has important meaning.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
+- 'Food is obliged to look beautiful and appetizing.' Barinov insists on high culinary standards using adverbs of manner.
+- 'Shall we put fresh herbs here?' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
+- 'Carefully! Do not ruin the expensive presentation.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'I do everything very carefully, chef.' Max reassures his superior using an adverb of manner.
+- 'Beautiful presentation is very important for guests.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
+- 'The waiters are already waiting in the kitchen.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'Call the waiter, let them carry the order.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'Sasha, take the ready hot dish!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'Great, we continue working further.' Barinov moves on to the next task with an adverb of approval.

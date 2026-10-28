@@ -10,32 +10,32 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Саша | Сашка, мне надо с тобой поговорить, короче. | Sasha, I need to talk to you, basically. | #216 00:14:09: Сашка, мне надо с тобой поговорить, короче | verbatim |
-| 2 | Айнура | Мне тоже нужно с тобой поговорить. | I need to talk to you too. | #217 00:14:13: Мне тоже нужно с тобой поговорить | verbatim |
-| 3 | Саша | Только не здесь. | Just not out here. | #218 00:14:15: Только не здесь | verbatim |
-| 4 | Айнура | Саш, ну ты скоро? | Sasha, will you be much longer? | #219 00:14:18: Саш, ну ты скоро | verbatim |
-| 5 | Саша | Я вообще-то поговорить хотел. | I actually wanted to talk. | #219 00:14:18: Я вообще-то поговорить хотел | verbatim |
-| 6 | Айнура | Заходи, поговорим. | Come on in, let us talk. | #220 00:14:21: Заходи, поговорим | verbatim |
-| 7 | Саша | Как тебе? | How do you like it? | #221 00:14:28: Как тебе | verbatim |
-| 8 | Айнура | Очень красиво! Иду на Кипр. | Very beautiful! I am going to Cyprus. | #223 00:14:34: на Кипре | adapted: adapted |
-| 9 | Саша | А в нем я буду на Кипре. | And I will be wearing it in Cyprus. | #223 00:14:34: А в нем я буду на Кипре | verbatim |
-| 10 | Айнура | Но потом без него. | And then without it. | #224 00:14:36: Но потом без него | verbatim |
-| 11 | Саша | Иди сюда. | Come here. | #225 00:14:41: Иди сюда | verbatim |
-| 12 | Айнура | Не трогай. | Do not touch those. | #227 00:15:04: не трогай | verbatim |
-| 13 | Саша | Я их купил племяннику. | I bought them for my nephew. | #228 00:15:07: Я их купил племяннику | verbatim |
+| 1 | Саша | Сашка, мне надо с тобой поговорить, короче. | Sasha, I need to talk to you, basically. | #216: Сашка, мне надо с тобой поговорить, короче | verbatim |
+| 2 | Айнура | Мне тоже нужно с тобой поговорить. | I need to talk to you too. | #217: Мне тоже нужно с тобой поговорить | verbatim |
+| 3 | Саша | Только не здесь. | Just not out here. | #218: Только не здесь | verbatim |
+| 4 | Айнура | Саш, ну ты скоро? | Sasha, will you be much longer? | #219: Саш, ну ты скоро | verbatim |
+| 5 | Саша | Я вообще-то поговорить хотел. | I actually wanted to talk. | #219: Я вообще-то поговорить хотел | verbatim |
+| 6 | Айнура | Заходи, поговорим. | Come on in, let us talk. | #220: Заходи, поговорим | verbatim |
+| 7 | Саша | Как тебе? | How do you like it? | #221: Как тебе | verbatim |
+| 8 | Айнура | Очень красиво! Иду на Кипр. | Very beautiful! I am going to Cyprus. | #223: на Кипре | adapted: adapted |
+| 9 | Саша | А в нем я буду на Кипре. | And I will be wearing it in Cyprus. | #223: А в нем я буду на Кипре | verbatim |
+| 10 | Айнура | Но потом без него. | And then without it. | #224: Но потом без него | verbatim |
+| 11 | Саша | Иди сюда. | Come here. | #225: Иди сюда | verbatim |
+| 12 | Айнура | Не трогай. | Do not touch those. | #227: не трогай | verbatim |
+| 13 | Саша | Я их купил племяннику. | I bought them for my nephew. | #228: Я их купил племяннику | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Sasha, I need to talk to you, basically.' Sasha anchors the line on 'Sasha', while 'in short' completes the thought.
-- 'I need to talk to you too.' Ainura addresses the listener with the informal singular 'you' alongside 'to talk'. Sasha answers right away.
-- 'Just not out here.' The meaning hinges on 'only' working together with 'here' in spoken Russian.
-- 'Sasha, will you be much longer?' The grammar packs 'Sasha' and 'soon' into a tight, idiomatic kitchen exchange.
-- 'I actually wanted to talk.' Notice how Russian expresses 'I' and 'wanted' with crisp inflection rather than helper words. Ainura answers right away.
-- 'Come on in, let us talk.' In Russian, the idea of 'come in' flows naturally into 'we'll have a talk' without extra filler words.
-- 'How do you like it?' Here the Russian phrasing highlights 'how' before landing on 'you'.
-- 'Very beautiful! I am going to Cyprus.' Ainura pairs 'very much' with 'going, running' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
-- 'And I will be wearing it in Cyprus.' Spoken Russian keeps this brisk, leaning on 'and' and finishing on 'Cyprus'.
-- 'And then without it.' Ainura brings out the contrast between 'but' and 'later' in a few short words.
-- 'Come here.' The meaning hinges on 'go' working together with 'here' in spoken Russian. Ainura answers right away.
-- 'Do not touch those.' The grammar packs 'not' and 'touch' into a tight, idiomatic kitchen exchange.
-- 'I bought them for my nephew.' Sasha brings out the contrast between 'I' and 'them' in a few short words.
+- 'Sasha, I need to talk to you, basically.' Realizing that she needs to talk to Ainura basically changes how Sasha handles the situation.
+- 'I need to talk to you too.' Needing to talk to Sasha moves the conversation forward without extra drama. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
+- 'Just not out here.' Between the shift and the trip, Sasha gives Ainura a quick, grounded response.
+- 'Sasha, will you be much longer?' By checking whether Sasha is much longer, Ainura presses Sasha for a straight answer.
+- 'I actually wanted to talk.' Since she actually wanted to talk, Sasha does not waste words on excuses.
+- 'Come on in, let us talk.' Coming on in let them talk moves the conversation forward without extra drama.
+- 'How do you like it?' Here wondering how Ainura likes it shows Sasha looking for the real truth.
+- 'Very beautiful! I am going to Cyprus.' Being going to Cyprus is Ainura's blunt reaction in front of Sasha. Russian puts the key word right up front so her emotion lands on the first beat.
+- 'And I will be wearing it in Cyprus.' Explaining that she will be wearing it in Cyprus lays the cards on the table for Ainura.
+- 'And then without it.' Around the moment and room, Ainura sets a calm, everyday tone with Sasha.
+- 'Come here.' By telling Ainura to come here, Sasha keeps her side of the story grounded.
+- 'Do not touch those.' Pointing out that do not touch those gives Sasha a sobering reality check.
+- 'I bought them for my nephew.' Sasha explains that she bought them for her nephew, keeping her voice calm and direct.

@@ -7,8 +7,7 @@ SCENE = 29
 TITLE = "Le grand frisson de Mathias  (Mathias's Big Thrill)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'noemie': 'emilie', 'mathias': 'marcel', 'lea': 'lucie'}
-LABELS = {'noemie': 'Noémie', 'mathias': 'Mathias', 'lea': 'Andréa'}
+LABELS = {'mathias': 'Mathias', 'noemie': 'Noémie', 'serveur': 'Le serveur'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e02.fr.dual.srt'
 INTRO = "Following his alarming alcohol blackout after the previous night's celebrations, Mathias meets assistant Noémie at a quiet Parisian restaurant. Relieved to find him safe and sound, Noémie admits her frantic worries before their private conversation takes an unexpectedly romantic and secretive turn. Listen to the scene in French first. Don't worry about catching every word."
@@ -27,9 +26,9 @@ STORY = [
     ('noemie', 'Nathalie Baye a appelé.', 'Nathalie Baye called.', [(955, 'Nathalie Baye a appelé')], ''),
     ('noemie', "Je lui ai dit qu'on avait un accord pour son contrat.", 'I told her we had an agreement for her contract.', [(956, "Je lui ai dit qu'on avait un accord pour son contrat")], ''),
     ('mathias', 'Oui, merci.', 'Yes, thank you.', [(958, 'Oui, merci')], ''),
-    ('lea', "J'en ai vu de toutes les couleurs. Mais pas comme vous.", 'I have seen all sorts of things. But not like you.', [(959, "J'en ai vu de toutes les couleurs"), (960, 'Mais pas comme vous')], ''),
-    ('lea', "Des amants qui font semblant de trinquer au lieu de s'embrasser?", 'Lovers pretending to toast instead of kissing?', [(961, 'Des amants'), (962, "qui font semblant de trinquer au lieu de s'embrasser")], ''),
-    ('lea', "Je n'ai jamais vu ça!", 'I have never seen that!', [(963, "Je n'ai jamais vu ça")], ''),
+    ('serveur', "J'en ai vu de toutes les couleurs. Mais pas comme vous.", 'I have seen all sorts of things. But not like you.', [(959, "J'en ai vu de toutes les couleurs"), (960, 'Mais pas comme vous')], ''),
+    ('serveur', "Des amants qui font semblant de trinquer au lieu de s'embrasser?", 'Lovers pretending to toast instead of kissing?', [(961, 'Des amants'), (962, "qui font semblant de trinquer au lieu de s'embrasser")], ''),
+    ('serveur', "Je n'ai jamais vu ça!", 'I have never seen that!', [(963, "Je n'ai jamais vu ça")], ''),
     ('mathias', 'Chut!', 'Hush!', [(966, 'Chut')], ''),
     ('noemie', 'Oh, Mathias...', 'Oh, dear Mathias...', [(967, 'Oh, Mathias')], ''),
     ('mathias', 'Le grand frisson. Allons-y, maintenant.', 'The big thrill. Let', [(970, 'Le grand frisson'), (971, 'Allons-y, maintenant')], ''),

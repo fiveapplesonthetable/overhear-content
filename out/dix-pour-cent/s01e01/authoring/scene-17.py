@@ -7,7 +7,6 @@ SCENE = 17
 TITLE = "Je change d'agent  (I'm Changing Agents)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'cecile': 'emilie', 'gabriel': 'theo'}
 LABELS = {'cecile': 'Cécile', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e01.fr.dual.srt'
@@ -39,23 +38,23 @@ STORY = [
 WALK = [
     (0, None, "'Cécile, great! How are you?' Those two little words at the end are the everyday way to ask how someone is. Cécile plays along."),
     (1, None, "'Fine, and you?' She uses the casual 'you' with Gabriel; they've worked together for years."),
-    (2, None, "'I tried to call you.' The everyday past tense again: the verb 'have', then the action. It's a fib: this morning he rejected her call."),
-    (3, None, "'It's non-stop at work today.' The French borrow the English 'non-stop', and use their casual word for 'work'."),
-    (4, None, "'Still no news?' The middle word means 'no' or 'not a single', before a noun."),
-    (5, None, "'Oh, yes! I had Miranda Jones on the phone.' That first little word is a special 'yes', used to contradict a negative question. Miranda Jones is the American producer."),
-    (6, None, "'Tell me everything.' A casual command, with the word for 'me' stuck on after a hyphen."),
-    (7, None, "'I never lie to you, Cécile.' The negative wraps around the verb again, but this time the second word means 'never'. The audience knows it's a lie. Then he invents a long story about the Wild West, where women died young."),
-    (8, None, "'They thought it would be better with a man.' His tale is that the film people now want a man for the part. The words for 'it would be' are a polite, hypothetical form."),
-    (9, None, "'A man?' She repeats it, staring at him."),
-    (10, None, "'I know, it's crazy!' He pretends to be as shocked as she is."),
-    (11, None, "'It has nothing to do with me?' Literally 'that has nothing to see with me'. She's giving him one last chance."),
-    (12, None, "'Not at all!' A strong, useful way to say no."),
-    (13, None, "'She said you were fantastic.' The second verb is in the past form French uses for descriptions, 'you were'."),
-    (14, None, "'I know you're disappointed, but we'll bounce back.' The word for 'disappointed' ends with an extra letter because Cécile is a woman. And 'we're going to', plus a verb, is the easy way to talk about the future."),
-    (15, None, "'Do you know how much I wanted this part?' Another descriptive past form, for a wish that lasted a long time. Then she gets up."),
+    (2, "J'ai essayé de t'appeler.", "'I tried to call you.' The everyday past tense again: the verb 'have', then the action. It's a fib: this morning he rejected her call."),
+    (2, "C'est non-stop au boulot aujourd'hui.", "'It's non-stop at work today.' The French borrow the English 'non-stop', and use their casual word for 'work'."),
+    (3, None, "'Still no news?' The middle word means 'no' or 'not a single', before a noun."),
+    (4, None, "'Oh, yes! I had Miranda Jones on the phone.' That first little word is a special 'yes', used to contradict a negative question. Miranda Jones is the American producer."),
+    (5, None, "'Tell me everything.' A casual command, with the word for 'me' stuck on after a hyphen."),
+    (6, None, "'I never lie to you, Cécile.' The negative wraps around the verb again, but this time the second word means 'never'. The audience knows it's a lie. Then he invents a long story about the Wild West, where women died young."),
+    (7, None, "'They thought it would be better with a man.' His tale is that the film people now want a man for the part. The words for 'it would be' are a polite, hypothetical form."),
+    (8, None, "'A man?' She repeats it, staring at him."),
+    (9, None, "'I know, it's crazy!' He pretends to be as shocked as she is."),
+    (10, None, "'It has nothing to do with me?' Literally 'that has nothing to see with me'. She's giving him one last chance."),
+    (11, 'Pas du tout!', "'Not at all!' A strong, useful way to say no."),
+    (11, 'Elle a dit que tu étais fantastique.', "'She said you were fantastic.' The second verb is in the past form French uses for descriptions, 'you were'."),
+    (12, None, "'I know you're disappointed, but we'll bounce back.' The word for 'disappointed' ends with an extra letter because Cécile is a woman. And 'we're going to', plus a verb, is the easy way to talk about the future."),
+    (13, None, "'Do you know how much I wanted this part?' Another descriptive past form, for a wish that lasted a long time. Then she gets up."),
     (16, None, "'You are a liar! It is because of my age, right?' Almost the same question Mathias asked Camille earlier, in a very different mood."),
-    (17, None, "'I'm changing agents.' Short and final."),
-    (18, None, "'You're a liar and a coward.' Two hard words, but no swearing: Cécile doesn't need it."),
-    (19, None, "'I know it's because of my age.' So she knew all along."),
-    (20, None, "'Why give you ten percent if you don't stand up for me?' Ten percent is what an agent earns, and it's the name of the show. And with that, Cécile walks out of the restaurant. Now the whole scene once more, straight through. Let's listen to the whole scene once more without interruption."),
+    (15, None, "'I'm changing agents.' Short and final."),
+    (17, None, "'You're a liar and a coward.' Two hard words, but no swearing: Cécile doesn't need it."),
+    (17, None, "'I know it's because of my age.' So she knew all along."),
+    (17, None, "'Why give you ten percent if you don't stand up for me?' Ten percent is what an agent earns, and it's the name of the show. And with that, Cécile walks out of the restaurant. Now the whole scene once more, straight through. Let's listen to the whole scene once more without interruption."),
 ]

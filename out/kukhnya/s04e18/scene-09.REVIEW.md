@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Катя | Может, мы уже работать начнём? | Maybe we will start working already? | #91 00:06:59: Может, работать начнём | adapted: adapted |
-| 2 | Катя | Да, сейчас мы уже начнём. | Yes, we will start right now. | #91 00:06:59: Сейчас начнём | adapted: adapted |
-| 3 | Катя | Я сказала вам быстро работать! | I told you to work quickly! | #94 00:07:09: Я сказала работать | adapted: adapted |
-| 4 | Денис | Катюша, ну не нервничай так. | Katyusha, come on, do not be so nervous. | #96 00:07:13: Катюш, не нервничайся, Катюш | adapted: adapted |
-| 5 | Катя | Денис, слушай, мы сейчас на работе. | Denis, listen, we are at work right now. | #97 00:07:15: Слушай, ну мы на работе | adapted: adapted |
-| 6 | Катя | Федя, ну не нервничай ты так. | Fedya, come on, do not be so nervous. | #98 00:07:17: не нервничайся | adapted: adapted |
-| 7 | Денис | Зачем ты сейчас это делаешь? | Why are you doing this right now? | #101 00:07:27: Что творишь | adapted: adapted |
-| 8 | Денис | Катюша, прошу тебя, просто успокойся. | Katyusha, I beg you, just calm down. | #102 00:07:29: Катюш, успокойся | adapted: adapted |
-| 9 | Катя | Не называй ты меня тут Катюшей! | Do not call me Katyusha in here! | #102 00:07:29: Да не называй ты меня Катюшей | adapted: adapted |
-| 10 | Катя | Перестань вести себя как тряпка. | Stop behaving like a pushover. | #102 00:07:29: перестань вести себя, как тряпка | adapted: adapted |
-| 11 | Катя | Мне такие мальчики совсем не нравятся. | I do not like boys like that at all. | #103 00:07:33: Я с такими мальчиками перестала встречаться | adapted: adapted |
+| 1 | Катя | Может, мы уже работать начнём? | Maybe we will start working already? | #91: Может, работать начнём | adapted: adapted |
+| 2 | Сеня | Да, сейчас мы уже начнём. | Yes, we will start right now. | #91: Сейчас начнём | adapted: adapted |
+| 3 | Катя | Я сказала вам быстро работать! | I told you to work quickly! | #94: Я сказала работать | adapted: adapted |
+| 4 | Денис | Катюша, ну не нервничай так. | Katyusha, come on, do not be so nervous. | #96: Катюш, не нервничайся, Катюш | adapted: adapted |
+| 5 | Катя | Денис, слушай, мы сейчас на работе. | Denis, listen, we are at work right now. | #97: Слушай, ну мы на работе | adapted: adapted |
+| 6 | Сеня | Федя, ну не нервничай ты так. | Fedya, come on, do not be so nervous. | #98: не нервничайся | adapted: adapted |
+| 7 | Денис | Зачем ты сейчас это делаешь? | Why are you doing this right now? | #101: Что творишь | adapted: adapted |
+| 8 | Денис | Катюша, прошу тебя, просто успокойся. | Katyusha, I beg you, just calm down. | #102: Катюш, успокойся | adapted: adapted |
+| 9 | Катя | Не называй ты меня тут Катюшей! | Do not call me Katyusha in here! | #102: Да не называй ты меня Катюшей | adapted: adapted |
+| 10 | Катя | Перестань вести себя как тряпка. | Stop behaving like a pushover. | #102: перестань вести себя, как тряпка | adapted: adapted |
+| 11 | Катя | Мне такие мальчики совсем не нравятся. | I do not like boys like that at all. | #103: Я с такими мальчиками перестала встречаться | adapted: adapted |
 | 12 | Денис | Я же просто хотел тебе помочь. | I just wanted to help you. | new | new: new |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Maybe we will start working already?' Katya interrupts the pranksters with a modal word and a first-person plural future verb.
-- 'Yes, we will start right now.' Here Senya anchors the thought on 'right now' and finishes on 'let us begin', keeping the spoken rhythm brisk and natural.
-- 'I told you to work quickly!' In everyday Russian, 'told' flows straight into 'to work' without extra linking words.
-- 'Katyusha, come on, do not be so nervous.' Putting the short word for 'not' right in front of the action word is all Russian needs to make a sentence negative, with no extra helper words like 'do' or 'did'.
-- 'Denis, listen, we are at work right now.' Notice how Russian puts 'listen' and 'work' together in a short, direct phrase where word endings show how the ideas connect.
-- 'Fedya, come on, do not be so nervous.' Senya mocks Denis's gentle tone by repeating the exact same phrase to his partner Fedya.
-- 'Why are you doing this right now?' After Katya retaliates against Senya's prank, Denis asks a startled question in the present tense.
-- 'Katyusha, I beg you, just calm down.' Denis pairs 'katyusha' with 'calm down' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
-- 'Do not call me Katyusha in here!' Notice how Russian puts 'to call; to name' and 'katyusha' together in a short, direct phrase where word endings show how the ideas connect.
-- 'Stop behaving like a pushover.' Literally meaning rag, the feminine noun is used idiomatically for a weak-willed person or doormat.
-- 'I do not like boys like that at all.' In everyday Russian, 'such' flows straight into 'are pleasing' without extra linking words.
-- 'I just wanted to help you.' Denis pairs 'simply, just' with 'to help' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
+- 'Maybe we will start working already?' Questioning whether maybe they will start working already is how Katya tests Denis's story. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Yes, we will start right now.' Saying that they will start right now is how Senya sets the tone with Denis.
+- 'I told you to work quickly!' Saying that she told Denis to work quickly is how Katya takes charge of the moment. Notice how she sticks to the formal "you", keeping a professional line between them.
+- 'Katyusha, come on, do not be so nervous.' Explaining that someone come on do not be so nervous lays the cards on the table for Katya.
+- 'Denis, listen, we are at work right now.' Katya mentions that they are at work right now so Denis sees what is at stake.
+- 'Fedya, come on, do not be so nervous.' Here coming on do not be so nervous sets up the next turn in their exchange. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Why are you doing this right now?' Asking why Katya doing this right now is cuts straight through the tension between Denis and Katya. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Katyusha, I beg you, just calm down.' Denis explains that someone he begs Katya just calm down, keeping his voice calm and direct.
+- 'Do not call me Katyusha in here!' Katya insists that do not call her in here, leaving Denis no room to argue. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Stop behaving like a pushover.' Claiming that Denis should stop behaving like a pushover sounds confident, even if Denis has doubts.
+- 'I do not like boys like that at all.' Explaining that she does not like boys like that at all lays the cards on the table for Denis.
+- 'I just wanted to help you.' Admitting that he just wanted to help Katya shows Denis being honest for a change. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.

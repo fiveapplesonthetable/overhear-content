@@ -7,8 +7,7 @@ SCENE = 27
 TITLE = "La proposition d'Hicham  (Hicham's Offer)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'hicham': 'marcel', 'lea': 'lucie'}
-LABELS = {'hicham': 'Hicham', 'lea': 'Andréa'}
+LABELS = {'andrea': 'Andréa', 'hicham': 'Hicham'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e06.fr.dual.srt'
 INTRO = "Late in the evening at the ASK offices, Andrea and Hicham reflect upon Mathias's abrupt departure. Acknowledging his personal priorities, Hicham reveals he is moving to London and makes Andrea a life-changing offer. Let's listen to their conversation in French first."
@@ -17,19 +16,19 @@ TRANSITION = "Now let's listen to the complete discussion once more to reinforce
 OUTRO = "Andrea stands in the darkened office, overwhelmed by the prospect of taking full command of ASK. When you watch the episode, listen out for the expressions meaning 'will be' and 'strange'. You'll catch them now. See you next time!"
 CLOSING = ('hicham', 'Au revoir!')
 STORY = [
-    ('lea', 'Ce sera bizarre sans Mathias.', 'It will be strange without Mathias.', [(1314, 'sans Mathias')], ''),
-    ('lea', "Il m'a fait de la peine.", 'I felt sorry for him.', [(1315, 'de la peine')], ''),
+    ('andrea', 'Ce sera bizarre sans Mathias.', 'It will be strange without Mathias.', [(1314, 'sans Mathias')], ''),
+    ('andrea', "Il m'a fait de la peine.", 'I felt sorry for him.', [(1315, 'de la peine')], ''),
     ('hicham', 'Pour un peu, il nous manquerait.', 'Almost makes you miss him.', [(1317, 'il nous manquerait')], ''),
     ('hicham', 'Bon, je vais partir maintenant.', 'Well, I am heading out now.', [(1318, "Bon, j'y vais")], ''),
     ('hicham', 'Tu pourras fermer la boutique?', 'Can you lock up the shop?', [(1319, 'fermer la boutique')], ''),
-    ('lea', 'Pas de problème pour ça.', 'No problem with that.', [(1320, 'Pas de problème')], ''),
+    ('andrea', 'Pas de problème pour ça.', 'No problem with that.', [(1320, 'Pas de problème')], ''),
     ('hicham', 'Tu pourrais diriger la boutique.', 'You could run the shop.', [(1321, 'de la boutique')], ''),
     ('hicham', 'Je pars vivre à Londres.', 'I am moving to London.', [(1322, 'à Londres')], ''),
     ('hicham', 'Mon fils a besoin de moi.', 'My son needs me.', [(1323, 'besoin de moi')], ''),
     ('hicham', "J'ai besoin de quelqu'un de confiance.", 'I need someone trustworthy.', [(1324, "quelqu'un de confiance")], ''),
     ('hicham', 'Je cherche une nouvelle directrice.', 'I am looking for a new director.', [(1325, 'Un DG')], ''),
     ('hicham', "Le poste de directrice t'intéresse?", 'Does the director post interest you?', [(1326, "Ça t'intéresse")], ''),
-    ('lea', "C'est une offre incroyable, Hicham.", 'That is an incredible offer, Hicham.', [(1326, "Ça t'intéresse")], ''),
+    ('andrea', "C'est une offre incroyable, Hicham.", 'That is an incredible offer, Hicham.', [(1326, "Ça t'intéresse")], ''),
     ('hicham', 'Réfléchis bien à cette opportunité.', 'Think carefully about this opportunity.', [(1326, "Ça t'intéresse")], ''),
 ]
 WALK = [

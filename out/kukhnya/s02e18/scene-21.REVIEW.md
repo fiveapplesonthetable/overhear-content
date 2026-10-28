@@ -10,32 +10,32 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Сейчас тебе позвонит наш Агузок с претензиями. | Any minute now our Oguzok is going to call you with complaints. | #351 00:21:38: Сейчас тебе позвонит наш Агузок с претензиями | verbatim |
-| 2 | Шеф | Считайте, он уже в пути. | Consider him already on his way. | #355 00:21:47: Считайте, он уже в пути | verbatim |
-| 3 | Сеня | Шеф, а вы куда? | Chef, where are you going? | #357 00:21:55: Шеф, а вы куда | verbatim |
-| 4 | Аня | Будет максимум полтора человек. | There will be at most one and a half people. | #358 00:21:58: Будет максимум полтора человек | verbatim |
-| 5 | Шеф | Че-то я одного понять не могу. | There is just one thing I cannot figure out. | #367 00:22:27: Че-то я одного понять не могу | verbatim |
-| 6 | Сеня | Че, проверка такая сложная была? | Why, was the test really that difficult? | #368 00:22:28: Че, проверка такая сложная была | verbatim |
-| 7 | Аня | Теперь я за тебя спокоен. | Now my mind is at ease about you. | #371 00:22:40: Теперь я за тебя спокоен | verbatim |
-| 8 | Шеф | Только я так не хочу. | Only I do not want it that way. | #375 00:22:53: Только я так не хочу | verbatim |
-| 9 | Сеня | Потом, когда Лёва того шефом станет. | Later on, when Lyova becomes head chef himself. | #377 00:23:00: Потом, когда Лёва того шефом станет | verbatim |
-| 10 | Аня | Ты прошёл и вторую проверку. | You passed the second test as well. | #378 00:23:07: Ты прошёл и вторую проверку | verbatim |
-| 11 | Шеф | Сегодня идешь с нами в баню. | Tonight you are coming with us to the bathhouse. | #379 00:23:14: Сегодня идешь с нами в баню | verbatim |
-| 12 | Сеня | Конечно, после того, когда Лёва того. | Of course, after Lyova moves up. | #385 00:23:40: Конечно, после того, когда Лёва того | verbatim |
-| 13 | Аня | Я не смог выполнить твою просьбу. | I could not bring myself to fulfill your request. | #387 00:23:52: Я не смог выполнить твою просьбу | verbatim |
+| 1 | Макс | Сейчас тебе позвонит наш Агузок с претензиями. | Any minute now our Oguzok is going to call you with complaints. | #351: Сейчас тебе позвонит наш Агузок с претензиями | verbatim |
+| 2 | Шеф | Считайте, он уже в пути. | Consider him already on his way. | #355: Считайте, он уже в пути | verbatim |
+| 3 | Сеня | Шеф, а вы куда? | Chef, where are you going? | #357: Шеф, а вы куда | verbatim |
+| 4 | Макс | Будет максимум полтора человек. | There will be at most one and a half people. | #358: Будет максимум полтора человек | verbatim |
+| 5 | Шеф | Че-то я одного понять не могу. | There is just one thing I cannot figure out. | #367: Че-то я одного понять не могу | verbatim |
+| 6 | Сеня | Че, проверка такая сложная была? | Why, was the test really that difficult? | #368: Че, проверка такая сложная была | verbatim |
+| 7 | Макс | Теперь я за тебя спокоен. | Now my mind is at ease about you. | #371: Теперь я за тебя спокоен | verbatim |
+| 8 | Шеф | Только я так не хочу. | Only I do not want it that way. | #375: Только я так не хочу | verbatim |
+| 9 | Сеня | Потом, когда Лёва того шефом станет. | Later on, when Lyova becomes head chef himself. | #377: Потом, когда Лёва того шефом станет | verbatim |
+| 10 | Макс | Ты прошёл и вторую проверку. | You passed the second test as well. | #378: Ты прошёл и вторую проверку | verbatim |
+| 11 | Шеф | Сегодня идешь с нами в баню. | Tonight you are coming with us to the bathhouse. | #379: Сегодня идешь с нами в баню | verbatim |
+| 12 | Сеня | Конечно, после того, когда Лёва того. | Of course, after Lyova moves up. | #385: Конечно, после того, когда Лёва того | verbatim |
+| 13 | Макс | Я не смог выполнить твою просьбу. | I could not bring myself to fulfill your request. | #387: Я не смог выполнить твою просьбу | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Any minute now our Oguzok is going to call you with complaints.' Notice how Russian expresses 'any minute' and 'complaint' with crisp inflection rather than helper words. Chef Viktor answers right away.
-- 'Consider him already on his way.' Notice how Russian expresses 'to consider' and 'journey' with crisp inflection rather than helper words.
-- 'Chef, where are you going?' Senya anchors the line on 'chef', while 'where to' completes the thought.
-- 'There will be at most one and a half people.' In Russian, the idea of 'will' flows naturally into 'man' without extra filler words. Chef Viktor answers right away.
-- 'There is just one thing I cannot figure out.' The meaning hinges on 'what' working together with 'can' in spoken Russian.
-- 'Why, was the test really that difficult?' Notice how Russian expresses 'what' and 'was' with crisp inflection rather than helper words.
-- 'Now my mind is at ease about you.' Max addresses the listener with the informal singular 'you' alongside 'calm'. Chef Viktor answers right away.
-- 'Only I do not want it that way.' The grammar packs 'only' and 'want' into a tight, idiomatic kitchen exchange.
-- 'Later on, when Lyova becomes head chef himself.' The meaning hinges on 'later' working together with 'will become' in spoken Russian.
-- 'You passed the second test as well.' Here Max anchors the thought on 'passed' and finishes on 'inspection', keeping the spoken rhythm brisk and natural.
-- 'Tonight you are coming with us to the bathhouse.' Chef Viktor anchors the line on 'today', while 'bathhouse' completes the thought.
-- 'Of course, after Lyova moves up.' In Russian, the idea of 'of course' flows naturally into 'Lyova' without extra filler words.
-- 'I could not bring myself to fulfill your request.' Spoken Russian keeps this brisk, leaning on 'I' and finishing on 'request'.
+- 'Any minute now our Oguzok is going to call you with complaints.' Max explains that any minute now their Oguzok is going to call Barinov with complaints, keeping his voice calm and direct. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Consider him already on his way.' Around the point and test, Barinov sets a calm, everyday tone with Max.
+- 'Chef, where are you going?' Asking where Barinov going is cuts straight through the tension between Senya and Barinov. Notice how he sticks to the formal "you", keeping a professional line between them.
+- 'There will be at most one and a half people.' Even though there will be at most one and a half people, Max keeps a steady face in front of Barinov.
+- 'There is just one thing I cannot figure out.' Admitting that there is just one thing he cannot figure out shows Barinov being honest for a change.
+- 'Why, was the test really that difficult?' By asking why the test really that difficult was, Senya presses Barinov for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Now my mind is at ease about you.' Once his mind is at ease about Barinov, Max can finally tell Barinov what he means. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Only I do not want it that way.' Adding that only he does not want it that way fills in the missing piece for Max.
+- 'Later on, when Lyova becomes head chef himself.' Senya tells Barinov that later on when Lyova becomes head himself without dressing it up.
+- 'You passed the second test as well.' Around the truth and test, Max sets a calm, everyday tone with Barinov. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Tonight you are coming with us to the bathhouse.' Mentioning that tonight Max is coming with them to the bathhouse moves the talk in a new direction.
+- 'Of course, after Lyova moves up.' Senya reminds Barinov that after Lyova moves up before the moment passes.
+- 'I could not bring myself to fulfill your request.' Because he could not bring himself to fulfill Barinov's request, Max treats the matter as settled.

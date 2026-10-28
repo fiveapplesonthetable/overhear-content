@@ -7,7 +7,6 @@ SCENE = 12
 TITLE = "La gaine d'Audrey  (Audrey's Girdle)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'audrey': 'emilie', 'mathias': 'marcel'}
 LABELS = {'audrey': 'Audrey', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e04.fr.dual.srt'
@@ -38,7 +37,7 @@ WALK = [
     (1, None, "'I didn't have children just to leave them with a stranger!' Literally 'I did not make children for to leave them to an unknown woman'."),
     (2, None, "'And your husband?' A quick two-word question using the masculine word for 'your'."),
     (3, None, "'He's filming a documentary about landless farmers in Honduras.' Literally 'peasants without land'. So her partner is on the other side of the world."),
-    (4, None, "'Are you losing your voice?' Audrey is speaking in a tiny, breathless whisper."),
+    (4, None, "'Are you losing your voice?' Meanwhile, Audrey is speaking in a tiny, breathless whisper."),
     (5, None, "'No, I still have a bit of a tummy.' Her baby is only a few months old."),
     (6, None, "'So I'm wearing a girdle.' The verb means 'wear' as well as 'carry'."),
     (7, None, "'But it's very tight! I can hardly breathe.' The adjective for 'tight' is feminine to match 'girdle', and the word for 'almost' sits inside the negative."),

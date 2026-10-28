@@ -4,18 +4,17 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 2
 SCENE = 23
-TITLE = "Спрячь нож  (Hide the Knife)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Спрячь нож  (Hide the Knife)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "ainura": "angelina", "jindi": "anja"}
-LABELS = {"ainura": "Айнура", "jindi": "Джинди"}
+LABELS = {'ainura': 'Айнура', 'jindi': 'Джинди'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.02'
 SOURCE_FILE = 'sources/kukhnya/s01/e02.ru.dual.srt'
 INTRO = "In the dishwashing corner of the kitchen, cleaner Ainura catches Jindi holding Chef Barinov's missing knife. Terrified of the chef's explosive anger, she urgently orders him to conceal the blade before anyone notices. Let's listen to their conversation in Russian first."
 OPENER = "Now let's examine Ainura and Jindi's tense kitchen exchange line by line."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Ainura makes sure the knife is hidden from immediate sight, while Barinov continues hunting across the entire restaurant. Next time you watch the episode, listen for the Russian expressions for 'faster' and 'to be' — you will catch every word right away. See you next time!"
-CLOSING = ("ainura", "Пока!")
+CLOSING = ('ainura', 'Пока!')
 STORY = [
     ('ainura', 'Ой, Джинди, скорее спрячь этот нож!', 'Oh, Jindi, hide this knife quickly!', [(245, 'Джинди, спрячь нож')], ''),
     ('jindi', 'Зачем мне прятать этот нож?', 'Why should I hide this knife?', [], ''),

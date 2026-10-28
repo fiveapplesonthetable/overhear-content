@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Нагиев | Ну, я понимаю, договориться нам не удастся. | Well, I understand we will not manage to reach an agreement. | #241 00:20:11: Ну, я понимаю, договориться нам не удастся | verbatim |
-| 2 | Кристина | При разделе имущества мы будем действовать по закону. | In dividing the property we will act according to the law. | #242 00:20:22: при разделе имущества мы будем действовать | adapted: adapted |
-| 3 | Нагиев | Ну, ладно. | Well, all right. | #244 00:20:29: Ну, ладно | verbatim |
-| 4 | Нагиев | Раз вы меня ограбить начали, давайте я вас обедом угощу. | Since you have started to rob me, let me treat you to lunch. | #245 00:20:31: вы меня ограбить начали, давайте я вас<br>#245 00:20:31: обедом угощу | adapted: adapted |
-| 5 | Нагиев | У нас молекулярная кухня. | We have molecular cuisine. | #246 00:20:37: У нас<br>#247 00:20:39: Молекулярная кухня | adapted: adapted |
-| 6 | Нагиев | Прелесть! Молекула к молекуле. | A delight! Molecule to molecule. | #248 00:20:41: Прелесть. Молекула к молекуле | verbatim |
-| 7 | Нагиев | Витя, как удачно! Можешь на секундочку? | Vitya, how well-timed! Can you spare a second? | #249 00:20:45: как удачно<br>#250 00:20:46: на секундочку | adapted: adapted |
-| 8 | Нагиев | Приготовь, пожалуйста, нам то блюдо с жемчужинами. | Please prepare for us that dish with the pearls. | #251 00:20:49: приготовь, пожалуйста, нам вот то блюдо с жемчужинами | adapted: adapted |
-| 9 | Нагиев | Вот, для наших гостей две порции. | Here, two portions for our guests. | #253 00:20:56: Вот, для наших гостей две порции | verbatim |
-| 10 | Нагиев | И секретного ингредиента не жалей. | And do not spare the secret ingredient. | #254 00:20:59: ингредиент секретного, не жалей | adapted: adapted |
-| 11 | Нагиев | В общем, как себе. | In short, just like for yourself. | #255 00:21:02: В общем, как себе | verbatim |
-| 12 | Нагиев | Ступай. | Off you go. | #256 00:21:05: Ступай | verbatim |
+| 1 | Нагиев | Ну, я понимаю, договориться нам не удастся. | Well, I understand we will not manage to reach an agreement. | #241: Ну, я понимаю, договориться нам не удастся | verbatim |
+| 2 | Кристина | При разделе имущества мы будем действовать по закону. | In dividing the property we will act according to the law. | #242: при разделе имущества мы будем действовать | adapted: adapted |
+| 3 | Нагиев | Ну, ладно. | Well, all right. | #244: Ну, ладно | verbatim |
+| 4 | Нагиев | Раз вы меня ограбить начали, давайте я вас обедом угощу. | Since you have started to rob me, let me treat you to lunch. | #245: вы меня ограбить начали, давайте я вас<br>#245: обедом угощу | adapted: adapted |
+| 5 | Нагиев | У нас молекулярная кухня. | We have molecular cuisine. | #246: У нас<br>#247: Молекулярная кухня | adapted: adapted |
+| 6 | Нагиев | Прелесть! Молекула к молекуле. | A delight! Molecule to molecule. | #248: Прелесть. Молекула к молекуле | verbatim |
+| 7 | Нагиев | Витя, как удачно! Можешь на секундочку? | Vitya, how well-timed! Can you spare a second? | #249: как удачно<br>#250: на секундочку | adapted: adapted |
+| 8 | Нагиев | Приготовь, пожалуйста, нам то блюдо с жемчужинами. | Please prepare for us that dish with the pearls. | #251: приготовь, пожалуйста, нам вот то блюдо с жемчужинами | adapted: adapted |
+| 9 | Нагиев | Вот, для наших гостей две порции. | Here, two portions for our guests. | #253: Вот, для наших гостей две порции | verbatim |
+| 10 | Нагиев | И секретного ингредиента не жалей. | And do not spare the secret ingredient. | #254: ингредиент секретного, не жалей | adapted: adapted |
+| 11 | Нагиев | В общем, как себе. | In short, just like for yourself. | #255: В общем, как себе | verbatim |
+| 12 | Нагиев | Ступай. | Off you go. | #256: Ступай | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, I understand we will not manage to reach an agreement.' In Russian, the idea of 'come on' flows naturally into 'will succeed' without extra filler words.
-- 'In dividing the property we will act according to the law.' The grammar packs 'in the presence of' and 'law' into a tight, idiomatic kitchen exchange. Dmitry Nagiyev answers right away.
-- 'Well, all right.' The meaning hinges on 'come on' working together with 'all right' in spoken Russian.
-- 'Since you have started to rob me, let me treat you to lunch.' Notice how Russian expresses 'time' and 'will treat' with crisp inflection rather than helper words.
-- 'We have molecular cuisine.' Notice how Russian expresses 'at' and 'cuisine' with crisp inflection rather than helper words.
-- 'A delight! Molecule to molecule.' Notice how Russian expresses 'charm' and 'molecule' with crisp inflection rather than helper words.
-- 'Vitya, how well-timed! Can you spare a second?' The meaning hinges on 'Vitya' working together with 'just a second' in spoken Russian.
-- 'Please prepare for us that dish with the pearls.' Dmitry Nagiyev brings out the contrast between 'prepare' and 'please' in a few short words.
-- 'Here, two portions for our guests.' Dmitry Nagiyev anchors the line on 'here', while 'portions' completes the thought.
-- 'And do not spare the secret ingredient.' In Russian, the idea of 'and' flows naturally into 'spare' without extra filler words.
-- 'In short, just like for yourself.' The meaning hinges on 'shared' working together with 'to oneself' in spoken Russian.
-- 'Off you go.' In Russian, the idea of 'go on' flows naturally into 'go on' without extra filler words.
+- 'Well, I understand we will not manage to reach an agreement.' Nagiyev reminds Kristina that he understands they will not manage to reach an agreement before the moment passes.
+- 'In dividing the property we will act according to the law.' Noting that in dividing the property they will act according to the law keeps Kristina's side of the story simple and clear.
+- 'Well, all right.' Over the dish and the restaurant, Nagiyev answers Kristina without a second thought.
+- 'Since you have started to rob me, let me treat you to lunch.' Admitting that since Kristina has started to rob him let him treat Kristina to lunch shows Nagiyev being honest for a change. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
+- 'We have molecular cuisine.' Saying that they have molecular cuisine is how Nagiyev sets the tone with Kristina. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
+- 'A delight! Molecule to molecule.' With the conversation and point at stake, Nagiyev reacts without holding back.
+- 'Vitya, how well-timed! Can you spare a second?' Checking whether Kristina spare a second cuts straight through the tension between Nagiyev and Kristina. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Please prepare for us that dish with the pearls.' Telling Kristina to prepare for them that dish with the pearls is how Nagiyev lays out the situation for Kristina.
+- 'Here, two portions for our guests.' With the restaurant and dish in play, Nagiyev keeps this short reply brisk and direct.
+- 'And do not spare the secret ingredient.' Mentioning that do not spare the secret ingredient moves the talk in a new direction.
+- 'In short, just like for yourself.' Between the restaurant and the shift, Nagiyev gives Kristina a quick, grounded response.
+- 'Off you go.' Because off Kristina goes, Nagiyev treats the matter as settled.

@@ -10,21 +10,21 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Привет, молодёжь! Почему вы не в школе? | Hi, kids! Why aren't you at school? | #83 00:05:29: молодежь | adapted: 'прогуливаем?' (skipping class?) simplified to 'Почему вы не в школе?' |
-| 2 | Славик | А у нас сегодня вторая смена. | We're on the afternoon shift today. | #85 00:05:33: у нас вторая смена | adapted: 'Ну, вообще-то' -> 'А'; 'сегодня' added |
-| 3 | Аня | Очень плохой кофе. Девочка, дай сахар, пожалуйста. | Very bad coffee. Girl, pass me the sugar, please. | #86 00:05:36: Очень плохой кофе<br>#87 00:05:37: Девочка, дай сахар, пожалуйста | verbatim |
-| 4 | Юля | Меня вообще-то Юля зовут. Вот сахар. | My name is actually Yulia. Here's the sugar. | #88 00:05:42: Меня вообще-то Юля зовут | adapted: 'Вот сахар' added |
-| 5 | Аня | Спасибо, девочка. | Thank you, girl. | #89 00:05:44: Спасибо, девочка | verbatim |
-| 6 | Славик | Кто это у вас в телефоне? Это же мой телефон был! | Who is that on your phone? Hey, that used to be my phone! | #90 00:05:46: Кто это<br>#91 00:05:48: телефона<br>#92 00:05:50: это вообще мой телефон был | adapted: slang 'фотки попер' and 'отжали' (91, 93) left out |
-| 7 | Аня | Ладно, не плачь. Это Лёля. Нравится? | All right, don't cry. That's Lyolya. Do you like her? | #94 00:05:55: Ладно, не<br>#96 00:05:58: Нравится | adapted: 'не ной' -> 'не плачь'; cue 95 garbles 'Лёля' as 'Юля' |
-| 8 | Славик | Красивая. Но это же не ваша жена! Я вашу жену видел. | She's pretty. But that's not your wife! I've seen your wife. | #98 00:06:00: это же не ваша жена<br>#99 00:06:02: Я вашу жену видел | adapted: 'Ну, ничего такая' -> 'Красивая' |
-| 9 | Аня | У мужчины, мальчик, бывает не только жена. Это моя девушка. | A man, my boy, can have more than just a wife. She's my girlfriend. | #100 00:06:04: У мужчины, мальчик, бывает не только | adapted: cue 100 'жены' normalised to singular 'жена'; 'любовница' (101) -> 'Это моя девушка' |
-| 10 | Славик | А как вы с ней познакомились? | And how did you meet her? | #102 00:06:10: А как вы с ней познакомились | verbatim |
-| 11 | Аня | Это она со мной познакомилась! Ходила вокруг меня, как акула. | She was the one who met me! She circled around me like a shark. | #103 00:06:12: Это она со мной познакомилась<br>#104 00:06:16: вокруг меня<br>#104 00:06:16: как акула | adapted: 'Нарезала ... круги' -> 'Ходила' |
-| 12 | Аня | Очень плохая сосиска. | Very bad sausage. | #105 00:06:19: Очень плохая сосиска | verbatim |
-| 13 | Славик | Вот мне бы так! | I wish I had a girl like that! | #106 00:06:22: Вот мне бы так | verbatim |
-| 14 | Аня | Малыш, какие твои годы? Будет и у тебя такая. | Kid, you've got plenty of time! You'll have one like her too. | #107 00:06:23: малыш, какие твои годы<br>#108 00:06:25: Будет и у тебя такая | verbatim |
-| 15 | Аня | Ладно, сиди, ешь и молчи. | All right, sit there, eat and be quiet. | #114 00:06:36: ешь<br>#115 00:06:37: Молчи | adapted: clean ending from cues 114-115 |
+| 1 | Аркадий | Привет, молодёжь! Почему вы не в школе? | Hi, kids! Why aren't you at school? | #83: молодежь | adapted: 'прогуливаем?' (skipping class?) simplified to 'Почему вы не в школе?' |
+| 2 | Славик | А у нас сегодня вторая смена. | We're on the afternoon shift today. | #85: у нас вторая смена | adapted: 'Ну, вообще-то' -> 'А'; 'сегодня' added |
+| 3 | Аркадий | Очень плохой кофе. Девочка, дай сахар, пожалуйста. | Very bad coffee. Girl, pass me the sugar, please. | #86: Очень плохой кофе<br>#87: Девочка, дай сахар, пожалуйста | verbatim |
+| 4 | Юля | Меня вообще-то Юля зовут. Вот сахар. | My name is actually Yulia. Here's the sugar. | #88: Меня вообще-то Юля зовут | adapted: 'Вот сахар' added |
+| 5 | Аркадий | Спасибо, девочка. | Thank you, girl. | #89: Спасибо, девочка | verbatim |
+| 6 | Славик | Кто это у вас в телефоне? Это же мой телефон был! | Who is that on your phone? Hey, that used to be my phone! | #90: Кто это<br>#91: телефона<br>#92: это вообще мой телефон был | adapted: slang 'фотки попер' and 'отжали' (91, 93) left out |
+| 7 | Аркадий | Ладно, не плачь. Это Лёля. Нравится? | All right, don't cry. That's Lyolya. Do you like her? | #94: Ладно, не<br>#96: Нравится | adapted: 'не ной' -> 'не плачь'; cue 95 garbles 'Лёля' as 'Юля' |
+| 8 | Славик | Красивая. Но это же не ваша жена! Я вашу жену видел. | She's pretty. But that's not your wife! I've seen your wife. | #98: это же не ваша жена<br>#99: Я вашу жену видел | adapted: 'Ну, ничего такая' -> 'Красивая' |
+| 9 | Аркадий | У мужчины, мальчик, бывает не только жена. Это моя девушка. | A man, my boy, can have more than just a wife. She's my girlfriend. | #100: У мужчины, мальчик, бывает не только | adapted: cue 100 'жены' normalised to singular 'жена'; 'любовница' (101) -> 'Это моя девушка' |
+| 10 | Славик | А как вы с ней познакомились? | And how did you meet her? | #102: А как вы с ней познакомились | verbatim |
+| 11 | Аркадий | Это она со мной познакомилась! Ходила вокруг меня, как акула. | She was the one who met me! She circled around me like a shark. | #103: Это она со мной познакомилась<br>#104: вокруг меня<br>#104: как акула | adapted: 'Нарезала ... круги' -> 'Ходила' |
+| 12 | Аркадий | Очень плохая сосиска. | Very bad sausage. | #105: Очень плохая сосиска | verbatim |
+| 13 | Славик | Вот мне бы так! | I wish I had a girl like that! | #106: Вот мне бы так | verbatim |
+| 14 | Аркадий | Малыш, какие твои годы? Будет и у тебя такая. | Kid, you've got plenty of time! You'll have one like her too. | #107: малыш, какие твои годы<br>#108: Будет и у тебя такая | verbatim |
+| 15 | Аркадий | Ладно, сиди, ешь и молчи. | All right, sit there, eat and be quiet. | #114: ешь<br>#115: Молчи | adapted: clean ending from cues 114-115 |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Настя | Я держалась. | I held back. | #171 00:11:21: Я держалась | adapted: adapted |
-| 2 | Настя | Но я больше не могу. | But I cannot anymore. | #173 00:11:26: Но я больше не могу | adapted: adapted |
-| 3 | Настя | Чего? | What? | #174 00:11:28: Чего | adapted: adapted |
-| 4 | Настя | Ты не поверишь. | You will not believe it. | #174 00:11:28: Ты не поверишь | adapted: adapted |
-| 5 | Настя | Вот поэтому вы и расстались. | That is why the two of you broke up. | #175 00:11:46: Вот поэтому вы и расстались | adapted: adapted |
-| 6 | Настя | Странно, а ты откуда всё это знаешь? | Strange, and how do you know all this? | #176 00:11:49: Странно<br>#177 00:11:51: А ты откуда все это знаешь | adapted: adapted |
-| 7 | Настя | Мне Костик рассказал. | Kostik told me. | #178 00:11:52: Мне Костик рассказал | adapted: adapted |
-| 8 | Настя | А Костя вообще врать не умеет. | And Kostya does not know how to lie at all. | #178 00:11:52: А Костя вообще врать не умеет | adapted: adapted |
-| 9 | Настя | Ты отказалась выйти замуж за Дэна. | You refused to marry Den. | #179 00:11:55: Ты отказалась выйти замуж за Дэна | adapted: adapted |
-| 10 | Настя | Вот поэтому он решил с тобой расстаться. | That is why he decided to break up with you. | #180 00:11:58: Вот поэтому он решил с тобой расстаться | adapted: adapted |
-| 11 | Настя | Ему нужна мама для его дочки. | He needs a mother for his daughter. | #181 00:12:00: а мама для его дочки | adapted: adapted |
-| 12 | Настя | Он хотел в чём-то мне признаться. | He wanted to confess something to me. | #182 00:12:05: хотел с чем-то мне признаться | adapted: adapted |
+| 1 | Настя | Я держалась. | I held back. | #171: Я держалась | adapted: adapted |
+| 2 | Настя | Но я больше не могу. | But I cannot anymore. | #173: Но я больше не могу | adapted: adapted |
+| 3 | Катя | Чего? | What? | #174: Чего | adapted: adapted |
+| 4 | Настя | Ты не поверишь. | You will not believe it. | #174: Ты не поверишь | adapted: adapted |
+| 5 | Настя | Вот поэтому вы и расстались. | That is why the two of you broke up. | #175: Вот поэтому вы и расстались | adapted: adapted |
+| 6 | Катя | Странно, а ты откуда всё это знаешь? | Strange, and how do you know all this? | #176: Странно<br>#177: А ты откуда все это знаешь | adapted: adapted |
+| 7 | Настя | Мне Костик рассказал. | Kostik told me. | #178: Мне Костик рассказал | adapted: adapted |
+| 8 | Настя | А Костя вообще врать не умеет. | And Kostya does not know how to lie at all. | #178: А Костя вообще врать не умеет | adapted: adapted |
+| 9 | Настя | Ты отказалась выйти замуж за Дэна. | You refused to marry Den. | #179: Ты отказалась выйти замуж за Дэна | adapted: adapted |
+| 10 | Настя | Вот поэтому он решил с тобой расстаться. | That is why he decided to break up with you. | #180: Вот поэтому он решил с тобой расстаться | adapted: adapted |
+| 11 | Настя | Ему нужна мама для его дочки. | He needs a mother for his daughter. | #181: а мама для его дочки | adapted: adapted |
+| 12 | Катя | Он хотел в чём-то мне признаться. | He wanted to confess something to me. | #182: хотел с чем-то мне признаться | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I held back.' The '-a' ending on the past-tense verb for 'held back' marks a female speaker or subject.
-- 'But I cannot anymore.' The meaning hinges on 'but' working together with 'can' in spoken Russian.
-- 'What?' Katya raises the pitch on 'what' to turn the phrase into a direct spoken question. Nastya answers right away.
-- 'You will not believe it.' The meaning hinges on 'you' working together with 'will believe' in spoken Russian.
-- 'That is why the two of you broke up.' In Russian, the idea of 'here' flows naturally into 'broke up' without extra filler words.
-- 'Strange, and how do you know all this?' The meaning hinges on 'strangely' working together with 'know' in spoken Russian. Nastya answers right away.
-- 'Kostik told me.' Nastya anchors the line on 'to me', while 'told' completes the thought.
-- 'And Kostya does not know how to lie at all.' Notice how Russian puts 'at all, even' and 'knows how to' together in a short, direct phrase where word endings show how the ideas connect.
-- 'You refused to marry Den.' Here Nastya anchors the thought on 'refused' and finishes on 'married', keeping the spoken rhythm brisk and natural.
-- 'That is why he decided to break up with you.' The meaning hinges on 'here' working together with 'to break up' in spoken Russian.
-- 'He needs a mother for his daughter.' Nastya brings out the contrast between 'to him' and 'needed' in a few short words.
-- 'He wanted to confess something to me.' The meaning hinges on 'he' working together with 'to confess' in spoken Russian.
+- 'I held back.' Pointing out that she held back gives Katya a sobering reality check.
+- 'But I cannot anymore.' Nastya explains that she cannot anymore, keeping her voice calm and direct.
+- 'What?' With the point and secret hanging in the air, Katya puts Nastya on the spot. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'You will not believe it.' Noting that Katya will not believe it keeps Nastya's side of the story simple and clear.
+- 'That is why the two of you broke up.' Even though that is why the two of Katya broke up, Nastya keeps a steady face in front of Katya. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.
+- 'Strange, and how do you know all this?' Wondering if strange and how do Nastya knows all this shows Katya caught off guard. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Kostik told me.' Between the moment and the secret, Nastya gives Katya a quick, grounded response.
+- 'And Kostya does not know how to lie at all.' Once Kostya does not know how to lie at all, Nastya can finally tell Katya what she means.
+- 'You refused to marry Den.' Between the conversation and the story, Nastya gives Katya a quick, grounded response. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'That is why he decided to break up with you.' Explaining that that is why he decided to break up with Katya lays the cards on the table for Katya.
+- 'He needs a mother for his daughter.' Since he needs a mother for his daughter, Nastya does not waste words on excuses.
+- 'He wanted to confess something to me.' Mentioning that he wanted to confess something moves the talk in a new direction.

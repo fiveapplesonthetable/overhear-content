@@ -8,12 +8,8 @@
  "scene": 9,
  "title": "Звонок ресторатору  (Call to the Restaurateur)",
  "level": "A1 — Duolingo Section 2",
- "voices": {
-  "narrator": "sky",
-  "guest": "anja",
-  "lyova": "angelina"
- },
  "labels": {
+  "barinov": "Шеф",
   "guest": "Гость",
   "lyova": "Лёва"
  },
@@ -24,7 +20,7 @@
    "gap": 0.8
   },
   {
-   "v": "guest",
+   "v": "barinov",
    "t": "Здравствуйте, меня зовут шеф Виктор Баринов.",
    "gap": 0.55
   },
@@ -34,7 +30,7 @@
    "gap": 0.55
   },
   {
-   "v": "guest",
+   "v": "barinov",
    "t": "Я хотел поговорить о нашем су-шефе.",
    "gap": 0.55
   },
@@ -44,7 +40,7 @@
    "gap": 0.55
   },
   {
-   "v": "guest",
+   "v": "barinov",
    "t": "Мне кажется, что Лёва ещё молодой.",
    "gap": 0.55
   },
@@ -54,7 +50,7 @@
    "gap": 0.55
   },
   {
-   "v": "guest",
+   "v": "barinov",
    "t": "Лёва, а ты что там делаешь?",
    "gap": 0.55
   },
@@ -89,13 +85,13 @@
    "gap": 0.4
   },
   {
-   "v": "guest",
+   "v": "barinov",
    "t": "Здравствуйте, меня зовут шеф Виктор Баринов.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Hello, my name is Chef Viktor Barinov.' Chef Barinov anchors the line on 'hello', while 'is called' completes the thought. the guest answers right away.",
+   "t": "'Hello, my name is Chef Viktor Barinov.' Claiming that his name is Chef Viktor Barinov sounds confident, even if the guest has doubts.",
    "gap": 0.4
   },
   {
@@ -105,17 +101,17 @@
   },
   {
    "v": "narrator",
-   "t": "'Very nice to meet you, what do I owe the pleasure to?' The grammar packs 'very' and 'obliged' into a tight, idiomatic kitchen exchange.",
+   "t": "'Very nice to meet you, what do I owe the pleasure to?' Asking whether very nice to meet Barinov what do he owes the pleasure puts Barinov right on the defensive.",
    "gap": 0.4
   },
   {
-   "v": "guest",
+   "v": "barinov",
    "t": "Я хотел поговорить о нашем су-шефе.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'I wanted to talk about our sous-chef.' In Russian, the idea of 'I' flows naturally into 'sous-chef' without extra filler words.",
+   "t": "'I wanted to talk about our sous-chef.' Noting that he wanted to talk keeps Barinov's side of the story simple and clear.",
    "gap": 0.4
   },
   {
@@ -125,17 +121,17 @@
   },
   {
    "v": "narrator",
-   "t": "'Very interesting, I am listening to you attentively.' Spoken Russian keeps this brisk, leaning on 'very' and finishing on 'you'. Chef Barinov answers right away.",
+   "t": "'Very interesting, I am listening to you attentively.' Realizing that very interesting he is listening to Barinov attentively changes how the guest handles the situation. Even in the middle of the drama, he keeps the polite plural \"you\" that workplace Russian expects.",
    "gap": 0.4
   },
   {
-   "v": "guest",
+   "v": "barinov",
    "t": "Мне кажется, что Лёва ещё молодой.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'It seems to me that Lyova is still young.' Chef Barinov anchors the line on 'to me', while 'young' completes the thought.",
+   "t": "'It seems to me that Lyova is still young.' Because it seems to him that Lyova is still young, Barinov treats the matter as settled.",
    "gap": 0.4
   },
   {
@@ -145,17 +141,17 @@
   },
   {
    "v": "narrator",
-   "t": "'What is that you are saying about me there?' The grammar packs 'what' and 'speak' into a tight, idiomatic kitchen exchange.",
+   "t": "'What is that you are saying about me there?' Wondering what that Barinov is saying about him there is is how Lyova puts Barinov on the spot. Even in the middle of the drama, he keeps the polite plural \"you\" that workplace Russian expects.",
    "gap": 0.4
   },
   {
-   "v": "guest",
+   "v": "barinov",
    "t": "Лёва, а ты что там делаешь?",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Lyova, and what are you doing over there?' Chef Barinov anchors the line on 'Lyova', while 'are doing' completes the thought. the guest answers right away.",
+   "t": "'Lyova, and what are you doing over there?' By wondering what the guest doing over there is, Barinov presses the guest for a straight answer. Speaking with the close, informal \"you\" strips away any polite distance between them.",
    "gap": 0.4
   },
   {
@@ -165,7 +161,7 @@
   },
   {
    "v": "narrator",
-   "t": "'I see they really do not want to let you go.' The grammar packs 'watch' and 'to let go' into a tight, idiomatic kitchen exchange.",
+   "t": "'I see they really do not want to let you go.' Because he sees they really do not want to let Barinov goes, the guest treats the matter as settled.",
    "gap": 0.4
   },
   {
@@ -175,7 +171,7 @@
   },
   {
    "v": "narrator",
-   "t": "'And after all, that is the very best recommendation!' the guest anchors the line on 'and', while 'recommendation' completes the thought.",
+   "t": "'And after all, that is the very best recommendation!' Because after all that is the very best recommendation, the guest does not bother softening the blow for Barinov. Russian drops \"is\" in the present, setting the two halves of the thought side by side.",
    "gap": 0.4
   },
   {
@@ -185,7 +181,7 @@
   },
   {
    "v": "narrator",
-   "t": "'Please, help yourself today on the house.' Lyova uses a polite everyday Russian courtesy expression that sets the tone of the conversation right away.",
+   "t": "'Please, help yourself today on the house.' Saying that Barinov should help themselves today on the house is how Lyova sets the tone with Barinov.",
    "gap": 0.4
   },
   {
@@ -195,7 +191,7 @@
   },
   {
    "v": "narrator",
-   "t": "'Nastya went to visit her parents today after all.' Lyova brings out the contrast between 'Nastya' and 'after all' in a few short words.",
+   "t": "'Nastya went to visit her parents today after all.' Lyova tells Barinov that Nastya went to visit her parents today after all without dressing it up.",
    "gap": 0.4
   },
   {
@@ -205,11 +201,11 @@
   },
   {
    "v": "narrator",
-   "t": "'So I thought we could sit calmly together.' In Russian, the idea of 'here' flows naturally into 'to babysit' without extra filler words. Alright, let's hear the entire conversation one more time from start to finish.",
+   "t": "'So I thought we could sit calmly together.' Since he thought they could sit calmly together, Lyova does not waste words on excuses. Alright, let's hear the entire conversation one more time from start to finish.",
    "gap": 0.9
   },
   {
-   "v": "guest",
+   "v": "barinov",
    "t": "Здравствуйте, меня зовут шеф Виктор Баринов.",
    "gap": 0.5
   },
@@ -219,7 +215,7 @@
    "gap": 0.5
   },
   {
-   "v": "guest",
+   "v": "barinov",
    "t": "Я хотел поговорить о нашем су-шефе.",
    "gap": 0.5
   },
@@ -229,7 +225,7 @@
    "gap": 0.5
   },
   {
-   "v": "guest",
+   "v": "barinov",
    "t": "Мне кажется, что Лёва ещё молодой.",
    "gap": 0.5
   },
@@ -239,7 +235,7 @@
    "gap": 0.5
   },
   {
-   "v": "guest",
+   "v": "barinov",
    "t": "Лёва, а ты что там делаешь?",
    "gap": 0.5
   },

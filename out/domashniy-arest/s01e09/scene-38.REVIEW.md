@@ -10,20 +10,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Паша | Скоро я стану настоящим губернатором! | Soon I will become a real governor! | #1079 01:04:00: я буду губернатором | verbatim |
-| 2 | Паша | Конечно будешь, дорогой Павел Юрьевич. | Of course you will, dear Pavel Yuryevich. | #1080 01:04:02: Конечно будешь, Павел | verbatim |
-| 3 | Паша | Я самый надёжный партнёр в Москве. | I am the most reliable partner in Moscow. | #1086 01:04:15: Я самый надежный партнер | verbatim |
-| 4 | Вика | Паша, ты даже лазанью не попробовал? | Pasha, you didn't even try the lasagna? | #1090 01:04:20: ты, Паша, лазань так и не попробовал? | verbatim |
-| 5 | Вика | Я решила вернуться домой пораньше. | I decided to return home earlier. | #1094 01:04:31: Дай-ка пораньше вернусь | verbatim |
-| 6 | Вика | А сейчас смотрю, у тебя гости. | And now I see you have guests. | #1095 01:04:32: А сейчас смотрю | verbatim |
-| 7 | Паша | Вика, подожди, давай спокойно всё объясним. | Vika, wait, let's explain everything calmly. | #1097 01:04:37: Давай объяснимся | verbatim |
-| 8 | Вика | Где же твоя совесть, Паша? | Where is your conscience, Pasha? | #1098 01:04:39: Где же твоя совесть, Паш? | verbatim |
-| 9 | Паша | Пожалуйста, не сердитесь так сильно. | Please don't be so very angry. | #1100 01:04:42: Я не | verbatim |
-| 10 | Вика | Алло, полиция? В мой дом влезли! | Hello, police? Someone broke into my home! | #1101 01:04:43: Алло, полиция? Ко мне в дом влезла | verbatim |
-| 11 | Вика | Диктую адрес: улица Садовая, семь. | I'll give the address: seven Sadovaya Street. | #1104 01:04:50: Диктую адрес<br>#1105 01:04:52: Садовая 7 | verbatim |
-| 12 | Паша | Вика, я понимаю, ты очень расстроена. | Vika, I understand you are very upset. | #1107 01:04:55: я понимаю, что ты | verbatim |
-| 13 | Паша | Я тебе всё обязательно объясню. | I will definitely explain everything to you. | #1107 01:04:55: я тебе все объясню | verbatim |
-| 14 | Паша | Главное помни, что я люблю тебя! | Most importantly remember that I love you! | #1108 01:05:04: Главное помни, что я тебя | verbatim |
+| 1 | Паша | Скоро я стану настоящим губернатором! | Soon I will become a real governor! | #1079: я буду губернатором | verbatim |
+| 2 | Сева | Конечно будешь, дорогой Павел Юрьевич. | Of course you will, dear Pavel Yuryevich. | #1080: Конечно будешь, Павел | verbatim |
+| 3 | Паша | Я самый надёжный партнёр в Москве. | I am the most reliable partner in Moscow. | #1086: Я самый надежный партнер | verbatim |
+| 4 | Вика | Паша, ты даже лазанью не попробовал? | Pasha, you didn't even try the lasagna? | #1090: ты, Паша, лазань так и не попробовал? | verbatim |
+| 5 | Вика | Я решила вернуться домой пораньше. | I decided to return home earlier. | #1094: Дай-ка пораньше вернусь | verbatim |
+| 6 | Вика | А сейчас смотрю, у тебя гости. | And now I see you have guests. | #1095: А сейчас смотрю | verbatim |
+| 7 | Паша | Вика, подожди, давай спокойно всё объясним. | Vika, wait, let's explain everything calmly. | #1097: Давай объяснимся | verbatim |
+| 8 | Вика | Где же твоя совесть, Паша? | Where is your conscience, Pasha? | #1098: Где же твоя совесть, Паш? | verbatim |
+| 9 | Сева | Пожалуйста, не сердитесь так сильно. | Please don't be so very angry. | #1100: Я не | verbatim |
+| 10 | Вика | Алло, полиция? В мой дом влезли! | Hello, police? Someone broke into my home! | #1101: Алло, полиция? Ко мне в дом влезла | verbatim |
+| 11 | Вика | Диктую адрес: улица Садовая, семь. | I'll give the address: seven Sadovaya Street. | #1104: Диктую адрес<br>#1105: Садовая 7 | verbatim |
+| 12 | Паша | Вика, я понимаю, ты очень расстроена. | Vika, I understand you are very upset. | #1107: я понимаю, что ты | verbatim |
+| 13 | Паша | Я тебе всё обязательно объясню. | I will definitely explain everything to you. | #1107: я тебе все объясню | verbatim |
+| 14 | Паша | Главное помни, что я люблю тебя! | Most importantly remember that I love you! | #1108: Главное помни, что я тебя | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

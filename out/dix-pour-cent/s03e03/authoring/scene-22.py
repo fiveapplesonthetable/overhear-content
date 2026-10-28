@@ -7,15 +7,14 @@ SCENE = 22
 TITLE = 'Les premières contractions  (The First Contractions)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'camille': 'emilie', 'lea': 'lucie', 'mathias': 'marcel'}
-LABELS = {'camille': 'Camille', 'lea': 'Andréa', 'mathias': 'Mathias'}
+LABELS = {'andrea': 'Andréa', 'camille': 'Camille', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e03.fr.dual.srt'
 INTRO = "At the ASK agency, Camille discusses poster billing with Mathias before Andrea urgently calls her for help with sudden stomach pains. Listen to the scene in French first. Don't worry about catching every word."
 OPENER = "Let's walk through this tense agency moment before the sudden emergency step by step."
 TRANSITION = "Now let's listen to the entire dialogue once more."
 OUTRO = "While sorting out actor contracts with Mathias, Camille is abruptly called to help an agonizing Andrea, whose labor pains have suddenly begun. When you watch the episode, listen out for the expressions meaning 'satisfactory' and 'completed'. You'll catch them now. See you next time!"
-CLOSING = ('lea', 'Bonne soirée!')
+CLOSING = ('andrea', 'Bonne soirée!')
 STORY = [
     ('camille', "C'est bon, j'ai finalisé le contrat.", 'All good, I finalized the contract.', [(1242, "C'est bon"), (1243, "J'ai finalisé le contrat")], ''),
     ('camille', 'Il y a juste un petit truc.', 'There is just one little thing.', [(1244, 'Y a juste un petit truc')], ''),
@@ -23,14 +22,14 @@ STORY = [
     ('mathias', 'On en a déjà parlé, Camille.', 'We already spoke about that, Camille.', [(1246, 'On en a déjà parlé, Camille')], ''),
     ('camille', "Vu son rôle, c'est important.", 'Given his role, it is important.', [(1247, 'vu son rôle')], ''),
     ('mathias', "Ce n'est pas possible, on en reparle.", 'That is not possible, we will talk later.', [(1251, "C'est pas possible"), (1252, 'On en reparle')], ''),
-    ('lea', "Camille, viens une seconde, s'il te plaît!", 'Camille, come for a second, please!', [(1249, "je peux venir une seconde, s'il te plaît")], ''),
-    ('lea', 'Tu vas aller vite à la pharmacie.', 'You are going to go quickly to the pharmacy.', [(1253, 'tu vas aller à la pharmacie')], ''),
-    ('lea', "Achète des antispasmes, s'il te plaît.", 'Buy some antispasmodics, please.', [(1253, "m'acheter"), (1254, "des antispasmes, s'il te plaît")], ''),
-    ('lea', "Je n'en ai plus du tout.", 'I do not have any left at all.', [(1255, "J'en ai plus")], ''),
+    ('andrea', "Camille, viens une seconde, s'il te plaît!", 'Camille, come for a second, please!', [(1249, "je peux venir une seconde, s'il te plaît")], ''),
+    ('andrea', 'Tu vas aller vite à la pharmacie.', 'You are going to go quickly to the pharmacy.', [(1253, 'tu vas aller à la pharmacie')], ''),
+    ('andrea', "Achète des antispasmes, s'il te plaît.", 'Buy some antispasmodics, please.', [(1253, "m'acheter"), (1254, "des antispasmes, s'il te plaît")], ''),
+    ('andrea', "Je n'en ai plus du tout.", 'I do not have any left at all.', [(1255, "J'en ai plus")], ''),
     ('camille', "Ça va, j'y vais tout de suite.", 'All right, I am going right away.', [(1259, "ça va, j'y vais")], ''),
-    ('lea', "Ce n'est pas ça, le bébé appuie!", 'It is not that, the baby is pressing down!', [(1261, "C'est pas ça, elle appuie")], ''),
+    ('andrea', "Ce n'est pas ça, le bébé appuie!", 'It is not that, the baby is pressing down!', [(1261, "C'est pas ça, elle appuie")], ''),
     ('camille', 'Ça va? Tu as très mal?', 'Are you okay? Does it hurt badly?', [(1262, 'Ça va')], ''),
-    ('lea', 'Oui, mais je ne peux pas bouger.', 'Yes, but I cannot move.', [(1263, 'je veux pas bouger')], ''),
+    ('andrea', 'Oui, mais je ne peux pas bouger.', 'Yes, but I cannot move.', [(1263, 'je veux pas bouger')], ''),
     ('camille', "J'y vais immédiatement, ne bouge pas!", 'I am going immediately, do not move!', [(1264, "J'y vais, j'y vais")], ''),
 ]
 WALK = [

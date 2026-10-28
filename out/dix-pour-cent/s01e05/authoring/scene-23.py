@@ -7,8 +7,7 @@ SCENE = 23
 TITLE = "La scène de Sofia est coupée  (Sofia's Scene Is Cut)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'assistant': 'theo', 'sofia': 'emilie', 'lea': 'lucie'}
-LABELS = {'assistant': "L'assistant", 'sofia': 'Sofia', 'lea': 'Andréa'}
+LABELS = {'andrea': 'Andréa', 'assistant': "L'assistant", 'sofia': 'Sofia'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e05.fr.dual.srt'
 INTRO = "Now at the chateau courtyard, Sofia is in costume waiting to shoot her big scene opposite JoeyStarr when the assistant director gathers the cast and crew. Listen to the scene in French first. Don't worry about catching every word. Let's listen to the scene in French first."
@@ -17,7 +16,7 @@ TRANSITION = "Now let's listen to the whole scene again from the top."
 OUTRO = "Poor Sofia loses her speaking lines because the two stars delayed the shoot, and she thinks it's her own fault. Listen out for the phrase meaning 'because of' when you watch the episode. See you next time!"
 CLOSING = ('sofia', 'Bonne journée!')
 STORY = [
-    ('lea', 'Merci, Loïc!', 'Thank you, Loïc!', [(489, 'Merci, Loïc')], ''),
+    ('andrea', 'Merci, Loïc!', 'Thank you, Loïc!', [(489, 'Merci, Loïc')], ''),
     ('assistant', "Votre attention, s'il vous plaît!", 'Your attention, please!', [(490, "Votre attention, s'il vous plaît")], ''),
     ('assistant', 'Tout le monde en place pour cet après-midi.', 'Everyone in place for this afternoon.', [(491, 'Tout le monde en place'), (492, 'Cet après-midi')], ''),
     ('assistant', 'La scène soixante est coupée.', 'Scene sixty is cut.', [(494, 'La scène'), (494, 'coupée')], ''),

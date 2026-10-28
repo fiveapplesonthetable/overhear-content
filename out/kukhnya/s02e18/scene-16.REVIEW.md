@@ -10,32 +10,32 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Шеф | И исправить уже ничего нельзя. | And nothing can be fixed anymore. | #276 00:17:28: И исправить уже ничего нельзя | verbatim |
-| 2 | Настя | Потому что я не буду повторять свои ошибки. | Because I am not going to repeat my old mistakes. | #277 00:17:32: Потому что я не буду повторять свои ошибки | verbatim |
-| 3 | Настя | А улитку будешь? | Wait, do you want a snail? | #278 00:17:37: А улитку будешь | verbatim |
-| 4 | Шеф | У нас на кухне. | Right here in our kitchen. | #280 00:17:47: У нас на кухне | verbatim |
-| 5 | Настя | Вот он, с пакетом! | There he is, the guy with the bag! | #281 00:17:50: Вот он, с пакетом | verbatim |
-| 6 | Настя | Эй! Ну что? | Hey! What the hell is this? | #282 00:17:52: Эй! Ну что | verbatim |
-| 7 | Шеф | Виктор Петрович, это вы? | Viktor Petrovich, is that you? | #283 00:17:55: Виктор Петрович, это вы | verbatim |
-| 8 | Настя | Где моя дочь? | Where is my daughter? | #284 00:17:57: Где моя дочь | verbatim |
-| 9 | Настя | Отвечай, где моя дочь? | Answer me, where is my daughter? | #284 00:17:57: Где моя дочь | adapted: adapted |
-| 10 | Шеф | Какая дочь? | What daughter are you talking about? | #285 00:18:00: Какая дочь | verbatim |
-| 11 | Настя | Настя где? | Where is Nastya? | #286 00:18:03: Настя где | verbatim |
-| 12 | Настя | Пап, я здесь! | Dad, I am right here! | #287 00:18:05: Пап, я здесь | verbatim |
-| 13 | Шеф | В общем-то. | Well, basically. | #289 00:18:10: в общем-то | verbatim |
+| 1 | Шеф | И исправить уже ничего нельзя. | And nothing can be fixed anymore. | #276: И исправить уже ничего нельзя | verbatim |
+| 2 | Вика | Потому что я не буду повторять свои ошибки. | Because I am not going to repeat my old mistakes. | #277: Потому что я не буду повторять свои ошибки | verbatim |
+| 3 | Настя | А улитку будешь? | Wait, do you want a snail? | #278: А улитку будешь | verbatim |
+| 4 | Шеф | У нас на кухне. | Right here in our kitchen. | #280: У нас на кухне | verbatim |
+| 5 | Вика | Вот он, с пакетом! | There he is, the guy with the bag! | #281: Вот он, с пакетом | verbatim |
+| 6 | Настя | Эй! Ну что? | Hey! What the hell is this? | #282: Эй! Ну что | verbatim |
+| 7 | Шеф | Виктор Петрович, это вы? | Viktor Petrovich, is that you? | #283: Виктор Петрович, это вы | verbatim |
+| 8 | Вика | Где моя дочь? | Where is my daughter? | #284: Где моя дочь | verbatim |
+| 9 | Настя | Отвечай, где моя дочь? | Answer me, where is my daughter? | #284: Где моя дочь | adapted: adapted |
+| 10 | Шеф | Какая дочь? | What daughter are you talking about? | #285: Какая дочь | verbatim |
+| 11 | Вика | Настя где? | Where is Nastya? | #286: Настя где | verbatim |
+| 12 | Настя | Пап, я здесь! | Dad, I am right here! | #287: Пап, я здесь | verbatim |
+| 13 | Шеф | В общем-то. | Well, basically. | #289: в общем-то | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'And nothing can be fixed anymore.' Notice how Russian expresses 'both' and 'must not' with crisp inflection rather than helper words.
-- 'Because I am not going to repeat my old mistakes.' Here the Russian phrasing highlights 'because' before landing on 'mistakes'.
-- 'Wait, do you want a snail?' Spoken Russian keeps this brisk, leaning on 'and' and finishing on 'will you?'. Chef Viktor answers right away.
-- 'Right here in our kitchen.' The meaning hinges on 'by' working together with 'kitchen' in spoken Russian.
-- 'There he is, the guy with the bag!' The grammar packs 'there you go' and 'with a package' into a tight, idiomatic kitchen exchange.
-- 'Hey! What the hell is this?' Nastya raises the pitch on 'what' to turn the phrase into a direct spoken question. Chef Viktor answers right away.
-- 'Viktor Petrovich, is that you?' Chef Viktor brings out the contrast between 'Viktor' and 'Petrovich' in a few short words.
-- 'Where is my daughter?' Vika brings out the contrast between 'where' and 'my' in a few short words.
-- 'Answer me, where is my daughter?' Nastya pairs 'answer' with 'daughter' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
-- 'What daughter are you talking about?' In Russian, the idea of 'what' flows naturally into 'daughter' without extra filler words.
-- 'Where is Nastya?' Here the Russian phrasing highlights 'Nastya' before landing on 'where'.
-- 'Dad, I am right here!' Here the Russian phrasing highlights 'Dad' before landing on 'here'. Chef Viktor answers right away.
-- 'Well, basically.' The grammar packs 'shared' and 'shared' into a tight, idiomatic kitchen exchange.
+- 'And nothing can be fixed anymore.' Barinov explains that nothing can be fixed anymore, keeping his voice calm and direct.
+- 'Because I am not going to repeat my old mistakes.' Realizing that because she is not going to repeat her old mistakes changes how Vika handles the situation.
+- 'Wait, do you want a snail?' Checking whether Barinov wants a snail is how Nastya puts Barinov on the spot. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Right here in our kitchen.' Over the truth and the restaurant, Barinov answers Nastya without a second thought.
+- 'There he is, the guy with the bag!' Declaring that there he is the guy with the bag brings Vika's temper right to the surface. Russian puts the key word right up front so her emotion lands on the first beat.
+- 'Hey! What the hell is this?' Wondering if what the hell is this shows Nastya caught off guard. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Viktor Petrovich, is that you?' Asking whether that Nastya is how Barinov puts Nastya on the spot.
+- 'Where is my daughter?' Here asking where her daughter is shows Vika looking for the real truth. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Answer me, where is my daughter?' Nastya asks whether answer her where is her daughter, refusing to let the point slide. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'What daughter are you talking about?' Asking whether what daughter are Nastya talking puts Nastya right on the defensive.
+- 'Where is Nastya?' Here wondering where Nastya is shows Vika looking for the real truth. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Dad, I am right here!' Declaring that dad she is right here brings Nastya's temper right to the surface. Russian puts the key word right up front so her emotion lands on the first beat.
+- 'Well, basically.' With the plan and restaurant in play, Barinov keeps this short reply brisk and direct.

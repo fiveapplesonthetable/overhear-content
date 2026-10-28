@@ -7,8 +7,7 @@ SCENE = 12
 TITLE = 'La frayeur du soir  (The Evening Fright)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'colette': 'emilie', 'lea': 'lucie'}
-LABELS = {'colette': 'Colette', 'lea': 'Andréa'}
+LABELS = {'andrea': 'Andréa', 'colette': 'Colette'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e01.fr.dual.srt'
 INTRO = "Returning home late to their dark apartment, Andrea accidentally startles Colette in the hallway. Holding baby Flora in her arms, Colette tries to calm the crying child while Andrea apologizes. Let's listen to their conversation in French first."
@@ -17,19 +16,19 @@ TRANSITION = "Now let's listen to the complete discussion once more to reinforce
 OUTRO = "Andrea steps in to support Colette with baby Flora after a long day at ASK. When you watch the episode, listen out for the expressions meaning 'sorry' and 'made'. You'll catch them now. See you next time!"
 CLOSING = ('colette', 'À demain!')
 STORY = [
-    ('lea', 'Ah, je suis désolée, Colette!', 'Ah, I am sorry, Colette!', [(654, 'Je suis désolée')], ''),
+    ('andrea', 'Ah, je suis désolée, Colette!', 'Ah, I am sorry, Colette!', [(654, 'Je suis désolée')], ''),
     ('colette', "Tu m'as fait peur dans l'entrée.", 'You scared me in the hallway.', [(655, "Tu m'as fait peur")], ''),
-    ('lea', "Je ne t'avais pas vue ici.", 'I had not seen you here.', [(656, "Je ne t'avais pas vue")], ''),
+    ('andrea', "Je ne t'avais pas vue ici.", 'I had not seen you here.', [(656, "Je ne t'avais pas vue")], ''),
     ('colette', "Flora s'est réveillée en sursaut.", 'Flora woke up with a start.', [(655, "Tu m'as fait peur")], ''),
-    ('lea', 'Excuse-moi, je rentre trop tard.', 'Forgive me, I return too late.', [(658, 'Excuse-moi')], ''),
+    ('andrea', 'Excuse-moi, je rentre trop tard.', 'Forgive me, I return too late.', [(658, 'Excuse-moi')], ''),
     ('colette', 'Elle pleure depuis une heure entière.', 'She is crying for a whole hour.', [(658, 'Excuse-moi')], ''),
-    ('lea', 'Donne-moi le bébé un instant.', 'Give me the baby a moment.', [(658, 'Tiens')], ''),
+    ('andrea', 'Donne-moi le bébé un instant.', 'Give me the baby a moment.', [(658, 'Tiens')], ''),
     ('colette', 'Viens là, ma petite fille chérie.', 'Come here, my darling little girl.', [(659, 'Viens là')], ''),
-    ('lea', 'Je peux la bercer doucement.', 'I can rock her gently.', [(659, 'Viens là')], ''),
+    ('andrea', 'Je peux la bercer doucement.', 'I can rock her gently.', [(659, 'Viens là')], ''),
     ('colette', 'Là, là, maman est là.', 'There, there, mommy is here.', [(660, 'Maman est là')], ''),
-    ('lea', 'Elle commence à se calmer enfin.', 'She begins to calm down at last.', [(660, 'Maman est là')], ''),
+    ('andrea', 'Elle commence à se calmer enfin.', 'She begins to calm down at last.', [(660, 'Maman est là')], ''),
     ('colette', 'Cette journée a été très difficile.', 'This day was very difficult.', [(654, 'Je suis désolée')], ''),
-    ('lea', 'Repose-toi, je prends le relais.', 'Rest, I take over now.', [(658, 'Excuse-moi')], ''),
+    ('andrea', 'Repose-toi, je prends le relais.', 'Rest, I take over now.', [(658, 'Excuse-moi')], ''),
     ('colette', "Merci Andréa, j'en avais grand besoin.", 'Thank you Andrea, I really needed it.', [(658, 'Excuse-moi')], ''),
 ]
 WALK = [

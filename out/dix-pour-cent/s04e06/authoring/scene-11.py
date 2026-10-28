@@ -7,7 +7,6 @@ SCENE = 11
 TITLE = "C'était toi  (Was that you)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'elise': 'emilie', 'gabriel': 'theo'}
 LABELS = {'elise': 'Élise', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent S04E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e06.fr.dual.srt'

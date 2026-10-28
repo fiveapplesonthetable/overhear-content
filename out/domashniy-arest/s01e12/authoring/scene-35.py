@@ -1,34 +1,36 @@
-# domashniy-arest/s01e12/scene-35.py
-ID = "domashniy-arest-s01e12-scene-35"
-SHOW = "domashniy-arest"
+# Authoring module for domashniy-arest-s01e12-scene-35.
+ID = 'domashniy-arest-s01e12-scene-35'
+SHOW = 'domashniy-arest'
 SEASON = 1
 EPISODE = 12
 SCENE = 35
 TITLE = "Совесть Паши  (Pasha's Conscience)"
-LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-SOURCE_NAME = "Домашний арест (Domashniy Arest) S1.12"
-SOURCE_FILE = "sources/domashniy-arest/s01/e12.ru.dual.srt"
-VOICES = {"narrator": "sky", "samson": "anja"}
-LABELS = {"samson": "Самсон"}
-INTRO = "Following the chaotic shootout, Ivan Samsonov confronts the cornered gunman Pasha, demanding to know why he resorted to cold-blooded violence and whether he has any conscience left."
-STORY = [
-    ("samson", "Брось своё оружие прямо сейчас!", "Drop your weapon right now!", [], "confronting gunman"),
-    ("samson", "Паша, ты зачем всех убиваешь?", "Pasha, why are you killing everyone?", [(1029, 'Паша, ты зачем всех убиваешь?')], "demanding explanation"),
-    ("samson", "Они все хотели меня предать!", "They all wanted to betray me!", [], "Pasha's justification"),
-    ("samson", "У тебя совесть есть вообще?", "Have you no conscience at all?", [(1030, 'У тебя совесть есть вообще?')], "appealing to conscience"),
-    ("samson", "В этом городе нет никакой совести.", "In this city there is no conscience.", [], "cynical response"),
-    ("samson", "Ты сам выбрал этот страшный путь.", "You chose this terrible path yourself.", [], "holding accountable"),
-    ("samson", "Мне просто нужны были эти деньги!", "I simply needed that money!", [], "greed admitted"),
-    ("samson", "Деньги не стоят человеческой жизни.", "Money is not worth a human life.", [], "value of life"),
-    ("samson", "Теперь для меня уже всё кончено.", "Now everything is already over for me.", [], "defeat realized"),
-    ("samson", "Подними руки и сдайся властям.", "Raise your hands and surrender to the authorities.", [], "order to surrender"),
-    ("samson", "Я не хочу идти в тюрьму.", "I do not want to go to prison.", [], "fear of prison"),
-    ("samson", "Ты должен ответить за свои преступления.", "You must answer for your crimes.", [], "insisting on justice"),
-    ("samson", "Ты победил, Самсонов, забирай пистолет.", "You won, Samsonov, take the pistol.", [], "surrendering weapon"),
-    ("samson", "Справедливость всегда побеждает в конце.", "Justice always triumphs in the end.", [], "final moral affirmation"),
-]
+LEVEL = 'A1 — Duolingo Section 2'
+PAIR = 'ru-en'
+LABELS = {'pasha': 'Паша', 'samson': 'Самсон'}
+SOURCE_NAME = 'Домашний арест (Domashniy Arest) S1.12'
+SOURCE_FILE = 'sources/domashniy-arest/s01/e12.ru.dual.srt'
+INTRO = 'Following the chaotic shootout, Ivan Samsonov confronts the cornered gunman Pasha, demanding to know why he resorted to cold-blooded violence and whether he has any conscience left.'
 OPENER = "Let's explore the dramatic confrontation between Samsonov and Pasha."
+TRANSITION = "Now let's listen to the high-stakes confrontation between Samsonov and Pasha once more."
+OUTRO = 'Disarmed and defeated, Pasha faces the consequences of his actions as justice prevails. See you next time!'
+CLOSING = ('samson', 'Пока!')
+STORY = [
+    ('samson', 'Брось своё оружие прямо сейчас!', 'Drop your weapon right now!', [], 'confronting gunman'),
+    ('samson', 'Паша, ты зачем всех убиваешь?', 'Pasha, why are you killing everyone?', [(1029, 'Паша, ты зачем всех убиваешь?')], 'demanding explanation'),
+    ('pasha', 'Они все хотели меня предать!', 'They all wanted to betray me!', [], "Pasha's justification"),
+    ('samson', 'У тебя совесть есть вообще?', 'Have you no conscience at all?', [(1030, 'У тебя совесть есть вообще?')], 'appealing to conscience'),
+    ('pasha', 'В этом городе нет никакой совести.', 'In this city there is no conscience.', [], 'cynical response'),
+    ('samson', 'Ты сам выбрал этот страшный путь.', 'You chose this terrible path yourself.', [], 'holding accountable'),
+    ('pasha', 'Мне просто нужны были эти деньги!', 'I simply needed that money!', [], 'greed admitted'),
+    ('samson', 'Деньги не стоят человеческой жизни.', 'Money is not worth a human life.', [], 'value of life'),
+    ('pasha', 'Теперь для меня уже всё кончено.', 'Now everything is already over for me.', [], 'defeat realized'),
+    ('samson', 'Подними руки и сдайся властям.', 'Raise your hands and surrender to the authorities.', [], 'order to surrender'),
+    ('pasha', 'Я не хочу идти в тюрьму.', 'I do not want to go to prison.', [], 'fear of prison'),
+    ('samson', 'Ты должен ответить за свои преступления.', 'You must answer for your crimes.', [], 'insisting on justice'),
+    ('pasha', 'Ты победил, Самсонов, забирай пистолет.', 'You won, Samsonov, take the pistol.', [], 'surrendering weapon'),
+    ('samson', 'Справедливость всегда побеждает в конце.', 'Justice always triumphs in the end.', [], 'final moral affirmation'),
+]
 WALK = [
     (0, None, "'Drop your weapon right now!' Samsonov confronts the cornered gunman with determination."),
     (1, None, "'Pasha, why are you killing everyone?' Samsonov demands an answer for the senseless violence."),
@@ -45,6 +47,3 @@ WALK = [
     (12, None, "'You won, Samsonov, take the pistol.' Pasha hands over his weapon in complete defeat."),
     (13, None, "'Justice always triumphs in the end.' Samsonov concludes with a firm affirmation of justice."),
 ]
-TRANSITION = "Now let's listen to the high-stakes confrontation between Samsonov and Pasha once more."
-OUTRO = "Disarmed and defeated, Pasha faces the consequences of his actions as justice prevails. See you next time!"
-CLOSING = ("samson", "Пока!")

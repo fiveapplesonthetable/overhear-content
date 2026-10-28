@@ -7,30 +7,29 @@ SCENE = 23
 TITLE = 'Il tient à vous  (He Cares About You)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'mathias': 'marcel', 'noemie': 'emilie'}
-LABELS = {'mathias': 'Mathias', 'noemie': 'Noémie'}
+LABELS = {'catherine': 'Catherine', 'mathias': 'Mathias', 'noemie': 'Noémie'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e02.fr.dual.srt'
 INTRO = "Recovering at home after a traumatic accident, assistant Noemie welcomes Mathias Barneville and his wife Catherine into her apartment. While Mathias tries to minimize the awkwardness, Catherine directly brings up Noemie's career plans and reveals Mathias's true devotion. Let's listen to their conversation in French first."
 OPENER = "Let's see how Catherine gently challenges Noemie while revealing the profound loyalty of Mathias."
 TRANSITION = "Now let's listen to Catherine, Mathias, and Noemie again at natural pace."
 OUTRO = "Moved by Catherine's compassionate insight and Mathias's quiet devotion, Noemie reconsiders her hasty departure from ASK. When you watch the episode, listen out for the expressions meaning 'place' and 'table'. You'll catch them now. See you next time!"
-CLOSING = ('mathias', 'Bonne soirée!')
+CLOSING = ('catherine', 'Bonne soirée!')
 STORY = [
     ('mathias', 'Je vous pose ce sac sur la table.', 'I put this bag on the table for you.', [(1012, 'Je vous pose ça où ?'), (1015, 'Sur la table.')], ''),
     ('noemie', "Merci Mathias, c'est très gentil à vous.", 'Thank you Mathias, that is very kind of you.', [(1016, 'Mathias, merci.')], ''),
-    ('mathias', 'Voulez-vous manger une bonne soupe chaude, Noémie?', 'Do you want to eat a good hot soup, Noemie?', [(1020, "Vous voulez qu'on vous prépare quelque chose"), (1022, 'faire des soupes')], ''),
+    ('catherine', 'Voulez-vous manger une bonne soupe chaude, Noémie?', 'Do you want to eat a good hot soup, Noemie?', [(1020, "Vous voulez qu'on vous prépare quelque chose"), (1022, 'faire des soupes')], ''),
     ('noemie', 'Non merci Catherine, ne vous embêtez pas.', 'No thank you Catherine, do not trouble yourself.', [(1023, 'Non, non, ça va.'), (1024, 'Vous embêtez pas.')], ''),
     ('mathias', 'Nous allons te laisser te reposer maintenant.', 'We are going to let you rest now.', [(1027, 'On va y aller.'), (1028, 'On va laisser Noémie se reposer')], ''),
     ('noemie', 'Je ne suis pas paralysée non plus!', 'I am not paralyzed either!', [(1034, 'Je suis pas paralysée, non plus.')], ''),
-    ('mathias', "Mathias m'a tout raconté aux urgences.", 'Mathias told me everything at the emergency room.', [(1039, "Quand on était aux urgences, Mathias m'a tout raconté.")], ''),
+    ('catherine', "Mathias m'a tout raconté aux urgences.", 'Mathias told me everything at the emergency room.', [(1039, "Quand on était aux urgences, Mathias m'a tout raconté.")], ''),
     ('noemie', "Qu'est-ce qu'il vous a raconté exactement?", 'What did he tell you exactly?', [(1040, 'Noémie')], ''),
-    ('mathias', "Vous voulez vraiment quitter l'agence ASK?", 'Do you really want to leave agency ASK?', [(1044, 'quitter ASK')], ''),
+    ('catherine', "Vous voulez vraiment quitter l'agence ASK?", 'Do you really want to leave agency ASK?', [(1044, 'quitter ASK')], ''),
     ('noemie', "Un chasseur de têtes m'a contactée.", 'A headhunter contacted me.', [(1047, "c'est un chasseur de têtes.")], ''),
     ('mathias', 'Noémie est très demandée pour son talent.', 'Noemie is in high demand for her talent.', [(1049, 'Noémie est très compétente.')], ''),
-    ('mathias', "Ce n'est peut-être pas le bon moment.", 'This is perhaps not the right time.', [(1052, "c'est peut-être pas le moment, Noémie,")], ''),
+    ('catherine', "Ce n'est peut-être pas le bon moment.", 'This is perhaps not the right time.', [(1052, "c'est peut-être pas le moment, Noémie,")], ''),
     ('noemie', 'Je vais réfléchir à toute cette situation.', 'I am going to think about this whole situation.', [], ''),
-    ('mathias', 'Mathias tient énormément à vous, Noémie.', 'Mathias cares enormously about you, Noemie.', [(1056, 'Noémie, moi, je sais à quel point il tient à vous.')], ''),
+    ('catherine', 'Mathias tient énormément à vous, Noémie.', 'Mathias cares enormously about you, Noemie.', [(1056, 'Noémie, moi, je sais à quel point il tient à vous.')], ''),
 ]
 WALK = [
     (0, None, "'I put this bag on the table for you.' A considerate announcement setting down groceries. Notice how 'place' leads directly into the noun meaning 'bag'."),

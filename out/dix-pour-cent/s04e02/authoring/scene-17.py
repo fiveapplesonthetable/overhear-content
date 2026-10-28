@@ -7,7 +7,6 @@ SCENE = 17
 TITLE = 'La zone de confort  (The Comfort Zone)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'dylan': 'theo', 'franck': 'marcel'}
 LABELS = {'dylan': 'Dylan', 'franck': 'Franck'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e02.fr.dual.srt'

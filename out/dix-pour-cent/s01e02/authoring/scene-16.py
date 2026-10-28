@@ -7,8 +7,7 @@ SCENE = 16
 TITLE = "Vous êtes toute ma famille  (You're All My Family)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'arlette': 'emilie', 'lea': 'lucie', 'damien': 'theo'}
-LABELS = {'arlette': 'Arlette', 'lea': 'Andréa', 'damien': 'Damien'}
+LABELS = {'andrea': 'Andréa', 'arlette': 'Arlette', 'damien': 'Damien'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e02.fr.dual.srt'
 INTRO = "She opened her bank's website and stared at her account. Then, to take her mind off it, she tried a dating site, and a chat with a stranger went badly wrong; she logged off, furious. Now, exhausted, she joins Arlette, the oldest agent in Paris, and her little dog Jean Gabin. As usual, French first, and don't worry about every word."
@@ -19,19 +18,19 @@ CLOSING = ('arlette', "À tout à l'heure!")
 STORY = [
     ('arlette', 'Ça va, chérie? Tu es en retard.', 'All right, darling? You', [(474, 'Ça va, chérie ? Tu es en retard.')], ''),
     ('damien', 'Un café?', 'A coffee?', [(474, 'Un café ?')], ''),
-    ('lea', 'Oui, merci, Damien.', 'Yes, thanks, Damien.', [(475, 'Oui, merci, Damien')], ''),
-    ('lea', "J'ai mal dormi.", 'I slept badly.', [(476, "J'ai mal dormi")], ''),
+    ('andrea', 'Oui, merci, Damien.', 'Yes, thanks, Damien.', [(475, 'Oui, merci, Damien')], ''),
+    ('andrea', "J'ai mal dormi.", 'I slept badly.', [(476, "J'ai mal dormi")], ''),
     ('arlette', 'Tu as fait la fête?', 'Were you out partying?', [(477, 'Tu as fait la fête ?')], ''),
-    ('lea', "Ouais, c'était dingue!", 'Yeah, it was wild!', [(478, "Ouais, c'était dingue !")], ''),
-    ('lea', "J'ai passé la nuit sur le site de ma banque.", 'I spent the night on my bank', [(479, "J'ai passé la nuit"), (479, 'sur le site de ma banque')], ''),
-    ('lea', 'Et toi?', 'And you?', [(480, 'Et toi ?')], ''),
+    ('andrea', "Ouais, c'était dingue!", 'Yeah, it was wild!', [(478, "Ouais, c'était dingue !")], ''),
+    ('andrea', "J'ai passé la nuit sur le site de ma banque.", 'I spent the night on my bank', [(479, "J'ai passé la nuit"), (479, 'sur le site de ma banque')], ''),
+    ('andrea', 'Et toi?', 'And you?', [(480, 'Et toi ?')], ''),
     ('arlette', "Moi aussi, j'ai fait mes comptes.", 'Me too, I did my accounts.', [(481, "moi aussi, j'ai fait mes comptes")], ''),
     ('arlette', "Autant dépenser ce que j'ai pour l'agence.", 'I might as well spend what I have on the agency.', [(482, "Autant dépenser ce que j'ai"), (483, "pour l'agence")], ''),
-    ('lea', 'Ton assurance-vie? Tu es sûre?', 'Your life insurance? Are you sure?', [], ''),
+    ('andrea', 'Ton assurance-vie? Tu es sûre?', 'Your life insurance? Are you sure?', [], ''),
     ('arlette', "Je n'ai pas d'enfants, à part Jean Gabin.", 'I have no children, apart from Jean Gabin.', [(484, "Je n'ai pas d'enfants"), (485, 'à part Jean Gabin')], ''),
     ('arlette', 'Alors, à quoi bon?', 'So, what', [(486, 'Alors, à quoi bon ?')], ''),
     ('arlette', 'Vous êtes toute ma famille. Vous tous et mes acteurs.', "You're all my family. All of you, and my actors.", [(487, 'Vous êtes toute ma famille'), (488, 'Vous tous et mes acteurs')], ''),
-    ('lea', 'Merci, Arlette.', 'Thank you, Arlette.', [], ''),
+    ('andrea', 'Merci, Arlette.', 'Thank you, Arlette.', [], ''),
     ('arlette', 'Tu veux faire pipi, Jean Gabin?', 'Do you need to pee, Jean Gabin?', [(489, 'Tu veux faire pipi ?'), (489, 'Jean Gabin')], ''),
     ('damien', 'Attendez, il fait pipi!', 'Wait, he', [(490, 'Attendez, il fait pipi !')], ''),
 ]
@@ -49,9 +48,9 @@ WALK = [
     (10, None, "'Your life insurance? Are you sure?' The word for 'sure' takes an extra letter, because Arlette is a woman."),
     (11, None, "'I have no children, apart from Jean Gabin.' After a negative, the word for 'some' shrinks to a tiny linking word before the noun. And Jean Gabin, named after a famous French actor, is her dog."),
     (12, None, "'So, what's the point?' A short, fixed expression: literally 'to what good?'."),
-    (13, None, "'You're all my family.' Here the formal 'you' is really the plural one: she means all of them at the agency."),
-    (14, None, "'All of you, and my actors.' The agency is her whole life."),
-    (15, None, "'Thank you, Arlette.' Andréa is touched."),
-    (16, None, "'Do you need to pee, Jean Gabin?' Literally 'do you want to do pee-pee?', the way you'd talk to a child, or a dog."),
-    (17, None, "'Wait, he's peeing!' Too late. The waiter's command uses the formal 'you', the polite form a waiter uses with customers. So the tender moment ends with a puddle on the terrace. Now the whole breakfast once more, in French. Let's listen to the whole scene once more without interruption."),
+    (13, 'Vous êtes toute ma famille.', "'You're all my family.' Here the formal 'you' is really the plural one: she means all of them at the agency."),
+    (13, 'Vous tous et mes acteurs.', "'All of you, and my actors.' The agency is her whole life."),
+    (14, None, "'Thank you, Arlette.' Andréa is touched."),
+    (15, None, "'Do you need to pee, Jean Gabin?' Literally 'do you want to do pee-pee?', the way you'd talk to a child, or a dog."),
+    (16, None, "'Wait, he's peeing!' Too late. The waiter's command uses the formal 'you', the polite form a waiter uses with customers. So the tender moment ends with a puddle on the terrace. Now the whole breakfast once more, in French. Let's listen to the whole scene once more without interruption."),
 ]

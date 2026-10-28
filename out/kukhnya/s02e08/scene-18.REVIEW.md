@@ -10,32 +10,32 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Я бы даже так сказал, в переборе. | I would even say they are a bit too healthy. | #309 00:19:37: Я бы даже так сказал, в переборе | verbatim |
-| 2 | Вика | Я говорю. | That is what I am saying. | #310 00:19:40: Я говорю | verbatim |
-| 3 | Аня | Котлеты вкусные. | The cutlets are delicious. | #311 00:19:45: котлеты вкусные | verbatim |
-| 4 | Вика | В любом случае, это лучше, чем убивать животных. | In any case, this is much better than killing animals. | #313 00:19:53: В любом случае, это лучше, чем убивать животных | verbatim |
-| 5 | Аня | Мне кажется, никто никого не убивает. | It seems to me that nobody is killing anyone. | #314 00:19:56: Мне кажется, никто никого не убивает | verbatim |
-| 6 | Вика | В колбасе-то и мяса уже не осталось. | There is barely any meat left in sausage nowadays anyway. | #315 00:19:59: В колбасе-то и мяса уже не осталось | verbatim |
-| 7 | Аня | Правда, Степан Андреевич? | Is that not right, Stepan Andreyevich? | #317 00:20:04: Правда, Степан Андреевич | verbatim |
-| 8 | Вика | В моей колбасе нет химии. | There are no chemicals in my sausage. | #318 00:20:07: В моей колбасе нет химии | verbatim |
-| 9 | Аня | У меня хорошая колбаса. | I make honest, good sausage. | #320 00:20:12: У меня хорошая колбаса | verbatim |
-| 10 | Вика | Хорошая, потому что из трупов бедных животных. | Good only because it is made from the corpses of poor animals. | #321 00:20:16: Хорошая, потому что из трупов бедных животных | verbatim |
-| 11 | Аня | Люди любят мясо! | People love meat! | #323 00:20:24: Люди любят мясо | verbatim |
-| 12 | Вика | Я люблю мясо! | I love meat! | #324 00:20:26: Я люблю мясо | verbatim |
-| 13 | Аня | От твоих котлет меня даже нет. | Your cabbage cutlets make me sick. | #325 00:20:29: От твоих котлет меня даже нет | verbatim |
+| 1 | Макс | Я бы даже так сказал, в переборе. | I would even say they are a bit too healthy. | #309: Я бы даже так сказал, в переборе | verbatim |
+| 2 | Вика | Я говорю. | That is what I am saying. | #310: Я говорю | verbatim |
+| 3 | Макс | Котлеты вкусные. | The cutlets are delicious. | #311: котлеты вкусные | verbatim |
+| 4 | Вика | В любом случае, это лучше, чем убивать животных. | In any case, this is much better than killing animals. | #313: В любом случае, это лучше, чем убивать животных | verbatim |
+| 5 | Макс | Мне кажется, никто никого не убивает. | It seems to me that nobody is killing anyone. | #314: Мне кажется, никто никого не убивает | verbatim |
+| 6 | Вика | В колбасе-то и мяса уже не осталось. | There is barely any meat left in sausage nowadays anyway. | #315: В колбасе-то и мяса уже не осталось | verbatim |
+| 7 | Макс | Правда, Степан Андреевич? | Is that not right, Stepan Andreyevich? | #317: Правда, Степан Андреевич | verbatim |
+| 8 | Вика | В моей колбасе нет химии. | There are no chemicals in my sausage. | #318: В моей колбасе нет химии | verbatim |
+| 9 | Макс | У меня хорошая колбаса. | I make honest, good sausage. | #320: У меня хорошая колбаса | verbatim |
+| 10 | Вика | Хорошая, потому что из трупов бедных животных. | Good only because it is made from the corpses of poor animals. | #321: Хорошая, потому что из трупов бедных животных | verbatim |
+| 11 | Макс | Люди любят мясо! | People love meat! | #323: Люди любят мясо | verbatim |
+| 12 | Вика | Я люблю мясо! | I love meat! | #324: Я люблю мясо | verbatim |
+| 13 | Макс | От твоих котлет меня даже нет. | Your cabbage cutlets make me sick. | #325: От твоих котлет меня даже нет | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I would even say they are a bit too healthy.' Here the Russian phrasing highlights 'I' before landing on 'overkill'.
-- 'That is what I am saying.' Vika anchors the line on 'I', while 'say' completes the thought. Max answers right away.
-- 'The cutlets are delicious.' In Russian, the idea of 'cutlets' flows naturally into 'tasty' without extra filler words.
-- 'In any case, this is much better than killing animals.' Here the Russian phrasing highlights 'any' before landing on 'animals'.
-- 'It seems to me that nobody is killing anyone.' The grammar packs 'for me' and 'to kill' into a tight, idiomatic kitchen exchange. Vika answers right away.
-- 'There is barely any meat left in sausage nowadays anyway.' The meaning hinges on 'sausage' working together with 'was left' in spoken Russian.
-- 'Is that not right, Stepan Andreyevich?' Max brings out the contrast between 'honestly' and 'Stepan' in a few short words.
-- 'There are no chemicals in my sausage.' The meaning hinges on 'my' working together with 'chemistry' in spoken Russian. Max answers right away.
-- 'I make honest, good sausage.' In Russian, the idea of 'by' flows naturally into 'sausage' without extra filler words.
-- 'Good only because it is made from the corpses of poor animals.' Vika anchors the line on 'dear', while 'animals' completes the thought.
-- 'People love meat!' Spoken Russian keeps this brisk, leaning on 'people' and finishing on 'meat'. Vika answers right away.
-- 'I love meat!' The meaning hinges on 'I' working together with 'meat' in spoken Russian.
-- 'Your cabbage cutlets make me sick.' The grammar packs 'from' and 'there is no' into a tight, idiomatic kitchen exchange.
+- 'I would even say they are a bit too healthy.' Once he would even say they are a bit too healthy, Max can finally tell Vika what he means.
+- 'That is what I am saying.' Adding that that is what she is saying fills in the missing piece for Max.
+- 'The cutlets are delicious.' Max tells Vika that the cutlets are delicious without dressing it up.
+- 'In any case, this is much better than killing animals.' Since in any case this is much better than killing animals, Vika does not waste words on excuses. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'It seems to me that nobody is killing anyone.' Mentioning that it seems to him that nobody is killing anyone moves the talk in a new direction.
+- 'There is barely any meat left in sausage nowadays anyway.' Vika reminds Max that there is barely any meat left in sausage nowadays anyway before the moment passes.
+- 'Is that not right, Stepan Andreyevich?' Asking whether that not right Stepan Andreyevich is how Max puts Vika on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'There are no chemicals in my sausage.' Explaining that there are no chemicals in her sausage lays the cards on the table for Max.
+- 'I make honest, good sausage.' Claiming that he makes honest good sausage sounds confident, even if Vika has doubts. Russian expresses having something as "by me is", keeping the phrase short and grounded.
+- 'Good only because it is made from the corpses of poor animals.' Claiming that good only because it is made from the corpses of poor animals sounds confident, even if Max has doubts.
+- 'People love meat!' Over the dinner and the shift, Max lets his real feelings show.
+- 'I love meat!' Once she loves meat, Vika makes sure Max hears every word. Russian puts the key word right up front so her emotion lands on the first beat.
+- 'Your cabbage cutlets make me sick.' Over the argument and the peace, Max answers Vika without a second thought.

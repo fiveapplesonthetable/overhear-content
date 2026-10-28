@@ -10,22 +10,22 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Самсон | Вторая партия готова! Идём, сфотографируемся все вместе! | The second batch is ready! Come on, let's take a photo all together! | #1141 00:53:32: Вторая партия готова<br>#1145 00:53:43: Идем, сфотографируемся | verbatim |
-| 2 | Нина | Самсон, пойдём! Улыбаемся! Сыр, сыр! | Samson, come on! Smile! Cheese, cheese! | #1151 00:53:54: Улыбаемся<br>#1152 00:53:55: Самсон, пойдем<br>#1157 00:54:01: Сыр, сыр | verbatim |
-| 3 | Нина | Иван, встань подальше, вон там за соснами. | Ivan, stand further back, over there behind the pines. | #1158 00:54:04: Иван<br>#1158 00:54:04: соснами | adapted: ASR 'Иван, отдавай соснами' restored |
-| 4 | Самсон | Даня, это твоя точилка? И твой топор? | Danya, is this your sharpener? And your axe? | #1159 00:54:08: это твоя точилка<br>#1160 00:54:12: топор | verbatim |
-| 5 | Самсон | Да, мой топор. Ух ты! Как ты это сделал? | Yes, my axe. Wow! How did you do that? | #1160 00:54:12: топор<br>#1162 00:54:18: Ух ты | adapted: Danya amazed as Samsonov hurls the axe into a pine tree |
-| 6 | Самсон | Вот так, Даня! Метр пятьдесят от земли! | Just like that, Danya! A meter fifty off the ground! | #1164 00:54:26: Вот так<br>#1165 00:54:27: Метр пятьдесят от земли | verbatim |
-| 7 | Самсон | Купить можно всё что угодно! | You can buy anything at all! | #1167 00:54:31: Купить можно все, что угодно | verbatim |
-| 8 | Самсон | А мастерство не купишь, понял? | But you can't buy skill, got it? | #1168 00:54:34: А мастерство не купишь, понял | verbatim |
-| 9 | Самсон | Нам вообще запрещено это показывать. Но вы же свои! | We're strictly forbidden to show this. But you're family! | #1171 00:54:46: Нам вообще запрещено это показывать<br>#1172 00:54:49: Но вы же свои | verbatim |
-| 10 | Самсон | А ещё есть ближний бой! Смотри, как я умею! | And there's also close combat! Watch what I can do! | #1175 00:54:56: ближний бой | verbatim |
-| 11 | Нина | Тише, Ваня, осторожно! Зачем ты бьёшь дерево ногой? | Easy, Vanya, be careful! Why are you kicking the tree with your foot? | #1178 00:55:02: Тише | verbatim |
-| 12 | Самсон | Да нормально, не бойся! Можешь так, Даня, или нет? | It's fine, don't be afraid! Can you do that, Danya, or not? | #1179 00:55:03: Да нормально<br>#1180 00:55:05: нет | adapted: 'не боись' -> 'не бойся' |
-| 13 | Самсон | Нет, так не могу. Ты выше меня ударил. | No, I can't do that. You kicked higher than me. | #1181 00:55:07: Нет<br>#1184 00:55:11: Ты выше | verbatim |
-| 14 | Самсон | А я сейчас ещё выше ударю! Смотрите все! | And right now I'll kick even higher! Watch, everyone! | #1184 00:55:11: выше | verbatim |
-| 15 | Самсон | Ай, моя рука! Топор упал мне на руку! | Ow, my hand! The axe fell onto my hand! | new | new: new line voicing the visual accident between cues 1185 and 1186 |
-| 16 | Нина | Самсонов, ты с ума сошёл?! Быстро в больницу! | Samsonov, have you lost your mind?! Quickly to the hospital! | #1186 00:55:30: Самсонов, ты | adapted: 'дебил' -> 'с ума сошёл' |
+| 1 | Даня | Вторая партия готова! Идём, сфотографируемся все вместе! | The second batch is ready! Come on, let's take a photo all together! | #1141: Вторая партия готова<br>#1145: Идем, сфотографируемся | verbatim |
+| 2 | Нина | Самсон, пойдём! Улыбаемся! Сыр, сыр! | Samson, come on! Smile! Cheese, cheese! | #1151: Улыбаемся<br>#1152: Самсон, пойдем<br>#1157: Сыр, сыр | verbatim |
+| 3 | Нина | Иван, встань подальше, вон там за соснами. | Ivan, stand further back, over there behind the pines. | #1158: Иван<br>#1158: соснами | adapted: ASR 'Иван, отдавай соснами' restored |
+| 4 | Самсон | Даня, это твоя точилка? И твой топор? | Danya, is this your sharpener? And your axe? | #1159: это твоя точилка<br>#1160: топор | verbatim |
+| 5 | Даня | Да, мой топор. Ух ты! Как ты это сделал? | Yes, my axe. Wow! How did you do that? | #1160: топор<br>#1162: Ух ты | adapted: Danya amazed as Samsonov hurls the axe into a pine tree |
+| 6 | Самсон | Вот так, Даня! Метр пятьдесят от земли! | Just like that, Danya! A meter fifty off the ground! | #1164: Вот так<br>#1165: Метр пятьдесят от земли | verbatim |
+| 7 | Самсон | Купить можно всё что угодно! | You can buy anything at all! | #1167: Купить можно все, что угодно | verbatim |
+| 8 | Самсон | А мастерство не купишь, понял? | But you can't buy skill, got it? | #1168: А мастерство не купишь, понял | verbatim |
+| 9 | Самсон | Нам вообще запрещено это показывать. Но вы же свои! | We're strictly forbidden to show this. But you're family! | #1171: Нам вообще запрещено это показывать<br>#1172: Но вы же свои | verbatim |
+| 10 | Самсон | А ещё есть ближний бой! Смотри, как я умею! | And there's also close combat! Watch what I can do! | #1175: ближний бой | verbatim |
+| 11 | Нина | Тише, Ваня, осторожно! Зачем ты бьёшь дерево ногой? | Easy, Vanya, be careful! Why are you kicking the tree with your foot? | #1178: Тише | verbatim |
+| 12 | Самсон | Да нормально, не бойся! Можешь так, Даня, или нет? | It's fine, don't be afraid! Can you do that, Danya, or not? | #1179: Да нормально<br>#1180: нет | adapted: 'не боись' -> 'не бойся' |
+| 13 | Даня | Нет, так не могу. Ты выше меня ударил. | No, I can't do that. You kicked higher than me. | #1181: Нет<br>#1184: Ты выше | verbatim |
+| 14 | Самсон | А я сейчас ещё выше ударю! Смотрите все! | And right now I'll kick even higher! Watch, everyone! | #1184: выше | verbatim |
+| 15 | Даня | Ай, моя рука! Топор упал мне на руку! | Ow, my hand! The axe fell onto my hand! | new | new: new line voicing the visual accident between cues 1185 and 1186 |
+| 16 | Нина | Самсонов, ты с ума сошёл?! Быстро в больницу! | Samsonov, have you lost your mind?! Quickly to the hospital! | #1186: Самсонов, ты | adapted: 'дебил' -> 'с ума сошёл' |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

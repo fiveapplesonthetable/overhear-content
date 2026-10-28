@@ -10,32 +10,32 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Настя | Значит так. | Listen up, everyone. | #210 00:13:32: Значит так | verbatim |
-| 2 | Настя | Чё ты улыбаешься, вялый, а? | Why are you smiling, you limp noodle, huh? | #212 00:13:39: Чё ты улыбаешься, вялый, а | verbatim |
-| 3 | Настя | Чё ты улыбаешься, а? | What are you smiling at, huh? | #212 00:13:39: Чё ты улыбаешься, а | verbatim |
-| 4 | Настя | А? Чё ты улыбаешься? | Huh? Why are you smiling? | #212 00:13:39: а? Чё ты улыбаешься | verbatim |
-| 5 | Настя | Что ты там подаешь? | What are you serving over there? | #214 00:13:44: что ты там подаешь | verbatim |
-| 6 | Настя | Дмитрий Владимирович, при чем здесь Настя? | Dmitriy Vladimirovich, what does Nastya have to do with this? | #215 00:13:47: Дмитрий Владимирович, при чем здесь Настя | verbatim |
-| 7 | Настя | Ясно тебе? | Is that clear to you? | #215 00:13:47: Ясно тебе | verbatim |
-| 8 | Настя | При том. | She has everything to do with it. | #216 00:13:50: При том | verbatim |
-| 9 | Настя | Кому что она подает. | Depending on who she serves and what she serves. | #217 00:13:54: Кому что она подает | verbatim |
-| 10 | Настя | Рот закрыли. | Shut your mouths. | #220 00:14:01: Рот закрыли | verbatim |
-| 11 | Настя | Значит, тебе говорю, всем говорю. | I am telling you, and I am telling all of you. | #221 00:14:05: Значит, тебе говорю, всем говорю | verbatim |
-| 12 | Настя | Не буду называть фамилию, только попробуйте облажаться. | I will not name names, but just try screwing up. | #223 00:14:09: Не буду называть фамилию, только попробуйте облажаться | verbatim |
-| 13 | Настя | Только попробуйте. | Just you try. | #224 00:14:11: Только попробуйте | verbatim |
+| 1 | Настя | Значит так. | Listen up, everyone. | #210: Значит так | verbatim |
+| 2 | Нагиев | Чё ты улыбаешься, вялый, а? | Why are you smiling, you limp noodle, huh? | #212: Чё ты улыбаешься, вялый, а | verbatim |
+| 3 | Настя | Чё ты улыбаешься, а? | What are you smiling at, huh? | #212: Чё ты улыбаешься, а | verbatim |
+| 4 | Нагиев | А? Чё ты улыбаешься? | Huh? Why are you smiling? | #212: а? Чё ты улыбаешься | verbatim |
+| 5 | Настя | Что ты там подаешь? | What are you serving over there? | #214: что ты там подаешь | verbatim |
+| 6 | Нагиев | Дмитрий Владимирович, при чем здесь Настя? | Dmitriy Vladimirovich, what does Nastya have to do with this? | #215: Дмитрий Владимирович, при чем здесь Настя | verbatim |
+| 7 | Настя | Ясно тебе? | Is that clear to you? | #215: Ясно тебе | verbatim |
+| 8 | Нагиев | При том. | She has everything to do with it. | #216: При том | verbatim |
+| 9 | Настя | Кому что она подает. | Depending on who she serves and what she serves. | #217: Кому что она подает | verbatim |
+| 10 | Нагиев | Рот закрыли. | Shut your mouths. | #220: Рот закрыли | verbatim |
+| 11 | Настя | Значит, тебе говорю, всем говорю. | I am telling you, and I am telling all of you. | #221: Значит, тебе говорю, всем говорю | verbatim |
+| 12 | Нагиев | Не буду называть фамилию, только попробуйте облажаться. | I will not name names, but just try screwing up. | #223: Не буду называть фамилию, только попробуйте облажаться | verbatim |
+| 13 | Настя | Только попробуйте. | Just you try. | #224: Только попробуйте | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Listen up, everyone.' In Russian, the idea of 'so' flows naturally into 'like this' without extra filler words.
-- 'Why are you smiling, you limp noodle, huh?' Here the Russian phrasing highlights 'what' before landing on 'and'. Nastya answers right away.
-- 'What are you smiling at, huh?' The meaning hinges on 'what' working together with 'and' in spoken Russian.
-- 'Huh? Why are you smiling?' Dmitry raises the pitch on 'are smiling' to turn the phrase into a direct spoken question.
-- 'What are you serving over there?' Nastya addresses the listener with the informal singular 'you' alongside 'are filing'. Dmitry answers right away.
-- 'Dmitriy Vladimirovich, what does Nastya have to do with this?' The grammar packs 'Dmitry' and 'Nastya' into a tight, idiomatic kitchen exchange.
-- 'Is that clear to you?' Notice how Russian expresses 'clear' and 'you' with crisp inflection rather than helper words.
-- 'She has everything to do with it.' Dmitry anchors the line on 'involved in', while 'that' completes the thought. Nastya answers right away.
-- 'Depending on who she serves and what she serves.' In Russian, the idea of 'to whom' flows naturally into 'to serve' without extra filler words.
-- 'Shut your mouths.' Here the Russian phrasing highlights 'mouth' before landing on 'to close'.
-- 'I am telling you, and I am telling all of you.' Spoken Russian keeps this brisk, leaning on 'so' and finishing on 'to everyone'. Dmitry answers right away.
-- 'I will not name names, but just try screwing up.' Here the Russian phrasing highlights 'not' before landing on 'screw up'.
-- 'Just you try.' Nastya brings out the contrast between 'only' and 'try' in a few short words.
+- 'Listen up, everyone.' With the shift and smile in play, Nastya keeps this short reply brisk and direct.
+- 'Why are you smiling, you limp noodle, huh?' Here wondering why Nastya smiling Nastya limp noodle huh is shows Nagiyev looking for the real truth. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'What are you smiling at, huh?' By asking what Nagiyev smiling at huh is, Nastya presses Nagiyev for a straight answer. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Huh? Why are you smiling?' Wondering why Nastya smiling is cuts straight through the tension between Nagiyev and Nastya.
+- 'What are you serving over there?' Asking what Nagiyev serving over there is is how Nastya puts Nagiyev on the spot. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Dmitriy Vladimirovich, what does Nastya have to do with this?' Wondering if Dmitriy Vladimirovich what does Nastya have to do with this shows Nagiyev caught off guard. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Is that clear to you?' By checking whether that clear to Nagiyev, Nastya presses Nagiyev for a straight answer.
+- 'She has everything to do with it.' Even though she has everything to do with it, Nagiyev keeps a steady face in front of Nastya.
+- 'Depending on who she serves and what she serves.' Admitting that depending on who she serves and what she serves shows Nastya being honest for a change.
+- 'Shut your mouths.' Pointing out that Nastya should shut Nastya's mouths gives Nastya a sobering reality check.
+- 'I am telling you, and I am telling all of you.' Being telling Nagiyev and she is telling all of Nagiyev moves the conversation forward without extra drama. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'I will not name names, but just try screwing up.' Adding that he will not name names but just try screwing up fills in the missing piece for Nastya.
+- 'Just you try.' Nastya tells Nagiyev that just Nagiyev tries without dressing it up.

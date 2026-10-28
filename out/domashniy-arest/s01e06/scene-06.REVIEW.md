@@ -10,22 +10,22 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Лавров | Здравия желаю, товарищ генерал. Все на связи. | Good day, Comrade General. Everyone is on the line. | #187 00:11:36: Здравия желаю<br>#192 00:11:45: товарищ генерал<br>#235 00:13:35: Все на связи | adapted: combined greeting and connection check for Zina |
-| 2 | Генерал Круглов | Я вижу, сегодня все в сборе. Ладно, давай, докладывай. | I see everyone is here today. Alright, go ahead, report. | #190 00:11:42: Я вижу, сегодня все в сборе<br>#195 00:11:52: Ладно<br>#195 00:11:52: давай, докладывай | verbatim |
-| 3 | Лавров | Появились новые сложности. Тут кандидат из народа, Самсонов. | New difficulties have appeared. There's a candidate from the people here, Samsonov. | #197 00:11:57: Появились новые сложности<br>#199 00:12:00: Тут кандидат из народа, Самсонов | verbatim |
-| 4 | Лавров | Он мэра в окно выбросил. Вы помните? | He threw the mayor out the window. Do you remember? | #200 00:12:04: мэра в окно выбросил<br>#201 00:12:06: Вы помните | verbatim |
-| 5 | Генерал Круглов | Так, я всё помню. | Right, I remember everything. | #202 00:12:07: Так, я все помню | verbatim |
-| 6 | Лавров | Он теперь набирает популярность. И Осипенко может проиграть выборы. | He is now gaining popularity. And Osipenko might lose the election. | #203 00:12:08: он теперь набирает популярность<br>#205 00:12:13: Осипенко<br>#206 00:12:15: может проиграть выборы | verbatim |
-| 7 | Генерал Круглов | И что? | And so? | #207 00:12:18: И что | verbatim |
-| 8 | Лавров | Местные люди боятся давать деньги в наш кластер. | The local people are afraid to put money into our cluster. | #209 00:12:20: местные<br>#209 00:12:20: боятся<br>#209 00:12:20: в наш<br>#209 00:12:20: кластер | adapted: simplified 'местные элиты боятся вкладываться в наш выдуманный кластер' for A1 |
-| 9 | Лавров | А Осипенко сейчас дома лежит. У него больное сердце. | And Osipenko is lying at home right now. He has a sick heart. | #212 00:12:28: у него<br>#212 00:12:28: дома лежит | adapted: simplified 'гипертонический криз' -> 'больное сердце' for A1 |
-| 10 | Генерал Круглов | Так, полковник, успокойся. Зина, дай вилку. | Easy, Colonel, calm down. Zina, give me a fork. | #220 00:12:45: Так, полковник, успокойся<br>#221 00:12:48: Зина, дай вилку | verbatim |
-| 11 | Лавров | Пожалуйста, товарищ генерал. Вот ваша вилка. | Here you go, Comrade General. Here is your fork. | #222 00:12:49: Товарищ генерал | adapted: Zina hands him the fork |
-| 12 | Лавров | Мы должны остановить этого народного кандидата. Тогда выиграет Осипенко. | We must stop this people's candidate. Then Osipenko will win. | #223 00:12:51: Мы должны<br>#223 00:12:51: этого народного кандидата<br>#224 00:12:55: выиграл<br>#225 00:12:57: Осипенко | adapted: simplified 'дискредитировать' -> 'остановить' for A1 |
-| 13 | Генерал Круглов | Подожди. Ты предлагаешь вмешаться в честный ход выборов? | Wait. Are you proposing to interfere in the honest course of the election? | #227 00:13:04: Подожди<br>#228 00:13:06: Ты предлагаешь вмешаться в<br>#228 00:13:06: ход выборов | adapted: fixed ASR 'частный' -> 'честный' |
-| 14 | Лавров | Да. | Yes. | #229 00:13:13: Да | verbatim |
-| 15 | Генерал Круглов | Отлично, занимайтесь! Все на связи. | Excellent, get on it! Everyone stay in touch. | #230 00:13:17: Отлично, занимайтесь<br>#235 00:13:35: Все на связи | verbatim |
-| 16 | Лавров | Есть! Спасибо, до свидания. | Yes, sir! Thank you, goodbye. | #231 00:13:18: Есть. Спасибо, до свидания | verbatim |
+| 1 | Зина | Здравия желаю, товарищ генерал. Все на связи. | Good day, Comrade General. Everyone is on the line. | #187: Здравия желаю<br>#192: товарищ генерал<br>#235: Все на связи | adapted: combined greeting and connection check for Zina |
+| 2 | Генерал Круглов | Я вижу, сегодня все в сборе. Ладно, давай, докладывай. | I see everyone is here today. Alright, go ahead, report. | #190: Я вижу, сегодня все в сборе<br>#195: Ладно<br>#195: давай, докладывай | verbatim |
+| 3 | Лавров | Появились новые сложности. Тут кандидат из народа, Самсонов. | New difficulties have appeared. There's a candidate from the people here, Samsonov. | #197: Появились новые сложности<br>#199: Тут кандидат из народа, Самсонов | verbatim |
+| 4 | Лавров | Он мэра в окно выбросил. Вы помните? | He threw the mayor out the window. Do you remember? | #200: мэра в окно выбросил<br>#201: Вы помните | verbatim |
+| 5 | Генерал Круглов | Так, я всё помню. | Right, I remember everything. | #202: Так, я все помню | verbatim |
+| 6 | Лавров | Он теперь набирает популярность. И Осипенко может проиграть выборы. | He is now gaining popularity. And Osipenko might lose the election. | #203: он теперь набирает популярность<br>#205: Осипенко<br>#206: может проиграть выборы | verbatim |
+| 7 | Генерал Круглов | И что? | And so? | #207: И что | verbatim |
+| 8 | Лавров | Местные люди боятся давать деньги в наш кластер. | The local people are afraid to put money into our cluster. | #209: местные<br>#209: боятся<br>#209: в наш<br>#209: кластер | adapted: simplified 'местные элиты боятся вкладываться в наш выдуманный кластер' for A1 |
+| 9 | Лавров | А Осипенко сейчас дома лежит. У него больное сердце. | And Osipenko is lying at home right now. He has a sick heart. | #212: у него<br>#212: дома лежит | adapted: simplified 'гипертонический криз' -> 'больное сердце' for A1 |
+| 10 | Генерал Круглов | Так, полковник, успокойся. Зина, дай вилку. | Easy, Colonel, calm down. Zina, give me a fork. | #220: Так, полковник, успокойся<br>#221: Зина, дай вилку | verbatim |
+| 11 | Зина | Пожалуйста, товарищ генерал. Вот ваша вилка. | Here you go, Comrade General. Here is your fork. | #222: Товарищ генерал | adapted: Zina hands him the fork |
+| 12 | Лавров | Мы должны остановить этого народного кандидата. Тогда выиграет Осипенко. | We must stop this people's candidate. Then Osipenko will win. | #223: Мы должны<br>#223: этого народного кандидата<br>#224: выиграл<br>#225: Осипенко | adapted: simplified 'дискредитировать' -> 'остановить' for A1 |
+| 13 | Генерал Круглов | Подожди. Ты предлагаешь вмешаться в честный ход выборов? | Wait. Are you proposing to interfere in the honest course of the election? | #227: Подожди<br>#228: Ты предлагаешь вмешаться в<br>#228: ход выборов | adapted: fixed ASR 'частный' -> 'честный' |
+| 14 | Лавров | Да. | Yes. | #229: Да | verbatim |
+| 15 | Генерал Круглов | Отлично, занимайтесь! Все на связи. | Excellent, get on it! Everyone stay in touch. | #230: Отлично, занимайтесь<br>#235: Все на связи | verbatim |
+| 16 | Лавров | Есть! Спасибо, до свидания. | Yes, sir! Thank you, goodbye. | #231: Есть. Спасибо, до свидания | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

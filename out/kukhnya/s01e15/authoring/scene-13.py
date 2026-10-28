@@ -4,33 +4,32 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 15
 SCENE = 13
-TITLE = "Сложный разговор  (A Difficult Conversation)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Сложный разговор  (A Difficult Conversation)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "lyova": "angelina", "anya": "alisa"}
-LABELS = {"lyova": "Лёва", "anya": "Макс"}
+LABELS = {'lyova': 'Лёва', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.15'
 SOURCE_FILE = 'sources/kukhnya/s01/e15.ru.dual.srt'
 INTRO = "Lyova is feeling guilty and he discusses his living situation with his friend Max. Let's listen closely to their exchange in Russian first, and then walk through each line together."
 OPENER = "Now let's go back through the exchange around A Difficult Conversation line by line and unpack how the Russian works."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Max leaves, and he leaves Lyova to reflect on the friendship with the boss. Next time you watch the episode, listen for the Russian expressions for 'mean' and 'person' — you will catch every word right away. See you next time!"
-CLOSING = ("anya", "Пока!")
+CLOSING = ('max', 'Пока!')
 STORY = [
     ('lyova', 'Какой я подлый человек.', 'What a lowlife I am.', [(297, 'подлый человек, а.')], ''),
-    ('anya', 'Лёва, перестань на себя наговаривать.', 'Lyova, stop putting yourself down.', [], ''),
+    ('max', 'Лёва, перестань на себя наговаривать.', 'Lyova, stop putting yourself down.', [], ''),
     ('lyova', 'Я выгнал человека из дома.', 'I kicked a person out of the home.', [], ''),
-    ('anya', 'В конце концов, шеф сам виноват.', 'After all, the boss himself is guilty.', [], ''),
+    ('max', 'В конце концов, шеф сам виноват.', 'After all, the boss himself is guilty.', [], ''),
     ('lyova', 'Виноват он, а плохо мне.', 'He is guilty, but I feel bad.', [], ''),
-    ('anya', 'Почему шеф вообще у тебя живет?', 'Why does the boss even live with you?', [], ''),
+    ('max', 'Почему шеф вообще у тебя живет?', 'Why does the boss even live with you?', [], ''),
     ('lyova', 'Он ушёл из семьи.', 'He left his family.', [], ''),
     ('lyova', 'Он оставил им квартиру.', 'He left the apartment to them.', [], ''),
-    ('anya', 'Тебе его жалко?', 'Do you feel sorry for him?', [], ''),
+    ('max', 'Тебе его жалко?', 'Do you feel sorry for him?', [], ''),
     ('lyova', 'Он бывает невыносимым человеком.', 'He can be an unbearable person.', [], ''),
     ('lyova', 'Но у меня больше никого нет.', 'But I have no one else.', [], ''),
-    ('anya', 'Близкими людьми не стоит разбрасываться.', 'Close people should not be scattered.', [], ''),
+    ('max', 'Близкими людьми не стоит разбрасываться.', 'Close people should not be scattered.', [], ''),
     ('lyova', 'В итоге можно остаться одному.', 'In the end, one can stay alone.', [], ''),
-    ('anya', 'Мне пора идти к близкому человеку.', 'It is time for me to go to a close person.', [], ''),
+    ('max', 'Мне пора идти к близкому человеку.', 'It is time for me to go to a close person.', [], ''),
 ]
 WALK = [
     (0, None, "'What a lowlife I am.' Russian omits the present-tense verb 'to be', connecting 'what a' directly with 'a man'."),

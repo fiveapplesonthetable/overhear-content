@@ -1,33 +1,47 @@
-# Review: `dix-pour-cent-s02e02-scene-28` — La nouvelle agente de Fabrice  (Fabrice's New Agent)
+# dix-pour-cent-s02e02-scene-28: review sheet
 
-- **Source**: `sources/dix-pour-cent/s02/e02.fr.dual.srt`
-- **Level**: A1 — débutant
-- **Voices**: `{"narrator": "sky", "fabrice": "theo", "lea": "lucie", "hicham": "marcel"}`
-- **Labels**: `{"fabrice": "Fabrice", "lea": "Andréa", "hicham": "Hicham"}`
+Title: La nouvelle agente de Fabrice  (Fabrice's New Agent)
+Level: A1 — débutant
+Pair: fr-en
+Source: Dix pour cent (Call My Agent!) S02E02
 
-## Part 1 — Intro
-> Amused by her daring tactics and grateful for her romantic encouragement, the eccentric actor announces that he wants her as his new agent, right as agency boss Hicham looks on in approval. Listen to the scene in French first. Don't worry about catching every word. Let's listen to the scene in French first.
 
-## Part 2 — Story Lines
-| # | Role | French | English | Source Cues |
-|---|------|--------|---------|-------------|
-| 0 | `lea` (Andréa) | Allô? | Hello? | 922:Allô |
-| 1 | `fabrice` (Fabrice) | Bonjour, Andréa. C'est Fabrice Luchini. | Hello, Andréa. This is Fabrice Luchini. | 922:Bonjour, Andréa, 923:C'est Fabrice Luchini |
-| 2 | `lea` (Andréa) | Bonjour, Fabrice. Vous allez bien? | Hello, Fabrice. Are you well? | 923:Bonjour, Fabrice, 924:Vous allez bien |
-| 3 | `fabrice` (Fabrice) | Très bien. Je voulais juste vous dire... | Very well. I just wanted to tell you... | 924:Très bien, 925:Je voulais juste vous dire |
-| 4 | `fabrice` (Fabrice) | J'ai rendez-vous avec elle ce soir. | I have a date with her tonight. | 926:j'ai rendez-vous avec elle ce soir |
-| 5 | `lea` (Andréa) | C'est formidable, je suis vraiment contente pour vous. | That | 928:C'est formidable, je suis vraiment contente pour vous |
-| 6 | `fabrice` (Fabrice) | Grâce à vous! Vous m'avez revigoré. | Thanks to you! You have revitalized me. | 929:Grâce à vous, 931:Vous m'avez revigoré |
-| 7 | `fabrice` (Fabrice) | Je trouve ça drôle. Vous êtes une joueuse, et c'est rare. | I find it funny. You are a gambler, and that is rare. | 932:je trouve ça drôle, 933:Vous êtes une joueuse, et c'est rare |
-| 8 | `lea` (Andréa) | Merci. | Thank you. | 934:Merci |
-| 9 | `fabrice` (Fabrice) | Ce serait un plaisir de les découvrir avec vous. | It would be a pleasure to discover them with you. | 937:ce serait un plaisir de les découvrir avec vous |
-| 10 | `lea` (Andréa) | Merci pour votre appel, Fabrice. | Thank you for your call, Fabrice. | 938:Merci pour votre appel, Fabrice |
-| 11 | `fabrice` (Fabrice) | Prenez soin de vous... Ma Nouvelle Agente. | Take care of yourself... My New Agent. | 939:Prenez soin de vous, 939:Ma Nouvelle Agente |
-| 12 | `lea` (Andréa) | À bientôt, Fabrice. | See you soon, Fabrice. | 940:À bientôt |
-| 13 | `fabrice` (Fabrice) | À bientôt. | Talk to you soon. | 940:À bientôt |
-| 14 | `hicham` (Hicham) | Bravo, Martel. | Well done, Martel. | 941:Bravo, Martel |
-| 15 | `hicham` (Hicham) | Je savais que vous en étiez capable. | I knew you were capable of it. | 942:Je savais que vous en étiez capable |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 5 — Outro & Closing
-> By winning over Fabrice Luchini with her boldness, Andréa saves her position at ASK and earns the hard-won respect of new majority shareholder Hicham Janowski. See you next time!
-- **Closing**: `hicham`: *À demain!*
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+|---|---|---|---|---|---|
+| 1 | Andréa | Allô? | Hello? | #922: Allô | verbatim |
+| 2 | Fabrice | Bonjour, Andréa. C'est Fabrice Luchini. | Hello, Andréa. This is Fabrice Luchini. | #922: Bonjour, Andréa<br>#923: C'est Fabrice Luchini | verbatim |
+| 3 | Andréa | Bonjour, Fabrice. Vous allez bien? | Hello, Fabrice. Are you well? | #923: Bonjour, Fabrice<br>#924: Vous allez bien | verbatim |
+| 4 | Fabrice | Très bien. Je voulais juste vous dire... | Very well. I just wanted to tell you... | #924: Très bien<br>#925: Je voulais juste vous dire | verbatim |
+| 5 | Fabrice | J'ai rendez-vous avec elle ce soir. | I have a date with her tonight. | #926: j'ai rendez-vous avec elle ce soir | verbatim |
+| 6 | Andréa | C'est formidable, je suis vraiment contente pour vous. | That | #928: C'est formidable, je suis vraiment contente pour vous | verbatim |
+| 7 | Fabrice | Grâce à vous! Vous m'avez revigoré. | Thanks to you! You have revitalized me. | #929: Grâce à vous<br>#931: Vous m'avez revigoré | verbatim |
+| 8 | Fabrice | Je trouve ça drôle. Vous êtes une joueuse, et c'est rare. | I find it funny. You are a gambler, and that is rare. | #932: je trouve ça drôle<br>#933: Vous êtes une joueuse, et c'est rare | verbatim |
+| 9 | Andréa | Merci. | Thank you. | #934: Merci | verbatim |
+| 10 | Fabrice | Ce serait un plaisir de les découvrir avec vous. | It would be a pleasure to discover them with you. | #937: ce serait un plaisir de les découvrir avec vous | verbatim |
+| 11 | Andréa | Merci pour votre appel, Fabrice. | Thank you for your call, Fabrice. | #938: Merci pour votre appel, Fabrice | verbatim |
+| 12 | Fabrice | Prenez soin de vous... Ma Nouvelle Agente. | Take care of yourself... My New Agent. | #939: Prenez soin de vous<br>#939: Ma Nouvelle Agente | verbatim |
+| 13 | Andréa | À bientôt, Fabrice. | See you soon, Fabrice. | #940: À bientôt | verbatim |
+| 14 | Fabrice | À bientôt. | Talk to you soon. | #940: À bientôt | verbatim |
+| 15 | Hicham | Bravo, Martel. | Well done, Martel. | #941: Bravo, Martel | verbatim |
+| 16 | Hicham | Je savais que vous en étiez capable. | I knew you were capable of it. | #942: Je savais que vous en étiez capable | verbatim |
+
+## Walk-through narration (English only, no target-language words quoted)
+
+- 'Hello?' Andréa answers her mobile phone at the agency.
+- 'Hello, Andréa. This is Fabrice Luchini.' Fabrice identifies himself warmly.
+- 'Hello, Fabrice. Are you well?' Andréa uses the polite question form.
+- 'Very well. I just wanted to tell you...' Listen for the expression meaning 'very', which leads naturally into 'to tell'.
+- 'I have a date with her tonight.' Fabrice pairs the verb meaning 'I have' with the noun for 'evening'.
+- 'That's wonderful, I am really happy for you.' The feminine adjective 'happy' agrees with Andréa.
+- 'Thanks to you! You have revitalized me.' Listen for the expression meaning 'have me', which leads naturally into 'revitalized'.
+- 'I find it funny. You are a gambler, and that is rare.' The key word here means 'find', paired with 'rare' to make the point clear.
+- 'Thank you.' Andréa accepts his flattering compliment.
+- 'It would be a pleasure to discover them with you.' Fabrice pairs the verb meaning 'would be' with the noun for 'pleasure'.
+- 'Thank you for your call, Fabrice.' Andréa thanks him for reaching out directly.
+- 'Take care of yourself... My New Agent.' The key word here means 'take', paired with 'agent' to make the point clear.
+- 'See you soon, Fabrice.' Andréa says goodbye to her prestigious new client.
+- 'Talk to you soon.' Fabrice returns the farewell before hanging up.
+- 'Well done, Martel.' Hicham steps in to congratulate his daring agent.
+- 'I knew you were capable of it.' Hicham opens with the word for 'knew' and lands on 'capable' at the close.

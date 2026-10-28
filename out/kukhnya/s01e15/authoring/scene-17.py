@@ -4,32 +4,31 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 15
 SCENE = 17
-TITLE = "Желание переехать  (Desire to Move In)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Желание переехать  (Desire to Move In)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "anya": "alisa", "vika": "angelina"}
-LABELS = {"anya": "Макс", "vika": "Вика"}
+LABELS = {'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.15'
 SOURCE_FILE = 'sources/kukhnya/s01/e15.ru.dual.srt'
 INTRO = "Max arrives at Victoria's apartment and awkwardly asks to move in with her. He tries to sound independent, but eventually admits his true feelings. Let us listen to their conversation in Russian first."
 OPENER = 'Now let us examine the conversation line by line.'
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Max arrives at Victoria's apartment and awkwardly asks to move in with her. He tries to sound independent, but eventually admits his true feelings. Next time you watch the episode, listen for the Russian expressions for 'to want' and 'to move' — you will catch every word right away. See you next time!"
-CLOSING = ("vika", "Пока!")
+CLOSING = ('vika', 'Пока!')
 STORY = [
-    ('anya', 'Привет, Макс.', 'Hi, Max.', [(335, 'Привет.')], ''),
+    ('max', 'Привет, Макс.', 'Hi, Max.', [(335, 'Привет.')], ''),
     ('vika', 'Привет.', 'Hi.', [(335, 'Привет.')], ''),
-    ('anya', 'Я хочу переехать к тебе.', 'I want to move to your place.', [(336, 'Я хочу переехать к тебе.')], ''),
+    ('max', 'Я хочу переехать к тебе.', 'I want to move to your place.', [(336, 'Я хочу переехать к тебе.')], ''),
     ('vika', 'Тебе негде жить?', 'Do you have nowhere to live?', [(337, 'Что, негде жить?')], ''),
-    ('anya', 'Нет, у меня миллион вариантов.', 'No, I have a million options.', [(337, 'Да нет, просто...'), (338, 'Да миллион вариантов.')], ''),
-    ('anya', 'Костя зовёт меня назад.', 'Kostya is calling me back.', [(338, 'Просто Костя назад зовет,')], ''),
-    ('anya', 'Лёва тоже приглашает жить.', 'Leva is also inviting me to live.', [(338, 'Лёва тоже приглашает,')], ''),
-    ('anya', 'Но я готов жить с тобой.', 'But I am ready to live with you.', [(339, 'Но я готов жить с тобой.')], ''),
+    ('max', 'Нет, у меня миллион вариантов.', 'No, I have a million options.', [(337, 'Да нет, просто...'), (338, 'Да миллион вариантов.')], ''),
+    ('max', 'Костя зовёт меня назад.', 'Kostya is calling me back.', [(338, 'Просто Костя назад зовет,')], ''),
+    ('max', 'Лёва тоже приглашает жить.', 'Leva is also inviting me to live.', [(338, 'Лёва тоже приглашает,')], ''),
+    ('max', 'Но я готов жить с тобой.', 'But I am ready to live with you.', [(339, 'Но я готов жить с тобой.')], ''),
     ('vika', 'Что ты хочешь сказать?', 'What do you want to say?', [], ''),
-    ('anya', 'Я хочу жить с тобой.', 'I want to live with you.', [(340, 'В смысле, хочу.')], ''),
-    ('anya', 'Я не хочу быть без тебя.', 'I do not want to be without you.', [(341, 'В смысле, не хочу без тебя.')], ''),
+    ('max', 'Я хочу жить с тобой.', 'I want to live with you.', [(340, 'В смысле, хочу.')], ''),
+    ('max', 'Я не хочу быть без тебя.', 'I do not want to be without you.', [(341, 'В смысле, не хочу без тебя.')], ''),
     ('vika', 'Это очень приятно слышать.', 'That is very pleasant to hear.', [], ''),
-    ('anya', 'Правда?', 'Really?', [], ''),
+    ('max', 'Правда?', 'Really?', [], ''),
     ('vika', 'Да, я тебе верю.', 'Yes, I believe you.', [], ''),
 ]
 WALK = [

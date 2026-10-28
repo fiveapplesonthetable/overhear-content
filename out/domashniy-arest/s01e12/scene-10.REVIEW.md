@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Самсон | Пожалуйста, вот ваш выигрыш, забирайте фишки. | Please, here is your winnings, take the chips. | #182 00:18:39: Пожалуйста, выигрыш | verbatim |
-| 2 | Самсон | Подождите, я тоже хочу сейчас выиграть! | Wait, I also want to win right now! | #182 00:18:39: Пожалуйста | verbatim |
-| 3 | Рожок | Самсон, нам пора уходить отсюда домой. | Samson, it is time for us to leave here for home. | #182 00:18:39: Пожалуйста | verbatim |
-| 4 | Самсон | Нет, я поставлю ещё один раз! | No, I will place a bet one more time! | #182 00:18:39: Пожалуйста | verbatim |
-| 5 | Самсон | Делайте ваши ставки, господа игроки. | Place your bets, gentlemen players. | #182 00:18:39: Пожалуйста | verbatim |
-| 6 | Самсон | Я ставлю все деньги на красное! | I bet all the money on red! | #182 00:18:39: Пожалуйста | verbatim |
-| 7 | Рожок | Ты рискуешь потерять последние деньги семьи. | You risk losing the family's last money. | #182 00:18:39: Пожалуйста | verbatim |
-| 8 | Самсон | Мне обязательно сегодня должно повезти здесь. | I definitely must get lucky here today. | #182 00:18:39: Пожалуйста | verbatim |
-| 9 | Самсон | Ставки сделаны, больше ставок нет. | The bets are placed, no more bets. | #182 00:18:39: Пожалуйста | verbatim |
-| 10 | Рожок | Я очень сильно волнуюсь за тебя. | I worry about you very strongly. | #182 00:18:39: Пожалуйста | verbatim |
-| 11 | Самсон | Смотри внимательно, колесо уже быстро крутится! | Watch carefully, the wheel is already spinning fast! | #182 00:18:39: Пожалуйста | verbatim |
-| 12 | Самсон | Пожалуйста, вот новый выигрыш за столом. | Please, here is the new winnings at the table. | #182 00:18:39: Пожалуйста, выигрыш | verbatim |
+| 1 | Крупье | Пожалуйста, вот ваш выигрыш, забирайте фишки. | Please, here is your winnings, take the chips. | #182: Пожалуйста, выигрыш | verbatim |
+| 2 | Самсон | Подождите, я тоже хочу сейчас выиграть! | Wait, I also want to win right now! | #182: Пожалуйста | verbatim |
+| 3 | Рожок | Самсон, нам пора уходить отсюда домой. | Samson, it is time for us to leave here for home. | #182: Пожалуйста | verbatim |
+| 4 | Самсон | Нет, я поставлю ещё один раз! | No, I will place a bet one more time! | #182: Пожалуйста | verbatim |
+| 5 | Крупье | Делайте ваши ставки, господа игроки. | Place your bets, gentlemen players. | #182: Пожалуйста | verbatim |
+| 6 | Самсон | Я ставлю все деньги на красное! | I bet all the money on red! | #182: Пожалуйста | verbatim |
+| 7 | Рожок | Ты рискуешь потерять последние деньги семьи. | You risk losing the family's last money. | #182: Пожалуйста | verbatim |
+| 8 | Самсон | Мне обязательно сегодня должно повезти здесь. | I definitely must get lucky here today. | #182: Пожалуйста | verbatim |
+| 9 | Крупье | Ставки сделаны, больше ставок нет. | The bets are placed, no more bets. | #182: Пожалуйста | verbatim |
+| 10 | Рожок | Я очень сильно волнуюсь за тебя. | I worry about you very strongly. | #182: Пожалуйста | verbatim |
+| 11 | Самсон | Смотри внимательно, колесо уже быстро крутится! | Watch carefully, the wheel is already spinning fast! | #182: Пожалуйста | verbatim |
+| 12 | Крупье | Пожалуйста, вот новый выигрыш за столом. | Please, here is the new winnings at the table. | #182: Пожалуйста, выигрыш | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

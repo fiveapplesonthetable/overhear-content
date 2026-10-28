@@ -1,30 +1,41 @@
-# Review: `dix-pour-cent-s03e04-scene-11` — Après le direct  (After the Live Show)
+# dix-pour-cent-s03e04-scene-11: review sheet
 
-- **Source**: `sources/dix-pour-cent/s03/e04.fr.dual.srt`
-- **Level**: A1 — débutant
-- **Voices**: `{"narrator": "sky", "mathias": "marcel", "isabelle": "emilie"}`
-- **Labels**: `{"mathias": "Mathias", "isabelle": "Isabelle"}`
+Title: Après le direct  (After the Live Show)
+Level: A1 — débutant
+Pair: fr-en
+Source: Dix pour cent (Call My Agent!) S03E04
 
-## Part 1 — Intro
-> Directly after finishing her live radio interview with Laure Adler, Isabelle and Mathias hurry through the labyrinth of corridors. As Mathias rushes toward the exit, Isabelle wants to know how her performance came across. Let's listen to their conversation in French first.
 
-## Part 2 — Story Lines
-| # | Role | French | English | Source Cues |
-|---|------|--------|---------|-------------|
-| 0 | `mathias` (Mathias) | Dépêchez-vous, nous devons partir vite! | Hurry up, we must leave quickly! | 694:Je passe devant |
-| 1 | `mathias` (Mathias) | Je passe devant pour ouvrir la porte. | I am going ahead to open the door. | 694:Je passe devant |
-| 2 | `isabelle` (Isabelle) | Alors, comment était mon interview en direct? | So, how was my live interview? | 696:Ça allait ? J'étais bien ? |
-| 3 | `isabelle` (Isabelle) | Est-ce que ça allait bien? | Did it go well? | 696:Ça allait ? |
-| 4 | `isabelle` (Isabelle) | J'étais bien au micro ce soir? | Was I good on the microphone tonight? | 696:J'étais bien ? |
-| 5 | `mathias` (Mathias) | Sans doute, vous étiez très brillante. | No doubt, you were very brilliant. | 697:Sans doute |
-| 6 | `isabelle` (Isabelle) | C'est formidable, Laure a adoré. | That is wonderful, Laure loved it. | 698:C'est formidable |
-| 7 | `mathias` (Mathias) | Mais maintenant, le tournage américain nous attend. | But now, the American shoot is waiting for us. | adapted |
-| 8 | `mathias` (Mathias) | Le réalisateur Gary va perdre patience. | Director Gary is going to lose patience. | adapted |
-| 9 | `isabelle` (Isabelle) | Ne paniquez pas, nous avons du temps. | Do not panic, we have time. | 696:Ça allait ? |
-| 10 | `mathias` (Mathias) | La voiture est garée juste en bas. | The car is parked right downstairs. | 694:Je passe devant |
-| 11 | `mathias` (Mathias) | Isabelle, montez vite à l'arrière! | Isabelle, get quickly into the back! | 694:Je passe devant |
-| 12 | `isabelle` (Isabelle) | Allons-y, je suis prête pour Gary. | Let us go, I am ready for Gary. | adapted |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 5 — Outro & Closing
-> Mathias successfully bundles Isabelle into the car, racing across the night to reach the American production on time. When you watch the episode, listen out for the expressions meaning 'hurry up' and 'must'. You'll catch them now. See you next time!
-- **Closing**: `isabelle`: *Bonne soirée!*
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+|---|---|---|---|---|---|
+| 1 | Mathias | Dépêchez-vous, nous devons partir vite! | Hurry up, we must leave quickly! | #694: Je passe devant | verbatim |
+| 2 | Mathias | Je passe devant pour ouvrir la porte. | I am going ahead to open the door. | #694: Je passe devant | verbatim |
+| 3 | Isabelle | Alors, comment était mon interview en direct? | So, how was my live interview? | #696: Ça allait ? J'étais bien ? | verbatim |
+| 4 | Isabelle | Est-ce que ça allait bien? | Did it go well? | #696: Ça allait ? | verbatim |
+| 5 | Isabelle | J'étais bien au micro ce soir? | Was I good on the microphone tonight? | #696: J'étais bien ? | verbatim |
+| 6 | Mathias | Sans doute, vous étiez très brillante. | No doubt, you were very brilliant. | #697: Sans doute | verbatim |
+| 7 | Isabelle | C'est formidable, Laure a adoré. | That is wonderful, Laure loved it. | #698: C'est formidable | verbatim |
+| 8 | Mathias | Mais maintenant, le tournage américain nous attend. | But now, the American shoot is waiting for us. | new | new |
+| 9 | Mathias | Le réalisateur Gary va perdre patience. | Director Gary is going to lose patience. | new | new |
+| 10 | Isabelle | Ne paniquez pas, nous avons du temps. | Do not panic, we have time. | #696: Ça allait ? | verbatim |
+| 11 | Mathias | La voiture est garée juste en bas. | The car is parked right downstairs. | #694: Je passe devant | verbatim |
+| 12 | Mathias | Isabelle, montez vite à l'arrière! | Isabelle, get quickly into the back! | #694: Je passe devant | verbatim |
+| 13 | Isabelle | Allons-y, je suis prête pour Gary. | Let us go, I am ready for Gary. | new | new |
+
+## Walk-through narration (English only, no target-language words quoted)
+
+- 'Hurry up, we must leave quickly!' Mathias urges Isabelle to move fast. The clause hinges on the everyday verb meaning 'hurry up'.
+- 'I am going ahead to open the door.' Mathias takes the lead through the studio hallways. The verb meaning 'go' pairs naturally with the noun for 'exit door' in everyday conversation.
+- 'So, how was my live interview?' Isabelle seeks immediate feedback on her appearance. The verb meaning 'was' pairs naturally with the noun for 'radio interview' in everyday conversation.
+- 'Did it go well?' Isabelle wonders whether the broadcast ran smoothly. The standard spoken question formula at the front turns the statement about 'went' into a natural inquiry.
+- 'Was I good on the microphone tonight?' Isabelle focuses on her personal delivery. In everyday spoken French, rising intonation on 'was' at the end is enough to turn the sentence into a question.
+- 'No doubt, you were very brilliant.' Mathias reassures her with quick praise. The verb meaning 'were' pairs naturally with the noun for 'doubt' in everyday conversation.
+- 'That is wonderful, Laure loved it.' Isabelle rejoices in the successful broadcast. The clause hinges on the everyday verb meaning 'has'.
+- 'But now, the American shoot is waiting for us.' Mathias pivots back to their primary obligation. The descriptive adjective for 'American' agrees in gender and number with its noun.
+- 'Director Gary is going to lose patience.' Mathias warns about tensions on the movie set. The verb meaning 'is going to' pairs naturally with the noun for 'movie director' in everyday conversation.
+- 'Do not panic, we have time.' Isabelle remains calm under pressure. The verb meaning 'panic' pairs naturally with the noun for 'time' in everyday conversation.
+- 'The car is parked right downstairs.' Mathias guides her toward their transport. This conversational past tense combines a helper verb with the past verb form for 'parked'.
+- 'Isabelle, get quickly into the back!' Mathias hurries her inside the vehicle. The verb meaning 'get in' pairs naturally with the noun for 'rear' in everyday conversation.
+- 'Let us go, I am ready for Gary.' Isabelle embraces the next challenge of the night. The clause hinges on the everyday verb meaning 'let us go'.

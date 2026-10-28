@@ -7,8 +7,7 @@ SCENE = 29
 TITLE = "Le baiser d'adieu  (The Farewell Kiss)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'lea': 'lucie', 'gabriel': 'theo', 'colette': 'emilie'}
-LABELS = {'lea': 'Andréa', 'gabriel': 'Gabriel', 'colette': 'Colette'}
+LABELS = {'andrea': 'Andréa', 'colette': 'Colette', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e06.fr.dual.srt'
 INTRO = 'Andréa has just sprinted out of the ASK conference room and down to the street to catch Colette Brancillon before she leaves forever, while Gabriel, Arlette, and the assistants watch from the upstairs balcony. Listen to the French first, without worrying about catching every word.'
@@ -17,15 +16,15 @@ TRANSITION = "Now let's listen to the whole scene again from start to finish."
 OUTRO = 'Colette walks away in tears, leaving Andréa heartbroken on the street while the agency faces ruin. See you next time!'
 CLOSING = ('colette', 'Au revoir!')
 STORY = [
-    ('lea', 'Je peux aussi te donner tout mon cœur.', 'I can also give you all my heart.', [(740, 'Je peux te donner plus que mon corps, je peux aussi te donner mon cœur')], ''),
-    ('lea', 'Je sais que je ne suis pas très douée.', 'I know that I', [(741, 'Je sais que'), (741, 'pas très doué')], ''),
-    ('lea', "C'est parce que j'ai peur.", 'It', [(741, "C'est parce que j'ai peur")], ''),
-    ('lea', 'Mais je veux apprendre.', 'But I want to learn.', [(742, 'Mais je veux apprendre')], ''),
+    ('andrea', 'Je peux aussi te donner tout mon cœur.', 'I can also give you all my heart.', [(740, 'Je peux te donner plus que mon corps, je peux aussi te donner mon cœur')], ''),
+    ('andrea', 'Je sais que je ne suis pas très douée.', 'I know that I', [(741, 'Je sais que'), (741, 'pas très doué')], ''),
+    ('andrea', "C'est parce que j'ai peur.", 'It', [(741, "C'est parce que j'ai peur")], ''),
+    ('andrea', 'Mais je veux apprendre.', 'But I want to learn.', [(742, 'Mais je veux apprendre')], ''),
     ('colette', "Je ne suis pas assez forte pour t'apprendre, Andréa.", 'I am not strong enough to teach you, Andréa.', [(743, "pour t'apprendre, Andréa")], ''),
-    ('lea', "Non, je veux apprendre de toi. De toi et de personne d'autre.", 'No, I want to learn from you. From you and from no one else.', [(744, "Non, je veux apprendre de toi. De toi et de personne d'autre")], ''),
+    ('andrea', "Non, je veux apprendre de toi. De toi et de personne d'autre.", 'No, I want to learn from you. From you and from no one else.', [(744, "Non, je veux apprendre de toi. De toi et de personne d'autre")], ''),
     ('gabriel', 'Mon Dieu! Elles sont ensemble! Non, non...', 'My God! They', [(745, 'Mon Dieu'), (749, 'Non, non')], ''),
     ('colette', 'Prends soin de toi, Andréa.', 'Take care of yourself, Andréa.', [(750, 'Prends soin de toi, Andréa')], ''),
-    ('lea', "Pourquoi tu dis ça? Tu m'embrasses et tu t'en vas?", 'Why do you say that? You kiss me and you leave?', [(751, 'Pourquoi tu dis ça'), (752, "Tu m'embrasses et tu t'en vas")], ''),
+    ('andrea', "Pourquoi tu dis ça? Tu m'embrasses et tu t'en vas?", 'Why do you say that? You kiss me and you leave?', [(751, 'Pourquoi tu dis ça'), (752, "Tu m'embrasses et tu t'en vas")], ''),
     ('gabriel', "Je ne vais pas l'épouser. Elle préfère les femmes.", 'I am not going to marry her. She prefers women.', [(757, "Non, je ne crois pas que je vais l'épouser"), (758, "D'abord, parce que... elle préfère les femmes")], ''),
     ('gabriel', "Ensuite, parce qu'elle est ma collègue et mon amie.", 'Second, because she is my colleague and my friend.', [(759, "Ensuite, parce qu'elle est ma collègue et mon amie")], ''),
     ('gabriel', "C'est difficile de mélanger le travail et l'amour.", 'It is difficult to mix work and love.', [(760, 'mélanger le travail et les sentiments'), (762, 'Surtout avec mes clients')], ''),

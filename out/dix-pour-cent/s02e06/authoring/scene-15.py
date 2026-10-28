@@ -7,29 +7,28 @@ SCENE = 15
 TITLE = 'Cet enfant est le mien  (That Child is Mine)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'hicham': 'marcel', 'lea': 'lucie'}
-LABELS = {'hicham': 'Hicham', 'lea': 'Andréa'}
+LABELS = {'andrea': 'Andréa', 'hicham': 'Hicham'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e06.fr.dual.srt'
 INTRO = 'At a Cannes hotel bar, agency boss Hicham confronts Andréa after discovering that she is pregnant following their intimate night together. Claiming biological fatherhood, Hicham insists on having a say in the pregnancy, while Andréa fiercely defends her exclusive bodily autonomy. Listen to the scene in French first.'
 OPENER = "Let's walk through the conversation step by step."
 TRANSITION = 'Now listen to the whole scene again at normal speed, and see how much more you catch.'
 OUTRO = "Fiercely asserting her bodily autonomy, Andréa rejects Hicham's demands to participate in decisions about her pregnancy. See you next time!"
-CLOSING = ('lea', 'Bonne soirée!')
+CLOSING = ('andrea', 'Bonne soirée!')
 STORY = [
     ('hicham', "Salut, Andréa! Tu viens d'arriver?", 'Hi, Andréa! Did you just arrive?', [(375, 'Salut'), (376, "Tu viens d'arriver")], ''),
-    ('lea', "Oui, je viens d'arriver au bar.", 'Yes, I just arrived at the bar.', [(377, "Oui, à l'instant même")], ''),
+    ('andrea', "Oui, je viens d'arriver au bar.", 'Yes, I just arrived at the bar.', [(377, "Oui, à l'instant même")], ''),
     ('hicham', 'Rien ne vaut ces belles fraises.', 'Nothing beats these lovely strawberries.', [(383, 'Rien ne vaut les fraises')], ''),
-    ('lea', 'Je prendrai une coupe de champagne.', 'I will have a glass of champagne.', [(387, 'une coupe de champagne')], ''),
+    ('andrea', 'Je prendrai une coupe de champagne.', 'I will have a glass of champagne.', [(387, 'une coupe de champagne')], ''),
     ('hicham', 'Tu allais me le dire quand?', 'When were you going to tell me?', [(389, 'Tu allais me le dire quand')], ''),
     ('hicham', 'Je parle de ton bébé.', 'I am talking about your baby.', [(390, 'Pour le bébé')], ''),
     ('hicham', 'Inutile de mentir, je sais tout!', 'No use lying, I know everything!', [(392, 'Inutile de mentir. Je sais')], ''),
-    ('lea', 'Ça ne te regarde pas du tout.', 'That is none of your business at all.', [(394, 'Ça ne te regarde pas')], ''),
+    ('andrea', 'Ça ne te regarde pas du tout.', 'That is none of your business at all.', [(394, 'Ça ne te regarde pas')], ''),
     ('hicham', 'Ça me regarde tout à fait!', 'It concerns me completely!', [(396, 'ça me regarde tout à fait')], ''),
     ('hicham', 'Je suis le père de cet enfant.', 'I am the father of that child.', [(399, 'le père de cet enfant')], ''),
-    ('lea', "Quel enfant? Il n'y a personne!", 'What child? There is nobody!', [(400, "Quel enfant ? Il n'y a pas d'enfant")], ''),
-    ('lea', 'Il y a juste moi et mon corps.', 'There is just me and my body.', [(401, 'Il y a juste moi et mon corps')], ''),
-    ('lea', "C'est moi qui décide, d'accord?", 'I am the one who decides, okay?', [(402, "c'est moi qui décide")], ''),
+    ('andrea', "Quel enfant? Il n'y a personne!", 'What child? There is nobody!', [(400, "Quel enfant ? Il n'y a pas d'enfant")], ''),
+    ('andrea', 'Il y a juste moi et mon corps.', 'There is just me and my body.', [(401, 'Il y a juste moi et mon corps')], ''),
+    ('andrea', "C'est moi qui décide, d'accord?", 'I am the one who decides, okay?', [(402, "c'est moi qui décide")], ''),
     ('hicham', 'Tu ne décides pas toute seule.', 'You do not decide all alone.', [(403, 'Tu ne décides rien tout seul')], ''),
     ('hicham', 'Cet enfant est aussi le mien!', 'That child is mine as well!', [(404, 'Cet enfant est le mien')], ''),
 ]

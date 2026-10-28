@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Голос | Иван, перестань винить себя во всём! | Ivan, stop blaming yourself for everything! | #835 00:50:15: себя грызть. Ты ни в чем не виноват | adapted: 'себя грызть' -> 'перестань винить себя' for clean A1 |
-| 2 | Самсон | Ты ничего не понимаешь! | You don't understand anything! | #836 00:50:17: Ты что, этого не понимаешь<br>#837 00:50:18: Да ты не понимаешь | verbatim |
-| 3 | Самсон | Я предатель и внук фашиста! | I am a traitor and the grandson of a fascist! | #838 00:50:22: Я фашист, полицай | adapted: 'полицай' -> 'предатель и внук фашиста' |
-| 4 | Голос | Это неправда! У тебя сегодня важные дебаты. | That is not true! You have an important debate today. | #841 00:50:30: У тебя там дебаты | verbatim |
-| 5 | Самсон | В моих генах живёт зло. | Evil lives in my genes. | #839 00:50:26: У меня гены | verbatim |
-| 6 | Самсон | Здесь в снегу сидят крокодилы! | Here in the snow sit crocodiles! | #840 00:50:27: тут крокодилы | verbatim |
-| 7 | Голос | Пойдём скорее на телевизионную студию! | Let's go quickly to the television studio! | #842 00:50:32: Пошли | verbatim |
-| 8 | Самсон | Стоять! Кто стреляет в лесу? | Freeze! Who is shooting in the forest? | #843 00:50:33: Стоять<br>#845 00:50:37: стрелер | verbatim |
-| 9 | Самсон | Оставьте меня в покое! | Leave me alone! | #847 00:50:44: Да пошли вы все лесом | adapted: idiomatic 'лесом' -> clean 'в покое' |
-| 10 | Голос | Посмотри вокруг, здесь никого нет. | Look around, there is no one here. | #848 00:51:03: Ух ты | verbatim |
-| 11 | Самсон | У меня разбита губа и болит голова. | My lip is cut and my head hurts. | #849 00:51:04: Что с губой | verbatim |
-| 12 | Самсон | Я иду спать на чердак. | I am going to sleep in the attic. | #850 00:51:07: папаша на чердаке | verbatim |
-| 13 | Самсон | Передайте Нине, что я дома. | Tell Nina that I am at home. | #850 00:51:07: Маме вашей передайте | verbatim |
+| 1 | Голос | Иван, перестань винить себя во всём! | Ivan, stop blaming yourself for everything! | #835: себя грызть. Ты ни в чем не виноват | adapted: 'себя грызть' -> 'перестань винить себя' for clean A1 |
+| 2 | Самсон | Ты ничего не понимаешь! | You don't understand anything! | #836: Ты что, этого не понимаешь<br>#837: Да ты не понимаешь | verbatim |
+| 3 | Самсон | Я предатель и внук фашиста! | I am a traitor and the grandson of a fascist! | #838: Я фашист, полицай | adapted: 'полицай' -> 'предатель и внук фашиста' |
+| 4 | Голос | Это неправда! У тебя сегодня важные дебаты. | That is not true! You have an important debate today. | #841: У тебя там дебаты | verbatim |
+| 5 | Самсон | В моих генах живёт зло. | Evil lives in my genes. | #839: У меня гены | verbatim |
+| 6 | Самсон | Здесь в снегу сидят крокодилы! | Here in the snow sit crocodiles! | #840: тут крокодилы | verbatim |
+| 7 | Голос | Пойдём скорее на телевизионную студию! | Let's go quickly to the television studio! | #842: Пошли | verbatim |
+| 8 | Самсон | Стоять! Кто стреляет в лесу? | Freeze! Who is shooting in the forest? | #843: Стоять<br>#845: стрелер | verbatim |
+| 9 | Самсон | Оставьте меня в покое! | Leave me alone! | #847: Да пошли вы все лесом | adapted: idiomatic 'лесом' -> clean 'в покое' |
+| 10 | Голос | Посмотри вокруг, здесь никого нет. | Look around, there is no one here. | #848: Ух ты | verbatim |
+| 11 | Самсон | У меня разбита губа и болит голова. | My lip is cut and my head hurts. | #849: Что с губой | verbatim |
+| 12 | Самсон | Я иду спать на чердак. | I am going to sleep in the attic. | #850: папаша на чердаке | verbatim |
+| 13 | Самсон | Передайте Нине, что я дома. | Tell Nina that I am at home. | #850: Маме вашей передайте | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

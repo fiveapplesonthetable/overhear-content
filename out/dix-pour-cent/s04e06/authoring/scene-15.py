@@ -7,8 +7,7 @@ SCENE = 15
 TITLE = 'Prêt à couler ensemble  (Ready to Sink Together)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'jean': 'theo', 'lea': 'lucie'}
-LABELS = {'jean': 'Jean', 'lea': 'Andréa'}
+LABELS = {'andrea': 'Andréa', 'jean': 'Jean'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e06.fr.dual.srt'
 INTRO = "Following Andrea's startling admission that ASK is on the brink of collapse, the office falls silent as they await Jean Reno's verdict. To their astonishment, the veteran actor responds with infectious enthusiasm, inspired by their passion and uncompromising authenticity. Let's listen to their exchange in French first."
@@ -17,19 +16,19 @@ TRANSITION = "Now let's listen to the entire dialogue once more."
 OUTRO = "Inspired by Andrea's unvarnished truthfulness, Jean Reno signs onto Xavier Beauvois's film, cheerfully agreeing to sink or swim with ASK in the romantic spirit of The Big Blue. When you watch the episode, listen out for the expressions meaning 'does' and 'tell'. You'll catch them now. See you next time!"
 CLOSING = ('jean', 'À bientôt!')
 STORY = [
-    ('lea', 'Ça fait du bien de dire la vérité.', 'It feels good to tell the truth.', [(675, 'Ça fait du bien de dire la vérité')], ''),
+    ('andrea', 'Ça fait du bien de dire la vérité.', 'It feels good to tell the truth.', [(675, 'Ça fait du bien de dire la vérité')], ''),
     ('jean', 'Absolument, la sincérité est essentielle.', 'Absolutely, sincerity is essential.', [(676, 'Absolument')], ''),
     ('jean', 'Je suis totalement partant pour le film!', 'I am totally on board for the film!', [(677, 'Je suis partant')], ''),
-    ('lea', 'Vous acceptez malgré tous nos problèmes?', 'You accept despite all our problems?', [(677, 'Je suis partant')], ''),
+    ('andrea', 'Vous acceptez malgré tous nos problèmes?', 'You accept despite all our problems?', [(677, 'Je suis partant')], ''),
     ('jean', 'Je suis ravi de couler avec vous!', 'I am delighted to sink with you!', [(678, 'Je suis ravi de couler avec vous')], ''),
-    ('lea', 'Votre réaction est incroyable, Jean!', 'Your reaction is incredible, Jean!', [(678, 'Je suis ravi de couler avec vous')], ''),
+    ('andrea', 'Votre réaction est incroyable, Jean!', 'Your reaction is incredible, Jean!', [(678, 'Je suis ravi de couler avec vous')], ''),
     ('jean', 'Mon personnage suivait son rêve autrefois.', 'My character followed his dream in the past.', [(680, 'Mon personnage suivait son rêve')], ''),
     ('jean', "Il plongeait jusqu'au bout de sa passion.", 'He dived to the very end of his passion.', [(681, "sa passion jusqu'au bout")], ''),
-    ('lea', 'Comme dans Le Grand Bleu!', 'Like in The Big Blue!', [(679, 'Le Grand Bleu')], ''),
+    ('andrea', 'Comme dans Le Grand Bleu!', 'Like in The Big Blue!', [(679, 'Le Grand Bleu')], ''),
     ('jean', 'Ce nouveau scénario ressemble à cet esprit.', 'This new script resembles that spirit.', [(683, 'quelque chose de ça')], ''),
-    ('lea', 'Vous sauvez le projet de Xavier!', 'You are saving Xavier', [(683, 'quelque chose de ça')], ''),
+    ('andrea', 'Vous sauvez le projet de Xavier!', 'You are saving Xavier', [(683, 'quelque chose de ça')], ''),
     ('jean', 'Nous allons créer une œuvre magnifique.', 'We are going to create a magnificent work.', [(683, 'quelque chose de ça')], ''),
-    ('lea', 'Merci mille fois pour votre confiance.', 'Thank you a thousand times for your trust.', [(683, 'quelque chose de ça')], ''),
+    ('andrea', 'Merci mille fois pour votre confiance.', 'Thank you a thousand times for your trust.', [(683, 'quelque chose de ça')], ''),
     ('jean', 'À bientôt pour le tournage, Andréa!', 'See you soon for filming, Andrea!', [(684, 'À bientôt')], ''),
 ]
 WALK = [

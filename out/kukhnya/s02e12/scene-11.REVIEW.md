@@ -10,32 +10,32 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Шеф | Ага, помоги. | Yeah, help me out. | #175 00:10:47: Ага, помоги | verbatim |
-| 2 | Вика | Это наша Виктория Сергеевна. | This is our Viktoriya Sergeyevna. | #177 00:10:51: Это наша Виктория Сергеевна | verbatim |
-| 3 | Шеф | Да ладно. | Oh, come on. | #178 00:10:55: Да ладно | verbatim |
-| 4 | Вика | Это я заранее. | I am just saying it in advance. | #179 00:10:56: Это я заранее | verbatim |
-| 5 | Шеф | Да шучу. | I am just kidding. | #179 00:10:56: Да шучу | verbatim |
-| 6 | Вика | Обсудить рабочий момент. | To discuss a work matter. | #180 00:10:58: обсудить рабочий момент | verbatim |
-| 7 | Шеф | Ну, пошли работать. | Well, let us get to work. | #182 00:11:05: Ну, пошли работать | verbatim |
-| 8 | Вика | Мне сказали. | Someone told me. | #183 00:11:29: мне сказали | verbatim |
-| 9 | Шеф | В общем, по поводу моей семьи. | Anyway, regarding my family. | #184 00:11:34: В общем, по поводу моей семьи | verbatim |
-| 10 | Вика | Я с мужем не живу. | I do not live with my husband anymore. | #185 00:11:37: Я с мужем не живу | verbatim |
-| 11 | Шеф | Сын вырос, и мы развелись. | Our son grew up, and we got divorced. | #187 00:11:40: Сын вырос, и мы развелись | verbatim |
-| 12 | Вика | Просто не было подходящего момента. | There just was never a right moment to mention it. | #188 00:11:46: просто не было подходящего момента | verbatim |
-| 13 | Шеф | Наше новое блюдо. | Our new dish. | #190 00:11:54: Наше новое блюдо | verbatim |
+| 1 | Шеф | Ага, помоги. | Yeah, help me out. | #175: Ага, помоги | verbatim |
+| 2 | Вика | Это наша Виктория Сергеевна. | This is our Viktoriya Sergeyevna. | #177: Это наша Виктория Сергеевна | verbatim |
+| 3 | Шеф | Да ладно. | Oh, come on. | #178: Да ладно | verbatim |
+| 4 | Вика | Это я заранее. | I am just saying it in advance. | #179: Это я заранее | verbatim |
+| 5 | Шеф | Да шучу. | I am just kidding. | #179: Да шучу | verbatim |
+| 6 | Вика | Обсудить рабочий момент. | To discuss a work matter. | #180: обсудить рабочий момент | verbatim |
+| 7 | Шеф | Ну, пошли работать. | Well, let us get to work. | #182: Ну, пошли работать | verbatim |
+| 8 | Вика | Мне сказали. | Someone told me. | #183: мне сказали | verbatim |
+| 9 | Шеф | В общем, по поводу моей семьи. | Anyway, regarding my family. | #184: В общем, по поводу моей семьи | verbatim |
+| 10 | Вика | Я с мужем не живу. | I do not live with my husband anymore. | #185: Я с мужем не живу | verbatim |
+| 11 | Шеф | Сын вырос, и мы развелись. | Our son grew up, and we got divorced. | #187: Сын вырос, и мы развелись | verbatim |
+| 12 | Вика | Просто не было подходящего момента. | There just was never a right moment to mention it. | #188: просто не было подходящего момента | verbatim |
+| 13 | Шеф | Наше новое блюдо. | Our new dish. | #190: Наше новое блюдо | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Yeah, help me out.' The meaning hinges on 'yeah' working together with 'help' in spoken Russian.
-- 'This is our Viktoriya Sergeyevna.' Notice how Russian expresses 'this' and 'Sergeyevna' with crisp inflection rather than helper words. Chef Viktor answers right away.
-- 'Oh, come on.' Chef Viktor anchors the line on 'yes', while 'really?!' completes the thought.
-- 'I am just saying it in advance.' Vika centers this short reply on 'in advance', letting a few direct words carry the whole meaning.
-- 'I am just kidding.' Here the Russian phrasing highlights 'yes' before landing on 'am joking'. Vika answers right away.
-- 'To discuss a work matter.' The grammar packs 'to discuss' and 'moment' into a tight, idiomatic kitchen exchange.
-- 'Well, let us get to work.' Here the Russian phrasing highlights 'come on' before landing on 'to work'.
-- 'Someone told me.' Spoken Russian keeps this brisk, leaning on 'for me' and finishing on 'told'. Chef Viktor answers right away.
-- 'Anyway, regarding my family.' The meaning hinges on 'short' working together with 'family' in spoken Russian.
-- 'I do not live with my husband anymore.' Vika anchors the line on 'I', while 'live' completes the thought.
-- 'Our son grew up, and we got divorced.' Spoken Russian keeps this brisk, leaning on 'son' and finishing on 'to get divorced'. Vika answers right away.
-- 'There just was never a right moment to mention it.' The grammar packs 'just' and 'moment' into a tight, idiomatic kitchen exchange.
-- 'Our new dish.' Here the Russian phrasing highlights 'our' before landing on 'dish'.
+- 'Yeah, help me out.' With the dish and office in play, Barinov keeps this short reply brisk and direct.
+- 'This is our Viktoriya Sergeyevna.' Vika tells Barinov that this is their Viktoriya Sergeyevna without dressing it up. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'Oh, come on.' Between the dish and the office, Barinov gives Vika a quick, grounded response.
+- 'I am just saying it in advance.' By being just saying it in advance, Vika keeps her side of the story grounded. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'I am just kidding.' Because he is just kidding, Barinov treats the matter as settled.
+- 'To discuss a work matter.' Turning from the dish to the conversation, Vika keeps the exchange moving.
+- 'Well, let us get to work.' By getting to work together, Barinov keeps his side of the story grounded.
+- 'Someone told me.' Between the dish and the truth, Vika gives Barinov a quick, grounded response.
+- 'Anyway, regarding my family.' With the office and dish in play, Barinov keeps this short reply brisk and direct.
+- 'I do not live with my husband anymore.' Pointing out that she does not live with her husband anymore gives Barinov a sobering reality check.
+- 'Our son grew up, and we got divorced.' Barinov explains that their son grew up and they got divorced, keeping his voice calm and direct.
+- 'There just was never a right moment to mention it.' Realizing that there just was never a right moment to mention it changes how Vika handles the situation.
+- 'Our new dish.' Between the office and the work, Barinov gives Vika a quick, grounded response.

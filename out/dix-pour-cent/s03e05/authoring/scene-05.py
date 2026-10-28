@@ -7,28 +7,27 @@ SCENE = 5
 TITLE = "Trente ans d'ASK  (Thirty Years of ASK)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'mathias': 'marcel', 'lea': 'lucie', 'gabriel': 'theo'}
-LABELS = {'mathias': 'Mathias', 'lea': 'Andréa', 'gabriel': 'Gabriel'}
+LABELS = {'andrea': 'Andréa', 'gabriel': 'Gabriel', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e05.fr.dual.srt'
 INTRO = "In the meeting room at ASK, Hicham Janowski has just stormed out after an angry confrontation about agency finances. Mathias, Gabriel, and Andrea stay behind to discuss his outburst and the upcoming agency anniversary. Let's listen to their conversation in French first."
 OPENER = "Let's explore how the three partners react to Hicham's rant line by line."
 TRANSITION = "Now let's listen to the partners' conversation once more from start to finish."
 OUTRO = "That's it for this scene around thirty years of ask. When you watch the episode, listen out for the expressions meaning 'furious' and 'fear'. You'll catch them now. See you next time!"
-CLOSING = ('lea', 'Bonne soirée!')
+CLOSING = ('andrea', 'Bonne soirée!')
 STORY = [
     ('mathias', 'Hicham est vraiment furieux contre nous.', 'Hicham is truly furious with us.', [(117, 'Hicham')], ''),
     ('gabriel', 'Il a peur de perdre son investissement.', 'He is afraid of losing his investment.', [], ''),
-    ('lea', "Il n'arrête pas de nous crier dessus.", 'He does not stop shouting at us.', [], ''),
+    ('andrea', "Il n'arrête pas de nous crier dessus.", 'He does not stop shouting at us.', [], ''),
     ('mathias', 'Il a parlé de vache à lait!', 'He spoke of a cash cow!', [], ''),
     ('gabriel', 'Et aussi de dindon de la farce!', 'And also of a fall guy!', [], ''),
-    ('lea', 'Il nous a dit de gérer nos problèmes.', 'He told us to handle our problems.', [], ''),
+    ('andrea', 'Il nous a dit de gérer nos problèmes.', 'He told us to handle our problems.', [], ''),
     ('mathias', 'Il est très métaphore animalière, non?', 'He is very into animal metaphors, isn', [(117, 'Il est très métaphore animalière, Hicham, non ?')], ''),
     ('gabriel', "C'est vrai, il adore les animaux!", 'That is true, he loves animals!', [(117, 'métaphore animalière')], ''),
-    ('lea', 'Mais la situation reste très grave.', 'But the situation remains very serious.', [(118, 'En attendant')], ''),
+    ('andrea', 'Mais la situation reste très grave.', 'But the situation remains very serious.', [(118, 'En attendant')], ''),
     ('mathias', "Nous devons fêter l'anniversaire d'ASK.", 'We must celebrate ASK', [(118, "il est 30 ans d'ASK")], ''),
     ('gabriel', 'Ce sont bientôt les trente ans.', 'The thirty years are coming soon.', [(118, "30 ans d'ASK")], ''),
-    ('lea', 'Ça risque de ressembler à des funérailles!', 'It is likely to look like a funeral!', [(119, 'Ça risque fort de ressembler à des funérailles')], ''),
+    ('andrea', 'Ça risque de ressembler à des funérailles!', 'It is likely to look like a funeral!', [(119, 'Ça risque fort de ressembler à des funérailles')], ''),
     ('mathias', 'Nous devons trouver une solution rapide.', 'We must find a quick solution.', [], ''),
 ]
 WALK = [

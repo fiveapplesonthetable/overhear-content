@@ -1,33 +1,47 @@
-# Review: `dix-pour-cent-s02e03-scene-18` — Une rencontre embarrassante  (An Awkward Encounter)
+# dix-pour-cent-s02e03-scene-18: review sheet
 
-- **Source**: `sources/dix-pour-cent/s02/e03.fr.dual.srt`
-- **Level**: A1 — débutant
-- **Voices**: `{"narrator": "sky", "catherine": "emilie", "mathias": "marcel", "lea": "lucie"}`
-- **Labels**: `{"catherine": "Catherine", "mathias": "Mathias", "lea": "Andréa"}`
+Title: Une rencontre embarrassante  (An Awkward Encounter)
+Level: A1 — débutant
+Pair: fr-en
+Source: Dix pour cent (Call My Agent!) S02E03
 
-## Part 1 — Intro
-> At Le Grand Colbert restaurant, Mathias is having lunch with Camille and her mother Annick when Catherine arrives unexpectedly. A mortified Noémie stands beside her as Mathias tries to control the deeply uncomfortable situation. Listen to the scene in French first.
 
-## Part 2 — Story Lines
-| # | Role | French | English | Source Cues |
-|---|------|--------|---------|-------------|
-| 0 | `catherine` (Catherine) | Annick, je présume? | Annick, I presume? | 452:Annick, je présume |
-| 1 | `catherine` (Catherine) | Je suis Catherine Barneville. | I am Catherine Barneville. | 453:Catherine Barneville |
-| 2 | `mathias` (Mathias) | Catherine? Qu'est-ce que tu fais là? | Catherine? What are you doing here? | 450:je ne savais pas que Mathias serait là |
-| 3 | `catherine` (Catherine) | Je viens déjeuner avec vous tous. | I came to have lunch with you all. | 446:Je viens avec toi |
-| 4 | `mathias` (Mathias) | Noémie, retournez au bureau, s'il vous plaît. | Noémie, please return to the office. | 457:Retournez au bureau, s'il vous plaît |
-| 5 | `lea` (Andréa) | Très bien, je vous laisse. | Very well, I will leave you. | 457:D'accord |
-| 6 | `mathias` (Mathias) | Ce déjeuner n'était pas prévu ainsi. | This lunch was not planned this way. | 451:Je n'avais pas prévu de le voir |
-| 7 | `catherine` (Catherine) | Ce n'est rien, je m'assieds avec vous. | It | 459:Ne t'inquiète pas, c'est pas ta faute |
-| 8 | `mathias` (Mathias) | Tu veux commander à manger? | Do you want to order something to eat? | 460:Vous êtes trois ? Quatre ? Pour déjeuner ? |
-| 9 | `catherine` (Catherine) | Non, juste un café, s'il vous plaît. | No, just a coffee, please. | 461:Non... non, 462:Un café, s'il vous plaît |
-| 10 | `mathias` (Mathias) | Pourquoi tu es venue ici exactement? | Why did you come here exactly? | 455:C'est à propos de Christophe Lambert |
-| 11 | `catherine` (Catherine) | Je voulais faire la connaissance d'Annick. | I wanted to meet Annick. | 453:Enchantée. Annick Valentini |
-| 12 | `mathias` (Mathias) | Tu cherches à me provoquer? | Are you trying to provoke me? | 456:Pardon ? Euh... non |
-| 13 | `catherine` (Catherine) | Pas du tout, nous sommes civilisés. | Not at all, we are civilized. | 458:C'est moi qui ai proposé ce déjeuner |
-| 14 | `mathias` (Mathias) | Alors soyons calmes devant tout le monde. | Then let | 459:Ne t'inquiète pas |
-| 15 | `catherine` (Catherine) | Parfait. Buvons notre café. | Perfect. Let | 463:Un café, voilà |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 5 — Outro & Closing
-> With ice in the air, Catherine takes her seat opposite Annick, leaving Mathias trapped between his past and present. See you next time!
-- **Closing**: `catherine`: *Bonne soirée!*
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+|---|---|---|---|---|---|
+| 1 | Catherine | Annick, je présume? | Annick, I presume? | #452: Annick, je présume | verbatim |
+| 2 | Catherine | Je suis Catherine Barneville. | I am Catherine Barneville. | #453: Catherine Barneville | verbatim |
+| 3 | Mathias | Catherine? Qu'est-ce que tu fais là? | Catherine? What are you doing here? | #450: je ne savais pas que Mathias serait là | verbatim |
+| 4 | Catherine | Je viens déjeuner avec vous tous. | I came to have lunch with you all. | #446: Je viens avec toi | verbatim |
+| 5 | Mathias | Noémie, retournez au bureau, s'il vous plaît. | Noémie, please return to the office. | #457: Retournez au bureau, s'il vous plaît | verbatim |
+| 6 | Noémie | Très bien, je vous laisse. | Very well, I will leave you. | #457: D'accord | verbatim |
+| 7 | Mathias | Ce déjeuner n'était pas prévu ainsi. | This lunch was not planned this way. | #451: Je n'avais pas prévu de le voir | verbatim |
+| 8 | Catherine | Ce n'est rien, je m'assieds avec vous. | It | #459: Ne t'inquiète pas, c'est pas ta faute | verbatim |
+| 9 | Mathias | Tu veux commander à manger? | Do you want to order something to eat? | #460: Vous êtes trois ? Quatre ? Pour déjeuner ? | verbatim |
+| 10 | Catherine | Non, juste un café, s'il vous plaît. | No, just a coffee, please. | #461: Non... non<br>#462: Un café, s'il vous plaît | verbatim |
+| 11 | Mathias | Pourquoi tu es venue ici exactement? | Why did you come here exactly? | #455: C'est à propos de Christophe Lambert | verbatim |
+| 12 | Catherine | Je voulais faire la connaissance d'Annick. | I wanted to meet Annick. | #453: Enchantée. Annick Valentini | verbatim |
+| 13 | Mathias | Tu cherches à me provoquer? | Are you trying to provoke me? | #456: Pardon ? Euh... non | verbatim |
+| 14 | Catherine | Pas du tout, nous sommes civilisés. | Not at all, we are civilized. | #458: C'est moi qui ai proposé ce déjeuner | verbatim |
+| 15 | Mathias | Alors soyons calmes devant tout le monde. | Then let | #459: Ne t'inquiète pas | verbatim |
+| 16 | Catherine | Parfait. Buvons notre café. | Perfect. Let | #463: Un café, voilà | verbatim |
+
+## Walk-through narration (English only, no target-language words quoted)
+
+- 'Annick, I presume?' Catherine approaches the table with sharp confidence. Listen for the expression meaning 'assume', which leads naturally into 'assume'.
+- 'I am Catherine Barneville.' She introduces herself formally to Mathias's former mistress. Catherine opens with the word for 'am' and lands on 'am' at the close.
+- 'Catherine? What are you doing here?' Mathias chokes on his surprise. The verb meaning 'are doing' anchors the whole remark.
+- 'I came to have lunch with you all.' Catherine smiles icily. The key word here means 'arrived', paired with 'to have lunch' to make the point clear.
+- 'Noémie, please return to the office.' Mathias quickly orders his assistant away. Listen for the expression meaning 'go back', which leads naturally into 'pleases'.
+- 'Very well, I will leave you.' Noémie gladly seizes the chance to flee. Noémie opens with the word for 'quite' and lands on 'depart from' at the close.
+- 'This lunch was not planned this way.' Mathias tries to defend the arrangement. Mathias pairs the verb meaning 'was' with the noun for 'midday meal'.
+- 'It's nothing, I'll sit with you.' Catherine pulls out a chair deliberately. The verb meaning 'is' anchors the whole remark.
+- 'Do you want to order something to eat?' Mathias asks nervously. Listen for the expression meaning 'care to', which leads naturally into 'consume food'.
+- 'No, just a coffee, please.' Catherine declines food politely. Catherine opens with the word for 'no' and lands on 'pleases' at the close.
+- 'Why did you come here exactly?' Mathias demands quietly. Mathias opens with the word for 'for what reason' and lands on 'precisely' at the close.
+- 'I wanted to meet Annick.' Catherine explains her bold curiosity. The key word here means 'wished', paired with 'acquaintance' to make the point clear.
+- 'Are you trying to provoke me?' Mathias suspects her hostile motives. Listen for the expression meaning 'are trying', which leads naturally into 'bait'.
+- 'Not at all, we are civilized.' Catherine feigns polite innocence. Listen for the expression meaning 'not', which leads naturally into 'well-mannered'.
+- 'Then let's be calm in front of everyone.' Mathias pleads for discretion. The adjective meaning 'composed' agrees in gender and number with masculine noun 'crowd'.
+- 'Perfect. Let's drink our coffee.' Catherine takes control of the table. Catherine opens with the word for 'splendid' and lands on 'espresso' at the close.

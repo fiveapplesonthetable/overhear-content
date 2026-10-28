@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Денис | Слушай, Костя, у тебя такое бывало? | Listen, Kostya, has this ever happened to you? | #191 00:15:27: Слушай, Костян, у тебя такое бывало | adapted: adapted |
-| 2 | Денис | Я очень сильно люблю нашу Катю. | I love our Katya very much. | #194 00:15:38: я люблю Катю | adapted: adapted |
-| 3 | Денис | А во сне вижу совсем другую женщину. | But in my dreams I see a completely different woman. | #192 00:15:33: с другой<br>#195 00:15:42: Женщина | adapted: adapted |
-| 4 | Денис | Скажи, это вообще нормально или нет? | Tell me, is that normal at all or not? | #195 00:15:42: это нормально, а | adapted: adapted |
-| 5 | Денис | Брат, у меня Настя хочет второго ребёнка. | Bro, my Nastya wants a second child. | #195 00:15:42: Братан, у меня Настя хочет завести второго ребенка | adapted: adapted |
-| 6 | Денис | А у тебя просто обычный сон. | And what you have is just an ordinary dream. | #197 00:15:49: А у тебя что? У тебя сон | adapted: adapted |
-| 7 | Денис | Мне кажется, что я её обманываю. | It feels to me like I am deceiving her. | #199 00:15:56: я ее обманываю | adapted: adapted |
-| 8 | Денис | Может, лучше рассказать ей всю правду? | Maybe it is better to tell her the whole truth? | #200 00:15:58: Может, рассказать ей все | adapted: adapted |
-| 9 | Денис | Ты что, дурак? Это же просто сон! | What, are you crazy? It is just a dream! | #201 00:16:00: Ты дурак<br>#202 00:16:02: Это же сон | adapted: adapted |
-| 10 | Денис | Мне однажды снилась красивая известная актриса. | I once dreamed about a beautiful famous actress. | #203 00:16:06: во сне | adapted: adapted |
-| 11 | Настя | Вообще-то у этой актрисы шестеро детей. | Actually, that actress has six children. | #206 00:16:15: Вообще-то у Анжелины Джоли шестеро детей | adapted: adapted |
-| 12 | Денис | Настя, мне этот сон совсем не понравился! | Nastya, I did not like that dream at all! | #207 00:16:19: Настя, это же был сон<br>#209 00:16:23: Вообще мне не понравилось | adapted: adapted |
+| 1 | Денис | Слушай, Костя, у тебя такое бывало? | Listen, Kostya, has this ever happened to you? | #191: Слушай, Костян, у тебя такое бывало | adapted: adapted |
+| 2 | Денис | Я очень сильно люблю нашу Катю. | I love our Katya very much. | #194: я люблю Катю | adapted: adapted |
+| 3 | Денис | А во сне вижу совсем другую женщину. | But in my dreams I see a completely different woman. | #192: с другой<br>#195: Женщина | adapted: adapted |
+| 4 | Денис | Скажи, это вообще нормально или нет? | Tell me, is that normal at all or not? | #195: это нормально, а | adapted: adapted |
+| 5 | Костя | Брат, у меня Настя хочет второго ребёнка. | Bro, my Nastya wants a second child. | #195: Братан, у меня Настя хочет завести второго ребенка | adapted: adapted |
+| 6 | Костя | А у тебя просто обычный сон. | And what you have is just an ordinary dream. | #197: А у тебя что? У тебя сон | adapted: adapted |
+| 7 | Денис | Мне кажется, что я её обманываю. | It feels to me like I am deceiving her. | #199: я ее обманываю | adapted: adapted |
+| 8 | Денис | Может, лучше рассказать ей всю правду? | Maybe it is better to tell her the whole truth? | #200: Может, рассказать ей все | adapted: adapted |
+| 9 | Костя | Ты что, дурак? Это же просто сон! | What, are you crazy? It is just a dream! | #201: Ты дурак<br>#202: Это же сон | adapted: adapted |
+| 10 | Костя | Мне однажды снилась красивая известная актриса. | I once dreamed about a beautiful famous actress. | #203: во сне | adapted: adapted |
+| 11 | Настя | Вообще-то у этой актрисы шестеро детей. | Actually, that actress has six children. | #206: Вообще-то у Анжелины Джоли шестеро детей | adapted: adapted |
+| 12 | Костя | Настя, мне этот сон совсем не понравился! | Nastya, I did not like that dream at all! | #207: Настя, это же был сон<br>#209: Вообще мне не понравилось | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Listen, Kostya, has this ever happened to you?' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.
-- 'I love our Katya very much.' In everyday Russian, 'very, really' flows straight into 'much' without extra linking words.
-- 'But in my dreams I see a completely different woman.' An adversative conjunction contrasts his waking love with the woman appearing in his sleep.
-- 'Tell me, is that normal at all or not?' In spoken Russian, the words stay in their normal statement order and Denis's rising voice at the end turns the line into a question.
-- 'Bro, my Nastya wants a second child.' Kostya compares Denis's minor worry to his own domestic standoff at home.
-- 'And what you have is just an ordinary dream.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.
-- 'It feels to me like I am deceiving her.' Russian expresses feelings and needs by saying 'to me it is needed' or 'to me it seems', putting the person in the 'to me' form.
-- 'Maybe it is better to tell her the whole truth?' In spoken Russian, the words stay in their normal statement order and Denis's rising voice at the end turns the line into a question.
-- 'What, are you crazy? It is just a dream!' Kostya warns him never to confess a dream about another woman to his girlfriend.
-- 'I once dreamed about a beautiful famous actress.' To prove his point, Kostya boasts about dreaming of a famous Hollywood star.
-- 'Actually, that actress has six children.' Nastya pairs 'actually, in fact' with 'children' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
-- 'Nastya, I did not like that dream at all!' Notice how Russian puts 'dream' and 'pleased' together in a short, direct phrase where word endings show how the ideas connect.
+- 'Listen, Kostya, has this ever happened to you?' Checking whether this ever happened to Kostya cuts straight through the tension between Denis and Kostya. Russian expresses having something as "by me is", keeping the phrase short and grounded.
+- 'I love our Katya very much.' Noting that he loves their Katya very much keeps Denis's side of the story simple and clear.
+- 'But in my dreams I see a completely different woman.' Denis tells Kostya that in his dreams he sees a completely different woman without dressing it up.
+- 'Tell me, is that normal at all or not?' Wondering if tell him is that normal at all or not shows Denis caught off guard. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'Bro, my Nastya wants a second child.' Mentioning that bro his Nastya wants a second child moves the talk in a new direction. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
+- 'And what you have is just an ordinary dream.' Kostya reminds Denis that what Denis has is just an ordinary dream before the moment passes.
+- 'It feels to me like I am deceiving her.' Because it feels to him like he is deceiving, Denis treats the matter as settled.
+- 'Maybe it is better to tell her the whole truth?' Asking whether maybe it is better to tell her the whole truth puts Kostya right on the defensive. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'What, are you crazy? It is just a dream!' Wondering what Denis crazy is cuts straight through the tension between Kostya and Denis.
+- 'I once dreamed about a beautiful famous actress.' Over the friend and the truth, Kostya answers Denis without a second thought.
+- 'Actually, that actress has six children.' Pointing out that that actress has six children gives Denis a sobering reality check.
+- 'Nastya, I did not like that dream at all!' Because he did not like that dream at all, Kostya does not bother softening the blow for Denis.

@@ -4,31 +4,30 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 3
 SCENE = 17
-TITLE = "Опасная ссора  (A Dangerous Quarrel)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Опасная ссора  (A Dangerous Quarrel)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "anya": "alisa", "vika": "angelina", "vadim": "anja"}
-LABELS = {"anya": "Макс", "vika": "Вика", "vadim": "Вадим"}
+LABELS = {'max': 'Макс', 'vadim': 'Вадим', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.03'
 SOURCE_FILE = 'sources/kukhnya/s01/e03.ru.dual.srt'
 INTRO = "Behind the restaurant Claude Monet, Max catches Vika alone to apologize for his clumsy behavior. Their uneasy conversation is suddenly shattered when Vika's aggressive ex-lover Vadim arrives, demanding explanations and escalating the confrontation into real danger. Let's listen to their intense exchange in Russian first."
 OPENER = "Now let's examine this high-stakes dramatic confrontation line by line."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Just as Vadim pulls out his weapon, Chef Barinov storms into the alley and brings the dangerous duel to an abrupt halt. Next time you watch the episode, listen for the Russian expressions for 'to be' and 'to believe' — you will catch every word right away. See you next time!"
-CLOSING = ("vika", "Пока!")
+CLOSING = ('vika', 'Пока!')
 STORY = [
-    ('anya', 'Вика, пожалуйста, прости меня за всё.', 'Vika, please forgive me for everything.', [(298, 'ну прости меня')], ''),
+    ('max', 'Вика, пожалуйста, прости меня за всё.', 'Vika, please forgive me for everything.', [(298, 'ну прости меня')], ''),
     ('vika', 'Почему я всегда верю не тем людям?', 'Why do I always trust the wrong people?', [(301, 'Ну почему меня тянет')], ''),
-    ('anya', 'Каждый человек может совершить ошибку.', 'Every person can make a mistake.', [(304, 'все ошибаются')], ''),
+    ('max', 'Каждый человек может совершить ошибку.', 'Every person can make a mistake.', [(304, 'все ошибаются')], ''),
     ('vika', 'Я сама виновата в этой ситуации.', 'I myself am to blame for this situation.', [(306, 'это я виновата')], ''),
     ('vadim', 'Так значит, это правда, вы вместе?', 'So that means it is true, you are together?', [(310, 'Так значит, это правда')], ''),
     ('vika', 'Вадим, что ты здесь делаешь?', 'Vadim, what are you doing here?', [(309, 'Вадик')], ''),
     ('vadim', 'Я пришёл поговорить с тобой прямо сейчас.', 'I came to talk with you right now.', [], ''),
     ('vadim', 'А этот парень должен немедленно уйти!', 'And this guy must leave immediately!', [], ''),
-    ('anya', 'Выбирай слова, когда говоришь с ней!', 'Choose your words when talking with her!', [(312, 'подбирай выражение')], ''),
-    ('anya', 'Ты разговариваешь с красивой девушкой.', 'You are talking to a beautiful girl.', [(313, 'с девушкой разговариваешь')], ''),
+    ('max', 'Выбирай слова, когда говоришь с ней!', 'Choose your words when talking with her!', [(312, 'подбирай выражение')], ''),
+    ('max', 'Ты разговариваешь с красивой девушкой.', 'You are talking to a beautiful girl.', [(313, 'с девушкой разговариваешь')], ''),
     ('vadim', 'Ты что мне сейчас сказал, щенок?', 'What did you just say to me, pup?', [(314, 'Ты что сказал')], ''),
-    ('anya', 'Я сказал тебе: отойди от неё!', 'I told you: step away from her!', [(315, 'отстань от неё сказал')], ''),
+    ('max', 'Я сказал тебе: отойди от неё!', 'I told you: step away from her!', [(315, 'отстань от неё сказал')], ''),
     ('vika', 'Макс, прекрати, у него есть пистолет!', 'Max, stop, he has a gun!', [(318, 'Прячь мушку')], ''),
 ]
 WALK = [

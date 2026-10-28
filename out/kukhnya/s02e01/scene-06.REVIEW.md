@@ -1,40 +1,41 @@
-# Поиски коньяка  (Searching for Cognac) — `kukhnya-s02e01-scene-06`
+# kukhnya-s02e01-scene-06: review sheet
 
-**Source:** Кухня (Kukhnya) S2.01 · `sources/kukhnya/s02/e01.ru.dual.srt`  
-**Target level:** A1 — Duolingo Section 2
+Title: Поиски коньяка  (Searching for Cognac)
+Level: A1 — Duolingo Section 2
+Pair: ru-en
+Source: Кухня (Kukhnya) S2.01
 
-## Cast
 
-| Role | Voice | Label |
-|---|---|---|
-| `narrator` | sky | — |
-| `chef` | anja | Шеф |
-| `senya` | angelina | Сеня |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 1 — Intro
-
-> In the kitchen of Claude Monet, Chef Viktor is desperate for a drink after the new owner bans him from having alcohol. He searches Louis's pastry counter and stops Senya, confiscating a box of chocolates filled with cognac.
-
-## Part 2 — Story
-
-| # | Speaker | Line | English | Source cue(s) | Change |
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 0 | Шеф | Луи, что тут у тебя на столе? | Louis, what do you have here on the table? | #122 "что тут у тебя?" |  |
-| 1 | Шеф | Ну, шеф, пожалуйста, тихо! | Come on, chef, please, easy! | #123 "Ну, шеф, ну! Тих" |  |
-| 2 | Шеф | Что в этой красивой бутылке? | What is in this nice bottle? | #124 "А какой кот?" |  |
-| 3 | Шеф | Мне нельзя ничего вам говорить. | I am not allowed to tell you anything. | #125 "Мне не можно говорить" |  |
-| 4 | Шеф | Быстро говори, что это такое! | Tell me quickly what this is! | #126 "Говори, какой кот" |  |
-| 5 | Шеф | Это французский сироп для торта. | It is French syrup for a cake. | #127 "французская" |  |
-| 6 | Шеф | Сеня, ну-ка, стоять на месте! | Senya, hold it right there! | #128 "Ну-ка, стоять" |  |
-| 7 | Шеф | Для кого эта коробка? | Who is this box for? | #129 "Это для кого?" |  |
-| 8 | Сеня | Так это подарок для вас, шеф! | Well, this is a gift for you, chef! | #130 "Так это, ну... Ну, шефу?" |  |
-| 9 | Шеф | А, ну да, конечно, для шефа. | Ah, right, of course, for the chef. | #131 "А, ну да, для шефа" |  |
-| 10 | Шеф | Ещё раз увижу такое — уволю! | If I see this again, I will fire you! | #132 "Еще раз увижу, уволил" |  |
-| 11 | Сеня | Шеф, а какие там конфеты? | Chef, and what kind of candies are in there? | #133 "И конфетки?" |  |
-| 12 | Шеф | Отличные конфеты с французским коньяком! | Great candies with French cognac! | #134 "С коньяком" |  |
+| 1 | Шеф | Луи, что тут у тебя на столе? | Louis, what do you have here on the table? | #122: что тут у тебя? | verbatim |
+| 2 | Луи | Ну, шеф, пожалуйста, тихо! | Come on, chef, please, easy! | #123: Ну, шеф, ну! Тих | verbatim |
+| 3 | Шеф | Что в этой красивой бутылке? | What is in this nice bottle? | #124: А какой кот? | verbatim |
+| 4 | Луи | Мне нельзя ничего вам говорить. | I am not allowed to tell you anything. | #125: Мне не можно говорить | verbatim |
+| 5 | Шеф | Быстро говори, что это такое! | Tell me quickly what this is! | #126: Говори, какой кот | verbatim |
+| 6 | Луи | Это французский сироп для торта. | It is French syrup for a cake. | #127: французская | verbatim |
+| 7 | Шеф | Сеня, ну-ка, стоять на месте! | Senya, hold it right there! | #128: Ну-ка, стоять | verbatim |
+| 8 | Шеф | Для кого эта коробка? | Who is this box for? | #129: Это для кого? | verbatim |
+| 9 | Сеня | Так это подарок для вас, шеф! | Well, this is a gift for you, chef! | #130: Так это, ну... Ну, шефу? | verbatim |
+| 10 | Шеф | А, ну да, конечно, для шефа. | Ah, right, of course, for the chef. | #131: А, ну да, для шефа | verbatim |
+| 11 | Шеф | Ещё раз увижу такое — уволю! | If I see this again, I will fire you! | #132: Еще раз увижу, уволил | verbatim |
+| 12 | Сеня | Шеф, а какие там конфеты? | Chef, and what kind of candies are in there? | #133: И конфетки? | verbatim |
+| 13 | Шеф | Отличные конфеты с французским коньяком! | Great candies with French cognac! | #134: С коньяком | verbatim |
 
-## Part 5 — Outro & closing
+## Walk-through narration (English only, no target-language words quoted)
 
-> Even when every bottle in the kitchen is hidden, Chef Viktor manages to find cognac inside a box of chocolates. Next time you watch the episode, listen for the Russian expressions for 'table' and 'quietly' — you will catch every word right away. See you next time!
-
-**Шеф:** Пока!
+- 'Louis, what do you have here on the table?' Viktor approaches the pastry table looking for something to drink.
+- 'Come on, chef, please, easy!' Louis delivers a punchy one-word reaction built around the Russian word meaning 'easy'.
+- 'What is in this nice bottle?' Viktor spots an interesting bottle on the counter.
+- 'I am not allowed to tell you anything.' The new owner ordered the staff to keep alcohol away from Viktor.
+- 'Tell me quickly what this is!' Chef Barinov leads with the direct command form meaning 'say', followed by 'quickly'.
+- 'It is French syrup for a cake.' Louis claims the bottle only contains sweet baking syrup.
+- 'Senya, hold it right there!' Viktor catches Senya trying to sneak across the kitchen.
+- 'Who is this box for?' The preposition with the matching word ending asks who the recipient is.
+- 'Well, this is a gift for you, chef!' Senya pretends the stolen box is a present for Viktor.
+- 'Ah, right, of course, for the chef.' Viktor gladly accepts the excuse and takes the box.
+- 'If I see this again, I will fire you!' Viktor warns Senya not to steal from the kitchen again.
+- 'Chef, and what kind of candies are in there?' Senya is curious about the chocolates inside.
+- 'Great candies with French cognac!' Viktor is delighted to find liquor inside the chocolates.

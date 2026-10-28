@@ -1,34 +1,36 @@
-# domashniy-arest/s01e09/scene-08.py
-ID = "domashniy-arest-s01e09-scene-08"
-SHOW = "domashniy-arest"
+# Authoring module for domashniy-arest-s01e09-scene-08.
+ID = 'domashniy-arest-s01e09-scene-08'
+SHOW = 'domashniy-arest'
 SEASON = 1
 EPISODE = 9
 SCENE = 8
-TITLE = "Пять стадий неизбежного  (Five Stages of the Inevitable)"
-LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-SOURCE_NAME = "Домашний арест (Domashniy Arest) S1.09"
-SOURCE_FILE = "sources/domashniy-arest/s01/e09.ru.dual.srt"
-VOICES = {"narrator": "sky", "anya": "alisa", "samson": "anja"}
-LABELS = {"anya": "Аркадий", "samson": "Самсон"}
+TITLE = 'Пять стадий неизбежного  (Five Stages of the Inevitable)'
+LEVEL = 'A1 — Duolingo Section 2'
+PAIR = 'ru-en'
+LABELS = {'arkady': 'Аркадий', 'samson': 'Самсон'}
+SOURCE_NAME = 'Домашний арест (Domashniy Arest) S1.09'
+SOURCE_FILE = 'sources/domashniy-arest/s01/e09.ru.dual.srt'
 INTRO = "Meanwhile, Samsonov arrives at Arkady's luxury hotel room to seek political and psychological advice. Arkady explains the famous five stages of accepting the inevitable and devises a cunning scheme. To shatter Nina's complacency, Arkady suggests sending her a fake court summons for divorce. Let's listen to their conversation in Russian first."
-STORY = [
-    ("anya", "Итак, смотри, Самсонов.", "So, look here, Samsonov.", [(236, 'Итак, смотри')], ""),
-    ("anya", "Существует пять стадий принятия неизбежного.", "There are five stages of accepting the inevitable.", [(237, 'Существует пять стадий принятия неизбежного')], ""),
-    ("anya", "Отрицание, гнев, торги, депрессия, смирение.", "Denial, anger, bargaining, depression, acceptance.", [(238, 'Отрицание, гнев, торги, депрессия, смирение')], ""),
-    ("samson", "Я ничего не понял.", "I didn't understand anything.", [(241, 'Ничего я не понял')], ""),
-    ("anya", "Твоя жена считает, что ты никому не нужен.", "Your wife thinks nobody needs you.", [(243, 'Твоя жена считает'), (244, 'ты никому не нужен')], ""),
-    ("samson", "Вот она именно так и считает!", "That is exactly what she thinks!", [(245, 'вот она именно так и считает')], ""),
-    ("anya", "Мы зародим в ней сомнения.", "We will plant doubts in her.", [(248, 'мы зародим в ней сомнения')], ""),
-    ("anya", "Потом вызовем ревность.", "Then we will provoke jealousy.", [(249, 'Потом вызовем ревность')], ""),
-    ("anya", "Мы отправим ей повестку в суд!", "We will send her a court summons!", [(254, 'А мы отправим ей повестку в суд')], ""),
-    ("anya", "Как будто ты подаёшь на развод.", "As if you are filing for divorce.", [(255, 'Как будто ты подаешь на развод')], ""),
-    ("samson", "Я не хочу настоящего развода!", "I do not want a real divorce!", [(258, 'Я не хочу никакого развода')], ""),
-    ("anya", "Повестка будет липовая, из принтера.", "The summons will be fake, from a printer.", [(260, 'Повестка будет липовая'), (261, 'распечатаю на принтере')], ""),
-    ("samson", "Не знаю, я очень сомневаюсь.", "I don't know, I really doubt it.", [(263, 'Не знаю, сомневаюсь я')], ""),
-    ("anya", "Поздравляю тебя, Самсонов, ты подкаблучник!", "I congratulate you, Samsonov, you are henpecked!", [(265, 'Поздравляю тебя, ты подкаблучник')], ""),
-]
 OPENER = "Now let's examine Arkady's divorce summons scheme line by line. Arkady lectures Samsonov on human psychology."
+TRANSITION = "Now let's listen to Arkady's psychological strategy session one more time without interruption."
+OUTRO = "Despite Samsonov's doubts, Arkady prepares the fake court summons at campaign headquarters. See you next time!"
+CLOSING = ('arkady', 'Пока!')
+STORY = [
+    ('arkady', 'Итак, смотри, Самсонов.', 'So, look here, Samsonov.', [(236, 'Итак, смотри')], ''),
+    ('arkady', 'Существует пять стадий принятия неизбежного.', 'There are five stages of accepting the inevitable.', [(237, 'Существует пять стадий принятия неизбежного')], ''),
+    ('arkady', 'Отрицание, гнев, торги, депрессия, смирение.', 'Denial, anger, bargaining, depression, acceptance.', [(238, 'Отрицание, гнев, торги, депрессия, смирение')], ''),
+    ('samson', 'Я ничего не понял.', "I didn't understand anything.", [(241, 'Ничего я не понял')], ''),
+    ('arkady', 'Твоя жена считает, что ты никому не нужен.', 'Your wife thinks nobody needs you.', [(243, 'Твоя жена считает'), (244, 'ты никому не нужен')], ''),
+    ('samson', 'Вот она именно так и считает!', 'That is exactly what she thinks!', [(245, 'вот она именно так и считает')], ''),
+    ('arkady', 'Мы зародим в ней сомнения.', 'We will plant doubts in her.', [(248, 'мы зародим в ней сомнения')], ''),
+    ('arkady', 'Потом вызовем ревность.', 'Then we will provoke jealousy.', [(249, 'Потом вызовем ревность')], ''),
+    ('arkady', 'Мы отправим ей повестку в суд!', 'We will send her a court summons!', [(254, 'А мы отправим ей повестку в суд')], ''),
+    ('arkady', 'Как будто ты подаёшь на развод.', 'As if you are filing for divorce.', [(255, 'Как будто ты подаешь на развод')], ''),
+    ('samson', 'Я не хочу настоящего развода!', 'I do not want a real divorce!', [(258, 'Я не хочу никакого развода')], ''),
+    ('arkady', 'Повестка будет липовая, из принтера.', 'The summons will be fake, from a printer.', [(260, 'Повестка будет липовая'), (261, 'распечатаю на принтере')], ''),
+    ('samson', 'Не знаю, я очень сомневаюсь.', "I don't know, I really doubt it.", [(263, 'Не знаю, сомневаюсь я')], ''),
+    ('arkady', 'Поздравляю тебя, Самсонов, ты подкаблучник!', 'I congratulate you, Samsonov, you are henpecked!', [(265, 'Поздравляю тебя, ты подкаблучник')], ''),
+]
 WALK = [
     (0, None, "'So, look here, Samsonov.' Arkady begins to explain the strategic plan."),
     (1, None, "'There are five stages of accepting the inevitable.' The verb takes the 'of' form with the numeral five."),
@@ -45,6 +47,3 @@ WALK = [
     (12, None, "'I don't know, I really doubt it.' Samsonov expresses hesitation."),
     (13, None, "'I congratulate you, Samsonov, you are henpecked!' Arkady mocks Samsonov's lack of resolve."),
 ]
-TRANSITION = "Now let's listen to Arkady's psychological strategy session one more time without interruption."
-OUTRO = "Despite Samsonov's doubts, Arkady prepares the fake court summons at campaign headquarters. See you next time!"
-CLOSING = ("anya", "Пока!")

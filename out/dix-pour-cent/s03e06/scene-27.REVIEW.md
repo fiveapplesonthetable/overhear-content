@@ -1,31 +1,43 @@
-# Review: `dix-pour-cent-s03e06-scene-27` — La proposition d'Hicham  (Hicham's Offer)
+# dix-pour-cent-s03e06-scene-27: review sheet
 
-- **Source**: `sources/dix-pour-cent/s03/e06.fr.dual.srt`
-- **Level**: A1 — débutant
-- **Voices**: `{"narrator": "sky", "hicham": "marcel", "lea": "lucie"}`
-- **Labels**: `{"hicham": "Hicham", "lea": "Andréa"}`
+Title: La proposition d'Hicham  (Hicham's Offer)
+Level: A1 — débutant
+Pair: fr-en
+Source: Dix pour cent (Call My Agent!) S03E06
 
-## Part 1 — Intro
-> Late in the evening at the ASK offices, Andrea and Hicham reflect upon Mathias's abrupt departure. Acknowledging his personal priorities, Hicham reveals he is moving to London and makes Andrea a life-changing offer. Let's listen to their conversation in French first.
 
-## Part 2 — Story Lines
-| # | Role | French | English | Source Cues |
-|---|------|--------|---------|-------------|
-| 0 | `lea` (Andréa) | Ce sera bizarre sans Mathias. | It will be strange without Mathias. | 1314:sans Mathias |
-| 1 | `lea` (Andréa) | Il m'a fait de la peine. | I felt sorry for him. | 1315:de la peine |
-| 2 | `hicham` (Hicham) | Pour un peu, il nous manquerait. | Almost makes you miss him. | 1317:il nous manquerait |
-| 3 | `hicham` (Hicham) | Bon, je vais partir maintenant. | Well, I am heading out now. | 1318:Bon, j'y vais |
-| 4 | `hicham` (Hicham) | Tu pourras fermer la boutique? | Can you lock up the shop? | 1319:fermer la boutique |
-| 5 | `lea` (Andréa) | Pas de problème pour ça. | No problem with that. | 1320:Pas de problème |
-| 6 | `hicham` (Hicham) | Tu pourrais diriger la boutique. | You could run the shop. | 1321:de la boutique |
-| 7 | `hicham` (Hicham) | Je pars vivre à Londres. | I am moving to London. | 1322:à Londres |
-| 8 | `hicham` (Hicham) | Mon fils a besoin de moi. | My son needs me. | 1323:besoin de moi |
-| 9 | `hicham` (Hicham) | J'ai besoin de quelqu'un de confiance. | I need someone trustworthy. | 1324:quelqu'un de confiance |
-| 10 | `hicham` (Hicham) | Je cherche une nouvelle directrice. | I am looking for a new director. | 1325:Un DG |
-| 11 | `hicham` (Hicham) | Le poste de directrice t'intéresse? | Does the director post interest you? | 1326:Ça t'intéresse |
-| 12 | `lea` (Andréa) | C'est une offre incroyable, Hicham. | That is an incredible offer, Hicham. | 1326:Ça t'intéresse |
-| 13 | `hicham` (Hicham) | Réfléchis bien à cette opportunité. | Think carefully about this opportunity. | 1326:Ça t'intéresse |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 5 — Outro & Closing
-> Andrea stands in the darkened office, overwhelmed by the prospect of taking full command of ASK. When you watch the episode, listen out for the expressions meaning 'will be' and 'strange'. You'll catch them now. See you next time!
-- **Closing**: `hicham`: *Au revoir!*
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+|---|---|---|---|---|---|
+| 1 | Andréa | Ce sera bizarre sans Mathias. | It will be strange without Mathias. | #1314: sans Mathias | verbatim |
+| 2 | Andréa | Il m'a fait de la peine. | I felt sorry for him. | #1315: de la peine | verbatim |
+| 3 | Hicham | Pour un peu, il nous manquerait. | Almost makes you miss him. | #1317: il nous manquerait | verbatim |
+| 4 | Hicham | Bon, je vais partir maintenant. | Well, I am heading out now. | #1318: Bon, j'y vais | verbatim |
+| 5 | Hicham | Tu pourras fermer la boutique? | Can you lock up the shop? | #1319: fermer la boutique | verbatim |
+| 6 | Andréa | Pas de problème pour ça. | No problem with that. | #1320: Pas de problème | verbatim |
+| 7 | Hicham | Tu pourrais diriger la boutique. | You could run the shop. | #1321: de la boutique | verbatim |
+| 8 | Hicham | Je pars vivre à Londres. | I am moving to London. | #1322: à Londres | verbatim |
+| 9 | Hicham | Mon fils a besoin de moi. | My son needs me. | #1323: besoin de moi | verbatim |
+| 10 | Hicham | J'ai besoin de quelqu'un de confiance. | I need someone trustworthy. | #1324: quelqu'un de confiance | verbatim |
+| 11 | Hicham | Je cherche une nouvelle directrice. | I am looking for a new director. | #1325: Un DG | verbatim |
+| 12 | Hicham | Le poste de directrice t'intéresse? | Does the director post interest you? | #1326: Ça t'intéresse | verbatim |
+| 13 | Andréa | C'est une offre incroyable, Hicham. | That is an incredible offer, Hicham. | #1326: Ça t'intéresse | verbatim |
+| 14 | Hicham | Réfléchis bien à cette opportunité. | Think carefully about this opportunity. | #1326: Ça t'intéresse | verbatim |
+
+## Walk-through narration (English only, no target-language words quoted)
+
+- 'It will be strange without Mathias.' Andrea reflects on the agency atmosphere after Mathias leaves. The clause hinges on the everyday verb meaning 'will be'.
+- 'I felt sorry for him.' Andrea expresses genuine compassion for their fallen senior partner. The verb meaning 'has' pairs naturally with the noun for 'sorrow' in everyday conversation.
+- 'Almost makes you miss him.' Hicham confesses with a hint of warmth that Mathias will be missed. The clause hinges on the everyday verb meaning 'would be missed'.
+- 'Well, I am heading out now.' Hicham prepares to leave the office for the night. French forms the near future by pairing the present tense of 'to go' directly with 'to leave'.
+- 'Can you lock up the shop?' Hicham asks Andrea to lock the premises. Notice how 'will be able to' leads directly into the noun meaning 'shop'.
+- 'No problem with that.' Andrea accepts the responsibility easily. The key noun here means 'problem', anchored by its matching French article.
+- 'You could run the shop.' Hicham expands the metaphor to running the entire agency. The informal 'you' form around 'could' marks a direct, personal relationship.
+- 'I am moving to London.' Hicham announces his impending move across the Channel. The clause hinges on the everyday verb meaning 'am leaving'.
+- 'My son needs me.' Hicham explains his personal reason for stepping back from day-to-day operations. Notice how 'has' leads directly into the noun meaning 'son'.
+- 'I need someone trustworthy.' Hicham stresses the paramount importance of integrity in management. The verb meaning 'have' pairs naturally with the noun for 'need' in everyday conversation.
+- 'I am looking for a new director.' Hicham describes the executive vacancy. The verb meaning 'am looking for' pairs naturally with the noun for 'managing director' in everyday conversation.
+- 'Does the director post interest you?' Hicham presents Andrea with the ultimate promotion. Notice how 'interests' leads directly into the noun meaning 'position'.
+- 'That is an incredible offer, Hicham.' Andrea is stunned by the magnitude of the proposal. The key noun here means 'offer', anchored by its matching French article.
+- 'Think carefully about this opportunity.' Hicham encourages her to weigh the decision. The verb meaning 'think' pairs naturally with the noun for 'opportunity' in everyday conversation.

@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Герман | Посмотрите, Вика, наше праздничное меню уже готово. | Look, Vika, our festive menu is already ready. | #129 00:09:25: Эклеры в виде пальцев | adapted: adapted |
-| 2 | Герман | Вот сладкие эклеры в виде длинных пальцев. | Here are sweet eclairs in the shape of long fingers. | #129 00:09:25: Эклеры в виде пальцев | adapted: adapted |
-| 3 | Герман | Острые ногти сделаны из тонкого белого миндаля. | The sharp fingernails are made of thin white almond. | #129 00:09:25: Эклеры в виде пальцев | adapted: adapted |
-| 4 | Герман | А здесь чёрные пауки из бельгийского шоколада. | And here are black spiders made of Belgian chocolate. | #130 00:09:29: Таука из бельгийской шоколи. | adapted: adapted |
-| 5 | Вика | Выглядит очень страшно и одновременно аппетитно! | It looks very scary and appetizing at the same time! | #130 00:09:29: Таука из бельгийской шоколи. | adapted: adapted |
-| 6 | Герман | Дальше у нас горячий суп из морепродуктов. | Next we have a hot soup made of seafood. | #131 00:09:33: Суп из морепродуктов с | adapted: adapted |
-| 7 | Герман | Сверху лежит страшный осьминог из пресного теста. | On top lies a scary octopus made of unleavened dough. | #131 00:09:33: Суп из морепродуктов с | adapted: adapted |
-| 8 | Вика | Нашим гостям из банка это точно понравится! | Our guests from the bank will definitely like this! | #131 00:09:33: Суп из морепродуктов с | adapted: adapted |
-| 9 | Вика | А эти куриные ножки из чего сделаны? | And what are these chicken legs made of? | #132 00:09:45: А куриные ножки из | adapted: adapted |
-| 10 | Герман | Обычные куриные ножки сделаны из куриных ножек. | Ordinary chicken legs are made of chicken legs. | #133 00:09:49: Из куриных ножек? | adapted: adapted |
-| 11 | Вика | Понятно, это просто обед для наших поваров! | Got it, that is simply lunch for our cooks! | #133 00:09:49: Из куриных ножек? | adapted: adapted |
-| 12 | Герман | Совершенно верно, поварам тоже нужно хорошо обедать! | Quite right, the cooks also need to eat a good lunch! | #133 00:09:49: Из куриных ножек? | adapted: adapted |
+| 1 | Герман | Посмотрите, Вика, наше праздничное меню уже готово. | Look, Vika, our festive menu is already ready. | #129: Эклеры в виде пальцев | adapted: adapted |
+| 2 | Герман | Вот сладкие эклеры в виде длинных пальцев. | Here are sweet eclairs in the shape of long fingers. | #129: Эклеры в виде пальцев | adapted: adapted |
+| 3 | Герман | Острые ногти сделаны из тонкого белого миндаля. | The sharp fingernails are made of thin white almond. | #129: Эклеры в виде пальцев | adapted: adapted |
+| 4 | Герман | А здесь чёрные пауки из бельгийского шоколада. | And here are black spiders made of Belgian chocolate. | #130: Таука из бельгийской шоколи. | adapted: adapted |
+| 5 | Вика | Выглядит очень страшно и одновременно аппетитно! | It looks very scary and appetizing at the same time! | #130: Таука из бельгийской шоколи. | adapted: adapted |
+| 6 | Герман | Дальше у нас горячий суп из морепродуктов. | Next we have a hot soup made of seafood. | #131: Суп из морепродуктов с | adapted: adapted |
+| 7 | Герман | Сверху лежит страшный осьминог из пресного теста. | On top lies a scary octopus made of unleavened dough. | #131: Суп из морепродуктов с | adapted: adapted |
+| 8 | Вика | Нашим гостям из банка это точно понравится! | Our guests from the bank will definitely like this! | #131: Суп из морепродуктов с | adapted: adapted |
+| 9 | Вика | А эти куриные ножки из чего сделаны? | And what are these chicken legs made of? | #132: А куриные ножки из | adapted: adapted |
+| 10 | Герман | Обычные куриные ножки сделаны из куриных ножек. | Ordinary chicken legs are made of chicken legs. | #133: Из куриных ножек? | adapted: adapted |
+| 11 | Вика | Понятно, это просто обед для наших поваров! | Got it, that is simply lunch for our cooks! | #133: Из куриных ножек? | adapted: adapted |
+| 12 | Герман | Совершенно верно, поварам тоже нужно хорошо обедать! | Quite right, the cooks also need to eat a good lunch! | #133: Из куриных ножек? | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Look, Vika, our festive menu is already ready.' German invites Vika to inspect the tasting plates with a short neuter adjective.
-- 'Here are sweet eclairs in the shape of long fingers.' German pairs 'sweet' with 'finger; toe' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
-- 'The sharp fingernails are made of thin white almond.' Notice how Russian puts 'sharp; spicy' and 'almond, almonds' together in a short, direct phrase where word endings show how the ideas connect.
-- 'And here are black spiders made of Belgian chocolate.' Here German anchors the thought on 'black' and finishes on 'chocolate', keeping the spoken rhythm brisk and natural.
-- 'It looks very scary and appetizing at the same time!' Vika admires the desserts using two contrasting adverbs.
-- 'Next we have a hot soup made of seafood.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.
-- 'On top lies a scary octopus made of unleavened dough.' Notice how Russian puts 'upstairs, from above' and 'dough' together in a short, direct phrase where word endings show how the ideas connect.
-- 'Our guests from the bank will definitely like this!' Here Vika anchors the thought on 'guests' and finishes on 'is liked, pleases', keeping the spoken rhythm brisk and natural.
-- 'And what are these chicken legs made of?' Vika points curiously at a platter of drumsticks.
-- 'Ordinary chicken legs are made of chicken legs.' German pairs 'ordinary' with 'are placed, made' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
-- 'Got it, that is simply lunch for our cooks!' Vika laughs as she realizes that plate belongs to the staff meal.
-- 'Quite right, the cooks also need to eat a good lunch!' Here German anchors the thought on 'completely' and finishes on 'to have lunch', keeping the spoken rhythm brisk and natural.
+- 'Look, Vika, our festive menu is already ready.' Realizing that their festive menu is already ready changes how German handles the situation.
+- 'Here are sweet eclairs in the shape of long fingers.' Noting that here are sweet eclairs in the shape of long fingers keeps German's side of the story simple and clear.
+- 'The sharp fingernails are made of thin white almond.' Even though the sharp fingernails are made of thin white almond, German keeps a steady face in front of Vika.
+- 'And here are black spiders made of Belgian chocolate.' Admitting that here are black spiders made of Belgian chocolate shows German being honest for a change.
+- 'It looks very scary and appetizing at the same time!' Once it looks very scary and appetizing at the same time, Vika makes sure German hears every word. Russian puts the key word right up front so her emotion lands on the first beat.
+- 'Next we have a hot soup made of seafood.' Once next they have a hot soup made of seafood, German can finally tell Vika what he means.
+- 'On top lies a scary octopus made of unleavened dough.' Adding that on top lies a scary octopus made of unleavened dough fills in the missing piece for Vika.
+- 'Our guests from the bank will definitely like this!' Saying that their guests from the bank will definitely like this is how Vika takes charge of the moment. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'And what are these chicken legs made of?' Here wondering what these chicken legs made are shows Vika looking for the real truth.
+- 'Ordinary chicken legs are made of chicken legs.' Mentioning that ordinary chicken legs are made of chicken legs moves the talk in a new direction.
+- 'Got it, that is simply lunch for our cooks!' Insisting that got it that is simply lunch for their cooks shows Vika is not backing down. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'Quite right, the cooks also need to eat a good lunch!' Once quite right the cooks also need to eat a good lunch, German makes sure Vika hears every word.

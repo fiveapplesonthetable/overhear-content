@@ -10,23 +10,23 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Самсон | Нин, только не сердись, ладно? Он всё помоет. | Nina, just don't be angry, okay? He'll wash everything. | #956 00:53:17: только не сердись, ладно | adapted: second sentence adapted from cue 957 'Он ещё всё замоет' (замоет -> помоет, 'ещё' dropped) |
-| 2 | Нина | Да, правильно он всё сказал. Вот моё королевство. | Yes, he said it right. Here's my kingdom. | #959 00:53:29: правильно он всё сказал<br>#960 00:53:33: Вот моё королевство | adapted: 'Да,' at the start |
+| 1 | Самсон | Нин, только не сердись, ладно? Он всё помоет. | Nina, just don't be angry, okay? He'll wash everything. | #956: только не сердись, ладно | adapted: second sentence adapted from cue 957 'Он ещё всё замоет' (замоет -> помоет, 'ещё' dropped) |
+| 2 | Нина | Да, правильно он всё сказал. Вот моё королевство. | Yes, he said it right. Here's my kingdom. | #959: правильно он всё сказал<br>#960: Вот моё королевство | adapted: 'Да,' at the start |
 | 3 | Самсон | Нин, ты что? | Nina, what's wrong? | new | new: new; plain form of cue 961 'Чё ты, Нин?' (чё -> что) |
-| 4 | Нина | Лучше бы я тебе тогда сказала нет. | I should have said no to you back then. | #962 00:53:40: Лучше бы я тебе тогда | adapted: 'в ЗАГСе' (at the registry office) dropped; word order made plain |
-| 5 | Самсон | Аркаша, давай убирать! | Arkasha, let's clean up! | #965 00:53:59: Давай убирать | adapted: 'Аркаша' added so it is clear he is talking to Arkady |
-| 6 | Аня | Что я делаю? | What am I doing? | #967 00:54:09: Что я делаю | verbatim |
+| 4 | Нина | Лучше бы я тебе тогда сказала нет. | I should have said no to you back then. | #962: Лучше бы я тебе тогда | adapted: 'в ЗАГСе' (at the registry office) dropped; word order made plain |
+| 5 | Самсон | Аркаша, давай убирать! | Arkasha, let's clean up! | #965: Давай убирать | adapted: 'Аркаша' added so it is clear he is talking to Arkady |
+| 6 | Аркадий | Что я делаю? | What am I doing? | #967: Что я делаю | verbatim |
 | 7 | Самсон | Вытирай пол. Вот так. | Wipe the floor. Like that. | new | new: new; simplifies cue 968 'Не замочи тут, промокни!' and cue 969 'Вот как раз' |
-| 8 | Аня | Садитесь и держите дверь. Никто не войдёт. | Sit down and hold the door. Nobody will come in. | #970 00:54:49: садитесь<br>#971 00:54:52: Никто не войдёт | adapted: to the old neighbour; 'и держите дверь' made explicit (the toilet has no latch; cue 972 'Держите') |
-| 9 | Аня | Завтра мы поставим защёлку. | Tomorrow we'll put on a latch. | #972 00:54:53: Завтра мы поставим защёлку | verbatim |
-| 10 | Самсон | Нин, я всё помыл. Всё чисто. | Nina, I washed everything. It's all clean. | #977 00:55:30: Всё чисто | adapted: 'я всё помыл' from cue 976 'я всё замыл' (замыл -> помыл); 'как в аптеке' dropped |
-| 11 | Аня | Ты помыл? | You washed it? | new | new: new; Arkady did the scrubbing, Samson takes the credit (true to the scene) |
-| 12 | Самсон | Правда, Нин, всё нормально. Скажи что-нибудь, пожалуйста. | Honestly, Nina, everything's fine. Say something, please. | #978 00:55:33: правда, Нин<br>#983 00:55:54: Пожалуйста | adapted: 'всё пучком' -> 'всё нормально'; 'скажи что-нибудь' for cue 982 'подай хоть признак жизни' |
-| 13 | Нина | Без комментариев. | No comment. | #984 00:56:03: Без комментариев | verbatim |
-| 14 | Аня | Что с ней? | What's the matter with her? | new | new: new: Arkady asks |
-| 15 | Самсон | Обиделась. У неё всегда так. | She's offended. She's always like that. | #985 00:56:13: Обиделась<br>#986 00:56:15: у нее всегда так | verbatim |
-| 16 | Аня | А потом? | And then? | new | new: new |
-| 17 | Самсон | Потом пройдёт. | Then it passes. | #987 00:56:17: потом пройдет | verbatim |
+| 8 | Аркадий | Садитесь и держите дверь. Никто не войдёт. | Sit down and hold the door. Nobody will come in. | #970: садитесь<br>#971: Никто не войдёт | adapted: to the old neighbour; 'и держите дверь' made explicit (the toilet has no latch; cue 972 'Держите') |
+| 9 | Аркадий | Завтра мы поставим защёлку. | Tomorrow we'll put on a latch. | #972: Завтра мы поставим защёлку | verbatim |
+| 10 | Самсон | Нин, я всё помыл. Всё чисто. | Nina, I washed everything. It's all clean. | #977: Всё чисто | adapted: 'я всё помыл' from cue 976 'я всё замыл' (замыл -> помыл); 'как в аптеке' dropped |
+| 11 | Аркадий | Ты помыл? | You washed it? | new | new: new; Arkady did the scrubbing, Samson takes the credit (true to the scene) |
+| 12 | Самсон | Правда, Нин, всё нормально. Скажи что-нибудь, пожалуйста. | Honestly, Nina, everything's fine. Say something, please. | #978: правда, Нин<br>#983: Пожалуйста | adapted: 'всё пучком' -> 'всё нормально'; 'скажи что-нибудь' for cue 982 'подай хоть признак жизни' |
+| 13 | Нина | Без комментариев. | No comment. | #984: Без комментариев | verbatim |
+| 14 | Аркадий | Что с ней? | What's the matter with her? | new | new: new: Arkady asks |
+| 15 | Самсон | Обиделась. У неё всегда так. | She's offended. She's always like that. | #985: Обиделась<br>#986: у нее всегда так | verbatim |
+| 16 | Аркадий | А потом? | And then? | new | new: new |
+| 17 | Самсон | Потом пройдёт. | Then it passes. | #987: потом пройдет | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

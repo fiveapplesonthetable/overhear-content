@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Шеф | А вот и наш дорогой гость. | And here is our dear guest. | #211 00:20:49: мой гость | adapted: adapted |
-| 2 | Шеф | Мы вам горячий кофе принесли. | We brought you hot coffee. | #212 00:20:50: Мы вам кофе принесли | adapted: adapted |
-| 3 | Шеф | Пожалуйста, вот ваш лучший кофе. | Here you go, here is your finest coffee. | #215 00:21:01: Пожалуйста, ваш кофе | adapted: adapted |
-| 4 | Шеф | Я не понял, что здесь происходит? | I do not understand, what is going on here? | #216 00:21:03: я не понял, что здесь происходит? | adapted: verbatim |
-| 5 | Шеф | Вы что творите, вы чего? | What are you doing, what is with you? | #217 00:21:05: Да! Вы чего? | adapted: adapted |
-| 6 | Шеф | Вы что, совсем с ума сошли? | Have you completely lost your minds? | #218 00:21:07: Вы что, с ума сошли? | adapted: verbatim |
-| 7 | Шеф | Пей давай свой вкусный кофе! | Drink up your delicious coffee! | #218 00:21:07: Поешь | adapted: adapted |
-| 8 | Шеф | Что вы себе здесь позволяете? | What are you allowing yourselves here? | #219 00:21:10: Что себе | adapted: adapted |
-| 9 | Шеф | Витя, дай ему немного дышать. | Vitya, let him breathe a little. | #219 00:21:10: Дай ему дышать | adapted: adapted |
-| 10 | Шеф | Подожди, дай ему спокойно дышать. | Wait, let him breathe calmly. | #220 00:21:13: Дай ему дышать | adapted: adapted |
-| 11 | Шеф | А куда пропал весь кофе? | And where did all the coffee go? | #221 00:21:15: А там все кофе, а? | adapted: adapted |
-| 12 | Шеф | Держи этого хитрого ревизора! | Hold that clever inspector! | #222 00:21:18: Держи ревизора | adapted: adapted |
+| 1 | Шеф | А вот и наш дорогой гость. | And here is our dear guest. | #211: мой гость | adapted: adapted |
+| 2 | Шеф | Мы вам горячий кофе принесли. | We brought you hot coffee. | #212: Мы вам кофе принесли | adapted: adapted |
+| 3 | Михаил | Пожалуйста, вот ваш лучший кофе. | Here you go, here is your finest coffee. | #215: Пожалуйста, ваш кофе | adapted: adapted |
+| 4 | Гость | Я не понял, что здесь происходит? | I do not understand, what is going on here? | #216: я не понял, что здесь происходит? | adapted: verbatim |
+| 5 | Гость | Вы что творите, вы чего? | What are you doing, what is with you? | #217: Да! Вы чего? | adapted: adapted |
+| 6 | Гость | Вы что, совсем с ума сошли? | Have you completely lost your minds? | #218: Вы что, с ума сошли? | adapted: verbatim |
+| 7 | Шеф | Пей давай свой вкусный кофе! | Drink up your delicious coffee! | #218: Поешь | adapted: adapted |
+| 8 | Гость | Что вы себе здесь позволяете? | What are you allowing yourselves here? | #219: Что себе | adapted: adapted |
+| 9 | Михаил | Витя, дай ему немного дышать. | Vitya, let him breathe a little. | #219: Дай ему дышать | adapted: adapted |
+| 10 | Михаил | Подожди, дай ему спокойно дышать. | Wait, let him breathe calmly. | #220: Дай ему дышать | adapted: adapted |
+| 11 | Шеф | А куда пропал весь кофе? | And where did all the coffee go? | #221: А там все кофе, а? | adapted: adapted |
+| 12 | Шеф | Держи этого хитрого ревизора! | Hold that clever inspector! | #222: Держи ревизора | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'And here is our dear guest.' Chef Barinov anchors the line on 'and', while 'guest' completes the thought.
-- 'We brought you hot coffee.' Notice how Russian expresses 'we' and 'brought' with crisp inflection rather than helper words. Mikhail answers right away.
-- 'Here you go, here is your finest coffee.' Mikhail anchors the line on 'please', while 'coffee' completes the thought.
-- 'I do not understand, what is going on here?' the guest brings out the contrast between 'I' and 'not' in a few short words.
-- 'What are you doing, what is with you?' Here the Russian phrasing highlights 'you' before landing on 'are doing'.
-- 'Have you completely lost your minds?' The meaning hinges on 'you' working together with 'went' in spoken Russian.
-- 'Drink up your delicious coffee!' The meaning hinges on 'drink' working together with 'coffee' in spoken Russian.
-- 'What are you allowing yourselves here?' Notice how Russian expresses 'what' and 'to allow' with crisp inflection rather than helper words. Mikhail answers right away.
-- 'Vitya, let him breathe a little.' Mikhail anchors the line on 'proper name', while 'to breathe' completes the thought.
-- 'Wait, let him breathe calmly.' The grammar packs 'wait' and 'to breathe' into a tight, idiomatic kitchen exchange.
-- 'And where did all the coffee go?' Here the Russian phrasing highlights 'and' before landing on 'coffee'.
-- 'Hold that clever inspector!' Chef Barinov anchors the line on 'hold', while 'inspector' completes the thought.
+- 'And here is our dear guest.' Barinov tells the guest that here is their dear guest without dressing it up.
+- 'We brought you hot coffee.' Because they brought the guest hot coffee, Barinov treats the matter as settled. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
+- 'Here you go, here is your finest coffee.' Explaining that here Barinov goes here is Barinov's finest coffee lays the cards on the table for Barinov.
+- 'I do not understand, what is going on here?' When the guest asks if he does not understand what is going on here, Barinov has to answer fast. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'What are you doing, what is with you?' Here wondering what Barinov doing what is with Barinov is shows the guest looking for the real truth. Notice how he sticks to the formal "you", keeping a professional line between them.
+- 'Have you completely lost your minds?' Over the conversation and the inspector, the guest presses Barinov for a straight answer.
+- 'Drink up your delicious coffee!' Here drinking up the guest's delicious coffee lets Barinov's real feelings break through. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
+- 'What are you allowing yourselves here?' Asking what Barinov allowing yourselves here is is how the guest puts Barinov on the spot. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
+- 'Vitya, let him breathe a little.' Telling Barinov to let him breathe a little moves the conversation forward without extra drama.
+- 'Wait, let him breathe calmly.' Because Barinov should let him breathe calmly, Mikhail treats the matter as settled.
+- 'And where did all the coffee go?' Asking where all the coffee go cuts straight through the tension between Barinov and the guest. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Hold that clever inspector!' Barinov insists that the guest should hold that clever inspector, leaving the guest no room to argue.

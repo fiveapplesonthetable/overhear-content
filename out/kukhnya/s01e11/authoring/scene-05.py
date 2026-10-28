@@ -4,33 +4,32 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 11
 SCENE = 5
-TITLE = "В поисках критика  (In Search of the Critic)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'В поисках критика  (In Search of the Critic)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "kostya": "anja", "anya": "alisa"}
-LABELS = {"kostya": "Костя", "anya": "Макс"}
+LABELS = {'kostya': 'Костя', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.11'
 SOURCE_FILE = 'sources/kukhnya/s01/e11.ru.dual.srt'
 INTRO = "By the bar, Kostya and Max survey the dining room guests with keen detective curiosity. Knowing that a dreaded restaurant critic is visiting Claude Monet, the two friends analyze each customer's food and wine choices. Listen to their conversation in Russian first, and then we will examine each sentence."
 OPENER = 'Now, let us examine the vocabulary and phrasing of this entertaining dining room investigation.'
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "A charming scene full of fun observations about restaurant habits and undercover reviewers. Next time you watch the episode, listen for the Russian expressions for 'bank' and 'notepad' — you will catch every word right away. See you next time!"
-CLOSING = ("kostya", "Пока!")
+CLOSING = ('kostya', 'Пока!')
 STORY = [
     ('kostya', 'Макс, смотри внимательно на зал!', 'Max, look carefully at the dining room!', [], ''),
-    ('anya', 'Кто же из них может быть критиком?', 'Which one of them could be the critic?', [(66, 'Кто же из них может быть критиком?')], ''),
+    ('max', 'Кто же из них может быть критиком?', 'Which one of them could be the critic?', [(66, 'Кто же из них может быть критиком?')], ''),
     ('kostya', 'Эти двое работают в соседнем банке.', 'Those two work at the bank next door.', [(67, 'работают в соседнем банке.')], ''),
-    ('anya', 'Да, они наши постоянные гости.', 'Yes, they are our regular guests.', [(67, 'Эти двое постоянные гости')], ''),
+    ('max', 'Да, они наши постоянные гости.', 'Yes, they are our regular guests.', [(67, 'Эти двое постоянные гости')], ''),
     ('kostya', 'А тот мужчина у окна?', 'And that man by the window?', [], ''),
-    ('anya', 'Он заказал рыбу и красное вино.', 'He ordered fish and red wine.', [(68, 'Рыба и красное вино.')], ''),
+    ('max', 'Он заказал рыбу и красное вино.', 'He ordered fish and red wine.', [(68, 'Рыба и красное вино.')], ''),
     ('kostya', 'Нет, настоящий критик такого не закажет.', 'No, a real critic will not order that.', [(69, 'Нет.')], ''),
-    ('anya', 'А парень за столиком номер три?', 'What about the guy at table number three?', [], ''),
+    ('max', 'А парень за столиком номер три?', 'What about the guy at table number three?', [], ''),
     ('kostya', 'Он слишком молод для ресторанного критика.', 'He is too young for a restaurant critic.', [(70, 'Слишком молод')], ''),
-    ('anya', 'Критики обычно сидят в одиночестве.', 'Critics usually sit in solitude.', [], ''),
+    ('max', 'Критики обычно сидят в одиночестве.', 'Critics usually sit in solitude.', [], ''),
     ('kostya', 'И записывают всё в блокнот.', 'And write down everything in a notepad.', [], ''),
-    ('anya', 'Смотри, женщина за седьмым столиком!', 'Look, the woman at table seven!', [], ''),
+    ('max', 'Смотри, женщина за седьмым столиком!', 'Look, the woman at table seven!', [], ''),
     ('kostya', 'Она очень строго смотрит на меню.', 'She is looking very strictly at the menu.', [], ''),
-    ('anya', 'Кажется, мы нашли нашего критика!', 'It seems we found our critic!', [], ''),
+    ('max', 'Кажется, мы нашли нашего критика!', 'It seems we found our critic!', [], ''),
 ]
 WALK = [
     (0, None, "'Max, look carefully at the hall!' Kostya leads with the direct command form meaning 'look', pairing it with 'carefully' and 'the hall'."),

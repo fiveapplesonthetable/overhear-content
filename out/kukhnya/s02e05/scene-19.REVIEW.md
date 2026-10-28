@@ -10,32 +10,32 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Шеф | Вика! Вика. | Vika! Vika. | #323 00:22:52: Вика! Вика | verbatim |
-| 2 | Вика | Как разберешься в себе? | Once you figure yourself out. | #324 00:22:58: Как разберешься в себе | verbatim |
-| 3 | Шеф | Дай знать, ладно? | Let me know, all right? | #324 00:22:58: Дай знать, ладно | verbatim |
-| 4 | Вика | Жизнь часто ставит нас перед выбором. | Life often puts us in front of a choice. | #325 00:23:05: Жизнь часто ставит нас перед выбором | verbatim |
-| 5 | Шеф | Кто-то осознанно делает неправильный выбор. | Someone consciously makes the wrong choice. | #326 00:23:13: Кто-то осознанно делает неправильный выбор | verbatim |
-| 6 | Вика | Но у него ничего не получается. | And nothing works out for him. | #327 00:23:17: но у него ничего не получается | verbatim |
-| 7 | Шеф | А кто-то совсем запутался. | While someone else gets completely tangled up. | #328 00:23:31: А кто-то совсем запутался | verbatim |
-| 8 | Вика | Да, на этом все. | Yes, that is all for the sports news. | #329 00:23:36: Да, на этом все | verbatim |
-| 9 | Шеф | Видимо, сказалось отсутствие голкипера Вячеслава Малафеева. | Apparently, the absence of goalkeeper Vyacheslav Malafeev took its toll. | #331 00:23:42: Видимо, сказалось отсутствие голкипера Вячеслава Малафеева | verbatim |
-| 10 | Вика | Таким образом, ЦСКА, набрав три очка. | Thus, CSKA picked up three points. | #332 00:23:46: Таким образом, ЦСКА, набрав три очка | verbatim |
-| 11 | Шеф | Шеф, что тебе надо? | Chef, what do you need? | #334 00:24:00: Шеф, что тебе надо | verbatim |
-| 12 | Вика | Завалите меня работой. | Bury me in work. | #335 00:24:03: Завалите меня работой | verbatim |
-| 13 | Шеф | Я хочу работать без выходных. | I want to work without any days off. | #336 00:24:05: Я хочу работать без выходных | verbatim |
+| 1 | Шеф | Вика! Вика. | Vika! Vika. | #323: Вика! Вика | verbatim |
+| 2 | Вика | Как разберешься в себе? | Once you figure yourself out. | #324: Как разберешься в себе | verbatim |
+| 3 | Шеф | Дай знать, ладно? | Let me know, all right? | #324: Дай знать, ладно | verbatim |
+| 4 | Вика | Жизнь часто ставит нас перед выбором. | Life often puts us in front of a choice. | #325: Жизнь часто ставит нас перед выбором | verbatim |
+| 5 | Шеф | Кто-то осознанно делает неправильный выбор. | Someone consciously makes the wrong choice. | #326: Кто-то осознанно делает неправильный выбор | verbatim |
+| 6 | Вика | Но у него ничего не получается. | And nothing works out for him. | #327: но у него ничего не получается | verbatim |
+| 7 | Шеф | А кто-то совсем запутался. | While someone else gets completely tangled up. | #328: А кто-то совсем запутался | verbatim |
+| 8 | Вика | Да, на этом все. | Yes, that is all for the sports news. | #329: Да, на этом все | verbatim |
+| 9 | Шеф | Видимо, сказалось отсутствие голкипера Вячеслава Малафеева. | Apparently, the absence of goalkeeper Vyacheslav Malafeev took its toll. | #331: Видимо, сказалось отсутствие голкипера Вячеслава Малафеева | verbatim |
+| 10 | Вика | Таким образом, ЦСКА, набрав три очка. | Thus, CSKA picked up three points. | #332: Таким образом, ЦСКА, набрав три очка | verbatim |
+| 11 | Шеф | Шеф, что тебе надо? | Chef, what do you need? | #334: Шеф, что тебе надо | verbatim |
+| 12 | Вика | Завалите меня работой. | Bury me in work. | #335: Завалите меня работой | verbatim |
+| 13 | Шеф | Я хочу работать без выходных. | I want to work without any days off. | #336: Я хочу работать без выходных | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vika! Vika.' In Russian, the idea of 'Vika' flows naturally into 'Vika' without extra filler words. Vika answers right away.
-- 'Once you figure yourself out.' Here the Russian phrasing highlights 'how' before landing on 'to oneself'.
-- 'Let me know, all right?' Chef Viktor brings out the contrast between 'give' and 'to know' in a few short words.
-- 'Life often puts us in front of a choice.' Spoken Russian keeps this brisk, leaning on 'life' and finishing on 'choice'. Chef Viktor answers right away.
-- 'Someone consciously makes the wrong choice.' Chef Viktor brings out the contrast between 'someone' and 'consciously' in a few short words.
-- 'And nothing works out for him.' Notice how Russian expresses 'but' and 'it works out' with crisp inflection rather than helper words.
-- 'While someone else gets completely tangled up.' Notice how Russian expresses 'and' and 'got confused' with crisp inflection rather than helper words. Vika answers right away.
-- 'Yes, that is all for the sports news.' Vika anchors the line on 'yes', while 'all' completes the thought.
-- 'Apparently, the absence of goalkeeper Vyacheslav Malafeev took its toll.' Chef Viktor anchors the line on 'apparently', while 'Malafeyev' completes the thought.
-- 'Thus, CSKA picked up three points.' Here the Russian phrasing highlights 'in such a' before landing on 'point'. Chef Viktor answers right away.
-- 'Chef, what do you need?' In Russian, the idea of 'chef' flows naturally into 'at' without extra filler words.
-- 'Bury me in work.' Spoken Russian keeps this brisk, leaning on 'to overwhelm' and finishing on 'the job'.
-- 'I want to work without any days off.' Chef Viktor brings out the contrast between 'I' and 'want' in a few short words.
+- 'Vika! Vika.' Over the point and the plan, Barinov lets his real feelings show.
+- 'Once you figure yourself out.' Turning from the truth to the work, Vika asks Barinov directly. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Let me know, all right?' Wondering if let him know all right shows Barinov caught off guard. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Life often puts us in front of a choice.' Admitting that life often puts them in front of a choice shows Vika being honest for a change.
+- 'Someone consciously makes the wrong choice.' Saying that someone consciously makes the wrong choice is how Barinov sets the tone with Vika.
+- 'And nothing works out for him.' Once nothing works out for him, Vika can finally tell Barinov what she means. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
+- 'While someone else gets completely tangled up.' Adding that while someone else gets completely tangled up fills in the missing piece for Vika.
+- 'Yes, that is all for the sports news.' Saying that that is all for the sports news is how Vika sets the tone with Barinov.
+- 'Apparently, the absence of goalkeeper Vyacheslav Malafeev took its toll.' Since apparently the absence of goalkeeper Vyacheslav Malafeev took its toll, Barinov does not waste words on excuses.
+- 'Thus, CSKA picked up three points.' Mentioning that thus CSKA picked up three points moves the talk in a new direction.
+- 'Chef, what do you need?' By asking what Vika needs, Barinov presses Vika for a straight answer. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
+- 'Bury me in work.' Over the truth and the work, Vika answers Barinov without a second thought.
+- 'I want to work without any days off.' Because he wants to work without any days off, Barinov treats the matter as settled.

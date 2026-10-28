@@ -4,30 +4,29 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 9
 SCENE = 8
-TITLE = "Неожиданное родство  (An Unexpected Kinship)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Неожиданное родство  (An Unexpected Kinship)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "vika": "angelina", "anya": "alisa"}
-LABELS = {"vika": "Вика", "anya": "Макс"}
+LABELS = {'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.09'
 SOURCE_FILE = 'sources/kukhnya/s01/e09.ru.dual.srt'
 INTRO = "Near the bar in the Claude Monet dining room, Max arrives to fetch cognac for pastry chef Louis and notices art director Victoria with a young girl. Max teases Victoria about having children, only for the outspoken little girl to reveal that her father is the kitchen's boss, exposing unexpected family connections. Let's listen to their conversation in Russian first."
 OPENER = "Let's review how Max discovers the surprising family connection of Victoria line by line."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = 'Now you know how to talk about unexpected relatives, family resemblances, and workplace secrets in Russian. See you next time!'
-CLOSING = ("vika", "Пока!")
+CLOSING = ('vika', 'Пока!')
 STORY = [
-    ('anya', 'Вика, налей немного воды, пожалуйста.', 'Vika, pour a little water, please.', [(193, 'Костя, налей водички, пожалуйста')], ''),
+    ('max', 'Вика, налей немного воды, пожалуйста.', 'Vika, pour a little water, please.', [(193, 'Костя, налей водички, пожалуйста')], ''),
     ('vika', 'Костя тебе нальёт, а мне некогда.', 'Kostya will pour for you, and I have no time.', [(187, 'Но мне сейчас встречать гостей, видите')], ''),
-    ('anya', 'Ого, я не знал о твоих детях!', 'Wow, I did not know about your children!', [(194, 'Ой, я не знал, что у тебя есть дети')], ''),
+    ('max', 'Ого, я не знал о твоих детях!', 'Wow, I did not know about your children!', [(194, 'Ой, я не знал, что у тебя есть дети')], ''),
     ('vika', 'Это не моя дочка, а моя племянница.', 'This is not my daughter, but my niece.', [(196, 'Это дочь моей сестры Алиса')], ''),
-    ('anya', 'Она очень похожа на тебя внешне.', 'She looks very much like you externally.', [], ''),
+    ('max', 'Она очень похожа на тебя внешне.', 'She looks very much like you externally.', [], ''),
     ('vika', 'Её зовут Алиса, и она хорошая девочка.', 'Her name is Alice, and she is a good girl.', [(196, 'дочь моей сестры Алиса')], ''),
-    ('anya', 'А почему она говорит про нашего шефа?', 'And why is she talking about our chef?', [(203, 'Мой папа тут главный')], ''),
+    ('max', 'А почему она говорит про нашего шефа?', 'And why is she talking about our chef?', [(203, 'Мой папа тут главный')], ''),
     ('vika', 'Потому что наш шеф — её родной папа!', 'Because our chef is her own dad!', [(204, 'Ты что, дочка шефа')], ''),
-    ('anya', 'Неужели шеф — твой близкий родственник?', 'Can it be that the chef is your close relative?', [(206, 'Получается, ты и родственница шефа')], ''),
+    ('max', 'Неужели шеф — твой близкий родственник?', 'Can it be that the chef is your close relative?', [(206, 'Получается, ты и родственница шефа')], ''),
     ('vika', 'Это совершенно не твоё дело, Макс!', 'That is completely none of your business, Max!', [(207, 'Не твое дело')], ''),
-    ('anya', 'Теперь я понимаю многие странные вещи.', 'Now I understand many strange things.', [], ''),
+    ('max', 'Теперь я понимаю многие странные вещи.', 'Now I understand many strange things.', [], ''),
     ('vika', 'Иди на кухню и работай молча!', 'Go to the kitchen and work quietly!', [(208, 'Ладно, я пошел')], ''),
 ]
 WALK = [

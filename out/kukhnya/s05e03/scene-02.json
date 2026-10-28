@@ -8,14 +8,10 @@
  "scene": 2,
  "title": "Встреча Баринова и Элеоноры  (Barinov and Eleonora's Reunion)",
  "level": "A1 — Duolingo Section 2",
- "voices": {
-  "narrator": "sky",
-  "chef": "anja",
-  "eleonora": "angelina"
- },
  "labels": {
-  "chef": "Шеф",
-  "eleonora": "Элеонора"
+  "barinov": "Шеф",
+  "eleonora": "Элеонора",
+  "katya": "Катя"
  },
  "segments": [
   {
@@ -24,7 +20,7 @@
    "gap": 0.8
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Вспомнили, что у вас есть дочь?",
    "gap": 0.55
   },
@@ -39,22 +35,22 @@
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Я вспоминал тебя постоянно.",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Бывали трудные моменты в жизни.",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Тебя вспомнишь — и уже не так плохо.",
    "gap": 0.55
   },
   {
-   "v": "eleonora",
+   "v": "katya",
    "t": "Я пойду, кусайтесь без меня.",
    "gap": 0.55
   },
@@ -64,27 +60,27 @@
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "У неё на новом месте всё в порядке.",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Можешь ещё погулять пять лет.",
    "gap": 0.55
   },
   {
-   "v": "eleonora",
+   "v": "katya",
    "t": "Витя, познакомься прямо сейчас.",
    "gap": 0.55
   },
   {
-   "v": "eleonora",
+   "v": "katya",
    "t": "Это хозяйка нашего отеля, Элеонора Андреевна.",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Прошу у вас прощения.",
    "gap": 0.9
   },
@@ -94,13 +90,13 @@
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Вспомнили, что у вас есть дочь?",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Did you remember that you have a daughter?' The grammar packs 'remembered' and 'daughter' into a tight, idiomatic kitchen exchange.",
+   "t": "'Did you remember that you have a daughter?' Checking whether Eleonora remembers that Eleonora has a daughter cuts straight through the tension between Barinov and Eleonora. Russian expresses having something as \"by me is\", keeping the phrase short and grounded.",
    "gap": 0.4
   },
   {
@@ -110,7 +106,7 @@
   },
   {
    "v": "narrator",
-   "t": "'I always remembered her.' Notice how Russian expresses 'I' and 'remembered' with crisp inflection rather than helper words.",
+   "t": "'I always remembered her.' Eleonora tells Barinov that she always remembered without dressing it up.",
    "gap": 0.4
   },
   {
@@ -120,47 +116,47 @@
   },
   {
    "v": "narrator",
-   "t": "'And did you ever think of me?' The '-l' ending on the verb meaning 'remembered' places the action in the masculine past tense.",
+   "t": "'And did you ever think of me?' Here asking whether Barinov ever think shows Eleonora looking for the real truth.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Я вспоминал тебя постоянно.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'I thought of you constantly.' Here the Russian phrasing highlights 'I' before landing on 'constantly'.",
+   "t": "'I thought of you constantly.' Mentioning that he thought of Eleonora constantly moves the talk in a new direction. Speaking with the close, informal \"you\" strips away any polite distance between them.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Бывали трудные моменты в жизни.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'There were difficult moments in life.' The plural past ending '-li' on the verb for 'to happen' covers a group or the polite 'you'.",
+   "t": "'There were difficult moments in life.' Barinov reminds Eleonora that there were difficult moments in life before the moment passes.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Тебя вспомнишь — и уже не так плохо.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'One remembers you, and things do not seem so bad.' Here the Russian phrasing highlights 'you' before landing on 'badly'.",
+   "t": "'One remembers you, and things do not seem so bad.' Because one remembers Eleonora and things do not seem so bad, Barinov treats the matter as settled.",
    "gap": 0.4
   },
   {
-   "v": "eleonora",
+   "v": "katya",
    "t": "Я пойду, кусайтесь без меня.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'I will go, bite each other without me.' In Russian, the idea of 'I' flows naturally into 'me' without extra filler words.",
+   "t": "'I will go, bite each other without me.' Explaining that she will go bite each other lays the cards on the table for Barinov.",
    "gap": 0.4
   },
   {
@@ -170,61 +166,61 @@
   },
   {
    "v": "narrator",
-   "t": "'Wait, you did not really tell me anything.' In Russian, the idea of 'wait' flows naturally into 'told' without extra filler words. Chef Barinov answers right away.",
+   "t": "'Wait, you did not really tell me anything.' Eleonora mentions that Barinov did not really tell her anything so Barinov sees what is at stake. Russian stacks \"never\" or \"nothing\" together with \"not\", doubling the refusal for extra weight.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "У неё на новом месте всё в порядке.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Everything is fine with her at the new place.' Chef Barinov anchors the line on 'at', while 'order' completes the thought.",
+   "t": "'Everything is fine with her at the new place.' Claiming that everything is fine with her at the new place sounds confident, even if Eleonora has doubts.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Можешь ещё погулять пять лет.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'You can go stroll around for another five years.' Here the Russian phrasing highlights 'can' before landing on 'years'.",
+   "t": "'You can go stroll around for another five years.' Pointing out that Eleonora can go stroll around for another five years gives Eleonora a sobering reality check.",
    "gap": 0.4
   },
   {
-   "v": "eleonora",
+   "v": "katya",
    "t": "Витя, познакомься прямо сейчас.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Vitya, meet her right now.' Notice how Russian expresses 'proper name' and 'now' with crisp inflection rather than helper words.",
+   "t": "'Vitya, meet her right now.' Adding that Barinov should meet her right now fills in the missing piece for Barinov.",
    "gap": 0.4
   },
   {
-   "v": "eleonora",
+   "v": "katya",
    "t": "Это хозяйка нашего отеля, Элеонора Андреевна.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'This is the owner of our hotel, Eleonora Andreevna.' Katya anchors the line on 'this', while 'proper name' completes the thought.",
+   "t": "'This is the owner of our hotel, Eleonora Andreevna.' Realizing that this is the owner of their hotel Eleonora Andreevna changes how Katya handles the situation.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Прошу у вас прощения.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'I beg your pardon.' Notice how Russian expresses 'ask for' and 'of forgiveness' with crisp inflection rather than helper words. Alright, let's hear the entire conversation one more time from start to finish.",
+   "t": "'I beg your pardon.' By begging Eleonora's pardon, Barinov keeps his side of the story grounded. Russian expresses having something as \"by me is\", keeping the phrase short and grounded. Alright, let's hear the entire conversation one more time from start to finish.",
    "gap": 0.9
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Вспомнили, что у вас есть дочь?",
    "gap": 0.5
   },
@@ -239,22 +235,22 @@
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Я вспоминал тебя постоянно.",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Бывали трудные моменты в жизни.",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Тебя вспомнишь — и уже не так плохо.",
    "gap": 0.5
   },
   {
-   "v": "eleonora",
+   "v": "katya",
    "t": "Я пойду, кусайтесь без меня.",
    "gap": 0.5
   },
@@ -264,27 +260,27 @@
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "У неё на новом месте всё в порядке.",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Можешь ещё погулять пять лет.",
    "gap": 0.5
   },
   {
-   "v": "eleonora",
+   "v": "katya",
    "t": "Витя, познакомься прямо сейчас.",
    "gap": 0.5
   },
   {
-   "v": "eleonora",
+   "v": "katya",
    "t": "Это хозяйка нашего отеля, Элеонора Андреевна.",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Прошу у вас прощения.",
    "gap": 0.9
   },
@@ -294,7 +290,7 @@
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "До завтра!",
    "gap": 0.3
   }

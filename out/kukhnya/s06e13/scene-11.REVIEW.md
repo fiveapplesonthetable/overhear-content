@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Гость | Мне сказали, вы можете организовать игру. | I was told you can organize a game. | #152 00:11:01: можете организовать игру | adapted: adapted |
-| 2 | Гость | Интересно, и кто вам это шепнул? | Interesting, and who whispered that to you? | #153 00:11:05: И кто этот шептал | adapted: adapted |
-| 3 | Гость | Ну, это сейчас не так важно. | Well, that is not so important right now. | #153 00:11:05: не столь важно | adapted: adapted |
-| 4 | Гость | Так вы можете помочь или нет? | So can you help me or not? | #154 00:11:08: Так можете или нет | adapted: adapted |
-| 5 | Гость | Хорошо, я обязательно что-нибудь для вас придумаю. | Fine, I will definitely think of something for you. | #156 00:11:13: Я что-нибудь придумаю | adapted: adapted |
-| 6 | Гость | А как мне потом вас найти? | And how can I find you later? | #156 00:11:13: Как мне вас найти | adapted: adapted |
-| 7 | Гость | Все телефоны есть на моей визитке. | All the phone numbers are on my business card. | #157 00:11:16: Все на моей визитке | adapted: adapted |
-| 8 | Гость | Смотри, у него такой же костюм. | Look, he has the exact same suit. | #158 00:11:31: такой же костюм | adapted: adapted |
-| 9 | Гость | Мы отдали мой костюм в химчистку. | We gave my suit to the dry cleaners. | #158 00:11:31: мы отдали | adapted: adapted |
-| 10 | Гость | Давно мне так хорошо не везло. | I have not had such good luck in a long time. | #161 00:11:49: Давно мне так не везло | adapted: adapted |
-| 11 | Гость | Пожалуйста, вы совершенно не беспокойтесь. | Please, do not worry at all. | #162 00:11:55: Не беспокойтесь | adapted: adapted |
-| 12 | Гость | Извините, я зашёл только быстро спросить. | Excuse me, I came in just to ask quickly. | #164 00:12:05: Я только спросить | adapted: adapted |
+| 1 | Гость | Мне сказали, вы можете организовать игру. | I was told you can organize a game. | #152: можете организовать игру | adapted: adapted |
+| 2 | Михаил | Интересно, и кто вам это шепнул? | Interesting, and who whispered that to you? | #153: И кто этот шептал | adapted: adapted |
+| 3 | Гость | Ну, это сейчас не так важно. | Well, that is not so important right now. | #153: не столь важно | adapted: adapted |
+| 4 | Гость | Так вы можете помочь или нет? | So can you help me or not? | #154: Так можете или нет | adapted: adapted |
+| 5 | Михаил | Хорошо, я обязательно что-нибудь для вас придумаю. | Fine, I will definitely think of something for you. | #156: Я что-нибудь придумаю | adapted: adapted |
+| 6 | Гость | А как мне потом вас найти? | And how can I find you later? | #156: Как мне вас найти | adapted: adapted |
+| 7 | Михаил | Все телефоны есть на моей визитке. | All the phone numbers are on my business card. | #157: Все на моей визитке | adapted: adapted |
+| 8 | Михаил | Смотри, у него такой же костюм. | Look, he has the exact same suit. | #158: такой же костюм | adapted: adapted |
+| 9 | Михаил | Мы отдали мой костюм в химчистку. | We gave my suit to the dry cleaners. | #158: мы отдали | adapted: adapted |
+| 10 | Гость | Давно мне так хорошо не везло. | I have not had such good luck in a long time. | #161: Давно мне так не везло | adapted: adapted |
+| 11 | Гость | Пожалуйста, вы совершенно не беспокойтесь. | Please, do not worry at all. | #162: Не беспокойтесь | adapted: adapted |
+| 12 | Шеф | Извините, я зашёл только быстро спросить. | Excuse me, I came in just to ask quickly. | #164: Я только спросить | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I was told you can organize a game.' Spoken Russian keeps this brisk, leaning on 'to me' and finishing on 'game'.
-- 'Interesting, and who whispered that to you?' Notice how Russian expresses 'interesting' and 'whispered' with crisp inflection rather than helper words. the guest answers right away.
-- 'Well, that is not so important right now.' Spoken Russian keeps this brisk, leaning on 'come on' and finishing on 'important'.
-- 'So can you help me or not?' In Russian, the idea of 'so' flows naturally into 'no' without extra filler words.
-- 'Fine, I will definitely think of something for you.' Mikhail chooses the respectful plural 'you' alongside 'will come up with' to keep a polite distance. the guest answers right away.
-- 'And how can I find you later?' In Russian, the idea of 'and' flows naturally into 'to find' without extra filler words.
-- 'All the phone numbers are on my business card.' Mikhail anchors the line on 'all', while 'business card' completes the thought.
-- 'Look, he has the exact same suit.' Spoken Russian keeps this brisk, leaning on 'watch' and finishing on 'suit'.
-- 'We gave my suit to the dry cleaners.' Mikhail anchors the line on 'we', while 'dry cleaner’s' completes the thought.
-- 'I have not had such good luck in a long time.' The grammar packs 'for a long time' and 'to transport' into a tight, idiomatic kitchen exchange.
-- 'Please, do not worry at all.' The meaning hinges on 'please' working together with 'to worry' in spoken Russian. Chef Barinov answers right away.
-- 'Excuse me, I came in just to ask quickly.' Here the Russian phrasing highlights 'excuse me' before landing on 'to ask'.
+- 'I was told you can organize a game.' Once he was told Barinov can organize a game, the guest can finally tell Barinov what he means. Notice how he sticks to the formal "you", keeping a professional line between them.
+- 'Interesting, and who whispered that to you?' With the conversation and secret hanging in the air, Mikhail puts Barinov on the spot. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
+- 'Well, that is not so important right now.' Saying that that is not so important right now is how the guest sets the tone with Barinov.
+- 'So can you help me or not?' Checking whether Barinov helps him or not cuts straight through the tension between the guest and Barinov. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
+- 'Fine, I will definitely think of something for you.' Mentioning that fine he will definitely think of something for Barinov moves the talk in a new direction. Notice how he sticks to the formal "you", keeping a professional line between them.
+- 'And how can I find you later?' Here asking how he finds Barinov later can shows the guest looking for the real truth.
+- 'All the phone numbers are on my business card.' Because all the phone numbers are on his business card, Mikhail treats the matter as settled.
+- 'Look, he has the exact same suit.' Explaining that he has the exact same suit lays the cards on the table for Barinov. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
+- 'We gave my suit to the dry cleaners.' Mikhail mentions that they gave his suit to the dry cleaners so Barinov sees what is at stake.
+- 'I have not had such good luck in a long time.' Mentioning that he has not had such good luck in a long time moves the talk in a new direction.
+- 'Please, do not worry at all.' Mentioning that do not worry at all moves the talk in a new direction. Notice how he sticks to the formal "you", keeping a professional line between them.
+- 'Excuse me, I came in just to ask quickly.' Barinov explains that he came in just to ask quickly, keeping his voice calm and direct.

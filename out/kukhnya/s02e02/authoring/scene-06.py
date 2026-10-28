@@ -4,31 +4,30 @@ SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 2
 SCENE = 6
-TITLE = "Заказ  (The Order)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Заказ  (The Order)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "sasha": "anja"}
-LABELS = {"sasha": "Саша"}
+LABELS = {'guest': 'Гость', 'sasha': 'Саша'}
 SOURCE_NAME = 'Кухня (Kukhnya) S2.02'
 SOURCE_FILE = 'sources/kukhnya/s02/e02.ru.dual.srt'
 INTRO = "In the restaurant, a normal day is suddenly interrupted. Someone needs urgent medical help. Let's listen closely to their exchange in Russian first, and then walk through each line together."
 OPENER = "Now let's go back through the exchange around The Order line by line and unpack how the Russian works."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Someone needs urgent medical help. Next time you watch the episode, listen for the Russian expressions for 'pleasant' and 'appetite' — you will catch every word right away. See you next time!"
-CLOSING = ("sasha", "До свидания!")
+CLOSING = ('sasha', 'До свидания!')
 STORY = [
     ('sasha', 'Приятного аппетита.', 'Enjoy your meal.', [(104, 'Приятного аппетита')], ''),
-    ('sasha', 'Саша, привет.', 'Sasha, hi.', [], ''),
-    ('sasha', 'Я хочу есть.', 'I want to eat.', [], ''),
-    ('sasha', 'Ты попросишь Калифорнию?', 'Will you ask for a California roll?', [(105, 'попросишь'), (105, 'Калифорнию')], ''),
+    ('guest', 'Саша, привет.', 'Sasha, hi.', [], ''),
+    ('guest', 'Я хочу есть.', 'I want to eat.', [], ''),
+    ('guest', 'Ты попросишь Калифорнию?', 'Will you ask for a California roll?', [(105, 'попросишь'), (105, 'Калифорнию')], ''),
     ('sasha', 'Да, конечно.', 'Yes, of course.', [], ''),
     ('sasha', 'Хорошо, спасибо.', 'Okay, thanks.', [(106, 'Хорошо, спасибо')], ''),
     ('sasha', 'Ой, что это?', 'Oh, what is this?', [], ''),
-    ('sasha', 'Человеку плохо!', 'A person is feeling bad!', [], ''),
+    ('guest', 'Человеку плохо!', 'A person is feeling bad!', [], ''),
     ('sasha', 'Что случилось?', 'What happened?', [], ''),
-    ('sasha', 'Ему очень плохо.', 'He is very bad.', [], ''),
+    ('guest', 'Ему очень плохо.', 'He is very bad.', [], ''),
     ('sasha', 'Помогите!', 'Help!', [], ''),
-    ('sasha', 'Скорую вызовите.', 'Call an ambulance.', [(107, 'Скорую вызовите')], ''),
+    ('guest', 'Скорую вызовите.', 'Call an ambulance.', [(107, 'Скорую вызовите')], ''),
     ('sasha', 'Скорую нужно вызвать.', 'We need an ambulance.', [(108, 'Скорую нужно')], ''),
 ]
 WALK = [

@@ -10,16 +10,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Доктор | Приведёте ребёнка с утра. | You will bring the child in the morning. | #592 00:34:28: Приведете ребенка с утра | verbatim |
-| 2 | Доктор | Вот, прочтите и здесь распишитесь. | Here, read this and sign right here. | #594 00:34:35: Вот, прочтите и здесь распишитесь | verbatim |
-| 3 | Марина | Скажите, а эта операция очень опасная? | Tell me, is this operation very dangerous? | #595 00:34:42: Скажите, а эта операция очень опасная | verbatim |
-| 4 | Доктор | Здесь все операции сложные и опасные. | Here all operations are complex and dangerous. | #597 00:34:47: Здесь все операции сложные, опасные | verbatim |
+| 1 | Доктор | Приведёте ребёнка с утра. | You will bring the child in the morning. | #592: Приведете ребенка с утра | verbatim |
+| 2 | Доктор | Вот, прочтите и здесь распишитесь. | Here, read this and sign right here. | #594: Вот, прочтите и здесь распишитесь | verbatim |
+| 3 | Марина | Скажите, а эта операция очень опасная? | Tell me, is this operation very dangerous? | #595: Скажите, а эта операция очень опасная | verbatim |
+| 4 | Доктор | Здесь все операции сложные и опасные. | Here all operations are complex and dangerous. | #597: Здесь все операции сложные, опасные | verbatim |
 | 5 | Марина | А если мы не сделаем её? | And what if we do not do it? | new | new: clarifying question |
-| 6 | Доктор | Тогда мальчик не сможет ходить. | Then the boy will not be able to walk. | #599 00:35:01: не сможете ходить | verbatim |
+| 6 | Доктор | Тогда мальчик не сможет ходить. | Then the boy will not be able to walk. | #599: не сможете ходить | verbatim |
 | 7 | Марина | Я очень боюсь за ребёнка. | I am very afraid for the child. | new | new: mother's fear |
-| 8 | Доктор | Тогда что вы решили? Время идёт. | Then what have you decided? Time is passing. | #603 00:35:12: Тогда что | verbatim |
-| 9 | Марина | Я просто хочу услышать правду. | I just want to hear the truth. | #604 00:35:13: Я просто хотела услышать | verbatim |
-| 10 | Доктор | Если что-то случится, вы должны понимать. | If something happens, you must understand. | #609 00:35:24: если, не дай бог, что-то случится | verbatim |
+| 8 | Доктор | Тогда что вы решили? Время идёт. | Then what have you decided? Time is passing. | #603: Тогда что | verbatim |
+| 9 | Марина | Я просто хочу услышать правду. | I just want to hear the truth. | #604: Я просто хотела услышать | verbatim |
+| 10 | Доктор | Если что-то случится, вы должны понимать. | If something happens, you must understand. | #609: если, не дай бог, что-то случится | verbatim |
 | 11 | Доктор | Вся ответственность лежит на вас. | All responsibility lies with you. | new | new: new clarifying A1 sentence |
 | 12 | Марина | Хорошо. Я всё подпишу. | Fine. I will sign everything. | new | new: new closing A1 sentence |
 

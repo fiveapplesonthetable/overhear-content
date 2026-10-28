@@ -4,32 +4,31 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 14
 SCENE = 9
-TITLE = "Французские блюда  (French Dishes)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Французские блюда  (French Dishes)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "anya": "alisa", "kostya": "anja"}
-LABELS = {"anya": "Макс", "kostya": "Костя"}
+LABELS = {'kostya': 'Костя', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.14'
 SOURCE_FILE = 'sources/kukhnya/s01/e14.ru.dual.srt'
 INTRO = 'In the kitchen of Claude Monet, Max finishes preparing special French dishes for the VIP table. He calls Kostya to the kitchen pass to deliver the plates into the dining room immediately. Let us listen to their conversation in Russian first.'
 OPENER = "Now let us examine Max and Kostya's conversation at the pass line by line."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "With the intricate dishes plated and inspected, Kostya hurries out into the dining room to serve the VIP diners and deliver Max's greeting. Next time you watch the episode, listen for the Russian expressions for 'new' and 'order' — you will catch every word right away. See you next time!"
-CLOSING = ("anya", "Пока!")
+CLOSING = ('max', 'Пока!')
 STORY = [
-    ('anya', 'Костя, новый заказ для гостей готов.', 'Kostya, the new order for the guests is ready.', [], ''),
+    ('max', 'Костя, новый заказ для гостей готов.', 'Kostya, the new order for the guests is ready.', [], ''),
     ('kostya', 'Отлично, покажи мне эти красивые тарелки.', 'Great, show me these beautiful plates.', [], ''),
-    ('anya', 'Вот вкусный французский стейк и горячая рыба.', 'Here is a delicious French steak and hot fish.', [(169, 'Филиминьон по-фламански, лангусты а-ля Франце.')], ''),
+    ('max', 'Вот вкусный французский стейк и горячая рыба.', 'Here is a delicious French steak and hot fish.', [(169, 'Филиминьон по-фламански, лангусты а-ля Франце.')], ''),
     ('kostya', 'Это блюдо выглядит очень аппетитно и дорого.', 'This dish looks very appetizing and expensive.', [], ''),
-    ('anya', 'Я долго готовил этот редкий рецепт.', 'I cooked this rare recipe for a long time.', [], ''),
+    ('max', 'Я долго готовил этот редкий рецепт.', 'I cooked this rare recipe for a long time.', [], ''),
     ('kostya', 'Наши гости в зале очень голодные.', 'Our guests in the hall are very hungry.', [], ''),
-    ('anya', 'Тогда неси эти тарелки прямо сейчас.', 'Then carry these plates right now.', [], ''),
+    ('max', 'Тогда неси эти тарелки прямо сейчас.', 'Then carry these plates right now.', [], ''),
     ('kostya', 'Я быстро отнесу горячую еду гостям.', 'I will quickly take the hot food to the guests.', [], ''),
-    ('anya', 'Обязательно пожелай им приятного аппетита.', 'Be sure to wish them bon appétit.', [], ''),
+    ('max', 'Обязательно пожелай им приятного аппетита.', 'Be sure to wish them bon appétit.', [], ''),
     ('kostya', 'Конечно, я всё сделаю очень вежливо.', 'Of course, I will do everything very politely.', [], ''),
-    ('anya', 'Скажи, что шеф готовил для них.', 'Say that the chef cooked for them.', [], ''),
+    ('max', 'Скажи, что шеф готовил для них.', 'Say that the chef cooked for them.', [], ''),
     ('kostya', 'Хорошо, я передам твои тёплые слова.', 'Good, I will pass on your warm words.', [], ''),
-    ('anya', 'Иди скорее, гости уже ждут заказ!', 'Go quickly, the guests are already waiting for the order!', [], ''),
+    ('max', 'Иди скорее, гости уже ждут заказ!', 'Go quickly, the guests are already waiting for the order!', [], ''),
 ]
 WALK = [
     (0, None, "'Kostya, the new order for the guests is ready.' Russian omits the present-tense verb 'to be' here, linking 'new' directly with 'order', pairing it with 'guests' and 'ready'."),

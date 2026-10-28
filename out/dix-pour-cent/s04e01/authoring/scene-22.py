@@ -7,8 +7,7 @@ SCENE = 22
 TITLE = 'Une vraie actrice  (A True Actress)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'sofia': 'emilie', 'lea': 'lucie'}
-LABELS = {'gabriel': 'Gabriel', 'sofia': 'Sofia', 'lea': 'Andréa'}
+LABELS = {'charlotte': 'Charlotte', 'gabriel': 'Gabriel', 'sofia': 'Sofia'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e01.fr.dual.srt'
 INTRO = "In the quiet backstage hallway, Sofia tells Gabriel that she wants to give up, but Gabriel insists that she quit her desk job at ASK to focus entirely on acting. When a fan and Charlotte Gainsbourg both ask for her autograph on their casts, Sofia realizes she is truly an actress. Let's listen to the scene in French first."
@@ -23,13 +22,13 @@ STORY = [
     ('gabriel', "Tu joues, c'est ton métier désormais.", 'You act, it is your job from now on.', [(948, 'Tu joues'), (955, "c'est")], ''),
     ('sofia', "J'ai raté ma dernière audition importante.", 'I blew my last important audition.', [(952, "J'ai raté mon audition")], ''),
     ('gabriel', 'Tu dois avoir confiance en ton talent.', 'You must have confidence in your talent.', [(949, 'tu dois me faire confiance')], ''),
-    ('lea', 'Excusez-moi, pourriez-vous baisser la voix?', 'Excuse me, could you lower your voices?', [(963, 'Excusez-moi. Pourriez-vous baisser la voix ?')], ''),
+    ('charlotte', 'Excusez-moi, pourriez-vous baisser la voix?', 'Excuse me, could you lower your voices?', [(963, 'Excusez-moi. Pourriez-vous baisser la voix ?')], ''),
     ('gabriel', 'Bonsoir mademoiselle Charlotte Gainsbourg.', 'Good evening Miss Charlotte Gainsbourg.', [(964, 'Bonjour, Mademoiselle Gainsbourg')], ''),
-    ('lea', 'La cérémonie était beaucoup trop longue.', 'The ceremony was much too long.', [(966, 'La cérémonie est trop longue')], ''),
+    ('charlotte', 'La cérémonie était beaucoup trop longue.', 'The ceremony was much too long.', [(966, 'La cérémonie est trop longue')], ''),
     ('sofia', 'Vous avez un plâtre à la jambe?', 'You have a cast on your leg?', [(966, 'Avec mon plâtre et tout')], ''),
-    ('lea', 'Vous avez un stylo pour signer?', 'Do you have a pen to sign?', [(968, 'Vous avez un stylo ?')], ''),
+    ('charlotte', 'Vous avez un stylo pour signer?', 'Do you have a pen to sign?', [(968, 'Vous avez un stylo ?')], ''),
     ('sofia', 'Vous voulez vraiment ma signature ici?', 'You really want my signature here?', [(959, 'Moi ? Signer ton plâtre ?')], ''),
-    ('lea', "C'est super, merci beaucoup et bravo!", 'It is great, thank you very much and congratulations!', [(972, "C'est super. Merci beaucoup")], ''),
+    ('charlotte', "C'est super, merci beaucoup et bravo!", 'It is great, thank you very much and congratulations!', [(972, "C'est super. Merci beaucoup")], ''),
     ('gabriel', "Tu vois, le public t'admire déjà.", 'You see, the public already admires you.', [(951, 'Les gens veulent te voir')], ''),
 ]
 WALK = [

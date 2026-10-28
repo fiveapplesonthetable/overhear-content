@@ -4,18 +4,17 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 15
 SCENE = 20
-TITLE = "Ожидание Макса  (Waiting for Max)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Ожидание Макса  (Waiting for Max)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "senya": "angelina", "ilya": "anja"}
-LABELS = {"senya": "Сеня", "ilya": "Илья"}
+LABELS = {'ilya': 'Илья', 'senya': 'Сеня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.15'
 SOURCE_FILE = 'sources/kukhnya/s01/e15.ru.dual.srt'
 INTRO = 'Back at the restaurant, the staff is waiting to see if Max will finally return to work after everything that happened. They discuss his possible arrival. Let us listen to their conversation in Russian first.'
 OPENER = 'Now let us examine the conversation line by line.'
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Back at the restaurant, the staff is waiting to see if Max will finally return to work after everything that happened. They discuss his possible arrival. Next time you watch the episode, listen for the Russian expressions for 'too' and 'to worry' — you will catch every word right away. See you next time!"
-CLOSING = ("senya", "Пока!")
+CLOSING = ('senya', 'Пока!')
 STORY = [
     ('ilya', 'Тебя это тоже волнует?', 'Does this worry you too?', [(372, 'Тебя это тоже воспринимает?')], ''),
     ('senya', 'Что именно?', 'What exactly?', [], ''),

@@ -10,32 +10,32 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Желаем заказать пиццу. | We would like to order a pizza. | #77 00:04:55: Желаем заказать пиццу | verbatim |
-| 2 | Саша | Ты же меня знаешь. | You know me better than that. | #78 00:04:58: ты же меня знаешь | verbatim |
-| 3 | Нагиев | Что мне предложение сделал. | That he proposed to me. | #80 00:05:02: что мне предложение сделал | verbatim |
-| 4 | Аня | Что тебе мама звонила? | Did your mom call you? | #81 00:05:05: что тебе мама звонила | verbatim |
-| 5 | Саша | Но я не думала. | Only I did not think. | #82 00:05:08: но я не думала | verbatim |
-| 6 | Нагиев | Что ты отреагируешь им вот так. | That you would react to it like this. | #83 00:05:11: что ты отреагируешь им вот так | verbatim |
-| 7 | Аня | Я тебе реально говорю, он сам себя избил. | I am telling you the truth, he beat himself up. | #84 00:05:12: Я тебе реально говорю, он сам себя избил | verbatim |
-| 8 | Саша | Короче. Подожди. | Anyway. Wait a second. | #85 00:05:14: Короче. Подожди | verbatim |
-| 9 | Нагиев | А то что? | Or else what? | #86 00:05:16: А то что | verbatim |
-| 10 | Аня | Знаете, высшее преимущество войны не напасть на врага. | You know, the supreme art of war is not to attack the enemy. | #90 00:05:40: Знаете, высшее преимущество войны не напасть на врага | verbatim |
-| 11 | Саша | А разрушить его планы. | It is to destroy his plans. | #91 00:05:46: а разрушить его планы | verbatim |
-| 12 | Нагиев | Ну да. | Well, yes. | #93 00:05:52: Ну да | verbatim |
-| 13 | Аня | Вот, мне кажется, я не случайно ее нашел. | It feels like I did not find this book by accident. | #94 00:05:56: Вот, мне кажется, я не случайно ее нашел | verbatim |
+| 1 | Макс | Желаем заказать пиццу. | We would like to order a pizza. | #77: Желаем заказать пиццу | verbatim |
+| 2 | Саша | Ты же меня знаешь. | You know me better than that. | #78: ты же меня знаешь | verbatim |
+| 3 | Нагиев | Что мне предложение сделал. | That he proposed to me. | #80: что мне предложение сделал | verbatim |
+| 4 | Макс | Что тебе мама звонила? | Did your mom call you? | #81: что тебе мама звонила | verbatim |
+| 5 | Саша | Но я не думала. | Only I did not think. | #82: но я не думала | verbatim |
+| 6 | Нагиев | Что ты отреагируешь им вот так. | That you would react to it like this. | #83: что ты отреагируешь им вот так | verbatim |
+| 7 | Макс | Я тебе реально говорю, он сам себя избил. | I am telling you the truth, he beat himself up. | #84: Я тебе реально говорю, он сам себя избил | verbatim |
+| 8 | Саша | Короче. Подожди. | Anyway. Wait a second. | #85: Короче. Подожди | verbatim |
+| 9 | Нагиев | А то что? | Or else what? | #86: А то что | verbatim |
+| 10 | Макс | Знаете, высшее преимущество войны не напасть на врага. | You know, the supreme art of war is not to attack the enemy. | #90: Знаете, высшее преимущество войны не напасть на врага | verbatim |
+| 11 | Саша | А разрушить его планы. | It is to destroy his plans. | #91: а разрушить его планы | verbatim |
+| 12 | Нагиев | Ну да. | Well, yes. | #93: Ну да | verbatim |
+| 13 | Макс | Вот, мне кажется, я не случайно ее нашел. | It feels like I did not find this book by accident. | #94: Вот, мне кажется, я не случайно ее нашел | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We would like to order a pizza.' Max anchors the line on 'to wish', while 'pizza' completes the thought. Sasha answers right away.
-- 'You know me better than that.' The grammar packs 'you' and 'know' into a tight, idiomatic kitchen exchange.
-- 'That he proposed to me.' Dmitry brings out the contrast between 'what' and 'for me' in a few short words.
-- 'Did your mom call you?' Max brings out the contrast between 'what' and 'you' in a few short words. Sasha answers right away.
-- 'Only I did not think.' The meaning hinges on 'but' working together with 'to think' in spoken Russian.
-- 'That you would react to it like this.' Here the Russian phrasing highlights 'what' before landing on 'like this'.
-- 'I am telling you the truth, he beat himself up.' Here the Russian phrasing highlights 'I' before landing on 'to beat up'. Sasha answers right away.
-- 'Anyway. Wait a second.' Notice how Russian expresses 'in short' and 'wait' with crisp inflection rather than helper words.
-- 'Or else what?' Dmitry anchors the line on 'and', while 'what' completes the thought.
-- 'You know, the supreme art of war is not to attack the enemy.' The negative particle sits right before the verb meaning 'know' to negate the statement. Sasha answers right away.
-- 'It is to destroy his plans.' Here the Russian phrasing highlights 'and' before landing on 'plans'.
-- 'Well, yes.' The grammar packs 'come on' and 'yes' into a tight, idiomatic kitchen exchange.
-- 'It feels like I did not find this book by accident.' Max anchors the line on 'there you go', while 'found' completes the thought.
+- 'We would like to order a pizza.' Max tells Nagiyev that they would like to order a pizza without dressing it up.
+- 'You know me better than that.' Over the room and the point, Sasha answers Max without a second thought. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'That he proposed to me.' Between the room and the point, Nagiyev gives Max a quick, grounded response.
+- 'Did your mom call you?' By asking whether Nagiyev's call Nagiyev, Max presses Nagiyev for a straight answer. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Only I did not think.' Because only she did not think, Sasha treats the matter as settled.
+- 'That you would react to it like this.' Explaining that that Max would react to it like this lays the cards on the table for Max.
+- 'I am telling you the truth, he beat himself up.' Because he is telling Nagiyev the truth he beat himself up, Max treats the matter as settled. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Anyway. Wait a second.' Telling Max to wait a second is how Sasha lays out the situation for Max.
+- 'Or else what?' With the conversation and plan hanging in the air, Nagiyev puts Max on the spot.
+- 'You know, the supreme art of war is not to attack the enemy.' Max explains that the supreme art of war is not to attack the enemy, keeping his voice calm and direct.
+- 'It is to destroy his plans.' Realizing that it is to destroy his plans changes how Sasha handles the situation.
+- 'Well, yes.' Over the shift and the restaurant, Nagiyev answers Max without a second thought.
+- 'It feels like I did not find this book by accident.' Even though it feels like he did not find this book by accident, Max keeps a steady face in front of Nagiyev.

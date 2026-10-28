@@ -7,8 +7,7 @@ SCENE = 12
 TITLE = "L'entretien d'Eugénie  (Eugenie's Interview)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'noemie': 'emilie', 'gabriel': 'theo', 'hicham': 'marcel'}
-LABELS = {'noemie': 'Noémie', 'gabriel': 'Gabriel', 'hicham': 'Hicham'}
+LABELS = {'eugenie': 'Eugénie', 'gabriel': 'Gabriel', 'noemie': 'Noémie'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e04.fr.dual.srt'
 INTRO = "In the hallway at ASK, Gabriel welcomes job applicant Eugenie while Noémie watches closely. Noémie reveals the mischievous advice she gave the candidate to disrupt her chances. Let's listen to the scene in French first."
@@ -18,7 +17,7 @@ OUTRO = 'Noémie pulls off a hilarious office prank by convincing applicant Euge
 CLOSING = ('noemie', 'Bonne soirée!')
 STORY = [
     ('gabriel', "Par ici, mademoiselle, s'il vous plaît.", 'This way, miss, please.', [(341, "Par ici, s'il vous plaît.")], ''),
-    ('hicham', 'Merci beaucoup. Bonjour.', 'Thank you very much. Hello.', [(343, 'Bonjour.')], ''),
+    ('eugenie', 'Merci beaucoup. Bonjour.', 'Thank you very much. Hello.', [(343, 'Bonjour.')], ''),
     ('gabriel', "Qu'est-ce que vous lui avez dit, Noémie?", 'What did you say to her, Noémie?', [(342, "Qu'est-ce que vous avez dit ?")], ''),
     ('noemie', 'Je lui ai donné un petit conseil pour réussir.', 'I gave her a little tip to succeed.', [(344, 'Je lui ai dit')], ''),
     ('gabriel', 'Quel genre de conseil?', 'What kind of tip?', [(342, "Qu'est-ce que vous avez dit ?")], ''),
@@ -29,9 +28,9 @@ STORY = [
     ('gabriel', 'Et pourquoi parler très fort?', 'And why speak very loudly?', [(347, 'parler très fort')], ''),
     ('noemie', "Parce qu'elle est sourde.", 'Because she is deaf.', [(348, "parce qu'elle est sourde.")], ''),
     ('gabriel', "Mais Arlette n'est pas sourde du tout!", 'But Arlette is not deaf at all!', [(348, 'elle est sourde.')], ''),
-    ('hicham', 'Bonjour, madame!', 'Hello, ma', [(349, 'Bonjour, madame !')], ''),
-    ('hicham', 'Tellement heureuse de vous rencontrer!', 'So happy to meet you!', [(350, 'Tellement heureuse de vous rencontrer !')], ''),
-    ('hicham', 'Travailler à vos côtés est un rêve pour tout jeune agent!', 'Working alongside you is a dream for any young agent!', [(351, 'Travailler à vos côtés'), (352, 'est un rêve pour tout jeune agent !')], ''),
+    ('eugenie', 'Bonjour, madame!', 'Hello, ma', [(349, 'Bonjour, madame !')], ''),
+    ('eugenie', 'Tellement heureuse de vous rencontrer!', 'So happy to meet you!', [(350, 'Tellement heureuse de vous rencontrer !')], ''),
+    ('eugenie', 'Travailler à vos côtés est un rêve pour tout jeune agent!', 'Working alongside you is a dream for any young agent!', [(351, 'Travailler à vos côtés'), (352, 'est un rêve pour tout jeune agent !')], ''),
     ('noemie', 'Voilà, sa carrière chez ASK commence très bien.', 'There, her career at ASK is off to a great start.', [(344, 'ici')], ''),
 ]
 WALK = [

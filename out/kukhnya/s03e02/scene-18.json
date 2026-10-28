@@ -8,14 +8,10 @@
  "scene": 18,
  "title": "Чужой столик  (Someone Else's Table)",
  "level": "A1 — Duolingo Section 2",
- "voices": {
-  "narrator": "sky",
-  "anya": "alisa",
-  "ilya": "anja"
- },
  "labels": {
-  "anya": "Макс",
-  "ilya": "Илья"
+  "ilya": "Илья",
+  "max": "Макс",
+  "sasha": "Саша"
  },
  "segments": [
   {
@@ -24,22 +20,22 @@
    "gap": 0.8
   },
   {
-   "v": "ilya",
+   "v": "sasha",
    "t": "Макс, позови Илью, к нему постоянный гость пришёл.",
    "gap": 0.55
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Да, конечно.",
    "gap": 0.55
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Добрый день. Знаете, Ильи сегодня нет.",
    "gap": 0.55
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Могу я чем-то помочь?",
    "gap": 0.55
   },
@@ -54,12 +50,12 @@
    "gap": 0.55
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Приятного аппетита.",
    "gap": 0.55
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Чего стоишь?",
    "gap": 0.55
   },
@@ -74,12 +70,12 @@
    "gap": 0.55
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Это столик Ильи. Передай ему заказ.",
    "gap": 0.55
   },
   {
-   "v": "ilya",
+   "v": "sasha",
    "t": "Да я вынесла заказ, принесла счёт, он просто торопился.",
    "gap": 0.9
   },
@@ -89,43 +85,43 @@
    "gap": 0.4
   },
   {
-   "v": "ilya",
+   "v": "sasha",
    "t": "Макс, позови Илью, к нему постоянный гость пришёл.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Max, call Ilya, a regular guest of his has arrived.' The '-l' ending on the verb meaning 'arrived' places the action in the masculine past tense. Max answers right away.",
+   "t": "'Max, call Ilya, a regular guest of his has arrived.' Once Ilya should call Ilya a regular guest of his has arrived, Sasha can finally tell Ilya what she means.",
    "gap": 0.4
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Да, конечно.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Yes, of course.' Here the Russian phrasing highlights 'yes' before landing on 'of course'.",
+   "t": "'Yes, of course.' Around the table and guest, Max sets a calm, everyday tone with Ilya.",
    "gap": 0.4
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Добрый день. Знаете, Ильи сегодня нет.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Good afternoon. You know, Ilya is not here today.' Max brings out the contrast between 'good' and 'day' in a few short words.",
+   "t": "'Good afternoon. You know, Ilya is not here today.' Even though Ilya is not here today, Max keeps a steady face in front of Ilya.",
    "gap": 0.4
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Могу я чем-то помочь?",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Can I help you with something?' Spoken Russian keeps this brisk, leaning on 'can' and finishing on 'to help'. Ilya answers right away.",
+   "t": "'Can I help you with something?' Checking whether he helps Ilya with something cuts straight through the tension between Max and Ilya. In Russian, he does not need helper words like \"do\" or \"did\"—rising pitch alone turns it into a question.",
    "gap": 0.4
   },
   {
@@ -135,7 +131,7 @@
   },
   {
    "v": "narrator",
-   "t": "'Yes, I am in a big hurry.' Ilya anchors the line on 'yes', while 'am in a hurry' completes the thought.",
+   "t": "'Yes, I am in a big hurry.' Ilya explains that he is in a big hurry, keeping his voice calm and direct.",
    "gap": 0.4
   },
   {
@@ -145,27 +141,27 @@
   },
   {
    "v": "narrator",
-   "t": "'Please bring me tartare and coffee.' The meaning hinges on 'be' working together with 'coffee' in spoken Russian.",
+   "t": "'Please bring me tartare and coffee.' Bringing him tartare and coffee is how Ilya lays out the situation for Max.",
    "gap": 0.4
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Приятного аппетита.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Bon appetit.' In Russian, the idea of 'pleasant' flows naturally into 'appetite' without extra filler words.",
+   "t": "'Bon appetit.' Around the table and truth, Max sets a calm, everyday tone with Ilya.",
    "gap": 0.4
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Чего стоишь?",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Why are you standing here?' Here the Russian phrasing highlights 'what' before landing on 'to stand'.",
+   "t": "'Why are you standing here?' Asking why Ilya standing here is cuts straight through the tension between Max and Ilya.",
    "gap": 0.4
   },
   {
@@ -175,7 +171,7 @@
   },
   {
    "v": "narrator",
-   "t": "'Oh nothing, I stepped out to get some air.' The meaning hinges on 'yes' working together with 'to get some air' in spoken Russian.",
+   "t": "'Oh nothing, I stepped out to get some air.' Over the order and the kitchen, Ilya answers Max without a second thought.",
    "gap": 0.4
   },
   {
@@ -185,46 +181,46 @@
   },
   {
    "v": "narrator",
-   "t": "'Max, why didn't you take your table?' Ilya raises the pitch on 'took' to turn the phrase into a direct spoken question. Max answers right away.",
+   "t": "'Max, why didn't you take your table?' Here wondering why not Max takes Max's table shows Ilya looking for the real truth. Speaking with the close, informal \"you\" strips away any polite distance between them.",
    "gap": 0.4
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Это столик Ильи. Передай ему заказ.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'That is Ilya's table. Pass the order to him.' Max brings out the contrast between 'this' and 'table' in a few short words.",
+   "t": "'That is Ilya's table. Pass the order to him.' Saying that that is Ilya table is how Max sets the tone with Ilya.",
    "gap": 0.4
   },
   {
-   "v": "ilya",
+   "v": "sasha",
    "t": "Да я вынесла заказ, принесла счёт, он просто торопился.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'I brought out the order and brought the bill, he was just in a hurry.' The '-a' ending on the past-tense verb for 'brought' marks a female speaker or subject. Alright, let's hear the entire conversation one more time from start to finish.",
+   "t": "'I brought out the order and brought the bill, he was just in a hurry.' Because she brought out the order and brought the bill he was just in a hurry, Sasha treats the matter as settled. Alright, let's hear the entire conversation one more time from start to finish.",
    "gap": 0.9
   },
   {
-   "v": "ilya",
+   "v": "sasha",
    "t": "Макс, позови Илью, к нему постоянный гость пришёл.",
    "gap": 0.5
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Да, конечно.",
    "gap": 0.5
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Добрый день. Знаете, Ильи сегодня нет.",
    "gap": 0.5
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Могу я чем-то помочь?",
    "gap": 0.5
   },
@@ -239,12 +235,12 @@
    "gap": 0.5
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Приятного аппетита.",
    "gap": 0.5
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Чего стоишь?",
    "gap": 0.5
   },
@@ -259,12 +255,12 @@
    "gap": 0.5
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Это столик Ильи. Передай ему заказ.",
    "gap": 0.5
   },
   {
-   "v": "ilya",
+   "v": "sasha",
    "t": "Да я вынесла заказ, принесла счёт, он просто торопился.",
    "gap": 0.9
   },
@@ -274,7 +270,7 @@
    "gap": 0.5
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Всего хорошего!",
    "gap": 0.3
   }

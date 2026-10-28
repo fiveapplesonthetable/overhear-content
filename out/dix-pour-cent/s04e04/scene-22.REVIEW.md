@@ -1,29 +1,39 @@
-# Review: `dix-pour-cent-s04e04-scene-22` — Camille Valentini, je suis absente  (Camille Valentini, I am absent)
+# dix-pour-cent-s04e04-scene-22: review sheet
 
-- **Source**: `sources/dix-pour-cent/s04/e04.fr.dual.srt`
-- **Level**: A1 — débutant
-- **Voices**: `{"narrator": "sky", "mathias": "marcel", "camille": "emilie"}`
-- **Labels**: `{"mathias": "Mathias", "camille": "Camille"}`
+Title: Camille Valentini, je suis absente  (Camille Valentini, I am absent)
+Level: A1 — débutant
+Pair: fr-en
+Source: Dix pour cent (Call My Agent!) S04E04
 
-## Part 1 — Intro
-> Mathias realises his mistake. He wants to apologise to his daughter. He takes his phone and calls Camille. But she doesn't answer. We'll hear it in French first, don't worry about catching every word.
 
-## Part 2 — Story Lines
-| # | Role | French | English | Source Cues |
-|---|------|--------|---------|-------------|
-| 0 | `mathias` (Mathias) | Camille, réponds-moi. | Camille, answer me. | adapted |
-| 1 | `mathias` (Mathias) | S'il te plaît, ma chérie. | Please, my darling. | adapted |
-| 2 | `camille` (Camille) | Camille Valentini, je suis absente, | Camille Valentini, I | 1206:Camille Valentini, je suis absente, |
-| 3 | `camille` (Camille) | mais laissez-moi un message. | but please leave a message. | 1206:mais laissez-moi un message. |
-| 4 | `mathias` (Mathias) | C'est moi, Mathias. | It | adapted |
-| 5 | `mathias` (Mathias) | Je suis désolé. | I am sorry. | adapted |
-| 6 | `mathias` (Mathias) | Je regrette tout. | I regret everything. | adapted |
-| 7 | `mathias` (Mathias) | Pardonne-moi, s'il te plaît. | Forgive me, please. | adapted |
-| 8 | `mathias` (Mathias) | Je t'en prie. | I beg you. | adapted |
-| 9 | `mathias` (Mathias) | Rappelle-moi. | Call me back. | adapted |
-| 10 | `mathias` (Mathias) | Je t'aime, ma fille. | I love you, my daughter. | adapted |
-| 11 | `mathias` (Mathias) | Au revoir, Camille. | Goodbye, Camille. | adapted |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 5 — Outro & Closing
-> And that's it for this scene. When you watch the episode, listen out for the exchange around camille valentini, i am absent, and for the words meaning 'to answer' and 'to please'. You'll catch them now. See you next time!
-- **Closing**: `mathias`: *À bientôt.*
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+|---|---|---|---|---|---|
+| 1 | Mathias | Camille, réponds-moi. | Camille, answer me. | new | new |
+| 2 | Mathias | S'il te plaît, ma chérie. | Please, my darling. | new | new |
+| 3 | Camille | Camille Valentini, je suis absente, | Camille Valentini, I | #1206: Camille Valentini, je suis absente, | verbatim |
+| 4 | Camille | mais laissez-moi un message. | but please leave a message. | #1206: mais laissez-moi un message. | verbatim |
+| 5 | Mathias | C'est moi, Mathias. | It | new | new |
+| 6 | Mathias | Je suis désolé. | I am sorry. | new | new |
+| 7 | Mathias | Je regrette tout. | I regret everything. | new | new |
+| 8 | Mathias | Pardonne-moi, s'il te plaît. | Forgive me, please. | new | new |
+| 9 | Mathias | Je t'en prie. | I beg you. | new | new |
+| 10 | Mathias | Rappelle-moi. | Call me back. | new | new |
+| 11 | Mathias | Je t'aime, ma fille. | I love you, my daughter. | new | new |
+| 12 | Mathias | Au revoir, Camille. | Goodbye, Camille. | new | new |
+
+## Walk-through narration (English only, no target-language words quoted)
+
+- 'Camille, answer me.' Mathias begs her to pick up the phone. The clause hinges on the everyday verb meaning 'to answer'.
+- 'Please, my darling.' He uses an affectionate term for his daughter. Notice how 'to please' leads directly into the noun meaning 'darling'.
+- 'Camille Valentini, I'm not available,' It goes straight to her voicemail. The adjective meaning 'absent' takes its feminine form here to match the noun it describes.
+- 'but please leave a message.' She asks the caller to speak after the beep. Notice how 'to leave' leads directly into the noun meaning 'message'.
+- 'It's me, Mathias.' He starts his message hesitantly. The clause hinges on the everyday verb meaning 'to be'.
+- 'I am sorry.' He apologises directly to her. The clause hinges on the everyday verb meaning 'to be'.
+- 'I regret everything.' He wishes he had acted differently with her. The clause hinges on the everyday verb meaning 'to regret'.
+- 'Forgive me, please.' He asks for her forgiveness. The clause hinges on the everyday verb meaning 'forgive me'.
+- 'I beg you.' This is a strong expression of pleading. The clause hinges on the everyday verb meaning 'to pray'.
+- 'Call me back.' He gives an instruction using an command verb. The clause hinges on the everyday verb meaning 'call me back'.
+- 'I love you, my daughter.' He finally admits his true feelings. Notice how 'to like' leads directly into the noun meaning 'daughter'.
+- 'Goodbye, Camille.' He ends the emotional message and hangs up. The clause hinges on the everyday verb meaning 'to see again'. Let's listen to the whole scene again.

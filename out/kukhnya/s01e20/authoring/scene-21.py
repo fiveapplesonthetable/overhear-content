@@ -4,31 +4,30 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 20
 SCENE = 21
-TITLE = "Мы  (We)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Мы  (We)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "anya": "alisa"}
-LABELS = {"anya": "Макс"}
+LABELS = {'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.20'
 SOURCE_FILE = 'sources/kukhnya/s01/e20.ru.dual.srt'
 INTRO = "The season approaches its emotional end with a deep philosophical reflection. Max thinks about how people behave in life, ignoring the obvious. Let's listen closely to the conversation in Russian first, and then walk through each line together."
 OPENER = "Now let's go back through the exchange around We line by line and unpack how the Russian works."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Max thinks about how people behave in life. Next time you watch the episode, listen for the Russian expressions for 'person' and 'often' — you will catch every word right away. See you next time!"
-CLOSING = ("anya", "До свидания!")
+CLOSING = ('max', 'До свидания!')
 STORY = [
-    ('anya', 'Люди часто спят.', 'People often sleep.', [], ''),
-    ('anya', 'Они не хотят думать.', 'They do not want to think.', [], ''),
-    ('anya', 'Все любят мечтать.', 'Everyone loves to dream.', [], ''),
-    ('anya', 'Мы видим сны.', 'We see dreams.', [], ''),
-    ('anya', 'Такая у нас жизнь.', 'Such is our life.', [], ''),
-    ('anya', 'Никто не видит правду.', 'Nobody sees the truth.', [], ''),
-    ('anya', 'Мы сами не видим.', 'We don', [(334, 'Мы')], ''),
-    ('anya', 'Многие закрывают глаза.', 'Many close their eyes.', [], ''),
-    ('anya', 'Они боятся.', 'They are afraid.', [], ''),
-    ('anya', 'Просто ждут чудо.', 'Just wait for a miracle.', [], ''),
-    ('anya', 'Никто ничего не знает.', 'Nobody knows anything.', [], ''),
-    ('anya', 'И все молчат.', 'And everyone is silent.', [], ''),
+    ('max', 'Люди часто спят.', 'People often sleep.', [], ''),
+    ('max', 'Они не хотят думать.', 'They do not want to think.', [], ''),
+    ('max', 'Все любят мечтать.', 'Everyone loves to dream.', [], ''),
+    ('max', 'Мы видим сны.', 'We see dreams.', [], ''),
+    ('max', 'Такая у нас жизнь.', 'Such is our life.', [], ''),
+    ('max', 'Никто не видит правду.', 'Nobody sees the truth.', [], ''),
+    ('max', 'Мы сами не видим.', 'We don', [(334, 'Мы')], ''),
+    ('max', 'Многие закрывают глаза.', 'Many close their eyes.', [], ''),
+    ('max', 'Они боятся.', 'They are afraid.', [], ''),
+    ('max', 'Просто ждут чудо.', 'Just wait for a miracle.', [], ''),
+    ('max', 'Никто ничего не знает.', 'Nobody knows anything.', [], ''),
+    ('max', 'И все молчат.', 'And everyone is silent.', [], ''),
 ]
 WALK = [
     (0, None, "'People often sleep.' Max puts the word for 'people' together with 'often' and 'have been sleeping' in a crisp, natural spoken turn of phrase."),

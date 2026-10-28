@@ -7,8 +7,7 @@ SCENE = 8
 TITLE = "Un deuil à l'agence  (A Mourning at the Agency)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'mathias': 'marcel', 'lea': 'lucie'}
-LABELS = {'mathias': 'Mathias', 'lea': 'Andréa'}
+LABELS = {'andrea': 'Andréa', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e06.fr.dual.srt'
 INTRO = "At the ASK offices, tensions explode between Andrea and Mathias over lost film projects and departing clients. But their bitter quarrel comes to a sudden halt when Arlette rushes in with devastating news. Let's listen to their conversation in French first."
@@ -17,17 +16,17 @@ TRANSITION = "Now let's listen to the entire dialogue once more."
 OUTRO = "An angry confrontation between Andrea and Mathias over ASK's downfall is silenced by tragedy when Arlette arrives with her beloved dog Jean, who has passed away. When you watch the episode, listen out for the expressions meaning 'left' and 'fine'. You'll catch them now. See you next time!"
 CLOSING = ('mathias', 'Bonne soirée!')
 STORY = [
-    ('lea', 'François Ozon est parti chez StarMédia.', 'Francois Ozon left for StarMedia.', [(358, 'Ozon')], ''),
+    ('andrea', 'François Ozon est parti chez StarMédia.', 'Francois Ozon left for StarMedia.', [(358, 'Ozon')], ''),
     ('mathias', "Ce beau projet peut sauver l'agence.", 'This fine project can save the agency.', [(372, 'sauver ASK')], ''),
-    ('lea', 'Tu as tout démoli ici avant.', 'You demolished everything here before.', [(373, 'démolir')], ''),
+    ('andrea', 'Tu as tout démoli ici avant.', 'You demolished everything here before.', [(373, 'démolir')], ''),
     ('mathias', "C'est vous qui m'avez viré!", 'You are the ones who fired me!', [(374, "m'avez viré")], ''),
-    ('lea', "Le départ des talents, c'est toi.", 'The departure of talent is on you.', [(376, 'responsabilité')], ''),
+    ('andrea', "Le départ des talents, c'est toi.", 'The departure of talent is on you.', [(376, 'responsabilité')], ''),
     ('mathias', 'Je voulais devenir un producteur indépendant.', 'I wanted to become an independent producer.', [(377, 'producteur')], ''),
-    ('lea', "Mais tu n'es plus producteur aujourd'hui!", 'But you are no longer a producer today!', [(378, "Tu n'es plus producteur")], ''),
-    ('lea', 'Tu es devenu un simple manipulateur.', 'You have become a mere manipulator.', [(380, 'manipulateur')], ''),
+    ('andrea', "Mais tu n'es plus producteur aujourd'hui!", 'But you are no longer a producer today!', [(378, "Tu n'es plus producteur")], ''),
+    ('andrea', 'Tu es devenu un simple manipulateur.', 'You have become a mere manipulator.', [(380, 'manipulateur')], ''),
     ('mathias', 'Ça te soulage de crier ainsi?', 'Does it comfort you to shout like this?', [(382, 'soulage')], ''),
     ('mathias', 'Tu as laissé entrer Élise Formain.', 'You let Elise Formain enter.', [(383, 'Élise entrer')], ''),
-    ('lea', 'Regarde, voilà Arlette qui arrive affolée.', 'Look, here comes Arlette in a panic.', [(385, 'Arlette')], ''),
+    ('andrea', 'Regarde, voilà Arlette qui arrive affolée.', 'Look, here comes Arlette in a panic.', [(385, 'Arlette')], ''),
     ('mathias', "Qu'est-ce qui se passe avec Jean?", 'What is going on with Jean?', [(388, 'se passe')], ''),
     ('mathias', 'Le pauvre petit chien est glacé.', 'The poor little dog is ice cold.', [(389, 'glacé')], ''),
     ('mathias', 'Je suis désolé, il est parti.', 'I am sorry, he has passed away.', [(390, 'Il est parti')], ''),

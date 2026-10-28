@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Шеф | Ну что, Виктор, сдаёшься? | Well then, Victor, do you surrender? | #1 00:00:27: Ну что, Витя, Виктор<br>#2 00:00:31: Сдаешься | adapted: adapted |
-| 2 | Шеф | Русские не сдаются, особенно когда играют против олигархов. | Russians do not surrender, especially when playing against oligarchs. | #3 00:00:33: Русские не сдаются<br>#5 00:00:40: когда играют против олигархов | adapted: adapted |
-| 3 | Шеф | Не называй меня олигархом. | Do not call me an oligarch. | #7 00:00:46: Не называй меня олигархом | adapted: adapted |
-| 4 | Шеф | А как же мне тебя называть? | Then what should I call you? | #8 00:00:49: А как же мне тебя называть | adapted: adapted |
-| 5 | Шеф | Мясной король России? | The meat king of Russia? | #9 00:00:51: России | adapted: adapted |
-| 6 | Шеф | Ну ладно, вскрываемся. | Alright then, let us show our cards. | #10 00:00:53: Ну ладно<br>#11 00:00:56: Вскрываемся | adapted: adapted |
-| 7 | Шеф | У меня флеш. | I have a flush. | #12 00:00:58: У меня флеш | adapted: adapted |
-| 8 | Шеф | Мы с тобой давно не виделись. | You and I have not seen each other in a long time. | #13 00:01:03: мы с тобой не виделись | adapted: adapted |
-| 9 | Шеф | А ты так и не научился играть в покер. | And you still have not learned to play poker. | #14 00:01:07: а ты так и не научился играть в покер | adapted: adapted |
-| 10 | Шеф | У меня каре. | I have four of a kind. | #15 00:01:11: Каре, каре | adapted: adapted |
-| 11 | Шеф | Сколько тебе надо будет мяса продать, чтобы рассчитаться? | How much meat will you have to sell to settle up with me? | #16 00:01:13: сколько тебе надо будет<br>#16 00:01:13: продать, чтобы со мной рассчитаться | adapted: adapted |
-| 12 | Шеф | Целые фуры мяса! | Whole truckloads of meat! | #17 00:01:20: Фуры, фуры | adapted: adapted |
+| 1 | Гость | Ну что, Виктор, сдаёшься? | Well then, Victor, do you surrender? | #1: Ну что, Витя, Виктор<br>#2: Сдаешься | adapted: adapted |
+| 2 | Шеф | Русские не сдаются, особенно когда играют против олигархов. | Russians do not surrender, especially when playing against oligarchs. | #3: Русские не сдаются<br>#5: когда играют против олигархов | adapted: adapted |
+| 3 | Гость | Не называй меня олигархом. | Do not call me an oligarch. | #7: Не называй меня олигархом | adapted: adapted |
+| 4 | Шеф | А как же мне тебя называть? | Then what should I call you? | #8: А как же мне тебя называть | adapted: adapted |
+| 5 | Шеф | Мясной король России? | The meat king of Russia? | #9: России | adapted: adapted |
+| 6 | Гость | Ну ладно, вскрываемся. | Alright then, let us show our cards. | #10: Ну ладно<br>#11: Вскрываемся | adapted: adapted |
+| 7 | Гость | У меня флеш. | I have a flush. | #12: У меня флеш | adapted: adapted |
+| 8 | Шеф | Мы с тобой давно не виделись. | You and I have not seen each other in a long time. | #13: мы с тобой не виделись | adapted: adapted |
+| 9 | Шеф | А ты так и не научился играть в покер. | And you still have not learned to play poker. | #14: а ты так и не научился играть в покер | adapted: adapted |
+| 10 | Шеф | У меня каре. | I have four of a kind. | #15: Каре, каре | adapted: adapted |
+| 11 | Шеф | Сколько тебе надо будет мяса продать, чтобы рассчитаться? | How much meat will you have to sell to settle up with me? | #16: сколько тебе надо будет<br>#16: продать, чтобы со мной рассчитаться | adapted: adapted |
+| 12 | Шеф | Целые фуры мяса! | Whole truckloads of meat! | #17: Фуры, фуры | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well then, Victor, do you surrender?' Spoken Russian keeps this brisk, leaning on 'come on' and finishing on 'give up'.
-- 'Russians do not surrender, especially when playing against oligarchs.' In Russian, the idea of 'Russian' flows naturally into 'oligarchs' without extra filler words.
-- 'Do not call me an oligarch.' The negative particle sits right before the verb meaning 'to call' to negate the statement. Chef Barinov answers right away.
-- 'Then what should I call you?' In Russian, the idea of 'and' flows naturally into 'to call' without extra filler words.
-- 'The meat king of Russia?' In Russian, the idea of 'meat' flows naturally into 'of Russia' without extra filler words.
-- 'Alright then, let us show our cards.' Spoken Russian keeps this brisk, leaning on 'come on' and finishing on 'show our cards'.
-- 'I have a flush.' the guest anchors the line on 'at', while 'flush' completes the thought.
-- 'You and I have not seen each other in a long time.' In Russian, the idea of 'we' flows naturally into 'have seen each other' without extra filler words.
-- 'And you still have not learned to play poker.' Spoken Russian keeps this brisk, leaning on 'and' and finishing on 'poker'.
-- 'I have four of a kind.' Here the Russian phrasing highlights 'at' before landing on 'four of a kind'.
-- 'How much meat will you have to sell to settle up with me?' Chef Barinov addresses the listener with the informal singular 'you' alongside 'to settle up'.
-- 'Whole truckloads of meat!' In Russian, the idea of 'whole' flows naturally into 'meat' without extra filler words.
+- 'Well then, Victor, do you surrender?' Asking whether Barinov surrender is how the guest puts Barinov on the spot.
+- 'Russians do not surrender, especially when playing against oligarchs.' Since Russians do not surrender especially when playing against oligarchs, Barinov does not waste words on excuses.
+- 'Do not call me an oligarch.' Mentioning that do not call him an oligarch moves the talk in a new direction.
+- 'Then what should I call you?' Asking what he calls the guest should cuts straight through the tension between Barinov and the guest.
+- 'The meat king of Russia?' Over the work and the meat, Barinov presses the guest for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Alright then, let us show our cards.' Explaining that Alright then let them show their cards lays the cards on the table for Barinov.
+- 'I have a flush.' Having a flush is how the guest lays out the situation for Barinov.
+- 'You and I have not seen each other in a long time.' Claiming that the guest and he has not seen each other in a long time sounds confident, even if the guest has doubts. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'And you still have not learned to play poker.' Pointing out that the guest still have not learned to play poker gives the guest a sobering reality check. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'I have four of a kind.' Realizing that he has four of a kind changes how Barinov handles the situation.
+- 'How much meat will you have to sell to settle up with me?' Asking whether how much meat will the guest has to sell to settle up with him puts the guest right on the defensive. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
+- 'Whole truckloads of meat!' Over the truth and the meat, Barinov lets his real feelings show. Russian puts the key word right up front so his emotion lands on the first beat.

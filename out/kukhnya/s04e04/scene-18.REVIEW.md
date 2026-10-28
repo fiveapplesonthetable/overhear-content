@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Вика | Ты ничего лучше не мог придумать? | Could you not think of anything better than this? | #263 00:21:07: Ты ничего лучше не мог придумать? | verbatim |
-| 2 | Аня | Я думал, это твой хитроумный план. | I thought this was your clever plan. | #264 00:21:09: я думал, это твой хитроумный план. | verbatim |
-| 3 | Вика | Выломай дверь. | Break the door down. | #266 00:21:18: Выломай дверь. | verbatim |
-| 4 | Вика | Я не собираюсь тут оставаться всю ночь. | I am not going to stay in here all night. | #267 00:21:20: Я не собираюсь тут оставаться всю ночь. | verbatim |
-| 5 | Аня | Тебе надо, ты и ломай. | If you need it broken, you break it. | #268 00:21:22: Тебе надо, ты<br>#268 00:21:22: ломай. | verbatim |
-| 6 | Вика | Замечательно. За кого я вышла замуж? | Wonderful. Whom did I marry? | #269 00:21:25: Замечательно. За кого я вышла замуж? | verbatim |
-| 7 | Вика | Даже дверь выломать не может. | He cannot even break down a door. | #270 00:21:28: Даже дверь выломать не может. | verbatim |
-| 8 | Аня | Да всё, успокойся. | Alright, calm down now. | #271 00:21:35: Да все, успокойся. | verbatim |
-| 9 | Аня | Поняла, что меня лучше не злить? | Do you understand now that it is better not to make me angry? | #274 00:21:44: Поняла,<br>#275 00:22:59: что меня лучше не злить? | verbatim |
-| 10 | Вика | Поняла. Теперь буду злить чаще. | I understand. Now I will make you angry more often. | #275 00:22:59: Поняла.<br>#276 00:23:02: Теперь буду злить чаще. | verbatim |
-| 11 | Вика | Дверь обратно вставь. Мужчина ты или нет? | Put the door back in place. Are you a man or not? | #277 00:23:05: Дверь обратно вставь. Мужчина ты или нет? | verbatim |
-| 12 | Герман | Лев Семёнович Соловьёв. | Lev Semyonovich Solovyov. | #286 00:23:58: Лев Семенович Соловьев. | verbatim |
+| 1 | Вика | Ты ничего лучше не мог придумать? | Could you not think of anything better than this? | #263: Ты ничего лучше не мог придумать? | verbatim |
+| 2 | Макс | Я думал, это твой хитроумный план. | I thought this was your clever plan. | #264: я думал, это твой хитроумный план. | verbatim |
+| 3 | Вика | Выломай дверь. | Break the door down. | #266: Выломай дверь. | verbatim |
+| 4 | Вика | Я не собираюсь тут оставаться всю ночь. | I am not going to stay in here all night. | #267: Я не собираюсь тут оставаться всю ночь. | verbatim |
+| 5 | Макс | Тебе надо, ты и ломай. | If you need it broken, you break it. | #268: Тебе надо, ты<br>#268: ломай. | verbatim |
+| 6 | Вика | Замечательно. За кого я вышла замуж? | Wonderful. Whom did I marry? | #269: Замечательно. За кого я вышла замуж? | verbatim |
+| 7 | Вика | Даже дверь выломать не может. | He cannot even break down a door. | #270: Даже дверь выломать не может. | verbatim |
+| 8 | Макс | Да всё, успокойся. | Alright, calm down now. | #271: Да все, успокойся. | verbatim |
+| 9 | Макс | Поняла, что меня лучше не злить? | Do you understand now that it is better not to make me angry? | #274: Поняла,<br>#275: что меня лучше не злить? | verbatim |
+| 10 | Вика | Поняла. Теперь буду злить чаще. | I understand. Now I will make you angry more often. | #275: Поняла.<br>#276: Теперь буду злить чаще. | verbatim |
+| 11 | Вика | Дверь обратно вставь. Мужчина ты или нет? | Put the door back in place. Are you a man or not? | #277: Дверь обратно вставь. Мужчина ты или нет? | verbatim |
+| 12 | Герман | Лев Семёнович Соловьёв. | Lev Semyonovich Solovyov. | #286: Лев Семенович Соловьев. | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Could you not think of anything better than this?' Putting the short word for 'not' right in front of the action word is all Russian needs to make a sentence negative, with no extra helper words like 'do' or 'did'.
-- 'I thought this was your clever plan.' Max addresses the listener with the informal singular pronoun, showing a close or familiar relationship.
-- 'Break the door down.' Vika pairs 'break' with 'door' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
-- 'I am not going to stay in here all night.' Putting the short word for 'not' right in front of the action word is all Russian needs to make a sentence negative, with no extra helper words like 'do' or 'did'.
-- 'If you need it broken, you break it.' Russian expresses feelings and needs by saying 'to me it is needed' or 'to me it seems', putting the person in the 'to me' form.
-- 'Wonderful. Whom did I marry?' In spoken Russian, the words stay in their normal statement order and Vika's rising voice at the end turns the line into a question.
-- 'He cannot even break down a door.' Putting the short word for 'not' right in front of the action word is all Russian needs to make a sentence negative, with no extra helper words like 'do' or 'did'.
-- 'Alright, calm down now.' Spoken Russian keeps this brief and expressive, built right around 'calm down' without extra helper words.
-- 'Do you understand now that it is better not to make me angry?' Max uses the first-person pronoun in the case required by the Russian verb or preposition.
-- 'I understand. Now I will make you angry more often.' In everyday Russian, 'understood' flows straight into 'often' without extra linking words.
-- 'Put the door back in place. Are you a man or not?' In spoken Russian, the words stay in their normal statement order and Vika's rising voice at the end turns the line into a question.
-- 'Lev Semyonovich Solovyov.' Spoken Russian keeps this brief and expressive, built right around 'semyonovich' without extra helper words.
+- 'Could you not think of anything better than this?' By asking whether German not think of anything better than this, Vika presses German for a straight answer. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
+- 'I thought this was your clever plan.' Pointing out that he thought this was German's clever plan gives German a sobering reality check.
+- 'Break the door down.' Since German should break the door down, Vika does not waste words on excuses.
+- 'I am not going to stay in here all night.' Explaining that she is not going to stay in here all night lays the cards on the table for German.
+- 'If you need it broken, you break it.' Noting that if German needs it broken German breaks it keeps Max's side of the story simple and clear.
+- 'Wonderful. Whom did I marry?' Wondering if whom did she marries shows Vika caught off guard. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'He cannot even break down a door.' Admitting that he cannot even break down a door shows Vika being honest for a change.
+- 'Alright, calm down now.' Between the situation and the shift, Max gives German a quick, grounded response.
+- 'Do you understand now that it is better not to make me angry?' By asking whether German understands now that it is better not to make him angry, Max presses German for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'I understand. Now I will make you angry more often.' Adding that now she will make German angry more often fills in the missing piece for German.
+- 'Put the door back in place. Are you a man or not?' Wondering if put the door back in place shows Vika caught off guard.
+- 'Lev Semyonovich Solovyov.' Over the situation and the plan, German answers Max without a second thought.

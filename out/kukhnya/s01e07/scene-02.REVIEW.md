@@ -1,40 +1,41 @@
-# Секретный жилец  (The Secret Resident) — `kukhnya-s01e07-scene-02`
+# kukhnya-s01e07-scene-02: review sheet
 
-**Source:** Кухня (Kukhnya) S1.07 · `sources/kukhnya/s01/e07.ru.dual.srt`  
-**Target level:** A1 — Duolingo Section 2
+Title: Секретный жилец  (The Secret Resident)
+Level: A1 — Duolingo Section 2
+Pair: ru-en
+Source: Кухня (Kukhnya) S1.07
 
-## Cast
 
-| Role | Voice | Label |
-|---|---|---|
-| `narrator` | sky | — |
-| `anya` | alisa | Макс |
-| `kostya` | anja | Костя |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 1 — Intro
-
-> Arriving at Claude Monet well before his shift, Kostya finds Max wandering around in casual clothes instead of his chef uniform. Pressing him for answers, Kostya uncovers Max's shocking secret: to avoid Moscow's exorbitant rents, Max has been sleeping overnight in the restaurant dining room. Let's listen to their confrontation in Russian first.
-
-## Part 2 — Story
-
-| # | Speaker | Line | English | Source cue(s) | Change |
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 0 | Макс | Костя, почему ты пришёл так рано? | Kostya, why did you arrive so early? | #5 "ты как так рано приперся" |  |
-| 1 | Костя | Сейчас уже восемь часов утра, Макс. | It is already eight o'clock in the morning, Max. | #6 "Не рано" |  |
-| 2 | Макс | Я думал, что ресторан ещё закрыт. | I thought that the restaurant was still closed. | *(added)* |  |
-| 3 | Костя | Почему ты ещё не надел форму? | Why haven't you put on your uniform yet? | #6 "Че не переоделся" |  |
-| 4 | Макс | Мой ключ от шкафа лежит здесь. | My locker key is lying here. | #7 "А у меня ключ здесь" |  |
-| 5 | Костя | Тогда иди быстрее в раздевалку персонала. | Then go faster to the staff locker room. | #8 "Ну и вали переодеваться" |  |
-| 6 | Макс | Не командуй мной, я всё успею. | Do not boss me around, I will manage everything in time. | #9 "Погоди, че ты меня строишь" |  |
-| 7 | Костя | Что ты вообще делал здесь ночью? | What were you doing here at night at all? | #9 "Че ты здесь делаешь" |  |
-| 8 | Макс | Честно говоря, я живу прямо здесь. | Honestly speaking, I live right here. | #10 "Живу я здесь" |  |
-| 9 | Костя | Ты ночуешь в ресторане шефа Баринова?! | You spend the night in Chef Barinov's restaurant?! | #10 "Как так" |  |
-| 10 | Макс | Да, я сплю на диване в зале. | Yes, I sleep on the sofa in the dining room. | #11 "Так, так" |  |
-| 11 | Костя | Если шеф узнает, он тебя убьёт! | If the chef finds out, he will kill you! | *(added)* |  |
-| 12 | Макс | Пожалуйста, не рассказывай никому мой секрет. | Please do not tell anyone my secret. | *(added)* |  |
+| 1 | Макс | Костя, почему ты пришёл так рано? | Kostya, why did you arrive so early? | #5: ты как так рано приперся | verbatim |
+| 2 | Костя | Сейчас уже восемь часов утра, Макс. | It is already eight o'clock in the morning, Max. | #6: Не рано | verbatim |
+| 3 | Макс | Я думал, что ресторан ещё закрыт. | I thought that the restaurant was still closed. | new | new |
+| 4 | Костя | Почему ты ещё не надел форму? | Why haven't you put on your uniform yet? | #6: Че не переоделся | verbatim |
+| 5 | Макс | Мой ключ от шкафа лежит здесь. | My locker key is lying here. | #7: А у меня ключ здесь | verbatim |
+| 6 | Костя | Тогда иди быстрее в раздевалку персонала. | Then go faster to the staff locker room. | #8: Ну и вали переодеваться | verbatim |
+| 7 | Макс | Не командуй мной, я всё успею. | Do not boss me around, I will manage everything in time. | #9: Погоди, че ты меня строишь | verbatim |
+| 8 | Костя | Что ты вообще делал здесь ночью? | What were you doing here at night at all? | #9: Че ты здесь делаешь | verbatim |
+| 9 | Макс | Честно говоря, я живу прямо здесь. | Honestly speaking, I live right here. | #10: Живу я здесь | verbatim |
+| 10 | Костя | Ты ночуешь в ресторане шефа Баринова?! | You spend the night in Chef Barinov's restaurant?! | #10: Как так | verbatim |
+| 11 | Макс | Да, я сплю на диване в зале. | Yes, I sleep on the sofa in the dining room. | #11: Так, так | verbatim |
+| 12 | Костя | Если шеф узнает, он тебя убьёт! | If the chef finds out, he will kill you! | new | new |
+| 13 | Макс | Пожалуйста, не рассказывай никому мой секрет. | Please do not tell anyone my secret. | new | new |
 
-## Part 5 — Outro & closing
+## Walk-through narration (English only, no target-language words quoted)
 
-> Terrified of what Chef Barinov would do if he caught a cook sleeping in the restaurant, Kostya considers how to help his friend out of this dangerous situation. Next time you watch the episode, listen for the Russian expressions for 'fast' and 'at all' — you will catch every word right away. See you next time!
-
-**Макс:** Пока!
+- 'Kostya, why did you arrive so early?' Max questions his coworker's sudden morning appearance.
+- 'It is already eight o'clock in the morning, Max.' Russian omits the present-tense verb 'to be' here, linking 'now' directly with 'already', combining 'now' with 'already' and 'eight'.
+- 'I thought that the restaurant was still closed.' Max explains his surprised reaction using a past verb.
+- 'Why haven't you put on your uniform yet?' Kostya expresses this naturally by combining the word for 'why' with 'yet' and 'put on'.
+- 'My locker key is lying here.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'Then go faster to the staff locker room.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'Do not boss me around, I will manage everything in time.' Max leads with the direct command form meaning 'boss around', followed by 'will manage'.
+- 'What were you doing here at night at all?' Kostya grows suspicious about Max's overnight presence.
+- 'Honestly speaking, I live right here.' Max reveals his secret using a parenthetic adverbial phrase.
+- 'You spend the night in Chef Barinov's restaurant?!' Kostya is astonished by his friend's audacity.
+- 'Yes, I sleep on the sofa in the dining room.' Max admits where he spends the night with a present verb.
+- 'If the chef finds out, he will kill you!' Kostya warns of Barinov's wrath using a conditional sentence.
+- 'Please do not tell anyone my secret.' Max pleads for confidentiality with a negative command form.

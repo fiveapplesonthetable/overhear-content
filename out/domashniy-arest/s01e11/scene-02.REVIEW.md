@@ -10,11 +10,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Нина | Самсон, ты же опаздываешь на футбол! | Samson, you are late for football! | #50 00:02:26: футболом | verbatim |
-| 2 | Самсон | Ничего страшного, обойдётся без футбола. | Nothing terrible, it will do without football. | #50 00:02:26: Хрен с ним, с футболом | adapted: colloquial vulgarity softened to clean A1 |
-| 3 | Самсон | Я никуда отсюда не уйду. | I will not leave here anywhere. | #51 00:02:31: Подожду | verbatim |
-| 4 | Нина | И сколько ты собираешься здесь сидеть? | And how long do you plan to sit here? | #52 00:02:32: Подожди | verbatim |
-| 5 | Самсон | Я буду ждать столько, сколько нужно. | I will wait as long as is necessary. | #53 00:02:36: Подожду, подожду | verbatim |
+| 1 | Нина | Самсон, ты же опаздываешь на футбол! | Samson, you are late for football! | #50: футболом | verbatim |
+| 2 | Самсон | Ничего страшного, обойдётся без футбола. | Nothing terrible, it will do without football. | #50: Хрен с ним, с футболом | adapted: colloquial vulgarity softened to clean A1 |
+| 3 | Самсон | Я никуда отсюда не уйду. | I will not leave here anywhere. | #51: Подожду | verbatim |
+| 4 | Нина | И сколько ты собираешься здесь сидеть? | And how long do you plan to sit here? | #52: Подожди | verbatim |
+| 5 | Самсон | Я буду ждать столько, сколько нужно. | I will wait as long as is necessary. | #53: Подожду, подожду | verbatim |
 | 6 | Нина | На улице становится очень холодно. | It is getting very cold outside. | new | new: continuation of street dialogue |
 | 7 | Самсон | Мне совершенно не холодно в куртке. | I am not cold at all in my jacket. | new | new: continuation of street dialogue |
 | 8 | Нина | Ты ведёшь себя как упрямый ребёнок! | You are behaving like a stubborn child! | new | new: continuation of street dialogue |

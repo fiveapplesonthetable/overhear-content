@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Шеф | Дима, тебе бы поехать домой. | Dima, you should go home. | #238 00:17:35: поехать домой | adapted: adapted |
-| 2 | Нагиев | Я и так у себя дома. | I am already at home. | #241 00:17:42: Я и так у себя дома | verbatim |
-| 3 | Шеф | Дима, ну неудобно. С тобой уже полресторана рядом. | Dima, it's awkward. Half the restaurant has already been by you. | #242 00:17:44: ну неудобно<br>#243 00:17:46: С тобой уже | adapted: adapted |
-| 4 | Шеф | Со спящим. | While you were sleeping. | #244 00:17:48: Со спящим | verbatim |
-| 5 | Нагиев | Ничего страшного. Я простой парень из народа. | No big deal. I am a simple guy from the people. | #244 00:17:48: Ничего страшного<br>#245 00:17:52: Я простой парень из народа | adapted: adapted |
-| 6 | Нагиев | Я помню свои корни. | I remember my roots. | #246 00:17:53: Я помню свои корни | verbatim |
-| 7 | Нагиев | А где мой завтрак? Вот мой завтрак! | And where is my breakfast? Here is my breakfast! | #247 00:17:55: А где мой<br>#247 00:17:55: Вот мой | adapted: adapted |
-| 8 | Нагиев | Парень некрасивый, иди работай. | Unattractive guy, go work. | #248 00:17:59: Парень некрасивый | adapted: adapted |
-| 9 | Нагиев | Вкусно ведь! Попробуй. | It is delicious, after all! Try it. | #250 00:18:20: вкусно ведь<br>#251 00:18:22: Попробуй | adapted: adapted |
-| 10 | Нагиев | Лизни! | Lick it! | #252 00:18:24: Лизни | verbatim |
-| 11 | Шеф | Нет. | No. | #253 00:18:27: Нет | verbatim |
-| 12 | Нагиев | Ты лизнёшь! Лежи, Витя. | You will lick it! Lie down, Vitya. | #253 00:18:27: ты лизнешь<br>#254 00:18:32: Лежи, Витя | adapted: adapted |
+| 1 | Шеф | Дима, тебе бы поехать домой. | Dima, you should go home. | #238: поехать домой | adapted: adapted |
+| 2 | Нагиев | Я и так у себя дома. | I am already at home. | #241: Я и так у себя дома | verbatim |
+| 3 | Шеф | Дима, ну неудобно. С тобой уже полресторана рядом. | Dima, it's awkward. Half the restaurant has already been by you. | #242: ну неудобно<br>#243: С тобой уже | adapted: adapted |
+| 4 | Шеф | Со спящим. | While you were sleeping. | #244: Со спящим | verbatim |
+| 5 | Нагиев | Ничего страшного. Я простой парень из народа. | No big deal. I am a simple guy from the people. | #244: Ничего страшного<br>#245: Я простой парень из народа | adapted: adapted |
+| 6 | Нагиев | Я помню свои корни. | I remember my roots. | #246: Я помню свои корни | verbatim |
+| 7 | Нагиев | А где мой завтрак? Вот мой завтрак! | And where is my breakfast? Here is my breakfast! | #247: А где мой<br>#247: Вот мой | adapted: adapted |
+| 8 | Нагиев | Парень некрасивый, иди работай. | Unattractive guy, go work. | #248: Парень некрасивый | adapted: adapted |
+| 9 | Нагиев | Вкусно ведь! Попробуй. | It is delicious, after all! Try it. | #250: вкусно ведь<br>#251: Попробуй | adapted: adapted |
+| 10 | Нагиев | Лизни! | Lick it! | #252: Лизни | verbatim |
+| 11 | Шеф | Нет. | No. | #253: Нет | verbatim |
+| 12 | Нагиев | Ты лизнёшь! Лежи, Витя. | You will lick it! Lie down, Vitya. | #253: ты лизнешь<br>#254: Лежи, Витя | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dima, you should go home.' In Russian, the idea of 'Dima' flows naturally into 'home' without extra filler words.
-- 'I am already at home.' The grammar packs 'I' and 'at home' into a tight, idiomatic kitchen exchange. Chef Barinov answers right away.
-- 'Dima, it's awkward. Half the restaurant has already been by you.' Chef Barinov anchors the line on 'Dima', while 'beside' completes the thought.
-- 'While you were sleeping.' In Russian, the idea of 'with' flows naturally into 'sleeping' without extra filler words.
-- 'No big deal. I am a simple guy from the people.' Spoken Russian keeps this brisk, leaning on 'nothing' and finishing on 'the people'.
-- 'I remember my roots.' Notice how Russian expresses 'I' and 'roots' with crisp inflection rather than helper words.
-- 'And where is my breakfast? Here is my breakfast!' Here the Russian phrasing highlights 'and' before landing on 'here'.
-- 'Unattractive guy, go work.' Dmitry Nagiyev brings out the contrast between 'guy' and 'unattractive' in a few short words.
-- 'It is delicious, after all! Try it.' Dmitry Nagiyev anchors the line on 'deliciously', while 'taste' completes the thought.
-- 'Lick it!' In Russian, the idea of 'lick' flows naturally into 'lick' without extra filler words.
-- 'No.' The meaning hinges on 'no' working together with 'no' in spoken Russian. Dmitry Nagiyev answers right away.
-- 'You will lick it! Lie down, Vitya.' Dmitry Nagiyev anchors the line on 'you', while 'Vitya' completes the thought.
+- 'Dima, you should go home.' Mentioning that Nagiyev should go home moves the talk in a new direction. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'I am already at home.' Explaining that he is already at home lays the cards on the table for Barinov.
+- 'Dima, it's awkward. Half the restaurant has already been by you.' Because it is awkward, Barinov treats the matter as settled.
+- 'While you were sleeping.' Explaining that while Nagiyev was sleeping lays the cards on the table for Nagiyev.
+- 'No big deal. I am a simple guy from the people.' Being a simple guy from the people is how Nagiyev lays out the situation for Barinov.
+- 'I remember my roots.' Adding that he remembers his roots fills in the missing piece for Barinov.
+- 'And where is my breakfast? Here is my breakfast!' Here wondering where his breakfast is shows Nagiyev looking for the real truth. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Unattractive guy, go work.' With the table and moment in play, Nagiyev keeps this short reply brisk and direct.
+- 'It is delicious, after all! Try it.' Insisting that it is delicious after all shows Nagiyev is not backing down.
+- 'Lick it!' With the point and shift at stake, Nagiyev reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'No.' Over the table and the truth, Barinov answers Nagiyev without a second thought.
+- 'You will lick it! Lie down, Vitya.' Nagiyev insists that Barinov will lick it, leaving Barinov no room to argue.

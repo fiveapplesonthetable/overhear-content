@@ -1,36 +1,38 @@
-# domashniy-arest/s01e04/scene-06.py
-ID = "domashniy-arest-s01e04-scene-06"
-SHOW = "domashniy-arest"
+# Authoring module for domashniy-arest-s01e04-scene-06.
+ID = 'domashniy-arest-s01e04-scene-06'
+SHOW = 'domashniy-arest'
 SEASON = 1
 EPISODE = 4
 SCENE = 6
 TITLE = "Тайна Головкина  (Golovkin's Secret)"
-LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-SOURCE_NAME = "Домашний арест (Domashniy Arest) S1.04"
-SOURCE_FILE = "sources/domashniy-arest/s01/e04.ru.dual.srt"
-VOICES = {"narrator": "sky", "anya": "alisa", "golovkin": "anja"}
-LABELS = {"anya": "Аркадий", "golovkin": "Головкин"}
+LEVEL = 'A1 — Duolingo Section 2'
+PAIR = 'ru-en'
+LABELS = {'arkady': 'Аркадий', 'golovkin': 'Головкин', 'pasha': 'Паша'}
+SOURCE_NAME = 'Домашний арест (Domashniy Arest) S1.04'
+SOURCE_FILE = 'sources/domashniy-arest/s01/e04.ru.dual.srt'
 INTRO = "In the corridor outside the investigator's office. Last time, Nina dragged Samson out of the car showroom, and Ilona escaped from the rude taxi driver by driving off in his car. Now Arkady is waiting for his interrogation when his stuttering public defender Danila Golovkin walks up to apologise for speaking against him in court yesterday. Let's listen in Russian first."
-STORY = [
-    ("anya", "Ты что здесь делаешь? После вчерашнего!", "What are you doing here? After yesterday!", [(144, 'Ты что здесь делаешь'), (146, 'После вчерашнего')], "insult in cue 144 dropped"),
-    ("golovkin", "Был неправ. Простите. Я хочу закончить начатое.", "I was wrong. Forgive me. I want to finish what I started.", [(148, 'Был неправ'), (149, 'Простите'), (150, 'Я хочу закончить'), (151, 'Начатое')], ""),
-    ("anya", "Чтобы мне ещё десять лет дали? Уходи отсюда!", "So they give me another ten years? Get out of here!", [(152, 'мне еще')], "cue 152 'Чтоб мне еще десятку припаяли' -> 'Чтобы мне ещё десять лет дали'; rude cue 153 -> 'Уходи отсюда!'"),
-    ("golovkin", "Я не могу.", "I can't.", [(154, 'Я не могу')], ""),
-    ("anya", "А что такое? Иди отсюда!", "And what's the matter? Go away from here!", [(155, 'А что такое'), (156, 'отсюда')], "'Вон, пошел отсюда' (156) softened to 'Иди отсюда!'"),
-    ("golovkin", "Хорошо. Я люблю женщину в вашей квартире.", "All right. I love a woman in your flat.", [(158, 'Хорошо. Люблю женщину'), (158, 'в вашей квартире')], "'Я' added; participle 'живущую' dropped"),
-    ("anya", "Клавдию Викторовну, что ли? Или Марину?", "Klavdia Viktorovna, or what? Or Marina?", [(159, 'Клавдию Викторовну, что ли? Марину')], "crude guess about Yulia in cue 159 dropped"),
-    ("golovkin", "Нет, Нину.", "No, Nina.", [(160, 'Нет')], "'Нину' added so the listener knows whom he means"),
-    ("anya", "Она же замужем! Ты любишь чужую жену!", "But she's married! You love another man's wife!", [(160, 'Она же замужем')], "crude 'Ты развратник' in cue 160 -> 'Ты любишь чужую жену!'"),
-    ("golovkin", "Я влюблён в неё с первого класса.", "I've been in love with her since first grade.", [(160, 'Я влюблен в нее с первого класса')], ""),
-    ("golovkin", "Прошу оставить это в тайне.", "I ask you to keep this a secret.", [(161, 'Прошу оставить это в тайне')], ""),
-    ("anya", "В тайне? А ты мою тайну вчера сохранил?", "A secret? And did you keep my secret yesterday?", [(162, 'В тайне')], "clean stand-in for cue 162 ('Я тебе, сука, не просил кое-что в тайне оставить')"),
-    ("anya", "Я сегодня же расскажу всё Самсону!", "I'll tell Samson everything this very day!", [(163, 'я сегодня же расскажу все Самсону')], "crude second half of cue 163 omitted"),
-    ("anya", "Он тебя найдёт! Посмотри, что он со мной сделал.", "He'll find you! Look what he did to me.", [(164, 'Он тебя найдет'), (164, 'посмотри'), (164, 'что он')], "adapted from cue 164 ('посмотри на меня, что он с тобой сделает')"),
-    ("golovkin", "Пожалуйста, не надо!", "Please, don't!", [(167, 'Пожалуйста')], "'не надо' added"),
-    ("golovkin", "Доброе утро, Аркадий Борисович. Проходи, присядь, перекуси.", "Good morning, Arkady Borisovich. Come in, sit down, have a bite to eat.", [(173, 'Доброе утро, Аркадий Борисович'), (174, 'Проходи, присядь, перекуси')], ""),
-]
 OPENER = "Let's take it line by line. Arkady is sitting in the corridor with a bandaged head when Golovkin walks up, and Arkady can't believe his eyes."
+TRANSITION = "Now let's hear the whole scene again from the beginning."
+OUTRO = "So Arkady discovers that his lawyer is secretly in love with Samson's wife Nina, giving Arkady the leverage he needs before he steps in to face Pasha. Next we check back on Samson and Nina at the job centre; see you then. See you next time!"
+CLOSING = ('arkady', 'Пока!')
+STORY = [
+    ('arkady', 'Ты что здесь делаешь? После вчерашнего!', 'What are you doing here? After yesterday!', [(144, 'Ты что здесь делаешь'), (146, 'После вчерашнего')], 'insult in cue 144 dropped'),
+    ('golovkin', 'Был неправ. Простите. Я хочу закончить начатое.', 'I was wrong. Forgive me. I want to finish what I started.', [(148, 'Был неправ'), (149, 'Простите'), (150, 'Я хочу закончить'), (151, 'Начатое')], ''),
+    ('arkady', 'Чтобы мне ещё десять лет дали? Уходи отсюда!', 'So they give me another ten years? Get out of here!', [(152, 'мне еще')], "cue 152 'Чтоб мне еще десятку припаяли' -> 'Чтобы мне ещё десять лет дали'; rude cue 153 -> 'Уходи отсюда!'"),
+    ('golovkin', 'Я не могу.', "I can't.", [(154, 'Я не могу')], ''),
+    ('arkady', 'А что такое? Иди отсюда!', "And what's the matter? Go away from here!", [(155, 'А что такое'), (156, 'отсюда')], "'Вон, пошел отсюда' (156) softened to 'Иди отсюда!'"),
+    ('golovkin', 'Хорошо. Я люблю женщину в вашей квартире.', 'All right. I love a woman in your flat.', [(158, 'Хорошо. Люблю женщину'), (158, 'в вашей квартире')], "'Я' added; participle 'живущую' dropped"),
+    ('arkady', 'Клавдию Викторовну, что ли? Или Марину?', 'Klavdia Viktorovna, or what? Or Marina?', [(159, 'Клавдию Викторовну, что ли? Марину')], 'crude guess about Yulia in cue 159 dropped'),
+    ('golovkin', 'Нет, Нину.', 'No, Nina.', [(160, 'Нет')], "'Нину' added so the listener knows whom he means"),
+    ('arkady', 'Она же замужем! Ты любишь чужую жену!', "But she's married! You love another man's wife!", [(160, 'Она же замужем')], "crude 'Ты развратник' in cue 160 -> 'Ты любишь чужую жену!'"),
+    ('golovkin', 'Я влюблён в неё с первого класса.', "I've been in love with her since first grade.", [(160, 'Я влюблен в нее с первого класса')], ''),
+    ('golovkin', 'Прошу оставить это в тайне.', 'I ask you to keep this a secret.', [(161, 'Прошу оставить это в тайне')], ''),
+    ('arkady', 'В тайне? А ты мою тайну вчера сохранил?', 'A secret? And did you keep my secret yesterday?', [(162, 'В тайне')], "clean stand-in for cue 162 ('Я тебе, сука, не просил кое-что в тайне оставить')"),
+    ('arkady', 'Я сегодня же расскажу всё Самсону!', "I'll tell Samson everything this very day!", [(163, 'я сегодня же расскажу все Самсону')], 'crude second half of cue 163 omitted'),
+    ('arkady', 'Он тебя найдёт! Посмотри, что он со мной сделал.', "He'll find you! Look what he did to me.", [(164, 'Он тебя найдет'), (164, 'посмотри'), (164, 'что он')], "adapted from cue 164 ('посмотри на меня, что он с тобой сделает')"),
+    ('golovkin', 'Пожалуйста, не надо!', "Please, don't!", [(167, 'Пожалуйста')], "'не надо' added"),
+    ('pasha', 'Доброе утро, Аркадий Борисович. Проходи, присядь, перекуси.', 'Good morning, Arkady Borisovich. Come in, sit down, have a bite to eat.', [(173, 'Доброе утро, Аркадий Борисович'), (174, 'Проходи, присядь, перекуси')], ''),
+]
 WALK = [
     (0, None, "'What are you doing here? After yesterday!' Remember, at yesterday's hearing Golovkin testified against his own client. After the preposition 'after', 'yesterday's' takes the 'of' ending. Golovkin looks sheepish."),
     (1, 'Был неправ.', "'I was wrong.' He uses the masculine past 'was' and then asks Arkady to forgive him."),
@@ -53,6 +55,3 @@ WALK = [
     (14, None, "'Please, don't!' Just then, the investigator's door opens and Arkady is called inside, where Pasha is waiting at a table full of food."),
     (15, None, "'Good morning, Arkady Borisovich. Come in, sit down, have a bite to eat.' Notice the mockery: Pasha greets him by his polite name and patronymic, and then gives him three informal commands in a row."),
 ]
-TRANSITION = "Now let's hear the whole scene again from the beginning."
-OUTRO = "So Arkady discovers that his lawyer is secretly in love with Samson's wife Nina, giving Arkady the leverage he needs before he steps in to face Pasha. Next we check back on Samson and Nina at the job centre; see you then. See you next time!"
-CLOSING = ("anya", "Пока!")

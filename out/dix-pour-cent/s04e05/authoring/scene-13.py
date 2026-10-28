@@ -7,8 +7,7 @@ SCENE = 13
 TITLE = 'La virée en ville  (The Night Out)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'sigourney': 'emilie', 'lea': 'lucie'}
-LABELS = {'sigourney': 'Sigourney', 'lea': 'Andréa'}
+LABELS = {'arlette': 'Arlette', 'sigourney': 'Sigourney'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e05.fr.dual.srt'
 INTRO = "Sigourney Weaver and Arlette realize that Bernard will not be joining them for their highly anticipated night out. Let's listen to their conversation. Let's listen to the whole story in French first — don't worry about catching every word."
@@ -18,17 +17,17 @@ OUTRO = "And that's it for this scene. When you watch the episode, listen out fo
 CLOSING = ('sigourney', 'Au revoir.')
 STORY = [
     ('sigourney', 'Bernard est parti?', 'Did Bernard leave?', [(633, 'Bernard est parti')], ''),
-    ('lea', 'Oui, je crois.', 'Yes, I think so.', [], ''),
+    ('arlette', 'Oui, je crois.', 'Yes, I think so.', [], ''),
     ('sigourney', 'Zut alors!', 'Darn it!', [(634, 'Zut alors')], ''),
-    ('lea', 'Il est déjà tard.', 'It is already late.', [], ''),
+    ('arlette', 'Il est déjà tard.', 'It is already late.', [], ''),
     ('sigourney', 'Arlette, il ne sera pas là.', 'Arlette, he won', [(635, 'Arlette, il ne sera pas là')], ''),
     ('sigourney', 'Pour notre virée en ville.', 'For our night out.', [(635, 'pour notre virée en ville')], ''),
-    ('lea', "Ce n'est pas grave.", 'It does not matter.', [], ''),
-    ('lea', "On va s'amuser.", 'We will have fun.', [], ''),
+    ('arlette', "Ce n'est pas grave.", 'It does not matter.', [], ''),
+    ('arlette', "On va s'amuser.", 'We will have fun.', [], ''),
     ('sigourney', 'Bien sûr, mon amie.', 'Of course, my friend.', [], ''),
-    ('lea', 'On y va?', 'Shall we go?', [], ''),
+    ('arlette', 'On y va?', 'Shall we go?', [], ''),
     ('sigourney', 'Oui, on y va.', 'Yes, let', [], ''),
-    ('lea', 'Paris nous attend.', 'Paris is waiting for us.', [], ''),
+    ('arlette', 'Paris nous attend.', 'Paris is waiting for us.', [], ''),
 ]
 WALK = [
     (0, None, "'Did Bernard leave?' Sigourney asks, looking around for him. In everyday spoken French, rising intonation on 'left' at the end is enough to turn the sentence into a question."),

@@ -7,7 +7,6 @@ SCENE = 13
 TITLE = 'La répétition intime  (The Intimate Rehearsal)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'camille': 'emilie', 'valentin': 'theo'}
 LABELS = {'camille': 'Camille', 'valentin': 'Valentin'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e05.fr.dual.srt'

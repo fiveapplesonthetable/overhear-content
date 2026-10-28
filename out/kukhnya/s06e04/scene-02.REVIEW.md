@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Гость | Мне показалось, что вы мне подмигнули. | It seemed to me that you winked at me. | #14 00:02:06: мне показалось, что вы мне подмигнули | adapted: exact |
-| 2 | Катя | Нет, вам показалось. | No, you imagined it. | #15 00:02:08: Нет, вам показалось | adapted: exact |
-| 3 | Катя | Столько лет прошло, а ты все пользуешься этим! | So many years have passed, and you still use that line! | #17 00:02:14: Столько лет прошло, а ты все пользуешься этим | adapted: adapted |
-| 4 | Гость | Катя, сколько мы не виделись? | Katya, how long has it been since we saw each other? | #18 00:02:18: Катя, сколько мы не виделись? | adapted: exact |
-| 5 | Катя | Мы не виделись с тех пор, как меня отчислили. | We have not seen each other since they expelled me. | #20 00:02:22: с тех пор, как меня отчислили | adapted: adapted |
-| 6 | Катя | А ты что здесь делаешь? | And what are you doing here? | #21 00:02:24: А ты что здесь делаешь? | adapted: exact |
-| 7 | Гость | Это небольшой бизнес, а ты как? | It is a small business trip, and how about you? | #21 00:02:24: Это небольшой бизнес<br>#22 00:02:27: А ты как? | adapted: adapted |
-| 8 | Катя | Я отлично работаю здесь в ресторане. | I am doing great working here in the restaurant. | #22 00:02:27: Я отлично работаю здесь в ресторане | adapted: exact |
-| 9 | Гость | Ты помнишь нашего старого профессора? | Do you remember our old professor? | #24 00:02:32: Ты помнишь профессора | adapted: adapted |
-| 10 | Гость | Когда он заснул на занятии, я проучился на месяц больше, чем ты. | When he fell asleep in class, I studied a month longer than you. | #25 00:02:34: заснул на занятии<br>#27 00:02:39: я проучился на месяц больше, чем ты | adapted: adapted |
-| 11 | Катя | А кто это такой, Катя? | And who is that, Katya? | #34 00:03:00: А кто это? | adapted: adapted |
-| 12 | Катя | Это Оливье, мы с ним учились в Париже в кулинарной академии. | That is Olivier, he and I studied together in Paris at the culinary academy. | #34 00:03:00: Это Оливье<br>#35 00:03:02: Мы с ним учились в Париже, в кулинарной академии | adapted: adapted |
+| 1 | Гость | Мне показалось, что вы мне подмигнули. | It seemed to me that you winked at me. | #14: мне показалось, что вы мне подмигнули | adapted: exact |
+| 2 | Катя | Нет, вам показалось. | No, you imagined it. | #15: Нет, вам показалось | adapted: exact |
+| 3 | Катя | Столько лет прошло, а ты все пользуешься этим! | So many years have passed, and you still use that line! | #17: Столько лет прошло, а ты все пользуешься этим | adapted: adapted |
+| 4 | Гость | Катя, сколько мы не виделись? | Katya, how long has it been since we saw each other? | #18: Катя, сколько мы не виделись? | adapted: exact |
+| 5 | Катя | Мы не виделись с тех пор, как меня отчислили. | We have not seen each other since they expelled me. | #20: с тех пор, как меня отчислили | adapted: adapted |
+| 6 | Катя | А ты что здесь делаешь? | And what are you doing here? | #21: А ты что здесь делаешь? | adapted: exact |
+| 7 | Гость | Это небольшой бизнес, а ты как? | It is a small business trip, and how about you? | #21: Это небольшой бизнес<br>#22: А ты как? | adapted: adapted |
+| 8 | Катя | Я отлично работаю здесь в ресторане. | I am doing great working here in the restaurant. | #22: Я отлично работаю здесь в ресторане | adapted: exact |
+| 9 | Гость | Ты помнишь нашего старого профессора? | Do you remember our old professor? | #24: Ты помнишь профессора | adapted: adapted |
+| 10 | Гость | Когда он заснул на занятии, я проучился на месяц больше, чем ты. | When he fell asleep in class, I studied a month longer than you. | #25: заснул на занятии<br>#27: я проучился на месяц больше, чем ты | adapted: adapted |
+| 11 | Элеонора | А кто это такой, Катя? | And who is that, Katya? | #34: А кто это? | adapted: adapted |
+| 12 | Катя | Это Оливье, мы с ним учились в Париже в кулинарной академии. | That is Olivier, he and I studied together in Paris at the culinary academy. | #34: Это Оливье<br>#35: Мы с ним учились в Париже, в кулинарной академии | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'It seemed to me that you winked at me.' The plural past ending '-li' on the verb for 'winked' covers a group or the polite 'you'.
-- 'No, you imagined it.' Here the Russian phrasing highlights 'no' before landing on 'seemed'.
-- 'So many years have passed, and you still use that line!' Katya pairs 'so many' with 'use' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
-- 'Katya, how long has it been since we saw each other?' Notice how Russian puts 'how much' and 'saw each other' together in a short, direct phrase where word endings show how the ideas connect.
-- 'We have not seen each other since they expelled me.' Notice how Russian expresses 'we' and 'expelled' with crisp inflection rather than helper words.
-- 'And what are you doing here?' Here the Russian phrasing highlights 'and' before landing on 'are doing'.
-- 'It is a small business trip, and how about you?' Notice how Russian expresses 'this' and 'how' with crisp inflection rather than helper words.
-- 'I am doing great working here in the restaurant.' Spoken Russian keeps this brisk, leaning on 'I' and finishing on 'restaurant'. the guest answers right away.
-- 'Do you remember our old professor?' Notice how Russian expresses 'you' and 'professor' with crisp inflection rather than helper words.
-- 'When he fell asleep in class, I studied a month longer than you.' The meaning hinges on 'when' working together with 'you' in spoken Russian.
-- 'And who is that, Katya?' Notice how Russian expresses 'and' and 'Katya' with crisp inflection rather than helper words. Katya answers right away.
-- 'That is Olivier, he and I studied together in Paris at the culinary academy.' Here the Russian phrasing highlights 'this' before landing on 'academy'.
+- 'It seemed to me that you winked at me.' Around the work and friend, the guest sets a calm, everyday tone with Eleonora. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
+- 'No, you imagined it.' Around the work and inspector, Katya sets a calm, everyday tone with Eleonora. Notice how she sticks to the formal "you", keeping a professional line between them.
+- 'So many years have passed, and you still use that line!' Once many years have passed and Eleonora still use that line, Katya makes sure Eleonora hears every word.
+- 'Katya, how long has it been since we saw each other?' Questioning whether how long has it been since they saw each other is how the guest tests Eleonora's story. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'We have not seen each other since they expelled me.' Because they have not seen each other since they expelled, Katya treats the matter as settled.
+- 'And what are you doing here?' With the shift and friend hanging in the air, Katya puts Eleonora on the spot.
+- 'It is a small business trip, and how about you?' Asking whether it is a small business trip and how about Eleonora puts Eleonora right on the defensive. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'I am doing great working here in the restaurant.' Admitting that she is doing great working here in the restaurant shows Katya being honest for a change.
+- 'Do you remember our old professor?' By asking whether Eleonora remembers their old professor, the guest presses Eleonora for a straight answer.
+- 'When he fell asleep in class, I studied a month longer than you.' The guest explains that when he fell asleep in class he studied a month longer than Eleonora, keeping his voice calm and direct. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'And who is that, Katya?' With the moment and friend hanging in the air, Eleonora puts the guest on the spot. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'That is Olivier, he and I studied together in Paris at the culinary academy.' Noting that that is Olivier he and she studied together in Paris at the culinary academy keeps Katya's side of the story simple and clear.

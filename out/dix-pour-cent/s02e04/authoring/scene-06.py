@@ -7,29 +7,28 @@ SCENE = 6
 TITLE = "La confession d'Andréa  (Andréa's Confession)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'lea': 'lucie'}
-LABELS = {'gabriel': 'Gabriel', 'lea': 'Andréa'}
+LABELS = {'andrea': 'Andréa', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e04.fr.dual.srt'
 INTRO = "Alone in Gabriel's office, Gabriel asks Andréa why she seemed so unnerved by Hicham's presence. Andréa drops her guard and confesses a shocking secret that leaves Gabriel stunned and amused. Let's listen to the scene in French first."
 OPENER = "Let's examine Andréa's surprising confession step by step to appreciate the comic banter between the two friends."
 TRANSITION = "Now let's listen to the scene once more from start to finish."
 OUTRO = "Andréa's hilarious confession strengthens the bond of trust between Gabriel and her, even as the workplace dynamics become delightfully chaotic. Let's review the conversational expressions and vocabulary from this scene. See you next time!"
-CLOSING = ('lea', 'À demain!')
+CLOSING = ('andrea', 'À demain!')
 STORY = [
     ('gabriel', "Ça va? Tu avais l'air tendue.", 'Are you okay? You seemed tense.', [(137, 'Ça va ?'), (138, "Tu avais l'air tendu.")], ''),
-    ('lea', 'Je ne supporte pas ses ordres.', 'I cannot stand his orders.', [(139, "Je ne supporte pas qu'il me donne des ordres.")], ''),
+    ('andrea', 'Je ne supporte pas ses ordres.', 'I cannot stand his orders.', [(139, "Je ne supporte pas qu'il me donne des ordres.")], ''),
     ('gabriel', 'Il ne peut pas nous virer.', 'He cannot fire us.', [(141, "C'est pas comme s'il pouvait nous virer")], ''),
-    ('lea', "Je ne vais pas m'aplatir.", 'I will not bow down.', [(143, "Je ne vais pas m'aplatir devant lui.")], ''),
+    ('andrea', "Je ne vais pas m'aplatir.", 'I will not bow down.', [(143, "Je ne vais pas m'aplatir devant lui.")], ''),
     ('gabriel', "C'est à cause d'Aymeline Val?", 'Is it because of Aymeline Val?', [(147, "C'est à cause d'Aymeline Val ?")], ''),
     ('gabriel', "Est-ce qu'il sort avec elle?", 'Is he dating her?', [(148, "Il l'a eue ?")], ''),
-    ('lea', 'On a passé la soirée ensemble.', 'We spent the evening together.', [(149, "On l'a eue tous les deux, ensemble.")], ''),
+    ('andrea', 'On a passé la soirée ensemble.', 'We spent the evening together.', [(149, "On l'a eue tous les deux, ensemble.")], ''),
     ('gabriel', "Non, ce n'est pas vrai!", 'No, that is not true!', [(150, "Non... Non, c'est pas vrai.")], ''),
-    ('lea', "C'était une erreur, il m'a provoquée.", 'It was a mistake, he provoked me.', [(151, "C'était une erreur."), (153, "Il m'a provoqué.")], ''),
+    ('andrea', "C'était une erreur, il m'a provoquée.", 'It was a mistake, he provoked me.', [(151, "C'était une erreur."), (153, "Il m'a provoqué.")], ''),
     ('gabriel', 'Tu couches avec des hommes maintenant?', 'You sleep with men now?', [(164, 'tu couches avec des hommes ?')], ''),
-    ('lea', "Non, c'était une petite exception.", 'No, it was a tiny exception.', [(158, "Non, c'était une exception.")], ''),
+    ('andrea', "Non, c'était une petite exception.", 'No, it was a tiny exception.', [(158, "Non, c'était une exception.")], ''),
     ('gabriel', "Alors, c'était comment avec Hicham?", 'So, what was it like with Hicham?', [(168, "C'était comment ?")], ''),
-    ('lea', "C'était très lourd et poilu!", 'It was very heavy and hairy!', [(169, 'Lourd et poilu.')], ''),
+    ('andrea', "C'était très lourd et poilu!", 'It was very heavy and hairy!', [(169, 'Lourd et poilu.')], ''),
 ]
 WALK = [
     (0, None, "'Are you okay? You seemed tense.' Gabriel checks in on his visibly agitated colleague."),

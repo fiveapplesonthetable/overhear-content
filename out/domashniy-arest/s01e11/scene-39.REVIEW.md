@@ -10,10 +10,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Вика | Какие же у вас взрослые сыновья! | What grown sons you have! | #1152 01:10:43: Какие же у вас сынки, | adapted: compliment on sons |
-| 2 | Вика | Они очень похожи на вас, Лев Егорыч. | They look very much like you, Lev Egorych. | #1152 01:10:43: Лев Егорыч? | adapted: addressing formally |
-| 3 | Лев | Просто Лев, малышка, без отчества. | Just Lev, sweetheart, without the patronymic. | #1153 01:10:48: Просто Лев, малышка. | adapted: dropping patronymic |
-| 4 | Лев | Зови меня просто: Лёва. | Call me simply: Lyova. | #1154 01:10:52: Лёва. | adapted: asking for nickname |
+| 1 | Вика | Какие же у вас взрослые сыновья! | What grown sons you have! | #1152: Какие же у вас сынки, | adapted: compliment on sons |
+| 2 | Вика | Они очень похожи на вас, Лев Егорыч. | They look very much like you, Lev Egorych. | #1152: Лев Егорыч? | adapted: addressing formally |
+| 3 | Лев | Просто Лев, малышка, без отчества. | Just Lev, sweetheart, without the patronymic. | #1153: Просто Лев, малышка. | adapted: dropping patronymic |
+| 4 | Лев | Зови меня просто: Лёва. | Call me simply: Lyova. | #1154: Лёва. | adapted: asking for nickname |
 | 5 | Вика | Хорошо, Лёва, как скажешь. | All right, Lyova, as you say. | new | new: Vika agrees playfully |
 | 6 | Вика | Мне очень нравится твоё имя. | I like your name very much. | new | new: flattery |
 | 7 | Лев | Ты сегодня выглядишь просто прекрасно. | You look simply wonderful today. | new | new: Lev compliments her |

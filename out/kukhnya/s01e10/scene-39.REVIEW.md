@@ -1,40 +1,41 @@
-# Поспешное решение  (A Hasty Decision) — `kukhnya-s01e10-scene-39`
+# kukhnya-s01e10-scene-39: review sheet
 
-**Source:** Кухня (Kukhnya) S1.10 · `sources/kukhnya/s01/e10.ru.dual.srt`  
-**Target level:** A1 — Duolingo Section 2
+Title: Поспешное решение  (A Hasty Decision)
+Level: A1 — Duolingo Section 2
+Pair: ru-en
+Source: Кухня (Kukhnya) S1.10
 
-## Cast
 
-| Role | Voice | Label |
-|---|---|---|
-| `narrator` | sky | — |
-| `anya` | alisa | Макс |
-| `vika` | angelina | Вика |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 1 — Intro
-
-> As Tanya enthusiastically suggests arranging a quick registry appointment and announcing the wedding to the whole dining room, both Max and Victoria instantly regret their impulsive game of chicken. Admitting they moved too fast, they hastily backtrack. Let's listen to their conversation in Russian.
-
-## Part 2 — Story
-
-| # | Speaker | Line | English | Source cue(s) | Change |
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 0 | Макс | Мы подадим официальное заявление в загс? | Will we submit an official application to the registry office? | #276 "подадим заявление" |  |
-| 1 | Вика | Таня, у тебя есть знакомые в загсе? | Tanya, do you have acquaintances at the registry office? | #277 "Тань, у тебя есть кто-нибудь" |  |
-| 2 | Макс | Пожалуйста, помоги нам расписаться как можно быстрее. | Please help us sign the register as fast as possible. | #278 "побыстрее расписать" |  |
-| 3 | Вика | Давайте расскажем эту новость всем гостям ресторана! | Let's tell this news to all the guests of the restaurant! | #280 "давайте скажем всем", #281 "Обрадуем" |  |
-| 4 | Макс | Подожди, кажется, я немножко поторопился сейчас. | Wait, it seems I jumped the gun a little now. | #281 "Подожди", #283 "А я с предложением" |  |
-| 5 | Вика | Честно говоря, я тоже слишком поторопилась с ответом. | To be honest, I also rushed with the answer too much. | #282 "немножко поторопилась с ответом" |  |
-| 6 | Макс | Значит, нам обоим нужно хорошенько подумать. | So, both of us need to think carefully. | #283 "Мы немножко подумаем" |  |
-| 7 | Вика | Да, нам лучше немного подождать со свадьбой. | Yes, it is better for us to wait a little with the wedding. | #284 "Да, мы подумаем" |  |
-| 8 | Макс | Шеф, вы поможете нам спокойно разобраться? | Chef, will you help us sort this out calmly? | #285 "разбирайтесь сами" |  |
-| 9 | Макс | Шеф не хочет слушать наши семейные споры. | The chef doesn't want to listen to our family arguments. | #285 "разбирайтесь сами" |  |
-| 10 | Вика | У Виктора сейчас начинается важный футбольный матч. | Viktor has an important football match starting now. | #286 "футбол начинается" |  |
-| 11 | Макс | Тогда мы сами во всём разберёмся позже. | Then we will sort everything out ourselves later. | #287 "Идите, идите" |  |
-| 12 | Вика | Иди работай, свадьба пока точно подождёт! | Go work, the wedding will definitely wait for now! | #287 "Идите, идите" |  |
+| 1 | Макс | Мы подадим официальное заявление в загс? | Will we submit an official application to the registry office? | #276: подадим заявление | verbatim |
+| 2 | Вика | Таня, у тебя есть знакомые в загсе? | Tanya, do you have acquaintances at the registry office? | #277: Тань, у тебя есть кто-нибудь | verbatim |
+| 3 | Макс | Пожалуйста, помоги нам расписаться как можно быстрее. | Please help us sign the register as fast as possible. | #278: побыстрее расписать | verbatim |
+| 4 | Вика | Давайте расскажем эту новость всем гостям ресторана! | Let's tell this news to all the guests of the restaurant! | #280: давайте скажем всем<br>#281: Обрадуем | verbatim |
+| 5 | Макс | Подожди, кажется, я немножко поторопился сейчас. | Wait, it seems I jumped the gun a little now. | #281: Подожди<br>#283: А я с предложением | verbatim |
+| 6 | Вика | Честно говоря, я тоже слишком поторопилась с ответом. | To be honest, I also rushed with the answer too much. | #282: немножко поторопилась с ответом | verbatim |
+| 7 | Макс | Значит, нам обоим нужно хорошенько подумать. | So, both of us need to think carefully. | #283: Мы немножко подумаем | verbatim |
+| 8 | Вика | Да, нам лучше немного подождать со свадьбой. | Yes, it is better for us to wait a little with the wedding. | #284: Да, мы подумаем | verbatim |
+| 9 | Макс | Шеф, вы поможете нам спокойно разобраться? | Chef, will you help us sort this out calmly? | #285: разбирайтесь сами | verbatim |
+| 10 | Макс | Шеф не хочет слушать наши семейные споры. | The chef doesn't want to listen to our family arguments. | #285: разбирайтесь сами | verbatim |
+| 11 | Вика | У Виктора сейчас начинается важный футбольный матч. | Viktor has an important football match starting now. | #286: футбол начинается | verbatim |
+| 12 | Макс | Тогда мы сами во всём разберёмся позже. | Then we will sort everything out ourselves later. | #287: Идите, идите | verbatim |
+| 13 | Вика | Иди работай, свадьба пока точно подождёт! | Go work, the wedding will definitely wait for now! | #287: Идите, идите | verbatim |
 
-## Part 5 — Outro & closing
+## Walk-through narration (English only, no target-language words quoted)
 
-> Realizing that they both acted far too impulsively in the heat of the moment, Max and Victoria agree to postpone any wedding talk indefinitely. Great work practicing conversational Russian! Next time you watch the episode, listen for the Russian expressions for 'fast' and 'to be' — you will catch every word right away. See you next time!
-
-**Вика:** Пока!
+- 'Will we submit an official application to the registry office?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'Tanya, do you have acquaintances at the registry office?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'Please help us sign the register as fast as possible.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'Let' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'Wait, it seems I jumped the gun a little now.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'To be honest, I also rushed with the answer too much.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'So, both of us need to think carefully.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'Yes, it is better for us to wait a little with the wedding.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'Chef, will you help us sort this out calmly?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'The chef doesn' t want to listen to our family arguments.' Subject noun with negated present modal verb, basic verb form, and matching form everyday-adjective-noun phrase.
+- 'Viktor has an important football match starting now.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'Then we will sort everything out ourselves later.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'Go work, the wedding will definitely wait for now!' command form motion and action verbs with matching form noun, temporal word, modal adverb, and future verb.

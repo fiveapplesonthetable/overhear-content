@@ -1,37 +1,39 @@
-# domashniy-arest/s01e02/scene-09.py
-ID = "domashniy-arest-s01e02-scene-09"
-SHOW = "domashniy-arest"
+# Authoring module for domashniy-arest-s01e02-scene-09.
+ID = 'domashniy-arest-s01e02-scene-09'
+SHOW = 'domashniy-arest'
 SEASON = 1
 EPISODE = 2
 SCENE = 9
 TITLE = "Предложение Паши  (Pasha's Offer)"
-LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-SOURCE_NAME = "Домашний арест (Domashniy Arest) S1.02"
-SOURCE_FILE = "sources/domashniy-arest/s01/e02.ru.dual.srt"
-VOICES = {"narrator": "sky", "anya": "alisa", "pasha": "anja"}
-LABELS = {"anya": "Аркадий", "pasha": "Паша"}
+LEVEL = 'A1 — Duolingo Section 2'
+PAIR = 'ru-en'
+LABELS = {'arkady': 'Аркадий', 'pasha': 'Паша'}
+SOURCE_NAME = 'Домашний арест (Domashniy Arest) S1.02'
+SOURCE_FILE = 'sources/domashniy-arest/s01/e02.ru.dual.srt'
 INTRO = "Last time, Samson told Nina he would run for mayor in Arkady's place, and she just laughed at him. Meanwhile, the guards have brought Arkady to the town hall, to his old deputy Pasha, who now sits in the mayor's chair and wants something from him. We'll hear it in Russian first; don't worry about catching every word."
-STORY = [
-    ("anya", "Паша, что всё это значит?", "Pasha, what does all this mean?", [], "Arkady has just been dragged in by the guards"),
-    ("pasha", "Мы все скидываемся на кластер. Мне сегодня надо отдать сто пятьдесят.", "You see, Arkasha, we're all chipping in for this cluster. I have to give the Moscow people a hundred and fifty today.", [(230, 'мы все скидываемся на'), (231, 'сегодня')], "'Аркашенька' -> 'Аркаша'; cue 231 '150 отдавать надо' -> 'надо отдать сто пятьдесят'"),
-    ("anya", "Ну и что?", "So what?", [], "Arkady's shrug"),
-    ("pasha", "Без твоих сорока у меня сто десять. Я на твои деньги рассчитывал.", "And without your forty I've only got a hundred and ten. I was counting on your money.", [(232, 'без твоих'), (233, 'Я на твои деньги рассчитывал')], "'только' added"),
-    ("anya", "В следующий раз на мои деньги не рассчитывай. И всё будет хорошо.", "Well, next time don't count on my money. And everything will be fine.", [(234, 'в следующий раз на мои деньги не рассчитывай'), (235, 'И все будет хорошо')], ""),
-    ("anya", "Ты что, мафия? Ты же завхоз в третьем поколении.", "What are you, the mafia? You're a supply manager, third generation.", [(237, 'Ты же завхоз в третьем поколении')], "cue 236 'Чего ты из себя мафиози строишь?' (why are you playing the mafia boss) simplified to 'Ты что, мафия?'"),
-    ("pasha", "Значит, предложение такое. Ты мне говоришь, где твои сорок миллионов.", "So, here's the offer. You tell me where your forty million is.", [(240, 'Значит, предложение такое'), (241, 'Ты мне говоришь, где твои')], "slang 'лямов' -> 'миллионов'"),
-    ("anya", "А ты мне что?", "And what do I get from you?", [], "a link between the two halves of cue 241"),
-    ("pasha", "А я тебе делаю условный срок. Плюс ты забираешь все деньги Вики.", "And I get you a suspended sentence. Plus you take all of Vika's money.", [(241, 'я тебе делаю'), (242, 'Плюс ты забираешь все')], "slang 'условку' -> 'условный срок', 'бабки, которые в комоде лежат у Вики' -> 'деньги Вики'; cue 243 (Vika herself thrown in) left out"),
-    ("anya", "Предложение, конечно, хорошее. Знаешь, что я тебе скажу?", "It's a good offer, of course. Do you know what I'll tell you?", [(245, 'Предложение, конечно, хорошее'), (246, 'Знаешь, что я тебе скажу')], ""),
-    ("pasha", "Что?", "What?", [(247, 'Что')], ""),
-    ("anya", "Я выйду отсюда, меня оправдают. Аракелян заявление заберёт.", "I'll get out of here, they'll acquit me. Arakelyan will withdraw his statement.", [(249, 'Я выйду отсюда, меня оправдают'), (250, 'заявление заберет')], "the cue's 'Ракелян' is a slip for Arakelyan"),
-    ("anya", "Ай! Больно, больно!", "Ow! It hurts, it hurts!", [(251, 'больно, больно')], "'Ай!' added; the guards twist his hand"),
-    ("pasha", "Значит так, срок у тебя до вечера, понял?", "Right then, you've got until tonight, understood?", [(252, 'Значит так, срок у тебя до вечера, понял')], "'Аркадий Борисович' moved to the goodbye"),
-    ("anya", "А если нет?", "And if not?", [], "a simpler stand-in for cue 254 'А если не приму?' (and if I don't [make that decision]?)"),
-    ("pasha", "Тогда ребята с тобой поработают. До свидания, Аркадий Борисович.", "Then the boys will have a little word with you. Goodbye, Arkady Borisovich.", [(256, 'с тобой поработают'), (259, 'До свидания, Аркадий Борисович')], "cue 255 ('then we move on to physical threats') folded into 'Тогда'"),
-    ("anya", "До свидания.", "Goodbye.", [(260, 'До свидания')], ""),
-]
 OPENER = "Let's go back through it. Arkady stands in Pasha's office, between two guards, and he wants an explanation."
+TRANSITION = "Let's listen to the whole conversation again from the top."
+OUTRO = "So Arkady has until evening to give up his forty million, and he isn't giving in. Listen for the deal and the deadline when you watch. See you next time!"
+CLOSING = ('arkady', 'Пока!')
+STORY = [
+    ('arkady', 'Паша, что всё это значит?', 'Pasha, what does all this mean?', [], 'Arkady has just been dragged in by the guards'),
+    ('pasha', 'Мы все скидываемся на кластер. Мне сегодня надо отдать сто пятьдесят.', "You see, Arkasha, we're all chipping in for this cluster. I have to give the Moscow people a hundred and fifty today.", [(230, 'мы все скидываемся на'), (231, 'сегодня')], "'Аркашенька' -> 'Аркаша'; cue 231 '150 отдавать надо' -> 'надо отдать сто пятьдесят'"),
+    ('arkady', 'Ну и что?', 'So what?', [], "Arkady's shrug"),
+    ('pasha', 'Без твоих сорока у меня сто десять. Я на твои деньги рассчитывал.', "And without your forty I've only got a hundred and ten. I was counting on your money.", [(232, 'без твоих'), (233, 'Я на твои деньги рассчитывал')], "'только' added"),
+    ('arkady', 'В следующий раз на мои деньги не рассчитывай. И всё будет хорошо.', "Well, next time don't count on my money. And everything will be fine.", [(234, 'в следующий раз на мои деньги не рассчитывай'), (235, 'И все будет хорошо')], ''),
+    ('arkady', 'Ты что, мафия? Ты же завхоз в третьем поколении.', "What are you, the mafia? You're a supply manager, third generation.", [(237, 'Ты же завхоз в третьем поколении')], "cue 236 'Чего ты из себя мафиози строишь?' (why are you playing the mafia boss) simplified to 'Ты что, мафия?'"),
+    ('pasha', 'Значит, предложение такое. Ты мне говоришь, где твои сорок миллионов.', "So, here's the offer. You tell me where your forty million is.", [(240, 'Значит, предложение такое'), (241, 'Ты мне говоришь, где твои')], "slang 'лямов' -> 'миллионов'"),
+    ('arkady', 'А ты мне что?', 'And what do I get from you?', [], 'a link between the two halves of cue 241'),
+    ('pasha', 'А я тебе делаю условный срок. Плюс ты забираешь все деньги Вики.', "And I get you a suspended sentence. Plus you take all of Vika's money.", [(241, 'я тебе делаю'), (242, 'Плюс ты забираешь все')], "slang 'условку' -> 'условный срок', 'бабки, которые в комоде лежат у Вики' -> 'деньги Вики'; cue 243 (Vika herself thrown in) left out"),
+    ('arkady', 'Предложение, конечно, хорошее. Знаешь, что я тебе скажу?', "It's a good offer, of course. Do you know what I'll tell you?", [(245, 'Предложение, конечно, хорошее'), (246, 'Знаешь, что я тебе скажу')], ''),
+    ('pasha', 'Что?', 'What?', [(247, 'Что')], ''),
+    ('arkady', 'Я выйду отсюда, меня оправдают. Аракелян заявление заберёт.', "I'll get out of here, they'll acquit me. Arakelyan will withdraw his statement.", [(249, 'Я выйду отсюда, меня оправдают'), (250, 'заявление заберет')], "the cue's 'Ракелян' is a slip for Arakelyan"),
+    ('arkady', 'Ай! Больно, больно!', 'Ow! It hurts, it hurts!', [(251, 'больно, больно')], "'Ай!' added; the guards twist his hand"),
+    ('pasha', 'Значит так, срок у тебя до вечера, понял?', "Right then, you've got until tonight, understood?", [(252, 'Значит так, срок у тебя до вечера, понял')], "'Аркадий Борисович' moved to the goodbye"),
+    ('arkady', 'А если нет?', 'And if not?', [], "a simpler stand-in for cue 254 'А если не приму?' (and if I don't [make that decision]?)"),
+    ('pasha', 'Тогда ребята с тобой поработают. До свидания, Аркадий Борисович.', 'Then the boys will have a little word with you. Goodbye, Arkady Borisovich.', [(256, 'с тобой поработают'), (259, 'До свидания, Аркадий Борисович')], "cue 255 ('then we move on to physical threats') folded into 'Тогда'"),
+    ('arkady', 'До свидания.', 'Goodbye.', [(260, 'До свидания')], ''),
+]
 WALK = [
     (0, None, "'Pasha, what does all this mean?' Word for word: 'what all this means'. He still talks to Pasha as his junior, with the informal 'you'. Pasha explains, very sweetly."),
     (1, 'Мы все скидываемся на кластер.', "'We're all chipping in for the cluster.' The cluster is the big industrial project with partners from Moscow. The verb means 'to chip in', when everyone puts money together. Then the sum."),
@@ -59,6 +61,3 @@ WALK = [
     (15, 'До свидания, Аркадий Борисович.', "'Goodbye, Arkady Borisovich.' First name plus father's name: the respectful way. Coming from Pasha now, it's pure mockery. Arkady answers the only way he can."),
     (16, None, "'Goodbye.' The standard polite goodbye. Literally 'until we see each other again'."),
 ]
-TRANSITION = "Let's listen to the whole conversation again from the top."
-OUTRO = "So Arkady has until evening to give up his forty million, and he isn't giving in. Listen for the deal and the deadline when you watch. See you next time!"
-CLOSING = ("anya", "Пока!")

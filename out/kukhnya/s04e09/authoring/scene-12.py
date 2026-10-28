@@ -1,18 +1,20 @@
+# Authoring module for kukhnya-s04e09-scene-12.
 ID = 'kukhnya-s04e09-scene-12'
 SHOW = 'kukhnya'
 SEASON = 4
 EPISODE = 9
 SCENE = 12
-TITLE = "Магнитные бури  (Magnetic Storms)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Магнитные бури  (Magnetic Storms)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "anya": "alisa", "senya": "angelina", "german": "anja"}
-LABELS = {"anya": "Макс", "senya": "Сеня", "german": "Герман"}
+LABELS = {'german': 'Герман', 'max': 'Макс', 'senya': 'Сеня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S4.09'
 SOURCE_FILE = 'sources/kukhnya/s04/e09.ru.srt'
-
 INTRO = 'When German wakes up on his office floor, the chefs quickly convince him he fainted from magnetic storms, while across town Max discovers he brought the wrong toddler home.'
-
+OPENER = "Let's examine each line as German wakes up and Max calls Kostya in a panic."
+TRANSITION = 'Now listen to the entire exchange again at natural speed.'
+OUTRO = "Listen for how Russian asks 'do you feel better?' in just two words using the dative pronoun and the comparative adverb. See you next time!"
+CLOSING = ('senya', 'До завтра!')
 STORY = [
     ('senya', 'Герман Михайлович, вам лучше?', 'German Mikhailovich, do you feel better?', [(160, 'Герман Михайлович, вам лучше')], ''),
     ('senya', 'Вы в обморок упали.', 'You fell into a faint.', [(161, 'Вы в обморок упали')], ''),
@@ -20,31 +22,24 @@ STORY = [
     ('senya', 'Сегодня магнитные бури сильные.', 'There are strong magnetic storms today.', [(163, 'сегодня магнитные бури сильные')], ''),
     ('german', 'Долго я в отключке был?', 'Was I knocked out for a long time?', [(165, 'Долго я в отключке был')], ''),
     ('german', 'Я сейчас ненадолго отъеду.', 'I am going to drive away for a bit now.', [(168, 'Я отъеду')], 'adapted for A1 clarity'),
-    ('anya', 'Алло, Костя, звони папе Насти.', "Hello, Kostya, call Nastya's dad.", [(169, 'звони папе Насте')], 'adapted for A1 clarity'),
-    ('anya', 'Пусть он обратно едет.', 'Have him drive back here.', [(169, 'пусть обратно едет')], 'adapted for A1 clarity'),
-    ('anya', 'Стёпа маску дома забыл.', 'Styopa forgot his mask at home.', [(170, 'Степа, Человека-паука забыл')], 'adapted for A1 clarity'),
-    ('anya', 'Лучше привезти его сейчас.', 'It is better to bring him back right now.', [(172, 'Лучше сейчас')], 'adapted for A1 clarity'),
-    ('anya', 'Тут мальчик, два годика, зовут Рома.', 'There is a boy here, two years old, named Roma.', [(173, 'мальчик, два годика, зовут Рома')], 'adapted for A1 clarity'),
-    ('anya', 'И майка у него с пауком.', 'And he has a shirt with a spider.', [(174, 'и майка у него с')], 'adapted for A1 clarity'),
+    ('max', 'Алло, Костя, звони папе Насти.', "Hello, Kostya, call Nastya's dad.", [(169, 'звони папе Насте')], 'adapted for A1 clarity'),
+    ('max', 'Пусть он обратно едет.', 'Have him drive back here.', [(169, 'пусть обратно едет')], 'adapted for A1 clarity'),
+    ('max', 'Стёпа маску дома забыл.', 'Styopa forgot his mask at home.', [(170, 'Степа, Человека-паука забыл')], 'adapted for A1 clarity'),
+    ('max', 'Лучше привезти его сейчас.', 'It is better to bring him back right now.', [(172, 'Лучше сейчас')], 'adapted for A1 clarity'),
+    ('max', 'Тут мальчик, два годика, зовут Рома.', 'There is a boy here, two years old, named Roma.', [(173, 'мальчик, два годика, зовут Рома')], 'adapted for A1 clarity'),
+    ('max', 'И майка у него с пауком.', 'And he has a shirt with a spider.', [(174, 'и майка у него с')], 'adapted for A1 clarity'),
 ]
-
-OPENER = "Let's examine each line as German wakes up and Max calls Kostya in a panic."
-
 WALK = [
-    (0, None, "'German Mikhailovich, do you feel better?' In spoken Russian, the words stay in their normal statement order and Senya's rising voice at the end turns the line into a question."),
-    (1, None, "'You fell into a faint.' Notice how Russian puts 'faint' and 'to fall, to drop' together in a short, direct phrase where word endings show how the ideas connect."),
-    (2, None, "'What happened to me?' German centers this short reply on 'happened', letting a few direct words carry the whole meaning."),
-    (3, None, "'There are strong magnetic storms today.' Russian people often humorously or seriously blame sudden dizziness or headaches on solar magnetic storms."),
-    (4, None, "'Was I knocked out for a long time?' The colloquial noun phrase 'in a blackout' is a colorful slang way to say unconscious or out cold."),
-    (5, None, "'I am going to drive away for a bit now.' The prefix 'ot-' on the driving verb means to step out or drive off for a short errand."),
-    (6, None, "'Hello, Kostya, call Nastya's dad.' Here Max anchors the thought on 'call' and finishes on 'Nastya', keeping the spoken rhythm brisk and natural."),
-    (7, None, "'Have him drive back here.' The particle at the front forms a third-person command meaning 'let him drive back'."),
-    (8, None, "'Styopa forgot his mask at home.' Max pairs 'styopa' with 'to forget' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'."),
-    (9, None, "'It is better to bring him back right now.' Notice how Russian puts 'better' and 'right now' together in a short, direct phrase where word endings show how the ideas connect."),
-    (10, None, "'There is a boy here, two years old, named Roma.' Literally 'they call him Roma', Russian uses the third-person plural verb to state someone's name."),
-    (11, None, "'And he has a shirt with a spider.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'."),
+    (0, None, '\'German Mikhailovich, do you feel better?\' Asking whether German feels better cuts straight through the tension between Senya and German. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.'),
+    (1, None, "'You fell into a faint.' Explaining that German fell into a faint lays the cards on the table for German."),
+    (2, None, '\'What happened to me?\' Over the police and the apartment, German presses Max for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.'),
+    (3, None, "'There are strong magnetic storms today.' Claiming that there are strong magnetic storms today sounds confident, even if German has doubts."),
+    (4, None, "'Was I knocked out for a long time?' Checking whether he knocked out for a long time cuts straight through the tension between German and Max."),
+    (5, None, "'I am going to drive away for a bit now.' Saying that he is going to drive away for a bit now is how German sets the tone with Max."),
+    (6, None, "'Hello, Kostya, call Nastya's dad.' Realizing that German should call Nastya dad changes how Max handles the situation."),
+    (7, None, "'Have him drive back here.' Noting that have him drive back here keeps Max's side of the story simple and clear."),
+    (8, None, "'Styopa forgot his mask at home.' Even though Styopa forgot his mask at home, Max keeps a steady face in front of German."),
+    (9, None, "'It is better to bring him back right now.' Admitting that it is better to bring him back right now shows Max being honest for a change."),
+    (10, None, "'There is a boy here, two years old, named Roma.' Saying that there is a boy here two years old named Roma is how Max sets the tone with German."),
+    (11, None, '\'And he has a shirt with a spider.\' Explaining that he has a shirt with a spider lays the cards on the table for German. Russian expresses having something as "by me is", keeping the phrase short and grounded.'),
 ]
-
-TRANSITION = 'Now listen to the entire exchange again at natural speed.'
-OUTRO = "Listen for how Russian asks 'do you feel better?' in just two words using the dative pronoun and the comparative adverb. See you next time!"
-CLOSING = ("senya", "До завтра!")

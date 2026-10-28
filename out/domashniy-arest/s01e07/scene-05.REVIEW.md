@@ -10,27 +10,27 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | У нас рейтинги сравнялись с Осипенко? Прекрасно, пойдём! | Our ratings have caught up with Osipenko's? Wonderful, let's go! | #205 00:10:47: у нас<br>#205 00:10:47: рейтинги сравнялись<br>#207 00:10:55: Прекрасно. Ну, пойдем | adapted: Ilona's news in 204-206 echoed by Arkady; ASR 'со сибирскими' (205) -> 'с Осипенко' |
-| 2 | Аня | Забудь про эти цветы. Сейчас сама всё увидишь. | Forget about these flowers. You'll see everything yourself right now. | #209 00:10:58: Забудь про | adapted: answers Ilona's question in 208-210 about the discarded bouquets |
-| 3 | Эдуард Владимирович | Марина, это было что-то ужасное! Алла Евгеньевна вчера заболела. | Marina, it was something awful! Alla Evgenyevna got sick yesterday. | #211 00:11:03: Это было что-то ужасное<br>#212 00:11:04: Алла Евгеньевна<br>#217 00:11:18: она заболела | adapted: 'подхватила кишечный грипп' (212) and basins (213) simplified to clean A1 |
-| 4 | Марина | Не хочу слышать об Алле Евгеньевне! | I don't want to hear about Alla Evgenyevna! | #214 00:11:10: Не хочу слышать<br>#214 00:11:10: об Алле Евгеньевне | adapted: 'ни об её тазах' omitted |
-| 5 | Эдуард Владимирович | Да, конечно. Прости меня, Марина, прости. | Yes, of course. Forgive me, Marina, forgive me. | #215 00:11:13: Да, конечно. Прости меня<br>#215 00:11:13: прости | adapted: diminutive 'Мариночка' -> 'Марина' |
-| 6 | Эдуард Владимирович | Я просто глупый. Она целый день лежит дома. | I'm just foolish. She is lying at home all day. | #216 00:11:16: Я просто<br>#217 00:11:18: она целый день лежит дома | adapted: 'дурак' (216) -> 'глупый' |
-| 7 | Марина | А почему ты сейчас не с Аллой Евгеньевной? | Then why aren't you with Alla Evgenyevna right now? | #218 00:11:21: А<br>#218 00:11:21: ты сейчас | adapted: ASR 'что ты сейчас нес Алла Евгеньевна' (218) restored to 'почему ты сейчас не с Аллой Евгеньевной' |
-| 8 | Эдуард Владимирович | Потому что я тебя люблю! Я всю ночь не спал. | Because I love you! I didn't sleep all night. | #219 00:11:22: Потому что я<br>#219 00:11:22: я тебя люблю<br>#220 00:11:25: Я всю ночь не спал | verbatim |
-| 9 | Эдуард Владимирович | Я так хотел к тебе! И утром я всё придумал. | I wanted to come to you so badly! And in the morning I thought of everything. | #220 00:11:25: я так хотел к тебе<br>#221 00:11:27: И утром | adapted: 'когда я проснулся' simplified |
-| 10 | Эдуард Владимирович | Я сказал жене, что еду в Плёс. Там научная встреча. | I told my wife that I'm going to Plyos. There is an academic conference there. | #221 00:11:27: я сказал<br>#222 00:11:31: в Плёс | adapted: 'уезжаю на два дня в Плёс на симпозиум' split into two short A1 sentences |
-| 11 | Эдуард Владимирович | Я уехал на два дня. Поэтому мы два дня будем вместе! | I left for two days. So we will be together for two days! | #222 00:11:31: на два дня<br>#223 00:11:34: Поэтому мы два дня будем вместе | verbatim |
-| 12 | Марина | Ты какой смелый! А что ты будешь делать, если она узнает? | How brave you are! And what will you do if she finds out? | #224 00:11:36: Ты какой смелый<br>#225 00:11:37: А что ты будешь делать, если она узнает | verbatim |
-| 13 | Эдуард Владимирович | Мне всё равно! Я хочу быть только с тобой, понимаешь? | I don't care! I want to be only with you, do you understand? | #228 00:11:41: Я хочу быть с тобой<br>#229 00:11:42: С тобой, понимаешь | adapted: colloquial 'мне плевать' (226-227) -> 'Мне всё равно' |
-| 14 | Марина | И с Аллой Евгеньевной. | And with Alla Evgenyevna. | #230 00:11:44: И с Аллой Евгеньевной | verbatim |
-| 15 | Эдуард Владимирович | Нет, я всё решил! Мы с ней точно расстанемся. | No, I have decided everything! She and I will definitely break up. | #231 00:11:45: Нет<br>#234 00:11:48: Точно расстанемся<br>#239 00:11:57: Я всё решил | verbatim |
-| 16 | Эдуард Владимирович | И всё изменится! Марина, ну послушай меня! | And everything will change! Marina, just listen to me! | #235 00:11:49: И всё изменится<br>#236 00:11:51: Марина, ну послушай меня | verbatim |
+| 1 | Аркадий | У нас рейтинги сравнялись с Осипенко? Прекрасно, пойдём! | Our ratings have caught up with Osipenko's? Wonderful, let's go! | #205: у нас<br>#205: рейтинги сравнялись<br>#207: Прекрасно. Ну, пойдем | adapted: Ilona's news in 204-206 echoed by Arkady; ASR 'со сибирскими' (205) -> 'с Осипенко' |
+| 2 | Аркадий | Забудь про эти цветы. Сейчас сама всё увидишь. | Forget about these flowers. You'll see everything yourself right now. | #209: Забудь про | adapted: answers Ilona's question in 208-210 about the discarded bouquets |
+| 3 | Эдуард Владимирович | Марина, это было что-то ужасное! Алла Евгеньевна вчера заболела. | Marina, it was something awful! Alla Evgenyevna got sick yesterday. | #211: Это было что-то ужасное<br>#212: Алла Евгеньевна<br>#217: она заболела | adapted: 'подхватила кишечный грипп' (212) and basins (213) simplified to clean A1 |
+| 4 | Марина | Не хочу слышать об Алле Евгеньевне! | I don't want to hear about Alla Evgenyevna! | #214: Не хочу слышать<br>#214: об Алле Евгеньевне | adapted: 'ни об её тазах' omitted |
+| 5 | Эдуард Владимирович | Да, конечно. Прости меня, Марина, прости. | Yes, of course. Forgive me, Marina, forgive me. | #215: Да, конечно. Прости меня<br>#215: прости | adapted: diminutive 'Мариночка' -> 'Марина' |
+| 6 | Эдуард Владимирович | Я просто глупый. Она целый день лежит дома. | I'm just foolish. She is lying at home all day. | #216: Я просто<br>#217: она целый день лежит дома | adapted: 'дурак' (216) -> 'глупый' |
+| 7 | Марина | А почему ты сейчас не с Аллой Евгеньевной? | Then why aren't you with Alla Evgenyevna right now? | #218: А<br>#218: ты сейчас | adapted: ASR 'что ты сейчас нес Алла Евгеньевна' (218) restored to 'почему ты сейчас не с Аллой Евгеньевной' |
+| 8 | Эдуард Владимирович | Потому что я тебя люблю! Я всю ночь не спал. | Because I love you! I didn't sleep all night. | #219: Потому что я<br>#219: я тебя люблю<br>#220: Я всю ночь не спал | verbatim |
+| 9 | Эдуард Владимирович | Я так хотел к тебе! И утром я всё придумал. | I wanted to come to you so badly! And in the morning I thought of everything. | #220: я так хотел к тебе<br>#221: И утром | adapted: 'когда я проснулся' simplified |
+| 10 | Эдуард Владимирович | Я сказал жене, что еду в Плёс. Там научная встреча. | I told my wife that I'm going to Plyos. There is an academic conference there. | #221: я сказал<br>#222: в Плёс | adapted: 'уезжаю на два дня в Плёс на симпозиум' split into two short A1 sentences |
+| 11 | Эдуард Владимирович | Я уехал на два дня. Поэтому мы два дня будем вместе! | I left for two days. So we will be together for two days! | #222: на два дня<br>#223: Поэтому мы два дня будем вместе | verbatim |
+| 12 | Марина | Ты какой смелый! А что ты будешь делать, если она узнает? | How brave you are! And what will you do if she finds out? | #224: Ты какой смелый<br>#225: А что ты будешь делать, если она узнает | verbatim |
+| 13 | Эдуард Владимирович | Мне всё равно! Я хочу быть только с тобой, понимаешь? | I don't care! I want to be only with you, do you understand? | #228: Я хочу быть с тобой<br>#229: С тобой, понимаешь | adapted: colloquial 'мне плевать' (226-227) -> 'Мне всё равно' |
+| 14 | Марина | И с Аллой Евгеньевной. | And with Alla Evgenyevna. | #230: И с Аллой Евгеньевной | verbatim |
+| 15 | Эдуард Владимирович | Нет, я всё решил! Мы с ней точно расстанемся. | No, I have decided everything! She and I will definitely break up. | #231: Нет<br>#234: Точно расстанемся<br>#239: Я всё решил | verbatim |
+| 16 | Эдуард Владимирович | И всё изменится! Марина, ну послушай меня! | And everything will change! Marina, just listen to me! | #235: И всё изменится<br>#236: Марина, ну послушай меня | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Our ratings have caught up with Osipenko's? Wonderful, let's go!' Arkady is delighted by the campaign news.
-- 'Forget about these flowers.' Ilona notices the crushed flowers on the stairs, and Arkady waves them off.
+- 'Forget about these flowers.' Here, Ilona notices the crushed flowers on the stairs, and Arkady waves them off.
 - 'You'll see everything yourself right now.' Arkady leads Ilona up to Marina's door.
 - 'Marina, it was something awful!' Eduard explains his sudden disappearance the evening before.
 - 'Alla Evgenyevna got sick yesterday.' Notice that the adjective stands in the neuter singular after 'something'.

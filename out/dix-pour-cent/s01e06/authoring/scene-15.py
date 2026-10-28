@@ -7,29 +7,28 @@ SCENE = 15
 TITLE = "L'audition de Sofia  (Sofia's Audition)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'sofia': 'emilie', 'gabriel': 'theo'}
-LABELS = {'sofia': 'Sofia', 'gabriel': 'Gabriel'}
+LABELS = {'constance': 'Constance', 'gabriel': 'Gabriel', 'sofia': 'Sofia'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e06.fr.dual.srt'
 INTRO = "At the dance and casting studio, Sofia arrives for her big callback in Luc Besson's action film. Gabriel urges her to stay natural and relaxed, but when the casting director asks for the action scene, Sofia launches into an over-the-top combat performance that takes everyone by surprise. Let's listen to the scene in French first."
 OPENER = "Now let's walk through the audition scene line by line and examine the key French phrases."
 TRANSITION = "Now let's listen to the entire dialogue once more."
 OUTRO = 'Sofia gave the audition everything she had, but her intense kung-fu styling was not what Constance had in mind. Remember the phrase for starting right away: all of a continuation. See you next time!'
-CLOSING = ('gabriel', 'À demain!')
+CLOSING = ('constance', 'À demain!')
 STORY = [
     ('gabriel', "Ne t'inquiète pas, sois naturelle.", 'Don', [(424, 'On y va')], ''),
-    ('gabriel', 'Sofia, on y va?', 'Sofia, shall we go?', [(423, 'Sofia'), (424, 'On y va')], ''),
+    ('constance', 'Sofia, on y va?', 'Sofia, shall we go?', [(423, 'Sofia'), (424, 'On y va')], ''),
     ('sofia', 'Oui, je suis prête.', 'Yes, I am ready.', [(425, 'Désolée, oui')], ''),
     ('sofia', "Je m'appelle Sofia Leprince, j'ai 25 ans.", 'My name is Sofia Leprince, I am twenty-five years old.', [(426, "Je m'appelle Sofia Leprince, j'ai 25 ans")], ''),
     ('sofia', 'Et mon agent est Gabriel Sarda chez ASK.', 'And my agent is Gabriel Sarda at ASK.', [(427, 'et mon agent est Gabriel Sarda chez ASK')], ''),
-    ('gabriel', 'Parfait! On commence tout de suite.', 'Perfect! We start right away.', [(428, 'Parfait'), (428, 'On commence')], ''),
-    ('gabriel', "D'abord la chorégraphie, ensuite votre scène, d'accord?", 'First the choreography, then your scene, okay?', [(429, "D'abord la chorégraphie, ensuite votre scène, d'accord")], ''),
+    ('constance', 'Parfait! On commence tout de suite.', 'Perfect! We start right away.', [(428, 'Parfait'), (428, 'On commence')], ''),
+    ('constance', "D'abord la chorégraphie, ensuite votre scène, d'accord?", 'First the choreography, then your scene, okay?', [(429, "D'abord la chorégraphie, ensuite votre scène, d'accord")], ''),
     ('sofia', "D'accord, quand vous voulez.", 'Okay, whenever you want.', [(430, "D'accord"), (431, 'Quand vous voulez')], ''),
     ('sofia', 'Ils veulent se battre avec moi?', 'They want to fight with me?', [(433, 'Ils veulent se frotter à moi')], ''),
     ('sofia', "Je cours plus vite qu'eux!", 'I run faster than them!', [(434, "Je cours plus vite qu'eux")], ''),
     ('sofia', 'Maintenant je suis là, maintenant je ne suis plus là!', 'Now I am here, now I am no longer here!', [(435, 'Maintenant je suis là, maintenant je suis plus là')], ''),
     ('sofia', 'Vous me voyez atterrir comme une héroïne?', 'Do you see me landing like a heroine?', [(436, 'Vous me voyez'), (436, 'atterrir comme')], ''),
-    ('gabriel', "Ce n'est pas du tout ce que j'avais demandé.", 'This is not at all what I had asked for.', [(413, 'pas')], ''),
+    ('constance', "Ce n'est pas du tout ce que j'avais demandé.", 'This is not at all what I had asked for.', [(413, 'pas')], ''),
 ]
 WALK = [
     (0, None, "'Don't worry, be natural.' In the studio hallway, Gabriel reassures his nervous client. Gabriel opens with the word for 'worry' and lands on 'natural' at the close."),

@@ -10,20 +10,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Самсон | А что это вы здесь? | What are you doing in here? | #898 00:46:55: это вы здесь | adapted: 'А че' -> 'А что' |
-| 2 | Самсон | Да ничего, сынок. Всё нормально. | Nothing, son. Everything's fine. | #899 00:46:57: Да ничего, сынок<br>#900 00:46:58: Все нормально | verbatim |
-| 3 | Самсон | А что это ты в квартиру принёс? | And what is that you brought into the flat? | #901 00:46:59: это ты в<br>#901 00:46:59: принес | adapted: cue 901 given to Samson (Nina has no voice); 'че' -> 'что', 'квартиру-то' -> 'квартиру' |
-| 4 | Самсон | Дядя Аркаша попросил. | Uncle Arkasha asked me to. | #902 00:47:03: Дядя Аркаша попросил | verbatim |
-| 5 | Самсон | Видишь, Аркаша, он собаку принёс тебе. | See, Arkasha, he brought you a dog. | #903 00:47:04: видишь, Аркаша, собаку<br>#903 00:47:04: тебе | adapted: cue 903 has the transcription slip 'принеси' for 'принёс'; 'он' added |
-| 6 | Аня | Слушайте, мне нужно одному остаться. | Listen, I need to be left alone. | #904 00:47:07: Слушайте<br>#904 00:47:07: мне нужно одному остаться | adapted: 'а' dropped |
-| 7 | Аня | Мне нужно сосредоточиться. | I need to concentrate. | #905 00:47:09: мне нужно сосредоточиться | adapted: 'Оставьте,' dropped |
-| 8 | Самсон | Хорошо, давай, пойдём. | All right, come on, let's go. | #906 00:47:11: Хорошо, давай, пойдем | verbatim |
-| 9 | Аня | Славик, давай сюда собаку. | Slavik, hand over the dog. | #909 00:47:15: Давай<br>#909 00:47:15: собаку | adapted: 'Славик, ... сюда' added |
-| 10 | Самсон | А Лёля? Вы же обещали. | What about Lyolya? You promised. | #910 00:47:16: А Леля<br>#912 00:47:21: Обещали | adapted: 'Вы же' added |
-| 11 | Аня | Да будет твоя Лёля, я сказал. Иди. | You'll get your Lyolya, I said. Go on. | #911 00:47:17: Да будет твоя Леля, я сказал. Иди | verbatim |
-| 12 | Аня | Что, малыш? Испугался? | What is it, little guy? Are you scared? | #914 00:47:23: Что<br>#915 00:48:06: Испугался | adapted: crude 'гнида' (914) -> 'малыш' |
-| 13 | Аня | Я сейчас выйду отсюда. | I'm getting out of here right now. | #916 00:48:07: Я сейчас выйду отсюда | verbatim |
-| 14 | Аня | Смотри сюда. А ты посиди потихонечку. | Look here. You just sit quietly for a bit. | #921 00:48:24: Смотри сюда<br>#922 00:48:42: потихонечку | adapted: 'Посиди-ка' -> 'А ты посиди' |
+| 1 | Славик | А что это вы здесь? | What are you doing in here? | #898: это вы здесь | adapted: 'А че' -> 'А что' |
+| 2 | Самсон | Да ничего, сынок. Всё нормально. | Nothing, son. Everything's fine. | #899: Да ничего, сынок<br>#900: Все нормально | verbatim |
+| 3 | Самсон | А что это ты в квартиру принёс? | And what is that you brought into the flat? | #901: это ты в<br>#901: принес | adapted: cue 901 given to Samson (Nina has no voice); 'че' -> 'что', 'квартиру-то' -> 'квартиру' |
+| 4 | Славик | Дядя Аркаша попросил. | Uncle Arkasha asked me to. | #902: Дядя Аркаша попросил | verbatim |
+| 5 | Самсон | Видишь, Аркаша, он собаку принёс тебе. | See, Arkasha, he brought you a dog. | #903: видишь, Аркаша, собаку<br>#903: тебе | adapted: cue 903 has the transcription slip 'принеси' for 'принёс'; 'он' added |
+| 6 | Аркадий | Слушайте, мне нужно одному остаться. | Listen, I need to be left alone. | #904: Слушайте<br>#904: мне нужно одному остаться | adapted: 'а' dropped |
+| 7 | Аркадий | Мне нужно сосредоточиться. | I need to concentrate. | #905: мне нужно сосредоточиться | adapted: 'Оставьте,' dropped |
+| 8 | Самсон | Хорошо, давай, пойдём. | All right, come on, let's go. | #906: Хорошо, давай, пойдем | verbatim |
+| 9 | Аркадий | Славик, давай сюда собаку. | Slavik, hand over the dog. | #909: Давай<br>#909: собаку | adapted: 'Славик, ... сюда' added |
+| 10 | Славик | А Лёля? Вы же обещали. | What about Lyolya? You promised. | #910: А Леля<br>#912: Обещали | adapted: 'Вы же' added |
+| 11 | Аркадий | Да будет твоя Лёля, я сказал. Иди. | You'll get your Lyolya, I said. Go on. | #911: Да будет твоя Леля, я сказал. Иди | verbatim |
+| 12 | Аркадий | Что, малыш? Испугался? | What is it, little guy? Are you scared? | #914: Что<br>#915: Испугался | adapted: crude 'гнида' (914) -> 'малыш' |
+| 13 | Аркадий | Я сейчас выйду отсюда. | I'm getting out of here right now. | #916: Я сейчас выйду отсюда | verbatim |
+| 14 | Аркадий | Смотри сюда. А ты посиди потихонечку. | Look here. You just sit quietly for a bit. | #921: Смотри сюда<br>#922: потихонечку | adapted: 'Посиди-ка' -> 'А ты посиди' |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

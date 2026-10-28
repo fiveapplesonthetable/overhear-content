@@ -10,24 +10,24 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Самсон | Я знаю наш город как никто. | I know our town like nobody else. | #991 00:56:31: знаю<br>#991 00:56:31: как никто | adapted: 'знаю его как никто' -> 'знаю наш город как никто' |
-| 2 | Самсон | Поэтому я решил стать мэром. | That's why I've decided to become mayor. | #994 00:56:46: Поэтому я решил | adapted: 'выдвинуть свою кандидатуру на пост главы города' -> 'стать мэром' |
-| 3 | Самсон | Смотри, как он говорит! | Look how he talks! | #995 00:56:51: смотри, как | adapted: 'гладко чешет' (slang: talks smoothly) -> 'говорит' |
-| 4 | Аня | Это он у меня научился. | He learned that from me. | #996 00:56:55: Меня научился | adapted: 'Это он у' added (standard grammar) |
-| 5 | Самсон | Мы построим кластер. Это тысячи рабочих мест. | We will build the cluster. That means thousands of jobs. | #999 00:57:03: кластер<br>#1001 00:57:08: тысячи рабочих мест | adapted: two long lines of the speech cut down |
-| 6 | Аня | Паша, эти выборы ты не выиграешь. | Pasha, you won't win this election. | #1003 00:57:17: эти выборы | adapted: clean version of cue 1003 (a rude 'like hell you'll win'); 'Пашенька' -> 'Паша' |
+| 1 | Паша | Я знаю наш город как никто. | I know our town like nobody else. | #991: знаю<br>#991: как никто | adapted: 'знаю его как никто' -> 'знаю наш город как никто' |
+| 2 | Паша | Поэтому я решил стать мэром. | That's why I've decided to become mayor. | #994: Поэтому я решил | adapted: 'выдвинуть свою кандидатуру на пост главы города' -> 'стать мэром' |
+| 3 | Самсон | Смотри, как он говорит! | Look how he talks! | #995: смотри, как | adapted: 'гладко чешет' (slang: talks smoothly) -> 'говорит' |
+| 4 | Аркадий | Это он у меня научился. | He learned that from me. | #996: Меня научился | adapted: 'Это он у' added (standard grammar) |
+| 5 | Паша | Мы построим кластер. Это тысячи рабочих мест. | We will build the cluster. That means thousands of jobs. | #999: кластер<br>#1001: тысячи рабочих мест | adapted: two long lines of the speech cut down |
+| 6 | Аркадий | Паша, эти выборы ты не выиграешь. | Pasha, you won't win this election. | #1003: эти выборы | adapted: clean version of cue 1003 (a rude 'like hell you'll win'); 'Пашенька' -> 'Паша' |
 | 7 | Самсон | Да ладно! | Oh, come on! | new | new: new: Samson's usual reaction (characters.md) |
-| 8 | Аня | Очень плохая водка. | Very bad vodka. | #1004 00:57:20: Очень плохая водка | verbatim |
-| 9 | Самсон | Ничего, ничего. | Never mind, never mind. | #1005 00:57:38: Ничего, ничего | verbatim |
-| 10 | Аня | Как говорит наш губернатор, выход всегда есть. | As our governor says, there's always a way out. | #1006 00:57:41: Как говорит наш губернатор, выход всегда есть | verbatim |
+| 8 | Аркадий | Очень плохая водка. | Very bad vodka. | #1004: Очень плохая водка | verbatim |
+| 9 | Самсон | Ничего, ничего. | Never mind, never mind. | #1005: Ничего, ничего | verbatim |
+| 10 | Аркадий | Как говорит наш губернатор, выход всегда есть. | As our governor says, there's always a way out. | #1006: Как говорит наш губернатор, выход всегда есть | verbatim |
 | 11 | Самсон | Ну-ну. | Yeah, sure. | new | new: new: Samson doesn't buy it (cue 1009 'Ну ладно, ты прямо') |
-| 12 | Самсон | Хочешь, честно скажу? | Do you want me to tell you honestly? | #1013 00:58:02: хочешь | adapted: 'по чесноку' (slang) -> 'честно' |
-| 13 | Аня | Скажи. | Tell me. | new | new: new |
-| 14 | Самсон | Мне всё равно. Что ты, что он. | It's all the same to me. You or him. | #1015 00:58:10: Что ты, что он | adapted: 'по мне один хрен' (cue 1014, crude) -> 'Мне всё равно' |
-| 15 | Аня | Почему? | Why? | new | new: new |
-| 16 | Самсон | Вы все воры. | You're all thieves. | #1016 00:58:14: все воры | adapted: 'мы' -> 'вы' (he means the officials); 'уроды' dropped |
-| 17 | Аня | Ну, спасибо. | Well, thanks. | new | new: new: Arkady's dry answer |
-| 18 | Самсон | И знаешь, что самое главное? Всем всё равно. | And you know the main thing? Nobody cares. | #1025 00:58:47: что самое главное | adapted: 'Знаете' -> 'знаешь'; 'Никому' -> 'Всем всё равно' |
+| 12 | Самсон | Хочешь, честно скажу? | Do you want me to tell you honestly? | #1013: хочешь | adapted: 'по чесноку' (slang) -> 'честно' |
+| 13 | Аркадий | Скажи. | Tell me. | new | new: new |
+| 14 | Самсон | Мне всё равно. Что ты, что он. | It's all the same to me. You or him. | #1015: Что ты, что он | adapted: 'по мне один хрен' (cue 1014, crude) -> 'Мне всё равно' |
+| 15 | Аркадий | Почему? | Why? | new | new: new |
+| 16 | Самсон | Вы все воры. | You're all thieves. | #1016: все воры | adapted: 'мы' -> 'вы' (he means the officials); 'уроды' dropped |
+| 17 | Аркадий | Ну, спасибо. | Well, thanks. | new | new: new: Arkady's dry answer |
+| 18 | Самсон | И знаешь, что самое главное? Всем всё равно. | And you know the main thing? Nobody cares. | #1025: что самое главное | adapted: 'Знаете' -> 'знаешь'; 'Никому' -> 'Всем всё равно' |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

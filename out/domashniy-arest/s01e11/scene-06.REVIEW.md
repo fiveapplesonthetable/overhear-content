@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Паша | Так, ещё раз внятно повторите. | So, repeat that clearly once more. | #105 00:07:09: еще раз внятно | verbatim |
-| 2 | Помощник | Сам президент скоро приедет к нам. | the president will arrive here soon. | #106 00:07:12: Президент<br>#108 00:07:21: решил заглянуть к нам | verbatim |
-| 3 | Помощник | Он посетит аэродром в нашей области. | He will visit an airfield in our region. | #107 00:07:17: военный аэродром | verbatim |
-| 4 | Помощник | Он хочет лично познакомиться с Иваном Самсоновым. | He wants to meet Ivan Samsonov in person. | #108 00:07:21: лично познакомиться с<br>#108 00:07:21: Иваном Самсоновым | verbatim |
-| 5 | Паша | Подождите, это вообще точная информация? | Wait, is this information accurate at all? | #109 00:07:28: эту информацию подтвердили | verbatim |
-| 6 | Помощник | Мы связались с администрацией президента. | We contacted the presidential administration. | #109 00:07:28: Мы связались с администрацией президента | verbatim |
-| 7 | Помощник | Там эту информацию официально подтвердили. | There they officially confirmed this information. | #109 00:07:28: там эту информацию подтвердили | verbatim |
-| 8 | Паша | А со мной встреча будет? | And will there be a meeting with me? | #110 00:07:32: А со мной | verbatim |
-| 9 | Помощник | Больше никаких визитов не запланировано. | No further visits are planned. | #111 00:07:35: Больше никаких визитов не запланировано | verbatim |
-| 10 | Паша | А как же действующий губернатор? | And what about the current governor? | #113 00:07:42: губернатором | verbatim |
-| 11 | Паша | Я тоже могу туда подъехать! | I can drive over there too! | #112 00:07:40: я тоже подъеду | verbatim |
-| 12 | Помощник | Нет, с губернатором они тоже не встречаются. | No, they are not meeting with the governor either. | #113 00:07:42: Нет, с губернатором тоже не встречаются | verbatim |
-| 13 | Помощник | Президент встретится только с Самсоновым. | The president will meet only with Samsonov. | #113 00:07:42: только с Самсоновым | verbatim |
+| 1 | Паша | Так, ещё раз внятно повторите. | So, repeat that clearly once more. | #105: еще раз внятно | verbatim |
+| 2 | Помощник | Сам президент скоро приедет к нам. | the president will arrive here soon. | #106: Президент<br>#108: решил заглянуть к нам | verbatim |
+| 3 | Помощник | Он посетит аэродром в нашей области. | He will visit an airfield in our region. | #107: военный аэродром | verbatim |
+| 4 | Помощник | Он хочет лично познакомиться с Иваном Самсоновым. | He wants to meet Ivan Samsonov in person. | #108: лично познакомиться с<br>#108: Иваном Самсоновым | verbatim |
+| 5 | Паша | Подождите, это вообще точная информация? | Wait, is this information accurate at all? | #109: эту информацию подтвердили | verbatim |
+| 6 | Помощник | Мы связались с администрацией президента. | We contacted the presidential administration. | #109: Мы связались с администрацией президента | verbatim |
+| 7 | Помощник | Там эту информацию официально подтвердили. | There they officially confirmed this information. | #109: там эту информацию подтвердили | verbatim |
+| 8 | Паша | А со мной встреча будет? | And will there be a meeting with me? | #110: А со мной | verbatim |
+| 9 | Помощник | Больше никаких визитов не запланировано. | No further visits are planned. | #111: Больше никаких визитов не запланировано | verbatim |
+| 10 | Паша | А как же действующий губернатор? | And what about the current governor? | #113: губернатором | verbatim |
+| 11 | Паша | Я тоже могу туда подъехать! | I can drive over there too! | #112: я тоже подъеду | verbatim |
+| 12 | Помощник | Нет, с губернатором они тоже не встречаются. | No, they are not meeting with the governor either. | #113: Нет, с губернатором тоже не встречаются | verbatim |
+| 13 | Помощник | Президент встретится только с Самсоновым. | The president will meet only with Samsonov. | #113: только с Самсоновым | verbatim |
 | 14 | Паша | Это просто катастрофа для нашей кампании! | This is simply a catastrophe for our campaign! | new | new: Pavel panics over the exclusive presidential endorsement |
 
 ## Walk-through narration (English only, no target-language words quoted)

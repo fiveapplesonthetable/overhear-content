@@ -7,8 +7,7 @@ SCENE = 12
 TITLE = "La piscine de François  (François's Swimming Pool)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'lea': 'lucie', 'francois': 'marcel', 'christophe': 'theo'}
-LABELS = {'lea': 'Andréa', 'francois': 'François', 'christophe': 'Christophe'}
+LABELS = {'andrea': 'Andréa', 'christophe': 'Christophe', 'francois': 'François'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e06.fr.dual.srt'
 INTRO = "Andréa drives out to François Berléand's country house to make peace after his violent fight with Christophe Bel. Climbing over the garden wall, she finds François digging a giant hole in his lawn and discovers a surprising secret that explains all his fears. Let's listen to the scene in French first."
@@ -17,22 +16,22 @@ TRANSITION = "Now listen to Andréa and François's conversation once more witho
 OUTRO = 'Andréa successfully brings François back into the fold and arranges to meet Christophe Bel for dinner. That dinner will test her patience and her relationship with Colette even further. Here is our closing sentence. See you next time!'
 CLOSING = ('christophe', 'Bonne journée!')
 STORY = [
-    ('lea', "François, c'est moi. Je suis là, comme prévu.", 'François, it is me. I am here, as planned.', [(323, "François, c'est moi"), (323, 'Je suis là, comme prévu')], ''),
+    ('andrea', "François, c'est moi. Je suis là, comme prévu.", 'François, it is me. I am here, as planned.', [(323, "François, c'est moi"), (323, 'Je suis là, comme prévu')], ''),
     ('francois', 'Ça suffit! Fox, du calme!', 'That is enough! Fox, quiet!', [(329, 'Ça suffit'), (329, 'Fox, du calme')], ''),
     ('francois', 'Je fais creuser une piscine.', 'I am having a swimming pool dug.', [(330, 'Je fais creuser une piscine')], ''),
-    ('lea', 'Sans blague?', 'Seriously?', [(331, 'Sans blague')], ''),
+    ('andrea', 'Sans blague?', 'Seriously?', [(331, 'Sans blague')], ''),
     ('francois', 'Je ne supporte plus la honte de ne pas savoir nager.', 'I cannot take the shame of not knowing how to swim anymore.', [(332, 'Je supporte plus la honte de ne pas savoir nager')], ''),
     ('francois', "J'ai refusé tellement de films.", 'I have turned down so many films.', [(333, "J'ai refusé tellement de films")], ''),
-    ('lea', 'Lesquels? Titanic?', 'Which ones? Titanic?', [(334, 'Lesquels ? Titanic')], ''),
-    ('lea', 'Je suis fière de toi, François.', 'I am proud of you, François.', [(335, 'Je suis fière de toi')], ''),
-    ('lea', 'Je suis vraiment désolée pour Dom Juan.', 'I am really sorry about Dom Juan.', [(337, 'Je suis vraiment désolée pour Dom Juan')], ''),
+    ('andrea', 'Lesquels? Titanic?', 'Which ones? Titanic?', [(334, 'Lesquels ? Titanic')], ''),
+    ('andrea', 'Je suis fière de toi, François.', 'I am proud of you, François.', [(335, 'Je suis fière de toi')], ''),
+    ('andrea', 'Je suis vraiment désolée pour Dom Juan.', 'I am really sorry about Dom Juan.', [(337, 'Je suis vraiment désolée pour Dom Juan')], ''),
     ('francois', 'Je sais que Christophe Bel a de la vision.', 'I know that Christophe Bel has vision.', [(338, 'de Bel a de la vision')], ''),
-    ('lea', 'Tu vas le faire, alors?', 'Are you going to do it, then?', [(339, 'Tu vas le faire, alors')], ''),
+    ('andrea', 'Tu vas le faire, alors?', 'Are you going to do it, then?', [(339, 'Tu vas le faire, alors')], ''),
     ('francois', "Non, c'est trop tard maintenant.", 'No, it is too late now.', [(340, "Non, c'est trop tard maintenant")], ''),
-    ('lea', "Christophe le regrette aussi. Il t'admire, tu le sais!", 'Christophe regrets it too. He admires you, you know that!', [(343, 'Christophe le regrette aussi'), (344, "Il t'admire, tu le sais")], ''),
+    ('andrea', "Christophe le regrette aussi. Il t'admire, tu le sais!", 'Christophe regrets it too. He admires you, you know that!', [(343, 'Christophe le regrette aussi'), (344, "Il t'admire, tu le sais")], ''),
     ('francois', "Alors pourquoi il ne m'appelle pas directement?", 'Then why does he not call me directly?', [(345, "Alors pourquoi il m'appelle pas directement")], ''),
-    ('lea', "Christophe? C'est Andréa Martel.", 'Christophe? It is Andréa Martel.', [(348, "Christophe ? C'est Andréa Martel")], ''),
-    ('lea', "J'espère que tu es libre ce soir, je t'invite à dîner.", 'I hope you are free tonight, I am inviting you to dinner.', [(349, "J'espère que tu es libre ce soir, je t'invite à dîner")], ''),
+    ('andrea', "Christophe? C'est Andréa Martel.", 'Christophe? It is Andréa Martel.', [(348, "Christophe ? C'est Andréa Martel")], ''),
+    ('andrea', "J'espère que tu es libre ce soir, je t'invite à dîner.", 'I hope you are free tonight, I am inviting you to dinner.', [(349, "J'espère que tu es libre ce soir, je t'invite à dîner")], ''),
     ('christophe', "D'accord, avec plaisir.", 'All right, with pleasure.', [], ''),
 ]
 WALK = [

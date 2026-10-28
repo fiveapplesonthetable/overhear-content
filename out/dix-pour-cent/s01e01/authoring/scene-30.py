@@ -7,8 +7,7 @@ SCENE = 30
 TITLE = 'Cécile dit oui  (Cécile Says Yes)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'mathias': 'marcel', 'cecile': 'emilie'}
-LABELS = {'mathias': 'Mathias', 'cecile': 'Cécile'}
+LABELS = {'cecile': 'Cécile', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e01.fr.dual.srt'
 INTRO = "Cécile said no, and then said she didn't know anymore. Now Mathias catches her on her way out and takes her into his office, because he has one more argument up his sleeve. Here's the story in French first. Don't worry about catching every word. Let's listen to the scene in French first."
@@ -40,20 +39,20 @@ WALK = [
     (0, None, "'Cécile! Are you okay? Can we talk?' The first question is just two short words, and it's the most common check-in there is. The second one uses the little word for 'we' that the French say all the time in conversation."),
     (1, None, "'Come into my office.' It's a casual command, the kind you give someone you know well. Mathias wants a quiet room for this."),
     (2, None, "'It's not a big drama, Cécile. It's simple.' Notice the two little words wrapped around the verb: that's how French says 'not'. One goes before the verb and one comes right after it."),
-    (3, None, "'I know, Mathias.' Cécile doesn't need a lecture."),
-    (4, None, "'I'm an actress.' There's no word for 'an' here: in French, you just say 'I am actress' when you talk about your job."),
+    (3, 'Je sais, Mathias.', "'I know, Mathias.' Cécile doesn't need a lecture."),
+    (3, 'Je suis comédienne.', "'I'm an actress.' There's no word for 'an' here: in French, you just say 'I am actress' when you talk about your job."),
     (5, None, "'It is easy, but I did not think I would do that one day.' The tiny word in the middle stands for 'about it', so she doesn't have to name the treatment."),
     (6, None, "'It's easy, I know. But I never thought I'd do it one day.' This is the heart of it: she knows it's common, she just never imagined it would be her turn. Mathias stops arguing and takes out a photo instead."),
-    (7, None, "'Look. That's my wife.' Another casual command, and a surprise: he's going to use his own wife as the example."),
-    (8, None, "'How old would you say she is?' Literally 'what age do you give her?'. The small word before the verb means 'to her'. And Mathias uses the casual 'you' with Cécile, because they've known each other for years."),
-    (9, None, "'Forty? Forty-two?' Cécile makes a polite guess. In French, you say how old someone is with the verb 'to have': you 'have' forty years."),
-    (10, None, "'She's fifty-one.' Here's that 'to have' again: literally 'she has fifty-one years'. Much older than Cécile guessed."),
-    (11, None, "'Botox every year, and her eyes two years ago.' The phrase at the end, 'there are two years', is how French says 'two years ago'. Mathias lists everything, perfectly calm."),
-    (12, None, "'Impressive. It's well done.' Cécile is honestly struck. Then she asks the question that matters to her."),
-    (13, None, "'Doesn't it bother you?' Cécile uses the informal 'tu' form with 'bother', showing familiarity."),
-    (14, None, "'No, quite the opposite.' He likes it. That answer settles something in Cécile's mind."),
-    (15, None, "'Does she have a good surgeon?' A question made just by raising your voice at the end. And with it, Cécile is really saying yes."),
-    (16, None, "'The best.' Two words, and the deal is done. Once Cécile has left, Mathias picks up the phone."),
-    (17, None, "'Miranda? Cécile has said yes.' The verb means 'to accept', in the past tense, built with 'to have' plus the past form."),
-    (18, None, "'She can get back in the saddle. Talk soon!' It's a little joke, because Cécile loves riding horses, and it means she's back in the race for the role. Good. Now let's listen to the whole conversation one more time."),
+    (6, None, "'Look. That's my wife.' Another casual command, and a surprise: he's going to use his own wife as the example."),
+    (7, None, "'How old would you say she is?' Literally 'what age do you give her?'. The small word before the verb means 'to her'. And Mathias uses the casual 'you' with Cécile, because they've known each other for years."),
+    (8, None, "'Forty? Forty-two?' Cécile makes a polite guess. In French, you say how old someone is with the verb 'to have': you 'have' forty years."),
+    (9, None, "'She's fifty-one.' Here's that 'to have' again: literally 'she has fifty-one years'. Much older than Cécile guessed."),
+    (10, None, "'Botox every year, and her eyes two years ago.' The phrase at the end, 'there are two years', is how French says 'two years ago'. Mathias lists everything, perfectly calm."),
+    (11, None, "'Impressive. It's well done.' Cécile is honestly struck. Then she asks the question that matters to her."),
+    (12, None, "'Doesn't it bother you?' Cécile uses the informal 'tu' form with 'bother', showing familiarity."),
+    (13, None, "'No, quite the opposite.' He likes it. That answer settles something in Cécile's mind."),
+    (14, None, "'Does she have a good surgeon?' A question made just by raising your voice at the end. And with it, Cécile is really saying yes."),
+    (15, None, "'The best.' Two words, and the deal is done. Once Cécile has left, Mathias picks up the phone."),
+    (16, None, "'Miranda? Cécile has said yes.' The verb means 'to accept', in the past tense, built with 'to have' plus the past form."),
+    (17, None, "'She can get back in the saddle. Talk soon!' It's a little joke, because Cécile loves riding horses, and it means she's back in the race for the role. Good. Now let's listen to the whole conversation one more time."),
 ]

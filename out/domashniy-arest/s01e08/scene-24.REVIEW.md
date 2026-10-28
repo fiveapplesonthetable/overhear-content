@@ -10,20 +10,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Самсон | Привет, семья! Я вернулся домой. | Hello, family! I returned home. | #374 00:23:42: Привет, семья! | adapted: added Я вернулся домой |
-| 2 | Нина | Ох, живой! Надо же! | Oh, alive! Well, I never! | #375 00:23:49: Ох ты, живой! Надо же! | adapted: simplified cue 375 |
-| 3 | Нина | Тебя три дня дома не было! | You were not home for three days! | #401 00:25:27: Тебя три дня дома не было | verbatim |
-| 4 | Нина | Я ночами совсем не спала. | I did not sleep at all at night. | #402 00:25:29: Я ночами не спала | adapted: added совсем |
-| 5 | Самсон | Я просто взял короткую паузу. | I simply took a short break. | #405 00:25:36: Я просто взял паузу | adapted: added короткую |
-| 6 | Самсон | Завтра вечером у меня дебаты. | Tomorrow evening I have a debate. | #392 00:24:57: завтра вечером дебаты | adapted: added у меня |
-| 7 | Самсон | Мне очень нужна поддержка семьи. | I really need the family's support. | #394 00:25:02: поддержка семьи | adapted: added Мне очень нужна |
-| 8 | Нина | Как же я туда пойду? | How on earth will I go there? | #397 00:25:12: ну как же я пойду? | adapted: added туда |
-| 9 | Нина | Я же тебя сейчас ненавижу! | I hate you right now! | #398 00:25:14: Я ж тебя ненавижу | adapted: added сейчас |
-| 10 | Самсон | Дети, а вы пойдёте со мной? | Children, and will you go with me? | #411 00:26:02: Нет, пап, у нас не получится | adapted: lead-in question |
-| 11 | Нина | Нет, папа, у нас экскурсия. | No, Dad, we have a field trip. | #412 00:26:05: У нас экскурсия на курган | adapted: simplified cue 412 |
-| 12 | Нина | Все старшие классы завтра едут. | All the upper grades are going tomorrow. | #412 00:26:05: Все старшие классы поедут | adapted: adapted cue 412 |
-| 13 | Самсон | Понятно. Значит, никто не поможет. | I see. That means no one will help. | #416 00:26:21: у тебя тоже один дела | adapted: adapted cue 416 |
-| 14 | Нина | Ты сам виноват в своих бедах. | You yourself are to blame for your troubles. | #418 00:26:29: Хотя поступил ты | adapted: cleaned moral line |
+| 1 | Самсон | Привет, семья! Я вернулся домой. | Hello, family! I returned home. | #374: Привет, семья! | adapted: added Я вернулся домой |
+| 2 | Нина | Ох, живой! Надо же! | Oh, alive! Well, I never! | #375: Ох ты, живой! Надо же! | adapted: simplified cue 375 |
+| 3 | Нина | Тебя три дня дома не было! | You were not home for three days! | #401: Тебя три дня дома не было | verbatim |
+| 4 | Нина | Я ночами совсем не спала. | I did not sleep at all at night. | #402: Я ночами не спала | adapted: added совсем |
+| 5 | Самсон | Я просто взял короткую паузу. | I simply took a short break. | #405: Я просто взял паузу | adapted: added короткую |
+| 6 | Самсон | Завтра вечером у меня дебаты. | Tomorrow evening I have a debate. | #392: завтра вечером дебаты | adapted: added у меня |
+| 7 | Самсон | Мне очень нужна поддержка семьи. | I really need the family's support. | #394: поддержка семьи | adapted: added Мне очень нужна |
+| 8 | Нина | Как же я туда пойду? | How on earth will I go there? | #397: ну как же я пойду? | adapted: added туда |
+| 9 | Нина | Я же тебя сейчас ненавижу! | I hate you right now! | #398: Я ж тебя ненавижу | adapted: added сейчас |
+| 10 | Самсон | Дети, а вы пойдёте со мной? | Children, and will you go with me? | #411: Нет, пап, у нас не получится | adapted: lead-in question |
+| 11 | Юля | Нет, папа, у нас экскурсия. | No, Dad, we have a field trip. | #412: У нас экскурсия на курган | adapted: simplified cue 412 |
+| 12 | Юля | Все старшие классы завтра едут. | All the upper grades are going tomorrow. | #412: Все старшие классы поедут | adapted: adapted cue 412 |
+| 13 | Самсон | Понятно. Значит, никто не поможет. | I see. That means no one will help. | #416: у тебя тоже один дела | adapted: adapted cue 416 |
+| 14 | Нина | Ты сам виноват в своих бедах. | You yourself are to blame for your troubles. | #418: Хотя поступил ты | adapted: cleaned moral line |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

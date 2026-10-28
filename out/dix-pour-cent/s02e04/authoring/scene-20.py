@@ -7,8 +7,7 @@ SCENE = 20
 TITLE = 'Séduction au bureau  (Hicham Flirts)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'lea': 'lucie', 'hicham': 'marcel'}
-LABELS = {'lea': 'Andréa', 'hicham': 'Hicham'}
+LABELS = {'andrea': 'Andréa', 'hicham': 'Hicham'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e04.fr.dual.srt'
 INTRO = 'In her office at ASK, Andréa is visited by new boss Hicham Janowski. When Hicham tries to charm her, Andréa makes her personal boundaries crystal clear and orders him out of her office. Listen to the scene in French first.'
@@ -18,20 +17,20 @@ OUTRO = 'Andréa sets crystal-clear personal and professional boundaries with Hi
 CLOSING = ('hicham', 'Au revoir!')
 STORY = [
     ('hicham', "Bonjour Andréa, c'est l'heure de notre réunion.", 'Hello Andréa, it is time for our meeting.', [(561, "C'est l'heure de l'interview.")], ''),
-    ('lea', 'Non, vous êtes en avance. Revenez plus tard.', 'No, you are early. Come back later.', [(562, 'Non, vous êtes en avance. Revenez plus tard, je travaille.')], ''),
+    ('andrea', 'Non, vous êtes en avance. Revenez plus tard.', 'No, you are early. Come back later.', [(562, 'Non, vous êtes en avance. Revenez plus tard, je travaille.')], ''),
     ('hicham', "J'adore votre bureau et votre style.", 'I love your office and your style.', [(563, "J'adore votre bureau."), (564, 'Nous partageons tous les deux un goût pour les belles choses.')], ''),
-    ('lea', 'Arrêtez de me regarder avec insistance.', 'Stop looking at me insistently.', [(565, 'Arrêtez de me regarder comme ça.')], ''),
+    ('andrea', 'Arrêtez de me regarder avec insistance.', 'Stop looking at me insistently.', [(565, 'Arrêtez de me regarder comme ça.')], ''),
     ('hicham', 'Vous êtes trop méfiante avec moi.', 'You are too suspicious with me.', [(566, "T'es trop parano ! Je déteste les conflits au boulot.")], ''),
-    ('lea', 'Écoutez, Hicham, soyons très clairs.', 'Listen, Hicham, let us be very clear.', [(568, 'Écoute, Janowski.')], ''),
-    ('lea', 'Je préfère les femmes, uniquement les femmes.', 'I prefer women, only women.', [(569, "J'aime les femmes, uniquement les femmes.")], ''),
+    ('andrea', 'Écoutez, Hicham, soyons très clairs.', 'Listen, Hicham, let us be very clear.', [(568, 'Écoute, Janowski.')], ''),
+    ('andrea', 'Je préfère les femmes, uniquement les femmes.', 'I prefer women, only women.', [(569, "J'aime les femmes, uniquement les femmes.")], ''),
     ('hicham', 'Je comprends tout à fait votre point de vue.', 'I completely understand your point of view.', [(572, "Je suis d'accord.")], ''),
-    ('lea', 'Non, je pense que vous ne comprenez pas.', 'No, I think that you do not understand.', [(573, 'Non, putain, tu comprends pas !')], ''),
-    ('lea', 'Pour moi, ma vie personnelle est définitive.', 'For me, my personal life is definitive.', [(577, 'Non, je ne peux pas revenir en arrière.')], ''),
-    ('lea', 'Vous ne changerez jamais ma décision.', 'You will never change my decision.', [(578, "Et tu ne m'en donneras pas envie.")], ''),
+    ('andrea', 'Non, je pense que vous ne comprenez pas.', 'No, I think that you do not understand.', [(573, 'Non, putain, tu comprends pas !')], ''),
+    ('andrea', 'Pour moi, ma vie personnelle est définitive.', 'For me, my personal life is definitive.', [(577, 'Non, je ne peux pas revenir en arrière.')], ''),
+    ('andrea', 'Vous ne changerez jamais ma décision.', 'You will never change my decision.', [(578, "Et tu ne m'en donneras pas envie.")], ''),
     ('hicham', 'Je voulais seulement discuter amicalement.', 'I only wanted to chat in a friendly way.', [(576, 'Bon, laisse tomber les explications, je vois ce que je vois.')], ''),
-    ('lea', "Maintenant, sortez de mon bureau, s'il vous plaît.", 'Now, leave my office, please.', [(579, 'Maintenant, pars.')], ''),
+    ('andrea', "Maintenant, sortez de mon bureau, s'il vous plaît.", 'Now, leave my office, please.', [(579, 'Maintenant, pars.')], ''),
     ('hicham', 'Très bien, Marteau, je vous laisse travailler.', 'Very well, Marteau, I leave you to work.', [(580, 'Très bien, Marteau.')], ''),
-    ('lea', "Et arrêtez de m'appeler Marteau!", 'And stop calling me Marteau!', [(581, "Et arrête de m'appeler Marteau, putain !")], ''),
+    ('andrea', "Et arrêtez de m'appeler Marteau!", 'And stop calling me Marteau!', [(581, "Et arrête de m'appeler Marteau, putain !")], ''),
     ('hicham', "C'est promis, je respecte votre espace.", 'It is promised, I respect your space.', [(580, 'Très bien, Marteau.')], ''),
 ]
 WALK = [

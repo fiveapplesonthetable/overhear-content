@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Самсон | Марина, давай заканчивать эту опасную акцию. | Marina, let's end this dangerous protest. | #496 00:43:49: Марина давай завязываем | adapted: urging to stop |
-| 2 | Самсон | Поехали отсюда домой прямо сейчас. | Let's go home from here right now. | #496 00:43:49: Поехали отсюда | adapted: pleading to leave |
-| 3 | Марина | Слушайте, Самсонов, вы хотели уехать из города. | Listen, Samsonov, you wanted to leave town. | #497 00:43:55: Слушайте Самсонов вы уезжали | adapted: rebuffing him |
-| 4 | Марина | Это уже давно не ваш город. | This has long not been your city. | #497 00:43:55: Это уже не ваш город | adapted: rejecting his authority |
-| 5 | Самсон | Мы ведь приехали сюда спасать тебя. | We came here to save you, after all. | #498 00:43:58: Мы ведь тебя спасать вообще-то приехали | adapted: explaining concern |
+| 1 | Самсон | Марина, давай заканчивать эту опасную акцию. | Marina, let's end this dangerous protest. | #496: Марина давай завязываем | adapted: urging to stop |
+| 2 | Самсон | Поехали отсюда домой прямо сейчас. | Let's go home from here right now. | #496: Поехали отсюда | adapted: pleading to leave |
+| 3 | Марина | Слушайте, Самсонов, вы хотели уехать из города. | Listen, Samsonov, you wanted to leave town. | #497: Слушайте Самсонов вы уезжали | adapted: rebuffing him |
+| 4 | Марина | Это уже давно не ваш город. | This has long not been your city. | #497: Это уже не ваш город | adapted: rejecting his authority |
+| 5 | Самсон | Мы ведь приехали сюда спасать тебя. | We came here to save you, after all. | #498: Мы ведь тебя спасать вообще-то приехали | adapted: explaining concern |
 | 6 | Марина | Я не уйду и не брошу студентов. | I will not leave and will not abandon the students. | new | new: standing firm |
-| 7 | Самсон | Братцы, успокойтесь, это же простые студенты. | Brothers, calm down, these are just ordinary students. | #509 00:44:30: это же студенты | adapted: addressing workers |
-| 8 | Самсон | Они скоро замёрзнут и уйдут сами. | They will soon freeze and leave on their own. | #513 00:44:52: Они сейчас замерзнут уйдут | adapted: appealing for patience |
-| 9 | Марина | Мы будем стоять здесь до самого конца. | We will stand here until the very end. | #508 00:44:27: стоять | adapted: affirming resolve |
-| 10 | Самсон | Здесь скоро начнётся очень серьёзная драка. | A very serious fight will soon start here. | #519 00:45:05: бошку-то проломим | adapted: warning of violence |
+| 7 | Самсон | Братцы, успокойтесь, это же простые студенты. | Brothers, calm down, these are just ordinary students. | #509: это же студенты | adapted: addressing workers |
+| 8 | Самсон | Они скоро замёрзнут и уйдут сами. | They will soon freeze and leave on their own. | #513: Они сейчас замерзнут уйдут | adapted: appealing for patience |
+| 9 | Марина | Мы будем стоять здесь до самого конца. | We will stand here until the very end. | #508: стоять | adapted: affirming resolve |
+| 10 | Самсон | Здесь скоро начнётся очень серьёзная драка. | A very serious fight will soon start here. | #519: бошку-то проломим | adapted: warning of violence |
 | 11 | Марина | Мы должны защитить эту историческую стену. | We must protect this historical wall. | new | new: defending heritage |
-| 12 | Самсон | Тогда мы останемся рядом с вами. | Then we will stay near you. | #500 00:44:02: Мы уезжаем | adapted: offering solidarity |
+| 12 | Самсон | Тогда мы останемся рядом с вами. | Then we will stay near you. | #500: Мы уезжаем | adapted: offering solidarity |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

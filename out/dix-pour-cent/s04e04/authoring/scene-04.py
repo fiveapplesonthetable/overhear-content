@@ -7,30 +7,29 @@ SCENE = 4
 TITLE = "L'arrivée de Flora  (Flora's Arrival)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'lea': 'lucie', 'gabriel': 'theo'}
-LABELS = {'lea': 'Andréa', 'gabriel': 'Gabriel'}
+LABELS = {'andrea': 'Andréa', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e04.fr.dual.srt'
 INTRO = "After being expelled from the municipal creche, Andrea arrives at the ASK agency carrying baby Flora in her arms. She greets the reception staff and assures Gabriel that she can balance motherhood and management. Let's listen to their conversation in French first."
 OPENER = "Let's explore Andrea and Gabriel's discussion line by line."
 TRANSITION = "Now let's listen to the full discussion once again from start to finish."
 OUTRO = "That's it for this scene around flora's arrival. When you watch the episode, listen out for the expressions meaning 'thanks' and 'girls'. You'll catch them now. See you next time!"
-CLOSING = ('lea', 'À demain!')
+CLOSING = ('andrea', 'À demain!')
 STORY = [
-    ('lea', 'Merci, les filles, bonne journée!', 'Thanks, girls, have a good day!', [(94, 'Merci, les filles !')], ''),
+    ('andrea', 'Merci, les filles, bonne journée!', 'Thanks, girls, have a good day!', [(94, 'Merci, les filles !')], ''),
     ('gabriel', 'Andréa, tu viens avec Flora?', 'Andrea, are you coming with Flora?', [(94, 'Merci, les filles !')], ''),
-    ('lea', 'Oui, nous sommes exclues de la crèche.', 'Yes, we are excluded from the daycare.', [(94, 'Merci, les filles !')], ''),
+    ('andrea', 'Oui, nous sommes exclues de la crèche.', 'Yes, we are excluded from the daycare.', [(94, 'Merci, les filles !')], ''),
     ('gabriel', "Comment vas-tu gérer l'agence?", 'How will you manage the agency?', [(94, 'Merci, les filles !')], ''),
-    ('lea', 'Je peux tout faire en même temps.', 'I can do everything at the same time.', [(94, 'Merci, les filles !')], ''),
+    ('andrea', 'Je peux tout faire en même temps.', 'I can do everything at the same time.', [(94, 'Merci, les filles !')], ''),
     ('gabriel', "Un bébé dans les bureaux, c'est risqué.", 'A baby in the offices is risky.', [(94, 'Merci, les filles !')], ''),
-    ('lea', 'Elle va dormir sur le tapis.', 'She is going to sleep on the rug.', [(94, 'Merci, les filles !')], ''),
+    ('andrea', 'Elle va dormir sur le tapis.', 'She is going to sleep on the rug.', [(94, 'Merci, les filles !')], ''),
     ('gabriel', 'Et si les clients arrivent bientôt?', 'And if clients arrive soon?', [(94, 'Merci, les filles !')], ''),
-    ('lea', "Flora est très calme aujourd'hui.", 'Flora is very calm today.', [(94, 'Merci, les filles !')], ''),
+    ('andrea', "Flora est très calme aujourd'hui.", 'Flora is very calm today.', [(94, 'Merci, les filles !')], ''),
     ('gabriel', 'Tu as beaucoup de rendez-vous importants.', 'You have many important meetings.', [(94, 'Merci, les filles !')], ''),
-    ('lea', 'Je garde le contrôle de tout.', 'I keep control of everything.', [(94, 'Merci, les filles !')], ''),
+    ('andrea', 'Je garde le contrôle de tout.', 'I keep control of everything.', [(94, 'Merci, les filles !')], ''),
     ('gabriel', "D'accord, je te fais confiance.", 'All right, I trust you.', [(94, 'Merci, les filles !')], ''),
-    ('lea', 'Nous formons une équipe solide.', 'We form a solid team.', [(94, 'Merci, les filles !')], ''),
-    ('lea', 'Allez, au travail maintenant!', 'Come on, back to work now!', [(94, 'Merci, les filles !')], ''),
+    ('andrea', 'Nous formons une équipe solide.', 'We form a solid team.', [(94, 'Merci, les filles !')], ''),
+    ('andrea', 'Allez, au travail maintenant!', 'Come on, back to work now!', [(94, 'Merci, les filles !')], ''),
 ]
 WALK = [
     (0, None, "'Thanks, girls, have a good day!' Andrea warmly thanks the reception staff as she enters the building. The adjective meaning 'good' takes its feminine form here to match the noun it describes."),

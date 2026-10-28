@@ -4,31 +4,30 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 16
 SCENE = 23
-TITLE = "Один в один  (Exactly the Same)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Один в один  (Exactly the Same)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "anya": "alisa", "chef": "anja"}
-LABELS = {"anya": "Макс", "chef": "Шеф"}
+LABELS = {'barinov': 'Шеф', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.16'
 SOURCE_FILE = 'sources/kukhnya/s01/e16.ru.dual.srt'
 INTRO = "Maks has been trying to recreate a special recipe. Maks approaches the Chef. Let's listen closely to their exchange in Russian first, and then walk through each line together."
 OPENER = "Now let's go back through the exchange around Exactly the Same line by line and unpack how the Russian works."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Maks has been trying to recreate a special recipe. Maks approaches the Chef. Let us see what happens next in this scene. Next time you watch the episode, listen for the Russian expressions for 'to do' and 'pâté' — you will catch every word right away. See you next time!"
-CLOSING = ("anya", "До свидания!")
+CLOSING = ('max', 'До свидания!')
 STORY = [
-    ('anya', 'Шеф, я сделал это.', 'Chef, I did it.', [(287, 'Шеф, я сделал это.')], ''),
-    ('chef', 'Что ты сделал?', 'What did you make?', [], ''),
-    ('anya', 'Я сделал ваш паштет.', 'I made your pâté.', [], ''),
-    ('chef', 'Мой паштет?', 'My pâté?', [], ''),
-    ('anya', 'Получилось один в один.', 'It came out exactly the same.', [(288, 'Получилось один в один.')], ''),
-    ('chef', 'Я должен попробовать.', 'I must taste it.', [], ''),
-    ('anya', 'Даже чуть-чуть лучше.', 'Even a little better.', [(289, 'Даже чуть-чуть лучше.')], ''),
-    ('chef', 'Да ладно?', 'No way!', [(289, 'Да ладно?')], ''),
-    ('anya', 'Да.', 'Yeah.', [(290, 'Да.')], ''),
-    ('chef', 'Это невозможно.', 'This is impossible.', [], ''),
-    ('anya', 'Я хороший повар.', 'I am a good cook.', [], ''),
-    ('chef', 'Мы посмотрим.', 'We will see.', [], ''),
+    ('max', 'Шеф, я сделал это.', 'Chef, I did it.', [(287, 'Шеф, я сделал это.')], ''),
+    ('barinov', 'Что ты сделал?', 'What did you make?', [], ''),
+    ('max', 'Я сделал ваш паштет.', 'I made your pâté.', [], ''),
+    ('barinov', 'Мой паштет?', 'My pâté?', [], ''),
+    ('max', 'Получилось один в один.', 'It came out exactly the same.', [(288, 'Получилось один в один.')], ''),
+    ('barinov', 'Я должен попробовать.', 'I must taste it.', [], ''),
+    ('max', 'Даже чуть-чуть лучше.', 'Even a little better.', [(289, 'Даже чуть-чуть лучше.')], ''),
+    ('barinov', 'Да ладно?', 'No way!', [(289, 'Да ладно?')], ''),
+    ('max', 'Да.', 'Yeah.', [(290, 'Да.')], ''),
+    ('barinov', 'Это невозможно.', 'This is impossible.', [], ''),
+    ('max', 'Я хороший повар.', 'I am a good cook.', [], ''),
+    ('barinov', 'Мы посмотрим.', 'We will see.', [], ''),
 ]
 WALK = [
     (0, None, "'Chef, I did it.' The verb for 'did' is in the matching past tense, marked by that 'l' sound at the end."),

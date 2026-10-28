@@ -8,16 +8,10 @@
  "scene": 3,
  "title": "Кризисный менеджер и потерянная серёжка  (The Crisis Manager and the Lost Earring)",
  "level": "A1 — Duolingo Section 2",
- "voices": {
-  "narrator": "sky",
-  "chef": "anja",
-  "inspector": "angelina",
-  "anya": "alisa"
- },
  "labels": {
-  "chef": "Шеф",
+  "barinov": "Шеф",
   "inspector": "Инспектор",
-  "anya": "Макс"
+  "max": "Макс"
  },
  "segments": [
   {
@@ -26,7 +20,7 @@
    "gap": 0.8
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Доброе утро, Андрей Михайлович, вы меня звали?",
    "gap": 0.55
   },
@@ -51,12 +45,12 @@
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "У нас прибыль выше, чем в любом европейском ресторане!",
    "gap": 0.55
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Здравствуйте, Серёжа! Тебе тоже привет, дорогая!",
    "gap": 0.55
   },
@@ -66,27 +60,27 @@
    "gap": 0.55
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Да, Оля вчера помогла мне с гостиницей.",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Ольга, скажите, а сейчас так модно ходить?",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Посмотрите, у вас одной серёжки в ухе нет.",
    "gap": 0.55
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Андрей, положи её к себе, а то и эту потеряю.",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Мне пора идти, оказывается, надо спасать рентабельность!",
    "gap": 0.9
   },
@@ -96,13 +90,13 @@
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Доброе утро, Андрей Михайлович, вы меня звали?",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Good morning, Andrey Mikhailovich, did you call for me?' Chef Barinov brings out the contrast between 'good' and 'morning' in a few short words. the inspector answers right away.",
+   "t": "'Good morning, Andrey Mikhailovich, did you call for me?' Questioning whether Andrey Mikhailovich did the inspector calls for him is how Barinov tests the inspector's story. Notice how he sticks to the formal \"you\", keeping a professional line between them.",
    "gap": 0.4
   },
   {
@@ -112,7 +106,7 @@
   },
   {
    "v": "narrator",
-   "t": "'Yes, Viktor Petrovich, meet Sergey Vladimirovich.' the inspector anchors the line on 'yes', while 'Vladimirovich' completes the thought.",
+   "t": "'Yes, Viktor Petrovich, meet Sergey Vladimirovich.' Adding that Barinov should meet Sergey Vladimirovich fills in the missing piece for Barinov.",
    "gap": 0.4
   },
   {
@@ -122,7 +116,7 @@
   },
   {
    "v": "narrator",
-   "t": "'Starting today he is your new boss.' The grammar packs 'with' and 'boss' into a tight, idiomatic kitchen exchange.",
+   "t": "'Starting today he is your new boss.' Pointing out that starting today he is Barinov's new boss gives Barinov a sobering reality check. Notice how he sticks to the formal \"you\", keeping a professional line between them.",
    "gap": 0.4
   },
   {
@@ -132,7 +126,7 @@
   },
   {
    "v": "narrator",
-   "t": "'Sergey is the best manager in our entire chain.' Notice how Russian expresses 'Sergey' and 'nets' with crisp inflection rather than helper words.",
+   "t": "'Sergey is the best manager in our entire chain.' The inspector explains that Sergey is the best manager in their entire chain, keeping his voice calm and direct. Russian drops \"is\" in the present, setting the two halves of the thought side by side.",
    "gap": 0.4
   },
   {
@@ -142,27 +136,27 @@
   },
   {
    "v": "narrator",
-   "t": "'We had to call him in to save our profitability.' Here the Russian phrasing highlights 'had to' before landing on 'profitability'.",
+   "t": "'We had to call him in to save our profitability.' Realizing that they had to call him in to save their profitability changes how the inspector handles the situation.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "У нас прибыль выше, чем в любом европейском ресторане!",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Our profit is higher than in any European restaurant!' The meaning hinges on 'at' working together with 'restaurant' in spoken Russian.",
+   "t": "'Our profit is higher than in any European restaurant!' Insisting that their profit is higher than in any European restaurant shows Barinov is not backing down. Russian expresses having something as \"by me is\", keeping the phrase short and grounded.",
    "gap": 0.4
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Здравствуйте, Серёжа! Тебе тоже привет, дорогая!",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Hello, Seryozha! Hello to you too, darling!' An emphatic spoken line centered on the verb meaning 'hello'. the inspector answers right away.",
+   "t": "'Hello, Seryozha! Hello to you too, darling!' With the boss and kitchen at stake, Max reacts without holding back. Speaking with the close, informal \"you\" strips away any polite distance between them.",
    "gap": 0.4
   },
   {
@@ -172,61 +166,61 @@
   },
   {
    "v": "narrator",
-   "t": "'Wait a second, did the two of you already see each other yesterday?' the inspector chooses the respectful plural 'you' alongside 'saw each other' to keep a polite distance.",
+   "t": "'Wait a second, did the two of you already see each other yesterday?' The inspector asks whether a second did the two of Barinov already see each other yesterday, refusing to let the point slide.",
    "gap": 0.4
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Да, Оля вчера помогла мне с гостиницей.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Yes, Olya helped me with the hotel yesterday.' In Russian, the idea of 'yes' flows naturally into 'with the hotel' without extra filler words.",
+   "t": "'Yes, Olya helped me with the hotel yesterday.' Saying that Olya helped him with the hotel yesterday is how Max sets the tone with Barinov.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Ольга, скажите, а сейчас так модно ходить?",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Olga, tell me, is it fashionable to walk around like that now?' Spoken Russian keeps this brisk, leaning on 'Olga' and finishing on 'go'.",
+   "t": "'Olga, tell me, is it fashionable to walk around like that now?' Wondering if someone tell him is it fashionable to walk around like that now shows Barinov caught off guard. In Russian, he does not need helper words like \"do\" or \"did\"—rising pitch alone turns it into a question.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Посмотрите, у вас одной серёжки в ухе нет.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Look, you are missing one earring in your ear.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.",
+   "t": "'Look, you are missing one earring in your ear.' Adding that the inspector is missing one earring in the inspector's ear fills in the missing piece for the inspector.",
    "gap": 0.4
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Андрей, положи её к себе, а то и эту потеряю.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Andrey, put it in your pocket, or I will lose this one too.' Notice how Russian expresses 'Andrei' and 'I will lose' with crisp inflection rather than helper words.",
+   "t": "'Andrey, put it in your pocket, or I will lose this one too.' Max tells Barinov that Andrey put it in Barinov's pocket or he will lose this one without dressing it up.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Мне пора идти, оказывается, надо спасать рентабельность!",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'It is time for me to go, it turns out we have to save profitability!' An emphatic spoken line centered on the verb meaning 'to go'. Alright, let's hear the entire conversation one more time from start to finish.",
+   "t": "'It is time for me to go, it turns out we have to save profitability!' Insisting that it is time for him to go it turns out they have to save profitability shows Barinov is not backing down. There is no \"you\" needed in the Russian here: one short word states the rule for everyone in the room. Alright, let's hear the entire conversation one more time from start to finish.",
    "gap": 0.9
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Доброе утро, Андрей Михайлович, вы меня звали?",
    "gap": 0.5
   },
@@ -251,12 +245,12 @@
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "У нас прибыль выше, чем в любом европейском ресторане!",
    "gap": 0.5
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Здравствуйте, Серёжа! Тебе тоже привет, дорогая!",
    "gap": 0.5
   },
@@ -266,27 +260,27 @@
    "gap": 0.5
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Да, Оля вчера помогла мне с гостиницей.",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Ольга, скажите, а сейчас так модно ходить?",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Посмотрите, у вас одной серёжки в ухе нет.",
    "gap": 0.5
   },
   {
-   "v": "anya",
+   "v": "max",
    "t": "Андрей, положи её к себе, а то и эту потеряю.",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Мне пора идти, оказывается, надо спасать рентабельность!",
    "gap": 0.9
   },
@@ -296,7 +290,7 @@
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Хорошего дня!",
    "gap": 0.3
   }

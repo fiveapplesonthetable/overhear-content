@@ -4,32 +4,31 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 3
 SCENE = 18
-TITLE = "Праздничный гусь  (The Festive Goose)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Праздничный гусь  (The Festive Goose)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "chef": "anja", "anya": "alisa"}
-LABELS = {"chef": "Шеф", "anya": "Макс"}
+LABELS = {'barinov': 'Шеф', 'guest': 'Гость', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.03'
 SOURCE_FILE = 'sources/kukhnya/s01/e03.ru.dual.srt'
 INTRO = "Inside the glamorous dining room of Claude Monet, the high-stakes VIP banquet reaches its long-awaited peak. Chef Viktor Barinov personally escorts the golden roasted goose to the guest of honor, proudly presenting the culinary triumph that nearly cost the kitchen staff their sanity. Let's listen to this proud dining room presentation in Russian first."
 OPENER = "Now let's examine Chef Barinov's proud presentation in the dining room line by line."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "With the prized goose triumphantly served and the banquet saved from disaster, Barinov and Max return to the kitchen to wrap up an eventful first week. Next time you watch the episode, listen for the Russian expressions for 'appetite' and 'to be' — you will catch every word right away. See you next time!"
-CLOSING = ("chef", "Пока!")
+CLOSING = ('barinov', 'Пока!')
 STORY = [
-    ('chef', 'Скажите, пожалуйста, это мой праздничный гусь?', 'Tell me please, is that my festive goose?', [(319, 'Это мой гусь?')], ''),
-    ('chef', 'Да, это ваш главный заказ сегодня!', 'Yes, this is your main order today!', [], ''),
-    ('chef', 'Мы готовили его по старинному рецепту.', 'We prepared it according to an ancient recipe.', [], ''),
-    ('anya', 'Наш шеф лично проверял каждую деталь.', 'Our chef personally checked every detail.', [], ''),
-    ('chef', 'Гусь выглядит и пахнет просто великолепно!', 'The goose looks and smells simply magnificent!', [], ''),
-    ('chef', 'Мясо получилось очень нежным и сочным.', 'The meat turned out very tender and juicy.', [], ''),
-    ('anya', 'Мы подали его с яблоками и травами.', 'We served it with apples and herbs.', [], ''),
-    ('chef', 'Мои гости будут в полном восторге!', 'My guests will be in total delight!', [], ''),
-    ('chef', 'Наш ресторан держит только высший уровень.', 'Our restaurant maintains only the highest standard.', [], ''),
-    ('chef', 'Спасибо вам за прекрасную работу, повара!', 'Thank you for the wonderful work, chefs!', [], ''),
-    ('chef', 'Приятного аппетита вам и вашим гостям!', 'Bon appetit to you and your guests!', [], ''),
-    ('anya', 'Надеемся увидеть вас снова в ресторане.', 'We hope to see you again at the restaurant.', [], ''),
-    ('chef', 'Макс, живо возвращайся обратно на кухню!', 'Max, quickly get back to the kitchen!', [], ''),
+    ('guest', 'Скажите, пожалуйста, это мой праздничный гусь?', 'Tell me please, is that my festive goose?', [(319, 'Это мой гусь?')], ''),
+    ('barinov', 'Да, это ваш главный заказ сегодня!', 'Yes, this is your main order today!', [], ''),
+    ('barinov', 'Мы готовили его по старинному рецепту.', 'We prepared it according to an ancient recipe.', [], ''),
+    ('max', 'Наш шеф лично проверял каждую деталь.', 'Our chef personally checked every detail.', [], ''),
+    ('guest', 'Гусь выглядит и пахнет просто великолепно!', 'The goose looks and smells simply magnificent!', [], ''),
+    ('barinov', 'Мясо получилось очень нежным и сочным.', 'The meat turned out very tender and juicy.', [], ''),
+    ('max', 'Мы подали его с яблоками и травами.', 'We served it with apples and herbs.', [], ''),
+    ('guest', 'Мои гости будут в полном восторге!', 'My guests will be in total delight!', [], ''),
+    ('barinov', 'Наш ресторан держит только высший уровень.', 'Our restaurant maintains only the highest standard.', [], ''),
+    ('guest', 'Спасибо вам за прекрасную работу, повара!', 'Thank you for the wonderful work, chefs!', [], ''),
+    ('barinov', 'Приятного аппетита вам и вашим гостям!', 'Bon appetit to you and your guests!', [], ''),
+    ('max', 'Надеемся увидеть вас снова в ресторане.', 'We hope to see you again at the restaurant.', [], ''),
+    ('barinov', 'Макс, живо возвращайся обратно на кухню!', 'Max, quickly get back to the kitchen!', [], ''),
 ]
 WALK = [
     (0, None, "'Tell me please, is that my festive goose?' The banquet host asks with eager anticipation as the platter arrives."),

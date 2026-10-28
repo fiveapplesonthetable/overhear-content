@@ -7,8 +7,7 @@ SCENE = 7
 TITLE = 'Béatrice sur le plateau  (Béatrice on Set)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'lea': 'lucie', 'beatrice': 'emilie', 'realisateur': 'marcel'}
-LABELS = {'lea': 'Andréa', 'beatrice': 'Béatrice', 'realisateur': 'Le réalisateur'}
+LABELS = {'andrea': 'Andréa', 'beatrice': 'Béatrice', 'realisateur': 'Le réalisateur'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e05.fr.dual.srt'
 INTRO = "On a tense movie set, director and star clash over an unexpected artistic demand. When the director insists that Beatrice Dalle appear completely naked in a morgue scene, Andrea Martel steps in to protect her client. Let's listen to the argument in French first."
@@ -21,14 +20,14 @@ STORY = [
     ('beatrice', 'Non, je ne peux pas faire ça!', 'No, I cannot do that!', [(198, 'Non, je peux pas, non')], ''),
     ('realisateur', 'Tu seras magnifique, fais-moi confiance!', 'You will be magnificent, trust me!', [(199, 'Tu seras magnifique, fais-moi confiance')], ''),
     ('beatrice', "Je refuse d'être un tas de viande!", 'I refuse to be a slab of meat!', [(200, "pas envie d'être comme un tas de viande")], ''),
-    ('lea', 'Cette scène lui semble un peu gratuite.', 'This scene seems a little gratuitous to her.', [(202, 'ça lui semble un petit peu gratuit')], ''),
+    ('andrea', 'Cette scène lui semble un peu gratuite.', 'This scene seems a little gratuitous to her.', [(202, 'ça lui semble un petit peu gratuit')], ''),
     ('realisateur', "Rien n'est gratuit dans mon travail!", 'Nothing is gratuitous in my work!', [(203, "rien n'est gratuit dans mon travail")], ''),
     ('beatrice', 'Trouve une autre idée sans me déshabiller!', 'Find another idea without undressing me!', [(206, 'ce soit troublant')], ''),
-    ('lea', 'Regardons ce qui est écrit dans le scénario.', 'Let', [(212, "qu'est-ce qu'il y a dans le scénario ?")], ''),
-    ('lea', 'Le personnage découvre seulement son visage.', 'The character only discovers her face.', [(214, 'il découvre son visage')], ''),
-    ('lea', "C'est écrit ici, seulement son visage!", 'It is written here, only her face!', [(215, "C'est écrit, là, son visage !")], ''),
+    ('andrea', 'Regardons ce qui est écrit dans le scénario.', 'Let', [(212, "qu'est-ce qu'il y a dans le scénario ?")], ''),
+    ('andrea', 'Le personnage découvre seulement son visage.', 'The character only discovers her face.', [(214, 'il découvre son visage')], ''),
+    ('andrea', "C'est écrit ici, seulement son visage!", 'It is written here, only her face!', [(215, "C'est écrit, là, son visage !")], ''),
     ('realisateur', 'Un scénario est fait pour être détruit!', 'A script is made to be destroyed!', [(217, "Un scénario, c'est fait pour être détruit")], ''),
-    ('lea', 'Un contrat se signe sur un scénario!', 'A contract is signed based on a script!', [(219, 'un contrat, ça se signe sur un scénario')], ''),
+    ('andrea', 'Un contrat se signe sur un scénario!', 'A contract is signed based on a script!', [(219, 'un contrat, ça se signe sur un scénario')], ''),
     ('beatrice', 'Tu es la meilleure, mon agente préférée!', 'You are the best, my favorite agent!', [(224, "T'es la meilleure, ma chérie")], ''),
 ]
 WALK = [

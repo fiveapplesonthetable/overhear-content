@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Айнура | Здравствуйте, Виктория Сергеевна, у меня важный разговор. | Hello, Viktoriya Sergeyevna, I have an important matter to discuss. | #150 00:12:28: Здравствуйте, Виктория Сергеевна<br>#150 00:12:28: очень важный разговор | adapted: adapted |
-| 2 | Айнура | Да, Айнура, я тебя внимательно слушаю. | Yes, Ainura, I am listening to you closely. | #151 00:12:32: Да, я слушаю | adapted: adapted |
-| 3 | Айнура | Герман меня любит, а не вас. | German loves me, and not you. | #151 00:12:32: Герман меня любит, а не вас | verbatim |
-| 4 | Айнура | У нас с ним была любовь. | He and I had a romance. | #152 00:12:34: У нас с ним любовь была | adapted: adapted |
-| 5 | Айнура | А потом я сама его бросила. | And then I dumped him myself. | #152 00:12:34: а я его бросила | adapted: adapted |
-| 6 | Айнура | Теперь у него очень болит сердце. | Now his heart hurts very much. | #153 00:12:37: боль сердца | adapted: adapted |
-| 7 | Айнура | Айнура, ты о чём, что за бред? | Ainura, what are you talking about, what nonsense is this? | #154 00:12:41: Ты о чем? Что за бред | adapted: adapted |
-| 8 | Айнура | Иди лучше спокойно занимайся работой. | Better go do your work quietly. | #155 00:12:43: Иди работай | adapted: adapted |
-| 9 | Айнура | Но он опять сделает вам плохо. | But he will hurt you again. | #155 00:12:43: Но он опять вам боль причинит | adapted: adapted |
-| 10 | Айнура | Подожди, что значит это слово опять? | Wait, what does that word 'again' mean? | #156 00:12:48: Что значит опять | adapted: adapted |
-| 11 | Айнура | Он же Нагиева в гробу закрыл. | He locked Nagiyev inside the coffin, after all. | #156 00:12:48: он же в гробу закрыл | adapted: adapted |
-| 12 | Айнура | Он сам закрыл гроб ключом. | He locked the coffin with a key himself. | #158 00:12:53: как он гроб ключом закрыл | adapted: adapted |
+| 1 | Айнура | Здравствуйте, Виктория Сергеевна, у меня важный разговор. | Hello, Viktoriya Sergeyevna, I have an important matter to discuss. | #150: Здравствуйте, Виктория Сергеевна<br>#150: очень важный разговор | adapted: adapted |
+| 2 | Вика | Да, Айнура, я тебя внимательно слушаю. | Yes, Ainura, I am listening to you closely. | #151: Да, я слушаю | adapted: adapted |
+| 3 | Айнура | Герман меня любит, а не вас. | German loves me, and not you. | #151: Герман меня любит, а не вас | verbatim |
+| 4 | Айнура | У нас с ним была любовь. | He and I had a romance. | #152: У нас с ним любовь была | adapted: adapted |
+| 5 | Айнура | А потом я сама его бросила. | And then I dumped him myself. | #152: а я его бросила | adapted: adapted |
+| 6 | Айнура | Теперь у него очень болит сердце. | Now his heart hurts very much. | #153: боль сердца | adapted: adapted |
+| 7 | Вика | Айнура, ты о чём, что за бред? | Ainura, what are you talking about, what nonsense is this? | #154: Ты о чем? Что за бред | adapted: adapted |
+| 8 | Вика | Иди лучше спокойно занимайся работой. | Better go do your work quietly. | #155: Иди работай | adapted: adapted |
+| 9 | Айнура | Но он опять сделает вам плохо. | But he will hurt you again. | #155: Но он опять вам боль причинит | adapted: adapted |
+| 10 | Вика | Подожди, что значит это слово опять? | Wait, what does that word 'again' mean? | #156: Что значит опять | adapted: adapted |
+| 11 | Айнура | Он же Нагиева в гробу закрыл. | He locked Nagiyev inside the coffin, after all. | #156: он же в гробу закрыл | adapted: adapted |
+| 12 | Айнура | Он сам закрыл гроб ключом. | He locked the coffin with a key himself. | #158: как он гроб ключом закрыл | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, Viktoriya Sergeyevna, I have an important matter to discuss.' Ainura greets the art director formally and introduces a masculine singular noun phrase.
-- 'Yes, Ainura, I am listening to you closely.' In everyday Russian, 'carefully' flows straight into 'to listen' without extra linking words.
-- 'German loves me, and not you.' Ainura centers this short reply on 'loves', letting a few direct words carry the whole meaning.
-- 'He and I had a romance.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.
-- 'And then I dumped him myself.' Here Ainura anchors the thought on 'later, afterwards' and finishes on 'dumped, left', keeping the spoken rhythm brisk and natural.
-- 'Now his heart hurts very much.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.
-- 'Ainura, what are you talking about, what nonsense is this?' Vika centers this short reply on 'nonsense', letting a few direct words carry the whole meaning.
-- 'Better go do your work quietly.' Notice how Russian puts 'go, walk' and 'job' together in a short, direct phrase where word endings show how the ideas connect.
-- 'But he will hurt you again.' Russian expresses feelings and needs by saying 'to me it is needed' or 'to me it seems', putting the person in the 'to me' form.
-- 'Wait, what does that word 'again' mean?' Hearing the word again makes Vika pause and ask a pointed question in the present tense.
-- 'He locked Nagiyev inside the coffin, after all.' Ainura pairs 'Nagiyev' with 'to close, to shut' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
-- 'He locked the coffin with a key himself.' Notice how Russian puts 'to close, to shut' and 'key' together in a short, direct phrase where word endings show how the ideas connect.
+- 'Hello, Viktoriya Sergeyevna, I have an important matter to discuss.' Mentioning that Viktoriya Sergeyevna she has an important matter to discuss moves the talk in a new direction. Russian expresses having something as "by me is", keeping the phrase short and grounded.
+- 'Yes, Ainura, I am listening to you closely.' Explaining that she is listening to Ainura closely lays the cards on the table for Ainura. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'German loves me, and not you.' Because German loves her and not Vika, Ainura treats the matter as settled.
+- 'He and I had a romance.' Explaining that he and she had a romance lays the cards on the table for Vika. Russian expresses having something as "by me is", keeping the phrase short and grounded.
+- 'And then I dumped him myself.' Between the room and the story, Ainura gives Vika a quick, grounded response.
+- 'Now his heart hurts very much.' Claiming that his heart hurts very much sounds confident, even if Vika has doubts.
+- 'Ainura, what are you talking about, what nonsense is this?' By wondering what Ainura talking about what nonsense is this is, Vika presses Ainura for a straight answer. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Better go do your work quietly.' Vika explains that better go do Ainura's work quietly, keeping her voice calm and direct.
+- 'But he will hurt you again.' Realizing that he will hurt Vika again changes how Ainura handles the situation.
+- 'Wait, what does that word 'again' Wondering if what does that word shows Vika caught off guard. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'He locked Nagiyev inside the coffin, after all.' With the story and kitchen in play, Ainura keeps this short reply brisk and direct.
+- 'He locked the coffin with a key himself.' Around the story and shift, Ainura sets a calm, everyday tone with Vika.

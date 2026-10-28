@@ -7,8 +7,7 @@ SCENE = 9
 TITLE = "Le départ de Mathias  (Mathias's Departure)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'mathias': 'marcel', 'lea': 'lucie'}
-LABELS = {'mathias': 'Mathias', 'lea': 'Andréa'}
+LABELS = {'andrea': 'Andréa', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e01.fr.dual.srt'
 INTRO = "At the elevator doors of ASK, former managing partner Mathias Barneville prepares to leave the agency for good. Holding his box of personal belongings, he is confronted by Andrea, who firmly asks him to return his office keys. Let's listen to their farewell conversation in French first."
@@ -17,19 +16,19 @@ TRANSITION = "Now let's listen to the complete discussion once more to reinforce
 OUTRO = "Mathias hands over his keys and steps into the closing elevator, bringing thirty years at ASK to an end. When you watch the episode, listen out for the expressions meaning 'wait' and 'second'. You'll catch them now. See you next time!"
 CLOSING = ('mathias', 'Bonne journée!')
 STORY = [
-    ('lea', "Mathias, attends une seconde s'il te plaît.", 'Mathias, wait a second please.', [(511, "Au revoir. Vraiment, j'en reviens pas.")], ''),
+    ('andrea', "Mathias, attends une seconde s'il te plaît.", 'Mathias, wait a second please.', [(511, "Au revoir. Vraiment, j'en reviens pas.")], ''),
     ('mathias', "Oui Andréa? Qu'est-ce qu'il y a?", 'Yes Andrea? What is the matter?', [(511, "Au revoir. Vraiment, j'en reviens pas.")], ''),
-    ('lea', "Tu dois nous rendre tes clés d'agence.", 'You must give back your agency keys.', [(511, "Au revoir. Vraiment, j'en reviens pas.")], ''),
+    ('andrea', "Tu dois nous rendre tes clés d'agence.", 'You must give back your agency keys.', [(511, "Au revoir. Vraiment, j'en reviens pas.")], ''),
     ('mathias', 'Vous me traitez comme un voleur maintenant?', 'Are you treating me like a thief now?', [(511, "Au revoir. Vraiment, j'en reviens pas.")], ''),
-    ('lea', 'Noémie a déjà rendu les siennes ce matin.', 'Noemie already gave back hers this morning.', [(511, "Au revoir. Vraiment, j'en reviens pas.")], ''),
+    ('andrea', 'Noémie a déjà rendu les siennes ce matin.', 'Noemie already gave back hers this morning.', [(511, "Au revoir. Vraiment, j'en reviens pas.")], ''),
     ('mathias', "J'ai dirigé cette agence pendant trente ans!", 'I ran this agency for thirty years!', [(511, "Au revoir. Vraiment, j'en reviens pas.")], ''),
-    ('lea', 'Nous voulons simplement protéger nos nouveaux contrats.', 'We simply want to protect our new contracts.', [(511, "Au revoir. Vraiment, j'en reviens pas.")], ''),
+    ('andrea', 'Nous voulons simplement protéger nos nouveaux contrats.', 'We simply want to protect our new contracts.', [(511, "Au revoir. Vraiment, j'en reviens pas.")], ''),
     ('mathias', 'Vous avez peur de ma concurrence future?', 'Are you afraid of my future competition?', [(511, "Au revoir. Vraiment, j'en reviens pas.")], ''),
-    ('lea', 'Nous voulons éviter de changer les serrures.', 'We want to avoid changing the locks.', [(511, "Au revoir. Vraiment, j'en reviens pas.")], ''),
+    ('andrea', 'Nous voulons éviter de changer les serrures.', 'We want to avoid changing the locks.', [(511, "Au revoir. Vraiment, j'en reviens pas.")], ''),
     ('mathias', "Prends ces clés, je n'en veux plus.", 'Take these keys, I do not want them anymore.', [(511, "Au revoir. Vraiment, j'en reviens pas.")], ''),
-    ('lea', 'Merci Mathias, bonne chance pour tes projets.', 'Thank you Mathias, good luck with your projects.', [(511, "Au revoir. Vraiment, j'en reviens pas.")], ''),
+    ('andrea', 'Merci Mathias, bonne chance pour tes projets.', 'Thank you Mathias, good luck with your projects.', [(511, "Au revoir. Vraiment, j'en reviens pas.")], ''),
     ('mathias', "Au revoir. Vraiment, je n'en reviens pas.", 'Goodbye. Seriously, I cannot believe it.', [(511, "Au revoir. Vraiment, j'en reviens pas.")], ''),
-    ('lea', 'Une nouvelle histoire commence pour nous tous.', 'A new story begins for all of us.', [(511, "Au revoir. Vraiment, j'en reviens pas.")], ''),
+    ('andrea', 'Une nouvelle histoire commence pour nous tous.', 'A new story begins for all of us.', [(511, "Au revoir. Vraiment, j'en reviens pas.")], ''),
     ('mathias', 'Bonne chance avec vos nouveaux problèmes quotidiens!', 'Good luck with your new daily problems!', [(511, "Au revoir. Vraiment, j'en reviens pas.")], ''),
 ]
 WALK = [

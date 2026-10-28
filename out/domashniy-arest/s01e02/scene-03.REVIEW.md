@@ -10,23 +10,23 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Самсон | Водка — жидкий хлеб. | Vodka is liquid bread. | #88 00:06:11: Водка, жидкий хлеб | adapted: speaker not marked in the subtitles; given to Samson |
-| 2 | Аня | Классный из тебя мэр получится, Самсон. | You'll make a great mayor, Samson. | #89 00:06:14: Классный из тебя мэр получится, Самсон | verbatim |
-| 3 | Аня | Живот у тебя, как у депутата. | You've got a belly like a member of parliament. | #91 00:06:17: у тебя | adapted: adapted from cues 91-92: slang 'Булька' -> 'Живот'; 'как будто всю жизнь в Государственной думе просидел' -> 'как у депутата' |
-| 4 | Самсон | Угу. | Uh-huh. | #93 00:06:23: Угу | verbatim |
-| 5 | Аня | Смотри. Я снимаю кольцо. | Watch. I'm taking off my ring. | #99 00:06:36: снимаю | adapted: cue 99 is garbled ('книгу'); its English says 'ring'. 'Смотри' added |
-| 6 | Самсон | Что ты снимаешь? Почему? | What are you taking off? Why? | #100 00:06:45: ты снимаешь? Почему | adapted: 'Чё это' -> 'Что' |
-| 7 | Аня | Потому что я не вор. | Because I'm not a thief. | #101 00:06:48: Потому что я не вор | verbatim |
-| 8 | Самсон | Я ничего не понял, Аркаш. | I didn't understand a thing, Arkash. | #104 00:06:57: Я ничего не понял, Аркаш | verbatim |
-| 9 | Аня | Я человек чистый. Я вообще не вор. | I'm an honest man. I'm not a thief at all. | #105 00:06:59: Я человек чистый<br>#106 00:07:06: не вор | adapted: cue 106 'Я вот здесь не вор вообще' -> 'Я вообще не вор' |
-| 10 | Аня | Вот так на митингах говори, запомни. | That's how you talk at rallies, remember that. | #107 00:07:09: Вот так на митингах говори, запомни | verbatim |
-| 11 | Самсон | А, на митингах, да. | Ah, at rallies, right. | #108 00:07:13: А, на митингах, да | verbatim |
-| 12 | Аня | Вор, вор. Откуда это слово? | Thief, thief. Where does that word come from? | #109 00:07:15: Вор, вор. Откуда это слово | verbatim |
-| 13 | Аня | Это бизнес, Самсон. Бизнес. | It's business, Samson. Business. | #110 00:07:18: Это бизнес, Самсон. Бизнес | verbatim |
+| 1 | Самсон | Водка — жидкий хлеб. | Vodka is liquid bread. | #88: Водка, жидкий хлеб | adapted: speaker not marked in the subtitles; given to Samson |
+| 2 | Аркадий | Классный из тебя мэр получится, Самсон. | You'll make a great mayor, Samson. | #89: Классный из тебя мэр получится, Самсон | verbatim |
+| 3 | Аркадий | Живот у тебя, как у депутата. | You've got a belly like a member of parliament. | #91: у тебя | adapted: adapted from cues 91-92: slang 'Булька' -> 'Живот'; 'как будто всю жизнь в Государственной думе просидел' -> 'как у депутата' |
+| 4 | Самсон | Угу. | Uh-huh. | #93: Угу | verbatim |
+| 5 | Аркадий | Смотри. Я снимаю кольцо. | Watch. I'm taking off my ring. | #99: снимаю | adapted: cue 99 is garbled ('книгу'); its English says 'ring'. 'Смотри' added |
+| 6 | Самсон | Что ты снимаешь? Почему? | What are you taking off? Why? | #100: ты снимаешь? Почему | adapted: 'Чё это' -> 'Что' |
+| 7 | Аркадий | Потому что я не вор. | Because I'm not a thief. | #101: Потому что я не вор | verbatim |
+| 8 | Самсон | Я ничего не понял, Аркаш. | I didn't understand a thing, Arkash. | #104: Я ничего не понял, Аркаш | verbatim |
+| 9 | Аркадий | Я человек чистый. Я вообще не вор. | I'm an honest man. I'm not a thief at all. | #105: Я человек чистый<br>#106: не вор | adapted: cue 106 'Я вот здесь не вор вообще' -> 'Я вообще не вор' |
+| 10 | Аркадий | Вот так на митингах говори, запомни. | That's how you talk at rallies, remember that. | #107: Вот так на митингах говори, запомни | verbatim |
+| 11 | Самсон | А, на митингах, да. | Ah, at rallies, right. | #108: А, на митингах, да | verbatim |
+| 12 | Аркадий | Вор, вор. Откуда это слово? | Thief, thief. Where does that word come from? | #109: Вор, вор. Откуда это слово | verbatim |
+| 13 | Аркадий | Это бизнес, Самсон. Бизнес. | It's business, Samson. Business. | #110: Это бизнес, Самсон. Бизнес | verbatim |
 | 14 | Самсон | Бизнес? | Business? | new | new: new: Samson repeats the word |
-| 15 | Аня | Какая разница, кто будет строить дороги? | What does it matter who builds the roads? | #111 00:07:23: Какая разница, кто | adapted: 'дороги тебе будет строить' -> 'будет строить дороги' |
-| 16 | Аня | Моя фирма или дяди из Москвы. | My firm, or some guys from Moscow. | #112 00:07:27: Моя фирма<br>#114 00:07:29: дяди из Москвы | adapted: 'Или' moved to the middle |
-| 17 | Самсон | Поехали! | Here we go! | #115 00:07:32: Поехали | adapted: speaker not marked; given to Samson (the toast) |
+| 15 | Аркадий | Какая разница, кто будет строить дороги? | What does it matter who builds the roads? | #111: Какая разница, кто | adapted: 'дороги тебе будет строить' -> 'будет строить дороги' |
+| 16 | Аркадий | Моя фирма или дяди из Москвы. | My firm, or some guys from Moscow. | #112: Моя фирма<br>#114: дяди из Москвы | adapted: 'Или' moved to the middle |
+| 17 | Самсон | Поехали! | Here we go! | #115: Поехали | adapted: speaker not marked; given to Samson (the toast) |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

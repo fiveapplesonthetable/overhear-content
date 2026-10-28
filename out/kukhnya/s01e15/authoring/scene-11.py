@@ -4,30 +4,29 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 15
 SCENE = 11
-TITLE = "Чудо-исцеление  (Miraculous Healing)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Чудо-исцеление  (Miraculous Healing)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "lyova": "angelina", "chef": "anja"}
-LABELS = {"lyova": "Лёва", "chef": "Шеф"}
+LABELS = {'barinov': 'Шеф', 'lyova': 'Лёва'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.15'
 SOURCE_FILE = 'sources/kukhnya/s01/e15.ru.dual.srt'
 INTRO = 'In the kitchen, Leva manages the final orders of the night. Suddenly, Chef Victor reveals that his heart condition was completely faked just to force Leva back to work. Furious, Leva attacks him. Let us listen to their conversation in Russian first.'
 OPENER = 'Now let us examine the conversation line by line.'
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "In the kitchen, Leva manages the final orders of the night. Suddenly, Chef Victor reveals that his heart condition was completely faked just to force Leva back to work. Furious, Leva attacks him. Next time you watch the episode, listen for the Russian expressions for 'to attend to' and 'last' — you will catch every word right away. See you next time!"
-CLOSING = ("lyova", "Пока!")
+CLOSING = ('lyova', 'Пока!')
 STORY = [
     ('lyova', 'Федя, займись последним заказом.', 'Fedya, take care of the last order.', [(265, 'Последний заказ треска по-бретонски, Федя, займись.')], ''),
     ('lyova', 'Всё, кухня закрыта.', 'That is it, the kitchen is closed.', [(266, 'Все, кухня закрыта.')], ''),
-    ('chef', 'Я всегда говорил, что ты самый способный.', 'I always said that you are the most capable.', [(268, 'А я всегда говорил, что из этих инвалидов ты, Лева, самый способный.')], ''),
+    ('barinov', 'Я всегда говорил, что ты самый способный.', 'I always said that you are the most capable.', [(268, 'А я всегда говорил, что из этих инвалидов ты, Лева, самый способный.')], ''),
     ('lyova', 'Виктор Петрович, у вас больное сердце.', 'Viktor Petrovich, you have a sick heart.', [(269, 'За тебя. Виктор Петрович, сердце, сердце.')], ''),
-    ('chef', 'Сердце у меня в полном порядке.', 'My heart is in perfect order.', [(270, 'Сердце у меня в порядке, и кухня тоже.')], ''),
+    ('barinov', 'Сердце у меня в полном порядке.', 'My heart is in perfect order.', [(270, 'Сердце у меня в порядке, и кухня тоже.')], ''),
     ('lyova', 'Так вы меня обманули?', 'So you tricked me?', [(272, 'Так вы что, меня обманули?')], ''),
-    ('chef', 'А как ещё мне тебя вернуть?', 'And how else could I bring you back?', [(273, 'А как бы еще я тебя дурака из твоих бабских обид вернул на кухню?')], ''),
+    ('barinov', 'А как ещё мне тебя вернуть?', 'And how else could I bring you back?', [(273, 'А как бы еще я тебя дурака из твоих бабских обид вернул на кухню?')], ''),
     ('lyova', 'Ах ты сволочь!', 'Ah, you bastard!', [(276, 'Ах ты сволоча!')], ''),
-    ('chef', 'Лёва, успокойся!', 'Leva, calm down!', [(280, 'Лова, остынь мы с тобой в разных местовых категориях.')], ''),
+    ('barinov', 'Лёва, успокойся!', 'Leva, calm down!', [(280, 'Лова, остынь мы с тобой в разных местовых категориях.')], ''),
     ('lyova', 'Я тебе сейчас устрою приступ!', 'I will give you an attack right now!', [(282, 'Я тебя сейчас устрою. Это приступ инвалид труда.')], ''),
-    ('chef', 'Лёва, положи это на место!', 'Leva, put that in its place!', [], ''),
+    ('barinov', 'Лёва, положи это на место!', 'Leva, put that in its place!', [], ''),
     ('lyova', 'Я убью тебя!', 'I will kill you!', [], ''),
 ]
 WALK = [

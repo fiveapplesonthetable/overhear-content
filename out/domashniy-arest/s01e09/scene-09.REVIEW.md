@@ -11,19 +11,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Паша | Здравствуйте, Виктор Степанович. | Hello, Viktor Stepanovich. | new | new: polite greeting |
-| 2 | Губернатор | Что это такое, Павел Юрьевич? | What is this, Pavel Yuryevich? | #269 00:15:27: Что это такое | verbatim |
-| 3 | Паша | Это деньги. | This is money. | #270 00:15:28: Деньги | verbatim |
-| 4 | Губернатор | Какие ещё деньги? | What money are you talking about? | #271 00:15:41: Какие деньги | verbatim |
-| 5 | Паша | Те самые, о которых говорили. | The very money we talked about. | #272 00:15:45: Те, о которых мы с вами говорили | verbatim |
-| 6 | Губернатор | По-моему, вы сильно ошибаетесь. | In my opinion, you are sorely mistaken. | #274 00:15:52: По-моему, вы ошибаетесь | verbatim |
-| 7 | Губернатор | Вы должны были привезти документы. | You were supposed to bring documents. | #275 00:15:54: Вы должны были привезти документы мне | verbatim |
-| 8 | Губернатор | Вы привезли документы? | Did you bring the documents? | #276 00:16:01: Привезли | verbatim |
-| 9 | Паша | Да, конечно. Три бабки. | Yes, of course. Three grand. | #277 00:16:03: Привез<br>#278 00:16:05: Конечно, да<br>#279 00:16:07: Три бабки | verbatim |
-| 10 | Губернатор | Прекрасно! Оставьте эти три папки. | Excellent! Leave these three folders. | #280 00:16:10: Прекрасно. Оставьте три папки | verbatim |
-| 11 | Губернатор | Я посмотрю их позже. | I will examine them later. | #280 00:16:10: я их позже посмотрю | verbatim |
-| 12 | Паша | Теперь всё в порядке? | Is everything in order now? | #281 00:16:16: теперь все в порядке, да | verbatim |
-| 13 | Паша | Вы поможете разобраться с Самсоновым? | Will you help deal with Samsonov? | #283 00:16:22: Ну, вы же мне теперь поможете разобраться с Самсоновым | verbatim |
-| 14 | Губернатор | У нас всё в порядке. Всего доброго! | Everything is in order with us. Goodbye! | #282 00:16:18: У нас и было все в порядке. Всего доброго | verbatim |
+| 2 | Губернатор | Что это такое, Павел Юрьевич? | What is this, Pavel Yuryevich? | #269: Что это такое | verbatim |
+| 3 | Паша | Это деньги. | This is money. | #270: Деньги | verbatim |
+| 4 | Губернатор | Какие ещё деньги? | What money are you talking about? | #271: Какие деньги | verbatim |
+| 5 | Паша | Те самые, о которых говорили. | The very money we talked about. | #272: Те, о которых мы с вами говорили | verbatim |
+| 6 | Губернатор | По-моему, вы сильно ошибаетесь. | In my opinion, you are sorely mistaken. | #274: По-моему, вы ошибаетесь | verbatim |
+| 7 | Губернатор | Вы должны были привезти документы. | You were supposed to bring documents. | #275: Вы должны были привезти документы мне | verbatim |
+| 8 | Губернатор | Вы привезли документы? | Did you bring the documents? | #276: Привезли | verbatim |
+| 9 | Паша | Да, конечно. Три бабки. | Yes, of course. Three grand. | #277: Привез<br>#278: Конечно, да<br>#279: Три бабки | verbatim |
+| 10 | Губернатор | Прекрасно! Оставьте эти три папки. | Excellent! Leave these three folders. | #280: Прекрасно. Оставьте три папки | verbatim |
+| 11 | Губернатор | Я посмотрю их позже. | I will examine them later. | #280: я их позже посмотрю | verbatim |
+| 12 | Паша | Теперь всё в порядке? | Is everything in order now? | #281: теперь все в порядке, да | verbatim |
+| 13 | Паша | Вы поможете разобраться с Самсоновым? | Will you help deal with Samsonov? | #283: Ну, вы же мне теперь поможете разобраться с Самсоновым | verbatim |
+| 14 | Губернатор | У нас всё в порядке. Всего доброго! | Everything is in order with us. Goodbye! | #282: У нас и было все в порядке. Всего доброго | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

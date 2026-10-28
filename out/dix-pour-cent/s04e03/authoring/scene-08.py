@@ -7,8 +7,7 @@ SCENE = 8
 TITLE = "L'arrivée d'Élise  (Élise's Arrival)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'elise': 'emilie', 'gabriel': 'theo', 'lea': 'lucie'}
-LABELS = {'elise': 'Élise', 'gabriel': 'Gabriel', 'lea': 'Andréa'}
+LABELS = {'andrea': 'Andréa', 'elise': 'Élise', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e03.fr.dual.srt'
 INTRO = "Elise Formain arrives at the ASK agency following her departure from StarMedia. She gathers the team to deliver an ambitious welcome speech, hoping to smooth over past rivalries with Andrea Martel. However, an outraged Gabriel Sarda refuses to play along with the corporate welcome. Let's listen to their tense encounter in French first."
@@ -18,19 +17,19 @@ OUTRO = "Gabriel delivers a scathing toast against Elise Formain before storming
 CLOSING = ('gabriel', 'À bientôt!')
 STORY = [
     ('elise', 'Merci à tous pour votre accueil chez ASK.', 'Thank you all for your welcome at ASK.', [(279, "merci à tous de m'accueillir chez ASK")], ''),
-    ('lea', 'Bienvenue parmi nous dans notre équipe.', 'Welcome among us to our team.', [(278, 'Élise, la parole est à toi')], ''),
+    ('andrea', 'Bienvenue parmi nous dans notre équipe.', 'Welcome among us to our team.', [(278, 'Élise, la parole est à toi')], ''),
     ('elise', "J'ai une réputation un peu difficile.", 'I have a somewhat difficult reputation.', [(281, "j'ai une certaine mauvaise réputation")], ''),
-    ('lea', 'Ici, nous respectons le bon travail.', 'Here, we respect good work.', [(299, "j'ai toujours admiré ton travail")], ''),
+    ('andrea', 'Ici, nous respectons le bon travail.', 'Here, we respect good work.', [(299, "j'ai toujours admiré ton travail")], ''),
     ('elise', 'Je veux travailler avec vous deux.', 'I want to work with you two.', [(302, "on a beaucoup à apprendre l'un de l'autre")], ''),
     ('elise', 'Vous êtes de très bons agents.', 'You are very good agents.', [(294, "d'excellents agents")], ''),
     ('gabriel', "Moi, je n'ai pas le temps.", 'As for me, I do not have time.', [(310, "je n'ai pas le temps pour ça")], ''),
-    ('lea', 'Gabriel, reste un instant avec nous.', 'Gabriel, stay a moment with us.', [(309, 'Quant à toi, Gabriel')], ''),
+    ('andrea', 'Gabriel, reste un instant avec nous.', 'Gabriel, stay a moment with us.', [(309, 'Quant à toi, Gabriel')], ''),
     ('gabriel', 'Je préfère retourner à mon bureau.', 'I prefer to return to my office.', [(310, "J'ai du travail")], ''),
     ('elise', 'Nous pouvons quand même trinquer ensemble.', 'We can still drink a toast together.', [(311, 'Oui, je voudrais porter un toast')], ''),
     ('gabriel', 'Je porte un toast très clair.', 'I propose a very clear toast.', [(311, 'Écoutez bien')], ''),
     ('gabriel', 'À la fin de nos principes!', 'To the end of our principles!', [(312, 'À la mort de nos principes !')], ''),
     ('elise', 'Ton accueil est vraiment très direct!', 'Your welcome is really very direct!', [(306, "C'est le moins qu'on puisse dire")], ''),
-    ('lea', 'Pardon, nous sommes tous très fatigués.', 'Excuse us, we are all very tired.', [(307, 'Désolé')], ''),
+    ('andrea', 'Pardon, nous sommes tous très fatigués.', 'Excuse us, we are all very tired.', [(307, 'Désolé')], ''),
 ]
 WALK = [
     (0, None, "'Thank you all for your welcome at ASK.' Elise opens her speech with polite gratitude. The key noun here means 'welcome', anchored by its matching French article."),

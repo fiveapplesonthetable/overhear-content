@@ -10,20 +10,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Паша | Я не понял, в чём смысл? | I did not understand, what is the point? | #727 00:39:26: в чем смысл | verbatim |
-| 2 | Паша | Она сейчас поедет в детский сад. | She will go to the kindergarten now. | #728 00:39:33: Она сейчас поедет в детский сад | verbatim |
-| 3 | Паша | Там всё тихо. Значит, Марина чистая. | Everything is quiet there. That means Marina is clean. | #729 00:39:35: Там все тихо<br>#729 00:39:35: Значит, Марина чистая | verbatim |
-| 4 | Паша | После этого Аникеев ей будет полностью доверять. | After that, Anikeyev will trust her completely. | #730 00:39:39: ей будет полностью доверять | verbatim |
-| 5 | Паша | И тогда мы узнаем всё, что нужно. | And then we will find out everything necessary. | #731 00:39:42: И тогда мы узнаем все | verbatim |
-| 6 | Паша | Хитро придумано, шеф! | Cleverly thought out, boss! | #732 00:39:48: Хитро | verbatim |
-| 7 | Паша | Учись, Соколов! Соколов! | Learn from this, Sokolov! Sokolov! | #733 00:39:48: Учись, Соколов! Соколов! | verbatim |
-| 8 | Паша | А где Соколов? Ты что, обиделся? | And where is Sokolov? What, did you get offended? | #734 00:39:54: Ты что, обиделся<br>#735 00:39:59: А где Соколов? | verbatim |
-| 9 | Лёва | Пошли, ребята, пошли на штурм! | Let's go, guys, let's go on the raid! | #737 00:40:02: Пошли, ребята, пошли! | verbatim |
-| 10 | Лёва | Так, первый пошёл, второй, третий! | Right, first one in, second, third! | #738 00:40:14: первый пошел, второй | verbatim |
-| 11 | Лёва | Простите, можно я выйду? | Excuse me, may I get out? | #746 00:40:47: Простите, можно я выйду? | verbatim |
-| 12 | Паша | Нельзя! Сидеть на месте! | You cannot! Sit in your place! | #747 00:40:49: Нельзя | verbatim |
-| 13 | Лёва | Меня сейчас тошнит. | I feel nauseous right now. | #748 00:40:50: Меня сейчас тошнит | verbatim |
-| 14 | Паша | Терпеть! Операция началась! | Endure it! The operation has begun! | #749 00:40:52: Терпеть! | verbatim |
+| 1 | Лавров | Я не понял, в чём смысл? | I did not understand, what is the point? | #727: в чем смысл | verbatim |
+| 2 | Паша | Она сейчас поедет в детский сад. | She will go to the kindergarten now. | #728: Она сейчас поедет в детский сад | verbatim |
+| 3 | Паша | Там всё тихо. Значит, Марина чистая. | Everything is quiet there. That means Marina is clean. | #729: Там все тихо<br>#729: Значит, Марина чистая | verbatim |
+| 4 | Паша | После этого Аникеев ей будет полностью доверять. | After that, Anikeyev will trust her completely. | #730: ей будет полностью доверять | verbatim |
+| 5 | Паша | И тогда мы узнаем всё, что нужно. | And then we will find out everything necessary. | #731: И тогда мы узнаем все | verbatim |
+| 6 | Лавров | Хитро придумано, шеф! | Cleverly thought out, boss! | #732: Хитро | verbatim |
+| 7 | Паша | Учись, Соколов! Соколов! | Learn from this, Sokolov! Sokolov! | #733: Учись, Соколов! Соколов! | verbatim |
+| 8 | Лавров | А где Соколов? Ты что, обиделся? | And where is Sokolov? What, did you get offended? | #734: Ты что, обиделся<br>#735: А где Соколов? | verbatim |
+| 9 | Лёва | Пошли, ребята, пошли на штурм! | Let's go, guys, let's go on the raid! | #737: Пошли, ребята, пошли! | verbatim |
+| 10 | Лёва | Так, первый пошёл, второй, третий! | Right, first one in, second, third! | #738: первый пошел, второй | verbatim |
+| 11 | Лёва | Простите, можно я выйду? | Excuse me, may I get out? | #746: Простите, можно я выйду? | verbatim |
+| 12 | Паша | Нельзя! Сидеть на месте! | You cannot! Sit in your place! | #747: Нельзя | verbatim |
+| 13 | Лёва | Меня сейчас тошнит. | I feel nauseous right now. | #748: Меня сейчас тошнит | verbatim |
+| 14 | Паша | Терпеть! Операция началась! | Endure it! The operation has begun! | #749: Терпеть! | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

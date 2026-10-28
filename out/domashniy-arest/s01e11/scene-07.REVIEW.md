@@ -10,20 +10,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Паша | Почему вы все здесь стоите? | Why are you all standing here? | #117 00:08:08: Что мы смотрим, стоим | verbatim |
-| 2 | Паша | Быстро идите работать на свои места! | Quickly go work at your places! | #117 00:08:08: Идите, идите<br>#117 00:08:08: быстрее | verbatim |
-| 3 | Паша | Я уволю каждого ленивого сотрудника! | I will fire every lazy employee! | #118 00:08:12: Уволю | verbatim |
-| 4 | Помощник | Павел Юрьевич, пожалуйста, послушайте меня. | Pavel Yuryevich, please listen to me. | #119 00:08:17: Павел Юрьевич | verbatim |
-| 5 | Паша | Что у вас там опять случилось? | What has happened over there with you again? | #120 00:08:17: Да | verbatim |
-| 6 | Помощник | В целом наша ситуация пока нормальная. | Overall our situation is still normal. | #121 00:08:18: в целом ситуация нормальная | verbatim |
-| 7 | Помощник | У вас по-прежнему есть хорошее преимущество. | You still have a good lead. | #121 00:08:18: У вас по-прежнему преимущество | verbatim |
-| 8 | Паша | О каком преимуществе ты сейчас говоришь? | What lead are you talking about now? | #122 00:08:22: какие 6% | verbatim |
-| 9 | Паша | Если приедет президент, Самсонов сразу победит! | If the president arrives, Samsonov will immediately win! | #122 00:08:22: приедет, у него будет | verbatim |
-| 10 | Паша | Ты понимаешь, что это прямая поддержка? | Do you understand that this is direct support? | #123 00:08:27: Ты не понимаешь, что это поддержка прямая | verbatim |
-| 11 | Помощник | Но ведь это же совсем нечестно! | But that is completely unfair! | #124 00:08:32: Это же<br>#126 00:08:36: нечестно | verbatim |
-| 12 | Паша | Всё, замолчите и уйдите вон! | That's it, be quiet and get out! | #127 00:08:39: Все, пошли вон | verbatim |
-| 13 | Паша | Уходите отсюда прямо сейчас, я сказал! | Leave here right now, I said! | #128 00:08:46: я сказал | verbatim |
-| 14 | Паша | И к тебе это тоже относится! | And this applies to you too! | #129 00:08:53: К тебе это тоже относится | verbatim |
+| 1 | Паша | Почему вы все здесь стоите? | Why are you all standing here? | #117: Что мы смотрим, стоим | verbatim |
+| 2 | Паша | Быстро идите работать на свои места! | Quickly go work at your places! | #117: Идите, идите<br>#117: быстрее | verbatim |
+| 3 | Паша | Я уволю каждого ленивого сотрудника! | I will fire every lazy employee! | #118: Уволю | verbatim |
+| 4 | Помощник | Павел Юрьевич, пожалуйста, послушайте меня. | Pavel Yuryevich, please listen to me. | #119: Павел Юрьевич | verbatim |
+| 5 | Паша | Что у вас там опять случилось? | What has happened over there with you again? | #120: Да | verbatim |
+| 6 | Помощник | В целом наша ситуация пока нормальная. | Overall our situation is still normal. | #121: в целом ситуация нормальная | verbatim |
+| 7 | Помощник | У вас по-прежнему есть хорошее преимущество. | You still have a good lead. | #121: У вас по-прежнему преимущество | verbatim |
+| 8 | Паша | О каком преимуществе ты сейчас говоришь? | What lead are you talking about now? | #122: какие 6% | verbatim |
+| 9 | Паша | Если приедет президент, Самсонов сразу победит! | If the president arrives, Samsonov will immediately win! | #122: приедет, у него будет | verbatim |
+| 10 | Паша | Ты понимаешь, что это прямая поддержка? | Do you understand that this is direct support? | #123: Ты не понимаешь, что это поддержка прямая | verbatim |
+| 11 | Помощник | Но ведь это же совсем нечестно! | But that is completely unfair! | #124: Это же<br>#126: нечестно | verbatim |
+| 12 | Паша | Всё, замолчите и уйдите вон! | That's it, be quiet and get out! | #127: Все, пошли вон | verbatim |
+| 13 | Паша | Уходите отсюда прямо сейчас, я сказал! | Leave here right now, I said! | #128: я сказал | verbatim |
+| 14 | Паша | И к тебе это тоже относится! | And this applies to you too! | #129: К тебе это тоже относится | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

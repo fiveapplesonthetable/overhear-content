@@ -10,32 +10,32 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Шеф | Все по... | Everything according to... | #95 00:05:52: Все по | verbatim |
-| 2 | Шеф | Пошел вон. | Get out of here. | #96 00:05:54: Пошел вон | verbatim |
-| 3 | Шеф | Вот именно. | Exactly. | #97 00:05:56: Вот именно | verbatim |
-| 4 | Шеф | Ты что, расстроилась? | Wait, are you upset? | #98 00:06:01: Ты что, расстроилась | verbatim |
-| 5 | Шеф | Да нет. | No, not really. | #99 00:06:03: Да нет | verbatim |
-| 6 | Шеф | Значит, расстроилась. | That means you are upset. | #101 00:06:12: Значит, расстроилась | verbatim |
-| 7 | Шеф | Это же папа все-таки. | He is still my dad, after all. | #102 00:06:16: Это же папа все-таки | verbatim |
-| 8 | Шеф | А вы из-за чего поругались? | Why did the two of you have a falling-out anyway? | #103 00:06:19: А вы из-за чего поругались | verbatim |
-| 9 | Шеф | Это коровы и свиньи. | Those are cows and pigs. | #107 00:06:30: Это коровы и свиньи | verbatim |
-| 10 | Шеф | Я их ненавижу. | I hate what happens to them. | #109 00:06:35: Я их ненавижу | verbatim |
-| 11 | Шеф | Мама, я не ребёнок. | Mom, I am not a child anymore. | #112 00:06:42: Мама, я не ребёнок | verbatim |
-| 12 | Шеф | Я человек со своей гражданской позицией. | I am a person with my own civic stance. | #113 00:06:44: Я человек со своей гражданской позицией | verbatim |
-| 13 | Шеф | Ну так вот что, человек. | Well, listen here, person. | #114 00:06:47: Ну так вот что, человек | verbatim |
+| 1 | Шеф | Все по... | Everything according to... | #95: Все по | verbatim |
+| 2 | Костя | Пошел вон. | Get out of here. | #96: Пошел вон | verbatim |
+| 3 | Шеф | Вот именно. | Exactly. | #97: Вот именно | verbatim |
+| 4 | Костя | Ты что, расстроилась? | Wait, are you upset? | #98: Ты что, расстроилась | verbatim |
+| 5 | Шеф | Да нет. | No, not really. | #99: Да нет | verbatim |
+| 6 | Костя | Значит, расстроилась. | That means you are upset. | #101: Значит, расстроилась | verbatim |
+| 7 | Шеф | Это же папа все-таки. | He is still my dad, after all. | #102: Это же папа все-таки | verbatim |
+| 8 | Костя | А вы из-за чего поругались? | Why did the two of you have a falling-out anyway? | #103: А вы из-за чего поругались | verbatim |
+| 9 | Шеф | Это коровы и свиньи. | Those are cows and pigs. | #107: Это коровы и свиньи | verbatim |
+| 10 | Костя | Я их ненавижу. | I hate what happens to them. | #109: Я их ненавижу | verbatim |
+| 11 | Шеф | Мама, я не ребёнок. | Mom, I am not a child anymore. | #112: Мама, я не ребёнок | verbatim |
+| 12 | Костя | Я человек со своей гражданской позицией. | I am a person with my own civic stance. | #113: Я человек со своей гражданской позицией | verbatim |
+| 13 | Шеф | Ну так вот что, человек. | Well, listen here, person. | #114: Ну так вот что, человек | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Everything according to...' The grammar packs 'all' and 'on' into a tight, idiomatic kitchen exchange.
-- 'Get out of here.' Notice how Russian expresses 'go' and 'out' with crisp inflection rather than helper words. Chef Viktor answers right away.
-- 'Exactly.' Chef Viktor brings out the contrast between 'there you go' and 'exactly' in a few short words.
-- 'Wait, are you upset?' Here the Russian phrasing highlights 'you' before landing on 'got upset'.
-- 'No, not really.' Notice how Russian expresses 'yes' and 'there is no' with crisp inflection rather than helper words. Kostya answers right away.
-- 'That means you are upset.' Here the Russian phrasing highlights 'so' before landing on 'got upset'.
-- 'He is still my dad, after all.' Chef Barinov centers this short reply on 'Dad', letting a few direct words carry the whole meaning.
-- 'Why did the two of you have a falling-out anyway?' Kostya raises the pitch on 'to quarrel' to turn the phrase into a direct spoken question. Chef Viktor answers right away.
-- 'Those are cows and pigs.' The grammar packs 'this' and 'pig' into a tight, idiomatic kitchen exchange.
-- 'I hate what happens to them.' Spoken Russian keeps this brisk, leaning on 'I' and finishing on 'hate'.
-- 'Mom, I am not a child anymore.' Chef Viktor brings out the contrast between 'mum' and 'I' in a few short words. Kostya answers right away.
-- 'I am a person with my own civic stance.' The meaning hinges on 'I' working together with 'position' in spoken Russian.
-- 'Well, listen here, person.' Notice how Russian expresses 'come on' and 'man' with crisp inflection rather than helper words.
+- 'Everything according to...' Over the conversation and the visit, Barinov answers Kostya without a second thought.
+- 'Get out of here.' By getting out of here, Kostya keeps his side of the story grounded.
+- 'Exactly.' With the conversation and shift in play, Barinov keeps this short reply brisk and direct.
+- 'Wait, are you upset?' Here asking whether Barinov upset shows Kostya looking for the real truth. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'No, not really.' With the conversation and point in play, Barinov keeps this short reply brisk and direct.
+- 'That means you are upset.' Kostya reminds Barinov that that means Barinov is upset before the moment passes.
+- 'He is still my dad, after all.' Barinov explains that he is still his dad after all, keeping his voice calm and direct. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'Why did the two of you have a falling-out anyway?' Here wondering why the two of Barinov has a falling out anyway shows Kostya looking for the real truth.
+- 'Those are cows and pigs.' Barinov mentions that those are cows and pigs so Kostya sees what is at stake. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'I hate what happens to them.' Mentioning that he hates what happens to them moves the talk in a new direction.
+- 'Mom, I am not a child anymore.' Pointing out that Mom he is not a child anymore gives Kostya a sobering reality check.
+- 'I am a person with my own civic stance.' Adding that he is a person with his own civic stance fills in the missing piece for Barinov.
+- 'Well, listen here, person.' Over the work and the plan, Barinov answers Kostya without a second thought.

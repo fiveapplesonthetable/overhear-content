@@ -7,8 +7,7 @@ SCENE = 21
 TITLE = 'Deux actrices pour un rôle  (Two Actresses for One Part)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'lea': 'lucie', 'gabriel': 'theo', 'line': 'emilie'}
-LABELS = {'lea': 'Andréa', 'gabriel': 'Gabriel', 'line': 'Line'}
+LABELS = {'andrea': 'Andréa', 'gabriel': 'Gabriel', 'line': 'Line'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e02.fr.dual.srt'
 INTRO = "The power of rivalry. Françoise is coming back, the film is saved, and Andréa laughed at the very idea of Line in a Gabor film. Then Gabriel's phone rings. It's Line, and she is thrilled. Listen to it in French first, and don't worry if the argument goes fast."
@@ -21,19 +20,19 @@ STORY = [
     ('line', 'Je viens de passer deux heures avec Gabor.', 'I', [(606, 'Je viens de passer deux heures avec Gabor')], ''),
     ('line', 'On tourne dans trois semaines, les enfants!', 'We start shooting in three weeks, children!', [(607, 'On tourne dans trois semaines, les enfants')], ''),
     ('line', 'Merci, Gabi. Mon petit miracle!', 'Thank you, Gabi. My little miracle!', [(608, 'Merci, Gabi'), (609, 'Mon petit miracle')], ''),
-    ('lea', 'On fait quelle impression maintenant?', 'So what do we look like now?', [(610, 'On fait quelle impression')], ''),
+    ('andrea', 'On fait quelle impression maintenant?', 'So what do we look like now?', [(610, 'On fait quelle impression')], ''),
     ('gabriel', 'Des gens qui comprennent le cinéma de Gabor.', 'People who understand Gabor', [(612, 'Des gens qui comprennent le cinéma de Gabor')], ''),
-    ('lea', "Personne ne t'a demandé d'intervenir.", 'Nobody asked you to step in.', [(614, "Personne ne t'a demandé d'intervenir")], ''),
+    ('andrea', "Personne ne t'a demandé d'intervenir.", 'Nobody asked you to step in.', [(614, "Personne ne t'a demandé d'intervenir")], ''),
     ('gabriel', "Je voulais t'aider. Tu paniquais.", 'I wanted to help you. You were panicking.', [(617, "Je voulais t'aider"), (615, 'tu paniquais')], ''),
-    ('lea', 'Ce rôle est pour Françoise Fabian!', 'This part is for Françoise Fabian!', [(619, 'pour Françoise Fabian')], ''),
+    ('andrea', 'Ce rôle est pour Françoise Fabian!', 'This part is for Françoise Fabian!', [(619, 'pour Françoise Fabian')], ''),
     ('gabriel', 'Alors va dire à Françoise que le rôle est pris!', 'Then go and tell Françoise the part is taken!', [(621, 'que le rôle est pris')], ''),
-    ('lea', 'Gabriel, je ne plaisante pas! Fais ce que je dis!', 'Gabriel, I', [(622, 'Gabriel, je ne plaisante pas ! Fais ce que je dis')], ''),
+    ('andrea', 'Gabriel, je ne plaisante pas! Fais ce que je dis!', 'Gabriel, I', [(622, 'Gabriel, je ne plaisante pas ! Fais ce que je dis')], ''),
     ('gabriel', "Ne me donne pas d'ordres!", 'Don', [(623, "Ne me donne pas d'ordres")], ''),
-    ('lea', 'Tu gâches tout!', 'You ruin everything!', [], ''),
+    ('andrea', 'Tu gâches tout!', 'You ruin everything!', [], ''),
     ('gabriel', "Tu n'as besoin de personne, Andréa!", 'You don', [(626, "Tu n'as besoin de personne, Andréa")], ''),
-    ('lea', 'En tout cas, pas de toi et de tes idées stupides!', 'Well, not you and your stupid ideas, anyway!', [(627, 'En tout cas pas de toi et de tes idées stupides')], ''),
+    ('andrea', 'En tout cas, pas de toi et de tes idées stupides!', 'Well, not you and your stupid ideas, anyway!', [(627, 'En tout cas pas de toi et de tes idées stupides')], ''),
     ('gabriel', "Et quand tu voudras un enfant, trouve quelqu'un d'autre!", 'And when you want a child, find someone else!', [(629, "trouve quelqu'un d'autre")], ''),
-    ('lea', 'Exactement!', 'Exactly!', [(630, 'Exactement')], ''),
+    ('andrea', 'Exactement!', 'Exactly!', [(630, 'Exactement')], ''),
 ]
 WALK = [
     (0, None, "'Gabi! He wants me!' A pet name for Gabriel, then a tiny sentence: the little word for 'me' goes before the verb. Gabor wants her for the part."),

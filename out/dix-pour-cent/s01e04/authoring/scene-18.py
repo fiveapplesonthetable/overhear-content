@@ -7,8 +7,7 @@ SCENE = 18
 TITLE = 'Surprise par Catherine  (Caught by Catherine)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'hippolyte': 'theo', 'camille': 'emilie', 'lea': 'lucie'}
-LABELS = {'hippolyte': 'Hippolyte', 'camille': 'Camille', 'lea': 'Andréa'}
+LABELS = {'camille': 'Camille', 'catherine': 'Catherine', 'hippolyte': 'Hippolyte'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e04.fr.dual.srt'
 INTRO = "Camille has ridden on the back of Hippolyte's scooter to his parents' house — which is also Mathias's house. She is terrified of running into Mathias or his wife Catherine, but Hippolyte assures her nobody is home. As they look through his childhood photos, though, Hippolyte gets a little too close, and then the front door opens. Let's hear the scene in French first."
@@ -29,12 +28,12 @@ STORY = [
     ('hippolyte', 'Camille, quel est le problème?', 'Camille, what is the problem?', [(457, 'Camille'), (459, 'quel est le problème')], ''),
     ('camille', "Ce n'est pas toi, je te jure.", 'It', [(458, 'je te jure')], ''),
     ('hippolyte', 'Comment tu le sais? Je sens quelque chose de spécial entre nous.', 'How do you know? I feel something special between us.', [(460, 'Comment tu le sais'), (461, 'Je sens quelque chose de spécial entre nous')], ''),
-    ('lea', "C'est Camille! Bonjour, Camille.", 'It', [(465, "C'est Camille ! Bonjour, Camille")], ''),
-    ('lea', 'Tu restes dîner?', 'Are you staying for dinner?', [(467, 'Tu restes dîner')], ''),
+    ('catherine', "C'est Camille! Bonjour, Camille.", 'It', [(465, "C'est Camille ! Bonjour, Camille")], ''),
+    ('catherine', 'Tu restes dîner?', 'Are you staying for dinner?', [(467, 'Tu restes dîner')], ''),
     ('camille', 'Merci, mais je dois rentrer.', 'Thank you, but I have to go home.', [(468, 'Merci, mais')], ''),
     ('hippolyte', 'Excellente idée! Ton père est à une projection.', 'Excellent idea! Your dad is at a screening.', [(468, 'Excellente idée'), (469, 'Ton père est à une projection')], ''),
-    ('lea', 'Ne me laisse pas seule! Fais-le pour moi!', 'Don', [(469, 'Ne me laisse pas seule'), (471, 'Fais-le pour moi')], ''),
-    ('lea', 'Tu aimes le poulet, Camille?', 'Do you like chicken, Camille?', [(472, 'Tu aimes le poulet, Camille')], ''),
+    ('catherine', 'Ne me laisse pas seule! Fais-le pour moi!', 'Don', [(469, 'Ne me laisse pas seule'), (471, 'Fais-le pour moi')], ''),
+    ('catherine', 'Tu aimes le poulet, Camille?', 'Do you like chicken, Camille?', [(472, 'Tu aimes le poulet, Camille')], ''),
 ]
 WALK = [
     (0, None, "'Are you sure that your parents aren't here?' The word for 'sure' is masculine because she is asking Hippolyte."),

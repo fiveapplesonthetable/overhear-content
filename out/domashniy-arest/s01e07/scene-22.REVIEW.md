@@ -10,20 +10,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Самсон | Два цилиндра не работают. Свечи плохие мне подсунули! | Two cylinders are not working. They slipped me bad spark plugs! | #825 00:41:36: Два<br>#826 00:41:38: Свечи<br>#826 00:41:38: подсунули | adapted: ASR 'силидра' -> 'цилиндра'; slang 'паленые' -> 'плохие' |
-| 2 | Самсон | Ну что мы сидим? Выходим! | Well, why are we sitting here? Let's get out! | #827 00:41:41: сидим<br>#828 00:41:44: Выходим | adapted: crude 'сисемнём' omitted |
-| 3 | Самсон | Да, ладно, выходим. | Yes, alright, let's get out. | #829 00:41:45: Да<br>#830 00:41:46: Выходим<br>#831 00:41:46: Ладно | verbatim |
-| 4 | Самсон | Вот оно, наше местечко! | Here it is, our little spot! | #832 00:41:47: наше местечко | verbatim |
-| 5 | Нина | Ой, тут кругом снег! А где мы сидеть будем? | Oh, there is snow all around here! And where are we going to sit? | #834 00:41:51: Ой<br>#835 00:41:53: А где мы сидеть | verbatim |
-| 6 | Самсон | Сын, давай помогай мне! Сейчас это бревно катанём и снег уберём. | Son, come help me! Right now we will roll this log over and clear the snow. | #839 00:42:00: Давай помогай, давай бревно катанём<br>#841 00:42:03: Сейчас снег | verbatim |
-| 7 | Самсон | А зачем нам бревно? Я вот стулья взял! | And why do we need a log? I brought folding chairs right here! | #847 00:42:10: бревно<br>#848 00:42:11: Я вот<br>#850 00:42:13: взял | adapted: ASR 'чем бревно-то... тулья взял' -> 'зачем бревно... стулья взял' |
-| 8 | Самсон | Ты зачем эти китайские стулья с собой таскаешь, Даня? | Why are you dragging these Chinese chairs around with you, Danya? | #853 00:42:17: с собой<br>#853 00:42:17: таскаешь | adapted: crude 'говно' replaced with 'стулья' |
-| 9 | Самсон | Это не Китай, а Норвегия! Сто пятьдесят килограммов держат. Прошу! | This is not China, it is Norway! They hold a hundred and fifty kilograms. Please, have a seat! | #855 00:42:22: А Норвегия<br>#856 00:42:23: Прошу | adapted: number '150 кило' written out as 'сто пятьдесят килограммов' |
-| 10 | Самсон | Детский сад какой-то. | Like some kind of kindergarten. | #857 00:42:27: Детский сад какой-то | verbatim |
-| 11 | Нина | Знаете, Даня просто волшебник! Спасибо! | You know, Danya is simply a wizard! Thank you! | #858 00:42:29: Знаете<br>#858 00:42:29: волшебник | adapted: colloquial 'прям' -> 'просто' |
-| 12 | Самсон | Так, ладно, мужики, за дровами! Подъём, пошли! | Right, fine, men, let's go for firewood! Up you get, let's go! | #859 00:42:30: Так, ладно<br>#861 00:42:36: Мужики, за дровами<br>#862 00:42:38: Подъем. Пошли | verbatim |
-| 13 | Самсон | А зачем идти за дровами? Я вот уголь взял. | And why go for firewood? I brought charcoal right here. | #863 00:42:40: А зачем за дровами<br>#864 00:42:41: Я вот уголь взял | verbatim |
-| 14 | Самсон | Выкинь, Даня, это же химия! В лесу — только дровами! Ну, вперёд! | Throw it out, Danya, that is pure chemicals! In the forest, only with firewood! Come on, forward! | #865 00:42:47: Выкинь<br>#865 00:42:47: Это же химия<br>#866 00:42:51: В лесу<br>#866 00:42:51: только дровами<br>#868 00:42:57: Ну, вперёд | adapted: slang 'голимая' omitted |
+| 1 | Самсон | Два цилиндра не работают. Свечи плохие мне подсунули! | Two cylinders are not working. They slipped me bad spark plugs! | #825: Два<br>#826: Свечи<br>#826: подсунули | adapted: ASR 'силидра' -> 'цилиндра'; slang 'паленые' -> 'плохие' |
+| 2 | Самсон | Ну что мы сидим? Выходим! | Well, why are we sitting here? Let's get out! | #827: сидим<br>#828: Выходим | adapted: crude 'сисемнём' omitted |
+| 3 | Даня | Да, ладно, выходим. | Yes, alright, let's get out. | #829: Да<br>#830: Выходим<br>#831: Ладно | verbatim |
+| 4 | Самсон | Вот оно, наше местечко! | Here it is, our little spot! | #832: наше местечко | verbatim |
+| 5 | Нина | Ой, тут кругом снег! А где мы сидеть будем? | Oh, there is snow all around here! And where are we going to sit? | #834: Ой<br>#835: А где мы сидеть | verbatim |
+| 6 | Самсон | Сын, давай помогай мне! Сейчас это бревно катанём и снег уберём. | Son, come help me! Right now we will roll this log over and clear the snow. | #839: Давай помогай, давай бревно катанём<br>#841: Сейчас снег | verbatim |
+| 7 | Даня | А зачем нам бревно? Я вот стулья взял! | And why do we need a log? I brought folding chairs right here! | #847: бревно<br>#848: Я вот<br>#850: взял | adapted: ASR 'чем бревно-то... тулья взял' -> 'зачем бревно... стулья взял' |
+| 8 | Самсон | Ты зачем эти китайские стулья с собой таскаешь, Даня? | Why are you dragging these Chinese chairs around with you, Danya? | #853: с собой<br>#853: таскаешь | adapted: crude 'говно' replaced with 'стулья' |
+| 9 | Даня | Это не Китай, а Норвегия! Сто пятьдесят килограммов держат. Прошу! | This is not China, it is Norway! They hold a hundred and fifty kilograms. Please, have a seat! | #855: А Норвегия<br>#856: Прошу | adapted: number '150 кило' written out as 'сто пятьдесят килограммов' |
+| 10 | Самсон | Детский сад какой-то. | Like some kind of kindergarten. | #857: Детский сад какой-то | verbatim |
+| 11 | Нина | Знаете, Даня просто волшебник! Спасибо! | You know, Danya is simply a wizard! Thank you! | #858: Знаете<br>#858: волшебник | adapted: colloquial 'прям' -> 'просто' |
+| 12 | Самсон | Так, ладно, мужики, за дровами! Подъём, пошли! | Right, fine, men, let's go for firewood! Up you get, let's go! | #859: Так, ладно<br>#861: Мужики, за дровами<br>#862: Подъем. Пошли | verbatim |
+| 13 | Даня | А зачем идти за дровами? Я вот уголь взял. | And why go for firewood? I brought charcoal right here. | #863: А зачем за дровами<br>#864: Я вот уголь взял | verbatim |
+| 14 | Самсон | Выкинь, Даня, это же химия! В лесу — только дровами! Ну, вперёд! | Throw it out, Danya, that is pure chemicals! In the forest, only with firewood! Come on, forward! | #865: Выкинь<br>#865: Это же химия<br>#866: В лесу<br>#866: только дровами<br>#868: Ну, вперёд | adapted: slang 'голимая' omitted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

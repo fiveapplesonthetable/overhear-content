@@ -7,8 +7,7 @@ SCENE = 5
 TITLE = 'Affaire de famille  (A Family Matter)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'camille': 'emilie', 'herve': 'marcel', 'lea': 'lucie'}
-LABELS = {'camille': 'Camille', 'herve': 'Hervé', 'lea': 'Andréa'}
+LABELS = {'camille': 'Camille', 'herve': 'Hervé', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e04.fr.dual.srt'
 INTRO = "At the ASK agency, Mathias Barneville takes his daughter Camille aside to speak about family trust and loyalty. Feeling uneasy after his questioning, Camille immediately runs to Herve to find out if Mathias knows their secret. Let's listen to their conversation in French first."
@@ -17,13 +16,13 @@ TRANSITION = "Now let's listen to the full conversation once more to reinforce t
 OUTRO = "That's it for this scene around a family matter. When you watch the episode, listen out for the expressions meaning 'the agency' and 'second'. You'll catch them now. See you next time!"
 CLOSING = ('herve', 'À demain!')
 STORY = [
-    ('lea', "L'agence est ma deuxième famille.", 'The agency is my second family.', [(221, "L'agence, c'est ma deuxième famille.")], ''),
-    ('lea', 'Et toi, tu es ma famille ici.', 'And you are my family here.', [(222, 'tu es ma famille')], ''),
+    ('mathias', "L'agence est ma deuxième famille.", 'The agency is my second family.', [(221, "L'agence, c'est ma deuxième famille.")], ''),
+    ('mathias', 'Et toi, tu es ma famille ici.', 'And you are my family here.', [(222, 'tu es ma famille')], ''),
     ('camille', 'Ah oui? Et pourquoi dis-tu ça?', 'Oh yes? And why do you say that?', [(223, 'Ah ouais ?'), (225, 'pourquoi tu dis ça.')], ''),
-    ('lea', 'Je dois pouvoir avoir confiance en toi.', 'I must be able to trust you.', [(232, 'confiance en toi.')], ''),
+    ('mathias', 'Je dois pouvoir avoir confiance en toi.', 'I must be able to trust you.', [(232, 'confiance en toi.')], ''),
     ('camille', 'Bien sûr, tu peux avoir confiance.', 'Of course, you can trust me.', [(229, 'Bien sûr.')], ''),
     ('camille', "Pardon, mais j'ai beaucoup de travail.", 'Sorry, but I have a lot of work.', [(236, "j'ai plein de boulot")], ''),
-    ('lea', 'Oui, oui, va travailler.', 'Yes, yes, go to work.', [(237, 'Oui, oui.')], ''),
+    ('mathias', 'Oui, oui, va travailler.', 'Yes, yes, go to work.', [(237, 'Oui, oui.')], ''),
     ('camille', 'Hervé, je crois que mon père se doute.', 'Herve, I think my father suspects something.', [(242, "Je crois qu'il se doute.")], ''),
     ('herve', "Comment ça? Il t'a dit quoi exactement?", 'What do you mean? What did he say exactly?', [(243, "Il t'a dit quoi, exactement ?")], ''),
     ('camille', "Il m'a parlé de fidélité à l'agence.", 'He spoke to me about agency loyalty.', [(247, "du mal à l'agence.")], ''),

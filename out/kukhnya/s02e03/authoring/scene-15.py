@@ -4,32 +4,31 @@ SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 3
 SCENE = 15
-TITLE = "Забытый салат  (The Forgotten Salad)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Забытый салат  (The Forgotten Salad)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "vika": "angelina", "anya": "alisa"}
-LABELS = {"vika": "Вика", "anya": "Макс"}
+LABELS = {'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S2.03'
 SOURCE_FILE = 'sources/kukhnya/s02/e03.ru.dual.srt'
 INTRO = "In the kitchen, Victoria complains that guests in the dining room have been waiting ages for their salad while Senya is nowhere to be found. Trying to help, Max grabs the bowl sitting on Senya's counter and puts it on the pass, unaware that it contains Senya's sliced leather belt."
 OPENER = 'Listen to Victoria and Max looking for the missing salad order in the kitchen.'
 TRANSITION = "Now listen to Victoria and Max in the kitchen again. Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Thinking they have solved the delay, Max and Victoria accidentally send Senya's leather belt salad out to a guest. Next time you watch the episode, listen for the Russian expressions for 'to say' and 'now' — you will catch every word right away. See you next time!"
-CLOSING = ("anya", "Пока!")
+CLOSING = ('max', 'Пока!')
 STORY = [
     ('vika', 'Макс, скажи, где сейчас Сеня?', 'Max, tell me, where is Senya right now?', [(278, 'Где Сеня?')], ''),
-    ('anya', 'Он только что вышел из кухни.', 'He just stepped out of the kitchen.', [(278, 'Где Сеня?')], ''),
+    ('max', 'Он только что вышел из кухни.', 'He just stepped out of the kitchen.', [(278, 'Где Сеня?')], ''),
     ('vika', 'Гости в зале ждут свой заказ!', 'The guests in the hall are waiting for their order!', [(278, 'Там у вас салат уже полдня ждут')], ''),
     ('vika', 'Они ждут этот салат очень долго.', 'They have been waiting for this salad for a very long time.', [(278, 'салат уже полдня ждут')], ''),
-    ('anya', 'Сеня уже давно приготовил салат.', 'Senya prepared the salad a long time ago.', [(278, 'салат')], ''),
+    ('max', 'Сеня уже давно приготовил салат.', 'Senya prepared the salad a long time ago.', [(278, 'салат')], ''),
     ('vika', 'Тогда почему блюдо ещё на кухне?', 'Then why is the dish still in the kitchen?', [(279, 'на столик раздачи поставить')], ''),
     ('vika', 'Ну что за странный человек!', 'Well what a strange person!', [(279, 'Что за человек?')], ''),
     ('vika', 'Разве трудно поставить тарелку на стол?', 'Is it really hard to put the plate on the table?', [(279, 'Трудно, что ли, на столик раздачи поставить')], ''),
-    ('anya', 'Смотри, вот стоит какая-то тарелка.', 'Look, here stands some plate.', [(279, 'на столик')], ''),
+    ('max', 'Смотри, вот стоит какая-то тарелка.', 'Look, here stands some plate.', [(279, 'на столик')], ''),
     ('vika', 'Наверное, это и есть наш салат.', 'Probably this is our salad.', [(278, 'салат')], ''),
-    ('anya', 'Давай я быстро отнесу его официанту.', 'Let me quickly take it to the waiter.', [(279, 'поставить')], ''),
+    ('max', 'Давай я быстро отнесу его официанту.', 'Let me quickly take it to the waiter.', [(279, 'поставить')], ''),
     ('vika', 'Да, поставь его скорее на стол!', 'Yes, put it on the table quickly!', [(279, 'на столик раздачи поставить')], ''),
-    ('anya', 'Готово, теперь гости будут довольны.', 'Done, now the guests will be satisfied.', [(278, 'ждут')], ''),
+    ('max', 'Готово, теперь гости будут довольны.', 'Done, now the guests will be satisfied.', [(278, 'ждут')], ''),
 ]
 WALK = [
     (0, None, "'Max, tell me, where is Senya right now?' Victoria enters the kitchen looking for the cook."),

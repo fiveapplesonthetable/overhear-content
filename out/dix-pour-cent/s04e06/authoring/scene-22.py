@@ -7,8 +7,7 @@ SCENE = 22
 TITLE = "Le départ d'Andréa  (Andréa's Departure)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'jean': 'theo', 'lea': 'lucie'}
-LABELS = {'jean': 'Jean', 'lea': 'Andréa'}
+LABELS = {'andrea': 'Andréa', 'jean': 'Jean'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e06.fr.dual.srt'
 INTRO = "In the conference room of ASK, movie star Jean Reno brings champagne to express his gratitude to the agency staff. Meeting him alone, Andrea Martel confides that she is resigning from agent life to start a new chapter. Let's listen to their conversation in French first."
@@ -18,18 +17,18 @@ OUTRO = "As Jean Reno and Andrea clink glasses in the agency boardroom, an era q
 CLOSING = ('jean', 'À demain!')
 STORY = [
     ('jean', "C'est pour vous remercier tous!", 'It is to thank you all!', [(917, "C'est pour vous tous."), (918, "Pour vous remercier de m'avoir poussé à continuer.")], ''),
-    ('lea', "Merci Jean, c'est très gentil.", 'Thank you Jean, that is very kind.', [(923, "Merci Jean, c'est très gentil de ta part.")], ''),
-    ('lea', "J'ai quelque chose à te dire.", 'I have something to tell you.', [(924, "parce que j'ai quelque chose à te dire.")], ''),
+    ('andrea', "Merci Jean, c'est très gentil.", 'Thank you Jean, that is very kind.', [(923, "Merci Jean, c'est très gentil de ta part.")], ''),
+    ('andrea', "J'ai quelque chose à te dire.", 'I have something to tell you.', [(924, "parce que j'ai quelque chose à te dire.")], ''),
     ('jean', "Tu as l'air grave, Andréa.", 'You look serious, Andrea.', [(924, 'Je suis content que tu sois là')], ''),
-    ('lea', "Je pars de l'agence.", 'I am leaving the agency.', [(925, 'Je pars.')], ''),
+    ('andrea', "Je pars de l'agence.", 'I am leaving the agency.', [(925, 'Je pars.')], ''),
     ('jean', 'Tu quittes ce métier?', 'Are you quitting this job?', [(927, 'Tu pars ?')], ''),
-    ('lea', "Oui, je m'en vais définitivement.", 'Yes, I am leaving definitively.', [(928, 'Je pars.'), (929, "et c'est moi qui m'en vais.")], ''),
+    ('andrea', "Oui, je m'en vais définitivement.", 'Yes, I am leaving definitively.', [(928, 'Je pars.'), (929, "et c'est moi qui m'en vais.")], ''),
     ('jean', "C'est une vie de chien.", 'It is a dog', [(931, "Le métier d'agent, c'est vraiment une vie de chien.")], ''),
-    ('lea', 'Mais toi, tu dois continuer.', 'But you, you must go on.', [(932, 'Je pars, mais toi tu dois continuer.')], ''),
+    ('andrea', 'Mais toi, tu dois continuer.', 'But you, you must go on.', [(932, 'Je pars, mais toi tu dois continuer.')], ''),
     ('jean', 'Seulement si le film se fait!', 'Only if the movie happens!', [(933, 'Si le Beauvois se fait.')], ''),
-    ('lea', 'Élise Formain est une femme redoutable.', 'Elise Formain is a formidable woman.', [(935, 'Tu connais Élise Formain ?')], ''),
+    ('andrea', 'Élise Formain est une femme redoutable.', 'Elise Formain is a formidable woman.', [(935, 'Tu connais Élise Formain ?')], ''),
     ('jean', "Ne t'inquiète pas pour moi.", 'Do not worry about me.', [(935, 'Tu connais Élise Formain ?')], ''),
-    ('lea', 'Prends bien soin de ton talent.', 'Take good care of your talent.', [(932, 'tu dois continuer.')], ''),
+    ('andrea', 'Prends bien soin de ton talent.', 'Take good care of your talent.', [(932, 'tu dois continuer.')], ''),
     ('jean', 'Bonne chance pour ta nouvelle vie!', 'Good luck for your new life!', [(918, 'Pour vous remercier')], ''),
 ]
 WALK = [

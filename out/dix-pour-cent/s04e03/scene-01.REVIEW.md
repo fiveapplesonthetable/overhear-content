@@ -1,31 +1,43 @@
-# Review: `dix-pour-cent-s04e03-scene-01` — Réveil matinal  (Early Wake-Up)
+# dix-pour-cent-s04e03-scene-01: review sheet
 
-- **Source**: `sources/dix-pour-cent/s04/e03.fr.dual.srt`
-- **Level**: A1 — débutant
-- **Voices**: `{"narrator": "sky", "lea": "lucie", "gabriel": "theo"}`
-- **Labels**: `{"lea": "Andréa", "gabriel": "Gabriel"}`
+Title: Réveil matinal  (Early Wake-Up)
+Level: A1 — débutant
+Pair: fr-en
+Source: Dix pour cent (Call My Agent!) S04E03
 
-## Part 1 — Intro
-> At five in the morning, Andrea wakes up to soothe her baby daughter Flora. She tenderly notes that the restless infant takes after her own night-owl habits, just before Gabriel calls to coordinate an early start on the movie set. Let's listen to their conversation in French first.
 
-## Part 2 — Story Lines
-| # | Role | French | English | Source Cues |
-|---|------|--------|---------|-------------|
-| 0 | `lea` (Andréa) | J'arrive, mon petit bébé, j'arrive! | I am coming, my little baby, I am coming! | 1:J'arrive, mon bébé ! |
-| 1 | `lea` (Andréa) | Te voilà enfin réveillée si tôt. | There you are finally awake so early. | 2:Te voilà !, 3:Te voilà. |
-| 2 | `lea` (Andréa) | Qu'est-ce que tu fais debout à cette heure? | What are you doing up at this hour? | 6:debout à cette heure-ci ? |
-| 3 | `lea` (Andréa) | Cinq heures du matin, ce n'est pas l'heure. | Five in the morning is no time to wake up. | 7:Cinq heures du mat |
-| 4 | `lea` (Andréa) | Tu es bien réveillée, dis-moi. | You are wide awake, tell me. | 9:T'es bien réveillée |
-| 5 | `lea` (Andréa) | À cette heure, maman était en boîte. | At this hour, mommy was in nightclubs. | 10:en boîte de nuit. |
-| 6 | `lea` (Andréa) | Tu tiens vraiment de maman Andréa! | You truly take after mommy Andrea! | 11:Tu tiens de maman Andréa. |
-| 7 | `lea` (Andréa) | On va aller voir maman Colette? | Shall we go see mommy Colette? | 12:On va voir maman Colette ? |
-| 8 | `lea` (Andréa) | Allô Gabriel? Pourquoi m'appelles-tu si tôt? | Hello Gabriel? Why are you calling me so early? | adapted |
-| 9 | `gabriel` (Gabriel) | José Garcia t'attend déjà sur le plateau. | Jose Garcia is already waiting for you on the movie set. | adapted |
-| 10 | `lea` (Andréa) | Je sais, je prépare ma fille Flora. | I know, I am getting my daughter Flora ready. | adapted |
-| 11 | `gabriel` (Gabriel) | Ne sois pas en retard ce matin. | Do not be late this morning. | adapted |
-| 12 | `lea` (Andréa) | J'arrive tout de suite au tournage. | I am coming right away to the film shoot. | adapted |
-| 13 | `gabriel` (Gabriel) | Parfait, je compte sur toi, Andréa. | Perfect, I count on you, Andrea. | adapted |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 5 — Outro & Closing
-> That's it for this scene around early wake-up. When you watch the episode, listen out for the expressions meaning 'am coming' and 'little'. You'll catch them now. See you next time!
-- **Closing**: `lea`: *Bonne soirée!*
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+|---|---|---|---|---|---|
+| 1 | Andréa | J'arrive, mon petit bébé, j'arrive! | I am coming, my little baby, I am coming! | #1: J'arrive, mon bébé ! | verbatim |
+| 2 | Andréa | Te voilà enfin réveillée si tôt. | There you are finally awake so early. | #2: Te voilà !<br>#3: Te voilà. | verbatim |
+| 3 | Andréa | Qu'est-ce que tu fais debout à cette heure? | What are you doing up at this hour? | #6: debout à cette heure-ci ? | verbatim |
+| 4 | Andréa | Cinq heures du matin, ce n'est pas l'heure. | Five in the morning is no time to wake up. | #7: Cinq heures du mat | verbatim |
+| 5 | Andréa | Tu es bien réveillée, dis-moi. | You are wide awake, tell me. | #9: T'es bien réveillée | verbatim |
+| 6 | Andréa | À cette heure, maman était en boîte. | At this hour, mommy was in nightclubs. | #10: en boîte de nuit. | verbatim |
+| 7 | Andréa | Tu tiens vraiment de maman Andréa! | You truly take after mommy Andrea! | #11: Tu tiens de maman Andréa. | verbatim |
+| 8 | Andréa | On va aller voir maman Colette? | Shall we go see mommy Colette? | #12: On va voir maman Colette ? | verbatim |
+| 9 | Andréa | Allô Gabriel? Pourquoi m'appelles-tu si tôt? | Hello Gabriel? Why are you calling me so early? | new | new |
+| 10 | Gabriel | José Garcia t'attend déjà sur le plateau. | Jose Garcia is already waiting for you on the movie set. | new | new |
+| 11 | Andréa | Je sais, je prépare ma fille Flora. | I know, I am getting my daughter Flora ready. | new | new |
+| 12 | Gabriel | Ne sois pas en retard ce matin. | Do not be late this morning. | new | new |
+| 13 | Andréa | J'arrive tout de suite au tournage. | I am coming right away to the film shoot. | new | new |
+| 14 | Gabriel | Parfait, je compte sur toi, Andréa. | Perfect, I count on you, Andrea. | new | new |
+
+## Walk-through narration (English only, no target-language words quoted)
+
+- 'I am coming, my little baby, I am coming!' Andrea reassures Flora as she hurries into her nursery. The descriptive adjective for 'little' agrees in gender and number with its noun.
+- 'There you are finally awake so early.' Andrea greets her infant daughter with gentle affection. Andrea uses the casual singular 'you' with 'this line', showing close familiarity.
+- 'What are you doing up at this hour?' Andrea asks why the baby has woken up so long before dawn. Notice how 'are doing' leads directly into the noun meaning 'hour'.
+- 'Five in the morning is no time to wake up.' Andrea explains that early dawn is far too early for breakfast. The key noun here means 'hours', anchored by its matching French article.
+- 'You are wide awake, tell me.' Andrea observes her child's alert eyes and active movements. The informal 'you' form around 'tell' marks a direct, personal relationship.
+- 'At this hour, mommy was in nightclubs.' Andrea fondly reminisces about her youthful Parisian nights. The verb meaning 'was' pairs naturally with the noun for 'hour' in everyday conversation.
+- 'You truly take after mommy Andrea!' Andrea acknowledges that her daughter shares her energetic nocturnal nature. Notice how 'take after' leads directly into the noun meaning 'mommy'.
+- 'Shall we go see mommy Colette?' Andrea suggests going together to wake up her partner. The verb meaning 'is going' pairs naturally with the noun for 'mommy' in everyday conversation.
+- 'Hello Gabriel? Why are you calling me so early?' Andrea wonders why her business partner rings at daybreak. The clause hinges on the everyday verb meaning 'call'.
+- 'Jose Garcia is already waiting for you on the movie set.' Gabriel warns her that the lead actor has arrived. The verb meaning 'is waiting for' pairs naturally with the noun for 'movie set' in everyday conversation.
+- 'I know, I am getting my daughter Flora ready.' Andrea explains that she must dress and pack for the baby. Notice how 'know' leads directly into the noun meaning 'daughter'.
+- 'Do not be late this morning.' Gabriel insists on total professionalism on the production set. The verb meaning 'be' pairs naturally with the noun for 'delay' in everyday conversation.
+- 'I am coming right away to the film shoot.' Andrea reassures him that she will leave the apartment immediately. Notice how 'am coming' leads directly into the noun meaning 'continuation'.
+- 'Perfect, I count on you, Andrea.' Gabriel trusts his partner to handle the demanding actor smoothly. Gabriel uses the casual singular 'you' with 'count', showing close familiarity.

@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Марина | Боже! Что вы тут делаете? | Good lord! What are you doing here? | #801 00:40:22: Боже<br>#802 00:40:28: Что вы<br>#802 00:40:28: делаете | verbatim |
-| 2 | Марина | Как вы кашу готовить будете? Дайте сюда! | How are you going to cook porridge? Give it here! | #803 00:40:30: Как вы кашу<br>#803 00:40:30: будете<br>#804 00:40:32: Дайте сюда | adapted: ASR 'к этому' -> 'готовить' |
-| 3 | Эдуард Владимирович | Что это такое? Это просто кошмар! | What is this? This is simply a nightmare! | #805 00:40:33: Что это такое<br>#811 00:40:45: Кошмар | verbatim |
-| 4 | Марина | Аркадий Борисович, дайте пакет сюда. | Arkady Borisovich, give the packet here. | #806 00:40:34: Дайте сюда | verbatim |
-| 5 | Аня | Я не могу. И рис в глаза попал! | I cannot. And rice got into my eyes! | #807 00:40:36: Я не могу<br>#808 00:40:39: в глаза попал | adapted: ASR 'Ирис' restored to 'И рис' |
-| 6 | Аня | Простите, я сейчас приберу. Я всё сам приберу! | Forgive me, I will clean up now. I will clean everything up myself! | #809 00:40:40: Простите, я приберу<br>#810 00:40:43: Я все приберу | verbatim |
-| 7 | Эдуард Владимирович | Подожди, Марина. Оставь это всё в покое. | Wait, Marina. Leave all of this alone. | #812 00:40:46: Подожди, Марина<br>#813 00:40:47: Оставь это все в покое | verbatim |
-| 8 | Эдуард Владимирович | Сейчас нужно вызвать социальную службу. Они всё сделают. | Right now we need to call social services. They will do everything. | #814 00:40:48: Сейчас нужно вызвать социальную службу<br>#815 00:40:50: Они все сделают | verbatim |
-| 9 | Марина | Что вы опять делаете? Осторожно, там молоко! | What are you doing again? Careful, there is milk there! | #816 00:40:51: Что вы делаете<br>#821 00:41:05: Осторожно | verbatim |
-| 10 | Аня | Ой, я падаю! Помогите мне! | Oh, I am falling! Help me! | new | new: new A1 line for cue 818 as Arkady slips on the spilled milk and rice |
-| 11 | Эдуард Владимирович | Смотри, не трогай его! Его сейчас нельзя трогать. | Look, do not touch him! One must not touch him right now. | #817 00:40:52: Смотри<br>#819 00:41:01: Его нельзя трогать | adapted: ASR 'если слова поддаваете' dropped |
-| 12 | Аня | Не трогайте меня так! Поднимите меня скорее! | Do not touch me like that! Help me up quickly! | #820 00:41:03: Не трогайте меня, поднимите меня скорее | verbatim |
-| 13 | Марина | Держитесь, Аркадий Борисович! Осторожно! | Hold on, Arkady Borisovich! Careful! | #821 00:41:05: Осторожно | verbatim |
+| 1 | Марина | Боже! Что вы тут делаете? | Good lord! What are you doing here? | #801: Боже<br>#802: Что вы<br>#802: делаете | verbatim |
+| 2 | Марина | Как вы кашу готовить будете? Дайте сюда! | How are you going to cook porridge? Give it here! | #803: Как вы кашу<br>#803: будете<br>#804: Дайте сюда | adapted: ASR 'к этому' -> 'готовить' |
+| 3 | Эдуард Владимирович | Что это такое? Это просто кошмар! | What is this? This is simply a nightmare! | #805: Что это такое<br>#811: Кошмар | verbatim |
+| 4 | Марина | Аркадий Борисович, дайте пакет сюда. | Arkady Borisovich, give the packet here. | #806: Дайте сюда | verbatim |
+| 5 | Аркадий | Я не могу. И рис в глаза попал! | I cannot. And rice got into my eyes! | #807: Я не могу<br>#808: в глаза попал | adapted: ASR 'Ирис' restored to 'И рис' |
+| 6 | Аркадий | Простите, я сейчас приберу. Я всё сам приберу! | Forgive me, I will clean up now. I will clean everything up myself! | #809: Простите, я приберу<br>#810: Я все приберу | verbatim |
+| 7 | Эдуард Владимирович | Подожди, Марина. Оставь это всё в покое. | Wait, Marina. Leave all of this alone. | #812: Подожди, Марина<br>#813: Оставь это все в покое | verbatim |
+| 8 | Эдуард Владимирович | Сейчас нужно вызвать социальную службу. Они всё сделают. | Right now we need to call social services. They will do everything. | #814: Сейчас нужно вызвать социальную службу<br>#815: Они все сделают | verbatim |
+| 9 | Марина | Что вы опять делаете? Осторожно, там молоко! | What are you doing again? Careful, there is milk there! | #816: Что вы делаете<br>#821: Осторожно | verbatim |
+| 10 | Аркадий | Ой, я падаю! Помогите мне! | Oh, I am falling! Help me! | new | new: new A1 line for cue 818 as Arkady slips on the spilled milk and rice |
+| 11 | Эдуард Владимирович | Смотри, не трогай его! Его сейчас нельзя трогать. | Look, do not touch him! One must not touch him right now. | #817: Смотри<br>#819: Его нельзя трогать | adapted: ASR 'если слова поддаваете' dropped |
+| 12 | Аркадий | Не трогайте меня так! Поднимите меня скорее! | Do not touch me like that! Help me up quickly! | #820: Не трогайте меня, поднимите меня скорее | verbatim |
+| 13 | Марина | Держитесь, Аркадий Борисович! Осторожно! | Hold on, Arkady Borisovich! Careful! | #821: Осторожно | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

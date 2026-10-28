@@ -7,8 +7,7 @@ SCENE = 14
 TITLE = "La fête d'anniversaire  (Laser Game Party)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'hicham': 'marcel', 'camille': 'emilie', 'elvis': 'theo'}
-LABELS = {'hicham': 'Hicham', 'camille': 'Camille', 'elvis': 'Elvis'}
+LABELS = {'camille': 'Camille', 'hicham': 'Hicham', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e03.fr.dual.srt'
 INTRO = 'Hicham introduces his ten-year-old son Elvis at the agency and looks for entertainment during their week together in Paris. When the boy asks for a laser tag party, Hicham quickly delegates all the party logistics to Camille. Listen to the conversation in French first.'
@@ -27,10 +26,10 @@ STORY = [
     ('camille', 'Okay, laisse-moi faire.', 'Okay, leave it to me.', [(374, 'Okay, laisse-moi faire')], ''),
     ('hicham', 'Deux allers-retours pour ses amis.', 'Two round-trip tickets for his friends.', [(378, 'Deux allers-retours pour Ferdinand et Elliot')], ''),
     ('hicham', 'Merci, Camille.', 'Thanks, Camille.', [(379, 'Merci, Camille')], ''),
-    ('elvis', "T'es fou, Camille?", 'Are you crazy, Camille?', [(380, "T'es fou")], ''),
+    ('mathias', "T'es fou, Camille?", 'Are you crazy, Camille?', [(380, "T'es fou")], ''),
     ('camille', 'Pourquoi tu dis ça?', 'Why do you say that?', [(380, 'Pourquoi')], ''),
-    ('elvis', 'Tu joues les baby-sitters pour lui.', 'You are playing the babysitter for him.', [(381, 'si tu joues les baby-sitters')], ''),
-    ('elvis', 'Il ne te respectera pas.', 'He will not respect you.', [(381, 'Il ne te respectera pas')], ''),
+    ('mathias', 'Tu joues les baby-sitters pour lui.', 'You are playing the babysitter for him.', [(381, 'si tu joues les baby-sitters')], ''),
+    ('mathias', 'Il ne te respectera pas.', 'He will not respect you.', [(381, 'Il ne te respectera pas')], ''),
     ('camille', 'Je veux être agent junior.', 'I want to be a junior agent.', [(382, 'Je veux être agent junior')], ''),
     ('camille', 'Donc je fais attention, Mathias.', 'So I am being careful, Mathias.', [(383, 'donc je fais attention')], ''),
 ]

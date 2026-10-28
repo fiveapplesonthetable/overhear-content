@@ -4,18 +4,17 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 20
 SCENE = 18
-TITLE = "Неожиданное предложение  (An Unexpected Proposal)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Неожиданное предложение  (An Unexpected Proposal)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "nastya": "angelina", "kostya": "anja"}
-LABELS = {"nastya": "Настя", "kostya": "Костя"}
+LABELS = {'kostya': 'Костя', 'nastya': 'Настя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.20'
 SOURCE_FILE = 'sources/kukhnya/s01/e20.ru.dual.srt'
 INTRO = 'Kostya finally builds up the courage to propose to Nastya. However, Nastya is completely shocked and reacts terribly, explaining that she had a completely different timeline for their relationship.'
 OPENER = "Now let's go back through the exchange around An Unexpected Proposal line by line and unpack how the Russian works."
 TRANSITION = "Now let's listen to the conversation again without interruption."
 OUTRO = "Kostya realizes that his impulsive proposal almost ruined the carefully planned future together. Next time you watch the episode, listen for the Russian expressions for 'to want' and 'to say' — you will catch every word right away. See you next time!"
-CLOSING = ("nastya", "Пока!")
+CLOSING = ('nastya', 'Пока!')
 STORY = [
     ('kostya', 'Я хотел тебе кое-что сказать.', 'I wanted to tell you something.', [(292, 'хотел тебе кое-что сказать')], ''),
     ('kostya', 'Я хочу.', 'I want...', [(293, 'Я хочу')], ''),
@@ -33,10 +32,10 @@ STORY = [
     ('nastya', 'Я прощаю тебя.', 'I forgive you.', [], ''),
 ]
 WALK = [
-    (0, None, "'For you to be my wife.' The '-a' ending on the past-tense verb for 'have become' shows that the subject is matching."),
-    (1, None, "'Have you lost your mind? Oh God, take it.' Nastya uses a direct command command form of the verb meaning 'take'."),
-    (2, None, "'You said yourself that every day is a new step.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (3, None, "'Kostya, I meant meeting the parents.' The '-a' ending on the past-tense verb for 'had' shows that the subject is matching."),
-    (4, None, "'I had this step planned for a year from now.' Nastya uses the classic Russian possession phrasing — literally 'at me' rather than a verb meaning 'to have', combining 'plan' with 'step' and 'only'."),
-    (5, None, "'And you nearly destroyed it just now.' Here Nastya anchors the line on the word meaning 'now' and builds the thought around 'nearly' and 'destroyed'. Now let's listen to the whole conversation again from start to finish."),
+    (2, None, "'For you to be my wife.' The '-a' ending on the past-tense verb for 'have become' shows that the subject is matching."),
+    (3, None, "'Have you lost your mind? Oh God, take it.' Nastya uses a direct command command form of the verb meaning 'take'."),
+    (5, None, "'You said yourself that every day is a new step.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
+    (6, None, "'Kostya, I meant meeting the parents.' The '-a' ending on the past-tense verb for 'had' shows that the subject is matching."),
+    (8, None, "'I had this step planned for a year from now.' Nastya uses the classic Russian possession phrasing — literally 'at me' rather than a verb meaning 'to have', combining 'plan' with 'step' and 'only'."),
+    (11, None, "'And you nearly destroyed it just now.' Here Nastya anchors the line on the word meaning 'now' and builds the thought around 'nearly' and 'destroyed'. Now let's listen to the whole conversation again from start to finish."),
 ]

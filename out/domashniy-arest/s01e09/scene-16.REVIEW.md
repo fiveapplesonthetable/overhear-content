@@ -18,13 +18,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 6 | Самсон | Что ты говоришь? | What are you saying? | new | new: adapted cue 474 |
 | 7 | Илона | Отмахнись, говорю тебе. | Wave her off, I tell you. | new | new: adapted cue 475 |
 | 8 | Самсон | Да ладно, неудобно как-то. | Come on, it feels awkward somehow. | new | new: adapted cue 476 |
-| 9 | Илона | Не пей, делай вид. | Don't drink, just pretend. | #477 00:27:39: Не пей, делай вид. | verbatim |
-| 10 | Илона | А сейчас улыбнись мне. | And now smile at me. | #478 00:27:41: А сейчас улыбнись мне. | verbatim |
+| 9 | Илона | Не пей, делай вид. | Don't drink, just pretend. | #477: Не пей, делай вид. | verbatim |
+| 10 | Илона | А сейчас улыбнись мне. | And now smile at me. | #478: А сейчас улыбнись мне. | verbatim |
 | 11 | Самсон | Хорошо, я улыбаюсь. | Alright, I am smiling. | new | new: new line |
-| 12 | Илона | Скажи мне какое-нибудь слово. | Say some word to me. | #479 00:27:50: Скажи мне какое-нибудь слово. | verbatim |
-| 13 | Самсон | Какое слово сказать? | What word should I say? | #480 00:27:51: Какое? | adapted: adapted cue 480 |
-| 14 | Илона | Любое скажи. | Say any word. | #481 00:27:54: Любое | adapted: adapted cue 481 |
-| 15 | Самсон | Блинчики? | Pancakes? | #482 00:27:55: Блинчики? | verbatim |
+| 12 | Илона | Скажи мне какое-нибудь слово. | Say some word to me. | #479: Скажи мне какое-нибудь слово. | verbatim |
+| 13 | Самсон | Какое слово сказать? | What word should I say? | #480: Какое? | adapted: adapted cue 480 |
+| 14 | Илона | Любое скажи. | Say any word. | #481: Любое | adapted: adapted cue 481 |
+| 15 | Самсон | Блинчики? | Pancakes? | #482: Блинчики? | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

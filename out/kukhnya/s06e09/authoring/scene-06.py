@@ -1,23 +1,25 @@
+# Authoring module for kukhnya-s06e09-scene-06.
 ID = 'kukhnya-s06e09-scene-06'
 SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 9
 SCENE = 6
-TITLE = "В очереди к врачу  (In Line for the Doctor)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'В очереди к врачу  (In Line for the Doctor)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "katya": "angelina", "denis": "anja"}
-LABELS = {"katya": "Катя", "denis": "Денис"}
+LABELS = {'denis': 'Денис', 'katya': 'Катя', 'lyova': 'Лёва'}
 SOURCE_NAME = 'Кухня (Kukhnya) S6.09'
 SOURCE_FILE = 'sources/kukhnya/s06/e09.ru.srt'
-
 INTRO = "Back at the restaurant, Lyova's mother continues bragging about her son's cooking skills before leaving Lyova and Larisa alone at the table. Meanwhile, in the clinic corridor, Denis uses the quiet moment to apologize to Katya."
-
+OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
+TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
+OUTRO = "Before Denis can finish his apology, the doctor calls him into the X-ray room, while back at the restaurant Gulya spots Lyova's cozy lunch. See you next time!"
+CLOSING = ('katya', 'До завтра!')
 STORY = [
-    ('katya', 'Мой сын повар с хорошей зарплатой.', 'My son is a chef with a good salary.', [(81, 'повар с хорошей зарплатой')], 'adapted'),
-    ('katya', 'А ещё он моя главная опора.', 'And he is also my main support.', [(82, 'моя опора')], 'adapted'),
+    ('lyova', 'Мой сын повар с хорошей зарплатой.', 'My son is a chef with a good salary.', [(81, 'повар с хорошей зарплатой')], 'adapted'),
+    ('lyova', 'А ещё он моя главная опора.', 'And he is also my main support.', [(82, 'моя опора')], 'adapted'),
     ('denis', 'Почему мы сегодня оба такие стеснительные?', 'Why are we both so shy today?', [(83, 'такие стеснительные')], 'adapted'),
-    ('katya', 'Я вас оставлю на несколько минут.', 'I will leave you for a few minutes.', [(84, 'Я вас оставлю на несколько минут')], 'adapted'),
+    ('lyova', 'Я вас оставлю на несколько минут.', 'I will leave you for a few minutes.', [(84, 'Я вас оставлю на несколько минут')], 'adapted'),
     ('katya', 'Прости, мы тут случайно бокал разбили.', 'Sorry, we accidentally broke a glass here.', [(86, 'Прости, мы тут бокал разбили')], 'adapted'),
     ('denis', 'Ничего страшного, мы сейчас всё уберём.', 'No big deal, we will clean everything up right now.', [(87, 'Ничего страшного, мы сейчас уберём')], 'adapted'),
     ('katya', 'Пять минут, я сейчас очень быстро.', 'Five minutes, I will be very quick right now.', [(89, 'Пять минут, я быстро')], 'adapted'),
@@ -28,25 +30,18 @@ STORY = [
     ('denis', 'Я прошу, позволь мне сейчас извиниться.', 'I beg you, allow me to apologize right now.', [(92, 'Я прошу, позволь мне извиниться')], 'adapted'),
     ('katya', 'Я не хочу говорить на эту тему.', 'I do not want to talk about this topic.', [(93, 'Я не хочу говорить на эту тему')], 'adapted'),
 ]
-
-OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
-
 WALK = [
-    (0, None, "'My son is a chef with a good salary.' The grammar packs 'my' and 'salary' into a tight, idiomatic kitchen exchange."),
-    (1, None, "'And he is also my main support.' The meaning hinges on 'and' working together with 'support' in spoken Russian."),
-    (2, None, "'Why are we both so shy today?' The meaning hinges on 'why' working together with 'shy' in spoken Russian."),
-    (3, None, "'I will leave you for a few minutes.' Lyova chooses the respectful plural 'you' alongside 'minutes' to keep a polite distance. Katya answers right away."),
-    (4, None, "'Sorry, we accidentally broke a glass here.' Katya brings out the contrast between 'forgive' and 'we' in a few short words."),
-    (5, None, "'No big deal, we will clean everything up right now.' Here the Russian phrasing highlights 'nothing' before landing on 'will clean up'."),
-    (6, None, "'Five minutes, I will be very quick right now.' Katya brings out the contrast between 'five' and 'minutes' in a few short words. Denis answers right away."),
-    (7, None, "'Katya, wait here for at least a minute.' Denis anchors the line on 'Katya', while 'a minute' completes the thought."),
-    (8, None, "'Meanwhile I will work quietly on the laptop.' The grammar packs 'I' and 'laptop' into a tight, idiomatic kitchen exchange."),
-    (9, None, "'Katya, we still have not talked properly.' Spoken Russian keeps this brisk, leaning on 'Katya' and finishing on 'had a talk'. Katya answers right away."),
-    (10, None, "'Denis, please, just do not start again.' Here the Russian phrasing highlights 'Denis' before landing on 'begin'."),
-    (11, None, "'I beg you, allow me to apologize right now.' The meaning hinges on 'I' working together with 'to apologise' in spoken Russian."),
-    (12, None, "'I do not want to talk about this topic.' The negative particle sits right before the verb meaning 'want' to negate the statement."),
+    (0, None, "'My son is a chef with a good salary.' Saying that his son is a with a good salary is how Lyova sets the tone with Denis."),
+    (1, None, "'And he is also my main support.' Explaining that he is also his main support lays the cards on the table for Denis."),
+    (2, None, '\'Why are we both so shy today?\' Asking why they both so shy today are cuts straight through the tension between Denis and Katya. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.'),
+    (3, None, '\'I will leave you for a few minutes.\' Saying that he will leave Denis for a few minutes is how Lyova sets the tone with Denis. Notice how he sticks to the formal "you", keeping a professional line between them.'),
+    (4, None, "'Sorry, we accidentally broke a glass here.' With the restaurant and doctor in play, Katya keeps this short reply brisk and direct."),
+    (5, None, "'No big deal, we will clean everything up right now.' Mentioning that big deal they will clean everything up right now moves the talk in a new direction."),
+    (6, None, "'Five minutes, I will be very quick right now.' Katya reminds Denis that five minutes she will be very quick right now before the moment passes."),
+    (7, None, "'Katya, wait here for at least a minute.' Over the restaurant and the doctor, Denis answers Katya without a second thought."),
+    (8, None, "'Meanwhile I will work quietly on the laptop.' Explaining that meanwhile she will work quietly on the laptop lays the cards on the table for Denis."),
+    (9, None, "'Katya, we still have not talked properly.' Denis mentions that they still have not talked properly so Katya sees what is at stake."),
+    (10, None, "'Denis, please, just do not start again.' Claiming that just do not start again sounds confident, even if Denis has doubts."),
+    (11, None, "'I beg you, allow me to apologize right now.' Claiming that he begs Katya allows him to apologize right now sounds confident, even if Katya has doubts."),
+    (12, None, "'I do not want to talk about this topic.' Over the kitchen and the table, Katya answers Denis without a second thought."),
 ]
-
-TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Before Denis can finish his apology, the doctor calls him into the X-ray room, while back at the restaurant Gulya spots Lyova's cozy lunch. See you next time!"
-CLOSING = ("katya", "До завтра!")

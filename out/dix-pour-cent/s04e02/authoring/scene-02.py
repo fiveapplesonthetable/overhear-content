@@ -7,30 +7,29 @@ SCENE = 2
 TITLE = 'La bataille des talents  (The Battle for Talent)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'lea': 'lucie', 'camille': 'emilie', 'herve': 'marcel'}
-LABELS = {'lea': 'Andréa', 'camille': 'Camille', 'herve': 'Hervé'}
+LABELS = {'andrea': 'Andréa', 'camille': 'Camille', 'herve': 'Hervé'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e02.fr.dual.srt'
 INTRO = "Junior agents Camille and Herve report that several major actors are wavering, skeptical of being handled by less experienced representatives. With Francois Cluzet walking away and Dany Boon's loyalty hanging in the balance, Andrea rallies her team to fight for every contract. Let's listen to the scene in French first."
 OPENER = "Let's observe as Andrea directs Camille and Herve in the high-stakes retention battle."
 TRANSITION = "Now let's listen to Andrea, Camille, and Herve discussing their strategy again at full speed."
 OUTRO = "Realizing that the agency's survival depends on holding onto its remaining stars, Andrea keeps her team focused and motivated. When you watch the episode, listen out for the expressions meaning 'former' and 'talents'. You'll catch them now. See you next time!"
-CLOSING = ('lea', 'Bonne soirée!')
+CLOSING = ('andrea', 'Bonne soirée!')
 STORY = [
     ('camille', 'Les anciens talents de Mathias hésitent beaucoup.', 'Mathias', [(81, 'sur le dos de Mathias')], ''),
     ('herve', 'Ils réclament tous des agents confirmés.', 'They all demand senior agents.', [(86, 'veulent des agents confirmés')], ''),
-    ('lea', "Vous devez montrer beaucoup plus d'assurance.", 'You must show much more confidence.', [(87, "Montrez plus d'assurance")], ''),
-    ('lea', 'Organisez des rendez-vous avec les associés.', 'Set up meetings with the partners.', [(91, 'organisez des rendez-vous')], ''),
+    ('andrea', "Vous devez montrer beaucoup plus d'assurance.", 'You must show much more confidence.', [(87, "Montrez plus d'assurance")], ''),
+    ('andrea', 'Organisez des rendez-vous avec les associés.', 'Set up meetings with the partners.', [(91, 'organisez des rendez-vous')], ''),
     ('camille', 'Sofia a réussi une audition formidable.', 'Sofia succeeded in a wonderful audition.', [(107, 'Sofia a cartonné')], ''),
     ('camille', 'Elle jouera bientôt avec Fabrice Luchini.', 'She will soon act with Fabrice Luchini.', [(107, 'Sofia a cartonné')], ''),
     ('herve', 'En revanche, François Cluzet nous quitte.', 'On the other hand, Francois Cluzet leaves us.', [(115, "Cluzet, c'est fini")], ''),
     ('herve', 'Il ne veut plus aucun agent désormais.', 'He wants no agent anymore from now on.', [(121, "veut plus d'agent")], ''),
-    ('lea', 'Nous ne pouvons pas tout perdre.', 'We cannot lose everything.', [(126, 'mettre la clé sous la porte')], ''),
+    ('andrea', 'Nous ne pouvons pas tout perdre.', 'We cannot lose everything.', [(126, 'mettre la clé sous la porte')], ''),
     ('camille', 'Où en est le dossier de Dany?', 'How is Dany', [(126, 'mettre la clé sous la porte')], ''),
-    ('lea', 'Il tourne actuellement à New York.', 'He is currently filming in New York.', [(126, 'mettre la clé sous la porte')], ''),
-    ('lea', 'Perdre Dany fermerait définitivement notre agence.', 'Losing Dany would permanently close our agency.', [(126, 'mettre la clé sous la porte')], ''),
+    ('andrea', 'Il tourne actuellement à New York.', 'He is currently filming in New York.', [(126, 'mettre la clé sous la porte')], ''),
+    ('andrea', 'Perdre Dany fermerait définitivement notre agence.', 'Losing Dany would permanently close our agency.', [(126, 'mettre la clé sous la porte')], ''),
     ('herve', 'Je vais le contacter dès ce soir.', 'I will contact him tonight.', [(126, 'mettre la clé sous la porte')], ''),
-    ('lea', 'Battez-vous pour chaque contrat sans faiblir.', 'Fight for each contract without faltering.', [(87, "Montrez plus d'assurance")], ''),
+    ('andrea', 'Battez-vous pour chaque contrat sans faiblir.', 'Fight for each contract without faltering.', [(87, "Montrez plus d'assurance")], ''),
 ]
 WALK = [
     (0, None, "'Mathias's former talents hesitate a lot.' A concerning report noting client instability across the agency's roster. Notice how 'hesitate' leads directly into the noun meaning 'talents'."),

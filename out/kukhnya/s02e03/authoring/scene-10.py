@@ -4,30 +4,29 @@ SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 3
 SCENE = 10
-TITLE = "Без машины  (Without a Car)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Без машины  (Without a Car)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "sasha": "anja", "anya": "alisa"}
-LABELS = {"sasha": "Саша", "anya": "Макс"}
+LABELS = {'max': 'Макс', 'sasha': 'Саша'}
 SOURCE_NAME = 'Кухня (Kukhnya) S2.03'
 SOURCE_FILE = 'sources/kukhnya/s02/e03.ru.dual.srt'
 INTRO = "Max and Sasha are relaxing together after work. They are joking around, but then Sasha asks Max how he plans to get home without his car. Let's listen closely to their conversation in Russian first, and then walk through each line together."
 OPENER = "Let's review the conversation line by line."
 TRANSITION = "Now let's listen to the conversation again without interruption."
 OUTRO = "And that's it for this scene. When you watch the episode, listen out for the exchange around without a car, and for the words meaning 'clothes' and 'funny'. You'll catch them now. See you next time."
-CLOSING = ("anya", "До встречи!")
+CLOSING = ('max', 'До встречи!')
 STORY = [
-    ('anya', 'Хорошо с тобой.', 'I feel good with you.', [(174, 'Хорошо с тобой')], ''),
+    ('max', 'Хорошо с тобой.', 'I feel good with you.', [(174, 'Хорошо с тобой')], ''),
     ('sasha', 'Мне тоже хорошо.', 'I feel good too.', [(175, 'Мне тоже хорошо')], ''),
     ('sasha', 'Особенно когда ты без одежды.', 'Especially when you are without clothes.', [(175, 'Особенно голота без одежды')], ''),
-    ('anya', 'Ты очень смешная.', 'You are very funny.', [], ''),
+    ('max', 'Ты очень смешная.', 'You are very funny.', [], ''),
     ('sasha', 'Я серьезно.', 'I am serious.', [], ''),
-    ('anya', 'Я знаю.', 'I know.', [], ''),
+    ('max', 'Я знаю.', 'I know.', [], ''),
     ('sasha', 'Тебе вызвать такси?', 'Should I call you a taxi?', [(177, 'Может, тебе такси вызвать')], ''),
-    ('anya', 'Зачем?', 'Why?', [(178, 'Чего')], ''),
+    ('max', 'Зачем?', 'Why?', [(178, 'Чего')], ''),
     ('sasha', 'Ты сегодня без машины.', 'You are without a car today.', [(179, 'ты ж сегодня без машины')], ''),
     ('sasha', 'Как ты будешь добираться домой?', 'How will you get home?', [(180, 'Как тогда дома добираться будешь')], ''),
-    ('anya', 'Я поеду на метро.', 'I will go by subway.', [], ''),
+    ('max', 'Я поеду на метро.', 'I will go by subway.', [], ''),
     ('sasha', 'Метро уже закрыто.', 'The subway is already closed.', [], ''),
 ]
 WALK = [

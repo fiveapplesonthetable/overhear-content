@@ -7,7 +7,6 @@ SCENE = 22
 TITLE = 'Confrontation dans le couloir  (Hallway Confrontation)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'camille': 'emilie', 'gabriel': 'theo', 'hicham': 'marcel'}
 LABELS = {'camille': 'Camille', 'gabriel': 'Gabriel', 'hicham': 'Hicham'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e04.fr.dual.srt'

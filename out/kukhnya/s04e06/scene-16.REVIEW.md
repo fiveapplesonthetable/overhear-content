@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Денис | Ребята, я никогда не готовил такой сорбет. | Guys, I have never prepared this kind of sorbet. | #231 00:16:56: Слушай, а может ты как-нибудь сама? | adapted: adapted |
-| 2 | Сеня | Да ты не волнуйся, тут делать нечего! | Do not worry, there is nothing to it! | #232 00:17:07: Да ты не паришься, тут делать нечего. | adapted: adapted |
-| 3 | Сеня | Просто выливаешь жидкий азот в чашку с соком. | You simply pour liquid nitrogen into the bowl with juice. | #233 00:17:09: Просто азот в чашку выливаешь, в сок добавляешь | adapted: adapted |
-| 4 | Сеня | Потом быстро помешиваешь пару минут, и всё готово. | Then you stir quickly for a couple of minutes, and everything is ready. | #233 00:17:09: помешиваешь пару минут, все. | adapted: adapted |
-| 5 | Сеня | Главное, не бойся, первый раз всегда страшно! | The main thing is not to be afraid, the first time is always scary! | #234 00:17:14: Главное, не бойся. Первый раз всегда страшно | adapted: adapted |
-| 6 | Денис | Спасибо вам большое, друзья, я пошёл в зал. | Thank you very much, pals, I am heading to the hall. | #235 00:17:18: Спасибо, друзья. | adapted: adapted |
-| 7 | Сеня | Подожди, а зачем ты взял горячую воду? | Wait, and why did you take hot water? | #236 00:17:20: Ты куда пошел-то без горячей воды?<br>#237 00:17:23: А зачем вода? | adapted: adapted |
-| 8 | Сеня | Без горячей воды у него сейчас всё замёрзнет! | Without hot water everything of his will freeze solid right now! | #239 00:17:35: А без горячей воды у тебя все замерзно. | adapted: adapted |
-| 9 | Сеня | Как же он будет вытаскивать оттуда венчик? | How on earth will he pull the whisk out of there? | #240 00:17:39: Что ж ты будешь Ленчиком помешивать? | adapted: adapted |
-| 10 | Денис | Добрый вечер, сейчас я приготовлю вам сорбет. | Good evening, right now I will prepare sorbet for you. | #242 00:17:53: Добрый вечер. | adapted: adapted |
-| 11 | Сеня | Скажите, пожалуйста, что вы сейчас делаете? | Tell me, please, what are you doing right now? | #243 00:18:08: Что вы делаете? | adapted: adapted |
-| 12 | Сеня | Это не ресторан, а просто полный бардак! | This is not a restaurant, it is just a complete mess! | #244 00:18:17: Вы знаете, это, простите меня, ресторан.<br>#246 00:18:23: Бардак! | adapted: adapted |
+| 1 | Денис | Ребята, я никогда не готовил такой сорбет. | Guys, I have never prepared this kind of sorbet. | #231: Слушай, а может ты как-нибудь сама? | adapted: adapted |
+| 2 | Сеня | Да ты не волнуйся, тут делать нечего! | Do not worry, there is nothing to it! | #232: Да ты не паришься, тут делать нечего. | adapted: adapted |
+| 3 | Сеня | Просто выливаешь жидкий азот в чашку с соком. | You simply pour liquid nitrogen into the bowl with juice. | #233: Просто азот в чашку выливаешь, в сок добавляешь | adapted: adapted |
+| 4 | Сеня | Потом быстро помешиваешь пару минут, и всё готово. | Then you stir quickly for a couple of minutes, and everything is ready. | #233: помешиваешь пару минут, все. | adapted: adapted |
+| 5 | Сеня | Главное, не бойся, первый раз всегда страшно! | The main thing is not to be afraid, the first time is always scary! | #234: Главное, не бойся. Первый раз всегда страшно | adapted: adapted |
+| 6 | Денис | Спасибо вам большое, друзья, я пошёл в зал. | Thank you very much, pals, I am heading to the hall. | #235: Спасибо, друзья. | adapted: adapted |
+| 7 | Сеня | Подожди, а зачем ты взял горячую воду? | Wait, and why did you take hot water? | #236: Ты куда пошел-то без горячей воды?<br>#237: А зачем вода? | adapted: adapted |
+| 8 | Сеня | Без горячей воды у него сейчас всё замёрзнет! | Without hot water everything of his will freeze solid right now! | #239: А без горячей воды у тебя все замерзно. | adapted: adapted |
+| 9 | Сеня | Как же он будет вытаскивать оттуда венчик? | How on earth will he pull the whisk out of there? | #240: Что ж ты будешь Ленчиком помешивать? | adapted: adapted |
+| 10 | Денис | Добрый вечер, сейчас я приготовлю вам сорбет. | Good evening, right now I will prepare sorbet for you. | #242: Добрый вечер. | adapted: adapted |
+| 11 | Елена | Скажите, пожалуйста, что вы сейчас делаете? | Tell me, please, what are you doing right now? | #243: Что вы делаете? | adapted: adapted |
+| 12 | Елена | Это не ресторан, а просто полный бардак! | This is not a restaurant, it is just a complete mess! | #244: Вы знаете, это, простите меня, ресторан.<br>#246: Бардак! | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Guys, I have never prepared this kind of sorbet.' Denis admits his inexperience with molecular gastronomy.
-- 'Do not worry, there is nothing to it!' The idiom 'nothing to do' means something is Effortless.
-- 'You simply pour liquid nitrogen into the bowl with juice.' Second-person singular present describes a step-by-step recipe.
-- 'Then you stir quickly for a couple of minutes, and everything is ready.' In everyday Russian, 'later, afterwards' flows straight into 'ready' without extra linking words.
-- 'The main thing is not to be afraid, the first time is always scary!' Senya pairs 'the main thing' with 'terribly' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
-- 'Thank you very much, pals, I am heading to the hall.' Past tense 'went' announces that someone is setting off right now.
-- 'Wait, and why did you take hot water?' The pranksters trick Denis into leaving the pitcher of warm water behind.
-- 'Without hot water everything of his will freeze solid right now!' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.
-- 'How on earth will he pull the whisk out of there?' Senya and Fedya peek into the dining room to watch the chaos.
-- 'Good evening, right now I will prepare sorbet for you.' Denis wheels the cart up to Elena's table while Barinov is next door.
-- 'Tell me, please, what are you doing right now?' Elena watches in disbelief as Denis tugs at the frozen metal whisk.
-- 'This is not a restaurant, it is just a complete mess!' Covered in splashed berry juice, Elena storms back to Arcobaleno.
+- 'Guys, I have never prepared this kind of sorbet.' Having never prepared this kind of sorbet is how Denis lays out the situation for Elena.
+- 'Do not worry, there is nothing to it!' Because do not worry there is nothing to it, Senya does not bother softening the blow for Denis. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'You simply pour liquid nitrogen into the bowl with juice.' With the recipe and table in play, Senya keeps this short reply brisk and direct.
+- 'Then you stir quickly for a couple of minutes, and everything is ready.' Mentioning that Denis stir quickly for a couple of minutes and everything is ready moves the talk in a new direction.
+- 'The main thing is not to be afraid, the first time is always scary!' Declaring that the main thing is not to be afraid the first time is always scary brings Senya's temper right to the surface. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Thank you very much, pals, I am heading to the hall.' Because very much pals he is heading to the hall, Denis treats the matter as settled. Notice how he sticks to the formal "you", keeping a professional line between them.
+- 'Wait, and why did you take hot water?' Wondering why Denis takes hot water is how Senya puts Denis on the spot.
+- 'Without hot water everything of his will freeze solid right now!' Senya declares that without hot water everything of his will freeze solid right now as the tension in the room peaks. Russian expresses having something as "by me is", keeping the phrase short and grounded.
+- 'How on earth will he pull the whisk out of there?' Questioning whether how on earth will he pull the whisk out of there is how Senya tests Denis's story. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Good evening, right now I will prepare sorbet for you.' Adding that right now he will prepare sorbet for Elena fills in the missing piece for Elena.
+- 'Tell me, please, what are you doing right now?' Elena asks whether tell her please what are Denis doing right now, refusing to let the point slide. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.
+- 'This is not a restaurant, it is just a complete mess!' Declaring that this is not a restaurant it is just a complete mess brings Elena's temper right to the surface. Russian drops "is" in the present, setting the two halves of the thought side by side.

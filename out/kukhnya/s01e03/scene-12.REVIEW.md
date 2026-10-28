@@ -1,39 +1,39 @@
-# Маленький гусь  (The Little Goose) — `kukhnya-s01e03-scene-12`
+# kukhnya-s01e03-scene-12: review sheet
 
-**Source:** Кухня (Kukhnya) S1.03 · `sources/kukhnya/s01/e03.ru.dual.srt`  
-**Target level:** A1 — Duolingo Section 2
+Title: Маленький гусь  (The Little Goose)
+Level: A1 — Duolingo Section 2
+Pair: ru-en
+Source: Кухня (Kukhnya) S1.03
 
-## Cast
 
-| Role | Voice | Label |
-|---|---|---|
-| `narrator` | sky | — |
-| `chef` | anja | Шеф |
-| `lyova` | angelina | Лёва |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 1 — Intro
-
-> In the kitchen of Claude Monet, Chef Barinov eagerly comes to inspect the roasted goose being prepared for the banquet. To his immense disbelief, plucking the feathers has reduced the massive bird to a tiny carcass, sparking an urgent culinary fix. Let's listen to their conversation in Russian.
-
-## Part 2 — Story
-
-| # | Speaker | Line | English | Source cue(s) | Change |
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 0 | Шеф | Лёва, покажи мне этого гуся. | Lyova, show me this goose. | #255 "он такой" |  |
-| 1 | Лёва | Вот он, шеф, я уже закончил. | Here it is, chef, I already finished. | #255 "Чего он" |  |
-| 2 | Шеф | Чего он такой странно маленький? | Why is it so strangely small? | #255 "Чего он такой маленький" |  |
-| 3 | Лёва | Это из-за перьев так получилось. | It turned out like that because of feathers. | #256 "так это перья" |  |
-| 4 | Лёва | Оказалось, что у него очень густые перья. | It turned out that it has very thick feathers. | #256 "перья оказались" |  |
-| 5 | Шеф | Мы же купили огромную птицу! | We bought a huge bird after all! | #255 "маленький" |  |
-| 6 | Лёва | Я сам удивился, когда ощипывал его. | I was surprised myself when I was plucking it. | #257 "когда" |  |
-| 7 | Шеф | Тут совсем мало мяса для гостей. | There is completely little meat here for the guests. | #255 "маленький" |  |
-| 8 | Лёва | Что же нам теперь с ним делать? | What should we do with it now? | #256 "оказались" |  |
-| 9 | Шеф | Приготовь специальный соус и красивый гарнир. | Prepare a special sauce and a beautiful side dish. | #255 "Чего он" |  |
-| 10 | Лёва | Хорошо, шеф, я всё быстро сделаю. | Alright, chef, I will do everything quickly. | #256 "так это" |  |
-| 11 | Шеф | Гости должны быть довольны нашим банкетом! | The guests must be pleased with our banquet! | #255 "такой" |  |
+| 1 | Шеф | Лёва, покажи мне этого гуся. | Lyova, show me this goose. | #255: он такой | verbatim |
+| 2 | Лёва | Вот он, шеф, я уже закончил. | Here it is, chef, I already finished. | #255: Чего он | verbatim |
+| 3 | Шеф | Чего он такой странно маленький? | Why is it so strangely small? | #255: Чего он такой маленький | verbatim |
+| 4 | Лёва | Это из-за перьев так получилось. | It turned out like that because of feathers. | #256: так это перья | verbatim |
+| 5 | Лёва | Оказалось, что у него очень густые перья. | It turned out that it has very thick feathers. | #256: перья оказались | verbatim |
+| 6 | Шеф | Мы же купили огромную птицу! | We bought a huge bird after all! | #255: маленький | verbatim |
+| 7 | Лёва | Я сам удивился, когда ощипывал его. | I was surprised myself when I was plucking it. | #257: когда | verbatim |
+| 8 | Шеф | Тут совсем мало мяса для гостей. | There is completely little meat here for the guests. | #255: маленький | verbatim |
+| 9 | Лёва | Что же нам теперь с ним делать? | What should we do with it now? | #256: оказались | verbatim |
+| 10 | Шеф | Приготовь специальный соус и красивый гарнир. | Prepare a special sauce and a beautiful side dish. | #255: Чего он | verbatim |
+| 11 | Лёва | Хорошо, шеф, я всё быстро сделаю. | Alright, chef, I will do everything quickly. | #256: так это | verbatim |
+| 12 | Шеф | Гости должны быть довольны нашим банкетом! | The guests must be pleased with our banquet! | #255: такой | verbatim |
 
-## Part 5 — Outro & closing
+## Walk-through narration (English only, no target-language words quoted)
 
-> Chef Barinov and Lyova scramble to adapt their menu with creative garnishes before the banquet guests arrive. Great work practicing conversational kitchen Russian! Next time you watch the episode, listen for the Russian expressions for 'banquet' and 'fast' — you will catch every word right away. See you next time!
-
-**Шеф:** Пока!
+- 'Lyova, show me this goose.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'Here it is, chef, I already finished.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'Why is it so strangely small?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'It turned out like that because of feathers.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'It turned out that it has very thick feathers.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
+- 'We bought a huge bird after all!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'I was surprised myself when I was plucking it.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'There is completely little meat here for the guests.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'What should we do with it now?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'Prepare a special sauce and a beautiful side dish.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'Alright, chef, I will do everything quickly.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'The guests must be pleased with our banquet!' everyday subject with modal adjective governing basic verb form everyday and matching form complement.

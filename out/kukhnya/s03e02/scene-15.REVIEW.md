@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Да не важно. Поехали домой. | It doesn't matter. Let's go home. | #214 00:17:36: Да не важно. Поехали домой | verbatim |
-| 2 | Вика | Поехали. | Let's go. | #215 00:17:38: Поехали | verbatim |
-| 3 | Вика | Внимание, результаты! | Attention, the results! | #216 00:17:44: Внимание, результаты | verbatim |
-| 4 | Вика | Ева — пять тысяч двести. | Eva — five thousand two hundred. | #217 00:17:50: Ева | adapted: adapted |
-| 5 | Вика | Олег — три тысячи семьсот. | Oleg — three thousand seven hundred. | #219 00:17:57: Олег | adapted: adapted |
-| 6 | Вика | Илья — девять тысяч. | Ilya — nine thousand. | #220 00:17:59: Илья | adapted: adapted |
-| 7 | Илья | Ну? | Well? | #221 00:18:04: Ну | verbatim |
-| 8 | Аня | Молодец. Молодец. | Well done. Well done. | #222 00:18:06: Молодец. Молодец | verbatim |
-| 9 | Вика | Макс — восемь тысяч девятьсот пятьдесят. | Max — eight thousand nine hundred fifty. | #223 00:18:08: Макс | adapted: adapted |
-| 10 | Илья | Выходите. Тихо! | Step out. Quiet! | #224 00:18:13: Выходите. Тихо | verbatim |
-| 11 | Вика | Но это не предел. | But that is not the limit. | #225 00:18:21: Но это не предел | verbatim |
-| 12 | Вика | Настя Фомина — четырнадцать тысяч! | Nastya Fomina — fourteen thousand! | #226 00:18:23: Настя Фомина | adapted: adapted |
+| 1 | Макс | Да не важно. Поехали домой. | It doesn't matter. Let's go home. | #214: Да не важно. Поехали домой | verbatim |
+| 2 | Вика | Поехали. | Let's go. | #215: Поехали | verbatim |
+| 3 | Вика | Внимание, результаты! | Attention, the results! | #216: Внимание, результаты | verbatim |
+| 4 | Вика | Ева — пять тысяч двести. | Eva — five thousand two hundred. | #217: Ева | adapted: adapted |
+| 5 | Вика | Олег — три тысячи семьсот. | Oleg — three thousand seven hundred. | #219: Олег | adapted: adapted |
+| 6 | Вика | Илья — девять тысяч. | Ilya — nine thousand. | #220: Илья | adapted: adapted |
+| 7 | Илья | Ну? | Well? | #221: Ну | verbatim |
+| 8 | Макс | Молодец. Молодец. | Well done. Well done. | #222: Молодец. Молодец | verbatim |
+| 9 | Вика | Макс — восемь тысяч девятьсот пятьдесят. | Max — eight thousand nine hundred fifty. | #223: Макс | adapted: adapted |
+| 10 | Илья | Выходите. Тихо! | Step out. Quiet! | #224: Выходите. Тихо | verbatim |
+| 11 | Вика | Но это не предел. | But that is not the limit. | #225: Но это не предел | verbatim |
+| 12 | Вика | Настя Фомина — четырнадцать тысяч! | Nastya Fomina — fourteen thousand! | #226: Настя Фомина | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'It doesn't matter. Let's go home.' The meaning hinges on 'yes' working together with 'home' in spoken Russian. Vika answers right away.
-- 'Let's go.' Here the Russian phrasing highlights 'let's go' before landing on 'let's go'.
-- 'Attention, the results!' Vika anchors the line on 'attention', while 'results' completes the thought.
-- 'Eva — five thousand two hundred.' The grammar packs 'Eva' and 'two hundred' into a tight, idiomatic kitchen exchange.
-- 'Oleg — three thousand seven hundred.' The meaning hinges on 'Oleg' working together with 'seven hundred' in spoken Russian.
-- 'Ilya — nine thousand.' In Russian, the idea of 'Ilya' flows naturally into 'thousand' without extra filler words.
-- 'Well?' Spoken Russian keeps this brisk, leaning on 'come on' and finishing on 'come on'. Max answers right away.
-- 'Well done. Well done.' Notice how Russian expresses 'well done' and 'well done' with crisp inflection rather than helper words.
-- 'Max — eight thousand nine hundred fifty.' Here the Russian phrasing highlights 'Max' before landing on 'fifty'.
-- 'Step out. Quiet!' Notice how Russian expresses 'step out' and 'quiet' with crisp inflection rather than helper words. Vika answers right away.
-- 'But that is not the limit.' Vika anchors the line on 'but', while 'limit' completes the thought.
-- 'Nastya Fomina — fourteen thousand!' The grammar packs 'Nastya' and 'thousand' into a tight, idiomatic kitchen exchange.
+- 'It doesn't matter. Let's go home.' Claiming that it does not matter sounds confident, even if Ilya has doubts.
+- 'Let's go.' Going together is how Vika lays out the situation for Ilya.
+- 'Attention, the results!' Between the moment and the surprise, Vika delivers a sharp reaction. Russian puts the key word right up front so her emotion lands on the first beat.
+- 'Eva — five thousand two hundred.' With the bet and shift in play, Vika keeps this short reply brisk and direct. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'Oleg — three thousand seven hundred.' Over the bet and the shift, Vika answers Ilya without a second thought.
+- 'Ilya — nine thousand.' Around the bet and shift, Vika sets a calm, everyday tone with Ilya. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'Well?' Over the conversation and the surprise, Ilya presses Max for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Well done. Well done.' With the bet and kitchen in play, Max keeps this short reply brisk and direct.
+- 'Max — eight thousand nine hundred fifty.' Around the bet and moment, Vika sets a calm, everyday tone with Ilya. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'Step out. Quiet!' Once Max should step out, Ilya makes sure Max hears every word. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'But that is not the limit.' Saying that that is not the limit is how Vika sets the tone with Ilya.
+- 'Nastya Fomina — fourteen thousand!' Around the work and bet, Vika makes her point loud and clear. Russian drops "is" in the present, setting the two halves of the thought side by side.

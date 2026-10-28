@@ -4,18 +4,17 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 15
 SCENE = 16
-TITLE = "Больное сердце  (A Bad Heart)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Больное сердце  (A Bad Heart)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "lyova": "angelina", "fedya": "anja"}
-LABELS = {"lyova": "Лёва", "fedya": "Федя"}
+LABELS = {'fedya': 'Федя', 'lyova': 'Лёва'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.15'
 SOURCE_FILE = 'sources/kukhnya/s01/e15.ru.dual.srt'
 INTRO = "Back in the restaurant kitchen, Lyova gets into an argument with another chef. Let's listen closely to their exchange in Russian first, and then walk through each line together."
 OPENER = "Now let's go back through the exchange around A Bad Heart line by line and unpack how the Russian works."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Lyova realizes that the fake illness is causing him real anxiety. Next time you watch the episode, listen for the Russian expressions for 'to want' and 'to say' — you will catch every word right away. See you next time!"
-CLOSING = ("lyova", "Пока!")
+CLOSING = ('lyova', 'Пока!')
 STORY = [
     ('fedya', 'Лёва, ну что такое?', 'Lyova, well what is this?', [(330, 'Лёва, ну что такое, а?')], ''),
     ('lyova', 'Что ты хочешь сказать?', 'What do you want to say?', [], ''),

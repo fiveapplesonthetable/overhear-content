@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | У вас новый имидж? Усы? | Do you have a new look? A moustache? | #270 00:21:16: У вас новый имидж? Усы | adapted: adapted |
-| 2 | Гость | Снимаюсь в новом клипе. | I am filming in a new music video. | #271 00:21:19: Снимаюсь в новом клипе | adapted: adapted |
-| 3 | Аня | Вика, вот Иосиф. | Vika, here is Iosif. | #272 00:21:22: Вика. Вот, Иосиф | adapted: adapted |
-| 4 | Гость | Здравствуйте. | Hello. | #273 00:21:25: Здравствуйте | adapted: adapted |
-| 5 | Вика | Молодец, похож! Поздравляю. | Well done, he looks like him! Congratulations. | #274 00:21:28: Молодец. Похож. Поздравляю | adapted: adapted |
-| 6 | Аня | В смысле? | What do you mean? | #275 00:21:32: В смысле | adapted: adapted |
-| 7 | Вика | А усы не догадались брить? | And did you not think to shave the moustache? | #276 00:21:34: А усы не догадались брить | adapted: adapted |
-| 8 | Вика | Тогда бы совсем похож был. | Then he would have looked completely alike. | #277 00:21:36: Тогда бы совсем похож был | adapted: adapted |
-| 9 | Вика | Мужчина, идите домой. | Mister, go home. | #281 00:21:59: Мужчина, идите домой | adapted: adapted |
-| 10 | Вика | Ваш спектакль затянулся. | Your performance has dragged on. | #282 00:22:01: Ваш спектакль затянулся | adapted: adapted |
-| 11 | Гость | Я действительно Иосиф Пригожин! | I really am Iosif Prigozhin! | #282 00:22:01: Я действительно Иосиф Пригожий | adapted: adapted |
-| 12 | Аня | Вика, подожди! Не отпущу, пока не поверишь. | Vika, wait! I will not let you go until you believe me. | #283 00:22:04: Вика, подожди<br>#284 00:22:07: Не отпущу, пока не поверишь | adapted: adapted |
+| 1 | Макс | У вас новый имидж? Усы? | Do you have a new look? A moustache? | #270: У вас новый имидж? Усы | adapted: adapted |
+| 2 | Гость | Снимаюсь в новом клипе. | I am filming in a new music video. | #271: Снимаюсь в новом клипе | adapted: adapted |
+| 3 | Макс | Вика, вот Иосиф. | Vika, here is Iosif. | #272: Вика. Вот, Иосиф | adapted: adapted |
+| 4 | Гость | Здравствуйте. | Hello. | #273: Здравствуйте | adapted: adapted |
+| 5 | Вика | Молодец, похож! Поздравляю. | Well done, he looks like him! Congratulations. | #274: Молодец. Похож. Поздравляю | adapted: adapted |
+| 6 | Макс | В смысле? | What do you mean? | #275: В смысле | adapted: adapted |
+| 7 | Вика | А усы не догадались брить? | And did you not think to shave the moustache? | #276: А усы не догадались брить | adapted: adapted |
+| 8 | Вика | Тогда бы совсем похож был. | Then he would have looked completely alike. | #277: Тогда бы совсем похож был | adapted: adapted |
+| 9 | Вика | Мужчина, идите домой. | Mister, go home. | #281: Мужчина, идите домой | adapted: adapted |
+| 10 | Вика | Ваш спектакль затянулся. | Your performance has dragged on. | #282: Ваш спектакль затянулся | adapted: adapted |
+| 11 | Гость | Я действительно Иосиф Пригожин! | I really am Iosif Prigozhin! | #282: Я действительно Иосиф Пригожий | adapted: adapted |
+| 12 | Макс | Вика, подожди! Не отпущу, пока не поверишь. | Vika, wait! I will not let you go until you believe me. | #283: Вика, подожди<br>#284: Не отпущу, пока не поверишь | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Do you have a new look? A moustache?' The grammar packs 'at' and 'moustache' into a tight, idiomatic kitchen exchange. the guest answers right away.
-- 'I am filming in a new music video.' the guest brings out the contrast between 'film' and 'new' in a few short words.
-- 'Vika, here is Iosif.' Max brings out the contrast between 'Vika' and 'here' in a few short words.
-- 'Hello.' the guest anchors the line on 'hello', while 'hello' completes the thought. Vika answers right away.
-- 'Well done, he looks like him! Congratulations.' The grammar packs 'well done' and 'congratulations' into a tight, idiomatic kitchen exchange.
-- 'What do you mean?' The grammar packs 'sense' and 'sense' into a tight, idiomatic kitchen exchange.
-- 'And did you not think to shave the moustache?' The plural past ending '-li' on the verb for 'guessed' covers a group or the polite 'you'.
-- 'Then he would have looked completely alike.' Here the Russian phrasing highlights 'then' before landing on 'was'.
-- 'Mister, go home.' Notice how Russian expresses 'man' and 'home' with crisp inflection rather than helper words.
-- 'Your performance has dragged on.' Here the Russian phrasing highlights 'your' before landing on 'dragged on'. the guest answers right away.
-- 'I really am Iosif Prigozhin!' the guest brings out the contrast between 'I' and 'really' in a few short words.
-- 'Vika, wait! I will not let you go until you believe me.' In Russian, the idea of 'Vika' flows naturally into 'will believe' without extra filler words.
+- 'Do you have a new look? A moustache?' Here asking whether the guest has a new look shows Max looking for the real truth. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
+- 'I am filming in a new music video.' Being filming in a new music video is how the guest lays out the situation for Max.
+- 'Vika, here is Iosif.' Noting that here is Iosif keeps Max's side of the story simple and clear.
+- 'Hello.' Around the truth and hotel, the guest sets a calm, everyday tone with Max.
+- 'Well done, he looks like him! Congratulations.' Vika insists that done he looks like him, leaving the guest no room to argue.
+- 'What do you mean?' By asking what the guest means, Max presses the guest for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'And did you not think to shave the moustache?' Checking whether the guest not think to shave the moustache cuts straight through the tension between Vika and the guest. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Then he would have looked completely alike.' Adding that he would have looked completely alike fills in the missing piece for the guest.
+- 'Mister, go home.' With the mistake and hotel in play, Vika keeps this short reply brisk and direct.
+- 'Your performance has dragged on.' Since the guest's performance has dragged, Vika does not waste words on excuses. Notice how she sticks to the formal "you", keeping a professional line between them.
+- 'I really am Iosif Prigozhin!' Around the moment and car, the guest makes his point loud and clear.
+- 'Vika, wait! I will not let you go until you believe me.' Insisting that he will not let the guest goes until the guest believes him shows Max is not backing down. Russian puts the key word right up front so his emotion lands on the first beat.

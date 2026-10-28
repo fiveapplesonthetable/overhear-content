@@ -1,41 +1,43 @@
-# Неловкая ситуация  (An Awkward Situation) — `kukhnya-s01e02-scene-19`
+# kukhnya-s01e02-scene-19: review sheet
 
-**Source:** Кухня (Kukhnya) S1.02 · `sources/kukhnya/s01/e02.ru.dual.srt`  
-**Target level:** A1 — Duolingo Section 2
+Title: Неловкая ситуация  (An Awkward Situation)
+Level: A1 — Duolingo Section 2
+Pair: ru-en
+Source: Кухня (Kukhnya) S1.02
 
-## Cast
 
-| Role | Voice | Label |
-|---|---|---|
-| `narrator` | sky | — |
-| `anya` | alisa | Макс |
-| `kostya` | anja | Костя |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 1 — Intro
-
-> At the restaurant bar, an unfortunate misunderstanding leads Max to accidentally punch his friend Kostya. Full of regret, Max tries to apologize while Kostya nurses a sore nose and asks for fresh juice to clear his head. Meanwhile, the search for Chef Barinov's missing knife is throwing the whole kitchen into turmoil. Listen to their conversation in Russian first, then we will break down each line.
-
-## Part 2 — Story
-
-| # | Speaker | Line | English | Source cue(s) | Change |
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 0 | Макс | Как-то неловко получилось, Костя. | It turned out somewhat awkward, Kostya. | #212 "неудобненько получилось" |  |
-| 1 | Костя | Ты чуть не сломал мне нос! | You almost broke my nose! | #215 "удара не ожидал" |  |
-| 2 | Макс | Старичок, прости меня, пожалуйста! | Old buddy, forgive me, please! | #219 "Старичок, прости" |  |
-| 3 | Костя | Зачем мне твоё простое прости? | What good is your simple apology to me? | #220 "твой прости" |  |
-| 4 | Костя | Теперь за тобой большой долг. | Now you owe me big time. | #221 "Большой косяк" |  |
-| 5 | Макс | Что я могу сделать для тебя? | What can I do for you? | *(added)* |  |
-| 6 | Костя | Сделай мне свежий апельсиновый сок. | Make me some fresh orange juice. | #222 "Фрэш сделай" |  |
-| 7 | Костя | У меня очень кружится голова. | My head is spinning very much. | #223 "кружится" |  |
-| 8 | Макс | Я сейчас всё быстро сделаю. | I will do everything quickly right now. | *(added)* |  |
-| 9 | Макс | На кухне сейчас очень громко. | It is very loud in the kitchen right now. | *(added)* |  |
-| 10 | Костя | Шеф опять кричит на поваров? | Is the chef shouting at the cooks again? | #227 "бездельники" |  |
-| 11 | Макс | Он до сих пор ищет нож. | He is still looking for the knife. | #228 "Нож нашли" |  |
-| 12 | Костя | Тогда нам лучше быть тише. | Then it is better for us to be quieter. | *(added)* |  |
-| 13 | Макс | Держи свой сок, друг мой. | Hold your juice, my friend. | #222 "Фрэш сделай" |  |
+| 1 | Макс | Как-то неловко получилось, Костя. | It turned out somewhat awkward, Kostya. | #212: неудобненько получилось | verbatim |
+| 2 | Костя | Ты чуть не сломал мне нос! | You almost broke my nose! | #215: удара не ожидал | verbatim |
+| 3 | Макс | Старичок, прости меня, пожалуйста! | Old buddy, forgive me, please! | #219: Старичок, прости | verbatim |
+| 4 | Костя | Зачем мне твоё простое прости? | What good is your simple apology to me? | #220: твой прости | verbatim |
+| 5 | Костя | Теперь за тобой большой долг. | Now you owe me big time. | #221: Большой косяк | verbatim |
+| 6 | Макс | Что я могу сделать для тебя? | What can I do for you? | new | new |
+| 7 | Костя | Сделай мне свежий апельсиновый сок. | Make me some fresh orange juice. | #222: Фрэш сделай | verbatim |
+| 8 | Костя | У меня очень кружится голова. | My head is spinning very much. | #223: кружится | verbatim |
+| 9 | Макс | Я сейчас всё быстро сделаю. | I will do everything quickly right now. | new | new |
+| 10 | Макс | На кухне сейчас очень громко. | It is very loud in the kitchen right now. | new | new |
+| 11 | Костя | Шеф опять кричит на поваров? | Is the chef shouting at the cooks again? | #227: бездельники | verbatim |
+| 12 | Макс | Он до сих пор ищет нож. | He is still looking for the knife. | #228: Нож нашли | verbatim |
+| 13 | Костя | Тогда нам лучше быть тише. | Then it is better for us to be quieter. | new | new |
+| 14 | Макс | Держи свой сок, друг мой. | Hold your juice, my friend. | #222: Фрэш сделай | verbatim |
 
-## Part 5 — Outro & closing
+## Walk-through narration (English only, no target-language words quoted)
 
-> Max and Kostya patch up their misunderstanding over a fresh glass of juice, but the atmosphere on the kitchen floor remains electric. Until then, keep studying! Next time you watch the episode, listen for the Russian expressions for 'orange' and 'big' — you will catch every word right away. See you next time!
-
-**Макс:** Пока!
+- 'It turned out somewhat awkward, Kostya.' Max acknowledges the uncomfortable situation with an adverbial phrase.
+- 'You almost broke my nose!' An emphatic statement with the adverb meaning nearly or almost.
+- 'Old buddy, forgive me, please!' An informal friendly address followed by an apology.
+- 'What good is your simple apology to me?' Kostya points out that words alone do not fix a bruised nose.
+- 'Now you owe me big time.' The noun phrase literally indicates a substantial debt.
+- 'What can I do for you?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'Make me some fresh orange juice.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'My head is spinning very much.' A common Russian physical idiom for feeling dizzy.
+- 'I will do everything quickly right now.' Max puts the word for 'right now' together with 'quickly' and 'will do' in a crisp, natural spoken turn of phrase.
+- 'It is very loud in the kitchen right now.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
+- 'Is the chef shouting at the cooks again?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'He is still looking for the knife.' Max expresses this naturally by combining the word for 'times' with 'is looking for' and 'knife'.
+- 'Then it is better for us to be quieter.' Comparative adverbs advise staying under the radar.
+- 'Here is your juice, my friend.' Max hands over the glass with the familiar command form. Alright, let's hear the whole thing once more.

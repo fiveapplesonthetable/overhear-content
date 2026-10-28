@@ -7,30 +7,29 @@ SCENE = 2
 TITLE = "Projet d'agence secrète  (Secret Agency Project)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'lea': 'lucie', 'gabriel': 'theo'}
-LABELS = {'lea': 'Andréa', 'gabriel': 'Gabriel'}
+LABELS = {'andrea': 'Andréa', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e03.fr.dual.srt'
 INTRO = "Andrea Martel and Gabriel Sarda plan to break away from ASK to launch an independent talent agency. Meeting secretly with their attorney, they review strict commercial regulations to protect their future enterprise. Let's listen to the scene in French first."
 OPENER = "Let's observe as Andrea and Gabriel plan their secret new agency."
 TRANSITION = "Now let's listen to Andrea and Gabriel again at full speed."
 OUTRO = "Andrea and Gabriel solidify their alliance, carefully measuring each business step to safeguard their independent agency. When you watch the episode, listen out for the expressions meaning 'lawyer' and 'confirmed'. You'll catch them now. See you next time!"
-CLOSING = ('lea', 'Bonne soirée!')
+CLOSING = ('andrea', 'Bonne soirée!')
 STORY = [
     ('gabriel', "L'avocat a confirmé notre rendez-vous secret.", 'The lawyer confirmed our secret meeting.', [(104, "C'est bon, il a confirmé."), (105, 'Rendez-vous dans une demi-heure à Belleville.')], ''),
-    ('lea', 'Parfait, nous devons rester très discrets.', 'Perfect, we must remain very discreet.', [(133, 'on voulait rester discret.')], ''),
+    ('andrea', 'Parfait, nous devons rester très discrets.', 'Perfect, we must remain very discreet.', [(133, 'on voulait rester discret.')], ''),
     ('gabriel', 'Hicham ne doit rien soupçonner.', 'Hicham must suspect nothing.', [(109, 'fais profil bas avec Hicham.')], ''),
-    ('lea', 'Nous voulons créer notre propre agence.', 'We want to create our own agency.', [(140, 'monter une agence concurrente')], ''),
+    ('andrea', 'Nous voulons créer notre propre agence.', 'We want to create our own agency.', [(140, 'monter une agence concurrente')], ''),
     ('gabriel', 'Quels sont les risques légaux?', 'What are the legal risks?', [(146, "qu'est-ce qu'on risque ?")], ''),
-    ('lea', "Il faut éviter le démantèlement d'ASK.", 'We must avoid asset stripping ASK.', [(149, "Ça s'appelle du démantèlement.")], ''),
+    ('andrea', "Il faut éviter le démantèlement d'ASK.", 'We must avoid asset stripping ASK.', [(149, "Ça s'appelle du démantèlement.")], ''),
     ('gabriel', 'Que dit la loi exactement?', 'What does the law say exactly?', [(147, 'atteignent 50 % de celui de la société.')], ''),
-    ('lea', 'Nos chiffres cumulés restent sous cinquante pour cent.', 'Our combined figures remain under fifty percent.', [(147, 'atteignent 50 % de celui de la société.')], ''),
+    ('andrea', 'Nos chiffres cumulés restent sous cinquante pour cent.', 'Our combined figures remain under fifty percent.', [(147, 'atteignent 50 % de celui de la société.')], ''),
     ('gabriel', 'Nous respectons cette règle essentielle.', 'We respect this essential rule.', [(154, 'On est bons, non ?')], ''),
-    ('lea', 'Ne signe aucun nouveau gros contrat.', 'Do not sign any new big contract.', [(156, "ne rentrer surtout aucun nouveau contrat jusqu'à votre départ.")], ''),
+    ('andrea', 'Ne signe aucun nouveau gros contrat.', 'Do not sign any new big contract.', [(156, "ne rentrer surtout aucun nouveau contrat jusqu'à votre départ.")], ''),
     ('gabriel', 'Je vais faire traîner les négociations.', 'I will drag out the negotiations.', [(159, 'faire traîner les négo.')], ''),
-    ('lea', 'La nouvelle agence ouvrira bientôt.', 'The new agency will open soon.', [(137, "la nouvelle structure soit prête avant que j'accouche.")], ''),
+    ('andrea', 'La nouvelle agence ouvrira bientôt.', 'The new agency will open soon.', [(137, "la nouvelle structure soit prête avant que j'accouche.")], ''),
     ('gabriel', "C'est notre grand avenir professionnel.", 'It is our great professional future.', [(140, 'monter une agence concurrente')], ''),
-    ('lea', 'Gardons ce grand secret pour nous.', 'Let us keep this great secret to ourselves.', [(142, "Vous n'avez parlé à personne ?"), (143, 'Non, bien sûr que non.')], ''),
+    ('andrea', 'Gardons ce grand secret pour nous.', 'Let us keep this great secret to ourselves.', [(142, "Vous n'avez parlé à personne ?"), (143, 'Non, bien sûr que non.')], ''),
 ]
 WALK = [
     (0, None, "'The lawyer confirmed our secret meeting.' Notice how 'has' leads directly into the noun meaning 'lawyer'. Notice how 'has' leads directly into the noun meaning 'lawyer'."),

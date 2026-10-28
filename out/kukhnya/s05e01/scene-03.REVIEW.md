@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Лёва | Я пытался его предупредить. | I tried to warn him. | #36 00:03:44: я пытался его предупредить | adapted: verbatim |
-| 2 | Михаил | Пошёл вон. | Get out. | #38 00:03:50: Пошел | adapted: adapted |
-| 3 | Михаил | Это что за ерунда? | What kind of nonsense is this? | #39 00:03:52: Это что за ерунда? | adapted: verbatim |
-| 4 | Михаил | В нашем отеле действует новая услуга. | A new service operates in our hotel. | #40 00:03:54: В нашем отеле действует услуга | adapted: adapted |
-| 5 | Михаил | Это услуга для наших гостей. | This is a service for our guests. | #40 00:03:54: услуга | adapted: adapted |
-| 6 | Михаил | Вы сможете посмотреть на работу шефа. | You will be able to watch the chef's work. | #41 00:03:57: Вы сможете понаблюдать за работой | adapted: adapted |
-| 7 | Михаил | Это не прерывает ваш отдых. | This does not interrupt your rest. | #42 00:04:00: не прерывая ваш отдых | adapted: adapted |
-| 8 | Михаил | Я принимаю это после завтрака. | I accept that after breakfast. | #43 00:04:02: я принимаю после завтрака | adapted: adapted |
-| 9 | Михаил | А сейчас извини. | And right now excuse me. | #44 00:04:08: А сейчас извини | adapted: verbatim |
-| 10 | Михаил | Ты введи новую услугу. | You should introduce a new service. | #45 00:04:11: ты введи новую услугу | adapted: verbatim |
-| 11 | Михаил | Управляющий идёт прямо в номер. | The hotel manager goes straight to the room. | #46 00:04:16: Управляющий в номер | adapted: adapted |
-| 12 | Михаил | Не мешай нашему отдыху. | Do not disturb our rest. | #47 00:04:20: вашего отдыха | adapted: adapted |
+| 1 | Лёва | Я пытался его предупредить. | I tried to warn him. | #36: я пытался его предупредить | adapted: verbatim |
+| 2 | Шеф | Пошёл вон. | Get out. | #38: Пошел | adapted: adapted |
+| 3 | Шеф | Это что за ерунда? | What kind of nonsense is this? | #39: Это что за ерунда? | adapted: verbatim |
+| 4 | Михаил | В нашем отеле действует новая услуга. | A new service operates in our hotel. | #40: В нашем отеле действует услуга | adapted: adapted |
+| 5 | Михаил | Это услуга для наших гостей. | This is a service for our guests. | #40: услуга | adapted: adapted |
+| 6 | Михаил | Вы сможете посмотреть на работу шефа. | You will be able to watch the chef's work. | #41: Вы сможете понаблюдать за работой | adapted: adapted |
+| 7 | Михаил | Это не прерывает ваш отдых. | This does not interrupt your rest. | #42: не прерывая ваш отдых | adapted: adapted |
+| 8 | Михаил | Я принимаю это после завтрака. | I accept that after breakfast. | #43: я принимаю после завтрака | adapted: adapted |
+| 9 | Михаил | А сейчас извини. | And right now excuse me. | #44: А сейчас извини | adapted: verbatim |
+| 10 | Шеф | Ты введи новую услугу. | You should introduce a new service. | #45: ты введи новую услугу | adapted: verbatim |
+| 11 | Шеф | Управляющий идёт прямо в номер. | The hotel manager goes straight to the room. | #46: Управляющий в номер | adapted: adapted |
+| 12 | Шеф | Не мешай нашему отдыху. | Do not disturb our rest. | #47: вашего отдыха | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I tried to warn him.' In everyday Russian, 'tried' flows straight into 'to warn' without extra linking words.
-- 'Get out.' Chef Barinov anchors the line on 'went', while 'over there' completes the thought.
-- 'What kind of nonsense is this?' The grammar packs 'this' and 'nonsense' into a tight, idiomatic kitchen exchange.
-- 'A new service operates in our hotel.' Notice how Russian expresses 'our' and 'service' with crisp inflection rather than helper words.
-- 'This is a service for our guests.' Here the Russian phrasing highlights 'this' before landing on 'guests'.
-- 'You will be able to watch the chef's work.' The meaning hinges on 'you' working together with 'proper name' in spoken Russian.
-- 'This does not interrupt your rest.' Mikhail chooses the respectful plural 'you' alongside 'rest' to keep a polite distance.
-- 'I accept that after breakfast.' The grammar packs 'I' and 'breakfast' into a tight, idiomatic kitchen exchange.
-- 'And right now excuse me.' The meaning hinges on 'and' working together with 'sorry' in spoken Russian.
-- 'You should introduce a new service.' Spoken Russian keeps this brisk, leaning on 'you' and finishing on 'service'.
-- 'The hotel manager goes straight to the room.' Spoken Russian keeps this brisk, leaning on 'hotel manager' and finishing on 'number'.
-- 'Do not disturb our rest.' The grammar packs 'not' and 'to the rest' into a tight, idiomatic kitchen exchange.
+- 'I tried to warn him.' Claiming that he tried to warn him sounds confident, even if Barinov has doubts.
+- 'Get out.' Getting out is how Barinov lays out the situation for Lyova.
+- 'What kind of nonsense is this?' Around the room and hotel, Barinov wants to know where Lyova really stands. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'A new service operates in our hotel.' Between the truth and the hotel, Mikhail gives Barinov a quick, grounded response.
+- 'This is a service for our guests.' Noting that this is a service for their guests keeps Mikhail's side of the story simple and clear.
+- 'You will be able to watch the chef's work.' Even though Barinov will be able to watch the work, Mikhail keeps a steady face in front of Barinov. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
+- 'This does not interrupt your rest.' Admitting that this does not interrupt Barinov's rest shows Mikhail being honest for a change. Notice how he sticks to the formal "you", keeping a professional line between them.
+- 'I accept that after breakfast.' Mentioning that he accepts that after breakfast moves the talk in a new direction.
+- 'And right now excuse me.' With the room and hotel in play, Mikhail keeps this short reply brisk and direct.
+- 'You should introduce a new service.' Adding that Lyova should introduce a new service fills in the missing piece for Lyova. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'The hotel manager goes straight to the room.' Barinov tells Lyova that the hotel manager goes straight to the room without dressing it up.
+- 'Do not disturb our rest.' Since do not disturb their rest, Barinov does not waste words on excuses.

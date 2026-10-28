@@ -8,14 +8,10 @@
  "scene": 1,
  "title": "Разговор с рыбой и звонок олигарху  (Talking to the Fish and Calling the Oligarch)",
  "level": "A1 — Duolingo Section 2",
- "voices": {
-  "narrator": "sky",
-  "lyova": "angelina",
-  "chef": "anja"
- },
  "labels": {
-  "lyova": "Лёва",
-  "chef": "Шеф"
+  "barinov": "Шеф",
+  "elena": "Елена",
+  "lyova": "Лёва"
  },
  "segments": [
   {
@@ -24,22 +20,22 @@
    "gap": 0.8
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Давай, стреляй.",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Может, действительно бросить этот дурдом?",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "А то помру раньше времени.",
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "И не будет у меня звезды.",
    "gap": 0.55
   },
@@ -54,7 +50,7 @@
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Я согласен у вас работать.",
    "gap": 0.55
   },
@@ -69,7 +65,7 @@
    "gap": 0.55
   },
   {
-   "v": "chef",
+   "v": "elena",
    "t": "Ну, я пошла?",
    "gap": 0.55
   },
@@ -89,43 +85,43 @@
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Давай, стреляй.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Go ahead, shoot.' Chef Barinov anchors the line on 'come on', while 'shoot' completes the thought.",
+   "t": "'Go ahead, shoot.' Realizing that Elena should go ahead shoot changes how Barinov handles the situation.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Может, действительно бросить этот дурдом?",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Maybe I really should quit this madhouse?' The meaning hinges on 'maybe' working together with 'madhouse' in spoken Russian.",
+   "t": "'Maybe I really should quit this madhouse?' Barinov asks whether maybe he really should quit this madhouse, refusing to let the point slide. In Russian, he does not need helper words like \"do\" or \"did\"—rising pitch alone turns it into a question.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "А то помру раньше времени.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Otherwise I will die before my time.' The meaning hinges on 'and' working together with 'time' in spoken Russian.",
+   "t": "'Otherwise I will die before my time.' Realizing that otherwise he will die before his time changes how Barinov handles the situation.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "И не будет у меня звезды.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'And I will not have a star.' In Russian, the idea of 'and' flows naturally into 'star' without extra filler words.",
+   "t": "'And I will not have a star.' Noting that he will not have a star keeps Barinov's side of the story simple and clear.",
    "gap": 0.4
   },
   {
@@ -135,7 +131,7 @@
   },
   {
    "v": "narrator",
-   "t": "'Vitya, I am a fish.' Spoken Russian keeps this brisk, leaning on 'I' and finishing on 'fish'.",
+   "t": "'Vitya, I am a fish.' Saying that he is a fish is how Lyova sets the tone with Barinov.",
    "gap": 0.4
   },
   {
@@ -145,17 +141,17 @@
   },
   {
    "v": "narrator",
-   "t": "'Decide for yourself.' Notice how Russian expresses 'to decide' and 'yourself' with crisp inflection rather than helper words. Chef Barinov answers right away.",
+   "t": "'Decide for yourself.' Even though Barinov should decide for themselves, Lyova keeps a steady face in front of Barinov.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Я согласен у вас работать.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'I agree to work for you.' Spoken Russian keeps this brisk, leaning on 'I' and finishing on 'to work'.",
+   "t": "'I agree to work for you.' Noting that he agrees to work for Elena keeps Barinov's side of the story simple and clear.",
    "gap": 0.4
   },
   {
@@ -165,7 +161,7 @@
   },
   {
    "v": "narrator",
-   "t": "'It was an interesting movie, right?' In Russian, the idea of 'interesting' flows naturally into 'yes' without extra filler words.",
+   "t": "'It was an interesting movie, right?' Questioning whether it was an interesting movie right is how Lyova tests Barinov's story. In Russian, he does not need helper words like \"do\" or \"did\"—rising pitch alone turns it into a question.",
    "gap": 0.4
   },
   {
@@ -175,17 +171,17 @@
   },
   {
    "v": "narrator",
-   "t": "'I do not know, I did not really look at the screen.' Spoken Russian keeps this brisk, leaning on 'not' and finishing on 'particularly'. Chef Barinov answers right away.",
+   "t": "'I do not know, I did not really look at the screen.' Around the moment and doctor, Lyova sets a calm, everyday tone with Barinov.",
    "gap": 0.4
   },
   {
-   "v": "chef",
+   "v": "elena",
    "t": "Ну, я пошла?",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Well, shall I go?' In Russian, the idea of 'come on' flows naturally into 'am off' without extra filler words.",
+   "t": "'Well, shall I go?' Elena asks whether shall she goes, refusing to let the point slide.",
    "gap": 0.4
   },
   {
@@ -195,7 +191,7 @@
   },
   {
    "v": "narrator",
-   "t": "'Well yes, bye.' The meaning hinges on 'come on' working together with 'for now' in spoken Russian.",
+   "t": "'Well yes, bye.' Between the moment and the doctor, Lyova gives Barinov a quick, grounded response.",
    "gap": 0.4
   },
   {
@@ -205,26 +201,26 @@
   },
   {
    "v": "narrator",
-   "t": "'Let's go for a walk tomorrow.' In Russian, the idea of 'are going' flows naturally into 'tomorrow' without extra filler words. Alright, let's hear the entire conversation one more time from start to finish.",
+   "t": "'Let's go for a walk tomorrow.' Explaining that they should go for a walk tomorrow lays the cards on the table for Barinov. Alright, let's hear the entire conversation one more time from start to finish.",
    "gap": 0.9
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Давай, стреляй.",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Может, действительно бросить этот дурдом?",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "А то помру раньше времени.",
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "И не будет у меня звезды.",
    "gap": 0.5
   },
@@ -239,7 +235,7 @@
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "barinov",
    "t": "Я согласен у вас работать.",
    "gap": 0.5
   },
@@ -254,7 +250,7 @@
    "gap": 0.5
   },
   {
-   "v": "chef",
+   "v": "elena",
    "t": "Ну, я пошла?",
    "gap": 0.5
   },

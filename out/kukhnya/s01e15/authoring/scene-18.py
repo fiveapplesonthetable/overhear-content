@@ -4,33 +4,32 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 15
 SCENE = 18
-TITLE = "Ночевка в подъезде  (Sleeping in the Hallway)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Ночевка в подъезде  (Sleeping in the Hallway)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "anya": "alisa", "vika": "angelina", "kostya": "anja"}
-LABELS = {"anya": "Макс", "vika": "Вика", "kostya": "Костя"}
+LABELS = {'kostya': 'Костя', 'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.15'
 SOURCE_FILE = 'sources/kukhnya/s01/e15.ru.dual.srt'
 INTRO = 'Victoria tells Max they should wait before living together, leaving him alone in the hallway. Soon after, Kostya calls Max to ask him to return to their apartment. Let us listen to their conversation in Russian first.'
 OPENER = 'Now let us examine the conversation line by line.'
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Victoria tells Max they should wait before living together, leaving him alone in the hallway. Soon after, Kostya calls Max to ask him to return to their apartment. Next time you watch the episode, listen for the Russian expressions for 'that's why' and 'to be' — you will catch every word right away. See you next time!"
-CLOSING = ("anya", "Пока!")
+CLOSING = ('max', 'Пока!')
 STORY = [
     ('vika', 'Поэтому я не буду давить.', 'Therefore I will not pressure you.', [(343, 'Поэтому я не буду давить.')], ''),
     ('vika', 'Пусть всё остаётся как было.', 'Let everything remain as it was.', [(344, 'Пусть остается все как было, всему свое время.')], ''),
-    ('anya', 'Да, но я...', 'Yes, but I...', [(345, 'Да, но я...')], ''),
+    ('max', 'Да, но я...', 'Yes, but I...', [(345, 'Да, но я...')], ''),
     ('vika', 'Мы обязательно будем жить вместе.', 'We will definitely live together.', [(345, 'Мы обязательно будем жить вместе,')], ''),
     ('vika', 'А сейчас спокойной ночи.', 'And now good night.', [(347, 'А сейчас спокойной ночи.')], ''),
-    ('anya', 'До завтра, Макс.', 'Until tomorrow, Max.', [(348, 'До завтра.')], ''),
+    ('max', 'До завтра, Макс.', 'Until tomorrow, Max.', [(348, 'До завтра.')], ''),
     ('vika', 'До завтра.', 'Until tomorrow.', [(349, 'До завтра.')], ''),
-    ('anya', 'Переехал жить в подъезд.', 'Moved to live in the hallway.', [(350, 'Переехал жить своей девушке в подъезд.')], ''),
+    ('max', 'Переехал жить в подъезд.', 'Moved to live in the hallway.', [(350, 'Переехал жить своей девушке в подъезд.')], ''),
     ('kostya', 'Привет, Макс.', 'Hi, Max.', [(351, 'Да. Здорово, Макс.')], ''),
-    ('anya', 'Что тебе надо?', 'What do you need?', [(352, 'Че надо?')], ''),
+    ('max', 'Что тебе надо?', 'What do you need?', [(352, 'Че надо?')], ''),
     ('kostya', 'Макс, возвращайся.', 'Max, come back.', [(353, 'Макс, возвращайся, а мне...')], ''),
     ('kostya', 'Нам тебя не хватает.', 'We miss you.', [(354, 'Нам.'), (355, 'Нам тебя не хватает.')], ''),
     ('kostya', 'Мы поделим квартиру на троих.', 'We will divide the apartment by three.', [(357, 'Мы квартплату на троих поделим.')], ''),
-    ('anya', 'Я постараюсь приехать.', 'I will try to come.', [(358, 'Ну, Костян, обещать не буду, но постараюсь.')], ''),
+    ('max', 'Я постараюсь приехать.', 'I will try to come.', [(358, 'Ну, Костян, обещать не буду, но постараюсь.')], ''),
 ]
 WALK = [
     (0, None, "'Therefore I will not pressure you.' The little negative word sits right in front of the verb for 'will be', just like 'not' in English."),

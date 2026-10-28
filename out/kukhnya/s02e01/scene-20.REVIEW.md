@@ -1,40 +1,41 @@
-# Извинения  (Apologies) — `kukhnya-s02e01-scene-20`
+# kukhnya-s02e01-scene-20: review sheet
 
-**Source:** Кухня (Kukhnya) S2.01 · `sources/kukhnya/s02/e01.ru.dual.srt`  
-**Target level:** A1 — Duolingo Section 2
+Title: Извинения  (Apologies)
+Level: A1 — Duolingo Section 2
+Pair: ru-en
+Source: Кухня (Kukhnya) S2.01
 
-## Cast
 
-| Role | Voice | Label |
-|---|---|---|
-| `narrator` | sky | — |
-| `anya` | alisa | Макс |
-| `vika` | angelina | Вика |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 1 — Intro
-
-> After surviving his accidental hanging, Max sincerely apologizes to Victoria for his foolish stunt. He begs her for another chance to prove his love. Let's listen closely to the conversation in Russian first, and then walk through each line together.
-
-## Part 2 — Story
-
-| # | Speaker | Line | English | Source cue(s) | Change |
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 0 | Макс | Спасибо, что спас меня. | Thank you for saving me. | #257 "Спасибо." |  |
-| 1 | Вика | Какой же ты дурак. | What a fool you are. | #258 "Дурак." |  |
-| 2 | Вика | Думаешь, это смешные шутки? | Do you think these are funny jokes? | #259 "Думаешь, это шутки?" |  |
-| 3 | Макс | Вика, прости меня, пожалуйста. | Vika, forgive me, please. | #260 "Вик, прости меня." |  |
-| 4 | Макс | Я реально очень сильно облажался. | I really screwed up badly. | #261 "Я реально облажался." |  |
-| 5 | Макс | Я просто не хочу тебя терять. | I simply do not want to lose you. | #262 "Я не хочу тебя терять" |  |
-| 6 | Макс | У меня есть хоть маленький шанс? | Do I have even a small chance? | #262 "есть хоть маленький шанс" |  |
-| 7 | Макс | Я сделаю всё, что ты скажешь. | I will do everything that you say. | *(added)* |  |
-| 8 | Вика | Я больше не верю твоим словам. | I no longer believe your words. | *(added)* |  |
-| 9 | Макс | Но я говорю тебе правду. | But I am telling you the truth. | *(added)* |  |
-| 10 | Вика | Тебе нужно измениться. | You need to change. | *(added)* |  |
-| 11 | Макс | Я обещаю, я изменюсь. | I promise, I will change. | *(added)* |  |
-| 12 | Макс | Ещё раз прости меня. | Once again, forgive me. | #263 "Прости меня." |  |
+| 1 | Макс | Спасибо, что спас меня. | Thank you for saving me. | #257: Спасибо. | verbatim |
+| 2 | Вика | Какой же ты дурак. | What a fool you are. | #258: Дурак. | verbatim |
+| 3 | Вика | Думаешь, это смешные шутки? | Do you think these are funny jokes? | #259: Думаешь, это шутки? | verbatim |
+| 4 | Макс | Вика, прости меня, пожалуйста. | Vika, forgive me, please. | #260: Вик, прости меня. | verbatim |
+| 5 | Макс | Я реально очень сильно облажался. | I really screwed up badly. | #261: Я реально облажался. | verbatim |
+| 6 | Макс | Я просто не хочу тебя терять. | I simply do not want to lose you. | #262: Я не хочу тебя терять | verbatim |
+| 7 | Макс | У меня есть хоть маленький шанс? | Do I have even a small chance? | #262: есть хоть маленький шанс | verbatim |
+| 8 | Макс | Я сделаю всё, что ты скажешь. | I will do everything that you say. | new | new |
+| 9 | Вика | Я больше не верю твоим словам. | I no longer believe your words. | new | new |
+| 10 | Макс | Но я говорю тебе правду. | But I am telling you the truth. | new | new |
+| 11 | Вика | Тебе нужно измениться. | You need to change. | new | new |
+| 12 | Макс | Я обещаю, я изменюсь. | I promise, I will change. | new | new |
+| 13 | Макс | Ещё раз прости меня. | Once again, forgive me. | #263: Прости меня. | verbatim |
 
-## Part 5 — Outro & closing
+## Walk-through narration (English only, no target-language words quoted)
 
-> Victoria remains skeptical of his promises, leaving Max desperate to show that he can truly change his immature behavior. Next time you watch the episode, listen for the Russian expressions for 'to save' and 'fool' — you will catch every word right away. See you next time!
-
-**Макс:** Пока!
+- 'Thank you for saving me.' The question word for 'what' comes right at the start, followed directly by 'me'.
+- 'What a fool you are.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'Do you think these are funny jokes?' Vika turns a statement into a question purely through rising intonation on the word meaning 'think', pairing it with 'ridiculous' and 'jokes'.
+- 'Vika, forgive me, please.' Max leads with the direct command form meaning 'sorry' to make the point directly in conversation.
+- 'I really screwed up badly.' The verb for 'screw up' is in the matching past tense, marked by the '-l' ending.
+- 'I simply do not want to lose you.' Max uses the informal everyday 'you' here with 'to lose', as friends and close colleagues do.
+- 'Do I have even a small chance?' Max uses the classic Russian possession phrasing — literally 'at me' rather than a verb meaning 'to have', combining 'there is' with 'short' and 'chance'.
+- 'I will do everything that you say.' Max uses the action verb meaning 'I'll do' to focus on the single completed result, pairing it with 'will you say'.
+- 'I no longer believe your words.' Vika puts the word for 'more' together with 'believe' and 'word' in a crisp, natural spoken turn of phrase.
+- 'But I am telling you the truth.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'You need to change.' Vika uses the informal everyday 'you' here with 'to change', as friends and close colleagues do.
+- 'I promise, I will change.' the self-directed ending on the verb for 'to change' turns the action back onto the subject.
+- 'Once again, forgive me.' Max leads with the direct command form meaning 'sorry', pairing it with 'more' and 'time'.

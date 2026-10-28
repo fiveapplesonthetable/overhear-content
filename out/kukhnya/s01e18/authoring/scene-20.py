@@ -4,20 +4,19 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 18
 SCENE = 20
-TITLE = "Прощание  (Farewell)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Прощание  (Farewell)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "senya": "angelina", "fedya": "anja"}
-LABELS = {"senya": "Сеня", "fedya": "Федя"}
+LABELS = {'fedya': 'Федя', 'nagiyev': 'Нагиев', 'senya': 'Сеня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.18'
 SOURCE_FILE = 'sources/kukhnya/s01/e18.ru.dual.srt'
 INTRO = "Nagiyev gathers the kitchen staff to announce the mass firings. Senya and Fedya discuss the depressing situation. Let's listen closely to their exchange in Russian first, and then walk through each line together."
 OPENER = "Now let's go back through the exchange around Farewell line by line and unpack how the Russian works."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "The cooks receive their final meager payouts and prepare to leave the restaurant for good. Next time you watch the episode, listen for the Russian expressions for 'guys' and 'to have to' — you will catch every word right away. See you next time!"
-CLOSING = ("senya", "Пока!")
+CLOSING = ('nagiyev', 'Пока!')
 STORY = [
-    ('senya', 'Ребята, нам придётся расстаться с вами.', 'Guys, we will have to part ways with you.', [(358, 'нам придётся расстаться с вами')], ''),
+    ('nagiyev', 'Ребята, нам придётся расстаться с вами.', 'Guys, we will have to part ways with you.', [(358, 'нам придётся расстаться с вами')], ''),
     ('senya', 'Куда вы собрались так рано?', 'Where are you off to so early?', [], ''),
     ('fedya', 'Нас уволили.', 'We got fired.', [(366, 'Нас уволили')], ''),
     ('senya', 'Как уволили? Тебя тоже?', 'How fired? You too?', [(367, 'Тебя, кстати, тоже')], ''),
@@ -27,9 +26,9 @@ STORY = [
     ('fedya', 'Мы часто шагаем в пропасть.', 'We often walk into the abyss.', [(371, 'шагаем именно в пропасть')], ''),
     ('senya', 'Это из-за самоуверенности?', 'Is this because of overconfidence?', [(372, 'самоуверенности')], ''),
     ('fedya', 'Да, мы слишком много хотели.', 'Yes, we wanted too much.', [], ''),
-    ('senya', 'Вот ваш расчёт.', 'Here is your payout.', [(374, 'Вот расчет')], ''),
+    ('nagiyev', 'Вот ваш расчёт.', 'Here is your payout.', [(374, 'Вот расчет')], ''),
     ('senya', 'Только двадцать тысяч?', 'Only twenty thousand?', [(375, '20 тысяч')], ''),
-    ('senya', 'Остальное будет в конце месяца.', 'The rest will be at the end of the month.', [(376, 'Остальное в конце месяца')], ''),
+    ('nagiyev', 'Остальное будет в конце месяца.', 'The rest will be at the end of the month.', [(376, 'Остальное в конце месяца')], ''),
 ]
 WALK = [
     (0, None, "'Guys, we will have to part ways with you.' Notice the self-directed ending on the verb for 'to break up', which directs the action back onto the subject. Then Senya responds."),

@@ -1,39 +1,39 @@
-# Неожиданное родство  (An Unexpected Kinship) — `kukhnya-s01e09-scene-08`
+# kukhnya-s01e09-scene-08: review sheet
 
-**Source:** Кухня (Kukhnya) S1.09 · `sources/kukhnya/s01/e09.ru.dual.srt`  
-**Target level:** A1 — Duolingo Section 2
+Title: Неожиданное родство  (An Unexpected Kinship)
+Level: A1 — Duolingo Section 2
+Pair: ru-en
+Source: Кухня (Kukhnya) S1.09
 
-## Cast
 
-| Role | Voice | Label |
-|---|---|---|
-| `narrator` | sky | — |
-| `vika` | angelina | Вика |
-| `anya` | alisa | Макс |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 1 — Intro
-
-> Near the bar in the Claude Monet dining room, Max arrives to fetch cognac for pastry chef Louis and notices art director Victoria with a young girl. Max teases Victoria about having children, only for the outspoken little girl to reveal that her father is the kitchen's boss, exposing unexpected family connections. Let's listen to their conversation in Russian first.
-
-## Part 2 — Story
-
-| # | Speaker | Line | English | Source cue(s) | Change |
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 0 | Макс | Вика, налей немного воды, пожалуйста. | Vika, pour a little water, please. | #193 "Костя, налей водички, пожалуйста" |  |
-| 1 | Вика | Костя тебе нальёт, а мне некогда. | Kostya will pour for you, and I have no time. | #187 "Но мне сейчас встречать гостей, видите" |  |
-| 2 | Макс | Ого, я не знал о твоих детях! | Wow, I did not know about your children! | #194 "Ой, я не знал, что у тебя есть дети" |  |
-| 3 | Вика | Это не моя дочка, а моя племянница. | This is not my daughter, but my niece. | #196 "Это дочь моей сестры Алиса" |  |
-| 4 | Макс | Она очень похожа на тебя внешне. | She looks very much like you externally. | *(added)* |  |
-| 5 | Вика | Её зовут Алиса, и она хорошая девочка. | Her name is Alice, and she is a good girl. | #196 "дочь моей сестры Алиса" |  |
-| 6 | Макс | А почему она говорит про нашего шефа? | And why is she talking about our chef? | #203 "Мой папа тут главный" |  |
-| 7 | Вика | Потому что наш шеф — её родной папа! | Because our chef is her own dad! | #204 "Ты что, дочка шефа" |  |
-| 8 | Макс | Неужели шеф — твой близкий родственник? | Can it be that the chef is your close relative? | #206 "Получается, ты и родственница шефа" |  |
-| 9 | Вика | Это совершенно не твоё дело, Макс! | That is completely none of your business, Max! | #207 "Не твое дело" |  |
-| 10 | Макс | Теперь я понимаю многие странные вещи. | Now I understand many strange things. | *(added)* |  |
-| 11 | Вика | Иди на кухню и работай молча! | Go to the kitchen and work quietly! | #208 "Ладно, я пошел" |  |
+| 1 | Макс | Вика, налей немного воды, пожалуйста. | Vika, pour a little water, please. | #193: Костя, налей водички, пожалуйста | verbatim |
+| 2 | Вика | Костя тебе нальёт, а мне некогда. | Kostya will pour for you, and I have no time. | #187: Но мне сейчас встречать гостей, видите | verbatim |
+| 3 | Макс | Ого, я не знал о твоих детях! | Wow, I did not know about your children! | #194: Ой, я не знал, что у тебя есть дети | verbatim |
+| 4 | Вика | Это не моя дочка, а моя племянница. | This is not my daughter, but my niece. | #196: Это дочь моей сестры Алиса | verbatim |
+| 5 | Макс | Она очень похожа на тебя внешне. | She looks very much like you externally. | new | new |
+| 6 | Вика | Её зовут Алиса, и она хорошая девочка. | Her name is Alice, and she is a good girl. | #196: дочь моей сестры Алиса | verbatim |
+| 7 | Макс | А почему она говорит про нашего шефа? | And why is she talking about our chef? | #203: Мой папа тут главный | verbatim |
+| 8 | Вика | Потому что наш шеф — её родной папа! | Because our chef is her own dad! | #204: Ты что, дочка шефа | verbatim |
+| 9 | Макс | Неужели шеф — твой близкий родственник? | Can it be that the chef is your close relative? | #206: Получается, ты и родственница шефа | verbatim |
+| 10 | Вика | Это совершенно не твоё дело, Макс! | That is completely none of your business, Max! | #207: Не твое дело | verbatim |
+| 11 | Макс | Теперь я понимаю многие странные вещи. | Now I understand many strange things. | new | new |
+| 12 | Вика | Иди на кухню и работай молча! | Go to the kitchen and work quietly! | #208: Ладно, я пошел | verbatim |
 
-## Part 5 — Outro & closing
+## Walk-through narration (English only, no target-language words quoted)
 
-> Now you know how to talk about unexpected relatives, family resemblances, and workplace secrets in Russian. See you next time!
-
-**Вика:** Пока!
+- 'Vika, pour a little water, please.' Max makes a polite request using an command form and a matching form quantifier.
+- 'Kostya will pour for you, and I have no time.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'Wow, I did not know about your children!' Max expresses surprise using an interjection and a past tense verb.
+- 'This is not my daughter, but my niece.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'She looks very much like you externally.' Max points out physical similarities with a short form adjective.
+- 'Her name is Alice, and she is a good girl.' Victoria introduces the child with a standard naming construction.
+- 'And why is she talking about our chef?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'Because our chef is her own dad!' Victoria reveals the startling truth with an explanatory conjunction.
+- 'Can it be that the chef is your close relative?' Max expresses disbelief using a modal word of surprise.
+- 'That is completely none of your business, Max!' Victoria deflects his curiosity with a firm defensive retort.
+- 'Now I understand many strange things.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'Go to the kitchen and work quietly!' Victoria sends him back to cooking duties with two command form verbs.

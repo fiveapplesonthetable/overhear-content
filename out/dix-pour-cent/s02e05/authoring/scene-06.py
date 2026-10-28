@@ -7,8 +7,7 @@ SCENE = 6
 TITLE = "L'agent junior en priorité  (Junior Agent Priority)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'lea': 'lucie', 'gabriel': 'theo'}
-LABELS = {'lea': 'Andréa', 'gabriel': 'Gabriel'}
+LABELS = {'andrea': 'Andréa', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e05.fr.dual.srt'
 INTRO = "In Gabriel's office, Andréa is anxious after visiting Guy Marchand's doctor. Trying to shift focus to agency business, she asks Gabriel about recruiting a junior agent, but encounters unexpected hesitation. Let's listen to the scene in French first."
@@ -17,17 +16,17 @@ TRANSITION = "Now let's listen to the scene once more from start to finish."
 OUTRO = "Andréa and Gabriel navigate professional challenges and personal vulnerabilities as the agency faces major changes. Let's review the workplace and emotional vocabulary from this scene. See you next time!"
 CLOSING = ('gabriel', 'Bonne soirée!')
 STORY = [
-    ('lea', 'Je sors de chez le médecin de Guy.', 'I have just come from Guy', [(159, 'Je sors de chez le médecin de Guy.')], ''),
-    ('lea', 'La santé de Guy est une catastrophe.', 'Guy', [(159, "C'est une catastrophe")], ''),
+    ('andrea', 'Je sors de chez le médecin de Guy.', 'I have just come from Guy', [(159, 'Je sors de chez le médecin de Guy.')], ''),
+    ('andrea', 'La santé de Guy est une catastrophe.', 'Guy', [(159, "C'est une catastrophe")], ''),
     ('gabriel', "Tu veux me parler d'autre chose?", 'Do you want to talk about something else?', [(164, 'Tu veux quoi ?'), (165, 'Parler.')], ''),
-    ('lea', "Oui, au sujet de l'agent junior.", 'Yes, about the junior agent.', [(168, 'Un junior.')], ''),
-    ('lea', 'Est-ce que tu en veux un?', 'Do you want one?', [(169, "T'en veux un ou pas ?")], ''),
+    ('andrea', "Oui, au sujet de l'agent junior.", 'Yes, about the junior agent.', [(168, 'Un junior.')], ''),
+    ('andrea', 'Est-ce que tu en veux un?', 'Do you want one?', [(169, "T'en veux un ou pas ?")], ''),
     ('gabriel', 'Prendre un junior ne me fait pas peur.', 'Taking on a junior does not scare me.', [(172, 'ça ne me fait pas peur de... de prendre un junior.')], ''),
-    ('lea', 'Ton avis compte beaucoup pour moi.', 'Your opinion means a lot to me.', [(174, 'ton avis compte beaucoup pour moi.')], ''),
+    ('andrea', 'Ton avis compte beaucoup pour moi.', 'Your opinion means a lot to me.', [(174, 'ton avis compte beaucoup pour moi.')], ''),
     ('gabriel', "Ce n'est pas ma priorité en ce moment.", 'It is not my priority right now.', [(177, 'une de mes priorités en ce moment.')], ''),
-    ('lea', 'Tu veux un garçon ou une fille?', 'Do you want a boy or a girl?', [(178, 'Tu veux un garçon ou une fille ?')], ''),
+    ('andrea', 'Tu veux un garçon ou une fille?', 'Do you want a boy or a girl?', [(178, 'Tu veux un garçon ou une fille ?')], ''),
     ('gabriel', 'Les deux me vont très bien.', 'Both suit me very well.', [(179, 'Les deux, ça me va, non ?')], ''),
-    ('lea', 'Tu crois que ça va te rendre faible?', 'Do you think that will make you look weak?', [(184, 'Tu crois que ça va te rendre faible ?')], ''),
+    ('andrea', 'Tu crois que ça va te rendre faible?', 'Do you think that will make you look weak?', [(184, 'Tu crois que ça va te rendre faible ?')], ''),
     ('gabriel', 'Je ne suis pas comme ça, Andréa.', 'I am not like that, Andréa.', [(186, 'Je ne suis pas comme ça, Andréa.')], ''),
     ('gabriel', "Maintenant, j'ai beaucoup de travail.", 'Right now, I have a lot of work.', [(187, "J'ai du travail.")], ''),
 ]

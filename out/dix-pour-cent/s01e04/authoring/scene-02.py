@@ -7,8 +7,7 @@ SCENE = 2
 TITLE = "Les photos de Sofia  (Sofia's Photos)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'sofia': 'emilie', 'lea': 'lucie'}
-LABELS = {'gabriel': 'Gabriel', 'sofia': 'Sofia', 'lea': 'Andréa'}
+LABELS = {'andrea': 'Andréa', 'gabriel': 'Gabriel', 'sofia': 'Sofia'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e04.fr.dual.srt'
 INTRO = "Back at the agency, Gabriel is keeping the promise he made at the end of the last episode: he has taken on receptionist Sofia as a client. Between phone calls at the front desk, Sofia shows him her new professional headshots. We'll hear it in French first; just listen to the tone of their voices."
@@ -30,9 +29,9 @@ STORY = [
     ('gabriel', "Vous avez de la grâce. Oui, c'est ça, de la grâce.", 'You have grace. Yes, that', [(77, "Vous avez de la grâce. Oui, c'est ça, de la grâce")], ''),
     ('sofia', 'Merci, Gabriel!', 'Thank you, Gabriel!', [(50, 'Merci'), (52, 'Gabriel !')], ''),
     ('gabriel', 'Bon, au travail!', 'Right, back to work!', [(79, 'Bon, au travail !')], ''),
-    ('lea', 'Et après Sofia, tu prends aussi la fille de la boulangerie?', 'And after Sofia, are you taking on the girl from the bakery too?', [(81, 'la fille de la boulangerie')], ''),
+    ('andrea', 'Et après Sofia, tu prends aussi la fille de la boulangerie?', 'And after Sofia, are you taking on the girl from the bakery too?', [(81, 'la fille de la boulangerie')], ''),
     ('gabriel', "Elle fera la couverture d'un grand magazine!", 'She', [(82, 'Elle fera la couverture de')], ''),
-    ('lea', "Tu es amoureux d'elle, non?", 'You', [(83, 'non ?')], ''),
+    ('andrea', "Tu es amoureux d'elle, non?", 'You', [(83, 'non ?')], ''),
     ('gabriel', 'Jamais avec mes clientes!', 'Never with my clients!', [(83, 'Jamais avec mes clientes')], ''),
 ]
 WALK = [

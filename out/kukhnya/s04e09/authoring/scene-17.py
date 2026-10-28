@@ -1,54 +1,49 @@
+# Authoring module for kukhnya-s04e09-scene-17.
 ID = 'kukhnya-s04e09-scene-17'
 SHOW = 'kukhnya'
 SEASON = 4
 EPISODE = 9
 SCENE = 17
-TITLE = "Дружеский спарринг  (Friendly Sparring)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Дружеский спарринг  (Friendly Sparring)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "chef": "anja", "inspector": "angelina"}
-LABELS = {"chef": "Шеф", "inspector": "Инспектор"}
+LABELS = {'barinov': 'Шеф', 'german': 'Герман', 'inspector': 'Инспектор'}
 SOURCE_NAME = 'Кухня (Kukhnya) S4.09'
 SOURCE_FILE = 'sources/kukhnya/s04/e09.ru.srt'
-
 INTRO = 'German turns out to be a former boxing champion and easily floors all three chefs, but when a policeman walks into the alley, Barinov and German team up with a quick cover story.'
-
+OPENER = "Let's go through each line of their improvised boxing excuse."
+TRANSITION = 'Now listen to the whole scene again from beginning to end.'
+OUTRO = 'That wraps up this scene as after German easily knocks down Barinov, Senya, and Fedya, a police officer arrives and both chefs pretend they are simply colleagues boxing on their break. Until next time!'
+CLOSING = ('inspector', 'Всего хорошего!')
 STORY = [
-    ('chef', 'Ну что, по-мужски разобрались?', 'Well, did we settle things like men?', [(263, 'Ну что, по мужски разобрались')], ''),
-    ('chef', 'Я просто поскользнулся.', 'I simply slipped.', [(264, 'просто поскользнулся')], 'adapted for A1 clarity'),
+    ('german', 'Ну что, по-мужски разобрались?', 'Well, did we settle things like men?', [(263, 'Ну что, по мужски разобрались')], ''),
+    ('barinov', 'Я просто поскользнулся.', 'I simply slipped.', [(264, 'просто поскользнулся')], 'adapted for A1 clarity'),
     ('inspector', 'Так, драка в общественном месте!', 'Right, a fight in a public place!', [(267, 'Драка в общественном месте')], 'adapted for A1 clarity'),
-    ('chef', 'Да что вы, какая драка?', 'Oh come on, what fight?', [(268, 'Да что вы, какая драка')], ''),
-    ('chef', 'Мы же коллеги, работаем в ресторане.', 'We are colleagues, we work at the restaurant.', [(269, 'Мы же коллеги, работаем в ресторане')], ''),
-    ('chef', 'На спортзал у нас времени нет.', 'We have no time for the gym.', [(270, 'В спортзал времени нет')], 'adapted for A1 clarity'),
-    ('chef', 'Вот мы на перерыве и боксируем.', 'So we box on our break.', [(270, 'боксируем')], 'adapted for A1 clarity'),
-    ('chef', 'Да, конечно, мы часто спаррингуем.', 'Yes, of course, we spar quite often.', [(273, 'мы тут довольно часто спаррингуем')], 'adapted for A1 clarity'),
-    ('chef', 'Я вообще мастер спорта по боксу.', 'I am actually a Master of Sport in boxing.', [(274, 'Я вообще мастер спорта по боксу')], ''),
-    ('chef', 'А мой друг помогает мне.', 'And my buddy helps me.', [(275, 'А мой друг помогает мне')], ''),
+    ('barinov', 'Да что вы, какая драка?', 'Oh come on, what fight?', [(268, 'Да что вы, какая драка')], ''),
+    ('barinov', 'Мы же коллеги, работаем в ресторане.', 'We are colleagues, we work at the restaurant.', [(269, 'Мы же коллеги, работаем в ресторане')], ''),
+    ('barinov', 'На спортзал у нас времени нет.', 'We have no time for the gym.', [(270, 'В спортзал времени нет')], 'adapted for A1 clarity'),
+    ('barinov', 'Вот мы на перерыве и боксируем.', 'So we box on our break.', [(270, 'боксируем')], 'adapted for A1 clarity'),
+    ('german', 'Да, конечно, мы часто спаррингуем.', 'Yes, of course, we spar quite often.', [(273, 'мы тут довольно часто спаррингуем')], 'adapted for A1 clarity'),
+    ('german', 'Я вообще мастер спорта по боксу.', 'I am actually a Master of Sport in boxing.', [(274, 'Я вообще мастер спорта по боксу')], ''),
+    ('german', 'А мой друг помогает мне.', 'And my buddy helps me.', [(275, 'А мой друг помогает мне')], ''),
     ('inspector', 'А с машиной что случилось?', 'And what happened to the car?', [(277, 'А с машиной что')], 'adapted for A1 clarity'),
-    ('chef', 'Ерунда, она у меня застрахована.', 'Nothing serious, I have it insured.', [(278, 'Она у меня застрахована')], 'adapted for A1 clarity'),
+    ('german', 'Ерунда, она у меня застрахована.', 'Nothing serious, I have it insured.', [(278, 'Она у меня застрахована')], 'adapted for A1 clarity'),
     ('inspector', 'Спарринги нужно устраивать на ринге.', 'You need to hold sparring matches in the ring.', [(282, 'спарринги-то нужно устраивать')], 'adapted for A1 clarity'),
     ('inspector', 'Ну ладно, всего хорошего.', 'All right then, all the best.', [(285, 'Всего хорошего')], 'adapted for A1 clarity'),
 ]
-
-OPENER = "Let's go through each line of their improvised boxing excuse."
-
 WALK = [
-    (0, None, "'Well, did we settle things like men?' Notice how Russian puts 'like a man' and 'to sort out, to figure out' together in a short, direct phrase where word endings show how the ideas connect."),
-    (1, None, "'I simply slipped.' Here Chef Barinov anchors the thought on 'simply, just' and finishes on 'to slipped', keeping the spoken rhythm brisk and natural."),
-    (2, None, "'Right, a fight in a public place!' In everyday Russian, 'so, like this' flows straight into 'place' without extra linking words."),
-    (3, None, "'Oh come on, what fight?' The exclamation 'what are you saying!' dismisses the officer's accusation with warm surprise."),
-    (4, None, "'We are colleagues, we work at the restaurant.' Barinov stresses their shared workplace using the first-person plural present tense."),
-    (5, None, "'We have no time for the gym.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'."),
-    (6, None, "'So we box on our break.' Borrowed sports verbs in '-irovat' drop that suffix and take '-iruem' in the 'we' form."),
-    (7, None, "'Yes, of course, we spar quite often.' German backs up the lie using the same '-uem' first-person plural verb pattern."),
-    (8, None, "'I am actually a Master of Sport in boxing.' Notice how Russian puts 'at all, even' and 'boxing' together in a short, direct phrase where word endings show how the ideas connect."),
-    (9, None, "'And my buddy helps me.' Here German anchors the thought on 'friend' and finishes on 'is helping', keeping the spoken rhythm brisk and natural."),
-    (10, None, "'And what happened to the car?' In everyday Russian, 'the car' flows straight into 'happened' without extra linking words."),
-    (11, None, "'Nothing serious, I have it insured.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'."),
-    (12, None, "'You need to hold sparring matches in the ring.' In Russian, boxing happens 'on the ring' rather than 'in the ring'."),
-    (13, None, "'All right then, all the best.' Here the inspector anchors the thought on 'only, in all' and finishes on 'good', keeping the spoken rhythm brisk and natural."),
+    (0, None, '\'Well, did we settle things like men?\' By checking whether they settle things like men, German presses Barinov for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.'),
+    (1, None, "'I simply slipped.' Between the story and the police, Barinov gives German a quick, grounded response."),
+    (2, None, "'Right, a fight in a public place!' Over the story and the point, the inspector lets his real feelings show."),
+    (3, None, '\'Oh come on, what fight?\' Turning from the story to the truth, Barinov asks German directly. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.'),
+    (4, None, "'We are colleagues, we work at the restaurant.' Pointing out that they are colleagues they work at the restaurant gives German a sobering reality check."),
+    (5, None, "'We have no time for the gym.' Barinov explains that they have no time for the gym, keeping his voice calm and direct."),
+    (6, None, "'So we box on our break.' Between the story and the point, Barinov gives German a quick, grounded response."),
+    (7, None, "'Yes, of course, we spar quite often.' With the kitchen and police in play, German keeps this short reply brisk and direct."),
+    (8, None, "'I am actually a Master of Sport in boxing.' German explains that he is actually a master of sport in boxing, keeping his voice calm and direct."),
+    (9, None, "'And my buddy helps me.' Admitting that his buddy helps him shows German being honest for a change."),
+    (10, None, '\'And what happened to the car?\' Around the shift and moment, the inspector wants to know where Barinov really stands. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.'),
+    (11, None, "'Nothing serious, I have it insured.' Once nothing serious he has it insured, German can finally tell Barinov what he means."),
+    (12, None, '\'You need to hold sparring matches in the ring.\' Adding that Barinov needs to hold sparring matches in the ring fills in the missing piece for Barinov. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.'),
+    (13, None, "'All right then, all the best.' Around the shift and police, the inspector sets a calm, everyday tone with Barinov."),
 ]
-
-TRANSITION = 'Now listen to the whole scene again from beginning to end.'
-OUTRO = 'That wraps up this scene as after German easily knocks down Barinov, Senya, and Fedya, a police officer arrives and both chefs pretend they are simply colleagues boxing on their break. Until next time!'
-CLOSING = ("inspector", "Всего хорошего!")

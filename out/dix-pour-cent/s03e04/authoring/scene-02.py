@@ -7,7 +7,6 @@ SCENE = 2
 TITLE = "Dans la loge d'Isabelle  (In Isabelle's Dressing Room)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'isabelle': 'emilie'}
 LABELS = {'gabriel': 'Gabriel', 'isabelle': 'Isabelle'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e04.fr.dual.srt'

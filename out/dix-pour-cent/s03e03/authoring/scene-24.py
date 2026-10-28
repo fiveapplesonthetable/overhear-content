@@ -7,8 +7,7 @@ SCENE = 24
 TITLE = "L'accouchement à l'agence  (Delivery at the Agency)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'arlette': 'emilie', 'mathias': 'marcel', 'lea': 'lucie'}
-LABELS = {'arlette': 'Arlette', 'mathias': 'Mathias', 'lea': 'Andréa'}
+LABELS = {'andrea': 'Andréa', 'arlette': 'Arlette', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e03.fr.dual.srt'
 INTRO = "In Andrea's office, an emergency birth unfolds as Arlette calls a midwife on speakerphone and guides a stunned Mathias through delivering the baby. Listen to the scene in French first. Don't worry about catching every word."
@@ -30,7 +29,7 @@ STORY = [
     ('mathias', "D'accord, je vous écoute attentivement.", 'Agreed, I am listening to you closely.', [(1344, 'Je vous écoute')], ''),
     ('mathias', 'Ça y est, je vois la tête!', 'Here it is, I see the head!', [(1364, "C'est la tête")], ''),
     ('mathias', 'Le bébé va sortir les épaules.', 'The baby is going to bring out the shoulders.', [(1365, 'le bébé va sortir les épaules')], ''),
-    ('lea', 'Ah! Aidez-moi, je pousse!', 'Ah! Help me, I am pushing!', [(1333, 'de pousser')], ''),
+    ('andrea', 'Ah! Aidez-moi, je pousse!', 'Ah! Help me, I am pushing!', [(1333, 'de pousser')], ''),
     ('arlette', 'Mathias, vous êtes comme un chef!', 'Mathias, you are doing like a champion!', [(1367, 'Vous vous débrouillez comme un chef')], ''),
 ]
 WALK = [

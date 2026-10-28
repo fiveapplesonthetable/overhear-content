@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Денис | Я познакомился с твоим племянником. | I got acquainted with your nephew. | #290 00:18:06: я как раз познакомился с твоим талантливым племянником | adapted: adapted |
-| 2 | Элеонора | Денис, ты просто бессовестный племянник! | Denis, you are simply a shameless nephew! | #292 00:18:16: Бессовестный человек, а ты племянник | adapted: adapted |
-| 3 | Элеонора | Приехал в Москву и молчал. | You came to Moscow and kept quiet. | #293 00:18:20: Приехал в Москву | adapted: adapted |
-| 4 | Элеонора | Даже не позвонил любимой тёте! | You did not even call your beloved aunt! | #293 00:18:20: даже не позвонил своей любимой тете | adapted: adapted |
-| 5 | Элеонора | Как же я сильно соскучилась! | How very much I have missed you! | #294 00:18:23: Как же я соскучилась | adapted: adapted |
-| 6 | Денис | Я тоже очень соскучился, тётя. | I missed you very much too, Aunt. | #295 00:18:27: Я тоже соскучился<br>#296 00:18:29: Тетя | adapted: adapted |
-| 7 | Элеонора | Он был здесь, но уехал. | He was here, but he left. | #299 00:18:36: Был здесь, но срочно уехал | adapted: adapted |
-| 8 | Элеонора | Кажется, он сегодня немного приболел. | It seems he fell slightly ill today. | #300 00:18:38: Приболел | adapted: adapted |
-| 9 | Элеонора | Странно, а почему не позвонил? | Strange, why did he not call? | #301 00:18:40: Странно. А что не позвонил | adapted: adapted |
-| 10 | Денис | Спасибо вам за приятную компанию. | Thank you for the pleasant company. | #303 00:18:45: Спасибо за компанию | adapted: adapted |
-| 11 | Элеонора | Мама, большое спасибо тебе сейчас. | Mom, thank you very much right now. | #304 00:18:52: Мама, спасибо | adapted: adapted |
-| 12 | Элеонора | Это всё из-за вашей лошади! | This is all because of your horse! | #309 00:19:07: из-за лошади | adapted: adapted |
+| 1 | Денис | Я познакомился с твоим племянником. | I got acquainted with your nephew. | #290: я как раз познакомился с твоим талантливым племянником | adapted: adapted |
+| 2 | Элеонора | Денис, ты просто бессовестный племянник! | Denis, you are simply a shameless nephew! | #292: Бессовестный человек, а ты племянник | adapted: adapted |
+| 3 | Элеонора | Приехал в Москву и молчал. | You came to Moscow and kept quiet. | #293: Приехал в Москву | adapted: adapted |
+| 4 | Элеонора | Даже не позвонил любимой тёте! | You did not even call your beloved aunt! | #293: даже не позвонил своей любимой тете | adapted: adapted |
+| 5 | Элеонора | Как же я сильно соскучилась! | How very much I have missed you! | #294: Как же я соскучилась | adapted: adapted |
+| 6 | Денис | Я тоже очень соскучился, тётя. | I missed you very much too, Aunt. | #295: Я тоже соскучился<br>#296: Тетя | adapted: adapted |
+| 7 | Катя | Он был здесь, но уехал. | He was here, but he left. | #299: Был здесь, но срочно уехал | adapted: adapted |
+| 8 | Катя | Кажется, он сегодня немного приболел. | It seems he fell slightly ill today. | #300: Приболел | adapted: adapted |
+| 9 | Элеонора | Странно, а почему не позвонил? | Strange, why did he not call? | #301: Странно. А что не позвонил | adapted: adapted |
+| 10 | Денис | Спасибо вам за приятную компанию. | Thank you for the pleasant company. | #303: Спасибо за компанию | adapted: adapted |
+| 11 | Катя | Мама, большое спасибо тебе сейчас. | Mom, thank you very much right now. | #304: Мама, спасибо | adapted: adapted |
+| 12 | Элеонора | Это всё из-за вашей лошади! | This is all because of your horse! | #309: из-за лошади | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I got acquainted with your nephew.' Here the Russian phrasing highlights 'I' before landing on 'nephew'.
-- 'Denis, you are simply a shameless nephew!' Spoken Russian keeps this brisk, leaning on 'Denis' and finishing on 'nephew'.
-- 'You came to Moscow and kept quiet.' Here the Russian phrasing highlights 'came' before landing on 'to be silent'.
-- 'You did not even call your beloved aunt!' Eleonora brings out the contrast between 'even' and 'not' in a few short words.
-- 'How very much I have missed you!' Notice how Russian puts 'how' and 'missed' together in a short, direct phrase where word endings show how the ideas connect.
-- 'I missed you very much too, Aunt.' Notice how Russian expresses 'I' and 'aunt' with crisp inflection rather than helper words.
-- 'He was here, but he left.' Here the Russian phrasing highlights 'he' before landing on 'left'.
-- 'It seems he fell slightly ill today.' Notice how Russian expresses 'it seems' and 'fell slightly ill' with crisp inflection rather than helper words. Eleonora answers right away.
-- 'Strange, why did he not call?' Here the Russian phrasing highlights 'strangely' before landing on 'called'.
-- 'Thank you for the pleasant company.' In Russian, the idea of 'thank you' flows naturally into 'company' without extra filler words.
-- 'Mom, thank you very much right now.' Spoken Russian keeps this brisk, leaning on 'mom' and finishing on 'now'. Eleonora answers right away.
-- 'This is all because of your horse!' Eleonora centers this short reply on 'horses / of the horse', letting a few direct words carry the whole meaning.
+- 'I got acquainted with your nephew.' Even though he got acquainted with Eleonora's nephew, Denis keeps a steady face in front of Eleonora.
+- 'Denis, you are simply a shameless nephew!' Once Denis is simply a shameless nephew, Eleonora makes sure Denis hears every word. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'You came to Moscow and kept quiet.' Saying that Denis came to Moscow and kept quiet is how Eleonora sets the tone with Denis.
+- 'You did not even call your beloved aunt!' Once Denis did not even call Denis's beloved aunt, Eleonora makes sure Denis hears every word. Russian puts the key word right up front so her emotion lands on the first beat.
+- 'How very much I have missed you!' Declaring that how very much she has missed Denis brings Eleonora's temper right to the surface. Russian puts the key word right up front so her emotion lands on the first beat.
+- 'I missed you very much too, Aunt.' Over the conversation and the shift, Denis answers Eleonora without a second thought.
+- 'He was here, but he left.' Since he was here but he left, Katya does not waste words on excuses.
+- 'It seems he fell slightly ill today.' Mentioning that it seems he fell slightly ill today moves the talk in a new direction.
+- 'Strange, why did he not call?' Wondering if strange why did he not call shows Eleonora caught off guard.
+- 'Thank you for the pleasant company.' With the conversation and plan in play, Denis keeps this short reply brisk and direct. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
+- 'Mom, thank you very much right now.' Between the conversation and the room, Katya gives Denis a quick, grounded response. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'This is all because of your horse!' Declaring that this is all because of Denis's horse brings Eleonora's temper right to the surface.

@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Нагиев | Кристина, никакой новой машины. | Kristina, no new car. | #67 00:04:44: Кристина, никакой новой машины | verbatim |
-| 2 | Нагиев | Я тебе по-русски сказал. Нет. | I told you in plain Russian. No. | #68 00:04:46: Я тебе по-русски сказал. Нет | verbatim |
-| 3 | Нагиев | Это что такое? | What is this? | #72 00:05:01: Это что такое | verbatim |
-| 4 | Нагиев | Что это такое, я вас спрашиваю? | What is this, I am asking you? | #74 00:05:05: Что это такое, я вас спрашиваю | adapted: adapted |
-| 5 | Нагиев | Он в центрифуге носки сушит. | He is drying socks in the centrifuge. | #75 00:05:08: в центрифуге носки сушит | adapted: adapted |
-| 6 | Нагиев | Говорит, сохнут быстро. | He says they dry fast. | #76 00:05:10: Говорит, сохнут быстро | verbatim |
-| 7 | Нагиев | Витя, я тебя просил найти человека! | Vitya, I asked you to find a person! | #80 00:05:19: Витя, я тебя когда еще просил найти человека | adapted: adapted |
-| 8 | Шеф | В Москве нет специалиста. | There is no specialist in Moscow. | #82 00:05:28: В Москве нет специалиста | adapted: adapted |
-| 9 | Шеф | Мы искали, но никто не подошел. | We looked, but nobody suited us. | #83 00:05:31: Мы искали, но никто не подошел | verbatim |
-| 10 | Шеф | У меня к вам ещё один вопрос. | I have one more question for you. | #85 00:05:36: у меня к вам еще один вопрос | adapted: adapted |
-| 11 | Шеф | Плохо. А вы подавали такие надежды. | Too bad. And you showed such promise. | #87 00:05:45: Плохо. А вы подавали такие надежды | adapted: adapted |
-| 12 | Шеф | Нужно сделать только одно. | You only need to do one thing. | #88 00:05:50: нужно сделать только одно | adapted: adapted |
+| 1 | Нагиев | Кристина, никакой новой машины. | Kristina, no new car. | #67: Кристина, никакой новой машины | verbatim |
+| 2 | Нагиев | Я тебе по-русски сказал. Нет. | I told you in plain Russian. No. | #68: Я тебе по-русски сказал. Нет | verbatim |
+| 3 | Нагиев | Это что такое? | What is this? | #72: Это что такое | verbatim |
+| 4 | Нагиев | Что это такое, я вас спрашиваю? | What is this, I am asking you? | #74: Что это такое, я вас спрашиваю | adapted: adapted |
+| 5 | Сеня | Он в центрифуге носки сушит. | He is drying socks in the centrifuge. | #75: в центрифуге носки сушит | adapted: adapted |
+| 6 | Сеня | Говорит, сохнут быстро. | He says they dry fast. | #76: Говорит, сохнут быстро | verbatim |
+| 7 | Нагиев | Витя, я тебя просил найти человека! | Vitya, I asked you to find a person! | #80: Витя, я тебя когда еще просил найти человека | adapted: adapted |
+| 8 | Шеф | В Москве нет специалиста. | There is no specialist in Moscow. | #82: В Москве нет специалиста | adapted: adapted |
+| 9 | Шеф | Мы искали, но никто не подошел. | We looked, but nobody suited us. | #83: Мы искали, но никто не подошел | verbatim |
+| 10 | Шеф | У меня к вам ещё один вопрос. | I have one more question for you. | #85: у меня к вам еще один вопрос | adapted: adapted |
+| 11 | Шеф | Плохо. А вы подавали такие надежды. | Too bad. And you showed such promise. | #87: Плохо. А вы подавали такие надежды | adapted: adapted |
+| 12 | Шеф | Нужно сделать только одно. | You only need to do one thing. | #88: нужно сделать только одно | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kristina, no new car.' Spoken Russian keeps this brisk, leaning on 'Kristina' and finishing on 'cars'.
-- 'I told you in plain Russian. No.' The '-l' ending on the verb meaning 'said' places the action in the masculine past tense.
-- 'What is this?' Dmitry Nagiyev brings out the contrast between 'this' and 'what' in a few short words.
-- 'What is this, I am asking you?' Dmitry Nagiyev chooses the respectful plural 'you' alongside 'am asking' to keep a polite distance.
-- 'He is drying socks in the centrifuge.' Senya anchors the line on 'he', while 'dries' completes the thought.
-- 'He says they dry fast.' The grammar packs 'to speak' and 'quickly' into a tight, idiomatic kitchen exchange.
-- 'Vitya, I asked you to find a person!' Notice how Russian expresses 'Vitya' and 'person' with crisp inflection rather than helper words.
-- 'There is no specialist in Moscow.' In Russian, the idea of 'Moscow' flows naturally into 'specialist' without extra filler words.
-- 'We looked, but nobody suited us.' Chef Barinov anchors the line on 'we', while 'suited' completes the thought.
-- 'I have one more question for you.' Chef Barinov chooses the respectful plural 'you' alongside 'question' to keep a polite distance.
-- 'Too bad. And you showed such promise.' The meaning hinges on 'badly' working together with 'hopes' in spoken Russian.
-- 'You only need to do one thing.' Chef Barinov brings out the contrast between 'needed' and 'to do' in a few short words.
+- 'Kristina, no new car.' With the work and argument in play, Nagiyev keeps this short reply brisk and direct.
+- 'I told you in plain Russian. No.' Once he told Barinov in plain Russian, Nagiyev can finally tell Barinov what he means. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'What is this?' Over the kitchen and the argument, Nagiyev presses Barinov for a straight answer.
+- 'What is this, I am asking you?' Here wondering what this he is asking Barinov is shows Nagiyev looking for the real truth. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
+- 'He is drying socks in the centrifuge.' Explaining that he is drying socks in the centrifuge lays the cards on the table for Barinov.
+- 'He says they dry fast.' Mentioning that he says they dry fast moves the talk in a new direction.
+- 'Vitya, I asked you to find a person!' Declaring that he asked Barinov to find a person brings Nagiyev's temper right to the surface. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'There is no specialist in Moscow.' Because there is no specialist in Moscow, Barinov treats the matter as settled.
+- 'We looked, but nobody suited us.' Explaining that they looked but nobody suited them lays the cards on the table for Nagiyev.
+- 'I have one more question for you.' Having one more question for Nagiyev is how Barinov lays out the situation for Nagiyev. Russian expresses having something as "by me is", keeping the phrase short and grounded.
+- 'Too bad. And you showed such promise.' Claiming that and Nagiyev showed such promise sounds confident, even if Nagiyev has doubts. Notice how he sticks to the formal "you", keeping a professional line between them.
+- 'You only need to do one thing.' Pointing out that Nagiyev only need to do one thing gives Nagiyev a sobering reality check.

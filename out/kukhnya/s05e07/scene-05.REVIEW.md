@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Шеф | Во-первых, между нами ничего не было. | First of all, there was nothing between us. | #74 00:04:53: Во-первых, между нами ничего не было | adapted: adapted |
-| 2 | Шеф | Во-вторых, мне нужен повар. | Second of all, I need a cook. | #75 00:04:57: Во-вторых, мне нужен повар | adapted: adapted |
-| 3 | Шеф | В-третьих, у меня отличное настроение. | Third of all, I am in a great mood. | #76 00:05:01: В-третьих, у меня отличное настроение | adapted: adapted |
-| 4 | Шеф | Короче, он будет здесь работать. | In short, he will work here. | #78 00:05:06: Короче, он будет здесь работать | adapted: adapted |
-| 5 | Вика | Шеф, а что вы такой радостный? | Chef, why are you so cheerful? | #80 00:05:14: Шеф, а что это | adapted: adapted |
-| 6 | Шеф | Я победил, наказал одного олигарха в покер. | I won, I beat an oligarch at poker. | #83 00:05:22: Я победил<br>#84 00:05:23: Наказал одного олигарха в покер | adapted: adapted |
-| 7 | Вика | Шеф, и много вы выиграли? | Chef, and did you win a lot? | #85 00:05:26: Шеф, и много вы выиграли | adapted: adapted |
-| 8 | Шеф | А вот и мой выигрыш. | And here are my winnings. | #88 00:05:34: А вот и мой выигрыш | adapted: adapted |
-| 9 | Шеф | Говядина в коробках, свинина в тушах, забирайте. | Beef in boxes, pork in carcasses, take them. | #90 00:05:40: Говядина в коробках, свинина в тушах<br>#89 00:05:38: Забирайте | adapted: adapted |
-| 10 | Шеф | Не понял, а деньги где? | I do not understand, where is the money? | #91 00:05:44: Не понял. Деньги где | adapted: adapted |
-| 11 | Шеф | С деньгами сейчас туго, забирайте. | Money is tight right now, take the meat. | #92 00:05:46: сейчас туго<br>#93 00:05:49: Забирайте | adapted: adapted |
-| 12 | Вика | Шеф, да вы теперь мясной король. | Chef, you really are the meat king now. | #95 00:05:55: Шеф, да вы теперь мясной король | adapted: adapted |
+| 1 | Шеф | Во-первых, между нами ничего не было. | First of all, there was nothing between us. | #74: Во-первых, между нами ничего не было | adapted: adapted |
+| 2 | Шеф | Во-вторых, мне нужен повар. | Second of all, I need a cook. | #75: Во-вторых, мне нужен повар | adapted: adapted |
+| 3 | Шеф | В-третьих, у меня отличное настроение. | Third of all, I am in a great mood. | #76: В-третьих, у меня отличное настроение | adapted: adapted |
+| 4 | Шеф | Короче, он будет здесь работать. | In short, he will work here. | #78: Короче, он будет здесь работать | adapted: adapted |
+| 5 | Вика | Шеф, а что вы такой радостный? | Chef, why are you so cheerful? | #80: Шеф, а что это | adapted: adapted |
+| 6 | Шеф | Я победил, наказал одного олигарха в покер. | I won, I beat an oligarch at poker. | #83: Я победил<br>#84: Наказал одного олигарха в покер | adapted: adapted |
+| 7 | Вика | Шеф, и много вы выиграли? | Chef, and did you win a lot? | #85: Шеф, и много вы выиграли | adapted: adapted |
+| 8 | Шеф | А вот и мой выигрыш. | And here are my winnings. | #88: А вот и мой выигрыш | adapted: adapted |
+| 9 | Гость | Говядина в коробках, свинина в тушах, забирайте. | Beef in boxes, pork in carcasses, take them. | #90: Говядина в коробках, свинина в тушах<br>#89: Забирайте | adapted: adapted |
+| 10 | Шеф | Не понял, а деньги где? | I do not understand, where is the money? | #91: Не понял. Деньги где | adapted: adapted |
+| 11 | Гость | С деньгами сейчас туго, забирайте. | Money is tight right now, take the meat. | #92: сейчас туго<br>#93: Забирайте | adapted: adapted |
+| 12 | Вика | Шеф, да вы теперь мясной король. | Chef, you really are the meat king now. | #95: Шеф, да вы теперь мясной король | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'First of all, there was nothing between us.' The meaning hinges on 'first of all' working together with 'was' in spoken Russian.
-- 'Second of all, I need a cook.' Notice how Russian expresses 'second' and 'cook' with crisp inflection rather than helper words.
-- 'Third of all, I am in a great mood.' Chef Barinov brings out the contrast between 'thirdly' and 'at' in a few short words.
-- 'In short, he will work here.' Chef Barinov brings out the contrast between 'long story short' and 'he' in a few short words.
-- 'Chef, why are you so cheerful?' The meaning hinges on 'Chef Barinov' working together with 'joyful' in spoken Russian. Chef Barinov answers right away.
-- 'I won, I beat an oligarch at poker.' The '-l' ending on the verb meaning 'won' places the action in the masculine past tense.
-- 'Chef, and did you win a lot?' Notice how Russian expresses 'Chef Barinov' and 'won' with crisp inflection rather than helper words.
-- 'And here are my winnings.' In Russian, the idea of 'and' flows naturally into 'winnings' without extra filler words. the guest answers right away.
-- 'Beef in boxes, pork in carcasses, take them.' Spoken Russian keeps this brisk, leaning on 'beef' and finishing on 'take'.
-- 'I do not understand, where is the money?' The grammar packs 'not' and 'where' into a tight, idiomatic kitchen exchange.
-- 'Money is tight right now, take the meat.' Here the Russian phrasing highlights 'with' before landing on 'take'. Vika answers right away.
-- 'Chef, you really are the meat king now.' Vika brings out the contrast between 'Chef Barinov' and 'yes' in a few short words.
+- 'First of all, there was nothing between us.' Barinov tells the guest that first of all there was nothing between them without dressing it up. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
+- 'Second of all, I need a cook.' Since second of all he needs a cook, Barinov does not waste words on excuses.
+- 'Third of all, I am in a great mood.' Mentioning that third of all he is in a great mood moves the talk in a new direction.
+- 'In short, he will work here.' Barinov reminds the guest that in short he will work here before the moment passes.
+- 'Chef, why are you so cheerful?' Asking why Barinov so cheerful is is how Vika puts Barinov on the spot. Notice how she sticks to the formal "you", keeping a professional line between them.
+- 'I won, I beat an oligarch at poker.' Explaining that he won he beats an oligarch at poker lays the cards on the table for the guest.
+- 'Chef, and did you win a lot?' By checking whether Barinov wins a lot, Vika presses Barinov for a straight answer. Notice how she sticks to the formal "you", keeping a professional line between them.
+- 'And here are my winnings.' Claiming that here are his winnings sounds confident, even if the guest has doubts.
+- 'Beef in boxes, pork in carcasses, take them.' Around the conversation and meat, the guest sets a calm, everyday tone with Barinov.
+- 'I do not understand, where is the money?' Over the room and the meat, Barinov presses the guest for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Money is tight right now, take the meat.' Realizing that money is tight right now take the meat changes how the guest handles the situation.
+- 'Chef, you really are the meat king now.' Noting that Barinov really are the meat king now keeps Vika's side of the story simple and clear.

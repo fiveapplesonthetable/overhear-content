@@ -4,31 +4,30 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 18
 SCENE = 15
-TITLE = "Ошибочная бутылка  (The Wrong Bottle)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Ошибочная бутылка  (The Wrong Bottle)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "anya": "alisa", "chef": "anja"}
-LABELS = {"anya": "Макс", "chef": "Шеф"}
+LABELS = {'barinov': 'Шеф', 'kostya': 'Костя', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.18'
 SOURCE_FILE = 'sources/kukhnya/s01/e18.ru.dual.srt'
 INTRO = 'Max discovers Senya was poisoned by their fake cognac. Viktor asks Kostya for a bottle of cognac and accidentally takes the fake one. Let us listen to their conversation in Russian first.'
 OPENER = 'Now let us examine the conversation line by line.'
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Max discovers Senya was poisoned by their fake cognac. Viktor asks Kostya for a bottle of cognac and accidentally takes the fake one. Next time you watch the episode, listen for the Russian expressions for 'just' and 'horror' — you will catch every word right away. See you next time!"
-CLOSING = ("anya", "Пока!")
+CLOSING = ('max', 'Пока!')
 STORY = [
-    ('anya', 'Костя, это просто ужас!', 'Kostya, this is just a nightmare!', [(285, 'просто')], ''),
-    ('anya', 'Сеня отравился нашим коньяком.', 'Senya got poisoned by our cognac.', [(281, 'что Сеня отравился этим коньяком.')], ''),
-    ('chef', 'О нет, что делать?', 'Oh no, what to do?', [], ''),
-    ('chef', 'Костя, дай мне бутылку коньяка.', 'Kostya, give me a bottle of cognac.', [(289, 'мне')], ''),
-    ('chef', 'Ту, которая стоит справа.', 'The one that stands on the right.', [], ''),
-    ('chef', 'Вот эту бутылку?', 'This bottle right here?', [(282, 'вот')], ''),
-    ('chef', 'Нет, дай мне другую. Да, эту.', 'No, give me another one. Yes, this one.', [(289, 'мне'), (289, 'мне')], ''),
-    ('anya', 'Шеф забрал наш коньяк!', 'Chef took our cognac!', [], ''),
-    ('anya', 'Надо забрать эту бутылку назад.', 'We need to take this bottle back.', [(291, 'Надо забрать бутылку, Костян.')], ''),
-    ('chef', 'Я не могу к нему подойти.', 'I can not approach him.', [(293, 'Я же не могу к ней подойти.')], ''),
-    ('anya', 'Давай, Костя, ты должен.', 'Come on, Kostya, you must.', [(294, 'Давай, Костян, давай, дружок.')], ''),
-    ('anya', 'Понятно, давай дальше.', "Got it, let's move on.", [], ''),
+    ('max', 'Костя, это просто ужас!', 'Kostya, this is just a nightmare!', [(285, 'просто')], ''),
+    ('max', 'Сеня отравился нашим коньяком.', 'Senya got poisoned by our cognac.', [(281, 'что Сеня отравился этим коньяком.')], ''),
+    ('kostya', 'О нет, что делать?', 'Oh no, what to do?', [], ''),
+    ('barinov', 'Костя, дай мне бутылку коньяка.', 'Kostya, give me a bottle of cognac.', [(289, 'мне')], ''),
+    ('barinov', 'Ту, которая стоит справа.', 'The one that stands on the right.', [], ''),
+    ('kostya', 'Вот эту бутылку?', 'This bottle right here?', [(282, 'вот')], ''),
+    ('barinov', 'Нет, дай мне другую. Да, эту.', 'No, give me another one. Yes, this one.', [(289, 'мне'), (289, 'мне')], ''),
+    ('max', 'Шеф забрал наш коньяк!', 'Chef took our cognac!', [], ''),
+    ('max', 'Надо забрать эту бутылку назад.', 'We need to take this bottle back.', [(291, 'Надо забрать бутылку, Костян.')], ''),
+    ('kostya', 'Я не могу к нему подойти.', 'I can not approach him.', [(293, 'Я же не могу к ней подойти.')], ''),
+    ('max', 'Давай, Костя, ты должен.', 'Come on, Kostya, you must.', [(294, 'Давай, Костян, давай, дружок.')], ''),
+    ('max', 'Понятно, давай дальше.', "Got it, let's move on.", [], ''),
 ]
 WALK = [
     (0, None, "'Kostya, this is just a nightmare!' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'Kostya' straight to 'horror'."),

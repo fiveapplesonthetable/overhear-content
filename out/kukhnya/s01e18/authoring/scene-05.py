@@ -4,31 +4,30 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 18
 SCENE = 5
-TITLE = "Заказ у стойки  (Order at the Bar)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Заказ у стойки  (Order at the Bar)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "kostya": "anja", "anya": "alisa"}
-LABELS = {"kostya": "Костя", "anya": "Макс"}
+LABELS = {'kostya': 'Костя', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.18'
 SOURCE_FILE = 'sources/kukhnya/s01/e18.ru.dual.srt'
 INTRO = 'At the bar of restaurant Claude Monet, Kostya serves a customer a beverage with polite service. Max stops by the bar to chat about working with customers and serving drinks. Let us listen to their conversation in Russian first.'
 OPENER = "Now let us examine Kostya and Max's conversation at the bar line by line."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Dedicated to honest service, Kostya continues mixing and pouring drinks at the bar while Max prepares to observe the evening crowd. Next time you watch the episode, listen for the Russian expressions for 'tasty' and 'drink' — you will catch every word right away. See you next time!"
-CLOSING = ("kostya", "Пока!")
+CLOSING = ('kostya', 'Пока!')
 STORY = [
     ('kostya', 'Пожалуйста, вот ваш вкусный напиток.', 'Here you go, here is your delicious drink.', [(133, 'Пожалуйста.')], ''),
-    ('anya', 'Костя, ты отлично работаешь за этой стойкой.', 'Kostya, you work excellently behind this bar.', [], ''),
+    ('max', 'Костя, ты отлично работаешь за этой стойкой.', 'Kostya, you work excellently behind this bar.', [], ''),
     ('kostya', 'Спасибо, я стараюсь быть очень вежливым.', 'Thank you, I try to be very polite.', [], ''),
-    ('anya', 'Гости всегда любят свежие и вкусные напитки.', 'Guests always love fresh and delicious drinks.', [], ''),
+    ('max', 'Гости всегда любят свежие и вкусные напитки.', 'Guests always love fresh and delicious drinks.', [], ''),
     ('kostya', 'Наш бар предлагает самые лучшие дорогие напитки.', 'Our bar offers the very best expensive drinks.', [], ''),
-    ('anya', 'Люди в зале готовы платить любые деньги.', 'People in the dining room are ready to pay any money.', [], ''),
+    ('max', 'Люди в зале готовы платить любые деньги.', 'People in the dining room are ready to pay any money.', [], ''),
     ('kostya', 'Главное — всегда честно делать свою работу.', 'The main thing is always to do your work honestly.', [], ''),
-    ('anya', 'Но некоторые бармены знают хитрые секреты.', 'However, some barmen know clever secrets.', [], ''),
+    ('max', 'Но некоторые бармены знают хитрые секреты.', 'However, some barmen know clever secrets.', [], ''),
     ('kostya', 'Я не хочу обманывать наших гостей.', 'I do not want to deceive our guests.', [], ''),
-    ('anya', 'Ты просто слишком честный и добрый парень.', 'You are simply too honest and kind a guy.', [], ''),
+    ('max', 'Ты просто слишком честный и добрый парень.', 'You are simply too honest and kind a guy.', [], ''),
     ('kostya', 'Зато моя совесть абсолютно чиста сегодня.', 'On the other hand, my conscience is absolutely clean today.', [], ''),
-    ('anya', 'Ладно, продолжай наливать сок и вино.', 'All right, keep pouring juice and wine.', [], ''),
+    ('max', 'Ладно, продолжай наливать сок и вино.', 'All right, keep pouring juice and wine.', [], ''),
     ('kostya', 'Я с радостью налью гостям сок!', 'I will gladly pour juice for the guests!', [], ''),
 ]
 WALK = [

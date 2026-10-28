@@ -1,31 +1,43 @@
-# Review: `dix-pour-cent-s03e04-scene-15` — Tournage interrompu  (Shoot Suspended)
+# dix-pour-cent-s03e04-scene-15: review sheet
 
-- **Source**: `sources/dix-pour-cent/s03/e04.fr.dual.srt`
-- **Level**: A1 — débutant
-- **Voices**: `{"narrator": "sky", "isabelle": "emilie", "cedric": "marcel", "gabriel": "theo"}`
-- **Labels**: `{"isabelle": "Isabelle", "cedric": "Cédric", "gabriel": "Gabriel"}`
+Title: Tournage interrompu  (Shoot Suspended)
+Level: A1 — débutant
+Pair: fr-en
+Source: Dix pour cent (Call My Agent!) S03E04
 
-## Part 1 — Intro
-> On the French film set, director Cedric Kahn frantically searches for his missing lead actress Isabelle Huppert. After Gabriel stalls the frustrated director, Isabelle reappears with an ingenious excuse, having successfully shut down the rival American production. Listen to the scene in French first.
 
-## Part 2 — Story Lines
-| # | Role | French | English | Source Cues |
-|---|------|--------|---------|-------------|
-| 0 | `cedric` (Cédric) | Isabelle n'est pas dans sa loge? | Is Isabelle not in her dressing room? | 843:Elle n'est pas là |
-| 1 | `gabriel` (Gabriel) | Je sais, on attend son retour. | I know, we are waiting for her return. | 844:Je sais, 845:On attend |
-| 2 | `cedric` (Cédric) | C'est sa dernière scène ce soir! | It is her last scene tonight! | 847:C'est sa dernière scène |
-| 3 | `cedric` (Cédric) | Isabelle, où étais-tu passée? | Isabelle, where had you gone? | 854:T'étais où |
-| 4 | `isabelle` (Isabelle) | J'étais à la pharmacie de garde. | I was at the late-night pharmacy. | 857:pharmacie de garde |
-| 5 | `isabelle` (Isabelle) | Je voulais être discrète pour vous. | I wanted to be discreet for you. | 858:Je voulais rester discrète |
-| 6 | `cedric` (Cédric) | On t'attend sur le décor maintenant. | We are waiting for you on set now. | 863:on t'attend sur le décor |
-| 7 | `isabelle` (Isabelle) | D'accord, j'arrive tout de suite. | Alright, I am coming right away. | 864:À tout de suite |
-| 8 | `gabriel` (Gabriel) | Comment as-tu fait pour partir? | How did you manage to get away? | 865:comment t'as fait |
-| 9 | `isabelle` (Isabelle) | Tout a dégénéré avec Ben Stiller. | Everything fell apart with Ben Stiller. | 866:dégénéré entre le metteur en scène et Ben Stiller |
-| 10 | `isabelle` (Isabelle) | Ils ont commencé à se disputer. | They started arguing with each other. | 867:venue aux mains |
-| 11 | `isabelle` (Isabelle) | Le tournage américain est interrompu. | The American shoot is suspended. | 869:tournage interrompu |
-| 12 | `isabelle` (Isabelle) | C'est vraiment génial, non? | That is truly genius, isn | 870:C'est cool, non |
-| 13 | `gabriel` (Gabriel) | Tu es incroyable, Isabelle! | You are incredible, Isabelle! | 870:C'est cool |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 5 — Outro & Closing
-> With lightning-fast improvisation and daring cunning, Isabelle Huppert pulls off the impossible double booking. When you watch the episode, listen out for the expressions meaning 'is not' and 'dressing room'. You'll catch them now. See you next time!
-- **Closing**: `isabelle`: *À demain!*
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+|---|---|---|---|---|---|
+| 1 | Cédric | Isabelle n'est pas dans sa loge? | Is Isabelle not in her dressing room? | #843: Elle n'est pas là | verbatim |
+| 2 | Gabriel | Je sais, on attend son retour. | I know, we are waiting for her return. | #844: Je sais<br>#845: On attend | verbatim |
+| 3 | Cédric | C'est sa dernière scène ce soir! | It is her last scene tonight! | #847: C'est sa dernière scène | verbatim |
+| 4 | Cédric | Isabelle, où étais-tu passée? | Isabelle, where had you gone? | #854: T'étais où | verbatim |
+| 5 | Isabelle | J'étais à la pharmacie de garde. | I was at the late-night pharmacy. | #857: pharmacie de garde | verbatim |
+| 6 | Isabelle | Je voulais être discrète pour vous. | I wanted to be discreet for you. | #858: Je voulais rester discrète | verbatim |
+| 7 | Cédric | On t'attend sur le décor maintenant. | We are waiting for you on set now. | #863: on t'attend sur le décor | verbatim |
+| 8 | Isabelle | D'accord, j'arrive tout de suite. | Alright, I am coming right away. | #864: À tout de suite | verbatim |
+| 9 | Gabriel | Comment as-tu fait pour partir? | How did you manage to get away? | #865: comment t'as fait | verbatim |
+| 10 | Isabelle | Tout a dégénéré avec Ben Stiller. | Everything fell apart with Ben Stiller. | #866: dégénéré entre le metteur en scène et Ben Stiller | verbatim |
+| 11 | Isabelle | Ils ont commencé à se disputer. | They started arguing with each other. | #867: venue aux mains | verbatim |
+| 12 | Isabelle | Le tournage américain est interrompu. | The American shoot is suspended. | #869: tournage interrompu | verbatim |
+| 13 | Isabelle | C'est vraiment génial, non? | That is truly genius, isn | #870: C'est cool, non | verbatim |
+| 14 | Gabriel | Tu es incroyable, Isabelle! | You are incredible, Isabelle! | #870: C'est cool | verbatim |
+
+## Walk-through narration (English only, no target-language words quoted)
+
+- 'Is Isabelle not in her dressing room?' Cedric worries about his missing lead actress. Notice how 'is not' leads directly into the noun meaning 'dressing room'.
+- 'I know, we are waiting for her return.' Gabriel stalls the director diplomatically. The verb meaning 'know' pairs naturally with the noun for 'return' in everyday conversation.
+- 'It is her last scene tonight!' The director stresses the tight deadline. In spoken French, the little word before 'scene' drops its final vowel and attaches with an apostrophe.
+- 'Isabelle, where had you gone?' Cedric demands an explanation for her absence. This conversational past tense combines a helper verb with the past verb form for 'gone'.
+- 'I was at the late-night pharmacy.' Isabelle offers a clever medical alibi. Notice how 'I was' leads directly into the noun meaning 'chemist'.
+- 'I wanted to be discreet for you.' She feigns embarrassment over health issues. The adjective meaning 'unobtrusive' takes its feminine form here to match the noun it describes.
+- 'We are waiting for you on set now.' Cedric accepts the excuse and heads to set. Notice how 'waits for you' leads directly into the noun meaning 'movie set'.
+- 'Alright, I am coming right away.' Isabelle promises prompt arrival on set. In spoken French, the little word before 'I arrive' drops its final vowel and attaches with an apostrophe.
+- 'How did you manage to get away?' Gabriel marvels at her miraculous escape. The clause hinges on the everyday verb meaning 'did you'.
+- 'Everything fell apart with Ben Stiller.' Isabelle explains the collapse of the American shoot. This conversational past tense combines a helper verb with the past verb form for 'got out of hand'.
+- 'They started arguing with each other.' She details how she provoked creative conflict. The short 'self' word sits right in front of the verb for 'have', turning the action back onto the subject.
+- 'The American shoot is suspended.' Isabelle delivers the triumphant news. This conversational past tense combines a helper verb with the past verb form for 'shut down'.
+- 'That is truly genius, isn't it?' She boasts of her cunning sabotage. The adverb meaning 'truly' gives the reply its conversational emphasis.
+- 'You are incredible, Isabelle!' Gabriel expresses utter astonishment and relief. The descriptive adjective for 'extraordinary' agrees in gender and number with its noun. Now let's hear the whole conversation again.

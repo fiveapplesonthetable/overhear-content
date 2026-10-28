@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Марина | Раньше я верила Эдуарду Валентиновичу. | Earlier I trusted Eduard Valentinovich. | #454 00:26:32: Вот раньше верила | verbatim |
-| 2 | Марина | А сейчас понимаю, что он меня обманывает. | And now I understand that he is deceiving me. | #454 00:26:32: а сейчас понимаю | verbatim |
-| 3 | Аня | Значит, у меня теперь есть шанс? | So that means I have a chance now? | #455 00:26:35: так значит у меня есть шанс | verbatim |
-| 4 | Марина | Ну, в целом вы мне симпатичны. | Well, on the whole I find you likable. | #457 00:26:41: в целом вы мне симпатичны | verbatim |
-| 5 | Аня | Так в чём же тогда дело? | So what is the problem then? | #458 00:26:42: Так в чем же дело | verbatim |
-| 6 | Марина | Я вас ещё очень плохо знаю. | I still know you very poorly. | #459 00:26:45: Я вас плохо знаю | verbatim |
-| 7 | Аня | Вот я сижу прямо перед вами. | Here I am, sitting right in front of you. | #460 00:26:46: я сижу перед вами | verbatim |
-| 8 | Аня | Спрашивайте обо всём, я честно отвечу. | Ask about anything, I will answer honestly. | #461 00:26:48: Спрашивайте, что хотите, я все отвечу | verbatim |
-| 9 | Марина | Прямо обо всём, о чём угодно? | About absolutely anything at all? | #462 00:26:50: Прям все, что угодно | verbatim |
-| 10 | Аня | Да, абсолютно обо всём на свете. | Yes, about absolutely everything in the world. | #463 00:26:51: Все, что угодно | verbatim |
-| 11 | Марина | Но только вам нельзя меня обманывать. | Only you must not deceive me. | #464 00:26:53: Но только обманывать нельзя | verbatim |
-| 12 | Аня | Бывшему чиновнику это сделать очень тяжело. | For a former official, that is very hard to do. | #465 00:26:56: Конечно, чиновнику это очень тяжело сделать | verbatim |
-| 13 | Аня | Но я обязательно попробую не врать. | But I will definitely try not to lie. | #466 00:27:00: Но я попробую | verbatim |
+| 1 | Марина | Раньше я верила Эдуарду Валентиновичу. | Earlier I trusted Eduard Valentinovich. | #454: Вот раньше верила | verbatim |
+| 2 | Марина | А сейчас понимаю, что он меня обманывает. | And now I understand that he is deceiving me. | #454: а сейчас понимаю | verbatim |
+| 3 | Аркадий | Значит, у меня теперь есть шанс? | So that means I have a chance now? | #455: так значит у меня есть шанс | verbatim |
+| 4 | Марина | Ну, в целом вы мне симпатичны. | Well, on the whole I find you likable. | #457: в целом вы мне симпатичны | verbatim |
+| 5 | Аркадий | Так в чём же тогда дело? | So what is the problem then? | #458: Так в чем же дело | verbatim |
+| 6 | Марина | Я вас ещё очень плохо знаю. | I still know you very poorly. | #459: Я вас плохо знаю | verbatim |
+| 7 | Аркадий | Вот я сижу прямо перед вами. | Here I am, sitting right in front of you. | #460: я сижу перед вами | verbatim |
+| 8 | Аркадий | Спрашивайте обо всём, я честно отвечу. | Ask about anything, I will answer honestly. | #461: Спрашивайте, что хотите, я все отвечу | verbatim |
+| 9 | Марина | Прямо обо всём, о чём угодно? | About absolutely anything at all? | #462: Прям все, что угодно | verbatim |
+| 10 | Аркадий | Да, абсолютно обо всём на свете. | Yes, about absolutely everything in the world. | #463: Все, что угодно | verbatim |
+| 11 | Марина | Но только вам нельзя меня обманывать. | Only you must not deceive me. | #464: Но только обманывать нельзя | verbatim |
+| 12 | Аркадий | Бывшему чиновнику это сделать очень тяжело. | For a former official, that is very hard to do. | #465: Конечно, чиновнику это очень тяжело сделать | verbatim |
+| 13 | Аркадий | Но я обязательно попробую не врать. | But I will definitely try not to lie. | #466: Но я попробую | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

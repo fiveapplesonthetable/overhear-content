@@ -4,31 +4,30 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 20
 SCENE = 20
-TITLE = "Утро  (Morning)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Утро  (Morning)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "elena": "angelina", "anya": "alisa"}
-LABELS = {"elena": "Елена", "anya": "Макс"}
+LABELS = {'elena': 'Елена', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.20'
 SOURCE_FILE = 'sources/kukhnya/s01/e20.ru.dual.srt'
 INTRO = 'This is the final episode of the first season of Kukhnya, and everything is about to change. Elena comes to the apartment where Max and the Chef live early in the morning.'
 OPENER = "Now let's go back through the conversation line by line."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Elena comes to the apartment where Max and the Chef live early in the morning. Next time you watch the episode, listen for the Russian expressions for 'kind' and 'morning' — you will catch every word right away. See you next time!"
-CLOSING = ("elena", "До свидания!")
+CLOSING = ('elena', 'До свидания!')
 STORY = [
     ('elena', 'Здрасте.', 'Hello.', [(330, 'Здрасте')], ''),
     ('elena', 'Доброе утро.', 'Good morning.', [(330, 'Доброе утро')], ''),
     ('elena', 'Это Макс?', 'Is this Max?', [], ''),
-    ('anya', 'Да, это я.', 'Yes, it is me.', [], ''),
+    ('max', 'Да, это я.', 'Yes, it is me.', [], ''),
     ('elena', 'Я ищу его.', 'I am looking for him.', [], ''),
     ('elena', 'Дома не могу ему дозвониться.', "At home I can't reach him.", [(331, 'дома не могу ему дозвониться')], ''),
     ('elena', 'Где он?', 'Where is he?', [], ''),
-    ('anya', 'Я не знаю.', "I don't know.", [(332, 'Не знаю')], ''),
-    ('anya', 'Наверное, ключи висят.', 'Probably, the keys are hanging.', [(332, 'Наверное, ключи висят')], ''),
-    ('anya', 'Значит, он дома.', 'So, he is home.', [(332, 'значит, дома')], ''),
-    ('anya', 'Вы хотите войти?', 'Do you want to come in?', [], ''),
-    ('anya', 'Проходите.', 'Come in.', [(333, 'Проходите')], ''),
+    ('max', 'Я не знаю.', "I don't know.", [(332, 'Не знаю')], ''),
+    ('max', 'Наверное, ключи висят.', 'Probably, the keys are hanging.', [(332, 'Наверное, ключи висят')], ''),
+    ('max', 'Значит, он дома.', 'So, he is home.', [(332, 'значит, дома')], ''),
+    ('max', 'Вы хотите войти?', 'Do you want to come in?', [], ''),
+    ('max', 'Проходите.', 'Come in.', [(333, 'Проходите')], ''),
 ]
 WALK = [
     (0, None, "'Hello.' Elena delivers a punchy one-word reaction built around the Russian word meaning 'hello'."),

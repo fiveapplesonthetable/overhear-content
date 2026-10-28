@@ -7,29 +7,28 @@ SCENE = 25
 TITLE = 'Payer les Américains  (Paying the Americans)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'hicham': 'marcel', 'lea': 'lucie'}
-LABELS = {'hicham': 'Hicham', 'lea': 'Andréa'}
+LABELS = {'andrea': 'Andréa', 'hicham': 'Hicham'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e05.fr.dual.srt'
 INTRO = "At the bar table, Hicham reveals his decision to pay the American insurance claim using his own capital to save ASK. Deeply moved, Andrea realizes she must immediately cancel her secret legal registration for the rival agency. Let's listen to the scene in French first."
 OPENER = "Let's break down the dialogue line by line."
 TRANSITION = "Now let's listen to the entire dialogue once more."
 OUTRO = "As Hicham pledges his own fortune to rescue the agency, Andrea rushes outside to call off her secret legal plans. When you watch the episode, listen out for the expressions meaning 'do you know' and 'story'. You'll catch them now. See you next time!"
-CLOSING = ('lea', 'Bonne soirée!')
+CLOSING = ('andrea', 'Bonne soirée!')
 STORY = [
     ('hicham', "Connais-tu l'histoire légendaire de Miles Davis?", 'Do you know the legendary story of Miles Davis?', [(1026, "C'est mythique"), (1027, 'Miles Davis')], ''),
-    ('lea', "Il composait en direct devant l'écran.", 'He composed live in front of the screen.', [(1028, "devant l'écran"), (1030, 'improvisé dessus')], ''),
+    ('andrea', "Il composait en direct devant l'écran.", 'He composed live in front of the screen.', [(1028, "devant l'écran"), (1030, 'improvisé dessus')], ''),
     ('hicham', 'Je crois que je vais payer les Américains.', 'I think that I will pay the Americans.', [(1032, 'payer, les Américains')], ''),
-    ('lea', "Que viens-tu de dire à l'instant?", 'What did you just say right now?', [(1033, "Qu'est-ce que tu dis")], ''),
+    ('andrea', "Que viens-tu de dire à l'instant?", 'What did you just say right now?', [(1033, "Qu'est-ce que tu dis")], ''),
     ('hicham', "J'ai longuement réfléchi à la situation.", 'I thought at length about the situation.', [(1034, "J'ai réfléchi")], ''),
     ('hicham', 'Je sauverai ASK avec mes propres fonds.', 'I will save ASK with my own funds.', [(1035, 'je le ferai')], ''),
-    ('lea', "C'est une somme absolument colossale, Hicham!", 'That is an absolutely colossal sum, Hicham!', [(1036, 'moins facile que ce que je croyais')], ''),
+    ('andrea', "C'est une somme absolument colossale, Hicham!", 'That is an absolutely colossal sum, Hicham!', [(1036, 'moins facile que ce que je croyais')], ''),
     ('hicham', 'Je me suis sincèrement attaché à cette boîte.', 'I have grown sincerely attached to this firm.', [(1037, 'attaché à cette boîte')], ''),
-    ('lea', "Je suis tellement heureuse d'entendre cela.", 'I am so happy to hear that.', [(1039, 'bien que tu le dises')], ''),
+    ('andrea', "Je suis tellement heureuse d'entendre cela.", 'I am so happy to hear that.', [(1039, 'bien que tu le dises')], ''),
     ('hicham', 'Nous formons une vraie équipe soudée maintenant.', 'We form a real tight team now.', [(1037, 'cette boîte')], ''),
-    ('lea', 'Je dois passer un appel urgent immédiatement.', 'I must make an urgent call immediately.', [(1040, 'appelles Maître Hirsch')], ''),
+    ('andrea', 'Je dois passer un appel urgent immédiatement.', 'I must make an urgent call immediately.', [(1040, 'appelles Maître Hirsch')], ''),
     ('hicham', 'Tu veux téléphoner à cette heure tardive?', 'You want to telephone at this late hour?', [(1042, 'Maintenant')], ''),
-    ('lea', 'Oui, pour stopper un dossier très important.', 'Yes, to stop a very important file.', [(1041, 'avancé sur le dossier')], ''),
+    ('andrea', 'Oui, pour stopper un dossier très important.', 'Yes, to stop a very important file.', [(1041, 'avancé sur le dossier')], ''),
     ('hicham', "Prends ton temps, je règle l'addition.", 'Take your time, I am settling the bill.', [(1044, 'Ok')], ''),
 ]
 WALK = [

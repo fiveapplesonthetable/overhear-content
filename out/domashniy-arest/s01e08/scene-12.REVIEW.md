@@ -10,22 +10,22 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Толя | Марина Сергеевна, я вам искренне сочувствую. | Marina Sergeyevna, I sincerely sympathize with you. | #159 00:10:11: Марина Сергеевна, сочувствую | verbatim |
-| 2 | Марина | Так вы поможете мне или нет? | So will you help me or not? | #162 00:10:21: Так вы мне поможете или нет | verbatim |
-| 3 | Толя | У нас есть связи в надзоре. | We have connections in the oversight committee. | #164 00:10:26: У нас есть выходы на меднадзорав | adapted: ASR 'меднадзорав' normalized |
-| 4 | Толя | Но всё зависит только от вас. | But everything depends only on you. | #165 00:10:29: но все зависит от вас | verbatim |
-| 5 | Марина | Что я должна для этого сделать? | What must I do for that? | #166 00:10:32: Что я должна сделать | verbatim |
-| 6 | Толя | Аркадий Борисович испытывает к вам чувства. | Arkady Borisovich has feelings for you. | #168 00:10:38: Аркадий Борисович<br>#169 00:10:39: Испытывает к вам чувства | verbatim |
-| 7 | Марина | Каким образом мы можем это использовать? | How can we use that? | #174 00:10:49: мы могли бы это использовать<br>#175 00:10:54: Каким это образом | verbatim |
-| 8 | Толя | Отнеситесь к нему с женским состраданием. | Treat him with womanly compassion. | #176 00:10:58: Отнеситесь к нему состраданием | verbatim |
-| 9 | Марина | Я вас совершенно не понимаю. | I don't understand you at all. | #177 00:11:02: Не понимаю | verbatim |
-| 10 | Марина | Вам нужно просто быть ближе к нему! | You just need to get closer to him! | #179 00:11:07: да и все | adapted: crude suggestion cleaned for A1 |
-| 11 | Толя | Лейтенант Соколов, замолчите! | Lieutenant Sokolov, be quiet! | #180 00:11:09: Лейтенант Соколов | verbatim |
-| 12 | Толя | То есть вы отказываетесь? | So you are refusing? | #187 00:11:29: То есть вы отказываетесь | verbatim |
-| 13 | Марина | Да, я отказываюсь! | Yes, I refuse! | #188 00:11:31: Да | verbatim |
-| 14 | Толя | Пустяк важнее здоровья вашего сына? | Is a trifle more important than your son's health? | #190 00:11:34: здоровье собственного сына | verbatim |
-| 15 | Толя | Не хотите — как хотите. | If you don't want to, suit yourself. | #189 00:11:32: не хотите, как хотите | verbatim |
-| 16 | Марина | Вы просто бессовестные люди! | You are simply shameless people! | #191 00:11:39: Сволочи | adapted: insult cleaned for A1 |
+| 1 | Лавров | Марина Сергеевна, я вам искренне сочувствую. | Marina Sergeyevna, I sincerely sympathize with you. | #159: Марина Сергеевна, сочувствую | verbatim |
+| 2 | Марина | Так вы поможете мне или нет? | So will you help me or not? | #162: Так вы мне поможете или нет | verbatim |
+| 3 | Лавров | У нас есть связи в надзоре. | We have connections in the oversight committee. | #164: У нас есть выходы на меднадзорав | adapted: ASR 'меднадзорав' normalized |
+| 4 | Лавров | Но всё зависит только от вас. | But everything depends only on you. | #165: но все зависит от вас | verbatim |
+| 5 | Марина | Что я должна для этого сделать? | What must I do for that? | #166: Что я должна сделать | verbatim |
+| 6 | Лавров | Аркадий Борисович испытывает к вам чувства. | Arkady Borisovich has feelings for you. | #168: Аркадий Борисович<br>#169: Испытывает к вам чувства | verbatim |
+| 7 | Марина | Каким образом мы можем это использовать? | How can we use that? | #174: мы могли бы это использовать<br>#175: Каким это образом | verbatim |
+| 8 | Лавров | Отнеситесь к нему с женским состраданием. | Treat him with womanly compassion. | #176: Отнеситесь к нему состраданием | verbatim |
+| 9 | Марина | Я вас совершенно не понимаю. | I don't understand you at all. | #177: Не понимаю | verbatim |
+| 10 | Лёва | Вам нужно просто быть ближе к нему! | You just need to get closer to him! | #179: да и все | adapted: crude suggestion cleaned for A1 |
+| 11 | Лавров | Лейтенант Соколов, замолчите! | Lieutenant Sokolov, be quiet! | #180: Лейтенант Соколов | verbatim |
+| 12 | Лавров | То есть вы отказываетесь? | So you are refusing? | #187: То есть вы отказываетесь | verbatim |
+| 13 | Марина | Да, я отказываюсь! | Yes, I refuse! | #188: Да | verbatim |
+| 14 | Лавров | Пустяк важнее здоровья вашего сына? | Is a trifle more important than your son's health? | #190: здоровье собственного сына | verbatim |
+| 15 | Лавров | Не хотите — как хотите. | If you don't want to, suit yourself. | #189: не хотите, как хотите | verbatim |
+| 16 | Марина | Вы просто бессовестные люди! | You are simply shameless people! | #191: Сволочи | adapted: insult cleaned for A1 |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Самсон | Значит, мой дедушка был героем? | So my grandfather was a hero? | #974 01:01:06: Выходит, я не фашист | verbatim |
-| 2 | Ведущий | Да, он был настоящим героем войны. | Yes, he was a real war hero. | #975 01:01:08: Да, выходит | verbatim |
-| 3 | Самсон | Значит, я совсем не предатель! | So I am not a traitor at all! | #974 01:01:06: Выходит, я не фашист | verbatim |
-| 4 | Ведущий | Ты честный русский человек, Иван. | You are an honest Russian man, Ivan. | #975 01:01:08: Да, выходит<br>#981 01:01:29: Похож | verbatim |
-| 5 | Ведущий | Павел Юрьевич, вам больше нечего сказать? | Pavel Yuryevich, do you have nothing more to say? | #979 01:01:19: вам | verbatim |
-| 6 | Ведущий | Рука у тебя крепкая, как у деда. | Your grip is strong, just like your grandfather's. | #980 01:01:24: Рука у тебя крепкая, как у деда | verbatim |
-| 7 | Самсон | Спасибо вам огромное, дядя Митя! | Thank you so very much, Uncle Mitya! | #979 01:01:19: Спасибо вам | verbatim |
-| 8 | Ведущий | Будь здоров и никогда не сдавайся! | Stay well and never give up! | #982 01:01:32: Ну, будь здоров | verbatim |
-| 9 | Ведущий | Иван, посмотрите на этот экран телефона! | Ivan, take a look at this phone screen! | #983 01:01:35: Ой, это что<br>#986 01:01:42: Ну, дай сюда | verbatim |
-| 10 | Самсон | Что там показывают в интернете? | What are they showing on the internet there? | #987 01:01:44: А что такое | verbatim |
-| 11 | Ведущий | Там видео с вашей женой Ниной! | There is a video there with your wife Nina! | #983 01:01:35: это что, мама, что ли | verbatim |
-| 12 | Самсон | Дайте телефон, я хочу посмотреть! | Give me the phone, I want to look! | #986 01:01:42: дай сюда | verbatim |
+| 1 | Самсон | Значит, мой дедушка был героем? | So my grandfather was a hero? | #974: Выходит, я не фашист | verbatim |
+| 2 | Ветеран | Да, он был настоящим героем войны. | Yes, he was a real war hero. | #975: Да, выходит | verbatim |
+| 3 | Самсон | Значит, я совсем не предатель! | So I am not a traitor at all! | #974: Выходит, я не фашист | verbatim |
+| 4 | Ветеран | Ты честный русский человек, Иван. | You are an honest Russian man, Ivan. | #975: Да, выходит<br>#981: Похож | verbatim |
+| 5 | Ведущий | Павел Юрьевич, вам больше нечего сказать? | Pavel Yuryevich, do you have nothing more to say? | #979: вам | verbatim |
+| 6 | Ветеран | Рука у тебя крепкая, как у деда. | Your grip is strong, just like your grandfather's. | #980: Рука у тебя крепкая, как у деда | verbatim |
+| 7 | Самсон | Спасибо вам огромное, дядя Митя! | Thank you so very much, Uncle Mitya! | #979: Спасибо вам | verbatim |
+| 8 | Ветеран | Будь здоров и никогда не сдавайся! | Stay well and never give up! | #982: Ну, будь здоров | verbatim |
+| 9 | Ведущий | Иван, посмотрите на этот экран телефона! | Ivan, take a look at this phone screen! | #983: Ой, это что<br>#986: Ну, дай сюда | verbatim |
+| 10 | Самсон | Что там показывают в интернете? | What are they showing on the internet there? | #987: А что такое | verbatim |
+| 11 | Ведущий | Там видео с вашей женой Ниной! | There is a video there with your wife Nina! | #983: это что, мама, что ли | verbatim |
+| 12 | Самсон | Дайте телефон, я хочу посмотреть! | Give me the phone, I want to look! | #986: дай сюда | verbatim |
 | 13 | Ведущий | Люди в городе аплодируют вашей победе! | People in the town are applauding your victory! | new | new: added studio conclusion |
 
 ## Walk-through narration (English only, no target-language words quoted)

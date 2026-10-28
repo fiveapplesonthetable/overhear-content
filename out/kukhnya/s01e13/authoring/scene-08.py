@@ -5,17 +5,16 @@ SEASON = 1
 EPISODE = 13
 SCENE = 8
 TITLE = "Признание Насти  (Nastya's Confession)"
-LEVEL = "A1 — Duolingo Section 2"
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "nastya": "angelina", "kostya": "anja"}
-LABELS = {"nastya": "Настя", "kostya": "Костя"}
+LABELS = {'kostya': 'Костя', 'nastya': 'Настя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.13'
 SOURCE_FILE = 'sources/kukhnya/s01/e13.ru.dual.srt'
 INTRO = "Nastya feels guilty about accidentally breaking the Chef's car mirror, especially now that he blamed the restaurant owner Eleonora. She pulls Kostya aside to confess, but Kostya has a different priority. We will hear it in Russian first; don't worry about catching every word."
 OPENER = "Now let's go back through the conversation line by line."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "That's it for this scene! Kostya really needs to work on his timing. Next time you watch the episode, listen for the Russian expressions for 'it is necessary' and 'to say' — you will catch every word right away. See you next time!"
-CLOSING = ("nastya", "Пока!")
+CLOSING = ('nastya', 'Пока!')
 STORY = [
     ('nastya', 'Костя, мне надо тебе кое-что сказать.', 'Kostya, I need to tell you something.', [(103, 'надо тебе кое-что сказать')], ''),
     ('nastya', 'Я поступила неправильно.', 'I acted wrongly.', [(104, 'Я поступила неправильно')], ''),

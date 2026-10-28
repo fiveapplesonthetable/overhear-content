@@ -7,31 +7,30 @@ SCENE = 9
 TITLE = 'Le problème du smoking  (The Tuxedo Problem)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'lea': 'lucie', 'juliette': 'emilie'}
-LABELS = {'lea': 'Andréa', 'juliette': 'Juliette'}
+LABELS = {'andrea': 'Andréa', 'juliette': 'Juliette'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e06.fr.dual.srt'
 INTRO = "At a luxury Cannes hotel suite, Andréa arrives with frustrating news for client Juliette Binoche. Another major international star has chosen the exact same tuxedo for the opening red carpet. Let's listen to the scene in French first."
 OPENER = "Let's explore the conversation line by line and unpack the French phrases."
 TRANSITION = "Now let's listen to the entire dialogue once more to lock in what you have learned."
 OUTRO = 'Andréa navigates a classic Cannes red-carpet crisis: when another A-list star wears a tuxedo, Juliette Binoche graciously pivots to her backup dress to ensure an unforgettable festival opening. See you next time!'
-CLOSING = ('lea', 'À demain!')
+CLOSING = ('andrea', 'À demain!')
 STORY = [
-    ('lea', 'Bienvenue à Cannes, Juliette.', 'Welcome to Cannes, Juliette.', [(171, 'Bienvenue à Cannes.')], ''),
+    ('andrea', 'Bienvenue à Cannes, Juliette.', 'Welcome to Cannes, Juliette.', [(171, 'Bienvenue à Cannes.')], ''),
     ('juliette', 'Bonjour Andréa, comment vas-tu?', 'Hello Andréa, how are you?', [(170, 'Bonjour.')], ''),
-    ('lea', 'Nous avons un problème avec le smoking.', 'We have a problem with the tuxedo.', [(173, 'Nous avons un problème avec le smoking.')], ''),
-    ('lea', "L'actrice chinoise Gong Li en porte un pour la cérémonie d'ouverture.", 'The Chinese actress Gong Li is wearing one for the opening ceremony.', [(174, "L'actrice chinoise Gong Li,"), (175, "pour la cérémonie d'ouverture.")], ''),
+    ('andrea', 'Nous avons un problème avec le smoking.', 'We have a problem with the tuxedo.', [(173, 'Nous avons un problème avec le smoking.')], ''),
+    ('andrea', "L'actrice chinoise Gong Li en porte un pour la cérémonie d'ouverture.", 'The Chinese actress Gong Li is wearing one for the opening ceremony.', [(174, "L'actrice chinoise Gong Li,"), (175, "pour la cérémonie d'ouverture.")], ''),
     ('juliette', 'Un Armani aussi?', 'An Armani too?', [(176, 'Un Armani aussi ?')], ''),
-    ('lea', "Non, un autre créateur. Mais c'est quand même un smoking.", 'No, another designer. But it is still a tuxedo.', [(176, 'Non, un autre créateur.'), (177, "Mais c'est quand même un smoking.")], ''),
-    ('lea', 'Deux femmes ne peuvent pas porter la même robe!', 'Two women cannot wear the same dress!', [(178, 'On ne peut pas avoir deux femmes dans la même tenue en même temps.')], ''),
+    ('andrea', "Non, un autre créateur. Mais c'est quand même un smoking.", 'No, another designer. But it is still a tuxedo.', [(176, 'Non, un autre créateur.'), (177, "Mais c'est quand même un smoking.")], ''),
+    ('andrea', 'Deux femmes ne peuvent pas porter la même robe!', 'Two women cannot wear the same dress!', [(178, 'On ne peut pas avoir deux femmes dans la même tenue en même temps.')], ''),
     ('juliette', "Mais tous les hommes peuvent s'habiller pareil!", 'But all the men can dress the same!', [(179, "Mais tous les hommes peuvent s'habiller pareil !")], ''),
     ('juliette', 'Je me sentais très bien dans ce smoking.', 'I felt very good in that tuxedo.', [(182, 'Je me sentais très bien dans ce smoking.')], ''),
-    ('lea', 'Je vais appeler son agent et on en discutera.', 'I will call her agent and we will discuss it.', [(184, "Je vais appeler l'agent de Gong Li et on en discutera.")], ''),
+    ('andrea', 'Je vais appeler son agent et on en discutera.', 'I will call her agent and we will discuss it.', [(184, "Je vais appeler l'agent de Gong Li et on en discutera.")], ''),
     ('juliette', 'Ça ne servira à rien.', 'That will be useless.', [(185, 'Ça ne servira à rien.')], ''),
-    ('lea', "Gong Li est l'icône de L'Oréal, le partenaire principal du festival.", 'Gong Li is the icon of L', [(187, "Gong Li est l'icône de L'Oréal en Chine."), (188, 'Le partenaire principal du festival.')], ''),
-    ('lea', 'Mais nous avons une bonne nouvelle. Votre second choix a été réparé.', 'But we have good news. Your second choice has been repaired.', [(190, 'Mais nous avons une bonne nouvelle.'), (191, 'Votre second choix a été réparé.')], ''),
+    ('andrea', "Gong Li est l'icône de L'Oréal, le partenaire principal du festival.", 'Gong Li is the icon of L', [(187, "Gong Li est l'icône de L'Oréal en Chine."), (188, 'Le partenaire principal du festival.')], ''),
+    ('andrea', 'Mais nous avons une bonne nouvelle. Votre second choix a été réparé.', 'But we have good news. Your second choice has been repaired.', [(190, 'Mais nous avons une bonne nouvelle.'), (191, 'Votre second choix a été réparé.')], ''),
     ('juliette', "Et j'ai besoin de chaussures à talons hauts.", 'And I need high-heeled shoes.', [(192, "Mais c'est toute une production, avec ça."), (193, "Et j'ai besoin de talons de quinze centimètres.")], ''),
-    ('lea', 'On pourrait organiser un nouvel essayage avec trois tenues.', 'We could arrange a new fitting with three outfits.', [(194, 'On pourrait organiser un nouvel essayage avec Dune,'), (195, 'avec seulement trois tenues.')], ''),
+    ('andrea', 'On pourrait organiser un nouvel essayage avec trois tenues.', 'We could arrange a new fitting with three outfits.', [(194, 'On pourrait organiser un nouvel essayage avec Dune,'), (195, 'avec seulement trois tenues.')], ''),
     ('juliette', 'Non, je pense que ça ira très bien.', 'No, I think that will be very fine.', [(197, 'Non, ça ira très bien.'), (198, 'Je pense que ça ira très bien.')], ''),
 ]
 WALK = [

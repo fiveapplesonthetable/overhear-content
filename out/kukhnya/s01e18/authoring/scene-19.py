@@ -4,18 +4,17 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 18
 SCENE = 19
-TITLE = "Экономия на бармене  (Saving on the Bartender)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Экономия на бармене  (Saving on the Bartender)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "nagiyev": "angelina", "kostya": "anja"}
-LABELS = {"nagiyev": "Нагиев", "kostya": "Костя"}
+LABELS = {'kostya': 'Костя', 'nagiyev': 'Нагиев'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.18'
 SOURCE_FILE = 'sources/kukhnya/s01/e18.ru.dual.srt'
 INTRO = "The austerity measures continue across the restaurant. Nagiyev confronts Kostya the bartender to deliver some bad news. Let's listen closely to their exchange in Russian first, and then walk through each line together."
 OPENER = "Now let's go back through the exchange around Saving on the Bartender line by line and unpack how the Russian works."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Kostya realizes he has lost his job as part of the severe cost-cutting strategy. Next time you watch the episode, listen for the Russian expressions for 'just' and 'to do' — you will catch every word right away. See you next time!"
-CLOSING = ("nagiyev", "Пока!")
+CLOSING = ('nagiyev', 'Пока!')
 STORY = [
     ('kostya', 'Я просто делал свою работу.', 'I was just doing my job.', [], ''),
     ('nagiyev', 'Мы экономим на всём.', 'We are saving on everything.', [], ''),

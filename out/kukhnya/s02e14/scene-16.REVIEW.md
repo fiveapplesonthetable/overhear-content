@@ -10,32 +10,32 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Шеф | Не волнуйтесь, даже не волнуйтесь, денег не возьму. | Do not worry, do not even worry, I will not charge you a ruble. | #276 00:16:54: Не волнуйтесь, даже не волнуйтесь, денег не возьму | verbatim |
-| 2 | Нагиев | Да, это важно, важно. | Yes, that is very important. | #277 00:16:57: Да, это важно, важно | verbatim |
-| 3 | Нагиев | Совершенно бесплатно. | Completely free of charge. | #277 00:16:57: Совершенно бесплатно | verbatim |
-| 4 | Шеф | Елена Павловна. | Elena Pavlovna. | #278 00:17:00: Елена Павловна | verbatim |
-| 5 | Нагиев | Как считаете? | What do you think? | #279 00:17:02: как считаете | verbatim |
-| 6 | Нагиев | Это то. | That sounds great. | #280 00:17:06: Это то | verbatim |
-| 7 | Шеф | Я говорю. | That is what I am saying. | #283 00:17:12: Я говорю | verbatim |
-| 8 | Нагиев | А попробуйте. | Give it a try. | #284 00:17:17: А попробуйте | verbatim |
-| 9 | Нагиев | Я там это, на кухне, перехвачу. | I will just go check on things in the kitchen first. | #285 00:17:19: Я там это, на кухне, перехвачу | verbatim |
-| 10 | Шеф | Извините, простите. | Excuse me, pardon me. | #287 00:17:32: Извините, простите | verbatim |
-| 11 | Нагиев | Виктор Петрович. | Viktor Petrovich. | #288 00:17:34: Виктор Петрович | verbatim |
-| 12 | Нагиев | Дмитрий Владимирович просил передать. | Dmitry Vladimirovich asked me to pass this on. | #289 00:17:37: Дмитрий Владимирович просил передать | verbatim |
-| 13 | Шеф | С дороги! | Out of the way! | #290 00:17:40: С дороги | verbatim |
+| 1 | Шеф | Не волнуйтесь, даже не волнуйтесь, денег не возьму. | Do not worry, do not even worry, I will not charge you a ruble. | #276: Не волнуйтесь, даже не волнуйтесь, денег не возьму | verbatim |
+| 2 | Вика | Да, это важно, важно. | Yes, that is very important. | #277: Да, это важно, важно | verbatim |
+| 3 | Нагиев | Совершенно бесплатно. | Completely free of charge. | #277: Совершенно бесплатно | verbatim |
+| 4 | Шеф | Елена Павловна. | Elena Pavlovna. | #278: Елена Павловна | verbatim |
+| 5 | Вика | Как считаете? | What do you think? | #279: как считаете | verbatim |
+| 6 | Нагиев | Это то. | That sounds great. | #280: Это то | verbatim |
+| 7 | Шеф | Я говорю. | That is what I am saying. | #283: Я говорю | verbatim |
+| 8 | Вика | А попробуйте. | Give it a try. | #284: А попробуйте | verbatim |
+| 9 | Нагиев | Я там это, на кухне, перехвачу. | I will just go check on things in the kitchen first. | #285: Я там это, на кухне, перехвачу | verbatim |
+| 10 | Шеф | Извините, простите. | Excuse me, pardon me. | #287: Извините, простите | verbatim |
+| 11 | Вика | Виктор Петрович. | Viktor Petrovich. | #288: Виктор Петрович | verbatim |
+| 12 | Нагиев | Дмитрий Владимирович просил передать. | Dmitry Vladimirovich asked me to pass this on. | #289: Дмитрий Владимирович просил передать | verbatim |
+| 13 | Шеф | С дороги! | Out of the way! | #290: С дороги | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Do not worry, do not even worry, I will not charge you a ruble.' Chef Barinov pairs 'worry' with 'will get' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
-- 'Yes, that is very important.' Spoken Russian keeps this brisk, leaning on 'yes' and finishing on 'important'.
-- 'Completely free of charge.' Dmitry brings out the contrast between 'completely' and 'for free' in a few short words.
-- 'Elena Pavlovna.' The meaning hinges on 'Elena' working together with 'Pavlovna' in spoken Russian. Vika answers right away.
-- 'What do you think?' The grammar packs 'how' and 'to count' into a tight, idiomatic kitchen exchange.
-- 'That sounds great.' Dmitry anchors the line on 'this', while 'then' completes the thought.
-- 'That is what I am saying.' In Russian, the idea of 'I' flows naturally into 'say' without extra filler words. Vika answers right away.
-- 'Give it a try.' Here the Russian phrasing highlights 'and' before landing on 'try'.
-- 'I will just go check on things in the kitchen first.' The grammar packs 'I' and 'to intercept' into a tight, idiomatic kitchen exchange.
-- 'Excuse me, pardon me.' Spoken Russian keeps this brisk, leaning on 'excuse me' and finishing on 'forgive'. Vika answers right away.
-- 'Viktor Petrovich.' Vika brings out the contrast between 'Viktor' and 'Petrovich' in a few short words.
-- 'Dmitry Vladimirovich asked me to pass this on.' Dmitry anchors the line on 'Dmitry', while 'to pass on' completes the thought.
-- 'Out of the way!' Notice how Russian expresses 'with' and 'roads' with crisp inflection rather than helper words.
+- 'Do not worry, do not even worry, I will not charge you a ruble.' Pointing out that do not worry do not even worry he will not charge Nagiyev a ruble gives Nagiyev a sobering reality check.
+- 'Yes, that is very important.' Vika explains that that is very important, keeping her voice calm and direct. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'Completely free of charge.' Over the moment and the room, Nagiyev answers Barinov without a second thought.
+- 'Elena Pavlovna.' Around the conversation and plan, Barinov sets a calm, everyday tone with Nagiyev.
+- 'What do you think?' Asking what Barinov thinks cuts straight through the tension between Vika and Barinov. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'That sounds great.' Admitting that that sounds great shows Nagiyev being honest for a change. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'That is what I am saying.' Saying that that is what he is saying is how Barinov sets the tone with Nagiyev.
+- 'Give it a try.' Noting that Barinov should give it a try keeps Vika's side of the story simple and clear.
+- 'I will just go check on things in the kitchen first.' Adding that he will just go check on things in the kitchen first fills in the missing piece for Barinov. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'Excuse me, pardon me.' Between the conversation and the plan, Barinov gives Nagiyev a quick, grounded response.
+- 'Viktor Petrovich.' Over the conversation and the situation, Vika answers Barinov without a second thought.
+- 'Dmitry Vladimirovich asked me to pass this on.' Mentioning that Dmitry Vladimirovich asked him to pass this moves the talk in a new direction.
+- 'Out of the way!' Between the room and the moment, Barinov delivers a sharp reaction.

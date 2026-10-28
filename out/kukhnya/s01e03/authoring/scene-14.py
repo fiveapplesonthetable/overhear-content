@@ -4,18 +4,17 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 3
 SCENE = 14
-TITLE = "Праздничный гусь  (The Festive Goose)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Праздничный гусь  (The Festive Goose)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "vika": "angelina", "sasha": "anja"}
-LABELS = {"vika": "Вика", "sasha": "Саша"}
+LABELS = {'sasha': 'Саша', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.03'
 SOURCE_FILE = 'sources/kukhnya/s01/e03.ru.dual.srt'
 INTRO = "In the Claude Monet dining room, art director Vika coordinates the floor staff for the climax of the VIP banquet. Waitress Sasha confirms that the banquet table is prepared, the champagne is poured, and the guests are eager to celebrate. With the roasted goose ready to be served, Vika directs the staff to present the centerpiece dish and congratulate the birthday girl. Let's listen to their exchange in Russian first."
 OPENER = "Let's examine the dialogue line by line. Notice the exciting banquet preparations and the celebratory hospitality phrases."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Vika oversees a seamless banquet entrance to maintain Claude Monet's prestigious dining standards. Keep up the great work practicing conversational Russian! Next time you watch the episode, listen for the Russian expressions for 'banquet' and 'dish' — you will catch every word right away. See you next time!"
-CLOSING = ("vika", "Пока!")
+CLOSING = ('vika', 'Пока!')
 STORY = [
     ('vika', 'Саша, всё готово к праздничному банкету?', 'Sasha, is everything ready for the festive banquet?', [], ''),
     ('sasha', 'Да, гости уже сидят за столом.', 'Yes, the guests are already sitting at the table.', [], ''),

@@ -7,8 +7,7 @@ SCENE = 29
 TITLE = 'Garde à vue pour Norman et Gabriel  (In Custody for Norman and Gabriel)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'lea': 'lucie', 'norman': 'marcel'}
-LABELS = {'gabriel': 'Gabriel', 'lea': 'Andréa', 'norman': 'Norman'}
+LABELS = {'gabriel': 'Gabriel', 'norman': 'Norman', 'policier': 'Le policier'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e03.fr.dual.srt'
 INTRO = "Following a chaotic birthday joyride, YouTuber Norman Thavaud is taken to the police station for speeding without his driver's license. Gabriel rushes to the station, only to find a panicked Norman desperate to abandon his dream role in Jacques Audiard's upcoming film. Listen to the scene in French first. Don't worry about catching every word."
@@ -18,10 +17,10 @@ OUTRO = 'After feigning a cancellation call to Audiard and clashing with the pol
 CLOSING = ('gabriel', 'Bonne journée!')
 STORY = [
     ('gabriel', 'Bonsoir. Que se passe-t-il?', 'Good evening. What is going on?', [(733, 'Bonsoir. Que se passe-t-il')], ''),
-    ('lea', 'M. Norman Thavaud roulait en excès de vitesse.', 'Mr. Norman Thavaud was speeding.', [(736, 'M. Norman Thavaud'), (737, 'qui roulait en excès de vitesse')], ''),
-    ('lea', 'Le juge pourrait lui retirer le permis.', 'The judge could take away his license.', [(754, 'Le juge pourrait lui retirer le permis')], ''),
+    ('policier', 'M. Norman Thavaud roulait en excès de vitesse.', 'Mr. Norman Thavaud was speeding.', [(736, 'M. Norman Thavaud'), (737, 'qui roulait en excès de vitesse')], ''),
+    ('policier', 'Le juge pourrait lui retirer le permis.', 'The judge could take away his license.', [(754, 'Le juge pourrait lui retirer le permis')], ''),
     ('gabriel', 'Puis-je le voir?', 'May I see him?', [(757, 'Puis-je le voir')], ''),
-    ('lea', 'Par ici. Il est en cellule de dégrisement.', 'This way. He is in the sobering-up cell.', [(758, 'Par ici. Il est en cellule de dégrisement')], ''),
+    ('policier', 'Par ici. Il est en cellule de dégrisement.', 'This way. He is in the sobering-up cell.', [(758, 'Par ici. Il est en cellule de dégrisement')], ''),
     ('gabriel', 'Tu joues à quoi? Tu ne veux plus faire le film?', 'What are you playing at? You don', [(760, 'Tu joues à quoi'), (761, 'Tu ne veux plus faire le film')], ''),
     ('norman', 'Il pense déjà que je suis un loser.', 'He already thinks that I am a loser.', [(764, 'Il pense déjà que je suis un loser')], ''),
     ('gabriel', "Arrête, il t'a casté, tu l'as convaincu.", 'Stop it, he cast you, you convinced him.', [(765, "Arrête, il t'a casté, tu l'as convaincu")], ''),
@@ -30,8 +29,8 @@ STORY = [
     ('norman', "Appelle-le, annule et qu'on en finisse.", 'Call him, cancel and let', [(776, "Appelle-le, annule et qu'on en finisse")], ''),
     ('gabriel', "Bonjour Jacques. C'est Gabriel Sarda.", 'Hello Jacques. It is Gabriel Sarda.', [(783, 'Bonjour Jacques'), (784, "C'est Gabriel Sarda")], ''),
     ('gabriel', 'Norman ne veut pas faire votre film.', 'Norman does not want to do your movie.', [(784, 'Norman'), (785, 'il ne veut pas faire votre film')], ''),
-    ('lea', 'Ne haussez pas la voix!', 'Do not raise your voice!', [(790, 'ne haussez pas la voix')], ''),
-    ('lea', 'Vous avez bu?', 'Have you been drinking?', [(793, 'Vous avez bu')], ''),
+    ('policier', 'Ne haussez pas la voix!', 'Do not raise your voice!', [(790, 'ne haussez pas la voix')], ''),
+    ('policier', 'Vous avez bu?', 'Have you been drinking?', [(793, 'Vous avez bu')], ''),
     ('gabriel', "On m'embarque aussi?", 'Are you locking me up too?', [(794, "On m'embarque aussi")], ''),
     ('norman', 'Je suis un raté.', 'I am a failure.', [(798, 'Je suis un raté')], ''),
     ('gabriel', "Pas du tout. Vous avez été casté dans un film d'Audiard.", 'Not at all. You were cast in an Audiard movie.', [(799, "Pas du tout. Vous avez été casté dans un film d'Audiard")], ''),

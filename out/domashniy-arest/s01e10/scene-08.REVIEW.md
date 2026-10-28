@@ -10,20 +10,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Офицер | Здравствуйте, Галина Валерьевна. | Hello, Galina Valeryevna. | #221 00:12:27: Галина Валерьевна | verbatim |
-| 2 | Офицер | У меня к вам деловое предложение. | I have a business proposal for you. | #223 00:12:31: у меня к вам есть предложение | verbatim |
-| 3 | Галина | Слушаю вас. Очень интересно. | I am listening. Very interesting. | #220 00:12:26: Слушаю<br>#224 00:12:36: Интересно | verbatim |
-| 4 | Офицер | К вам в садик ходит мальчик Алексей. | A boy named Alexei attends your kindergarten. | #225 00:12:39: К вам в садик ходит мальчик Алексей | verbatim |
-| 5 | Офицер | Он должен чувствовать себя комфортно. | He must feel comfortable. | #227 00:12:43: было максимально комфортным | verbatim |
-| 6 | Офицер | Иначе вас ждут большие неприятности! | Otherwise big troubles await you! | #228 00:12:50: В противном случае вас ждут большие неприятности | verbatim |
-| 7 | Галина | Вы меня сейчас шантажируете? | Are you blackmailing me right now? | #241 00:13:32: Вы меня что, шантажируете | verbatim |
-| 8 | Офицер | Да, наконец до вас дошло! | Yes, finally you get it! | #242 00:13:35: Наконец дошло | verbatim |
-| 9 | Галина | Но это же просто омерзительно! | But this is simply revolting! | #244 00:13:40: это омерзительно | verbatim |
-| 10 | Офицер | Согласен, но жизнь бывает жестокой. | I agree, but life can be cruel. | #245 00:13:42: Согласен | verbatim |
-| 11 | Галина | Что именно я должна делать? | What exactly must I do? | #248 00:13:50: Что я должна делать | verbatim |
-| 12 | Офицер | Вы подумайте об этом сами. | Think about that yourself. | #249 00:13:51: А вы подумайте | verbatim |
-| 13 | Офицер | Вечером мальчик всё расскажет дома. | In the evening the boy will tell all at home. | #250 00:13:52: Алексей придет сегодня вечером домой и расскажет | verbatim |
-| 14 | Офицер | Надеюсь, ему всё понравится. | I hope he will like everything. | #251 00:13:55: хорошо ли ему было в садике | verbatim |
+| 1 | Офицер | Здравствуйте, Галина Валерьевна. | Hello, Galina Valeryevna. | #221: Галина Валерьевна | verbatim |
+| 2 | Офицер | У меня к вам деловое предложение. | I have a business proposal for you. | #223: у меня к вам есть предложение | verbatim |
+| 3 | Галина | Слушаю вас. Очень интересно. | I am listening. Very interesting. | #220: Слушаю<br>#224: Интересно | verbatim |
+| 4 | Офицер | К вам в садик ходит мальчик Алексей. | A boy named Alexei attends your kindergarten. | #225: К вам в садик ходит мальчик Алексей | verbatim |
+| 5 | Офицер | Он должен чувствовать себя комфортно. | He must feel comfortable. | #227: было максимально комфортным | verbatim |
+| 6 | Офицер | Иначе вас ждут большие неприятности! | Otherwise big troubles await you! | #228: В противном случае вас ждут большие неприятности | verbatim |
+| 7 | Галина | Вы меня сейчас шантажируете? | Are you blackmailing me right now? | #241: Вы меня что, шантажируете | verbatim |
+| 8 | Офицер | Да, наконец до вас дошло! | Yes, finally you get it! | #242: Наконец дошло | verbatim |
+| 9 | Галина | Но это же просто омерзительно! | But this is simply revolting! | #244: это омерзительно | verbatim |
+| 10 | Офицер | Согласен, но жизнь бывает жестокой. | I agree, but life can be cruel. | #245: Согласен | verbatim |
+| 11 | Галина | Что именно я должна делать? | What exactly must I do? | #248: Что я должна делать | verbatim |
+| 12 | Офицер | Вы подумайте об этом сами. | Think about that yourself. | #249: А вы подумайте | verbatim |
+| 13 | Офицер | Вечером мальчик всё расскажет дома. | In the evening the boy will tell all at home. | #250: Алексей придет сегодня вечером домой и расскажет | verbatim |
+| 14 | Офицер | Надеюсь, ему всё понравится. | I hope he will like everything. | #251: хорошо ли ему было в садике | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

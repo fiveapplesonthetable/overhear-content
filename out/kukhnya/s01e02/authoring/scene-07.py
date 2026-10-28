@@ -4,31 +4,30 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 2
 SCENE = 7
-TITLE = "Тоже мне бармен  (Some Bartender You Are)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Тоже мне бармен  (Some Bartender You Are)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "sasha": "anja", "anya": "alisa"}
-LABELS = {"sasha": "Саша", "anya": "Макс"}
+LABELS = {'max': 'Макс', 'sasha': 'Саша'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.02'
 SOURCE_FILE = 'sources/kukhnya/s01/e02.ru.dual.srt'
 INTRO = 'At the bar counter of Claude Monet, Max has made a mess while attempting to brew coffee. Waitress Sasha arrives, surveys the spilled milk, and orders him away from the machine. Listen to their playful conversation in Russian first, and then we will review it in English.'
 OPENER = "Let's review this encounter at the bar line by line."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = 'Relieved of his bartending duties, Max heads back to the kitchen, leaving coffee preparation to the professionals. See you next time!'
-CLOSING = ("sasha", "Пока!")
+CLOSING = ('sasha', 'Пока!')
 STORY = [
     ('sasha', 'Что ты тут вообще делаешь?', 'What are you even doing here?', [], ''),
-    ('anya', 'Я просто варю кофе для гостей.', 'I am just brewing coffee for the guests.', [], ''),
+    ('max', 'Я просто варю кофе для гостей.', 'I am just brewing coffee for the guests.', [], ''),
     ('sasha', 'Ты разлил молоко на всю стойку!', 'You spilled milk all over the counter!', [], ''),
-    ('anya', 'Я хотел показать красивый фокус.', 'I wanted to show a neat trick.', [], ''),
+    ('max', 'Я хотел показать красивый фокус.', 'I wanted to show a neat trick.', [], ''),
     ('sasha', 'Тоже мне бармен!', 'Some bartender you are!', [(108, 'Тоже мне бармен')], ''),
-    ('anya', 'У каждого мастера бывают ошибки.', 'Every master makes mistakes.', [], ''),
+    ('max', 'У каждого мастера бывают ошибки.', 'Every master makes mistakes.', [], ''),
     ('sasha', 'Проваливай, давай, я сама всё сделаю.', 'Get lost, go on, I will do everything myself.', [(109, 'Проваливай, давай, я сама сделаю')], ''),
-    ('anya', 'Ладно, я лучше пойду на кухню.', 'All right, I had better go to the kitchen.', [], ''),
+    ('max', 'Ладно, я лучше пойду на кухню.', 'All right, I had better go to the kitchen.', [], ''),
     ('sasha', 'И больше никогда не трогай кофемашину!', 'And never touch the coffee machine again!', [], ''),
-    ('anya', 'Кухня мне точно ближе, чем этот бар.', 'The kitchen is definitely closer to my heart than this bar.', [], ''),
+    ('max', 'Кухня мне точно ближе, чем этот бар.', 'The kitchen is definitely closer to my heart than this bar.', [], ''),
     ('sasha', 'Вот и иди помогать поварам.', 'Then go help the cooks.', [], ''),
-    ('anya', 'Уже ухожу, шеф бара!', 'Leaving already, bar boss!', [], ''),
+    ('max', 'Уже ухожу, шеф бара!', 'Leaving already, bar boss!', [], ''),
 ]
 WALK = [
     (0, None, "'What are you even doing here?' Sasha asks Max with deep skepticism as she enters the bar area."),

@@ -10,32 +10,32 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Автограф, может быть, мне дадите? | Perhaps you could give me an autograph? | #295 00:18:32: Автограф, может быть, мне дадите | verbatim |
-| 2 | Вика | Кстати, какой у вас замечательный русский язык. | By the way, what wonderful Russian you speak. | #296 00:18:33: Кстати, какой у вас замечательный русский язык | verbatim |
-| 3 | Аня | Мама была русская. | My mother was Russian. | #297 00:18:38: Мама была русская | verbatim |
-| 4 | Вика | Вот как. | Is that so. | #297 00:18:38: Вот как | verbatim |
-| 5 | Аня | Но это было очень давно. | Though that was a very long time ago. | #299 00:18:43: Но это было очень давно | verbatim |
-| 6 | Вика | Лука, ведь, наверное, не очень давно. | Come now, Luca, surely it was not that long ago. | #300 00:18:45: Лука, ведь, наверное, не очень давно | verbatim |
-| 7 | Аня | Пару лет назад. | Just a couple of years ago. | #301 00:18:47: Пару лет назад | verbatim |
-| 8 | Вика | Я знаю. | I know. | #304 00:18:56: Я знаю | verbatim |
-| 9 | Аня | Да, не волнуйтесь. | Yes, please do not worry. | #305 00:18:57: Да, не волнуйтесь | verbatim |
-| 10 | Вика | Не волнуйтесь. Нет. | Do not worry at all. No. | #305 00:18:57: не волнуйтесь. Нет | verbatim |
-| 11 | Аня | Слушай, Агузок, а может ты в официанты пойдешь? | Listen, Oguzok, maybe you should go work as a waiter? | #307 00:19:03: Слушай, Агузок, а может ты в официанты пойдешь | verbatim |
-| 12 | Вика | Чем тут. | Rather than standing around in here. | #308 00:19:06: чем тут | verbatim |
-| 13 | Аня | Че, может и пойду? | Why not, maybe I actually will? | #309 00:19:10: Че, может и пойду | verbatim |
+| 1 | Макс | Автограф, может быть, мне дадите? | Perhaps you could give me an autograph? | #295: Автограф, может быть, мне дадите | verbatim |
+| 2 | Вика | Кстати, какой у вас замечательный русский язык. | By the way, what wonderful Russian you speak. | #296: Кстати, какой у вас замечательный русский язык | verbatim |
+| 3 | Макс | Мама была русская. | My mother was Russian. | #297: Мама была русская | verbatim |
+| 4 | Вика | Вот как. | Is that so. | #297: Вот как | verbatim |
+| 5 | Макс | Но это было очень давно. | Though that was a very long time ago. | #299: Но это было очень давно | verbatim |
+| 6 | Вика | Лука, ведь, наверное, не очень давно. | Come now, Luca, surely it was not that long ago. | #300: Лука, ведь, наверное, не очень давно | verbatim |
+| 7 | Макс | Пару лет назад. | Just a couple of years ago. | #301: Пару лет назад | verbatim |
+| 8 | Вика | Я знаю. | I know. | #304: Я знаю | verbatim |
+| 9 | Макс | Да, не волнуйтесь. | Yes, please do not worry. | #305: Да, не волнуйтесь | verbatim |
+| 10 | Вика | Не волнуйтесь. Нет. | Do not worry at all. No. | #305: не волнуйтесь. Нет | verbatim |
+| 11 | Макс | Слушай, Агузок, а может ты в официанты пойдешь? | Listen, Oguzok, maybe you should go work as a waiter? | #307: Слушай, Агузок, а может ты в официанты пойдешь | verbatim |
+| 12 | Вика | Чем тут. | Rather than standing around in here. | #308: чем тут | verbatim |
+| 13 | Макс | Че, может и пойду? | Why not, maybe I actually will? | #309: Че, может и пойду | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Perhaps you could give me an autograph?' In Russian, the idea of 'autograph' flows naturally into 'will give' without extra filler words.
-- 'By the way, what wonderful Russian you speak.' Notice how Russian expresses 'by the way' and 'language' with crisp inflection rather than helper words.
-- 'My mother was Russian.' Spoken Russian keeps this brisk, leaning on 'mum' and finishing on 'Russian'. Vika answers right away.
-- 'Is that so.' The grammar packs 'there you go' and 'how' into a tight, idiomatic kitchen exchange.
-- 'Though that was a very long time ago.' Spoken Russian keeps this brisk, leaning on 'but' and finishing on 'for a long time'.
-- 'Come now, Luca, surely it was not that long ago.' Vika brings out the contrast between 'onion' and 'you know' in a few short words. Max answers right away.
-- 'Just a couple of years ago.' The meaning hinges on 'couple' working together with 'back' in spoken Russian.
-- 'I know.' Notice how Russian expresses 'I' and 'know' with crisp inflection rather than helper words.
-- 'Yes, please do not worry.' Max anchors the line on 'yes', while 'worry' completes the thought. Vika answers right away.
-- 'Do not worry at all. No.' Putting the short word for 'not' right in front of the action word is all Russian needs to make a sentence negative, with no extra helper words like 'do' or 'did'.
-- 'Listen, Oguzok, maybe you should go work as a waiter?' Spoken Russian keeps this brisk, leaning on 'listen' and finishing on 'will go'.
-- 'Rather than standing around in here.' The grammar packs 'what' and 'here' into a tight, idiomatic kitchen exchange. Max answers right away.
-- 'Why not, maybe I actually will?' The meaning hinges on 'what' working together with 'go' in spoken Russian.
+- 'Perhaps you could give me an autograph?' Wondering if perhaps Vika could give him an autograph shows Max caught off guard. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'By the way, what wonderful Russian you speak.' Vika mentions that what wonderful Russian Max speaks so Max sees what is at stake.
+- 'My mother was Russian.' Claiming that his mother was Russian sounds confident, even if Vika has doubts.
+- 'Is that so.' With the point and table in play, Vika keeps this short reply brisk and direct.
+- 'Though that was a very long time ago.' Max explains that though that was a very long time ago, keeping his voice calm and direct.
+- 'Come now, Luca, surely it was not that long ago.' Coming now Luca surely it was not that long ago moves the conversation forward without extra drama.
+- 'Just a couple of years ago.' Around the truth and guest, Max sets a calm, everyday tone with Vika.
+- 'I know.' Between the truth and the guest, Vika gives Max a quick, grounded response.
+- 'Yes, please do not worry.' Admitting that do not worry shows Max being honest for a change.
+- 'Do not worry at all. No.' Saying that do not worry at all is how Vika sets the tone with Max.
+- 'Listen, Oguzok, maybe you should go work as a waiter?' Wondering if Oguzok maybe Vika should go work as a waiter shows Max caught off guard.
+- 'Rather than standing around in here.' Over the truth and the table, Vika answers Max without a second thought.
+- 'Why not, maybe I actually will?' When Max asks if why not maybe he actually will, Vika has to answer fast. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.

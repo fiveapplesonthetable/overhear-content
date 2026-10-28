@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Вика | Так неудобно получилось, правда. | It turned out so awkwardly, really. | #64 00:04:30: Так неудобно получилось, правда | adapted: adapted |
-| 2 | Вика | Позвонила сегодня ночью Максу. | I called Max tonight. | #66 00:04:35: позвонила сегодня ночью Максу | adapted: adapted |
-| 3 | Вика | Понимаю, гормоны шалят. Я просто захотела тушёнки! | I understand, hormones are acting up. I simply wanted stewed meat! | #68 00:04:40: я понимаю, гормоны шалят<br>#69 00:04:44: Я просто захотела тушенки | adapted: adapted |
-| 4 | Шеф | Айнура, приготовь, пожалуйста, к вечеру мой костюм. | Ainura, please get my suit ready for the evening. | #74 00:05:08: Айнура<br>#74 00:05:08: пожалуйста, к вечеру мой костюм | adapted: adapted |
-| 5 | Шеф | Лёва, с тебя самая вкусная утка в твоей жизни! | Lyova, the most delicious duck of your life is on you! | #75 00:05:12: Лёва<br>#76 00:05:13: тебя самая вкусная утка<br>#76 00:05:13: в твоей жизни | adapted: adapted |
-| 6 | Шеф | Кто-нибудь знает, где здесь ближайший ювелирный магазин? | Does anyone know where the nearest jewelry store is around here? | #77 00:05:17: Кто-нибудь знает, где здесь ближайший ювелирный магазин | adapted: adapted |
-| 7 | Вика | Рядом с цветочным, через дорогу. | Next to the flower shop, across the street. | #78 00:05:21: рядом с Цветочным<br>#79 00:05:23: через дорогу | adapted: adapted |
-| 8 | Вика | Походу, шеф собирается Елене сделать предложение! | It looks like the chef is going to propose to Elena! | #82 00:05:31: Походу, шеф собирается<br>#82 00:05:31: сделать предложение | adapted: adapted |
-| 9 | Вика | Ну сами посудите: костюм, ювелирный магазин! | Well judge for yourselves: a suit, a jewelry store! | #83 00:05:33: Ну, сами посудите<br>#84 00:05:35: Костюм<br>#77 00:05:17: ювелирный магазин | adapted: adapted |
-| 10 | Вика | Да нет, ребят, тут всё понятно. | No, guys, everything is clear here. | #85 00:05:37: ребят, тут все понятно | adapted: adapted |
-| 11 | Вика | Сегодня он ей подарок сделает, завтра она его в бар отпустит. | Today he will give her a gift, tomorrow she will let him go to the bar. | #86 00:05:39: Сегодня он ей подарок сделает, завтра она его в бар отпустит | adapted: adapted |
-| 12 | Вика | Посмотрим вечером! | We will see tonight! | #81 00:05:29: Так, так, так | adapted: adapted |
+| 1 | Вика | Так неудобно получилось, правда. | It turned out so awkwardly, really. | #64: Так неудобно получилось, правда | adapted: adapted |
+| 2 | Вика | Позвонила сегодня ночью Максу. | I called Max tonight. | #66: позвонила сегодня ночью Максу | adapted: adapted |
+| 3 | Вика | Понимаю, гормоны шалят. Я просто захотела тушёнки! | I understand, hormones are acting up. I simply wanted stewed meat! | #68: я понимаю, гормоны шалят<br>#69: Я просто захотела тушенки | adapted: adapted |
+| 4 | Шеф | Айнура, приготовь, пожалуйста, к вечеру мой костюм. | Ainura, please get my suit ready for the evening. | #74: Айнура<br>#74: пожалуйста, к вечеру мой костюм | adapted: adapted |
+| 5 | Шеф | Лёва, с тебя самая вкусная утка в твоей жизни! | Lyova, the most delicious duck of your life is on you! | #75: Лёва<br>#76: тебя самая вкусная утка<br>#76: в твоей жизни | adapted: adapted |
+| 6 | Шеф | Кто-нибудь знает, где здесь ближайший ювелирный магазин? | Does anyone know where the nearest jewelry store is around here? | #77: Кто-нибудь знает, где здесь ближайший ювелирный магазин | adapted: adapted |
+| 7 | Сеня | Рядом с цветочным, через дорогу. | Next to the flower shop, across the street. | #78: рядом с Цветочным<br>#79: через дорогу | adapted: adapted |
+| 8 | Сеня | Походу, шеф собирается Елене сделать предложение! | It looks like the chef is going to propose to Elena! | #82: Походу, шеф собирается<br>#82: сделать предложение | adapted: adapted |
+| 9 | Сеня | Ну сами посудите: костюм, ювелирный магазин! | Well judge for yourselves: a suit, a jewelry store! | #83: Ну, сами посудите<br>#84: Костюм<br>#77: ювелирный магазин | adapted: adapted |
+| 10 | Вика | Да нет, ребят, тут всё понятно. | No, guys, everything is clear here. | #85: ребят, тут все понятно | adapted: adapted |
+| 11 | Вика | Сегодня он ей подарок сделает, завтра она его в бар отпустит. | Today he will give her a gift, tomorrow she will let him go to the bar. | #86: Сегодня он ей подарок сделает, завтра она его в бар отпустит | adapted: adapted |
+| 12 | Сеня | Посмотрим вечером! | We will see tonight! | #81: Так, так, так | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'It turned out so awkwardly, really.' Notice how Russian expresses 'so' and 'really' with crisp inflection rather than helper words.
-- 'I called Max tonight.' Here the Russian phrasing highlights 'phoned' before landing on 'proper name'.
-- 'I understand, hormones are acting up. I simply wanted stewed meat!' In Russian, the idea of 'understand' flows naturally into 'canned stewed meat' without extra filler words.
-- 'Ainura, please get my suit ready for the evening.' Spoken Russian keeps this brisk, leaning on 'Ainura' and finishing on 'suit'.
-- 'Lyova, the most delicious duck of your life is on you!' Chef Barinov brings out the contrast between 'Lyova' and 'with' in a few short words.
-- 'Does anyone know where the nearest jewelry store is around here?' In Russian, the idea of 'somebody' flows naturally into 'store' without extra filler words.
-- 'Next to the flower shop, across the street.' Senya brings out the contrast between 'beside' and 'with' in a few short words.
-- 'It looks like the chef is going to propose to Elena!' Spoken Russian keeps this brisk, leaning on 'apparently' and finishing on 'marriage proposal'.
-- 'Well judge for yourselves: a suit, a jewelry store!' The grammar packs 'come on' and 'store' into a tight, idiomatic kitchen exchange.
-- 'No, guys, everything is clear here.' The meaning hinges on 'yes' working together with 'understood' in spoken Russian.
-- 'Today he will give her a gift, tomorrow she will let him go to the bar.' In Russian, the idea of 'tonight' flows naturally into 'will let go' without extra filler words.
-- 'We will see tonight!' The meaning hinges on 'we shall see' working together with 'in the evening' in spoken Russian.
+- 'It turned out so awkwardly, really.' Saying that it turned out so awkwardly really is how Vika sets the tone with Barinov.
+- 'I called Max tonight.' Once she called Max tonight, Vika can finally tell Barinov what she means.
+- 'I understand, hormones are acting up. I simply wanted stewed meat!' Once she understands hormones are acting up, Vika makes sure Barinov hears every word. Russian puts the key word right up front so her emotion lands on the first beat.
+- 'Ainura, please get my suit ready for the evening.' Getting his suit ready for the evening is how Barinov lays out the situation for Senya.
+- 'Lyova, the most delicious duck of your life is on you!' Declaring that the most delicious duck of Senya's life is on Senya brings Barinov's temper right to the surface.
+- 'Does anyone know where the nearest jewelry store is around here?' Asking whether anyone know where the nearest jewelry store is around here cuts straight through the tension between Barinov and Senya. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Next to the flower shop, across the street.' Around the truth and meat, Senya sets a calm, everyday tone with Barinov.
+- 'It looks like the chef is going to propose to Elena!' Senya declares that it looks like the is going to propose to Elena as the tension in the room peaks.
+- 'Well judge for yourselves: a suit, a jewelry store!' Around the suit and conversation, Senya makes his point loud and clear. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'No, guys, everything is clear here.' Vika mentions that guys everything is clear here so Barinov sees what is at stake.
+- 'Today he will give her a gift, tomorrow she will let him go to the bar.' Claiming that today he will give her a gift tomorrow she will let him go to the bar sounds confident, even if Barinov has doubts.
+- 'We will see tonight!' Declaring that they will see tonight brings Senya's temper right to the surface. Russian puts the key word right up front so his emotion lands on the first beat.

@@ -1,40 +1,32 @@
-# Чистосердечное признание  (A Full Confession) — `kukhnya-s01e04-scene-12`
+# kukhnya-s01e04-scene-12: review sheet
 
-**Source:** Кухня (Kukhnya) S1.04 · `sources/kukhnya/s01/e04.ru.dual.srt`  
-**Target level:** A1 — Duolingo Section 2
+Title: Чистосердечное признание  (A Full Confession)
+Level: A1 — Duolingo Section 2
+Pair: ru-en
+Source: Кухня (Kukhnya) S1.04
 
-## Cast
 
-| Role | Voice | Label |
-|---|---|---|
-| `narrator` | sky | — |
-| `senya` | angelina | Сеня |
-| `chef` | anja | Шеф |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 1 — Intro
-
-> Terrified of the lie detector machine in Barinov's office, line cook Senya completely breaks down before the sensors are even attached. Instead of answering questions about rival restaurant Arcobaleno, Senya frantically confesses to every scrap of food he ever pilfered from the kitchen. Let's listen to his hilarious confession in Russian first.
-
-## Part 2 — Story
-
-| # | Speaker | Line | English | Source cue(s) | Change |
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 0 | Сеня | Шеф, пожалуйста, не включайте прибор! | Chef, please, do not turn on the device! | #146 "Шеф, пожалуйста" |  |
-| 1 | Шеф | Ты чего так сильно дрожишь? | Why are you shaking so hard? | *(added)* |  |
-| 2 | Сеня | Я сам вам всё честно расскажу! | I will tell you everything honestly myself! | #146 "Я все расскажу" |  |
-| 3 | Сеня | Эту рыбу после банкета взял я! | I took that fish after the banquet! | #147 "Эту рыбу", #147 "после банкета, я взял" |  |
-| 4 | Сеня | И ту оленину тоже унёс я! | And I took that venison away too! | #148 "И ту оленину", #148 "тоже я унес" |  |
-| 5 | Шеф | А полкило дорогой икры? | And half a kilo of expensive caviar? | #149 "А полкило икры" |  |
-| 6 | Сеня | Нет, шеф, икру я не брал! | No, Chef, I did not take the caviar! | #150 "Нет" |  |
-| 7 | Сеня | Простите меня, пожалуйста, шеф! | Forgive me, please, Chef! | #151 "Простите меня, шеф" |  |
-| 8 | Шеф | Мне плевать на твою оленину! | I do not care about your venison! | *(added)* |  |
-| 9 | Шеф | Ты ходил в соседний ресторан? | Did you go to the neighboring restaurant? | #152 "Это ты ходил в соседний ресторан" |  |
-| 10 | Сеня | Нет, шеф, клянусь вам! | No, Chef, I swear to you! | #153 "Нет" |  |
-| 11 | Шеф | Говори правду, да или нет? | Tell the truth, yes or no? | #150 "нет" |  |
-| 12 | Сеня | Нет! Я предан только вам! | No! I am loyal only to you! | #154 "Нет" |  |
+| 1 | Сеня | Шеф, пожалуйста, не включайте прибор! | Chef, please, do not turn on the device! | #146: Шеф, пожалуйста | verbatim |
+| 2 | Шеф | Ты чего так сильно дрожишь? | Why are you shaking so hard? | new | new |
+| 3 | Сеня | Я сам вам всё честно расскажу! | I will tell you everything honestly myself! | #146: Я все расскажу | verbatim |
+| 4 | Сеня | Эту рыбу после банкета взял я! | I took that fish after the banquet! | #147: Эту рыбу<br>#147: после банкета, я взял | verbatim |
+| 5 | Сеня | И ту оленину тоже унёс я! | And I took that venison away too! | #148: И ту оленину<br>#148: тоже я унес | verbatim |
+| 6 | Шеф | А полкило дорогой икры? | And half a kilo of expensive caviar? | #149: А полкило икры | verbatim |
+| 7 | Сеня | Нет, шеф, икру я не брал! | No, Chef, I did not take the caviar! | #150: Нет | verbatim |
+| 8 | Сеня | Простите меня, пожалуйста, шеф! | Forgive me, please, Chef! | #151: Простите меня, шеф | verbatim |
+| 9 | Шеф | Мне плевать на твою оленину! | I do not care about your venison! | new | new |
+| 10 | Шеф | Ты ходил в соседний ресторан? | Did you go to the neighboring restaurant? | #152: Это ты ходил в соседний ресторан | verbatim |
+| 11 | Сеня | Нет, шеф, клянусь вам! | No, Chef, I swear to you! | #153: Нет | verbatim |
+| 12 | Шеф | Говори правду, да или нет? | Tell the truth, yes or no? | #150: нет | verbatim |
+| 13 | Сеня | Нет! Я предан только вам! | No! I am loyal only to you! | #154: Нет | verbatim |
 
-## Part 5 — Outro & closing
+## Walk-through narration (English only, no target-language words quoted)
 
-> Barinov stares in disbelief at his sobbing cook before deciding what to do next. Next time you watch the episode, listen for the Russian expressions for 'banquet' and 'more' — you will catch every word right away. See you next time!
-
-**Сеня:** Пока!
+- 'Chef, please do not turn on the device!' Senya begs, sweating profusely before the machine is even attached.
+- 'I took this fish after the banquet!' the line cook confesses, voluntarily admitting to kitchen pilfering.
+- 'And the half-kilo of expensive caviar?' Chef Barinov presses, seizing the chance to uncover other thefts.
+- 'Did you go to the neighboring restaurant?' Barinov demands, ignoring the petty food thefts to find the real secret. Now listen to the full office confession once more. Now let's listen to the whole conversation again from start to finish.

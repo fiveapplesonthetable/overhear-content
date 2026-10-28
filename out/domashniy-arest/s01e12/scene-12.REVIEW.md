@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Рожок | Я же тебе говорил: пошли оттуда! | I told you: let us leave that place! | #193 00:19:40: Я же тебе говорил, пошли | verbatim |
-| 2 | Самсон | Надо было силой меня оттуда уводить! | You should have dragged me away from there by force! | #195 00:19:44: Утаскивать меня | verbatim |
-| 3 | Самсон | Это же были деньги за квартиру тёщи! | That was the money for my mother-in-law's apartment! | #196 00:19:49: Тещина квартира | verbatim |
-| 4 | Самсон | Я три года честно на неё работал. | I worked honestly for three years for it. | #196 00:19:49: я три года работал | verbatim |
-| 5 | Самсон | Я вообще не понимаю, что сказать Нине. | I do not understand at all what to tell Nina. | #197 00:19:51: что Нинке говорить | verbatim |
-| 6 | Рожок | Скажи правду, ты ведь хотел как лучше. | Tell the truth, you wanted what was best after all. | #198 00:19:55: ты ж как лучше хотел | verbatim |
-| 7 | Самсон | Нина никогда в жизни меня не простит. | Nina will never in her life forgive me. | #197 00:19:51: что Нинке говорить | verbatim |
-| 8 | Рожок | Ладно, Рожок с тобой, не унывай сейчас. | Alright, Rozhok is with you, do not despair right now. | #199 00:20:01: Ладно, Рожок, давай | verbatim |
-| 9 | Рожок | Иди уже скорее домой, пора хорошенько отдохнуть. | Go home already quickly, it is time to have a good rest. | #200 00:20:04: Идите уж на хату, пора | verbatim |
-| 10 | Рожок | Ты точно в порядке, может, вызвать такси? | Are you definitely alright, maybe call a taxi? | #201 00:20:06: Ну ты точно в порядке? Может, я тачку взял | verbatim |
-| 11 | Самсон | Да, я в порядке, спасибо тебе, друг. | Yes, I am fine, thank you, my friend. | #202 00:20:08: Да в порядке, в порядке, все, давай | verbatim |
-| 12 | Рожок | Держись, Самсон, завтра вместе всё спокойно решим. | Hold on, Samson, tomorrow we will calmly resolve everything together. | #202 00:20:08: все, давай | verbatim |
+| 1 | Рожок | Я же тебе говорил: пошли оттуда! | I told you: let us leave that place! | #193: Я же тебе говорил, пошли | verbatim |
+| 2 | Самсон | Надо было силой меня оттуда уводить! | You should have dragged me away from there by force! | #195: Утаскивать меня | verbatim |
+| 3 | Самсон | Это же были деньги за квартиру тёщи! | That was the money for my mother-in-law's apartment! | #196: Тещина квартира | verbatim |
+| 4 | Самсон | Я три года честно на неё работал. | I worked honestly for three years for it. | #196: я три года работал | verbatim |
+| 5 | Самсон | Я вообще не понимаю, что сказать Нине. | I do not understand at all what to tell Nina. | #197: что Нинке говорить | verbatim |
+| 6 | Рожок | Скажи правду, ты ведь хотел как лучше. | Tell the truth, you wanted what was best after all. | #198: ты ж как лучше хотел | verbatim |
+| 7 | Самсон | Нина никогда в жизни меня не простит. | Nina will never in her life forgive me. | #197: что Нинке говорить | verbatim |
+| 8 | Рожок | Ладно, Рожок с тобой, не унывай сейчас. | Alright, Rozhok is with you, do not despair right now. | #199: Ладно, Рожок, давай | verbatim |
+| 9 | Рожок | Иди уже скорее домой, пора хорошенько отдохнуть. | Go home already quickly, it is time to have a good rest. | #200: Идите уж на хату, пора | verbatim |
+| 10 | Рожок | Ты точно в порядке, может, вызвать такси? | Are you definitely alright, maybe call a taxi? | #201: Ну ты точно в порядке? Может, я тачку взял | verbatim |
+| 11 | Самсон | Да, я в порядке, спасибо тебе, друг. | Yes, I am fine, thank you, my friend. | #202: Да в порядке, в порядке, все, давай | verbatim |
+| 12 | Рожок | Держись, Самсон, завтра вместе всё спокойно решим. | Hold on, Samson, tomorrow we will calmly resolve everything together. | #202: все, давай | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

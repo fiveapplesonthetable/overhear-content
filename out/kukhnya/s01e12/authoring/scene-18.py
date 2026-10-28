@@ -4,18 +4,17 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 12
 SCENE = 18
-TITLE = "Полный зал  (A Packed House)"
-LEVEL = "A1 — Duolingo Section 2"
+TITLE = 'Полный зал  (A Packed House)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "nagiyev": "angelina", "angelina_h": "anja"}
-LABELS = {"nagiyev": "Нагиев", "angelina_h": "Ангелина"}
+LABELS = {'angelina_h': 'Ангелина', 'nagiyev': 'Нагиев'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.12'
 SOURCE_FILE = 'sources/kukhnya/s01/e12.ru.dual.srt'
 INTRO = 'In the dining room of Claude Monet, restaurant owner Dmitry Nagiyev checks the reservation book with hostess Angelina. Delighted to hear that all tables are booked solid, Nagiyev proudly declares that their restaurant needs no gimmicks to win over guests. Listen to their conversation in Russian first, then we will break down each line in English.'
 OPENER = "Now let's go back through the exchange around A Packed House line by line and unpack how the Russian works."
 TRANSITION = "Now let's listen to the conversation again without interruption."
 OUTRO = "In the Claude Monet dining room, owner Dmitry Nagiyev inspects the reservation book with hostess Angelina, celebrating that every single table is booked for the evening. Next time you watch the episode, listen for the Russian expressions for 'perfectly' and 'window' — you will catch every word right away. See you next time!"
-CLOSING = ("nagiyev", "Пока!")
+CLOSING = ('nagiyev', 'Пока!')
 STORY = [
     ('nagiyev', 'Ангелина, что у нас с резервами сегодня?', 'Angelina, how are our reservations today?', [(239, 'Ангелина, что у нас с резервами на сегодня?')], ''),
     ('angelina_h', 'Дмитрий Владимирович, все столики уже заняты.', 'Dmitry Vladimirovich, all tables are already booked.', [(240, 'Все столики забронированы.')], ''),
@@ -34,12 +33,12 @@ STORY = [
 WALK = [
     (0, None, "'Angelina, how are our reservations today?' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
     (1, None, "'Dmitry Vladimirovich, all tables are already booked.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (2, None, "'Yes, there are no more free tables.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (3, None, "'The guests will start arriving any minute.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation."),
-    (4, None, "'Look at that! It turned out just like I said.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (5, None, "'People love us just the way we are!' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (6, None, "'Go prepare additional tables.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (7, None, "'We will place two more tables by the window.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (8, None, "'Great, today we have a full house!' — exclamatory adverb followed by an idiomatic possession phrase."),
-    (9, None, "'Wonderful, the evening promises to be successful!' — modal verb governing an basic verb form and matching form adjective. Now listen to the full conversation once more. Now let's listen to the whole conversation again from start to finish."),
+    (3, None, "'Yes, there are no more free tables.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
+    (4, None, "'The guests will start arriving any minute.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation."),
+    (5, None, "'Look at that! It turned out just like I said.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
+    (7, None, "'People love us just the way we are!' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
+    (8, None, "'Go prepare additional tables.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
+    (9, None, "'We will place two more tables by the window.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
+    (10, None, "'Great, today we have a full house!' — exclamatory adverb followed by an idiomatic possession phrase."),
+    (12, None, "'Wonderful, the evening promises to be successful!' — modal verb governing an basic verb form and matching form adjective. Now listen to the full conversation once more. Now let's listen to the whole conversation again from start to finish."),
 ]

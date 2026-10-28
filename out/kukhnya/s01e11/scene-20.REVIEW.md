@@ -1,40 +1,38 @@
-# Отказ от салата  (Rejecting the Salad) — `kukhnya-s01e11-scene-20`
+# kukhnya-s01e11-scene-20: review sheet
 
-**Source:** Кухня (Kukhnya) S1.11 · `sources/kukhnya/s01/e11.ru.dual.srt`  
-**Target level:** A1 — Duolingo Section 2
+Title: Отказ от салата  (Rejecting the Salad)
+Level: A1 — Duolingo Section 2
+Pair: ru-en
+Source: Кухня (Kukhnya) S1.11
 
-## Cast
 
-| Role | Voice | Label |
-|---|---|---|
-| `narrator` | sky | — |
-| `chef` | anja | Шеф |
-| `vika` | angelina | Вика |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 1 — Intro
-
-> In the kitchen of Claude Monet, Victoria rushes to Chef Viktor with alarming news: the restaurant critic has rejected his fresh salad and is demanding hot soup immediately. Victoria urges Viktor to give the critic a soup meant for another guest, but the proud chef adamantly refuses to break the rules. Listen to their conversation in Russian first, then we will break down each line in English.
-
-## Part 2 — Story
-
-| # | Speaker | Line | English | Source cue(s) | Change |
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 0 | Вика | Виктор Петрович, у нас срочная проблема! | Viktor Petrovich, we have an urgent problem! | *(added)* |  |
-| 1 | Шеф | Вика, не кричи на кухне. | Vika, do not shout in the kitchen. | *(added)* |  |
-| 2 | Вика | Критик за столиком отказался от салата. | The critic at the table refused the salad. | #273 "Критик отказался от блюда." |  |
-| 3 | Шеф | Почему? Мой салат был свежий. | Why? My salad was fresh. | *(added)* |  |
-| 4 | Вика | Он говорит, что не ест траву. | He says that he does not eat grass. | #266 "Настенька, я траву не ем." |  |
-| 5 | Вика | Он требует горячий суп прямо сейчас. | He demands hot soup right now. | #276 "но он хочет супа побыстрее." |  |
-| 6 | Шеф | Пусть сначала сделает нормальный заказ. | Let him make a normal order first. | #278 "Пробивайте чек, и только после этого мы будем готовить." |  |
-| 7 | Вика | Отдайте ему суп с первого стола! | Give him the soup from table one! | #279 "Отдай ему этот суп." |  |
-| 8 | Шеф | Ты в своём уме, Вика? | Are you out of your mind, Vika? | #279 "Ты в своем уме?" |  |
-| 9 | Шеф | Этот суп ждёт другой человек. | Another person is waiting for this soup. | #280 "Нет. Этот суп для другого гостя." |  |
-| 10 | Вика | Но критик напишет ужасный отзыв! | But the critic will write a terrible review! | *(added)* |  |
-| 11 | Шеф | С меня хватит этих капризов. | I have had enough of these whims. | #277 "Все, с меня хватит. Пусть ждет." |  |
-| 12 | Шеф | Пусть ждёт суп по очереди. | Let him wait for soup in turn. | #277 "Пусть ждет." |  |
+| 1 | Вика | Виктор Петрович, у нас срочная проблема! | Viktor Petrovich, we have an urgent problem! | new | new |
+| 2 | Шеф | Вика, не кричи на кухне. | Vika, do not shout in the kitchen. | new | new |
+| 3 | Вика | Критик за столиком отказался от салата. | The critic at the table refused the salad. | #273: Критик отказался от блюда. | verbatim |
+| 4 | Шеф | Почему? Мой салат был свежий. | Why? My salad was fresh. | new | new |
+| 5 | Вика | Он говорит, что не ест траву. | He says that he does not eat grass. | #266: Настенька, я траву не ем. | verbatim |
+| 6 | Вика | Он требует горячий суп прямо сейчас. | He demands hot soup right now. | #276: но он хочет супа побыстрее. | verbatim |
+| 7 | Шеф | Пусть сначала сделает нормальный заказ. | Let him make a normal order first. | #278: Пробивайте чек, и только после этого мы будем готовить. | verbatim |
+| 8 | Вика | Отдайте ему суп с первого стола! | Give him the soup from table one! | #279: Отдай ему этот суп. | verbatim |
+| 9 | Шеф | Ты в своём уме, Вика? | Are you out of your mind, Vika? | #279: Ты в своем уме? | verbatim |
+| 10 | Шеф | Этот суп ждёт другой человек. | Another person is waiting for this soup. | #280: Нет. Этот суп для другого гостя. | verbatim |
+| 11 | Вика | Но критик напишет ужасный отзыв! | But the critic will write a terrible review! | new | new |
+| 12 | Шеф | С меня хватит этих капризов. | I have had enough of these whims. | #277: Все, с меня хватит. Пусть ждет. | verbatim |
+| 13 | Шеф | Пусть ждёт суп по очереди. | Let him wait for soup in turn. | #277: Пусть ждет. | verbatim |
 
-## Part 5 — Outro & closing
+## Walk-through narration (English only, no target-language words quoted)
 
-> In the kitchen, Victoria urges Chef Viktor to give the complaining critic another customer's soup, but Viktor refuses to bypass ordinary guests. Next time you watch the episode, listen for the Russian expressions for 'to be enough' and 'kitchen' — you will catch every word right away. See you next time!
-
-**Шеф:** Пока!
+- 'Viktor Petrovich, we have an urgent problem!' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
+- 'Vika, do not shout in the kitchen.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'The critic at the table refused the salad.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'He says that he does not eat grass.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'He demands hot soup right now.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'Give him the soup from table one!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'Are you out of your mind, Vika?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'Another person is waiting for this soup.' — inverted word order emphasizing the legitimate customer.
+- 'But the critic will write a terrible review!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'Let him wait for soup in turn.' — third person permissive word with an matching form and matching form. Now listen to the full conversation once more. Now let's listen to the whole conversation again from start to finish.

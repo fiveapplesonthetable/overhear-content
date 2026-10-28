@@ -7,8 +7,7 @@ SCENE = 25
 TITLE = "L'entretien d'embauche  (The Job Interview)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'herve': 'marcel', 'gabriel': 'theo'}
-LABELS = {'herve': 'Hervé', 'gabriel': 'Gabriel'}
+LABELS = {'gabriel': 'Gabriel', 'herve': 'Hervé', 'hicham': 'Hicham'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e04.fr.dual.srt'
 INTRO = "In Hicham's office, Gabriel steps out with his dog so Hicham can interview Hervé privately. Hervé pitches his unique talents, dedication, and keen sense of observation for the junior agent position. Let's listen to the scene in French first."
@@ -18,19 +17,19 @@ OUTRO = 'Hervé presents his case with characteristic wit and passion, showing h
 CLOSING = ('herve', 'Au revoir!')
 STORY = [
     ('gabriel', 'Jean Gabin, viens avec moi!', 'Jean Gabin, come with me!', [(736, 'Jean Gabin, viens ici !')], ''),
-    ('gabriel', 'Maintenant, nous sommes entre hommes.', 'Now, we are man-to-man.', [(737, "Maintenant, c'est entre hommes.")], ''),
-    ('gabriel', 'Comment tu envisages ce poste?', 'How do you envisage this position?', [(738, 'Comment tu envisages le poste ?')], ''),
+    ('hicham', 'Maintenant, nous sommes entre hommes.', 'Now, we are man-to-man.', [(737, "Maintenant, c'est entre hommes.")], ''),
+    ('hicham', 'Comment tu envisages ce poste?', 'How do you envisage this position?', [(738, 'Comment tu envisages le poste ?')], ''),
     ('herve', 'Je ne veux pas quitter Gabriel.', 'I do not want to leave Gabriel.', [(739, '-En quittant Gabriel ? -Oh non.')], ''),
     ('herve', 'Je continuerai à travailler avec lui.', 'I will continue to work with him.', [(740, 'Je continuerai à travailler avec lui')], ''),
     ('herve', 'Je peux faire plusieurs choses ensemble.', 'I can do several things together.', [(741, 'Je suis très ouvert à faire plusieurs choses en même temps.')], ''),
     ('herve', "Si vous m'engagez, je serai parfait.", 'If you hire me, I will be perfect.', [(742, "Si vous m'engagez, je me donnerai à fond.")], ''),
-    ('gabriel', "Qu'est-ce que vous aimez dans ce métier?", 'What do you like about this profession?', [(743, "Et... qu'est-ce que vous aimez le plus dans ce métier ?")], ''),
+    ('hicham', "Qu'est-ce que vous aimez dans ce métier?", 'What do you like about this profession?', [(743, "Et... qu'est-ce que vous aimez le plus dans ce métier ?")], ''),
     ('herve', "J'aime l'excitation de la découverte.", 'I like the excitement of discovery.', [(744, "L'excitation de la découverte.")], ''),
-    ('gabriel', 'Et quelle est votre plus grande qualité?', 'And what is your greatest quality?', [(745, 'Votre plus grande qualité ?')], ''),
+    ('hicham', 'Et quelle est votre plus grande qualité?', 'And what is your greatest quality?', [(745, 'Votre plus grande qualité ?')], ''),
     ('herve', "J'ai un grand sens de l'observation.", 'I have a great sense of observation.', [(746, "Mon sens de l'observation.")], ''),
-    ('gabriel', "Qu'allez-vous améliorer chez ASK?", 'What will you improve at ASK?', [(747, "Qu'amélioreriez-vous chez ASK ?")], ''),
+    ('hicham', "Qu'allez-vous améliorer chez ASK?", 'What will you improve at ASK?', [(747, "Qu'amélioreriez-vous chez ASK ?")], ''),
     ('herve', 'La communication, sans aucune hésitation.', 'Communication, without any hesitation.', [(748, 'La communication, sans hésiter.')], ''),
-    ('gabriel', 'Merci, nous recommencerons les entretiens demain.', 'Thank you, we will resume the interviews tomorrow.', [(763, "-À partir d'où ? -On recommence.")], ''),
+    ('hicham', 'Merci, nous recommencerons les entretiens demain.', 'Thank you, we will resume the interviews tomorrow.', [(763, "-À partir d'où ? -On recommence.")], ''),
 ]
 WALK = [
     (0, None, "'Jean Gabin, come with me!' Gabriel calls his faithful dog as he steps out of the office."),

@@ -7,15 +7,14 @@ SCENE = 9
 TITLE = 'Le coup de poing  (The Punch)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'christophe': 'theo', 'francois': 'marcel', 'lea': 'lucie'}
-LABELS = {'christophe': 'Christophe', 'francois': 'François', 'lea': 'Andréa'}
+LABELS = {'andrea': 'Andréa', 'christophe': 'Christophe', 'francois': 'François'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e06.fr.dual.srt'
 INTRO = "Back at the theatre rehearsal hall, the pool staging of Dom Juan turns into a total disaster. Director Christophe Bel insists that François Berléand stand right at the edge of the water. Insults fly, tensions explode, and François does the unthinkable. Let's listen to the scene in French first."
 OPENER = "Let's break down this dramatic escalation line by line."
 TRANSITION = "Now let's listen to the entire dialogue once more."
 OUTRO = 'François Berléand has punched his director, putting the entire production in jeopardy. See you next time!'
-CLOSING = ('lea', 'Au revoir!')
+CLOSING = ('andrea', 'Au revoir!')
 STORY = [
     ('christophe', "Depuis le début. Et plus près de l'eau.", 'From the beginning. And closer to the water.', [(230, 'Depuis le début.'), (231, "Et plus près de l'eau.")], ''),
     ('francois', "Plus près? Comment? J'ai déjà les pieds mouillés!", 'Closer? How? My feet are already wet!', [(232, 'Plus près ?'), (233, "Comment ? J'ai déjà les pieds mouillés !")], ''),
@@ -26,11 +25,11 @@ STORY = [
     ('christophe', 'Tu es raide, tu es comme un vieux beauf!', 'You are stiff, you are like an old redneck!', [(241, "T'es comme ça, t'es raide, t'es comme un vieux beauf !")], ''),
     ('francois', "C'est du théâtre, pas les Jeux olympiques!", 'This is theatre, not the Olympic Games!', [(245, "C'est du théâtre, pas les Jeux olympiques !")], ''),
     ('christophe', "Vous m'expliquez ce qu'est le théâtre? J'écoute!", 'You are explaining to me what theatre is? I am listening!', [(247, "Vous m'expliquez ce qu'est le théâtre ? Très bien, j'écoute !")], ''),
-    ('lea', "Christophe, s'il te plaît, calme-toi.", 'Christophe, please, calm down.', [(248, 'Christophe.')], ''),
+    ('andrea', "Christophe, s'il te plaît, calme-toi.", 'Christophe, please, calm down.', [(248, 'Christophe.')], ''),
     ('christophe', "Je porte ce projet depuis des mois! Personne ne fait d'effort!", 'I have been carrying this project for months! Nobody makes an effort!', [(252, 'Je porte ce projet depuis des mois !'), (253, "Personne ne fait d'effort !")], ''),
     ('christophe', 'Au secours! François?', 'Help! François?', [(255, 'Au secours ! François ?')], ''),
     ('francois', "Je suis désolé. Je ne l'ai pas fait exprès.", 'I am sorry. I did not do it on purpose.', [(258, 'Je suis désolé.'), (259, "Je ne l'ai pas fait exprès.")], ''),
-    ('lea', 'Attendez. Qui a donné le coup de poing?', 'Wait. Who threw the punch?', [(263, 'Attendez.'), (265, 'Mais qui a donné le coup de poing ?')], ''),
+    ('andrea', 'Attendez. Qui a donné le coup de poing?', 'Wait. Who threw the punch?', [(263, 'Attendez.'), (265, 'Mais qui a donné le coup de poing ?')], ''),
     ('christophe', 'Berléand! Il est parti!', 'Berléand! He walked away!', [(266, 'Berléand.')], ''),
 ]
 WALK = [

@@ -1,38 +1,40 @@
-# domashniy-arest/s01e02/scene-18.py
-ID = "domashniy-arest-s01e02-scene-18"
-SHOW = "domashniy-arest"
+# Authoring module for domashniy-arest-s01e02-scene-18.
+ID = 'domashniy-arest-s01e02-scene-18'
+SHOW = 'domashniy-arest'
 SEASON = 1
 EPISODE = 2
 SCENE = 18
 TITLE = "Губернатор не поможет  (The Governor Won't Help)"
-LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-SOURCE_NAME = "Домашний арест (Domashniy Arest) S1.02"
-SOURCE_FILE = "sources/domashniy-arest/s01/e02.ru.dual.srt"
-VOICES = {"narrator": "sky", "governor": "angelina", "anya": "alisa"}
-LABELS = {"governor": "Губернатор", "anya": "Аркадий"}
+LEVEL = 'A1 — Duolingo Section 2'
+PAIR = 'ru-en'
+LABELS = {'arkady': 'Аркадий', 'governor': 'Губернатор'}
+SOURCE_NAME = 'Домашний арест (Domashniy Arest) S1.02'
+SOURCE_FILE = 'sources/domashniy-arest/s01/e02.ru.dual.srt'
 INTRO = "Still in the Samsonovs' room, Arkady has the number at last. Last time, he sent the children out and dialled the governor, Viktor Stepanovich, whom he once saved in his phone under the name 'Pig'. The governor answers in the middle of a judo session with his coach, and he already knows a few things about Arkady. Let's listen in Russian first."
-STORY = [
-    ("anya", "Виктор Степанович, Аникеев беспокоит.", "Viktor Stepanovich, it's Anikeev calling.", [(539, 'Виктор Степанович, Аникеев беспокоит')], "'вас' dropped"),
-    ("governor", "Ой, какие люди! Ну, Аркаша, как дела?", "Well, look who it is! So, Arkasha, how are things?", [(540, 'Ой, какие люди'), (541, 'Ну, Аркаша, как дела')], ""),
-    ("anya", "Плохо. Очень плохо, Виктор Степанович.", "Bad. Very bad, Viktor Stepanovich.", [(542, 'Плохо'), (543, 'очень плохо, Виктор Степанович')], "'К сожалению' (unfortunately) dropped"),
-    ("governor", "Я знаю. А зачем ты мне звонишь?", "I know. So why are you calling me?", [(544, 'Я знаю')], "second sentence: plain version of cue 545 'А мне-то чего звонишь?'"),
-    ("anya", "Мне очень нужна ваша помощь.", "I really need your help.", [(546, 'Мне очень')], "cue 546 'Мне очень помощь ваша нужна' in standard word order"),
-    ("governor", "Как интересно! А в Москве ты про меня гадости рассказываешь.", "How interesting! And in Moscow you go around saying nasty things about me.", [(547, 'как интересно'), (549, 'про меня'), (549, 'гадости рассказываешь')], "'всякие' dropped; the crude insults of cues 548 and 551 left out"),
-    ("governor", "Я знаю, как я у тебя в телефоне записан. Свин.", "I know what I'm saved as in your phone. 'Pig'.", [(552, 'Я знаю, как я у тебя в телефоне записан'), (553, 'Свин')], ""),
-    ("anya", "Это неправда! Вы у меня записаны как Батя.", "That's not true! I have you saved as 'Dad'.", [(557, 'Вы у меня'), (557, 'записаны')], "'Это неправда' replaces 'это поклёп' (slander, garbled 'поклёб' in cues 555-556); 'как' added"),
-    ("governor", "Мне некогда.", "I haven't got time.", [(560, 'Мне некогда')], ""),
-    ("anya", "Не бросайте трубку, умоляю вас! Я перед вами стою на коленях.", "Don't hang up, I'm begging you! I'm on my knees in front of you.", [(568, 'не бросайте трубку, умоляю вас'), (569, 'перед вами стою на коленях')], "Arkady calls back after being cut off (cues 561-567)"),
-    ("anya", "Простите меня. Вы самый эффективный!", "Forgive me. You're the most effective of all!", [(570, 'простите меня'), (573, 'Вы самый эффективный')], "the self-insults of cues 570-571 left out"),
-    ("governor", "Ну всё. Что ты хочешь?", "All right, that's enough. What do you want?", [(576, 'Ну все'), (577, 'хочешь')], "'Чего хочешь?' -> 'Что ты хочешь?' (standard)"),
-    ("anya", "Меня жена бросила. Два пальца сломаны.", "My wife has left me. Two of my fingers are broken.", [(581, 'Меня жена бросила'), (582, 'два пальца сломаны')], ""),
-    ("governor", "Правильно.", "Serves you right.", [(584, 'Правильно')], "the rest of cue 584 left out"),
-    ("anya", "Помогите мне! Я в долгу не останусь.", "Help me! I'll pay you back, I promise.", [(587, 'Я в долгу не останусь')], "'Помогите мне!' new: plain version of cue 586 (get me out of here)"),
-    ("governor", "Ты у Третьякова под личным контролем.", "You're under Tretyakov's personal control.", [(590, 'Ты у Третьякова под личным контролем')], ""),
-    ("anya", "А может быть, вы ему сами позвоните?", "But maybe you could call him yourself?", [(593, 'а может быть, вы ему сами')], "'наберёте' -> 'позвоните' (plain word)"),
-    ("governor", "Позвонить Третьякову? Я что, с ума сошёл?", "Call Tretyakov? What, have I lost my mind?", [(594, 'Позвонить Третьякову'), (594, 'Я что, с ума')], "'что ли' dropped"),
-]
 OPENER = "Let's go through the call slowly. Arkady starts very politely, the way you'd speak to a powerful man."
+TRANSITION = 'Now listen to the whole call once more.'
+OUTRO = "After the call, the governor tells his staff not to put Arkady through again, poses for a staged judo photo with the slogan 'We are all crazy about judo', and back in the flat Slavik proudly calls a friend on the iPhone, which only needed mobile data switched on. Poor Arkady. See you next time!"
+CLOSING = ('governor', 'Пока!')
+STORY = [
+    ('arkady', 'Виктор Степанович, Аникеев беспокоит.', "Viktor Stepanovich, it's Anikeev calling.", [(539, 'Виктор Степанович, Аникеев беспокоит')], "'вас' dropped"),
+    ('governor', 'Ой, какие люди! Ну, Аркаша, как дела?', 'Well, look who it is! So, Arkasha, how are things?', [(540, 'Ой, какие люди'), (541, 'Ну, Аркаша, как дела')], ''),
+    ('arkady', 'Плохо. Очень плохо, Виктор Степанович.', 'Bad. Very bad, Viktor Stepanovich.', [(542, 'Плохо'), (543, 'очень плохо, Виктор Степанович')], "'К сожалению' (unfortunately) dropped"),
+    ('governor', 'Я знаю. А зачем ты мне звонишь?', 'I know. So why are you calling me?', [(544, 'Я знаю')], "second sentence: plain version of cue 545 'А мне-то чего звонишь?'"),
+    ('arkady', 'Мне очень нужна ваша помощь.', 'I really need your help.', [(546, 'Мне очень')], "cue 546 'Мне очень помощь ваша нужна' in standard word order"),
+    ('governor', 'Как интересно! А в Москве ты про меня гадости рассказываешь.', 'How interesting! And in Moscow you go around saying nasty things about me.', [(547, 'как интересно'), (549, 'про меня'), (549, 'гадости рассказываешь')], "'всякие' dropped; the crude insults of cues 548 and 551 left out"),
+    ('governor', 'Я знаю, как я у тебя в телефоне записан. Свин.', "I know what I'm saved as in your phone. 'Pig'.", [(552, 'Я знаю, как я у тебя в телефоне записан'), (553, 'Свин')], ''),
+    ('arkady', 'Это неправда! Вы у меня записаны как Батя.', "That's not true! I have you saved as 'Dad'.", [(557, 'Вы у меня'), (557, 'записаны')], "'Это неправда' replaces 'это поклёп' (slander, garbled 'поклёб' in cues 555-556); 'как' added"),
+    ('governor', 'Мне некогда.', "I haven't got time.", [(560, 'Мне некогда')], ''),
+    ('arkady', 'Не бросайте трубку, умоляю вас! Я перед вами стою на коленях.', "Don't hang up, I'm begging you! I'm on my knees in front of you.", [(568, 'не бросайте трубку, умоляю вас'), (569, 'перед вами стою на коленях')], 'Arkady calls back after being cut off (cues 561-567)'),
+    ('arkady', 'Простите меня. Вы самый эффективный!', "Forgive me. You're the most effective of all!", [(570, 'простите меня'), (573, 'Вы самый эффективный')], 'the self-insults of cues 570-571 left out'),
+    ('governor', 'Ну всё. Что ты хочешь?', "All right, that's enough. What do you want?", [(576, 'Ну все'), (577, 'хочешь')], "'Чего хочешь?' -> 'Что ты хочешь?' (standard)"),
+    ('arkady', 'Меня жена бросила. Два пальца сломаны.', 'My wife has left me. Two of my fingers are broken.', [(581, 'Меня жена бросила'), (582, 'два пальца сломаны')], ''),
+    ('governor', 'Правильно.', 'Serves you right.', [(584, 'Правильно')], 'the rest of cue 584 left out'),
+    ('arkady', 'Помогите мне! Я в долгу не останусь.', "Help me! I'll pay you back, I promise.", [(587, 'Я в долгу не останусь')], "'Помогите мне!' new: plain version of cue 586 (get me out of here)"),
+    ('governor', 'Ты у Третьякова под личным контролем.', "You're under Tretyakov's personal control.", [(590, 'Ты у Третьякова под личным контролем')], ''),
+    ('arkady', 'А может быть, вы ему сами позвоните?', 'But maybe you could call him yourself?', [(593, 'а может быть, вы ему сами')], "'наберёте' -> 'позвоните' (plain word)"),
+    ('governor', 'Позвонить Третьякову? Я что, с ума сошёл?', 'Call Tretyakov? What, have I lost my mind?', [(594, 'Позвонить Третьякову'), (594, 'Я что, с ума')], "'что ли' dropped"),
+]
 WALK = [
     (0, None, "'Viktor Stepanovich, it's Anikeev calling.' He uses the governor's first name and father's name, the polite Russian way to address a boss. The verb literally means 'is disturbing you', the humble way to introduce yourself on the phone. The governor sounds almost cheerful."),
     (1, 'Ой, какие люди!', "'Well, look who it is!' Word for word, 'oh, what people!', said when someone important, or someone unexpected, turns up."),
@@ -56,6 +58,3 @@ WALK = [
     (16, None, "'But maybe you could call him yourself?' The word for 'yourself' here is a plural form, to go with the polite 'you'. The governor nearly drops the phone."),
     (17, None, "'Call Tretyakov? What, have I lost my mind?' Literally, 'have I gone off my mind'. Even the governor is afraid of the man in Moscow."),
 ]
-TRANSITION = "Now listen to the whole call once more."
-OUTRO = "After the call, the governor tells his staff not to put Arkady through again, poses for a staged judo photo with the slogan 'We are all crazy about judo', and back in the flat Slavik proudly calls a friend on the iPhone, which only needed mobile data switched on. Poor Arkady. See you next time!"
-CLOSING = ("governor", "Пока!")

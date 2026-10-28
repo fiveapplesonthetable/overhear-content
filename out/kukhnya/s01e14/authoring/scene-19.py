@@ -5,31 +5,30 @@ SEASON = 1
 EPISODE = 14
 SCENE = 19
 TITLE = "План Макса  (Max's Plan)"
-LEVEL = "A1 — Duolingo Section 2"
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-VOICES = {"narrator": "sky", "ilya": "anja", "anya": "alisa"}
-LABELS = {"ilya": "Илья", "anya": "Макс"}
+LABELS = {'ilya': 'Илья', 'max': 'Макс', 'sasha': 'Саша'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.14'
 SOURCE_FILE = 'sources/kukhnya/s01/e14.ru.dual.srt'
 INTRO = 'In a brief moment of chaos, Max realizes he needs to take control of a difficult situation. He tells his colleagues that they will figure it out and urges them to go. Let us listen to their conversation in Russian first.'
 OPENER = 'Now let us examine the conversation line by line.'
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "In a brief moment of chaos, Max realizes he needs to take control of a difficult situation. He tells his colleagues that they will figure it out and urges them to go. Next time you watch the episode, listen for the Russian expressions for 'to sort out' and 'to be' — you will catch every word right away. See you next time!"
-CLOSING = ("ilya", "Пока!")
+CLOSING = ('ilya', 'Пока!')
 STORY = [
-    ('anya', 'Ладно, мы разберёмся с этим.', 'Alright, we will figure this out.', [(280, 'Ладно, разберёмся.')], ''),
-    ('anya', 'Всё будет хорошо.', 'Everything will be fine.', [], ''),
+    ('max', 'Ладно, мы разберёмся с этим.', 'Alright, we will figure this out.', [(280, 'Ладно, разберёмся.')], ''),
+    ('max', 'Всё будет хорошо.', 'Everything will be fine.', [], ''),
     ('ilya', 'Что нам делать сейчас?', 'What should we do now?', [], ''),
-    ('anya', 'Поехали.', "Let's go.", [(281, 'Поехали.')], ''),
-    ('ilya', 'Куда мы едем?', 'Where are we going?', [], ''),
-    ('anya', 'Мы никуда не едем.', 'We are not going anywhere.', [], ''),
-    ('anya', 'Это значит, что мы начинаем.', 'It means that we are starting.', [], ''),
+    ('max', 'Поехали.', "Let's go.", [(281, 'Поехали.')], ''),
+    ('sasha', 'Куда мы едем?', 'Where are we going?', [], ''),
+    ('max', 'Мы никуда не едем.', 'We are not going anywhere.', [], ''),
+    ('max', 'Это значит, что мы начинаем.', 'It means that we are starting.', [], ''),
     ('ilya', 'Теперь я всё понял.', 'Now I understand everything.', [(282, 'Теперь')], ''),
-    ('ilya', 'Тогда давайте работать.', "Then let's work.", [], ''),
-    ('anya', 'Да, за работу.', 'Yes, back to work.', [], ''),
+    ('sasha', 'Тогда давайте работать.', "Then let's work.", [], ''),
+    ('max', 'Да, за работу.', 'Yes, back to work.', [], ''),
     ('ilya', 'У нас мало времени.', 'We have little time.', [], ''),
-    ('ilya', 'Мы должны успеть.', 'We must be in time.', [], ''),
-    ('anya', 'Конечно мы успеем.', 'Of course we will be in time.', [], ''),
+    ('sasha', 'Мы должны успеть.', 'We must be in time.', [], ''),
+    ('max', 'Конечно мы успеем.', 'Of course we will be in time.', [], ''),
     ('ilya', 'Тогда начинаем прямо сейчас.', 'Then we start right now.', [], ''),
 ]
 WALK = [

@@ -7,7 +7,6 @@ SCENE = 7
 TITLE = "L'offre empoisonnée  (The Poisoned Offer)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {'narrator': 'sky', 'elise': 'emilie', 'gabriel': 'theo'}
 LABELS = {'elise': 'Élise', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e06.fr.dual.srt'

@@ -1,39 +1,39 @@
-# Высокое давление  (High Blood Pressure) — `kukhnya-s01e15-scene-10`
+# kukhnya-s01e15-scene-10: review sheet
 
-**Source:** Кухня (Kukhnya) S1.15 · `sources/kukhnya/s01/e15.ru.dual.srt`  
-**Target level:** A1 — Duolingo Section 2
+Title: Высокое давление  (High Blood Pressure)
+Level: A1 — Duolingo Section 2
+Pair: ru-en
+Source: Кухня (Kukhnya) S1.15
 
-## Cast
 
-| Role | Voice | Label |
-|---|---|---|
-| `narrator` | sky | — |
-| `lyova` | angelina | Лёва |
-| `mama` | anja | Мама |
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
-## Part 1 — Intro
-
-> Leva measures Chef Victor's blood pressure and finds it dangerously high. He warns Victor about the risks. Meanwhile, Leva also talks to his mother on the phone about his stressful demotion. Let us listen to their conversation in Russian first.
-
-## Part 2 — Story
-
-| # | Speaker | Line | English | Source cue(s) | Change |
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 0 | Лёва | Сто шестьдесят на девяносто. | One hundred sixty over ninety. | #172 "160 на 90." |  |
-| 1 | Лёва | Виктор Петрович, это не шутки. | Viktor Petrovich, this is not a joke. | #173 "Виктор Петрович, это не шутки." |  |
-| 2 | Лёва | Такое давление — это очень опасно. | Such pressure is very dangerous. | #174 "Такое давление — это буревестник инфаркта." |  |
-| 3 | Мама | Да, всё будет хорошо. | Yes, everything will be fine. | *(added)* |  |
-| 4 | Лёва | Любой стресс и будет плохо. | Any stress and it will be bad. | #175 "Да, какой-нибудь стресс и…" |  |
-| 5 | Лёва | Привет, мама. | Hi, Mom. | #176 "Привет, мам. Привет." |  |
-| 6 | Мама | Как прошёл твой рабочий день? | How was your workday? | #177 "Как прошел рабочий день?" |  |
-| 7 | Лёва | Нормально, меня уволили. | Fine, they fired me. | #178 "Нормально. Меня уволили." |  |
-| 8 | Мама | Не уволили, а понизили. | Not fired, but demoted. | #179 "Не уволили, а понизили в воспитательных целях." |  |
-| 9 | Лёва | Мама, я ни в чём не виноват. | Mom, I am not guilty of anything. | #181 "За опоздание. Мама, я не виноват." |  |
-| 10 | Мама | Надо уметь отвечать за свои поступки. | You must know how to answer for your actions. | #184 "Нет-нет-нет. Надо уметь отвечать за свои поступки." |  |
-| 11 | Лёва | Спасибо тебе за поддержку, мама. | Thank you for the support, Mom. | #186 "Спасибо тебе, мама, за поддержку." |  |
+| 1 | Лёва | Сто шестьдесят на девяносто. | One hundred sixty over ninety. | #172: 160 на 90. | verbatim |
+| 2 | Лёва | Виктор Петрович, это не шутки. | Viktor Petrovich, this is not a joke. | #173: Виктор Петрович, это не шутки. | verbatim |
+| 3 | Лёва | Такое давление — это очень опасно. | Such pressure is very dangerous. | #174: Такое давление — это буревестник инфаркта. | verbatim |
+| 4 | Шеф | Да, всё будет хорошо. | Yes, everything will be fine. | new | new |
+| 5 | Лёва | Любой стресс и будет плохо. | Any stress and it will be bad. | #175: Да, какой-нибудь стресс и… | verbatim |
+| 6 | Лёва | Привет, мама. | Hi, Mom. | #176: Привет, мам. Привет. | verbatim |
+| 7 | Мама | Как прошёл твой рабочий день? | How was your workday? | #177: Как прошел рабочий день? | verbatim |
+| 8 | Лёва | Нормально, меня уволили. | Fine, they fired me. | #178: Нормально. Меня уволили. | verbatim |
+| 9 | Мама | Не уволили, а понизили. | Not fired, but demoted. | #179: Не уволили, а понизили в воспитательных целях. | verbatim |
+| 10 | Лёва | Мама, я ни в чём не виноват. | Mom, I am not guilty of anything. | #181: За опоздание. Мама, я не виноват. | verbatim |
+| 11 | Мама | Надо уметь отвечать за свои поступки. | You must know how to answer for your actions. | #184: Нет-нет-нет. Надо уметь отвечать за свои поступки. | verbatim |
+| 12 | Лёва | Спасибо тебе за поддержку, мама. | Thank you for the support, Mom. | #186: Спасибо тебе, мама, за поддержку. | verbatim |
 
-## Part 5 — Outro & closing
+## Walk-through narration (English only, no target-language words quoted)
 
-> Leva measures Chef Victor's blood pressure and finds it dangerously high. He warns Victor about the risks. Meanwhile, Leva also talks to his mother on the phone about his stressful demotion. Next time you watch the episode, listen for the Russian expressions for 'joke' and 'blood pressure' — you will catch every word right away. See you next time!
-
-**Лёва:** Пока!
+- 'One hundred sixty over ninety.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'a hundred' straight to 'ninety'.
+- 'Viktor Petrovich, this is not a joke.' — Notice the proper name meaning 'Viktor' paired with the proper name for 'Petrovich'.
+- 'Such pressure is very dangerous.' Russian omits the present-tense verb 'to be' here, linking 'blood pressure' directly with 'very much', combining 'blood pressure' with 'very much' and 'dangerous'.
+- 'Yes, everything will be fine.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'Any stress and it will be bad.' Lyova puts the word for 'any' together with 'stress' and 'will be' in a crisp, natural spoken turn of phrase.
+- 'Hi, Mom.' Russian omits the present-tense verb 'to be' here, linking 'hi' directly with 'mum', combining 'hi' with 'mum'.
+- 'How was your workday?' The phrasing opens with 'how' before bringing in 'passed' and 'working' to make the point clear.
+- 'Fine, they fired me.' Lyova expresses this naturally by combining the word for 'fine' with 'to fire'.
+- 'Not fired, but demoted.' the speaker uses the action verb meaning 'to fire' to focus on the single completed result, pairing it with 'demote'.
+- 'Mom, I am not guilty of anything.' Russian omits the present-tense verb 'to be' here, linking 'mum' directly with 'at fault', combining 'mum' with 'at fault'.
+- 'You must know how to answer for your actions.' The phrasing opens with 'it is necessary' before bringing in 'to know how' and 'to answer' to make the point clear.
+- 'Thank you for the support, Mom.' Russian omits the present-tense verb 'to be' here, linking 'thank you' directly with 'support', combining 'thank you' with 'support' and 'mum'.
