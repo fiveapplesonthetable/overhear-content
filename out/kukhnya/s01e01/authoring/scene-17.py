@@ -32,7 +32,7 @@ STORY = [
 ]
 WALK = [
     (0, None, '\'Wait a minute... What are you doing here at all?\' "Podozhdi" is the friendly command "wait", and "minutu" takes an -u. "Vobshche" is "at all", the word that makes her sound exasperated.'),
-    (1, None, '\'Hello, I am simply strolling through your restaurant.\' "Privet" is the casual hello, as opposed to the long polite one. "Po tvoyemu restoranu" is "around your restaurant", with the ending that "po" calls for.'),
+    (1, None, '\'Hello, I am simply strolling through your restaurant.\' "Privet" is the casual hello, as opposed to the long polite one. "Po tvoyemu restoranu" is "around your restaurant": "po" calls for that ending.'),
     (2, None, '\'How did you dare to come into my establishment?\' "Posmel" is "dared", with -l. "Zavedeniye" is a word for any place that\'s been "set up": restaurant, cafe, bar. It sounds a little grand, which suits Vika.'),
     (3, None, '\'I was just chatting for a long time with your head chef.\' "Tol\'ko chto" is "just now", literally "only what". "Boltal" is slang for chatting. Here Max says "vashim", the polite "your", after "tvoyemu" earlier, so he slides between friendly and formal.'),
     (4, None, '\'And what did you talk with him about?\' "O chyom" is "about what": "chto" turns into "chyom" after "o". "S nim" is "with him", and Russian adds an "n" to "him" after "s".'),

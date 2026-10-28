@@ -27,7 +27,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Delighted to welcome you to the finest restaurant!' "Rad" is "glad", used for "delighted". "Privetstvovat'" is "to welcome", and it has "privet", hi, inside it.
+- 'Delighted to welcome you to the finest restaurant!' "Rad" is "glad", used for "delighted". "Privetstvovat'", "to welcome", has "privet", hi, inside it.
 - 'We are opening our restaurant in two weeks.' "Cherez dve nedeli" is "in two weeks", literally "through two weeks". "Dve" is the feminine "two", because "nedelya" is feminine.
 - 'Meet her, this is my chef Elena.' "Poznakomsya" is "get acquainted", from "znakomyy", familiar. Elena is a woman, but "povar" stays masculine, so Mark says "moy shef-povar", not a feminine form.
 - 'She worked at the very best restaurant.' "Rabotala" is "worked", with -la for a woman. "V samom luchshem restorane" is "in the very best restaurant".
@@ -40,4 +40,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Very well, I will notify the head chef immediately.' "Nemedlenno" is "ne" plus "medlenno", slowly: not slowly, so immediately. "Preduprezhu" is "I will warn", in one word.
 - 'In the kitchen they are already preparing this order.' "Gotovyat" is "they prepare", again with no named subject. "Zakaz" is "order", the word the chef used in "according to your order".
 - 'In our kitchen the best masters work.' "U nas na kukhne" is "at us on the kitchen", Russian for "in our kitchen". "Mastera" is a plural in "-a", like "povara", cooks.
-- 'I will personally oversee this dish.' "Proslezhu" is "I will watch through", the family of "prosledi" from the kitchen. "Za etim blyudom" is "over this dish", with the ending that "za" calls for.
+- 'I will personally oversee this dish.' "Proslezhu" is "I will watch through", the family of "prosledi" from the kitchen. "Za etim blyudom" is "over this dish", the ending that "za" calls for.

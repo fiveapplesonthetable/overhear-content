@@ -39,5 +39,5 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'All right, I will give you one chance.' "Dam" is "I will give", irregular and short. "Tebe" is "to you", the friendly form.
 - 'Our regular guest has arrived.' "Postoyannyy" means "regular", from "postoyanno", constantly. "K nam prishyol" is "has come to us".
 - 'You will prepare dessert for Eleonora Andreyevna.' Names change after "dlya", even the father's name: "Eleonora" becomes "Eleonory", and "Andreyevna" becomes "Andreyevny".
-- 'If the dessert is liked, you will stay here.' "Ponravitsya" is "will please", the future of "nravit'sya". "Ostanyosh'sya" is "you will stay", with a "self" on the end.
+- 'If the dessert is liked, you will stay here.' "Ponravitsya" is "will please", the future of "nravit'sya". "Ostanyosh'sya" is "you will stay", the "self" ending included.
 - 'Agreed, chef! I will make the best dessert.' "Dogovorilis'" is "we have agreed", the same word as "we didn't agree". "Luchshiy" already means "best", with no need for "very".

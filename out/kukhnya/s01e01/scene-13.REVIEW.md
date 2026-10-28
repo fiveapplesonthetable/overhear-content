@@ -26,14 +26,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Viktor, we need to urgently talk about work.' "Nam nuzhno" is "to us needed", the same pattern as "mne nuzhna". "Pogovorit'" is "to have a talk", and "o rabote" is "about work", with -e after "o".
-- 'Dima, the restaurant is full and all guests are happy.' That name is a short, friendly form of Dmitry, which Barinov uses with his boss. "Polon" is "full", and "dovol'ny" is "satisfied", with the plural -y.
+- 'Dima, the restaurant is full and all guests are happy.' That name is a short, friendly form of Dmitry, which Barinov uses with his boss. "Polon" is "full", and "dovol'ny" is "satisfied", plural in -y.
 - 'Tonight I invited competitors over to our place.' "Segodnya vecherom" is "this evening", with "vecherom" taking -om, as parts of the day often do. "Priglasil" is a one-time "invited", and "konkurenty" is borrowed.
-- 'Why are you inviting these strange people?' "Zachem" is "what for", a different question from "pochemu", which asks the reason. "Etikh strannykh lyudey" is plural, and "lyudi" is the irregular word for "people".
+- 'Why are you inviting these strange people?' "Zachem" is "what for", a different question from "pochemu", which asks the reason. "Etikh strannykh lyudey" is plural. "Lyudi" is the irregular word for "people".
 - 'Our neighbor is opening a new restaurant next door.' "Sosed" is neighbour, and "za stenoy" is literally "behind the wall", Russian for "next door". "Otkryvayet" is "opens".
 - 'We will prepare the very best dish for them.' "Prigotovim" is "we will prepare", one word. "Dlya nikh" is "for them", and Russian puts an "n" on "them" after little words like "dlya".
 - 'They brought a new chef straight from India.' "Priveli" is "brought", but for a person, by leading. For a thing it would be "prinesli". "Shef-povar" is "chef" and "cook" stuck together.
-- 'They would have done better finding a cook from Tajikistan.' "Luchshe" is "better", the same family as "luchshiy", best. The small word "by" is what makes the sentence "would have".
-- 'You must greatly surprise our guests.' "Dolzhen" is "must", and a woman would say "dolzhna". "Udivit'" is "to surprise", and it's the same root as "udivitel'nykh", surprising, from the night scene.
-- 'My signature cuisine will amaze absolutely everyone.' "Avtorskaya kukhnya" is "author's cuisine", a phrase for a chef's own style, as if the chef were a writer. "Porazit" is "will amaze" in a single word.
+- 'They would have done better finding a cook from Tajikistan.' "Luchshe" is "better", a cousin of "luchshiy", best. The small word "by" is what makes the sentence "would have".
+- 'You must greatly surprise our guests.' "Dolzhen" is "must", and a woman would say "dolzhna". "Udivit'" is "to surprise", sharing a root with "udivitel'nykh", surprising, from the night scene.
+- 'My signature cuisine will amaze absolutely everyone.' "Avtorskaya kukhnya" is "author's cuisine", a phrase for a chef's own style, as if the chef were a writer. "Porazit" is "will amaze".
 - 'If you make a mistake, I will fire you immediately.' "Yesli" is "if". "Oshibyosh'sya" is built from "oshibka", a mistake, with a "self" on the end. "Uvolyu" is "I will fire", one word.
 - 'Do not worry, the chef always keeps his word.' "Ne volnuysya" is "don't worry", a command with "self". Barinov calls himself "shef" in the third person. "Derzhit slovo" is "holds the word", the same "hold" as "hold the menu".

@@ -30,9 +30,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'You ruined the meat sauce with this.' "Isportil" is "portit'", to spoil, with "is-" on the front, so "you spoiled it for good". "Sous dlya myasa" is "sauce for meat", and "myaso" becomes "myasa" after "dlya".
 - 'I simply wanted to add a vivid aroma.' "Khotel" is "wanted", with -l for a man. "Yarkiy" is bright, usually for colours, so Max is claiming the sauce would have been vivid. "Aromat" is borrowed.
 - 'A real chef feels every taste of the dish.' "Nastoyashchiy" is "real", the word from "true love". "Vkus bluda" is "taste of the dish", and "blyudo" changes to "bluda" for "of".
-- 'Forgive me, Chef, I will not do it anymore.' "Prostite" is the polite "forgive", and Max uses it with his boss. "Ya ne budu" is "I won't be", and Russians leave it at that: a bare "ne budu" means "I won't do it again".
+- 'Forgive me, Chef, I will not do it anymore.' Max uses the formal "prostite", "forgive", with his boss. "Ya ne budu" is "I won't be", and Russians leave it at that: a bare "ne budu" means "I won't do it again".
 - 'Take a good bottle on the top shelf.' "Voz'mi" is "take", an irregular command people simply learn. "Verkhniy" is "top", from "verkh", the peak, and "polka" is "shelf", ending in -e after "na", "on".
-- 'Now I will quickly bring the needed wine.' "Seychas" means "right now", though it often means "in a moment". "Prinesu" is "I will bring", and it's family to "prinesite" from the bar: same root, different ending.
+- 'Now I will quickly bring the needed wine.' "Seychas" means "right now", though it often means "in a moment". "Prinesu" is "I will bring", the "prinesite" of the bar scene with a different ending.
 - 'And begin making this sauce anew!' "Nachni" is the command "begin". "Zanovo" is "anew", and you can hear "novyy", new, inside it.
 - 'I will do everything correctly right now.' "Sdelayu" has an "s-" on the front that means "done", so it's "I will have done". "Pryamo seychas" is "straight now", meaning "this very second".
 - 'Watch carefully the temperature on the stove.' "Vnimatel'no" comes from "vnimaniye", attention. "Smotri za" is "keep an eye on", literally "look behind". And "plita" becomes "plite" after "na", "on".

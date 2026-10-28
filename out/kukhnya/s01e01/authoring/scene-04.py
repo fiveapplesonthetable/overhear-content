@@ -38,7 +38,7 @@ WALK = [
     (2, 'Нет, просто ухожу.', '\'No, I\'m just leaving.\' "Prosto", "simply", is back, and it makes the sentence sound like a shrug. "Ukhozhu" uses the same "u-" for "away" as Vika\'s "run away", this time on foot.'),
     (3, None, '\'Just like that? And that\'s all?\' "Vot tak" is "like so", and "i vsyo" is "and everything". Put together, "i vsyo?" is how Russians say "and that\'s it?", a very handy reaction.'),
     (4, None, '\'What about what was between us?\' Word for word it\'s "and that what between us was". "Nami" is "us" in the form that comes after "between", and "bylo", "was", is the neuter one, because it refers to "that".'),
-    (5, 'Спасибо. Прикольно было.', '\'Thank you. It was fun.\' "Prikol\'no" is slang for fun or cool, built on "prikol", a gag or a joke. It\'s exactly the wrong word to use after a night like this, and she hears it that way.'),
+    (5, 'Спасибо. Прикольно было.', '\'Thank you. It was fun.\' "Prikol\'no" is slang for fun or cool, from "prikol", a gag or a joke. It\'s exactly the wrong word to use after a night like this, and she hears it that way.'),
     (6, None, "'Fun, and that's it?' Vika picks up his slang word and hands it straight back. Repeating someone's word is the quickest way in any language to say you didn't like it."),
     (7, None, '\'What else?\' "A chto yeshchyo" is "and what more". The "a" at the start works like "so" in English, and Max sounds blank.'),
     (8, None, '\'Oh, come on.\' "Da ladno" is literally "yes, fine", but with the right tone it means "come on!" or "you can\'t be serious". "Tebe" on the end, "to you", adds a bit of scolding.'),

@@ -44,6 +44,6 @@ WALK = [
     (9, None, '\'All right, I will give you one chance.\' "Dam" is "I will give", irregular and short. "Tebe" is "to you", the friendly form.'),
     (10, None, '\'Our regular guest has arrived.\' "Postoyannyy" means "regular", from "postoyanno", constantly. "K nam prishyol" is "has come to us".'),
     (11, None, '\'You will prepare dessert for Eleonora Andreyevna.\' Names change after "dlya", even the father\'s name: "Eleonora" becomes "Eleonory", and "Andreyevna" becomes "Andreyevny".'),
-    (12, None, '\'If the dessert is liked, you will stay here.\' "Ponravitsya" is "will please", the future of "nravit\'sya". "Ostanyosh\'sya" is "you will stay", with a "self" on the end.'),
+    (12, None, '\'If the dessert is liked, you will stay here.\' "Ponravitsya" is "will please", the future of "nravit\'sya". "Ostanyosh\'sya" is "you will stay", the "self" ending included.'),
     (13, None, '\'Agreed, chef! I will make the best dessert.\' "Dogovorilis\'" is "we have agreed", the same word as "we didn\'t agree". "Luchshiy" already means "best", with no need for "very".'),
 ]

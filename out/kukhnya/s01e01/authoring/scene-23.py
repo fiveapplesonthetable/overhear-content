@@ -33,17 +33,17 @@ STORY = [
 ]
 WALK = [
     (0, None, '\'You are doing great at everything, Max!\' "Zdorovo" is casual for "great", and it comes from "zdorov\'ye", health, as does the long hello. "U tebya vsyo poluchayetsya" is "at you everything works out".'),
-    (1, None, '\'Too bad only that the chef won\'t appreciate this.\' "Zhalko" is one word for "what a pity", with no "it is". "Otsenit" is "will appreciate", and it comes from "tsena", price.'),
+    (1, None, '\'Too bad only that the chef won\'t appreciate this.\' "Zhalko" says "what a pity" with no "it is". "Otsenit", "will appreciate", comes from "tsena", price.'),
     (2, None, '\'We will see about that yet.\' "My s toboy" is "we with you", for "you and I". "Eshchyo posmotrim" is "we\'ll yet see", a defiant "we\'ll see about that".'),
     (3, None, '\'Why, he won\'t even taste it!\' "Ne stanet probovat\'" is "will not become to taste", Russian for "won\'t go so far as to taste". The opening "da" adds a "come on" feeling.'),
     (4, None, '\'And if he tastes it, he won\'t like it.\' "Yemu" is "to him". "Poprobuyet" is "will try", and "ne ponravitsya" is "won\'t be pleasing".'),
-    (5, None, '\'I know our chef very well.\' "Znayu" is "I know", for people and facts. "Nashego shefa" is "our chef", with the endings for an object.'),
+    (5, None, '\'I know our chef very well.\' "Znayu" is "I know", for people and facts. "Nashego shefa" is "our chef", both words in the object shape.'),
     (6, None, '\'Wait, we need a more objective opinion.\' "Boleye" is "more", placed before a describing word: "boleye ob\'\'yektivnaya". "Otsenka" is "opinion", from "otsenit\'".'),
     (7, None, '\'Let someone else taste it first.\' "Pust\'" is "let", and "kto-nibud\' drugoy" is "someone else". "Snachala" is "first", or "at the beginning".'),
     (8, None, '\'How long must one wait for the hot dish?\' "Skol\'ko mozhno" is "how much is possible", Russian for "how long must we". "Zhdat\'" takes the dish directly, with no "for".'),
-    (9, None, '\'One has to do everything herself in this kitchen.\' "Prikhoditsya" is "it falls to one", built on "prikhodit\'", to come. "Samoy" is "herself", with the ending for a woman.'),
+    (9, None, '\'One has to do everything herself in this kitchen.\' "Prikhoditsya" is "it falls to one", from "prikhodit\'", to come. "Samoy" is "herself", in the form for a woman.'),
     (10, None, '\'I will carry it to the hall myself right now.\' "Otnesu" is "I will carry away", with "ot-" where "prinesu" had "pri-". "V zal" has no ending because he\'s going to it.'),
     (11, None, '\'Step aside and go back to work!\' "Otoydi v storonu" is "step to the side". "Idi rabotay" is two commands in a row, "go work", meaning "go and work".'),
-    (12, None, '\'This dish is made according to all rules.\' "Sdelano" is "made", short and neuter to match "blyudo". "Po vsem pravilam" is "according to all rules", with the ending "-am".'),
+    (12, None, '\'This dish is made according to all rules.\' "Sdelano" is "made", short and neuter to match "blyudo". "Po vsem pravilam" is "according to all rules": the "-am" follows "po".'),
     (13, None, '\'The clients have been waiting for their delicious dinner for a long time.\' "Davno zhdut" is "long they wait", and Russian uses the present for something that began a while ago. "Svoy" is "their own".'),
 ]

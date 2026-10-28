@@ -41,7 +41,7 @@ WALK = [
     (7, None, '\'I want to work as a cook in a restaurant.\' Here\'s the matching ending. "Povar" is a cook, and "povarom" is "as a cook". Russian has no word for "a", so the ending does that job. "V restorane" gets its own -e because of the "v", "in".'),
     (8, None, '\'Really? I work in a restaurant too!\' "Pravda" means "truth", so "really?" is literally "truth?". The small word "tozhe", "also", sits right after "I" and you\'ll hear it all day long.'),
     (9, None, '\'So you and I have a lot in common.\' Max has dropped "vy" and says "s toboy", "with you", in the friendly form. "U nas s toboy" is literally "at us with you", which is how Russian says "you and I have".'),
-    (10, None, '\'You are a very sweet and brave guy.\' She uses the friendly "you" too. "Paren\'" is the casual word for "guy", and "milyy" is the everyday word for sweet, nice.'),
+    (10, None, '\'You are a very sweet and brave guy.\' She uses the friendly "you" too. "Paren\'" is the casual word for "guy". "Milyy" is the everyday word for sweet, nice.'),
     (11, None, '\'Maybe we should go drink coffee together?\' "Mozhet byt\'" is "maybe", literally "can be". "Poydyom vypyem" has two verbs side by side, "let\'s go, let\'s drink", and Russian doesn\'t bother with an "and". "Vmeste" is "together".'),
-    (12, None, '\'With great pleasure, let\'s go quickly!\' "S bolshim udovolstviem" is the polite way to say yes to an invitation, literally "with big pleasure". "Skoreye" is "faster", the word you\'d use to hurry someone along.'),
+    (12, None, '\'With great pleasure, let\'s go quickly!\' "S bolshim udovolstviem" is how you politely say yes to an invitation, literally "with big pleasure". "Skoreye" is "faster", the word you\'d use to hurry someone along.'),
 ]

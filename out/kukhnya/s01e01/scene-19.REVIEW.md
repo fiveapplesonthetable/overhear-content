@@ -33,11 +33,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Why did you come to this kitchen?' "Pochemu" is "why". "Prishyol" is "came", and "na etu kukhnyu" has -u because it's movement toward.
 - 'Because I am a cook. I am a true professional.' "Pochemu" asks and "potomu chto" answers: "why" and "because" are a matching pair. "Professional" is borrowed.
 - 'A professional? Come here.' "Idi syuda" is literally "go here". Russians use "go" where English says "come" when the target is a place.
-- 'Look around at my cooks.' "Vokrug" is "v" plus "krug", in a circle, so "around". "Posmotri" is "look". "Moikh povarov" is "my cooks", with the "-ov" plural ending.
+- 'Look around at my cooks.' "Vokrug" is "v" plus "krug", in a circle, so "around". "Posmotri" is "look". "Moikh povarov" is "my cooks", ending in the plural "-ov".
 - 'What can you do yourself?' "Sam" is "yourself", which pushes the question back at Max. "Umeyesh'" is "you know how to", the skill word.
 - 'I can cook very well.' "Khorosho" is "well", from "khoroshiy", good. "Umeyu gotovit'" is "I know how to cook", with Max sure of himself.
 - 'Really? Attention everyone in the kitchen!' "Da nu" is a sarcastic "really?". "Vsem vnimaniye" is "to everyone, attention", with "vsem" the "to" form of "all".
 - 'A great cook has come to us!' "Velikiy" is "great", as in a great king, and here it's mockery. "K nam" is "to us".
 - 'We waited for him for so long!' "Zhdali" is "we waited", and "yego" is "him". It's the same word as "his", and it never changes.
-- 'What work will I have?' "U menya budet" is "at me will be", the "I have" pattern in the future. "Kakaya" is "what kind of", and it ends in "-aya" to match "rabota".
+- 'What work will I have?' "U menya budet" is "at me will be", the "I have" pattern in the future. "Kakaya", "what kind of", ends in "-aya" to match "rabota".
 - 'There is a special job for you!' "Yest'" is "there is". It's a word you've not heard yet in this show, and it's often dropped in the present. "Dlya tebya" is "for you", in the friendly form.

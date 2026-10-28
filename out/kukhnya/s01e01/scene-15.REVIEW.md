@@ -29,11 +29,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Who are you and how did you get in here?' "Ty kto takoy" is "you who such", a blunt way to say "who do you think you are?". The "ty" is rude from a stranger. "Popal" means "ended up", as if by chance.
 - 'I brought my résumé for the head chef.' "Prinyos" is "brought", carried by a man; a woman would say "prinesla". "Svoyo" is "my own". "Rezyume" never changes.
 - 'What are you even doing in my office?' "Voobshche" means "at all" or "even", and it adds irritation. "V moyom kabinete" is "in my office", and both "moyom" and "kabinete" take endings after "v".
-- 'Another cook said that the chef is already here.' "Drugoy" is "another", and it looks like "drug", friend, with an ending. "Skazal, chto" is "said that", and Russian always puts a comma before "chto".
+- 'Another cook said that the chef is already here.' "Drugoy" is "another", which looks like "drug", friend, with an ending. "Skazal, chto" is "said that", and Russian always puts a comma before "chto".
 - 'The real head chef of this restaurant is me!' The dash stands for "is", and "ya" comes last for punch. "Etogo restorana" is "of this restaurant", with "-ogo" and "-a" showing "of".
 - 'That person already hired me for the job.' "Prinyal" is "accepted", a second way to say "hired", after "vzyat' na rabotu". "Tot chelovek" is "that person".
 - 'Who dared hire you without my permission?' "Posmel" is "dared", with -l. "Bez" is "without", the same one as in "bez gaza". "Razresheniya" is "of permission", with an "of" ending.
 - 'I dream of cooking delicious dishes in the kitchen.' "Mechtayu" is "I dream", from "mechta". "Vkusnyye blyuda" is plural, "tasty dishes", so the describing word ends in "-ye".
 - 'Only I command here and no one else.' "Komanduyu" is borrowed from "commander". "Nikto bol'she" is "nobody more", the Russian for "no one else", with the "ni-" word again.
-- 'Please, give me one small chance.' "Dayte" is the polite "give". "Odin malen'kiy shans" is "one small chance", and "shans" is borrowed.
+- 'Please, give me one small chance.' "Dayte" is the formal "give". "Odin malen'kiy shans" is "one small chance", and "shans" is borrowed.
 - 'Fine, now we will test your real culinary skills.' "Ladno" is "fine" or "okay", the same word as in "da ladno". "Tvoi" is "your" in the friendly form, which tells Max the chef talks down to him.

@@ -29,10 +29,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Been drinking yesterday?' "Bukhal" is slang for drinking a lot, and with "vchera", yesterday, it makes a blunt, friendly question. There's no "you" and no question word, only a rising voice.
 - 'Is it noticeable?' "Zametno" does the whole sentence by itself. Russian often drops the little words that English can't do without.
 - 'Your face is pale, your hands are shaking a bit.' "Blednoye" is the "pale" from the dining-room scene. "Ruki" is "hands", plural, and "drozhat" is "they shake", so the ending matches the plural.
-- 'Yes, the night was very wild.' "Byla" is "was", with -a because "noch'", night, is feminine; for Max himself it would be "byl". "Burnoy" comes from "burya", a storm.
+- 'Yes, the night was very wild.' "Byla" is "was", and the -a comes from "noch'", night, being feminine; for Max himself it would be "byl". "Burnoy" comes from "burya", a storm.
 - 'Enjoy your meal.' "Priyatnogo appetita" is literally "of pleasant appetite", with "I wish you" left out. Russians say it to anyone who is about to eat, not only in restaurants.
 - 'Who did you just say that to?' "Komu" is "to whom", the "to" form of "who". "Seychas" is "just now" here, and "skazal" is "said", with -l for a man.
-- 'To a guest at the next table.' The "-yu" on "gostyu" is the "to" ending. "Sosednim" is "neighbouring", from "sosed", neighbour, and "stolik" is the little table again.
+- 'To a guest at the next table.' The "-yu" on "gostyu" is the "to" ending. "Sosednim" is "neighbouring", from "sosed", neighbour. "Stolik" is the little table again.
 - 'Would you like anything?' "Chto-nibud'" is "anything": add "-nibud'" to "what" and you get "any". Compare "kogo-to", "someone". "Zhelayete" is a waiter's "do you wish", more formal than "khotite".
 - 'Water.' Max doesn't say "voda". He says "vody", "of water", the shape Russian uses for "some water". It's the quick way to order a drink.
 - 'Sparkling or still?' Russians call fizzy water "water with gas": "s gazom" is "with gas", "bez gaza" is "without gas". "Ili" is "or".

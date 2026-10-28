@@ -34,7 +34,7 @@ WALK = [
     (0, None, '\'Max, are you almost falling asleep?\' "Zasypayesh\'" is built from "son", sleep, plus a prefix meaning "start", so it\'s "starting to sleep". Her "pochti", "almost", makes the question teasing.'),
     (1, None, '\'No, I am simply admiring you.\' "Lyubuyus\'" is "I enjoy looking at", and what you look at has to change shape: "ty" turns into "toboy". The "-s\'" on the end is a little "self", a piece Russian attaches to many verbs.'),
     (2, None, '\'Do you really love cooking so much?\' "Lyubish\' gotovit\'" is "you love to cook": two words and no "to" between them. "Pravda", "truth", is doing the work of "really" again.'),
-    (3, None, '\'Food is true love and passion!\' The dash is standing in for "is". "Lyubov\'" is "love", the same family as "lyublyu", "I love", and "nastoyashchaya" means "real" or "genuine".'),
+    (3, None, '\'Food is true love and passion!\' The dash is standing in for "is". "Lyubov\'" is "love", related to "lyublyu", "I love", and "nastoyashchaya" means "real" or "genuine".'),
     (4, None, '\'You speak about food like a poet.\' "O yede" is "about food", and "yeda" gets an -e after "o". "Kak poet" is "like a poet", and as you can see "poet" looks just like English.'),
     (5, None, '\'Good food gives people immense happiness.\' "Darit" means "gives", and it grows from "dar", a gift, so good food literally hands out a gift. "Lyudyam" is "to people": "lyudi" is irregular, and this is its "to" form.'),
     (6, None, '\'At which restaurant is your interview?\' "U tebya", "at you", is the friendly twin of "u vas". "V kakom restorane" is "in which restaurant", and both "kakom" and "restorane" change their endings after "v".'),

@@ -32,7 +32,7 @@ STORY = [
     ('vika', 'Я лично прослежу за этим блюдом.', 'I will personally oversee this dish.', [], ''),
 ]
 WALK = [
-    (0, None, '\'Delighted to welcome you to the finest restaurant!\' "Rad" is "glad", used for "delighted". "Privetstvovat\'" is "to welcome", and it has "privet", hi, inside it.'),
+    (0, None, '\'Delighted to welcome you to the finest restaurant!\' "Rad" is "glad", used for "delighted". "Privetstvovat\'", "to welcome", has "privet", hi, inside it.'),
     (1, None, '\'We are opening our restaurant in two weeks.\' "Cherez dve nedeli" is "in two weeks", literally "through two weeks". "Dve" is the feminine "two", because "nedelya" is feminine.'),
     (2, None, '\'Meet her, this is my chef Elena.\' "Poznakomsya" is "get acquainted", from "znakomyy", familiar. Elena is a woman, but "povar" stays masculine, so Mark says "moy shef-povar", not a feminine form.'),
     (3, None, '\'She worked at the very best restaurant.\' "Rabotala" is "worked", with -la for a woman. "V samom luchshem restorane" is "in the very best restaurant".'),
@@ -45,5 +45,5 @@ WALK = [
     (10, None, '\'Very well, I will notify the head chef immediately.\' "Nemedlenno" is "ne" plus "medlenno", slowly: not slowly, so immediately. "Preduprezhu" is "I will warn", in one word.'),
     (11, None, '\'In the kitchen they are already preparing this order.\' "Gotovyat" is "they prepare", again with no named subject. "Zakaz" is "order", the word the chef used in "according to your order".'),
     (12, None, '\'In our kitchen the best masters work.\' "U nas na kukhne" is "at us on the kitchen", Russian for "in our kitchen". "Mastera" is a plural in "-a", like "povara", cooks.'),
-    (13, None, '\'I will personally oversee this dish.\' "Proslezhu" is "I will watch through", the family of "prosledi" from the kitchen. "Za etim blyudom" is "over this dish", with the ending that "za" calls for.'),
+    (13, None, '\'I will personally oversee this dish.\' "Proslezhu" is "I will watch through", the family of "prosledi" from the kitchen. "Za etim blyudom" is "over this dish", the ending that "za" calls for.'),
 ]

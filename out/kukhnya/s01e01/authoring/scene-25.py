@@ -41,7 +41,7 @@ WALK = [
     (6, None, '\'Chef, are you really letting him stay?\' "Pravda" is "truth", used for "really". "Yego" is "him", and Ainura says "vy" to the chef.'),
     (7, None, '\'I bet that he will run away on his own!\' "Poporil" is "bet", the family of "posporim". "Sbezhit" is "will run away", from "bezhat\'", to run. "Sam" is "himself".'),
     (8, None, '\'In a week this guy will leave on his own.\' "Cherez nedelyu" is "through a week", for "in a week". "Paren\'" is the casual "guy", and "uydyot" is "will leave".'),
-    (9, None, '\'Every person has the right to a chance.\' "Imeyet pravo" is "has the right", with the formal "imet\'" for "have". "Pravo" also means "law".'),
+    (9, None, '\'Every person has the right to a chance.\' "Imeyet pravo" is "has the right", using the formal "imet\'" for "have". "Pravo" also means "law".'),
     (10, None, '\'To some, life itself gives a second chance.\' "Nekotorym" is "to some". "Sama zhizn\'" is "life itself", with "sama" the feminine of "sam". "Vtoroy" is "second".'),
     (11, None, '\'I will definitely prove my culinary mastery.\' "Obyazatel\'no" is "definitely", from "obyazatel\'nyy", obligatory. "Masterstvo" has "master" inside it, as in "mastera".'),
     (12, None, '\'In short, our life is full of surprises.\' "V obshchem" is "in general", family of "obshchego" in "a lot in common". "Polna" is the feminine "full", to match "zhizn\'".'),
