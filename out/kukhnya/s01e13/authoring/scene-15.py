@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.13'
 SOURCE_FILE = 'sources/kukhnya/s01/e13.ru.dual.srt'
-INTRO = 'Vika goes into the stockroom and finds Max hiding among the boxes. She wants to talk to him about being sensible. Here is their talk in Russian first.'
-OPENER = "Let's go back through it again, slowly."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = 'Vika tries to stay serious, and Max wins her over a little anyway. When you watch, notice how long her stern face lasts. Talk soon.'
+INTRO = 'Vika goes into the stockroom and finds Max hiding among the boxes. She wants to talk to him about being sensible. Hear their talk in Russian first.'
+OPENER = 'Again, slowly this time.'
+TRANSITION = 'Now the stockroom talk, all the way through.'
+OUTRO = 'Vika tries to stay serious, and Max wins her over a little anyway. How long does her stern face last? Talk soon.'
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('vika', 'Макс, почему ты снова прячешься здесь?', 'Max, why are you hiding here again?', [], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('max', 'Потому что я очень люблю тебя, Вика.', 'Because I love you very much, Vika.', [], ''),
 ]
 WALK = [
-    (0, None, "'Max, why are you hiding here again?' 'Pryachesh'sya' ends in 'sya', so it's 'hide yourself'. 'Snova' means 'again', and it's just one word."),
+    (0, None, "'Max, why are you hiding here again?' The 'sya' in 'pryachesh'sya' makes it 'hide yourself'. 'Snova' is a one-word 'again'."),
     (1, None, "'I was simply waiting for you here.' Russian says 'waited you', with no word for 'for'. 'Zhdal' is a man's past form, 'tebya' is 'you'."),
-    (2, None, "'What an unserious child you are!' 'Neser'yozny' is 'serious' with 'ne' in front, so 'not serious'. 'Rebyonok' is 'child', and the plural is 'deti', which is totally different. 'Vsyo-taki' is 'all the same'."),
-    (3, None, "'Then punish me strictly for that!' 'Nakazhi' is 'punish!'. 'Strogo' means 'strictly', and 'za eto' is 'for that'. Max is flirting."),
+    (2, None, "'What an unserious child you are!' 'Neser'yozny' is 'serious' with 'ne' in front. 'Rebyonok' is one child, and the plural 'deti' looks nothing like it."),
+    (3, None, "'Then punish me strictly for that!' 'Nakazhi' is the order 'punish!'. Max adds 'strogo', strictly, and flirts with the whole sentence."),
     (4, None, "'Max, stop joking, I am serious.' 'Perestan' is 'stop', followed by 'shutit', 'to joke'. 'Ser'yozno' is 'seriously', and she says it with a straight face."),
     (5, None, "'You are young, you want fun.' 'Tebe khochetsya' is literally 'to you it wants itself', so Russians say that a wish happens to you. 'Vesel'ya' means 'of fun', since 'want' brings that ending."),
-    (6, None, "'At work one must be an adult.' 'Nado' is the impersonal 'one must'. The word for 'grown-up person' has endings that mean 'as', so it reads 'to be as a grown-up person'."),
-    (7, None, "'Vika, why are you so worried?' 'Perezhivaesh' means 'you worry', and it's built from 'zhit', 'to live', and 'pere', 'through'. So worrying is 'living through' something."),
-    (8, None, "'The age difference is not important.' The word for 'important' ends in 'a' because 'difference' is a feminine word. Max is dismissing the whole subject in one short sentence."),
-    (9, None, "'It seems we are making a mistake.' 'Mne kazhetsya' is 'to me it seems', which is how Russians say 'I think'. Russians also 'commit' a mistake: 'sovershaem oshibku'."),
-    (10, None, "'Beside me you will forget all worries.' The 'will forget' is in the future. Max promises that she'll forget, and the word for 'worries' is always in the plural."),
+    (6, None, "'At work one must be an adult.' 'Nado' is the impersonal 'one must'. The words for 'grown-up person' end in 'ym' and 'om', which is the 'as a' of 'to be as a grown-up'."),
+    (7, None, "'Vika, why are you so worried?' 'Perezhivaesh' is built from 'zhit', to live, and 'pere', through. So to worry is to 'live through' something."),
+    (8, None, "'The age difference is not important.' Max waves the whole subject away in one short sentence. 'Important' picks up an 'a' because 'difference' is feminine."),
+    (9, None, "'It seems we are making a mistake.' 'Mne kazhetsya' is literally 'to me it seems', Russian for 'I think'. And Russians 'commit' a mistake, 'sovershaem oshibku', where English makes one."),
+    (10, None, "'Beside me you will forget all worries.' 'Zabudesh' is a future, 'you will forget'. 'Trevogi', worries, is always plural."),
     (11, None, "'Max, you are an incorrigible romantic.' 'Neispravimy' is made of 'ne', not, and 'ispravit', to fix or correct. So it's 'unfixable'. 'Romantik' is the English word."),
-    (12, None, "'Because I love you very much, Vika.' 'Potomu chto' is 'because', and it's the answer to her 'why'. 'Lyublyu' is 'I love', and it uses 'tebya' as its object."),
+    (12, None, "'Because I love you very much, Vika.' 'Potomu chto' is 'because', the answer to her 'why'. 'Lyublyu' is 'I love', and 'tebya' is its object."),
 ]

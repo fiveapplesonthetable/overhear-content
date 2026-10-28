@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.13'
 SOURCE_FILE = 'sources/kukhnya/s01/e13.ru.dual.srt'
-INTRO = 'Vika has been about to fly to Milan for work, and Max has been avoiding her all day. He finally corners her before she leaves. Here is the argument in Russian first.'
-OPENER = "Let's go through it again, line by line, and watch Vika's mood."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = 'Max has spoiled her trip, and Vika is furious. When you watch, notice that the coffee never gets drunk. See you next time.'
+INTRO = 'Vika has been about to fly to Milan for work, and Max has been avoiding her all day. He finally corners her before she leaves. Hear the argument in Russian first.'
+OPENER = "Line by line, to follow Vika's mood."
+TRANSITION = 'Now the argument, uncut.'
+OUTRO = 'Max has spoiled her trip, and Vika is furious. The coffee never gets drunk. See you next time.'
 CLOSING = ('vika', 'Пока!')
 STORY = [
     ('max', 'Почему ты не сказала, что уезжаешь?', "Why didn't you tell me you were leaving?", [(124, 'что')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('vika', 'Я из-за тебя не полетела в Милан!', 'I missed the Milan trip because of you!', [(122, 'Я из-за тебя не полетела на выставку в Милан')], ''),
 ]
 WALK = [
-    (0, None, "'Why didn't you tell me you were leaving?' 'Skazala' ends in 'a' because Vika is a woman. 'Uezzhaesh' is 'you're leaving', and the 'u' at the front means 'away' for something that goes by vehicle."),
+    (0, None, "'Why didn't you tell me you were leaving?' A woman did the telling, so the verb ends in 'a'. The 'leaving' word starts with 'u', the prefix that means 'away' for a vehicle."),
     (1, None, "'Let's talk later.' 'Davay' begins a suggestion. 'Pozzhe' is 'later', and 'pogovorim' is 'let's have a talk'. Vika wants the talk to happen, but not now."),
     (2, None, "'No, we're talking now!' It's the same 'pogovorim' as before, and the only thing that changes is 'seychas', 'now'. Max copies her words, which is a good way to answer."),
     (3, None, "'Let me explain what's going on.' The phrase for 'what's going on' is literally 'in what is the matter'. It's a set expression, so learn it as a lump and use it whenever you want an explanation."),
     (4, None, "'You've been avoiding me all day!' 'Running around' is how Russian says 'avoiding', so she says 'you run from me'. English uses 'have been' for this, but Russian just uses the present."),
-    (5, None, "'I need to think.' 'Podumat' is 'to think for a bit', and the 'po' at the front means a short time. 'Mne nado' is 'to me it's necessary'."),
-    (6, None, "'We'll talk in three days when I get back.' The prefix 'pri' means 'arrive', and the rest is the verb for flying. So the word says 'I'll arrive by air', which a plane trip needs."),
+    (5, None, "'I need to think.' 'Podumat' has a 'po' that makes the thinking short, as in 'think for a bit'. 'Mne nado' is 'to me it's necessary', Russian for 'I need'."),
+    (6, None, "'We'll talk in three days when I get back.' The prefix 'pri' means 'arrive', and the rest is the action of flying. So Vika says 'I'll arrive by air', which suits a plane trip."),
     (7, None, "'Vika, good morning!' 'Utro' is a neuter word, so 'good' becomes 'dobroe'. Max is trying to start again with a smile."),
     (8, None, "'I brought you coffee.' The word order is 'to you coffee brought', and Russian is perfectly happy with that. 'Prinyos' is 'brought', and 'kofe' never changes its ending."),
-    (9, None, "'I hate you!' The word for 'hate' is a very strong word, and the object, 'you', is in the form it takes after it. Russians keep it for real anger."),
+    (9, None, "'I hate you!' It's a very strong word, so Russians use it only when they mean it. The 'you' that follows takes a different shape."),
     (10, None, "'You don't like coffee?' Max is baffled. 'Lyubish' is 'you like' or 'you love', depending on what's coming. It's the only everyday word for 'like'."),
     (11, None, "'What the hell coffee!' 'Kakoy' plus a noun gives a scornful 'what do you mean, ...!'. 'K chyortu' means 'to the devil', a mild way of dismissing the coffee."),
-    (12, None, "'I missed the Milan trip because of you!' 'Ne poletela' is 'didn't fly', with an 'a' for a woman. 'Iz-za tebya' is 'because of you', the same 'iz-za' that means 'because of' in lots of arguments."),
+    (12, None, "'I missed the Milan trip because of you!' 'Didn't fly' ends in 'a' for a woman. The phrase 'because of you' is the one Russians use for blame."),
 ]

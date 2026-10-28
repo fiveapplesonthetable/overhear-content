@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Max, stop the car near this corner.' 'Ostanovi' is the order 'stop!' and 'vozle' means 'near'. 'Ugla' is 'of the corner', and the word 'ugol' loses its 'o' as it changes.
-- 'Why here? The restaurant is located further.' 'Nakhoditsya' is 'finds itself', so it means 'is located'. 'Dalshe' is 'further', made like 'bystree', with an 'e' on the end.
-- 'Let us have you walk the rest on foot.' 'Peshkom' is 'on foot', and it's different from 'idti', 'to walk', because it stresses that it is not by car. 'Davay' begins the suggestion, 'let's say'.
+- 'Max, stop the car near this corner.' 'Stop' here is an order for a friend, and 'near' is a single small word. The corner loses its middle letter when it takes the 'of' ending, a quirk of that one word.
+- 'Why here? The restaurant is located further.' The restaurant 'finds itself' further, and that is how Russians say 'is located'. 'Further' is built like 'faster', with an 'e'.
+- 'Let us have you walk the rest on foot.' 'Peshkom', on foot, tells you it's not by car, which is Vika's whole point. She opens with 'let's' and then hands him an order.
 - 'You do not want to ride with me?' Russian has two words for 'go': 'idti' on foot and 'ekhat' in a vehicle. Max uses 'ekhat', since a car is exactly what they are in. 'So mnoy' is 'with me'.
-- 'Colleagues should not see us together.' The word for 'us' is 'nas', which is what 'we' becomes after 'see'. English does the same with 'we' and 'us'.
-- 'Are you afraid of silly rumors at work?' 'Boishsya' is 'you are afraid', and the thing feared gets a different ending: 'slukhi' turns into 'slukhov'. 'Slukh' also means 'hearing', so a rumour is something you hear.
-- 'This will cause unnecessary questions in the kitchen.' 'Vyzovet' means 'will call forth'. 'Lishnie' is 'extra' or 'unnecessary', and it describes things nobody wants. 'Na kukhne' is 'in the kitchen', with 'na' where English says 'in'.
-- 'You are completely right, darling.' 'Prava' is 'right', and the 'a' tells you that a woman is the one who is right. 'Dorogaya' means 'dear' and also 'expensive', and Max says it with a smirk.
+- 'Colleagues should not see us together.' When 'we' follows 'see', it turns into 'us', and English does the same. Vika says 'shouldn't' with the short word for 'must' and a 'not'.
+- 'Are you afraid of silly rumors at work?' After 'afraid of', the thing feared takes a new ending, so 'rumours' changes. The same word for 'rumour' also means 'hearing', since a rumour is something you hear.
+- 'This will cause unnecessary questions in the kitchen.' Office types love 'lishnie', which means extra or unneeded. Russians say 'on the kitchen' where English says 'in', and she uses it for the whole room.
+- 'You are completely right, darling.' A woman is right, so the word ends in 'a'. 'Darling' also means 'expensive' in Russian, and Max says it with a smirk.
 - 'This could ruin my important reputation.' Putting 'important' in front of 'reputation' makes Max sound like a minister. Both words end in 'yu', since they're what's being ruined.
 - 'Max, do you seriously think so?' 'Seryozno' is 'seriously', and Russians say it as a question when they suspect a joke. 'Dumaesh' is 'you think'.
-- 'I am just joking, calm down.' 'Shuchu' is 'I'm joking', from 'shutit'. 'Uspokoysya' ends in 'sya', so it's literally 'calm yourself'. It's what you say to a friend, and it works for babies, too.
-- 'Then get out faster, I am in a hurry.' 'Vykhodi' is 'go out', and it works for getting out of a car. 'Speshu' is 'I'm in a hurry', and Vika says it with a glance at her watch.
-- 'All right, see you in the kitchen, administrator!' 'Uvidimsya' is 'we'll see each other', and the 'sya' makes it mutual. 'Administrator' is her job title, and Max teases her with it.
+- 'I am just joking, calm down.' 'I'm joking' comes from 'shutit'. The calming order has a 'sya' that means 'calm yourself', and it works for babies, too.
+- 'Then get out faster, I am in a hurry.' 'Get out' is built from the action 'go out', and works for cars. The 'I am in a hurry' is just 'I hurry', one word.
+- 'All right, see you in the kitchen, administrator!' Russians say 'we will see each other', with 'sya' for 'each other'. Max teases her by using her job title instead of her name.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostya, I need to tell you something.' The word for 'something' starts with a 'koe' that means 'a certain', so it's 'a certain something', a thing she's hinting at. Both 'to me' and 'to you' sit in the sentence, as 'mne' and 'tebe'.
-- 'I acted wrongly.' 'Postupila' is 'I acted', and it ends in 'a' since Nastya is speaking. 'Nepravilno' is just 'pravilno', 'correctly', with 'ne' in front.
+- 'Kostya, I need to tell you something.' The 'koe' on the front of 'something' means 'a certain', so it comes out 'a certain something'. 'To me' and 'to you' both sit in the sentence.
+- 'I acted wrongly.' Nastya's 'a' on 'postupila' tells you a woman speaks. 'Nepravilno' is simply 'pravilno', correctly, with 'ne' in front.
 - 'Nastya, did you change your mind about tonight?' 'Peredumala' is 'changed your mind', built from 'dumat', 'to think', and 'pere', 'over again'. 'Naschyot' means 'regarding' and is common in speech.
-- 'That's not what I'm talking about.' There's no verb. 'Ya ne ob etom' is literally 'I not about this', and it's a great line for steering a conversation back.
+- 'That's not what I'm talking about.' Russian says 'I not about this', with no action word. It is a good phrase for steering a conversation back.
 - 'It was me who broke Viktor Petrovich's mirror.' 'Eto ya' starts it, 'it's me who'. 'Razbila' is 'smashed' in a woman's form. Russians say 'broke the mirror to him', so Viktor Petrovich takes 'u' at the end.
 - 'And now they are fighting because of me.' 'Iz-za menya' is 'because of me', and 'ssoryatsya' means 'they quarrel with each other'.
 - 'Wow!' It's literally 'nothing to oneself', and nobody can say why it means 'wow', but it does. It's a good one to say when you are surprised.
-- 'And what do we do now?' 'Chto delat' is 'what to do', with no 'we' and no 'should'. The basic form carries it.
+- 'And what do we do now?' Russian says 'what to do', with no 'we' and no 'should'. The basic form of the action carries all of it.
 - 'So, is everything still on for tonight?' 'Stalo byt' means 'so', literally 'it has become to be'. 'V sile' is 'in force', so 'still on'. Kostya is thinking only about the date.
-- 'Kostya!' It's just his name, said as a telling-off. He's 'Kostya' here, not the pet name 'Kostik', which she only uses when she's pleased.
+- 'Kostya!' It is just his name, said as a telling-off. She calls him 'Kostya' here, and not the pet name 'Kostik', which she uses only when she is pleased.
 - 'How could you?' 'Mozhesh' is 'you can', so literally 'how can you'. In Russian it works as a reproach when someone has done something unthinkable.
-- 'You only think about one thing!' 'Ob odnom' is 'about one', with 'ob' because the next word begins with a vowel. 'Tolko' is 'only', and the little 'i' is there to give it bite.
+- 'You only think about one thing!' 'Ob odnom' uses 'ob' before a vowel, which makes the phrase easier to say. A small 'i' in the sentence gives 'only' extra bite.

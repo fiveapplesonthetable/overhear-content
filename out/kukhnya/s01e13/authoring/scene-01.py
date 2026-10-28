@@ -12,8 +12,8 @@ SOURCE_NAME = 'Кухня (Kukhnya) S1.13'
 SOURCE_FILE = 'sources/kukhnya/s01/e13.ru.dual.srt'
 INTRO = "This is Kukhnya, a comedy set in the kitchen of Claude Monet, a smart restaurant in Moscow. In this episode, Max and Vika are keeping their romance secret, and the head chef picks a fight with the chef next door over a parking space. We start at the bar, where Nastya has a quiet proposal for Kostya. First the whole thing in Russian, and don't worry if you miss words."
 OPENER = 'Now the slow version, with Nastya doing most of the talking.'
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Kostya runs off to buy candles, which tells you he has understood exactly what she meant. Let's see how long the secret lasts. Until next time."
+TRANSITION = 'And now all of it again, without the commentary.'
+OUTRO = "Kostya runs off to buy candles, which tells you he understood exactly what she meant. Let's see how long the secret lasts. Until next time."
 CLOSING = ('nastya', 'Пока!')
 STORY = [
     ('nastya', 'Костя, что ты сейчас делаешь?', 'Kostya, what are you doing right now?', [(1, 'Что делаешь?')], ''),
@@ -35,13 +35,13 @@ WALK = [
     (1, None, "'I am standing and polishing glasses.' Same thing here. 'I stand and polish' means 'I am standing and polishing'. The word he uses for polishing is built on 'rub', which is exactly what you do to a glass."),
     (2, None, "'And I want to stay at your place today.' 'At your place' is 'u tebya', literally 'at you'. Russians use it for anyone's home: 'u menya' is my place, 'u nego' is his."),
     (3, None, "'At my place? Did someone kick you out?' He answers with the same 'u menya', now as a question. 'Someone kicked you out' puts 'you' first, 'tebya kto-to vygnal', and the little 'to' on the end of 'kto-to' is what turns 'who' into 'someone'."),
-    (4, None, "'No, it is time for us to take the next step.' 'Nam pora' is literally 'to us time', so 'it's time for us'. 'Sleduyushchy' is 'next', and it comes from a word meaning 'to follow'."),
+    (4, None, "'No, it is time for us to take the next step.' Word for word, 'to us time', which gives 'it's time for us'. 'Next' comes from a word meaning 'to follow'."),
     (5, None, "'Do you want to get married?' Careful with this one: 'vyyti zamuzh' is 'to go out behind a husband', and only a woman can do it. A man would say something else, so Kostya has asked Nastya whether she wants to marry him, and not the other way round."),
     (6, None, "'Kostik, you are so funny!' 'Kostik' is a pet name made from Kostya with a small-making ending, the way English adds 'ie' to a name. 'Smeshnoy' is 'funny', and 'takoy' is 'such'."),
-    (7, None, "'We will simply spend this evening together.' 'Provedyom' is 'we'll spend', and it's used for spending time, not money. 'Vmeste' is 'together', one of the first words anyone learns."),
+    (7, None, "'We will simply spend this evening together.' Spending time takes its own verb in Russian, and it's never used for money. 'Vmeste', together, is a first-week word that you can reuse everywhere."),
     (8, None, "'And we will not tell anyone anything?' Three negatives pile up: 'nikomu', 'nichego', 'ne'. That's how Russian makes it emphatic, and it isn't a mistake. Literally, 'to no one nothing we won't say'."),
-    (9, None, "'This will be our little secret.' 'Budet' is 'will be', the future of 'to be', which is spoken out loud. 'Malenky' is 'little', and it makes the secret sound cosy."),
+    (9, None, "'This will be our little secret.' Here 'will be' is spoken out loud, and 'malenky' makes the secret sound cosy, which is exactly what Nastya wants."),
     (10, None, "'Great, that sounds very logical.' Kostya has gone slightly formal, which is the joke: 'zvuchit logichno' is how a lecturer might say it. 'Logichno' looks just like the English, and that's no accident."),
     (11, None, "'I will quickly buy beautiful candles.' 'Kuplyu' is 'I will buy', and there's no helper word in it. 'Svechi' is candles, a plural, and the word for beautiful has a plural ending to match."),
-    (12, None, "'Good, make this evening magical!' 'Sdelay' is the order 'make!'. 'Volshebnym' ends in 'ym' because the evening is being made into something, and that ending comes after verbs like 'make'. The word itself comes from 'volshebnik', a wizard."),
+    (12, None, "'Good, make this evening magical!' Nastya gives an order, then names what the evening should turn into. 'Magical' is the adjective of 'volshebnik', a wizard, with the 'ym' ending of 'made into'."),
 ]
