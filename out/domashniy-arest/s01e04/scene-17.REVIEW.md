@@ -4,7 +4,7 @@ Title: Наш главный враг  (Our Main Enemy)
 Level: A1 — Duolingo Section 2
 Pair: ru-en
 Source: Домашний арест (Domashniy Arest) S1.04
-Nina has no voice (two-role limit besides `anya`): her brief greeting (655) is narrated. Transcription slip 'Каникееву' (661) -> 'к Аникееву'; colloquial 'не надо' (662) -> 'не нужны'.
+
 
 Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
@@ -30,11 +30,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Mr Samsonov, good afternoon.' It is the polite title for a gentleman, and nobody has ever called Samson that in his life.
 - 'My name is Ilona.' Literally 'they call me Ilona'. Then she states her job.
-- 'I head the campaign team of Pavel Yuryevich Osipenko.' Osipenko is Pasha, the acting mayor. The word for 'headquarters' or 'campaign team' is followed by Pasha's full name in the genitive case.
+- 'I head the campaign team of Pavel Yuryevich Osipenko.' Osipenko is Pasha, the acting mayor. The word for 'headquarters' or 'campaign team' is followed by Pasha's full name in the 'of' form.
 - 'May I come in?' Literally 'permit to enter?'. Samson is immediately on his guard.
 - 'What for? We're leaving right now anyway.' He and Nina are on their way out to film campaign videos in town. Ilona tries to tempt them.
 - 'We have a very interesting offer for you.' Notice the chain at the start: 'by us, for you, there is'. Samson remembers Arkady's strict instructions.
-- 'All offers go to Anikeev.' The preposition means 'to' or 'towards', so Anikeev takes the dative ending.
+- 'All offers go to Anikeev.' The preposition means 'to' or 'towards', so Anikeev takes the 'to/for' ending.
 - 'We don't need provocations.' Literally 'to us provocations are not needed'. Ilona smiles reassuringly.
 - 'Not at all, no provocations!' The first two words literally mean 'what are you saying!'—a polite way to say 'heaven forbid!'.
 - 'Just five minutes of your time.' Just then, Arkady walks down the corridor and stops dead when he sees who is at the door.

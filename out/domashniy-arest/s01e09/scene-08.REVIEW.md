@@ -4,7 +4,7 @@ Title: Пять стадий неизбежного  (Five Stages of the Inevita
 Level: A1 — Duolingo Section 2
 Pair: ru-en
 Source: Домашний арест (Domashniy Arest) S1.09
-Cues 236-265. Arkady outlines his psychological strategy in the hotel room. He explains the stages of grief and proposes sending Nina a fake divorce summons printed at campaign headquarters.
+
 
 Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
@@ -28,16 +28,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'So, look here, Samsonov.' Arkady begins to explain the strategic plan.
-- 'There are five stages of accepting the inevitable.' The verb takes the genitive case with the numeral five.
+- 'There are five stages of accepting the inevitable.' The verb takes the 'of' form with the numeral five.
 - 'Denial, anger, bargaining, depression, acceptance.' A rapid list of five psychological nouns.
 - 'I didn't understand anything.' Samsonov admits his bewilderment with a negative pronoun.
-- 'Your wife thinks nobody needs you.' The subordinate clause uses the conjunction for 'that'.
+- 'Your wife thinks nobody needs you.' The second half of the sentence uses the conjunction for 'that'.
 - 'That is exactly what she thinks!' Samsonov confirms Nina's dismissive attitude.
-- 'We will plant doubts in her.' The future perfective verb describes planting an idea.
-- 'Then we will provoke jealousy.' The future verb combines with the accusative noun.
+- 'We will plant doubts in her.' This phrase describes planting an idea.
+- 'Then we will provoke jealousy.' The future verb combines.
 - 'We will send her a court summons!' Arkady introduces the central mechanism of his plan.
 - 'As if you are filing for divorce.' The comparative conjunction introduces an imaginary condition.
 - 'I do not want a real divorce!' Samsonov panics at the thought of actual separation.
 - 'The summons will be fake, from a printer.' Arkady reassures him with a colloquial adjective for counterfeit.
-- 'I don't know, I really doubt it.' Samsonov expresses hesitation with a reflexive verb.
+- 'I don't know, I really doubt it.' Samsonov expresses hesitation.
 - 'I congratulate you, Samsonov, you are henpecked!' Arkady mocks Samsonov's lack of resolve.

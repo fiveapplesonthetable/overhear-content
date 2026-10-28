@@ -4,7 +4,7 @@ Title: Срочно в больницу  (Rush to the Hospital)
 Level: A1 — Duolingo Section 2
 Pair: ru-en
 Source: Домашний арест (Domashniy Arest) S1.08
-Cues 802-834. Arkady is present -> anya = Аркадий (alisa), klavdia = Клавдия Викторовна (angelina), guard = Лёня (anja). Colloquial 'блин' (803) and intercut nurse cues 823-825 narrated in WALK. Slang 'от ори' (811) -> 'не кричи'.
+
 
 Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 

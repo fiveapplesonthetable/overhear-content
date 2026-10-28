@@ -12,12 +12,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 |---|---|---|---|---|---|
 | 1 | Нина | Ничего, Вахтанг Суренович пришьёт тебе палец обратно! | Never mind, Vakhtang Surenovich will sew your finger back on! | #1268 01:01:07: палец<br>#1269 01:01:11: Ничего<br>#1269 01:01:11: Суренович<br>#1269 01:01:11: пришьет обратно | adapted: Danya's opening line echoed by Nina |
 | 2 | Нина | Он у нас кудесник! Правда, Вахтанг Суренович? | He's our miracle worker! Isn't that right, Vakhtang Surenovich? | #1270 01:01:15: Он у нас кудесник<br>#1270 01:01:15: Суренович | adapted: 'Скажите' -> 'Правда' |
-| 3 | Аня | Подумаешь, что там у тебя, просто царапина? | Big deal, what have you got there, just a scratch? | #1274 01:01:26: Что там у тебя<br>#1274 01:01:26: царапина | verbatim |
-| 4 | Аня | Что ты расплакался, как маленькая девочка? | Why are you crying like a little girl? | #1275 01:01:28: Что ты расплакался, как<br>#1275 01:01:28: девочка | verbatim |
+| 3 | Паша | Подумаешь, что там у тебя, просто царапина? | Big deal, what have you got there, just a scratch? | #1274 01:01:26: Что там у тебя<br>#1274 01:01:26: царапина | verbatim |
+| 4 | Паша | Что ты расплакался, как маленькая девочка? | Why are you crying like a little girl? | #1275 01:01:28: Что ты расплакался, как<br>#1275 01:01:28: девочка | verbatim |
 | 5 | Нина | Самсонов, рот закрой! Зачем ты его обижаешь? | Samsonov, shut your mouth! Why are you insulting him? | #1276 01:01:29: Самсонов, рот закрой | verbatim |
-| 6 | Аня | А чего он плачет? Я хотел подбодрить! | Why is he crying? I wanted to cheer him up! | #1277 01:01:31: Чего | adapted: ASR 'Чего я его плачу? Пободрить?' -> 'А чего он плачет? Я хотел подбодрить!' |
+| 6 | Паша | А чего он плачет? Я хотел подбодрить! | Why is he crying? I wanted to cheer him up! | #1277 01:01:31: Чего | adapted: ASR 'Чего я его плачу? Пободрить?' -> 'А чего он плачет? Я хотел подбодрить!' |
 | 7 | Нина | Ты его уже подбодрил! Держись, Данюша, держись! | You already cheered him up plenty! Hold on, Danyusha, hold on! | #1278 01:01:32: Ты<br>#1278 01:01:32: уже подбодрил<br>#1279 01:01:34: Держись, Данюша, держись | verbatim |
-| 8 | Аня | Даня, прости меня! Я правда не хотел. | Danya, forgive me! I really didn't mean to. | #1280 01:01:51: Прости меня | verbatim |
+| 8 | Паша | Даня, прости меня! Я правда не хотел. | Danya, forgive me! I really didn't mean to. | #1280 01:01:51: Прости меня | verbatim |
 | 9 | Паша | А откуда у вас эти архивные документы? | And where did you get these archive documents from? | #1282 01:02:05: А откуда<br>#1282 01:02:05: эти документы | verbatim |
 | 10 | Паша | Да какая разница! Спасибо вам большое, майор! | What difference does it make! Thank you very much, Major! | #1284 01:02:08: Да какая разница | adapted: Lavrov's line echoed by Pasha |
 | 11 | Паша | Подождите, это же всё не про него! | Wait, none of this is about him! | #1285 01:02:17: Подождите, это же все не про него | verbatim |
@@ -29,7 +29,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Never mind, Vakhtang Surenovich will sew your finger back on!' In the hospital trauma room, trembling lawyer Danya fears the axe cut off his finger, and Nina comforts him.
 - 'He's our miracle worker! Isn't that right, Vakhtang Surenovich?' The cautious surgeon simply answers 'We will see', making poor Danya stutter in alarm.
 - 'Big deal, what have you got there, just a scratch?' Watching from the doorway, Samsonov awkwardly tries to downplay the injury.
-- 'Why are you crying like a little girl?' Notice the reflexive prefix and suffix on the verb meaning 'to burst into tears'.
+- 'Why are you crying like a little girl?' Notice the self-action verb form prefix and suffix on the verb meaning 'to burst into tears'.
 - 'Samsonov, shut your mouth! Why are you insulting him?' Furious with her husband, Nina snaps at Samsonov.
 - 'Why is he crying? I wanted to cheer him up!' Samsonov protests that he was only trying to lift Danya's spirits.
 - 'You already cheered him up plenty! Hold on, Danyusha, hold on!' Nina uses an affectionate diminutive of Danya's name.

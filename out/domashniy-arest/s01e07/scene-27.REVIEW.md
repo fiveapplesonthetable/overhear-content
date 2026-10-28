@@ -4,7 +4,7 @@ Title: Резиновая перчатка  (The Rubber Glove)
 Level: A1 — Duolingo Section 2
 Pair: ru-en
 Source: Домашний арест (Domashniy Arest) S1.07
-Cues 993-1073. Toilet/anatomical details in cues 998-1000 ('Хочу писать', 'пипеть'), 1020 ('описываюсь'), 1033-1046 ('Берите его', 'Доставайте', 'кружок описываю'), and 1061-1064 ('встряхните') are omitted for clean A1 retelling, focusing on the rubber dishwashing glove, the trouser zipper ('молния'), and the accidental zipper pinch ('пощемили мне кожу' -> 'защемили мне кожу'). ASR 'шеренгу-то' (1070, for 'ширинку-то') is adapted to 'молнию'.
+
 
 Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
@@ -16,7 +16,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 4 | Марина | Ну потерпите, вы же не ребёнок! | Come on, hold it, you're not a child! | #1002 00:48:34: потерпите, вы же не ребенок | verbatim |
 | 5 | Марина | Я голыми руками этого делать не буду! | I am not going to do that with my bare hands! | #1004 00:48:37: голыми руками этого делать не буду | verbatim |
 | 6 | Аня | Вы что, издеваетесь? Уберите эту гадость! | Are you kidding me? Take that disgusting thing away! | #1007 00:48:43: Вы что, издеваетесь? Уберите эту гадость | verbatim |
-| 7 | Клавдия Викторовна | Чем она плоха? Хорошая старая перчатка! | What's wrong with it? A good old glove! | #1010 00:48:48: Чем она плоха | adapted: Klavdia Viktorovna defending her household rubber glove in cues 1010-1011 |
+| 7 | Марина | Чем она плоха? Хорошая старая перчатка! | What's wrong with it? A good old glove! | #1010 00:48:48: Чем она плоха | adapted: Klavdia Viktorovna defending her household rubber glove in cues 1010-1011 |
 | 8 | Марина | Клавдия Викторовна, может, вы? Дверь закройте, пожалуйста! | Klavdia Viktorovna, maybe you could? Close the door, please! | #1016 00:48:55: Клавдия Викторовна, может, вы<br>#1018 00:48:58: Дверь закройте | verbatim |
 | 9 | Марина | Подождите, я тоже нервничаю! Видеть ничего не хочу. | Wait, I'm nervous too! I don't want to see anything. | #1021 00:49:03: Подождите<br>#1022 00:49:04: Я тоже нервничаю<br>#1054 00:49:52: видеть не хочу | verbatim |
 | 10 | Аня | Вниз молнию, вниз! Вот так, очень хорошо. | Zipper down, down! Just like that, very good. | #1031 00:49:15: Вниз молнию, вниз<br>#1042 00:49:29: Очень хорошо<br>#1044 00:49:33: Вот так | verbatim |
@@ -28,11 +28,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, is everything okay now? Is everything fine?' Both predicative adverbs describe an impersonal state.
-- 'No, it is not fine, Marina! Now I've gotten all worked up!' The reflexive perfective verb means 'to get nervous or worked up', built from the noun for 'nerves'.
+- 'Well, is everything okay now? Is everything fine?' Both descriptive word adverbs describe an impersonal state.
+- 'No, it is not fine, Marina! Now I've gotten all worked up!' This phrase means 'to get nervous or worked up', built from the noun for 'nerves'.
 - 'Please, help me! I can't hold it!' Pointing at both arms in plaster casts, Arkady insists he cannot manage his trouser zipper on his own.
-- 'Come on, hold it, you're not a child!' The prefixed imperative means 'endure for a little while, hold on'.
-- 'I am not going to do that with my bare hands!' Notice the instrumental plural for 'with bare hands', expressing the instrument or means.
+- 'Come on, hold it, you're not a child!' The prefixed command means 'endure for a little while, hold on'.
+- 'I am not going to do that with my bare hands!' Notice the 'with'-form plural for 'with bare hands', expressing the instrument or means.
 - 'Are you kidding me? Take that disgusting thing away!' Marina pulls on a hideous old rubber dishwashing glove from the sink, and Arkady recoils in horror.
 - 'What's wrong with it? A good old glove!' Elderly neighbour Klavdia Viktorovna pokes her head in and proudly defends her household rubber glove.
 - 'Klavdia Viktorovna, maybe you could? Close the door, please!' Mortified, Marina tries to hand the job over to Klavdia Viktorovna and then shoos her out.

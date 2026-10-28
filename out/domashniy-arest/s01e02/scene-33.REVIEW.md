@@ -4,7 +4,7 @@ Title: Охрана говорит нет  (The Guards Say No)
 Level: A1 — Duolingo Section 2
 Pair: ru-en
 Source: Домашний арест (Domashniy Arest) S1.02
-Arkady is the viewpoint character (`anya`). The guards speak as one role, Vitalik. Merged scene 34 (a stranger's 'business proposal'; Marina phones the agents and agrees; closing song) is told in the OUTRO. «Денег нет, но вы держитесь» is a famous quoted phrase, explained neutrally. Insults (дебильные, к чёртовой матери) are left out.
+
 
 Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 

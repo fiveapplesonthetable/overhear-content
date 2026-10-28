@@ -4,7 +4,7 @@ Title: Тайна Головкина  (Golovkin's Secret)
 Level: A1 — Duolingo Section 2
 Pair: ru-en
 Source: Домашний арест (Domashniy Arest) S1.04
-Cues 142-176. The guard's lines (142-143, 169-172) are narrated. Arkady's insults and swearing in cues 144 ('дефективный'), 147 ('лексический инвалид'), 153 ('скотина'), 159-160 ('педофил', 'развратник'), 162 ('сука'), 163 ('катишь яйца'), and 168 ('гаденыш') are cleaned up.
+
 
 Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
@@ -25,27 +25,27 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Аня | Я сегодня же расскажу всё Самсону! | I'll tell Samson everything this very day! | #163 00:12:47: я сегодня же расскажу все Самсону | adapted: crude second half of cue 163 omitted |
 | 14 | Аня | Он тебя найдёт! Посмотри, что он со мной сделал. | He'll find you! Look what he did to me. | #164 00:12:52: Он тебя найдет<br>#164 00:12:52: посмотри<br>#164 00:12:52: что он | adapted: adapted from cue 164 ('посмотри на меня, что он с тобой сделает') |
 | 15 | Головкин | Пожалуйста, не надо! | Please, don't! | #167 00:12:59: Пожалуйста | adapted: 'не надо' added |
-| 16 | Паша | Доброе утро, Аркадий Борисович. Проходи, присядь, перекуси. | Good morning, Arkady Borisovich. Come in, sit down, have a bite to eat. | #173 00:13:12: Доброе утро, Аркадий Борисович<br>#174 00:13:14: Проходи, присядь, перекуси | verbatim |
+| 16 | Головкин | Доброе утро, Аркадий Борисович. Проходи, присядь, перекуси. | Good morning, Arkady Borisovich. Come in, sit down, have a bite to eat. | #173 00:13:12: Доброе утро, Аркадий Борисович<br>#174 00:13:14: Проходи, присядь, перекуси | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'What are you doing here? After yesterday!' Remember, at yesterday's hearing Golovkin testified against his own client. After the preposition 'after', 'yesterday's' takes the 'of' ending. Golovkin looks sheepish.
 - 'I was wrong.' He uses the masculine past 'was' and then asks Arkady to forgive him.
-- 'I want to finish what I started.' The last word literally means 'the started thing', a past participle used as a noun. Arkady is horrified.
+- 'I want to finish what I started.' The last word literally means 'the started thing', a past verbal adjective used as a noun. Arkady is horrified.
 - 'So they give me another ten years?' Literally, 'in order that to me still ten of years they gave?'. After numbers from five upwards, 'years' changes to the special word for 'summers' in the plural 'of' form.
 - 'Get out of here!' An informal command to leave. But Golovkin doesn't move.
 - 'I can't.' If he stops being Arkady's lawyer, he can't visit the communal flat any more. Arkady demands to know why.
 - 'And what's the matter? Go away from here!' Cornered, Golovkin blurts out his secret.
-- 'All right. I love a woman in your flat.' 'Woman' takes the accusative ending in 'u', while 'in your flat' uses the prepositional case for location. Arkady starts guessing which neighbour he means.
-- 'Klavdia Viktorovna, or what? Or Marina?' Both women's names are in the accusative case, matching 'I love'. Golovkin shakes his head.
-- 'No, Nina.' Also in the accusative: 'I love Nina'. Arkady is stunned.
+- 'All right. I love a woman in your flat.' 'Woman' takes the object ending in 'u', while 'in your flat' uses the location form for location. Arkady starts guessing which neighbour he means.
+- 'Klavdia Viktorovna, or what? Or Marina?' Both women's names are in the direct-object form, matching 'I love'. Golovkin shakes his head.
+- 'No, Nina.' Also in the object form: 'I love Nina'. Arkady is stunned.
 - 'But she's married!' The Russian word for a woman being married literally means 'behind a husband', and never changes its ending.
 - 'You love another man's wife!' And she happens to be Samson's wife. Golovkin defends his feelings.
 - 'I've been in love with her since first grade.' Russian uses the present state 'I am in love with her' because it is still true today. Then he begs Arkady for silence.
 - 'I ask you to keep this a secret.' Literally, 'to leave this in secret'. Arkady's eyes light up with revenge.
 - 'A secret? And did you keep my secret yesterday?' In court yesterday, Golovkin revealed Arkady's housing fraud. Now Arkady has the perfect weapon over his lawyer.
 - 'I'll tell Samson everything this very day!' Adding the emphatic particle right after 'today' means 'today of all days, this very day'. And he points to his own bandaged head.
-- 'He'll find you!' Perfective future: one quick, painful result.
+- 'He'll find you!' future-tense form: one quick, painful result.
 - 'Look what he did to me.' Literally, 'what he with me did'. Golovkin panics.
 - 'Please, don't!' Just then, the investigator's door opens and Arkady is called inside, where Pasha is waiting at a table full of food.
 - 'Good morning, Arkady Borisovich. Come in, sit down, have a bite to eat.' Notice the mockery: Pasha greets him by his polite name and patronymic, and then gives him three informal commands in a row.

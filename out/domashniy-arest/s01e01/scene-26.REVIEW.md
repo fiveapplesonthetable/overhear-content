@@ -10,11 +10,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Паша | Я знаю наш город как никто. | I know our town like nobody else. | #991 00:56:31: знаю<br>#991 00:56:31: как никто | adapted: 'знаю его как никто' -> 'знаю наш город как никто' |
-| 2 | Паша | Поэтому я решил стать мэром. | That's why I've decided to become mayor. | #994 00:56:46: Поэтому я решил | adapted: 'выдвинуть свою кандидатуру на пост главы города' -> 'стать мэром' |
+| 1 | Самсон | Я знаю наш город как никто. | I know our town like nobody else. | #991 00:56:31: знаю<br>#991 00:56:31: как никто | adapted: 'знаю его как никто' -> 'знаю наш город как никто' |
+| 2 | Самсон | Поэтому я решил стать мэром. | That's why I've decided to become mayor. | #994 00:56:46: Поэтому я решил | adapted: 'выдвинуть свою кандидатуру на пост главы города' -> 'стать мэром' |
 | 3 | Самсон | Смотри, как он говорит! | Look how he talks! | #995 00:56:51: смотри, как | adapted: 'гладко чешет' (slang: talks smoothly) -> 'говорит' |
 | 4 | Аня | Это он у меня научился. | He learned that from me. | #996 00:56:55: Меня научился | adapted: 'Это он у' added (standard grammar) |
-| 5 | Паша | Мы построим кластер. Это тысячи рабочих мест. | We will build the cluster. That means thousands of jobs. | #999 00:57:03: кластер<br>#1001 00:57:08: тысячи рабочих мест | adapted: two long lines of the speech cut down |
+| 5 | Самсон | Мы построим кластер. Это тысячи рабочих мест. | We will build the cluster. That means thousands of jobs. | #999 00:57:03: кластер<br>#1001 00:57:08: тысячи рабочих мест | adapted: two long lines of the speech cut down |
 | 6 | Аня | Паша, эти выборы ты не выиграешь. | Pasha, you won't win this election. | #1003 00:57:17: эти выборы | adapted: clean version of cue 1003 (a rude 'like hell you'll win'); 'Пашенька' -> 'Паша' |
 | 7 | Самсон | Да ладно! | Oh, come on! | new | new: new: Samson's usual reaction (characters.md) |
 | 8 | Аня | Очень плохая водка. | Very bad vodka. | #1004 00:57:20: Очень плохая водка | verbatim |

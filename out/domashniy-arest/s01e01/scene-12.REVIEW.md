@@ -41,7 +41,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'My mother is ill.' Literally, 'Mum is ill.' Russians often say just 'Mum' where English says 'my mother'. And he suggests something else.
 - 'Maybe we could meet now?' The first word means 'maybe', and the verb means 'we will meet'. A very natural way to suggest something. Arkady grumbles, but agrees.
 - 'Your timing couldn't be worse!' Literally, 'how untimely you are!'. Notice that Arkady says the casual 'you' to Arakelyan, while Arakelyan uses the polite one. That tells you who is the boss here.
-- 'Where are you now?' Three short words: 'where', 'you', 'now'. No verb needed.
+- 'Where are you now?' Russian omits the present-tense verb 'to be', connecting 'where' directly with 'now'.
 - 'I'm at the Santa Fe.' It's the name of a café in town. Arkady makes up his mind.
 - 'All right, stay there.' Literally 'be there'. It's the command form of the verb 'to be'.
 - 'I'll be there in ten minutes.' The first word means 'in' when you count time forward. The last word is 'I will be'. In the present, Russian has no 'am', but in the future you do need this verb.

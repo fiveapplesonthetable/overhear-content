@@ -17,8 +17,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 5 | Паша | Ладно. У меня к тебе новое предложение. | All right. I have a new offer for you. | #219 00:15:19: Ладно. У меня к тебе новое предложение | verbatim |
 | 6 | Паша | Я тебе оставляю пять миллионов и условный срок. | I'll leave you five million and a suspended sentence. | #220 00:15:24: Я тебе оставляю пять | adapted: slang 'лямов и плюс условка' -> 'миллионов и условный срок' |
 | 7 | Аня | Пять миллионов — это вообще ни о чём. | Five million is nothing at all. | #236 00:15:58: это вообще ни о чем | adapted: cue 236 '5 лямов' -> 'Пять миллионов' |
-| 8 | Паша | Но я же вижу, как тебе плохо. В тюрьме будет намного хуже, поверь мне. | But I can see how bad things are for you. In prison it will be much worse, believe me. | #223 00:15:30: Но я же вижу, как тебе плохо<br>#225 00:15:33: будет намного хуже, поверь мне | adapted: slang 'на зоне' -> 'В тюрьме'; crude lines 226-228 omitted |
-| 9 | Паша | Ну выйдешь ты через десять лет, и что? А сейчас свобода, машины, море! | Well, you'll get out in ten years, and then what? Right now there's freedom, cars, the sea! | #230 00:15:44: Ну выйдешь ты<br>#230 00:15:44: и что<br>#235 00:15:56: сейчас свобода<br>#235 00:15:56: машины, море | adapted: 'из зоны' and crude 'Телки' omitted; '10' written out |
+| 8 | Паша | Я вижу, как тебе плохо. В тюрьме будет намного хуже, поверь. | But I can see how bad things are for you. In prison it will be much worse, believe me. | #223 00:15:30: вижу, как тебе плохо<br>#225 00:15:33: будет намного хуже, поверь | adapted: slang 'на зоне' -> 'В тюрьме'; crude lines 226-228 omitted |
+| 9 | Паша | Выйдешь ты через десять лет. А сейчас свобода, машины, море! | Well, you'll get out in ten years, and then what? Right now there's freedom, cars, the sea! | #230 00:15:44: выйдешь ты<br>#235 00:15:56: сейчас свобода<br>#235 00:15:56: машины, море | adapted: 'из зоны' and crude 'Телки' omitted; '10' written out |
 | 10 | Паша | Над тобой вся страна смеётся! Все видели, как ты из окна летел. | The whole country is laughing at you! Everyone saw you fly out the window. | #242 00:16:16: Над тобой вся страна<br>#242 00:16:16: как ты из | adapted: slang 'ржет' -> 'смеётся', 'из окон летаешь' -> 'из окна летел' |
 | 11 | Аня | В смысле? А ты что, не знаешь? | What do you mean? Wait, don't you know? | #243 00:16:19: В смысле<br>#244 00:16:20: А ты что, не | adapted: idiom 'не в курсе' -> 'не знаешь' |
 | 12 | Паша | Ты весь интернет порвал! Сосед твой — народный герой! | You broke the whole internet! Your neighbour is a national hero! | #246 00:16:25: Ты весь интернет порвал<br>#248 00:16:29: Сосед твой<br>#248 00:16:29: народный герой | adapted: insult 'дебилушка' in cue 248 dropped |
@@ -35,15 +35,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'All right. I have a new offer for you.' Remember that in episode two Pasha wanted all forty million; now he sweetens the deal.
 - 'I'll leave you five million and a suspended sentence.' Five million roubles out of Arkady's forty million, plus no prison time if Arkady hands over the rest.
 - 'Five million is nothing at all.' Literally 'about nothing at all' — a common colloquial phrase for something worthless or tiny. Pasha tries to scare him with prison.
-- 'But I can see how bad things are for you.' Arkady is sitting there with a bandaged head and ear.
+- 'I can see how bad things are for you.' Arkady is sitting there with a bandaged head and ear.
 - 'In prison it will be much worse, believe me.' The comparative word means 'worse', and the word before it means 'much' or 'by far'.
-- 'Well, you'll get out in ten years, and then what?' With time expressions, the preposition before 'ten years' means 'in' or 'after'.
+- 'You'll get out in ten years.' With time expressions, the preposition before 'ten years' means 'in' or 'after'.
 - 'Right now there's freedom, cars, the sea!' Then Pasha tries to humiliate him with the morning news.
-- 'The whole country is laughing at you!' The verb 'to laugh' takes the preposition 'over' plus the instrumental case: laughing over you.
+- 'The whole country is laughing at you!' The verb 'to laugh' takes the preposition 'over' plus the 'with/as' form: laughing over you.
 - 'Everyone saw you fly out the window.' That is the video Yulia filmed in episode one when Samson threw Arkady out of the ground-floor window. At first Arkady looks puzzled, then he realises what it means.
 - 'What do you mean? Wait, don't you know?' Pasha still thinks this is bad news for Arkady.
 - 'You broke the whole internet! Your neighbour is a national hero!' Literally 'you tore up the whole internet'. And those words 'national hero' give Arkady a brilliant idea.
-- 'How many views does it have? Four million views!' After 'four', the word for 'million' takes the genitive singular, and 'views' is genitive plural. Arkady looks at the screen and grins.
+- 'How many views does it have? Four million views!' After 'four', the word for 'million' takes the 'of'-form singular, and 'views' is plural 'of' form. Arkady looks at the screen and grins.
 - 'You're finished, Pasha! Do you know who this is?' Literally 'an end to you, Pasha'. He turns the phone screen toward Pasha.
 - 'That is the future mayor of Sineozersk!' If Arkady cannot run for mayor himself from under house arrest, he will run his viral-hero neighbour Samson against Pasha!
 - 'Well then, my dear friend, to you!' Arkady raises his plastic cup in a mocking toast, leaving Pasha speechless.

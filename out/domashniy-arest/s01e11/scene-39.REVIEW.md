@@ -10,20 +10,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Какие же у вас взрослые сыновья! | What grown sons you have! | #1152 01:10:43: Какие же у вас сынки, | adapted: compliment on sons |
-| 2 | Аня | Они очень похожи на вас, Лев Егорыч. | They look very much like you, Lev Egorych. | #1152 01:10:43: Лев Егорыч? | adapted: addressing formally |
+| 1 | Вика | Какие же у вас взрослые сыновья! | What grown sons you have! | #1152 01:10:43: Какие же у вас сынки, | adapted: compliment on sons |
+| 2 | Вика | Они очень похожи на вас, Лев Егорыч. | They look very much like you, Lev Egorych. | #1152 01:10:43: Лев Егорыч? | adapted: addressing formally |
 | 3 | Лев | Просто Лев, малышка, без отчества. | Just Lev, sweetheart, without the patronymic. | #1153 01:10:48: Просто Лев, малышка. | adapted: dropping patronymic |
 | 4 | Лев | Зови меня просто: Лёва. | Call me simply: Lyova. | #1154 01:10:52: Лёва. | adapted: asking for nickname |
-| 5 | Аня | Хорошо, Лёва, как скажешь. | All right, Lyova, as you say. | new | new: Vika agrees playfully |
-| 6 | Аня | Мне очень нравится твоё имя. | I like your name very much. | new | new: flattery |
+| 5 | Вика | Хорошо, Лёва, как скажешь. | All right, Lyova, as you say. | new | new: Vika agrees playfully |
+| 6 | Вика | Мне очень нравится твоё имя. | I like your name very much. | new | new: flattery |
 | 7 | Лев | Ты сегодня выглядишь просто прекрасно. | You look simply wonderful today. | new | new: Lev compliments her |
-| 8 | Аня | Спасибо большое за твою доброту. | Thank you very much for your kindness. | new | new: Vika thanks him |
+| 8 | Вика | Спасибо большое за твою доброту. | Thank you very much for your kindness. | new | new: Vika thanks him |
 | 9 | Лев | Я люблю дарить тебе радость. | I love giving you joy. | new | new: Lev's affection |
-| 10 | Аня | Ты всегда делаешь мне подарки. | You always give me gifts. | new | new: gifts acknowledged |
+| 10 | Вика | Ты всегда делаешь мне подарки. | You always give me gifts. | new | new: gifts acknowledged |
 | 11 | Лев | Для тебя мне ничего не жалко. | For you I spare nothing. | new | new: generosity |
-| 12 | Аня | Тогда налей мне ещё бокал вина. | Then pour me another glass of wine. | new | new: asking for wine |
+| 12 | Вика | Тогда налей мне ещё бокал вина. | Then pour me another glass of wine. | new | new: asking for wine |
 | 13 | Лев | С большим удовольствием, дорогая моя! | With great pleasure, my dear! | new | new: pouring wine |
-| 14 | Аня | Давай выпьем за наше общее счастье! | Let us drink to our mutual happiness! | new | new: toast to happiness |
+| 14 | Вика | Давай выпьем за наше общее счастье! | Let us drink to our mutual happiness! | new | new: toast to happiness |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

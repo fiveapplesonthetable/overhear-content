@@ -4,7 +4,7 @@ Title: Болгарская ракия  (Bulgarian Rakia)
 Level: A1 — Duolingo Section 2
 Pair: ru-en
 Source: Домашний арест (Domashniy Arest) S1.06
-Cues 1047-1088. Garbled 'Я лет двадцать с ней играла' (1047) -> 'Я двадцать лет в карты не играла.'; 'пневматическая винтовка' (1058) -> A1 'ружьё'; 'цирроза печени' (1063) -> 'болезни печени'; garbled 'Турацкая' (1067) -> 'Глупая'; 'стопочек' (1081) -> 'маленьких рюмок'; garbled 'выпил' (1083) -> 'выпьем'.
+
 
 Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
@@ -31,8 +31,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Oh, stop it! I haven't played cards for twenty years.' After 'played', Russian says 'in cards' in the accusative plural.
-- 'I thought that my evening would be ruined.' The short passive participle at the end means 'spoiled' or 'ruined'.
+- 'Oh, stop it! I haven't played cards for twenty years.' After 'played', Russian says 'in cards' in the object form plural.
+- 'I thought that my evening would be ruined.' The short passive form at the end means 'spoiled' or 'ruined'.
 - 'And I haven't had such a nice time in ages!' Literally, 'I haven't sat so well for a long time' — sitting together at a table is how Russians describe a warm evening with company.
 - 'I agree. The champagne is finished, and I can't eat any more cake.' Literally, 'the cake no longer climbs in' — a funny everyday expression when you are too full for another bite.
 - 'What, time to go home? I have to get up early tomorrow.' Literally, 'to homes?' — even though their rooms are just a few steps apart down the corridor! They walk over to Arkady's tiny room behind the wardrobe.
@@ -45,7 +45,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Listen, I have some rakia! Do you want some?' Arkady blinks in surprise.
 - 'It's a kind of Bulgarian vodka. My students gave it to me.' Rakia is a strong fruit brandy popular in Bulgaria and the Balkans. Arkady's eyes light up.
 - 'Of course I do! Why didn't you say so?' Literally, 'why were you silent?' Marina brings the little bottle back from her room.
-- 'Only I don't have any small shot glasses.' After 'there are no', the plural noun takes the genitive plural ending.
+- 'Only I don't have any small shot glasses.' After 'there are no', the plural noun takes the plural 'of' form ending.
 - 'No problem! We'll drink from our wine glasses.' In the show he adds 'we're not proud people'. Just then, the communal flat doorbell rings twice.
 - 'Oh, two rings! That's for you.' In a communal flat, each room has its own number of doorbell rings.
 - 'Strange, I'm not expecting anyone. I'll go see now.' He hands Marina the bottle and steps out into the hall.

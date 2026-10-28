@@ -4,7 +4,7 @@ Title: Путь к сердцу Марины  (The Way to Marina's Heart)
 Level: A1 — Duolingo Section 2
 Pair: ru-en
 Source: Домашний арест (Domashniy Arest) S1.08
-Cues 101-134. Arkady complains to his bodyguard about Marina's rejection. When young Lyosha asks to fix his toy tank, the guard gives Arkady practical advice: win over the child to win the mother. Rude words ('Сдрись', 'баба', 'Они тупые') softened for A1.
+
 
 Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 

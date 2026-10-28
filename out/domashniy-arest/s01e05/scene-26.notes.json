@@ -1,4 +1,6 @@
 {
+  "schemaVersion": 1,
+  "id": "domashniy-arest-s01e05-scene-26",
   "lines": [
     {
       "seg": 1,
@@ -9,16 +11,16 @@
           "lemma": "что",
           "pos": "pron",
           "stress": null,
-          "gloss": "why (colloquial)",
-          "gram": "interrogative pronoun used as 'why'"
+          "gloss": "what",
+          "gram": "relative pronoun, accusative"
         },
         {
           "t": "у",
           "lemma": "у",
           "pos": "prep",
           "stress": null,
-          "gloss": "by, with (for possession)",
-          "gram": "takes genitive"
+          "gloss": "at, near, with",
+          "gram": "preposition + genitive"
         },
         {
           "t": "тебя",
@@ -34,15 +36,15 @@
           "pos": "noun",
           "stress": "лицо́",
           "gloss": "face",
-          "gram": "neuter singular, nominative"
+          "gram": "neuter singular nominative"
         },
         {
           "t": "такое",
           "lemma": "такой",
           "pos": "pron",
           "stress": "тако́е",
-          "gloss": "so, such",
-          "gram": "demonstrative, neuter singular, nominative"
+          "gloss": "(what) on earth",
+          "gram": "nominative singular, neuter; что такое = what is"
         },
         {
           "t": "кислое?",
@@ -60,11 +62,11 @@
       "words": [
         {
           "t": "Ничего.",
-          "lemma": "ничего",
+          "lemma": "ничто",
           "pos": "pron",
-          "stress": "Ничего́",
+          "stress": "ничего́",
           "gloss": "nothing",
-          "gram": "negative pronoun"
+          "gram": "genitive (with не); г is said like в"
         },
         {
           "t": "Не",
@@ -80,31 +82,31 @@
           "pos": "verb",
           "stress": "нра́вится",
           "gloss": "is pleasing",
-          "gram": "3rd person singular, present, imperfective"
+          "gram": "present, 3rd person singular, imperfective"
         },
         {
           "t": "мне",
           "lemma": "я",
           "pos": "pron",
           "stress": null,
-          "gloss": "to me",
+          "gloss": "to me (мне некогда = I have no time)",
           "gram": "1st person singular, dative"
         },
         {
           "t": "твоя",
           "lemma": "твой",
-          "pos": "pron",
+          "pos": "det",
           "stress": "твоя́",
           "gloss": "your",
-          "gram": "possessive, feminine singular, nominative"
+          "gram": "possessive, informal, feminine nominative singular"
         },
         {
           "t": "работа,",
           "lemma": "работа",
           "pos": "noun",
           "stress": "рабо́та",
-          "gloss": "work, job",
-          "gram": "feminine singular, nominative"
+          "gloss": "job",
+          "gram": "nominative singular, feminine"
         },
         {
           "t": "дядя",
@@ -112,15 +114,15 @@
           "pos": "noun",
           "stress": "дя́дя",
           "gloss": "Uncle",
-          "gram": "masculine singular, vocative/nominative"
+          "gram": "nominative singular, masculine"
         },
         {
           "t": "Гриша.",
           "lemma": "гриша",
           "pos": "name",
-          "stress": "Гри́ша",
+          "stress": null,
           "gloss": "Grisha",
-          "gram": "masculine singular, vocative/nominative"
+          "gram": "affectionate form of Григорий, nominative singular"
         }
       ]
     },
@@ -133,8 +135,8 @@
           "lemma": "да",
           "pos": "part",
           "stress": null,
-          "gloss": "why, well",
-          "gram": "emphatic particle"
+          "gloss": "yes (да ну = really?)",
+          "gram": "particle in the set phrase да ну"
         },
         {
           "t": "они",
@@ -147,10 +149,10 @@
         {
           "t": "просто",
           "lemma": "просто",
-          "pos": "part",
+          "pos": "adv",
           "stress": "про́сто",
-          "gloss": "just, simply",
-          "gram": "particle"
+          "gloss": "just",
+          "gram": "adverb"
         },
         {
           "t": "нас",
@@ -158,7 +160,7 @@
           "pos": "pron",
           "stress": null,
           "gloss": "us",
-          "gram": "1st person plural, accusative"
+          "gram": "1st person plural, genitive"
         },
         {
           "t": "врасплох",
@@ -180,9 +182,9 @@
           "t": "Это",
           "lemma": "это",
           "pos": "pron",
-          "stress": "Э́то",
-          "gloss": "it",
-          "gram": "demonstrative, unchanging"
+          "stress": "э́то",
+          "gloss": "this",
+          "gram": "demonstrative pronoun, nominative"
         },
         {
           "t": "был",
@@ -190,15 +192,15 @@
           "pos": "verb",
           "stress": null,
           "gloss": "was",
-          "gram": "masculine singular, past"
+          "gram": "past tense, masculine singular"
         },
         {
           "t": "сюрприз.",
           "lemma": "сюрприз",
           "pos": "noun",
           "stress": "сюрпри́з",
-          "gloss": "a surprise",
-          "gram": "masculine singular, nominative"
+          "gloss": "surprise",
+          "gram": "accusative singular masculine"
         }
       ]
     },
@@ -209,10 +211,10 @@
         {
           "t": "Какой",
           "lemma": "какой",
-          "pos": "pron",
-          "stress": "Како́й",
-          "gloss": "what (kind of)",
-          "gram": "interrogative, masculine singular, nominative"
+          "pos": "det",
+          "stress": "како́й",
+          "gloss": "what a, how",
+          "gram": "nominative masculine singular, exclamation"
         },
         {
           "t": "сюрприз?",
@@ -220,7 +222,7 @@
           "pos": "noun",
           "stress": "сюрпри́з",
           "gloss": "surprise",
-          "gram": "masculine singular, nominative"
+          "gram": "accusative singular masculine"
         },
         {
           "t": "Он",
@@ -228,7 +230,7 @@
           "pos": "pron",
           "stress": null,
           "gloss": "he",
-          "gram": "3rd person masculine singular, nominative"
+          "gram": "masculine nominative singular"
         },
         {
           "t": "меня",
@@ -236,31 +238,31 @@
           "pos": "pron",
           "stress": "меня́",
           "gloss": "me",
-          "gram": "1st person singular, accusative"
+          "gram": "1st person singular, genitive"
         },
         {
           "t": "схватил",
           "lemma": "схватить",
           "pos": "verb",
           "stress": "схвати́л",
-          "gloss": "grabbed",
-          "gram": "masculine singular, past, perfective"
+          "gloss": "grabbed (grab)",
+          "gram": "past, masculine singular, perfective; used vividly for a quick future action"
         },
         {
           "t": "как",
           "lemma": "как",
-          "pos": "conj",
+          "pos": "adv",
           "stress": null,
-          "gloss": "like, as",
-          "gram": "conjunction"
+          "gloss": "how",
+          "gram": "question word"
         },
         {
           "t": "специалист!",
           "lemma": "специалист",
           "pos": "noun",
           "stress": "специали́ст",
-          "gloss": "a specialist, a pro",
-          "gram": "masculine singular, nominative"
+          "gloss": "specialist",
+          "gram": "masculine, nominative singular, animate"
         }
       ]
     },
@@ -272,33 +274,33 @@
           "t": "Почему",
           "lemma": "почему",
           "pos": "adv",
-          "stress": "Почему́",
+          "stress": "почему́",
           "gloss": "why",
-          "gram": "interrogative adverb"
+          "gram": "question word"
         },
         {
           "t": "ты",
           "lemma": "ты",
           "pos": "pron",
           "stress": null,
-          "gloss": "you (informal)",
-          "gram": "2nd person singular, nominative"
+          "gloss": "you",
+          "gram": "2nd person singular, nominative, informal"
         },
         {
           "t": "пошёл",
           "lemma": "пойти",
           "pos": "verb",
-          "stress": "пошёл",
-          "gloss": "went",
-          "gram": "masculine singular, past, perfective"
+          "stress": null,
+          "gloss": "went, set off",
+          "gram": "past, masculine singular, perfective"
         },
         {
           "t": "на",
           "lemma": "на",
           "pos": "prep",
           "stress": null,
-          "gloss": "at, against",
-          "gram": "takes accusative"
+          "gloss": "on, onto",
+          "gram": "preposition"
         },
         {
           "t": "них",
@@ -306,15 +308,15 @@
           "pos": "pron",
           "stress": null,
           "gloss": "them",
-          "gram": "3rd person plural, accusative"
+          "gram": "3rd plural, genitive"
         },
         {
           "t": "с",
           "lemma": "с",
           "pos": "prep",
           "stress": null,
-          "gloss": "with",
-          "gram": "takes instrumental"
+          "gloss": "with / from",
+          "gram": "preposition"
         },
         {
           "t": "пустыми",
@@ -344,15 +346,15 @@
           "pos": "adv",
           "stress": null,
           "gloss": "where",
-          "gram": "interrogative adverb"
+          "gram": "question word"
         },
         {
           "t": "твоя",
           "lemma": "твой",
-          "pos": "pron",
+          "pos": "det",
           "stress": "твоя́",
           "gloss": "your",
-          "gram": "possessive, feminine singular, nominative"
+          "gram": "possessive, informal, feminine nominative singular"
         },
         {
           "t": "дубинка?",
@@ -373,8 +375,8 @@
           "lemma": "в",
           "pos": "prep",
           "stress": null,
-          "gloss": "in",
-          "gram": "takes prepositional (location)"
+          "gloss": "in, into",
+          "gram": "preposition"
         },
         {
           "t": "ящике",
@@ -389,14 +391,14 @@
           "lemma": "она",
           "pos": "pron",
           "stress": "она́",
-          "gloss": "it (she)",
-          "gram": "3rd person feminine singular, nominative"
+          "gloss": "it (the pipe)",
+          "gram": "nominative, feminine"
         },
         {
           "t": "Лежит",
           "lemma": "лежать",
           "pos": "verb",
-          "stress": "Лежи́т",
+          "stress": "лежи́т",
           "gloss": "is lying",
           "gram": "3rd person singular, present, imperfective"
         },
@@ -405,8 +407,8 @@
           "lemma": "она",
           "pos": "pron",
           "stress": "она́",
-          "gloss": "it (she)",
-          "gram": "3rd person feminine singular, nominative"
+          "gloss": "it (the pipe)",
+          "gram": "nominative, feminine"
         },
         {
           "t": "там!",
@@ -426,16 +428,16 @@
           "t": "Она",
           "lemma": "она",
           "pos": "pron",
-          "stress": "Она́",
-          "gloss": "it (she)",
-          "gram": "3rd person feminine singular, nominative"
+          "stress": "она́",
+          "gloss": "it (the pipe)",
+          "gram": "nominative, feminine"
         },
         {
           "t": "должна",
           "lemma": "должен",
           "pos": "adj",
           "stress": "должна́",
-          "gloss": "must, should",
+          "gloss": "should, must",
           "gram": "short form, feminine singular"
         },
         {
@@ -444,15 +446,15 @@
           "pos": "verb",
           "stress": null,
           "gloss": "be",
-          "gram": "infinitive"
+          "gram": "infinitive, imperfective"
         },
         {
           "t": "в",
           "lemma": "в",
           "pos": "prep",
           "stress": null,
-          "gloss": "in",
-          "gram": "takes prepositional (location)"
+          "gloss": "in, into",
+          "gram": "preposition"
         },
         {
           "t": "руке",
@@ -460,7 +462,7 @@
           "pos": "noun",
           "stress": "руке́",
           "gloss": "hand",
-          "gram": "feminine singular, prepositional"
+          "gram": "feminine singular prepositional"
         },
         {
           "t": "всегда!",
@@ -475,7 +477,7 @@
           "lemma": "вот",
           "pos": "part",
           "stress": null,
-          "gloss": "there",
+          "gloss": "there, here",
           "gram": "pointing particle"
         },
         {
@@ -483,16 +485,16 @@
           "lemma": "другой",
           "pos": "adj",
           "stress": "друго́е",
-          "gloss": "another (другое дело = that's more like it)",
-          "gram": "neuter singular, nominative"
+          "gloss": "another, other",
+          "gram": "accusative singular, neuter"
         },
         {
           "t": "дело.",
           "lemma": "дело",
           "pos": "noun",
           "stress": "де́ло",
-          "gloss": "matter, thing",
-          "gram": "neuter singular, nominative"
+          "gloss": "matter",
+          "gram": "nominative singular, neuter"
         }
       ]
     },
@@ -506,7 +508,7 @@
           "pos": "pron",
           "stress": null,
           "gloss": "what",
-          "gram": "interrogative, accusative"
+          "gram": "relative pronoun, accusative"
         },
         {
           "t": "мы",
@@ -521,8 +523,8 @@
           "lemma": "с",
           "pos": "prep",
           "stress": null,
-          "gloss": "with, about",
-          "gram": "takes instrumental"
+          "gloss": "with / from",
+          "gram": "preposition"
         },
         {
           "t": "долгом",
@@ -535,26 +537,26 @@
         {
           "t": "этой",
           "lemma": "этот",
-          "pos": "pron",
+          "pos": "det",
           "stress": "э́той",
-          "gloss": "this, that",
-          "gram": "demonstrative, feminine singular, genitive"
+          "gloss": "this",
+          "gram": "genitive, feminine singular"
         },
         {
           "t": "женщины",
           "lemma": "женщина",
           "pos": "noun",
           "stress": "же́нщины",
-          "gloss": "of woman",
-          "gram": "feminine singular, genitive"
+          "gloss": "woman",
+          "gram": "genitive singular, feminine"
         },
         {
           "t": "будем",
           "lemma": "быть",
           "pos": "verb",
           "stress": "бу́дем",
-          "gloss": "will, are going to",
-          "gram": "1st person plural, future"
+          "gloss": "will (not)",
+          "gram": "future, 1st person plural (auxiliary of the compound future)"
         },
         {
           "t": "делать?",
@@ -574,17 +576,17 @@
           "t": "Она",
           "lemma": "она",
           "pos": "pron",
-          "stress": "Она́",
-          "gloss": "she",
-          "gram": "3rd person feminine singular, nominative"
+          "stress": "она́",
+          "gloss": "it (the pipe)",
+          "gram": "nominative, feminine"
         },
         {
           "t": "нам",
           "lemma": "мы",
           "pos": "pron",
           "stress": null,
-          "gloss": "to us",
-          "gram": "1st person plural, dative"
+          "gloss": "us",
+          "gram": "1st person plural dative"
         },
         {
           "t": "теперь",
@@ -599,7 +601,7 @@
           "lemma": "должен",
           "pos": "adj",
           "stress": "должна́",
-          "gloss": "owes",
+          "gloss": "should, must",
           "gram": "short form, feminine singular"
         },
         {
@@ -608,7 +610,7 @@
           "pos": "noun",
           "stress": "де́ньги",
           "gloss": "money",
-          "gram": "pluralia tantum, accusative"
+          "gram": "nominative plural (plural only)"
         },
         {
           "t": "И",
@@ -623,8 +625,8 @@
           "lemma": "золотой",
           "pos": "adj",
           "stress": "золоты́е",
-          "gloss": "gold",
-          "gram": "plural, accusative"
+          "gloss": "golden",
+          "gram": "accusative plural"
         },
         {
           "t": "часы",
@@ -632,14 +634,14 @@
           "pos": "noun",
           "stress": "часы́",
           "gloss": "watch",
-          "gram": "pluralia tantum, accusative"
+          "gram": "accusative, plural-only noun"
         },
         {
           "t": "тоже!",
           "lemma": "тоже",
           "pos": "adv",
           "stress": "то́же",
-          "gloss": "too, also",
+          "gloss": "too",
           "gram": "adverb"
         }
       ]
@@ -660,17 +662,17 @@
           "t": "её",
           "lemma": "она",
           "pos": "pron",
-          "stress": "её",
+          "stress": null,
           "gloss": "her",
-          "gram": "3rd person feminine singular, accusative"
+          "gram": "3rd person singular feminine, accusative"
         },
         {
           "t": "сильно",
           "lemma": "сильно",
           "pos": "adv",
           "stress": "си́льно",
-          "gloss": "badly, strongly",
-          "gram": "adverb"
+          "gloss": "strongly, much",
+          "gram": "adverb of degree"
         },
         {
           "t": "напугаем!",
@@ -684,7 +686,7 @@
           "t": "Бутылку",
           "lemma": "бутылка",
           "pos": "noun",
-          "stress": "Буты́лку",
+          "stress": "буты́лку",
           "gloss": "a bottle",
           "gram": "feminine singular, accusative"
         },
@@ -702,15 +704,15 @@
           "pos": "pron",
           "stress": null,
           "gloss": "to her",
-          "gram": "3rd person feminine singular, dative"
+          "gram": "3rd person feminine dative"
         },
         {
           "t": "в",
           "lemma": "в",
           "pos": "prep",
           "stress": null,
-          "gloss": "into, through",
-          "gram": "takes accusative (direction)"
+          "gloss": "in, into",
+          "gram": "preposition"
         },
         {
           "t": "окно.",
@@ -718,7 +720,7 @@
           "pos": "noun",
           "stress": "окно́",
           "gloss": "window",
-          "gram": "neuter singular, accusative"
+          "gram": "accusative singular, neuter"
         }
       ]
     },
@@ -730,33 +732,33 @@
           "t": "Потому",
           "lemma": "потому",
           "pos": "adv",
-          "stress": "Потому́",
-          "gloss": "because (потому что)",
-          "gram": "adverb"
+          "stress": "потому́",
+          "gloss": "because (with что)",
+          "gram": "потому что = because"
         },
         {
           "t": "что",
           "lemma": "что",
-          "pos": "conj",
+          "pos": "pron",
           "stress": null,
-          "gloss": "that (in потому что = because)",
-          "gram": "conjunction"
+          "gloss": "what",
+          "gram": "relative pronoun, accusative"
         },
         {
           "t": "это",
           "lemma": "это",
           "pos": "pron",
           "stress": "э́то",
-          "gloss": "this is",
-          "gram": "demonstrative, unchanging"
+          "gloss": "this",
+          "gram": "demonstrative pronoun, nominative"
         },
         {
           "t": "наша",
           "lemma": "наш",
-          "pos": "pron",
+          "pos": "det",
           "stress": "на́ша",
           "gloss": "our",
-          "gram": "possessive, feminine singular, nominative"
+          "gram": "possessive, nominative singular, feminine"
         },
         {
           "t": "поляна!",
@@ -780,7 +782,7 @@
           "pos": "adv",
           "stress": null,
           "gloss": "here",
-          "gram": "adverb of place"
+          "gram": "adverb"
         },
         {
           "t": "решаем!",
@@ -799,17 +801,17 @@
         {
           "t": "Наша",
           "lemma": "наш",
-          "pos": "pron",
-          "stress": "На́ша",
+          "pos": "det",
+          "stress": "на́ша",
           "gloss": "our",
-          "gram": "possessive, feminine singular, nominative"
+          "gram": "possessive, nominative singular, feminine"
         },
         {
           "t": "поляна!",
           "lemma": "поляна",
           "pos": "noun",
           "stress": "поля́на",
-          "gloss": "turf",
+          "gloss": "turf (lit. clearing)",
           "gram": "feminine singular, nominative"
         },
         {
@@ -833,8 +835,8 @@
           "lemma": "да",
           "pos": "part",
           "stress": null,
-          "gloss": "yes!",
-          "gram": "affirmative particle"
+          "gloss": "yes (да ну = really?)",
+          "gram": "particle in the set phrase да ну"
         }
       ]
     },
@@ -846,9 +848,9 @@
           "t": "Извините,",
           "lemma": "извинить",
           "pos": "verb",
-          "stress": "Извини́те",
-          "gloss": "excuse me",
-          "gram": "2nd person plural, imperative, perfective"
+          "stress": "извини́те",
+          "gloss": "sorry, excuse me",
+          "gram": "imperative, polite/plural, perfective"
         },
         {
           "t": "пожалуйста.",
@@ -856,7 +858,7 @@
           "pos": "part",
           "stress": "пожа́луйста",
           "gloss": "please",
-          "gram": "politeness particle"
+          "gram": "politeness word"
         },
         {
           "t": "Вы",
@@ -894,13 +896,13 @@
           "pos": "prep",
           "stress": null,
           "gloss": "from",
-          "gram": "takes genitive"
+          "gram": "preposition + genitive"
         },
         {
           "t": "Аркадия",
           "lemma": "аркадий",
           "pos": "name",
-          "stress": "Арка́дия",
+          "stress": null,
           "gloss": "Arkady",
           "gram": "masculine singular, genitive"
         },
@@ -908,7 +910,7 @@
           "t": "Борисовича.",
           "lemma": "борисович",
           "pos": "name",
-          "stress": "Бори́совича",
+          "stress": null,
           "gloss": "Borisovich (patronymic)",
           "gram": "masculine singular, genitive"
         },
@@ -916,8 +918,8 @@
           "t": "Хорошая",
           "lemma": "хороший",
           "pos": "adj",
-          "stress": "Хоро́шая",
-          "gloss": "good, nice",
+          "stress": "хоро́шая",
+          "gloss": "good",
           "gram": "feminine singular, nominative"
         },
         {
@@ -925,8 +927,8 @@
           "lemma": "вещь",
           "pos": "noun",
           "stress": null,
-          "gloss": "thing, piece",
-          "gram": "feminine singular, nominative"
+          "gloss": "thing",
+          "gram": "f inan acc sg"
         }
       ]
     },
@@ -939,16 +941,16 @@
           "lemma": "что",
           "pos": "pron",
           "stress": null,
-          "gloss": "why (colloquial)",
-          "gram": "interrogative pronoun used as 'why'"
+          "gloss": "what",
+          "gram": "relative pronoun, accusative"
         },
         {
           "t": "у",
           "lemma": "у",
           "pos": "prep",
           "stress": null,
-          "gloss": "by, with (for possession)",
-          "gram": "takes genitive"
+          "gloss": "at, near, with",
+          "gram": "preposition + genitive"
         },
         {
           "t": "тебя",
@@ -964,15 +966,15 @@
           "pos": "noun",
           "stress": "лицо́",
           "gloss": "face",
-          "gram": "neuter singular, nominative"
+          "gram": "neuter singular nominative"
         },
         {
           "t": "такое",
           "lemma": "такой",
           "pos": "pron",
           "stress": "тако́е",
-          "gloss": "so, such",
-          "gram": "demonstrative, neuter singular, nominative"
+          "gloss": "(what) on earth",
+          "gram": "nominative singular, neuter; что такое = what is"
         },
         {
           "t": "кислое?",
@@ -990,11 +992,11 @@
       "words": [
         {
           "t": "Ничего.",
-          "lemma": "ничего",
+          "lemma": "ничто",
           "pos": "pron",
-          "stress": "Ничего́",
+          "stress": "ничего́",
           "gloss": "nothing",
-          "gram": "negative pronoun"
+          "gram": "genitive (with не); г is said like в"
         },
         {
           "t": "Не",
@@ -1010,31 +1012,31 @@
           "pos": "verb",
           "stress": "нра́вится",
           "gloss": "is pleasing",
-          "gram": "3rd person singular, present, imperfective"
+          "gram": "present, 3rd person singular, imperfective"
         },
         {
           "t": "мне",
           "lemma": "я",
           "pos": "pron",
           "stress": null,
-          "gloss": "to me",
+          "gloss": "to me (мне некогда = I have no time)",
           "gram": "1st person singular, dative"
         },
         {
           "t": "твоя",
           "lemma": "твой",
-          "pos": "pron",
+          "pos": "det",
           "stress": "твоя́",
           "gloss": "your",
-          "gram": "possessive, feminine singular, nominative"
+          "gram": "possessive, informal, feminine nominative singular"
         },
         {
           "t": "работа,",
           "lemma": "работа",
           "pos": "noun",
           "stress": "рабо́та",
-          "gloss": "work, job",
-          "gram": "feminine singular, nominative"
+          "gloss": "job",
+          "gram": "nominative singular, feminine"
         },
         {
           "t": "дядя",
@@ -1042,15 +1044,15 @@
           "pos": "noun",
           "stress": "дя́дя",
           "gloss": "Uncle",
-          "gram": "masculine singular, vocative/nominative"
+          "gram": "nominative singular, masculine"
         },
         {
           "t": "Гриша.",
           "lemma": "гриша",
           "pos": "name",
-          "stress": "Гри́ша",
+          "stress": null,
           "gloss": "Grisha",
-          "gram": "masculine singular, vocative/nominative"
+          "gram": "affectionate form of Григорий, nominative singular"
         }
       ]
     },
@@ -1063,8 +1065,8 @@
           "lemma": "да",
           "pos": "part",
           "stress": null,
-          "gloss": "why, well",
-          "gram": "emphatic particle"
+          "gloss": "yes (да ну = really?)",
+          "gram": "particle in the set phrase да ну"
         },
         {
           "t": "они",
@@ -1077,10 +1079,10 @@
         {
           "t": "просто",
           "lemma": "просто",
-          "pos": "part",
+          "pos": "adv",
           "stress": "про́сто",
-          "gloss": "just, simply",
-          "gram": "particle"
+          "gloss": "just",
+          "gram": "adverb"
         },
         {
           "t": "нас",
@@ -1088,7 +1090,7 @@
           "pos": "pron",
           "stress": null,
           "gloss": "us",
-          "gram": "1st person plural, accusative"
+          "gram": "1st person plural, genitive"
         },
         {
           "t": "врасплох",
@@ -1110,9 +1112,9 @@
           "t": "Это",
           "lemma": "это",
           "pos": "pron",
-          "stress": "Э́то",
-          "gloss": "it",
-          "gram": "demonstrative, unchanging"
+          "stress": "э́то",
+          "gloss": "this",
+          "gram": "demonstrative pronoun, nominative"
         },
         {
           "t": "был",
@@ -1120,15 +1122,15 @@
           "pos": "verb",
           "stress": null,
           "gloss": "was",
-          "gram": "masculine singular, past"
+          "gram": "past tense, masculine singular"
         },
         {
           "t": "сюрприз.",
           "lemma": "сюрприз",
           "pos": "noun",
           "stress": "сюрпри́з",
-          "gloss": "a surprise",
-          "gram": "masculine singular, nominative"
+          "gloss": "surprise",
+          "gram": "accusative singular masculine"
         }
       ]
     },
@@ -1139,10 +1141,10 @@
         {
           "t": "Какой",
           "lemma": "какой",
-          "pos": "pron",
-          "stress": "Како́й",
-          "gloss": "what (kind of)",
-          "gram": "interrogative, masculine singular, nominative"
+          "pos": "det",
+          "stress": "како́й",
+          "gloss": "what a, how",
+          "gram": "nominative masculine singular, exclamation"
         },
         {
           "t": "сюрприз?",
@@ -1150,7 +1152,7 @@
           "pos": "noun",
           "stress": "сюрпри́з",
           "gloss": "surprise",
-          "gram": "masculine singular, nominative"
+          "gram": "accusative singular masculine"
         },
         {
           "t": "Он",
@@ -1158,7 +1160,7 @@
           "pos": "pron",
           "stress": null,
           "gloss": "he",
-          "gram": "3rd person masculine singular, nominative"
+          "gram": "masculine nominative singular"
         },
         {
           "t": "меня",
@@ -1166,31 +1168,31 @@
           "pos": "pron",
           "stress": "меня́",
           "gloss": "me",
-          "gram": "1st person singular, accusative"
+          "gram": "1st person singular, genitive"
         },
         {
           "t": "схватил",
           "lemma": "схватить",
           "pos": "verb",
           "stress": "схвати́л",
-          "gloss": "grabbed",
-          "gram": "masculine singular, past, perfective"
+          "gloss": "grabbed (grab)",
+          "gram": "past, masculine singular, perfective; used vividly for a quick future action"
         },
         {
           "t": "как",
           "lemma": "как",
-          "pos": "conj",
+          "pos": "adv",
           "stress": null,
-          "gloss": "like, as",
-          "gram": "conjunction"
+          "gloss": "how",
+          "gram": "question word"
         },
         {
           "t": "специалист!",
           "lemma": "специалист",
           "pos": "noun",
           "stress": "специали́ст",
-          "gloss": "a specialist, a pro",
-          "gram": "masculine singular, nominative"
+          "gloss": "specialist",
+          "gram": "masculine, nominative singular, animate"
         }
       ]
     },
@@ -1202,33 +1204,33 @@
           "t": "Почему",
           "lemma": "почему",
           "pos": "adv",
-          "stress": "Почему́",
+          "stress": "почему́",
           "gloss": "why",
-          "gram": "interrogative adverb"
+          "gram": "question word"
         },
         {
           "t": "ты",
           "lemma": "ты",
           "pos": "pron",
           "stress": null,
-          "gloss": "you (informal)",
-          "gram": "2nd person singular, nominative"
+          "gloss": "you",
+          "gram": "2nd person singular, nominative, informal"
         },
         {
           "t": "пошёл",
           "lemma": "пойти",
           "pos": "verb",
-          "stress": "пошёл",
-          "gloss": "went",
-          "gram": "masculine singular, past, perfective"
+          "stress": null,
+          "gloss": "went, set off",
+          "gram": "past, masculine singular, perfective"
         },
         {
           "t": "на",
           "lemma": "на",
           "pos": "prep",
           "stress": null,
-          "gloss": "at, against",
-          "gram": "takes accusative"
+          "gloss": "on, onto",
+          "gram": "preposition"
         },
         {
           "t": "них",
@@ -1236,15 +1238,15 @@
           "pos": "pron",
           "stress": null,
           "gloss": "them",
-          "gram": "3rd person plural, accusative"
+          "gram": "3rd plural, genitive"
         },
         {
           "t": "с",
           "lemma": "с",
           "pos": "prep",
           "stress": null,
-          "gloss": "with",
-          "gram": "takes instrumental"
+          "gloss": "with / from",
+          "gram": "preposition"
         },
         {
           "t": "пустыми",
@@ -1274,15 +1276,15 @@
           "pos": "adv",
           "stress": null,
           "gloss": "where",
-          "gram": "interrogative adverb"
+          "gram": "question word"
         },
         {
           "t": "твоя",
           "lemma": "твой",
-          "pos": "pron",
+          "pos": "det",
           "stress": "твоя́",
           "gloss": "your",
-          "gram": "possessive, feminine singular, nominative"
+          "gram": "possessive, informal, feminine nominative singular"
         },
         {
           "t": "дубинка?",
@@ -1303,8 +1305,8 @@
           "lemma": "в",
           "pos": "prep",
           "stress": null,
-          "gloss": "in",
-          "gram": "takes prepositional (location)"
+          "gloss": "in, into",
+          "gram": "preposition"
         },
         {
           "t": "ящике",
@@ -1319,14 +1321,14 @@
           "lemma": "она",
           "pos": "pron",
           "stress": "она́",
-          "gloss": "it (she)",
-          "gram": "3rd person feminine singular, nominative"
+          "gloss": "it (the pipe)",
+          "gram": "nominative, feminine"
         },
         {
           "t": "Лежит",
           "lemma": "лежать",
           "pos": "verb",
-          "stress": "Лежи́т",
+          "stress": "лежи́т",
           "gloss": "is lying",
           "gram": "3rd person singular, present, imperfective"
         },
@@ -1335,8 +1337,8 @@
           "lemma": "она",
           "pos": "pron",
           "stress": "она́",
-          "gloss": "it (she)",
-          "gram": "3rd person feminine singular, nominative"
+          "gloss": "it (the pipe)",
+          "gram": "nominative, feminine"
         },
         {
           "t": "там!",
@@ -1356,16 +1358,16 @@
           "t": "Она",
           "lemma": "она",
           "pos": "pron",
-          "stress": "Она́",
-          "gloss": "it (she)",
-          "gram": "3rd person feminine singular, nominative"
+          "stress": "она́",
+          "gloss": "it (the pipe)",
+          "gram": "nominative, feminine"
         },
         {
           "t": "должна",
           "lemma": "должен",
           "pos": "adj",
           "stress": "должна́",
-          "gloss": "must, should",
+          "gloss": "should, must",
           "gram": "short form, feminine singular"
         },
         {
@@ -1374,15 +1376,15 @@
           "pos": "verb",
           "stress": null,
           "gloss": "be",
-          "gram": "infinitive"
+          "gram": "infinitive, imperfective"
         },
         {
           "t": "в",
           "lemma": "в",
           "pos": "prep",
           "stress": null,
-          "gloss": "in",
-          "gram": "takes prepositional (location)"
+          "gloss": "in, into",
+          "gram": "preposition"
         },
         {
           "t": "руке",
@@ -1390,7 +1392,7 @@
           "pos": "noun",
           "stress": "руке́",
           "gloss": "hand",
-          "gram": "feminine singular, prepositional"
+          "gram": "feminine singular prepositional"
         },
         {
           "t": "всегда!",
@@ -1405,7 +1407,7 @@
           "lemma": "вот",
           "pos": "part",
           "stress": null,
-          "gloss": "there",
+          "gloss": "there, here",
           "gram": "pointing particle"
         },
         {
@@ -1413,16 +1415,16 @@
           "lemma": "другой",
           "pos": "adj",
           "stress": "друго́е",
-          "gloss": "another (другое дело = that's more like it)",
-          "gram": "neuter singular, nominative"
+          "gloss": "another, other",
+          "gram": "accusative singular, neuter"
         },
         {
           "t": "дело.",
           "lemma": "дело",
           "pos": "noun",
           "stress": "де́ло",
-          "gloss": "matter, thing",
-          "gram": "neuter singular, nominative"
+          "gloss": "matter",
+          "gram": "nominative singular, neuter"
         }
       ]
     },
@@ -1436,7 +1438,7 @@
           "pos": "pron",
           "stress": null,
           "gloss": "what",
-          "gram": "interrogative, accusative"
+          "gram": "relative pronoun, accusative"
         },
         {
           "t": "мы",
@@ -1451,8 +1453,8 @@
           "lemma": "с",
           "pos": "prep",
           "stress": null,
-          "gloss": "with, about",
-          "gram": "takes instrumental"
+          "gloss": "with / from",
+          "gram": "preposition"
         },
         {
           "t": "долгом",
@@ -1465,26 +1467,26 @@
         {
           "t": "этой",
           "lemma": "этот",
-          "pos": "pron",
+          "pos": "det",
           "stress": "э́той",
-          "gloss": "this, that",
-          "gram": "demonstrative, feminine singular, genitive"
+          "gloss": "this",
+          "gram": "genitive, feminine singular"
         },
         {
           "t": "женщины",
           "lemma": "женщина",
           "pos": "noun",
           "stress": "же́нщины",
-          "gloss": "of woman",
-          "gram": "feminine singular, genitive"
+          "gloss": "woman",
+          "gram": "genitive singular, feminine"
         },
         {
           "t": "будем",
           "lemma": "быть",
           "pos": "verb",
           "stress": "бу́дем",
-          "gloss": "will, are going to",
-          "gram": "1st person plural, future"
+          "gloss": "will (not)",
+          "gram": "future, 1st person plural (auxiliary of the compound future)"
         },
         {
           "t": "делать?",
@@ -1504,17 +1506,17 @@
           "t": "Она",
           "lemma": "она",
           "pos": "pron",
-          "stress": "Она́",
-          "gloss": "she",
-          "gram": "3rd person feminine singular, nominative"
+          "stress": "она́",
+          "gloss": "it (the pipe)",
+          "gram": "nominative, feminine"
         },
         {
           "t": "нам",
           "lemma": "мы",
           "pos": "pron",
           "stress": null,
-          "gloss": "to us",
-          "gram": "1st person plural, dative"
+          "gloss": "us",
+          "gram": "1st person plural dative"
         },
         {
           "t": "теперь",
@@ -1529,7 +1531,7 @@
           "lemma": "должен",
           "pos": "adj",
           "stress": "должна́",
-          "gloss": "owes",
+          "gloss": "should, must",
           "gram": "short form, feminine singular"
         },
         {
@@ -1538,7 +1540,7 @@
           "pos": "noun",
           "stress": "де́ньги",
           "gloss": "money",
-          "gram": "pluralia tantum, accusative"
+          "gram": "nominative plural (plural only)"
         },
         {
           "t": "И",
@@ -1553,8 +1555,8 @@
           "lemma": "золотой",
           "pos": "adj",
           "stress": "золоты́е",
-          "gloss": "gold",
-          "gram": "plural, accusative"
+          "gloss": "golden",
+          "gram": "accusative plural"
         },
         {
           "t": "часы",
@@ -1562,14 +1564,14 @@
           "pos": "noun",
           "stress": "часы́",
           "gloss": "watch",
-          "gram": "pluralia tantum, accusative"
+          "gram": "accusative, plural-only noun"
         },
         {
           "t": "тоже!",
           "lemma": "тоже",
           "pos": "adv",
           "stress": "то́же",
-          "gloss": "too, also",
+          "gloss": "too",
           "gram": "adverb"
         }
       ]
@@ -1590,17 +1592,17 @@
           "t": "её",
           "lemma": "она",
           "pos": "pron",
-          "stress": "её",
+          "stress": null,
           "gloss": "her",
-          "gram": "3rd person feminine singular, accusative"
+          "gram": "3rd person singular feminine, accusative"
         },
         {
           "t": "сильно",
           "lemma": "сильно",
           "pos": "adv",
           "stress": "си́льно",
-          "gloss": "badly, strongly",
-          "gram": "adverb"
+          "gloss": "strongly, much",
+          "gram": "adverb of degree"
         },
         {
           "t": "напугаем!",
@@ -1614,7 +1616,7 @@
           "t": "Бутылку",
           "lemma": "бутылка",
           "pos": "noun",
-          "stress": "Буты́лку",
+          "stress": "буты́лку",
           "gloss": "a bottle",
           "gram": "feminine singular, accusative"
         },
@@ -1632,15 +1634,15 @@
           "pos": "pron",
           "stress": null,
           "gloss": "to her",
-          "gram": "3rd person feminine singular, dative"
+          "gram": "3rd person feminine dative"
         },
         {
           "t": "в",
           "lemma": "в",
           "pos": "prep",
           "stress": null,
-          "gloss": "into, through",
-          "gram": "takes accusative (direction)"
+          "gloss": "in, into",
+          "gram": "preposition"
         },
         {
           "t": "окно.",
@@ -1648,7 +1650,7 @@
           "pos": "noun",
           "stress": "окно́",
           "gloss": "window",
-          "gram": "neuter singular, accusative"
+          "gram": "accusative singular, neuter"
         }
       ]
     },
@@ -1660,33 +1662,33 @@
           "t": "Потому",
           "lemma": "потому",
           "pos": "adv",
-          "stress": "Потому́",
-          "gloss": "because (потому что)",
-          "gram": "adverb"
+          "stress": "потому́",
+          "gloss": "because (with что)",
+          "gram": "потому что = because"
         },
         {
           "t": "что",
           "lemma": "что",
-          "pos": "conj",
+          "pos": "pron",
           "stress": null,
-          "gloss": "that (in потому что = because)",
-          "gram": "conjunction"
+          "gloss": "what",
+          "gram": "relative pronoun, accusative"
         },
         {
           "t": "это",
           "lemma": "это",
           "pos": "pron",
           "stress": "э́то",
-          "gloss": "this is",
-          "gram": "demonstrative, unchanging"
+          "gloss": "this",
+          "gram": "demonstrative pronoun, nominative"
         },
         {
           "t": "наша",
           "lemma": "наш",
-          "pos": "pron",
+          "pos": "det",
           "stress": "на́ша",
           "gloss": "our",
-          "gram": "possessive, feminine singular, nominative"
+          "gram": "possessive, nominative singular, feminine"
         },
         {
           "t": "поляна!",
@@ -1710,7 +1712,7 @@
           "pos": "adv",
           "stress": null,
           "gloss": "here",
-          "gram": "adverb of place"
+          "gram": "adverb"
         },
         {
           "t": "решаем!",
@@ -1729,17 +1731,17 @@
         {
           "t": "Наша",
           "lemma": "наш",
-          "pos": "pron",
-          "stress": "На́ша",
+          "pos": "det",
+          "stress": "на́ша",
           "gloss": "our",
-          "gram": "possessive, feminine singular, nominative"
+          "gram": "possessive, nominative singular, feminine"
         },
         {
           "t": "поляна!",
           "lemma": "поляна",
           "pos": "noun",
           "stress": "поля́на",
-          "gloss": "turf",
+          "gloss": "turf (lit. clearing)",
           "gram": "feminine singular, nominative"
         },
         {
@@ -1763,8 +1765,8 @@
           "lemma": "да",
           "pos": "part",
           "stress": null,
-          "gloss": "yes!",
-          "gram": "affirmative particle"
+          "gloss": "yes (да ну = really?)",
+          "gram": "particle in the set phrase да ну"
         }
       ]
     },
@@ -1776,9 +1778,9 @@
           "t": "Извините,",
           "lemma": "извинить",
           "pos": "verb",
-          "stress": "Извини́те",
-          "gloss": "excuse me",
-          "gram": "2nd person plural, imperative, perfective"
+          "stress": "извини́те",
+          "gloss": "sorry, excuse me",
+          "gram": "imperative, polite/plural, perfective"
         },
         {
           "t": "пожалуйста.",
@@ -1786,7 +1788,7 @@
           "pos": "part",
           "stress": "пожа́луйста",
           "gloss": "please",
-          "gram": "politeness particle"
+          "gram": "politeness word"
         },
         {
           "t": "Вы",
@@ -1824,13 +1826,13 @@
           "pos": "prep",
           "stress": null,
           "gloss": "from",
-          "gram": "takes genitive"
+          "gram": "preposition + genitive"
         },
         {
           "t": "Аркадия",
           "lemma": "аркадий",
           "pos": "name",
-          "stress": "Арка́дия",
+          "stress": null,
           "gloss": "Arkady",
           "gram": "masculine singular, genitive"
         },
@@ -1838,7 +1840,7 @@
           "t": "Борисовича.",
           "lemma": "борисович",
           "pos": "name",
-          "stress": "Бори́совича",
+          "stress": null,
           "gloss": "Borisovich (patronymic)",
           "gram": "masculine singular, genitive"
         },
@@ -1846,8 +1848,8 @@
           "t": "Хорошая",
           "lemma": "хороший",
           "pos": "adj",
-          "stress": "Хоро́шая",
-          "gloss": "good, nice",
+          "stress": "хоро́шая",
+          "gloss": "good",
           "gram": "feminine singular, nominative"
         },
         {
@@ -1855,8 +1857,8 @@
           "lemma": "вещь",
           "pos": "noun",
           "stress": null,
-          "gloss": "thing, piece",
-          "gram": "feminine singular, nominative"
+          "gloss": "thing",
+          "gram": "f inan acc sg"
         }
       ]
     },
@@ -1869,16 +1871,16 @@
           "lemma": "что",
           "pos": "pron",
           "stress": null,
-          "gloss": "why (colloquial)",
-          "gram": "interrogative pronoun used as 'why'"
+          "gloss": "what",
+          "gram": "relative pronoun, accusative"
         },
         {
           "t": "у",
           "lemma": "у",
           "pos": "prep",
           "stress": null,
-          "gloss": "by, with (for possession)",
-          "gram": "takes genitive"
+          "gloss": "at, near, with",
+          "gram": "preposition + genitive"
         },
         {
           "t": "тебя",
@@ -1894,15 +1896,15 @@
           "pos": "noun",
           "stress": "лицо́",
           "gloss": "face",
-          "gram": "neuter singular, nominative"
+          "gram": "neuter singular nominative"
         },
         {
           "t": "такое",
           "lemma": "такой",
           "pos": "pron",
           "stress": "тако́е",
-          "gloss": "so, such",
-          "gram": "demonstrative, neuter singular, nominative"
+          "gloss": "(what) on earth",
+          "gram": "nominative singular, neuter; что такое = what is"
         },
         {
           "t": "кислое?",
@@ -1920,11 +1922,11 @@
       "words": [
         {
           "t": "Ничего.",
-          "lemma": "ничего",
+          "lemma": "ничто",
           "pos": "pron",
-          "stress": "Ничего́",
+          "stress": "ничего́",
           "gloss": "nothing",
-          "gram": "negative pronoun"
+          "gram": "genitive (with не); г is said like в"
         },
         {
           "t": "Не",
@@ -1940,31 +1942,31 @@
           "pos": "verb",
           "stress": "нра́вится",
           "gloss": "is pleasing",
-          "gram": "3rd person singular, present, imperfective"
+          "gram": "present, 3rd person singular, imperfective"
         },
         {
           "t": "мне",
           "lemma": "я",
           "pos": "pron",
           "stress": null,
-          "gloss": "to me",
+          "gloss": "to me (мне некогда = I have no time)",
           "gram": "1st person singular, dative"
         },
         {
           "t": "твоя",
           "lemma": "твой",
-          "pos": "pron",
+          "pos": "det",
           "stress": "твоя́",
           "gloss": "your",
-          "gram": "possessive, feminine singular, nominative"
+          "gram": "possessive, informal, feminine nominative singular"
         },
         {
           "t": "работа,",
           "lemma": "работа",
           "pos": "noun",
           "stress": "рабо́та",
-          "gloss": "work, job",
-          "gram": "feminine singular, nominative"
+          "gloss": "job",
+          "gram": "nominative singular, feminine"
         },
         {
           "t": "дядя",
@@ -1972,15 +1974,15 @@
           "pos": "noun",
           "stress": "дя́дя",
           "gloss": "Uncle",
-          "gram": "masculine singular, vocative/nominative"
+          "gram": "nominative singular, masculine"
         },
         {
           "t": "Гриша.",
           "lemma": "гриша",
           "pos": "name",
-          "stress": "Гри́ша",
+          "stress": null,
           "gloss": "Grisha",
-          "gram": "masculine singular, vocative/nominative"
+          "gram": "affectionate form of Григорий, nominative singular"
         }
       ]
     },
@@ -1993,8 +1995,8 @@
           "lemma": "да",
           "pos": "part",
           "stress": null,
-          "gloss": "why, well",
-          "gram": "emphatic particle"
+          "gloss": "yes (да ну = really?)",
+          "gram": "particle in the set phrase да ну"
         },
         {
           "t": "они",
@@ -2007,10 +2009,10 @@
         {
           "t": "просто",
           "lemma": "просто",
-          "pos": "part",
+          "pos": "adv",
           "stress": "про́сто",
-          "gloss": "just, simply",
-          "gram": "particle"
+          "gloss": "just",
+          "gram": "adverb"
         },
         {
           "t": "нас",
@@ -2018,7 +2020,7 @@
           "pos": "pron",
           "stress": null,
           "gloss": "us",
-          "gram": "1st person plural, accusative"
+          "gram": "1st person plural, genitive"
         },
         {
           "t": "врасплох",
@@ -2040,9 +2042,9 @@
           "t": "Это",
           "lemma": "это",
           "pos": "pron",
-          "stress": "Э́то",
-          "gloss": "it",
-          "gram": "demonstrative, unchanging"
+          "stress": "э́то",
+          "gloss": "this",
+          "gram": "demonstrative pronoun, nominative"
         },
         {
           "t": "был",
@@ -2050,15 +2052,15 @@
           "pos": "verb",
           "stress": null,
           "gloss": "was",
-          "gram": "masculine singular, past"
+          "gram": "past tense, masculine singular"
         },
         {
           "t": "сюрприз.",
           "lemma": "сюрприз",
           "pos": "noun",
           "stress": "сюрпри́з",
-          "gloss": "a surprise",
-          "gram": "masculine singular, nominative"
+          "gloss": "surprise",
+          "gram": "accusative singular masculine"
         }
       ]
     },
@@ -2069,10 +2071,10 @@
         {
           "t": "Какой",
           "lemma": "какой",
-          "pos": "pron",
-          "stress": "Како́й",
-          "gloss": "what (kind of)",
-          "gram": "interrogative, masculine singular, nominative"
+          "pos": "det",
+          "stress": "како́й",
+          "gloss": "what a, how",
+          "gram": "nominative masculine singular, exclamation"
         },
         {
           "t": "сюрприз?",
@@ -2080,7 +2082,7 @@
           "pos": "noun",
           "stress": "сюрпри́з",
           "gloss": "surprise",
-          "gram": "masculine singular, nominative"
+          "gram": "accusative singular masculine"
         },
         {
           "t": "Он",
@@ -2088,7 +2090,7 @@
           "pos": "pron",
           "stress": null,
           "gloss": "he",
-          "gram": "3rd person masculine singular, nominative"
+          "gram": "masculine nominative singular"
         },
         {
           "t": "меня",
@@ -2096,31 +2098,31 @@
           "pos": "pron",
           "stress": "меня́",
           "gloss": "me",
-          "gram": "1st person singular, accusative"
+          "gram": "1st person singular, genitive"
         },
         {
           "t": "схватил",
           "lemma": "схватить",
           "pos": "verb",
           "stress": "схвати́л",
-          "gloss": "grabbed",
-          "gram": "masculine singular, past, perfective"
+          "gloss": "grabbed (grab)",
+          "gram": "past, masculine singular, perfective; used vividly for a quick future action"
         },
         {
           "t": "как",
           "lemma": "как",
-          "pos": "conj",
+          "pos": "adv",
           "stress": null,
-          "gloss": "like, as",
-          "gram": "conjunction"
+          "gloss": "how",
+          "gram": "question word"
         },
         {
           "t": "специалист!",
           "lemma": "специалист",
           "pos": "noun",
           "stress": "специали́ст",
-          "gloss": "a specialist, a pro",
-          "gram": "masculine singular, nominative"
+          "gloss": "specialist",
+          "gram": "masculine, nominative singular, animate"
         }
       ]
     },
@@ -2132,33 +2134,33 @@
           "t": "Почему",
           "lemma": "почему",
           "pos": "adv",
-          "stress": "Почему́",
+          "stress": "почему́",
           "gloss": "why",
-          "gram": "interrogative adverb"
+          "gram": "question word"
         },
         {
           "t": "ты",
           "lemma": "ты",
           "pos": "pron",
           "stress": null,
-          "gloss": "you (informal)",
-          "gram": "2nd person singular, nominative"
+          "gloss": "you",
+          "gram": "2nd person singular, nominative, informal"
         },
         {
           "t": "пошёл",
           "lemma": "пойти",
           "pos": "verb",
-          "stress": "пошёл",
-          "gloss": "went",
-          "gram": "masculine singular, past, perfective"
+          "stress": null,
+          "gloss": "went, set off",
+          "gram": "past, masculine singular, perfective"
         },
         {
           "t": "на",
           "lemma": "на",
           "pos": "prep",
           "stress": null,
-          "gloss": "at, against",
-          "gram": "takes accusative"
+          "gloss": "on, onto",
+          "gram": "preposition"
         },
         {
           "t": "них",
@@ -2166,15 +2168,15 @@
           "pos": "pron",
           "stress": null,
           "gloss": "them",
-          "gram": "3rd person plural, accusative"
+          "gram": "3rd plural, genitive"
         },
         {
           "t": "с",
           "lemma": "с",
           "pos": "prep",
           "stress": null,
-          "gloss": "with",
-          "gram": "takes instrumental"
+          "gloss": "with / from",
+          "gram": "preposition"
         },
         {
           "t": "пустыми",
@@ -2204,15 +2206,15 @@
           "pos": "adv",
           "stress": null,
           "gloss": "where",
-          "gram": "interrogative adverb"
+          "gram": "question word"
         },
         {
           "t": "твоя",
           "lemma": "твой",
-          "pos": "pron",
+          "pos": "det",
           "stress": "твоя́",
           "gloss": "your",
-          "gram": "possessive, feminine singular, nominative"
+          "gram": "possessive, informal, feminine nominative singular"
         },
         {
           "t": "дубинка?",
@@ -2233,8 +2235,8 @@
           "lemma": "в",
           "pos": "prep",
           "stress": null,
-          "gloss": "in",
-          "gram": "takes prepositional (location)"
+          "gloss": "in, into",
+          "gram": "preposition"
         },
         {
           "t": "ящике",
@@ -2249,14 +2251,14 @@
           "lemma": "она",
           "pos": "pron",
           "stress": "она́",
-          "gloss": "it (she)",
-          "gram": "3rd person feminine singular, nominative"
+          "gloss": "it (the pipe)",
+          "gram": "nominative, feminine"
         },
         {
           "t": "Лежит",
           "lemma": "лежать",
           "pos": "verb",
-          "stress": "Лежи́т",
+          "stress": "лежи́т",
           "gloss": "is lying",
           "gram": "3rd person singular, present, imperfective"
         },
@@ -2265,8 +2267,8 @@
           "lemma": "она",
           "pos": "pron",
           "stress": "она́",
-          "gloss": "it (she)",
-          "gram": "3rd person feminine singular, nominative"
+          "gloss": "it (the pipe)",
+          "gram": "nominative, feminine"
         },
         {
           "t": "там!",
@@ -2286,16 +2288,16 @@
           "t": "Она",
           "lemma": "она",
           "pos": "pron",
-          "stress": "Она́",
-          "gloss": "it (she)",
-          "gram": "3rd person feminine singular, nominative"
+          "stress": "она́",
+          "gloss": "it (the pipe)",
+          "gram": "nominative, feminine"
         },
         {
           "t": "должна",
           "lemma": "должен",
           "pos": "adj",
           "stress": "должна́",
-          "gloss": "must, should",
+          "gloss": "should, must",
           "gram": "short form, feminine singular"
         },
         {
@@ -2304,15 +2306,15 @@
           "pos": "verb",
           "stress": null,
           "gloss": "be",
-          "gram": "infinitive"
+          "gram": "infinitive, imperfective"
         },
         {
           "t": "в",
           "lemma": "в",
           "pos": "prep",
           "stress": null,
-          "gloss": "in",
-          "gram": "takes prepositional (location)"
+          "gloss": "in, into",
+          "gram": "preposition"
         },
         {
           "t": "руке",
@@ -2320,7 +2322,7 @@
           "pos": "noun",
           "stress": "руке́",
           "gloss": "hand",
-          "gram": "feminine singular, prepositional"
+          "gram": "feminine singular prepositional"
         },
         {
           "t": "всегда!",
@@ -2335,7 +2337,7 @@
           "lemma": "вот",
           "pos": "part",
           "stress": null,
-          "gloss": "there",
+          "gloss": "there, here",
           "gram": "pointing particle"
         },
         {
@@ -2343,16 +2345,16 @@
           "lemma": "другой",
           "pos": "adj",
           "stress": "друго́е",
-          "gloss": "another (другое дело = that's more like it)",
-          "gram": "neuter singular, nominative"
+          "gloss": "another, other",
+          "gram": "accusative singular, neuter"
         },
         {
           "t": "дело.",
           "lemma": "дело",
           "pos": "noun",
           "stress": "де́ло",
-          "gloss": "matter, thing",
-          "gram": "neuter singular, nominative"
+          "gloss": "matter",
+          "gram": "nominative singular, neuter"
         }
       ]
     },
@@ -2366,7 +2368,7 @@
           "pos": "pron",
           "stress": null,
           "gloss": "what",
-          "gram": "interrogative, accusative"
+          "gram": "relative pronoun, accusative"
         },
         {
           "t": "мы",
@@ -2381,8 +2383,8 @@
           "lemma": "с",
           "pos": "prep",
           "stress": null,
-          "gloss": "with, about",
-          "gram": "takes instrumental"
+          "gloss": "with / from",
+          "gram": "preposition"
         },
         {
           "t": "долгом",
@@ -2395,26 +2397,26 @@
         {
           "t": "этой",
           "lemma": "этот",
-          "pos": "pron",
+          "pos": "det",
           "stress": "э́той",
-          "gloss": "this, that",
-          "gram": "demonstrative, feminine singular, genitive"
+          "gloss": "this",
+          "gram": "genitive, feminine singular"
         },
         {
           "t": "женщины",
           "lemma": "женщина",
           "pos": "noun",
           "stress": "же́нщины",
-          "gloss": "of woman",
-          "gram": "feminine singular, genitive"
+          "gloss": "woman",
+          "gram": "genitive singular, feminine"
         },
         {
           "t": "будем",
           "lemma": "быть",
           "pos": "verb",
           "stress": "бу́дем",
-          "gloss": "will, are going to",
-          "gram": "1st person plural, future"
+          "gloss": "will (not)",
+          "gram": "future, 1st person plural (auxiliary of the compound future)"
         },
         {
           "t": "делать?",
@@ -2434,17 +2436,17 @@
           "t": "Она",
           "lemma": "она",
           "pos": "pron",
-          "stress": "Она́",
-          "gloss": "she",
-          "gram": "3rd person feminine singular, nominative"
+          "stress": "она́",
+          "gloss": "it (the pipe)",
+          "gram": "nominative, feminine"
         },
         {
           "t": "нам",
           "lemma": "мы",
           "pos": "pron",
           "stress": null,
-          "gloss": "to us",
-          "gram": "1st person plural, dative"
+          "gloss": "us",
+          "gram": "1st person plural dative"
         },
         {
           "t": "теперь",
@@ -2459,7 +2461,7 @@
           "lemma": "должен",
           "pos": "adj",
           "stress": "должна́",
-          "gloss": "owes",
+          "gloss": "should, must",
           "gram": "short form, feminine singular"
         },
         {
@@ -2468,7 +2470,7 @@
           "pos": "noun",
           "stress": "де́ньги",
           "gloss": "money",
-          "gram": "pluralia tantum, accusative"
+          "gram": "nominative plural (plural only)"
         },
         {
           "t": "И",
@@ -2483,8 +2485,8 @@
           "lemma": "золотой",
           "pos": "adj",
           "stress": "золоты́е",
-          "gloss": "gold",
-          "gram": "plural, accusative"
+          "gloss": "golden",
+          "gram": "accusative plural"
         },
         {
           "t": "часы",
@@ -2492,14 +2494,14 @@
           "pos": "noun",
           "stress": "часы́",
           "gloss": "watch",
-          "gram": "pluralia tantum, accusative"
+          "gram": "accusative, plural-only noun"
         },
         {
           "t": "тоже!",
           "lemma": "тоже",
           "pos": "adv",
           "stress": "то́же",
-          "gloss": "too, also",
+          "gloss": "too",
           "gram": "adverb"
         }
       ]
@@ -2520,17 +2522,17 @@
           "t": "её",
           "lemma": "она",
           "pos": "pron",
-          "stress": "её",
+          "stress": null,
           "gloss": "her",
-          "gram": "3rd person feminine singular, accusative"
+          "gram": "3rd person singular feminine, accusative"
         },
         {
           "t": "сильно",
           "lemma": "сильно",
           "pos": "adv",
           "stress": "си́льно",
-          "gloss": "badly, strongly",
-          "gram": "adverb"
+          "gloss": "strongly, much",
+          "gram": "adverb of degree"
         },
         {
           "t": "напугаем!",
@@ -2544,7 +2546,7 @@
           "t": "Бутылку",
           "lemma": "бутылка",
           "pos": "noun",
-          "stress": "Буты́лку",
+          "stress": "буты́лку",
           "gloss": "a bottle",
           "gram": "feminine singular, accusative"
         },
@@ -2562,15 +2564,15 @@
           "pos": "pron",
           "stress": null,
           "gloss": "to her",
-          "gram": "3rd person feminine singular, dative"
+          "gram": "3rd person feminine dative"
         },
         {
           "t": "в",
           "lemma": "в",
           "pos": "prep",
           "stress": null,
-          "gloss": "into, through",
-          "gram": "takes accusative (direction)"
+          "gloss": "in, into",
+          "gram": "preposition"
         },
         {
           "t": "окно.",
@@ -2578,7 +2580,7 @@
           "pos": "noun",
           "stress": "окно́",
           "gloss": "window",
-          "gram": "neuter singular, accusative"
+          "gram": "accusative singular, neuter"
         }
       ]
     },
@@ -2590,33 +2592,33 @@
           "t": "Потому",
           "lemma": "потому",
           "pos": "adv",
-          "stress": "Потому́",
-          "gloss": "because (потому что)",
-          "gram": "adverb"
+          "stress": "потому́",
+          "gloss": "because (with что)",
+          "gram": "потому что = because"
         },
         {
           "t": "что",
           "lemma": "что",
-          "pos": "conj",
+          "pos": "pron",
           "stress": null,
-          "gloss": "that (in потому что = because)",
-          "gram": "conjunction"
+          "gloss": "what",
+          "gram": "relative pronoun, accusative"
         },
         {
           "t": "это",
           "lemma": "это",
           "pos": "pron",
           "stress": "э́то",
-          "gloss": "this is",
-          "gram": "demonstrative, unchanging"
+          "gloss": "this",
+          "gram": "demonstrative pronoun, nominative"
         },
         {
           "t": "наша",
           "lemma": "наш",
-          "pos": "pron",
+          "pos": "det",
           "stress": "на́ша",
           "gloss": "our",
-          "gram": "possessive, feminine singular, nominative"
+          "gram": "possessive, nominative singular, feminine"
         },
         {
           "t": "поляна!",
@@ -2640,7 +2642,7 @@
           "pos": "adv",
           "stress": null,
           "gloss": "here",
-          "gram": "adverb of place"
+          "gram": "adverb"
         },
         {
           "t": "решаем!",
@@ -2659,17 +2661,17 @@
         {
           "t": "Наша",
           "lemma": "наш",
-          "pos": "pron",
-          "stress": "На́ша",
+          "pos": "det",
+          "stress": "на́ша",
           "gloss": "our",
-          "gram": "possessive, feminine singular, nominative"
+          "gram": "possessive, nominative singular, feminine"
         },
         {
           "t": "поляна!",
           "lemma": "поляна",
           "pos": "noun",
           "stress": "поля́на",
-          "gloss": "turf",
+          "gloss": "turf (lit. clearing)",
           "gram": "feminine singular, nominative"
         },
         {
@@ -2693,8 +2695,8 @@
           "lemma": "да",
           "pos": "part",
           "stress": null,
-          "gloss": "yes!",
-          "gram": "affirmative particle"
+          "gloss": "yes (да ну = really?)",
+          "gram": "particle in the set phrase да ну"
         }
       ]
     },
@@ -2706,9 +2708,9 @@
           "t": "Извините,",
           "lemma": "извинить",
           "pos": "verb",
-          "stress": "Извини́те",
-          "gloss": "excuse me",
-          "gram": "2nd person plural, imperative, perfective"
+          "stress": "извини́те",
+          "gloss": "sorry, excuse me",
+          "gram": "imperative, polite/plural, perfective"
         },
         {
           "t": "пожалуйста.",
@@ -2716,7 +2718,7 @@
           "pos": "part",
           "stress": "пожа́луйста",
           "gloss": "please",
-          "gram": "politeness particle"
+          "gram": "politeness word"
         },
         {
           "t": "Вы",
@@ -2754,13 +2756,13 @@
           "pos": "prep",
           "stress": null,
           "gloss": "from",
-          "gram": "takes genitive"
+          "gram": "preposition + genitive"
         },
         {
           "t": "Аркадия",
           "lemma": "аркадий",
           "pos": "name",
-          "stress": "Арка́дия",
+          "stress": null,
           "gloss": "Arkady",
           "gram": "masculine singular, genitive"
         },
@@ -2768,7 +2770,7 @@
           "t": "Борисовича.",
           "lemma": "борисович",
           "pos": "name",
-          "stress": "Бори́совича",
+          "stress": null,
           "gloss": "Borisovich (patronymic)",
           "gram": "masculine singular, genitive"
         },
@@ -2776,8 +2778,8 @@
           "t": "Хорошая",
           "lemma": "хороший",
           "pos": "adj",
-          "stress": "Хоро́шая",
-          "gloss": "good, nice",
+          "stress": "хоро́шая",
+          "gloss": "good",
           "gram": "feminine singular, nominative"
         },
         {
@@ -2785,46 +2787,22 @@
           "lemma": "вещь",
           "pos": "noun",
           "stress": null,
-          "gloss": "thing, piece",
-          "gram": "feminine singular, nominative"
+          "gloss": "thing",
+          "gram": "f inan acc sg"
         }
       ]
     },
     {
       "seg": 63,
-      "trans": "We are from Arkady Borisovich.",
+      "trans": "Bye!",
       "words": [
         {
-          "t": "Мы",
-          "lemma": "мы",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "we",
-          "gram": "1st person plural, nominative"
-        },
-        {
-          "t": "от",
-          "lemma": "от",
-          "pos": "prep",
-          "stress": null,
-          "gloss": "from",
-          "gram": "takes genitive"
-        },
-        {
-          "t": "Аркадия",
-          "lemma": "аркадий",
-          "pos": "name",
-          "stress": "Арка́дия",
-          "gloss": "Arkady",
-          "gram": "masculine singular, genitive"
-        },
-        {
-          "t": "Борисовича.",
-          "lemma": "борисович",
-          "pos": "name",
-          "stress": "Бори́совича",
-          "gloss": "Borisovich (patronymic)",
-          "gram": "masculine singular, genitive"
+          "t": "Пока!",
+          "lemma": "пока",
+          "pos": "adv",
+          "stress": "пока́",
+          "gloss": "bye!",
+          "gram": "informal farewell interjection"
         }
       ]
     }
@@ -2834,8 +2812,8 @@
       "lemma": "бутылка",
       "stress": "буты́лка",
       "pos": "noun",
-      "gender": "f",
       "gloss": "bottle",
+      "gender": "f",
       "meanings": [
         {
           "en": "bottle",
@@ -2897,16 +2875,16 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Бутылку кинем ей в окно.",
-          "trans": "We'll throw a bottle through her window."
-        },
-        {
-          "text": "На столе стояла бутылка воды.",
-          "trans": "A bottle of water stood on the table."
-        },
-        {
           "text": "С бутылкой вина в руке?",
           "trans": "With a bottle of wine in your hand?"
+        },
+        {
+          "text": "Купи бутылку воды.",
+          "trans": "Buy a bottle of water."
+        },
+        {
+          "text": "Пыталась? С бутылкой вина в руке?",
+          "trans": "You tried? With a bottle of wine in your hand?"
         }
       ],
       "related": [
@@ -2920,9 +2898,9 @@
       "lemma": "быть",
       "stress": "быть",
       "pos": "verb",
+      "gloss": "to be; there is",
       "aspect": "impf",
       "pair": null,
-      "gloss": "to be; there is",
       "meanings": [
         {
           "en": "to be",
@@ -3114,8 +3092,8 @@
       "lemma": "вещь",
       "stress": "вещь",
       "pos": "noun",
-      "gender": "f",
       "gloss": "thing",
+      "gender": "f",
       "meanings": [
         {
           "en": "thing",
@@ -3330,7 +3308,7 @@
         }
       ],
       "forms": {
-        "title": "Declension",
+        "title": "Forms",
         "columns": [
           "",
           "form"
@@ -3476,9 +3454,9 @@
       "lemma": "делать",
       "stress": "де́лать",
       "pos": "verb",
+      "gloss": "to do, to make",
       "aspect": "impf",
       "pair": "сделать",
-      "gloss": "to do, to make",
       "meanings": [
         {
           "en": "to do",
@@ -3593,8 +3571,8 @@
       "lemma": "дело",
       "stress": "де́ло",
       "pos": "noun",
-      "gender": "n",
       "gloss": "matter; thing to do",
+      "gender": "n",
       "meanings": [
         {
           "en": "thing to do, task",
@@ -3687,8 +3665,9 @@
       "lemma": "деньги",
       "stress": "де́ньги",
       "pos": "noun",
-      "gender": null,
       "gloss": "money",
+      "gender": "f",
+      "number": "pl",
       "meanings": [
         {
           "en": "money",
@@ -3762,7 +3741,6 @@
           "trans": "Gum? I didn't have enough money."
         }
       ],
-      "number": "plural only",
       "related": [
         {
           "word": "день",
@@ -3774,8 +3752,8 @@
       "lemma": "долг",
       "stress": "долг",
       "pos": "noun",
-      "gender": "m",
       "gloss": "debt; duty",
+      "gender": "m",
       "meanings": [
         {
           "en": "debt",
@@ -3884,7 +3862,7 @@
         }
       ],
       "forms": {
-        "title": "Short form",
+        "title": "Declension",
         "columns": [
           "",
           "m",
@@ -4033,8 +4011,8 @@
       "lemma": "дубинка",
       "stress": "дуби́нка",
       "pos": "noun",
-      "gender": "f",
       "gloss": "baton, club, truncheon",
+      "gender": "f",
       "meanings": [
         {
           "en": "baton, truncheon, club",
@@ -4115,8 +4093,8 @@
       "lemma": "дядя",
       "stress": "дя́дя",
       "pos": "noun",
-      "gender": "m",
       "gloss": "uncle; man",
+      "gender": "m",
       "meanings": [
         {
           "en": "uncle",
@@ -4209,8 +4187,8 @@
       "lemma": "женщина",
       "stress": "же́нщина",
       "pos": "noun",
-      "gender": "f",
       "gloss": "woman",
+      "gender": "f",
       "meanings": [
         {
           "en": "woman",
@@ -4295,9 +4273,9 @@
       "lemma": "застать",
       "stress": "заста́ть",
       "pos": "verb",
+      "gloss": "to catch, to find (someone somewhere)",
       "aspect": "pf",
       "pair": "заставать",
-      "gloss": "to catch, to find (someone somewhere)",
       "meanings": [
         {
           "en": "to catch, to find (someone in a place or state)",
@@ -4583,9 +4561,9 @@
       "lemma": "извинить",
       "stress": "извини́ть",
       "pos": "verb",
+      "gloss": "to excuse; (imperative) sorry, excuse me",
       "aspect": "pf",
       "pair": "извинять",
-      "gloss": "to excuse; (imperative) sorry, excuse me",
       "meanings": [
         {
           "en": "sorry, excuse me",
@@ -4750,7 +4728,7 @@
         }
       ],
       "forms": {
-        "title": "Declension",
+        "title": "Forms",
         "columns": [
           "",
           "m",
@@ -4845,9 +4823,9 @@
       "lemma": "кинуть",
       "stress": "ки́нуть",
       "pos": "verb",
+      "gloss": "to throw, to toss, to fling",
       "aspect": "pf",
       "pair": "кидать",
-      "gloss": "to throw, to toss, to fling",
       "meanings": [
         {
           "en": "to throw, to toss, to hurl",
@@ -5065,8 +5043,8 @@
       "lemma": "коллектор",
       "stress": "колле́ктор",
       "pos": "noun",
-      "gender": "m",
       "gloss": "debt collector",
+      "gender": "m",
       "meanings": [
         {
           "en": "debt collector",
@@ -5159,13 +5137,13 @@
       "lemma": "лежать",
       "stress": "лежа́ть",
       "pos": "verb",
+      "gloss": "to lie, to be lying down",
       "aspect": "impf",
       "pair": "полежать",
-      "gloss": "to lie, to rest",
       "meanings": [
         {
-          "en": "to lie, to be lying down, to rest",
-          "note": "With в/на + prepositional. Used as an imperfective (ongoing/repeated action) verb meaning 'to lie, to rest', paired with 'полежать'."
+          "en": "to lie, to be lying",
+          "note": "+ на / в + prepositional. Used as an imperfective (ongoing/repeated action) verb meaning 'to lie, to be lying down', paired with 'полежать'."
         }
       ],
       "forms": {
@@ -5241,16 +5219,16 @@
       ],
       "examples": [
         {
-          "text": "Такие люди должны лежать в особенном месте!",
-          "trans": "Such people should lie in a special place!"
+          "text": "А с Гришкой лежать вечность.",
+          "trans": "But I'll be lying next to Grishka for eternity."
         },
         {
           "text": "Книга лежит на столе.",
           "trans": "The book is lying on the table."
         },
         {
-          "text": "А с Гришкой лежать вечность.",
-          "trans": "But I'll be lying next to Grishka for eternity."
+          "text": "Телевизор мне смотреть недолго. А с Гришкой лежать вечность.",
+          "trans": "I won't be watching TV for much longer. But I'll be lying next to Grishka for eternity."
         }
       ],
       "related": [
@@ -5264,8 +5242,8 @@
       "lemma": "лицо",
       "stress": "лицо́",
       "pos": "noun",
-      "gender": "n",
       "gloss": "face; person",
+      "gender": "n",
       "meanings": [
         {
           "en": "face",
@@ -5366,7 +5344,7 @@
         }
       ],
       "forms": {
-        "title": "Declension",
+        "title": "Forms",
         "columns": [
           "",
           "form"
@@ -5478,9 +5456,9 @@
       "lemma": "напугать",
       "stress": "напуга́ть",
       "pos": "verb",
+      "gloss": "to scare, to frighten",
       "aspect": "pf",
       "pair": "пугать",
-      "gloss": "to scare, to frighten",
       "meanings": [
         {
           "en": "to scare, to frighten",
@@ -5560,16 +5538,16 @@
       ],
       "examples": [
         {
-          "text": "Мы договорились его просто напугать!",
-          "trans": "We agreed to just scare him!"
+          "text": "Ну что, ты его напугал?",
+          "trans": "Well then, did you scare him?"
         },
         {
           "text": "Ты меня напугал!",
           "trans": "You scared me!"
         },
         {
-          "text": "Ну что, ты его напугал?",
-          "trans": "Well then, did you scare him?"
+          "text": "Мы договорились его просто напугать!",
+          "trans": "We agreed to just scare him!"
         }
       ],
       "related": [
@@ -5595,7 +5573,7 @@
         }
       ],
       "forms": {
-        "title": "Declension",
+        "title": "Forms",
         "columns": [
           "",
           "m",
@@ -5766,13 +5744,92 @@
         }
       ]
     },
+    "ничто": {
+      "lemma": "ничто",
+      "stress": "ничто́",
+      "pos": "pron",
+      "gloss": "nothing",
+      "meanings": [
+        {
+          "en": "nothing",
+          "note": "usually in the genitive ничего, with не: ничего не осталось"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "ничто"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "ничего"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "ничему"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "ничто"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "ничем"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "ни о чём"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Ничего не осталось.",
+          "trans": "There's nothing left."
+        },
+        {
+          "text": "Я ничего не знаю.",
+          "trans": "I don't know anything."
+        },
+        {
+          "text": "Ну что, очкарик? Видишь, ничего не осталось.",
+          "trans": "Well, four-eyes? See, there's nothing left."
+        }
+      ],
+      "related": [
+        {
+          "word": "уничтожить",
+          "gloss": "to destroy"
+        }
+      ]
+    },
     "нравиться": {
       "lemma": "нравиться",
       "stress": "нра́виться",
       "pos": "verb",
+      "gloss": "to be liked, to please",
       "aspect": "impf",
       "pair": "понравиться",
-      "gloss": "to be liked, to please",
+      "governs": "the liker in the dative",
       "meanings": [
         {
           "en": "to like (literally 'to be pleasing')",
@@ -5847,7 +5904,6 @@
           "trans": "The reaction is positive. People like it."
         }
       ],
-      "governs": "the liker in the dative",
       "related": [
         {
           "word": "понравиться",
@@ -5863,8 +5919,8 @@
       "lemma": "окно",
       "stress": "окно́",
       "pos": "noun",
-      "gender": "n",
       "gloss": "window",
+      "gender": "n",
       "meanings": [
         {
           "en": "window",
@@ -5926,16 +5982,16 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Он смотрит в окно.",
-          "trans": "He is looking out the window."
+          "text": "Все видели, как ты из окна летел.",
+          "trans": "Everyone saw you fly out the window."
         },
         {
           "text": "Открой окно, пожалуйста.",
           "trans": "Open the window, please."
         },
         {
-          "text": "Все видели, как ты из окна летел.",
-          "trans": "Everyone saw you fly out the window."
+          "text": "Над тобой вся страна смеётся! Все видели, как ты из окна летел.",
+          "trans": "The whole country is laughing at you! Everyone saw you fly out the window."
         }
       ],
       "related": [
@@ -5965,7 +6021,7 @@
         }
       ],
       "forms": {
-        "title": "Declension",
+        "title": "Forms",
         "columns": [
           "",
           "form"
@@ -6043,41 +6099,88 @@
       "lemma": "она",
       "stress": "она́",
       "pos": "pron",
-      "gloss": "she; it",
+      "gloss": "to her",
       "meanings": [
         {
           "en": "she",
-          "note": "Её, ей, ей, о ней. Core Russian pron meaning 'she; it' in everyday speech."
+          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'to her', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "Case",
+          "Feminine",
+          "Plural (они)"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "она",
+              "они"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "её (неё)",
+              "их (них)"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "ей (ней)",
+              "им (ним)"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "её (неё)",
+              "их (них)"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "ей (ней)",
+              "ими (ними)"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "о ней",
+              "о них"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
-          "text": "Она доцент.",
-          "trans": "She's a lecturer."
+          "text": "Она нашла нас на новом месте.",
+          "trans": "She found us at the new place."
         },
         {
-          "text": "Я о ней не слышал.",
-          "trans": "I haven't heard of her."
+          "text": "Всё, она сильно обиделась.",
+          "trans": "That is it, she got really offended."
         },
         {
-          "text": "Паша, я больше не хочу о ней слышать. Понял?",
-          "trans": "Pasha, I don't want to hear about her again. Understood?"
+          "text": "Она на телефон не отвечает.",
+          "trans": "She is not answering her phone."
         }
       ],
       "related": [
         {
-          "word": "он",
-          "gloss": "he"
+          "word": "вот она",
+          "gloss": "right here (to her)"
         },
         {
-          "word": "они",
-          "gloss": "they"
-        },
-        {
-          "word": "её",
-          "gloss": "her, hers"
+          "word": "именно она",
+          "gloss": "precisely to her"
         }
       ]
     },
@@ -6093,7 +6196,7 @@
         }
       ],
       "forms": {
-        "title": "Declension",
+        "title": "Forms",
         "columns": [
           "",
           "form"
@@ -6172,6 +6275,7 @@
       "stress": "от",
       "pos": "prep",
       "gloss": "from; of",
+      "governs": "+ genitive",
       "meanings": [
         {
           "en": "from",
@@ -6198,7 +6302,6 @@
           "trans": "I'm sick of this communal flat! Our pipe has been leaking for a week now."
         }
       ],
-      "governs": "+ genitive",
       "related": [
         {
           "word": "до",
@@ -6256,9 +6359,9 @@
       "lemma": "пойти",
       "stress": "пойти́",
       "pos": "verb",
-      "aspect": "pf",
-      "pair": "идти",
       "gloss": "to go (set off)",
+      "aspect": "pf",
+      "pair": "ходить",
       "meanings": [
         {
           "en": "to go, to set off",
@@ -6357,12 +6460,50 @@
         }
       ]
     },
+    "пока": {
+      "lemma": "пока",
+      "stress": "пока́",
+      "pos": "adv",
+      "gloss": "bye",
+      "meanings": [
+        {
+          "en": "bye, see you",
+          "note": "Informal. Core Russian interj meaning 'bye' in everyday speech."
+        },
+        {
+          "en": "while, for now",
+          "note": "As an adverb. Core Russian interj meaning 'bye' in everyday speech."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Пока!",
+          "trans": "Bye!"
+        },
+        {
+          "text": "Пока, папа!",
+          "trans": "Bye, Dad!"
+        },
+        {
+          "text": "Пока, милый!",
+          "trans": "Bye, darling!"
+        }
+      ],
+      "related": [
+        {
+          "word": "пока",
+          "gloss": "bye (as an adverb/interjection)"
+        }
+      ]
+    },
     "поляна": {
       "lemma": "поляна",
       "stress": "поля́на",
       "pos": "noun",
-      "gender": "f",
       "gloss": "clearing, glade; (slang) turf, territory",
+      "gender": "f",
       "meanings": [
         {
           "en": "clearing, glade in a forest",
@@ -6680,8 +6821,8 @@
       "lemma": "работа",
       "stress": "рабо́та",
       "pos": "noun",
-      "gender": "f",
       "gloss": "work, job",
+      "gender": "f",
       "meanings": [
         {
           "en": "work",
@@ -6778,9 +6919,9 @@
       "lemma": "решать",
       "stress": "реша́ть",
       "pos": "verb",
+      "gloss": "to decide, to solve",
       "aspect": "impf",
       "pair": "решить",
-      "gloss": "to decide, to solve",
       "meanings": [
         {
           "en": "to decide, to make up one's mind",
@@ -6891,8 +7032,8 @@
       "lemma": "рука",
       "stress": "рука́",
       "pos": "noun",
-      "gender": "f",
       "gloss": "hand; arm",
+      "gender": "f",
       "meanings": [
         {
           "en": "hand, arm",
@@ -6978,6 +7119,7 @@
       "stress": "с",
       "pos": "prep",
       "gloss": "with",
+      "governs": "+ instrumental",
       "meanings": [
         {
           "en": "with",
@@ -7000,7 +7142,6 @@
           "trans": "Share it all equally with everyone, understand?"
         }
       ],
-      "governs": "+ instrumental",
       "related": [
         {
           "word": "со",
@@ -7054,8 +7195,8 @@
       "lemma": "специалист",
       "stress": "специали́ст",
       "pos": "noun",
-      "gender": "m",
       "gloss": "specialist, expert",
+      "gender": "m",
       "meanings": [
         {
           "en": "specialist, expert",
@@ -7148,9 +7289,9 @@
       "lemma": "схватить",
       "stress": "схвати́ть",
       "pos": "verb",
+      "gloss": "to grab, to snatch",
       "aspect": "pf",
       "pair": "хватать",
-      "gloss": "to grab, to snatch",
       "meanings": [
         {
           "en": "to grab, to seize, to snatch",
@@ -7261,11 +7402,11 @@
       "lemma": "сюрприз",
       "stress": "сюрпри́з",
       "pos": "noun",
-      "gender": "m",
       "gloss": "surprise",
+      "gender": "m",
       "meanings": [
         {
-          "en": "surprise, unexpected event or gift",
+          "en": "surprise, unexpected gift",
           "note": "Приятный сюрприз. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'юрприз'). Common masculine noun meaning 'surprise' in everyday Russian."
         }
       ],
@@ -7324,16 +7465,16 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Это был сюрприз.",
-          "trans": "It was a surprise."
-        },
-        {
-          "text": "Дети приготовили маме приятный сюрприз.",
-          "trans": "The children prepared a nice surprise for Mum."
-        },
-        {
           "text": "Я вам сюрприз покажу один.",
           "trans": "I'll show you one surprise."
+        },
+        {
+          "text": "Какой сюрприз?",
+          "trans": "What surprise?"
+        },
+        {
+          "text": "Это был сюрприз.",
+          "trans": "It was a surprise."
         }
       ],
       "related": [
@@ -7359,7 +7500,7 @@
         }
       ],
       "forms": {
-        "title": "Declension",
+        "title": "Forms",
         "columns": [
           "",
           "m",
@@ -7496,7 +7637,7 @@
         }
       ],
       "forms": {
-        "title": "Declension",
+        "title": "Forms",
         "columns": [
           "",
           "m",
@@ -7671,7 +7812,7 @@
         }
       ],
       "forms": {
-        "title": "Declension",
+        "title": "Forms",
         "columns": [
           "",
           "form"
@@ -7746,6 +7887,7 @@
       "stress": "у",
       "pos": "prep",
       "gloss": "at, by; (у меня) I have",
+      "governs": "+ genitive",
       "meanings": [
         {
           "en": "at, by, near",
@@ -7776,7 +7918,6 @@
           "trans": "Hi! Look what I've got."
         }
       ],
-      "governs": "+ genitive",
       "related": [
         {
           "word": "около",
@@ -7900,6 +8041,7 @@
       "stress": "часы́",
       "pos": "noun",
       "gloss": "watch, clock",
+      "gender": "m",
       "meanings": [
         {
           "en": "watch, clock",
@@ -8004,7 +8146,7 @@
         }
       ],
       "forms": {
-        "title": "Declension",
+        "title": "Forms",
         "columns": [
           "",
           "form"
@@ -8102,7 +8244,7 @@
         }
       ],
       "forms": {
-        "title": "Declension",
+        "title": "Forms",
         "columns": [
           "",
           "form"
@@ -8180,7 +8322,7 @@
         }
       ],
       "forms": {
-        "title": "Declension",
+        "title": "Forms",
         "columns": [
           "",
           "m",
@@ -8283,7 +8425,7 @@
         }
       ],
       "forms": {
-        "title": "Declension",
+        "title": "Forms",
         "columns": [
           "",
           "form"
@@ -8357,8 +8499,8 @@
       "lemma": "ящик",
       "stress": "я́щик",
       "pos": "noun",
-      "gender": "m",
       "gloss": "box, crate, bin, drawer",
+      "gender": "m",
       "meanings": [
         {
           "en": "box, crate, bin",

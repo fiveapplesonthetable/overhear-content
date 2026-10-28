@@ -1,10 +1,10 @@
 # domashniy-arest-s01e10-scene-03: review sheet
 
-Title: Сюжет о дружной семье (The Happy Family Segment)
+Title: Сюжет о дружной семье  (The Happy Family Segment)
 Level: A1 — Duolingo Section 2
 Pair: ru-en
 Source: Домашний арест (Domashniy Arest) S1.10
-Cues 29-74. Arkady arrives with stage costumes for the City Day performance, only to discover that Samsonov and Nina are breaking up. Arkady begs them to keep up appearances for the campaign.
+
 
 Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
@@ -31,15 +31,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Samsonov family, big greetings to everyone!' Arkady greets the household with cheerful theatrical enthusiasm.
 - 'I took costumes from the children's theater.' The past masculine verb indicates completed action.
 - 'The day after tomorrow you will sing a song at the festival.' The future plural verb sets the deadline for the performance.
-- 'Television will show a story about your united family.' The accusative feminine adjective phrase describes the public relations image.
-- 'Wait, what is happening here?' Arkady notices the grim atmosphere with an imperative verb.
-- 'Nina and I decided to get divorced.' Samsonov states the breakup bluntly with a reflexive infinitive.
-- 'Arkady, close the door, we need to talk.' Nina asks for privacy using an imperative verb.
+- 'Television will show a story about your united family.' The object-form feminine adjective phrase describes the public relations image.
+- 'Wait, what is happening here?' Arkady notices the grim atmosphere.
+- 'Nina and I decided to get divorced.' Samsonov states the breakup bluntly.
+- 'Arkady, close the door, we need to talk.' Nina asks for privacy.
 - 'Have you completely gone out of your mind?' Arkady reacts with shock using a common Russian idiom.
-- 'We have a very difficult situation right now.' The genitive pronoun construction expresses possession of a crisis.
+- 'We have a very difficult situation right now.' This phrase expresses possession of a crisis.
 - 'This performance is our only chance!' The demonstrative pronoun highlights the political stakes.
 - 'You have lived together for twenty years.' The present tense verb with a duration numeral expresses ongoing coexistence.
-- 'Arkady, please don't pressure us.' Nina pushes back with a negative imperfective imperative.
+- 'Arkady, please don't pressure us.' Nina pushes back. Listen to the flow.
 - 'This is our personal family matter!' Samsonov insists on boundary privacy with neuter adjectives.
 - 'I am leaving, and you speak calmly.' Arkady offers room to negotiate using contrasting clauses.
-- 'And definitely try on these costumes!' Arkady closes with a firm imperative command.
+- 'And definitely try on these costumes!' Arkady closes with a firm command command.

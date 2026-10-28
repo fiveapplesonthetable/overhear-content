@@ -1,10 +1,10 @@
 # domashniy-arest-s01e08-scene-19: review sheet
 
 Title: Квота на операцию  (Quota for the Surgery)
-Level: beginner
+Level: A1 — Duolingo Section 2
 Pair: ru-en
 Source: Домашний арест, Сезон 1, Эпизод 8
-Cues 287-294 (00:18:27-00:18:45). Arkady thanks Lyosha, and Marina receives news of the surgery quota.
+
 
 Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 

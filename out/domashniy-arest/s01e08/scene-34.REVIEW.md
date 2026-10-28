@@ -4,7 +4,7 @@ Title: Лёля жалуется  (Lyolya Complains)
 Level: A1 — Duolingo Section 2
 Pair: ru-en
 Source: Домашний арест (Domashniy Arest) S1.08
-Cues 755-775. Arkady is present -> anya = Аркадий (alisa), lyolya = Лёля (angelina). Slang 'по рукам туда-сюда' (764) and colloquial filler 'короче' (755) cleaned for A1. Crude undertones in 773-775 adapted to a back massage discussion.
+
 
 Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
@@ -30,8 +30,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Your friend Osipenko called me, can you imagine?' The verb literally means 'do you picture it' or 'can you imagine'.
 - 'He asks how I am doing.' Pavel Osipenko has been trying to move in on Arkady's girlfriend while Arkady is under house arrest.
-- 'He says he missed me very much.' In Russian, the verb takes the preposition for 'after' plus the dative or prepositional case.
-- 'Who else will take care of me?' The verb for taking care of someone takes the preposition for 'about' plus the prepositional case.
+- 'He says he missed me very much.' In Russian, the verb takes the preposition for 'after' plus the 'to'-form or location case.
+- 'Who else will take care of me?' The verb for taking care of someone takes the preposition for 'about' plus the location form.
 - 'He offered to replace you for me!' Osipenko shamelessly claimed Arkady was out of the picture for good.
 - 'What? Has he lost his mind completely?' The phrase literally means 'to go off one's mind'.
 - 'I said he's just a disgusting person.' The adjective describes someone vile, nasty, or slimy.
@@ -40,6 +40,6 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Thank you, but I'm still in pain.' Arkady is still sore after his fall and wearing casts on his arms.
 - 'You're rude, but I felt sorry for you.' The noun means a rude, ill-mannered person.
 - 'Let me give you a back massage.' She rolls up her sleeves and reaches for Arkady's shoulders.
-- 'Lyolya, wait! Please don't touch me!' In Russian, the negative imperative uses the imperfective aspect to say 'don't touch'.
+- 'Lyolya, wait! Please don't touch me!' In Russian, the negative command uses the ongoing-action form aspect to say 'don't touch'.
 - 'The doctor said I need complete rest.' Arkady winces in pain as she presses down on his back.
 - 'But the doctor said to relax your muscles!' Lyolya insists that a firm massage is exactly what the doctor ordered.

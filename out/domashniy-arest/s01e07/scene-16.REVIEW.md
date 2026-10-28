@@ -30,25 +30,25 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - In Marina's bedroom, Marina whispers anxiously about Arkady in the next room: 'What if we wake him up?'
 - 'And what if his pains start?' Eduard grumbles that the hospital already took care of everything.
 - 'They did everything for him at the hospital,' Marina repeats Eduard's excuse.
-- 'Well, what if he gets worse?' Notice the dative pronoun with the impersonal verb for feeling worse.
+- 'Well, what if he gets worse?' Notice the 'to me/you' pronoun with the impersonal verb for feeling worse.
 - When Eduard complains that Marina only thinks about Arkady, she snaps back: 'You only think about yourself!'
 - 'It was just a hard day, let's go to sleep.' Still, a moment later they start whispering again.
 - Right on cue, Arkady bangs his plaster cast against the wall: 'Oh, what is going on?'
 - 'I had only just dozed off!' he groans loudly.
 - 'Can you be quiet for the sake of a sick person?' he calls through the wall.
-- 'I need peace and quiet!' A compact expression built around 'to me' and 'peace'.
-- A few seconds later he knocks again: 'Well, stop rustling behind the wall!' Notice the negative imperative plural.
+- 'I need peace and quiet!' The adjective for 'is needed' agrees in gender, number, and case with 'peace'.
+- A few seconds later he knocks again: 'Well, stop rustling behind the wall!' Notice the negative command plural.
 - 'Well, will there be silence or not?' Arkady demands.
 - 'We are sleeping already, we're sleeping!' Marina calls back, completely ending Eduard's romantic mood.
 - Meanwhile, Samsonov picks up his phone and calls Nina's lawyer friend: 'Hello, Danya, hi!'
-- 'This is Samsonov. How are things?' the speaker puts 'this is' up front so the listener immediately catches the tone, followed by 'Samsonov'.
+- 'This is Samsonov. How are things?' Russian forms this yes-or-no question without a question word, relying on rising pitch on 'things'.
 - 'Listen, forgive me for today,' Samsonov says, pretending to make peace.
-- 'I was wrong.' the speaker starts with 'I' and pairs it with 'was' to make the point clear.
+- 'I was wrong.' The verb for 'was' is in the masculine past tense, marked by the '-l' ending.
 - 'Slavik said you are coming over tomorrow?' he asks.
-- 'Do you want to bring fondue?' In Russian, 'do you want' leads into 'to bring' in a very natural everyday phrasing.
-- 'Haven't you changed your mind yet?' A compact expression built around 'changed your mind' and 'yet'.
-- 'Come on, come visit us!' A compact expression built around 'come on' and 'guests'.
+- 'Do you want to bring fondue?' Notice how the verb meaning 'do you want' governs 'fondue' in the object form form here.
+- 'Haven't you changed your mind yet?' In spoken Russian, word order is flexible: 'changed your mind' comes first to set the focus, followed by 'yet'.
+- 'Come on, come visit us!' Samson uses the command form command form of the verb meaning 'come on'.
 - 'Don't be afraid, everything is fine!' Samsonov reassures him.
-- 'We will sit together in a friendly way at the table.' The first content word means 'we will sit for a while', and 'the table' rounds out the thought.
-- 'We are waiting for you tomorrow!' the speaker uses an urgent command built around the verb for 'we are waiting for'.
+- 'We will sit together in a friendly way at the table.' Notice how the verb meaning 'we will sit for a while' governs 'the table' in the 'with/as' form form here.
+- 'We are waiting for you tomorrow!' The adverb meaning 'tomorrow' modifies the verb for 'we are waiting for' to sharpen the tone.
 - 'Good night, Danya,' Samsonov says with a sly smile.

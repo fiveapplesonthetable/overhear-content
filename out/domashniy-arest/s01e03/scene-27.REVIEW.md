@@ -4,7 +4,7 @@ Title: Не трогай собаку  (Don't Touch the Dog)
 Level: A1 — Duolingo Section 2
 Pair: ru-en
 Source: Домашний арест (Domashniy Arest) S1.03
-Cues 923-973. Polina's crying is heard in the background and described by the narrator (three-role limit). Cue 928 has the transcription slip 'виновата' for masculine 'виноват' (Sofochka is blaming her husband). Cue 934 has 'семье' for genitive 'семьи'. The crude stomach-upset words in cue 942 and the pruning-shears decapitation threat in cues 955-959 are omitted.
+
 
 Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
@@ -29,16 +29,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Polina, sweetheart, please don't cry. We'll find Lyutik.' The word for 'sweetheart' is a tender diminutive of 'daughter'. Putting 'we'll find' before 'we' makes the promise sound warm and reassuring. His wife Sofochka snaps at him.
-- 'It's your fault! Lyutik needs a microchip.' Literally, 'it is you guilty', using the short masculine form for a man. The dog's name takes the dative ending, 'to Lyutik'. Then the judge's phone rings.
+- 'It's your fault! Lyutik needs a microchip.' Literally, 'it is you guilty', using the short masculine form for a man. The dog's name takes the 'to/for' ending, 'to Lyutik'. Then the judge's phone rings.
 - 'Hello, Ilyusha, it's me. And your Lyutik is with me right now.' Arkady uses the judge's cosy nickname, then switches to plural 'your', meaning the whole family's dog. Berg is outraged.
-- 'How dare you! That's a little girl's dog!' Both 'little' and 'girl' take the genitive ending to show possession: 'of a little girl'. Arkady stays cool.
-- 'You left me no choice, Ilyusha.' Because the verb has 'not', 'choice' takes the genitive form. Berg tries to appeal to honour.
+- 'How dare you! That's a little girl's dog!' Both 'little' and 'girl' take the 'of'-form ending to show possession: 'of a little girl'. Arkady stays cool.
+- 'You left me no choice, Ilyusha.' Because the verb has 'not', 'choice' takes the 'of'-form form. Berg tries to appeal to honour.
 - 'Family is off-limits. That's against the rules!' Literally, 'it does not touch the family, it is not according to the rules'. Arkady laughs at him.
 - 'Where did you read rules like that? In The Godfather?' The prefix on 'read' means digging a detail out of a book. Now comes Arkady's threat to the pampered little dog.
 - 'Know what I'm going to give Lyutik now? I'll give him chicken.' The short verb for 'I'll give' is irregular in the future. For a delicate lapdog on a special diet, ordinary chicken is disaster.
 - 'Anything but chicken, I beg you!' Literally, 'only not chicken'. Arkady piles on the horrors.
-- 'And then smoked sausage. And I'll wash him with laundry soap.' The words for 'laundry soap' are in the instrumental case, showing what he'll wash the dog with: harsh brown household soap instead of dog shampoo.
-- 'You're a sadist! What do you want?' With the verb 'want', Russian often uses the genitive 'of what' instead of simple 'what'. Arkady presses home.
+- 'And then smoked sausage. And I'll wash him with laundry soap.' The words for 'laundry soap' are in the 'with/as' form, showing what he'll wash the dog with: harsh brown household soap instead of dog shampoo.
+- 'You're a sadist! What do you want?' With the verb 'want', Russian often uses the 'of'-form 'of what' instead of simple 'what'. Arkady presses home.
 - 'You know what I want. I have nothing to lose.' Literally, 'to me there is nothing to lose'.
 - 'What if I don't get out on a travel ban?' The legal phrase literally means 'under a signed undertaking of non-departure'. With his wife and daughter sobbing behind him, the judge caves in.
 - 'All right, fine, I'll let you out! Just don't touch the dog!' He uses a negative command: 'don't touch'. Back in the flat, Arkady bursts into song.

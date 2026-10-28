@@ -20,7 +20,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 8 | Аня | Это кошмар, я не спорю. Но зачем на видео снимать? | That's a nightmare, I don't argue. But why film it on video? | #629 00:36:02: Это кошмар, я не спорю, но зачем на видео снимать | adapted: split into two short sentences |
 | 9 | Клавдия Викторовна | А я участковому хотела показать. | I wanted to show it to the local policeman. | #630 00:36:05: А участковому хотела показать | adapted: 'я' added |
 | 10 | Аня | Отдайте это видео мне. А мы обеспечим вам достойную старость. | Give this video to me. And we will ensure you a comfortable old age. | #632 00:36:13: отдайте это видео мне, а мы<br>#632 00:36:13: обеспечим вам достойную старость | adapted: split into two short sentences |
-| 11 | Клавдия Викторовна | Нет, лучше я это в новости отправлю. Мне пятнадцать тысяч на карту переведут. | No, I'd rather send this to the news. They'll transfer fifteen thousand to my card. | #635 00:36:32: Нет<br>#635 00:36:32: лучше я это в<br>#636 00:36:35: мне<br>#636 00:36:35: тысяч на карту переведут | adapted: cue 635 'в Лах-Ньюс залью' -> 'в новости отправлю'; '15' written out as 'пятнадцать'; crude 634 omitted |
+| 11 | Клавдия Викторовна | Лучше я это в новости отправлю. Мне пятнадцать тысяч переведут. | No, I'd rather send this to the news. They'll transfer fifteen thousand to my card. | #635 00:36:32: лучше я это в<br>#636 00:36:35: мне<br>#636 00:36:35: переведут | adapted: cue 635 'в Лах-Ньюс залью' -> 'в новости отправлю'; '15' written out as 'пятнадцать'; crude 634 omitted |
 | 12 | Клавдия Викторовна | У меня вот смартфон и приложение имеется. | I have a smartphone and the app right here. | #637 00:36:38: У меня вот смартфон и приложение имеется | verbatim |
 | 13 | Аня | Какая вы прогрессивная бабушка! Что вы хотите за это видео? | What a modern grandma you are! What do you want for this video? | #638 00:36:41: Какая вы<br>#638 00:36:41: прогрессивная бабушка<br>#639 00:36:46: Что вы хотите за это видео | adapted: 'все-таки' trimmed |
 | 14 | Клавдия Викторовна | Телевизор! И чтобы поддерживал три-дэ и смарт-телевизор! | A television! And it has to support 3D and Smart TV! | #640 00:36:49: Телевизор<br>#646 00:37:06: и чтобы поддерживал | adapted: '3D и смарт-ТВ' written in Cyrillic as 'три-дэ и смарт-телевизор' |
@@ -37,16 +37,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'And when was this?' Neuter past tense of 'to be'.
 - 'Oh, that happens very often, Arkashenka.' This verb means 'happens regularly'.
 - 'Bellowing songs!' Literally 'we yell songs': she uses 'we' sarcastically to describe her noisy neighbours.
-- 'That's a nightmare, I don't argue.' A compact expression built around 'that' and 'argue'.
+- 'That's a nightmare, I don't argue.' Arkady centres the line on the verb for 'argue' alongside the noun for 'nightmare'.
 - 'But why film it on video?' Literally 'for what purpose to shoot onto video?'. Klavdia has a ready answer.
 - 'I wanted to show it to the local policeman.' The noun is actually an adjective used as a noun: the officer in charge of the local district, here in the 'to' case. Arkady switches into politician mode.
 - 'Give this video to me.' Polite plural command.
 - 'And we will ensure you a comfortable old age.' Literally 'a worthy old age', once they win the election. Klavdia was not born yesterday.
-- 'No, I'd rather send this to the news.' If that video goes online, Samson's campaign is over before it begins.
-- 'They'll transfer fifteen thousand to my card.' Impersonal plural: 'they will transfer to me'.
+- 'I'd rather send this to the news.' If that video goes online, Samson's campaign is over before it begins.
+- 'They'll transfer fifteen thousand to me.' Impersonal plural: 'they will transfer to me'.
 - 'I have a smartphone and the app right here.' Even at eighty, Klavdia knows how citizen-journalism apps pay for scoop videos.
 - 'What a modern grandma you are!' Literally 'what a progressive grandmother'.
-- 'What do you want for this video?' After 'for' in a trade or exchange, the noun takes the accusative. Klavdia names her price.
+- 'What do you want for this video?' After 'for' in a trade or exchange, the noun takes the object-form. Klavdia names her price.
 - 'A television!' One word, and then the technical specifications.
 - 'And it has to support 3D and Smart TV!' Literally 'and so that it would support'. She also demands a forty-inch screen. And one last detail.
 - 'And glasses included!' Literally 'and glasses in the set', so she can watch her favourite singer Lev Leshchenko in three dimensions.

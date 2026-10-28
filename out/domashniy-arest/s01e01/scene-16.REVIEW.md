@@ -4,20 +4,20 @@ Title: Снова дома, с браслетом  (Home Again, with a Tag)
 Level: A1 — Duolingo Section 2
 Pair: ru-en
 Source: Домашний арест (Domashniy Arest) S1.01
-Arkady is `anya` (label Аркадий). The two prison-service officers are folded into one role; Samson, who appears briefly at the door, has no lines here. The officer's crude joke (cue 645) is left out.
+
 
 Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Офицер | Откройте дверь. Квартира девять? | Open the door. Is this flat nine? | #603 00:36:34: Откройте дверь<br>#606 00:36:43: Квартира девять | adapted: cue 606 is a statement; here the officer checks it |
-| 2 | Соседка | Да. Господи, Аркашка! | Yes. Good Lord, Arkasha! | #607 00:36:45: Да<br>#609 00:36:51: Господи, Аркашка | verbatim |
+| 2 | Клавдия Викторовна | Да. Господи, Аркашка! | Yes. Good Lord, Arkasha! | #607 00:36:45: Да<br>#609 00:36:51: Господи, Аркашка | verbatim |
 | 3 | Аня | Здравствуйте. | Hello. | new | new: colloquial 'Здрасьте' (cue 608) written as the full polite greeting |
-| 4 | Соседка | А что случилось? | What happened? | #610 00:36:52: А что | adapted: стряслось-то -> случилось (plain word) |
+| 4 | Клавдия Викторовна | А что случилось? | What happened? | #610 00:36:52: А что | adapted: стряслось-то -> случилось (plain word) |
 | 5 | Офицер | Гражданин Аникеев будет жить здесь. | Citizen Anikeev will live here. | #611 00:36:56: гражданин Аникеев | adapted: 'будет находиться здесь до окончания следствия' (612) simplified to 'будет жить здесь' |
 | 6 | Офицер | Где ваша комната? | Where is your room? | #613 00:37:01: Где ваша комната | verbatim |
 | 7 | Аня | Где-то здесь была, а теперь нет. | It used to be somewhere here, and now it's gone. | #618 00:37:25: Где-то здесь была, а теперь | adapted: colloquial 'нету' -> 'нет' |
-| 8 | Соседка | За шкафом дверь. | The door is behind the wardrobe. | #619 00:37:27: За шкафом дверь | adapted: speaker of cue 619 not clear in the source; given to the neighbour |
+| 8 | Клавдия Викторовна | За шкафом дверь. | The door is behind the wardrobe. | #619 00:37:27: За шкафом дверь | adapted: speaker of cue 619 not clear in the source; given to the neighbour |
 | 9 | Офицер | Заходите. Поставьте, пожалуйста, правую ногу на кровать. | Come in. Please put your right foot on the bed. | #625 00:37:38: Заходите<br>#634 00:38:20: поставьте, пожалуйста, правую ногу на кровать | adapted: name 'Аркадий Борисович' dropped |
 | 10 | Аня | Пожалуйста. | There you go. | #635 00:38:24: Пожалуйста | verbatim |
 | 11 | Офицер | Это браслет. А это аппарат. | This is the tag. And this is the base unit. | #628 00:38:02: браслет | adapted: simplified from cues 627-628 (the stationary unit and the bracelet on the ankle) |
@@ -26,7 +26,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 14 | Офицер | Тут кнопки вызова: скорая, полиция и мы. | Here are the call buttons: ambulance, police, and us. | #642 00:38:40: кнопки вызова<br>#643 00:38:44: Скорая, полиция | adapted: 'Тут' new; 'ну и мы' -> 'и мы' |
 | 15 | Аня | И всё? | And that's it? | #644 00:38:47: И все | verbatim |
 | 16 | Офицер | И всё. До свидания. | That's it. Goodbye. | #646 00:38:51: До свидания | adapted: 'И всё.' new (replaces the officer's crude joke, cue 645) |
-| 17 | Соседка | Ну, Аркашка, с возвращением. | Well, Arkasha, welcome back. | new | new: new: the neighbour's ironic welcome |
+| 17 | Клавдия Викторовна | Ну, Аркашка, с возвращением. | Well, Arkasha, welcome back. | new | new: new: the neighbour's ironic welcome |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

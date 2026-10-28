@@ -1,10 +1,10 @@
 # domashniy-arest-s01e08-scene-18: review sheet
 
 Title: Лёша берёт вину на себя  (Lyosha Takes the Blame)
-Level: beginner
+Level: A1 — Duolingo Section 2
 Pair: ru-en
 Source: Домашний арест, Сезон 1, Эпизод 8
-Cues 264-286 (00:17:12-00:18:22). Lyosha protects Arkady by telling Marina he broke the toy tank himself.
+
 
 Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
@@ -29,7 +29,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'I am telling Mom everything!' The future tense shows Lyosha's immediate threat.
-- 'Go ahead, tell your mom.' The imperative dares the boy to do his worst.
+- 'Go ahead, tell your mom.' The command form dares the boy to do his worst.
 - 'She already hates me anyway.' The phrase conveys Arkady's feeling of hopelessness.
 - 'I fixed that tank for her.' He confesses that he wanted to win over Marina.
 - 'Mom does not play tanks.' The boy points out the obvious flaw in his logic.
@@ -40,4 +40,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'What happened to the tank? Your tricks again?' She immediately suspects Arkady.
 - 'No, Mom! Uncle Arkady fixed the tank.' Lyosha surprises him by speaking up.
 - 'And I stepped on it by accident.' The boy takes the entire blame onto himself.
-- 'And you, stay out of it.' The formal negative imperative dismisses Arkady completely.
+- 'And you, stay out of it.' The formal negative command dismisses Arkady completely.

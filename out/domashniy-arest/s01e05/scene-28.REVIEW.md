@@ -4,7 +4,7 @@ Title: Пора браться за ум  (Time to Get Smart)
 Level: A1 — Duolingo Section 2
 Pair: ru-en
 Source: Домашний арест (Domashniy Arest) S1.05
-Cues 1068-1109. Three speaker slots are used by Arkady (`anya`), Samson (`samson`), and Nina (`nina`), so Ilona's farewell exchange with Arkady in cues 1068-1081 is framed through Arkady's questions and send-off at the door (with Ilona's replies narrated in the walkthrough, and cue 1079 'травы нет' omitted), while Danila Golovkin's warm goodbye to Nina in cues 1089-1097 is narrated in the walkthrough. Garbled 'Виссамсонов' (1070) -> 'наш Самсонов'; garbled 'Дедушка' (1098) -> 'Нина'; garbled 'от золу' (1099) -> 'за ум'; garbled 'Давно, парень' (1104) -> 'Давно пора, Ваня'; cue 1108 'блин' omitted.
+
 
 Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
@@ -39,7 +39,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Nina, do you know what I thought?' Literally, 'what I thought of'.
 - 'It's time for me to get smart. Seriously.' Literally, 'time for me to take hold of my mind' — a classic Russian idiom for getting your act together and settling down.
 - 'I need to drink less. I'm going to read books.' He uses the warm diminutive word for 'books'. And he has bigger plans.
-- 'In general, I need to grow in every sense.' After 'in', both 'all' and 'senses' take the prepositional plural ending. Nina smiles fondly at her husband.
+- 'In general, I need to grow in every sense.' After 'in', both 'all' and 'senses' take the location plural ending. Nina smiles fondly at her husband.
 - 'Long overdue, Vanya. Forty years old, after all.' Literally, 'it has been time for a long while'. Samson protests.
 - 'Oh, come on! I'm telling you seriously!' The little phrase 'well what are you' is how Russians say 'oh, come on, don't tease me!'.
 - 'Just wait and see, you'll be surprised yet!' Literally, 'you will look, you will still be surprised'.

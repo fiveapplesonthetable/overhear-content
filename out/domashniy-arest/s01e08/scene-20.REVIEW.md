@@ -1,10 +1,10 @@
 # domashniy-arest-s01e08-scene-20: review sheet
 
 Title: Как делать самострел  (How to Make a Slingshot)
-Level: beginner
+Level: A1 — Duolingo Section 2
 Pair: ru-en
 Source: Домашний арест, Сезон 1, Эпизод 8
-Cues 295-305 (00:18:50-00:19:45). Arkady offers to teach Lyosha how to make a toy shooter, while Klavdia Viktorovna scolds them.
+
 
 Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
@@ -29,7 +29,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Hey, kid, have you ever made a toy shooter?' Arkady uses a nostalgic childhood word.
 - 'Want me to teach you?' The short colloquial question invites the boy to bond.
-- 'Then run, go grab a clothespin quickly!' The imperative commands him to fetch the key part.
+- 'Then run, go grab a clothespin quickly!' The command form commands him to fetch the key part.
 - 'I will tell your mother everything!' Grumpy neighbor Klavdia Viktorovna threatens to snitch.
 - 'Klavdia Viktorovna, don't scare the child!' Arkady stands up for the frightened boy.
 - 'She will give you to an orphanage!' The elderly neighbor exaggerates wildly.
