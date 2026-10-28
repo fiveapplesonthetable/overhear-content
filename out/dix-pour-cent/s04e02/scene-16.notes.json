@@ -566,7 +566,7 @@
         },
         {
           "t": "Dylan.",
-          "lemma": "Dylan",
+          "lemma": "dylan",
           "pos": "name",
           "stress": "dilɑ̃",
           "gloss": "Dylan (actor)",
@@ -1314,7 +1314,7 @@
         },
         {
           "t": "Dylan.",
-          "lemma": "Dylan",
+          "lemma": "dylan",
           "pos": "name",
           "stress": "dilɑ̃",
           "gloss": "Dylan (actor)",
@@ -2062,7 +2062,7 @@
         },
         {
           "t": "Dylan.",
-          "lemma": "Dylan",
+          "lemma": "dylan",
           "pos": "name",
           "stress": "dilɑ̃",
           "gloss": "Dylan (actor)",
@@ -2337,6 +2337,10 @@
         {
           "text": "C'est un acteur célèbre.",
           "trans": "He's a famous actor."
+        },
+        {
+          "text": "Excellent! Deux de nos acteurs.",
+          "trans": "Excellent! Two of our actors."
         }
       ],
       "forms": {
@@ -2368,7 +2372,13 @@
       "moreForms": [],
       "plural": "acteurs",
       "pos": "noun",
-      "stress": "aktœʁ"
+      "stress": "aktœʁ",
+      "related": [
+        {
+          "word": "acte",
+          "gloss": "act"
+        }
+      ]
     },
     "agent": {
       "lemma": "agent",
@@ -2407,10 +2417,28 @@
         {
           "text": "Une agente formidable.",
           "trans": "A wonderful female agent."
+        },
+        {
+          "text": "J'ai encore un agent?",
+          "trans": "Do I still have an agent?"
         }
       ],
       "gender": "m",
-      "plural": "agents"
+      "plural": "agents",
+      "related": [
+        {
+          "word": "agence",
+          "gloss": "agency"
+        },
+        {
+          "word": "agenda",
+          "gloss": "diary"
+        },
+        {
+          "word": "agente",
+          "gloss": "agent"
+        }
+      ]
     },
     "aide": {
       "examples": [
@@ -2421,6 +2449,10 @@
         {
           "text": "Tu as besoin d'aide?",
           "trans": "Do you need help?"
+        },
+        {
+          "text": "Si vous avez besoin d'aide, demandez.",
+          "trans": "If you need help, just ask."
         }
       ],
       "forms": {
@@ -2446,13 +2478,19 @@
       "meanings": [
         {
           "en": "help",
-          "note": ""
+          "note": "Standard feminine noun meaning 'help'."
         }
       ],
       "moreForms": [],
       "plural": "aides",
       "pos": "noun",
-      "stress": "ɛd"
+      "stress": "ɛd",
+      "related": [
+        {
+          "word": "aider",
+          "gloss": "to help"
+        }
+      ]
     },
     "aller": {
       "examples": [
@@ -2505,7 +2543,7 @@
       "meanings": [
         {
           "en": "to go",
-          "note": ""
+          "note": "aller + infinitive: tu vas l'agacer = you're going to annoy her"
         },
         {
           "en": "to be (health), in 'ça va'",
@@ -2640,7 +2678,21 @@
         }
       ],
       "pos": "verb",
-      "stress": "ale"
+      "stress": "ale",
+      "related": [
+        {
+          "word": "allemand",
+          "gloss": "German"
+        },
+        {
+          "word": "allergique",
+          "gloss": "allergic"
+        },
+        {
+          "word": "aller-retour",
+          "gloss": "round trip"
+        }
+      ]
     },
     "après": {
       "examples": [
@@ -2651,6 +2703,10 @@
         {
           "text": "On mange, et après on part.",
           "trans": "We eat, and afterwards we leave."
+        },
+        {
+          "text": "Elles commencent avec un peu de Botox. Après, elles ne peuvent plus s'arrêter.",
+          "trans": "They start with a bit of Botox. Then they can't stop anymore."
         }
       ],
       "forms": null,
@@ -2668,7 +2724,13 @@
       ],
       "moreForms": [],
       "pos": "adv",
-      "stress": "apʁɛ"
+      "stress": "apʁɛ",
+      "related": [
+        {
+          "word": "après-midi",
+          "gloss": "afternoon"
+        }
+      ]
     },
     "avec": {
       "examples": [
@@ -2679,6 +2741,10 @@
         {
           "text": "Avec plaisir!",
           "trans": "With pleasure!"
+        },
+        {
+          "text": "Et demain, tu déjeunes avec Audiard.",
+          "trans": "And tomorrow you're having lunch with Audiard."
         }
       ],
       "forms": null,
@@ -2687,12 +2753,13 @@
       "meanings": [
         {
           "en": "with",
-          "note": ""
+          "note": "Everyday French prep meaning 'with'."
         }
       ],
       "moreForms": [],
       "pos": "prep",
-      "stress": "avɛk"
+      "stress": "avɛk",
+      "related": []
     },
     "avoir": {
       "examples": [
@@ -2745,7 +2812,7 @@
       "meanings": [
         {
           "en": "to have",
-          "note": ""
+          "note": "avoir peur = to be afraid, avoir raison = to be right, avoir 40 ans = to be 40"
         },
         {
           "en": "to be (an age)",
@@ -2887,7 +2954,13 @@
         }
       ],
       "pos": "verb",
-      "stress": "avwaʁ"
+      "stress": "avwaʁ",
+      "related": [
+        {
+          "word": "avoir à voir",
+          "gloss": "to have to do with"
+        }
+      ]
     },
     "besoin": {
       "examples": [
@@ -2898,6 +2971,10 @@
         {
           "text": "Tu as besoin de quoi?",
           "trans": "What do you need?"
+        },
+        {
+          "text": "J'ai besoin d'un petit cours.",
+          "trans": "I need a little lesson."
         }
       ],
       "forms": {
@@ -2923,7 +3000,7 @@
       "meanings": [
         {
           "en": "need",
-          "note": ""
+          "note": "elle a besoin d'aide = she needs help"
         },
         {
           "en": "to need (avoir besoin de)",
@@ -2933,7 +3010,13 @@
       "moreForms": [],
       "plural": "besoins",
       "pos": "noun",
-      "stress": "bəzwɛ̃"
+      "stress": "bəzwɛ̃",
+      "related": [
+        {
+          "word": "le/la besoin",
+          "gloss": "the need (with article)"
+        }
+      ]
     },
     "bien intentionné": {
       "lemma": "bien intentionné",
@@ -2943,7 +3026,7 @@
       "meanings": [
         {
           "en": "well-meaning, well-intentioned",
-          "note": ""
+          "note": "Everyday French adj meaning 'well-meaning / well-intentioned'."
         }
       ],
       "forms": {
@@ -2975,6 +3058,24 @@
         {
           "text": "Il est maladroit mais bien intentionné.",
           "trans": "He is clumsy but well-intentioned."
+        },
+        {
+          "text": "Mais il est très bien intentionné.",
+          "trans": "But he means very well."
+        }
+      ],
+      "related": [
+        {
+          "word": "bien",
+          "gloss": "well"
+        },
+        {
+          "word": "bien sûr",
+          "gloss": "of course"
+        },
+        {
+          "word": "bientôt",
+          "gloss": "soon"
         }
       ]
     },
@@ -2987,6 +3088,10 @@
         {
           "text": "Arrête de dire des bêtises.",
           "trans": "Stop talking nonsense."
+        },
+        {
+          "text": "Dis bonjour à Mathias. Mais c'est quoi ces bêtises?",
+          "trans": "Say hello to Mathias. Hey, what is this nonsense?"
         }
       ],
       "forms": {
@@ -3022,7 +3127,13 @@
       "moreForms": [],
       "plural": "bêtises",
       "pos": "noun",
-      "stress": "betiz"
+      "stress": "betiz",
+      "related": [
+        {
+          "word": "le/la bêtise",
+          "gloss": "the silly thing (with article)"
+        }
+      ]
     },
     "comme si": {
       "lemma": "comme si",
@@ -3045,6 +3156,20 @@
         {
           "text": "Il parle comme s'il savait tout.",
           "trans": "He speaks as if he knew everything."
+        },
+        {
+          "text": "Regardez droit devant vous, comme si je n'étais pas là.",
+          "trans": "Look straight ahead, as if I were not here."
+        }
+      ],
+      "related": [
+        {
+          "word": "comme des fous",
+          "gloss": "like crazy"
+        },
+        {
+          "word": "comme ça",
+          "gloss": "like that"
         }
       ]
     },
@@ -3057,9 +3182,33 @@
         {
           "text": "J'ai confiance en toi.",
           "trans": "I trust you."
+        },
+        {
+          "text": "Faites-moi confiance, Audrey. Beyoncé a fait ça après son concert.",
+          "trans": "Trust me, Audrey. Beyoncé did that after her concert."
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Singular & plural",
+        "rows": [
+          {
+            "cells": [
+              "Singular",
+              "la confiance"
+            ]
+          },
+          {
+            "cells": [
+              "Plural",
+              "les confiances"
+            ]
+          }
+        ],
+        "columns": [
+          "Form",
+          "French"
+        ]
+      },
       "gender": "f",
       "gloss": "trust",
       "lemma": "confiance",
@@ -3072,7 +3221,13 @@
       "moreForms": [],
       "plural": "—",
       "pos": "noun",
-      "stress": "kɔ̃fjɑ̃s"
+      "stress": "kɔ̃fjɑ̃s",
+      "related": [
+        {
+          "word": "le/la confiance",
+          "gloss": "the trust (with article)"
+        }
+      ]
     },
     "croire": {
       "examples": [
@@ -3083,6 +3238,10 @@
         {
           "text": "Tu me crois?",
           "trans": "Do you believe me?"
+        },
+        {
+          "text": "Je ne crois pas.",
+          "trans": "I don't think so."
         }
       ],
       "forms": {
@@ -3121,7 +3280,7 @@
       "meanings": [
         {
           "en": "to believe",
-          "note": ""
+          "note": "je ne crois pas = I don't think so"
         },
         {
           "en": "to think (opinion)",
@@ -3224,7 +3383,17 @@
         }
       ],
       "pos": "verb",
-      "stress": "kʁwaʁ"
+      "stress": "kʁwaʁ",
+      "related": [
+        {
+          "word": "croiser",
+          "gloss": "to cross paths with"
+        },
+        {
+          "word": "croissant",
+          "gloss": "croissant"
+        }
+      ]
     },
     "célèbre": {
       "lemma": "célèbre",
@@ -3234,7 +3403,7 @@
       "meanings": [
         {
           "en": "famous, renowned",
-          "note": ""
+          "note": "Everyday French adj meaning 'renowned, famous'."
         }
       ],
       "forms": {
@@ -3266,6 +3435,20 @@
         {
           "text": "La célèbre série télévisée.",
           "trans": "The famous television series."
+        },
+        {
+          "text": "C'est la célèbre série Game of Thrones.",
+          "trans": "It is the famous series Game of Thrones."
+        },
+        {
+          "text": "Ils fabriquent la célèbre Palme d'or.",
+          "trans": "They manufacture the famous Palme d'Or."
+        }
+      ],
+      "related": [
+        {
+          "word": "célèbrement",
+          "gloss": "in a renowned manner (adv.)"
         }
       ]
     },
@@ -3278,6 +3461,10 @@
         {
           "text": "La plus grande imprésario de Paris.",
           "trans": "The greatest impresario in Paris."
+        },
+        {
+          "text": "Le film de Kechiche.",
+          "trans": "The Kechiche film."
         }
       ],
       "forms": null,
@@ -3286,7 +3473,7 @@
       "meanings": [
         {
           "en": "of",
-          "note": ""
+          "note": "je n'ai pas de temps; also before a plural adjective: de mauvaises nouvelles"
         },
         {
           "en": "from",
@@ -3307,7 +3494,17 @@
       ],
       "moreForms": [],
       "pos": "prep",
-      "stress": "də"
+      "stress": "də",
+      "related": [
+        {
+          "word": "du",
+          "gloss": "de + le"
+        },
+        {
+          "word": "des",
+          "gloss": "de + les"
+        }
+      ]
     },
     "douter": {
       "examples": [
@@ -3318,6 +3515,10 @@
         {
           "text": "Je doute de lui.",
           "trans": "I have doubts about him."
+        },
+        {
+          "text": "J'en doute. Jean Gabin déteste les contrats.",
+          "trans": "I doubt it. Jean Gabin hates contracts."
         }
       ],
       "forms": {
@@ -3459,7 +3660,17 @@
         }
       ],
       "pos": "verb",
-      "stress": "dute"
+      "stress": "dute",
+      "related": [
+        {
+          "word": "doute",
+          "gloss": "doubt"
+        },
+        {
+          "word": "redoutable",
+          "gloss": "formidable"
+        }
+      ]
     },
     "désolé": {
       "examples": [
@@ -3470,6 +3681,10 @@
         {
           "text": "Désolé, c'est tout.",
           "trans": "Sorry, that's all. (a man speaking)"
+        },
+        {
+          "text": "Je suis désolée. Vraiment désolée.",
+          "trans": "I'm sorry. Really sorry."
         }
       ],
       "forms": {
@@ -3506,7 +3721,13 @@
       ],
       "moreForms": [],
       "pos": "adj",
-      "stress": "dezɔle"
+      "stress": "dezɔle",
+      "related": [
+        {
+          "word": "désoléement",
+          "gloss": "in a sorry manner (adv.)"
+        }
+      ]
     },
     "encore": {
       "examples": [
@@ -3517,6 +3738,10 @@
         {
           "text": "Il est encore là.",
           "trans": "He's still here."
+        },
+        {
+          "text": "J'ai encore un agent ici?",
+          "trans": "Do I still have an agent here?"
         }
       ],
       "forms": null,
@@ -3538,7 +3763,13 @@
       ],
       "moreForms": [],
       "pos": "adv",
-      "stress": "ɑ̃kɔʁ"
+      "stress": "ɑ̃kɔʁ",
+      "related": [
+        {
+          "word": "encourager",
+          "gloss": "to encourage"
+        }
+      ]
     },
     "erreur": {
       "lemma": "erreur",
@@ -3548,7 +3779,7 @@
       "meanings": [
         {
           "en": "mistake, incorrect decision",
-          "note": ""
+          "note": "une grave erreur"
         }
       ],
       "forms": {
@@ -3573,10 +3804,24 @@
         {
           "text": "Ce tournage était une erreur.",
           "trans": "This shoot was a mistake."
+        },
+        {
+          "text": "Ce tournage était une grande erreur.",
+          "trans": "This shoot was a big mistake."
+        },
+        {
+          "text": "J'ai commis une grave erreur il y a vingt-quatre ans.",
+          "trans": "I made a serious mistake twenty-four years ago."
         }
       ],
       "gender": "f",
-      "plural": "erreurs"
+      "plural": "erreurs",
+      "related": [
+        {
+          "word": "le/la erreur",
+          "gloss": "the blunder (with article)"
+        }
+      ]
     },
     "et": {
       "examples": [
@@ -3586,6 +3831,10 @@
         },
         {
           "text": "Et toi?",
+          "trans": "And you?"
+        },
+        {
+          "text": "Et vous?",
           "trans": "And you?"
         }
       ],
@@ -3604,7 +3853,8 @@
       ],
       "moreForms": [],
       "pos": "conj",
-      "stress": "e"
+      "stress": "e",
+      "related": []
     },
     "faire": {
       "examples": [
@@ -3788,7 +4038,17 @@
         }
       ],
       "pos": "verb",
-      "stress": "fɛʁ"
+      "stress": "fɛʁ",
+      "related": [
+        {
+          "word": "faire attention",
+          "gloss": "to pay attention"
+        },
+        {
+          "word": "refaire",
+          "gloss": "redo"
+        }
+      ]
     },
     "garder": {
       "examples": [
@@ -3799,6 +4059,10 @@
         {
           "text": "Garde la monnaie.",
           "trans": "Keep the change."
+        },
+        {
+          "text": "On a gardé une grande actrice.",
+          "trans": "We kept a great actress."
         }
       ],
       "forms": {
@@ -3837,7 +4101,7 @@
       "meanings": [
         {
           "en": "to keep",
-          "note": ""
+          "note": "garder un enfant"
         },
         {
           "en": "to look after",
@@ -3940,7 +4204,21 @@
         }
       ],
       "pos": "verb",
-      "stress": "ɡaʁde"
+      "stress": "ɡaʁde",
+      "related": [
+        {
+          "word": "regarder",
+          "gloss": "to look at"
+        },
+        {
+          "word": "gardien",
+          "gloss": "guardian"
+        },
+        {
+          "word": "regard",
+          "gloss": "look"
+        }
+      ]
     },
     "il": {
       "examples": [
@@ -3951,6 +4229,10 @@
         {
           "text": "Il y a un problème.",
           "trans": "There's a problem."
+        },
+        {
+          "text": "Il me connaît.",
+          "trans": "He knows me."
         }
       ],
       "forms": null,
@@ -3959,7 +4241,7 @@
       "meanings": [
         {
           "en": "he, it",
-          "note": ""
+          "note": "for masculine nouns, and in impersonal phrases: il y a"
         },
         {
           "en": "it (impersonal)",
@@ -3972,7 +4254,8 @@
       ],
       "moreForms": [],
       "pos": "pron",
-      "stress": "il"
+      "stress": "il",
+      "related": []
     },
     "inquiéter": {
       "examples": [
@@ -3983,6 +4266,10 @@
         {
           "text": "Tu m'inquiètes.",
           "trans": "You're worrying me."
+        },
+        {
+          "text": "Pardon? Ça ne m'inquiète pas du tout.",
+          "trans": "Excuse me? That doesn't worry me at all."
         }
       ],
       "forms": {
@@ -4124,7 +4411,13 @@
         }
       ],
       "pos": "verb",
-      "stress": "ɛ̃kjete"
+      "stress": "ɛ̃kjete",
+      "related": [
+        {
+          "word": "inquiétation",
+          "gloss": "action of to worry"
+        }
+      ]
     },
     "je": {
       "examples": [
@@ -4135,6 +4428,10 @@
         {
           "text": "J'ai un loft.",
           "trans": "I've got a loft."
+        },
+        {
+          "text": "Gabriel! Je suis à mon cours d'équitation.",
+          "trans": "Gabriel! I'm at my horse-riding lesson."
         }
       ],
       "forms": null,
@@ -4148,7 +4445,8 @@
       ],
       "moreForms": [],
       "pos": "pron",
-      "stress": "ʒə"
+      "stress": "ʒə",
+      "related": []
     },
     "le": {
       "examples": [
@@ -4203,7 +4501,8 @@
       ],
       "moreForms": [],
       "pos": "det",
-      "stress": "lə"
+      "stress": "lə",
+      "related": []
     },
     "mais": {
       "examples": [
@@ -4214,6 +4513,10 @@
         {
           "text": "Mais oui!",
           "trans": "Yes, of course!"
+        },
+        {
+          "text": "Non, mais c'est important.",
+          "trans": "No, but it's important."
         }
       ],
       "forms": null,
@@ -4222,7 +4525,7 @@
       "meanings": [
         {
           "en": "but",
-          "note": ""
+          "note": "mais oui! = of course!"
         },
         {
           "en": "(emphasis)",
@@ -4231,7 +4534,13 @@
       ],
       "moreForms": [],
       "pos": "conj",
-      "stress": "mɛ"
+      "stress": "mɛ",
+      "related": [
+        {
+          "word": "maison",
+          "gloss": "house"
+        }
+      ]
     },
     "me": {
       "examples": [
@@ -4242,6 +4551,10 @@
         {
           "text": "Je m'appelle Camille.",
           "trans": "My name is Camille."
+        },
+        {
+          "text": "Il me connaît.",
+          "trans": "He knows me."
         }
       ],
       "forms": null,
@@ -4259,7 +4572,8 @@
       ],
       "moreForms": [],
       "pos": "pron",
-      "stress": "mə"
+      "stress": "mə",
+      "related": []
     },
     "moi": {
       "examples": [
@@ -4270,6 +4584,10 @@
         {
           "text": "Moi aussi.",
           "trans": "Me too."
+        },
+        {
+          "text": "C'est comme un rêve pour moi.",
+          "trans": "It's like a dream for me."
         }
       ],
       "forms": null,
@@ -4287,7 +4605,8 @@
       ],
       "moreForms": [],
       "pos": "pron",
-      "stress": "mwa"
+      "stress": "mwa",
+      "related": []
     },
     "mon": {
       "examples": [
@@ -4338,7 +4657,8 @@
       ],
       "moreForms": [],
       "pos": "det",
-      "stress": "mɔ̃"
+      "stress": "mɔ̃",
+      "related": []
     },
     "ne": {
       "examples": [
@@ -4349,6 +4669,10 @@
         {
           "text": "Il n'a jamais joué.",
           "trans": "He has never played."
+        },
+        {
+          "text": "Je ne sais pas.",
+          "trans": "I don't know."
         }
       ],
       "forms": null,
@@ -4366,7 +4690,17 @@
       ],
       "moreForms": [],
       "pos": "part",
-      "stress": "nə"
+      "stress": "nə",
+      "related": [
+        {
+          "word": "pas",
+          "gloss": "not"
+        },
+        {
+          "word": "jamais",
+          "gloss": "never"
+        }
+      ]
     },
     "officiel": {
       "lemma": "officiel",
@@ -4412,6 +4746,20 @@
         {
           "text": "Une annonce officielle.",
           "trans": "An official announcement."
+        },
+        {
+          "text": "Ou appeler ton agent officiel, Mathias.",
+          "trans": "Or call your official agent, Mathias."
+        }
+      ],
+      "related": [
+        {
+          "word": "officiellement",
+          "gloss": "officially"
+        },
+        {
+          "word": "officier",
+          "gloss": "officer"
         }
       ]
     },
@@ -4423,7 +4771,7 @@
       "meanings": [
         {
           "en": "speech therapist, speech-language pathologist",
-          "note": ""
+          "note": "Standard French noun meaning 'speech therapist / speech pathologist'."
         }
       ],
       "forms": {
@@ -4448,10 +4796,24 @@
         {
           "text": "Il va chez l'orthophoniste.",
           "trans": "He is going to the speech therapist."
+        },
+        {
+          "text": "C'était son orthophoniste, pas un dealer.",
+          "trans": "It was his speech therapist, not a dealer."
+        },
+        {
+          "text": "Mais pourquoi a-t-il besoin d'un orthophoniste?",
+          "trans": "But why does he need a speech therapist?"
         }
       ],
       "gender": "mf",
-      "plural": "orthophonistes"
+      "plural": "orthophonistes",
+      "related": [
+        {
+          "word": "le/la orthophoniste",
+          "gloss": "the speech therapist (with article)"
+        }
+      ]
     },
     "ouais": {
       "examples": [
@@ -4462,6 +4824,10 @@
         {
           "text": "Ouais, d'accord.",
           "trans": "Yeah, okay."
+        },
+        {
+          "text": "Spielberg? Ouais...",
+          "trans": "Spielberg? Yeah..."
         }
       ],
       "forms": null,
@@ -4476,7 +4842,13 @@
       "moreForms": [],
       "pos": "adv",
       "register": "informal",
-      "stress": "wɛ"
+      "stress": "wɛ",
+      "related": [
+        {
+          "word": "très ouais",
+          "gloss": "related adverbial expression (yeah)"
+        }
+      ]
     },
     "parfois": {
       "lemma": "parfois",
@@ -4486,7 +4858,7 @@
       "meanings": [
         {
           "en": "sometimes, occasionally, at times",
-          "note": ""
+          "note": "Everyday French adv meaning 'sometimes'."
         }
       ],
       "forms": null,
@@ -4499,6 +4871,24 @@
         {
           "text": "Parfois, il arrive en retard.",
           "trans": "Sometimes, he arrives late."
+        },
+        {
+          "text": "Bien sûr que si! C'est juste que travailler ensemble, c'est parfois difficile.",
+          "trans": "Of course I do! It's just that working together is sometimes difficult."
+        }
+      ],
+      "related": [
+        {
+          "word": "parfait",
+          "gloss": "perfect"
+        },
+        {
+          "word": "parfum",
+          "gloss": "scent"
+        },
+        {
+          "word": "parfaitement",
+          "gloss": "perfectly"
         }
       ]
     },
@@ -4511,6 +4901,10 @@
         {
           "text": "Pas de problème.",
           "trans": "No problem."
+        },
+        {
+          "text": "Je ne suis pas actrice.",
+          "trans": "I'm not an actress."
         }
       ],
       "forms": null,
@@ -4532,7 +4926,8 @@
       ],
       "moreForms": [],
       "pos": "part",
-      "stress": "pa"
+      "stress": "pa",
+      "related": []
     },
     "penser": {
       "examples": [
@@ -4543,6 +4938,10 @@
         {
           "text": "Je pense à toi.",
           "trans": "I'm thinking of you."
+        },
+        {
+          "text": "Ils ont pensé que c'était mieux.",
+          "trans": "They thought it was better."
         }
       ],
       "forms": {
@@ -4581,7 +4980,7 @@
       "meanings": [
         {
           "en": "to think",
-          "note": ""
+          "note": "je pense que... = I think that..."
         },
         {
           "en": "je le pense: I mean it",
@@ -4688,7 +5087,21 @@
         }
       ],
       "pos": "verb",
-      "stress": "pɑ̃se"
+      "stress": "pɑ̃se",
+      "related": [
+        {
+          "word": "dépenser",
+          "gloss": "to spend"
+        },
+        {
+          "word": "pensée",
+          "gloss": "thought"
+        },
+        {
+          "word": "repenser",
+          "gloss": "to think back"
+        }
+      ]
     },
     "pour": {
       "examples": [
@@ -4699,6 +5112,10 @@
         {
           "text": "Je suis là pour voir Mathias.",
           "trans": "I'm here to see Mathias."
+        },
+        {
+          "text": "C'est comme un rêve pour moi.",
+          "trans": "It's like a dream for me."
         }
       ],
       "forms": null,
@@ -4707,7 +5124,7 @@
       "meanings": [
         {
           "en": "for",
-          "note": ""
+          "note": "before an infinitive: pour faire plaisir"
         },
         {
           "en": "to, in order to",
@@ -4716,7 +5133,21 @@
       ],
       "moreForms": [],
       "pos": "prep",
-      "stress": "puʁ"
+      "stress": "puʁ",
+      "related": [
+        {
+          "word": "pourquoi",
+          "gloss": "why"
+        },
+        {
+          "word": "pour cent",
+          "gloss": "percent"
+        },
+        {
+          "word": "pour de vrai",
+          "gloss": "for real"
+        }
+      ]
     },
     "que": {
       "examples": [
@@ -4727,6 +5158,10 @@
         {
           "text": "Je n'ai que deux places.",
           "trans": "I've only got two tickets."
+        },
+        {
+          "text": "Appelle Clémentine. Dis-lui que je ne peux pas venir ce soir.",
+          "trans": "Call Clémentine. Tell her I can't come tonight."
         }
       ],
       "forms": null,
@@ -4752,7 +5187,8 @@
       ],
       "moreForms": [],
       "pos": "conj",
-      "stress": "kə"
+      "stress": "kə",
+      "related": []
     },
     "redonner": {
       "lemma": "redonner",
@@ -4919,6 +5355,24 @@
         {
           "text": "Cela m'a redonné le sourire.",
           "trans": "That brought back my smile."
+        },
+        {
+          "text": "Et il m'a redonné confiance.",
+          "trans": "And he restored my confidence."
+        }
+      ],
+      "related": [
+        {
+          "word": "donner",
+          "gloss": "to give"
+        },
+        {
+          "word": "donneur",
+          "gloss": "donor"
+        },
+        {
+          "word": "donne",
+          "gloss": "deal"
         }
       ]
     },
@@ -4931,6 +5385,10 @@
         {
           "text": "Je reste à la maison.",
           "trans": "I'm staying at home."
+        },
+        {
+          "text": "Je reste à Paris.",
+          "trans": "I'm staying in Paris."
         }
       ],
       "forms": {
@@ -5096,7 +5554,13 @@
         }
       ],
       "pos": "verb",
-      "stress": "ʁɛste"
+      "stress": "ʁɛste",
+      "related": [
+        {
+          "word": "restation",
+          "gloss": "action of to stay"
+        }
+      ]
     },
     "récent": {
       "lemma": "récent",
@@ -5142,6 +5606,24 @@
         {
           "text": "Un événement tout récent.",
           "trans": "A very recent event."
+        },
+        {
+          "text": "Oui, c'est tout récent.",
+          "trans": "Yes, it is very recent."
+        }
+      ],
+      "related": [
+        {
+          "word": "cent",
+          "gloss": "hundred"
+        },
+        {
+          "word": "centre",
+          "gloss": "centre"
+        },
+        {
+          "word": "centimètre",
+          "gloss": "centimeter"
         }
       ]
     },
@@ -5301,8 +5783,8 @@
       "pos": "verb",
       "related": [
         {
-          "gloss": "to know (a person, a place)",
-          "word": "connaître"
+          "word": "connaître",
+          "gloss": "to know (a person, a place)"
         }
       ],
       "stress": "savwaʁ"
@@ -5316,6 +5798,10 @@
         {
           "text": "Tu travailles en secret?",
           "trans": "Are you working in secret?"
+        },
+        {
+          "text": "Tu travailles en secret pour Mathias?",
+          "trans": "Are you working in secret for Mathias?"
         }
       ],
       "forms": {
@@ -5351,7 +5837,17 @@
       "moreForms": [],
       "plural": "secrets",
       "pos": "noun",
-      "stress": "səkʁɛ"
+      "stress": "səkʁɛ",
+      "related": [
+        {
+          "word": "secrétaire",
+          "gloss": "office assistant"
+        },
+        {
+          "word": "secrètement",
+          "gloss": "secretly"
+        }
+      ]
     },
     "son": {
       "examples": [
@@ -5362,6 +5858,10 @@
         {
           "text": "C'est son agent.",
           "trans": "It's her agent."
+        },
+        {
+          "text": "Oui, trois cent mille. Je parle de ses vingt ans de carrière.",
+          "trans": "Yes, three hundred thousand. I'm talking about his twenty years of career."
         }
       ],
       "forms": {
@@ -5398,7 +5898,8 @@
       ],
       "moreForms": [],
       "pos": "det",
-      "stress": "sɔ̃"
+      "stress": "sɔ̃",
+      "related": []
     },
     "te": {
       "examples": [
@@ -5409,6 +5910,10 @@
         {
           "text": "Je te rappelle.",
           "trans": "I'll call you back."
+        },
+        {
+          "text": "Je voulais te faire la surprise.",
+          "trans": "I wanted to surprise you."
         }
       ],
       "forms": null,
@@ -5426,7 +5931,8 @@
       ],
       "moreForms": [],
       "pos": "pron",
-      "stress": "tə"
+      "stress": "tə",
+      "related": []
     },
     "ton": {
       "examples": [
@@ -5437,6 +5943,10 @@
         {
           "text": "C'est ton vélo?",
           "trans": "Is it your bike?"
+        },
+        {
+          "text": "Tes premières vacances en huit ans!",
+          "trans": "Your first holiday in eight years!"
         }
       ],
       "forms": {
@@ -5473,7 +5983,8 @@
       ],
       "moreForms": [],
       "pos": "det",
-      "stress": "tɔ̃"
+      "stress": "tɔ̃",
+      "related": []
     },
     "toujours": {
       "examples": [
@@ -5484,6 +5995,10 @@
         {
           "text": "Il est toujours là.",
           "trans": "He's still here."
+        },
+        {
+          "text": "Je suis sérieuse. J'ai toujours adoré le cinéma.",
+          "trans": "I'm serious. I've always loved films."
         }
       ],
       "forms": null,
@@ -5492,7 +6007,7 @@
       "meanings": [
         {
           "en": "always",
-          "note": ""
+          "note": "toujours aucune nouvelle? = still no news?"
         },
         {
           "en": "still",
@@ -5501,7 +6016,13 @@
       ],
       "moreForms": [],
       "pos": "adv",
-      "stress": "tuʒuʁ"
+      "stress": "tuʒuʁ",
+      "related": [
+        {
+          "word": "très toujours",
+          "gloss": "related adverbial expression (always)"
+        }
+      ]
     },
     "tout": {
       "examples": [
@@ -5564,7 +6085,21 @@
       ],
       "moreForms": [],
       "pos": "pron",
-      "stress": "tu"
+      "stress": "tu",
+      "related": [
+        {
+          "word": "tout le monde",
+          "gloss": "everybody"
+        },
+        {
+          "word": "tout de suite",
+          "gloss": "right away"
+        },
+        {
+          "word": "tout à l'heure",
+          "gloss": "earlier"
+        }
+      ]
     },
     "tout le monde": {
       "examples": [
@@ -5575,6 +6110,10 @@
         {
           "text": "Bonjour tout le monde!",
           "trans": "Hello everyone!"
+        },
+        {
+          "text": "On est au Westin. Tout le monde est là.",
+          "trans": "We're at the Westin. Everyone is here."
         }
       ],
       "forms": null,
@@ -5588,7 +6127,21 @@
       ],
       "moreForms": [],
       "pos": "phrase",
-      "stress": "tuləmɔ̃d"
+      "stress": "tuləmɔ̃d",
+      "related": [
+        {
+          "word": "tout",
+          "gloss": "all"
+        },
+        {
+          "word": "tout de suite",
+          "gloss": "right away"
+        },
+        {
+          "word": "tout à l'heure",
+          "gloss": "earlier"
+        }
+      ]
     },
     "très": {
       "examples": [
@@ -5599,6 +6152,10 @@
         {
           "text": "C'est très important.",
           "trans": "It's very important."
+        },
+        {
+          "text": "Très bien. Et vous? Un thé?",
+          "trans": "Very well. And you? Tea?"
         }
       ],
       "forms": null,
@@ -5607,12 +6164,18 @@
       "meanings": [
         {
           "en": "very",
-          "note": ""
+          "note": "Everyday French adv meaning 'very'."
         }
       ],
       "moreForms": [],
       "pos": "adv",
-      "stress": "tʁɛ"
+      "stress": "tʁɛ",
+      "related": [
+        {
+          "word": "très bien",
+          "gloss": "very well"
+        }
+      ]
     },
     "tu": {
       "examples": [
@@ -5623,6 +6186,10 @@
         {
           "text": "Tu viens?",
           "trans": "Are you coming?"
+        },
+        {
+          "text": "Tu es pénible.",
+          "trans": "You're a pain."
         }
       ],
       "forms": null,
@@ -5638,8 +6205,8 @@
       "pos": "pron",
       "related": [
         {
-          "gloss": "you (polite or plural)",
-          "word": "vous"
+          "word": "vous",
+          "gloss": "you (polite or plural)"
         }
       ],
       "stress": "ty"
@@ -5701,7 +6268,8 @@
       ],
       "moreForms": [],
       "pos": "det",
-      "stress": "œ̃"
+      "stress": "œ̃",
+      "related": []
     },
     "vrai": {
       "examples": [
@@ -5712,6 +6280,10 @@
         {
           "text": "Une vraie amie.",
           "trans": "A real friend."
+        },
+        {
+          "text": "La terre, elle est vraie. Elle ne sait pas mentir.",
+          "trans": "The earth is honest. It doesn't know how to lie."
         }
       ],
       "forms": {
@@ -5743,7 +6315,7 @@
       "meanings": [
         {
           "en": "true",
-          "note": ""
+          "note": "Everyday French adj meaning 'true, real'."
         },
         {
           "en": "real, genuine, honest",
@@ -5752,7 +6324,13 @@
       ],
       "moreForms": [],
       "pos": "adj",
-      "stress": "vʁɛ"
+      "stress": "vʁɛ",
+      "related": [
+        {
+          "word": "vraiment",
+          "gloss": "really"
+        }
+      ]
     },
     "être": {
       "examples": [
@@ -5932,7 +6510,13 @@
         }
       ],
       "pos": "verb",
-      "stress": "ɛtʁ"
+      "stress": "ɛtʁ",
+      "related": [
+        {
+          "word": "reêtre",
+          "gloss": "verb family relative (to be)"
+        }
+      ]
     }
   }
 }

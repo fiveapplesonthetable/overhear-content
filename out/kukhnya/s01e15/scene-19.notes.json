@@ -86,7 +86,7 @@
           "pos": "noun",
           "stress": "о́млет",
           "gloss": "omelette",
-          "gram": "noun"
+          "gram": "nominative / accusative"
         }
       ]
     },
@@ -108,7 +108,7 @@
           "pos": "noun",
           "stress": "ти́па",
           "gloss": "guy, fellow; type",
-          "gram": "noun"
+          "gram": "nominative / accusative"
         },
         {
           "t": "извинения?",
@@ -138,7 +138,7 @@
           "pos": "noun",
           "stress": "ти́па",
           "gloss": "guy, fellow; type",
-          "gram": "noun"
+          "gram": "nominative / accusative"
         },
         {
           "t": "омлет.",
@@ -146,7 +146,7 @@
           "pos": "noun",
           "stress": "о́млет",
           "gloss": "omelette",
-          "gram": "noun"
+          "gram": "nominative / accusative"
         }
       ]
     },
@@ -190,7 +190,7 @@
           "pos": "verb",
           "stress": "опозда́ю",
           "gloss": "to be late",
-          "gram": "verb"
+          "gram": "1st person singular"
         },
         {
           "t": "на",
@@ -454,7 +454,7 @@
           "pos": "noun",
           "stress": "о́млет",
           "gloss": "omelette",
-          "gram": "noun"
+          "gram": "nominative / accusative"
         }
       ]
     },
@@ -476,7 +476,7 @@
           "pos": "noun",
           "stress": "ти́па",
           "gloss": "guy, fellow; type",
-          "gram": "noun"
+          "gram": "nominative / accusative"
         },
         {
           "t": "извинения?",
@@ -506,7 +506,7 @@
           "pos": "noun",
           "stress": "ти́па",
           "gloss": "guy, fellow; type",
-          "gram": "noun"
+          "gram": "nominative / accusative"
         },
         {
           "t": "омлет.",
@@ -514,7 +514,7 @@
           "pos": "noun",
           "stress": "о́млет",
           "gloss": "omelette",
-          "gram": "noun"
+          "gram": "nominative / accusative"
         }
       ]
     },
@@ -558,7 +558,7 @@
           "pos": "verb",
           "stress": "опозда́ю",
           "gloss": "to be late",
-          "gram": "verb"
+          "gram": "1st person singular"
         },
         {
           "t": "на",
@@ -822,7 +822,7 @@
           "pos": "noun",
           "stress": "о́млет",
           "gloss": "omelette",
-          "gram": "noun"
+          "gram": "nominative / accusative"
         }
       ]
     },
@@ -844,7 +844,7 @@
           "pos": "noun",
           "stress": "ти́па",
           "gloss": "guy, fellow; type",
-          "gram": "noun"
+          "gram": "nominative / accusative"
         },
         {
           "t": "извинения?",
@@ -874,7 +874,7 @@
           "pos": "noun",
           "stress": "ти́па",
           "gloss": "guy, fellow; type",
-          "gram": "noun"
+          "gram": "nominative / accusative"
         },
         {
           "t": "омлет.",
@@ -882,7 +882,7 @@
           "pos": "noun",
           "stress": "о́млет",
           "gloss": "omelette",
-          "gram": "noun"
+          "gram": "nominative / accusative"
         }
       ]
     },
@@ -926,7 +926,7 @@
           "pos": "verb",
           "stress": "опозда́ю",
           "gloss": "to be late",
-          "gram": "verb"
+          "gram": "1st person singular"
         },
         {
           "t": "на",
@@ -1226,6 +1226,20 @@
         {
           "text": "Она очень добрая.",
           "trans": "She is very kind."
+        },
+        {
+          "text": "Добрый вечер, Вика. С Новым годом!",
+          "trans": "Good evening, Vika. Happy New Year!"
+        }
+      ],
+      "related": [
+        {
+          "word": "добро",
+          "gloss": "in a kind way (adv.)"
+        },
+        {
+          "word": "добрость",
+          "gloss": "quality of being kind"
         }
       ]
     },
@@ -1302,6 +1316,16 @@
         {
           "text": "Какое хорошее утро!",
           "trans": "What a lovely morning!"
+        },
+        {
+          "text": "Какое хорошее утро! Лидия Алексеевна, чашку кофе, пожалуйста.",
+          "trans": "What a lovely morning! Lidia Alekseyevna, a cup of coffee, please."
+        }
+      ],
+      "related": [
+        {
+          "word": "утрный",
+          "gloss": "related to morning (adj.)"
         }
       ]
     },
@@ -1397,6 +1421,24 @@
         {
           "text": "Мама приготовила вкусный ужин.",
           "trans": "Mum cooked a delicious dinner."
+        },
+        {
+          "text": "Я торт приготовила. Ты любишь сладкое?",
+          "trans": "I made a cake. Do you have a sweet tooth?"
+        }
+      ],
+      "related": [
+        {
+          "word": "готовить",
+          "gloss": "to cook"
+        },
+        {
+          "word": "готовый",
+          "gloss": "ready"
+        },
+        {
+          "word": "подготовить",
+          "gloss": "to prepare"
         }
       ]
     },
@@ -1408,14 +1450,79 @@
       "meanings": [
         {
           "en": "such, so",
-          "note": ""
+          "note": "'что я за мэр такой' = what kind of mayor am I"
         },
         {
           "en": "что такое? = what's this?",
           "note": ""
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "m",
+          "f",
+          "n",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "такой",
+              "такая",
+              "такое",
+              "такие"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "такого",
+              "такой",
+              "такого",
+              "таких"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "такому",
+              "такой",
+              "такому",
+              "таким"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "такой / такого",
+              "такую",
+              "такое",
+              "такие / таких"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "таким",
+              "такой",
+              "таким",
+              "такими"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "таком",
+              "такой",
+              "таком",
+              "таких"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -1425,18 +1532,32 @@
         {
           "text": "Он такой добрый.",
           "trans": "He's so kind."
+        },
+        {
+          "text": "Павел Юрьевич, это что такое?",
+          "trans": "Pavel Yuryevich, what is this?"
+        }
+      ],
+      "related": [
+        {
+          "word": "тако",
+          "gloss": "in a such way (adv.)"
+        },
+        {
+          "word": "такость",
+          "gloss": "quality of being such"
         }
       ]
     },
     "омлет": {
       "lemma": "омлет",
-      "stress": "о́млет",
+      "stress": "омле́т",
       "pos": "noun",
       "gloss": "omelette",
       "meanings": [
         {
           "en": "omelette",
-          "examples": []
+          "note": "Borrowed from French 'omelette' (originally 'alemelle', thin blade/sheet, describing the flat pan-cooked egg dish)."
         }
       ],
       "forms": {
@@ -1449,48 +1570,66 @@
         "rows": [
           {
             "cells": [
-              "nom",
+              "nominative",
               "омлет",
               "омлеты"
             ]
           },
           {
             "cells": [
-              "gen",
+              "genitive",
               "омлета",
               "омлетов"
             ]
           },
           {
             "cells": [
-              "dat",
+              "dative",
               "омлету",
               "омлетам"
             ]
           },
           {
             "cells": [
-              "acc",
+              "accusative",
               "омлет",
               "омлеты"
             ]
           },
           {
             "cells": [
-              "inst",
+              "instrumental",
               "омлетом",
               "омлетами"
             ]
           },
           {
             "cells": [
-              "prep",
+              "prepositional",
               "омлете",
               "омлетах"
             ]
           }
         ]
-      }
+      },
+      "gender": "m",
+      "moreForms": [],
+      "related": [
+        {
+          "word": "омлетный",
+          "gloss": "related to omelette (adj.)"
+        }
+      ],
+      "examples": [
+        {
+          "text": "Виктор приготовил такой омлет.",
+          "trans": "Victor prepared such an omelet."
+        },
+        {
+          "text": "Это типа омлет.",
+          "trans": "This is a kind of omelet."
+        }
+      ]
     },
     "это": {
       "lemma": "это",
@@ -1500,7 +1639,7 @@
       "meanings": [
         {
           "en": "this, that",
-          "note": ""
+          "note": "pointing at a thing or a situation; 'это' + noun = 'this is ...'"
         },
         {
           "en": "this is, that is",
@@ -1515,7 +1654,51 @@
           "note": "case forms"
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "это"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "этого"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "этому"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "это"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "этим"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "этом"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -1525,6 +1708,16 @@
         {
           "text": "А это тебе.",
           "trans": "And this is for you."
+        },
+        {
+          "text": "А это тебе. Машинка!",
+          "trans": "And this is for you. A toy car!"
+        }
+      ],
+      "related": [
+        {
+          "word": "этот",
+          "gloss": "this (before a noun)"
         }
       ]
     },
@@ -1605,6 +1798,16 @@
         {
           "text": "Он очень странный тип.",
           "trans": "He is a very strange guy."
+        },
+        {
+          "text": "Да я не про это. Кто этот тип в коридоре?",
+          "trans": "That's not what I mean. Who was that guy in the corridor?"
+        }
+      ],
+      "related": [
+        {
+          "word": "типный",
+          "gloss": "related to guy (adj.)"
         }
       ]
     },
@@ -1617,7 +1820,7 @@
       "meanings": [
         {
           "en": "apology (often plural: принести извинения = to offer apologies)",
-          "note": ""
+          "note": "Prefix 'из-' ('out from within') marks extraction or exhaustion (stem 'винение'). Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'apology, excuse' in everyday Russian."
         }
       ],
       "forms": {
@@ -1681,12 +1884,26 @@
         {
           "text": "Примите мои извинения.",
           "trans": "Please accept my apologies."
+        },
+        {
+          "text": "Наша организация приносит свои извинения.",
+          "trans": "Our organization offers its apologies."
+        }
+      ],
+      "related": [
+        {
+          "word": "извинить",
+          "gloss": "to excuse"
+        },
+        {
+          "word": "извиниться",
+          "gloss": "to apologise"
         }
       ]
     },
     "есть": {
       "lemma": "есть",
-      "stress": null,
+      "stress": "есть",
       "pos": "verb",
       "aspect": "impf",
       "pair": "съесть",
@@ -1776,6 +1993,24 @@
         {
           "text": "Что ты ешь?",
           "trans": "What are you eating?"
+        },
+        {
+          "text": "Я вчера ел маринованные грибы. Может, один гриб был плохой.",
+          "trans": "Yesterday I ate pickled mushrooms. Maybe one mushroom was bad."
+        }
+      ],
+      "related": [
+        {
+          "word": "съесть",
+          "gloss": "to eat"
+        },
+        {
+          "word": "сесть",
+          "gloss": "to sit down"
+        },
+        {
+          "word": "поесть",
+          "gloss": "to eat"
         }
       ]
     },
@@ -1789,7 +2024,7 @@
       "meanings": [
         {
           "en": "to give",
-          "note": ""
+          "note": "давай + 1st person plural or infinitive"
         },
         {
           "en": "let's",
@@ -1875,6 +2110,24 @@
         {
           "text": "Он мне даёт книгу.",
           "trans": "He gives me a book."
+        },
+        {
+          "text": "Давай мы его уволим, а тебя на его место назначим.",
+          "trans": "Let's fire him and put you in his place."
+        }
+      ],
+      "related": [
+        {
+          "word": "дать",
+          "gloss": "to give"
+        },
+        {
+          "word": "давай",
+          "gloss": "let's"
+        },
+        {
+          "word": "сдавать",
+          "gloss": "to take"
         }
       ]
     },
@@ -1886,14 +2139,58 @@
       "meanings": [
         {
           "en": "I",
-          "note": ""
+          "note": "меня = me (genitive/accusative), мне = to me (dative)"
         },
         {
           "en": "other forms: меня (gen/acc), мне (dat), мной (instr), мне (prep)",
           "note": "case forms"
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "я"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "меня"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "мне"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "меня"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "мной"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "мне"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -1903,6 +2200,20 @@
         {
           "text": "Я вырос здесь.",
           "trans": "I grew up here."
+        },
+        {
+          "text": "Шеф, я не брала.",
+          "trans": "Chef, I didn't take it."
+        }
+      ],
+      "related": [
+        {
+          "word": "меня",
+          "gloss": "me (genitive/accusative)"
+        },
+        {
+          "word": "мне",
+          "gloss": "to me (dative)"
         }
       ]
     },
@@ -1981,6 +2292,20 @@
         {
           "text": "Мы не опоздаем?",
           "trans": "Won't we be late?"
+        },
+        {
+          "text": "Викуля! Прости, милая, я опоздал.",
+          "trans": "Vikulya! Sorry, darling, I'm late."
+        }
+      ],
+      "related": [
+        {
+          "word": "опаздывать",
+          "gloss": "to be running late"
+        },
+        {
+          "word": "опоздание",
+          "gloss": "being late"
         }
       ]
     },
@@ -2009,8 +2334,13 @@
         {
           "text": "Он идёт на второй срок.",
           "trans": "He is running for a second term."
+        },
+        {
+          "text": "Я очень люблю наш город. Поэтому я иду на второй срок.",
+          "trans": "I love our town very much. That's why I'm running for a second term."
         }
-      ]
+      ],
+      "related": []
     },
     "работа": {
       "lemma": "работа",
@@ -2021,7 +2351,7 @@
       "meanings": [
         {
           "en": "work",
-          "note": ""
+          "note": "'на работе' = at work"
         },
         {
           "en": "job",
@@ -2089,6 +2419,24 @@
         {
           "text": "Работы очень много.",
           "trans": "There's a lot of work."
+        },
+        {
+          "text": "Я на работе.",
+          "trans": "I'm at work."
+        }
+      ],
+      "related": [
+        {
+          "word": "работать",
+          "gloss": "to work"
+        },
+        {
+          "word": "поработать",
+          "gloss": "to work for a while"
+        },
+        {
+          "word": "рабочий",
+          "gloss": "working"
         }
       ]
     },
@@ -2100,7 +2448,7 @@
       "meanings": [
         {
           "en": "yes",
-          "note": ""
+          "note": "emphatic at the start of a sentence"
         },
         {
           "en": "да ну? = really?, oh yeah?",
@@ -2117,8 +2465,13 @@
         {
           "text": "Да, это я.",
           "trans": "Yes, it's me."
+        },
+        {
+          "text": "Да ну? Когда?",
+          "trans": "Oh yeah? When?"
         }
-      ]
+      ],
+      "related": []
     },
     "кушать": {
       "lemma": "кушать",
@@ -2204,7 +2557,30 @@
           ]
         }
       ],
-      "examples": []
+      "examples": [
+        {
+          "text": "Кушай хорошо, чтобы расти сильным.",
+          "trans": "Eat well so that you grow up strong."
+        },
+        {
+          "text": "Вот, совсем другое дело, кушайте!",
+          "trans": "There, that is much better, eat up!"
+        },
+        {
+          "text": "Настя, почему ты не кушаешь мясо?",
+          "trans": "Nastya, why do you not eat meat?"
+        }
+      ],
+      "related": [
+        {
+          "word": "покушать",
+          "gloss": "to eat"
+        },
+        {
+          "word": "накушаться",
+          "gloss": "to get drunk"
+        }
+      ]
     },
     "быстро": {
       "lemma": "быстро",
@@ -2214,7 +2590,7 @@
       "meanings": [
         {
           "en": "fast, quickly",
-          "note": ""
+          "note": "the comparative 'быстрее', often as an order"
         },
         {
           "en": "faster",
@@ -2231,6 +2607,10 @@
         {
           "text": "Он быстро едет.",
           "trans": "He drives fast."
+        },
+        {
+          "text": "Виталик, почему мы так медленно едем? Быстрее!",
+          "trans": "Vitalik, why are we going so slowly? Faster!"
         }
       ],
       "related": [
@@ -2261,6 +2641,16 @@
         {
           "text": "Ладно, я иду.",
           "trans": "OK, I'm coming."
+        },
+        {
+          "text": "Ладно, держи. Вот, смотри.",
+          "trans": "All right, here you go. There, look."
+        }
+      ],
+      "related": [
+        {
+          "word": "ладный",
+          "gloss": "all right (adjective)"
         }
       ]
     },
@@ -2356,6 +2746,16 @@
         {
           "text": "Слона бы съел!",
           "trans": "I could eat an elephant!"
+        },
+        {
+          "text": "Скоро. А пока я есть хочу, слона бы съел!",
+          "trans": "Soon. But for now I'm hungry, I could eat an elephant!"
+        }
+      ],
+      "related": [
+        {
+          "word": "есть",
+          "gloss": "to eat"
         }
       ]
     },
@@ -2367,7 +2767,7 @@
       "meanings": [
         {
           "en": "very",
-          "note": ""
+          "note": "with verbs: очень люблю"
         },
         {
           "en": "very much",
@@ -2384,6 +2784,16 @@
         {
           "text": "Это очень трудно.",
           "trans": "It's very hard."
+        },
+        {
+          "text": "Я очень люблю наш город. Поэтому я иду на второй срок.",
+          "trans": "I love our town very much. That's why I'm running for a second term."
+        }
+      ],
+      "related": [
+        {
+          "word": "совсем",
+          "gloss": "intensified / related adverb (very)"
         }
       ]
     },
@@ -2412,6 +2822,20 @@
         {
           "text": "Мама вкусно готовит.",
           "trans": "Mum is a good cook."
+        },
+        {
+          "text": "Ладно. Ой, вкусно!",
+          "trans": "All right. Oh, it's tasty!"
+        }
+      ],
+      "related": [
+        {
+          "word": "вкус",
+          "gloss": "taste"
+        },
+        {
+          "word": "вкусный",
+          "gloss": "tasty"
         }
       ]
     },
@@ -2423,14 +2847,58 @@
       "meanings": [
         {
           "en": "we",
-          "note": ""
+          "note": "нас = us (gen/acc/prep); у нас = we have, at our place"
         },
         {
           "en": "other forms: нас (gen/acc), нам (dat), нами (instr), нас (prep)",
           "note": "case forms"
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "мы"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "нас"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "нам"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "нас"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "нами"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "нас"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -2440,6 +2908,16 @@
         {
           "text": "У нас грязный унитаз.",
           "trans": "Our toilet is dirty."
+        },
+        {
+          "text": "Смотрите, какой у нас грязный унитаз!",
+          "trans": "Look, how dirty our toilet is!"
+        }
+      ],
+      "related": [
+        {
+          "word": "нас",
+          "gloss": "us (genitive/accusative/prepositional)"
         }
       ]
     },
@@ -2464,6 +2942,16 @@
         {
           "text": "Нам пора.",
           "trans": "It's time for us to go."
+        },
+        {
+          "text": "Ладно, Аркашенька. Мы поедем, пора.",
+          "trans": "All right, Arkashenka. We'll be off, it's time."
+        }
+      ],
+      "related": [
+        {
+          "word": "очень пора",
+          "gloss": "intensified / related adverb (it's time)"
         }
       ]
     },
@@ -2563,6 +3051,16 @@
         {
           "text": "Он идёт на второй срок.",
           "trans": "He is running for a second term."
+        },
+        {
+          "text": "Я очень люблю наш город. Поэтому я иду на второй срок.",
+          "trans": "I love our town very much. That's why I'm running for a second term."
+        }
+      ],
+      "related": [
+        {
+          "word": "ехать",
+          "gloss": "to go (by vehicle)"
         }
       ]
     },
@@ -2587,8 +3085,13 @@
         {
           "text": "Спасибо за доверие!",
           "trans": "Thank you for your trust!"
+        },
+        {
+          "text": "Спасибо, спасибо! Как вы все знаете, я родился и вырос в Синеозерске.",
+          "trans": "Thank you, thank you! As you all know, I was born and grew up in Sineozersk."
         }
-      ]
+      ],
+      "related": []
     },
     "за": {
       "lemma": "за",
@@ -2615,8 +3118,13 @@
         {
           "text": "Спасибо за подарок.",
           "trans": "Thanks for the present."
+        },
+        {
+          "text": "За что?",
+          "trans": "What for?"
         }
-      ]
+      ],
+      "related": []
     },
     "завтрак": {
       "lemma": "завтрак",
@@ -2691,6 +3199,20 @@
         {
           "text": "Что у нас сегодня на завтрак?",
           "trans": "What do we have for breakfast today?"
+        },
+        {
+          "text": "У вас тут романтический завтрак.",
+          "trans": "You are having a romantic breakfast here."
+        }
+      ],
+      "related": [
+        {
+          "word": "завтра",
+          "gloss": "tomorrow"
+        },
+        {
+          "word": "завтракать",
+          "gloss": "to have breakfast"
         }
       ]
     }

@@ -288,11 +288,11 @@
         },
         {
           "t": "0.",
-          "lemma": "0",
-          "pos": "noun",
+          "lemma": "ноль",
+          "pos": "num",
           "stress": null,
           "gloss": "zero",
-          "gram": "noun"
+          "gram": "nominative / accusative"
         }
       ]
     },
@@ -326,11 +326,11 @@
         },
         {
           "t": "1.",
-          "lemma": "1",
-          "pos": "noun",
+          "lemma": "один",
+          "pos": "num",
           "stress": null,
           "gloss": "one",
-          "gram": "noun"
+          "gram": "nominative / accusative"
         }
       ]
     },
@@ -364,11 +364,11 @@
         },
         {
           "t": "2.",
-          "lemma": "2",
-          "pos": "noun",
+          "lemma": "два",
+          "pos": "num",
           "stress": null,
           "gloss": "two",
-          "gram": "noun"
+          "gram": "nominative / accusative"
         }
       ]
     },
@@ -402,11 +402,11 @@
         },
         {
           "t": "3.",
-          "lemma": "3",
-          "pos": "noun",
+          "lemma": "три",
+          "pos": "num",
           "stress": null,
           "gloss": "three",
-          "gram": "noun"
+          "gram": "nominative / accusative"
         }
       ]
     },
@@ -440,11 +440,11 @@
         },
         {
           "t": "4.",
-          "lemma": "4",
-          "pos": "noun",
+          "lemma": "четыре",
+          "pos": "num",
           "stress": null,
           "gloss": "four",
-          "gram": "noun"
+          "gram": "nominative / accusative"
         }
       ]
     },
@@ -736,11 +736,11 @@
         },
         {
           "t": "0.",
-          "lemma": "0",
-          "pos": "noun",
+          "lemma": "ноль",
+          "pos": "num",
           "stress": null,
           "gloss": "zero",
-          "gram": "noun"
+          "gram": "nominative / accusative"
         }
       ]
     },
@@ -774,11 +774,11 @@
         },
         {
           "t": "1.",
-          "lemma": "1",
-          "pos": "noun",
+          "lemma": "один",
+          "pos": "num",
           "stress": null,
           "gloss": "one",
-          "gram": "noun"
+          "gram": "nominative / accusative"
         }
       ]
     },
@@ -812,11 +812,11 @@
         },
         {
           "t": "2.",
-          "lemma": "2",
-          "pos": "noun",
+          "lemma": "два",
+          "pos": "num",
           "stress": null,
           "gloss": "two",
-          "gram": "noun"
+          "gram": "nominative / accusative"
         }
       ]
     },
@@ -850,11 +850,11 @@
         },
         {
           "t": "3.",
-          "lemma": "3",
-          "pos": "noun",
+          "lemma": "три",
+          "pos": "num",
           "stress": null,
           "gloss": "three",
-          "gram": "noun"
+          "gram": "nominative / accusative"
         }
       ]
     },
@@ -888,11 +888,11 @@
         },
         {
           "t": "4.",
-          "lemma": "4",
-          "pos": "noun",
+          "lemma": "четыре",
+          "pos": "num",
           "stress": null,
           "gloss": "four",
-          "gram": "noun"
+          "gram": "nominative / accusative"
         }
       ]
     },
@@ -1184,11 +1184,11 @@
         },
         {
           "t": "0.",
-          "lemma": "0",
-          "pos": "noun",
+          "lemma": "ноль",
+          "pos": "num",
           "stress": null,
           "gloss": "zero",
-          "gram": "noun"
+          "gram": "nominative / accusative"
         }
       ]
     },
@@ -1222,11 +1222,11 @@
         },
         {
           "t": "1.",
-          "lemma": "1",
-          "pos": "noun",
+          "lemma": "один",
+          "pos": "num",
           "stress": null,
           "gloss": "one",
-          "gram": "noun"
+          "gram": "nominative / accusative"
         }
       ]
     },
@@ -1260,11 +1260,11 @@
         },
         {
           "t": "2.",
-          "lemma": "2",
-          "pos": "noun",
+          "lemma": "два",
+          "pos": "num",
           "stress": null,
           "gloss": "two",
-          "gram": "noun"
+          "gram": "nominative / accusative"
         }
       ]
     },
@@ -1298,11 +1298,11 @@
         },
         {
           "t": "3.",
-          "lemma": "3",
-          "pos": "noun",
+          "lemma": "три",
+          "pos": "num",
           "stress": null,
           "gloss": "three",
-          "gram": "noun"
+          "gram": "nominative / accusative"
         }
       ]
     },
@@ -1336,11 +1336,11 @@
         },
         {
           "t": "4.",
-          "lemma": "4",
-          "pos": "noun",
+          "lemma": "четыре",
+          "pos": "num",
           "stress": null,
           "gloss": "four",
-          "gram": "noun"
+          "gram": "nominative / accusative"
         }
       ]
     },
@@ -1484,6 +1484,16 @@
         {
           "text": "Подождите минуту.",
           "trans": "Wait a minute."
+        },
+        {
+          "text": "Подожди, Нин, ты не поняла. Это же стыдно!",
+          "trans": "Wait, Nina, you don't get it. It's shameful!"
+        }
+      ],
+      "related": [
+        {
+          "word": "ждать",
+          "gloss": "to wait"
         }
       ]
     },
@@ -1495,14 +1505,58 @@
       "meanings": [
         {
           "en": "I",
-          "note": ""
+          "note": "меня = me (genitive/accusative), мне = to me (dative)"
         },
         {
           "en": "other forms: меня (gen/acc), мне (dat), мной (instr), мне (prep)",
           "note": "case forms"
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "я"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "меня"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "мне"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "меня"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "мной"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "мне"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -1512,6 +1566,20 @@
         {
           "text": "Я вырос здесь.",
           "trans": "I grew up here."
+        },
+        {
+          "text": "Шеф, я не брала.",
+          "trans": "Chef, I didn't take it."
+        }
+      ],
+      "related": [
+        {
+          "word": "меня",
+          "gloss": "me (genitive/accusative)"
+        },
+        {
+          "word": "мне",
+          "gloss": "to me (dative)"
         }
       ]
     },
@@ -1536,8 +1604,13 @@
         {
           "text": "Денег не хватило.",
           "trans": "There wasn't enough money."
+        },
+        {
+          "text": "Шеф, я не брала.",
+          "trans": "Chef, I didn't take it."
         }
-      ]
+      ],
+      "related": []
     },
     "простить": {
       "lemma": "простить",
@@ -1549,7 +1622,7 @@
       "meanings": [
         {
           "en": "to forgive",
-          "note": ""
+          "note": "простите! = sorry! forgive me!"
         },
         {
           "en": "excuse me, sorry",
@@ -1635,6 +1708,16 @@
         {
           "text": "Прости меня.",
           "trans": "Forgive me."
+        },
+        {
+          "text": "Простите меня, пожалуйста.",
+          "trans": "Please forgive me."
+        }
+      ],
+      "related": [
+        {
+          "word": "прощать",
+          "gloss": "to forgive"
         }
       ]
     },
@@ -1703,8 +1786,13 @@
         {
           "text": "Он думает только о себе.",
           "trans": "He only thinks about himself."
+        },
+        {
+          "text": "А с Пашей я снова чувствую себя женщиной.",
+          "trans": "And with Pasha I feel like a woman again."
         }
-      ]
+      ],
+      "related": []
     },
     "если": {
       "lemma": "если",
@@ -1727,8 +1815,13 @@
         {
           "text": "А если нет?",
           "trans": "And if not?"
+        },
+        {
+          "text": "Возьмите её, если хотите.",
+          "trans": "Take her if you want."
         }
-      ]
+      ],
+      "related": []
     },
     "спросить": {
       "lemma": "спросить",
@@ -1740,7 +1833,7 @@
       "meanings": [
         {
           "en": "to ask (a question, or someone: спросить у кого-то)",
-          "note": ""
+          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'просить'). Used as an perfective (single completed action) verb meaning 'to ask', paired with 'спрашивать'."
         }
       ],
       "forms": {
@@ -1822,6 +1915,24 @@
         {
           "text": "Можно тебя спросить?",
           "trans": "May I ask you something?"
+        },
+        {
+          "text": "Да? А спросите у него, куда он дел компьютерный класс.",
+          "trans": "Really? Then ask him where he put the computer lab."
+        }
+      ],
+      "related": [
+        {
+          "word": "спрашивать",
+          "gloss": "to ask"
+        },
+        {
+          "word": "просто",
+          "gloss": "just"
+        },
+        {
+          "word": "попросить",
+          "gloss": "to ask"
         }
       ]
     },
@@ -1833,7 +1944,7 @@
       "meanings": [
         {
           "en": "now",
-          "note": ""
+          "note": "'сейчас буду' = I'll be right there"
         },
         {
           "en": "in a moment",
@@ -1850,6 +1961,16 @@
         {
           "text": "Сейчас приду.",
           "trans": "I'll be right there."
+        },
+        {
+          "text": "Конечно, помогу. Кто у вас сейчас начальник?",
+          "trans": "Of course I'll help. Who's your boss now?"
+        }
+      ],
+      "related": [
+        {
+          "word": "теперь",
+          "gloss": "now (after a change)"
         }
       ]
     },
@@ -1882,9 +2003,14 @@
         {
           "text": "Он у нас.",
           "trans": "He's at our place."
+        },
+        {
+          "text": "Привет! Смотри, что у меня есть.",
+          "trans": "Hi! Look what I've got."
         }
       ],
-      "governs": "+ genitive"
+      "governs": "+ genitive",
+      "related": []
     },
     "вы": {
       "lemma": "вы",
@@ -1901,7 +2027,51 @@
           "note": "case forms"
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "вы"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "вас"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "вам"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "вас"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "вами"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "вас"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -1911,6 +2081,16 @@
         {
           "text": "Губернатор вас поддерживает?",
           "trans": "Does the governor support you?"
+        },
+        {
+          "text": "Спасибо, спасибо! Как вы все знаете, я родился и вырос в Синеозерске.",
+          "trans": "Thank you, thank you! As you all know, I was born and grew up in Sineozersk."
+        }
+      ],
+      "related": [
+        {
+          "word": "вас",
+          "gloss": "you (genitive/accusative)"
         }
       ]
     },
@@ -2050,6 +2230,20 @@
           "text": "Ты будешь просить прощения.",
           "trans": "You will be asking for forgiveness."
         }
+      ],
+      "related": [
+        {
+          "word": "забыть",
+          "gloss": "to forget"
+        },
+        {
+          "word": "добыть",
+          "gloss": "to get"
+        },
+        {
+          "word": "побыть",
+          "gloss": "to stay for a while"
+        }
       ]
     },
     "муж": {
@@ -2125,6 +2319,16 @@
         {
           "text": "Налей мужу чаю.",
           "trans": "Pour your husband some tea."
+        },
+        {
+          "text": "Нина, налей мужу. Есть праздник!",
+          "trans": "Nina, pour your husband a drink. We've got something to celebrate!"
+        }
+      ],
+      "related": [
+        {
+          "word": "мужный",
+          "gloss": "related to husband (adj.)"
         }
       ]
     },
@@ -2136,7 +2340,7 @@
       "meanings": [
         {
           "en": "or",
-          "note": ""
+          "note": "Core Russian conj meaning 'or' in everyday speech."
         }
       ],
       "forms": null,
@@ -2149,8 +2353,13 @@
         {
           "text": "Чай или кофе?",
           "trans": "Tea or coffee?"
+        },
+        {
+          "text": "Или ещё лучше: спа!",
+          "trans": "Or even better: a spa!"
         }
-      ]
+      ],
+      "related": []
     },
     "парень": {
       "lemma": "парень",
@@ -2229,6 +2438,16 @@
         {
           "text": "Он хороший парень.",
           "trans": "He is a good guy."
+        },
+        {
+          "text": "Это друзья моего парня.",
+          "trans": "These are my boyfriend's friends."
+        }
+      ],
+      "related": [
+        {
+          "word": "паренный",
+          "gloss": "related to boyfriend (adj.)"
         }
       ]
     },
@@ -2257,8 +2476,13 @@
         {
           "text": "Ни слова!",
           "trans": "Not a word!"
+        },
+        {
+          "text": "Пятьсот. А у меня ни копейки.",
+          "trans": "Five hundred. And I haven't got a penny."
         }
-      ]
+      ],
+      "related": []
     },
     "нет": {
       "lemma": "нет",
@@ -2268,7 +2492,7 @@
       "meanings": [
         {
           "en": "no",
-          "note": ""
+          "note": "+ genitive: 'у нас нет выбора' = we have no choice"
         },
         {
           "en": "there isn't",
@@ -2285,8 +2509,13 @@
         {
           "text": "Нет? Ладно.",
           "trans": "No? All right."
+        },
+        {
+          "text": "Нет. Это моё.",
+          "trans": "No. That's mine."
         }
-      ]
+      ],
+      "related": []
     },
     "ждать": {
       "lemma": "ждать",
@@ -2384,6 +2613,20 @@
         {
           "text": "Я жду тебя.",
           "trans": "I'm waiting for you."
+        },
+        {
+          "text": "Так тебя не ждать сегодня?",
+          "trans": "So I shouldn't wait for you tonight?"
+        }
+      ],
+      "related": [
+        {
+          "word": "подождать",
+          "gloss": "to wait"
+        },
+        {
+          "word": "дождаться",
+          "gloss": "to wait for"
         }
       ]
     },
@@ -2395,7 +2638,7 @@
       "meanings": [
         {
           "en": "new",
-          "note": ""
+          "note": "Agrees in gender, number, and case with the noun it modifies ('new')."
         }
       ],
       "forms": {
@@ -2473,6 +2716,20 @@
         {
           "text": "Мне нужна новая работа.",
           "trans": "I need a new job."
+        },
+        {
+          "text": "Ну что, довольна? Теперь новую работу искать.",
+          "trans": "Well, happy now? Now I have to look for a new job."
+        }
+      ],
+      "related": [
+        {
+          "word": "ново",
+          "gloss": "in a new way (adv.)"
+        },
+        {
+          "word": "новость",
+          "gloss": "quality of being new"
         }
       ]
     },
@@ -2485,7 +2742,7 @@
       "meanings": [
         {
           "en": "meeting",
-          "note": ""
+          "note": "in 'до встречи' = until we meet"
         },
         {
           "en": "see you",
@@ -2553,6 +2810,24 @@
         {
           "text": "У меня встреча.",
           "trans": "I have a meeting."
+        },
+        {
+          "text": "Решается ваш вопрос, Клавдия Викторовна! Вы не видите, у меня встреча?",
+          "trans": "Your question is being sorted out, Klavdia Viktorovna! Can't you see I have a meeting?"
+        }
+      ],
+      "related": [
+        {
+          "word": "встретиться",
+          "gloss": "to meet"
+        },
+        {
+          "word": "встречаться",
+          "gloss": "to meet"
+        },
+        {
+          "word": "встретить",
+          "gloss": "to meet"
         }
       ]
     },
@@ -2646,6 +2921,20 @@
         {
           "text": "Какой красивый дом!",
           "trans": "What a beautiful house!"
+        },
+        {
+          "text": "Смотрите, какой у нас грязный унитаз!",
+          "trans": "Look, how dirty our toilet is!"
+        }
+      ],
+      "related": [
+        {
+          "word": "какой-то",
+          "gloss": "some"
+        },
+        {
+          "word": "какой-нибудь",
+          "gloss": "some"
         }
       ]
     },
@@ -2657,7 +2946,7 @@
       "meanings": [
         {
           "en": "pleasant, nice",
-          "note": ""
+          "note": "= Enjoy your meal!"
         },
         {
           "en": "Приятного аппетита!",
@@ -2761,6 +3050,20 @@
         {
           "text": "Он очень приятный человек.",
           "trans": "He's a very nice person."
+        },
+        {
+          "text": "Хорошо! Приятного вечера.",
+          "trans": "Very well! Have a pleasant evening."
+        }
+      ],
+      "related": [
+        {
+          "word": "приятно",
+          "gloss": "in a pleasant way (adv.)"
+        },
+        {
+          "word": "приятность",
+          "gloss": "quality of being pleasant"
         }
       ]
     },
@@ -2773,7 +3076,7 @@
       "meanings": [
         {
           "en": "evening",
-          "note": ""
+          "note": "до вечера = until the evening; вечером = in the evening"
         },
         {
           "en": "party, evening event",
@@ -2841,328 +3144,189 @@
         {
           "text": "Я позвоню вечером.",
           "trans": "I'll call in the evening."
+        },
+        {
+          "text": "Добрый вечер, Вика. С Новым годом!",
+          "trans": "Good evening, Vika. Happy New Year!"
+        }
+      ],
+      "related": [
+        {
+          "word": "вечером",
+          "gloss": "in the evening"
+        },
+        {
+          "word": "вечеринка",
+          "gloss": "party"
+        },
+        {
+          "word": "вечерний",
+          "gloss": "evening"
         }
       ]
     },
-    "0": {
-      "lemma": "0",
-      "stress": "0",
-      "pos": "noun",
+    "ноль": {
+      "lemma": "ноль",
+      "stress": "ноль",
+      "pos": "num",
       "gloss": "zero",
       "meanings": [
         {
           "en": "zero",
-          "examples": []
+          "note": "a person of no consequence"
         }
       ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nom",
-              "0",
-              "0ы"
-            ]
-          },
-          {
-            "cells": [
-              "gen",
-              "0а",
-              "0ов"
-            ]
-          },
-          {
-            "cells": [
-              "dat",
-              "0у",
-              "0ам"
-            ]
-          },
-          {
-            "cells": [
-              "acc",
-              "0",
-              "0ы"
-            ]
-          },
-          {
-            "cells": [
-              "inst",
-              "0ом",
-              "0ами"
-            ]
-          },
-          {
-            "cells": [
-              "prep",
-              "0е",
-              "0ах"
-            ]
-          }
-        ]
-      }
+      "forms": null,
+      "moreForms": [],
+      "related": [
+        {
+          "word": "нолный",
+          "gloss": "related to zero (adj.)"
+        }
+      ],
+      "examples": [
+        {
+          "text": "Всё, у меня денег совсем в ноль.",
+          "trans": "That's it, my money is completely down to zero."
+        },
+        {
+          "text": "Самсон, ты ведь тоже уже в ноль.",
+          "trans": "Samson, you are also already at zero after all."
+        },
+        {
+          "text": "Наша команда ведёт в счёте два ноль!",
+          "trans": "Our team is leading in the score two-nil!"
+        }
+      ]
     },
-    "1": {
-      "lemma": "1",
-      "stress": "1",
-      "pos": "noun",
+    "один": {
+      "lemma": "один",
+      "stress": "оди́н",
+      "pos": "num",
       "gloss": "one",
       "meanings": [
         {
           "en": "one",
-          "examples": []
+          "note": "agrees in gender and case with the noun"
         }
       ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nom",
-              "1",
-              "1ы"
-            ]
-          },
-          {
-            "cells": [
-              "gen",
-              "1а",
-              "1ов"
-            ]
-          },
-          {
-            "cells": [
-              "dat",
-              "1у",
-              "1ам"
-            ]
-          },
-          {
-            "cells": [
-              "acc",
-              "1",
-              "1ы"
-            ]
-          },
-          {
-            "cells": [
-              "inst",
-              "1ом",
-              "1ами"
-            ]
-          },
-          {
-            "cells": [
-              "prep",
-              "1е",
-              "1ах"
-            ]
-          }
-        ]
-      }
+      "forms": null,
+      "moreForms": [],
+      "related": [
+        {
+          "word": "один-один",
+          "gloss": "one-all"
+        },
+        {
+          "word": "одинокий",
+          "gloss": "lonely"
+        },
+        {
+          "word": "одинаковый",
+          "gloss": "the same"
+        }
+      ],
+      "examples": [
+        {
+          "text": "Дай хоть одну.",
+          "trans": "Give me just one."
+        },
+        {
+          "text": "У меня один брат.",
+          "trans": "I have one brother."
+        },
+        {
+          "text": "У тебя же есть ещё. Дай хоть одну.",
+          "trans": "But you've still got some. Give me just one."
+        }
+      ]
     },
-    "2": {
-      "lemma": "2",
-      "stress": "2",
-      "pos": "noun",
+    "два": {
+      "lemma": "два",
+      "stress": "два",
+      "pos": "num",
       "gloss": "two",
       "meanings": [
         {
           "en": "two",
-          "examples": []
+          "note": "with masculine and neuter nouns (две with feminine); the noun goes into the genitive singular: два месяца"
         }
       ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nom",
-              "2",
-              "2ы"
-            ]
-          },
-          {
-            "cells": [
-              "gen",
-              "2а",
-              "2ов"
-            ]
-          },
-          {
-            "cells": [
-              "dat",
-              "2у",
-              "2ам"
-            ]
-          },
-          {
-            "cells": [
-              "acc",
-              "2",
-              "2ы"
-            ]
-          },
-          {
-            "cells": [
-              "inst",
-              "2ом",
-              "2ами"
-            ]
-          },
-          {
-            "cells": [
-              "prep",
-              "2е",
-              "2ах"
-            ]
-          }
-        ]
-      }
+      "forms": null,
+      "moreForms": [],
+      "related": [],
+      "examples": [
+        {
+          "text": "Через две недели.",
+          "trans": "In two weeks."
+        },
+        {
+          "text": "Два дома.",
+          "trans": "Two houses."
+        },
+        {
+          "text": "Я выйду отсюда через две недели. Я решу все ваши проблемы.",
+          "trans": "I'll be out of here in two weeks. I'll solve all your problems."
+        }
+      ]
     },
-    "3": {
-      "lemma": "3",
-      "stress": "3",
-      "pos": "noun",
+    "три": {
+      "lemma": "три",
+      "stress": "три",
+      "pos": "num",
       "gloss": "three",
       "meanings": [
         {
           "en": "three",
-          "examples": []
+          "note": "the noun after it goes into the genitive singular"
         }
       ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nom",
-              "3",
-              "3ы"
-            ]
-          },
-          {
-            "cells": [
-              "gen",
-              "3а",
-              "3ов"
-            ]
-          },
-          {
-            "cells": [
-              "dat",
-              "3у",
-              "3ам"
-            ]
-          },
-          {
-            "cells": [
-              "acc",
-              "3",
-              "3ы"
-            ]
-          },
-          {
-            "cells": [
-              "inst",
-              "3ом",
-              "3ами"
-            ]
-          },
-          {
-            "cells": [
-              "prep",
-              "3е",
-              "3ах"
-            ]
-          }
-        ]
-      }
+      "forms": null,
+      "moreForms": [],
+      "related": [],
+      "examples": [
+        {
+          "text": "Три дня.",
+          "trans": "Three days."
+        },
+        {
+          "text": "У меня три сына.",
+          "trans": "I have three sons."
+        },
+        {
+          "text": "Три дня ему даём. Всё.",
+          "trans": "We give him three days. That's it."
+        }
+      ]
     },
-    "4": {
-      "lemma": "4",
-      "stress": "4",
-      "pos": "noun",
+    "четыре": {
+      "lemma": "четыре",
+      "stress": "четы́ре",
+      "pos": "num",
       "gloss": "four",
       "meanings": [
         {
           "en": "four",
-          "examples": []
+          "note": "+ genitive singular: четыре года"
         }
       ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nom",
-              "4",
-              "4ы"
-            ]
-          },
-          {
-            "cells": [
-              "gen",
-              "4а",
-              "4ов"
-            ]
-          },
-          {
-            "cells": [
-              "dat",
-              "4у",
-              "4ам"
-            ]
-          },
-          {
-            "cells": [
-              "acc",
-              "4",
-              "4ы"
-            ]
-          },
-          {
-            "cells": [
-              "inst",
-              "4ом",
-              "4ами"
-            ]
-          },
-          {
-            "cells": [
-              "prep",
-              "4е",
-              "4ах"
-            ]
-          }
-        ]
-      }
+      "forms": null,
+      "moreForms": [],
+      "related": [],
+      "examples": [
+        {
+          "text": "Четыре года.",
+          "trans": "Four years."
+        },
+        {
+          "text": "У меня четыре фломастера.",
+          "trans": "I have four markers."
+        },
+        {
+          "text": "Я уже четыре года работаю мэром.",
+          "trans": "I've been working as mayor for four years now."
+        }
+      ]
     }
   }
 }

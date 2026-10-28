@@ -244,7 +244,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "rash",
-          "gram": "noun"
+          "gram": "nominative / accusative"
         }
       ]
     },
@@ -300,11 +300,11 @@
         },
         {
           "t": "роллы.",
-          "lemma": "роллы",
+          "lemma": "ролл",
           "pos": "noun",
           "stress": "ро́ллы",
           "gloss": "sushi roll",
-          "gram": "noun"
+          "gram": "nominative / accusative"
         }
       ]
     },
@@ -323,10 +323,10 @@
         {
           "t": "зелёный",
           "lemma": "зелёный",
-          "pos": "noun",
+          "pos": "adj",
           "stress": "зелёный",
           "gloss": "green",
-          "gram": "noun"
+          "gram": "nominative / accusative"
         },
         {
           "t": "чай?",
@@ -604,7 +604,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "rash",
-          "gram": "noun"
+          "gram": "nominative / accusative"
         }
       ]
     },
@@ -660,11 +660,11 @@
         },
         {
           "t": "роллы.",
-          "lemma": "роллы",
+          "lemma": "ролл",
           "pos": "noun",
           "stress": "ро́ллы",
           "gloss": "sushi roll",
-          "gram": "noun"
+          "gram": "nominative / accusative"
         }
       ]
     },
@@ -683,10 +683,10 @@
         {
           "t": "зелёный",
           "lemma": "зелёный",
-          "pos": "noun",
+          "pos": "adj",
           "stress": "зелёный",
           "gloss": "green",
-          "gram": "noun"
+          "gram": "nominative / accusative"
         },
         {
           "t": "чай?",
@@ -964,7 +964,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "rash",
-          "gram": "noun"
+          "gram": "nominative / accusative"
         }
       ]
     },
@@ -1020,11 +1020,11 @@
         },
         {
           "t": "роллы.",
-          "lemma": "роллы",
+          "lemma": "ролл",
           "pos": "noun",
           "stress": "ро́ллы",
           "gloss": "sushi roll",
-          "gram": "noun"
+          "gram": "nominative / accusative"
         }
       ]
     },
@@ -1043,10 +1043,10 @@
         {
           "t": "зелёный",
           "lemma": "зелёный",
-          "pos": "noun",
+          "pos": "adj",
           "stress": "зелёный",
           "gloss": "green",
-          "gram": "noun"
+          "gram": "nominative / accusative"
         },
         {
           "t": "чай?",
@@ -1112,7 +1112,7 @@
       "meanings": [
         {
           "en": "pleasant, nice",
-          "note": ""
+          "note": "= Enjoy your meal!"
         },
         {
           "en": "Приятного аппетита!",
@@ -1216,6 +1216,20 @@
         {
           "text": "Он очень приятный человек.",
           "trans": "He's a very nice person."
+        },
+        {
+          "text": "Хорошо! Приятного вечера.",
+          "trans": "Very well! Have a pleasant evening."
+        }
+      ],
+      "related": [
+        {
+          "word": "приятно",
+          "gloss": "in a pleasant way (adv.)"
+        },
+        {
+          "word": "приятность",
+          "gloss": "quality of being pleasant"
         }
       ]
     },
@@ -1228,7 +1242,7 @@
       "meanings": [
         {
           "en": "appetite",
-          "note": ""
+          "note": "= Enjoy your meal!"
         },
         {
           "en": "Приятного аппетита!",
@@ -1296,6 +1310,24 @@
         {
           "text": "У него хороший аппетит.",
           "trans": "He has a good appetite."
+        },
+        {
+          "text": "Ваша каша. Приятного аппетита.",
+          "trans": "Your porridge. Enjoy your meal."
+        }
+      ],
+      "related": [
+        {
+          "word": "аппетитно",
+          "gloss": "appetizingly"
+        },
+        {
+          "word": "аппетитный",
+          "gloss": "appetizing"
+        },
+        {
+          "word": "аппендицит",
+          "gloss": "appendicitis"
         }
       ]
     },
@@ -1318,7 +1350,51 @@
           "note": ""
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "что"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "чего"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "чему"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "что"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "чем"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "чём"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -1328,8 +1404,13 @@
         {
           "text": "Смотри, что у меня есть.",
           "trans": "Look what I've got."
+        },
+        {
+          "text": "Привет! Смотри, что у меня есть.",
+          "trans": "Hi! Look what I've got."
         }
-      ]
+      ],
+      "related": []
     },
     "у": {
       "lemma": "у",
@@ -1360,9 +1441,14 @@
         {
           "text": "Он у нас.",
           "trans": "He's at our place."
+        },
+        {
+          "text": "Привет! Смотри, что у меня есть.",
+          "trans": "Hi! Look what I've got."
         }
       ],
-      "governs": "+ genitive"
+      "governs": "+ genitive",
+      "related": []
     },
     "ты": {
       "lemma": "ты",
@@ -1379,7 +1465,51 @@
           "note": "case forms"
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "ты"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "тебя"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "тебе"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "тебя"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "тобой"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "тебе"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -1389,6 +1519,20 @@
         {
           "text": "У тебя есть ещё?",
           "trans": "Have you got any more?"
+        },
+        {
+          "text": "Папа, а жвачку ты привёз?",
+          "trans": "Dad, did you bring any gum?"
+        }
+      ],
+      "related": [
+        {
+          "word": "тебя",
+          "gloss": "you (genitive/accusative)"
+        },
+        {
+          "word": "тебе",
+          "gloss": "to you (dative)"
         }
       ]
     },
@@ -1413,9 +1557,14 @@
         {
           "text": "Я с папой.",
           "trans": "I'm with Dad."
+        },
+        {
+          "text": "Со всеми поделись поровну, понял?",
+          "trans": "Share it all equally with everyone, understand?"
         }
       ],
-      "governs": "+ instrumental"
+      "governs": "+ instrumental",
+      "related": []
     },
     "повар": {
       "lemma": "повар",
@@ -1486,6 +1635,20 @@
         {
           "text": "Есть такой английский повар.",
           "trans": "There is this English chef."
+        },
+        {
+          "text": "Есть такой английский повар. Я по его передачам научусь готовить.",
+          "trans": "There is this English chef. I will learn to cook from his shows."
+        },
+        {
+          "text": "Я хочу работать поваром в ресторане.",
+          "trans": "I want to work as a cook in a restaurant."
+        }
+      ],
+      "related": [
+        {
+          "word": "поварный",
+          "gloss": "related to cook (adj.)"
         }
       ]
     },
@@ -1581,9 +1744,27 @@
         {
           "text": "Нам надо поговорить.",
           "trans": "We need to talk."
+        },
+        {
+          "text": "Поговори с Аракеляном. Пусть он заберёт заявление.",
+          "trans": "Talk to Arakelyan. Get him to withdraw his statement."
         }
       ],
-      "governs": "с + instrumental"
+      "governs": "с + instrumental",
+      "related": [
+        {
+          "word": "говорить",
+          "gloss": "to speak"
+        },
+        {
+          "word": "договориться",
+          "gloss": "to agree"
+        },
+        {
+          "word": "разговорчик",
+          "gloss": "chat"
+        }
+      ]
     },
     "после": {
       "lemma": "после",
@@ -1606,8 +1787,13 @@
         {
           "text": "Давай встретимся после работы.",
           "trans": "Let's meet after work."
+        },
+        {
+          "text": "Он за мной после концерта ухаживал.",
+          "trans": "He courted me after a concert once."
         }
-      ]
+      ],
+      "related": []
     },
     "работа": {
       "lemma": "работа",
@@ -1618,7 +1804,7 @@
       "meanings": [
         {
           "en": "work",
-          "note": ""
+          "note": "'на работе' = at work"
         },
         {
           "en": "job",
@@ -1686,6 +1872,24 @@
         {
           "text": "Работы очень много.",
           "trans": "There's a lot of work."
+        },
+        {
+          "text": "Я на работе.",
+          "trans": "I'm at work."
+        }
+      ],
+      "related": [
+        {
+          "word": "работать",
+          "gloss": "to work"
+        },
+        {
+          "word": "поработать",
+          "gloss": "to work for a while"
+        },
+        {
+          "word": "рабочий",
+          "gloss": "working"
         }
       ]
     },
@@ -1714,8 +1918,13 @@
         {
           "text": "А где машинка?",
           "trans": "And where's the toy car?"
+        },
+        {
+          "text": "Папа, а жвачку ты привёз?",
+          "trans": "Dad, did you bring any gum?"
         }
-      ]
+      ],
+      "related": []
     },
     "случиться": {
       "lemma": "случиться",
@@ -1792,6 +2001,24 @@
         {
           "text": "Ничего не случится.",
           "trans": "Nothing will happen."
+        },
+        {
+          "text": "Марина, я вам обещаю: со стеной ничего не случится.",
+          "trans": "Marina, I promise you: nothing will happen to the wall."
+        }
+      ],
+      "related": [
+        {
+          "word": "случаться",
+          "gloss": "to happen"
+        },
+        {
+          "word": "получиться",
+          "gloss": "to turn out"
+        },
+        {
+          "word": "получить",
+          "gloss": "to get"
         }
       ]
     },
@@ -1803,14 +2030,58 @@
       "meanings": [
         {
           "en": "I",
-          "note": ""
+          "note": "меня = me (genitive/accusative), мне = to me (dative)"
         },
         {
           "en": "other forms: меня (gen/acc), мне (dat), мной (instr), мне (prep)",
           "note": "case forms"
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "я"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "меня"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "мне"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "меня"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "мной"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "мне"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -1820,6 +2091,20 @@
         {
           "text": "Я вырос здесь.",
           "trans": "I grew up here."
+        },
+        {
+          "text": "Шеф, я не брала.",
+          "trans": "Chef, I didn't take it."
+        }
+      ],
+      "related": [
+        {
+          "word": "меня",
+          "gloss": "me (genitive/accusative)"
+        },
+        {
+          "word": "мне",
+          "gloss": "to me (dative)"
         }
       ]
     },
@@ -1919,12 +2204,22 @@
         {
           "text": "Он идёт на второй срок.",
           "trans": "He is running for a second term."
+        },
+        {
+          "text": "Я очень люблю наш город. Поэтому я иду на второй срок.",
+          "trans": "I love our town very much. That's why I'm running for a second term."
+        }
+      ],
+      "related": [
+        {
+          "word": "ехать",
+          "gloss": "to go (by vehicle)"
         }
       ]
     },
     "к": {
       "lemma": "к",
-      "stress": null,
+      "stress": "к",
       "pos": "prep",
       "gloss": "to, towards",
       "meanings": [
@@ -1943,12 +2238,17 @@
         {
           "text": "Я иду к маме.",
           "trans": "I'm going to Mum's."
+        },
+        {
+          "text": "Аркадий Борисович, извините, тут к вам человек.",
+          "trans": "Arkady Borisovich, I'm sorry, there's a man here to see you."
         }
-      ]
+      ],
+      "related": []
     },
     "врач": {
       "lemma": "врач",
-      "stress": null,
+      "stress": "врач",
       "pos": "noun",
       "gender": "m",
       "gloss": "doctor",
@@ -2019,6 +2319,16 @@
         {
           "text": "Она врач.",
           "trans": "She's a doctor."
+        },
+        {
+          "text": "Она там взятки для врачей хранит.",
+          "trans": "She keeps bribes for the doctors in there."
+        }
+      ],
+      "related": [
+        {
+          "word": "врачный",
+          "gloss": "related to doctor (adj.)"
         }
       ]
     },
@@ -2104,6 +2414,28 @@
         {
           "text": "Никакая ты не беременная!",
           "trans": "You're not pregnant at all!"
+        },
+        {
+          "text": "Ты меня за идиотку принимаешь? Никакая ты не беременная!",
+          "trans": "Do you take me for an idiot? You're not pregnant at all!"
+        },
+        {
+          "text": "Я беременна от тебя, Макс.",
+          "trans": "I am pregnant with your child, Max."
+        }
+      ],
+      "related": [
+        {
+          "word": "бережно",
+          "gloss": "carefully"
+        },
+        {
+          "word": "берег",
+          "gloss": "shore"
+        },
+        {
+          "word": "сберечь",
+          "gloss": "to save"
         }
       ]
     },
@@ -2180,6 +2512,16 @@
         {
           "text": "У него большой ум.",
           "trans": "He has a great mind."
+        },
+        {
+          "text": "Позвонить Третьякову? Я что, с ума сошёл?",
+          "trans": "Call Tretyakov? What, have I lost my mind?"
+        }
+      ],
+      "related": [
+        {
+          "word": "умный",
+          "gloss": "related to mind (adj.)"
         }
       ]
     },
@@ -2193,7 +2535,7 @@
       "meanings": [
         {
           "en": "to get off, to step down",
-          "note": ""
+          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'ойти'). Used as an perfective (single completed action) verb meaning 'to get off; (с ума) to go mad', paired with 'сходить'."
         },
         {
           "en": "сойти с ума = to go mad, to lose one's mind",
@@ -2279,6 +2621,24 @@
         {
           "text": "Ты с ума сошла?",
           "trans": "Are you crazy? (to a woman)"
+        },
+        {
+          "text": "Позвонить Третьякову? Я что, с ума сошёл?",
+          "trans": "Call Tretyakov? What, have I lost my mind?"
+        }
+      ],
+      "related": [
+        {
+          "word": "сходить",
+          "gloss": "to go"
+        },
+        {
+          "word": "подойти",
+          "gloss": "to come up"
+        },
+        {
+          "word": "отойти",
+          "gloss": "to step back"
         }
       ]
     },
@@ -2290,7 +2650,7 @@
       "meanings": [
         {
           "en": "this, that",
-          "note": ""
+          "note": "pointing at a thing or a situation; 'это' + noun = 'this is ...'"
         },
         {
           "en": "this is, that is",
@@ -2305,7 +2665,51 @@
           "note": "case forms"
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "это"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "этого"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "этому"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "это"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "этим"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "этом"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -2315,6 +2719,16 @@
         {
           "text": "А это тебе.",
           "trans": "And this is for you."
+        },
+        {
+          "text": "А это тебе. Машинка!",
+          "trans": "And this is for you. A toy car!"
+        }
+      ],
+      "related": [
+        {
+          "word": "этот",
+          "gloss": "this (before a noun)"
         }
       ]
     },
@@ -2326,7 +2740,7 @@
       "meanings": [
         {
           "en": "just, simply",
-          "note": ""
+          "note": "'это просто' = it's easy"
         },
         {
           "en": "easy",
@@ -2343,6 +2757,24 @@
         {
           "text": "Это просто.",
           "trans": "It's easy."
+        },
+        {
+          "text": "Мы просто не хотели вас беспокоить. Всё отменим!",
+          "trans": "We just didn't want to bother you. We'll cancel it all!"
+        }
+      ],
+      "related": [
+        {
+          "word": "попросить",
+          "gloss": "to ask"
+        },
+        {
+          "word": "спрос",
+          "gloss": "asking"
+        },
+        {
+          "word": "спросить",
+          "gloss": "to ask"
         }
       ]
     },
@@ -2354,7 +2786,7 @@
       "meanings": [
         {
           "en": "rash",
-          "examples": []
+          "note": "Common masculine noun meaning 'rash' in everyday Russian."
         }
       ],
       "forms": {
@@ -2367,48 +2799,66 @@
         "rows": [
           {
             "cells": [
-              "nom",
+              "nominative",
               "сыпь",
-              "сыпьы"
+              "сыпи"
             ]
           },
           {
             "cells": [
-              "gen",
-              "сыпьа",
-              "сыпьов"
+              "genitive",
+              "сыпи",
+              "сыпей"
             ]
           },
           {
             "cells": [
-              "dat",
-              "сыпьу",
-              "сыпьам"
+              "dative",
+              "сыпи",
+              "сыпям"
             ]
           },
           {
             "cells": [
-              "acc",
+              "accusative",
               "сыпь",
-              "сыпьы"
+              "сыпи"
             ]
           },
           {
             "cells": [
-              "inst",
-              "сыпьом",
-              "сыпьами"
+              "instrumental",
+              "сыпью",
+              "сыпями"
             ]
           },
           {
             "cells": [
-              "prep",
-              "сыпье",
-              "сыпьах"
+              "prepositional",
+              "сыпи",
+              "сыпях"
             ]
           }
         ]
-      }
+      },
+      "gender": "m",
+      "moreForms": [],
+      "related": [
+        {
+          "word": "сыпный",
+          "gloss": "related to rash (adj.)"
+        }
+      ],
+      "examples": [
+        {
+          "text": "Это просто сыпь.",
+          "trans": "It's just a rash."
+        },
+        {
+          "text": "Ваша сыпь — это псевдоаллергическая реакция.",
+          "trans": "Your rash is a pseudoallergic reaction."
+        }
+      ]
     },
     "хорошо": {
       "lemma": "хорошо",
@@ -2418,7 +2868,7 @@
       "meanings": [
         {
           "en": "well",
-          "note": ""
+          "note": "how something is done"
         },
         {
           "en": "good, fine",
@@ -2435,6 +2885,24 @@
         {
           "text": "Всё хорошо.",
           "trans": "Everything's fine."
+        },
+        {
+          "text": "Хорошо! Там всё нормально.",
+          "trans": "Good! Everything's fine over there."
+        }
+      ],
+      "related": [
+        {
+          "word": "хороший",
+          "gloss": "good"
+        },
+        {
+          "word": "нехорошо",
+          "gloss": "not nice"
+        },
+        {
+          "word": "похоронить",
+          "gloss": "to bury"
         }
       ]
     },
@@ -2530,6 +2998,24 @@
         {
           "text": "Я не понял.",
           "trans": "I didn't understand."
+        },
+        {
+          "text": "Со всеми поделись поровну, понял?",
+          "trans": "Share it all equally with everyone, understand?"
+        }
+      ],
+      "related": [
+        {
+          "word": "понимать",
+          "gloss": "to understand"
+        },
+        {
+          "word": "принять",
+          "gloss": "to receive"
+        },
+        {
+          "word": "поднять",
+          "gloss": "to lift"
         }
       ]
     },
@@ -2543,7 +3029,7 @@
       "meanings": [
         {
           "en": "to order (food, a taxi, goods)",
-          "note": ""
+          "note": "Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'казать'). Used as an perfective (single completed action) verb meaning 'to order', paired with 'заказывать'."
         }
       ],
       "forms": {
@@ -2625,18 +3111,36 @@
         {
           "text": "Мы заказали чай и бутерброды.",
           "trans": "We ordered tea and sandwiches."
+        },
+        {
+          "text": "Если опоздают, пицца бесплатно. Может, закажем?",
+          "trans": "If they're late, the pizza is free. Maybe we should order?"
+        }
+      ],
+      "related": [
+        {
+          "word": "заказывать",
+          "gloss": "to order"
+        },
+        {
+          "word": "сказать",
+          "gloss": "to say"
+        },
+        {
+          "word": "наказать",
+          "gloss": "to punish"
         }
       ]
     },
-    "роллы": {
-      "lemma": "роллы",
-      "stress": "ро́ллы",
+    "ролл": {
+      "lemma": "ролл",
+      "stress": "ролл",
       "pos": "noun",
       "gloss": "sushi roll",
       "meanings": [
         {
           "en": "sushi roll",
-          "examples": []
+          "note": "Common masculine noun meaning 'sushi roll' in everyday Russian."
         }
       ],
       "forms": {
@@ -2649,48 +3153,66 @@
         "rows": [
           {
             "cells": [
-              "nom",
-              "роллы",
-              "роллыы"
+              "nominative",
+              "ролл",
+              "роллы"
             ]
           },
           {
             "cells": [
-              "gen",
-              "роллыа",
-              "роллыов"
+              "genitive",
+              "ролла",
+              "роллов"
             ]
           },
           {
             "cells": [
-              "dat",
-              "роллыу",
-              "роллыам"
+              "dative",
+              "роллу",
+              "роллам"
             ]
           },
           {
             "cells": [
-              "acc",
-              "роллы",
-              "роллыы"
+              "accusative",
+              "ролл",
+              "роллы"
             ]
           },
           {
             "cells": [
-              "inst",
-              "роллыом",
-              "роллыами"
+              "instrumental",
+              "роллом",
+              "роллами"
             ]
           },
           {
             "cells": [
-              "prep",
-              "роллые",
-              "роллыах"
+              "prepositional",
+              "ролле",
+              "роллах"
             ]
           }
         ]
-      }
+      },
+      "gender": "m",
+      "moreForms": [],
+      "related": [
+        {
+          "word": "роллный",
+          "gloss": "related to sushi roll (adj.)"
+        }
+      ],
+      "examples": [
+        {
+          "text": "Закажи мне роллы.",
+          "trans": "Order me some rolls."
+        },
+        {
+          "text": "Это очень вкусные роллы.",
+          "trans": "These are very tasty rolls."
+        }
+      ]
     },
     "и": {
       "lemma": "и",
@@ -2700,7 +3222,7 @@
       "meanings": [
         {
           "en": "and",
-          "note": ""
+          "note": "emphasis: вот поэтому ты и... = that's exactly why you..."
         }
       ],
       "forms": null,
@@ -2713,76 +3235,120 @@
         {
           "text": "Папа и мама.",
           "trans": "Dad and Mum."
+        },
+        {
+          "text": "Спасибо, спасибо! Как вы все знаете, я родился и вырос в Синеозерске.",
+          "trans": "Thank you, thank you! As you all know, I was born and grew up in Sineozersk."
         }
-      ]
+      ],
+      "related": []
     },
     "зелёный": {
       "lemma": "зелёный",
       "stress": "зелёный",
-      "pos": "noun",
+      "pos": "adj",
       "gloss": "green",
       "meanings": [
         {
           "en": "green",
-          "examples": []
+          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('green')."
         }
       ],
       "forms": {
         "title": "Declension",
         "columns": [
           "",
-          "sg",
+          "m",
+          "f",
+          "n",
           "pl"
         ],
         "rows": [
           {
             "cells": [
-              "nom",
+              "nominative",
               "зелёный",
-              "зелёныйы"
+              "зелёная",
+              "зелёное",
+              "зелёные"
             ]
           },
           {
             "cells": [
-              "gen",
-              "зелёныйа",
-              "зелёныйов"
+              "genitive",
+              "зелёного",
+              "зелёной",
+              "зелёного",
+              "зелёных"
             ]
           },
           {
             "cells": [
-              "dat",
-              "зелёныйу",
-              "зелёныйам"
+              "dative",
+              "зелёному",
+              "зелёной",
+              "зелёному",
+              "зелёным"
             ]
           },
           {
             "cells": [
-              "acc",
+              "accusative",
               "зелёный",
-              "зелёныйы"
+              "зелёную",
+              "зелёное",
+              "зелёные"
             ]
           },
           {
             "cells": [
-              "inst",
-              "зелёныйом",
-              "зелёныйами"
+              "instrumental",
+              "зелёным",
+              "зелёной",
+              "зелёным",
+              "зелёными"
             ]
           },
           {
             "cells": [
-              "prep",
-              "зелёныйе",
-              "зелёныйах"
+              "prepositional",
+              "зелёном",
+              "зелёной",
+              "зелёном",
+              "зелёных"
             ]
           }
         ]
-      }
+      },
+      "moreForms": [],
+      "related": [
+        {
+          "word": "зелёно",
+          "gloss": "in a green way (adv.)"
+        },
+        {
+          "word": "зелёность",
+          "gloss": "quality of being green"
+        }
+      ],
+      "examples": [
+        {
+          "text": "Мы пьём горячий зелёный чай.",
+          "trans": "We are drinking hot green tea."
+        },
+        {
+          "text": "Уходи отсюда со своим зелёным чаем!",
+          "trans": "Get out of here with your green tea!"
+        },
+        {
+          "text": "И зелёный чай?",
+          "trans": "And green tea?"
+        }
+      ]
     },
     "чай": {
       "lemma": "чай",
-      "stress": null,
+      "stress": "чай",
       "pos": "noun",
       "gender": "m",
       "gloss": "tea",
@@ -2853,6 +3419,16 @@
         {
           "text": "Держи горячий чай.",
           "trans": "Here's some hot tea."
+        },
+        {
+          "text": "Сейчас ещё чай сделаю.",
+          "trans": "Now I'll make some tea too."
+        }
+      ],
+      "related": [
+        {
+          "word": "чайный",
+          "gloss": "related to tea (adj.)"
         }
       ]
     },
@@ -2864,7 +3440,7 @@
       "meanings": [
         {
           "en": "yes",
-          "note": ""
+          "note": "emphatic at the start of a sentence"
         },
         {
           "en": "да ну? = really?, oh yeah?",
@@ -2881,8 +3457,13 @@
         {
           "text": "Да, это я.",
           "trans": "Yes, it's me."
+        },
+        {
+          "text": "Да ну? Когда?",
+          "trans": "Oh yeah? When?"
         }
-      ]
+      ],
+      "related": []
     },
     "пожалуйста": {
       "lemma": "пожалуйста",
@@ -2892,7 +3473,7 @@
       "meanings": [
         {
           "en": "please",
-          "note": ""
+          "note": "handing something over"
         },
         {
           "en": "you're welcome",
@@ -2913,6 +3494,16 @@
         {
           "text": "Спасибо! — Пожалуйста.",
           "trans": "Thank you! — You're welcome."
+        },
+        {
+          "text": "Проводите его, пожалуйста.",
+          "trans": "Please see him out."
+        }
+      ],
+      "related": [
+        {
+          "word": "пожалуй",
+          "gloss": "perhaps"
         }
       ]
     }

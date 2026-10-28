@@ -141,10 +141,10 @@
         {
           "t": "проще",
           "lemma": "проще",
-          "pos": "noun",
+          "pos": "adv",
           "stress": "про́ще",
           "gloss": "simpler, easier",
-          "gram": "noun"
+          "gram": "prepositional / dative singular"
         },
         {
           "t": "потерять",
@@ -461,10 +461,10 @@
         {
           "t": "проще",
           "lemma": "проще",
-          "pos": "noun",
+          "pos": "adv",
           "stress": "про́ще",
           "gloss": "simpler, easier",
-          "gram": "noun"
+          "gram": "prepositional / dative singular"
         },
         {
           "t": "потерять",
@@ -781,10 +781,10 @@
         {
           "t": "проще",
           "lemma": "проще",
-          "pos": "noun",
+          "pos": "adv",
           "stress": "про́ще",
           "gloss": "simpler, easier",
-          "gram": "noun"
+          "gram": "prepositional / dative singular"
         },
         {
           "t": "потерять",
@@ -992,14 +992,58 @@
       "meanings": [
         {
           "en": "I",
-          "note": ""
+          "note": "меня = me (genitive/accusative), мне = to me (dative)"
         },
         {
           "en": "other forms: меня (gen/acc), мне (dat), мной (instr), мне (prep)",
           "note": "case forms"
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "я"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "меня"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "мне"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "меня"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "мной"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "мне"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -1009,6 +1053,20 @@
         {
           "text": "Я вырос здесь.",
           "trans": "I grew up here."
+        },
+        {
+          "text": "Шеф, я не брала.",
+          "trans": "Chef, I didn't take it."
+        }
+      ],
+      "related": [
+        {
+          "word": "меня",
+          "gloss": "me (genitive/accusative)"
+        },
+        {
+          "word": "мне",
+          "gloss": "to me (dative)"
         }
       ]
     },
@@ -1022,7 +1080,7 @@
       "meanings": [
         {
           "en": "to worry, to be anxious",
-          "note": ""
+          "note": "intransitive or за + accusative"
         },
         {
           "en": "to experience, to live through",
@@ -1108,6 +1166,20 @@
         {
           "text": "Не переживай, всё будет хорошо.",
           "trans": "Don't worry, everything will be fine."
+        },
+        {
+          "text": "Что вы так переживаете? Самсонов всё, он себя закопал.",
+          "trans": "Why are you worrying like that? Samsonov is finished, he buried himself."
+        }
+      ],
+      "related": [
+        {
+          "word": "пережить",
+          "gloss": "to survive"
+        },
+        {
+          "word": "выживание",
+          "gloss": "survival"
         }
       ]
     },
@@ -1132,12 +1204,17 @@
         {
           "text": "Денег не хватило.",
           "trans": "There wasn't enough money."
+        },
+        {
+          "text": "Шеф, я не брала.",
+          "trans": "Chef, I didn't take it."
         }
-      ]
+      ],
+      "related": []
     },
     "так": {
       "lemma": "так",
-      "stress": null,
+      "stress": "так",
       "pos": "part",
       "gloss": "so, then; like that",
       "meanings": [
@@ -1160,8 +1237,13 @@
         {
           "text": "Так хорошо.",
           "trans": "That's good like that."
+        },
+        {
+          "text": "Так тебя не ждать сегодня?",
+          "trans": "So I shouldn't wait for you tonight?"
         }
-      ]
+      ],
+      "related": []
     },
     "почему": {
       "lemma": "почему",
@@ -1184,6 +1266,16 @@
         {
           "text": "Почему ты здесь?",
           "trans": "Why are you here?"
+        },
+        {
+          "text": "Виталик, почему мы так медленно едем? Быстрее!",
+          "trans": "Vitalik, why are we going so slowly? Faster!"
+        }
+      ],
+      "related": [
+        {
+          "word": "почему-то",
+          "gloss": "for some reason"
         }
       ]
     },
@@ -1195,7 +1287,7 @@
       "meanings": [
         {
           "en": "main, chief",
-          "note": ""
+          "note": "neuter главное, used as a noun"
         },
         {
           "en": "the main thing",
@@ -1277,6 +1369,20 @@
         {
           "text": "Это главная улица.",
           "trans": "This is the main street."
+        },
+        {
+          "text": "Самое главное — это народ.",
+          "trans": "The most important thing is the people."
+        }
+      ],
+      "related": [
+        {
+          "word": "глава",
+          "gloss": "head"
+        },
+        {
+          "word": "главврач",
+          "gloss": "chief doctor"
         }
       ]
     },
@@ -1299,7 +1405,51 @@
           "note": ""
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "что"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "чего"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "чему"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "что"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "чем"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "чём"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -1309,8 +1459,13 @@
         {
           "text": "Смотри, что у меня есть.",
           "trans": "Look what I've got."
+        },
+        {
+          "text": "Привет! Смотри, что у меня есть.",
+          "trans": "Hi! Look what I've got."
         }
-      ]
+      ],
+      "related": []
     },
     "мы": {
       "lemma": "мы",
@@ -1320,14 +1475,58 @@
       "meanings": [
         {
           "en": "we",
-          "note": ""
+          "note": "нас = us (gen/acc/prep); у нас = we have, at our place"
         },
         {
           "en": "other forms: нас (gen/acc), нам (dat), нами (instr), нас (prep)",
           "note": "case forms"
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "мы"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "нас"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "нам"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "нас"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "нами"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "нас"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -1337,6 +1536,16 @@
         {
           "text": "У нас грязный унитаз.",
           "trans": "Our toilet is dirty."
+        },
+        {
+          "text": "Смотрите, какой у нас грязный унитаз!",
+          "trans": "Look, how dirty our toilet is!"
+        }
+      ],
+      "related": [
+        {
+          "word": "нас",
+          "gloss": "us (genitive/accusative/prepositional)"
         }
       ]
     },
@@ -1348,7 +1557,7 @@
       "meanings": [
         {
           "en": "together",
-          "note": ""
+          "note": "Core Russian adv meaning 'together' in everyday speech."
         }
       ],
       "forms": null,
@@ -1361,6 +1570,16 @@
         {
           "text": "Мы живём вместе.",
           "trans": "We live together."
+        },
+        {
+          "text": "Мы с Пашей вместе уже месяц.",
+          "trans": "Pasha and I have been together for a month now."
+        }
+      ],
+      "related": [
+        {
+          "word": "вместо",
+          "gloss": "instead of"
         }
       ]
     },
@@ -1372,7 +1591,7 @@
       "meanings": [
         {
           "en": "this, that",
-          "note": ""
+          "note": "pointing at a thing or a situation; 'это' + noun = 'this is ...'"
         },
         {
           "en": "this is, that is",
@@ -1387,7 +1606,51 @@
           "note": "case forms"
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "это"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "этого"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "этому"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "это"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "этим"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "этом"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -1397,6 +1660,16 @@
         {
           "text": "А это тебе.",
           "trans": "And this is for you."
+        },
+        {
+          "text": "А это тебе. Машинка!",
+          "trans": "And this is for you. A toy car!"
+        }
+      ],
+      "related": [
+        {
+          "word": "этот",
+          "gloss": "this (before a noun)"
         }
       ]
     },
@@ -1408,7 +1681,7 @@
       "meanings": [
         {
           "en": "someone, somebody",
-          "note": ""
+          "note": "Core Russian pron meaning 'someone, somebody' in everyday speech."
         }
       ],
       "forms": null,
@@ -1417,72 +1690,56 @@
         {
           "text": "Наконец-то кто-то за народ!",
           "trans": "Finally someone is for the people!"
+        },
+        {
+          "text": "Слушай, тут пишут: «Гордость России! Наконец-то кто-то за народ!»",
+          "trans": "Listen, here they write: 'Pride of Russia! Finally someone is for the people!'"
+        },
+        {
+          "text": "Ты что, не понимаешь? Я задавить кого-то мог!",
+          "trans": "Don't you understand? I could have run someone over!"
+        }
+      ],
+      "related": [
+        {
+          "word": "кто-нибудь",
+          "gloss": "somebody"
         }
       ]
     },
     "проще": {
       "lemma": "проще",
       "stress": "про́ще",
-      "pos": "noun",
+      "pos": "adv",
       "gloss": "simpler, easier",
       "meanings": [
         {
           "en": "simpler, easier",
-          "examples": []
+          "note": "Core Russian adv meaning 'simpler, easier' in everyday speech."
         }
       ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nom",
-              "проще",
-              "прощеы"
-            ]
-          },
-          {
-            "cells": [
-              "gen",
-              "прощеа",
-              "прощеов"
-            ]
-          },
-          {
-            "cells": [
-              "dat",
-              "прощеу",
-              "прощеам"
-            ]
-          },
-          {
-            "cells": [
-              "acc",
-              "проще",
-              "прощеы"
-            ]
-          },
-          {
-            "cells": [
-              "inst",
-              "прощеом",
-              "прощеами"
-            ]
-          },
-          {
-            "cells": [
-              "prep",
-              "прощее",
-              "прощеах"
-            ]
-          }
-        ]
-      }
+      "forms": null,
+      "moreForms": [],
+      "related": [
+        {
+          "word": "прощай",
+          "gloss": "farewell"
+        },
+        {
+          "word": "попрощаться",
+          "gloss": "to say goodbye"
+        }
+      ],
+      "examples": [
+        {
+          "text": "Кому-то проще потерять все.",
+          "trans": "For some it is easier to lose everything."
+        },
+        {
+          "text": "Когда вырасту, ты будешь просить у меня прощения!",
+          "trans": "When I grow up, you'll be begging me to forgive you!"
+        }
+      ]
     },
     "потерять": {
       "lemma": "потерять",
@@ -1494,7 +1751,7 @@
       "meanings": [
         {
           "en": "to lose",
-          "note": ""
+          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'терять'). Used as an perfective (single completed action) verb meaning 'to lose', paired with 'терять'."
         }
       ],
       "forms": {
@@ -1559,6 +1816,24 @@
         {
           "text": "Вы совсем страх потеряли?",
           "trans": "Have you lost all fear?"
+        },
+        {
+          "text": "Что смотрите, бандерлоги? Вы совсем страх потеряли?",
+          "trans": "What are you staring at, you monkeys? Have you lost all fear?"
+        }
+      ],
+      "related": [
+        {
+          "word": "терять",
+          "gloss": "to lose"
+        },
+        {
+          "word": "потеря",
+          "gloss": "loss"
+        },
+        {
+          "word": "растеряться",
+          "gloss": "to become confused"
         }
       ]
     },
@@ -1570,7 +1845,7 @@
       "meanings": [
         {
           "en": "all, the whole",
-          "note": ""
+          "note": "the neuter form 'всё' used alone"
         },
         {
           "en": "everything",
@@ -1661,7 +1936,8 @@
           "text": "Поделись со всеми.",
           "trans": "Share with everyone."
         }
-      ]
+      ],
+      "related": []
     },
     "зачем": {
       "lemma": "зачем",
@@ -1684,6 +1960,10 @@
         {
           "text": "Зачем это?",
           "trans": "What's that for?"
+        },
+        {
+          "text": "О, Самсон. Зачем пришёл?",
+          "trans": "Oh, Samson. What have you come for?"
         }
       ],
       "related": [
@@ -1718,8 +1998,13 @@
         {
           "text": "Я звоню, чтобы сказать спасибо.",
           "trans": "I'm calling to say thank you."
+        },
+        {
+          "text": "Чтобы свидетели были, Самсон.",
+          "trans": "So that there are witnesses, Samson."
         }
-      ]
+      ],
+      "related": []
     },
     "понять": {
       "lemma": "понять",
@@ -1813,6 +2098,24 @@
         {
           "text": "Я не понял.",
           "trans": "I didn't understand."
+        },
+        {
+          "text": "Со всеми поделись поровну, понял?",
+          "trans": "Share it all equally with everyone, understand?"
+        }
+      ],
+      "related": [
+        {
+          "word": "понимать",
+          "gloss": "to understand"
+        },
+        {
+          "word": "принять",
+          "gloss": "to receive"
+        },
+        {
+          "word": "поднять",
+          "gloss": "to lift"
         }
       ]
     },
@@ -1841,6 +2144,16 @@
         {
           "text": "Насколько это важно?",
           "trans": "How important is this?"
+        },
+        {
+          "text": "Насколько нам известно, Марина Сергеевна полностью закрыла долг.",
+          "trans": "As far as we know, Marina Sergeyevna has paid off the debt in full."
+        }
+      ],
+      "related": [
+        {
+          "word": "несколько",
+          "gloss": "several"
         }
       ]
     },
@@ -1980,6 +2293,20 @@
           "text": "Ты будешь просить прощения.",
           "trans": "You will be asking for forgiveness."
         }
+      ],
+      "related": [
+        {
+          "word": "забыть",
+          "gloss": "to forget"
+        },
+        {
+          "word": "добыть",
+          "gloss": "to get"
+        },
+        {
+          "word": "побыть",
+          "gloss": "to stay for a while"
+        }
       ]
     },
     "дорого": {
@@ -1989,13 +2316,30 @@
       "gloss": "expensive, expensively",
       "meanings": [
         {
-          "en": "expensive, expensively, dear"
+          "en": "expensive, expensively, dear",
+          "note": "Prefix 'до-' marks reaching a boundary or finishing the remainder of an action (stem 'рого'). Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
         }
       ],
       "examples": [
         {
           "text": "Это слишком дорого.",
           "trans": "That is too expensive."
+        },
+        {
+          "text": "Англия — это слишком дорого.",
+          "trans": "England is too expensive."
+        },
+        {
+          "text": "Французские десерты всегда стоят очень дорого.",
+          "trans": "French desserts always cost very much."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "related": [
+        {
+          "word": "дорогой",
+          "gloss": "expensive"
         }
       ]
     },
@@ -2020,6 +2364,20 @@
         {
           "text": "Надо сделать ещё больше.",
           "trans": "We need to do even more."
+        },
+        {
+          "text": "Надо его помыть!",
+          "trans": "It needs a wash!"
+        }
+      ],
+      "related": [
+        {
+          "word": "понадобиться",
+          "gloss": "to be needed"
+        },
+        {
+          "word": "ненадолго",
+          "gloss": "for a short time"
         }
       ]
     },
@@ -2033,7 +2391,7 @@
       "meanings": [
         {
           "en": "to lose",
-          "note": ""
+          "note": "терять время"
         },
         {
           "en": "to waste (time)",
@@ -2119,6 +2477,24 @@
         {
           "text": "Он всегда теряет ключи.",
           "trans": "He always loses his keys."
+        },
+        {
+          "text": "Вы зря теряете время. Шпионить для вас я не буду.",
+          "trans": "You're wasting your time. I'm not going to spy for you."
+        }
+      ],
+      "related": [
+        {
+          "word": "потерять",
+          "gloss": "to lose"
+        },
+        {
+          "word": "потеря",
+          "gloss": "loss"
+        },
+        {
+          "word": "растеряться",
+          "gloss": "to become confused"
         }
       ]
     },
@@ -2199,6 +2575,24 @@
         {
           "text": "Конец связи.",
           "trans": "Over and out."
+        },
+        {
+          "text": "В конце фильма все счастливы.",
+          "trans": "At the end of the film everyone is happy."
+        }
+      ],
+      "related": [
+        {
+          "word": "конечно",
+          "gloss": "of course"
+        },
+        {
+          "word": "наконец",
+          "gloss": "at last"
+        },
+        {
+          "word": "наконец-то",
+          "gloss": "at last"
         }
       ]
     }

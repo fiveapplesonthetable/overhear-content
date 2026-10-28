@@ -36,7 +36,7 @@
       "words": [
         {
           "t": "Пойдем.",
-          "lemma": "пойдем",
+          "lemma": "пойти",
           "pos": "verb",
           "stress": "пойде́м",
           "gloss": "let's go",
@@ -80,11 +80,11 @@
         },
         {
           "t": "бомжам.",
-          "lemma": "бомжам",
+          "lemma": "бомж",
           "pos": "noun",
           "stress": "бо́мжам",
           "gloss": "homeless person",
-          "gram": "noun"
+          "gram": "dative plural"
         }
       ]
     },
@@ -102,7 +102,7 @@
         },
         {
           "t": "бомжам,",
-          "lemma": "бомжам",
+          "lemma": "бомж",
           "pos": "noun",
           "stress": "бо́мжам",
           "gloss": "homeless person",
@@ -122,7 +122,7 @@
           "pos": "noun",
           "stress": "бездо́мным",
           "gloss": "homeless person",
-          "gram": "noun"
+          "gram": "nominative / accusative"
         }
       ]
     },
@@ -146,11 +146,11 @@
       "words": [
         {
           "t": "Заразу",
-          "lemma": "заразу",
+          "lemma": "зараза",
           "pos": "noun",
           "stress": "зара́зу",
           "gloss": "infection, pest",
-          "gram": "noun"
+          "gram": "accusative / dative singular"
         },
         {
           "t": "не",
@@ -226,7 +226,7 @@
           "pos": "noun",
           "stress": "бездо́мных",
           "gloss": "homeless person",
-          "gram": "noun"
+          "gram": "nominative / accusative"
         }
       ]
     },
@@ -346,7 +346,7 @@
       "words": [
         {
           "t": "Пойдем.",
-          "lemma": "пойдем",
+          "lemma": "пойти",
           "pos": "verb",
           "stress": "пойде́м",
           "gloss": "let's go",
@@ -390,7 +390,7 @@
         },
         {
           "t": "бомжам.",
-          "lemma": "бомжам",
+          "lemma": "бомж",
           "pos": "noun",
           "stress": "бо́мжам",
           "gloss": "homeless person",
@@ -412,7 +412,7 @@
         },
         {
           "t": "бомжам,",
-          "lemma": "бомжам",
+          "lemma": "бомж",
           "pos": "noun",
           "stress": "бо́мжам",
           "gloss": "homeless person",
@@ -432,7 +432,7 @@
           "pos": "noun",
           "stress": "бездо́мным",
           "gloss": "homeless person",
-          "gram": "noun"
+          "gram": "nominative / accusative"
         }
       ]
     },
@@ -456,7 +456,7 @@
       "words": [
         {
           "t": "Заразу",
-          "lemma": "заразу",
+          "lemma": "зараза",
           "pos": "noun",
           "stress": "зара́зу",
           "gloss": "infection, pest",
@@ -536,7 +536,7 @@
           "pos": "noun",
           "stress": "бездо́мных",
           "gloss": "homeless person",
-          "gram": "noun"
+          "gram": "nominative / accusative"
         }
       ]
     },
@@ -656,7 +656,7 @@
       "words": [
         {
           "t": "Пойдем.",
-          "lemma": "пойдем",
+          "lemma": "пойти",
           "pos": "verb",
           "stress": "пойде́м",
           "gloss": "let's go",
@@ -700,7 +700,7 @@
         },
         {
           "t": "бомжам.",
-          "lemma": "бомжам",
+          "lemma": "бомж",
           "pos": "noun",
           "stress": "бо́мжам",
           "gloss": "homeless person",
@@ -722,7 +722,7 @@
         },
         {
           "t": "бомжам,",
-          "lemma": "бомжам",
+          "lemma": "бомж",
           "pos": "noun",
           "stress": "бо́мжам",
           "gloss": "homeless person",
@@ -742,7 +742,7 @@
           "pos": "noun",
           "stress": "бездо́мным",
           "gloss": "homeless person",
-          "gram": "noun"
+          "gram": "nominative / accusative"
         }
       ]
     },
@@ -766,7 +766,7 @@
       "words": [
         {
           "t": "Заразу",
-          "lemma": "заразу",
+          "lemma": "зараза",
           "pos": "noun",
           "stress": "зара́зу",
           "gloss": "infection, pest",
@@ -846,7 +846,7 @@
           "pos": "noun",
           "stress": "бездо́мных",
           "gloss": "homeless person",
-          "gram": "noun"
+          "gram": "nominative / accusative"
         }
       ]
     },
@@ -962,7 +962,7 @@
       "meanings": [
         {
           "en": "all, the whole",
-          "note": ""
+          "note": "the neuter form 'всё' used alone"
         },
         {
           "en": "everything",
@@ -1053,7 +1053,8 @@
           "text": "Поделись со всеми.",
           "trans": "Share with everyone."
         }
-      ]
+      ],
+      "related": []
     },
     "я": {
       "lemma": "я",
@@ -1063,14 +1064,58 @@
       "meanings": [
         {
           "en": "I",
-          "note": ""
+          "note": "меня = me (genitive/accusative), мне = to me (dative)"
         },
         {
           "en": "other forms: меня (gen/acc), мне (dat), мной (instr), мне (prep)",
           "note": "case forms"
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "я"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "меня"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "мне"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "меня"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "мной"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "мне"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -1080,6 +1125,20 @@
         {
           "text": "Я вырос здесь.",
           "trans": "I grew up here."
+        },
+        {
+          "text": "Шеф, я не брала.",
+          "trans": "Chef, I didn't take it."
+        }
+      ],
+      "related": [
+        {
+          "word": "меня",
+          "gloss": "me (genitive/accusative)"
+        },
+        {
+          "word": "мне",
+          "gloss": "to me (dative)"
         }
       ]
     },
@@ -1191,18 +1250,36 @@
         {
           "text": "Обед готов.",
           "trans": "Lunch is ready."
+        },
+        {
+          "text": "Всё, готов!",
+          "trans": "Right, I'm ready!"
+        }
+      ],
+      "related": [
+        {
+          "word": "готовить",
+          "gloss": "to cook"
+        },
+        {
+          "word": "подготовить",
+          "gloss": "to prepare"
+        },
+        {
+          "word": "приготовить",
+          "gloss": "to prepare"
         }
       ]
     },
-    "пойдем": {
+    "пойти": {
       "pos": "verb",
-      "stress": "пойде́м",
+      "stress": "пойти́",
       "gloss": "let's go",
-      "lemma": "пойдем",
+      "lemma": "пойти",
       "meanings": [
         {
           "en": "let's go",
-          "examples": []
+          "note": "'пойдём' / 'пойдёмте'; colloquially also 'пошли'"
         }
       ],
       "forms": {
@@ -1219,7 +1296,51 @@
             ]
           }
         ]
-      }
+      },
+      "aspect": "impf",
+      "moreForms": [
+        {
+          "title": "Past",
+          "columns": [
+            "",
+            "m",
+            "f",
+            "n",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "past",
+                "пойл",
+                "пойла",
+                "пойло",
+                "пойли"
+              ]
+            }
+          ]
+        }
+      ],
+      "related": [
+        {
+          "word": "идти",
+          "gloss": "to go"
+        }
+      ],
+      "examples": [
+        {
+          "text": "Можно я пойду?",
+          "trans": "May I go?"
+        },
+        {
+          "text": "Пойдём домой.",
+          "trans": "Let's go home."
+        },
+        {
+          "text": "А можно я пойду посмотрю?",
+          "trans": "Can I go and have a look?"
+        }
+      ]
     },
     "давать": {
       "lemma": "давать",
@@ -1231,7 +1352,7 @@
       "meanings": [
         {
           "en": "to give",
-          "note": ""
+          "note": "давай + 1st person plural or infinitive"
         },
         {
           "en": "let's",
@@ -1317,6 +1438,24 @@
         {
           "text": "Он мне даёт книгу.",
           "trans": "He gives me a book."
+        },
+        {
+          "text": "Давай мы его уволим, а тебя на его место назначим.",
+          "trans": "Let's fire him and put you in his place."
+        }
+      ],
+      "related": [
+        {
+          "word": "дать",
+          "gloss": "to give"
+        },
+        {
+          "word": "давай",
+          "gloss": "let's"
+        },
+        {
+          "word": "сдавать",
+          "gloss": "to take"
         }
       ]
     },
@@ -1341,18 +1480,28 @@
         {
           "text": "Привет! Как дела?",
           "trans": "Hi! How are things?"
+        },
+        {
+          "text": "Привет! Смотри, что у меня есть.",
+          "trans": "Hi! Look what I've got."
+        }
+      ],
+      "related": [
+        {
+          "word": "привал",
+          "gloss": "halt"
         }
       ]
     },
-    "бомжам": {
-      "lemma": "бомжам",
-      "stress": "бо́мжам",
+    "бомж": {
+      "lemma": "бомж",
+      "stress": "бомж",
       "pos": "noun",
       "gloss": "homeless person",
       "meanings": [
         {
           "en": "homeless person",
-          "examples": []
+          "note": "Common masculine noun meaning 'homeless person' in everyday Russian."
         }
       ],
       "forms": {
@@ -1365,48 +1514,66 @@
         "rows": [
           {
             "cells": [
-              "nom",
-              "бомжам",
-              "бомжамы"
+              "nominative",
+              "бомж",
+              "бомжи"
             ]
           },
           {
             "cells": [
-              "gen",
-              "бомжама",
-              "бомжамов"
+              "genitive",
+              "бомжа",
+              "бомжей"
             ]
           },
           {
             "cells": [
-              "dat",
-              "бомжаму",
-              "бомжамам"
+              "dative",
+              "бомжу",
+              "бомжам"
             ]
           },
           {
             "cells": [
-              "acc",
-              "бомжам",
-              "бомжамы"
+              "accusative",
+              "бомж",
+              "бомжи"
             ]
           },
           {
             "cells": [
-              "inst",
-              "бомжамом",
-              "бомжамами"
+              "instrumental",
+              "бомжем",
+              "бомжами"
             ]
           },
           {
             "cells": [
-              "prep",
-              "бомжаме",
-              "бомжамах"
+              "prepositional",
+              "бомже",
+              "бомжах"
             ]
           }
         ]
-      }
+      },
+      "gender": "m",
+      "moreForms": [],
+      "related": [
+        {
+          "word": "бомжный",
+          "gloss": "related to homeless person (adj.)"
+        }
+      ],
+      "examples": [
+        {
+          "text": "Привет бомжам.",
+          "trans": "Say hi to the bums."
+        },
+        {
+          "text": "Не бомжам, а бездомным.",
+          "trans": "Not bums, but homeless."
+        }
+      ]
     },
     "не": {
       "lemma": "не",
@@ -1429,8 +1596,13 @@
         {
           "text": "Денег не хватило.",
           "trans": "There wasn't enough money."
+        },
+        {
+          "text": "Шеф, я не брала.",
+          "trans": "Chef, I didn't take it."
         }
-      ]
+      ],
+      "related": []
     },
     "а": {
       "lemma": "а",
@@ -1457,8 +1629,13 @@
         {
           "text": "А где машинка?",
           "trans": "And where's the toy car?"
+        },
+        {
+          "text": "Папа, а жвачку ты привёз?",
+          "trans": "Dad, did you bring any gum?"
         }
-      ]
+      ],
+      "related": []
     },
     "бездомный": {
       "lemma": "бездомный",
@@ -1529,6 +1706,20 @@
         {
           "text": "Хорошо, что бездомный вернул их нам.",
           "trans": "Good thing the homeless man returned them to us."
+        },
+        {
+          "text": "Не бомжам, а бездомным.",
+          "trans": "Not bums, but homeless."
+        },
+        {
+          "text": "От бездомных.",
+          "trans": "From the homeless."
+        }
+      ],
+      "related": [
+        {
+          "word": "бездомныйный",
+          "gloss": "related to homeless person (adj.)"
         }
       ]
     },
@@ -1628,18 +1819,28 @@
         {
           "text": "Я смотрю телевизор.",
           "trans": "I'm watching TV."
+        },
+        {
+          "text": "Привет! Смотри, что у меня есть.",
+          "trans": "Hi! Look what I've got."
+        }
+      ],
+      "related": [
+        {
+          "word": "посмотреть",
+          "gloss": "to have a look"
         }
       ]
     },
-    "заразу": {
-      "lemma": "заразу",
-      "stress": "зара́зу",
+    "зараза": {
+      "lemma": "зараза",
+      "stress": "зара́за",
       "pos": "noun",
       "gloss": "infection, pest",
       "meanings": [
         {
           "en": "infection, pest",
-          "examples": []
+          "note": "Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'раза'). Common feminine noun meaning 'infection, pest' in everyday Russian."
         }
       ],
       "forms": {
@@ -1652,48 +1853,66 @@
         "rows": [
           {
             "cells": [
-              "nom",
+              "nominative",
+              "зараза",
+              "заразы"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "заразы",
+              "зараз"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "заразе",
+              "заразам"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
               "заразу",
-              "заразуы"
+              "заразы"
             ]
           },
           {
             "cells": [
-              "gen",
-              "заразуа",
-              "заразуов"
+              "instrumental",
+              "заразой",
+              "заразами"
             ]
           },
           {
             "cells": [
-              "dat",
-              "заразуу",
-              "заразуам"
-            ]
-          },
-          {
-            "cells": [
-              "acc",
-              "заразу",
-              "заразуы"
-            ]
-          },
-          {
-            "cells": [
-              "inst",
-              "заразуом",
-              "заразуами"
-            ]
-          },
-          {
-            "cells": [
-              "prep",
-              "заразуе",
-              "заразуах"
+              "prepositional",
+              "заразе",
+              "заразах"
             ]
           }
         ]
-      }
+      },
+      "gender": "f",
+      "moreForms": [],
+      "related": [
+        {
+          "word": "заразный",
+          "gloss": "related to infection (adj.)"
+        }
+      ],
+      "examples": [
+        {
+          "text": "Заразу не принесите в дом.",
+          "trans": "Do not bring infection home."
+        },
+        {
+          "text": "О, заработала!",
+          "trans": "Oh, it's working!"
+        }
+      ]
     },
     "принести": {
       "lemma": "принести",
@@ -1705,7 +1924,7 @@
       "meanings": [
         {
           "en": "to bring (on foot, carrying)",
-          "note": ""
+          "note": "Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'нести'). Used as an perfective (single completed action) verb meaning 'to bring (carrying)', paired with 'приносить'."
         }
       ],
       "forms": {
@@ -1787,6 +2006,24 @@
         {
           "text": "Он принёс тебе собаку.",
           "trans": "He brought you a dog."
+        },
+        {
+          "text": "А я вот вам чаю с сушками принёс.",
+          "trans": "I've brought you some tea and bread rings."
+        }
+      ],
+      "related": [
+        {
+          "word": "приносить",
+          "gloss": "to bring"
+        },
+        {
+          "word": "нести",
+          "gloss": "to carry"
+        },
+        {
+          "word": "перенести",
+          "gloss": "to carry over"
         }
       ]
     },
@@ -1815,19 +2052,24 @@
         {
           "text": "Я вырос в коммуналке.",
           "trans": "I grew up in a communal flat."
+        },
+        {
+          "text": "Здравствуйте! Как там в Венгрии?",
+          "trans": "Hello! How was it in Hungary?"
         }
-      ]
+      ],
+      "related": []
     },
     "дом": {
       "lemma": "дом",
-      "stress": null,
+      "stress": "дом",
       "pos": "noun",
       "gender": "m",
       "gloss": "house; building; home",
       "meanings": [
         {
           "en": "building, block of flats",
-          "note": ""
+          "note": "'дома' = at home"
         },
         {
           "en": "house",
@@ -1899,12 +2141,22 @@
         {
           "text": "Это мой дом.",
           "trans": "This is my home."
+        },
+        {
+          "text": "Квартира будет отличная. На Симашко есть новый дом.",
+          "trans": "It'll be an excellent flat. There's a new building on Simashko Street."
+        }
+      ],
+      "related": [
+        {
+          "word": "домный",
+          "gloss": "related to house (adj.)"
         }
       ]
     },
     "от": {
       "lemma": "от",
-      "stress": null,
+      "stress": "от",
       "pos": "prep",
       "gloss": "from; of",
       "meanings": [
@@ -1927,9 +2179,14 @@
         {
           "text": "Я устал от работы.",
           "trans": "I'm tired of work."
+        },
+        {
+          "text": "Меня уже тошнит от этой коммуналки! У нас труба уже неделю течёт.",
+          "trans": "I'm sick of this communal flat! Our pipe has been leaking for a week now."
         }
       ],
-      "governs": "+ genitive"
+      "governs": "+ genitive",
+      "related": []
     },
     "кто": {
       "lemma": "кто",
@@ -1939,10 +2196,54 @@
       "meanings": [
         {
           "en": "who",
-          "note": ""
+          "note": "in the instrumental: 'кем ты работаешь?'"
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "кто"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "кого"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "кому"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "кого"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "кем"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "ком"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -1952,8 +2253,13 @@
         {
           "text": "Кто там?",
           "trans": "Who's there?"
+        },
+        {
+          "text": "Аркадий Борисович, кто ваши конкуренты?",
+          "trans": "Arkady Borisovich, who are your rivals?"
         }
-      ]
+      ],
+      "related": []
     },
     "мы": {
       "lemma": "мы",
@@ -1963,14 +2269,58 @@
       "meanings": [
         {
           "en": "we",
-          "note": ""
+          "note": "нас = us (gen/acc/prep); у нас = we have, at our place"
         },
         {
           "en": "other forms: нас (gen/acc), нам (dat), нами (instr), нас (prep)",
           "note": "case forms"
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "мы"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "нас"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "нам"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "нас"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "нами"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "нас"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -1980,6 +2330,16 @@
         {
           "text": "У нас грязный унитаз.",
           "trans": "Our toilet is dirty."
+        },
+        {
+          "text": "Смотрите, какой у нас грязный унитаз!",
+          "trans": "Look, how dirty our toilet is!"
+        }
+      ],
+      "related": [
+        {
+          "word": "нас",
+          "gloss": "us (genitive/accusative/prepositional)"
         }
       ]
     },
@@ -2119,6 +2479,20 @@
           "text": "Ты будешь просить прощения.",
           "trans": "You will be asking for forgiveness."
         }
+      ],
+      "related": [
+        {
+          "word": "забыть",
+          "gloss": "to forget"
+        },
+        {
+          "word": "добыть",
+          "gloss": "to get"
+        },
+        {
+          "word": "побыть",
+          "gloss": "to stay for a while"
+        }
       ]
     },
     "осторожный": {
@@ -2129,7 +2503,7 @@
       "meanings": [
         {
           "en": "careful, cautious",
-          "note": ""
+          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('careful, cautious')."
         }
       ],
       "forms": {
@@ -2207,6 +2581,24 @@
         {
           "text": "Он осторожный человек.",
           "trans": "He is a cautious person."
+        },
+        {
+          "text": "Будьте осторожны, он очень хитрый.",
+          "trans": "Be careful, he is very cunning."
+        }
+      ],
+      "related": [
+        {
+          "word": "осторожно",
+          "gloss": "carefully"
+        },
+        {
+          "word": "состояние",
+          "gloss": "condition"
+        },
+        {
+          "word": "осторожность",
+          "gloss": "caution"
         }
       ]
     },
@@ -2220,7 +2612,7 @@
       "meanings": [
         {
           "en": "to hope, to count on",
-          "note": ""
+          "note": "Prefix 'на-' marks surface contact, accumulation, or completing a quantity (stem 'деяться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to hope, to rely on', paired with 'понадеяться'."
         }
       ],
       "forms": {
@@ -2298,6 +2690,20 @@
         {
           "text": "Я надеюсь, вы меня поняли.",
           "trans": "I hope you understood me."
+        },
+        {
+          "text": "Я надеюсь. Идите, действуйте быстрее!",
+          "trans": "I hope so. Go on, act quickly!"
+        },
+        {
+          "text": "Я надеюсь.",
+          "trans": "I hope so."
+        }
+      ],
+      "related": [
+        {
+          "word": "понадеяться",
+          "gloss": "to hope"
         }
       ]
     },
@@ -2326,8 +2732,13 @@
         {
           "text": "До завтра!",
           "trans": "See you tomorrow!"
+        },
+        {
+          "text": "До вечера!",
+          "trans": "See you tonight!"
         }
-      ]
+      ],
+      "related": []
     },
     "вечер": {
       "lemma": "вечер",
@@ -2338,7 +2749,7 @@
       "meanings": [
         {
           "en": "evening",
-          "note": ""
+          "note": "до вечера = until the evening; вечером = in the evening"
         },
         {
           "en": "party, evening event",
@@ -2406,6 +2817,24 @@
         {
           "text": "Я позвоню вечером.",
           "trans": "I'll call in the evening."
+        },
+        {
+          "text": "Добрый вечер, Вика. С Новым годом!",
+          "trans": "Good evening, Vika. Happy New Year!"
+        }
+      ],
+      "related": [
+        {
+          "word": "вечером",
+          "gloss": "in the evening"
+        },
+        {
+          "word": "вечеринка",
+          "gloss": "party"
+        },
+        {
+          "word": "вечерний",
+          "gloss": "evening"
         }
       ]
     },
@@ -2438,6 +2867,16 @@
         {
           "text": "Пока, папа!",
           "trans": "Bye, Dad!"
+        },
+        {
+          "text": "Пока, милый!",
+          "trans": "Bye, darling!"
+        }
+      ],
+      "related": [
+        {
+          "word": "пока",
+          "gloss": "bye (as an adverb/interjection)"
         }
       ]
     },
@@ -2518,6 +2957,16 @@
         {
           "text": "У меня сегодня свидание.",
           "trans": "I have a date today."
+        },
+        {
+          "text": "У неё свидание.",
+          "trans": "She has a date."
+        }
+      ],
+      "related": [
+        {
+          "word": "видать",
+          "gloss": "to see"
         }
       ]
     }

@@ -2578,10 +2578,28 @@
         {
           "text": "L'accueil est ouvert.",
           "trans": "The reception is open."
+        },
+        {
+          "text": "Cette Sofia travaille à l'accueil de l'agence?",
+          "trans": "This Sofia works at the agency reception?"
         }
       ],
       "gender": "m",
-      "plural": "accueils"
+      "plural": "accueils",
+      "related": [
+        {
+          "word": "accueillant",
+          "gloss": "welcoming"
+        },
+        {
+          "word": "accueillir",
+          "gloss": "to welcome"
+        },
+        {
+          "word": "accuser",
+          "gloss": "to accuse"
+        }
+      ]
     },
     "avoir": {
       "examples": [
@@ -2634,7 +2652,7 @@
       "meanings": [
         {
           "en": "to have",
-          "note": ""
+          "note": "avoir peur = to be afraid, avoir raison = to be right, avoir 40 ans = to be 40"
         },
         {
           "en": "to be (an age)",
@@ -2776,7 +2794,13 @@
         }
       ],
       "pos": "verb",
-      "stress": "avwaʁ"
+      "stress": "avwaʁ",
+      "related": [
+        {
+          "word": "avoir à voir",
+          "gloss": "to have to do with"
+        }
+      ]
     },
     "baisser": {
       "examples": [
@@ -2787,6 +2811,10 @@
         {
           "text": "Baisse un peu la musique.",
           "trans": "Turn the music down a bit."
+        },
+        {
+          "text": "Donc on baisse les tarifs pour toutes nos stars?",
+          "trans": "So we lower the rates for all our stars?"
         }
       ],
       "forms": {
@@ -2952,7 +2980,17 @@
         }
       ],
       "pos": "verb",
-      "stress": "bɛse"
+      "stress": "bɛse",
+      "related": [
+        {
+          "word": "baisse",
+          "gloss": "decline"
+        },
+        {
+          "word": "baiser",
+          "gloss": "kiss"
+        }
+      ]
     },
     "beaucoup": {
       "examples": [
@@ -2963,6 +3001,10 @@
         {
           "text": "Merci beaucoup!",
           "trans": "Thank you very much!"
+        },
+        {
+          "text": "Tu connais beaucoup de monde dans le cinéma. Tu pourrais m'aider.",
+          "trans": "You know lots of people in film. You could help me."
         }
       ],
       "forms": null,
@@ -2971,7 +3013,7 @@
       "meanings": [
         {
           "en": "a lot, very much",
-          "note": ""
+          "note": "beaucoup de + noun, with no article: beaucoup de travail"
         },
         {
           "en": "beaucoup de = a lot of, many",
@@ -2980,7 +3022,21 @@
       ],
       "moreForms": [],
       "pos": "adv",
-      "stress": "boku"
+      "stress": "boku",
+      "related": [
+        {
+          "word": "beau",
+          "gloss": "beautiful"
+        },
+        {
+          "word": "beau-père",
+          "gloss": "father-in-law"
+        },
+        {
+          "word": "beauf",
+          "gloss": "redneck"
+        }
+      ]
     },
     "blague": {
       "examples": [
@@ -2991,6 +3047,10 @@
         {
           "text": "C'est une blague!",
           "trans": "It's a joke!"
+        },
+        {
+          "text": "Un acte généreux de Mathias? Quelle blague!",
+          "trans": "A generous act from Mathias? What a joke!"
         }
       ],
       "forms": {
@@ -3022,7 +3082,13 @@
       "moreForms": [],
       "plural": "blagues",
       "pos": "noun",
-      "stress": "blaɡ"
+      "stress": "blaɡ",
+      "related": [
+        {
+          "word": "le/la blague",
+          "gloss": "the joke (with article)"
+        }
+      ]
     },
     "bras": {
       "lemma": "bras",
@@ -3065,10 +3131,20 @@
         {
           "text": "Il lève le bras.",
           "trans": "He raises his arm."
+        },
+        {
+          "text": "Et moi je deviendrai son bras droit.",
+          "trans": "And I will become his right-hand woman."
         }
       ],
       "gender": "m",
-      "plural": "bras"
+      "plural": "bras",
+      "related": [
+        {
+          "word": "le/la bras",
+          "gloss": "the arm (with article)"
+        }
+      ]
     },
     "ce": {
       "examples": [
@@ -3123,7 +3199,8 @@
       ],
       "moreForms": [],
       "pos": "det",
-      "stress": "sə"
+      "stress": "sə",
+      "related": []
     },
     "charisme": {
       "lemma": "charisme",
@@ -3133,7 +3210,7 @@
       "meanings": [
         {
           "en": "charisma, magnetic charm, presence",
-          "note": ""
+          "note": "Standard masculine noun meaning 'charisma, magnetic charm'."
         }
       ],
       "forms": {
@@ -3162,10 +3239,28 @@
         {
           "text": "Le charisme de cet acteur crève l'écran.",
           "trans": "The charisma of this actor lights up the screen."
+        },
+        {
+          "text": "J'ai beaucoup de charisme naturel.",
+          "trans": "I have a lot of natural charisma."
         }
       ],
       "gender": "m",
-      "plural": "charismes"
+      "plural": "charismes",
+      "related": [
+        {
+          "word": "charme",
+          "gloss": "charm"
+        },
+        {
+          "word": "charognard",
+          "gloss": "scavenger"
+        },
+        {
+          "word": "charge",
+          "gloss": "duty"
+        }
+      ]
     },
     "chaussure": {
       "lemma": "chaussure",
@@ -3204,10 +3299,28 @@
         {
           "text": "Elle achète de nouvelles chaussures.",
           "trans": "She buys new shoes."
+        },
+        {
+          "text": "Et c'est quoi ces drôles de chaussures?",
+          "trans": "And what are these funny shoes?"
         }
       ],
       "gender": "f",
-      "plural": "chaussures"
+      "plural": "chaussures",
+      "related": [
+        {
+          "word": "chaud",
+          "gloss": "hot"
+        },
+        {
+          "word": "chaussette",
+          "gloss": "sock"
+        },
+        {
+          "word": "chauffeur",
+          "gloss": "driver"
+        }
+      ]
     },
     "comédien": {
       "examples": [
@@ -3218,6 +3331,10 @@
         {
           "text": "C'est un grand comédien.",
           "trans": "He's a great actor."
+        },
+        {
+          "text": "Parce qu'en fait, je suis comédienne.",
+          "trans": "Because actually, I'm an actress."
         }
       ],
       "forms": {
@@ -3260,7 +3377,21 @@
       "moreForms": [],
       "plural": "comédiens",
       "pos": "noun",
-      "stress": "kɔmedjɛ̃"
+      "stress": "kɔmedjɛ̃",
+      "related": [
+        {
+          "word": "médical",
+          "gloss": "medical"
+        },
+        {
+          "word": "médicament",
+          "gloss": "medicine"
+        },
+        {
+          "word": "média",
+          "gloss": "media"
+        }
+      ]
     },
     "dans": {
       "examples": [
@@ -3271,6 +3402,10 @@
         {
           "text": "Dans le cinéma.",
           "trans": "In the film business."
+        },
+        {
+          "text": "Tu connais beaucoup de monde dans le cinéma. Tu pourrais m'aider.",
+          "trans": "You know lots of people in film. You could help me."
         }
       ],
       "forms": null,
@@ -3279,7 +3414,7 @@
       "meanings": [
         {
           "en": "in, inside",
-          "note": ""
+          "note": "j'étais dans les sous-vêtements"
         },
         {
           "en": "in (time from now)",
@@ -3288,7 +3423,21 @@
       ],
       "moreForms": [],
       "pos": "prep",
-      "stress": "dɑ̃"
+      "stress": "dɑ̃",
+      "related": [
+        {
+          "word": "danse",
+          "gloss": "dance"
+        },
+        {
+          "word": "danser",
+          "gloss": "to dance"
+        },
+        {
+          "word": "danseur",
+          "gloss": "dancer"
+        }
+      ]
     },
     "de": {
       "examples": [
@@ -3299,6 +3448,10 @@
         {
           "text": "La plus grande imprésario de Paris.",
           "trans": "The greatest impresario in Paris."
+        },
+        {
+          "text": "Le film de Kechiche.",
+          "trans": "The Kechiche film."
         }
       ],
       "forms": null,
@@ -3307,7 +3460,7 @@
       "meanings": [
         {
           "en": "of",
-          "note": ""
+          "note": "je n'ai pas de temps; also before a plural adjective: de mauvaises nouvelles"
         },
         {
           "en": "from",
@@ -3328,7 +3481,17 @@
       ],
       "moreForms": [],
       "pos": "prep",
-      "stress": "də"
+      "stress": "də",
+      "related": [
+        {
+          "word": "du",
+          "gloss": "de + le"
+        },
+        {
+          "word": "des",
+          "gloss": "de + les"
+        }
+      ]
     },
     "depuis": {
       "examples": [
@@ -3339,6 +3502,10 @@
         {
           "text": "Depuis quand?",
           "trans": "Since when?"
+        },
+        {
+          "text": "Elle n'a pas travaillé depuis deux ans.",
+          "trans": "She hasn't worked for two years."
         }
       ],
       "forms": null,
@@ -3356,7 +3523,8 @@
       ],
       "moreForms": [],
       "pos": "prep",
-      "stress": "dəpɥi"
+      "stress": "dəpɥi",
+      "related": []
     },
     "drôle": {
       "examples": [
@@ -3367,6 +3535,10 @@
         {
           "text": "Cette histoire est drôle.",
           "trans": "This story is funny."
+        },
+        {
+          "text": "C'est l'histoire d'une strip-teaseuse écolo. Très drôle, très moderne.",
+          "trans": "It's the story of an ecologist stripper. Very funny, very modern."
         }
       ],
       "forms": {
@@ -3407,7 +3579,13 @@
       ],
       "moreForms": [],
       "pos": "adj",
-      "stress": "dʁol"
+      "stress": "dʁol",
+      "related": [
+        {
+          "word": "drôle de",
+          "gloss": "strange"
+        }
+      ]
     },
     "en": {
       "examples": [
@@ -3418,6 +3596,10 @@
         {
           "text": "J'en ai assez!",
           "trans": "I've had enough!"
+        },
+        {
+          "text": "Je suis en retard.",
+          "trans": "I'm late."
         }
       ],
       "forms": null,
@@ -3435,7 +3617,8 @@
       ],
       "moreForms": [],
       "pos": "prep",
-      "stress": "ɑ̃"
+      "stress": "ɑ̃",
+      "related": []
     },
     "expérience": {
       "lemma": "expérience",
@@ -3445,7 +3628,7 @@
       "meanings": [
         {
           "en": "experience (event lived through, background knowledge)",
-          "note": ""
+          "note": "faire une expérience = to conduct an experiment"
         },
         {
           "en": "experiment, trial",
@@ -3478,10 +3661,20 @@
         {
           "text": "Une expérience scientifique.",
           "trans": "A scientific experiment."
+        },
+        {
+          "text": "Je n'ai pas d'expérience dans ce métier.",
+          "trans": "I have no experience in this profession."
         }
       ],
       "gender": "f",
-      "plural": "expériences"
+      "plural": "expériences",
+      "related": [
+        {
+          "word": "expérimental",
+          "gloss": "experimental"
+        }
+      ]
     },
     "garçon": {
       "examples": [
@@ -3492,6 +3685,10 @@
         {
           "text": "C'est un garçon très gentil.",
           "trans": "He's a very nice young man."
+        },
+        {
+          "text": "Pas mal. Je joue un garçon qui a le cœur brisé.",
+          "trans": "Not bad. I play a boy who has a broken heart."
         }
       ],
       "forms": {
@@ -3517,13 +3714,19 @@
       "meanings": [
         {
           "en": "boy, young man",
-          "note": ""
+          "note": "Standard masculine noun meaning 'boy, young man'."
         }
       ],
       "moreForms": [],
       "plural": "garçons",
       "pos": "noun",
-      "stress": "ɡaʁsɔ̃"
+      "stress": "ɡaʁsɔ̃",
+      "related": [
+        {
+          "word": "le/la garçon",
+          "gloss": "the boy (with article)"
+        }
+      ]
     },
     "histoire": {
       "examples": [
@@ -3534,6 +3737,10 @@
         {
           "text": "Quelle histoire!",
           "trans": "What a story!"
+        },
+        {
+          "text": "C'est l'histoire d'un vieux couple.",
+          "trans": "It's the story of an old couple."
         }
       ],
       "forms": {
@@ -3569,7 +3776,13 @@
       "moreForms": [],
       "plural": "histoires",
       "pos": "noun",
-      "stress": "istwaʁ"
+      "stress": "istwaʁ",
+      "related": [
+        {
+          "word": "historique",
+          "gloss": "historical"
+        }
+      ]
     },
     "idée": {
       "examples": [
@@ -3580,6 +3793,10 @@
         {
           "text": "J'ai une idée!",
           "trans": "I have an idea!"
+        },
+        {
+          "text": "Paris? C'est une très bonne idée.",
+          "trans": "Paris? That's a very good idea."
         }
       ],
       "forms": {
@@ -3605,13 +3822,19 @@
       "meanings": [
         {
           "en": "idea",
-          "note": ""
+          "note": "Standard feminine noun meaning 'idea'."
         }
       ],
       "moreForms": [],
       "plural": "idées",
       "pos": "noun",
-      "stress": "ide"
+      "stress": "ide",
+      "related": [
+        {
+          "word": "le/la idée",
+          "gloss": "the idea (with article)"
+        }
+      ]
     },
     "je": {
       "examples": [
@@ -3622,6 +3845,10 @@
         {
           "text": "J'ai un loft.",
           "trans": "I've got a loft."
+        },
+        {
+          "text": "Gabriel! Je suis à mon cours d'équitation.",
+          "trans": "Gabriel! I'm at my horse-riding lesson."
         }
       ],
       "forms": null,
@@ -3635,7 +3862,8 @@
       ],
       "moreForms": [],
       "pos": "pron",
-      "stress": "ʒə"
+      "stress": "ʒə",
+      "related": []
     },
     "le": {
       "examples": [
@@ -3690,7 +3918,8 @@
       ],
       "moreForms": [],
       "pos": "det",
-      "stress": "lə"
+      "stress": "lə",
+      "related": []
     },
     "mais": {
       "examples": [
@@ -3701,6 +3930,10 @@
         {
           "text": "Mais oui!",
           "trans": "Yes, of course!"
+        },
+        {
+          "text": "Non, mais c'est important.",
+          "trans": "No, but it's important."
         }
       ],
       "forms": null,
@@ -3709,7 +3942,7 @@
       "meanings": [
         {
           "en": "but",
-          "note": ""
+          "note": "mais oui! = of course!"
         },
         {
           "en": "(emphasis)",
@@ -3718,7 +3951,13 @@
       ],
       "moreForms": [],
       "pos": "conj",
-      "stress": "mɛ"
+      "stress": "mɛ",
+      "related": [
+        {
+          "word": "maison",
+          "gloss": "house"
+        }
+      ]
     },
     "me": {
       "examples": [
@@ -3729,6 +3968,10 @@
         {
           "text": "Je m'appelle Camille.",
           "trans": "My name is Camille."
+        },
+        {
+          "text": "Il me connaît.",
+          "trans": "He knows me."
         }
       ],
       "forms": null,
@@ -3746,7 +3989,8 @@
       ],
       "moreForms": [],
       "pos": "pron",
-      "stress": "mə"
+      "stress": "mə",
+      "related": []
     },
     "merci": {
       "examples": [
@@ -3757,6 +4001,10 @@
         {
           "text": "Merci, au revoir!",
           "trans": "Thank you, goodbye!"
+        },
+        {
+          "text": "Merci.",
+          "trans": "Thank you."
         }
       ],
       "forms": null,
@@ -3770,7 +4018,17 @@
       ],
       "moreForms": [],
       "pos": "interj",
-      "stress": "mɛʁsi"
+      "stress": "mɛʁsi",
+      "related": [
+        {
+          "word": "remercier",
+          "gloss": "to thank"
+        },
+        {
+          "word": "mercredi",
+          "gloss": "Wednesday"
+        }
+      ]
     },
     "mesure": {
       "lemma": "mesure",
@@ -3780,7 +4038,7 @@
       "meanings": [
         {
           "en": "measurement (dimensions of body, clothing)",
-          "note": ""
+          "note": "Standard feminine noun meaning 'measurement; measure'."
         },
         {
           "en": "measure, action, step",
@@ -3813,10 +4071,20 @@
         {
           "text": "Prendre une mesure d'urgence.",
           "trans": "To take an emergency measure."
+        },
+        {
+          "text": "Je prends vos mesures rapidement.",
+          "trans": "I am taking your measurements quickly."
         }
       ],
       "gender": "f",
-      "plural": "mesures"
+      "plural": "mesures",
+      "related": [
+        {
+          "word": "le/la mesure",
+          "gloss": "the measurement (with article)"
+        }
+      ]
     },
     "mon": {
       "examples": [
@@ -3867,7 +4135,8 @@
       ],
       "moreForms": [],
       "pos": "det",
-      "stress": "mɔ̃"
+      "stress": "mɔ̃",
+      "related": []
     },
     "métier": {
       "examples": [
@@ -3878,6 +4147,10 @@
         {
           "text": "Quel est ton métier?",
           "trans": "What do you do for a living?"
+        },
+        {
+          "text": "Sans toi, je crois que j'arrêterais ce métier.",
+          "trans": "Without you, I think I'd quit this job."
         }
       ],
       "forms": {
@@ -3903,13 +4176,19 @@
       "meanings": [
         {
           "en": "job, profession, trade",
-          "note": ""
+          "note": "Standard masculine noun meaning 'job, trade, profession'."
         }
       ],
       "moreForms": [],
       "plural": "métiers",
       "pos": "noun",
-      "stress": "metje"
+      "stress": "metje",
+      "related": [
+        {
+          "word": "le/la métier",
+          "gloss": "the job (with article)"
+        }
+      ]
     },
     "naturel": {
       "examples": [
@@ -3920,6 +4199,10 @@
         {
           "text": "Elle est très naturelle.",
           "trans": "She is very natural."
+        },
+        {
+          "text": "Ne t'inquiète pas, sois naturelle.",
+          "trans": "Don't worry, be natural."
         }
       ],
       "forms": {
@@ -3951,12 +4234,22 @@
       "meanings": [
         {
           "en": "natural, unforced",
-          "note": ""
+          "note": "French relational/descriptive adjective derived from Latin adjectival roots."
         }
       ],
       "moreForms": [],
       "pos": "adj",
-      "stress": "natyʁɛl"
+      "stress": "natyʁɛl",
+      "related": [
+        {
+          "word": "naturellement",
+          "gloss": "naturally"
+        },
+        {
+          "word": "nature",
+          "gloss": "natural world"
+        }
+      ]
     },
     "ne": {
       "examples": [
@@ -3967,6 +4260,10 @@
         {
           "text": "Il n'a jamais joué.",
           "trans": "He has never played."
+        },
+        {
+          "text": "Je ne sais pas.",
+          "trans": "I don't know."
         }
       ],
       "forms": null,
@@ -3984,7 +4281,17 @@
       ],
       "moreForms": [],
       "pos": "part",
-      "stress": "nə"
+      "stress": "nə",
+      "related": [
+        {
+          "word": "pas",
+          "gloss": "not"
+        },
+        {
+          "word": "jamais",
+          "gloss": "never"
+        }
+      ]
     },
     "on": {
       "examples": [
@@ -3995,6 +4302,10 @@
         {
           "text": "On attend l'appel.",
           "trans": "We're waiting for the call."
+        },
+        {
+          "text": "On est au Westin. Tout le monde est là.",
+          "trans": "We're at the Westin. Everyone is here."
         }
       ],
       "forms": null,
@@ -4012,7 +4323,8 @@
       ],
       "moreForms": [],
       "pos": "pron",
-      "stress": "ɔ̃"
+      "stress": "ɔ̃",
+      "related": []
     },
     "pas": {
       "examples": [
@@ -4023,6 +4335,10 @@
         {
           "text": "Pas de problème.",
           "trans": "No problem."
+        },
+        {
+          "text": "Je ne suis pas actrice.",
+          "trans": "I'm not an actress."
         }
       ],
       "forms": null,
@@ -4044,7 +4360,8 @@
       ],
       "moreForms": [],
       "pos": "part",
-      "stress": "pa"
+      "stress": "pa",
+      "related": []
     },
     "pendant": {
       "examples": [
@@ -4055,6 +4372,10 @@
         {
           "text": "Je dors pendant le film.",
           "trans": "I sleep during the film."
+        },
+        {
+          "text": "Mon père a travaillé avec Samuel pendant quinze ans.",
+          "trans": "My father worked with Samuel for fifteen years."
         }
       ],
       "forms": null,
@@ -4072,7 +4393,17 @@
       ],
       "moreForms": [],
       "pos": "prep",
-      "stress": "pɑ̃dɑ̃"
+      "stress": "pɑ̃dɑ̃",
+      "related": [
+        {
+          "word": "dépendre",
+          "gloss": "to depend"
+        },
+        {
+          "word": "pendaison de crémaillère",
+          "gloss": "housewarming party"
+        }
+      ]
     },
     "pointure": {
       "lemma": "pointure",
@@ -4118,7 +4449,17 @@
         }
       ],
       "gender": "f",
-      "plural": "pointures"
+      "plural": "pointures",
+      "related": [
+        {
+          "word": "poing",
+          "gloss": "fist"
+        },
+        {
+          "word": "point",
+          "gloss": "point"
+        }
+      ]
     },
     "pour": {
       "examples": [
@@ -4129,6 +4470,10 @@
         {
           "text": "Je suis là pour voir Mathias.",
           "trans": "I'm here to see Mathias."
+        },
+        {
+          "text": "C'est comme un rêve pour moi.",
+          "trans": "It's like a dream for me."
         }
       ],
       "forms": null,
@@ -4137,7 +4482,7 @@
       "meanings": [
         {
           "en": "for",
-          "note": ""
+          "note": "before an infinitive: pour faire plaisir"
         },
         {
           "en": "to, in order to",
@@ -4146,7 +4491,21 @@
       ],
       "moreForms": [],
       "pos": "prep",
-      "stress": "puʁ"
+      "stress": "puʁ",
+      "related": [
+        {
+          "word": "pourquoi",
+          "gloss": "why"
+        },
+        {
+          "word": "pour cent",
+          "gloss": "percent"
+        },
+        {
+          "word": "pour de vrai",
+          "gloss": "for real"
+        }
+      ]
     },
     "pouvoir": {
       "examples": [
@@ -4306,7 +4665,13 @@
         }
       ],
       "pos": "verb",
-      "stress": "puvwaʁ"
+      "stress": "puvwaʁ",
+      "related": [
+        {
+          "word": "pouvez-vous",
+          "gloss": "can you"
+        }
+      ]
     },
     "prendre": {
       "examples": [
@@ -4359,7 +4724,7 @@
       "meanings": [
         {
           "en": "to take",
-          "note": ""
+          "note": "prends de la gelée royale = take some royal jelly"
         },
         {
           "en": "to have (food, drink)",
@@ -4490,7 +4855,13 @@
         }
       ],
       "pos": "verb",
-      "stress": "pʁɑ̃dʁ"
+      "stress": "pʁɑ̃dʁ",
+      "related": [
+        {
+          "word": "reprendre",
+          "gloss": "to take back"
+        }
+      ]
     },
     "présenter": {
       "examples": [
@@ -4501,6 +4872,10 @@
         {
           "text": "Je vous présente mes excuses.",
           "trans": "I apologise."
+        },
+        {
+          "text": "Au nom de l'agence, je vous présente mes excuses.",
+          "trans": "On behalf of the agency, I apologise."
         }
       ],
       "forms": {
@@ -4642,7 +5017,21 @@
         }
       ],
       "pos": "verb",
-      "stress": "pʁezɑ̃te"
+      "stress": "pʁezɑ̃te",
+      "related": [
+        {
+          "word": "représenter",
+          "gloss": "to represent"
+        },
+        {
+          "word": "imprésario",
+          "gloss": "impresario"
+        },
+        {
+          "word": "présentation",
+          "gloss": "introduction"
+        }
+      ]
     },
     "quarante-deux": {
       "examples": [
@@ -4653,6 +5042,10 @@
         {
           "text": "Elle a quarante-deux ans.",
           "trans": "She's forty-two."
+        },
+        {
+          "text": "Quarante ans? Quarante-deux?",
+          "trans": "Forty? Forty-two?"
         }
       ],
       "forms": null,
@@ -4661,12 +5054,26 @@
       "meanings": [
         {
           "en": "forty-two",
-          "note": ""
+          "note": "Everyday French num meaning 'forty-two'."
         }
       ],
       "moreForms": [],
       "pos": "num",
-      "stress": "kaʁɑ̃tdø"
+      "stress": "kaʁɑ̃tdø",
+      "related": [
+        {
+          "word": "quarante",
+          "gloss": "forty"
+        },
+        {
+          "word": "quarante-cinq",
+          "gloss": "forty-five"
+        },
+        {
+          "word": "quartier",
+          "gloss": "neighborhood"
+        }
+      ]
     },
     "quel": {
       "examples": [
@@ -4677,6 +5084,10 @@
         {
           "text": "Quelle heure est-il?",
           "trans": "What time is it?"
+        },
+        {
+          "text": "À quel âge ces caprices s'arrêtent-ils?",
+          "trans": "At what age do these whims stop?"
         }
       ],
       "forms": {
@@ -4717,7 +5128,21 @@
       ],
       "moreForms": [],
       "pos": "det",
-      "stress": "kɛl"
+      "stress": "kɛl",
+      "related": [
+        {
+          "word": "quelque chose",
+          "gloss": "something"
+        },
+        {
+          "word": "quelque",
+          "gloss": "some"
+        },
+        {
+          "word": "quelqu'un",
+          "gloss": "someone"
+        }
+      ]
     },
     "raconter": {
       "examples": [
@@ -4728,6 +5153,10 @@
         {
           "text": "Raconte-moi!",
           "trans": "Tell me all about it!"
+        },
+        {
+          "text": "Mais qu'est-ce que tu racontes?",
+          "trans": "What on earth are you talking about?"
         }
       ],
       "forms": {
@@ -4766,7 +5195,7 @@
       "meanings": [
         {
           "en": "to tell, to recount (a story, an event)",
-          "note": ""
+          "note": "qu'est-ce que tu racontes? = what are you talking about?"
         }
       ],
       "moreForms": [
@@ -4889,7 +5318,13 @@
         }
       ],
       "pos": "verb",
-      "stress": "ʁakɔ̃te"
+      "stress": "ʁakɔ̃te",
+      "related": [
+        {
+          "word": "racontation",
+          "gloss": "action of to tell"
+        }
+      ]
     },
     "rapidement": {
       "lemma": "rapidement",
@@ -4899,7 +5334,7 @@
       "meanings": [
         {
           "en": "at high speed, quickly",
-          "note": ""
+          "note": "Manner adverb formed by adding '-ment' (from Latin 'mente', 'with a ... mind') to the feminine adjective stem."
         }
       ],
       "forms": null,
@@ -4908,6 +5343,20 @@
         {
           "text": "Il lit le texte rapidement.",
           "trans": "He reads the text quickly."
+        },
+        {
+          "text": "D'accord, je vais le lire rapidement.",
+          "trans": "All right, I will read it quickly."
+        },
+        {
+          "text": "Le bilan de fin d'année approche rapidement.",
+          "trans": "The year-end review is approaching quickly."
+        }
+      ],
+      "related": [
+        {
+          "word": "rapide",
+          "gloss": "fast"
         }
       ]
     },
@@ -4920,6 +5369,10 @@
         {
           "text": "Je rentre à huit heures.",
           "trans": "I get home at eight."
+        },
+        {
+          "text": "Non, je rentre chez moi.",
+          "trans": "No, I'm going home."
         }
       ],
       "forms": {
@@ -5061,7 +5514,17 @@
         }
       ],
       "pos": "verb",
-      "stress": "ʁɑ̃tʁe"
+      "stress": "ʁɑ̃tʁe",
+      "related": [
+        {
+          "word": "contre",
+          "gloss": "against"
+        },
+        {
+          "word": "contrer",
+          "gloss": "to counter"
+        }
+      ]
     },
     "rôle": {
       "examples": [
@@ -5072,6 +5535,10 @@
         {
           "text": "C'est quoi le rôle?",
           "trans": "What's the part?"
+        },
+        {
+          "text": "Oui! Mon préféré, Pierre Niney, a un nouveau rôle.",
+          "trans": "Yes! My favourite, Pierre Niney, has a new part."
         }
       ],
       "forms": {
@@ -5103,7 +5570,13 @@
       "moreForms": [],
       "plural": "rôles",
       "pos": "noun",
-      "stress": "ʁol"
+      "stress": "ʁol",
+      "related": [
+        {
+          "word": "le/la rôle",
+          "gloss": "the role (with article)"
+        }
+      ]
     },
     "s'il vous plaît": {
       "examples": [
@@ -5114,6 +5587,10 @@
         {
           "text": "Asseyez-vous, s'il vous plaît.",
           "trans": "Have a seat, please."
+        },
+        {
+          "text": "Réservez-moi un massage, s'il vous plaît.",
+          "trans": "Book me a massage, please."
         }
       ],
       "forms": null,
@@ -5127,7 +5604,13 @@
       ],
       "moreForms": [],
       "pos": "phrase",
-      "stress": "silvuplɛ"
+      "stress": "silvuplɛ",
+      "related": [
+        {
+          "word": "s'il te plaît",
+          "gloss": "please"
+        }
+      ]
     },
     "savoir": {
       "examples": [
@@ -5285,8 +5768,8 @@
       "pos": "verb",
       "related": [
         {
-          "gloss": "to know (a person, a place)",
-          "word": "connaître"
+          "word": "connaître",
+          "gloss": "to know (a person, a place)"
         }
       ],
       "stress": "savwaʁ"
@@ -5299,7 +5782,7 @@
       "meanings": [
         {
           "en": "size (of clothing, shoes)",
-          "note": ""
+          "note": "Standard feminine noun meaning 'size; height; waist'."
         },
         {
           "en": "height, stature",
@@ -5336,10 +5819,20 @@
         {
           "text": "Une personne de grande taille.",
           "trans": "A tall person."
+        },
+        {
+          "text": "Ma taille est quarante-deux en France.",
+          "trans": "My size is forty-two in France."
         }
       ],
       "gender": "f",
-      "plural": "tailles"
+      "plural": "tailles",
+      "related": [
+        {
+          "word": "détail",
+          "gloss": "detail"
+        }
+      ]
     },
     "toujours": {
       "examples": [
@@ -5350,6 +5843,10 @@
         {
           "text": "Il est toujours là.",
           "trans": "He's still here."
+        },
+        {
+          "text": "Je suis sérieuse. J'ai toujours adoré le cinéma.",
+          "trans": "I'm serious. I've always loved films."
         }
       ],
       "forms": null,
@@ -5358,7 +5855,7 @@
       "meanings": [
         {
           "en": "always",
-          "note": ""
+          "note": "toujours aucune nouvelle? = still no news?"
         },
         {
           "en": "still",
@@ -5367,7 +5864,13 @@
       ],
       "moreForms": [],
       "pos": "adv",
-      "stress": "tuʒuʁ"
+      "stress": "tuʒuʁ",
+      "related": [
+        {
+          "word": "très toujours",
+          "gloss": "related adverbial expression (always)"
+        }
+      ]
     },
     "un": {
       "examples": [
@@ -5426,7 +5929,8 @@
       ],
       "moreForms": [],
       "pos": "det",
-      "stress": "œ̃"
+      "stress": "œ̃",
+      "related": []
     },
     "ventre": {
       "examples": [
@@ -5437,6 +5941,10 @@
         {
           "text": "J'ai mal au ventre.",
           "trans": "My stomach hurts."
+        },
+        {
+          "text": "Non, j'ai encore un peu de ventre.",
+          "trans": "No, I still have a bit of a tummy."
         }
       ],
       "forms": {
@@ -5468,7 +5976,21 @@
       "moreForms": [],
       "plural": "ventres",
       "pos": "noun",
-      "stress": "vɑ̃tʁ"
+      "stress": "vɑ̃tʁ",
+      "related": [
+        {
+          "word": "vent",
+          "gloss": "wind"
+        },
+        {
+          "word": "vente",
+          "gloss": "sale"
+        },
+        {
+          "word": "inventer",
+          "gloss": "to fabricate"
+        }
+      ]
     },
     "voilà": {
       "examples": [
@@ -5479,6 +6001,10 @@
         {
           "text": "Voilà, c'est fini.",
           "trans": "There you go, it's done."
+        },
+        {
+          "text": "Et voilà la salle de presse. On appelle ça la boutique.",
+          "trans": "And here's the press room. We call it the shop."
         }
       ],
       "forms": null,
@@ -5496,7 +6022,13 @@
       ],
       "moreForms": [],
       "pos": "adv",
-      "stress": "vwala"
+      "stress": "vwala",
+      "related": [
+        {
+          "word": "très voilà",
+          "gloss": "related adverbial expression (there is)"
+        }
+      ]
     },
     "voir": {
       "examples": [
@@ -5507,6 +6039,10 @@
         {
           "text": "On se voit demain?",
           "trans": "See you tomorrow?"
+        },
+        {
+          "text": "Magali, je dois voir la pièce de Koltès cette semaine.",
+          "trans": "Magali, I have to see the Koltès play this week."
         }
       ],
       "forms": {
@@ -5545,7 +6081,7 @@
       "meanings": [
         {
           "en": "to see",
-          "note": ""
+          "note": "n'avoir rien à voir avec = to have nothing to do with"
         },
         {
           "en": "to meet, to visit",
@@ -5648,7 +6184,13 @@
         }
       ],
       "pos": "verb",
-      "stress": "vwaʁ"
+      "stress": "vwaʁ",
+      "related": [
+        {
+          "word": "revoir",
+          "gloss": "to see again"
+        }
+      ]
     },
     "votre": {
       "examples": [
@@ -5659,6 +6201,10 @@
         {
           "text": "Laissez vos photos ici.",
           "trans": "Leave your photos here."
+        },
+        {
+          "text": "Laissez vos photos et votre CV ici.",
+          "trans": "Leave your photos and your CV here."
         }
       ],
       "forms": {
@@ -5695,7 +6241,8 @@
       ],
       "moreForms": [],
       "pos": "det",
-      "stress": "vɔtʁ"
+      "stress": "vɔtʁ",
+      "related": []
     },
     "vouloir": {
       "examples": [
@@ -5851,7 +6398,13 @@
         }
       ],
       "pos": "verb",
-      "stress": "vulwaʁ"
+      "stress": "vulwaʁ",
+      "related": [
+        {
+          "word": "revouloir",
+          "gloss": "verb family relative (to want)"
+        }
+      ]
     },
     "vous": {
       "examples": [
@@ -5887,7 +6440,13 @@
       ],
       "moreForms": [],
       "pos": "pron",
-      "stress": "vu"
+      "stress": "vu",
+      "related": [
+        {
+          "word": "tu",
+          "gloss": "you (informal)"
+        }
+      ]
     },
     "vraiment": {
       "examples": [
@@ -5898,6 +6457,10 @@
         {
           "text": "C'est vraiment sympa.",
           "trans": "It's really nice."
+        },
+        {
+          "text": "Je suis désolée. Vraiment désolée.",
+          "trans": "I'm sorry. Really sorry."
         }
       ],
       "forms": null,
@@ -5906,12 +6469,18 @@
       "meanings": [
         {
           "en": "really, truly",
-          "note": ""
+          "note": "Manner adverb formed by adding '-ment' (from Latin 'mente', 'with a ... mind') to the feminine adjective stem."
         }
       ],
       "moreForms": [],
       "pos": "adv",
-      "stress": "vʁɛmɑ̃"
+      "stress": "vʁɛmɑ̃",
+      "related": [
+        {
+          "word": "vrai",
+          "gloss": "true"
+        }
+      ]
     },
     "à": {
       "examples": [
@@ -5947,7 +6516,8 @@
       ],
       "moreForms": [],
       "pos": "prep",
-      "stress": "a"
+      "stress": "a",
+      "related": []
     },
     "être": {
       "examples": [
@@ -6127,7 +6697,13 @@
         }
       ],
       "pos": "verb",
-      "stress": "ɛtʁ"
+      "stress": "ɛtʁ",
+      "related": [
+        {
+          "word": "reêtre",
+          "gloss": "verb family relative (to be)"
+        }
+      ]
     }
   }
 }

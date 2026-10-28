@@ -126,11 +126,11 @@
         },
         {
           "t": "нелегалов.",
-          "lemma": "нелегалов",
+          "lemma": "нелегал",
           "pos": "noun",
           "stress": "нелега́лов",
           "gloss": "undocumented worker",
-          "gram": "noun"
+          "gram": "genitive plural"
         }
       ]
     },
@@ -454,11 +454,11 @@
         },
         {
           "t": "нелегалов.",
-          "lemma": "нелегалов",
+          "lemma": "нелегал",
           "pos": "noun",
           "stress": "нелега́лов",
           "gloss": "undocumented worker",
-          "gram": "noun"
+          "gram": "genitive plural"
         }
       ]
     },
@@ -782,11 +782,11 @@
         },
         {
           "t": "нелегалов.",
-          "lemma": "нелегалов",
+          "lemma": "нелегал",
           "pos": "noun",
           "stress": "нелега́лов",
           "gloss": "undocumented worker",
-          "gram": "noun"
+          "gram": "genitive plural"
         }
       ]
     },
@@ -1077,18 +1077,36 @@
         {
           "text": "Инспектор проверил кухню ресторана.",
           "trans": "The inspector checked the restaurant kitchen."
+        },
+        {
+          "text": "Инспекторы ищут нарушения.",
+          "trans": "Inspectors look for violations."
+        },
+        {
+          "text": "Инспекторы ищут нарушения только ради денег.",
+          "trans": "Inspectors look for violations only for money."
+        }
+      ],
+      "related": [
+        {
+          "word": "инспекция",
+          "gloss": "inspection"
+        },
+        {
+          "word": "проинспектировать",
+          "gloss": "inspect"
         }
       ]
     },
     "здесь": {
       "lemma": "здесь",
-      "stress": null,
+      "stress": "здесь",
       "pos": "adv",
       "gloss": "here",
       "meanings": [
         {
           "en": "here",
-          "note": ""
+          "note": "location"
         }
       ],
       "forms": null,
@@ -1101,6 +1119,16 @@
         {
           "text": "Мы здесь живём.",
           "trans": "We live here."
+        },
+        {
+          "text": "Мы же бизнесом здесь занимаемся.",
+          "trans": "But we're in business here."
+        }
+      ],
+      "related": [
+        {
+          "word": "тут",
+          "gloss": "here (colloquial)"
         }
       ]
     },
@@ -1112,14 +1140,58 @@
       "meanings": [
         {
           "en": "I",
-          "note": ""
+          "note": "меня = me (genitive/accusative), мне = to me (dative)"
         },
         {
           "en": "other forms: меня (gen/acc), мне (dat), мной (instr), мне (prep)",
           "note": "case forms"
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "я"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "меня"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "мне"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "меня"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "мной"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "мне"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -1129,6 +1201,20 @@
         {
           "text": "Я вырос здесь.",
           "trans": "I grew up here."
+        },
+        {
+          "text": "Шеф, я не брала.",
+          "trans": "Chef, I didn't take it."
+        }
+      ],
+      "related": [
+        {
+          "word": "меня",
+          "gloss": "me (genitive/accusative)"
+        },
+        {
+          "word": "мне",
+          "gloss": "to me (dative)"
         }
       ]
     },
@@ -1207,6 +1293,24 @@
         {
           "text": "Я не знаю.",
           "trans": "I don't know."
+        },
+        {
+          "text": "Спасибо, спасибо! Как вы все знаете, я родился и вырос в Синеозерске.",
+          "trans": "Thank you, thank you! As you all know, I was born and grew up in Sineozersk."
+        }
+      ],
+      "related": [
+        {
+          "word": "узнать",
+          "gloss": "to recognise"
+        },
+        {
+          "word": "признаться",
+          "gloss": "to confess"
+        },
+        {
+          "word": "признательный",
+          "gloss": "grateful"
         }
       ]
     },
@@ -1218,7 +1322,7 @@
       "meanings": [
         {
           "en": "he",
-          "note": ""
+          "note": "accusative/genitive его (него after prepositions), dative ему (нему)"
         },
         {
           "en": "it",
@@ -1229,7 +1333,51 @@
           "note": "case forms"
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "он"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "его"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "ему"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "его"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "им"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "нём"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -1239,8 +1387,13 @@
         {
           "text": "Надо его помыть.",
           "trans": "It needs a wash."
+        },
+        {
+          "text": "Очкарик! Держи его!",
+          "trans": "Four-eyes! Grab him!"
         }
-      ]
+      ],
+      "related": []
     },
     "хотеть": {
       "lemma": "хотеть",
@@ -1317,6 +1470,20 @@
         {
           "text": "Не хочешь, как хочешь.",
           "trans": "If you don't want to, suit yourself."
+        },
+        {
+          "text": "Там хотят построить торговый центр.",
+          "trans": "They want to build a shopping centre there."
+        }
+      ],
+      "related": [
+        {
+          "word": "захотеть",
+          "gloss": "to want"
+        },
+        {
+          "word": "хотеться",
+          "gloss": "to feel like"
         }
       ]
     },
@@ -1330,7 +1497,7 @@
       "meanings": [
         {
           "en": "to check, to test, to verify",
-          "note": ""
+          "note": "Prefix 'про-' indicates movement through, completion, or missing the mark (stem 'верить'). Used as an perfective (single completed action) verb meaning 'to check, to test', paired with 'проверять'."
         }
       ],
       "forms": {
@@ -1412,6 +1579,24 @@
         {
           "text": "Сейчас всё проверим.",
           "trans": "We'll check everything right now."
+        },
+        {
+          "text": "Вот с таким настроением и иди к Аникееву. Паяльник проверь.",
+          "trans": "Go to Anikeev in just that mood. Check the soldering iron."
+        }
+      ],
+      "related": [
+        {
+          "word": "проверять",
+          "gloss": "to check"
+        },
+        {
+          "word": "доверие",
+          "gloss": "trust"
+        },
+        {
+          "word": "верить",
+          "gloss": "to believe"
         }
       ]
     },
@@ -1492,6 +1677,16 @@
         {
           "text": "Три комнаты и большая кухня.",
           "trans": "Three rooms and a big kitchen."
+        },
+        {
+          "text": "А там кухня.",
+          "trans": "And the kitchen is over there."
+        }
+      ],
+      "related": [
+        {
+          "word": "кухнный",
+          "gloss": "related to kitchen (adj.)"
         }
       ]
     },
@@ -1516,6 +1711,24 @@
         {
           "text": "Пусть он придёт.",
           "trans": "Let him come."
+        },
+        {
+          "text": "Ты преподавай. А они пусть строят свои торговые центры.",
+          "trans": "You teach. And let them build their shopping centres."
+        }
+      ],
+      "related": [
+        {
+          "word": "пустить",
+          "gloss": "to let go"
+        },
+        {
+          "word": "пустой",
+          "gloss": "empty"
+        },
+        {
+          "word": "допустить",
+          "gloss": "to allow"
         }
       ]
     },
@@ -1529,7 +1742,7 @@
       "meanings": [
         {
           "en": "to check, test, verify",
-          "note": ""
+          "note": "Prefix 'про-' indicates movement through, completion, or missing the mark (stem 'верять'). Used as an imperfective (ongoing/repeated action) verb meaning 'to check, test, verify', paired with 'проверить'."
         }
       ],
       "forms": {
@@ -1611,6 +1824,20 @@
         {
           "text": "Учитель проверяет тетради.",
           "trans": "The teacher is checking notebooks."
+        },
+        {
+          "text": "Вы думаете, он нас проверяет?",
+          "trans": "You think he is testing us?"
+        }
+      ],
+      "related": [
+        {
+          "word": "проверить",
+          "gloss": "to check"
+        },
+        {
+          "word": "доверять",
+          "gloss": "to trust"
         }
       ]
     },
@@ -1624,7 +1851,7 @@
       "meanings": [
         {
           "en": "to look for, to search",
-          "note": ""
+          "note": "Prefix 'ис-' ('out from within') marks extraction or exhaustion (stem 'кать'). Used as an imperfective (ongoing/repeated action) verb meaning 'to look for'."
         }
       ],
       "forms": {
@@ -1706,6 +1933,10 @@
         {
           "text": "Что ты ищешь?",
           "trans": "What are you looking for?"
+        },
+        {
+          "text": "Ну что, довольна? Теперь новую работу искать.",
+          "trans": "Well, happy now? Now I have to look for a new job."
         }
       ],
       "related": [
@@ -1715,15 +1946,15 @@
         }
       ]
     },
-    "нелегалов": {
-      "lemma": "нелегалов",
-      "stress": "нелега́лов",
+    "нелегал": {
+      "lemma": "нелегал",
+      "stress": "нелега́л",
       "pos": "noun",
       "gloss": "undocumented worker",
       "meanings": [
         {
           "en": "undocumented worker",
-          "examples": []
+          "note": "Negative prefix 'не-' ('un-, non-, not') (stem 'легал'). Common masculine noun meaning 'undocumented worker' in everyday Russian."
         }
       ],
       "forms": {
@@ -1736,48 +1967,66 @@
         "rows": [
           {
             "cells": [
-              "nom",
-              "нелегалов",
-              "нелегаловы"
+              "nominative",
+              "нелегал",
+              "нелегалы"
             ]
           },
           {
             "cells": [
-              "gen",
-              "нелегалова",
-              "нелегаловов"
+              "genitive",
+              "нелегала",
+              "нелегалов"
             ]
           },
           {
             "cells": [
-              "dat",
-              "нелегалову",
-              "нелегаловам"
+              "dative",
+              "нелегалу",
+              "нелегалам"
             ]
           },
           {
             "cells": [
-              "acc",
-              "нелегалов",
-              "нелегаловы"
+              "accusative",
+              "нелегал",
+              "нелегалы"
             ]
           },
           {
             "cells": [
-              "inst",
-              "нелегаловом",
-              "нелегаловами"
+              "instrumental",
+              "нелегалом",
+              "нелегалами"
             ]
           },
           {
             "cells": [
-              "prep",
-              "нелегалове",
-              "нелегаловах"
+              "prepositional",
+              "нелегале",
+              "нелегалах"
             ]
           }
         ]
-      }
+      },
+      "gender": "m",
+      "moreForms": [],
+      "related": [
+        {
+          "word": "нелегальный",
+          "gloss": "illegal"
+        }
+      ],
+      "examples": [
+        {
+          "text": "Он ищет нелегалов.",
+          "trans": "He is looking for illegals."
+        },
+        {
+          "text": "Ещё один нелегал.",
+          "trans": "Another illegal."
+        }
+      ]
     },
     "у": {
       "lemma": "у",
@@ -1808,9 +2057,14 @@
         {
           "text": "Он у нас.",
           "trans": "He's at our place."
+        },
+        {
+          "text": "Привет! Смотри, что у меня есть.",
+          "trans": "Hi! Look what I've got."
         }
       ],
-      "governs": "+ genitive"
+      "governs": "+ genitive",
+      "related": []
     },
     "мы": {
       "lemma": "мы",
@@ -1820,14 +2074,58 @@
       "meanings": [
         {
           "en": "we",
-          "note": ""
+          "note": "нас = us (gen/acc/prep); у нас = we have, at our place"
         },
         {
           "en": "other forms: нас (gen/acc), нам (dat), нами (instr), нас (prep)",
           "note": "case forms"
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "мы"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "нас"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "нам"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "нас"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "нами"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "нас"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -1837,6 +2135,16 @@
         {
           "text": "У нас грязный унитаз.",
           "trans": "Our toilet is dirty."
+        },
+        {
+          "text": "Смотрите, какой у нас грязный унитаз!",
+          "trans": "Look, how dirty our toilet is!"
+        }
+      ],
+      "related": [
+        {
+          "word": "нас",
+          "gloss": "us (genitive/accusative/prepositional)"
         }
       ]
     },
@@ -1848,7 +2156,7 @@
       "meanings": [
         {
           "en": "they",
-          "note": ""
+          "note": "Core Russian pron meaning 'they' in everyday speech."
         }
       ],
       "forms": {
@@ -1905,8 +2213,13 @@
         {
           "text": "Их накажет история.",
           "trans": "History will punish them."
+        },
+        {
+          "text": "Ты преподавай. А они пусть строят свои торговые центры.",
+          "trans": "You teach. And let them build their shopping centres."
         }
-      ]
+      ],
+      "related": []
     },
     "нет": {
       "lemma": "нет",
@@ -1916,7 +2229,7 @@
       "meanings": [
         {
           "en": "no",
-          "note": ""
+          "note": "+ genitive: 'у нас нет выбора' = we have no choice"
         },
         {
           "en": "there isn't",
@@ -1933,8 +2246,13 @@
         {
           "text": "Нет? Ладно.",
           "trans": "No? All right."
+        },
+        {
+          "text": "Нет. Это моё.",
+          "trans": "No. That's mine."
         }
-      ]
+      ],
+      "related": []
     },
     "где": {
       "lemma": "где",
@@ -1944,7 +2262,7 @@
       "meanings": [
         {
           "en": "where",
-          "note": ""
+          "note": "location; for direction use 'куда'"
         }
       ],
       "forms": null,
@@ -1957,6 +2275,16 @@
         {
           "text": "Где папа?",
           "trans": "Where's Dad?"
+        },
+        {
+          "text": "А где машинка? Где моя машинка?",
+          "trans": "Hey, where's the toy car? Where's my toy car?"
+        }
+      ],
+      "related": [
+        {
+          "word": "очень где",
+          "gloss": "intensified / related adverb (where)"
         }
       ]
     },
@@ -1985,8 +2313,13 @@
         {
           "text": "Я вырос в коммуналке.",
           "trans": "I grew up in a communal flat."
+        },
+        {
+          "text": "Здравствуйте! Как там в Венгрии?",
+          "trans": "Hello! How was it in Hungary?"
         }
-      ]
+      ],
+      "related": []
     },
     "холодильник": {
       "lemma": "холодильник",
@@ -1997,7 +2330,7 @@
       "meanings": [
         {
           "en": "fridge, refrigerator",
-          "note": ""
+          "note": "Derived noun with agent/object suffix '-ник'/'-щик'/'-чик'. Common masculine noun meaning 'fridge' in everyday Russian."
         }
       ],
       "forms": {
@@ -2061,6 +2394,10 @@
         {
           "text": "Чей это холодильник?",
           "trans": "Whose fridge is this?"
+        },
+        {
+          "text": "Курица? Нет. А чей это холодильник?",
+          "trans": "Chicken? No. And whose fridge is this?"
         }
       ],
       "related": [
@@ -2078,7 +2415,7 @@
       "meanings": [
         {
           "en": "really well, excellently",
-          "note": ""
+          "note": "used as an exclamation of approval"
         },
         {
           "en": "great!, excellent!",
@@ -2095,6 +2432,24 @@
         {
           "text": "Всё прошло отлично.",
           "trans": "Everything went great."
+        },
+        {
+          "text": "Отлично, Ваня!",
+          "trans": "Perfect, Vanya!"
+        }
+      ],
+      "related": [
+        {
+          "word": "личный",
+          "gloss": "personal"
+        },
+        {
+          "word": "отличный",
+          "gloss": "excellent"
+        },
+        {
+          "word": "лично",
+          "gloss": "personally"
         }
       ]
     },
@@ -2234,6 +2589,20 @@
           "text": "Ты будешь просить прощения.",
           "trans": "You will be asking for forgiveness."
         }
+      ],
+      "related": [
+        {
+          "word": "забыть",
+          "gloss": "to forget"
+        },
+        {
+          "word": "добыть",
+          "gloss": "to get"
+        },
+        {
+          "word": "побыть",
+          "gloss": "to stay for a while"
+        }
       ]
     },
     "любезный": {
@@ -2244,7 +2613,7 @@
       "meanings": [
         {
           "en": "kind, obliging",
-          "note": ""
+          "note": "a very polite request"
         },
         {
           "en": "'Будьте любезны' = would you be so kind",
@@ -2348,6 +2717,20 @@
         {
           "text": "Он очень любезный.",
           "trans": "He's very polite."
+        },
+        {
+          "text": "Генерал Круглов ждёт звонка. Будьте любезны.",
+          "trans": "General Kruglov is waiting for a call. If you'd be so kind."
+        }
+      ],
+      "related": [
+        {
+          "word": "любезно",
+          "gloss": "in a kind way (adv.)"
+        },
+        {
+          "word": "любезность",
+          "gloss": "quality of being kind"
         }
       ]
     },
@@ -2361,7 +2744,7 @@
       "meanings": [
         {
           "en": "to open",
-          "note": ""
+          "note": "a door, a window"
         }
       ],
       "forms": {
@@ -2443,6 +2826,24 @@
         {
           "text": "Открой окно.",
           "trans": "Open the window."
+        },
+        {
+          "text": "Откройте дверь. Квартира девять?",
+          "trans": "Open the door. Is this flat nine?"
+        }
+      ],
+      "related": [
+        {
+          "word": "открывать",
+          "gloss": "to open"
+        },
+        {
+          "word": "закрыть",
+          "gloss": "to close"
+        },
+        {
+          "word": "закрытый",
+          "gloss": "closed"
         }
       ]
     },
@@ -2454,7 +2855,7 @@
       "meanings": [
         {
           "en": "please",
-          "note": ""
+          "note": "handing something over"
         },
         {
           "en": "you're welcome",
@@ -2475,6 +2876,16 @@
         {
           "text": "Спасибо! — Пожалуйста.",
           "trans": "Thank you! — You're welcome."
+        },
+        {
+          "text": "Проводите его, пожалуйста.",
+          "trans": "Please see him out."
+        }
+      ],
+      "related": [
+        {
+          "word": "пожалуй",
+          "gloss": "perhaps"
         }
       ]
     },
@@ -2574,6 +2985,20 @@
         {
           "text": "Я жду тебя.",
           "trans": "I'm waiting for you."
+        },
+        {
+          "text": "Так тебя не ждать сегодня?",
+          "trans": "So I shouldn't wait for you tonight?"
+        }
+      ],
+      "related": [
+        {
+          "word": "подождать",
+          "gloss": "to wait"
+        },
+        {
+          "word": "дождаться",
+          "gloss": "to wait for"
         }
       ]
     },
@@ -2654,6 +3079,24 @@
         {
           "text": "Конец связи.",
           "trans": "Over and out."
+        },
+        {
+          "text": "В конце фильма все счастливы.",
+          "trans": "At the end of the film everyone is happy."
+        }
+      ],
+      "related": [
+        {
+          "word": "конечно",
+          "gloss": "of course"
+        },
+        {
+          "word": "наконец",
+          "gloss": "at last"
+        },
+        {
+          "word": "наконец-то",
+          "gloss": "at last"
         }
       ]
     }

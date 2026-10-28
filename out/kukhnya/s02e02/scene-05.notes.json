@@ -94,7 +94,7 @@
           "pos": "noun",
           "stress": "су́ши",
           "gloss": "sushi",
-          "gram": "noun"
+          "gram": "nominative / accusative"
         }
       ]
     },
@@ -186,7 +186,7 @@
           "pos": "noun",
           "stress": "хачапу́ри",
           "gloss": "khachapuri (cheese bread)",
-          "gram": "noun"
+          "gram": "nominative / accusative"
         }
       ]
     },
@@ -212,11 +212,11 @@
         },
         {
           "t": "хачапурщика.",
-          "lemma": "хачапурщика",
+          "lemma": "хачапурщик",
           "pos": "noun",
           "stress": "хачапурщи́ка",
           "gloss": "khachapuri baker",
-          "gram": "noun"
+          "gram": "nominative / accusative"
         }
       ]
     },
@@ -254,7 +254,7 @@
           "pos": "noun",
           "stress": "хачапу́ри",
           "gloss": "khachapuri (cheese bread)",
-          "gram": "noun"
+          "gram": "nominative / accusative"
         }
       ]
     },
@@ -440,11 +440,11 @@
         },
         {
           "t": "уволилась.",
-          "lemma": "уволилась",
+          "lemma": "уволиться",
           "pos": "verb",
           "stress": "уволи́лась",
           "gloss": "quit, resign",
-          "gram": "verb"
+          "gram": "past tense, feminine singular"
         }
       ]
     },
@@ -542,7 +542,7 @@
           "pos": "noun",
           "stress": "су́ши",
           "gloss": "sushi",
-          "gram": "noun"
+          "gram": "nominative / accusative"
         }
       ]
     },
@@ -634,7 +634,7 @@
           "pos": "noun",
           "stress": "хачапу́ри",
           "gloss": "khachapuri (cheese bread)",
-          "gram": "noun"
+          "gram": "nominative / accusative"
         }
       ]
     },
@@ -660,11 +660,11 @@
         },
         {
           "t": "хачапурщика.",
-          "lemma": "хачапурщика",
+          "lemma": "хачапурщик",
           "pos": "noun",
           "stress": "хачапурщи́ка",
           "gloss": "khachapuri baker",
-          "gram": "noun"
+          "gram": "nominative / accusative"
         }
       ]
     },
@@ -702,7 +702,7 @@
           "pos": "noun",
           "stress": "хачапу́ри",
           "gloss": "khachapuri (cheese bread)",
-          "gram": "noun"
+          "gram": "nominative / accusative"
         }
       ]
     },
@@ -888,11 +888,11 @@
         },
         {
           "t": "уволилась.",
-          "lemma": "уволилась",
+          "lemma": "уволиться",
           "pos": "verb",
           "stress": "уволи́лась",
           "gloss": "quit, resign",
-          "gram": "verb"
+          "gram": "past tense, feminine singular"
         }
       ]
     },
@@ -990,7 +990,7 @@
           "pos": "noun",
           "stress": "су́ши",
           "gloss": "sushi",
-          "gram": "noun"
+          "gram": "nominative / accusative"
         }
       ]
     },
@@ -1082,7 +1082,7 @@
           "pos": "noun",
           "stress": "хачапу́ри",
           "gloss": "khachapuri (cheese bread)",
-          "gram": "noun"
+          "gram": "nominative / accusative"
         }
       ]
     },
@@ -1108,11 +1108,11 @@
         },
         {
           "t": "хачапурщика.",
-          "lemma": "хачапурщика",
+          "lemma": "хачапурщик",
           "pos": "noun",
           "stress": "хачапурщи́ка",
           "gloss": "khachapuri baker",
-          "gram": "noun"
+          "gram": "nominative / accusative"
         }
       ]
     },
@@ -1150,7 +1150,7 @@
           "pos": "noun",
           "stress": "хачапу́ри",
           "gloss": "khachapuri (cheese bread)",
-          "gram": "noun"
+          "gram": "nominative / accusative"
         }
       ]
     },
@@ -1336,11 +1336,11 @@
         },
         {
           "t": "уволилась.",
-          "lemma": "уволилась",
+          "lemma": "уволиться",
           "pos": "verb",
           "stress": "уволи́лась",
           "gloss": "quit, resign",
-          "gram": "verb"
+          "gram": "past tense, feminine singular"
         }
       ]
     },
@@ -1366,11 +1366,11 @@
         },
         {
           "t": "уволилась.",
-          "lemma": "уволилась",
+          "lemma": "уволиться",
           "pos": "verb",
           "stress": "уволи́лась",
           "gloss": "quit, resign",
-          "gram": "verb"
+          "gram": "past tense, feminine singular"
         }
       ]
     }
@@ -1405,9 +1405,14 @@
         {
           "text": "Он у нас.",
           "trans": "He's at our place."
+        },
+        {
+          "text": "Привет! Смотри, что у меня есть.",
+          "trans": "Hi! Look what I've got."
         }
       ],
-      "governs": "+ genitive"
+      "governs": "+ genitive",
+      "related": []
     },
     "мы": {
       "lemma": "мы",
@@ -1417,14 +1422,58 @@
       "meanings": [
         {
           "en": "we",
-          "note": ""
+          "note": "нас = us (gen/acc/prep); у нас = we have, at our place"
         },
         {
           "en": "other forms: нас (gen/acc), нам (dat), нами (instr), нас (prep)",
           "note": "case forms"
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "мы"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "нас"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "нам"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "нас"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "нами"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "нас"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -1434,6 +1483,16 @@
         {
           "text": "У нас грязный унитаз.",
           "trans": "Our toilet is dirty."
+        },
+        {
+          "text": "Смотрите, какой у нас грязный унитаз!",
+          "trans": "Look, how dirty our toilet is!"
+        }
+      ],
+      "related": [
+        {
+          "word": "нас",
+          "gloss": "us (genitive/accusative/prepositional)"
         }
       ]
     },
@@ -1445,7 +1504,7 @@
       "meanings": [
         {
           "en": "French",
-          "note": ""
+          "note": "Relational adjective formed with the Slavic suffix '-ский' ('pertaining to'). Agrees in gender, number, and case with the noun it modifies ('French')."
         }
       ],
       "forms": {
@@ -1523,6 +1582,20 @@
         {
           "text": "Я учу французский язык.",
           "trans": "I'm learning French."
+        },
+        {
+          "text": "А сам французский коньяк пьёшь.",
+          "trans": "And you're drinking French cognac yourself."
+        }
+      ],
+      "related": [
+        {
+          "word": "французско",
+          "gloss": "in a French way (adv.)"
+        },
+        {
+          "word": "французскость",
+          "gloss": "quality of being French"
         }
       ]
     },
@@ -1599,6 +1672,20 @@
         {
           "text": "Мы рады видеть вас в нашем ресторане.",
           "trans": "We are glad to see you in our restaurant."
+        },
+        {
+          "text": "Звонили из итальянского ресторана.",
+          "trans": "They called from the Italian restaurant."
+        }
+      ],
+      "related": [
+        {
+          "word": "реструктурировать",
+          "gloss": "to restructure"
+        },
+        {
+          "word": "ресторанный",
+          "gloss": "restaurant"
         }
       ]
     },
@@ -1627,8 +1714,13 @@
         {
           "text": "А где машинка?",
           "trans": "And where's the toy car?"
+        },
+        {
+          "text": "Папа, а жвачку ты привёз?",
+          "trans": "Dad, did you bring any gum?"
         }
-      ]
+      ],
+      "related": []
     },
     "не": {
       "lemma": "не",
@@ -1651,8 +1743,13 @@
         {
           "text": "Денег не хватило.",
           "trans": "There wasn't enough money."
+        },
+        {
+          "text": "Шеф, я не брала.",
+          "trans": "Chef, I didn't take it."
         }
-      ]
+      ],
+      "related": []
     },
     "японский": {
       "lemma": "японский",
@@ -1662,7 +1759,7 @@
       "meanings": [
         {
           "en": "Japanese",
-          "note": ""
+          "note": "Relational adjective formed with the Slavic suffix '-ский' ('pertaining to'). Agrees in gender, number, and case with the noun it modifies ('Japanese')."
         }
       ],
       "forms": {
@@ -1740,6 +1837,16 @@
         {
           "text": "Я учу японский язык.",
           "trans": "I'm learning Japanese."
+        },
+        {
+          "text": "Ого, магнитофон! Японский!",
+          "trans": "Wow, a tape recorder! A Japanese one!"
+        }
+      ],
+      "related": [
+        {
+          "word": "японец",
+          "gloss": "Japanese man"
         }
       ]
     },
@@ -1751,14 +1858,58 @@
       "meanings": [
         {
           "en": "I",
-          "note": ""
+          "note": "меня = me (genitive/accusative), мне = to me (dative)"
         },
         {
           "en": "other forms: меня (gen/acc), мне (dat), мной (instr), мне (prep)",
           "note": "case forms"
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "я"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "меня"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "мне"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "меня"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "мной"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "мне"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -1768,6 +1919,20 @@
         {
           "text": "Я вырос здесь.",
           "trans": "I grew up here."
+        },
+        {
+          "text": "Шеф, я не брала.",
+          "trans": "Chef, I didn't take it."
+        }
+      ],
+      "related": [
+        {
+          "word": "меня",
+          "gloss": "me (genitive/accusative)"
+        },
+        {
+          "word": "мне",
+          "gloss": "to me (dative)"
         }
       ]
     },
@@ -1859,6 +2024,20 @@
         {
           "text": "Я обожаю Францию.",
           "trans": "I adore France."
+        },
+        {
+          "text": "Я просто обожаю прекрасный Сен-Поль-де-Ванс!",
+          "trans": "I simply adore wonderful Saint-Paul-de-Vence!"
+        },
+        {
+          "text": "Я обожаю суши.",
+          "trans": "I adore sushi."
+        }
+      ],
+      "related": [
+        {
+          "word": "собожать",
+          "gloss": "aspect/prefix relative (to adore)"
         }
       ]
     },
@@ -1931,12 +2110,26 @@
         {
           "text": "Мы заказали суши на обед.",
           "trans": "We ordered sushi for lunch."
+        },
+        {
+          "text": "Порода суши... Ой, шицу!",
+          "trans": "Breed sushi... Oh, Shih Tzu!"
+        },
+        {
+          "text": "Тут есть пицца, суши и борщ.",
+          "trans": "They have pizza, sushi, and borscht here."
+        }
+      ],
+      "related": [
+        {
+          "word": "сушиный",
+          "gloss": "related to sushi (adj.)"
         }
       ]
     },
     "есть": {
       "lemma": "есть",
-      "stress": null,
+      "stress": "есть",
       "pos": "verb",
       "aspect": "impf",
       "pair": "съесть",
@@ -2026,6 +2219,24 @@
         {
           "text": "Что ты ешь?",
           "trans": "What are you eating?"
+        },
+        {
+          "text": "Я вчера ел маринованные грибы. Может, один гриб был плохой.",
+          "trans": "Yesterday I ate pickled mushrooms. Maybe one mushroom was bad."
+        }
+      ],
+      "related": [
+        {
+          "word": "съесть",
+          "gloss": "to eat"
+        },
+        {
+          "word": "сесть",
+          "gloss": "to sit down"
+        },
+        {
+          "word": "поесть",
+          "gloss": "to eat"
         }
       ]
     },
@@ -2037,7 +2248,7 @@
       "meanings": [
         {
           "en": "they",
-          "note": ""
+          "note": "Core Russian pron meaning 'they' in everyday speech."
         }
       ],
       "forms": {
@@ -2094,8 +2305,13 @@
         {
           "text": "Их накажет история.",
           "trans": "History will punish them."
+        },
+        {
+          "text": "Ты преподавай. А они пусть строят свои торговые центры.",
+          "trans": "You teach. And let them build their shopping centres."
         }
-      ]
+      ],
+      "related": []
     },
     "каждый": {
       "lemma": "каждый",
@@ -2183,6 +2399,20 @@
         {
           "text": "Каждый человек.",
           "trans": "Every person."
+        },
+        {
+          "text": "Аркаш, мне москвичи звонят каждый день. Может, всё-таки передумаем?",
+          "trans": "Arkasha, the people from Moscow call me every day. Maybe we should reconsider after all?"
+        }
+      ],
+      "related": [
+        {
+          "word": "каждо",
+          "gloss": "in a every way (adv.)"
+        },
+        {
+          "word": "каждость",
+          "gloss": "quality of being every"
         }
       ]
     },
@@ -2259,6 +2489,16 @@
         {
           "text": "Я позвоню на днях.",
           "trans": "I'll call in the next few days."
+        },
+        {
+          "text": "На днях, на сайте.",
+          "trans": "Any day now, on the website."
+        }
+      ],
+      "related": [
+        {
+          "word": "деньги",
+          "gloss": "money"
         }
       ]
     },
@@ -2283,8 +2523,13 @@
         {
           "text": "А если нет?",
           "trans": "And if not?"
+        },
+        {
+          "text": "Возьмите её, если хотите.",
+          "trans": "Take her if you want."
         }
-      ]
+      ],
+      "related": []
     },
     "ты": {
       "lemma": "ты",
@@ -2301,7 +2546,51 @@
           "note": "case forms"
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "ты"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "тебя"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "тебе"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "тебя"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "тобой"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "тебе"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -2311,6 +2600,20 @@
         {
           "text": "У тебя есть ещё?",
           "trans": "Have you got any more?"
+        },
+        {
+          "text": "Папа, а жвачку ты привёз?",
+          "trans": "Dad, did you bring any gum?"
+        }
+      ],
+      "related": [
+        {
+          "word": "тебя",
+          "gloss": "you (genitive/accusative)"
+        },
+        {
+          "word": "тебе",
+          "gloss": "to you (dative)"
         }
       ]
     },
@@ -2389,6 +2692,20 @@
         {
           "text": "Если захочешь, позвони.",
           "trans": "If you want, call me."
+        },
+        {
+          "text": "Всё, что захотим, говоришь?",
+          "trans": "Everything we want, you say?"
+        }
+      ],
+      "related": [
+        {
+          "word": "хотеть",
+          "gloss": "to want"
+        },
+        {
+          "word": "хотеться",
+          "gloss": "to feel like"
         }
       ]
     },
@@ -2400,7 +2717,7 @@
       "meanings": [
         {
           "en": "khachapuri (cheese bread)",
-          "examples": []
+          "note": "Common masculine noun meaning 'khachapuri (cheese bread)' in everyday Russian."
         }
       ],
       "forms": {
@@ -2413,48 +2730,66 @@
         "rows": [
           {
             "cells": [
-              "nom",
+              "nominative",
               "хачапури",
-              "хачапуриы"
+              "хачапури"
             ]
           },
           {
             "cells": [
-              "gen",
-              "хачапуриа",
-              "хачапуриов"
-            ]
-          },
-          {
-            "cells": [
-              "dat",
-              "хачапуриу",
-              "хачапуриам"
-            ]
-          },
-          {
-            "cells": [
-              "acc",
+              "genitive",
               "хачапури",
-              "хачапуриы"
+              "хачапури"
             ]
           },
           {
             "cells": [
-              "inst",
-              "хачапуриом",
-              "хачапуриами"
+              "dative",
+              "хачапури",
+              "хачапури"
             ]
           },
           {
             "cells": [
-              "prep",
-              "хачапурие",
-              "хачапуриах"
+              "accusative",
+              "хачапури",
+              "хачапури"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "хачапури",
+              "хачапури"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "хачапури",
+              "хачапури"
             ]
           }
         ]
-      }
+      },
+      "gender": "m",
+      "moreForms": [],
+      "related": [
+        {
+          "word": "хачапурщик",
+          "gloss": "khachapuri baker"
+        }
+      ],
+      "examples": [
+        {
+          "text": "А если ты захочешь хачапури?",
+          "trans": "And what if you want khachapuri?"
+        },
+        {
+          "text": "Я умею готовить хачапури.",
+          "trans": "I know how to cook khachapuri."
+        }
+      ]
     },
     "вызвать": {
       "lemma": "вызвать",
@@ -2466,7 +2801,7 @@
       "meanings": [
         {
           "en": "to call for, to summon (a taxi, driver, police, doctor)",
-          "note": ""
+          "note": "Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'звать'). Used as an perfective (single completed action) verb meaning 'to call, to summon', paired with 'вызывать'."
         }
       ],
       "forms": {
@@ -2548,18 +2883,36 @@
         {
           "text": "Мы сразу вызвали скорую помощь.",
           "trans": "We immediately called an ambulance."
+        },
+        {
+          "text": "Ты же не помнишь ничего. Ты вызвал трезвого водителя!",
+          "trans": "You don't remember anything, after all. You called a sober driver!"
+        }
+      ],
+      "related": [
+        {
+          "word": "вызывать",
+          "gloss": "to cause"
+        },
+        {
+          "word": "звать",
+          "gloss": "to call"
+        },
+        {
+          "word": "назвать",
+          "gloss": "to call"
         }
       ]
     },
-    "хачапурщика": {
-      "lemma": "хачапурщика",
-      "stress": "хачапурщи́ка",
+    "хачапурщик": {
+      "lemma": "хачапурщик",
+      "stress": "хачапу́рщик",
       "pos": "noun",
       "gloss": "khachapuri baker",
       "meanings": [
         {
           "en": "khachapuri baker",
-          "examples": []
+          "note": "Derived noun with agent/object suffix '-ник'/'-щик'/'-чик'. Common masculine noun meaning 'khachapuri baker' in everyday Russian."
         }
       ],
       "forms": {
@@ -2572,48 +2925,66 @@
         "rows": [
           {
             "cells": [
-              "nom",
+              "nominative",
+              "хачапурщик",
+              "хачапурщики"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
               "хачапурщика",
-              "хачапурщикаы"
+              "хачапурщиков"
             ]
           },
           {
             "cells": [
-              "gen",
-              "хачапурщикаа",
-              "хачапурщикаов"
+              "dative",
+              "хачапурщику",
+              "хачапурщикам"
             ]
           },
           {
             "cells": [
-              "dat",
-              "хачапурщикау",
-              "хачапурщикаам"
+              "accusative",
+              "хачапурщик",
+              "хачапурщики"
             ]
           },
           {
             "cells": [
-              "acc",
-              "хачапурщика",
-              "хачапурщикаы"
+              "instrumental",
+              "хачапурщиком",
+              "хачапурщиками"
             ]
           },
           {
             "cells": [
-              "inst",
-              "хачапурщикаом",
-              "хачапурщикаами"
-            ]
-          },
-          {
-            "cells": [
-              "prep",
-              "хачапурщикае",
-              "хачапурщикаах"
+              "prepositional",
+              "хачапурщике",
+              "хачапурщиках"
             ]
           }
         ]
-      }
+      },
+      "gender": "m",
+      "moreForms": [],
+      "related": [
+        {
+          "word": "хачапури",
+          "gloss": "khachapuri"
+        }
+      ],
+      "examples": [
+        {
+          "text": "Я вызову хачапурщика.",
+          "trans": "I will call a khachapuri maker."
+        },
+        {
+          "text": "Это слово «хачапурщик» часто звучит в разговоре.",
+          "trans": "This word 'khachapuri baker' is often heard in conversation."
+        }
+      ]
     },
     "уметь": {
       "lemma": "уметь",
@@ -2690,6 +3061,24 @@
         {
           "text": "Он не умеет считать.",
           "trans": "He can't count."
+        },
+        {
+          "text": "Эх, Паша, Паша. Ты считать не умеешь.",
+          "trans": "Oh, Pasha, Pasha. You can't count."
+        }
+      ],
+      "related": [
+        {
+          "word": "суметь",
+          "gloss": "to know how to"
+        },
+        {
+          "word": "неметь",
+          "gloss": "to go numb"
+        },
+        {
+          "word": "сметь",
+          "gloss": "to dare"
         }
       ]
     },
@@ -2703,7 +3092,7 @@
       "meanings": [
         {
           "en": "to cook",
-          "note": ""
+          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to cook; to prepare', paired with 'приготовить'."
         },
         {
           "en": "to prepare",
@@ -2772,6 +3161,24 @@
         {
           "text": "Мама хорошо готовит.",
           "trans": "Mum cooks well."
+        },
+        {
+          "text": "Я уже не могу готовить, стирать, убирать. Я хочу на море!",
+          "trans": "I can't take the cooking, washing and cleaning any more. I want to go to the sea!"
+        }
+      ],
+      "related": [
+        {
+          "word": "приготовить",
+          "gloss": "to prepare"
+        },
+        {
+          "word": "готовый",
+          "gloss": "ready"
+        },
+        {
+          "word": "подготовить",
+          "gloss": "to prepare"
         }
       ]
     },
@@ -2862,6 +3269,20 @@
         {
           "text": "Заткнись и работай дальше.",
           "trans": "Shut up and keep working."
+        },
+        {
+          "text": "Заткнись, Вика, я никогда не делаю ошибок!",
+          "trans": "Shut up, Vika, I never make mistakes!"
+        },
+        {
+          "text": "Заткнись, рыжая, не мешай мне спокойно работать!",
+          "trans": "Shut up, redhead, do not disturb me working peacefully!"
+        }
+      ],
+      "related": [
+        {
+          "word": "наткнуться",
+          "gloss": "to bump into"
         }
       ]
     },
@@ -2873,7 +3294,7 @@
       "meanings": [
         {
           "en": "and",
-          "note": ""
+          "note": "emphasis: вот поэтому ты и... = that's exactly why you..."
         }
       ],
       "forms": null,
@@ -2886,8 +3307,13 @@
         {
           "text": "Папа и мама.",
           "trans": "Dad and Mum."
+        },
+        {
+          "text": "Спасибо, спасибо! Как вы все знаете, я родился и вырос в Синеозерске.",
+          "trans": "Thank you, thank you! As you all know, I was born and grew up in Sineozersk."
         }
-      ]
+      ],
+      "related": []
     },
     "пойти": {
       "lemma": "пойти",
@@ -2981,12 +3407,22 @@
         {
           "text": "Пойдём домой.",
           "trans": "Let's go home."
+        },
+        {
+          "text": "А можно я пойду посмотрю?",
+          "trans": "Can I go and have a look?"
+        }
+      ],
+      "related": [
+        {
+          "word": "идти",
+          "gloss": "to go"
         }
       ]
     },
     "вон": {
       "lemma": "вон",
-      "stress": null,
+      "stress": "вон",
       "pos": "part",
       "gloss": "over there",
       "meanings": [
@@ -3009,6 +3445,10 @@
         {
           "text": "Да вон он!",
           "trans": "There he is!"
+        },
+        {
+          "text": "Да вон, курица.",
+          "trans": "There's chicken, over there."
         }
       ],
       "related": [
@@ -3039,9 +3479,14 @@
         {
           "text": "Я с папой.",
           "trans": "I'm with Dad."
+        },
+        {
+          "text": "Со всеми поделись поровну, понял?",
+          "trans": "Share it all equally with everyone, understand?"
         }
       ],
-      "governs": "+ instrumental"
+      "governs": "+ instrumental",
+      "related": []
     },
     "невозможно": {
       "lemma": "невозможно",
@@ -3064,6 +3509,24 @@
         {
           "text": "Здесь невозможно работать.",
           "trans": "It's impossible to work here."
+        },
+        {
+          "text": "Это невозможно!",
+          "trans": "That's impossible!"
+        }
+      ],
+      "related": [
+        {
+          "word": "возможность",
+          "gloss": "possibility"
+        },
+        {
+          "word": "возможный",
+          "gloss": "possible"
+        },
+        {
+          "word": "возмутительный",
+          "gloss": "outrageous"
         }
       ]
     },
@@ -3077,7 +3540,7 @@
       "meanings": [
         {
           "en": "to talk, to speak, to have a conversation",
-          "note": ""
+          "note": "Prefix 'раз-' ('apart, un-, thoroughly') indicates distribution or intensive action (stem 'говаривать'). Used as an imperfective (ongoing/repeated action) verb meaning 'to talk, to speak'."
         }
       ],
       "forms": {
@@ -3142,6 +3605,20 @@
         {
           "text": "Мы разговариваем.",
           "trans": "We're talking."
+        },
+        {
+          "text": "А что вы так грубо разговариваете?",
+          "trans": "Why are you talking so rudely?"
+        }
+      ],
+      "related": [
+        {
+          "word": "договариваться",
+          "gloss": "to agree"
+        },
+        {
+          "word": "наговаривать",
+          "gloss": "slander"
         }
       ]
     },
@@ -3170,6 +3647,16 @@
         {
           "text": "Твой звонок очень кстати.",
           "trans": "Your call is very well-timed."
+        },
+        {
+          "text": "Кстати, если хочешь, иди к нам в команду. Шансы у нас огромные.",
+          "trans": "By the way, if you want, join our team. Our chances are huge."
+        }
+      ],
+      "related": [
+        {
+          "word": "очень кстати",
+          "gloss": "intensified / related adverb (by the way)"
         }
       ]
     },
@@ -3265,9 +3752,27 @@
         {
           "text": "Где вы работаете?",
           "trans": "Where do you work?"
+        },
+        {
+          "text": "Я уже четыре года работаю мэром.",
+          "trans": "I've been working as mayor for four years now."
         }
       ],
-      "governs": "+ instrumental (as)"
+      "governs": "+ instrumental (as)",
+      "related": [
+        {
+          "word": "поработать",
+          "gloss": "to work for a while"
+        },
+        {
+          "word": "работа",
+          "gloss": "work"
+        },
+        {
+          "word": "рабочий",
+          "gloss": "working"
+        }
+      ]
     },
     "она": {
       "lemma": "она",
@@ -3290,8 +3795,13 @@
         {
           "text": "Я о ней не слышал.",
           "trans": "I haven't heard of her."
+        },
+        {
+          "text": "Паша, я больше не хочу о ней слышать. Понял?",
+          "trans": "Pasha, I don't want to hear about her again. Understood?"
         }
-      ]
+      ],
+      "related": []
     },
     "уволить": {
       "lemma": "уволить",
@@ -3368,12 +3878,26 @@
         {
           "text": "Его уволили.",
           "trans": "He was fired."
+        },
+        {
+          "text": "Давай мы его уволим, а тебя на его место назначим.",
+          "trans": "Let's fire him and put you in his place."
+        }
+      ],
+      "related": [
+        {
+          "word": "увольнять",
+          "gloss": "to fire"
+        },
+        {
+          "word": "уволиться",
+          "gloss": "quit"
         }
       ]
     },
     "сам": {
       "lemma": "сам",
-      "stress": null,
+      "stress": "сам",
       "pos": "pron",
       "gloss": "oneself (myself, yourself...)",
       "meanings": [
@@ -3382,7 +3906,72 @@
           "note": "сам, сама, само, сами"
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "m",
+          "f",
+          "n",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "сам",
+              "сама",
+              "само",
+              "сами"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "самого",
+              "самой",
+              "самого",
+              "самих"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "самому",
+              "самой",
+              "самому",
+              "самим"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "сам / самого",
+              "саму",
+              "само",
+              "сами / самих"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "самим",
+              "самой",
+              "самим",
+              "самими"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "самом",
+              "самой",
+              "самом",
+              "самих"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -3392,18 +3981,23 @@
         {
           "text": "Он сам знает.",
           "trans": "He knows himself."
+        },
+        {
+          "text": "Я и сама хорошо проведу время.",
+          "trans": "I'll have a good time on my own."
         }
-      ]
+      ],
+      "related": []
     },
-    "уволилась": {
-      "lemma": "уволилась",
-      "stress": "уволи́лась",
+    "уволиться": {
+      "lemma": "уволиться",
+      "stress": "уво́литься",
       "pos": "verb",
       "gloss": "quit, resign",
       "meanings": [
         {
           "en": "quit, resign",
-          "examples": []
+          "note": "Prefix 'у-' marks departure, removal, or successful completion (stem 'волиться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'quit, resign'."
         }
       ],
       "forms": {
@@ -3436,7 +4030,47 @@
             ]
           }
         ]
-      }
+      },
+      "aspect": "impf",
+      "moreForms": [
+        {
+          "title": "Past",
+          "columns": [
+            "",
+            "m",
+            "f",
+            "n",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "past",
+                "уволился",
+                "уволилась",
+                "уволилось",
+                "уволились"
+              ]
+            }
+          ]
+        }
+      ],
+      "related": [
+        {
+          "word": "уволить",
+          "gloss": "to fire"
+        }
+      ],
+      "examples": [
+        {
+          "text": "Ты можешь уволиться в любой момент.",
+          "trans": "You can quit at any moment."
+        },
+        {
+          "text": "Она сама уволилась.",
+          "trans": "She quit herself."
+        }
+      ]
     }
   }
 }

@@ -98,7 +98,7 @@
         },
         {
           "t": "флоте",
-          "lemma": "флоте",
+          "lemma": "флот",
           "pos": "noun",
           "stress": "фло́те",
           "gloss": "navy, fleet",
@@ -140,7 +140,7 @@
           "pos": "noun",
           "stress": "ре́мни",
           "gloss": "belt, strap",
-          "gram": "noun"
+          "gram": "nominative / accusative"
         },
         {
           "t": "тоже",
@@ -284,7 +284,7 @@
           "pos": "verb",
           "stress": null,
           "gloss": "eat",
-          "gram": "verb"
+          "gram": "2nd person singular"
         },
         {
           "t": "мой",
@@ -368,7 +368,7 @@
           "pos": "verb",
           "stress": "ра́збей",
           "gloss": "to break, to smash, to wreck (a car)",
-          "gram": "verb"
+          "gram": "conjugated verb"
         }
       ]
     },
@@ -506,7 +506,7 @@
         },
         {
           "t": "флоте",
-          "lemma": "флоте",
+          "lemma": "флот",
           "pos": "noun",
           "stress": "фло́те",
           "gloss": "navy, fleet",
@@ -548,7 +548,7 @@
           "pos": "noun",
           "stress": "ре́мни",
           "gloss": "belt, strap",
-          "gram": "noun"
+          "gram": "nominative / accusative"
         },
         {
           "t": "тоже",
@@ -692,7 +692,7 @@
           "pos": "verb",
           "stress": null,
           "gloss": "eat",
-          "gram": "verb"
+          "gram": "2nd person singular"
         },
         {
           "t": "мой",
@@ -776,7 +776,7 @@
           "pos": "verb",
           "stress": "ра́збей",
           "gloss": "to break, to smash, to wreck (a car)",
-          "gram": "verb"
+          "gram": "conjugated verb"
         }
       ]
     },
@@ -914,7 +914,7 @@
         },
         {
           "t": "флоте",
-          "lemma": "флоте",
+          "lemma": "флот",
           "pos": "noun",
           "stress": "фло́те",
           "gloss": "navy, fleet",
@@ -956,7 +956,7 @@
           "pos": "noun",
           "stress": "ре́мни",
           "gloss": "belt, strap",
-          "gram": "noun"
+          "gram": "nominative / accusative"
         },
         {
           "t": "тоже",
@@ -1100,7 +1100,7 @@
           "pos": "verb",
           "stress": null,
           "gloss": "eat",
-          "gram": "verb"
+          "gram": "2nd person singular"
         },
         {
           "t": "мой",
@@ -1184,7 +1184,7 @@
           "pos": "verb",
           "stress": "ра́збей",
           "gloss": "to break, to smash, to wreck (a car)",
-          "gram": "verb"
+          "gram": "conjugated verb"
         }
       ]
     },
@@ -1255,7 +1255,51 @@
           "note": "case forms"
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "ты"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "тебя"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "тебе"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "тебя"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "тобой"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "тебе"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -1265,6 +1309,20 @@
         {
           "text": "У тебя есть ещё?",
           "trans": "Have you got any more?"
+        },
+        {
+          "text": "Папа, а жвачку ты привёз?",
+          "trans": "Dad, did you bring any gum?"
+        }
+      ],
+      "related": [
+        {
+          "word": "тебя",
+          "gloss": "you (genitive/accusative)"
+        },
+        {
+          "word": "тебе",
+          "gloss": "to you (dative)"
         }
       ]
     },
@@ -1356,6 +1414,24 @@
         {
           "text": "Повар жарит сочное мясо на сковороде.",
           "trans": "The cook fries juicy meat on the pan."
+        },
+        {
+          "text": "Нет, Федя сам жарил эту куропатку!",
+          "trans": "No, Fedya roasted that partridge himself!"
+        },
+        {
+          "text": "Я просто жарю рыбу на горячей сковороде.",
+          "trans": "I simply fry fish on a hot pan."
+        }
+      ],
+      "related": [
+        {
+          "word": "пожарить",
+          "gloss": "to fry"
+        },
+        {
+          "word": "пережарить",
+          "gloss": "to overcook"
         }
       ]
     },
@@ -1380,8 +1456,13 @@
         {
           "text": "Денег не хватило.",
           "trans": "There wasn't enough money."
+        },
+        {
+          "text": "Шеф, я не брала.",
+          "trans": "Chef, I didn't take it."
         }
-      ]
+      ],
+      "related": []
     },
     "уметь": {
       "lemma": "уметь",
@@ -1458,6 +1539,24 @@
         {
           "text": "Он не умеет считать.",
           "trans": "He can't count."
+        },
+        {
+          "text": "Эх, Паша, Паша. Ты считать не умеешь.",
+          "trans": "Oh, Pasha, Pasha. You can't count."
+        }
+      ],
+      "related": [
+        {
+          "word": "суметь",
+          "gloss": "to know how to"
+        },
+        {
+          "word": "неметь",
+          "gloss": "to go numb"
+        },
+        {
+          "word": "сметь",
+          "gloss": "to dare"
         }
       ]
     },
@@ -1534,6 +1633,16 @@
         {
           "text": "Очень вкусное мясо!",
           "trans": "Very tasty meat!"
+        },
+        {
+          "text": "И мой тоже готов! А ты где мясо берёшь?",
+          "trans": "And mine is ready too! Where do you get your meat?"
+        }
+      ],
+      "related": [
+        {
+          "word": "мясокомбинат",
+          "gloss": "meatpacking plant"
         }
       ]
     },
@@ -1623,6 +1732,20 @@
         {
           "text": "Мясо было жёсткое.",
           "trans": "The meat was tough."
+        },
+        {
+          "text": "Лидер должен быть жёстким.",
+          "trans": "A leader has to be tough."
+        }
+      ],
+      "related": [
+        {
+          "word": "жёстко",
+          "gloss": "in a tough way (adv.)"
+        },
+        {
+          "word": "жёсткость",
+          "gloss": "quality of being tough"
         }
       ]
     },
@@ -1651,6 +1774,16 @@
         {
           "text": "Как вы все знаете...",
           "trans": "As you all know..."
+        },
+        {
+          "text": "Здравствуйте! Как там в Венгрии?",
+          "trans": "Hello! How was it in Hungary?"
+        }
+      ],
+      "related": [
+        {
+          "word": "очень как",
+          "gloss": "intensified / related adverb (how)"
         }
       ]
     },
@@ -1662,7 +1795,7 @@
       "meanings": [
         {
           "en": "shoe sole",
-          "examples": []
+          "note": "Prefix 'под-' ('under, up to') indicates approaching or supporting from below (stem 'ошва'). Common feminine noun meaning 'shoe sole' in everyday Russian."
         }
       ],
       "forms": {
@@ -1675,48 +1808,66 @@
         "rows": [
           {
             "cells": [
-              "nom",
+              "nominative",
               "подошва",
-              "подошваы"
+              "подошвы"
             ]
           },
           {
             "cells": [
-              "gen",
-              "подошваа",
-              "подошваов"
+              "genitive",
+              "подошвы",
+              "подошв"
             ]
           },
           {
             "cells": [
-              "dat",
-              "подошвау",
-              "подошваам"
+              "dative",
+              "подошве",
+              "подошвам"
             ]
           },
           {
             "cells": [
-              "acc",
-              "подошва",
-              "подошваы"
+              "accusative",
+              "подошву",
+              "подошвы"
             ]
           },
           {
             "cells": [
-              "inst",
-              "подошваом",
-              "подошваами"
+              "instrumental",
+              "подошвой",
+              "подошвами"
             ]
           },
           {
             "cells": [
-              "prep",
-              "подошвае",
-              "подошваах"
+              "prepositional",
+              "подошве",
+              "подошвах"
             ]
           }
         ]
-      }
+      },
+      "gender": "f",
+      "moreForms": [],
+      "related": [
+        {
+          "word": "подошвный",
+          "gloss": "related to shoe sole (adj.)"
+        }
+      ],
+      "examples": [
+        {
+          "text": "Мясо жёсткое, как подошва.",
+          "trans": "The meat is tough as a shoe sole."
+        },
+        {
+          "text": "Наши войска подошли и спасли город.",
+          "trans": "Our troops arrived and saved the town."
+        }
+      ]
     },
     "мы": {
       "lemma": "мы",
@@ -1726,14 +1877,58 @@
       "meanings": [
         {
           "en": "we",
-          "note": ""
+          "note": "нас = us (gen/acc/prep); у нас = we have, at our place"
         },
         {
           "en": "other forms: нас (gen/acc), нам (dat), нами (instr), нас (prep)",
           "note": "case forms"
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "мы"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "нас"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "нам"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "нас"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "нами"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "нас"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -1743,6 +1938,16 @@
         {
           "text": "У нас грязный унитаз.",
           "trans": "Our toilet is dirty."
+        },
+        {
+          "text": "Смотрите, какой у нас грязный унитаз!",
+          "trans": "Look, how dirty our toilet is!"
+        }
+      ],
+      "related": [
+        {
+          "word": "нас",
+          "gloss": "us (genitive/accusative/prepositional)"
         }
       ]
     },
@@ -1771,18 +1976,23 @@
         {
           "text": "Он идёт на второй срок.",
           "trans": "He is running for a second term."
+        },
+        {
+          "text": "Я очень люблю наш город. Поэтому я иду на второй срок.",
+          "trans": "I love our town very much. That's why I'm running for a second term."
         }
-      ]
+      ],
+      "related": []
     },
-    "флоте": {
-      "lemma": "флоте",
-      "stress": "фло́те",
+    "флот": {
+      "lemma": "флот",
+      "stress": "флот",
       "pos": "noun",
       "gloss": "navy, fleet",
       "meanings": [
         {
           "en": "navy, fleet",
-          "examples": []
+          "note": "Common masculine noun meaning 'navy, fleet' in everyday Russian."
         }
       ],
       "forms": {
@@ -1795,48 +2005,66 @@
         "rows": [
           {
             "cells": [
-              "nom",
+              "nominative",
+              "флот",
+              "флоты"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "флота",
+              "флотов"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "флоту",
+              "флотам"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "флот",
+              "флоты"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "флотом",
+              "флотами"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
               "флоте",
-              "флотеы"
-            ]
-          },
-          {
-            "cells": [
-              "gen",
-              "флотеа",
-              "флотеов"
-            ]
-          },
-          {
-            "cells": [
-              "dat",
-              "флотеу",
-              "флотеам"
-            ]
-          },
-          {
-            "cells": [
-              "acc",
-              "флоте",
-              "флотеы"
-            ]
-          },
-          {
-            "cells": [
-              "inst",
-              "флотеом",
-              "флотеами"
-            ]
-          },
-          {
-            "cells": [
-              "prep",
-              "флотее",
-              "флотеах"
+              "флотах"
             ]
           }
         ]
-      }
+      },
+      "gender": "m",
+      "moreForms": [],
+      "related": [
+        {
+          "word": "флотный",
+          "gloss": "related to navy (adj.)"
+        }
+      ],
+      "examples": [
+        {
+          "text": "Мы на флоте сапоги ели.",
+          "trans": "In the navy we ate boots."
+        },
+        {
+          "text": "Видишь фломастеры? Это Япония!",
+          "trans": "See the markers? They're from Japan!"
+        }
+      ]
     },
     "сапог": {
       "lemma": "сапог",
@@ -1847,7 +2075,7 @@
       "meanings": [
         {
           "en": "boot, high boot",
-          "note": ""
+          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'апог'). Common masculine noun meaning 'boot' in everyday Russian."
         }
       ],
       "forms": {
@@ -1911,12 +2139,22 @@
         {
           "text": "Снять тяжёлые сапоги.",
           "trans": "To take off heavy boots."
+        },
+        {
+          "text": "Сначала мы отдадим твои сапоги злым псам.",
+          "trans": "First we will give your boots to the vicious dogs."
+        }
+      ],
+      "related": [
+        {
+          "word": "сапогный",
+          "gloss": "related to boot (adj.)"
         }
       ]
     },
     "есть": {
       "lemma": "есть",
-      "stress": null,
+      "stress": "есть",
       "pos": "verb",
       "aspect": "impf",
       "pair": "съесть",
@@ -2006,6 +2244,24 @@
         {
           "text": "Что ты ешь?",
           "trans": "What are you eating?"
+        },
+        {
+          "text": "Я вчера ел маринованные грибы. Может, один гриб был плохой.",
+          "trans": "Yesterday I ate pickled mushrooms. Maybe one mushroom was bad."
+        }
+      ],
+      "related": [
+        {
+          "word": "съесть",
+          "gloss": "to eat"
+        },
+        {
+          "word": "сесть",
+          "gloss": "to sit down"
+        },
+        {
+          "word": "поесть",
+          "gloss": "to eat"
         }
       ]
     },
@@ -2017,7 +2273,7 @@
       "meanings": [
         {
           "en": "and",
-          "note": ""
+          "note": "emphasis: вот поэтому ты и... = that's exactly why you..."
         }
       ],
       "forms": null,
@@ -2030,8 +2286,13 @@
         {
           "text": "Папа и мама.",
           "trans": "Dad and Mum."
+        },
+        {
+          "text": "Спасибо, спасибо! Как вы все знаете, я родился и вырос в Синеозерске.",
+          "trans": "Thank you, thank you! As you all know, I was born and grew up in Sineozersk."
         }
-      ]
+      ],
+      "related": []
     },
     "ремень": {
       "lemma": "ремень",
@@ -2106,6 +2367,16 @@
         {
           "text": "Кожаный ремень на часах.",
           "trans": "A leather strap on the watch."
+        },
+        {
+          "text": "Пожалуйста, не затягивайте ремень слишком сильно.",
+          "trans": "Please do not tighten the strap too tightly."
+        }
+      ],
+      "related": [
+        {
+          "word": "ременный",
+          "gloss": "related to belt (adj.)"
         }
       ]
     },
@@ -2117,7 +2388,7 @@
       "meanings": [
         {
           "en": "too, also",
-          "note": ""
+          "note": "Core Russian adv meaning 'too, also' in everyday speech."
         }
       ],
       "forms": null,
@@ -2130,6 +2401,16 @@
         {
           "text": "Он тоже здесь.",
           "trans": "He's here too."
+        },
+        {
+          "text": "Мы же здесь выросли. И о людях тоже надо думать.",
+          "trans": "After all, we grew up here. And you have to think about people too."
+        }
+      ],
+      "related": [
+        {
+          "word": "очень тоже",
+          "gloss": "intensified / related adverb (too)"
         }
       ]
     },
@@ -2225,6 +2506,24 @@
         {
           "text": "Он всё время врёт.",
           "trans": "He lies all the time."
+        },
+        {
+          "text": "Не надо врать. Стену монастыря сносят!",
+          "trans": "Don't lie. They're pulling down the monastery wall!"
+        }
+      ],
+      "related": [
+        {
+          "word": "соврать",
+          "gloss": "to tell a lie"
+        },
+        {
+          "word": "отвратительно",
+          "gloss": "disgustingly"
+        },
+        {
+          "word": "вратарь",
+          "gloss": "goalkeeper"
         }
       ]
     },
@@ -2249,8 +2548,13 @@
         {
           "text": "Она всё про всех знает.",
           "trans": "She knows everything about everyone."
+        },
+        {
+          "text": "Как интересно! А в Москве ты про меня гадости рассказываешь.",
+          "trans": "How interesting! And in Moscow you go around saying nasty things about me."
         }
-      ]
+      ],
+      "related": []
     },
     "верить": {
       "lemma": "верить",
@@ -2348,6 +2652,24 @@
         {
           "text": "Нина не верит.",
           "trans": "Nina doesn't believe it."
+        },
+        {
+          "text": "Вот скажи, Нина не верит.",
+          "trans": "Go on, tell her. Nina doesn't believe it."
+        }
+      ],
+      "related": [
+        {
+          "word": "поверить",
+          "gloss": "to believe"
+        },
+        {
+          "word": "доверие",
+          "gloss": "trust"
+        },
+        {
+          "word": "проверить",
+          "gloss": "to check"
         }
       ]
     },
@@ -2359,14 +2681,58 @@
       "meanings": [
         {
           "en": "I",
-          "note": ""
+          "note": "меня = me (genitive/accusative), мне = to me (dative)"
         },
         {
           "en": "other forms: меня (gen/acc), мне (dat), мной (instr), мне (prep)",
           "note": "case forms"
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "я"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "меня"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "мне"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "меня"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "мной"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "мне"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -2376,6 +2742,20 @@
         {
           "text": "Я вырос здесь.",
           "trans": "I grew up here."
+        },
+        {
+          "text": "Шеф, я не брала.",
+          "trans": "Chef, I didn't take it."
+        }
+      ],
+      "related": [
+        {
+          "word": "меня",
+          "gloss": "me (genitive/accusative)"
+        },
+        {
+          "word": "мне",
+          "gloss": "to me (dative)"
         }
       ]
     },
@@ -2389,7 +2769,7 @@
       "meanings": [
         {
           "en": "to give",
-          "note": ""
+          "note": "давай + 1st person plural or infinitive"
         },
         {
           "en": "let's",
@@ -2475,6 +2855,24 @@
         {
           "text": "Он мне даёт книгу.",
           "trans": "He gives me a book."
+        },
+        {
+          "text": "Давай мы его уволим, а тебя на его место назначим.",
+          "trans": "Let's fire him and put you in his place."
+        }
+      ],
+      "related": [
+        {
+          "word": "дать",
+          "gloss": "to give"
+        },
+        {
+          "word": "давай",
+          "gloss": "let's"
+        },
+        {
+          "word": "сдавать",
+          "gloss": "to take"
         }
       ]
     },
@@ -2566,6 +2964,28 @@
         {
           "text": "Давайте поспорим, шеф.",
           "trans": "Let's make a bet, chef."
+        },
+        {
+          "text": "Давайте поспорим, шеф!",
+          "trans": "Let's make a bet, chef!"
+        },
+        {
+          "text": "Я поспорил, что он сбежит сам.",
+          "trans": "I bet that he will run away on his own."
+        }
+      ],
+      "related": [
+        {
+          "word": "спорить",
+          "gloss": "to argue"
+        },
+        {
+          "word": "спор",
+          "gloss": "bet"
+        },
+        {
+          "word": "проспорить",
+          "gloss": "lose a bet"
         }
       ]
     },
@@ -2590,6 +3010,20 @@
         {
           "text": "Мне пять лет.",
           "trans": "I'm five years old."
+        },
+        {
+          "text": "Мы же только начинаем. Через месяц будет пять тысяч.",
+          "trans": "But we're only just starting. In a month there'll be five thousand."
+        }
+      ],
+      "related": [
+        {
+          "word": "пятьдесят",
+          "gloss": "fifty"
+        },
+        {
+          "word": "пятьсот",
+          "gloss": "five hundred"
         }
       ]
     },
@@ -2602,7 +3036,7 @@
       "meanings": [
         {
           "en": "thing, matter (colloquial)",
-          "note": ""
+          "note": "Common feminine noun meaning 'thing; piece' in everyday Russian."
         },
         {
           "en": "piece, item",
@@ -2666,6 +3100,20 @@
         {
           "text": "Жизнь — сложная штука.",
           "trans": "Life is a complicated thing."
+        },
+        {
+          "text": "А жизнь — сложная штука. Вы понимаете, о чём я?",
+          "trans": "And life is a complicated thing. Do you understand what I am talking about?"
+        },
+        {
+          "text": "А жизнь — сложная штука.",
+          "trans": "And life is a complicated thing."
+        }
+      ],
+      "related": [
+        {
+          "word": "штукный",
+          "gloss": "related to thing (adj.)"
         }
       ]
     },
@@ -2761,6 +3209,16 @@
         {
           "text": "Слона бы съел!",
           "trans": "I could eat an elephant!"
+        },
+        {
+          "text": "Скоро. А пока я есть хочу, слона бы съел!",
+          "trans": "Soon. But for now I'm hungry, I could eat an elephant!"
+        }
+      ],
+      "related": [
+        {
+          "word": "есть",
+          "gloss": "to eat"
         }
       ]
     },
@@ -2850,8 +3308,13 @@
         {
           "text": "Это моё.",
           "trans": "That's mine."
+        },
+        {
+          "text": "Нет. Это моё.",
+          "trans": "No. That's mine."
         }
-      ]
+      ],
+      "related": []
     },
     "за": {
       "lemma": "за",
@@ -2878,8 +3341,13 @@
         {
           "text": "Спасибо за подарок.",
           "trans": "Thanks for the present."
+        },
+        {
+          "text": "За что?",
+          "trans": "What for?"
         }
-      ]
+      ],
+      "related": []
     },
     "ну": {
       "lemma": "ну",
@@ -2906,8 +3374,13 @@
         {
           "text": "Ну что?",
           "trans": "Well?"
+        },
+        {
+          "text": "Ну что, очкарик? Видишь, ничего не осталось.",
+          "trans": "Well, four-eyes? See, there's nothing left."
         }
-      ]
+      ],
+      "related": []
     },
     "разбить": {
       "lemma": "разбить",
@@ -2919,7 +3392,7 @@
       "meanings": [
         {
           "en": "to break, smash, shatter",
-          "note": ""
+          "note": "Prefix 'раз-' ('apart, un-, thoroughly') indicates distribution or intensive action (stem 'бить'). Used as an perfective (single completed action) verb meaning 'to break, to smash, to wreck (a car)', paired with 'разбивать'."
         },
         {
           "en": "to wreck, crash (a vehicle)",
@@ -3001,6 +3474,28 @@
         {
           "text": "Ты машину разбил, что ли?",
           "trans": "Did you wreck the car or what?"
+        },
+        {
+          "text": "Это от руля синяк! В какой машине? Ты машину разбил, что ли?",
+          "trans": "That's a bruise from a steering wheel! In what car? Did you wreck the car or what?"
+        },
+        {
+          "text": "Я так вспоминаю. Значит, машину разбил, что ли?",
+          "trans": "I'm trying to recall it. So I wrecked the car, then?"
+        }
+      ],
+      "related": [
+        {
+          "word": "разбивать",
+          "gloss": "to smash"
+        },
+        {
+          "word": "убить",
+          "gloss": "to kill"
+        },
+        {
+          "word": "бить",
+          "gloss": "to beat"
         }
       ]
     },
@@ -3012,7 +3507,7 @@
       "meanings": [
         {
           "en": "well",
-          "note": ""
+          "note": "how something is done"
         },
         {
           "en": "good, fine",
@@ -3029,6 +3524,24 @@
         {
           "text": "Всё хорошо.",
           "trans": "Everything's fine."
+        },
+        {
+          "text": "Хорошо! Там всё нормально.",
+          "trans": "Good! Everything's fine over there."
+        }
+      ],
+      "related": [
+        {
+          "word": "хороший",
+          "gloss": "good"
+        },
+        {
+          "word": "нехорошо",
+          "gloss": "not nice"
+        },
+        {
+          "word": "похоронить",
+          "gloss": "to bury"
         }
       ]
     },
@@ -3042,7 +3555,7 @@
       "meanings": [
         {
           "en": "to hold, to keep",
-          "note": ""
+          "note": "imperative держи! when handing something over"
         },
         {
           "en": "here you are!",
@@ -3132,6 +3645,24 @@
         {
           "text": "Держи его!",
           "trans": "Grab him!"
+        },
+        {
+          "text": "Ладно, держи. Вот, смотри.",
+          "trans": "All right, here you go. There, look."
+        }
+      ],
+      "related": [
+        {
+          "word": "поддерживать",
+          "gloss": "to support"
+        },
+        {
+          "word": "задержать",
+          "gloss": "to detain"
+        },
+        {
+          "word": "держаться",
+          "gloss": "to hold on"
         }
       ]
     }
