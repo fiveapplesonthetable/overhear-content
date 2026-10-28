@@ -32,7 +32,7 @@ STORY = [
 ]
 WALK = [
     (0, None, '\'Sasha, did you pass my important request to the chef?\' "Peredala" ends in "-la" because Sasha is a woman. "Pros\'ba", a request, comes from "prosit\'", to ask, so "pros\'bu" is "request" as the object.'),
-    (1, None, '\'Yes, Viktoriya Sergeyevna, I told him everything.\' Sasha uses Vika\'s full name and father\'s name, as Max did with Nagiyev. "Skazala" is "said", with -a for a woman, and "yemu" is "to him".'),
+    (1, None, '\'Yes, Viktoriya Sergeyevna, I told him everything.\' Sasha uses Vika\'s full name and father\'s name, as Max did with Nagiyev. "Skazala" is "said", and the -a marks a woman, and "yemu" is "to him".'),
     (2, None, '\'Did you say that I asked for the new menu?\' "Prosila" is "asked", also with -la for Vika. "Novoye menyu" is "new menu", and "menyu" never changes.'),
     (3, None, '\'Yes, I personally reminded the chef about this.\' "Napomnila" has "pomnit\'", to remember, inside it, so "reminded" is "made remember". "Ob etom" is "about this", and "o" becomes "ob" before a vowel.'),
     (4, None, '\'And what was his answer to that?\' "Yego otvet" is "his answer", and "yego" never changes, unlike "moy" and "moya". "Byl" is masculine "was", because "otvet" is masculine.'),
@@ -41,7 +41,7 @@ WALK = [
     (7, None, '\'The chef has been very angry since this morning.\' "S samogo utra" is "from the very morning". "Serdityy", angry, comes from "serdtse", the heart.'),
     (8, None, '\'We urgently need to update the list of our dishes.\' "Obnovit\'" is "to renew", from "novyy". "Nashikh blyud" is "of our dishes", with a plural "of" shape that loses the last vowel.'),
     (9, None, '\'Guests in the dining room are already asking for new desserts.\' "Sprashivayut" is "they ask", and "gosti" is "guests". "Novyye deserty" is plural, with "-ye" and "-y".'),
-    (10, None, '\'I will go myself right now and talk to him.\' "Sama" is the feminine "sam", "myself" or "herself". "Poydu" and "pogovoryu" are two futures, one word each. "S nim" is "with him", with the added "n".'),
-    (11, None, '\'Be very careful, the chef is in a bad mood.\' "Bud\'te" is the polite command "be". "Ostorozhny" ends in a plural "-y" because Sasha speaks to Vika as "vy". "V plokhom nastroyenii" is "in a bad mood".'),
-    (12, None, '\'That is fine, order in the restaurant is more important than his whims!\' "Nichego" is "never mind" here. "Vazhneye" is "more important", with the same "-eye" as "faster". "Kapriz" is borrowed from French.'),
+    (10, None, '\'I will go myself right now and talk to him.\' "Sama" is the feminine "sam", "myself" or "herself". "Poydu" and "pogovoryu" are two futures, one word each. "S nim" is "with him", and the "n" is added after "s".'),
+    (11, None, '\'Be very careful, the chef is in a bad mood.\' "Bud\'te" is the formal command "be". "Ostorozhny" ends in a plural "-y" because Sasha speaks to Vika as "vy". "V plokhom nastroyenii" is "in a bad mood".'),
+    (12, None, '\'That is fine, order in the restaurant is more important than his whims!\' "Nichego" is "never mind" here. "Vazhneye" is "more important", sharing the "-eye" of "faster". "Kapriz" is borrowed from French.'),
 ]

@@ -26,7 +26,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Viktor Petrovich, this guy will not work here!' Vika uses the chef's first name and father's name, which is formal and a bit cold. "Rabotat' ne budet" is "work will-not", with the "not" in front of "will".
+- 'Viktor Petrovich, this guy will not work here!' Vika uses the chef's first name and father's name, which is formal and a bit cold. "Rabotat' ne budet" is "work will-not", the "not" standing in front of "will".
 - 'Just a second, since when do you give orders here?' "Sekundochku" is "second" with "-ochk-", a small ending that makes it "a little second". "S kakikh por" is "since when", literally "from which times".
 - 'I am the restaurant art director and know our standards!' "Znayu" is "I know" a fact; for a skill Russian uses "umeyu". "Nashi standarty" is "our standards", plural.
 - 'Senya, say loudly, who is the boss in this kitchen?' "Skazhi" is an irregular command, "say!". "Gromko" is "loudly". "Glavnyy" is both "main" and "boss".
@@ -38,4 +38,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'You will work on a two-on, two-off schedule.' "Budesh' rabotat'" is "you will work". "Dva cherez dva" is "two through two", the Russian shorthand for two days on, two days off.
 - 'This is simply outrageous and completely unacceptable behavior!' "Nedopustimoye" is "ne" plus "dopustimoye", permissible. Both big describing words end in "-oye" because "povedeniye" is a neuter word.
 - 'And you can go command your waiters.' "Mozhete idti komandovat'" is three words in a row, "can go command", with no "to" between them. "Ofitsiantami" has the ending "-ami" that "komandovat'" calls for.
-- 'Create a wonderful atmosphere in the hall of our establishment!' "Sozdavayte" is the polite command "create". "Prekrasnuyu" is the same "beautiful" Max used for Vika. The chef is being sarcastic.
+- 'Create a wonderful atmosphere in the hall of our establishment!' "Sozdavayte" is the formal command "create". "Prekrasnuyu" is the same "beautiful" Max used for Vika. The chef is being sarcastic.

@@ -30,14 +30,14 @@ STORY = [
     ('nagiyev', 'Посмотрим, умеете ли вы вкусно готовить.', 'We shall see whether you know how to cook deliciously.', [(120, 'шефу понравился')], ''),
 ]
 WALK = [
-    (0, None, '\'Dmitry Vladimirovich, good afternoon, do you remember me?\' Max uses the full name and father\'s name again. "Pomnite" is the polite "do you remember", and "menya" is "me" as the object.'),
-    (1, None, '\'Of course, I do not remember you at all.\' Nagiyev is joking. "Konechno zhe" is "of course", with the "zhe" for emphasis, and "sovsem ne" is "not at all", as before.'),
+    (0, None, '\'Dmitry Vladimirovich, good afternoon, do you remember me?\' Max uses the full name and father\'s name again. "Pomnite" is "do you remember", formal, and "menya" is "me" as the object.'),
+    (1, None, '\'Of course, I do not remember you at all.\' Nagiyev is joking. "Konechno zhe" is "of course", and "zhe" adds emphasis, and "sovsem ne" is "not at all", as before.'),
     (2, None, '\'We met with you exactly one year ago.\' "Poznakomilis\'" is "we got acquainted", from "znakomyy", familiar. "God nazad" is "a year back", and "nazad" means "ago" after a time.'),
     (3, None, '\'I have very many important matters today.\' "U menya" is the "I have" pattern. "Del" is the plural of "delo", matter, after "mnogo", many. It\'s the same "dela" Max used when he left Vika.'),
     (4, None, '\'You promised to hire me for this job.\' "Obeshchali" ends in "-li" even for one person, because "vy" is polite. "Vzyat\' na rabotu" is "to take onto work", which means "to hire".'),
     (5, None, '\'Young man, I am in a very big hurry.\' "Molodoy chelovek" returns. "Speshu" is "I hurry", one word, and "silno" is "strongly", another way Russians say "very".'),
     (6, None, '\'I am an excellent cook and finished culinary college.\' "Otlichnyy" is "excellent", and "zakonchil" comes from "konets", end. "Kulinarnyy kolledzh" is borrowed, and you can follow it as it stands.'),
-    (7, None, '\'All right, then go straight to our kitchen.\' "Idite" is the polite command "go". "Na nashu kukhnyu" ends in -u because he\'s going there; to be there it would be "na nashey kukhne".'),
+    (7, None, '\'All right, then go straight to our kitchen.\' "Idite" is the formal command "go". "Na nashu kukhnyu" ends in -u because he\'s going there; to be there it would be "na nashey kukhne".'),
     (8, None, '\'The head chef will decide whether you suit the restaurant.\' "Li" means "whether", and it comes right after the key word: "podkhodite li", "do you suit". "Reshit" is "will decide".'),
     (9, None, '\'The owner of the restaurant sent me straight to the chef.\' "K shefu" is "to the chef", and "k" always wants the "-u" ending. "Otpravil" is "sent", with -l for a man.'),
     (10, None, '\'The main thing now is to please the strict head chef.\' "Ponravit\'sya" is the same root as "mne nravitsya", "I like". It means "to please". "Strogomu" has the ending "-omu" that means "to".'),

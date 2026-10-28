@@ -28,7 +28,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'What cocktail will you drink, Vika?' "Budesh' pit'" is "you will drink", built like English: a word for "will" and then the plain "to drink". Max ends with her name, and a name needs no change to be called out.
 - 'I like dry white wine.' "Lyublyu" is "I love", and Russians use it for liking things too, like wine. "Beloye", "sukhoye" and "vino" all end in the same sound, and that echo is how Russian shows that the describing words belong to "wine".
-- 'Bartender, bring us a glass of white wine!' "Prinesite" is a polite order: "bring". The "-ite" on the end is the polite "you". "A glass of white wine" makes both "white" and "wine" change their endings, and that change is the "of".
+- 'Bartender, bring us a glass of white wine!' "Prinesite" is a polite order: "bring". The "-ite" on the end addresses a formal "you". "A glass of white wine" makes both "white" and "wine" change their endings, and that change is the "of".
 - 'And what will you drink yourself?' "Sam" means "yourself", and it turns the question back at Max: what about you? The little "a" at the start isn't "and" exactly. It means something like "and as for you".
 - 'I will drink a little good juice.' "Vypyu" has the little prefix "vy-", which means to drink something up, a serving, rather than just "be drinking". "Nemnogo", "a little", is useful in any sentence.
 - 'Do you not drink strong drinks at all?' "Sovsem ne" is "not at all", and notice how Russian puts "at all" first. "Krepkiye napitki" are "strong drinks", the usual way to talk about alcohol.

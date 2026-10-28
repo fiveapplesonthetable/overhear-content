@@ -33,8 +33,8 @@ STORY = [
 WALK = [
     (0, None, '\'Hello! I arrived for an appointment.\' "Zdravstvuyte" is the formal hello, and the first "v" is silent, so it sounds like "zdrastvuyte". "Prishyol" is "came", with -l for a man, and "na vstrechu" is "for a meeting".'),
     (1, None, '\'Good day! Are you here to see Dmitry Vladimirovich?\' Russians address people formally by first name plus father\'s name. "Vladimirovich" means "son of Vladimir". After "k", "to", the name takes the ending "-u": "Dmitriyu Vladimirovichu".'),
-    (2, None, '\'Yes, he invited me for a job.\' "Priglashal" is "invited", from "glasit\'", to call, with "pri-" in front. "Menya" is "me", and "na rabotu" is "to work", with the ending that goes with motion.'),
-    (3, None, '\'The owner is busy in the kitchen for now.\' "Khozyain" is the owner, literally the master of the house. "Poka" is "for now", and it\'s the same word as the casual "poka", "bye", which means "see you for now".'),
+    (2, None, '\'Yes, he invited me for a job.\' "Priglashal" is "invited", from "glasit\'", to call, with "pri-" in front. "Menya" is "me", and "na rabotu" is "to work", where the ending signals motion.'),
+    (3, None, '\'The owner is busy in the kitchen for now.\' "Khozyain" is the owner, literally the master of the house. "Poka" is "for now", exactly like the casual "poka", "bye", which means "see you for now".'),
     (4, None, '\'Understood. And who is managing the dining room?\' "Rukovodit" is "manages", and you can hear "ruka", hand, and "vodit\'", to lead: "leads by the hand". "Zalom" is "the hall", with "-om" because it\'s what is being run.'),
     (5, None, '\'That strict young woman over by the window.\' "Von" is "over there", a further point than "vot", "here is". "Strogaya" and "ta" both end like a woman\'s word, because "devushka" is feminine. "U okna" is "at the window".'),
     (6, None, '\'What is this beautiful young woman\'s name?\' "Kak zovut" is literally "how do they call", with no "they" named. It\'s the normal way to ask what someone is called.'),
@@ -42,6 +42,6 @@ WALK = [
     (8, None, '\'Oh no, what an unpleasant situation!\' "Nepriyatnaya" is "ne" plus "priyatnaya", pleasant: unpleasant. "Kakaya" at the start turns the sentence into "what a...!".'),
     (9, None, '\'What happened? You turned so pale!\' "Pobledneli" has "blednyy", pale, inside it, and it ends in "-li", the plural, even though one person is being addressed. That\'s how the polite "vy" works.'),
     (10, None, '\'Nothing terrible, my head is spinning.\' "Nichego strashnogo" is literally "nothing scary", the standard way to say "no big deal". "Golova kruzhitsya" has "krug", a circle, in it: the head goes round.'),
-    (11, None, '\'Would you like to sit at an available table?\' "Khotite" is the polite "do you want". "Stolik" is a little "stol", a table, which is how a restaurant table is named. "Svobodnyy" is free, empty.'),
+    (11, None, '\'Would you like to sit at an available table?\' "Khotite" is the formal "do you want". "Stolik" is a little "stol", a table, which is how a restaurant table is named. "Svobodnyy" is free, empty.'),
     (12, None, '\'No, thank you, I will step back.\' "Otoydu" is "I will step away", and "nazad" is "back". It\'s an awkward sentence in Russian too, which suits a flustered Max.'),
 ]

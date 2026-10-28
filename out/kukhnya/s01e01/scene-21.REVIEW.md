@@ -29,7 +29,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Chef, the festive dessert is already ready!' "Prazdnichnyy" comes from "prazdnik", holiday. "Gotov" is the short "ready", and it comes from the same root as "to cook".
 - 'Attention everyone! The guest is tasting the newcomer's dish.' A woman guest is "gost'ya", the same word with a feminine ending. "Blyudo novichka" is "dish of newcomer", with a short "of" ending on "novichok" and no 's.
-- 'Come here, sweet little doggy! Taste the dessert.' "Sobachka" is "sobaka", dog, with a small ending that makes it a pet name. "Milaya" is "sweet", the feminine of "milyy". "Poprobuy" is a command built on "probovat'", to try.
+- 'Come here, sweet little doggy! Taste the dessert.' "Sobachka" is "sobaka", dog, with a small ending that makes it a pet name. "Milaya" is "sweet", the feminine of "milyy". "Poprobuy" is a command from "probovat'", to try.
 - 'She doesn't even look at the plate.' A dog is "ona", she, because "sobachka" is a feminine word. "Smotret' na" is "to look at", and "tarelku" takes -u.
 - 'Chef, that is unfair! After all, it is a dog.' "Nechestno" is "ne" plus "chestno", honestly, the word from "frankly speaking". "Eto zhe sobaka" has the "zhe" for "after all".
 - 'The world is not ideal at all, young man.' "Mir" means both "world" and "peace". "Ideal'en" is the short form of "ideal'nyy". The chef lectures Max with "young man".

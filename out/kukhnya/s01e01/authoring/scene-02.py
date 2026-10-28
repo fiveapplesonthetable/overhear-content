@@ -33,7 +33,7 @@ STORY = [
 WALK = [
     (0, None, '\'What cocktail will you drink, Vika?\' "Budesh\' pit\'" is "you will drink", built like English: a word for "will" and then the plain "to drink". Max ends with her name, and a name needs no change to be called out.'),
     (1, None, '\'I like dry white wine.\' "Lyublyu" is "I love", and Russians use it for liking things too, like wine. "Beloye", "sukhoye" and "vino" all end in the same sound, and that echo is how Russian shows that the describing words belong to "wine".'),
-    (2, None, '\'Bartender, bring us a glass of white wine!\' "Prinesite" is a polite order: "bring". The "-ite" on the end is the polite "you". "A glass of white wine" makes both "white" and "wine" change their endings, and that change is the "of".'),
+    (2, None, '\'Bartender, bring us a glass of white wine!\' "Prinesite" is a polite order: "bring". The "-ite" on the end addresses a formal "you". "A glass of white wine" makes both "white" and "wine" change their endings, and that change is the "of".'),
     (3, None, '\'And what will you drink yourself?\' "Sam" means "yourself", and it turns the question back at Max: what about you? The little "a" at the start isn\'t "and" exactly. It means something like "and as for you".'),
     (4, None, '\'I will drink a little good juice.\' "Vypyu" has the little prefix "vy-", which means to drink something up, a serving, rather than just "be drinking". "Nemnogo", "a little", is useful in any sentence.'),
     (5, None, '\'Do you not drink strong drinks at all?\' "Sovsem ne" is "not at all", and notice how Russian puts "at all" first. "Krepkiye napitki" are "strong drinks", the usual way to talk about alcohol.'),

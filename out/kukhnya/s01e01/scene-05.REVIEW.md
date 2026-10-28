@@ -34,10 +34,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I really liked your solyanka.' This is "mne nravitsya" again, but with "po-" added and in the past: "ponravilas'". The ending is feminine because "solyanka", a thick sour soup, is a feminine word, and the soup is what did the pleasing.
 - 'Thank you! I tried very hard.' "Starat'sya" means to try, to make an effort. In the past it ends in -l for a man, "staralsya", and in -la for a woman, so you can tell a lot about the speaker from one letter.
 - 'Well done. Practically a masterpiece out of nothing.' "Molodets" is what you say to someone who did well, and it comes from "molodoy", young. It's used for women too. "Iz nichego" is literally "out of nothing".
-- 'Would you like to work in a good restaurant?' "Khotite" is the polite "you want", fitting for an owner speaking to a stranger. The "po-" in "porabotat'" means to work for a while, a trial run.
-- 'Of course! That is my dream.' "Konechno" is spelled with a "ch" but pronounced "koneshno". Remember that one. "Moya mechta" is "my dream", and "moya" is the feminine "my".
+- 'Would you like to work in a good restaurant?' "Khotite" is "you want" in the formal register, fitting for an owner speaking to a stranger. The "po-" in "porabotat'" means to work for a while, a trial run.
+- 'Of course! That is my dream.' "Konechno" is spelled with a "ch" but pronounced "koneshno". Remember that one. "Moya mechta" is "my dream". "Moya" is the feminine "my".
 - 'You are welcome. I will be glad.' "Milosti prosim" is a warm old phrase, literally "we ask for your kindness", and it means "welcome". "Budu rad" is "I will be glad", the future of "to be" plus "rad".
 - 'I am speaking completely seriously.' "Sovershenno" is "completely", and "ser'yozno" is "seriously". Nagiyev piles them up so there's no doubt that he means it.
 - 'In which restaurant?' It's the same "v kakom restorane" as in the night-time talk, with "kakom" and "restorane" taking their endings after "v".
 - 'Restaurant Claude Monet in Moscow.' "V Moskve" is "in Moscow", and now the name takes -e after "v". When it meant "of Moscow" it ended in -y.
-- 'Thank you very much! I will definitely come.' "Ogromnoye" means "huge", so "spasibo ogromnoye" is "huge thanks". "Pridu" is the future of "come", a single word with no "will".
+- 'Thank you very much! I will definitely come.' "Ogromnoye" means "huge", so "spasibo ogromnoye" is "huge thanks". "Pridu" is the future of "come", with no "will" in front.

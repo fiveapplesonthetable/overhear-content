@@ -38,10 +38,10 @@ WALK = [
     (4, None, '\'Are you afraid of someone in the dining hall?\' "Kogo-to" is "kogo", whom, plus "-to", which makes it "someone". "Boites\'" takes that object form, and "v zale" is "in the hall", with -e after "v".'),
     (5, None, '\'Not at all, I am waiting for the restaurant owner.\' "Vovse net" is "not at all". "Zhdu" is "I wait", and Russian says "I wait the owner", with no "for", just an -a on "khozyaina".'),
     (6, None, '\'The owner definitely is not standing behind this pillar.\' Russian says a person "stands" somewhere, and doesn\'t just "be". "Tochno" is "exactly", here "definitely", and "za etoy kolonnoy" is "behind this pillar".'),
-    (7, None, '\'I understand, I am simply resting here.\' "Ponimayu" is "I understand", the same family as "ponyal" from the kitchen. "Otdykhayu" is "I rest", from "otdykh", rest.'),
+    (7, None, '\'I understand, I am simply resting here.\' "Ponimayu" is "I understand", a relative of "ponyal" from the kitchen. "Otdykhayu" is "I rest", from "otdykh", rest.'),
     (8, None, '\'Please, do not block the walkway for the waiters.\' "Pozhaluysta" is "please", and also "you\'re welcome". "Zagorazhivayte" ends in "-te", the polite-"you" ending, and "ofitsiantam" is "to the waiters".'),
     (9, None, '\'Oh no, I do not want to disturb anyone!\' "Nikomu" is "to nobody", and "ne" stays in the sentence too: the double negative. "Meshat\'" is "to disturb", the word Barinov used in "don\'t disturb me".'),
-    (10, None, '\'You can wait at the bar counter.\' "Mozhete" is "you can", the same family as "mozhet byt\'", maybe. "Stoyka" comes from "stoyat\'", to stand, so a bar counter is a standing place.'),
+    (10, None, '\'You can wait at the bar counter.\' "Mozhete" is "you can", a relative of "mozhet byt\'", maybe. "Stoyka" comes from "stoyat\'", to stand, so a bar counter is a standing place.'),
     (11, None, '\'Great idea, I will go to the bar!\' "V bar" has no ending because he\'s going to it; if he were inside it would be "v bare". And "poydu" is "I will go", where "po-" turns "go" into a future.'),
-    (12, None, '\'The bartender will pour you an excellent drink.\' "Napitok", drink, comes from "pit\'", to drink, which you heard in the bar scene. "Nal\'yot" is "will pour" in a single word, and "vam" is "to you".'),
+    (12, None, '\'The bartender will pour you an excellent drink.\' "Napitok", drink, comes from "pit\'", to drink, which you heard in the bar scene. "Nal\'yot" is "will pour", and "vam" is "to you".'),
 ]

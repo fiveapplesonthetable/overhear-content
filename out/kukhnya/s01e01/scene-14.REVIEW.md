@@ -25,14 +25,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dmitry Vladimirovich, good afternoon, do you remember me?' Max uses the full name and father's name again. "Pomnite" is the polite "do you remember", and "menya" is "me" as the object.
-- 'Of course, I do not remember you at all.' Nagiyev is joking. "Konechno zhe" is "of course", with the "zhe" for emphasis, and "sovsem ne" is "not at all", as before.
+- 'Dmitry Vladimirovich, good afternoon, do you remember me?' Max uses the full name and father's name again. "Pomnite" is "do you remember", formal, and "menya" is "me" as the object.
+- 'Of course, I do not remember you at all.' Nagiyev is joking. "Konechno zhe" is "of course", and "zhe" adds emphasis, and "sovsem ne" is "not at all", as before.
 - 'We met with you exactly one year ago.' "Poznakomilis'" is "we got acquainted", from "znakomyy", familiar. "God nazad" is "a year back", and "nazad" means "ago" after a time.
 - 'I have very many important matters today.' "U menya" is the "I have" pattern. "Del" is the plural of "delo", matter, after "mnogo", many. It's the same "dela" Max used when he left Vika.
 - 'You promised to hire me for this job.' "Obeshchali" ends in "-li" even for one person, because "vy" is polite. "Vzyat' na rabotu" is "to take onto work", which means "to hire".
 - 'Young man, I am in a very big hurry.' "Molodoy chelovek" returns. "Speshu" is "I hurry", one word, and "silno" is "strongly", another way Russians say "very".
 - 'I am an excellent cook and finished culinary college.' "Otlichnyy" is "excellent", and "zakonchil" comes from "konets", end. "Kulinarnyy kolledzh" is borrowed, and you can follow it as it stands.
-- 'All right, then go straight to our kitchen.' "Idite" is the polite command "go". "Na nashu kukhnyu" ends in -u because he's going there; to be there it would be "na nashey kukhne".
+- 'All right, then go straight to our kitchen.' "Idite" is the formal command "go". "Na nashu kukhnyu" ends in -u because he's going there; to be there it would be "na nashey kukhne".
 - 'The head chef will decide whether you suit the restaurant.' "Li" means "whether", and it comes right after the key word: "podkhodite li", "do you suit". "Reshit" is "will decide".
 - 'The owner of the restaurant sent me straight to the chef.' "K shefu" is "to the chef", and "k" always wants the "-u" ending. "Otpravil" is "sent", with -l for a man.
 - 'The main thing now is to please the strict head chef.' "Ponravit'sya" is the same root as "mne nravitsya", "I like". It means "to please". "Strogomu" has the ending "-omu" that means "to".
