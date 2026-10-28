@@ -30,12 +30,12 @@ STORY = [
     ('samson', 'Иди и забирай его!', 'Go and take it!', [(225, 'Иди забирай')], ''),
 ]
 WALK = [
-    (0, None, "'Hey, Vanya, get up, get up!' The neighbour shakes Ivan by the shoulder. Notice the command form of the verb."),
-    (1, None, "'Come on, get up, you'll freeze in the snow!' Future tense verb warning him of the freezing cold."),
+    (0, None, "'Hey, Vanya, get up, get up!' A passing neighbor shakes Ivan by the shoulder to rouse him from the snowy bench."),
+    (1, None, "'Come on, get up, you'll freeze in the snow!' Sleeping outdoors in a Russian winter is a quick way to freeze to death."),
     (2, None, "'Arise, vast country...' Ivan groggily mutters the opening line of the famous World War II anthem 'The Sacred War'."),
     (3, None, "'What country? Get on your feet!' The neighbour urges him to stand up before someone calls the police."),
     (4, None, "'A vast country...' Ivan repeats the lyrics like a broken record in his half-conscious state."),
-    (5, None, "'You slept here all night!' Notice the single-action form verb with the object-form of time duration."),
+    (5, None, "'You slept here all night!' The neighbor cannot believe Ivan spent the entire freezing night out on that bench."),
     (6, None, "'Where am I? What time is it?' Ivan slowly opens his bloodshot eyes and looks around the courtyard."),
     (7, None, "'It's already morning, people are walking past.' The neighbour points out neighbours heading to work."),
     (8, None, "'Lyokha! Where is my friend Lyokha?' Ivan remembers someone he promised something to."),

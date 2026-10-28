@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Listen carefully to what the great Khan tells you!' Command singular verb followed by an archaic verb of speaking.
-- 'I am not afraid of your threats, Khan!' Present tense self-action verb form governing 'of'-form case with a direct-address title.
-- 'If you don't want it the easy way, then it will be completely different.' Colloquial fixed expression of manner paired with an adverbial future clause.
-- 'A brave warrior will never tell you anything!' Negative pronoun with future-tense form and 'to'-form plural recipient.
-- 'First we will give your boots to the vicious dogs.' Future-tense form action verb governing object-form object and 'to'-form recipient.
-- 'Do what you want, I will stand firm.' Plural command governing a relative clause followed by a compound future verb.
-- 'Then we will take all your valuable property.' Future-tense form governing neuter object-form noun phrase.
-- 'Wait one minute, no need for any punishments!' Plural command of duration followed by negative 'of'-form phrase with modal word.
-- 'Are you ready to tell the truth before the whole army?' Short masculine adjective governing an action verb and 'with'-form location phrase.
-- 'Yes, I will tell everything and show the place!' Coordinated first-person future-tense form verbs with direct objects.
-- 'Well then show quickly, where is the treasure hidden?' Command form of demonstration with comparative adverb and short passive form.
-- 'Over there, right next to the old oak!' Spatial pointing phrase with preposition governing 'of'-form case.
-- 'Excellent work, you saved your life in time.' Evaluative noun phrase followed by past single-action form with self-action verb form possessive.
+- 'Listen carefully to what the great Khan tells you!' Over at the historical reenactment camp, an actor in medieval armor uses the archaic word "glagolit" ("speaks/proclaims") to stay in character.
+- 'I am not afraid of your threats, Khan!' Playing the captured Russian warrior, Kostik puffs out his chest and delivers his rehearsed heroic line.
+- 'If you don't want it the easy way, then it will be completely different.' "Po-khoroshemu" literally means "in the good way"—the everyday Russian warning before someone switches to the hard way.
+- 'A brave warrior will never tell you anything!' Still sticking to the script, the reenactor plays the fearless medieval martyr.
+- 'First we will give your boots to the vicious dogs.' Now the Khan goes off-script, threatening the actor's expensive costume boots.
+- 'Do what you want, I will stand firm.' Kostik tries to hold the pose, though you can hear his confidence wavering.
+- 'Then we will take all your valuable property.' When the threats turn to his actual gear and wallet, the medieval roleplay stops being fun.
+- 'Wait one minute, no need for any punishments!' So much for the fearless warrior: Kostik drops the thirteenth-century act in a heartbeat.
+- 'Are you ready to tell the truth before the whole army?' Delighted that his intimidation worked, the Khan milks the moment in front of the whole camp.
+- 'Yes, I will tell everything and show the place!' Compare this Kostik to the monk Konstantin he played in Scene 1: eight hundred years later, he folds immediately.
+- 'Well then show quickly, where is the treasure hidden?' "Klad" is the Russian word for buried treasure—the very thing everyone in Sineozersk has been hunting near the monastery.
+- 'Over there, right next to the old oak!' "Von tam" ("way over there") is what you say while pointing a finger across the field.
+- 'Excellent work, you saved your life in time.' In the subtitle cue he actually says "saved your belly" ("zhivot"), because in Old Russian the word for belly and life was the same.

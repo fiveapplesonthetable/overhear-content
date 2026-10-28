@@ -28,23 +28,23 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Doctor Tenenbaum is listening.' The doctor answers the call from his foreign clinic.
-- 'What happened?' The past tense neuter question is the standard phrase for 'what's wrong?'.
+- 'What happened?' Dr. Tenenbaum gets straight to the point, asking what the emergency is.
 - 'Yakov Grigoryevich, I have an urgent question for you.' Arkady addresses his old physician respectfully.
 - 'There is a boy here, Lyokha.' Lyokha is the informal nickname for Lyosha.
-- 'Speak with him.' The preposition takes the 'with' pronoun.
+- 'Speak with him.' Arkady turns the laptop screen toward Lyosha so the specialist can talk to the boy directly.
 - 'Hello, doctor.' Lyosha introduces himself politely.
 - 'I have osteochondropathy.' He recites the scary diagnosis from the local hospital.
 - 'So how are they treating you?' The doctor asks about his current therapy.
-- 'They scheduled surgery for me.' The third-person neuter verb refers to the state health board.
+- 'They scheduled surgery for me.' Lyosha explains that the local doctors already put him down for an operation.
 - 'Tell me, boy.' The doctor focuses on specific symptoms.
-- 'Did a tick ever bite you?' The indefinite adverb means 'ever'.
-- 'Yes, a year ago.' The phrase indicates a point in the past.
+- 'Did a tick ever bite you?' Instead of looking at the X-rays, the experienced professor asks a sharp question about tick bites.
+- 'Yes, a year ago.' Lyosha remembers getting bitten by a tick the previous summer.
 - 'Then everything went away.' The symptoms disappeared temporarily.
 - 'Well then, run along, boy!' The doctor sends Lyosha out of the room so he can speak privately with Arkady.
 - 'Arkasha, listen to me.' He addresses Arkady by his familiar diminutive.
-- 'This boy has no osteochondropathy at all.' The negative construction takes the 'of' form.
+- 'This boy has no osteochondropathy at all.' Tenenbaum dismisses the local clinic's terrifying diagnosis as complete nonsense.
 - 'He has Lyme disease from a tick bite!' The doctor identifies the real cause of the boy's joint problems.
-- 'And he does not need surgery.' The short adjective expresses that surgery is unnecessary.
+- 'And he does not need surgery.' Best of all, there is no reason to put the child under the surgeon's knife.
 - 'This condition is treated with medication.' A simple course of antibiotics is all Lyosha needs.
 - 'Thank you, doctor!' Arkady breathes a huge sigh of relief.
 - 'I understood everything.' Now he must stop Marina before the hospital operates.

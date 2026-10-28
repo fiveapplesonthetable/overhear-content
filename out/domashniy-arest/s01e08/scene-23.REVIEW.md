@@ -28,14 +28,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'I am counting to five!' Arkady starts the playful countdown in the corridor.
 - 'One, two, three, four, five!' The Russian cardinal numbers build tension in their game.
-- 'Where are those Russian partisans?' The demonstrative pronoun modifies the plural noun.
-- 'I do not see anyone here.' The negative pronoun takes the 'of' form with negation.
-- 'I am here, right behind the door!' The preposition 'za' with This phrase indicates location.
-- 'Surrender, the enemy is surrounded!' The command form command demands full capitulation.
-- 'Never will I surrender!' The negative adverb emphasizes Arkady's defiant refusal.
-- 'I am opening return fire!' The present tense verb describes his playful counterattack.
-- 'You are wounded in the arm!' This phrase indicates the hit.
+- 'Where are those Russian partisans?' Playing the part of a patrolling sentry, Arkady peers down the hallway looking for partisans.
+- 'I do not see anyone here.' Russian doubles the negative here — 'nobody here I do not see' — as Arkady pretends the coast is clear.
+- 'I am here, right behind the door!' Lyosha leaps out from his ambush spot right behind the door.
+- 'Surrender, the enemy is surrounded!' Waving his imaginary weapon, the boy orders the surrounded enemy to give up.
+- 'Never will I surrender!' Arkady throws his head back heroically and refuses to be taken alive.
+- 'I am opening return fire!' He fires back with imaginary bursts down the communal corridor.
+- 'You are wounded in the arm!' Lyosha calls out a hit on Arkady's arm.
 - 'Oh, I am heavily wounded!' Arkady melodramatically plays along with the boy.
-- 'But I still have strength left.' The plural 'of' form follows the existence construction.
+- 'But I still have strength left.' Literally, 'at me there are still forces' — the wounded villain refuses to stay down.
 - 'Great game, Arkady!' Lyosha happily praises their imaginative battle in the corridor.
 - 'Thank you, Lyosha. We are a great team.' Arkady strengthens his bond with Marina's son.

@@ -28,18 +28,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Ask if anything interests you.' The polite command prompts the visitor to inquire freely.
-- 'It is nice at your place. Warm.' The short adverbial predicates convey a pleasant indoor atmosphere.
-- 'And where are the rest of the children?' The diminutive noun for children carries an affectionate tone.
-- 'They are currently on an interesting field trip.' The preposition takes the location case form.
-- 'And little Grisha is preparing for the morning show.' This phrase expresses active preparation.
-- 'Grisha, dance for Auntie Ilona!' The informal command instructs the operative to perform his child dance.
-- 'I love to dance very much.' The first-person verb combines with an action verb to express personal enjoyment.
-- 'Grisha, hug Auntie Ilona!' The command form command prompts an awkward physical bear hug.
-- 'He has a very big heart.' Russian uses the preposition with a 'of me/you' pronoun to express possession.
-- 'What a kind and strong boy.' The exclamation word agrees in gender with the masculine noun.
-- 'Three thousand a month with meals included.' The preposition with This phrase indicates inclusive board.
-- 'Our porridge is without lumps.' The preposition meaning 'without' takes the plural 'of' form noun ending.
-- 'Did anyone call you from the mayor's office?' The preposition indicates origin or institutional affiliation.
-- 'From the mayor's office? We are a kindergarten!' The emphatic particle expresses obvious common sense.
-- 'Thank you. Goodbye!' The visitor offers standard polite parting wishes before quickly exiting.
+- 'Ask if anything interests you.' Playing the helpful daycare director, Zemlinkin tells Ilona to ask whatever she likes.
+- 'It is nice at your place. Warm.' Glancing around the room, Ilona remarks that the place feels cozy and warm.
+- 'And where are the rest of the children?' Then she asks the obvious question: where are all the other little kids?
+- 'They are currently on an interesting field trip.' Thinking fast, Zemlinkin claims the rest of the children are out on a field trip right now.
+- 'And little Grisha is preparing for the morning show.' Using a sweet nickname for the giant operative, he says little Grisha stayed behind to rehearse.
+- 'Grisha, dance for Auntie Ilona!' To sell the act, he orders Grisha to do a little dance for 'Auntie Ilona.'
+- 'I love to dance very much.' Standing a head taller than everyone else, Grisha deadpans in a deep voice that he really loves dancing.
+- 'Grisha, hug Auntie Ilona!' Pushing the comedy even further, Zemlinkin tells the giant to give their guest a big hug.
+- 'He has a very big heart.' As Grisha nearly crushes her ribs, Zemlinkin beams that the boy has a very big heart.
+- 'What a kind and strong boy.' Gasping for air after the bear hug, Ilona politely calls him a kind, strong boy.
+- 'Three thousand a month with meals included.' Turning back to his sales pitch, he quotes a monthly tuition of three thousand including meals.
+- 'Our porridge is without lumps.' To seal the deal, he brags that their nursery porridge never has a single lump in it.
+- 'Did anyone call you from the mayor's office?' Slipping in her real test question, Ilona casually asks if anyone from city hall has called.
+- 'From the mayor's office? We are a kindergarten!' Zemlinkin laughs off the idea — why on earth would city hall call a humble kindergarten?
+- 'Thank you. Goodbye!' Satisfied that the place is clean, Ilona thanks him politely and heads for the exit.

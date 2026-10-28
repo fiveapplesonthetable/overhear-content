@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Marina, I recognize your father in you.' Direct-address noun with first-person present verb governing an object-form noun phrase.
-- 'Thank you for these kind words, Father Grigory.' Expression of gratitude governing a location object-form phrase and direct-address title.
-- 'Your father also always boldly defended the truth.' Masculine subject with manner adverbs and past ongoing-action form governing object-form case.
-- 'I always try to act honestly, like him.' First-person self-action verb form governing an ongoing-action form basic verb form and comparative clause.
-- 'Today you accomplished a real brave act.' Temporal adverb with a second-person plural past verb governing a masculine direct object.
-- 'We simply could not abandon this monastery.' Modal past verb with negative particle governing a single-action form and direct object.
-- 'Your father would be very proud of you.' Conditional construction with past verb and particle governing an 'with' pronoun object.
-- 'The main thing is that our ancient wall is saved.' Descriptive word heading an explanatory clause.
-- 'The people around are sincerely grateful to all of you.' Plural subject with short adjective governing a 'to'-form plural pronoun.
-- 'The students showed tremendous patience and courage.' Plural subject with single-action form verb governing coordinated neuter direct objects.
-- 'Now peace and quiet will return here again.' Temporal and spatial adverbs with a future-tense form and coordinated subjects.
-- 'Yes, we defended our shared historical heritage.' Affirmative particle with a single-action form verb governing a neuter direct object.
+- 'Marina, I recognize your father in you.' As the dust settles, an old priest steps up with the highest compliment he can give her.
+- 'Thank you for these kind words, Father Grigory.' Notice how the priest shares the exact name—Father Grigory—of the medieval monk from the opening scene.
+- 'Your father also always boldly defended the truth.' Her late father was a respected figure in town, and the priest remembers his backbone.
+- 'I always try to act honestly, like him.' After all the cynicism and compromises she has been through this season, hearing this means the world to her.
+- 'Today you accomplished a real brave act.' In Russian you don't just "do" a brave deed, you "accomplish" ("sovershit") a "postupok"—a word reserved for actions that take real moral courage.
+- 'We simply could not abandon this monastery.' She deflects the praise away from herself, treating the protest as simple duty.
+- 'Your father would be very proud of you.' That quiet blessing brings a tear to her eye after the adrenaline of the standoff.
+- 'The main thing is that our ancient wall is saved.' Ever the historian, she brings the focus back to the twelfth-century stones behind them.
+- 'The people around are sincerely grateful to all of you.' Crowds of townspeople and reenactors have gathered around, cheering the students who held the line.
+- 'The students showed tremendous patience and courage.' Like a good teacher, she makes sure the young people who stood in the freezing wind get the credit.
+- 'Now peace and quiet will return here again.' "Mir i pokoy" ("peace and quiet/rest") has a gentle, churchly cadence in the old priest's mouth.
+- 'Yes, we defended our shared historical heritage.' "Otstoyali" literally means "stood up for and kept"—they protected the wall by physically standing in front of it.

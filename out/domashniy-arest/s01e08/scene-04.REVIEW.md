@@ -28,18 +28,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Let me schedule you for next year.' The doctor uses a command construction meaning 'let me write you down'.
+- 'Let me schedule you for next year.' The doctor offers to put Lyosha down for next year as casually as if he were booking a haircut.
 - 'What do you mean, next year? Why?' Marina is stunned by the delay and asks for an explanation.
-- 'This year all the quotas have been used up.' Notice the past plural verb meaning 'chose' or 'used up'.
-- 'And next year you will be first on the list.' The ordinal numeral is in the feminine 'with/as' form.
-- 'Wait! But it has become more painful for him to step.' The comparative adverb describes the worsening pain.
-- 'That means the disease is progressing!' The feminine noun for 'disease' is the grammatical subject.
-- 'And what if he can't walk at all?' The adverb means 'at all' or 'in general'.
+- 'This year all the quotas have been used up.' In clinic bureaucracy, the word for 'chosen' means every single state-funded slot has already been taken.
+- 'And next year you will be first on the list.' Being first in line twelve months from now is cold comfort when a child can barely walk.
+- 'Wait! But it has become more painful for him to step.' Marina cuts in — every step hurts her son more than it did a week ago.
+- 'That means the disease is progressing!' If the pain is getting worse, the condition in his joint is clearly advancing.
+- 'And what if he can't walk at all?' Her voice cracks at the terrifying thought that waiting another year could leave Lyosha unable to walk.
 - 'I understand you. But I do not allocate the quotas.' The doctor explains that administrative decisions are out of his hands.
-- 'Go to a bank. Take out a loan for a paid surgery.' Both verbs are in the polite plural command form.
-- 'The state will reimburse you the money later.' The future-tense form means 'will return' or 'will reimburse'.
+- 'Go to a bank. Take out a loan for a paid surgery.' His practical suggestion is heartbreakingly cynical: go borrow money from a bank and pay for the operation yourself.
+- 'The state will reimburse you the money later.' He promises the government will pay her back eventually, though both of them know how slow that is.
 - 'I am unemployed! They will not approve any loan for me.' Marina reminds him that she was fired from the university.
-- 'I sincerely feel for you, but it is time for me to work.' The adverb means 'sincerely' or 'from the heart'.
+- 'I sincerely feel for you, but it is time for me to work.' With a polite formula of sympathy, the doctor glances at the clock and brushes her out of his office.
 - 'Mama, will the surgery be very expensive?' Lyosha looks up anxiously from his crutches.
 - 'Sweetie, don't worry!' Marina comforts her son with an affectionate diminutive address.
 - 'The state will surely see and will schedule the surgery.' Marina tries to keep her son's spirits up despite the bureaucratic wall.

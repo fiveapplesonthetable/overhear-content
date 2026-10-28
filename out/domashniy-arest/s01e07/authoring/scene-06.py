@@ -17,7 +17,7 @@ OUTRO = "Marina and Eduard rush out of the room toward the stairs, where Arkady 
 CLOSING = ('arkady', 'Пока!')
 STORY = [
     ('ilona', 'Я не буду тебе помогать! Ты понимаешь, что это детский сад?', 'I am not going to help you! Do you understand that this is kindergarten?', [(240, 'Я не буду тебе помогать'), (242, 'Ты понимаешь, что это детский сад')], ''),
-    ('ilona', 'Нашёл время и место! Какая тебе разница?', 'You found a fine time and place! What difference does it make to you?', [(242, 'Нашел время и место'), (244, 'Какая'), (244, 'разница')], "word order in 244 smoothed to 'Какая тебе разница?'"),
+    ('arkady', 'Нашёл время и место! Какая тебе разница?', 'You found a fine time and place! What difference does it make to you?', [(242, 'Нашел время и место'), (244, 'Какая'), (244, 'разница')], "word order in 244 smoothed to 'Какая тебе разница?'"),
     ('arkady', 'Я не могу спать спокойно! Этот старик крадёт у девушки лучшие годы.', "I cannot sleep in peace! This old man is stealing the girl's best years.", [(245, 'я не могу спать спокойно'), (246, 'крадет у девушки')], "crude 'старый урод' (245) and slip in 246-247 cleaned to 'старик ... лучшие годы'"),
     ('ilona', 'Ты что, влюбился в неё?', 'What, did you fall in love with her?', [(248, 'влюбился')], "colloquial 'Че, влюбился?' -> 'Ты что, влюбился в неё?'"),
     ('arkady', 'Нет! Или да. Какая разница? Помоги мне, я прошу тебя.', 'No! Or yes. What difference does it make? Help me, I beg you.', [(249, 'Нет'), (251, 'Или да. Какая разница? Помоги мне'), (253, 'Помоги мне, я прошу тебя')], ''),
@@ -36,7 +36,7 @@ STORY = [
 WALK = [
     (0, 'Я не буду тебе помогать!', "'I am not going to help you!' Ilona refuses to get dragged into Arkady's romantic schemes."),
     (0, 'Ты понимаешь, что это детский сад?', "'Do you understand that this is kindergarten?' She calls his romantic jealousy childish nonsense."),
-    (1, 'Нашёл время и место!', "'You found a fine time and place!' Ilona reminds him they are in the middle of a serious campaign."),
+    (1, 'Нашёл время и место!', "'You found a fine time and place!' Here, Ilona reminds him they are in the middle of a serious campaign."),
     (1, 'Какая тебе разница?', "'What difference does it make to you?' She asks why he cares so much about Marina's dating life."),
     (2, 'Я не могу спать спокойно!', "'I cannot sleep in peace!' Arkady tries to sound like a noble protector of innocent youth."),
     (2, 'Этот старик крадёт у девушки лучшие годы.', "'This old man is stealing the girl's best years.' Arkady indignantly protests against Eduard."),

@@ -28,18 +28,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Just look at what we have come to!' Notice the prefixed verb for reaching an undesirable state or low point.
-- 'The grandson of a collaborator is clawing his way into power!' This phrase expresses aggressive striving for power.
-- 'And that is in our beloved city!' The adjective is in the location form after the preposition for 'in'.
-- 'But after all, a grandson is not responsible for his grandfather.' The preposition for 'for' takes the direct-object form here.
+- 'Just look at what we have come to!' Pasha puts on his best outraged voice for the camera, using an everyday idiom that literally means 'rolled all the way down to this point'.
+- 'The grandson of a collaborator is clawing his way into power!' He paints his rival as a ruthless climber trying to force his way into the mayor's chair.
+- 'And that is in our beloved city!' Adding 'in our beloved city' makes the supposed scandal sound like a personal insult to every voter.
+- 'But after all, a grandson is not responsible for his grandfather.' Slava raises the obvious fair point: you cannot blame a man for what his grandfather did in the war.
 - 'That may be so! But the apple does not fall far from the tree.' Pasha cites the classic proverb about family inheritance.
-- 'It is a question of upbringing, after all. Whom can a traitor raise?' Notice the 'of' form on the noun 'upbringing'.
+- 'It is a question of upbringing, after all. Whom can a traitor raise?' Pasha pivots straight to family upbringing, asking a loaded question designed to smear Ivan.
 - 'Only a person similar to himself!' Pasha argues that values are passed down directly from parent to child.
 - 'Look, candidate Samsonov threw a man out the window!' He brings up Samsonov's notorious kitchen brawl with Arkady.
 - 'The former mayor, the bribe-taker Anikeyev?' Slava cautiously reminds him who the victim actually was.
 - 'It doesn't matter! He simply threw a human being out the window!' Pasha brushes the objection aside for maximum drama.
-- 'On his shoulder is a paratrooper tattoo.' Russian uses the preposition for 'on' plus the location form for body parts.
-- 'And the children film all of this on a phone.' The present plural verb describes the video recording.
-- 'And his whole family is thrilled!' This phrase means 'rejoices' or 'is glad'.
-- 'It turns out to be quite a strange little family!' The diminutive noun adds a sarcastic, disparaging tone.
-- 'We will see whether this candidate comes to the debate!' The particle introduces an indirect question about the future.
+- 'On his shoulder is a paratrooper tattoo.' He points to the footage of Ivan's bare shoulder as if a paratrooper tattoo were proof of violent tendencies.
+- 'And the children film all of this on a phone.' To make it sound even worse, Pasha highlights that the kids were standing right there filming the brawl.
+- 'And his whole family is thrilled!' In Pasha's telling, the whole household was cheering on the defenestration.
+- 'It turns out to be quite a strange little family!' He tacks a little suffix onto the word for 'family' so it comes out sounding like 'that weird little clan'.
+- 'We will see whether this candidate comes to the debate!' The little word 'li' turns his closing taunt into a challenge: let's see if Samsonov even dares show up.

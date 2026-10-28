@@ -39,5 +39,5 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Yes, good is always there too.' Arkady agrees that goodness never completely disappears.
 - 'The main thing is to remember this in time.' Marina stresses making moral choices before disaster strikes.
 - 'Power changes people very strongly.' Arkady reflects on the dangerous temptations of high political office.
-- 'But you were able to remain human.' Marina expresses deep respect for Arkady's inner integrity.
+- 'But you were able to remain human.' "Ostatsya chelovekom" ("to remain a human being") is high praise in Russian for someone who kept their decency under pressure.
 - 'Thank you, Marina, that is very important to me.' Arkady is touched by her heartfelt words.

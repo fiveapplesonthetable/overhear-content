@@ -28,13 +28,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Ow! Something sharp poked into my foot!' This phrase means to dig in or pierce into something.
-- 'What is that there? Is it a screw?' The noun refers to a standard wood screw with threads.
+- 'Ow! Something sharp poked into my foot!' Limping across the room, Arkady yelps as something sharp jabs right into the sole of his foot.
+- 'What is that there? Is it a screw?' Lyolya peers down at the floorboards to see if he stepped on a metal wood screw.
 - 'Yes, a screw from the old floor.' Right then, Samson had dropped it earlier while fixing the floorboards for Lyoshka.
 - 'My goodness! What an idiot I am!' Seeing the screw triggers Arkady's memory of the hospital mix-up.
 - 'Arkasha, what has happened to you?' Lyolya uses the affectionate diminutive for Arkady in surprise.
-- 'I forgot to say the main thing!' The adjective used as a noun refers to the most important thing.
-- 'I needed to tell Marina urgently!' The adverb means immediately, urgently, or without delay.
+- 'I forgot to say the main thing!' In all the chaos, he completely forgot to pass on the most important message of all.
+- 'I needed to tell Marina urgently!' Dr. Tenenbaum's warning about the misdiagnosis had to reach Marina before the surgeons started!
 - 'Wait! Where are you running off to?' Lyolya is confused by his sudden panic.
 - 'Wait here! I'll be right back.' Arkady rushes out of his room into the communal corridor in his socks.
 - 'Marina! Where is Marina?' He bangs on Marina's bedroom door, but nobody answers.
@@ -42,4 +42,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Klavdia Viktorovna, where is Marina?' Arkady grabs the elderly neighbor by the shoulders in desperation.
 - 'She's at the hospital, with Lyokha having surgery.' The doctors are about to operate on a healthy knee due to mixed-up X-rays.
 - 'What do you mean, surgery? Good grief, what a nightmare!' Arkady realizes the catastrophic consequences of his silence.
-- 'How stupid I am!' The colloquial adjective means blunt, obtuse, or utterly stupid.
+- 'How stupid I am!' Arkady curses himself bitterly for forgetting when a child's health is on the line.

@@ -32,16 +32,16 @@ STORY = [
 ]
 WALK = [
     (0, None, "'That is all, the break is over!' Lyosha playfully commands the end of their rest."),
-    (1, None, "'The war is beginning again!' This phrase describes an action that starts up."),
+    (1, None, "'The war is beginning again!' Playtime isn't over yet — Lyosha announces that the battle is back on."),
     (2, None, "'Alright, take the grenade!' Arkady tosses an imaginary explosive at the boy."),
     (3, None, "'I am the evil enemy in the bunker!' Arkady adopts his villainous role in the game."),
-    (4, None, "'I am sitting and fear no one!' The negative pronoun takes the 'of' form with negation."),
-    (5, None, "'Surrender, enemy! I am shooting!' The command form command precedes the boy's attack."),
+    (4, None, "'I am sitting and fear no one!' Sitting in his imaginary bunker, Arkady boasts that nobody scares him."),
+    (5, None, "'Surrender, enemy! I am shooting!' Lyosha charges in yelling for the enemy to give up."),
     (6, None, "'Ow, the partisan shot me in the back!' Arkady pretends to take a hit from behind."),
     (7, None, "'Take that on the back again!' Lyosha gets carried away and strikes Arkady for real."),
     (8, None, "'Quiet, stop! It really hurts!' Arkady drops the game immediately as real pain sets in."),
-    (9, None, "'Enough, stop right now!' This phrase demands an immediate halt to the roughhousing."),
-    (10, None, "'It seems I injured my back.' The parenthetical word conveys Arkady's sudden realization."),
+    (9, None, "'Enough, stop right now!' Playtime is officially over as Arkady winces and begs the boy to stop."),
+    (10, None, "'It seems I injured my back.' Clutching his lower back, Arkady realizes that last whack actually pulled something."),
     (11, None, "'Forgive me, Arkady, I did not mean to.' Lyosha feels guilty for hurting his older friend."),
     (12, None, "'It is nothing. Help me slowly stand up.' Arkady reassures the boy despite his aching back."),
 ]

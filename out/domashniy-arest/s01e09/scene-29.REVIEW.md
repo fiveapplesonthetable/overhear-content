@@ -28,18 +28,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Come on, come on, faster, guys!' The comparative adverb literally means more lively, functioning as an urgent spur.
-- 'She will be here in five minutes.' The preposition indicates the interval of time elapsed before an event takes place.
-- 'We will not make it back with the children in time.' This phrase expresses having sufficient time.
-- 'What on earth should we do?' The conversational particle adds expressive emphasis to the rhetorical question.
-- 'I will move the van away for now.' The temporal adverb means for the time being or meanwhile.
-- 'Look for the little bunny, Grisha!' This phrase expresses an urgent instruction during the fake rehearsal.
-- 'The kind wolf is looking for the bunny.' The diminutive noun for bunny carries an affectionate nursery tone.
-- 'Hello! May I come in?' The descriptive word is used with an action verb to ask for polite permission.
-- 'Hello! I am Valery Petrovich.' Addressing oneself by first name and patronymic is standard formal Russian etiquette.
-- 'I am the director of this madhouse.' The colloquial Russian noun denotes total chaos or an untidy madhouse.
-- 'I want to enroll my daughter in your daycare.' The basic verb form takes the direct-object form for the person enrolled.
-- 'Wonderful! Come in, please.' This phrase invites an arriving guest to step inside.
-- 'Excuse us, we have a bit of a mess here.' The polite apology is followed by a candid description of clutter.
-- 'We are simply preparing for the morning show.' The preposition takes the 'to/for' form for an upcoming event.
-- 'Have a look around if you wish.' This phrase invites the visitor to inspect the room.
+- 'Come on, come on, faster, guys!' With their cover about to be blown, the operative urges the whole squad to hustle.
+- 'She will be here in five minutes.' The lookout warns that Ilona is only five minutes away from walking through the front door.
+- 'We will not make it back with the children in time.' Since the real kids are already on a bus to the water park, there is no time to bring them back.
+- 'What on earth should we do?' Panicking, Zemlinkin wonders how they can fake a working kindergarten with zero children.
+- 'I will move the van away for now.' One operative volunteers to move the tactical van out of sight before Ilona pulls up.
+- 'Look for the little bunny, Grisha!' Improvising wildly, Zemlinkin thrusts a toy at hulking Grisha and tells him to play bunny.
+- 'The kind wolf is looking for the bunny.' He coaches the burly operative through a nursery game where the nice wolf looks for the little bunny.
+- 'Hello! May I come in?' Knocking at the door, Ilona politely asks if she can step inside.
+- 'Hello! I am Valery Petrovich.' Putting on his warmest smile, Zemlinkin introduces himself by name and patronymic.
+- 'I am the director of this madhouse.' Using a colorful word for a chaotic madhouse, he jokingly calls himself the director of the place.
+- 'I want to enroll my daughter in your daycare.' Using her cover story, Ilona claims she is looking to enroll her daughter in the daycare.
+- 'Wonderful! Come in, please.' Staying in character as a welcoming principal, he invites her right in.
+- 'Excuse us, we have a bit of a mess here.' To explain the smashed doors and debris from the raid, he apologizes for the little mess.
+- 'We are simply preparing for the morning show.' He claims the chaos is just rehearsals for an upcoming children's morning show.
+- 'Have a look around if you wish.' Trying to sound completely relaxed, he invites her to look around the room.

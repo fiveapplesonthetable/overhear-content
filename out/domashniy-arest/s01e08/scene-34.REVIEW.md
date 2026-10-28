@@ -28,18 +28,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Your friend Osipenko called me, can you imagine?' The verb literally means 'do you picture it' or 'can you imagine'.
+- 'Your friend Osipenko called me, can you imagine?' Lyolya bursts in indignantly — 'can you picture that?' — to report that Pasha Osipenko just phoned her.
 - 'He asks how I am doing.' Here, Pavel Osipenko has been trying to move in on Arkady's girlfriend while Arkady is under house arrest.
-- 'He says he missed me very much.' In Russian, the verb takes the preposition for 'after' plus the 'to'-form or location case.
-- 'Who else will take care of me?' The verb for taking care of someone takes the preposition for 'about' plus the location form.
+- 'He says he missed me very much.' To hear Lyolya tell it, Pasha was practically sighing into the receiver about how much he missed her.
+- 'Who else will take care of me?' According to Lyolya, Pasha even posed as her protector, asking who else would look after her now.
 - 'He offered to replace you for me!' Here, Osipenko shamelessly claimed Arkady was out of the picture for good.
 - 'What? Has he lost his mind completely?' The phrase literally means 'to go off one's mind'.
-- 'I said he's just a disgusting person.' The adjective describes someone vile, nasty, or slimy.
+- 'I said he's just a disgusting person.' Lyolya proudly reports that she called Osipenko a slimy creep to his face.
 - 'I'm not some object after all!' Lyolya is furious that the men in City Hall treat women like property.
-- 'Well, do you feel even a little better?' The comparative adverb means 'easier' or 'better' in health.
+- 'Well, do you feel even a little better?' Seeing Arkady wince in his casts, she softens her tone and asks if the pain has eased up.
 - 'Thank you, but I'm still in pain.' Arkady is still sore after his fall and wearing casts on his arms.
-- 'You're rude, but I felt sorry for you.' The noun means a rude, ill-mannered person.
+- 'You're rude, but I felt sorry for you.' Even though Arkady is always barking at her, Lyolya took pity on him and came to visit.
 - 'Let me give you a back massage.' She rolls up her sleeves and reaches for Arkady's shoulders.
-- 'Lyolya, wait! Please don't touch me!' In Russian, the negative command uses the ongoing-action form aspect to say 'don't touch'.
+- 'Lyolya, wait! Please don't touch me!' Panic hits Arkady's voice as her hands press down on his sore back.
 - 'The doctor said I need complete rest.' Arkady winces in pain as she presses down on his back.
 - 'But the doctor said to relax your muscles!' Lyolya insists that a firm massage is exactly what the doctor ordered.

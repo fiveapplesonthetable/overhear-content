@@ -32,12 +32,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Wrap him in warm clothes immediately!' The officer orders prompt medical attention for hypothermia.
 - 'We thought he would take you home.' Explaining why the raid arrived at the last second.
 - 'And turns out he is quite a murderer!' Expressing disgust at Stepanovich's brutal treachery.
-- 'At least we caught him red-handed!' Celebrating the flawless evidentiary entrapment.
+- 'At least we caught him red-handed!' "Vzyat s polichnym" is the Russian police expression for catching a suspect red-handed with the evidence right on him.
 - 'Stepanych, you are a truly vile villain!' Arkady lashes out at his treacherous captor.
 - 'Now you will go to prison yourself!' Arkady relishes the sudden tables turning.
 - 'Quiet, Arkady Borisovich, calm down a bit.' Sokolov reins in the emotional outburst.
 - 'Arkady, how did this turn out like this?' Viktor stares in disbelief at his handcuffs.
-- 'Just like that, Stepanych, our multi-move operation.' Sokolov reveals the premeditated FSB sting.
+- 'Just like that, Stepanych, our multi-move operation.' "Mnogokhodovochka" comes from chess—"a clever multi-move combination"—and Russians love using it for an elaborate political sting.
 - 'Here, look at our camera's video recording.' Displaying incontrovertible proof of the crime.
 - 'How far has this whole investigation gone?' Stepanovich realizes the immense scope of the trap.
 - 'You will answer in court according to law.' The law enforcement officer delivers final justice.

@@ -33,9 +33,9 @@ STORY = [
     ('dean', 'Обязательно забегайте ко мне снова.', 'Be sure to drop by my office again.', [(612, 'Забегайте.')], 'adapted cue 612'),
 ]
 WALK = [
-    (0, None, "'You know that I am a historian.' Marina establishes her academic credentials as the basis for the project."),
-    (5, None, "'We could make an investigative film.' The conditional construction proposes a documentary film format."),
-    (7, None, "'But right now we are very limited in funds.' Eduard relies on budgetary constraints to delay immediate commitments."),
-    (9, 'А что у вас с лицом?', "'And what happened to your face?' Marina notices red marks and swelling on his face."),
-    (11, None, "'Be more careful with your health.' This phrase urges him to exercise caution with food allergens."),
+    (0, None, "'You know that I am a historian.' Marina reminds him of her scholarly background before pitching her big idea."),
+    (5, None, "'We could make an investigative film.' Adding \"by\" turns \"we could\" into an eager proposal for a historical documentary."),
+    (7, None, "'But right now we are very limited in funds.' After praising her idea to the skies, Eduard immediately hides behind a tight budget."),
+    (9, 'А что у вас с лицом?', "'And what happened to your face?' Literally \"what is with your face\", as Marina spots the bruises he got from his shady creditors."),
+    (11, None, "'Be more careful with your health.' Buying his story about a nut allergy, she wishes him well on her way out."),
 ]

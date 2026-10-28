@@ -37,11 +37,11 @@ WALK = [
     (3, None, "'Vanya, the election isn't what matters most.' Nina speaks softly without meeting his eyes."),
     (4, None, "'What does matter most? Tell me!' Ivan is genuinely perplexed by her cold tone."),
     (5, None, "'You don't think about the family at all.' She reminds him of weeks of brawls, police, and chaos."),
-    (6, None, "'I do everything for the sake of the family!' The preposition requires the 'of' form."),
+    (6, None, "'I do everything for the sake of the family!' Ivan protests that every crazy thing he has done in this campaign was for the family's sake."),
     (7, None, "'No, you do everything for yourself.' Nina sees through his political ambitions."),
     (8, None, "'Nina, come on, wait! Everything will work out.' Ivan reaches out to take her hand."),
     (9, None, "'Listen, Vanya. I am very tired.' She pulls her hand away gently."),
-    (10, None, "'Let's get a divorce.' The hortative particle combines with the future-tense form to propose an action."),
+    (10, None, "'Let's get a divorce.' Two quiet words drop like a stone in the silent room: Nina wants a divorce."),
     (11, None, "'What are you saying? What divorce?' Ivan freezes in complete disbelief."),
     (12, None, "'A regular one. I can't go on like this anymore.' Nina stands up, leaving Ivan stunned in the dim room."),
 ]

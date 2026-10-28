@@ -10,10 +10,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Вика | Какие же у вас взрослые сыновья! | What grown sons you have! | #1152: Какие же у вас сынки, | adapted: compliment on sons |
-| 2 | Вика | Они очень похожи на вас, Лев Егорыч. | They look very much like you, Lev Egorych. | #1152: Лев Егорыч? | adapted: addressing formally |
-| 3 | Лев | Просто Лев, малышка, без отчества. | Just Lev, sweetheart, without the patronymic. | #1153: Просто Лев, малышка. | adapted: dropping patronymic |
-| 4 | Лев | Зови меня просто: Лёва. | Call me simply: Lyova. | #1154: Лёва. | adapted: asking for nickname |
+| 1 | Вика | Какие же у вас взрослые сыновья! | What grown sons you have! | #1152 01:10:43: Какие же у вас сынки, | adapted: compliment on sons |
+| 2 | Вика | Они очень похожи на вас, Лев Егорыч. | They look very much like you, Lev Egorych. | #1152 01:10:43: Лев Егорыч? | adapted: addressing formally |
+| 3 | Лев | Просто Лев, малышка, без отчества. | Just Lev, sweetheart, without the patronymic. | #1153 01:10:48: Просто Лев, малышка. | adapted: dropping patronymic |
+| 4 | Лев | Зови меня просто: Лёва. | Call me simply: Lyova. | #1154 01:10:52: Лёва. | adapted: asking for nickname |
 | 5 | Вика | Хорошо, Лёва, как скажешь. | All right, Lyova, as you say. | new | new: Vika agrees playfully |
 | 6 | Вика | Мне очень нравится твоё имя. | I like your name very much. | new | new: flattery |
 | 7 | Лев | Ты сегодня выглядишь просто прекрасно. | You look simply wonderful today. | new | new: Lev compliments her |
@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What grown sons you have!' Vika compliments the governor on his family.
-- 'They look very much like you, Lev Egorych.' Vika addresses him formally by his patronymic.
-- 'Just Lev, sweetheart, without the patronymic.' Lev asks her to drop formal etiquette in private.
-- 'Call me simply: Lyova.' Lev introduces his affectionate diminutive name with a warm smile.
-- 'All right, Lyova, as you say.' Vika agrees playfully to call him by his nickname.
-- 'I like your name very much.' Vika flatters him with charming compliments.
-- 'You look simply wonderful today.' Lev compliments her charming appearance.
-- 'Thank you very much for your kindness.' Vika thanks him warmly for his hospitality.
-- 'I love giving you joy.' Lev expresses his affection for his young companion.
-- 'You always give me gifts.' Vika acknowledges his continuous generosity.
-- 'For you I spare nothing.' Lev assures her that he is generous without limits.
-- 'Then pour me another glass of wine.' Vika asks for another drink to celebrate.
-- 'With great pleasure, my dear!' Lev pours more wine for his young companion.
-- 'Let us drink to our mutual happiness!' Vika raises a toast to their relationship.
+- 'What grown sons you have!' Looking at the family photos, Vika marvels at Lev's grown-up boys.
+- 'They look very much like you, Lev Egorych.' Notice how she slips back into his name and patronymic out of habit.
+- 'Just Lev, sweetheart, without the patronymic.' He gently reminds her of their agreement from breakfast: no formal titles at home.
+- 'Call me simply: Lyova.' Going from "Lev" to the affectionate nickname "Lyova" brings them even closer.
+- 'All right, Lyova, as you say.' Notice she has also switched from the formal "vy" to the intimate "ty".
+- 'I like your name very much.' Soft and unhurried, the mood here is a world away from the political chaos across town.
+- 'You look simply wonderful today.' Lev returns the compliment with his usual quiet warmth.
+- 'Thank you very much for your kindness.' More than the house or the wine, it is his gentleness that wins her over.
+- 'I love giving you joy.' In Russian you literally "gift joy" to someone, the same word used for giving presents.
+- 'You always give me gifts.' Literally "make gifts to me", the everyday Russian phrasing.
+- 'For you I spare nothing.' "Mne nichego ne zhalko"—"I begrudge nothing"—is the classic Russian way to express open-handed generosity.
+- 'Then pour me another glass of wine.' Comfortable and at ease, she holds out her glass.
+- 'With great pleasure, my dear!' Putting "my" after "dear"—"dorogaya moya"—makes the endearment sound extra tender.
+- 'Let us drink to our mutual happiness!' They clink glasses as the episode winds down.

@@ -30,10 +30,10 @@ STORY = [
     ('pasha', 'Я буду говорить только с адвокатом.', 'I will speak only with a lawyer.', [], 'new'),
 ]
 WALK = [
-    (0, None, "'Everyone down! Special forces at work!' Impersonal 'to'-form basic verb form command followed by a third person present verb."),
-    (2, None, "'Everyone down on the floor, I said!' Firm command with an action verb, location phrase on the floor, and a past tense verb."),
-    (3, None, "'Drop weapons! Hands behind head!' Basic verb form command command followed by an object-form location direction phrase."),
-    (6, None, "'Please do not shoot, we surrender!' Polite particle with a negative plural command verb and a self-action verb form verb."),
-    (9, None, "'There is no mistake, you are under arrest!' Negative construction with 'of'-form case followed by a short passive past verbal adjective."),
-    (11, None, "'I will speak only with a lawyer.' Compound future ongoing-action form tense followed by an 'with'-form noun."),
+    (0, None, '\'Everyone down! Special forces at work!\' "Vsem lezhat!"—literally "to everyone, lie down!"—is the barked command you hear in every Russian police raid.'),
+    (2, None, '\'Everyone down on the floor, I said!\' Adding "ya skazal" ("I said") onto the end lets the shocked suspects know he will not ask a third time.'),
+    (3, None, "'Drop weapons! Hands behind head!' Short, barked commands strip away every extra word when tactical officers storm a room."),
+    (6, None, "'Please do not shoot, we surrender!' So much for the tough city boss: the moment guns appear, Pavel is on the concrete begging."),
+    (9, None, '\'There is no mistake, you are under arrest!\' Six bags of cash in the trunk make Pasha\'s "big mistake" excuse dead on arrival.'),
+    (11, None, "'I will speak only with a lawyer.' Finally remembering a line from crime movies, Pavel retreats into silence as the handcuffs click."),
 ]

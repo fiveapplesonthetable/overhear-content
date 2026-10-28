@@ -12,7 +12,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 |---|---|---|---|---|---|
 | 1 | Самсон | Ты думала только о чужих деньгах! | You only thought about other people's money! | new | new: opening accusation |
 | 2 | Нина | Я думала о благополучии наших детей. | I thought about the well-being of our children. | new | new: Nina's defense |
-| 3 | Самсон | Раньше надо было думать головой! | Earlier you should have thought with your head! | #1075: Раньше нужно было | adapted: adapted cue |
+| 3 | Самсон | Раньше надо было думать головой! | Earlier you should have thought with your head! | #1075 01:01:34: Раньше нужно было | adapted: adapted cue |
 | 4 | Нина | Перестань кричать на меня при всех. | Stop shouting at me in front of everyone. | new | new: Nina's objection |
 | 5 | Самсон | Ты разрушила всё наше семейное счастье. | You destroyed all our family happiness. | new | new: Samson's bitter reproach |
 | 6 | Нина | Ты сам виноват в наших бедах! | You are to blame yourself for our troubles! | new | new: counter-accusation |
@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You only thought about other people's money!' Samsonov accuses Nina of cold financial calculation.
-- 'I thought about the well-being of our children.' Nina defends her focus on providing for their family.
-- 'Earlier you should have thought with your head!' A sharp rebuke criticizing past lack of foresight.
-- 'Stop shouting at me in front of everyone.' Nina tries to keep their painful conflict private.
-- 'You destroyed all our family happiness.' Samsonov places total blame on his wife for their misery.
-- 'You are to blame yourself for our troubles!' Nina reminds him of his own numerous personal flaws.
-- 'I will never believe your words again.' A declaration marking complete destruction of marital trust.
-- 'Then why are you holding me here?' Nina asks why he keeps her around if he hates her so much.
-- 'I need an exemplary family for the election.' Samsonov cynically reveals his PR requirements.
-- 'You are using us for the sake of your power!' Nina points out his selfish political exploitation.
-- 'Smile and keep silent when we go out.' A direct instruction to put on a cheerful public face.
-- 'I do not want to play in this cheap performance.' Nina expresses disdain for political theater.
-- 'You are obligated to stand beside me.' Samsonov insists on her formal spousal obligation.
-- 'I am standing here only for our children.' Nina affirms that maternal love is her sole motivation.
+- 'You only thought about other people's money!' Convinced she only wants him now that he has a political backer, Ivan lashes out.
+- 'I thought about the well-being of our children.' After years of scraping by, Nina wanted security for Slavik and Yulia.
+- 'Earlier you should have thought with your head!' Literally "it was necessary to think with the head", a sharp Russian way to say "you should have used your brain".
+- 'Stop shouting at me in front of everyone.' With performers and stagehands all around them backstage, she begs him to lower his voice.
+- 'You destroyed all our family happiness.' Forgetting his own affair, he pins the whole wreck of their marriage on her.
+- 'You are to blame yourself for our troubles!' Adding "sam" — "yourself" — throws the accusation right back in his face.
+- 'I will never believe your words again.' Trust between them has hit rock bottom.
+- 'Then why are you holding me here?' If he despises her so much, why make her stand backstage in a cartoon costume?
+- 'I need an exemplary family for the election.' There is the ugly truth: he has already started sounding like a real politician.
+- 'You are using us for the sake of your power!' Even before winning the election, the taste of power has gone to his head.
+- 'Smile and keep silent when we go out.' Two cold orders: put on a grin for the cameras and don't say a word.
+- 'I do not want to play in this cheap performance.' "Spektakl" means both a stage play and a fake charade put on for show.
+- 'You are obligated to stand beside me.' Treating his wife like a campaign prop, he demands she play her part.
+- 'I am standing here only for our children.' She steps out onto the stage, not for Ivan's career, but so the kids aren't humiliated.

@@ -40,8 +40,8 @@ WALK = [
     (6, None, "'Some don't, but some do!' Lavrov smirks with a sly gleam in his eye."),
     (7, None, "'Who do you have in mind?' Zavarzin asks, leaning closer to the desk."),
     (8, None, "'Eduard Valentinovich Kargopolov.' Lavrov pulls up the file on Marina's former dean."),
-    (9, None, "'Marina Belinkina's former lover.' Notice the masculine noun for a lover in the basic dictionary form."),
+    (9, None, "'Marina Belinkina's former lover.' Lavrov reads the next line in the dossier: the dean used to be Marina's secret partner."),
     (10, None, "'This is a very interesting character.' Lavrov notes Kargopolov's shady academic bookkeeping."),
-    (11, None, "'He likes to help himself to public funds.' The 'with/as' form is used with the self-action verb form meaning 'to make use of'."),
+    (11, None, "'He likes to help himself to public funds.' Like many crooked officials in Sineozersk, the dean has a habit of dipping his hands into the university budget."),
     (12, None, "'Excellent plan, Comrade Major!' Zavarzin grins, realizing they can use the dean's corruption to squeeze Marina and Arkady."),
 ]

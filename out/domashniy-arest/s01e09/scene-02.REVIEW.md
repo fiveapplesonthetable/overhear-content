@@ -28,16 +28,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'How much money does it take to be happy?' The opening rhetorical question sets the satirical tone of the series.
-- 'How much money do you need?' Notice the 'to me/you' pronoun indicating the person who needs the money.
-- 'A little bit there, a little bit here.' The rhyming adverbs describe accumulating wealth through petty bribes.
-- 'And just like that, you've got six million!' the plural 'of' form noun follows the cardinal numeral for 'six'.
+- 'How much money do you need?' Now the singer turns the question directly on the listener, asking how much cash it really takes.
+- 'A little bit there, a little bit here.' A little skimmed here and a little pocketed there is how a corrupt fortune starts.
+- 'And just like that, you've got six million!' Before you know it, those small kickbacks have quietly piled up into six million.
 - 'A villa in Monaco, an account in Switzerland.' The lyrics list typical status symbols of corrupt officials.
-- 'But you need, need, need even more!' The comparative adverb emphasizes the theme of bottomless greed.
+- 'But you need, need, need even more!' Repeating the word for 'need' three times captures the bottomless greed that never feels satisfied.
 - 'A supermodel wife and a mistress too.' The narrator lists the corrupt official's domestic luxuries.
-- 'Only she's just a little bit younger!' The comparative adjective with a prefix means 'somewhat younger'.
+- 'Only she's just a little bit younger!' Naturally, the mistress on the side has to be just a tiny bit younger than the wife.
 - 'A white yacht sails across the sea.' A classic image of luxury sailing on the Mediterranean.
-- 'Happiness is getting closer, almost here!' The adverbial idiom expresses an imminent arrival.
-- 'Paintings by Dalí and Van Gogh in the kitchen.' Plural location forms describe opulent wall decor.
-- 'A church, a mosque, and a synagogue are built.' Short passive form describing lavish religious donations.
-- 'And for insurance, a Buddhist temple too!' The noun phrase explains superstitious hedge investments.
-- 'If it doesn't pan out here, it will pan out there!' The colloquial idiom means 'to succeed or work out'.
+- 'Happiness is getting closer, almost here!' That doubled expression at the end means 'any second now' — true bliss is always just out of reach.
+- 'Paintings by Dalí and Van Gogh in the kitchen.' The official has so much stolen cash that priceless masterpieces hang right in the kitchen.
+- 'A church, a mosque, and a synagogue are built.' To buy forgiveness for his sins, he funds houses of worship for every major faith at once.
+- 'And for insurance, a Buddhist temple too!' Just to hedge his bets, he throws in a temple too as spiritual insurance.
+- 'If it doesn't pan out here, it will pan out there!' Literally about a fire catching, the final line jokes that if one bet doesn't pan out, another one will.

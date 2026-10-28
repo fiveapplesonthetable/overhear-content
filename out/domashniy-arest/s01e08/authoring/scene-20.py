@@ -34,7 +34,7 @@ STORY = [
 WALK = [
     (0, None, "'Hey, kid, have you ever made a toy shooter?' Arkady uses a nostalgic childhood word."),
     (2, None, "'Want me to teach you?' The short colloquial question invites the boy to bond."),
-    (4, None, "'Then run, go grab a clothespin quickly!' The command form commands him to fetch the key part."),
+    (4, None, "'Then run, go grab a clothespin quickly!' Arkady sends his young apprentice scrambling for the essential part of any Soviet homemade shooter: a wooden clothespin."),
     (7, None, "'I will tell your mother everything!' Grumpy neighbor Klavdia Viktorovna threatens to snitch."),
     (8, None, "'Klavdia Viktorovna, don't scare the child!' Arkady stands up for the frightened boy."),
     (9, None, "'She will give you to an orphanage!' The elderly neighbor exaggerates wildly."),

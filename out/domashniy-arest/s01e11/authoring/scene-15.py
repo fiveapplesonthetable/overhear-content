@@ -33,10 +33,10 @@ STORY = [
     ('samson', 'Всё, уходи отсюда, я очень занят.', 'Alright, get out of here, I am very busy.', [(384, 'Шагайте, я занят')], 'adapted'),
 ]
 WALK = [
-    (0, None, "'Hello, Samsonov.' Standard polite Russian greeting used here as a firm address."),
-    (1, None, "'I have a meeting with the president today.' This phrase indicates an upcoming appointment."),
-    (3, None, "'What are you saying? What president?' The verb of carrying in colloquial speech means to talk nonsense."),
-    (7, None, "'I feel bad, really terrible.' Self-action verb form expressing emotional and physical state."),
-    (11, None, "'Do not cover up your grief with bravado.' The negative phrase expresses advice against doing something."),
-    (14, None, "'Alright, get out of here, I am very busy.' Command form of the verb with an intensifying particle."),
+    (0, None, "'Hello, Samsonov.' Nina walks into the flat and greets her estranged husband by his surname, keeping her distance."),
+    (1, None, "'I have a meeting with the president today.' Instead of saying hello, Ivan blurts out the biggest brag he has."),
+    (3, None, "'What are you saying? What president?' Literally \"what are you carrying?\"—the everyday Russian way to ask \"what nonsense are you talking?\""),
+    (7, None, "'I feel bad, really terrible.' For one honest second, his bravado drops and he admits how badly the breakup hurts."),
+    (11, None, "'Do not cover up your grief with bravado.' Nina sees right through the tough-guy act and thinks the presidential meeting is just a breakdown."),
+    (14, None, "'Alright, get out of here, I am very busy.' Stung by her pity, Samson retreats behind his big secret and shoos everyone out."),
 ]

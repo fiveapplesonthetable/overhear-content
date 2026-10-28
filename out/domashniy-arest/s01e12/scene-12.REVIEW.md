@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I told you: let us leave that place!' Emphatic particle with past masculine verb and 'let's' expression command of motion.
-- 'You should have dragged me away from there by force!' Impersonal past necessity governing 'with'-form of manner and basic verb form.
-- 'That was the money for my mother-in-law's apartment!' Past plural linking word with possessive 'of'-form modifier phrase.
-- 'I worked honestly for three years for it.' Object-form of duration followed by manner adverb and past tense verb.
-- 'I do not understand at all what to tell Nina.' Negative present verb governing subordinate question word clause with 'to'-form name.
-- 'Tell the truth, you wanted what was best after all.' Command form governing object-form object with comparative adverb clause.
-- 'Nina will never in her life forgive me.' Paired temporal intensifier with future-tense form governing object pronoun.
-- 'Alright, Rozhok is with you, do not despair right now.' Location phrase of support with negative command verb.
-- 'Go home already quickly, it is time to have a good rest.' Command form of motion with descriptive word and intensive adverb.
-- 'Are you definitely alright, maybe call a taxi?' Parenthetic possibility particle governing single-action form question.
-- 'Yes, I am fine, thank you, my friend.' Affirmative particle with location state and direct-address noun phrase.
-- 'Hold on, Samson, tomorrow we will calmly resolve everything together.' Self-action verb form command followed by future-tense form collective clause.
+- 'I told you: let us leave that place!' Out on the pavement, Rozhok cannot resist a bit of "I told you so"—the tiny word "zhe" carries all that frustration.
+- 'You should have dragged me away from there by force!' Samson blames his friend for not tackling him, because facing his own foolishness is too painful.
+- 'That was the money for my mother-in-law's apartment!' Here is the awful truth: he didn't just lose his own savings, he gambled away the proceeds from his mother-in-law's flat. Russian has a specific word, "tyoshcha", just for a husband's mother-in-law.
+- 'I worked honestly for three years for it.' Three years of sweat and honest toil vanished in three hours between flights.
+- 'I do not understand at all what to tell Nina.' Remembering how Nina sent him off calling him her handsome movie star makes this moment ten times worse.
+- 'Tell the truth, you wanted what was best after all.' "Khotel kak luchshe" ("wanted how better") echoes a famous Russian saying about good intentions that end in disaster.
+- 'Nina will never in her life forgive me.' Adding "in life" ("v zhizni") after "never" is how Russians say "never in a million years".
+- 'Alright, Rozhok is with you, do not despair right now.' Having led him into the casino in the first place, his army buddy promises not to ditch him now.
+- 'Go home already quickly, it is time to have a good rest.' Nothing looks solvable at three in the morning outside a casino, so Rozhok sends him home to sleep it off.
+- 'Are you definitely alright, maybe call a taxi?' Looking at Samson's pale face, Rozhok worries what his friend might do on the walk back.
+- 'Yes, I am fine, thank you, my friend.' Even in ruin, Samson holds no grudge against Rozhok and thanks him quietly.
+- 'Hold on, Samson, tomorrow we will calmly resolve everything together.' "Derzhis" ("hold on / hang in there") is the warm, sturdy word Russians give a friend going through a dark patch.

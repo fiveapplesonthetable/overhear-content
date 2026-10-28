@@ -10,7 +10,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Самсон | Ну что, судьба тебе сдачу выдала! | Well then, fate gave you change back! | #917: Судьба тебе сдачу выдала. | verbatim |
+| 1 | Самсон | Ну что, судьба тебе сдачу выдала! | Well then, fate gave you change back! | #917 00:56:34: Судьба тебе сдачу выдала. | verbatim |
 | 2 | Аркадий | Я не хочу сейчас с тобой спорить. | I do not want to argue with you now. | new | new |
 | 3 | Самсон | Ты думал, что легко сбежишь отсюда? | Did you think that you would easily escape from here? | new | new |
 | 4 | Аркадий | Меня снова вернули в эту старую квартиру. | They returned me to this old apartment again. | new | new |
@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well then, fate gave you change back!' Colloquial idiom using a past single-action form action verb to describe poetic justice.
-- 'I do not want to argue with you now.' First person negative modal verb followed by temporal adverb and self-action verb form basic verb form.
-- 'Did you think that you would easily escape from here?' Question word past verb introducing a second half of the sentence with future-tense form.
-- 'They returned me to this old apartment again.' Impersonal plural past construction with temporal adverb and object-form direct object.
-- 'Here is your real place, former mayor.' Location adverb introducing a descriptive subject-form noun phrase with apposition.
-- 'I lost absolutely all my wealth.' Past action verb with emphatic adverb and neuter object-form object phrase.
-- 'Honest labor is always better than any bribes.' Comparative descriptive phrase governing a plural 'of' form noun phrase.
-- 'Now I will have to live by the rules.' Impersonal modal construction with 'to me/you' pronoun and location phrase.
-- 'Get used to living simply, like all neighbors.' Command form governing an action verb with manner adverb and comparative phrase.
-- 'I am ready to wait calmly for the court decision.' Short descriptive word with adverb and single-action form governing 'of'-form.
-- 'Now those are smart words already, Arkasha.' Demonstrative particle with qualifying adjective and familiar diminutive address.
-- 'Please leave me alone in the room.' Courtesy adverb with command form governing masculine object-form adjective and location phrase.
-- 'Go, rest, a new day will begin tomorrow.' Two consecutive imperatives followed by future-tense form clause with temporal adverb.
+- 'Well then, fate gave you change back!' Samson greets the returning prisoner at the door. Saying fate "gave you change" is a punchy Russian way to say karma paid you back.
+- 'I do not want to argue with you now.' For the first time all season, Arkady does not even have the energy to snap back.
+- 'Did you think that you would easily escape from here?' Half an hour ago Arkady walked out like a king; now he is right back where he started.
+- 'They returned me to this old apartment again.' In Russian, saying "they returned me" without naming who did it makes him sound like a helpless parcel.
+- 'Here is your real place, former mayor.' Samson is not even being cruel—after everything they have been through, this shared flat really is where Arkady belongs.
+- 'I lost absolutely all my wealth.' The palace, the yacht, the hidden duffel bags—every last ruble is gone.
+- 'Honest labor is always better than any bribes.' Ivan cannot resist offering a workingman's moral lesson.
+- 'Now I will have to live by the rules.' Literally "to me it will fall to live by the rules", the Russian phrasing for having no other choice.
+- 'Get used to living simply, like all neighbors.' No bodyguards, no private jets—just a shared kitchen and a line for the bathroom.
+- 'I am ready to wait calmly for the court decision.' With the escape dream dead, all the fight goes out of him.
+- 'Now those are smart words already, Arkasha.' Hearing him call the disgraced mayor "Arkasha" shows a rough neighborly warmth.
+- 'Please leave me alone in the room.' Even saying "please" is new for Arkady; he just wants the door closed.
+- 'Go, rest, a new day will begin tomorrow.' Samson lets him go with a surprisingly gentle send-off.

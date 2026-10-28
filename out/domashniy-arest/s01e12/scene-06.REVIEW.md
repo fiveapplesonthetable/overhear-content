@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'As soon as you sign everything, call right away.' The conditional conjunction construction introduces an command form.
-- 'Alright, I am heading out on an important job.' The past tense verb functions idiomatically for immediate departure.
-- 'Samsonov, wait one more minute!' The command form governs a feminine object-form duration phrase.
-- 'Yes, Ninok, what did you want to say?' Samson uses an affectionate diminutive direct-address followed by a past modal.
-- 'You are so handsome today!' The demonstrative pronoun modifies the descriptive word with a temporal adverb.
-- 'Really? And who do I look like?' This phrase asks for visual comparison.
-- 'Just like the famous actor Steven Snegov!' The particle introduces a humorous garbled pop-culture reference.
-- 'Then this trip will definitely be successful.' The future linking word takes an 'with'-form descriptive phrase.
-- 'We will finally leave this communal flat.' The future-tense form governs an ablative 'of'-form phrase.
-- 'We will definitely buy a big new house!' The future-tense form takes an object-form direct object.
-- 'Big cards are opening up for us now.' Samson uses a colorful card metaphor for major business opportunities.
-- 'I will earn a lot of money for our family.' The future-tense form governs a quantitative 'of'-form phrase.
-- 'The main thing is, be very careful on the road.' The neuter adjective functions as a topic particle before a command.
-- 'Do not worry, everything will be simply great!' The negative self-action verb form command reassures her of his safety.
+- 'As soon as you sign everything, call right away.' This flashback takes us back to the day Samson set off with the family's money. In Russian, "kak" ("how/as") right after "ty" means "as soon as".
+- 'Alright, I am heading out on an important job.' Russians say "I went" ("ya poshyol") while they are still standing in the doorway—it means "I'm off!"
+- 'Samsonov, wait one more minute!' Calling your husband by his surname is an affectionate habit in many Russian households.
+- 'Yes, Ninok, what did you want to say?' Calling her "Ninok", a tender and playful nickname for Nina, shows how fond and relaxed they are here.
+- 'You are so handsome today!' Literally she says "You at me today are so handsome"—that little "at me" claims him proudly as her own.
+- 'Really? And who do I look like?' Flattered and grinning in his leather jacket, Samson fishes for a bigger compliment.
+- 'Just like the famous actor Steven Snegov!' Here is the joke that gives the scene its title: she means an American action star, but scrambles his last name into "Snegov" (from the word for snow).
+- 'Then this trip will definitely be successful.' With a send-off like an action hero, Samson feels invincible heading out the door.
+- 'We will finally leave this communal flat.' "Kommunalka" is the everyday shorthand for a shared Soviet apartment where several families share one kitchen.
+- 'We will definitely buy a big new house!' You can hear why the later loss hurts so much: all their hopes for a real home were riding on this trip.
+- 'Big cards are opening up for us now.' Talking about "big cards" is ironic foreshadowing, given what is about to happen to him at the casino table.
+- 'I will earn a lot of money for our family.' He genuinely means every word here—he sets out wanting to provide for Nina and the kids.
+- 'The main thing is, be very careful on the road.' Carrying cash across the country in the nineties or two-thousands was no small risk, so she worries for his safety.
+- 'Do not worry, everything will be simply great!' Famous last words before a disaster neither of them sees coming.

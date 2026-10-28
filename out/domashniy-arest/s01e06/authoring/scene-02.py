@@ -33,8 +33,8 @@ STORY = [
 ]
 WALK = [
     (0, None, "'Hello, Marina Sergeyevna!' Today Uncle Grisha greets Marina politely by her first name and patronymic."),
-    (1, None, "'What do you need again?' Literally 'what to you again is necessary?', with 'to you' in the 'to/for' form."),
-    (2, None, "'Our organization offers its apologies.' Literally 'brings its apologies', using the formal plural noun."),
+    (1, None, "'What do you need again?' Literally 'what to you again is necessary?' — Marina is fed up with seeing the collectors at her door."),
+    (2, None, "'Our organization offers its apologies.' Literally 'brings its apologies' — Uncle Grisha suddenly speaks like a polite customer-service clerk."),
     (3, 'Мы с радостью сообщаем вам новость.', "'We gladly inform you of the news.' Literally 'with joy we report to you the news'."),
     (3, 'Ваш долг полностью аннулирован!', "'Your debt is completely canceled!' The short passive form matches the masculine noun 'debt'."),
     (4, None, "'Congratulations to you! Konstantin, give her the flowers.' Uncle Grisha addresses Kostik by his full name."),
@@ -44,7 +44,7 @@ WALK = [
     (7, 'В общем, просил позвонить.', "'In short, he asked you to call.' Here, Kostik holds the bouquet out to Marina."),
     (8, None, "'Yes, please, take the flowers.' At this point, Marina takes the bouquet in surprise."),
     (9, 'И, Марина Сергеевна, читайте всё внимательно!', "'And, Marina Sergeyevna, read everything carefully!' Before leaving, Uncle Grisha offers one piece of advice."),
-    (9, 'Особенно мелким шрифтом!', "'Especially in fine print!' Literally 'by small font', using the 'with/as' form."),
+    (9, 'Особенно мелким шрифтом!', "'Especially in fine print!' Literally 'by small font' — Russian puts 'small print' into the 'by/with' ending."),
     (10, None, "'Not all companies are as kind as ours.' Then Marina closes the door, and the two bruised collectors walk down the stairs."),
     (11, 'Костик, чего ты улыбаешься?', "'Kostik, what are you smiling at?' In colloquial speech, 'of what' is often used to mean 'why'."),
     (11, 'Из-за тебя я сейчас унижался!', "'Because of you I just humiliated myself!' The preposition for 'because of' (for a bad reason) takes the 'of' form."),

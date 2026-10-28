@@ -30,17 +30,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I have money.' Samsonov assures her that he can pay in cash.
 - 'Give me schnapps.' He jokingly asks for German schnapps after being called pro-German.
 - 'What schnapps?' The shopkeeper points to the ordinary domestic shelf.
-- 'There is a local bottle.' The feminine adjective agrees with 'bottle'.
+- 'There is a local bottle.' She points to a plain bottle of local vodka on the shelf instead.
 - 'It's all the same to me.' That is the standard phrase for indifference.
 - 'Give me that one.' He points to the nearest bottle.
 - 'Maybe the guys were right, huh?' Samsonov wonders aloud if he really has a fascination with Germany.
-- 'Don't make me laugh, Samsonov.' The shopkeeper uses the negative command.
-- 'In what were they right?' The preposition takes the location question word.
+- 'Don't make me laugh, Samsonov.' The shopkeeper scoffs at the idea that Ivan has anything German in him.
+- 'In what were they right?' She asks what on earth his buddies could possibly be right about.
 - 'In school I was the first to sign up for German.' He recalls choosing German over English as a child.
-- 'Everyone went for English, and I for German.' The ellipsis omits the repeated verb.
+- 'Everyone went for English, and I for German.' While every other kid in class signed up for English, young Ivan picked German.
 - 'Well, and what of it?' The clerk fails to see any connection.
 - 'Why does everything around here bother me?' Samsonov vents his frustration with local life.
 - 'The seams are uneven, they do everything slapdash!' That is a classic Russian idiom for careless work.
 - 'And in Germany cars are good and they work properly.' He admires quality craftsmanship, not fascism.
 - 'Alright, go home, Samson.' The tired clerk gently urges him to leave.
-- 'It's time to sleep.' The descriptive word expresses the right time for an action.
+- 'It's time to sleep.' It is late, and the shopkeeper tells him it is high time to get some sleep.

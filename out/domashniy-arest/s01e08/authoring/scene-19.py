@@ -32,12 +32,12 @@ STORY = [
 ]
 WALK = [
     (0, None, "'A man! A real man!' Arkady praises the boy for showing adult loyalty and courage."),
-    (1, None, "'Thanks for not ratting me out.' The colloquial verb means to betray or turn someone in."),
-    (3, None, "'Lyokha, I will definitely buy you a tank.' The future tense makes a firm promise."),
+    (1, None, "'Thanks for not ratting me out.' In Russian slang, 'handing someone over' means snitching — and Arkady is genuinely touched that the kid covered for him."),
+    (3, None, "'Lyokha, I will definitely buy you a tank.' Using the boy's friendly nickname, Arkady promises to replace the crushed toy with a brand-new one."),
     (5, 'Деньги появятся, сразу куплю.', "'Soon as money appears, I will buy it right away.' Arkady swears he is not lying."),
     (6, None, "'Did you understand me?' A common colloquial check ensuring agreement."),
     (8, None, "'Lyosha, they gave us a quota for the surgery!' Marina rushes in with excitement."),
     (10, None, "'Yes! I am going to the hospital right now.' She cannot wait to secure the opportunity."),
-    (11, None, "'I will process important paperwork.' The verbal noun construction describes sorting out documents."),
+    (11, None, "'I will process important paperwork.' There is a stack of hospital paperwork to sign before the operation can go ahead."),
     (12, None, "'And you, do not sit around here!' Marina warns her son not to hang around Arkady."),
 ]

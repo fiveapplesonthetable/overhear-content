@@ -35,9 +35,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'The governor will not believe that so easily.' Sokolov questions whether the trap is convincing enough.
 - 'I will arrange everything at the highest level.' Arkady confidently offers to orchestrate the bait.
 - 'But I need three percent of the money.' Arkady boldly tries to negotiate a finder's fee.
-- 'I can offer you only a suspended sentence.' The investigator counters with legal leniency instead.
+- 'I can offer you only a suspended sentence.' "Uslovny srok" ("conditional term") is a suspended sentence—meaning Arkady stays out of prison if he behaves.
 - 'And a modest state bonus for your help.' Offering nominal financial compensation for cooperation.
-- 'No, that's not how our business will work!' Arkady haughtily threatens to walk away.
+- 'No, that's not how our business will work!' "Tak delo ne poydyot" ("the business won't walk like that") is the standard Russian way to say "no deal!"
 - 'Arkady Borisovich agrees to these conditions!' Marina decisively steps in to secure his freedom.
 - 'Marina, this is purely a men's business conversation.' Arkady irritably attempts to silence her.
 - 'I am protecting your future from foolishness.' Marina firmly asserts control over his legal fate.

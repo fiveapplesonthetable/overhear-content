@@ -31,12 +31,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Where am I? What time is it now?' Ivan groggily lifts his head off the sticky table.
 - 'It is already morning. Our bar is closing.' The bartender informs him that closing time has arrived.
 - 'Give me one more glass.' Ivan desperately asks for another drink to numb his hangover.
-- 'That is enough for you. You are drunk.' The short adjective describes Ivan's intoxicated state.
-- 'My head aches terribly.' The verb expressing pain takes the subject in the basic dictionary form.
-- 'You drank all night long.' The adverbial phrase indicates an uninterrupted overnight binge.
+- 'That is enough for you. You are drunk.' The bartender cuts him off bluntly: Ivan has had more than enough.
+- 'My head aches terribly.' Literally, 'at me terribly aches the head' — the hangover is hitting Ivan with full force.
+- 'You drank all night long.' That colorful expression at the end means straight through the night without stopping.
 - 'I must forget everything.' Ivan expresses his desire to blot out the painful slander.
-- 'Your money has completely run out.' This phrase indicates that no cash remains.
-- 'Pour on credit! I will pay.' The idiom with This phrase means on credit.
+- 'Your money has completely run out.' His pockets are completely empty after the all-night binge.
+- 'Pour on credit! I will pay.' Desperate for hair of the dog, Ivan begs the barman to put one more glass on his tab.
 - 'No debts. You could not pay.' The bartender refuses to extend any further credit.
 - 'I need to go to the election!' Ivan suddenly remembers his mayoral campaign responsibilities.
 - 'Get on your feet and get lost!' The abrupt colloquial command tells Ivan to leave immediately.

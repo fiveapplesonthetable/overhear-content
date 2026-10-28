@@ -28,11 +28,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'She left and slammed the door.' Sokolov watches the door close after Marina's furious departure.
 - 'Yes, our fish got away.' Lavrov uses a fishing metaphor for a suspect slipping off the hook.
 - 'Anatoly Ivanovich, you were too harsh.' Sokolov addresses his superior respectfully by name and patronymic.
-- 'She got very upset.' Notice the self-action verb form in the past feminine singular.
+- 'She got very upset.' Lyova feels bad seeing how shaken Marina was when she ran out.
 - 'Everything is fine, don't worry.' Lavrov dismisses the lieutenant's scruples with calm arrogance.
-- 'She will cry a little and return.' Future tense verbs describing what Lavrov expects her to do.
+- 'She will cry a little and return.' Lavrov cynically predicts she will have a good cry and come crawling back.
 - 'Are you sure about that?' Sokolov doubts that a mother would tolerate such humiliation.
-- 'She simply has no choice.' Notice the 'of' form after the negative word for 'there is no'.
+- 'She simply has no choice.' In Lavrov's cold calculation, a desperate mother has no other options left.
 - 'Where can she go now?' A common Russian rhetorical idiom meaning 'she has nowhere else to turn'.
 - 'And what if she doesn't come?' Sokolov presses with a hypothetical question.
 - 'She will come for her son's sake.' Lavrov banks on a mother's desperation to save her child.

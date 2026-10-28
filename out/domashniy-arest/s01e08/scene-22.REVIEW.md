@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'They searched for him for seven days. Our whole neighborhood.' The past plural verb describes the collective search.
-- 'Even the police with dogs searched.' The 'with/as' form is used with the preposition 'c' to indicate accompaniment.
-- 'And what happened to him?' A standard Russian question using the self-action verb form in the past tense.
-- 'He fell from the footbridge into the river.' The preposition 'c' takes the 'of' form for the point of origin.
-- 'And he hit his head against a stone.' The 'with/as' form expresses the body part involved in the impact.
-- 'Fishermen later found him on the riverbed.' The adverb indicates the sequence in time.
-- 'At first they thought it was a large catfish.' The past tense conveys their initial mistaken assumption.
-- 'And it was Uncle Nikita.' The conjunction contrasts the expectation with the reality.
-- 'The crayfish were very fond of him down there.' The verb describes the morbid attachment of the river creatures.
-- 'What a nightmare! Why are you saying that?' An exclamation followed by an question word asking for the purpose.
+- 'They searched for him for seven days. Our whole neighborhood.' Klavdia Viktorovna launches into one of her favorite grim neighborhood legends about a week-long search.
+- 'Even the police with dogs searched.' Even police handlers with tracking dogs were called out to comb the riverbanks.
+- 'And what happened to him?' Nina makes the mistake of asking what happened next, giving the old gossip the opening she wanted.
+- 'He fell from the footbridge into the river.' According to Klavdia, the poor man slipped right off the narrow footbridge into the water.
+- 'And he hit his head against a stone.' On the way down, he struck his head hard against a rock.
+- 'Fishermen later found him on the riverbed.' Local anglers eventually snagged him at the bottom of the river.
+- 'At first they thought it was a large catfish.' Seeing a huge shape in the murky water, the fishermen first thought they had hooked a giant catfish.
+- 'And it was Uncle Nikita.' Instead of a prize fish, they pulled up the missing old man from the neighborhood.
+- 'The crayfish were very fond of him down there.' Klavdia adds a gruesome detail about the river crayfish that makes everyone at the table wince.
+- 'What a nightmare! Why are you saying that?' Horrified, Nina demands to know why on earth she is telling such a story at the kitchen table.
 - 'There are children sitting here in the kitchen!' Nina points out the inappropriate audience for such talk.
 - 'I am just recalling old stories.' Klavdiya defends her grim reminiscence calmly.
 - 'Please, enough of such scary stories.' Nina demands an end to the morbid tales in front of the kids.

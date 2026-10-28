@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lord Jesus Christ, save us!' Konstantin cries out in terror with a traditional religious invocation.
-- 'Father Grigory, we must run!' The monk urges immediate flight using a modal descriptive word.
-- 'Where can we run now?' Father Grigory questions their chances.
-- 'The enemies have already broken into the monastery!' Konstantin reports the breach using a single-action form plural verb.
-- 'We won't escape anywhere now.' Father Grigory recognizes the danger with a negative adverb and future verb.
-- 'They are setting our wooden walls on fire!' Konstantin describes the fire using a present tense action verb.
-- 'Save the sacred book quickly!' The elder gives a crucial command.
-- 'And what about you, Father Grigory?' Konstantin worries about his mentor with a conversational questioning particle.
-- 'Don't think about me right now.' Father Grigory dismisses concern for himself.
-- 'Go immediately and hide the chronicle!' The elder insists on hiding the manuscript with paired imperatives.
-- 'I will hide it in the stone cellar!' Konstantin vows to conceal the relic.
-- 'Preserve the memory for our descendants!' Father Grigory emphasizes historical legacy.
-- 'I will save this book forever!' Konstantin makes a solemn promise.
+- 'Lord Jesus Christ, save us!' The quiet scriptorium is shattered by screams outside, and Konstantin's first instinct is a frantic prayer.
+- 'Father Grigory, we must run!' Panic takes over as the young monk tries to pull his frail mentor toward the door.
+- 'Where can we run now?' Old and realistic, Grigory hears the raiders in the courtyard and knows the gates are already lost.
+- 'The enemies have already broken into the monastery!' The Russian word for "broken in" paints a violent picture of attackers storming through the doors.
+- 'We won't escape anywhere now.' Russian stacks the negatives here—"nowhere" and "not" together—making the elder's resignation sound final.
+- 'They are setting our wooden walls on fire!' Through the window he sees the torches go up against the timber fortifications.
+- 'Save the sacred book quickly!' If the monks cannot survive, the chronicle they spent their lives copying has to.
+- 'And what about you, Father Grigory?' Even in terror, Konstantin cannot bear the thought of leaving his teacher behind. "A kak zhe" is how Russians ask "but what about...?" when someone is being forgotten.
+- 'Don't think about me right now.' Putting "about me" at the very start of the sentence lets Grigory brush his own life aside.
+- 'Go immediately and hide the chronicle!' There is no time for tears or goodbyes; the elder barks two short orders to get him moving.
+- 'I will hide it in the stone cellar!' Wooden walls burn, so the underground stone vault is the one place the manuscript might survive.
+- 'Preserve the memory for our descendants!' Grigory sees eight centuries ahead: without this book, no one will know their monastery ever stood.
+- 'I will save this book forever!' Clutching the heavy parchment to his chest, Konstantin gives his mentor a parting vow.

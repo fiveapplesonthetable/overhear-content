@@ -11,7 +11,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Илона | Я не буду тебе помогать! Ты понимаешь, что это детский сад? | I am not going to help you! Do you understand that this is kindergarten? | #240: Я не буду тебе помогать<br>#242: Ты понимаешь, что это детский сад | verbatim |
-| 2 | Илона | Нашёл время и место! Какая тебе разница? | You found a fine time and place! What difference does it make to you? | #242: Нашел время и место<br>#244: Какая<br>#244: разница | adapted: word order in 244 smoothed to 'Какая тебе разница?' |
+| 2 | Аркадий | Нашёл время и место! Какая тебе разница? | You found a fine time and place! What difference does it make to you? | #242: Нашел время и место<br>#244: Какая<br>#244: разница | adapted: word order in 244 smoothed to 'Какая тебе разница?' |
 | 3 | Аркадий | Я не могу спать спокойно! Этот старик крадёт у девушки лучшие годы. | I cannot sleep in peace! This old man is stealing the girl's best years. | #245: я не могу спать спокойно<br>#246: крадет у девушки | adapted: crude 'старый урод' (245) and slip in 246-247 cleaned to 'старик ... лучшие годы' |
 | 4 | Илона | Ты что, влюбился в неё? | What, did you fall in love with her? | #248: влюбился | adapted: colloquial 'Че, влюбился?' -> 'Ты что, влюбился в неё?' |
 | 5 | Аркадий | Нет! Или да. Какая разница? Помоги мне, я прошу тебя. | No! Or yes. What difference does it make? Help me, I beg you. | #249: Нет<br>#251: Или да. Какая разница? Помоги мне<br>#253: Помоги мне, я прошу тебя | verbatim |
@@ -31,7 +31,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'I am not going to help you!' Ilona refuses to get dragged into Arkady's romantic schemes.
 - 'Do you understand that this is kindergarten?' She calls his romantic jealousy childish nonsense.
-- 'You found a fine time and place!' Ilona reminds him they are in the middle of a serious campaign.
+- 'You found a fine time and place!' Here, Ilona reminds him they are in the middle of a serious campaign.
 - 'What difference does it make to you?' She asks why he cares so much about Marina's dating life.
 - 'I cannot sleep in peace!' Arkady tries to sound like a noble protector of innocent youth.
 - 'This old man is stealing the girl's best years.' Arkady indignantly protests against Eduard.

@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'How much money does it take to be happy?' The question sets up the satirical premise using an action verb purpose clause.
-- 'How much money do you need?' The 'to me/you' pronoun combines.
-- 'A little bit there, a little bit here.' The rhyming spatial adverbs describe small bribes quietly accumulating.
-- 'And just like that, you've got six million!' the plural 'of' form follows the numeral to denote vast embezzled wealth.
-- 'A villa in Monaco, an account in Switzerland.' The location phrase list the quintessential offshore assets.
+- 'How much money does it take to be happy?' As the episode wraps up, the closing ballad asks how much cash it really takes to buy happiness.
+- 'How much money do you need?' Turning the question straight on the listener, the singer asks what your own price tag is.
+- 'A little bit there, a little bit here.' A little kickback here and a little skim there is how every crooked fortune begins.
+- 'And just like that, you've got six million!' Before long, those quiet little favors have snowballed into six million.
+- 'A villa in Monaco, an account in Switzerland.' A sunny villa and a foreign bank account are the standard starter kit for a corrupt boss.
 - 'But you need, need, need even more!' Greed ensures that no amount of money ever feels like enough.
 - 'A supermodel wife and a mistress too.' The song mocks the predictable cliches of corrupt officials.
-- 'Only she's just a little bit younger!' The comparative adverb is modified by the colloquial phrase for 'a tiny bit'.
-- 'A white yacht sails across the sea.' This phrase indicates movement along the surface of the sea.
-- 'Happiness is getting closer, almost here!' The particle expresses something that is right about to happen.
-- 'Paintings by Dalí and Van Gogh in the kitchen.' The names of famous artists appear as 'of'-form modifiers.
-- 'A church, a mosque, and a synagogue are built.' The short passive form agrees with the first feminine noun in the list.
+- 'Only she's just a little bit younger!' Of course, the mistress on the side always happens to be just a little bit younger.
+- 'A white yacht sails across the sea.' Next comes a gleaming white yacht cruising across the open sea.
+- 'Happiness is getting closer, almost here!' That doubled word at the end means 'any moment now' — true happiness is always one bribe away.
+- 'Paintings by Dalí and Van Gogh in the kitchen.' With nowhere left to spend the loot, priceless paintings end up hanging in the kitchen.
+- 'A church, a mosque, and a synagogue are built.' To buy goodwill up above, he bankrolls a church, a mosque, and a synagogue all at once.
 - 'And for insurance, a Buddhist temple too!' The official tries to cover all spiritual bases just in case.
-- 'If it doesn't pan out here, it will pan out there!' The colloquial slang verb literally refers to burning, meaning 'to succeed or pay off'.
+- 'If it doesn't pan out here, it will pan out there!' Literally about a fire catching, this colloquial line means if one prayer doesn't pay off, another one will.

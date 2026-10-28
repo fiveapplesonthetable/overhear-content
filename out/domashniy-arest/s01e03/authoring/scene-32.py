@@ -32,17 +32,17 @@ STORY = [
 ]
 WALK = [
     (0, 'Прошу внимания.', "'May I have your attention.' Literally, 'I ask of attention', with 'attention' in the 'of' form after 'I ask'."),
-    (0, 'Открылись новые обстоятельства по другому делу.', "'New circumstances have come to light in another case.' Literally, 'opened themselves', using the self-action verb form plural past tense. And what is that other case?"),
+    (0, 'Открылись новые обстоятельства по другому делу.', "'New circumstances have come to light in another case.' Literally, 'opened themselves', using the '-sya' form plural past form. And what is that other case?"),
     (1, None, "'Property fraud in the Affordable Housing programme.' It is the very programme under which Arkady handed out flats to Judge Berg's mother and to his own girlfriend Lyolya."),
     (2, None, "'Citizen Anikeev is suspected of a new crime.' In court and police language, people are called 'citizen' rather than 'mister'. With prosecutors and reporters watching, Judge Berg has no choice."),
-    (3, None, "'I am forced to cancel my decision.' The word for 'forced' is a short masculine verbal adjective, followed by the basic verb form 'to cancel'."),
-    (4, None, "'The preventive measure remains the same. House arrest!' After 'remains', the adjective 'former, the same' takes the 'with/as' form ending. Arkady spins around to glare at his stuttering public defender."),
+    (3, None, "'I am forced to cancel my decision.' The word for 'forced' is a short masculine verbal describing word, followed by the dictionary form 'to cancel'."),
+    (4, None, "'The preventive measure remains the same. House arrest!' After 'remains', the describing word 'former, the same' takes the 'with/as' form ending. Arkady spins around to glare at his stuttering public defender."),
     (5, None, "'How? You?! What about lawyer-client secrecy?' The phrase 'and how about' is a classic Russian way to protest 'what about...?' For the first time, timid Danila Golovkin does not stutter at all."),
     (6, None, "'My mum waited fifteen years in that programme!' After numbers from five upwards, 'years' becomes the special plural 'of' form word for summers, 'fifteen of summers'."),
     (7, None, "'She stood in the queue for fifteen years! Did you forget?' While Arkady gave flats to his friends and his girlfriend, Golovkin's late mother waited fifteen years in vain. Desperate, Arkady shouts to the judge about his stolen dog."),
     (8, None, "'Ilya Olegovich! But what about Lyutik?' Even in open court, he tries to remind the judge of their dog ransom bargain."),
-    (9, None, "'What about Lyutik? We had a deal!' The self-action verb form plural past verb means 'we agreed with each other'. Judge Berg ignores him and bangs his gavel."),
+    (9, None, "'What about Lyutik? We had a deal!' The '-sya' form plural past word means 'we agreed with each other'. Judge Berg ignores him and bangs his gavel."),
     (10, None, "'I declare the court session closed.' Literally, 'the sitting of the court I declare closed', with 'closed' in the 'with/as' form. Outside the courthouse, guards lead Arkady back to the police van through a crowd of reporters."),
     (11, None, "'Leave me alone! This is some kind of mistake!' Literally, 'leave me in peace', a fixed everyday expression."),
-    (12, None, "'Step back! No comment! No comment!' After the preposition 'without', 'comments' takes the plural 'of' form ending, and the guards put him back into the van to return to the communal flat."),
+    (12, None, "'Step back! No comment! No comment!' After the little word 'without', 'comments' takes the plural 'of' form ending, and the guards put him back into the van to return to the communal flat."),
 ]

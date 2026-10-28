@@ -33,9 +33,9 @@ STORY = [
     ('samson', 'Хорошо, пойдём на эту комедию.', 'Alright, we will go to this comedy.', [], 'new line'),
 ]
 WALK = [
-    (1, None, "'Watch the movie Wedding on Skype.' Slavik suggests a contemporary comedy about modern romance."),
-    (4, None, "'And Tanya will like the movie very much.' The verb takes the 'to/for' form of the person experiencing the liking."),
-    (5, None, "'And how do you know about Tanya?' Nina is suspicious of how the child learned adult apartment gossip."),
-    (8, None, "'Tanya told her everything herself.' The intensive pronoun emphasizes that the information came directly from her."),
-    (10, None, "'Yes, swear on my freedom!' The phrase is traditional Russian slang used to pledge absolute truthfulness."),
+    (1, None, "'Watch the movie Wedding on Skype.' Overhearing the conversation, young Slavik chimes in with a comedy recommendation for his dad's date."),
+    (4, None, "'And Tanya will like the movie very much.' Using the casual form \"Tanka\", the kid casually drops the name of the woman from upstairs."),
+    (5, None, "'And how do you know about Tanya?' Nina freezes: how does her schoolboy son know about adult gossip in the building?"),
+    (8, None, "'Tanya told her everything herself.' In a communal apartment, secrets travel straight from neighbor to neighbor."),
+    (10, None, "'Yes, swear on my freedom!' Literally \"may I not see freedom for a century\", old prison slang that sounds hilarious coming from a child."),
 ]

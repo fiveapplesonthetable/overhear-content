@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'How much money does a person need?' Notice the 'to'-form singular ending in the noun for a person.
-- 'How much money do you need to be happy?' The conjunction introduces a clause of purpose.
-- 'How much money do you need?' This phrase indicates the person who experiences the need.
+- 'How much money does a person need?' Literally, 'how much money is needed to a person?' — the theme song opens with the show's big question.
+- 'How much money do you need to be happy?' The chorus chimes in, asking what price tag actually buys happiness.
+- 'How much money do you need?' Now the singer points the question straight at the listener.
 - 'A little here, a little there.' The word for a little bit is used twice for rhythm.
-- 'And now you already have six million!' Placing the numeral after the noun implies an approximate amount.
-- 'A villa in Monaco, an account in Switzerland.' Both geographic names take the location form.
-- 'But a person always needs more!' The impersonal modal expression indicates that more is required.
-- 'There is never enough money.' The adverb expresses an insufficient quantity.
-- 'The appetite grows every day.' The present tense verb indicates ongoing growth.
-- 'How much money is needed for happiness?' The preposition meaning 'for' governs the 'of' form.
-- 'A million, two million, or ten?' Notice the different counting forms following the numerals.
-- 'Nobody knows the exact answer.' The negative pronoun means nobody or no one.
+- 'And now you already have six million!' Swap the word order to 'millions six' in Russian and it means 'roughly six million' — a fortune gathered bit by bit.
+- 'A villa in Monaco, an account in Switzerland.' Those are the standard dreams of every crooked official in the show: Mediterranean sun and a secret bank account.
+- 'But a person always needs more!' Even after the villa and the Swiss account, the itch for more never stops.
+- 'There is never enough money.' No matter how big the pile gets, it always feels too small.
+- 'The appetite grows every day.' Greed has a way of growing faster than the bank balance.
+- 'How much money is needed for happiness?' The chorus circles back to the refrain with a sly wink.
+- 'A million, two million, or ten?' Notice how the word for 'million' changes its ending as the numbers climb from one to two to ten.
+- 'Nobody knows the exact answer.' Not even the richest oligarch has figured out the exact number.
 - 'How many millions does a person need for happiness?' The singer wonders about the true price of contentment.
-- 'Everyone decides this question for themselves.' The emphatic pronoun stresses independent individual decision.
+- 'Everyone decides this question for themselves.' In the end, everyone has to answer that question for themselves.

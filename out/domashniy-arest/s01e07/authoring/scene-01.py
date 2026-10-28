@@ -39,7 +39,7 @@ WALK = [
     (1, 'Нет, я кандидат, я чай!', "'No, I am a candidate, I'm having tea!' Samson refuses champagne while Klavdia Viktorovna mutters about a bad dream and Ilona announces that the campaign posters will be printed tomorrow."),
     (2, 'Друзья, я предлагаю выпить за успех!', "'Friends, I propose we drink to success!' Arkady rises to offer a toast."),
     (2, 'Все вместе, как одна большая семья.', "'All together, like one big family.' Meanwhile, Arkady keeps handing Marina clean forks and glasses until she confronts him."),
-    (3, None, "'What are you doing? You know perfectly well what you are doing!' Marina addresses him with the polite plural pronoun."),
+    (3, None, "'What are you doing? You know perfectly well what you are doing!' Even at the dinner table, Marina keeps her distance by addressing Arkady with the formal 'you'."),
     (4, 'Вы ведёте себя как подросток!', "'You are behaving like a teenager!' Literally 'you lead yourself like a teenager'."),
     (4, 'Вы приударяете за мной.', "'You are flirting with me.' This old-fashioned colloquial verb takes the preposition for 'behind' plus the 'with/as' form."),
     (5, None, "'What kind of silly word is that — flirting?' Arkady is amused by her old-fashioned phrasing."),

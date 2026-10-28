@@ -36,7 +36,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Hello! Can you fix my tank?' Young Lyosha peeks into the room holding his broken toy tank.
 - 'I can't. Get out of here and close the door!' The gruff guard snaps at the child and tells him to leave.
 - 'Why did you chase him away? That is a mistake.' Arkady realizes that offending the child could harm his chances with Marina.
-- 'After all, that is her son.' The particle emphasizes that the boy is the key to Marina's affection.
+- 'After all, that is her son.' The guard reminds Arkady of a simple fact: that kid is Marina's son.
 - 'Want a woman to like you? Make friends with her child.' The guard shares a piece of folk wisdom about winning a mother's heart.
 - 'I do not like children. It is boring with them.' Arkady cynically admits his distaste for kids.
 - 'But the boy comes with her in the package.' The idiomatic phrase describes the child as part of a package deal.

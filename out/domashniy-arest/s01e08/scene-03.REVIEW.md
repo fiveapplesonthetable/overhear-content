@@ -28,16 +28,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Slavik, turn off the television, please!' Nina tells her son to shut off the embarrassing campaign broadcast.
-- 'Yes, Mama. I turned it off.' Slavik answers obediently with a past masculine single-action form.
+- 'Yes, Mama. I turned it off.' Slavik quietly obeys his mother and clicks the remote.
 - 'I called the hospitals. He is not in the morgue.' Nina lists the grim places she has already phoned.
-- 'In what sense is he not there?' Ilona asks in surprise, using the location form with 'sense'.
-- 'In the sense that he is nowhere to be found!' The negative adverb means 'nowhere' for location.
-- 'Well, and what are we to do now?' An action verb question expressing helplessness.
+- 'In what sense is he not there?' Ilona cannot believe her ears — how can a mayoral candidate simply vanish on the day of the debate?
+- 'In the sense that he is nowhere to be found!' Nina snaps back by echoing Ilona's exact words: he isn't anywhere at all.
+- 'Well, and what are we to do now?' Literally, 'what now to do?' — Ilona's polished campaign playbook has no chapter for a missing candidate.
 - 'I don't know where he is right now.' Nina admits she has run out of ideas.
 - 'And in what places does he usually drink?' Ilona tries to guess where a working-class man might drown his sorrows.
-- 'I have already been everywhere!' The adverb means 'everywhere'.
+- 'I have already been everywhere!' Nina has already made the rounds of every bar and courtyard in town.
 - 'Mama, we need to call the police!' Slavik suggests calling law enforcement.
-- 'I am speaking seriously, no joking!' The idiom with the preposition for 'besides' means 'all joking aside'.
-- 'No, we must not call the police.' Ilona immediately vetos the idea with the adverb for 'prohibited'.
-- 'If the candidate is in the police station, the campaign is lost!' The short passive form marks the election effort as finished.
+- 'I am speaking seriously, no joking!' Literally, 'apart from jokes' — Slavik is genuinely scared something bad happened to his dad.
+- 'No, we must not call the police.' Ilona shuts that down immediately: one word meaning 'it is not allowed' ends the police idea.
+- 'If the candidate is in the police station, the campaign is lost!' Having the police drag their candidate out of a ditch would hand Osipenko the election on a silver platter.
 - 'Let's wait a little longer. He must return!' Nina hopes her husband will come to his senses soon.

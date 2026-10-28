@@ -32,12 +32,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'We have been crawling through mud for so long!' Ivan struggles forward on his elbows across the battlefield.
 - 'Tomorrow the final battle awaits us.' The phrase echoes the iconic Soviet wartime song of the same name.
 - 'Just a little more, just a little bit!' This famous lyric conveys exhaustion and desperate hope.
-- 'This battle will be the hardest one.' The superlative adjective highlights the ultimate sacrifice required.
+- 'This battle will be the hardest one.' In the nightmare, the fellow soldier warns that the hardest fight of all still lies ahead.
 - 'My grandfather was not a traitor!' Even in his feverish nightmare, Ivan defends his family honor.
 - 'Everyone knows the truth. Hold on, soldier!' The comrade soldier offers reassurance and encouragement.
-- 'And I want to go home to Russia.' The object-form directional noun expresses deep homesickness.
-- 'Soon we will return home.' This phrase indicates an eventual successful homecoming.
-- 'I haven't seen my mother in so long.' The object-form noun refers affectionately to his mother.
-- 'Mother is waiting for you alive.' The short adjective agrees in gender and case with the pronoun.
+- 'And I want to go home to Russia.' Quoting the famous wartime song, Ivan aches just to be back home in Russia.
+- 'Soon we will return home.' His comrade promises that they will make it back before long.
+- 'I haven't seen my mother in so long.' Another line straight from the song shows Ivan's tender, homesick side beneath the gruff exterior.
+- 'Mother is waiting for you alive.' What matters to a mother is not a medal, but her son coming back alive.
 - 'I will not betray my native land!' Ivan affirms his steadfast loyalty to his motherland.
 - 'Then wake up, Ivan! It is time for you.' The dream begins to dissolve as reality calls him back.

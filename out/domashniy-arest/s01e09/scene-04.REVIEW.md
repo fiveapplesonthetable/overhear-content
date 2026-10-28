@@ -31,13 +31,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I don't care, Samsonov. I am tired.' Arkady lies on his bed staring blankly at the communal wall.
 - 'And what am I to do about Nina?' Samsonov changes the subject to his impending marital disaster.
 - 'Listen to me very carefully.' Arkady commands attention.
-- 'Do everything as I tell you.' Notice the 1st person future-tense form meaning 'I will say'.
-- 'Go to your room and pack your things.' Both verbs are in the command form.
-- 'Do it ostentatiously, in front of her.' The adverb describes putting on an exaggerated performance.
-- 'Say that you are leaving for good.' The adverb means 'forever' or 'for good'.
-- 'She must believe in this!' The short adjective of obligation takes an action verb with the preposition for 'in'.
+- 'Do everything as I tell you.' Arkady demands total obedience, telling Samsonov to follow his script to the letter.
+- 'Go to your room and pack your things.' Step one of the bluff is marching straight into the bedroom and packing a bag.
+- 'Do it ostentatiously, in front of her.' The whole point is to make a grand show of it right in front of Nina so she panics.
+- 'Say that you are leaving for good.' To sell the bluff, he has to declare that he is walking out the door for good.
+- 'She must believe in this!' Everything hinges on convincing Nina that the breakup is dead serious.
 - 'I understood everything. Thank you, Arkasha!' Samsonov eagerly accepts the cunning strategy.
 - 'Are you planning to leave me or what?' Nina catches him stuffing shirts into a bag and sounds unimpressed.
 - 'Kids, come here quickly!' Nina calls the children into the room.
-- 'Our papa is abandoning us!' The ongoing-action form verb describes his dramatic exit.
+- 'Our papa is abandoning us!' Instead of crying, Nina announces his grand exit to the kids like a stage play.
 - 'Let's all kiss his feet!' Nina mocks his self-importance with a sarcastic theatrical plea.

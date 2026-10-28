@@ -35,7 +35,7 @@ WALK = [
     (0, 'Женщина, вы мелкими буквами не читаете.', "The older collector, Uncle Grisha, addresses Marina bluntly: 'Woman, you do not read the small letters' — meaning the fine print in the contract."),
     (0, 'Наша фирма в этом не виновата.', "'Our firm isn't to blame for that.' Russian omits the present-tense verb 'to be', connecting 'our' directly with 'at fault'."),
     (1, 'Я уже вам сто раз говорила.', "Marina stands her ground: 'I already told you a hundred times.' Notice the feminine past-tense ending on the verb."),
-    (1, 'Я брала двадцать тысяч, вернула тридцать!', "'I borrowed twenty thousand, paid back thirty!' The line opens with 'I' and lands on 'thirty' at the end for emphasis."),
+    (1, 'Я брала двадцать тысяч, вернула тридцать!', "'I borrowed twenty thousand, paid back thirty!' Marina protests the predatory microloan math: she borrowed twenty thousand and already paid back thirty!"),
     (2, None, "She finishes firmly: 'The loan is closed!'"),
     (3, None, "Uncle Grisha replies with mock politeness: 'Be so kind, return one hundred and fifty thousand roubles.'"),
     (4, 'Я не понимаю, вы мне угрожаете?', "Marina stares at him: 'I do not understand, are you threatening me?'"),

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What, Nina, did you finally go too far?' The colloquial verb expresses reaching a bad outcome through reckless actions.
-- 'Did your Vanya run off to a younger woman?' Preposition with 'to'-form indicates motion toward someone.
-- 'Who even needs him anyway?' The short form adjective requires the 'to/for' form for the person in need.
-- 'If he becomes mayor, a whole line will form!' Conditional clause with 'with/as' form following the verb.
-- 'This is an official document, by the way.' A common parenthetical phrase meaning incidentally or by the way.
-- 'Why, you yourself were praising him!' Emphatic particles reinforce Nina's exasperation with her neighbour.
-- 'Run quickly to make peace with Vanya!' Command form with comparative adverb expressing urgent movement.
-- 'If you need to, you go make peace.' Impersonal construction with 'to me/you' pronoun expressing necessity.
-- 'Tonight he will come home, meek as a lamb.' An idiomatic phrase meaning obediently without protest.
-- 'Well, my job was only to warn you.' Fixed conversational idiom used when giving unsolicited advice.
-- 'Leave me in peace, all of you!' Standard polite command phrase asking someone to leave you alone.
-- 'Nina, is everything alright with you?' Common polite greeting inquiry asking if someone is doing fine.
-- 'Yes, yes, everything is alright.' Fixed formulaic response confirming that no help is needed.
+- 'What, Nina, did you finally go too far?' Literally 'jumped until you got caught,' this sharp colloquial word means Nina's antics finally backfired.
+- 'Did your Vanya run off to a younger woman?' Klavdiya gleefully rubs salt in the wound by asking if Vanya ran off with a younger woman.
+- 'Who even needs him anyway?' Still putting on a brave front, Nina scoffs that nobody else would even want her husband.
+- 'If he becomes mayor, a whole line will form!' Klavdiya points out that if he wins the mayor's race, women will be lining up around the block.
+- 'This is an official document, by the way.' Pointing to the paper, she adds 'by the way' to remind Nina that a court notice is no joke.
+- 'Why, you yourself were praising him!' Exasperated, Nina reminds the old woman that she was singing Vanya's praises just yesterday.
+- 'Run quickly to make peace with Vanya!' Klavdiya urges her to swallow her pride and run make up with Vanya before it is too late.
+- 'If you need to, you go make peace.' Nina snaps back that if Klavdiya is so worried about Vanya, she can go make peace with him herself.
+- 'Tonight he will come home, meek as a lamb.' Literally 'like a little darling,' the idiom means he will come crawling home tonight meek as a lamb.
+- 'Well, my job was only to warn you.' Brushing off Nina's temper, Klavdiya retreats behind the classic excuse of a nosy neighbor.
+- 'Leave me in peace, all of you!' Fed up with everyone meddling in her marriage, Nina yells at the whole hallway to leave her alone.
+- 'Nina, is everything alright with you?' Stepping out into the corridor, Marina gently checks whether Nina is holding up okay.
+- 'Yes, yes, everything is alright.' Nina quickly pulls herself together and insists everything is fine.

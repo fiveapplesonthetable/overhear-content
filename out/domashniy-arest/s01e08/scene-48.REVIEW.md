@@ -28,16 +28,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'How much money does it take to be happy?' The singer opens with the central philosophical question of the show.
-- 'How much money do you need?' This phrase expresses the person who has the need.
+- 'How much money do you need?' Repeating the word for 'needed' gives the chorus line its bouncy, nagging rhythm.
 - 'A little bit there, a little bit here.' He describes how bribes and kickbacks accumulate quietly.
-- 'And just like that, you've got six million!' the plural 'of' form follows the numeral six.
-- 'A villa in Monaco, an account in Switzerland.' Notice the location form with overseas locations.
+- 'And just like that, you've got six million!' Putting the word for 'millions' before 'six' makes it sound casual: oh, say, six million or so.
+- 'A villa in Monaco, an account in Switzerland.' The song ticks off the classic billionaire starter pack: a sunny villa and a foreign bank vault.
 - 'But you need, need, need even more!' Greed ensures that no amount of money ever feels like enough.
 - 'A supermodel wife and a mistress too.' The song mocks the predictable cliches of corrupt officials.
-- 'Only she's just a little bit younger!' The comparative adjective is modified by the colloquial phrase for 'a tiny bit'.
-- 'A white yacht sails across the sea.' This phrase indicates movement along the surface of the sea.
-- 'Happiness is getting closer, almost here!' The particle expresses something that is right about to happen.
-- 'Paintings by Dalí and Van Gogh in the kitchen.' The names of famous artists appear as 'of'-form modifiers.
-- 'A church, a mosque, and a synagogue are built.' The short passive form agrees with the first feminine noun in the list.
+- 'Only she's just a little bit younger!' In the song's wicked joke, the mistress looks just like the supermodel wife — only a touch younger.
+- 'A white yacht sails across the sea.' Next comes the gleaming white yacht cruising across the open water.
+- 'Happiness is getting closer, almost here!' That little reduplicated phrase 'vot-vot' means any second now, right around the corner.
+- 'Paintings by Dalí and Van Gogh in the kitchen.' Imagine hanging priceless museum masterpieces right next to the kitchen stove.
+- 'A church, a mosque, and a synagogue are built.' To hedge his bets with heaven, the corrupt official funds a church, a mosque, and a synagogue all at once.
 - 'And for insurance, a Buddhist temple too!' The official tries to cover all spiritual bases just in case.
-- 'If it doesn't pan out here, it will pan out there!' The colloquial slang verb literally refers to burning, meaning 'to succeed or pay off'.
+- 'If it doesn't pan out here, it will pan out there!' The slang word literally has to do with burning, and here it means if one prayer doesn't pan out, another one will!

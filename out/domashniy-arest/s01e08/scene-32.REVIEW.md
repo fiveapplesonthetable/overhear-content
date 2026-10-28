@@ -31,7 +31,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Lyosha, let's go. We're going to the hospital for surgery.' Marina bundles up her young son and leads him out the front door.
 - 'Klavdia Viktorovna, I'm staying in the hospital today.' She stops by the kitchen to let the elderly neighbor know she will be away.
-- 'Here are the keys. Please water the flowers.' Diminutive forms like this sound warm and affectionate in everyday Russian.
+- 'Here are the keys. Please water the flowers.' Adding a warm little ending to the word for 'flowers' makes Marina's request sound extra polite.
 - 'Fine, I'll water them. Just don't rest there too long.' Klavdia Viktorovna grumbles as usual, pretending watering plants is a huge chore.
 - 'Hello! — Hi.' Nina walks into the kitchen to make tea and greets the old woman politely.
 - 'Nina, this is none of my business. But you're being silly!' Klavdia Viktorovna immediately jumps into meddling in Nina's personal life.
@@ -40,8 +40,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Why didn't you go to the concert with him?' In this moment, Danya had invited Nina out, but Nina stayed loyal to her husband.
 - 'That really is none of your business.' Nina sets down her cup and glares at the old gossip.
 - 'You know your Vanya. He'll lose the election.' Klavdia Viktorovna paints the bleakest possible future for Nina's husband.
-- 'He'll start drinking again and freeze in a snowdrift!' The verb means to go on a drinking binge after a period of sobriety.
-- 'And there's only one Danechka. Think of the children!' She uses the affectionate diminutive for Danya to emphasize how wonderful he is.
+- 'He'll start drinking again and freeze in a snowdrift!' Klavdia Viktorovna predicts that Ivan will fall right back off the wagon and freeze in a snowbank.
+- 'And there's only one Danechka. Think of the children!' Calling Danya 'Danechka' makes the polite lawyer sound like a prize catch.
 - 'Klavdia Viktorovna, watch your tongue!' Nina has had enough of the insulting comments about her family.
 - 'Or someone will be fixing your grave fence soon!' In Russian cemeteries, a small metal fence traditionally surrounds each grave plot.
 - 'You wish people well, and they just get angry!' Klavdia Viktorovna plays the innocent victim, throwing her hands in the air.

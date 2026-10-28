@@ -44,7 +44,7 @@ WALK = [
     (5, 'Да никак.', "'Nothing special.' Literally 'in no way at all'."),
     (5, 'Ничего из неё не выйдет.', "'Nothing will come of her.' Literally 'nothing out of her will come out'."),
     (6, 'Работает она много.', "'She works a lot.' In rehearsal, Galina is diligent."),
-    (6, 'А на сцену выходит — превращается в дерево.', "'But when she goes out on stage, she turns into a tree.' The verb for 'turns into' takes the preposition 'into' with the direct-object form."),
+    (6, 'А на сцену выходит — превращается в дерево.', "'But when she goes out on stage, she turns into a tree.' In Russian you 'turn into' something by putting the new thing after 'into' just like in English."),
     (7, None, "'Stage fright.' Literally 'fear in front of the public'."),
     (8, None, "'You'd do better to take a closer look at Tarabasova over there.' The teacher points to Galina's rival."),
     (9, 'Ясно.', "'Got it.' Literally 'clear'. Now Ilona knows exactly what holds Galina back."),
@@ -54,6 +54,6 @@ WALK = [
     (11, None, "'Alright, we have arrived.' Here, Yulia thanks him and says she could have taken the bus on her own."),
     (12, 'Да куда ты сама?', "'How could you go on your own?' Literally 'where you yourself?'."),
     (12, 'Вон метель какая!', "'Look what a blizzard is out there!' Ignatyev still believes Yulia's tall tale that she is a poor orphan caring for a sick grandmother."),
-    (13, 'Ну ладно, давай беги.', "'Alright, go on, run along.' The line opens with 'well' and lands on 'run along!' at the end for emphasis."),
+    (13, 'Ну ладно, давай беги.', "'Alright, go on, run along.' Having heard enough, he waves the kid off and tells him to run along."),
     (13, 'Бабушке привет!', "'Say hello to your grandmother!' Literally 'to grandmother a greeting!' in the 'to/for' form."),
 ]

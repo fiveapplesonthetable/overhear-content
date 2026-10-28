@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Please, here is your winnings, take the chips.' Politeness particle with demonstrative adverb and plural command verb.
-- 'Wait, I also want to win right now!' Second-person plural command followed by modal verb and single-action form.
-- 'Samson, it is time for us to leave here for home.' Descriptive word with 'to'-form experiencer and ongoing-action form basic verb form.
-- 'No, I will place a bet one more time!' Negative particle with first-person future-tense form and adverbial phrase.
-- 'Place your bets, gentlemen players.' Formal command form governing an object-form plural possessive noun phrase in the descriptive phrase.
-- 'I bet all the money on red!' Present action verb governing quantified object-form noun with location phrase.
-- 'You risk losing the family's last money.' Present tense verb governing single-action form and 'of'-form modifier.
-- 'I definitely must get lucky here today.' Impersonal necessity with 'to'-form experiencer and impersonal self-action verb form basic verb form.
-- 'The bets are placed, no more bets.' Short passive form followed by 'of'-form of negation with comparative adverb.
-- 'I worry about you very strongly.' Present self-action verb form governing location phrase of concern with intensifier.
-- 'Watch carefully, the wheel is already spinning fast!' Command form with manner adverb and self-action verb form verb.
-- 'Please, here is the new winnings at the table.' Courtesy particle with demonstrative particle and spatial location phrase.
+- 'Please, here is your winnings, take the chips.' The dealer slides another stack across the green felt with practiced, emotionless politeness.
+- 'Wait, I also want to win right now!' Greed has completely taken the wheel: winning once only makes him hungrier for the next spin.
+- 'Samson, it is time for us to leave here for home.' "Nam pora" ("it is time for us") is how you gently tell a friend that the night needs to end.
+- 'No, I will place a bet one more time!' "Just one more time"—the classic gambler's promise that is never just once.
+- 'Place your bets, gentlemen players.' The croupier's standard formula invites the table to risk it all again.
+- 'I bet all the money on red!' Instead of playing a small stack, Samson shoves everything he has onto a fifty-fifty color bet.
+- 'You risk losing the family's last money.' Rozhok hears the alarm bells: this isn't spare change anymore, it is Nina's family nest egg.
+- 'I definitely must get lucky here today.' When a player starts saying luck "must" happen to him, you know the crash is seconds away.
+- 'The bets are placed, no more bets.' With those traditional casino words, the money on the cloth can no longer be pulled back.
+- 'I worry about you very strongly.' Sobering up fast, Rozhok watches his friend teeter on the edge of ruin.
+- 'Watch carefully, the wheel is already spinning fast!' Samson's eyes are glued to the little white ball bouncing around the rim.
+- 'Please, here is the new winnings at the table.' Someone at the table collects, keeping the fever in the room alive for one final, disastrous round.

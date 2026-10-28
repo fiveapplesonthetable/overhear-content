@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Why did you not warn me in time?' Negative past tense question with question word and temporal adverb.
-- 'One had to act very quickly.' Impersonal modal past construction with basic verb form and degree adverb.
-- 'Alright, you did a great job anyway.' Conversational formula of approval with masculine descriptive phrase.
-- 'Thank you very much, we tried very hard.' Polite gratitude formula followed by past plural self-action verb form.
-- 'They just called me from the White House.' Impersonal plural past verb with 'to me/you' pronoun and location origin.
-- 'They are seriously considering you for the post of minister.' Present plural action verb with manner adverb and location object-form phrase.
-- 'What ministry specifically are they offering me?' Question word phrase with 'to me/you' pronoun and third person plural present verb.
-- 'Your success depends only on you.' Present tense verb governing a location 'of'-form complement.
-- 'What are my realistic chances?' Question word question with subject-form plural noun phrase.
-- 'You must urgently make your financial move.' Short modal adjective governing two adverbs and a self-action verb form basic verb form.
-- 'In what amount must one pay?' Location question word phrase followed by modal descriptive word and basic verb form.
-- 'One hundred fifty million will be adequate.' Numerical subject phrase with future linking word and adverbial descriptive phrase.
-- 'I will find this money right now.' First person singular future verb with temporal phrase and demonstrative object.
-- 'Without the necessary money there is no ministerial portfolio.' Location negative existential sentence governing descriptive 'of'-form.
+- 'Why did you not warn me in time?' A high-ranking Moscow patron calls on the private line, annoyed that the warehouse arrests caught him by surprise.
+- 'One had to act very quickly.' Leaving out any "I" makes the excuse sound like an objective necessity rather than his own scrambling.
+- 'Alright, you did a great job anyway.' "Molodets" ("well done / attaboy") is the word every subordinate in Russia waits to hear from Moscow.
+- 'Thank you very much, we tried very hard.' Watch how the blustering general instantly turns into an eager schoolboy when speaking to the capital.
+- 'They just called me from the White House.' In Russia, "the White House" ("Bely dom") is the massive government headquarters on the river in Moscow where the prime minister sits.
+- 'They are seriously considering you for the post of minister.' Now the trap that Arkady and the FSB cooked up goes to work: dangling a federal ministry in front of the governor.
+- 'What ministry specifically are they offering me?' His eyes widen immediately—a cabinet seat in Moscow is every provincial governor's ultimate dream.
+- 'Your success depends only on you.' That cryptic hint means one thing in corrupt politics: the seat goes to whoever brings the biggest suitcase of cash.
+- 'What are my realistic chances?' Greedy but cautious, Stepanovich wants to know if he is the frontrunner before he pays up.
+- 'You must urgently make your financial move.' "Oboznachitsya" literally means "to mark/show oneself"—bureaucratic underworld code for delivering a bribe so the bosses know you are serious.
+- 'In what amount must one pay?' Notice how they talk about a bribe using dry accounting language: "in what volume?" ("v kakom obyome?").
+- 'One hundred fifty million will be adequate.' Calling a hundred and fifty million rubles "normal/adequate" shows the staggering scale of Moscow graft.
+- 'I will find this money right now.' He doesn't even need to go to a bank—he has that kind of cash stashed right in his residence.
+- 'Without the necessary money there is no ministerial portfolio.' In Russian, a minister's post is called a "portfolio" ("portfel"), after the leather briefcase cabinet members carry.

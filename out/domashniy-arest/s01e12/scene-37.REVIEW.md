@@ -32,10 +32,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'How much money exactly did they allocate to us?' Arkady asks about the financial specifics.
 - 'Three hundred and fifty million rubles per estimate!' Samsonov quotes the official government grant figure.
 - 'You should have asked for an entire billion!' Arkady jokingly scolds him for modest ambitions.
-- 'Arkady, you are an unofficial adviser to the mayor after all!' Marina playfully reprimands Arkady.
+- 'Arkady, you are an unofficial adviser to the mayor after all!' "Vneshtatny" means "outside the regular staff roster"—an unpaid or informal post that still lets Arkady sit at the table.
 - 'That is exactly what I am advising!' Arkady defends his role as an expert strategist.
 - 'We will create a real historical center here.' Samsonov outlines his grand vision for Sineozersk.
-- 'Sineozersk will enter the famous Golden Ring!' The prestigious tourist route brings fame and investment.
+- 'Sineozersk will enter the famous Golden Ring!' "Zolotoye koltso" ("the Golden Ring") is the famous circle of ancient Russian monastery towns northeast of Moscow that every tourist visits.
 - 'I already have a preliminary project ready.' Marina confirms the architectural plan is completed.
 - 'Excellent, Marina Sergeyevna, well done!' Samsonov commends her dedication to the city's heritage.
 - 'With that, our meeting has ended.' Samsonov concludes the formal cabinet discussion.

@@ -33,13 +33,13 @@ STORY = [
 ]
 WALK = [
     (0, None, "'Hello! Come over here! I have a job for you!' Literally, 'there is a matter'. Arkady points out the open kitchen window at the tree branch."),
-    (1, None, "'See that hanging there? — Yes, it's been hanging there for a month.' Notice how Russian uses the present tense with 'already a month' for an action that started in the past and is still going on."),
-    (2, None, "'It needs to come down! You climb onto the window and knock it down with the mop.' He uses the vivid present tense to give step-by-step instructions."),
-    (3, None, "'And I'll spot you. Got it? — Yes, got it!' The verb for 'to spot' or 'insure' means holding someone so they don't fall."),
+    (1, None, "'See that hanging there? — Yes, it's been hanging there for a month.' Russian uses the present with 'already a month' for something that started in the past and is still hanging there now."),
+    (2, None, "'It needs to come down! You climb onto the window and knock it down with the mop.' Arkady lays out the plan step by step: climb onto the windowsill and knock the icicle down with the mop."),
+    (3, None, "'And I'll spot you. Got it? — Yes, got it!' The word for 'spot' literally means to insure someone—holding onto them so they don't fall."),
     (4, None, "'Grab the mop, go! Come on, come on!' Just as Slavik steps up, Klavdia Viktorovna walks in and scolds them, warning that the boy will fall and get hurt."),
     (5, None, "'Oh stop it, Klavdia Viktorovna! Fine, I'll climb up myself.' Shamed by the old lady, Arkady climbs onto the windowsill himself."),
-    (6, None, "'Just hold me! — How do I hold you? — Gently!' Arkady's sarcastic reply is the adverb 'tenderly' or 'gently'."),
-    (7, None, "'Look, hold me by the leg. Like that! Hold tighter!' After verbs of holding or grabbing, Russian uses the preposition 'for' plus the direct-object form: 'by the leg'."),
+    (6, None, "'Just hold me! — How do I hold you? — Gently!' Asked how to hold him, Arkady replies with dry sarcasm: 'Gently!'"),
+    (7, None, "'Look, hold me by the leg. Like that! Hold tighter!' When holding or grabbing someone by a body part, Russian says 'hold me for the leg'."),
     (8, None, "'Oh! Our condensed milk just exploded!' Behind them on the stove, Marina's forgotten tin of condensed milk blows up with a thunderous bang. Startled Slavik lets go of Arkady's ankle, and Arkady tumbles headfirst out the first-floor window into a snowbank!"),
     (9, None, "'I'll go find her right now! — What are you doing, Arkasha?' Running out into the courtyard to look for Yulya, Samson pauses in surprise as he sees Arkady lying in the snow."),
     (10, None, "'Nothing! Your son is a murderer!' Groaning in the snowdrift, Arkady blames Slavik for letting go of his leg."),

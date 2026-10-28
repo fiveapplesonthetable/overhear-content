@@ -28,16 +28,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'So, look here, Samsonov.' Arkady begins to explain the strategic plan.
-- 'There are five stages of accepting the inevitable.' The verb takes the 'of' form with the numeral five.
-- 'Denial, anger, bargaining, depression, acceptance.' A rapid list of five psychological nouns.
-- 'I didn't understand anything.' Samsonov admits his bewilderment with a negative pronoun.
-- 'Your wife thinks nobody needs you.' The second half of the sentence uses the conjunction for 'that'.
+- 'There are five stages of accepting the inevitable.' Holding court in his bathrobe, Arkady lectures Samsonov on how people come to terms with fate.
+- 'Denial, anger, bargaining, depression, acceptance.' He rattles off all five textbook stages in a single breath to sound like an expert.
+- 'I didn't understand anything.' All that psychological theory goes right over Samsonov's head.
+- 'Your wife thinks nobody needs you.' Arkady boils the problem down to simple terms: Nina assumes her husband has nowhere else to go.
 - 'That is exactly what she thinks!' Samsonov confirms Nina's dismissive attitude.
-- 'We will plant doubts in her.' This phrase describes planting an idea.
-- 'Then we will provoke jealousy.' The future verb combines.
+- 'We will plant doubts in her.' Step one of the counterattack is planting a seed of doubt in Nina's mind.
+- 'Then we will provoke jealousy.' Once she starts wondering, the next move is making her jealous.
 - 'We will send her a court summons!' Arkady introduces the central mechanism of his plan.
-- 'As if you are filing for divorce.' The comparative conjunction introduces an imaginary condition.
+- 'As if you are filing for divorce.' The paper will make it look as though Samsonov is actually taking her to divorce court.
 - 'I do not want a real divorce!' Samsonov panics at the thought of actual separation.
-- 'The summons will be fake, from a printer.' Arkady reassures him with a colloquial adjective for counterfeit.
-- 'I don't know, I really doubt it.' Samsonov expresses hesitation.
+- 'The summons will be fake, from a printer.' Literally 'made of linden wood,' the slang word for 'fake' reassures Samsonov it is just a printout.
+- 'I don't know, I really doubt it.' Even knowing it is a bluff, Samsonov has cold feet about pushing Nina this far.
 - 'I congratulate you, Samsonov, you are henpecked!' Arkady mocks Samsonov's lack of resolve.

@@ -27,15 +27,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'That is all, the break is over!' Lyosha playfully commands the end of their rest.
-- 'The war is beginning again!' This phrase describes an action that starts up.
+- 'The war is beginning again!' Playtime isn't over yet — Lyosha announces that the battle is back on.
 - 'Alright, take the grenade!' Arkady tosses an imaginary explosive at the boy.
 - 'I am the evil enemy in the bunker!' Arkady adopts his villainous role in the game.
-- 'I am sitting and fear no one!' The negative pronoun takes the 'of' form with negation.
-- 'Surrender, enemy! I am shooting!' The command form command precedes the boy's attack.
+- 'I am sitting and fear no one!' Sitting in his imaginary bunker, Arkady boasts that nobody scares him.
+- 'Surrender, enemy! I am shooting!' Lyosha charges in yelling for the enemy to give up.
 - 'Ow, the partisan shot me in the back!' Arkady pretends to take a hit from behind.
 - 'Take that on the back again!' Lyosha gets carried away and strikes Arkady for real.
 - 'Quiet, stop! It really hurts!' Arkady drops the game immediately as real pain sets in.
-- 'Enough, stop right now!' This phrase demands an immediate halt to the roughhousing.
-- 'It seems I injured my back.' The parenthetical word conveys Arkady's sudden realization.
+- 'Enough, stop right now!' Playtime is officially over as Arkady winces and begs the boy to stop.
+- 'It seems I injured my back.' Clutching his lower back, Arkady realizes that last whack actually pulled something.
 - 'Forgive me, Arkady, I did not mean to.' Lyosha feels guilty for hurting his older friend.
 - 'It is nothing. Help me slowly stand up.' Arkady reassures the boy despite his aching back.

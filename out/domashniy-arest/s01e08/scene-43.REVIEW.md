@@ -29,12 +29,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Do you confirm Anikeyev's words?' The police investigator asks Marina to give an official statement about Arkady's escape.
 - 'Yes, he escaped custody to save my child.' Marina confirms that Arkady broke house arrest solely to stop the unnecessary surgery.
 - 'Then sign here at the bottom.' The officer points to the signature line on the official document.
-- 'And on the second page as well.' Notice the ordinal numeral in the location form.
+- 'And on the second page as well.' The investigator flips the sheet over and points to a second spot that needs her signature.
 - 'Thank you, I have signed everything.' Marina hands the clipboard back to the officers so they can leave.
 - 'Mom, look at me!' Suddenly young Lyosha calls out happily from across the hospital corridor.
 - 'I am walking by myself without crutches!' The boy steps forward without his forearm crutches for the first time in years.
 - 'Good boy, son!' Marina gasps in joy as tears fill her eyes.
-- 'You're actually walking!' Notice how the particle emphasizes her amazement that he can walk.
+- 'You're actually walking!' The little word 'tak' at the start captures Marina's stunned disbelief: you're really walking!
 - 'Just watch out, be careful!' Marina rushes over to steady him in case he loses his balance.
 - 'Look, I can stand!' Lyosha proudly balances on both feet without any support.
 - 'Good boy! But the doctor said to walk just a little at a time.' The Moscow specialist Dr. Tenenbaum warned against overexerting his legs on the first day.

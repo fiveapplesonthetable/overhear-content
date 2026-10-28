@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Oh wow, praise from the abbot!' Konstantin rejoices upon receiving unexpected approval.
-- 'What praise do you deserve, Konstantin?' Father Grigory questions him sharply.
-- 'You write too slowly and messily.' Father Grigory scolds him with two descriptive adverbs.
-- 'I try very hard to write nicely.' Konstantin defends his penmanship using a self-action verb form.
-- 'Look what a crooked letter turned out!' Father Grigory points out a flawed letter.
-- 'Correct this mistake right now.' The mentor demands immediate correction using a command action verb.
-- 'Lord, forgive me a sinner.' Konstantin whispers a humble apology.
-- 'We have very little time left.' Father Grigory warns of the looming deadline with a 'of'-form quantity phrase.
-- 'Soon this chronicle will be taken back.' Father Grigory explains the manuscript return with a future verb.
-- 'I feel very frightened in my soul.' Konstantin shares his inner unease.
-- 'You are afraid because of your sins!' Father Grigory blames spiritual weakness using a causal preposition.
-- 'My hand is going completely numb.' Konstantin complains of physical exhaustion with an intensifying adverb.
-- 'Then pray and repent diligently!' Father Grigory prescribes spiritual discipline with paired imperatives.
-- 'I will finish this page myself!' Father Grigory takes over the quill with an emphatic pronoun.
+- 'Oh wow, praise from the abbot!' "Oh wow" is "ukh ty", the go-to Russian exclamation when something catches you happily by surprise. Konstantin thinks he has finally earned a compliment.
+- 'What praise do you deserve, Konstantin?' Father Grigory bursts that bubble immediately. Literally he asks "For what to you praise?", challenging the young monk to name one thing he did right.
+- 'You write too slowly and messily.' No gentle feedback in this scriptorium: the elder calls the work both slow and dirty.
+- 'I try very hard to write nicely.' Konstantin pleads his case like a schoolboy who knows his handwriting is a mess.
+- 'Look what a crooked letter turned out!' Hovering over the parchment, Grigory points right at a lopsided character that ruined the line.
+- 'Correct this mistake right now.' To fix ink on parchment takes a knife, and the mentor wants it done on the spot.
+- 'Lord, forgive me a sinner.' Instead of arguing back, the monk mutters the classic monastery sigh of a weary scribe.
+- 'We have very little time left.' Here is why Grigory is so tense: the deadline is breathing down their necks.
+- 'Soon this chronicle will be taken back.' In Russian they simply say "they will take this chronicle back", leaving the messengers unnamed because only the book matters.
+- 'I feel very frightened in my soul.' Something heavier than bad penmanship is bothering him: a dark foreboding has settled "on the soul", where Russians place deep feelings.
+- 'You are afraid because of your sins!' Grigory has one explanation for every bad feeling, and it is always the young monk's own conscience.
+- 'My hand is going completely numb.' After hours hunched over the desk with a quill, his fingers can barely move anymore.
+- 'Then pray and repent diligently!' Sore hand or troubled soul, the elder's cure is the same: more prayer and harder repentance.
+- 'I will finish this page myself!' Out of patience at last, Grigory snatches the quill to do the job with his own hand.

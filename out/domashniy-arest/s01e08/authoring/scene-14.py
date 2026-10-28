@@ -32,16 +32,16 @@ STORY = [
 ]
 WALK = [
     (0, None, "'How is that even possible, eh?' Samsonov shakes his head in disbelief over the allegations."),
-    (1, None, "'For us that is a sacred holiday!' Notice the adjective meaning 'sacred' used with a masculine noun."),
+    (1, None, "'For us that is a sacred holiday!' Victory Day is sacred to Ivan's whole generation, which is why being called a traitor's grandson cuts him to the bone."),
     (2, None, "'I always watched movies about the war.' Samsonov recalls growing up on Soviet patriotic cinema."),
     (3, None, "'There is such a profession — defending the motherland!' Samsonov quotes the famous line from the classic Soviet movie 'Officers'."),
-    (4, None, "'How can one live with this now, eh?' Notice the basic verb form construction expressing inability to cope."),
+    (4, None, "'How can one live with this now, eh?' Literally, 'how now with this to live?' — Ivan feels he can never hold his head up in town again."),
     (5, None, "'Yes, things are really bad.' The companion sympathizes with Ivan's awful situation."),
     (6, None, "'Where were you for so long?' The companion asks where Ivan disappeared to."),
     (7, None, "'Sorry, I have severe depression.' Ivan explains his despair using a modern loanword."),
-    (8, None, "'Then go get a new bottle.' Notice the preposition with the 'with/as' form denoting what to fetch."),
-    (9, None, "'Are you sending me for vodka?' Notice the verb meaning 'to send' with the preposition of purpose."),
-    (10, None, "'You drank it all yourself after all!' Emphatic pronoun used to point out that Ivan drank the whole bottle."),
-    (11, None, "'There are only drunks out on the street.' A colloquial noun referring to chronic drinkers."),
+    (8, None, "'Then go get a new bottle.' His drinking buddy has a much simpler priority: somebody needs to go fetch another bottle."),
+    (9, None, "'Are you sending me for vodka?' Ivan is offended that he is the one being sent on the liquor run."),
+    (10, None, "'You drank it all yourself after all!' His friend points out the obvious: Ivan is the one who polished off the last bottle."),
+    (11, None, "'There are only drunks out on the street.' Sitting on a bench with an empty bottle, Ivan ironically complains that the street is full of drunks."),
     (12, None, "'Let's go together, I want to drink more.' Ivan drags his companion along toward the nearest kiosk."),
 ]

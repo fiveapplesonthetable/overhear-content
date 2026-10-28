@@ -11,8 +11,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Эдуард Владимирович | Мариночка, открой скорее дверь! | Marinochka, open the door quickly! | new | new: adapted cue |
-| 2 | Клавдия Викторовна | Она сейчас сидит в туалете. | She is in the bathroom right now. | #991: Она в туалете. | adapted: exact cue |
-| 3 | Клавдия Викторовна | Она сидит там с Аркашкой. | She is sitting there with Arkashka. | #992: С Аркашкой. | adapted: adapted cue |
+| 2 | Клавдия Викторовна | Она сейчас сидит в туалете. | She is in the bathroom right now. | #991 01:00:55: Она в туалете. | adapted: exact cue |
+| 3 | Клавдия Викторовна | Она сидит там с Аркашкой. | She is sitting there with Arkashka. | #992 01:00:59: С Аркашкой. | adapted: adapted cue |
 | 4 | Эдуард Владимирович | Ой, как это трогательно! | Oh, how touching that is! | new | new: adapted cue |
 | 5 | Марина | Эдик, ты опять пьяный пришёл? | Edik, did you come drunk again? | new | new: adapted cue |
 | 6 | Марина | Иди скорее к себе домой. | Go to your home right away. | new | new: adapted cue |
@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Marinochka, open the door quickly!' Eduard calls out affectionately using an intimate diminutive.
-- 'She is in the bathroom right now.' Klavdiya curtly points out Marina's current location.
-- 'She is sitting there with Arkashka.' Klavdiya adds a malicious detail about Arkady's presence.
-- 'Oh, how touching that is!' Eduard's sarcastic exclamation barely masks his deep wounded jealousy.
-- 'Edik, did you come drunk again?' Marina reproaches him for arriving in a state of drunkenness.
-- 'Go to your home right away.' Marina tries to turn him away before a major scene develops.
-- 'I raised you for a long time!' Eduard dramatically exaggerates his paternal role in her life.
-- 'I taught you literally everything.' The officer claims credit for shaping her personality.
-- 'Stop shouting across the whole hallway.' Marina urges him to lower his voice in the communal house.
-- 'And you turned out to be an ungrateful woman!' Eduard accuses his former operative of betrayal.
-- 'I will not work for you anymore.' Marina firmly severs all remaining ties with the security agency.
-- 'You broke my faithful heart!' A melodramatic expression revealing his personal affection.
-- 'Enough making noise, go sleep it off, commander.' Klavdiya bluntly advises him to sober up.
-- 'I will not forget this insult anyway.' Eduard vows to hold on to his bitter resentment.
+- 'Marinochka, open the door quickly!' Drunk and sentimental, Eduard pounds on the door and uses the sweet nickname "Marinochka".
+- 'She is in the bathroom right now.' Klavdiya is only too happy to report where Marina is.
+- 'She is sitting there with Arkashka.' Tossing in "with Arkashka" is pure neighborly mischief, designed to make Eduard explode.
+- 'Oh, how touching that is!' Dripping with sarcasm, the jealous colonel tries to pretend he is amused.
+- 'Edik, did you come drunk again?' Marina steps out and sizes him up in one glance.
+- 'Go to your home right away.' She treats her former handler like an embarrassing guest who needs to leave.
+- 'I raised you for a long time!' In his drunken self-pity, he talks as if he had raised her from childhood rather than recruited her.
+- 'I taught you literally everything.' Every surveillance trick and career move she knows, he claims as his own creation.
+- 'Stop shouting across the whole hallway.' In a communal apartment, a corridor shouting match brings every neighbor to their keyhole.
+- 'And you turned out to be an ungrateful woman!' Behind the spy chief's bluster is a jilted man whose pride is hurt.
+- 'I will not work for you anymore.' Switching to the cold formal "vy", she cuts her ties with him and the agency for good.
+- 'You broke my faithful heart!' Hearing a hardened FSB officer complain about his "faithful heart" is comedy gold.
+- 'Enough making noise, go sleep it off, commander.' Klavdiya has zero fear of the secret police when someone is making noise in her hallway.
+- 'I will not forget this insult anyway.' Nursing his wounded ego, Eduard stumbles toward the exit.

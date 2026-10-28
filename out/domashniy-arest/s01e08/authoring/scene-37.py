@@ -31,8 +31,8 @@ STORY = [
     ('samson', 'Передайте Нине, что я дома.', 'Tell Nina that I am at home.', [(850, 'Маме вашей передайте')], ''),
 ]
 WALK = [
-    (0, None, "'Ivan, stop blaming yourself for everything!' The opening command command expresses an urgent plea to cease self-blame."),
-    (1, None, "'You don't understand anything!' In Russian, double negative structures are standard and grammatically required."),
+    (0, None, "'Ivan, stop blaming yourself for everything!' Out among the snowy pines, an imaginary voice urges Ivan to stop beating himself up."),
+    (1, None, "'You don't understand anything!' Russian stacks 'nothing' and 'not' together here as Ivan waves away the voice in his head."),
     (2, None, "'I am a traitor and the grandson of a fascist!' Ivan repeats the painful slander broadcast by his political opponents."),
     (3, None, "'That is not true! You have an important debate today.' The internal voice reminds him of his public campaign duties."),
     (4, None, "'Evil lives in my genes.' In his intoxicated state, Ivan believes his moral flaws were inherited from his grandfather."),

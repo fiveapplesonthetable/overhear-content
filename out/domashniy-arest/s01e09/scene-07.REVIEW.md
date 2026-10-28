@@ -30,14 +30,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Close your mouth, Samsonov, you'll catch a draft!' Arkady snaps at his flustered neighbor.
 - 'Did you count to ten?' Arkady asks if he followed the timed staring instructions.
 - 'Yes, I counted all of it.' Samsonov confirms that he completed the count.
-- 'Nothing terrible, that is logical.' Arkady uses a neuter short adjective to normalize the failure.
-- 'This is the first stage: denial.' The psychological concept refers to the stages of grief.
+- 'Nothing terrible, that is logical.' Literally 'nothing terrible,' Arkady brushes off the flop as a totally predictable reaction.
+- 'This is the first stage: denial.' Borrowing pop-psychology jargon, he diagnoses Nina with the first stage of grief.
 - 'What? What denial?' Samsonov is confused by the unfamiliar psychological terminology.
 - 'Don't worry about it.' The Russian idiom literally means 'do not take it into your head'.
-- 'When you are leaving home...' The compound future construction sets the timeframe.
-- 'Don't forget to kiss the children.' The negative command is followed by an action verb.
+- 'When you are leaving home...' Setting up the next bit of theater, Arkady pictures the moment Samsonov walks out the door.
+- 'Don't forget to kiss the children.' To tug at her heartstrings, he tells Samsonov to make sure he kisses the kids goodbye.
 - 'Say: I am always your dad.' Arkady scripts a melodramatic parting line.
 - 'Got it, I will kiss them and say it.' Samsonov agrees to deliver the scripted goodbye.
-- 'And where do I go afterwards?' Samsonov asks about the practical destination.
+- 'And where do I go afterwards?' Once he actually walks out of the apartment, Samsonov realizes he has nowhere to sleep.
 - 'To my hotel, Samsonov!' Arkady directs him to his hotel headquarters.
-- 'There we will continue the operation.' The plural future verb frames the plan as a political campaign.
+- 'There we will continue the operation.' Arkady talks about saving Samsonov's marriage as if it were a military campaign.

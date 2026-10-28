@@ -39,7 +39,7 @@ WALK = [
     (3, 'Ордер выписан на Самсонова Ивана Васильевича.', "'The occupancy order is made out to Samsonov Ivan Vasilyevich.' Official Russian documents always put the surname first, then the first name and father's name."),
     (3, 'Ну, что скажете, друзья?', "'Well, what do you say, my friends?' Literally 'what will you say'. Nina doesn't hesitate for a second."),
     (4, None, "'Well, we agree!' The word for 'agree' is a short adjective, here in the plural form for 'we'. Samson is horrified."),
-    (5, 'Что согласны? Нет!', "'What do you mean, we agree? No!' The key word here means 'agree', anchored at the close by 'agree'."),
+    (5, 'Что согласны? Нет!', "'What do you mean, we agree? No!' Samson is outraged at the idea of agreeing to such terms and flatly refuses."),
     (5, 'Вы предлагаете человека пытать за эту квартиру?', "'Are you asking me to torture a man for this flat?' Literally 'you offer to torture a person for this flat?'. Nina tries to speak for him."),
     (6, None, "'He agrees, he agrees!' Notice how the ending changes: for 'we' it ended in '-y', and for 'he' it is the masculine singular form. Pasha puts on a hurt expression."),
     (7, None, "'Why put it so roughly, Ivan? You just need to get the information.' Literally 'why so coarsely'. Samson is not fooled."),

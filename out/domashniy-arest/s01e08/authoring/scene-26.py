@@ -31,11 +31,11 @@ STORY = [
 ]
 WALK = [
     (0, None, "'Nina, I have a second ticket.' Ivan awkwardly attempts to make peace with an offering."),
-    (1, None, "'Tomorrow evening there is a concert in town.' The adverbial phrase sets the time and venue."),
+    (1, None, "'Tomorrow evening there is a concert in town.' He mentions a big concert in town the next evening as casually as he can."),
     (2, None, "'And what are you suggesting?' Nina asks skeptically about his real intentions."),
-    (3, None, "'If you want, let's go together.' The conditional clause expresses an informal invitation."),
+    (3, None, "'If you want, let's go together.' Trying to sound nonchalant, Ivan invites his wife out for the evening."),
     (4, None, "'Now that is a real man!' Nina responds with heavy dripping sarcasm."),
-    (5, None, "'How tactful and kind you are!' The exclamatory adjectives mock Ivan's sudden politeness."),
+    (5, None, "'How tactful and kind you are!' Nina lays the irony on thick, praising how wonderfully thoughtful he has suddenly become."),
     (6, None, "'Does that mean you agree to go?' Ivan gullibly misreads her sarcastic remarks as genuine."),
     (7, None, "'No, of course not! I won't go.' Nina quickly dashes his hopes with a blunt refusal."),
     (8, None, "'Better go with Klavdia Viktorovna.' Nina sarcastically suggests the elderly neighbor instead."),

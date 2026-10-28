@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, show your documents for the car.' The command form governs an object-form location phrase.
-- 'Please, here are all the necessary papers.' The particle introduces a subject-form noun phrase with a qualifying adjective.
-- 'Tell me, what year is this Frontera?' The question word 'of'-form phrase inquires about the manufacture date.
-- 'This car is from the year 2008.' The ordinal numeral is declined in the 'of' form after 'goda'.
-- 'Yes, this is truly a very good car.' The adverb of manner emphasizes the positive evaluation.
-- 'We bring in only the most reliable cars.' The superlative adjective phrase describes the imported vehicles.
-- 'Where are you heading in it now?' The question word introduces a self-action verb form motion verb.
-- 'We are hurrying to the town of Sineozersk now.' The present tense verb of motion takes a location object-form destination.
-- 'Listen, bro, let us through forward quickly.' Samson uses a familiar colloquial address.
-- 'We are in a very big hurry on business.' The adverbial phrase explains the urgent need for fast passage.
-- 'Alright, everything is in order with the documents.' The location idiom confirms valid official paperwork.
-- 'Thank you very much for your quick help!' The courtesy formula governs an object-form location phrase.
-- 'Go ahead, safe travels and have a good road!' The officer uses a traditional Russian travel blessing in the 'of' form.
-- 'Thanks, friend, we drove on further!' Samson announces departure using a past tense verb of setting off.
+- 'Hello, show your documents for the car.' Routine highway stop: a polite "zdravstvuyte" followed immediately by the demand for paperwork.
+- 'Please, here are all the necessary papers.' When handing something over, Russians say "pozhaluysta" ("please") where English speakers say "here you go".
+- 'Tell me, what year is this Frontera?' Instead of grilling him, the officer is eyeing the foreign SUV—an "Opel Frontera"—with genuine curiosity.
+- 'This car is from the year 2008.' In Russian, you give a vehicle's model year by saying it is "of the two-thousand-eighth year".
+- 'Yes, this is truly a very good car.' For a provincial checkpoint officer, a sturdy imported four-by-four is something to admire.
+- 'We bring in only the most reliable cars.' The word he uses for "bring in" specifically means driving vehicles across a border for sale.
+- 'Where are you heading in it now?' Still making small talk, the officer asks about their destination while leafing through the registration.
+- 'We are hurrying to the town of Sineozersk now.' Samson slips the word for "hurrying" into his answer as a polite hint that he has a schedule to keep.
+- 'Listen, bro, let us through forward quickly.' Switching from formal talk to "bratan" ("bro"), Samson appeals to him man-to-man to wave them past the line.
+- 'We are in a very big hurry on business.' He has a plane to catch and a buyer waiting, so every minute at the barrier counts.
+- 'Alright, everything is in order with the documents.' "V poryadke" literally means "in order", the phrase you always hope to hear from an official holding your papers.
+- 'Thank you very much for your quick help!' Relieved not to be held up for a bribe or an inspection, Samson thanks him warmly.
+- 'Go ahead, safe travels and have a good road!' "Schastlivogo puti" ("happy journey") is the classic Russian send-off for anyone hitting the road.
+- 'Thanks, friend, we drove on further!' Once again Russian uses the past—"we drove on"—for an action that is starting right this second.

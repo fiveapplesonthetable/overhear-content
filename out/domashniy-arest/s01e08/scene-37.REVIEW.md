@@ -26,8 +26,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Ivan, stop blaming yourself for everything!' The opening command command expresses an urgent plea to cease self-blame.
-- 'You don't understand anything!' In Russian, double negative structures are standard and grammatically required.
+- 'Ivan, stop blaming yourself for everything!' Out among the snowy pines, an imaginary voice urges Ivan to stop beating himself up.
+- 'You don't understand anything!' Russian stacks 'nothing' and 'not' together here as Ivan waves away the voice in his head.
 - 'I am a traitor and the grandson of a fascist!' Ivan repeats the painful slander broadcast by his political opponents.
 - 'That is not true! You have an important debate today.' The internal voice reminds him of his public campaign duties.
 - 'Evil lives in my genes.' In his intoxicated state, Ivan believes his moral flaws were inherited from his grandfather.

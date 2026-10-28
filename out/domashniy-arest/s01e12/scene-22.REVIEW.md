@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Damaging ancient monuments is strictly forbidden by law.' Neuter verbal noun with a short passive form and 'with'-form agent.
-- 'What will happen to this old building now?' Future impersonal question governing 'with/as' form with a preposition.
-- 'For damaging historical heritage, real prison threatens.' Location phrase of cause governing 'of'-form case with a action verb.
-- 'Can people really be put in prison?' Rhetorical question particle with an indefinite personal verb phrase and directional phrase.
-- 'Yes, the law protects culture very strictly.' Affirmative particle with a present tense action verb governing object-form case.
-- 'I worry very much about our projects.' First-person self-action verb form governing location case with possessive modifier.
-- 'Do not worry, Christian, we will sort everything out.' Negative self-action verb form command followed by a future-tense form clause.
-- 'We must strictly follow all safety rules.' Plural modal adjective governing an ongoing-action form basic verb form and direct object.
-- 'Experts have already begun checking the condition of the old wall.' Plural subject with a single-action form verb and nested 'of'-form chain.
-- 'The main thing is to preserve this unique ancient monastery.' Descriptive word neuter adjective followed by a single-action form.
-- 'The police are already controlling the entire territory around.' Collective feminine subject governing an object-form noun phrase.
-- 'Then I can calmly continue my work.' Modal verb of capability governing an ongoing-action form basic verb form and self-action verb form possessive.
-- 'Yes, let us go into the office and prepare the documents.' Inclusive command form governing directional and direct object nouns.
+- 'Damaging ancient monuments is strictly forbidden by law.' Off to the side of the rally, a nervous foreign consultant gets a crash course in Russian heritage law.
+- 'What will happen to this old building now?' Christian only sees an "old building", still trying to figure out why everyone is so worked up.
+- 'For damaging historical heritage, real prison threatens.' In Russian, prison doesn't just await you—it "threatens" ("grozit"), which sounds much more ominous.
+- 'Can people really be put in prison?' "Posadit v tyurmu" literally means "to seat into prison"; in Russian you "sit" when you serve time.
+- 'Yes, the law protects culture very strictly.' The lawyer lays it on thick to make sure his foreign client doesn't go near the bulldozers.
+- 'I worry very much about our projects.' Like any investor caught in a local political storm, Christian is mostly worried about his bottom line.
+- 'Do not worry, Christian, we will sort everything out.' "My vo vsyom razberyomsya" ("we will sort everything out") is the universal Russian reassurance when things look messy.
+- 'We must strictly follow all safety rules.' Once he hears the word "prison", Christian becomes a sudden convert to following every regulation in the book.
+- 'Experts have already begun checking the condition of the old wall.' Now that the mayor's crew is gone, preservation specialists are taking over the site.
+- 'The main thing is to preserve this unique ancient monastery.' Thirty seconds ago he called it "this old building"; now it is "this unique ancient monastery".
+- 'The police are already controlling the entire territory around.' Uniformed officers have cordoned off the grounds so no more scuffles break out.
+- 'Then I can calmly continue my work.' Reassured that he won't end up in a Russian jail cell, the foreigner breathes easy again.
+- 'Yes, let us go into the office and prepare the documents.' And as always in Russia, the scene ends with going inside to stamp and sign a stack of paperwork.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What is even happening here?' Question word phrase with an emphatic adverb and present tense neuter verb.
-- 'Let's get out of here, guys, we are leaving!' Inclusive command form of motion enclosing a colloquial direct-address noun.
-- 'The boss said that they will not touch the wall.' Past masculine verb governing an object clause with a negative third-person plural verb.
-- 'We quickly pack all things and leave.' Adverb of manner with coordinated present tense verbs governing an object-form direct object.
-- 'Where are you leaving now, my good ones?' Question word with emphatic particle governing a second-person plural verb and adjective direct-address.
-- 'Did you really suddenly get scared?' Question particle with an impersonal 'to'-form experiencer construction and descriptive word adverb.
-- 'Where are your heavy machines driving off to?' Directional question adverb governing a third-person plural verb and feminine subject phrase.
-- 'This strange woman has completely lost her head.' Demonstrative subject phrase governing an idiomatic past action verb phrase.
-- 'Our ancient wall is now completely saved.' Feminine subject phrase with an adverb of degree and short passive form.
-- 'Our city finally has a real chance.' Possessive location construction with temporal adverb and masculine action verb phrase.
-- 'The police will soon make an official decision.' Feminine collective subject governing a future-tense form and object-form noun phrase.
-- 'Truth and law are on our side today.' Coordinated abstract noun subjects with temporal adverb and location location idiom.
+- 'What is even happening here?' Phones are ringing, orders are reversing after Pasha's arrest, and the foreman is left scratching his head.
+- 'Let's get out of here, guys, we are leaving!' "Rebyata" ("guys/lads") is how a Russian crew boss rallies his workers when the job is suddenly called off.
+- 'The boss said that they will not touch the wall.' With acting mayor Osipenko in handcuffs at the warehouse, nobody at city hall wants anything to do with his demolition order.
+- 'We quickly pack all things and leave.' The bulldozers that looked unstoppable thirty seconds ago are already backing up.
+- 'Where are you leaving now, my good ones?' "Khoroshiye moi" ("my good ones") drips with delicious sarcasm as Marina watches the tough guys retreat.
+- 'Did you really suddenly get scared?' Flush with victory, she cannot resist taunting the crew as they climb back into their cabs.
+- 'Where are your heavy machines driving off to?' Moments ago she was bracing for a beating; now she is practically chasing the twenty-two-ton trucks down the road.
+- 'This strange woman has completely lost her head.' From the driver's seat, a professor yelling at a retreating bulldozer looks completely unhinged. "Poteryala golovu" is "lost her head", just like in English.
+- 'Our ancient wall is now completely saved.' Eight hundred years after monk Konstantin hid the chronicle, the last piece of his monastery survives another day.
+- 'Our city finally has a real chance.' Literally "at our city finally appeared a real chance"—she feels the whole mood of Sineozersk turning a corner.
+- 'The police will soon make an official decision.' Even while retreating, the foreman mutters that the authorities will sort this out later.
+- 'Truth and law are on our side today.' For once in this scrappy provincial comedy, the idealists standing in the cold actually win.

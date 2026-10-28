@@ -28,8 +28,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Let go of me immediately!' This phrase demands release from physical restraint.
+- 'Let go of me immediately!' Struggling with the security guards at the door, Pasha angrily demands they take their hands off him.
 - 'You are still saying hello to me?' Osipenko is offended by the casual greeting after being betrayed.
-- 'Quickly return my documents to me.' This phrase calls for the immediate return of his property.
-- 'It is impossible to return anything.' The descriptive phrase word indicates that the requested action cannot be done.
+- 'Quickly return my documents to me.' Barging into the office, he demands his three million back on the spot, still calling the cash 'documents.'
+- 'It is impossible to return anything.' Boris stonewalls him with a bureaucratic shrug, saying nothing can be given back now.
 - 'Security, take him away from here!' Boris summons the guards to escort his former ally out.

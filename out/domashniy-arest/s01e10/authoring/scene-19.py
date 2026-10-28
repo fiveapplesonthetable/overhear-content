@@ -33,9 +33,9 @@ STORY = [
     ('dean', 'Я внимательно слушаю вас, Марина.', 'I am listening to you attentively, Marina.', [(585, 'Слушаю вас.')], 'adapted cue 585'),
 ]
 WALK = [
-    (0, None, "'Our acquaintance started somehow wrong.' Eduard seeks to smooth over their awkward initial meeting."),
-    (4, None, "'I want to officially congratulate you.' The construction takes the object pronoun for the person congratulated."),
-    (6, None, "'Our collective is small, but very friendly.' The contrasting conjunction links the two descriptive adjectives."),
-    (9, None, "'If there are questions, you are welcome.' The traditional Russian welcoming phrase invites her to approach him."),
-    (13, None, "'We are always in a creative search.' This phrase describes an ongoing artistic endeavor."),
+    (0, None, "'Our acquaintance started somehow wrong.' Eduard tries to smooth over their awkward first meeting at the university."),
+    (4, None, "'I want to officially congratulate you.' Putting on his most courteous administrator voice, he welcomes her to the staff."),
+    (6, None, "'Our collective is small, but very friendly.' In Russian workplaces, \"kollektiv\" is the classic word for the whole office team."),
+    (9, None, "'If there are questions, you are welcome.' \"Milosti prosim\" is an old-fashioned, courtly Russian phrase meaning \"you are most welcome\"."),
+    (13, None, "'We are always in a creative search.' Flattering her academic pride, he pretends his sleepy department is hungry for bold ideas."),
 ]

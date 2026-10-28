@@ -41,7 +41,7 @@ WALK = [
     (3, None, "Sun Tzu gets straight to business: 'Samsonov, you have big problems.' Notice the construction for 'you have' followed by the plural noun."),
     (4, None, "'This Danya has stepped onto your territory,' he warns."),
     (5, 'А любовь, Самсонов, — как война.', "'And love, Samsonov, is like war,' the strategist declares."),
-    (5, 'Адвокат — твой враг.', "'The lawyer is your enemy.' Listen for the word meaning 'lawyer', which leads straight into 'enemy'."),
+    (5, 'Адвокат — твой враг.', "'The lawyer is your enemy.' Sun Tzu's imaginary wisdom warns Samson that the polite lawyer is actually his enemy."),
     (6, None, "'And how can I defeat him?' Samsonov asks."),
     (7, None, "'You read my book badly!' Sun Tzu scolds him."),
     (8, None, "'You must strike where the enemy is weak,' he quotes from his treatise."),

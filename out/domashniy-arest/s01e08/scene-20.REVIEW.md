@@ -29,7 +29,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Hey, kid, have you ever made a toy shooter?' Arkady uses a nostalgic childhood word.
 - 'Want me to teach you?' The short colloquial question invites the boy to bond.
-- 'Then run, go grab a clothespin quickly!' The command form commands him to fetch the key part.
+- 'Then run, go grab a clothespin quickly!' Arkady sends his young apprentice scrambling for the essential part of any Soviet homemade shooter: a wooden clothespin.
 - 'I will tell your mother everything!' Grumpy neighbor Klavdia Viktorovna threatens to snitch.
 - 'Klavdia Viktorovna, don't scare the child!' Arkady stands up for the frightened boy.
 - 'She will give you to an orphanage!' The elderly neighbor exaggerates wildly.

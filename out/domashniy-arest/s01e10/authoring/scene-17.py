@@ -33,9 +33,9 @@ STORY = [
     ('nina', 'Лучше бы ты дома посуду помыл.', 'You would do better to wash the dishes at home.', [], 'new line'),
 ]
 WALK = [
-    (1, None, "'Here is a movie: A Thorny Path.' Samsonov reads the first movie title from the local cinema guide."),
-    (3, None, "'This story tells about a woman.' The verb takes the preposition and location case to describe the subject."),
-    (6, None, "'Kind of a downer, won't do.' The colloquial word describes a grim or depressing movie plot."),
-    (10, None, "'Why are you even taking her to the movies?' Nina questions the childish choice of a cinema date."),
-    (12, None, "'You yourself said to court a woman!' Samsonov throws Nina's own advice back at her."),
+    (1, None, "'Here is a movie: A Thorny Path.' Looking through the local cinema listings at the kitchen table, Ivan reads the first title aloud."),
+    (3, None, "'This story tells about a woman.' Sounding out the blurb in the paper, he checks whether the plot is romantic enough."),
+    (6, None, "'Kind of a downer, won't do.' \"Mrachnyak\" comes from the word for darkness or gloom — everyday slang for a total depressing downer."),
+    (10, None, "'Why are you even taking her to the movies?' Listening from across the room, his own wife critiques his date plans."),
+    (12, None, "'You yourself said to court a woman!' Absurdly enough, Ivan is following Nina's own sarcastic advice on how to woo another woman."),
 ]

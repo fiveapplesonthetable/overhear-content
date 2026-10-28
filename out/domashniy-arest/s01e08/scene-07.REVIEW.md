@@ -35,9 +35,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Vanya is very upset because of the rumors.' Nina explains the emotional toll of the smear campaign on her husband.
 - 'The rumors about his grandfather are Osipenko's provocation.' Ilona identifies the dirty political scheme behind the scandal.
 - 'But people believe this lie.' Nina laments that public opinion in town is turning against them.
-- 'We must win this election!' The modal verb with This phrase expresses strong obligation and determination.
-- 'Without Vanya we will do nothing.' Notice the preposition with the 'of' form and the double negative.
-- 'We need to find him urgently!' The impersonal modal construction takes the object pronoun and the basic verb form.
-- 'Where are we going to look for him?' The compound future tense expresses a planned search action.
-- 'Check all the bars and old friends.' The plural command verb directs the campaign workers to look everywhere.
-- 'I will call acquaintances right now.' The particle emphasizes that the phone calls will happen immediately.
+- 'We must win this election!' Ilona tries to rally the room — giving up the race is not an option.
+- 'Without Vanya we will do nothing.' Nina states the obvious: without the candidate himself, the campaign is dead in the water.
+- 'We need to find him urgently!' Literally, 'him it is necessary urgently to find' — Ilona shifts straight into crisis mode.
+- 'Where are we going to look for him?' Nina is at a loss for where to even begin searching next.
+- 'Check all the bars and old friends.' Ilona barks out orders to comb every local watering hole and old hangout.
+- 'I will call acquaintances right now.' Adding the tiny word 'zhe' right after 'now' means Nina is picking up the phone this very second.

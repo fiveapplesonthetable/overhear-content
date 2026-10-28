@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I put all the chips on twelve red!' The action verb governs an object-form noun with a location color phrase.
-- 'Well you are a real beast, Samson!' The particle introduces an admiring colloquial metaphor.
-- 'They say that all beginners always get lucky.' The impersonal proverb uses an impersonal 'to'-form construction.
-- 'Wow look at that, take your big winnings!' The interjection expresses excitement.
-- 'Bring us two more glasses of cognac, please!' The polite command governs a partitive 'of'-form construction.
-- 'Listen, enough playing, we made a lot of money.' This phrase expresses sufficiency before a past verb.
-- 'Take everything and let us go from here quickly.' Right then, Samson's comrade urges cautious withdrawal from the table.
-- 'Wait, I need exactly eighty thousand!' The impersonal 'to'-form construction specifies Samson's financial goal.
-- 'Why do you need such a huge sum right now?' The question word introduces an object-form noun phrase.
-- 'I want to buy my own construction company.' Samson states his entrepreneurial dream using a modal verb with basic verb form.
-- 'Later I will definitely bring you in too.' The temporal adverb modifies the promise of employment.
-- 'And now I bet on sixteen red!' Samson doubles down using a present tense verb.
-- 'Red came up again, you won again!' The neuter past verb describes the ball landing on winning red.
-- 'You see, today is simply my lucky day!' Samson celebrates his extraordinary streak of good fortune.
+- 'I put all the chips on twelve red!' What started as one bet for a free drink quickly turns into shoving whole stacks onto a single number.
+- 'Well you are a real beast, Samson!' Calling someone a "monster" ("monstr") in Russian slang is high praise when they are crushing a game.
+- 'They say that all beginners always get lucky.' "Novichkam vezyot" is the exact Russian twin of "beginner's luck", literally "to beginners it-lucks".
+- 'Wow look at that, take your big winnings!' "Vot eto da!" is what you blurt out when the wheel lands on your friend's number against all odds.
+- 'Bring us two more glasses of cognac, please!' Winning makes him feel like a high roller, and the free cognac keeps clouded judgment flowing.
+- 'Listen, enough playing, we made a lot of money.' Notice that even Tarachkov, who brought him here, has the sense to see they should stop now. "Podnyali" literally means they "lifted" a pile of cash.
+- 'Take everything and let us go from here quickly.' A good friend tries to pull the plug while they are still ahead.
+- 'Wait, I need exactly eighty thousand!' Here is the fatal mistake of every gambler: fixing on one magic number before he will walk away.
+- 'Why do you need such a huge sum right now?' Tarachkov is baffled—they already have a small fortune sitting on the felt.
+- 'I want to buy my own construction company.' In his head, Samson isn't just gambling; he is building a business empire for his family in one night.
+- 'Later I will definitely bring you in too.' Warm with cognac and easy money, he is already handing out executive jobs to his army buddy.
+- 'And now I bet on sixteen red!' Back to the wheel he goes, chasing that last bit of his eighty-thousand target.
+- 'Red came up again, you won again!' The worst thing that can happen to a beginner at roulette is winning again, because now he thinks he cannot lose.
+- 'You see, today is simply my lucky day!' Famous last words at the roulette table, just before the wheel turns against him.

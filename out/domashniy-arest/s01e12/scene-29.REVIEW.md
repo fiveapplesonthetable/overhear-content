@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Come quickly with me to the winter lake.' Command form of motion with comparative adverb and location destination.
-- 'There is very severe cold outside right now.' Location adverbial phrase followed by temporal adverb and descriptive subject-form noun phrase.
-- 'We will sit on the ice and catch fish.' Two coordinated future-tense form verbs with location location and direct object.
-- 'At the same time without extra ears we will discuss your appointment.' Temporal adverb with negative location phrase and future action verb.
-- 'Fine, Viktor Stepanovich, I will go with pleasure.' Conversational agreement formula with patronymic address and future verb of motion.
-- 'Let's pour good vodka into the shot glasses.' 'let's' expression command with location goal and descriptive 'of'-form object.
-- 'Let's raise this toast to your future success!' Future 'let's' expression verb governing object-form noun with location beneficiary.
-- 'To your high ministerial appointment!' Elliptical toast location phrase with two qualifying adjectives.
-- 'Only for some reason the fish do not bite here at all.' Particle phrase with indefinite adverb and negative present ongoing-action form.
-- 'This is your specialized ministry now after all.' Demonstrative pronoun with emphatic particle and descriptive descriptive phrase phrase.
-- 'You will be able to punish local officials strictly.' Future modal verb with manner adverb and single-action form governing object-form.
-- 'Yes, I will establish iron order here.' Affirmative particle with future-tense form and figurative object-form object.
-- 'We will create an ideal team for work.' First person plural future-tense form with descriptive object and purpose phrase.
-- 'First listen to me very carefully, Arkasha.' Temporal adverb with command form, object pronoun, and manner adverb.
+- 'Come quickly with me to the winter lake.' Instead of driving to the airport or the office, the governor steers the car out onto a deserted frozen lake.
+- 'There is very severe cold outside right now.' Shivering in his city coat, Arkady starts to wonder why they are standing on the ice in the middle of winter.
+- 'We will sit on the ice and catch fish.' Ice fishing is a beloved Russian winter pastime—and the perfect excuse to have an ice hole already cut in the river.
+- 'At the same time without extra ears we will discuss your appointment.' "Bez lishnikh ushey" ("without extra/superfluous ears") is the Russian idiom for talking where nobody can eavesdrop.
+- 'Fine, Viktor Stepanovich, I will go with pleasure.' Still trying not to blow his cover, Arkady plays the eager subordinate.
+- 'Let's pour good vodka into the shot glasses.' No Russian winter fishing trip happens without a bottle and two tiny "ryumki" (stemmed shot glasses).
+- 'Let's raise this toast to your future success!' Toasting a man's "future success" two minutes before ordering him drowned is peak Viktor Stepanovich.
+- 'To your high ministerial appointment!' In Russian toasts, everything starts with "Za..." ("For/To..."), and Arkady clinks glasses to the imaginary Ministry of Fisheries.
+- 'Only for some reason the fish do not bite here at all.' Staring down into the dark water of the ice hole, the governor makes a dry joke that sets up the next line.
+- 'This is your specialized ministry now after all.' Arkady plays along: if the fish aren't biting, surely the new Minister of Fisheries can do something about it!
+- 'You will be able to punish local officials strictly.' He jokes that the governor can reprimand the local fish inspectors for the empty hook.
+- 'Yes, I will establish iron order here.' "Navesti zhelezny poryadok" ("to bring in iron order") is the favorite cliché of every authoritarian boss—and he is about to start by eliminating witnesses.
+- 'We will create an ideal team for work.' Arkady is still chatting happily about their bright political future together.
+- 'First listen to me very carefully, Arkasha.' The smile drops from the governor's face, setting up the betrayal that begins in Scene 30.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'The news is talking about the elections again.' Pavel notices the media broadcast using an impersonal third-person verb.
-- 'Someone published a secret video on the internet!' Pavel announces the leak with an indefinite pronoun.
-- 'These are clips from your office!' Vika identifies the location using the 'of' form of a possessive pronoun.
-- 'I completely forgot about the hidden camera.' Pavel admits his blunder with an intensifying adverb and past verb.
-- 'Why did you put it there in the first place?' Vika questions his logic using a past masculine action verb.
-- 'I wanted to catch thieves at work.' Pavel explains his original motive with a modal past verb and basic verb form.
-- 'Now the whole city is laughing at us!' Vika laments the humiliation using a self-action verb form.
-- 'We need to come up with something urgently.' Pavel seeks a rapid solution.
-- 'There is nothing left to gain here, Pasha.' Vika uses a common Russian idiom meaning no prospects remain.
-- 'Vika, where are you going right now?' Pavel asks anxiously using a self-action verb form tense verb.
-- 'I am packing my things and leaving.' Vika declares her departure with paired first-person present verbs.
-- 'Please don't abandon me alone!' Pavel pleads desperately. Listen to the flow.
-- 'Your political career is already over.' Vika delivers a ruthless final assessment.
+- 'The news is talking about the elections again.' Russian just says "in the news they talk", without naming an anchor, as Pasha stares at the TV screen.
+- 'Someone published a secret video on the internet!' His campaign was already shaky, and now an anonymous upload is about to sink it completely.
+- 'These are clips from your office!' Vika recognizes the furniture on the screen right away—the camera angle is inside the mayor's own room.
+- 'I completely forgot about the hidden camera.' What a confession: nobody bugged the acting mayor, he bugged himself and forgot to turn it off.
+- 'Why did you put it there in the first place?' Her voice is pure disbelief. The word "voobshche" adds that extra "at all / in the first place" edge.
+- 'I wanted to catch thieves at work.' Paranoid about petty office theft, Pasha ended up broadcasting his own schemes to the public.
+- 'Now the whole city is laughing at us!' For an ambitious campaign manager like Vika, being a laughingstock in Sineozersk is unforgivable.
+- 'We need to come up with something urgently.' Still clinging to hope, Pavel thinks a clever spin can fix a viral scandal.
+- 'There is nothing left to gain here, Pasha.' Literally she says "there is nothing left to catch here"—a Russian fishing idiom for a dead-end situation.
+- 'Vika, where are you going right now?' Watching her reach for her suitcase, Pasha realizes his strategist is abandoning ship.
+- 'I am packing my things and leaving.' Cold, practical, and unsentimental, Vika cuts her losses the second the polls are dead.
+- 'Please don't abandon me alone!' All the bluster of the acting mayor vanishes as he begs her not to leave him to face the fallout.
+- 'Your political career is already over.' She delivers the verdict like a doctor calling the time of death.

@@ -32,10 +32,10 @@ STORY = [
     ('arkady', 'Бери скорее ручку, я буду диктовать.', 'Take a pen quickly, I will dictate.', [(420, 'Бери ручку, диктую')], 'adapted'),
 ]
 WALK = [
-    (0, None, "'Hello, Pasha, hi.' Informal telephone greeting using the diminutive name form."),
-    (2, None, "'You are the one who will be sitting in prison soon, Arkady!' The verb for sitting down is used colloquially to mean going to jail."),
-    (4, None, "'I cannot get through to my wife.' The prefixed verb of telephoning takes a preposition and a 'of'-form object."),
-    (10, None, "'Then I will give all this data to the police.' Future-tense form followed by a 'to'-form noun."),
-    (11, None, "'Alright, calm down! What do you want from me?' The command form of calming down followed by a question phrase."),
-    (13, None, "'Take a pen quickly, I will dictate.' The command form ongoing-action form of taking accompanied by an adverb and a compound future tense."),
+    (0, None, "'Hello, Pasha, hi.' Arkady starts the call in a purring, friendly voice because he knows he holds the winning cards."),
+    (2, None, "'You are the one who will be sitting in prison soon, Arkady!' In Russian, the word for \"sit\" also means \"do time in prison\", so Pasha turns Arkady's joke about the mayor's chair into a threat."),
+    (4, None, "'I cannot get through to my wife.' Arkady casually brings up Vika, setting the trap for his former deputy."),
+    (10, None, "'Then I will give all this data to the police.' With the incriminating photos from Pasha's phone in hand, Arkady names his price."),
+    (11, None, "'Alright, calm down! What do you want from me?' Pasha's swagger vanishes in an instant once he realizes Arkady has real proof."),
+    (13, None, "'Take a pen quickly, I will dictate.' Just like old times, the boss is giving orders and his deputy is taking notes."),
 ]

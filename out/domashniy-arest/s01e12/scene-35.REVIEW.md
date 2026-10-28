@@ -30,7 +30,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Drop your weapon right now!' Samsonov confronts the cornered gunman with determination.
 - 'Pasha, why are you killing everyone?' Samsonov demands an answer for the senseless violence.
 - 'They all wanted to betray me!' Pasha desperately justifies his ruthless actions in fear.
-- 'Have you no conscience at all?' Samsonov asks whether Pasha feels any human guilt.
+- 'Have you no conscience at all?' Literally "Do you have a conscience at all?"—the sharpest moral question you can ask someone in Russian.
 - 'In this city there is no conscience.' Pasha cynically rejects any moral code in local politics.
 - 'You chose this terrible path yourself.' Samsonov places full personal responsibility on Pasha.
 - 'I simply needed that money!' Pasha admits his insatiable greed drove the whole scheme.

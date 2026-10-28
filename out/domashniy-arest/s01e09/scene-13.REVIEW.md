@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Turn up the volume on the television, please.' Plural command with a comparative adjective modifying sound level.
-- 'Ivan and I both came from the people.' The collective location construction meaning someone and I together.
-- 'We both achieved a lot in life on our own.' 'of'-form case following the self-action verb form of accomplishment.
-- 'Therefore I will support candidate Ivan Samsonov.' Conjunction expressing cause followed by future-tense form.
-- 'Thank you very much, Viktor Stepanovich!' Formal address using the first name and patronymic in Russian.
-- 'I hope that we will work well together.' Self-action verb form single-action form expressing mutual cooperative success.
-- 'We will certainly live up to all people's expectations.' future-tense form with plural 'of' form noun phrase.
-- 'Now allow me to invite you to the bathhouse.' Courteous polite command followed by an action verb of invitation.
-- 'It is a genuine, good Russian bathhouse.' Demonstrative pronoun with descriptive feminine subject-form adjectives.
-- 'I heard that you are a big enthusiast.' Past tense reporting verb with a noun phrase indicating a dedicated fan.
-- 'Yes, I love a Russian bathhouse very much!' Fronted direct object in the direct-object form expressing enthusiasm.
-- 'Great, then let us go right now!' Inclusive plural command of motion expressing immediate departure.
+- 'Turn up the volume on the television, please.' Watching his own broadcast, Viktor Stepanovich asks his staff to turn up the television volume.
+- 'Ivan and I both came from the people.' Literally 'we with Ivan,' this natural Russian phrasing links the two men as humble sons of the working class.
+- 'We both achieved a lot in life on our own.' On screen, the governor boasts that both of them worked their way up from nothing on their own.
+- 'Therefore I will support candidate Ivan Samsonov.' Having laid on the populist charm, he officially throws his weight behind Samsonov's campaign.
+- 'Thank you very much, Viktor Stepanovich!' Watching beside him, Samsonov beams and thanks the governor by his name and patronymic.
+- 'I hope that we will work well together.' Taking the television speech at face value, Samsonov looks forward to working together as a team.
+- 'We will certainly live up to all people's expectations.' Sincere as ever, he promises they will live up to everything the voters expect of them.
+- 'Now allow me to invite you to the bathhouse.' Switching from politics to hospitality, the governor smoothly invites Samsonov to the bathhouse.
+- 'It is a genuine, good Russian bathhouse.' He talks up the steam room as a true, traditional Russian bathhouse experience.
+- 'I heard that you are a big enthusiast.' Viktor Stepanovich adds a flattering touch, saying he heard Samsonov is a real connoisseur of the steam.
+- 'Yes, I love a Russian bathhouse very much!' Putting 'Russian bathhouse' right at the start of his sentence shows how much Samsonov loves a good steam.
+- 'Great, then let us go right now!' Striking while the iron is hot, the governor suggests they head over there right this minute.

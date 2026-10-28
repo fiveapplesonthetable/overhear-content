@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'This wall is our main historical monument.' The professor introduces the landmark with a demonstrative pronoun.
-- 'It remained from an ancient monastery.' The historian explains its origin with a past feminine self-action verb form.
-- 'A great chronicle was written here.' The professor mentions the monastery book.
-- 'Every student must remember history.' Arkady uses a modal short adjective.
-- 'What are you doing here, citizen?' The professor addresses the newcomer with formal polite pronouns.
-- 'I am going to demolish this old wall.' The contractor announces his intention.
-- 'How can you destroy history?' The professor expresses shock using a modal verb.
-- 'We will build a big shopping center here.' The builder describes the commercial project in the future tense.
-- 'This is our national heritage!' The professor defends the monument with an emphatic particle and neuter noun.
-- 'I have official permission for demolition.' The contractor asserts legal authority.
-- 'Address all your questions to the mayor's office!' The builder redirects complaints.
-- 'This is true arbitrariness by city authorities!' The professor condemns the action using an emphatic adjective.
-- 'The city mayor is destroying our monuments!' The academic blames the local mayor with a present tense verb.
-- 'Step aside away from the equipment!' The worker warns the crowd.
+- 'This wall is our main historical monument.' Eight centuries after the raid, the professor stands before the one piece of stonework that survived the fire.
+- 'It remained from an ancient monastery.' That little survival is the whole point of his lecture: the wooden buildings burned, but this wall stayed.
+- 'A great chronicle was written here.' He connects the bricks in front of the students to the famous medieval manuscript from the opening scene.
+- 'Every student must remember history.' Arkady chimes in piously from the side, playing the cultured academic now that he teaches at the university.
+- 'What are you doing here, citizen?' Calling a stranger "citizen" in Russian isn't friendly—it is the stiff, official word you use when someone is trespassing.
+- 'I am going to demolish this old wall.' To the hard-hatted contractor, eight hundred years of history is just an old brick obstacle.
+- 'How can you destroy history?' The professor is appalled, though notice he still keeps the polite plural "vy" even while shouting.
+- 'We will build a big shopping center here.' Classic modern Russian satire: tear down a twelfth-century relic to put up another mall.
+- 'This is our national heritage!' Slipping the tiny word "zhe" after "this" adds the outrage: "this is our national heritage, don't you see!"
+- 'I have official permission for demolition.' Paper beats history in bureaucracy, and the foreman waves his permit like a shield.
+- 'Address all your questions to the mayor's office!' He didn't make the decision; he is just the guy with the bulldozer pointing up the chain of command.
+- 'This is true arbitrariness by city authorities!' "Proizvol" is a heavy Russian word for officials doing whatever they please with zero regard for the law.
+- 'The city mayor is destroying our monuments!' Now the blame lands squarely on acting mayor Pasha Osipenko, who signed off on the mall.
+- 'Step aside away from the equipment!' Unmoved by the history lesson, the worker tells the crowd to clear the way for the machines.

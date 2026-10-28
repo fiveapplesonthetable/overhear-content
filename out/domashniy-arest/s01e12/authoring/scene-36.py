@@ -44,6 +44,6 @@ WALK = [
     (9, None, "'Yes, good is always there too.' Arkady agrees that goodness never completely disappears."),
     (10, None, "'The main thing is to remember this in time.' Marina stresses making moral choices before disaster strikes."),
     (11, None, "'Power changes people very strongly.' Arkady reflects on the dangerous temptations of high political office."),
-    (12, None, "'But you were able to remain human.' Marina expresses deep respect for Arkady's inner integrity."),
+    (12, None, '\'But you were able to remain human.\' "Ostatsya chelovekom" ("to remain a human being") is high praise in Russian for someone who kept their decency under pressure.'),
     (13, None, "'Thank you, Marina, that is very important to me.' Arkady is touched by her heartfelt words."),
 ]

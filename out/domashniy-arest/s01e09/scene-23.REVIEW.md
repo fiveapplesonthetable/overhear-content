@@ -26,14 +26,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'If you stay silent, I will leave now.' Marina pretends to walk away to force his hand.
-- 'Wait, I will tell you everything.' The command form stops her departure in time.
+- 'Wait, I will tell you everything.' Afraid she will actually walk out, Arkady quickly calls her back and promises to spill everything.
 - 'I hid the money in a kindergarten.' Arkady reveals the bizarre hiding spot.
 - 'In a kindergarten? That cannot be!' Marina's exclamation expresses pure disbelief.
 - 'An old female acquaintance of mine works there.' Arkady explains his trusted connection.
 - 'She was a close female friend of mine.' He clarifies their former intimate bond.
 - 'But that was very long ago.' Arkady quickly downplays the relationship to appease Marina.
-- 'Are you satisfied with my answer now?' The short adjective checks if she believes him.
+- 'Are you satisfied with my answer now?' Having spun his tale, Arkady smugly asks whether his confession satisfies her.
 - 'And I am not interested in that at all!' Marina huffs and denies any personal interest.
-- 'I simply asked out of curiosity.' The location phrase frames her inquiry as casual.
+- 'I simply asked out of curiosity.' Trying to hide her jealousy, she claims she only asked about the woman out of idle curiosity.
 - 'Are you jealous of my past?' Arkady teases her about her obvious emotional reaction.
 - 'Nothing of the sort, you mean nothing to me!' Marina furiously denies her rising jealousy.
