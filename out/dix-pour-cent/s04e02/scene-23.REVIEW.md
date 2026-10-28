@@ -1,43 +1,31 @@
-# dix-pour-cent-s04e02-scene-23: review sheet
+# Review: `dix-pour-cent-s04e02-scene-23` — La fête à Saint-Ouen  (The Party in Saint-Ouen)
 
-Title: La fête à Saint-Ouen  (The Party in Saint-Ouen)
-Level: A1 — débutant
-Pair: fr-en
-Source: Dix pour cent (Call My Agent!) S04E02
-Cues 1095-1102. Sarah thanks Camille before leaving the ASK party. Gabriel catches up with Sarah and invites her to an exciting afterparty in Saint-Ouen, and they depart together.
+- **Source**: `sources/dix-pour-cent/s04/e02.fr.dual.srt`
+- **Level**: A1 — débutant
+- **Voices**: `{"narrator": "sky", "gabriel": "theo", "sarah": "emilie", "lea": "lucie"}`
+- **Labels**: `{"gabriel": "Gabriel", "sarah": "Sarah", "lea": "Andréa"}`
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+## Part 1 — Intro
+> As the gathering at ASK begins to wind down, Sarah thanks Camille before Gabriel excitedly invites her to continue the evening at an afterparty in Saint-Ouen. Let's listen to the scene in French first.
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
-|---|---|---|---|---|---|
-| 1 | Sarah | Au revoir, Camille, merci pour tout. | Goodbye, Camille, thank you for everything. | #1095 00:52:20: Au revoir, Camille | adapted: Sarah smiles and prepares to head out |
-| 2 | Sarah | La soirée était super sympa ici. | The party was really nice here. | #1095 00:52:20: super sympa | verbatim |
-| 3 | Léa | Merci d'être venue ce soir, Sarah. | Thank you for coming tonight, Sarah. | #1095 00:52:20: Au revoir, Camille | adapted: Camille sees her out warmly |
-| 4 | Gabriel | Te voilà enfin, tout va bien? | There you are at last, is everything okay? | #1096 00:52:22: Te voilà, tout va bien | adapted: Gabriel hurries over to Sarah |
-| 5 | Gabriel | Il y a une fête à Saint-Ouen. | There is a party in Saint-Ouen. | #1097 00:52:24: fête à Saint-Ouen | adapted: Suggests continuing the celebration elsewhere |
-| 6 | Sarah | Quelle est la grande urgence maintenant? | What is the big rush now? | #1098 00:52:26: l'urgence | verbatim |
-| 7 | Gabriel | Cette fête va être incroyable. | This party is going to be incredible. | #1099 00:52:27: va être de la bombe | adapted: Promises a memorable night |
-| 8 | Gabriel | Mes amis nous attendent là-bas. | My friends are waiting for us there. | #1099 00:52:27: va être de la bombe | verbatim |
-| 9 | Sarah | As-tu prévu un bon transport? | Did you arrange good transportation? | #1100 00:52:29: besoin d'un transport | adapted: Asks how they will travel |
-| 10 | Gabriel | Oui, un taxi attend dehors. | Yes, a taxi is waiting outside. | #1100 00:52:29: besoin d'un transport | adapted: Assures her travel is covered |
-| 11 | Sarah | D'accord, partons tout de suite. | All right, let's leave right away. | #1101 00:52:30: on y va | adapted: Accepts the invitation with enthusiasm |
-| 12 | Gabriel | Parfait, nous y allons ensemble. | Perfect, we are going there together. | #1101 00:52:30: on y va | verbatim |
-| 13 | Gabriel | Allez, viens avec moi, Sarah! | Come on, come with me, Sarah! | #1102 00:52:33: Allez, viens | adapted: Takes Sarah's arm as they leave |
-| 14 | Léa | Passez une très bonne nuit! | Have a very good night! | #1095 00:52:20: Au revoir, Camille | adapted: Camille waves goodbye from the doorway |
+## Part 2 — Story Lines
+| # | Role | French | English | Source Cues |
+|---|------|--------|---------|-------------|
+| 0 | `sarah` (Sarah) | Au revoir, Camille, merci pour tout. | Goodbye, Camille, thank you for everything. | 1095:Au revoir, Camille |
+| 1 | `sarah` (Sarah) | La soirée était super sympa ici. | The party was really nice here. | 1095:super sympa |
+| 2 | `lea` (Andréa) | Merci d'être venue ce soir, Sarah. | Thank you for coming tonight, Sarah. | 1095:Au revoir, Camille |
+| 3 | `gabriel` (Gabriel) | Te voilà enfin, tout va bien? | There you are at last, is everything okay? | 1096:Te voilà, tout va bien |
+| 4 | `gabriel` (Gabriel) | Il y a une fête à Saint-Ouen. | There is a party in Saint-Ouen. | 1097:fête à Saint-Ouen |
+| 5 | `sarah` (Sarah) | Quelle est la grande urgence maintenant? | What is the big rush now? | 1098:l'urgence |
+| 6 | `gabriel` (Gabriel) | Cette fête va être incroyable. | This party is going to be incredible. | 1099:va être de la bombe |
+| 7 | `gabriel` (Gabriel) | Mes amis nous attendent là-bas. | My friends are waiting for us there. | 1099:va être de la bombe |
+| 8 | `sarah` (Sarah) | As-tu prévu un bon transport? | Did you arrange good transportation? | 1100:besoin d'un transport |
+| 9 | `gabriel` (Gabriel) | Oui, un taxi attend dehors. | Yes, a taxi is waiting outside. | 1100:besoin d'un transport |
+| 10 | `sarah` (Sarah) | D'accord, partons tout de suite. | All right, let | 1101:on y va |
+| 11 | `gabriel` (Gabriel) | Parfait, nous y allons ensemble. | Perfect, we are going there together. | 1101:on y va |
+| 12 | `gabriel` (Gabriel) | Allez, viens avec moi, Sarah! | Come on, come with me, Sarah! | 1102:Allez, viens |
+| 13 | `lea` (Andréa) | Passez une très bonne nuit! | Have a very good night! | 1095:Au revoir, Camille |
 
-## Walk-through narration (English only, no target-language words quoted)
-
-- 'Goodbye, Camille, thank you for everything.' Sarah thanks Camille warmly before leaving. A short, idiomatic conversational reply that keeps the exchange moving naturally.
-- 'The party was really nice here.' Sarah compliments the pleasant evening at the agency. The descriptive adjective for 'great' agrees in gender and number with its noun.
-- 'Thank you for coming tonight, Sarah.' Camille smiles and sees her guest out. The verb meaning 'having' pairs naturally with the noun for 'evening' in everyday conversation.
-- 'There you are at last, is everything okay?' Gabriel catches up with Sarah by the door. Gabriel uses the casual singular 'you' with 'goes', showing close familiarity.
-- 'There is a party in Saint-Ouen.' Gabriel suggests extending their night out in town. The key noun here means 'party', anchored by its matching French article.
-- 'What is the big rush now?' Sarah playfully asks why they need to hurry. The adjective meaning 'big' takes its feminine form here to match the noun it describes.
-- 'This party is going to be incredible.' Gabriel promises an unforgettable atmosphere. The descriptive adjective for 'incredible' agrees in gender and number with its noun.
-- 'My friends are waiting for us there.' Gabriel explains that people are expecting them. The verb meaning 'are waiting for' pairs naturally with the noun for 'friends' in everyday conversation.
-- 'Did you arrange good transportation?' Sarah asks how they will reach the venue. This conversational past tense combines a helper verb with the past participle for 'arranged'.
-- 'Yes, a taxi is waiting outside.' Gabriel assures her that travel is taken care of. The verb meaning 'waits' pairs naturally with the noun for 'taxi' in everyday conversation.
-- 'All right, let's leave right away.' Sarah agrees enthusiastically to the plan. Notice how the short vowel drops before a vowel sound around 'let's leave', making the phrase flow smoothly as one unit.
-- 'Perfect, we are going there together.' Gabriel happily confirms their departure. The descriptive adjective for 'perfect' agrees in gender and number with its noun.
-- 'Come on, come with me, Sarah!' Gabriel takes Sarah's hand as they head out. The clause hinges on the everyday verb meaning 'come on'.
-- 'Have a very good night!' Camille waves as the pair leaves the building.
+## Part 5 — Outro & Closing
+> Eager to escape the agency atmosphere and keep the celebratory momentum going, Gabriel and Sarah say their goodbyes to Camille and leave together for Saint-Ouen. When you watch the episode, listen out for the expressions meaning 'party' and 'great'. You'll catch them now. See you next time.
+- **Closing**: `gabriel`: *Bonne journée!*

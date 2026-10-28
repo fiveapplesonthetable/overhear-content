@@ -1,43 +1,31 @@
-# dix-pour-cent-s04e02-scene-15: review sheet
+# Review: `dix-pour-cent-s04e02-scene-15` — Quittes pour une gifle  (Even for a Slap)
 
-Title: Quittes pour une gifle  (Even for a Slap)
-Level: A1 — débutant
-Pair: fr-en
-Source: Dix pour cent (Call My Agent!) S04E02
-Cues 834-836. Outside the community center, Franck Dubosc catches up with Dylan and offers to let the young actor slap him in the face so they can settle their score.
+- **Source**: `sources/dix-pour-cent/s04/e02.fr.dual.srt`
+- **Level**: A1 — débutant
+- **Voices**: `{"narrator": "sky", "franck": "marcel", "dylan": "theo"}`
+- **Labels**: `{"franck": "Franck", "dylan": "Dylan"}`
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+## Part 1 — Intro
+> Outside the community center, veteran comedian Franck Dubosc catches up with young actor Dylan. Feeling guilty about their violent confrontation on set, Franck proposes an unusual and direct way to clear the air. Let's listen to their conversation in French first.
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
-|---|---|---|---|---|---|
-| 1 | Léa | Hé! Dylan, attends un instant. | Hey! Dylan, wait a moment. | #834 00:39:13: Hé | adapted: Franck calls Dylan |
-| 2 | Dylan | Qu'est-ce que tu fais là? | What are you doing here? | #835 00:39:18: vas-y | adapted: Dylan turns around |
-| 3 | Léa | Okay, vas-y sans hésiter. | Okay, go ahead without hesitating. | #835 00:39:18: Okay, vas-y | adapted: Franck steps forward |
-| 4 | Dylan | Vas-y quoi? Je ne comprends pas. | Go ahead with what? I do not understand. | #835 00:39:18: vas-y | adapted: Dylan is confused |
-| 5 | Léa | Gifle-moi maintenant, vas-y! | Slap me now, go ahead! | #836 00:39:21: Gifle-moi<br>#835 00:39:18: vas-y | adapted: Franck offers his face |
-| 6 | Dylan | Tu es sérieux? Tu es fou! | Are you serious? You are crazy! | #836 00:39:21: Gifle-moi | adapted: Dylan steps back |
-| 7 | Léa | Donne-moi une bonne gifle. | Give me a good slap. | #836 00:39:21: Gifle-moi | adapted: Franck insists |
-| 8 | Dylan | Je ne veux pas te frapper. | I do not want to hit you. | #836 00:39:21: Gifle-moi | adapted: Dylan declines |
-| 9 | Léa | Comme ça, on sera quittes enfin. | That way, we will be even finally. | #836 00:39:21: comme ça on sera quittes | adapted: Franck explains his reasoning |
-| 10 | Dylan | Une gifle ne règle rien du tout. | A slap settles nothing at all. | #836 00:39:21: on sera quittes | adapted: Dylan points out the futility |
-| 11 | Léa | Et ensuite, on pourra parler calmement. | And then, we will be able to speak calmly. | #836 00:39:21: Et ensuite | adapted: Franck proposes a fresh start |
-| 12 | Dylan | Tu es vraiment bizarre aujourd'hui. | You are really strange today. | #834 00:39:13: Hé | adapted: Dylan observes Franck |
-| 13 | Léa | Je regrette mon geste stupide. | I regret my stupid gesture. | #836 00:39:21: Gifle-moi | adapted: Franck expresses remorse |
-| 14 | Dylan | Oublions ça pour le moment. | Let us forget that for now. | #836 00:39:21: on sera quittes | adapted: Dylan lowers his guard |
+## Part 2 — Story Lines
+| # | Role | French | English | Source Cues |
+|---|------|--------|---------|-------------|
+| 0 | `franck` (Franck) | Hé! Dylan, attends un instant. | Hey! Dylan, wait a moment. | 834:Hé |
+| 1 | `dylan` (Dylan) | Qu'est-ce que tu fais là? | What are you doing here? | 835:vas-y |
+| 2 | `franck` (Franck) | Okay, vas-y sans hésiter. | Okay, go ahead without hesitating. | 835:Okay, vas-y |
+| 3 | `dylan` (Dylan) | Vas-y quoi? Je ne comprends pas. | Go ahead with what? I do not understand. | 835:vas-y |
+| 4 | `franck` (Franck) | Gifle-moi maintenant, vas-y! | Slap me now, go ahead! | 836:Gifle-moi, 835:vas-y |
+| 5 | `dylan` (Dylan) | Tu es sérieux? Tu es fou! | Are you serious? You are crazy! | 836:Gifle-moi |
+| 6 | `franck` (Franck) | Donne-moi une bonne gifle. | Give me a good slap. | 836:Gifle-moi |
+| 7 | `dylan` (Dylan) | Je ne veux pas te frapper. | I do not want to hit you. | 836:Gifle-moi |
+| 8 | `franck` (Franck) | Comme ça, on sera quittes enfin. | That way, we will be even finally. | 836:comme ça on sera quittes |
+| 9 | `dylan` (Dylan) | Une gifle ne règle rien du tout. | A slap settles nothing at all. | 836:on sera quittes |
+| 10 | `franck` (Franck) | Et ensuite, on pourra parler calmement. | And then, we will be able to speak calmly. | 836:Et ensuite |
+| 11 | `dylan` (Dylan) | Tu es vraiment bizarre aujourd'hui. | You are really strange today. | 834:Hé |
+| 12 | `franck` (Franck) | Je regrette mon geste stupide. | I regret my stupid gesture. | 836:Gifle-moi |
+| 13 | `dylan` (Dylan) | Oublions ça pour le moment. | Let us forget that for now. | 836:on sera quittes |
 
-## Walk-through narration (English only, no target-language words quoted)
-
-- 'Hey! Dylan, wait a moment.' Franck calls after Dylan in the quiet alleyway. The interjection 'he' serves to catch someone's attention.
-- 'What are you doing here?' Dylan is surprised to see the older actor approach him alone. The standard spoken question formula at the front turns the statement about 'are doing' into a natural inquiry.
-- 'Okay, go ahead without hesitating.' Franck encourages Dylan to release his pent-up anger. The imperative 'vas-y' urges immediate action.
-- 'Go ahead with what? I do not understand.' Dylan does not grasp Franck's sudden request. The two-part French negation brackets the verb for 'understand' on both sides.
-- 'Slap me now, go ahead!' Franck offers Dylan a free strike to balance out the violence on set. The compound imperative 'gifle-moi' attaches a hyphenated pronoun.
-- 'Are you serious? You are crazy!' Dylan reacts with disbelief to the absurd proposal. The adjective 'serieux' asks about genuine intent.
-- 'Give me a good slap.' Franck repeats his plea with sincere humility. The noun 'gifle' denotes a slap across the cheek.
-- 'I do not want to hit you.' Dylan refuses to resort to physical violence. The modal verb 'vouloir' expresses intent or desire.
-- 'That way, we will be even finally.' Franck argues that physical retaliation will restore balance. The idiom 'etre quittes' means to be even or square.
-- 'A slap settles nothing at all.' Dylan recognizes that more violence will not heal the rift. The verb 'regler' means to settle or resolve an issue.
-- 'And then, we will be able to speak calmly.' Franck hopes this gesture will open a genuine dialogue. The adverb 'calmement' indicates a peaceful manner.
-- 'You are really strange today.' Dylan is struck by Franck's unconventional attempt at making peace. Dylan uses the casual singular 'you' with 'this line', showing close familiarity.
-- 'I regret my stupid gesture.' Franck sincerely acknowledges his past bad behavior on the film set. The verb 'regretter' expresses remorse or regret.
-- 'Let us forget that for now.' Dylan decides to let go of the grudge and move forward. The imperative 'oublions' invites mutual forgiveness.
+## Part 5 — Outro & Closing
+> Franck Dubosc shows unexpected humility by offering Dylan a chance to retaliate for their fight on set. When you watch the episode, listen out for the expressions meaning 'wait' and 'moment'. You'll catch them now. See you next time.
+- **Closing**: `franck`: *Au revoir!*

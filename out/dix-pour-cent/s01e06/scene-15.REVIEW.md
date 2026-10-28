@@ -1,41 +1,30 @@
-# dix-pour-cent-s01e06-scene-15: review sheet
+# Review: `dix-pour-cent-s01e06-scene-15` — L'audition de Sofia  (Sofia's Audition)
 
-Title: L'audition de Sofia  (Sofia's Audition)
-Level: A1 — débutant
-Pair: fr-en
-Source: Dix pour cent (Call My Agent!) S01E06
-Cues 423-439. Gabriel's opening encouragement is added before Sofia enters the studio; colloquial 'se frotter à moi' in cue 433 is adapted to 'se battre avec moi' for A1 learners.
+- **Source**: `sources/dix-pour-cent/s01/e06.fr.dual.srt`
+- **Level**: A1 — débutant
+- **Voices**: `{"narrator": "sky", "sofia": "emilie", "gabriel": "theo"}`
+- **Labels**: `{"sofia": "Sofia", "gabriel": "Gabriel"}`
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+## Part 1 — Intro
+> At the dance and casting studio, Sofia arrives for her big callback in Luc Besson's action film. Gabriel urges her to stay natural and relaxed, but when the casting director asks for the action scene, Sofia launches into an over-the-top combat performance that takes everyone by surprise. Let's listen to the scene in French first.
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
-|---|---|---|---|---|---|
-| 1 | Gabriel | Ne t'inquiète pas, sois naturelle. | Don't worry, be natural. | #424 00:26:02: On y va | adapted: Gabriel's encouragement |
-| 2 | Constance | Sofia, on y va? | Sofia, shall we go? | #423 00:26:00: Sofia<br>#424 00:26:02: On y va | verbatim |
-| 3 | Léa | Oui, je suis prête. | Yes, I am ready. | #425 00:26:04: Désolée, oui | adapted: A1 adaptation |
-| 4 | Léa | Je m'appelle Sofia Leprince, j'ai 25 ans. | My name is Sofia Leprince, I am twenty-five years old. | #426 00:26:06: Je m'appelle Sofia Leprince, j'ai 25 ans | verbatim |
-| 5 | Léa | Et mon agent est Gabriel Sarda chez ASK. | And my agent is Gabriel Sarda at ASK. | #427 00:26:09: et mon agent est Gabriel Sarda chez ASK | verbatim |
-| 6 | Constance | Parfait! On commence tout de suite. | Perfect! We start right away. | #428 00:26:11: Parfait<br>#428 00:26:11: On commence | verbatim |
-| 7 | Constance | D'abord la chorégraphie, ensuite votre scène, d'accord? | First the choreography, then your scene, okay? | #429 00:26:15: D'abord la chorégraphie, ensuite votre scène, d'accord | verbatim |
-| 8 | Léa | D'accord, quand vous voulez. | Okay, whenever you want. | #430 00:26:18: D'accord<br>#431 00:26:25: Quand vous voulez | verbatim |
-| 9 | Léa | Ils veulent se battre avec moi? | They want to fight with me? | #433 00:26:39: Ils veulent se frotter à moi | adapted: 'se frotter' -> 'se battre' |
-| 10 | Léa | Je cours plus vite qu'eux! | I run faster than them! | #434 00:26:41: Je cours plus vite qu'eux | verbatim |
-| 11 | Léa | Maintenant je suis là, maintenant je ne suis plus là! | Now I am here, now I am no longer here! | #435 00:26:44: Maintenant je suis là, maintenant je suis plus là | adapted: Restored 'ne' |
-| 12 | Léa | Vous me voyez atterrir comme une héroïne? | Do you see me landing like a heroine? | #436 00:26:47: Vous me voyez<br>#436 00:26:47: atterrir comme | adapted: Simplified Lara Croft reference |
-| 13 | Constance | Ce n'est pas du tout ce que j'avais demandé. | This is not at all what I had asked for. | #438 00:26:54: C'est pas du tout ce que j'avais demandé | adapted: Restored 'ne' |
+## Part 2 — Story Lines
+| # | Role | French | English | Source Cues |
+|---|------|--------|---------|-------------|
+| 0 | `gabriel` (Gabriel) | Ne t'inquiète pas, sois naturelle. | Don | 424:On y va |
+| 1 | `gabriel` (Gabriel) | Sofia, on y va? | Sofia, shall we go? | 423:Sofia, 424:On y va |
+| 2 | `sofia` (Sofia) | Oui, je suis prête. | Yes, I am ready. | 425:Désolée, oui |
+| 3 | `sofia` (Sofia) | Je m'appelle Sofia Leprince, j'ai 25 ans. | My name is Sofia Leprince, I am twenty-five years old. | 426:Je m'appelle Sofia Leprince, j'ai 25 ans |
+| 4 | `sofia` (Sofia) | Et mon agent est Gabriel Sarda chez ASK. | And my agent is Gabriel Sarda at ASK. | 427:et mon agent est Gabriel Sarda chez ASK |
+| 5 | `gabriel` (Gabriel) | Parfait! On commence tout de suite. | Perfect! We start right away. | 428:Parfait, 428:On commence |
+| 6 | `gabriel` (Gabriel) | D'abord la chorégraphie, ensuite votre scène, d'accord? | First the choreography, then your scene, okay? | 429:D'abord la chorégraphie, ensuite votre scène, d'accord |
+| 7 | `sofia` (Sofia) | D'accord, quand vous voulez. | Okay, whenever you want. | 430:D'accord, 431:Quand vous voulez |
+| 8 | `sofia` (Sofia) | Ils veulent se battre avec moi? | They want to fight with me? | 433:Ils veulent se frotter à moi |
+| 9 | `sofia` (Sofia) | Je cours plus vite qu'eux! | I run faster than them! | 434:Je cours plus vite qu'eux |
+| 10 | `sofia` (Sofia) | Maintenant je suis là, maintenant je ne suis plus là! | Now I am here, now I am no longer here! | 435:Maintenant je suis là, maintenant je suis plus là |
+| 11 | `sofia` (Sofia) | Vous me voyez atterrir comme une héroïne? | Do you see me landing like a heroine? | 436:Vous me voyez, 436:atterrir comme |
+| 12 | `gabriel` (Gabriel) | Ce n'est pas du tout ce que j'avais demandé. | This is not at all what I had asked for. | 413:pas |
 
-## Walk-through narration (English only, no target-language words quoted)
-
-- 'Don't worry, be natural.' In the studio hallway, Gabriel reassures his nervous client. The imperative form of the verb to worry uses the reflexive pronoun after the negative particle.
-- 'Sofia, shall we go?' The casting director opens the door and calls her in. The pronoun for there combines with the verb to go to form the everyday phrase shall we begin.
-- 'Yes, I am ready.' Sofia steps forward with a polite smile. The feminine adjective takes an extra letter at the end.
-- 'My name is Sofia Leprince, I am twenty-five years old.' Facing the camera, she introduces herself. Remember that French expresses age with the verb to have.
-- 'And my agent is Gabriel Sarda at ASK.' She proudly adds her agency representation.
-- 'Perfect! We start right away.' Constance nods briskly and sets the pace.
-- 'First the choreography, then your scene, okay?' She lays out the audition schedule. The adverb for first introduces the sequence.
-- 'Okay, whenever you want.' Sofia agrees politely. The phrase literally says when you want.
-- 'They want to fight with me?' Launching straight into her dialogue, Sofia shouts with intense energy. The reflexive verb to fight takes the preposition with.
-- 'I run faster than them!' She boasts about her speed. The comparative adverb for more is followed by the stressed pronoun for them.
-- 'Now I am here, now I am no longer here!' She jumps around the room. The negative particle combined with more means no longer or not anymore.
-- 'Do you see me landing like a heroine?' She strikes a dramatic pose. The verb to see takes the direct object pronoun me.
-- 'This is not at all what I had asked for.' Staring in deadpan silence, Constance stops her. Notice the past perfect tense describing an earlier instruction.
+## Part 5 — Outro & Closing
+> Sofia gave the audition everything she had, but her intense kung-fu styling was not what Constance had in mind. Remember the phrase for starting right away: all of a continuation. Until next time.
+- **Closing**: `gabriel`: *À demain!*

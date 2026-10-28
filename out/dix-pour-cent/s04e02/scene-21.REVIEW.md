@@ -1,43 +1,31 @@
-# dix-pour-cent-s04e02-scene-21: review sheet
+# Review: `dix-pour-cent-s04e02-scene-21` — Une trahison amère  (A Bitter Betrayal)
 
-Title: Une trahison amère  (A Bitter Betrayal)
-Level: A1 — débutant
-Pair: fr-en
-Source: Dix pour cent (Call My Agent!) S04E02
-Cues 1036-1047. Sipping her drink in Andrea's office, Elise Formain bitterly confesses that she was passed over for the leadership of StarMedia. Despite her superior competence, the board appointed Olivier Dimars simply because he is a man.
+- **Source**: `sources/dix-pour-cent/s04/e02.fr.dual.srt`
+- **Level**: A1 — débutant
+- **Voices**: `{"narrator": "sky", "lea": "lucie", "elise": "emilie"}`
+- **Labels**: `{"lea": "Andréa", "elise": "Élise"}`
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+## Part 1 — Intro
+> Sipping her drink in Andrea's office, Elise Formain bitterly confesses that she was passed over for the leadership of StarMedia. Despite her superior competence, the board appointed Olivier Dimars simply because he is a man. Let's listen to the scene in French first.
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
-|---|---|---|---|---|---|
-| 1 | Élise | J'étais sûre de te trouver ici. | I was sure I would find you here. | #1036 00:49:10: J'étais sûr de te trouver ici | adapted: Expected to find Andrea working late |
-| 2 | Léa | Les heures supplémentaires ne s'arrangent jamais. | Overtime hours never get any better. | #1038 00:49:16: les heures sup' ne s'arrangent pas | adapted: Noted the exhausting demands of leadership |
-| 3 | Élise | Ils ne m'ont pas choisie finalement. | They did not choose me after all. | #1040 00:49:20: Ils ne m'ont pas choisie pour diriger StarMédia | adapted: Revealed her corporate defeat |
-| 4 | Léa | Pour la direction générale de StarMédia? | For the general directorship of StarMedia? | #1040 00:49:20: diriger StarMédia | adapted: Clarified the high executive role |
-| 5 | Élise | Bréhier a nommé Olivier à ma place. | Brehier appointed Olivier in my place. | #1041 00:49:25: Bréhier, ce crétin, a nommé Olivier Dimars à ma place | adapted: Named her unqualified successor |
-| 6 | Léa | Olivier Dimars n'a presque aucune expérience. | Olivier Dimars has almost no experience. | #1043 00:49:31: Moins expérimenté | adapted: Questioned Olivier's qualifications |
-| 7 | Élise | Il est surtout bien moins compétent. | He is above all much less competent. | #1043 00:49:31: bien moins compétent | adapted: Criticized his lack of skill |
-| 8 | Léa | C'est un choix totalement injuste, Élise. | It is a totally unfair choice, Elise. | #1045 00:49:39: être la meilleure | adapted: Agreed that the choice was unfair |
-| 9 | Élise | Mais c'est un homme, évidemment. | But he is a man, obviously. | #1044 00:49:36: Mais c'est un homme | adapted: Pointed out systemic gender bias |
-| 10 | Léa | Le sexisme dans ce milieu persiste. | Sexism in this industry persists. | #1044 00:49:36: Mais c'est un homme | adapted: Acknowledged the deep-seated prejudice |
-| 11 | Élise | Je croyais qu'il suffisait d'être excellente. | I thought it was enough to be excellent. | #1045 00:49:39: Je croyais qu'il suffisait d'être la meilleure | adapted: Lamented her naive dedication |
-| 12 | Léa | Tu as fait un travail remarquable. | You did remarkable work. | #1045 00:49:39: la meilleure | adapted: Recognized her hard work and talent |
-| 13 | Élise | J'ai été bien trop naïve, apparemment. | I was much too naive, apparently. | #1046 00:49:46: Je suis encore naïve, apparemment | adapted: Conceded her disillusionment |
-| 14 | Léa | Je suis vraiment désolée pour toi. | I am really sorry for you. | #1047 00:49:50: Je suis désolée | adapted: Expressed heartfelt sympathy |
+## Part 2 — Story Lines
+| # | Role | French | English | Source Cues |
+|---|------|--------|---------|-------------|
+| 0 | `elise` (Élise) | J'étais sûre de te trouver ici. | I was sure I would find you here. | 1036:J'étais sûr de te trouver ici |
+| 1 | `lea` (Andréa) | Les heures supplémentaires ne s'arrangent jamais. | Overtime hours never get any better. | 1038:les heures sup' ne s'arrangent pas |
+| 2 | `elise` (Élise) | Ils ne m'ont pas choisie finalement. | They did not choose me after all. | 1040:Ils ne m'ont pas choisie pour diriger StarMédia |
+| 3 | `lea` (Andréa) | Pour la direction générale de StarMédia? | For the general directorship of StarMedia? | 1040:diriger StarMédia |
+| 4 | `elise` (Élise) | Bréhier a nommé Olivier à ma place. | Brehier appointed Olivier in my place. | 1041:Bréhier, ce crétin, a nommé Olivier Dimars à ma place |
+| 5 | `lea` (Andréa) | Olivier Dimars n'a presque aucune expérience. | Olivier Dimars has almost no experience. | 1043:Moins expérimenté |
+| 6 | `elise` (Élise) | Il est surtout bien moins compétent. | He is above all much less competent. | 1043:bien moins compétent |
+| 7 | `lea` (Andréa) | C'est un choix totalement injuste, Élise. | It is a totally unfair choice, Elise. | 1045:être la meilleure |
+| 8 | `elise` (Élise) | Mais c'est un homme, évidemment. | But he is a man, obviously. | 1044:Mais c'est un homme |
+| 9 | `lea` (Andréa) | Le sexisme dans ce milieu persiste. | Sexism in this industry persists. | 1044:Mais c'est un homme |
+| 10 | `elise` (Élise) | Je croyais qu'il suffisait d'être excellente. | I thought it was enough to be excellent. | 1045:Je croyais qu'il suffisait d'être la meilleure |
+| 11 | `lea` (Andréa) | Tu as fait un travail remarquable. | You did remarkable work. | 1045:la meilleure |
+| 12 | `elise` (Élise) | J'ai été bien trop naïve, apparemment. | I was much too naive, apparently. | 1046:Je suis encore naïve, apparemment |
+| 13 | `lea` (Andréa) | Je suis vraiment désolée pour toi. | I am really sorry for you. | 1047:Je suis désolée |
 
-## Walk-through narration (English only, no target-language words quoted)
-
-- 'I was sure I would find you here.' Elise speaks with tired resignation. The adjective meaning 'sure' takes its feminine form here to match the noun it describes.
-- 'Overtime hours never get any better.' Andrea nods in mutual professional understanding. French builds the 'never' negation in two parts wrapped right around 'improve'.
-- 'They did not choose me after all.' Elise delivers her heavy news. The clause hinges on the everyday verb meaning 'have'.
-- 'For the general directorship of StarMedia?' Andrea clarifies the prestigious position. In everyday spoken French, rising intonation on 'direction' at the end is enough to turn the sentence into a question.
-- 'Brehier appointed Olivier in my place.' Elise grimaces with bitter disappointment. The verb meaning 'has' pairs naturally with the noun for 'place' in everyday conversation.
-- 'Olivier Dimars has almost no experience.' Andrea evaluates the rival agent candidly. The verb meaning 'has' pairs naturally with the noun for 'experience' in everyday conversation.
-- 'He is above all much less competent.' Elise states the harsh reality directly. The adverb meaning 'especially' gives the reply its conversational emphasis.
-- 'It is a totally unfair choice, Elise.' Andrea validates her anger with sympathy. The descriptive adjective for 'unfair' agrees in gender and number with its noun.
-- 'But he is a man, obviously.' Elise points out the unspoken institutional bias. The key noun here means 'man', anchored by its matching French article.
-- 'Sexism in this industry persists.' Andrea acknowledges the pervasive prejudice. The verb meaning 'persists' pairs naturally with the noun for 'sexism' in everyday conversation.
-- 'I thought it was enough to be excellent.' Elise reflects on her shattered illusions. The clause hinges on the everyday verb meaning 'believed'.
-- 'You did remarkable work.' Andrea honors her rival's undoubted talent. This conversational past tense combines a helper verb with the past participle for 'done'.
-- 'I was much too naive, apparently.' Elise sighs as she swishes her drink. This conversational past tense combines a helper verb with the past participle for 'been'.
-- 'I am really sorry for you.' Andrea offers sincere solidarity. The empathetic adjective shows genuine human compassion.
+## Part 5 — Outro & Closing
+> Elise's revelation of sexism at StarMedia exposes the brutal reality of agency politics. When you watch the episode, listen out for the expressions meaning 'sure' and 'to find'. You'll catch them now. See you next time.
+- **Closing**: `lea`: *À demain!*

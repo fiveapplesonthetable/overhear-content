@@ -1,45 +1,32 @@
-# dix-pour-cent-s03e02-scene-13: review sheet
+# Review: `dix-pour-cent-s03e02-scene-13` — Chez Monica Bellucci  (At Monica Bellucci's)
 
-Title: Chez Monica Bellucci  (At Monica Bellucci's)
-Level: A1 — débutant
-Pair: fr-en
-Source: Dix pour cent (Call My Agent!) S03E02
-Cues 735-756. At Monica Bellucci's home, Monica and Gabriel review heavily retouched ad photos; Monica confides how much she cherishes Gabriel's kind look, while Gabriel maintains professional boundaries.
+- **Source**: `sources/dix-pour-cent/s03/e02.fr.dual.srt`
+- **Level**: A1 — débutant
+- **Voices**: `{"narrator": "sky", "monica": "emilie", "gabriel": "theo"}`
+- **Labels**: `{"monica": "Monica", "gabriel": "Gabriel"}`
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+## Part 1 — Intro
+> At her Parisian apartment, Italian cinema star Monica Bellucci reviews proofs of a high-end advertising campaign with agent Gabriel Sarda. She criticizes the excessive digital retouching, while warmly praising Gabriel's gentle and supportive presence. Listen to the scene in French first.
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
-|---|---|---|---|---|---|
-| 1 | Léa | Alors, que penses-tu de ces photos? | So, what do you think of these photos? | #735 00:32:34: Alors | verbatim |
-| 2 | Gabriel | La publicité, ce n'est pas le cinéma. | Advertising is not cinema. | #736 00:32:36: la pub, c'est pas le cinéma | verbatim |
-| 3 | Gabriel | Ce sont des codes très différents. | These are very different codes. | #737 00:32:40: d'autres codes | verbatim |
-| 4 | Léa | Tu sais très bien ce qui te plaît. | You know very well what pleases you. | #738 00:32:41: ce qui te plaît | verbatim |
-| 5 | Léa | Ici, ce n'est pas du tout excitant. | Here, this is not exciting at all. | #740 00:32:46: pas du tout excitant | verbatim |
-| 6 | Gabriel | Si, c'est quand même un peu excitant! | Well, it is still a little bit exciting! | #741 00:32:50: un peu quand même | verbatim |
-| 7 | Léa | Franchement, c'est qui cette femme? | Honestly, who is this woman? | #742 00:32:52: c'est qui, cette dame | verbatim |
-| 8 | Léa | Cette image est tellement retouchée! | This image is so heavily retouched! | #743 00:32:54: C'est tellement retouché | verbatim |
-| 9 | Léa | Je n'ai plus aucune expression naturelle. | I no longer have any natural expression. | #743 00:32:54: J'ai pas d'expression | verbatim |
-| 10 | Léa | Regarde, je n'ai même plus de coudes! | Look, I do not even have elbows anymore! | #745 00:32:59: plus des coudes, regarde | verbatim |
-| 11 | Gabriel | C'est rare qu'on te regarde les coudes. | People rarely look at your elbows. | #746 00:33:01: dans les coudes | verbatim |
-| 12 | Léa | Moi, j'aime bien comment tu me regardes. | Personally, I really like how you look at me. | #747 00:33:07: comment toi, tu me regardes | verbatim |
-| 13 | Léa | Ton regard est toujours bon et doux. | Your gaze is always kind and gentle. | #749 00:33:10: bon et doux | verbatim |
-| 14 | Léa | Avec toi, je me sens en confiance. | With you, I feel confident and safe. | #750 00:33:13: j'ai confiance | verbatim |
-| 15 | Gabriel | Je suis archi-flatté, mais c'est tabou. | I am extremely flattered, but it is taboo. | #752 00:33:20: archi-flaté<br>#755 00:33:39: Juste tabou | verbatim |
+## Part 2 — Story Lines
+| # | Role | French | English | Source Cues |
+|---|------|--------|---------|-------------|
+| 0 | `monica` (Monica) | Alors, que penses-tu de ces photos? | So, what do you think of these photos? | 735:Alors |
+| 1 | `gabriel` (Gabriel) | La publicité, ce n'est pas le cinéma. | Advertising is not cinema. | 736:la pub, c'est pas le cinéma |
+| 2 | `gabriel` (Gabriel) | Ce sont des codes très différents. | These are very different codes. | 737:d'autres codes |
+| 3 | `monica` (Monica) | Tu sais très bien ce qui te plaît. | You know very well what pleases you. | 738:ce qui te plaît |
+| 4 | `monica` (Monica) | Ici, ce n'est pas du tout excitant. | Here, this is not exciting at all. | 740:pas du tout excitant |
+| 5 | `gabriel` (Gabriel) | Si, c'est quand même un peu excitant! | Well, it is still a little bit exciting! | 741:un peu quand même |
+| 6 | `monica` (Monica) | Franchement, c'est qui cette femme? | Honestly, who is this woman? | 742:c'est qui, cette dame |
+| 7 | `monica` (Monica) | Cette image est tellement retouchée! | This image is so heavily retouched! | 743:C'est tellement retouché |
+| 8 | `monica` (Monica) | Je n'ai plus aucune expression naturelle. | I no longer have any natural expression. | 743:J'ai pas d'expression |
+| 9 | `monica` (Monica) | Regarde, je n'ai même plus de coudes! | Look, I do not even have elbows anymore! | 745:plus des coudes, regarde |
+| 10 | `gabriel` (Gabriel) | C'est rare qu'on te regarde les coudes. | People rarely look at your elbows. | 746:dans les coudes |
+| 11 | `monica` (Monica) | Moi, j'aime bien comment tu me regardes. | Personally, I really like how you look at me. | 747:comment toi, tu me regardes |
+| 12 | `monica` (Monica) | Ton regard est toujours bon et doux. | Your gaze is always kind and gentle. | 749:bon et doux |
+| 13 | `monica` (Monica) | Avec toi, je me sens en confiance. | With you, I feel confident and safe. | 750:j'ai confiance |
+| 14 | `gabriel` (Gabriel) | Je suis archi-flatté, mais c'est tabou. | I am extremely flattered, but it is taboo. | 752:archi-flaté, 755:Juste tabou |
 
-## Walk-through narration (English only, no target-language words quoted)
-
-- 'So, what do you think of these photos?' Monica asks for Gabriel's honest professional feedback. The verb meaning 'think' pairs naturally with the noun for 'promo pictures' in everyday conversation.
-- 'Advertising is not cinema.' Gabriel distinguishes commercial promo aesthetics from films. The key noun here means 'commercial advertising', anchored by its matching French article.
-- 'These are very different codes.' He notes that advertising operates by artificial standards. The key noun here means 'aesthetic conventions', anchored by its matching French article.
-- 'You know very well what pleases you.' Monica challenges him to judge purely as an observer. The reflexive pronoun sits right in front of the verb for 'know', turning the action back onto the subject.
-- 'Here, this is not exciting at all.' She expresses dissatisfaction with the clinical studio shots. The key noun here means 'all', anchored by its matching French article.
-- 'Well, it is still a little bit exciting!' Gabriel gently disagrees with her harsh self-critique. The descriptive adjective for 'attractive' agrees in gender and number with its noun.
-- 'Honestly, who is this woman?' Monica feels alienated by the synthetic marketing image. The key noun here means 'unfamiliar lady', anchored by its matching French article.
-- 'This image is so heavily retouched!' She decries the aggressive digital post-production. The verb meaning 'digitally altered' pairs naturally with the noun for 'retouched portrait' in everyday conversation.
-- 'I no longer have any natural expression.' Monica laments the erasure of authentic human facial traits. The adjective meaning 'authentic' takes its feminine form here to match the noun it describes.
-- 'Look, I do not even have elbows anymore!' She points out ridiculous anatomical airbrushing. The verb meaning 'look' pairs naturally with the noun for 'arm elbows' in everyday conversation.
-- 'People rarely look at your elbows.' Gabriel offers humor to lighten her frustration. Notice how 'look at' leads directly into the noun meaning 'anatomical elbows'.
-- 'Personally, I really like how you look at me.' Monica pivots to an intimate personal compliment. The reflexive pronoun sits right in front of the verb for 'like', turning the action back onto the subject.
-- 'Your gaze is always kind and gentle.' She appreciates his sincere, non-predatory attention. The informal 'you' form around 'expression' marks a direct, personal relationship.
-- 'With you, I feel confident and safe.' Monica expresses profound trust in her dedicated agent. Monica uses the casual singular 'you' with 'feel', showing close familiarity.
-- 'I am extremely flattered, but it is taboo.' Gabriel acknowledges her affection while upholding professional ethics. The contrasting conjunction sets a firm moral limit.
+## Part 5 — Outro & Closing
+> Sharing an intimate conversation over photo proofs, Monica Bellucci and Gabriel bond over the contrast between glamour and authenticity. When you watch the episode, listen out for the expressions meaning 'think' and 'promo pictures'. You'll catch them now. See you next time.
+- **Closing**: `gabriel`: *Bonne soirée!*

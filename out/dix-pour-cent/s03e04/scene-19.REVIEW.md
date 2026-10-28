@@ -1,43 +1,31 @@
-# dix-pour-cent-s03e04-scene-19: review sheet
+# Review: `dix-pour-cent-s03e04-scene-19` — Le mal de dos  (The Back Pain)
 
-Title: Le mal de dos  (The Back Pain)
-Level: A1 — débutant
-Pair: fr-en
-Source: Dix pour cent (Call My Agent!) S03E04
-Cue 934. Inside Noemie's apartment, Mathias winces from severe back pain caused by stressful nights at the office. Noemie shows genuine sympathy and serves him breakfast while Mathias reveals how vulnerable he feels without her.
+- **Source**: `sources/dix-pour-cent/s03/e04.fr.dual.srt`
+- **Level**: A1 — débutant
+- **Voices**: `{"narrator": "sky", "mathias": "marcel", "noemie": "emilie"}`
+- **Labels**: `{"mathias": "Mathias", "noemie": "Noémie"}`
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+## Part 1 — Intro
+> Inside Noemie's apartment, Mathias winces from severe back pain caused by stressful nights at the office. Noemie shows genuine sympathy and serves him breakfast while Mathias reveals how vulnerable he feels without her. Let's listen to the scene in French first.
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
-|---|---|---|---|---|---|
-| 1 | Léa | Asseyez-vous Mathias, vous semblez souffrir. | Sit down Mathias, you seem to be suffering. | #934 00:47:38: Avec mon dos | adapted: Noticed his obvious physical discomfort |
-| 2 | Mathias | Avec mon dos et tout, je... | With my back and everything, I... | #934 00:47:38: Avec mon dos et tout, je... | adapted: Admitted his severe backache |
-| 3 | Léa | Votre dos vous fait encore mal? | Is your back hurting you again? | #934 00:47:38: Avec mon dos | adapted: Asked about his recurring pain |
-| 4 | Mathias | Oui, ces nuits courtes sont terribles. | Yes, these short nights are terrible. | #934 00:47:38: et tout | adapted: Blamed sleepless nights of work |
-| 5 | Léa | Vous devriez consulter un bon médecin. | You should consult a good doctor. | #934 00:47:38: je... | adapted: Recommended proper medical advice |
-| 6 | Mathias | Le travail m'épuise complètement sans vous. | Work exhausts me completely without you. | #934 00:47:38: je... | adapted: Admitted being exhausted alone |
-| 7 | Léa | Buvez au moins votre café chaud. | At least drink your hot coffee. | #934 00:47:38: et tout | adapted: Encouraged him to drink coffee |
-| 8 | Mathias | Ce café me fait beaucoup de bien. | This coffee does me a lot of good. | #934 00:47:38: je... | adapted: Felt grateful for the warm drink |
-| 9 | Léa | Vous refusez toujours d'écouter votre corps. | You always refuse to listen to your body. | #934 00:47:38: Avec mon dos | adapted: Chided his stubborn workaholic habit |
-| 10 | Mathias | Je voulais seulement vous voir aujourd'hui. | I only wanted to see you today. | #934 00:47:38: je... | adapted: Stated his true morning motivation |
-| 11 | Léa | Votre visite matinale me touche sincèrement. | Your morning visit touches me sincerely. | #934 00:47:38: je... | adapted: Acknowledged her genuine emotional reaction |
-| 12 | Mathias | Pouvons-nous parler de notre avenir commun? | Can we speak about our common future? | #934 00:47:38: je... | adapted: Brought up their mutual future |
-| 13 | Léa | Finissez d'abord vos délicieux croissants chauds. | First finish your delicious warm croissants. | #934 00:47:38: et tout | adapted: Suggested eating breakfast first |
-| 14 | Mathias | Promettez-moi d'y réfléchir sérieusement, Noémie. | Promise me to think about it seriously, Noemie. | #934 00:47:38: je... | adapted: Requested sincere future consideration |
+## Part 2 — Story Lines
+| # | Role | French | English | Source Cues |
+|---|------|--------|---------|-------------|
+| 0 | `noemie` (Noémie) | Asseyez-vous Mathias, vous semblez souffrir. | Sit down Mathias, you seem to be suffering. | 934:Avec mon dos |
+| 1 | `mathias` (Mathias) | Avec mon dos et tout, je... | With my back and everything, I... | 934:Avec mon dos et tout, je... |
+| 2 | `noemie` (Noémie) | Votre dos vous fait encore mal? | Is your back hurting you again? | 934:Avec mon dos |
+| 3 | `mathias` (Mathias) | Oui, ces nuits courtes sont terribles. | Yes, these short nights are terrible. | 934:et tout |
+| 4 | `noemie` (Noémie) | Vous devriez consulter un bon médecin. | You should consult a good doctor. | 934:je... |
+| 5 | `mathias` (Mathias) | Le travail m'épuise complètement sans vous. | Work exhausts me completely without you. | 934:je... |
+| 6 | `noemie` (Noémie) | Buvez au moins votre café chaud. | At least drink your hot coffee. | 934:et tout |
+| 7 | `mathias` (Mathias) | Ce café me fait beaucoup de bien. | This coffee does me a lot of good. | 934:je... |
+| 8 | `noemie` (Noémie) | Vous refusez toujours d'écouter votre corps. | You always refuse to listen to your body. | 934:Avec mon dos |
+| 9 | `mathias` (Mathias) | Je voulais seulement vous voir aujourd'hui. | I only wanted to see you today. | 934:je... |
+| 10 | `noemie` (Noémie) | Votre visite matinale me touche sincèrement. | Your morning visit touches me sincerely. | 934:je... |
+| 11 | `mathias` (Mathias) | Pouvons-nous parler de notre avenir commun? | Can we speak about our common future? | 934:je... |
+| 12 | `noemie` (Noémie) | Finissez d'abord vos délicieux croissants chauds. | First finish your delicious warm croissants. | 934:et tout |
+| 13 | `mathias` (Mathias) | Promettez-moi d'y réfléchir sérieusement, Noémie. | Promise me to think about it seriously, Noemie. | 934:je... |
 
-## Walk-through narration (English only, no target-language words quoted)
-
-- 'Sit down Mathias, you seem to be suffering.' Noemie invites him to take a seat on the couch. The formal 'you' pronoun sets a courteous, professional distance around 'sit down'.
-- 'With my back and everything, I...' Mathias struggles to find words for his exhaustion. The key noun here means 'back', anchored by its matching French article.
-- 'Is your back hurting you again?' Noemie inquires about his chronic condition. The formal 'you' pronoun sets a courteous, professional distance around 'makes'.
-- 'Yes, these short nights are terrible.' Mathias describes his sleepless work schedule. The adjective meaning 'short' takes its feminine form here to match the noun it describes.
-- 'You should consult a good doctor.' Noemie offers practical health counsel. Noemie uses the polite 'you' form alongside 'should' to keep a respectful professional tone.
-- 'Work exhausts me completely without you.' Mathias admits his vulnerability in the agency. The verb meaning 'exhausts' pairs naturally with the noun for 'work' in everyday conversation.
-- 'At least drink your hot coffee.' Noemie points to the steaming mug on the table. Notice how 'drink' leads directly into the noun meaning 'coffee'.
-- 'This coffee does me a lot of good.' Mathias sips gratefully and feels immediate relief. Notice how 'does' leads directly into the noun meaning 'coffee'.
-- 'You always refuse to listen to your body.' Noemie gently reproaches his obstinate routine. Notice how 'refuse' leads directly into the noun meaning 'body'.
-- 'I only wanted to see you today.' Mathias explains the true reason for dropping by. Notice how the short vowel drops before a vowel sound around 'wanted', making the phrase flow smoothly as one unit.
-- 'Your morning visit touches me sincerely.' Noemie confesses that his presence matters. Notice how 'touches' leads directly into the noun meaning 'visit'.
-- 'Can we speak about our common future?' Mathias steers the talk toward a professional reconciliation. In everyday spoken French, rising intonation on 'can we' at the end is enough to turn the sentence into a question.
-- 'First finish your delicious warm croissants.' Noemie smiles and defers serious business. Noemie uses the polite 'you' form alongside 'finish' to keep a respectful professional tone.
-- 'Promise me to think about it seriously, Noemie.' Mathias makes an earnest appeal before leaving. The imperative verb asks for thoughtful reflection.
+## Part 5 — Outro & Closing
+> In her quiet living room, Noemie cares for an aching Mathias as he makes a heartfelt plea to reunite. When you watch the episode, listen out for the expressions meaning 'sit down' and 'seem'. You'll catch them now. See you next time.
+- **Closing**: `mathias`: *Au revoir!*

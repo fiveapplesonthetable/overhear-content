@@ -1,49 +1,33 @@
-# dix-pour-cent-s01e03-scene-14: review sheet
+# Review: `dix-pour-cent-s01e03-scene-14` — L'inspectrice des impôts arrive  (The Tax Inspector Arrives)
 
-Title: L'inspectrice des impôts arrive  (The Tax Inspector Arrives)
-Level: A1 — débutant
-Pair: fr-en
-Source: Dix pour cent (Call My Agent!) S01E03
-Cues 313-339. Arlette's opening question about her dog (313) is narrated in the opener, and the partners' worries at the end (332-338) are shared between Gabriel and Andréa to stay within three speaking roles.
+- **Source**: `sources/dix-pour-cent/s01/e03.fr.dual.srt`
+- **Level**: A1 — débutant
+- **Voices**: `{"narrator": "sky", "lea": "lucie", "colette": "emilie", "gabriel": "theo"}`
+- **Labels**: `{"lea": "Andréa", "colette": "Colette", "gabriel": "Gabriel"}`
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+## Part 1 — Intro
+> Earlier today Andréa promised her ex-boyfriend Clément a luxury suite at Cannes if he replaced Colette within a week. Yet the moment Andréa meets Colette face to face, she has the strange feeling they have met before, and decides she can handle her after all. Listen to the French first, without worrying about catching every single word.
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
-|---|---|---|---|---|---|
-| 1 | Gabriel | Andréa. Voici la dame du centre des impôts. | Andréa. Here is the lady from the tax office. | #314 00:18:36: Andréa<br>#315 00:18:37: Voici la dame du centre des impôts | verbatim |
-| 2 | Léa | Bonjour. Andréa Martel. | Hello. Andréa Martel. | #316 00:18:41: Bonjour. Andréa Martel | verbatim |
-| 3 | Colette | Colette Brancillon. J'ai besoin d'un bureau pour travailler. | Colette Brancillon. I need an office to work in. | #316 00:18:41: Colette Brancillon<br>#317 00:18:45: besoin d'un bureau pour travailler | adapted: future 'J'aurai besoin' -> present 'J'ai besoin' |
-| 4 | Léa | Notre patron est mort il y a trois semaines. | Our boss died three weeks ago. | #318 00:18:50: Notre patron est<br>#318 00:18:50: il y a trois semaines | adapted: 'décédé' simplified to A1 'mort' |
-| 5 | Léa | J'ai vraiment l'impression de vous connaître. | I really have the feeling I know you. | #320 00:18:56: J'ai vraiment l'impression de vous connaître | verbatim |
-| 6 | Colette | Non, je ne crois pas. | No, I don't think so. | #321 00:19:01: Non, je ne crois pas | verbatim |
-| 7 | Léa | C'était peut-être dans une autre vie. | Maybe it was in another life. | #322 00:19:05: C'était peut-être dans une autre vie | verbatim |
-| 8 | Léa | Vous avez tout ce qu'il vous faut? | Do you have everything you need? | #323 00:19:09: Vous avez<br>#324 00:19:11: tout ce qu'il vous faut | verbatim |
-| 9 | Colette | Oui, merci. | Yes, thank you. | #325 00:19:13: Oui, merci | verbatim |
-| 10 | Léa | Mon bureau est juste là. À tout à l'heure. | My office is right there. See you later. | #326 00:19:14: mon bureau est juste là<br>#327 00:19:18: À tout à l'heure | adapted: 'Si vous avez besoin de quoi que ce soit' dropped |
-| 11 | Colette | D'accord, merci. | Okay, thank you. | #327 00:19:18: D'accord, merci | verbatim |
-| 12 | Léa | Salut, Clément, c'est Andréa. | Hi, Clément, it's Andréa. | #328 00:19:26: c'est Andréa | adapted: comma added after Salut |
-| 13 | Léa | Avec Colette Brancillon, ça va aller. On oublie notre accord. | With Colette Brancillon, it'll be fine. Forget our deal. | #329 00:19:29: avec Colette Brancillon<br>#330 00:19:32: on oublie | adapted: 'on peut s'en sortir' and 'ce dont on avait convenu' simplified to A1 |
-| 14 | Gabriel | Elle va rester ici pendant des semaines? | Is she going to stay here for weeks? | #332 00:19:41: Elle va<br>#332 00:19:41: pendant des semaines | adapted: idiom 'nous coller aux basques' simplified to 'rester ici' |
-| 15 | Gabriel | Et on peut faire faillite? | And could we go bankrupt? | #334 00:19:45: faire faillite | adapted: conditional 'On pourrait' -> present 'on peut' |
-| 16 | Léa | Oui. Mais c'est la vie. | Yes. But that's life. | #336 00:19:50: c'est la vie | adapted: 'Ouais' -> 'Oui' |
+## Part 2 — Story Lines
+| # | Role | French | English | Source Cues |
+|---|------|--------|---------|-------------|
+| 0 | `gabriel` (Gabriel) | Andréa. Voici la dame du centre des impôts. | Andréa. Here is the lady from the tax office. | 314:Andréa, 315:Voici la dame du centre des impôts |
+| 1 | `lea` (Andréa) | Bonjour. Andréa Martel. | Hello. Andréa Martel. | 316:Bonjour. Andréa Martel |
+| 2 | `colette` (Colette) | Colette Brancillon. J'ai besoin d'un bureau pour travailler. | Colette Brancillon. I need an office to work in. | 316:Colette Brancillon, 317:besoin d'un bureau pour travailler |
+| 3 | `lea` (Andréa) | Notre patron est mort il y a trois semaines. | Our boss died three weeks ago. | 318:Notre patron est, 318:il y a trois semaines |
+| 4 | `lea` (Andréa) | J'ai vraiment l'impression de vous connaître. | I really have the feeling I know you. | 320:J'ai vraiment l'impression de vous connaître |
+| 5 | `colette` (Colette) | Non, je ne crois pas. | No, I don | 321:Non, je ne crois pas |
+| 6 | `lea` (Andréa) | C'était peut-être dans une autre vie. | Maybe it was in another life. | 322:C'était peut-être dans une autre vie |
+| 7 | `lea` (Andréa) | Vous avez tout ce qu'il vous faut? | Do you have everything you need? | 323:Vous avez, 324:tout ce qu'il vous faut |
+| 8 | `colette` (Colette) | Oui, merci. | Yes, thank you. | 325:Oui, merci |
+| 9 | `lea` (Andréa) | Mon bureau est juste là. À tout à l'heure. | My office is right there. See you later. | 326:mon bureau est juste là, 327:À tout à l'heure |
+| 10 | `colette` (Colette) | D'accord, merci. | Okay, thank you. | 327:D'accord, merci |
+| 11 | `lea` (Andréa) | Salut, Clément, c'est Andréa. | Hi, Clément, it | 328:c'est Andréa |
+| 12 | `lea` (Andréa) | Avec Colette Brancillon, ça va aller. On oublie notre accord. | With Colette Brancillon, it'll be fine. Forget our deal. | 329:avec Colette Brancillon, 330:on oublie |
+| 13 | `gabriel` (Gabriel) | Elle va rester ici pendant des semaines? | Is she going to stay here for weeks? | 332:Elle va, 332:pendant des semaines |
+| 14 | `gabriel` (Gabriel) | Et on peut faire faillite? | And could we go bankrupt? | 334:faire faillite |
+| 15 | `lea` (Andréa) | Oui. Mais c'est la vie. | Yes. But that | 336:c'est la vie |
 
-## Walk-through narration (English only, no target-language words quoted)
-
-- 'Andréa. Here is the lady from the tax office.' Literally 'the centre of the taxes'. The first word is how you present someone who has just arrived.
-- 'Hello. Andréa Martel.' People often introduce themselves simply by saying hello and giving their full name.
-- 'Colette Brancillon. I need an office to work in.' Literally 'I have need of an office for to work'. Colette gets straight down to business.
-- 'Our boss died three weeks ago.' The little three-word phrase before 'three weeks' means 'ago' when it comes before a length of time. Andréa is apologising for the mess at the agency.
-- 'I really have the feeling I know you.' In French you say 'the impression of knowing you', using the verb for knowing a person. Andréa stares at Colette, sure she has seen her face somewhere.
-- 'No, I don't think so.' Literally 'I do not believe'. Colette's answer is cool and polite, using the two-part negative around the verb.
-- 'Maybe it was in another life.' The verb at the front is the past form for how things were, and the hyphenated word after it means 'maybe'.
-- 'Do you have everything you need?' Literally 'all that which it you is-needed'. A polite, standard phrase when showing a visitor to a room.
-- 'Yes, thank you.' Short and polite. Colette doesn't waste a syllable.
-- 'My office is right there.' The word for 'my' is masculine here to match 'office'.
-- 'See you later.' You use this when you will see the person again later the same day.
-- 'Okay, thank you.' Now Colette shuts the door, and Andréa immediately phones Clément to cancel her expensive Cannes bribe.
-- 'Hi, Clément, it's Andréa.' On the phone, French speakers introduce themselves with 'it is' plus their name.
-- 'With Colette Brancillon, it'll be fine.' Literally 'it is going to go'. Andréa thinks she can charm the young inspector.
-- 'Forget our deal.' Literally 'we forget our agreement', using the everyday word for 'we'.
-- 'Is she going to stay here for weeks?' The verb 'to go' plus 'stay' builds the near future, and the preposition before 'weeks' means 'for' or 'during'.
-- 'And could we go bankrupt?' Literally 'make bankruptcy'. Gabriel is terrified for the agency.
-- 'Yes. But that's life.' Literally 'it is the life'. Andréa shrugs it off, not yet knowing where she really met Colette.
+## Part 5 — Outro & Closing
+> Colette is installed in her office, and Andréa has just thrown away her only safety net at the tax office. We'll find out later why Colette's face looked so familiar. See you next time!
+- **Closing**: `colette`: *Bonne soirée!*

@@ -1,41 +1,30 @@
-# dix-pour-cent-s04e03-scene-06: review sheet
+# Review: `dix-pour-cent-s04e03-scene-06` — L'ennemie dans nos murs  (The Enemy in Our Walls)
 
-Title: L'ennemie dans nos murs  (The Enemy in Our Walls)
-Level: A1 — débutant
-Pair: fr-en
-Source: Dix pour cent (Call My Agent!) S04E03
-Cues 195-202. Panic spreads through ASK reception as star competitor Elise Formain strides into the building, raising alarm over a potential hostile takeover.
+- **Source**: `sources/dix-pour-cent/s04/e03.fr.dual.srt`
+- **Level**: A1 — débutant
+- **Voices**: `{"narrator": "sky", "herve": "marcel", "camille": "emilie", "gabriel": "theo"}`
+- **Labels**: `{"herve": "Hervé", "camille": "Camille", "gabriel": "Gabriel"}`
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+## Part 1 — Intro
+> At ASK reception, Camille and Herve spot rival super-agent Elise Formain striding through the lobby. Fearing an aggressive buyout by competitor StarMedia, they alert Gabriel as tension peaks. Let's listen to their conversation in French first.
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
-|---|---|---|---|---|---|
-| 1 | Léa | Qui est cette femme élégante à l'accueil? | Who is this elegant woman at reception? | #196 00:11:06: C'est qui ? | adapted: Camille spots an imposing stranger in the foyer |
-| 2 | Hervé | Tu ne connais pas Élise Formain? | You do not know Elise Formain? | #197 00:11:07: Vous ne connaissez pas Elise Formain ? | adapted: Herve expresses disbelief at her question |
-| 3 | Hervé | C'est la plus grande agente de StarMédia! | She is the biggest agent of StarMedia! | #198 00:11:09: La plus grande agent de StarMédia. | adapted: Herve identifies their foremost rival |
-| 4 | Hervé | Elle nous a pris nos meilleurs clients! | She took our best clients from us! | #199 00:11:11: soufflé | adapted: Herve recalls past poachings with bitterness |
-| 5 | Léa | Nathalie Baye et Dany Boon, c'est elle? | Nathalie Baye and Dany Boon, that is her? | #199 00:11:11: Nathalie Baye et Dany Boon. | adapted: Camille connects the name to recent high-profile departures |
-| 6 | Hervé | Oui, elle nous a tout soufflé sans pitié! | Yes, she snatched everything from us without mercy! | #199 00:11:11: Elle nous a soufflé Nathalie Baye | adapted: Herve stresses her ruthless effectiveness |
-| 7 | Léa | Que fait-elle ici dans notre agence? | What is she doing here in our agency? | #200 00:11:14: Qu'est-ce qu'elle fait là ? | adapted: Camille wonders about the purpose of her visit |
-| 8 | Hervé | StarMédia veut peut-être nous racheter? | Does StarMedia perhaps want to buy us out? | #201 00:11:17: StarMédia va racheter ASK ? | adapted: Herve voices the terrifying rumor of a hostile buyout |
-| 9 | Léa | Ce serait une catastrophe pour nous tous! | That would be a catastrophe for all of us! | #201 00:11:17: racheter ASK ? | adapted: Camille reacts with alarm at the prospect of a corporate takeover |
-| 10 | Gabriel | Gabriel arrive enfin, viens vite voir! | Gabriel is finally arriving, come see quickly! | #202 00:11:20: Gabriel ! | adapted: Herve flags down Gabriel in the hallway |
-| 11 | Gabriel | Qu'est-ce qui se passe ici, les amis? | What is happening here, friends? | #202 00:11:20: Gabriel ! | adapted: Gabriel asks why the assistants are whispering in agitation |
-| 12 | Hervé | Regarde dans le couloir, Élise Formain approche! | Look in the hallway, Elise Formain is approaching! | #200 00:11:14: Qu'est-ce qu'elle fait là ? | adapted: Herve points toward the approaching executive |
-| 13 | Gabriel | Mon Dieu, que vient faire cette concurrente? | My God, what is this competitor coming to do? | #201 00:11:17: StarMédia va racheter ASK ? | adapted: Gabriel gasps as he realizes who has entered the premises |
+## Part 2 — Story Lines
+| # | Role | French | English | Source Cues |
+|---|------|--------|---------|-------------|
+| 0 | `camille` (Camille) | Qui est cette femme élégante à l'accueil? | Who is this elegant woman at reception? | 196:C'est qui ? |
+| 1 | `herve` (Hervé) | Tu ne connais pas Élise Formain? | You do not know Elise Formain? | 197:Vous ne connaissez pas Elise Formain ? |
+| 2 | `herve` (Hervé) | C'est la plus grande agente de StarMédia! | She is the biggest agent of StarMedia! | 198:La plus grande agent de StarMédia. |
+| 3 | `herve` (Hervé) | Elle nous a pris nos meilleurs clients! | She took our best clients from us! | 199:soufflé |
+| 4 | `camille` (Camille) | Nathalie Baye et Dany Boon, c'est elle? | Nathalie Baye and Dany Boon, that is her? | 199:Nathalie Baye et Dany Boon. |
+| 5 | `herve` (Hervé) | Oui, elle nous a tout soufflé sans pitié! | Yes, she snatched everything from us without mercy! | 199:Elle nous a soufflé Nathalie Baye |
+| 6 | `camille` (Camille) | Que fait-elle ici dans notre agence? | What is she doing here in our agency? | 200:Qu'est-ce qu'elle fait là ? |
+| 7 | `herve` (Hervé) | StarMédia veut peut-être nous racheter? | Does StarMedia perhaps want to buy us out? | 201:StarMédia va racheter ASK ? |
+| 8 | `camille` (Camille) | Ce serait une catastrophe pour nous tous! | That would be a catastrophe for all of us! | 201:racheter ASK ? |
+| 9 | `gabriel` (Gabriel) | Gabriel arrive enfin, viens vite voir! | Gabriel is finally arriving, come see quickly! | 202:Gabriel ! |
+| 10 | `gabriel` (Gabriel) | Qu'est-ce qui se passe ici, les amis? | What is happening here, friends? | 202:Gabriel ! |
+| 11 | `herve` (Hervé) | Regarde dans le couloir, Élise Formain approche! | Look in the hallway, Elise Formain is approaching! | 200:Qu'est-ce qu'elle fait là ? |
+| 12 | `gabriel` (Gabriel) | Mon Dieu, que vient faire cette concurrente? | My God, what is this competitor coming to do? | 201:StarMédia va racheter ASK ? |
 
-## Walk-through narration (English only, no target-language words quoted)
-
-- 'Who is this elegant woman at reception?' Camille asks about the sophisticated newcomer walking past the front desk. The adjective meaning 'elegant' takes its feminine form here to match the noun it describes.
-- 'You do not know Elise Formain?' Herve is shocked that Camille does not recognize Paris's most ruthless agent. Notice the classic French sandwich negation wrapping right around 'know'.
-- 'She is the biggest agent of StarMedia!' Herve explains that Elise is the leading power player at their rival company. Dropping the subject pronoun turns the verb for 'she is' into a direct, punchy command.
-- 'She took our best clients from us!' Herve reminds Camille of the severe talent losses ASK has suffered recently. Notice how 'has' leads directly into the noun meaning 'clients!'.
-- 'Nathalie Baye and Dany Boon, that is her?' Camille realizes Elise orchestrated those major defections. In everyday spoken French, rising intonation on 'it is' at the end is enough to turn the sentence into a question.
-- 'Yes, she snatched everything from us without mercy!' Herve underscores Elise's predatory deal-making skills. Dropping the subject pronoun turns the verb for 'has' into a direct, punchy command.
-- 'What is she doing here in our agency?' Camille questions why their fierce rival would set foot in their building. Inverting the verb and pronoun around 'is she doing' creates a crisp, polished question.
-- 'Does StarMedia perhaps want to buy us out?' Herve dreads that StarMedia is preparing a full buyout of ASK. The clause hinges on the everyday verb meaning 'wants'.
-- 'That would be a catastrophe for all of us!' Camille shares her fear of being swallowed by corporate competitors. Notice how 'would be' leads directly into the noun meaning 'catastrophe'.
-- 'Gabriel is finally arriving, come see quickly!' Herve calls Gabriel over to witness the situation. The clause hinges on the everyday verb meaning 'arrives'.
-- 'What is happening here, friends?' Gabriel asks what has caused such sudden panic near reception. The verb meaning 'happens' pairs naturally with the noun for 'friends?' in everyday conversation.
-- 'Look in the hallway, Elise Formain is approaching!' Herve directs Gabriel's attention to the corridor. Notice how 'look' leads directly into the noun meaning 'hallway'.
-- 'My God, what is this competitor coming to do?' Gabriel stares in astonishment at their rival's bold entrance. In everyday spoken French, rising intonation on 'comes' at the end is enough to turn the sentence into a question.
+## Part 5 — Outro & Closing
+> That's it for this scene around the enemy in our walls. When you watch the episode, listen out for the expressions meaning 'woman' and 'elegant'. You'll catch them now. See you next time.
+- **Closing**: `gabriel`: *Bonne soirée!*
