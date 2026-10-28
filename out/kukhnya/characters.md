@@ -83,10 +83,10 @@ The role key / display name / gender table lives in `cast.json` (no voice column
 - Appearance for the art: glamorous woman about 30, light skin `#F6D2B5`, long wavy platinum-blonde hair `#F1E3B0`, emerald-green designer dress `#2E8B57` with a fur stole `#FFF6EA` and pearl earrings.
 - Role key: `kristina` (see `cast.json`). Label: Кристина.
 
-## Саша и Илья (Sasha and Ilya; dining-room waiters; first seen s01e01)
-- Who: experienced dining-room waiters at *Claude Monet*; Sasha is cynical and pragmatic, while Ilya is ambitious, slick, and rivals Max for Vika's attention.
+## Саша и Илья (Sasha and Ilya; dining-room waitress and waiter; first seen s01e01)
+- Who: experienced dining-room staff at *Claude Monet*; Sasha (a woman: the show calls her «девочка», and her past-tense verbs are feminine, e.g. «Саша перепутала») is cynical and pragmatic, while Ilya is ambitious, slick, and rivals Max for Vika's attention.
 - Appearance for the art:
-  - Саша (Sasha): young man about 26, light skin `#F6D2B5`, neat light-brown hair `#8C6D46`, black waiter's waistcoat `#2B2D38` over a white shirt with a burgundy tie `#8E2F3B`, carrying a wine bottle or order pad. Role key `sasha`. Label: Саша.
+  - Саша (Sasha): young woman about 25, light skin `#F6D2B5`, light-brown hair `#8C6D46` tied back in a neat low bun, black waitress's waistcoat `#2B2D38` over a white shirt with a burgundy tie `#8E2F3B`, carrying a wine bottle or order pad. Role key `sasha`. Label: Саша.
   - Илья (Ilya): tall young man about 27, light skin `#F6D2B5`, slicked dark hair `#2E1C14`, black waistcoat `#2B2D38` over a crisp white shirt with a black bow tie. Role key `ilya`. Label: Илья.
 
 ## Recurring & Guest Characters (S1–S6)
@@ -136,7 +136,6 @@ Every role key used in any episode of this show is listed below with its charact
 - **Елена** (label: `Елена`; appearance: distinct silhouette with dark chestnut hair `#3B261E` and tailored outfit in `#4B5D3A`) — Role key: `elena` (see `cast.json`).
 - **Элеонора** (label: `Элеонора`; appearance: distinct silhouette with sandy-brown hair `#8C6239` and tailored outfit in `#8E3B46`) — Role key: `eleonora` (see `cast.json`).
 - **Михаил** (label: `Михаил`; appearance: distinct silhouette with auburn hair `#8B3A2B` and tailored outfit in `#3B5368`) — Role key: `mikhail` (see `cast.json`).
-- **Саша** (label: `Саша`; appearance: distinct silhouette with silver-streaked hair `#7A7E85` and tailored outfit in `#7A5843`) — Role key: `sasha` (see `cast.json`).
 - **Герман** (label: `Герман`; appearance: distinct silhouette with dark wavy hair `#241C18` and tailored outfit in `#2C3E58`) — Role key: `german` (see `cast.json`).
 - **Инспектор** (label: `Инспектор`; appearance: distinct silhouette with honey-blond hair `#D4A459` and tailored outfit in `#6E2B42`) — Role key: `inspector` (see `cast.json`).
 - **Никита** (label: `Никита`; appearance: distinct silhouette with dark chestnut hair `#3B261E` and tailored outfit in `#2E7D7A`) — Role key: `nikita` (see `cast.json`).
