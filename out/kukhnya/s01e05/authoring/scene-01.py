@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'kostya': 'Костя', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.05'
 SOURCE_FILE = 'sources/kukhnya/s01/e05.ru.dual.srt'
-INTRO = "Morning at Claude Monet begins with high drama behind the bar. Bartender Kostya confronts Max in a fury after finding out Max kissed waitress Nastya during yesterday's shift. Max frantically tries to convince his best friend that the kiss was a sleep-deprived accident and that he has no feelings for Nastya. Let's listen to their argument in Russian first."
-OPENER = "Now let's examine Max and Kostya's argument line by line."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = 'That wraps up this scene from Kukhnya. Listen for these everyday Russian expressions when you watch the episode. See you next time!'
+INTRO = "This is Kukhnya, which means The Kitchen: a Russian comedy set in a smart Moscow restaurant called Claude Monet, where the chef shouts and everyone else tries to get through the shift. In this story, from episode five, the bartender Kostya has just heard that his best friend Max kissed Nastya, the waitress he likes. Max has to talk his way out of it. You'll hear it in Russian first, and you don't need to catch every word."
+OPENER = 'Now back through it slowly. Kostya is angry, so he talks in short, blunt lines, which is good news for us.'
+TRANSITION = 'Here it is once more from the top.'
+OUTRO = "The angry-friend lines are worth keeping: you now have a way to ask why someone is cross and a way to say it doesn't matter. If it all went by fast, the second listen will feel easier. See you next time."
 CLOSING = ('kostya', 'Пока!')
 STORY = [
     ('max', 'Костя, привет. Почему ты сердишься?', 'Kostya, hi. Why are you angry?', [], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('kostya', 'Посмотрим, как ты это докажешь.', 'We will see how you prove it.', [], ''),
 ]
 WALK = [
-    (0, None, "'Kostya, hi. Why are you angry?' Max tries to greet his tense friend."),
-    (1, None, "'Back off, or I will break your nose!' Kostya aggressively warns his friend to back off."),
-    (2, None, "'What for? What did I do to you?' Max questions the sudden hostility, genuinely confused about what he did wrong."),
-    (3, None, "'Yesterday you kissed my girl!' Kostya cuts to the chase, furious about the perceived betrayal."),
-    (4, None, "'It was a completely accidental misunderstanding.' Max frantically tries to downplay the situation as a total misunderstanding."),
-    (5, None, "'You were kissing right in the restaurant!' Kostya emphasizes the public location of their encounter."),
-    (6, None, "'I wanted to sleep all day yesterday.' Max offers a weak excuse about being sleep-deprived."),
-    (7, None, "'By the way, technically she is not yours yet.' Max makes a technical point that they are not officially a couple yet."),
-    (8, None, "'For me that does not matter.' Kostya dismisses the technicality completely."),
-    (9, None, "'There is nothing between me and Nastya!' Max insists that his relationship with the waitress is strictly professional."),
-    (10, None, "'You betrayed our friendship, Max.' Kostya expresses deep hurt over his friend's actions."),
-    (11, None, "'I will prove that she means nothing to me.' Max promises to show how little he cares about her."),
-    (12, None, "'We will see how you prove it.' Kostya remains deeply skeptical of this promise."),
+    (0, None, "'Kostya, hi. Why are you angry?' Max starts with the casual greeting you use for a friend, then asks why. The last word ends in 'sya', a little tail Russian often adds when you do something to yourself, so you could say he is 'angry-ing' himself."),
+    (1, None, "'Back off, or I will break your nose!' Russian doesn't say 'your nose' here. It says 'I will break to-you the nose', and the small word for 'to you' does the job of 'your'. The first word is a rude, bossy 'get lost'."),
+    (2, None, "'What for? What did I do to you?' The first question is two short words, and it is what you say when you're blamed for something and don't know why. The second one is built in the same way as the nose line, with 'to you' tucked in the middle."),
+    (3, None, "'Yesterday you kissed my girl!' Russian uses one word for both 'young woman' and 'girlfriend', and 'my' has the ending that shows it's a woman. The word for 'kissed' carries that 'sya' again, because kissing is something two people do to each other."),
+    (4, None, "'It was a completely accidental misunderstanding.' Max reaches for the longest, most official-sounding word he can find. 'Accidental' comes from 'a chance event', so it simply means it happened by chance."),
+    (5, None, "'You were kissing right in the restaurant!' Kostya now says 'you' for two people, Max and Nastya, and 'kissing' changes to match. The small word in front of the place means 'right there'."),
+    (6, None, "'I wanted to sleep all day yesterday.' Max's excuse is built just like English, 'wanted' and then 'to sleep'. His 'wanted' ends in a consonant because he is a man. A woman would add an 'a'."),
+    (7, None, "'By the way, technically she is not yours yet.' 'by the way' is the one you use to slip in a point you hope the other person ignores. Then comes 'yet', which in another setting also means 'bye', as in the goodbye you'll hear at the end."),
+    (8, None, "'For me that does not matter.' Literally it's 'does not have significance'. You can use the whole chunk to wave anything away, and it works for 'it doesn't matter' in nearly any situation."),
+    (9, None, "'There is nothing between me and Nastya!' Russian says 'nothing is-not' here, so 'nothing' and 'there isn't' both appear. In English that would be a double negative, but in Russian it is correct. Nastya's name also changes its ending after 'between'."),
+    (10, None, "'You betrayed our friendship, Max.' 'friendship' comes from 'friend', so it's easy to remember. Kostya ends with Max's name, which makes the accusation sound heavier."),
+    (11, None, "'I will prove that she means nothing to me.' 'I will prove' is the key to the line, and Kostya will pick it up in a moment. 'indifferent' is built from 'without' and 'difference', and Russian puts it as 'she to me is indifferent'."),
+    (12, None, "'We will see how you prove it.' Kostya doesn't believe a word. The first word is the standard 'we'll see', and the last is Max's own word for 'prove', now with the ending for 'you'."),
 ]

@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'kostya': 'Костя', 'nastya': 'Настя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.05'
 SOURCE_FILE = 'sources/kukhnya/s01/e05.ru.dual.srt'
-INTRO = "Nastya quickly pulls bartender Kostya away from the bustling restaurant into a quiet storage corner. She wants to make sure nobody can overhear their private conversation. Kostya is curious and ready to assist her with whatever she needs. Let's listen to their brief exchange in Russian first."
-OPENER = "Let's analyze their secret meeting line by line. Notice how the characters establish privacy before sharing their cunning plan."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Nastya sets the stage for her revenge, swearing Kostya to complete secrecy. Keep up the excellent practice with conversational Russian! Next time you watch the episode, listen for the Russian expressions for 'fast' and 'to be' — you will catch every word right away. See you next time!"
+INTRO = "Nastya takes Kostya out of sight, to a quiet corner of the storeroom. She has something to ask him, and she doesn't want anyone to hear. It's in Russian first."
+OPENER = "Let's slow it down. Nastya whispers, Kostya is curious, and the short lines are easy to follow."
+TRANSITION = 'And all of it once more.'
+OUTRO = "Nastya promises and asks for promises in Russian, and you've heard how short those are. 'I promise' is one word. See you next time."
 CLOSING = ('nastya', 'Пока!')
 STORY = [
     ('nastya', 'Всё, тут нам никто не помешает.', 'There, nobody will bother us here.', [(207, 'никто не помешает')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('nastya', 'Скоро ты сам всё отлично поймёшь!', 'Soon you will understand everything perfectly yourself!', [], ''),
 ]
 WALK = [
-    (0, None, "'There, nobody will bother us here.' Nastya ensures they have a secure spot to talk."),
-    (1, None, "'Nastya, why did we come here quickly?' Kostya is curious about the sudden need for secrecy."),
-    (2, None, "'We need to talk quietly without witnesses.' Nastya emphasizes the importance of a private conversation."),
-    (3, None, "'It is indeed very quiet and peaceful here.' Kostya agrees that they are safely hidden away."),
-    (4, None, "'Are you ready to help me a little?' Nastya asks for his cooperation in a special project."),
-    (5, None, "'Of course, I am always glad to help you.' Kostya eagerly offers his unconditional support."),
-    (6, None, "'Only promise not to tell anyone anything.' Nastya swears him to absolute secrecy first."),
-    (7, None, "'I promise, this will be our shared secret.' Kostya promises to keep his mouth shut."),
-    (8, None, "'Great, then listen to me very carefully.' Nastya prepares to outline her complex strategy."),
-    (9, None, "'I am all ears, speak quickly.' Kostya urges her to spill the details."),
-    (10, None, "'We will play out a very clever show!' Nastya reveals her intention to stage a fake scenario."),
-    (11, None, "'Well yeah, I do not understand anything yet.' Kostya admits he is completely lost."),
-    (12, None, "'Soon you will understand everything perfectly yourself!' Nastya promises that everything will make sense shortly."),
+    (0, None, "'There, nobody will bother us here.' The first word is a small one that means 'that's it' or 'right'. 'Nobody will bother' keeps its 'not' even with 'nobody', so it's 'nobody not will bother'."),
+    (1, None, "'Nastya, why did we come here quickly?' 'what for' asks about the purpose, not the cause. 'Came' is a word for arriving on foot, and 'here' is the 'to here' kind."),
+    (2, None, "'We need to talk quietly without witnesses.' 'We need' is 'to us needed'. 'witness' is built on 'to see', so it is someone who has seen."),
+    (3, None, "'It is indeed very quiet and peaceful here.' There is no 'is' in the Russian. It's just 'here really quietly and calmly'. 'Quiet' and 'peaceful' end in 'o'."),
+    (4, None, "'Are you ready to help me a little?' 'Ready' ends in a consonant because it's said to a man. 'Help' is followed by 'to me', as if you were giving help to someone."),
+    (5, None, "'Of course, I am always glad to help you.' 'Glad' is the man's form, and a woman would say it with an 'a' on the end. 'always' is easy to remember, and 'help you' has the same 'to you' shape as before."),
+    (6, None, "'Only promise not to tell anyone anything.' 'Only' starts the line. Then comes 'promise' as a command, and a stack of 'nos': 'to nobody nothing not tell'."),
+    (7, None, "'I promise, this will be our shared secret.' 'I promise' is a single word, in the same family as the command before it. 'Shared' comes from 'common'."),
+    (8, None, "'Great, then listen to me very carefully.' The first word is made from 'excellent'. 'Carefully' comes from 'attention'."),
+    (9, None, "'I am all ears, speak quickly.' It's a fixed phrase, and it means 'I am all in attention'. English says 'all ears', and Russian says 'all attention'."),
+    (10, None, "'We will play out a very clever show!' 'play out' is often used for staging a prank. 'Show' is the word for a stage play, and 'clever' here means sly."),
+    (11, None, "'Well yeah, I don't understand anything yet.' The little word 'yet' is the same as the one in the goodbye. 'Don't understand anything' has the 'nothing' and the 'not' together."),
+    (12, None, "'Soon you will understand everything perfectly yourself!' 'Yourself' is a small word that adds emphasis. 'Will understand' is a single word that means you suddenly get it."),
 ]
