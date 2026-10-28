@@ -28,16 +28,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Hi, Max.' 'Privet' is the casual hello, and it's what Russians say to friends. She adds his name.
-- 'Hi.' Max answers with one word. Sometimes that is enough.
-- 'I want to move to your place.' 'K tebe' is 'to you', Russian for 'to your place'. 'Pereekhat'' is 'to move house'.
-- 'Do you have nowhere to live?' 'Negde zhit' is 'nowhere to live', with one special word, 'negde'. Russians make such 'nowhere to' words with 'ne'.
+- 'Hi.' Max answers with the same word. Russians usually return 'privet' with 'privet'.
+- 'I want to move to your place.' 'K tebe', literally 'to you', is how Russian says 'to your place'. 'Pereekhat' is 'to move house'.
+- 'Do you have nowhere to live?' 'Negde' is 'gde', where, with 'ne' in front: 'there is nowhere'. Add 'zhit' and you have 'nowhere to live', with no 'you' or 'have' needed.
 - 'No, I have a million options.' 'Million' stays the same, and the thing counted takes 'of' in the plural, 'variantov'. 'U menya' is 'at me'.
-- 'Kostya is calling me back.' 'Calls' also means 'invites'. 'Back' is a small word, and 'me' takes the form that follows 'calls'.
+- 'Kostya is calling me back.' 'Zovyot' is 'calls', in the sense of calling someone to come. 'Nazad' is 'back', and 'menya' is 'me'.
 - 'Lyova is also inviting me to live.' 'Priglashaet' is 'invites', followed by 'to live' in its basic shape. 'Tozhe' is 'also'.
-- 'But I am ready to live with you.' 'Ready' has a man's form. The action follows directly.
+- 'But I am ready to live with you.' 'Gotov' is 'ready' with no ending, the man's form; Vika would say 'gotova'. 'Zhit s toboy', to live with you, follows directly.
 - 'What do you want to say?' She asks him directly. It's the Russian for 'what are you getting at?'.
-- 'I want to live with you.' Max keeps it simple, which is rare for him. 'Khochu zhit' is 'I want to live', two words.
+- 'I want to live with you.' 'Khochu zhit s toboy': 'want', 'to live', 'with you'. In the show Max only manages 'v smysle, khochu', 'I mean, I want to'.
 - 'I do not want to be without you.' 'Bez tebya' is 'without you', and 'bez' takes the 'a' form of 'you'. 'Byt' is 'to be'.
-- 'That is very pleasant to hear.' 'Priyatno' is 'pleasant', with no 'is'. 'Slyshat' is 'to hear'.
+- 'That is very pleasant to hear.' 'Priyatno' is 'pleasant', and Russian needs no 'is' here. 'Slyshat' is 'to hear'.
 - 'Really?' One word, 'pravda', the same as 'truth'. Max can hardly believe it.
 - 'Yes, I believe you.' 'Tebe veryu' is 'to you I believe'. In Russian you believe 'to' somebody, so 'you' goes in the 'to' form.

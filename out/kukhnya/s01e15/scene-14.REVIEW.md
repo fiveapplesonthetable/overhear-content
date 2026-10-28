@@ -29,11 +29,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Oh, Viktor Petrovich, you are home.' 'Doma' is 'at home', while 'domoy' is 'homewards'. English uses 'home' for both.
 - 'Thank god.' Literally, 'glory to God', and Russians say it as we say 'thank heavens'. It's a standard phrase.
 - 'I was so afraid that you would leave.' After 'afraid that', Russian keeps the future and says 'that you will leave'. English shifts it to 'would'.
-- 'I was very wrong.' 'Wrong' is the opposite of 'right', with 'ne' stuck on it. Lyova is a man, so there is no ending.
-- 'I should not have kicked you out.' 'Was not supposed to' carries the 'should not have'. The action that follows stays in its basic shape.
+- 'I was very wrong.' 'Neprav' is 'prav', right, with 'ne' stuck on. Lyova is a man, so it has no ending; a woman would say 'neprava'.
+- 'I should not have kicked you out.' 'Ne dolzhen byl', 'not obliged was', gives 'should not have'. 'Vygonyat' is the same 'drive out' verb as 'vygnal', in its imperfective form.
 - 'We have known each other for thousands of years.' 'Acquainted' is a short form. After 'thousands', 'years' takes the special form 'let'.
 - 'Anything can happen.' 'Vsyakoe' means 'all sorts', so 'all sorts can happen'. 'Mozhet sluchitsya' is 'can happen'.
-- 'We just need to ask for forgiveness.' 'To ask' is followed by 'forgiveness' with an 'of' ending. 'Just necessary' stands for 'we just need to'.
-- 'We need to forget this stupid story.' 'Zabyt' is 'to forget'. 'Durtsku' comes from 'durak', fool, and 'istoriyu' is a story or an incident.
+- 'We just need to ask for forgiveness.' 'Poprosit proshcheniya': after 'ask for', 'proshchenie' takes the 'of' ending, 'proshcheniya'. 'Nado prosto', 'necessary just', is 'we just need to'.
+- 'We need to forget this stupid story.' 'Duratskuyu' comes from 'durak', fool, and is the everyday word for 'stupid, silly'. 'Istoriya' is a story, but also an incident, a business.
 - 'I ask for your forgiveness.' 'Proshu u vas proshcheniya' is literally 'I ask of you forgiveness'. It's the full, formal way to apologise.
-- 'Viktor Petrovich, do you hear me?' 'Do you hear' is different from 'to listen'. You can hear without listening.
+- 'Viktor Petrovich, do you hear me?' 'Slyshite' is from 'slyshat', to hear. 'To listen' is 'slushat', one letter different, and easy to mix up.

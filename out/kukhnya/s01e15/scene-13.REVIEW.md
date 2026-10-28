@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What a lowlife I am.' 'Base' is what Russians call someone who behaves meanly. There's a 'what a' at the front and no 'am'.
+- 'What a lowlife I am.' 'Podlyy' means mean, low, a strong word for someone who has behaved badly. 'Kakoy ya' is 'what a I', with no 'am'.
 - 'Lyova, stop putting yourself down.' 'Nagovarivat na sebya' is 'to talk onto oneself', meaning 'to run oneself down'. 'Perestan' is 'stop'.
-- 'I kicked a person out of the home.' 'Drove out' has a 'vy' for 'out'. 'From the house' puts an 'a' on the house.
+- 'I kicked a person out of the home.' 'Vygnal' is 'drove out', and the 'vy' at the front is the 'out'. 'Iz doma', out of the house, puts an 'a' on 'dom' after 'iz'.
 - 'After all, the boss himself is guilty.' Literally, 'in the end of ends', which means 'after all'. 'Himself' points the finger.
 - 'He is guilty, but I feel bad.' 'Mne ploho' is literally 'to me bad', which is Russian for 'I feel bad'. The 'a' at the start is a 'but' that contrasts.
-- 'Why does the boss even live with you?' 'At you' means 'at your place'. 'In general' stands for 'even'.
+- 'Why does the boss even live with you?' 'U tebya', 'at you', means 'at your place'. 'Voobshche', literally 'in general', works like 'even' or 'at all' in a question.
 - 'He left his family.' 'Ushyol' means 'went away', the man's past. Lyova uses 'iz semi' for 'from the family'.
 - 'He left the apartment to them.' 'Im' means 'to them', and 'kvartiru' takes a 'u' because it is what was left. 'Ostavil' is 'left behind'.
 - 'Do you feel sorry for him?' Literally, 'to you him pity', and that is how Russians ask about sympathy. The feeling happens to the person.
 - 'He can be an unbearable person.' 'Byvaet' is 'happens to be', for a tendency. 'Nevynosimym' is built from 'carry', so it's 'un-bearable'.
 - 'But I have no one else.' 'U menya nikogo net' is 'at me nobody not'. 'Nikogo' is the 'no one' in the form it takes after 'net'.
-- 'Close people should not be scattered.' The 'sya' makes it 'throw yourself around'. 'It's not worth' is the phrase for 'shouldn't'.
-- 'In the end, one can stay alone.' 'In the sum' is a useful phrase for concluding. 'Alone' takes a 'u' form after 'stay'.
+- 'Close people should not be scattered.' 'Razbrasyvatsya' with someone means to throw them away carelessly, and the people go into the 'with' form, 'blizkimi lyudmi'. 'Ne stoit', 'it isn't worth', is a soft 'you shouldn't'.
+- 'In the end, one can stay alone.' 'V itoge', 'in the total', is 'in the end'. 'Ostatsya odnomu' is 'to stay alone', with 'odin' changed to 'odnomu'.
 - 'It is time for me to go to a close person.' 'To me time' stands for 'it's time for me'. 'To a close person' uses 'k' for 'towards'.

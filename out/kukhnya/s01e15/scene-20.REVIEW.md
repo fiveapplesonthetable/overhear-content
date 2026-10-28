@@ -26,14 +26,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Does this worry you too?' Russian makes the worried person the object, so 'you' takes the 'tebya' form. The word for 'too' is 'tozhe'.
-- 'What exactly?' 'Chto imenno' is a phrase that asks for the specific thing. It's the shortest way to ask for details.
+- 'What exactly?' 'Imenno' is 'exactly', 'namely', and 'chto imenno' asks for the specific thing.
 - 'For example, will Max come or not?' The word 'naprimer' means 'for example'. The phrase 'or not' ends a yes-or-no question.
 - 'I think he will come.' 'Ya dumayu' is 'I think'. 'Pridyot' is 'will arrive' in a single word, with no separate 'will'.
-- 'He loves our kitchen.' The thing loved takes an 'u' ending. Senya speaks about the room as if it were a person.
+- 'He loves our kitchen.' 'Kukhnya' becomes 'kukhnyu' because it is what he loves, and 'nasha' changes to 'nashu' to match.
 - 'And he loves to work.' 'Lyubit rabotat' is 'loves to work', two verbs together. It is the most natural way to say you like doing something.
 - 'And what about the chef?' 'A kak zhe' is 'and how then', a handy way to ask 'what about...?'.
 - 'The chef will forgive him.' The word 'prostit' means 'will forgive', and 'ego' is the word for 'him'. Senya is confident.
-- 'They will make peace.' 'Pomiryatsya' comes from 'mir', peace, with 'sya' for 'each other'. Reconciliation is something that two people do.
+- 'They will make peace.' 'Pomiryatsya' is built on 'mir', peace, with 'sya' for 'with each other'. 'Mir' also means 'world'.
 - 'Of course they will make peace.' Senya repeats the verb as his answer. Russians do it all the time, instead of a flat 'yes'.
-- 'Then everything will be fine.' Russian says 'then everything will be well', using 'khorosho' for 'fine'. It is the standard comfort, and Senya says it with a shrug.
-- 'Yes, we are just waiting.' 'We wait' means 'we are waiting'. The episode ends with waiting.
+- 'Then everything will be fine.' 'Togda' is 'then', in the sense 'in that case'. 'Vsyo budet khorosho' is literally 'all will be well'.
+- 'Yes, we are just waiting.' 'Zhdyom' is 'we wait', and the Russian present also covers 'we are waiting'. 'Prosto' is 'just'.

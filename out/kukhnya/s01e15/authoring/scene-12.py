@@ -11,9 +11,9 @@ LABELS = {'barinov': 'Шеф', 'lyova': 'Лёва'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.15'
 SOURCE_FILE = 'sources/kukhnya/s01/e15.ru.dual.srt'
 INTRO = 'Lyova is standing outside the bathroom, and he has had enough of his flatmate. He tells Barinov through the door that he must leave. Listen in Russian first.'
-OPENER = 'Once more, one line at a time.'
+OPENER = "Slowly now, line by line."
 TRANSITION = 'And the scene again, uninterrupted.'
-OUTRO = 'Barinov starts packing, and Lyova waits to hear the door. Does Barinov really leave? Talk soon.'
+OUTRO = "Barinov starts packing, and Lyova waits to hear the door. Does Barinov really leave? We'll find out."
 CLOSING = ('lyova', 'Пока!')
 STORY = [
     ('lyova', 'Открывай, нам надо поговорить.', 'Open up, we need to talk.', [(288, 'Открывай, поговорить надо.')], ''),
@@ -30,9 +30,9 @@ STORY = [
     ('lyova', 'Ключи оставь на столе.', 'Leave the keys on the table.', [], ''),
 ]
 WALK = [
-    (0, None, "'Open up, we need to talk.' The order 'open!' sounds like a knock. 'To us necessary' stands for 'we need'."),
-    (1, None, "'Lyova, what do you want?' 'Chto ty khochesh' is 'what you want'. Barinov's voice is muffled and calm."),
-    (2, None, "'I want to tell you one thing.' 'One thing' takes the form for the thing told. 'To say to you' follows."),
+    (0, None, "'Open up, we need to talk.' 'Otkryvay' is the order 'open!', in the form that sounds like 'come on, open up'. 'Nam nado', 'to us needed', is 'we need'."),
+    (1, None, "'Lyova, what do you want?' 'Khochesh' is 'you want', with the 'esh' ending that goes with 'ty'. The two of them are on 'ty' terms here."),
+    (2, None, "'I want to tell you one thing.' 'Odna veshch' becomes 'odnu veshch' because it is the thing being told. 'Veshch' also means a physical thing, an object."),
     (3, None, "'So that your foot is no longer in my house.' This is an idiom: 'chtoby nogi tvoey ne bylo' is 'let your foot not be', which means 'never set foot'. 'Nogi' takes the 'of' ending after 'not be'."),
     (4, None, "'Today pack your things and leave.' 'Segodnya zhe' is 'today, right now'. The little 'zhe' stresses the immediacy. 'Sobiray' and 'uezzhay' are two orders joined by 'i'."),
     (5, None, "'You no longer live with me and Mom.' Russians say 'at us with Mom' for 'with me and Mom'. 'Bolshe ne zhivyosh'' is 'no more you live'."),
@@ -40,6 +40,6 @@ WALK = [
     (7, None, "'Yes, sure.' 'Da pozhaluysta' sounds polite, but here it means 'fine, be my guest'. The tone makes all the difference."),
     (8, None, "'As if I need it.' 'Ochen mne nado' is 'very to me necessary', which in the right voice means the opposite: 'as if I cared'. Russian has sarcasm built in."),
     (9, None, "'I am waiting until you leave.' 'Poka' means both 'while' and 'until'. Here it takes the plain future, 'you will leave', which in English would be 'until you leave'."),
-    (10, None, "'I am already leaving.' 'Already' comes before the action. Barinov has given up, and two words say it."),
-    (11, None, "'Leave the keys on the table.' Keys are always plural. 'Leave!' is the order, and 'on the table' follows."),
+    (10, None, "'I am already leaving.' 'Ukhozhu' is 'I am leaving', from 'ukhodit'. 'Uzhe', already, comes before it."),
+    (11, None, "'Leave the keys on the table.' 'Klyuchi' is the plural of 'klyuch', key. 'Ostav' is the order 'leave!', and 'na stole' is 'on the table', with the 'e' ending for where something is."),
 ]
