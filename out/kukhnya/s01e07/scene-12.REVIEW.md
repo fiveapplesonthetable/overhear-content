@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'So the sauce turned out very tasty, Max?' The Russian for 'turned out' ends in 'sya', a little tail that Russian puts on verbs where the thing happens to itself. The sauce 'turned itself out' tasty.
-- 'Chef, we all thought that it was good.' 'We all' is two short words. 'It' is 'he' in Russian, because 'sauce' is a he-word.
-- 'You foolishly lied to me straight in my face!' 'lied' is assembled from a prefix and 'say'. 'In the face' uses the plain word for 'face'.
-- 'We simply did not want to upset you badly.' 'Did not want' is the past plural. 'Upset' has no 'sya' here, because Barinov is the one who gets upset.
-- 'I sincerely trusted all of you always!' 'Trusted' comes from 'faith'. 'To all of you' is two words in the 'to' form.
-- 'Forgive us, chef, this will never happen again.' 'Forgive' is the courteous command. 'Repeat itself' carries the 'sya' tail too, so it is literally 'it will not repeat itself'.
-- 'From today on, tell me only the truth.' 'From today's day' is the Russian for 'from today on'. 'Tell' is a command in the plural.
-- 'We promise to always tell the pure truth.' The term for 'we promise' has the 'em' ending that means 'we'. 'Pure' is literally 'clean', so Max promises a clean truth.
-- 'There will be no more foolish deceit in my kitchen!' The start is a strong 'none at all', and the thing that is missing goes into the 'of' form. So Russian says 'no more of foolish deceit'.
-- 'We understood your strict main lesson.' 'We understood' is the past plural. 'Main' is taken from 'head'.
-- 'And if someone lies, I will fire them immediately!' 'Someone' is the expression for 'who' with a tiny 'to' stuck on the end. 'I will fire' is one word, and Barinov says it without a pause.
-- 'We are immediately beginning our new work.' 'Immediately' is a formal-sounding word, a bit like 'without delay'. The Russian for 'we begin' ends in 'em', which is the 'we' ending.
+- 'So the sauce turned out very tasty, Max?' "Poluchilsya", 'turned out', wants the 'with' ending on what follows: vkusnym, not vkusnyy. "Znachit", 'so', literally means 'it means'.
+- 'Chef, we all thought that it was good.' On, 'he', stands for the sauce, because sous is masculine. "Dumali" ends in -li, the plural past, for my vse, 'we all'.
+- 'You foolishly lied to me straight in my face!' "Sovrali" is the completed partner of vrat', to lie, with so- in front. "Pryamo v litso", 'straight into the face', works just like the English idiom.
+- 'We simply did not want to upset you badly.' "Rasstroit'" is to upset someone else; with -sya, rasstroit'sya, it would mean getting upset yourself. Vas is Max's polite 'you' for the chef.
+- 'I sincerely trusted all of you always!' "Doveryat'", to trust, works like envy, aimed 'to' someone: vam vsem, 'to you all'. Zhe after ya adds 'after all', which turns the line into a reproach.
+- 'Forgive us, chef, this will never happen again.' "Prostite" is the polite or plural command of prostit', to forgive. "Povtoritsya" is literally 'will repeat itself'.
+- 'From today on, tell me only the truth.' S segodnyashnego dnya is literally 'from today's day'. "Govorite" is plural, because Barinov is talking to all the cooks.
+- 'We promise to always tell the pure truth.' "Obeshchaem" is the 'we' form of obeshchat', to promise. "Chistaya pravda", literally 'clean truth', is the honest truth, and as the thing told it becomes chistuyu pravdu.
+- 'There will be no more foolish deceit in my kitchen!' "Nikakogo"... net means 'none at all', and what's missing goes into its 'of' form: glupogo obmana. Kitchens take na, so it's na moyey kukhne.
+- 'We understood your strict main lesson.' "Glavnyy", 'main', is related to glava, a head or a chapter. "Urok" is a school lesson as well as one learned the hard way.
+- 'And if someone lies, I will fire them immediately!' "Kto-to", 'someone', is kto, 'who', plus -to. "Uvolyu", 'I will fire', is the 'I' future of uvolit', to dismiss.
+- 'We are immediately beginning our new work.' "Nemedlenno", 'immediately', sounds a little official, like 'without delay'. "Nachinaem", 'we begin', is from nachinat'.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Nastya, welcome to my apartment.' The opening phrase is the formal word for 'welcome', and it is literally close to 'good to come'. Kostya uses it to sound like a host.
-- 'It is quite cozy and clean here with you.' 'At you here' is the Russian way to say 'in your place'. The term for 'cozy' is pieced together from the word for 'comfort'.
-- 'Well, more precisely, this apartment is rented.' 'More precisely' is a handy phrase for correcting yourself. 'Rented' is made from 'take', as a tenant takes a flat.
-- 'Here is a couch, a chair, a soft pillow.' A list with 'here is' needs no verbs. Each noun just follows the last.
-- 'Kostya, I can see all this perfectly.' 'I see' is irregular, and a 'zh' sound appears. 'Perfectly' comes from 'excellent'.
-- 'Come in quickly and sit on the couch.' The word for 'sit' ends in 'sya', so it is literally 'seat yourself'. 'Onto the couch' takes the ending that means movement.
-- 'Oh, and what is that down there?' The little 'a' at the start means 'and' or 'but' and softens the question.
-- 'My God, that is a dead mouse!' 'My God' is the usual exclamation. 'dead' agrees with 'mouse', which counts as a she-word.
-- 'Kostya, you are a real cruel murderer!' 'The most real' is a way of saying 'a complete'. 'Murderer' comes from 'to kill'.
-- 'You destroyed a little defenseless mouse!' 'Defenseless' is 'without' plus 'protection'. 'Destroyed' is a strong word, used for ruin.
-- 'Nastya, but this is an ordinary mousetrap!' 'mousetrap' is a compound of 'mouse' and 'catching', so it literally means 'mouse-catcher'.
-- 'You are still sitting and calmly smiling?!' 'Still' sits before 'sitting'. 'smiling' ends in 'sya', so it is literally 'smiling oneself'.
-- 'You acted like a real monster!' 'Acted' is a word you can use for any behaviour. 'Like' introduces the comparison, and 'monster' is borrowed.
+- 'Nastya, welcome to my apartment.' "Dobro pozhalovat'", 'welcome', is a set phrase, close to 'kindly come in'. After it, v takes the object form: v moyu kvartiru.
+- 'It is quite cozy and clean here with you.' U tebya, 'at you', means 'at your place'. "Uyutno", 'cozy', comes from uyut, comfort and homeliness.
+- 'Well, more precisely, this apartment is rented.' "Tochneye", 'more precisely', is the comparative of tochno, a neat way to correct yourself. "S'yomnaya", 'rented', comes from snyat', the verb Max used when he asked Nastya where to rent.
+- 'Here is a couch, a chair, a soft pillow.' After vot, 'here is', a list of nouns needs no verb. "Myagkaya", 'soft', ends in -aya because podushka is feminine.
+- 'Kostya, I can see all this perfectly.' "Vizhu", 'I see', swaps the d of videt' for zh. Russian needs no 'can' here: ya vizhu is just 'I see'.
+- 'Come in quickly and sit on the couch.' "Prokhodi", literally 'go through', is what a host says at the door. "Sadis'" na divan uses the object form after na, because she is moving onto it.
+- 'Oh, and what is that down there?' The little a softens the question, like 'and so'. "Vnizu" means 'down below', with no movement.
+- 'My "God", that is a dead mouse!' "Bozhe moy", 'my "God'", uses an old calling form of "Bog", "God". "Mysh'", mouse, is feminine, so 'dead' is myortvaya.
+- 'Kostya, you are a real cruel murderer!' "Samyy nastoyashchiy", 'the most real', works like 'an out-and-out'. "Ubiytsa", 'murderer', comes from ubit', to kill, and ends in -a even for a man.
+- 'You destroyed a little defenseless mouse!' "Bezzashchitnaya", 'defenceless', is bez, 'without', plus zashchita, protection; as the object it becomes bezzashchitnuyu. "Pogubil" is a heavy word for ruining a life.
+- 'Nastya, but this is an ordinary mousetrap!' "Myshelovka" joins mysh', mouse, and lovit', to catch. "Obychnaya", 'ordinary', comes from obychay, a custom.
+- 'You are still sitting and calmly smiling?!' "Yeshchyo" here is indignant, like 'on top of everything'. "Ulybaesh'sya" is the ty form; in the kitchen, Max used the polite ulybaetes' with the chef.
+- 'You acted like a real monster!' "Postupil", 'acted', describes how someone behaves, good or bad. "Kak", 'like', brings in the comparison, and monstr is the English 'monster'.

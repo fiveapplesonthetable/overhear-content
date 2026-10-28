@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, do not worry so much!' 'Don't worry' is 'not' plus a polite command. 'You' is added for emphasis, which isn't needed but sounds warm.
-- 'How not to worry? I lost my sense of taste!' 'How not to' is a neat phrase: 'how could I not'. 'Taste' is the same word as 'flavour'.
-- 'Everything will definitely be fine and calm.' 'Will be good' needs no word for 'good', only 'well'. 'Definitely' comes from 'obliged'.
-- 'I cannot prepare the signature sauce.' 'Signature' means 'the house's own'.
-- 'We will help you, the whole team is with you!' 'Help' takes 'you' in the 'to' form. 'The whole team' is 'all team'.
-- 'But you do not know the exact recipe.' 'Exact' is a short describing word. 'Recipe' is borrowed.
-- 'Direct us, command our every step!' 'Direct' and 'command' are polite commands. 'By every step' ends in 'om'.
-- 'Has the broth already boiled for this sauce?' 'Boiled' ends in 'sya', so the broth boiled by itself. 'Broth' is borrowed from French.
-- 'The broth is ready, and fresh vegetables are chopped.' 'Chopped' is a plural form, because 'vegetables' is plural. 'Ready' agrees with 'broth'.
-- 'Who then will taste the finished dish?' 'Who then' has a small word that adds impatience. 'Finished' is the same word as 'ready'.
-- 'We will taste everything carefully ourselves!' 'Ourselves' is a plural word that stresses the team. 'Carefully' is related to 'attention'.
-- 'To work then, everything will turn out well for us!' 'To work' is a short call to action. 'Will turn out' ends in 'sya'.
-- 'Of course, Chef, we will not let you down!' 'Let down' is the 'lead under' verb again. 'We' form ends in 'em'.
+- 'Chef, do not worry so much!' Ne perezhivayte is the polite command 'don't worry'. Lyova adds vy after it, which Russians do to sound warmer.
+- 'How not to worry? I lost my sense of taste!' "Kak ne perezhivat'", 'how not to worry', is Barinov's 'how could I not?'. "Vkus" is both taste and the sense of taste.
+- 'Everything will definitely be fine and calm.' "Budet khorosho", 'it will be good', uses the adverb khorosho, not an adjective. "Obyazatel'no", 'definitely', comes from obyazan, 'obliged', the word Barinov used to the owner.
+- 'I cannot prepare the signature sauce.' "Firmennyy" sous is the very sauce Nagiyev came to taste. Ne mogu, 'I can't', is from moch'.
+- 'We will help you, the whole team is with you!' "Pomoch'", to help, needs vam, 'to you', since you give help to someone. S vami, 'with you', uses the 'with' ending of vy.
+- 'But you do not know the exact recipe.' "Tochnyy", 'exact', comes from tochka, a point or dot. "Retsept" means a recipe and also a doctor's prescription.
+- 'Direct us, command our every step!' "Upravlyat'" and komandovat' both put what is being run into the 'with' form: nami, 'us', and kazhdym nashim shagom, 'our every step'.
+- 'Has the broth already boiled for this sauce?' "Svarilsya", 'has boiled', ends in -sya because the broth cooked by itself. "Bul'on" is the French bouillon.
+- 'The broth is ready, and fresh vegetables are chopped.' "Narezany", 'chopped', has plural -y to match ovoshchi, vegetables. "Gotov", 'ready', is the short masculine form, to match bul'on.
+- 'Who then will taste the finished dish?' Zhe after kto adds impatience, like 'who on earth'. "Gotovoye", 'finished', is the full neuter form of gotov, to match blyudo.
+- 'We will taste everything carefully ourselves!' "Sami", 'ourselves', is the plural of sam. "Budem probovat'" is the ongoing future, budem plus the infinitive: 'we will be tasting'.
+- 'To work then, everything will turn out well for us!' Za rabotu, 'to work', is a set call to get started. U nas vsyo poluchitsya, 'at us all will turn out', means 'we'll manage'.
+- 'Of course, Chef, we will not let you down!' Ne podvedyom, 'we won't let you down', echoes the ne podvedite Nagiyev said to the chef. Vas is the polite 'you' for the chef.

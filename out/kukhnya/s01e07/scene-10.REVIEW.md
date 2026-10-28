@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dmitry, right now you will taste a masterpiece!' 'Masterpiece' comes from French and keeps its shape in Russian. Barinov uses the casual 'you' with his boss, which tells you how well they know each other.
-- 'Viktor, are you praising yourself again?' 'Praise' is followed by 'yourself' in a changed form. 'Again' carries the teasing.
-- 'This is a real culinary work of art!' 'Work of art' is rooted in the Russian for 'to produce'. 'Of art' puts an 'a' on the end, which is Russian for 'of'.
-- 'I cannot wait to taste your sauce.' Russian says 'to me it is not endured', which is a fixed way of saying 'I can't wait'. 'Taste' is a slightly old-fashioned word.
-- 'I was preparing this sauce all morning.' 'All morning' has no word for 'during', just 'all' and 'morning'. The long kind of past is used here, meaning 'was preparing'.
-- 'I hope you put the right spices.' 'Spices' is a plural word. 'Put in' is the finished kind of 'put', as in 'did you put them in'.
-- 'There are only the freshest ingredients there.' 'Freshest' is 'most fresh'. 'Ingredients' is borrowed from French.
-- 'The aroma is indeed very pleasant and subtle.' 'Subtle' is the Russian word for 'thin', the same word as for a thin blade. 'Pleasant' comes back at the very end of the scene.
-- 'One piece of meat will change everything.' 'Little piece' adds an 'ochek' ending that makes it small. 'Of meat' ends in 'a'.
-- 'Do not exaggerate, give me a fork.' 'Don't exaggerate' is 'not' plus a command. 'Fork' has a changed ending because it's the thing he wants.
-- 'First try the sauce with bread.' 'With bread' ends in 'om', which is the ending 'with' asks for. 'First' is put together from 'from the beginning'.
-- 'Alright, let us begin this tasting.' 'Tasting' is borrowed. 'Let us begin' is the form that ends in 'em'.
-- 'Bon appetit, my dear owner!' The Russian phrase is literally 'pleasant appetite'. 'Dear' also means 'expensive'.
+- 'Dmitry, right now you will taste a masterpiece!' "Shedevr" is the French chef-d'oeuvre, borrowed whole. Barinov uses ty with the owner; the two men have known each other a long time.
+- 'Viktor, are you praising yourself again?' Sebya, 'yourself', has the same form for every person: I praise sebya, you praise sebya. "Snova" means 'again'.
+- 'This is a real culinary work of art!' "Proizvedeniye iskusstva" is literally 'a product of art', with iskusstvo taking -a for 'of'. "Kulinarnoye" ends in -oye to match proizvedeniye, which is neuter.
+- 'I cannot wait to taste your sauce.' "Mne ne terpitsya" is literally 'to me it can't be endured', a fixed way to say 'I can't wait'. "Otvedat'", to taste, is old-fashioned and a little grand, and what you taste gets the 'of' ending: sousa.
+- 'I was preparing this sauce all morning.' "Vsyo utro", 'all morning', works without any 'during'. "Gotovil", the ongoing kind of past, shows the cooking took time.
+- 'I hope you put the right spices.' "Nadeyus'", 'I hope', ends in -s', short for -sya. "Polozhil" is the past of polozhit', to put something down or put it in.
+- 'There are only the freshest ingredients there.' "Samye svezhie" is 'the most fresh'. "Ingrediyenty" looks just like the English word.
+- 'The aroma is indeed very pleasant and subtle.' "Tonkiy" means thin, and for a smell or taste it means subtle. It's the word the salesman at the market used for his thin blade.
+- 'One piece of meat will change everything.' "Kusochek" is a small piece, from kusok with a diminutive ending. "Myaso" becomes myasa, 'of meat'.
+- 'Do not exaggerate, give me a fork.' Day is the command 'give', and day mne, 'give me', is worth keeping. "Vilka", a fork, becomes vilku as the thing he wants.
+- 'First try the sauce with bread.' S khlebom, 'with bread', adds -om after s. "Snachala", 'first', is literally 'from the beginning'.
+- 'Alright, let us begin this tasting.' "Davay nachnyom" is 'let's begin', the davay pattern again. "Degustatsiya", a tasting, sounds like the English 'degustation'.
+- 'Bon appetit, my dear owner!' "Priyatnogo appetita", 'of pleasant appetite', is short for 'I wish you a pleasant appetite'. "Khozyain" is the male owner, the partner of khozyayka, the landlady in Nastya's story.
