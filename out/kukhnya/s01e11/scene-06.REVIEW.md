@@ -10,14 +10,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Костя | Шеф, внимание! На кухне чрезвычайная ситуация. | Chef, attention! An emergency situation in the kitchen. | #72: внимание | verbatim |
+| 1 | Костя | Шеф, внимание! На кухне чрезвычайная ситуация. | Chef, attention! An emergency situation in the kitchen. | #72 00:05:08: внимание | verbatim |
 | 2 | Шеф | Костя, что случилось в зале? | Kostya, what happened in the dining room? | new | new |
-| 3 | Костя | Обнаружен предполагаемый ресторанный критик! | A suspected restaurant critic has been spotted! | #73: Обнаружен предполагаемый критик. | verbatim |
-| 4 | Костя | Она сидит за седьмым столиком. | She is sitting at table seven. | #74: сидит за седьмым столиком. | verbatim |
-| 5 | Костя | И у меня отказ от салата! | And I have a salad rejection! | #75: У меня отказ от салата. | verbatim |
-| 6 | Шеф | Как отказ? Мой идеальный салат? | How, a rejection? My perfect salad? | #76: Как отказ? | verbatim |
+| 3 | Костя | Обнаружен предполагаемый ресторанный критик! | A suspected restaurant critic has been spotted! | #73 00:05:09: Обнаружен предполагаемый критик. | verbatim |
+| 4 | Костя | Она сидит за седьмым столиком. | She is sitting at table seven. | #74 00:05:11: сидит за седьмым столиком. | verbatim |
+| 5 | Костя | И у меня отказ от салата! | And I have a salad rejection! | #75 00:05:13: У меня отказ от салата. | verbatim |
+| 6 | Шеф | Как отказ? Мой идеальный салат? | How, a rejection? My perfect salad? | #76 00:05:17: Как отказ? | verbatim |
 | 7 | Костя | Она вернула тарелку назад, шеф. | She sent the plate back, chef. | new | new |
-| 8 | Шеф | Какой столик? Точно седьмой? | Which table? Definitely the seventh? | #77: Какой столик? Седьмой. | verbatim |
+| 8 | Шеф | Какой столик? Точно седьмой? | Which table? Definitely the seventh? | #77 00:05:19: Какой столик? Седьмой. | verbatim |
 | 9 | Костя | Да, строгая дама в очках. | Yes, a strict lady in glasses. | new | new |
 | 10 | Шеф | Что именно ей не понравилось? | What exactly did she not like? | new | new |
 | 11 | Вика | Сказала, что соус слишком кислый. | She said the sauce was too sour. | new | new |
@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, attention! There is an emergency in the kitchen.' Kostya calls for the chef's attention because there is an emergency in the kitchen. He is panicking. 'Chrezvychaynaya situatsiya' means emergency situation.
-- 'Kostya, what happened in the dining room?' Barinov asks the bartender what happened in the dining room. He wants to know the problem. 'V zale' refers to the dining area.
-- 'A presumed restaurant critic has been spotted!' Kostya announces a presumed restaurant critic has been spotted. He uses 'obnaruzhen' meaning discovered. It sounds like a military report.
-- 'She is sitting at table seven.' Kostya says she is sitting at table seven. He gives her exact location. The tension is rising.
-- 'And I have a refusal of the salad!' Kostya reveals he has a refusal of the salad. Someone sent food back. 'Otkaz' means a refusal or rejection.
-- 'What do you mean a refusal? My perfect salad?' Barinov is shocked and asks how someone could refuse his perfect salad. His pride is hurt. 'Idealnyy salat' means perfect salad.
-- 'She sent the plate back, chef.' Kostya confirms she returned the plate back to the kitchen. This is very bad news. 'Vernula tarelku' means returned the plate.
-- 'Which table? Definitely the seventh?' Barinov asks which table and if it is definitely the seventh. He needs to be sure. 'Tochno' means exactly or for sure.
-- 'Yes, a stern lady in glasses.' Kostya confirms it is the stern lady in glasses. He describes her appearance. 'V ochkakh' means wearing glasses.
-- 'What exactly did she dislike?' Barinov wants to know what exactly she disliked. He is ready to defend his food. 'Chto imenno' means what exactly.
-- 'She said that the sauce is too sour.' Vika explains she said the sauce is too sour. That is her specific complaint. 'Slishkom kislyy' means too sour.
-- 'This is a signature recipe of haute cuisine!' Barinov protests that this is a signature recipe of haute cuisine. He thinks she does not understand good food. 'Avtorskiy retsept' means author's recipe.
-- 'Chef, she has already opened a notepad.' Kostya warns the chef that she has already opened a notepad. This means she is writing a bad review. This is the worst sign.
-- 'I personally will make dessert for her!' Barinov declares he will personally make dessert for her. He wants to fix the situation himself. 'Lichno prigotovlyu' means I will personally prepare.
+- 'Chef, attention! An emergency situation in the kitchen.' What Russian calls "emergency" is a long, official word, literally "extraordinary". Kostya uses it to sound serious, and he is enjoying the big words.
+- 'Kostya, what happened in the dining room?' Barinov is calm for a moment. It's the quiet before the shout. "What happened" is a phrase you know well by now, and "in the hall" is the dining room.
+- 'A suspected restaurant critic has been spotted!' The grammar is bureaucratic: "has been discovered a supposed critic". Kostya sounds like a police bulletin, and he knows it. The joke is in the formality.
+- 'She is sitting at table seven.' Russians sit "behind" a table, so the Russian is "behind the seventh little table". Kostya reports the precise position, like a lookout.
+- 'And I have a salad rejection!' "At me a refusal" is how Russian says "I have one". A "refusal" is the waiters' term for a dish sent back, and it's a serious word in a kitchen.
+- 'How, a rejection? My perfect salad?' Barinov repeats "refusal" with a rising voice. "Perfect" is the word "ideal" with a Russian ending. The chef thinks his salad faultless, and his pride is hurt.
+- 'She sent the plate back, chef.' The Russian for "gave back" is the one used for returning things. "Back" is the one in "half an hour ago". Kostya is nervous, and the plain words show it.
+- 'Which table? Definitely the seventh?' Barinov wants to be sure he has the right guest. "Definitely" is the word he used about everything today. He is already planning how to win her back.
+- 'Yes, a strict lady in glasses.' The term for "lady" is a formal one, borrowed from French. And glasses are always plural in Russian, so it's "in glasses", never "in a glass". Kostya gives a quick, clear description.
+- 'What exactly did she not like?' Russian says "what exactly to her did not please", the same pattern as "do you like it". Barinov wants details, and he wants them now.
+- 'She said the sauce was too sour.' Vika joins in with the complaint. "Too" is the little word you've heard in "too slowly". She passes it on plainly, as a manager does.
+- 'This is an author recipe of haute cuisine!' "By an author" is the Russian way to say "signature". Haute cuisine is "high kitchen". Barinov defends his work like an artist. He is wounded.
+- 'Chef, she has already opened a notepad.' A critic's notepad opens, and the chef's heart drops. Kostya reports it like a weather forecast. "Opened" ends in -la because the woman did the opening.
+- 'I will personally prepare her a dessert!' Barinov's answer to everything is food. "Personally" shows he'll do it himself, and "for her" is one small word. He means to charm her with sugar.

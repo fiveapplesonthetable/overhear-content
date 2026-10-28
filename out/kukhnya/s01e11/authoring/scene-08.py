@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'guest': 'Гость', 'kostya': 'Костя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.11'
 SOURCE_FILE = 'sources/kukhnya/s01/e11.ru.dual.srt'
-INTRO = "At the Claude Monet bar counter, an exhausted and hungover visitor approaches bartender Kostya. Relieved to recover the mobile phone he left behind the night before, he unburdens his romantic sorrows to the sympathetic bartender. Let's listen to their friendly bar exchange in Russian."
-OPENER = "Now let's examine how Kostya assists the forgetful guest at the bar line by line."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Comforted by the bartender's hospitality, the customer rests at the bar before facing the rest of his day. Next time you watch the episode, listen for the Russian expressions for 'bartender' and 'to come back' — you will catch every word right away. See you next time!"
+INTRO = 'At the bar, a customer arrives who has been there before. He is hungover, looking for his phone, and Kostya is the person he asks. The Russian comes first.'
+OPENER = "We'll take it a bit at a time."
+TRANSITION = 'And again, the whole conversation.'
+OUTRO = 'The phone is found, and the customer has a drink on the house. Kostya has a kind heart, and he is about to be rewarded for it. On to the next.'
 CLOSING = ('guest', 'Пока!')
 STORY = [
     ('guest', 'Привет! Как твои дела, бармен?', 'Hello! How are things, bartender?', [(100, 'Здрасте.')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('guest', 'Спасибо тебе за доброту, дружище!', 'Thank you for your kindness, buddy!', [(111, 'Спасибо тебе, дружище.')], ''),
 ]
 WALK = [
-    (0, None, "'Hello! How are things, bartender?' The guest says hello and asks how things are with the bartender. He is friendly. He calls the bartender 'barmen'."),
-    (1, None, "'Hello! How are you feeling today?' Kostya says hello and asks how he is feeling today. He remembers the man was drinking yesterday. 'Chuvstvuete' relates to feeling."),
-    (2, None, "'Ugh, today I feel worse than yesterday.' The guest groans that today he feels worse than yesterday. He has a hangover. 'Khuzhe chem vchera' means worse than yesterday."),
-    (3, None, "'Did you happen to find my phone?' The guest asks if he happened to find his phone. He lost it while drinking. 'Sluchayno ne nakhodil' means did not happen to find."),
-    (4, None, "'Yes, I found it near the counter.' Kostya confirms he found it near the counter. He is being helpful. 'Vozle stoyki' means near the bar counter."),
-    (5, None, "'Huge thanks for the help, friend!' The guest gives huge thanks for the help, calling him a friend. He is very relieved. 'Ogromnoe spasibo' means huge thanks."),
-    (6, None, "'Tell me honestly, did my girlfriend not call?' The guest asks him to tell honestly if his girlfriend called. He is worried he missed her call. 'Skazhi chestno' means tell honestly."),
-    (7, None, "'No, no one has called here yet.' Kostya replies no one has called there yet. The phone has been quiet. 'Poka nikto' means no one yet."),
-    (8, None, "'She has not returned from Saratov yet.' The guest mentions she has not returned from another city yet. He is explaining why she might call. He is referring to another Russian city."),
-    (9, None, "'Yesterday you spoke about her for a long time.' Kostya notes he spoke about her for a long time yesterday. The man was very talkative while drunk. 'Dolgo govorili' means talked for a long time."),
-    (10, None, "'Yes, my memory is slowly returning to me.' The guest admits his memory is slowly returning to him. He was very drunk. 'Medlenno vozvrashchaetsya' means slowly returning."),
-    (11, None, "'Here is a drink for you on the house.' Kostya offers a drink on the house. He is being a good bartender. 'Za schyot zavedeniya' means at the establishment's expense."),
-    (12, None, "'Thank you for your kindness, buddy!' The guest thanks his buddy for his kindness. He appreciates the free drink. 'Dobrotu' means kindness."),
+    (0, None, '\'Hello! How are things, bartender?\' The guest says "ty" to the bartender, casual and friendly, since he has been drinking here. "Barmen" is "barman" in Russian letters. And "how your affairs" is the usual opening.'),
+    (1, None, '\'Hello! How are you feeling today?\' Kostya answers politely, with "vy". Russian says "how yourself you feel", with a separate little word for "yourself". It\'s the same idea as the -sya ending.'),
+    (2, None, '\'Ugh, today I feel worse than yesterday.\' This is the "than" word, which is used when the comparison is not a plain noun. "Worse" is a short, irregular form. The guest groans. He had too much last night.'),
+    (3, None, '\'Did you happen to find my phone?\' "By chance" is built from the root of "happen". It\'s a polite way to ask. The guest hopes Kostya has seen it, and he looks around the bar as he says so.'),
+    (4, None, '\'Yes, I found it near the counter.\' The counter of a bar is a word related to "stand". Kostya is helpful, as always. "Near" and "of the counter" give the position, the ending on "counter" doing the "of".'),
+    (5, None, '\'Huge thanks for the help, friend!\' "Huge thank-you" is the usual Russian for "thanks a lot". "For help" is two small words. The guest is relieved, because losing a phone is no joke.'),
+    (6, None, '\'Tell me honestly, did my girlfriend not call?\' The term for "girl" also means "girlfriend", so context decides. "Say honestly" is two short words. The guest asks nervously, because he has been waiting for a call.'),
+    (7, None, '\'No, no one has called here yet.\' Notice how the little word that means "while" and "bye for now" also means "yet" here. "Nobody not rang" is a double negative. Kostya says it kindly.'),
+    (8, None, '\'She has not returned from Saratov yet.\' "Saratov" is a city on a big river, and "from" shows in the ending. "Still not returned" ends in -las, since the woman is the one who has not returned. The guest has an explanation ready.'),
+    (9, None, '\'Yesterday you spoke about her for a long time.\' "For a long time" is one word. And "about her" gets an extra "n" at the start of "her", as Russian does after small words. Kostya reminds him of yesterday\'s confession.'),
+    (10, None, '\'Yes, my memory is slowly returning to me.\' The -sya on "returns" gives "returns itself". The guest is piecing last night together slowly. His memory comes back the way a tide does.'),
+    (11, None, '\'Here is a drink for you on the house.\' Russian says "at the expense of the establishment". What Russian calls expense equals the score and the bill. Kostya treats the poor man to a drink.'),
+    (12, None, '\'Thank you for your kindness, buddy!\' The word for "buddy" is "friend" with a big, warm ending, something like "old pal". "Kindness" comes from the Russian for "kind". The guest says it with real feeling.'),
 ]

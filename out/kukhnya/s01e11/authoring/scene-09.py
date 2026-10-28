@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'guest': 'Гость', 'kostya': 'Костя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.11'
 SOURCE_FILE = 'sources/kukhnya/s01/e11.ru.dual.srt'
-INTRO = "Sitting at the Claude Monet bar, the customer confides to Kostya why his girlfriend suddenly dumped him. When Chef Barinov notices the visitor's miserable physical condition, he warmly prescribes a bowl of hot bouillabaisse as the perfect remedy. Let's listen to their entertaining dialogue in Russian."
-OPENER = "Now let's examine how the guest shares his romantic troubles and accepts the chef's culinary cure line by line."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "With an order of signature bouillabaisse on the way, the wounded guest finds unexpected sympathy in Claude Monet. Next time you watch the episode, listen for the Russian expressions for 'bar' and 'to throw' — you will catch every word right away. See you next time!"
+INTRO = "The hungover guest stays at the bar and tells Kostya about his girlfriend, who left him. Barinov walks past and takes charge of the man's lunch. Listen to the tone before the words."
+OPENER = 'Now for the details.'
+TRANSITION = 'Once more, the whole thing through.'
+OUTRO = "The man gets his soup, and Barinov gets to be the host. A hot meal is the chef's answer to every kind of heartbreak. Until next time."
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('guest', 'Костя, мы с ней были слишком разными.', 'Kostya, she and I were too different.', [(116, 'мы были с ней абсолютно разными людьми.')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('barinov', 'Костя, срочно закажи нашему гостю буйабес!', 'Kostya, urgently order bouillabaisse for our guest!', [(146, 'пробей гостю')], ''),
 ]
 WALK = [
-    (0, None, "'Kostya, she and I were too different.' The guest is heartbroken and explains that they were just too different. Literally it means we with her were too different."),
-    (1, None, "'Why do you think so, my friend?' Kostya asks for more details. He uses formal language and calls the customer his friend to show support."),
-    (2, None, "'She considered me a real coward.' The heartbroken man explains her opinion. The woman thought he was a coward because of his actions."),
-    (3, None, "'But I did not want to jump with a parachute!' He justifies his fear. He really had no desire to jump out of a plane."),
-    (4, None, "'Why stupidly risk one's life at all?' This feels like a foolish risk to him. He questions the point of skydiving."),
-    (5, None, "'I completely agree with you.' Kostya plays the role of a good bartender. He supports his customer completely."),
-    (6, None, "'She dumped me right here yesterday.' The sad event took place right at this bar the day before. He reveals where the breakup happened."),
-    (7, None, "'What is going on here at the bar?' Barinov walks in and demands to know what is happening. He sounds a bit annoyed by the scene."),
-    (8, None, "'Where is the restroom located here, tell me?' He suddenly changes the subject. The customer urgently needs to find the restroom."),
-    (9, None, "'The restroom is located immediately to the left of the bar.' Kostya gives polite directions. He points out that the restroom is just to the left."),
-    (10, None, "'Friend, you need hot soup right now!' Barinov decides the man needs food. He suggests hot soup to help him feel better."),
-    (11, None, "'I am not at all against tasty soup.' The customer agrees to the food. He would not mind eating something tasty right now."),
-    (12, None, "'Kostya, urgently order bouillabaisse for our guest!' Barinov takes charge of the order. He tells the bartender to urgently get a fancy fish soup for the sad man."),
+    (0, None, '\'Kostya, she and I were too different.\' Russian says "we with her were", which is how you say "she and I". Then "different" takes an ending after "were". The guest begins his story with a shrug.'),
+    (1, None, '\'Why do you think so, my friend?\' Putting "mine" after "friend" makes it warm, like "friend of mine". Kostya says "vy" to the older man. He wants to hear the story, and he\'s good at it.'),
+    (2, None, '\'She considered me a real coward.\' "Considered" ends in -la, because the girlfriend did the considering. "As a coward" takes a special ending after "considered". The guest repeats the word, and it still hurts.'),
+    (3, None, '\'But I did not want to jump with a parachute!\' "With a parachute" has the ending for "with". "Jump" is a short word. The guest defends himself, and you can tell this argument has run before.'),
+    (4, None, '\'Why stupidly risk one\'s life at all?\' "One\'s own life" uses the "own" word, so the sentence reads "with one\'s own life". "Stupidly" is an adverb. The guest asks like a philosopher who has thought about it all night.'),
+    (5, None, '\'I completely agree with you.\' "Agree" is in a short form, and a woman would say it with an -a. "With you" is polite. Kostya says it to be kind, and agreeing costs him nothing.'),
+    (6, None, '\'She dumped me right here yesterday.\' The term for "dumped" is literally "threw". Russians use it for leaving a partner. The guest points at the very spot, and the hurt is fresh.'),
+    (7, None, '\'What is going on here at the bar?\' Barinov asks "what happens", the phrase you know. "At the bar counter" is the position. The chef has come from the kitchen, and he has smelled a story.'),
+    (8, None, '\'Where is the restroom located here, tell me?\' "Is located" literally means "finds itself", with the -sya. "Give me a hint" is the polite way to ask for directions. The guest changes the subject because his stomach has views.'),
+    (9, None, '\'The restroom is located immediately to the left of the bar.\' "On the left" is one word, and "of the bar" shows in the ending. "Right away" is "srazu", as ever. Kostya gives directions, and gives them kindly.'),
+    (10, None, '\'Friend, you need hot soup right now!\' "To you needed" is the pattern, here in the masculine, because "soup" is masculine. Barinov says "ty" to the stranger, the way a chef does to a friend. He is already cooking in his head.'),
+    (11, None, '\'I am not at all against tasty soup.\' "Not against" is an idiom for "I don\'t mind". "At all" strengthens it. The guest takes the chef up on his offer, which is a sensible decision.'),
+    (12, None, '\'Kostya, urgently order bouillabaisse for our guest!\' The French fish soup is spelled out in Russian letters. "Order" is a command to Kostya, who is now a waiter. Barinov turns the man into a VIP.'),
 ]

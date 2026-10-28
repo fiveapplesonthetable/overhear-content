@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'kostya': 'Костя', 'nastya': 'Настя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.11'
 SOURCE_FILE = 'sources/kukhnya/s01/e11.ru.dual.srt'
-INTRO = 'Following the disastrous confrontation with the restaurant critic, Nastya rushes to apologize to Kostya for calling him a coward. Before they can reconcile, Chef Barinov storms into the dining hall and abruptly fires the young bartender.'
-OPENER = "Let's witness Nastya's sincere apology and Barinov's ruthless dismissal of Kostya following the critic scandal."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Dismissed by an unforgiving Barinov, Kostya leaves the restaurant while Nastya searches for a way to save him. Next time you watch the episode, listen for the Russian expressions for 'bartender' and 'fast' — you will catch every word right away. See you next time!"
+INTRO = 'The chef has heard what Kostya did, and he is about to deal with it. Nastya apologises to Kostya first, in the kitchen corridor. Just listen, and see how much you pick up.'
+OPENER = 'This time, with explanations.'
+TRANSITION = 'Once more, at the pace of a real conversation.'
+OUTRO = "Kostya is fired, and Nastya wants him back. The two of them have only a few hours before the critic's article comes out. Back soon."
 CLOSING = ('nastya', 'Пока!')
 STORY = [
     ('nastya', 'Костя, подожди секунду, выслушай меня пожалуйста.', 'Kostya, wait a second, listen to me please.', [], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('nastya', 'Мы должны всё исправить до выхода статьи.', 'We must fix everything before the article comes out.', [], ''),
 ]
 WALK = [
-    (0, None, "'Kostya, wait a second, listen to me please.' Nastya begs her boyfriend to wait a second and listen to her. She desperately wants to talk."),
-    (1, None, "'Forgive me for stupidly calling you a coward.' Nastya apologizes for foolishly calling him a coward earlier. She feels terrible about what she said."),
-    (2, None, "'You treated me very unfairly.' Kostya tells her that she treated him very unfairly. He is deeply hurt by her words."),
-    (3, None, "'I was very mistaken and deeply regret it.' Nastya admits she made a huge mistake and regrets it deeply. She knows she was completely wrong."),
-    (4, None, "'Kostya, you are fired, quickly pack your things!' Barinov angrily fires the bartender on the spot and tells him to pack his things fast. He is furious."),
-    (5, None, "'Chef, are you really driving me out of work?' Kostya is shocked and asks if the boss is really kicking him out. He cannot believe this is happening."),
-    (6, None, "'You caused a scandal with an important restaurant critic!' Barinov yells about the massive scandal caused with the VIP guest. It is an unforgivable offense."),
-    (7, None, "'Chef, it is I who am to blame for everything!' Nastya bravely steps in and claims all the blame for herself. She wants to save his job."),
-    (8, None, "'I do not care, the bartender leaves right now.' Barinov coldly says he does not care and the guy leaves immediately. He has made up his mind."),
-    (9, None, "'All right, chef, I will take off the uniform immediately.' Kostya accepts his fate and agrees to take off his uniform right away. He will not fight it."),
-    (10, None, "'We cannot lose the restaurant' Nastya argues they cannot afford to lose their best employee. She is trying everything to change his mind."),
-    (11, None, "'Our restaurant will have huge problems now.' Barinov points out the huge problems heading their way now. The business might not survive this."),
-    (12, None, "'We must fix everything before the article comes out.' Nastya insists they must fix everything before the terrible article is published. They still have a chance."),
+    (0, None, '\'Kostya, wait a second, listen to me please.\' "Hear out" has the prefix "vy-", so Nastya asks him to listen to the end. She uses "ty" with him, and she is gentle. She has run to catch him.'),
+    (1, None, '\'Forgive me for stupidly calling you a coward.\' After "called", the coward takes the "as" ending. "Forgive" is the command he used himself in the previous scene. Nastya is honest, which costs her something.'),
+    (2, None, '\'You treated me very unfairly.\' "Unfairly" is "not fairly", made from the word for justice. "Acted" recalls "wicked people act like that". Kostya is hurt, and he says so.'),
+    (3, None, '\'I was very mistaken and deeply regret it.\' "Was mistaken" has the -las ending, "mistook herself". "Regret" is related to the word Barinov used when threatening Nagiyev. Nastya apologises in full.'),
+    (4, None, '\'Kostya, you are fired, quickly pack your things!\' "You are fired" is a short passive form. "Pack" is literally "collect". "Things" is the word you\'ve heard in "an important thing". Barinov is blunt.'),
+    (5, None, '\'Chef, are you really driving me out of work?\' "Drive out" is the same word as for the family. "Out of work" is shown by the small word for "from". Kostya cannot believe it.'),
+    (6, None, '\'You caused a scandal with an important restaurant critic!\' "Arranged" is how Russian says "staged" a scene. "With" shows in the ending of the critic. Barinov is stern. He thinks the harm has been done.'),
+    (7, None, '\'Chef, it is I who am to blame for everything!\' "Guilty" is a short form that ends in -a for a woman. "For everything" is two words. Nastya takes the blame, and it is a brave thing to do.'),
+    (8, None, '\'I do not care, the bartender leaves right now.\' "To me all the same" is the idiom you heard in the soup scene. "Bartender" is the English word. Barinov is cold. His decision is final.'),
+    (9, None, '\'All right, chef, I will take off the uniform immediately.\' The Russian for "uniform" is the same as "form" or "shape". "Take off" is a short word. Kostya accepts, with dignity, and the uniform comes off.'),
+    (10, None, '\'We cannot lose the restaurant\'s best bartender.\' "Lose" is the word in "lost her head". "Best" grows from "better". Nastya makes her case. She says "we", as if she belonged to the management.'),
+    (11, None, '\'Our restaurant will have huge problems now.\' "At our restaurant will be" is the pattern for "will have". "Huge" stands for "huge thanks". Barinov is realistic. He knows what the article could say.'),
+    (12, None, '\'We must fix everything before the article comes out.\' The term for "publication" is "exit", from the same family as "day off", the "exit day". Nastya sets the deadline. She is the practical one.'),
 ]

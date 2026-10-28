@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'kostya': 'Костя', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.11'
 SOURCE_FILE = 'sources/kukhnya/s01/e11.ru.dual.srt'
-INTRO = "At the Claude Monet bar counter, junior cook Max poses a philosophical question to his friend Kostya about restaurant hierarchy. They consider whether the director, head chef, or wealthy owner holds true power, before agreeing that the guests ultimately dictate everything. Let's listen to their conversation in Russian first."
-OPENER = "Now let's examine this barroom discussion line by line."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "With their philosophical debate settled in favor of the customer, Max and Kostya return to their duties, ready to accommodate whatever demanding patrons arrive next. Next time you watch the episode, listen for the Russian expressions for 'rich' and 'to happen' — you will catch every word right away. See you next time!"
+INTRO = "Welcome to Kukhnya, a Russian comedy set in the kitchen of Claude Monet, a smart French restaurant in Moscow. Barinov is the loud head chef, Max the newest cook, and Kostya the bartender who is Max's best friend. In this episode a secret restaurant critic is expected, and nobody knows who he is. It starts quietly, at the bar, where Max and Kostya ask who really runs the place. You'll hear it in Russian first, and you don't need to catch every word."
+OPENER = 'First line first.'
+TRANSITION = 'Time to hear it all again.'
+OUTRO = 'Max and Kostya agree that the guest comes first. That idea will be tested very soon, once the word about the critic gets out. Catch you next time.'
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('max', 'Костя, кто самый главный в нашем ресторане?', 'Kostya, who is the most important in our restaurant?', [(1, 'кто главный в ресторане?')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('max', 'Гость всегда остаётся самым главным.', 'The guest always remains the most important.', [], ''),
 ]
 WALK = [
-    (0, None, "'Kostya, who is the most important in our restaurant?' Max asks Kostya who the most important person is in their restaurant. He uses 'samyy glavnyy' to mean the main one. He wonders who is the boss."),
-    (1, None, "'Maybe our strict head chef?' Kostya guesses it might be their strict head chef. He adds 'mozhet byt' to mean maybe. It is a logical guess."),
-    (2, None, "'Or the rich restaurant owner Dmitry?' Max suggests it could be the rich restaurant owner, Dmitry. He uses 'ili' meaning or. Owners usually hold the most power."),
-    (3, None, "'Or maybe our strict director Victoria?' Kostya proposes another option, their strict director Victoria. He says 'a mozhet' as or maybe. She definitely acts like the boss."),
-    (4, None, "'No, the most important here are the guests.' Max corrects him, stating that the guests are the most important here. He is sharing a service industry motto. The word 'gosti' means guests."),
-    (5, None, "'That is true, our guests can be very different.' Kostya agrees this is true but notes their guests can be very different. He says 'eto pravda' for that is true. They see all kinds of people."),
-    (6, None, "'Some guests can be too stingy.' Max points out that some guests can be too stingy. He uses 'odni' to mean some here. The word 'zhadnymi' describes greedy people."),
-    (7, None, "'Other guests can be very cheerful.' Kostya adds that other guests can be very cheerful. He starts with 'drugie' meaning others. Cheerful guests are much better."),
-    (8, None, "'And do they often hug you?' Max jokes by asking if they often hug the bartender. He is making a funny observation. 'Obnimayut' means they are hugging."),
-    (9, None, "'Yes, they constantly say various kind words.' Kostya confirms and says they constantly say various kind words. He uses 'postoyanno' to mean constantly. It is nice when people are polite."),
-    (10, None, "'They pay money for this lunch.' Max reminds him that they pay money for this lunch. This is the real reason they are important. Cash makes them the boss."),
-    (11, None, "'Therefore we always smile at every guest.' Kostya concludes that therefore they always smile at every guest. He says 'poetomu' meaning for this reason. Smiling is part of their job."),
-    (12, None, "'The guest always remains the most important.' Max states firmly that the guest always remains the most important. He sums up his initial point. The customer is king."),
+    (0, None, '\'Kostya, who is the most important in our restaurant?\' Russian says "who most main", with no "is" at all. The word for "main" grows out of the Russian for "head", so the main person is simply the one at the head. Max asks it with a grin.'),
+    (1, None, '\'Maybe our strict head chef?\' Word for word, Russians say "can be" for "maybe". And the job title is written as two words joined by a hyphen, "chef-cook". Kostya names Barinov first, the obvious choice.'),
+    (2, None, '\'Or the rich restaurant owner Dmitry?\' There\'s no "of" here. The ending on "restaurant" does that job, so "owner of restaurant" is just two words side by side. Max keeps the guessing game going.'),
+    (3, None, '\'Or maybe our strict director Victoria?\' Kostya says Victoria, not Vika, because he is naming her as a boss. The "and maybe" at the start adds a third guess. He is running down the staff list, having fun.'),
+    (4, None, '\'No, the most important here are the guests.\' Where English says "are", Russian often puts a dash and a little "this". The describing word is plural to match "guests". Max has the answer, and he says it with a flourish.'),
+    (5, None, '\'That is true, our guests can be very different.\' Russians say that guests "happen" different, meaning they come in all kinds. Kostya agrees at once. He has watched them for years from behind the bar.'),
+    (6, None, '\'Some guests can be too stingy.\' Russian lines up "some" and "others" as "ones" and "others", just like English "some ... others". "Stingy" is literally "greedy". Max starts with the bad kind.'),
+    (7, None, '\'Other guests can be very cheerful.\' Kostya now gives the opposite type, the guests who make the shift fun. He uses the same "can be" as before, so the two lines sound like two halves of one list.'),
+    (8, None, '\'And do they often hug you?\' Max is teasing his friend. Cheerful guests tend to cling to the bartender, so it\'s a fair question. The Russian "hug" means to put your arms around someone.'),
+    (9, None, '\'Yes, they constantly say various kind words.\' "Constantly" comes from the same root as "regular" guests, since regulars are the constant ones. Kostya sounds mildly embarrassed, and a little pleased too.'),
+    (10, None, '\'They pay money for this lunch.\' Max states the plain commercial truth. Russian puts "for" before the thing you pay for, as English does. The midday meal here matches the one in the lunch hall.'),
+    (11, None, '\'Therefore we always smile at every guest.\' The little ending -sya on "smile" turns it into "smile oneself", a common Russian habit. And "to every guest" shows the "to" in the endings. Kostya recites the rule of his job.'),
+    (12, None, '\'The guest always remains the most important.\' Max closes the thought neatly. "Remains" carries the -sya ending again, and the guest is described by a role, so "most important" takes a special ending. A tidy last line.'),
 ]

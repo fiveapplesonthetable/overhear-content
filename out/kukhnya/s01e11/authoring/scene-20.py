@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.11'
 SOURCE_FILE = 'sources/kukhnya/s01/e11.ru.dual.srt'
-INTRO = 'In the kitchen of Claude Monet, Victoria rushes to Chef Viktor with alarming news: the restaurant critic has rejected his fresh salad and is demanding hot soup immediately. Victoria urges Viktor to give the critic a soup meant for another guest, but the proud chef adamantly refuses to break the rules. Listen to their conversation in Russian first, then we will break down each line in English.'
-OPENER = "Now let's go back through the exchange around Rejecting the Salad line by line and unpack how the Russian works."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "In the kitchen, Victoria urges Chef Viktor to give the complaining critic another customer's soup, but Viktor refuses to bypass ordinary guests. Next time you watch the episode, listen for the Russian expressions for 'to be enough' and 'kitchen' — you will catch every word right away. See you next time!"
+INTRO = "The critic at Nastya's table has sent back the salad, and now he wants soup. Vika brings the demand to the kitchen, and Barinov has his own rules. Here they are, in Russian."
+OPENER = "Let's go through it again, line by line."
+TRANSITION = 'And now without my interruptions.'
+OUTRO = 'The chef will not serve the critic ahead of the others, and Vika can do nothing about it. In his kitchen, the queue is the law. See you next time.'
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('vika', 'Виктор Петрович, у нас срочная проблема!', 'Viktor Petrovich, we have an urgent problem!', [], ''),
@@ -31,14 +31,17 @@ STORY = [
     ('barinov', 'Пусть ждёт суп по очереди.', 'Let him wait for soup in turn.', [(277, 'Пусть ждет.')], ''),
 ]
 WALK = [
-    (0, None, "'Viktor Petrovich, we have an urgent problem!' Vika rushes in to announce an urgent problem to the chef. She is panicking about the situation."),
-    (1, None, "'Vika, do not shout in the kitchen.' Barinov calmly tells the manager not to shout in his kitchen. He hates loud noises while cooking."),
-    (2, None, "'The critic at the table refused the salad.' Vika explains that the famous critic rejected his salad order. This is a very bad sign."),
-    (3, None, "'He says that he does not eat grass.' Vika repeats the guest's rude words about not eating grass. He is being incredibly picky."),
-    (4, None, "'He demands hot soup right now.' Vika says the man demands hot soup immediately instead. He wants it right this second."),
-    (5, None, "'Give him the soup from table one!' Vika begs the chef to just give him the soup meant for another table. She wants to fix the problem fast."),
-    (6, None, "'Are you out of your mind, Vika?' Barinov asks if she has lost her mind. He is shocked by her crazy suggestion."),
-    (7, None, "'Another person is waiting for this soup.' Barinov points out that another customer is waiting for that exact bowl. It belongs to someone else."),
-    (8, None, "'But the critic will write a terrible review!' Vika reminds him about the terrible review they might get. She thinks they should prioritize this VIP."),
-    (9, None, "'Let him wait for soup in turn.' Barinov stubbornly refuses and says the man can wait his turn. He treats everyone exactly the same."),
+    (0, None, '\'Viktor Petrovich, we have an urgent problem!\' Vika uses first name and father\'s name, which is her formal register for the chef. "Urgent" is the word that began the whole banquet. She means business.'),
+    (1, None, '\'Vika, do not shout in the kitchen.\' It\'s "ne krichi", the shouting command that Alisa used on her father. Barinov is the one who shouts the most, so the irony is plain. "In the kitchen" has the "on" word.'),
+    (2, None, '\'The critic at the table refused the salad.\' "Refused from the salad" is the pattern with "from". The ending -sya shows that the critic did the refusing himself. Vika reports the news in her usual crisp voice.'),
+    (3, None, '\'Why? My salad was fresh.\' Russian has a past of "to be": "byl". Barinov uses it here, though the present has none. He is hurt, and the short sentence shows it.'),
+    (4, None, '\'He says that he does not eat grass.\' The salad was sorrel, and "grass" is the critic\'s word for it. "Doesn\'t eat" is short and flat. Vika quotes him word for word.'),
+    (5, None, '\'He demands hot soup right now.\' "Demands" covers a firm request. The critic orders and does not ask. Vika reports the demand, hoping the chef will give in.'),
+    (6, None, '\'Let him make a normal order first.\' "Let him" is the familiar "pust". "Normal" is borrowed. Barinov\'s pride is hurt, and the critic is not getting special treatment.'),
+    (7, None, '\'Give him the soup from table one!\' "Give" is the polite plural command, "otdayte". "From table one" uses the small word for "from". Vika\'s idea is to take the first table\'s soup and give it to the critic.'),
+    (8, None, '\'Are you out of your mind, Vika?\' Russian says "are you in your own mind?", with the "own" word. It\'s a standard idiom for "have you lost it". Barinov uses "ty" with her, and he does not hold back.'),
+    (9, None, '\'Another person is waiting for this soup.\' The Russian puts the doer at the end: "this soup waits another person". It is a usual Russian word order for emphasis. Barinov defends the other customer.'),
+    (10, None, '\'But the critic will write a terrible review!\' The term for "review" is related to "response". Vika uses it as a threat. She has seen what a bad review can do.'),
+    (11, None, '\'I have had enough of these whims.\' Russian says "from me is enough", with "enough" being a single word. "Whims" take the "of" ending. Barinov has reached his limit.'),
+    (12, None, '\'Let him wait for soup in turn.\' "In turn" uses the word "po", meaning "by", and what Russian calls "queue". Barinov\'s rule is the first-come rule. It\'s the fairest rule, and the most inconvenient.'),
 ]

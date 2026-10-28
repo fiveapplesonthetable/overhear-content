@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.11'
 SOURCE_FILE = 'sources/kukhnya/s01/e11.ru.dual.srt'
-INTRO = "A stylish woman sits alone in the Claude Monet dining room, speaking quietly on her mobile phone while observing her surroundings. Watching her intently from the entrance, Chef Barinov and Victoria struggle to determine whether she is the dreaded restaurant critic. Let's listen to their nervous discussion in Russian."
-OPENER = "Let's explore how Chef Barinov and Victoria analyze the suspicious visitor sitting in the restaurant."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Now you know how to discuss dining behavior, express uncertainty, and talk about investigations in Russian. Listen for these watchful workplace expressions in the upcoming scene. Next time you watch the episode, listen for the Russian expressions for 'dish' and 'to be' — you will catch every word right away. See you next time!"
+INTRO = "A woman at one of the tables has caught Barinov's attention. He thinks she may be the critic, and he asks Vika to help him decide. Listen for the names and the numbers."
+OPENER = "Now we'll pick it apart."
+TRANSITION = 'The full thing, one more time.'
+OUTRO = 'Vika will find out the truth, whatever it takes. Whether the lady is a critic remains a mystery. Until the next one.'
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('barinov', 'Вика, посмотри на ту даму.', 'Vika, look at that lady.', [], ''),
@@ -30,8 +30,16 @@ STORY = [
     ('vika', 'Я сейчас же всё узнаю, шеф.', 'I will find out everything right now, chef.', [], ''),
 ]
 WALK = [
-    (0, None, "'Well, how is she behaving?' Vika wants to know about the woman. She is curious if the guest is acting like a normal customer."),
-    (1, None, "'She is simply dining in our dining room.' Barinov replies that the woman is just eating. There is nothing suspicious about her behavior in the hall."),
-    (2, None, "'Is she a restaurant critic or not?' He really needs to know if this woman will write a review about them. This is the main question on his mind."),
-    (3, None, "'We need to urgently find out the whole truth.' This situation makes him stressed. He insists that they figure out the truth immediately."),
+    (0, None, '\'Vika, look at that lady.\' What Russian calls "that" takes a feminine object ending here, because the lady is a woman. Barinov says "ty" to Vika, as he does when he\'s worried. He wants a second opinion.'),
+    (1, None, '\'Well, how is she behaving?\' "Leads herself" is the phrase for behaving, as with Alisa in the dining room. Vika answers with a question and a hint of impatience. She is watching too.'),
+    (2, None, '\'Everything seems completely fine.\' The little colloquial word at the front means "kind of" or "seemingly". Barinov is not sure. He wants the lady to be the critic, but she looks like an ordinary guest.'),
+    (3, None, '\'She is talking on the phone for a long time.\' Russians speak "by phone", so the small word is "by". Vika notices every detail, as a good administrator should.'),
+    (4, None, '\'She is simply dining in our dining room.\' The word for "dines" is built on the midday meal, so it means "has lunch". Barinov argues the other way. He plays devil\'s advocate.'),
+    (5, None, '\'But she is not eating anything.\' "Eats" is irregular in Russian. And "nothing not eats" has the double negative. Vika makes a good point, and Barinov cannot answer it.'),
+    (6, None, '\'Maybe the dish is too hot?\' Barinov offers a kitchen explanation for everything: the food is always to blame. "Hot" ends in -ee to match the neuter word "dish".'),
+    (7, None, '\'She just asked for the bill.\' The verb for "ask for" is not the verb for "ask a question". The bill repeats the score. Vika has the last piece of evidence, and it points the wrong way.'),
+    (8, None, '\'Is she a restaurant critic or not?\' "Or no" is the blunt Russian tail for "or not". Barinov asks the question the way he asks everything, wanting a yes or a no and getting neither.'),
+    (9, None, '\'We are still not sure.\' "Up to these times" is the Russian for "still". "Sure" is plural to agree with "we". Vika admits it. She does not like to say she doesn\'t know.'),
+    (10, None, '\'We need to urgently find out the whole truth.\' "Find out" grows from the Russian for "clear", so it means "make clear". Barinov makes a plan, and the first step is always to find out.'),
+    (11, None, '\'I will find out everything right now, chef.\' The little "zhe" in "right now" adds "this very minute". Vika doesn\'t wait for permission. The scene ends with her going.'),
 ]

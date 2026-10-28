@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.11'
 SOURCE_FILE = 'sources/kukhnya/s01/e11.ru.dual.srt'
-INTRO = "Tension peaks in the dining room of Claude Monet as the staff scrambles to identify a mysterious food critic. When art director Victoria points out another suspicious guest writing notes at a table, Chef Barinov is exasperated by the conflicting clues. Let's listen to their conversation in Russian."
-OPENER = "Let's examine the dialogue sentence by sentence. Notice the vocabulary of suspicion, restaurant inspection, and hospitality standards."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Faced with multiple potential reviewers, Chef Barinov prepares to defend Claude Monet's culinary reputation with perfection. Great work practicing conversational Russian! Next time you watch the episode, listen for the Russian expressions for 'dish' and 'to be' — you will catch every word right away. See you next time!"
+INTRO = "There seem to be two possible critics now, and Vika and Barinov talk about how to handle them. Their plan: feed both of them as well as they can. You'll hear it all in Russian before I explain a thing."
+OPENER = "Now we'll go over it."
+TRANSITION = 'Listen again, and see how much more you catch.'
+OUTRO = 'Both critics will get the best the kitchen can offer. The chef will watch every dish. Goodbye for now.'
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('vika', 'Шеф, в углу зала сидит странный гость.', 'Chef, a strange guest is sitting in the corner of the dining room.', [(163, 'Писатель?')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('barinov', 'Я лично прослежу за каждым готовым заказом!', 'I will personally oversee every finished order!', [(165, 'два критика')], ''),
 ]
 WALK = [
-    (0, None, "'Chef, a strange guest is sitting in the corner of the dining room.' Vika reports to the boss. She points out that there is a weird customer sitting in the corner."),
-    (1, None, "'What is this person doing at his table?' Barinov wants to know more details. He asks what the man is up to while sitting there."),
-    (2, None, "'He does not order anything and constantly writes.' She explains the suspicious behavior. The guy is just writing and has not asked for any food."),
-    (3, None, "'Could it be a famous writer or journalist?' He guesses who the man might be. The chef wonders if they have a famous author in the hall."),
-    (4, None, "'He studies everything around us too attentively.' The manager points out how observant the man is. He is looking at everything a little too closely."),
-    (5, None, "'But you yourself considered that young woman to be the critic!' Barinov is confused by the changing story. He reminds her that she previously thought the woman was the reviewer."),
-    (6, None, "'That young woman also behaves very suspiciously.' Vika defends her earlier guess. She notes that the woman is also acting in a weird way."),
-    (7, None, "'Does it turn out that I have two critics at once in the restaurant?' He repeats his fear. The boss cannot believe he might be dealing with two reviewers at the same time."),
-    (8, None, "'We must feed both guests at the highest level.' She suggests a safe plan. They need to provide top quality service to both of these people."),
-    (9, None, "'I will prepare my best dishes for them.' The chef agrees to the strategy. He promises to cook his absolute best food for them."),
-    (10, None, "'The main thing is that the waiters do not make foolish mistakes.' Vika worries about the rest of the staff. She hopes the waiters will not mess things up."),
-    (11, None, "'I will personally oversee every finished order!' Barinov takes full control. He vows to check every single plate before it leaves the kitchen."),
+    (0, None, '\'Chef, a strange guest is sitting in the corner of the dining room.\' "In the corner" has a special ending, as a few Russian words do. Vika brings the news in a calm voice. She has done her homework.'),
+    (1, None, '\'What is this person doing at his table?\' The general word for a person is the one you heard in "what a foolish person". "At his own table" uses the "own" word. Barinov can\'t make the man out.'),
+    (2, None, '\'He does not order anything and constantly writes.\' Vika repeats Sasha\'s clue. The double negative is required, and "constantly" comes from "regular". She reports it as proof.'),
+    (3, None, '\'Could it be a famous writer or journalist?\' "Can be" means "maybe", as before. "Journalist" is borrowed from French. Barinov offers two jobs, because he has no evidence. He is guessing.'),
+    (4, None, '\'He studies everything around us too attentively.\' "Around us" is two small words. "Too attentively" repeats "slishkom", the "too" that you know. Vika is suspicious of anyone who watches so closely. It is her job to notice.'),
+    (5, None, '\'But you yourself considered that young woman to be the critic!\' "Considered as critic" puts the critic in the special "as" ending. Barinov throws her own words back at her. He enjoys being right.'),
+    (6, None, '\'That young woman also behaves very suspiciously.\' "Suspiciously" grows from "suspicion". "Also" is one small word. Vika does not back down. She sticks to her view.'),
+    (7, None, '\'Does it turn out that I have two critics at once in the restaurant?\' "At once" can mean "immediately" or "at the same time". Here it is "at the same time". Barinov counts them, and the number makes him nervous.'),
+    (8, None, '\'We must feed both guests at the highest level.\' The "feed" word has the filling-up prefix. "Both" takes the object ending. "At the highest level" is the phrase from the banquet. Vika is professional.'),
+    (9, None, '\'I will prepare my best dishes for them.\' "My own best dishes" uses the "own" word. Barinov is proud of his food, and he knows that his best is very good.'),
+    (10, None, '\'The main thing is that the waiters do not make foolish mistakes.\' After "so that", the verb takes its past form, though the meaning is not past. Vika worries about the waiters. They are the weak link.'),
+    (11, None, '\'I will personally oversee every finished order!\' "Oversee" grows from what Russian calls "follow", so the chef will follow each plate with his eyes. Barinov takes charge. The scene ends on his promise.'),
 ]

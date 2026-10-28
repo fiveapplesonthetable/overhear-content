@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'kostya': 'Костя', 'nastya': 'Настя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.11'
 SOURCE_FILE = 'sources/kukhnya/s01/e11.ru.dual.srt'
-INTRO = 'At the bar in Claude Monet, Kostya tries to apologize to Nastya for their recent disagreement. Nastya is visibly stressed and explains that an influential restaurant critic at her table is bothering her, warning Kostya not to start a fight. Listen to their conversation in Russian first, then we will break down each line in English.'
-OPENER = "Now let's go back through the exchange around A Difficult Guest line by line and unpack how the Russian works."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "At the bar, Nastya confides to Kostya that an influential restaurant critic is harassing her at table, urging Kostya not to provoke him with a confrontation. Next time you watch the episode, listen for the Russian expressions for 'why' and 'guest' — you will catch every word right away. See you next time!"
+INTRO = 'Kostya wants to make up with Nastya after a quarrel, but she has something worse on her mind. A man at her table is making her life difficult. Listen to who says what.'
+OPENER = "Let's take the lines one by one."
+TRANSITION = "Let's play it through again."
+OUTRO = "Nastya pleads with Kostya to stay out of it, and the critic is the reason. Kostya's patience is not endless. That's it for this one."
 CLOSING = ('nastya', 'Пока!')
 STORY = [
     ('kostya', 'Настя, ну прости меня за вчерашнее.', 'Nastya, please forgive me for yesterday.', [(232, 'Ну, прости меня.')], ''),
@@ -31,13 +31,17 @@ STORY = [
     ('nastya', 'Сделай заказ быстрее, я пойду в зал.', 'Make the order faster, I will go to the hall.', [(241, 'Так что давай лучше сделай мне заказ побыстрее, и все.')], ''),
 ]
 WALK = [
-    (0, None, "'Nastya, please forgive me for yesterday.' Kostya begs his girlfriend to forgive him for what happened yesterday. He feels very guilty."),
-    (1, None, "'Kostya, now is really not the time.' Nastya brushes him off because she is too busy. Now is absolutely not the right time for this talk."),
-    (2, None, "'I have a difficult guest at the table.' Nastya explains she has a very difficult customer at her table. This guy is causing her a lot of stress."),
-    (3, None, "'Worse. He is constantly bothering me.' Nastya clarifies that it is worse than just being difficult. The man keeps hitting on her constantly."),
-    (4, None, "'What? I will go sort it out right now!' Kostya gets angry and offers to go sort things out immediately. He wants to protect his girlfriend."),
-    (5, None, "'Kostya, stop! Do not go there.' Nastya urgently stops him from going over there. She knows it will cause a huge disaster."),
-    (6, None, "'This man is an important restaurant critic.' Nastya reveals the terrible truth that this annoying man is actually the important critic. They cannot upset him."),
-    (7, None, "'He can write a terrible article.' Nastya points out that he could write a ruinous article about them. The whole restaurant is in danger."),
-    (8, None, "'Make the order faster, I will go to the hall.' Nastya just tells him to prepare the order quickly so she can go back out. She has to keep working."),
+    (0, None, '\'Nastya, please forgive me for yesterday.\' "Yesterday\'s" is a describing word used as a noun, "the yesterday thing". The little "well" in front softens it. Kostya starts with an apology, as he has been rehearsing.'),
+    (1, None, '\'Kostya, now is really not the time.\' "Not up to this" is the idiom for "I\'m in no mood for this". Nastya uses "voobshche" again, for emphasis. She has other things to think about.'),
+    (2, None, '\'What happened? Do you have problems?\' "At you problems" is the usual pattern for "do you have". Kostya notices that something is wrong and drops his own apology at once. He is a good boyfriend.'),
+    (3, None, '\'I have a difficult guest at the table.\' "Problem guest" is the literal Russian. A "problem" guest is a guest who causes trouble. Nastya says it quietly, in a low voice.'),
+    (4, None, '\'Is he being rude to you?\' "Khamit" comes from "kham", a boor. It means to behave boorishly. Kostya goes straight to the likeliest cause. He guessed it right.'),
+    (5, None, '\'Worse. He is constantly bothering me.\' The Russian for "bothering" means to pester, to keep at someone. "Constantly" recalls "regular guests". Nastya says it with a hint of tears.'),
+    (6, None, '\'What? I will go sort it out right now!\' Kostya says "go sort out" without an "and", as Russians do. The chef used the same word for solving the stove. He is angry now, and ready to fight.'),
+    (7, None, '\'Kostya, stop! Do not go there.\' Negative commands in Russian prefer the repeated form of "go", so it\'s "ne khodi", not "ne idi". "There" means "to there". Nastya grabs his arm.'),
+    (8, None, '\'Why should I stand and watch?\' "Must" is "dolzhen", the cousin of "owe". Kostya\'s question is half protest and half plea. He cannot see why he should stand still while someone bothers his girlfriend.'),
+    (9, None, '\'This man is an important restaurant critic.\' The dash stands in for "is". Nastya names the problem in one sentence. She has understood the stakes better than Kostya has.'),
+    (10, None, '\'And what can he do?\' "Can do" is two short words. Kostya doesn\'t care who he is. The question is a challenge, said with a stubborn jaw.'),
+    (11, None, '\'He can write a terrible article.\' "Statya" stands for an article, and it\'s feminine, so "terrible" ends in -uyu. "Write" has a prefix that means "finish writing". Nastya spells out the danger.'),
+    (12, None, '\'Make the order faster, I will go to the hall.\' "Make the order" means to get it ready. "Faster" ends in -ee. Nastya wants him to hurry, and then she goes. The scene ends with a push.'),
 ]
