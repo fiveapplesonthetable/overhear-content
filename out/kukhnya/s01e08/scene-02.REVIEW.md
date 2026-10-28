@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Today I will prepare meat of a young lamb.' 'Of a young lamb' puts the same 'ogo' ending on both words. 'I will prepare' is a one-word future.
-- 'What an interesting and complex meat dish!' 'What a' is 'which'. 'Meat dish' is 'meaty dish', since 'meat' turns into a describing word.
-- 'Men prepare such a dish best of all.' 'Best of all' is literally 'better than everything'. 'men' comes last, which gives the sentence its sting.
-- 'Why do you say such strange things?' Elena uses the polite 'you', as she does on air. 'Things' is the plural of 'a thing'.
-- 'Women often cut meat completely incorrectly.' The word for 'cut' is the 'they' form. 'incorrectly' is formed from 'not' plus 'correctly'.
-- 'You simply do not respect female talent.' The term for 'respect' is related to the 'respected' that you hear in speeches. 'Female' stems from the Russian for 'woman'.
-- 'A woman is not capable of becoming a great chef.' 'capable' ends in 'a' because it is about a woman. 'Become' goes with the 'with' form of what you become, so 'great chef' ends in 'em'.
-- 'I run the kitchen of the famous Arcobaleno restaurant!' 'I run' is literally 'hand' plus 'lead'. It is followed by the 'with' form, so 'kitchen' takes an 'ey' ending.
-- 'A real head chef requires strong willpower.' 'Requires' is followed by the 'of' form: 'strong will' becomes 'of strong will'. 'Will' is the same word as 'freedom'.
-- 'I have experience and strong willpower.' 'At me there is' is the Russian way to put 'I have'. 'will' is also the term for 'freedom'.
-- 'For you the kitchen remains an ordinary job.' The Russian for 'remains' ends in 'sya'. 'An ordinary job' takes the 'with' form, which is what 'remain' asks for.
-- 'The kitchen is my whole life, Viktor!' The word 'eto' in the middle means 'that is', and Russians use it after a dash. 'Whole' is the she-form to agree with 'life'.
-- 'We will soon check your bold words.' 'We will check' ends in 'im'. 'Bold' is derived from 'courage'.
+- 'Today I will prepare meat of a young lamb.' Like dokazhu earlier, prigotovlyu, 'I will prepare', looks present but means a finished job ahead. After myaso, 'meat', the lamb goes into the 'of' form: molodogo yagnyonka.
+- 'What an interesting and complex meat dish!' Here kakoye, 'what a', ends in -oye to match blyudo, 'dish'. Russian says myasnoye blyudo, 'a meaty dish', turning myaso into a describing word.
+- 'Men prepare such a dish best of all.' The phrase luchshe vsego, 'best of all', is literally 'better than everything'. Saving muzhchiny, 'men', for the end of the sentence gives it the punch.
+- 'Why do you say such strange things?' Elena answers with vy, the polite 'you', to a man she barely knows. The plural veshchi comes from veshch, 'thing', a feminine word ending in a soft sign.
+- 'Women often cut meat completely incorrectly.' In rezhut, 'they cut', the z of rezat turns into zh, and it stays zh in every present form. Putting ne in front of pravilno, 'correctly', gives nepravilno, written as one word.
+- 'You simply do not respect female talent.' With vy, uvazhat, 'to respect', becomes uvazhayete. Pairs like zhenskiy, 'women's', and muzhskoy, 'men's', go with zhenshchina and muzhchina.
+- 'A woman is not capable of becoming a great chef.' The short form sposobna, 'capable', ends in -a because he's talking about a woman. After stat, 'to become', what you become takes -im and -om: velikim shefom.
+- 'I run the kitchen of the famous Arcobaleno restaurant!' Built from ruka, 'hand', and vodit, 'to lead', rukovozhu means 'I run, I'm in charge of'. What you run takes an -ey or -oy ending, so kukhnya becomes kukhney.
+- 'A real head chef requires strong willpower.' With trebuyet, 'requires', the thing required takes the 'of' form, so silnaya volya turns into silnoy voli. The word volya means both 'will' and 'freedom'.
+- 'I have experience and strong willpower.' Russian says 'I have' as u menya yest, literally 'by me there is'. She throws his own words, silnaya volya, straight back at him.
+- 'For you the kitchen remains an ordinary job.' After ostayotsya, 'remains', the role takes -oy endings: obychnoy rabotoy. Even while needling her, Barinov keeps the polite dlya vas, 'for you'.
+- 'The kitchen is my whole life, Viktor!' A dash plus eto is a common way to say 'X is Y': kukhnya, eto vsya moya zhizn. The words vsya and moya are feminine because zhizn, 'life', is feminine despite its soft sign.
+- 'We will soon check your bold words.' With proverim, 'we will check', he promises a single test ahead. The word smelyye, 'bold', is related to smelost, 'courage'.

@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.08'
 SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
-INTRO = "Barinov has just got his dog back, and now Vika turns up with a second dog that looks exactly like it. She bought it in a panic, and she has not thought up an explanation. It's in Russian first."
-OPENER = "Let's go back through it. Barinov asks, and Vika makes things worse with every answer."
-TRANSITION = 'Now the story in one go.'
-OUTRO = "Vika's best moment is 'breed sushi, oh, Shih Tzu'. It's the kind of slip that anyone can make in a foreign language. See you next time."
+INTRO = "Chef Barinov has his Shih Tzu, Tyson, back. Then Vika, the art director, turns up with a second Shih Tzu that looks exactly like him, and Barinov wants an explanation. Here it is in Russian first."
+OPENER = "Let's go through the interrogation. Every answer Vika gives makes things worse."
+TRANSITION = "Now the whole exchange once more."
+OUTRO = "Vika's best moment is \"poroda sushi\", breed sushi, before she corrects it to Shih Tzu. That kind of slip happens to everyone in a new language. See you next time."
 CLOSING = ('vika', 'Пока!')
 STORY = [
     ('barinov', 'Вика, посмотри на меня. Это что такое?', 'Vika, look at me. What is this?', [(296, 'Вика, это чё?')], ''),
@@ -32,18 +32,18 @@ STORY = [
     ('vika', 'Как и ваша собака. Я пойду!', 'Just like your dog. I will go!', [(309, 'Как и ваша.'), (310, 'Ну, я пойду.')], ''),
 ]
 WALK = [
-    (0, None, "'Vika, look at me. What is this?' 'Look at me' is a command plus a short phrase. 'What is this' has a small extra word, so it sounds indignant."),
-    (1, None, "'Chef, this is my new little dog!' 'Little dog' adds the ending 'ka', which makes the word small and affectionate. 'My new' ends in 'aya', to match."),
-    (2, None, "'I bought her this morning.' 'Bought' ends in 'a' because Vika is a woman. 'Her' goes before the action, as in a quick explanation."),
-    (3, None, "'Why do you need a dog of the same breed?' 'The same' is one word, and 'of the breed' puts the 'of' ending on the breed. 'To you' is how Russian says 'do you need'."),
-    (4, None, "'I just really liked your Dyson.' Vika gets the dog's name wrong, and 'Dyson' is a vacuum-cleaner brand, so it comes out as a funny slip. 'To me pleased' is the Russian way of saying 'I liked'."),
-    (5, None, "'I could not resist and bought a puppy.' 'Could not resist' ends in 'las', and it literally means 'did not hold myself back'. 'puppy' is a diminutive of 'dog'."),
-    (6, None, "'But they are completely identical!' 'Identical' is made from 'one' and 'kind'. 'Completely' sits before it."),
-    (7, None, "'Sorry, I still mix them up.' 'Sorry' is the respectful command to 'excuse me'. 'Still' is literally 'until these times'."),
-    (8, None, "'It seems this one is yours, and this one is mine.' 'This is yours' ends in 'a' to match the dog, which is one of the she-words. 'And' at the start of each half sets up the contrast."),
-    (9, None, "'Vika, what is your dog's name?' Russian says 'how do they call your dog', with nobody named. 'Your dog' takes a changed form for a male dog."),
-    (10, None, "'Mine? His name is Maxik!' 'His name is' is literally 'they call him'. 'Maxik' is a pet form of Max."),
-    (11, None, "'And what breed is this dog?' 'What breed' is a pair of words, and 'at this dog' stands for 'this dog's'. 'Breed' counts as a she-word."),
-    (12, None, "'Breed sushi... Oh, Shih Tzu!' Vika blurts out a Japanese food word instead of the dog's name. 'Oh' is a casual way to correct yourself."),
-    (13, None, "'Just like your dog. I will go!' 'Just like' is two words, 'as and'. 'I will go' is how Russians say 'I'm off'."),
+    (0, None, "'Vika, look at me. What is this?' To look at someone is \"posmotri na menya\", with \"na\", at, before the person. Then \"eto chto takoe\" is a blunt 'what is this?', the question you ask when you already suspect the answer."),
+    (1, None, "'Chef, this is my new little dog!' Vika's \"sobachka\" is \"sobaka\", dog, with the -chka ending that makes it small and sweet. Russians use these endings constantly with animals."),
+    (2, None, "'I bought her this morning.' The word \"utrom\", in the morning, is \"utro\" with -om, and it needs no 'in'. Vika says \"kupila\", with the -a of a woman speaking."),
+    (3, None, "'Why do you need a dog of the same breed?' Barinov's \"zachem tebe\" is literally 'what for to you', the short way to ask why someone needs something. Then \"takoy zhe\" means 'the same', and \"porody\" is \"poroda\", breed, in its 'of' form."),
+    (4, None, "'I just really liked your Dyson.' The dog's real name is Tyson, and Vika's \"Dayson\" is the slip. Liking runs backwards in Russian: \"mne ponravilsya\", literally 'to me he was pleasing'."),
+    (5, None, "'I could not resist and bought a puppy.' Saying \"ne uderzhalas\" means 'couldn't hold myself back', from \"derzhat\", to hold. Her \"pyosik\" is \"pyos\", dog, with the small, affectionate -ik."),
+    (6, None, "'But they are completely identical!' You can hear \"odin\", one, at the root of \"odinakovye\", identical. The \"zhe\" after \"no\", but, adds the feeling of 'but surely'."),
+    (7, None, "'Sorry, I still mix them up.' Literally 'up to these times', \"do sikh por\" means 'still' or 'to this day'. And \"putayu\", I mix up, goes back to \"putat\", to confuse."),
+    (8, None, "'It seems this one is yours, and this one is mine.' Starting with \"kazhetsya\", it seems, is how Russians soften a guess. Then \"vot eto vasha, a vot eta moya\" points at each dog in turn, with the polite \"vasha\" for her boss."),
+    (9, None, "'Vika, what is your dog's name?' Russian asks \"kak zovut\", literally 'how do they call', so the dog is the one being called: \"tvoego psa\". And \"pyos\" drops its o to become \"psa\"."),
+    (10, None, "'Mine? His name is Maxik!' The answer \"ego zovut\", his name is, follows the same 'they call him' pattern. The name \"Maksik\" is Max with a cuddly -ik, so she has named the dog after her colleague."),
+    (11, None, "'And what breed is this dog?' Russian says the breed is \"u etoy sobaki\", 'at this dog', which is how you say something has a thing. After \"u\" the dog takes its 'of' endings."),
+    (12, None, "'Breed sushi... Oh, Shih Tzu!' The little \"oy\" is the Russian 'oops'. And \"shitsu\" and sushi sound close enough that the mix-up is easy."),
+    (13, None, "'Just like your dog. I will go!' Literally 'as also', \"kak i\" means 'just like'. Saying \"ya poydu\", I'll go, is a common way to excuse yourself and leave."),
 ]

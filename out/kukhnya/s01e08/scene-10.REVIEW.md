@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hey, idiot, why are you sitting here?' The stranger uses the familiar 'you' with a person he doesn't know, which is rude on purpose. 'Hey' is as casual as it looks.
-- 'I am a great head chef, not an idiot at all!' The word 'a' in the middle means 'and not', and the expression for 'at all' sits in front of 'idiot'. 'Great' is the grand word for famous people.
-- 'Then why are you not cooking in the kitchen?' 'Don't cook' keeps its 'not' right in front of the cooking word. 'In the kitchen' puts the 'e' ending on the room.
-- 'They temporarily kicked me out of my own restaurant.' 'Temporarily' springs from 'time'. 'Kicked out' has no one named, so it sounds like 'I got thrown out'.
-- 'Who dared to kick out such a strict chef?' 'Dared' is a rare, slightly grand word. 'Such a strict chef' has the same 'ogo' ending on all three words.
-- 'An insolent woman from a neighboring restaurant.' 'One' here means 'a certain', and Barinov won't say her name. 'Neighboring' comes from 'neighbour'.
-- 'Women always bring men big problems.' The word for 'to men' ends in 'am', the ending that means 'to'. 'Bring' is the 'they' form.
-- 'You are absolutely right, my random conversational partner.' 'Right' is the short form that people use to agree. 'Conversational partner' is taken from 'with' plus 'conversation'.
-- 'And what are you going to do now?' 'are planning' ends in 'sya', so it is literally 'gathering yourself'. 'To do' follows it directly.
-- 'I will return and get my kitchen back!' The two words 'I will return' and 'I will give back' are close relatives, with one 'sya' between them. 'My own' points back at Barinov.
-- 'Now those are the right words, brave cook!' 'Those are the right words' is a pointing phrase. The term for 'brave' is rooted in the Russian for 'courage'.
-- 'Thank you for the advice, I am going to win!' 'Thank you for' is followed by the thing you're thanking for. 'I am going' is the present, used for the near future.
+- 'Hey, idiot, why are you sitting here?' The stranger says ty to a man he has never met, which is rude, and so is durak, 'fool'. The form sidish comes from sidet, 'to be sitting'.
+- 'I am a great head chef, not an idiot at all!' Adding vovse, 'at all', makes the a ne contrast stronger: a vovse ne durak. The word velikiy, 'great', is the title used for famous tsars.
+- 'Then why are you not cooking in the kitchen?' Russian puts ne straight in front to say 'aren't cooking': ne gotovish. And na kukhne again uses na for the kitchen.
+- 'They temporarily kicked me out of my own restaurant.' With menya vygnali, 'they kicked me out', Russian uses the 'they' form with no subject to say something was done to you. After iz, sobstvennyy restoran becomes sobstvennogo restorana.
+- 'Who dared to kick out such a strict chef?' Right after posmel, 'dared', comes the action, vygnat. When a man is the object, the endings are -ogo and -a: takogo strogogo povara.
+- 'An insolent woman from a neighboring restaurant.' Here odna means 'a certain', not 'one'. The word sosedniy, 'neighbouring', comes from sosed, 'neighbour'.
+- 'Women always bring men big problems.' The -am on muzhchinam means 'to men'. With prinosyat, 'they bring', the stranger means something that keeps happening.
+- 'You are absolutely right, my random conversational partner.' In an argument, being right is prav; a woman would say prava. A sobesednik is someone you talk with, from s, 'with', and beseda, 'conversation'.
+- 'And what are you going to do now?' Literally 'to gather oneself', sobiratsya also means 'to be going to': sobirayeshsya delat, 'are you going to do'. And teper means 'now, after all this'.
+- 'I will return and get my kitchen back!' Barinov's vernus, 'I'll come back', and vernu, 'I'll give back', differ only by -s, the short form of -sya. The word svoyu, 'my own', points back to him.
+- 'Now those are the right words, brave cook!' Russians approve with vot eto at the start: vot eto pravilnyye slova. The stranger calls him smelyy, 'brave', and the flattery works.
+- 'Thank you for the advice, I am going to win!' You thank someone za something: spasibo za sovet. Saying idu, 'I'm going', plus an action names what you're off to do, here pobezhdat, 'to win'.

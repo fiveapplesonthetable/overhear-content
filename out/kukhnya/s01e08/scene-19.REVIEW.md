@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Max, why did you lie about our future wedding?' The term for 'lied' is the one-time kind, built from the term for 'lie'. 'Future' ends in 'uyu' to match 'wedding', which is grammatically a she-word.
-- 'She will give this dog only to a married couple.' 'Family' turns into a describing word, so it's 'family couple'. A couple appears in the 'to' form, after 'give'.
-- 'I do not know how to lie so foolishly to people.' 'I know how' is the skill word, and it's followed by 'lie'. 'To people' uses a special form of the word 'people'.
-- 'You yourself desperately wanted to take this puppy!' 'Madly' is assembled from 'without' and 'mind'. 'Take away' has a prefix that means 'away'.
-- 'But you and I are not even dating!' Russian puts 'you and I' as 'we with you', which is a very natural way to join two people. The expression for 'not even' sits right in front of the action.
-- 'Play along with me a little while she pours tea.' 'Play along' is made of 'under' plus 'play'. 'While' is again the word that also means 'bye'.
-- 'She will immediately realize that we are just coworkers.' The Russian for 'will realize' is one word that carries the future. 'Ordinary' goes in front of 'coworkers', and the term for 'colleagues' is borrowed.
-- 'Then quickly hug me right now.' The expression for 'hug' is a short command, built on the expression for 'embrace'. 'Me' takes a changed form because Max is the one being hugged.
-- 'Are you out of your mind, stop shouting immediately!' The phrase literally means 'went off the mind'. 'Stop' is the short command.
-- 'Smile, the owner is already coming back here.' 'Smile' ends in 'sya'. 'Coming' is the term for walking, used for arrivals.
-- 'I will kill you after this strange meeting.' Vika is joking, and the Russian for 'I will kill' is a one-word future. 'After' is followed by the 'of' form, so 'meeting' changes its ending.
-- 'At least this sweet dog will live with us.' The first word means 'but on the plus side'. 'dog' here is the he-form, 'pyos', since the dog is a boy.
+- 'Max, why did you lie about our future wedding?' Vika's "sovral" means 'you lied', once and for good; the everyday 'to lie' is "vrat". After "pro", about, "svadba", wedding, shifts to "nashu budushchuyu svadbu".
+- 'She will give this dog only to a married couple.' Russian says "semeynaya para", 'a family couple', for a married one. Here it is "semeynoy pare", since the couple is who the dog goes to.
+- 'I do not know how to lie so foolishly to people.' For skills, Russians say "umeyu", I know how to: "ya umeyu plavat" is 'I can swim'. You lie to someone, so "lyudi", people, becomes "lyudyam".
+- 'You yourself desperately wanted to take this puppy!' Max says "sama", yourself, because he is talking to a woman; to a man it would be "sam". In "bezumno", madly, you can hear "bez", without, and "um", mind.
+- 'But you and I are not even dating!' Russian puts 'you and I' as "my s toboy", literally 'we with you'. For dating, "vstrechaemsya" literally says 'we meet each other', from "vstrecha", a meeting.
+- 'Play along with me a little while she pours tea.' Max's "podygray" is "pod", under, plus "igray", play: in music it means to accompany someone. And "poka" here is 'while', though you also know it as 'bye'.
+- 'She will immediately realize that we are just coworkers.' Vika's "poymyot" means 'she'll get it', in the future, while "ponimaet" would be 'she understands' right now. And "kollegi" is English 'colleagues'.
+- 'Then quickly hug me right now.' Max's "obnimi", hug me, is an order to someone he calls "ty". The Russian 'right now' is "pryamo seychas", literally 'straight now'.
+- 'Are you out of your mind, stop shouting immediately!' Vika's "ty s uma soshyol" translates word for word as 'you came down off your mind', with "s" meaning 'off'. After "prekrati", stop, comes plain "krichat", to shout.
+- 'Smile, the owner is already coming back here.' The -sya on "ulybaysya", smile, is part of the word itself. And "syuda" is 'to here', for movement, while "zdes" is 'here' for where something is.
+- 'I will kill you after this strange meeting.' The threat "ubyu", I'll kill, already means the future without any helper. Because "posle", after, wants the 'of' shape, "vstrecha" becomes "etoy strannoy vstrechi".
+- 'At least this sweet dog will live with us.' Max's "zato" is 'but on the plus side', a word Russians use to turn a complaint around. The male dog is "pyos", and "u nas" is 'at our place'.

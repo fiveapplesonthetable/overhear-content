@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'fedya': 'Федя', 'senya': 'Сеня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.08'
 SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
-INTRO = "In the kitchen, two of the cooks are comparing the new, polite chef with the old one. Then the old one walks in, in a very bad temper. It's in Russian first."
-OPENER = "Let's go back through it. The first half is calm, and the second is Barinov."
-TRANSITION = 'The scene again, with no gaps.'
-OUTRO = "Barinov's return is the loudest thing in the episode so far. Meanwhile you've picked up 'on the other hand' and 'get to work'. See you next time."
+INTRO = "Back in the kitchen at Claude Monet, Senya and Fedya, two of Barinov's cooks, are comparing their new, polite chef, Elena, with the old one. Then Barinov comes back in a terrible temper. It's in Russian first."
+OPENER = 'Slowly now. The first half is a quiet chat, and the second half is Barinov.'
+TRANSITION = 'Now the whole thing again, calm and then loud.'
+OUTRO = "The small word zato, 'but on the other hand', wins arguments. And bystro za rabotu, 'quick, to work', is what every boss says sooner or later. See you next time."
 CLOSING = ('senya', 'Пока!')
 STORY = [
     ('senya', 'Ну, как тебе новый шеф-повар?', 'Well, how do you like the new head chef?', [(203, 'Ну и как тебе новый шеф')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('barinov', 'Быстро за работу, живо!', 'Get to work quickly, lively!', [(211, 'Да пошли вы')], ''),
 ]
 WALK = [
-    (0, None, "'Well, how do you like the new head chef?' 'How to you' is the Russian for 'how do you like it'. The word 'well' at the start is a casual opener."),
-    (1, None, "'She seems a bit boring to me.' 'Seems to me' is the way Russian says 'I think'. 'Boring' comes from 'boredom'."),
-    (2, None, "'On the other hand she is calm and polite.' The first word is the Russian 'on the plus side', and it's a favourite of Kostya's. It means 'in return'."),
-    (3, None, "'That is true, she never yells.' The term for 'never' needs 'not' again. 'yells' ends in 'it', for 'she'."),
-    (4, None, "'With her the kitchen is quiet and pleasant.' 'With her' is two short words. The words for 'quiet' and 'pleasant' both end in 'o'."),
-    (5, None, "'Slackers! Scraps! What are you doing?' 'slackers' is related to 'without' plus 'work'. 'Scraps' means the leftover bits, such as apple cores."),
-    (6, None, "'I returned to restore complete order!' The Russian for 'returned' ends in a consonant for a man. 'Restore order' is a fixed phrase."),
-    (7, None, "'Chef, we were just cleaning the fish.' 'Were cleaning' is the long kind of past, and it means the action was still going on. 'Just' means 'merely'."),
-    (8, None, "'We are very glad to see you!' 'Glad' is the plural short form. 'To see you' puts 'you' in a changed form."),
-    (9, None, "'Stop chatting and take your knives!' 'Stop' is a formal plural command. 'Chatting' is the casual word for talking about nothing."),
-    (10, None, "'Who permitted you to stand idle?' 'Permitted' comes from 'allowed'. 'Without a task' is the Russian for 'idle'."),
-    (11, None, "'We will chop everything right now, chef.' 'We will chop' begins with 'na', which makes it a finished job. 'Right now' is a very common word."),
-    (12, None, "'Get to work quickly, lively!' 'To work' is a short call to action. 'Lively' comes from 'alive'."),
+    (0, None, "'Well, how do you like the new head chef?' Senya's kak tebe, literally 'how to you', is a short, casual way to ask an opinion. The nu at the start is a filler, like 'well'."),
+    (1, None, "'She seems a bit boring to me.' With kazhetsya mne, 'seems to me', the person gets a 'to' form. After kazatsya, 'to seem', the description takes the ending -oy: skuchnoy."),
+    (2, None, "'On the other hand she is calm and polite.' Here zato means 'but then, on the plus side', bringing in a point in her favour. Since they describe Elena, spokoynaya and vezhlivaya end in -aya."),
+    (3, None, "'That is true, she never yells.' Like nikto ne, nikogda, 'never', needs ne before the action: nikogda ne krichit. And krichit, 'she yells', comes from krichat."),
+    (4, None, "'With her the kitchen is quiet and pleasant.' After s, 'with', ona becomes ney: s ney. Russian needs no subject here: tikho and priyatno simply describe the mood."),
+    (5, None, "'Slackers! Scraps! What are you doing?' A bezdelnik, 'slacker', is someone bez dela, 'without work'. An ogryzok is literally an apple core or a gnawed leftover, and as an insult it's very rude."),
+    (6, None, "'I returned to restore complete order!' In vernulsya, 'I came back', the -lsya shows the speaker is a man. The fixed phrase navesti poryadok, 'to bring order', means sorting a place out."),
+    (7, None, "'Chef, we were just cleaning the fish.' Fedya's chistili describes what they were busy with when Barinov walked in. To clean fish, chistit rybu, means scaling and gutting it."),
+    (8, None, "'We are very glad to see you!' The short plural rady, 'glad', comes from rad. After videt, 'to see', vy becomes vas."),
+    (9, None, "'Stop chatting and take your knives!' Barinov's prekratite, 'stop', is said to all of them, with the action after it: boltat, 'to chatter'. With berite, 'take', he means 'get on with it'."),
+    (10, None, "'Who permitted you to stand idle?' The one allowed gets a 'to' form after razreshil, so it's vam. And bez dela, 'without work', is the idea behind bezdelnik."),
+    (11, None, "'We will chop everything right now, chef.' In narezhem, na- means cutting up a whole batch. Here seychas means 'right away'."),
+    (12, None, "'Get to work quickly, lively!' The call to start is za rabotu, 'to work'. And zhivo, 'lively', comes from zhivoy, 'alive', and means 'look sharp'."),
 ]

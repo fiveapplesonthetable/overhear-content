@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.08'
 SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
-INTRO = "Barinov is in his office again, and now he is suspicious of everyone. Max, who has just come in, thinks about why people feel that the world is against them. It's in Russian first."
-OPENER = "Let's go through it. Max talks about people in general, and the chef takes it personally."
-TRANSITION = 'Now put it all back together.'
-OUTRO = "The scene ends with a line about fear, in good plain Russian. You can use 'it is hard to enjoy life with such a mood' about almost anyone. See you next time."
+INTRO = "Barinov is in his office at Claude Monet again, and now he suspects everyone of plotting against him. Max, the young cook, is there too, and he reflects on why some people feel the whole world is against them. Here it is in Russian first."
+OPENER = "Let's go through the paranoia. Barinov accuses, and Max calmly disagrees."
+TRANSITION = "Now the scene in one go."
+OUTRO = "\"Slushayus, shef\", yes, Chef, is the line to keep: it's how a Russian kitchen, or an army, says 'right away'. See you next time."
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('barinov', 'Кругом одни предатели и шпионы!', 'Traitors and spies are all around!', [], ''),
@@ -32,18 +32,18 @@ STORY = [
     ('max', 'Страх мешает людям видеть правду вокруг.', 'Fear prevents people from seeing the truth around them.', [], ''),
 ]
 WALK = [
-    (0, None, "'Traitors and spies are all around!' 'All around' is one word that means 'everywhere you look'. 'Nothing but' is 'ones'."),
-    (1, None, "'Chef, nobody is plotting evil against you.' 'Plot' is rooted in 'thought'. 'Evil' appears in the 'of' form after 'not'."),
-    (2, None, "'You understand nothing about people, runt!' Russian says 'understand in people', using 'in' where English says 'about'. The sentence also has 'nothing' and 'not' together, which is the normal Russian way."),
-    (3, None, "'People often create problems for themselves.' The Russian repeats 'self' twice, once as 'themselves' and once as 'for themselves', and it sounds emphatic. 'Create' is the 'they' form, ending in 'yut'."),
-    (4, None, "'Others mistakenly think the whole world is against them.' 'Third' stands for the third group in a list: some, others, and still others. 'Mistakenly' comes from 'mistake'."),
-    (5, None, "'They are simply jealous of my great talent!' Russians envy 'to' someone, so 'talent' takes a 'u' ending, as the thing envied. 'My great' takes the same ending, so all three words rhyme."),
-    (6, None, "'But constant suspicions only ruin life.' 'Suspicions' comes from 'suspect'. 'Ruin' is the 'they' form."),
-    (7, None, "'Caution in the kitchen is never unnecessary.' 'Never' needs its 'not', as always. 'Unnecessary' is the 'ey' form that follows 'is', so it comes out as literally 'never is superfluous'."),
-    (8, None, "'Sometimes it is useful to simply trust your cooks.' 'Useful' stands alone, like 'it is useful', with no subject. 'Trust' takes 'to', so Russians trust 'to' their cooks."),
-    (9, None, "'I trust only my own frying pan.' 'My own' also means 'dear', meaning a loving phrase. 'Trust' again takes the 'to' form."),
-    (10, None, "'With such a mood it is hard to enjoy life.' 'Mood' is based on 'tune'. 'Enjoy' ends in 'sya' and goes into the 'to' form of 'life'."),
-    (11, None, "'Enough lecturing me, go chop onions!' Russians 'read' lectures, so 'read me lectures' is the phrase. 'Onion' is the word that also means 'bow'."),
-    (12, None, "'Right away, Chef, I am already running to the kitchen.' The line begins with what a soldier would say, 'I obey'. 'I am running' is the present, used for 'right now'."),
-    (13, None, "'Fear prevents people from seeing the truth around them.' Max steps out of the conversation to state a general idea. 'Prevents' appears in the 'to' form of 'people', since you hinder 'to' someone."),
+    (0, None, "'Traitors and spies are all around!' The word \"krugom\", all around, comes from \"krug\", circle. Here \"odni\", 'ones', means 'nothing but'."),
+    (1, None, "'Chef, nobody is plotting evil against you.' After \"protiv\", against, 'you' is \"vas\". Evil, \"zlo\", becomes \"zla\" after \"ne\", the usual change after a negative."),
+    (2, None, "'You understand nothing about people, runt!' To understand about is \"ponimat v\", and after \"v\" the people, \"lyudi\", become \"lyudyakh\". \"Oguzok\", Barinov's insult for Max, is a butcher's word for the tail end of a beef carcass."),
+    (3, None, "'People often create problems for themselves.' For a group, 'themselves' is \"sami\", the plural of \"sam\". And \"sebe\" means 'for oneself', for any person."),
+    (4, None, "'Others mistakenly think the whole world is against them.' Max's \"tretyi\" means 'third ones': he is continuing the list he began with \"odni\", some. And \"oshibochno\", mistakenly, is from \"oshibka\", a mistake."),
+    (5, None, "'They are simply jealous of my great talent!' In Russian you envy 'to' something, so \"zavidovat\" gives \"moemu velikomu talantu\". And \"zaviduyut\" follows the same -ovat to -uyut pattern as \"komanduyu\"."),
+    (6, None, "'But constant suspicions only ruin life.' Russians say \"portit\", spoils, for ruining a mood, a day or food that goes off. One suspicion is \"podozrenie\", and several are \"podozreniya\"."),
+    (7, None, "'Caution in the kitchen is never unnecessary.' The word \"ostorozhnost\", caution, is built from \"ostorozhno\", careful. And \"ne byvaet lishney\" echoes a Russian saying that caution never hurts."),
+    (8, None, "'Sometimes it is useful to simply trust your cooks.' Trust goes 'to' someone, so \"doveryat\" gives \"svoim povaram\". Many pieces of advice open with \"polezno\", it's useful."),
+    (9, None, "'I trust only my own frying pan.' Barinov's \"skovorodka\" is a small or dear \"skovoroda\", the pan Fedya burned the quails in. And \"rodnoy\", one's own, is the same word Barinov used for his cooks."),
+    (10, None, "'With such a mood it is hard to enjoy life.' You rejoice 'to' something, so \"radovatsya\" turns life into \"zhizni\". And \"s takim nastroeniem\" is 'with such a mood', with -em after \"s\"."),
+    (11, None, "'Enough lecturing me, go chop onions!' After \"khvatit\", enough, comes plain 'to read': \"khvatit chitat\", stop reading. And \"narezat\", to chop up, is \"rezat\", to cut, with \"na-\"."),
+    (12, None, "'Right away, chef, I am already running to the kitchen.' Literally 'I am listening', \"slushayus\" is the military 'yes, sir'. And \"uzhe begu\", already running, is how Russians say 'on my way'."),
+    (13, None, "'Fear prevents people from seeing the truth around them.' Fear, \"strakh\", gets in the way 'to' people: \"meshaet lyudyam\". Then plain \"videt\", to see, follows straight after."),
 ]

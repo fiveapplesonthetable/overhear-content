@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'That proves my point, Elena Pavlovna!' The phrase is the Russian version of the mathematician's 'which was to be proved'. Barinov uses it as a maths teacher would.
-- 'I turned out absolutely right again today.' 'Turned out' is the word Russian uses for 'ended up being'. 'Right' is the man's short form.
-- 'As always, I won the bet!' 'However' or 'by the way' opens the line. 'Bet' is borrowed from French and never changes its ending.
-- 'Viktor, stop talking this silly nonsense.' 'Stop' is a polite plural. 'Nonsense' is a casual word, closer to 'rubbish'.
-- 'I worked in your kitchen the whole day.' 'Worked' starts with a prefix that means 'all through'. 'Your' is the formal one.
-- 'At first everything was completely calm and normal.' 'Was' is neuter, because 'everything' is.
-- 'And then all the cooks seemed to get sick!' 'Fell ill' is the past plural.
-- 'You have nothing but invalids working in your kitchen!' 'Invalids' is Barinov's own word for his cooks, and Elena borrows it with a sneer. 'Nothing but' is made from a word meaning 'solid'.
-- 'Right, but these are my own people!' 'Right' is a one-word agreement. 'Own' also means 'kin', so they are his people in a family sense.
-- 'And only I have the right to scold them.' 'I have the right' is literally 'I have right'. 'Scold' is followed by 'them' in a changed form.
-- 'The chef's job is to make a team out of them!' 'The job of the chef' puts the 'a' ending on 'chef'. 'Out of them' is two small words.
-- 'You know how to beautifully justify any mess.' 'Know how' is the skill word. 'Justify' is related to 'right'.
-- 'Chef, you owe me a great dinner!' 'You owe me' is 'must' plus 'to me'. 'Great' is the Russian for top marks.
+- 'That proves my point, Elena Pavlovna!' Russians know "chto i trebovalos dokazat" as their 'Q.E.D.', the line that ends a proof in a school maths book. Barinov uses it to mean 'just as I said'.
+- 'I turned out absolutely right again today.' Russians say "okazalsya", turned out, when something proved to be so. For being right, "pravyy" shrinks to "prav".
+- 'As always, I won the bet!' A bet is "pari", borrowed from French, and like many such loans its ending never changes. The opening "vprochem" is 'come to think of it', a slightly bookish way to add something.
+- 'Viktor, stop talking this silly nonsense.' Elena uses his first name and the polite "prekratite", stop. The nonsense, "erunda", takes -u as the thing being talked: "glupuyu erundu".
+- 'I worked in your kitchen the whole day.' Elena's "prorabotala" is "rabotala", worked, with "pro-", which means 'all through a stretch of time'. And "tselyy den", the whole day, needs no word for 'for'.
+- 'At first everything was completely calm and normal.' Since "vsyo", everything, counts as an 'it', the word for 'was' is "bylo". And "snachala", at first, is "s" plus "nachalo", beginning.
+- 'And then all the cooks seemed to get sick!' Here "slovno" means 'as if' or 'like', a little more literary than "budto". With "zaboleli" the cooks have fallen ill, not just been ill.
+- 'You have nothing but cripples working in your kitchen!' The word "sploshnye", nothing but, literally means solid or continuous. And "invalidy" is a harsh word for disabled people, which Elena throws at the cooks as an insult.
+- 'Right, but these are my own people!' Barinov agrees, "pravilno", and turns her insult around. In Russian "rodnye" means kin, one's own family, so he is calling the cooks family.
+- 'And only I have the right to scold them.' To have the right is "imet pravo", with "imet", a formal 'to have'. And "rugat", to scold, also means to swear at.
+- 'The chef's job is to make a team out of them!' The dash stands in for 'is', as it often does between two naming words. To make out of is "sdelat iz", and after "iz" 'them' is "nikh".
+- 'You know how to beautifully justify any mess.' Inside "opravdat", to justify, sits "pravda", truth. And "besporyadok", mess, is "bez", without, plus "poryadok", order.
+- 'Chef, you owe me a great dinner!' The word "dolzhny" means both 'must' and 'owe', and the person owed comes as 'to me', "mne". Since "otlichno" is also the top mark in Russian schools, "otlichnyy" is high praise.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, can the cooks go out for a smoke?' 'Is it possible' is followed by 'to the cooks' and then the action, which is how Russians ask for permission. The last word is 'to have a smoke break'.
-- 'Are you mad? There are plenty of orders!' 'In your mind' is the Russian for 'in your right mind'. 'Plenty' means 'full'.
-- 'But there are no meat orders now.' 'For meat' uses 'po', which means 'regarding'. 'No' is followed by the 'of' form.
-- 'Then quickly switch over to poultry!' 'Switch' is taken from 'across' and 'go'. 'To chicken' uses the movement ending.
-- 'The cooks are very tired from this work.' 'Got tired' is the finished kind of 'tire'. 'From this work' uses the short word for 'from'.
-- 'No smoke breaks, everyone stays in the kitchen!' 'No ... at all' is stronger than 'no'. 'Breaks' goes into the 'of' form.
-- 'You are too strict with our team.' 'Strict' has a short form, which sounds formal. 'With our team' ends in 'oy'.
-- 'I need you to work excellently!' Russian says 'I need that you worked', with the past form after the small word 'chtoby'. This pattern is used for wishes about other people.
-- 'The kitchen has run out of fresh arugula.' 'Ran out' ends in 'as' because 'arugula' counts as a she-word. 'Arugula' itself is borrowed from Italian.
-- 'Lyova, quickly bring arugula from the storeroom!' 'Bring' is the polite plural. 'From the storeroom' uses 'so', which is 'from' made easier to say.
-- 'I am a sous-chef, not a courier!' 'Sous' is French for 'under', and the Russian keeps it. 'Courier' is another French borrowing.
-- 'I decide myself who will go there!' 'Myself' is the woman's form. 'Who will go' is a one-word future.
-- 'Fine, Chef, I will bring this greenery.' 'Greenery' is a collective word for herbs, built on 'green'. 'I will bring' starts with 'pri'.
+- 'Chef, can the cooks go smoke?' Permission with "mozhno" is asked 'to' someone, so "povara", cooks, becomes "povaram". Inside "perekurit" sits "kurit", to smoke, with "pere-" added: a quick smoke break.
+- 'Are you mad? Plenty of orders!' Elena's question, "vy v svoyom ume", is literally 'are you in your own mind?' After "polno", plenty, orders come out as "zakazov", 'of orders'.
+- 'But there are no meat orders now.' In kitchen talk, "po myasu" means 'on the meat side'. A "chek" is the printed order ticket, and after "net", there are no, it becomes "chekov".
+- 'Then quickly switch over to poultry!' Literally 'it means', "znachit" is the everyday 'so' or 'then'. To switch to something is "perekhodit na": the chicken, "kuritsa", becomes "na kuritsu".
+- 'The cooks are very tired from this work.' Lyova says "ustali", which looks past: Russians say they 'got tired' and still are. Tired of something is "ustat ot", so the work becomes "etoy raboty".
+- 'No smoke breaks, everyone stays in the kitchen!' The phrase "nikakikh perekurov", no smoke breaks of any kind, is how Russian makes a flat ban. Kitchens take "na", on, so it's "na kukhne".
+- 'You are too strict with our team.' Lyova says "strogi", a shortened "strogiy", the shape Russians use for what someone is like right now. With the team is "s nashey komandoy", and that -oy ending is what "s", with, asks for.
+- 'I need you to work excellently!' To want someone else to do something, Russian says "chtoby" plus a past-looking form: "chtoby vy rabotali". And "mne nuzhno" is literally 'to me it is needed'.
+- 'The kitchen has run out of fresh arugula.' Literally 'finished itself': "zakonchilas" is what Russians say when something has run out. Because "rukola" is a 'she' word, it ends in -as to match.
+- 'Lyova, quickly bring arugula from the storeroom!' Elena says "prinesite", the polite 'bring', even to her own staff. In "so sklada", from the storeroom, the "so" is "s", from, with an extra o before a tricky cluster of consonants.
+- 'I am a sous-chef, not a courier!' There's no 'am' at all, just "ya su-shef". And "a ne" means 'and not', the usual way to say 'this, not that'.
+- 'I decide myself who will go there!' Elena says "sama", myself, as a woman; a man would say "sam". The word "tuda", to there, is for movement, the partner of "syuda", to here.
+- 'Fine, Chef, I will bring this greenery.' Lyova's "prinesu" means 'I will bring', a promise about later. And "zelen", greens, comes from "zelyonyy", green.

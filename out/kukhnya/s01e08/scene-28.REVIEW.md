@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We already have three returned dishes!' 'Three' is followed by a singular 'of' form, so 'return' ends in 'a'. 'Dishes' takes the 'of' form too.
-- 'The cooks cannot serve anything on time.' The term for 'manage' literally means 'have time to'. 'On time' is one word.
-- 'Elena Pavlovna, what happened here?' Barinov uses her first name and father's name, which is formal. 'happened' ends in 'o', for 'it'.
-- 'Chef, I am not coping at all.' 'cope' ends in 'sya'. 'Not at all' sits before it.
-- 'Calm down, now I will restore order.' The Russian for 'calmly' is used here as an order. 'bring' begins with 'na' in the sense of 'bring about'.
-- 'Fedya, go have a smoke for three minutes.' 'Smoke for a while' has a prefix that makes it a short break. 'Three minutes' takes a singular 'of' form.
-- 'He needs a smoke break every hour and a half.' 'Needed' ends in a consonant, to agree with 'break'. 'An hour and a half' is a special word and 'hour' in a changed form.
-- 'Senya, switch to preparing meat.' The word for 'switch' is formed from 'across' and 'go'. 'Prepare' is followed by 'meat' in its plain form.
-- 'He does not know how to cook poultry at all.' 'does not know how' is the skill word. 'Poultry' literally means 'bird', in the object form.
-- 'Louis, call a friend for two minutes.' 'Call' is based on 'ring'. 'For two minutes' uses 'na', as Russians say 'on' for a length of time.
-- 'And why is Mazar doing nothing?' 'Nothing' and 'not' go together. 'Doing' is a bare word.
-- 'Because he never knows how to do anything.' The term for 'because' is put together from 'for this' plus 'that'. 'Never' and 'anything' both keep their negatives.
-- 'Mazar, you are fired!' 'Fired' is a short form that means 'is dismissed'. It is the shortest line in the scene.
-- 'Now the kitchen works perfectly.' 'Now' here means 'at last'. 'Perfectly' comes from 'ideal'.
+- 'We already have three returned dishes!' After "tri", three, Russian uses the 'of a single one' shape, so "vozvrat" becomes "tri vozvrata". And "blyud", of dishes, has no ending at all: that bare shape is 'of dishes', from "blyudo".
+- 'The cooks cannot serve anything on time.' To manage something in time is "uspevat", and "ne uspevayut" is the cooks falling behind. The word "vovremya", on time, is "v" plus "vremya", time, written as one word.
+- 'Elena Pavlovna, what happened here?' Barinov uses her first name and her father's name, Pavlovna, the respectful way to address a colleague. And "sluchilos", happened, ends in -os to match "chto", what.
+- 'Chef, I am not coping at all.' Elena's "spravlyayus" is the word Ainura used about the cooks, now said about herself. And "sovsem ne" means 'not at all'.
+- 'Calm down, now I will restore order.' On its own, "spokoyno", calmly, works as 'easy, calm down'. To bring order is "navesti poryadok", a fixed pairing, and "navedu" is 'I will bring'.
+- 'Fedya, go have a smoke for three minutes.' Two commands sit side by side in "idi pokuri", 'go, smoke'. The "po-" in "pokuri" makes it 'smoke a little', and "tri minuty" has the same 'after three' shape as "tri vozvrata".
+- 'He needs a smoke break every hour and a half.' Barinov says "nuzhen", needed, the 'he' shape that matches "perekur". After "poltora", one and a half, comes the 'of one' shape, "chasa".
+- 'Senya, switch to preparing meat.' Earlier "perekhodit" moved the cooks onto chicken, and now Barinov's "perekhodi" sends Senya back the other way. Note that "gotovit" is both 'to cook' and 'to prepare'.
+- 'He does not know how to cook poultry at all.' Literally, "ptitsa" is a bird, and on a menu it means poultry. Then "ne umeet", can't, is about skill, not permission.
+- 'Louis, call your friend for two minutes.' Russian rings 'to' someone, so it's "pozvoni drugu", call to a friend. With "na dve minuty", the "na" marks a planned length of time.
+- 'And why is Mazar doing nothing?' Literally 'does not do nothing', "nichego ne delaet" is normal Russian. The opening "a" pushes the question in: 'and what about Mazar?'
+- 'Because he never knows how to do anything.' Barinov's "nikogda nichego ne" stacks three negatives, never, nothing, not, and Russian keeps all of them. And "potomu chto" is 'because', literally 'by that, that'.
+- 'Mazar, you are fired!' Fired is "uvolen", a short shape from "uvolit", to dismiss. So "ty uvolen" is the whole sentence; there is no 'are'.
+- 'Now the kitchen works perfectly.' You hear a satisfied 'there, now' in "vot teper". And "idealno", perfectly, shares its root with English 'ideal'.

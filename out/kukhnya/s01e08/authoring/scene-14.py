@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'elena': 'Елена', 'sasha': 'Саша', 'senya': 'Сеня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.08'
 SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
-INTRO = "Barinov is away, and the kitchen is running unusually quietly. Elena speaks to her cooks politely, even using their full first names, and they don't quite know how to take it. It's in Russian first."
-OPENER = "Let's go back through the quiet kitchen. Elena asks, rather than shouts."
-TRANSITION = "Let's hear the lot together."
-OUTRO = "A polite kitchen is a rare thing, and so is a kitchen where the boss says 'please prepare'. You've heard the polite plural command a lot in this scene. See you next time."
+INTRO = "With Barinov out of the way, Elena is running his kitchen at Claude Monet her own way. She speaks politely, calls the cooks by their full names, and nobody shouts. The cooks don't quite know what to make of it. It's in Russian first."
+OPENER = 'Slowly now. Elena asks rather than shouts, even when the guests start to complain.'
+TRANSITION = 'Now the whole quiet service again, at full speed.'
+OUTRO = 'Almost every order Elena gives has the polite -te ending: prigotovte, poprosite, davayte. A boss who talks like that is rare in any kitchen. See you next time.'
 CLOSING = ('elena', 'Пока!')
 STORY = [
     ('elena', 'Фёдор, приготовьте две порции креветок.', 'Fyodor, prepare two portions of shrimp.', [(163, 'приготовьте, пожалуйста, еще две порции креветок')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('senya', 'Мы всё сделаем вовремя, шеф!', 'We will make everything on time, chef!', [(184, 'Да, шеф')], ''),
 ]
 WALK = [
-    (0, None, "'Fyodor, prepare two portions of shrimp.' Elena uses the full first name, which is formal. 'Prepare' is the polite plural, and 'two' is the she-form, since 'portion' is one of the she-words."),
-    (1, None, "'A chef should shout at cooks!' 'should' literally means 'must'. 'Shout at' takes the word 'na', followed by the cooks in a changed form."),
-    (2, None, "'Arseny, you deserve respectful treatment.' This is the full form of Senya's name. 'deserve' is followed by the 'of' form, so 'treatment' changes its ending."),
-    (3, None, "'But strict discipline is needed in the kitchen.' 'needed' ends in 'a' to agree with 'discipline'. 'In the kitchen' has the usual 'e' ending."),
-    (4, None, "'You have the cleanest workstation.' 'The cleanest' is literally 'most clean'. The Russian for 'workplace' is made from 'work' and 'place'."),
-    (5, None, "'Where is the hot dish for table three?' The Russian for 'third' agrees with 'little table' in the 'of' form. A table is called by its number."),
-    (6, None, "'The guests have been waiting forty minutes already!' Forty is a special word, unlike the other tens. 'Minutes' goes into the 'of' form after it."),
-    (7, None, "'Sasha, calmly, let us breathe deeply.' 'Let us' is the respectful plural. 'Breathe' and 'deeply' go together."),
-    (8, None, "'This dish takes over an hour to cook.' 'Is cooked' ends in 'sya', so the dish cooks itself. 'More than an hour' puts the 'a' ending on 'hour'."),
-    (9, None, "'They threaten to leave without paying.' The word for 'threaten' ends in 'sya'. 'Without payment' uses the 'of' form after 'without'."),
-    (10, None, "'Ask the guests to wait a little longer.' 'Ask' is the formal plural. 'A little more' is two words."),
-    (11, None, "'New order: partridge and mushrooms.' A list after a colon needs no verb. 'Partridge' counts as a she-word."),
-    (12, None, "'We will make everything on time, chef!' 'on time' is one word. 'We will make' ends in 'im', the ending for 'we'."),
+    (0, None, "'Fyodor, prepare two portions of shrimp.' Elena calls Fedya by his full first name, which sounds formal in a kitchen. With portsiya, 'portion', two takes the feminine dve, and shrimp become krevetok, 'of shrimp'."),
+    (1, None, "'A chef should shout at cooks!' Senya's dolzhen, 'must, should', matches shef, a masculine word. After krichat na, 'to shout at', povara becomes povarov."),
+    (2, None, "'Arseny, you deserve respectful treatment.' Once again Elena uses a full first name, this time for Senya. With zasluzhivat, 'to deserve', what you deserve takes the endings -ogo and -ya: dostoynogo obrashcheniya."),
+    (3, None, "'But strict discipline is needed in the kitchen.' The -a on nuzhna, 'needed', matches distsiplina. Senya argues for the shouting he's used to."),
+    (4, None, "'You have the cleanest workstation.' Here samoye chistoye, 'the cleanest', matches mesto, which is neuter. A rabocheye mesto is a workstation, and also a job."),
+    (5, None, "'Where is the hot dish for table three?' Restaurant staff call a table stolik, literally 'little table'. After dlya, tretiy stolik becomes tretyego stolika."),
+    (6, None, "'The guests have been waiting forty minutes already!' Waiting that is still going on stays in the present: zhdut uzhe. Unlike tridtsat and pyatdesyat, sorok, 'forty', has its own shape, and after it minuta becomes minut."),
+    (7, None, "'Sasha, calmly, let us breathe deeply.' Elena's davayte dyshat, 'let's breathe', is the polite 'let's' with the basic form of the action. On its own here, spokoyno means 'easy now'."),
+    (8, None, "'This dish takes over an hour to cook.' Russian adds -sya to gotovit when nobody is named as the cook: gotovitsya, 'is cooking'. After bolshe, 'more than', chas becomes chasa."),
+    (9, None, "'They threaten to leave without paying.' The guests grozyatsya uyti, 'threaten to leave'. After bez, 'without', oplata, 'payment', becomes oplaty."),
+    (10, None, "'Ask the guests to wait a little longer.' Her poprosite, 'ask', is polite, from poprosit. To ask for more time, Russian says yeshchyo nemnogo, 'a little more'."),
+    (11, None, "'New order: partridge and mushrooms.' As with the veal and cod on the first order, a called-out order needs only the dishes. Here kuropatka is partridge and griby are mushrooms."),
+    (12, None, "'We will make everything on time, chef!' Senya's sdelayem, 'we'll get it done', promises a finished job. And vovremya, 'on time', joins v and vremya."),
 ]

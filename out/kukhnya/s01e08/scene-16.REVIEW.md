@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, how do you like the new head chef?' 'How to you' is the Russian for 'how do you like it'. The word 'well' at the start is a casual opener.
-- 'She seems a bit boring to me.' 'Seems to me' is the way Russian says 'I think'. 'Boring' comes from 'boredom'.
-- 'On the other hand she is calm and polite.' The first word is the Russian 'on the plus side', and it's a favourite of Kostya's. It means 'in return'.
-- 'That is true, she never yells.' The term for 'never' needs 'not' again. 'yells' ends in 'it', for 'she'.
-- 'With her the kitchen is quiet and pleasant.' 'With her' is two short words. The words for 'quiet' and 'pleasant' both end in 'o'.
-- 'Slackers! Scraps! What are you doing?' 'slackers' is related to 'without' plus 'work'. 'Scraps' means the leftover bits, such as apple cores.
-- 'I returned to restore complete order!' The Russian for 'returned' ends in a consonant for a man. 'Restore order' is a fixed phrase.
-- 'Chef, we were just cleaning the fish.' 'Were cleaning' is the long kind of past, and it means the action was still going on. 'Just' means 'merely'.
-- 'We are very glad to see you!' 'Glad' is the plural short form. 'To see you' puts 'you' in a changed form.
-- 'Stop chatting and take your knives!' 'Stop' is a formal plural command. 'Chatting' is the casual word for talking about nothing.
-- 'Who permitted you to stand idle?' 'Permitted' comes from 'allowed'. 'Without a task' is the Russian for 'idle'.
-- 'We will chop everything right now, chef.' 'We will chop' begins with 'na', which makes it a finished job. 'Right now' is a very common word.
-- 'Get to work quickly, lively!' 'To work' is a short call to action. 'Lively' comes from 'alive'.
+- 'Well, how do you like the new head chef?' Senya's kak tebe, literally 'how to you', is a short, casual way to ask an opinion. The nu at the start is a filler, like 'well'.
+- 'She seems a bit boring to me.' With kazhetsya mne, 'seems to me', the person gets a 'to' form. After kazatsya, 'to seem', the description takes the ending -oy: skuchnoy.
+- 'On the other hand she is calm and polite.' Here zato means 'but then, on the plus side', bringing in a point in her favour. Since they describe Elena, spokoynaya and vezhlivaya end in -aya.
+- 'That is true, she never yells.' Like nikto ne, nikogda, 'never', needs ne before the action: nikogda ne krichit. And krichit, 'she yells', comes from krichat.
+- 'With her the kitchen is quiet and pleasant.' After s, 'with', ona becomes ney: s ney. Russian needs no subject here: tikho and priyatno simply describe the mood.
+- 'Slackers! Scraps! What are you doing?' A bezdelnik, 'slacker', is someone bez dela, 'without work'. An ogryzok is literally an apple core or a gnawed leftover, and as an insult it's very rude.
+- 'I returned to restore complete order!' In vernulsya, 'I came back', the -lsya shows the speaker is a man. The fixed phrase navesti poryadok, 'to bring order', means sorting a place out.
+- 'Chef, we were just cleaning the fish.' Fedya's chistili describes what they were busy with when Barinov walked in. To clean fish, chistit rybu, means scaling and gutting it.
+- 'We are very glad to see you!' The short plural rady, 'glad', comes from rad. After videt, 'to see', vy becomes vas.
+- 'Stop chatting and take your knives!' Barinov's prekratite, 'stop', is said to all of them, with the action after it: boltat, 'to chatter'. With berite, 'take', he means 'get on with it'.
+- 'Who permitted you to stand idle?' The one allowed gets a 'to' form after razreshil, so it's vam. And bez dela, 'without work', is the idea behind bezdelnik.
+- 'We will chop everything right now, chef.' In narezhem, na- means cutting up a whole batch. Here seychas means 'right away'.
+- 'Get to work quickly, lively!' The call to start is za rabotu, 'to work'. And zhivo, 'lively', comes from zhivoy, 'alive', and means 'look sharp'.

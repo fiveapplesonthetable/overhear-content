@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'passerby': 'Прохожий'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.08'
 SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
-INTRO = "Barinov has lost the bet in one sense: for the day his kitchen belongs to Elena, and he has been told to stay out. He sits on a bench outside the restaurant, and a stranger sits down beside him. It's in Russian first."
-OPENER = "Let's go back through the chat on the bench. The stranger is rude, the chef is gloomy, and the Russian is easy to follow."
-TRANSITION = 'Hear it again with that help.'
-OUTRO = "A rude stranger can still give good advice, as Barinov finds out. You've heard how to say 'I will go back and take it back' with two close words. See you next time."
+INTRO = "Barinov has been shut out of his own restaurant, Claude Monet, while Elena runs his kitchen for the day. He sits on a bench outside, and a rude stranger sits down next to him. It's in Russian first."
+OPENER = 'Slowly now. The stranger starts with an insult, and by the end Barinov is thanking him.'
+TRANSITION = 'Now the whole conversation on the bench again.'
+OUTRO = "Barinov's vow, ya vernus i vernu svoyu kukhnyu, 'I'll come back and get my kitchen back', puts two close words together: vernutsya, 'to return', and vernut, 'to get something back'. And spasibo za sovet, 'thanks for the advice', is useful any day. See you next time."
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('passerby', 'Эй, дурак, почему ты сидишь здесь?', 'Hey, idiot, why are you sitting here?', [(124, 'Эй, дурак')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('barinov', 'Спасибо за совет, я иду побеждать!', 'Thank you for the advice, I am going to win!', [], ''),
 ]
 WALK = [
-    (0, None, "'Hey, idiot, why are you sitting here?' The stranger uses the familiar 'you' with a person he doesn't know, which is rude on purpose. 'Hey' is as casual as it looks."),
-    (1, None, "'I am a great head chef, not an idiot at all!' The word 'a' in the middle means 'and not', and the expression for 'at all' sits in front of 'idiot'. 'Great' is the grand word for famous people."),
-    (2, None, "'Then why are you not cooking in the kitchen?' 'Don't cook' keeps its 'not' right in front of the cooking word. 'In the kitchen' puts the 'e' ending on the room."),
-    (3, None, "'They temporarily kicked me out of my own restaurant.' 'Temporarily' springs from 'time'. 'Kicked out' has no one named, so it sounds like 'I got thrown out'."),
-    (4, None, "'Who dared to kick out such a strict chef?' 'Dared' is a rare, slightly grand word. 'Such a strict chef' has the same 'ogo' ending on all three words."),
-    (5, None, "'An insolent woman from a neighboring restaurant.' 'One' here means 'a certain', and Barinov won't say her name. 'Neighboring' comes from 'neighbour'."),
-    (6, None, "'Women always bring men big problems.' The word for 'to men' ends in 'am', the ending that means 'to'. 'Bring' is the 'they' form."),
-    (7, None, "'You are absolutely right, my random conversational partner.' 'Right' is the short form that people use to agree. 'Conversational partner' is taken from 'with' plus 'conversation'."),
-    (8, None, "'And what are you going to do now?' 'are planning' ends in 'sya', so it is literally 'gathering yourself'. 'To do' follows it directly."),
-    (9, None, "'I will return and get my kitchen back!' The two words 'I will return' and 'I will give back' are close relatives, with one 'sya' between them. 'My own' points back at Barinov."),
-    (10, None, "'Now those are the right words, brave cook!' 'Those are the right words' is a pointing phrase. The term for 'brave' is rooted in the Russian for 'courage'."),
-    (11, None, "'Thank you for the advice, I am going to win!' 'Thank you for' is followed by the thing you're thanking for. 'I am going' is the present, used for the near future."),
+    (0, None, "'Hey, idiot, why are you sitting here?' The stranger says ty to a man he has never met, which is rude, and so is durak, 'fool'. The form sidish comes from sidet, 'to be sitting'."),
+    (1, None, "'I am a great head chef, not an idiot at all!' Adding vovse, 'at all', makes the a ne contrast stronger: a vovse ne durak. The word velikiy, 'great', is the title used for famous tsars."),
+    (2, None, "'Then why are you not cooking in the kitchen?' Russian puts ne straight in front to say 'aren't cooking': ne gotovish. And na kukhne again uses na for the kitchen."),
+    (3, None, "'They temporarily kicked me out of my own restaurant.' With menya vygnali, 'they kicked me out', Russian uses the 'they' form with no subject to say something was done to you. After iz, sobstvennyy restoran becomes sobstvennogo restorana."),
+    (4, None, "'Who dared to kick out such a strict chef?' Right after posmel, 'dared', comes the action, vygnat. When a man is the object, the endings are -ogo and -a: takogo strogogo povara."),
+    (5, None, "'An insolent woman from a neighboring restaurant.' Here odna means 'a certain', not 'one'. The word sosedniy, 'neighbouring', comes from sosed, 'neighbour'."),
+    (6, None, "'Women always bring men big problems.' The -am on muzhchinam means 'to men'. With prinosyat, 'they bring', the stranger means something that keeps happening."),
+    (7, None, "'You are absolutely right, my random conversational partner.' In an argument, being right is prav; a woman would say prava. A sobesednik is someone you talk with, from s, 'with', and beseda, 'conversation'."),
+    (8, None, "'And what are you going to do now?' Literally 'to gather oneself', sobiratsya also means 'to be going to': sobirayeshsya delat, 'are you going to do'. And teper means 'now, after all this'."),
+    (9, None, "'I will return and get my kitchen back!' Barinov's vernus, 'I'll come back', and vernu, 'I'll give back', differ only by -s, the short form of -sya. The word svoyu, 'my own', points back to him."),
+    (10, None, "'Now those are the right words, brave cook!' Russians approve with vot eto at the start: vot eto pravilnyye slova. The stranger calls him smelyy, 'brave', and the flattery works."),
+    (11, None, "'Thank you for the advice, I am going to win!' You thank someone za something: spasibo za sovet. Saying idu, 'I'm going', plus an action names what you're off to do, here pobezhdat, 'to win'."),
 ]

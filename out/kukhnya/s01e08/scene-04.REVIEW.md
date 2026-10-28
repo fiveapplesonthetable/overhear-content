@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Viktor, you are behaving very rudely!' 'Behave' is literally 'lead yourself', so 'you lead yourself rudely'. 'Rudely' is made from 'rough'.
-- 'I treat all women wonderfully.' 'Treat' comes from 'relate', and it's followed by 'to'. 'To all women' has the 'm' endings.
-- 'Then why do you insult me like that?' 'Insult' comes from 'an offence'. 'Like that' is two small words.
-- 'You will not be able to work a whole day.' 'Will not be able' is made of 'not' and one word. 'A whole day' needs no word for 'for'.
-- 'Then let us bet right now!' 'Let us' is a polite plural, and it begins the invitation. 'Bet' starts with a prefix that makes it a one-off.
-- 'What do you want to bet about with me?' 'About what' is a pair of words that changes 'what' to 'chyom'. 'With me' becomes 'so mnoy'.
-- 'I will work a full shift in the kitchen.' 'Work off' means to work through a period fully. 'Shift' is one of the she-words, so 'full' ends in 'uyu'.
-- 'My cooks will quickly break your pride.' 'Break' is the 'they' form. 'Pride' comes from 'proud'.
-- 'If I cope, you will pay for dinner!' 'Cope' is the word from before, in the 'I' form.
-- 'And if you run away after an hour?' 'Run away' is a one-off. 'After an hour' uses the word 'through', which here means 'after'.
-- 'Then you will win our main bet.' 'Win' is a one-word future. 'Bet' is again 'dispute'.
-- 'Agreed, tomorrow I expect you in the kitchen!' 'Agreed' ends in 'lis', as people agree with each other.
-- 'All the viewers will be witnesses of our bet.' 'Will be' goes into the 'with' form, so 'witnesses' ends in 'ami'. 'Witness' is rooted in 'see'.
+- 'Viktor, you are behaving very rudely!' To behave is vesti sebya, literally 'to lead oneself'; Elena says vy vedyote sebya. The word grubo, 'rudely', comes from grubyy, 'rough, rude'.
+- 'I treat all women wonderfully.' Here otnoshus, 'I treat, I relate', takes k, 'towards', and the people get -am: ko vsem zhenshchinam. Before a cluster like vs, k becomes ko.
+- 'Then why do you insult me like that?' With vy, obizhat, 'to hurt someone's feelings', becomes obizhayete; the related obida means 'offence'. Here tak means 'like that'.
+- 'You will not be able to work a whole day.' The form smozhete, 'you will be able', is the future of moch, 'can'. A length of time needs no 'for': tselyy den, 'a whole day', goes straight after rabotat.
+- 'Then let us bet right now!' The polite 'let's' is davayte plus a 'we' form: davayte posporim. Besides 'to argue', sporit also means 'to bet', and po- makes it one bet.
+- 'What do you want to bet about with me?' In o chyom, 'about what', chto changes to chyom after o. With me is so mnoy, where s gains a vowel before mnoy.
+- 'I will work a full shift in the kitchen.' The prefix ot- in otrabotayu, 'I will work', means working a set stretch right to the end. Because smena, 'shift', is feminine, both words end in -u as the object: polnuyu smenu.
+- 'My cooks will quickly break your pride.' With slomayut, 'they will break', Barinov predicts one decisive result. The word gordost, 'pride', comes from gordyy, 'proud'.
+- 'If I cope, you will pay for dinner!' Here spravlyus, 'I cope', looks ahead to a single success, if she pulls it off. The phrase oplatite uzhin takes the dinner directly, as 'pay the dinner'.
+- 'And if you run away after an hour?' In sbezhite, 'you run away', s- is added to bezhat, 'to run'. Russian says 'an hour from now' as cherez chas, literally 'through an hour'.
+- 'Then you will win our main bet.' The form vyigrayete, 'you will win', is vy-, 'out', plus igrat, 'to play'. The word spor comes from sporit: 'argument', and here 'bet'.
+- 'Agreed, tomorrow I expect you in the kitchen!' One word seals any deal: dogovorilis, 'agreed', from dogovoritsya, 'to come to an agreement'. Saying zhdu vas, 'I'm waiting for you', is also how you say 'I expect you'.
+- 'All viewers will be witnesses of our bet.' After budut, 'will be', svideteli takes the ending -yami: svidetelyami. The phrase nashego spora means 'of our bet'.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dima, why did you call me here?' That nickname is a short form of Dmitry, and only close friends use it. The Russian for 'called' also means 'invited', depending on the situation.
-- 'You will perform on television, Viktor.' The Russian future of an ongoing action is 'will be' plus the action word, which makes it 'you will be performing'. 'On television' puts an 'i' ending on 'television'.
-- 'I am a head chef, not a famous actor!' The little word 'a' in the middle means 'and' with a note of contrast, so it comes out as 'chef, and not actor'. 'Head chef' is two words joined by a hyphen, 'chef-cook'.
-- 'You are the main face of our expensive restaurant.' 'face' is also the word for a person, as in 'the face of the company'. 'Of our expensive restaurant' gives all three words the same 'of' ending.
-- 'My place is in the kitchen at the stove.' Russian has no 'is' here, so it's 'my place in the kitchen by the stove'. 'By the stove' uses 'at' and a changed ending on 'stove'.
-- 'The viewers want to see a real chef.' 'viewers' comes from the old word for 'see'. 'Real' ends in 'ogo', since the chef is the thing being seen.
-- 'Let me go back to Claude Monet.' 'Let go' is a command, and 'back' shows direction. The restaurant's name stays the same, since it's a foreign name.
-- 'Stop arguing and go forward.' 'Stop' is a command, followed by the bare 'to argue'. 'Forward' works like 'go on'.
-- 'Will that Sokolova perform there?' Putting 'this' before a surname makes it dismissive, like 'that Sokolova'. A woman's surname ends in 'ova', where a man's would end in 'ov'.
-- 'Yes, Elena Sokolova from Arcobaleno restaurant.' 'From the restaurant' uses the short word for 'from'. The name 'Arcobaleno' is Italian for 'rainbow'.
-- 'I will prove my high caliber to everyone.' 'I will prove' is a one-word future. 'My own' is a special word that points back at the speaker, and 'class' here means quality.
-- 'Now that is a great attitude, chef!' 'Now that' is a small chunk meaning 'that's what I like'. 'Attitude' is also the word for mood or tuning.
-- 'The live broadcast begins right now.' 'Live' is literally 'straight', so 'straight air'. 'Begins' ends in 'sya', which says the broadcast starts itself.
+- 'Dima, why did you call me here?' Barinov calls him Dima, the friendly short form of Dmitry, which tells you how close the two men are. The word pozval, 'you called', also covers 'you invited', as when someone asks you over.
+- 'You will perform on television, Viktor.' Here budesh vystupat means 'you will be performing': budu, budesh and the rest, put before vystupat, talk about an activity that will go on for a while. On television is na televidenii, with -ii for the place.
+- 'I am a head chef, not a famous actor!' Russian builds 'X, not Y' with the little word a: shef-povar, a ne akter. The title shef-povar, literally 'chef-cook', is the formal name for a head chef.
+- 'You are the main face of our expensive restaurant.' Just as in English, litso, 'face', can mean the person who represents a company. The word dorogoy means both 'expensive' and 'dear', and here it's the price that counts.
+- 'My place is in the kitchen at the stove.' Russian drops 'is' in the present, so the line is simply moyo mesto na kukhne, 'my place in the kitchen'. After u, 'by', plita becomes plity.
+- 'The viewers want to see a real chef.' The word zriteli, 'viewers', is built on an old word for seeing, zret. As the one being seen, a male chef takes -a: nastoyashchego shefa.
+- 'Let me go back to Claude Monet.' The command otpusti, 'let me go', is what you'd say to a boss when asking to leave. With obratno, 'back', it means returning to where you came from.
+- 'Stop arguing and go forward.' After perestan, 'stop', comes the basic form of the action: perestan sporit. And idi vperyod, 'go forward', is a push to get on with it.
+- 'Will that Sokolova perform there?' Putting eta, 'this', in front of a surname sounds dismissive, like 'that Sokolova woman'. The -a at the end of Sokolova marks a woman's surname.
+- 'Yes, Elena Sokolova from Arcobaleno restaurant.' After iz, 'out of, from', restoran becomes restorana. The name Arcobaleno is Italian for 'rainbow', and as a foreign word it never changes.
+- 'I will prove my high caliber to everyone.' Although dokazhu, 'I will prove', looks like a present form, it points to one result in the future. The word svoy, 'my own', refers back to whoever is acting, here Barinov himself.
+- 'Now that is a great attitude, chef!' At the start of a sentence, vot eto points at something and approves of it, 'now that's...'. The word nastroy, 'attitude', shares a root with nastroyeniye, 'mood'.
+- 'Live broadcast begins right now.' TV people call a live show pryamoy efir, literally 'straight air'. The same root turns up in pryamo seychas, 'right now', so there's no more time to argue.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Fedya, tell me, did you by chance study in France?' 'Tell' is the formal command, used here like 'tell me'. 'By chance' comes from 'chance'.
-- 'Like I had nothing better to do than study there!' 'To me nothing else to do' is an idiom for 'what a silly question'. 'Study' ends in 'sya'.
-- 'You have simply amazing technique for frying fish.' 'Frying' comes from 'to fry'. 'Of fish' puts a changed ending on 'fish'.
-- 'I simply fry fish on a hot pan.' 'I fry' ends in 'yu'. 'On a hot pan' puts an 'oy' on 'hot' and an 'e' on 'pan'.
-- 'They only do such searing in Lyon at Bocuse's.' 'At Bocuse's' uses 'u', which means 'at the place of'. 'They do' has no one named.
-- 'Are you seriously comparing me to a French master?' 'Compare' is followed by 'with'. 'French master' takes the 'om' endings.
-- 'Absolutely seriously, you have a rare natural gift.' 'Natural' comes from 'nature'. 'Gift' is the Russian for a talent as well as a present.
-- 'Nobody ever told me such words before.' 'To me they didn't say' is the Russian for 'nobody told me'. 'Such words' takes the 'of' form after 'not'.
-- 'True talent is always visible at first sight.' 'Visible' is a short form that does not change with the thing. 'From the first look' is how Russians say 'at first sight'.
-- 'Thank you very much for such a high assessment, Chef.' 'Assessment' is the word for a grade or opinion. 'Such high' goes in front of it.
-- 'Keep cooking, the guests will be in complete delight.' 'Continue' is the courteous plural. 'In delight' puts the 'e' ending on 'delight'.
-- 'I promise to make the most delicious dish today!' 'I promise' is a one-word present. 'The most delicious' is 'most' plus 'tasty'.
+- 'Fedya, tell me, did you by chance study in France?' Elena says skazhite, the polite 'tell', much like 'tell me' in English. Putting sluchayno, 'by chance', in the question softens it, like 'did you happen to'.
+- 'Like I had nothing better to do than study there!' Fedya's delat mne bolshe nechego, literally 'to do for me more nothing', is a sarcastic 'as if I had nothing better to do'. And uchitsya, 'to study', always carries its -sya.
+- 'You have simply amazing technique for frying fish.' Cooks call searing obzharka, from obzharit, 'to fry on all sides'. And ryby, 'of fish', is ryba with the 'of' ending.
+- 'I simply fry fish on a hot pan.' For frying, Russian has zharit, so 'I fry' is zharyu. On a hot pan is na goryachey skovorode, with the location endings -ey and -e.
+- 'They only do such searing in Lyon at Bocuse's.' To say 'at someone's place', Russian uses u plus the person, the way u menya can mean 'at my place'. With delayut, 'they do', and no subject, it means 'it is done'.
+- 'Are you seriously comparing me to a French master?' After sravnivat, 'to compare', comes s, 'with', and the -im, -om endings: s frantsuzskim masterom. Elena repeats his seryozno, 'seriously', in her answer.
+- 'Absolutely seriously, you have a rare natural gift.' Like English 'gift', dar means a talent, and comes from darit, 'to give a present'. The word prirodnyy, 'natural', is built on priroda, 'nature'.
+- 'Nobody ever told me such words before.' With no subject, mne ne govorili, literally 'to me they didn't say', means 'nobody told me'. After ne, the object switches to the 'of' form: takikh slov.
+- 'True talent is always visible at first sight.' The short form viden, 'visible', would be vidna with a feminine word. The set phrase s pervogo vzglyada, literally 'from the first look', means 'at first sight'.
+- 'Thank you very much for such high praise, Chef.' A vysokaya otsenka is literally a high mark, as at school, and here it means high praise. After za, it becomes takuyu vysokuyu otsenku.
+- 'Continue cooking, the guests will be in complete delight.' Elena's prodolzhayte, 'carry on', is polite, and the activity follows it: prodolzhayte gotovit. To be thrilled is to be v polnom vostorge, 'in complete delight'.
+- 'I promise to make the most delicious dish today!' Fedya's obeshchayu, 'I promise', takes the action straight after it: obeshchayu sdelat. For 'the most', Russian puts samyy in front, here samoye vkusnoye to match blyudo.

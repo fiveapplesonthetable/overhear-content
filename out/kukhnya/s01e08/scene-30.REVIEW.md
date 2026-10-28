@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, people really do not like making mistakes.' Russian says 'do mistakes', not 'make' them. 'Do not like' keeps the 'not' directly before 'like'.
-- 'Yet nevertheless they constantly commit them.' 'Nevertheless' is literally 'by that not less', a fixed phrase. 'Commit' is followed by 'them', and nobody is named.
-- 'Max, smart cooks do not make mistakes at all.' 'Make a mistake' is built on 'mistake' plus the tail 'sya', which literally gives 'to mistake oneself'. 'At all' sits before the 'not'.
-- 'You think you control absolutely everything?' 'Control' is borrowed and has an ending for 'you'. 'Absolutely everything' is the pair 'absolutely' and 'all'.
-- 'Of course, in my kitchen there is always perfect order!' 'In my kitchen' uses 'na', as workplaces do. 'Perfect order' has no word for 'there is'.
-- 'Some fool themselves into thinking they can control everything.' 'Some' is the plural of 'one'. 'are mistaken' ends in 'sya' and rests on 'wander'.
-- 'I won the bet and proved I was right.' 'Right' turns into a she-word that means 'rightness', as in 'my being right'. 'My own' points back at Barinov.
-- 'But the cooks caused a real nightmare today.' 'Caused' is literally 'arranged', as if they had staged it. 'Real' is the same word as 'true'.
-- 'They carried out my secret plan exactly!' 'Carried out' is the finished kind of 'do', which means the job is done. 'Exactly' is Barinov's cover story.
-- 'Sometimes our victories turn out too strange.' The word for 'turn out to be' literally means 'happen to be', and it takes a 'with' form, so 'strange' ends in 'ymi'. 'Too' sits in front of it.
-- 'The main thing is that victory stayed with me!' 'Remained with me' is literally 'remained behind me'. It means the win is in his hands.
-- 'Overconfidence often leads to unexpected problems.' 'Overconfidence' is literally 'self' plus 'confidence'. 'Leads to' is followed by the 'to' form.
-- 'Go work and don't act like a smart-aleck here!' 'Smart-aleck' stems from the word for 'smart', with an ending that means 'play at being'. 'Go work' is two commands side by side.
+- 'Chef, people really do not like making mistakes.' Literally 'very much don't love', "ochen ne lyubyat" comes out as 'really hate'. And "delat oshibki", to make mistakes, is the everyday phrase.
+- 'Yet nevertheless constantly make them.' The phrase "tem ne menee", nevertheless, breaks down as 'by that not less'. Max then says "sovershat", to commit, a more formal word for mistakes than "delat".
+- 'Max, smart cooks do not make mistakes at all.' Barinov uses "oshibatsya", one word for 'to be mistaken', with -sya on the end. Adding "voobshche ne" turns it into 'never, at all'.
+- 'You think that you control absolutely everything?' To say 'you control' to his boss, Max turns "kontrolirovat" into "kontroliruete", -ovat swapped for -uete. He keeps the polite "vy" throughout.
+- 'Of course, in my kitchen there is always perfect order!' In my kitchen is "na moey kukhne", with "na" and the -e ending for being in a place. Russian needs no 'there is': the order simply is.
+- 'Some fool themselves into thinking they can control everything.' Literally 'ones', "odni" starts a list: some people do this, others do that. To be deluded, "zabluzhdatsya", comes from "bluzhdat", to wander, as in wandering off the path.
+- 'I won the bet and proved I was right.' Barinov's "dokazat svoyu pravotu" is 'to prove one's rightness', with "pravota" from "prav", right. And "vyigral", won, is "vy-", out, plus "igral", played.
+- 'But the cooks caused a real nightmare today.' To arrange is "ustroit", and Russians use it for causing a scene or a scandal too. So "ustroili koshmar" is 'staged a nightmare'.
+- 'They accurately carried out my secret plan!' The word "vypolnili", carried out, is what you say when a task or an order is completed. Here "tochno" means exactly, to the letter.
+- 'Sometimes our victories turn out too strange.' Max says "byvayut", tend to be, for things that happen from time to time. After it, "strannye" becomes "strannymi".
+- 'The main thing is that victory remained mine!' Barinov's "ostalas za mnoy" means word for word 'stayed behind me': the win stays on his side. After "za", behind, 'me' is "mnoy".
+- 'Overconfidence often leads to unexpected problems.' The long word "samouverennost" is "samo-", self, plus "uverennost", confidence. And "privodit k", leads to, turns "problemy" into "problemam".
+- 'Go work and do not be a smart-aleck here!' Two commands come in a row in "idi rabotay", 'go, work'. And "umnichat", to show off your cleverness, is made from "umnyy", clever.

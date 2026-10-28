@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You are all I have left, dear Arkasha.' Russian says 'only you remained with me'. The Russian for 'only' is also the term for 'one', and the name Arkasha is a pet form of the name Arkady.
-- 'Chef, why are you sitting here in the dark?' The term for 'in the darkness' puts an 'e' on the end of the expression for 'darkness'. 'Sit' is the plain word, nothing special.
-- 'My fish is the only loyal organism in the world.' The word for 'little fish' adds a small 'ka' to the expression for 'fish', which makes it affectionate. 'In the world' uses the Russian word for 'light', which makes it literally 'in the light'.
-- 'But our entire kitchen misses you very much!' The expression for 'misses' is the Russian for 'is bored', and Russians add 'without you'. So 'misses you' is literally 'is bored without you'.
-- 'All the cooks in the kitchen are true traitors.' 'Traitors' comes from 'betray'. 'True' agrees with it in the plural.
-- 'They just got scared of the new strict order.' The Russian word for 'got scared' ends in 'sya', so it comes out as something that happens to themselves. 'Of the order' puts the 'of' ending on the Russian for 'order'.
-- 'They gladly abandoned their old chef.' 'With pleasure' is Russian for 'gladly'. 'Abandoned' is the same word as 'threw'.
-- 'We all sincerely love only you, chef.' The Russian for 'we love' ends in 'im', which is the ending for 'we'. 'only' sits right in front of 'you', so it points at the one person.
-- 'Only Arkasha listens to me attentively and keeps quiet.' 'Attentively' comes from 'attention'.
-- 'Let's go to the kitchen before the soup gets cold.' The polite 'let's go' ends in 'te'. 'Before ... not' is the Russian way to put 'before it has gone cold'.
-- 'I will not go anywhere out of this office.' 'Nowhere' is 'no' plus 'where', and 'not' follows it. 'Office' is a masculine word.
-- 'Then I will bring you some hot tea here.' 'Hot tea' takes a special 'u' ending, 'chayu', meaning 'some tea'. 'Here' is the movement word.
+- 'You are all I have left, dear Arkasha.' In odin ty ostalsya u menya, literally 'only you remained by me', odin, 'one', means 'only'. The fish's name is a pet form of Arkady.
+- 'Chef, why are you sitting here in the dark?' Lyova says vy to his boss: vy sidite. After v, temnota, 'darkness', becomes temnote.
+- 'My fish is the only loyal organism in the world.' Adding -ka to ryba gives rybka, a small, dear fish. The phrase na svete, 'in the world', uses svet, which also means 'light'.
+- 'But our entire kitchen misses you very much!' To miss someone in Russian is skuchat bez, literally 'to be bored without'. And vsya nasha kukhnya means the whole team.
+- 'All the cooks in the kitchen are true traitors.' A predatel, 'traitor', is someone who predal, 'betrayed'. In writing, the dash stands where English has 'are'.
+- 'They just got scared of the new strict order.' After ispugalis, 'they got scared', poryadok gains an -a: poryadka. Both novogo and strogogo match it.
+- 'They gladly abandoned their old chef.' Russian says 'gladly' as s udovolstviyem, 'with pleasure'. With brosili, 'they threw', comes the brosat that also means abandoning someone.
+- 'We all sincerely love only you, chef.' Lyova's lyubim, 'we love', comes from lyubit. And iskrenne, 'sincerely', comes from iskrenniy.
+- 'Only Arkasha listens to me attentively and keeps quiet.' After slushayet, 'listens', menya follows with no 'to'. Russian has a single word for 'keeps quiet', molchit.
+- 'Let's go to the kitchen before the soup gets cold.' Lyova's poydyomte, 'let's go', adds -te to be polite. Russian says 'before it gets cold' as poka ne ostyl, literally 'while it hasn't cooled'.
+- 'I will not go anywhere out of this office.' Like nikto ne, nikuda ne, 'nowhere not', keeps both negatives. After iz, etot kabinet becomes etogo kabineta.
+- 'Then I will bring you some hot tea here.' The -u in goryachego chayu, 'some hot tea', is an old form meaning 'some of'. And syuda, 'here', answers 'where to', because the tea is coming to him.
