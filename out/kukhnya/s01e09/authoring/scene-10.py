@@ -31,7 +31,7 @@ STORY = [
     ('vika', 'Твой папа — настоящий хозяин кухни.', 'Your dad is the true master of the kitchen.', [(236, 'Папина дочка')], ''),
 ]
 WALK = [
-    (0, None, '\'Good afternoon, welcome to the restaurant!\' "Dobry den" is "kind day", which is how Russians say "good afternoon". "Dobro pozhalovat" is the set phrase for "welcome". Vika sounds professional, and that\'s the point.'),
+    (0, None, '\'Good afternoon, welcome to the restaurant!\' "Dobry den" is "kind day", which is what Russians say for "good afternoon". "Dobro pozhalovat" is the set phrase for "welcome". Vika sounds professional, and that\'s the point.'),
     (1, None, '\'Hello, is that your girlfriend?\' "Zdravstvuyte" is the long, formal hello, from "be healthy". Alisa uses the polite "vy" with the guests, as she was taught. And then she says something very rude.'),
     (2, None, '\'Alisa, behave decently with the guests.\' "Vedi sebya" is "lead yourself", behave, the same expression from the last scene. "Prilichno" means "decently" or "properly". Vika sounds more frightened than strict.'),
     (3, None, '\'I had a grandfather in Novorossiysk.\' Here\'s a good point: Russian has no word for "am" or "is", but it does have a past, "byl", "was". So it\'s "at me was a grandfather". "Dedushka" is grandfather. The line comes from nowhere.'),

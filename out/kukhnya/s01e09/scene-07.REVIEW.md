@@ -25,7 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, I finally retrieved your favorite knife.' "Nakonets" is "finally". Max says "vash", the polite "your", because he is speaking to the chef. The Russian for "retrieved" is "took" with a small "za" in front.
+- 'Chef, I finally retrieved your favorite knife.' "Nakonets" is "finally". Max says "vash", the polite "your", because he is speaking to the chef. In Russian, "retrieved" is "took" with a small "za" in front.
 - 'Where did you find it at all, Oguzok?' "Voobshche" is a filler that means "in general" or "at all", the way English says "where on earth". Oguzok is the nickname Barinov gives Max, and it comes out when the chef is cross.
 - 'Your daughter was playing with it in the kitchen!' Russian says "s nim" for "with it", and the "n" appears because pronouns grow an "n" after a small word like "with". The -la on "igrala" is the girl's ending, since the daughter is a girl.
 - 'Could she hurt herself or you?' "Mogla" is "could", with the -a ending of a girl. "Sebya" means "herself", and it is the same for everyone, he, she, or I. Barinov goes straight to the worry about Alisa.

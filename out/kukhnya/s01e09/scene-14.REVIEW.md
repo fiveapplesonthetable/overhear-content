@@ -36,6 +36,6 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Nothing hurts on me at all.' It's "at me nothing not hurts", with two negatives, and it's right. It's a child's logic, and perfect for a nervous father. Russians say "it hurts at me" where we say "I hurt".
 - 'Mama will see and immediately kill me!' Barinov is joking, half. The "right away" word you heard in the pastry scene is back. He is more afraid of Tanya than of any allergy, and the line says so.
 - 'Papa, do not shout at the cooks, please.' Russians shout "on" someone, so it's "shout on the cooks". Alisa speaks to him like a calm adult, with a very polite "please" at the end. It's funny, and it's accurate.
-- 'Quickly put the chocolate on the table!' The Russian for "put down" is from the same family as the "put" the chef used at the banquet. "Onto the table" has its own ending. He gives short orders when he's afraid.
+- 'Quickly put the chocolate on the table!' In Russian, "put down" is from the same family as the "put" the chef used at the banquet. "Onto the table" has its own ending. He gives short orders when he's afraid.
 - 'Alright, I will not eat anymore.' The term for "fine" is back. "More not will eat" is the Russian for "I won't eat any more". Alisa gives in so easily that you wonder what she is planning.
 - 'Urgently drink water and show your face.' The urgent word from the first scene is back. "Drink water" takes the "some of" ending, so it's "drink of water". He wants to see her face for any sign of a rash.

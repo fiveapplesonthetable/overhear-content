@@ -30,7 +30,7 @@ STORY = [
     ('barinov', 'Ладно, я отведу её к тёте Вике!', 'All right, I will take her to Aunt Vika!', [(185, 'Ладно')], ''),
 ]
 WALK = [
-    (0, None, '\'Chef, I finally retrieved your favorite knife.\' "Nakonets" is "finally". Max says "vash", the polite "your", because he is speaking to the chef. The Russian for "retrieved" is "took" with a small "za" in front.'),
+    (0, None, '\'Chef, I finally retrieved your favorite knife.\' "Nakonets" is "finally". Max says "vash", the polite "your", because he is speaking to the chef. In Russian, "retrieved" is "took" with a small "za" in front.'),
     (1, None, '\'Where did you find it at all, Oguzok?\' "Voobshche" is a filler that means "in general" or "at all", the way English says "where on earth". Oguzok is the nickname Barinov gives Max, and it comes out when the chef is cross.'),
     (2, None, '\'Your daughter was playing with it in the kitchen!\' Russian says "s nim" for "with it", and the "n" appears because pronouns grow an "n" after a small word like "with". The -la on "igrala" is the girl\'s ending, since the daughter is a girl.'),
     (3, None, '\'Could she hurt herself or you?\' "Mogla" is "could", with the -a ending of a girl. "Sebya" means "herself", and it is the same for everyone, he, she, or I. Barinov goes straight to the worry about Alisa.'),
