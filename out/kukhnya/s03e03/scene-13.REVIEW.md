@@ -12,16 +12,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 |---|---|---|---|---|---|
 | 1 | Шеф | Лёва, я вчера приезжал к тебе двигать новую мебель, которую ты купил. | Lyova, yesterday I came to your place to move the new furniture you bought. | #216 00:14:10: Лёва, я вчера приезжал к<br>#217 00:14:16: тебе двигать новую мебель, которую ты купил | adapted: adapted |
 | 2 | Шеф | Потому что Катя переезжает к тебе, потому что вы любовники. Понял? | Because Katya is moving in with you, because you are lovers. Got it? | #218 00:14:18: потому что Катя переезжает к тебе, потому что вы любовники<br>#219 00:14:20: Понял | adapted: adapted |
-| 3 | Елена | Вас можно поздравить! Лёва, не скромничай. | Congratulations are in order! Lyova, don't be modest. | #220 00:14:22: Вас можно поздравить<br>#221 00:14:24: не скромничай | adapted: adapted |
-| 4 | Елена | Я в курсе твоих успехов в личной жизни. | I am aware of your successes in your personal life. | #222 00:14:26: в курсе твоих успехов в личной жизни | verbatim |
+| 3 | Лёва | Вас можно поздравить! Лёва, не скромничай. | Congratulations are in order! Lyova, don't be modest. | #220 00:14:22: Вас можно поздравить<br>#221 00:14:24: не скромничай | adapted: adapted |
+| 4 | Лёва | Я в курсе твоих успехов в личной жизни. | I am aware of your successes in your personal life. | #222 00:14:26: в курсе твоих успехов в личной жизни | verbatim |
 | 5 | Шеф | Что вы с Катей женитесь, новая жизнь, новая мебель и всё прочее. | That you and Katya are getting married, new life, new furniture, and all the rest. | #223 00:14:29: женитесь<br>#224 00:14:31: новая жизнь, новая мебель и все прочее | adapted: adapted |
-| 6 | Елена | И что, скоро свадьба? | And so, is the wedding soon? | #225 00:14:34: И что, скоро свадьба | verbatim |
-| 7 | Аня | Нет. Видимо, Виктор Петрович знает о моей личной жизни больше. | No. Apparently, Viktor Petrovich knows more about my personal life. | #226 00:14:36: Нет<br>#227 00:14:37: Видимо, Виктор Петрович знает о<br>#227 00:14:37: личной жизни больше | adapted: adapted |
-| 8 | Аня | А почему у меня такое чувство, что вы меня разыгрываете? | And why do I have the feeling that you are pulling my leg? | #229 00:14:43: А почему у меня такое чувство, что вы меня разыгрываете | verbatim |
-| 9 | Аня | Пойду работать. | I will go work. | #230 00:14:59: Пойду работать | verbatim |
+| 6 | Лёва | И что, скоро свадьба? | And so, is the wedding soon? | #225 00:14:34: И что, скоро свадьба | verbatim |
+| 7 | Лёва | Нет. Видимо, Виктор Петрович знает о моей личной жизни больше. | No. Apparently, Viktor Petrovich knows more about my personal life. | #226 00:14:36: Нет<br>#227 00:14:37: Видимо, Виктор Петрович знает о<br>#227 00:14:37: личной жизни больше | adapted: adapted |
+| 8 | Лёва | А почему у меня такое чувство, что вы меня разыгрываете? | And why do I have the feeling that you are pulling my leg? | #229 00:14:43: А почему у меня такое чувство, что вы меня разыгрываете | verbatim |
+| 9 | Лёва | Пойду работать. | I will go work. | #230 00:14:59: Пойду работать | verbatim |
 | 10 | Шеф | Да, Лёва, взяли вас в оборот. | Yes, Lyova, they have really taken you in hand. | #231 00:15:07: Да, Лёва, взяли вас в оборот | verbatim |
-| 11 | Аня | Витя, а можно я на рынок съезжу? Не вопрос. | Vitya, may I take a trip to the market? No problem. | #233 00:15:13: Витя, а можно я на рынок съезжу<br>#234 00:15:17: Не вопрос | adapted: adapted |
-| 12 | Аня | Это вот что было? Не знаю! | What was that just now? I don't know! | #236 00:15:29: Это вот что было<br>#238 00:15:34: Не знаю | adapted: adapted |
+| 11 | Лёва | Витя, а можно я на рынок съезжу? Не вопрос. | Vitya, may I take a trip to the market? No problem. | #233 00:15:13: Витя, а можно я на рынок съезжу<br>#234 00:15:17: Не вопрос | adapted: adapted |
+| 12 | Лёва | Это вот что было? Не знаю! | What was that just now? I don't know! | #236 00:15:29: Это вот что было<br>#238 00:15:34: Не знаю | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

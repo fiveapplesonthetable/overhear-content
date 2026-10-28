@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Ребята, вы мне все нужны! | Guys, I need all of you! | #211 00:15:21: Ребята, вы мне все нужны | adapted: adapted |
-| 2 | Аня | Все быстро бегом на кухню! | Everyone run quickly to the kitchen! | #212 00:15:25: Быстро на кухню | adapted: adapted |
+| 1 | Шеф | Ребята, вы мне все нужны! | Guys, I need all of you! | #211 00:15:21: Ребята, вы мне все нужны | adapted: adapted |
+| 2 | Шеф | Все быстро бегом на кухню! | Everyone run quickly to the kitchen! | #212 00:15:25: Быстро на кухню | adapted: adapted |
 | 3 | Сеня | Шеф, продуктов тут очень мало. | Chef, there are very few groceries here. | #215 00:15:39: Шеф, ну, продуктов очень мало | adapted: adapted |
-| 4 | Аня | Спокойно, только без всякой паники. | Easy now, just without any panic. | #216 00:15:43: Без паники | adapted: adapted |
+| 4 | Шеф | Спокойно, только без всякой паники. | Easy now, just without any panic. | #216 00:15:43: Без паники | adapted: adapted |
 | 5 | Сеня | Не успел вчера всё забрать. | I did not manage to take everything yesterday. | #218 00:15:53: не успел все забрать | adapted: adapted |
 | 6 | Сеня | Меня слишком быстро отсюда уволили. | They fired me from here too quickly. | #219 00:15:58: Уволили | adapted: adapted |
-| 7 | Аня | Давайте, ребята, быстро за работу! | Come on, guys, get to work quickly! | #221 00:16:15: мы поработаем | adapted: adapted |
-| 8 | Денис | Другого места для разговора нет? | Is there no other place for a talk? | #222 00:16:25: Другого места для разговора не нашел | adapted: adapted |
-| 9 | Денис | Света, пожалуйста, ты сотрёшь видео. | Sveta, please, you will delete the video. | #223 00:16:30: Света, я тебя прошу<br>#224 00:16:34: ты сотрешь это видео | adapted: adapted |
-| 10 | Денис | Никому его не будешь отправлять. | You will not send it to anyone. | #224 00:16:34: и никому его не будешь отправлять | adapted: adapted |
+| 7 | Шеф | Давайте, ребята, быстро за работу! | Come on, guys, get to work quickly! | #221 00:16:15: мы поработаем | adapted: adapted |
+| 8 | Шеф | Другого места для разговора нет? | Is there no other place for a talk? | #222 00:16:25: Другого места для разговора не нашел | adapted: adapted |
+| 9 | Шеф | Света, пожалуйста, ты сотрёшь видео. | Sveta, please, you will delete the video. | #223 00:16:30: Света, я тебя прошу<br>#224 00:16:34: ты сотрешь это видео | adapted: adapted |
+| 10 | Шеф | Никому его не будешь отправлять. | You will not send it to anyone. | #224 00:16:34: и никому его не будешь отправлять | adapted: adapted |
 | 11 | Сеня | Ты прямо переговорщик от бога. | You are a born negotiator. | #225 00:16:39: переговорщик от бога | adapted: adapted |
-| 12 | Денис | Придётся отобрать у тебя телефон. | I will have to take the phone away from you. | #227 00:16:46: придется отобрать у тебя телефон | adapted: adapted |
+| 12 | Шеф | Придётся отобрать у тебя телефон. | I will have to take the phone away from you. | #227 00:16:46: придется отобрать у тебя телефон | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

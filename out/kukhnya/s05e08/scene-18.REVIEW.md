@@ -27,7 +27,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'What is happening here?' the guest raises the pitch on 'is happening' to turn the phrase into a direct spoken question. Max answers right away.
 - 'Excuse us, please.' Here the Russian phrasing highlights 'excuse me' before landing on 'please'.
-- 'It is your interpreter's fault.' In Russian, the idea of 'this' flows naturally into 'at fault' without extra filler words.
+- 'It is your interpreter's fault.' Max pairs 'interpreter / translator' with 'at fault, guilty' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
 - 'He is using your name for his own purposes.' Spoken Russian keeps this brisk, leaning on 'he' and finishing on 'goal'. the guest answers right away.
 - 'I beg your pardon, he will be fired.' The grammar packs 'ask for' and 'fired' into a tight, idiomatic kitchen exchange.
 - 'What did he just say?' Senya raises the pitch on 'said' to turn the phrase into a direct spoken question.

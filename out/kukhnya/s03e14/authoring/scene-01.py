@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e14-scene-01'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 14
 SCENE = 1
-TITLE = 'Знакомство с байкером  (Meeting the Biker)'
+TITLE = "Знакомство с байкером  (Meeting the Biker)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja', 'katya': 'angelina'}
-LABELS = {'anya': 'Макс', 'chef': 'Шеф', 'katya': 'Катя'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.14"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "anya": "alisa", "katya": "angelina"}
+LABELS = {"chef": "Шеф", "anya": "Макс", "katya": "Катя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.14'
 SOURCE_FILE = 'sources/kukhnya/s03/e14.ru.srt'
 
 INTRO = 'Welcome to Episode Fourteen of Season Three of Kukhnya. Outside the restaurant, Chef Barinov admires a powerful motorcycle and strikes up a friendly conversation with its owner, Stas, until Katya walks out and reveals Stas is her new boyfriend! Listen to the Russian scene first.'
@@ -48,5 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Chef Barinov is horrified after hearing how Stas got his nickname 'Piston.' Next, Max arrives at the restaurant and immediately gets into trouble of his own."
-CLOSING = ('katya', 'Это мой отец, поехали!')
+OUTRO = "Chef Barinov is horrified after hearing how Stas got his nickname 'Piston.' Next, Max arrives at the restaurant and immediately gets into trouble of his own. Until next time!"
+CLOSING = ("katya", "До завтра!")

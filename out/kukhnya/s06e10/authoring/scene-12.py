@@ -1,31 +1,31 @@
 ID = 'kukhnya-s06e10-scene-12'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 10
 SCENE = 12
 TITLE = "Приезд Нагиева  (Nagiyev's Arrival)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'nagiyev': 'anja', 'eleonora': 'angelina'}
-LABELS = {'anya': 'Шеф', 'nagiyev': 'Нагиев', 'eleonora': 'Элеонора'}
-SOURCE_NAME = "Кухня (Kukhnya) S6.10"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "nagiyev": "angelina"}
+LABELS = {"chef": "Шеф", "nagiyev": "Нагиев"}
+SOURCE_NAME = 'Кухня (Kukhnya) S6.10'
 SOURCE_FILE = 'sources/kukhnya/s06/e10.ru.srt'
 
 INTRO = 'Nagiyev arrives at the hotel and asks Barinov whether Eleonora will ever forgive him, admitting that a four-story hotel and restaurant are his best hope for a comfortable old age. Barinov then escorts Nagiyev into the dining room as a surprise for Eleonora.'
 
 STORY = [
     ('nagiyev', 'Здравствуй, Витя, как думаешь, простит меня жена?', 'Hello, Vitya, what do you think, will my wife forgive me?', [(186, 'Здравствуй, Дима'), (187, 'как думаешь, простит меня')], 'adapted'),
-    ('anya', 'Это зависит от того, как стараться будешь.', 'That depends on how hard you try.', [(188, 'Как стараться будешь')], 'adapted'),
+    ('chef', 'Это зависит от того, как стараться будешь.', 'That depends on how hard you try.', [(188, 'Как стараться будешь')], 'adapted'),
     ('nagiyev', 'Буду стараться, ведь век актёра совсем недолог.', "I will try hard, because an actor's career is very short.", [(188, 'Буду'), (189, 'век недолог')], 'adapted'),
-    ('anya', 'Сегодня ты звезда, а завтра выгонят с телевидения.', 'Today you are a star, and tomorrow they will kick you off television.', [(190, 'Сегодня ты звезда')], 'adapted'),
-    ('anya', 'А здесь четыре этажа и отличный ресторан.', 'And here there are four floors and an excellent restaurant.', [(191, 'четыре этажа обеспеченной старости, плюс ресторан')], 'adapted'),
+    ('chef', 'Сегодня ты звезда, а завтра выгонят с телевидения.', 'Today you are a star, and tomorrow they will kick you off television.', [(190, 'Сегодня ты звезда')], 'adapted'),
+    ('chef', 'А здесь четыре этажа и отличный ресторан.', 'And here there are four floors and an excellent restaurant.', [(191, 'четыре этажа обеспеченной старости, плюс ресторан')], 'adapted'),
     ('nagiyev', 'Скажи, она сейчас у себя в кабинете?', 'Tell me, is she in her office right now?', [(193, 'У себя')], 'adapted'),
-    ('anya', 'Нет, она как раз недавно поужинать вышла.', 'No, she just recently came out to have dinner.', [(193, 'Нет, твоя счастливая старость как раз поужинать вышла')], 'adapted'),
-    ('anya', 'Элечка, приятного аппетита, у меня для тебя сюрприз.', 'Elechka, enjoy your meal, I have a surprise for you.', [(195, 'Элечка, приятного аппетита'), (196, 'А у меня для тебя сюрприз')], 'adapted'),
-    ('eleonora', 'Если снова увижу санитаров, ударю тебя бутылкой!', 'If I see orderlies again, I will hit you with a bottle!', [(197, 'Увижу санитаров')], 'adapted'),
-    ('anya', 'Нет, я Диму позвал, он мириться приехал.', 'No, I called Dima, he came to make peace.', [(199, 'Я Диму позвал'), (200, 'Он мириться приехал')], 'adapted'),
-    ('eleonora', 'Какого ещё Диму ты сюда ко мне позвал?', 'What Dima did you call here to see me?', [(201, 'Какого, Дима')], 'adapted'),
-    ('anya', 'Твоего мужа Нагиева, вот он идёт к нам!', 'Your husband Nagiyev, here he comes toward us!', [(203, 'Вот он, красавец')], 'adapted'),
+    ('chef', 'Нет, она как раз недавно поужинать вышла.', 'No, she just recently came out to have dinner.', [(193, 'Нет, твоя счастливая старость как раз поужинать вышла')], 'adapted'),
+    ('chef', 'Элечка, приятного аппетита, у меня для тебя сюрприз.', 'Elechka, enjoy your meal, I have a surprise for you.', [(195, 'Элечка, приятного аппетита'), (196, 'А у меня для тебя сюрприз')], 'adapted'),
+    ('nagiyev', 'Если снова увижу санитаров, ударю тебя бутылкой!', 'If I see orderlies again, I will hit you with a bottle!', [(197, 'Увижу санитаров')], 'adapted'),
+    ('chef', 'Нет, я Диму позвал, он мириться приехал.', 'No, I called Dima, he came to make peace.', [(199, 'Я Диму позвал'), (200, 'Он мириться приехал')], 'adapted'),
+    ('nagiyev', 'Какого ещё Диму ты сюда ко мне позвал?', 'What Dima did you call here to see me?', [(201, 'Какого, Дима')], 'adapted'),
+    ('chef', 'Твоего мужа Нагиева, вот он идёт к нам!', 'Your husband Nagiyev, here he comes toward us!', [(203, 'Вот он, красавец')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Seeing Nagiyev walk up to her table, Eleonora masks her fury and prepares a devastating trap for her unfaithful husband. See you in the next scene.'
-CLOSING = ('eleonora', 'Значит, помирить нас сегодня решил?')
+OUTRO = 'Seeing Nagiyev walk up to her table, Eleonora masks her fury and prepares a devastating trap for her unfaithful husband. See you next time!'
+CLOSING = ("nagiyev", "До встречи!")

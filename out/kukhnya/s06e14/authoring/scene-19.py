@@ -1,30 +1,30 @@
 ID = 'kukhnya-s06e14-scene-19'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 14
 SCENE = 19
-TITLE = 'Приказ великого пророка  (Order of the Great Prophet)'
+TITLE = "Приказ великого пророка  (Order of the Great Prophet)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'gost': 'anja', 'senya': 'angelina'}
-LABELS = {'anya': 'Шеф', 'gost': 'Гость', 'senya': 'Сеня'}
-SOURCE_NAME = "Кухня (Kukhnya) S6.14"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "senya": "angelina"}
+LABELS = {"chef": "Шеф", "senya": "Сеня"}
+SOURCE_NAME = 'Кухня (Kukhnya) S6.14'
 SOURCE_FILE = 'sources/kukhnya/s06/e14.ru.srt'
 
 INTRO = 'In the final scene of the episode, Katya and Nastya wake up from their tea-induced stupor, while the real Korean prophet finally returns to the hotel on the metro. Chef Barinov uses his new authority as prophet to send the sect home to Korea and orders his cooks back to work without a bonus.'
 
 STORY = [
-    ('anya', 'Теперь я объявляю вас мужем и женой.', 'Now I pronounce you husband and wife.', [(268, 'Объявляю вас мужем и женой')], 'adapted'),
-    ('anya', 'Не бойся, милая, идём скорее со мной.', 'Do not be afraid, darling, come quickly with me.', [(270, 'Не бойся'), (271, 'Идем')], 'adapted'),
+    ('chef', 'Теперь я объявляю вас мужем и женой.', 'Now I pronounce you husband and wife.', [(268, 'Объявляю вас мужем и женой')], 'adapted'),
+    ('chef', 'Не бойся, милая, идём скорее со мной.', 'Do not be afraid, darling, come quickly with me.', [(270, 'Не бойся'), (271, 'Идем')], 'adapted'),
     ('senya', 'Катя, Настя, что вы тут делаете?', 'Katya, Nastya, what are you doing here?', [(272, 'Что делаешь')], 'adapted'),
-    ('gost', 'Укажите нам путь, как жить дальше.', 'Show us the path of how to live on.', [(274, 'нам пути, как жить дальше')], 'adapted'),
-    ('anya', 'Дети мои, спокойно езжайте на родину.', 'My children, go calmly to your homeland.', [(275, 'Дети мои, езжайте на родину')], 'adapted'),
-    ('anya', 'Ждите меня там и обрабатывайте землю.', 'Wait for me there and cultivate the land.', [(276, 'Ждите меня')], 'adapted'),
-    ('gost', 'Благодарим тебя за мудрость, великий пророк!', 'We thank you for your wisdom, great prophet!', [(277, 'Великий пророк')], 'adapted'),
+    ('chef', 'Укажите нам путь, как жить дальше.', 'Show us the path of how to live on.', [(274, 'нам пути, как жить дальше')], 'adapted'),
+    ('chef', 'Дети мои, спокойно езжайте на родину.', 'My children, go calmly to your homeland.', [(275, 'Дети мои, езжайте на родину')], 'adapted'),
+    ('chef', 'Ждите меня там и обрабатывайте землю.', 'Wait for me there and cultivate the land.', [(276, 'Ждите меня')], 'adapted'),
+    ('chef', 'Благодарим тебя за мудрость, великий пророк!', 'We thank you for your wisdom, great prophet!', [(277, 'Великий пророк')], 'adapted'),
     ('senya', 'Шеф, а что теперь делать нам?', 'Chef, and what should we do now?', [(278, 'А что делать нам')], 'adapted'),
-    ('anya', 'А вам нужно быстро идти работать!', 'And you need to quickly go work!', [(279, 'Работать')], 'adapted'),
-    ('anya', 'Всем немедленно работать на нашей кухне!', 'Everyone work immediately in our kitchen!', [(280, 'Работать')], 'adapted'),
-    ('anya', 'И в этом месяце все без премии!', 'And this month everyone is without a bonus!', [(281, 'И без премии')], 'adapted'),
+    ('chef', 'А вам нужно быстро идти работать!', 'And you need to quickly go work!', [(279, 'Работать')], 'adapted'),
+    ('chef', 'Всем немедленно работать на нашей кухне!', 'Everyone work immediately in our kitchen!', [(280, 'Работать')], 'adapted'),
+    ('chef', 'И в этом месяце все без премии!', 'And this month everyone is without a bonus!', [(281, 'И без премии')], 'adapted'),
     ('senya', 'Понятно, шеф, мы уже идём к плитам.', 'Understood, chef, we are already going to the stoves.', [(278, 'делать нам')], 'adapted'),
 ]
 
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'With the Korean sect on their way home and the kitchen back to normal, Katya still has to face Denis in the morning. See you next time.'
-CLOSING = ('anya', 'Всем работать без премии!')
+OUTRO = 'With the Korean sect on their way home and the kitchen back to normal, Katya still has to face Denis in the morning. Until next time!'
+CLOSING = ("chef", "До встречи!")

@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e12-scene-08'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 12
 SCENE = 8
-TITLE = 'Ремонт детской и платный просмотр  (Nursery Repairs and a Paid Viewing)'
+TITLE = "Ремонт детской и платный просмотр  (Nursery Repairs and a Paid Viewing)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'kostya': 'anja', 'nastya': 'angelina'}
-LABELS = {'anya': 'Макс', 'kostya': 'Костя', 'nastya': 'Настя'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.12"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "nastya": "angelina", "kostya": "anja", "anya": "alisa"}
+LABELS = {"nastya": "Настя", "kostya": "Костя", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.12'
 SOURCE_FILE = 'sources/kukhnya/s03/e12.ru.srt'
 
 INTRO = 'In their apartment, Kostya is surprised to find a handyman named Faizul already renovating the future nursery. Meanwhile, Max visits a budget apartment where a shrewd elderly landlady demands five hundred rubles just to look inside. Listen to the Russian dialogue first, and then we will unpack each line.'
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Max hands over the viewing fee, hoping he has finally found an affordable place to live. In the next scene, the landlady reveals her catch right after pocketing Max's money."
-CLOSING = ('nastya', 'Ремонт хороший, для себя делали.')
+OUTRO = 'Max hands over the viewing fee, hoping he has finally found an affordable place to live. See you next time!'
+CLOSING = ("nastya", "До завтра!")

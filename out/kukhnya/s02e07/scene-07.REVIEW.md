@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Сейчас, сейчас, сейчас. | Just a second, right now. | #97 00:06:30: Сейчас, сейчас, сейчас | verbatim |
-| 2 | Вика | Сейчас вот. | Right here. | #98 00:06:32: Сейчас вот | verbatim |
-| 3 | Аня | Я сейчас! | I am coming right now! | #99 00:06:34: Я сейчас | verbatim |
-| 4 | Вика | Лёва, я просил, не звонить мне, я занят. | Lyova, I asked you not to call me when I am busy. | #102 00:06:52: Лёва, я просил, не звонить мне, я занят | verbatim |
-| 5 | Аня | Ага, хорошо, сейчас приеду. | All right, fine, I will be right there. | #103 00:06:56: Ага, хорошо, сейчас приеду | verbatim |
-| 6 | Вика | Да, срочно вызывает на работу. | Yes, they are urgently calling me in to work. | #105 00:07:01: Да, срочно вызывает на работу | verbatim |
-| 7 | Аня | Неужели уходите, а? | Are you really leaving already, huh? | #105 00:07:01: Неужели уходите, а | verbatim |
-| 8 | Вика | Ну ничего. | Well, it cannot be helped. | #106 00:07:05: Ну ничего | verbatim |
-| 9 | Аня | О, завидую. | Oh, I envy your stamina. | #109 00:07:12: О, завидую | verbatim |
-| 10 | Вика | Ну что, завтра здесь же, это же время. | Well then, tomorrow at the same place, same time. | #109 00:07:12: Ну что, завтра здесь же, это же время | verbatim |
-| 11 | Аня | Да, ну что вы. | Yes, of course. | #111 00:07:20: Да, ну что вы | verbatim |
-| 12 | Вика | Ну до завтра. | See you tomorrow, then. | #112 00:07:22: Ну до завтра | verbatim |
-| 13 | Аня | Спасибо за компанию. | Thank you for the company. | #112 00:07:22: Спасибо за компанию | verbatim |
+| 1 | Лёва | Сейчас, сейчас, сейчас. | Just a second, right now. | #97 00:06:30: Сейчас, сейчас, сейчас | verbatim |
+| 2 | Лёва | Сейчас вот. | Right here. | #98 00:06:32: Сейчас вот | verbatim |
+| 3 | Лёва | Я сейчас! | I am coming right now! | #99 00:06:34: Я сейчас | verbatim |
+| 4 | Лёва | Лёва, я просил, не звонить мне, я занят. | Lyova, I asked you not to call me when I am busy. | #102 00:06:52: Лёва, я просил, не звонить мне, я занят | verbatim |
+| 5 | Лёва | Ага, хорошо, сейчас приеду. | All right, fine, I will be right there. | #103 00:06:56: Ага, хорошо, сейчас приеду | verbatim |
+| 6 | Лёва | Да, срочно вызывает на работу. | Yes, they are urgently calling me in to work. | #105 00:07:01: Да, срочно вызывает на работу | verbatim |
+| 7 | Лёва | Неужели уходите, а? | Are you really leaving already, huh? | #105 00:07:01: Неужели уходите, а | verbatim |
+| 8 | Лёва | Ну ничего. | Well, it cannot be helped. | #106 00:07:05: Ну ничего | verbatim |
+| 9 | Лёва | О, завидую. | Oh, I envy your stamina. | #109 00:07:12: О, завидую | verbatim |
+| 10 | Лёва | Ну что, завтра здесь же, это же время. | Well then, tomorrow at the same place, same time. | #109 00:07:12: Ну что, завтра здесь же, это же время | verbatim |
+| 11 | Лёва | Да, ну что вы. | Yes, of course. | #111 00:07:20: Да, ну что вы | verbatim |
+| 12 | Лёва | Ну до завтра. | See you tomorrow, then. | #112 00:07:22: Ну до завтра | verbatim |
+| 13 | Лёва | Спасибо за компанию. | Thank you for the company. | #112 00:07:22: Спасибо за компанию | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

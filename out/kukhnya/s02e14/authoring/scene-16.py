@@ -1,38 +1,38 @@
-ID = "kukhnya-s02e14-scene-16"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e14-scene-16'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 14
 SCENE = 16
-TITLE = 'Бесплатный шеф-повар  (A Free Head Chef)'
+TITLE = "Бесплатный шеф-повар  (A Free Head Chef)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja', 'nagiyev': 'angelina'}
-LABELS = {'anya': 'Шеф', 'vika': 'Вика', 'nagiyev': 'Нагиев'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.14"
-SOURCE_FILE = "sources/kukhnya/s02/e14.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "nagiyev": "angelina", "chef": "anja"}
+LABELS = {"nagiyev": "Нагиев", "chef": "Шеф"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.14'
+SOURCE_FILE = 'sources/kukhnya/s02/e14.ru.srt'
 
 INTRO = "As soon as Elena Pavlovna mentions that she will run the kitchen completely free of charge, Nagiyev's hesitation vanishes and he happily accepts her offer. He sends a frantic message ahead to the kitchen so Chef Barinov can hide before Elena walks in."
 
 STORY = [
-    ('anya', 'Не волнуйтесь, даже не волнуйтесь, денег не возьму.', 'Do not worry, do not even worry, I will not charge you a ruble.', [(276, 'Не волнуйтесь, даже не волнуйтесь, денег не возьму')], ''),
-    ('vika', 'Да, это важно, важно.', 'Yes, that is very important.', [(277, 'Да, это важно, важно')], ''),
+    ('chef', 'Не волнуйтесь, даже не волнуйтесь, денег не возьму.', 'Do not worry, do not even worry, I will not charge you a ruble.', [(276, 'Не волнуйтесь, даже не волнуйтесь, денег не возьму')], ''),
+    ('nagiyev', 'Да, это важно, важно.', 'Yes, that is very important.', [(277, 'Да, это важно, важно')], ''),
     ('nagiyev', 'Совершенно бесплатно.', 'Completely free of charge.', [(277, 'Совершенно бесплатно')], ''),
-    ('anya', 'Елена Павловна.', 'Elena Pavlovna.', [(278, 'Елена Павловна')], ''),
-    ('vika', 'Как считаете?', 'What do you think?', [(279, 'как считаете')], ''),
+    ('chef', 'Елена Павловна.', 'Elena Pavlovna.', [(278, 'Елена Павловна')], ''),
+    ('nagiyev', 'Как считаете?', 'What do you think?', [(279, 'как считаете')], ''),
     ('nagiyev', 'Это то.', 'That sounds great.', [(280, 'Это то')], ''),
-    ('anya', 'Я говорю.', 'That is what I am saying.', [(283, 'Я говорю')], ''),
-    ('vika', 'А попробуйте.', 'Give it a try.', [(284, 'А попробуйте')], ''),
+    ('chef', 'Я говорю.', 'That is what I am saying.', [(283, 'Я говорю')], ''),
+    ('nagiyev', 'А попробуйте.', 'Give it a try.', [(284, 'А попробуйте')], ''),
     ('nagiyev', 'Я там это, на кухне, перехвачу.', 'I will just go check on things in the kitchen first.', [(285, 'Я там это, на кухне, перехвачу')], ''),
-    ('anya', 'Извините, простите.', 'Excuse me, pardon me.', [(287, 'Извините, простите')], ''),
-    ('vika', 'Виктор Петрович.', 'Viktor Petrovich.', [(288, 'Виктор Петрович')], ''),
+    ('chef', 'Извините, простите.', 'Excuse me, pardon me.', [(287, 'Извините, простите')], ''),
+    ('nagiyev', 'Виктор Петрович.', 'Viktor Petrovich.', [(288, 'Виктор Петрович')], ''),
     ('nagiyev', 'Дмитрий Владимирович просил передать.', 'Dmitry Vladimirovich asked me to pass this on.', [(289, 'Дмитрий Владимирович просил передать')], ''),
-    ('anya', 'С дороги!', 'Out of the way!', [(290, 'С дороги')], ''),
+    ('chef', 'С дороги!', 'Out of the way!', [(290, 'С дороги')], ''),
 ]
 
 OPENER = "Now let's go back through the conversation line by line."
 
 WALK = [
-    (0, None, "'Do not worry, do not even worry, I will not charge you a ruble.' Notice the reflexive suffix on the verb meaning 'worry', turning the action back on the subject. Vika answers right away."),
+    (0, None, "'Do not worry, do not even worry, I will not charge you a ruble.' Chef Barinov pairs 'worry' with 'will get' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'."),
     (1, None, "'Yes, that is very important.' Spoken Russian keeps this brisk, leaning on 'yes' and finishing on 'important'."),
     (2, None, "'Completely free of charge.' Dmitry brings out the contrast between 'completely' and 'for free' in a few short words."),
     (3, None, "'Elena Pavlovna.' The meaning hinges on 'Elena' working together with 'Pavlovna' in spoken Russian. Vika answers right away."),
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the whole conversation once more from start to finish."
-
-OUTRO = 'When you watch Scene 16 of Episode 14, listen out for the exchange around a free head chef — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('anya', 'С дороги!')
+OUTRO = 'That wraps up this scene as once Elena Pavlovna says she will work completely for free, Nagiyev eagerly accepts and sends a waiter to warn Barinov in the kitchen. See you next time!'
+CLOSING = ("chef", "До свидания!")

@@ -17,10 +17,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 5 | Аня | Видел. | I saw them. | #63 00:05:03: Видел | adapted: adapted |
 | 6 | Лёва | Где они? | Where are they? | #64 00:05:06: Где они | adapted: adapted |
 | 7 | Лёва | Кто их туда положил? | Who put them in there? | #64 00:05:06: Кто<br>#65 00:05:20: их туда положил | adapted: adapted |
-| 8 | Сеня | Что такое, Лёв? Спокойно. | What is the matter, Lyova? Easy. | #66 00:05:27: Что такое, Лёв? Спокойно | adapted: adapted |
-| 9 | Сеня | Просто хотел проверить. | I just wanted to check. | #67 00:05:29: Просто хотел проверить | adapted: adapted |
-| 10 | Сеня | Смотрит кто-нибудь тут или нет. | Whether anyone watches things here or not. | #67 00:05:29: смотрит кто-нибудь тут за этим или нет | adapted: adapted |
-| 11 | Сеня | А то продукты пропадают. | Otherwise groceries keep disappearing. | #68 00:05:33: продукты пропадают | adapted: adapted |
+| 8 | Лёва | Что такое, Лёв? Спокойно. | What is the matter, Lyova? Easy. | #66 00:05:27: Что такое, Лёв? Спокойно | adapted: adapted |
+| 9 | Лёва | Просто хотел проверить. | I just wanted to check. | #67 00:05:29: Просто хотел проверить | adapted: adapted |
+| 10 | Лёва | Смотрит кто-нибудь тут или нет. | Whether anyone watches things here or not. | #67 00:05:29: смотрит кто-нибудь тут за этим или нет | adapted: adapted |
+| 11 | Лёва | А то продукты пропадают. | Otherwise groceries keep disappearing. | #68 00:05:33: продукты пропадают | adapted: adapted |
 | 12 | Лёва | Твои проверки? | Your inspections? | #69 00:05:37: Твои проверки | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)

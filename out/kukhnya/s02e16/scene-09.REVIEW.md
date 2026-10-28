@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Приглашаю тебя сегодня вечером на ужин в Мане. | I invite you to dinner tonight at Claude Monet. | #153 00:09:27: Приглашаю тебя сегодня вечером на ужин в Мане | verbatim |
-| 2 | Нагиев | Боже мой, как приятно. | Oh my goodness, how wonderful. | #154 00:09:31: Боже мой, как приятно | verbatim |
-| 3 | Аня | Конечно, я согласна. | Of course I accept. | #155 00:09:33: Конечно, я согласна | verbatim |
-| 4 | Нагиев | Актриса с тебя не очень. | You are not much of an actress. | #156 00:09:35: актриса с тебя не очень | verbatim |
-| 5 | Аня | Договорились. Целую. | It is a date. Kisses. | #157 00:09:38: Договорились. Целую | verbatim |
-| 6 | Нагиев | Вика, забронируй мне на вечер вот этот столик. | Vika, reserve this table right here for me tonight. | #159 00:09:47: Вика, забронируй мне на вечер вот этот столик | verbatim |
-| 7 | Аня | Это любимый столик Дмитрия Владимировича. | That is Dmitry Vladimirovich's favorite table. | #160 00:09:51: Это любимый столик Дмитрия Владимировича | verbatim |
-| 8 | Нагиев | Он его на сегодня уже забронировал. | He has already reserved it for tonight. | #161 00:09:53: Он его на сегодня уже забронировал | verbatim |
-| 9 | Аня | Он каждый день его бронирует и не приходит. | He reserves it every single day and never shows up. | #162 00:09:54: Он каждый день его бронирует и не приходит | verbatim |
-| 10 | Нагиев | Если придет, я с ним договорю. | If he shows up, I will smooth it over with him. | #163 00:09:56: Если придет, я с ним договорю | verbatim |
-| 11 | Аня | Ну или скажу, что ты меня не предупреждал. | Or else I will just say that you never warned me. | #163 00:09:56: Ну или скажу, что ты меня не предупреждал | verbatim |
-| 12 | Нагиев | Для пятого столика. | This is for table five. | #165 00:10:04: Для пятого столика | verbatim |
-| 13 | Аня | Столько меня сегодня заказывают, как будто пост закончился. | People are ordering so much meat today, as if Lent just ended. | #167 00:10:11: Столько меня сегодня заказывают, как будто пост закончился | verbatim |
+| 1 | Вика | Приглашаю тебя сегодня вечером на ужин в Мане. | I invite you to dinner tonight at Claude Monet. | #153 00:09:27: Приглашаю тебя сегодня вечером на ужин в Мане | verbatim |
+| 2 | Вика | Боже мой, как приятно. | Oh my goodness, how wonderful. | #154 00:09:31: Боже мой, как приятно | verbatim |
+| 3 | Вика | Конечно, я согласна. | Of course I accept. | #155 00:09:33: Конечно, я согласна | verbatim |
+| 4 | Вика | Актриса с тебя не очень. | You are not much of an actress. | #156 00:09:35: актриса с тебя не очень | verbatim |
+| 5 | Вика | Договорились. Целую. | It is a date. Kisses. | #157 00:09:38: Договорились. Целую | verbatim |
+| 6 | Вика | Вика, забронируй мне на вечер вот этот столик. | Vika, reserve this table right here for me tonight. | #159 00:09:47: Вика, забронируй мне на вечер вот этот столик | verbatim |
+| 7 | Вика | Это любимый столик Дмитрия Владимировича. | That is Dmitry Vladimirovich's favorite table. | #160 00:09:51: Это любимый столик Дмитрия Владимировича | verbatim |
+| 8 | Вика | Он его на сегодня уже забронировал. | He has already reserved it for tonight. | #161 00:09:53: Он его на сегодня уже забронировал | verbatim |
+| 9 | Вика | Он каждый день его бронирует и не приходит. | He reserves it every single day and never shows up. | #162 00:09:54: Он каждый день его бронирует и не приходит | verbatim |
+| 10 | Вика | Если придет, я с ним договорю. | If he shows up, I will smooth it over with him. | #163 00:09:56: Если придет, я с ним договорю | verbatim |
+| 11 | Вика | Ну или скажу, что ты меня не предупреждал. | Or else I will just say that you never warned me. | #163 00:09:56: Ну или скажу, что ты меня не предупреждал | verbatim |
+| 12 | Вика | Для пятого столика. | This is for table five. | #165 00:10:04: Для пятого столика | verbatim |
+| 13 | Вика | Столько меня сегодня заказывают, как будто пост закончился. | People are ordering so much meat today, as if Lent just ended. | #167 00:10:11: Столько меня сегодня заказывают, как будто пост закончился | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

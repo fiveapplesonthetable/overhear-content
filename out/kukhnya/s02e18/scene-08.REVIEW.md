@@ -38,4 +38,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Oh, come on now.' Max anchors the line on 'yes', while 'really?!' completes the thought.
 - 'I do not get it, what kind of nonsense is this?' Chef Viktor anchors the line on 'I', while 'trifle' completes the thought. Timur answers right away.
 - 'Oh, take it easy.' In Russian, the idea of 'yes' flows naturally into 'you' without extra filler words.
-- 'Excuse me, please, how will you manage to seat us?' Russian expresses 'having' with the preposition 'by' plus the genitive pronoun and 'will come out'.
+- 'Excuse me, please, how will you manage to seat us?' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.

@@ -30,16 +30,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'I forgot the fruit.' In Russian, the word for 'fruit' is almost always used in the plural when talking about a snack or groceries.
 - 'Do you have any fruit?' Including the explicit word for 'there is' emphasizes the question of whether any fruit exists in the house at all.
-- 'We do not have any fruit.' When negating possession or existence in Russian, the missing item switches into the genitive plural.
-- 'Do not tell Nastya.' The person being told takes the dative case ending '-e' right before the negated command.
+- 'We do not have any fruit.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.
+- 'Do not tell Nastya.' Putting the short word for 'not' right in front of the action word is all Russian needs to make a sentence negative, with no extra helper words like 'do' or 'did'.
 - 'Do not say that I forgot the fruit.' Russian keeps the original tense inside reported speech—since forgetting happened in the past, the past tense stays.
-- 'And I will say that I brought them.' The perfective future verb means 'I will say' once, followed by a past-tense verb for what he claims he already did.
+- 'And I will say that I brought them.' Kostya pairs 'will say' with 'brought' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
 - 'Bro, thanks for helping us out.' The affectionate diminutive for 'little brother' is a warm way to address a close friend when asking a favor.
 - 'Come on, everything is fine.' The casual particle pair brushes off thanks in a friendly, relaxed way.
-- 'Only Vika is angry at me.' Expressions of anger or pouting in Russian direct the emotion toward the target using the preposition 'on' plus the accusative.
+- 'Only Vika is angry at me.' Spoken Russian keeps this brief and expressive, built right around 'is angry' without extra helper words.
 - 'Children bring people closer, right?' The verb is built from the root for 'near', literally meaning to make people closer to one another.
-- 'In a family you must tell the truth.' The impersonal modal word for 'must' pairs with the imperfective infinitive because telling the truth is an ongoing habit.
-- 'Like you with the fruit, right?' Max teases Kostya's hypocrisy with a quick comparison using the instrumental plural after 'with'.
+- 'In a family you must tell the truth.' Notice how Russian puts 'family' and 'truth' together in a short, direct phrase where word endings show how the ideas connect.
+- 'Like you with the fruit, right?' Here Max anchors the thought on 'how / as' and finishes on 'fruit', keeping the spoken rhythm brisk and natural.
 - 'All right, call me if anything happens.' The two-word conditional phrase literally means 'if what' and is the standard idiom for 'if anything comes up'.
 - 'Our Stepan is calm.' Saying 'Stepan by us' is a warm, idiomatic Russian way to say 'our Stepan'.
-- 'There will be no problems with him.' Future negation of existence uses the neuter singular 'will not be' alongside the genitive plural of 'problems'.
+- 'There will be no problems with him.' Notice how Russian puts 'problems' and 'will be' together in a short, direct phrase where word endings show how the ideas connect.

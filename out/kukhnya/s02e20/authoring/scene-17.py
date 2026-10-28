@@ -1,38 +1,38 @@
-ID = "kukhnya-s02e20-scene-17"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e20-scene-17'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 20
 SCENE = 17
-TITLE = 'Подмога от Елены и найденная невеста  (Reinforcements from Elena and the Found Bride)'
+TITLE = "Подмога от Елены и найденная невеста  (Reinforcements from Elena and the Found Bride)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'senya': 'anja', 'fedya': 'angelina'}
-LABELS = {'anya': 'Шеф', 'senya': 'Сеня', 'fedya': 'Федя'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.20"
-SOURCE_FILE = "sources/kukhnya/s02/e20.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "senya": "angelina"}
+LABELS = {"chef": "Шеф", "senya": "Сеня"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.20'
+SOURCE_FILE = 'sources/kukhnya/s02/e20.ru.srt'
 
 INTRO = 'Opening his heart to Elena, Viktor Petrovich admits that having failed three times in marriage, he is terrified of making another mistake by rushing things. Moved by his honesty, Elena brings her own kitchen crew to help cook the foie gras in time, right as Max returns with the missing bride.'
 
 STORY = [
-    ('anya', 'Лена, Лена, я трижды ошибался в своей жизни.', 'Lena, Lena, I have made three big mistakes in my life.', [(285, 'Лена, Лена, я трижды ошибался в своей жизни')], ''),
+    ('chef', 'Лена, Лена, я трижды ошибался в своей жизни.', 'Lena, Lena, I have made three big mistakes in my life.', [(285, 'Лена, Лена, я трижды ошибался в своей жизни')], ''),
     ('senya', 'И сейчас больше всего боюсь ошибиться еще раз.', 'And right now my greatest fear is making one more mistake.', [(286, 'И сейчас больше всего боюсь ошибиться еще раз')], ''),
-    ('fedya', 'Поэтому я не хочу торопить события.', 'That is why I do not want to rush things between us.', [(287, 'Поэтому я не хочу торопить события')], ''),
-    ('anya', 'Печень возьми на складе.', 'Grab the liver from the storage room.', [(288, 'Печень возьми на складе')], ''),
+    ('chef', 'Поэтому я не хочу торопить события.', 'That is why I do not want to rush things between us.', [(287, 'Поэтому я не хочу торопить события')], ''),
+    ('chef', 'Печень возьми на складе.', 'Grab the liver from the storage room.', [(288, 'Печень возьми на складе')], ''),
     ('senya', 'Все равно не успеете за час приготовить.', 'You still will not manage to cook it all in an hour.', [(289, 'Все равно не успеете за час приготовить')], ''),
-    ('fedya', 'Рук не хватит.', 'You do not have enough hands.', [(290, 'Рук не хватит')], ''),
-    ('anya', 'За работу, девочки!', 'Get to work, girls!', [(294, 'За работу, девочки')], ''),
+    ('chef', 'Рук не хватит.', 'You do not have enough hands.', [(290, 'Рук не хватит')], ''),
+    ('chef', 'За работу, девочки!', 'Get to work, girls!', [(294, 'За работу, девочки')], ''),
     ('senya', 'Шеф, не успеваем.', 'Chef, we are not going to make it in time.', [(295, 'Шеф, не успеваем')], ''),
-    ('fedya', 'Я подумала, вам не помешают лишние руки.', 'I figured you could use a few extra pairs of hands.', [(296, 'Я подумала, вам не помешают лишние руки')], ''),
-    ('anya', 'Ну что ж.', 'Well then, look at that.', [(297, 'Ну что ж')], ''),
+    ('chef', 'Я подумала, вам не помешают лишние руки.', 'I figured you could use a few extra pairs of hands.', [(296, 'Я подумала, вам не помешают лишние руки')], ''),
+    ('chef', 'Ну что ж.', 'Well then, look at that.', [(297, 'Ну что ж')], ''),
     ('senya', 'Рад сообщить вам?', 'I am delighted to inform all of you.', [(298, 'рад сообщить вам')], ''),
-    ('fedya', 'Что невесту мы все-таки нашли?', 'That we have found our bride after all!', [(298, 'что невесту мы все-таки нашли')], ''),
-    ('anya', 'Это значит, что пора подавать горячее.', 'Which means it is time to serve the hot main course.', [(299, 'Это значит, что пора подавать горячее')], ''),
+    ('chef', 'Что невесту мы все-таки нашли?', 'That we have found our bride after all!', [(298, 'что невесту мы все-таки нашли')], ''),
+    ('chef', 'Это значит, что пора подавать горячее.', 'Which means it is time to serve the hot main course.', [(299, 'Это значит, что пора подавать горячее')], ''),
 ]
 
 OPENER = "Right, let's take their exchange slowly and unpack the Russian."
 
 WALK = [
-    (0, None, "'Lena, Lena, I have made three big mistakes in my life.' Notice the reflexive suffix on the verb meaning 'to make a mistake', turning the action back on the subject."),
+    (0, None, "'Lena, Lena, I have made three big mistakes in my life.' Notice how Russian puts 'three times' and 'life' together in a short, direct phrase where word endings show how the ideas connect."),
     (1, None, "'And right now my greatest fear is making one more mistake.' The grammar packs 'both' and 'time' into a tight, idiomatic kitchen exchange."),
     (2, None, "'That is why I do not want to rush things between us.' Notice how Russian expresses 'therefore' and 'event' with crisp inflection rather than helper words. Chef Viktor answers right away."),
     (3, None, "'Grab the liver from the storage room.' The grammar packs 'liver' and 'warehouse' into a tight, idiomatic kitchen exchange."),
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Now let's listen to the entire scene again without interruption."
-
-OUTRO = 'When you watch Scene 17 of Episode 20, listen out for the exchange around reinforcements from elena and the found bride — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('fedya', 'Что невесту мы все-таки нашли?')
+OUTRO = 'That wraps up this scene as viktor Petrovich confesses to Elena that after three failed marriages he is simply afraid of rushing in and making another mistake, and Elena brings her cooks to save the banquet just as Max finds the bride. Until next time!'
+CLOSING = ("chef", "До встречи!")

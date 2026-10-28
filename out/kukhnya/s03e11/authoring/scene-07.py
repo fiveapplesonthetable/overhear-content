@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e11-scene-07'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 11
 SCENE = 7
-TITLE = 'Старая мебель и свадьба  (Old Furniture and a Wedding)'
+TITLE = "Старая мебель и свадьба  (Old Furniture and a Wedding)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja', 'nagiyev': 'angelina'}
-LABELS = {'anya': 'Макс', 'chef': 'Шеф', 'nagiyev': 'Нагиев'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.11"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "nagiyev": "angelina", "chef": "anja", "anya": "alisa"}
+LABELS = {"nagiyev": "Нагиев", "chef": "Шеф", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.11'
 SOURCE_FILE = 'sources/kukhnya/s03/e11.ru.srt'
 
 INTRO = 'Finding no scar on Max, Chef Barinov is momentarily confused until Max blurts out that Katya once saw him without clothes. Convinced anew, Barinov orders Max to prepare for a wedding, while in the dining room Nagiyev complains to Vika about a broken sofa spring.'
@@ -48,5 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'As Nagiyev rants about throwing out the old sofa and replacing it with something French, Chef Barinov walks by and overhears only half the conversation.'
-CLOSING = ('nagiyev', 'Нам нужна совсем новая мебель.')
+OUTRO = 'As Nagiyev rants about throwing out the old sofa and replacing it with something French, Chef Barinov walks by and overhears only half the conversation. Until next time!'
+CLOSING = ("nagiyev", "До встречи!")

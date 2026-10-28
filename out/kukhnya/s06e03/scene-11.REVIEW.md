@@ -10,12 +10,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Сейчас ты встретишься со своим братом. | Now you are going to meet your brother. | #181 00:12:18: сейчас ты встретишься со своим братом | adapted: exact |
+| 1 | Шеф | Сейчас ты встретишься со своим братом. | Now you are going to meet your brother. | #181 00:12:18: сейчас ты встретишься со своим братом | adapted: exact |
 | 2 | Нагиев | Стоп, Витюша, великолепно! | Cut, Vityusha, magnificent! | #182 00:12:22: Стоп! Витюша, великолепно | adapted: exact |
 | 3 | Нагиев | Просто гениально, нормально. | Simply brilliant, fine. | #183 00:12:25: Просто гениально. Нормально | adapted: exact |
 | 4 | Нагиев | Чуть добавь эмоций, хорошо? | Just add a little emotion, alright? | #184 00:12:27: Чуть | adapted: adapted |
 | 5 | Нагиев | Камера, мотор, дубль два, начали! | Camera, rolling, take two, action! | #185 00:12:30: Камера, мотор<br>#186 00:12:33: дубль два<br>#187 00:12:36: Начали! | adapted: adapted |
-| 6 | Аня | Ну что, сейчас ты встретишься со своим братом! | Well then, now you will meet your brother! | #188 00:12:38: сейчас ты встретишься со своим братом | adapted: adapted |
+| 6 | Шеф | Ну что, сейчас ты встретишься со своим братом! | Well then, now you will meet your brother! | #188 00:12:38: сейчас ты встретишься со своим братом | adapted: adapted |
 | 7 | Нагиев | Стоп, ну что это такое? | Cut, what on earth is that? | #189 00:12:42: Стоп!<br>#190 00:12:43: это такое? | adapted: adapted |
 | 8 | Нагиев | Что это за театр, честное слово? | What kind of theater is this, honestly? | #190 00:12:43: Что это за<br>#191 00:12:45: Честное слово | adapted: adapted |
 | 9 | Нагиев | Соберись, точнее работай, пожалуйста. | Focus, work more precisely, please. | #192 00:12:47: Соберись, точнее работай, пожалуйста | adapted: exact |
@@ -34,6 +34,6 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Cut, what on earth is that?' In Russian, the idea of 'stop' flows naturally into 'such' without extra filler words.
 - 'What kind of theater is this, honestly?' Spoken Russian keeps this brisk, leaning on 'what' and finishing on 'word'.
 - 'Focus, work more precisely, please.' Dmitry Nagiyev anchors the line on 'focus', while 'please' completes the thought.
-- 'Let's go, guys, right now everything will work out for us.' Notice the reflexive suffix on the verb meaning 'will work out', turning the action back on the subject.
+- 'Let's go, guys, right now everything will work out for us.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.
 - 'Camera, rolling!' Notice how Russian expresses 'camera' and 'is coming' with crisp inflection rather than helper words.
 - 'Scene nine, take three, action!' In Russian, the idea of 'stage' flows naturally into 'started' without extra filler words.

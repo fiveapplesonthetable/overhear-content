@@ -1,32 +1,32 @@
-ID = "kukhnya-s02e13-scene-04"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e13-scene-04'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 13
 SCENE = 4
-TITLE = 'Мясо в вегетарианских рулетиках  (Meat in the Vegetarian Rolls)'
+TITLE = "Мясо в вегетарианских рулетиках  (Meat in the Vegetarian Rolls)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'ainura': 'anja'}
-LABELS = {'anya': 'Шеф', 'ainura': 'Айнура'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.13"
-SOURCE_FILE = "sources/kukhnya/s02/e13.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "ainura": "angelina"}
+LABELS = {"chef": "Шеф", "ainura": "Айнура"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.13'
+SOURCE_FILE = 'sources/kukhnya/s02/e13.ru.srt'
 
 INTRO = "While Max steps away from his station, pranksters Senya and Fedya sneak meat into the vegetarian rolls he prepared for Nastya's guest. When Max discovers what they did after the plate leaves the kitchen, Senya convinces him that the guest will never notice."
 
 STORY = [
-    ('anya', 'Это вы что вы тут делаете, а?', 'What do you think you are doing here, huh?', [(46, 'Это вы что вы тут делаете, а')], ''),
+    ('chef', 'Это вы что вы тут делаете, а?', 'What do you think you are doing here, huh?', [(46, 'Это вы что вы тут делаете, а')], ''),
     ('ainura', 'Как вы решили, вегетарианцы, нормальной едой не кормить?', 'How did you decide not to feed vegetarians normal food?', [(47, 'Как вы решили, вегетарианцы, нормальной едой не кормить')], ''),
-    ('anya', 'С мясом.', 'With meat.', [(48, 'С мясом')], ''),
+    ('chef', 'С мясом.', 'With meat.', [(48, 'С мясом')], ''),
     ('ainura', 'Куда этого шефа нет?', 'What happens when the chef is away?', [(49, 'Куда этого шефа нет')], ''),
-    ('anya', 'А. Иди.', 'Oh. Go on.', [(53, 'а. Иди')], ''),
+    ('chef', 'А. Иди.', 'Oh. Go on.', [(53, 'а. Иди')], ''),
     ('ainura', 'Там сейчас вегетарианец мясо будет ездить.', 'Right now a vegetarian out there is about to eat meat.', [(55, 'Там сейчас вегетарианец мясо будет ездить')], ''),
-    ('anya', 'Как мясо?', 'What do you mean, meat?', [(56, 'Как мясо')], ''),
+    ('chef', 'Как мясо?', 'What do you mean, meat?', [(56, 'Как мясо')], ''),
     ('ainura', 'Чё ты паникуешь?', 'Why are you panicking?', [(57, 'Чё ты паникуешь')], ''),
-    ('anya', 'Даже не заметит ничего.', 'He will not even notice anything.', [(58, 'даже не заметит ничего')], ''),
+    ('chef', 'Даже не заметит ничего.', 'He will not even notice anything.', [(58, 'даже не заметит ничего')], ''),
     ('ainura', 'На самом деле.', 'Really, it is true.', [(58, 'На самом деле')], ''),
-    ('anya', 'Ещё спасибо скажешь.', 'You will even thank me later.', [(59, 'Ещё спасибо скажешь')], ''),
+    ('chef', 'Ещё спасибо скажешь.', 'You will even thank me later.', [(59, 'Ещё спасибо скажешь')], ''),
     ('ainura', 'Согласен, вегетарианские ещё идиоты.', 'Agreed, vegetarians are total idiots too.', [(60, 'Согласен, вегетарианские ещё идиоты')], ''),
-    ('anya', 'Идиоты, а?', 'Total idiots, right?', [(60, 'Идиоты, а')], ''),
+    ('chef', 'Идиоты, а?', 'Total idiots, right?', [(60, 'Идиоты, а')], ''),
 ]
 
 OPENER = "Let's replay the exchange and look closely at each Russian phrase."
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Let's hear the complete conversation once more."
-
-OUTRO = 'When you watch Scene 4 of Episode 13, listen out for the exchange around meat in the vegetarian rolls — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('anya', 'Идиоты, а?')
+OUTRO = "That wraps up this scene as senya and Fedya secretly slip meat into Max's vegetarian rolls while he steps away, and Max decides not to panic because the guest will never notice. See you next time!"
+CLOSING = ("chef", "До завтра!")

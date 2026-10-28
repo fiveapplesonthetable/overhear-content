@@ -11,10 +11,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Аня | Вика, не слушай её, она ерунду говорит! | Vika, do not listen to her, she is talking nonsense! | #191 00:14:35: не слушай ее. Она ерунду говорит | adapted: adapted |
-| 2 | Вика | Я не поняла, она говорила о новой покупке. | I do not follow, she was talking about a new purchase. | #192 00:14:39: Не поняла<br>#192 00:14:39: говорила о покупке новой | adapted: adapted |
-| 3 | Вика | Потому что ваша старая машина вчера сломалась. | Because your old machine broke yesterday. | #193 00:14:42: потому что старая сломалась | adapted: adapted |
+| 2 | Катя | Я не поняла, она говорила о новой покупке. | I do not follow, she was talking about a new purchase. | #192 00:14:39: Не поняла<br>#192 00:14:39: говорила о покупке новой | adapted: adapted |
+| 3 | Катя | Потому что ваша старая машина вчера сломалась. | Because your old machine broke yesterday. | #193 00:14:42: потому что старая сломалась | adapted: adapted |
 | 4 | Аня | Зачем покупать новую? Может, и починить получится. | Why buy a new one? Maybe I can manage to fix it. | #195 00:14:48: Просто зачем покупать? Я это посмотрю, может и починить получится | adapted: adapted |
-| 5 | Вика | Ну ладно, тогда обязательно скажи, если что. | Alright then, be sure to tell me if anything comes up. | #196 00:14:56: Ну ладно, скажи, если что | adapted: adapted |
+| 5 | Катя | Ну ладно, тогда обязательно скажи, если что. | Alright then, be sure to tell me if anything comes up. | #196 00:14:56: Ну ладно, скажи, если что | adapted: adapted |
 | 6 | Аня | Катя, ты меня, пожалуйста, за всё прости. | Katya, please forgive me for everything. | #198 00:15:05: Катя, ты меня прости | adapted: adapted |
 | 7 | Аня | Сейчас это со стороны выглядело очень глупо. | Just now that looked very foolish from the outside. | #199 00:15:08: Сейчас это, наверное, выглядело глупо | adapted: adapted |
 | 8 | Аня | Всё это потому, что я до сих пор люблю Вику. | All of this is because I still love Vika. | #200 00:15:10: все это потому, что я до сих пор люблю Вику | adapted: adapted |

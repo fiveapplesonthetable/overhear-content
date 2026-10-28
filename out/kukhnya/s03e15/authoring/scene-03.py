@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e15-scene-03'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 15
 SCENE = 3
 TITLE = "День рождения Вики и свадьба  (Vika's Birthday and the Wedding)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'kostya': 'anja', 'nastya': 'angelina'}
-LABELS = {'anya': 'Макс', 'kostya': 'Костя', 'nastya': 'Настя'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.15"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "kostya": "anja", "nastya": "angelina", "anya": "alisa"}
+LABELS = {"kostya": "Костя", "nastya": "Настя", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.15'
 SOURCE_FILE = 'sources/kukhnya/s03/e15.ru.srt'
 
 INTRO = "Back at the apartment, Kostya and Nastya are gluing paper flowers onto cheap wedding invitations when Max remembers that today is Vika's birthday. Nastya urges Max to at least send Vika a birthday text. Listen to the Russian dialogue first."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Take note of those two identical phones owned by Max and Kostya—they will cause big trouble later! Now let's see what happens when Vika replies to Max's birthday text."
-CLOSING = ('anya', 'У Вики сегодня день рождения.')
+OUTRO = "Take note of those two identical phones owned by Max and Kostya—they will cause big trouble later! Now let's see what happens when Vika replies to Max's birthday text. Until next time!"
+CLOSING = ("anya", "Хорошего дня!")

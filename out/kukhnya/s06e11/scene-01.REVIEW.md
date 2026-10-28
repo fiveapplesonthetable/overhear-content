@@ -10,11 +10,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Там сейчас свежее мясо должны привезти, проконтролируй. | They are supposed to deliver fresh meat there right now, go check it. | #3 00:00:16: Там все мясо должны привезти | adapted: adapted |
+| 1 | Денис | Там сейчас свежее мясо должны привезти, проконтролируй. | They are supposed to deliver fresh meat there right now, go check it. | #3 00:00:16: Там все мясо должны привезти | adapted: adapted |
 | 2 | Денис | Сеня, вчера вечеринка у тебя получилась отличная. | Senya, your party yesterday turned out great. | #4 00:00:23: вчера получилась | adapted: adapted |
-| 3 | Аня | Денис, расскажи, как у тебя со Светой? | Denis, tell me, how are things with you and Sveta? | #6 00:00:31: как у тебя со Светкой | adapted: adapted |
+| 3 | Денис | Денис, расскажи, как у тебя со Светой? | Denis, tell me, how are things with you and Sveta? | #6 00:00:31: как у тебя со Светкой | adapted: adapted |
 | 4 | Денис | Никак, это было просто чтобы Катя поревновала. | Nothing at all, that was just to make Katya jealous. | #7 00:00:33: Никак<br>#10 00:00:39: Это просто, чтобы Катя | adapted: adapted |
-| 5 | Аня | Видел я вчера, как у вас после текилы было. | I saw yesterday how it was with you two after tequila. | #8 00:00:35: Видел я, как у вас после текилы было никак | adapted: adapted |
+| 5 | Денис | Видел я вчера, как у вас после текилы было. | I saw yesterday how it was with you two after tequila. | #8 00:00:35: Видел я, как у вас после текилы было никак | adapted: adapted |
 | 6 | Денис | Да правда ничего у нас с ней нет. | Honestly there is nothing going on between her and me. | #11 00:00:41: Ничего у нас нет | adapted: adapted |
 | 7 | Света | Всё, Миша, пока, не звони мне больше. | That is it, Misha, bye, do not call me anymore. | #11 00:00:41: Все, Миша, пока<br>#12 00:00:44: Не звони мне больше | adapted: adapted |
 | 8 | Денис | Привет, Света, с кем ты сейчас говорила? | Hi, Sveta, who were you talking to just now? | #13 00:00:45: Привет<br>#14 00:00:47: С кем болтала | adapted: adapted |
@@ -22,7 +22,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 10 | Света | Вчера я пришла домой и не смогла врать. | Yesterday I came home and could not lie to him. | #18 00:00:55: Вчера я пришла домой, поняла, что не могу ему врать | adapted: adapted |
 | 11 | Света | Я рассказала о нашем поцелуе, и мы расстались. | I told him about our kiss, and we broke up. | #19 00:00:59: Рассказала о нашем поцелуи, и мы расстались | adapted: adapted |
 | 12 | Света | Но я думаю, это даже к лучшему. | But I think that is even for the best. | #20 00:01:02: Ну, это даже к лучшему | adapted: adapted |
-| 13 | Аня | Слушай, а Света знает, что у вас ничего нет? | Listen, does Sveta know that there is nothing between you two? | #22 00:01:10: Светка-то знает, что у вас ничего нет | adapted: adapted |
+| 13 | Денис | Слушай, а Света знает, что у вас ничего нет? | Listen, does Sveta know that there is nothing between you two? | #22 00:01:10: Светка-то знает, что у вас ничего нет | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

@@ -11,17 +11,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Гость | Мне сказали, вы можете организовать игру. | I was told you can organize a game. | #152 00:11:01: можете организовать игру | adapted: adapted |
-| 2 | Аня | Интересно, и кто вам это шепнул? | Interesting, and who whispered that to you? | #153 00:11:05: И кто этот шептал | adapted: adapted |
+| 2 | Гость | Интересно, и кто вам это шепнул? | Interesting, and who whispered that to you? | #153 00:11:05: И кто этот шептал | adapted: adapted |
 | 3 | Гость | Ну, это сейчас не так важно. | Well, that is not so important right now. | #153 00:11:05: не столь важно | adapted: adapted |
 | 4 | Гость | Так вы можете помочь или нет? | So can you help me or not? | #154 00:11:08: Так можете или нет | adapted: adapted |
-| 5 | Аня | Хорошо, я обязательно что-нибудь для вас придумаю. | Fine, I will definitely think of something for you. | #156 00:11:13: Я что-нибудь придумаю | adapted: adapted |
+| 5 | Гость | Хорошо, я обязательно что-нибудь для вас придумаю. | Fine, I will definitely think of something for you. | #156 00:11:13: Я что-нибудь придумаю | adapted: adapted |
 | 6 | Гость | А как мне потом вас найти? | And how can I find you later? | #156 00:11:13: Как мне вас найти | adapted: adapted |
-| 7 | Аня | Все телефоны есть на моей визитке. | All the phone numbers are on my business card. | #157 00:11:16: Все на моей визитке | adapted: adapted |
-| 8 | Аня | Смотри, у него такой же костюм. | Look, he has the exact same suit. | #158 00:11:31: такой же костюм | adapted: adapted |
-| 9 | Аня | Мы отдали мой костюм в химчистку. | We gave my suit to the dry cleaners. | #158 00:11:31: мы отдали | adapted: adapted |
+| 7 | Гость | Все телефоны есть на моей визитке. | All the phone numbers are on my business card. | #157 00:11:16: Все на моей визитке | adapted: adapted |
+| 8 | Гость | Смотри, у него такой же костюм. | Look, he has the exact same suit. | #158 00:11:31: такой же костюм | adapted: adapted |
+| 9 | Гость | Мы отдали мой костюм в химчистку. | We gave my suit to the dry cleaners. | #158 00:11:31: мы отдали | adapted: adapted |
 | 10 | Гость | Давно мне так хорошо не везло. | I have not had such good luck in a long time. | #161 00:11:49: Давно мне так не везло | adapted: adapted |
 | 11 | Гость | Пожалуйста, вы совершенно не беспокойтесь. | Please, do not worry at all. | #162 00:11:55: Не беспокойтесь | adapted: adapted |
-| 12 | Шеф | Извините, я зашёл только быстро спросить. | Excuse me, I came in just to ask quickly. | #164 00:12:05: Я только спросить | adapted: adapted |
+| 12 | Гость | Извините, я зашёл только быстро спросить. | Excuse me, I came in just to ask quickly. | #164 00:12:05: Я только спросить | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

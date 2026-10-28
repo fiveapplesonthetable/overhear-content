@@ -15,13 +15,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 3 | Гуля | А то я столько времени собираюсь окна помыть, все руки не доходят. | I have been meaning to wash the windows for so long, I just never get around to it. | #211 00:14:57: А то я столько времени собираюсь, окна помыть, все руки не доходят | adapted: exact |
 | 4 | Гуля | Помоешь окна сегодня? | Will you wash the windows today? | #212 00:15:02: Помоешь? | adapted: adapted |
 | 5 | Гуля | Хорошо, сейчас помою. | Alright, I will wash them right now. | #213 00:15:06: Хорошо | adapted: adapted |
-| 6 | Луи | Шеф у себя в кабинете? | Is the chef in his office? | #216 00:15:26: Шеф, у себя? | adapted: adapted |
+| 6 | Гуля | Шеф у себя в кабинете? | Is the chef in his office? | #216 00:15:26: Шеф, у себя? | adapted: adapted |
 | 7 | Гуля | Да, он у себя. | Yes, he is in his office. | #216 00:15:26: У себя | adapted: adapted |
-| 8 | Луи | Виктор Петрович, вот инспектор, который приходил к моему отцу! | Viktor Petrovich, here is the inspector who came to my father's place! | #218 00:15:36: Виктор Петрович, вот инспектор, который приходил к моему отцу | adapted: exact |
-| 9 | Аня | А у нас тогда кто в зале сидит? | Then who do we have sitting in the dining room? | #219 00:15:41: А у нас тогда кто? | adapted: adapted |
-| 10 | Аня | Прежде всего, это наш гость. | First and foremost, he is our guest. | #220 00:15:46: Прежде всего, наш гость | adapted: adapted |
-| 11 | Аня | Через пять минут я подам блюдо нашему гостю. | In five minutes I will serve the dish to our guest. | #221 00:15:48: Через пять минут<br>#221 00:15:48: и я подам его нашему гостю | adapted: adapted |
-| 12 | Луи | Но это не настоящий инспектор! | But he is not the real inspector! | #218 00:15:36: вот инспектор | adapted: adapted |
+| 8 | Гуля | Виктор Петрович, вот инспектор, который приходил к моему отцу! | Viktor Petrovich, here is the inspector who came to my father's place! | #218 00:15:36: Виктор Петрович, вот инспектор, который приходил к моему отцу | adapted: exact |
+| 9 | Гуля | А у нас тогда кто в зале сидит? | Then who do we have sitting in the dining room? | #219 00:15:41: А у нас тогда кто? | adapted: adapted |
+| 10 | Гуля | Прежде всего, это наш гость. | First and foremost, he is our guest. | #220 00:15:46: Прежде всего, наш гость | adapted: adapted |
+| 11 | Гуля | Через пять минут я подам блюдо нашему гостю. | In five minutes I will serve the dish to our guest. | #221 00:15:48: Через пять минут<br>#221 00:15:48: и я подам его нашему гостю | adapted: adapted |
+| 12 | Гуля | Но это не настоящий инспектор! | But he is not the real inspector! | #218 00:15:36: вот инспектор | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

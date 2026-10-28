@@ -1,15 +1,15 @@
-ID = "kukhnya-s02e14-scene-03"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e14-scene-03'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 14
 SCENE = 3
 TITLE = "Бывший парень Саши  (Sasha's Ex-Boyfriend)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'sasha': 'anja', 'senya': 'angelina'}
-LABELS = {'anya': 'Макс', 'sasha': 'Саша', 'senya': 'Сеня'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.14"
-SOURCE_FILE = "sources/kukhnya/s02/e14.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "sasha": "anja", "senya": "angelina"}
+LABELS = {"anya": "Макс", "sasha": "Саша", "senya": "Сеня"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.14'
+SOURCE_FILE = 'sources/kukhnya/s02/e14.ru.srt'
 
 INTRO = 'In the dining room, a suspicious Max quizzes Sasha about Ilya and learns that the returning waiter is her ex-boyfriend from six months ago. While Sasha reassures Max that she is with him now, Ilya waits patiently to speak with Nagiyev about returning to work.'
 
@@ -39,15 +39,14 @@ WALK = [
     (4, None, "'Six months ago.' Sasha anchors the line on 'half a year', while 'back' completes the thought. Senya answers right away."),
     (5, None, "'Oh, no, no, thank you.' In Russian, the idea of 'and' flows naturally into 'thank you' without extra filler words."),
     (6, None, "'In a week I will have a talk with Sasha.' Here the Russian phrasing highlights 'for a week' before landing on 'Sasha'."),
-    (7, None, "'Ah, speak of the devil.' The grammar packs 'and' and 'he' into a tight, idiomatic kitchen exchange. Senya answers right away."),
+    (7, None, "'Ah, speak of the devil.' Sasha keeps this everyday Russian response short and direct, without needing English helper words like 'am', 'is', or 'are'."),
     (8, None, "'Dmitry Vladimirovich is busy right now.' Spoken Russian keeps this brisk, leaning on 'Dmitry' and finishing on 'busy'."),
     (9, None, "'Please wait for him right here.' Max brings out the contrast between 'wait' and 'him' in a few short words."),
-    (10, None, "'And what happens now?' Spoken Russian keeps this brisk, leaning on 'both' and finishing on 'now'. Senya answers right away."),
+    (10, None, "'And what happens now?' Spoken Russian keeps this brief and expressive, built right around 'now' without extra helper words."),
     (11, None, "'Wait, are you jealous?' Notice how Russian expresses 'you' and 'are jealous' with crisp inflection rather than helper words."),
     (12, None, "'I am with you now.' Max anchors the line on 'I', while 'you' completes the thought."),
 ]
 
 TRANSITION = "Let's hear the complete conversation once more."
-
-OUTRO = "When you watch Scene 3 of Episode 14, listen out for the exchange around sasha's ex-boyfriend — you will recognize every Russian phrase right away. See you in the next scene."
-CLOSING = ('anya', 'Я с тобой.')
+OUTRO = 'That wraps up this scene as max presses Sasha about Ilya and learns they broke up six months ago, while Ilya waits by the bar to ask Nagiyev for his waiter position back. Until next time!'
+CLOSING = ("anya", "До встречи!")

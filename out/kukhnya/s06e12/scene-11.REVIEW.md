@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Михаил | Здравствуйте, вы уже сюда как к себе домой ходите. | Hello, you already walk in here like it is your own home. | #172 00:12:19: домой ходите | adapted: adapted |
-| 2 | Гуля | Я ключи у Лёвы тайком взяла, чтобы вас проведать. | I secretly took the keys from Lyova to check on you. | #174 00:12:25: Нет, я ключи у Лёва тайком вытащила, чтобы вас проведать | adapted: adapted |
-| 3 | Михаил | Проведали меня, спасибо большое, а теперь до свидания. | You checked on me, thank you very much, and now goodbye. | #175 00:12:31: Проведали, спасибо, до свидания | adapted: adapted |
-| 4 | Гуля | Скажите честно, а вы сегодня на рентген съездили? | Tell me honestly, did you go for an X-ray today? | #178 00:12:38: А вы на рентген съездили | adapted: adapted |
-| 5 | Михаил | Нет ещё, моя соседка Анна Петровна сегодня занята. | Not yet, my neighbor Anna Petrovna is busy today. | #179 00:12:39: Нет, Анна Петровна ещё занята | adapted: adapted |
-| 6 | Гуля | Хорошо, тогда собирайтесь, я сама вас сейчас свожу. | Alright, then get ready, I will take you there myself right now. | #180 00:12:42: Хорошо, тогда я вас свожу | adapted: adapted |
-| 7 | Аня | Миша, хочу помочь тебе как другу разбогатеть со мной. | Misha, I want to help you as a friend get rich with me. | #183 00:12:56: Хочу помочь тебе как другу разбогатеть вместе со мной | adapted: adapted |
-| 8 | Аня | Смотри, это настоящая сыворотка правды для того букмекера. | Look, this is a real truth serum for that bookmaker. | #184 00:13:00: Сыворотка правды<br>#185 00:13:02: для того букмекера | adapted: adapted |
-| 9 | Аня | Я сам сегодня утром приготовил её из белладонны. | I made it myself this morning from belladonna. | #186 00:13:04: Сам приготовил | adapted: adapted |
-| 10 | Михаил | Виктор, неужели эта твоя сыворотка действительно работает? | Viktor, does this serum of yours really work? | #187 00:13:07: Неужели работает | adapted: adapted |
-| 11 | Аня | Отлично работает, я только что на Сене проверял. | It works great, I just tested it on Senya. | #187 00:13:07: Работает<br>#188 00:13:09: проверял | adapted: adapted |
-| 12 | Аня | Сеня, скажи, ведь у вас дома Марина всё решает? | Senya, tell me, Marina decides everything at your home, right? | #191 00:13:16: все решает | adapted: adapted |
+| 1 | Шеф | Здравствуйте, вы уже сюда как к себе домой ходите. | Hello, you already walk in here like it is your own home. | #172 00:12:19: домой ходите | adapted: adapted |
+| 2 | Шеф | Я ключи у Лёвы тайком взяла, чтобы вас проведать. | I secretly took the keys from Lyova to check on you. | #174 00:12:25: Нет, я ключи у Лёва тайком вытащила, чтобы вас проведать | adapted: adapted |
+| 3 | Шеф | Проведали меня, спасибо большое, а теперь до свидания. | You checked on me, thank you very much, and now goodbye. | #175 00:12:31: Проведали, спасибо, до свидания | adapted: adapted |
+| 4 | Шеф | Скажите честно, а вы сегодня на рентген съездили? | Tell me honestly, did you go for an X-ray today? | #178 00:12:38: А вы на рентген съездили | adapted: adapted |
+| 5 | Шеф | Нет ещё, моя соседка Анна Петровна сегодня занята. | Not yet, my neighbor Anna Petrovna is busy today. | #179 00:12:39: Нет, Анна Петровна ещё занята | adapted: adapted |
+| 6 | Шеф | Хорошо, тогда собирайтесь, я сама вас сейчас свожу. | Alright, then get ready, I will take you there myself right now. | #180 00:12:42: Хорошо, тогда я вас свожу | adapted: adapted |
+| 7 | Шеф | Миша, хочу помочь тебе как другу разбогатеть со мной. | Misha, I want to help you as a friend get rich with me. | #183 00:12:56: Хочу помочь тебе как другу разбогатеть вместе со мной | adapted: adapted |
+| 8 | Шеф | Смотри, это настоящая сыворотка правды для того букмекера. | Look, this is a real truth serum for that bookmaker. | #184 00:13:00: Сыворотка правды<br>#185 00:13:02: для того букмекера | adapted: adapted |
+| 9 | Шеф | Я сам сегодня утром приготовил её из белладонны. | I made it myself this morning from belladonna. | #186 00:13:04: Сам приготовил | adapted: adapted |
+| 10 | Шеф | Виктор, неужели эта твоя сыворотка действительно работает? | Viktor, does this serum of yours really work? | #187 00:13:07: Неужели работает | adapted: adapted |
+| 11 | Шеф | Отлично работает, я только что на Сене проверял. | It works great, I just tested it on Senya. | #187 00:13:07: Работает<br>#188 00:13:09: проверял | adapted: adapted |
+| 12 | Шеф | Сеня, скажи, ведь у вас дома Марина всё решает? | Senya, tell me, Marina decides everything at your home, right? | #191 00:13:16: все решает | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

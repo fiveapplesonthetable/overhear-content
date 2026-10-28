@@ -10,9 +10,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Только будьте аккуратней на кухне. | Just be more careful in the kitchen. | #273 00:21:18: Только аккуратней | adapted: adapted |
-| 2 | Аня | Я на это полночи потратил. | I spent half the night on this. | #274 00:21:22: Я на это полночи потратил | adapted: adapted |
-| 3 | Аня | И смотрите, ничего тут не трогать. | And mind you, do not touch anything here. | #275 00:21:25: ничего | adapted: adapted |
+| 1 | Федя | Только будьте аккуратней на кухне. | Just be more careful in the kitchen. | #273 00:21:18: Только аккуратней | adapted: adapted |
+| 2 | Федя | Я на это полночи потратил. | I spent half the night on this. | #274 00:21:22: Я на это полночи потратил | adapted: adapted |
+| 3 | Федя | И смотрите, ничего тут не трогать. | And mind you, do not touch anything here. | #275 00:21:25: ничего | adapted: adapted |
 | 4 | Сеня | Кажется, я сейчас зуб сломал. | It seems I just broke a tooth. | #277 00:21:38: зуб сломал | adapted: adapted |
 | 5 | Федя | Слушай, придумай что-нибудь новое, уже надоело. | Listen, make up something new, we are tired of it already. | #278 00:21:40: придумай что-нибудь новое, надоело | adapted: adapted |
 | 6 | Сеня | Федя, я правда зуб сломал! | Fedya, I really broke a tooth! | #280 00:21:52: Зуб сломал | adapted: adapted |

@@ -1,14 +1,14 @@
 ID = 'kukhnya-s05e14-scene-13'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 14
 SCENE = 13
-TITLE = 'Сделка со скидкой  (A Discounted Deal)'
+TITLE = "Сделка со скидкой  (A Discounted Deal)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'eleonora': 'anja'}
-LABELS = {'anya': 'Макс', 'eleonora': 'Элеонора'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.14"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "eleonora": "angelina", "anya": "alisa"}
+LABELS = {"eleonora": "Элеонора", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.14'
 SOURCE_FILE = 'sources/kukhnya/s05/e14.ru.srt'
 
 INTRO = 'Determined to get the ten thousand dollars Vika needs for the maternity center, Max returns to Eleonora and agrees to break up with Katya—asking for only ten thousand instead of twenty.'
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Unfortunately for Max, Denis happens to walk down the hall and hears Eleonora's suggestive parting words. See you in the next scene."
-CLOSING = ('eleonora', 'Зайдёшь ко мне сегодня вечером.')
+OUTRO = "Unfortunately for Max, Denis happens to walk down the hall and hears Eleonora's suggestive parting words. Until next time!"
+CLOSING = ("eleonora", "Пока!")

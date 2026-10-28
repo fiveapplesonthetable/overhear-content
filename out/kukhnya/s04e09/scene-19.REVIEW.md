@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I did not expect that you would manage.' The reflexive perfective future verb means 'will cope' or 'manage' successfully.
+- 'I did not expect that you would manage.' In everyday Russian, 'to expect; to wait for' flows straight into 'will manage' without extra linking words.
 - 'You were with a child for half a day.' Compound words with 'pol-' mean 'half', here 'half a day'.
 - 'And nothing happened.' Vika's blissful ignorance makes this simple negative past-tense sentence deeply ironic.
-- 'Well yes, and what could have happened?' Max plays it cool with the neuter past form of 'could' plus the perfective infinitive.
-- 'You will not be afraid to stay with our baby.' Two reflexive verbs sit back to back: 'to be afraid' and 'to remain'.
-- 'Vika, forgive me, please.' Max switches to a sincere apology using the informal singular imperative.
+- 'Well yes, and what could have happened?' Here Max anchors the thought on 'can, to be able' and finishes on 'to happen', keeping the spoken rhythm brisk and natural.
+- 'You will not be afraid to stay with our baby.' In everyday Russian, 'to fear, be afraid' flows straight into 'little one, kid' without extra linking words.
+- 'Vika, forgive me, please.' Max uses a polite everyday Russian courtesy expression that sets the tone of the conversation right away.
 - 'I should have told the truth about Denis.' Adding 'was' after the modal word for 'need to' creates the past-tense meaning 'should have'.
-- 'I will not lie to you anymore.' Used with a negative verb, the comparative word 'more' means 'anymore' or 'no longer'.
-- 'I will try very hard to tell you the truth.' The perfective future 'I will try hard' pairs with the imperfective infinitive for an ongoing lifelong habit.
+- 'I will not lie to you anymore.' Here Max anchors the thought on 'more, anymore' and finishes on 'to lie', keeping the spoken rhythm brisk and natural.
+- 'I will try very hard to tell you the truth.' In everyday Russian, 'very, really' flows straight into 'truth' without extra linking words.
 - 'Always?' A single time adverb with rising intonation asks for his promise.
 - 'How hard it is for a person to change.' In his closing voiceover, Max pairs the emphatic 'how' with the adverb 'difficult'.
 - 'Someone is simply afraid to do it.' Adding '-to' to 'who' forms the indefinite pronoun 'someone'.
 - 'But one thing I know for sure.' Putting the neuter numeral 'one thing' first sets up the final lesson of the episode.
-- 'For the sake of the person you love, you must change.' The preposition meaning 'for the sake of' always governs the genitive case.
+- 'For the sake of the person you love, you must change.' Max pairs 'beloved' with 'to change' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.

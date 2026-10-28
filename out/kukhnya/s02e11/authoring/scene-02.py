@@ -1,15 +1,15 @@
-ID = "kukhnya-s02e11-scene-02"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e11-scene-02'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 11
 SCENE = 2
-TITLE = 'Шеф в больничной палате  (The Chef in the Hospital Ward)'
+TITLE = "Шеф в больничной палате  (The Chef in the Hospital Ward)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja'}
-LABELS = {'anya': 'Макс', 'vika': 'Вика'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.11"
-SOURCE_FILE = "sources/kukhnya/s02/e11.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "vika": "angelina"}
+LABELS = {"anya": "Макс", "vika": "Вика"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.11'
+SOURCE_FILE = 'sources/kukhnya/s02/e11.ru.srt'
 
 INTRO = 'After Max and Kostya leave for the restaurant hoping Sasha and Nastya will cool off during their shift, the scene shifts to the hospital ward. There, Chef Barinov impatiently questions his doctor about his MRI results and chafes against the strict hospital regimen.'
 
@@ -33,13 +33,13 @@ OPENER = "Right, let's take their exchange slowly and unpack the Russian."
 
 WALK = [
     (0, None, "'There is no need to make a scene in the apartment so early!' Max anchors the line on 'and', while 'early' completes the thought."),
-    (1, None, "'What, could it get in the way?' Notice the reflexive suffix on the verb meaning 'to get in the way', turning the action back on the subject."),
+    (1, None, "'What, could it get in the way?' In everyday Russian, 'maybe' flows straight into 'to get in the way' without extra linking words."),
     (2, None, "'Well, just take a look at Pashka.' Here the Russian phrasing highlights 'come on' before landing on 'look'. Vika answers right away."),
     (3, None, "'They will get to work and sort everything out.' The meaning hinges on 'will come' working together with 'to agree' in spoken Russian."),
     (4, None, "'How are you feeling today?' Max raises the pitch on 'your' to turn the phrase into a direct spoken question."),
     (5, None, "'That is actually what I wanted to ask you.' The grammar packs 'like this' and 'to ask' into a tight, idiomatic kitchen exchange. Max answers right away."),
     (6, None, "'How am I feeling?' The grammar packs 'how' and 'health' into a tight, idiomatic kitchen exchange."),
-    (7, None, "'No, no, do not worry.' In Russian, the idea of 'there is no' flows naturally into 'worry' without extra filler words."),
+    (7, None, "'No, no, do not worry.' Putting the short word for 'not' right in front of the action word is all Russian needs to make a sentence negative, with no extra helper words like 'do' or 'did'."),
     (8, None, "'Let us wait for the MRI results.' Notice how Russian expresses 'to wait for' and 'MRI scan' with crisp inflection rather than helper words. Vika answers right away."),
     (9, None, "'Only one thing is required of you.' Vika brings out the contrast between 'from' and 'you' in a few short words."),
     (10, None, "'To follow the regimen strictly.' Here the Russian phrasing highlights 'strictly' before landing on 'regime'."),
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Now let's listen to the entire scene again without interruption."
-
-OUTRO = 'When you watch Scene 2 of Episode 11, listen out for the exchange around the chef in the hospital ward — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('vika', 'Я сделаю все, что возможно.')
+OUTRO = 'That wraps up this scene as max and Kostya hope the girls will make peace at work, while in the hospital Chef Barinov argues with his doctor about his MRI results and strict bed rest. See you next time!'
+CLOSING = ("vika", "До свидания!")

@@ -1,41 +1,40 @@
-# kukhnya-s01e03-scene-11: review sheet
+# Неловкая встреча  (An Awkward Encounter) — `kukhnya-s01e03-scene-11`
 
-Title: Неловкая встреча  (An Awkward Encounter)
-Level: A1 — Duolingo Section 2
-Pair: ru-en
-Source: Кухня (The Kitchen) S1.3
+**Source:** Кухня (Kukhnya) S1.03 · `sources/kukhnya/s01/e03.ru.dual.srt`  
+**Target level:** A1 — Duolingo Section 2
 
+## Cast
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+| Role | Voice | Label |
+|---|---|---|
+| `narrator` | sky | — |
+| `elvira` | angelina | Эльвира |
+| `vadim` | anja | Вадим |
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+## Part 1 — Intro
+
+> In the dining room of Claude Monet, Vadik tries to corner Vika to talk about their secret relationship. Just as Vika firmly rejects his advances, Vadik's wife Elvira arrives and cheerfully praises Vika for her help, creating a deeply awkward moment. Let's listen to their conversation in Russian.
+
+## Part 2 — Story
+
+| # | Speaker | Line | English | Source cue(s) | Change |
 |---|---|---|---|---|---|
-| 1 | Вадик | Вика, нам нужно серьёзно поговорить. | Vika, we need to talk seriously. | #244 00:15:21: надо поговорить | adapted: insisting |
-| 2 | Вика | Я уже всё тебе сказала. | I already told you everything. | #245 00:15:23: Я тебе уже | adapted: cutting him off |
-| 3 | Вадик | Ну хватит, не злись на меня. | Come on, don't be angry with me. | #246 00:15:25: Ну, хватит | adapted: pleading |
-| 4 | Вадик | Ты же знаешь мои настоящие чувства. | You know my real feelings. | #246 00:15:25: как я к тебе отношусь | adapted: trying to flatter |
-| 5 | Вика | Оставь меня в покое прямо сейчас! | Leave me alone right now! | #247 00:15:29: Загань | adapted: firm rejection |
-| 6 | Эльвира | Вадик, милый, вот ты где! | Vadik, darling, there you are! | #248 00:15:31: Вадик, вот ты где | adapted: approaching cheerfully |
-| 7 | Вадик | Мы как раз обсуждаем важный банкет. | We are just discussing an important banquet. | #249 00:15:35: это обсуждаем | adapted: making excuse |
-| 8 | Вадик | Познакомьтесь, это моя супруга Эльвира. | Get acquainted, this is my wife Elvira. | #250 00:15:39: это моя супруга Эльвира | adapted: introducing nervously |
-| 9 | Эльвира | А мы с ней уже познакомились! | And she and I have already met! | #251 00:15:43: А мы уже познакомились | adapted: smiling brightly |
-| 10 | Эльвира | Виктория Сергеевна очень помогла мне сегодня. | Viktoria Sergeyevna helped me a lot today. | #252 00:15:45: очень помогла | adapted: praising Vika |
-| 11 | Эльвира | Вадик, ты молодец, что выбрал этот ресторан! | Vadik, good for you for choosing this restaurant! | #253 00:15:48: ты такой молодец | adapted: enthusiastic praise |
-| 12 | Эльвира | Ты у меня самый лучший муж. | You are my absolute best husband. | #254 00:15:53: Ты у меня лучший | adapted: admiring husband |
-| 13 | Вика | Спасибо, я всегда рада помочь вам. | Thank you, I am always glad to help you. | #252 00:15:45: помогла | adapted: polite hospitality |
+| 0 | Вадим | Вика, нам нужно серьёзно поговорить. | Vika, we need to talk seriously. | #244 "надо поговорить" |  |
+| 1 | Эльвира | Я уже всё тебе сказала. | I already told you everything. | #245 "Я тебе уже" |  |
+| 2 | Вадим | Ну хватит, не злись на меня. | Come on, don't be angry with me. | #246 "Ну, хватит" |  |
+| 3 | Вадим | Ты же знаешь мои настоящие чувства. | You know my real feelings. | #246 "как я к тебе отношусь" |  |
+| 4 | Эльвира | Оставь меня в покое прямо сейчас! | Leave me alone right now! | #247 "Загань" |  |
+| 5 | Эльвира | Вадик, милый, вот ты где! | Vadik, darling, there you are! | #248 "Вадик, вот ты где" |  |
+| 6 | Вадим | Мы как раз обсуждаем важный банкет. | We are just discussing an important banquet. | #249 "это обсуждаем" |  |
+| 7 | Вадим | Познакомьтесь, это моя супруга Эльвира. | Get acquainted, this is my wife Elvira. | #250 "это моя супруга Эльвира" |  |
+| 8 | Эльвира | А мы с ней уже познакомились! | And she and I have already met! | #251 "А мы уже познакомились" |  |
+| 9 | Эльвира | Виктория Сергеевна очень помогла мне сегодня. | Viktoria Sergeyevna helped me a lot today. | #252 "очень помогла" |  |
+| 10 | Эльвира | Вадик, ты молодец, что выбрал этот ресторан! | Vadik, good for you for choosing this restaurant! | #253 "ты такой молодец" |  |
+| 11 | Эльвира | Ты у меня самый лучший муж. | You are my absolute best husband. | #254 "Ты у меня лучший" |  |
+| 12 | Эльвира | Спасибо, я всегда рада помочь вам. | Thank you, I am always glad to help you. | #252 "помогла" |  |
 
-## Walk-through narration (English only, no target-language words quoted)
+## Part 5 — Outro & closing
 
-- 'Vika, we need to talk seriously.' Direct address followed by a modal dative construction with an adverb of manner.
-- 'I already told you everything.' Declarative sentence with temporal adverb, generalized neuter pronoun, and past perfective verb.
-- 'Come on, don't be angry with me.' Interjection with impersonal verb of cessation and negated reflexive imperative governing a prepositional pronoun.
-- 'You know my real feelings.' Emphatic particle with present transitive verb governing an accusative plural noun phrase.
-- 'Leave me alone right now!' Idiomatic imperative phrase governing accusative object with a reinforced temporal adverb.
-- 'Vadik, darling, there you are!' Affectionate vocatives coordinated with a presentative particle and spatial adverb.
-- 'We are just discussing an important banquet.' Collaborative plural pronoun with modal phrase and present transitive verb governing an accusative object.
-- 'Get acquainted, this is my wife Elvira.' Polite imperative formula of introduction with demonstrative pronoun and nominative noun phrase.
-- 'And she and I have already met!' Inclusive comitative pronoun construction with past reflexive perfective verb.
-- 'Viktoria Sergeyevna helped me a lot today.' Polite formal name followed by degree adverb, past perfective verb, and dative pronoun.
-- 'Vadik, good for you for choosing this restaurant!' Vocative name with appreciative predicative noun and subordinate causal relative clause.
-- 'You are my absolute best husband.' Possessive ethical dative construction with compound superlative adjective and masculine noun.
-- 'Thank you, I am always glad to help you.' Polite conversational formula of gratitude with short adjective governing an infinitive and dative pronoun.
+> Vika handles the awkward encounter with grace while Vadik struggles to keep his composure in front of his wife. Great work practicing lively conversational Russian! Next time you watch the episode, listen for the Russian expressions for 'banquet' and 'important' — you will catch every word right away. See you next time!
+
+**Эльвира:** Пока!

@@ -1,32 +1,32 @@
-ID = "kukhnya-s02e12-scene-12"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e12-scene-12'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 12
 SCENE = 12
-TITLE = 'План саботажа на кухне  (The Kitchen Sabotage Plan)'
+TITLE = "План саботажа на кухне  (The Kitchen Sabotage Plan)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja'}
-LABELS = {'anya': 'Шеф', 'vika': 'Вика'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.12"
-SOURCE_FILE = "sources/kukhnya/s02/e12.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "vika": "angelina"}
+LABELS = {"chef": "Шеф", "vika": "Вика"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.12'
+SOURCE_FILE = 'sources/kukhnya/s02/e12.ru.srt'
 
 INTRO = 'Watching Aleksandr spend two hours crafting a single plate just to impress Vika, Lyova, Senya, and Fedya decide to teach the cocky newcomer a lesson. They plot to desert their stations right as the evening dinner rush hits to see how the young genius handles a real crisis.'
 
 STORY = [
-    ('anya', 'Неплохо, просто хорошо.', 'Not bad, simply good.', [(193, 'Неплохо, просто хорошо')], ''),
+    ('chef', 'Неплохо, просто хорошо.', 'Not bad, simply good.', [(193, 'Неплохо, просто хорошо')], ''),
     ('vika', 'Одно блюдо за два часа сделал.', 'He spent two hours making a single dish.', [(194, 'Одно блюдо за два часа сделал')], ''),
-    ('anya', 'Попробовал бы он так повыпендриваться.', 'I would like to see him show off like that during a rush.', [(197, 'Попробовал бы он так повыпендриваться')], ''),
+    ('chef', 'Попробовал бы он так повыпендриваться.', 'I would like to see him show off like that during a rush.', [(197, 'Попробовал бы он так повыпендриваться')], ''),
     ('vika', 'Надо устроить запару.', 'We need to stage a kitchen rush.', [(199, 'Надо устроить запару')], ''),
-    ('anya', 'Посмотрим тогда, как он побегает.', 'Then we will see how fast he runs around.', [(200, 'Посмотрим тогда, как он побегает')], ''),
+    ('chef', 'Посмотрим тогда, как он побегает.', 'Then we will see how fast he runs around.', [(200, 'Посмотрим тогда, как он побегает')], ''),
     ('vika', 'Ну что же, я пойду.', 'Well then, I should get going.', [(201, 'Ну что же, я пойду')], ''),
-    ('anya', 'До свидания, Виктор Петрович.', 'Goodbye, Viktor Petrovich.', [(202, 'До свидания, Виктор Петрович')], ''),
+    ('chef', 'До свидания, Виктор Петрович.', 'Goodbye, Viktor Petrovich.', [(202, 'До свидания, Виктор Петрович')], ''),
     ('vika', 'Это хотел вас попросить.', 'There was something I wanted to ask of you.', [(204, 'это хотел вас попросить')], ''),
-    ('anya', 'Понимаете, когда вы приходите.', 'You see, whenever you come to visit.', [(204, 'Понимаете, когда вы приходите')], ''),
+    ('chef', 'Понимаете, когда вы приходите.', 'You see, whenever you come to visit.', [(204, 'Понимаете, когда вы приходите')], ''),
     ('vika', 'Виктору Петровичу становится лучше.', 'Viktor Petrovich starts feeling much better.', [(205, 'Виктору Петровичу становится лучше')], ''),
-    ('anya', 'Что ли?', 'Is that so?', [(207, 'что ли')], ''),
+    ('chef', 'Что ли?', 'Is that so?', [(207, 'что ли')], ''),
     ('vika', 'Ему было бы приятно.', 'It would mean a lot to him.', [(208, 'ему было бы приятно')], ''),
-    ('anya', 'Я могу вечером зайти.', 'I can stop by this evening.', [(209, 'Я могу вечером зайти')], ''),
+    ('chef', 'Я могу вечером зайти.', 'I can stop by this evening.', [(209, 'Я могу вечером зайти')], ''),
 ]
 
 OPENER = "Now let's go back through the conversation line by line."
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the whole conversation once more from start to finish."
-
-OUTRO = 'When you watch Scene 12 of Episode 12, listen out for the exchange around the kitchen sabotage plan — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('anya', 'Я могу вечером зайти.')
+OUTRO = 'That wraps up this scene as fed up with Aleksandr showing off by spending two hours on a single dish for Vika, Lyova, Senya, and Fedya plot to abandon him during the evening rush. See you next time!'
+CLOSING = ("chef", "Увидимся!")

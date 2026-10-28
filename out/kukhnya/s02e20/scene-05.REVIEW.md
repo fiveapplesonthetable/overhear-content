@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Шеф, не надо так. | Chef, please do not be like that. | #78 00:05:26: Шеф, не надо так | verbatim |
+| 1 | Шеф | Шеф, не надо так. | Chef, please do not be like that. | #78 00:05:26: Шеф, не надо так | verbatim |
 | 2 | Сеня | Шел отсюда! | Get the hell out of here! | #79 00:05:33: Шел отсюда | verbatim |
-| 3 | Аня | Уйдет вместе с ним. | Anyone who defends him will leave right along with him. | #80 00:05:39: уйдет вместе с ним | verbatim |
+| 3 | Шеф | Уйдет вместе с ним. | Anyone who defends him will leave right along with him. | #80 00:05:39: уйдет вместе с ним | verbatim |
 | 4 | Сеня | Можешь работать? | Can you let me work? | #81 00:05:43: Можешь работать | verbatim |
-| 5 | Аня | Зачем все это? | Why are you doing all of this? | #82 00:05:52: Зачем все это | verbatim |
+| 5 | Шеф | Зачем все это? | Why are you doing all of this? | #82 00:05:52: Зачем все это | verbatim |
 | 6 | Сеня | Что это? | What is all of this? | #83 00:05:54: Что это | verbatim |
-| 7 | Аня | Для чего все это? | What is the point of all this? | #85 00:05:57: Для чего все это | verbatim |
+| 7 | Шеф | Для чего все это? | What is the point of all this? | #85 00:05:57: Для чего все это | verbatim |
 | 8 | Сеня | Потому что я хочу здесь работать. | Because I want to work right here. | #86 00:05:59: Потому что я хочу здесь работать | verbatim |
-| 9 | Аня | Это Москва, здесь их тысячи. | This is Moscow, there are thousands of restaurants here. | #88 00:06:04: Это Москва, здесь их тысячи | verbatim |
+| 9 | Шеф | Это Москва, здесь их тысячи. | This is Moscow, there are thousands of restaurants here. | #88 00:06:04: Это Москва, здесь их тысячи | verbatim |
 | 10 | Сеня | Я хочу работать именно здесь. | I want to work specifically in this one. | #89 00:06:07: Я хочу работать именно здесь | verbatim |
-| 11 | Аня | Потому что это лучший ресторан в городе. | Because this is the finest restaurant in the city. | #90 00:06:10: потому что это лучший ресторан в городе | verbatim |
+| 11 | Шеф | Потому что это лучший ресторан в городе. | Because this is the finest restaurant in the city. | #90 00:06:10: потому что это лучший ресторан в городе | verbatim |
 | 12 | Сеня | Такого, как наш шеф, надо еще поискать. | A chef like ours is nearly impossible to find. | #92 00:06:14: Такого, как наш шеф, надо еще поискать | verbatim |
-| 13 | Аня | Я хочу хоть чему-то у него научиться. | I want to learn at least something from him. | #94 00:06:20: Я хочу хоть чему-то у него научиться | verbatim |
+| 13 | Шеф | Я хочу хоть чему-то у него научиться. | I want to learn at least something from him. | #94 00:06:20: Я хочу хоть чему-то у него научиться | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

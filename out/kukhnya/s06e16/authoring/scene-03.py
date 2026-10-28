@@ -1,31 +1,31 @@
 ID = 'kukhnya-s06e16-scene-03'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 16
 SCENE = 3
-TITLE = 'Концерт в Кремле  (Concert in the Kremlin)'
+TITLE = "Концерт в Кремле  (Concert in the Kremlin)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'gost': 'anja'}
-LABELS = {'anya': 'Шеф', 'gost': 'Гость'}
-SOURCE_NAME = "Кухня (Kukhnya) S6.16"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "guest": "anja"}
+LABELS = {"guest": "Гость"}
+SOURCE_NAME = 'Кухня (Kukhnya) S6.16'
 SOURCE_FILE = 'sources/kukhnya/s06/e16.ru.srt'
 
 INTRO = "The designer's translator explains that Olaf only dresses big celebrities in Russia so he can build his brand in the new market. Thinking fast after the translator steps away for coffee, Chef Barinov claims that his fiancée Elena is a famous Russian pop star!"
 
 STORY = [
-    ('gost', 'Это бесполезно, он ничего не продаст.', 'It is useless, he will not sell anything.', [(33, 'Бесполезно. Он вам ничего не продаст')], 'adapted'),
-    ('gost', 'Россия для него совсем новый рынок.', 'Russia is a brand-new market for him.', [(34, 'Россия для него новый рынок')], 'adapted'),
-    ('gost', 'В его платьях ходят только звёзды.', 'Only stars wear his dresses.', [(35, 'в его платьях')], 'adapted'),
-    ('gost', 'Будь добр, принеси мне горячий кофе.', 'Be so kind, bring me a hot coffee.', [(36, 'будь добр, принеси мне кофе')], 'adapted'),
-    ('gost', 'Извините, но мои платья не продаются.', 'Excuse me, but my dresses are not for sale.', [(37, 'Извините, но мои платья не продаются')], 'adapted'),
-    ('anya', 'Очень жаль, что платья не продаются.', 'It is a great pity that the dresses are not for sale.', [(38, 'Очень жаль')], 'adapted'),
-    ('anya', 'Моя жена хотела дать большой концерт.', 'My wife wanted to give a big concert.', [(39, 'Моя жена хотела дать концерт')], 'adapted'),
-    ('anya', 'Она мечтала петь именно в вашем платье.', 'She dreamed of singing in your dress specifically.', [(39, 'именно в вашем платье')], 'adapted'),
-    ('gost', 'Подождите, ваша жена большая знаменитость?', 'Wait, is your wife a big celebrity?', [(40, 'Она знаменитость')], 'adapted'),
-    ('anya', 'Да, её зовут певица Елена.', 'Yes, her name is the singer Elena.', [(41, 'Да. Как вы сказали, Елена')], 'adapted'),
-    ('anya', 'Она у нас очень известная певица.', 'She is a very famous singer in our country.', [(44, 'Очень известная')], 'adapted'),
-    ('gost', 'Прошу прощения, никогда о ней не слышал.', 'I beg your pardon, I have never heard of her.', [(46, 'Прошу прощения, никогда о ней не слышал')], 'adapted'),
+    ('guest', 'Это бесполезно, он ничего не продаст.', 'It is useless, he will not sell anything.', [(33, 'Бесполезно. Он вам ничего не продаст')], 'adapted'),
+    ('guest', 'Россия для него совсем новый рынок.', 'Russia is a brand-new market for him.', [(34, 'Россия для него новый рынок')], 'adapted'),
+    ('guest', 'В его платьях ходят только звёзды.', 'Only stars wear his dresses.', [(35, 'в его платьях')], 'adapted'),
+    ('guest', 'Будь добр, принеси мне горячий кофе.', 'Be so kind, bring me a hot coffee.', [(36, 'будь добр, принеси мне кофе')], 'adapted'),
+    ('guest', 'Извините, но мои платья не продаются.', 'Excuse me, but my dresses are not for sale.', [(37, 'Извините, но мои платья не продаются')], 'adapted'),
+    ('guest', 'Очень жаль, что платья не продаются.', 'It is a great pity that the dresses are not for sale.', [(38, 'Очень жаль')], 'adapted'),
+    ('guest', 'Моя жена хотела дать большой концерт.', 'My wife wanted to give a big concert.', [(39, 'Моя жена хотела дать концерт')], 'adapted'),
+    ('guest', 'Она мечтала петь именно в вашем платье.', 'She dreamed of singing in your dress specifically.', [(39, 'именно в вашем платье')], 'adapted'),
+    ('guest', 'Подождите, ваша жена большая знаменитость?', 'Wait, is your wife a big celebrity?', [(40, 'Она знаменитость')], 'adapted'),
+    ('guest', 'Да, её зовут певица Елена.', 'Yes, her name is the singer Elena.', [(41, 'Да. Как вы сказали, Елена')], 'adapted'),
+    ('guest', 'Она у нас очень известная певица.', 'She is a very famous singer in our country.', [(44, 'Очень известная')], 'adapted'),
+    ('guest', 'Прошу прощения, никогда о ней не слышал.', 'I beg your pardon, I have never heard of her.', [(46, 'Прошу прощения, никогда о ней не слышал')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Intrigued by the mention of a Kremlin concert, Olaf calls his translator back to verify if Elena is truly a superstar. See you in the next scene.'
-CLOSING = ('gost', 'Мои платья не продаются.')
+OUTRO = 'Intrigued by the mention of a Kremlin concert, Olaf calls his translator back to verify if Elena is truly a superstar. Until next time!'
+CLOSING = ("guest", "Пока!")

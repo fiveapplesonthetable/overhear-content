@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | А спасибо. | Oh, thank you. | #165 00:12:19: А спасибо | verbatim |
-| 2 | Вика | Держи вегетарианские рулетики. | Here are the vegetarian rolls. | #166 00:12:22: Держи вегетарианские рулетики | verbatim |
+| 1 | Шеф | А спасибо. | Oh, thank you. | #165 00:12:19: А спасибо | verbatim |
+| 2 | Настя | Держи вегетарианские рулетики. | Here are the vegetarian rolls. | #166 00:12:22: Держи вегетарианские рулетики | verbatim |
 | 3 | Настя | Но если увидишь Сеню и Федю. | Just make sure Senya and Fedya do not see you. | #167 00:12:25: Но если увидишь Сеню и Федю | verbatim |
-| 4 | Аня | Их ты чего, это меня надо бояться. | Why be afraid of them, I am the one they should fear. | #168 00:12:27: Их ты чего, это меня надо бояться | verbatim |
-| 5 | Вика | Такие аппетитные рулетики, сама бы их съела. | Such appetizing rolls, I would eat them myself. | #169 00:12:30: Такие аппетитные рулетики, сама бы их съела | verbatim |
+| 4 | Шеф | Их ты чего, это меня надо бояться. | Why be afraid of them, I am the one they should fear. | #168 00:12:27: Их ты чего, это меня надо бояться | verbatim |
+| 5 | Настя | Такие аппетитные рулетики, сама бы их съела. | Such appetizing rolls, I would eat them myself. | #169 00:12:30: Такие аппетитные рулетики, сама бы их съела | verbatim |
 | 6 | Настя | Да чего я не боюсь. | What would I not be afraid of. | #170 00:12:32: Да чего я не боюсь | verbatim |
-| 7 | Аня | Тем более вегетарианец. | Especially since I am a vegetarian. | #171 00:12:35: Тем более вегетарианец | verbatim |
-| 8 | Вика | Очень смешно. | Very funny. | #173 00:12:42: Очень смешно | verbatim |
+| 7 | Шеф | Тем более вегетарианец. | Especially since I am a vegetarian. | #171 00:12:35: Тем более вегетарианец | verbatim |
+| 8 | Настя | Очень смешно. | Very funny. | #173 00:12:42: Очень смешно | verbatim |
 | 9 | Настя | Можно ваши документы? | May I see your documents, please? | #175 00:12:46: можно ваши документы | verbatim |
-| 10 | Аня | Граждане полицейские, у меня нет с собой документов. | Officers, I do not have my documents on me. | #176 00:12:49: Граждане полицейские, у меня нет с собой документов | verbatim |
-| 11 | Вика | Да вы что? | Oh, really? | #178 00:12:56: Да вы что | verbatim |
+| 10 | Шеф | Граждане полицейские, у меня нет с собой документов. | Officers, I do not have my documents on me. | #176 00:12:49: Граждане полицейские, у меня нет с собой документов | verbatim |
+| 11 | Настя | Да вы что? | Oh, really? | #178 00:12:56: Да вы что | verbatim |
 | 12 | Настя | Я шеф-повар ресторана Клод Мане. | I am the head chef of the Claude Monet restaurant. | #179 00:12:59: Я шеф-повар ресторана Клод Мане | verbatim |
-| 13 | Аня | Виктор Баринов. | Viktor Barinov. | #180 00:13:01: Виктор Баринов | verbatim |
+| 13 | Шеф | Виктор Баринов. | Viktor Barinov. | #180 00:13:01: Виктор Баринов | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

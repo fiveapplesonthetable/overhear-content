@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e13-scene-14'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 13
 SCENE = 14
-TITLE = 'Звонок Нагиеву и видеозапись  (Calling Nagiyev and the Video)'
+TITLE = "Звонок Нагиеву и видеозапись  (Calling Nagiyev and the Video)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja', 'kostya': 'angelina'}
-LABELS = {'anya': 'Макс', 'vika': 'Вика', 'kostya': 'Костя'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.13"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "kostya": "anja", "anya": "alisa", "vika": "angelina"}
+LABELS = {"kostya": "Костя", "anya": "Макс", "vika": "Вика"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.13'
 SOURCE_FILE = 'sources/kukhnya/s03/e13.ru.srt'
 
 INTRO = 'On the phone with Vika, Nagiyev orders Kostya to calculate the bar damages, but Kostya bursts into the office with shocking news from the restored security tape. Listen to the full exchange first, and then we will unpack it.'
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'If Max and Katya only quietly took two bottles, who smashed the rest of the bar? In the next scene, everyone gathers around the screen to find out.'
-CLOSING = ('kostya', 'Макс с Катей не виноваты.')
+OUTRO = 'If Max and Katya only quietly took two bottles, who smashed the rest of the bar? See you next time!'
+CLOSING = ("kostya", "До встречи!")

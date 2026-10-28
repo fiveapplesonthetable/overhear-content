@@ -1,43 +1,41 @@
-# kukhnya-s01e14-scene-19: review sheet
+# План Макса  (Max's Plan) — `kukhnya-s01e14-scene-19`
 
-Title: План Макса  (Max's Plan)
-Level: A1 — Duolingo Section 2
-Pair: ru-en
-Source: Кухня (Kukhnya) S1.14
-Cues.
+**Source:** Кухня (Kukhnya) S1.14 · `sources/kukhnya/s01/e14.ru.dual.srt`  
+**Target level:** A1 — Duolingo Section 2
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+## Cast
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+| Role | Voice | Label |
+|---|---|---|
+| `narrator` | sky | — |
+| `ilya` | anja | Илья |
+| `anya` | alisa | Макс |
+
+## Part 1 — Intro
+
+> In a brief moment of chaos, Max realizes he needs to take control of a difficult situation. He tells his colleagues that they will figure it out and urges them to go. Let us listen to their conversation in Russian first.
+
+## Part 2 — Story
+
+| # | Speaker | Line | English | Source cue(s) | Change |
 |---|---|---|---|---|---|
-| 1 | Макс | Ладно, мы разберёмся с этим. | Alright, we will figure this out. | #280 00:17:13: Ладно, разберёмся. | adapted: adapted |
-| 2 | Макс | Всё будет хорошо. | Everything will be fine. | new | new: exact |
-| 3 | Илья | Что нам делать сейчас? | What should we do now? | new | new: exact |
-| 4 | Макс | Поехали. | Let's go. | #281 00:17:15: Поехали. | adapted: adapted |
-| 5 | Саша | Куда мы едем? | Where are we going? | new | new: exact |
-| 6 | Макс | Мы никуда не едем. | We are not going anywhere. | new | new: exact |
-| 7 | Макс | Это значит, что мы начинаем. | It means that we are starting. | new | new: exact |
-| 8 | Илья | Теперь я всё понял. | Now I understand everything. | #282 00:17:19: Теперь | adapted: adapted |
-| 9 | Саша | Тогда давайте работать. | Then let's work. | new | new: exact |
-| 10 | Макс | Да, за работу. | Yes, back to work. | new | new: exact |
-| 11 | Илья | У нас мало времени. | We have little time. | new | new: new |
-| 12 | Саша | Мы должны успеть. | We must be in time. | new | new: new |
-| 13 | Макс | Конечно мы успеем. | Of course we will be in time. | new | new: new |
-| 14 | Илья | Тогда начинаем прямо сейчас. | Then we start right now. | new | new: new |
+| 0 | Макс | Ладно, мы разберёмся с этим. | Alright, we will figure this out. | #280 "Ладно, разберёмся." |  |
+| 1 | Макс | Всё будет хорошо. | Everything will be fine. | *(added)* |  |
+| 2 | Илья | Что нам делать сейчас? | What should we do now? | *(added)* |  |
+| 3 | Макс | Поехали. | Let's go. | #281 "Поехали." |  |
+| 4 | Илья | Куда мы едем? | Where are we going? | *(added)* |  |
+| 5 | Макс | Мы никуда не едем. | We are not going anywhere. | *(added)* |  |
+| 6 | Макс | Это значит, что мы начинаем. | It means that we are starting. | *(added)* |  |
+| 7 | Илья | Теперь я всё понял. | Now I understand everything. | #282 "Теперь" |  |
+| 8 | Илья | Тогда давайте работать. | Then let's work. | *(added)* |  |
+| 9 | Макс | Да, за работу. | Yes, back to work. | *(added)* |  |
+| 10 | Илья | У нас мало времени. | We have little time. | *(added)* |  |
+| 11 | Илья | Мы должны успеть. | We must be in time. | *(added)* |  |
+| 12 | Макс | Конечно мы успеем. | Of course we will be in time. | *(added)* |  |
+| 13 | Илья | Тогда начинаем прямо сейчас. | Then we start right now. | *(added)* |  |
 
-## Walk-through narration (English only, no target-language words quoted)
+## Part 5 — Outro & closing
 
-- 'Alright, we will figure this out.' The reflexive ending on the verb for 'will sort this out' turns the action back onto the subject.
-- 'Everything will be fine.' Max chooses the imperfective verb meaning 'will be' for the ongoing action, followed by 'good'.
-- 'What should we do now?' Ilya chooses the imperfective verb meaning 'do' for the ongoing action, followed by 'now'.
-- 'Let's go.' Max replies with a single verb form meaning 'here we go' — in Russian, the verb ending alone carries the subject and tense.
-- 'Where are we going?' The question opens with the interrogative word for 'where to' and builds toward 'are going'.
-- 'We are not going anywhere.' Here Max anchors the line on the word meaning 'nowhere' and builds the thought around 'are going'.
-- 'It means that we are starting.' The phrasing opens with 'then' before bringing in 'are starting' to make the point clear.
-- 'Now I understand everything.' Ilya expresses this naturally by combining the word for 'now' with 'understood?'.
-- 'Then let's work.' Sasha leads with the direct command form meaning 'let's', pairing it with 'back then' and 'to work'.
-- 'Yes, back to work.' Russian omits the present-tense verb 'to be', connecting 'yes' directly with 'job'.
-- 'We have little time.' Ilya uses the classic Russian possession phrasing — literally 'at us' rather than a verb meaning 'to have', combining 'little' with 'time'.
-- 'We must be in time.' Sasha expresses this naturally by combining the word for 'must' with 'to make it'.
-- 'Of course we will be in time.' Max puts the word for 'of course' together with 'we'll make it' in a crisp, natural spoken turn of phrase.
-- 'Then we start right now.' Here Ilya anchors the line on the word meaning 'back then' and builds the thought around 'are starting' and 'right'.
+> In a brief moment of chaos, Max realizes he needs to take control of a difficult situation. He tells his colleagues that they will figure it out and urges them to go. Next time you watch the episode, listen for the Russian expressions for 'to sort out' and 'to be' — you will catch every word right away. See you next time!
+
+**Илья:** Пока!

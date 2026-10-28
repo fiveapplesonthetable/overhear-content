@@ -1,14 +1,14 @@
 ID = 'kukhnya-s05e20-scene-19'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 20
 SCENE = 19
-TITLE = 'Уроки большой истории и дата свадьбы  (Lessons of a Great Story and a Wedding Date)'
+TITLE = "Уроки большой истории и дата свадьбы  (Lessons of a Great Story and a Wedding Date)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'nagiyev': 'anja', 'eleonora': 'angelina'}
-LABELS = {'anya': 'Макс', 'nagiyev': 'Нагиев', 'eleonora': 'Элеонора'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.20"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "nagiyev": "angelina", "anya": "alisa"}
+LABELS = {"nagiyev": "Нагиев", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.20'
 SOURCE_FILE = 'sources/kukhnya/s05/e20.ru.srt'
 
 INTRO = 'Max reflects on how their journey taught everyone to be brave and pursue their goals without fear. Meanwhile, in the hotel suite, Nagiyev and Eleonora set the date for their upcoming wedding.'
@@ -21,10 +21,10 @@ STORY = [
     ('anya', 'И никогда не бояться вызовов жизни.', 'And never to fear the challenges of life.', [(294, 'и не бояться вызовов, которые готовит нам жизнь')], 'adapted'),
     ('anya', 'Она помогала нам добиваться поставленных целей.', 'It helped us achieve the goals we set.', [(295, 'Помогала нам добиваться поставленных целей')], 'adapted'),
     ('nagiyev', 'А нашу свадьбу сыграем месяца через два.', 'And we will celebrate our wedding in about two months.', [(296, 'А свадьбу сыграем месяца через два')], 'adapted'),
-    ('eleonora', 'Почему через два, разве это не поздновато?', 'Why in two months, is that not a bit late?', [(297, 'Почему через два? Не поздновато')], 'adapted'),
+    ('nagiyev', 'Почему через два, разве это не поздновато?', 'Why in two months, is that not a bit late?', [(297, 'Почему через два? Не поздновато')], 'adapted'),
     ('nagiyev', 'А куда нам с тобой теперь спешить?', 'And where do you and I have to hurry now?', [(298, 'А куда нам спешить')], 'adapted'),
     ('nagiyev', 'Ведь у нас с тобой вся жизнь впереди.', 'After all, you and I have our whole lives ahead of us.', [(299, 'У нас же вся жизнь впереди')], 'adapted'),
-    ('eleonora', 'Хорошо, тогда устроим банкет в нашем отеле.', 'Alright, then we will hold the banquet in our hotel.', [(296, 'свадьбу сыграем')], 'adapted'),
+    ('nagiyev', 'Хорошо, тогда устроим банкет в нашем отеле.', 'Alright, then we will hold the banquet in our hotel.', [(296, 'свадьбу сыграем')], 'adapted'),
     ('nagiyev', 'Отлично, пригласим всех наших старых друзей.', 'Wonderful, we will invite all our old friends.', [(299, 'вся жизнь впереди')], 'adapted'),
 ]
 
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Eleonora summons Chef Barinov and Mikhail Dzhekovich to her office to announce the wedding banquet. See you in the next scene.'
-CLOSING = ('nagiyev', 'У нас вся жизнь впереди.')
+OUTRO = 'Eleonora summons Chef Barinov and Mikhail Dzhekovich to her office to announce the wedding banquet. Until next time!'
+CLOSING = ("nagiyev", "Всего хорошего!")

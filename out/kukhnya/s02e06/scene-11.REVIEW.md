@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Нам поговорить. | We need to talk. | #177 00:11:52: Нам поговорить | verbatim |
-| 2 | Макс | Что, глухих стал набирать, а? | Have you started hiring deaf people now, or what? | #178 00:11:56: Что, глухих стал набирать, а | verbatim |
-| 3 | Аня | Может быть? | Maybe we could? | #179 00:11:57: может быть | verbatim |
-| 4 | Макс | Давай переговорим в зале за столиком? | Let us talk it over at a table in the dining room? | #179 00:11:57: давай переговорим в зале за столиком | verbatim |
-| 5 | Аня | Я сам решаю, где мне переговаривать, ясно? | I decide for myself where I talk things over, understood? | #180 00:12:01: Я сам решаю, где мне переговаривать, ясно | verbatim |
-| 6 | Макс | Встал и вышел. | Stand up and walk out. | #181 00:12:05: Встал и вышел | verbatim |
-| 7 | Аня | Он не встанет, в смысле не выйдет. | He will not stand up, I mean he will not walk out. | #181 00:12:05: Он не встанет, в смысле не выйдет | verbatim |
-| 8 | Макс | А, в этом смысле? | Oh, you mean in that sense? | #182 00:12:08: А, в этом смысле | verbatim |
-| 9 | Аня | Грибы жарили, да? | Were you guys frying mushrooms in there, or what? | #185 00:12:15: Грибы жарили, да | verbatim |
-| 10 | Макс | Завтра переговорим. | We will talk tomorrow. | #187 00:12:20: Завтра переговорим | verbatim |
-| 11 | Аня | Что такое субординация. | What subordination means. | #188 00:12:21: что такое субординация | verbatim |
-| 12 | Макс | Месяц работаешь бесплатно. | You are working for a month without pay. | #189 00:12:26: Месяц работаешь бесплатно | verbatim |
-| 13 | Аня | Я все сказал. | I have said everything I had to say. | #191 00:12:32: Я все сказал | verbatim |
+| 1 | Нагиев | Нам поговорить. | We need to talk. | #177 00:11:52: Нам поговорить | verbatim |
+| 2 | Аня | Что, глухих стал набирать, а? | Have you started hiring deaf people now, or what? | #178 00:11:56: Что, глухих стал набирать, а | verbatim |
+| 3 | Нагиев | Может быть? | Maybe we could? | #179 00:11:57: может быть | verbatim |
+| 4 | Аня | Давай переговорим в зале за столиком? | Let us talk it over at a table in the dining room? | #179 00:11:57: давай переговорим в зале за столиком | verbatim |
+| 5 | Нагиев | Я сам решаю, где мне переговаривать, ясно? | I decide for myself where I talk things over, understood? | #180 00:12:01: Я сам решаю, где мне переговаривать, ясно | verbatim |
+| 6 | Аня | Встал и вышел. | Stand up and walk out. | #181 00:12:05: Встал и вышел | verbatim |
+| 7 | Нагиев | Он не встанет, в смысле не выйдет. | He will not stand up, I mean he will not walk out. | #181 00:12:05: Он не встанет, в смысле не выйдет | verbatim |
+| 8 | Аня | А, в этом смысле? | Oh, you mean in that sense? | #182 00:12:08: А, в этом смысле | verbatim |
+| 9 | Нагиев | Грибы жарили, да? | Were you guys frying mushrooms in there, or what? | #185 00:12:15: Грибы жарили, да | verbatim |
+| 10 | Аня | Завтра переговорим. | We will talk tomorrow. | #187 00:12:20: Завтра переговорим | verbatim |
+| 11 | Нагиев | Что такое субординация. | What subordination means. | #188 00:12:21: что такое субординация | verbatim |
+| 12 | Аня | Месяц работаешь бесплатно. | You are working for a month without pay. | #189 00:12:26: Месяц работаешь бесплатно | verbatim |
+| 13 | Нагиев | Я все сказал. | I have said everything I had to say. | #191 00:12:32: Я все сказал | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

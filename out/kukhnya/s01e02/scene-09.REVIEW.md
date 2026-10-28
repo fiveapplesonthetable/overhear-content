@@ -1,39 +1,40 @@
-# kukhnya-s01e02-scene-09: review sheet
+# Хорошо или плохо?  (Good or Bad?) — `kukhnya-s01e02-scene-09`
 
-Title: Хорошо или плохо?  (Good or Bad?)
-Level: A1 — Duolingo Section 2
-Pair: ru-en
-Source: Кухня (Kukhnya) S1.02
+**Source:** Кухня (Kukhnya) S1.02 · `sources/kukhnya/s01/e02.ru.dual.srt`  
+**Target level:** A1 — Duolingo Section 2
 
+## Cast
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+| Role | Voice | Label |
+|---|---|---|
+| `narrator` | sky | — |
+| `anya` | alisa | Макс |
+| `fedya` | anja | Федя |
+| `senya` | angelina | Сеня |
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+## Part 1 — Intro
+
+> Huddled behind the kitchen window, Senya, Fedya, and Max anxiously observe the guest tasting their unauthorized fricassee. Unsure how to interpret her stoic expression, they hold their breath in anticipation. Listen to their conversation in Russian first.
+
+## Part 2 — Story
+
+| # | Speaker | Line | English | Source cue(s) | Change |
 |---|---|---|---|---|---|
-| 1 | Сеня | Смотрите, официант уже подал наше блюдо. | Look, the waiter has already served our dish. | new | new: watching the dining hall |
-| 2 | Федя | Она взяла вилку и пробует соус. | She picked up the fork and is tasting the sauce. | new | new: tracking her every move |
-| 3 | Макс | Она улыбается или хмурится? | Is she smiling or frowning? | new | new: trying to read her face |
-| 4 | Сеня | Она очень внимательно жуёт первый кусочек. | She is chewing the first piece very attentively. | new | new: reporting on her reaction |
-| 5 | Федя | И почему-то совсем молчит. | And for some reason she is completely silent. | new | new: feeling the tension rise |
-| 6 | Макс | А это хорошо или плохо? | Is that good or bad? | #130 00:09:57: А это хорошо или плохо | adapted: asking the key question |
-| 7 | Сеня | Я сам ничего пока не понимаю. | I do not understand anything yet myself. | new | new: confessing uncertainty |
-| 8 | Федя | Главное, чтобы она не позвала директора. | The main thing is that she does not call the director. | new | new: fearing an escalation |
-| 9 | Макс | Смотрите, она сделала ещё один глоток. | Look, she took another bite. | new | new: spotting further progress |
-| 10 | Сеня | Кажется, наше фрикасе ей понравилось! | It seems she liked our fricassee! | new | new: feeling sudden hope |
-| 11 | Федя | Не радуйся раньше времени. | Do not celebrate too early. | new | new: urging caution |
-| 12 | Макс | Ой, она зовёт официантку к столу! | Oh, she is calling the waitress to the table! | new | new: seeing a new complication |
+| 0 | Сеня | Смотрите, официант уже подал наше блюдо. | Look, the waiter has already served our dish. | *(added)* |  |
+| 1 | Федя | Она взяла вилку и пробует соус. | She picked up the fork and is tasting the sauce. | *(added)* |  |
+| 2 | Макс | Она улыбается или хмурится? | Is she smiling or frowning? | *(added)* |  |
+| 3 | Сеня | Она очень внимательно жуёт первый кусочек. | She is chewing the first piece very attentively. | *(added)* |  |
+| 4 | Федя | И почему-то совсем молчит. | And for some reason she is completely silent. | *(added)* |  |
+| 5 | Макс | А это хорошо или плохо? | Is that good or bad? | #130 "А это хорошо или плохо" |  |
+| 6 | Сеня | Я сам ничего пока не понимаю. | I do not understand anything yet myself. | *(added)* |  |
+| 7 | Федя | Главное, чтобы она не позвала директора. | The main thing is that she does not call the director. | *(added)* |  |
+| 8 | Макс | Смотрите, она сделала ещё один глоток. | Look, she took another bite. | *(added)* |  |
+| 9 | Сеня | Кажется, наше фрикасе ей понравилось! | It seems she liked our fricassee! | *(added)* |  |
+| 10 | Федя | Не радуйся раньше времени. | Do not celebrate too early. | *(added)* |  |
+| 11 | Макс | Ой, она зовёт официантку к столу! | Oh, she is calling the waitress to the table! | *(added)* |  |
 
-## Walk-through narration (English only, no target-language words quoted)
+## Part 5 — Outro & closing
 
-- 'Look, the waiter has already served our dish.' Senya watches the dining room through the kitchen window.
-- 'She picked up the fork and is tasting the sauce.' Fedya monitors every movement of the food critic.
-- 'Is she smiling or frowning?' Max tries to read the woman's subtle facial expression from afar.
-- 'She is chewing the first piece very attentively.' Senya expresses this naturally by combining the word for 'very' with 'attentively' and 'is chewing'.
-- 'And for some reason she is completely silent.' Fedya grows increasingly nervous in the kitchen.
-- 'Is that good or bad?' Max asks the agonizing question as they hold their breath.
-- 'I do not understand anything yet myself.' Senya confesses his total inability to predict her verdict.
-- 'The main thing is that she does not call the director.' Fedya expresses this naturally by combining the word for 'the main thing' with 'calls' and 'director'.
-- 'Look, she took another bite.' Max reports positive progress at the VIP table.
-- 'It seems she liked our fricassee!' Senya feels a sudden surge of kitchen optimism.
-- 'Do not celebrate too early.' Fedya leads with the direct command form meaning 'rejoice', pairing it with 'earlier' and 'of time'.
-- 'Oh, she is calling the waitress to the table!' Max spots the ominous gesture that sets up the next scene.
+> As the critic calls the waitress over, suspense reaches a breaking point in the Claude Monet kitchen. See you next time!
+
+**Макс:** Пока!

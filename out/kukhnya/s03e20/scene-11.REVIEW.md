@@ -19,7 +19,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 7 | Инспектор | Не вижу логики, почему я должен уволиться из-за серёжки? | I see no logic, why should I resign because of an earring? | #198 00:13:33: Не вижу логики. Почему я должен уволиться из-за этой сережки | adapted: adapted |
 | 8 | Шеф | А ты знаешь, где именно я её вчера нашёл? | And do you know where exactly I found it yesterday? | #199 00:13:37: А ты знаешь, где я ее нашел | adapted: adapted |
 | 9 | Шеф | Я нашёл её на полу, когда уронил пробку у тебя! | I found it on the floor when I dropped the cork at your place! | #200 00:13:40: Сергей, нам надо прояснить ситуацию<br>#202 00:13:48: Виноват | adapted: adapted |
-| 10 | Инспектор | То, что вы обнаружили её в моём номере, ни о чём не говорит. | The fact that you found it in my hotel room proves nothing. | #203 00:13:55: То, что вы обнаружили ее в моем номере, еще ни о чем не говорит | adapted: adapted |
+| 10 | Инспектор | Вы обнаружили её в моём номере, это ничего не значит. | You found it in my room, and that means nothing. | #203 00:13:55: вы обнаружили ее в моем номере | adapted: adapted |
 | 11 | Шеф | А я знал, что ты так скажешь, поэтому пришёл снова! | And I knew you would say that, which is why I came a second time! | #204 00:14:00: А я знал, что ты так скажешь, поэтому и пришел к тебе | adapted: adapted |
 | 12 | Шеф | Именно поэтому я тогда и спросил, где у вас туалет! | That is precisely why I asked where your restroom was back then! | #205 00:14:05: Где у вас туалет | adapted: adapted |
 
@@ -34,6 +34,6 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I see no logic, why should I resign because of an earring?' Spoken Russian keeps this brisk, leaning on 'not' and finishing on 'earring'.
 - 'And do you know where exactly I found it yesterday?' Chef Barinov raises the pitch on 'to find' to turn the phrase into a direct spoken question.
 - 'I found it on the floor when I dropped the cork at your place!' Chef Barinov anchors the line on 'I', while 'you' completes the thought.
-- 'The fact that you found it in my hotel room proves nothing.' The negative particle sits right before the verb meaning 'discovered' to negate the statement.
+- 'You found it in my room, and that means nothing.' the inspector pairs 'to discover, detect, find' with 'then, so' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
 - 'And I knew you would say that, which is why I came a second time!' Spoken Russian keeps this brisk, leaning on 'and' and finishing on 'again'.
-- 'That is precisely why I asked where your restroom was back then!' Russian expresses 'having' with the preposition 'by' plus the genitive pronoun and 'restroom'.
+- 'That is precisely why I asked where your restroom was back then!' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.

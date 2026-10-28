@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Было круто. | That was amazing. | #295 00:21:19: Было круто | verbatim |
-| 2 | Макс | Надо нам почаще разводиться. | We should get divorced more often. | #297 00:21:25: Надо нам почаще разводиться | verbatim |
-| 3 | Аня | Ты зачем пришел-то? | Why did you come here anyway? | #298 00:21:27: Ты зачем пришел-то | verbatim |
-| 4 | Макс | Ты знаешь. | You know why. | #301 00:21:35: Ты знаешь | verbatim |
-| 5 | Аня | Это да. | That is true. | #302 00:21:38: Это да | verbatim |
-| 6 | Макс | Ой, елки. | Oh, shoot. | #303 00:21:41: Ой, елки | verbatim |
-| 7 | Аня | Фу, елки. | Phew, thank goodness. | #304 00:21:43: Фу, елки | verbatim |
-| 8 | Макс | Тут такое дело. | Here is the thing. | #306 00:21:51: тут такое дело | verbatim |
-| 9 | Аня | Не могла бы ты мне дать свой? | Could you possibly give me yours? | #307 00:21:54: Не могла бы ты мне дать свой | verbatim |
-| 10 | Макс | Конечно, даже милая. | Of course, my dear. | #307 00:21:54: Конечно, даже милая | verbatim |
-| 11 | Аня | Спасибо большое. | Thank you very much. | #308 00:21:57: Спасибо большое | verbatim |
-| 12 | Макс | Да, кто стерва? | Yes, who is a bitch? | #309 00:22:06: Да, кто стерва | verbatim |
-| 13 | Аня | Чего ж я тебе раньше-то не написала? | Why did I not text you earlier? | #310 00:22:10: Чего ж я тебе раньше-то не написала | verbatim |
+| 1 | Кристина | Было круто. | That was amazing. | #295 00:21:19: Было круто | verbatim |
+| 2 | Аня | Надо нам почаще разводиться. | We should get divorced more often. | #297 00:21:25: Надо нам почаще разводиться | verbatim |
+| 3 | Кристина | Ты зачем пришел-то? | Why did you come here anyway? | #298 00:21:27: Ты зачем пришел-то | verbatim |
+| 4 | Аня | Ты знаешь. | You know why. | #301 00:21:35: Ты знаешь | verbatim |
+| 5 | Кристина | Это да. | That is true. | #302 00:21:38: Это да | verbatim |
+| 6 | Аня | Ой, елки. | Oh, shoot. | #303 00:21:41: Ой, елки | verbatim |
+| 7 | Кристина | Фу, елки. | Phew, thank goodness. | #304 00:21:43: Фу, елки | verbatim |
+| 8 | Аня | Тут такое дело. | Here is the thing. | #306 00:21:51: тут такое дело | verbatim |
+| 9 | Кристина | Не могла бы ты мне дать свой? | Could you possibly give me yours? | #307 00:21:54: Не могла бы ты мне дать свой | verbatim |
+| 10 | Аня | Конечно, даже милая. | Of course, my dear. | #307 00:21:54: Конечно, даже милая | verbatim |
+| 11 | Кристина | Спасибо большое. | Thank you very much. | #308 00:21:57: Спасибо большое | verbatim |
+| 12 | Аня | Да, кто стерва? | Yes, who is a bitch? | #309 00:22:06: Да, кто стерва | verbatim |
+| 13 | Кристина | Чего ж я тебе раньше-то не написала? | Why did I not text you earlier? | #310 00:22:10: Чего ж я тебе раньше-то не написала | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

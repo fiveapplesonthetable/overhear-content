@@ -10,11 +10,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Прости меня за вчерашнее. | Forgive me for what happened yesterday. | #223 00:18:37: Прости меня за вчерашнее. | verbatim |
-| 2 | Аня | Да и за всё остальное прости тоже. | And forgive me for everything else too. | #224 00:18:39: Да и за все остальное прости тоже. | verbatim |
+| 1 | Шеф | Прости меня за вчерашнее. | Forgive me for what happened yesterday. | #223 00:18:37: Прости меня за вчерашнее. | verbatim |
+| 2 | Шеф | Да и за всё остальное прости тоже. | And forgive me for everything else too. | #224 00:18:39: Да и за все остальное прости тоже. | verbatim |
 | 3 | Нагиев | О, батюшки, какая речь. Нравится тебе речь, да? | Oh my goodness, what a speech. Do you like that speech, huh? | #225 00:18:40: О, батюшки, какая речь. Нравится тебе речь, да? | verbatim |
-| 4 | Лёва | Как-то он странно выглядит. Трезвый. | He looks kind of strange today. Sober. | #228 00:18:48: странно выглядит. | verbatim |
-| 5 | Аня | Я серьёзно. Возьми меня обратно, Дима. | I am serious. Take me back, Dima. | #230 00:18:57: Я серьезно. Возьми меня обратно, Дима. | verbatim |
+| 4 | Нагиев | Как-то он странно выглядит. Трезвый. | He looks kind of strange today. Sober. | #228 00:18:48: странно выглядит. | verbatim |
+| 5 | Шеф | Я серьёзно. Возьми меня обратно, Дима. | I am serious. Take me back, Dima. | #230 00:18:57: Я серьезно. Возьми меня обратно, Дима. | verbatim |
 | 6 | Нагиев | В этом и проблема. Я пять лет для тебя Дима. | That is the problem. For five years I have been Dima to you. | #231 00:19:00: В этом и проблема. Я пять лет для тебя, Дима. | verbatim |
 | 7 | Нагиев | А ведь я Дмитрий Владимирович. | When in fact I am Dmitry Vladimirovich. | #232 00:19:03: А ведь я Дмитрий Владимирович. | verbatim |
 | 8 | Нагиев | Ведь я твой начальник был. | After all, I was your boss. | #233 00:19:06: Ведь я твой начальник был. | verbatim |
@@ -26,14 +26,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Forgive me for what happened yesterday.' Chef Viktor uses the first-person pronoun in the case required by the Russian verb or preposition.
-- 'And forgive me for everything else too.' Chef Viktor keeps the sentence short and direct, relying on Russian case endings to show how the words connect.
-- 'Oh my goodness, what a speech. Do you like that speech, huh?' In spoken Russian, Dmitry omits unnecessary linking verbs so the key idea lands immediately.
-- 'He looks kind of strange today. Sober.' In spoken Russian, Lyova omits unnecessary linking verbs so the key idea lands immediately.
+- 'And forgive me for everything else too.' Notice how Russian puts 'remaining, other, the rest' and 'also, too' together in a short, direct phrase where word endings show how the ideas connect.
+- 'Oh my goodness, what a speech. Do you like that speech, huh?' Russian expresses feelings and needs by saying 'to me it is needed' or 'to me it seems', putting the person in the 'to me' form.
+- 'He looks kind of strange today. Sober.' In everyday Russian, 'somehow, somewhat' flows straight into 'sober' without extra linking words.
 - 'I am serious. Take me back, Dima.' Chef Viktor uses the first-person pronoun in the case required by the Russian verb or preposition.
-- 'That is the problem. For five years I have been Dima to you.' Dmitry keeps the sentence short and direct, relying on Russian case endings to show how the words connect.
-- 'When in fact I am Dmitry Vladimirovich.' In spoken Russian, Dmitry omits unnecessary linking verbs so the key idea lands immediately.
-- 'After all, I was your boss.' Dmitry uses natural conversational word order here to highlight the most important part of the reply.
-- 'And what did you think, pal?' Dmitry uses natural conversational word order here to highlight the most important part of the reply.
+- 'That is the problem. For five years I have been Dima to you.' Notice how Russian puts 'problem' and 'years' together in a short, direct phrase where word endings show how the ideas connect.
+- 'When in fact I am Dmitry Vladimirovich.' Nagiyev keeps this everyday Russian response short and direct, without needing English helper words like 'am', 'is', or 'are'.
+- 'After all, I was your boss.' Spoken Russian keeps this brief and expressive, built right around 'boss' without extra helper words.
+- 'And what did you think, pal?' In spoken Russian, the words stay in their normal statement order and Nagiyev's rising voice at the end turns the line into a question.
 - 'That I am your buddy, right? Your pal.' Dmitry uses the first-person pronoun in the case required by the Russian verb or preposition.
 - 'That is why you took advantage of me.' The past-tense verb ending marks the grammatical gender and number of the subject directly.
-- 'Go on, march home.' Dmitry keeps the sentence short and direct, relying on Russian case endings to show how the words connect.
+- 'Go on, march home.' Starting with the everyday word for 'let us' is how Russian speakers warmly invite someone to do something together.

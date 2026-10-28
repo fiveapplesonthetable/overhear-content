@@ -33,9 +33,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Six months ago.' Sasha anchors the line on 'half a year', while 'back' completes the thought. Senya answers right away.
 - 'Oh, no, no, thank you.' In Russian, the idea of 'and' flows naturally into 'thank you' without extra filler words.
 - 'In a week I will have a talk with Sasha.' Here the Russian phrasing highlights 'for a week' before landing on 'Sasha'.
-- 'Ah, speak of the devil.' The grammar packs 'and' and 'he' into a tight, idiomatic kitchen exchange. Senya answers right away.
+- 'Ah, speak of the devil.' Sasha keeps this everyday Russian response short and direct, without needing English helper words like 'am', 'is', or 'are'.
 - 'Dmitry Vladimirovich is busy right now.' Spoken Russian keeps this brisk, leaning on 'Dmitry' and finishing on 'busy'.
 - 'Please wait for him right here.' Max brings out the contrast between 'wait' and 'him' in a few short words.
-- 'And what happens now?' Spoken Russian keeps this brisk, leaning on 'both' and finishing on 'now'. Senya answers right away.
+- 'And what happens now?' Spoken Russian keeps this brief and expressive, built right around 'now' without extra helper words.
 - 'Wait, are you jealous?' Notice how Russian expresses 'you' and 'are jealous' with crisp inflection rather than helper words.
 - 'I am with you now.' Max anchors the line on 'I', while 'you' completes the thought.

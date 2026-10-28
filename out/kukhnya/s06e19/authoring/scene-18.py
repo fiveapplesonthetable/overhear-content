@@ -1,31 +1,31 @@
 ID = 'kukhnya-s06e19-scene-18'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 19
 SCENE = 18
-TITLE = 'Правда о Гуле  (The Truth About Gulya)'
+TITLE = "Правда о Гуле  (The Truth About Gulya)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'lyova': 'anja'}
-LABELS = {'anya': 'Айнура', 'lyova': 'Лёва'}
-SOURCE_NAME = "Кухня (Kukhnya) S6.19"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "ainura": "angelina"}
+LABELS = {"ainura": "Айнура"}
+SOURCE_NAME = 'Кухня (Kukhnya) S6.19'
 SOURCE_FILE = 'sources/kukhnya/s06/e19.ru.srt'
 
 INTRO = "At the bar during the wedding celebration, Ainura cannot hold back the secret any longer: Gulya has no fiancé in Bishkek! Her migration card expired, banning her from returning to Moscow for five years, and she lied so she wouldn't ruin Lyova's life."
 
 STORY = [
-    ('anya', 'Гуля меня за это убьёт.', 'Gulya will kill me for this.', [(284, 'меня, наверное, убьет')], 'adapted'),
-    ('anya', 'Но я не могу молчать.', 'But I cannot keep silent.', [(285, 'Но я не могу это держать')], 'adapted'),
-    ('anya', 'В Бишкеке у неё никого нет.', 'She has nobody in Bishkek.', [(286, 'никого нет')], 'adapted'),
-    ('anya', 'Она только тебя одного любит.', 'She loves only you alone.', [(287, 'Она только тебя любит')], 'adapted'),
-    ('lyova', 'Почему же она мне соврала?', 'Then why did she lie to me?', [(288, 'Что же она')], 'adapted'),
-    ('anya', 'У неё карта вчера просрочилась.', 'Her migration card expired yesterday.', [(289, 'карта')], 'adapted'),
-    ('anya', 'Теперь ей срочно улететь надо.', 'Now she has to fly away urgently.', [(289, 'а ей улететь надо')], 'adapted'),
-    ('anya', 'В Москву приедет через пять лет.', 'She will come to Moscow in five years.', [(290, 'Вот теперь в Москву только через пять лет она приедет')], 'adapted'),
-    ('anya', 'У тебя здесь работа и мама.', 'You have your work and mother here.', [(293, 'А у тебя же здесь работа, жизнь, мама')], 'adapted'),
-    ('anya', 'Она решила тебе не мешать.', 'She decided not to stand in your way.', [(294, 'И она решила тебе не мешать')], 'adapted'),
-    ('anya', 'Через два часа она улетит.', 'In two hours she will fly away.', [(294, 'через два часа улететь')], 'adapted'),
-    ('anya', 'Лёва, быстро беги за ней!', 'Lyova, run after her quickly!', [(297, 'Ну, беги за ней. Беги')], 'adapted'),
+    ('ainura', 'Гуля меня за это убьёт.', 'Gulya will kill me for this.', [(284, 'меня, наверное, убьет')], 'adapted'),
+    ('ainura', 'Но я не могу молчать.', 'But I cannot keep silent.', [(285, 'Но я не могу это держать')], 'adapted'),
+    ('ainura', 'В Бишкеке у неё никого нет.', 'She has nobody in Bishkek.', [(286, 'никого нет')], 'adapted'),
+    ('ainura', 'Она только тебя одного любит.', 'She loves only you alone.', [(287, 'Она только тебя любит')], 'adapted'),
+    ('ainura', 'Почему же она мне соврала?', 'Then why did she lie to me?', [(288, 'Что же она')], 'adapted'),
+    ('ainura', 'У неё карта вчера просрочилась.', 'Her migration card expired yesterday.', [(289, 'карта')], 'adapted'),
+    ('ainura', 'Теперь ей срочно улететь надо.', 'Now she has to fly away urgently.', [(289, 'а ей улететь надо')], 'adapted'),
+    ('ainura', 'В Москву приедет через пять лет.', 'She will come to Moscow in five years.', [(290, 'Вот теперь в Москву только через пять лет она приедет')], 'adapted'),
+    ('ainura', 'У тебя здесь работа и мама.', 'You have your work and mother here.', [(293, 'А у тебя же здесь работа, жизнь, мама')], 'adapted'),
+    ('ainura', 'Она решила тебе не мешать.', 'She decided not to stand in your way.', [(294, 'И она решила тебе не мешать')], 'adapted'),
+    ('ainura', 'Через два часа она улетит.', 'In two hours she will fly away.', [(294, 'через два часа улететь')], 'adapted'),
+    ('ainura', 'Лёва, быстро беги за ней!', 'Lyova, run after her quickly!', [(297, 'Ну, беги за ней. Беги')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -36,7 +36,7 @@ WALK = [
     (2, None, "'She has nobody in Bishkek.' In Russian, the idea of 'Bishkek' flows naturally into 'no' without extra filler words."),
     (3, None, "'She loves only you alone.' Spoken Russian keeps this brisk, leaning on 'she' and finishing on 'loves'. Lyova answers right away."),
     (4, None, "'Then why did she lie to me?' Lyova brings out the contrast between 'why' and 'but' in a few short words."),
-    (5, None, "'Her migration card expired yesterday.' Notice the reflexive suffix on the verb meaning 'expired', turning the action back on the subject."),
+    (5, None, "'Her migration card expired yesterday.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'."),
     (6, None, "'Now she has to fly away urgently.' In Russian, the idea of 'now' flows naturally into 'need' without extra filler words."),
     (7, None, "'She will come to Moscow in five years.' Spoken Russian keeps this brisk, leaning on 'Moscow' and finishing on 'years'."),
     (8, None, "'You have your work and mother here.' Ainura brings out the contrast between 'at' and 'you' in a few short words."),
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Just as Lyova stands up to race to the airport after Gulya, Chef Barinov taps his glass to make a major announcement about Lyova's career. See you in the next scene."
-CLOSING = ('lyova', 'Мне надо срочно в аэропорт!')
+OUTRO = "Just as Lyova stands up to race to the airport after Gulya, Chef Barinov taps his glass to make a major announcement about Lyova's career. See you next time!"
+CLOSING = ("ainura", "До свидания!")

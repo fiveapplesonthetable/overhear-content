@@ -1,30 +1,30 @@
 ID = 'kukhnya-s06e17-scene-19'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 17
 SCENE = 19
-TITLE = 'Что случилось на самом деле  (What Really Happened)'
+TITLE = "Что случилось на самом деле  (What Really Happened)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'inspector': 'anja', 'fedya': 'angelina'}
-LABELS = {'anya': 'Шеф', 'inspector': 'Инспектор', 'fedya': 'Федя'}
-SOURCE_NAME = "Кухня (Kukhnya) S6.17"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "inspector": "angelina", "chef": "anja"}
+LABELS = {"inspector": "Инспектор", "chef": "Шеф"}
+SOURCE_NAME = 'Кухня (Kukhnya) S6.17'
 SOURCE_FILE = 'sources/kukhnya/s06/e17.ru.srt'
 
 INTRO = 'Flashing back to reality, we see that when Alexey Smolin introduced himself as the Michelin inspector, Chef Barinov suffered a sudden stroke and collapsed on the spot before any tasting menu or coconut bet ever took place.'
 
 STORY = [
-    ('anya', 'Ну не смотри на меня так.', 'Well, do not look at me like that.', [(309, 'Ну не смотри на меня так')], 'adapted'),
-    ('anya', 'Тебя нельзя так сильно перекормить.', 'You must not be overfed so much.', [(310, 'Если тебя перекормить')], 'adapted'),
-    ('fedya', 'К вам пришёл инспектор Мишлен.', 'A Michelin inspector has come to see you.', [(311, 'к вам инспектор Мишлен')], 'adapted'),
+    ('chef', 'Ну не смотри на меня так.', 'Well, do not look at me like that.', [(309, 'Ну не смотри на меня так')], 'adapted'),
+    ('chef', 'Тебя нельзя так сильно перекормить.', 'You must not be overfed so much.', [(310, 'Если тебя перекормить')], 'adapted'),
+    ('chef', 'К вам пришёл инспектор Мишлен.', 'A Michelin inspector has come to see you.', [(311, 'к вам инспектор Мишлен')], 'adapted'),
     ('inspector', 'Здравствуйте, уважаемый Виктор Петрович.', 'Hello, respected Viktor Petrovich.', [(312, 'Здравствуйте, Виктор Петрович')], 'adapted'),
     ('inspector', 'Меня зовут Алексей Смолин.', 'My name is Alexey Smolin.', [(312, 'Меня зовут Алексей Смолин')], 'adapted'),
     ('inspector', 'Я сегодня инспектирую ваш ресторан.', 'I am inspecting your restaurant today.', [(313, 'Я инспектирую ваш ресторан')], 'adapted'),
     ('inspector', 'С вами сейчас всё в порядке?', 'Is everything alright with you right now?', [(314, 'С вами всё в порядке')], 'adapted'),
-    ('anya', 'Да, просто это так неожиданно.', 'Yes, it is just so unexpected.', [(315, 'Просто так... Неожиданно')], 'adapted'),
+    ('chef', 'Да, просто это так неожиданно.', 'Yes, it is just so unexpected.', [(315, 'Просто так... Неожиданно')], 'adapted'),
     ('inspector', 'Здравствуйте, мне очень приятно.', 'Hello, it is very nice to meet you.', [(316, 'Здравствуйте'), (317, 'Очень приятно')], 'adapted'),
     ('inspector', 'Вызовите сюда скорую помощь!', 'Call an ambulance here!', [(318, 'Вызовите скорую')], 'adapted'),
-    ('fedya', 'Шеф, я приведу вас в чувство!', 'Chef, I will bring you to your senses!', [(319, 'приведу в чувство')], 'adapted'),
+    ('chef', 'Шеф, я приведу вас в чувство!', 'Chef, I will bring you to your senses!', [(319, 'приведу в чувство')], 'adapted'),
     ('inspector', 'Стой, не трогай его сейчас!', 'Stop, do not touch him right now!', [(320, 'Стой')], 'adapted'),
 ]
 
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "All the wild adventures in the episode were echoes of the real world filtering into Chef Barinov's coma while paramedics tried to revive him. See you in the next scene."
-CLOSING = ('inspector', 'Скорее зовите сюда врача!')
+OUTRO = "All the wild adventures in the episode were echoes of the real world filtering into Chef Barinov's coma while paramedics tried to revive him. Until next time!"
+CLOSING = ("inspector", "До встречи!")

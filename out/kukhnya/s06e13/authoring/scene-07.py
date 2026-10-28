@@ -1,31 +1,31 @@
 ID = 'kukhnya-s06e13-scene-07'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 13
 SCENE = 7
-TITLE = 'Комната и бар  (The Room and the Bar)'
+TITLE = "Комната и бар  (The Room and the Bar)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'mikhail': 'anja', 'shef': 'angelina'}
-LABELS = {'anya': 'Костя', 'mikhail': 'Михаил', 'shef': 'Шеф'}
-SOURCE_NAME = "Кухня (Kukhnya) S6.13"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "kostya": "anja"}
+LABELS = {"kostya": "Костя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S6.13'
 SOURCE_FILE = 'sources/kukhnya/s06/e13.ru.srt'
 
 INTRO = 'In the dining room, Mikhail tells Denis to look for a replacement musician since he will not be coming to work. Meanwhile, Ainura begs Kostya to rent the spare room to eight relatives, and Chef Barinov asks for strong drinks.'
 
 STORY = [
-    ('mikhail', 'Значит, завтра на работу не выйдешь.', 'So you will not come in to work tomorrow.', [(94, 'на работу не выйдешь')], 'adapted'),
-    ('mikhail', 'Теперь нам надо нового музыканта искать.', 'Now we need to look for a new musician.', [(95, 'музыканта искать')], 'adapted'),
-    ('anya', 'У меня есть один знакомый музыкант.', 'I have one musician friend.', [(96, 'есть знакомый музыкант')], 'adapted'),
-    ('anya', 'Я могу ему прямо сейчас набрать.', 'I can call him right now.', [(97, 'Могу набрать')], 'adapted'),
-    ('anya', 'Айнура, я вам квартиру не сдам.', 'Ainura, I will not rent the apartment to you.', [(100, 'квартиру не сдам')], 'adapted'),
-    ('anya', 'Как там будут жить восемь человек?', 'How will eight people live there?', [(101, 'восемь человек')], 'adapted'),
-    ('anya', 'Они все действительно очень аккуратные люди?', 'Are they all really very neat people?', [(102, 'Они все аккуратные')], 'adapted'),
-    ('anya', 'Нет, я уже своё слово сказал.', 'No, I have already given my word.', [(103, 'Нет, я сказал')], 'adapted'),
-    ('shef', 'Костя, у меня в кабинете кончилось.', 'Kostya, I ran out of drinks in my office.', [(104, 'Костя, у меня')], 'adapted'),
-    ('shef', 'Дай мне чего-нибудь крепкого и быстро.', 'Give me something strong and quickly.', [(105, 'Да давай уже')], 'adapted'),
-    ('anya', 'Я всё понял, сейчас быстро принесу.', 'I understood everything, I will bring it quickly now.', [(106, 'Понял. А, сейчас')], 'adapted'),
-    ('shef', 'Спасибо, жду тебя у барной стойки.', 'Thank you, I am waiting for you at the bar counter.', [(104, 'в баре')], 'adapted'),
+    ('kostya', 'Значит, завтра на работу не выйдешь.', 'So you will not come in to work tomorrow.', [(94, 'на работу не выйдешь')], 'adapted'),
+    ('kostya', 'Теперь нам надо нового музыканта искать.', 'Now we need to look for a new musician.', [(95, 'музыканта искать')], 'adapted'),
+    ('kostya', 'У меня есть один знакомый музыкант.', 'I have one musician friend.', [(96, 'есть знакомый музыкант')], 'adapted'),
+    ('kostya', 'Я могу ему прямо сейчас набрать.', 'I can call him right now.', [(97, 'Могу набрать')], 'adapted'),
+    ('kostya', 'Айнура, я вам квартиру не сдам.', 'Ainura, I will not rent the apartment to you.', [(100, 'квартиру не сдам')], 'adapted'),
+    ('kostya', 'Как там будут жить восемь человек?', 'How will eight people live there?', [(101, 'восемь человек')], 'adapted'),
+    ('kostya', 'Они все действительно очень аккуратные люди?', 'Are they all really very neat people?', [(102, 'Они все аккуратные')], 'adapted'),
+    ('kostya', 'Нет, я уже своё слово сказал.', 'No, I have already given my word.', [(103, 'Нет, я сказал')], 'adapted'),
+    ('kostya', 'Костя, у меня в кабинете кончилось.', 'Kostya, I ran out of drinks in my office.', [(104, 'Костя, у меня')], 'adapted'),
+    ('kostya', 'Дай мне чего-нибудь крепкого и быстро.', 'Give me something strong and quickly.', [(105, 'Да давай уже')], 'adapted'),
+    ('kostya', 'Я всё понял, сейчас быстро принесу.', 'I understood everything, I will bring it quickly now.', [(106, 'Понял. А, сейчас')], 'adapted'),
+    ('kostya', 'Спасибо, жду тебя у барной стойки.', 'Thank you, I am waiting for you at the bar counter.', [(104, 'в баре')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Kostya fends off apartment requests and pours Chef Barinov a drink just as an unexpected visitor walks in. See you in the next scene.'
-CLOSING = ('anya', 'Сейчас всё быстро принесу.')
+OUTRO = 'Kostya fends off apartment requests and pours Chef Barinov a drink just as an unexpected visitor walks in. Until next time!'
+CLOSING = ("kostya", "Увидимся!")

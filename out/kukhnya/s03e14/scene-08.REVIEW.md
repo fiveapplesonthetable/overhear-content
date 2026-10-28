@@ -10,11 +10,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Гость | Скажи, а что это за мясо? | Tell me, what kind of meat is this? | #123 00:10:08: что это за мясо | adapted: adapted |
+| 1 | Шеф | Скажи, а что это за мясо? | Tell me, what kind of meat is this? | #123 00:10:08: что это за мясо | adapted: adapted |
 | 2 | Аня | Это нежнейшее мясо по старинному французскому рецепту, свинина! | This is the most tender meat from an old French recipe, pork! | #124 00:10:10: это нежнейшее<br>#124 00:10:10: по старинному французскому рецепту свинина | adapted: adapted |
 | 3 | Аня | Ой, я перепутал, это блюдо не вам! | Oops, I mixed it up, this dish is not for you! | #125 00:10:20: Перепутал. Это не вам | adapted: adapted |
 | 4 | Аня | Сейчас я там дофарширую и сразу приду. | I will finish stuffing it in there right now and come right back. | #126 00:10:23: Сейчас я там дофарширую и приду | adapted: adapted |
-| 5 | Гость | У тебя шесть секунд, мы возле машины. | You have six seconds, we are by the car. | #127 00:10:26: У тебя шесть секунд, мы возле машины | adapted: adapted |
+| 5 | Шеф | У тебя шесть секунд, мы возле машины. | You have six seconds, we are by the car. | #127 00:10:26: У тебя шесть секунд, мы возле машины | adapted: adapted |
 | 6 | Шеф | Немедленно оставь мою дочь в покое! | Leave my daughter alone immediately! | #131 00:10:42: Оставь мою дочь в покое | adapted: adapted |
 | 7 | Аня | Ну что, батя, ты принёс деньги? | So, pops, did you bring the money? | #130 00:10:40: принес<br>#132 00:10:44: деньги | adapted: adapted |
 | 8 | Шеф | Вот тебе кулак, а не деньги! | Here is a fist for you, not money! | #133 00:10:46: Вот тебе, а не деньги | adapted: adapted |

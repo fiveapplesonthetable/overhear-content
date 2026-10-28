@@ -1,53 +1,48 @@
-ID = "kukhnya-s02e02-scene-08"
-SHOW = "kukhnya"
+# Authoring module for kukhnya-s02e02-scene-08.
+ID = 'kukhnya-s02e02-scene-08'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 2
 SCENE = 8
 TITLE = "Держи  (Here You Go)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {"narrator": "sky", "anya": "alisa", "anton": "anja", "max": "angelina"}
-LABELS = {"anya": "Аня", "anton": "Антон", "max": "Макс"}
-SOURCE_NAME = "Кухня (Kukhnya) S2.02"
-SOURCE_FILE = "sources/kukhnya/s02/e02.ru.dual.srt"
-
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "vika": "angelina"}
+LABELS = {"anya": "Макс", "vika": "Вика"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.02'
+SOURCE_FILE = 'sources/kukhnya/s02/e02.ru.dual.srt'
 INTRO = "In the middle of the kitchen chaos, a very brief exchange happens between two people handing over an item. Let's listen closely to their exchange in Russian first, and then walk through each line together."
-
-STORY = [
-    ('anya', 'Привет.', 'Hi.', [], 'new'),
-    ('anton', 'Привет, Вика.', 'Hi, Vika.', [], 'new'),
-    ('anya', 'Вот твоя вещь.', 'Here is your thing.', [], 'new'),
-    ('anya', 'Возьми это.', 'Take this.', [], 'new'),
-    ('anya', 'Держи.', 'Here you go.', [(157, 'Держи')], ''),
-    ('anton', 'Спасибо.', 'Thanks.', [], 'new'),
-    ('anton', 'Это мне?', 'Is this for me?', [], 'new'),
-    ('anya', 'Да, тебе.', 'Yes, for you.', [], 'new'),
-    ('anton', 'Очень хорошо.', 'Very good.', [], 'new'),
-    ('anton', 'Я рад.', 'I am glad.', [], 'new'),
-    ('anya', 'Пожалуйста.', "You're welcome.", [], 'new'),
-    ('anya', 'Я пойду.', 'I will go.', [], 'new'),
-    ('anton', 'Пока.', 'Bye.', [], 'new')
-]
-
-OPENER = "Let's listen to this short interaction."
-
-WALK = [
-    (0, None, "'Hi.' A quick greeting."),
-    (1, None, "'Hi, Vika.' Notice the word order: 'hi' comes first, and 'Vika' finishes the sentence."),
-    (2, None, "'Here is your thing.' Something needed to be returned."),
-    (3, None, "'Take this.' A simple command."),
-    (4, 'Держи.', "'Here you go.' Giving the item over."),
-    (5, None, "'Thanks.' Gratitude is always nice."),
-    (6, None, "'Is this for me?' Double checking to be sure."),
-    (7, None, "'Yes, for you.' Confirming the recipient."),
-    (8, None, "'Very good.' Being satisfied with the item."),
-    (9, None, "'I am glad.' Showing positive emotion."),
-    (10, None, "'You're welcome.' A polite response."),
-    (11, None, "'I will go.' Time to leave."),
-    (12, None, "'Bye.' A short farewell.")
-]
-
-TRANSITION = "Now let's hear the whole thing once more."
-
-OUTRO = "And that's it for this scene. When you watch the episode, listen out for the exchange around here you go, and for the words meaning 'Vika' and 'thing'. You'll catch them now. See you next time."
+OPENER = "Now let's go back through the exchange around Here You Go line by line and unpack how the Russian works."
+TRANSITION = "Now let's listen to the whole conversation again from start to finish."
+OUTRO = "A very brief exchange happens between two people handing over an item. Next time you watch the episode, listen for the Russian expressions for 'thing' and 'to take' — you will catch every word right away. See you next time!"
 CLOSING = ("anya", "До свидания!")
+STORY = [
+    ('anya', 'Привет.', 'Hi.', [], ''),
+    ('vika', 'Привет, Вика.', 'Hi, Vika.', [], ''),
+    ('anya', 'Вот твоя вещь.', 'Here is your thing.', [], ''),
+    ('anya', 'Возьми это.', 'Take this.', [], ''),
+    ('anya', 'Держи.', 'Here you go.', [(157, 'Держи')], ''),
+    ('vika', 'Спасибо.', 'Thanks.', [], ''),
+    ('vika', 'Это мне?', 'Is this for me?', [], ''),
+    ('anya', 'Да, тебе.', 'Yes, for you.', [], ''),
+    ('vika', 'Очень хорошо.', 'Very good.', [], ''),
+    ('vika', 'Я рад.', 'I am glad.', [], ''),
+    ('anya', 'Пожалуйста.', "You're welcome.", [], ''),
+    ('anya', 'Я пойду.', 'I will go.', [], ''),
+    ('vika', 'Пока.', 'Bye.', [], ''),
+]
+WALK = [
+    (0, None, "'Hi.' Max delivers a punchy one-word reaction built around the Russian word meaning 'hi'."),
+    (1, None, "'Hi, Vika.' Vika delivers a punchy one-word reaction built around the Russian word meaning 'hi'."),
+    (2, None, "'Here is your thing.' Max delivers a punchy one-word reaction built around the Russian word meaning 'thing'."),
+    (3, None, "'Take this.' Max leads with the direct command form meaning 'take' to make the point directly in conversation."),
+    (4, None, "'Here you go.' Max leads with the direct command form meaning 'here you go' to make the point directly in conversation."),
+    (5, None, "'Thanks.' Vika delivers a punchy one-word reaction built around the Russian word meaning 'thank you'."),
+    (6, None, "'Is this for me?' Vika turns a statement into a question purely through rising intonation on the word meaning 'this', followed by 'to me'."),
+    (7, None, "'Yes, for you.' Russian omits the present-tense verb 'to be' here, linking 'yes' directly with 'for you', combining 'yes' with 'for you'."),
+    (8, None, "'Very good.' Russian omits the present-tense verb 'to be' here, linking 'very much' directly with 'good', combining 'very much' with 'good'."),
+    (9, None, "'I am glad.' Vika delivers a punchy one-word reaction built around the Russian word meaning 'glad'."),
+    (10, None, "'You're welcome.' Max delivers a punchy one-word reaction built around the Russian word meaning 'please'."),
+    (11, None, "'I will go.' Max delivers a punchy one-word reaction built around the Russian word meaning 'go'."),
+    (12, None, "'Bye.' Vika delivers a punchy one-word reaction built around the Russian word meaning 'bye'."),
+]

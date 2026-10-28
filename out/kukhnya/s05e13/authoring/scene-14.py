@@ -1,29 +1,29 @@
 ID = 'kukhnya-s05e13-scene-14'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 13
 SCENE = 14
-TITLE = 'Подкупленный свидетель Арсений  (The Bribed Witness Arseniy)'
+TITLE = "Подкупленный свидетель Арсений  (The Bribed Witness Arseniy)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'senya': 'anja', 'nastya': 'angelina'}
-LABELS = {'anya': 'Костя', 'senya': 'Сеня', 'nastya': 'Настя'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.13"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "kostya": "anja", "nastya": "angelina"}
+LABELS = {"kostya": "Костя", "nastya": "Настя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.13'
 SOURCE_FILE = 'sources/kukhnya/s05/e13.ru.srt'
 
 INTRO = "Kostya produces a loose belt to claim Max's pants fell down by accident, and when that fails, he calls Senya to the witness stand after secretly bribing him—unaware that Nastya bribed Senya too."
 
 STORY = [
-    ('anya', 'Ваша честь, у меня есть важная улика!', 'Your Honor, I have an important piece of evidence!', [(181, 'Ваша честь, у меня есть улика')], 'adapted'),
-    ('anya', 'В тот вечер на вас был этот ремень?', 'Were you wearing this belt on that evening?', [(182, 'вечер на вас был вот этот ремень')], 'adapted'),
-    ('anya', 'Значит, штаны просто-напросто сами могли упасть!', 'That means the pants could have simply fallen down by themselves!', [(184, 'что штаны просто-напросто могли упасть')], 'adapted'),
-    ('anya', 'Ну вот, теперь всё отлично сходится!', 'Well there, now everything fits together perfectly!', [(185, 'Ну вот, все сходится')], 'adapted'),
+    ('kostya', 'Ваша честь, у меня есть важная улика!', 'Your Honor, I have an important piece of evidence!', [(181, 'Ваша честь, у меня есть улика')], 'adapted'),
+    ('kostya', 'В тот вечер на вас был этот ремень?', 'Were you wearing this belt on that evening?', [(182, 'вечер на вас был вот этот ремень')], 'adapted'),
+    ('kostya', 'Значит, штаны просто-напросто сами могли упасть!', 'That means the pants could have simply fallen down by themselves!', [(184, 'что штаны просто-напросто могли упасть')], 'adapted'),
+    ('kostya', 'Ну вот, теперь всё отлично сходится!', 'Well there, now everything fits together perfectly!', [(185, 'Ну вот, все сходится')], 'adapted'),
     ('nastya', 'Костя, не позорься, это же твой ремень!', 'Kostya, do not embarrass yourself, that is your belt!', [(187, 'Костя, не позорься, это твой ремень')], 'adapted'),
-    ('anya', 'Тогда мы вызываем нашего первого свидетеля.', 'Then we call our first witness.', [(189, 'Тогда мы вызываем первого свидетеля')], 'adapted'),
-    ('anya', 'Макс, не волнуйся, я его уже подкупил.', 'Max, do not worry, I already bribed him.', [(191, 'я его подкупил')], 'adapted'),
-    ('senya', 'Значит, тем вечером всё было именно так.', 'So, that evening everything happened just like this.', [(193, 'Значит, все было так')], 'adapted'),
-    ('senya', 'Саша сама полезла целоваться к нашему Максу.', 'Sasha threw herself at our Max to kiss him.', [(194, 'Саша сама полезла целоваться')], 'adapted'),
-    ('senya', 'Потом Вика зашла и всё неправильно поняла.', 'Then Vika walked in and misunderstood everything.', [(197, 'Потом Вика зашла, все неправильно поняла')], 'adapted'),
+    ('kostya', 'Тогда мы вызываем нашего первого свидетеля.', 'Then we call our first witness.', [(189, 'Тогда мы вызываем первого свидетеля')], 'adapted'),
+    ('kostya', 'Макс, не волнуйся, я его уже подкупил.', 'Max, do not worry, I already bribed him.', [(191, 'я его подкупил')], 'adapted'),
+    ('nastya', 'Значит, тем вечером всё было именно так.', 'So, that evening everything happened just like this.', [(193, 'Значит, все было так')], 'adapted'),
+    ('nastya', 'Саша сама полезла целоваться к нашему Максу.', 'Sasha threw herself at our Max to kiss him.', [(194, 'Саша сама полезла целоваться')], 'adapted'),
+    ('nastya', 'Потом Вика зашла и всё неправильно поняла.', 'Then Vika walked in and misunderstood everything.', [(197, 'Потом Вика зашла, все неправильно поняла')], 'adapted'),
     ('nastya', 'Виктория Сергеевна, не волнуйтесь, я подкупила свидетеля.', 'Victoria Sergeyevna, do not worry, I bribed the witness.', [(199, 'Я подкупила свидетеля')], 'adapted'),
     ('nastya', 'Ваша честь, я тоже вызываю этого свидетеля!', 'Your Honor, I also call this witness!', [(200, 'Ваша честь, я тоже вызываю свидетеля')], 'adapted'),
 ]
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Having pocketed money from both sides, Senya happily steps back up to give the exact opposite testimony. See you in the next scene.'
-CLOSING = ('anya', 'Ну вот, всё отлично сходится!')
+OUTRO = 'Having pocketed money from both sides, Senya happily steps back up to give the exact opposite testimony. See you next time!'
+CLOSING = ("kostya", "До свидания!")

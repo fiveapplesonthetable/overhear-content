@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You need to plan everything in advance.' Max keeps the sentence short and direct, relying on Russian case endings to show how the words connect.
-- 'Prepare well and keep everything a secret.' In spoken Russian, Max omits unnecessary linking verbs so the key idea lands immediately.
-- 'But the most important thing is the element of surprise.' Max uses natural conversational word order here to highlight the most important part of the reply.
+- 'You need to plan everything in advance.' Notice how Russian puts 'necessary, need to' and 'in advance' together in a short, direct phrase where word endings show how the ideas connect.
+- 'Prepare well and keep everything a secret.' Here Max anchors the thought on 'good, well, all right' and finishes on 'secret', keeping the spoken rhythm brisk and natural.
+- 'But the most important thing is the element of surprise.' In everyday Russian, 'the main thing' flows straight into 'to surprise' without extra linking words.
 - 'Surprise!' Max delivers this line as an emphatic exclamation, putting strong stress on the main word.
-- 'This is my brother Denis.' Max uses natural conversational word order here to highlight the most important part of the reply.
-- 'Very nice to meet you. Hello.' Denis keeps the sentence short and direct, relying on Russian case endings to show how the words connect.
-- 'Sorry about that.' In spoken Russian, Max omits unnecessary linking verbs so the key idea lands immediately.
-- 'And what do you do for a living?' In spoken Russian, Vika omits unnecessary linking verbs so the key idea lands immediately.
-- 'I am a musician, a pianist.' Denis keeps the sentence short and direct, relying on Russian case endings to show how the words connect.
-- 'A creative nature.' In spoken Russian, Denis omits unnecessary linking verbs so the key idea lands immediately.
+- 'This is my brother Denis.' Spoken Russian keeps this brief and expressive, built right around 'brother' without extra helper words.
+- 'Very nice to meet you. Hello.' Denis uses a polite everyday Russian courtesy expression that sets the tone of the conversation right away.
+- 'Sorry about that.' Spoken Russian keeps this brief and expressive, built right around 'sorry' without extra helper words.
+- 'And what do you do for a living?' In spoken Russian, the words stay in their normal statement order and Vika's rising voice at the end turns the line into a question.
+- 'I am a musician, a pianist.' Notice how Russian puts 'musician' and 'pianist' together in a short, direct phrase where word endings show how the ideas connect.
+- 'A creative nature.' Here Denis anchors the thought on 'creative, artistic' and finishes on 'nature, character', keeping the spoken rhythm brisk and natural.
 - 'So do you perform somewhere?' Vika raises the pitch on the key word to turn this short Russian clause into a direct question.
-- 'Of course, in Voronezh.' Denis keeps the sentence short and direct, relying on Russian case endings to show how the words connect.
+- 'Of course, in Voronezh.' Denis pairs 'of course, certainly' with 'Voronezh' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.

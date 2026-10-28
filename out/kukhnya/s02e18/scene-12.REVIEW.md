@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Зря вы Константина с собой привели. | You should not have brought Konstantin along with you. | #197 00:11:18: Зря вы Константина с собой привели | verbatim |
-| 2 | Шеф | Да, алло. | Yes, hello. | #197 00:11:18: Да, алло | verbatim |
-| 3 | Аня | А мы все знаем. | We know everything that happened. | #198 00:11:22: А мы все знаем | verbatim |
-| 4 | Шеф | Как вы узнали? | How did you find out? | #198 00:11:22: Как вы узнали | verbatim |
-| 5 | Аня | Магазин на другой стороне улицы. | There is a shop on the other side of the street. | #199 00:11:26: Магазин на другой стороне улицы | verbatim |
-| 6 | Шеф | Вот, справа за углом урна. | Right there, around the corner to the right, is a trash bin. | #200 00:11:29: Вот, справа за углом урна | verbatim |
-| 7 | Аня | Положите туда деньги и уходите. | Put the money inside it and walk away. | #201 00:11:34: Положите туда деньги и уходите | verbatim |
-| 8 | Шеф | Родион Сергеевич? | Rodion Sergeyevich? | #203 00:11:39: Родион Сергеевич | verbatim |
-| 9 | Аня | А то я уже на работу опаздываю. | Otherwise I am going to be late for work already. | #204 00:11:45: А то я уже на работу опаздываю | verbatim |
-| 10 | Шеф | Одному? Ну? | All by myself? Well? | #206 00:11:53: одному? Ну | verbatim |
-| 11 | Аня | Только ради вас. | Only for your sake. | #207 00:11:57: Только ради вас | verbatim |
-| 12 | Шеф | В ресторане Клод Мане. | At the Claude Monet restaurant. | #210 00:12:28: в ресторане Клод Мане | verbatim |
-| 13 | Аня | Но дело в том. | Because the thing is. | #211 00:12:31: но дело в том | verbatim |
+| 1 | Родион | Зря вы Константина с собой привели. | You should not have brought Konstantin along with you. | #197 00:11:18: Зря вы Константина с собой привели | verbatim |
+| 2 | Родион | Да, алло. | Yes, hello. | #197 00:11:18: Да, алло | verbatim |
+| 3 | Родион | А мы все знаем. | We know everything that happened. | #198 00:11:22: А мы все знаем | verbatim |
+| 4 | Родион | Как вы узнали? | How did you find out? | #198 00:11:22: Как вы узнали | verbatim |
+| 5 | Родион | Магазин на другой стороне улицы. | There is a shop on the other side of the street. | #199 00:11:26: Магазин на другой стороне улицы | verbatim |
+| 6 | Родион | Вот, справа за углом урна. | Right there, around the corner to the right, is a trash bin. | #200 00:11:29: Вот, справа за углом урна | verbatim |
+| 7 | Родион | Положите туда деньги и уходите. | Put the money inside it and walk away. | #201 00:11:34: Положите туда деньги и уходите | verbatim |
+| 8 | Родион | Родион Сергеевич? | Rodion Sergeyevich? | #203 00:11:39: Родион Сергеевич | verbatim |
+| 9 | Родион | А то я уже на работу опаздываю. | Otherwise I am going to be late for work already. | #204 00:11:45: А то я уже на работу опаздываю | verbatim |
+| 10 | Родион | Одному? Ну? | All by myself? Well? | #206 00:11:53: одному? Ну | verbatim |
+| 11 | Родион | Только ради вас. | Only for your sake. | #207 00:11:57: Только ради вас | verbatim |
+| 12 | Родион | В ресторане Клод Мане. | At the Claude Monet restaurant. | #210 00:12:28: в ресторане Клод Мане | verbatim |
+| 13 | Родион | Но дело в том. | Because the thing is. | #211 00:12:31: но дело в том | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -34,7 +34,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Right there, around the corner to the right, is a trash bin.' Chef Viktor anchors the line on 'there you go', while 'trash bin' completes the thought.
 - 'Put the money inside it and walk away.' In Russian, the idea of 'put' flows naturally into 'leave' without extra filler words. Chef Viktor answers right away.
 - 'Rodion Sergeyevich?' The grammar packs 'Rodion' and 'Sergeyevich' into a tight, idiomatic kitchen exchange.
-- 'Otherwise I am going to be late for work already.' The grammar packs 'and' and 'am running late' into a tight, idiomatic kitchen exchange.
+- 'Otherwise I am going to be late for work already.' Rodion pairs 'now, already' with 'am running late' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
 - 'All by myself? Well?' Notice how Russian expresses 'alone' and 'come on' with crisp inflection rather than helper words. Rodion answers right away.
 - 'Only for your sake.' In Russian, the idea of 'only' flows naturally into 'you' without extra filler words.
 - 'At the Claude Monet restaurant.' The meaning hinges on 'restaurant' working together with 'Monet' in spoken Russian.

@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Ну как вам блюдо? | Well, how do you like the dish? | #132 00:09:07: Ну как? | adapted: adapted |
+| 1 | Гость | Ну как вам блюдо? | Well, how do you like the dish? | #132 00:09:07: Ну как? | adapted: adapted |
 | 2 | Гость | Для начала пойдет. | For a starter it will do. | #133 00:09:11: пойдет | adapted: adapted |
 | 3 | Гость | Так что тащи уже ребрышки. | So bring out the ribs already. | #134 00:09:17: тащи уже ребрышки | adapted: adapted |
-| 4 | Аня | Высокая кухня — это вам не закуска. | Haute cuisine is not a snack for you. | #136 00:09:23: высокая кухня | adapted: adapted |
+| 4 | Гость | Высокая кухня — это вам не закуска. | Haute cuisine is not a snack for you. | #136 00:09:23: высокая кухня | adapted: adapted |
 | 5 | Гость | А в-третьих, что, Витя? | And thirdly, what, Vitya? | #137 00:09:26: А в-третьих, что, Витя? | adapted: exact |
-| 6 | Аня | Не Витя, а Виктор Петрович. | Not Vitya, but Viktor Petrovich. | #138 00:09:28: не Витя, а Виктор Петрович | adapted: adapted |
+| 6 | Гость | Не Витя, а Виктор Петрович. | Not Vitya, but Viktor Petrovich. | #138 00:09:28: не Витя, а Виктор Петрович | adapted: adapted |
 | 7 | Гость | Зря ты так, Виктор Петрович. | You should not act like that, Viktor Petrovich. | #139 00:09:33: Зря ты так, Виктор Петрович | adapted: exact |
 | 8 | Гость | Земля ведь круглая. | After all, the earth is round. | #140 00:09:37: круглая | adapted: adapted |
-| 9 | Аня | А оплатить кто будет? | And who is going to pay? | #142 00:09:44: оплатить кто будет? | adapted: adapted |
+| 9 | Гость | А оплатить кто будет? | And who is going to pay? | #142 00:09:44: оплатить кто будет? | adapted: adapted |
 | 10 | Гость | А я и не ел ничего. | Why, I did not even eat anything. | #143 00:09:46: А я и не ел ничего | adapted: exact |
 | 11 | Гость | Я еще вернусь сюда. | I will be back here yet. | #139 00:09:33: Зря ты так | adapted: adapted |
-| 12 | Аня | Скатертью дорога! | Good riddance! | #138 00:09:28: Виктор Петрович | adapted: adapted |
+| 12 | Гость | Скатертью дорога! | Good riddance! | #138 00:09:28: Виктор Петрович | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

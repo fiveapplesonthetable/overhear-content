@@ -1,14 +1,14 @@
 ID = 'kukhnya-s05e20-scene-15'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 20
 SCENE = 15
 TITLE = "Новость Макса и отъезд Вики в Питер  (Max's News and Vika's Move to Saint Petersburg)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja'}
-LABELS = {'anya': 'Макс', 'vika': 'Вика'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.20"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "vika": "angelina", "anya": "alisa"}
+LABELS = {"vika": "Вика", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.20'
 SOURCE_FILE = 'sources/kukhnya/s05/e20.ru.srt'
 
 INTRO = "Late at night, Max bursts into Vika's apartment to tell her that he has finally achieved his dream of becoming head chef of Claude Monet. Instead of celebrating, Vika tells him she is moving to Saint Petersburg."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Torn between his lifelong career dream in Moscow and his family moving to Saint Petersburg, Max faces an impossible choice. See you in the next scene.'
-CLOSING = ('vika', 'Макс, так будет лучше.')
+OUTRO = 'Torn between his lifelong career dream in Moscow and his family moving to Saint Petersburg, Max faces an impossible choice. Until next time!'
+CLOSING = ("vika", "До встречи!")

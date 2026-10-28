@@ -11,16 +11,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Аня | Костя, делай, пожалуйста, чайник-чай. | Kostya, please make a pot of tea. | #98 00:07:11: Костя, делай, пожалуйста, чайник-чай | verbatim |
-| 2 | Костя | Привет, Макс. | Hey there, Max. | #99 00:07:14: Привет, Макс | verbatim |
+| 2 | Саша | Привет, Макс. | Hey there, Max. | #99 00:07:14: Привет, Макс | verbatim |
 | 3 | Саша | Слушай, Сашуль, ты прости меня. | Listen, Sashulya, please forgive me. | #101 00:07:20: Слушай, Сашуль, ты прости меня | verbatim |
 | 4 | Аня | Но я все осознал. | I have thought everything through. | #103 00:07:27: Но я все осознал | verbatim |
-| 5 | Костя | Конечно, глупо ревновать тебя к Илье. | Of course it is foolish to be jealous of you over Ilya. | #103 00:07:27: Конечно, глупо ревновать тебя к Илье | verbatim |
+| 5 | Саша | Конечно, глупо ревновать тебя к Илье. | Of course it is foolish to be jealous of you over Ilya. | #103 00:07:27: Конечно, глупо ревновать тебя к Илье | verbatim |
 | 6 | Саша | Прошлое осталось в прошлом. | The past stays in the past. | #104 00:07:32: Прошлое осталось в прошлом | verbatim |
 | 7 | Аня | Простишь меня? | Will you forgive me? | #105 00:07:36: Простишь меня | verbatim |
-| 8 | Костя | Я обижена на тебя. | I am still upset with you. | #106 00:07:40: я обижена на тебя | verbatim |
+| 8 | Саша | Я обижена на тебя. | I am still upset with you. | #106 00:07:40: я обижена на тебя | verbatim |
 | 9 | Саша | Но зла не держу. | But I am not holding a grudge. | #106 00:07:40: но зла не держу | verbatim |
 | 10 | Аня | Это тебе. | This is for you. | #107 00:07:47: Это тебе | verbatim |
-| 11 | Костя | Саша, давай все расскажем Максу. | Sasha, let us tell Max everything. | #109 00:07:55: Саша, давай все расскажем Максу | verbatim |
+| 11 | Саша | Саша, давай все расскажем Максу. | Sasha, let us tell Max everything. | #109 00:07:55: Саша, давай все расскажем Максу | verbatim |
 | 12 | Саша | Что обсуждаете? | What are you two discussing? | #110 00:08:01: Что обсуждаете | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)

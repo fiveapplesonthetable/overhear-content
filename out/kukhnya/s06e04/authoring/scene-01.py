@@ -1,30 +1,30 @@
 ID = 'kukhnya-s06e04-scene-01'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 4
 SCENE = 1
-TITLE = 'Классическая музыка и новость об инспекторе  (Classical Music and News of the Inspector)'
+TITLE = "Классическая музыка и новость об инспекторе  (Classical Music and News of the Inspector)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'eleonora': 'angelina', 'louis': 'anja'}
-LABELS = {'anya': 'Шеф', 'eleonora': 'Элеонора', 'louis': 'Луи'}
-SOURCE_NAME = "Кухня (Kukhnya) S6.04"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "louis": "anja", "eleonora": "angelina"}
+LABELS = {"louis": "Луи", "eleonora": "Элеонора"}
+SOURCE_NAME = 'Кухня (Kukhnya) S6.04'
 SOURCE_FILE = 'sources/kukhnya/s06/e04.ru.srt'
 
 INTRO = 'Eleonora starts the morning by making the hotel staff listen to classical music to boost productivity, right before pastry chef Louis announces that a Michelin inspector is in Moscow!'
 
 STORY = [
     ('eleonora', 'Всем спасибо, урок окончен.', 'Thank you everyone, the session is over.', [(1, 'Всем спасибо'), (1, 'окончен')], 'adapted'),
-    ('anya', 'А мы теперь это каждое утро будем переживать?', 'Are we going to go through this every morning now?', [(2, 'каждое утро будем переживать?')], 'adapted'),
+    ('louis', 'А мы теперь это каждое утро будем переживать?', 'Are we going to go through this every morning now?', [(2, 'каждое утро будем переживать?')], 'adapted'),
     ('eleonora', 'Исследования показали, что день надо начинать с классической музыки.', 'Studies showed that the day should start with classical music.', [(3, 'Исследования показали'), (3, 'день начинать с классической музыки')], 'adapted'),
     ('eleonora', 'Тогда производительность труда увеличивается.', 'Then labor productivity increases.', [(4, 'производительность труда увеличивается')], 'adapted'),
-    ('anya', 'Я просто идею не сразу понял.', 'I simply did not understand the idea right away.', [(7, 'Я просто идею не сразу понял')], 'exact'),
+    ('louis', 'Я просто идею не сразу понял.', 'I simply did not understand the idea right away.', [(7, 'Я просто идею не сразу понял')], 'exact'),
     ('louis', 'А мне захотелось, чтобы меня мама обняла.', 'And it made me want my mom to hug me.', [(8, 'захотелось'), (8, 'чтобы меня мама обняла')], 'adapted'),
     ('eleonora', 'Всем спасибо, работаем.', "Thank you everyone, let's get to work.", [(9, 'Всем спасибо'), (10, 'Работаем')], 'adapted'),
     ('louis', 'Элеонора Андреевна, мне написал отец.', 'Eleonora Andreyevna, my father wrote to me.', [(11, 'Андреевна, мне написал отец')], 'adapted'),
     ('louis', 'У них в ресторане был инспектор.', 'There was an inspector at their restaurant.', [(12, 'У них в ресторане был инспектор')], 'exact'),
     ('louis', 'Если он в Москве, то он и к нам зайдет.', 'If he is in Moscow, then he will stop by our place too.', [(13, 'Если он в Москве, то он и к нам зайдет')], 'exact'),
-    ('anya', 'Это наш шанс получить звезду!', 'This is our chance to get a star!', [(12, 'инспектор')], 'adapted'),
+    ('louis', 'Это наш шанс получить звезду!', 'This is our chance to get a star!', [(12, 'инспектор')], 'adapted'),
     ('eleonora', 'Будьте готовы сегодня!', 'Be ready today!', [(10, 'Работаем')], 'adapted'),
 ]
 
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'With the entire hotel on high alert for a secret Michelin inspector, every foreign guest immediately becomes a suspect. See you in the next scene.'
-CLOSING = ('louis', 'Он точно к нам зайдет!')
+OUTRO = 'With the entire hotel on high alert for a secret Michelin inspector, every foreign guest immediately becomes a suspect. Until next time!'
+CLOSING = ("louis", "Хорошего дня!")

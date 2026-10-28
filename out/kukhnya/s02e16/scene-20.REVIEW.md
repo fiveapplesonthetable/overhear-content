@@ -26,7 +26,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You do not understand.' In Russian, the idea of 'you' flows naturally into 'do you understand' without extra filler words. Kostya answers right away.
+- 'You do not understand.' Max centers this short reply on 'do you understand', letting a few direct words carry the whole meaning.
 - 'Max, please tell me, why did you do this?' Kostya addresses the listener with the informal singular 'you' alongside 'to do'.
 - 'Do you realize you cannot treat people like that?' Spoken Russian keeps this brisk, leaning on 'you' and finishing on 'to act'.
 - 'Let me explain everything at home, alright?' Kostya raises the pitch on 'really?!' to turn the phrase into a direct spoken question. Max answers right away.

@@ -11,16 +11,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Денис | Доброе утро, Катя, привет тебе. | Good morning, Katya, hello to you. | #84 00:05:50: привет | adapted: adapted |
-| 2 | Аня | Ой, ну и бардак у тебя здесь. | Oh, what a mess you have here. | #85 00:05:53: О, ну и бардак у тебя | adapted: adapted |
-| 3 | Аня | Давно нужно было выкинуть этот хлам. | This junk should have been thrown out long ago. | #86 00:05:56: Давно нужно было выкинуть весь этот хлам | adapted: adapted |
+| 2 | Катя | Ой, ну и бардак у тебя здесь. | Oh, what a mess you have here. | #85 00:05:53: О, ну и бардак у тебя | adapted: adapted |
+| 3 | Катя | Давно нужно было выкинуть этот хлам. | This junk should have been thrown out long ago. | #86 00:05:56: Давно нужно было выкинуть весь этот хлам | adapted: adapted |
 | 4 | Денис | Слушай, я туда два билета спрятал. | Listen, I hid two tickets in there. | #87 00:06:06: Слушай, я тебе туда два билета | adapted: adapted |
 | 5 | Денис | Это билеты на сегодняшний концерт. | Those are tickets for tonight's concert. | #87 00:06:06: на сегодняшний концерт | adapted: adapted |
 | 6 | Денис | А ты их только что выкинула. | And you just threw them away. | #88 00:06:11: Ты только что выкинула | adapted: adapted |
-| 7 | Аня | Ой, Денис, извини меня, пожалуйста. | Oh, Denis, forgive me, please. | #88 00:06:11: Ой, извини | adapted: adapted |
-| 8 | Аня | Я бы пошла с большим удовольствием. | I would have gone with great pleasure. | #89 00:06:14: Я с удовольствием | adapted: adapted |
-| 9 | Аня | Но у меня сегодня вечернее дежурство. | But I have the evening shift today. | #89 00:06:14: но мне сегодня дежурство | adapted: adapted |
-| 10 | Аня | Ты сам достанешь их оттуда? | Will you get them out of there yourself? | #90 00:06:20: Сам достанешь | adapted: adapted |
-| 11 | Аня | Извини меня ещё раз, ладно? | Forgive me once again, alright? | #91 00:06:22: Извини еще раз | adapted: adapted |
+| 7 | Катя | Ой, Денис, извини меня, пожалуйста. | Oh, Denis, forgive me, please. | #88 00:06:11: Ой, извини | adapted: adapted |
+| 8 | Катя | Я бы пошла с большим удовольствием. | I would have gone with great pleasure. | #89 00:06:14: Я с удовольствием | adapted: adapted |
+| 9 | Катя | Но у меня сегодня вечернее дежурство. | But I have the evening shift today. | #89 00:06:14: но мне сегодня дежурство | adapted: adapted |
+| 10 | Катя | Ты сам достанешь их оттуда? | Will you get them out of there yourself? | #90 00:06:20: Сам достанешь | adapted: adapted |
+| 11 | Катя | Извини меня ещё раз, ладно? | Forgive me once again, alright? | #91 00:06:22: Извини еще раз | adapted: adapted |
 | 12 | Денис | Ладно, ничего страшного, сам достану. | Alright, no big deal, I will get them myself. | #90 00:06:20: Сам достанешь | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)

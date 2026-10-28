@@ -10,12 +10,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Меня только что молния ударила. | Lightning just struck me. | #248 00:15:58: Меня молния ударила | adapted: adapted |
-| 2 | Аня | Лена, прости меня за всё. | Lena, forgive me for everything. | #250 00:16:14: Прости меня | adapted: adapted |
-| 3 | Аня | Я тебя очень сильно люблю. | I love you very much. | #251 00:16:17: Я тебя очень люблю | adapted: adapted |
+| 1 | Шеф | Меня только что молния ударила. | Lightning just struck me. | #248 00:15:58: Меня молния ударила | adapted: adapted |
+| 2 | Шеф | Лена, прости меня за всё. | Lena, forgive me for everything. | #250 00:16:14: Прости меня | adapted: adapted |
+| 3 | Шеф | Я тебя очень сильно люблю. | I love you very much. | #251 00:16:17: Я тебя очень люблю | adapted: adapted |
 | 4 | Елена | Витя, что у тебя случилось? | Vitya, what happened to you? | #252 00:16:20: Витя, что случилось | adapted: adapted |
-| 5 | Аня | Я попал в большую беду. | I got into big trouble. | #253 00:16:23: Я влип | adapted: adapted |
-| 6 | Аня | Из-за меня сегодня погиб человек. | Because of me a person died today. | #254 00:16:26: Из-за меня погиб человек | adapted: adapted |
+| 5 | Шеф | Я попал в большую беду. | I got into big trouble. | #253 00:16:23: Я влип | adapted: adapted |
+| 6 | Шеф | Из-за меня сегодня погиб человек. | Because of me a person died today. | #254 00:16:26: Из-за меня погиб человек | adapted: adapted |
 | 7 | Елена | Я приеду, мы всё решим. | I will come over, we will solve everything. | #256 00:16:30: Я сейчас приеду, и мы все решим | adapted: adapted |
 | 8 | Елена | Прости, что скрывала от тебя. | Forgive me for hiding it from you. | #259 00:16:49: Прости, что скрывала от тебя | adapted: adapted |
 | 9 | Елена | В Индии я была по заданию. | In India I was on an assignment. | #262 00:16:57: в Индии я была по заданию | adapted: adapted |

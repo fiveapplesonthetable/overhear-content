@@ -21,7 +21,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 9 | Настя | Наверное, все Макс твой придумал, да? | Your Max probably came up with all of this, right? | #179 00:11:46: Наверное, все Макс твой придумал, да | verbatim |
 | 10 | Аня | Конечно, Макс. | Of course it was Max. | #180 00:11:48: Конечно, Макс | verbatim |
 | 11 | Костя | За словами своими следи, овца. | Watch your mouth, you sheep. | #182 00:11:52: За словами своими следи, овца | verbatim |
-| 12 | Настя | Заткнись, гном. | Shut up, you midget. | #183 00:11:55: Заткнись, гном | verbatim |
+| 12 | Настя | Помолчи сейчас же, гном. | Be quiet right now, dwarf. | #183 00:11:55: гном | adapted: adapted |
 | 13 | Аня | Наверное, уже обнимается. | They are probably hugging each other already. | #185 00:12:02: Наверное, уже обнимается | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
@@ -37,5 +37,5 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Your Max probably came up with all of this, right?' Here the Russian phrasing highlights 'probably' before landing on 'yes'.
 - 'Of course it was Max.' In Russian, the idea of 'of course' flows naturally into 'Max' without extra filler words. Kostya answers right away.
 - 'Watch your mouth, you sheep.' Here the Russian phrasing highlights 'behind' before landing on 'sheep'.
-- 'Shut up, you midget.' Nastya anchors the line on 'shut up', while 'dwarf' completes the thought.
-- 'They are probably hugging each other already.' Notice the reflexive suffix on the verb meaning 'to hug each other', turning the action back on the subject.
+- 'Be quiet right now, dwarf.' Notice how Russian puts 'to be quiet' and 'dwarf' together in a short, direct phrase where word endings show how the ideas connect.
+- 'They are probably hugging each other already.' Here Max anchors the thought on 'probably' and finishes on 'to hug each other, to embrace', keeping the spoken rhythm brisk and natural.

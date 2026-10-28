@@ -1,14 +1,14 @@
 ID = 'kukhnya-s06e16-scene-11'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 16
 SCENE = 11
 TITLE = "Обвинение Насти  (Nastya's Accusation)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'nastya': 'anja'}
-LABELS = {'anya': 'Костя', 'nastya': 'Настя'}
-SOURCE_NAME = "Кухня (Kukhnya) S6.16"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "kostya": "anja", "nastya": "angelina"}
+LABELS = {"kostya": "Костя", "nastya": "Настя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S6.16'
 SOURCE_FILE = 'sources/kukhnya/s06/e16.ru.srt'
 
 INTRO = "Furious at what she overheard from the models, Nastya confronts Kostya in the corridor and accuses him of cheating on her during his night shift. When Kostya swears that it was actually Louis who went to the model's room, Nastya refuses to believe a word of it."
@@ -16,16 +16,16 @@ INTRO = "Furious at what she overheard from the models, Nastya confronts Kostya 
 STORY = [
     ('nastya', 'Как ты можешь смотреть мне в глаза?', 'How can you look me in the eyes?', [(163, 'Как ты можешь смотреть мне в глаза и улыбаться')], 'adapted'),
     ('nastya', 'Скажи, как ты мог мне изменить?', 'Tell me, how could you cheat on me?', [(165, 'как ты мог')], 'adapted'),
-    ('anya', 'Подожди, о чём ты сейчас говоришь?', 'Wait, what are you talking about right now?', [(166, 'Что ты')], 'adapted'),
+    ('kostya', 'Подожди, о чём ты сейчас говоришь?', 'Wait, what are you talking about right now?', [(166, 'Что ты')], 'adapted'),
     ('nastya', 'Я сама только что всё слышала!', 'I just heard everything myself!', [(167, 'Я слышала')], 'adapted'),
     ('nastya', 'Эта модель ходила с барменом в номер!', 'That model went to a room with the bartender!', [(167, 'что она ходила с барменом в номер')], 'adapted'),
-    ('anya', 'Да это не я был, Настя!', 'That was not me, Nastya!', [(169, 'Да не я был, Настя')], 'adapted'),
-    ('anya', 'Клянусь тебе, это вчера был Луи.', 'I swear to you, that was Louis yesterday.', [(169, 'это был Луи')], 'adapted'),
+    ('kostya', 'Да это не я был, Настя!', 'That was not me, Nastya!', [(169, 'Да не я был, Настя')], 'adapted'),
+    ('kostya', 'Клянусь тебе, это вчера был Луи.', 'I swear to you, that was Louis yesterday.', [(169, 'это был Луи')], 'adapted'),
     ('nastya', 'Какой ещё Луи, что ты врёшь?', 'What do you mean Louis, why are you lying?', [(170, 'Какой Луи')], 'adapted'),
-    ('anya', 'Я вчера вечером захотел в туалет.', 'Last night I needed to go to the restroom.', [(171, 'Я захотел в туалет')], 'adapted'),
-    ('anya', 'Попросил его немного присмотреть за баром.', 'I asked him to watch the bar for a bit.', [(172, 'Попросил его присмотреть за баром')], 'adapted'),
-    ('anya', 'А он за этой моделью присмотрел!', 'And he watched over that model instead!', [(173, 'А он за этой моделью и присмотрел')], 'adapted'),
-    ('anya', 'Это чистая правда, поверь мне, Настя!', 'This is the honest truth, believe me, Nastya!', [(175, 'Правда чистая, Настя')], 'adapted'),
+    ('kostya', 'Я вчера вечером захотел в туалет.', 'Last night I needed to go to the restroom.', [(171, 'Я захотел в туалет')], 'adapted'),
+    ('kostya', 'Попросил его немного присмотреть за баром.', 'I asked him to watch the bar for a bit.', [(172, 'Попросил его присмотреть за баром')], 'adapted'),
+    ('kostya', 'А он за этой моделью присмотрел!', 'And he watched over that model instead!', [(173, 'А он за этой моделью и присмотрел')], 'adapted'),
+    ('kostya', 'Это чистая правда, поверь мне, Настя!', 'This is the honest truth, believe me, Nastya!', [(175, 'Правда чистая, Настя')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Since everyone thinks Louis is gay, Nastya laughs bitterly at Kostya's excuse and storms off in tears. See you in the next scene."
-CLOSING = ('anya', 'Это вчера был Луи.')
+OUTRO = "Since everyone thinks Louis is gay, Nastya laughs bitterly at Kostya's excuse and storms off in tears. Until next time!"
+CLOSING = ("kostya", "До свидания!")

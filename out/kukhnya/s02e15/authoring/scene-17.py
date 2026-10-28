@@ -1,15 +1,15 @@
-ID = "kukhnya-s02e15-scene-17"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e15-scene-17'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 15
 SCENE = 17
 TITLE = "Признание Ильи ради Саши  (Ilya's Confession for Sasha's Sake)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'sasha': 'anja', 'nagiyev': 'angelina'}
-LABELS = {'anya': 'Макс', 'sasha': 'Саша', 'nagiyev': 'Нагиев'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.15"
-SOURCE_FILE = "sources/kukhnya/s02/e15.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "nagiyev": "angelina", "sasha": "anja"}
+LABELS = {"anya": "Макс", "nagiyev": "Нагиев", "sasha": "Саша"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.15'
+SOURCE_FILE = 'sources/kukhnya/s02/e15.ru.srt'
 
 INTRO = "Just as Max is forced to pack his things, Ilya dramatically steps in and confesses to Nagiyev that he took the money and planted it in Max's locker himself. Turning to Sasha, Ilya declares that he did it out of desperate love, hoping she would return to him once Max was gone."
 
@@ -33,7 +33,7 @@ OPENER = "Let's walk back through the scene line by line."
 
 WALK = [
     (0, None, "'I am the one who did it.' Max anchors the line on 'this', while 'I' completes the thought."),
-    (1, None, "'Lavrov did not steal your money.' Russian expresses 'having' with the preposition 'by' plus the genitive pronoun and 'money'. Dmitry answers right away."),
+    (1, None, "'Lavrov did not steal your money.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'."),
     (2, None, "'Dmitry Vladimirovich, please forgive me.' The grammar packs 'Dmitry' and 'me' into a tight, idiomatic kitchen exchange."),
     (3, None, "'I wanted this so badly.' Max brings out the contrast between 'I' and 'very' in a few short words."),
     (4, None, "'I thought that if he were no longer working here.' Notice how Russian expresses 'what' and 'will' with crisp inflection rather than helper words. Dmitry answers right away."),
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Let's hear the full exchange one more time at natural speed."
-
-OUTRO = "When you watch Scene 17 of Episode 15, listen out for the exchange around ilya's confession for sasha's sake — you will recognize every Russian phrase right away. See you in the next scene."
-CLOSING = ('anya', 'Раз деньги на месте.')
+OUTRO = 'That wraps up this scene as suddenly Ilya confesses to Nagiyev in front of everyone that he planted the money to get Max fired so Sasha would come back to him. Until next time!'
+CLOSING = ("anya", "До встречи!")

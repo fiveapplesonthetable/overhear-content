@@ -1,15 +1,15 @@
-ID = "kukhnya-s02e09-scene-08"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e09-scene-08'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 9
 SCENE = 8
-TITLE = 'Прощальная записка и блюдо  (The Farewell Note and the Dish)'
+TITLE = "Прощальная записка и блюдо  (The Farewell Note and the Dish)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja'}
-LABELS = {'anya': 'Макс', 'chef': 'Шеф'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.09"
-SOURCE_FILE = "sources/kukhnya/s02/e09.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "chef": "anja"}
+LABELS = {"anya": "Макс", "chef": "Шеф"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.09'
+SOURCE_FILE = 'sources/kukhnya/s02/e09.ru.srt'
 
 INTRO = 'Still worried that Chef Barinov is planning something drastic with the poisonous fugu fish, Max sneaks into the office pretending to ask about a salary raise. On the desk, he spots a dramatic note about not being able to breathe without an answer, mistaking the love letter for a suicide note.'
 
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Let's hear the complete conversation once more."
-
-OUTRO = 'When you watch Scene 8 of Episode 9, listen out for the exchange around the farewell note and the dish — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('anya', 'Приятного аппетита.')
+OUTRO = "That wraps up this scene as max sneaks into the Chef's office under the pretext of asking about a raise and spots the poetic noteChef Barinov wrote to accompany his fugu dish for Elena. See you next time!"
+CLOSING = ("anya", "Пока!")

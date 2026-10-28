@@ -33,7 +33,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Wait, is all of this because of Vika right now?' The grammar packs 'wait' and 'Vika' into a tight, idiomatic kitchen exchange.
 - 'Are you afraid that she will fire both of us?' Katya brings out the contrast between 'you' and 'are afraid' in a few short words. Max answers right away.
 - 'I am not worried for myself, but for you.' The negative particle sits right before the verb meaning 'I worry' to negate the statement.
-- 'I do not want you to be left without a job.' Notice the reflexive suffix on the verb meaning 'to remain', turning the action back on the subject.
+- 'I do not want you to be left without a job.' Notice how Russian puts 'want' and 'job, work' together in a short, direct phrase where word endings show how the ideas connect.
 - 'Thank you so much for worrying about me.' Katya addresses the listener with the informal singular 'you' alongside 'you worry'. Max answers right away.
 - 'Well great, now I am tangled up even worse.' Max anchors the line on 'come on', while 'more strongly' completes the thought.
 - 'Chef, did you show her who is boss in the kitchen?' Here the Russian phrasing highlights 'Chef Barinov' before landing on 'kitchen'.

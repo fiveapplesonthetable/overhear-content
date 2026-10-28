@@ -1,31 +1,31 @@
 ID = 'kukhnya-s05e06-scene-14'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 6
 SCENE = 14
-TITLE = 'Оправдание Арсения Чуганина  (The Vindication of Arseny Chuganin)'
+TITLE = "Оправдание Арсения Чуганина  (The Vindication of Arseny Chuganin)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'ainura': 'anja', 'lyova': 'angelina'}
-LABELS = {'anya': 'Сеня', 'ainura': 'Айнура', 'lyova': 'Лёва'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.06"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "senya": "angelina"}
+LABELS = {"senya": "Сеня"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.06'
 SOURCE_FILE = 'sources/kukhnya/s05/e06.ru.srt'
 
 INTRO = 'Continuing his dramatic reveal, Senya explains that Ainura carried the empty boxes out of the cooler and leads everyone to the courtyard dumpsters—where the missing sturgeon is found inside the box, spoiled but never stolen.'
 
 STORY = [
-    ('anya', 'Что и требовалось доказать, как говорится.', 'Which was to be proved, as the saying goes.', [(221, 'и требовалось доказать, как говорится')], 'adapted'),
-    ('anya', 'Далее судьба нашей рыбы попала в руки Айнуры.', "Next, the fate of our fish fell into Ainura's hands.", [(222, 'Далее, судьба нашей рыбы попала в руки Айнуры')], 'adapted'),
-    ('anya', 'Она вытащила пустые коробки из холодильника.', 'She pulled the empty boxes out of the cooler.', [(223, 'вытащила пустые коробки из холодильника')], 'adapted'),
-    ('anya', 'Куда ты дела коробки из холодильника?', 'What did you do with the boxes from the cooler?', [(225, 'куда ты делала коробки из холодильника')], 'adapted'),
-    ('ainura', 'В мусорку выкинула.', 'I threw them into the trash bin.', [(226, 'Мусорку выкинула')], 'adapted'),
-    ('anya', 'Посмотри, что лежит в коробке, которую ты выбросила.', 'Look at what is lying in the box that you threw away.', [(228, 'посмотри, что лежит в коробке, которую ты выбросила')], 'adapted'),
-    ('ainura', 'Тут точно рыба, только она воняет!', 'There really is a fish here, only it stinks!', [(230, 'Тут точно рыба'), (231, 'Только она воняет')], 'adapted'),
-    ('anya', 'Итак, пропавшая севрюга найдена.', 'And so, the missing stellate sturgeon is found.', [(232, 'Итак, пропавшая севрюга найдена')], 'adapted'),
-    ('anya', 'Протухшая, но никем не украденная.', 'Spoiled, but stolen by no one.', [(233, 'Протухшая, но никем не украденная')], 'adapted'),
-    ('lyova', 'Отсюда какой вывод?', 'What is the conclusion from this?', [(234, 'Отсюда вывод')], 'adapted'),
-    ('anya', 'Самое главное, что Арсений не виновен.', 'The most important thing is that Arseny is not guilty.', [(235, 'Но самое главное, что Арсений'), (235, 'не виновен')], 'adapted'),
-    ('anya', 'Аплодисментов не надо, можно просто извиниться.', 'No applause needed, you can simply apologize.', [(236, 'Аплодисментов не надо, можно просто извиниться')], 'adapted'),
+    ('senya', 'Что и требовалось доказать, как говорится.', 'Which was to be proved, as the saying goes.', [(221, 'и требовалось доказать, как говорится')], 'adapted'),
+    ('senya', 'Далее судьба нашей рыбы попала в руки Айнуры.', "Next, the fate of our fish fell into Ainura's hands.", [(222, 'Далее, судьба нашей рыбы попала в руки Айнуры')], 'adapted'),
+    ('senya', 'Она вытащила пустые коробки из холодильника.', 'She pulled the empty boxes out of the cooler.', [(223, 'вытащила пустые коробки из холодильника')], 'adapted'),
+    ('senya', 'Куда ты дела коробки из холодильника?', 'What did you do with the boxes from the cooler?', [(225, 'куда ты делала коробки из холодильника')], 'adapted'),
+    ('senya', 'В мусорку выкинула.', 'I threw them into the trash bin.', [(226, 'Мусорку выкинула')], 'adapted'),
+    ('senya', 'Посмотри, что лежит в коробке, которую ты выбросила.', 'Look at what is lying in the box that you threw away.', [(228, 'посмотри, что лежит в коробке, которую ты выбросила')], 'adapted'),
+    ('senya', 'Тут точно рыба, только она воняет!', 'There really is a fish here, only it stinks!', [(230, 'Тут точно рыба'), (231, 'Только она воняет')], 'adapted'),
+    ('senya', 'Итак, пропавшая севрюга найдена.', 'And so, the missing stellate sturgeon is found.', [(232, 'Итак, пропавшая севрюга найдена')], 'adapted'),
+    ('senya', 'Протухшая, но никем не украденная.', 'Spoiled, but stolen by no one.', [(233, 'Протухшая, но никем не украденная')], 'adapted'),
+    ('senya', 'Отсюда какой вывод?', 'What is the conclusion from this?', [(234, 'Отсюда вывод')], 'adapted'),
+    ('senya', 'Самое главное, что Арсений не виновен.', 'The most important thing is that Arseny is not guilty.', [(235, 'Но самое главное, что Арсений'), (235, 'не виновен')], 'adapted'),
+    ('senya', 'Аплодисментов не надо, можно просто извиниться.', 'No applause needed, you can simply apologize.', [(236, 'Аплодисментов не надо, можно просто извиниться')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Cleared of all suspicion, Senya basks in his triumph while Lyova apologizes for accusing him. See you in the next scene.'
-CLOSING = ('lyova', 'Прости, Сеня, ты был прав.')
+OUTRO = 'Cleared of all suspicion, Senya basks in his triumph while Lyova apologizes for accusing him. See you next time!'
+CLOSING = ("senya", "До свидания!")

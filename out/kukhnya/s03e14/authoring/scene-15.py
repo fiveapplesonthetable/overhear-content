@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e14-scene-15'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 14
 SCENE = 15
 TITLE = "Благословение Шефа и торг  (The Chef's Blessing and Haggling)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja', 'katya': 'angelina'}
-LABELS = {'anya': 'Макс', 'chef': 'Шеф', 'katya': 'Катя'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.14"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "anya": "alisa", "katya": "angelina"}
+LABELS = {"chef": "Шеф", "anya": "Макс", "katya": "Катя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.14'
 SOURCE_FILE = 'sources/kukhnya/s03/e14.ru.srt'
 
 INTRO = 'In front of Katya, Chef Barinov warmly blesses the young couple and wishes them love and happiness. Realizing Barinov is calling his bluff, Stas sends Katya for ice and immediately lowers his price! Listen to the Russian scene first.'
@@ -35,7 +35,7 @@ WALK = [
     (0, None, "'Therefore I bless you from the bottom of my heart.' Notice how Russian expresses 'therefore' and 'you' with crisp inflection rather than helper words. Max answers right away."),
     (1, None, "'Wait, pops, in what sense?' Here the Russian phrasing highlights 'wait' before landing on 'sense'."),
     (2, None, "'You are simply such a wonderful couple!' The meaning hinges on 'you' working together with 'couple' in spoken Russian."),
-    (3, None, "'Looking at you two immediately gladdens the eye.' Notice the reflexive suffix on the verb meaning 'rejoices', turning the action back on the subject. Katya answers right away."),
+    (3, None, "'Looking at you two immediately gladdens the eye.' Here Chef Barinov anchors the thought on 'look, watch' and finishes on 'rejoices / is gladdened', keeping the spoken rhythm brisk and natural."),
     (4, None, "'Dad, are you speaking seriously right now, really?' The meaning hinges on 'dad' working together with 'really' in spoken Russian."),
     (5, None, "'Katya, bring me a little ice, please.' In Russian, the idea of 'Katya' flows naturally into 'some ice' without extra filler words."),
     (6, None, "'I need to have a word with your father.' Spoken Russian keeps this brisk, leaning on 'to me' and finishing on 'need'."),
@@ -48,5 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Barinov's reverse psychology works like a charm, and he leads Stas to his office to pay him ninety thousand rubles (minus the ten thousand Stas already pocketed). Let's hear Scene Sixteen."
-CLOSING = ('chef', 'Вы такая чудесная пара!')
+OUTRO = "Barinov's reverse psychology works like a charm, and he leads Stas to his office to pay him ninety thousand rubles (minus the ten thousand Stas already pocketed). Let's hear Scene Sixteen. Until next time!"
+CLOSING = ("chef", "До завтра!")

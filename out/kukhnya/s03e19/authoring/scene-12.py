@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e19-scene-12'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 19
 SCENE = 12
 TITLE = "Мастерство Родиона и приглашение Еве  (Rodion's Mastery and the Invitation to Eva)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'eva': 'anja', 'rodion': 'angelina'}
-LABELS = {'anya': 'Макс', 'eva': 'Ева', 'rodion': 'Родион'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.19"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "eva": "angelina", "rodion": "anja"}
+LABELS = {"anya": "Макс", "eva": "Ева", "rodion": "Родион"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.19'
 SOURCE_FILE = 'sources/kukhnya/s03/e19.ru.srt'
 
 INTRO = "While Rodion amazes Chef Barinov by cooking the Provençal dish with dazzling technique, Max invites Eva to his apartment for dinner after their shift—planning to invite Vika there too so he can expose their 'test'!"
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'With Eva taking the bait and Rodion plating a masterpiece, both plots head toward an explosive evening.'
-CLOSING = ('eva', 'Увидимся сегодня вечером после смены.')
+OUTRO = 'With Eva taking the bait and Rodion plating a masterpiece, both plots head toward an explosive evening. See you next time!'
+CLOSING = ("eva", "Увидимся сегодня вечером после смены.")

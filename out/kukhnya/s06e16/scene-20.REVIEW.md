@@ -12,16 +12,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 |---|---|---|---|---|---|
 | 1 | Елена | Что это сейчас на сцене было? | What was that on the stage just now? | #301 00:23:15: Наше шоу закончилось. Что это было | adapted: adapted |
 | 2 | Елена | Почему он попросил меня там пить? | Why did he ask me to drink up there? | #302 00:23:17: Почему он меня попросил пить | adapted: adapted |
-| 3 | Аня | А кто их знает, этих шведов? | Who knows with those Swedes? | #303 00:23:19: А кто их знает, этих шведов | adapted: adapted |
-| 4 | Аня | Думает, что русские просто любят пить. | He thinks that Russians simply love to drink. | #304 00:23:22: Может, он думает, что русские просто любят пить | adapted: adapted |
-| 5 | Аня | Зато у тебя есть платье мечты! | At least you have the dress of your dreams! | #305 00:23:25: у тебя есть платье твоей мечты | adapted: adapted |
-| 6 | Аня | Я пойду, мне много готовить надо. | I will go, I have a lot of cooking to do. | #306 00:23:28: Я пойду, мне еще для банкета много делать | adapted: adapted |
+| 3 | Шеф | А кто их знает, этих шведов? | Who knows with those Swedes? | #303 00:23:19: А кто их знает, этих шведов | adapted: adapted |
+| 4 | Шеф | Думает, что русские просто любят пить. | He thinks that Russians simply love to drink. | #304 00:23:22: Может, он думает, что русские просто любят пить | adapted: adapted |
+| 5 | Шеф | Зато у тебя есть платье мечты! | At least you have the dress of your dreams! | #305 00:23:25: у тебя есть платье твоей мечты | adapted: adapted |
+| 6 | Шеф | Я пойду, мне много готовить надо. | I will go, I have a lot of cooking to do. | #306 00:23:28: Я пойду, мне еще для банкета много делать | adapted: adapted |
 | 7 | Елена | Витя, большое спасибо тебе за платье. | Vitya, thank you very much for the dress. | #308 00:23:33: спасибо за платье | adapted: adapted |
 | 8 | Елена | Я выйду в нём за тебя замуж. | I will marry you in it. | #309 00:23:35: Я выйду в нем за тебя | adapted: adapted |
-| 9 | Аня | Ну не смотри на меня так! | Well do not look at me like that! | #313 00:23:53: Ну, не смотри на меня так | adapted: adapted |
+| 9 | Шеф | Ну не смотри на меня так! | Well do not look at me like that! | #313 00:23:53: Ну, не смотри на меня так | adapted: adapted |
 | 10 | Елена | Виктор Петрович, к вам пришёл инспектор Мишлен! | Viktor Petrovich, the Michelin inspector has come to see you! | #315 00:23:58: Виктор Петрович, к вам инспектор Мишлен | adapted: adapted |
-| 11 | Инспектор | Здравствуйте, меня зовут инспектор Алексей Смолин. | Hello, my name is Inspector Alexey Smolin. | #316 00:24:02: Здравствуйте, Виктор Петрович. Меня зовут Алексей Смолин | adapted: adapted |
-| 12 | Инспектор | Сегодня я проверяю ваш новый ресторан. | Today I am inspecting your new restaurant. | #317 00:24:04: ваш ресторан | adapted: adapted |
+| 11 | Елена | Здравствуйте, меня зовут инспектор Алексей Смолин. | Hello, my name is Inspector Alexey Smolin. | #316 00:24:02: Здравствуйте, Виктор Петрович. Меня зовут Алексей Смолин | adapted: adapted |
+| 12 | Елена | Сегодня я проверяю ваш новый ресторан. | Today I am inspecting your new restaurant. | #317 00:24:04: ваш ресторан | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

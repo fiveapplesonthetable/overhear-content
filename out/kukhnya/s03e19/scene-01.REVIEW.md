@@ -36,4 +36,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Allow me to introduce myself, my name is Rodion Sergeyevich.' Notice how Russian expresses 'to allow' and 'Rodion' with crisp inflection rather than helper words.
 - 'I am a connoisseur of leftovers from this wonderful establishment.' The grammar packs 'I' and 'establishment' into a tight, idiomatic kitchen exchange.
 - 'Viktoriya, what, do you feed homeless people in the courtyard here?' Spoken Russian keeps this brisk, leaning on 'you' and finishing on 'to feed'.
-- 'I beg your pardon, but I have a hot lunch right now.' Russian expresses 'having' with the preposition 'by' plus the genitive pronoun and 'lunch'.
+- 'I beg your pardon, but I have a hot lunch right now.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.

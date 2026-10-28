@@ -1,18 +1,21 @@
 {
+ "schemaVersion": 1,
  "id": "kukhnya-s02e18-scene-16",
  "pair": "ru-en",
+ "show": "kukhnya",
+ "season": 2,
+ "episode": 18,
+ "scene": 16,
  "title": "Отец Насти нападает на Шефа  (Nastya's Father Tackles the Chef)",
  "level": "A1 — Duolingo Section 2",
  "voices": {
   "narrator": "sky",
-  "anya": "alisa",
-  "vika": "anja",
-  "nastya": "angelina"
+  "nastya": "angelina",
+  "chef": "anja"
  },
  "labels": {
-  "anya": "Шеф",
-  "vika": "Вика",
-  "nastya": "Настя"
+  "nastya": "Настя",
+  "chef": "Шеф"
  },
  "segments": [
   {
@@ -21,12 +24,12 @@
    "gap": 0.8
   },
   {
-   "v": "anya",
+   "v": "chef",
    "t": "И исправить уже ничего нельзя.",
    "gap": 0.55
   },
   {
-   "v": "vika",
+   "v": "nastya",
    "t": "Потому что я не буду повторять свои ошибки.",
    "gap": 0.55
   },
@@ -36,12 +39,12 @@
    "gap": 0.55
   },
   {
-   "v": "anya",
+   "v": "chef",
    "t": "У нас на кухне.",
    "gap": 0.55
   },
   {
-   "v": "vika",
+   "v": "nastya",
    "t": "Вот он, с пакетом!",
    "gap": 0.55
   },
@@ -51,27 +54,27 @@
    "gap": 0.55
   },
   {
-   "v": "anya",
+   "v": "chef",
    "t": "Виктор Петрович, это вы?",
    "gap": 0.55
   },
   {
-   "v": "vika",
+   "v": "nastya",
    "t": "Где моя дочь?",
    "gap": 0.55
   },
   {
    "v": "nastya",
-   "t": "Сволочь усатая!",
+   "t": "Отвечай, где моя дочь?",
    "gap": 0.55
   },
   {
-   "v": "anya",
+   "v": "chef",
    "t": "Какая дочь?",
    "gap": 0.55
   },
   {
-   "v": "vika",
+   "v": "nastya",
    "t": "Настя где?",
    "gap": 0.55
   },
@@ -81,7 +84,7 @@
    "gap": 0.55
   },
   {
-   "v": "anya",
+   "v": "chef",
    "t": "В общем-то.",
    "gap": 0.9
   },
@@ -91,7 +94,7 @@
    "gap": 0.4
   },
   {
-   "v": "anya",
+   "v": "chef",
    "t": "И исправить уже ничего нельзя.",
    "gap": 0.55
   },
@@ -101,7 +104,7 @@
    "gap": 0.4
   },
   {
-   "v": "vika",
+   "v": "nastya",
    "t": "Потому что я не буду повторять свои ошибки.",
    "gap": 0.55
   },
@@ -121,7 +124,7 @@
    "gap": 0.4
   },
   {
-   "v": "anya",
+   "v": "chef",
    "t": "У нас на кухне.",
    "gap": 0.55
   },
@@ -131,7 +134,7 @@
    "gap": 0.4
   },
   {
-   "v": "vika",
+   "v": "nastya",
    "t": "Вот он, с пакетом!",
    "gap": 0.55
   },
@@ -151,7 +154,7 @@
    "gap": 0.4
   },
   {
-   "v": "anya",
+   "v": "chef",
    "t": "Виктор Петрович, это вы?",
    "gap": 0.55
   },
@@ -161,7 +164,7 @@
    "gap": 0.4
   },
   {
-   "v": "vika",
+   "v": "nastya",
    "t": "Где моя дочь?",
    "gap": 0.55
   },
@@ -172,16 +175,16 @@
   },
   {
    "v": "nastya",
-   "t": "Сволочь усатая!",
+   "t": "Отвечай, где моя дочь?",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'You mustachioed bastard!' Notice how Russian expresses 'scoundrel' and 'friend' with crisp inflection rather than helper words. Chef Viktor answers right away.",
+   "t": "'Answer me, where is my daughter?' Nastya pairs 'answer' with 'daughter' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.",
    "gap": 0.4
   },
   {
-   "v": "anya",
+   "v": "chef",
    "t": "Какая дочь?",
    "gap": 0.55
   },
@@ -191,7 +194,7 @@
    "gap": 0.4
   },
   {
-   "v": "vika",
+   "v": "nastya",
    "t": "Настя где?",
    "gap": 0.55
   },
@@ -211,7 +214,7 @@
    "gap": 0.4
   },
   {
-   "v": "anya",
+   "v": "chef",
    "t": "В общем-то.",
    "gap": 0.55
   },
@@ -221,12 +224,12 @@
    "gap": 0.9
   },
   {
-   "v": "anya",
+   "v": "chef",
    "t": "И исправить уже ничего нельзя.",
    "gap": 0.5
   },
   {
-   "v": "vika",
+   "v": "nastya",
    "t": "Потому что я не буду повторять свои ошибки.",
    "gap": 0.5
   },
@@ -236,12 +239,12 @@
    "gap": 0.5
   },
   {
-   "v": "anya",
+   "v": "chef",
    "t": "У нас на кухне.",
    "gap": 0.5
   },
   {
-   "v": "vika",
+   "v": "nastya",
    "t": "Вот он, с пакетом!",
    "gap": 0.5
   },
@@ -251,27 +254,27 @@
    "gap": 0.5
   },
   {
-   "v": "anya",
+   "v": "chef",
    "t": "Виктор Петрович, это вы?",
    "gap": 0.5
   },
   {
-   "v": "vika",
+   "v": "nastya",
    "t": "Где моя дочь?",
    "gap": 0.5
   },
   {
    "v": "nastya",
-   "t": "Сволочь усатая!",
+   "t": "Отвечай, где моя дочь?",
    "gap": 0.5
   },
   {
-   "v": "anya",
+   "v": "chef",
    "t": "Какая дочь?",
    "gap": 0.5
   },
   {
-   "v": "vika",
+   "v": "nastya",
    "t": "Настя где?",
    "gap": 0.5
   },
@@ -281,18 +284,18 @@
    "gap": 0.5
   },
   {
-   "v": "anya",
+   "v": "chef",
    "t": "В общем-то.",
    "gap": 0.9
   },
   {
    "v": "narrator",
-   "t": "When you watch Scene 16 of Episode 18, listen out for the exchange around nastya's father tackles the chef — you will recognize every Russian phrase right away. See you in the next scene.",
+   "t": "That wraps up this scene as spotting Chef Barinov carrying a plastic bag in the restaurant, Nastya's father mistakes him for the kidnapper and tackles him until Nastya runs out to stop the fight. See you next time!",
    "gap": 0.5
   },
   {
-   "v": "anya",
-   "t": "В общем-то.",
+   "v": "chef",
+   "t": "До свидания!",
    "gap": 0.3
   }
  ],
@@ -343,7 +346,7 @@
    {
     "line": 8,
     "cue": 284,
-    "fragment": "Сволочь усатая"
+    "fragment": "Где моя дочь"
    },
    {
     "line": 9,
@@ -366,9 +369,5 @@
     "fragment": "в общем-то"
    }
   ]
- },
- "show": "kukhnya",
- "season": 2,
- "episode": 18,
- "scene": 16
+ }
 }

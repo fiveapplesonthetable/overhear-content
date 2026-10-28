@@ -10,17 +10,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Во-первых, между нами ничего не было. | First of all, there was nothing between us. | #74 00:04:53: Во-первых, между нами ничего не было | adapted: adapted |
-| 2 | Аня | Во-вторых, мне нужен повар. | Second of all, I need a cook. | #75 00:04:57: Во-вторых, мне нужен повар | adapted: adapted |
-| 3 | Аня | В-третьих, у меня отличное настроение. | Third of all, I am in a great mood. | #76 00:05:01: В-третьих, у меня отличное настроение | adapted: adapted |
-| 4 | Аня | Короче, он будет здесь работать. | In short, he will work here. | #78 00:05:06: Короче, он будет здесь работать | adapted: adapted |
+| 1 | Шеф | Во-первых, между нами ничего не было. | First of all, there was nothing between us. | #74 00:04:53: Во-первых, между нами ничего не было | adapted: adapted |
+| 2 | Шеф | Во-вторых, мне нужен повар. | Second of all, I need a cook. | #75 00:04:57: Во-вторых, мне нужен повар | adapted: adapted |
+| 3 | Шеф | В-третьих, у меня отличное настроение. | Third of all, I am in a great mood. | #76 00:05:01: В-третьих, у меня отличное настроение | adapted: adapted |
+| 4 | Шеф | Короче, он будет здесь работать. | In short, he will work here. | #78 00:05:06: Короче, он будет здесь работать | adapted: adapted |
 | 5 | Вика | Шеф, а что вы такой радостный? | Chef, why are you so cheerful? | #80 00:05:14: Шеф, а что это | adapted: adapted |
-| 6 | Аня | Я победил, наказал одного олигарха в покер. | I won, I beat an oligarch at poker. | #83 00:05:22: Я победил<br>#84 00:05:23: Наказал одного олигарха в покер | adapted: adapted |
+| 6 | Шеф | Я победил, наказал одного олигарха в покер. | I won, I beat an oligarch at poker. | #83 00:05:22: Я победил<br>#84 00:05:23: Наказал одного олигарха в покер | adapted: adapted |
 | 7 | Вика | Шеф, и много вы выиграли? | Chef, and did you win a lot? | #85 00:05:26: Шеф, и много вы выиграли | adapted: adapted |
-| 8 | Аня | А вот и мой выигрыш. | And here are my winnings. | #88 00:05:34: А вот и мой выигрыш | adapted: adapted |
-| 9 | Гость | Говядина в коробках, свинина в тушах, забирайте. | Beef in boxes, pork in carcasses, take them. | #90 00:05:40: Говядина в коробках, свинина в тушах<br>#89 00:05:38: Забирайте | adapted: adapted |
-| 10 | Аня | Не понял, а деньги где? | I do not understand, where is the money? | #91 00:05:44: Не понял. Деньги где | adapted: adapted |
-| 11 | Гость | С деньгами сейчас туго, забирайте. | Money is tight right now, take the meat. | #92 00:05:46: сейчас туго<br>#93 00:05:49: Забирайте | adapted: adapted |
+| 8 | Шеф | А вот и мой выигрыш. | And here are my winnings. | #88 00:05:34: А вот и мой выигрыш | adapted: adapted |
+| 9 | Шеф | Говядина в коробках, свинина в тушах, забирайте. | Beef in boxes, pork in carcasses, take them. | #90 00:05:40: Говядина в коробках, свинина в тушах<br>#89 00:05:38: Забирайте | adapted: adapted |
+| 10 | Шеф | Не понял, а деньги где? | I do not understand, where is the money? | #91 00:05:44: Не понял. Деньги где | adapted: adapted |
+| 11 | Шеф | С деньгами сейчас туго, забирайте. | Money is tight right now, take the meat. | #92 00:05:46: сейчас туго<br>#93 00:05:49: Забирайте | adapted: adapted |
 | 12 | Вика | Шеф, да вы теперь мясной король. | Chef, you really are the meat king now. | #95 00:05:55: Шеф, да вы теперь мясной король | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)

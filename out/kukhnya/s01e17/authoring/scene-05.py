@@ -1,48 +1,46 @@
-ID = "kukhnya-s01e17-scene-05"
-SHOW = "kukhnya"
+# Authoring module for kukhnya-s01e17-scene-05.
+ID = 'kukhnya-s01e17-scene-05'
+SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 17
 SCENE = 5
 TITLE = "Сезонное меню  (Seasonal menu)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {"narrator": "sky", "anya": "alisa", "viktor": "anja", "max": "angelina"}
-LABELS = {"anya": "Anya", "viktor": "Viktor", "max": "Max"}
-SOURCE_NAME = "Кухня (Kukhnya) S1.17"
-SOURCE_FILE = "sources/kukhnya/s01/e17.ru.dual.srt"
-
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "anya": "alisa"}
+LABELS = {"chef": "Шеф", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S1.17'
+SOURCE_FILE = 'sources/kukhnya/s01/e17.ru.dual.srt'
 INTRO = "Chef Viktor gathers the kitchen staff to make an important announcement about the menu. He explains the new contest for a seasonal dish. Let's listen closely to their conversation in Russian first, and then walk through each line together."
-OPENER = "Let's walk through it together."
-TRANSITION = "Now listen to the whole scene again."
-OUTRO = "The chefs enthusiastically agree and get ready to cook."
+OPENER = "Now let's go back through the exchange around Seasonal menu line by line and unpack how the Russian works."
+TRANSITION = "Now listen to the whole scene again. Now let's listen to the whole conversation again from start to finish."
+OUTRO = "The chefs enthusiastically agree and get ready to cook. Next time you watch the episode, listen for the Russian expressions for 'advertisement' and 'necessary' — you will catch every word right away. See you next time!"
 CLOSING = ("anya", "До свидания.")
-
 STORY = [
-    ("viktor", "У меня объявление.", "I have an announcement.", [(63, "У меня объявление.")], ""),
-    ("viktor", "Нужно сезонное блюдо.", "We need a seasonal dish.", [(64, "Для нашего меню нужно сезонное блюдо от шефа.")], ""),
-    ("max", "Шеф, подождите.", "Chef, wait.", [(65, "Шеф, шеф, шеф, шеф, шеф, подождите.")], ""),
-    ("max", "Вы же говорили, что не будете придумывать.", "You said you wouldn't come up with it.", [(66, "Подождите, а вы же говорили, что никогда не будете придумывать сезонных блюд.")], ""),
-    ("viktor", "А я и не буду.", "And I won't be.", [(68, "А я и не буду.")], ""),
-    ("viktor", "Будете вы.", "You will.", [(68, "Будете вы.")], ""),
-    ("viktor", "Победитель получит премию.", "The winner gets a bonus.", [(69, "чье блюдо войдет в меню, получит премию,")], ""),
-    ("viktor", "И я не буду называть его инвалидом.", "And I won't call him disabled.", [(70, "и целую неделю я не буду называть того инвалидом.")], ""),
-    ("max", "А премия сразу?", "And the bonus is right away?", [(71, "А премия сразу или в конце месяца?")], ""),
-    ("viktor", "Премия в конце месяца.", "The bonus is at the end of the month.", [(71, "Премия в конце месяца.")], ""),
-    ("viktor", "Но инвалидом перестану называть сразу.", "But I'll stop calling you disabled right away.", [(72, "Но инвалидом перестану называть сразу.")], ""),
-    ("max", "Все поняли. Да, шеф!", "Everyone understood. Yes, Chef!", [(73, "Все инвалиды поняли. Да, шеф!")], "")
+    ('chef', 'У меня объявление.', 'I have an announcement.', [(63, 'У меня объявление.')], ''),
+    ('chef', 'Нужно сезонное блюдо.', 'We need a seasonal dish.', [(64, 'Для нашего меню нужно сезонное блюдо от шефа.')], ''),
+    ('anya', 'Шеф, подождите.', 'Chef, wait.', [(65, 'Шеф, шеф, шеф, шеф, шеф, подождите.')], ''),
+    ('anya', 'Вы же говорили, что не будете придумывать.', "You said you wouldn't come up with it.", [(66, 'Подождите, а вы же говорили, что никогда не будете придумывать сезонных блюд.')], ''),
+    ('chef', 'А я и не буду.', "And I won't be.", [(68, 'А я и не буду.')], ''),
+    ('chef', 'Будете вы.', 'You will.', [(68, 'Будете вы.')], ''),
+    ('chef', 'Победитель получит премию.', 'The winner gets a bonus.', [(69, 'чье блюдо войдет в меню, получит премию,')], ''),
+    ('chef', 'И я не буду называть его инвалидом.', "And I won't call him disabled.", [(70, 'и целую неделю я не буду называть того инвалидом.')], ''),
+    ('anya', 'А премия сразу?', 'And the bonus is right away?', [(71, 'А премия сразу или в конце месяца?')], ''),
+    ('chef', 'Премия в конце месяца.', 'The bonus is at the end of the month.', [(71, 'Премия в конце месяца.')], ''),
+    ('chef', 'Но инвалидом перестану называть сразу.', "But I'll stop calling you disabled right away.", [(72, 'Но инвалидом перестану называть сразу.')], ''),
+    ('anya', 'Все поняли. Да, шеф!', 'Everyone understood. Yes, Chef!', [(73, 'Все инвалиды поняли. Да, шеф!')], ''),
 ]
-
 WALK = [
-    (0, "У меня объявление.", "'...I have an announcement.' Viktor tells the kitchen staff."),
-    (1, "Нужно сезонное блюдо.", "'...We need a seasonal dish.' He says they need a new item."),
-    (2, "Шеф, подождите.", "'...Chef, wait.' Max interrupts him."),
-    (3, "Вы же говорили, что не будете придумывать.", "'...You said you wouldn't come up with it.' Max is confused by the news."),
-    (4, "А я и не буду.", "'...And I won't be.' Viktor clarifies the situation."),
-    (5, "Будете вы.", "'...You will.' He points at the staff."),
-    (6, "Победитель получит премию.", "'...The winner gets a bonus.' He promises a reward for the winner."),
-    (7, "И я не буду называть его инвалидом.", "'...And I won't call him disabled.' Viktor offers a second prize."),
-    (8, "А премия сразу?", "'...And the bonus is right away?' Max asks eagerly."),
-    (9, "Премия в конце месяца.", "'...The bonus is at the end of the month.' Viktor clarifies the timeline."),
-    (10, "Но инвалидом перестану называть сразу.", "'...But I'll stop calling you disabled right away.' He will stop the insults immediately."),
-    (11, "Все поняли. Да, шеф!", "'...Everyone understood. Yes, Chef!' Max confirms they accept the challenge.")
+    (0, None, "'I have an announcement.' Chef Barinov uses the classic Russian possession phrasing — literally 'at me' rather than a verb meaning 'to have' around the word meaning 'advertisement'."),
+    (1, None, "'We need a seasonal dish.' Russian omits the present-tense verb 'to be' here, linking 'necessary' directly with 'seasonal', combining 'necessary' with 'seasonal' and 'dish'."),
+    (2, None, "'Chef, wait.' Max leads with the direct command form meaning 'wait' to make the point directly in conversation."),
+    (3, None, "'You said you wouldn' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
+    (4, None, "'And I won't be.' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'will be'."),
+    (5, None, "'You will.' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'will be'."),
+    (6, None, "'The winner gets a bonus.' The phrasing opens with 'winner' before bringing in 'will get' and 'bonus' to make the point clear."),
+    (7, None, "'And I won' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
+    (8, None, "'And the bonus is right away?' Max turns a statement into a question purely through rising intonation on the word meaning 'bonus', followed by 'at once'."),
+    (9, None, "'The bonus is at the end of the month.' Russian omits the present-tense verb 'to be' here, linking 'bonus' directly with 'end', combining 'bonus' with 'end' and 'months'."),
+    (10, None, "'But I'll stop calling you disabled right away.' The phrasing opens with 'disabled person' before bringing in 'will stop' and 'to call' to make the point clear."),
+    (11, None, "'Everyone understood. Yes, Chef!' Max confirms they accept the challenge."),
 ]

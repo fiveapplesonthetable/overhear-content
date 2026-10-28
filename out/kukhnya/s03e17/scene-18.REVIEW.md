@@ -32,7 +32,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Wait a minute and listen to me carefully.' The grammar packs 'wait' and 'carefully' into a tight, idiomatic kitchen exchange.
 - 'If we look at it honestly, I am bankrupt too.' The grammar packs 'if' and 'bankrupt' into a tight, idiomatic kitchen exchange.
 - 'Well what now, should we shoot ourselves every day?' Dmitry Nagiyev brings out the contrast between 'come on' and 'what' in a few short words.
-- 'So do not be offended with me, my friend.' Notice the reflexive suffix on the verb meaning 'be offended', turning the action back on the subject.
+- 'So do not be offended with me, my friend.' Notice how Russian puts 'be offended' and 'friend' together in a short, direct phrase where word endings show how the ideas connect.
 - 'I really do not need a dead body in my restaurant right now.' Notice how Russian expresses 'corpse' and 'needed' with crisp inflection rather than helper words.
 - 'Calmly hand over your little pistol here.' Here the Russian phrasing highlights 'come on' before landing on 'little pistol'. Max answers right away.
 - 'At times we no longer have the strength to fight them.' Max brings out the contrast between 'at times' and 'we' in a few short words.

@@ -1,15 +1,15 @@
-ID = "kukhnya-s02e17-scene-04"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e17-scene-04'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 17
 SCENE = 4
-TITLE = 'Извинения Макса за ревность  (Max Apologizes for His Jealousy)'
+TITLE = "Извинения Макса за ревность  (Max Apologizes for His Jealousy)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'kostya': 'anja', 'nastya': 'angelina'}
-LABELS = {'anya': 'Макс', 'kostya': 'Костя', 'nastya': 'Настя'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.17"
-SOURCE_FILE = "sources/kukhnya/s02/e17.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "kostya": "anja", "nastya": "angelina"}
+LABELS = {"anya": "Макс", "kostya": "Костя", "nastya": "Настя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.17'
+SOURCE_FILE = 'sources/kukhnya/s02/e17.ru.srt'
 
 INTRO = 'At the restaurant bar, Max finds Kostya looking exhausted and sincerely apologizes for his jealous outburst over Ilya the previous evening. Racked with guilt, Kostya pours Max a stiff drink and claims he saw nothing unusual with Sasha.'
 
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Now let's put it all back together and hear the whole scene again."
-
-OUTRO = 'When you watch Scene 4 of Episode 17, listen out for the exchange around max apologizes for his jealousy — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('anya', 'Послушай, Макс.')
+OUTRO = 'That wraps up this scene as at the bar, Max apologizes to a guilt-ridden Kostya for making a scene over Ilya the night before, while Nastya hands Max a drink to cheer him up. See you next time!'
+CLOSING = ("anya", "До завтра!")

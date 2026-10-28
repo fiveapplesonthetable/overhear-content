@@ -10,7 +10,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Вика | Да кто тебя тянул за язык? Я бы сама справилась. | Who pulled your tongue? I would have handled it myself. | #49 00:03:39: Да кто тебя тянул за язык<br>#50 00:03:42: Я бы сама справилась | adapted: adapted |
+| 1 | Нагиев | Да кто тебя тянул за язык? Я бы сама справилась. | Who pulled your tongue? I would have handled it myself. | #49 00:03:39: Да кто тебя тянул за язык<br>#50 00:03:42: Я бы сама справилась | adapted: adapted |
 | 2 | Нагиев | Да, я разберусь. Всё будет нормально. | Yes, I will sort it out. Everything will be fine. | #51 00:03:45: Да, я разберусь<br>#52 00:03:46: Все будет нормально | adapted: adapted |
 | 3 | Нагиев | Зачем жену уважаемого человека обидела, а? | Why did you offend the wife of an important man, huh? | #56 00:03:57: Зачем жену | adapted: adapted |
 | 4 | Нагиев | Попроще никого не могла выбрать? | Couldn't you pick someone simpler? | #57 00:04:00: Попроще никого не могла выбрать | verbatim |

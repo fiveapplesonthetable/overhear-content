@@ -10,16 +10,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Ваша честь, у меня есть важная улика! | Your Honor, I have an important piece of evidence! | #181 00:17:54: Ваша честь, у меня есть улика | adapted: adapted |
-| 2 | Аня | В тот вечер на вас был этот ремень? | Were you wearing this belt on that evening? | #182 00:17:58: вечер на вас был вот этот ремень | adapted: adapted |
-| 3 | Аня | Значит, штаны просто-напросто сами могли упасть! | That means the pants could have simply fallen down by themselves! | #184 00:18:07: что штаны просто-напросто могли упасть | adapted: adapted |
-| 4 | Аня | Ну вот, теперь всё отлично сходится! | Well there, now everything fits together perfectly! | #185 00:18:10: Ну вот, все сходится | adapted: adapted |
+| 1 | Костя | Ваша честь, у меня есть важная улика! | Your Honor, I have an important piece of evidence! | #181 00:17:54: Ваша честь, у меня есть улика | adapted: adapted |
+| 2 | Костя | В тот вечер на вас был этот ремень? | Were you wearing this belt on that evening? | #182 00:17:58: вечер на вас был вот этот ремень | adapted: adapted |
+| 3 | Костя | Значит, штаны просто-напросто сами могли упасть! | That means the pants could have simply fallen down by themselves! | #184 00:18:07: что штаны просто-напросто могли упасть | adapted: adapted |
+| 4 | Костя | Ну вот, теперь всё отлично сходится! | Well there, now everything fits together perfectly! | #185 00:18:10: Ну вот, все сходится | adapted: adapted |
 | 5 | Настя | Костя, не позорься, это же твой ремень! | Kostya, do not embarrass yourself, that is your belt! | #187 00:18:19: Костя, не позорься, это твой ремень | adapted: adapted |
-| 6 | Аня | Тогда мы вызываем нашего первого свидетеля. | Then we call our first witness. | #189 00:18:24: Тогда мы вызываем первого свидетеля | adapted: adapted |
-| 7 | Аня | Макс, не волнуйся, я его уже подкупил. | Max, do not worry, I already bribed him. | #191 00:18:30: я его подкупил | adapted: adapted |
-| 8 | Сеня | Значит, тем вечером всё было именно так. | So, that evening everything happened just like this. | #193 00:18:34: Значит, все было так | adapted: adapted |
-| 9 | Сеня | Саша сама полезла целоваться к нашему Максу. | Sasha threw herself at our Max to kiss him. | #194 00:18:37: Саша сама полезла целоваться | adapted: adapted |
-| 10 | Сеня | Потом Вика зашла и всё неправильно поняла. | Then Vika walked in and misunderstood everything. | #197 00:18:45: Потом Вика зашла, все неправильно поняла | adapted: adapted |
+| 6 | Костя | Тогда мы вызываем нашего первого свидетеля. | Then we call our first witness. | #189 00:18:24: Тогда мы вызываем первого свидетеля | adapted: adapted |
+| 7 | Костя | Макс, не волнуйся, я его уже подкупил. | Max, do not worry, I already bribed him. | #191 00:18:30: я его подкупил | adapted: adapted |
+| 8 | Настя | Значит, тем вечером всё было именно так. | So, that evening everything happened just like this. | #193 00:18:34: Значит, все было так | adapted: adapted |
+| 9 | Настя | Саша сама полезла целоваться к нашему Максу. | Sasha threw herself at our Max to kiss him. | #194 00:18:37: Саша сама полезла целоваться | adapted: adapted |
+| 10 | Настя | Потом Вика зашла и всё неправильно поняла. | Then Vika walked in and misunderstood everything. | #197 00:18:45: Потом Вика зашла, все неправильно поняла | adapted: adapted |
 | 11 | Настя | Виктория Сергеевна, не волнуйтесь, я подкупила свидетеля. | Victoria Sergeyevna, do not worry, I bribed the witness. | #199 00:18:51: Я подкупила свидетеля | adapted: adapted |
 | 12 | Настя | Ваша честь, я тоже вызываю этого свидетеля! | Your Honor, I also call this witness! | #200 00:18:54: Ваша честь, я тоже вызываю свидетеля | adapted: adapted |
 

@@ -1,30 +1,30 @@
 ID = 'kukhnya-s03e08-scene-09'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 8
 SCENE = 9
-TITLE = 'Испорченный костюм и одежда для гольфа  (A Ruined Suit and Golf Clothes)'
+TITLE = "Испорченный костюм и одежда для гольфа  (A Ruined Suit and Golf Clothes)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'elena': 'anja', 'ainura': 'angelina'}
-LABELS = {'anya': 'Шеф', 'elena': 'Елена', 'ainura': 'Айнура'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.08"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "elena": "angelina"}
+LABELS = {"chef": "Шеф", "elena": "Елена"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.08'
 SOURCE_FILE = 'sources/kukhnya/s03/e08.ru.srt'
 
 INTRO = "In a desperate bid to skip meeting Elena's friends, Chef Barinov gets Ainura to spill sauce all over his suit. Unfortunately, Elena says he won't need a suit where they are going."
 
 STORY = [
-    ('ainura', 'Ой, простите, шеф, я испортила вам костюм.', 'Oh, forgive me, Chef, I ruined your suit.', [(125, 'Ой, простите, шеф, я испортила вам костюм')], 'adapted'),
-    ('anya', 'Разве это ты сейчас испортила?', 'Did you really ruin it just now?', [(126, 'Разве ты испортила')], 'adapted'),
-    ('anya', 'Вот теперь точно испортила, спасибо, Айнура.', 'Now you definitely ruined it, thank you, Ainura.', [(127, 'Вот, вот это испортила')], 'adapted'),
-    ('anya', 'Лена, ну и куда я к приличным людям в таком виде?', 'Lena, well how can I go to respectable people looking like this?', [(129, 'к приличным людям в таком виде')], 'adapted'),
+    ('elena', 'Ой, простите, шеф, я испортила вам костюм.', 'Oh, forgive me, Chef, I ruined your suit.', [(125, 'Ой, простите, шеф, я испортила вам костюм')], 'adapted'),
+    ('chef', 'Разве это ты сейчас испортила?', 'Did you really ruin it just now?', [(126, 'Разве ты испортила')], 'adapted'),
+    ('chef', 'Вот теперь точно испортила, спасибо, Айнура.', 'Now you definitely ruined it, thank you, Ainura.', [(127, 'Вот, вот это испортила')], 'adapted'),
+    ('chef', 'Лена, ну и куда я к приличным людям в таком виде?', 'Lena, well how can I go to respectable people looking like this?', [(129, 'к приличным людям в таком виде')], 'adapted'),
     ('elena', 'Да, в таком виде точно никуда.', 'Yes, looking like that, definitely nowhere.', [(130, 'точно никуда')], 'adapted'),
-    ('anya', 'Вот и я тебе говорю об этом.', 'That is just what I am telling you about.', [(131, 'Вот и я об этом')], 'adapted'),
+    ('chef', 'Вот и я тебе говорю об этом.', 'That is just what I am telling you about.', [(131, 'Вот и я об этом')], 'adapted'),
     ('elena', 'К счастью, там, куда мы едем, костюм тебе не понадобится.', 'Fortunately, where we are going, you will not need a suit.', [(131, 'К счастью, там, куда мы едем, костюм тебе не понадобится')], 'adapted'),
-    ('anya', 'Лена, я чувствую себя полным идиотом.', 'Lena, I feel like a complete idiot.', [(133, 'Я чувствую себя идиотом')], 'adapted'),
-    ('anya', 'Причём идиотом, который так странно оделся.', 'And what is more, an idiot who dressed so strangely.', [(134, 'который оделся')], 'adapted'),
+    ('chef', 'Лена, я чувствую себя полным идиотом.', 'Lena, I feel like a complete idiot.', [(133, 'Я чувствую себя идиотом')], 'adapted'),
+    ('chef', 'Причём идиотом, который так странно оделся.', 'And what is more, an idiot who dressed so strangely.', [(134, 'который оделся')], 'adapted'),
     ('elena', 'Перестань, здесь все так одеты, и у тебя стройные ноги.', 'Stop it, everyone is dressed like that here, and you have slender legs.', [(135, 'все так одеты. Кроме того, у тебя очень стройные ноги')], 'adapted'),
-    ('anya', 'Могу я сначала сходить в туалет?', 'May I go to the restroom first?', [(138, 'Могу я сходить в туалет')], 'adapted'),
+    ('chef', 'Могу я сначала сходить в туалет?', 'May I go to the restroom first?', [(138, 'Могу я сходить в туалет')], 'adapted'),
     ('elena', 'Конечно, можешь, только давай быстро.', 'Of course you may, just make it quick.', [(139, 'Можешь')], 'adapted'),
 ]
 
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Dressed in knee-high socks and a polo shirt, Chef Barinov sneaks toward the clubhouse bar hoping to catch the football broadcast.'
-CLOSING = ('anya', 'Могу я сходить в туалет?')
+OUTRO = 'Dressed in knee-high socks and a polo shirt, Chef Barinov sneaks toward the clubhouse bar hoping to catch the football broadcast. Until next time!'
+CLOSING = ("chef", "Увидимся!")

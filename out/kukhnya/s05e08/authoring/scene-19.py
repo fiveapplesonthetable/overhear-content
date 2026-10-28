@@ -1,20 +1,20 @@
 ID = 'kukhnya-s05e08-scene-19'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 8
 SCENE = 19
-TITLE = 'Макс заступается за Вику  (Max Stands Up for Vika)'
+TITLE = "Макс заступается за Вику  (Max Stands Up for Vika)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'mikhail': 'anja', 'chef': 'angelina'}
-LABELS = {'anya': 'Макс', 'mikhail': 'Михаил', 'chef': 'Шеф'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.08"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "mikhail": "anja", "anya": "alisa"}
+LABELS = {"mikhail": "Михаил", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.08'
 SOURCE_FILE = 'sources/kukhnya/s05/e08.ru.srt'
 
 INTRO = "In the final scene, Yulya is back with the sheikh and Katya is safe in her father's arms. When Mikhail storms into the kitchen and yells at pregnant Vika over the tomato incident, Max steps up to defend his wife."
 
 STORY = [
-    ('chef', 'Думаю, шейх нас простит.', 'I think the sheikh will forgive us.', [(201, 'Думаю, шейх нас простит')], 'adapted'),
+    ('mikhail', 'Думаю, шейх нас простит.', 'I think the sheikh will forgive us.', [(201, 'Думаю, шейх нас простит')], 'adapted'),
     ('anya', 'По-любому простит.', 'He will definitely forgive us.', [(202, 'По-любому')], 'adapted'),
     ('mikhail', 'Имейте в виду, за этот инцидент вы ответите лично.', 'Keep in mind, you will answer for this incident personally.', [(206, 'Имейте в виду, за этот инцидент вы ответите лично')], 'adapted'),
     ('mikhail', 'Виктория, может, вам в декрет пора?', 'Victoria, maybe it is time for you to go on maternity leave?', [(207, 'Виктория, может, вам в декрет пора')], 'adapted'),
@@ -22,9 +22,9 @@ STORY = [
     ('mikhail', 'Чисти картошку, мальчик, ты хоть знаешь, кто я?', 'Peel potatoes, boy, do you even know who I am?', [(209, 'чисти картошку'), (211, 'Мальчик, ты хоть знаешь, кто я')], 'adapted'),
     ('anya', 'Я никуда не пойду, пока ты не извинишься перед Викой.', 'I am not going anywhere until you apologize to Vika.', [(210, 'Я никуда не пойду, пока ты не извинишься перед Викой')], 'adapted'),
     ('mikhail', 'Ты уволен!', 'You are fired!', [(212, 'Уволен')], 'adapted'),
-    ('chef', 'Джекович, иди-ка ты в свой отель, весь ресторан уже достал.', 'Dzhekovich, go back to your hotel, you have fed up the whole restaurant already.', [(212, 'Джекович, иди-ка ты в свой отель'), (213, 'Весь ресторан уже сегодня достал')], 'adapted'),
+    ('mikhail', 'Джекович, иди-ка ты в свой отель, весь ресторан уже достал.', 'Dzhekovich, go back to your hotel, you have fed up the whole restaurant already.', [(212, 'Джекович, иди-ка ты в свой отель'), (213, 'Весь ресторан уже сегодня достал')], 'adapted'),
     ('mikhail', 'Я всё напишу в докладной.', 'I will write everything in an official report.', [(214, 'Я все напишу в докладной')], 'adapted'),
-    ('chef', 'И не забудь упомянуть про помидор.', 'And do not forget to mention the tomato.', [(215, 'И не забудь упомянуть про помидор')], 'adapted'),
+    ('mikhail', 'И не забудь упомянуть про помидор.', 'And do not forget to mention the tomato.', [(215, 'И не забудь упомянуть про помидор')], 'adapted'),
     ('anya', 'Долг каждого мужчины — защищать свою женщину.', 'The duty of every man is to protect his woman.', [(217, 'Долг каждого мужчины защищать свою женщину')], 'adapted'),
 ]
 
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Episode eight of Kukhnya season five ends on a touching note as Vika feels Max's protection and love, and Kostya and Nastya celebrate their new car. See you next time."
-CLOSING = ('anya', 'С первых секунд и до последнего вздоха.')
+OUTRO = "Episode eight of Kukhnya season five ends on a touching note as Vika feels Max's protection and love, and Kostya and Nastya celebrate their new car. Until next time!"
+CLOSING = ("anya", "Всего хорошего!")

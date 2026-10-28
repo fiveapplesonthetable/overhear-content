@@ -10,12 +10,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Врач сказал, что всё в порядке. | The doctor said that everything is fine. | #193 00:11:59: все в порядке | adapted: adapted |
-| 2 | Света | Я никуда не пойду, я страшная. | I am not going anywhere, I look terrible. | #195 00:12:03: Не пойду<br>#196 00:12:05: Я страшная | adapted: adapted |
-| 3 | Аня | Перестань, не говори сейчас глупую ерунду. | Stop it, do not talk foolish nonsense right now. | #197 00:12:08: Перестань<br>#198 00:12:14: Не говори ерунду | adapted: adapted |
-| 4 | Аня | Поехали домой, а мне на работу. | Let us go home, and I have to go to work. | #198 00:12:14: Поехали домой<br>#199 00:12:25: Мне на работу надо | adapted: adapted |
-| 5 | Света | Слушай, ты мне что-то сказать хотел? | Listen, did you want to tell me something? | #201 00:12:32: Ты мне что-то сказать хотел | adapted: adapted |
-| 6 | Аня | Ладно, ничего страшного, скажу тебе потом. | Alright, it is nothing serious, I will tell you later. | #202 00:12:34: Ладно, потом | adapted: adapted |
+| 1 | Денис | Врач сказал, что всё в порядке. | The doctor said that everything is fine. | #193 00:11:59: все в порядке | adapted: adapted |
+| 2 | Настя | Я никуда не пойду, я страшная. | I am not going anywhere, I look terrible. | #195 00:12:03: Не пойду<br>#196 00:12:05: Я страшная | adapted: adapted |
+| 3 | Денис | Перестань, не говори сейчас глупую ерунду. | Stop it, do not talk foolish nonsense right now. | #197 00:12:08: Перестань<br>#198 00:12:14: Не говори ерунду | adapted: adapted |
+| 4 | Денис | Поехали домой, а мне на работу. | Let us go home, and I have to go to work. | #198 00:12:14: Поехали домой<br>#199 00:12:25: Мне на работу надо | adapted: adapted |
+| 5 | Настя | Слушай, ты мне что-то сказать хотел? | Listen, did you want to tell me something? | #201 00:12:32: Ты мне что-то сказать хотел | adapted: adapted |
+| 6 | Денис | Ладно, ничего страшного, скажу тебе потом. | Alright, it is nothing serious, I will tell you later. | #202 00:12:34: Ладно, потом | adapted: adapted |
 | 7 | Настя | Ну что, Костя, ты всё выяснил? | Well then, Kostya, did you find out everything? | #203 00:12:40: Ну, что выяснил | adapted: adapted |
 | 8 | Настя | Так и знала, что толку нет. | I knew there would be no use from you. | #206 00:12:49: Так и знала, что от тебя никакого толку | adapted: adapted |
 | 9 | Настя | Ладно, я уже поговорила с мамой. | Alright, I already talked with my mom. | #207 00:12:52: Ладно, все нормально. Я поговорила с мамой | adapted: adapted |

@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e20-scene-01'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 20
 SCENE = 1
-TITLE = 'Всадник и падение с лошади  (The Horseman and Falling off the Horse)'
+TITLE = "Всадник и падение с лошади  (The Horseman and Falling off the Horse)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja'}
-LABELS = {'anya': 'Макс', 'vika': 'Вика'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.20"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "vika": "angelina"}
+LABELS = {"anya": "Макс", "vika": "Вика"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.20'
 SOURCE_FILE = 'sources/kukhnya/s03/e20.ru.srt'
 
 INTRO = 'Welcome to Episode Twenty, the Season Three finale. Desperate to win Vika back, Max rides into the courtyard on a white horse to propose—gets thrown off when she refuses, and wakes up in the hospital claiming he lost two years of memory!'
@@ -46,9 +46,9 @@ WALK = [
     (10, None, "'Where did you run away to? To what job interview?' Vika addresses the listener with the informal singular 'you' alongside 'job interview'."),
     (11, None, "'When I ran out of the apartment, you smashed a vase.' The meaning hinges on 'when' working together with 'broke' in spoken Russian."),
     (12, None, "'I remember how we met at the club.' Spoken Russian keeps this brisk, leaning on 'I' and finishing on 'in a club'."),
-    (13, None, "'I spent the night at your place and ran off to apply for a job.' Russian expresses 'having' with the preposition 'by' plus the genitive pronoun and 'work'."),
+    (13, None, "'I spent the night at your place and ran off to apply for a job.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'."),
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Vika stares at Max in disbelief as he claims to remember nothing after their very first morning together two years ago.'
-CLOSING = ('anya', 'Я просто на собеседование опоздал.')
+OUTRO = 'Vika stares at Max in disbelief as he claims to remember nothing after their very first morning together two years ago. Until next time!'
+CLOSING = ("anya", "До завтра!")

@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Миша, не стоит он того. | Misha, he is not worth it. | #27 00:02:07: Миша, не стоит он того | adapted: adapted |
+| 1 | Михаил | Миша, не стоит он того. | Misha, he is not worth it. | #27 00:02:07: Миша, не стоит он того | adapted: adapted |
 | 2 | Михаил | Да ты ничего не понимаешь. | You do not understand anything. | #28 00:02:09: Да ты не понимаешь | adapted: adapted |
 | 3 | Михаил | Я за Элеонорой полжизни бегал. | I chased after Eleonora for half my life. | #29 00:02:10: полжизни бегал | adapted: adapted |
-| 4 | Аня | Мы с тобой хорошо выпили. | You and I had a good drink together. | #31 00:02:23: мы с тобой выпили | adapted: adapted |
-| 5 | Аня | Мы даже в казино сходили. | We even went to the casino. | #32 00:02:25: В казино сходили | adapted: adapted |
-| 6 | Аня | Может, уже поедем домой? | Maybe we should go home already? | #34 00:02:28: Ну, может, домой | adapted: adapted |
+| 4 | Михаил | Мы с тобой хорошо выпили. | You and I had a good drink together. | #31 00:02:23: мы с тобой выпили | adapted: adapted |
+| 5 | Михаил | Мы даже в казино сходили. | We even went to the casino. | #32 00:02:25: В казино сходили | adapted: adapted |
+| 6 | Михаил | Может, уже поедем домой? | Maybe we should go home already? | #34 00:02:28: Ну, может, домой | adapted: adapted |
 | 7 | Михаил | Нет, это была только репетиция. | No, that was only a rehearsal. | #34 00:02:28: Нет, это была только репетиция | adapted: adapted |
-| 8 | Аня | А ты его адрес знаешь? | Do you know his address? | #36 00:02:36: Адрес знаешь | adapted: adapted |
+| 8 | Михаил | А ты его адрес знаешь? | Do you know his address? | #36 00:02:36: Адрес знаешь | adapted: adapted |
 | 9 | Михаил | Нет, у меня в отеле записано. | No, I have it written down at the hotel. | #36 00:02:36: Нет, у меня где-то в отеле записано | adapted: adapted |
 | 10 | Михаил | Давай заедем в наш отель. | Let's stop by our hotel. | #37 00:02:40: Давай заедем в отель | adapted: adapted |
 | 11 | Михаил | Спасибо тебе большое, Витя. | Thank you very much, Vitya. | #39 00:02:49: Спасибо тебе | adapted: adapted |
-| 12 | Аня | Ты главное отдыхай и сил набирайся. | Just rest and gather your strength. | #43 00:03:03: Ты главное отдыхай, сил набирайся | adapted: adapted |
+| 12 | Михаил | Ты главное отдыхай и сил набирайся. | Just rest and gather your strength. | #43 00:03:03: Ты главное отдыхай, сил набирайся | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

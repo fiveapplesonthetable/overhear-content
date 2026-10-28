@@ -10,16 +10,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Слушай, неплохое место. Вкусно было? | Listen, not a bad place. Was it tasty? | #84 00:06:33: Слушай, неплохое место | adapted: adapted |
+| 1 | Гость | Слушай, неплохое место. Вкусно было? | Listen, not a bad place. Was it tasty? | #84 00:06:33: Слушай, неплохое место | adapted: adapted |
 | 2 | Елена | Хороший ресторан, хороший шеф-повар. | A good restaurant, and a good head chef. | #85 00:06:35: Хороший ресторан, хороший | adapted: adapted |
 | 3 | Елена | А то как же? | You bet it is. | #86 00:06:37: А то | adapted: adapted |
 | 4 | Елена | Виктор Баринов. | Viktor Barinov. | #87 00:06:39: Виктор Баринов | adapted: adapted |
-| 5 | Аня | Подожди, не тут ли это Баринов, с которым ты? | Wait, is that not the Barinov you were seeing? | #88 00:06:41: Подожди, не тут | adapted: adapted |
-| 6 | Аня | И вы снова вместе... | And the two of you are back together... | #89 00:06:45: И вы снова | adapted: adapted |
-| 7 | Аня | А это, случайно, не он? | And is that not him by any chance? | #90 00:06:52: А это, случайно | adapted: adapted |
+| 5 | Гость | Подожди, не тут ли это Баринов, с которым ты? | Wait, is that not the Barinov you were seeing? | #88 00:06:41: Подожди, не тут | adapted: adapted |
+| 6 | Гость | И вы снова вместе... | And the two of you are back together... | #89 00:06:45: И вы снова | adapted: adapted |
+| 7 | Гость | А это, случайно, не он? | And is that not him by any chance? | #90 00:06:52: А это, случайно | adapted: adapted |
 | 8 | Елена | Пойдем отсюда. | Let us get out of here. | #91 00:07:09: Пойдем отсюда | adapted: adapted |
-| 9 | Шеф | Мин, это просто шутка. | Lena, it is just a joke. | #92 00:07:13: Мин, это просто | adapted: adapted |
-| 10 | Шеф | Я в карты проиграл. | I lost at cards. | #93 00:07:17: Я в карты | adapted: adapted |
+| 9 | Гость | Мин, это просто шутка. | Lena, it is just a joke. | #92 00:07:13: Мин, это просто | adapted: adapted |
+| 10 | Гость | Я в карты проиграл. | I lost at cards. | #93 00:07:17: Я в карты | adapted: adapted |
 | 11 | Елена | Как мне это знакомо? Проиграл карты. | How familiar does that sound to me? Lost at cards. | #94 00:07:19: Как мне это | adapted: adapted |
 | 12 | Елена | Я, знаешь, почти поверила, что ты изменился. | You know, I almost believed that you had changed. | #95 00:07:21: Я, знаешь, почти | adapted: adapted |
 

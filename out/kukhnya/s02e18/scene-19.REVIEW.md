@@ -28,14 +28,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Lavrov, step into my office for a couple of words.' Max anchors the line on 'Lavrov', while 'of words' completes the thought.
 - 'Are you ready to become sous-chef instead of Lyova?' Chef Viktor anchors the line on 'ready', while 'Lyova' completes the thought.
-- 'Are you making fun of me?' In Russian, the idea of 'you' flows naturally into 'are you mocking' without extra filler words. Max answers right away.
+- 'Are you making fun of me?' In spoken Russian, the words stay in their normal statement order and Lyova's rising voice at the end turns the line into a question.
 - 'Not at all. You are young.' The grammar packs 'but' and 'young' into a tight, idiomatic kitchen exchange.
 - 'Look how quickly you think on your feet.' Spoken Russian keeps this brisk, leaning on 'he' and finishing on 'quickly'.
 - 'Lyova definitely could not have pulled that off.' Notice how Russian expresses 'Lyova' and 'to be able' with crisp inflection rather than helper words. Max answers right away.
 - 'Right where he belongs.' The meaning hinges on 'where' working together with 'station' in spoken Russian.
 - 'And Lyova will simply be a regular cook.' Notice how Russian expresses 'and' and 'cook' with crisp inflection rather than helper words.
 - 'No, Chef.' Lyova anchors the line on 'there is no', while 'chef' completes the thought. Max answers right away.
-- 'That is not right.' In Russian, the idea of 'this' flows naturally into 'wrongly' without extra filler words.
+- 'That is not right.' Max centers this short reply on 'wrongly, incorrectly', letting a few direct words carry the whole meaning.
 - 'Just in case.' Here the Russian phrasing highlights 'on' before landing on 'case'.
 - 'Kitchen, attention please!' The grammar packs 'kitchen' and 'attention' into a tight, idiomatic kitchen exchange. Max answers right away.
 - 'Oguzok has passed the test.' The grammar packs 'rookie' and 'inspection' into a tight, idiomatic kitchen exchange.

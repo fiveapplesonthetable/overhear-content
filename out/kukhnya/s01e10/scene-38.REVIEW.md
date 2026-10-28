@@ -1,41 +1,40 @@
-# kukhnya-s01e10-scene-38: review sheet
+# Ответ Вики  (Vika's Answer) — `kukhnya-s01e10-scene-38`
 
-Title: Ответ Вики  (Vika's Answer)
-Level: A1
-Pair: ru-en
-Source: Кухня s01e10
+**Source:** Кухня (Kukhnya) S1.10 · `sources/kukhnya/s01/e10.ru.dual.srt`  
+**Target level:** A1 — Duolingo Section 2
 
+## Cast
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+| Role | Voice | Label |
+|---|---|---|
+| `narrator` | sky | — |
+| `vika` | angelina | Вика |
+| `anya` | alisa | Макс |
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+## Part 1 — Intro
+
+> Stunned by Max's audacious public proposal, Victoria pauses to assess the situation. Rather than getting flustered, she looks him in the eye and boldly calls his bluff by accepting to marry him. Let's listen to their conversation in Russian.
+
+## Part 2 — Story
+
+| # | Speaker | Line | English | Source cue(s) | Change |
 |---|---|---|---|---|---|
-| 1 | Вика | Максим, ты думал, что я испугаюсь? | Maxim, did you think that I would get scared? | #275 00:19:26: Я согласна | adapted: challenging his bluff |
-| 2 | Макс | Я просто сделал тебе красивое предложение. | I simply made you a beautiful proposal. | #275 00:19:26: Я согласна | adapted: defending proposal |
-| 3 | Вика | Ты хотел проверить мою смелость сейчас? | You wanted to test my courage now? | #275 00:19:26: Я согласна | adapted: questioning motives |
-| 4 | Макс | Я готов создать с тобой крепкую семью. | I am ready to create a strong family with you. | #275 00:19:26: Я согласна | adapted: doubling down |
-| 5 | Вика | Ты уверен в своих громких словах? | Are you confident in your loud words? | #275 00:19:26: Я согласна | adapted: pressing Max |
-| 6 | Макс | Я абсолютно уверен в каждом своём слове! | I am absolutely confident in every word of mine! | #275 00:19:26: Я согласна | adapted: insisting firmly |
-| 7 | Вика | Тогда слушай мой честный ответ при всех. | Then listen to my honest answer in front of everyone. | #275 00:19:26: Я согласна | adapted: preparing answer |
-| 8 | Вика | Я согласна стать твоей законной женой! | I agree to become your lawful wife! | #275 00:19:26: Я согласна | adapted: accepting proposal |
-| 9 | Макс | Ты действительно сейчас говоришь чистую правду? | Are you really speaking the pure truth now? | #275 00:19:26: Я согласна | adapted: staring in shock |
-| 10 | Вика | Да, я принимаю твоё неожиданное предложение. | Yes, I accept your unexpected proposal. | #275 00:19:26: Я согласна | adapted: confirming acceptance |
-| 11 | Макс | Теперь мы станем настоящими женихом и невестой! | Now we will become real groom and bride! | #275 00:19:26: Я согласна | adapted: reacting to agreement |
-| 12 | Вика | Посмотрим, как ты справишься с этим, Максим! | We will see how you handle this, Maxim! | #275 00:19:26: Я согласна | adapted: challenging future |
-| 13 | Макс | Я готов ко всем трудностям нашей свадьбы! | I am ready for all the difficulties of our wedding! | #275 00:19:26: Я согласна | adapted: accepting challenge |
+| 0 | Вика | Максим, ты думал, что я испугаюсь? | Maxim, did you think that I would get scared? | #275 "Я согласна" |  |
+| 1 | Макс | Я просто сделал тебе красивое предложение. | I simply made you a beautiful proposal. | #275 "Я согласна" |  |
+| 2 | Вика | Ты хотел проверить мою смелость сейчас? | You wanted to test my courage now? | #275 "Я согласна" |  |
+| 3 | Макс | Я готов создать с тобой крепкую семью. | I am ready to create a strong family with you. | #275 "Я согласна" |  |
+| 4 | Вика | Ты уверен в своих громких словах? | Are you confident in your loud words? | #275 "Я согласна" |  |
+| 5 | Макс | Я абсолютно уверен в каждом своём слове! | I am absolutely confident in every word of mine! | #275 "Я согласна" |  |
+| 6 | Вика | Тогда слушай мой честный ответ при всех. | Then listen to my honest answer in front of everyone. | #275 "Я согласна" |  |
+| 7 | Вика | Я согласна стать твоей законной женой! | I agree to become your lawful wife! | #275 "Я согласна" |  |
+| 8 | Макс | Ты действительно сейчас говоришь чистую правду? | Are you really speaking the pure truth now? | #275 "Я согласна" |  |
+| 9 | Вика | Да, я принимаю твоё неожиданное предложение. | Yes, I accept your unexpected proposal. | #275 "Я согласна" |  |
+| 10 | Макс | Теперь мы станем настоящими женихом и невестой! | Now we will become real groom and bride! | #275 "Я согласна" |  |
+| 11 | Вика | Посмотрим, как ты справишься с этим, Максим! | We will see how you handle this, Maxim! | #275 "Я согласна" |  |
+| 12 | Макс | Я готов ко всем трудностям нашей свадьбы! | I am ready for all the difficulties of our wedding! | #275 "Я согласна" |  |
 
-## Walk-through narration (English only, no target-language words quoted)
+## Part 5 — Outro & closing
 
-- 'Maxim, did you think that I would get scared?' Direct address name with subject pronoun, past verb, subordinating conjunction, subject pronoun, and future reflexive verb.
-- 'I simply made you a beautiful proposal.' Subject pronoun with limiting particle, past verb, dative pronoun, and accusative adjective-noun phrase.
-- 'You wanted to test my courage now?' Subject pronoun with past modal verb, perfective infinitive, accusative possessive-noun phrase, and temporal adverb.
-- 'I am ready to create a strong family with you.' Subject pronoun with short adjective, infinitive, instrumental prepositional pronoun phrase, and accusative adjective-noun phrase.
-- 'Are you confident in your loud words?' Subject pronoun with short adjective, and locative prepositional possessive-adjective-noun phrase.
-- 'I am absolutely confident in every word of mine!' Subject pronoun with degree adverb, short adjective, and locative prepositional determinative-possessive-noun phrase.
-- 'Then listen to my honest answer in front of everyone.' Temporal connector with imperative verb, accusative possessive-adjective-noun phrase, and prepositional phrase.
-- 'I agree to become your lawful wife!' Subject pronoun with short adjective, infinitive copula, and instrumental possessive-adjective-noun predicate phrase.
-- 'Are you really speaking the pure truth now?' Subject pronoun with modal adverb, temporal adverb, present verb, and accusative adjective-noun phrase.
-- 'Yes, I accept your unexpected proposal.' Affirmative particle with subject pronoun, present transitive verb, and accusative possessive-adjective-noun phrase.
-- 'Now we will become real groom and bride!' Temporal adverb with subject pronoun, future copular verb, instrumental plural adjective, and coordinated predicate nouns.
-- 'We will see how you handle this, Maxim!' Future verb with subordinating interrogative adverb, subject pronoun, future verb, prepositional phrase, and vocative name.
-- 'I am ready for all the difficulties of our wedding!' Subject pronoun with short adjective, dative preposition, and dative plural determinative-noun-possessive-noun phrase.
+> Refusing to back down in front of her sister, Victoria calls Max's bluff by accepting his marriage proposal on the spot. Great work practicing conversational Russian! Next time you watch the episode, listen for the Russian expressions for 'absolutely' and 'to speak' — you will catch every word right away. See you next time!
+
+**Вика:** Пока!

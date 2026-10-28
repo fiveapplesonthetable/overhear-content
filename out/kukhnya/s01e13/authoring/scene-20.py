@@ -1,57 +1,52 @@
-ID = "kukhnya-s01e13-scene-20"
-SHOW = "kukhnya"
+# Authoring module for kukhnya-s01e13-scene-20.
+ID = 'kukhnya-s01e13-scene-20'
+SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 13
 SCENE = 20
 TITLE = "Разоблачение  (The Exposure)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {"narrator": "sky", "anya": "alisa", "nagiev": "anja"}
-LABELS = {"anya": "Вика", "nagiev": "Нагиев"}
-SOURCE_NAME = "Кухня (Kukhnya) S1.13"
-SOURCE_FILE = "sources/kukhnya/s01/e13.ru.dual.srt"
-SOURCE_NOTE = "Generated scene"
-
-INTRO = "In this scene focused on the exposure, nagiev confronts Vika about her fake excuse and forces her to pay for the trip herself. Let's listen closely to Vika and Dmitry Nagiyev's exchange in Russian first, and then walk through each line together."
-
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "nagiyev": "angelina"}
+LABELS = {"nagiyev": "Нагиев"}
+SOURCE_NAME = 'Кухня (Kukhnya) S1.13'
+SOURCE_FILE = 'sources/kukhnya/s01/e13.ru.dual.srt'
+INTRO = "Focused on the exposure, Nagiev confronts Vika about her fake excuse and forces her to pay for the trip herself. Let's listen closely to Vika and Dmitry Nagiyev's exchange in Russian first, and then walk through each line together."
+OPENER = "Now let's go back through the exchange around The Exposure line by line and unpack how the Russian works."
+TRANSITION = "Now let's listen to the conversation again without interruption."
+OUTRO = "Nagiev confronts Vika about her fake excuse and forces her to pay for the trip herself. Next time you watch the episode, listen for the Russian expressions for 'kind' and 'morning' — you will catch every word right away. See you next time!"
+CLOSING = ("nagiyev", "Пока!")
 STORY = [
-    ("anya", "Доброе утро, Дмитрий Владимирович.", "Good morning, Dmitry Vladimirovich.", [(269, "Доброе утро, Дмитрий Владимирович.")], ""),
-    ("nagiev", "Пожалуй, добрый день, Вика.", "I would say it is afternoon, Vika.", [(269, "Доброе утро, Дмитрий Владимирович.")], ""),
-    ("nagiev", "Почему, Вик, на выставку не улетели?", "Why didn't you fly out to the exhibition?", [(269, "Доброе утро, Дмитрий Владимирович.")], ""),
-    ("anya", "Так ее же отменили.", "It was cancelled.", [(269, "Доброе утро, Дмитрий Владимирович.")], ""),
-    ("anya", "Я звонила своим друзьям.", "I called my contacts.", [(269, "Доброе утро, Дмитрий Владимирович.")], ""),
-    ("nagiev", "Вам же звонил там какой-то предприниматель.", "Some businessman called you, right?", [(269, "Доброе утро, Дмитрий Владимирович.")], ""),
-    ("anya", "Какой?", "Who?", [(269, "Доброе утро, Дмитрий Владимирович.")], ""),
-    ("anya", "Да, звонил.", "Yeah, he called.", [(269, "Доброе утро, Дмитрий Владимирович.")], ""),
-    ("nagiev", "Сейчас скажем.", "Let's see.", [(269, "Доброе утро, Дмитрий Владимирович.")], ""),
-    ("nagiev", "Александр Дель Пьеро.", "Alexander Del Piero.", [(269, "Доброе утро, Дмитрий Владимирович.")], ""),
-    ("anya", "Сказал, что выставка отменяется.", "He said the exhibition was cancelled.", [(269, "Доброе утро, Дмитрий Владимирович.")], ""),
-    ("nagiev", "С московского телефона звонят?", "Was it a call from a Moscow number?", [(269, "Доброе утро, Дмитрий Владимирович.")], ""),
-    ("nagiev", "Да, вот номер.", "Yeah, here is the number.", [(269, "Доброе утро, Дмитрий Владимирович.")], ""),
-    ("nagiev", "Набирайте.", "Call it.", [(269, "Доброе утро, Дмитрий Владимирович.")], ""),
-    ("nagiev", "Я бы вас уволил.", "I would have fired you.", [(269, "Доброе утро, Дмитрий Владимирович.")], ""),
-    ("nagiev", "А так вы просто летите на выставку.", "As it is, you are going to the exhibition.", [(269, "Доброе утро, Дмитрий Владимирович.")], ""),
-    ("nagiev", "И за свой счет.", "And at your own expense.", [(269, "Доброе утро, Дмитрий Владимирович.")], "")
+    ('nagiyev', 'Доброе утро, Дмитрий Владимирович.', 'Good morning, Dmitry Vladimirovich.', [(280, 'дмитрий')], ''),
+    ('nagiyev', 'Пожалуй, добрый день, Вика.', 'I would say it is afternoon, Vika.', [], ''),
+    ('nagiyev', 'Почему, Вик, на выставку не улетели?', "Why didn't you fly out to the exhibition?", [(280, 'вик')], ''),
+    ('nagiyev', 'Так ее же отменили.', 'It was cancelled.', [(283, 'так')], ''),
+    ('nagiyev', 'Я звонила своим друзьям.', 'I called my contacts.', [(273, 'звонила')], ''),
+    ('nagiyev', 'Вам же звонил там какой-то предприниматель.', 'Some businessman called you, right?', [(274, 'вам')], ''),
+    ('nagiyev', 'Какой?', 'Who?', [(274, 'какой')], ''),
+    ('nagiyev', 'Да, звонил.', 'Yeah, he called.', [(274, 'звонил')], ''),
+    ('nagiyev', 'Сейчас скажем.', "Let's see.", [(276, 'сейчас')], ''),
+    ('nagiyev', 'Александр Дель Пьеро.', 'Alexander Del Piero.', [(276, 'александр')], ''),
+    ('nagiyev', 'Сказал, что выставка отменяется.', 'He said the exhibition was cancelled.', [(277, 'сказал')], ''),
+    ('nagiyev', 'С московского телефона звонят?', 'Was it a call from a Moscow number?', [(278, 'московского')], ''),
+    ('nagiyev', 'Да, вот номер.', 'Yeah, here is the number.', [(279, 'вот')], ''),
+    ('nagiyev', 'Набирайте.', 'Call it.', [(279, 'набирайте')], ''),
+    ('nagiyev', 'Я бы вас уволил.', 'I would have fired you.', [(281, 'вас')], ''),
+    ('nagiyev', 'А так вы просто летите на выставку.', 'As it is, you are going to the exhibition.', [(283, 'так')], ''),
+    ('nagiyev', 'И за свой счет.', 'And at your own expense.', [(283, 'свой')], ''),
 ]
-
-OPENER = "Let's review the scene step by step."
-
 WALK = [
-    (0, None, "'Good morning, Dmitry Vladimirovich.' -- Vika greets the restaurant owner very politely."),
-    (1, None, "'I would say it is afternoon, Vika.' -- He corrects her about the current time."),
-    (2, None, "'Why didn\'t you fly out to the exhibition?' -- He asks about her cancelled business trip."),
-    (3, None, "'It was cancelled. I called my contacts.' -- She repeats the fake story to him."),
-    (4, None, "'Some businessman called you, right?' -- Nagiev asks for details about the call."),
-    (5, None, "'Who? Yeah, he called.' -- Vika nervously confirms the fake conversation."),
-    (6, None, "'Let\'s see. Alexander Del Piero.' -- He reads the fake Italian name aloud."),
-    (7, None, "'He said the exhibition was cancelled.' -- She desperately tries to maintain the lie."),
-    (8, None, "'Was it a call from a Moscow number?' -- He catches her in a geographical lie."),
-    (9, None, "'Yeah, here is the number. Call it.' -- He challenges her to verify the caller."),
-    (10, None, "'Dmitry Vladimirovich. I hope you know what you\'re doing, Vik.' -- He expresses his deep disappointment in her."),
-    (11, None, "'If you hadn\'t done so much for our restaurant...' -- He reminds her of her past value."),
-    (12, None, "'I would have fired you. As it is...' -- He reveals his true anger at her.")
+    (0, None, "'Good morning, Dmitry Vladimirovich.' Russian omits the present-tense verb 'to be' here, linking 'good' directly with 'morning' to make the point directly in conversation."),
+    (1, None, "'I would say it is afternoon, Vika.' Russian omits the present-tense verb 'to be' here, linking 'good' directly with 'day', combining 'good' with 'day'."),
+    (2, None, "'Why didn't you fly out to the exhibition?' The phrasing opens with 'why' before bringing in 'exhibition' and 'to fly away' to make the point clear."),
+    (3, None, "'It was cancelled.' Vika delivers a punchy one-word reaction built around the Russian word meaning 'to cancel'."),
+    (4, None, "'I called my contacts.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
+    (5, None, "'Some businessman called you, right?' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
+    (6, None, "'Who?' Vika delivers a punchy one-word reaction built around the Russian word meaning 'what a'."),
+    (7, None, "'Yeah, he called.' Vika delivers a punchy conversational reaction built around the Russian word meaning 'called'."),
+    (8, None, "'Let's see.' Nagiyev puts the word for 'now' together with 'we'll say' in a crisp, natural spoken turn of phrase."),
+    (9, None, "'Alexander Del Piero.' Russian omits the present-tense verb 'to be' here, linking 'Alexander' directly with 'Del', combining 'Alexander' with 'Del' and 'Pierrot'."),
+    (10, None, "'He said the exhibition was cancelled.' Vika uses the action verb meaning 'said' to focus on the single completed result, pairing it with 'exhibition' and 'is canceled'."),
+    (11, None, "'Was it a call from a Moscow number?' Nagiyev turns a statement into a question purely through rising intonation on the word meaning 'Moscow', pairing it with 'phone' and 'call'."),
+    (12, None, "'Yeah, here is the number.' Nagiyev delivers a punchy one-word reaction built around the Russian word meaning 'number'. Now let's listen to the whole conversation again from start to finish."),
 ]
-
-TRANSITION = "Now let's listen to the conversation without interruption."
-OUTRO = "And that's it for this scene. When you watch the episode, listen out for the exchange around the exposure, and for the words meaning 'good' and 'morning'. You'll catch them now. See you next time."
-CLOSING = STORY[-1][:2]

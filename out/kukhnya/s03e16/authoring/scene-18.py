@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e16-scene-18'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 16
 SCENE = 18
 TITLE = "Гнев Нагиева после покера  (Nagiyev's Wrath After Poker)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'nagiyev': 'anja', 'chef': 'angelina'}
-LABELS = {'anya': 'Макс', 'nagiyev': 'Нагиев', 'chef': 'Шеф'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.16"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "nagiyev": "angelina", "anya": "alisa"}
+LABELS = {"chef": "Шеф", "nagiyev": "Нагиев", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.16'
 SOURCE_FILE = 'sources/kukhnya/s03/e16.ru.srt'
 
 INTRO = "Outraged that his poker guests got violently ill at the table and took all his money, Nagiyev bursts into the kitchen, refuses to listen to Chef Barinov's excuses about Grandpa Kirill's ghost, and vows revenge tomorrow! Listen first."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Everyone leaves EXCEPT Senya and Fedya, whom Chef Barinov ordered to clean the kitchen—setting the stage for Barinov's ghostly ambush in Scene Nineteen!"
-CLOSING = ('chef', 'А убирать кто будет?')
+OUTRO = "Everyone leaves EXCEPT Senya and Fedya, whom Chef Barinov ordered to clean the kitchen—setting the stage for Barinov's ghostly ambush in Scene Nineteen! See you next time!"
+CLOSING = ("chef", "Всего хорошего!")

@@ -14,7 +14,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 2 | Аня | Говорят, что мысли материальны. | They say that thoughts are material. | #300 00:22:00: Говорят, что мысли материальны | adapted: adapted |
 | 3 | Аня | Если признаться себе в том, чего по-настоящему хочешь. | If you admit to yourself what you truly want. | #301 00:22:03: Если признаться себе в том, чего по-настоящему хочешь | adapted: adapted |
 | 4 | Аня | Возможно, чудо произойдёт. | Perhaps a miracle will happen. | #302 00:22:07: Возможно, чудо произойдет | adapted: adapted |
-| 5 | Шеф | Выходи за меня! | Marry me! | #303 00:22:45: Выходи за меня | adapted: adapted |
+| 5 | Костя | Выходи за меня! | Marry me! | #303 00:22:45: Выходи за меня | adapted: adapted |
 | 6 | Аня | Теперь ваш брак официально расторгнут. | Now your marriage is officially dissolved. | #304 00:23:25: Теперь ваш брак официально | adapted: adapted |
 | 7 | Аня | Но я не сдаюсь. | But I am not giving up. | #302 00:22:07: чудо произойдет | adapted: adapted |
 | 8 | Аня | Здравствуйте, можно заказать массаж? | Hello, can I order a massage? | #305 00:23:42: Здравствуйте. Можно заказать массаж | adapted: adapted |
@@ -31,7 +31,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Perhaps a miracle will happen.' The meaning hinges on 'perhaps' working together with 'to happen' in spoken Russian.
 - 'Marry me!' An emphatic spoken line centered on the verb meaning 'to go out'. Max answers right away.
 - 'Now your marriage is officially dissolved.' Max brings out the contrast between 'now' and 'your' in a few short words.
-- 'But I am not giving up.' Notice the reflexive suffix on the verb meaning 'to give up', turning the action back on the subject.
+- 'But I am not giving up.' Max centers this short reply on 'to give up, to surrender', letting a few direct words carry the whole meaning.
 - 'Hello, can I order a massage?' Spoken Russian keeps this brisk, leaning on 'hello' and finishing on 'massage'.
 - 'Plus intimate services?' Max anchors the line on 'plus', while 'services' completes the thought.
 - 'Well of course you can!' Kostya anchors the line on 'come on', while 'may' completes the thought.

@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Наверное. Когда? | Probably. When? | #108 00:07:32: Наверное. Когда | verbatim |
-| 2 | Нагиев | Завтра. Завтра? | Tomorrow. Tomorrow? | #109 00:07:34: Завтра. Завтра | verbatim |
-| 3 | Аня | Могу не успеть. | I might not make it in time. | #110 00:07:36: Могу не успеть | verbatim |
-| 4 | Нагиев | А что, больше негде взять? | What, is there nowhere else to get it? | #111 00:07:40: А что, больше негде взять | verbatim |
-| 5 | Аня | А так, надо подождать. | Otherwise, you have to wait. | #111 00:07:40: А так, надо подождать | verbatim |
-| 6 | Нагиев | Надо подождать. А что? | Have to wait. Why is that? | #111 00:07:40: надо подождать. А что | verbatim |
-| 7 | Аня | А ты думаешь? | What do you think? | #112 00:07:42: А ты думаешь | verbatim |
-| 8 | Нагиев | Ну ладно, ладно, постарайся. | All right, all right, do your best. | #113 00:07:46: Ну ладно, ладно, постарайся | verbatim |
-| 9 | Аня | Только смотри, об этом никому ни слова. | Just make sure you do not say a word about this to anyone. | #114 00:07:48: Только смотри, об этом никому ни слова | verbatim |
-| 10 | Нагиев | Ищи где хочешь. | Look wherever you want. | #116 00:07:53: Ищи где хочешь | verbatim |
-| 11 | Аня | И свежая. | And make sure it is fresh. | #117 00:07:58: И свежая | verbatim |
-| 12 | Нагиев | Что он тебе заказал? | What did he order from you? | #119 00:08:07: Что он тебе заказал | verbatim |
-| 13 | Аня | Но не мы. | Just not us. | #125 00:08:25: но не мы | verbatim |
+| 1 | Вика | Наверное. Когда? | Probably. When? | #108 00:07:32: Наверное. Когда | verbatim |
+| 2 | Вика | Завтра. Завтра? | Tomorrow. Tomorrow? | #109 00:07:34: Завтра. Завтра | verbatim |
+| 3 | Вика | Могу не успеть. | I might not make it in time. | #110 00:07:36: Могу не успеть | verbatim |
+| 4 | Вика | А что, больше негде взять? | What, is there nowhere else to get it? | #111 00:07:40: А что, больше негде взять | verbatim |
+| 5 | Вика | А так, надо подождать. | Otherwise, you have to wait. | #111 00:07:40: А так, надо подождать | verbatim |
+| 6 | Вика | Надо подождать. А что? | Have to wait. Why is that? | #111 00:07:40: надо подождать. А что | verbatim |
+| 7 | Вика | А ты думаешь? | What do you think? | #112 00:07:42: А ты думаешь | verbatim |
+| 8 | Вика | Ну ладно, ладно, постарайся. | All right, all right, do your best. | #113 00:07:46: Ну ладно, ладно, постарайся | verbatim |
+| 9 | Вика | Только смотри, об этом никому ни слова. | Just make sure you do not say a word about this to anyone. | #114 00:07:48: Только смотри, об этом никому ни слова | verbatim |
+| 10 | Вика | Ищи где хочешь. | Look wherever you want. | #116 00:07:53: Ищи где хочешь | verbatim |
+| 11 | Вика | И свежая. | And make sure it is fresh. | #117 00:07:58: И свежая | verbatim |
+| 12 | Вика | Что он тебе заказал? | What did he order from you? | #119 00:08:07: Что он тебе заказал | verbatim |
+| 13 | Вика | Но не мы. | Just not us. | #125 00:08:25: но не мы | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

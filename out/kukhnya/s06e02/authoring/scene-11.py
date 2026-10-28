@@ -1,14 +1,14 @@
 ID = 'kukhnya-s06e02-scene-11'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 2
 SCENE = 11
-TITLE = 'Элеонора отменяет новое меню  (Eleonora Cancels the New Menu)'
+TITLE = "Элеонора отменяет новое меню  (Eleonora Cancels the New Menu)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'mikhail': 'anja', 'eleonora': 'angelina'}
-LABELS = {'anya': 'Шеф', 'mikhail': 'Михаил', 'eleonora': 'Элеонора'}
-SOURCE_NAME = "Кухня (Kukhnya) S6.02"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "mikhail": "anja", "eleonora": "angelina"}
+LABELS = {"mikhail": "Михаил", "eleonora": "Элеонора"}
+SOURCE_NAME = 'Кухня (Kukhnya) S6.02'
 SOURCE_FILE = 'sources/kukhnya/s06/e02.ru.srt'
 
 INTRO = "After Denis and Nikita misidentify each other's girlfriends across the room, Mikhail warns Barinov that insulting the prefect will backfire—just as Eleonora storms in and orders the old menu restored."
@@ -18,10 +18,10 @@ STORY = [
     ('mikhail', 'А моя с Луи заигрывает.', 'And mine is flirting with Louis.', [(178, 'А моя вон'), (179, 'заигрывает')], 'adapted'),
     ('mikhail', 'Давай выпьем за наших девушек, они у нас самые лучшие.', "Let's drink to our girls, they are the very best.", [(181, 'давай выпьем за наших девушек'), (182, 'Они у нас самые лучшие')], 'adapted'),
     ('mikhail', 'Зря ведь ты префекту нахамил.', 'You should not have been rude to the prefect.', [(183, 'Зря ведь ты префекта нахамил')], 'adapted'),
-    ('anya', 'У нас демократия, один гражданин имеет право нахамить другому.', 'We have democracy, one citizen has the right to be rude to another.', [(185, 'У нас демократия. Один гражданин имеет право нахамить другому')], 'exact'),
-    ('anya', 'Хамить префекту нельзя?', 'Is it forbidden to be rude to a prefect?', [(187, 'Хамить префекту?')], 'adapted'),
+    ('mikhail', 'У нас демократия, один гражданин имеет право нахамить другому.', 'We have democracy, one citizen has the right to be rude to another.', [(185, 'У нас демократия. Один гражданин имеет право нахамить другому')], 'exact'),
+    ('mikhail', 'Хамить префекту нельзя?', 'Is it forbidden to be rude to a prefect?', [(187, 'Хамить префекту?')], 'adapted'),
     ('eleonora', 'А я не поняла, что за праздник?', 'I do not understand, what is this celebration?', [(190, 'А я не поняла'), (191, 'Что за праздник?')], 'adapted'),
-    ('anya', 'У нас новое меню, Элеонора Андреевна.', 'We have a new menu, Eleonora Andreyevna.', [(193, 'У нас новое меню')], 'adapted'),
+    ('mikhail', 'У нас новое меню, Элеонора Андреевна.', 'We have a new menu, Eleonora Andreyevna.', [(193, 'У нас новое меню')], 'adapted'),
     ('eleonora', 'А я в курсе.', 'I am aware of that.', [(194, 'А я в курсе')], 'exact'),
     ('eleonora', 'И про то, что ты префекта выгнал, я тоже в курсе.', 'And I am also aware that you kicked out the prefect.', [(194, 'И про то, что ты префекта выгнал, я тоже в курсе')], 'exact'),
     ('eleonora', 'Витя, это мой ресторан!', 'Vitya, this is my restaurant!', [(195, 'Витя, это мой ресторан')], 'exact'),
@@ -35,7 +35,7 @@ WALK = [
     (1, None, "'And mine is flirting with Louis.' In Russian, the idea of 'and' flows naturally into 'flirts' without extra filler words."),
     (2, None, "'Let's drink to our girls, they are the very best.' Here the Russian phrasing highlights 'come on' before landing on 'best'."),
     (3, None, "'You should not have been rude to the prefect.' In Russian, the idea of 'for nothing' flows naturally into 'was rude to' without extra filler words."),
-    (4, None, "'We have democracy, one citizen has the right to be rude to another.' Russian expresses 'having' with the preposition 'by' plus the genitive pronoun and 'another'."),
+    (4, None, "'We have democracy, one citizen has the right to be rude to another.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'."),
     (5, None, "'Is it forbidden to be rude to a prefect?' Chef Barinov brings out the contrast between 'to be rude' and 'district prefect' in a few short words."),
     (6, None, "'I do not understand, what is this celebration?' Spoken Russian keeps this brisk, leaning on 'and' and finishing on 'celebration'."),
     (7, None, "'We have a new menu, Eleonora Andreyevna.' Spoken Russian keeps this brisk, leaning on 'at' and finishing on 'Eleonora'. Eleonora answers right away."),
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Crushed that Eleonora has outlawed his auteur menu after a single day, Barinov threatens to resign on the spot. See you in the next scene.'
-CLOSING = ('eleonora', 'Это мой ресторан!')
+OUTRO = 'Crushed that Eleonora has outlawed his auteur menu after a single day, Barinov threatens to resign on the spot. Until next time!'
+CLOSING = ("eleonora", "До свидания!")

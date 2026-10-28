@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Поговорить надо. | We need to talk. | #204 00:12:33: Поговорить надо | verbatim |
-| 2 | Шеф | Саша, не лезь, она моя девушка. | Sasha, stay out of this, she is my girlfriend. | #205 00:12:37: Саша, не лезь, она моя девушка | verbatim |
-| 3 | Аня | И ты не радуйся, это не надолго. | And do not get too happy, that will not last long. | #206 00:12:39: И ты не радуйся, это не надолго | verbatim |
-| 4 | Шеф | Я вижу, ты не понял. | I see you did not get the message. | #207 00:12:41: Я вижу, ты не понял | verbatim |
-| 5 | Аня | Ну, объясни. | Well, explain it to me then. | #208 00:12:44: Ну, объясни | verbatim |
-| 6 | Шеф | На, ну-ка, прекратили немедленно. | Hey, stop this immediately, both of you. | #209 00:12:46: На, ну-ка, прекратили немедленно | verbatim |
-| 7 | Аня | С тобой еще закончили, понял? | We are not finished here yet, got it? | #210 00:12:47: С тобой еще закончили, понял | verbatim |
-| 8 | Шеф | Извините, пожалуйста. | Excuse me, please. | #211 00:12:50: Извините, пожалуйста | verbatim |
-| 9 | Аня | Я же вам говорила. | Just like I told you. | #212 00:12:52: Я же вам говорила | verbatim |
-| 10 | Шеф | Здесь всегда что-то происходит. | There is always something dramatic happening here. | #213 00:12:55: Здесь всегда что-то происходит | verbatim |
-| 11 | Аня | Вот этого гостя надо очень быстро обслужить. | This guest right here needs to be served very quickly. | #214 00:13:06: Вот этого гостя надо очень быстро обслужить | verbatim |
-| 12 | Шеф | Понял меня? | Do you understand me? | #215 00:13:10: Понял меня | verbatim |
-| 13 | Аня | Не вопрос. | No problem at all. | #216 00:13:12: Не вопрос | verbatim |
+| 1 | Саша | Поговорить надо. | We need to talk. | #204 00:12:33: Поговорить надо | verbatim |
+| 2 | Саша | Саша, не лезь, она моя девушка. | Sasha, stay out of this, she is my girlfriend. | #205 00:12:37: Саша, не лезь, она моя девушка | verbatim |
+| 3 | Саша | И ты не радуйся, это не надолго. | And do not get too happy, that will not last long. | #206 00:12:39: И ты не радуйся, это не надолго | verbatim |
+| 4 | Саша | Я вижу, ты не понял. | I see you did not get the message. | #207 00:12:41: Я вижу, ты не понял | verbatim |
+| 5 | Саша | Ну, объясни. | Well, explain it to me then. | #208 00:12:44: Ну, объясни | verbatim |
+| 6 | Саша | На, ну-ка, прекратили немедленно. | Hey, stop this immediately, both of you. | #209 00:12:46: На, ну-ка, прекратили немедленно | verbatim |
+| 7 | Саша | С тобой еще закончили, понял? | We are not finished here yet, got it? | #210 00:12:47: С тобой еще закончили, понял | verbatim |
+| 8 | Саша | Извините, пожалуйста. | Excuse me, please. | #211 00:12:50: Извините, пожалуйста | verbatim |
+| 9 | Саша | Я же вам говорила. | Just like I told you. | #212 00:12:52: Я же вам говорила | verbatim |
+| 10 | Саша | Здесь всегда что-то происходит. | There is always something dramatic happening here. | #213 00:12:55: Здесь всегда что-то происходит | verbatim |
+| 11 | Саша | Вот этого гостя надо очень быстро обслужить. | This guest right here needs to be served very quickly. | #214 00:13:06: Вот этого гостя надо очень быстро обслужить | verbatim |
+| 12 | Саша | Понял меня? | Do you understand me? | #215 00:13:10: Понял меня | verbatim |
+| 13 | Саша | Не вопрос. | No problem at all. | #216 00:13:12: Не вопрос | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

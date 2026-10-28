@@ -1,32 +1,32 @@
-ID = "kukhnya-s02e20-scene-05"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e20-scene-05'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 20
 SCENE = 5
 TITLE = "Речь Макса о лучшем ресторане  (Max's Speech About the Best Restaurant)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'senya': 'anja'}
-LABELS = {'anya': 'Шеф', 'senya': 'Сеня'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.20"
-SOURCE_FILE = "sources/kukhnya/s02/e20.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "senya": "angelina"}
+LABELS = {"chef": "Шеф", "senya": "Сеня"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.20'
+SOURCE_FILE = 'sources/kukhnya/s02/e20.ru.srt'
 
 INTRO = 'Determined to win back his job, Max puts on his uniform and starts prepping in the kitchen until Chef Barinov orders him out. Standing his ground, Max tells the crew that even though Moscow has thousands of restaurants, he only wants to work here and learn from Viktor Petrovich.'
 
 STORY = [
-    ('anya', 'Шеф, не надо так.', 'Chef, please do not be like that.', [(78, 'Шеф, не надо так')], ''),
+    ('chef', 'Шеф, не надо так.', 'Chef, please do not be like that.', [(78, 'Шеф, не надо так')], ''),
     ('senya', 'Шел отсюда!', 'Get the hell out of here!', [(79, 'Шел отсюда')], ''),
-    ('anya', 'Уйдет вместе с ним.', 'Anyone who defends him will leave right along with him.', [(80, 'уйдет вместе с ним')], ''),
+    ('chef', 'Уйдет вместе с ним.', 'Anyone who defends him will leave right along with him.', [(80, 'уйдет вместе с ним')], ''),
     ('senya', 'Можешь работать?', 'Can you let me work?', [(81, 'Можешь работать')], ''),
-    ('anya', 'Зачем все это?', 'Why are you doing all of this?', [(82, 'Зачем все это')], ''),
+    ('chef', 'Зачем все это?', 'Why are you doing all of this?', [(82, 'Зачем все это')], ''),
     ('senya', 'Что это?', 'What is all of this?', [(83, 'Что это')], ''),
-    ('anya', 'Для чего все это?', 'What is the point of all this?', [(85, 'Для чего все это')], ''),
+    ('chef', 'Для чего все это?', 'What is the point of all this?', [(85, 'Для чего все это')], ''),
     ('senya', 'Потому что я хочу здесь работать.', 'Because I want to work right here.', [(86, 'Потому что я хочу здесь работать')], ''),
-    ('anya', 'Это Москва, здесь их тысячи.', 'This is Moscow, there are thousands of restaurants here.', [(88, 'Это Москва, здесь их тысячи')], ''),
+    ('chef', 'Это Москва, здесь их тысячи.', 'This is Moscow, there are thousands of restaurants here.', [(88, 'Это Москва, здесь их тысячи')], ''),
     ('senya', 'Я хочу работать именно здесь.', 'I want to work specifically in this one.', [(89, 'Я хочу работать именно здесь')], ''),
-    ('anya', 'Потому что это лучший ресторан в городе.', 'Because this is the finest restaurant in the city.', [(90, 'потому что это лучший ресторан в городе')], ''),
+    ('chef', 'Потому что это лучший ресторан в городе.', 'Because this is the finest restaurant in the city.', [(90, 'потому что это лучший ресторан в городе')], ''),
     ('senya', 'Такого, как наш шеф, надо еще поискать.', 'A chef like ours is nearly impossible to find.', [(92, 'Такого, как наш шеф, надо еще поискать')], ''),
-    ('anya', 'Я хочу хоть чему-то у него научиться.', 'I want to learn at least something from him.', [(94, 'Я хочу хоть чему-то у него научиться')], ''),
+    ('chef', 'Я хочу хоть чему-то у него научиться.', 'I want to learn at least something from him.', [(94, 'Я хочу хоть чему-то у него научиться')], ''),
 ]
 
 OPENER = "Right, let's take their exchange slowly and unpack the Russian."
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Now let's listen to the entire scene again without interruption."
-
-OUTRO = "When you watch Scene 5 of Episode 20, listen out for the exchange around max's speech about the best restaurant — you will recognize every Russian phrase right away. See you in the next scene."
-CLOSING = ('senya', 'Я хочу работать именно здесь.')
+OUTRO = 'That wraps up this scene as when Chef Barinov tries to throw Max out of the kitchen again, Max passionately explains that he only wants to work at Claude Monet to learn from the best chef in Moscow. Until next time!'
+CLOSING = ("senya", "Увидимся!")

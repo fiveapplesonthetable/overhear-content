@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Добрый день. | Good afternoon. | #151 00:09:35: Добрый день | verbatim |
-| 2 | Вика | Вот так. | Just like that. | #152 00:09:37: Вот так | verbatim |
+| 1 | Шеф | Добрый день. | Good afternoon. | #151 00:09:35: Добрый день | verbatim |
+| 2 | Нагиев | Вот так. | Just like that. | #152 00:09:37: Вот так | verbatim |
 | 3 | Нагиев | Слушаю вас, Елена Павловна. | I am listening, Elena Pavlovna. | #153 00:09:41: Слушаю вас, Елена Павловна | verbatim |
-| 4 | Аня | Дмитрий Владимирович, у меня к вам личный разговор. | Dmitry Vladimirovich, I have a personal matter to discuss with you. | #154 00:09:43: Дмитрий Владимирович, у меня к вам личный разговор | verbatim |
-| 5 | Вика | Хочу поговорить про Виктора Петровича. | I want to talk to you about Viktor Petrovich. | #155 00:09:45: Хочу поговорить про Виктора Петровича | verbatim |
+| 4 | Шеф | Дмитрий Владимирович, у меня к вам личный разговор. | Dmitry Vladimirovich, I have a personal matter to discuss with you. | #154 00:09:43: Дмитрий Владимирович, у меня к вам личный разговор | verbatim |
+| 5 | Нагиев | Хочу поговорить про Виктора Петровича. | I want to talk to you about Viktor Petrovich. | #155 00:09:45: Хочу поговорить про Виктора Петровича | verbatim |
 | 6 | Нагиев | Вот как. | Is that so. | #156 00:09:48: Вот как | verbatim |
-| 7 | Аня | Да ну что вы. | Oh, come on now. | #158 00:09:52: Да ну что вы | verbatim |
-| 8 | Вика | Подождите, в каком вы вообще смысле? | Wait a second, in what sense do you mean that? | #159 00:09:54: Подождите, в каком вы вообще смысле | verbatim |
+| 7 | Шеф | Да ну что вы. | Oh, come on now. | #158 00:09:52: Да ну что вы | verbatim |
+| 8 | Нагиев | Подождите, в каком вы вообще смысле? | Wait a second, in what sense do you mean that? | #159 00:09:54: Подождите, в каком вы вообще смысле | verbatim |
 | 9 | Нагиев | А вы в каком? | And in what sense did you mean it? | #160 00:09:57: А вы в каком | verbatim |
-| 10 | Аня | У меня к вам просьба. | I have a favor to ask of you. | #161 00:10:01: У меня к вам просьба | verbatim |
-| 11 | Вика | Вы можете его сильно не нагружать. | Could you please not overload him with work when he gets back. | #162 00:10:04: вы можете его сильно не нагружать | verbatim |
+| 10 | Шеф | У меня к вам просьба. | I have a favor to ask of you. | #161 00:10:01: У меня к вам просьба | verbatim |
+| 11 | Нагиев | Вы можете его сильно не нагружать. | Could you please not overload him with work when he gets back. | #162 00:10:04: вы можете его сильно не нагружать | verbatim |
 | 12 | Нагиев | А откуда вернется? | Wait, gets back from where? | #164 00:10:07: А откуда вернется | verbatim |
-| 13 | Аня | Подождите, он сказал, он вас предупредил. | Hold on, he told me that he had already informed you. | #165 00:10:09: Подождите, он сказал, он вас предупредил | verbatim |
+| 13 | Шеф | Подождите, он сказал, он вас предупредил. | Hold on, he told me that he had already informed you. | #165 00:10:09: Подождите, он сказал, он вас предупредил | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

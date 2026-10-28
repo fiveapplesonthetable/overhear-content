@@ -1,14 +1,14 @@
 ID = 'kukhnya-s06e03-scene-12'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 3
 SCENE = 12
-TITLE = 'Обед для группы и ставка на Катю  (Lunch for the Crew and a Bet Over Katya)'
+TITLE = "Обед для группы и ставка на Катю  (Lunch for the Crew and a Bet Over Katya)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'nagiyev': 'anja', 'nikita': 'angelina'}
-LABELS = {'anya': 'Денис', 'nagiyev': 'Нагиев', 'nikita': 'Никита'}
-SOURCE_NAME = "Кухня (Kukhnya) S6.03"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "nikita": "anja", "nagiyev": "angelina"}
+LABELS = {"nikita": "Никита", "nagiyev": "Нагиев"}
+SOURCE_NAME = 'Кухня (Kukhnya) S6.03'
 SOURCE_FILE = 'sources/kukhnya/s06/e03.ru.srt'
 
 INTRO = "After Barinov ruins Take Three by calling Nagiyev's character a bone-breaker instead of a bonesetter, the crew breaks for lunch—while outside, Nikita and Denis bet their right to court Katya on the football game."
@@ -23,9 +23,9 @@ STORY = [
     ('nikita', 'Но откуда у тебя деньги, давай так.', "But where would you get money, let's do it this way.", [(208, 'откуда у тебя деньги? Давай так')], 'adapted'),
     ('nikita', 'Если выиграешь ты, я вам с Катей больше не мешаю.', 'If you win, I will not get in the way of you and Katya anymore.', [(209, 'Если выиграешь ты, я вам с Катей больше не мешаю')], 'exact'),
     ('nikita', 'А если выиграю я, то уходишь ты.', 'And if I win, then you walk away.', [(210, 'Если я, то'), (210, 'ты')], 'adapted'),
-    ('anya', 'Ты и так нам с Катей не помешаешь.', 'You will not get in the way of Katya and me anyway.', [(211, 'Ты и так нам с Катей не помешаешь')], 'exact'),
+    ('nikita', 'Ты и так нам с Катей не помешаешь.', 'You will not get in the way of Katya and me anyway.', [(211, 'Ты и так нам с Катей не помешаешь')], 'exact'),
     ('nikita', 'Ну что, согласен?', 'Well, do you agree?', [(212, 'Ну?')], 'adapted'),
-    ('anya', 'Давай, по рукам!', "Let's do it, deal!", [(208, 'Давай так')], 'adapted'),
+    ('nikita', 'Давай, по рукам!', "Let's do it, deal!", [(208, 'Давай так')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "With Katya's heart on the line, the second half of the courtyard football game turns fiercely competitive. See you in the next scene."
-CLOSING = ('anya', 'Я выиграю этот матч!')
+OUTRO = "With Katya's heart on the line, the second half of the courtyard football game turns fiercely competitive. See you next time!"
+CLOSING = ("nikita", "До встречи!")

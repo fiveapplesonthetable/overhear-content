@@ -10,10 +10,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Вика | Пойми ты наконец, никакой проверки вообще не было! | Understand at last, there was no test at all! | #312 00:19:53: Никакой проверки не было | adapted: adapted |
+| 1 | Ева | Пойми ты наконец, никакой проверки вообще не было! | Understand at last, there was no test at all! | #312 00:19:53: Никакой проверки не было | adapted: adapted |
 | 2 | Аня | Подожди, как это не было? Значит, она сама ко мне пришла? | Wait, what do you mean there was not? So she came to me on her own? | #313 00:19:56: Как не было<br>#314 00:19:58: Значит, она реально ко мне | adapted: adapted |
 | 3 | Аня | Ужас, как же мне теперь перед Евой неудобно! | Terrible, how awkward I feel in front of Eva now! | #315 00:20:01: как перед Евой неудобно | adapted: adapted |
-| 4 | Вика | Да ну? А передо мной тебе сейчас совсем удобно? | Oh really? And do you feel completely comfortable in front of me right now? | #316 00:20:03: Да ну<br>#317 00:20:05: А передо мной тебе удобно | adapted: adapted |
+| 4 | Ева | Да ну? А передо мной тебе сейчас совсем удобно? | Oh really? And do you feel completely comfortable in front of me right now? | #316 00:20:03: Да ну<br>#317 00:20:05: А передо мной тебе удобно | adapted: adapted |
 | 5 | Аня | Вика, перед тобой мне тоже сейчас очень неудобно. | Vika, I feel very awkward in front of you right now too. | #318 00:20:07: Вик, перед тобой тоже | adapted: adapted |
 | 6 | Аня | Просто я уже столько раз тебя раньше подводил. | It is just that I have let you down so many times before. | #318 00:20:07: Просто я столько раз тебя подводил | adapted: adapted |
 | 7 | Аня | Я сам прекрасно понимаю, как тяжело мне верить. | I understand very well myself how hard it is to believe me. | #318 00:20:07: что сам понимаю<br>#319 00:20:11: как тяжело мне верить | adapted: adapted |

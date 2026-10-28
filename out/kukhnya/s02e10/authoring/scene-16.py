@@ -1,15 +1,15 @@
-ID = "kukhnya-s02e10-scene-16"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e10-scene-16'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 10
 SCENE = 16
-TITLE = 'Искушение чужими деньгами  (Tempted by Borrowed Money)'
+TITLE = "Искушение чужими деньгами  (Tempted by Borrowed Money)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'sasha': 'anja', 'lyova': 'angelina'}
-LABELS = {'anya': 'Макс', 'sasha': 'Саша', 'lyova': 'Лёва'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.10"
-SOURCE_FILE = "sources/kukhnya/s02/e10.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "lyova": "angelina", "sasha": "anja"}
+LABELS = {"anya": "Макс", "lyova": "Лёва", "sasha": "Саша"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.10'
+SOURCE_FILE = 'sources/kukhnya/s02/e10.ru.srt'
 
 INTRO = 'Desperate to reclaim his personal space at the apartment, Max convinces Lyova to let him borrow the pooled cash by claiming it is for his mother. He then goes straight to Sasha and announces that he has found the money to settle things with her landlady so she can move back home.'
 
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Let's hear the full exchange one more time at natural speed."
-
-OUTRO = 'When you watch Scene 16 of Episode 10, listen out for the exchange around tempted by borrowed money — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('anya', 'Да? Да?')
+OUTRO = "That wraps up this scene as holding the returned pool of cash, Max lies to Lyova that he needs the money for his mother's gift and then tells Sasha he found the money to pay off her landlady. See you next time!"
+CLOSING = ("anya", "До свидания!")

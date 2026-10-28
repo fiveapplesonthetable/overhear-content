@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e09-scene-13'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 9
 SCENE = 13
-TITLE = 'Как остановить Шефа  (How to Stop the Chef)'
+TITLE = "Как остановить Шефа  (How to Stop the Chef)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'senya': 'anja', 'fedya': 'angelina'}
-LABELS = {'anya': 'Макс', 'senya': 'Сеня', 'fedya': 'Федя'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.09"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "fedya": "anja", "senya": "angelina"}
+LABELS = {"anya": "Макс", "fedya": "Федя", "senya": "Сеня"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.09'
 SOURCE_FILE = 'sources/kukhnya/s03/e09.ru.srt'
 
 INTRO = "Exhausted and desperate, Max tells Senya and Fedya he cannot survive another day of the Chef's binge. After hearing how Lyova became sous-chef after surviving a similar week, Max turns to Katya for advice on her father."
@@ -41,10 +41,10 @@ WALK = [
     (7, None, "'And just what positives are there here?' The meaning hinges on 'and' working together with 'plus' in spoken Russian."),
     (8, None, "'Lyova became sous-chef after a period like that.' The '-l' ending on the verb meaning 'to become' places the action in the masculine past tense."),
     (9, None, "'True, he started stuttering after that.' Fedya brings out the contrast between 'really' and 'he' in a few short words."),
-    (10, None, "'Katya, I have a matter to discuss with you.' Russian expresses 'having' with the preposition 'by' plus the genitive pronoun and 'business'."),
+    (10, None, "'Katya, I have a matter to discuss with you.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'."),
     (11, None, "'How can we make your father stop drinking?' Max brings out the contrast between 'how' and 'to force' in a few short words."),
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "If anyone knows Victor Petrovich's weak spot, it is his daughter Katya. Let us hear the childhood story she tells Max."
-CLOSING = ('anya', 'Как заставить его не пить?')
+OUTRO = "If anyone knows Victor Petrovich's weak spot, it is his daughter Katya. Let us hear the childhood story she tells Max. Until next time!"
+CLOSING = ("anya", "До свидания!")

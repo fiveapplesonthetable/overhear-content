@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Вика | Давай быстрее, ты заведёшь когда-нибудь свою старую машину? | Hurry up, will you ever get your old car started? | #310 00:22:26: ты заведёшь когда-нибудь свою | adapted: adapted |
-| 2 | Аня | Подождите одну секунду, я сейчас поймаю другую машину! | Wait one second, I will go catch another car right now! | #311 00:22:31: Я сейчас | adapted: adapted |
+| 1 | Катя | Давай быстрее, ты заведёшь когда-нибудь свою старую машину? | Hurry up, will you ever get your old car started? | #310 00:22:26: ты заведёшь когда-нибудь свою | adapted: adapted |
+| 2 | Никита | Подождите одну секунду, я сейчас поймаю другую машину! | Wait one second, I will go catch another car right now! | #311 00:22:31: Я сейчас | adapted: adapted |
 | 3 | Катя | Куда это он побежал? Лови попутную машину скорее! | Where did he run off to? Catch a passing car quickly! | #312 00:22:33: Куда это он | adapted: adapted |
 | 4 | Катя | Ничего себе, как быстро он поймал такую машину! | Wow, how quickly he caught a car like that! | #314 00:22:42: Ничего себе! Быстро поймал | adapted: adapted |
-| 5 | Аня | Девушки, скорее садитесь внутрь, мы сразу едем! | Ladies, get inside quickly, we are leaving right away! | #315 00:22:47: Садитесь | adapted: adapted |
+| 5 | Никита | Девушки, скорее садитесь внутрь, мы сразу едем! | Ladies, get inside quickly, we are leaving right away! | #315 00:22:47: Садитесь | adapted: adapted |
 | 6 | Катя | Подожди, Никита, а это что, твоя собственная машина? | Wait, Nikita, is this your own car? | #315 00:22:47: а это твоя, что ли | adapted: adapted |
-| 7 | Аня | Катя, давай я тебе потом всё спокойно объясню! | Katya, let me explain everything to you calmly later! | #316 00:22:49: давай я тебе потом всё объясню | adapted: adapted |
-| 8 | Аня | Нравиться красивой женщине — это очень хитрая наука. | Pleasing a beautiful woman is a very tricky science. | #317 00:22:53: женщине хитрая наука | adapted: adapted |
-| 9 | Аня | Иногда нужно немножко скрывать правду, чтобы выглядеть загадочно. | Sometimes you need to hide the truth a bit to look mysterious. | #318 00:22:56: чтобы выглядеть загадочно | adapted: adapted |
-| 10 | Аня | А ещё женщину нужно уметь красиво удивлять. | And you also need to know how to surprise a woman nicely. | #320 00:23:03: А еще женщину нужно | adapted: adapted |
-| 11 | Аня | Но в этом деле очень важно не перестараться. | But in this matter it is very important not to overdo it. | #321 00:23:06: Но важно не перестараться | adapted: adapted |
-| 12 | Аня | Иначе можно легко стать жертвой собственных хитрых планов! | Otherwise you can easily become a victim of your own clever plans! | #322 00:23:08: Иначе можно стать жертвой собственных интриг | adapted: adapted |
+| 7 | Никита | Катя, давай я тебе потом всё спокойно объясню! | Katya, let me explain everything to you calmly later! | #316 00:22:49: давай я тебе потом всё объясню | adapted: adapted |
+| 8 | Никита | Нравиться красивой женщине — это очень хитрая наука. | Pleasing a beautiful woman is a very tricky science. | #317 00:22:53: женщине хитрая наука | adapted: adapted |
+| 9 | Никита | Иногда нужно немножко скрывать правду, чтобы выглядеть загадочно. | Sometimes you need to hide the truth a bit to look mysterious. | #318 00:22:56: чтобы выглядеть загадочно | adapted: adapted |
+| 10 | Никита | А ещё женщину нужно уметь красиво удивлять. | And you also need to know how to surprise a woman nicely. | #320 00:23:03: А еще женщину нужно | adapted: adapted |
+| 11 | Никита | Но в этом деле очень важно не перестараться. | But in this matter it is very important not to overdo it. | #321 00:23:06: Но важно не перестараться | adapted: adapted |
+| 12 | Никита | Иначе можно легко стать жертвой собственных хитрых планов! | Otherwise you can easily become a victim of your own clever plans! | #322 00:23:08: Иначе можно стать жертвой собственных интриг | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

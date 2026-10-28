@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Катя | Я не знаю, это не моё. | I do not know, this is not mine. | #153 00:12:13: Не знаю, это не мое | adapted: adapted |
-| 2 | Катя | Кому ещё нужно выбирать между вами? | Who else needs to choose between you two? | #155 00:12:16: А кому ещё нужно выбирать | adapted: adapted |
-| 3 | Катя | Может, Костя выбирает себе лучшего друга. | Maybe Kostya is choosing a best friend for himself. | #156 00:12:18: Может быть, Костя себе выбирает лучшего друга | adapted: adapted |
+| 1 | Сеня | Я не знаю, это не моё. | I do not know, this is not mine. | #153 00:12:13: Не знаю, это не мое | adapted: adapted |
+| 2 | Сеня | Кому ещё нужно выбирать между вами? | Who else needs to choose between you two? | #155 00:12:16: А кому ещё нужно выбирать | adapted: adapted |
+| 3 | Сеня | Может, Костя выбирает себе лучшего друга. | Maybe Kostya is choosing a best friend for himself. | #156 00:12:18: Может быть, Костя себе выбирает лучшего друга | adapted: adapted |
 | 4 | Сеня | Шеф, вы были сегодня совершенно правы. | Chef, you were completely right today. | #157 00:12:29: Шеф, вы были правы | adapted: adapted |
 | 5 | Сеня | Это мясо точно была не собака. | That meat was definitely not a dog. | #158 00:12:31: Это не собачатина | adapted: adapted |
-| 6 | Аня | Ну наконец-то вы включили свои мозги! | Well finally you turned on your brains! | #159 00:12:33: Ну, наконец-то. Включили мозги | adapted: adapted |
-| 7 | Аня | Подождите, вы что, надо мной издеваетесь? | Wait, are you making fun of me? | #161 00:12:37: Вы что, издеваетесь | adapted: adapted |
+| 6 | Шеф | Ну наконец-то вы включили свои мозги! | Well finally you turned on your brains! | #159 00:12:33: Ну, наконец-то. Включили мозги | adapted: adapted |
+| 7 | Шеф | Подождите, вы что, надо мной издеваетесь? | Wait, are you making fun of me? | #161 00:12:37: Вы что, издеваетесь | adapted: adapted |
 | 8 | Сеня | Нет, шеф, мы прочитали в интернете. | No, chef, we read it on the internet. | #161 00:12:37: Нет<br>#162 00:12:39: Тут написано | adapted: adapted |
 | 9 | Сеня | Если жена узнает, мне конец. | If my wife finds out, I am done for. | #163 00:12:44: Если Марина узнает | adapted: adapted |
 | 10 | Сеня | А ещё тут написано про пророка. | And it also says here about the prophet. | #164 00:12:48: А ещё тут написано | adapted: adapted |
 | 11 | Сеня | Его дух возрождается из священного пламени. | His spirit is reborn from the sacred flame. | #165 00:12:52: возрождается в новом теле из священного<br>#166 00:12:58: пламени | adapted: adapted |
-| 12 | Аня | Пошли вон отсюда, пока я добрый! | Get out of here while I am still in a good mood! | #166 00:12:58: Пошли вон отсюда | adapted: adapted |
+| 12 | Шеф | Пошли вон отсюда, пока я добрый! | Get out of here while I am still in a good mood! | #166 00:12:58: Пошли вон отсюда | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

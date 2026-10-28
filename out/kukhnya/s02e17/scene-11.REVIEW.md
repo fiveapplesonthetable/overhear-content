@@ -12,16 +12,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 |---|---|---|---|---|---|
 | 1 | Аня | Я-то подумал. | I was just thinking about it. | #164 00:11:19: я-то подумал | verbatim |
 | 2 | Костя | Ты друг Костя с Сашей хорошо общаешься. | You are pal, Kostya, and you get along great with Sasha. | #164 00:11:19: ты друг Костя с Сашей хорошо общаешься | verbatim |
-| 3 | Саша | Че нам ссориться, глупо? | Why should we quarrel, it is silly, right? | #165 00:11:25: Че нам ссориться, глупо | verbatim |
+| 3 | Костя | Че нам ссориться, глупо? | Why should we quarrel, it is silly, right? | #165 00:11:25: Че нам ссориться, глупо | verbatim |
 | 4 | Аня | Че нам с тобой делить? | What could we possibly have to fight over? | #167 00:11:30: Че нам с тобой делить | verbatim |
 | 5 | Костя | Я, Макс, подай соль. | Hey Max, pass the salt. | #168 00:11:34: Я, Макс, подай соль | verbatim |
-| 6 | Саша | А что, я не против? | Why not, I do not mind at all. | #170 00:11:42: А что, я не против | verbatim |
+| 6 | Костя | А что, я не против? | Why not, I do not mind at all. | #170 00:11:42: А что, я не против | verbatim |
 | 7 | Аня | Костян, ты как? | Kostyan, how are you holding up? | #171 00:11:43: Костян, ты как | verbatim |
 | 8 | Костя | Костян, Костя. | Kostyan, hey, Kostya. | #172 00:12:23: Костян, Костя | verbatim |
-| 9 | Саша | Да, да, да. | Yes, yes, of course. | #173 00:12:26: Да, да, да | verbatim |
+| 9 | Костя | Да, да, да. | Yes, yes, of course. | #173 00:12:26: Да, да, да | verbatim |
 | 10 | Аня | Давайте отпразднуем мы. | Let us celebrate together. | #174 00:12:28: Давайте отпразднуем мы | verbatim |
 | 11 | Костя | Сверкает зимняя луна. | The winter moon is sparkling. | #178 00:12:53: сверкает зимняя луна | verbatim |
-| 12 | Саша | Ну ты же просто молодец! | Why, you are simply a champion! | #179 00:12:59: Ну ты же просто молодец | verbatim |
+| 12 | Костя | Ну ты же просто молодец! | Why, you are simply a champion! | #179 00:12:59: Ну ты же просто молодец | verbatim |
 | 13 | Аня | Браковаться негде. | Beyond all praise. | #180 00:13:06: Браковаться негде | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)

@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e20-scene-18'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 20
 SCENE = 18
 TITLE = "Пожар на кухне и подарок Родиона  (Fire in the Kitchen and Rodion's Gift)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja', 'nagiyev': 'angelina'}
-LABELS = {'anya': 'Макс', 'chef': 'Шеф', 'nagiyev': 'Нагиев'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.20"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "nagiyev": "angelina", "chef": "anja", "anya": "alisa"}
+LABELS = {"nagiyev": "Нагиев", "chef": "Шеф", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.20'
 SOURCE_FILE = 'sources/kukhnya/s03/e20.ru.srt'
 
 INTRO = "Refusing to let his French restaurant become a vulgar beer bar, Chef Barinov and his cooks set the kitchen ablaze! Seconds later, Nagiyev bursts in yelling to put out the fire because he bought Claude Monet back with Rodion's money!"
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Thanks to millionaire Rodion Sergeyevich's generous gift, Nagiyev owns Claude Monet once again—if they can put out the fire in time!"
-CLOSING = ('nagiyev', 'Это мой ресторан, я выкупил!')
+OUTRO = "Thanks to millionaire Rodion Sergeyevich's generous gift, Nagiyev owns Claude Monet once again—if they can put out the fire in time! See you next time!"
+CLOSING = ("nagiyev", "Всего хорошего!")

@@ -1,14 +1,14 @@
-ID = "kukhnya-s04e02-scene-04"
-SHOW = "kukhnya"
+ID = 'kukhnya-s04e02-scene-04'
+SHOW = 'kukhnya'
 SEASON = 4
 EPISODE = 2
 SCENE = 4
-TITLE = 'Утренний поход в магазин  (Morning Trip to the Store)'
+TITLE = "Утренний поход в магазин  (Morning Trip to the Store)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'angelina', 'denis': 'anja'}
-LABELS = {'anya': 'Макс', 'vika': 'Вика', 'denis': 'Денис'}
-SOURCE_NAME = "Кухня (Kukhnya) S4.02"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "denis": "anja", "anya": "alisa", "vika": "angelina"}
+LABELS = {"denis": "Денис", "anya": "Макс", "vika": "Вика"}
+SOURCE_NAME = 'Кухня (Kukhnya) S4.02'
 SOURCE_FILE = 'sources/kukhnya/s04/e02.ru.srt'
 
 INTRO = "The next morning, Vika notices Denis's bed is empty and hopes he went home, until Denis walks in with groceries and mud on his clothes. Let's listen to the scene in Russian first."
@@ -32,21 +32,19 @@ OPENER = 'Time to unpack every phrase from the exchange you just heard.'
 
 WALK = [
     (0, None, "'Where is Denis?' Vika raises the pitch on the key word to turn this short Russian clause into a direct question."),
-    (1, None, "'He went back home.' Max keeps the sentence short and direct, relying on Russian case endings to show how the words connect."),
-    (2, None, "'He said Moscow is a village and Voronezh is a city of opportunity.' In spoken Russian, Max omits unnecessary linking verbs so the key idea lands immediately."),
-    (3, None, "'Want some? Maybe you will join me?' Max uses natural conversational word order here to highlight the most important part of the reply."),
+    (1, None, "'He went back home.' Notice how Russian puts 'home' and 'left, went away' together in a short, direct phrase where word endings show how the ideas connect."),
+    (2, None, "'He said Moscow is a village and Voronezh is a city of opportunity.' Here Max anchors the thought on 'said' and finishes on 'possibility, opportunity, resource', keeping the spoken rhythm brisk and natural."),
+    (3, None, "'Want some? Maybe you will join me?' In spoken Russian, the words stay in their normal statement order and Max's rising voice at the end turns the line into a question."),
     (4, None, "'I bought butter and bread.' The past-tense verb ending marks the grammatical gender and number of the subject directly."),
-    (5, None, "'Your prices here are something else, of course.' Denis keeps the sentence short and direct, relying on Russian case endings to show how the words connect."),
-    (6, None, "'Max, I helped push a car out there.' Notice how Denis pairs a modal word or finite verb with an infinitive to express the action."),
+    (5, None, "'Your prices here are something else, of course.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'."),
+    (6, None, "'Max, I helped push a car out there.' Here Denis anchors the thought on 'car' and finishes on 'to out', keeping the spoken rhythm brisk and natural."),
     (7, None, "'Are there any towels?' Denis raises the pitch on the key word to turn this short Russian clause into a direct question."),
-    (8, None, "'In the bathroom.' Max keeps the sentence short and direct, relying on Russian case endings to show how the words connect."),
-    (9, None, "'Well, where have you been wandering?' In spoken Russian, Vika omits unnecessary linking verbs so the key idea lands immediately."),
-    (10, None, "'I was at the grocery store.' Denis uses natural conversational word order here to highlight the most important part of the reply."),
-    (11, None, "'I have no words.' Vika uses natural conversational word order here to highlight the most important part of the reply."),
+    (8, None, "'In the bathroom.' Max centers this short reply on 'bathtub, bath', letting a few direct words carry the whole meaning."),
+    (9, None, "'Well, where have you been wandering?' Notice how Russian puts 'where' and 'are walking' together in a short, direct phrase where word endings show how the ideas connect."),
+    (10, None, "'I was at the grocery store.' Denis centers this short reply on 'shop', letting a few direct words carry the whole meaning."),
+    (11, None, "'I have no words.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'."),
 ]
 
 TRANSITION = "Now let's replay the complete scene in Russian without interruption."
-
-OUTRO = "That finishes Denis's muddy morning return from the grocery store. Those short everyday questions about where someone has been come up constantly. See you in the next scene."
-CLOSING = ('vika', 'У меня нет слов.')
-CLOSING_TRANS = 'I have no words.'
+OUTRO = "That finishes Denis's muddy morning return from the grocery store. Those short everyday questions about where someone has been come up constantly. See you next time!"
+CLOSING = ("vika", "До встречи!")

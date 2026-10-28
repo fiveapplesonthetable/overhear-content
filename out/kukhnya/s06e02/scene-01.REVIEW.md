@@ -10,16 +10,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Давай, стреляй. | Go ahead, shoot. | #2 00:00:43: Давай, стреляй | adapted: exact |
-| 2 | Аня | Может, действительно бросить этот дурдом? | Maybe I really should quit this madhouse? | #3 00:00:53: а может, действительно бросить этот дурдом? | adapted: adapted |
-| 3 | Аня | А то помру раньше времени. | Otherwise I will die before my time. | #4 00:00:58: А то помру | adapted: adapted |
-| 4 | Аня | И не будет у меня звезды. | And I will not have a star. | #4 00:00:58: звезды | adapted: adapted |
+| 1 | Шеф | Давай, стреляй. | Go ahead, shoot. | #2 00:00:43: Давай, стреляй | adapted: exact |
+| 2 | Шеф | Может, действительно бросить этот дурдом? | Maybe I really should quit this madhouse? | #3 00:00:53: а может, действительно бросить этот дурдом? | adapted: adapted |
+| 3 | Шеф | А то помру раньше времени. | Otherwise I will die before my time. | #4 00:00:58: А то помру | adapted: adapted |
+| 4 | Шеф | И не будет у меня звезды. | And I will not have a star. | #4 00:00:58: звезды | adapted: adapted |
 | 5 | Лёва | Витя, я же рыба. | Vitya, I am a fish. | #5 00:01:03: Витя, я же рыба | adapted: exact |
 | 6 | Лёва | Решай сам. | Decide for yourself. | #6 00:01:06: Решай сам | adapted: exact |
-| 7 | Аня | Я согласен у вас работать. | I agree to work for you. | #8 00:01:19: Я согласен у вас работать | adapted: exact |
+| 7 | Шеф | Я согласен у вас работать. | I agree to work for you. | #8 00:01:19: Я согласен у вас работать | adapted: exact |
 | 8 | Лёва | Интересный был фильм, да? | It was an interesting movie, right? | #9 00:01:23: Интересный был фильм, да? | adapted: exact |
 | 9 | Лёва | Не знаю, я на экран не смотрел особо. | I do not know, I did not really look at the screen. | #9 00:01:23: Не знаю, я на экран не смотрел особо | adapted: exact |
-| 10 | Аня | Ну, я пошла? | Well, shall I go? | #10 00:01:30: Ну, я пошла? | adapted: exact |
+| 10 | Шеф | Ну, я пошла? | Well, shall I go? | #10 00:01:30: Ну, я пошла? | adapted: exact |
 | 11 | Лёва | Ну да, пока. | Well yes, bye. | #11 00:01:34: Ну, да. Пока | adapted: exact |
 | 12 | Лёва | Идём гулять завтра. | Let's go for a walk tomorrow. | #12 00:01:40: Гулять | adapted: adapted |
 

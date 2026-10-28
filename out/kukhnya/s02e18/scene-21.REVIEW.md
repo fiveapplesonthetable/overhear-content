@@ -35,7 +35,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Now my mind is at ease about you.' Max addresses the listener with the informal singular 'you' alongside 'calm'. Chef Viktor answers right away.
 - 'Only I do not want it that way.' The grammar packs 'only' and 'want' into a tight, idiomatic kitchen exchange.
 - 'Later on, when Lyova becomes head chef himself.' The meaning hinges on 'later' working together with 'will become' in spoken Russian.
-- 'You passed the second test as well.' In Russian, the idea of 'you' flows naturally into 'inspection' without extra filler words. Chef Viktor answers right away.
+- 'You passed the second test as well.' Here Max anchors the thought on 'passed' and finishes on 'inspection', keeping the spoken rhythm brisk and natural.
 - 'Tonight you are coming with us to the bathhouse.' Chef Viktor anchors the line on 'today', while 'bathhouse' completes the thought.
 - 'Of course, after Lyova moves up.' In Russian, the idea of 'of course' flows naturally into 'Lyova' without extra filler words.
 - 'I could not bring myself to fulfill your request.' Spoken Russian keeps this brisk, leaning on 'I' and finishing on 'request'.

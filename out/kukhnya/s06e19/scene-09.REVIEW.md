@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Света | Вы пока тихо посидите здесь. | You sit quietly in here for now. | #134 00:09:36: вы пока сидите | adapted: adapted |
-| 2 | Аня | Настя, скажи, что мне делать? | Nastya, tell me, what should I do? | #136 00:09:49: Настя, что мне делать | adapted: adapted |
-| 3 | Настя | А что, мы уже приехали? | Wait, have we arrived already? | #137 00:09:51: уже приехать | adapted: adapted |
-| 4 | Аня | Денис предложил с ним уехать. | Denis offered for me to go away with him. | #138 00:09:55: Мне Денис предложил с ним уехать | adapted: adapted |
-| 5 | Настя | Куда, у тебя завтра свадьба! | Where to, your wedding is tomorrow! | #139 00:09:57: Куда<br>#140 00:09:58: свадьба | adapted: adapted |
-| 6 | Аня | Спасибо большое, что напомнила мне. | Thank you very much for reminding me. | #141 00:10:00: Спасибо, что напомнила | adapted: adapted |
-| 7 | Аня | Это нормально, что я сомневаюсь? | Is it normal that I am having doubts? | #142 00:10:05: это нормально, что я сомневаюсь | adapted: adapted |
-| 8 | Настя | Никита ведь очень хороший человек. | Nikita is a very good person, after all. | #144 00:10:11: ты хороший | adapted: adapted |
-| 9 | Аня | Да, он правда очень хороший. | Yes, he is truly very good. | #145 00:10:13: Да, хороший | adapted: adapted |
-| 10 | Аня | Но я изменила ему с Денисом. | But I cheated on him with Denis. | #146 00:10:15: и изменила ему с Денисом | adapted: adapted |
-| 11 | Аня | В тот день он сделал предложение. | On that day he proposed to me. | #146 00:10:15: в тот день, когда он мне предложение сделал | adapted: adapted |
-| 12 | Света | Всё в порядке, теперь поехали. | Everything is fine, let us go now. | #150 00:10:31: Все, поехали | adapted: adapted |
+| 1 | Катя | Вы пока тихо посидите здесь. | You sit quietly in here for now. | #134 00:09:36: вы пока сидите | adapted: adapted |
+| 2 | Катя | Настя, скажи, что мне делать? | Nastya, tell me, what should I do? | #136 00:09:49: Настя, что мне делать | adapted: adapted |
+| 3 | Катя | А что, мы уже приехали? | Wait, have we arrived already? | #137 00:09:51: уже приехать | adapted: adapted |
+| 4 | Катя | Денис предложил с ним уехать. | Denis offered for me to go away with him. | #138 00:09:55: Мне Денис предложил с ним уехать | adapted: adapted |
+| 5 | Катя | Куда, у тебя завтра свадьба! | Where to, your wedding is tomorrow! | #139 00:09:57: Куда<br>#140 00:09:58: свадьба | adapted: adapted |
+| 6 | Катя | Спасибо большое, что напомнила мне. | Thank you very much for reminding me. | #141 00:10:00: Спасибо, что напомнила | adapted: adapted |
+| 7 | Катя | Это нормально, что я сомневаюсь? | Is it normal that I am having doubts? | #142 00:10:05: это нормально, что я сомневаюсь | adapted: adapted |
+| 8 | Катя | Никита ведь очень хороший человек. | Nikita is a very good person, after all. | #144 00:10:11: ты хороший | adapted: adapted |
+| 9 | Катя | Да, он правда очень хороший. | Yes, he is truly very good. | #145 00:10:13: Да, хороший | adapted: adapted |
+| 10 | Катя | Но я изменила ему с Денисом. | But I cheated on him with Denis. | #146 00:10:15: и изменила ему с Денисом | adapted: adapted |
+| 11 | Катя | В тот день он сделал предложение. | On that day he proposed to me. | #146 00:10:15: в тот день, когда он мне предложение сделал | adapted: adapted |
+| 12 | Катя | Всё в порядке, теперь поехали. | Everything is fine, let us go now. | #150 00:10:31: Все, поехали | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

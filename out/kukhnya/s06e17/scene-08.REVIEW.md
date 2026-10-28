@@ -14,14 +14,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 2 | Лёва | Я ведь живу с мамой. | After all, I live with my mother. | #112 00:07:07: живу с мамой | adapted: adapted |
 | 3 | Лёва | А Гуля тоже хорошо зарабатывает. | And Gulya also earns well. | #114 00:07:14: А Гуля тоже зарабатывает | adapted: adapted |
 | 4 | Лёва | И денег ещё больше стало. | And there came to be even more money. | #115 00:07:16: И денег еще больше стало | adapted: adapted |
-| 5 | Аня | Ты готов отдать эти деньги? | Are you ready to give away this money? | #117 00:07:20: И ты готов отдать все эти деньги | adapted: adapted |
+| 5 | Шеф | Ты готов отдать эти деньги? | Are you ready to give away this money? | #117 00:07:20: И ты готов отдать все эти деньги | adapted: adapted |
 | 6 | Лёва | Это же дело вашей жизни. | This is your life's work, after all. | #118 00:07:24: это же дело всей вашей жизни | adapted: adapted |
 | 7 | Лёва | Ради ресторана ничего не жалко. | For the sake of the restaurant I grudge nothing. | #120 00:07:29: Ради нашего ресторана мне ничего не жалко | adapted: adapted |
 | 8 | Лёва | А я себе ещё скоплю. | And I will save up more for myself. | #121 00:07:31: А я ещё скоплю | adapted: adapted |
-| 9 | Аня | Лёва, ты точно попадёшь в рай. | Lyova, you will definitely go to heaven. | #122 00:07:34: Лёва, ты попадёшь в рай | adapted: adapted |
-| 10 | Аня | Лёва, быстро лети в банк. | Lyova, fly quickly to the bank. | #125 00:07:44: Лёва, лети в банк | adapted: adapted |
-| 11 | Инспектор | Сначала я получу свои деньги. | First I will receive my money. | #126 00:07:49: не получу деньги | adapted: adapted |
-| 12 | Аня | Я должен увидеть ваш отзыв. | I must see your review. | #127 00:07:52: я должен увидеть, что будет в отзыве | adapted: adapted |
+| 9 | Шеф | Лёва, ты точно попадёшь в рай. | Lyova, you will definitely go to heaven. | #122 00:07:34: Лёва, ты попадёшь в рай | adapted: adapted |
+| 10 | Шеф | Лёва, быстро лети в банк. | Lyova, fly quickly to the bank. | #125 00:07:44: Лёва, лети в банк | adapted: adapted |
+| 11 | Лёва | Сначала я получу свои деньги. | First I will receive my money. | #126 00:07:49: не получу деньги | adapted: adapted |
+| 12 | Шеф | Я должен увидеть ваш отзыв. | I must see your review. | #127 00:07:52: я должен увидеть, что будет в отзыве | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

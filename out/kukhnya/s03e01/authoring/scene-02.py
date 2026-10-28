@@ -1,30 +1,30 @@
 ID = 'kukhnya-s03e01-scene-02'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 1
 SCENE = 2
-TITLE = 'Оборудование для кухни  (Equipment for the Kitchen)'
+TITLE = "Оборудование для кухни  (Equipment for the Kitchen)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja'}
-LABELS = {'anya': 'Нагиев', 'chef': 'Шеф'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.01"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "nagiyev": "angelina", "chef": "anja"}
+LABELS = {"nagiyev": "Нагиев", "chef": "Шеф"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.01'
 SOURCE_FILE = 'sources/kukhnya/s03/e01.ru.srt'
 
 INTRO = 'Back in the kitchen of Claude Monet, celebrity owner Dmitry Nagiyev shows off shiny boxes of high-tech culinary equipment, while head chef Viktor Barinov stubbornly defends classic French cooking.'
 
 STORY = [
-    ('anya', 'Красота! Даже в коробках.', 'Beauty! Even in the boxes.', [(16, 'Красота даже в коробках')], 'adapted'),
+    ('nagiyev', 'Красота! Даже в коробках.', 'Beauty! Even in the boxes.', [(16, 'Красота даже в коробках')], 'adapted'),
     ('chef', 'Дима, что это?', 'Dima, what is this?', [(17, 'Дима, что это')], ''),
-    ('anya', 'Ты же хочешь быть модным.', "You want to be fashionable, don't you.", [(18, 'Ты же хочешь быть модным')], 'adapted'),
-    ('anya', 'Это оборудование для молекулярной кухни.', 'This is equipment for molecular cuisine.', [(19, 'Это оборудование для молекулярной кухни')], ''),
-    ('anya', 'Для молекулярной кухни. Ясно?', 'For molecular cuisine. Clear?', [(20, 'Для молекулярной кухни'), (21, 'Ясно')], 'adapted'),
-    ('anya', 'Кому я говорю о моде?', 'Who am I talking to about fashion?', [(22, 'кому я говорю о моде')], 'adapted'),
+    ('nagiyev', 'Ты же хочешь быть модным.', "You want to be fashionable, don't you.", [(18, 'Ты же хочешь быть модным')], 'adapted'),
+    ('nagiyev', 'Это оборудование для молекулярной кухни.', 'This is equipment for molecular cuisine.', [(19, 'Это оборудование для молекулярной кухни')], ''),
+    ('nagiyev', 'Для молекулярной кухни. Ясно?', 'For molecular cuisine. Clear?', [(20, 'Для молекулярной кухни'), (21, 'Ясно')], 'adapted'),
+    ('nagiyev', 'Кому я говорю о моде?', 'Who am I talking to about fashion?', [(22, 'кому я говорю о моде')], 'adapted'),
     ('chef', 'Мы классический французский ресторан.', 'We are a classic French restaurant.', [(23, 'мы классический французский ресторан')], ''),
     ('chef', 'А классика никогда не уходит из моды.', 'And classics never go out of fashion.', [(24, 'а классика никогда не уходит из моды')], ''),
     ('chef', 'Эта кухня нам не нужна.', 'We do not need this cuisine.', [(25, 'нам не нужна')], 'adapted'),
-    ('anya', 'Устали люди есть одно и то же.', 'People are tired of eating the same thing.', [(27, 'Устали люди. Есть одно и то же')], 'adapted'),
-    ('anya', 'Сегодня же ищи человека.', 'Look for a person this very day.', [(28, 'сегодня же ищи человека')], 'adapted'),
+    ('nagiyev', 'Устали люди есть одно и то же.', 'People are tired of eating the same thing.', [(27, 'Устали люди. Есть одно и то же')], 'adapted'),
+    ('nagiyev', 'Сегодня же ищи человека.', 'Look for a person this very day.', [(28, 'сегодня же ищи человека')], 'adapted'),
     ('chef', 'Да, моя курочка.', 'Yes, my little chicken.', [(31, 'Да, моя курочка')], ''),
 ]
 
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'That brings the kitchen clash to a close. Watch for Nagiyev unveiling the molecular cuisine gear and Barinov insisting that classic French food never goes out of style.'
-CLOSING = ('chef', 'Классика всегда в моде!')
+OUTRO = 'That brings the kitchen clash to a close. Watch for Nagiyev unveiling the molecular cuisine gear and Barinov insisting that classic French food never goes out of style. See you next time!'
+CLOSING = ("chef", "Увидимся!")

@@ -26,14 +26,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Hi there. Are you hungry?' The past-tense verb ending marks the grammatical gender and number of the subject directly.
-- 'Well, a little bit.' Max keeps the sentence short and direct, relying on Russian case endings to show how the words connect.
-- 'What do we have for dinner tonight?' In spoken Russian, Max omits unnecessary linking verbs so the key idea lands immediately.
-- 'Whatever you cook is what we will eat.' Vika uses natural conversational word order here to highlight the most important part of the reply.
-- 'I can cook, of course.' Notice how Max pairs a modal word or finite verb with an infinitive to express the action.
-- 'I am just really tired today.' Max keeps the sentence short and direct, relying on Russian case endings to show how the words connect.
-- 'Listen, why don't we order something?' In spoken Russian, Vika omits unnecessary linking verbs so the key idea lands immediately.
-- 'Maybe let's make some quick pancakes, huh?' Max uses natural conversational word order here to highlight the most important part of the reply.
-- 'You can make them, right?' Max uses natural conversational word order here to highlight the most important part of the reply.
-- 'I can. Great.' In spoken Russian, Vika omits unnecessary linking verbs so the key idea lands immediately.
-- 'Here, everything is ready.' Vika uses natural conversational word order here to highlight the most important part of the reply.
-- 'It smells delicious.' Max keeps the sentence short and direct, relying on Russian case endings to show how the words connect.
+- 'Well, a little bit.' Notice how Russian puts 'there is' and 'a little' together in a short, direct phrase where word endings show how the ideas connect.
+- 'What do we have for dinner tonight?' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.
+- 'Whatever you cook is what we will eat.' In everyday Russian, 'will prepare' flows straight into 'there is' without extra linking words.
+- 'I can cook, of course.' Max pairs 'can, am able to' with 'to prepare, cook' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
+- 'I am just really tired today.' Notice how Russian puts 'simply, just' and 'today' together in a short, direct phrase where word endings show how the ideas connect.
+- 'Listen, why don't we order something?' Starting with the everyday word for 'let us' is how Russian speakers warmly invite someone to do something together.
+- 'Maybe let's make some quick pancakes, huh?' Starting with the everyday word for 'let us' is how Russian speakers warmly invite someone to do something together.
+- 'You can make them, right?' In spoken Russian, the words stay in their normal statement order and Max's rising voice at the end turns the line into a question.
+- 'I can. Great.' Notice how Russian puts 'can, am able to' and 'perfectly' together in a short, direct phrase where word endings show how the ideas connect.
+- 'Here, everything is ready.' Vika centers this short reply on 'ready', letting a few direct words carry the whole meaning.
+- 'It smells delicious.' In everyday Russian, 'to smell' flows straight into 'deliciously' without extra linking words.

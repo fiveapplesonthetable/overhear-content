@@ -1,14 +1,14 @@
-ID = "kukhnya-s04e02-scene-03"
-SHOW = "kukhnya"
+ID = 'kukhnya-s04e02-scene-03'
+SHOW = 'kukhnya'
 SEASON = 4
 EPISODE = 2
 SCENE = 3
-TITLE = 'Сводный брат  (The Half-Brother)'
+TITLE = "Сводный брат  (The Half-Brother)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'denis': 'anja', 'vika': 'angelina'}
-LABELS = {'anya': 'Макс', 'denis': 'Денис', 'vika': 'Вика'}
-SOURCE_NAME = "Кухня (Kukhnya) S4.02"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "denis": "anja", "vika": "angelina"}
+LABELS = {"anya": "Макс", "denis": "Денис", "vika": "Вика"}
+SOURCE_NAME = 'Кухня (Kukhnya) S4.02'
 SOURCE_FILE = 'sources/kukhnya/s04/e02.ru.srt'
 
 INTRO = 'Back in the apartment, Denis explains why he left Voronezh and asks if he can stay with Max and Vika until he finds a place of his own. Listen to their Russian conversation first, and then we will break it down.'
@@ -31,22 +31,20 @@ STORY = [
 OPENER = "Let's look closely at each Russian line in this scene."
 
 WALK = [
-    (0, None, "'And how long are you visiting us for?' In spoken Russian, Vika omits unnecessary linking verbs so the key idea lands immediately."),
-    (1, None, "'To try myself in something different.' Notice how Denis pairs a modal word or finite verb with an infinitive to express the action."),
-    (2, None, "'Besides, there are no prospects in Voronezh.' Denis uses natural conversational word order here to highlight the most important part of the reply."),
-    (3, None, "'I have outgrown that city.' In spoken Russian, Denis omits unnecessary linking verbs so the key idea lands immediately."),
-    (4, None, "'Until I find an apartment.' Denis uses natural conversational word order here to highlight the most important part of the reply."),
-    (5, None, "'Of course, brother.' Max uses natural conversational word order here to highlight the most important part of the reply."),
-    (6, None, "'Vika and I are all for it.' Max keeps the sentence short and direct, relying on Russian case endings to show how the words connect."),
-    (7, None, "'And why wasn't he at the wedding?' In spoken Russian, Vika omits unnecessary linking verbs so the key idea lands immediately."),
-    (8, None, "'Denis is my half-brother.' Max uses natural conversational word order here to highlight the most important part of the reply."),
-    (9, None, "'We have the same father and different mothers.' Max keeps the sentence short and direct, relying on Russian case endings to show how the words connect."),
-    (10, None, "'My mother is not very fond of him.' In spoken Russian, Max omits unnecessary linking verbs so the key idea lands immediately."),
-    (11, None, "'I understand her completely.' In spoken Russian, Vika omits unnecessary linking verbs so the key idea lands immediately."),
+    (0, None, "'And how long are you visiting us for?' In spoken Russian, the words stay in their normal statement order and Vika's rising voice at the end turns the line into a question."),
+    (1, None, "'To try myself in something different.' Denis pairs 'to taste' with 'friend' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'."),
+    (2, None, "'Besides, there are no prospects in Voronezh.' Notice how Russian puts 'Voronezh' and 'prospects, future' together in a short, direct phrase where word endings show how the ideas connect."),
+    (3, None, "'I have outgrown that city.' Here Denis anchors the thought on 'grew up' and finishes on 'city', keeping the spoken rhythm brisk and natural."),
+    (4, None, "'Until I find an apartment.' In everyday Russian, 'for now / bye / while' flows straight into 'will find' without extra linking words."),
+    (5, None, "'Of course, brother.' Max pairs 'of course, certainly' with 'brother' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'."),
+    (6, None, "'Vika and I are all for it.' Spoken Russian keeps this brief and expressive, built right around 'Vika' without extra helper words."),
+    (7, None, "'And why wasn't he at the wedding?' Here Vika anchors the thought on 'why' and finishes on 'wedding', keeping the spoken rhythm brisk and natural."),
+    (8, None, "'Denis is my half-brother.' In everyday Russian, 'half-brother' flows straight into 'brother' without extra linking words."),
+    (9, None, "'We have the same father and different mothers.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'."),
+    (10, None, "'My mother is not very fond of him.' Notice how Russian puts 'mom' and 'fond' together in a short, direct phrase where word endings show how the ideas connect."),
+    (11, None, "'I understand her completely.' Vika centers this short reply on 'understand', letting a few direct words carry the whole meaning."),
 ]
 
 TRANSITION = 'With all the phrases clear, listen to the full Russian dialogue again.'
-
-OUTRO = "Now you have the phrases Denis uses to ask for a place to stay and Max's explanation of their family ties. Listen for how Russian distinguishes half-siblings from full siblings. See you in the next scene."
-CLOSING = ('anya', 'Конечно, брат.')
-CLOSING_TRANS = 'Of course, brother.'
+OUTRO = "Now you have the phrases Denis uses to ask for a place to stay and Max's explanation of their family ties. Listen for how Russian distinguishes half-siblings from full siblings. Until next time!"
+CLOSING = ("anya", "До свидания!")

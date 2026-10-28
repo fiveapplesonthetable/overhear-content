@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e17-scene-12'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 17
 SCENE = 12
-TITLE = 'Банкет для олигарха  (A Banquet for an Oligarch)'
+TITLE = "Банкет для олигарха  (A Banquet for an Oligarch)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja', 'nagiyev': 'angelina'}
-LABELS = {'anya': 'Макс', 'chef': 'Шеф', 'nagiyev': 'Нагиев'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.17"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "nagiyev": "angelina", "chef": "anja", "anya": "alisa"}
+LABELS = {"nagiyev": "Нагиев", "chef": "Шеф", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.17'
 SOURCE_FILE = 'sources/kukhnya/s03/e17.ru.srt'
 
 INTRO = "Chef Barinov is pleased that the power is out and the awful food is ready—until Nagiyev stumbles in through the dark and reveals that tonight's banquet is for a wealthy oligarch investor, not the chain buyer!"
@@ -33,7 +33,7 @@ OPENER = "Now let's go back through their conversation line by line and unpack t
 WALK = [
     (0, None, "'Chef, what are we going to do in the dark now?' Spoken Russian keeps this brisk, leaning on 'Chef Barinov' and finishing on 'darkness'. Chef Barinov answers right away."),
     (1, None, "'Nothing, we have already cooked everything.' Chef Barinov anchors the line on 'nothing', while 'cooked' completes the thought."),
-    (2, None, "'And the rest is no longer our problem.' The grammar packs 'and' and 'problems' into a tight, idiomatic kitchen exchange."),
+    (2, None, "'And the rest is no longer our problem.' Here Chef Barinov anchors the thought on 'remaining, other, the rest' and finishes on 'problems', keeping the spoken rhythm brisk and natural."),
     (3, None, "'Guys, what on earth is going on in here?' Here the Russian phrasing highlights 'guys' before landing on 'is happening'."),
     (4, None, "'We have a banquet scheduled for an oligarch today.' Here the Russian phrasing highlights 'at' before landing on 'planned'."),
     (5, None, "'Wait, Dima, what oligarch are you talking about?' The meaning hinges on 'wait' working together with 'oligarch' in spoken Russian."),
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Chef Barinov freezes in horror as he realizes the kitchen just sabotaged the meal meant for their only potential savior.'
-CLOSING = ('nagiyev', 'У нас банкет для олигарха!')
+OUTRO = 'Chef Barinov freezes in horror as he realizes the kitchen just sabotaged the meal meant for their only potential savior. See you next time!'
+CLOSING = ("nagiyev", "Пока!")

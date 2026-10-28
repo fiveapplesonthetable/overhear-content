@@ -10,24 +10,24 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Да. Окей. | Yes. Okay. | #307 00:18:43: Да. Окей | verbatim |
-| 2 | Саша | Тогда тебе не о чем беспокоиться. | Then you have nothing to worry about. | #308 00:18:45: Тогда тебе не о чем беспокоиться | verbatim |
+| 1 | Шеф | Да. Окей. | Yes. Okay. | #307 00:18:43: Да. Окей | verbatim |
+| 2 | Шеф | Тогда тебе не о чем беспокоиться. | Then you have nothing to worry about. | #308 00:18:45: Тогда тебе не о чем беспокоиться | verbatim |
 | 3 | Сеня | Ты на что намекаешь? | What are you hinting at? | #309 00:18:47: Ты на что намекаешь | verbatim |
-| 4 | Аня | В смысле? | What do you mean? | #309 00:18:47: В смысле | verbatim |
-| 5 | Саша | А что это ты так разволновался? | Why are you getting so worked up all of a sudden? | #310 00:18:49: А что это ты так разволновался | verbatim |
+| 4 | Шеф | В смысле? | What do you mean? | #309 00:18:47: В смысле | verbatim |
+| 5 | Шеф | А что это ты так разволновался? | Why are you getting so worked up all of a sudden? | #310 00:18:49: А что это ты так разволновался | verbatim |
 | 6 | Сеня | У вас же все хорошо. | Everything is going great between you two, right? | #311 00:18:51: У вас же все хорошо | verbatim |
-| 7 | Аня | А я не волнуюсь. | I am not worked up at all. | #311 00:18:51: А я не волнуюсь | verbatim |
-| 8 | Саша | Да, шеф. | Yes, Chef. | #315 00:19:15: Да, шеф | verbatim |
+| 7 | Шеф | А я не волнуюсь. | I am not worked up at all. | #311 00:18:51: А я не волнуюсь | verbatim |
+| 8 | Шеф | Да, шеф. | Yes, Chef. | #315 00:19:15: Да, шеф | verbatim |
 | 9 | Сеня | Салат с креветками и руколой. | Shrimp and arugula salad. | #316 00:19:17: Салат с креветками и руколой | verbatim |
-| 10 | Аня | Ты Сашу не видел? | Have you seen Sasha anywhere? | #318 00:19:20: ты Сашу не видел | verbatim |
-| 11 | Саша | Позавчера, вчера, сегодня. | The day before yesterday, yesterday, and today. | #319 00:19:23: Позавчера, вчера, сегодня | verbatim |
+| 10 | Шеф | Ты Сашу не видел? | Have you seen Sasha anywhere? | #318 00:19:20: ты Сашу не видел | verbatim |
+| 11 | Шеф | Позавчера, вчера, сегодня. | The day before yesterday, yesterday, and today. | #319 00:19:23: Позавчера, вчера, сегодня | verbatim |
 | 12 | Сеня | Сашу видел. | I saw Sasha. | #319 00:19:23: Сашу видел | verbatim |
-| 13 | Аня | Надеюсь, что завтра тоже увижу. | And I hope I will see her tomorrow too. | #320 00:19:26: Надеюсь, что завтра тоже увижу | verbatim |
+| 13 | Шеф | Надеюсь, что завтра тоже увижу. | And I hope I will see her tomorrow too. | #320 00:19:26: Надеюсь, что завтра тоже увижу | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Yes. Okay.' In Russian, the idea of 'yes' flows naturally into 'okay' without extra filler words.
-- 'Then you have nothing to worry about.' Notice the reflexive suffix on the verb meaning 'to worry', turning the action back on the subject. Senya answers right away.
+- 'Then you have nothing to worry about.' In everyday Russian, 'then' flows straight into 'to worry' without extra linking words.
 - 'What are you hinting at?' Senya brings out the contrast between 'you' and 'on' in a few short words.
 - 'What do you mean?' Here the Russian phrasing highlights 'sense' before landing on 'sense'.
 - 'Why are you getting so worked up all of a sudden?' The '-l' ending on the verb meaning 'to get nervous' places the action in the masculine past tense. Senya answers right away.

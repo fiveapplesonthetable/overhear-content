@@ -11,18 +11,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Лёва | Мама, скажи, что она здесь сейчас делает? | Mom, tell me, what is she doing here right now? | #286 00:19:51: Мама, что она здесь делает | adapted: adapted |
-| 2 | Аня | Ваша мама сама пригласила меня на ужин. | Your mom herself invited me to dinner. | #287 00:19:54: пригласила меня на ужин | adapted: adapted |
+| 2 | Гость | Ваша мама сама пригласила меня на ужин. | Your mom herself invited me to dinner. | #287 00:19:54: пригласила меня на ужин | adapted: adapted |
 | 3 | Лёва | Гуле кажется, что ты специально сводишь нас. | It seems to Gulya that you are purposefully setting us up. | #288 00:19:55: Гуле кажется, что ты сводишь нас с Ларисой | adapted: adapted |
-| 4 | Аня | Что вы, Лёва сам решает, с кем встречаться. | Not at all, Lyova decides for himself whom to date. | #289 00:19:57: Что вы, Лев сам решает, с кем мы встречаться | adapted: adapted |
+| 4 | Гость | Что вы, Лёва сам решает, с кем встречаться. | Not at all, Lyova decides for himself whom to date. | #289 00:19:57: Что вы, Лев сам решает, с кем мы встречаться | adapted: adapted |
 | 5 | Лёва | Вот именно, и я уже выбрал Гулю. | Exactly, and I have already chosen Gulya. | #290 00:20:00: И я уже выбрал Гулю | adapted: adapted |
-| 6 | Аня | Я не виновата, что влюбилась в этого человека. | It is not my fault that I fell in love with this person. | #290 00:20:00: Я не виновата, что ты уже влюбилась в этого человека | adapted: adapted |
-| 7 | Гуля | Неужели ты влюбилась в него так быстро? | Did you really fall in love with him so quickly? | #291 00:20:05: Влюбилась? Так быстро | adapted: adapted |
-| 8 | Гуля | Я прекрасно понимаю, что тебе квартира нужна. | I understand perfectly well that you want the apartment. | #293 00:20:13: Квартира ей нужна | adapted: adapted |
-| 9 | Аня | Слушай меня внимательно, эта квартира будет моя. | Listen to me carefully, this apartment will be mine. | #294 00:20:20: эта хата моя | adapted: adapted |
-| 10 | Гуля | Что ты такое говоришь, вы вообще о чём? | What are you saying, what are you even talking about? | #295 00:20:24: Вы о чем | adapted: adapted |
-| 11 | Аня | Я уже два месяца ухаживаю за его мамой. | I have already been looking after his mom for two months. | #295 00:20:24: Я уже два месяца | adapted: adapted |
-| 12 | Аня | Так что быстро уходи из моей квартиры! | So get out of my apartment quickly! | #296 00:20:28: сваливай из моей квартиры | adapted: adapted |
-| 13 | Гуля | Мы ещё посмотрим, чья это будет квартира! | We will see whose apartment this will be! | #298 00:20:34: мы еще посмотрим, чья это будет квартира | adapted: adapted |
+| 6 | Гость | Я не виновата, что влюбилась в этого человека. | It is not my fault that I fell in love with this person. | #290 00:20:00: Я не виновата, что ты уже влюбилась в этого человека | adapted: adapted |
+| 7 | Гость | Неужели ты влюбилась в него так быстро? | Did you really fall in love with him so quickly? | #291 00:20:05: Влюбилась? Так быстро | adapted: adapted |
+| 8 | Гость | Я прекрасно понимаю, что тебе квартира нужна. | I understand perfectly well that you want the apartment. | #293 00:20:13: Квартира ей нужна | adapted: adapted |
+| 9 | Гость | Слушай меня внимательно, эта квартира будет моя. | Listen to me carefully, this apartment will be mine. | #294 00:20:20: эта хата моя | adapted: adapted |
+| 10 | Гость | Что ты такое говоришь, вы вообще о чём? | What are you saying, what are you even talking about? | #295 00:20:24: Вы о чем | adapted: adapted |
+| 11 | Гость | Я уже два месяца ухаживаю за его мамой. | I have already been looking after his mom for two months. | #295 00:20:24: Я уже два месяца | adapted: adapted |
+| 12 | Гость | Так что быстро уходи из моей квартиры! | So get out of my apartment quickly! | #296 00:20:28: сваливай из моей квартиры | adapted: adapted |
+| 13 | Гость | Мы ещё посмотрим, чья это будет квартира! | We will see whose apartment this will be! | #298 00:20:34: мы еще посмотрим, чья это будет квартира | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

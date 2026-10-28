@@ -1,14 +1,14 @@
 ID = 'kukhnya-s05e07-scene-02'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 7
 SCENE = 2
 TITLE = "Разговор у машины Вики  (Conversation by Vika's Car)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja'}
-LABELS = {'anya': 'Макс', 'vika': 'Вика'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.07"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "vika": "angelina"}
+LABELS = {"anya": "Макс", "vika": "Вика"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.07'
 SOURCE_FILE = 'sources/kukhnya/s05/e07.ru.srt'
 
 INTRO = 'Outside the hotel, Vika slams on her brakes just inches from Max. Still believing that someone else is the father, Max offers to raise the child as his own, only for Vika to reject him—right before her phone rings.'
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'As Max steps behind the car, he overhears Vika telling her sister on the phone that the baby really is his. See you in the next scene.'
-CLOSING = ('vika', 'Дай ему мой номер телефона.')
+OUTRO = 'As Max steps behind the car, he overhears Vika telling her sister on the phone that the baby really is his. See you next time!'
+CLOSING = ("vika", "До завтра!")

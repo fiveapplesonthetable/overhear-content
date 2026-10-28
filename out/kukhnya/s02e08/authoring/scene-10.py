@@ -1,15 +1,15 @@
-ID = "kukhnya-s02e08-scene-10"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e08-scene-10'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 8
 SCENE = 10
-TITLE = 'Цветы от тайного поклонника и допрос Кости  (Flowers from a Secret Admirer and Questioning Kostya)'
+TITLE = "Цветы от тайного поклонника и допрос Кости  (Flowers from a Secret Admirer and Questioning Kostya)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja', 'vika': 'angelina'}
-LABELS = {'anya': 'Макс', 'chef': 'Шеф', 'vika': 'Вика'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.08"
-SOURCE_FILE = "sources/kukhnya/s02/e08.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "vika": "angelina", "chef": "anja"}
+LABELS = {"anya": "Макс", "vika": "Вика", "chef": "Шеф"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.08'
+SOURCE_FILE = 'sources/kukhnya/s02/e08.ru.srt'
 
 INTRO = 'When Elena calls Chef Barinov on the phone to thank him warmly for the anonymous bouquet of flowers, Barinov realizes his gesture worked after all. Meanwhile at the apartment, Nastya eagerly questions a nervous Kostya about whether he spoke with her father and if her parents are coming tomorrow.'
 
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the whole conversation once more from start to finish."
-
-OUTRO = 'When you watch Scene 10 of Episode 8, listen out for the exchange around flowers from a secret admirer and questioning kostya — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('vika', 'Они приедут к нам завтра?')
+OUTRO = 'That wraps up this scene as elena calls to thank Viktor Petrovich for the anonymous flowers he sent her, and at home Nastya eagerly asks Kostya how his conversation with her father went. See you next time!'
+CLOSING = ("vika", "До встречи!")

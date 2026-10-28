@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e12-scene-17'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 12
 SCENE = 17
-TITLE = 'Разоблачение квартирной аферы  (The Apartment Scam Exposed)'
+TITLE = "Разоблачение квартирной аферы  (The Apartment Scam Exposed)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'hostess': 'anja', 'nagiyev': 'angelina'}
-LABELS = {'anya': 'Макс', 'hostess': 'Хостес', 'nagiyev': 'Нагиев'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.12"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "hostess": "anja", "anya": "alisa", "nagiyev": "angelina"}
+LABELS = {"hostess": "Хостес", "anya": "Макс", "nagiyev": "Нагиев"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.12'
 SOURCE_FILE = 'sources/kukhnya/s03/e12.ru.srt'
 
 INTRO = "At the restaurant, Dmitry Nagiyev pushes everyone aside and vows to deal with Kirill Ilyich himself. Meanwhile, the landlady barges into the apartment, points out a man's sock on the floor and the fact that the building has had no hot water all week, and kicks Max out without refunding his money. Listen to the Russian scene first."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Outsmarted by the sharp-eyed landlady, Max loses both his new apartment and all his rent money. Meanwhile, back at Claude Monet, an ambulance pulls up outside and everyone fears the worst about Grandpa Kirill.'
-CLOSING = ('hostess', 'А деньги я не верну!')
+OUTRO = 'Outsmarted by the sharp-eyed landlady, Max loses both his new apartment and all his rent money. Meanwhile, back at Claude Monet, an ambulance pulls up outside and everyone fears the worst about Grandpa Kirill. Until next time!'
+CLOSING = ("hostess", "Хорошего дня!")

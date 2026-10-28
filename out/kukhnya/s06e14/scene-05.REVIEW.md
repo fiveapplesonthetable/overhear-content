@@ -10,16 +10,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Гуля | Угощайтесь, пожалуйста, это прислала моя мама. | Help yourselves, please, my mom sent this. | #57 00:05:00: Угощайтесь. Это мне мама | adapted: adapted |
-| 2 | Гуля | Это наше старинное национальное домашнее блюдо. | This is our traditional national homemade dish. | #58 00:05:05: Наше национальное блюдо | adapted: adapted |
-| 3 | Аня | Скажи, мама, тебе ведь очень вкусно? | Tell me, Mom, it tastes very good to you, right? | #60 00:05:12: Вкусно | adapted: adapted |
+| 1 | Гость | Угощайтесь, пожалуйста, это прислала моя мама. | Help yourselves, please, my mom sent this. | #57 00:05:00: Угощайтесь. Это мне мама | adapted: adapted |
+| 2 | Гость | Это наше старинное национальное домашнее блюдо. | This is our traditional national homemade dish. | #58 00:05:05: Наше национальное блюдо | adapted: adapted |
+| 3 | Лёва | Скажи, мама, тебе ведь очень вкусно? | Tell me, Mom, it tastes very good to you, right? | #60 00:05:12: Вкусно | adapted: adapted |
 | 4 | Гость | А что это за вкусное мясо? | And what kind of tasty meat is this? | #61 00:05:14: А что это за мясо | adapted: adapted |
-| 5 | Гуля | Это настоящая свежая домашняя конина. | This is real fresh homemade horse meat. | #62 00:05:16: Канина | adapted: adapted |
+| 5 | Гость | Это настоящая свежая домашняя конина. | This is real fresh homemade horse meat. | #62 00:05:16: Канина | adapted: adapted |
 | 6 | Гость | Лёва, но ведь это просто ужасно! | Lyova, but this is simply awful! | #63 00:05:19: это отвратительно | adapted: adapted |
-| 7 | Аня | Мама, перестань, ведь это их культура. | Mom, stop it, after all this is their culture. | #64 00:05:24: Мама, это их культура | adapted: adapted |
-| 8 | Гуля | Скажите, что у вас сейчас происходит? | Tell me, what is going on with you right now? | #65 00:05:28: Что происходит | adapted: adapted |
-| 9 | Аня | Мы просто иногда немецкий язык практикуем. | We just practice the German language sometimes. | #65 00:05:28: иногда язык практикуем | adapted: adapted |
-| 10 | Аня | Мама, очень некрасиво так громко спорить. | Mom, it is very impolite to argue so loudly. | #66 00:05:36: Мама, некрасиво | adapted: adapted |
+| 7 | Лёва | Мама, перестань, ведь это их культура. | Mom, stop it, after all this is their culture. | #64 00:05:24: Мама, это их культура | adapted: adapted |
+| 8 | Гость | Скажите, что у вас сейчас происходит? | Tell me, what is going on with you right now? | #65 00:05:28: Что происходит | adapted: adapted |
+| 9 | Лёва | Мы просто иногда немецкий язык практикуем. | We just practice the German language sometimes. | #65 00:05:28: иногда язык практикуем | adapted: adapted |
+| 10 | Лёва | Мама, очень некрасиво так громко спорить. | Mom, it is very impolite to argue so loudly. | #66 00:05:36: Мама, некрасиво | adapted: adapted |
 | 11 | Гость | Это всё равно что кота съесть. | That is the same as eating a cat. | #68 00:05:42: из нашего кота сделать суп | adapted: adapted |
 | 12 | Гость | Я считаю, что это настоящее варварство. | I consider this to be real barbarism. | #69 00:05:46: Это варварство | adapted: adapted |
 

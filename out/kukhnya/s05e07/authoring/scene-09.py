@@ -1,31 +1,31 @@
 ID = 'kukhnya-s05e07-scene-09'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 7
 SCENE = 9
-TITLE = 'Марина устраивается уборщицей  (Marina Gets Hired as a Cleaner)'
+TITLE = "Марина устраивается уборщицей  (Marina Gets Hired as a Cleaner)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'gulya': 'anja', 'ainura': 'angelina'}
-LABELS = {'anya': 'Сеня', 'gulya': 'Гуля', 'ainura': 'Айнура'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.07"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "senya": "angelina", "gulya": "anja"}
+LABELS = {"senya": "Сеня", "gulya": "Гуля"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.07'
 SOURCE_FILE = 'sources/kukhnya/s05/e07.ru.srt'
 
 INTRO = 'Stunned to see his wife in uniform, Senya asks Marina what she is doing at the hotel. Marina announces that Ainura has hired her as a cleaner for the rest of her vacation so she can watch Senya and Katya.'
 
 STORY = [
-    ('anya', 'Ты что тут делаешь?', 'What are you doing here?', [(149, 'Ты что тут делаешь')], 'adapted'),
+    ('senya', 'Ты что тут делаешь?', 'What are you doing here?', [(149, 'Ты что тут делаешь')], 'adapted'),
     ('gulya', 'Я теперь тут работаю.', 'I work here now.', [(149, 'Я теперь тут работаю')], 'adapted'),
-    ('anya', 'Кем ты работаешь, уборщицей?', 'What are you working as, a cleaner?', [(150, 'Кем ты работаешь? Уборщица')], 'adapted'),
-    ('anya', 'Ты же менеджер, Марин, что люди скажут?', 'You are a manager, Marina, what will people say?', [(151, 'Ты менеджер. Марин, что люди скажут')], 'adapted'),
+    ('senya', 'Кем ты работаешь, уборщицей?', 'What are you working as, a cleaner?', [(150, 'Кем ты работаешь? Уборщица')], 'adapted'),
+    ('senya', 'Ты же менеджер, Марин, что люди скажут?', 'You are a manager, Marina, what will people say?', [(151, 'Ты менеджер. Марин, что люди скажут')], 'adapted'),
     ('gulya', 'А что люди скажут, когда узнают про тебя на работе?', 'And what will people say when they find out about you at work?', [(152, 'А что люди скажут, когда узнают'), (152, 'на работе')], 'adapted'),
-    ('anya', 'Марин, у меня нет никаких романов на работе.', 'Marina, I do not have any romances at work.', [(153, 'Марин, у меня нет никаких'), (153, 'на работе')], 'adapted'),
+    ('senya', 'Марин, у меня нет никаких романов на работе.', 'Marina, I do not have any romances at work.', [(153, 'Марин, у меня нет никаких'), (153, 'на работе')], 'adapted'),
     ('gulya', 'Я теперь буду тут работать до конца отпуска.', 'I am going to work here now until the end of my vacation.', [(154, 'Я теперь буду тут работать до конца отпуска')], 'adapted'),
     ('gulya', 'Тебе всё понятно?', 'Is everything clear to you?', [(155, 'Понятно')], 'adapted'),
-    ('anya', 'Ты зачем её на работу взяла?', 'Why did you hire her?', [(156, 'Ты зачем ее на работу взяла')], 'adapted'),
-    ('ainura', 'Чтобы не говорили, что мы у местных работу отбирали.', 'So people do not say that we took jobs away from the locals.', [(157, 'чтоб не говорили, что мы у местных работу отбирали')], 'adapted'),
-    ('ainura', 'А ещё мне интересно, чем закончится этот сериал.', 'And I am also curious how this soap opera will end.', [(158, 'А еще мне интересно, чем закончится этот сериал')], 'adapted'),
-    ('ainura', 'Пошли, стиралку покажу.', 'Come on, I will show you the washing machine.', [(159, 'пошли, стиралку покажу')], 'adapted'),
+    ('senya', 'Ты зачем её на работу взяла?', 'Why did you hire her?', [(156, 'Ты зачем ее на работу взяла')], 'adapted'),
+    ('senya', 'Чтобы не говорили, что мы у местных работу отбирали.', 'So people do not say that we took jobs away from the locals.', [(157, 'чтоб не говорили, что мы у местных работу отбирали')], 'adapted'),
+    ('senya', 'А ещё мне интересно, чем закончится этот сериал.', 'And I am also curious how this soap opera will end.', [(158, 'А еще мне интересно, чем закончится этот сериал')], 'adapted'),
+    ('senya', 'Пошли, стиралку покажу.', 'Come on, I will show you the washing machine.', [(159, 'пошли, стиралку покажу')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "With Ainura enjoying the drama like a live soap opera, Senya is now stuck under Marina's constant surveillance in the kitchen. See you in the next scene."
-CLOSING = ('ainura', 'Идём работать, Марина.')
+OUTRO = "With Ainura enjoying the drama like a live soap opera, Senya is now stuck under Marina's constant surveillance in the kitchen. Until next time!"
+CLOSING = ("senya", "До завтра!")

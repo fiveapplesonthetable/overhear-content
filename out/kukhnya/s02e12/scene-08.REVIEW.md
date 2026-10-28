@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Спасибо, шеф. | Thank you, Chef. | #119 00:07:38: Спасибо, шеф | verbatim |
-| 2 | Костя | Ты где готовить учился? | Where did you learn to cook? | #120 00:07:40: Ты где готовить учился | verbatim |
+| 1 | Шеф | Спасибо, шеф. | Thank you, Chef. | #119 00:07:38: Спасибо, шеф | verbatim |
+| 2 | Шеф | Ты где готовить учился? | Where did you learn to cook? | #120 00:07:40: Ты где готовить учился | verbatim |
 | 3 | Настя | О, в армии еще чему-то учат? | Oh, they still teach you something in the army? | #122 00:07:44: О, в армии еще чему-то учат | verbatim |
-| 4 | Аня | А ты не служил? | Wait, did you not serve? | #123 00:07:46: А ты не служил | verbatim |
-| 5 | Костя | Но, между прочим, тебе тоже надо было сбежать. | By the way, you should have run away from the draft too. | #125 00:07:53: Но, между прочим, тебе тоже надо было сбежать | verbatim |
+| 4 | Шеф | А ты не служил? | Wait, did you not serve? | #123 00:07:46: А ты не служил | verbatim |
+| 5 | Шеф | Но, между прочим, тебе тоже надо было сбежать. | By the way, you should have run away from the draft too. | #125 00:07:53: Но, между прочим, тебе тоже надо было сбежать | verbatim |
 | 6 | Настя | У тебя есть потенциал? | Do you think I have potential? | #126 00:07:56: У тебя есть потенциал | verbatim |
-| 7 | Аня | Да, заходи. | Yes, come on in. | #127 00:08:07: Да, заходи | verbatim |
-| 8 | Костя | Да я вообще-то на работе. | I am actually on the clock right now. | #129 00:08:12: Да я вообще-то на работе | verbatim |
+| 7 | Шеф | Да, заходи. | Yes, come on in. | #127 00:08:07: Да, заходи | verbatim |
+| 8 | Шеф | Да я вообще-то на работе. | I am actually on the clock right now. | #129 00:08:12: Да я вообще-то на работе | verbatim |
 | 9 | Настя | Да ладно, шеф разрешает. | Come on, the Chef allows it. | #130 00:08:14: Да ладно, шеф разрешает | verbatim |
-| 10 | Аня | Слушай, а расскажи мне о наших девушках. | Listen, tell me about our girls here. | #131 00:08:17: Слушай, а расскажи мне о наших девушках | verbatim |
-| 11 | Костя | Понял, девушка моего друга, мой враг. | Got it, pal's girlfriend is off-limits. | #134 00:08:25: Понял, девушка моего друга, мой враг | verbatim |
+| 10 | Шеф | Слушай, а расскажи мне о наших девушках. | Listen, tell me about our girls here. | #131 00:08:17: Слушай, а расскажи мне о наших девушках | verbatim |
+| 11 | Шеф | Понял, девушка моего друга, мой враг. | Got it, pal's girlfriend is off-limits. | #134 00:08:25: Понял, девушка моего друга, мой враг | verbatim |
 | 12 | Настя | А ладно, в хорошем смысле. | All right, in the good sense. | #135 00:08:28: А ладно, в хорошем смысле | verbatim |
-| 13 | Аня | А вон та. | And what about that one over there. | #136 00:08:30: А вон та | verbatim |
+| 13 | Шеф | А вон та. | And what about that one over there. | #136 00:08:30: А вон та | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

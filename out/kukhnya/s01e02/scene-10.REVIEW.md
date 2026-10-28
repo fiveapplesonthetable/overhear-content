@@ -1,32 +1,40 @@
-# kukhnya-s01e02-scene-10: review sheet
+# Гости просят шефа  (The Guests Want the Chef) — `kukhnya-s01e02-scene-10`
 
-Title: Гости просят шефа  (The Guests Want the Chef)
-Level: A1 — Duolingo Section 2
-Pair: ru-en
-Source: Кухня (Kukhnya) S1.02
-Cues 131-148. Sasha tells Senya and Fedya that the rival chef wants to see Barinov.
+**Source:** Кухня (Kukhnya) S1.02 · `sources/kukhnya/s01/e02.ru.dual.srt`  
+**Target level:** A1 — Duolingo Section 2
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+## Cast
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+| Role | Voice | Label |
+|---|---|---|
+| `narrator` | sky | — |
+| `fedya` | anja | Федя |
+| `senya` | angelina | Сеня |
+
+## Part 1 — Intro
+
+> Inside the kitchen of Claude Monet, panic erupts when waitress Sasha reports that a dining guest has summoned the head chef. Having secretly improvised a replacement dish behind Barinov's back, cooks Senya and Fedya desperately argue over who must face the fiery chef. Let's listen to their conversation in Russian first.
+
+## Part 2 — Story
+
+| # | Speaker | Line | English | Source cue(s) | Change |
 |---|---|---|---|---|---|
-| 1 | Саша | Ребята, гости в зале просят шефа! | Guys, the guests in the dining hall want the chef! | #138 00:10:34: Гости просят шефа | adapted: breaking the alarming news |
-| 2 | Сеня | Что? Она уже попробовала наше блюдо? | What? Has she already tasted our dish? | new | new: asking nervously |
-| 3 | Федя | Да, она съела почти всё фрикасе. | Yes, she ate almost all the fricassee. | new | new: confirming the plate is empty |
-| 4 | Сеня | Может быть, она хочет добавки? | Maybe she wants seconds? | #136 00:10:25: добавки попросить | adapted: hoping for the best |
-| 5 | Федя | Нет, она зовёт именно шеф-повара. | No, she is calling specifically for the head chef. | #134 00:10:16: Позовите, пожалуйста, вашего шефа | adapted: clarifying the summons |
-| 6 | Сеня | Я предупреждал! Это была плохая идея! | I warned you! That was a bad idea! | #140 00:10:38: Предупреждал | adapted: blaming Fedya |
-| 7 | Федя | Сам иди к шефу в кабинет! | Go to Chef's office yourself! | #140 00:10:38: Иди к шефу | adapted: refusing to go |
-| 8 | Сеня | Почему я? Ты всё это придумал! | Why me? You came up with all of this! | #141 00:10:40: Причем здесь я<br>#142 00:10:44: Все придумал | adapted: defending himself |
-| 9 | Федя | Ты его правая рука на кухне. | You are his right-hand man in the kitchen. | #143 00:10:46: ты его правая рука | adapted: giving a flattering excuse |
-| 10 | Сеня | Я не пойду, он меня убьёт! | I am not going, he will kill me! | #144 00:10:50: Я не пойду | adapted: panicking completely |
-| 11 | Федя | Давайте просто напишем шефу сообщение. | Let us just send Chef a text message. | #146 00:10:56: давайте напишем шефу | adapted: proposing a coward's way out |
-| 12 | Сеня | И сразу напишем заявление об увольнении? | And write our resignation letters right away? | #147 00:10:59: заявления по собственному напишем | adapted: mocking the proposal |
-| 13 | Федя | Не надо каркать раньше времени! | No need to jinx it ahead of time! | #148 00:11:02: Не надо каркать | adapted: telling him to stop predicting doom |
+| 0 | Федя | Ребята, гости в зале просят шефа! | Guys, the guests in the dining hall want the chef! | #138 "Гости просят шефа" |  |
+| 1 | Сеня | Что? Она уже попробовала наше блюдо? | What? Has she already tasted our dish? | *(added)* |  |
+| 2 | Федя | Да, она съела почти всё фрикасе. | Yes, she ate almost all the fricassee. | *(added)* |  |
+| 3 | Сеня | Может быть, она хочет добавки? | Maybe she wants seconds? | #136 "добавки попросить" |  |
+| 4 | Федя | Нет, она зовёт именно шеф-повара. | No, she is calling specifically for the head chef. | #134 "Позовите, пожалуйста, вашего шефа" |  |
+| 5 | Сеня | Я предупреждал! Это была плохая идея! | I warned you! That was a bad idea! | #140 "Предупреждал" |  |
+| 6 | Федя | Сам иди к шефу в кабинет! | Go to Chef's office yourself! | #140 "Иди к шефу" |  |
+| 7 | Сеня | Почему я? Ты всё это придумал! | Why me? You came up with all of this! | #141 "Причем здесь я", #142 "Все придумал" |  |
+| 8 | Федя | Ты его правая рука на кухне. | You are his right-hand man in the kitchen. | #143 "ты его правая рука" |  |
+| 9 | Сеня | Я не пойду, он меня убьёт! | I am not going, he will kill me! | #144 "Я не пойду" |  |
+| 10 | Федя | Давайте просто напишем шефу сообщение. | Let us just send Chef a text message. | #146 "давайте напишем шефу" |  |
+| 11 | Сеня | И сразу напишем заявление об увольнении? | And write our resignation letters right away? | #147 "заявления по собственному напишем" |  |
+| 12 | Федя | Не надо каркать раньше времени! | No need to jinx it ahead of time! | #148 "Не надо каркать" |  |
 
-## Walk-through narration (English only, no target-language words quoted)
+## Part 5 — Outro & closing
 
-- 'Guys, the guests in the dining hall want the chef!' Sasha announces urgently to the kitchen staff.
-- 'Go to Chef's office yourself!' Fedya shouts, refusing to deliver the bad news alone.
-- 'You are his right-hand man in the kitchen.' Fedya insists, using the common idiom for a trusted deputy.
-- 'No need to jinx it ahead of time!' Fedya warns, using the colloquial verb for inviting bad luck. Now listen to the full kitchen dialogue once more.
+> Unable to agree on who will face Barinov, the cooks remain frozen in fear. Next time you watch the episode, listen for the Russian expressions for 'dish' and 'to be' — you will catch every word right away. See you next time!
+
+**Сеня:** Пока!

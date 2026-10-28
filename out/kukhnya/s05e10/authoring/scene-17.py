@@ -1,14 +1,14 @@
 ID = 'kukhnya-s05e10-scene-17'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 10
 SCENE = 17
-TITLE = 'Макс под гипнозом  (Max Under Hypnosis)'
+TITLE = "Макс под гипнозом  (Max Under Hypnosis)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'kostya': 'anja', 'nastya': 'angelina'}
-LABELS = {'anya': 'Макс', 'kostya': 'Костя', 'nastya': 'Настя'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.10"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "kostya": "anja", "nastya": "angelina"}
+LABELS = {"anya": "Макс", "kostya": "Костя", "nastya": "Настя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.10'
 SOURCE_FILE = 'sources/kukhnya/s05/e10.ru.srt'
 
 INTRO = 'Completely hypnotized despite his earlier boasting, Max walks back to the bar with a blank smile and claims the woman paid with real money. He tells Kostya and Nastya that she does not look like a hypnotist at all and orders everyone to call off the investigation.'
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'And that finishes the bar scene. Listen for how the hypnotized Max contradicts everything he said earlier and tells his friends to watch her themselves. See you in the next scene.'
-CLOSING = ('anya', 'Я что, детектив?')
+OUTRO = 'And that finishes the bar scene. Listen for how the hypnotized Max contradicts everything he said earlier and tells his friends to watch her themselves. Until next time!'
+CLOSING = ("anya", "Увидимся!")

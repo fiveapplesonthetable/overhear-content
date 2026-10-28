@@ -28,7 +28,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Chef, good evening!' Max greets his former boss warmly as Viktor strolls in.
-- 'On what occasion are you so festive?' The phrase 'on what occasion' uses the preposition 'po' with the dative case.
+- 'On what occasion are you so festive?' In spoken Russian, the words stay in their normal statement order and Max's rising voice at the end turns the line into a question.
 - 'A buddy of mine arrived from Ireland.' Barinov jokes about a bottle of Jameson whiskey as if it were an Irish guest.
 - 'Or rather two, but one has already left.' Meaning he already finished one of the two bottles!
 - 'Chef, we are discussing movies here.' The first-person plural verb 'we are discussing' takes a direct object without any preposition.
@@ -38,6 +38,6 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'You like that mushy nonsense set to music?' Barinov bursts out laughing at how easily Max fell for the joke.
 - 'And speaking seriously, chef?' Literally 'and if seriously', this short phrase asks for a serious answer.
 - 'Seriously, I love science fiction.' In Russian, one feminine noun covers both fantasy and science fiction.
-- 'Prices in Moscow reached their peak.' The verb 'reached' governs the genitive case ('of their peak').
+- 'Prices in Moscow reached their peak.' In everyday Russian, 'price, cost' flows straight into 'peak' without extra linking words.
 - 'And all the people moved to Mars.' In Barinov's sci-fi vision of the future, Moscow real estate got so expensive that everyone moved to Mars.
 - 'All the restaurants moved there too.' The directional adverb 'to there' is reinforced by the particle 'zhe' meaning 'to the very same place'.

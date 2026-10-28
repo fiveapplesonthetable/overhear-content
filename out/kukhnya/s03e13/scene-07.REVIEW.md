@@ -37,7 +37,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Vika has the keys to the server room right now.' Notice how Russian expresses 'the keys' and 'Vika' with crisp inflection rather than helper words.
 - 'She drives up to the restaurant and gets out of the car.' Here the Russian phrasing highlights 'she' before landing on 'cars'.
 - 'I distract her with conversation.' Max brings out the contrast between 'I' and 'distract' in a few short words.
-- 'And you quickly grab the keys.' The grammar packs 'and' and 'the keys' into a tight, idiomatic kitchen exchange.
+- 'And you quickly grab the keys.' Notice how Russian puts 'quickly' and 'the keys' together in a short, direct phrase where word endings show how the ideas connect.
 - 'You sneak into the restaurant and destroy the recordings.' Notice how Russian expresses 'you' and 'recordings' with crisp inflection rather than helper words. Katya answers right away.
 - 'Where will you get a bat in the restaurant?' Here the Russian phrasing highlights 'where' before landing on 'restaurant'.
 - 'I will grab the fire hook off the wall!' The meaning hinges on 'will take' working together with 'with a fire hook' in spoken Russian.

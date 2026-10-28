@@ -1,44 +1,41 @@
-# kukhnya-s01e01-scene-20: review sheet
+# Шанс для новичка  (A Chance for the Newcomer) — `kukhnya-s01e01-scene-20`
 
-Title: Шанс для новичка  (A Chance for the Newcomer)
-Level: A1 — Duolingo Section 2
-Pair: ru-en
-Source: Кухня (Kukhnya) S1.01
+**Source:** Кухня (Kukhnya) S1.01 · `sources/kukhnya/s01/e01.ru.dual.srt`  
+**Target level:** A1 — Duolingo Section 2
 
+## Cast
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+| Role | Voice | Label |
+|---|---|---|
+| `narrator` | sky | — |
+| `chef` | anja | Шеф |
+| `anya` | alisa | Макс |
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+## Part 1 — Intro
+
+> Max has been tasked with peeling stickers off crates of bananas, but he longs to show off his real skills. He pitches his signature chicken dish to the Chef, who mocks him but offers an unexpected test. Listen carefully to the Russian dialogue first, and then we will examine every sentence.
+
+## Part 2 — Story
+
+| # | Speaker | Line | English | Source cue(s) | Change |
 |---|---|---|---|---|---|
-| 1 | Макс | Шеф, у меня есть отличная идея. | Chef, I have an excellent idea. | #218 00:15:32: есть идея | adapted: expanded for A1 |
-| 2 | Макс | Я могу приготовить своё фирменное блюдо. | I can prepare my signature dish. | #219 00:15:34: Мое фирменное блюдо | adapted: verbatim |
-| 3 | Макс | Это нежная курица в сливочном соусе. | It is tender chicken in cream sauce. | #219 00:15:34: Курица в сливочном соусе | adapted: adapted from subtitle |
-| 4 | Шеф | Великолепная идея от неизвестного человека. | A magnificent idea from an unknown person. | #221 00:15:43: Супер идея | adapted: sarcastic reaction |
-| 5 | Шеф | Ты пришёл на мою кухню случайно. | You came to my kitchen by accident. | #222 00:15:45: попавший случайно | adapted: adapted from line |
-| 6 | Шеф | Лучше чисти бананы дальше! | Better keep peeling bananas! | #225 00:15:55: Тащи еще пять ящиков бананов | adapted: contextual order |
-| 7 | Макс | Зачем вообще снимать эти наклейки? | Why peel off these stickers at all? | #228 00:16:02: Нафига вообще отклеивать эти этикетки | adapted: cleaned of slang for A1 |
-| 8 | Шеф | Для идеального порядка во вселенной. | For ideal order in the universe. | #229 00:16:05: Для баланса вселенной | adapted: adapted from dialogue |
-| 9 | Макс | Но я умею готовить прекрасные десерты. | But I know how to prepare wonderful desserts. | #232 00:16:14: умеет офигенно готовить | adapted: cleaned for polite A1 learning |
-| 10 | Шеф | Хорошо, я дам тебе один шанс. | All right, I will give you one chance. | #233 00:16:17: Хорошо. Я дам тебе шанс | adapted: verbatim |
-| 11 | Шеф | К нам пришёл наш постоянный гость. | Our regular guest has arrived. | #234 00:16:20: У нас есть постоянный клиент | adapted: adapted for A1 vocabulary |
-| 12 | Шеф | Ты приготовишь десерт для Элеоноры Андреевны. | You will prepare dessert for Eleonora Andreyevna. | #235 00:16:22: Приготовишь для него десерт<br>#237 00:16:26: Элеонора Андреевна | adapted: verbatim task |
-| 13 | Шеф | Если десерт понравится, ты останешься здесь. | If the dessert is liked, you will stay here. | #238 00:16:29: Вот если ты сможешь угодить | adapted: conditional promise |
-| 14 | Макс | Договорились, шеф! Я сделаю лучший десерт. | Agreed, chef! I will make the best dessert. | #240 00:16:38: Окей<br>#241 00:16:40: Ну, держитесь | adapted: eager acceptance |
+| 0 | Макс | Шеф, у меня есть отличная идея. | Chef, I have an excellent idea. | #218 "есть идея" |  |
+| 1 | Макс | Я могу приготовить своё фирменное блюдо. | I can prepare my signature dish. | #219 "Мое фирменное блюдо" |  |
+| 2 | Макс | Это нежная курица в сливочном соусе. | It is tender chicken in cream sauce. | #219 "Курица в сливочном соусе" |  |
+| 3 | Шеф | Великолепная идея от неизвестного человека. | A magnificent idea from an unknown person. | #221 "Супер идея" |  |
+| 4 | Шеф | Ты пришёл на мою кухню случайно. | You came to my kitchen by accident. | #222 "попавший случайно" |  |
+| 5 | Шеф | Лучше чисти бананы дальше! | Better keep peeling bananas! | #225 "Тащи еще пять ящиков бананов" |  |
+| 6 | Макс | Зачем вообще снимать эти наклейки? | Why peel off these stickers at all? | #228 "Нафига вообще отклеивать эти этикетки" |  |
+| 7 | Шеф | Для идеального порядка во вселенной. | For ideal order in the universe. | #229 "Для баланса вселенной" |  |
+| 8 | Макс | Но я умею готовить прекрасные десерты. | But I know how to prepare wonderful desserts. | #232 "умеет офигенно готовить" |  |
+| 9 | Шеф | Хорошо, я дам тебе один шанс. | All right, I will give you one chance. | #233 "Хорошо. Я дам тебе шанс" |  |
+| 10 | Шеф | К нам пришёл наш постоянный гость. | Our regular guest has arrived. | #234 "У нас есть постоянный клиент" |  |
+| 11 | Шеф | Ты приготовишь десерт для Элеоноры Андреевны. | You will prepare dessert for Eleonora Andreyevna. | #235 "Приготовишь для него десерт", #237 "Элеонора Андреевна" |  |
+| 12 | Шеф | Если десерт понравится, ты останешься здесь. | If the dessert is liked, you will stay here. | #238 "Вот если ты сможешь угодить" |  |
+| 13 | Макс | Договорились, шеф! Я сделаю лучший десерт. | Agreed, chef! I will make the best dessert. | #240 "Окей", #241 "Ну, держитесь" |  |
 
-## Walk-through narration (English only, no target-language words quoted)
+## Part 5 — Outro & closing
 
-- 'Chef, I have an excellent idea.' Max approaches his boss with standard possessive phrasing.
-- 'I can prepare my signature dish.' The reflexive possessive pronoun refers back to the subject.
-- 'It is tender chicken in cream sauce.' Adjectives describe the texture and flavor of the proposed dish.
-- 'A magnificent idea from an unknown person.' The chef uses heavy irony to dismiss the suggestion.
-- 'You came to my kitchen by accident.' The adverb underlines that Max has not earned any trust yet.
-- 'Better keep peeling bananas!' An imperative telling the newcomer to return to his menial task.
-- 'Why peel off these stickers at all?' The question adverb challenges the purpose of the chore.
-- 'For ideal order in the universe.' A grand philosophical excuse for giving meaningless busywork.
-- 'But I know how to prepare wonderful desserts.' Max asserts another branch of his culinary skills.
-- 'All right, I will give you one chance.' The future tense promises a single opportunity to impress.
-- 'Our regular guest has arrived.' The noun phrase refers to a frequent restaurant customer.
-- 'You will prepare dessert for Eleonora Andreyevna.' The genitive patronymic indicates polite respect.
-- 'If the dessert is liked, you will stay here.' A conditional structure outlining the stakes.
-- 'Agreed, chef!' A short past-passive idiom confirming that a deal has been struck.
-- 'I will make the best dessert.' Max vows to produce his finest pastry. Alright, let's hear the whole thing once more.
+> Max has secured his chance to cook, confident that his dessert will win over Eleonora Andreyevna. See you soon!
+
+**Макс:** Пока!

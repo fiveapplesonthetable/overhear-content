@@ -26,14 +26,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Monsieur, this wine is just right for dinner.' The emphatic particle phrase 'just right' highlights suitability.
-- 'It was specially created to delight women.' Neuter short passive participle agrees with the neuter noun 'wine'.
-- 'But after all this wine is sitting at the bar.' Prepositional case marks location behind the bar counter.
-- 'Take this bottle tonight, Maksim.' Louis uses a polite plural imperative while handing over the rare bottle.
-- 'And tomorrow buy Konstantin the exact same bottle.' Demonstrative determiner with the emphatic particle means 'the very same'.
-- 'And then nobody will notice anything at all.' Double negative pronouns accompany the negated perfective future verb.
-- 'Thank you, Louis, you helped me a lot!' Past-tense verb of helping governs the dative pronoun 'to me'.
-- 'Senya, take a tasty dessert in exchange for your kidneys.' Preposition 'for' with the accusative expresses an exchange.
-- 'All right, restaurant menace, take the fresh kidneys.' Imperfective imperative invites Max to take the replacement meat.
+- 'It was specially created to delight women.' Notice how Russian puts 'especially' and 'women' together in a short, direct phrase where word endings show how the ideas connect.
+- 'But after all this wine is sitting at the bar.' Here Max anchors the thought on 'wine' and finishes on 'bar', keeping the spoken rhythm brisk and natural.
+- 'Take this bottle tonight, Maksim.' In everyday Russian, 'take' flows straight into 'in the evening' without extra linking words.
+- 'And tomorrow buy Konstantin the exact same bottle.' Louis pairs 'tomorrow' with 'bottle' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
+- 'And then nobody will notice anything at all.' Putting the short word for 'not' right in front of the action word is all Russian needs to make a sentence negative, with no extra helper words like 'do' or 'did'.
+- 'Thank you, Louis, you helped me a lot!' Max uses a polite everyday Russian courtesy expression that sets the tone of the conversation right away.
+- 'Senya, take a tasty dessert in exchange for your kidneys.' In everyday Russian, 'hold, take' flows straight into 'kidney; bud' without extra linking words.
+- 'All right, restaurant menace, take the fresh kidneys.' Senya pairs 'restaurant' with 'kidney; bud' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
 - 'Tonight we will have a wonderful dinner.' Future tense of 'to be' forms the future possession clause.
-- 'Just make sure you do not overcook them in the pan.' Prefixed perfective verb means overcooking or frying too long.
+- 'Just make sure you do not overcook them in the pan.' Here Senya anchors the thought on 'watch' and finishes on 'skillet', keeping the spoken rhythm brisk and natural.
 - 'Do not worry, I will cook everything perfectly!' Max heads home with the mystery bottle, unaware of its true price.

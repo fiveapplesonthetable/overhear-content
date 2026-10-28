@@ -1,30 +1,30 @@
-ID = "kukhnya-s02e09-scene-02"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e09-scene-02'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 9
 SCENE = 2
-TITLE = 'Добрый Шеф и разговор у бара  (The Kind Chef and a Talk at the Bar)'
+TITLE = "Добрый Шеф и разговор у бара  (The Kind Chef and a Talk at the Bar)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja', 'sasha': 'angelina'}
-LABELS = {'anya': 'Макс', 'chef': 'Шеф', 'sasha': 'Саша'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.09"
-SOURCE_FILE = "sources/kukhnya/s02/e09.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "sasha": "anja", "anya": "alisa"}
+LABELS = {"sasha": "Саша", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.09'
+SOURCE_FILE = 'sources/kukhnya/s02/e09.ru.srt'
 
 INTRO = 'Out in the kitchen, Chef Barinov shocks the line cooks by calmly praising their food instead of shouting at them. Meanwhile by the bar, Kristina complains that she just needs a real man while Sasha asks what is going on between her and Max.'
 
 STORY = [
     ('anya', 'Максим, можно тебя на минуточку?', 'Maksim, can I have a word with you for a minute?', [(20, 'Максим, можно тебя на минуточку')], ''),
-    ('chef', 'Давай попозже поговорим.', 'Let us talk a little later.', [(21, 'Давай попозже поговорим')], ''),
+    ('sasha', 'Давай попозже поговорим.', 'Let us talk a little later.', [(21, 'Давай попозже поговорим')], ''),
     ('sasha', 'Чего не хватает, шеф?', 'What is missing, Chef?', [(24, 'Чего не хватает, шеф')], ''),
     ('anya', 'Все идеально.', 'Everything is ideal.', [(25, 'Все идеально')], ''),
-    ('chef', 'Федя, извини, что долго не отдавал.', 'Fedya, sorry it took me so long to pay you back.', [(28, 'Федя, извини, что долго не отдавал')], ''),
+    ('sasha', 'Федя, извини, что долго не отдавал.', 'Fedya, sorry it took me so long to pay you back.', [(28, 'Федя, извини, что долго не отдавал')], ''),
     ('sasha', 'Крис, ну что рассказывать?', 'Kris, well what is there to tell?', [(30, 'Крис, ну что рассказывать')], ''),
     ('anya', 'А я-то знаю сколько...', 'And I know just how much...', [(32, 'А я-то знаю сколько')], ''),
-    ('chef', 'Крис, ты меня слышишь или нет?', 'Kris, are you listening to me or not?', [(33, 'Крис, ты меня слышишь или нет')], ''),
+    ('sasha', 'Крис, ты меня слышишь или нет?', 'Kris, are you listening to me or not?', [(33, 'Крис, ты меня слышишь или нет')], ''),
     ('sasha', 'Прости, Саша, мне просто мужик нужен.', 'Sorry, Sasha, I just need a man.', [(34, 'Прости, Саша, мне просто мужик нужен')], ''),
     ('anya', 'Этот что ли?', 'This guy, or what?', [(35, 'Этот что ли')], ''),
-    ('chef', 'Не за что на свете.', 'Not for anything in the world.', [(37, 'не за что на свете')], ''),
+    ('sasha', 'Не за что на свете.', 'Not for anything in the world.', [(37, 'не за что на свете')], ''),
     ('sasha', 'Ну одно дело там.', 'Well, that is one thing over there.', [(38, 'ну одно дело там')], ''),
     ('anya', 'А что у вас там с Максом?', 'And what is going on with you and Max?', [(39, 'А что у вас там с Максом')], ''),
 ]
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Let's hear the complete conversation once more."
-
-OUTRO = 'When you watch Scene 2 of Episode 9, listen out for the exchange around the kind chef and a talk at the bar — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('sasha', 'Ну одно дело там.')
+OUTRO = 'That wraps up this scene as chef Barinov surprises everyone by praising the dishes instead of yelling, while Sasha and Kristina chat at the bar about men and Max. See you next time!'
+CLOSING = ("sasha", "До свидания!")

@@ -18,9 +18,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 6 | Аня | Девяносто тысяч, а десять ты днём взял. | Ninety thousand, and you took ten this afternoon. | #271 00:18:39: Девяносто<br>#272 00:18:40: А десять ты днем взял | adapted: adapted |
 | 7 | Аня | Подожди, я сейчас все деньги пересчитаю. | Wait, I will recount all the money right now. | #273 00:18:43: А я пересчитаю | adapted: adapted |
 | 8 | Катя | Айнура, ты моего отца не видела? | Ainura, have you seen my father? | #274 00:18:50: отца не видела | adapted: adapted |
-| 9 | Айнура | Видела, он только что пошёл в кабинет. | I saw him, he just went into the office. | #275 00:18:53: Видела. Он пошел в кабинет | adapted: adapted |
-| 10 | Айнура | С ним молодой парень в кожаной куртке с черепом. | A young guy in a leather jacket with a skull was with him. | #276 00:18:55: молодой парень был<br>#276 00:18:55: куртке с черепом | adapted: adapted |
-| 11 | Айнура | Настоящий пират, наверное, будь осторожна! | A real pirate, probably, be careful! | #277 00:18:58: Пират, наверное | adapted: adapted |
+| 9 | Катя | Видела, он только что пошёл в кабинет. | I saw him, he just went into the office. | #275 00:18:53: Видела. Он пошел в кабинет | adapted: adapted |
+| 10 | Катя | С ним молодой парень в кожаной куртке с черепом. | A young guy in a leather jacket with a skull was with him. | #276 00:18:55: молодой парень был<br>#276 00:18:55: куртке с черепом | adapted: adapted |
+| 11 | Катя | Настоящий пират, наверное, будь осторожна! | A real pirate, probably, be careful! | #277 00:18:58: Пират, наверное | adapted: adapted |
 | 12 | Катя | Я сейчас найду их, подождите здесь. | I will find them right now, wait here. | #277 00:18:58: Я сейчас найду их<br>#278 00:19:00: Подождите здесь | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)

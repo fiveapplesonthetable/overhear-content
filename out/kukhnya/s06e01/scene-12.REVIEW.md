@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Никита, давай завтра. | Nikita, let's do it tomorrow. | #215 00:13:44: давай завтра | adapted: adapted |
-| 2 | Катя | Мама, ты роскошно выглядишь. | Mom, you look gorgeous. | #217 00:13:48: ты роскошно выглядишь | adapted: adapted |
-| 3 | Аня | Все, шучу, шучу. | Alright, I am joking, I am joking. | #219 00:13:53: Все, шучу, шучу | adapted: exact |
-| 4 | Аня | Я говорила, что я здесь ни при чем. | I told you that I had nothing to do with it. | #220 00:14:00: Говорила, что я здесь ни при чем | adapted: adapted |
-| 5 | Катя | Извини, я была неправа. | Forgive me, I was wrong. | #221 00:14:04: Извини, я была неправа | adapted: exact |
-| 6 | Аня | А где мой суженый? | And where is my betrothed? | #222 00:14:06: А где мой суженый? | adapted: exact |
-| 7 | Аня | Мы ведь в ЗАГС так можем опоздать. | We might be late to the registry office like this. | #223 00:14:08: Мы ведь в ЗАГС так можем опоздать | adapted: exact |
-| 8 | Аня | Я уж думала, что ты от меня сбежал. | I already thought that you ran away from me. | #225 00:14:14: Я уж думала, что ты от меня сбежал | adapted: exact |
-| 9 | Нагиев | Хорошо бы, шучу. | I wish, just kidding. | #226 00:14:17: Хорошо бы. Шучу | adapted: adapted |
-| 10 | Нагиев | Ну куда я сбегу от красоты твоей? | Where would I run from such beauty of yours? | #227 00:14:18: Ну куда я сбегу от красоты такой, от красоты твоей? | adapted: adapted |
-| 11 | Аня | Пойдемте, в ЗАГС опоздаем. | Let's go, or we will be late to the registry office. | #228 00:14:22: Пойдемте, не дай бог, в ЗАГС опоздаем | adapted: adapted |
-| 12 | Нагиев | Ну бегу, дорогая. | I am running, darling. | #229 00:14:26: Ну бегу | adapted: adapted |
+| 1 | Элеонора | Никита, давай завтра. | Nikita, let's do it tomorrow. | #215 00:13:44: давай завтра | adapted: adapted |
+| 2 | Элеонора | Мама, ты роскошно выглядишь. | Mom, you look gorgeous. | #217 00:13:48: ты роскошно выглядишь | adapted: adapted |
+| 3 | Элеонора | Все, шучу, шучу. | Alright, I am joking, I am joking. | #219 00:13:53: Все, шучу, шучу | adapted: exact |
+| 4 | Элеонора | Я говорила, что я здесь ни при чем. | I told you that I had nothing to do with it. | #220 00:14:00: Говорила, что я здесь ни при чем | adapted: adapted |
+| 5 | Элеонора | Извини, я была неправа. | Forgive me, I was wrong. | #221 00:14:04: Извини, я была неправа | adapted: exact |
+| 6 | Элеонора | А где мой суженый? | And where is my betrothed? | #222 00:14:06: А где мой суженый? | adapted: exact |
+| 7 | Элеонора | Мы ведь в ЗАГС так можем опоздать. | We might be late to the registry office like this. | #223 00:14:08: Мы ведь в ЗАГС так можем опоздать | adapted: exact |
+| 8 | Элеонора | Я уж думала, что ты от меня сбежал. | I already thought that you ran away from me. | #225 00:14:14: Я уж думала, что ты от меня сбежал | adapted: exact |
+| 9 | Элеонора | Хорошо бы, шучу. | I wish, just kidding. | #226 00:14:17: Хорошо бы. Шучу | adapted: adapted |
+| 10 | Элеонора | Ну куда я сбегу от красоты твоей? | Where would I run from such beauty of yours? | #227 00:14:18: Ну куда я сбегу от красоты такой, от красоты твоей? | adapted: adapted |
+| 11 | Элеонора | Пойдемте, в ЗАГС опоздаем. | Let's go, or we will be late to the registry office. | #228 00:14:22: Пойдемте, не дай бог, в ЗАГС опоздаем | adapted: adapted |
+| 12 | Элеонора | Ну бегу, дорогая. | I am running, darling. | #229 00:14:26: Ну бегу | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

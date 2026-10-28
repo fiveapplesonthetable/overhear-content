@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Тихо, спите, спите. | Quiet, sleep, sleep. | #187 00:13:39: Тихо<br>#188 00:13:46: спите, спите, спите | adapted: adapted |
-| 2 | Аня | Я не виноват, я не хотел! | It is not my fault, I did not mean to! | #189 00:13:48: Я не виноват, я не хотел | adapted: adapted |
-| 3 | Шеф | Не переживайте. Скажем, что он сам упал случайно. | Do not worry. We will say that he fell by himself accidentally. | #190 00:13:51: Не переживайте<br>#191 00:13:53: Скажем, что он сам упал случайно | adapted: adapted |
-| 4 | Шеф | Я буду свидетелем. | I will be a witness. | #192 00:13:56: Я буду свидетелем | adapted: adapted |
-| 5 | Аня | Что, доктор? Необходима госпитализация? | What is it, doctor? Is hospitalization necessary? | #194 00:14:01: Что, доктор? Ну что, необходимая госпитализация | adapted: adapted |
+| 1 | Михаил | Тихо, спите, спите. | Quiet, sleep, sleep. | #187 00:13:39: Тихо<br>#188 00:13:46: спите, спите, спите | adapted: adapted |
+| 2 | Михаил | Я не виноват, я не хотел! | It is not my fault, I did not mean to! | #189 00:13:48: Я не виноват, я не хотел | adapted: adapted |
+| 3 | Михаил | Не переживайте. Скажем, что он сам упал случайно. | Do not worry. We will say that he fell by himself accidentally. | #190 00:13:51: Не переживайте<br>#191 00:13:53: Скажем, что он сам упал случайно | adapted: adapted |
+| 4 | Михаил | Я буду свидетелем. | I will be a witness. | #192 00:13:56: Я буду свидетелем | adapted: adapted |
+| 5 | Михаил | Что, доктор? Необходима госпитализация? | What is it, doctor? Is hospitalization necessary? | #194 00:14:01: Что, доктор? Ну что, необходимая госпитализация | adapted: adapted |
 | 6 | Сеня | Там переломы. | There are fractures there. | #195 00:14:04: Там обширные переломы | adapted: adapted |
 | 7 | Сеня | В общем, если выживет, то хорошо. | In short, if he survives, then good. | #196 00:14:09: В общем, если выживет | adapted: adapted |
-| 8 | Шеф | Конечно, выживет! Там травмы не такие тяжёлые. | Of course he will survive! The injuries there are not so severe. | #198 00:14:15: Конечно, выживет. Там травмы не такие тяжелые | adapted: adapted |
-| 9 | Шеф | К тому же медицина сейчас на серьёзном уровне. | Besides, medicine is at a serious level now. | #199 00:14:18: К тому же медицина сейчас<br>#200 00:14:21: На серьезном уровне | adapted: adapted |
+| 8 | Михаил | Конечно, выживет! Там травмы не такие тяжёлые. | Of course he will survive! The injuries there are not so severe. | #198 00:14:15: Конечно, выживет. Там травмы не такие тяжелые | adapted: adapted |
+| 9 | Михаил | К тому же медицина сейчас на серьёзном уровне. | Besides, medicine is at a serious level now. | #199 00:14:18: К тому же медицина сейчас<br>#200 00:14:21: На серьезном уровне | adapted: adapted |
 | 10 | Сеня | Успокойтесь, я вас прикрою. | Calm down, I will cover for you. | #201 00:14:22: Успокойтесь. Я вас прикрою | adapted: adapted |
-| 11 | Аня | Отнеси его в мой кабинет. | Carry him into my office. | #202 00:14:26: Отнеси его в мой кабинет | adapted: adapted |
-| 12 | Аня | И глаз с него не спускай! | And do not take your eyes off him! | #202 00:14:26: не спускай | adapted: adapted |
+| 11 | Михаил | Отнеси его в мой кабинет. | Carry him into my office. | #202 00:14:26: Отнеси его в мой кабинет | adapted: adapted |
+| 12 | Михаил | И глаз с него не спускай! | And do not take your eyes off him! | #202 00:14:26: не спускай | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

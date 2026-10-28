@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e19-scene-02'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 19
 SCENE = 2
 TITLE = "Угроза полицией и звонок Вики  (Threat of the Police and Vika's Call)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja', 'sasha': 'angelina'}
-LABELS = {'anya': 'Макс', 'vika': 'Вика', 'sasha': 'Саша'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.19"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "sasha": "anja", "vika": "angelina"}
+LABELS = {"anya": "Макс", "sasha": "Саша", "vika": "Вика"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.19'
 SOURCE_FILE = 'sources/kukhnya/s03/e19.ru.srt'
 
 INTRO = "Andrey Mikhailovich threatens to call the police on Rodion, despite Vika defending him. Meanwhile in the dining room, Max panics over Sasha's pregnancy and lies to Vika on the phone that he is not at work yet."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Seconds after telling Vika on the phone that he is fifteen minutes away from the restaurant, Max looks up to see Vika standing right behind him.'
-CLOSING = ('anya', 'Я скоро буду на работе.')
+OUTRO = 'Seconds after telling Vika on the phone that he is fifteen minutes away from the restaurant, Max looks up to see Vika standing right behind him. See you next time!'
+CLOSING = ("anya", "Увидимся!")

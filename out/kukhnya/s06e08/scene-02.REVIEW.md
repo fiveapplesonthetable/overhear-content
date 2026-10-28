@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Дима, твои шутки становятся всё слабее. | Dima, your jokes are getting weaker and weaker. | #19 00:01:19: а то шутки твои все слабее и слабее | adapted: adapted |
-| 2 | Элеонора | Витя, я решила сегодня устроить праздничный ужин. | Vitya, I decided to host a festive dinner today. | #21 00:01:26: Витя, я решила сегодня устроить ужин | adapted: adapted |
-| 3 | Аня | А что это за особый случай сегодня? | And what is this special occasion today? | #22 00:01:28: По особому случаю. Это что за особый случай | adapted: adapted |
-| 4 | Элеонора | Вообще-то сегодня день рождения у твоей дочери. | Actually today is your daughter's birthday. | #23 00:01:31: Вообще-то сегодня 26 лет твоей дочери | adapted: adapted |
-| 5 | Элеонора | Неужели ты снова об этом совсем забыл? | Could you really have completely forgotten about it again? | #25 00:01:35: Неужели ты забыл | adapted: adapted |
+| 1 | Шеф | Дима, твои шутки становятся всё слабее. | Dima, your jokes are getting weaker and weaker. | #19 00:01:19: а то шутки твои все слабее и слабее | adapted: adapted |
+| 2 | Нагиев | Витя, я решила сегодня устроить праздничный ужин. | Vitya, I decided to host a festive dinner today. | #21 00:01:26: Витя, я решила сегодня устроить ужин | adapted: adapted |
+| 3 | Шеф | А что это за особый случай сегодня? | And what is this special occasion today? | #22 00:01:28: По особому случаю. Это что за особый случай | adapted: adapted |
+| 4 | Нагиев | Вообще-то сегодня день рождения у твоей дочери. | Actually today is your daughter's birthday. | #23 00:01:31: Вообще-то сегодня 26 лет твоей дочери | adapted: adapted |
+| 5 | Нагиев | Неужели ты снова об этом совсем забыл? | Could you really have completely forgotten about it again? | #25 00:01:35: Неужели ты забыл | adapted: adapted |
 | 6 | Нагиев | Судя по его глазам, он не забыл. | Judging by his eyes, he did not forget. | #26 00:01:37: он не забыл | adapted: adapted |
 | 7 | Нагиев | Он просто вообще об этом не знал! | He simply did not know about it at all! | #27 00:01:41: Он просто не знал | adapted: adapted |
 | 8 | Нагиев | Старость — это совсем не радость, друзья. | Old age is no joy at all, my friends. | #28 00:01:44: друзья мои<br>#29 00:01:46: Старость не радость | adapted: adapted |
 | 9 | Нагиев | Пойдём отсюда, дорогая, пока не заразились. | Let us go from here, my dear, before we catch it. | #31 00:01:50: Пойдем, дорогая | adapted: adapted |
 | 10 | Нагиев | Сделай быстро вкусный кофе даме и мне. | Quickly make a delicious coffee for the lady and me. | #32 00:01:57: сделай кофе барыне и мне | adapted: adapted |
 | 11 | Нагиев | Положи туда два сахара и свежие сливки. | Put two sugars and fresh cream in it. | #33 00:02:01: Два сахара и сливки | adapted: adapted |
-| 12 | Аня | А в прошлом году вы что дарили? | And what did you give her last year? | #34 00:02:07: А в прошлом году вы что дарили | adapted: adapted |
+| 12 | Шеф | А в прошлом году вы что дарили? | And what did you give her last year? | #34 00:02:07: А в прошлом году вы что дарили | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

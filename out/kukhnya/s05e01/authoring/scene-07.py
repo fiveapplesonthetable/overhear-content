@@ -1,31 +1,31 @@
 ID = 'kukhnya-s05e01-scene-07'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 1
 SCENE = 7
-TITLE = 'Денис предупреждает Никиту  (Denis Warns Nikita)'
+TITLE = "Денис предупреждает Никиту  (Denis Warns Nikita)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'nikita': 'anja'}
-LABELS = {'anya': 'Денис', 'nikita': 'Никита'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.01"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "denis": "anja"}
+LABELS = {"denis": "Денис"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.01'
 SOURCE_FILE = 'sources/kukhnya/s05/e01.ru.srt'
 
 INTRO = "Taking Senya's advice literally, Denis bumps into waiter Nikita in the hotel corridor and warns him not to hit on Katya. Listen to their brief confrontation."
 
 STORY = [
-    ('nikita', 'Что это было? Извините.', 'What was that? Excuse me.', [(107, 'Извините')], 'adapted'),
-    ('nikita', 'Глаза открой.', 'Open your eyes.', [(108, 'Глаза открой')], 'verbatim'),
-    ('anya', 'Извини, я случайно.', 'Sorry, I did it by accident.', [(109, 'Извини, я случайно')], 'verbatim'),
-    ('anya', 'Слушай, я к тебе пришёл.', 'Listen, I actually came to see you.', [(110, 'я на самом деле к тебе пришел')], 'adapted'),
-    ('anya', 'Я пришёл на самом деле.', 'I came here for a real reason.', [(110, 'на самом деле')], 'adapted'),
-    ('anya', 'Ты Катю знаешь?', 'Do you know Katya?', [(111, 'Ты Катю знаешь?')], 'verbatim'),
-    ('nikita', 'Кого ты сейчас назвал?', 'Who did you just name?', [(111, 'Кого?')], 'adapted'),
-    ('anya', 'Нашу Катю с кухни.', 'Our Katya from the kitchen.', [(112, 'Катю')], 'adapted'),
-    ('anya', 'Я её парень, понял?', 'I am her boyfriend, got it?', [(113, 'Я ее парень, понял?')], 'verbatim'),
-    ('anya', 'Не надо к ней приставать.', 'You should not hit on her.', [(114, 'к ней не приставать')], 'adapted'),
-    ('nikita', 'Чего? Я тебя не понял.', 'What? I did not understand you.', [(115, 'Чего? Не понял')], 'adapted'),
-    ('nikita', 'О чём ты вообще говоришь?', 'What are you talking about at all?', [(115, 'Не понял')], 'adapted'),
+    ('denis', 'Что это было? Извините.', 'What was that? Excuse me.', [(107, 'Извините')], 'adapted'),
+    ('denis', 'Глаза открой.', 'Open your eyes.', [(108, 'Глаза открой')], 'verbatim'),
+    ('denis', 'Извини, я случайно.', 'Sorry, I did it by accident.', [(109, 'Извини, я случайно')], 'verbatim'),
+    ('denis', 'Слушай, я к тебе пришёл.', 'Listen, I actually came to see you.', [(110, 'я на самом деле к тебе пришел')], 'adapted'),
+    ('denis', 'Я пришёл на самом деле.', 'I came here for a real reason.', [(110, 'на самом деле')], 'adapted'),
+    ('denis', 'Ты Катю знаешь?', 'Do you know Katya?', [(111, 'Ты Катю знаешь?')], 'verbatim'),
+    ('denis', 'Кого ты сейчас назвал?', 'Who did you just name?', [(111, 'Кого?')], 'adapted'),
+    ('denis', 'Нашу Катю с кухни.', 'Our Katya from the kitchen.', [(112, 'Катю')], 'adapted'),
+    ('denis', 'Я её парень, понял?', 'I am her boyfriend, got it?', [(113, 'Я ее парень, понял?')], 'verbatim'),
+    ('denis', 'Не надо к ней приставать.', 'You should not hit on her.', [(114, 'к ней не приставать')], 'adapted'),
+    ('denis', 'Чего? Я тебя не понял.', 'What? I did not understand you.', [(115, 'Чего? Не понял')], 'adapted'),
+    ('denis', 'О чём ты вообще говоришь?', 'What are you talking about at all?', [(115, 'Не понял')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "And that brings Denis and Nikita's hallway confrontation to a close. Notice how the feminine name Katya takes the '-yu' ending in the accusative case. See you in the next scene."
-CLOSING = ('anya', 'Держись подальше от моей девушки!')
+OUTRO = "And that brings Denis and Nikita's hallway confrontation to a close. Until next time!"
+CLOSING = ("denis", "До свидания!")

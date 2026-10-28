@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'A woman always had to maintain order in the house.' Feminine short predicate adjective 'obliged' pairs with an imperfective infinitive.
-- 'And a man had to guard this house.' Masculine short predicate adjective matches the subject noun 'man'.
-- 'Since then almost nothing has changed.' The time idiom 'from those times' precedes a negated reflexive past verb.
+- 'A woman always had to maintain order in the house.' Notice how Russian puts 'woman' and 'house' together in a short, direct phrase where word endings show how the ideas connect.
+- 'And a man had to guard this house.' Here Max anchors the thought on 'man' and finishes on 'to house', keeping the spoken rhythm brisk and natural.
+- 'Since then almost nothing has changed.' Putting the short word for 'not' right in front of the action word is all Russian needs to make a sentence negative, with no extra helper words like 'do' or 'did'.
 - 'Max, who is that arriving so late?' Vika asks about the late doorbell ring using a manner adverb of time.
-- 'That is a courier from the store.' Preposition 'from' governs the genitive singular of the noun for store.
+- 'That is a courier from the store.' Notice how Russian puts 'came' and 'store' together in a short, direct phrase where word endings show how the ideas connect.
 - 'A comfortable grip and a very good camera!' Denis admires the features of the new gaming controller.
-- 'Max, tell me, what do you need this rifle for?' Dative pronoun 'to you' combines with the purpose question word.
-- 'What are you, still a tiny child?' Vika teases Max with a nominative predicate noun.
-- 'Do not call me a little child.' The negated imperfective imperative governs the instrumental case on the predicate noun.
+- 'Max, tell me, what do you need this rifle for?' In everyday Russian, 'say' flows straight into 'a gun, rifle' without extra linking words.
+- 'What are you, still a tiny child?' Vika pairs 'still, yet, more' with 'child' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
+- 'Do not call me a little child.' Putting the short word for 'not' right in front of the action word is all Russian needs to make a sentence negative, with no extra helper words like 'do' or 'did'.
 - 'I am an adult and I decide everything myself.' Emphatic pronoun 'myself' underscores his claim of maturity.
 - 'Vika, could you chip in a little?' Conditional particle with the feminine past tense forms a sheepish polite request.
-- 'Otherwise I do not have quite enough money.' Impersonal verb of sufficiency takes a dative experiencer pronoun.
+- 'Otherwise I do not have quite enough money.' Putting the short word for 'not' right in front of the action word is all Russian needs to make a sentence negative, with no extra helper words like 'do' or 'did'.

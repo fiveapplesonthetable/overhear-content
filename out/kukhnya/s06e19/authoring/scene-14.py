@@ -1,31 +1,31 @@
 ID = 'kukhnya-s06e19-scene-14'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 19
 SCENE = 14
 TITLE = "Запасы Сени и ловушка для Дениса  (Senya's Stash and a Trap for Denis)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'senya': 'anja', 'denis': 'angelina'}
-LABELS = {'anya': 'Шеф', 'senya': 'Сеня', 'denis': 'Денис'}
-SOURCE_NAME = "Кухня (Kukhnya) S6.19"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "senya": "angelina"}
+LABELS = {"chef": "Шеф", "senya": "Сеня"}
+SOURCE_NAME = 'Кухня (Kukhnya) S6.19'
 SOURCE_FILE = 'sources/kukhnya/s06/e19.ru.srt'
 
 INTRO = "Chef Barinov calls his old team back into the kitchen, only to find that Anton's crew left almost no food for the hundred and twenty wedding guests. Thankfully, Senya reveals a secret stash of food he stole before being fired, while Sveta traps Denis in the storage room."
 
 STORY = [
-    ('anya', 'Ребята, вы мне все нужны!', 'Guys, I need all of you!', [(211, 'Ребята, вы мне все нужны')], 'adapted'),
-    ('anya', 'Все быстро бегом на кухню!', 'Everyone run quickly to the kitchen!', [(212, 'Быстро на кухню')], 'adapted'),
+    ('chef', 'Ребята, вы мне все нужны!', 'Guys, I need all of you!', [(211, 'Ребята, вы мне все нужны')], 'adapted'),
+    ('chef', 'Все быстро бегом на кухню!', 'Everyone run quickly to the kitchen!', [(212, 'Быстро на кухню')], 'adapted'),
     ('senya', 'Шеф, продуктов тут очень мало.', 'Chef, there are very few groceries here.', [(215, 'Шеф, ну, продуктов очень мало')], 'adapted'),
-    ('anya', 'Спокойно, только без всякой паники.', 'Easy now, just without any panic.', [(216, 'Без паники')], 'adapted'),
+    ('chef', 'Спокойно, только без всякой паники.', 'Easy now, just without any panic.', [(216, 'Без паники')], 'adapted'),
     ('senya', 'Не успел вчера всё забрать.', 'I did not manage to take everything yesterday.', [(218, 'не успел все забрать')], 'adapted'),
     ('senya', 'Меня слишком быстро отсюда уволили.', 'They fired me from here too quickly.', [(219, 'Уволили')], 'adapted'),
-    ('anya', 'Давайте, ребята, быстро за работу!', 'Come on, guys, get to work quickly!', [(221, 'мы поработаем')], 'adapted'),
-    ('denis', 'Другого места для разговора нет?', 'Is there no other place for a talk?', [(222, 'Другого места для разговора не нашел')], 'adapted'),
-    ('denis', 'Света, пожалуйста, ты сотрёшь видео.', 'Sveta, please, you will delete the video.', [(223, 'Света, я тебя прошу'), (224, 'ты сотрешь это видео')], 'adapted'),
-    ('denis', 'Никому его не будешь отправлять.', 'You will not send it to anyone.', [(224, 'и никому его не будешь отправлять')], 'adapted'),
+    ('chef', 'Давайте, ребята, быстро за работу!', 'Come on, guys, get to work quickly!', [(221, 'мы поработаем')], 'adapted'),
+    ('chef', 'Другого места для разговора нет?', 'Is there no other place for a talk?', [(222, 'Другого места для разговора не нашел')], 'adapted'),
+    ('chef', 'Света, пожалуйста, ты сотрёшь видео.', 'Sveta, please, you will delete the video.', [(223, 'Света, я тебя прошу'), (224, 'ты сотрешь это видео')], 'adapted'),
+    ('chef', 'Никому его не будешь отправлять.', 'You will not send it to anyone.', [(224, 'и никому его не будешь отправлять')], 'adapted'),
     ('senya', 'Ты прямо переговорщик от бога.', 'You are a born negotiator.', [(225, 'переговорщик от бога')], 'adapted'),
-    ('denis', 'Придётся отобрать у тебя телефон.', 'I will have to take the phone away from you.', [(227, 'придется отобрать у тебя телефон')], 'adapted'),
+    ('chef', 'Придётся отобрать у тебя телефон.', 'I will have to take the phone away from you.', [(227, 'придется отобрать у тебя телефон')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Instead of handing over her phone, Sveta locks Denis inside the storage room while the wedding ceremony is about to begin upstairs. See you in the next scene.'
-CLOSING = ('senya', 'Здесь телефон даже лучше ловит!')
+OUTRO = 'Instead of handing over her phone, Sveta locks Denis inside the storage room while the wedding ceremony is about to begin upstairs. See you next time!'
+CLOSING = ("senya", "Увидимся!")

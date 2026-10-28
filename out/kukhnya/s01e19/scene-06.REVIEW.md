@@ -1,39 +1,40 @@
-# kukhnya-s01e19-scene-06: review sheet
+# Извинения гостя  (A Guest's Apology) — `kukhnya-s01e19-scene-06`
 
-Title: Извинения гостя  (A Guest's Apology)
-Level: A1 — Duolingo Section 2
-Pair: ru-en
-Source: Кухня (Kukhnya) S1.19
+**Source:** Кухня (Kukhnya) S1.19 · `sources/kukhnya/s01/e19.ru.dual.srt`  
+**Target level:** A1 — Duolingo Section 2
 
+## Cast
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+| Role | Voice | Label |
+|---|---|---|
+| `narrator` | sky | — |
+| `guest` | anja | Гость |
+| `vika` | angelina | Вика |
+| `anya` | alisa | Макс |
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+## Part 1 — Intro
+
+> Before leaving Claude Monet, wealthy guest Igor stops Victoria to ask if she has a husband or boyfriend. When she says she is single, Max overhears and confronts her with jealousy. Let's listen to the scene in Russian first.
+
+## Part 2 — Story
+
+| # | Speaker | Line | English | Source cue(s) | Change |
 |---|---|---|---|---|---|
-| 1 | Гость | Виктория Сергеевна, подождите. | Victoria Sergeyevna, wait. | new | new |
-| 2 | Гость | Я не прощу себе. | I'll never forgive myself. | new | new |
-| 3 | Гость | Если не спрошу сейчас. | If I don't ask you this right now. | new | new |
-| 4 | Гость | У вас есть муж? | Do you have a husband? | new | new |
-| 5 | Гость | Или парень? | Or boyfriend? | new | new |
-| 6 | Вика | Ни мужа, ни парня нет. | I don't have a husband or a boyfriend. | new | new |
-| 7 | Гость | Я буду ждать новой встречи. | In that case, I look forward to seeing you again. | new | new |
-| 8 | Вика | Какой приятный вечер 0. | What a pleasant evening 0. | new | new |
-| 9 | Вика | Какой приятный вечер 1. | What a pleasant evening 1. | new | new |
-| 10 | Вика | Какой приятный вечер 2. | What a pleasant evening 2. | new | new |
-| 11 | Вика | Какой приятный вечер 3. | What a pleasant evening 3. | new | new |
-| 12 | Вика | Какой приятный вечер 4. | What a pleasant evening 4. | new | new |
+| 0 | Гость | Виктория Сергеевна, подождите минуту. | Victoria Sergeyevna, wait a minute. | #119 "Виктория Сергеевна, подождите" |  |
+| 1 | Гость | Я никогда не прощу себе этого. | I will never forgive myself for this. | #120 "Я никогда не прощу себе" |  |
+| 2 | Гость | Если не задам вам вопрос прямо сейчас. | If I do not ask you a question right now. | #120 "если не задам вам", #120 "прямо сейчас" |  |
+| 3 | Гость | У вас есть муж или молодой человек? | Do you have a husband or a boyfriend? | #121 "У вас есть муж или молодой человек?" |  |
+| 4 | Вика | Ни мужа, ни парня у меня нет. | I have neither a husband nor a boyfriend. | #123 "Ни мужа, ни парня у меня нет" |  |
+| 5 | Гость | Тогда я буду ждать нашей следующей встречи. | Then I will look forward to our next meeting. | #124 "буду ждать нашей следующей встречи" |  |
+| 6 | Макс | Вика, я не понял, что это было? | Vika, I did not understand, what was that? | #126 "Вика, я не понял, что это было?" |  |
+| 7 | Вика | А ты что, ревнуешь меня? | Why, are you jealous of me? | #127 "А ты что, ревнуешь?" |  |
+| 8 | Макс | Нет, почему ты про меня не сказала? | No, why did you not mention me? | #128 "почему ты про меня не сказала" |  |
+| 9 | Вика | Потому что он про тебя не спрашивал. | Because he did not ask about you. | #129 "Потому что он про тебя не спрашивал" |  |
+| 10 | Вика | У нас ведь с тобой свободные отношения. | After all, you and I have an open relationship. | #130 "свободное отношение" |  |
+| 11 | Макс | Да, но мне это совсем не нравится. | Yes, but I do not like this at all. | *(added)* |  |
 
-## Walk-through narration (English only, no target-language words quoted)
+## Part 5 — Outro & closing
 
-- 'Victoria Sergeyevna, wait.' the guest leads with the direct command form meaning 'wait' to make the point directly in conversation.
-- 'I'll never forgive myself.' The negative particle sits directly before the verb for 'will forgive' to negate the action.
-- 'If I don't ask you this right now.' the guest uses the perfective verb meaning 'will ask' to focus on the single completed result, pairing it with 'now'.
-- 'Do you have a husband?' To express possession, Russian uses the preposition 'by' plus the genitive pronoun followed by 'husband'.
-- 'Or boyfriend?' the guest turns a statement into a question purely through rising intonation on the word meaning 'boyfriend' to make the point directly in conversation.
-- 'I don't have a husband or a boyfriend.' Russian omits the present-tense verb 'to be' here, linking 'husband' directly with 'boyfriend', combining 'husband' with 'boyfriend'.
-- 'In that case, I look forward to seeing you again.' the guest chooses the imperfective verb meaning 'will be' for the ongoing action, followed by 'to wait for' and 'new'.
-- 'What a pleasant evening 0.' Russian omits the present-tense verb 'to be', connecting 'what a' directly with 'zero'.
-- 'What a pleasant evening 1.' Russian omits the present-tense verb 'to be' here, linking 'nice' directly with 'evening', combining 'nice' with 'evening' and 'one'.
-- 'What a pleasant evening 2.' Russian omits the present-tense verb 'to be' here, linking 'nice' directly with 'evening', combining 'nice' with 'evening' and 'two'.
-- 'What a pleasant evening 3.' Russian omits the present-tense verb 'to be' here, linking 'nice' directly with 'evening', combining 'nice' with 'evening' and 'three'.
-- 'What a pleasant evening 4.' Russian omits the present-tense verb 'to be' here, linking 'nice' directly with 'evening', combining 'nice' with 'evening' and 'four'.
+> Victoria reminds Max that they agreed to an open relationship, leaving him jealous as the wealthy guest courts her. See you next time!
+
+**Вика:** До встречи!

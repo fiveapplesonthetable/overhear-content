@@ -1,32 +1,32 @@
-ID = "kukhnya-s02e12-scene-04"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e12-scene-04'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 12
 SCENE = 4
-TITLE = 'Молодой гений Александр  (The Young Genius Aleksandr)'
+TITLE = "Молодой гений Александр  (The Young Genius Aleksandr)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja'}
-LABELS = {'anya': 'Настя', 'chef': 'Шеф'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.12"
-SOURCE_FILE = "sources/kukhnya/s02/e12.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "nastya": "angelina", "chef": "anja"}
+LABELS = {"nastya": "Настя", "chef": "Шеф"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.12'
+SOURCE_FILE = 'sources/kukhnya/s02/e12.ru.srt'
 
 INTRO = "Nagiyev presents young, self-assured chef Aleksandr Sergeyevich to the stunned cooks, boasting about the newcomer's European career. Back at the hospital, Elena Pavlovna walks into the ward with flowers and gently teases Viktor Petrovich for feeling awkward in his hospital bed."
 
 STORY = [
-    ('anya', 'Рожает земля русская гениев.', 'The Russian land still gives birth to geniuses.', [(52, 'Рожает земля русская гениев')], ''),
+    ('nastya', 'Рожает земля русская гениев.', 'The Russian land still gives birth to geniuses.', [(52, 'Рожает земля русская гениев')], ''),
     ('chef', 'Редко, но рожает.', 'Rarely, but it does.', [(53, 'Редко, но рожает')], ''),
-    ('anya', 'Очень много про вас слышал.', 'I have heard a great deal about you.', [(55, 'Очень много про вас слышал')], ''),
+    ('nastya', 'Очень много про вас слышал.', 'I have heard a great deal about you.', [(55, 'Очень много про вас слышал')], ''),
     ('chef', 'Приятно познакомиться.', 'Nice to meet you.', [(55, 'Приятно познакомиться')], ''),
-    ('anya', 'Я не повар.', 'I am not a cook.', [(56, 'Я не повар')], ''),
+    ('nastya', 'Я не повар.', 'I am not a cook.', [(56, 'Я не повар')], ''),
     ('chef', 'Не видно?', 'Can you not tell?', [(58, 'Не видно')], ''),
-    ('anya', 'Я здесь.', 'I am right here.', [(60, 'Я здесь')], ''),
+    ('nastya', 'Я здесь.', 'I am right here.', [(60, 'Я здесь')], ''),
     ('chef', 'Что и молод.', 'That I am young.', [(62, 'что и молод')], ''),
-    ('anya', 'Но это не так, это не так.', 'But that is not true, not true at all.', [(63, 'но это не так, это не так')], ''),
+    ('nastya', 'Но это не так, это не так.', 'But that is not true, not true at all.', [(63, 'но это не так, это не так')], ''),
     ('chef', 'И там сделал карьеру.', 'And I built my career over there.', [(65, 'и там сделал карьеру')], ''),
-    ('anya', 'Же как-то...', 'It is somehow...', [(69, 'же как-то')], ''),
+    ('nastya', 'Же как-то...', 'It is somehow...', [(69, 'же как-то')], ''),
     ('chef', 'Непривычно с вами так разговаривать.', 'Unusual talking with you like this.', [(70, 'Непривычно с вами так разговаривать')], ''),
-    ('anya', 'Я поставлю цветы в вас.', 'I will put the flowers in water for you.', [(71, 'Я поставлю цветы в вас')], ''),
+    ('nastya', 'Я поставлю цветы в вас.', 'I will put the flowers in water for you.', [(71, 'Я поставлю цветы в вас')], ''),
 ]
 
 OPENER = "Alright, let's go through it step by step in English."
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's listen to all those lines again from the top."
-
-OUTRO = 'When you watch Scene 4 of Episode 12, listen out for the exchange around the young genius aleksandr — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('anya', 'Я поставлю цветы в вас.')
+OUTRO = 'That wraps up this scene as nagiyev introduces young culinary star Aleksandr Sergeyevich to the skeptical kitchen crew, while Elena Pavlovna brings flowers to a flustered Viktor Petrovich in the hospital. See you next time!'
+CLOSING = ("nastya", "До завтра!")

@@ -1,31 +1,31 @@
 ID = 'kukhnya-s06e04-scene-20'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 4
 SCENE = 20
-TITLE = 'Гуля — моя девушка!  (Gulya Is My Girlfriend!)'
+TITLE = "Гуля — моя девушка!  (Gulya Is My Girlfriend!)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'guest': 'anja', 'katya': 'angelina'}
-LABELS = {'anya': 'Лёва', 'guest': 'Гость', 'katya': 'Катя'}
-SOURCE_NAME = "Кухня (Kukhnya) S6.04"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "lyova": "angelina", "guest": "anja"}
+LABELS = {"lyova": "Лёва", "guest": "Гость"}
+SOURCE_NAME = 'Кухня (Kukhnya) S6.04'
 SOURCE_FILE = 'sources/kukhnya/s06/e04.ru.srt'
 
 INTRO = 'In the final scene, Lyova explains that he took the five thousand rubles himself earlier that day and tells his stunned mother that Gulya is his girlfriend, not a maid—while Katya introduces Olivier as her boyfriend.'
 
 STORY = [
-    ('anya', 'Так, это что такое происходит?', 'Alright, what is going on here?', [(313, 'Так это что такое?')], 'adapted'),
+    ('lyova', 'Так, это что такое происходит?', 'Alright, what is going on here?', [(313, 'Так это что такое?')], 'adapted'),
     ('guest', 'Лёва, из нашей коробки исчезли пять тысяч!', 'Lyova, five thousand disappeared from our box!', [(314, 'Лёва'), (315, 'исчезли пять тысяч')], 'adapted'),
-    ('anya', 'Так это я их взял днем!', 'Why, I was the one who took them this afternoon!', [(316, 'Так это я их взял днем')], 'exact'),
+    ('lyova', 'Так это я их взял днем!', 'Why, I was the one who took them this afternoon!', [(316, 'Так это я их взял днем')], 'exact'),
     ('guest', 'Ну видишь, все сразу разъяснилось.', 'Well you see, everything cleared up right away.', [(317, 'Ну, видишь, ну все разъяснилось')], 'adapted'),
     ('guest', 'Я же говорила, прекрасный человек, великолепная домработница!', 'I told you, a wonderful person, a magnificent housekeeper!', [(318, 'прекрасный человек, великолепная домработница')], 'adapted'),
-    ('anya', 'Мама, Гуля — моя девушка!', 'Mom, Gulya is my girlfriend!', [(320, 'Мама, Гуля моя девушка')], 'exact'),
+    ('lyova', 'Мама, Гуля — моя девушка!', 'Mom, Gulya is my girlfriend!', [(320, 'Мама, Гуля моя девушка')], 'exact'),
     ('guest', 'Какая красивая пара, она мне с самого начала понравилась.', 'What a lovely couple, I liked her right from the start.', [(321, 'Красивая пара'), (322, 'Она мне с самого начала понравилась')], 'adapted'),
-    ('katya', 'До свидания всем.', 'Goodbye, everyone.', [(323, 'До свидания')], 'adapted'),
-    ('katya', 'Ребята, забыла вас познакомить, это мой парень Оливье.', 'Guys, I forgot to introduce you, this is my boyfriend Olivier.', [(324, 'Ребята, забыла вас познакомить. Это мой парень')], 'adapted'),
+    ('lyova', 'До свидания всем.', 'Goodbye, everyone.', [(323, 'До свидания')], 'adapted'),
+    ('lyova', 'Ребята, забыла вас познакомить, это мой парень Оливье.', 'Guys, I forgot to introduce you, this is my boyfriend Olivier.', [(324, 'Ребята, забыла вас познакомить. Это мой парень')], 'adapted'),
     ('guest', 'Почему они на меня так посмотрели?', 'Why did they look at me like that?', [(325, 'Почему они на меня так посмотрели?')], 'exact'),
     ('guest', 'Что ты им сейчас сказала?', 'What did you just say to them?', [(326, 'Что ты им сказала?')], 'adapted'),
-    ('katya', 'Я сказала им, что ты мой парень.', 'I told them that you are my boyfriend.', [(326, 'Я сказала им, что ты мой парень')], 'exact'),
+    ('lyova', 'Я сказала им, что ты мой парень.', 'I told them that you are my boyfriend.', [(326, 'Я сказала им, что ты мой парень')], 'exact'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "After taking pepper spray to the eyes playing a Michelin inspector, Olivier can only hope that playing Katya's boyfriend will be less painful. See you next time."
-CLOSING = ('anya', 'Гуля, подожди меня!')
+OUTRO = "After taking pepper spray to the eyes playing a Michelin inspector, Olivier can only hope that playing Katya's boyfriend will be less painful. See you next time!"
+CLOSING = ("lyova", "До завтра!")

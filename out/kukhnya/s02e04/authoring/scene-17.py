@@ -1,15 +1,15 @@
-ID = "kukhnya-s02e04-scene-17"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e04-scene-17'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 4
 SCENE = 17
-TITLE = 'Сожаления и готовый рулет  (Regrets and the Finished Roll)'
+TITLE = "Сожаления и готовый рулет  (Regrets and the Finished Roll)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja'}
-LABELS = {'anya': 'Макс', 'chef': 'Шеф'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.04"
-SOURCE_FILE = "sources/kukhnya/s02/e04.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "anya": "alisa"}
+LABELS = {"chef": "Шеф", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.04'
+SOURCE_FILE = 'sources/kukhnya/s02/e04.ru.srt'
 
 INTRO = "Finishing his story to the silent kitchen crew, Barani explains that the restaurant owner in Paris forced him to choose between lying or telling the truth about Barinov's absences, which led to Viktor Petrovich being fired. Just as Barani asks what any of them would have done in his place, Lyova announces that the meat roll is ready."
 
@@ -46,6 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Now let's put it all back together and hear the whole scene again."
-
-OUTRO = 'When you watch Scene 17 of Episode 4, listen out for the exchange around regrets and the finished roll — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('chef', 'И сейчас мы его попробуем.')
+OUTRO = 'That wraps up this scene as barani admits he was forced to tell the Paris restaurant owner the truth that got Barinov fired, and Lyova announces that the signature meat roll is ready to serve. Until next time!'
+CLOSING = ("chef", "До встречи!")

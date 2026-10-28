@@ -11,13 +11,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Гость | Скажи прямо, сколько денег надо? | Tell me straight, how much money do you need? | #33 00:02:49: Сколько надо | adapted: adapted |
-| 2 | Аня | Нет, не надо, я сам. | No, there is no need, I will do it myself. | #33 00:02:49: Нет, нет, не надо<br>#34 00:02:51: Я сам | adapted: adapted |
+| 2 | Гость | Нет, не надо, я сам. | No, there is no need, I will do it myself. | #33 00:02:49: Нет, нет, не надо<br>#34 00:02:51: Я сам | adapted: adapted |
 | 3 | Гость | Ты о будущем вообще думаешь? | Do you think about the future at all? | #35 00:02:53: Ты о будущем вообще думаешь | adapted: adapted |
 | 4 | Гость | Какие у тебя дальше планы? | What are your plans going forward? | #35 00:02:53: какие у тебя планы | adapted: adapted |
-| 5 | Аня | Я вообще-то юридический заканчиваю скоро. | I am actually finishing law school soon. | #37 00:03:00: я вообще-то юридически заканчиваю | adapted: adapted |
+| 5 | Гость | Я вообще-то юридический заканчиваю скоро. | I am actually finishing law school soon. | #37 00:03:00: я вообще-то юридически заканчиваю | adapted: adapted |
 | 6 | Гость | Чтобы стать нотариусом в дыре? | Just to become a notary in some backwater? | #38 00:03:04: стать занюханным нотариусом | adapted: adapted |
 | 7 | Гость | Сдачи мне совсем не надо. | I do not need any change at all. | #40 00:03:14: Сдачи не надо | adapted: adapted |
-| 8 | Аня | Извините, вот ваша сдача. | Excuse me, here is your change. | #43 00:03:23: Извините, вот | adapted: adapted |
+| 8 | Гость | Извините, вот ваша сдача. | Excuse me, here is your change. | #43 00:03:23: Извините, вот | adapted: adapted |
 | 9 | Гость | Ладно, я тогда ошибся. | Alright, I was mistaken then. | #42 00:03:21: Я ошибся | adapted: adapted |
 | 10 | Гость | Костя, я ведь помочь хочу. | Kostya, I really want to help you. | #44 00:03:27: Кость, я ведь помочь хочу | adapted: adapted |
 | 11 | Гость | Не хочешь взять деньги, тогда заработай. | If you do not want to take money, then earn it. | #45 00:03:30: не хочешь взять деньги, заработай | adapted: adapted |

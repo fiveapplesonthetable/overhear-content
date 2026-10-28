@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e18-scene-07'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 18
 SCENE = 7
-TITLE = 'Бунт против перчаток  (Rebellion Against the Gloves)'
+TITLE = "Бунт против перчаток  (Rebellion Against the Gloves)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja', 'vika': 'angelina'}
-LABELS = {'anya': 'Макс', 'chef': 'Шеф', 'vika': 'Вика'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.18"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "vika": "angelina", "anya": "alisa"}
+LABELS = {"chef": "Шеф", "vika": "Вика", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.18'
 SOURCE_FILE = 'sources/kukhnya/s03/e18.ru.srt'
 
 INTRO = "Chef Barinov continues his rebellion by tearing Fedya's rubber gloves, throwing away the spare boxes, and hanging the 'Employee of the Month' frame on the trash bin—until Vika calmly invites him into the office."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Instead of shouting back in front of the cooks, Vika leads Chef Barinov into his office for a private conversation.'
-CLOSING = ('vika', 'Пойдём, пожалуйста, сейчас в кабинет.')
+OUTRO = 'Instead of shouting back in front of the cooks, Vika leads Chef Barinov into his office for a private conversation. Until next time!'
+CLOSING = ("vika", "До встречи!")

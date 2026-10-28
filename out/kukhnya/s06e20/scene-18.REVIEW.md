@@ -11,17 +11,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Инспектор | Виктор, вы меня сегодня обманывали. | Viktor, you were deceiving me today. | #265 00:20:35: Вы меня обманывали | adapted: adapted |
-| 2 | Аня | Да, но иначе вы бы ушли. | Yes, but otherwise you would have left. | #266 00:20:37: Да<br>#268 00:20:42: Вы бы просто ушли | adapted: adapted |
-| 3 | Аня | Если бы я тогда не притворился. | If I had not pretended back then. | #267 00:20:39: Но если бы я не притворился | adapted: adapted |
-| 4 | Аня | Я показал, на что я способен. | I showed what I am capable of. | #269 00:20:45: показать, на что я способен | adapted: adapted |
-| 5 | Аня | И вы захотели дать мне звезду. | And you wanted to give me a star. | #270 00:20:48: И даже захотели дать мне звезду | adapted: adapted |
+| 2 | Шеф | Да, но иначе вы бы ушли. | Yes, but otherwise you would have left. | #266 00:20:37: Да<br>#268 00:20:42: Вы бы просто ушли | adapted: adapted |
+| 3 | Шеф | Если бы я тогда не притворился. | If I had not pretended back then. | #267 00:20:39: Но если бы я не притворился | adapted: adapted |
+| 4 | Шеф | Я показал, на что я способен. | I showed what I am capable of. | #269 00:20:45: показать, на что я способен | adapted: adapted |
+| 5 | Шеф | И вы захотели дать мне звезду. | And you wanted to give me a star. | #270 00:20:48: И даже захотели дать мне звезду | adapted: adapted |
 | 6 | Инспектор | Вы выдавали себя за другого человека. | You passed yourself off as another person. | #271 00:20:51: Вы выдавали себя за другого человека | adapted: adapted |
-| 7 | Аня | Что значит за другого человека? | What do you mean, as another person? | #272 00:20:55: Что значит за другого | adapted: adapted |
-| 8 | Аня | Я шеф, и это моё блюдо. | I am the chef, and this is my dish. | #273 00:20:57: Я шеф. Это мое блюдо | adapted: adapted |
-| 9 | Аня | Я его приготовил, оно вам понравилось. | I cooked it, and you liked it. | #273 00:20:57: которое я приготовил и которое вам понравилось | adapted: adapted |
-| 10 | Аня | Да, конечно, я совсем не ангел. | Yes, of course, I am no angel at all. | #275 00:21:03: Да, я не ангел | adapted: adapted |
-| 11 | Аня | Мне стыдно за это глупое представление. | I am ashamed of this foolish performance. | #276 00:21:08: Мне стыдно за это<br>#276 00:21:08: представление | adapted: adapted |
-| 12 | Аня | Не стыдно вам уничтожать карьеры поваров? | Are you not ashamed of destroying chefs' careers? | #278 00:21:14: Не стыдно уничтожать карьеры поваров | adapted: adapted |
+| 7 | Шеф | Что значит за другого человека? | What do you mean, as another person? | #272 00:20:55: Что значит за другого | adapted: adapted |
+| 8 | Шеф | Я шеф, и это моё блюдо. | I am the chef, and this is my dish. | #273 00:20:57: Я шеф. Это мое блюдо | adapted: adapted |
+| 9 | Шеф | Я его приготовил, оно вам понравилось. | I cooked it, and you liked it. | #273 00:20:57: которое я приготовил и которое вам понравилось | adapted: adapted |
+| 10 | Шеф | Да, конечно, я совсем не ангел. | Yes, of course, I am no angel at all. | #275 00:21:03: Да, я не ангел | adapted: adapted |
+| 11 | Шеф | Мне стыдно за это глупое представление. | I am ashamed of this foolish performance. | #276 00:21:08: Мне стыдно за это<br>#276 00:21:08: представление | adapted: adapted |
+| 12 | Шеф | Не стыдно вам уничтожать карьеры поваров? | Are you not ashamed of destroying chefs' careers? | #278 00:21:14: Не стыдно уничтожать карьеры поваров | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

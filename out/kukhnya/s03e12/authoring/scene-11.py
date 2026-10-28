@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e12-scene-11'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 12
 SCENE = 11
-TITLE = 'Прятки в шкафу  (Hiding in the Closet)'
+TITLE = "Прятки в шкафу  (Hiding in the Closet)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'katya': 'anja', 'hostess': 'angelina'}
-LABELS = {'anya': 'Макс', 'katya': 'Катя', 'hostess': 'Хостес'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.12"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "katya": "angelina", "hostess": "anja", "anya": "alisa"}
+LABELS = {"katya": "Катя", "hostess": "Хостес", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.12'
 SOURCE_FILE = 'sources/kukhnya/s03/e12.ru.srt'
 
 INTRO = 'Max sincerely thanks Katya for helping him secure the apartment. Just as Katya is about to leave, the landlady Valentina Grigoryevna comes back for a blanket, forcing Max to hide inside the wardrobe while Katya holds the door shut. Listen to the Russian scene first.'
@@ -40,11 +40,11 @@ WALK = [
     (6, None, "'For some reason the closet will not open at all.' Spoken Russian keeps this brisk, leaning on 'something' and finishing on 'opens'."),
     (7, None, "'Well I do not know, it will have to be another time.' In Russian, the idea of 'come on' flows naturally into 'time' without extra filler words. Katya answers right away."),
     (8, None, "'Just call ahead of time, and I will get it out for you.' Katya anchors the line on 'so', while 'I will get' completes the thought."),
-    (9, None, "'And how will you get it out yourself? Well, thank you.' The grammar packs 'and' and 'thank you' into a tight, idiomatic kitchen exchange."),
+    (9, None, "'And how will you get it out yourself? Well, thank you.' the hostess uses a polite everyday Russian courtesy expression that sets the tone of the conversation right away."),
     (10, None, "'Goodbye, have a nice day!' Notice how Russian expresses 'until' and 'day' with crisp inflection rather than helper words."),
     (11, None, "'Max, come out quickly, she left.' Here the Russian phrasing highlights 'Max' before landing on 'left'."),
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Katya's quick thinking keeps the landlady from opening the wardrobe and discovering Max inside. Meanwhile, back at Kostya and Nastya's apartment, their nursery renovation is running into a hilarious problem."
-CLOSING = ('katya', 'Макс, выходи, она ушла.')
+OUTRO = "Katya's quick thinking keeps the landlady from opening the wardrobe and discovering Max inside. Meanwhile, back at Kostya and Nastya's apartment, their nursery renovation is running into a hilarious problem. Until next time!"
+CLOSING = ("katya", "Всего хорошего!")

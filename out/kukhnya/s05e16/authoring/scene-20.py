@@ -1,20 +1,20 @@
 ID = 'kukhnya-s05e16-scene-20'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 16
 SCENE = 20
-TITLE = 'Развернуть самолёт ради любви  (Turning the Plane Around for Love)'
+TITLE = "Развернуть самолёт ради любви  (Turning the Plane Around for Love)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'guest': 'anja', 'kostya': 'angelina'}
-LABELS = {'anya': 'Макс', 'guest': 'Гость', 'kostya': 'Костя'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.16"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "guest": "anja"}
+LABELS = {"anya": "Макс", "guest": "Гость"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.16'
 SOURCE_FILE = 'sources/kukhnya/s05/e16.ru.srt'
 
 INTRO = "When Kostya calls Max a second time to tell him Vika is genuinely in labor now, Max realizes how deeply he loves Vika and takes out an instant five-hundred-thousand-ruble loan from Dasha's bank to turn the jet back to Moscow."
 
 STORY = [
-    ('kostya', 'Макс, не бросай трубку, теперь она и вправду рожает!', 'Max, do not hang up, now she really is giving birth!', [(323, 'А теперь она и вправду рожает')], 'adapted'),
+    ('guest', 'Макс, не бросай трубку, теперь она и вправду рожает!', 'Max, do not hang up, now she really is giving birth!', [(323, 'А теперь она и вправду рожает')], 'adapted'),
     ('anya', 'Самое главное в жизни — женщину нужно любить.', 'The most important thing in life is that you must love a woman.', [(324, 'И самое главное, женщину нужно любить')], 'adapted'),
     ('anya', 'И делать это нужно всем сердцем и отчаянно!', 'And you must do it with all your heart and fiercely!', [(325, 'И делать это нужно отчаянно')], 'adapted'),
     ('anya', 'Иначе какая же это тогда настоящая любовь?', 'Otherwise what kind of real love is it then?', [(326, 'Иначе какая это к черту любовь')], 'adapted'),
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'With the plane turning back toward Moscow, Max races through the sky to meet his newborn child and Vika. See you next time.'
-CLOSING = ('anya', 'Я её очень сильно люблю!')
+OUTRO = 'With the plane turning back toward Moscow, Max races through the sky to meet his newborn child and Vika. See you next time!'
+CLOSING = ("anya", "Пока!")

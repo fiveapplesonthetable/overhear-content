@@ -1,39 +1,38 @@
-# kukhnya-s01e09-scene-12: review sheet
+# Поиски Алисы  (Searching for Alisa) — `kukhnya-s01e09-scene-12`
 
-Title: Поиски Алисы  (Searching for Alisa)
-Level: A1 — Duolingo Section 2
-Pair: ru-en
-Source: Кухня (The Kitchen) S1.9
+**Source:** Кухня (Kukhnya) S1.09 · `sources/kukhnya/s01/e09.ru.dual.srt`  
+**Target level:** A1 — Duolingo Section 2
 
+## Cast
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+| Role | Voice | Label |
+|---|---|---|
+| `narrator` | sky | — |
+| `fedya` | anja | Федя |
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+## Part 1 — Intro
+
+> A sudden panic strikes the kitchen of Claude Monet as Chef Barinov's young daughter Alisa vanishes without a trace. While the staff scrambles to check every corner and security camera, Barinov receives an unexpected phone call from her mother. Let's listen to their conversation in Russian.
+
+## Part 2 — Story
+
+| # | Speaker | Line | English | Source cue(s) | Change |
 |---|---|---|---|---|---|
-| 1 | Федя | Шеф, в туалете девочки тоже нет. | Chef, the girl is not in the bathroom either. | #264 00:16:31: в туалете тоже нет | adapted: reporting bathroom search |
-| 2 | Шеф | Где она вообще может быть сейчас? | Where can she possibly be right now? | #267 00:16:40: Где она может быть | adapted: panicking over missing daughter |
-| 3 | Федя | Она точно не выходила из здания ресторана. | She definitely did not leave the restaurant building. | #265 00:16:34: она не выходила из здания | adapted: checking exterior perimeter |
-| 4 | Шеф | Ты проверил записи со всех внутренних камер? | Did you check recordings from all interior cameras? | #266 00:16:37: на внутренних смотреть | adapted: demanding surveillance review |
-| 5 | Федя | Внутренние камеры было приказано отключить утром. | The interior cameras were ordered to be turned off this morning. | #267 00:16:40: Внутренние было сказано отключить | adapted: explaining technical glitch |
-| 6 | Шеф | Какой глупый человек догадался это сделать? | What foolish person thought of doing that? | #268 00:16:42: догадался это сказать | adapted: demanding the culprit |
-| 7 | Федя | Вы сами дали такой странный приказ, шеф. | You gave such a strange order yourself, Chef. | #269 00:16:44: Вы, шеф | adapted: reminding him politely |
-| 8 | Шеф | Теперь хуже уже точно быть не может. | Now it definitely cannot get any worse. | #270 00:16:48: хуже уже быть не может | adapted: despairing |
-| 9 | Федя | Вам звонит её мама на телефон, шеф. | Her mother is calling you on the phone, Chef. | #271 00:16:53: Да нет, может | adapted: announcing incoming call |
-| 10 | Шеф | Алло, Таня, у нас с дочкой всё хорошо. | Hello, Tanya, everything is fine with our daughter. | #272 00:16:56: да все хорошо<br>#273 00:16:58: С Алисой хорошо | adapted: lying nervously on phone |
-| 11 | Федя | Мы перевернём всю кухню и найдём её! | We will turn the whole kitchen upside down and find her! | #278 00:17:06: мы всю каюту вернем, перевернем | adapted: trying to comfort chef |
-| 12 | Шеф | Пошёл вон отсюда со своими глупыми советами! | Get out of here with your foolish advice! | #280 00:17:16: пошел вон отсюда | adapted: snapping in frustration |
+| 0 | Федя | Шеф, в туалете девочки тоже нет. | Chef, the girl is not in the bathroom either. | #264 "в туалете тоже нет" |  |
+| 1 | Федя | Где она вообще может быть сейчас? | Where can she possibly be right now? | #267 "Где она может быть" |  |
+| 2 | Федя | Она точно не выходила из здания ресторана. | She definitely did not leave the restaurant building. | #265 "она не выходила из здания" |  |
+| 3 | Федя | Ты проверил записи со всех внутренних камер? | Did you check recordings from all interior cameras? | #266 "на внутренних смотреть" |  |
+| 4 | Федя | Внутренние камеры было приказано отключить утром. | The interior cameras were ordered to be turned off this morning. | #267 "Внутренние было сказано отключить" |  |
+| 5 | Федя | Какой глупый человек догадался это сделать? | What foolish person thought of doing that? | #268 "догадался это сказать" |  |
+| 6 | Федя | Вы сами дали такой странный приказ, шеф. | You gave such a strange order yourself, Chef. | #269 "Вы, шеф" |  |
+| 7 | Федя | Теперь хуже уже точно быть не может. | Now it definitely cannot get any worse. | #270 "хуже уже быть не может" |  |
+| 8 | Федя | Вам звонит её мама на телефон, шеф. | Her mother is calling you on the phone, Chef. | #271 "Да нет, может" |  |
+| 9 | Федя | Алло, Таня, у нас с дочкой всё хорошо. | Hello, Tanya, everything is fine with our daughter. | #272 "да все хорошо", #273 "С Алисой хорошо" |  |
+| 10 | Федя | Мы перевернём всю кухню и найдём её! | We will turn the whole kitchen upside down and find her! | #278 "мы всю каюту вернем, перевернем" |  |
+| 11 | Федя | Пошёл вон отсюда со своими глупыми советами! | Get out of here with your foolish advice! | #280 "пошел вон отсюда" |  |
 
-## Walk-through narration (English only, no target-language words quoted)
+## Part 5 — Outro & closing
 
-- 'Chef, the girl is not in the bathroom either.' Direct address followed by locative prepositional phrase, genitive subject noun, focusing particle, and negative predicative word.
-- 'Where can she possibly be right now?' Interrogative locative adverb with subject pronoun, modal particle, modal verb, infinitive, and temporal adverb.
-- 'She definitely did not leave the restaurant building.' Subject pronoun with modal adverb, negated past motion verb, and genitive prepositional phrase with dependent genitive noun.
-- 'Did you check recordings from all interior cameras?' Subject pronoun with past transitive verb, accusative object noun, and genitive prepositional adjective-noun phrase.
-- 'The interior cameras were ordered to be turned off this morning.' Accusative object noun phrase with impersonal past passive predicate, perfective infinitive, and instrumental time adverb.
-- 'What foolish person thought of doing that?' Interrogative evaluative subject noun phrase with past reflexive verb, demonstrative pronoun, and perfective infinitive.
-- 'You gave such a strange order yourself, Chef.' Subject pronoun with emphatic pronoun, past verb, accusative adjective-noun phrase, and vocative title.
-- 'Now it definitely cannot get any worse.' Temporal adverb with comparative predicative, temporal adverb, modal particle, infinitive, and negated modal verb.
-- 'Her mother is calling you on the phone, Chef.' Dative pronoun with present verb, possessive pronoun, nominative subject noun, prepositional phrase, and vocative title.
-- 'Hello, Tanya, everything is fine with our daughter.' Conversational greeting and vocative name with prepositional pronoun phrase, collective phrase, and predicative adverbial clause.
-- 'We will turn the whole kitchen upside down and find her!' Subject pronoun with future transitive verb, accusative noun phrase, coordinating conjunction, future verb, and accusative pronoun.
-- 'Get out of here with your foolish advice!' Idiomatic past imperative motion expression with directional adverb and instrumental prepositional phrase.
+> Furious and cornered by his ex-wife's call, Chef Barinov redoubles the search for young Alisa across Claude Monet. Great work practicing conversational Russian! Next time you watch the episode, listen for the Russian expressions for 'to be' and 'inner' — you will catch every word right away. See you next time!
+
+**Федя:** Пока!

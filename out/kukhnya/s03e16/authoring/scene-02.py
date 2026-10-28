@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e16-scene-02'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 16
 SCENE = 2
-TITLE = 'Новый директор Кристина  (The New Director Kristina)'
+TITLE = "Новый директор Кристина  (The New Director Kristina)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'nagiyev': 'anja', 'kristina': 'angelina'}
-LABELS = {'anya': 'Макс', 'nagiyev': 'Нагиев', 'kristina': 'Кристина'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.16"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "nagiyev": "angelina", "anya": "alisa", "kristina": "anja"}
+LABELS = {"nagiyev": "Нагиев", "anya": "Макс", "kristina": "Кристина"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.16'
 SOURCE_FILE = 'sources/kukhnya/s03/e16.ru.srt'
 
 INTRO = "While the cooks argue about Grandpa Kirill's ghost, Nagiyev gathers the staff and announces that his ex-wife Kristina Semyonovna is taking over Vika's job as restaurant director! Listen to the Russian conversation first."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "The staff is horrified that capricious Kristina is their new boss! Now let's follow Nagiyev and Kristina into Vika's former office in Scene Three."
-CLOSING = ('nagiyev', 'Прошу любить и жаловать!')
+OUTRO = "The staff is horrified that capricious Kristina is their new boss! Now let's follow Nagiyev and Kristina into Vika's former office in Scene Three. See you next time!"
+CLOSING = ("nagiyev", "Увидимся!")

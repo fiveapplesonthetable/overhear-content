@@ -1,14 +1,14 @@
 ID = 'kukhnya-s05e18-scene-09'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 18
 SCENE = 9
-TITLE = 'Сосед-таксист и шумная дрель  (The Taxi-Driver Neighbor and the Noisy Drill)'
+TITLE = "Сосед-таксист и шумная дрель  (The Taxi-Driver Neighbor and the Noisy Drill)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja', 'guest': 'angelina'}
-LABELS = {'anya': 'Макс', 'chef': 'Шеф', 'guest': 'Гость'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.18"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "guest": "anja", "anya": "alisa"}
+LABELS = {"guest": "Гость", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.18'
 SOURCE_FILE = 'sources/kukhnya/s05/e18.ru.srt'
 
 INTRO = "The loud whine of Chef Barinov's power drill wakes up the next-door neighbor, an irritable taxi driver who just finished a twenty-hour shift and demands immediate silence."
@@ -17,15 +17,15 @@ STORY = [
     ('guest', 'Здравствуйте, мужики, совесть имейте!', 'Hello, fellas, have a conscience!', [(150, 'Мужики, совесть имейте')], 'adapted'),
     ('guest', 'Я сутки из такси не вылезал, людей возил.', 'I did not get out of my taxi all day, driving people.', [(151, 'из такси не вылезал, людей возил')], 'adapted'),
     ('guest', 'Вырубите дрель, я только спать лёг!', 'Turn off the drill, I just lay down to sleep!', [(152, 'Вырубите дрель, а? Только спать')], 'adapted'),
-    ('chef', 'Слушай, друг, у нас тут ещё час работы.', 'Listen, friend, we have another hour of work here.', [(153, 'Слушай, друг, ну у нас тут еще час')], 'adapted'),
-    ('chef', 'Потерпи, завтра жену из роддома забирать.', 'Bear with us, tomorrow he picks up his wife from the hospital.', [(154, 'Потерпи. Завтра жену из роддома забирать')], 'adapted'),
-    ('chef', 'Пожалуйста, войди в наше положение.', 'Please, put yourself in our shoes.', [(155, 'Войди в положение')], 'adapted'),
+    ('guest', 'Слушай, друг, у нас тут ещё час работы.', 'Listen, friend, we have another hour of work here.', [(153, 'Слушай, друг, ну у нас тут еще час')], 'adapted'),
+    ('guest', 'Потерпи, завтра жену из роддома забирать.', 'Bear with us, tomorrow he picks up his wife from the hospital.', [(154, 'Потерпи. Завтра жену из роддома забирать')], 'adapted'),
+    ('guest', 'Пожалуйста, войди в наше положение.', 'Please, put yourself in our shoes.', [(155, 'Войди в положение')], 'adapted'),
     ('guest', 'У вас тут ещё ребёнок орать будет?', 'Is a baby going to be screaming in here too?', [(155, 'У вас сегодня еще ребенок орать будет')], 'adapted'),
     ('anya', 'Да, в моём доме будет жить мой ребёнок.', 'Yes, my child is going to live in my home.', [(156, 'Да, в моем доме будет')], 'adapted'),
     ('anya', 'У тебя какие-то проблемы с этим?', 'Do you have some kind of problem with that?', [(157, 'Какие-то проблемы')], 'adapted'),
     ('guest', 'Проблемы у тебя будут, если дрель услышу!', 'You will have problems if I hear the drill again!', [(157, 'Проблема у тебя будет, если еще раз дрелью')], 'adapted'),
     ('guest', 'Вообще-то сегодня суббота, вы права не имеете.', 'Actually today is Saturday, you have no right.', [(158, 'вообще-то сегодня суббота'), (159, 'Вы вообще права не имеете')], 'adapted'),
-    ('chef', 'Не обращай на него внимания, продолжаем.', "Pay no attention to him, let's continue.", [(160, 'Не обращай внимания')], 'adapted'),
+    ('guest', 'Не обращай на него внимания, продолжаем.', "Pay no attention to him, let's continue.", [(160, 'Не обращай внимания')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Max shuts the door in the neighbor's face and resumes drilling, prompting the neighbor to plan a sneaky revenge. See you in the next scene."
-CLOSING = ('chef', 'Не обращай внимания.')
+OUTRO = "Max shuts the door in the neighbor's face and resumes drilling, prompting the neighbor to plan a sneaky revenge. Until next time!"
+CLOSING = ("guest", "До завтра!")

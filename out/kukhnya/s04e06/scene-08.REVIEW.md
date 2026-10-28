@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostya, hi, what did you lose here?' Max greets his friend with a past-tense perfective question.
-- 'I cannot find one expensive bottle.' Feminine accusative endings mark the missing bottle.
-- 'I borrowed it from you last night.' Perfective past verb 'borrowed' takes 'at/from you' in the genitive.
-- 'I took it home for our romantic dinner.' Preposition 'for' governs the genitive singular phrase.
-- 'Max, what romantic dinner on earth?' Kostya echoes the genitive phrase in sheer disbelief.
-- 'Do not worry, I will reimburse you the full cost.' First-person perfective future verb promises financial reimbursement.
+- 'Kostya, hi, what did you lose here?' Max centers this short reply on 'lost', letting a few direct words carry the whole meaning.
+- 'I cannot find one expensive bottle.' Putting the short word for 'not' right in front of the action word is all Russian needs to make a sentence negative, with no extra helper words like 'do' or 'did'.
+- 'I borrowed it from you last night.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.
+- 'I took it home for our romantic dinner.' In everyday Russian, 'took' flows straight into 'dinner, supper' without extra linking words.
+- 'Max, what romantic dinner on earth?' In spoken Russian, the words stay in their normal statement order and Kostya's rising voice at the end turns the line into a question.
+- 'Do not worry, I will reimburse you the full cost.' Notice how Russian puts 'worry' and 'to cost' together in a short, direct phrase where word endings show how the ideas connect.
 - 'How much does it cost, one or two thousand?' Max assumes it is an ordinary restaurant bottle.
 - 'Dmitry Vladimirovich himself left this bottle yesterday!' Emphatic pronoun highlights the celebrity owner's name.
 - 'Do you know how much this rare bottle costs?' Indirect question clause retains the verb 'costs'.
-- 'It costs exactly five thousand dollars!' Both 'thousand' and 'dollars' stand in the genitive plural after 'five'.
-- 'Whoa, and I just made up with Vika!' Reflexive perfective past verb means reconciling after a quarrel.
+- 'It costs exactly five thousand dollars!' Notice how Russian puts 'is standing' and 'dollars' together in a short, direct phrase where word endings show how the ideas connect.
+- 'Whoa, and I just made up with Vika!' Here Max anchors the thought on 'Vika' and finishes on 'to make up, to reconcile', keeping the spoken rhythm brisk and natural.
 - 'Not a bad reconciliation for five thousand dollars!' Kostya remarks dryly on the price of Max's romance.
 - 'Kostya, hi, please make me a coffee.' Vika walks up to the bar just as Max tries to process the disaster.

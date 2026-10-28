@@ -1,31 +1,31 @@
 ID = 'kukhnya-s05e13-scene-10'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 13
 SCENE = 10
-TITLE = 'Путь на большую сцену  (Path to the Big Stage)'
+TITLE = "Путь на большую сцену  (Path to the Big Stage)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'elena': 'anja', 'senya': 'angelina'}
-LABELS = {'anya': 'Шеф', 'elena': 'Елена', 'senya': 'Сеня'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.13"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "elena": "angelina"}
+LABELS = {"chef": "Шеф", "elena": "Елена"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.13'
 SOURCE_FILE = 'sources/kukhnya/s05/e13.ru.srt'
 
 INTRO = 'Continuing his concert fantasy, Chef Barinov dedicates his hit song to the woman who broke his heart, causing Elena to rush backstage in tears—though Senya quickly pokes holes in the story.'
 
 STORY = [
-    ('anya', 'С этой песни начался мой большой путь.', 'My great journey began with this song.', [(122, 'с этой песни начался мой путь')], 'adapted'),
-    ('anya', 'Я нашёл дорогу в ваши добрые сердца.', 'I found the way into your kind hearts.', [(123, 'и в ваши сердца')], 'adapted'),
-    ('anya', 'Я написал её в память о любви.', 'I wrote it in memory of love.', [(124, 'написал я ее в память о')], 'adapted'),
-    ('anya', 'Эта женщина навсегда разбила моё сердце.', 'That woman broke my heart forever.', [(125, 'которая навсегда разбила мое сердце')], 'adapted'),
-    ('anya', 'Лена, ты всегда будешь в моём сердце!', 'Lena, you will always be in my heart!', [(126, 'Лена, ты всегда будешь в моем сердце')], 'adapted'),
+    ('chef', 'С этой песни начался мой большой путь.', 'My great journey began with this song.', [(122, 'с этой песни начался мой путь')], 'adapted'),
+    ('chef', 'Я нашёл дорогу в ваши добрые сердца.', 'I found the way into your kind hearts.', [(123, 'и в ваши сердца')], 'adapted'),
+    ('chef', 'Я написал её в память о любви.', 'I wrote it in memory of love.', [(124, 'написал я ее в память о')], 'adapted'),
+    ('chef', 'Эта женщина навсегда разбила моё сердце.', 'That woman broke my heart forever.', [(125, 'которая навсегда разбила мое сердце')], 'adapted'),
+    ('chef', 'Лена, ты всегда будешь в моём сердце!', 'Lena, you will always be in my heart!', [(126, 'Лена, ты всегда будешь в моем сердце')], 'adapted'),
     ('elena', 'Витя, я сегодня была на твоём концерте.', 'Vitya, I was at your concert today.', [(127, 'Витя, я была на твоем концерте')], 'adapted'),
     ('elena', 'Я стояла в зале и всё слышала.', 'I stood in the hall and heard everything.', [(127, 'я все слышала')], 'adapted'),
     ('elena', 'Я тоже очень тебя люблю, Витя!', 'I love you very much too, Vitya!', [(128, 'Я тоже тебя люблю, Витя')], 'adapted'),
-    ('anya', 'Ура, ты наконец сказала мне да!', 'Hooray, you finally said yes to me!', [(129, 'Ты сказала да')], 'adapted'),
-    ('senya', 'Нет, это звучит не очень правдоподобно.', 'No, that does not sound very plausible.', [(130, 'не очень правдоподобно')], 'adapted'),
-    ('senya', 'Вы же попали в настоящий шоу-бизнес!', 'After all, you got into real show business!', [(131, 'Вы же в')], 'adapted'),
-    ('anya', 'И что ты хочешь этим сказать?', 'And what do you mean to say by that?', [(132, 'И')], 'adapted'),
+    ('chef', 'Ура, ты наконец сказала мне да!', 'Hooray, you finally said yes to me!', [(129, 'Ты сказала да')], 'adapted'),
+    ('elena', 'Нет, это звучит не очень правдоподобно.', 'No, that does not sound very plausible.', [(130, 'не очень правдоподобно')], 'adapted'),
+    ('elena', 'Вы же попали в настоящий шоу-бизнес!', 'After all, you got into real show business!', [(131, 'Вы же в')], 'adapted'),
+    ('chef', 'И что ты хочешь этим сказать?', 'And what do you mean to say by that?', [(132, 'И')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Senya and the cooks immediately revise the Chef's rock-star fantasy into something much less innocent. See you in the next scene."
-CLOSING = ('elena', 'Я тоже тебя люблю, Витя!')
+OUTRO = "Senya and the cooks immediately revise the Chef's rock-star fantasy into something much less innocent. See you next time!"
+CLOSING = ("elena", "Увидимся!")

@@ -12,16 +12,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 |---|---|---|---|---|---|
 | 1 | Аня | Кто шеф не знал. | What the Chef did not know. | #290 00:18:15: кто шеф не знал | verbatim |
 | 2 | Шеф | То я их купил. | Was that I bought them myself. | #290 00:18:15: то я их купил | verbatim |
-| 3 | Костя | Им очень были нужны деньги. | They needed the money very badly. | #292 00:18:26: им очень были нужны деньги | verbatim |
+| 3 | Шеф | Им очень были нужны деньги. | They needed the money very badly. | #292 00:18:26: им очень были нужны деньги | verbatim |
 | 4 | Аня | А попросить нельзя было. | Could you not simply have asked me for it? | #293 00:18:30: А попросить нельзя было | verbatim |
 | 5 | Шеф | Могла бы хотя бы предупредить. | You could have at least warned me. | #294 00:18:32: Могла бы хотя бы предупредить | verbatim |
-| 6 | Костя | Я думал, мы доверяем друг другу. | I thought we trusted each other. | #295 00:18:35: Я думал, мы доверяем друг другу | verbatim |
+| 6 | Шеф | Я думал, мы доверяем друг другу. | I thought we trusted each other. | #295 00:18:35: Я думал, мы доверяем друг другу | verbatim |
 | 7 | Аня | Костик, ну прости. | Kostik, please forgive me. | #296 00:18:37: Костик, ну прости | verbatim |
 | 8 | Шеф | Пап, прости. | Dad, forgive me. | #297 00:18:41: Пап, прости | verbatim |
-| 9 | Костя | Простите меня. | Forgive me, all of you. | #298 00:18:44: Простите меня | verbatim |
+| 9 | Шеф | Простите меня. | Forgive me, all of you. | #298 00:18:44: Простите меня | verbatim |
 | 10 | Аня | В туалете раздевалки чистые. | The restrooms and locker rooms are clear. | #301 00:18:55: В туалете раздевалки чистые | verbatim |
 | 11 | Шеф | Склад проверь. | Go check the storage room. | #302 00:18:56: Склад проверь | verbatim |
-| 12 | Костя | Командир, я не понял, вы откуда взялись-то? | Officer, I do not understand, where did you guys come from? | #303 00:18:59: Командир, я не понял, вы откуда взялись-то | verbatim |
+| 12 | Шеф | Командир, я не понял, вы откуда взялись-то? | Officer, I do not understand, where did you guys come from? | #303 00:18:59: Командир, я не понял, вы откуда взялись-то | verbatim |
 | 13 | Аня | Это я их вызвала. | I was the one who called them. | #304 00:19:02: это я их вызвала | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)

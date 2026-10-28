@@ -1,14 +1,14 @@
 ID = 'kukhnya-s05e10-scene-04'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 10
 SCENE = 4
-TITLE = 'Удалённая база на ресепшене  (The Deleted Database at Reception)'
+TITLE = "Удалённая база на ресепшене  (The Deleted Database at Reception)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'kostya': 'anja', 'sveta': 'angelina'}
-LABELS = {'anya': 'Макс', 'kostya': 'Костя', 'sveta': 'Света'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.10"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "kostya": "anja", "sveta": "angelina"}
+LABELS = {"anya": "Макс", "kostya": "Костя", "sveta": "Света"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.10'
 SOURCE_FILE = 'sources/kukhnya/s05/e10.ru.srt'
 
 INTRO = 'While Mikhail leads the inspectors toward a luxury suite, Max and Kostya deduce that the moustached suspect must be a hotel guest. At the front desk, an impatient woman hypnotizes receptionist Sveta into wiping out the entire reservation database.'
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "That concludes the scene at the reception desk. Pay attention to Max's shocked questions when he sees Sveta deleting the hotel database in a trance. See you in the next scene."
-CLOSING = ('anya', 'Гипнотизёр ещё в отеле!')
+OUTRO = "That concludes the scene at the reception desk. Pay attention to Max's shocked questions when he sees Sveta deleting the hotel database in a trance. See you next time!"
+CLOSING = ("anya", "Хорошего дня!")

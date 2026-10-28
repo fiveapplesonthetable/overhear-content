@@ -10,16 +10,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Где Настя? | Where is Nastya? | #181 00:19:41: Где Настя | adapted: adapted |
+| 1 | Гость | Где Настя? | Where is Nastya? | #181 00:19:41: Где Настя | adapted: adapted |
 | 2 | Гость | Я не знаю. | I do not know. | #181 00:19:41: Я не знаю | adapted: adapted |
-| 3 | Аня | Ты Настя? | Are you Nastya? | #182 00:19:44: Ты Настя | adapted: adapted |
+| 3 | Гость | Ты Настя? | Are you Nastya? | #182 00:19:44: Ты Настя | adapted: adapted |
 | 4 | Настя | Нет, я Алиса. | No, I am Alisa. | #182 00:19:44: Я Алиса | adapted: adapted |
 | 5 | Гость | А что вообще такое? | And what is going on anyway? | #183 00:19:47: А что такое | adapted: adapted |
 | 6 | Гость | Официантки идут к шейху, а попадают ко мне. | The waitresses go to see the sheikh, and end up with me. | #185 00:20:07: Официантки идут к шейху, попадают ко мне | adapted: adapted |
 | 7 | Настя | То есть с шейхом ты меня не познакомишь? | So you are not going to introduce me to the sheikh? | #186 00:20:11: То есть с шейхом ты меня не познакомишь | adapted: adapted |
-| 8 | Аня | То есть Насти у вас не было, так? | So Nastya was not here with you, right? | #187 00:20:18: у вас не было, так | adapted: adapted |
+| 8 | Гость | То есть Насти у вас не было, так? | So Nastya was not here with you, right? | #187 00:20:18: у вас не было, так | adapted: adapted |
 | 9 | Гость | Нет, она мне отказала. | No, she turned me down. | #188 00:20:20: Нет, она мне отказала | adapted: adapted |
-| 10 | Аня | Значит, Настя мне не изменяла! | That means Nastya did not cheat on me! | #188 00:20:20: она мне отказала | adapted: adapted |
+| 10 | Гость | Значит, Настя мне не изменяла! | That means Nastya did not cheat on me! | #188 00:20:20: она мне отказала | adapted: adapted |
 | 11 | Настя | Как ты мог меня так обмануть? | How could you deceive me like that? | #186 00:20:11: ты меня не познакомишь | adapted: adapted |
 | 12 | Гость | Тише, сюда идёт сам шейх! | Quiet, the sheikh himself is coming this way! | #185 00:20:07: к шейху | adapted: adapted |
 

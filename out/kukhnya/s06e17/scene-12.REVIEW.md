@@ -11,14 +11,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Настя | Как вы можете изменить Елене? | How can you cheat on Elena? | #175 00:10:52: Как вы можете изменить Елене | adapted: adapted |
-| 2 | Костя | Извините, шеф, я вас сдал. | Sorry, Chef, I gave you away. | #176 00:10:55: Извините, шеф, я вас сдал | adapted: adapted |
-| 3 | Аня | Я там с Еленой Павловной. | I am in there with Elena Pavlovna. | #177 00:10:59: что я там с Еленой Павловной | adapted: adapted |
+| 2 | Шеф | Извините, шеф, я вас сдал. | Sorry, Chef, I gave you away. | #176 00:10:55: Извините, шеф, я вас сдал | adapted: adapted |
+| 3 | Шеф | Я там с Еленой Павловной. | I am in there with Elena Pavlovna. | #177 00:10:59: что я там с Еленой Павловной | adapted: adapted |
 | 4 | Настя | Костя, пойдём, не будем мешать. | Kostya, let us go, we will not disturb them. | #178 00:11:03: Костя, пойдем, не будем мешать | adapted: adapted |
 | 5 | Настя | Там у вас ещё мужчина? | Is there another man in there with you? | #179 00:11:07: еще один мужчина | adapted: adapted |
-| 6 | Аня | Шеф, вы отыгрываться сегодня будете? | Chef, are you going to win it back today? | #180 00:11:13: Шеф, вы отыгрываться будете | adapted: adapted |
-| 7 | Костя | А, так вы играете в покер. | Ah, so you are playing poker. | #182 00:11:18: в покер играть | adapted: adapted |
-| 8 | Аня | Только не говори об этом Елене. | Just do not tell Elena about this. | #183 00:11:21: Только не говори Елене | adapted: adapted |
-| 9 | Аня | Я обещал, что скоро завяжу. | I promised that I would quit soon. | #184 00:11:23: Я обещал, что завяжу | adapted: adapted |
+| 6 | Шеф | Шеф, вы отыгрываться сегодня будете? | Chef, are you going to win it back today? | #180 00:11:13: Шеф, вы отыгрываться будете | adapted: adapted |
+| 7 | Шеф | А, так вы играете в покер. | Ah, so you are playing poker. | #182 00:11:18: в покер играть | adapted: adapted |
+| 8 | Шеф | Только не говори об этом Елене. | Just do not tell Elena about this. | #183 00:11:21: Только не говори Елене | adapted: adapted |
+| 9 | Шеф | Я обещал, что скоро завяжу. | I promised that I would quit soon. | #184 00:11:23: Я обещал, что завяжу | adapted: adapted |
 | 10 | Настя | А какая женщина шампанское заказывала? | Then what woman ordered champagne? | #185 00:11:25: А что за женщина шампанское заказывала | adapted: adapted |
 | 11 | Настя | Уходим отсюда, Костик. | We are leaving here, Kostik. | #189 00:11:34: Уходим, Костик | adapted: adapted |
 | 12 | Настя | Я сейчас звоню Елене Павловне. | I am calling Elena Pavlovna right now. | #191 00:11:41: Звоню Елене Павловне | adapted: adapted |

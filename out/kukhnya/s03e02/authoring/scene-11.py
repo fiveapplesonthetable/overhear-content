@@ -1,29 +1,29 @@
 ID = 'kukhnya-s03e02-scene-11'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 2
 SCENE = 11
-TITLE = 'Не то блюдо  (Not That Dish)'
+TITLE = "Не то блюдо  (Not That Dish)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja', 'nastya': 'angelina'}
-LABELS = {'anya': 'Нагиев', 'chef': 'Шеф', 'nastya': 'Настя'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.02"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "nagiyev": "angelina", "chef": "anja"}
+LABELS = {"nagiyev": "Нагиев", "chef": "Шеф"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.02'
 SOURCE_FILE = 'sources/kukhnya/s03/e02.ru.srt'
 
 INTRO = 'In the dining room, Nagiyev takes one bite of the clean balsamic tenderloin and immediately complains that it lacks the tart, natural flavor of the dish he ate at lunch.'
 
 STORY = [
-    ('nastya', 'Ого, вегетарианка! Ты хоть в курсе, что эта штука из мяса?', 'Whoa, vegetarian! Are you even aware that this thing is made of meat?', [(156, 'Ого, вегетарианка'), (157, 'Ты хоть в курсе, что эта штука-то из мяса')], 'adapted'),
-    ('anya', 'Кристина, мне наплевать, лучший у тебя адвокат или не лучший.', "Kristina, I don't care whether you have the best lawyer or not.", [(158, 'Кристина, мне наплевать, лучший у тебя адвокат или не лучший')], ''),
-    ('anya', 'Если так будешь разговаривать, вообще ничего не получишь.', 'If you talk like that, you will get nothing at all.', [(159, 'если так будешь разговаривать, вообще ничего не получишь')], ''),
+    ('nagiyev', 'Ого, вегетарианка! Ты хоть в курсе, что эта штука из мяса?', 'Whoa, vegetarian! Are you even aware that this thing is made of meat?', [(156, 'Ого, вегетарианка'), (157, 'Ты хоть в курсе, что эта штука-то из мяса')], 'adapted'),
+    ('nagiyev', 'Кристина, мне наплевать, лучший у тебя адвокат или не лучший.', "Kristina, I don't care whether you have the best lawyer or not.", [(158, 'Кристина, мне наплевать, лучший у тебя адвокат или не лучший')], ''),
+    ('nagiyev', 'Если так будешь разговаривать, вообще ничего не получишь.', 'If you talk like that, you will get nothing at all.', [(159, 'если так будешь разговаривать, вообще ничего не получишь')], ''),
     ('chef', 'Приятного аппетита.', 'Bon appetit.', [(161, 'Приятного аппетита')], ''),
-    ('anya', 'Взбесило меня!', 'It infuriated me!', [(162, 'Взбесило меня')], ''),
-    ('anya', 'Это не то блюдо.', 'This is not that dish.', [(163, 'Это не то блюдо')], ''),
+    ('nagiyev', 'Взбесило меня!', 'It infuriated me!', [(162, 'Взбесило меня')], ''),
+    ('nagiyev', 'Это не то блюдо.', 'This is not that dish.', [(163, 'Это не то блюдо')], ''),
     ('chef', 'Как не то? То же самое.', 'How is it not that one? It is the exact same thing.', [(163, 'Как не то'), (164, 'То же самое')], 'adapted'),
-    ('anya', 'Нет, Витя, не то блюдо.', 'No, Vitya, not that dish.', [(164, 'не то блюдо')], 'adapted'),
-    ('anya', 'Там вкус был такой терпкий, приятный, природный.', 'There the taste was so tart, pleasant, natural.', [(165, 'Там вкус был такой терпкий, приятный, природный')], ''),
-    ('anya', 'Пускай это переделают, ребята, а?', 'Have them redo this, guys, okay?', [(167, 'переделают, ребята, а')], 'adapted'),
+    ('nagiyev', 'Нет, Витя, не то блюдо.', 'No, Vitya, not that dish.', [(164, 'не то блюдо')], 'adapted'),
+    ('nagiyev', 'Там вкус был такой терпкий, приятный, природный.', 'There the taste was so tart, pleasant, natural.', [(165, 'Там вкус был такой терпкий, приятный, природный')], ''),
+    ('nagiyev', 'Пускай это переделают, ребята, а?', 'Have them redo this, guys, okay?', [(167, 'переделают, ребята, а')], 'adapted'),
     ('chef', 'Мы не можем это переделать.', 'We cannot redo this.', [(168, 'Мы не можем это переделать')], ''),
     ('chef', 'Нет одного очень важного ингредиента.', 'One very important ingredient is missing.', [(169, 'Нет одного очень важного ингредиента')], ''),
 ]
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "And that finishes Scene Eleven. Notice how Nagiyev can immediately tell the difference and demands the original 'tart, natural' flavor."
-CLOSING = ('anya', 'Это совсем не то блюдо!')
+OUTRO = "And that finishes Scene Eleven. Notice how Nagiyev can immediately tell the difference and demands the original 'tart, natural' flavor. Until next time!"
+CLOSING = ("nagiyev", "Всего хорошего!")

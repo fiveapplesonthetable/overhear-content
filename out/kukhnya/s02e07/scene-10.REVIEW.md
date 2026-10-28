@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Вообще-то я не сплю. | Actually, I am not asleep. | #149 00:10:26: Вообще-то я не сплю | verbatim |
+| 1 | Костя | Вообще-то я не сплю. | Actually, I am not asleep. | #149 00:10:26: Вообще-то я не сплю | verbatim |
 | 2 | Настя | Я же. | I am right here. | #150 00:10:43: я же | verbatim |
-| 3 | Родион | Прошу прощения, Константин. | I beg your pardon, Konstantin. | #151 00:10:49: Прошу прощения, Константин | verbatim |
-| 4 | Аня | Я не знал об этом вашем семейном правиле. | I did not know about that family rule of yours. | #152 00:10:52: Я не знал об этом вашем семейном правиле | verbatim |
+| 3 | Костя | Прошу прощения, Константин. | I beg your pardon, Konstantin. | #151 00:10:49: Прошу прощения, Константин | verbatim |
+| 4 | Костя | Я не знал об этом вашем семейном правиле. | I did not know about that family rule of yours. | #152 00:10:52: Я не знал об этом вашем семейном правиле | verbatim |
 | 5 | Настя | Ну что. | Well then. | #154 00:10:58: Ну что | verbatim |
-| 6 | Родион | А тебе не кажется. | Do you not think. | #155 00:11:05: а тебе не кажется | verbatim |
-| 7 | Аня | Ему пора обратно на улицу? | That it is time for him to head back out to the street? | #156 00:11:09: ему пора обратно на улицу | verbatim |
+| 6 | Костя | А тебе не кажется. | Do you not think. | #155 00:11:05: а тебе не кажется | verbatim |
+| 7 | Костя | Ему пора обратно на улицу? | That it is time for him to head back out to the street? | #156 00:11:09: ему пора обратно на улицу | verbatim |
 | 8 | Настя | Костя, ты слышал, как он кашлял всю ночь? | Kostya, did you hear how he was coughing all night long? | #158 00:11:15: Костя, ты слышал, как он кашлял всю ночь | verbatim |
-| 9 | Родион | Слышал, Настя. | I heard him, Nastya. | #159 00:11:17: Слышал, Настя | verbatim |
-| 10 | Аня | Я так больше не могу. | I cannot take this anymore. | #161 00:11:22: Я так больше не могу | verbatim |
+| 9 | Костя | Слышал, Настя. | I heard him, Nastya. | #159 00:11:17: Слышал, Настя | verbatim |
+| 10 | Костя | Я так больше не могу. | I cannot take this anymore. | #161 00:11:22: Я так больше не могу | verbatim |
 | 11 | Настя | Тогда и я уйду. | Then I will leave too. | #162 00:11:25: Тогда и я уйду | verbatim |
-| 12 | Родион | Настя, что за принципы? | Nastya, what kind of principle is that? | #163 00:11:27: Настя, что за принципы | verbatim |
-| 13 | Аня | То я уйду вместе с ним. | Then I will walk out right along with him. | #164 00:11:31: то я уйду вместе с ним | verbatim |
+| 12 | Костя | Настя, что за принципы? | Nastya, what kind of principle is that? | #163 00:11:27: Настя, что за принципы | verbatim |
+| 13 | Костя | То я уйду вместе с ним. | Then I will walk out right along with him. | #164 00:11:31: то я уйду вместе с ним | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

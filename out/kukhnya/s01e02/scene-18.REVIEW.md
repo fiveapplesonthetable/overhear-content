@@ -1,41 +1,40 @@
-# kukhnya-s01e02-scene-18: review sheet
+# Матч на кухне  (Match in the Kitchen) — `kukhnya-s01e02-scene-18`
 
-Title: Матч на кухне  (Match in the Kitchen)
-Level: A1 — Duolingo Section 2
-Pair: ru-en
-Source: Кухня (Kukhnya) S1.02
-Cues 209–210. Chef Viktor Barinov passionately watches the Spartak vs CSKA soccer match in the kitchen.
+**Source:** Кухня (Kukhnya) S1.02 · `sources/kukhnya/s01/e02.ru.dual.srt`  
+**Target level:** A1 — Duolingo Section 2
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+## Cast
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+| Role | Voice | Label |
+|---|---|---|
+| `narrator` | sky | — |
+| `senya` | angelina | Сеня |
+| `chef` | anja | Шеф |
+
+## Part 1 — Intro
+
+> In his kitchen office, Chef Viktor is glued to the television watching the Moscow football derby between Spartak and CSKA. Line cook Senya asks about dinner service, but the chef is completely absorbed in the tense play near the goal. Let's listen to their exchange in Russian first.
+
+## Part 2 — Story
+
+| # | Speaker | Line | English | Source cue(s) | Change |
 |---|---|---|---|---|---|
-| 1 | Сеня | Шеф, пора начинать готовить горячие блюда? | Chef, is it time to start preparing hot dishes? | new | new |
-| 2 | Шеф | Тихо, Сеня! Сейчас идёт решающий матч! | Quiet, Senya! A decisive match is on right now! | new | new |
-| 3 | Сеня | Кто сегодня играет на этом матче? | Who is playing in this match today? | new | new |
-| 4 | Шеф | Наш великий Спартак играет против ЦСКА! | Our great Spartak is playing against CSKA! | new | new |
-| 5 | Сеня | И какой сейчас счёт в игре? | And what is the score in the game now? | new | new |
-| 6 | Шеф | Пока ничья, но мы должны победить! | A draw so far, but we must win! | new | new |
-| 7 | Сеня | Смотрите, мяч летит к их воротам! | Look, the ball is flying toward their goal! | new | new |
-| 8 | Шеф | У чужой штрафной площади ЦСКА держит оборону. | Near the opponent penalty area CSKA is holding defense. | #209 00:15:26: держит оборону | verbatim |
-| 9 | Сеня | Нападающий Спартака получает быстрый пас. | The Spartak forward receives a fast pass. | new | new |
-| 10 | Шеф | Давай, Ари с мячом сильно бьёт! | Come on, Ari with the ball shoots hard! | #210 00:15:29: бьет | verbatim |
-| 11 | Сеня | Вратарь с трудом ловит этот мяч. | The goalkeeper catches this ball with difficulty. | new | new |
-| 12 | Шеф | Какой опасный и красивый был момент! | What a dangerous and beautiful moment it was! | new | new |
-| 13 | Сеня | А теперь пора вернуться к нашей кухне. | And now it is time to return to our kitchen. | new | new |
+| 0 | Сеня | Шеф, пора начинать готовить горячие блюда? | Chef, is it time to start preparing hot dishes? | *(added)* |  |
+| 1 | Шеф | Тихо, Сеня! Сейчас идёт решающий матч! | Quiet, Senya! A decisive match is on right now! | *(added)* |  |
+| 2 | Сеня | Кто сегодня играет на этом матче? | Who is playing in this match today? | *(added)* |  |
+| 3 | Шеф | Наш великий Спартак играет против ЦСКА! | Our great Spartak is playing against CSKA! | *(added)* |  |
+| 4 | Сеня | И какой сейчас счёт в игре? | And what is the score in the game now? | *(added)* |  |
+| 5 | Шеф | Пока ничья, но мы должны победить! | A draw so far, but we must win! | *(added)* |  |
+| 6 | Сеня | Смотрите, мяч летит к их воротам! | Look, the ball is flying toward their goal! | *(added)* |  |
+| 7 | Шеф | У чужой штрафной площади ЦСКА держит оборону. | Near the opponent penalty area CSKA is holding defense. | #209 "держит оборону" |  |
+| 8 | Сеня | Нападающий Спартака получает быстрый пас. | The Spartak forward receives a fast pass. | *(added)* |  |
+| 9 | Шеф | Давай, Ари с мячом сильно бьёт! | Come on, Ari with the ball shoots hard! | #210 "бьет" |  |
+| 10 | Сеня | Вратарь с трудом ловит этот мяч. | The goalkeeper catches this ball with difficulty. | *(added)* |  |
+| 11 | Шеф | Какой опасный и красивый был момент! | What a dangerous and beautiful moment it was! | *(added)* |  |
+| 12 | Сеня | А теперь пора вернуться к нашей кухне. | And now it is time to return to our kitchen. | *(added)* |  |
 
-## Walk-through narration (English only, no target-language words quoted)
+## Part 5 — Outro & closing
 
-- 'Chef, is it time to start preparing hot dishes?' Predicative adverb construction with an infinitive chain.
-- 'Quiet, Senya! A decisive match is on right now!' Imperative interjection followed by a present motion verb.
-- 'Who is playing in this match today?' Interrogative pronoun subject with a present imperfective verb.
-- 'Our great Spartak is playing against CSKA!' Proper name subject with an oppositional prepositional phrase.
-- 'And what is the score in the game now?' Interrogative pronoun phrase with a locative prepositional phrase.
-- 'A draw so far, but we must win!' Elliptical statement followed by an adversative modal construction.
-- 'Look, the ball is flying toward their goal!' Imperative verb followed by a present motion clause.
-- 'Near the opponent penalty area CSKA is holding defense.' Sports commentary line with a genitive modifier.
-- 'The Spartak forward receives a fast pass.' Present transitive sports action with an accusative direct object.
-- 'Come on, Ari with the ball shoots hard!' Exhortative particle with an instrumental phrase and present verb.
-- 'The goalkeeper catches this ball with difficulty.' Present transitive clause with an adverbial prepositional phrase.
-- 'What a dangerous and beautiful moment it was!' Exclamatory clause with coordinated adjectives and past copula.
-- 'And now it is time to return to our kitchen.' Impersonal predicative construction with a directional infinitive.
+> Chef Barinov's love of football brings lively energy to Claude Monet between stressful dinner orders. See you next time!
+
+**Шеф:** Пока!

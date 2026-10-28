@@ -35,7 +35,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'And our chef Viktor Petrovich was there!' Fedya adds that even Barinov was out on the street at 3 a.m.
 - 'What do you have, some kind of secret club?' Vika thinks all the men are inventing a ridiculous group alibi.
 - 'We really were there at night, we were!' Walking in, Chef Barinov himself confirms the story.
-- 'That fiancé of Sasha's is just a total idiot.' Possessive adjective 'Sashkin' ('Sasha's') modifies 'fiancé'.
+- 'That fiancé of Sasha's is just a total idiot.' Notice how Russian puts 'bridegroom, fiancé, suitor, boyfriend' and 'idiot' together in a short, direct phrase where word endings show how the ideas connect.
 - 'You see, I am telling the truth, nothing happened!' Max breathes a premature sigh of relief.
-- 'And so what, should I dance for joy now?' Infinitive question expresses biting irony.
-- 'My husband helped his ex and lied to me!' Feminine adjective 'byvshey' ('former/ex') acts as a noun in the dative case.
+- 'And so what, should I dance for joy now?' In everyday Russian, 'now, nowadays' flows straight into 'joy, gladness' without extra linking words.
+- 'My husband helped his ex and lied to me!' Vika pairs 'husband' with 'to lied' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.

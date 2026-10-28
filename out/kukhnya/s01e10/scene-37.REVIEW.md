@@ -1,41 +1,40 @@
-# kukhnya-s01e10-scene-37: review sheet
+# Внезапное предложение  (A Sudden Proposal) — `kukhnya-s01e10-scene-37`
 
-Title: Внезапное предложение  (A Sudden Proposal)
-Level: A1
-Pair: ru-en
-Source: Кухня s01e10
+**Source:** Кухня (Kukhnya) S1.10 · `sources/kukhnya/s01/e10.ru.dual.srt`  
+**Target level:** A1 — Duolingo Section 2
 
+## Cast
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+| Role | Voice | Label |
+|---|---|---|
+| `narrator` | sky | — |
+| `anya` | alisa | Макс |
+| `vika` | angelina | Вика |
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+## Part 1 — Intro
+
+> Furious about the false rumor, Victoria confronts Chef Barinov and Max in the dining area. To turn the tables on Vika in front of her sister Tanya, Max steps up boldly, introduces himself as the future father, and suddenly asks Victoria to marry him. Let's listen to their conversation in Russian.
+
+## Part 2 — Story
+
+| # | Speaker | Line | English | Source cue(s) | Change |
 |---|---|---|---|---|---|
-| 1 | Вика | Витя, зачем ты обманул Таню про меня? | Vitya, why did you lie to Tanya about me? | #259 00:18:31: что Таня про меня | adapted: confronting about lie |
-| 2 | Макс | Шеф, я могу всё подробно объяснить сейчас. | Chef, I can explain everything in detail now. | #263 00:18:45: колись | adapted: trying to de-escalate |
-| 3 | Вика | Ты, мальчик, сегодня выбрал не ту девушку! | You, boy, picked the wrong girl today! | #264 00:18:47: мальчик, не на ту нарвался | adapted: warning Max |
-| 4 | Макс | А сейчас мы устроим настоящее весёлое шоу. | And now we will put on a real fun show. | #266 00:18:53: будем делать шоу | adapted: deciding to bluff |
-| 5 | Макс | Здравствуйте, Татьяна, давайте знакомиться, я Максим. | Hello, Tatyana, let's get acquainted, I am Maxim. | #267 00:18:56: познакомиться. Максим<br>#268 00:18:58: Татьяна | adapted: introducing himself |
-| 6 | Вика | Макс, прекрати немедленно этот глупый цирк! | Max, stop this silly circus immediately! | #266 00:18:53: доигралась | adapted: demanding he stop |
-| 7 | Макс | Я отец вашего будущего прекрасного племянника! | I am the father of your future wonderful nephew! | #269 00:19:01: Отец вашего будущего племянника | adapted: announcing fatherhood |
-| 8 | Вика | Ты ведёшь себя как полный сумасшедший! | You are behaving like a complete madman! | #274 00:19:17: Ты же блефуешь | adapted: scolding Max |
-| 9 | Макс | Мы же теперь самые близкие родные люди. | We are now the closest family members. | #271 00:19:06: мы ж теперь родственники | adapted: claiming family bond |
-| 10 | Макс | Я хочу сказать всем вам кое-что важное. | I want to say something important to you all. | #272 00:19:07: кое-что важное | adapted: building anticipation |
-| 11 | Макс | Вика, выходи за меня замуж прямо сейчас! | Vika, marry me right now! | #273 00:19:12: выходи за меня замуж | adapted: proposing marriage |
-| 12 | Вика | Ты просто нагло и открыто сейчас блефуешь! | You are simply insolently and openly bluffing now! | #274 00:19:17: Ты же блефуешь | adapted: calling his bluff |
-| 13 | Макс | Я говорю совершенно серьёзно перед твоей сестрой! | I am speaking completely seriously in front of your sister! | #274 00:19:17: блефуешь | adapted: insisting on proposal |
+| 0 | Вика | Витя, зачем ты обманул Таню про меня? | Vitya, why did you lie to Tanya about me? | #259 "что Таня про меня" |  |
+| 1 | Макс | Шеф, я могу всё подробно объяснить сейчас. | Chef, I can explain everything in detail now. | #263 "колись" |  |
+| 2 | Вика | Ты, мальчик, сегодня выбрал не ту девушку! | You, boy, picked the wrong girl today! | #264 "мальчик, не на ту нарвался" |  |
+| 3 | Макс | А сейчас мы устроим настоящее весёлое шоу. | And now we will put on a real fun show. | #266 "будем делать шоу" |  |
+| 4 | Макс | Здравствуйте, Татьяна, давайте знакомиться, я Максим. | Hello, Tatyana, let's get acquainted, I am Maxim. | #267 "познакомиться. Максим", #268 "Татьяна" |  |
+| 5 | Вика | Макс, прекрати немедленно этот глупый цирк! | Max, stop this silly circus immediately! | #266 "доигралась" |  |
+| 6 | Макс | Я отец вашего будущего прекрасного племянника! | I am the father of your future wonderful nephew! | #269 "Отец вашего будущего племянника" |  |
+| 7 | Вика | Ты ведёшь себя как полный сумасшедший! | You are behaving like a complete madman! | #274 "Ты же блефуешь" |  |
+| 8 | Макс | Мы же теперь самые близкие родные люди. | We are now the closest family members. | #271 "мы ж теперь родственники" |  |
+| 9 | Макс | Я хочу сказать всем вам кое-что важное. | I want to say something important to you all. | #272 "кое-что важное" |  |
+| 10 | Макс | Вика, выходи за меня замуж прямо сейчас! | Vika, marry me right now! | #273 "выходи за меня замуж" |  |
+| 11 | Вика | Ты просто нагло и открыто сейчас блефуешь! | You are simply insolently and openly bluffing now! | #274 "Ты же блефуешь" |  |
+| 12 | Макс | Я говорю совершенно серьёзно перед твоей сестрой! | I am speaking completely seriously in front of your sister! | #274 "блефуешь" |  |
 
-## Walk-through narration (English only, no target-language words quoted)
+## Part 5 — Outro & closing
 
-- 'Vitya, why did you lie to Tanya about me?' Direct address name with interrogative adverb, subject pronoun, past verb, dative name, and prepositional pronoun.
-- 'Chef, I can explain everything in detail now.' Direct address title with subject pronoun, modal verb, collective pronoun, manner adverb, infinitive, and temporal adverb.
-- 'You, boy, picked the wrong girl today!' Subject pronoun and vocative noun with temporal adverb, past verb, negative particle, and demonstrative adjective-noun phrase.
-- 'And now we will put on a real fun show.' Max expresses this naturally by combining the word for 'now' with 'to arrange' and 'real'.
-- 'Hello, Tatyana, let's get acquainted, I am Maxim.' Polite greeting and vocative name with hortative infinitive construction, subject pronoun, and predicative name.
-- 'Max, stop this silly circus immediately!' Vocative name with imperative verb, temporal adverb, and demonstrative evaluative adjective-noun phrase.
-- 'I am the father of your future wonderful nephew!' Subject pronoun with nominative noun, possessive determiner, and genitive future adjective-noun phrase.
-- 'You are behaving like a complete madman!' Subject pronoun with present reflexive verb, comparative conjunction, and qualitative adjective-noun phrase.
-- 'We are now the closest family members.' Subject pronoun with emphatic particle, temporal adverb, superlative adjective, and nominative adjective-noun phrase.
-- 'I want to say something important to you all.' Subject pronoun with present modal verb, infinitive, dative pronouns, and indefinite neuter adjective-noun phrase.
-- 'Vika, marry me right now!' Vocative name with imperative motion verb, accusative prepositional pronoun phrase, and temporal idiomatic phrase.
-- 'You are simply insolently and openly bluffing now!' Subject pronoun with limiting particle, adverbs joined by coordinating conjunction, temporal adverb, and present verb.
-- 'I am speaking completely seriously in front of your sister!' Subject pronoun with present verb, degree adverb, manner adverb, and instrumental prepositional possessive-noun phrase.
+> Trapped by his own dramatic theatricals in front of Tanya and Chef Barinov, Max takes a bold gamble by publicly proposing to Victoria. Great work practicing conversational Russian! Next time you watch the episode, listen for the Russian expressions for 'to bluff' and 'close' — you will catch every word right away. See you next time!
+
+**Макс:** Пока!

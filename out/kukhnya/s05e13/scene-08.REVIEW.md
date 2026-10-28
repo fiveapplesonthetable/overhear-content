@@ -10,17 +10,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Гуля | Лёва, что же ты тут натворил? | Lyova, what on earth have you done here? | #98 00:10:59: Лёва, ты что натворил | adapted: adapted |
-| 2 | Гуля | Неужели ты их всех закрыл? | Did you really lock them all up? | #99 00:11:04: Ты их всех | adapted: adapted |
-| 3 | Аня | Прости меня, но это ради нас. | Forgive me, but this is for our sake. | #100 00:11:06: прости меня, я чудовище, но это ради нас | adapted: adapted |
-| 4 | Аня | Все они хотели помешать нашему счастью. | They all wanted to stand in the way of our happiness. | #101 00:11:12: Все они хотели помешать нашему счастью | adapted: adapted |
-| 5 | Гуля | Никто меня ещё так не любил! | Nobody has ever loved me like this before! | #102 00:11:22: меня так не любил | adapted: adapted |
-| 6 | Аня | Спасибо вам за добрые слова, ребята. | Thank you for the kind words, guys. | #103 00:11:41: Спасибо | adapted: adapted |
+| 1 | Шеф | Лёва, что же ты тут натворил? | Lyova, what on earth have you done here? | #98 00:10:59: Лёва, ты что натворил | adapted: adapted |
+| 2 | Шеф | Неужели ты их всех закрыл? | Did you really lock them all up? | #99 00:11:04: Ты их всех | adapted: adapted |
+| 3 | Лёва | Прости меня, но это ради нас. | Forgive me, but this is for our sake. | #100 00:11:06: прости меня, я чудовище, но это ради нас | adapted: adapted |
+| 4 | Лёва | Все они хотели помешать нашему счастью. | They all wanted to stand in the way of our happiness. | #101 00:11:12: Все они хотели помешать нашему счастью | adapted: adapted |
+| 5 | Шеф | Никто меня ещё так не любил! | Nobody has ever loved me like this before! | #102 00:11:22: меня так не любил | adapted: adapted |
+| 6 | Лёва | Спасибо вам за добрые слова, ребята. | Thank you for the kind words, guys. | #103 00:11:41: Спасибо | adapted: adapted |
 | 7 | Шеф | Ну и чего ты так покраснел? | Well, why did you blush like that? | #104 00:11:43: Ну и что | adapted: adapted |
-| 8 | Аня | Давайте теперь за шефа дружно выпьем! | Let's all drink to the Chef together now! | #105 00:11:46: Давайте теперь | adapted: adapted |
-| 9 | Аня | Виктор Петрович, мы пьём за вас! | Viktor Petrovich, we drink to you! | #106 00:11:48: за вас | adapted: adapted |
+| 8 | Лёва | Давайте теперь за шефа дружно выпьем! | Let's all drink to the Chef together now! | #105 00:11:46: Давайте теперь | adapted: adapted |
+| 9 | Лёва | Виктор Петрович, мы пьём за вас! | Viktor Petrovich, we drink to you! | #106 00:11:48: за вас | adapted: adapted |
 | 10 | Шеф | Спасибо, Лёва, ты настоящий друг. | Thank you, Lyova, you are a true friend. | #103 00:11:41: Спасибо | adapted: adapted |
-| 11 | Аня | Желаю вам огромного семейного счастья. | I wish you immense family happiness. | #101 00:11:12: нашему счастью | adapted: adapted |
+| 11 | Лёва | Желаю вам огромного семейного счастья. | I wish you immense family happiness. | #101 00:11:12: нашему счастью | adapted: adapted |
 | 12 | Шеф | Наливайте скорее полные бокалы, друзья! | Pour the glasses full quickly, friends! | #106 00:11:48: за вас | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)

@@ -1,31 +1,39 @@
-# kukhnya-s01e11-scene-10: review sheet
+# Подозрительная гостья  (A Suspicious Guest) — `kukhnya-s01e11-scene-10`
 
-Title: Подозрительная гостья  (A Suspicious Guest)
-Level: A1 — Duolingo Section 2
-Pair: ru-en
-Source: Кухня (Kukhnya) S1.11
-Cues 152-158. Victoria and Chef Barinov closely watch a solitary woman dining at Claude Monet, wondering if she is the food critic.
+**Source:** Кухня (Kukhnya) S1.11 · `sources/kukhnya/s01/e11.ru.dual.srt`  
+**Target level:** A1 — Duolingo Section 2
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+## Cast
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+| Role | Voice | Label |
+|---|---|---|
+| `narrator` | sky | — |
+| `chef` | anja | Шеф |
+| `vika` | angelina | Вика |
+
+## Part 1 — Intro
+
+> A stylish woman sits alone in the Claude Monet dining room, speaking quietly on her mobile phone while observing her surroundings. Watching her intently from the entrance, Chef Barinov and Victoria struggle to determine whether she is the dreaded restaurant critic. Let's listen to their nervous discussion in Russian.
+
+## Part 2 — Story
+
+| # | Speaker | Line | English | Source cue(s) | Change |
 |---|---|---|---|---|---|
-| 1 | Шеф | Вика, посмотри на ту даму. | Vika, look at that lady. | new | new |
-| 2 | Вика | Ну как она себя ведёт? | Well, how is she behaving? | #152 00:10:15: как она? | verbatim |
-| 3 | Шеф | Вроде всё совершенно нормально. | Everything seems completely fine. | #152 00:10:15: Вроде нормально | verbatim |
-| 4 | Вика | Она долго говорит по телефону. | She is talking on the phone for a long time. | new | new |
-| 5 | Шеф | Она просто обедает в нашем зале. | She is simply dining in our dining room. | #154 00:10:20: Я в Клотмана обедаю | verbatim |
-| 6 | Вика | Но она ничего не ест. | But she is not eating anything. | new | new |
-| 7 | Шеф | Может быть, блюдо слишком горячее? | Maybe the dish is too hot? | new | new |
-| 8 | Вика | Она только что попросила счёт. | She just asked for the bill. | new | new |
-| 9 | Шеф | Она ресторанный критик или нет? | Is she a restaurant critic or not? | #158 00:10:31: или нет? | verbatim |
-| 10 | Вика | Мы до сих пор не уверены. | We are still not sure. | new | new |
-| 11 | Шеф | Нужно срочно выяснить всю правду. | We need to urgently find out the whole truth. | new | new |
-| 12 | Вика | Я сейчас же всё узнаю, шеф. | I will find out everything right now, chef. | new | new |
+| 0 | Шеф | Вика, посмотри на ту даму. | Vika, look at that lady. | *(added)* |  |
+| 1 | Вика | Ну как она себя ведёт? | Well, how is she behaving? | #152 "как она?" |  |
+| 2 | Шеф | Вроде всё совершенно нормально. | Everything seems completely fine. | #152 "Вроде нормально" |  |
+| 3 | Вика | Она долго говорит по телефону. | She is talking on the phone for a long time. | *(added)* |  |
+| 4 | Шеф | Она просто обедает в нашем зале. | She is simply dining in our dining room. | #154 "Я в Клотмана обедаю" |  |
+| 5 | Вика | Но она ничего не ест. | But she is not eating anything. | *(added)* |  |
+| 6 | Шеф | Может быть, блюдо слишком горячее? | Maybe the dish is too hot? | *(added)* |  |
+| 7 | Вика | Она только что попросила счёт. | She just asked for the bill. | *(added)* |  |
+| 8 | Шеф | Она ресторанный критик или нет? | Is she a restaurant critic or not? | #158 "или нет?" |  |
+| 9 | Вика | Мы до сих пор не уверены. | We are still not sure. | *(added)* |  |
+| 10 | Шеф | Нужно срочно выяснить всю правду. | We need to urgently find out the whole truth. | *(added)* |  |
+| 11 | Вика | Я сейчас же всё узнаю, шеф. | I will find out everything right now, chef. | *(added)* |  |
 
-## Walk-through narration (English only, no target-language words quoted)
+## Part 5 — Outro & closing
 
-- 'Well, how is she behaving?' An interrogative inquiry about the guest's conduct in the dining room.
-- 'She is simply dining in our dining room.' A descriptive present tense statement about the customer's activity for the staff.
-- 'Is she a restaurant critic or not?' A direct alternative question expressing acute uncertainty about the visitor's true identity.
-- 'We need to urgently find out the whole truth.' An impersonal modal phrase indicating pressing necessity for the restaurant team. Now, let's hear Victoria and Chef Barinov discuss the guest once more.
+> Now you know how to discuss dining behavior, express uncertainty, and talk about investigations in Russian. Listen for these watchful workplace expressions in the upcoming scene. Next time you watch the episode, listen for the Russian expressions for 'dish' and 'to be' — you will catch every word right away. See you next time!
+
+**Шеф:** Пока!

@@ -1,14 +1,14 @@
 ID = 'kukhnya-s05e12-scene-01'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 12
 SCENE = 1
-TITLE = 'Ночной звонок и тушёнка  (A Late-Night Call and Stewed Meat)'
+TITLE = "Ночной звонок и тушёнка  (A Late-Night Call and Stewed Meat)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja'}
-LABELS = {'anya': 'Макс', 'vika': 'Вика'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.12"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "vika": "angelina"}
+LABELS = {"anya": "Макс", "vika": "Вика"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.12'
 SOURCE_FILE = 'sources/kukhnya/s05/e12.ru.srt'
 
 INTRO = 'Max reflects on the belief that thoughts are material: if you think about something constantly, it is bound to come true. In the middle of the night, his phone rings and pregnant Vika asks him to bring her canned stewed meat.'
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "And that finishes our opening scene. Listen for the philosophical opening about thoughts becoming reality and Vika's unexpected midnight craving for canned stewed meat. See you in the next scene."
-CLOSING = ('vika', 'Привези мне тушёнку!')
+OUTRO = "And that finishes our opening scene. Listen for the philosophical opening about thoughts becoming reality and Vika's unexpected midnight craving for canned stewed meat. Until next time!"
+CLOSING = ("vika", "До встречи!")

@@ -1,31 +1,31 @@
 ID = 'kukhnya-s05e17-scene-11'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 17
 SCENE = 11
-TITLE = 'Побег через туалет и ключи в руках  (Restroom Escape and Keys in Hand)'
+TITLE = "Побег через туалет и ключи в руках  (Restroom Escape and Keys in Hand)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'nikita': 'anja', 'senya': 'angelina'}
-LABELS = {'anya': 'Катя', 'nikita': 'Никита', 'senya': 'Сеня'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.17"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "nikita": "anja", "katya": "angelina"}
+LABELS = {"nikita": "Никита", "katya": "Катя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.17'
 SOURCE_FILE = 'sources/kukhnya/s05/e17.ru.srt'
 
 INTRO = "Senya reluctantly lets Mikhail out of the office to use the restroom. In the kitchen, Nikita proudly shows Nagiyev's car keys to Katya and asks what she wants to do with the jeep."
 
 STORY = [
-    ('senya', 'В туалет я вас, конечно, выпущу.', 'To the restroom I will let you out, of course.', [(211, 'В туалет, конечно, выпущу')], 'adapted'),
-    ('senya', 'Только быстро в туалет и обратно.', 'Only quickly to the restroom and right back.', [(214, 'В туалет и обратно')], 'adapted'),
+    ('katya', 'В туалет я вас, конечно, выпущу.', 'To the restroom I will let you out, of course.', [(211, 'В туалет, конечно, выпущу')], 'adapted'),
+    ('katya', 'Только быстро в туалет и обратно.', 'Only quickly to the restroom and right back.', [(214, 'В туалет и обратно')], 'adapted'),
     ('nikita', 'Смотри, ключи теперь у меня.', 'Look, the keys are with me now.', [(215, 'Ключи у меня')], 'adapted'),
     ('nikita', 'Что нам делать с машиной?', 'What should we do with the car?', [(216, 'Что делать с машиной')], 'adapted'),
-    ('anya', 'А что ты обычно делаешь с машиной?', 'And what do you usually do with a car?', [(217, 'А что ты обычно делаешь с машиной')], 'adapted'),
+    ('katya', 'А что ты обычно делаешь с машиной?', 'And what do you usually do with a car?', [(217, 'А что ты обычно делаешь с машиной')], 'adapted'),
     ('nikita', 'Обычно угоняю и передаю заказчику.', 'Usually I steal it and hand it over to the client.', [(218, 'обычно угоняю и передаю заказчику')], 'adapted'),
     ('nikita', 'Сегодня ведь ты мой заказчик.', 'Today you are my client, after all.', [(219, 'Ты же заказчик')], 'adapted'),
-    ('anya', 'Ну, я даже не знаю.', 'Well, I do not even know.', [(219, 'Ну, не знаю')], 'adapted'),
-    ('anya', 'Продай её кому-нибудь.', 'Sell it to somebody.', [(220, 'Продай')], 'adapted'),
+    ('katya', 'Ну, я даже не знаю.', 'Well, I do not even know.', [(219, 'Ну, не знаю')], 'adapted'),
+    ('katya', 'Продай её кому-нибудь.', 'Sell it to somebody.', [(220, 'Продай')], 'adapted'),
     ('nikita', 'Ладно, я сам с этим разберусь.', 'Alright, I will sort this out myself.', [(222, 'Ладно, разберусь')], 'adapted'),
     ('nikita', 'А ты пока готовь поцелуй.', 'And you get the kiss ready in the meantime.', [(222, 'А ты готовь')], 'adapted'),
-    ('anya', 'Сначала нужно угнать эту машину.', 'First we need to drive that car away.', [(216, 'Что делать с машиной')], 'adapted'),
+    ('katya', 'Сначала нужно угнать эту машину.', 'First we need to drive that car away.', [(216, 'Что делать с машиной')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Katya sneaks into the jeep with Nikita so she can experience the thrill of the car theft firsthand. See you in the next scene.'
-CLOSING = ('nikita', 'Ключи у меня, разберусь.')
+OUTRO = 'Katya sneaks into the jeep with Nikita so she can experience the thrill of the car theft firsthand. Until next time!'
+CLOSING = ("nikita", "Хорошего дня!")

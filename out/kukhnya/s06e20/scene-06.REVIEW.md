@@ -14,11 +14,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 2 | Инспектор | Когда-то я тоже был поваром. | Once I too was a chef. | #77 00:05:52: Когда-то я тоже был поваром | adapted: adapted |
 | 3 | Инспектор | Из-за травмы пришлось оставить профессию. | Because of an injury I had to leave the profession. | #78 00:05:56: Но из-за травмы пришлось оставить эту профессию | adapted: adapted |
 | 4 | Инспектор | К сожалению, такова наша жизнь. | Unfortunately, such is our life. | #79 00:06:01: Такова жизнь | adapted: adapted |
-| 5 | Аня | Может, вы ещё раз придёте? | Maybe you will come to us once more? | #80 00:06:04: Может, вы еще раз придете к нам | adapted: adapted |
-| 6 | Аня | Виктор обязательно сегодня вас удивит. | Viktor will definitely surprise you today. | #81 00:06:06: и обязательно вас удивит | adapted: adapted |
+| 5 | Никита | Может, вы ещё раз придёте? | Maybe you will come to us once more? | #80 00:06:04: Может, вы еще раз придете к нам | adapted: adapted |
+| 6 | Никита | Виктор обязательно сегодня вас удивит. | Viktor will definitely surprise you today. | #81 00:06:06: и обязательно вас удивит | adapted: adapted |
 | 7 | Инспектор | Да, приду с большим удовольствием. | Yes, I will come with great pleasure. | #82 00:06:12: Да, с удовольствием | adapted: adapted |
 | 8 | Никита | Вы с Катей из-за меня расстались? | Did you and Katya break up because of me? | #83 00:06:19: вы с Катей за меня расстались | adapted: adapted |
-| 9 | Аня | Я хотел, чтобы вы поженились. | I wanted the two of you to get married. | #84 00:06:20: чтобы вы поженились | adapted: adapted |
+| 9 | Никита | Я хотел, чтобы вы поженились. | I wanted the two of you to get married. | #84 00:06:20: чтобы вы поженились | adapted: adapted |
 | 10 | Никита | Да, ты очень сильно старался. | Yes, you tried very hard. | #85 00:06:23: Да, ты старался | adapted: adapted |
 | 11 | Никита | Особенно тогда вечером на крыше. | Especially that evening on the roof. | #86 00:06:25: Особенно на крыше | adapted: adapted |
 | 12 | Никита | Я навёл о тебе справки. | I made inquiries about you. | #87 00:06:28: навел<br>#87 00:06:28: справки | adapted: adapted |

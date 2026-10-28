@@ -10,12 +10,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Вика | Макс, возьми скорее эту соль. | Max, take this salt quickly. | #227 00:15:33: Возьми соль | adapted: adapted |
-| 2 | Вика | Дима, это совсем не то, что ты подумал. | Dima, this is not at all what you thought. | #228 00:15:45: Это совсем не то, что ты | adapted: adapted |
+| 1 | Нагиев | Макс, возьми скорее эту соль. | Max, take this salt quickly. | #227 00:15:33: Возьми соль | adapted: adapted |
+| 2 | Нагиев | Дима, это совсем не то, что ты подумал. | Dima, this is not at all what you thought. | #228 00:15:45: Это совсем не то, что ты | adapted: adapted |
 | 3 | Аня | Да, это совсем не то, что вы подумали. | Yes, this is not at all what you thought. | #229 00:15:46: Да, это совсем не то, что вы подумали | adapted: adapted |
 | 4 | Нагиев | Я всё время забываю, что вы просто друзья. | I keep forgetting that you are just friends. | #230 00:15:49: все время, что вы просто друзья | adapted: adapted |
-| 5 | Вика | Ладно, я сейчас пойду работать. | Alright, I will go work now. | #232 00:15:57: Я пойду | adapted: adapted |
-| 6 | Вика | Нас там в зале гости ждут. | Guests are waiting for us in the hall there. | #233 00:16:00: гости ждут | adapted: adapted |
+| 5 | Нагиев | Ладно, я сейчас пойду работать. | Alright, I will go work now. | #232 00:15:57: Я пойду | adapted: adapted |
+| 6 | Нагиев | Нас там в зале гости ждут. | Guests are waiting for us in the hall there. | #233 00:16:00: гости ждут | adapted: adapted |
 | 7 | Аня | Я тоже, пожалуй, пойду работать. | I will probably go work too. | #234 00:16:05: Я тоже, пожалуй, пойду | adapted: adapted |
 | 8 | Нагиев | А вас я попрошу здесь остаться. | And I will ask you to stay here. | #235 00:16:07: я попрошу остаться | adapted: adapted |
 | 9 | Нагиев | Максим, ты уже взрослый мальчик. | Maxim, you are already a grown boy. | #236 00:16:13: Максим, ты уже взрослый мальчик | adapted: adapted |
@@ -35,5 +35,5 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'And I will ask you to stay here.' Dmitry Nagiyev anchors the line on 'and', while 'to remain' completes the thought.
 - 'Maxim, you are already a grown boy.' Here the Russian phrasing highlights 'you' before landing on 'boy'.
 - 'Please, try to understand me right now.' The meaning hinges on 'please' working together with 'to understand' in spoken Russian.
-- 'I have serious plans for Victoria Sergeyevna.' Russian expresses 'having' with the preposition 'by' plus the genitive pronoun and 'serious'.
+- 'I have serious plans for Victoria Sergeyevna.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.
 - 'And you already lost your happiness.' Dmitry Nagiyev anchors the line on 'and', while 'happiness' completes the thought.

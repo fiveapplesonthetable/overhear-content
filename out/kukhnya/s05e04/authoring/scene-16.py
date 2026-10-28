@@ -1,21 +1,21 @@
 ID = 'kukhnya-s05e04-scene-16'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 4
 SCENE = 16
-TITLE = 'Катя звонит Денису  (Katya Calls Denis)'
+TITLE = "Катя звонит Денису  (Katya Calls Denis)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'denis': 'anja', 'katya': 'angelina'}
-LABELS = {'anya': 'Элеонора', 'denis': 'Денис', 'katya': 'Катя'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.04"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "katya": "angelina", "denis": "anja"}
+LABELS = {"katya": "Катя", "denis": "Денис"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.04'
 SOURCE_FILE = 'sources/kukhnya/s05/e04.ru.srt'
 
 INTRO = "Blindfolded in a sleep mask, Eleonora declines food after six o'clock while Barinov steps into suite 313 to kiss Elena and tell her to work up an appetite. Downstairs, Katya calls Denis to apologize and asks where he is."
 
 STORY = [
-    ('anya', 'Спасибо, я не голодна.', 'Thank you, I am not hungry.', [(237, 'спасибо. Я после')], 'adapted'),
-    ('anya', 'Я после шести не ем.', 'I do not eat after six.', [(237, 'спасибо. Я после')], 'adapted'),
+    ('katya', 'Спасибо, я не голодна.', 'Thank you, I am not hungry.', [(237, 'спасибо. Я после')], 'adapted'),
+    ('katya', 'Я после шести не ем.', 'I do not eat after six.', [(237, 'спасибо. Я после')], 'adapted'),
     ('denis', 'Кать, ну прости.', 'Katya, please forgive me.', [(238, 'Кать, ну прости')], 'adapted'),
     ('denis', 'У меня, правда, работы полно.', 'I really do have tons of work.', [(239, 'У меня, правда')], 'adapted'),
     ('katya', 'Ладно, я тебя жду.', 'Alright, I am waiting for you.', [(240, 'Ладно')], 'adapted'),
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'And that brings this scene at the hotel to a close. Listen out for how Eleonora and the team handle the pressure when you watch the episode. See you in the next scene.'
-CLOSING = ('anya', 'ты пока лежи, аппетит нагуливай.')
+OUTRO = 'And that brings this scene at the hotel to a close. Listen out for how Eleonora and the team handle the pressure when you watch the episode. See you next time!'
+CLOSING = ("katya", "До завтра!")

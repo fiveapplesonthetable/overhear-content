@@ -1,14 +1,14 @@
 ID = 'kukhnya-s06e03-scene-16'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 3
 SCENE = 16
-TITLE = 'Пуля для Нагиева  (A Bullet for Nagiyev)'
+TITLE = "Пуля для Нагиева  (A Bullet for Nagiyev)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'nagiyev': 'anja', 'kostya': 'angelina'}
-LABELS = {'anya': 'Шеф', 'nagiyev': 'Нагиев', 'kostya': 'Костя'}
-SOURCE_NAME = "Кухня (Kukhnya) S6.03"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "kostya": "anja", "nagiyev": "angelina"}
+LABELS = {"kostya": "Костя", "nagiyev": "Нагиев"}
+SOURCE_NAME = 'Кухня (Kukhnya) S6.03'
 SOURCE_FILE = 'sources/kukhnya/s06/e03.ru.srt'
 
 INTRO = 'When the prop master admits he has no real bullet tip for Nagiyev to hold in his mouth, Nagiyev snaps at him to make one out of anything—while at the housewarming, Kostya brings out his store-bought sausage.'
@@ -16,11 +16,11 @@ INTRO = 'When the prop master admits he has no real bullet tip for Nagiyev to ho
 STORY = [
     ('nagiyev', 'Я ловлю пулю зубами!', 'I catch the bullet with my teeth!', [(281, 'Я ловлю пулю зубами')], 'adapted'),
     ('nagiyev', 'Класс, давай пулю принеси!', 'Awesome, go bring a bullet!', [(282, 'Класс, класс, класс. Давай пулю принеси')], 'adapted'),
-    ('anya', 'У нас нет пули.', 'We do not have a bullet.', [(283, 'Есть только')], 'adapted'),
+    ('kostya', 'У нас нет пули.', 'We do not have a bullet.', [(283, 'Есть только')], 'adapted'),
     ('nagiyev', 'Значит, сделай пулю быстро.', 'Then make a bullet quickly.', [(284, 'Значит, сделай пулю')], 'adapted'),
-    ('anya', 'Из чего я ее сделаю?', 'What am I supposed to make it out of?', [(284, 'Из чего я ее сделаю?')], 'exact'),
+    ('kostya', 'Из чего я ее сделаю?', 'What am I supposed to make it out of?', [(284, 'Из чего я ее сделаю?')], 'exact'),
     ('nagiyev', 'Какая мне разница из чего?', 'What difference does it make to me out of what?', [(285, 'Какая мне разница из чего?')], 'exact'),
-    ('anya', 'Ладно, сейчас сделаю.', 'Fine, I will make it right now.', [(286, 'Ладно')], 'adapted'),
+    ('kostya', 'Ладно, сейчас сделаю.', 'Fine, I will make it right now.', [(286, 'Ладно')], 'adapted'),
     ('nagiyev', 'Стоп, мне же еще в рот ее брать!', 'Wait, I still have to put it in my mouth!', [(287, 'Стоп'), (288, 'Мне еще в рот ее брать')], 'adapted'),
     ('kostya', 'Я последний раз такое делал очень давно.', 'The last time I did something like this was a very long time ago.', [(289, 'Я последний раз такое делал')], 'adapted'),
     ('kostya', 'Я ужас как люблю эту еду.', 'I terribly love this food.', [(291, 'Я ужас, как люблю')], 'adapted'),
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Placing a plate of ordinary supermarket sausage in front of Nastya's meat-factory-owner father sets off an explosive argument. See you in the next scene."
-CLOSING = ('kostya', 'Вот вкусная колбаса!')
+OUTRO = "Placing a plate of ordinary supermarket sausage in front of Nastya's meat-factory-owner father sets off an explosive argument. See you next time!"
+CLOSING = ("kostya", "Всего хорошего!")

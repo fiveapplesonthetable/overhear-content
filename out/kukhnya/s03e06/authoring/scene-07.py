@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e06-scene-07'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 6
 SCENE = 7
-TITLE = 'Прятки в ванной  (Hiding in the Bathroom)'
+TITLE = "Прятки в ванной  (Hiding in the Bathroom)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja', 'kostya': 'angelina'}
-LABELS = {'anya': 'Макс', 'vika': 'Вика', 'kostya': 'Костя'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.06"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "vika": "angelina", "kostya": "anja", "anya": "alisa"}
+LABELS = {"vika": "Вика", "kostya": "Костя", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.06'
 SOURCE_FILE = 'sources/kukhnya/s03/e06.ru.srt'
 
 INTRO = "Kostya calls Max's phone, which is sitting in Vika's living room. Vika brings the phone to the bathroom, scolds Max for being a coward, and accidentally slips."
@@ -32,7 +32,7 @@ OPENER = "Now let's go back through their conversation line by line and unpack t
 
 WALK = [
     (0, None, "'Max, why are you keeping silent there?' Here the Russian phrasing highlights 'Max' before landing on 'keep silent'."),
-    (1, None, "'After all, you did not spend the night at home today.' In Russian, the idea of 'you' flows naturally into 'at home' without extra filler words."),
+    (1, None, "'After all, you did not spend the night at home today.' Kostya pairs 'tonight' with 'at home' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'."),
     (2, None, "'I see you managed after all today.' Here the Russian phrasing highlights 'see' before landing on 'succeeded'."),
     (3, None, "'And Vika did not interfere this time.' Notice how Russian expresses 'and' and 'time' with crisp inflection rather than helper words."),
     (4, None, "'Hello, dear Kostya.' The meaning hinges on 'hello' working together with 'Kostya' in spoken Russian."),
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Hearing Vika cry out when she slips in the bathroom, Nagiyev rushes inside and opens the bathroom door.'
-CLOSING = ('vika', 'Как я могла влюбиться?')
+OUTRO = 'Hearing Vika cry out when she slips in the bathroom, Nagiyev rushes inside and opens the bathroom door. Until next time!'
+CLOSING = ("vika", "До встречи!")

@@ -1,15 +1,15 @@
-ID = "kukhnya-s02e17-scene-03"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e17-scene-03'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 17
 SCENE = 3
 TITLE = "Утренняя паника Кости и Саши  (Kostya and Sasha's Morning Panic)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'kostya': 'anja'}
-LABELS = {'anya': 'Макс', 'kostya': 'Костя'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.17"
-SOURCE_FILE = "sources/kukhnya/s02/e17.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "kostya": "anja"}
+LABELS = {"anya": "Макс", "kostya": "Костя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.17'
+SOURCE_FILE = 'sources/kukhnya/s02/e17.ru.srt'
 
 INTRO = 'Back at the apartment, Kostya and Sasha wake up horrified to discover they slept together after drinking too much the night before. Kostya grabs his phone to confess everything to Max, but Sasha pleads with him to stay quiet just as Max walks through the door.'
 
@@ -23,7 +23,7 @@ STORY = [
     ('anya', 'Я не хочу его терять, понимаешь?', 'I do not want to lose him, do you understand?', [(38, 'Я не хочу его терять, понимаешь')], ''),
     ('kostya', 'Я спать?', 'Me, go to sleep?', [(40, 'Я спать')], ''),
     ('anya', 'И о футболе.', 'And about football.', [(43, 'И о футболе')], ''),
-    ('kostya', 'Да заткнись ты, я знаю!', 'Just shut up, I know!', [(45, 'Да заткнись ты, я знаю')], ''),
+    ('kostya', 'Да помолчи ты, я сам знаю!', 'Just be quiet, I know it myself!', [(45, 'Да'), (45, 'ты, я знаю')], 'adapted'),
     ('anya', 'Кто не видел, что я хотел сесть встать?', 'Who did not see that I wanted to sit down and stand up?', [(46, 'Кто не видел, что я хотел сесть встать')], ''),
     ('kostya', 'И чё?', 'And so what?', [(47, 'И чё')], ''),
     ('anya', 'А то, что я хотел!', 'Because that is what I wanted to do!', [(48, 'А то, что я хотел')], ''),
@@ -41,13 +41,12 @@ WALK = [
     (6, None, "'I do not want to lose him, do you understand?' The negative particle sits right before the verb meaning 'want' to negate the statement."),
     (7, None, "'Me, go to sleep?' Spoken Russian keeps this brisk, leaning on 'I' and finishing on 'to sleep'. Max answers right away."),
     (8, None, "'And about football.' Max brings out the contrast between 'both' and 'about' in a few short words."),
-    (9, None, "'Just shut up, I know!' Notice how Russian expresses 'yes' and 'know' with crisp inflection rather than helper words."),
+    (9, None, "'Just be quiet, I know it myself!' Kostya pairs 'to be quiet' with 'know' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'."),
     (10, None, "'Who did not see that I wanted to sit down and stand up?' Notice how Russian expresses 'who' and 'to stand up' with crisp inflection rather than helper words. Kostya answers right away."),
     (11, None, "'And so what?' The grammar packs 'both' and 'what' into a tight, idiomatic kitchen exchange."),
     (12, None, "'Because that is what I wanted to do!' In Russian, the idea of 'and' flows naturally into 'wanted' without extra filler words."),
 ]
 
 TRANSITION = "Let's hear the full exchange one more time at natural speed."
-
-OUTRO = "When you watch Scene 3 of Episode 17, listen out for the exchange around kostya and sasha's morning panic — you will recognize every Russian phrase right away. See you in the next scene."
-CLOSING = ('anya', 'А то, что я хотел!')
+OUTRO = 'That wraps up this scene as after a drunken night, Kostya and Sasha wake up in horror in the same bed, and Sasha begs Kostya not to confess to Max right as Max walks into the apartment. Until next time!'
+CLOSING = ("anya", "До встречи!")

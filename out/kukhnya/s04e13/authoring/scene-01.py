@@ -1,15 +1,15 @@
-ID = "kukhnya-s04e13-scene-01"
-SHOW = "kukhnya"
+ID = 'kukhnya-s04e13-scene-01'
+SHOW = 'kukhnya'
 SEASON = 4
 EPISODE = 13
 SCENE = 1
-TITLE = 'Встречи после расставаний  (Meetings After Partings)'
+TITLE = "Встречи после расставаний  (Meetings After Partings)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja', 'katya': 'angelina'}
-LABELS = {'anya': 'Макс', 'chef': 'Шеф', 'katya': 'Катя'}
-SOURCE_NAME = "Кухня (Kukhnya) S4.13"
-SOURCE_FILE = "sources/kukhnya/s04/e13.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "katya": "angelina", "chef": "anja"}
+LABELS = {"anya": "Макс", "katya": "Катя", "chef": "Шеф"}
+SOURCE_NAME = 'Кухня (Kukhnya) S4.13'
+SOURCE_FILE = 'sources/kukhnya/s04/e13.ru.srt'
 
 INTRO = 'Life in Moscow never stands still for the chefs of Claude Monet and Arcobaleno. While Max reflects on how painful partings always make room for unexpected new meetings, Chef Viktor Barinov gets a sudden surprise when his daughter Katya walks in to test his reaction.'
 
@@ -31,23 +31,20 @@ STORY = [
 OPENER = "Let's step through the opening reflections and Katya's surprise greeting line by line."
 
 WALK = [
-    (0, None, "'Life never happens without partings.' Max opens with a negative existential verb and the genitive plural noun for partings."),
-    (1, None, "'We part with our past.' Max uses a reflexive first-person plural verb followed by the instrumental case after the preposition for with."),
-    (2, None, "'We say goodbye to our present.' Here the substantivized adjective for the present appears in the instrumental singular."),
-    (3, None, "'Sometimes we part with the future.' The neuter noun for the future takes the instrumental ending after the preposition."),
-    (4, None, "'But this world is arranged very well.' Max describes the world with a masculine short passive participle and a manner adverb."),
-    (5, None, "'After partings, new meetings always arrive.' The plural verb for arrive agrees with the nominative plural subject meaning new meetings."),
-    (6, None, "'Dad, hello, how are you doing?' Katya greets her father warmly with the informal possessive determiner in the nominative plural."),
+    (0, None, "'Life never happens without partings.' Notice how Russian puts 'life' and 'partings' together in a short, direct phrase where word endings show how the ideas connect."),
+    (1, None, "'We part with our past.' Here Max anchors the thought on 'past' and finishes on 'last, past, previous', keeping the spoken rhythm brisk and natural."),
+    (2, None, "'We say goodbye to our present.' In everyday Russian, 'to goodbye' flows straight into 'real, true' without extra linking words."),
+    (3, None, "'Sometimes we part with the future.' Max pairs 'sometimes, at times' with 'future' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'."),
+    (4, None, "'But this world is arranged very well.' Notice how Russian puts 'world' and 'good, well, all right' together in a short, direct phrase where word endings show how the ideas connect."),
+    (5, None, "'After partings, new meetings always arrive.' Here Max anchors the thought on 'partings' and finishes on 'meeting', keeping the spoken rhythm brisk and natural."),
+    (6, None, "'Dad, hello, how are you doing?' In everyday Russian, 'dad' flows straight into 'things to do' without extra linking words."),
     (7, None, "'Katya, what are you doing here?' Chef Barinov reacts with a direct question using the second-person singular present tense."),
-    (8, None, "'You have not called me for a long time.' The feminine past-tense verb agrees with Katya while the dative pronoun marks the recipient."),
-    (9, None, "'Dad, please, just do not worry.' Katya calms her father using a negated imperfective imperative verb."),
-    (10, None, "'I just wanted to see you.' The feminine past form of to want pairs with the perfective infinitive to see."),
-    (11, None, "'I wanted to test your reaction.' Katya finishes with a feminine accusative noun phrase meaning your reaction."),
+    (8, None, "'You have not called me for a long time.' Putting the short word for 'not' right in front of the action word is all Russian needs to make a sentence negative, with no extra helper words like 'do' or 'did'."),
+    (9, None, "'Dad, please, just do not worry.' Katya uses a polite everyday Russian courtesy expression that sets the tone of the conversation right away."),
+    (10, None, "'I just wanted to see you.' In everyday Russian, 'simply, just' flows straight into 'to see' without extra linking words."),
+    (11, None, "'I wanted to test your reaction.' Katya pairs 'wanted' with 'reaction' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'."),
 ]
 
 TRANSITION = 'Now listen to the complete Russian exchange from start to finish at natural speed.'
-
-OUTRO = 'Katya knows exactly how to catch her hot-tempered father off guard with a single phrase. Next, we head over to Claude Monet to see how Vika and Nastya are holding up. See you in the next scene.'
-
-CLOSING = ('katya', 'Папа, привет, не переживай!')
-CLOSING_TRANS = 'Dad, hello, do not worry!'
+OUTRO = 'Katya knows exactly how to catch her hot-tempered father off guard with a single phrase. Until next time!'
+CLOSING = ("katya", "Всего хорошего!")

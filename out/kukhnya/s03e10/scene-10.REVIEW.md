@@ -29,7 +29,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I will introduce you to a wonderful young woman.' The meaning hinges on 'I'll introduce' working together with 'woman' in spoken Russian.
 - 'Get your money ready for dinner, loser!' An emphatic spoken line centered on the verb meaning 'prepare'. Max answers right away.
 - 'Listen, Lyova, here is how things turned out.' Max anchors the line on 'listen', while 'turned out' completes the thought.
-- 'Yes, Mom, I am going to have a date!' Russian expresses 'having' with the preposition 'by' plus the genitive pronoun and 'date'.
+- 'Yes, Mom, I am going to have a date!' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.
 - 'Yes, she is from a very respectable family.' The meaning hinges on 'yes' working together with 'family' in spoken Russian.
 - 'I hope that you will meet each other soon.' Lyova chooses the respectful plural 'you' alongside 'will get acquainted' to keep a polite distance.
 - 'Alright, Mom, bye, it is time for me to work.' Spoken Russian keeps this brisk, leaning on 'everything' and finishing on 'to work'.

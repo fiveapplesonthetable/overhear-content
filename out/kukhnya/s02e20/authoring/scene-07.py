@@ -1,32 +1,32 @@
-ID = "kukhnya-s02e20-scene-07"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e20-scene-07'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 20
 SCENE = 7
-TITLE = 'Удар по самолюбию и правки в меню  (Wounded Pride and Menu Adjustments)'
+TITLE = "Удар по самолюбию и правки в меню  (Wounded Pride and Menu Adjustments)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'nagiyev': 'anja'}
-LABELS = {'anya': 'Вика', 'nagiyev': 'Нагиев'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.20"
-SOURCE_FILE = "sources/kukhnya/s02/e20.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "vika": "angelina"}
+LABELS = {"vika": "Вика"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.20'
+SOURCE_FILE = 'sources/kukhnya/s02/e20.ru.srt'
 
 INTRO = "Stepping aside to answer Elena's call, Viktor Petrovich hears her declare that she has decided not to depend on men either because it is humiliating, before hanging up on him. Stung and distracted, the Chef returns to the table as the wedding clients begin listing changes to the banquet menu."
 
 STORY = [
-    ('anya', 'Секундочку, это очень важно.', 'One second, this is very important.', [(112, 'Секундочку, это очень важно')], ''),
-    ('nagiyev', 'Ты почему звонки сбрасываешь?', 'Why do you keep hanging up on my calls?', [(113, 'Ты почему звонки сбрасываешь')], ''),
-    ('anya', 'А я не хочу.', 'Because I do not want to talk.', [(114, 'А я не хочу')], ''),
-    ('nagiyev', 'Поэтому перезваниваю.', 'That is why I am calling you back.', [(115, 'Поэтому перезваниваю')], ''),
-    ('anya', 'Я тоже решила от мужчин не зависеть.', 'I have also decided not to depend on men anymore.', [(116, 'Я тоже решила от мужчин не зависеть')], ''),
-    ('nagiyev', 'Это унизительно для женщины.', 'It is humiliating for a woman.', [(117, 'Это унизительно для женщины')], ''),
-    ('anya', 'Что ты хотел сказать?', 'What was it you wanted to say?', [(118, 'Что ты хотел сказать')], ''),
-    ('nagiyev', 'Давай после поговорим, я сейчас немного занят.', 'Let us talk later, I am a bit busy right now.', [(118, 'Давай после поговорим, я сейчас немного занят')], ''),
-    ('anya', 'Извините, давайте приступим.', 'Forgive me, let us get started.', [(119, 'Извините, давайте приступим')], ''),
-    ('nagiyev', 'Мы бы хотели немножко скорректировать меню.', 'We would like to make a few adjustments to the menu.', [(120, 'Мы бы хотели немножко скорректировать меню')], ''),
-    ('anya', 'Значит так.', 'Alright then, go ahead.', [(121, 'Значит так')], ''),
-    ('nagiyev', 'Да, это все нормально.', 'Yes, all of that is completely fine.', [(126, 'Да, это все нормально')], ''),
-    ('anya', 'Это все нормально. А.', 'All of that is fine. Ah.', [(126, 'это все нормально. А')], ''),
+    ('vika', 'Секундочку, это очень важно.', 'One second, this is very important.', [(112, 'Секундочку, это очень важно')], ''),
+    ('vika', 'Ты почему звонки сбрасываешь?', 'Why do you keep hanging up on my calls?', [(113, 'Ты почему звонки сбрасываешь')], ''),
+    ('vika', 'А я не хочу.', 'Because I do not want to talk.', [(114, 'А я не хочу')], ''),
+    ('vika', 'Поэтому перезваниваю.', 'That is why I am calling you back.', [(115, 'Поэтому перезваниваю')], ''),
+    ('vika', 'Я тоже решила от мужчин не зависеть.', 'I have also decided not to depend on men anymore.', [(116, 'Я тоже решила от мужчин не зависеть')], ''),
+    ('vika', 'Это унизительно для женщины.', 'It is humiliating for a woman.', [(117, 'Это унизительно для женщины')], ''),
+    ('vika', 'Что ты хотел сказать?', 'What was it you wanted to say?', [(118, 'Что ты хотел сказать')], ''),
+    ('vika', 'Давай после поговорим, я сейчас немного занят.', 'Let us talk later, I am a bit busy right now.', [(118, 'Давай после поговорим, я сейчас немного занят')], ''),
+    ('vika', 'Извините, давайте приступим.', 'Forgive me, let us get started.', [(119, 'Извините, давайте приступим')], ''),
+    ('vika', 'Мы бы хотели немножко скорректировать меню.', 'We would like to make a few adjustments to the menu.', [(120, 'Мы бы хотели немножко скорректировать меню')], ''),
+    ('vika', 'Значит так.', 'Alright then, go ahead.', [(121, 'Значит так')], ''),
+    ('vika', 'Да, это все нормально.', 'Yes, all of that is completely fine.', [(126, 'Да, это все нормально')], ''),
+    ('vika', 'Это все нормально. А.', 'All of that is fine. Ah.', [(126, 'это все нормально. А')], ''),
 ]
 
 OPENER = "Now let's break down each line of their conversation."
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Now let's put it all back together and hear the whole scene again."
-
-OUTRO = 'When you watch Scene 7 of Episode 20, listen out for the exchange around wounded pride and menu adjustments — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('anya', 'Это все нормально. А.')
+OUTRO = 'That wraps up this scene as elena calls Viktor Petrovich back only to tell him she refuses to depend on men, leaving the Chef completely distracted as the wedding clients request changes to their menu. Until next time!'
+CLOSING = ("vika", "Всего хорошего!")

@@ -21,7 +21,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 9 | Илья | Я в долгу не останусь. | I will owe you one. | #236 00:19:52: Я в долгу не останусь | verbatim |
 | 10 | Илья | Солнышко, слушай, я отойду на полчаса. | Sunshine, listen, I will step away for half an hour. | #237 00:19:56: солнышко, слушай, я отойду на полчаса | verbatim |
 | 11 | Илья | Если мои постоянные придут, ты посадишь? | If my regulars come, will you seat them? | #238 00:19:58: Если мои постоянные придут, ты посадишь | verbatim |
-| 12 | Саша | Конечно. Пожалуйста. | Of course. You're welcome. | #239 00:20:00: Конечно<br>#240 00:20:02: Пожалуйста | adapted: adapted |
+| 12 | Илья | Конечно. Пожалуйста. | Of course. You're welcome. | #239 00:20:00: Конечно<br>#240 00:20:02: Пожалуйста | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

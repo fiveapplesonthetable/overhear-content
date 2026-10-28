@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e13-scene-15'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 13
 SCENE = 15
-TITLE = 'Настоящий виновник и кольцо  (The Real Culprit and the Ring)'
+TITLE = "Настоящий виновник и кольцо  (The Real Culprit and the Ring)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja', 'chef': 'angelina'}
-LABELS = {'anya': 'Макс', 'vika': 'Вика', 'chef': 'Шеф'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.13"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "vika": "angelina", "anya": "alisa"}
+LABELS = {"chef": "Шеф", "vika": "Вика", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.13'
 SOURCE_FILE = 'sources/kukhnya/s03/e13.ru.srt'
 
 INTRO = "Watching the surveillance monitor, everyone sees Chef Barinov himself drunkenly juggling bottles and trashing the bar! When Barinov lets slip that Vika is Nagiyev's fiancée, Vika demands the whole truth. Listen to the Russian dialogue first."
@@ -48,5 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Vika is stunned to learn that Nagiyev bought a ring right after their talk in the bedroom. Let's hear how she reacts in the next scene."
-CLOSING = ('chef', 'Все свободны, идите работать!')
+OUTRO = 'Vika is stunned to learn that Nagiyev bought a ring right after their talk in the bedroom. Until next time!'
+CLOSING = ("chef", "До завтра!")

@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e15-scene-18'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 15
 SCENE = 18
-TITLE = 'План Б и холодная духовка  (Plan B and the Cold Oven)'
+TITLE = "План Б и холодная духовка  (Plan B and the Cold Oven)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja', 'nagiyev': 'angelina'}
-LABELS = {'anya': 'Макс', 'chef': 'Шеф', 'nagiyev': 'Нагиев'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.15"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "nagiyev": "angelina", "anya": "alisa"}
+LABELS = {"chef": "Шеф", "nagiyev": "Нагиев", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.15'
 SOURCE_FILE = 'sources/kukhnya/s03/e15.ru.srt'
 
 INTRO = 'Anticipating that the guest might clear the kitchen, Chef Barinov hid a prepared rabbit dish inside the oven ahead of time! All Nagiyev had to do was turn the oven switch—except when the guest tastes the rabbit, it is completely raw! Listen first.'
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Nagiyev forgot to turn the oven switch, so he served raw rabbit in warm sauce and lost thirty thousand dollars! Meanwhile, Kostya's wedding scheme unravels in Scene Nineteen."
-CLOSING = ('chef', 'Не забудь включить духовку!')
+OUTRO = "Nagiyev forgot to turn the oven switch, so he served raw rabbit in warm sauce and lost thirty thousand dollars! Meanwhile, Kostya's wedding scheme unravels in Scene Nineteen. See you next time!"
+CLOSING = ("chef", "Всего хорошего!")

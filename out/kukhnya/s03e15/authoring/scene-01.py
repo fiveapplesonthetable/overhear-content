@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e15-scene-01'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 15
 SCENE = 1
-TITLE = 'Солнце светит всем одинаково  (The Sun Shines Equally on Everyone)'
+TITLE = "Солнце светит всем одинаково  (The Sun Shines Equally on Everyone)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'nagiyev': 'anja', 'guest': 'angelina'}
-LABELS = {'anya': 'Макс', 'nagiyev': 'Нагиев', 'guest': 'Гость'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.15"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "nagiyev": "angelina", "guest": "anja", "anya": "alisa"}
+LABELS = {"nagiyev": "Нагиев", "guest": "Гость", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.15'
 SOURCE_FILE = 'sources/kukhnya/s03/e15.ru.srt'
 
 INTRO = 'Welcome to Episode Fifteen of Season Three of Kukhnya. As morning sunlight warms Moscow, Dmitry Nagiyev complains to a wealthy restaurateur friend about working like a galley slave since Vika quit, and argues that food is the heart of any restaurant. Listen first.'
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Nagiyev's friend scoffs at the idea that cooking is difficult, sparking a high-stakes culinary bet in the next scene. Let's listen!"
-CLOSING = ('nagiyev', 'Главное — кухня и еда!')
+OUTRO = 'That wraps up this scene as max reflects on the sun shining equally on everyone, while Nagiyev complains about running the restaurant alone and argues with a buyer about the importance of cuisine. Until next time!'
+CLOSING = ("nagiyev", "До завтра!")

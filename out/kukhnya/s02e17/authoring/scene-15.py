@@ -1,15 +1,15 @@
-ID = "kukhnya-s02e17-scene-15"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e17-scene-15'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 17
 SCENE = 15
 TITLE = "Слухи на кухне и ультиматум Насти  (Kitchen Rumors and Nastya's Ultimatum)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'louis': 'anja'}
-LABELS = {'anya': 'Макс', 'louis': 'Луи'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.17"
-SOURCE_FILE = "sources/kukhnya/s02/e17.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "louis": "anja"}
+LABELS = {"anya": "Макс", "louis": "Луи"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.17'
+SOURCE_FILE = 'sources/kukhnya/s02/e17.ru.srt'
 
 INTRO = "At the guest's table, Louis gasps upon recognizing his own missing button in the dessert while Chef Barinov struggles to keep his temper in check. Back in the kitchen, Senya and Fedya gossip about Louis and the Chef, and Nastya orders Sasha to confess to Max immediately."
 
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Let's hear the full exchange one more time at natural speed."
-
-OUTRO = "When you watch Scene 15 of Episode 17, listen out for the exchange around kitchen rumors and nastya's ultimatum — you will recognize every Russian phrase right away. See you in the next scene."
-CLOSING = ('anya', 'Пойдем в холодильник.')
+OUTRO = "That wraps up this scene as louis recognizes his button in the guest's dessert as Senya and Fedya spread wild rumors to Nastya, who then confronts Sasha and orders her to tell Max the truth. Until next time!"
+CLOSING = ("anya", "Пока!")

@@ -13,12 +13,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 1 | Михаил | Виктор решил открыть свой ресторан. | Viktor decided to open his own restaurant. | #63 00:05:14: И Виктор решил открыть свой ресторан | adapted: adapted |
 | 2 | Михаил | Он создал своё авторское меню. | He created his own signature menu. | #64 00:05:17: Создал свое авторское меню | adapted: adapted |
 | 3 | Михаил | Я же правильно всё рассказываю? | Am I telling everything correctly? | #65 00:05:20: Я же правильно все рассказываю | adapted: adapted |
-| 4 | Аня | Да, это моё авторское меню. | Yes, this is my signature menu. | #66 00:05:22: Да, да, авторское | adapted: adapted |
+| 4 | Михаил | Да, это моё авторское меню. | Yes, this is my signature menu. | #66 00:05:22: Да, да, авторское | adapted: adapted |
 | 5 | Инспектор | Вы просто настоящий герой, Виктор! | You are simply a true hero, Viktor! | #67 00:05:24: Вы настоящий герой | adapted: adapted |
 | 6 | Михаил | Он молодец, работает каждый день. | He is great, he works every day. | #68 00:05:26: Да, он молодец, работает | adapted: adapted |
 | 7 | Михаил | Но он очень сильно устаёт. | But he gets very badly tired. | #69 00:05:30: сильно устает | adapted: adapted |
 | 8 | Михаил | Кому из нас звезда нужна? | Which one of us needs the star? | #70 00:05:32: кому из нас звезда нужна | adapted: adapted |
-| 9 | Аня | Да, устаю, очень много работы. | Yes, I get tired, there is a lot of work. | #71 00:05:36: Да, устаю, много работы | adapted: adapted |
+| 9 | Михаил | Да, устаю, очень много работы. | Yes, I get tired, there is a lot of work. | #71 00:05:36: Да, устаю, много работы | adapted: adapted |
 | 10 | Инспектор | Конечно, я вас прекрасно понимаю. | Of course, I understand you perfectly. | #72 00:05:38: Конечно, я вас понимаю | adapted: adapted |
 | 11 | Михаил | Из-за усталости у Виктора сильные боли. | Because of fatigue Viktor has severe pains. | #73 00:05:40: Из-за усталости<br>#73 00:05:40: у Виктора сильные боли | adapted: adapted |
 | 12 | Михаил | Поэтому сегодня готовил не он. | That is why it was not he who cooked today. | #75 00:05:46: Поэтому не он готовил для вас | adapted: adapted |

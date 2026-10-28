@@ -1,14 +1,14 @@
 ID = 'kukhnya-s06e02-scene-19'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 2
 SCENE = 19
-TITLE = 'Увольнение префекта  (The Prefect Is Dismissed)'
+TITLE = "Увольнение префекта  (The Prefect Is Dismissed)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'guest': 'anja', 'eleonora': 'angelina'}
-LABELS = {'anya': 'Шеф', 'guest': 'Гость', 'eleonora': 'Элеонора'}
-SOURCE_NAME = "Кухня (Kukhnya) S6.02"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "guest": "anja", "eleonora": "angelina"}
+LABELS = {"guest": "Гость", "eleonora": "Элеонора"}
+SOURCE_NAME = 'Кухня (Kukhnya) S6.02'
 SOURCE_FILE = 'sources/kukhnya/s06/e02.ru.srt'
 
 INTRO = 'When the arrogant prefect demands that Eleonora fire Barinov on the spot or have her restaurant shut down, the deputy mayor calmly announces the real reason he asked to meet the prefect today.'
@@ -17,10 +17,10 @@ STORY = [
     ('guest', 'Даже ресторан для нас закрыли.', 'They even closed the restaurant for us.', [(321, 'Даже ресторан для нас закрыли')], 'exact'),
     ('eleonora', 'Присаживайтесь, пожалуйста.', 'Please take a seat.', [(322, 'Присаживайтесь')], 'adapted'),
     ('guest', 'Да, сначала закажу ребрышек.', 'Yes, first I will order some ribs.', [(324, 'Да, сначала закажу'), (325, 'ребрышек')], 'adapted'),
-    ('anya', 'В моем меню нет ребрышек.', 'There are no ribs on my menu.', [(326, 'В моем меню нет ребрышек')], 'exact'),
-    ('anya', 'Тем более он еще за вчерашнее не заплатил.', "Especially since he still has not paid for yesterday's meal.", [(327, 'Тем более он еще за вчерашнее не заплатил')], 'exact'),
+    ('guest', 'В моем меню нет ребрышек.', 'There are no ribs on my menu.', [(326, 'В моем меню нет ребрышек')], 'exact'),
+    ('guest', 'Тем более он еще за вчерашнее не заплатил.', "Especially since he still has not paid for yesterday's meal.", [(327, 'Тем более он еще за вчерашнее не заплатил')], 'exact'),
     ('guest', 'Либо ты молча готовишь, либо у тебя будут проблемы.', 'Either you cook in silence, or you will have problems.', [(329, 'Либо ты молча готовишь, либо у тебя будут проблемы')], 'exact'),
-    ('anya', 'Проблемы у тебя с пищеварением.', 'You are the one with digestion problems.', [(330, 'Проблемы у тебя с пищеварением')], 'exact'),
+    ('guest', 'Проблемы у тебя с пищеварением.', 'You are the one with digestion problems.', [(330, 'Проблемы у тебя с пищеварением')], 'exact'),
     ('guest', 'Либо ты его увольняешь, либо я закрываю ресторан!', 'Either you fire him, or I shut down the restaurant!', [(333, 'я закрываю твою')], 'adapted'),
     ('eleonora', 'Вы знаете, мне все-таки пора.', 'You know, it really is time for me to go.', [(336, 'Вы знаете, мне все-таки пора')], 'exact'),
     ('eleonora', 'Я заехал сказать, что мэр вами недоволен.', 'I stopped by to say that the mayor is dissatisfied with you.', [(338, 'заехал сказать'), (339, 'что мэр вами недоволен')], 'adapted'),
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'With the corrupt prefect stripped of his post right at the table, Eleonora no longer has to fear his threats. See you in the next scene.'
-CLOSING = ('eleonora', 'Спасибо за ужин.')
+OUTRO = 'With the corrupt prefect stripped of his post right at the table, Eleonora no longer has to fear his threats. Until next time!'
+CLOSING = ("eleonora", "До встречи!")

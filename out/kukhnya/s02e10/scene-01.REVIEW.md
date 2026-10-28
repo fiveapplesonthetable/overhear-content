@@ -27,7 +27,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Along which you walk.' Max brings out the contrast between 'on' and 'who' in a few short words.
-- 'And leads someone else over there.' The grammar packs 'and' and 'there' into a tight, idiomatic kitchen exchange. Max answers right away.
+- 'And leads someone else over there.' Chef Barinov keeps this everyday Russian response short and direct, without needing English helper words like 'am', 'is', or 'are'.
 - 'Everyone has their own path.' Spoken Russian keeps this brisk, leaning on 'by' and finishing on 'path'.
 - 'Who is that?' Here the Russian phrasing highlights 'who' before landing on 'this'.
 - 'I do not know.' Spoken Russian keeps this brisk, leaning on 'not' and finishing on 'know'. Chef Viktor answers right away.

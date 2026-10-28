@@ -28,7 +28,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Did you want to talk with me or stay silent?' Chef Barinov anchors the line on 'you', while 'to stay silent' completes the thought.
 - 'I understand that these changes are very painful.' Spoken Russian keeps this brisk, leaning on 'I' and finishing on 'painful'. Chef Barinov answers right away.
 - 'Painful is when your favorite team cannot win.' Chef Barinov anchors the line on 'painful', while 'to win' completes the thought.
-- 'And when they change your life, that is a catastrophe!' The grammar packs 'and' and 'catastrophe' into a tight, idiomatic kitchen exchange.
+- 'And when they change your life, that is a catastrophe!' In everyday Russian, 'when' flows straight into 'catastrophe' without extra linking words.
 - 'I understand, you want things to be as before.' Notice how Russian expresses 'I' and 'before' with crisp inflection rather than helper words.
 - 'But understand me, that is no longer possible now.' Vika anchors the line on 'but', while 'impossible' completes the thought.
 - 'We are now part of the largest restaurant chain.' The grammar packs 'we' and 'restaurants' into a tight, idiomatic kitchen exchange.

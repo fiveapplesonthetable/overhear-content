@@ -1,39 +1,38 @@
-# kukhnya-s01e14-scene-22: review sheet
+# Божественно  (Divine) — `kukhnya-s01e14-scene-22`
 
-Title: Божественно  (Divine)
-Level: A1 — Duolingo Section 2
-Pair: ru-en
-Source: Кухня (Kukhnya) S1.14
-Cues 305-308
+**Source:** Кухня (Kukhnya) S1.14 · `sources/kukhnya/s01/e14.ru.dual.srt`  
+**Target level:** A1 — Duolingo Section 2
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+## Cast
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+| Role | Voice | Label |
+|---|---|---|
+| `narrator` | sky | — |
+| `nagiyev` | angelina | Нагиев |
+
+## Part 1 — Intro
+
+> Dmitry Nagiyev tastes the dish. He takes a bite and is absolutely amazed. We'll hear it in Russian first; don't worry about catching every word. Let's listen closely to the conversation in Russian first, and then walk through each line together.
+
+## Part 2 — Story
+
+| # | Speaker | Line | English | Source cue(s) | Change |
 |---|---|---|---|---|---|
-| 1 | Нагиев | Это божественно. | This is divine. | #305 00:20:06: Это божественно | verbatim |
-| 2 | Нагиев | Это очень вкусно. | This is very tasty. | new | new |
-| 3 | Нагиев | Я не ожидал такого. | I didn't expect this. | new | new |
-| 4 | Нагиев | Повезло тебе, поварёнок. | You're lucky, little chef. | #306 00:20:10: Повезло тебе поваренок | verbatim |
-| 5 | Нагиев | Дмитрий Владимирович. | Dmitry Vladimirovich. | #306 00:20:10: Дмитрий Владимирович | verbatim |
-| 6 | Нагиев | Ну, всем повезло. | Well, we're all lucky. | #307 00:20:14: Ну, всем повезло | verbatim |
-| 7 | Нагиев | Наш ресторан лучший. | Our restaurant is the best. | new | new |
-| 8 | Нагиев | Гости очень довольны. | The guests are very pleased. | new | new |
-| 9 | Нагиев | Мы сделали это. | We did it. | new | new |
-| 10 | Нагиев | Теперь можно отдыхать. | Now we can rest. | new | new |
-| 11 | Нагиев | Отличная работа, команда. | Excellent work, team. | new | new |
-| 12 | Нагиев | Браво! | Bravo! | #308 00:20:16: Браво | verbatim |
+| 0 | Нагиев | Это божественно. | This is divine. | #305 "Это божественно" |  |
+| 1 | Нагиев | Это очень вкусно. | This is very tasty. | *(added)* |  |
+| 2 | Нагиев | Я не ожидал такого. | I didn't expect this. | *(added)* |  |
+| 3 | Нагиев | Повезло тебе, поварёнок. | You're lucky, little chef. | #306 "Повезло тебе поваренок" |  |
+| 4 | Нагиев | Дмитрий Владимирович. | Dmitry Vladimirovich. | #306 "Дмитрий Владимирович" |  |
+| 5 | Нагиев | Ну, всем повезло. | Well, we're all lucky. | #307 "Ну, всем повезло" |  |
+| 6 | Нагиев | Наш ресторан лучший. | Our restaurant is the best. | *(added)* |  |
+| 7 | Нагиев | Гости очень довольны. | The guests are very pleased. | *(added)* |  |
+| 8 | Нагиев | Мы сделали это. | We did it. | *(added)* |  |
+| 9 | Нагиев | Теперь можно отдыхать. | Now we can rest. | *(added)* |  |
+| 10 | Нагиев | Отличная работа, команда. | Excellent work, team. | *(added)* |  |
+| 11 | Нагиев | Браво! | Bravo! | #308 "Браво" |  |
 
-## Walk-through narration (English only, no target-language words quoted)
+## Part 5 — Outro & closing
 
-- 'This is divine.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'this' straight to 'divinely'.
-- 'This is very tasty.' Russian omits the present-tense verb 'to be' here, linking 'very much' directly with 'it's tasty', combining 'very much' with 'it's tasty'.
-- 'I didn't expect this.' The verb for 'expected' is in the masculine past tense, marked by the '-l' ending.
-- 'You're lucky, little chef.' Nagiyev uses the perfective verb meaning 'it was lucky' to focus on the single completed result, pairing it with 'little cook'.
-- 'Dmitry Vladimirovich.' Russian omits the present-tense verb 'to be' here, linking 'Dmitry' directly with 'Vladimirovich', combining 'Dmitry' with 'Vladimirovich'.
-- 'Well, we're all lucky.' Nagiyev delivers a punchy one-word reaction built around the Russian word meaning 'it was lucky'.
-- 'Our restaurant is the best.' Russian omits the present-tense verb 'to be' here, linking 'restaurant' directly with 'best', combining 'restaurant' with 'best'.
-- 'The guests are very pleased.' Russian omits the present-tense verb 'to be', connecting 'visitors' directly with 'satisfied'.
-- 'We did it.' Nagiyev delivers a punchy one-word reaction built around the Russian word meaning 'did'.
-- 'Now we can rest.' Here Nagiyev anchors the line on the word meaning 'now' and builds the thought around 'may' and 'relax'.
-- 'Excellent work, team.' Russian omits the present-tense verb 'to be' here, linking 'excellent' directly with 'job', combining 'excellent' with 'job' and 'team'.
-- 'Bravo!' A crisp, everyday conversational reply meaning 'bravo' that you will hear constantly in Russian dialogue.
+> The guests applaud as Nagiyev praises the meal. Next time you watch the episode, listen for the Russian expressions for 'divinely' and 'very' — you will catch every word right away. See you next time!
+
+**Нагиев:** Пока!

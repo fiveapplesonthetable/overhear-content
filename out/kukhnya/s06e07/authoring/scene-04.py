@@ -1,31 +1,31 @@
 ID = 'kukhnya-s06e07-scene-04'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 7
 SCENE = 4
-TITLE = 'Обследование вместо Шефа  (The Checkup Instead of the Chef)'
+TITLE = "Обследование вместо Шефа  (The Checkup Instead of the Chef)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'lyova': 'anja', 'nastya': 'angelina'}
-LABELS = {'anya': 'Шеф', 'lyova': 'Лёва', 'nastya': 'Настя'}
-SOURCE_NAME = "Кухня (Kukhnya) S6.07"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "lyova": "angelina", "chef": "anja"}
+LABELS = {"lyova": "Лёва", "chef": "Шеф"}
+SOURCE_NAME = 'Кухня (Kukhnya) S6.07'
 SOURCE_FILE = 'sources/kukhnya/s06/e07.ru.srt'
 
 INTRO = 'At the restaurant, Nastya pulls Nikita aside to offer her matchmaking help, while Chef Barinov forces Lyova to wear a fake mustache and go to the clinic as Victor.'
 
 STORY = [
-    ('nastya', 'Я хотела поговорить с тобой насчёт Кати.', 'I wanted to talk to you about Katya.', [(62, 'Я хотела поговорить с тобой'), (63, 'Насчет Кати')], 'adapted'),
-    ('nastya', 'Ей сейчас очень одиноко и грустно.', 'She feels very lonely and sad right now.', [(64, 'Очень одиноко')], 'adapted'),
-    ('nastya', 'Я обязательно помогу вам двоим сблизиться.', 'I will definitely help the two of you get closer.', [(68, 'Я тебе помогу')], 'adapted'),
+    ('lyova', 'Я хотела поговорить с тобой насчёт Кати.', 'I wanted to talk to you about Katya.', [(62, 'Я хотела поговорить с тобой'), (63, 'Насчет Кати')], 'adapted'),
+    ('lyova', 'Ей сейчас очень одиноко и грустно.', 'She feels very lonely and sad right now.', [(64, 'Очень одиноко')], 'adapted'),
+    ('lyova', 'Я обязательно помогу вам двоим сблизиться.', 'I will definitely help the two of you get closer.', [(68, 'Я тебе помогу')], 'adapted'),
     ('lyova', 'Ну хорошо, давай попробуем это сделать.', 'Well alright, let us try to do that.', [(71, 'Ну, давай попробуем')], 'adapted'),
-    ('anya', 'Как можно было сказать, что я болею?', 'How could you blurt out that I am sick?', [(73, 'Как можно было ляпнуть по телефону, что я болею')], 'adapted'),
+    ('chef', 'Как можно было сказать, что я болею?', 'How could you blurt out that I am sick?', [(73, 'Как можно было ляпнуть по телефону, что я болею')], 'adapted'),
     ('lyova', 'Откуда я знал, что Елена нас слышит?', 'How was I supposed to know that Elena could hear us?', [(74, 'откуда я знал, что Елена Павловна нас слышит')], 'adapted'),
     ('lyova', 'Ведь это же был ваш личный телефон!', 'After all, that was your personal phone!', [(75, 'Это же был ваш телефон')], 'adapted'),
-    ('anya', 'Ты заварил эту кашу, тебе и расхлёбывать.', 'You made this mess, so you have to clean it up.', [(78, 'ты заварил эту кашу, тебе и расхлёбывать')], 'adapted'),
+    ('chef', 'Ты заварил эту кашу, тебе и расхлёбывать.', 'You made this mess, so you have to clean it up.', [(78, 'ты заварил эту кашу, тебе и расхлёбывать')], 'adapted'),
     ('lyova', 'Здравствуйте, я Виктор от Елены на обследование.', 'Hello, I am Victor, sent by Elena for a checkup.', [(80, 'Здравствуйте. Я Виктор от Елены на'), (81, 'обследование')], 'adapted'),
-    ('nastya', 'Проходите, пожалуйста, садитесь сюда к столу.', 'Come in, please, have a seat here at the desk.', [(79, 'Войдите')], 'adapted'),
+    ('lyova', 'Проходите, пожалуйста, садитесь сюда к столу.', 'Come in, please, have a seat here at the desk.', [(79, 'Войдите')], 'adapted'),
     ('lyova', 'Ну да, это действительно мои усы.', 'Well yes, this really is my mustache.', [(82, 'Ну да')], 'adapted'),
-    ('nastya', 'У вас действительно очень красивые усы!', 'You really do have a very handsome mustache!', [(83, 'У вас действительно шикарные усы')], 'adapted'),
+    ('lyova', 'У вас действительно очень красивые усы!', 'You really do have a very handsome mustache!', [(83, 'У вас действительно шикарные усы')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Wearing a glued-on mustache, poor Lyova undergoes the entire medical examination under Victor Barinov's name. See you in the next scene."
-CLOSING = ('lyova', 'Спасибо, я за ними ухаживаю.')
+OUTRO = "Wearing a glued-on mustache, poor Lyova undergoes the entire medical examination under Victor Barinov's name. See you next time!"
+CLOSING = ("lyova", "До свидания!")

@@ -1,28 +1,28 @@
 ID = 'kukhnya-s06e13-scene-04'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 13
 SCENE = 4
 TITLE = "Прошлое дедушки  (Grandpa's Past)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'gost': 'anja', 'nastya': 'angelina'}
-LABELS = {'anya': 'Костя', 'gost': 'Гость', 'nastya': 'Настя'}
-SOURCE_NAME = "Кухня (Kukhnya) S6.13"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "guest": "anja", "nastya": "angelina"}
+LABELS = {"guest": "Гость", "nastya": "Настя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S6.13'
 SOURCE_FILE = 'sources/kukhnya/s06/e13.ru.srt'
 
 INTRO = 'Kostya confronts his father Timofey about the tattoo that little Styopa copied onto paper. His father admits that he spent a year and a half in prison during the nineties for playing cards on trains.'
 
 STORY = [
-    ('anya', 'У меня сейчас есть два варианта.', 'I have two options right now.', [(46, 'есть два варианта')], 'adapted'),
-    ('anya', 'Скажи честно, ты раньше в тюрьме сидел?', 'Tell me honestly, were you in prison before?', [(48, 'Ты сидел')], 'adapted'),
-    ('gost', 'Да, я там немного совсем посидел.', 'Yes, I spent just a little time there.', [(49, 'присел')], 'adapted'),
-    ('anya', 'Мы воспитываем сына в одной квартире.', 'We are raising our son in the same apartment.', [(51, 'в одной квартире')], 'adapted'),
-    ('gost', 'Да я же никого не убивал.', 'But I did not kill anyone.', [(52, 'я же не убивал никого')], 'adapted'),
-    ('anya', 'Ты мог бы и раньше сказать.', 'You could have told me earlier.', [(53, 'Мог бы и раньше сказать')], 'adapted'),
-    ('gost', 'Костя, я в поездах играл в карты.', 'Kostya, I played cards on trains.', [(54, 'играл в карты')], 'adapted'),
-    ('gost', 'Мне раньше надо было ему сказать.', 'I should have told him about it earlier.', [(56, 'раньше надо было ему сказать')], 'adapted'),
-    ('gost', 'Тогда просто время такое тяжёлое было.', 'It was simply such a hard time back then.', [(57, 'время такое было')], 'adapted'),
+    ('guest', 'У меня сейчас есть два варианта.', 'I have two options right now.', [(46, 'есть два варианта')], 'adapted'),
+    ('guest', 'Скажи честно, ты раньше в тюрьме сидел?', 'Tell me honestly, were you in prison before?', [(48, 'Ты сидел')], 'adapted'),
+    ('guest', 'Да, я там немного совсем посидел.', 'Yes, I spent just a little time there.', [(49, 'присел')], 'adapted'),
+    ('guest', 'Мы воспитываем сына в одной квартире.', 'We are raising our son in the same apartment.', [(51, 'в одной квартире')], 'adapted'),
+    ('guest', 'Да я же никого не убивал.', 'But I did not kill anyone.', [(52, 'я же не убивал никого')], 'adapted'),
+    ('guest', 'Ты мог бы и раньше сказать.', 'You could have told me earlier.', [(53, 'Мог бы и раньше сказать')], 'adapted'),
+    ('guest', 'Костя, я в поездах играл в карты.', 'Kostya, I played cards on trains.', [(54, 'играл в карты')], 'adapted'),
+    ('guest', 'Мне раньше надо было ему сказать.', 'I should have told him about it earlier.', [(56, 'раньше надо было ему сказать')], 'adapted'),
+    ('guest', 'Тогда просто время такое тяжёлое было.', 'It was simply such a hard time back then.', [(57, 'время такое было')], 'adapted'),
     ('nastya', 'У меня папа тоже тогда сидел.', 'My dad was also in prison back then.', [(59, 'папа в то время тоже сидел')], 'adapted'),
     ('nastya', 'Я сейчас еду с сыном в садик.', 'I am going with our son to kindergarten now.', [(60, 'в садик')], 'adapted'),
     ('nastya', 'Вы по дороге на работу поговорите.', 'You two talk on the way to work.', [(62, 'на работу поговорите')], 'adapted'),
@@ -48,5 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Nastya takes his father's confession in stride, but Kostya remains deeply upset and refuses to talk. See you in the next scene."
-CLOSING = ('gost', 'Я играл в карты.')
+OUTRO = "Nastya takes his father's confession in stride, but Kostya remains deeply upset and refuses to talk. See you next time!"
+CLOSING = ("guest", "До свидания!")

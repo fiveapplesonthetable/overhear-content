@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Откуда здесь кот? | Where did this cat come from? | #187 00:13:02: Откуда здесь кот | verbatim |
+| 1 | Настя | Откуда здесь кот? | Where did this cat come from? | #187 00:13:02: Откуда здесь кот | verbatim |
 | 2 | Родион | Его чуть не растерзали собаки. | It was nearly torn apart by stray dogs. | #188 00:13:06: его чуть не растерзали собаки | verbatim |
-| 3 | Аня | Ладно, отнесу его обратно на помойку. | All right, I will carry it back out to the dumpster. | #189 00:13:09: Ладно, отнесу его обратно на помойку | verbatim |
+| 3 | Настя | Ладно, отнесу его обратно на помойку. | All right, I will carry it back out to the dumpster. | #189 00:13:09: Ладно, отнесу его обратно на помойку | verbatim |
 | 4 | Родион | Да-да. Ты. | Yes, yes. Look at you. | #191 00:13:24: Да-да. Ты | verbatim |
-| 5 | Аня | Же здоровый. | You are totally healthy now. | #192 00:13:30: же здоровый | verbatim |
+| 5 | Настя | Же здоровый. | You are totally healthy now. | #192 00:13:30: же здоровый | verbatim |
 | 6 | Родион | Родион Сергеевич. | Rodion Sergeyevich. | #193 00:13:40: Родион Сергеевич | verbatim |
-| 7 | Аня | Ну, благодарю. | Well, thank you kindly. | #194 00:13:43: Ну, благодарю | verbatim |
+| 7 | Настя | Ну, благодарю. | Well, thank you kindly. | #194 00:13:43: Ну, благодарю | verbatim |
 | 8 | Родион | Ну, если что, выбросила котенка? | Wait, did you throw the kitten out? | #195 00:13:46: Ну, если что, выбросила котенка | verbatim |
-| 9 | Аня | Отнесла его в гостиницу для животных. | I took it to a pet hotel. | #196 00:13:48: Отнесла его в гостиницу для животных | verbatim |
+| 9 | Настя | Отнесла его в гостиницу для животных. | I took it to a pet hotel. | #196 00:13:48: Отнесла его в гостиницу для животных | verbatim |
 | 10 | Родион | Пусть пока там поживет. | Let it live there for the time being. | #197 00:13:50: Пусть пока там поживет | verbatim |
-| 11 | Аня | Пока хозяин не найдется. | Until we find an owner for it. | #197 00:13:50: Пока хозяин не найдется | verbatim |
+| 11 | Настя | Пока хозяин не найдется. | Until we find an owner for it. | #197 00:13:50: Пока хозяин не найдется | verbatim |
 | 12 | Родион | А ты что? | Wait, what did you do? | #200 00:13:57: А ты что | verbatim |
-| 13 | Аня | Настя, ты у меня такая умничка. | Nastya, you are such a clever girl. | #203 00:14:12: Настя, ты у меня такая умничка | verbatim |
+| 13 | Настя | Настя, ты у меня такая умничка. | Nastya, you are such a clever girl. | #203 00:14:12: Настя, ты у меня такая умничка | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

@@ -11,18 +11,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Гость | И с тех пор даже учителя называли его Зюзей. | And since then even the teachers called him Zyuzya. | #69 00:03:41: И с тех пор даже учителя стали его называть Зюзей | adapted: adapted |
-| 2 | Аня | Ладно, пойдём скорее ко мне в кабинет. | Alright, let us go quickly to my office. | #70 00:03:48: Ладно, пойдём | adapted: adapted |
+| 2 | Гость | Ладно, пойдём скорее ко мне в кабинет. | Alright, let us go quickly to my office. | #70 00:03:48: Ладно, пойдём | adapted: adapted |
 | 3 | Гость | Я пролетел десять тысяч километров, ты не рад? | I flew ten thousand kilometers, are you not glad? | #74 00:04:00: Я пролетел 10 тысяч километров<br>#75 00:04:04: Неужели совсем не рад видеть | adapted: adapted |
-| 4 | Аня | Очень рад, но ты прилетел только меня повидать? | Very glad, but did you fly in just to see me? | #76 00:04:06: Очень рад. А ты прилетел только что, чтобы меня повидать | adapted: adapted |
+| 4 | Гость | Очень рад, но ты прилетел только меня повидать? | Very glad, but did you fly in just to see me? | #76 00:04:06: Очень рад. А ты прилетел только что, чтобы меня повидать | adapted: adapted |
 | 5 | Гость | Не только, у меня есть отличная идея. | Not only that, I have an excellent idea. | #77 00:04:09: Не только. Есть отличная бизнес-идея | adapted: adapted |
-| 6 | Аня | Я всё понял, сразу говорю, денег не дам. | I understood everything, I am telling you right away, I will not give you money. | #78 00:04:13: Все понял. Сразу говорю, денег не дам | adapted: adapted |
+| 6 | Гость | Я всё понял, сразу говорю, денег не дам. | I understood everything, I am telling you right away, I will not give you money. | #78 00:04:13: Все понял. Сразу говорю, денег не дам | adapted: adapted |
 | 7 | Гость | Подожди, на этот раз это реально работает! | Wait, this time it really works! | #79 00:04:15: Да это реально работает | adapted: adapted |
-| 8 | Аня | Скажи, что ты придумал на этот раз? | Tell me, what did you come up with this time? | #81 00:04:23: Что на этот раз | adapted: adapted |
+| 8 | Гость | Скажи, что ты придумал на этот раз? | Tell me, what did you come up with this time? | #81 00:04:23: Что на этот раз | adapted: adapted |
 | 9 | Гость | Мы будем разводить свежих устриц здесь, в России. | We will raise fresh oysters here in Russia. | #83 00:04:28: Здесь, в России | adapted: adapted |
-| 10 | Аня | Валя, ты повторяешься, устриц ты уже разводил. | Valya, you are repeating yourself, you already raised oysters. | #84 00:04:31: Валя, ты повторяешься<br>#84 00:04:31: ты разводил два года назад | adapted: adapted |
+| 10 | Гость | Валя, ты повторяешься, устриц ты уже разводил. | Valya, you are repeating yourself, you already raised oysters. | #84 00:04:31: Валя, ты повторяешься<br>#84 00:04:31: ты разводил два года назад | adapted: adapted |
 | 11 | Гость | Витя, в Америке у меня всё отлично работает. | Vitya, in America everything works great for me. | #87 00:04:39: Витя, в Америке все<br>#88 00:04:41: Все работает | adapted: adapted |
 | 12 | Гость | Я скоро отдам всё, что тебе должен, с процентами. | I will soon pay back everything I owe you, with interest. | #89 00:04:43: Я скоро отдам все, что тебе должен<br>#90 00:04:46: Даже с процентами | adapted: adapted |
-| 13 | Аня | Но я так понимаю, ты отдашь не сейчас. | But as I understand it, you will not pay it back right now. | #91 00:04:48: Но я так понимаю, не сейчас | adapted: adapted |
+| 13 | Гость | Но я так понимаю, ты отдашь не сейчас. | But as I understand it, you will not pay it back right now. | #91 00:04:48: Но я так понимаю, не сейчас | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Элеонора уговорила, просто слёзно меня просила. | Eleonora persuaded me, she practically begged me in tears. | #11 00:01:11: уговорила. Просто<br>#11 00:01:11: меня просила | adapted: adapted |
-| 2 | Аня | Говорила, Витя, мы без тебя не справимся. | She said, Vitya, we cannot manage without you. | #12 00:01:15: Витя, мы без тебя не справимся | adapted: adapted |
-| 3 | Аня | Она обещала мне зарплату сильно повысить. | She promised to raise my salary significantly. | #18 00:01:26: Обещала зарплату повысить | adapted: adapted |
-| 4 | Сеня | На самом деле там неустойка по договору. | In reality there is a penalty clause in the contract. | #19 00:01:29: будешь платить неустойку<br>#20 00:01:31: Ты читал свой договор | adapted: adapted |
-| 5 | Сеня | Что, шеф, на большие деньги повелись? | Well, Chef, did you fall for the big money? | #21 00:01:34: Что, шеф, на деньги повелись, да | adapted: adapted |
-| 6 | Аня | Да мне совершенно плевать на деньги. | I do not care about the money at all. | #22 00:01:37: Да мне плевать на деньги | adapted: adapted |
-| 7 | Аня | Просто Элеонора сейчас тяжело болеет. | It is just that Eleonora is seriously ill right now. | #23 00:01:40: Просто она болеет | adapted: adapted |
-| 8 | Аня | Она очень серьёзно у нас болеет. | She is very seriously sick. | #24 00:01:43: Очень серьезно болеет | adapted: adapted |
-| 9 | Аня | Не мог я ей отказать в такой ситуации. | I could not refuse her in such a situation. | #25 00:01:45: не мог я ей отказать в такой ситуации | adapted: adapted |
+| 1 | Шеф | Элеонора уговорила, просто слёзно меня просила. | Eleonora persuaded me, she practically begged me in tears. | #11 00:01:11: уговорила. Просто<br>#11 00:01:11: меня просила | adapted: adapted |
+| 2 | Шеф | Говорила, Витя, мы без тебя не справимся. | She said, Vitya, we cannot manage without you. | #12 00:01:15: Витя, мы без тебя не справимся | adapted: adapted |
+| 3 | Шеф | Она обещала мне зарплату сильно повысить. | She promised to raise my salary significantly. | #18 00:01:26: Обещала зарплату повысить | adapted: adapted |
+| 4 | Катя | На самом деле там неустойка по договору. | In reality there is a penalty clause in the contract. | #19 00:01:29: будешь платить неустойку<br>#20 00:01:31: Ты читал свой договор | adapted: adapted |
+| 5 | Катя | Что, шеф, на большие деньги повелись? | Well, Chef, did you fall for the big money? | #21 00:01:34: Что, шеф, на деньги повелись, да | adapted: adapted |
+| 6 | Шеф | Да мне совершенно плевать на деньги. | I do not care about the money at all. | #22 00:01:37: Да мне плевать на деньги | adapted: adapted |
+| 7 | Шеф | Просто Элеонора сейчас тяжело болеет. | It is just that Eleonora is seriously ill right now. | #23 00:01:40: Просто она болеет | adapted: adapted |
+| 8 | Шеф | Она очень серьёзно у нас болеет. | She is very seriously sick. | #24 00:01:43: Очень серьезно болеет | adapted: adapted |
+| 9 | Шеф | Не мог я ей отказать в такой ситуации. | I could not refuse her in such a situation. | #25 00:01:45: не мог я ей отказать в такой ситуации | adapted: adapted |
 | 10 | Катя | Папа, ты правда вернулся на кухню? | Dad, did you really come back to the kitchen? | #28 00:01:56: Пап, ты вернулся | adapted: adapted |
 | 11 | Катя | Прости, что я тебе тогда не сказала. | Forgive me for not telling you back then. | #29 00:02:05: Прости, что я тебе не сказала | adapted: adapted |
-| 12 | Аня | Ладно, дочка, после об этом поговорим. | Alright, daughter, we will talk about that later. | #30 00:02:07: Ладно, после об этом поговорим | adapted: adapted |
+| 12 | Шеф | Ладно, дочка, после об этом поговорим. | Alright, daughter, we will talk about that later. | #30 00:02:07: Ладно, после об этом поговорим | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e07-scene-07'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 7
 SCENE = 7
-TITLE = 'Запертый на складе и возврат в начало  (Locked in Storage and Back to the Start)'
+TITLE = "Запертый на складе и возврат в начало  (Locked in Storage and Back to the Start)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'nagiyev': 'anja', 'kostya': 'angelina'}
-LABELS = {'anya': 'Макс', 'nagiyev': 'Нагиев', 'kostya': 'Костя'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.07"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "nagiyev": "angelina", "kostya": "anja"}
+LABELS = {"anya": "Макс", "nagiyev": "Нагиев", "kostya": "Костя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.07'
 SOURCE_FILE = 'sources/kukhnya/s03/e07.ru.srt'
 
 INTRO = "Max lures Nagiyev into the storage room and locks the heavy door from the outside. However, realizing this path leads to disaster, we rewind to Kostya's question at the bar."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Locking the owner in the warehouse is clearly a terrible option, so the clock rewinds and the second version begins.'
-CLOSING = ('anya', 'Это очень плохой вариант.')
+OUTRO = 'Locking the owner in the warehouse is clearly a terrible option, so the clock rewinds and the second version begins. Until next time!'
+CLOSING = ("anya", "До встречи!")

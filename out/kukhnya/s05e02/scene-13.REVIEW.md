@@ -10,12 +10,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Привет, Костя! | Hi, Kostya! | #149 00:15:52: Здорово | adapted: adapted |
-| 2 | Аня | Я всё-таки признался Кате во всём. | I confessed everything to Katya after all. | #150 00:15:57: Я все-таки признался Кате во всем | adapted: verbatim |
+| 1 | Костя | Привет, Костя! | Hi, Kostya! | #149 00:15:52: Здорово | adapted: adapted |
+| 2 | Костя | Я всё-таки признался Кате во всём. | I confessed everything to Katya after all. | #150 00:15:57: Я все-таки признался Кате во всем | adapted: verbatim |
 | 3 | Костя | Да? Очень зря ты это сделал. | Really? You made a big mistake doing that. | #151 00:15:59: Да? Зря | adapted: adapted |
 | 4 | Костя | Настя со мной до сих пор не разговаривает. | Nastya is still not speaking to me. | #152 00:16:01: Настя вот со мной до сих пор не разговаривает | adapted: adapted |
 | 5 | Костя | Я даже спал сегодня на полу. | I even slept on the floor today. | #153 00:16:04: Я даже спал сегодня на полу | adapted: verbatim |
-| 6 | Аня | Ты говоришь это серьёзно? | Are you saying that seriously? | #154 00:16:06: Серьезно? | adapted: adapted |
+| 6 | Костя | Ты говоришь это серьёзно? | Are you saying that seriously? | #154 00:16:06: Серьезно? | adapted: adapted |
 | 7 | Костя | Я вчера вечером так подумал. | Here is what I thought last night. | #155 00:16:07: вчера подумал? | adapted: adapted |
 | 8 | Костя | Приду домой и сделаю ей массаж. | I will come home and give her a massage. | #156 00:16:09: приду, сделаю ей массаж | adapted: adapted |
 | 9 | Костя | Массаж она мне сделать не пустила. | She did not let me give her a massage. | #158 00:16:16: Массаж она меня пустила сделать | adapted: adapted |

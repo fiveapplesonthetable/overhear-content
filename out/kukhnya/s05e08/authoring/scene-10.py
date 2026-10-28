@@ -1,14 +1,14 @@
 ID = 'kukhnya-s05e08-scene-10'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 8
 SCENE = 10
-TITLE = 'Опасный обмен ролями  (A Dangerous Role Swap)'
+TITLE = "Опасный обмен ролями  (A Dangerous Role Swap)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'elena': 'anja'}
-LABELS = {'anya': 'Катя', 'elena': 'Елена'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.08"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "elena": "angelina"}
+LABELS = {"elena": "Елена"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.08'
 SOURCE_FILE = 'sources/kukhnya/s05/e08.ru.srt'
 
 INTRO = 'Desperate to see her friends at the nearby Metropol hotel, Yulya begs Katya to wear her veil for one hour. When Katya refuses, Yulya threatens to tell the sheikh that Katya got her drunk and Chef Barinov undressed her.'
@@ -16,15 +16,15 @@ INTRO = 'Desperate to see her friends at the nearby Metropol hotel, Yulya begs K
 STORY = [
     ('elena', 'Послушай, Кать, по дружбе часок побудь женой шейха.', "Listen, Katya, as a friend, be the sheikh's wife for an hour.", [(110, 'Послушай, Кать, по дружбе часок побудь женой Шейха')], 'adapted'),
     ('elena', 'Я к подружкам в «Метрополь», это близко.', 'I am going to my girlfriends at the Metropol, it is close by.', [(111, 'Я к подружкам в'), (112, 'Это близко')], 'adapted'),
-    ('anya', 'Плохая идея.', 'That is a bad idea.', [(112, 'Плохая идея')], 'adapted'),
+    ('elena', 'Плохая идея.', 'That is a bad idea.', [(112, 'Плохая идея')], 'adapted'),
     ('elena', 'Мы с тобой похожи, как две капли.', 'You and I look alike as two drops of water.', [(113, 'Мы с тобой похожи, как две капли')], 'adapted'),
     ('elena', 'Никто не заметит.', 'Nobody will notice.', [(114, 'Никто не заметит')], 'adapted'),
     ('elena', 'А муж вообще меня раз в месяц посещает.', 'And my husband only visits me once a month anyway.', [(115, 'А муж вообще меня раз в месяц посещает')], 'adapted'),
     ('elena', 'А в этом месяце уже был.', 'And he already visited this month.', [(116, 'А в этом уже был')], 'adapted'),
-    ('anya', 'Нет, мне пора.', 'No, it is time for me to go.', [(117, 'Мне пора')], 'adapted'),
+    ('elena', 'Нет, мне пора.', 'No, it is time for me to go.', [(117, 'Мне пора')], 'adapted'),
     ('elena', 'Тогда мне придётся рассказать, что ты меня напоила.', 'Then I will have to say that you got me drunk.', [(117, 'Тогда мне придется рассказать, что ты меня напоила')], 'adapted'),
     ('elena', 'А ваш шеф-повар раздел меня и домогался.', 'And your head chef undressed me and harassed me.', [(118, 'А ваш шеф-повар раздел меня и домогался')], 'adapted'),
-    ('anya', 'Что за бред?', 'What kind of nonsense is that?', [(119, 'Что за бред')], 'adapted'),
+    ('elena', 'Что за бред?', 'What kind of nonsense is that?', [(119, 'Что за бред')], 'adapted'),
     ('elena', 'И кому поверит мой муж?', 'And whom will my husband believe?', [(119, 'И кому поверит мой муж')], 'adapted'),
 ]
 
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "To protect her father from Yulya's outrageous threat, Katya reluctantly stays in the suite while Yulya slips out in Katya's clothes. See you in the next scene."
-CLOSING = ('elena', 'Я вернусь ровно через час.')
+OUTRO = "To protect her father from Yulya's outrageous threat, Katya reluctantly stays in the suite while Yulya slips out in Katya's clothes. See you next time!"
+CLOSING = ("elena", "Увидимся!")

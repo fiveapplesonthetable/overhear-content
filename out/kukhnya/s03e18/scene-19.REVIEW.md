@@ -33,7 +33,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'To keep this restaurant French and retain all the staff.' the inspector brings out the contrast between 'to leave' and 'this' in a few short words. Chef Barinov answers right away.
 - 'Did she ask on her own to leave everything as it is?' Chef Barinov anchors the line on 'this', while 'there is' completes the thought.
 - 'Yes, and she also negotiated a good bonus for you.' The grammar packs 'yes' and 'begged' into a tight, idiomatic kitchen exchange.
-- 'But now I see nothing will work out for her.' Notice the reflexive suffix on the verb meaning 'will work out', turning the action back on the subject. Max answers right away.
+- 'But now I see nothing will work out for her.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.
 - 'Sometimes everything can change in a single second.' Here the Russian phrasing highlights 'sometimes' before landing on 'second'.
 - 'A man with a suitcase can easily change his mind and stay.' The meaning hinges on 'man' working together with 'to remain' in spoken Russian.
 - 'For someone, the main thing is to take the right step in time.' Notice how Russian expresses 'for' and 'step' with crisp inflection rather than helper words.

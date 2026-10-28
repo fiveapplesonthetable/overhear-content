@@ -34,6 +34,6 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Max, what if she injures Rodion Sergeyevich?' In Russian, the idea of 'Max' flows naturally into 'Sergeyevich' without extra filler words.
 - 'No, this is foolish and dangerous. I forbid you.' Spoken Russian keeps this brisk, leaning on 'no' and finishing on 'forbid'. Max answers right away.
 - 'Fine, whatever you say.' The meaning hinges on 'all right' working together with 'will you say' in spoken Russian.
-- 'If I understood Viktoria Sergeyevna correctly, the operation is canceled?' Notice the reflexive suffix on the verb meaning 'is canceled', turning the action back on the subject.
+- 'If I understood Viktoria Sergeyevna correctly, the operation is canceled?' In spoken Russian, the words stay in their normal statement order and Rodion's rising voice at the end turns the line into a question.
 - 'No way. Listen to a woman and do the opposite.' Spoken Russian keeps this brisk, leaning on 'no' and finishing on 'the opposite'.
 - 'Senya, good morning!' Notice how Russian expresses 'Senya' and 'morning' with crisp inflection rather than helper words.

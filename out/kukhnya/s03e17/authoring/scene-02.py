@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e17-scene-02'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 17
 SCENE = 2
-TITLE = 'Последняя банка икры  (The Last Jar of Caviar)'
+TITLE = "Последняя банка икры  (The Last Jar of Caviar)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'nagiyev': 'anja', 'chef': 'angelina'}
-LABELS = {'anya': 'Макс', 'nagiyev': 'Нагиев', 'chef': 'Шеф'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.17"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "nagiyev": "angelina", "chef": "anja", "anya": "alisa"}
+LABELS = {"nagiyev": "Нагиев", "chef": "Шеф", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.17'
 SOURCE_FILE = 'sources/kukhnya/s03/e17.ru.srt'
 
 INTRO = "In Chef Barinov's office, Nagiyev laments that he has no money left for salaries or groceries, hands over the last jar of caviar, and learns that corporate buyer Andrey Mikhailovich is back."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'With the safe gone and no funds left for food or wages, Chef Barinov watches nervously as the restaurant chain buyer circles Claude Monet.'
-CLOSING = ('chef', 'Береги эту последнюю банку.')
+OUTRO = 'With the safe gone and no funds left for food or wages, Chef Barinov watches nervously as the restaurant chain buyer circles Claude Monet. See you next time!'
+CLOSING = ("chef", "Увидимся!")

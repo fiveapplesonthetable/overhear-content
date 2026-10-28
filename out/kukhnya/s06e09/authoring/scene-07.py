@@ -1,14 +1,14 @@
 ID = 'kukhnya-s06e09-scene-07'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 9
 SCENE = 7
-TITLE = 'Странный обед  (A Strange Lunch)'
+TITLE = "Странный обед  (A Strange Lunch)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'lyova': 'anja', 'gulya': 'angelina'}
-LABELS = {'anya': 'Шеф', 'lyova': 'Лёва', 'gulya': 'Гуля'}
-SOURCE_NAME = "Кухня (Kukhnya) S6.09"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "lyova": "angelina", "gulya": "anja"}
+LABELS = {"lyova": "Лёва", "gulya": "Гуля"}
+SOURCE_NAME = 'Кухня (Kukhnya) S6.09'
 SOURCE_FILE = 'sources/kukhnya/s06/e09.ru.srt'
 
 INTRO = "In the dining hall, Gulya walks past Lyova's table and sees him clinking glasses alone with Larisa. Lyova calls his mother and learns she went home pretending her blood pressure spiked, while Barinov welcomes Elena to a full wedding menu tasting."
@@ -22,10 +22,10 @@ STORY = [
     ('lyova', 'Подожди, сейчас я ей быстро позвоню.', 'Wait, I will call her quickly right now.', [(108, 'Сейчас я ей позвоню')], 'adapted'),
     ('gulya', 'Знаешь, Лёва, делай что ты хочешь.', 'You know, Lyova, do whatever you want.', [(109, 'Знаешь, делай что хочешь')], 'adapted'),
     ('lyova', 'Алло, мама, скажи, ты сейчас где?', 'Hello, mom, tell me, where are you right now?', [(111, 'Алло. Мам, ты где')], 'adapted'),
-    ('anya', 'Она поехала обратно в свою поликлинику.', 'She went back to her clinic.', [(113, 'Я поехала в поликлинику')], 'adapted'),
+    ('gulya', 'Она поехала обратно в свою поликлинику.', 'She went back to her clinic.', [(113, 'Я поехала в поликлинику')], 'adapted'),
     ('lyova', 'Мама просит нас спокойно обедать без неё.', 'Mom asks us to calmly have lunch without her.', [(115, 'Обедайте без меня')], 'adapted'),
     ('lyova', 'Простите, но мне пора идти работать.', 'Forgive me, but it is time for me to go work.', [(116, 'Простите, маме не здоровиться, а мне работать надо')], 'adapted'),
-    ('anya', 'Елена, к дегустации свадебного меню всё готово.', 'Elena, everything is ready for the wedding menu tasting.', [(117, 'Елена Павловна, к дегустации свадебного меню все готово')], 'adapted'),
+    ('gulya', 'Елена, к дегустации свадебного меню всё готово.', 'Elena, everything is ready for the wedding menu tasting.', [(117, 'Елена Павловна, к дегустации свадебного меню все готово')], 'adapted'),
     ('gulya', 'Ах, вот для чего этот званый обед!', 'Ah, so that is what this fancy lunch is for!', [(118, 'Ах, вот для чего этот обед-то')], 'adapted'),
 ]
 
@@ -48,5 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Both Gulya and Elena realize there was an ulterior motive behind their lunches, and over at the bar Eleonora is about to cause an even bigger scene. See you in the next scene.'
-CLOSING = ('anya', 'К обеду всё давно готово!')
+OUTRO = 'Both Gulya and Elena realize there was an ulterior motive behind their lunches, and over at the bar Eleonora is about to cause an even bigger scene. Until next time!'
+CLOSING = ("gulya", "Увидимся!")

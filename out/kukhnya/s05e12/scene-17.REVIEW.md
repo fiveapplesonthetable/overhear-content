@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Поверь, я больше не хочу тебя терять. | Believe me, I do not want to lose you anymore. | #267 00:18:28: Поверь, я больше не хочу тебя терять | adapted: adapted |
+| 1 | Шеф | Поверь, я больше не хочу тебя терять. | Believe me, I do not want to lose you anymore. | #267 00:18:28: Поверь, я больше не хочу тебя терять | adapted: adapted |
 | 2 | Елена | Я согласна! | I do! | #268 00:18:34: Я согласна | adapted: adapted |
-| 3 | Аня | Лена, произошла какая-то ошибка. | Lena, some kind of mistake happened. | #269 00:18:55: Лена, произошла какая-то ошибка | adapted: adapted |
-| 4 | Аня | Я не это имел в виду. | That is not what I meant. | #270 00:18:59: Я не это имел в виду | adapted: adapted |
-| 5 | Аня | Я покупал кулон, понимаешь, а не это кольцо! | I bought a pendant, you see, and not this ring! | #271 00:19:02: Я покупал кулон, понимаешь, а не это кольцо | adapted: adapted |
+| 3 | Шеф | Лена, произошла какая-то ошибка. | Lena, some kind of mistake happened. | #269 00:18:55: Лена, произошла какая-то ошибка | adapted: adapted |
+| 4 | Шеф | Я не это имел в виду. | That is not what I meant. | #270 00:18:59: Я не это имел в виду | adapted: adapted |
+| 5 | Шеф | Я покупал кулон, понимаешь, а не это кольцо! | I bought a pendant, you see, and not this ring! | #271 00:19:02: Я покупал кулон, понимаешь, а не это кольцо | adapted: adapted |
 | 6 | Елена | Смешно получилось. | It turned out funny. | #272 00:19:08: получилось<br>#273 00:19:14: Смешно | adapted: adapted |
 | 7 | Елена | Вечер был чудесный. | The evening was wonderful. | #274 00:19:18: Вечер был чудесный | adapted: adapted |
-| 8 | Аня | Лена, постой, выслушай меня! | Lena, wait, hear me out! | #269 00:18:55: Лена | adapted: adapted |
+| 8 | Шеф | Лена, постой, выслушай меня! | Lena, wait, hear me out! | #269 00:18:55: Лена | adapted: adapted |
 | 9 | Елена | Не надо ничего объяснять. | There is no need to explain anything. | #273 00:19:14: Смешно | adapted: adapted |
-| 10 | Вика | Не зря вас советуют! Так приятно. | It is not for nothing that people recommend you! So pleasant. | #275 00:19:29: Не зря вас<br>#275 00:19:29: Так приятно | adapted: adapted |
-| 11 | Аня | Кто положил сюда кольцо?! | Who put a ring in here?! | #271 00:19:02: это кольцо | adapted: adapted |
-| 12 | Вика | Спина совсем прошла, спасибо! | My back is completely better, thank you! | #275 00:19:29: приятно | adapted: adapted |
+| 10 | Елена | Не зря вас советуют! Так приятно. | It is not for nothing that people recommend you! So pleasant. | #275 00:19:29: Не зря вас<br>#275 00:19:29: Так приятно | adapted: adapted |
+| 11 | Шеф | Кто положил сюда кольцо?! | Who put a ring in here?! | #271 00:19:02: это кольцо | adapted: adapted |
+| 12 | Елена | Спина совсем прошла, спасибо! | My back is completely better, thank you! | #275 00:19:29: приятно | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

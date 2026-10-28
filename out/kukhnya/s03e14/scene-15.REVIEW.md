@@ -29,7 +29,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Therefore I bless you from the bottom of my heart.' Notice how Russian expresses 'therefore' and 'you' with crisp inflection rather than helper words. Max answers right away.
 - 'Wait, pops, in what sense?' Here the Russian phrasing highlights 'wait' before landing on 'sense'.
 - 'You are simply such a wonderful couple!' The meaning hinges on 'you' working together with 'couple' in spoken Russian.
-- 'Looking at you two immediately gladdens the eye.' Notice the reflexive suffix on the verb meaning 'rejoices', turning the action back on the subject. Katya answers right away.
+- 'Looking at you two immediately gladdens the eye.' Here Chef Barinov anchors the thought on 'look, watch' and finishes on 'rejoices / is gladdened', keeping the spoken rhythm brisk and natural.
 - 'Dad, are you speaking seriously right now, really?' The meaning hinges on 'dad' working together with 'really' in spoken Russian.
 - 'Katya, bring me a little ice, please.' In Russian, the idea of 'Katya' flows naturally into 'some ice' without extra filler words.
 - 'I need to have a word with your father.' Spoken Russian keeps this brisk, leaning on 'to me' and finishing on 'need'.

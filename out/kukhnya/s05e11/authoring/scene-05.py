@@ -1,14 +1,14 @@
 ID = 'kukhnya-s05e11-scene-05'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 11
 SCENE = 5
-TITLE = 'Заселение с комфортом  (Checking In with Comfort)'
+TITLE = "Заселение с комфортом  (Checking In with Comfort)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'guest': 'anja', 'mikhail': 'angelina'}
-LABELS = {'anya': 'Макс', 'guest': 'Гость', 'mikhail': 'Михаил'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.11"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "guest": "anja", "anya": "alisa"}
+LABELS = {"guest": "Гость", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.11'
 SOURCE_FILE = 'sources/kukhnya/s05/e11.ru.srt'
 
 INTRO = "Max brings his grandparents into a plush room at Hotel Eleon. Worried about the cost, his grandmother offers to sleep on the floor at Max and Vika's apartment, so Max quickly insists they stay at the hotel in comfort and introduces them to Mikhail Dzhekovich."
@@ -20,12 +20,12 @@ STORY = [
     ('anya', 'Бабуль, перестань! Ну какой на полу?', 'Granny, stop it! What do you mean on the floor?', [(80, 'Бабуль, перестань. Ну, какой на полу')], 'adapted'),
     ('anya', 'Переночуйте здесь с комфортом.', 'Spend the night here in comfort.', [(81, 'Переночуйте здесь с комфортом')], 'adapted'),
     ('anya', 'Здравствуйте, Михаил Джекович.', 'Hello, Mikhail Dzhekovich.', [(83, 'Михаил Джекович')], 'adapted'),
-    ('mikhail', 'Добрый день.', 'Good afternoon.', [(84, 'Добрый день')], 'adapted'),
+    ('guest', 'Добрый день.', 'Good afternoon.', [(84, 'Добрый день')], 'adapted'),
     ('guest', 'Люба. Добрый день!', 'Lyuba. Good afternoon!', [(84, 'Люба'), (85, 'Добрый день')], 'adapted'),
     ('guest', 'А по-русски как хорошо разговаривает, да?', 'And how well he speaks Russian, right?', [(86, 'А по-русски-то как разговаривает, да')], 'adapted'),
     ('anya', 'Пойдёмте в номер.', 'Let us go to the room.', [(87, 'Пойдемте, пойдемте')], 'adapted'),
-    ('mikhail', 'Приятного отдыха!', 'Have a pleasant stay!', [(85, 'Добрый день')], 'adapted'),
-    ('guest', 'Спасибо большое.', 'Thank you very much.', [(37, 'Спасибо')], 'adapted'),
+    ('guest', 'Приятного отдыха!', 'Have a pleasant stay!', [(85, 'Добрый день')], 'adapted'),
+    ('guest', 'Спасибо большое.', 'Thank you very much.', [], ''),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'And that finishes the hallway check-in scene. Listen for the verb meaning to spend the night and how Max persuades his grandmother to stay in comfort at the hotel. See you in the next scene.'
-CLOSING = ('anya', 'Переночуйте здесь с комфортом!')
+OUTRO = 'And that finishes the hallway check-in scene. Listen for the verb meaning to spend the night and how Max persuades his grandmother to stay in comfort at the hotel. Until next time!'
+CLOSING = ("anya", "Всего хорошего!")

@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Не все, но умеет. | Not everything, perhaps, but she knows how to cook. | #269 00:17:35: Не все, но умеет | verbatim |
-| 2 | Макс | Не надо меню, спасибо, Илья. | We do not need the menu, thank you, Ilya. | #270 00:17:37: Не надо меню, спасибо, Илья | verbatim |
-| 3 | Аня | Сегодняшний ужин я придумал сам. | I designed tonight's dinner menu myself. | #271 00:17:39: Сегодняшний ужин я придумал сам | verbatim |
-| 4 | Макс | Ну, поделимся. | Well, we can share. | #273 00:17:44: Ну, поделимся | verbatim |
-| 5 | Аня | А мне любопытно, где здесь у вас туалет? | I am curious, where is the restroom in this place? | #274 00:17:46: А мне любопытно, где здесь у вас туалет | verbatim |
-| 6 | Макс | Не так, чтобы знать, нафиг случай. | Not that I need it right now, just in case. | #275 00:17:48: Не так, чтобы знать, нафиг случай | verbatim |
-| 7 | Аня | Вот, пожалуйста. | Right over there, please. | #276 00:17:50: Вот, пожалуйста | verbatim |
-| 8 | Макс | Просто общительный мальчик. | He is just a sociable boy. | #277 00:17:57: Просто общительный мальчик | verbatim |
-| 9 | Аня | Дурак, что ли? | Are you a fool or what? | #278 00:18:07: Дурак, что ли | verbatim |
-| 10 | Макс | Не веришь. | You do not believe me. | #279 00:18:10: не веришь | verbatim |
-| 11 | Аня | Теперь вы еще и в туалете. | Now they even have a line at the restroom. | #280 00:18:12: Теперь вы еще и в туалете | verbatim |
-| 12 | Макс | Может, у нас хоть что-нибудь смешное выйдет. | Maybe something funny will finally happen in this place. | #281 00:18:15: Может, у нас хоть что-нибудь смешное выйдет | verbatim |
-| 13 | Аня | Сейчас, буду я тебя вообще убью, понял? | Keep talking and I will flatten you right here, got it? | #282 00:18:19: Сейчас, буду я тебя вообще убью, понял | verbatim |
+| 1 | Илья | Не все, но умеет. | Not everything, perhaps, but she knows how to cook. | #269 00:17:35: Не все, но умеет | verbatim |
+| 2 | Аня | Не надо меню, спасибо, Илья. | We do not need the menu, thank you, Ilya. | #270 00:17:37: Не надо меню, спасибо, Илья | verbatim |
+| 3 | Илья | Сегодняшний ужин я придумал сам. | I designed tonight's dinner menu myself. | #271 00:17:39: Сегодняшний ужин я придумал сам | verbatim |
+| 4 | Аня | Ну, поделимся. | Well, we can share. | #273 00:17:44: Ну, поделимся | verbatim |
+| 5 | Илья | А мне любопытно, где здесь у вас туалет? | I am curious, where is the restroom in this place? | #274 00:17:46: А мне любопытно, где здесь у вас туалет | verbatim |
+| 6 | Аня | Просто так, чтобы знать на всякий случай. | Just so I know, just in case. | #275 00:17:48: так, чтобы знать<br>#275 00:17:48: случай | adapted: adapted |
+| 7 | Илья | Вот, пожалуйста. | Right over there, please. | #276 00:17:50: Вот, пожалуйста | verbatim |
+| 8 | Аня | Просто общительный мальчик. | He is just a sociable boy. | #277 00:17:57: Просто общительный мальчик | verbatim |
+| 9 | Илья | Дурак, что ли? | Are you a fool or what? | #278 00:18:07: Дурак, что ли | verbatim |
+| 10 | Аня | Не веришь. | You do not believe me. | #279 00:18:10: не веришь | verbatim |
+| 11 | Илья | Теперь вы еще и в туалете. | Now they even have a line at the restroom. | #280 00:18:12: Теперь вы еще и в туалете | verbatim |
+| 12 | Аня | Может, у нас хоть что-нибудь смешное выйдет. | Maybe something funny will finally happen in this place. | #281 00:18:15: Может, у нас хоть что-нибудь смешное выйдет | verbatim |
+| 13 | Илья | Сейчас, буду я тебя вообще убью, понял? | Keep talking and I will flatten you right here, got it? | #282 00:18:19: Сейчас, буду я тебя вообще убью, понял | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -31,7 +31,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I designed tonight's dinner menu myself.' The meaning hinges on 'of today's' working together with 'himself' in spoken Russian.
 - 'Well, we can share.' Max anchors the line on 'come on', while 'to share' completes the thought.
 - 'I am curious, where is the restroom in this place?' In Russian, the idea of 'and' flows naturally into 'restroom' without extra filler words. Max answers right away.
-- 'Not that I need it right now, just in case.' The grammar packs 'not' and 'case' into a tight, idiomatic kitchen exchange.
+- 'Just so I know, just in case.' Notice how Russian puts 'just' and 'case, occasion' together in a short, direct phrase where word endings show how the ideas connect.
 - 'Right over there, please.' Notice how Russian expresses 'there you go' and 'there you go' with crisp inflection rather than helper words.
 - 'He is just a sociable boy.' Max anchors the line on 'just', while 'boy' completes the thought. Ilya answers right away.
 - 'Are you a fool or what?' In Russian, the idea of 'fool' flows naturally into 'really' without extra filler words.

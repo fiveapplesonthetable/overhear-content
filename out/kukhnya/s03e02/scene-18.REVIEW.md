@@ -10,7 +10,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Саша | Макс, позови Илью, к нему постоянный гость пришёл. | Max, call Ilya, a regular guest of his has arrived. | #257 00:21:25: Макс<br>#258 00:21:26: Позови Илью, к нему постоянный гость пришел | adapted: adapted |
+| 1 | Илья | Макс, позови Илью, к нему постоянный гость пришёл. | Max, call Ilya, a regular guest of his has arrived. | #257 00:21:25: Макс<br>#258 00:21:26: Позови Илью, к нему постоянный гость пришел | adapted: adapted |
 | 2 | Аня | Да, конечно. | Yes, of course. | #259 00:21:29: Да, конечно | verbatim |
 | 3 | Аня | Добрый день. Знаете, Ильи сегодня нет. | Good afternoon. You know, Ilya is not here today. | #260 00:21:38: Добрый день. Знаете, Ильи сегодня | adapted: adapted |
 | 4 | Аня | Могу я чем-то помочь? | Can I help you with something? | #261 00:21:41: Могу я чем-то помочь | verbatim |
@@ -21,7 +21,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 9 | Илья | Да так, вышел подышать. | Oh nothing, I stepped out to get some air. | #265 00:21:58: Да так вышел подышать | verbatim |
 | 10 | Илья | Макс, чего ты твой столик не забрал? | Max, why didn't you take your table? | #266 00:22:01: Макс, чего-то твой столик не забрал | adapted: adapted |
 | 11 | Аня | Это столик Ильи. Передай ему заказ. | That is Ilya's table. Pass the order to him. | #269 00:22:12: это столик Ильи<br>#270 00:22:16: передай ему заказ | adapted: adapted |
-| 12 | Саша | Да я вынесла заказ, принесла счёт, он просто торопился. | I brought out the order and brought the bill, he was just in a hurry. | #271 00:22:24: Да я вынесла заказ, принесла счет, он просто торопился | verbatim |
+| 12 | Илья | Да я вынесла заказ, принесла счёт, он просто торопился. | I brought out the order and brought the bill, he was just in a hurry. | #271 00:22:24: Да я вынесла заказ, принесла счет, он просто торопился | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

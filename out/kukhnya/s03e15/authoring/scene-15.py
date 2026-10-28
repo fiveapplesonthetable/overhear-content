@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e15-scene-15'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 15
 SCENE = 15
 TITLE = "Осмотр врача и репетиция на кухне  (The Doctor's Exam and Kitchen Rehearsal)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'doctor': 'anja', 'vika': 'angelina'}
-LABELS = {'anya': 'Макс', 'doctor': 'Врач', 'vika': 'Вика'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.15"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "doctor": "anja", "anya": "alisa", "vika": "angelina"}
+LABELS = {"doctor": "Врач", "anya": "Макс", "vika": "Вика"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.15'
 SOURCE_FILE = 'sources/kukhnya/s03/e15.ru.srt'
 
 INTRO = 'Miraculously, Max survives the third-floor fall without a single broken bone, and Vika cancels her afternoon meeting to take care of him. Meanwhile, at Claude Monet, Chef Barinov rehearses a secret plan with the cooks. Listen first.'
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "While Max and Vika finally talk things through at her apartment, Chef Barinov's kitchen crew rehearses a choreography worthy of Ocean's Eleven! Let's hear Scene Sixteen."
-CLOSING = ('doctor', 'Да, всё будет хорошо.')
+OUTRO = "While Max and Vika finally talk things through at her apartment, Chef Barinov's kitchen crew rehearses a choreography worthy of Ocean's Eleven! Let's hear Scene Sixteen. Until next time!"
+CLOSING = ("doctor", "До завтра!")

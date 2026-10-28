@@ -1,41 +1,40 @@
-# kukhnya-s01e02-scene-01: review sheet
+# Две стороны ресторана  (Two Sides of a Restaurant) — `kukhnya-s01e02-scene-01`
 
-Title: Две стороны ресторана  (Two Sides of a Restaurant)
-Level: A1 — Duolingo Section 2
-Pair: ru-en
-Source: Кухня (Kukhnya) S1.02
-Cues 1-6. Before the start of the morning shift, Max and bartender Kostya discuss the stark contrast between how luxurious the restaurant appears to wealthy guests and the chaotic reality behind the scenes.
+**Source:** Кухня (Kukhnya) S1.02 · `sources/kukhnya/s01/e02.ru.dual.srt`  
+**Target level:** A1 — Duolingo Section 2
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+## Cast
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+| Role | Voice | Label |
+|---|---|---|
+| `narrator` | sky | — |
+| `anya` | alisa | Макс |
+| `kostya` | anja | Костя |
+
+## Part 1 — Intro
+
+> Before Claude Monet opens for the day, newly hired cook Maksim Lavrov talks with his new friend, bartender Kostya. Max reflects on how elite dining looks glamorous from the dining room, but reveals stress and modest food behind the kitchen doors. Determined to prove himself, Max vows to show the head chef his true culinary skills. Let's listen to their conversation in Russian first.
+
+## Part 2 — Story
+
+| # | Speaker | Line | English | Source cue(s) | Change |
 |---|---|---|---|---|---|
-| 1 | Макс | С одной стороны, я работаю в крутом ресторане. | On the one hand, I work in a cool restaurant. | #1 00:00:14: С одной стороны, ты устроился в самый крутой | adapted: adapted |
-| 2 | Костя | А с другой стороны, ты ешь обычные сосиски. | And on the other hand, you eat ordinary sausages. | #2 00:00:19: не повлияло на качество твоего питания | adapted: adapted |
-| 3 | Макс | Наш шеф готовит самую вкусную еду. | Our chef cooks the most delicious food. | #1 00:00:14: самый крутой и вкусный ресторан | adapted: adapted |
-| 4 | Костя | Но на кухне всегда царит полный хаос. | But total chaos always reigns in the kitchen. | new | new: new |
-| 5 | Макс | Гости думают, что это самое спокойное место. | Guests think this is the most peaceful place. | #5 00:00:41: в самом красивом и спокойном месте | adapted: adapted |
-| 6 | Костя | Они никогда не узнают правду о нас. | They will never know the truth about us. | #4 00:00:33: вы никогда не узнаете, как на самом деле | adapted: adapted |
-| 7 | Макс | Каждый клиент считает себя важным человеком. | Every customer considers themselves an important person. | #3 00:00:29: вы уважаемые гости элитного ресторана | adapted: adapted |
-| 8 | Костя | А мы просто наливаем им вино. | And we simply pour them wine. | new | new: new |
-| 9 | Макс | Работа на кухне очень трудная и нервная. | Work in the kitchen is very hard and nerve-wracking. | new | new: new |
-| 10 | Костя | Зато здесь никогда не бывает скучно! | On the other hand, it's never boring here! | new | new: new |
-| 11 | Макс | Скоро начинается наша утренняя смена. | Our morning shift is starting soon. | new | new: new |
-| 12 | Костя | Тогда готовься к новому рабочему дню! | Then prepare for a new workday! | new | new: new |
-| 13 | Макс | Я докажу шефу, что умею готовить. | I will prove to the chef that I know how to cook. | new | new: new |
+| 0 | Макс | С одной стороны, я работаю в крутом ресторане. | On the one hand, I work in a cool restaurant. | #1 "С одной стороны, ты устроился в самый крутой" |  |
+| 1 | Костя | А с другой стороны, ты ешь обычные сосиски. | And on the other hand, you eat ordinary sausages. | #2 "не повлияло на качество твоего питания" |  |
+| 2 | Макс | Наш шеф готовит самую вкусную еду. | Our chef cooks the most delicious food. | #1 "самый крутой и вкусный ресторан" |  |
+| 3 | Костя | Но на кухне всегда царит полный хаос. | But total chaos always reigns in the kitchen. | *(added)* |  |
+| 4 | Макс | Гости думают, что это самое спокойное место. | Guests think this is the most peaceful place. | #5 "в самом красивом и спокойном месте" |  |
+| 5 | Костя | Они никогда не узнают правду о нас. | They will never know the truth about us. | #4 "вы никогда не узнаете, как на самом деле" |  |
+| 6 | Макс | Каждый клиент считает себя важным человеком. | Every customer considers themselves an important person. | #3 "вы уважаемые гости элитного ресторана" |  |
+| 7 | Костя | А мы просто наливаем им вино. | And we simply pour them wine. | *(added)* |  |
+| 8 | Макс | Работа на кухне очень трудная и нервная. | Work in the kitchen is very hard and nerve-wracking. | *(added)* |  |
+| 9 | Костя | Зато здесь никогда не бывает скучно! | On the other hand, it's never boring here! | *(added)* |  |
+| 10 | Макс | Скоро начинается наша утренняя смена. | Our morning shift is starting soon. | *(added)* |  |
+| 11 | Костя | Тогда готовься к новому рабочему дню! | Then prepare for a new workday! | *(added)* |  |
+| 12 | Макс | Я докажу шефу, что умею готовить. | I will prove to the chef that I know how to cook. | *(added)* |  |
 
-## Walk-through narration (English only, no target-language words quoted)
+## Part 5 — Outro & closing
 
-- 'On the one hand, I work in a cool restaurant.' Max introduces the first perspective with a prepositional idiom.
-- 'And on the other hand, you eat ordinary sausages.' Kostya points out the ironic contrast with a descriptive plural noun.
-- 'Our chef cooks the most delicious food.' Max praises the head chef using a superlative accusative adjective.
-- 'But total chaos always reigns in the kitchen.' Kostya describes restaurant reality with a present tense verb.
-- 'Guests think this is the most peaceful place.' Max contrasts customer impressions with a superlative phrase.
-- 'They will never know the truth about us.' Kostya highlights backstage secrecy using a future verb and accusative noun.
-- 'Every customer considers themselves an important person.' Max discusses patron attitudes with a reflexive pronoun.
-- 'And we simply pour them wine.' Kostya summarizes their humble service role with an imperfective verb.
-- 'Work in the kitchen is very hard and nerve-wracking.' Max characterizes culinary life with predicate adjectives.
-- 'On the other hand, it's never boring here!' Kostya finds the silver lining using an impersonal negative construction.
-- 'Our morning shift is starting soon.' Max notes the approaching hour with a reflexive present verb.
-- 'Then prepare for a new workday!' Kostya gives encouraging advice with an imperative reflexive verb.
-- 'I will prove to the chef that I know how to cook.' Max declares his ambitious goal with a future perfective verb.
+> That wraps up this scene from Kukhnya. Listen for these everyday Russian expressions when you watch the episode. See you next time!
+
+**Макс:** Пока!

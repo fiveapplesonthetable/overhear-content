@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e01-scene-04'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 1
 SCENE = 4
-TITLE = 'Конная прогулка  (The Horseback Ride)'
+TITLE = "Конная прогулка  (The Horseback Ride)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'kostya': 'anja', 'nastya': 'angelina'}
-LABELS = {'anya': 'Макс', 'kostya': 'Костя', 'nastya': 'Настя'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.01"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "nastya": "angelina", "kostya": "anja", "anya": "alisa"}
+LABELS = {"nastya": "Настя", "kostya": "Костя", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.01'
 SOURCE_FILE = 'sources/kukhnya/s03/e01.ru.srt'
 
 INTRO = 'Meanwhile in the corridor, Kostya asks Nastya what her parents said about her pregnancy, only to learn she is still hiding the news from her father. Listen to the full conversation in Russian first, and then we will walk through every line together.'
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "That concludes the corridor conversation. Listen for Kostya's disbelief when Nastya has to turn down her father's horseback riding invitation."
-CLOSING = ('kostya', 'Ты ещё не рассказала?')
+OUTRO = "That concludes the corridor conversation. Listen for Kostya's disbelief when Nastya has to turn down her father's horseback riding invitation. See you next time!"
+CLOSING = ("kostya", "Всего хорошего!")

@@ -35,5 +35,5 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Buddy, I really need you right now.' Chef Barinov anchors the line on 'pal', while 'needed' completes the thought.
 - 'Chef, it is the middle of the night right now.' The grammar packs 'Chef Barinov' and 'yard' into a tight, idiomatic kitchen exchange.
 - 'Take a taxi and come to me.' The meaning hinges on 'take' working together with 'to me' in spoken Russian.
-- 'This is a matter of life and death.' In Russian, the idea of 'this' flows naturally into 'death' without extra filler words.
+- 'This is a matter of life and death.' Chef Barinov pairs 'business' with 'death' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
 - 'Alright, Chef, I am heading out now.' Spoken Russian keeps this brisk, leaning on 'well' and finishing on 'I am on my way out'.

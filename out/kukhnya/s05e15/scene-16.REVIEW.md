@@ -18,10 +18,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 6 | Гость | И пожалуйста, присмотри тут за моим сыном Никитой. | And please, keep an eye on my son Nikita here. | #291 00:18:08: присмотри | adapted: adapted |
 | 7 | Гость | Мы должны заботиться о детях, даже если они против. | We must care for our children, even if they object. | #292 00:18:10: Мы должны заботиться о детях | adapted: adapted |
 | 8 | Элеонора | Без проблем, до свидания, всего вам доброго! | No problem, goodbye, all the very best to you! | #293 00:18:13: Без проблем. До свидания | adapted: adapted |
-| 9 | Аня | Элеонора Андреевна, простите, что так сегодня получилось. | Eleonora Andreyevna, forgive us that it turned out like this today. | #295 00:18:21: простите, что так получилось | adapted: adapted |
-| 10 | Аня | Мы успели подготовить только одно съедобное меню. | We managed to prepare only one edible menu in time. | #296 00:18:24: Мы успели подготовить только одно меню | adapted: adapted |
+| 9 | Элеонора | Элеонора Андреевна, простите, что так сегодня получилось. | Eleonora Andreyevna, forgive us that it turned out like this today. | #295 00:18:21: простите, что так получилось | adapted: adapted |
+| 10 | Элеонора | Мы успели подготовить только одно съедобное меню. | We managed to prepare only one edible menu in time. | #296 00:18:24: Мы успели подготовить только одно меню | adapted: adapted |
 | 11 | Элеонора | Вика, ты меня сегодня уже второй раз выручаешь. | Vika, this is already the second time you have saved me today. | #301 00:18:48: Вика, ты меня уже второй раз выручаешь | adapted: adapted |
-| 12 | Аня | Правда, я нечаянно накормила вас простой бумагой! | True, I accidentally fed you plain paper! | #302 00:18:51: И накормила вас бумагой | adapted: adapted |
+| 12 | Элеонора | Правда, я нечаянно накормила вас простой бумагой! | True, I accidentally fed you plain paper! | #302 00:18:51: И накормила вас бумагой | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

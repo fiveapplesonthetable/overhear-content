@@ -1,32 +1,32 @@
-ID = "kukhnya-s02e19-scene-05"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e19-scene-05'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 19
 SCENE = 5
-TITLE = 'Сценарий артхаусного фильма  (The Arthouse Movie Script)'
+TITLE = "Сценарий артхаусного фильма  (The Arthouse Movie Script)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'fedya': 'anja'}
-LABELS = {'anya': 'Сеня', 'fedya': 'Федя'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.19"
-SOURCE_FILE = "sources/kukhnya/s02/e19.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "senya": "angelina", "fedya": "anja"}
+LABELS = {"senya": "Сеня", "fedya": "Федя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.19'
+SOURCE_FILE = 'sources/kukhnya/s02/e19.ru.srt'
 
 INTRO = 'In the corridor, Nagiyev studies a script for an upcoming arthouse movie he desperately wants a role in. When the cooks ask what the film is about, they admit they understand nothing at all, prompting Nagiyev to dramatically describe a scene with Carlos on a raft.'
 
 STORY = [
-    ('anya', 'Ой, это вы?', 'Oh, is that you?', [(75, 'Ой, это вы')], ''),
+    ('senya', 'Ой, это вы?', 'Oh, is that you?', [(75, 'Ой, это вы')], ''),
     ('fedya', 'Кино новое.', 'It is a brand-new movie.', [(77, 'Кино новое')], ''),
-    ('anya', 'Для роли нужное.', 'I need it for a role.', [(78, 'Для роли нужное')], ''),
+    ('senya', 'Для роли нужное.', 'I need it for a role.', [(78, 'Для роли нужное')], ''),
     ('fedya', 'Я так подумала.', 'That is what I thought.', [(79, 'Я так подумала')], ''),
-    ('anya', 'А что за фильм?', 'What kind of movie is it?', [(80, 'А что за фильм')], ''),
+    ('senya', 'А что за фильм?', 'What kind of movie is it?', [(80, 'А что за фильм')], ''),
     ('fedya', 'Ничего не понял.', 'I did not understand a single thing.', [(81, 'ничего не понял')], ''),
-    ('anya', 'Вообще ничего.', 'Nothing whatsoever.', [(82, 'Вообще ничего')], ''),
+    ('senya', 'Вообще ничего.', 'Nothing whatsoever.', [(82, 'Вообще ничего')], ''),
     ('fedya', 'Это тебе не наше барахло.', 'This is not our usual trash.', [(83, 'Это тебе не наше барахло')], ''),
-    ('anya', 'Представь водопад.', 'Picture a waterfall.', [(85, 'Представь водопад')], ''),
+    ('senya', 'Представь водопад.', 'Picture a waterfall.', [(85, 'Представь водопад')], ''),
     ('fedya', 'Карлос лежит на краю плота.', 'Carlos is lying on the edge of a raft.', [(87, 'Карлос лежит на краю плота')], ''),
-    ('anya', 'Да, Карлос.', 'Yes, Carlos.', [(88, 'Да, Карлос')], ''),
+    ('senya', 'Да, Карлос.', 'Yes, Carlos.', [(88, 'Да, Карлос')], ''),
     ('fedya', 'Холодный ветер с берега.', 'A cold wind blowing from the shore.', [(90, 'Холодный ветер с берега')], ''),
-    ('anya', 'Которых уже никогда не коснется рука.', 'Which a human hand will never touch again.', [(91, 'которых уже никогда не коснется рука')], ''),
+    ('senya', 'Которых уже никогда не коснется рука.', 'Which a human hand will never touch again.', [(91, 'которых уже никогда не коснется рука')], ''),
 ]
 
 OPENER = "Now let's go back through the conversation line by line."
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the whole conversation once more from start to finish."
-
-OUTRO = 'When you watch Scene 5 of Episode 19, listen out for the exchange around the arthouse movie script — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('fedya', 'Холодный ветер с берега.')
+OUTRO = 'That wraps up this scene as nagiyev shows off a script for a new arthouse film he hopes to star in and tries to explain a surreal scene about a man named Carlos on a raft by a waterfall. Until next time!'
+CLOSING = ("fedya", "Увидимся!")

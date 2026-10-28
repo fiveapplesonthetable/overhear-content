@@ -1,14 +1,14 @@
 ID = 'kukhnya-s05e14-scene-06'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 14
 SCENE = 6
-TITLE = 'Второй билет и разговор об Агузке  (The Second Ticket and Talk About Max)'
+TITLE = "Второй билет и разговор об Агузке  (The Second Ticket and Talk About Max)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'elena': 'anja', 'eleonora': 'angelina'}
-LABELS = {'anya': 'Шеф', 'elena': 'Елена', 'eleonora': 'Элеонора'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.14"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "elena": "angelina", "chef": "anja"}
+LABELS = {"elena": "Елена", "chef": "Шеф"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.14'
 SOURCE_FILE = 'sources/kukhnya/s05/e14.ru.srt'
 
 INTRO = 'Elena calls Chef Barinov to announce she managed to get a second ticket right next to his seat so they can go to the match together, panicking the Chef right before his ex-wife Eleonora walks in to ask about Max.'
@@ -18,14 +18,14 @@ STORY = [
     ('elena', 'Это наш общий праздник, проведём его вместе.', "This is our shared holiday, let's spend it together.", [(100, 'Это наш общий праздник, мы должны провести его вместе')], 'adapted'),
     ('elena', 'Знакомый достал нам ещё один билет рядом!', 'A friend got us one more ticket right next to yours!', [(101, 'он достал нам еще один билет')], 'adapted'),
     ('elena', 'Мы сегодня идём с тобой на футбол!', 'You and I are going to the football match today!', [(102, 'Мы идем с тобой на футбол')], 'adapted'),
-    ('anya', 'Здорово-то как, я просто даже не ожидал!', 'How wonderful, I simply did not even expect that!', [(105, 'Просто даже не ожидал')], 'adapted'),
-    ('anya', 'Я тебя крепко целую и до вечера.', 'I kiss you warmly and see you tonight.', [(106, 'Я тебя целую и до вечера')], 'adapted'),
-    ('eleonora', 'Витя, расскажи мне про своего повара Лаврова.', 'Vitya, tell me about your cook Lavrov.', [(108, 'Расскажи мне про своего повара Лаврова')], 'adapted'),
-    ('anya', 'Что он за человек? А тебе зачем?', 'What kind of person is he? And why do you care?', [(109, 'Что он за человек? Тебе зачем')], 'adapted'),
-    ('eleonora', 'Я вот думаю сделать его новым шеф-поваром.', 'I am thinking of making him the new head chef.', [(110, 'Я вот хочу его шеф-поваром сделать')], 'adapted'),
-    ('anya', 'Повар он неплохой, но в жизни полный беспорядок.', 'He is not a bad cook, but his personal life is a complete mess.', [(112, 'Повар он неплохой, зато в личной жизни')], 'adapted'),
-    ('anya', 'Он был женат на Вике, потом изменил ей.', 'He was married to Vika, then he cheated on her.', [(113, 'Был женат на Вике, потом')], 'adapted'),
-    ('anya', 'А теперь у них скоро родится ребёнок.', 'And now they are going to have a baby soon.', [(114, 'Теперь у них скоро будет ребенок')], 'adapted'),
+    ('chef', 'Здорово-то как, я просто даже не ожидал!', 'How wonderful, I simply did not even expect that!', [(105, 'Просто даже не ожидал')], 'adapted'),
+    ('chef', 'Я тебя крепко целую и до вечера.', 'I kiss you warmly and see you tonight.', [(106, 'Я тебя целую и до вечера')], 'adapted'),
+    ('elena', 'Витя, расскажи мне про своего повара Лаврова.', 'Vitya, tell me about your cook Lavrov.', [(108, 'Расскажи мне про своего повара Лаврова')], 'adapted'),
+    ('chef', 'Что он за человек? А тебе зачем?', 'What kind of person is he? And why do you care?', [(109, 'Что он за человек? Тебе зачем')], 'adapted'),
+    ('elena', 'Я вот думаю сделать его новым шеф-поваром.', 'I am thinking of making him the new head chef.', [(110, 'Я вот хочу его шеф-поваром сделать')], 'adapted'),
+    ('chef', 'Повар он неплохой, но в жизни полный беспорядок.', 'He is not a bad cook, but his personal life is a complete mess.', [(112, 'Повар он неплохой, зато в личной жизни')], 'adapted'),
+    ('chef', 'Он был женат на Вике, потом изменил ей.', 'He was married to Vika, then he cheated on her.', [(113, 'Был женат на Вике, потом')], 'adapted'),
+    ('chef', 'А теперь у них скоро родится ребёнок.', 'And now they are going to have a baby soon.', [(114, 'Теперь у них скоро будет ребенок')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Chef Barinov's candid description convinces Eleonora that she must keep Max away from Katya at any cost. See you in the next scene."
-CLOSING = ('elena', 'Мы идём с тобой на футбол!')
+OUTRO = "Chef Barinov's candid description convinces Eleonora that she must keep Max away from Katya at any cost. See you next time!"
+CLOSING = ("elena", "Пока!")

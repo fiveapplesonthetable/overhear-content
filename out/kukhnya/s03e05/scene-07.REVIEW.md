@@ -14,11 +14,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 2 | Вика | Даже если это так, тебе какое дело? | Even if that is so, what business is it of yours? | #100 00:07:16: Даже если это так, тебе какое дело | adapted: adapted |
 | 3 | Аня | Мне уже никакого дела нет. | It is none of my business anymore. | #101 00:07:19: Никакого | adapted: adapted |
 | 4 | Аня | Костя, сделай, пожалуйста, коктейль. | Kostya, please make a cocktail. | #102 00:07:22: Костя, сделай, пожалуйста | adapted: adapted |
-| 5 | Нагиев | Вика, у меня к тебе предложение. | Vika, I have a proposal for you. | #104 00:07:44: У меня к тебе предложение | adapted: adapted |
+| 5 | Вика | Вика, у меня к тебе предложение. | Vika, I have a proposal for you. | #104 00:07:44: У меня к тебе предложение | adapted: adapted |
 | 6 | Вика | Да, я вас внимательно слушаю. | Yes, I am listening to you attentively. | #104 00:07:44: Я вас слушаю | adapted: adapted |
-| 7 | Нагиев | Меня друзья в Париж пригласили. | My friends invited me to Paris. | #105 00:07:47: Меня друзья в Париж пригласили | adapted: adapted |
-| 8 | Нагиев | Поехали со мной, Париж — город любви. | Come with me, Paris is the city of love. | #106 00:07:49: Поехали со мной. Париж, город любви | adapted: adapted |
-| 9 | Нагиев | Где твой положительный ответ? | Where is your positive answer? | #107 00:07:52: положительный ответ | adapted: adapted |
+| 7 | Вика | Меня друзья в Париж пригласили. | My friends invited me to Paris. | #105 00:07:47: Меня друзья в Париж пригласили | adapted: adapted |
+| 8 | Вика | Поехали со мной, Париж — город любви. | Come with me, Paris is the city of love. | #106 00:07:49: Поехали со мной. Париж, город любви | adapted: adapted |
+| 9 | Вика | Где твой положительный ответ? | Where is your positive answer? | #107 00:07:52: положительный ответ | adapted: adapted |
 | 10 | Вика | Мне кажется, я буду полезнее здесь. | It seems to me I will be more useful here. | #108 00:07:57: Мне кажется, что я буду полезнее здесь | adapted: adapted |
 | 11 | Вика | У нас завтра летняя веранда открывается. | Our summer terrace opens tomorrow. | #109 00:08:01: И у нас завтра летняя веранда открывается | adapted: adapted |
 | 12 | Вика | Извините меня, пожалуйста. | Excuse me, please. | #110 00:08:07: Извините | adapted: adapted |

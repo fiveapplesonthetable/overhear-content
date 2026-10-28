@@ -1,31 +1,31 @@
 ID = 'kukhnya-s05e05-scene-17'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 5
 SCENE = 17
-TITLE = 'Шестнадцать недель  (Sixteen Weeks)'
+TITLE = "Шестнадцать недель  (Sixteen Weeks)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vrach': 'anja'}
-LABELS = {'anya': 'Макс', 'vrach': 'Врач'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.05"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "doctor": "anja", "anya": "alisa"}
+LABELS = {"doctor": "Врач", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.05'
 SOURCE_FILE = 'sources/kukhnya/s05/e05.ru.srt'
 
 INTRO = "After regaining consciousness at the clinic, Max drops the disguise and pleads with Elena Vladimirovna to tell him how far along Vika is. Taking pity on him, the doctor checks Vika's chart and says sixteen weeks."
 
 STORY = [
-    ('vrach', 'Ну, и к чему вся эта клоунада?', 'Well, and what was all this clowning for?', [(293, 'Ну, я к чему вся эта')], 'adapted'),
+    ('doctor', 'Ну, и к чему вся эта клоунада?', 'Well, and what was all this clowning for?', [(293, 'Ну, я к чему вся эта')], 'adapted'),
     ('anya', 'Извините.', 'Excuse me.', [(294, 'Извините')], 'adapted'),
     ('anya', 'Мне очень нужно знать, мой это ребёнок или нет.', 'I really need to know whether this child is mine or not.', [(295, 'Мне очень нужно знать, мой ты ребенок или нет')], 'adapted'),
     ('anya', 'От этого зависит вся моя жизнь.', 'My entire life depends on this.', [(296, 'От этого зависит вся моя жизнь')], 'adapted'),
     ('anya', 'Прошу, скажите, Вика на каком сроке?', 'Please, tell me, how far along is Vika?', [(297, 'Прошу, скажите, Вика, на каком сроке')], 'adapted'),
-    ('vrach', 'Виктория Сергеевна Гончарова.', 'Victoria Sergeyevna Goncharova.', [(298, 'Сергеевна')], 'adapted'),
-    ('vrach', 'Шестнадцать недель.', 'Sixteen weeks.', [(299, 'недель')], 'adapted'),
+    ('doctor', 'Виктория Сергеевна Гончарова.', 'Victoria Sergeyevna Goncharova.', [(298, 'Сергеевна')], 'adapted'),
+    ('doctor', 'Шестнадцать недель.', 'Sixteen weeks.', [(299, 'недель')], 'adapted'),
     ('anya', 'Это получается меньше четырёх месяцев?', 'Does that work out to less than four months?', [(299, 'это получается меньше'), (299, 'месяцев')], 'adapted'),
-    ('vrach', 'Да.', 'Yes.', [(300, 'Да')], 'adapted'),
-    ('vrach', 'Поздравляю, папаша, настоящий богатырь.', 'Congratulations, daddy, a real bouncing boy.', [(303, 'Поздравляю, папаша'), (304, 'Настоящий богатырь')], 'adapted'),
-    ('vrach', 'Папаша, вы куда ушли?', 'Daddy, where did you go?', [(305, 'Папаша, вы куда ушли')], 'adapted'),
-    ('vrach', 'Вернитесь, извините, пожалуйста.', 'Come back, excuse me, please.', [(306, 'Вернитесь. Извините, пожалуйста')], 'adapted'),
+    ('doctor', 'Да.', 'Yes.', [(300, 'Да')], 'adapted'),
+    ('doctor', 'Поздравляю, папаша, настоящий богатырь.', 'Congratulations, daddy, a real bouncing boy.', [(303, 'Поздравляю, папаша'), (304, 'Настоящий богатырь')], 'adapted'),
+    ('doctor', 'Папаша, вы куда ушли?', 'Daddy, where did you go?', [(305, 'Папаша, вы куда ушли')], 'adapted'),
+    ('doctor', 'Вернитесь, извините, пожалуйста.', 'Come back, excuse me, please.', [(306, 'Вернитесь. Извините, пожалуйста')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Crushed to hear that Vika is only sixteen weeks along—meaning the baby was conceived after he left Moscow—Max walks out in a daze. See you in the next scene.'
-CLOSING = ('anya', 'Значит, она сказала правду.')
+OUTRO = 'Crushed to hear that Vika is only sixteen weeks along—meaning the baby was conceived after he left Moscow—Max walks out in a daze. Until next time!'
+CLOSING = ("anya", "Увидимся!")

@@ -1,32 +1,32 @@
-ID = "kukhnya-s02e20-scene-09"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e20-scene-09'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 20
 SCENE = 9
-TITLE = 'Возвращённый букет  (The Returned Bouquet)'
+TITLE = "Возвращённый букет  (The Returned Bouquet)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'elena': 'anja'}
-LABELS = {'anya': 'Шеф', 'elena': 'Елена'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.20"
-SOURCE_FILE = "sources/kukhnya/s02/e20.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "elena": "angelina"}
+LABELS = {"chef": "Шеф", "elena": "Елена"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.20'
+SOURCE_FILE = 'sources/kukhnya/s02/e20.ru.srt'
 
 INTRO = 'Hoping to smooth things over with Elena Pavlovna, Chef Barinov dispatches a courier to Arcobaleno with a bouquet of flowers. A short while later, the courier returns and hands Viktor Petrovich an envelope of cash that Elena sent back to pay for the flowers she refused to accept.'
 
 STORY = [
-    ('anya', 'Я думала.', 'That is what I thought.', [(148, 'я думала')], ''),
+    ('chef', 'Я думала.', 'That is what I thought.', [(148, 'я думала')], ''),
     ('elena', 'В этом уже нет никакого сюрприза.', 'There is no surprise left in it anymore.', [(149, 'в этом уже нет никакого сюрприза')], ''),
-    ('anya', 'Отнеси эти цветы, Елена Павловна.', 'Take these flowers over to Elena Pavlovna.', [(150, 'Отнеси эти цветы, Елена Павловна')], ''),
+    ('chef', 'Отнеси эти цветы, Елена Павловна.', 'Take these flowers over to Elena Pavlovna.', [(150, 'Отнеси эти цветы, Елена Павловна')], ''),
     ('elena', 'А что за повод?', 'And what is the occasion?', [(152, 'А что за повод')], ''),
-    ('anya', 'А, все понял, шеф.', 'Ah, got it, Chef.', [(154, 'А, все понял, шеф')], ''),
+    ('chef', 'А, все понял, шеф.', 'Ah, got it, Chef.', [(154, 'А, все понял, шеф')], ''),
     ('elena', 'Вам вот передали.', 'Someone asked me to hand this to you.', [(156, 'Вам вот передали')], ''),
-    ('anya', 'А это Елена Павловна за цветы отдала.', 'Elena Pavlovna gave me this money to pay for the flowers.', [(157, 'А это Елена Павловна за цветы отдала')], ''),
+    ('chef', 'А это Елена Павловна за цветы отдала.', 'Elena Pavlovna gave me this money to pay for the flowers.', [(157, 'А это Елена Павловна за цветы отдала')], ''),
     ('elena', 'Сказал, что не хочет.', 'She said she does not want them.', [(158, 'Сказал, что не хочет')], ''),
-    ('anya', 'Вот оно что.', 'So that is how it is.', [(160, 'Вот оно что')], ''),
+    ('chef', 'Вот оно что.', 'So that is how it is.', [(160, 'Вот оно что')], ''),
     ('elena', 'Понятно. Да?', 'Understood. Right?', [(161, 'Понятно. Да')], ''),
-    ('anya', 'Ну, я пошел.', 'Well, I will be going then.', [(163, 'Ну, я пошел')], ''),
+    ('chef', 'Ну, я пошел.', 'Well, I will be going then.', [(163, 'Ну, я пошел')], ''),
     ('elena', 'И что же?', 'And what now?', [(164, 'И что же')], ''),
-    ('anya', 'Я пошел.', 'I am heading out.', [(167, 'Я пошел')], ''),
+    ('chef', 'Я пошел.', 'I am heading out.', [(167, 'Я пошел')], ''),
 ]
 
 OPENER = "Let's replay the exchange and look closely at each Russian phrase."
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Let's hear the complete conversation once more."
-
-OUTRO = 'When you watch Scene 9 of Episode 20, listen out for the exchange around the returned bouquet — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('anya', 'Я пошел.')
+OUTRO = 'That wraps up this scene as chef Barinov sends a bouquet of flowers to Elena Pavlovna as a peace offering, only for the courier to return with cash from Elena paying for the unwanted flowers. Until next time!'
+CLOSING = ("chef", "До свидания!")

@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e09-scene-06'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 9
 SCENE = 6
 TITLE = "Жертвенный агнец Шефа  (The Chef's Sacrificial Lamb)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'senya': 'anja', 'chef': 'angelina'}
-LABELS = {'anya': 'Макс', 'senya': 'Сеня', 'chef': 'Шеф'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.09"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "senya": "angelina", "anya": "alisa", "chef": "anja"}
+LABELS = {"senya": "Сеня", "anya": "Макс", "chef": "Шеф"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.09'
 SOURCE_FILE = 'sources/kukhnya/s03/e09.ru.srt'
 
 INTRO = "Senya explains to Max that whenever Chef Barinov breaks up with a woman, he falls into deep sorrow and picks one unlucky cook as his round-the-clock companion. That very night, Max's phone rings at three in the morning."
@@ -41,10 +41,10 @@ WALK = [
     (7, None, "'Buddy, I really need you right now.' Chef Barinov anchors the line on 'pal', while 'needed' completes the thought."),
     (8, None, "'Chef, it is the middle of the night right now.' The grammar packs 'Chef Barinov' and 'yard' into a tight, idiomatic kitchen exchange."),
     (9, None, "'Take a taxi and come to me.' The meaning hinges on 'take' working together with 'to me' in spoken Russian."),
-    (10, None, "'This is a matter of life and death.' In Russian, the idea of 'this' flows naturally into 'death' without extra filler words."),
+    (10, None, "'This is a matter of life and death.' Chef Barinov pairs 'business' with 'death' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'."),
     (11, None, "'Alright, Chef, I am heading out now.' Spoken Russian keeps this brisk, leaning on 'well' and finishing on 'I am on my way out'."),
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Just as Senya predicted, Max is dragged out of bed at three in the morning for a 'matter of life and death.' Let us follow Max to the address in Butovo."
-CLOSING = ('chef', 'Бери такси и приезжай!')
+OUTRO = "Just as Senya predicted, Max is dragged out of bed at three in the morning for a 'matter of life and death.' Let us follow Max to the address in Butovo. See you next time!"
+CLOSING = ("chef", "До свидания!")

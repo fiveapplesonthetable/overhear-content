@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Больше берите, его же там все равно много. | Take more of it, there is plenty of it in there anyway. | #108 00:06:22: Больше берите, его же там все равно много | verbatim |
-| 2 | Нагиев | На всякий случай. | Just in case. | #109 00:06:25: На всякий случай | verbatim |
-| 3 | Аня | Не вздумай брать оружие. | Do not even think about bringing a weapon. | #110 00:06:37: не вздумай брать оружие | verbatim |
-| 4 | Нагиев | Я стрелять не буду. | I am not going to shoot anyone. | #111 00:06:39: Я стрелять не буду | verbatim |
-| 5 | Аня | Галя, не волнуйся. | Galya, do not worry. | #111 00:06:39: Галя, не волнуйся | verbatim |
-| 6 | Нагиев | Ты меня уже пугаешь. | You are scaring me already. | #112 00:06:42: Ты меня уже пугаешь | verbatim |
-| 7 | Аня | Немедленно идем в полицию. | We are going to the police immediately. | #113 00:06:50: немедленно идем в полицию | verbatim |
-| 8 | Нагиев | Сам разберусь. | I will handle this myself. | #115 00:06:55: Сам разберусь | verbatim |
-| 9 | Аня | Мне бармены в машине не нужны. | I do not need any bartenders in my car. | #116 00:06:56: Мне бармены в машине не нужны | verbatim |
-| 10 | Нагиев | Я с вами. | I am coming with you. | #116 00:06:56: Я с вами | verbatim |
-| 11 | Аня | Пусть едет, иначе ты там глупости натворишь. | Let him come along, otherwise you will do something foolish out there. | #117 00:07:01: Пусть едет, иначе ты там глупости натворишь | verbatim |
-| 12 | Нагиев | Я курить ходил. | I just went out for a smoke. | #120 00:07:10: Я курить ходил | verbatim |
-| 13 | Аня | А заодно и улиток выгуливал? | And took the snails out for a walk at the same time? | #121 00:07:15: А заодно и улиток выгуливал | verbatim |
+| 1 | Вика | Больше берите, его же там все равно много. | Take more of it, there is plenty of it in there anyway. | #108 00:06:22: Больше берите, его же там все равно много | verbatim |
+| 2 | Вика | На всякий случай. | Just in case. | #109 00:06:25: На всякий случай | verbatim |
+| 3 | Вика | Не вздумай брать оружие. | Do not even think about bringing a weapon. | #110 00:06:37: не вздумай брать оружие | verbatim |
+| 4 | Вика | Я стрелять не буду. | I am not going to shoot anyone. | #111 00:06:39: Я стрелять не буду | verbatim |
+| 5 | Вика | Галя, не волнуйся. | Galya, do not worry. | #111 00:06:39: Галя, не волнуйся | verbatim |
+| 6 | Вика | Ты меня уже пугаешь. | You are scaring me already. | #112 00:06:42: Ты меня уже пугаешь | verbatim |
+| 7 | Вика | Немедленно идем в полицию. | We are going to the police immediately. | #113 00:06:50: немедленно идем в полицию | verbatim |
+| 8 | Вика | Сам разберусь. | I will handle this myself. | #115 00:06:55: Сам разберусь | verbatim |
+| 9 | Вика | Мне бармены в машине не нужны. | I do not need any bartenders in my car. | #116 00:06:56: Мне бармены в машине не нужны | verbatim |
+| 10 | Вика | Я с вами. | I am coming with you. | #116 00:06:56: Я с вами | verbatim |
+| 11 | Вика | Пусть едет, иначе ты там глупости натворишь. | Let him come along, otherwise you will do something foolish out there. | #117 00:07:01: Пусть едет, иначе ты там глупости натворишь | verbatim |
+| 12 | Вика | Я курить ходил. | I just went out for a smoke. | #120 00:07:10: Я курить ходил | verbatim |
+| 13 | Вика | А заодно и улиток выгуливал? | And took the snails out for a walk at the same time? | #121 00:07:15: А заодно и улиток выгуливал | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

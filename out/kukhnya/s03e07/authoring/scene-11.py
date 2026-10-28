@@ -1,31 +1,31 @@
 ID = 'kukhnya-s03e07-scene-11'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 7
 SCENE = 11
 TITLE = "Ссора Кости и Насти  (Kostya and Nastya's Quarrel)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'nastya': 'anja', 'nagiyev': 'angelina'}
-LABELS = {'anya': 'Костя', 'nastya': 'Настя', 'nagiyev': 'Нагиев'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.07"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "kostya": "anja", "nastya": "angelina"}
+LABELS = {"kostya": "Костя", "nastya": "Настя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.07'
 SOURCE_FILE = 'sources/kukhnya/s03/e07.ru.srt'
 
 INTRO = 'After Max calls Kostya to hurry home, Kostya tries to leave his argument with Nastya. When he says he rejects the name Kuzma, Nastya thinks he is rejecting their baby.'
 
 STORY = [
-    ('anya', 'Он просто все законы знает, в университете учится.', 'He simply knows all the laws, he studies at the university.', [(143, 'Он просто все законы знает')], 'adapted'),
-    ('nagiyev', 'Ну понятно, на красный свет ехать нельзя.', 'Well I see, you cannot drive on a red light.', [(144, 'Ну, понятно. На красный, значит, свет нельзя')], 'adapted'),
-    ('nagiyev', 'Зато в таком виде можно по Москве разъезжать.', 'Yet in that outfit you can drive around Moscow.', [(145, 'по Москве разъезжать')], 'adapted'),
-    ('anya', 'Всё, Настя, мне сейчас срочно надо ехать.', 'That is it, Nastya, I urgently need to go right now.', [(146, 'Все. Настя, мне надо ехать')], 'adapted'),
+    ('kostya', 'Он просто все законы знает, в университете учится.', 'He simply knows all the laws, he studies at the university.', [(143, 'Он просто все законы знает')], 'adapted'),
+    ('nastya', 'Ну понятно, на красный свет ехать нельзя.', 'Well I see, you cannot drive on a red light.', [(144, 'Ну, понятно. На красный, значит, свет нельзя')], 'adapted'),
+    ('nastya', 'Зато в таком виде можно по Москве разъезжать.', 'Yet in that outfit you can drive around Moscow.', [(145, 'по Москве разъезжать')], 'adapted'),
+    ('kostya', 'Всё, Настя, мне сейчас срочно надо ехать.', 'That is it, Nastya, I urgently need to go right now.', [(146, 'Все. Настя, мне надо ехать')], 'adapted'),
     ('nastya', 'Конечно, ты просто уходишь от разговора, да?', 'Of course, you are simply walking away from the conversation, right?', [(147, 'Конечно. Уходишь от разговора, да')], 'adapted'),
-    ('anya', 'Настя, называй сына как хочешь, только не Кузьма.', 'Nastya, name our son whatever you want, just not Kuzma.', [(148, 'Настя, называй, как хочешь')], 'adapted'),
+    ('kostya', 'Настя, называй сына как хочешь, только не Кузьма.', 'Nastya, name our son whatever you want, just not Kuzma.', [(148, 'Настя, называй, как хочешь')], 'adapted'),
     ('nastya', 'А я всё равно назову его Кузьма!', 'And I will name him Kuzma anyway!', [(150, 'Назову Кузьма')], 'adapted'),
-    ('anya', 'Если будет Кузьма, я отказываюсь от Кузьмы.', 'If it is Kuzma, I renounce Kuzma.', [(152, 'Будет Кузьма, я отказываюсь от Кузьмы')], 'adapted'),
+    ('kostya', 'Если будет Кузьма, я отказываюсь от Кузьмы.', 'If it is Kuzma, I renounce Kuzma.', [(152, 'Будет Кузьма, я отказываюсь от Кузьмы')], 'adapted'),
     ('nastya', 'Подожди, ты отказываешься от нашего сына?', 'Wait, are you rejecting our son?', [(153, 'Ты отказываешься от нашего сына')], 'adapted'),
     ('nastya', 'Уходи, я больше видеть тебя не хочу!', 'Go away, I do not want to see you anymore!', [(154, 'тебя не хочу')], 'adapted'),
-    ('anya', 'Настя, послушай, да не от нашего сына!', 'Nastya, listen, not from our son!', [(155, 'Настя, да не от сына')], 'adapted'),
-    ('anya', 'Я отказываюсь только от имени Кузьмы.', 'I am only rejecting the name Kuzma.', [(156, 'От Кузьмы')], 'adapted'),
+    ('kostya', 'Настя, послушай, да не от нашего сына!', 'Nastya, listen, not from our son!', [(155, 'Настя, да не от сына')], 'adapted'),
+    ('kostya', 'Я отказываюсь только от имени Кузьмы.', 'I am only rejecting the name Kuzma.', [(156, 'От Кузьмы')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Leaving Nastya in tears, Kostya rushes home to help Max hide Nagiyev's stolen convertible."
-CLOSING = ('anya', 'Настя, мне надо ехать.')
+OUTRO = "Leaving Nastya in tears, Kostya rushes home to help Max hide Nagiyev's stolen convertible. Until next time!"
+CLOSING = ("kostya", "Всего хорошего!")

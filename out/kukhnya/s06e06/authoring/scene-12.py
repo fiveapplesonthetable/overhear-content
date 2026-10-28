@@ -1,30 +1,30 @@
 ID = 'kukhnya-s06e06-scene-12'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 6
 SCENE = 12
-TITLE = 'Чемодан с сюрпризом  (The Suitcase with a Surprise)'
+TITLE = "Чемодан с сюрпризом  (The Suitcase with a Surprise)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'lyova': 'anja', 'denis': 'angelina'}
-LABELS = {'anya': 'Шеф', 'lyova': 'Лёва', 'denis': 'Денис'}
-SOURCE_NAME = "Кухня (Kukhnya) S6.06"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "lyova": "angelina"}
+LABELS = {"chef": "Шеф", "lyova": "Лёва"}
+SOURCE_NAME = 'Кухня (Kukhnya) S6.06'
 SOURCE_FILE = 'sources/kukhnya/s06/e06.ru.srt'
 
 INTRO = 'In his haste to stop the police raid, Chef Barinov blindly signs a supply order for Lyova, while upstairs Denis and Nikita discover that Olivier locked his suitcase.'
 
 STORY = [
     ('lyova', 'Поставь меня быстрее обратно на стол!', 'Put me back on the table quickly!', [(185, 'Поставь меня на стол')], 'adapted'),
-    ('anya', 'Лёва, давай быстрее, мне некогда!', 'Lyova, hurry up, I have no time!', [(188, 'быстрей! Быстрей')], 'adapted'),
+    ('chef', 'Лёва, давай быстрее, мне некогда!', 'Lyova, hurry up, I have no time!', [(188, 'быстрей! Быстрей')], 'adapted'),
     ('lyova', 'Заявку на продукты прочитайте и подпишите.', 'Read and sign the supply request.', [(189, 'Заявка на продукты прочитайте и подпишите')], 'adapted'),
-    ('anya', 'Что там читать, я тебе доверяю.', 'What is there to read, I trust you.', [(190, 'Ну, что там читать? Я тебе доверяю')], 'adapted'),
-    ('anya', 'Давай сюда ручку, я быстро подпишу.', 'Give me the pen here, I will sign quickly.', [(191, 'Давай подпишу, давай')], 'adapted'),
-    ('denis', 'Давай быстрее ищи этот пакет!', 'Hurry up and look for that packet!', [(193, 'давай быстрей')], 'adapted'),
+    ('chef', 'Что там читать, я тебе доверяю.', 'What is there to read, I trust you.', [(190, 'Ну, что там читать? Я тебе доверяю')], 'adapted'),
+    ('chef', 'Давай сюда ручку, я быстро подпишу.', 'Give me the pen here, I will sign quickly.', [(191, 'Давай подпишу, давай')], 'adapted'),
+    ('chef', 'Давай быстрее ищи этот пакет!', 'Hurry up and look for that packet!', [(193, 'давай быстрей')], 'adapted'),
     ('lyova', 'Я пакет в его чемодан положил.', 'I put the packet inside his suitcase.', [(194, 'Я пакет в чемодан положил')], 'adapted'),
     ('lyova', 'А француз закрыл чемодан на замок.', 'And the Frenchman locked the suitcase.', [(194, 'француз его закрыл')], 'adapted'),
-    ('denis', 'Значит, будем выносить весь чемодан вместе.', 'Then we will carry out the whole suitcase together.', [(195, 'Значит, будем выносить вместе чемодан')], 'adapted'),
-    ('anya', 'Куда же я дел свой ключ?', 'Where on earth did I put my key?', [(196, 'Куда же я дел свой ключ')], 'adapted'),
-    ('anya', 'Скажите, полиция сюда уже приезжала?', 'Tell me, have the police arrived here already?', [(197, 'Полиция приезжала')], 'adapted'),
+    ('chef', 'Значит, будем выносить весь чемодан вместе.', 'Then we will carry out the whole suitcase together.', [(195, 'Значит, будем выносить вместе чемодан')], 'adapted'),
+    ('chef', 'Куда же я дел свой ключ?', 'Where on earth did I put my key?', [(196, 'Куда же я дел свой ключ')], 'adapted'),
+    ('chef', 'Скажите, полиция сюда уже приезжала?', 'Tell me, have the police arrived here already?', [(197, 'Полиция приезжала')], 'adapted'),
     ('lyova', 'Да, дежурный повёл их прямо наверх.', 'Yes, the receptionist led them straight upstairs.', [(197, 'Да, Егор повел их наверх')], 'adapted'),
 ]
 
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Before Denis and Nikita can sneak out of the room with the suitcase, Olivier returns with a secret companion, forcing them to hide under the bed. See you in the next scene.'
-CLOSING = ('anya', 'Надо срочно спасать наш ресторан!')
+OUTRO = 'Before Denis and Nikita can sneak out of the room with the suitcase, Olivier returns with a secret companion, forcing them to hide under the bed. See you next time!'
+CLOSING = ("chef", "До встречи!")

@@ -10,17 +10,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Красота! Даже в коробках. | Beauty! Even in the boxes. | #16 00:01:31: Красота даже в коробках | adapted: adapted |
+| 1 | Нагиев | Красота! Даже в коробках. | Beauty! Even in the boxes. | #16 00:01:31: Красота даже в коробках | adapted: adapted |
 | 2 | Шеф | Дима, что это? | Dima, what is this? | #17 00:01:34: Дима, что это | verbatim |
-| 3 | Аня | Ты же хочешь быть модным. | You want to be fashionable, don't you. | #18 00:01:38: Ты же хочешь быть модным | adapted: adapted |
-| 4 | Аня | Это оборудование для молекулярной кухни. | This is equipment for molecular cuisine. | #19 00:01:41: Это оборудование для молекулярной кухни | verbatim |
-| 5 | Аня | Для молекулярной кухни. Ясно? | For molecular cuisine. Clear? | #20 00:01:44: Для молекулярной кухни<br>#21 00:01:46: Ясно | adapted: adapted |
-| 6 | Аня | Кому я говорю о моде? | Who am I talking to about fashion? | #22 00:01:48: кому я говорю о моде | adapted: adapted |
+| 3 | Нагиев | Ты же хочешь быть модным. | You want to be fashionable, don't you. | #18 00:01:38: Ты же хочешь быть модным | adapted: adapted |
+| 4 | Нагиев | Это оборудование для молекулярной кухни. | This is equipment for molecular cuisine. | #19 00:01:41: Это оборудование для молекулярной кухни | verbatim |
+| 5 | Нагиев | Для молекулярной кухни. Ясно? | For molecular cuisine. Clear? | #20 00:01:44: Для молекулярной кухни<br>#21 00:01:46: Ясно | adapted: adapted |
+| 6 | Нагиев | Кому я говорю о моде? | Who am I talking to about fashion? | #22 00:01:48: кому я говорю о моде | adapted: adapted |
 | 7 | Шеф | Мы классический французский ресторан. | We are a classic French restaurant. | #23 00:01:50: мы классический французский ресторан | verbatim |
 | 8 | Шеф | А классика никогда не уходит из моды. | And classics never go out of fashion. | #24 00:01:53: а классика никогда не уходит из моды | verbatim |
 | 9 | Шеф | Эта кухня нам не нужна. | We do not need this cuisine. | #25 00:01:55: нам не нужна | adapted: adapted |
-| 10 | Аня | Устали люди есть одно и то же. | People are tired of eating the same thing. | #27 00:02:00: Устали люди. Есть одно и то же | adapted: adapted |
-| 11 | Аня | Сегодня же ищи человека. | Look for a person this very day. | #28 00:02:03: сегодня же ищи человека | adapted: adapted |
+| 10 | Нагиев | Устали люди есть одно и то же. | People are tired of eating the same thing. | #27 00:02:00: Устали люди. Есть одно и то же | adapted: adapted |
+| 11 | Нагиев | Сегодня же ищи человека. | Look for a person this very day. | #28 00:02:03: сегодня же ищи человека | adapted: adapted |
 | 12 | Шеф | Да, моя курочка. | Yes, my little chicken. | #31 00:02:13: Да, моя курочка | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)

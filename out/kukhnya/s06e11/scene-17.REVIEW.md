@@ -11,9 +11,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Элеонора | Ты хочешь за ужином превратиться из повара в наследницу? | You want to turn from a chef into an heiress at dinner? | #282 00:18:16: То есть ты хочешь, чтобы я за ужином из | adapted: adapted |
-| 2 | Аня | Ну да, мама, мне это сейчас очень нужно. | Well yes, mom, I really need this right now. | #283 00:18:20: Ну да | adapted: adapted |
+| 2 | Элеонора | Ну да, мама, мне это сейчас очень нужно. | Well yes, mom, I really need this right now. | #283 00:18:20: Ну да | adapted: adapted |
 | 3 | Элеонора | Если хочешь, мы можем ему сразу правду сказать. | If you want, we can tell him the truth right away. | #284 00:18:22: Нет, если хочешь, мы можем ему просто правду сказать | adapted: adapted |
-| 4 | Аня | Нет, я очень хотела бы увидеть его лицо! | No, I would really love to see his face! | #285 00:18:24: Нет, я хотела бы увидеть его лицо | adapted: adapted |
+| 4 | Элеонора | Нет, я очень хотела бы увидеть его лицо! | No, I would really love to see his face! | #285 00:18:24: Нет, я хотела бы увидеть его лицо | adapted: adapted |
 | 5 | Михаил | Виктор Петрович, его отец вернулся, он в номере на встрече. | Viktor Petrovich, his father returned, he is in the room in a meeting. | #286 00:18:35: отец вернулся, он в | adapted: adapted |
 | 6 | Элеонора | Здравствуйте, скажите, а кто здесь главный в отеле? | Hello, tell me, who is in charge of the hotel here? | #288 00:18:43: Здравствуйте<br>#289 00:18:44: А кто главный | adapted: adapted |
 | 7 | Михаил | Я главный управляющий, чем я могу вам помочь? | I am the general manager, how can I help you? | #290 00:18:46: Я. Управляющий<br>#291 00:18:48: Чем могу помочь | adapted: adapted |
@@ -25,7 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You want to turn from a chef into an heiress at dinner?' In Russian, the idea of 'you' flows naturally into 'heiress' without extra filler words.
+- 'You want to turn from a chef into an heiress at dinner?' In spoken Russian, the words stay in their normal statement order and Eleonora's rising voice at the end turns the line into a question.
 - 'Well yes, mom, I really need this right now.' The grammar packs 'come on' and 'needed' into a tight, idiomatic kitchen exchange. Eleonora answers right away.
 - 'If you want, we can tell him the truth right away.' The meaning hinges on 'if' working together with 'to say' in spoken Russian.
 - 'No, I would really love to see his face!' Notice how Russian expresses 'no' and 'face' with crisp inflection rather than helper words.

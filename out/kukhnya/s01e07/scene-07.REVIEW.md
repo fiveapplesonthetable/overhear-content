@@ -1,39 +1,39 @@
-# kukhnya-s01e07-scene-07: review sheet
+# Спасение карпов  (Saving the Carp) — `kukhnya-s01e07-scene-07`
 
-Title: Спасение карпов  (Saving the Carp)
-Level: A1 — Duolingo Section 2
-Pair: ru-en
-Source: Кухня (Kukhnya) S1.07
+**Source:** Кухня (Kukhnya) S1.07 · `sources/kukhnya/s01/e07.ru.dual.srt`  
+**Target level:** A1 — Duolingo Section 2
 
+## Cast
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+| Role | Voice | Label |
+|---|---|---|
+| `narrator` | sky | — |
+| `nastya` | angelina | Настя |
+| `kostya` | anja | Костя |
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+## Part 1 — Intro
+
+> In the quiet restaurant back area, bartender Kostya finds waitress Nastya in deep distress. She tearfully confesses that her strict landlady threw her out of her rented apartment for rescuing live carp and keeping them in the bathtub. Let's listen to their conversation in Russian first.
+
+## Part 2 — Story
+
+| # | Speaker | Line | English | Source cue(s) | Change |
 |---|---|---|---|---|---|
-| 1 | Костя | Настя, что у тебя сегодня случилось? | Nastya, what happened with you today? | #60 00:04:31: Значит, что случилось | adapted: inquiring with concern |
-| 2 | Настя | Моя злая хозяйка выгнала меня. | My wicked landlady kicked me out. | #61 00:04:33: Хозяйка поругалась | adapted: explaining her eviction |
-| 3 | Костя | За что она выгнала тебя? | What did she kick you out for? | new | new: asking for the reason |
-| 4 | Настя | Я принесла домой живых карпов. | I brought live carp home. | #62 00:04:37: Это карпы | adapted: revealing the cause |
-| 5 | Костя | Зачем тебе живая рыба дома? | Why do you need live fish at home? | new | new: asking in confusion |
-| 6 | Настя | В магазине их могли просто убить! | In the store they could simply kill them! | #63 00:04:40: В магазине их купят и убьют | adapted: explaining her animal rescue |
-| 7 | Костя | И где они плавают сейчас? | And where are they swimming now? | new | new: asking about their location |
-| 8 | Настя | Они прекрасно живут в ванне. | They live wonderfully in the bathtub. | #64 00:04:42: А у меня они скоро размножаться будут | adapted: describing their new habitat |
-| 9 | Костя | Понятно, хозяйка была очень недовольна. | I see, the landlady was very unhappy. | new | new: understanding the landlady's reaction |
-| 10 | Настя | Я не могу жить с жестокими людьми. | I cannot live with cruel people. | #66 00:04:50: Я не могу жить в квартире убийцы | adapted: standing on moral principle |
-| 11 | Костя | Слушай, ты можешь пока пожить у меня. | Listen, you can stay at my place for now. | #68 00:04:55: ты можешь пока пожить у меня | adapted: offering shelter warmly |
-| 12 | Настя | Спасибо, Костик, ты настоящий друг! | Thank you, Kostik, you are a true friend! | #70 00:05:06: Спасибо, Костик<br>#71 00:05:08: Ты настоящий друг | adapted: thanking him gratefully |
+| 0 | Костя | Настя, что у тебя сегодня случилось? | Nastya, what happened with you today? | #60 "Значит, что случилось" |  |
+| 1 | Настя | Моя злая хозяйка выгнала меня. | My wicked landlady kicked me out. | #61 "Хозяйка поругалась" |  |
+| 2 | Костя | За что она выгнала тебя? | What did she kick you out for? | *(added)* |  |
+| 3 | Настя | Я принесла домой живых карпов. | I brought live carp home. | #62 "Это карпы" |  |
+| 4 | Костя | Зачем тебе живая рыба дома? | Why do you need live fish at home? | *(added)* |  |
+| 5 | Настя | В магазине их могли просто убить! | In the store they could simply kill them! | #63 "В магазине их купят и убьют" |  |
+| 6 | Костя | И где они плавают сейчас? | And where are they swimming now? | *(added)* |  |
+| 7 | Настя | Они прекрасно живут в ванне. | They live wonderfully in the bathtub. | #64 "А у меня они скоро размножаться будут" |  |
+| 8 | Костя | Понятно, хозяйка была очень недовольна. | I see, the landlady was very unhappy. | *(added)* |  |
+| 9 | Настя | Я не могу жить с жестокими людьми. | I cannot live with cruel people. | #66 "Я не могу жить в квартире убийцы" |  |
+| 10 | Костя | Слушай, ты можешь пока пожить у меня. | Listen, you can stay at my place for now. | #68 "ты можешь пока пожить у меня" |  |
+| 11 | Настя | Спасибо, Костик, ты настоящий друг! | Thank you, Kostik, you are a true friend! | #70 "Спасибо, Костик", #71 "Ты настоящий друг" |  |
 
-## Walk-through narration (English only, no target-language words quoted)
+## Part 5 — Outro & closing
 
-- 'Nastya, what happened with you today?' Kostya asks his tearful girlfriend what caused her distress.
-- 'My wicked landlady kicked me out.' Nastya announces the sudden eviction from her rented flat.
-- 'What did she kick you out for?' Kostya asks for the backstory behind the dispute.
-- 'I brought live carp home.' Nastya reveals her unconventional choice of roommates.
-- 'Why do you need live fish at home?' Kostya struggles to understand the domestic aquatic setup.
-- 'In the store they could simply kill them!' Nastya explains her compassionate vegetarian intervention.
-- 'And where are they swimming now?' The phrasing opens with 'where' before bringing in 'swim' and 'now' to make the point clear.
-- 'They live wonderfully in the bathtub.' Nastya proudly describes their temporary pool.
-- 'I see, the landlady was very unhappy.' Kostya sympathizes with the bewildered homeowner.
-- 'I cannot live with cruel people.' Nastya defends her unyielding ethical principles.
-- 'Listen, you can stay at my place for now.' Kostya offers her a spare room in his apartment.
-- 'Thank you, Kostik, you are a true friend!' Nastya beams with heartfelt gratitude at the kind offer.
+> Relieved by Kostya's generous invitation, Nastya prepares to move her belongings out of her old apartment. See you next time!
+
+**Настя:** Пока!

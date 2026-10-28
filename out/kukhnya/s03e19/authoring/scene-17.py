@@ -1,23 +1,23 @@
 ID = 'kukhnya-s03e19-scene-17'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 19
 SCENE = 17
-TITLE = 'Верь мне, пожалуйста  (Believe Me, Please)'
+TITLE = "Верь мне, пожалуйста  (Believe Me, Please)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja', 'eva': 'angelina'}
-LABELS = {'anya': 'Макс', 'vika': 'Вика', 'eva': 'Ева'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.19"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "eva": "angelina"}
+LABELS = {"anya": "Макс", "eva": "Ева"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.19'
 SOURCE_FILE = 'sources/kukhnya/s03/e19.ru.srt'
 
 INTRO = 'Mortified to learn that Eva genuinely liked him and there was no spy test, Max apologizes as Eva slips out the door, then begs Vika to trust him so they can have a future together.'
 
 STORY = [
-    ('vika', 'Пойми ты наконец, никакой проверки вообще не было!', 'Understand at last, there was no test at all!', [(312, 'Никакой проверки не было')], 'adapted'),
+    ('eva', 'Пойми ты наконец, никакой проверки вообще не было!', 'Understand at last, there was no test at all!', [(312, 'Никакой проверки не было')], 'adapted'),
     ('anya', 'Подожди, как это не было? Значит, она сама ко мне пришла?', 'Wait, what do you mean there was not? So she came to me on her own?', [(313, 'Как не было'), (314, 'Значит, она реально ко мне')], 'adapted'),
     ('anya', 'Ужас, как же мне теперь перед Евой неудобно!', 'Terrible, how awkward I feel in front of Eva now!', [(315, 'как перед Евой неудобно')], 'adapted'),
-    ('vika', 'Да ну? А передо мной тебе сейчас совсем удобно?', 'Oh really? And do you feel completely comfortable in front of me right now?', [(316, 'Да ну'), (317, 'А передо мной тебе удобно')], 'adapted'),
+    ('eva', 'Да ну? А передо мной тебе сейчас совсем удобно?', 'Oh really? And do you feel completely comfortable in front of me right now?', [(316, 'Да ну'), (317, 'А передо мной тебе удобно')], 'adapted'),
     ('anya', 'Вика, перед тобой мне тоже сейчас очень неудобно.', 'Vika, I feel very awkward in front of you right now too.', [(318, 'Вик, перед тобой тоже')], 'adapted'),
     ('anya', 'Просто я уже столько раз тебя раньше подводил.', 'It is just that I have let you down so many times before.', [(318, 'Просто я столько раз тебя подводил')], 'adapted'),
     ('anya', 'Я сам прекрасно понимаю, как тяжело мне верить.', 'I understand very well myself how hard it is to believe me.', [(318, 'что сам понимаю'), (319, 'как тяжело мне верить')], 'adapted'),
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Once Eva closes the door behind her, Vika looks at Max and realizes that—however foolishly—he truly was trying to stay faithful to her.'
-CLOSING = ('anya', 'Вика, верь мне, пожалуйста!')
+OUTRO = 'Once Eva closes the door behind her, Vika looks at Max and realizes that—however foolishly—he truly was trying to stay faithful to her. Until next time!'
+CLOSING = ("anya", "Хорошего дня!")

@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e17-scene-11'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 17
 SCENE = 11
-TITLE = 'Темнота на кухне  (Darkness in the Kitchen)'
+TITLE = "Темнота на кухне  (Darkness in the Kitchen)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'katya': 'anja', 'chef': 'angelina'}
-LABELS = {'anya': 'Макс', 'katya': 'Катя', 'chef': 'Шеф'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.17"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "katya": "angelina", "anya": "alisa", "chef": "anja"}
+LABELS = {"katya": "Катя", "anya": "Макс", "chef": "Шеф"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.17'
 SOURCE_FILE = 'sources/kukhnya/s03/e17.ru.srt'
 
 INTRO = 'Suddenly the electricity goes out across Claude Monet! In the pitch-black kitchen, Max tries to put Katya off with a rude remark, and when Chef sends him to check the fuse box, a huge flash knocks him back.'
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "After blowing out the building's main power, Max scrambles away from the smoking panel before Chef Barinov discovers who caused the blackout."
-CLOSING = ('katya', 'Беги, пока шеф не увидел!')
+OUTRO = "After blowing out the building's main power, Max scrambles away from the smoking panel before Chef Barinov discovers who caused the blackout. Until next time!"
+CLOSING = ("katya", "Беги, пока шеф не увидел!")

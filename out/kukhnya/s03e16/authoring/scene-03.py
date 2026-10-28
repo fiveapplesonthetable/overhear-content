@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e16-scene-03'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 16
 SCENE = 3
 TITLE = "Бывший кабинет Вики  (Vika's Former Office)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'nagiyev': 'anja', 'kristina': 'angelina'}
-LABELS = {'anya': 'Макс', 'nagiyev': 'Нагиев', 'kristina': 'Кристина'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.16"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "kristina": "anja", "nagiyev": "angelina", "anya": "alisa"}
+LABELS = {"kristina": "Кристина", "nagiyev": "Нагиев", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.16'
 SOURCE_FILE = 'sources/kukhnya/s03/e16.ru.srt'
 
 INTRO = "Nagiyev shows Kristina into Vika's old office and offers her shopping money, but Kristina claims she has changed and wants to live strictly on what she earns—before immediately asking for an advance! Listen to the Russian scene first."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Kristina smoothly talks Nagiyev into handing her the entire staff payroll in cash! Meanwhile, in the locker room, we learn the truth behind the 'poltergeist' in Scene Four."
-CLOSING = ('kristina', 'Ты знаешь, я изменилась.')
+OUTRO = "Kristina smoothly talks Nagiyev into handing her the entire staff payroll in cash! Meanwhile, in the locker room, we learn the truth behind the 'poltergeist' in Scene Four. Until next time!"
+CLOSING = ("kristina", "Хорошего дня!")

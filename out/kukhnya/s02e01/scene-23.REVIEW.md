@@ -1,32 +1,40 @@
-# kukhnya-s02e01-scene-23: review sheet
+# Чаепитие шефа  (The Chef's Tea Party) — `kukhnya-s02e01-scene-23`
 
-Title: Чаепитие шефа  (The Chef's Tea Party)
-Level: A1 — Duolingo Section 2
-Pair: ru-en
-Source: Кухня (Kukhnya) S2.01
-Scene 23
+**Source:** Кухня (Kukhnya) S2.01 · `sources/kukhnya/s02/e01.ru.dual.srt`  
+**Target level:** A1 — Duolingo Section 2
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+## Cast
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+| Role | Voice | Label |
+|---|---|---|
+| `narrator` | sky | — |
+| `chef` | anja | Шеф |
+| `igor` | angelina | Игорь |
+
+## Part 1 — Intro
+
+> Chef Barinov sits comfortably at the kitchen table and calmly drinks a cup of hot tea while complete chaos unfolds around him. Igor Valentinovich slowly approaches the chef, clearly annoyed by the man's relaxed behavior in the middle of a busy workday.
+
+## Part 2 — Story
+
+| # | Speaker | Line | English | Source cue(s) | Change |
 |---|---|---|---|---|---|
-| 1 | Игорь | Что здесь происходит? | What is happening here? | new | new: new |
-| 2 | Шеф | Мы просто работаем. | We are just working. | new | new: new |
-| 3 | Игорь | На кухне полный хаос. | There is complete chaos in the kitchen. | new | new: new |
-| 4 | Игорь | А вы сидите здесь. | And you are sitting here. | new | new: new |
-| 5 | Игорь | Чайком балуемся, Виктор Петрович? | Having some tea, Viktor Petrovich? | #266 00:19:42: Чайком балуемся | adapted: adapted |
-| 6 | Шеф | Да, чай очень вкусный. | Yes, the tea is very tasty. | new | new: new |
-| 7 | Шеф | Я люблю отдыхать. | I like to rest. | new | new: new |
-| 8 | Шеф | Это правильно. | That is right. | #267 00:19:46: Это правильно | adapted: adapted |
-| 9 | Игорь | Вы должны работать. | You must work. | new | new: new |
-| 10 | Шеф | Мои повара всё знают. | My cooks know everything. | new | new: new |
-| 11 | Шеф | Они работают за меня. | They work for me. | new | new: new |
-| 12 | Игорь | Это просто возмутительно. | This is simply outrageous. | new | new: new |
-| 13 | Шеф | Не кричите на меня. | Do not yell at me. | new | new: new |
+| 0 | Игорь | Что здесь происходит? | What is happening here? | *(added)* |  |
+| 1 | Шеф | Мы просто работаем. | We are just working. | *(added)* |  |
+| 2 | Игорь | На кухне полный хаос. | There is complete chaos in the kitchen. | *(added)* |  |
+| 3 | Игорь | А вы сидите здесь. | And you are sitting here. | *(added)* |  |
+| 4 | Игорь | Чайком балуемся, Виктор Петрович? | Having some tea, Viktor Petrovich? | #266 "Чайком балуемся" |  |
+| 5 | Шеф | Да, чай очень вкусный. | Yes, the tea is very tasty. | *(added)* |  |
+| 6 | Шеф | Я люблю отдыхать. | I like to rest. | *(added)* |  |
+| 7 | Шеф | Это правильно. | That is right. | #267 "Это правильно" |  |
+| 8 | Игорь | Вы должны работать. | You must work. | *(added)* |  |
+| 9 | Шеф | Мои повара всё знают. | My cooks know everything. | *(added)* |  |
+| 10 | Шеф | Они работают за меня. | They work for me. | *(added)* |  |
+| 11 | Игорь | Это просто возмутительно. | This is simply outrageous. | *(added)* |  |
+| 12 | Шеф | Не кричите на меня. | Do not yell at me. | *(added)* |  |
 
-## Walk-through narration (English only, no target-language words quoted)
+## Part 5 — Outro & closing
 
-- 'Having some tea, Viktor Petrovich?' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'tea' straight to 'Petrovich'.
-- 'That is right.' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'right'.
-- 'You must work.' The phrasing opens with 'must' before bringing in 'to work' to make the point clear.
-- 'This is simply outrageous.' Russian omits the present-tense verb 'to be', connecting 'this' directly with 'outrageous'.
+> Chef Barinov remains completely unbothered by the boss's passive-aggressive remarks. Next time you watch the episode, listen for the Russian expressions for 'here' and 'to happen' — you will catch every word right away. See you next time!
+
+**Шеф:** Пока!

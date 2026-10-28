@@ -11,18 +11,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Гость | А где ваше главное начальство? | And where is your top management? | #272 00:21:21: А где начальство? | adapted: adapted |
-| 2 | Аня | Ждём её через пару часов. | We are expecting her in a couple of hours. | #274 00:21:24: Ждем через пару часов | adapted: verbatim |
+| 2 | Гость | Ждём её через пару часов. | We are expecting her in a couple of hours. | #274 00:21:24: Ждем через пару часов | adapted: verbatim |
 | 3 | Гость | Это очень вкусная пицца. | This is a very delicious pizza. | #275 00:21:27: Это вкусно очень пицца | adapted: adapted |
 | 4 | Гость | Прямо как я люблю. | Just the way I love it. | #276 00:21:29: Прямо как я люблю | adapted: verbatim |
 | 5 | Гость | Видно, что делали профессионалы. | It is clear that professionals made it. | #277 00:21:31: что делали профессионалы | adapted: adapted |
-| 6 | Аня | Ну, мы очень старались. | Well, we tried very hard. | #278 00:21:34: мы старались | adapted: adapted |
+| 6 | Гость | Ну, мы очень старались. | Well, we tried very hard. | #278 00:21:34: мы старались | adapted: adapted |
 | 7 | Гость | Дома там невкусно готовят. | At home they cook badly. | #280 00:21:41: дома<br>#281 00:21:46: Там невкусно готовят | adapted: adapted |
 | 8 | Гость | Скажи шефу, чтобы написал рецепт. | Tell the chef to write down the recipe. | #282 00:21:49: шефу, чтобы он мне | adapted: adapted |
 | 9 | Елена | Витя, всё очень вкусно. | Vitya, everything is very delicious. | #283 00:21:54: Витя, все очень вкусно | adapted: verbatim |
 | 10 | Елена | Спасибо, что ты меня пригласил. | Thank you for inviting me. | #283 00:21:54: Спасибо, что ты меня пригласил | adapted: verbatim |
-| 11 | Аня | Здесь ты попробуешь французскую кухню. | Here you will taste French cuisine. | #284 00:21:57: попробовать настоящую французскую кухню? | adapted: adapted |
+| 11 | Гость | Здесь ты попробуешь французскую кухню. | Here you will taste French cuisine. | #284 00:21:57: попробовать настоящую французскую кухню? | adapted: adapted |
 | 12 | Елена | Нет, спасибо, я пойду. | No, thank you, I will go. | #286 00:22:04: Нет, спасибо. Иди | adapted: adapted |
-| 13 | Аня | Нет, нет, ничего страшного. | No, no, nothing is wrong. | #288 00:22:09: Нет, нет, ничего | adapted: adapted |
+| 13 | Гость | Нет, нет, ничего страшного. | No, no, nothing is wrong. | #288 00:22:09: Нет, нет, ничего | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -31,7 +31,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'This is a very delicious pizza.' the guest brings out the contrast between 'this' and 'very' in a few short words.
 - 'Just the way I love it.' the guest anchors the line on 'right', while 'like' completes the thought.
 - 'It is clear that professionals made it.' the guest anchors the line on 'one can see', while 'professionals' completes the thought.
-- 'Well, we tried very hard.' Notice the reflexive suffix on the verb meaning 'we tried hard', turning the action back on the subject.
+- 'Well, we tried very hard.' In everyday Russian, 'very' flows straight into 'we tried hard' without extra linking words.
 - 'At home they cook badly.' In Russian, the idea of 'at home' flows naturally into 'to cook' without extra filler words.
 - 'Tell the chef to write down the recipe.' Here the Russian phrasing highlights 'say' before landing on 'recipe'.
 - 'Vitya, everything is very delicious.' Notice how Russian expresses 'proper name' and 'deliciously' with crisp inflection rather than helper words.

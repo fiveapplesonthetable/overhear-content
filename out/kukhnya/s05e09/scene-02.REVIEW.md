@@ -21,8 +21,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 9 | Аня | Кухня, внимание! | Kitchen, attention! | #23 00:02:07: Кухня, внимание | adapted: adapted |
 | 10 | Аня | С этого момента прекращаю врать. | From this moment I stop lying. | #24 00:02:09: с этого момента прекращаю врать | adapted: adapted |
 | 11 | Аня | И буду говорить только правду. | And I will speak only the truth. | #25 00:02:15: И буду говорить только правду | adapted: adapted |
-| 12 | Лёва | Быстро за работу, Лавров! | Quickly back to work, Lavrov! | #31 00:02:35: Быстро за работу, Лавров | adapted: adapted |
-| 13 | Лёва | Ты морковь нарезал? | Did you chop the carrots? | #32 00:02:38: Ты морковь нарезал | adapted: adapted |
+| 12 | Вика | Быстро за работу, Лавров! | Quickly back to work, Lavrov! | #31 00:02:35: Быстро за работу, Лавров | adapted: adapted |
+| 13 | Вика | Ты морковь нарезал? | Did you chop the carrots? | #32 00:02:38: Ты морковь нарезал | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

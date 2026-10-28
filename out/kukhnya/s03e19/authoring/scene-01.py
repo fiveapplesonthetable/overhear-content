@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e19-scene-01'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 19
 SCENE = 1
-TITLE = 'Новая веранда и Родион Сергеевич  (The New Veranda and Rodion Sergeyevich)'
+TITLE = "Новая веранда и Родион Сергеевич  (The New Veranda and Rodion Sergeyevich)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja', 'rodion': 'angelina'}
-LABELS = {'anya': 'Макс', 'vika': 'Вика', 'rodion': 'Родион'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.19"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "rodion": "anja", "anya": "alisa", "vika": "angelina"}
+LABELS = {"rodion": "Родион", "anya": "Макс", "vika": "Вика"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.19'
 SOURCE_FILE = 'sources/kukhnya/s03/e19.ru.srt'
 
 INTRO = 'Welcome to Episode Nineteen of Season Three. Out in the courtyard, chain owner Andrey Mikhailovich and Vika plan a new veranda—until erudite homeless resident Rodion Sergeyevich steps out for his daily tomato soup.'
@@ -42,9 +42,9 @@ WALK = [
     (8, None, "'Allow me to introduce myself, my name is Rodion Sergeyevich.' Notice how Russian expresses 'to allow' and 'Rodion' with crisp inflection rather than helper words."),
     (9, None, "'I am a connoisseur of leftovers from this wonderful establishment.' The grammar packs 'I' and 'establishment' into a tight, idiomatic kitchen exchange."),
     (10, None, "'Viktoriya, what, do you feed homeless people in the courtyard here?' Spoken Russian keeps this brisk, leaning on 'you' and finishing on 'to feed'."),
-    (11, None, "'I beg your pardon, but I have a hot lunch right now.' Russian expresses 'having' with the preposition 'by' plus the genitive pronoun and 'lunch'."),
+    (11, None, "'I beg your pardon, but I have a hot lunch right now.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'."),
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Just as Vika denies feeding homeless people, Lyova steps outside and serves Rodion Sergeyevich a bowl of hot tomato soup.'
-CLOSING = ('rodion', 'Прошу прощения, у меня ланч.')
+OUTRO = 'Just as Vika denies feeding homeless people, Lyova steps outside and serves Rodion Sergeyevich a bowl of hot tomato soup. Until next time!'
+CLOSING = ("rodion", "До завтра!")

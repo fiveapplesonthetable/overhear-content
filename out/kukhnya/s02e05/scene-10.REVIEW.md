@@ -10,16 +10,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Это наш шеф-повар Виктор Петрович. | This is our head chef, Viktor Petrovich. | #154 00:11:01: Это наш шеф-повар Виктор Петрович | verbatim |
+| 1 | Кристина | Это наш шеф-повар Виктор Петрович. | This is our head chef, Viktor Petrovich. | #154 00:11:01: Это наш шеф-повар Виктор Петрович | verbatim |
 | 2 | Вика | Кстати, Виктор Петрович большой футбольный фанат. | By the way, Viktor Petrovich is a huge football fan. | #157 00:11:08: Кстати, Виктор Петрович большой футбольный фанат | verbatim |
 | 3 | Кристина | И он болеет за ваш футбольный клуб. | And he roots for your football club. | #158 00:11:11: и он болеет за ваш футбольный клуб | verbatim |
-| 4 | Аня | Она шутит. | She is joking. | #159 00:11:13: Она шутит | verbatim |
+| 4 | Кристина | Она шутит. | She is joking. | #159 00:11:13: Она шутит | verbatim |
 | 5 | Вика | Я заметил. | I noticed. | #160 00:11:15: Я заметил | verbatim |
 | 6 | Кристина | Я знаю. | I know. | #162 00:11:19: Я знаю | verbatim |
-| 7 | Аня | Приятного вам аппетита. | Enjoy your meal. | #163 00:11:21: Приятного вам аппетита | verbatim |
+| 7 | Кристина | Приятного вам аппетита. | Enjoy your meal. | #163 00:11:21: Приятного вам аппетита | verbatim |
 | 8 | Вика | Удачи вам завтра. | Good luck to you tomorrow. | #164 00:11:25: Удачи вам завтра | verbatim |
 | 9 | Кристина | Шеф, ну что там? | Chef, well, how did it go out there? | #166 00:11:35: Шеф, ну что там | verbatim |
-| 10 | Аня | Да ничего! | Nothing at all! | #167 00:11:38: Да ничего | verbatim |
+| 10 | Кристина | Да ничего! | Nothing at all! | #167 00:11:38: Да ничего | verbatim |
 | 11 | Вика | Как можно было перепутать Макеева с Малафеевым? | How could you mix up Makeev with Malafeev? | #168 00:11:41: как можно было перепутать Макеева с Малафеевым | verbatim |
 | 12 | Кристина | Мясо с бомжами. | Mixing up Spartak with Zenit. | #169 00:11:45: Мясо с бомжами | verbatim |
 

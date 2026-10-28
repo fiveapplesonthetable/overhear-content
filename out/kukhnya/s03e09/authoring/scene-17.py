@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e09-scene-17'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 9
 SCENE = 17
 TITLE = "Обещание Шефа и визит Насти  (The Chef's Promise and Nastya's Visit)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja', 'katya': 'angelina'}
-LABELS = {'anya': 'Костя', 'chef': 'Шеф', 'katya': 'Катя'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.09"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "katya": "angelina"}
+LABELS = {"chef": "Шеф", "katya": "Катя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.09'
 SOURCE_FILE = 'sources/kukhnya/s03/e09.ru.srt'
 
 INTRO = "Believing that he nearly harmed Katya during a blackout, Chef Barinov swears off alcohol and promises to tell Vika not to ask for Katya's diploma. Meanwhile, at the meat factory, Nastya unexpectedly arrives to see her father!"
@@ -22,10 +22,10 @@ STORY = [
     ('katya', 'Папа, там Вика меня с документами достаёт.', 'Dad, Vika keeps pestering me about my documents.', [(255, 'там Вика меня с документами достает')], 'adapted'),
     ('katya', 'Скажи ей, чтобы она отстала.', 'Tell her to leave me alone about them.', [(256, 'Скажи, чтобы отстала')], 'adapted'),
     ('chef', 'Да, обязательно скажу, прости ещё раз.', 'Yes, I will definitely tell her, forgive me once again.', [(257, 'Да-да, скажу. Прости еще раз')], 'adapted'),
-    ('anya', 'Я посмотрел договор с мясокомбинатом.', 'I looked over the contract with the meatpacking plant.', [(259, 'посмотри там договор с мясокомбинатом')], 'adapted'),
-    ('anya', 'Они там что-то со сроками мутят.', 'They are scheming something with the deadlines there.', [(260, 'Что-то они со сроками мутят')], 'adapted'),
-    ('anya', 'Ой, там сейчас Настя пришла!', 'Oh no, Nastya has just arrived out there!', [(264, 'Там Настя')], 'adapted'),
-    ('anya', 'К вам пришёл важный посетитель.', 'An important visitor has come to see you.', [(265, 'к вам посетитель')], 'adapted'),
+    ('chef', 'Я посмотрел договор с мясокомбинатом.', 'I looked over the contract with the meatpacking plant.', [(259, 'посмотри там договор с мясокомбинатом')], 'adapted'),
+    ('chef', 'Они там что-то со сроками мутят.', 'They are scheming something with the deadlines there.', [(260, 'Что-то они со сроками мутят')], 'adapted'),
+    ('chef', 'Ой, там сейчас Настя пришла!', 'Oh no, Nastya has just arrived out there!', [(264, 'Там Настя')], 'adapted'),
+    ('chef', 'К вам пришёл важный посетитель.', 'An important visitor has come to see you.', [(265, 'к вам посетитель')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Katya cleverly uses her father's guilt to dodge Vika's diploma check, while Kostya dives under Stepan Andreevich's desk as Nastya walks into the office."
-CLOSING = ('chef', 'Да, скажу, прости ещё раз.')
+OUTRO = "Katya cleverly uses her father's guilt to dodge Vika's diploma check, while Kostya dives under Stepan Andreevich's desk as Nastya walks into the office. Until next time!"
+CLOSING = ("chef", "Хорошего дня!")

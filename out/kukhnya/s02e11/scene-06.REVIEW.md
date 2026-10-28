@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Ай, это суперстар! | Oh, he is a superstar! | #95 00:06:29: Ай, это суперстар | verbatim |
-| 2 | Костя | А что? | What about it? | #96 00:06:31: А что | verbatim |
-| 3 | Аня | Ну, ну, ну. | Come on, come on. | #102 00:06:48: ну, ну, ну | verbatim |
-| 4 | Костя | Седя, когда будет стейк? | Senya, when will the steak be ready? | #103 00:06:55: Седя, когда будет стейк | verbatim |
-| 5 | Аня | А у вас чего, работы нет? | What, do you two have no work to do? | #105 00:07:01: А у вас чего, работы нет | verbatim |
-| 6 | Костя | Что-то сегодня никто Турболев не берет. | For some reason nobody is ordering turbot today. | #106 00:07:05: Что-то сегодня никто Турболев не берет | verbatim |
-| 7 | Аня | Не надо мне. | I do not need that. | #108 00:07:11: Не надо мне | verbatim |
-| 8 | Костя | Я тебя слушаю. | I am listening to you. | #109 00:07:13: Я тебя слушаю | verbatim |
-| 9 | Аня | Послушай меня. | Listen to me. | #109 00:07:13: Послушай меня | verbatim |
-| 10 | Костя | А Галкин кто? | And who is Galkin anyway? | #111 00:07:17: А Галкин кто | verbatim |
-| 11 | Аня | Ты дурак что ли совсем? | Are you completely out of your mind? | #112 00:07:21: ты дурак что ли совсем | verbatim |
-| 12 | Костя | Не надо орать за меня! | Do not yell at me! | #113 00:07:24: Не надо орать за меня | verbatim |
-| 13 | Аня | Моду взял! | Look at the habit he picked up! | #114 00:07:27: Моду взял | verbatim |
+| 1 | Федя | Ай, это суперстар! | Oh, he is a superstar! | #95 00:06:29: Ай, это суперстар | verbatim |
+| 2 | Федя | А что? | What about it? | #96 00:06:31: А что | verbatim |
+| 3 | Федя | Ну, ну, ну. | Come on, come on. | #102 00:06:48: ну, ну, ну | verbatim |
+| 4 | Федя | Седя, когда будет стейк? | Senya, when will the steak be ready? | #103 00:06:55: Седя, когда будет стейк | verbatim |
+| 5 | Федя | А у вас чего, работы нет? | What, do you two have no work to do? | #105 00:07:01: А у вас чего, работы нет | verbatim |
+| 6 | Федя | Что-то сегодня никто Турболев не берет. | For some reason nobody is ordering turbot today. | #106 00:07:05: Что-то сегодня никто Турболев не берет | verbatim |
+| 7 | Федя | Не надо мне. | I do not need that. | #108 00:07:11: Не надо мне | verbatim |
+| 8 | Федя | Я тебя слушаю. | I am listening to you. | #109 00:07:13: Я тебя слушаю | verbatim |
+| 9 | Федя | Послушай меня. | Listen to me. | #109 00:07:13: Послушай меня | verbatim |
+| 10 | Федя | А Галкин кто? | And who is Galkin anyway? | #111 00:07:17: А Галкин кто | verbatim |
+| 11 | Федя | Ты дурак что ли совсем? | Are you completely out of your mind? | #112 00:07:21: ты дурак что ли совсем | verbatim |
+| 12 | Федя | Не надо орать за меня! | Do not yell at me! | #113 00:07:24: Не надо орать за меня | verbatim |
+| 13 | Федя | Моду взял! | Look at the habit he picked up! | #114 00:07:27: Моду взял | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

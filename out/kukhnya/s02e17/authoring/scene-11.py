@@ -1,31 +1,31 @@
-ID = "kukhnya-s02e17-scene-11"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e17-scene-11'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 17
 SCENE = 11
 TITLE = "Неловкий обед и зимняя луна Шефа  (An Awkward Lunch and the Chef's Winter Moon)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'kostya': 'anja', 'sasha': 'angelina'}
-LABELS = {'anya': 'Макс', 'kostya': 'Костя', 'sasha': 'Саша'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.17"
-SOURCE_FILE = "sources/kukhnya/s02/e17.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "kostya": "anja", "anya": "alisa"}
+LABELS = {"kostya": "Костя", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.17'
+SOURCE_FILE = 'sources/kukhnya/s02/e17.ru.srt'
 
 INTRO = 'Max insists that Kostya join him and Sasha at their table since they are all close friends with no reason to quarrel, making Kostya squirm with guilt. In the kitchen, Chef Barinov catches a ruined dish and shocks everyone by reciting winter poetry instead of screaming.'
 
 STORY = [
     ('anya', 'Я-то подумал.', 'I was just thinking about it.', [(164, 'я-то подумал')], ''),
     ('kostya', 'Ты друг Костя с Сашей хорошо общаешься.', 'You are pal, Kostya, and you get along great with Sasha.', [(164, 'ты друг Костя с Сашей хорошо общаешься')], ''),
-    ('sasha', 'Че нам ссориться, глупо?', 'Why should we quarrel, it is silly, right?', [(165, 'Че нам ссориться, глупо')], ''),
+    ('kostya', 'Че нам ссориться, глупо?', 'Why should we quarrel, it is silly, right?', [(165, 'Че нам ссориться, глупо')], ''),
     ('anya', 'Че нам с тобой делить?', 'What could we possibly have to fight over?', [(167, 'Че нам с тобой делить')], ''),
     ('kostya', 'Я, Макс, подай соль.', 'Hey Max, pass the salt.', [(168, 'Я, Макс, подай соль')], ''),
-    ('sasha', 'А что, я не против?', 'Why not, I do not mind at all.', [(170, 'А что, я не против')], ''),
+    ('kostya', 'А что, я не против?', 'Why not, I do not mind at all.', [(170, 'А что, я не против')], ''),
     ('anya', 'Костян, ты как?', 'Kostyan, how are you holding up?', [(171, 'Костян, ты как')], ''),
     ('kostya', 'Костян, Костя.', 'Kostyan, hey, Kostya.', [(172, 'Костян, Костя')], ''),
-    ('sasha', 'Да, да, да.', 'Yes, yes, of course.', [(173, 'Да, да, да')], ''),
+    ('kostya', 'Да, да, да.', 'Yes, yes, of course.', [(173, 'Да, да, да')], ''),
     ('anya', 'Давайте отпразднуем мы.', 'Let us celebrate together.', [(174, 'Давайте отпразднуем мы')], ''),
     ('kostya', 'Сверкает зимняя луна.', 'The winter moon is sparkling.', [(178, 'сверкает зимняя луна')], ''),
-    ('sasha', 'Ну ты же просто молодец!', 'Why, you are simply a champion!', [(179, 'Ну ты же просто молодец')], ''),
+    ('kostya', 'Ну ты же просто молодец!', 'Why, you are simply a champion!', [(179, 'Ну ты же просто молодец')], ''),
     ('anya', 'Браковаться негде.', 'Beyond all praise.', [(180, 'Браковаться негде')], ''),
 ]
 
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's listen to all those lines again from the top."
-
-OUTRO = "When you watch Scene 11 of Episode 17, listen out for the exchange around an awkward lunch and the chef's winter moon — you will recognize every Russian phrase right away. See you in the next scene."
-CLOSING = ('anya', 'Браковаться негде.')
+OUTRO = 'That wraps up this scene as max cheerfully invites Kostya to sit with him and Sasha to celebrate their friendship, while Chef Barinov stuns the kitchen by reciting Pushkin instead of yelling. Until next time!'
+CLOSING = ("anya", "До завтра!")

@@ -20,8 +20,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 8 | Аня | Костя, я уже устал бегать от проблем. | Kostya, I am already tired of running from problems. | #109 00:07:09: уже набегался | adapted: adapted |
 | 9 | Аня | От этого всегда становится только хуже. | That always only makes things worse. | #110 00:07:12: Так только хуже | adapted: adapted |
 | 10 | Костя | Смотри, сюда как раз Катя идёт. | Look, Katya is walking right this way. | #111 00:07:16: Катя идет | adapted: adapted |
-| 11 | Шеф | Вот молодцы, отлично испортили все блюда. | Well done, you ruined all the dishes splendidly. | #116 00:07:35: Вот, молодцы | adapted: adapted |
-| 12 | Шеф | А где сейчас ходят Макс и Катя? | And where are Max and Katya right now? | #117 00:07:39: А где Агузак и Катя | adapted: adapted |
+| 11 | Костя | Вот молодцы, отлично испортили все блюда. | Well done, you ruined all the dishes splendidly. | #116 00:07:35: Вот, молодцы | adapted: adapted |
+| 12 | Костя | А где сейчас ходят Макс и Катя? | And where are Max and Katya right now? | #117 00:07:39: А где Агузак и Катя | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

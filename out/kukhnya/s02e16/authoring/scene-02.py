@@ -1,15 +1,15 @@
-ID = "kukhnya-s02e16-scene-02"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e16-scene-02'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 16
 SCENE = 2
 TITLE = "Провокация Ильи в раздевалке  (Ilya's Provocation in the Locker Room)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'sasha': 'anja'}
-LABELS = {'anya': 'Макс', 'sasha': 'Саша'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.16"
-SOURCE_FILE = "sources/kukhnya/s02/e16.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "sasha": "anja"}
+LABELS = {"anya": "Макс", "sasha": "Саша"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.16'
+SOURCE_FILE = 'sources/kukhnya/s02/e16.ru.srt'
 
 INTRO = 'Alone with Max in the staff locker room, Ilya smugly taunts him about Sasha and warns that nobody will believe a word Max says. Before Max can react, Ilya slams his own face against a metal locker door and collapses to the floor just as the others rush in.'
 
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the whole conversation once more from start to finish."
-
-OUTRO = "When you watch Scene 2 of Episode 16, listen out for the exchange around ilya's provocation in the locker room — you will recognize every Russian phrase right away. See you in the next scene."
-CLOSING = ('anya', 'Пусти меня.')
+OUTRO = 'That wraps up this scene as in the locker room, Ilya taunts Max about Sasha and then deliberately slams his own face into a locker so the staff will think Max beat him up. See you next time!'
+CLOSING = ("anya", "До свидания!")

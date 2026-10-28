@@ -10,17 +10,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Шеф-повар, капусту насынковал? | Hey head chef, did you shred the cabbage? | #215 00:14:41: шеф-повар, капусту насынковал | verbatim |
+| 1 | Шеф | Шеф-повар, капусту насынковал? | Hey head chef, did you shred the cabbage? | #215 00:14:41: шеф-повар, капусту насынковал | verbatim |
 | 2 | Настя | Капусту насынковал? | Did you shred the cabbage, I asked? | #215 00:14:41: капусту насынковал | verbatim |
-| 3 | Аня | Это что, хохма такая? | Is this supposed to be some kind of joke? | #217 00:14:59: Это что, хохма такая | verbatim |
+| 3 | Шеф | Это что, хохма такая? | Is this supposed to be some kind of joke? | #217 00:14:59: Это что, хохма такая | verbatim |
 | 4 | Настя | Это что? | What is this? | #217 00:14:59: Это что | verbatim |
-| 5 | Аня | Не увязочка. | A little misunderstanding. | #220 00:15:08: Не увязочка | verbatim |
+| 5 | Шеф | Не увязочка. | A little misunderstanding. | #220 00:15:08: Не увязочка | verbatim |
 | 6 | Настя | Вот так. | Just like that. | #221 00:15:10: Вот так | verbatim |
-| 7 | Аня | Короче, чтобы деньги к вечеру были. | Long story short, have the money ready by tonight. | #222 00:15:13: Короче, чтобы деньги к вечеру были | verbatim |
+| 7 | Шеф | Короче, чтобы деньги к вечеру были. | Long story short, have the money ready by tonight. | #222 00:15:13: Короче, чтобы деньги к вечеру были | verbatim |
 | 8 | Настя | Настя, иди сюда. | Nastya, come over here. | #224 00:15:30: Настя, иди сюда | verbatim |
-| 9 | Аня | Это что такое? | What is this thing? | #225 00:15:36: Это что такое | verbatim |
+| 9 | Шеф | Это что такое? | What is this thing? | #225 00:15:36: Это что такое | verbatim |
 | 10 | Настя | Это Пашка. | That is Pashka. | #225 00:15:36: Это Пашка | verbatim |
-| 11 | Аня | Это что такое? Это Пашка? | What is this? That is Pashka? | #225 00:15:36: Это что такое? Это Пашка | verbatim |
+| 11 | Шеф | Это что такое? Это Пашка? | What is this? That is Pashka? | #225 00:15:36: Это что такое? Это Пашка | verbatim |
 | 12 | Настя | Че, не узнал? | What, did you not recognize him? | #226 00:15:38: Че, не узнал | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
@@ -35,5 +35,5 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Nastya, come over here.' Nastya anchors the line on 'Nastya', while 'here' completes the thought.
 - 'What is this thing?' Chef Viktor brings out the contrast between 'this' and 'what' in a few short words.
 - 'That is Pashka.' Here the Russian phrasing highlights 'this' before landing on 'Pasha'. Chef Viktor answers right away.
-- 'What is this? That is Pashka?' In Russian, the idea of 'this' flows naturally into 'Pasha' without extra filler words.
+- 'What is this? That is Pashka?' Chef Barinov keeps this everyday Russian response short and direct, without needing English helper words like 'am', 'is', or 'are'.
 - 'What, did you not recognize him?' Nastya raises the pitch on 'recognised' to turn the phrase into a direct spoken question.

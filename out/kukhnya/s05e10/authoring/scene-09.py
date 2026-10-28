@@ -1,14 +1,14 @@
 ID = 'kukhnya-s05e10-scene-09'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 10
 SCENE = 9
-TITLE = 'Не смотри ему в глаза  (Do Not Look into His Eyes)'
+TITLE = "Не смотри ему в глаза  (Do Not Look into His Eyes)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'inspector': 'anja', 'kostya': 'angelina'}
-LABELS = {'anya': 'Макс', 'inspector': 'Инспектор', 'kostya': 'Костя'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.10"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "inspector": "angelina", "kostya": "anja"}
+LABELS = {"anya": "Макс", "inspector": "Инспектор", "kostya": "Костя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.10'
 SOURCE_FILE = 'sources/kukhnya/s05/e10.ru.srt'
 
 INTRO = "Approaching the moustached man's table with eyes averted, Max invents one excuse after another—from a problem with his room to a parked car outside—to make him leave the dining room. When Max accidentally looks into his eyes and feels nothing, he tackles the man."
@@ -40,11 +40,11 @@ WALK = [
     (6, None, "'And it seems they are calling you to the cloakroom.' Notice how Russian expresses 'and' and 'will call' with crisp inflection rather than helper words. the inspector answers right away."),
     (7, None, "'What is going on?' Here the Russian phrasing highlights 'what' before landing on 'is happening'."),
     (8, None, "'I looked into his eyes!' Max anchors the line on 'I', while 'looked at' completes the thought."),
-    (9, None, "'And do you know who I am?' The grammar packs 'and' and 'I' into a tight, idiomatic kitchen exchange. Max answers right away."),
+    (9, None, "'And do you know who I am?' the inspector centers this short reply on 'know', letting a few direct words carry the whole meaning."),
     (10, None, "'A fraudster! You did not pay the bill!' Notice how Russian expresses 'con artist' and 'score' with crisp inflection rather than helper words."),
     (11, None, "'Everything is fine!' In Russian, the idea of 'everything' flows naturally into 'normally' without extra filler words."),
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'And that concludes the dining room ambush. Notice how every excuse fails until Max looks straight at the guest and mistakenly arrests him. See you in the next scene.'
-CLOSING = ('kostya', 'Не смотри ему в глаза!')
+OUTRO = 'And that concludes the dining room ambush. Notice how every excuse fails until Max looks straight at the guest and mistakenly arrests him. Until next time!'
+CLOSING = ("kostya", "До завтра!")

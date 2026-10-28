@@ -1,14 +1,14 @@
 ID = 'kukhnya-s06e20-scene-13'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 20
 SCENE = 13
 TITLE = "Просьба инспектора и встреча в клинике  (The Inspector's Request and the Clinic Meeting)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'inspector': 'anja', 'nastya': 'angelina'}
-LABELS = {'anya': 'Шеф', 'inspector': 'Инспектор', 'nastya': 'Настя'}
-SOURCE_NAME = "Кухня (Kukhnya) S6.20"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "inspector": "angelina", "chef": "anja"}
+LABELS = {"inspector": "Инспектор", "chef": "Шеф"}
+SOURCE_NAME = 'Кухня (Kukhnya) S6.20'
 SOURCE_FILE = 'sources/kukhnya/s06/e20.ru.srt'
 
 INTRO = "Back in a wheelchair, Chef Barinov hears Patrick Malouda's special request: the inspector wants to watch Viktor cook in the kitchen so he can describe his courage in his report! Meanwhile, Nastya and her mother awkwardly run into each other at the DNA clinic."
@@ -20,12 +20,12 @@ STORY = [
     ('inspector', 'Я хочу посмотреть, как вы готовите.', 'I want to watch how you cook.', [(183, 'я очень хочу посмотреть'), (184, 'как вы готовите')], 'adapted'),
     ('inspector', 'Хочу отразить это в своём отчёте.', 'I want to include this in my report.', [(184, 'чтобы отразить это в своем отчете')], 'adapted'),
     ('inspector', 'Скажите, можно мне это увидеть?', 'Tell me, may I see that?', [(185, 'Можно')], 'adapted'),
-    ('anya', 'Да, конечно, приходите на кухню.', 'Yes, of course, come into the kitchen.', [(186, 'Конечно')], 'adapted'),
-    ('nastya', 'Мама, а ты что тут делаешь?', 'Mom, what are you doing here?', [(188, 'А ты что тут делаешь')], 'adapted'),
-    ('anya', 'Папа попросил забрать результаты анализа.', 'Dad asked me to pick up test results.', [(189, 'папа попросил забрать результаты его анализа')], 'adapted'),
-    ('nastya', 'А у меня анализ папы Кости.', "And I have Kostya's dad's test.", [(190, 'тоже папа')], 'adapted'),
-    ('nastya', 'Ладно, мне уже идти надо.', 'Alright, I need to get going now.', [(193, 'Ладно, мне идти надо')], 'adapted'),
-    ('anya', 'Да, мне тоже пора домой.', 'Yes, it is time for me to go home too.', [(193, 'Да, мне тоже')], 'adapted'),
+    ('chef', 'Да, конечно, приходите на кухню.', 'Yes, of course, come into the kitchen.', [(186, 'Конечно')], 'adapted'),
+    ('inspector', 'Мама, а ты что тут делаешь?', 'Mom, what are you doing here?', [(188, 'А ты что тут делаешь')], 'adapted'),
+    ('chef', 'Папа попросил забрать результаты анализа.', 'Dad asked me to pick up test results.', [(189, 'папа попросил забрать результаты его анализа')], 'adapted'),
+    ('inspector', 'А у меня анализ папы Кости.', "And I have Kostya's dad's test.", [(190, 'тоже папа')], 'adapted'),
+    ('inspector', 'Ладно, мне уже идти надо.', 'Alright, I need to get going now.', [(193, 'Ладно, мне идти надо')], 'adapted'),
+    ('chef', 'Да, мне тоже пора домой.', 'Yes, it is time for me to go home too.', [(193, 'Да, мне тоже')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Before the DNA results even come back, tensions boil over at Kostya and Nastya's apartment. See you in the next scene."
-CLOSING = ('nastya', 'Тогда увидимся вечером дома.')
+OUTRO = "Before the DNA results even come back, tensions boil over at Kostya and Nastya's apartment. Until next time!"
+CLOSING = ("inspector", "Тогда увидимся вечером дома.")

@@ -18,10 +18,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 6 | Врач | Да у нас там мотоциклист уже месяц лежит. | Oh, we have had a motorcyclist lying in there for a month. | #73 00:05:28: А, да, у нас там мотоциклист уже месяц лежит | adapted: adapted |
 | 7 | Аня | Я хотел бы просмотреть все документы по закупке продуктов. | I would like to review all the documents on food purchases. | #74 00:05:35: Я хотел бы просмотреть все документы<br>#74 00:05:35: по закупке продуктов | adapted: adapted |
 | 8 | Аня | Это такие простые белые бумажки с цифрами. | Those are simple white slips of paper with numbers. | #75 00:05:41: Это такие бумажки с | adapted: adapted |
-| 9 | Шеф | Вот только не надо со мной разговаривать, как с ребёнком! | Just do not talk to me as if I were a child! | #76 00:05:44: Вот только не надо со мной разговаривать, как с ребенком | adapted: adapted |
+| 9 | Врач | Вот только не надо со мной разговаривать, как с ребёнком! | Just do not talk to me as if I were a child! | #76 00:05:44: Вот только не надо со мной разговаривать, как с ребенком | adapted: adapted |
 | 10 | Аня | С этой минуты вы курите, если есть такие талоны. | From this minute on, you smoke only if you have these coupons. | #77 00:05:56: С этой минуты вы курите, если у вас есть такие талоны | adapted: adapted |
 | 11 | Аня | Один перекур — один талон, это ваша норма. | One smoke break is one coupon, that is your allowance. | #78 00:06:00: Один перекур, один талон<br>#80 00:06:04: Потому что это ваша норма | adapted: adapted |
-| 12 | Шеф | Федя, я уже свои два талона сегодня использовал! | Fedya, I have already used my two coupons today! | #83 00:06:12: Я уж свои два использовал | adapted: adapted |
+| 12 | Врач | Федя, я уже свои два талона сегодня использовал! | Fedya, I have already used my two coupons today! | #83 00:06:12: Я уж свои два использовал | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

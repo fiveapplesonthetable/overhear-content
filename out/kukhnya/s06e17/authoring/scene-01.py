@@ -1,31 +1,31 @@
 ID = 'kukhnya-s06e17-scene-01'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 17
 SCENE = 1
-TITLE = 'Инспектор Мишлен  (The Michelin Inspector)'
+TITLE = "Инспектор Мишлен  (The Michelin Inspector)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'inspector': 'anja'}
-LABELS = {'anya': 'Шеф', 'inspector': 'Инспектор'}
-SOURCE_NAME = "Кухня (Kukhnya) S6.17"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "inspector": "angelina"}
+LABELS = {"chef": "Шеф", "inspector": "Инспектор"}
+SOURCE_NAME = 'Кухня (Kukhnya) S6.17'
 SOURCE_FILE = 'sources/kukhnya/s06/e17.ru.srt'
 
 INTRO = "At the start of this episode, Chef Barinov feeds his fish Arkady before welcoming Alexey Smolin, a Michelin inspector visiting the restaurant. Even after an awkward spill, the inspector praises the chef's signature tasting menu."
 
 STORY = [
-    ('anya', 'Не смотри на меня так.', 'Do not look at me like that.', [(2, 'Не смотри на меня так')], 'adapted'),
-    ('anya', 'Тебя нельзя сейчас перекормить.', 'You must not be overfed right now.', [(3, 'Если тебя перекормить')], 'adapted'),
+    ('chef', 'Не смотри на меня так.', 'Do not look at me like that.', [(2, 'Не смотри на меня так')], 'adapted'),
+    ('chef', 'Тебя нельзя сейчас перекормить.', 'You must not be overfed right now.', [(3, 'Если тебя перекормить')], 'adapted'),
     ('inspector', 'Здравствуйте, Виктор Петрович.', 'Hello, Viktor Petrovich.', [(5, 'Здравствуйте, Виктор Петрович')], 'adapted'),
     ('inspector', 'Я инспектирую ваш ресторан.', 'I am inspecting your restaurant.', [(6, 'Я инспектирую ваш ресторан')], 'adapted'),
-    ('anya', 'С вами всё в порядке?', 'Is everything alright with you?', [(7, 'С вами все в порядке')], 'adapted'),
+    ('chef', 'С вами всё в порядке?', 'Is everything alright with you?', [(7, 'С вами все в порядке')], 'adapted'),
     ('inspector', 'Да, просто так неожиданно.', 'Yes, it is just so unexpected.', [(8, 'Просто так неожиданно')], 'adapted'),
-    ('anya', 'Здравствуйте, мне очень приятно.', 'Hello, I am very pleased to meet you.', [(10, 'Очень приятно')], 'adapted'),
+    ('chef', 'Здравствуйте, мне очень приятно.', 'Hello, I am very pleased to meet you.', [(10, 'Очень приятно')], 'adapted'),
     ('inspector', 'Ваш авторский сет просто отличный.', 'Your signature set is simply excellent.', [(11, 'ваш авторский сет просто')], 'adapted'),
     ('inspector', 'Он закрыл этот неприятный случай.', 'It overshadowed that unpleasant incident.', [(11, 'этот неприятный')], 'adapted'),
-    ('anya', 'Спасибо вам за добрые слова.', 'Thank you for the kind words.', [(12, 'Спасибо')], 'adapted'),
-    ('anya', 'Вы только не волнуйтесь.', 'Just do not worry.', [(12, 'Но вы не волнуйтесь')], 'adapted'),
-    ('anya', 'Мы всё быстро отстираем.', 'We will wash everything out quickly.', [(12, 'мы все отстираем')], 'adapted'),
+    ('chef', 'Спасибо вам за добрые слова.', 'Thank you for the kind words.', [(12, 'Спасибо')], 'adapted'),
+    ('chef', 'Вы только не волнуйтесь.', 'Just do not worry.', [(12, 'Но вы не волнуйтесь')], 'adapted'),
+    ('chef', 'Мы всё быстро отстираем.', 'We will wash everything out quickly.', [(12, 'мы все отстираем')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'The Michelin inspector seems genuinely impressed by the tasting menu, though trouble is just around the corner in the kitchen. See you in the next scene.'
-CLOSING = ('anya', 'Мы всё исправим!')
+OUTRO = 'The Michelin inspector seems genuinely impressed by the tasting menu, though trouble is just around the corner in the kitchen. Until next time!'
+CLOSING = ("chef", "Хорошего дня!")

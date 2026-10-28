@@ -1,28 +1,28 @@
 ID = 'kukhnya-s06e17-scene-12'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 17
 SCENE = 12
-TITLE = 'Настя разоблачает Шефа  (Nastya Confronts the Chef)'
+TITLE = "Настя разоблачает Шефа  (Nastya Confronts the Chef)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'nastya': 'anja', 'kostya': 'angelina'}
-LABELS = {'anya': 'Шеф', 'nastya': 'Настя', 'kostya': 'Костя'}
-SOURCE_NAME = "Кухня (Kukhnya) S6.17"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "nastya": "angelina", "chef": "anja"}
+LABELS = {"nastya": "Настя", "chef": "Шеф"}
+SOURCE_NAME = 'Кухня (Kukhnya) S6.17'
 SOURCE_FILE = 'sources/kukhnya/s06/e17.ru.srt'
 
 INTRO = "Outraged on Elena Pavlovna's behalf, Nastya confronts Chef Barinov outside the hotel room. When she hears a man's voice inside, Barinov claims they are secretly playing poker, but Nastya doesn't buy it and reaches for her phone."
 
 STORY = [
     ('nastya', 'Как вы можете изменить Елене?', 'How can you cheat on Elena?', [(175, 'Как вы можете изменить Елене')], 'adapted'),
-    ('kostya', 'Извините, шеф, я вас сдал.', 'Sorry, Chef, I gave you away.', [(176, 'Извините, шеф, я вас сдал')], 'adapted'),
-    ('anya', 'Я там с Еленой Павловной.', 'I am in there with Elena Pavlovna.', [(177, 'что я там с Еленой Павловной')], 'adapted'),
+    ('chef', 'Извините, шеф, я вас сдал.', 'Sorry, Chef, I gave you away.', [(176, 'Извините, шеф, я вас сдал')], 'adapted'),
+    ('chef', 'Я там с Еленой Павловной.', 'I am in there with Elena Pavlovna.', [(177, 'что я там с Еленой Павловной')], 'adapted'),
     ('nastya', 'Костя, пойдём, не будем мешать.', 'Kostya, let us go, we will not disturb them.', [(178, 'Костя, пойдем, не будем мешать')], 'adapted'),
     ('nastya', 'Там у вас ещё мужчина?', 'Is there another man in there with you?', [(179, 'еще один мужчина')], 'adapted'),
-    ('anya', 'Шеф, вы отыгрываться сегодня будете?', 'Chef, are you going to win it back today?', [(180, 'Шеф, вы отыгрываться будете')], 'adapted'),
-    ('kostya', 'А, так вы играете в покер.', 'Ah, so you are playing poker.', [(182, 'в покер играть')], 'adapted'),
-    ('anya', 'Только не говори об этом Елене.', 'Just do not tell Elena about this.', [(183, 'Только не говори Елене')], 'adapted'),
-    ('anya', 'Я обещал, что скоро завяжу.', 'I promised that I would quit soon.', [(184, 'Я обещал, что завяжу')], 'adapted'),
+    ('chef', 'Шеф, вы отыгрываться сегодня будете?', 'Chef, are you going to win it back today?', [(180, 'Шеф, вы отыгрываться будете')], 'adapted'),
+    ('chef', 'А, так вы играете в покер.', 'Ah, so you are playing poker.', [(182, 'в покер играть')], 'adapted'),
+    ('chef', 'Только не говори об этом Елене.', 'Just do not tell Elena about this.', [(183, 'Только не говори Елене')], 'adapted'),
+    ('chef', 'Я обещал, что скоро завяжу.', 'I promised that I would quit soon.', [(184, 'Я обещал, что завяжу')], 'adapted'),
     ('nastya', 'А какая женщина шампанское заказывала?', 'Then what woman ordered champagne?', [(185, 'А что за женщина шампанское заказывала')], 'adapted'),
     ('nastya', 'Уходим отсюда, Костик.', 'We are leaving here, Kostik.', [(189, 'Уходим, Костик')], 'adapted'),
     ('nastya', 'Я сейчас звоню Елене Павловне.', 'I am calling Elena Pavlovna right now.', [(191, 'Звоню Елене Павловне')], 'adapted'),
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'To stop Nastya from calling Elena or the police, the chefs end up tying Kostya and Nastya up in the hotel room too. See you in the next scene.'
-CLOSING = ('nastya', 'Так я ему и поверила!')
+OUTRO = 'To stop Nastya from calling Elena or the police, the chefs end up tying Kostya and Nastya up in the hotel room too. See you next time!'
+CLOSING = ("nastya", "До встречи!")

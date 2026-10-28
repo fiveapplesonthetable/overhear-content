@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e03-scene-18'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 3
 SCENE = 18
-TITLE = 'Игра в покер  (Playing Poker)'
+TITLE = "Игра в покер  (Playing Poker)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'rodion': 'anja', 'elena': 'angelina'}
-LABELS = {'anya': 'Макс', 'rodion': 'Родион', 'elena': 'Елена'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.03"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "elena": "angelina", "rodion": "anja"}
+LABELS = {"anya": "Макс", "elena": "Елена", "rodion": "Родион"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.03'
 SOURCE_FILE = 'sources/kukhnya/s03/e03.ru.srt'
 
 INTRO = "After the terrified prefect's wife drives away, Rodion reveals that the phone he held up was a broken shell from a trash bin—while back at Claude Monet, Elena makes a shocking discovery in Barinov's car."
@@ -40,11 +40,11 @@ WALK = [
     (6, None, "'So that is what kind of furniture you were moving yesterday, Viktor Petrovich!' The meaning hinges on 'so' working together with 'moved' in spoken Russian."),
     (7, None, "'Where is Viktor Petrovich?' Here the Russian phrasing highlights 'where' before landing on 'where'."),
     (8, None, "'Viktor Petrovich left! More precisely, drove away.' Max brings out the contrast between 'left' and 'more precisely' in a few short words."),
-    (9, None, "'Where did he drive to? I have the car.' Russian expresses 'having' with the preposition 'by' plus the genitive pronoun and 'me'. Max answers right away."),
+    (9, None, "'Where did he drive to? I have the car.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'."),
     (10, None, "'He drove off with Timur for meat!' Max brings out the contrast between 'and' and 'he' in a few short words."),
     (11, None, "'What is going on here?' In Russian, the idea of 'what' flows naturally into 'is happening' without extra filler words."),
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "That brings Scene Eighteen to a close. Watch how Rodion's poker bluff saves Max and Vika just as Barinov's web of lies collapses in the kitchen."
-CLOSING = ('anya', 'Вам бы в покер играть!')
+OUTRO = "That brings Scene Eighteen to a close. Watch how Rodion's poker bluff saves Max and Vika just as Barinov's web of lies collapses in the kitchen. See you next time!"
+CLOSING = ("anya", "Всего хорошего!")

@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e19-scene-19'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 19
 SCENE = 19
 TITLE = "Прощание Родиона и решение Кати  (Rodion's Farewell and Katya's Decision)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'rodion': 'anja', 'katya': 'angelina'}
-LABELS = {'anya': 'Макс', 'rodion': 'Родион', 'katya': 'Катя'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.19"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "rodion": "anja", "anya": "alisa", "katya": "angelina"}
+LABELS = {"rodion": "Родион", "anya": "Макс", "katya": "Катя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.19'
 SOURCE_FILE = 'sources/kukhnya/s03/e19.ru.srt'
 
 INTRO = 'In the kitchen, Rodion and his wife thank Chef Barinov for his kindness and unforgettable onion soup. Inspired as Rodion bids farewell to the restaurant, Katya suddenly hands Chef Barinov her resignation letter!'
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Seeing his daughter storm out of the kitchen in tears, Chef Barinov turns his fury straight onto Max.'
-CLOSING = ('katya', 'Я не буду здесь работать!')
+OUTRO = 'Seeing his daughter storm out of the kitchen in tears, Chef Barinov turns his fury straight onto Max. Until next time!'
+CLOSING = ("katya", "Пока!")

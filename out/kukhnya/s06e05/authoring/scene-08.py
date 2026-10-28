@@ -1,31 +1,31 @@
 ID = 'kukhnya-s06e05-scene-08'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 5
 SCENE = 8
 TITLE = "Исповедь Кости  (Kostya's Confession)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'nastya': 'anja'}
-LABELS = {'anya': 'Костя', 'nastya': 'Настя'}
-SOURCE_NAME = "Кухня (Kukhnya) S6.05"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "kostya": "anja", "nastya": "angelina"}
+LABELS = {"kostya": "Костя", "nastya": "Настя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S6.05'
 SOURCE_FILE = 'sources/kukhnya/s06/e05.ru.srt'
 
 INTRO = 'Later that night in their bedroom, Kostya braces himself for the worst and interrupts Nastya with a dramatic speech about love, forgiveness, and washing his own socks.'
 
 STORY = [
     ('nastya', 'У тебя сегодня всё хорошо?', 'Is everything fine with you today?', [(116, 'Все хорошо')], 'adapted'),
-    ('anya', 'У меня да, всё хорошо.', 'With me yes, everything is fine.', [(116, 'У меня да')], 'adapted'),
-    ('anya', 'Подожди, Настя, послушай меня сначала.', 'Wait, Nastya, listen to me first.', [(118, 'Подожди, Настя. Послушай')], 'adapted'),
-    ('anya', 'Выслушай меня, пожалуйста, до конца.', 'Hear me out, please, to the end.', [(119, 'выслушай меня, пожалуйста')], 'adapted'),
-    ('anya', 'Люди в жизни иногда ошибаются.', 'People sometimes make mistakes in life.', [(120, 'Люди иногда ошибаются')], 'adapted'),
-    ('anya', 'Я сам перед тобой виноват.', 'I myself am at fault before you.', [(121, 'сам перед тобой в чем-то виноват')], 'adapted'),
-    ('anya', 'Любить — это большое умение прощать.', 'To love is a great ability to forgive.', [(124, 'Это умение прощать')], 'adapted'),
-    ('anya', 'Понимаешь, я готов это сделать.', 'You see, I am ready to do that.', [(125, 'я готов это сделать')], 'adapted'),
-    ('anya', 'Потому что я очень люблю тебя.', 'Because I love you very much.', [(126, 'Потому что я люблю тебя')], 'adapted'),
-    ('anya', 'Но я обязательно скоро исправлюсь.', 'But I will definitely improve soon.', [(128, 'Но я исправлюсь')], 'adapted'),
-    ('anya', 'Я готов сам стирать носки.', 'I am ready to wash my socks myself.', [(128, 'Я готов стирать носки')], 'adapted'),
-    ('anya', 'Больше не буду есть на кровати.', 'I will never eat in bed anymore.', [(129, 'больше не есть на кровати никогда')], 'adapted'),
+    ('kostya', 'У меня да, всё хорошо.', 'With me yes, everything is fine.', [(116, 'У меня да')], 'adapted'),
+    ('kostya', 'Подожди, Настя, послушай меня сначала.', 'Wait, Nastya, listen to me first.', [(118, 'Подожди, Настя. Послушай')], 'adapted'),
+    ('kostya', 'Выслушай меня, пожалуйста, до конца.', 'Hear me out, please, to the end.', [(119, 'выслушай меня, пожалуйста')], 'adapted'),
+    ('kostya', 'Люди в жизни иногда ошибаются.', 'People sometimes make mistakes in life.', [(120, 'Люди иногда ошибаются')], 'adapted'),
+    ('kostya', 'Я сам перед тобой виноват.', 'I myself am at fault before you.', [(121, 'сам перед тобой в чем-то виноват')], 'adapted'),
+    ('kostya', 'Любить — это большое умение прощать.', 'To love is a great ability to forgive.', [(124, 'Это умение прощать')], 'adapted'),
+    ('kostya', 'Понимаешь, я готов это сделать.', 'You see, I am ready to do that.', [(125, 'я готов это сделать')], 'adapted'),
+    ('kostya', 'Потому что я очень люблю тебя.', 'Because I love you very much.', [(126, 'Потому что я люблю тебя')], 'adapted'),
+    ('kostya', 'Но я обязательно скоро исправлюсь.', 'But I will definitely improve soon.', [(128, 'Но я исправлюсь')], 'adapted'),
+    ('kostya', 'Я готов сам стирать носки.', 'I am ready to wash my socks myself.', [(128, 'Я готов стирать носки')], 'adapted'),
+    ('kostya', 'Больше не буду есть на кровати.', 'I will never eat in bed anymore.', [(129, 'больше не есть на кровати никогда')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Kostya pours his heart out and swears off every annoying household habit, waiting nervously for Nastya's confession. See you in the next scene."
-CLOSING = ('anya', 'И ногти грызть не буду.')
+OUTRO = "Kostya pours his heart out and swears off every annoying household habit, waiting nervously for Nastya's confession. See you next time!"
+CLOSING = ("kostya", "Хорошего дня!")

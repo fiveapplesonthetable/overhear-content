@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e07-scene-02'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 7
 SCENE = 2
-TITLE = 'Кузьма или Дмитрий?  (Kuzma or Dmitry?)'
+TITLE = "Кузьма или Дмитрий?  (Kuzma or Dmitry?)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'kostya': 'anja', 'nastya': 'angelina'}
-LABELS = {'anya': 'Макс', 'kostya': 'Костя', 'nastya': 'Настя'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.07"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "kostya": "anja", "nastya": "angelina", "anya": "alisa"}
+LABELS = {"kostya": "Костя", "nastya": "Настя", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.07'
 SOURCE_FILE = 'sources/kukhnya/s03/e07.ru.srt'
 
 INTRO = 'Nastya challenges Kostya to suggest a better name for their baby. Kostya proposes naming the boy Dmitry, and turns to Max to ask which name sounds better. Listen to the full conversation in Russian first, and then we will walk through every line together.'
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Everything hinges on how Max answers Kostya's question. Let's watch what happens in the first version of events."
-CLOSING = ('kostya', 'Макс, Дмитрий же лучше?')
+OUTRO = "Everything hinges on how Max answers Kostya's question. Let's watch what happens in the first version of events. See you next time!"
+CLOSING = ("kostya", "Увидимся!")

@@ -1,39 +1,38 @@
-# kukhnya-s01e20-scene-21: review sheet
+# Мы  (We) — `kukhnya-s01e20-scene-21`
 
-Title: Мы  (We)
-Level: A1 — Duolingo Section 2
-Pair: ru-en
-Source: Кухня (Kukhnya) S1.20
+**Source:** Кухня (Kukhnya) S1.20 · `sources/kukhnya/s01/e20.ru.dual.srt`  
+**Target level:** A1 — Duolingo Section 2
 
+## Cast
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+| Role | Voice | Label |
+|---|---|---|
+| `narrator` | sky | — |
+| `anya` | alisa | Макс |
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+## Part 1 — Intro
+
+> The season approaches its emotional end with a deep philosophical reflection. Max thinks about how people behave in life, ignoring the obvious. Let's listen closely to the conversation in Russian first, and then walk through each line together.
+
+## Part 2 — Story
+
+| # | Speaker | Line | English | Source cue(s) | Change |
 |---|---|---|---|---|---|
-| 1 | Макс | Люди часто спят. | People often sleep. | new | new: new |
-| 2 | Макс | Они не хотят думать. | They do not want to think. | new | new: new |
-| 3 | Макс | Все любят мечтать. | Everyone loves to dream. | new | new: new |
-| 4 | Макс | Мы видим сны. | We see dreams. | new | new: new |
-| 5 | Макс | Такая у нас жизнь. | Such is our life. | new | new: new |
-| 6 | Макс | Никто не видит правду. | Nobody sees the truth. | new | new: new |
-| 7 | Макс | Мы. | We. | #334 00:22:54: Мы | verbatim |
-| 8 | Макс | Многие закрывают глаза. | Many close their eyes. | new | new: new |
-| 9 | Макс | Они боятся. | They are afraid. | new | new: new |
-| 10 | Макс | Просто ждут чудо. | Just wait for a miracle. | new | new: new |
-| 11 | Макс | Никто ничего не знает. | Nobody knows anything. | new | new: new |
-| 12 | Макс | И все молчат. | And everyone is silent. | new | new: new |
+| 0 | Макс | Люди часто спят. | People often sleep. | *(added)* |  |
+| 1 | Макс | Они не хотят думать. | They do not want to think. | *(added)* |  |
+| 2 | Макс | Все любят мечтать. | Everyone loves to dream. | *(added)* |  |
+| 3 | Макс | Мы видим сны. | We see dreams. | *(added)* |  |
+| 4 | Макс | Такая у нас жизнь. | Such is our life. | *(added)* |  |
+| 5 | Макс | Никто не видит правду. | Nobody sees the truth. | *(added)* |  |
+| 6 | Макс | Мы сами не видим. | We don | #334 "Мы" |  |
+| 7 | Макс | Многие закрывают глаза. | Many close their eyes. | *(added)* |  |
+| 8 | Макс | Они боятся. | They are afraid. | *(added)* |  |
+| 9 | Макс | Просто ждут чудо. | Just wait for a miracle. | *(added)* |  |
+| 10 | Макс | Никто ничего не знает. | Nobody knows anything. | *(added)* |  |
+| 11 | Макс | И все молчат. | And everyone is silent. | *(added)* |  |
 
-## Walk-through narration (English only, no target-language words quoted)
+## Part 5 — Outro & closing
 
-- 'People often sleep.' Max puts the word for 'people' together with 'often' and 'have been sleeping' in a crisp, natural spoken turn of phrase.
-- 'They do not want to think.' Max chooses the imperfective verb meaning 'want' for the ongoing action, followed by 'to think'.
-- 'Everyone loves to dream.' Max chooses the imperfective verb meaning 'love' for the ongoing action, followed by 'to dream'.
-- 'We see dreams.' Max chooses the imperfective verb meaning 'to see' for the ongoing action, followed by 'dreams'.
-- 'Such is our life.' Max uses the classic Russian possession phrasing — literally 'at us' rather than a verb meaning 'to have' around the word meaning 'life'.
-- 'Nobody sees the truth.' Max chooses the imperfective verb meaning 'sees' for the ongoing action, followed by 'truth'.
-- 'We don't see it ourselves.' The emphatic pronoun for 'ourselves' reinforces the subject 'we'.
-- 'Many close their eyes.' Max expresses this naturally by combining the word for 'many' with 'to close' and 'eyes'.
-- 'They are afraid.' Max delivers a punchy one-word reaction built around the Russian word meaning 'are afraid'.
-- 'Just wait for a miracle.' Here Max anchors the line on the word meaning 'just' and builds the thought around 'are waiting' and 'miracle'.
-- 'Nobody knows anything.' Max delivers a punchy one-word reaction built around the Russian word meaning 'knows'.
-- 'And everyone is silent.' Max delivers a punchy one-word reaction built around the Russian word meaning 'to be silent'.
+> Max thinks about how people behave in life. Next time you watch the episode, listen for the Russian expressions for 'person' and 'often' — you will catch every word right away. See you next time!
+
+**Макс:** До свидания!

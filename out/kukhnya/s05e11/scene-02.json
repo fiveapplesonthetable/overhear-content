@@ -1,364 +1,365 @@
 {
-  "id": "kukhnya-s05e11-scene-02",
-  "pair": "ru-en",
-  "title": "Сюрприз от бабушки и дедушки  (A Surprise from Grandma and Grandpa)",
-  "level": "A1 — Duolingo Section 2",
-  "voices": {
-    "narrator": "sky",
-    "anya": "alisa",
-    "vika": "anja",
-    "guest": "angelina"
+ "schemaVersion": 1,
+ "id": "kukhnya-s05e11-scene-02",
+ "pair": "ru-en",
+ "show": "kukhnya",
+ "season": 5,
+ "episode": 11,
+ "scene": 2,
+ "title": "Сюрприз от бабушки и дедушки  (A Surprise from Grandma and Grandpa)",
+ "level": "A1 — Duolingo Section 2",
+ "voices": {
+  "narrator": "sky",
+  "anya": "alisa",
+  "guest": "anja",
+  "vika": "angelina"
+ },
+ "labels": {
+  "anya": "Макс",
+  "guest": "Гость",
+  "vika": "Вика"
+ },
+ "segments": [
+  {
+   "v": "narrator",
+   "t": "Vika calls Max in a panic to tell him his grandparents are at her apartment and have no idea that she and Max are separated. While Max's grandfather looks for a razor before his heart checkup, Max asks Vika to bring them straight to the hotel.",
+   "gap": 0.8
   },
-  "labels": {
-    "anya": "Макс",
-    "vika": "Вика",
-    "guest": "Гость"
+  {
+   "v": "vika",
+   "t": "Макс, твои бабушка и дедушка у меня дома.",
+   "gap": 0.55
   },
-  "segments": [
-    {
-      "v": "narrator",
-      "t": "Vika calls Max in a panic to tell him his grandparents are at her apartment and have no idea that she and Max are separated. While Max's grandfather looks for a razor before his heart checkup, Max asks Vika to bring them straight to the hotel.",
-      "gap": 0.8
-    },
-    {
-      "v": "vika",
-      "t": "Макс, твои бабушка и дедушка у меня дома.",
-      "gap": 0.55
-    },
-    {
-      "v": "vika",
-      "t": "Решили сделать нам сюрприз.",
-      "gap": 0.55
-    },
-    {
-      "v": "anya",
-      "t": "Ты им ничего не говорила?",
-      "gap": 0.55
-    },
-    {
-      "v": "vika",
-      "t": "Нет. И ты, как я поняла, тоже.",
-      "gap": 0.55
-    },
-    {
-      "v": "guest",
-      "t": "Вика, понимаешь, я бритву дома забыл.",
-      "gap": 0.55
-    },
-    {
-      "v": "guest",
-      "t": "Хочу перед обследованием побриться.",
-      "gap": 0.55
-    },
-    {
-      "v": "vika",
-      "t": "Кажется, закончились у него бритвы. А что за обследование?",
-      "gap": 0.55
-    },
-    {
-      "v": "guest",
-      "t": "Мы сердце хотим обследовать.",
-      "gap": 0.55
-    },
-    {
-      "v": "anya",
-      "t": "Привези их, пожалуйста, сюда в отель.",
-      "gap": 0.55
-    },
-    {
-      "v": "anya",
-      "t": "Я сам им всё объясню.",
-      "gap": 0.55
-    },
-    {
-      "v": "guest",
-      "t": "Здравствуйте, где найти шеф-повара?",
-      "gap": 0.55
-    },
-    {
-      "v": "anya",
-      "t": "Вот он в шахматы играет.",
-      "gap": 0.9
-    },
-    {
-      "v": "narrator",
-      "t": "Now let's go back through their conversation line by line and unpack the Russian phrasing.",
-      "gap": 0.4
-    },
-    {
-      "v": "vika",
-      "t": "Макс, твои бабушка и дедушка у меня дома.",
-      "gap": 0.55
-    },
-    {
-      "v": "narrator",
-      "t": "'Max, your grandmother and grandfather are at my home.' Notice how Russian expresses 'Max' and 'at home' with crisp inflection rather than helper words.",
-      "gap": 0.4
-    },
-    {
-      "v": "vika",
-      "t": "Решили сделать нам сюрприз.",
-      "gap": 0.55
-    },
-    {
-      "v": "narrator",
-      "t": "'They decided to give us a surprise.' Notice how Russian expresses 'decided' and 'surprise' with crisp inflection rather than helper words. Max answers right away.",
-      "gap": 0.4
-    },
-    {
-      "v": "anya",
-      "t": "Ты им ничего не говорила?",
-      "gap": 0.55
-    },
-    {
-      "v": "narrator",
-      "t": "'Did you not tell them anything?' Max brings out the contrast between 'you' and 'them' in a few short words.",
-      "gap": 0.4
-    },
-    {
-      "v": "vika",
-      "t": "Нет. И ты, как я поняла, тоже.",
-      "gap": 0.55
-    },
-    {
-      "v": "narrator",
-      "t": "'No. And as I understood, neither did you.' Here the Russian phrasing highlights 'no' before landing on 'also'.",
-      "gap": 0.4
-    },
-    {
-      "v": "guest",
-      "t": "Вика, понимаешь, я бритву дома забыл.",
-      "gap": 0.55
-    },
-    {
-      "v": "narrator",
-      "t": "'Vika, you see, I forgot my razor at home.' The '-l' ending on the verb meaning 'to forget' places the action in the masculine past tense.",
-      "gap": 0.4
-    },
-    {
-      "v": "guest",
-      "t": "Хочу перед обследованием побриться.",
-      "gap": 0.55
-    },
-    {
-      "v": "narrator",
-      "t": "'I want to shave before the checkup.' the guest brings out the contrast between 'want' and 'before' in a few short words.",
-      "gap": 0.4
-    },
-    {
-      "v": "vika",
-      "t": "Кажется, закончились у него бритвы. А что за обследование?",
-      "gap": 0.55
-    },
-    {
-      "v": "narrator",
-      "t": "'It seems he ran out of razors. And what kind of checkup is it?' Here the Russian phrasing highlights 'it seems' before landing on 'medical checkup'.",
-      "gap": 0.4
-    },
-    {
-      "v": "guest",
-      "t": "Мы сердце хотим обследовать.",
-      "gap": 0.55
-    },
-    {
-      "v": "narrator",
-      "t": "'We want to examine his heart.' Spoken Russian keeps this brisk, leaning on 'we' and finishing on 'to examine'. Max answers right away.",
-      "gap": 0.4
-    },
-    {
-      "v": "anya",
-      "t": "Привези их, пожалуйста, сюда в отель.",
-      "gap": 0.55
-    },
-    {
-      "v": "narrator",
-      "t": "'Bring them here to the hotel, please.' Notice how Russian expresses 'bring' and 'hotel' with crisp inflection rather than helper words.",
-      "gap": 0.4
-    },
-    {
-      "v": "anya",
-      "t": "Я сам им всё объясню.",
-      "gap": 0.55
-    },
-    {
-      "v": "narrator",
-      "t": "'I will explain everything to them myself.' Here the Russian phrasing highlights 'I' before landing on 'will explain'.",
-      "gap": 0.4
-    },
-    {
-      "v": "guest",
-      "t": "Здравствуйте, где найти шеф-повара?",
-      "gap": 0.55
-    },
-    {
-      "v": "narrator",
-      "t": "'Hello, where can I find the head chef?' Notice how Russian expresses 'hello' and 'head chef' with crisp inflection rather than helper words. Max answers right away.",
-      "gap": 0.4
-    },
-    {
-      "v": "anya",
-      "t": "Вот он в шахматы играет.",
-      "gap": 0.55
-    },
-    {
-      "v": "narrator",
-      "t": "'There he is playing chess.' Max anchors the line on 'here', while 'is playing' completes the thought. Alright, let's hear the entire conversation one more time from start to finish.",
-      "gap": 0.9
-    },
-    {
-      "v": "vika",
-      "t": "Макс, твои бабушка и дедушка у меня дома.",
-      "gap": 0.5
-    },
-    {
-      "v": "vika",
-      "t": "Решили сделать нам сюрприз.",
-      "gap": 0.5
-    },
-    {
-      "v": "anya",
-      "t": "Ты им ничего не говорила?",
-      "gap": 0.5
-    },
-    {
-      "v": "vika",
-      "t": "Нет. И ты, как я поняла, тоже.",
-      "gap": 0.5
-    },
-    {
-      "v": "guest",
-      "t": "Вика, понимаешь, я бритву дома забыл.",
-      "gap": 0.5
-    },
-    {
-      "v": "guest",
-      "t": "Хочу перед обследованием побриться.",
-      "gap": 0.5
-    },
-    {
-      "v": "vika",
-      "t": "Кажется, закончились у него бритвы. А что за обследование?",
-      "gap": 0.5
-    },
-    {
-      "v": "guest",
-      "t": "Мы сердце хотим обследовать.",
-      "gap": 0.5
-    },
-    {
-      "v": "anya",
-      "t": "Привези их, пожалуйста, сюда в отель.",
-      "gap": 0.5
-    },
-    {
-      "v": "anya",
-      "t": "Я сам им всё объясню.",
-      "gap": 0.5
-    },
-    {
-      "v": "guest",
-      "t": "Здравствуйте, где найти шеф-повара?",
-      "gap": 0.5
-    },
-    {
-      "v": "anya",
-      "t": "Вот он в шахматы играет.",
-      "gap": 0.9
-    },
-    {
-      "v": "narrator",
-      "t": "That brings the phone call and apartment scene to a close. Notice how Max asks Vika to bring his grandparents to the hotel while a job applicant arrives looking for Chef Barinov. See you in the next scene.",
-      "gap": 0.5
-    },
-    {
-      "v": "anya",
-      "t": "Я сам всё объясню!",
-      "gap": 0.3
-    }
-  ],
-  "source": {
-    "show": "Кухня (Kukhnya) S5.11",
-    "file": "sources/kukhnya/s05/e11.ru.srt",
-    "lines": [
-      {
-        "line": 0,
-        "cue": 16,
-        "fragment": "Макс, твои бабушка и дедушка у меня дома"
-      },
-      {
-        "line": 1,
-        "cue": 17,
-        "fragment": "Решили сделать нам сюрприз"
-      },
-      {
-        "line": 2,
-        "cue": 18,
-        "fragment": "Ты им ничего не говорила"
-      },
-      {
-        "line": 3,
-        "cue": 18,
-        "fragment": "Нет"
-      },
-      {
-        "line": 3,
-        "cue": 19,
-        "fragment": "И ты, как я поняла, тоже"
-      },
-      {
-        "line": 4,
-        "cue": 20,
-        "fragment": "Вика"
-      },
-      {
-        "line": 4,
-        "cue": 21,
-        "fragment": "Понимаешь, я бритву дома забыл"
-      },
-      {
-        "line": 5,
-        "cue": 23,
-        "fragment": "Хочу перед обследованием побриться"
-      },
-      {
-        "line": 6,
-        "cue": 24,
-        "fragment": "кажется, действительно закончились у него бритвы"
-      },
-      {
-        "line": 6,
-        "cue": 25,
-        "fragment": "А что за обследование"
-      },
-      {
-        "line": 7,
-        "cue": 28,
-        "fragment": "Мы сердце хотим обследовать"
-      },
-      {
-        "line": 8,
-        "cue": 29,
-        "fragment": "привези их, пожалуйста, сюда в отель"
-      },
-      {
-        "line": 9,
-        "cue": 30,
-        "fragment": "И сам им все объясню"
-      },
-      {
-        "line": 10,
-        "cue": 35,
-        "fragment": "Здравствуйте. Где найти шеф-повара"
-      },
-      {
-        "line": 11,
-        "cue": 36,
-        "fragment": "Вот он в шахматы играет"
-      }
-    ]
+  {
+   "v": "vika",
+   "t": "Решили сделать нам сюрприз.",
+   "gap": 0.55
   },
-  "show": "kukhnya",
-  "season": 5,
-  "episode": 11,
-  "scene": 2
+  {
+   "v": "anya",
+   "t": "Ты им ничего не говорила?",
+   "gap": 0.55
+  },
+  {
+   "v": "vika",
+   "t": "Нет. И ты, как я поняла, тоже.",
+   "gap": 0.55
+  },
+  {
+   "v": "guest",
+   "t": "Вика, понимаешь, я бритву дома забыл.",
+   "gap": 0.55
+  },
+  {
+   "v": "guest",
+   "t": "Хочу перед обследованием побриться.",
+   "gap": 0.55
+  },
+  {
+   "v": "vika",
+   "t": "Кажется, закончились у него бритвы. А что за обследование?",
+   "gap": 0.55
+  },
+  {
+   "v": "guest",
+   "t": "Мы сердце хотим обследовать.",
+   "gap": 0.55
+  },
+  {
+   "v": "anya",
+   "t": "Привези их, пожалуйста, сюда в отель.",
+   "gap": 0.55
+  },
+  {
+   "v": "anya",
+   "t": "Я сам им всё объясню.",
+   "gap": 0.55
+  },
+  {
+   "v": "guest",
+   "t": "Здравствуйте, где найти шеф-повара?",
+   "gap": 0.55
+  },
+  {
+   "v": "anya",
+   "t": "Вот он в шахматы играет.",
+   "gap": 0.9
+  },
+  {
+   "v": "narrator",
+   "t": "Now let's go back through their conversation line by line and unpack the Russian phrasing.",
+   "gap": 0.4
+  },
+  {
+   "v": "vika",
+   "t": "Макс, твои бабушка и дедушка у меня дома.",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'Max, your grandmother and grandfather are at my home.' Notice how Russian expresses 'Max' and 'at home' with crisp inflection rather than helper words.",
+   "gap": 0.4
+  },
+  {
+   "v": "vika",
+   "t": "Решили сделать нам сюрприз.",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'They decided to give us a surprise.' Notice how Russian expresses 'decided' and 'surprise' with crisp inflection rather than helper words. Max answers right away.",
+   "gap": 0.4
+  },
+  {
+   "v": "anya",
+   "t": "Ты им ничего не говорила?",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'Did you not tell them anything?' Max brings out the contrast between 'you' and 'them' in a few short words.",
+   "gap": 0.4
+  },
+  {
+   "v": "vika",
+   "t": "Нет. И ты, как я поняла, тоже.",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'No. And as I understood, neither did you.' Here the Russian phrasing highlights 'no' before landing on 'also'.",
+   "gap": 0.4
+  },
+  {
+   "v": "guest",
+   "t": "Вика, понимаешь, я бритву дома забыл.",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'Vika, you see, I forgot my razor at home.' The '-l' ending on the verb meaning 'to forget' places the action in the masculine past tense.",
+   "gap": 0.4
+  },
+  {
+   "v": "guest",
+   "t": "Хочу перед обследованием побриться.",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'I want to shave before the checkup.' the guest brings out the contrast between 'want' and 'before' in a few short words.",
+   "gap": 0.4
+  },
+  {
+   "v": "vika",
+   "t": "Кажется, закончились у него бритвы. А что за обследование?",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'It seems he ran out of razors. And what kind of checkup is it?' Here the Russian phrasing highlights 'it seems' before landing on 'medical checkup'.",
+   "gap": 0.4
+  },
+  {
+   "v": "guest",
+   "t": "Мы сердце хотим обследовать.",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'We want to examine his heart.' Spoken Russian keeps this brisk, leaning on 'we' and finishing on 'to examine'. Max answers right away.",
+   "gap": 0.4
+  },
+  {
+   "v": "anya",
+   "t": "Привези их, пожалуйста, сюда в отель.",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'Bring them here to the hotel, please.' Notice how Russian expresses 'bring' and 'hotel' with crisp inflection rather than helper words.",
+   "gap": 0.4
+  },
+  {
+   "v": "anya",
+   "t": "Я сам им всё объясню.",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'I will explain everything to them myself.' Here the Russian phrasing highlights 'I' before landing on 'will explain'.",
+   "gap": 0.4
+  },
+  {
+   "v": "guest",
+   "t": "Здравствуйте, где найти шеф-повара?",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'Hello, where can I find the head chef?' Notice how Russian expresses 'hello' and 'head chef' with crisp inflection rather than helper words. Max answers right away.",
+   "gap": 0.4
+  },
+  {
+   "v": "anya",
+   "t": "Вот он в шахматы играет.",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'There he is playing chess.' Max anchors the line on 'here', while 'is playing' completes the thought. Alright, let's hear the entire conversation one more time from start to finish.",
+   "gap": 0.9
+  },
+  {
+   "v": "vika",
+   "t": "Макс, твои бабушка и дедушка у меня дома.",
+   "gap": 0.5
+  },
+  {
+   "v": "vika",
+   "t": "Решили сделать нам сюрприз.",
+   "gap": 0.5
+  },
+  {
+   "v": "anya",
+   "t": "Ты им ничего не говорила?",
+   "gap": 0.5
+  },
+  {
+   "v": "vika",
+   "t": "Нет. И ты, как я поняла, тоже.",
+   "gap": 0.5
+  },
+  {
+   "v": "guest",
+   "t": "Вика, понимаешь, я бритву дома забыл.",
+   "gap": 0.5
+  },
+  {
+   "v": "guest",
+   "t": "Хочу перед обследованием побриться.",
+   "gap": 0.5
+  },
+  {
+   "v": "vika",
+   "t": "Кажется, закончились у него бритвы. А что за обследование?",
+   "gap": 0.5
+  },
+  {
+   "v": "guest",
+   "t": "Мы сердце хотим обследовать.",
+   "gap": 0.5
+  },
+  {
+   "v": "anya",
+   "t": "Привези их, пожалуйста, сюда в отель.",
+   "gap": 0.5
+  },
+  {
+   "v": "anya",
+   "t": "Я сам им всё объясню.",
+   "gap": 0.5
+  },
+  {
+   "v": "guest",
+   "t": "Здравствуйте, где найти шеф-повара?",
+   "gap": 0.5
+  },
+  {
+   "v": "anya",
+   "t": "Вот он в шахматы играет.",
+   "gap": 0.9
+  },
+  {
+   "v": "narrator",
+   "t": "That brings the phone call and apartment scene to a close. Notice how Max asks Vika to bring his grandparents to the hotel while a job applicant arrives looking for Chef Barinov. See you next time!",
+   "gap": 0.5
+  },
+  {
+   "v": "anya",
+   "t": "До завтра!",
+   "gap": 0.3
+  }
+ ],
+ "source": {
+  "show": "Кухня (Kukhnya) S5.11",
+  "file": "sources/kukhnya/s05/e11.ru.srt",
+  "lines": [
+   {
+    "line": 0,
+    "cue": 16,
+    "fragment": "Макс, твои бабушка и дедушка у меня дома"
+   },
+   {
+    "line": 1,
+    "cue": 17,
+    "fragment": "Решили сделать нам сюрприз"
+   },
+   {
+    "line": 2,
+    "cue": 18,
+    "fragment": "Ты им ничего не говорила"
+   },
+   {
+    "line": 3,
+    "cue": 18,
+    "fragment": "Нет"
+   },
+   {
+    "line": 3,
+    "cue": 19,
+    "fragment": "И ты, как я поняла, тоже"
+   },
+   {
+    "line": 4,
+    "cue": 20,
+    "fragment": "Вика"
+   },
+   {
+    "line": 4,
+    "cue": 21,
+    "fragment": "Понимаешь, я бритву дома забыл"
+   },
+   {
+    "line": 5,
+    "cue": 23,
+    "fragment": "Хочу перед обследованием побриться"
+   },
+   {
+    "line": 6,
+    "cue": 24,
+    "fragment": "кажется, действительно закончились у него бритвы"
+   },
+   {
+    "line": 6,
+    "cue": 25,
+    "fragment": "А что за обследование"
+   },
+   {
+    "line": 7,
+    "cue": 28,
+    "fragment": "Мы сердце хотим обследовать"
+   },
+   {
+    "line": 8,
+    "cue": 29,
+    "fragment": "привези их, пожалуйста, сюда в отель"
+   },
+   {
+    "line": 9,
+    "cue": 30,
+    "fragment": "И сам им все объясню"
+   },
+   {
+    "line": 10,
+    "cue": 35,
+    "fragment": "Здравствуйте. Где найти шеф-повара"
+   },
+   {
+    "line": 11,
+    "cue": 36,
+    "fragment": "Вот он в шахматы играет"
+   }
+  ]
+ }
 }

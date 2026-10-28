@@ -1,39 +1,39 @@
-# kukhnya-s01e11-scene-15: review sheet
+# Счастливый столик  (The Lucky Table) — `kukhnya-s01e11-scene-15`
 
-Title: Счастливый столик  (The Lucky Table)
-Level: A1 — Duolingo Section 2
-Pair: ru-en
-Source: Кухня (The Kitchen) S1.11
+**Source:** Кухня (Kukhnya) S1.11 · `sources/kukhnya/s01/e11.ru.dual.srt`  
+**Target level:** A1 — Duolingo Section 2
 
+## Cast
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+| Role | Voice | Label |
+|---|---|---|
+| `narrator` | sky | — |
+| `chef` | anja | Шеф |
+| `vika` | angelina | Вика |
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+## Part 1 — Intro
+
+> To flatter the suspected critic, the front-of-house staff presents her with a complimentary dish from the lucky table promotion. When the woman rejects the restaurant's salad anyway, an infuriated Chef Barinov rushes out to defend his culinary honor. Let's listen to their conversation in Russian.
+
+## Part 2 — Story
+
+| # | Speaker | Line | English | Source cue(s) | Change |
 |---|---|---|---|---|---|
-| 1 | Вика | Витя, у нас в зале большая беда. | Vitya, we have big trouble in the dining room. | #179 00:12:51: Витя! | adapted: reporting dining room crisis |
-| 2 | Шеф | Ну что ещё там такое плохое случилось? | Well, what bad thing happened out there now? | #180 00:12:53: Ну что еще? | adapted: asking impatiently |
-| 3 | Вика | Та гостья снова полностью отказалась от салата. | That female guest again completely refused the salad. | #180 00:12:53: Гостья снова отказалась от салата | adapted: reporting rejected dish |
-| 4 | Шеф | Как отказалась, ведь это наш фирменный рецепт! | How refused, after all, this is our signature recipe! | #181 00:12:57: Как отказалась? | adapted: defending signature recipe |
-| 5 | Вика | Она сказала, что блюдо ей совсем не понравилось. | She said she did not like the dish at all. | #181 00:12:57: Она сказала, что он ей тоже не понравился | adapted: quoting harsh feedback |
-| 6 | Шеф | Она что, совсем потеряла свою глупую голову? | Did she completely lose her silly mind? | #182 00:13:00: Она что, охренела-то? | adapted: exploding in rage |
-| 7 | Вика | Витя, куда ты так быстро и сердито идёшь? | Vitya, where are you going so quickly and angrily? | #183 00:13:02: Ты куда? | adapted: trying to hold him back |
-| 8 | Шеф | Я сам пойду прямо в зал и разберусь! | I will go straight into the dining room myself and handle it! | #183 00:13:02: Туда!<br>#186 00:13:09: Вот и разберемся | adapted: storming out of kitchen |
-| 9 | Вика | Стой, нам сейчас совершенно не нужен громкий скандал! | Stop, we do not need a loud scandal right now at all! | #184 00:13:04: нам сейчас не нужен скандал | adapted: warning against confrontation |
-| 10 | Шеф | Никто не смеет оскорблять мою высокую кухню! | Nobody dares insult my haute cuisine! | #186 00:13:09: Шеф! Витя! | adapted: defending culinary pride |
-| 11 | Вика | Там сидит критик, умей спокойно признавать ошибки. | A critic is sitting there, learn to calmly admit mistakes. | #185 00:13:05: В зале критик<br>#187 00:13:11: Умейте признавать свои ошибки | adapted: urging professional restraint |
-| 12 | Шеф | Заткнись, Вика, я никогда не делаю ошибок! | Shut up, Vika, I never make mistakes! | #188 00:13:14: Заткнись | adapted: snapping in defiance |
+| 0 | Вика | Витя, у нас в зале большая беда. | Vitya, we have big trouble in the dining room. | #179 "Витя!" |  |
+| 1 | Шеф | Ну что ещё там такое плохое случилось? | Well, what bad thing happened out there now? | #180 "Ну что еще?" |  |
+| 2 | Вика | Та гостья снова полностью отказалась от салата. | That female guest again completely refused the salad. | #180 "Гостья снова отказалась от салата" |  |
+| 3 | Шеф | Как отказалась, ведь это наш фирменный рецепт! | How refused, after all, this is our signature recipe! | #181 "Как отказалась?" |  |
+| 4 | Вика | Она сказала, что блюдо ей совсем не понравилось. | She said she did not like the dish at all. | #181 "Она сказала, что он ей тоже не понравился" |  |
+| 5 | Шеф | Она что, совсем потеряла свою глупую голову? | Did she completely lose her silly mind? | #182 "Она что, охренела-то?" |  |
+| 6 | Вика | Витя, куда ты так быстро и сердито идёшь? | Vitya, where are you going so quickly and angrily? | #183 "Ты куда?" |  |
+| 7 | Шеф | Я сам пойду прямо в зал и разберусь! | I will go straight into the dining room myself and handle it! | #183 "Туда!", #186 "Вот и разберемся" |  |
+| 8 | Вика | Стой, нам сейчас совершенно не нужен громкий скандал! | Stop, we do not need a loud scandal right now at all! | #184 "нам сейчас не нужен скандал" |  |
+| 9 | Шеф | Никто не смеет оскорблять мою высокую кухню! | Nobody dares insult my haute cuisine! | #186 "Шеф! Витя!" |  |
+| 10 | Вика | Там сидит критик, умей спокойно признавать ошибки. | A critic is sitting there, learn to calmly admit mistakes. | #185 "В зале критик", #187 "Умейте признавать свои ошибки" |  |
+| 11 | Шеф | Заткнись, Вика, я никогда не делаю ошибок! | Shut up, Vika, I never make mistakes! | #188 "Заткнись" |  |
 
-## Walk-through narration (English only, no target-language words quoted)
+## Part 5 — Outro & closing
 
-- 'Vitya, we have big trouble in the dining room.' Direct address with prepositional phrase, locative phrase, and nominative subject phrase.
-- 'Well, what bad thing happened out there now?' Interjection with interrogative pronoun, temporal adverb, locative adverb, demonstrative phrase, and past verb.
-- 'That female guest again completely refused the salad.' Demonstrative subject phrase with temporal adverb, degree adverb, past verb, and prepositional phrase.
-- 'How refused, after all, this is our signature recipe!' Interrogative adverb with past verb and explanatory clause containing demonstrative pronoun and predicate phrase.
-- 'She said she did not like the dish at all.' Subject pronoun with past verb and subordinate clause with subject noun, dative pronoun, degree adverb, and negated verb.
-- 'Did she completely lose her silly mind?' Subject pronoun with interrogative particle, degree adverb, past verb, and accusative noun phrase.
-- 'Vitya, where are you going so quickly and angrily?' Direct address with directional interrogative, subject pronoun, coordinated adverbs, and present motion verb.
-- 'I will go straight into the dining room myself and handle it!' Subject pronoun with intensive pronoun, future motion verb, directional locative phrase, and future verb.
-- 'Stop, we do not need a loud scandal right now at all!' Imperative motion verb with dative pronoun, temporal adverb, degree adverb, and negative predicate adjective phrase.
-- 'Nobody dares insult my haute cuisine!' Negative subject pronoun with negated present modal verb, imperfective infinitive, and compound accusative noun phrase.
-- 'A critic is sitting there, learn to calmly admit mistakes.' Locative adverb with present verb, subject noun, imperative modal verb, manner adverb, infinitive, and object.
-- 'Shut up, Vika, I never make mistakes!' Imperative verb with direct address, subject pronoun, negative adverb, present verb, and genitive plural object noun.
+> Unable to control his culinary fury, Chef Barinov charges into the dining room ready to confront the mysterious critic. Great work practicing conversational Russian! Next time you watch the episode, listen for the Russian expressions for 'trouble' and 'dish' — you will catch every word right away. See you next time!
+
+**Шеф:** Пока!

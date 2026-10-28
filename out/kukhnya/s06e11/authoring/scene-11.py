@@ -1,32 +1,32 @@
 ID = 'kukhnya-s06e11-scene-11'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 11
 SCENE = 11
 TITLE = "Ультиматум Дягилева  (Dyagilev's Ultimatum)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'gost': 'anja', 'fedya': 'angelina'}
-LABELS = {'anya': 'Катя', 'gost': 'Гость', 'fedya': 'Федя'}
-SOURCE_NAME = "Кухня (Kukhnya) S6.11"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "guest": "anja", "katya": "angelina"}
+LABELS = {"guest": "Гость", "katya": "Катя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S6.11'
 SOURCE_FILE = 'sources/kukhnya/s06/e11.ru.srt'
 
 INTRO = 'Right after Katya catches two cherries in her mouth at once, Andrey Dyagilev steps into the kitchen and asks to speak with her privately. Assuming she is just an ordinary cook, he demands that she break up with Nikita immediately or he will ruin her life.'
 
 STORY = [
-    ('fedya', 'Давай, бросай скорее на счёт три, четыре!', 'Come on, throw them quickly on the count of three, four!', [(193, 'Давай, три, четыре')], 'adapted'),
-    ('anya', 'Ура, смотрите все, мы сегодня честно победили!', 'Hooray, look everyone, we won fair and square today!', [(194, 'Мы победили')], 'adapted'),
-    ('fedya', 'Катя, это было просто невероятно круто!', 'Katya, that was simply incredibly cool!', [(195, 'круто')], 'adapted'),
-    ('gost', 'Здравствуйте, Катя, можно вас буквально на два слова?', 'Hello, Katya, may I have literally two words with you?', [(196, 'можно вас на два слова')], 'adapted'),
-    ('gost', 'Вы поймите, я ничего не имею против вас.', 'Understand me, I have nothing against you.', [(197, 'я ничего не имею против вас')], 'adapted'),
-    ('gost', 'Наверняка найдётся парень, который будет вами гордиться.', 'Surely a guy will be found who will be proud of you.', [(198, 'Наверняка найдется парень, который будет гордиться')], 'adapted'),
-    ('gost', 'Что его девушка умеет ловить ртом две вишни.', 'That his girlfriend knows how to catch two cherries with her mouth.', [(199, 'что его девушка умеет ловить ртом две вишни одновременно')], 'adapted'),
-    ('gost', 'Но этим парнем точно будет не мой сын.', 'But that guy will definitely not be my son.', [(200, 'Но этим парнем точно будет не мой сын')], 'adapted'),
-    ('anya', 'Мне кажется, это Никита должен сам решать.', 'It seems to me that Nikita should decide that himself.', [(201, 'Мне кажется, это он должен сам решать')], 'adapted'),
-    ('gost', 'Нет, вы должны немедленно расстаться с Никитой.', 'No, you must break up with Nikita immediately.', [(202, 'Вы должны расстаться с Никитой')], 'adapted'),
-    ('gost', 'И на вашем месте я бы промолчал о разговоре.', 'And in your place I would keep quiet about our conversation.', [(203, 'И на вашем месте я бы не говорил ему о нашем разговоре')], 'adapted'),
-    ('gost', 'Иначе я очень быстро испорчу вам всю жизнь.', 'Otherwise I will very quickly ruin your whole life.', [(204, 'Иначе я испорчу вам жизнь')], 'adapted'),
-    ('anya', 'Скажите прямо, это сейчас была настоящая угроза?', 'Tell me straight, was that a real threat just now?', [(205, 'А это угроза')], 'adapted'),
+    ('guest', 'Давай, бросай скорее на счёт три, четыре!', 'Come on, throw them quickly on the count of three, four!', [(193, 'Давай, три, четыре')], 'adapted'),
+    ('katya', 'Ура, смотрите все, мы сегодня честно победили!', 'Hooray, look everyone, we won fair and square today!', [(194, 'Мы победили')], 'adapted'),
+    ('guest', 'Катя, это было просто невероятно круто!', 'Katya, that was simply incredibly cool!', [(195, 'круто')], 'adapted'),
+    ('guest', 'Здравствуйте, Катя, можно вас буквально на два слова?', 'Hello, Katya, may I have literally two words with you?', [(196, 'можно вас на два слова')], 'adapted'),
+    ('guest', 'Вы поймите, я ничего не имею против вас.', 'Understand me, I have nothing against you.', [(197, 'я ничего не имею против вас')], 'adapted'),
+    ('guest', 'Наверняка найдётся парень, который будет вами гордиться.', 'Surely a guy will be found who will be proud of you.', [(198, 'Наверняка найдется парень, который будет гордиться')], 'adapted'),
+    ('guest', 'Что его девушка умеет ловить ртом две вишни.', 'That his girlfriend knows how to catch two cherries with her mouth.', [(199, 'что его девушка умеет ловить ртом две вишни одновременно')], 'adapted'),
+    ('guest', 'Но этим парнем точно будет не мой сын.', 'But that guy will definitely not be my son.', [(200, 'Но этим парнем точно будет не мой сын')], 'adapted'),
+    ('katya', 'Мне кажется, это Никита должен сам решать.', 'It seems to me that Nikita should decide that himself.', [(201, 'Мне кажется, это он должен сам решать')], 'adapted'),
+    ('guest', 'Нет, вы должны немедленно расстаться с Никитой.', 'No, you must break up with Nikita immediately.', [(202, 'Вы должны расстаться с Никитой')], 'adapted'),
+    ('guest', 'И на вашем месте я бы промолчал о разговоре.', 'And in your place I would keep quiet about our conversation.', [(203, 'И на вашем месте я бы не говорил ему о нашем разговоре')], 'adapted'),
+    ('guest', 'Иначе я очень быстро испорчу вам всю жизнь.', 'Otherwise I will very quickly ruin your whole life.', [(204, 'Иначе я испорчу вам жизнь')], 'adapted'),
+    ('katya', 'Скажите прямо, это сейчас была настоящая угроза?', 'Tell me straight, was that a real threat just now?', [(205, 'А это угроза')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -48,5 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Unknown to Dyagilev, Nastya overhears his every word to Katya, while his assistant accidentally delivers an envelope of cash to the wrong Barinov brother. See you in the next scene.'
-CLOSING = ('anya', 'Никита должен сам это решать!')
+OUTRO = 'Unknown to Dyagilev, Nastya overhears his every word to Katya, while his assistant accidentally delivers an envelope of cash to the wrong Barinov brother. Until next time!'
+CLOSING = ("katya", "До свидания!")

@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e20-scene-14'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 20
 SCENE = 14
-TITLE = 'Обман раскрыт и сломанная нога  (The Lie Exposed and a Broken Leg)'
+TITLE = "Обман раскрыт и сломанная нога  (The Lie Exposed and a Broken Leg)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja', 'kostya': 'angelina'}
-LABELS = {'anya': 'Макс', 'vika': 'Вика', 'kostya': 'Костя'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.20"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "vika": "angelina", "kostya": "anja"}
+LABELS = {"anya": "Макс", "vika": "Вика", "kostya": "Костя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.20'
 SOURCE_FILE = 'sources/kukhnya/s03/e20.ru.srt'
 
 INTRO = 'After the dance rehearsal, Nastya suggests going out to eat, and Max casually mentions that Senya got drunk at the Mexican restaurant last week! Realizing Max faked his amnesia, Vika and Kostya are furious.'
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "In a single slip of the tongue, Max loses Vika again, puts Kostya's foot in a cast on the eve of his wedding, and gets banished by his best friend."
-CLOSING = ('vika', 'Ты совсем не потерял память?')
+OUTRO = "In a single slip of the tongue, Max loses Vika again, puts Kostya's foot in a cast on the eve of his wedding, and gets banished by his best friend. See you next time!"
+CLOSING = ("vika", "До встречи!")

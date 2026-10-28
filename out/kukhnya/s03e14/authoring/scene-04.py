@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e14-scene-04'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 14
 SCENE = 4
-TITLE = 'Икота и седьмой столик  (Hiccups and Table Seven)'
+TITLE = "Икота и седьмой столик  (Hiccups and Table Seven)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'senya': 'anja', 'kostya': 'angelina'}
-LABELS = {'anya': 'Макс', 'senya': 'Сеня', 'kostya': 'Костя'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.14"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "senya": "angelina", "kostya": "anja"}
+LABELS = {"anya": "Макс", "senya": "Сеня", "kostya": "Костя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.14'
 SOURCE_FILE = 'sources/kukhnya/s03/e14.ru.srt'
 
 INTRO = 'In the kitchen, Senya pounds Max on the back to stop his hiccups, and Max tries holding his breath—until Kostya announces that the guests at Table Seven want the big-eared, impudent cook. Listen to the Russian dialogue first.'
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "The rude driver from the courtyard is now sitting right inside the dining room at Table Seven with his friends! Let's see how Max handles the confrontation."
-CLOSING = ('kostya', 'Сказали, позовите повара.')
+OUTRO = "The rude driver from the courtyard is now sitting right inside the dining room at Table Seven with his friends! Let's see how Max handles the confrontation. See you next time!"
+CLOSING = ("kostya", "Всего хорошего!")

@@ -32,7 +32,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'That is very funny, Dmitry Vladimirovich.' Chef Barinov anchors the line on 'this', while 'ridiculous' completes the thought.
 - 'You have started joking too often.' Notice how Russian expresses 'you' and 'to joke' with crisp inflection rather than helper words.
 - 'You love to joke every day.' Chef Barinov brings out the contrast between 'love' and 'you' in a few short words.
-- 'A guest is asking for you in the dining room.' In Russian, the idea of 'you' flows naturally into 'guest' without extra filler words.
+- 'A guest is asking for you in the dining room.' Chef Barinov pairs 'hall' with 'guest' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
 - 'I said that you are here.' Here the Russian phrasing highlights 'I' before landing on 'here'. Dmitry Nagiyev answers right away.
 - 'Let us go, Viktoria Sergeyevna, and drink coffee.' Notice how Russian expresses 'let's go' and 'coffee' with crisp inflection rather than helper words.
 - 'Leave our old chef alone.' Here the Russian phrasing highlights 'leave' before landing on 'alone'.

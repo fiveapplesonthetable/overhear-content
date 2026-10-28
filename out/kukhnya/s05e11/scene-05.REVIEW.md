@@ -16,12 +16,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 4 | Аня | Бабуль, перестань! Ну какой на полу? | Granny, stop it! What do you mean on the floor? | #80 00:04:58: Бабуль, перестань. Ну, какой на полу | adapted: adapted |
 | 5 | Аня | Переночуйте здесь с комфортом. | Spend the night here in comfort. | #81 00:05:01: Переночуйте здесь с комфортом | adapted: adapted |
 | 6 | Аня | Здравствуйте, Михаил Джекович. | Hello, Mikhail Dzhekovich. | #83 00:05:08: Михаил Джекович | adapted: adapted |
-| 7 | Михаил | Добрый день. | Good afternoon. | #84 00:05:10: Добрый день | adapted: adapted |
+| 7 | Гость | Добрый день. | Good afternoon. | #84 00:05:10: Добрый день | adapted: adapted |
 | 8 | Гость | Люба. Добрый день! | Lyuba. Good afternoon! | #84 00:05:10: Люба<br>#85 00:05:13: Добрый день | adapted: adapted |
 | 9 | Гость | А по-русски как хорошо разговаривает, да? | And how well he speaks Russian, right? | #86 00:05:15: А по-русски-то как разговаривает, да | adapted: adapted |
 | 10 | Аня | Пойдёмте в номер. | Let us go to the room. | #87 00:05:17: Пойдемте, пойдемте | adapted: adapted |
-| 11 | Михаил | Приятного отдыха! | Have a pleasant stay! | #85 00:05:13: Добрый день | adapted: adapted |
-| 12 | Гость | Спасибо большое. | Thank you very much. | #37 00:02:23: Спасибо | adapted: adapted |
+| 11 | Гость | Приятного отдыха! | Have a pleasant stay! | #85 00:05:13: Добрый день | adapted: adapted |
+| 12 | Гость | Спасибо большое. | Thank you very much. | new | new |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

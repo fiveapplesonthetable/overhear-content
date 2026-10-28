@@ -1,25 +1,25 @@
 ID = 'kukhnya-s06e07-scene-02'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 7
 SCENE = 2
-TITLE = 'Караван и оазис  (The Caravan and the Oasis)'
+TITLE = "Караван и оазис  (The Caravan and the Oasis)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'ainura': 'anja', 'elena': 'angelina'}
-LABELS = {'anya': 'Гуля', 'ainura': 'Айнура', 'elena': 'Елена'}
-SOURCE_NAME = "Кухня (Kukhnya) S6.07"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "elena": "angelina", "gulya": "anja"}
+LABELS = {"elena": "Елена", "gulya": "Гуля"}
+SOURCE_NAME = 'Кухня (Kukhnya) S6.07'
 SOURCE_FILE = 'sources/kukhnya/s06/e07.ru.srt'
 
 INTRO = 'At the end of the shift, Ainura teases her niece Gulya about her slow-moving romance with Lyova, while Elena calls her doctor friend Anya to describe Victor.'
 
 STORY = [
-    ('anya', 'Ты уже закончил работу, Лёва?', 'Have you finished work already, Lyova?', [(24, 'Ты закончил')], 'adapted'),
-    ('ainura', 'Нам ещё надо все плиты мыть.', 'We still need to wash all the stoves.', [(27, 'Нам надо плиты мыть')], 'adapted'),
-    ('ainura', 'Странные какие-то отношения у вас двоих.', 'The two of you have a rather strange relationship.', [(29, 'Странные какие-то отношения у вас')], 'adapted'),
-    ('anya', 'Просто Лёва немного робкий и хороший.', 'Lyova is simply a bit shy and kind.', [(31, 'немного робкий, но он очень хороший')], 'adapted'),
-    ('anya', 'Мы с этим делом не спешим.', 'We are not rushing into that.', [(35, 'Мы с этим не спешим')], 'adapted'),
-    ('ainura', 'Хорошо тебя дома родители воспитали.', 'Your parents raised you well at home.', [(36, 'Хорошо тебя родители воспитали')], 'adapted'),
+    ('gulya', 'Ты уже закончил работу, Лёва?', 'Have you finished work already, Lyova?', [(24, 'Ты закончил')], 'adapted'),
+    ('elena', 'Нам ещё надо все плиты мыть.', 'We still need to wash all the stoves.', [(27, 'Нам надо плиты мыть')], 'adapted'),
+    ('elena', 'Странные какие-то отношения у вас двоих.', 'The two of you have a rather strange relationship.', [(29, 'Странные какие-то отношения у вас')], 'adapted'),
+    ('gulya', 'Просто Лёва немного робкий и хороший.', 'Lyova is simply a bit shy and kind.', [(31, 'немного робкий, но он очень хороший')], 'adapted'),
+    ('gulya', 'Мы с этим делом не спешим.', 'We are not rushing into that.', [(35, 'Мы с этим не спешим')], 'adapted'),
+    ('elena', 'Хорошо тебя дома родители воспитали.', 'Your parents raised you well at home.', [(36, 'Хорошо тебя родители воспитали')], 'adapted'),
     ('elena', 'Завтра в два часа в поликлинике?', "Tomorrow at two o'clock at the clinic?", [(39, 'Завтра в два в поликлинике')], 'adapted'),
     ('elena', 'Да, это время нам отлично подходит.', 'Yes, that time suits us very well.', [(40, 'Да, нам подходит')], 'adapted'),
     ('elena', 'Это мой очень близкий друг.', 'He is my very close friend.', [(41, 'Это мой друг близкий')], 'adapted'),
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "With Elena describing Victor's famous mustache to the chief doctor, Chef Barinov starts plotting a way out of the clinic visit. See you in the next scene."
-CLOSING = ('elena', 'Завтра пойдёшь к врачу в два.')
+OUTRO = "With Elena describing Victor's famous mustache to the chief doctor, Chef Barinov starts plotting a way out of the clinic visit. See you next time!"
+CLOSING = ("elena", "Всего хорошего!")

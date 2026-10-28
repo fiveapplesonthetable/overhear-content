@@ -1,38 +1,38 @@
 ID = 'kukhnya-s06e06-scene-20'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 6
 SCENE = 20
-TITLE = 'Спрятанный бумажник  (The Hidden Wallet)'
+TITLE = "Спрятанный бумажник  (The Hidden Wallet)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'nastya': 'anja', 'gost': 'angelina'}
-LABELS = {'anya': 'Костя', 'nastya': 'Настя', 'gost': 'Гость'}
-SOURCE_NAME = "Кухня (Kukhnya) S6.06"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "kostya": "anja", "nastya": "angelina"}
+LABELS = {"kostya": "Костя", "nastya": "Настя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S6.06'
 SOURCE_FILE = 'sources/kukhnya/s06/e06.ru.srt'
 
 INTRO = 'In the final scene of episode six, Kostya comes home with a bandaged nose to apologize to his father, until he reaches onto the top shelf of the new wardrobe.'
 
 STORY = [
-    ('anya', 'Я хотел искренне извиниться перед вами.', 'I wanted to sincerely apologize to you.', [(315, 'я это хотел извиниться')], 'adapted'),
-    ('anya', 'За телевизор и за слова про маму.', 'For the television and for the words about mom.', [(316, 'Телевизор и за то, что про маму сказал')], 'adapted'),
+    ('kostya', 'Я хотел искренне извиниться перед вами.', 'I wanted to sincerely apologize to you.', [(315, 'я это хотел извиниться')], 'adapted'),
+    ('kostya', 'За телевизор и за слова про маму.', 'For the television and for the words about mom.', [(316, 'Телевизор и за то, что про маму сказал')], 'adapted'),
     ('nastya', 'Ну что, мы сегодня простим его?', 'Well then, shall we forgive him today?', [(317, 'простим его')], 'adapted'),
-    ('gost', 'Простим и горячего чая ему нальём.', 'We will forgive him and pour him hot tea.', [(319, 'Простим'), (319, 'чая нальём')], 'adapted'),
-    ('anya', 'Поехали лучше сейчас новый телевизор купим.', 'Let us go buy a new television right now instead.', [(320, 'поехали лучше новый телек купим')], 'adapted'),
-    ('anya', 'Я уже у друзей денег занял.', 'I already borrowed money from friends.', [(321, 'Я денег занял')], 'adapted'),
-    ('anya', 'Настя, а где лежат мои джинсы?', 'Nastya, and where are my jeans?', [(323, 'Настя, где мои джинсы')], 'adapted'),
+    ('kostya', 'Простим и горячего чая ему нальём.', 'We will forgive him and pour him hot tea.', [(319, 'Простим'), (319, 'чая нальём')], 'adapted'),
+    ('kostya', 'Поехали лучше сейчас новый телевизор купим.', 'Let us go buy a new television right now instead.', [(320, 'поехали лучше новый телек купим')], 'adapted'),
+    ('kostya', 'Я уже у друзей денег занял.', 'I already borrowed money from friends.', [(321, 'Я денег занял')], 'adapted'),
+    ('kostya', 'Настя, а где лежат мои джинсы?', 'Nastya, and where are my jeans?', [(323, 'Настя, где мои джинсы')], 'adapted'),
     ('nastya', 'Я убрала вещи на верхнюю полку.', 'I put the clothes away on the top shelf.', [(324, 'на верхней полке')], 'adapted'),
-    ('anya', 'Ведь этот бумажник он вчера потерял!', 'After all, this is the wallet he lost yesterday!', [(325, 'Этот бумажник он потерял')], 'adapted'),
+    ('kostya', 'Ведь этот бумажник он вчера потерял!', 'After all, this is the wallet he lost yesterday!', [(325, 'Этот бумажник он потерял')], 'adapted'),
     ('nastya', 'Прости, это я сама его спрятала.', 'Forgive me, I hid it myself.', [(326, 'Прости'), (327, 'Это я спрятала')], 'adapted'),
     ('nastya', 'Думала, что вы так быстрее подружитесь.', 'I thought that you would become friends faster that way.', [(328, 'вы с ним быстрее подружитесь')], 'adapted'),
-    ('anya', 'Я хочу, чтобы он сейчас уехал!', 'I want him to leave right now!', [(330, 'А я хочу, чтобы через пять минут его здесь не было')], 'adapted'),
+    ('kostya', 'Я хочу, чтобы он сейчас уехал!', 'I want him to leave right now!', [(330, 'А я хочу, чтобы через пять минут его здесь не было')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
 
 WALK = [
     (0, None, "'I wanted to sincerely apologize to you.' Here the Russian phrasing highlights 'I' before landing on 'you'."),
-    (1, None, "'For the television and for the words about mom.' Kostya anchors the line on 'for', while 'Mama' completes the thought. Nastya answers right away."),
+    (1, None, "'For the television and for the words about mom.' Notice how Russian puts 'television, TV set' and 'Mama' together in a short, direct phrase where word endings show how the ideas connect."),
     (2, None, "'Well then, shall we forgive him today?' Here the Russian phrasing highlights 'come on' before landing on 'his'."),
     (3, None, "'We will forgive him and pour him hot tea.' The meaning hinges on 'to forgive' working together with 'will pour' in spoken Russian."),
     (4, None, "'Let us go buy a new television right now instead.' The plural past ending '-li' on the verb for 'here we go' covers a group or the polite 'you'."),
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Discovering that Nastya hid the wallet all along reignites the family chaos just as father and son had finally made peace. See you next time.'
-CLOSING = ('nastya', 'Я ведь как лучше хотела!')
+OUTRO = 'Discovering that Nastya hid the wallet all along reignites the family chaos just as father and son had finally made peace. See you next time!'
+CLOSING = ("nastya", "До завтра!")

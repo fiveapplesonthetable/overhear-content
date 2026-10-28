@@ -15,13 +15,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 3 | Михаил | Ничего, вы не беспокойтесь. Мы решим это. | It is nothing, do not worry. We will solve this. | #206 00:14:39: Ничего, вы не беспокойтесь<br>#207 00:14:42: Мы решим это | adapted: adapted |
 | 4 | Настя | Добрый день. Готовы делать заказ? | Good afternoon. Are you ready to place an order? | #208 00:14:50: Добрый день<br>#209 00:14:52: Готовы делать заказ | adapted: adapted |
 | 5 | Михаил | Да, пожалуйста, коктейль. | Yes, please, a cocktail. | #209 00:14:52: Да, пожалуйста, коктейли | adapted: adapted |
-| 6 | Михаил | Секс на пляже. | Sex on the Beach. | #210 00:14:54: Секс на пляже | adapted: adapted |
+| 6 | Михаил | Коктейль на пляже. | A beach cocktail. | #210 00:14:54: на пляже | adapted: adapted |
 | 7 | Аня | Вика сильно расстроилась. | Vika got very upset. | #211 00:14:56: Вика сильно расстроилась | adapted: adapted |
 | 8 | Аня | Как думаешь, я проверку сорвал? | What do you think, did I ruin the inspection? | #212 00:14:58: Как думаешь? Я, наверное, проверку сорвал | adapted: adapted |
 | 9 | Настя | Конечно сорвал, Макс. | Of course you ruined it, Max. | #212 00:14:58: проверку сорвал | adapted: adapted |
-| 10 | Настя | Костя, один коктейль Секс на пляже! | Kostya, one Sex on the Beach cocktail! | #213 00:15:01: Костя, один секс на пляже | adapted: adapted |
+| 10 | Настя | Костя, сделай один коктейль на пляже! | Kostya, make one beach cocktail! | #213 00:15:01: Костя, один<br>#213 00:15:01: на пляже | adapted: adapted |
 | 11 | Аня | Подожди, что она заказала? | Wait, what did she order? | #209 00:14:52: заказ | adapted: adapted |
-| 12 | Настя | Коктейль Секс на пляже. | A Sex on the Beach cocktail. | #210 00:14:54: Секс на пляже | adapted: adapted |
+| 12 | Настя | Пожалуйста, ваш коктейль. | Here you go, your cocktail. | #209 00:14:52: пожалуйста, коктейли | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -30,10 +30,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'It is nothing, do not worry. We will solve this.' The meaning hinges on 'nothing' working together with 'this' in spoken Russian.
 - 'Good afternoon. Are you ready to place an order?' In Russian, the idea of 'good' flows naturally into 'order' without extra filler words.
 - 'Yes, please, a cocktail.' Notice how Russian expresses 'yes' and 'cocktail' with crisp inflection rather than helper words.
-- 'Sex on the Beach.' Here the Russian phrasing highlights 'sex' before landing on 'beach'.
+- 'A beach cocktail.' In everyday Russian, 'cocktail' flows straight into 'beach' without extra linking words.
 - 'Vika got very upset.' The grammar packs 'Vika' and 'got upset' into a tight, idiomatic kitchen exchange.
 - 'What do you think, did I ruin the inspection?' Max anchors the line on 'how', while 'ruined' completes the thought. Nastya answers right away.
 - 'Of course you ruined it, Max.' Here the Russian phrasing highlights 'of course' before landing on 'Max'.
-- 'Kostya, one Sex on the Beach cocktail!' The meaning hinges on 'Kostya' working together with 'beach' in spoken Russian.
+- 'Kostya, make one beach cocktail!' In everyday Russian, 'make, do' flows straight into 'beach' without extra linking words.
 - 'Wait, what did she order?' The grammar packs 'wait' and 'to order' into a tight, idiomatic kitchen exchange. Nastya answers right away.
-- 'A Sex on the Beach cocktail.' Spoken Russian keeps this brisk, leaning on 'cocktail' and finishing on 'beach'.
+- 'Here you go, your cocktail.' Nastya uses a polite everyday Russian courtesy expression that sets the tone of the conversation right away.

@@ -1,23 +1,23 @@
 ID = 'kukhnya-s05e06-scene-10'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 6
 SCENE = 10
-TITLE = 'Побег через балкон  (Escape Across the Balcony)'
+TITLE = "Побег через балкон  (Escape Across the Balcony)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vrach': 'anja', 'katya': 'angelina'}
-LABELS = {'anya': 'Макс', 'vrach': 'Врач', 'katya': 'Катя'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.06"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "doctor": "anja", "katya": "angelina"}
+LABELS = {"anya": "Макс", "doctor": "Врач", "katya": "Катя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.06'
 SOURCE_FILE = 'sources/kukhnya/s05/e06.ru.srt'
 
 INTRO = "When Eleonora opens Katya's door, the psychologist stumbles out completely drunk and explains that Katya went out for fresh air. Out on the balcony, Katya spots security guards throwing Max out and climbs down to join him."
 
 STORY = [
-    ('vrach', 'Закончился алкоголь и прервалась атмосфера доверия.', 'The alcohol ran out and the atmosphere of trust was interrupted.', [(150, 'закончился алкоголь и прервалась атмосфера'), (151, 'доверия')], 'adapted'),
-    ('vrach', 'Вообще-то я не пью.', 'Actually, I do not drink.', [(153, 'Вообще-то я не пью')], 'adapted'),
-    ('vrach', 'Но у Екатерины Викторовны очень сложный случай.', 'But Yekaterina Victorovna turned out to be a very difficult case.', [(154, 'Но у Екатерины Викторовны оказался очень сложный случай')], 'adapted'),
-    ('vrach', 'Катя пошла подышать воздухом.', 'Katya went to get a breath of fresh air.', [(155, 'Катя пошла подышать воздухом')], 'adapted'),
+    ('doctor', 'Закончился алкоголь и прервалась атмосфера доверия.', 'The alcohol ran out and the atmosphere of trust was interrupted.', [(150, 'закончился алкоголь и прервалась атмосфера'), (151, 'доверия')], 'adapted'),
+    ('doctor', 'Вообще-то я не пью.', 'Actually, I do not drink.', [(153, 'Вообще-то я не пью')], 'adapted'),
+    ('doctor', 'Но у Екатерины Викторовны очень сложный случай.', 'But Yekaterina Victorovna turned out to be a very difficult case.', [(154, 'Но у Екатерины Викторовны оказался очень сложный случай')], 'adapted'),
+    ('doctor', 'Катя пошла подышать воздухом.', 'Katya went to get a breath of fresh air.', [(155, 'Катя пошла подышать воздухом')], 'adapted'),
     ('anya', 'Костян, меня обворовали, нет, не в Питере.', 'Kostyan, I got robbed, no, not in Saint Petersburg.', [(156, 'Костян'), (157, 'Нет, не в Питере')], 'adapted'),
     ('anya', 'Сейчас приду, давай.', 'I will come right now, bye.', [(158, 'сейчас приду, давай')], 'adapted'),
     ('anya', 'Что значит мне сюда нельзя?', 'What do you mean I am not allowed in here?', [(160, 'Вам сюда нельзя. Что значит нельзя')], 'adapted'),
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Sitting together after their respective disasters, Max and Katya commiserate over their broken hearts while Senya's fish inquiry heats up inside. See you in the next scene."
-CLOSING = ('katya', 'Пойдём выпьем со мной.')
+OUTRO = "Sitting together after their respective disasters, Max and Katya commiserate over their broken hearts while Senya's fish inquiry heats up inside. See you next time!"
+CLOSING = ("katya", "Увидимся!")

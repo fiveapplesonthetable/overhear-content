@@ -35,5 +35,5 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Oh, my fault, I accidentally dropped my cork.' In Russian, the idea of 'oh' flows naturally into 'traffic jam' without extra filler words.
 - 'The situation between us really does need to be cleared up right away.' Here the Russian phrasing highlights 'situation' before landing on 'to clarify'.
 - 'First, to you I am not Sergey, but Sergey Vladimirovich.' Max anchors the line on 'first of all', while 'Vladimirovich' completes the thought.
-- 'And second, I never drink with subordinates.' The grammar packs 'and' and 'with subordinates' into a tight, idiomatic kitchen exchange.
+- 'And second, I never drink with subordinates.' Notice how Russian puts 'second' and 'with subordinates' together in a short, direct phrase where word endings show how the ideas connect.
 - 'Try not to be late for work tomorrow morning.' Notice how Russian expresses 'try' and 'work' with crisp inflection rather than helper words.

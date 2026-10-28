@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e20-scene-05'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 20
 SCENE = 5
-TITLE = 'Лицо ресторана, а не желудок  (The Face of the Restaurant, Not Its Stomach)'
+TITLE = "Лицо ресторана, а не желудок  (The Face of the Restaurant, Not Its Stomach)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'nagiyev': 'anja', 'guest': 'angelina'}
-LABELS = {'anya': 'Макс', 'nagiyev': 'Нагиев', 'guest': 'Инспектор'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.20"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "nagiyev": "angelina", "anya": "alisa"}
+LABELS = {"nagiyev": "Нагиев", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.20'
 SOURCE_FILE = 'sources/kukhnya/s03/e20.ru.srt'
 
 INTRO = 'When Nagiyev orders a feast for himself and his date, crisis manager Sergey slashes his discount from fifty to twenty percent—telling him he is the face of Claude Monet, not its stomach! Furious, Nagiyev vows to buy the restaurant back.'
@@ -17,10 +17,10 @@ STORY = [
     ('nagiyev', 'Ой, ребята, как вам идут эти новые шапки!', 'Oh, guys, how well these new caps suit you!', [(85, 'как вам шапки идут, ребята')], 'adapted'),
     ('nagiyev', 'У вас теперь такой строгий мужественный вид.', 'You have such a strict, manly look now.', [(86, 'Мужественный вид')], 'adapted'),
     ('nagiyev', 'Витя, я там в зал с дамой зашёл, приготовь поесть.', 'Vitya, I came into the dining room with a lady, cook something to eat.', [(86, 'я там с дамой зашел'), (87, 'Приготовь что-нибудь')], 'adapted'),
-    ('guest', 'Добрый день, Дмитрий Владимирович! Я просмотрел ваши заказы.', 'Good afternoon, Dmitry Vladimirovich! I reviewed your orders.', [(89, 'Добрый день, Дмитрий Владимирович'), (92, 'просмотрел ваши заказы')], 'adapted'),
-    ('guest', 'Вы слишком много едите, сокращаю вашу скидку.', 'You eat too much, I am reducing your discount.', [(93, 'Вы много едите'), (93, 'вашу скидку')], 'adapted'),
+    ('nagiyev', 'Добрый день, Дмитрий Владимирович! Я просмотрел ваши заказы.', 'Good afternoon, Dmitry Vladimirovich! I reviewed your orders.', [(89, 'Добрый день, Дмитрий Владимирович'), (92, 'просмотрел ваши заказы')], 'adapted'),
+    ('nagiyev', 'Вы слишком много едите, сокращаю вашу скидку.', 'You eat too much, I am reducing your discount.', [(93, 'Вы много едите'), (93, 'вашу скидку')], 'adapted'),
     ('nagiyev', 'Ты чего делаешь? Я же лицо этого ресторана!', 'What are you doing? I am the face of this restaurant!', [(94, 'Ты чего'), (95, 'Я лицо этого ресторана')], 'adapted'),
-    ('guest', 'Вот именно, вы лицо этого ресторана, а не его желудок.', 'Precisely, you are the face of this restaurant, not its stomach.', [(96, 'Вот именно. Вы лицо этого ресторана, а не его желудок')], 'adapted'),
+    ('nagiyev', 'Вот именно, вы лицо этого ресторана, а не его желудок.', 'Precisely, you are the face of this restaurant, not its stomach.', [(96, 'Вот именно. Вы лицо этого ресторана, а не его желудок')], 'adapted'),
     ('nagiyev', 'Андрей, он меня унизил прямо при моих поварах!', 'Andrey, he humiliated me right in front of my cooks!', [(97, 'Он меня унизил прямо при моих же поварах')], 'adapted'),
     ('anya', 'Дима, повара уже давно не твои, а Сергей прав.', 'Dima, the cooks have not been yours for a long time, and Sergey is right.', [(98, 'Дима, ну, во-первых, повара уже'), (98, 'не твои, а потом Сергей прав')], 'adapted'),
     ('anya', 'Ты в последнее время действительно очень много ешь.', 'You really do eat a lot lately.', [(99, 'Ты действительно очень много ешь')], 'adapted'),
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Nagiyev's pride is on the line—until Andrey Mikhailovich writes down the buyback price on a napkin."
-CLOSING = ('nagiyev', 'Я выкуплю назад свой ресторан!')
+OUTRO = "Nagiyev's pride is on the line—until Andrey Mikhailovich writes down the buyback price on a napkin. Until next time!"
+CLOSING = ("nagiyev", "Пока!")

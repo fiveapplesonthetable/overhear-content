@@ -1,14 +1,14 @@
 ID = 'kukhnya-s05e07-scene-14'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 7
 SCENE = 14
-TITLE = 'Ужин за счёт хозяина отеля  (Dinner on the Hotel Owner)'
+TITLE = "Ужин за счёт хозяина отеля  (Dinner on the Hotel Owner)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja', 'kostya': 'angelina'}
-LABELS = {'anya': 'Макс', 'vika': 'Вика', 'kostya': 'Костя'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.07"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "vika": "angelina", "anya": "alisa", "kostya": "anja"}
+LABELS = {"vika": "Вика", "anya": "Макс", "kostya": "Костя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.07'
 SOURCE_FILE = 'sources/kukhnya/s05/e07.ru.srt'
 
 INTRO = 'To teach Max a lesson for telling her yoga friends that he owns the hotel, Vika brings the entire group of hungry women to the restaurant and announces that her generous husband is treating everyone to dinner and fine wine.'
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Trapped by his own lie, Max smiles through gritted teeth as Vika encourages her friends to order the priciest dishes on the menu. See you in the next scene.'
-CLOSING = ('anya', 'Надеюсь, вам у нас понравится.')
+OUTRO = 'Trapped by his own lie, Max smiles through gritted teeth as Vika encourages her friends to order the priciest dishes on the menu. See you next time!'
+CLOSING = ("anya", "До свидания!")

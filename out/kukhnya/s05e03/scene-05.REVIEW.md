@@ -11,7 +11,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Элеонора | Нам нужно решить нашу деликатную проблему. | We need to solve our delicate problem. | #77 00:04:33: нам нужно решить нашу деликатную проблему | adapted: verbatim |
-| 2 | Аня | Мне надо с Катей поговорить. | I need to talk to Katya. | #78 00:04:38: надо с Катей поговорить | adapted: adapted |
+| 2 | Денис | Мне надо с Катей поговорить. | I need to talk to Katya. | #78 00:04:38: надо с Катей поговорить | adapted: adapted |
 | 3 | Элеонора | Ты что, совсем с ума сошёл? | Have you completely lost your mind? | #78 00:04:38: Ты же с ума сошел? | adapted: adapted |
 | 4 | Элеонора | Ладно, хорошо, я поняла. | Alright, good, I understood. | #81 00:04:47: Ладно, хорошо | adapted: adapted |
 | 5 | Элеонора | А я тоже тебя целую. | And I kiss you too. | #82 00:04:49: А я тоже тебя целую | adapted: verbatim |
@@ -20,7 +20,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 8 | Элеонора | А ещё лучше — из этого города. | And even better, from this city. | #85 00:04:59: А лучше из города | adapted: adapted |
 | 9 | Элеонора | Даю тебе двадцать тысяч. | I am giving you twenty thousand. | #86 00:05:01: тысяч | adapted: adapted |
 | 10 | Элеонора | Такая сумма тебя устроит? | Will that amount suit you? | #87 00:05:05: Тебя устроит? | adapted: adapted |
-| 11 | Аня | Нет, я пойду работать. | No, I am going back to work. | #87 00:05:05: Нет<br>#88 00:05:07: Пойду работать | adapted: adapted |
+| 11 | Денис | Нет, я пойду работать. | No, I am going back to work. | #87 00:05:05: Нет<br>#88 00:05:07: Пойду работать | adapted: adapted |
 | 12 | Элеонора | Тогда никуда не торопись. | Then do not be in a hurry. | #88 00:05:07: Тогда не торопись | adapted: adapted |
 | 13 | Элеонора | Ты с этого дня уволен. | As of today, you are fired. | #89 00:05:11: Ты уволен | adapted: adapted |
 
@@ -37,5 +37,5 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I am giving you twenty thousand.' Here the Russian phrasing highlights 'give' before landing on 'thousand'.
 - 'Will that amount suit you?' Eleonora addresses the listener with the informal singular 'you' alongside 'will suit'.
 - 'No, I am going back to work.' Here the Russian phrasing highlights 'no' before landing on 'to work'. Eleonora answers right away.
-- 'Then do not be in a hurry.' Notice the reflexive suffix on the verb meaning 'hurry', turning the action back on the subject.
-- 'As of today, you are fired.' In Russian, the idea of 'you' flows naturally into 'fired' without extra filler words.
+- 'Then do not be in a hurry.' Eleonora pairs 'then' with 'hurry' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
+- 'As of today, you are fired.' Notice how Russian puts 'day' and 'fired' together in a short, direct phrase where word endings show how the ideas connect.

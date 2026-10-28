@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | В твоём возрасте ещё смотрят сериалы? | At your age do people still watch TV series? | #169 00:13:14: в твоем возрасте еще смотрят | adapted: adapted |
+| 1 | Шеф | В твоём возрасте ещё смотрят сериалы? | At your age do people still watch TV series? | #169 00:13:14: в твоем возрасте еще смотрят | adapted: adapted |
 | 2 | Вика | Витя, между прочим, у нас проблемы. | Vitya, by the way, we have problems. | #170 00:13:18: Витя, между прочим, у нас проблемы | adapted: adapted |
 | 3 | Вика | На завтра заказали молекулярный банкет. | They ordered a molecular banquet for tomorrow. | #172 00:13:24: на завтра заказали молекулярный банкет | adapted: adapted |
-| 4 | Аня | А я тут при чём, иди к Кате. | What do I have to do with it, go to Katya. | #173 00:13:25: А я тут при чем? Иди вон к Кате | adapted: adapted |
+| 4 | Шеф | А я тут при чём, иди к Кате. | What do I have to do with it, go to Katya. | #173 00:13:25: А я тут при чем? Иди вон к Кате | adapted: adapted |
 | 5 | Вика | Она уже будет работать в другом месте. | She will already be working at another place. | #174 00:13:28: она уже будет работать в другом | adapted: adapted |
-| 6 | Аня | Почему это она такая быстрая? | Why is she so quick? | #176 00:13:35: она такая быстрая | adapted: adapted |
+| 6 | Шеф | Почему это она такая быстрая? | Why is she so quick? | #176 00:13:35: она такая быстрая | adapted: adapted |
 | 7 | Вика | Витя, попробуй её уговорить. | Vitya, try to persuade her. | #177 00:13:37: Витя, попробуй ее уговорить | adapted: adapted |
 | 8 | Вика | Пусть она останется и приготовит банкет. | Let her stay and prepare the banquet. | #178 00:13:40: Пусть она останется хотя бы на день и приготовит банкет | adapted: adapted |
-| 9 | Аня | Да не буду я её уговаривать. | I am not going to persuade her. | #179 00:13:44: Да не буду я ее уговаривать | adapted: adapted |
-| 10 | Аня | Она взрослый человек, это её решение. | She is a grown person, it is her decision. | #180 00:13:45: Она взрослый человек, это ее решение | adapted: adapted |
+| 9 | Шеф | Да не буду я её уговаривать. | I am not going to persuade her. | #179 00:13:44: Да не буду я ее уговаривать | adapted: adapted |
+| 10 | Шеф | Она взрослый человек, это её решение. | She is a grown person, it is her decision. | #180 00:13:45: Она взрослый человек, это ее решение | adapted: adapted |
 | 11 | Вика | Витя, а как же наш банкет? | Vitya, and what about our banquet? | #181 00:13:48: Витя, а как же банкет | adapted: adapted |
-| 12 | Аня | Я сам всё отлично сделаю. | I will do everything great myself. | #181 00:13:48: Я сам все сделаю | adapted: adapted |
-| 13 | Аня | Сказал, справлюсь, иди и не мешай. | I said I will manage, go and do not bother me. | #184 00:13:54: Сказал, справлюсь. Все, иди, не мешай | adapted: adapted |
+| 12 | Шеф | Я сам всё отлично сделаю. | I will do everything great myself. | #181 00:13:48: Я сам все сделаю | adapted: adapted |
+| 13 | Шеф | Сказал, справлюсь, иди и не мешай. | I said I will manage, go and do not bother me. | #184 00:13:54: Сказал, справлюсь. Все, иди, не мешай | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

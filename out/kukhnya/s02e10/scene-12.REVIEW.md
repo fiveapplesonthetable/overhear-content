@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Чтобы сто тысяч завтра у меня были. | Make sure I have the hundred thousand tomorrow. | #185 00:11:16: Чтобы сто тысяч завтра у меня были | verbatim |
+| 1 | Шеф | Чтобы сто тысяч завтра у меня были. | Make sure I have the hundred thousand tomorrow. | #185 00:11:16: Чтобы сто тысяч завтра у меня были | verbatim |
 | 2 | Лёва | Иначе разговаривать будем по-другому. | Otherwise we will be having a very different conversation. | #186 00:11:21: иначе разговаривать будем по-другому | verbatim |
-| 3 | Аня | Ну что ты так волнуешься? | Why are you worrying so much? | #187 00:11:26: Ну что ты так волнуешься | verbatim |
+| 3 | Шеф | Ну что ты так волнуешься? | Why are you worrying so much? | #187 00:11:26: Ну что ты так волнуешься | verbatim |
 | 4 | Лёва | Не ты же занимал. | You are not the one who borrowed it. | #188 00:11:28: Не ты же занимал | verbatim |
-| 5 | Аня | Ага, занимал не я. | Yeah, right, I was not the one who borrowed it. | #189 00:11:30: Ага, занимал не я | verbatim |
+| 5 | Шеф | Ага, занимал не я. | Yeah, right, I was not the one who borrowed it. | #189 00:11:30: Ага, занимал не я | verbatim |
 | 6 | Лёва | Шеф-то в больнице с него что возьмешь? | The Chef is in the hospital, what can you get from him now? | #190 00:11:31: Шеф-то в больнице с него что возьмешь | verbatim |
-| 7 | Аня | Да что ты разволновался? | Why are you getting so worked up? | #191 00:11:34: Да что ты разволновался | verbatim |
+| 7 | Шеф | Да что ты разволновался? | Why are you getting so worked up? | #191 00:11:34: Да что ты разволновался | verbatim |
 | 8 | Лёва | Ой, а я за. | Oh, I am in. | #193 00:11:38: Ой, а я за | verbatim |
-| 9 | Аня | Вот, вот, десять тысяч. | Here, take ten thousand. | #194 00:11:42: Вот, вот, десять тысяч | verbatim |
+| 9 | Шеф | Вот, вот, десять тысяч. | Here, take ten thousand. | #194 00:11:42: Вот, вот, десять тысяч | verbatim |
 | 10 | Лёва | Что вы мне так смотрите? | Why are you all looking at me like that? | #195 00:11:53: Что вы мне так смотрите | verbatim |
-| 11 | Аня | Мне шеф десять тысяч должен. | The Chef already owes me ten thousand. | #196 00:11:55: Мне шеф десять тысяч должен | verbatim |
+| 11 | Шеф | Мне шеф десять тысяч должен. | The Chef already owes me ten thousand. | #196 00:11:55: Мне шеф десять тысяч должен | verbatim |
 | 12 | Лёва | Так что я еще больше, чем ты положил. | So I have actually put in even more than you did. | #197 00:11:57: Так что я еще больше, чем ты положил | verbatim |
-| 13 | Аня | Ладно, вот. | All right, here you go. | #198 00:12:01: Ладно, вот | verbatim |
+| 13 | Шеф | Ладно, вот. | All right, here you go. | #198 00:12:01: Ладно, вот | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

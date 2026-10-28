@@ -1,15 +1,15 @@
-ID = "kukhnya-s02e19-scene-09"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e19-scene-09'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 19
 SCENE = 9
 TITLE = "Совет Кости и конверт с адресом  (Kostya's Advice and the Envelope with an Address)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja', 'vika': 'angelina'}
-LABELS = {'anya': 'Макс', 'chef': 'Шеф', 'vika': 'Вика'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.19"
-SOURCE_FILE = "sources/kukhnya/s02/e19.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "chef": "anja", "vika": "angelina"}
+LABELS = {"anya": "Макс", "chef": "Шеф", "vika": "Вика"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.19'
+SOURCE_FILE = 'sources/kukhnya/s02/e19.ru.srt'
 
 INTRO = 'After the older lady compliments his strong hands and leaves, a bewildered Max tells Kostya at the bar that the wealthy pensioner is making passes at him. Kostya laughs and encourages Max to try everything in life while he is young, handing him an envelope she left behind.'
 
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's listen to all those lines again from the top."
-
-OUTRO = "When you watch Scene 9 of Episode 19, listen out for the exchange around kostya's advice and the envelope with an address — you will recognize every Russian phrase right away. See you in the next scene."
-CLOSING = ('anya', 'Это вам.')
+OUTRO = 'That wraps up this scene as flustered after the older woman praises his strong hands, Max tells Kostya at the bar that she is hitting on him, and Kostya urges him to go for it before handing him her note. Until next time!'
+CLOSING = ("anya", "До свидания!")

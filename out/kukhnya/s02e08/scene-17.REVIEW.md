@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | А Настя у нас какая умница. | What a clever girl our Nastya is. | #292 00:18:46: А Настя у нас какая умница | verbatim |
-| 2 | Макс | Сама всё приготовила? | Did you cook all of this yourself? | #293 00:18:49: Сама всё приготовила | verbatim |
-| 3 | Аня | Надо было хоть шампанского штука. | We should have at least opened a bottle of champagne. | #294 00:18:52: надо было хоть шампанского штука | verbatim |
-| 4 | Макс | Кстати, из чего она? | By the way, what are these cutlets made of? | #297 00:19:01: Кстати, из чего она | verbatim |
-| 5 | Аня | Это-то из капусты. | Those are made of cabbage. | #298 00:19:02: Это-то из капусты | verbatim |
-| 6 | Макс | Кому положить? | Who would like a serving? | #300 00:19:08: Кому положить | verbatim |
-| 7 | Аня | Сначала мой нос, потом моя посуда. | First my nose, and now my dishes. | #302 00:19:15: Сначала мой нос, потом моя посуда | verbatim |
-| 8 | Макс | Что дальше будешь бить? | What are you going to smash next? | #303 00:19:18: Что дальше будешь бить | verbatim |
-| 9 | Аня | Посуда это ерунда, посуда это, к счастью. | Broken dishes are nothing, broken dishes bring good luck. | #305 00:19:22: Посуда это ерунда, посуда это, к счастью | verbatim |
-| 10 | Макс | Все нормально, папа? | Is everything okay, Dad? | #306 00:19:25: Все нормально, папа | verbatim |
-| 11 | Аня | Нормально, нормально. | Everything is fine, just fine. | #306 00:19:25: Нормально, нормально | verbatim |
-| 12 | Макс | Траву едим. | We are eating grass. | #307 00:19:28: Траву едим | verbatim |
-| 13 | Аня | Все отлично. | Everything is wonderful. | #308 00:19:31: Все отлично | verbatim |
+| 1 | Настя | А Настя у нас какая умница. | What a clever girl our Nastya is. | #292 00:18:46: А Настя у нас какая умница | verbatim |
+| 2 | Аня | Сама всё приготовила? | Did you cook all of this yourself? | #293 00:18:49: Сама всё приготовила | verbatim |
+| 3 | Настя | Надо было хоть шампанского штука. | We should have at least opened a bottle of champagne. | #294 00:18:52: надо было хоть шампанского штука | verbatim |
+| 4 | Аня | Кстати, из чего она? | By the way, what are these cutlets made of? | #297 00:19:01: Кстати, из чего она | verbatim |
+| 5 | Настя | Это-то из капусты. | Those are made of cabbage. | #298 00:19:02: Это-то из капусты | verbatim |
+| 6 | Аня | Кому положить? | Who would like a serving? | #300 00:19:08: Кому положить | verbatim |
+| 7 | Настя | Сначала мой нос, потом моя посуда. | First my nose, and now my dishes. | #302 00:19:15: Сначала мой нос, потом моя посуда | verbatim |
+| 8 | Аня | Что дальше будешь бить? | What are you going to smash next? | #303 00:19:18: Что дальше будешь бить | verbatim |
+| 9 | Настя | Посуда это ерунда, посуда это, к счастью. | Broken dishes are nothing, broken dishes bring good luck. | #305 00:19:22: Посуда это ерунда, посуда это, к счастью | verbatim |
+| 10 | Аня | Все нормально, папа? | Is everything okay, Dad? | #306 00:19:25: Все нормально, папа | verbatim |
+| 11 | Настя | Нормально, нормально. | Everything is fine, just fine. | #306 00:19:25: Нормально, нормально | verbatim |
+| 12 | Аня | Траву едим. | We are eating grass. | #307 00:19:28: Траву едим | verbatim |
+| 13 | Настя | Все отлично. | Everything is wonderful. | #308 00:19:31: Все отлично | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

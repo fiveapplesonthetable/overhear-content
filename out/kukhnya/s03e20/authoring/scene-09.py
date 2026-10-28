@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e20-scene-09'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 20
 SCENE = 9
 TITLE = "Я не стукнулась головой  (I Didn't Hit My Head)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja'}
-LABELS = {'anya': 'Макс', 'vika': 'Вика'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.20"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "vika": "angelina", "anya": "alisa"}
+LABELS = {"vika": "Вика", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.20'
 SOURCE_FILE = 'sources/kukhnya/s03/e20.ru.srt'
 
 INTRO = 'Vika admits that they were in a relationship and she loved Max until he cheated on her. When Max suggests starting over now that he has forgotten everything, Vika reminds him that she did not hit her head!'
@@ -32,13 +32,13 @@ OPENER = "Now let's go back through their conversation line by line and unpack t
 
 WALK = [
     (0, None, "'Yes, you and I really were in a relationship.' Here the Russian phrasing highlights 'yes' before landing on 'relationship'."),
-    (1, None, "'And perhaps I even loved you very much back then.' The grammar packs 'and' and 'loved' into a tight, idiomatic kitchen exchange."),
+    (1, None, "'And perhaps I even loved you very much back then.' Here Vika anchors the thought on 'perhaps, possible' and finishes on 'loved', keeping the spoken rhythm brisk and natural."),
     (2, None, "'I loved you until one day you cheated on me.' The meaning hinges on 'loved' working together with 'cheated on' in spoken Russian."),
     (3, None, "'Yeah, that old Max was a real fool.' Spoken Russian keeps this brisk, leaning on 'yes' and finishing on 'fool'. Vika answers right away."),
     (4, None, "'How does it always work out so easily for you?' Vika anchors the line on 'how', while 'to work out' completes the thought."),
     (5, None, "'You know how to turn everything in the world to your advantage.' The grammar packs 'you' and 'benefit' into a tight, idiomatic kitchen exchange."),
     (6, None, "'You just bumped your head like that and immediately forgot everything!' An emphatic spoken line centered on the verb meaning 'hit'. Max answers right away."),
-    (7, None, "'And maybe it is a good thing that I forgot everything?' The grammar packs 'and' and 'to forget' into a tight, idiomatic kitchen exchange."),
+    (7, None, "'And maybe it is a good thing that I forgot everything?' Max pairs 'maybe' with 'to forget' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'."),
     (8, None, "'Maybe now we will be able to start everything from the beginning?' The meaning hinges on 'maybe' working together with 'at first' in spoken Russian."),
     (9, None, "'There is one small problem here: I did not hit my head.' The '-a' ending on the past-tense verb for 'hit' marks a female speaker or subject. Max answers right away."),
     (10, None, "'Alright, I will leave, it was a bad idea to stay at your place.' Here the Russian phrasing highlights 'all right' before landing on 'you'."),
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Just as Max reaches the front door, he clutches his head and stumbles—making Vika rush to his side in alarm.'
-CLOSING = ('anya', 'Может, мы сможем начать сначала?')
+OUTRO = 'Just as Max reaches the front door, he clutches his head and stumbles—making Vika rush to his side in alarm. Until next time!'
+CLOSING = ("anya", "Увидимся!")

@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e04-scene-08'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 4
 SCENE = 8
-TITLE = 'Разгар рабочего дня  (The Middle of the Workday)'
+TITLE = "Разгар рабочего дня  (The Middle of the Workday)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'angelina'}
-LABELS = {'anya': 'Макс', 'vika': 'Вика'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.04"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "vika": "angelina"}
+LABELS = {"anya": "Макс", "vika": "Вика"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.04'
 SOURCE_FILE = 'sources/kukhnya/s03/e04.ru.srt'
 
 INTRO = "In the corridor, Max tries to talk to Vika about where their relationship stands after their boat date, but Vika is rushing out to a doctor's appointment and brushes him off."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'That brings Scene Eight to a close. Watch how Vika hides her medical appointment behind a sarcastic joke, leaving Max confused.'
-CLOSING = ('vika', 'Мне надо подумать!')
+OUTRO = 'That brings Scene Eight to a close. Watch how Vika hides her medical appointment behind a sarcastic joke, leaving Max confused. See you next time!'
+CLOSING = ("vika", "До завтра!")

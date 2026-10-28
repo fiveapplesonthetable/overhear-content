@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Жена известного футболиста. | She is the wife of a famous football player. | #47 00:03:45: жена известного футболиста | verbatim |
+| 1 | Шеф | Жена известного футболиста. | She is the wife of a famous football player. | #47 00:03:45: жена известного футболиста | verbatim |
 | 2 | Лёва | Будь любезен это сделать. | Be so kind as to do it. | #48 00:03:49: будь любезен это сделать | verbatim |
-| 3 | Аня | Какого футболиста? | Which football player? | #49 00:03:52: Какого футболиста | verbatim |
+| 3 | Шеф | Какого футболиста? | Which football player? | #49 00:03:52: Какого футболиста | verbatim |
 | 4 | Лёва | Ну, откуда я знаю? | Well, how am I supposed to know? | #50 00:03:54: Ну, откуда я знаю | verbatim |
-| 5 | Аня | Может, и Спартака. | Maybe from Spartak. | #51 00:03:57: Может, и Спартака | verbatim |
+| 5 | Шеф | Может, и Спартака. | Maybe from Spartak. | #51 00:03:57: Может, и Спартака | verbatim |
 | 6 | Лёва | Я не буду спрашивать. | I am not going to go ask her. | #52 00:04:00: я не буду спрашивать | verbatim |
-| 7 | Аня | Ну, тогда попробуй вспомнить. | Well, then try to remember. | #53 00:04:04: Ну, тогда попробуй вспомнить | verbatim |
+| 7 | Шеф | Ну, тогда попробуй вспомнить. | Well, then try to remember. | #53 00:04:04: Ну, тогда попробуй вспомнить | verbatim |
 | 8 | Лёва | Вот на него похоже. | He looks like that one. | #57 00:04:15: Вот на него похоже | verbatim |
-| 9 | Аня | На кого него? | Like which one? | #57 00:04:15: На кого него | verbatim |
+| 9 | Шеф | На кого него? | Like which one? | #57 00:04:15: На кого него | verbatim |
 | 10 | Лёва | Я твоих назвал. | I just named your players. | #58 00:04:18: Я твоих назвал | verbatim |
-| 11 | Аня | На первого. | Like the first one. | #58 00:04:18: На первого | verbatim |
+| 11 | Шеф | На первого. | Like the first one. | #58 00:04:18: На первого | verbatim |
 | 12 | Лёва | Женя хороший. | Zhenya is a good player. | #60 00:04:23: Женя хороший | verbatim |
-| 13 | Аня | Интересно. Отошел. | Interesting. He stepped away. | #63 00:04:31: Интересно. Отошел | verbatim |
+| 13 | Шеф | Интересно. Отошел. | Interesting. He stepped away. | #63 00:04:31: Интересно. Отошел | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

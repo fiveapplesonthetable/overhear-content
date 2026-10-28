@@ -1,38 +1,40 @@
-# kukhnya-s01e11-scene-20: review sheet
+# Отказ от салата  (Rejecting the Salad) — `kukhnya-s01e11-scene-20`
 
-Title: Отказ от салата  (Rejecting the Salad)
-Level: A1 — Duolingo Section 2
-Pair: ru-en
-Source: Кухня (Kukhnya) S1.11
+**Source:** Кухня (Kukhnya) S1.11 · `sources/kukhnya/s01/e11.ru.dual.srt`  
+**Target level:** A1 — Duolingo Section 2
 
+## Cast
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+| Role | Voice | Label |
+|---|---|---|
+| `narrator` | sky | — |
+| `chef` | anja | Шеф |
+| `vika` | angelina | Вика |
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+## Part 1 — Intro
+
+> In the kitchen of Claude Monet, Victoria rushes to Chef Viktor with alarming news: the restaurant critic has rejected his fresh salad and is demanding hot soup immediately. Victoria urges Viktor to give the critic a soup meant for another guest, but the proud chef adamantly refuses to break the rules. Listen to their conversation in Russian first, then we will break down each line in English.
+
+## Part 2 — Story
+
+| # | Speaker | Line | English | Source cue(s) | Change |
 |---|---|---|---|---|---|
-| 1 | Вика | Виктор Петрович, у нас срочная проблема! | Viktor Petrovich, we have an urgent problem! | new | new: sounding alarm |
-| 2 | Шеф | Вика, не кричи на кухне. | Vika, do not shout in the kitchen. | new | new: demanding composure |
-| 3 | Вика | Критик за столиком отказался от салата. | The critic at the table refused the salad. | #273 00:18:24: Критик отказался от блюда. | adapted: reporting refusal |
-| 4 | Шеф | Почему? Мой салат был свежий. | Why? My salad was fresh. | new | new: defending dish |
-| 5 | Вика | Он говорит, что не ест траву. | He says that he does not eat grass. | #266 00:18:03: Настенька, я траву не ем. | adapted: quoting critic |
-| 6 | Вика | Он требует горячий суп прямо сейчас. | He demands hot soup right now. | #276 00:18:31: но он хочет супа побыстрее. | adapted: stating demand |
-| 7 | Шеф | Пусть сначала сделает нормальный заказ. | Let him make a normal order first. | #278 00:18:34: Пробивайте чек, и только после этого мы будем готовить. | adapted: insisting on protocol |
-| 8 | Вика | Отдайте ему суп с первого стола! | Give him the soup from table one! | #279 00:18:37: Отдай ему этот суп. | adapted: suggesting shortcut |
-| 9 | Шеф | Ты в своём уме, Вика? | Are you out of your mind, Vika? | #279 00:18:37: Ты в своем уме? | adapted: rebuking suggestion |
-| 10 | Шеф | Этот суп ждёт другой человек. | Another person is waiting for this soup. | #280 00:18:39: Нет. Этот суп для другого гостя. | adapted: standing firm |
-| 11 | Вика | Но критик напишет ужасный отзыв! | But the critic will write a terrible review! | new | new: fearing bad press |
-| 12 | Шеф | С меня хватит этих капризов. | I have had enough of these whims. | #277 00:18:32: Все, с меня хватит. Пусть ждет. | adapted: dismissing panic |
-| 13 | Шеф | Пусть ждёт суп по очереди. | Let him wait for soup in turn. | #277 00:18:32: Пусть ждет. | adapted: imposing order |
+| 0 | Вика | Виктор Петрович, у нас срочная проблема! | Viktor Petrovich, we have an urgent problem! | *(added)* |  |
+| 1 | Шеф | Вика, не кричи на кухне. | Vika, do not shout in the kitchen. | *(added)* |  |
+| 2 | Вика | Критик за столиком отказался от салата. | The critic at the table refused the salad. | #273 "Критик отказался от блюда." |  |
+| 3 | Шеф | Почему? Мой салат был свежий. | Why? My salad was fresh. | *(added)* |  |
+| 4 | Вика | Он говорит, что не ест траву. | He says that he does not eat grass. | #266 "Настенька, я траву не ем." |  |
+| 5 | Вика | Он требует горячий суп прямо сейчас. | He demands hot soup right now. | #276 "но он хочет супа побыстрее." |  |
+| 6 | Шеф | Пусть сначала сделает нормальный заказ. | Let him make a normal order first. | #278 "Пробивайте чек, и только после этого мы будем готовить." |  |
+| 7 | Вика | Отдайте ему суп с первого стола! | Give him the soup from table one! | #279 "Отдай ему этот суп." |  |
+| 8 | Шеф | Ты в своём уме, Вика? | Are you out of your mind, Vika? | #279 "Ты в своем уме?" |  |
+| 9 | Шеф | Этот суп ждёт другой человек. | Another person is waiting for this soup. | #280 "Нет. Этот суп для другого гостя." |  |
+| 10 | Вика | Но критик напишет ужасный отзыв! | But the critic will write a terrible review! | *(added)* |  |
+| 11 | Шеф | С меня хватит этих капризов. | I have had enough of these whims. | #277 "Все, с меня хватит. Пусть ждет." |  |
+| 12 | Шеф | Пусть ждёт суп по очереди. | Let him wait for soup in turn. | #277 "Пусть ждет." |  |
 
-## Walk-through narration (English only, no target-language words quoted)
+## Part 5 — Outro & closing
 
-- 'Viktor Petrovich, we have an urgent problem!' — formal vocative name and patronymic followed by an exclamatory phrase.
-- 'Vika, do not shout in the kitchen.' — negative imperative verb governing a prepositional place phrase.
-- 'The critic at the table refused the salad.' — past reflexive verb governing a genitive prepositional object.
-- 'He says that he does not eat grass.' — reporting verb introducing a subordinate clause with negation.
-- 'He demands hot soup right now.' — transitive verb governing an accusative direct object phrase.
-- 'Give him the soup from table one!' — plural imperative verb governing dative and prepositional objects.
-- 'Are you out of your mind, Vika?' — rhetorical prepositional idiom questioning common sense.
-- 'Another person is waiting for this soup.' — inverted word order emphasizing the legitimate customer.
-- 'But the critic will write a terrible review!' — future perfective verb describing an impending consequence.
-- 'Let him wait for soup in turn.' — third person permissive particle with an accusative and prepositional phrase. Now listen to the full conversation once more.
+> In the kitchen, Victoria urges Chef Viktor to give the complaining critic another customer's soup, but Viktor refuses to bypass ordinary guests. Next time you watch the episode, listen for the Russian expressions for 'to be enough' and 'kitchen' — you will catch every word right away. See you next time!
+
+**Шеф:** Пока!

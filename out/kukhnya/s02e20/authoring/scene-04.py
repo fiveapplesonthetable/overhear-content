@@ -1,32 +1,32 @@
-ID = "kukhnya-s02e20-scene-04"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e20-scene-04'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 20
 SCENE = 4
-TITLE = 'Требование пойти в ЗАГС  (Demanding a Trip to the Registry Office)'
+TITLE = "Требование пойти в ЗАГС  (Demanding a Trip to the Registry Office)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'nastya': 'anja'}
-LABELS = {'anya': 'Костя', 'nastya': 'Настя'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.20"
-SOURCE_FILE = "sources/kukhnya/s02/e20.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "kostya": "anja", "nastya": "angelina"}
+LABELS = {"kostya": "Костя", "nastya": "Настя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.20'
+SOURCE_FILE = 'sources/kukhnya/s02/e20.ru.srt'
 
 INTRO = 'Upset after serving her bragging classmate, Nastya marches up to Kostya at the bar and announces they are going to the registry office tomorrow to file their marriage application. Kostya protests that a proposal should be a romantic surprise, prompting Nastya to ask the cooks to talk to him.'
 
 STORY = [
-    ('anya', 'Вот тебе новость.', 'Well, here is some news for you.', [(60, 'Вот тебе новость')], ''),
+    ('kostya', 'Вот тебе новость.', 'Well, here is some news for you.', [(60, 'Вот тебе новость')], ''),
     ('nastya', 'Ты же говорила.', 'But you said so yourself before.', [(61, 'Ты же говорила')], ''),
-    ('anya', 'Ну, мало ли, что я говорила.', 'Well, what does it matter what I said before?', [(62, 'Ну, мало ли, что я говорила')], ''),
+    ('kostya', 'Ну, мало ли, что я говорила.', 'Well, what does it matter what I said before?', [(62, 'Ну, мало ли, что я говорила')], ''),
     ('nastya', 'А ты сам что, не хочешь?', 'Do you not want to get married yourself?', [(63, 'А ты сам что, не хочешь')], ''),
-    ('anya', 'Настя, конечно, хочу.', 'Nastya, of course I want to.', [(64, 'Настя, конечно, хочу')], ''),
+    ('kostya', 'Настя, конечно, хочу.', 'Nastya, of course I want to.', [(64, 'Настя, конечно, хочу')], ''),
     ('nastya', 'Что значит пойдем?', 'What do you mean, let us just go?', [(66, 'Что значит пойдем')], ''),
-    ('anya', 'Я что-то не понимаю.', 'There is something I do not understand here.', [(67, 'Я что-то не понимаю')], ''),
+    ('kostya', 'Я что-то не понимаю.', 'There is something I do not understand here.', [(67, 'Я что-то не понимаю')], ''),
     ('nastya', 'Пойдем завтра в ЗАГС и подадим заявление.', 'Let us go to the registry office tomorrow and submit our application.', [(69, 'Пойдем завтра в ЗАГС и подадим заявление')], ''),
-    ('anya', 'Это тебе что?', 'What kind of proposal is that to you?', [(70, 'Это тебе что')], ''),
+    ('kostya', 'Это тебе что?', 'What kind of proposal is that to you?', [(70, 'Это тебе что')], ''),
     ('nastya', 'Я хочу, чтобы это было романтичное предложение, понимаешь?', 'I want it to be a romantic marriage proposal, do you understand?', [(71, 'Я хочу, чтобы это было романтичное предложение, понимаешь')], ''),
-    ('anya', 'Ребят, прошу вас, поговорите вы с ним.', 'Guys, I beg you, please go talk to him.', [(72, 'Ребят, прошу вас, поговорите вы с ним')], ''),
+    ('kostya', 'Ребят, прошу вас, поговорите вы с ним.', 'Guys, I beg you, please go talk to him.', [(72, 'Ребят, прошу вас, поговорите вы с ним')], ''),
     ('nastya', 'А то он меня даже слушать не хочет.', 'Because he does not even want to listen to me.', [(73, 'А то он меня даже слушать не хочет')], ''),
-    ('anya', 'Конечно поговорим.', 'Of course we will talk to him.', [(76, 'Конечно поговорим')], ''),
+    ('kostya', 'Конечно поговорим.', 'Of course we will talk to him.', [(76, 'Конечно поговорим')], ''),
 ]
 
 OPENER = "Now let's go back through the conversation line by line."
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the whole conversation once more from start to finish."
-
-OUTRO = 'When you watch Scene 4 of Episode 20, listen out for the exchange around demanding a trip to the registry office — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('anya', 'Конечно поговорим.')
+OUTRO = "That wraps up this scene as stung by Katya's questions, Nastya demands that Kostya go with her to the registry office tomorrow, while Kostya insists on making a proper romantic proposal first. See you next time!"
+CLOSING = ("kostya", "До завтра!")

@@ -10,25 +10,25 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Тимур, говядина свежая. | Timur, is the beef fresh? | #186 00:11:41: Тимур, говядина свежая | verbatim |
-| 2 | Сеня | Сегодня мне нужна самая свежая. | Today I need the freshest beef you have. | #187 00:11:43: Сегодня мне нужна самая свежая | verbatim |
+| 1 | Шеф | Тимур, говядина свежая. | Timur, is the beef fresh? | #186 00:11:41: Тимур, говядина свежая | verbatim |
+| 2 | Лёва | Сегодня мне нужна самая свежая. | Today I need the freshest beef you have. | #187 00:11:43: Сегодня мне нужна самая свежая | verbatim |
 | 3 | Лёва | Для тебя самая свежая завтрашняя. | For you, it is so fresh it is practically tomorrow's. | #188 00:11:44: Для тебя самая свежая завтрашняя | verbatim |
-| 4 | Аня | Слушай, ну что ты хочешь? | Listen, what more could you ask for? | #189 00:11:47: Слушай, ну что ты хочешь | verbatim |
-| 5 | Сеня | Сегодняшнее хотел сказать. | I meant to say today's fresh cut. | #191 00:11:51: Сегодняшнее хотел сказать | verbatim |
+| 4 | Шеф | Слушай, ну что ты хочешь? | Listen, what more could you ask for? | #189 00:11:47: Слушай, ну что ты хочешь | verbatim |
+| 5 | Лёва | Сегодняшнее хотел сказать. | I meant to say today's fresh cut. | #191 00:11:51: Сегодняшнее хотел сказать | verbatim |
 | 6 | Лёва | Это для моих гостей. | This is for my personal guests. | #193 00:11:57: Это для моих гостей | verbatim |
-| 7 | Аня | И, кстати, сегодня меня не будет. | And by the way, I will not be in the kitchen tonight. | #194 00:11:59: И, кстати, сегодня меня не будет | verbatim |
-| 8 | Сеня | А вот так, Лева, сегодня вечером я гость. | That is right, Lyova, tonight I am dining as a guest. | #196 00:12:05: А вот так, Лева, сегодня вечером я гость | verbatim |
+| 7 | Шеф | И, кстати, сегодня меня не будет. | And by the way, I will not be in the kitchen tonight. | #194 00:11:59: И, кстати, сегодня меня не будет | verbatim |
+| 8 | Лёва | А вот так, Лева, сегодня вечером я гость. | That is right, Lyova, tonight I am dining as a guest. | #196 00:12:05: А вот так, Лева, сегодня вечером я гость | verbatim |
 | 9 | Лёва | А ты будешь за шеф-повара. | And you will be acting as head chef. | #197 00:12:09: А ты будешь за шеф-повара | verbatim |
-| 10 | Аня | Ну как? | So how does it taste? | #198 00:12:17: Ну как | verbatim |
-| 11 | Сеня | Должно быть не просто хорошо, а великолепно. | It must be not merely good, but magnificent. | #201 00:12:24: Должно быть не просто хорошо, а великолепно | verbatim |
+| 10 | Шеф | Ну как? | So how does it taste? | #198 00:12:17: Ну как | verbatim |
+| 11 | Лёва | Должно быть не просто хорошо, а великолепно. | It must be not merely good, but magnificent. | #201 00:12:24: Должно быть не просто хорошо, а великолепно | verbatim |
 | 12 | Лёва | Ой, да, я хотела сказать паштет. | Oh, yes, I meant to say the pate. | #204 00:12:35: Ой, да, я хотела сказать паштет | verbatim |
-| 13 | Аня | Ага, спасибо. | Got it, thank you. | #205 00:12:37: Ага, спасибо | verbatim |
+| 13 | Шеф | Ага, спасибо. | Got it, thank you. | #205 00:12:37: Ага, спасибо | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Timur, is the beef fresh?' Here the Russian phrasing highlights 'Timur' before landing on 'fresh'. Senya answers right away.
 - 'Today I need the freshest beef you have.' The grammar packs 'today' and 'fresh' into a tight, idiomatic kitchen exchange.
-- 'For you, it is so fresh it is practically tomorrow's.' Lyova anchors the line on 'for', while 'tomorrow's' completes the thought.
+- 'For you, it is so fresh it is practically tomorrow's.' Notice how Russian puts 'most' and 'tomorrow's' together in a short, direct phrase where word endings show how the ideas connect.
 - 'Listen, what more could you ask for?' Chef Viktor brings out the contrast between 'listen' and 'come on' in a few short words. Senya answers right away.
 - 'I meant to say today's fresh cut.' The grammar packs 'today's' and 'say' into a tight, idiomatic kitchen exchange.
 - 'This is for my personal guests.' Notice how Russian expresses 'this' and 'guests' with crisp inflection rather than helper words.

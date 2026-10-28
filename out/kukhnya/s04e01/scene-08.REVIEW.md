@@ -12,8 +12,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 |---|---|---|---|---|---|
 | 1 | Аня | Чёрт. | Darn it. | #112 00:10:39: Черт. | verbatim |
 | 2 | Аня | Всё-таки она идеальна. | She really is ideal after all. | #113 00:10:40: она идеальна | verbatim |
-| 3 | Вика | Макс, ты опять? | Max, are you at it again? | #114 00:10:44: ты опять? | verbatim |
-| 4 | Вика | Я же тебя просила не бриться моим станком. | I asked you not to shave with my razor. | #115 00:10:46: Я же тебя просила<br>#115 00:10:46: не бриться моим станком | verbatim |
+| 3 | Настя | Макс, ты опять? | Max, are you at it again? | #114 00:10:44: ты опять? | verbatim |
+| 4 | Настя | Я же тебя просила не бриться моим станком. | I asked you not to shave with my razor. | #115 00:10:46: Я же тебя просила<br>#115 00:10:46: не бриться моим станком | verbatim |
 | 5 | Настя | Мама, что вы стоите? Заходите. | Mom, why are you standing there? Come in. | #116 00:10:56: Мама, что вы стоите? Заходите. | verbatim |
 | 6 | Настя | Мама приехала. | Mom has arrived. | #117 00:10:58: мама приехала | verbatim |
 | 7 | Аня | Привет. | Hello there. | #118 00:11:03: Привет. | verbatim |
@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Darn it.' Max uses natural conversational word order here to highlight the most important part of the reply.
-- 'She really is ideal after all.' Max keeps the sentence short and direct, relying on Russian case endings to show how the words connect.
-- 'Max, are you at it again?' In spoken Russian, Vika omits unnecessary linking verbs so the key idea lands immediately.
+- 'Darn it.' Max centers this short reply on 'darn, heck', letting a few direct words carry the whole meaning.
+- 'She really is ideal after all.' Spoken Russian keeps this brief and expressive, built right around 'after' without extra helper words.
+- 'Max, are you at it again?' In spoken Russian, the words stay in their normal statement order and Vika's rising voice at the end turns the line into a question.
 - 'I asked you not to shave with my razor.' Vika addresses the listener with the informal singular pronoun, showing a close or familiar relationship.
 - 'Mom, why are you standing there? Come in.' Nastya uses the polite plural form of address to maintain a respectful or ironic distance.
-- 'Mom has arrived.' Nastya keeps the sentence short and direct, relying on Russian case endings to show how the words connect.
-- 'Hello there.' Max uses natural conversational word order here to highlight the most important part of the reply.
-- 'Stepan Andreyevich got sick, so he can't come home.' Nastya uses natural conversational word order here to highlight the most important part of the reply.
+- 'Mom has arrived.' Notice how Russian puts 'mom' and 'came, arrived' together in a short, direct phrase where word endings show how the ideas connect.
+- 'Hello there.' Max keeps this everyday Russian response short and direct, without needing English helper words like 'am', 'is', or 'are'.
+- 'Stepan Andreyevich got sick, so he can't come home.' Russian expresses feelings and needs by saying 'to me it is needed' or 'to me it seems', putting the person in the 'to me' form.
 - 'I will stay with you for a while.' Nastya uses the polite plural form of address to maintain a respectful or ironic distance.
-- 'I will help out.' Nastya uses natural conversational word order here to highlight the most important part of the reply.
-- 'Mom will hear us.' Nastya keeps the sentence short and direct, relying on Russian case endings to show how the words connect.
-- 'She has been asleep for a long time.' In spoken Russian, Max omits unnecessary linking verbs so the key idea lands immediately.
+- 'I will help out.' Spoken Russian keeps this brief and expressive, built right around 'will help' without extra helper words.
+- 'Mom will hear us.' Here Nastya anchors the thought on 'mom' and finishes on 'to hear', keeping the spoken rhythm brisk and natural.
+- 'She has been asleep for a long time.' In everyday Russian, 'is sleeping' flows straight into 'for a long time; long ago' without extra linking words.

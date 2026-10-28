@@ -1,14 +1,14 @@
 ID = 'kukhnya-s05e09-scene-02'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 9
 SCENE = 2
-TITLE = 'Только правда  (Only the Truth)'
+TITLE = "Только правда  (Only the Truth)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja', 'lyova': 'angelina'}
-LABELS = {'anya': 'Макс', 'vika': 'Вика', 'lyova': 'Лёва'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.09"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "vika": "angelina"}
+LABELS = {"anya": "Макс", "vika": "Вика"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.09'
 SOURCE_FILE = 'sources/kukhnya/s05/e09.ru.srt'
 
 INTRO = 'In the kitchen of restaurant Victor, Max greets Vika and asks whether she knows the sex of their baby yet. When Vika coldly tells him she owes him nothing because he always lies, Max vows in front of the entire staff to speak only the truth.'
@@ -25,8 +25,8 @@ STORY = [
     ('anya', 'Кухня, внимание!', 'Kitchen, attention!', [(23, 'Кухня, внимание')], 'adapted'),
     ('anya', 'С этого момента прекращаю врать.', 'From this moment I stop lying.', [(24, 'с этого момента прекращаю врать')], 'adapted'),
     ('anya', 'И буду говорить только правду.', 'And I will speak only the truth.', [(25, 'И буду говорить только правду')], 'adapted'),
-    ('lyova', 'Быстро за работу, Лавров!', 'Quickly back to work, Lavrov!', [(31, 'Быстро за работу, Лавров')], 'adapted'),
-    ('lyova', 'Ты морковь нарезал?', 'Did you chop the carrots?', [(32, 'Ты морковь нарезал')], 'adapted'),
+    ('vika', 'Быстро за работу, Лавров!', 'Quickly back to work, Lavrov!', [(31, 'Быстро за работу, Лавров')], 'adapted'),
+    ('vika', 'Ты морковь нарезал?', 'Did you chop the carrots?', [(32, 'Ты морковь нарезал')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -48,5 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'That brings this kitchen announcement to a close. Notice how Max uses the present tense to declare he is quitting lying right now, and how Lyova snaps everyone back to work. See you in the next scene.'
-CLOSING = ('anya', 'Говорю только правду!')
+OUTRO = 'That brings this kitchen announcement to a close. Notice how Max uses the present tense to declare he is quitting lying right now, and how Lyova snaps everyone back to work. See you next time!'
+CLOSING = ("anya", "До завтра!")

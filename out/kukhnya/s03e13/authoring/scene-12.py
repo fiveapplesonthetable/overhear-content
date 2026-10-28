@@ -1,28 +1,28 @@
 ID = 'kukhnya-s03e13-scene-12'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 13
 SCENE = 12
-TITLE = 'Мастер по кофемашинам  (The Coffee Machine Repairman)'
+TITLE = "Мастер по кофемашинам  (The Coffee Machine Repairman)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'kostya': 'anja', 'guest': 'angelina'}
-LABELS = {'anya': 'Макс', 'kostya': 'Костя', 'guest': 'Гость'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.13"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "guest": "anja", "anya": "alisa"}
+LABELS = {"guest": "Гость", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.13'
 SOURCE_FILE = 'sources/kukhnya/s03/e13.ru.srt'
 
 INTRO = 'As Max escorts the tipsy repairman out through the dining room, another technician arrives and asks for Vika to repair the video surveillance system. Listen to the full Russian conversation first, and then we will unpack each line.'
 
 STORY = [
     ('anya', 'Ну что, Костя, как тут дела?', 'So, Kostya, how are things going here?', [(181, 'Ну что, как тут')], 'adapted'),
-    ('kostya', 'Тишина, никто тобой не интересовался.', 'All quiet, nobody asked for you.', [(182, 'Тишина'), (182, 'никто не интересовался')], 'adapted'),
+    ('guest', 'Тишина, никто тобой не интересовался.', 'All quiet, nobody asked for you.', [(182, 'Тишина'), (182, 'никто не интересовался')], 'adapted'),
     ('guest', 'Девушка, дадите ручку поцеловать?', 'Miss, will you let me kiss your hand?', [(183, 'Дадите ручку')], 'adapted'),
     ('guest', 'А может быть, красивую ножку?', 'Or maybe your pretty little foot?', [(185, 'А ножку')], 'adapted'),
     ('anya', 'Так, дружище, пойдём скорее на выход.', "Alright, buddy, let's head for the exit quickly.", [(187, 'Так, дружище')], 'adapted'),
-    ('kostya', 'Здравствуйте, вы кого-то ищете?', 'Hello, are you looking for someone?', [(191, 'Здравствуйте')], 'adapted'),
+    ('guest', 'Здравствуйте, вы кого-то ищете?', 'Hello, are you looking for someone?', [(191, 'Здравствуйте')], 'adapted'),
     ('guest', 'Подскажите, где найти Викторию Сергеевну?', 'Could you tell me where to find Viktoria Sergeyevna?', [(189, 'где найти Викторию Сергеевну')], 'adapted'),
     ('guest', 'Я по поводу ремонта систем видеонаблюдения.', 'I am here about repairing the video surveillance system.', [(190, 'Я по поводу ремонта систем видеонаблюдения')], 'adapted'),
-    ('kostya', 'Здравствуйте, Виктория вас уже ждёт.', 'Hello, Viktoria is already waiting for you.', [(191, 'Здравствуйте. Виктория вас уже ждет')], 'adapted'),
+    ('guest', 'Здравствуйте, Виктория вас уже ждёт.', 'Hello, Viktoria is already waiting for you.', [(191, 'Здравствуйте. Виктория вас уже ждет')], 'adapted'),
     ('anya', 'Слушай, друг, а ты зачем приходил?', 'Listen, friend, why did you come here anyway?', [(193, 'Слушай, друг, а ты что вообще приходил')], 'adapted'),
     ('guest', 'Так вашу кофемашину ремонтировать!', 'To repair your coffee machine, of course!', [(194, 'Так вашу кофемашину ремонтировать')], 'adapted'),
     ('guest', 'А вы сами её починили, красавцы!', 'And you fixed it yourselves, well done!', [(195, 'сами ее починили'), (196, 'Красавцы')], 'adapted'),
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Max got the coffee machine repairman drunk while the real CCTV specialist walked right into Vika's office! In the next scene, Katya convinces Max that they must confess."
-CLOSING = ('guest', 'Так вашу кофемашину ремонтировать!')
+OUTRO = "Max got the coffee machine repairman drunk while the real CCTV specialist walked right into Vika's office! See you next time!"
+CLOSING = ("guest", "Пока!")

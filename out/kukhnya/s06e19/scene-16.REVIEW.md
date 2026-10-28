@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Мы собрались здесь ради любви. | We have gathered here for the sake of love. | #254 00:20:09: собрались | adapted: adapted |
-| 2 | Аня | Хотим соединить два любящих сердца. | We want to unite two loving hearts. | #254 00:20:09: чтобы соединить два любящих сердца | adapted: adapted |
-| 3 | Аня | Хочу обратиться сейчас к молодожёнам. | I want to address the newlyweds now. | #256 00:20:18: Хочу обратиться к молодоженам | adapted: adapted |
-| 4 | Аня | Никита, вы согласны взять Екатерину? | Nikita, do you agree to take Ekaterina? | #257 00:20:20: Согласны ли вы, Никита | adapted: adapted |
-| 5 | Никита | Да, я полностью согласен. | Yes, I completely agree. | #258 00:20:24: Согласен | adapted: adapted |
-| 6 | Аня | Екатерина, согласны выйти за Никиту? | Ekaterina, do you agree to marry Nikita? | #259 00:20:26: Согласны ли вы, Екатерина, выйти замуж за Никиту | adapted: adapted |
+| 1 | Шеф | Мы собрались здесь ради любви. | We have gathered here for the sake of love. | #254 00:20:09: собрались | adapted: adapted |
+| 2 | Шеф | Хотим соединить два любящих сердца. | We want to unite two loving hearts. | #254 00:20:09: чтобы соединить два любящих сердца | adapted: adapted |
+| 3 | Шеф | Хочу обратиться сейчас к молодожёнам. | I want to address the newlyweds now. | #256 00:20:18: Хочу обратиться к молодоженам | adapted: adapted |
+| 4 | Шеф | Никита, вы согласны взять Екатерину? | Nikita, do you agree to take Ekaterina? | #257 00:20:20: Согласны ли вы, Никита | adapted: adapted |
+| 5 | Шеф | Да, я полностью согласен. | Yes, I completely agree. | #258 00:20:24: Согласен | adapted: adapted |
+| 6 | Шеф | Екатерина, согласны выйти за Никиту? | Ekaterina, do you agree to marry Nikita? | #259 00:20:26: Согласны ли вы, Екатерина, выйти замуж за Никиту | adapted: adapted |
 | 7 | Катя | Простите, наша свадьба сегодня отменяется. | Forgive me, our wedding is called off today. | #261 00:21:04: отменяется | adapted: adapted |
-| 8 | Никита | Не понял, это такая шутка? | I do not understand, is this some kind of joke? | #262 00:21:11: я не понял, что это шутка | adapted: adapted |
-| 9 | Аня | Мы что, сегодня зря готовили? | Did we cook in vain today, or what? | #263 00:21:14: зря готовили | adapted: adapted |
-| 10 | Аня | Женщина может уйти в любой момент. | A woman can leave at any moment. | #264 00:21:16: Женщина может уйти в любой момент | adapted: adapted |
-| 11 | Никита | Тогда я, наверное, уже пойду. | Then I will probably go now. | #265 00:21:22: Я, наверное, пойду тогда | adapted: adapted |
-| 12 | Аня | Конечно, женить тут больше некого. | Of course, there is no one left to marry here. | #266 00:21:25: конечно, идите<br>#267 00:21:27: Женить некого | adapted: adapted |
+| 8 | Шеф | Не понял, это такая шутка? | I do not understand, is this some kind of joke? | #262 00:21:11: я не понял, что это шутка | adapted: adapted |
+| 9 | Шеф | Мы что, сегодня зря готовили? | Did we cook in vain today, or what? | #263 00:21:14: зря готовили | adapted: adapted |
+| 10 | Шеф | Женщина может уйти в любой момент. | A woman can leave at any moment. | #264 00:21:16: Женщина может уйти в любой момент | adapted: adapted |
+| 11 | Шеф | Тогда я, наверное, уже пойду. | Then I will probably go now. | #265 00:21:22: Я, наверное, пойду тогда | adapted: adapted |
+| 12 | Шеф | Конечно, женить тут больше некого. | Of course, there is no one left to marry here. | #266 00:21:25: конечно, идите<br>#267 00:21:27: Женить некого | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

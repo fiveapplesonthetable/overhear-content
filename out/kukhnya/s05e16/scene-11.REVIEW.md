@@ -10,16 +10,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Привет, Дима, а где же твоя важная гостья? | Hi, Dima, and where is your important guest? | #182 00:12:32: А где твоя гурман сейчас | adapted: adapted |
+| 1 | Шеф | Привет, Дима, а где же твоя важная гостья? | Hi, Dima, and where is your important guest? | #182 00:12:32: А где твоя гурман сейчас | adapted: adapted |
 | 2 | Нагиев | Она сегодня не придёт, вчера отравилась морским ежом. | She is not coming today, yesterday she got poisoned by a sea urchin. | #183 00:12:34: Не привет. Отравилась ежом | adapted: adapted |
 | 3 | Нагиев | Точнее, свежей икрой морского ежа в другом месте. | More precisely, by fresh sea urchin roe at another place. | #184 00:12:37: Икрой морского ежа | adapted: adapted |
 | 4 | Нагиев | Она мне только что об этом сообщение написала. | She just wrote me a text message about it. | #185 00:12:39: Только что написала | adapted: adapted |
-| 5 | Аня | Ну, платить за заказ тебе всё равно придётся! | Well, you will still have to pay for the order! | #185 00:12:39: платить-то все равно придется | adapted: adapted |
-| 6 | Аня | Ведь мой кулинарный шедевр на плите уже готов. | After all, my culinary masterpiece on the stove is already ready. | #186 00:12:41: Шедевр уже готов | adapted: adapted |
-| 7 | Аня | Давай бери тарелку и неси сам себе в зал! | Go on, take the plate and carry it to the hall for yourself! | #186 00:12:41: Давай неси сам | adapted: adapted |
+| 5 | Шеф | Ну, платить за заказ тебе всё равно придётся! | Well, you will still have to pay for the order! | #185 00:12:39: платить-то все равно придется | adapted: adapted |
+| 6 | Шеф | Ведь мой кулинарный шедевр на плите уже готов. | After all, my culinary masterpiece on the stove is already ready. | #186 00:12:41: Шедевр уже готов | adapted: adapted |
+| 7 | Шеф | Давай бери тарелку и неси сам себе в зал! | Go on, take the plate and carry it to the hall for yourself! | #186 00:12:41: Давай неси сам | adapted: adapted |
 | 8 | Нагиев | Бедняга я, всё приходится делать самому сегодня! | Poor me, I have to do everything myself today! | #187 00:12:45: Все сам сегодня | adapted: adapted |
-| 9 | Аня | Приятного тебе аппетита, дорогой Дмитрий Владимирович! | Enjoy your meal, dear Dmitry Vladimirovich! | #189 00:12:53: Приятного аппетита | adapted: adapted |
-| 10 | Аня | И деньги в кассу занести потом не забудь! | And do not forget to bring the money to the register later! | #190 00:12:55: Деньги занести не забудь | adapted: adapted |
+| 9 | Шеф | Приятного тебе аппетита, дорогой Дмитрий Владимирович! | Enjoy your meal, dear Dmitry Vladimirovich! | #189 00:12:53: Приятного аппетита | adapted: adapted |
+| 10 | Шеф | И деньги в кассу занести потом не забудь! | And do not forget to bring the money to the register later! | #190 00:12:55: Деньги занести не забудь | adapted: adapted |
 | 11 | Нагиев | Подожди, я только пойду сначала руки чисто помою. | Wait, I will just go wash my hands clean first. | #191 00:12:57: руки | adapted: adapted |
 | 12 | Нагиев | Накрой пока блюдо крышкой, пускай немного постоит. | Cover the dish with a lid for now, let it sit a bit. | #192 00:12:58: Пускай потомится | adapted: adapted |
 

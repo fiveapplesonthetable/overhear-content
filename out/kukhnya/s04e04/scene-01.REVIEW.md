@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Head chefs are the generals of the kitchen.' In spoken Russian, Max omits unnecessary linking verbs so the key idea lands immediately.
-- 'They control the situation.' Max uses natural conversational word order here to highlight the most important part of the reply.
-- 'Regular cooks are the salt of the kitchen earth.' Max uses natural conversational word order here to highlight the most important part of the reply.
-- 'They have the hardest job of all.' In spoken Russian, Max omits unnecessary linking verbs so the key idea lands immediately.
-- 'Pull yourselves together.' Elena uses natural conversational word order here to highlight the most important part of the reply.
-- 'You haven't worked as an ordinary cook in a long time.' Elena places the negative particle directly before the verb or predicate to negate the statement.
+- 'Head chefs are the generals of the kitchen.' Notice how Russian puts 'head chef' and 'kitchen' together in a short, direct phrase where word endings show how the ideas connect.
+- 'They control the situation.' Here Max anchors the thought on 'to control, to keep an eye on' and finishes on 'situation', keeping the spoken rhythm brisk and natural.
+- 'Regular cooks are the salt of the kitchen earth.' In everyday Russian, 'simple; ordinary' flows straight into 'ground, earth, land' without extra linking words.
+- 'They have the hardest job of all.' Max pairs 'job' with 'only, in all' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
+- 'Pull yourselves together.' Spoken Russian keeps this brief and expressive, built right around 'to get ready, plan to, gather' without extra helper words.
+- 'You haven't worked as an ordinary cook in a long time.' Putting the short word for 'not' right in front of the action word is all Russian needs to make a sentence negative, with no extra helper words like 'do' or 'did'.
 - 'I simply did not get enough sleep.' Chef Viktor uses the first-person pronoun in the case required by the Russian verb or preposition.
-- 'You have lost your edge, old timer.' In spoken Russian, Elena omits unnecessary linking verbs so the key idea lands immediately.
-- 'I have not lost my edge at all.' Chef Viktor keeps the sentence short and direct, relying on Russian case endings to show how the words connect.
-- 'Just look at yourself.' In spoken Russian, Elena omits unnecessary linking verbs so the key idea lands immediately.
-- 'You are talking to a tomato.' Elena uses natural conversational word order here to highlight the most important part of the reply.
-- 'In reality he is a deeply civilian person.' Max keeps the sentence short and direct, relying on Russian case endings to show how the words connect.
+- 'You have lost your edge, old timer.' Elena pairs 'turned in' with 'old buddy' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
+- 'I have not lost my edge at all.' Putting the short word for 'not' right in front of the action word is all Russian needs to make a sentence negative, with no extra helper words like 'do' or 'did'.
+- 'Just look at yourself.' Elena centers this short reply on 'look', letting a few direct words carry the whole meaning.
+- 'You are talking to a tomato.' In everyday Russian, 'tomato' flows straight into 'to talk, to speak' without extra linking words.
+- 'In reality he is a deeply civilian person.' Max pairs 'the very' with 'man' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.

@@ -1,15 +1,15 @@
-ID = "kukhnya-s02e11-scene-10"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e11-scene-10'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 11
 SCENE = 10
-TITLE = 'Запертые в холодильнике  (Locked in the Walk-in Fridge)'
+TITLE = "Запертые в холодильнике  (Locked in the Walk-in Fridge)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'kostya': 'anja', 'nastya': 'angelina'}
-LABELS = {'anya': 'Макс', 'kostya': 'Костя', 'nastya': 'Настя'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.11"
-SOURCE_FILE = "sources/kukhnya/s02/e11.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "kostya": "anja", "nastya": "angelina"}
+LABELS = {"anya": "Макс", "kostya": "Костя", "nastya": "Настя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.11'
+SOURCE_FILE = 'sources/kukhnya/s02/e11.ru.srt'
 
 INTRO = 'Once Nastya is inside the cold room, Kostya lures Sasha in after her by pretending he lost his phone among the shelves, and the boys bolt the door shut. Instead of making peace, however, Sasha and Nastya realize Max set them up and immediately start trading insults.'
 
@@ -25,7 +25,7 @@ STORY = [
     ('nastya', 'Наверное, все Макс твой придумал, да?', 'Your Max probably came up with all of this, right?', [(179, 'Наверное, все Макс твой придумал, да')], ''),
     ('anya', 'Конечно, Макс.', 'Of course it was Max.', [(180, 'Конечно, Макс')], ''),
     ('kostya', 'За словами своими следи, овца.', 'Watch your mouth, you sheep.', [(182, 'За словами своими следи, овца')], ''),
-    ('nastya', 'Заткнись, гном.', 'Shut up, you midget.', [(183, 'Заткнись, гном')], ''),
+    ('nastya', 'Помолчи сейчас же, гном.', 'Be quiet right now, dwarf.', [(183, 'гном')], 'adapted'),
     ('anya', 'Наверное, уже обнимается.', 'They are probably hugging each other already.', [(185, 'Наверное, уже обнимается')], ''),
 ]
 
@@ -43,11 +43,10 @@ WALK = [
     (8, None, "'Your Max probably came up with all of this, right?' Here the Russian phrasing highlights 'probably' before landing on 'yes'."),
     (9, None, "'Of course it was Max.' In Russian, the idea of 'of course' flows naturally into 'Max' without extra filler words. Kostya answers right away."),
     (10, None, "'Watch your mouth, you sheep.' Here the Russian phrasing highlights 'behind' before landing on 'sheep'."),
-    (11, None, "'Shut up, you midget.' Nastya anchors the line on 'shut up', while 'dwarf' completes the thought."),
-    (12, None, "'They are probably hugging each other already.' Notice the reflexive suffix on the verb meaning 'to hug each other', turning the action back on the subject."),
+    (11, None, "'Be quiet right now, dwarf.' Notice how Russian puts 'to be quiet' and 'dwarf' together in a short, direct phrase where word endings show how the ideas connect."),
+    (12, None, "'They are probably hugging each other already.' Here Max anchors the thought on 'probably' and finishes on 'to hug each other, to embrace', keeping the spoken rhythm brisk and natural."),
 ]
 
 TRANSITION = "Now let's put it all back together and hear the whole scene again."
-
-OUTRO = 'When you watch Scene 10 of Episode 11, listen out for the exchange around locked in the walk-in fridge — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('anya', 'Наверное, уже обнимается.')
+OUTRO = 'That wraps up this scene as max and Kostya trick both Nastya and Sasha into stepping inside the walk-in refrigerator and lock the door, only for the two girls to immediately start insulting each other. See you next time!'
+CLOSING = ("anya", "До встречи!")

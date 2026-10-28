@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Сеня | У меня тёща бывшая чемпионка страны. | My mother-in-law is a former national champion. | #45 00:05:27: у меня теща чемпионка | adapted: adapted |
-| 2 | Сеня | У меня дома просто нет шансов. | I simply have no chance at home. | #46 00:05:31: У меня просто шансов нет | adapted: adapted |
-| 3 | Аня | Я бы никогда руку не поднял. | I would never raise a hand myself. | #48 00:05:36: руку на жену не поднял | adapted: adapted |
+| 1 | Настя | У меня тёща бывшая чемпионка страны. | My mother-in-law is a former national champion. | #45 00:05:27: у меня теща чемпионка | adapted: adapted |
+| 2 | Настя | У меня дома просто нет шансов. | I simply have no chance at home. | #46 00:05:31: У меня просто шансов нет | adapted: adapted |
+| 3 | Костя | Я бы никогда руку не поднял. | I would never raise a hand myself. | #48 00:05:36: руку на жену не поднял | adapted: adapted |
 | 4 | Настя | А как ты мне нос чуть не разбил? | And how did you almost break my nose? | #49 00:05:39: чуть нос не разбил | adapted: adapted |
 | 5 | Настя | Ты ударил меня однажды во сне! | You hit me once in your sleep! | #49 00:05:39: однажды во сне | adapted: adapted |
-| 6 | Аня | Настя, мне тогда снился страшный сон. | Nastya, I was having a terrible dream then. | #50 00:05:42: Настя, вообще-то мне снилось | adapted: adapted |
-| 7 | Аня | Во сне я был смелым гладиатором. | In the dream I was a brave gladiator. | #50 00:05:42: я гудиатор | adapted: adapted |
-| 8 | Аня | За мной огромный голодный лев бежал! | A huge hungry lion was running after me! | #51 00:05:47: за мной этот лев бежал | adapted: adapted |
+| 6 | Костя | Настя, мне тогда снился страшный сон. | Nastya, I was having a terrible dream then. | #50 00:05:42: Настя, вообще-то мне снилось | adapted: adapted |
+| 7 | Костя | Во сне я был смелым гладиатором. | In the dream I was a brave gladiator. | #50 00:05:42: я гудиатор | adapted: adapted |
+| 8 | Костя | За мной огромный голодный лев бежал! | A huge hungry lion was running after me! | #51 00:05:47: за мной этот лев бежал | adapted: adapted |
 | 9 | Настя | А вот если бы ты меня убил? | And what if you had killed me? | #52 00:05:50: Вот если бы ты меня убил | adapted: adapted |
 | 10 | Настя | Что бы ты тогда один делал? | What would you have done alone then? | #53 00:05:52: Что бы ты делал | adapted: adapted |
 | 11 | Настя | Если бы меня вдруг не стало? | If I were suddenly gone? | #53 00:05:52: если бы меня не стало | adapted: adapted |
-| 12 | Аня | Настя, пожалуйста, не перебивай меня сейчас. | Nastya, please do not interrupt me right now. | #55 00:06:07: Настя, не перебивай меня | adapted: adapted |
+| 12 | Костя | Настя, пожалуйста, не перебивай меня сейчас. | Nastya, please do not interrupt me right now. | #55 00:06:07: Настя, не перебивай меня | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -32,8 +32,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'You hit me once in your sleep!' The '-l' ending on the verb meaning 'hit' places the action in the masculine past tense.
 - 'Nastya, I was having a terrible dream then.' Kostya anchors the line on 'Nastya', while 'dream' completes the thought.
 - 'In the dream I was a brave gladiator.' Here the Russian phrasing highlights 'dream' before landing on 'gladiator'.
-- 'A huge hungry lion was running after me!' Kostya anchors the line on 'for', while 'to run' completes the thought.
-- 'And what if you had killed me?' The grammar packs 'and' and 'killed' into a tight, idiomatic kitchen exchange.
+- 'A huge hungry lion was running after me!' In everyday Russian, 'huge' flows straight into 'to run, to flee' without extra linking words.
+- 'And what if you had killed me?' In spoken Russian, the words stay in their normal statement order and Nastya's rising voice at the end turns the line into a question.
 - 'What would you have done alone then?' In Russian, the idea of 'what' flows naturally into 'did' without extra filler words.
 - 'If I were suddenly gone?' The grammar packs 'if' and 'to become' into a tight, idiomatic kitchen exchange.
 - 'Nastya, please do not interrupt me right now.' Spoken Russian keeps this brisk, leaning on 'Nastya' and finishing on 'now'.

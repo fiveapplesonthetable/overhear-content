@@ -1,14 +1,14 @@
 ID = 'kukhnya-s05e17-scene-20'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 17
 SCENE = 20
-TITLE = 'Рождение дочки  (The Birth of Their Daughter)'
+TITLE = "Рождение дочки  (The Birth of Their Daughter)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja', 'doctor': 'angelina'}
-LABELS = {'anya': 'Макс', 'vika': 'Вика', 'doctor': 'Врач'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.17"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "vika": "angelina", "doctor": "anja"}
+LABELS = {"anya": "Макс", "vika": "Вика", "doctor": "Врач"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.17'
 SOURCE_FILE = 'sources/kukhnya/s05/e17.ru.srt'
 
 INTRO = 'When Vika begs Max not to leave her alone in the delivery room, he stays right beside her holding her hand. Moments later, their baby daughter is born, bringing them back together.'
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Holding their newborn daughter in the quiet ward, Max and Vika share a tender moment of gratitude. See you next time.'
-CLOSING = ('anya', 'Наш ребёнок, спасибо тебе.')
+OUTRO = 'Holding their newborn daughter in the quiet ward, Max and Vika share a tender moment of gratitude. See you next time!'
+CLOSING = ("anya", "Пока!")

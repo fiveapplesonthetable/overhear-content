@@ -1,15 +1,15 @@
-ID = "kukhnya-s02e18-scene-08"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e18-scene-08'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 18
 SCENE = 8
-TITLE = 'Шеф уезжает, а туристы приезжают  (The Chef Leaves and the Tourists Arrive)'
+TITLE = "Шеф уезжает, а туристы приезжают  (The Chef Leaves and the Tourists Arrive)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja', 'timur': 'angelina'}
-LABELS = {'anya': 'Макс', 'chef': 'Шеф', 'timur': 'Тимур'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.18"
-SOURCE_FILE = "sources/kukhnya/s02/e18.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "timur": "angelina", "chef": "anja"}
+LABELS = {"anya": "Макс", "timur": "Тимур", "chef": "Шеф"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.18'
+SOURCE_FILE = 'sources/kukhnya/s02/e18.ru.srt'
 
 INTRO = 'Having secretly replaced the spoiled snails with contraband ones, Max assures Chef Barinov that the stock in the fridge is in great shape. Expecting no more than a customer or two on a quiet Monday, the Chef leaves for the afternoon—just as a crowd of Chinese tourists arrives.'
 
@@ -44,10 +44,9 @@ WALK = [
     (9, None, "'Oh, come on now.' Max anchors the line on 'yes', while 'really?!' completes the thought."),
     (10, None, "'I do not get it, what kind of nonsense is this?' Chef Viktor anchors the line on 'I', while 'trifle' completes the thought. Timur answers right away."),
     (11, None, "'Oh, take it easy.' In Russian, the idea of 'yes' flows naturally into 'you' without extra filler words."),
-    (12, None, "'Excuse me, please, how will you manage to seat us?' Russian expresses 'having' with the preposition 'by' plus the genitive pronoun and 'will come out'."),
+    (12, None, "'Excuse me, please, how will you manage to seat us?' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'."),
 ]
 
 TRANSITION = "Let's hear the full exchange one more time at natural speed."
-
-OUTRO = 'When you watch Scene 8 of Episode 18, listen out for the exchange around the chef leaves and the tourists arrive — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('timur', 'Да ладно тебе.')
+OUTRO = 'That wraps up this scene as max replaces the spoiled snails just before Chef Barinov leaves for the afternoon expecting a dead Monday, right as busloads of Chinese tourists arrive at Claude Monet. See you next time!'
+CLOSING = ("timur", "Пока!")

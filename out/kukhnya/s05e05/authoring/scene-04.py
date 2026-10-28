@@ -1,31 +1,31 @@
 ID = 'kukhnya-s05e05-scene-04'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 5
 SCENE = 4
 TITLE = "Выдуманная тайна Дениса  (Denis's Invented Secret)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'denis': 'anja', 'nastya': 'angelina'}
-LABELS = {'anya': 'Костя', 'denis': 'Денис', 'nastya': 'Настя'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.05"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "kostya": "anja", "nastya": "angelina"}
+LABELS = {"kostya": "Костя", "nastya": "Настя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.05'
 SOURCE_FILE = 'sources/kukhnya/s05/e05.ru.srt'
 
 INTRO = 'At the bar counter, Denis confides in Kostya that he and Katya have broken up over a secret he cannot tell her. When Nastya demands to know what happened, Kostya panics and makes up a sympathetic story about a daughter in Voronezh.'
 
 STORY = [
-    ('anya', 'Что случилось?', 'What happened?', [(58, 'случилось')], 'adapted'),
-    ('denis', 'Мы с Катей расстались.', 'Katya and I broke up.', [(59, 'Мы с Катей расстались')], 'adapted'),
-    ('anya', 'Крепись, старик.', 'Stay strong, buddy.', [(60, 'Крепись, старик')], 'adapted'),
-    ('denis', 'Кате всё равно правду не расскажешь.', 'You cannot tell Katya the truth anyway.', [(62, 'Кате все равно правду не расскажешь')], 'adapted'),
+    ('kostya', 'Что случилось?', 'What happened?', [(58, 'случилось')], 'adapted'),
+    ('kostya', 'Мы с Катей расстались.', 'Katya and I broke up.', [(59, 'Мы с Катей расстались')], 'adapted'),
+    ('kostya', 'Крепись, старик.', 'Stay strong, buddy.', [(60, 'Крепись, старик')], 'adapted'),
+    ('kostya', 'Кате всё равно правду не расскажешь.', 'You cannot tell Katya the truth anyway.', [(62, 'Кате все равно правду не расскажешь')], 'adapted'),
     ('nastya', 'Это какую правду Кате не расскажешь?', 'What truth can you not tell Katya?', [(63, 'Это какую правду Кате не расскажешь')], 'adapted'),
-    ('anya', 'Настя, ну я не могу тебе рассказать.', 'Nastya, well I cannot tell you.', [(66, 'Настя, ну я не могу тебе рассказать')], 'adapted'),
-    ('anya', 'У Дэна в Воронеже есть семья.', 'Den has a family in Voronezh.', [(69, 'Дэна в Воронеже есть семья')], 'adapted'),
+    ('kostya', 'Настя, ну я не могу тебе рассказать.', 'Nastya, well I cannot tell you.', [(66, 'Настя, ну я не могу тебе рассказать')], 'adapted'),
+    ('kostya', 'У Дэна в Воронеже есть семья.', 'Den has a family in Voronezh.', [(69, 'Дэна в Воронеже есть семья')], 'adapted'),
     ('nastya', 'Дэн женат?', 'Is Den married?', [(70, 'Дэн женат')], 'adapted'),
-    ('anya', 'Жена от него ушла.', 'His wife left him.', [(73, 'Жена от него ушла')], 'adapted'),
-    ('anya', 'Оставила его одного с дочкой.', 'She left him alone with a daughter.', [(74, 'оставила его одного с дочкой')], 'adapted'),
+    ('kostya', 'Жена от него ушла.', 'His wife left him.', [(73, 'Жена от него ушла')], 'adapted'),
+    ('kostya', 'Оставила его одного с дочкой.', 'She left him alone with a daughter.', [(74, 'оставила его одного с дочкой')], 'adapted'),
     ('nastya', 'А где же сейчас дочка?', 'And where is the daughter right now?', [(78, 'А где же сейчас дочка')], 'adapted'),
-    ('anya', 'У бабушки с дедушкой.', 'With her grandmother and grandfather.', [(79, 'У бабушки с дедушкой')], 'adapted'),
+    ('kostya', 'У бабушки с дедушкой.', 'With her grandmother and grandfather.', [(79, 'У бабушки с дедушкой')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Moved to tears by the story of Denis's poor little daughter, Nastya promises Kostya she will not breathe a word to anyone. See you in the next scene."
-CLOSING = ('nastya', 'Бедная девочка, вот беда.')
+OUTRO = "Moved to tears by the story of Denis's poor little daughter, Nastya promises Kostya she will not breathe a word to anyone. See you next time!"
+CLOSING = ("nastya", "Хорошего дня!")

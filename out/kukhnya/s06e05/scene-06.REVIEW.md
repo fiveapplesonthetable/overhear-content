@@ -10,16 +10,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Сегодня я получил большое повышение. | Today I received a big promotion. | #90 00:06:46: ты сегодня получишь повышение | adapted: adapted |
+| 1 | Шеф | Сегодня я получил большое повышение. | Today I received a big promotion. | #90 00:06:46: ты сегодня получишь повышение | adapted: adapted |
 | 2 | Елена | И что ты им ответил? | And what did you answer them? | #93 00:06:57: И что ты ответил | adapted: adapted |
-| 3 | Аня | А ты сама как думаешь? | And what do you think yourself? | #94 00:06:59: А ты как думаешь | adapted: adapted |
+| 3 | Шеф | А ты сама как думаешь? | And what do you think yourself? | #94 00:06:59: А ты как думаешь | adapted: adapted |
 | 4 | Елена | Думаю, что ресторан приобрёл владельца. | I think that the restaurant gained an owner. | #95 00:07:01: Думаю, что Виктор приобрел прекрасного владельца | adapted: adapted |
-| 5 | Аня | Точнее, ресторан приобрёл нового совладельца. | More accurately, the restaurant gained a new co-owner. | #96 00:07:06: Совладельца. Хорошо | adapted: adapted |
+| 5 | Шеф | Точнее, ресторан приобрёл нового совладельца. | More accurately, the restaurant gained a new co-owner. | #96 00:07:06: Совладельца. Хорошо | adapted: adapted |
 | 6 | Елена | Какая же это всё-таки красота! | How wonderful all of this is! | #97 00:07:11: Какая красота | adapted: adapted |
 | 7 | Елена | Мне предложили вести колонку в журнале. | They offered me a column in a magazine. | #98 00:07:12: а мне предложили ввести колонку в журнале | adapted: adapted |
 | 8 | Елена | Надо писать о ресторанах Москвы. | I would write about the restaurants of Moscow. | #99 00:07:16: Писать о ресторанах Москвы | adapted: adapted |
 | 9 | Елена | Им очень понравилась моя книга. | They liked my book very much. | #100 00:07:18: очень понравилась моя книга | adapted: adapted |
-| 10 | Аня | Я тебя от души поздравляю! | I congratulate you from the bottom of my heart! | #101 00:07:21: Поздравляю | adapted: adapted |
+| 10 | Шеф | Я тебя от души поздравляю! | I congratulate you from the bottom of my heart! | #101 00:07:21: Поздравляю | adapted: adapted |
 | 11 | Елена | Спасибо тебе большое, мой дорогой. | Thank you very much, my dear. | #101 00:07:21: Спасибо | adapted: adapted |
 | 12 | Елена | Правда, я уже им отказалась. | Though I already turned them down. | #102 00:07:23: Правда, я отказалась | adapted: adapted |
 

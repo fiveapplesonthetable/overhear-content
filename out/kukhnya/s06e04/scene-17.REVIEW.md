@@ -10,16 +10,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Вера Ивановна, я помыла все окна. | Vera Ivanovna, I washed all the windows. | #267 00:19:40: Вера Ивановна, я помыла все окна | adapted: exact |
+| 1 | Гость | Вера Ивановна, я помыла все окна. | Vera Ivanovna, I washed all the windows. | #267 00:19:40: Вера Ивановна, я помыла все окна | adapted: exact |
 | 2 | Гость | Спасибо тебе, Гуля. | Thank you, Gulya. | #268 00:19:43: Спасибо | adapted: adapted |
 | 3 | Гость | Отдохни пока, посиди. | Rest for now, sit for a bit. | #269 00:19:46: Отдохни пока<br>#270 00:19:47: посиди | adapted: adapted |
 | 4 | Гость | Можешь телевизор посмотреть в комнате. | You can watch television in the room. | #270 00:19:47: Можешь телевизор посмотреть | adapted: adapted |
-| 5 | Аня | Хорошо, спасибо большое. | Alright, thank you very much. | #271 00:19:52: Хорошо | adapted: adapted |
+| 5 | Гость | Хорошо, спасибо большое. | Alright, thank you very much. | #271 00:19:52: Хорошо | adapted: adapted |
 | 6 | Гость | Конечно, радуйся, но все-таки будь осторожна. | Of course, be glad, but still be careful. | #272 00:19:57: Конечно, радуйся<br>#273 00:19:59: Но все-таки будь | adapted: adapted |
 | 7 | Гость | У моей подруги тоже была вот такая домработница. | My friend also had a housekeeper just like this. | #274 00:20:01: тоже была вот такая домработница | adapted: adapted |
 | 8 | Гость | Такая тихая и скромная девушка. | Such a quiet and modest girl. | #275 00:20:05: Тихая, скромная | adapted: adapted |
 | 9 | Гость | А в один день вдруг пропали все деньги. | And one day suddenly all the money disappeared. | #276 00:20:07: А в один день вдруг<br>#277 00:20:09: денег | adapted: adapted |
-| 10 | Аня | Я совсем не такая. | I am not like that at all. | #278 00:20:13: Она не похожа на | adapted: adapted |
+| 10 | Гость | Я совсем не такая. | I am not like that at all. | #278 00:20:13: Она не похожа на | adapted: adapted |
 | 11 | Гость | Вера, ты мне пять тысяч дашь до пенсии? | Vera, will you lend me five thousand until my pension? | #279 00:20:20: Вера, ты мне пять тысяч-то дашь<br>#279 00:20:20: до пенсии | adapted: adapted |
 | 12 | Гость | Да, сейчас принесу. | Yes, I will bring it right now. | #280 00:20:25: Да | adapted: adapted |
 

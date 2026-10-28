@@ -14,7 +14,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 2 | Аня | Я приглашаю её вечером на свидание. | I am inviting her out on a date tonight. | #102 00:08:52: Я приглашаю её на свидание | adapted: adapted |
 | 3 | Аня | А на встречу идёшь именно ты. | And you are the one who goes to the meeting. | #103 00:08:54: А идёшь ты | adapted: adapted |
 | 4 | Аня | Дальше действуешь сам, выше нос! | From there you act on your own, chin up! | #103 00:08:54: Дальше сам<br>#104 00:08:56: Выше нос | adapted: adapted |
-| 5 | Лёва | Хорошо, Макс, мы с тобой договорились. | Alright, Max, we have a deal. | #104 00:08:56: Договорились? | adapted: adapted |
+| 5 | Катя | Хорошо, Макс, мы с тобой договорились. | Alright, Max, we have a deal. | #104 00:08:56: Договорились? | adapted: adapted |
 | 6 | Аня | Ну что, куда пойдём кофе пить? | So, where shall we go to drink coffee? | #106 00:09:08: Ну что? Куда пойдём кофе пить | adapted: adapted |
 | 7 | Катя | Максим, никуда мы с тобой не пойдём. | Maxim, you and I are not going anywhere. | #107 00:09:11: никуда мы не пойдём | adapted: adapted |
 | 8 | Аня | В смысле никуда не пойдём? | What do you mean we are not going anywhere? | #108 00:09:14: В смысле? | adapted: adapted |

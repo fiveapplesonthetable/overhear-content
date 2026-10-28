@@ -1,41 +1,39 @@
-# kukhnya-s02e02-scene-06: review sheet
+# Заказ  (The Order) — `kukhnya-s02e02-scene-06`
 
-Title: Заказ  (The Order)
-Level: A1 — Duolingo Section 2
-Pair: ru-en
-Source: Кухня (Kukhnya) S2.02
+**Source:** Кухня (Kukhnya) S2.02 · `sources/kukhnya/s02/e02.ru.dual.srt`  
+**Target level:** A1 — Duolingo Section 2
 
+## Cast
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+| Role | Voice | Label |
+|---|---|---|
+| `narrator` | sky | — |
+| `sasha` | anja | Саша |
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+## Part 1 — Intro
+
+> In the restaurant, a normal day is suddenly interrupted. Someone needs urgent medical help. Let's listen closely to their exchange in Russian first, and then walk through each line together.
+
+## Part 2 — Story
+
+| # | Speaker | Line | English | Source cue(s) | Change |
 |---|---|---|---|---|---|
-| 1 | Саша | Приятного аппетита. | Enjoy your meal. | #104 00:07:33: Приятного аппетита | verbatim |
-| 2 | Антон | Саша, привет. | Sasha, hi. | new | new: new |
-| 3 | Антон | Я хочу есть. | I want to eat. | new | new: new |
-| 4 | Антон | Ты попросишь Калифорнию? | Will you ask for a California roll? | #105 00:07:36: попросишь<br>#105 00:07:36: Калифорнию | verbatim |
-| 5 | Саша | Да, конечно. | Yes, of course. | new | new: new |
-| 6 | Саша | Хорошо, спасибо. | Okay, thanks. | #106 00:07:38: Хорошо, спасибо | verbatim |
-| 7 | Саша | Ой, что это? | Oh, what is this? | new | new: new |
-| 8 | Антон | Человеку плохо! | A person is feeling bad! | new | new: new |
-| 9 | Саша | Что случилось? | What happened? | new | new: new |
-| 10 | Антон | Ему очень плохо. | He is very bad. | new | new: new |
-| 11 | Саша | Помогите! | Help! | new | new: new |
-| 12 | Антон | Скорую вызовите. | Call an ambulance. | #107 00:07:42: Скорую вызовите | verbatim |
-| 13 | Саша | Скорую нужно вызвать. | We need an ambulance. | #108 00:07:44: Скорую нужно | verbatim |
+| 0 | Саша | Приятного аппетита. | Enjoy your meal. | #104 "Приятного аппетита" |  |
+| 1 | Саша | Саша, привет. | Sasha, hi. | *(added)* |  |
+| 2 | Саша | Я хочу есть. | I want to eat. | *(added)* |  |
+| 3 | Саша | Ты попросишь Калифорнию? | Will you ask for a California roll? | #105 "попросишь", #105 "Калифорнию" |  |
+| 4 | Саша | Да, конечно. | Yes, of course. | *(added)* |  |
+| 5 | Саша | Хорошо, спасибо. | Okay, thanks. | #106 "Хорошо, спасибо" |  |
+| 6 | Саша | Ой, что это? | Oh, what is this? | *(added)* |  |
+| 7 | Саша | Человеку плохо! | A person is feeling bad! | *(added)* |  |
+| 8 | Саша | Что случилось? | What happened? | *(added)* |  |
+| 9 | Саша | Ему очень плохо. | He is very bad. | *(added)* |  |
+| 10 | Саша | Помогите! | Help! | *(added)* |  |
+| 11 | Саша | Скорую вызовите. | Call an ambulance. | #107 "Скорую вызовите" |  |
+| 12 | Саша | Скорую нужно вызвать. | We need an ambulance. | #108 "Скорую нужно" |  |
 
-## Walk-through narration (English only, no target-language words quoted)
+## Part 5 — Outro & closing
 
-- 'Enjoy your meal.' Russian omits the present-tense verb 'to be' here, linking 'pleasant' directly with 'appetite', combining 'pleasant' with 'appetite'.
-- 'Sasha, hi.' the guest delivers a punchy conversational reaction built around the Russian word meaning 'hi'.
-- 'I want to eat.' the guest chooses the imperfective verb meaning 'want' for the ongoing action, followed by 'there is'.
-- 'Will you ask for a California roll?' the guest turns a statement into a question purely through rising intonation on the word meaning 'to ask' to make the point directly in conversation.
-- 'Yes, of course.' Sasha delivers a punchy one-word reaction built around the Russian word meaning 'of course'.
-- 'Okay, thanks.' Russian omits the present-tense verb 'to be' here, linking 'good' directly with 'thank you', combining 'good' with 'thank you'.
-- 'Oh, what is this?' Sasha delivers a punchy one-word reaction built around the Russian word meaning 'oh'.
-- 'A person is feeling bad!' Russian omits the present-tense verb 'to be' here, linking 'to a person' directly with 'badly', combining 'to a person' with 'badly'.
-- 'What happened?' Sasha delivers a punchy one-word reaction built around the Russian word meaning 'happened'.
-- 'He is very bad.' Russian omits the present-tense verb 'to be' here, linking 'very much' directly with 'badly', combining 'very much' with 'badly'.
-- 'Help!' Sasha leads with the direct command form meaning 'help' to make the point directly in conversation.
-- 'Call an ambulance.' the guest leads with the direct command form meaning 'to call', followed by 'ambulance'.
-- 'We need an ambulance.' Sasha puts the word for 'ambulance' together with 'necessary' and 'to call' in a crisp, natural spoken turn of phrase.
+> Someone needs urgent medical help. Next time you watch the episode, listen for the Russian expressions for 'pleasant' and 'appetite' — you will catch every word right away. See you next time!
+
+**Саша:** До свидания!

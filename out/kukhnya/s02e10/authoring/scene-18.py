@@ -1,32 +1,32 @@
-ID = "kukhnya-s02e10-scene-18"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e10-scene-18'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 10
 SCENE = 18
 TITLE = "Побег Пашки и фальшивый суп  (Pashka's Escape and the Fake Soup)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'fedya': 'anja'}
-LABELS = {'anya': 'Костя', 'fedya': 'Федя'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.10"
-SOURCE_FILE = "sources/kukhnya/s02/e10.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "kostya": "anja"}
+LABELS = {"kostya": "Костя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.10'
+SOURCE_FILE = 'sources/kukhnya/s02/e10.ru.srt'
 
 INTRO = 'In the kitchen, Fedya finishes preparing the imitation turtle soup using chicken and solemnly tells Nastya that the hen gave its life for her pet. Moments later, chaos erupts as the VIP guest arrives in the dining room and Nastya discovers that Pashka has escaped.'
 
 STORY = [
-    ('anya', 'Даст бог.', 'God willing.', [(290, 'Даст бог')], ''),
-    ('fedya', 'Здравствуйте, вам чего?', 'Hello, what do you want?', [(292, 'Здравствуйте, вам чего')], ''),
-    ('anya', 'Мне надо с вами поговорить.', 'I need to speak with you.', [(293, 'Мне надо с вами поговорить')], ''),
-    ('fedya', 'У меня к вам предложение.', 'I have a proposition for you.', [(294, 'у меня к вам предложение')], ''),
-    ('anya', 'Я не поняла?', 'I beg your pardon?', [(295, 'я не поняла')], ''),
-    ('fedya', 'Потому что она должна быть свежей.', 'Because it has to be fresh.', [(296, 'Потому что она должна быть свежей')], ''),
-    ('anya', 'Вот эта курица за тебя жизнь отдала.', 'This chicken gave its life for you.', [(297, 'вот эта курица за тебя жизнь отдала')], ''),
-    ('fedya', 'Алло, алло, полиция?', 'Hello, hello, police?', [(298, 'Алло, алло, полиция')], ''),
-    ('anya', 'Салфетки берешь на складе.', 'You get the napkins from the storage room.', [(301, 'Салфетки берешь на складе')], ''),
-    ('fedya', 'Берете скатерти.', 'Take the tablecloths.', [(302, 'Берете скатерти')], ''),
-    ('anya', 'Костя, а ты что здесь делаешь?', 'Kostya, what are you doing out here?', [(303, 'Костя, а ты что здесь делаешь')], ''),
-    ('fedya', 'Иди в бар.', 'Go back to the bar.', [(304, 'Иди в бар')], ''),
-    ('anya', 'Костя, иди в бар.', 'Kostya, go to the bar.', [(305, 'Костя, иди в бар')], ''),
+    ('kostya', 'Даст бог.', 'God willing.', [(290, 'Даст бог')], ''),
+    ('kostya', 'Здравствуйте, вам чего?', 'Hello, what do you want?', [(292, 'Здравствуйте, вам чего')], ''),
+    ('kostya', 'Мне надо с вами поговорить.', 'I need to speak with you.', [(293, 'Мне надо с вами поговорить')], ''),
+    ('kostya', 'У меня к вам предложение.', 'I have a proposition for you.', [(294, 'у меня к вам предложение')], ''),
+    ('kostya', 'Я не поняла?', 'I beg your pardon?', [(295, 'я не поняла')], ''),
+    ('kostya', 'Потому что она должна быть свежей.', 'Because it has to be fresh.', [(296, 'Потому что она должна быть свежей')], ''),
+    ('kostya', 'Вот эта курица за тебя жизнь отдала.', 'This chicken gave its life for you.', [(297, 'вот эта курица за тебя жизнь отдала')], ''),
+    ('kostya', 'Алло, алло, полиция?', 'Hello, hello, police?', [(298, 'Алло, алло, полиция')], ''),
+    ('kostya', 'Салфетки берешь на складе.', 'You get the napkins from the storage room.', [(301, 'Салфетки берешь на складе')], ''),
+    ('kostya', 'Берете скатерти.', 'Take the tablecloths.', [(302, 'Берете скатерти')], ''),
+    ('kostya', 'Костя, а ты что здесь делаешь?', 'Kostya, what are you doing out here?', [(303, 'Костя, а ты что здесь делаешь')], ''),
+    ('kostya', 'Иди в бар.', 'Go back to the bar.', [(304, 'Иди в бар')], ''),
+    ('kostya', 'Костя, иди в бар.', 'Kostya, go to the bar.', [(305, 'Костя, иди в бар')], ''),
 ]
 
 OPENER = "Alright, let's go through it step by step in English."
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's listen to all those lines again from the top."
-
-OUTRO = "When you watch Scene 18 of Episode 10, listen out for the exchange around pashka's escape and the fake soup — you will recognize every Russian phrase right away. See you in the next scene."
-CLOSING = ('anya', 'Костя, иди в бар.')
+OUTRO = 'That wraps up this scene as while Fedya finishes cooking the fake turtle soup made from chicken, Nastya panics when she realizes Pashka the turtle has vanished from his box. See you next time!'
+CLOSING = ("kostya", "До завтра!")

@@ -1,31 +1,31 @@
 ID = 'kukhnya-s06e08-scene-03'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 8
 SCENE = 3
-TITLE = 'Зеркало для мотоцикла  (The Motorcycle Mirror)'
+TITLE = "Зеркало для мотоцикла  (The Motorcycle Mirror)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'denis': 'anja', 'lyova': 'angelina'}
-LABELS = {'anya': 'Шеф', 'denis': 'Денис', 'lyova': 'Лёва'}
-SOURCE_NAME = "Кухня (Kukhnya) S6.08"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "lyova": "angelina"}
+LABELS = {"chef": "Шеф", "lyova": "Лёва"}
+SOURCE_NAME = 'Кухня (Kukhnya) S6.08'
 SOURCE_FILE = 'sources/kukhnya/s06/e08.ru.srt'
 
 INTRO = "In the kitchen, Chef Barinov asks the cooks what they are getting Katya and spots Denis holding a brand-new replacement mirror for Katya's motorcycle. Listen to the full conversation in Russian first, and then we will walk through every line together."
 
 STORY = [
-    ('anya', 'А вы сами что сегодня Кате дарите?', 'And what are you giving Katya today yourselves?', [(36, 'А вы-то сами что дарите')], 'adapted'),
+    ('chef', 'А вы сами что сегодня Кате дарите?', 'And what are you giving Katya today yourselves?', [(36, 'А вы-то сами что дарите')], 'adapted'),
     ('lyova', 'Мы скидываемся по тысяче рублей, как обычно.', 'We are chipping in a thousand rubles each, as usual.', [(37, 'Так мы скидываемся по тысяче, как обычно')], 'adapted'),
     ('lyova', 'Хотите скинуться на подарок вместе с нами?', 'Would you like to chip in for the gift with us?', [(37, 'хотите с нами')], 'adapted'),
-    ('anya', 'Лёва, ты самый щедрый из нас человек.', 'Lyova, you are the most generous person among us.', [(39, 'Лёва, ты самый щедрый из нас человек')], 'adapted'),
-    ('anya', 'Денис, а что это у тебя там?', 'Denis, and what is that you have over there?', [(41, 'А что это у тебя там')], 'adapted'),
-    ('denis', 'У Кати на мотоцикле недавно зеркало разбилось.', "The mirror on Katya's motorcycle broke recently.", [(42, 'У Кати на мотоцикле зеркало разбилось')], 'adapted'),
-    ('denis', 'Вот я и купил ей новое зеркало.', 'So I bought her a brand-new mirror.', [(43, 'купил')], 'adapted'),
-    ('anya', 'Это отличный подарок от родного отца!', 'That is an excellent gift from her own father!', [(44, 'Отличный подарок. От отца')], 'adapted'),
-    ('anya', 'Немедленно дай эту коробку сюда мне.', 'Give that box here to me immediately.', [(45, 'Дай сюда')], 'adapted'),
-    ('anya', 'А ты скидывайся на подарок со всеми.', 'And you chip in for the gift with everyone else.', [(47, 'Скидывайся вместе со всеми')], 'adapted'),
-    ('anya', 'Нечего тебе отрываться от нашего коллектива!', 'There is no reason for you to separate yourself from our team!', [(47, 'Нечего отрываться от коллектива')], 'adapted'),
-    ('anya', 'Деньги за зеркало я тебе потом отдам.', 'I will pay you back for the mirror later.', [(49, 'За зеркало потом отдам')], 'adapted'),
+    ('chef', 'Лёва, ты самый щедрый из нас человек.', 'Lyova, you are the most generous person among us.', [(39, 'Лёва, ты самый щедрый из нас человек')], 'adapted'),
+    ('chef', 'Денис, а что это у тебя там?', 'Denis, and what is that you have over there?', [(41, 'А что это у тебя там')], 'adapted'),
+    ('chef', 'У Кати на мотоцикле недавно зеркало разбилось.', "The mirror on Katya's motorcycle broke recently.", [(42, 'У Кати на мотоцикле зеркало разбилось')], 'adapted'),
+    ('chef', 'Вот я и купил ей новое зеркало.', 'So I bought her a brand-new mirror.', [(43, 'купил')], 'adapted'),
+    ('chef', 'Это отличный подарок от родного отца!', 'That is an excellent gift from her own father!', [(44, 'Отличный подарок. От отца')], 'adapted'),
+    ('chef', 'Немедленно дай эту коробку сюда мне.', 'Give that box here to me immediately.', [(45, 'Дай сюда')], 'adapted'),
+    ('chef', 'А ты скидывайся на подарок со всеми.', 'And you chip in for the gift with everyone else.', [(47, 'Скидывайся вместе со всеми')], 'adapted'),
+    ('chef', 'Нечего тебе отрываться от нашего коллектива!', 'There is no reason for you to separate yourself from our team!', [(47, 'Нечего отрываться от коллектива')], 'adapted'),
+    ('chef', 'Деньги за зеркало я тебе потом отдам.', 'I will pay you back for the mirror later.', [(49, 'За зеркало потом отдам')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Having commandeered Denis's thoughtful present as his own fatherly gift, Chef Barinov marches off feeling very pleased with himself. See you in the next scene."
-CLOSING = ('denis', 'Ладно, шеф, я никому не скажу.')
+OUTRO = "Having commandeered Denis's thoughtful present as his own fatherly gift, Chef Barinov marches off feeling very pleased with himself. Until next time!"
+CLOSING = ("chef", "Пока!")

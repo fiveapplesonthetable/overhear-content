@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e17-scene-07'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 17
 SCENE = 7
-TITLE = 'Проверка шуткой  (Testing with a Joke)'
+TITLE = "Проверка шуткой  (Testing with a Joke)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'katya': 'anja', 'rodion': 'angelina'}
-LABELS = {'anya': 'Макс', 'katya': 'Катя', 'rodion': 'Родион'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.17"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "rodion": "anja", "anya": "alisa", "katya": "angelina"}
+LABELS = {"rodion": "Родион", "anya": "Макс", "katya": "Катя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.17'
 SOURCE_FILE = 'sources/kukhnya/s03/e17.ru.srt'
 
 INTRO = "Out in the courtyard, Max decides to test Nastya's theory by telling Katya a terrible joke about coffee. When Katya laughs anyway, Rodion Sergeyevich confirms Max's worst fears."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Even Rodion Sergeyevich can see that Katya has fallen for Max—despite Max's atrocious sense of humor."
-CLOSING = ('rodion', 'Вы точно нравитесь Екатерине.')
+OUTRO = "Even Rodion Sergeyevich can see that Katya has fallen for Max—despite Max's atrocious sense of humor. Until next time!"
+CLOSING = ("rodion", "До встречи!")

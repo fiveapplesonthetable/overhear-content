@@ -1,39 +1,39 @@
-# kukhnya-s01e14-scene-02: review sheet
+# Жажда веселья  (Thirst for Fun) — `kukhnya-s01e14-scene-02`
 
-Title: Жажда веселья  (Thirst for Fun)
-Level: A1 — Duolingo Section 2
-Pair: ru-en
-Source: Кухня (Kukhnya) S1.14
-Cues 4-6.
+**Source:** Кухня (Kukhnya) S1.14 · `sources/kukhnya/s01/e14.ru.dual.srt`  
+**Target level:** A1 — Duolingo Section 2
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+## Cast
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+| Role | Voice | Label |
+|---|---|---|
+| `narrator` | sky | — |
+| `sasha` | anja | Саша |
+| `anya` | alisa | Макс |
+
+## Part 1 — Intro
+
+> Max compliments Sasha on her work and suggests they have some fun. Let's listen closely to their exchange in Russian first, and then walk through each line together.
+
+## Part 2 — Story
+
+| # | Speaker | Line | English | Source cue(s) | Change |
 |---|---|---|---|---|---|
-| 1 | Макс | Саша, ты видела новый красивый торт? | Sasha, did you see the new beautiful cake? | new | new: new |
-| 2 | Саша | Конечно, я сама его сегодня украшала. | Of course, I decorated it myself today. | new | new: new |
-| 3 | Макс | Он выглядит просто великолепно. | It looks simply magnificent. | new | new: new |
-| 4 | Саша | Спасибо, я очень сильно старалась. | Thank you, I tried very hard. | new | new: new |
-| 5 | Макс | Шеф уже видел твою новую работу? | Has the chef already seen your new work? | new | new: new |
-| 6 | Саша | Да, он был очень доволен мной. | Yes, he was very satisfied with me. | new | new: new |
-| 7 | Макс | И это у вас получилось. | And you pulled it off. | #4 00:00:48: И это у вас получилось. | adapted: adapted |
-| 8 | Саша | А теперь можно немного отдохнуть. | And now we can rest a little. | new | new: new |
-| 9 | Макс | Кто тут хочет повеселиться? | Who wants to have some fun? | #5 00:00:50: Кто тут хочет повеселиться? | adapted: adapted |
-| 10 | Саша | Я хочу. | I do. | #6 00:00:52: Я хочу. | adapted: adapted |
-| 11 | Макс | Тогда пойдём со мной на улицу. | Then let us go outside with me. | new | new: new |
-| 12 | Саша | Подожди, я только сниму свой фартук. | Wait, I will just take off my apron. | new | new: new |
+| 0 | Макс | Саша, ты видела новый красивый торт? | Sasha, did you see the new beautiful cake? | *(added)* |  |
+| 1 | Саша | Конечно, я сама его сегодня украшала. | Of course, I decorated it myself today. | *(added)* |  |
+| 2 | Макс | Он выглядит просто великолепно. | It looks simply magnificent. | *(added)* |  |
+| 3 | Саша | Спасибо, я очень сильно старалась. | Thank you, I tried very hard. | *(added)* |  |
+| 4 | Макс | Шеф уже видел твою новую работу? | Has the chef already seen your new work? | *(added)* |  |
+| 5 | Саша | Да, он был очень доволен мной. | Yes, he was very satisfied with me. | *(added)* |  |
+| 6 | Макс | И это у вас получилось. | And you pulled it off. | #4 "И это у вас получилось." |  |
+| 7 | Саша | А теперь можно немного отдохнуть. | And now we can rest a little. | *(added)* |  |
+| 8 | Макс | Кто тут хочет повеселиться? | Who wants to have some fun? | #5 "Кто тут хочет повеселиться?" |  |
+| 9 | Саша | Я хочу. | I do. | #6 "Я хочу." |  |
+| 10 | Макс | Тогда пойдём со мной на улицу. | Then let us go outside with me. | *(added)* |  |
+| 11 | Саша | Подожди, я только сниму свой фартук. | Wait, I will just take off my apron. | *(added)* |  |
 
-## Walk-through narration (English only, no target-language words quoted)
+## Part 5 — Outro & closing
 
-- 'Sasha, did you see the new beautiful cake?' Max turns a statement into a question purely through rising intonation on the word meaning 'saw', pairing it with 'new' and 'beautiful'.
-- 'Of course, I decorated it myself today.' Here Sasha anchors the line on the word meaning 'of course' and builds the thought around 'today' and 'decorate'.
-- 'It looks simply magnificent.' Max chooses the imperfective verb meaning 'looks' for the ongoing action, followed by 'just' and 'magnificent'.
-- 'Thank you, I tried very hard.' Sasha expresses this naturally by combining the word for 'thank you' with 'very much' and 'strongly'.
-- 'Has the chef already seen your new work?' Max turns a statement into a question purely through rising intonation on the word meaning 'already', pairing it with 'saw' and 'new'.
-- 'Yes, he was very satisfied with me.' Sasha chooses the imperfective verb meaning 'was' for the ongoing action, followed by 'very much' and 'pleased'.
-- 'And you pulled it off.' Max uses the classic Russian possession phrasing — literally 'at you' rather than a verb meaning 'to have', followed by 'worked out'.
-- 'And now we can rest a little.' Sasha expresses this naturally by combining the word for 'now' with 'may' and 'a bit'.
-- 'Who wants to have some fun?' Max puts the word for 'here' together with 'wants' and 'have fun' in a crisp, natural spoken turn of phrase.
-- 'I do.' Sasha delivers a punchy one-word reaction built around the Russian word meaning 'want'.
-- 'Then let us go outside with me.' The phrasing opens with 'back then' before bringing in 'let's go' and 'street' to make the point clear.
-- 'Wait, I will just take off my apron.' Sasha leads with the direct command form meaning 'wait', pairing it with 'only' and 'will remove'.
+> They sneak out of the kitchen for a quick break. Next time you watch the episode, listen for the Russian expressions for 'to see' and 'new' — you will catch every word right away. See you next time!
+
+**Саша:** Пока!

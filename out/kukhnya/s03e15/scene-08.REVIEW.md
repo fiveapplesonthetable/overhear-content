@@ -25,7 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You bet that in one evening you would learn to cook this dish?' In Russian, the idea of 'you' flows naturally into 'dish' without extra filler words.
+- 'You bet that in one evening you would learn to cook this dish?' Max pairs 'made a bet' with 'dish' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
 - 'Baked rabbit with almond sauce, rosemary, and truffles.' Spoken Russian keeps this brisk, leaning on 'roasted' and finishing on 'with truffles'.
 - 'Out of all those words, I only know the word rabbit!' Max anchors the line on 'I', while 'know' completes the thought.
 - 'Dima, before evening that is completely impossible!' Here the Russian phrasing highlights 'Dima' before landing on 'impossible'.

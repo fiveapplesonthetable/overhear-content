@@ -1,15 +1,15 @@
-ID = "kukhnya-s02e13-scene-15"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e13-scene-15'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 13
 SCENE = 15
-TITLE = 'Возвращение беглеца  (Return of the Runaway)'
+TITLE = "Возвращение беглеца  (Return of the Runaway)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja', 'lyova': 'angelina'}
-LABELS = {'anya': 'Макс', 'chef': 'Шеф', 'lyova': 'Лёва'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.13"
-SOURCE_FILE = "sources/kukhnya/s02/e13.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "chef": "anja", "lyova": "angelina"}
+LABELS = {"anya": "Макс", "chef": "Шеф", "lyova": "Лёва"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.13'
+SOURCE_FILE = 'sources/kukhnya/s02/e13.ru.srt'
 
 INTRO = 'Nastya returns to the kitchen with the untouched plate, telling a bewildered Max that the vegetarian guest hated the new rolls and wants them made exactly like the morning ones. Meanwhile, the police bring Chef Barinov into the restaurant, where Vika confirms his identity.'
 
@@ -33,7 +33,7 @@ OPENER = "Alright, let's go through it step by step in English."
 
 WALK = [
     (0, None, "'Maksim. I do not know.' In Russian, the idea of 'Maxim' flows naturally into 'know' without extra filler words."),
-    (1, None, "'He did not like the vegetarian rolls.' Notice the reflexive suffix on the verb meaning 'pleased', turning the action back on the subject."),
+    (1, None, "'He did not like the vegetarian rolls.' Chef Barinov pairs 'vegetarian' with 'pleased, made a good impression' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'."),
     (2, None, "'Just the way he asked.' Spoken Russian keeps this brisk, leaning on 'how' and finishing on 'ask for'. Max answers right away."),
     (3, None, "'Maksim, he asked you to make them just like this morning.' The meaning hinges on 'Maxim' working together with 'in the morning' in spoken Russian."),
     (4, None, "'Anyway, please try to remember how you made them.' In Russian, the idea of 'short' flows naturally into 'there you go' without extra filler words."),
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's listen to all those lines again from the top."
-
-OUTRO = 'When you watch Scene 15 of Episode 13, listen out for the exchange around return of the runaway — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('anya', 'Нам помогает.')
+OUTRO = 'That wraps up this scene as nastya tells Max that the vegetarian guest disliked the meatless rolls and wants them made like the morning batch, just as the police bring Chef Barinov into the restaurant. Until next time!'
+CLOSING = ("anya", "Пока!")

@@ -31,7 +31,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'We were promised this entire restaurant.' The grammar packs 'us' and 'restaurant' into a tight, idiomatic kitchen exchange.
 - 'Please, go to your table.' Spoken Russian keeps this brisk, leaning on 'please' and finishing on 'table'.
 - 'And take your friends with you too, please.' Notice how Russian expresses 'and' and 'please' with crisp inflection rather than helper words.
-- 'I will definitely complain about you!' Notice the reflexive suffix on the verb meaning 'complain', turning the action back on the subject.
+- 'I will definitely complain about you!' In everyday Russian, 'definitely' flows straight into 'complain' without extra linking words.
 - 'Friends, let us peacefully settle this misunderstanding.' Vika brings out the contrast between 'friend' and 'let's' in a few short words. the guest answers right away.
 - 'If you do not mind, you leave yourselves.' Here the Russian phrasing highlights 'if' before landing on 'leave'.
 - 'Please put down that sharp knife.' The grammar packs 'put' and 'knife' into a tight, idiomatic kitchen exchange.

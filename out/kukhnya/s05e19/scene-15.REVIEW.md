@@ -28,7 +28,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Lyova, why do I need this tenderloin?' Notice how Russian expresses 'Lyova' and 'tenderloin' with crisp inflection rather than helper words. Lyova answers right away.
 - 'That is the chef's special—beef tenderloin medallion.' Lyova brings out the contrast between 'this' and 'dish' in a few short words.
 - 'Lyova, today I am the head chef here.' Max anchors the line on 'Lyova', while 'proper name' completes the thought.
-- 'And I am going to cook my own signature dish.' The grammar packs 'and' and 'dish' into a tight, idiomatic kitchen exchange. Lyova answers right away.
+- 'And I am going to cook my own signature dish.' Here Max anchors the thought on 'will be' and finishes on 'dish', keeping the spoken rhythm brisk and natural.
 - 'Right, what dish is that, your pâté?' The meaning hinges on 'yeah' working together with 'pâté' in spoken Russian.
 - 'At least they recently added it to our menu.' In Russian, the idea of 'on the other hand' flows naturally into 'menu' without extra filler words.
 - 'And what dish of yours did they add to the menu?' Spoken Russian keeps this brisk, leaning on 'and' and finishing on 'to add'. Lyova answers right away.

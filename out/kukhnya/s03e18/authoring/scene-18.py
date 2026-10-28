@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e18-scene-18'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 18
 SCENE = 18
 TITLE = "Начнём всё сначала  (Let's Start Over)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja', 'chef': 'angelina'}
-LABELS = {'anya': 'Макс', 'vika': 'Вика', 'chef': 'Шеф'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.18"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "chef": "anja", "vika": "angelina"}
+LABELS = {"anya": "Макс", "chef": "Шеф", "vika": "Вика"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.18'
 SOURCE_FILE = 'sources/kukhnya/s03/e18.ru.srt'
 
 INTRO = 'Max proposes that he and Vika start over from the very beginning, and they kiss as Kostya looks on in amazement. Outside, Chef Barinov tells Andrey Mikhailovich he is quitting because of Vika—and learns a shocking truth.'
@@ -36,8 +36,8 @@ WALK = [
     (2, None, "'But if we start from the beginning, then let us do it.' Vika brings out the contrast between 'but' and 'if' in a few short words."),
     (3, None, "'Kostya, I am in total shock myself!' Max anchors the line on 'Kostya', while 'in shock' completes the thought. Chef Barinov answers right away."),
     (4, None, "'Andrey Mikhailovich, hello and goodbye right away!' Chef Barinov anchors the line on 'Andrei', while 'farewell' completes the thought."),
-    (5, None, "'I hope that we will never see each other again.' Notice the reflexive suffix on the verb meaning 'will see each other', turning the action back on the subject."),
-    (6, None, "'And what, actually, happened here with you?' Notice the reflexive suffix on the verb meaning 'happened', turning the action back on the subject."),
+    (5, None, "'I hope that we will never see each other again.' In everyday Russian, 'hope' flows straight into 'will see each other' without extra linking words."),
+    (6, None, "'And what, actually, happened here with you?' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'."),
     (7, None, "'Can you calmly explain this to me right now?' Max raises the pitch on 'can' to turn the phrase into a direct spoken question."),
     (8, None, "'What happened is that I am quitting this place today!' Notice how Russian expresses 'happened' and 'I quit' with crisp inflection rather than helper words."),
     (9, None, "'And you can thank Viktoriya Sergeyevna for that.' Here the Russian phrasing highlights 'and' before landing on 'Sergeyevna'."),
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Andrey Mikhailovich's unexpected remark stops Chef Barinov dead in his tracks outside the restaurant."
-CLOSING = ('vika', 'Может, начнём теперь всё сначала?')
+OUTRO = "Andrey Mikhailovich's unexpected remark stops Chef Barinov dead in his tracks outside the restaurant. See you next time!"
+CLOSING = ("vika", "Всего хорошего!")

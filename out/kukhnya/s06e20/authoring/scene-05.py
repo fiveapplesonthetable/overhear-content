@@ -1,14 +1,14 @@
 ID = 'kukhnya-s06e20-scene-05'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 20
 SCENE = 5
-TITLE = 'Герой кулинарии  (A Culinary Hero)'
+TITLE = "Герой кулинарии  (A Culinary Hero)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'mikhail': 'anja', 'inspector': 'angelina'}
-LABELS = {'anya': 'Шеф', 'mikhail': 'Михаил', 'inspector': 'Инспектор'}
-SOURCE_NAME = "Кухня (Kukhnya) S6.20"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "mikhail": "anja", "inspector": "angelina"}
+LABELS = {"mikhail": "Михаил", "inspector": "Инспектор"}
+SOURCE_NAME = 'Кухня (Kukhnya) S6.20'
 SOURCE_FILE = 'sources/kukhnya/s06/e20.ru.srt'
 
 INTRO = 'Now sitting in a wheelchair himself across from Patrick Malouda, Chef Barinov listens as Mikhail Jekovich piles on the drama—explaining that Viktor opened his own restaurant and created a signature menu, but terrible pain kept him from cooking the soup today.'
@@ -17,12 +17,12 @@ STORY = [
     ('mikhail', 'Виктор решил открыть свой ресторан.', 'Viktor decided to open his own restaurant.', [(63, 'И Виктор решил открыть свой ресторан')], 'adapted'),
     ('mikhail', 'Он создал своё авторское меню.', 'He created his own signature menu.', [(64, 'Создал свое авторское меню')], 'adapted'),
     ('mikhail', 'Я же правильно всё рассказываю?', 'Am I telling everything correctly?', [(65, 'Я же правильно все рассказываю')], 'adapted'),
-    ('anya', 'Да, это моё авторское меню.', 'Yes, this is my signature menu.', [(66, 'Да, да, авторское')], 'adapted'),
+    ('mikhail', 'Да, это моё авторское меню.', 'Yes, this is my signature menu.', [(66, 'Да, да, авторское')], 'adapted'),
     ('inspector', 'Вы просто настоящий герой, Виктор!', 'You are simply a true hero, Viktor!', [(67, 'Вы настоящий герой')], 'adapted'),
     ('mikhail', 'Он молодец, работает каждый день.', 'He is great, he works every day.', [(68, 'Да, он молодец, работает')], 'adapted'),
     ('mikhail', 'Но он очень сильно устаёт.', 'But he gets very badly tired.', [(69, 'сильно устает')], 'adapted'),
     ('mikhail', 'Кому из нас звезда нужна?', 'Which one of us needs the star?', [(70, 'кому из нас звезда нужна')], 'adapted'),
-    ('anya', 'Да, устаю, очень много работы.', 'Yes, I get tired, there is a lot of work.', [(71, 'Да, устаю, много работы')], 'adapted'),
+    ('mikhail', 'Да, устаю, очень много работы.', 'Yes, I get tired, there is a lot of work.', [(71, 'Да, устаю, много работы')], 'adapted'),
     ('inspector', 'Конечно, я вас прекрасно понимаю.', 'Of course, I understand you perfectly.', [(72, 'Конечно, я вас понимаю')], 'adapted'),
     ('mikhail', 'Из-за усталости у Виктора сильные боли.', 'Because of fatigue Viktor has severe pains.', [(73, 'Из-за усталости'), (73, 'у Виктора сильные боли')], 'adapted'),
     ('mikhail', 'Поэтому сегодня готовил не он.', 'That is why it was not he who cooked today.', [(75, 'Поэтому не он готовил для вас')], 'adapted'),
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Mikhail's story strikes a deep chord with the stern inspector from Paris, who reveals a painful secret of his own. See you in the next scene."
-CLOSING = ('anya', 'С самого утра болят ноги.')
+OUTRO = "Mikhail's story strikes a deep chord with the stern inspector from Paris, who reveals a painful secret of his own. Until next time!"
+CLOSING = ("mikhail", "До встречи!")

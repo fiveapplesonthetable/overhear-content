@@ -1,32 +1,32 @@
-ID = "kukhnya-s02e14-scene-01"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e14-scene-01'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 14
 SCENE = 1
-TITLE = 'Возвращение старого официанта  (Return of the Former Waiter)'
+TITLE = "Возвращение старого официанта  (Return of the Former Waiter)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja', 'senya': 'angelina'}
-LABELS = {'anya': 'Шеф', 'vika': 'Вика', 'senya': 'Сеня'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.14"
-SOURCE_FILE = "sources/kukhnya/s02/e14.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "senya": "angelina", "chef": "anja"}
+LABELS = {"senya": "Сеня", "chef": "Шеф"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.14'
+SOURCE_FILE = 'sources/kukhnya/s02/e14.ru.srt'
 
 INTRO = 'At Claude Monet, Max muses on the strange laws of the universe that bring people from the past back into our lives. Right on cue, handsome former waiter Ilya walks into the kitchen and greets the veterans while waiting to ask Vika for his old job back.'
 
 STORY = [
-    ('anya', 'Не знаю, по каким законам вселенная это работает.', 'I do not know by what laws of the universe this works.', [(1, 'Не знаю, по каким законам вселенная это работает')], ''),
-    ('vika', 'Как тебе казалось.', 'Just as it seemed to you.', [(3, 'как тебе казалось')], ''),
+    ('chef', 'Не знаю, по каким законам вселенная это работает.', 'I do not know by what laws of the universe this works.', [(1, 'Не знаю, по каким законам вселенная это работает')], ''),
+    ('senya', 'Как тебе казалось.', 'Just as it seemed to you.', [(3, 'как тебе казалось')], ''),
     ('senya', 'Возвращается жизнь, которую ты мог потерять.', 'The life you could have lost comes back to you.', [(4, 'Возвращается жизнь, которую ты мог потерять')], ''),
-    ('anya', 'Но иногда случается возвращение.', 'But sometimes a return happens.', [(6, 'Но иногда случается возвращение')], ''),
-    ('vika', 'Ты что, новенький, что ли?', 'Are you a new guy here or what?', [(7, 'Ты что, новенький, что ли')], ''),
+    ('chef', 'Но иногда случается возвращение.', 'But sometimes a return happens.', [(6, 'Но иногда случается возвращение')], ''),
+    ('senya', 'Ты что, новенький, что ли?', 'Are you a new guy here or what?', [(7, 'Ты что, новенький, что ли')], ''),
     ('senya', 'А вот!', 'Here you go!', [(9, 'А вот')], ''),
-    ('anya', 'Сеня, фрикасе по готовности.', 'Senya, how is the fricassee coming along.', [(10, 'Сеня, фрикасе по готовности')], ''),
-    ('vika', 'А это кто?', 'Wait, who is that?', [(12, 'А это кто')], ''),
+    ('chef', 'Сеня, фрикасе по готовности.', 'Senya, how is the fricassee coming along.', [(10, 'Сеня, фрикасе по готовности')], ''),
+    ('senya', 'А это кто?', 'Wait, who is that?', [(12, 'А это кто')], ''),
     ('senya', 'Раньше у нас официантом работал.', 'He used to work here as a waiter.', [(13, 'Раньше у нас официантом работал')], ''),
-    ('anya', 'Мне почти как сын был.', 'He was almost like a son to me.', [(14, 'Мне почти как сын был')], ''),
-    ('vika', 'Не как ты.', 'Not like you.', [(15, 'не как ты')], ''),
+    ('chef', 'Мне почти как сын был.', 'He was almost like a son to me.', [(14, 'Мне почти как сын был')], ''),
+    ('senya', 'Не как ты.', 'Not like you.', [(15, 'не как ты')], ''),
     ('senya', 'Виктория Сергеевна возьмет меня назад?', 'Will Viktoriya Sergeyevna take me back?', [(16, 'Виктория Сергеевна возьмет меня назад')], ''),
-    ('anya', 'Как ты ушел.', 'Ever since you left.', [(18, 'как ты ушел')], ''),
+    ('chef', 'Как ты ушел.', 'Ever since you left.', [(18, 'как ты ушел')], ''),
 ]
 
 OPENER = "Now let's break down each line of their conversation."
@@ -37,7 +37,7 @@ WALK = [
     (2, None, "'The life you could have lost comes back to you.' The meaning hinges on 'comes back' working together with 'to lose' in spoken Russian."),
     (3, None, "'But sometimes a return happens.' Notice how Russian expresses 'but' and 'return' with crisp inflection rather than helper words. Vika answers right away."),
     (4, None, "'Are you a new guy here or what?' Here the Russian phrasing highlights 'you' before landing on 'really'."),
-    (5, None, "'Here you go!' The grammar packs 'and' and 'there you go' into a tight, idiomatic kitchen exchange."),
+    (5, None, "'Here you go!' Senya keeps this everyday Russian response short and direct, without needing English helper words like 'am', 'is', or 'are'."),
     (6, None, "'Senya, how is the fricassee coming along.' Spoken Russian keeps this brisk, leaning on 'Senya' and finishing on 'readiness'. Vika answers right away."),
     (7, None, "'Wait, who is that?' The meaning hinges on 'and' working together with 'who' in spoken Russian."),
     (8, None, "'He used to work here as a waiter.' Spoken Russian keeps this brisk, leaning on 'before' and finishing on 'worked'."),
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Now let's put it all back together and hear the whole scene again."
-
-OUTRO = 'When you watch Scene 1 of Episode 14, listen out for the exchange around return of the former waiter — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('anya', 'Как ты ушел.')
+OUTRO = 'That wraps up this scene as max reflects on how people from the past suddenly return just as former waiter Ilya walks into Claude Monet hoping Vika will hire him back. Until next time!'
+CLOSING = ("chef", "Пока!")

@@ -1,37 +1,39 @@
-# kukhnya-s01e11-scene-21: review sheet
+# Все равны  (Everyone Is Equal) — `kukhnya-s01e11-scene-21`
 
-Title: Все равны  (Everyone Is Equal)
-Level: A1 — Duolingo Section 2
-Pair: ru-en
-Source: Кухня (Kukhnya) S1.11
+**Source:** Кухня (Kukhnya) S1.11 · `sources/kukhnya/s01/e11.ru.dual.srt`  
+**Target level:** A1 — Duolingo Section 2
 
+## Cast
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+| Role | Voice | Label |
+|---|---|---|
+| `narrator` | sky | — |
+| `chef` | anja | Шеф |
+| `vika` | angelina | Вика |
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+## Part 1 — Intro
+
+> In the dining room of Claude Monet, Chef Viktor personally carries a bowl of hot soup to an ordinary guest. Victoria hurries over in a panic, horrified that the influential food critic was made to wait, but Viktor proudly declares that everyone is equal in his kitchen. Listen to their conversation in Russian first, then we will break down each line in English.
+
+## Part 2 — Story
+
+| # | Speaker | Line | English | Source cue(s) | Change |
 |---|---|---|---|---|---|
-| 1 | Шеф | Твой суп, дружище, приятного аппетита. | Your soup, buddy, enjoy your meal. | #282 00:18:55: Твой суп, дружище, приятного аппетита. | adapted: serving guest |
-| 2 | Вика | Виктор Петрович, что вы делаете? | Viktor Petrovich, what are you doing? | #283 00:18:57: Ты что делаешь? | adapted: panicking |
-| 3 | Шеф | Я делаю то, что должен делать. | I am doing what I must do. | #284 00:18:59: То, что должен. | adapted: answering firmly |
-| 4 | Вика | Но там же сидит важный критик! | But an important critic is sitting right there! | #284 00:18:59: Там же критик. | adapted: pointing out VIP |
-| 5 | Шеф | Мне всё равно, кто там сидит. | I do not care who is sitting there. | #285 00:19:01: Мне что, это только одно и надо? | adapted: dismissing status |
-| 6 | Шеф | Этот гость заказал суп раньше. | This guest ordered soup earlier. | #287 00:19:06: Этот человек раньше заказал суп, он его получил. | adapted: explaining principle |
-| 7 | Вика | Критик очень зол, он уйдёт! | The critic is very angry, he will leave! | new | new: warning of loss |
-| 8 | Шеф | Пусть уходит, если не умеет ждать. | Let him leave if he does not know how to wait. | new | new: shrugging off threat |
-| 9 | Вика | Вы рискуете репутацией нашего ресторана. | You are risking our restaurant's reputation. | new | new: appealing to business |
-| 10 | Шеф | Да будь он хоть трижды критик! | Even if he were three times a critic! | #285 00:19:01: Да будь он хоть трижды критик, | adapted: declaring pride |
-| 11 | Шеф | Я всем гостям подаю по очереди. | I serve all guests in turn. | #286 00:19:04: я всем подаю по очереди. | adapted: stating rule |
-| 12 | Шеф | У меня на кухне все равны! | In my kitchen everyone is equal! | #289 00:19:12: У меня на кухне все равны. | adapted: proclaiming kitchen code |
+| 0 | Шеф | Твой суп, дружище, приятного аппетита. | Your soup, buddy, enjoy your meal. | #282 "Твой суп, дружище, приятного аппетита." |  |
+| 1 | Вика | Виктор Петрович, что вы делаете? | Viktor Petrovich, what are you doing? | #283 "Ты что делаешь?" |  |
+| 2 | Шеф | Я делаю то, что должен делать. | I am doing what I must do. | #284 "То, что должен." |  |
+| 3 | Вика | Но там же сидит важный критик! | But an important critic is sitting right there! | #284 "Там же критик." |  |
+| 4 | Шеф | Мне всё равно, кто там сидит. | I do not care who is sitting there. | #285 "Мне что, это только одно и надо?" |  |
+| 5 | Шеф | Этот гость заказал суп раньше. | This guest ordered soup earlier. | #287 "Этот человек раньше заказал суп, он его получил." |  |
+| 6 | Вика | Критик очень зол, он уйдёт! | The critic is very angry, he will leave! | *(added)* |  |
+| 7 | Шеф | Пусть уходит, если не умеет ждать. | Let him leave if he does not know how to wait. | *(added)* |  |
+| 8 | Вика | Вы рискуете репутацией нашего ресторана. | You are risking our restaurant's reputation. | *(added)* |  |
+| 9 | Шеф | Да будь он хоть трижды критик! | Even if he were three times a critic! | #285 "Да будь он хоть трижды критик," |  |
+| 10 | Шеф | Я всем гостям подаю по очереди. | I serve all guests in turn. | #286 "я всем подаю по очереди." |  |
+| 11 | Шеф | У меня на кухне все равны! | In my kitchen everyone is equal! | #289 "У меня на кухне все равны." |  |
 
-## Walk-through narration (English only, no target-language words quoted)
+## Part 5 — Outro & closing
 
-- 'Your soup, buddy, enjoy your meal.' — friendly informal address paired with the standard Russian dining wish.
-- 'Viktor Petrovich, what are you doing?' — polite second person plural question with formal patronymic.
-- 'I am doing what I must do.' — demonstrative pronoun antecedent with a relative clause of obligation.
-- 'But an important critic is sitting right there!' — exclamatory clause with an emphatic modal particle.
-- 'I do not care who is sitting there.' — impersonal dative idiom expressing indifference to status.
-- 'This guest ordered soup earlier.' — past perfective verb with a comparative temporal adverb.
-- 'Let him leave if he does not know how to wait.' — third person hortative with a conditional clause.
-- 'You are risking our restaurant's reputation.' — verb governing an instrumental noun phrase.
-- 'Even if he were three times a critic!' — idiomatic imperative conditional of defiant dismissal.
-- 'In my kitchen everyone is equal!' — possessive location phrase with short form plural adjective. Now listen to the full conversation once more.
+> In the dining room, Chef Viktor personally delivers the soup to an ordinary guest, boldly asserting to Victoria that all customers are equal in his kitchen. Next time you watch the episode, listen for the Russian expressions for 'kitchen' and 'pleasant' — you will catch every word right away. See you next time!
+
+**Шеф:** Пока!

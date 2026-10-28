@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e11-scene-06'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 11
 SCENE = 6
-TITLE = 'Допрос в холодильнике  (Interrogation in the Walk-in Fridge)'
+TITLE = "Допрос в холодильнике  (Interrogation in the Walk-in Fridge)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja', 'lyova': 'angelina'}
-LABELS = {'anya': 'Макс', 'chef': 'Шеф', 'lyova': 'Лёва'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.11"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "anya": "alisa", "lyova": "angelina"}
+LABELS = {"chef": "Шеф", "anya": "Макс", "lyova": "Лёва"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.11'
 SOURCE_FILE = 'sources/kukhnya/s03/e11.ru.srt'
 
 INTRO = "Inside the walk-in fridge, Lyova tries to hold Chef Barinov back as the furious chef corners Max. Max swears that nothing ever happened between him and Katya, and Barinov demands proof after hearing Katya's claim about a scar."
@@ -48,5 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Max has no idea why Barinov is suddenly inspecting him, until the chef reveals what Katya told him to make her story believable. Let's continue in Scene Seven."
-CLOSING = ('anya', 'Шеф, я говорю чистую правду!')
+OUTRO = "Max has no idea why Barinov is suddenly inspecting him, until the chef reveals what Katya told him to make her story believable. Let's continue in Scene Seven. See you next time!"
+CLOSING = ("anya", "До свидания!")

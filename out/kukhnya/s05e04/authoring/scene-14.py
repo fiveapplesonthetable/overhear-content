@@ -1,30 +1,30 @@
 ID = 'kukhnya-s05e04-scene-14'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 4
 SCENE = 14
-TITLE = 'Корзина фруктов для 311-го  (A Fruit Basket for Suite 311)'
+TITLE = "Корзина фруктов для 311-го  (A Fruit Basket for Suite 311)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'denis': 'anja', 'fedya': 'angelina'}
-LABELS = {'anya': 'Настя', 'denis': 'Денис', 'fedya': 'Федя'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.04"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "nastya": "angelina", "fedya": "anja"}
+LABELS = {"nastya": "Настя", "fedya": "Федя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.04'
 SOURCE_FILE = 'sources/kukhnya/s05/e04.ru.srt'
 
 INTRO = "On Katya's instructions, Nastya begs Denis to carry a fruit basket up to luxury suite 311, claiming Kostya forbids her from entering guests' rooms. Meanwhile, Katya discovers that someone else has been checked into suite 311!"
 
 STORY = [
-    ('anya', 'Денис, а можно тебя попросить отнести это в люкс?', 'Denis, can I ask you to take this up to the luxury suite?', [(213, 'Денис, а можно')], 'adapted'),
-    ('denis', 'Сама не можешь? Ну, мне просто Костик не разрешает номера ходить.', 'Can you not go yourself? Well, Kostik does not allow me to go into guest rooms.', [(214, 'Сама не можешь')], 'adapted'),
-    ('anya', 'Ну, вдруг там мужчина будет неодетый.', 'What if there is an undressed man in there?', [(215, 'Ну, вдруг там')], 'adapted'),
-    ('anya', 'Ну, пожалуйста.', 'Come on, please.', [(216, 'Ну, пожалуйста')], 'adapted'),
-    ('anya', 'Ну, может, тебе даже чаевые дадут.', 'Maybe they will even give you a tip.', [(217, 'Ну, может, тебе')], 'adapted'),
+    ('nastya', 'Денис, а можно тебя попросить отнести это в люкс?', 'Denis, can I ask you to take this up to the luxury suite?', [(213, 'Денис, а можно')], 'adapted'),
+    ('fedya', 'Сама не можешь? Ну, мне просто Костик не разрешает номера ходить.', 'Can you not go yourself? Well, Kostik does not allow me to go into guest rooms.', [(214, 'Сама не можешь')], 'adapted'),
+    ('nastya', 'Ну, вдруг там мужчина будет неодетый.', 'What if there is an undressed man in there?', [(215, 'Ну, вдруг там')], 'adapted'),
+    ('nastya', 'Ну, пожалуйста.', 'Come on, please.', [(216, 'Ну, пожалуйста')], 'adapted'),
+    ('nastya', 'Ну, может, тебе даже чаевые дадут.', 'Maybe they will even give you a tip.', [(217, 'Ну, может, тебе')], 'adapted'),
     ('fedya', 'Во! Чаевые?', 'Whoa! A tip?', [(218, 'Во! Чаевые')], 'adapted'),
     ('fedya', 'Давай я отнесу. А, сейчас, чтобы ты по дороге полкорзины слопал.', 'Let me take it up. Yeah right, so you can gobble up half the basket on the way.', [(219, 'Давай я отнесу')], 'adapted'),
-    ('anya', 'Не надо. Спасибо.', 'No thanks.', [(220, 'Не надо. Спасибо')], 'adapted'),
-    ('anya', 'Денис, ну пожалуйста.', 'Denis, please.', [(221, 'Ну, пожалуйста')], 'adapted'),
-    ('denis', 'Ладно. Какой номер?', 'Fine. Which room?', [(222, 'Ладно. Какой номер')], 'adapted'),
-    ('anya', 'Триста одиннадцатый люкс.', 'Luxury suite 311.', [(223, '311')], 'adapted'),
+    ('nastya', 'Не надо. Спасибо.', 'No thanks.', [(220, 'Не надо. Спасибо')], 'adapted'),
+    ('nastya', 'Денис, ну пожалуйста.', 'Denis, please.', [(221, 'Ну, пожалуйста')], 'adapted'),
+    ('fedya', 'Ладно. Какой номер?', 'Fine. Which room?', [(222, 'Ладно. Какой номер')], 'adapted'),
+    ('nastya', 'Триста одиннадцатый люкс.', 'Luxury suite 311.', [(223, '311')], 'adapted'),
     ('fedya', 'Неужели нельзя запомнить, какой номер занят, какой свободен?', 'Is it really that hard to remember which suite is occupied and which is free?', [(226, 'Неужели нельзя запомнить')], 'adapted'),
 ]
 
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'And that brings this scene at the hotel to a close. Listen out for how Nastya and the team handle the pressure when you watch the episode. See you in the next scene.'
-CLOSING = ('anya', 'Неужели нельзя запомнить, какой номер занят, какой свободен?')
+OUTRO = 'And that brings this scene at the hotel to a close. Listen out for how Nastya and the team handle the pressure when you watch the episode. See you next time!'
+CLOSING = ("nastya", "До свидания!")

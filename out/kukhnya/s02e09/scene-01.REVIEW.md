@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | При всём, что с нами происходит, ищите женщину. | In everything that happens to us, look for the woman. | #1 00:00:22: При всём, что с нами происходит, ищите женщину | verbatim |
+| 1 | Костя | При всём, что с нами происходит, ищите женщину. | In everything that happens to us, look for the woman. | #1 00:00:22: При всём, что с нами происходит, ищите женщину | verbatim |
 | 2 | Нагиев | Женщина может сделать с мужчиной всё, что угодно. | A woman can do anything at all to a man. | #2 00:00:25: Женщина может сделать с мужчиной всё, что угодно | verbatim |
-| 3 | Кристина | Не за что, красавчик. | You are welcome, handsome. | #6 00:00:50: Не за что, красавчик | verbatim |
-| 4 | Аня | Так оно и будет. | That is exactly how it will be. | #7 00:00:54: так оно и будет | verbatim |
+| 3 | Костя | Не за что, красавчик. | You are welcome, handsome. | #6 00:00:50: Не за что, красавчик | verbatim |
+| 4 | Костя | Так оно и будет. | That is exactly how it will be. | #7 00:00:54: так оно и будет | verbatim |
 | 5 | Нагиев | Спорим ты не угадаешь? | I bet you will never guess? | #8 00:01:05: спорим ты не угадаешь | verbatim |
-| 6 | Кристина | Айнура, ей плевать, когда заходить, у неё график. | Ainura does not care when she walks in, she has a schedule. | #9 00:01:09: Айнура, ей плевать, когда заходить, у неё график | verbatim |
-| 7 | Аня | Зря ты радуешься. | You are celebrating for nothing. | #11 00:01:17: Зря ты радуешься | verbatim |
+| 6 | Костя | Айнура, ей плевать, когда заходить, у неё график. | Ainura does not care when she walks in, she has a schedule. | #9 00:01:09: Айнура, ей плевать, когда заходить, у неё график | verbatim |
+| 7 | Костя | Зря ты радуешься. | You are celebrating for nothing. | #11 00:01:17: Зря ты радуешься | verbatim |
 | 8 | Нагиев | Ты что, не знаешь, какой хозяин ревнивый? | Do you not know how jealous the owner is? | #13 00:01:21: Ты что, не знаешь, какой хозяин ревнивый | verbatim |
-| 9 | Кристина | Этого урода с моей кухни убрать. | Get this freak out of my kitchen. | #15 00:01:31: этого урода с моей кухни убрать | verbatim |
-| 10 | Аня | А десерты готовить. | And go prepare the desserts. | #16 00:01:35: а десерты готовить | verbatim |
+| 9 | Костя | Этого урода с моей кухни убрать. | Get this freak out of my kitchen. | #15 00:01:31: этого урода с моей кухни убрать | verbatim |
+| 10 | Костя | А десерты готовить. | And go prepare the desserts. | #16 00:01:35: а десерты готовить | verbatim |
 | 11 | Нагиев | Ты меня понял? | Did you understand me? | #17 00:01:39: Ты меня понял | verbatim |
-| 12 | Кристина | Понял, понял. | Got it, got it. | #17 00:01:39: Понял, понял | verbatim |
-| 13 | Аня | А тогда они еще даже женаты не были. | And back then they were not even married yet. | #19 00:01:43: А тогда они еще даже женаты не были | verbatim |
+| 12 | Костя | Понял, понял. | Got it, got it. | #17 00:01:39: Понял, понял | verbatim |
+| 13 | Костя | А тогда они еще даже женаты не были. | And back then they were not even married yet. | #19 00:01:43: А тогда они еще даже женаты не были | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

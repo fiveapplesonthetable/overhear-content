@@ -36,4 +36,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'And why are you still in your uniform?' Chef Barinov addresses the listener with the informal singular 'you' alongside 'uniform'.
 - 'Go change your clothes, we are moving my things.' Here the Russian phrasing highlights 'come on' before landing on 'to move'.
 - 'And afterwards we will celebrate our housewarming.' Chef Barinov brings out the contrast between 'and' and 'then' in a few short words.
-- 'Come on, pal, hang in there tight now.' Notice the reflexive suffix on the verb meaning 'hang in there', turning the action back on the subject.
+- 'Come on, pal, hang in there tight now.' Starting with the everyday word for 'let us' is how Russian speakers warmly invite someone to do something together.

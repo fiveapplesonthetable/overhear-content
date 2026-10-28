@@ -34,7 +34,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Kostya, which hospital is Max in?' Kostya raises the pitch on 'Max' to turn the phrase into a direct spoken question. Max answers right away.
 - 'I do not know.' The grammar packs 'I' and 'know' into a tight, idiomatic kitchen exchange.
 - 'All right, why is your coffee machine dirty?' Kostya anchors the line on 'like this', while 'dirty' completes the thought.
-- 'Should I fine you?' In Russian, the idea of 'you' flows naturally into 'to fine' without extra filler words. Kostya answers right away.
+- 'Should I fine you?' In spoken Russian, the words stay in their normal statement order and Max's rising voice at the end turns the line into a question.
 - 'I literally just made coffee.' In Russian, the idea of 'I' flows naturally into 'to do' without extra filler words.
 - 'And where are all the oranges?' Here the Russian phrasing highlights 'and' before landing on 'oranges'.
 - 'Did you order the wine?' Here the Russian phrasing highlights 'you' before landing on 'ordered'. Max answers right away.

@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e03-scene-11'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 3
 SCENE = 11
-TITLE = 'Опасное предложение  (A Dangerous Offer)'
+TITLE = "Опасное предложение  (A Dangerous Offer)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'rodion': 'anja', 'vika': 'angelina'}
-LABELS = {'anya': 'Макс', 'rodion': 'Родион', 'vika': 'Вика'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.03"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "rodion": "anja", "vika": "angelina"}
+LABELS = {"anya": "Макс", "rodion": "Родион", "vika": "Вика"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.03'
 SOURCE_FILE = 'sources/kukhnya/s03/e03.ru.srt'
 
 INTRO = "The next morning, Max recruits courtyard dweller Rodion Sergeyevich to stage a fake pedestrian accident in front of the prefect's wife's car so they can film it and make her drop her complaint."
@@ -40,11 +40,11 @@ WALK = [
     (6, None, "'Max, what if she injures Rodion Sergeyevich?' In Russian, the idea of 'Max' flows naturally into 'Sergeyevich' without extra filler words."),
     (7, None, "'No, this is foolish and dangerous. I forbid you.' Spoken Russian keeps this brisk, leaning on 'no' and finishing on 'forbid'. Max answers right away."),
     (8, None, "'Fine, whatever you say.' The meaning hinges on 'all right' working together with 'will you say' in spoken Russian."),
-    (9, None, "'If I understood Viktoria Sergeyevna correctly, the operation is canceled?' Notice the reflexive suffix on the verb meaning 'is canceled', turning the action back on the subject."),
+    (9, None, "'If I understood Viktoria Sergeyevna correctly, the operation is canceled?' In spoken Russian, the words stay in their normal statement order and Rodion's rising voice at the end turns the line into a question."),
     (10, None, "'No way. Listen to a woman and do the opposite.' Spoken Russian keeps this brisk, leaning on 'no' and finishing on 'the opposite'."),
     (11, None, "'Senya, good morning!' Notice how Russian expresses 'Senya' and 'morning' with crisp inflection rather than helper words."),
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'And that finishes Scene Eleven. Listen for Rodion Sergeyevich quoting the standard colleague rate for jumping in front of a car.'
-CLOSING = ('anya', 'Сделаем всё наоборот!')
+OUTRO = 'And that finishes Scene Eleven. Listen for Rodion Sergeyevich quoting the standard colleague rate for jumping in front of a car. Until next time!'
+CLOSING = ("anya", "Всего хорошего!")

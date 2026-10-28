@@ -1,14 +1,14 @@
 ID = 'kukhnya-s05e16-scene-15'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 16
 SCENE = 15
-TITLE = 'Паника в самолёте  (Panic on the Plane)'
+TITLE = "Паника в самолёте  (Panic on the Plane)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'guest': 'anja', 'mikhail': 'angelina'}
-LABELS = {'anya': 'Макс', 'guest': 'Гость', 'mikhail': 'Михаил'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.16"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "guest": "anja", "anya": "alisa"}
+LABELS = {"guest": "Гость", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.16'
 SOURCE_FILE = 'sources/kukhnya/s05/e16.ru.srt'
 
 INTRO = 'Aboard the jet, Max begs Dasha to turn the plane around or give him a parachute because Vika is having his baby, until Dasha gets him to call the restaurant—Meanwhile, Mikhail hears that Eleonora ordered dinner for two in her suite.'
@@ -23,9 +23,9 @@ STORY = [
     ('anya', 'Даша, а здесь в самолёте где-нибудь есть парашют?', 'Dasha, is there a parachute anywhere on this plane?', [(259, 'Даша, здесь где-нибудь есть парашют')], 'adapted'),
     ('guest', 'Макс, ты с ума сошёл? Позвони ещё раз!', 'Max, have you lost your mind? Call them one more time!', [(260, 'Макс, ты что, с ума сошел')], 'adapted'),
     ('anya', 'Мы только взлетели, я прыгну и возьму машину!', 'We just took off, I will jump and catch a car!', [(261, 'Мы только взлетели')], 'adapted'),
-    ('mikhail', 'Гуля, ну что, Элеонора Андреевна уже пришла в зал?', 'Gulya, well then, has Eleonora Andreyevna arrived in the hall yet?', [(269, 'Андреевна еще не пришла')], 'adapted'),
+    ('guest', 'Гуля, ну что, Элеонора Андреевна уже пришла в зал?', 'Gulya, well then, has Eleonora Andreyevna arrived in the hall yet?', [(269, 'Андреевна еще не пришла')], 'adapted'),
     ('guest', 'Она попросила отнести ужин в номер на две персоны.', 'She asked to have dinner brought to her room for two people.', [(270, 'попросила отнести в номер')], 'adapted'),
-    ('mikhail', 'Значит, одна персона ждёт в номере вторую персону!', 'That means one person is waiting in the room for the second person!', [(271, 'Что одна персона ждет вторую')], 'adapted'),
+    ('guest', 'Значит, одна персона ждёт в номере вторую персону!', 'That means one person is waiting in the room for the second person!', [(271, 'Что одна персона ждет вторую')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Once Max calls the restaurant and discovers Senya and Fedya's prank, he and Kostya plot immediate revenge. See you in the next scene."
-CLOSING = ('anya', 'Мне срочно нужно вернуться назад!')
+OUTRO = "Once Max calls the restaurant and discovers Senya and Fedya's prank, he and Kostya plot immediate revenge. Until next time!"
+CLOSING = ("anya", "До встречи!")

@@ -1,32 +1,32 @@
-ID = "kukhnya-s02e18-scene-20"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e18-scene-20'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 18
 SCENE = 20
-TITLE = 'Раскрытие розыгрыша  (Revealing the Setup)'
+TITLE = "Раскрытие розыгрыша  (Revealing the Setup)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'lyova': 'anja'}
-LABELS = {'anya': 'Шеф', 'lyova': 'Лёва'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.18"
-SOURCE_FILE = "sources/kukhnya/s02/e18.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "lyova": "angelina"}
+LABELS = {"chef": "Шеф", "lyova": "Лёва"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.18'
+SOURCE_FILE = 'sources/kukhnya/s02/e18.ru.srt'
 
 INTRO = "Stunned by the Chef's announcement, Max asks what test he is talking about. A series of flashbacks reveals that Viktor Petrovich carefully staged Lyova's sudden vacation and Fedya's refusal to work in order to see how Max would handle running the kitchen in an emergency."
 
 STORY = [
-    ('anya', 'Какую проверку?', 'What test are you talking about?', [(335, 'Какую проверку')], ''),
+    ('chef', 'Какую проверку?', 'What test are you talking about?', [(335, 'Какую проверку')], ''),
     ('lyova', 'А ты думаешь?', 'What do you think?', [(336, 'А ты думаешь')], ''),
-    ('anya', 'Вы же сами заявление подписали.', 'You signed the request form yourself.', [(337, 'Вы же сами заявление подписали')], ''),
+    ('chef', 'Вы же сами заявление подписали.', 'You signed the request form yourself.', [(337, 'Вы же сами заявление подписали')], ''),
     ('lyova', 'Я пьяный был?', 'Was I drunk when I signed it?', [(338, 'Я пьяный был')], ''),
-    ('anya', 'Ну, тогда не считается.', 'Well, then it does not count.', [(339, 'Ну, тогда не считается')], ''),
+    ('chef', 'Ну, тогда не считается.', 'Well, then it does not count.', [(339, 'Ну, тогда не считается')], ''),
     ('lyova', 'Предупреждать надо было.', 'You should have warned me beforehand.', [(340, 'Предупреждать надо было')], ''),
-    ('anya', 'А я не виноват.', 'It is not my fault.', [(341, 'А я не виноват')], ''),
+    ('chef', 'А я не виноват.', 'It is not my fault.', [(341, 'А я не виноват')], ''),
     ('lyova', 'Что вы все время пьяный.', 'That you are drunk all the time.', [(341, 'что вы все время пьяный')], ''),
-    ('anya', 'Без тебя актер.', 'Quite an actor even without you.', [(344, 'Без тебя актер')], ''),
+    ('chef', 'Без тебя актер.', 'Quite an actor even without you.', [(344, 'Без тебя актер')], ''),
     ('lyova', 'Вечером что был?', 'What happened in the evening?', [(345, 'Вечером что был')], ''),
-    ('anya', 'Ничего не знаю.', 'I do not know anything.', [(346, 'Ничего не знаю')], ''),
+    ('chef', 'Ничего не знаю.', 'I do not know anything.', [(346, 'Ничего не знаю')], ''),
     ('lyova', 'У меня планы.', 'I have plans.', [(346, 'У меня планы')], ''),
-    ('anya', 'Шеф, готово.', 'Chef, everything is ready.', [(347, 'Шеф, готово')], ''),
+    ('chef', 'Шеф, готово.', 'Chef, everything is ready.', [(347, 'Шеф, готово')], ''),
 ]
 
 OPENER = "Let's walk back through the scene line by line."
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Let's hear the full exchange one more time at natural speed."
-
-OUTRO = 'When you watch Scene 20 of Episode 18, listen out for the exchange around revealing the setup — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('anya', 'Шеф, готово.')
+OUTRO = "That wraps up this scene as max learns via flashbacks that Lyova's vacation, Fedya's rebellion, and Chef's departure were all carefully scripted by Viktor Petrovich to test him under fire. See you next time!"
+CLOSING = ("chef", "Хорошего дня!")

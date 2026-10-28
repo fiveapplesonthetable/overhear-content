@@ -11,17 +11,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Лёва | Мама, привет, ну и где подруга? | Mom, hello, so where is your friend? | #66 00:05:31: Привет<br>#67 00:05:32: Ну и где подруга | adapted: adapted |
-| 2 | Аня | Ну вот она идёт к нам. | Well, here she is coming toward us. | #68 00:05:34: Ну вот она | adapted: adapted |
+| 2 | Гость | Ну вот она идёт к нам. | Well, here she is coming toward us. | #68 00:05:34: Ну вот она | adapted: adapted |
 | 3 | Лёва | Здравствуйте, мне очень приятно с вами познакомиться. | Hello, I am very pleased to meet you. | #69 00:05:38: Здравствуйте<br>#70 00:05:42: Познакомься | adapted: adapted |
-| 4 | Аня | Познакомься, сынок, это моя подруга Лариса. | Meet her, son, this is my friend Larisa. | #70 00:05:42: Познакомься, это Лариса | adapted: adapted |
+| 4 | Гость | Познакомься, сынок, это моя подруга Лариса. | Meet her, son, this is my friend Larisa. | #70 00:05:42: Познакомься, это Лариса | adapted: adapted |
 | 5 | Лёва | Я просто совсем не ожидал увидеть. | I just did not expect to see at all. | #72 00:05:46: он просто не ожидал увидеть<br>#74 00:05:53: не ожидал | adapted: adapted |
-| 6 | Аня | Не нервничай, она очень милая девушка. | Do not be nervous, she is a very nice girl. | #72 00:05:46: Не нервничай | adapted: adapted |
+| 6 | Гость | Не нервничай, она очень милая девушка. | Do not be nervous, she is a very nice girl. | #72 00:05:46: Не нервничай | adapted: adapted |
 | 7 | Лёва | Мне кажется, вы сейчас немного преувеличиваете. | It seems to me you are exaggerating a little right now. | #73 00:05:52: А вы преувеличиваете | adapted: adapted |
-| 8 | Аня | Да нет, я говорю чистую правду. | No, I am telling the pure truth. | #74 00:05:53: Да | adapted: adapted |
+| 8 | Гость | Да нет, я говорю чистую правду. | No, I am telling the pure truth. | #74 00:05:53: Да | adapted: adapted |
 | 9 | Лёва | Мама, я лучше рядом с тобой сяду. | Mom, I would rather sit next to you. | #76 00:06:04: Мам, я к тебе сяду | adapted: adapted |
-| 10 | Аня | Лариса самая заботливая медсестра в поликлинике. | Larisa is the most caring nurse at the clinic. | #78 00:06:13: Лариса самая заботливая и самая общительная медсестра в нашей поликлинике | adapted: adapted |
+| 10 | Гость | Лариса самая заботливая медсестра в поликлинике. | Larisa is the most caring nurse at the clinic. | #78 00:06:13: Лариса самая заботливая и самая общительная медсестра в нашей поликлинике | adapted: adapted |
 | 11 | Лёва | Мама, хватит меня так громко хвалить. | Mom, stop praising me so loudly. | #79 00:06:19: про Лёва ты всё знаешь | adapted: adapted |
-| 12 | Аня | Ну про Лёву ты уже всё знаешь. | Well, you already know everything about Lyova. | #79 00:06:19: Ну, про Лёва ты всё знаешь | adapted: adapted |
+| 12 | Гость | Ну про Лёву ты уже всё знаешь. | Well, you already know everything about Lyova. | #79 00:06:19: Ну, про Лёва ты всё знаешь | adapted: adapted |
 | 13 | Лёва | Давайте лучше посмотрим наше сегодняшнее меню. | Let us better look at our menu for today. | #80 00:06:21: Умный | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)

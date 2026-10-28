@@ -30,11 +30,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Hi, girls! I am so glad to see you!' The meaning hinges on 'hello' working together with 'to see' in spoken Russian. Nastya answers right away.
 - 'Whoa, Sasha, tell me, are you pregnant?' Nastya addresses the listener with the informal singular 'you' alongside 'pregnant'.
 - 'Well of course I am pregnant, does it not show?' The meaning hinges on 'come on' working together with 'one can see' in spoken Russian.
-- 'Alright, I will go say hello to all the guys.' Notice the reflexive suffix on the verb meaning 'I will say hello', turning the action back on the subject. Max answers right away.
+- 'Alright, I will go say hello to all the guys.' Sasha pairs 'all right' with 'I will say hello' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
 - 'Hi, Sasha! How beautiful you have become!' An emphatic spoken line centered on the verb meaning 'have become'.
 - 'I am so glad to see all of you too!' Sasha chooses the respectful plural 'you' alongside 'to see' to keep a polite distance.
 - 'Pregnancy really only makes you more beautiful.' Spoken Russian keeps this brisk, leaning on 'pregnancy' and finishing on 'adorns'.
-- 'Well, how is Ilya? Is he getting ready to become a father?' Notice the reflexive suffix on the verb meaning 'is cooked', turning the action back on the subject.
+- 'Well, how is Ilya? Is he getting ready to become a father?' Max pairs 'how' with 'father' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
 - 'Wait, Max, what does Ilya have to do with this?' The grammar packs 'wait' and 'Ilya' into a tight, idiomatic kitchen exchange.
 - 'What do you mean what does Ilya have to do with this?' Notice how Russian expresses 'which' and 'Ilya' with crisp inflection rather than helper words. Sasha answers right away.
 - 'In the sense that he and I broke up.' The meaning hinges on 'that' working together with 'broke up' in spoken Russian.

@@ -1,41 +1,40 @@
-# kukhnya-s01e10-scene-28: review sheet
+# Тайная доставка  (A Secret Delivery) — `kukhnya-s01e10-scene-28`
 
-Title: Тайная доставка  (A Secret Delivery)
-Level: A1 — Duolingo Section 2
-Pair: ru-en
-Source: Кухня (Kukhnya) S1.10
-Cues 202-203. In the back of the kitchen, Senya discreetly brings Chef Viktor a heavy secret shipment that was urgently ordered to save dinner service.
+**Source:** Кухня (Kukhnya) S1.10 · `sources/kukhnya/s01/e10.ru.dual.srt`  
+**Target level:** A1 — Duolingo Section 2
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+## Cast
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+| Role | Voice | Label |
+|---|---|---|
+| `narrator` | sky | — |
+| `senya` | angelina | Сеня |
+| `chef` | anja | Шеф |
+
+## Part 1 — Intro
+
+> In the quiet storage area behind the kitchen, Senya meets Chef Viktor Petrovich with a secretive package. Desperate to replace the missing luxury ingredients without alerting management, Viktor nervously inspects the arrival. Let us listen to their hushed exchange in Russian first.
+
+## Part 2 — Story
+
+| # | Speaker | Line | English | Source cue(s) | Change |
 |---|---|---|---|---|---|
-| 1 | Сеня | Шеф, я принёс вам секретный заказ. | Chef, I brought you the secret order. | #202 00:13:51: Ну что? Принёс | adapted: adapted |
-| 2 | Шеф | Ты проверил, никто не видел тебя? | Did you check that no one saw you? | new | new: new |
-| 3 | Сеня | В коридоре было совершенно пусто. | In the corridor it was completely empty. | new | new: new |
-| 4 | Шеф | Отлично, ставь эту коробку на стол. | Excellent, put this box on the table. | new | new: new |
-| 5 | Сеня | Коробка оказалась очень тяжёлой. | The box turned out to be very heavy. | new | new: new |
-| 6 | Шеф | Главное, чтобы товар был свежим. | The main thing is that the goods are fresh. | new | new: new |
-| 7 | Сеня | Я выбрал самый лучший свежий товар. | I chose the very best fresh goods. | new | new: new |
-| 8 | Шеф | Наш ресторан не может ждать долго. | Our restaurant cannot wait long. | new | new: new |
-| 9 | Сеня | Я выполнил всё быстро и вовремя. | I completed everything quickly and on time. | new | new: new |
-| 10 | Шеф | Надеюсь, этот секрет останется между нами. | I hope this secret remains between us. | new | new: new |
-| 11 | Сеня | Конечно, шеф, я умею молчать. | Of course, chef, I know how to keep silent. | new | new: new |
-| 12 | Шеф | Сейчас мы откроем и проверим товар. | Now we will open and inspect the goods. | new | new: new |
-| 13 | Сеня | Вы будете очень довольны покупкой. | You will be very pleased with the purchase. | new | new: new |
+| 0 | Сеня | Шеф, я принёс вам секретный заказ. | Chef, I brought you the secret order. | #202 "Ну что? Принёс" |  |
+| 1 | Шеф | Ты проверил, никто не видел тебя? | Did you check that no one saw you? | *(added)* |  |
+| 2 | Сеня | В коридоре было совершенно пусто. | In the corridor it was completely empty. | *(added)* |  |
+| 3 | Шеф | Отлично, ставь эту коробку на стол. | Excellent, put this box on the table. | *(added)* |  |
+| 4 | Сеня | Коробка оказалась очень тяжёлой. | The box turned out to be very heavy. | *(added)* |  |
+| 5 | Шеф | Главное, чтобы товар был свежим. | The main thing is that the goods are fresh. | *(added)* |  |
+| 6 | Сеня | Я выбрал самый лучший свежий товар. | I chose the very best fresh goods. | *(added)* |  |
+| 7 | Шеф | Наш ресторан не может ждать долго. | Our restaurant cannot wait long. | *(added)* |  |
+| 8 | Сеня | Я выполнил всё быстро и вовремя. | I completed everything quickly and on time. | *(added)* |  |
+| 9 | Шеф | Надеюсь, этот секрет останется между нами. | I hope this secret remains between us. | *(added)* |  |
+| 10 | Сеня | Конечно, шеф, я умею молчать. | Of course, chef, I know how to keep silent. | *(added)* |  |
+| 11 | Шеф | Сейчас мы откроем и проверим товар. | Now we will open and inspect the goods. | *(added)* |  |
+| 12 | Сеня | Вы будете очень довольны покупкой. | You will be very pleased with the purchase. | *(added)* |  |
 
-## Walk-through narration (English only, no target-language words quoted)
+## Part 5 — Outro & closing
 
-- 'Chef, I brought you the secret order.' Senya uses the perfective verb meaning 'brought' to focus on the single completed result, pairing it with 'secret' and 'order'.
-- 'Did you check that no one saw you?' Chef Barinov turns a statement into a question purely through rising intonation on the word meaning 'checked', followed by 'saw'.
-- 'In the corridor it was completely empty.' The phrasing opens with 'corridor' before bringing in 'was' and 'completely' to make the point clear.
-- 'Excellent, put this box on the table.' Chef Barinov leads with the direct command form meaning 'put', pairing it with 'excellent' and 'box'.
-- 'The box turned out to be very heavy.' Senya puts the word for 'box' together with 'turned out to be' and 'very' in a crisp, natural spoken turn of phrase.
-- 'The main thing is that the goods are fresh.' Here Chef Barinov anchors the line on the word meaning 'the main thing' and builds the thought around 'goods' and 'was'.
-- 'I chose the very best fresh goods.' Senya uses the perfective verb meaning 'chose' to focus on the single completed result, pairing it with 'best' and 'fresh'.
-- 'Our restaurant cannot wait long.' Chef Barinov expresses this naturally by combining the word for 'restaurant' with 'can' and 'to wait'.
-- 'I completed everything quickly and on time.' Senya uses the perfective verb meaning 'completed' to focus on the single completed result, pairing it with 'quickly' and 'on time'.
-- 'I hope this secret remains between us.' Chef Barinov chooses the imperfective verb meaning 'I hope' for the ongoing action, followed by 'secret' and 'will remain'.
-- 'Of course, chef, I know how to keep silent.' The phrasing opens with 'of course' before bringing in 'know how to' and 'to keep silent' to make the point clear.
-- 'Now we will open and inspect the goods.' Chef Barinov expresses this naturally by combining the word for 'now' with 'will open' and 'will check'.
-- 'You will be very pleased with the purchase.' Senya chooses the imperfective verb meaning 'will be' for the ongoing action, followed by 'very' and 'pleased'.
+> With the heavy box securely on the table and secrecy promised, Viktor Petrovich prepares to unveil the mysterious ingredients that Senya has procured. Next time you watch the episode, listen for the Russian expressions for 'fast' and 'to be' — you will catch every word right away. See you next time!
+
+**Сеня:** Пока!

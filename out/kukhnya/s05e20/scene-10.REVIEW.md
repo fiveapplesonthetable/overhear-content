@@ -18,10 +18,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 6 | Никита | Нет, я не могу с пятном по залу ходить. | No, I cannot walk around the dining room with a stain. | #154 00:13:52: я не могу<br>#155 00:13:54: Я же не могу с пятном по залу ходить | adapted: adapted |
 | 7 | Никита | А ты можешь, тебя же гости не видят. | And you can, the guests do not see you. | #156 00:13:57: А ты можешь. Тебя же не видят | adapted: adapted |
 | 8 | Лёва | Мне тоже по санитарным нормам нельзя. | I am not allowed to either under sanitary rules. | #157 00:13:59: А я тоже не могу. Мне по | adapted: adapted |
-| 9 | Аня | Давай мы с тобой по половине приготовим. | Let's each prepare half of the fish. | #160 00:14:24: Давай пополовине приготовим | adapted: adapted |
-| 10 | Аня | Жаль целую рыбину на твоё унижение тратить. | It is a shame to waste a whole fish on your humiliation. | #161 00:14:26: Жаль, целую рыбину на твоё унижение тратить | adapted: adapted |
+| 9 | Никита | Давай мы с тобой по половине приготовим. | Let's each prepare half of the fish. | #160 00:14:24: Давай пополовине приготовим | adapted: adapted |
+| 10 | Никита | Жаль целую рыбину на твоё унижение тратить. | It is a shame to waste a whole fish on your humiliation. | #161 00:14:26: Жаль, целую рыбину на твоё унижение тратить | adapted: adapted |
 | 11 | Никита | Ну и кто же теперь из нас голубок? | Well, and which one of us is the lovebird now? | #158 00:14:20: Ну и кто ж | adapted: adapted |
-| 12 | Аня | Согласен, мне и одной половины хватит. | Agreed, one half will be plenty for me. | #162 00:14:29: Согласен<br>#162 00:14:29: мне и половины хватит | adapted: adapted |
+| 12 | Никита | Согласен, мне и одной половины хватит. | Agreed, one half will be plenty for me. | #162 00:14:29: Согласен<br>#162 00:14:29: мне и половины хватит | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

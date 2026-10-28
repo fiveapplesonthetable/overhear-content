@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Никита, ты что тут так поздно делаешь? | Nikita, what are you doing here so late? | #262 00:19:11: Никита, ты что тут делаешь | adapted: adapted |
+| 1 | Катя | Никита, ты что тут так поздно делаешь? | Nikita, what are you doing here so late? | #262 00:19:11: Никита, ты что тут делаешь | adapted: adapted |
 | 2 | Никита | У меня вопрос жизни и смерти. | I have a matter of life and death. | #263 00:19:13: Вопрос жизни и смерти | adapted: adapted |
 | 3 | Никита | Ты должна завязать глаза и пройти в зал. | You must blindfold your eyes and walk into the hall. | #264 00:19:17: Ты должна завязать глаза и пройти со мной в зал | adapted: adapted |
-| 4 | Аня | Ладно, но у меня тоже важное дело. | Alright, but I also have an important matter. | #265 00:19:24: Ладно. Но у меня тут тоже вопрос жизни и смерти | adapted: adapted |
-| 5 | Аня | Мне нужно пять минут, чтобы всё доделать. | I need five minutes to finish everything. | #266 00:19:27: Мне нужно пять минут, чтобы все доделать | adapted: adapted |
-| 6 | Аня | Иначе всю кухню может залить пеной. | Otherwise the whole kitchen could flood with foam. | #267 00:19:29: Иначе всю кухню может залить пеной | adapted: adapted |
+| 4 | Катя | Ладно, но у меня тоже важное дело. | Alright, but I also have an important matter. | #265 00:19:24: Ладно. Но у меня тут тоже вопрос жизни и смерти | adapted: adapted |
+| 5 | Катя | Мне нужно пять минут, чтобы всё доделать. | I need five minutes to finish everything. | #266 00:19:27: Мне нужно пять минут, чтобы все доделать | adapted: adapted |
+| 6 | Катя | Иначе всю кухню может залить пеной. | Otherwise the whole kitchen could flood with foam. | #267 00:19:29: Иначе всю кухню может залить пеной | adapted: adapted |
 | 7 | Никита | Хорошо, я подожду тебя у двери. | Alright, I will wait for you by the door. | #268 00:19:31: я подожду | adapted: adapted |
 | 8 | Никита | Я пошёл, мы будем через пару минут. | I am heading in, we will be there in a couple of minutes. | #260 00:18:56: Я пошел. Мы будем через пару минут | adapted: adapted |
-| 9 | Шеф | Смотри, какой сейчас опасный момент! | Look what a dangerous moment this is right now! | #269 00:19:38: Опасный момент | adapted: adapted |
-| 10 | Шеф | Мне только натренироваться, и тебе конец! | I just need a little practice, and you are done for! | #270 00:19:41: мне только натренироваться | adapted: adapted |
+| 9 | Никита | Смотри, какой сейчас опасный момент! | Look what a dangerous moment this is right now! | #269 00:19:38: Опасный момент | adapted: adapted |
+| 10 | Никита | Мне только натренироваться, и тебе конец! | I just need a little practice, and you are done for! | #270 00:19:41: мне только натренироваться | adapted: adapted |
 | 11 | Никита | Шеф, да я же вам поддавался! | Chef, I was letting you win! | #271 00:19:44: Да я вам | adapted: adapted |
-| 12 | Шеф | Открывай дверь, это Тимур с кроваткой! | Open the door, that is Timur with the crib! | #272 00:19:48: Это Тимур с кроваткой | adapted: adapted |
+| 12 | Никита | Открывай дверь, это Тимур с кроваткой! | Open the door, that is Timur with the crib! | #272 00:19:48: Это Тимур с кроваткой | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

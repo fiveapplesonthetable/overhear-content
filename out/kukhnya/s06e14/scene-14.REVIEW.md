@@ -10,17 +10,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Тимур | Подождите, что здесь вообще сейчас происходит? | Wait, what is even going on here right now? | #188 00:15:21: Что происходит | adapted: adapted |
-| 2 | Тимур | Немедленно отпустите меня, что вы делаете? | Let me go immediately, what are you doing? | #189 00:15:23: Отпустите | adapted: adapted |
-| 3 | Аня | Костя, принеси бутылку виски на крышу. | Kostya, bring a bottle of whiskey to the roof. | #192 00:15:36: Костя, принеси, пожалуйста, бутылку виски на крышу | adapted: adapted |
-| 4 | Аня | Только, пожалуйста, ничего Насте не говори. | Just please do not say anything to Nastya. | #193 00:15:41: Только Насте не говори | adapted: adapted |
+| 1 | Настя | Подождите, что здесь вообще сейчас происходит? | Wait, what is even going on here right now? | #188 00:15:21: Что происходит | adapted: adapted |
+| 2 | Настя | Немедленно отпустите меня, что вы делаете? | Let me go immediately, what are you doing? | #189 00:15:23: Отпустите | adapted: adapted |
+| 3 | Костя | Костя, принеси бутылку виски на крышу. | Kostya, bring a bottle of whiskey to the roof. | #192 00:15:36: Костя, принеси, пожалуйста, бутылку виски на крышу | adapted: adapted |
+| 4 | Костя | Только, пожалуйста, ничего Насте не говори. | Just please do not say anything to Nastya. | #193 00:15:41: Только Насте не говори | adapted: adapted |
 | 5 | Настя | В детстве у меня была такая кличка. | In childhood I had a nickname like that. | #196 00:15:50: в детстве у меня была кличка такая | adapted: adapted |
-| 6 | Аня | Настя, мне только что позвонила Катя. | Nastya, Katya just called me. | #199 00:16:00: Позвонила Кать | adapted: adapted |
-| 7 | Аня | Она попросила принести на крышу виски. | She asked me to bring whiskey to the roof. | #199 00:16:00: попросила на крышу принести виски | adapted: adapted |
+| 6 | Костя | Настя, мне только что позвонила Катя. | Nastya, Katya just called me. | #199 00:16:00: Позвонила Кать | adapted: adapted |
+| 7 | Костя | Она попросила принести на крышу виски. | She asked me to bring whiskey to the roof. | #199 00:16:00: попросила на крышу принести виски | adapted: adapted |
 | 8 | Настя | Ну вот, молодец, что сразу признался. | Well there, good job for confessing right away. | #200 00:16:03: Ну вот, молодец, что признался | adapted: adapted |
 | 9 | Настя | Эту бутылку виски оставь здесь мне. | Leave this bottle of whiskey here with me. | #201 00:16:06: Бутылку оставь | adapted: adapted |
 | 10 | Настя | Костя, а где у тебя вкусный чай? | Kostya, where do you keep the tasty tea? | #202 00:16:09: а где у тебя чай стоит | adapted: adapted |
-| 11 | Аня | Чай лежит вон там за баром. | The tea is over there behind the bar. | #203 00:16:12: За баром | adapted: adapted |
+| 11 | Костя | Чай лежит вон там за баром. | The tea is over there behind the bar. | #203 00:16:12: За баром | adapted: adapted |
 | 12 | Настя | Я сама отнесу ей горячий чай. | I will take the hot tea to her myself. | #202 00:16:09: чай стоит | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)

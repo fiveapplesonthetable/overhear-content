@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e18-scene-16'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 18
 SCENE = 16
-TITLE = 'Шеф увольняется  (The Chef Quits)'
+TITLE = "Шеф увольняется  (The Chef Quits)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja', 'vika': 'angelina'}
-LABELS = {'anya': 'Макс', 'chef': 'Шеф', 'vika': 'Вика'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.18"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "vika": "angelina", "anya": "alisa"}
+LABELS = {"chef": "Шеф", "vika": "Вика", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.18'
 SOURCE_FILE = 'sources/kukhnya/s03/e18.ru.srt'
 
 INTRO = 'Vika rushes into the kitchen to find Chef Barinov burning her new menu over a pot. When she threatens to fine him, Chef Barinov proudly announces that she cannot fine him because he quits!'
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'With Chef Barinov storming out of the kitchen, Vika is left shaken on her very first evening as director.'
-CLOSING = ('chef', 'Я прямо сейчас сам увольняюсь!')
+OUTRO = 'With Chef Barinov storming out of the kitchen, Vika is left shaken on her very first evening as director. See you next time!'
+CLOSING = ("chef", "Увидимся!")

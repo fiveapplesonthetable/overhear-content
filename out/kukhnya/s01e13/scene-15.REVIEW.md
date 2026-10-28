@@ -1,41 +1,40 @@
-# kukhnya-s01e13-scene-15: review sheet
+# Разговор на складе  (Talk in the Stockroom) — `kukhnya-s01e13-scene-15`
 
-Title: Разговор на складе  (Talk in the Stockroom)
-Level: A1 — Duolingo Section 2
-Pair: ru-en
-Source: Кухня (Kukhnya) S1.13
-Cues 200-206 in the restaurant storeroom.
+**Source:** Кухня (Kukhnya) S1.13 · `sources/kukhnya/s01/e13.ru.dual.srt`  
+**Target level:** A1 — Duolingo Section 2
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+## Cast
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+| Role | Voice | Label |
+|---|---|---|
+| `narrator` | sky | — |
+| `vika` | angelina | Вика |
+| `anya` | alisa | Макс |
+
+## Part 1 — Intro
+
+> Victoria enters the restaurant storeroom only to find Max sitting comfortably among the crates instead of working. As Victoria tries to lecture him about maturity and the impropriety of their workplace relationship, Max counters her worries with charming romance. Let's listen to their flirtatious conversation in Russian.
+
+## Part 2 — Story
+
+| # | Speaker | Line | English | Source cue(s) | Change |
 |---|---|---|---|---|---|
-| 1 | Вика | Макс, почему ты снова прячешься здесь? | Max, why are you hiding here again? | #200 00:15:15: Виктория Сергеевна не видала? | adapted: Vika catches Max |
-| 2 | Макс | Я просто ждал тебя здесь. | I was simply waiting for you here. | new | new: Max smiles |
-| 3 | Вика | Какой же ты всё-таки несерьёзный ребёнок! | What an unserious child you are! | #201 00:15:18: Какой же ты все-таки ребенок. | adapted: Vika scolds him |
-| 4 | Макс | Тогда строго накажи меня за это! | Then punish me strictly for that! | #202 00:15:21: Тогда накажи меня. | adapted: Max teases |
-| 5 | Вика | Макс, перестань шутить, я говорю серьёзно. | Max, stop joking, I am serious. | #203 00:15:24: я не шучу. | adapted: Vika tries to be firm |
-| 6 | Вика | Ты молодой, тебе хочется веселья. | You are young, you want fun. | #204 00:15:26: Я понимаю, что ты молодой, а тебе хочется веселиться. | adapted: Vika notes age gap |
-| 7 | Вика | На работе надо быть взрослым человеком. | At work one must be an adult. | #205 00:15:29: Но иногда надо быть серьезней. | adapted: Vika urges maturity |
-| 8 | Макс | Вика, почему ты так переживаешь? | Vika, why are you so worried? | #205 00:15:29: что ты переживаешь | adapted: Max questions her fear |
-| 9 | Макс | Разница в возрасте совсем не важна. | The age difference is not important. | new | new: Max dismisses concerns |
-| 10 | Вика | Мне кажется, мы совершаем ошибку. | It seems we are making a mistake. | new | new: Vika expresses hesitation |
-| 11 | Макс | Рядом со мной ты забудешь тревоги. | Beside me you will forget all worries. | new | new: Max comforts her |
-| 12 | Вика | Макс, ты просто неисправимый романтик. | Max, you are an incorrigible romantic. | #220 00:16:41: Макс, | adapted: Vika smiles |
-| 13 | Макс | Потому что я очень люблю тебя, Вика. | Because I love you very much, Vika. | new | new: Max confesses love |
+| 0 | Вика | Макс, почему ты снова прячешься здесь? | Max, why are you hiding here again? | *(added)* |  |
+| 1 | Макс | Я просто ждал тебя здесь. | I was simply waiting for you here. | *(added)* |  |
+| 2 | Вика | Какой же ты всё-таки несерьёзный ребёнок! | What an unserious child you are! | #211 "все" |  |
+| 3 | Макс | Тогда строго накажи меня за это! | Then punish me strictly for that! | #202 "Тогда накажи меня." |  |
+| 4 | Вика | Макс, перестань шутить, я говорю серьёзно. | Max, stop joking, I am serious. | #203 "я не шучу." |  |
+| 5 | Вика | Ты молодой, тебе хочется веселья. | You are young, you want fun. | #204 "Я понимаю, что ты молодой, а тебе хочется веселиться." |  |
+| 6 | Вика | На работе надо быть взрослым человеком. | At work one must be an adult. | #205 "Но иногда надо быть серьезней." |  |
+| 7 | Макс | Вика, почему ты так переживаешь? | Vika, why are you so worried? | #205 "что ты переживаешь" |  |
+| 8 | Макс | Разница в возрасте совсем не важна. | The age difference is not important. | *(added)* |  |
+| 9 | Вика | Мне кажется, мы совершаем ошибку. | It seems we are making a mistake. | *(added)* |  |
+| 10 | Макс | Рядом со мной ты забудешь тревоги. | Beside me you will forget all worries. | *(added)* |  |
+| 11 | Вика | Макс, ты просто неисправимый романтик. | Max, you are an incorrigible romantic. | #211 "просто" |  |
+| 12 | Макс | Потому что я очень люблю тебя, Вика. | Because I love you very much, Vika. | *(added)* |  |
 
-## Walk-through narration (English only, no target-language words quoted)
+## Part 5 — Outro & closing
 
-- 'Max, why are you hiding here again?' Victoria discovers him lounging in the stockroom.
-- 'I was simply waiting for you here.' Here Max anchors the line on the word meaning 'just' and builds the thought around 'expected' and 'here'.
-- 'What an unserious child you are!' Russian omits the present-tense verb 'to be' here, linking 'unserious' directly with 'a child', combining 'unserious' with 'a child'.
-- 'Then punish me strictly for that!' Max turns her reprimand into a flirtatious dare.
-- 'Max, stop joking, I am serious.' Victoria attempts to maintain professionalism.
-- 'You are young, you want fun.' She reminds him of their generational divide.
-- 'At work one must be an adult.' Victoria insists on responsible workplace conduct.
-- 'Vika, why are you so worried?' Max asks why she lets small worries trouble her.
-- 'The age difference is not important.' He dismisses her concerns about age barriers.
-- 'It seems we are making a mistake.' Vika chooses the imperfective verb meaning 'it seems' for the ongoing action, followed by 'to commit' and 'mistake'.
-- 'Beside me you will forget all worries.' The phrasing opens with 'nearby' before bringing in 'will forget' and 'worries' to make the point clear.
-- 'Max, you are an incorrigible romantic.' Victoria melts with a smile despite her hesitation.
-- 'Because I love you very much, Vika.' Max puts the word for 'because' together with 'very much' and 'love' in a crisp, natural spoken turn of phrase.
+> Unable to resist Max's charm, Victoria lets her professional guard down in the quiet storeroom. Next time you watch the episode, listen for the Russian expressions for 'why' and 'again' — you will catch every word right away. See you next time!
+
+**Макс:** Пока!

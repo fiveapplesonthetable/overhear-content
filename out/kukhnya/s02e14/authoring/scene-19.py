@@ -1,32 +1,32 @@
-ID = "kukhnya-s02e14-scene-19"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e14-scene-19'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 14
 SCENE = 19
-TITLE = 'Пожар для отвлечения внимания  (A Fire to Create a Distraction)'
+TITLE = "Пожар для отвлечения внимания  (A Fire to Create a Distraction)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'fedya': 'anja', 'lyova': 'angelina'}
-LABELS = {'anya': 'Сеня', 'fedya': 'Федя', 'lyova': 'Лёва'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.14"
-SOURCE_FILE = "sources/kukhnya/s02/e14.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "senya": "angelina", "fedya": "anja"}
+LABELS = {"senya": "Сеня", "fedya": "Федя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.14'
+SOURCE_FILE = 'sources/kukhnya/s02/e14.ru.srt'
 
 INTRO = 'Sasha walks into the storage cooler and gasps when she finds Chef Barinov hiding inside, prompting him to swear her to secrecy. When Elena Pavlovna heads toward the cooler herself, Senya and Fedya set a pan ablaze and yell fire to distract her.'
 
 STORY = [
-    ('anya', 'Ты меня не видел!', 'You did not see me!', [(321, 'Ты меня не видел')], ''),
+    ('senya', 'Ты меня не видел!', 'You did not see me!', [(321, 'Ты меня не видел')], ''),
     ('fedya', 'А вы от кого?', 'Who are you hiding from?', [(322, 'А вы от кого')], ''),
-    ('lyova', 'А что там происходит?', 'Wait, what is going on over there?', [(323, 'А что там происходит')], ''),
-    ('anya', 'Огонь, пожар!', 'Fire, there is a fire!', [(324, 'Огонь, пожар')], ''),
+    ('senya', 'А что там происходит?', 'Wait, what is going on over there?', [(323, 'А что там происходит')], ''),
+    ('senya', 'Огонь, пожар!', 'Fire, there is a fire!', [(324, 'Огонь, пожар')], ''),
     ('fedya', 'Ну что вы стоите, смотрите?', 'Why are you just standing there staring?', [(325, 'Ну что вы стоите, смотрите')], ''),
-    ('lyova', 'Что-то делайте.', 'Do something!', [(326, 'что-то делайте')], ''),
-    ('anya', 'Боже мой, знаете что, надо...', 'Oh my goodness, you know what, we need to...', [(327, 'Боже мой, знаете что, надо')], ''),
+    ('senya', 'Что-то делайте.', 'Do something!', [(326, 'что-то делайте')], ''),
+    ('senya', 'Боже мой, знаете что, надо...', 'Oh my goodness, you know what, we need to...', [(327, 'Боже мой, знаете что, надо')], ''),
     ('fedya', 'Луи, давайте, есть огнетушитель у вас?', 'Louis, come on, do you have a fire extinguisher?', [(329, 'Луи, давайте, есть огнетушитель у вас')], ''),
-    ('lyova', 'Ну, что за ресторан такой?', 'What kind of restaurant is this?', [(330, 'Ну, что за ресторан такой')], ''),
-    ('anya', 'В холодильник.', 'Into the walk-in fridge.', [(332, 'В холодильник')], ''),
+    ('senya', 'Ну, что за ресторан такой?', 'What kind of restaurant is this?', [(330, 'Ну, что за ресторан такой')], ''),
+    ('senya', 'В холодильник.', 'Into the walk-in fridge.', [(332, 'В холодильник')], ''),
     ('fedya', 'Пойду в холодильник.', 'I am going into the walk-in fridge.', [(333, 'пойду в холодильник')], ''),
-    ('lyova', 'Не надо, занимайтесь заказами.', 'No need, just focus on the orders.', [(334, 'Не надо, занимайтесь заказами')], ''),
-    ('anya', 'Вы мне должны помочь.', 'You have to help me.', [(335, 'вы мне должны помочь')], ''),
+    ('senya', 'Не надо, занимайтесь заказами.', 'No need, just focus on the orders.', [(334, 'Не надо, занимайтесь заказами')], ''),
+    ('senya', 'Вы мне должны помочь.', 'You have to help me.', [(335, 'вы мне должны помочь')], ''),
 ]
 
 OPENER = "Now let's break down each line of their conversation."
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Now let's put it all back together and hear the whole scene again."
-
-OUTRO = 'When you watch Scene 19 of Episode 14, listen out for the exchange around a fire to create a distraction — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('anya', 'Вы мне должны помочь.')
+OUTRO = 'That wraps up this scene as when Sasha accidentally spots Chef Barinov hiding in the walk-in cooler, the cooks stage a kitchen fire to keep Elena Pavlovna from opening the cooler door. Until next time!'
+CLOSING = ("senya", "Увидимся!")

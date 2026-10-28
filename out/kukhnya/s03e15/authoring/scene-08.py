@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e15-scene-08'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 15
 SCENE = 8
-TITLE = 'Рецепт кролика и букет для Вики  (The Rabbit Recipe and a Bouquet for Vika)'
+TITLE = "Рецепт кролика и букет для Вики  (The Rabbit Recipe and a Bouquet for Vika)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja', 'vika': 'angelina'}
-LABELS = {'anya': 'Макс', 'chef': 'Шеф', 'vika': 'Вика'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.15"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "chef": "anja", "vika": "angelina"}
+LABELS = {"anya": "Макс", "chef": "Шеф", "vika": "Вика"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.15'
 SOURCE_FILE = 'sources/kukhnya/s03/e15.ru.srt'
 
 INTRO = 'When Nagiyev names baked rabbit with almond sauce, rosemary, and truffles, Chef Barinov says it is impossible to learn by tonight—until Nagiyev threatens to fire him and then offers a bonus! Meanwhile, the staff gives Vika birthday flowers. Listen first.'
@@ -31,7 +31,7 @@ STORY = [
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
 
 WALK = [
-    (0, None, "'You bet that in one evening you would learn to cook this dish?' In Russian, the idea of 'you' flows naturally into 'dish' without extra filler words."),
+    (0, None, "'You bet that in one evening you would learn to cook this dish?' Max pairs 'made a bet' with 'dish' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'."),
     (1, None, "'Baked rabbit with almond sauce, rosemary, and truffles.' Spoken Russian keeps this brisk, leaning on 'roasted' and finishing on 'with truffles'."),
     (2, None, "'Out of all those words, I only know the word rabbit!' Max anchors the line on 'I', while 'know' completes the thought."),
     (3, None, "'Dima, before evening that is completely impossible!' Here the Russian phrasing highlights 'Dima' before landing on 'impossible'."),
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Seeing Vika holding a bouquet of flowers, jealous Max jumps to the wrong conclusion and confronts her in the hallway. Let's hear Scene Nine."
-CLOSING = ('chef', 'Сеня, давай кролика неси!')
+OUTRO = "Seeing Vika holding a bouquet of flowers, jealous Max jumps to the wrong conclusion and confronts her in the hallway. Let's hear Scene Nine. See you next time!"
+CLOSING = ("chef", "До завтра!")

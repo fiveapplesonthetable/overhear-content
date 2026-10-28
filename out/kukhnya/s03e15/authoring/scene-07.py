@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e15-scene-07'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 15
 SCENE = 7
-TITLE = 'Нагиев просит научить его готовить  (Nagiyev Asks to Be Taught to Cook)'
+TITLE = "Нагиев просит научить его готовить  (Nagiyev Asks to Be Taught to Cook)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja', 'nagiyev': 'angelina'}
-LABELS = {'anya': 'Макс', 'chef': 'Шеф', 'nagiyev': 'Нагиев'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.15"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "nagiyev": "angelina", "anya": "alisa"}
+LABELS = {"chef": "Шеф", "nagiyev": "Нагиев", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.15'
 SOURCE_FILE = 'sources/kukhnya/s03/e15.ru.srt'
 
 INTRO = 'In the kitchen, Chef Barinov is barking orders at Senya and Fedya when Nagiyev walks in wearing an apron and demands that Barinov teach him how to cook before evening. Listen to the Russian conversation first.'
@@ -38,7 +38,7 @@ WALK = [
     (4, None, "'It is a long story, Vitya, I need to learn how to cook.' The meaning hinges on 'for a long time' working together with 'to cook' in spoken Russian."),
     (5, None, "'Please, quickly teach me how to cook!' An emphatic spoken line centered on the verb meaning 'teach!'. Chef Barinov answers right away."),
     (6, None, "'Wait, Dima, I did not understand you just now.' The meaning hinges on 'wait' working together with 'understood' in spoken Russian."),
-    (7, None, "'That nonsense you have been doing your whole life, teach me!' Notice the reflexive suffix on the verb meaning 'to be busy with', turning the action back on the subject."),
+    (7, None, "'That nonsense you have been doing your whole life, teach me!' Here Nagiyev anchors the thought on 'nonsense / trifle' and finishes on 'teach', keeping the spoken rhythm brisk and natural."),
     (8, None, "'Dima, this is not acting in a commercial!' An emphatic spoken line centered on the verb meaning 'to act'."),
     (9, None, "'This is art, there are many subtleties here that one must grasp and realize.' Chef Barinov brings out the contrast between 'this' and 'art' in a few short words."),
     (10, None, "'Tell me honestly, why do you even need this?' Here the Russian phrasing highlights 'say' before landing on 'why'."),
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Wait until Chef Barinov hears WHICH dish Nagiyev bet he could cook by tonight! Let's follow them into the office in Scene Eight."
-CLOSING = ('nagiyev', 'Научи меня готовить!')
+OUTRO = "Wait until Chef Barinov hears WHICH dish Nagiyev bet he could cook by tonight! Let's follow them into the office in Scene Eight. Until next time!"
+CLOSING = ("nagiyev", "До встречи!")

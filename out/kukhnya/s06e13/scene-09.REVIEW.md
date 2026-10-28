@@ -15,13 +15,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 3 | Гость | Там не было ничего совсем серьёзного. | There was nothing really serious there. | #122 00:09:07: ничего серьезного | adapted: adapted |
 | 4 | Гость | Я ведь просто любил играть в карты. | I simply loved playing cards. | #124 00:09:10: картишки | adapted: adapted |
 | 5 | Гость | Дал же мне бог такой талант. | God gave me such a talent. | #125 00:09:12: Дал бог талант | adapted: adapted |
-| 6 | Аня | Ничего страшного, вы скоро помиритесь. | It is nothing terrible, you will make up soon. | #126 00:09:15: Ничего, помиритесь | adapted: adapted |
+| 6 | Гость | Ничего страшного, вы скоро помиритесь. | It is nothing terrible, you will make up soon. | #126 00:09:15: Ничего, помиритесь | adapted: adapted |
 | 7 | Лёва | Простите, шеф, там сейчас Михаил злится. | Excuse me, chef, Mikhail is raging over there right now. | #128 00:09:25: Простите, шеф | adapted: adapted |
 | 8 | Лёва | У него сегодня важный покер сорвался. | His important poker game fell through today. | #129 00:09:27: сегодня покер сорвался | adapted: adapted |
 | 9 | Лёва | Он хотел играть с богатым иностранцем. | He wanted to play with a rich foreigner. | #129 00:09:27: с каким-то богатым иностранцем | adapted: adapted |
-| 10 | Аня | Я даже точно знаю, с каким. | I even know exactly with which one. | #130 00:09:30: Я даже знаю, с каким | adapted: adapted |
+| 10 | Гость | Я даже точно знаю, с каким. | I even know exactly with which one. | #130 00:09:30: Я даже знаю, с каким | adapted: adapted |
 | 11 | Лёва | Вот он теперь ходит и злится. | So now he is walking around getting angry. | #131 00:09:34: Вот он и психует | adapted: adapted |
-| 12 | Аня | Кажется, я могу помирить вас с Костей. | It seems I can reconcile you with Kostya. | #133 00:09:44: помирить вас с Костей | adapted: adapted |
+| 12 | Гость | Кажется, я могу помирить вас с Костей. | It seems I can reconcile you with Kostya. | #133 00:09:44: помирить вас с Костей | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -32,7 +32,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'God gave me such a talent.' the guest anchors the line on 'to give', while 'talent' completes the thought.
 - 'It is nothing terrible, you will make up soon.' The grammar packs 'nothing' and 'to make up' into a tight, idiomatic kitchen exchange.
 - 'Excuse me, chef, Mikhail is raging over there right now.' Notice how Russian expresses 'forgive' and 'is angry' with crisp inflection rather than helper words.
-- 'His important poker game fell through today.' Notice the reflexive suffix on the verb meaning 'to slip off', turning the action back on the subject.
+- 'His important poker game fell through today.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.
 - 'He wanted to play with a rich foreigner.' The meaning hinges on 'he' working together with 'foreigner' in spoken Russian.
 - 'I even know exactly with which one.' The grammar packs 'I' and 'by what' into a tight, idiomatic kitchen exchange. Lyova answers right away.
 - 'So now he is walking around getting angry.' Lyova brings out the contrast between 'here' and 'he' in a few short words.

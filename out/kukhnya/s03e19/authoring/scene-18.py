@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e19-scene-18'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 19
 SCENE = 18
-TITLE = 'Возвращение господина Громова  (The Return of Mr. Gromov)'
+TITLE = "Возвращение господина Громова  (The Return of Mr. Gromov)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja', 'rodion': 'angelina'}
-LABELS = {'anya': 'Макс', 'vika': 'Вика', 'rodion': 'Родион'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.19"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "vika": "angelina", "rodion": "anja"}
+LABELS = {"anya": "Макс", "vika": "Вика", "rodion": "Родион"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.19'
 SOURCE_FILE = 'sources/kukhnya/s03/e19.ru.srt'
 
 INTRO = 'After reconciling that night, Vika promises to try trusting her lovable idiot. The next afternoon in the courtyard, Senya and Fedya gawk at an armored limousine as a wealthy Rodion Sergeyevich arrives with his wife!'
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Dressed in a tailored suit, Rodion Sergeyevich escorts his wife straight into the kitchen of Claude Monet.'
-CLOSING = ('vika', 'Я теперь буду тебе верить.')
+OUTRO = 'Dressed in a tailored suit, Rodion Sergeyevich escorts his wife straight into the kitchen of Claude Monet. See you next time!'
+CLOSING = ("vika", "Всего хорошего!")

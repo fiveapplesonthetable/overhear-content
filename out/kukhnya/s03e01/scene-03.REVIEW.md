@@ -19,7 +19,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 7 | Вика | Понятно? | Understood? | #41 00:03:01: Понятно | verbatim |
 | 8 | Аня | Понятно. Но после смены сходим? | Understood. But shall we go after the shift? | #41 00:03:01: Понятно<br>#38 00:02:46: после смены | adapted: adapted |
 | 9 | Вика | Штраф пять тысяч. | A fine of five thousand. | #43 00:03:06: Штраф пять тысяч | verbatim |
-| 10 | Настя | Кажется, пинается. | I think it is kicking. | #44 00:03:14: Кажется, пинается | verbatim |
+| 10 | Вика | Кажется, пинается. | I think it is kicking. | #44 00:03:14: Кажется, пинается | verbatim |
 | 11 | Аня | У него сейчас рост восемь сантиметров. | He is only eight centimeters tall right now. | #45 00:03:16: У него сейчас рост восемь сантиметров | verbatim |
 | 12 | Аня | Как он может пинаться? | How can he be kicking? | #46 00:03:18: он может пинаться | adapted: adapted |
 

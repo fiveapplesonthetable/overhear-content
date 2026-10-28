@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e05-scene-20'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 5
 SCENE = 20
-TITLE = 'Угон машины и звонок Кате  (Stealing the Car and Calling Katya)'
+TITLE = "Угон машины и звонок Кате  (Stealing the Car and Calling Katya)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'kostya': 'anja', 'chef': 'angelina'}
-LABELS = {'anya': 'Макс', 'kostya': 'Костя', 'chef': 'Шеф'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.05"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "kostya": "anja"}
+LABELS = {"anya": "Макс", "kostya": "Костя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.05'
 SOURCE_FILE = 'sources/kukhnya/s03/e05.ru.srt'
 
 INTRO = "In the final scene, Max takes the keys to move Nagiyev's gift car, accidentally crashing it, while Chef Barinov swallows his pride and calls Katya back. Listen to the full conversation in Russian first, and then we will walk through every line together."
@@ -20,8 +20,8 @@ STORY = [
     ('kostya', 'Ты что, угнать её сейчас хочешь?', 'What, do you want to steal it right now?', [(295, 'Ты что, угнать ее хочешь')], 'adapted'),
     ('anya', 'Просто переставлю её тихо куда-нибудь.', 'I will simply move it quietly somewhere.', [(295, 'Просто переставлю ее куда-нибудь')], 'adapted'),
     ('anya', 'Пусть он теперь побегает и поищет.', 'Let him run around and look for it now.', [(296, 'поищет')], 'adapted'),
-    ('chef', 'Алло, Катя, я принимаю твои условия.', 'Hello, Katya, I accept your terms.', [(300, 'Катя, я принимаю твои условия')], 'adapted'),
-    ('chef', 'Пожалуйста, быстрее возвращайся к нам.', 'Please, come back to us quickly.', [(301, 'Возвращайся')], 'adapted'),
+    ('kostya', 'Алло, Катя, я принимаю твои условия.', 'Hello, Katya, I accept your terms.', [(300, 'Катя, я принимаю твои условия')], 'adapted'),
+    ('kostya', 'Пожалуйста, быстрее возвращайся к нам.', 'Please, come back to us quickly.', [(301, 'Возвращайся')], 'adapted'),
     ('anya', 'У каждого человека есть обратная сторона.', 'Every person has another side.', [(302, 'У каждого человека есть обратная сторона')], 'adapted'),
     ('anya', 'Сторона, которая скрыта от чужих глаз.', "A side that is hidden from others' eyes.", [(303, 'Сторона, которая скрыта от глаз')], 'adapted'),
     ('anya', 'Кого-то эта сторона может сильно удивить.', 'That side can surprise someone greatly.', [(306, 'Кого-то эта сторона может очень сильно удивить')], 'adapted'),
@@ -48,5 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Chef Barinov makes peace with his daughter Katya, while Max hides the dented sports car and sets up next episode's crisis."
-CLOSING = ('anya', 'Спасибо, конечно, но нет.')
+OUTRO = "Chef Barinov makes peace with his daughter Katya, while Max hides the dented sports car and sets up next episode's crisis. See you next time!"
+CLOSING = ("anya", "До свидания!")

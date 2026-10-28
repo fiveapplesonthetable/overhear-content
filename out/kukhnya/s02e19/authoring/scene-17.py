@@ -1,32 +1,32 @@
-ID = "kukhnya-s02e19-scene-17"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e19-scene-17'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 19
 SCENE = 17
-TITLE = 'Метод работы с актёрами  (A Method for Working with Actors)'
+TITLE = "Метод работы с актёрами  (A Method for Working with Actors)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja'}
-LABELS = {'anya': 'Шеф', 'vika': 'Вика'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.19"
-SOURCE_FILE = "sources/kukhnya/s02/e19.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "vika": "angelina"}
+LABELS = {"chef": "Шеф", "vika": "Вика"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.19'
+SOURCE_FILE = 'sources/kukhnya/s02/e19.ru.srt'
 
 INTRO = 'Greeting the director with theatrical charm, Nagiyev welcomes her to Claude Monet as if it were her first visit. She surprises him by revealing she has been coming to the restaurant for two weeks straight to observe him in real life before casting her film.'
 
 STORY = [
-    ('anya', 'Ничего себе, вы просто так хорошо выглядите.', 'My goodness, you look simply wonderful.', [(281, 'Ничего себе, вы просто так хорошо выглядите')], ''),
+    ('chef', 'Ничего себе, вы просто так хорошо выглядите.', 'My goodness, you look simply wonderful.', [(281, 'Ничего себе, вы просто так хорошо выглядите')], ''),
     ('vika', 'Перестал узнавать.', 'I hardly recognized you at first.', [(282, 'перестал узнавать')], ''),
-    ('anya', 'Ну и значит.', 'Well, that means.', [(284, 'ну и значит')], ''),
+    ('chef', 'Ну и значит.', 'Well, that means.', [(284, 'ну и значит')], ''),
     ('vika', 'Виктория Сергеевна.', 'Viktoriya Sergeyevna.', [(285, 'Виктория Сергеевна')], ''),
-    ('anya', 'Добро пожаловать.', 'Welcome to our restaurant.', [(286, 'Добро пожаловать')], ''),
+    ('chef', 'Добро пожаловать.', 'Welcome to our restaurant.', [(286, 'Добро пожаловать')], ''),
     ('vika', 'Благодарю вас.', 'Thank you very much.', [(286, 'Благодарю вас')], ''),
-    ('anya', 'А я смотрю, вы не в первый раз.', 'And I see this is not your first time here.', [(287, 'А я смотрю, вы не в первый раз')], ''),
+    ('chef', 'А я смотрю, вы не в первый раз.', 'And I see this is not your first time here.', [(287, 'А я смотрю, вы не в первый раз')], ''),
     ('vika', 'Я хожу уже к вам две недели.', 'I have been coming to your place for two weeks already.', [(288, 'Я хожу уже к вам две недели')], ''),
-    ('anya', 'Вот какая, чего же я не знаю.', 'Is that so, how did I not know about it?', [(289, 'Вот какая, чего же я не знаю')], ''),
+    ('chef', 'Вот какая, чего же я не знаю.', 'Is that so, how did I not know about it?', [(289, 'Вот какая, чего же я не знаю')], ''),
     ('vika', 'Такой мой метод работы с актёрами.', 'That is my personal method of working with actors.', [(290, 'Такой мой метод работы с актёрами')], ''),
-    ('anya', 'Я хотела посмотреть, какой вы в жизни.', 'I wanted to see what you are like in real life.', [(291, 'Я хотела посмотреть, какой вы в жизни')], ''),
+    ('chef', 'Я хотела посмотреть, какой вы в жизни.', 'I wanted to see what you are like in real life.', [(291, 'Я хотела посмотреть, какой вы в жизни')], ''),
     ('vika', 'Гениально, вот гениально.', 'Brilliant, simply brilliant.', [(292, 'Гениально, вот гениально')], ''),
-    ('anya', 'Да, вот что там, да.', 'Yes, well, let us see what is over there.', [(293, 'Да, вот что там, да')], ''),
+    ('chef', 'Да, вот что там, да.', 'Yes, well, let us see what is over there.', [(293, 'Да, вот что там, да')], ''),
 ]
 
 OPENER = "Now let's go back through the conversation line by line."
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the whole conversation once more from start to finish."
-
-OUTRO = 'When you watch Scene 17 of Episode 19, listen out for the exchange around a method for working with actors — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('anya', 'Да, вот что там, да.')
+OUTRO = 'That wraps up this scene as nagiyev lavishes compliments on the visiting film director, who reveals she has been dining at Claude Monet incognito for two weeks to observe how people act in real life. Until next time!'
+CLOSING = ("chef", "До встречи!")

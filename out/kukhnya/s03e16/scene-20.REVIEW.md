@@ -19,9 +19,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 7 | Аня | Мы верим в то, чего не может быть, и верим в себя. | We believe in what cannot be, and we believe in ourselves. | #365 00:23:19: Верим в то, чего не может быть<br>#366 00:23:27: Верим в себя | adapted: adapted |
 | 8 | Аня | Но без веры мы рискуем остаться в полном одиночестве. | But without faith we risk being left in complete solitude. | #367 00:23:38: Но без веры мы рискуем остаться в одиночестве | adapted: adapted |
 | 9 | Аня | Шеф, а почему вчера плохо всем гостям стало? | Chef, and why did all the guests get sick yesterday? | #368 00:23:43: плохо<br>#368 00:23:43: всем | adapted: adapted |
-| 10 | Шеф | Рыба была просроченная, надо было её сразу выбросить. | The fish was expired, we should have thrown it out right away. | #369 00:23:48: Рыба была просроченная, надо было выбросить | adapted: adapted |
+| 10 | Кристина | Рыба была просроченная, надо было её сразу выбросить. | The fish was expired, we should have thrown it out right away. | #369 00:23:48: Рыба была просроченная, надо было выбросить | adapted: adapted |
 | 11 | Аня | Значит, мой соус хороший, его можно поставить в меню? | So my sauce is good, can we put it on the menu? | #370 00:23:51: А я | adapted: adapted |
-| 12 | Шеф | Никак нет, но у тебя ещё всё впереди! | Not a chance, but you still have everything ahead of you! | #372 00:24:03: нет. У тебя еще все впереди | adapted: adapted |
+| 12 | Кристина | Никак нет, но у тебя ещё всё впереди! | Not a chance, but you still have everything ahead of you! | #372 00:24:03: нет. У тебя еще все впереди | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

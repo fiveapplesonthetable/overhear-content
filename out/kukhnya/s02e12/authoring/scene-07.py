@@ -1,32 +1,32 @@
-ID = "kukhnya-s02e12-scene-07"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e12-scene-07'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 12
 SCENE = 7
 TITLE = "Зависть поваров и совет Максу  (The Cooks' Envy and a Tip for Max)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'lyova': 'anja'}
-LABELS = {'anya': 'Шеф', 'lyova': 'Лёва'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.12"
-SOURCE_FILE = "sources/kukhnya/s02/e12.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "lyova": "angelina"}
+LABELS = {"chef": "Шеф", "lyova": "Лёва"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.12'
+SOURCE_FILE = 'sources/kukhnya/s02/e12.ru.srt'
 
 INTRO = 'After tasting the salad, Senya, Fedya, and Lyova grumble amongst themselves that the young newcomer must have had a rich father help him climb the ladder. Meanwhile, Aleksandr wins Max over by showing him a simple trick to rest meat for two minutes so it cooks much faster.'
 
 STORY = [
-    ('anya', 'Это должно быть вкусно.', 'This should be delicious.', [(103, 'Это должно быть вкусно')], ''),
+    ('chef', 'Это должно быть вкусно.', 'This should be delicious.', [(103, 'Это должно быть вкусно')], ''),
     ('lyova', 'Ну, я надеюсь, по крайней мере.', 'Well, I hope so, at least.', [(104, 'Ну, я надеюсь, по крайней мере')], ''),
-    ('anya', 'Или папочка помог.', 'Or else his daddy helped him out.', [(106, 'Или папочка помог')], ''),
+    ('chef', 'Или папочка помог.', 'Or else his daddy helped him out.', [(106, 'Или папочка помог')], ''),
     ('lyova', 'Как у него.', 'Just like him.', [(107, 'как у него')], ''),
-    ('anya', 'Тоже чего-нибудь добились.', 'Would have achieved something too.', [(108, 'тоже чего-нибудь добились')], ''),
+    ('chef', 'Тоже чего-нибудь добились.', 'Would have achieved something too.', [(108, 'тоже чего-нибудь добились')], ''),
     ('lyova', 'Я бы у меня посмотрел.', 'I would like to see him try.', [(109, 'Я бы у меня посмотрел')], ''),
-    ('anya', 'Где я начинал.', 'Where I started out.', [(110, 'где я начинал')], ''),
+    ('chef', 'Где я начинал.', 'Where I started out.', [(110, 'где я начинал')], ''),
     ('lyova', 'Погоди, ты же в метрополе начинал.', 'Hold on, you started out at the Metropol.', [(111, 'Погоди, ты же в метрополе начинал')], ''),
-    ('anya', 'А, это Лёва в метрополе.', 'Oh, right, it was Lyova who started at the Metropol.', [(112, 'А, это Лёва в метрополе')], ''),
+    ('chef', 'А, это Лёва в метрополе.', 'Oh, right, it was Lyova who started at the Metropol.', [(112, 'А, это Лёва в метрополе')], ''),
     ('lyova', 'Для того.', 'In order to do that.', [(113, 'Для того')], ''),
-    ('anya', 'Перед тем.', 'Beforehand.', [(113, 'перед тем')], ''),
+    ('chef', 'Перед тем.', 'Beforehand.', [(113, 'перед тем')], ''),
     ('lyova', 'Дай ему постоять две минуты.', 'Let it rest for two minutes.', [(114, 'дай ему постоять две минуты')], ''),
-    ('anya', 'После этого ты приготовишь его гораздо быстрее.', 'After that, you will cook it much faster.', [(115, 'После этого ты приготовишь его гораздо быстрее')], ''),
+    ('chef', 'После этого ты приготовишь его гораздо быстрее.', 'After that, you will cook it much faster.', [(115, 'После этого ты приготовишь его гораздо быстрее')], ''),
 ]
 
 OPENER = "Right, let's take their exchange slowly and unpack the Russian."
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Now let's listen to the entire scene again without interruption."
-
-OUTRO = "When you watch Scene 7 of Episode 12, listen out for the exchange around the cooks' envy and a tip for max — you will recognize every Russian phrase right away. See you in the next scene."
-CLOSING = ('lyova', 'Дай ему постоять две минуты.')
+OUTRO = 'That wraps up this scene as while Senya, Fedya, and Lyova grumble that Aleksandr only got ahead through connections, the new chef wins Max over with a helpful cooking tip. Until next time!'
+CLOSING = ("lyova", "Всего хорошего!")

@@ -1,14 +1,14 @@
 ID = 'kukhnya-s06e04-scene-07'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 4
 SCENE = 7
-TITLE = 'Таблетки в мусорке  (Pills in the Trash)'
+TITLE = "Таблетки в мусорке  (Pills in the Trash)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'doctor': 'anja', 'katya': 'angelina'}
-LABELS = {'anya': 'Шеф', 'doctor': 'Врач', 'katya': 'Катя'}
-SOURCE_NAME = "Кухня (Kukhnya) S6.04"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "doctor": "anja", "katya": "angelina"}
+LABELS = {"doctor": "Врач", "katya": "Катя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S6.04'
 SOURCE_FILE = 'sources/kukhnya/s06/e04.ru.srt'
 
 INTRO = "Chef Barinov's doctor friend drops by the office for a surprise visit and spots the prescribed heart medication sitting unopened in Barinov's wastebasket. Listen to the full conversation in Russian first, and then we will walk through every line together."
@@ -16,14 +16,14 @@ INTRO = "Chef Barinov's doctor friend drops by the office for a surprise visit a
 STORY = [
     ('doctor', 'Здравствуйте, Виктор Петрович.', 'Hello, Viktor Petrovich.', [(105, 'Здравствуйте'), (106, 'Виктор Петрович')], 'adapted'),
     ('doctor', 'И как ты это называешь?', 'And what do you call this?', [(108, 'как это называешь?')], 'adapted'),
-    ('anya', 'Какими судьбами ты здесь?', 'What brings you here?', [(109, 'Какими судьбами?')], 'adapted'),
+    ('doctor', 'Какими судьбами ты здесь?', 'What brings you here?', [(109, 'Какими судьбами?')], 'adapted'),
     ('doctor', 'А вот это что в мусорке?', 'And what is this here in the trash?', [(110, 'А вот это что?')], 'adapted'),
     ('doctor', 'А ведь я предупреждал тебя, Витя.', 'After all, I warned you, Vitya.', [(111, 'А ведь я предупреждал')], 'adapted'),
     ('doctor', 'Если ты не перестанешь работать как лошадь, все закончится оркестром.', 'If you do not stop working like a horse, it will all end with an orchestra.', [(112, 'ты не перестанешь'), (112, 'как лошадь, все это закончится оркестром')], 'adapted'),
     ('doctor', 'И печальной музыкой.', 'And mournful music.', [(113, 'И печальной музыкой')], 'exact'),
     ('doctor', 'Скажи, ты хоть принимаешь то, что я тебе прописал?', 'Tell me, are you at least taking what I prescribed for you?', [(114, 'Скажи, ты хоть принимаешь то, что я тебе прописал?')], 'exact'),
-    ('anya', 'Конечно, три раза в день вместо еды.', 'Of course, three times a day instead of food.', [(115, 'Конечно. Три раза в день вместо еды')], 'exact'),
-    ('anya', 'Ты проведать меня пришел или контролировать?', 'Did you come to check on me or to monitor me?', [(116, 'Ты проведать меня пришел?'), (117, 'контролировать')], 'adapted'),
+    ('doctor', 'Конечно, три раза в день вместо еды.', 'Of course, three times a day instead of food.', [(115, 'Конечно. Три раза в день вместо еды')], 'exact'),
+    ('doctor', 'Ты проведать меня пришел или контролировать?', 'Did you come to check on me or to monitor me?', [(116, 'Ты проведать меня пришел?'), (117, 'контролировать')], 'adapted'),
     ('katya', 'Здравствуйте, разрешите украсть у вас папу?', 'Hello, may I steal my dad from you?', [(119, 'Здравствуйте. Разрешите украсть у вас папу?')], 'exact'),
     ('doctor', 'Конечно, пожалуйста.', 'Of course, go right ahead.', [(120, 'Конечно')], 'adapted'),
 ]
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'As the doctor leaves, Katya decides to teach her paranoid parents a lesson by feeding their Michelin-inspector fantasy. See you in the next scene.'
-CLOSING = ('doctor', 'Принимай таблетки, Витя!')
+OUTRO = 'As the doctor leaves, Katya decides to teach her paranoid parents a lesson by feeding their Michelin-inspector fantasy. Until next time!'
+CLOSING = ("doctor", "Увидимся!")

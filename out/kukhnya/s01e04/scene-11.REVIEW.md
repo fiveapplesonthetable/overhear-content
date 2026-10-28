@@ -1,32 +1,40 @@
-# kukhnya-s01e04-scene-11: review sheet
+# Девчонки любят смелых  (Girls Like a Guy with Guts) — `kukhnya-s01e04-scene-11`
 
-Title: Девчонки любят смелых  (Girls Like a Guy with Guts)
-Level: A1 — Duolingo Section 2
-Pair: ru-en
-Source: Кухня (Kukhnya) S1.04
-Cue 145. Bartender Kostya encourages Max to take the initiative with Vika.
+**Source:** Кухня (Kukhnya) S1.04 · `sources/kukhnya/s01/e04.ru.dual.srt`  
+**Target level:** A1 — Duolingo Section 2
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+## Cast
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+| Role | Voice | Label |
+|---|---|---|
+| `narrator` | sky | — |
+| `kostya` | anja | Костя |
+| `anya` | alisa | Макс |
+
+## Part 1 — Intro
+
+> Near the dining room entrance, novice cook Max hesitates anxiously, uncertain whether to approach glamorous art director Vika. Bartender Kostya notices his hesitation and offers encouraging romantic advice, urging Max to take the initiative with confidence. Let's listen to their conversation in Russian first.
+
+## Part 2 — Story
+
+| # | Speaker | Line | English | Source cue(s) | Change |
 |---|---|---|---|---|---|
-| 1 | Костя | Опять смотришь на неё издалека? | Watching her from afar again? | new | new: observing Max's longing glance |
-| 2 | Макс | Она кажется такой недоступной сегодня. | She seems so unapproachable today. | new | new: feeling intimidated |
-| 3 | Костя | Хватит стоять и просто смотреть. | Stop standing and merely watching. | new | new: prodding him to action |
-| 4 | Макс | А что мне делать, Костя? | And what should I do, Kostya? | new | new: seeking advice |
-| 5 | Костя | Прояви инициативу прямо сейчас! | Take the initiative right now! | #145 00:10:46: Прояви инициативу | adapted: giving direct counsel |
-| 6 | Макс | Думаешь, это хорошая идея? | Do you think that is a good idea? | new | new: doubting himself |
-| 7 | Костя | Девчонки любят смелых парней. | Girls like brave guys. | #145 00:10:46: Девчонки любят смелых | adapted: sharing a romantic maxim |
-| 8 | Макс | А если она прогонит меня? | And what if she sends me away? | new | new: fearing rejection |
-| 9 | Костя | Тогда ты хотя бы попробовал. | Then at least you tried. | new | new: encouraging bravery |
-| 10 | Макс | Ты прав, нельзя вечно бояться. | You are right, one cannot be afraid forever. | new | new: accepting the logic |
-| 11 | Костя | Подойди и уверенно заговори с ней. | Walk over and talk with her confidently. | new | new: coaching the approach |
-| 12 | Макс | Спасибо за совет, я сделаю это! | Thanks for the advice, I will do it! | new | new: resolving to act |
-| 13 | Костя | Удачи, друг, покажи свою смелость. | Good luck, my friend, show your courage. | new | new: wishing him success |
+| 0 | Костя | Опять смотришь на неё издалека? | Watching her from afar again? | *(added)* |  |
+| 1 | Макс | Она кажется такой недоступной сегодня. | She seems so unapproachable today. | *(added)* |  |
+| 2 | Костя | Хватит стоять и просто смотреть. | Stop standing and merely watching. | *(added)* |  |
+| 3 | Макс | А что мне делать, Костя? | And what should I do, Kostya? | *(added)* |  |
+| 4 | Костя | Прояви инициативу прямо сейчас! | Take the initiative right now! | #145 "Прояви инициативу" |  |
+| 5 | Макс | Думаешь, это хорошая идея? | Do you think that is a good idea? | *(added)* |  |
+| 6 | Костя | Девчонки любят смелых парней. | Girls like brave guys. | #145 "Девчонки любят смелых" |  |
+| 7 | Макс | А если она прогонит меня? | And what if she sends me away? | *(added)* |  |
+| 8 | Костя | Тогда ты хотя бы попробовал. | Then at least you tried. | *(added)* |  |
+| 9 | Макс | Ты прав, нельзя вечно бояться. | You are right, one cannot be afraid forever. | *(added)* |  |
+| 10 | Костя | Подойди и уверенно заговори с ней. | Walk over and talk with her confidently. | *(added)* |  |
+| 11 | Макс | Спасибо за совет, я сделаю это! | Thanks for the advice, I will do it! | *(added)* |  |
+| 12 | Костя | Удачи, друг, покажи свою смелость. | Good luck, my friend, show your courage. | *(added)* |  |
 
-## Walk-through narration (English only, no target-language words quoted)
+## Part 5 — Outro & closing
 
-- 'She seems so unapproachable today.' Max confides, admiring Vika from across the dining room.
-- 'Take the initiative right now!' Kostya urges, using the imperative form to motivate his friend.
-- 'Girls love brave guys.' the bartender declares, quoting the popular romantic maxim.
-- 'Thanks for the advice, I'll do it!' Max resolves, gathering up his courage to approach Vika. Now listen to the full hallway conversation once more.
+> Max takes a deep breath and prepares to walk toward Vika. Next time you watch the episode, listen for the Russian expressions for 'to be afraid' and 'forever' — you will catch every word right away. See you next time!
+
+**Макс:** Пока!

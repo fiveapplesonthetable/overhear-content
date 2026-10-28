@@ -1,32 +1,32 @@
-ID = "kukhnya-s02e07-scene-03"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e07-scene-03'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 7
 SCENE = 3
 TITLE = "Больной Родион в куртке Кости  (Sick Rodion in Kostya's Jacket)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'max': 'anja'}
-LABELS = {'anya': 'Костя', 'max': 'Макс'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.07"
-SOURCE_FILE = "sources/kukhnya/s02/e07.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "kostya": "anja", "anya": "alisa"}
+LABELS = {"kostya": "Костя", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.07'
+SOURCE_FILE = 'sources/kukhnya/s02/e07.ru.srt'
 
 INTRO = 'Stepping out into the courtyard for a break, Kostya is outraged to spot Rodion Sergeyevich wearing his favorite jacket and demands he take it off at once. Nastya rushes out to stop Kostya, explaining that she lent Rodion the jacket because the poor man has caught a bad cold out in the freezing air.'
 
 STORY = [
-    ('anya', 'Это моя куртка.', 'That is my jacket.', [(36, 'это моя куртка')], ''),
-    ('max', 'А ну-ка снимай.', 'Take it off right now.', [(36, 'а ну-ка снимай')], ''),
-    ('anya', 'Ну-ка снимай, ворюга!', 'Come on, take it off, you thief!', [(37, 'Ну-ка снимай, ворюга')], ''),
-    ('max', 'Поговори еще, ворюга, снимай давай.', 'Keep talking, thief, take it off right now.', [(39, 'Поговори еще, ворюга, снимай давай')], ''),
-    ('anya', 'Это я дала ему твою куртку.', 'I was the one who gave him your jacket.', [(41, 'Это я дала ему твою куртку')], ''),
-    ('max', 'Костя, прекрати!', 'Kostya, stop it right now!', [(41, 'Костя, прекрати')], ''),
-    ('anya', 'Человек заболел, на улице холодно.', 'The man is sick, and it is freezing outside.', [(42, 'Человек заболел, на улице холодно')], ''),
-    ('max', 'Не такого страшного обычного ОРВИ.', 'Just an ordinary viral cold, nothing too terrible.', [(43, 'Не такого страшного обычного ОРВИ')], ''),
-    ('anya', 'Он еще и больной, что ли, с ним?', 'Wait, so he is sick on top of wearing my coat?', [(43, 'Он еще и больной, что ли, с ним')], ''),
-    ('max', 'Как говорят медики.', 'As the doctors say.', [(44, 'как говорят медики')], ''),
-    ('anya', 'Ну такое лучше приносить теплее.', 'With an illness like that, it is better to stay somewhere warm.', [(45, 'Ну такое лучше приносить теплее')], ''),
-    ('max', 'Значит, может мне тоже по помойкам лазить?', 'So maybe I should go climbing around the dumpsters too?', [(46, 'Значит, может мне тоже по помойкам лазить')], ''),
-    ('anya', 'Ну, Костик.', 'Oh, come on, Kostik.', [(48, 'Ну, Костик')], ''),
+    ('kostya', 'Это моя куртка.', 'That is my jacket.', [(36, 'это моя куртка')], ''),
+    ('anya', 'А ну-ка снимай.', 'Take it off right now.', [(36, 'а ну-ка снимай')], ''),
+    ('kostya', 'Ну-ка снимай, ворюга!', 'Come on, take it off, you thief!', [(37, 'Ну-ка снимай, ворюга')], ''),
+    ('anya', 'Поговори еще, ворюга, снимай давай.', 'Keep talking, thief, take it off right now.', [(39, 'Поговори еще, ворюга, снимай давай')], ''),
+    ('kostya', 'Это я дала ему твою куртку.', 'I was the one who gave him your jacket.', [(41, 'Это я дала ему твою куртку')], ''),
+    ('anya', 'Костя, прекрати!', 'Kostya, stop it right now!', [(41, 'Костя, прекрати')], ''),
+    ('kostya', 'Человек заболел, на улице холодно.', 'The man is sick, and it is freezing outside.', [(42, 'Человек заболел, на улице холодно')], ''),
+    ('anya', 'Не такого страшного обычного ОРВИ.', 'Just an ordinary viral cold, nothing too terrible.', [(43, 'Не такого страшного обычного ОРВИ')], ''),
+    ('kostya', 'Он еще и больной, что ли, с ним?', 'Wait, so he is sick on top of wearing my coat?', [(43, 'Он еще и больной, что ли, с ним')], ''),
+    ('anya', 'Как говорят медики.', 'As the doctors say.', [(44, 'как говорят медики')], ''),
+    ('kostya', 'Ну такое лучше приносить теплее.', 'With an illness like that, it is better to stay somewhere warm.', [(45, 'Ну такое лучше приносить теплее')], ''),
+    ('anya', 'Значит, может мне тоже по помойкам лазить?', 'So maybe I should go climbing around the dumpsters too?', [(46, 'Значит, может мне тоже по помойкам лазить')], ''),
+    ('kostya', 'Ну, Костик.', 'Oh, come on, Kostik.', [(48, 'Ну, Костик')], ''),
 ]
 
 OPENER = "Alright, let's go through it step by step in English."
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's listen to all those lines again from the top."
-
-OUTRO = "When you watch Scene 3 of Episode 7, listen out for the exchange around sick rodion in kostya's jacket — you will recognize every Russian phrase right away. See you in the next scene."
-CLOSING = ('anya', 'Ну, Костик.')
+OUTRO = 'That wraps up this scene as kostya steps into the courtyard and catches Rodion Sergeyevich wearing his jacket, until Nastya explains she gave it to the sick homeless man to keep him warm. Until next time!'
+CLOSING = ("kostya", "До встречи!")

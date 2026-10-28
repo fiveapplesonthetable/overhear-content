@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e12-scene-04'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 12
 SCENE = 4
-TITLE = 'Подарок с подвохом  (A Gift with a Catch)'
+TITLE = "Подарок с подвохом  (A Gift with a Catch)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'kostya': 'anja', 'nastya': 'angelina'}
-LABELS = {'anya': 'Макс', 'kostya': 'Костя', 'nastya': 'Настя'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.12"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "nastya": "angelina", "kostya": "anja", "anya": "alisa"}
+LABELS = {"nastya": "Настя", "kostya": "Костя", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.12'
 SOURCE_FILE = 'sources/kukhnya/s03/e12.ru.srt'
 
 INTRO = "At the bar, Kostya asks Nastya why she took Vika's apartment keys when they are renovating their own flat. Nastya explains that the keys are for Max, who is thrilled until he finds out whose apartment it actually is. Listen to the Russian conversation first, and then we will break it down line by line."
@@ -37,7 +37,7 @@ WALK = [
     (3, None, "'That is right, this apartment is for Max.' The meaning hinges on 'come on' working together with 'Max' in spoken Russian."),
     (4, None, "'He got upset when you told him.' In Russian, the idea of 'he' flows naturally into 'said' without extra filler words."),
     (5, None, "'Listen, I found an interesting apartment.' Notice how Russian expresses 'to listen' and 'to find' with crisp inflection rather than helper words. Nastya answers right away."),
-    (6, None, "'And we already found an apartment for you.' The grammar packs 'and' and 'apartment' into a tight, idiomatic kitchen exchange."),
+    (6, None, "'And we already found an apartment for you.' Here Nastya anchors the thought on 'already' and finishes on 'apartment', keeping the spoken rhythm brisk and natural."),
     (7, None, "'Here are the keys, there is a very nice renovation there.' Here the Russian phrasing highlights 'here' before landing on 'repair'."),
     (8, None, "'And most importantly, it is paid through the end of the year.' Nastya brings out the contrast between 'and' and 'the main thing' in a few short words. Max answers right away."),
     (9, None, "'Oh, awesome, thank you so much!' Max brings out the contrast between 'about' and 'caliber' in a few short words."),
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Max flatly refuses to move into Vika's old apartment while Vika is living with Nagiyev. Moments later, Grandpa Kirill escalates his attack on the restaurant, forcing Nagiyev and Chef Barinov into action."
-CLOSING = ('anya', 'Это же квартира Вики!')
+OUTRO = "Max flatly refuses to move into Vika's old apartment while Vika is living with Nagiyev. Moments later, Grandpa Kirill escalates his attack on the restaurant, forcing Nagiyev and Chef Barinov into action. See you next time!"
+CLOSING = ("anya", "Всего хорошего!")

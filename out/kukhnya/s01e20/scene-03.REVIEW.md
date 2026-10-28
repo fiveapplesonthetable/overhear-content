@@ -1,41 +1,40 @@
-# kukhnya-s01e20-scene-03: review sheet
+# Скрытый смысл  (Hidden Meaning) — `kukhnya-s01e20-scene-03`
 
-Title: Скрытый смысл  (Hidden Meaning)
-Level: A1 — Duolingo Section 2
-Pair: ru-en
-Source: Кухня (Kukhnya) S1.20
-Scene 3
+**Source:** Кухня (Kukhnya) S1.20 · `sources/kukhnya/s01/e20.ru.dual.srt`  
+**Target level:** A1 — Duolingo Section 2
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+## Cast
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+| Role | Voice | Label |
+|---|---|---|
+| `narrator` | sky | — |
+| `anya` | alisa | Макс |
+| `kostya` | anja | Костя |
+
+## Part 1 — Intro
+
+> Kostya tells Max about Nastya's weird staircase metaphor. Max explains the true meaning of her words and then receives a surprising message from Vika. Let's listen closely to the conversation in Russian first, and then walk through each line together.
+
+## Part 2 — Story
+
+| # | Speaker | Line | English | Source cue(s) | Change |
 |---|---|---|---|---|---|
-| 1 | Костя | Настя сказала, что мы идём по лестнице. | Nastya said that we are walking on a staircase. | #79 00:04:40: поднимаемся по какой-то лестнице | adapted: adapted |
-| 2 | Костя | И если мы остановимся, то разобьёмся. | And if we stop, then we will break. | #79 00:04:40: можем разбиться | adapted: adapted |
-| 3 | Костя | Я ничего не понял. | I did not understand anything. | #81 00:04:47: ничего не понял | adapted: adapted |
-| 4 | Макс | А чё ты не понял? | And what did you not understand? | #82 00:04:50: чё ты не понял | adapted: adapted |
-| 5 | Макс | Она тебе на свадьбу намекает. | She is hinting at a wedding to you. | #82 00:04:50: на свадьбу намекает | adapted: adapted |
-| 6 | Костя | Да ладно, ты серьёзно? | Come on, are you serious? | #83 00:04:53: Да ладно | adapted: adapted |
-| 7 | Макс | Сделай вид, что ты ничего не понял. | Pretend that you did not understand anything. | #85 00:04:58: Сделай вид, что ты ничего не понял | adapted: adapted |
-| 8 | Костя | Так я и так ничего не понял. | But I already did not understand anything. | #87 00:05:04: Так я и так ничего не понял | adapted: adapted |
-| 9 | Макс | Ну вот, тебе даже врать не придётся. | Well there, you will not even have to lie. | #88 00:05:06: даже врать не придётся | adapted: adapted |
-| 10 | Костя | Чего там? Что она прислала? | What is there? What did she send? | #93 00:05:20: Чего там | adapted: adapted |
-| 11 | Макс | Она прислала мне фото красивого кольца. | She sent me a photo of a beautiful ring. | #96 00:05:28: Красивое кольцо | adapted: adapted |
-| 12 | Макс | Она мне на дорогой подарок намекает. | She is hinting at an expensive gift to me. | #95 00:05:23: на подарок намекает | adapted: adapted |
-| 13 | Макс | Мне на него год работать надо. | I need to work a year for it. | #97 00:05:30: Мне на него год работать надо | adapted: adapted |
+| 0 | Костя | Настя сказала, что мы идём по лестнице. | Nastya said that we are walking on a staircase. | #79 "поднимаемся по какой-то лестнице" |  |
+| 1 | Костя | И если мы остановимся, то разобьёмся. | And if we stop, then we will break. | #79 "можем разбиться" |  |
+| 2 | Костя | Я ничего не понял. | I did not understand anything. | #81 "ничего не понял" |  |
+| 3 | Макс | А чё ты не понял? | And what did you not understand? | #82 "чё ты не понял" |  |
+| 4 | Макс | Она тебе на свадьбу намекает. | She is hinting at a wedding to you. | #82 "на свадьбу намекает" |  |
+| 5 | Костя | Да ладно, ты серьёзно? | Come on, are you serious? | #83 "Да ладно" |  |
+| 6 | Макс | Сделай вид, что ты ничего не понял. | Pretend that you did not understand anything. | #85 "Сделай вид, что ты ничего не понял" |  |
+| 7 | Костя | Так я и так ничего не понял. | But I already did not understand anything. | #87 "Так я и так ничего не понял" |  |
+| 8 | Макс | Ну вот, тебе даже врать не придётся. | Well there, you will not even have to lie. | #88 "даже врать не придётся" |  |
+| 9 | Костя | Чего там? Что она прислала? | What is there? What did she send? | #93 "Чего там" |  |
+| 10 | Макс | Она прислала мне фото красивого кольца. | She sent me a photo of a beautiful ring. | #96 "Красивое кольцо" |  |
+| 11 | Макс | Она мне на дорогой подарок намекает. | She is hinting at an expensive gift to me. | #95 "на подарок намекает" |  |
+| 12 | Макс | Мне на него год работать надо. | I need to work a year for it. | #97 "Мне на него год работать надо" |  |
 
-## Walk-through narration (English only, no target-language words quoted)
+## Part 5 — Outro & closing
 
-- 'Nastya said that we are walking on a staircase.' Kostya uses the perfective verb meaning 'told' to focus on the single completed result, pairing it with 'are going' and 'stairs'.
-- 'And if we stop, then we will break.' Kostya uses the perfective verb meaning 'to stop' to focus on the single completed result, pairing it with 'to crash'.
-- 'I did not understand anything.' Kostya delivers a punchy one-word reaction built around the Russian word meaning 'understood?'.
-- 'And what did you not understand?' Max turns a statement into a question purely through rising intonation on the word meaning 'understood?' to make the point directly in conversation.
-- 'She is hinting at a wedding to you.' Max puts the word for 'wedding' together with 'to hint' in a crisp, natural spoken turn of phrase.
-- 'Come on, are you serious?' Kostya turns a statement into a question purely through rising intonation on the word meaning 'seriously' to make the point directly in conversation.
-- 'Pretend that you did not understand anything.' The verb for 'understood?' is in the masculine past tense, marked by the '-l' ending.
-- 'But I already did not understand anything.' Kostya delivers a punchy one-word reaction built around the Russian word meaning 'understood?'.
-- 'Well there, you will not even have to lie.' Max chooses the imperfective verb meaning 'to lie' for the ongoing action, followed by 'it will be necessary'.
-- 'What is there? What did she send?' The '-a' ending on the past-tense verb for 'to send' shows that the subject is feminine.
-- 'She sent me a photo of a beautiful ring.' Max uses the perfective verb meaning 'to send' to focus on the single completed result, pairing it with 'photo' and 'beautiful'.
-- 'She is hinting at an expensive gift to me.' Max expresses this naturally by combining the word for 'dear' with 'gift' and 'to hint'.
-- 'I need to work a year for it.' Max puts the word for 'year' together with 'to work' and 'it is necessary' in a crisp, natural spoken turn of phrase.
+> Max realizes Vika expects an extremely expensive gift, leaving him stressed about his financial situation. Next time you watch the episode, listen for the Russian expressions for 'to say' and 'to go' — you will catch every word right away. See you next time!
+
+**Макс:** Пока!

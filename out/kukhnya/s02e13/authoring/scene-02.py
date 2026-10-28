@@ -1,15 +1,15 @@
-ID = "kukhnya-s02e13-scene-02"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e13-scene-02'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 13
 SCENE = 2
-TITLE = 'Заказ для вегетарианца  (An Order for the Vegetarian)'
+TITLE = "Заказ для вегетарианца  (An Order for the Vegetarian)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja'}
-LABELS = {'anya': 'Макс', 'vika': 'Вика'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.13"
-SOURCE_FILE = "sources/kukhnya/s02/e13.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "vika": "angelina"}
+LABELS = {"anya": "Макс", "vika": "Вика"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.13'
+SOURCE_FILE = 'sources/kukhnya/s02/e13.ru.srt'
 
 INTRO = 'Waitress Nastya comes into the kitchen asking Lyova to prepare a special meatless dish for the vegetarian guest in the dining room. When Lyova flatly refuses to waste time on it, Nastya sweetly convinces Max to cook vegetarian rolls for her table.'
 
@@ -19,7 +19,7 @@ STORY = [
     ('anya', 'Из говяжьего паштета.', 'Made with beef pate.', [(18, 'из говяжьего паштета')], ''),
     ('vika', 'Но без говяжьего паштета.', 'Only without the beef pate.', [(19, 'но без говяжьего паштета')], ''),
     ('anya', 'А, ну, отнеси ему, пусть ест.', 'Oh, well, take it out to him and let him eat.', [(19, 'А, ну, отнеси ему, пусть ест')], ''),
-    ('vika', 'Потому что я такой фигней заниматься не буду.', 'Because I am not going to bother with that nonsense.', [(20, 'потому что я такой фигней заниматься не буду')], ''),
+    ('vika', 'Потому что я такой ерундой заниматься не буду.', 'Because I am not going to bother with such nonsense.', [(20, 'потому что я такой'), (20, 'заниматься не буду')], 'adapted'),
     ('anya', 'Или, может, ты можешь котлеты сделать из огурцов?', 'Or maybe you can make cutlets out of cucumbers?', [(21, 'Или, может, ты можешь котлеты сделать из огурцов')], ''),
     ('vika', 'Максим, приготовишь рулетики?', 'Maksim, will you make the rolls?', [(22, 'Максим, приготовишь рулетики')], ''),
     ('anya', 'Ну, пожалуйста.', 'Oh, please.', [(23, 'Ну, пожалуйста')], ''),
@@ -37,7 +37,7 @@ WALK = [
     (2, None, "'Made with beef pate.' Max anchors the line on 'out of', while 'pâté' completes the thought."),
     (3, None, "'Only without the beef pate.' In Russian, the idea of 'but' flows naturally into 'pâté' without extra filler words. Max answers right away."),
     (4, None, "'Oh, well, take it out to him and let him eat.' Here the Russian phrasing highlights 'and' before landing on 'eats'."),
-    (5, None, "'Because I am not going to bother with that nonsense.' In Russian, the idea of 'because' flows naturally into 'will' without extra filler words."),
+    (5, None, "'Because I am not going to bother with such nonsense.' In everyday Russian, 'because' flows straight into 'will be' without extra linking words."),
     (6, None, "'Or maybe you can make cutlets out of cucumbers?' Here the Russian phrasing highlights 'or' before landing on 'cucumber'. Vika answers right away."),
     (7, None, "'Maksim, will you make the rolls?' The grammar packs 'Maxim' and 'little roll' into a tight, idiomatic kitchen exchange."),
     (8, None, "'Oh, please.' The meaning hinges on 'come on' working together with 'there you go' in spoken Russian."),
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Now let's put it all back together and hear the whole scene again."
-
-OUTRO = 'When you watch Scene 2 of Episode 13, listen out for the exchange around an order for the vegetarian — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('anya', 'Ладно, я пошутил.')
+OUTRO = 'That wraps up this scene as nastya asks Lyova to prepare a meatless dish for her vegetarian guest, and when Lyova refuses, she persuades Max to make vegetable rolls instead. See you next time!'
+CLOSING = ("anya", "До свидания!")

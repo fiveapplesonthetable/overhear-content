@@ -1,15 +1,15 @@
-ID = "kukhnya-s02e05-scene-12"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e05-scene-12'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 5
 SCENE = 12
-TITLE = 'Макс съедает отравленное блюдо  (Max Eats the Spiked Dish)'
+TITLE = "Макс съедает отравленное блюдо  (Max Eats the Spiked Dish)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja', 'lyova': 'angelina'}
-LABELS = {'anya': 'Макс', 'chef': 'Шеф', 'lyova': 'Лёва'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.05"
-SOURCE_FILE = "sources/kukhnya/s02/e05.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "chef": "anja", "lyova": "angelina"}
+LABELS = {"anya": "Макс", "chef": "Шеф", "lyova": "Лёва"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.05'
+SOURCE_FILE = 'sources/kukhnya/s02/e05.ru.srt'
 
 INTRO = "When the spiked complimentary dish is returned from the dining room untouched, an unsuspecting Max grabs the plate in the kitchen and eats the entire portion himself. Moments later, while Barinov waits eagerly for the goalkeeper's stomach to cramp up, Max doubles over on the kitchen floor screaming for an ambulance."
 
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Let's hear the complete conversation once more."
-
-OUTRO = 'When you watch Scene 12 of Episode 5, listen out for the exchange around max eats the spiked dish — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('anya', 'Скорую вызовите кто-нибудь!')
+OUTRO = 'That wraps up this scene as malafeev politely declines the sour-tasting complimentary dish, and a hungry Max unknowingly devours it in the kitchen and collapses with severe stomach cramps. See you next time!'
+CLOSING = ("anya", "Увидимся!")

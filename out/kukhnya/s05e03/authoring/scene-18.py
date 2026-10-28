@@ -1,14 +1,14 @@
 ID = 'kukhnya-s05e03-scene-18'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 3
 SCENE = 18
-TITLE = 'Полоз совсем не ядовитый  (The Rat Snake Is Not Venomous at All)'
+TITLE = "Полоз совсем не ядовитый  (The Rat Snake Is Not Venomous at All)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'nagiyev': 'anja', 'fedya': 'angelina'}
-LABELS = {'anya': 'Шеф', 'nagiyev': 'Нагиев', 'fedya': 'Федя'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.03"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "fedya": "anja", "nagiyev": "angelina"}
+LABELS = {"fedya": "Федя", "nagiyev": "Нагиев"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.03'
 SOURCE_FILE = 'sources/kukhnya/s05/e03.ru.srt'
 
 INTRO = "Right after Fedya finishes extracting the 'venom' to earn his hundred thousand rubles, Chef Barinov walks in and casually informs everyone that a Far Eastern rat snake is not venomous at all. Listen to the punchline."
@@ -20,10 +20,10 @@ STORY = [
     ('fedya', 'Ты только зубами не бойся.', 'Just do not be afraid of my teeth.', [(312, 'Не бойся зубами')], 'adapted'),
     ('fedya', 'Тебе сейчас не больно, нет?', 'Does it hurt right now, or not?', [(314, 'Не больно, нет?')], 'verbatim'),
     ('nagiyev', 'Да нет, нормально, всё хорошо.', 'No, it is fine, everything is good.', [(314, 'Да, нет, нормально, хорошо, да')], 'adapted'),
-    ('anya', 'Вообще-то полоз — не ядовитая змея.', 'Actually, a rat snake is a non-venomous snake.', [(315, 'не ядовитый, змея')], 'adapted'),
-    ('anya', 'Наш полоз не ядовитый вообще.', 'Our rat snake is not venomous at all.', [(316, 'не ядовитый вообще')], 'adapted'),
+    ('fedya', 'Вообще-то полоз — не ядовитая змея.', 'Actually, a rat snake is a non-venomous snake.', [(315, 'не ядовитый, змея')], 'adapted'),
+    ('fedya', 'Наш полоз не ядовитый вообще.', 'Our rat snake is not venomous at all.', [(316, 'не ядовитый вообще')], 'adapted'),
     ('nagiyev', 'Ну, конечно, он не ядовитый.', 'Well, of course it is not venomous.', [(317, 'Ну, конечно, не ядовитый')], 'verbatim'),
-    ('anya', 'Полоз ведь совсем не ядовитый.', 'After all, a rat snake is not venomous at all.', [(319, 'Полоз-то не ядовитый')], 'adapted'),
+    ('fedya', 'Полоз ведь совсем не ядовитый.', 'After all, a rat snake is not venomous at all.', [(319, 'Полоз-то не ядовитый')], 'adapted'),
     ('nagiyev', 'Значит, пятьдесят тысяч за полоза.', 'Then fifty thousand for a rat snake.', [(321, 'Пятьдесят тысяч за полоза')], 'verbatim'),
     ('fedya', 'Ладно, это вполне справедливо.', 'Fine, that is quite fair.', [(322, 'Справедливо')], 'adapted'),
 ]
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'And that delivers one of the funniest punchlines of the season as Nagiyev negotiates the fee down to fifty thousand. See you in the next scene.'
-CLOSING = ('fedya', 'Пятьдесят тысяч — тоже отличные деньги!')
+OUTRO = 'And that delivers one of the funniest punchlines of the season as Nagiyev negotiates the fee down to fifty thousand. See you next time!'
+CLOSING = ("fedya", "Хорошего дня!")

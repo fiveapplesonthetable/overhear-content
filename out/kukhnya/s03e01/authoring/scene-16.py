@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e01-scene-16'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 1
 SCENE = 16
-TITLE = 'Бокал шампанского  (A Glass of Champagne)'
+TITLE = "Бокал шампанского  (A Glass of Champagne)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'guest': 'anja'}
-LABELS = {'anya': 'Макс', 'guest': 'Гость'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.01"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "guest": "anja", "anya": "alisa"}
+LABELS = {"guest": "Гость", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.01'
 SOURCE_FILE = 'sources/kukhnya/s03/e01.ru.srt'
 
 INTRO = "Delighted with his molecular lunch, Nastya's father prepares to sign the contract with his business partners and asks Max to pop a bottle of champagne right at the table."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "That brings Scene Sixteen to an end. Watch how Max's struggle with the champagne cork saves Nastya's father from signing the crooked contract."
-CLOSING = ('anya', 'Ваш ужин за наш счёт!')
+OUTRO = "That brings Scene Sixteen to an end. Watch how Max's struggle with the champagne cork saves Nastya's father from signing the crooked contract. See you next time!"
+CLOSING = ("anya", "Увидимся!")

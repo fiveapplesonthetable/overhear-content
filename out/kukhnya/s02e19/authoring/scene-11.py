@@ -1,15 +1,15 @@
-ID = "kukhnya-s02e19-scene-11"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e19-scene-11'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 19
 SCENE = 11
-TITLE = 'Нагиев присоединяется к ужину  (Nagiyev Joins the Late Dinner)'
+TITLE = "Нагиев присоединяется к ужину  (Nagiyev Joins the Late Dinner)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'kostya': 'anja'}
-LABELS = {'anya': 'Макс', 'kostya': 'Костя'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.19"
-SOURCE_FILE = "sources/kukhnya/s02/e19.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "kostya": "anja"}
+LABELS = {"anya": "Макс", "kostya": "Костя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.19'
+SOURCE_FILE = 'sources/kukhnya/s02/e19.ru.srt'
 
 INTRO = 'Just as Chef Barinov is about to lose his temper at Vika and her waitresses for tricking the kitchen into cooking their staff dinner, Nagiyev strolls into the dining room. Forced to smile and play along, Viktor Petrovich watches helplessly as Nagiyev sits down and orders another salad.'
 
@@ -36,7 +36,7 @@ WALK = [
     (1, None, "'Where did I just walk in, a zoo?' Kostya anchors the line on 'where', while 'came' completes the thought."),
     (2, None, "'And what are we all munching on here, huh?' Max brings out the contrast between 'and' and 'what' in a few short words."),
     (3, None, "'Not on my tab, I hope, huh?' The grammar packs 'hope so' and 'and' into a tight, idiomatic kitchen exchange. Max answers right away."),
-    (4, None, "'No, no, of course not.' In Russian, the idea of 'there is no' flows naturally into 'you' without extra filler words."),
+    (4, None, "'No, no, of course not.' In spoken Russian, a compact phrase like this carries the full meaning through tone and context."),
     (5, None, "'Alright, go ahead and set a place for me over there too.' Kostya anchors the line on 'really?!', while 'to cover' completes the thought."),
     (6, None, "'I would gladly eat something myself.' Spoken Russian keeps this brisk, leaning on 'I' and finishing on 'would'. Kostya answers right away."),
     (7, None, "'Yes, right away.' Here the Russian phrasing highlights 'yes' before landing on 'yes'."),
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the whole conversation once more from start to finish."
-
-OUTRO = 'When you watch Scene 11 of Episode 19, listen out for the exchange around nagiyev joins the late dinner — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('anya', 'Будет вам салат.')
+OUTRO = 'That wraps up this scene as before Chef Barinov can explode at Vika and the waitresses, Nagiyev walks in and asks to join their late meal, ordering one more salad from the kitchen. Until next time!'
+CLOSING = ("anya", "До завтра!")

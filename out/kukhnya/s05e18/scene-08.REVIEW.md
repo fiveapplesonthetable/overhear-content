@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | У тебя нет знакомого, который на гитаре играет? | Do you have a friend who plays the guitar? | #130 00:09:13: а у тебя нет знакомого, который классно на гитаре играет | adapted: adapted |
-| 2 | Аня | А принципиально именно на гитаре? | And does it have to be specifically on the guitar? | #132 00:09:21: А принципиально на гитаре | adapted: adapted |
-| 3 | Аня | Да, мне именно гитарист сегодня нужен. | Yes, I specifically need a guitarist today. | #134 00:09:28: мне именно гитарист нужен | adapted: adapted |
-| 4 | Аня | Я договорился, в зале никого не будет. | I arranged it, nobody will be in the dining room. | #136 00:09:33: я договорился, там никого не будет | adapted: adapted |
-| 5 | Аня | Ты сидишь в уголочке и тихо играешь. | You sit in the corner and play softly. | #137 00:09:37: сидишь на гитарке, играешь что-нибудь легенькое | adapted: adapted |
-| 6 | Денис | Конечно, я с радостью сыграю. | Of course, I will gladly play. | #139 00:09:42: Конечно | adapted: adapted |
-| 7 | Денис | Мне бы сейчас получить деньги вперёд. | I would like to get the money up front right now. | #141 00:09:45: Мне бы сейчас денег вперед | adapted: adapted |
-| 8 | Денис | Мне сегодня за квартиру платить надо. | I have to pay rent for the apartment today. | #141 00:09:45: сегодня за квартиру платить надо | adapted: adapted |
-| 9 | Аня | Без проблем, давай доедем до отеля. | No problem, let's ride over to the hotel. | #142 00:09:49: Да без проблем<br>#143 00:09:53: Давай доедем тут недалеко | adapted: adapted |
-| 10 | Шеф | Огузок, давай работать очень быстро. | Oguzok, let's work very fast. | #146 00:10:06: давай быстро | adapted: adapted |
-| 11 | Шеф | Я вешаю полки, а ты собираешь кроватку. | I hang the shelves, and you assemble the crib. | #147 00:10:09: Я полки, ты кроватку | adapted: adapted |
-| 12 | Шеф | Только будь аккуратней с инструментом. | Just be more careful with the tools. | #148 00:10:11: Только аккуратней | adapted: adapted |
+| 1 | Никита | У тебя нет знакомого, который на гитаре играет? | Do you have a friend who plays the guitar? | #130 00:09:13: а у тебя нет знакомого, который классно на гитаре играет | adapted: adapted |
+| 2 | Никита | А принципиально именно на гитаре? | And does it have to be specifically on the guitar? | #132 00:09:21: А принципиально на гитаре | adapted: adapted |
+| 3 | Никита | Да, мне именно гитарист сегодня нужен. | Yes, I specifically need a guitarist today. | #134 00:09:28: мне именно гитарист нужен | adapted: adapted |
+| 4 | Никита | Я договорился, в зале никого не будет. | I arranged it, nobody will be in the dining room. | #136 00:09:33: я договорился, там никого не будет | adapted: adapted |
+| 5 | Никита | Ты сидишь в уголочке и тихо играешь. | You sit in the corner and play softly. | #137 00:09:37: сидишь на гитарке, играешь что-нибудь легенькое | adapted: adapted |
+| 6 | Никита | Конечно, я с радостью сыграю. | Of course, I will gladly play. | #139 00:09:42: Конечно | adapted: adapted |
+| 7 | Никита | Мне бы сейчас получить деньги вперёд. | I would like to get the money up front right now. | #141 00:09:45: Мне бы сейчас денег вперед | adapted: adapted |
+| 8 | Никита | Мне сегодня за квартиру платить надо. | I have to pay rent for the apartment today. | #141 00:09:45: сегодня за квартиру платить надо | adapted: adapted |
+| 9 | Никита | Без проблем, давай доедем до отеля. | No problem, let's ride over to the hotel. | #142 00:09:49: Да без проблем<br>#143 00:09:53: Давай доедем тут недалеко | adapted: adapted |
+| 10 | Никита | Огузок, давай работать очень быстро. | Oguzok, let's work very fast. | #146 00:10:06: давай быстро | adapted: adapted |
+| 11 | Никита | Я вешаю полки, а ты собираешь кроватку. | I hang the shelves, and you assemble the crib. | #147 00:10:09: Я полки, ты кроватку | adapted: adapted |
+| 12 | Никита | Только будь аккуратней с инструментом. | Just be more careful with the tools. | #148 00:10:11: Только аккуратней | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

@@ -16,19 +16,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 4 | Аня | Дети не могут так быстро меняться. | Children cannot change that fast. | #219 00:16:21: Дети имеют | adapted: adapted for A1 clarity |
 | 5 | Аня | Снимите маску и посмотрите. | Take off the mask and take a look. | #218 00:16:18: Ну-ка | adapted: adapted for A1 clarity |
 | 6 | Аня | Где же тогда мой внук? | Where is my grandson then? | #224 00:16:32: Где мой внук | adapted: adapted for A1 clarity |
-| 7 | Шеф | Подняли сейф, осторожно! | We lifted the safe, careful! | #226 00:17:02: Подняли, подняли. Осторожно | adapted: adapted for A1 clarity |
+| 7 | Федя | Подняли сейф, осторожно! | We lifted the safe, careful! | #226 00:17:02: Подняли, подняли. Осторожно | adapted: adapted for A1 clarity |
 | 8 | Федя | Справа аккуратно обходим стол. | We go around the table carefully on the right. | #227 00:17:03: Справа аккуратно обходим | adapted: adapted for A1 clarity |
 | 9 | Федя | Шеф, помогли бы нам лучше! | Chef, you could help us instead! | #228 00:17:05: Помог бы лучше | adapted: adapted for A1 clarity |
-| 10 | Шеф | Вообще-то я этим и занимаюсь. | Actually, that is exactly what I am doing. | #229 00:17:07: Вообще-то этим и занимаюсь | adapted: adapted for A1 clarity |
+| 10 | Федя | Вообще-то я этим и занимаюсь. | Actually, that is exactly what I am doing. | #229 00:17:07: Вообще-то этим и занимаюсь | adapted: adapted for A1 clarity |
 | 11 | Федя | Давай сюда, тяни на себя. | Bring it this way, pull toward yourself. | #232 00:17:13: Давай сюда, на себя | adapted: adapted for A1 clarity |
 | 12 | Федя | Всё, нам конец! | That is it, we are done for! | #233 00:17:19: Всё | adapted: adapted for A1 clarity |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, here is your Stepan.' Max presents the real grandson using the demonstrative particle 'here is'.
+- 'Well, here is your Stepan.' Spoken Russian keeps this brief and expressive, built right around 'Stepan' without extra helper words.
 - 'Let's make a swap.' The noun for 'exchange' or 'swap' is the direct object of 'let's make'.
 - 'This is a completely different boy.' The adverb 'completely' intensifies the adjective 'other/different'.
-- 'Children cannot change that fast.' The reflexive infinitive means 'to change' in appearance or character.
+- 'Children cannot change that fast.' Putting the short word for 'not' right in front of the action word is all Russian needs to make a sentence negative, with no extra helper words like 'do' or 'did'.
 - 'Take off the mask and take a look.' Polite plural imperatives urge the skeptical grandfather to check the boy's face.
 - 'Where is my grandson then?' Once the mask comes off, the grandfather demands to know where his real grandson is.
 - 'We lifted the safe, careful!' The adverb 'carefully' serves as a quick warning cry while carrying something heavy.

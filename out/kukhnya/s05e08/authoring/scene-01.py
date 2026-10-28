@@ -1,14 +1,14 @@
 ID = 'kukhnya-s05e08-scene-01'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 8
 SCENE = 1
-TITLE = 'Очень состоятельный гость  (A Very Wealthy Guest)'
+TITLE = "Очень состоятельный гость  (A Very Wealthy Guest)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'mikhail': 'anja'}
-LABELS = {'anya': 'Макс', 'mikhail': 'Михаил'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.08"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "mikhail": "anja"}
+LABELS = {"anya": "Макс", "mikhail": "Михаил"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.08'
 SOURCE_FILE = 'sources/kukhnya/s05/e08.ru.srt'
 
 INTRO = 'Welcome to episode eight of Kukhnya season five. Boutique Hotel Eleon caters to affluent travelers, but today an extraordinarily wealthy Arab sheikh has rented out the entire hotel—and rumors about him arrive before he even steps inside.'
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'As the sheikh and his wives settle into the hotel, the kitchen and dining room staff trade wild stories about his last visit to Moscow. See you in the next scene.'
-CLOSING = ('anya', 'Начинается весёлая смена.')
+OUTRO = 'As the sheikh and his wives settle into the hotel, the kitchen and dining room staff trade wild stories about his last visit to Moscow. Until next time!'
+CLOSING = ("anya", "До встречи!")

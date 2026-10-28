@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Остановились в захаусле деревушки. | We stopped in a rundown little village. | #88 00:05:59: Остановились в захаусле деревушки | verbatim |
+| 1 | Костя | Остановились в захаусле деревушки. | We stopped in a rundown little village. | #88 00:05:59: Остановились в захаусле деревушки | verbatim |
 | 2 | Настя | Есть хотелось так. | We were starving. | #89 00:06:01: Есть хотелось так | verbatim |
-| 3 | Аня | И тут я случайно нашел банку тунца. | And then by chance I found a can of tuna. | #90 00:06:04: И тут я случайно нашел банку тунца | verbatim |
+| 3 | Костя | И тут я случайно нашел банку тунца. | And then by chance I found a can of tuna. | #90 00:06:04: И тут я случайно нашел банку тунца | verbatim |
 | 4 | Настя | Так, решил сделать деревенский салат. | So I decided to make a rustic village salad. | #91 00:06:07: Так, решил сделать деревенский салат | verbatim |
-| 5 | Аня | Берем лис салата. | We take a lettuce leaf. | #92 00:06:10: берем лис салата | verbatim |
+| 5 | Костя | Берем лис салата. | We take a lettuce leaf. | #92 00:06:10: берем лис салата | verbatim |
 | 6 | Настя | Грубо рвем просто вот так. | We tear it roughly just like this. | #92 00:06:10: грубо рвем просто вот так | verbatim |
-| 7 | Аня | Значит так. | Here is how it goes. | #92 00:06:10: Значит так | verbatim |
+| 7 | Костя | Значит так. | Here is how it goes. | #92 00:06:10: Значит так | verbatim |
 | 8 | Настя | Затем добавляем перепелиных яиц. | Next we add some quail eggs. | #93 00:06:14: Затем добавляем перепелиных яиц | verbatim |
-| 9 | Аня | Немножко тунца. | A little bit of tuna. | #95 00:06:21: немножко тунца | verbatim |
+| 9 | Костя | Немножко тунца. | A little bit of tuna. | #95 00:06:21: немножко тунца | verbatim |
 | 10 | Настя | Немножко оливок. | A few olives. | #96 00:06:24: немножко оливок | verbatim |
-| 11 | Аня | Как без картофеля. | How could we do without potatoes. | #97 00:06:27: как без картофеля | verbatim |
+| 11 | Костя | Как без картофеля. | How could we do without potatoes. | #97 00:06:27: как без картофеля | verbatim |
 | 12 | Настя | Поперчим все это дело. | We pepper the whole thing. | #98 00:06:32: Поперчим все это дело | verbatim |
-| 13 | Аня | И затем все это аккуратненько мешаем. | And then we gently toss it all together. | #100 00:06:37: И затем все это аккуратненько мешаем | verbatim |
+| 13 | Костя | И затем все это аккуратненько мешаем. | And then we gently toss it all together. | #100 00:06:37: И затем все это аккуратненько мешаем | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

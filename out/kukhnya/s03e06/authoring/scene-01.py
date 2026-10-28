@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e06-scene-01'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 6
 SCENE = 1
-TITLE = 'Пустота в душе  (Emptiness in the Soul)'
+TITLE = "Пустота в душе  (Emptiness in the Soul)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja'}
-LABELS = {'anya': 'Макс', 'vika': 'Вика'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.06"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "vika": "angelina"}
+LABELS = {"anya": "Макс", "vika": "Вика"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.06'
 SOURCE_FILE = 'sources/kukhnya/s03/e06.ru.srt'
 
 INTRO = 'At the start of Season 3 Episode 6, Max tries to get over his breakup with Vika by bringing women home from clubs, but he keeps seeing Vika everywhere. Listen to the full conversation in Russian first, and then we will walk through every line together.'
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Max's outburst scares off his guest, who thinks he is yelling at her. Next we head to the restaurant, where Kristina has returned."
-CLOSING = ('vika', 'Я, пожалуй, пойду.')
+OUTRO = "Max's outburst scares off his guest, who thinks he is yelling at her. Next we head to the restaurant, where Kristina has returned. Until next time!"
+CLOSING = ("vika", "До завтра!")

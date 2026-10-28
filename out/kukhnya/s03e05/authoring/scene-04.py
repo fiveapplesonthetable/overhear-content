@@ -1,30 +1,30 @@
 ID = 'kukhnya-s03e05-scene-04'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 5
 SCENE = 4
 TITLE = "Секретный карман Сени  (Senya's Secret Pocket)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'fedya': 'anja'}
-LABELS = {'anya': 'Сеня', 'fedya': 'Федя'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.05"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "senya": "angelina", "fedya": "anja"}
+LABELS = {"senya": "Сеня", "fedya": "Федя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.05'
 SOURCE_FILE = 'sources/kukhnya/s03/e05.ru.srt'
 
 INTRO = "After Lyova finds nothing in Senya's pockets and walks away, Fedya demands to know where the meat went. Senya proudly reveals his secret contraptions. Listen to the full conversation in Russian first, and then we will walk through every line together."
 
 STORY = [
-    ('anya', 'Может, ещё и штаны снять?', 'Maybe I should take off my pants too?', [(54, 'может штаны снять')], 'adapted'),
+    ('senya', 'Может, ещё и штаны снять?', 'Maybe I should take off my pants too?', [(54, 'может штаны снять')], 'adapted'),
     ('fedya', 'Ладно, спокойно работайте.', 'Alright, work calmly.', [(55, 'Работайте')], 'adapted'),
     ('fedya', 'Ты куда мясо дел?', 'Where did you put the meat?', [(56, 'куда мясо дел')], 'adapted'),
-    ('anya', 'Мясо лежит вот здесь.', 'The meat is right here.', [(57, 'Мясо вот здесь вот')], 'adapted'),
-    ('anya', 'Я сделал сплошной карман.', 'I made a through pocket.', [(58, 'Я сделал сплошной карман')], 'adapted'),
-    ('anya', 'И оно падает прямо вниз.', 'And it falls straight down.', [(59, 'и оно падает прямо вниз')], 'adapted'),
+    ('senya', 'Мясо лежит вот здесь.', 'The meat is right here.', [(57, 'Мясо вот здесь вот')], 'adapted'),
+    ('senya', 'Я сделал сплошной карман.', 'I made a through pocket.', [(58, 'Я сделал сплошной карман')], 'adapted'),
+    ('senya', 'И оно падает прямо вниз.', 'And it falls straight down.', [(59, 'и оно падает прямо вниз')], 'adapted'),
     ('fedya', 'Да уж, просто невероятно!', 'Yes indeed, simply unbelievable!', [(60, 'Да ты погоди')], 'adapted'),
-    ('anya', 'Ты ещё моё устройство не видел.', 'You have not seen my device yet.', [(61, 'Ты еще мое устройство')], 'adapted'),
-    ('anya', 'Это устройство для масла.', 'This is a device for oil.', [(61, 'по сливу масла')], 'adapted'),
+    ('senya', 'Ты ещё моё устройство не видел.', 'You have not seen my device yet.', [(61, 'Ты еще мое устройство')], 'adapted'),
+    ('senya', 'Это устройство для масла.', 'This is a device for oil.', [(61, 'по сливу масла')], 'adapted'),
     ('fedya', 'Ты что, бутылку к ноге привязал?', 'Did you tie a bottle to your leg?', [(62, 'Ты что, бутылку к ноге привязал')], 'adapted'),
-    ('anya', 'Слушай, это незаменимая вещь.', 'Listen, this is an indispensable thing.', [(64, 'Слушай, незаменимая вещь')], 'adapted'),
+    ('senya', 'Слушай, это незаменимая вещь.', 'Listen, this is an indispensable thing.', [(64, 'Слушай, незаменимая вещь')], 'adapted'),
     ('fedya', 'Да, так что ты не перепутай.', 'Yes, so do not mix it up.', [(66, 'Да, так что ты не перепутай')], 'adapted'),
 ]
 
@@ -40,11 +40,11 @@ WALK = [
     (6, None, "'Yes indeed, simply unbelievable!' Notice how Russian expresses 'yes' and 'incredibly' with crisp inflection rather than helper words."),
     (7, None, "'You have not seen my device yet.' Senya anchors the line on 'you', while 'saw' completes the thought."),
     (8, None, "'This is a device for oil.' Senya brings out the contrast between 'this' and 'device' in a few short words. Fedya answers right away."),
-    (9, None, "'Did you tie a bottle to your leg?' In Russian, the idea of 'you' flows naturally into 'tied' without extra filler words."),
+    (9, None, "'Did you tie a bottle to your leg?' Notice how Russian puts 'bottle' and 'tied' together in a short, direct phrase where word endings show how the ideas connect."),
     (10, None, "'Listen, this is an indispensable thing.' The grammar packs 'listen' and 'thing' into a tight, idiomatic kitchen exchange."),
     (11, None, "'Yes, so do not mix it up.' Fedya anchors the line on 'yes', while 'mix up' completes the thought."),
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Senya's elaborate smuggling gear amuses Fedya, though it is bound to backfire before the shift ends."
-CLOSING = ('anya', 'Это очень смешно.')
+OUTRO = "Senya's elaborate smuggling gear amuses Fedya, though it is bound to backfire before the shift ends. See you next time!"
+CLOSING = ("senya", "Всего хорошего!")

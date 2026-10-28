@@ -1,30 +1,30 @@
 ID = 'kukhnya-s05e13-scene-08'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 13
 SCENE = 8
-TITLE = 'Тост за Шефа и Лёву  (A Toast to the Chef and Lyova)'
+TITLE = "Тост за Шефа и Лёву  (A Toast to the Chef and Lyova)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'gulya': 'anja', 'chef': 'angelina'}
-LABELS = {'anya': 'Лёва', 'gulya': 'Гуля', 'chef': 'Шеф'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.13"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "lyova": "angelina", "chef": "anja"}
+LABELS = {"lyova": "Лёва", "chef": "Шеф"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.13'
 SOURCE_FILE = 'sources/kukhnya/s05/e13.ru.srt'
 
 INTRO = "In the finale of Lyova's daydream, Gulya is moved by his extreme devotion, and back in reality Lyova blushes happily and proposes a toast to Chef Barinov's upcoming wedding."
 
 STORY = [
-    ('gulya', 'Лёва, что же ты тут натворил?', 'Lyova, what on earth have you done here?', [(98, 'Лёва, ты что натворил')], 'adapted'),
-    ('gulya', 'Неужели ты их всех закрыл?', 'Did you really lock them all up?', [(99, 'Ты их всех')], 'adapted'),
-    ('anya', 'Прости меня, но это ради нас.', 'Forgive me, but this is for our sake.', [(100, 'прости меня, я чудовище, но это ради нас')], 'adapted'),
-    ('anya', 'Все они хотели помешать нашему счастью.', 'They all wanted to stand in the way of our happiness.', [(101, 'Все они хотели помешать нашему счастью')], 'adapted'),
-    ('gulya', 'Никто меня ещё так не любил!', 'Nobody has ever loved me like this before!', [(102, 'меня так не любил')], 'adapted'),
-    ('anya', 'Спасибо вам за добрые слова, ребята.', 'Thank you for the kind words, guys.', [(103, 'Спасибо')], 'adapted'),
+    ('chef', 'Лёва, что же ты тут натворил?', 'Lyova, what on earth have you done here?', [(98, 'Лёва, ты что натворил')], 'adapted'),
+    ('chef', 'Неужели ты их всех закрыл?', 'Did you really lock them all up?', [(99, 'Ты их всех')], 'adapted'),
+    ('lyova', 'Прости меня, но это ради нас.', 'Forgive me, but this is for our sake.', [(100, 'прости меня, я чудовище, но это ради нас')], 'adapted'),
+    ('lyova', 'Все они хотели помешать нашему счастью.', 'They all wanted to stand in the way of our happiness.', [(101, 'Все они хотели помешать нашему счастью')], 'adapted'),
+    ('chef', 'Никто меня ещё так не любил!', 'Nobody has ever loved me like this before!', [(102, 'меня так не любил')], 'adapted'),
+    ('lyova', 'Спасибо вам за добрые слова, ребята.', 'Thank you for the kind words, guys.', [(103, 'Спасибо')], 'adapted'),
     ('chef', 'Ну и чего ты так покраснел?', 'Well, why did you blush like that?', [(104, 'Ну и что')], 'adapted'),
-    ('anya', 'Давайте теперь за шефа дружно выпьем!', "Let's all drink to the Chef together now!", [(105, 'Давайте теперь')], 'adapted'),
-    ('anya', 'Виктор Петрович, мы пьём за вас!', 'Viktor Petrovich, we drink to you!', [(106, 'за вас')], 'adapted'),
+    ('lyova', 'Давайте теперь за шефа дружно выпьем!', "Let's all drink to the Chef together now!", [(105, 'Давайте теперь')], 'adapted'),
+    ('lyova', 'Виктор Петрович, мы пьём за вас!', 'Viktor Petrovich, we drink to you!', [(106, 'за вас')], 'adapted'),
     ('chef', 'Спасибо, Лёва, ты настоящий друг.', 'Thank you, Lyova, you are a true friend.', [(103, 'Спасибо')], 'adapted'),
-    ('anya', 'Желаю вам огромного семейного счастья.', 'I wish you immense family happiness.', [(101, 'нашему счастью')], 'adapted'),
+    ('lyova', 'Желаю вам огромного семейного счастья.', 'I wish you immense family happiness.', [(101, 'нашему счастью')], 'adapted'),
     ('chef', 'Наливайте скорее полные бокалы, друзья!', 'Pour the glasses full quickly, friends!', [(106, 'за вас')], 'adapted'),
 ]
 
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "With the glasses refilled, the conversation turns to how Elena Pavlovna could have reacted to the Chef's proposal. See you in the next scene."
-CLOSING = ('anya', 'Шеф, мы пьём за вас!')
+OUTRO = "With the glasses refilled, the conversation turns to how Elena Pavlovna could have reacted to the Chef's proposal. See you next time!"
+CLOSING = ("lyova", "До встречи!")

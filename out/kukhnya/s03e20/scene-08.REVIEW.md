@@ -32,7 +32,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Fine, and what exactly do you want to find out?' Vika brings out the contrast between 'well' and 'and' in a few short words. Max answers right away.
 - 'Tell me, were you and I in some kind of relationship?' Max brings out the contrast between 'say' and 'we' in a few short words.
 - 'No, we were not, we were just friends as colleagues.' The plural past ending '-li' on the verb for 'were friends' covers a group or the polite 'you'.
-- 'That was a rather strange friendship we had as colleagues.' Russian expresses 'having' with the preposition 'by' plus the genitive pronoun and 'colleague'. Vika answers right away.
+- 'That was a rather strange friendship we had as colleagues.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.
 - 'In what sense strange? What are you talking about?' Vika brings out the contrast between 'which' and 'sense' in a few short words.
 - 'I was just looking through my phone and found this.' Notice how Russian expresses 'yes' and 'to find' with crisp inflection rather than helper words.
 - 'Here are your messages: first you write that you hate me.' Spoken Russian keeps this brisk, leaning on 'here' and finishing on 'hate'.

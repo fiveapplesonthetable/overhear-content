@@ -10,13 +10,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Давай по дороге обсудим. | Let's discuss it on the way. | #50 00:04:34: Давай по дороге обсудим | adapted: verbatim |
-| 2 | Аня | А как мне реагировать? | And how should I react? | #51 00:04:38: а как мне реагировать? | adapted: verbatim |
-| 3 | Аня | Я же её люблю. | After all, I love her. | #51 00:04:38: Я же ее люблю | adapted: verbatim |
-| 4 | Аня | Это нормально ревновать, нет? | Is it normal to be jealous, or not? | #52 00:04:41: Это нормально ревновать, нет? | adapted: verbatim |
+| 1 | Михаил | Давай по дороге обсудим. | Let's discuss it on the way. | #50 00:04:34: Давай по дороге обсудим | adapted: verbatim |
+| 2 | Михаил | А как мне реагировать? | And how should I react? | #51 00:04:38: а как мне реагировать? | adapted: verbatim |
+| 3 | Михаил | Я же её люблю. | After all, I love her. | #51 00:04:38: Я же ее люблю | adapted: verbatim |
+| 4 | Михаил | Это нормально ревновать, нет? | Is it normal to be jealous, or not? | #52 00:04:41: Это нормально ревновать, нет? | adapted: verbatim |
 | 5 | Сеня | Конечно, это нормально. | Of course it is normal. | #53 00:04:43: Конечно, нормально | adapted: adapted |
 | 6 | Сеня | У них ревнуешь — плохо. | With them, if you are jealous, it is bad. | #54 00:04:45: У них ревнуешь плохо | adapted: verbatim |
-| 7 | Аня | И как мне быть? | And what should I do? | #56 00:04:51: И как быть? | adapted: adapted |
+| 7 | Михаил | И как мне быть? | And what should I do? | #56 00:04:51: И как быть? | adapted: adapted |
 | 8 | Сеня | Возьми, подойди к нему. | Go ahead and walk up to him. | #57 00:04:54: Возьми, подойди к нему | adapted: verbatim |
 | 9 | Михаил | Пойми, Витя, завтра открытие. | Understand, Vitya, the opening is tomorrow. | #60 00:05:05: Пойми, Витя, завтра открытие | adapted: verbatim |
 | 10 | Михаил | Наш отель должен удивить гостей. | Our hotel must surprise the guests. | #61 00:05:08: Наш отель должен удивить гостей | adapted: verbatim |

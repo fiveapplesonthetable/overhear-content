@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Не волнуйся, Лена, домчу быстрее ветра. | Do not worry, Lena, I will get you there faster than the wind. | #103 00:07:44: Не волнуйся<br>#103 00:07:44: быстрее ветра | adapted: adapted |
-| 2 | Аня | На такой машине тебя вряд ли катали. | You have hardly been driven around in a car like this. | #104 00:07:47: На такой машине тебя вряд ли катали | adapted: adapted |
+| 1 | Федя | Не волнуйся, Лена, домчу быстрее ветра. | Do not worry, Lena, I will get you there faster than the wind. | #103 00:07:44: Не волнуйся<br>#103 00:07:44: быстрее ветра | adapted: adapted |
+| 2 | Федя | На такой машине тебя вряд ли катали. | You have hardly been driven around in a car like this. | #104 00:07:47: На такой машине тебя вряд ли катали | adapted: adapted |
 | 3 | Елена | В студенческие годы у ухажёра была такая. | In my student years an admirer of mine had one like this. | #105 00:07:51: В студенческие годы у моего ухажера была такая | adapted: adapted |
 | 4 | Елена | Витя, с тобой всё в порядке? | Vitya, is everything alright with you? | #107 00:07:59: Витя, все в порядке | adapted: adapted |
-| 5 | Аня | Да, всё просто замечательно, поехали. | Yes, everything is just wonderful, let's go. | #108 00:08:02: Да | adapted: adapted |
+| 5 | Федя | Да, всё просто замечательно, поехали. | Yes, everything is just wonderful, let's go. | #108 00:08:02: Да | adapted: adapted |
 | 6 | Федя | Нагиев обещает нашему шефу звезду Мишлен. | Nagiyev is promising our chef a Michelin star. | #112 00:08:11: Нагиев обещает | adapted: adapted |
 | 7 | Федя | Но ведь это совершенно нереально. | But after all, that is completely unrealistic. | #113 00:08:14: это нереально | adapted: adapted |
 | 8 | Федя | Инспектор приезжает в ресторан тайно. | The inspector comes to a restaurant incognito. | #114 00:08:17: Инспектор приезжает в ресторан | adapted: adapted |
 | 9 | Федя | А может, Нагиев его просто подкупил? | Or maybe Nagiyev simply bribed him? | #116 00:08:21: А может, Нагиев его подкупил | adapted: adapted |
 | 10 | Федя | Всё ясно, он решил шефа переманить. | Everything is clear, he decided to poach the chef. | #118 00:08:27: Все ясно<br>#119 00:08:28: Решил шефа переманить | adapted: adapted |
-| 11 | Аня | Сеня, посмотри, сколько рыбы ты выбросил! | Senya, look how much fish you threw away! | #121 00:08:33: Сеня<br>#122 00:08:38: сколько ты выбросил | adapted: adapted |
-| 12 | Аня | Нужно как-то экономнее продукты обрезать. | We need to trim the ingredients more economically. | #123 00:08:40: экономнее обрезать | adapted: adapted |
+| 11 | Федя | Сеня, посмотри, сколько рыбы ты выбросил! | Senya, look how much fish you threw away! | #121 00:08:33: Сеня<br>#122 00:08:38: сколько ты выбросил | adapted: adapted |
+| 12 | Федя | Нужно как-то экономнее продукты обрезать. | We need to trim the ingredients more economically. | #123 00:08:40: экономнее обрезать | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

@@ -11,17 +11,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Гость | Здравствуйте, шеф, вам лучше уже? | Hello, Chef, are you feeling better already? | #298 00:21:48: Здрасте<br>#299 00:21:49: Ну что, шеф, вам лучше уже? | adapted: adapted |
-| 2 | Аня | Да, спасибо, ребята, уже лучше. | Yes, thank you, guys, already better. | #299 00:21:49: Да, спасибо<br>#302 00:21:56: Да, ребят, уже лучше | adapted: adapted |
+| 2 | Гость | Да, спасибо, ребята, уже лучше. | Yes, thank you, guys, already better. | #299 00:21:49: Да, спасибо<br>#302 00:21:56: Да, ребят, уже лучше | adapted: adapted |
 | 3 | Гость | А когда мне десять тысяч вернете? | And when will you pay me back my ten thousand? | #300 00:21:52: А когда мне<br>#300 00:21:52: тысяч вернете | adapted: adapted |
-| 4 | Аня | Пошел вон отсюда, все понял? | Get out of here, understood? | #301 00:21:54: Пошел вон. Все понял? | adapted: adapted |
+| 4 | Гость | Пошел вон отсюда, все понял? | Get out of here, understood? | #301 00:21:54: Пошел вон. Все понял? | adapted: adapted |
 | 5 | Гость | А ты куда собралась? | And where are you going? | #303 00:22:01: а ты куда | adapted: adapted |
-| 6 | Гуля | Я к чаю хочу чего-нибудь купить. | I want to buy something to go with tea. | #304 00:22:02: Я к чаю хочу чего-нибудь купить | adapted: exact |
+| 6 | Гость | Я к чаю хочу чего-нибудь купить. | I want to buy something to go with tea. | #304 00:22:02: Я к чаю хочу чего-нибудь купить | adapted: exact |
 | 7 | Гость | Ты нам сумочку свою сначала покажи. | Show us your handbag first. | #305 00:22:04: Ты нам сумочку свою покажи | adapted: adapted |
-| 8 | Гуля | Что вы говорите? | What are you saying? | #307 00:22:10: Что? | adapted: adapted |
+| 8 | Гость | Что вы говорите? | What are you saying? | #307 00:22:10: Что? | adapted: adapted |
 | 9 | Гость | Гуля, мы тебя ни в чем не обвиняем. | Gulya, we are not accusing you of anything. | #307 00:22:10: мы тебя ни в чем не обвиняем | adapted: adapted |
 | 10 | Гость | Взяла пять тысяч, думаешь, никто не заметил? | You took five thousand, do you think nobody noticed? | #308 00:22:14: пять тысяч, думаешь, никто не заметил? | adapted: adapted |
 | 11 | Гость | Ну, дай сюда, покажи сумку! | Come on, give it here, show the bag! | #309 00:22:17: Ну, дай сюда, покажи сумку | adapted: exact |
-| 12 | Гуля | Что вы такое делаете, пустите! | What are you doing, let go! | #311 00:22:20: Что вы такое делаете? | adapted: adapted |
+| 12 | Гость | Что вы такое делаете, пустите! | What are you doing, let go! | #311 00:22:20: Что вы такое делаете? | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

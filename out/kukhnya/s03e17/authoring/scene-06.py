@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e17-scene-06'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 17
 SCENE = 6
-TITLE = 'Кулинарный саботаж  (Culinary Sabotage)'
+TITLE = "Кулинарный саботаж  (Culinary Sabotage)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja', 'katya': 'angelina'}
-LABELS = {'anya': 'Макс', 'chef': 'Шеф', 'katya': 'Катя'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.17"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "anya": "alisa", "katya": "angelina"}
+LABELS = {"chef": "Шеф", "anya": "Макс", "katya": "Катя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.17'
 SOURCE_FILE = 'sources/kukhnya/s03/e17.ru.srt'
 
 INTRO = "Chef Barinov gathers the team in the prep area to brainstorm disgusting dishes for the banquet, from soap-flavored fondant and dirt-stuffed fish to Katya and Max's nauseating molecular sauce."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "With Chef Barinov's enthusiastic blessing, every station begins cooking up a culinary disaster for the evening's VIP guest."
-CLOSING = ('chef', 'Отличная идея, я одобряю!')
+OUTRO = "With Chef Barinov's enthusiastic blessing, every station begins cooking up a culinary disaster for the evening's VIP guest. See you next time!"
+CLOSING = ("chef", "До свидания!")

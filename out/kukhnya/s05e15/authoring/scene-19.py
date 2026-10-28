@@ -1,30 +1,30 @@
 ID = 'kukhnya-s05e15-scene-19'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 15
 SCENE = 19
-TITLE = 'Съеденный портрет на рисовой бумаге  (The Eaten Portrait on Rice Paper)'
+TITLE = "Съеденный портрет на рисовой бумаге  (The Eaten Portrait on Rice Paper)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'guest': 'anja', 'senya': 'angelina'}
-LABELS = {'anya': 'Шеф', 'guest': 'Гость', 'senya': 'Сеня'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.15"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "senya": "angelina"}
+LABELS = {"chef": "Шеф", "senya": "Сеня"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.15'
 SOURCE_FILE = 'sources/kukhnya/s05/e15.ru.srt'
 
 INTRO = 'When Chef Barinov tries to stop drinking before his morning trip to the registry office, Gennady threatens to hang his Greek-god painting at the restaurant entrance, so the Chef tears up the rice-paper portrait and the cooks eat it as a snack.'
 
 STORY = [
-    ('anya', 'Нет, ребята, у меня завтра слишком важный день.', 'No, guys, I have too important a day tomorrow.', [(338, 'ребят, у меня слишком важная')], 'adapted'),
-    ('guest', 'Шеф, если не выпьете, я повешу картину у входа!', 'Chef, if you do not drink, I will hang the painting by the entrance!', [(339, 'если вы не выпьете, то я вот эту вот картину повешу у входа')], 'adapted'),
-    ('guest', 'Пусть все гости ресторана любуются вашей красотой!', 'Let all the restaurant guests admire your beauty!', [(339, 'у входа в ресторан')], 'adapted'),
-    ('anya', 'Постой, художник, мы так с тобой не договаривались!', 'Wait, artist, you and I did not agree on that!', [(343, 'Мы так с тобой не договаривались')], 'adapted'),
-    ('anya', 'Дай-ка эту картину сюда, я её сейчас порву!', 'Hand that painting over here, I will tear it up right now!', [(344, 'Дай-ка сюда я ее порву')], 'adapted'),
-    ('guest', 'Отдай назад, ты же вроде взрослый человек!', 'Give it back, you are supposed to be a grown man!', [(345, 'взрослый человек')], 'adapted'),
-    ('anya', 'Подождите, ребята, ведь это же рисовая бумага!', 'Wait, guys, this is edible rice paper after all!', [(346, 'Это рисовая бумага')], 'adapted'),
-    ('anya', 'Вот нам и отличная закуска к столу нашлась!', 'Here we have found a great snack for the table!', [(346, 'Вот и')], 'adapted'),
+    ('chef', 'Нет, ребята, у меня завтра слишком важный день.', 'No, guys, I have too important a day tomorrow.', [(338, 'ребят, у меня слишком важная')], 'adapted'),
+    ('chef', 'Шеф, если не выпьете, я повешу картину у входа!', 'Chef, if you do not drink, I will hang the painting by the entrance!', [(339, 'если вы не выпьете, то я вот эту вот картину повешу у входа')], 'adapted'),
+    ('chef', 'Пусть все гости ресторана любуются вашей красотой!', 'Let all the restaurant guests admire your beauty!', [(339, 'у входа в ресторан')], 'adapted'),
+    ('chef', 'Постой, художник, мы так с тобой не договаривались!', 'Wait, artist, you and I did not agree on that!', [(343, 'Мы так с тобой не договаривались')], 'adapted'),
+    ('chef', 'Дай-ка эту картину сюда, я её сейчас порву!', 'Hand that painting over here, I will tear it up right now!', [(344, 'Дай-ка сюда я ее порву')], 'adapted'),
+    ('chef', 'Отдай назад, ты же вроде взрослый человек!', 'Give it back, you are supposed to be a grown man!', [(345, 'взрослый человек')], 'adapted'),
+    ('chef', 'Подождите, ребята, ведь это же рисовая бумага!', 'Wait, guys, this is edible rice paper after all!', [(346, 'Это рисовая бумага')], 'adapted'),
+    ('chef', 'Вот нам и отличная закуска к столу нашлась!', 'Here we have found a great snack for the table!', [(346, 'Вот и')], 'adapted'),
     ('senya', 'Виктор Петрович, поделитесь с нами кусочком картины!', 'Viktor Petrovich, share a piece of the painting with us!', [(347, 'Шеф, поделитесь')], 'adapted'),
-    ('anya', 'Держи, Сеня, разбирайте скорее по кусочку!', 'Here you go, Senya, take a piece quickly, everyone!', [(348, 'На, Вить')], 'adapted'),
-    ('guest', 'Сеня, скажи, а какую часть картины ты сейчас ешь?', 'Senya, tell me, what part of the painting are you eating right now?', [(349, 'Сеня, а ты что')], 'adapted'),
+    ('chef', 'Держи, Сеня, разбирайте скорее по кусочку!', 'Here you go, Senya, take a piece quickly, everyone!', [(348, 'На, Вить')], 'adapted'),
+    ('chef', 'Сеня, скажи, а какую часть картины ты сейчас ешь?', 'Senya, tell me, what part of the painting are you eating right now?', [(349, 'Сеня, а ты что')], 'adapted'),
     ('senya', 'Не знаю, но на вкус очень даже неплохо!', 'I do not know, but it tastes pretty good actually!', [(350, 'Мне не')], 'adapted'),
 ]
 
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'By morning, not a single scrap of the scandalous rice-paper masterpiece remains. See you in the next scene.'
-CLOSING = ('anya', 'Это же съедобная рисовая бумага!')
+OUTRO = 'By morning, not a single scrap of the scandalous rice-paper masterpiece remains. Until next time!'
+CLOSING = ("chef", "Всего хорошего!")

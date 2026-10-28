@@ -1,32 +1,32 @@
-ID = "kukhnya-s02e08-scene-13"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e08-scene-13'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 8
 SCENE = 13
 TITLE = "Переписка с Еленой под диктовку Шефа  (Chatting with Elena at the Chef's Dictation)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'nastya': 'anja'}
-LABELS = {'anya': 'Шеф', 'nastya': 'Настя'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.08"
-SOURCE_FILE = "sources/kukhnya/s02/e08.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "nastya": "angelina"}
+LABELS = {"chef": "Шеф", "nastya": "Настя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.08'
+SOURCE_FILE = 'sources/kukhnya/s02/e08.ru.srt'
 
 INTRO = "Hovering over Max's shoulder in the office, Chef Barinov nervously dictates polite replies to Elena's chat messages. When Elena mentions she is tired after her shift, Max takes matters into his own hands and types out an invitation for a date tomorrow, sending Barinov into a panic."
 
 STORY = [
-    ('anya', 'Настроение хорошее.', 'My mood is great.', [(220, 'Настроение хорошее')], ''),
+    ('chef', 'Настроение хорошее.', 'My mood is great.', [(220, 'Настроение хорошее')], ''),
     ('nastya', 'А как у вас?', 'And how are things going at your restaurant?', [(222, 'А как у вас')], ''),
-    ('anya', 'Она ответила, что устала.', 'She replied that she is tired.', [(223, 'Она ответила, что устала')], ''),
+    ('chef', 'Она ответила, что устала.', 'She replied that she is tired.', [(223, 'Она ответила, что устала')], ''),
     ('nastya', 'Шеф, самое время ее куда-нибудь пригласить.', 'Chef, this is the perfect moment to invite her out somewhere.', [(224, 'Шеф, самое время ее куда-нибудь пригласить')], ''),
-    ('anya', 'Так же нельзя просто.', 'You cannot just blurt it out like that.', [(227, 'Так же нельзя просто')], ''),
+    ('chef', 'Так же нельзя просто.', 'You cannot just blurt it out like that.', [(227, 'Так же нельзя просто')], ''),
     ('nastya', 'Ты что делаешь?', 'Wait, what are you doing?', [(228, 'Ты что делаешь')], ''),
-    ('anya', 'Пригласил от вашего имени на свидание завтра.', 'I just invited her out on a date tomorrow in your name.', [(229, 'Пригласил от вашего имени на свидание завтра')], ''),
+    ('chef', 'Пригласил от вашего имени на свидание завтра.', 'I just invited her out on a date tomorrow in your name.', [(229, 'Пригласил от вашего имени на свидание завтра')], ''),
     ('nastya', 'Но сегодня вы, кажется, не в форме.', 'Because today you do not seem to be in top form.', [(230, 'Но сегодня вы, кажется, не в форме')], ''),
-    ('anya', 'Ты что, смерти моей хочешь?', 'Are you trying to be the death of me?', [(231, 'Ты что, смерти моей хочешь')], ''),
+    ('chef', 'Ты что, смерти моей хочешь?', 'Are you trying to be the death of me?', [(231, 'Ты что, смерти моей хочешь')], ''),
     ('nastya', 'Что это сделал ты.', 'Tell her that you were the one who typed that.', [(233, 'что это сделал ты')], ''),
-    ('anya', 'Я не могу.', 'I cannot look.', [(235, 'Я не могу')], ''),
+    ('chef', 'Я не могу.', 'I cannot look.', [(235, 'Я не могу')], ''),
     ('nastya', 'Давайте я читаю.', 'Let me read what she wrote.', [(236, 'Давайте я читаю')], ''),
-    ('anya', 'Я прочитал, но ответил хорошо.', 'I read it, and she replied positively.', [(237, 'Я прочитал, но ответил хорошо')], ''),
+    ('chef', 'Я прочитал, но ответил хорошо.', 'I read it, and she replied positively.', [(237, 'Я прочитал, но ответил хорошо')], ''),
 ]
 
 OPENER = "Now let's break down each line of their conversation."
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Now let's put it all back together and hear the whole scene again."
-
-OUTRO = "When you watch Scene 13 of Episode 8, listen out for the exchange around chatting with elena at the chef's dictation — you will recognize every Russian phrase right away. See you in the next scene."
-CLOSING = ('anya', 'Я прочитал, но ответил хорошо.')
+OUTRO = 'That wraps up this scene as chef Barinov dictates replies to Elena through Max on the laptop, and panics when Max boldly sends her a message inviting her on a date tomorrow. Until next time!'
+CLOSING = ("chef", "Хорошего дня!")

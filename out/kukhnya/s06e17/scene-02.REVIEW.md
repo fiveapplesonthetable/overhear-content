@@ -17,8 +17,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 5 | Федя | Ты не выдержишь удар кокосом. | You will not withstand a blow from a coconut. | #18 00:01:09: Не выдержишь ты кокосом | adapted: adapted |
 | 6 | Сеня | Я не выдержу такой удар? | I will not withstand such a blow? | #19 00:01:12: Я не выдержу | adapted: adapted |
 | 7 | Федя | Давай тогда с тобой замажем. | Let us make a bet then. | #20 00:01:15: Да давай замажем | adapted: adapted |
-| 8 | Аня | Так я получу эту звезду? | So will I get this star? | #21 00:01:17: я получу звезду | adapted: adapted |
-| 9 | Аня | Надеюсь, у нас будет отлично. | I hope everything will be great for us. | #22 00:01:20: у вас все будет отлично | adapted: adapted |
+| 8 | Федя | Так я получу эту звезду? | So will I get this star? | #21 00:01:17: я получу звезду | adapted: adapted |
+| 9 | Федя | Надеюсь, у нас будет отлично. | I hope everything will be great for us. | #22 00:01:20: у вас все будет отлично | adapted: adapted |
 | 10 | Федя | Кокосы никогда не предупреждают заранее. | Coconuts never warn you in advance. | #23 00:01:28: не предупреждают | adapted: adapted |
 | 11 | Сеня | Можешь бросить в меня кокос. | You can throw a coconut at me. | #24 00:01:32: можешь бросить в меня | adapted: adapted |
 | 12 | Федя | Может завтра, а может сейчас. | Maybe tomorrow, or maybe right now. | #25 00:01:35: Может, завтра<br>#26 00:01:38: прямо сейчас | adapted: adapted |

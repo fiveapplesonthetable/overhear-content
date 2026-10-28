@@ -26,7 +26,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'That is three times more than you paid!' In Russian, the idea of 'this' flows naturally into 'to pay' without extra filler words.
+- 'That is three times more than you paid!' Here Max anchors the thought on 'times' and finishes on 'to pay', keeping the spoken rhythm brisk and natural.
 - 'And what did you expect, Dima? It is business!' Spoken Russian keeps this brisk, leaning on 'and' and finishing on 'business'.
 - 'Alright, I am completely ready! Well, where am I going?' The meaning hinges on 'everything' working together with 'food' in spoken Russian.
 - 'Forgive me for interfering, I overheard that you are having a wedding.' Spoken Russian keeps this brisk, leaning on 'excuse me' and finishing on 'wedding'.

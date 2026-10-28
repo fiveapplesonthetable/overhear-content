@@ -30,7 +30,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Hello, dear Victoria Sergeevna!' Here the Russian phrasing highlights 'hello' before landing on 'dear'.
 - 'Very funny, what is going on here, Max?' The meaning hinges on 'very' working together with 'Max' in spoken Russian.
 - 'Is this a tavern we are running here or what?' Spoken Russian keeps this brisk, leaning on 'at' and finishing on 'whether'.
-- 'Why are the two of you drinking in here?' In Russian, the idea of 'you' flows naturally into 'are drinking' without extra filler words.
+- 'Why are the two of you drinking in here?' Vika pairs 'why' with 'are drinking' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
 - 'Well, what can I possibly do?' In Russian, the idea of 'come on' flows naturally into 'to do' without extra filler words.
 - 'In short, let us go with this plan.' The grammar packs 'long story short' and 'plan' into a tight, idiomatic kitchen exchange.
 - 'Right now I will get him drunk quickly.' The meaning hinges on 'now' working together with 'I will get him drunk' in spoken Russian.

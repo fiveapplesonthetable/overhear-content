@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'They say that bitter truth is better than a sweet lie.' Comparative 'better' governs the genitive singular 'of a sweet lie'.
-- 'But not everyone will want to taste that bitterness.' The third-declension feminine noun takes the feminine accusative determiner 'this'.
+- 'They say that bitter truth is better than a sweet lie.' Max pairs 'say, speak' with 'of lie' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
+- 'But not everyone will want to taste that bitterness.' Putting the short word for 'not' right in front of the action word is all Russian needs to make a sentence negative, with no extra helper words like 'do' or 'did'.
 - 'Although only that way can you feel the taste of life.' Concessive conjunction 'although' introduces the modal construction.
-- 'It is the pleasant taste of victory when everything works out.' Genitive singular 'of victory' modifies 'taste'.
-- 'And of course, the bright taste of our family relationship.' Genitive plural 'of family relations' completes the culinary metaphor.
+- 'It is the pleasant taste of victory when everything works out.' In everyday Russian, 'nice, pleasant' flows straight into 'to work out, to come out' without extra linking words.
+- 'And of course, the bright taste of our family relationship.' Max pairs 'of course, certainly' with 'relationship' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
 - 'Our life is delicious in very different ways.' Feminine short adjective agrees with the feminine subject 'life'.
 - 'Vika, take this, here is the money for my rifle.' Max proudly hands over the cash refund from the toy store.
 - 'I returned it back to the store today.' In retail Russian, the verb 'to hand in' means returning an item for a refund.
-- 'It really is high time for me to grow up.' Predicative noun 'time' takes a dative pronoun and imperfective infinitive.
+- 'It really is high time for me to grow up.' Max pairs 'really, indeed, truly' with 'to up' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
 - 'By the way, you can return your expensive wine too.' Max assumes Vika still has the five-thousand-dollar bottle she ordered.
 - 'So that they would refund my money for it to you?' Vika explains why she could not let him profit from her purchase.
 - 'I already poured that wine down the sink, Max!' Vika's poured-out five-thousand-dollar wine leaves Max speechless.

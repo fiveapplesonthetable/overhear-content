@@ -1,15 +1,15 @@
-ID = "kukhnya-s02e13-scene-16"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e13-scene-16'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 13
 SCENE = 16
-TITLE = 'Наказание в больнице и мясной секрет  (Hospital Punishment and the Meat Secret)'
+TITLE = "Наказание в больнице и мясной секрет  (Hospital Punishment and the Meat Secret)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'sasha': 'anja'}
-LABELS = {'anya': 'Макс', 'sasha': 'Саша'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.13"
-SOURCE_FILE = "sources/kukhnya/s02/e13.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "sasha": "anja"}
+LABELS = {"anya": "Макс", "sasha": "Саша"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.13'
+SOURCE_FILE = 'sources/kukhnya/s02/e13.ru.srt'
 
 INTRO = 'Returned to his hospital bed, Chef Barinov is scolded by the nurse for climbing out the window and driving his blood pressure up. When Vika arrives to visit the supposedly weak patient, she catches him happily devouring smuggled meat with a huge appetite.'
 
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Let's hear the complete conversation once more."
-
-OUTRO = 'When you watch Scene 16 of Episode 13, listen out for the exchange around hospital punishment and the meat secret — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('anya', 'Русский язык выучи.')
+OUTRO = 'That wraps up this scene as back in the hospital ward, the nurse scolds Barinov for climbing out the window while Vika discovers him wolfing down smuggled meat under his blanket. See you next time!'
+CLOSING = ("anya", "До свидания!")

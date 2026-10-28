@@ -17,11 +17,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 5 | Аня | Костя, скажи, ты вчера кем был? | Kostya, tell me, what were you yesterday? | #170 00:11:19: ты вчера кем был | adapted: adapted |
 | 6 | Костя | Вчера был барменом, и сегодня тоже бармен. | Yesterday I was a bartender, and today I am a bartender too. | #172 00:11:25: Тоже бармен | adapted: adapted |
 | 7 | Аня | Ну вот, и завтра ты тоже барменом будешь. | Well there, and tomorrow you will be a bartender too. | #172 00:11:25: Ну и завтра барменом будешь | adapted: adapted |
-| 8 | Аня | А я час назад был уборщиком, сейчас курьер, а к вечеру могу снова поваром стать. | And an hour ago I was a cleaner, now a courier, and by evening I can become a cook again. | #173 00:11:28: А я час назад был уборщиком, сейчас курьер, а к вечеру могу снова поваром стать | adapted: adapted |
+| 8 | Аня | Час назад был уборщиком, сейчас курьер, а вечером снова стану поваром. | An hour ago I was a cleaner, now a courier, and tonight a cook again. | #173 00:11:28: час назад был уборщиком, сейчас курьер | adapted: adapted |
 | 9 | Костя | А я тогда завтра известным юристом стану! | And then tomorrow I will become a famous lawyer! | #175 00:11:35: А я юристом завтра стану | adapted: adapted |
-| 10 | Шеф | Так, ставим ноги на ширине плеч. | Alright, we place our feet shoulder-width apart. | #177 00:11:44: Так, ноги на ширине плеч | adapted: adapted |
-| 11 | Шеф | Спина у нас прямая, и теперь бьём! | Our back is straight, and now we swing! | #178 00:11:46: спина прямая | adapted: adapted |
-| 12 | Шеф | Это основной удар в нашем гольфе. | This is the basic stroke in our golf. | #181 00:11:57: основной удар в гольфе | adapted: adapted |
+| 10 | Костя | Так, ставим ноги на ширине плеч. | Alright, we place our feet shoulder-width apart. | #177 00:11:44: Так, ноги на ширине плеч | adapted: adapted |
+| 11 | Костя | Спина у нас прямая, и теперь бьём! | Our back is straight, and now we swing! | #178 00:11:46: спина прямая | adapted: adapted |
+| 12 | Костя | Это основной удар в нашем гольфе. | This is the basic stroke in our golf. | #181 00:11:57: основной удар в гольфе | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -32,7 +32,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Kostya, tell me, what were you yesterday?' The grammar packs 'Kostya' and 'was' into a tight, idiomatic kitchen exchange. Kostya answers right away.
 - 'Yesterday I was a bartender, and today I am a bartender too.' Kostya brings out the contrast between 'yesterday' and 'was' in a few short words.
 - 'Well there, and tomorrow you will be a bartender too.' In Russian, the idea of 'come on' flows naturally into 'will' without extra filler words.
-- 'And an hour ago I was a cleaner, now a courier, and by evening I can become a cook again.' Spoken Russian keeps this brisk, leaning on 'and' and finishing on 'to become'. Kostya answers right away.
+- 'An hour ago I was a cleaner, now a courier, and tonight a cook again.' Here Max anchors the thought on 'hour' and finishes on 'as a cook', keeping the spoken rhythm brisk and natural.
 - 'And then tomorrow I will become a famous lawyer!' Kostya anchors the line on 'and', while 'will become' completes the thought.
 - 'Alright, we place our feet shoulder-width apart.' In Russian, the idea of 'so' flows naturally into 'shoulders' without extra filler words.
 - 'Our back is straight, and now we swing!' Spoken Russian keeps this brisk, leaning on 'back' and finishing on 'we hit'.

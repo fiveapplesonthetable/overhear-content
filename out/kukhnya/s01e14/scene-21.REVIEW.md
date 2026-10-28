@@ -1,39 +1,38 @@
-# kukhnya-s01e14-scene-21: review sheet
+# Дегустатор  (The Taster) — `kukhnya-s01e14-scene-21`
 
-Title: Дегустатор  (The Taster)
-Level: A1 — Duolingo Section 2
-Pair: ru-en
-Source: Кухня (Kukhnya) S1.14
-Cues 303-304
+**Source:** Кухня (Kukhnya) S1.14 · `sources/kukhnya/s01/e14.ru.dual.srt`  
+**Target level:** A1 — Duolingo Section 2
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+## Cast
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+| Role | Voice | Label |
+|---|---|---|
+| `narrator` | sky | — |
+| `nagiyev` | angelina | Нагиев |
+
+## Part 1 — Intro
+
+> In the dining room, the French guest Jacques is singing La Marseillaise after drinking too much. Owner Dmitry Nagiyev steps in and announces that he will taste Max's dish himself. Let's listen to the scene in Russian first.
+
+## Part 2 — Story
+
+| # | Speaker | Line | English | Source cue(s) | Change |
 |---|---|---|---|---|---|
-| 1 | Нагиев | Исполняют Марсельезу. | They're singing La Marseillaise. | #302 00:19:44: Исполняют Марсельезу | verbatim |
-| 2 | Нагиев | Какой приятный вечер. | What a pleasant evening. | new | new |
-| 3 | Нагиев | Давайте извиним Жак. | Let's forgive Jacques. | #303 00:19:50: Давайте извиним Жак | verbatim |
-| 4 | Нагиев | Он, видимо, сильно накушался. | He seems to have had too much. | #303 00:19:50: он, видимо<br>#303 00:19:50: сильно накушался | verbatim |
-| 5 | Нагиев | Даже без нашего блюда. | Even before our dish. | #303 00:19:50: и без нашего блюда | verbatim |
-| 6 | Нагиев | Он очень устал сегодня. | He is very tired today. | new | new |
-| 7 | Нагиев | Поэтому он не может есть. | Therefore he cannot eat. | new | new |
-| 8 | Нагиев | Ну что ж. | Well, then. | #304 00:19:56: Ну что ж | verbatim |
-| 9 | Нагиев | Тогда дегустатором буду я. | Then I will be the taster. | #304 00:19:56: тогда дегустатором буду я | verbatim |
-| 10 | Нагиев | Я сам попробую это. | I will try it myself. | new | new |
-| 11 | Нагиев | Надеюсь, это вкусно. | I hope it's tasty. | new | new |
-| 12 | Нагиев | Посмотрим, что приготовил повар. | Let's see what the chef cooked. | new | new |
+| 0 | Нагиев | Гости громко исполняют Марсельезу. | The guests are loudly singing La Marseillaise. | #302 "Исполняют Марсельезу" |  |
+| 1 | Нагиев | Кажется, наш французский гость устал. | It seems our French guest is tired. | *(added)* |  |
+| 2 | Нагиев | Давайте дружно извиним Жака. | Let us all forgive Jacques. | #303 "Давайте извиним Жак" |  |
+| 3 | Нагиев | Он, видимо, сегодня сильно накушался. | He apparently had too much today. | #303 "он, видимо", #303 "сильно накушался" |  |
+| 4 | Нагиев | Даже без нашего главного блюда. | Even without our main dish. | #303 "и без нашего блюда" |  |
+| 5 | Нагиев | Он уже не может оценивать еду. | He can no longer judge the food. | *(added)* |  |
+| 6 | Нагиев | Поэтому он сейчас просто поёт. | That is why he is just singing right now. | *(added)* |  |
+| 7 | Нагиев | Ну что ж, дорогие друзья. | Well then, dear friends. | #304 "Ну что ж" |  |
+| 8 | Нагиев | Тогда главным дегустатором буду я. | Then I will be the main taster. | #304 "тогда дегустатором буду я" |  |
+| 9 | Нагиев | Я сам попробую это блюдо. | I will taste this dish myself. | *(added)* |  |
+| 10 | Нагиев | Надеюсь, блюдо вам очень понравится. | I hope you will really like the dish. | *(added)* |  |
+| 11 | Нагиев | Посмотрим, что приготовил наш повар. | Let us see what our chef cooked. | *(added)* |  |
 
-## Walk-through narration (English only, no target-language words quoted)
+## Part 5 — Outro & closing
 
-- 'They're singing La Marseillaise.' Nagiyev delivers a punchy one-word reaction built around the Russian word meaning 'to perform'.
-- 'What a pleasant evening.' Russian omits the present-tense verb 'to be' here, linking 'nice' directly with 'evening', combining 'nice' with 'evening'.
-- 'Let's forgive Jacques.' The key word here means 'let's', which Dmitry combines with 'to excuse'.
-- 'He seems to have had too much.' The verb for 'got drunk' is in the masculine past tense, marked by that 'l' sound at the end.
-- 'Even before our dish.' Nagiyev delivers a punchy one-word reaction built around the Russian word meaning 'of dish'.
-- 'He is very tired today.' Here Nagiyev anchors the line on the word meaning 'very much' and builds the thought around 'am tired' and 'today'.
-- 'Therefore he cannot eat.' The phrasing opens with 'that's why' before bringing in 'can' and 'there is' to make the point clear.
-- 'Well, then.' Russian omits the present-tense verb 'to be' here, linking 'oh' directly with 'what', combining 'oh' with 'what' and 'on earth'.
-- 'Then I will be the taster.' Nagiyev puts the word for 'back then' together with 'taster' and 'will be' in a crisp, natural spoken turn of phrase.
-- 'I will try it myself.' Nagiyev delivers a punchy one-word reaction built around the Russian word meaning 'will try'.
-- 'I hope it's tasty.' Nagiyev chooses the imperfective verb meaning 'hope so' for the ongoing action, followed by 'it's tasty'.
-- 'Let's see what the chef cooked.' The verb for 'cooked' is in the masculine past tense, marked by the '-l' ending.
+> With Jacques out of commission, Dmitry Nagiyev takes it upon himself to judge the dish. See you next time!
+
+**Нагиев:** До встречи!

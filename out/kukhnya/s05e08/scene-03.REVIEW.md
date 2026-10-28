@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Гляди, какой камень здоровенный. | Look what a massive stone that is. | #20 00:03:35: Гляди, какой камень здоровенный | adapted: adapted |
-| 2 | Федя | Я на нашей работе такой камень могу только в почках заработать. | At our job I can only earn a stone that big in my kidneys. | #21 00:03:37: я на нашей работе такой большой камень могу только в почках заработать | adapted: adapted |
-| 3 | Аня | Костян, ты не боишься, что Настя отнесёт шейху заказ? | Kostyan, are you not afraid that Nastya will take the order to the sheikh? | #22 00:03:51: Костян, ты не боишься, что Настя отнесет шейху заказ | adapted: adapted |
-| 4 | Аня | Он в неё влюбится и похитит в гарем. | He will fall in love with her and kidnap her into his harem. | #23 00:03:56: он в нее влюбится и похитит в гарем | adapted: adapted |
+| 1 | Сеня | Гляди, какой камень здоровенный. | Look what a massive stone that is. | #20 00:03:35: Гляди, какой камень здоровенный | adapted: adapted |
+| 2 | Костя | Я на нашей работе такой камень могу только в почках заработать. | At our job I can only earn a stone that big in my kidneys. | #21 00:03:37: я на нашей работе такой большой камень могу только в почках заработать | adapted: adapted |
+| 3 | Сеня | Костян, ты не боишься, что Настя отнесёт шейху заказ? | Kostyan, are you not afraid that Nastya will take the order to the sheikh? | #22 00:03:51: Костян, ты не боишься, что Настя отнесет шейху заказ | adapted: adapted |
+| 4 | Сеня | Он в неё влюбится и похитит в гарем. | He will fall in love with her and kidnap her into his harem. | #23 00:03:56: он в нее влюбится и похитит в гарем | adapted: adapted |
 | 5 | Костя | Шейх Настю? Я тебя умоляю, кому она нужна? | The sheikh, Nastya? I beg you, who needs her? | #24 00:03:59: Шейх Настю? Я тебя умоляю<br>#25 00:04:02: Кому она нужна | adapted: adapted |
 | 6 | Костя | В смысле, Настя, ты мне нужна! | I mean, Nastya, I need you! | #26 00:04:05: В смысле, Настя, ты мне нужна | adapted: adapted |
-| 7 | Аня | Получим перстень, куплю себе дачу. | Once we get the ring, I will buy myself a country house. | #27 00:04:09: персень, куплю себе дачу | adapted: adapted |
-| 8 | Федя | Слышь, тридцать соток пляжа. | Listen, thirty acres of beach. | #29 00:04:14: Слышь, тридцать соток пляжа | adapted: adapted |
+| 7 | Сеня | Получим перстень, куплю себе дачу. | Once we get the ring, I will buy myself a country house. | #27 00:04:09: персень, куплю себе дачу | adapted: adapted |
+| 8 | Костя | Слышь, тридцать соток пляжа. | Listen, thirty acres of beach. | #29 00:04:14: Слышь, тридцать соток пляжа | adapted: adapted |
 | 9 | Костя | Хватит продукты переводить! | Stop wasting ingredients! | #30 00:04:17: хватит продукты переводить | adapted: adapted |
-| 10 | Федя | Шеф твою мечту съел. | The Chef just ate your dream. | #31 00:04:25: Шеф твою мечту съел | adapted: adapted |
+| 10 | Костя | Шеф твою мечту съел. | The Chef just ate your dream. | #31 00:04:25: Шеф твою мечту съел | adapted: adapted |
 | 11 | Костя | Заказ на второй этаж: сыр с запечённой грушей. | Order for the second floor: cheese with baked pear. | #32 00:04:27: Заказ на второй этаж<br>#33 00:04:29: с запеченной грушей | adapted: adapted |
-| 12 | Аня | Шеф, мы с Федей сами сделаем! | Chef, Fedya and I will make it ourselves! | #34 00:04:31: Шеф, мы с Федей сделаем | adapted: adapted |
+| 12 | Сеня | Шеф, мы с Федей сами сделаем! | Chef, Fedya and I will make it ourselves! | #34 00:04:31: Шеф, мы с Федей сделаем | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

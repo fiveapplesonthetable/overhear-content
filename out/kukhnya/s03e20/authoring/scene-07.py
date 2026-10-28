@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e20-scene-07'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 20
 SCENE = 7
-TITLE = 'Переезд к Вике и визит к Сергею  (Moving in with Vika and Visiting Sergey)'
+TITLE = "Переезд к Вике и визит к Сергею  (Moving in with Vika and Visiting Sergey)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja', 'chef': 'angelina'}
-LABELS = {'anya': 'Макс', 'vika': 'Вика', 'chef': 'Шеф'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.20"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "chef": "anja", "vika": "angelina"}
+LABELS = {"anya": "Макс", "chef": "Шеф", "vika": "Вика"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.20'
 SOURCE_FILE = 'sources/kukhnya/s03/e20.ru.srt'
 
 INTRO = 'When Max offers to sleep at the train station, Vika relents and takes him to her apartment until the wedding. That night, Chef Barinov visits Sergey at his hotel with a bottle of whiskey, and Sergey coldly brushes him off.'
@@ -41,10 +41,10 @@ WALK = [
     (7, None, "'Oh, my fault, I accidentally dropped my cork.' In Russian, the idea of 'oh' flows naturally into 'traffic jam' without extra filler words."),
     (8, None, "'The situation between us really does need to be cleared up right away.' Here the Russian phrasing highlights 'situation' before landing on 'to clarify'."),
     (9, None, "'First, to you I am not Sergey, but Sergey Vladimirovich.' Max anchors the line on 'first of all', while 'Vladimirovich' completes the thought."),
-    (10, None, "'And second, I never drink with subordinates.' The grammar packs 'and' and 'with subordinates' into a tight, idiomatic kitchen exchange."),
+    (10, None, "'And second, I never drink with subordinates.' Notice how Russian puts 'second' and 'with subordinates' together in a short, direct phrase where word endings show how the ideas connect."),
     (11, None, "'Try not to be late for work tomorrow morning.' Notice how Russian expresses 'try' and 'work' with crisp inflection rather than helper words."),
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Sergey thinks he has put Chef Barinov in his place, unaware of what Chef is about to discover in the hotel room.'
-CLOSING = ('vika', 'Он поживёт у меня до свадьбы.')
+OUTRO = 'Sergey thinks he has put Chef Barinov in his place, unaware of what Chef is about to discover in the hotel room. Until next time!'
+CLOSING = ("vika", "До встречи!")

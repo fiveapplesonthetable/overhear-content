@@ -10,17 +10,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | О, доброе утро, шеф! | Oh, good morning, Chef! | #208 00:15:00: О, доброе утро, шеф! | adapted: verbatim |
-| 2 | Аня | Михаил сделает нам туалет, как просим. | Mikhail will give us a restroom as we ask. | #209 00:15:03: сделает нам туалет, как мы просим | adapted: adapted |
-| 3 | Аня | Шеф, я там совсем чуть-чуть. | Chef, I only need a tiny moment in there. | #210 00:15:07: Шеф, я там совсем чуть-чуть | adapted: verbatim |
-| 4 | Михаил | Пожалуйста, не волнуйтесь. | Please, do not worry. | #213 00:15:22: Пожалуйста, не волнуйтесь | adapted: verbatim |
-| 5 | Михаил | Сейчас мы всё быстро исправим. | Right now we will fix everything quickly. | #213 00:15:22: Сейчас все исправим | adapted: adapted |
-| 6 | Михаил | Что там, лифт сломался? | What is going on there, did the elevator break? | #215 00:15:26: Что там, лифт сломался? | adapted: verbatim |
+| 1 | Шеф | О, доброе утро, шеф! | Oh, good morning, Chef! | #208 00:15:00: О, доброе утро, шеф! | adapted: verbatim |
+| 2 | Шеф | Михаил сделает нам туалет, как просим. | Mikhail will give us a restroom as we ask. | #209 00:15:03: сделает нам туалет, как мы просим | adapted: adapted |
+| 3 | Шеф | Шеф, я там совсем чуть-чуть. | Chef, I only need a tiny moment in there. | #210 00:15:07: Шеф, я там совсем чуть-чуть | adapted: verbatim |
+| 4 | Шеф | Пожалуйста, не волнуйтесь. | Please, do not worry. | #213 00:15:22: Пожалуйста, не волнуйтесь | adapted: verbatim |
+| 5 | Шеф | Сейчас мы всё быстро исправим. | Right now we will fix everything quickly. | #213 00:15:22: Сейчас все исправим | adapted: adapted |
+| 6 | Шеф | Что там, лифт сломался? | What is going on there, did the elevator break? | #215 00:15:26: Что там, лифт сломался? | adapted: verbatim |
 | 7 | Вика | Нет, Михаил, там небольшая проблемка. | No, Mikhail, there is a little problem there. | #216 00:15:28: там проблемка | adapted: adapted |
-| 8 | Аня | Я проверяю, всё ли готово к открытию. | I am checking whether everything is ready for the opening. | #219 00:15:40: проверяю, все ли готово к открытию | adapted: verbatim |
-| 9 | Аня | Не хотите к нам присоединиться? | Would you not like to join us? | #220 00:15:46: присоединиться? | adapted: adapted |
-| 10 | Михаил | Мы так всех гостей потеряем! | We will lose all our guests like this! | #222 00:15:55: мы гостей | adapted: adapted |
-| 11 | Аня | Если хочешь их сохранить, не лезь! | If you want to keep them, stay out of my way! | #223 00:15:57: Если ты хочешь их сохранить, не лезь | adapted: adapted |
+| 8 | Шеф | Я проверяю, всё ли готово к открытию. | I am checking whether everything is ready for the opening. | #219 00:15:40: проверяю, все ли готово к открытию | adapted: verbatim |
+| 9 | Шеф | Не хотите к нам присоединиться? | Would you not like to join us? | #220 00:15:46: присоединиться? | adapted: adapted |
+| 10 | Шеф | Мы так всех гостей потеряем! | We will lose all our guests like this! | #222 00:15:55: мы гостей | adapted: adapted |
+| 11 | Шеф | Если хочешь их сохранить, не лезь! | If you want to keep them, stay out of my way! | #223 00:15:57: Если ты хочешь их сохранить, не лезь | adapted: adapted |
 | 12 | Вика | Господи, да что же вы как дети? | Goodness, why are you acting like children? | #225 00:16:05: Господи, да что же вы как дети? | adapted: verbatim |
 | 13 | Вика | Не можете договориться? Монетку бросьте. | Cannot reach an agreement? Toss a coin. | #226 00:16:08: Не можете договориться? Монетку бросьте | adapted: verbatim |
 

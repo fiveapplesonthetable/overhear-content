@@ -1,15 +1,15 @@
-ID = "kukhnya-s02e12-scene-18"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e12-scene-18'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 12
 SCENE = 18
-TITLE = 'Драка из-за Вики и увольнение Макса  (Fighting Over Vika and Firing Max)'
+TITLE = "Драка из-за Вики и увольнение Макса  (Fighting Over Vika and Firing Max)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja', 'tanya': 'angelina'}
-LABELS = {'anya': 'Макс', 'vika': 'Вика', 'tanya': 'Таня'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.12"
-SOURCE_FILE = "sources/kukhnya/s02/e12.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "tanya": "anja", "vika": "angelina"}
+LABELS = {"anya": "Макс", "tanya": "Таня", "vika": "Вика"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.12'
+SOURCE_FILE = 'sources/kukhnya/s02/e12.ru.srt'
 
 INTRO = "Out of Vika's sight, the confrontation turns physical when Aleksandr lands a punch on Max and then spins a story when Vika rushes over. The next morning in the kitchen, Aleksandr informs Max that he is no longer sous-chef—in fact, he is fired."
 
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the whole conversation once more from start to finish."
-
-OUTRO = 'When you watch Scene 18 of Episode 12, listen out for the exchange around fighting over vika and firing max — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('anya', 'Иди сюда!')
+OUTRO = 'That wraps up this scene as aleksandr punches Max during their confrontation behind the scenes, lies to Vika about what happened, and tells Max the next morning that he is fired. See you next time!'
+CLOSING = ("anya", "До завтра!")

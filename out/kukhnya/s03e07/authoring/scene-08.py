@@ -1,31 +1,31 @@
 ID = 'kukhnya-s03e07-scene-08'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 7
 SCENE = 8
-TITLE = 'Второй вариант: погоня на такси  (Second Version: Taxi Chase)'
+TITLE = "Второй вариант: погоня на такси  (Second Version: Taxi Chase)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'nagiyev': 'anja', 'lyova': 'angelina'}
-LABELS = {'anya': 'Шеф', 'nagiyev': 'Нагиев', 'lyova': 'Лёва'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.07"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "nagiyev": "angelina", "chef": "anja"}
+LABELS = {"nagiyev": "Нагиев", "chef": "Шеф"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.07'
 SOURCE_FILE = 'sources/kukhnya/s03/e07.ru.srt'
 
 INTRO = "In the second timeline, Max steals Nagiyev's car keys and drives off with Vika without punching him. Nagiyev jumps into a cab and offers five thousand rubles to catch his car."
 
 STORY = [
-    ('lyova', 'Шеф, там гость в блюде нашёл таракана.', 'Chef, a guest out there found a cockroach in his dish.', [(102, 'нашел таракана')], 'adapted'),
-    ('anya', 'Опять таракана, чьё это блюдо?', 'A cockroach again, whose dish is it?', [(103, 'Таракана')], 'adapted'),
-    ('lyova', 'Это снова ваше блюдо, шеф.', 'It is your dish again, Chef.', [(104, 'Ваше, шеф')], 'adapted'),
+    ('nagiyev', 'Шеф, там гость в блюде нашёл таракана.', 'Chef, a guest out there found a cockroach in his dish.', [(102, 'нашел таракана')], 'adapted'),
+    ('chef', 'Опять таракана, чьё это блюдо?', 'A cockroach again, whose dish is it?', [(103, 'Таракана')], 'adapted'),
+    ('nagiyev', 'Это снова ваше блюдо, шеф.', 'It is your dish again, Chef.', [(104, 'Ваше, шеф')], 'adapted'),
     ('nagiyev', 'Тише, он просто на кошку кричал.', 'Quieter, he was just yelling at a cat.', [(107, 'Он на кошку кричал')], 'adapted'),
     ('nagiyev', 'Быстро мою машину догоняй, мою!', 'Quickly catch up with my car, mine!', [(109, 'Мою машину догоняй, мою')], 'adapted'),
     ('nagiyev', 'Вот тебе сразу тысяча рублей.', 'Here is a thousand rubles for you right away.', [(110, 'Тысяча рублей')], 'adapted'),
     ('nagiyev', 'Если догонишь, я тебе пять тысяч дам.', 'If you catch up, I will give you five thousand.', [(111, 'Догонишь, я тебе пять тысяч дам')], 'adapted'),
     ('nagiyev', 'Ну всё, давай скорее поехали!', 'Well that is it, let us go quickly!', [(112, 'Поехали')], 'adapted'),
-    ('lyova', 'Короче, моего сына будут звать Дмитрий.', 'In short, my son will be named Dmitry.', [(114, 'Моего сына будут звать Дмитрий')], 'adapted'),
-    ('anya', 'Вот сам родишь себе сына и назовёшь его Дмитрий.', 'Give birth to a son yourself and name him Dmitry.', [(115, 'Вот сам родишь себе сына и назовешь его Дмитрий')], 'adapted'),
-    ('lyova', 'Шеф, что будем делать с гостем?', 'Chef, what are we going to do with the guest?', [(102, 'гость')], 'adapted'),
-    ('anya', 'Сейчас я сам к нему выйду.', 'Right now I will go out to him myself.', [(104, 'шеф')], 'adapted'),
+    ('nagiyev', 'Короче, моего сына будут звать Дмитрий.', 'In short, my son will be named Dmitry.', [(114, 'Моего сына будут звать Дмитрий')], 'adapted'),
+    ('chef', 'Вот сам родишь себе сына и назовёшь его Дмитрий.', 'Give birth to a son yourself and name him Dmitry.', [(115, 'Вот сам родишь себе сына и назовешь его Дмитрий')], 'adapted'),
+    ('nagiyev', 'Шеф, что будем делать с гостем?', 'Chef, what are we going to do with the guest?', [(102, 'гость')], 'adapted'),
+    ('chef', 'Сейчас я сам к нему выйду.', 'Right now I will go out to him myself.', [(104, 'шеф')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'While Nagiyev pursues Max through Moscow traffic, Chef Barinov walks out to face the angry diner himself.'
-CLOSING = ('nagiyev', 'Мою машину быстрее догоняй!')
+OUTRO = 'While Nagiyev pursues Max through Moscow traffic, Chef Barinov walks out to face the angry diner himself. See you next time!'
+CLOSING = ("nagiyev", "До завтра!")

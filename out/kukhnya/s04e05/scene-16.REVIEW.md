@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'German Mikhailovich, may I come in to see you?' The modal word 'may' combines with a perfective infinitive of entering.
-- 'Yes, Lavrov, come in quickly, how are things?' German welcomes his sous-chef with a polite plural imperative.
-- 'By the way, I fired one cook today.' Max takes credit for the resignation using a perfective past verb.
-- 'Here is his letter of voluntary resignation.' The standard Russian legal phrase uses the dative case after 'according to'.
-- 'Lavrov, you are simply growing in my eyes!' A warm Russian idiom expresses rising esteem using the prepositional plural.
-- 'And what is this gathering by my office?' The preposition 'by' governs the genitive singular of the noun for office.
-- 'The cooks are asking to allow them to do sports.' The reflexive verb for practicing a hobby or sport governs the instrumental case.
-- 'Interesting, what kind of sports at work?' German asks with an instrumental interrogative determiner matching the previous clause.
-- 'Ordinary light gymnastics in the back courtyard.' Max invents a plausible excuse using instrumental feminine endings.
-- 'After all, people stand by the stove all day.' Accusative of duration 'the whole day' precedes the prepositional phrase.
-- 'Well all right, I do not object at all.' German agrees with a first-person imperfective verb of objecting.
-- 'Only make sure they do not turn gymnastics into smoke breaks!' The verb for transforming takes an accusative object and 'into' plus accusative.
+- 'German Mikhailovich, may I come in to see you?' In spoken Russian, the words stay in their normal statement order and Max's rising voice at the end turns the line into a question.
+- 'Yes, Lavrov, come in quickly, how are things?' Notice how Russian puts 'come in' and 'things to do' together in a short, direct phrase where word endings show how the ideas connect.
+- 'By the way, I fired one cook today.' Here Max anchors the thought on 'by the way' and finishes on 'cook', keeping the spoken rhythm brisk and natural.
+- 'Here is his letter of voluntary resignation.' In everyday Russian, 'statement' flows straight into 'resignation' without extra linking words.
+- 'Lavrov, you are simply growing in my eyes!' German pairs 'simply, just' with 'eye' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
+- 'And what is this gathering by my office?' Notice how Russian puts 'meeting' and 'office' together in a short, direct phrase where word endings show how the ideas connect.
+- 'The cooks are asking to allow them to do sports.' Here Max anchors the thought on 'cook' and finishes on 'sport, sports', keeping the spoken rhythm brisk and natural.
+- 'Interesting, what kind of sports at work?' In spoken Russian, the words stay in their normal statement order and German's rising voice at the end turns the line into a question.
+- 'Ordinary light gymnastics in the back courtyard.' Max pairs 'ordinary' with 'yard, courtyard' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
+- 'After all, people stand by the stove all day.' Notice how Russian puts 'people' and 'stove' together in a short, direct phrase where word endings show how the ideas connect.
+- 'Well all right, I do not object at all.' Here German anchors the thought on 'good, well, all right' and finishes on 'to object, mind', keeping the spoken rhythm brisk and natural.
+- 'Only make sure they do not turn gymnastics into smoke breaks!' Putting the short word for 'not' right in front of the action word is all Russian needs to make a sentence negative, with no extra helper words like 'do' or 'did'.

@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Вопрос, как они его нашли? | The question is, how did they track him down? | #347 00:21:58: Вопрос, как они его нашли | verbatim |
+| 1 | Шеф | Вопрос, как они его нашли? | The question is, how did they track him down? | #347 00:21:58: Вопрос, как они его нашли | verbatim |
 | 2 | Вика | Черт, что знает. | Devil only knows. | #348 00:22:00: Черт, что знает | verbatim |
-| 3 | Саша | По фамилии, наверное. | By his last name, probably. | #350 00:22:05: По фамилии, наверное | verbatim |
-| 4 | Аня | Нет, не будешь, да? | No, you will not do that, right? | #355 00:22:19: Нет, не будешь, да | verbatim |
+| 3 | Шеф | По фамилии, наверное. | By his last name, probably. | #350 00:22:05: По фамилии, наверное | verbatim |
+| 4 | Шеф | Нет, не будешь, да? | No, you will not do that, right? | #355 00:22:19: Нет, не будешь, да | verbatim |
 | 5 | Вика | Не будешь, да ладно. | You will not, all right then. | #356 00:22:21: Не будешь, да ладно | verbatim |
-| 6 | Саша | Ты снова повар. | You are a line cook again. | #358 00:22:30: Ты снова повар | verbatim |
-| 7 | Аня | Саша, иди на свое рабочее место. | Sasha, go back to your workstation. | #360 00:22:37: Саша, иди на свое рабочее место | verbatim |
+| 6 | Шеф | Ты снова повар. | You are a line cook again. | #358 00:22:30: Ты снова повар | verbatim |
+| 7 | Шеф | Саша, иди на свое рабочее место. | Sasha, go back to your workstation. | #360 00:22:37: Саша, иди на свое рабочее место | verbatim |
 | 8 | Вика | Думаете, что я постоянно вру? | Do you think I am constantly lying? | #362 00:22:56: думаете, что я постоянно вру | verbatim |
-| 9 | Саша | Да ну что вы! | Oh, not at all! | #363 00:22:58: Да ну что вы | verbatim |
-| 10 | Аня | Здравствуйте, Ангела, Виктор... | Hello, my angel, Viktor... | #372 00:23:30: Здравствуйте, Ангела, Виктор | verbatim |
+| 9 | Шеф | Да ну что вы! | Oh, not at all! | #363 00:22:58: Да ну что вы | verbatim |
+| 10 | Шеф | Здравствуйте, Ангела, Виктор... | Hello, my angel, Viktor... | #372 00:23:30: Здравствуйте, Ангела, Виктор | verbatim |
 | 11 | Вика | Тихо, тихо, Тимур. | Quiet, quiet, Timur. | #373 00:23:31: Тихо, тихо, Тимур | verbatim |
-| 12 | Саша | Виктор Петрович не пришел в себя. | Viktor Petrovich has not regained consciousness yet. | #374 00:23:33: Виктор Петрович не пришел в себя | verbatim |
-| 13 | Аня | Можно не кричать здесь? | Could you please not shout in here? | #375 00:23:35: Можно не кричать здесь | verbatim |
+| 12 | Шеф | Виктор Петрович не пришел в себя. | Viktor Petrovich has not regained consciousness yet. | #374 00:23:33: Виктор Петрович не пришел в себя | verbatim |
+| 13 | Шеф | Можно не кричать здесь? | Could you please not shout in here? | #375 00:23:35: Можно не кричать здесь | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

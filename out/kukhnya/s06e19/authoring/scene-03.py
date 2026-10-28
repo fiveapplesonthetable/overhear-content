@@ -1,14 +1,14 @@
 ID = 'kukhnya-s06e19-scene-03'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 19
 SCENE = 3
-TITLE = 'Принцесса перед свадьбой  (A Princess Before the Wedding)'
+TITLE = "Принцесса перед свадьбой  (A Princess Before the Wedding)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'eleonora': 'anja'}
-LABELS = {'anya': 'Катя', 'eleonora': 'Элеонора'}
-SOURCE_NAME = "Кухня (Kukhnya) S6.19"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "eleonora": "angelina"}
+LABELS = {"eleonora": "Элеонора"}
+SOURCE_NAME = 'Кухня (Kukhnya) S6.19'
 SOURCE_FILE = 'sources/kukhnya/s06/e19.ru.srt'
 
 INTRO = 'Upstairs in the bridal suite, Eleonora admires Katya in her wedding gown and confesses she always feared Katya would marry someone like her father. She also reveals she will attend the wedding with a charming new investor.'
@@ -20,12 +20,12 @@ STORY = [
     ('eleonora', 'Ты только меня не пугай.', 'Just do not scare me.', [(43, 'ты только меня не пугай')], 'adapted'),
     ('eleonora', 'Хотя за тебя я спокойна.', 'Although I am calm about you.', [(44, 'Хотя за тебя я спокойна')], 'adapted'),
     ('eleonora', 'На свадьбе я буду не одна.', 'At the wedding I will not be alone.', [(45, 'на твоей свадьбе я буду не одна')], 'adapted'),
-    ('anya', 'Правда, и кто этот мужчина?', 'Really, and who is this man?', [(47, 'Кто же этот')], 'adapted'),
+    ('eleonora', 'Правда, и кто этот мужчина?', 'Really, and who is this man?', [(47, 'Кто же этот')], 'adapted'),
     ('eleonora', 'Он спас меня от банкротства.', 'He saved me from bankruptcy.', [(48, 'спас твою маму от банкротства')], 'adapted'),
     ('eleonora', 'Теперь он наш новый инвестор.', 'Now he is our new investor.', [(49, 'он теперь наш новый инвестор')], 'adapted'),
     ('eleonora', 'И он очень интересный мужчина.', 'And he is a very interesting man.', [(50, 'он еще очень интересный мужчина')], 'adapted'),
     ('eleonora', 'На свадьбе вас обязательно познакомлю.', 'I will definitely introduce you at the wedding.', [(51, 'На свадьбе познакомлю')], 'adapted'),
-    ('anya', 'Хорошо, мама, я очень рада.', 'Alright, Mom, I am very glad.', [(46, 'Да ладно')], 'adapted'),
+    ('eleonora', 'Хорошо, мама, я очень рада.', 'Alright, Mom, I am very glad.', [(46, 'Да ладно')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'As soon as Eleonora steps out of the suite, Denis slips through the door with a spare room key. See you in the next scene.'
-CLOSING = ('eleonora', 'До скорой встречи, дочка!')
+OUTRO = 'As soon as Eleonora steps out of the suite, Denis slips through the door with a spare room key. Until next time!'
+CLOSING = ("eleonora", "До скорой встречи, дочка!")

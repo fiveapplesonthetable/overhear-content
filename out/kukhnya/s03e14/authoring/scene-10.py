@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e14-scene-10'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 14
 SCENE = 10
-TITLE = 'Тимур идёт на переговоры  (Timur Goes to Negotiate)'
+TITLE = "Тимур идёт на переговоры  (Timur Goes to Negotiate)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'timur': 'anja', 'chef': 'angelina'}
-LABELS = {'anya': 'Макс', 'timur': 'Тимур', 'chef': 'Шеф'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.14"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "anya": "alisa", "timur": "angelina"}
+LABELS = {"chef": "Шеф", "anya": "Макс", "timur": "Тимур"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.14'
 SOURCE_FILE = 'sources/kukhnya/s03/e14.ru.srt'
 
 INTRO = 'When Timur arrives with a shipment, Max begs him to talk to the angry guests waiting in the courtyard, without mentioning the pork. Meanwhile, Chef Barinov calls Katya to apologize and invites her and Stas to dinner. Listen first.'
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Chef Barinov sets a trap of kindness for Stas, while Timur heads outside to negotiate with the angry guests. Let's see how Timur's talks turn out in Scene Eleven."
-CLOSING = ('chef', 'Я был неправ и хочу извиниться.')
+OUTRO = "Chef Barinov sets a trap of kindness for Stas, while Timur heads outside to negotiate with the angry guests. Let's see how Timur's talks turn out in Scene Eleven. See you next time!"
+CLOSING = ("chef", "Хорошего дня!")

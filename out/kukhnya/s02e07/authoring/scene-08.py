@@ -1,32 +1,32 @@
-ID = "kukhnya-s02e07-scene-08"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e07-scene-08'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 7
 SCENE = 8
 TITLE = "Запредельное давление Шефа  (The Chef's Sky-High Blood Pressure)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja', 'eleonora': 'angelina'}
-LABELS = {'anya': 'Шеф', 'vika': 'Вика', 'eleonora': 'Элеонора'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.07"
-SOURCE_FILE = "sources/kukhnya/s02/e07.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "eleonora": "angelina", "chef": "anja"}
+LABELS = {"eleonora": "Элеонора", "chef": "Шеф"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.07'
+SOURCE_FILE = 'sources/kukhnya/s02/e07.ru.srt'
 
 INTRO = 'Outside by the dumpsters, Max is annoyed when Rodion Sergeyevich once again critiques his overcooked vegetables. Inside the office, meanwhile, a dizzy Chef Barinov has his blood pressure checked by a doctor, who assumes he has been drinking heavily—until Barinov groans that he went jogging instead.'
 
 STORY = [
-    ('anya', 'О, овощи аль денте.', 'Oh, al dente vegetables again.', [(113, 'О, овощи аль денте')], ''),
-    ('vika', 'Такие же передержанные, как и вчера.', 'Just as overcooked as they were yesterday.', [(115, 'Такие же передержанные, как и вчера')], ''),
+    ('chef', 'О, овощи аль денте.', 'Oh, al dente vegetables again.', [(113, 'О, овощи аль денте')], ''),
+    ('eleonora', 'Такие же передержанные, как и вчера.', 'Just as overcooked as they were yesterday.', [(115, 'Такие же передержанные, как и вчера')], ''),
     ('eleonora', 'Так вот, значит, компетентный человек шефа.', "So that is who the Chef's 'competent person' is.", [(116, 'Так вот, значит, компетентный человек шефа')], ''),
-    ('anya', 'Он мне еще замечания делает.', 'And he has the nerve to lecture me.', [(117, 'Он мне еще замечания делает')], ''),
-    ('vika', 'Как мне мясо жарят.', 'About how I roast my meat.', [(118, 'как мне мясо жарят')], ''),
+    ('chef', 'Он мне еще замечания делает.', 'And he has the nerve to lecture me.', [(117, 'Он мне еще замечания делает')], ''),
+    ('eleonora', 'Как мне мясо жарят.', 'About how I roast my meat.', [(118, 'как мне мясо жарят')], ''),
     ('eleonora', 'Ой, мне плохо.', 'Oh, I feel awful.', [(119, 'Ой, мне плохо')], ''),
-    ('anya', 'Виктор Петрович, вы опять выпивали.', 'Viktor Petrovich, you have been drinking again.', [(120, 'Виктор Петрович, вы опять выпивали')], ''),
-    ('vika', 'У вас запредельное давление.', 'Your blood pressure is through the roof.', [(121, 'У вас запредельное давление')], ''),
+    ('chef', 'Виктор Петрович, вы опять выпивали.', 'Viktor Petrovich, you have been drinking again.', [(120, 'Виктор Петрович, вы опять выпивали')], ''),
+    ('eleonora', 'У вас запредельное давление.', 'Your blood pressure is through the roof.', [(121, 'У вас запредельное давление')], ''),
     ('eleonora', 'Я не выпивал.', 'I have not been drinking.', [(122, 'Я не выпивал')], ''),
-    ('anya', 'Что вы делали?', 'Then what were you doing?', [(123, 'Что вы делали')], ''),
-    ('vika', 'Лучше бы выпивал.', 'I would have been better off drinking.', [(124, 'Лучше бы выпивал')], ''),
+    ('chef', 'Что вы делали?', 'Then what were you doing?', [(123, 'Что вы делали')], ''),
+    ('eleonora', 'Лучше бы выпивал.', 'I would have been better off drinking.', [(124, 'Лучше бы выпивал')], ''),
     ('eleonora', 'Виктор Петрович.', 'Viktor Petrovich.', [(125, 'Виктор Петрович')], ''),
-    ('anya', 'Завтра снова побегу.', 'Tomorrow I am going jogging again.', [(128, 'Завтра снова побегу')], ''),
+    ('chef', 'Завтра снова побегу.', 'Tomorrow I am going jogging again.', [(128, 'Завтра снова побегу')], ''),
 ]
 
 OPENER = "Now let's break down each line of their conversation."
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Now let's put it all back together and hear the whole scene again."
-
-OUTRO = "When you watch Scene 8 of Episode 7, listen out for the exchange around the chef's sky-high blood pressure — you will recognize every Russian phrase right away. See you in the next scene."
-CLOSING = ('anya', 'Завтра снова побегу.')
+OUTRO = 'That wraps up this scene as max fumes when Rodion criticizes his vegetables again, and in the office a paramedic warns an exhausted Chef Barinov that his blood pressure is dangerously high. See you next time!'
+CLOSING = ("chef", "Пока!")

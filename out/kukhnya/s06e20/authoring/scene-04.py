@@ -1,30 +1,30 @@
 ID = 'kukhnya-s06e20-scene-04'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 20
 SCENE = 4
-TITLE = 'Тест на отцовство  (The Paternity Test)'
+TITLE = "Тест на отцовство  (The Paternity Test)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'guest': 'anja'}
-LABELS = {'anya': 'Настя', 'guest': 'Гость'}
-SOURCE_NAME = "Кухня (Kukhnya) S6.20"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "nastya": "angelina", "guest": "anja"}
+LABELS = {"nastya": "Настя", "guest": "Гость"}
+SOURCE_NAME = 'Кухня (Kukhnya) S6.20'
 SOURCE_FILE = 'sources/kukhnya/s06/e20.ru.srt'
 
 INTRO = "At the apartment, Nastya points out how much little Styopa loves his grandfather, while her mother wants to throw the man out immediately. Nastya's father proposes doing a DNA paternity test, sparking an argument over whether they need saliva, blood, or hair."
 
 STORY = [
-    ('anya', 'Ну какой же он маньяк?', 'Well, what kind of maniac is he?', [(49, 'какой маньяк')], 'adapted'),
-    ('anya', 'Посмотри, как ребёнок его любит.', 'Look how much the child loves him.', [(50, 'Ты посмотри, как'), (50, 'его любит')], 'adapted'),
-    ('anya', 'Маленькие дети всё сразу чувствуют.', 'Little children sense everything right away.', [(51, 'сразу чувствуют')], 'adapted'),
+    ('nastya', 'Ну какой же он маньяк?', 'Well, what kind of maniac is he?', [(49, 'какой маньяк')], 'adapted'),
+    ('nastya', 'Посмотри, как ребёнок его любит.', 'Look how much the child loves him.', [(50, 'Ты посмотри, как'), (50, 'его любит')], 'adapted'),
+    ('nastya', 'Маленькие дети всё сразу чувствуют.', 'Little children sense everything right away.', [(51, 'сразу чувствуют')], 'adapted'),
     ('guest', 'Лучше его выгнать на всякий случай.', 'Better to kick him out just in case.', [(52, 'Но лучше его выгнать. На всякий случай')], 'adapted'),
-    ('anya', 'Нет, лучше оставить его дома.', 'No, better to let him stay at home.', [(53, 'лучше оставить')], 'adapted'),
+    ('nastya', 'Нет, лучше оставить его дома.', 'No, better to let him stay at home.', [(53, 'лучше оставить')], 'adapted'),
     ('guest', 'Надо сделать тест на отцовство.', 'We need to do a paternity test.', [(55, 'Надо сделать тест на отцовство')], 'adapted'),
-    ('anya', 'Это просто отличная идея, папа!', 'That is simply a great idea, Dad!', [(56, 'Отличная идея')], 'adapted'),
-    ('anya', 'Я об этом в кино видела.', 'I saw about that in the movies.', [(57, 'в кино видела')], 'adapted'),
-    ('anya', 'Для теста нужно взять слюну.', 'For the test we need to take saliva.', [(57, 'что для теста нужно слюну взять')], 'adapted'),
+    ('nastya', 'Это просто отличная идея, папа!', 'That is simply a great idea, Dad!', [(56, 'Отличная идея')], 'adapted'),
+    ('nastya', 'Я об этом в кино видела.', 'I saw about that in the movies.', [(57, 'в кино видела')], 'adapted'),
+    ('nastya', 'Для теста нужно взять слюну.', 'For the test we need to take saliva.', [(57, 'что для теста нужно слюну взять')], 'adapted'),
     ('guest', 'Там обязательно надо кровь брать.', 'They definitely need to take blood there.', [(58, 'Там кровь брать надо')], 'adapted'),
-    ('anya', 'А я читала, нужны волосы.', 'And I read that hair is needed.', [(59, 'читала, что волосы надо')], 'adapted'),
+    ('nastya', 'А я читала, нужны волосы.', 'And I read that hair is needed.', [(59, 'читала, что волосы надо')], 'adapted'),
     ('guest', 'Нет, для анализа нужна слюна.', 'No, saliva is needed for the test.', [(60, 'Нет, там слюна')], 'adapted'),
 ]
 
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Each family member secretly resolves to collect their own DNA sample, while back at the hotel Mikhail continues spinning his tale to Malouda. See you in the next scene.'
-CLOSING = ('guest', 'Подождите, кто пришёл домой?')
+OUTRO = 'Each family member secretly resolves to collect their own DNA sample, while back at the hotel Mikhail continues spinning his tale to Malouda. See you next time!'
+CLOSING = ("guest", "До свидания!")

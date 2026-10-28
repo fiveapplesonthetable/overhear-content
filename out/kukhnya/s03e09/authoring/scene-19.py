@@ -1,26 +1,26 @@
 ID = 'kukhnya-s03e09-scene-19'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 9
 SCENE = 19
 TITLE = "Признание Кости и тайна Кати  (Kostya's Confession and Katya's Secret)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja', 'katya': 'angelina'}
-LABELS = {'anya': 'Костя', 'vika': 'Вика', 'katya': 'Катя'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.09"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "kostya": "anja", "vika": "angelina"}
+LABELS = {"kostya": "Костя", "vika": "Вика"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.09'
 SOURCE_FILE = 'sources/kukhnya/s03/e09.ru.srt'
 
 INTRO = 'Kostya climbs out from under the desk, confesses the truth to Nastya, resigns from the meatpacking plant, and promises to earn their wedding money honestly. Back at Claude Monet, Vika confronts Katya with news from Paris.'
 
 STORY = [
-    ('anya', 'Настя, прости меня, я тебе врал.', 'Nastya, forgive me, I was lying to you.', [(289, 'Настя, прости меня, я тебе врал')], 'adapted'),
-    ('anya', 'На самом деле я работаю у папы.', 'In reality I have been working for your dad.', [(290, 'На самом деле я работаю у твоего папы')], 'adapted'),
-    ('anya', 'Точнее, я тут раньше работал.', 'Or rather, I used to work here.', [(291, 'Точнее работал')], 'adapted'),
-    ('anya', 'Я больше не смогу у вас работать.', 'I will no longer be able to work for you.', [(292, 'я больше не смогу у вас работать')], 'adapted'),
-    ('anya', 'Потому что Настя против такой работы.', 'Because Nastya is against this kind of work.', [(293, 'потому что я знаю, что Настя')], 'adapted'),
-    ('anya', 'И денег нам занимать не нужно.', 'And there is no need to lend us money.', [(294, 'И денег нам занимать не нужно')], 'adapted'),
-    ('anya', 'Я обязательно сам их заработаю.', 'I will definitely earn it myself.', [(295, 'Я сам их заработаю')], 'adapted'),
+    ('kostya', 'Настя, прости меня, я тебе врал.', 'Nastya, forgive me, I was lying to you.', [(289, 'Настя, прости меня, я тебе врал')], 'adapted'),
+    ('kostya', 'На самом деле я работаю у папы.', 'In reality I have been working for your dad.', [(290, 'На самом деле я работаю у твоего папы')], 'adapted'),
+    ('kostya', 'Точнее, я тут раньше работал.', 'Or rather, I used to work here.', [(291, 'Точнее работал')], 'adapted'),
+    ('kostya', 'Я больше не смогу у вас работать.', 'I will no longer be able to work for you.', [(292, 'я больше не смогу у вас работать')], 'adapted'),
+    ('kostya', 'Потому что Настя против такой работы.', 'Because Nastya is against this kind of work.', [(293, 'потому что я знаю, что Настя')], 'adapted'),
+    ('kostya', 'И денег нам занимать не нужно.', 'And there is no need to lend us money.', [(294, 'И денег нам занимать не нужно')], 'adapted'),
+    ('kostya', 'Я обязательно сам их заработаю.', 'I will definitely earn it myself.', [(295, 'Я сам их заработаю')], 'adapted'),
     ('vika', 'Катя, можешь уже не приносить диплом.', 'Katya, you do not need to bring your diploma anymore.', [(299, 'Катя, можешь не приносить')], 'adapted'),
     ('vika', 'Я сделала официальный запрос в Париж.', 'I sent an official inquiry to Paris.', [(300, 'я сделала запрос в Париж')], 'adapted'),
     ('vika', 'Мне ответили, что тебя оттуда отчислили.', 'They replied to me that you were expelled from there.', [(300, 'и мне ответили, что тебя отчислили')], 'adapted'),
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Kostya clears his conscience with Nastya, while Katya is left facing the truth that Vika knows she was expelled from the Paris culinary academy. Now let us hear the final scene of the episode.'
-CLOSING = ('vika', 'Ты захочешь сказать это сама.')
+OUTRO = 'Kostya clears his conscience with Nastya, while Katya is left facing the truth that Vika knows she was expelled from the Paris culinary academy. Until next time!'
+CLOSING = ("vika", "Пока!")

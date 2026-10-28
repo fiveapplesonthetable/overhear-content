@@ -10,9 +10,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Там сложная формула. | There is a complex formula there. | #46 00:04:42: Там сложная формула | verbatim |
-| 2 | Аня | У нас появился ещё один шутник. | We have got ourselves another prankster. | #47 00:04:46: У нас появился еще один шутник | verbatim |
-| 3 | Аня | Хочешь войны? Будет тебе торпеда в борт. | Do you want war? You will get a torpedo to the hull. | #48 00:04:49: Хочешь войны? Будет тебе торпеда в борт | verbatim |
+| 1 | Шеф | Там сложная формула. | There is a complex formula there. | #46 00:04:42: Там сложная формула | verbatim |
+| 2 | Шеф | У нас появился ещё один шутник. | We have got ourselves another prankster. | #47 00:04:46: У нас появился еще один шутник | verbatim |
+| 3 | Шеф | Хочешь войны? Будет тебе торпеда в борт. | Do you want war? You will get a torpedo to the hull. | #48 00:04:49: Хочешь войны? Будет тебе торпеда в борт | verbatim |
 | 4 | Сеня | Сеня, ну не надо. | Senya, come on, don't. | #49 00:04:53: Сеня, ну не надо | verbatim |
 | 5 | Шеф | Алло, как дела? | Hello, how are things? | #50 00:04:56: Как дела<br>#56 00:05:14: Алло | adapted: adapted |
 | 6 | Шеф | Особо ничего. | Nothing special. | #51 00:05:00: Особо ничего | verbatim |

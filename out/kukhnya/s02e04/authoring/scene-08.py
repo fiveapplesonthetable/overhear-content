@@ -1,32 +1,32 @@
-ID = "kukhnya-s02e04-scene-08"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e04-scene-08'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 4
 SCENE = 8
-TITLE = 'Запутанные чувства  (Tangled Feelings)'
+TITLE = "Запутанные чувства  (Tangled Feelings)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja', 'nastya': 'angelina'}
-LABELS = {'anya': 'Шеф', 'vika': 'Вика', 'nastya': 'Настя'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.04"
-SOURCE_FILE = "sources/kukhnya/s02/e04.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "nastya": "angelina", "chef": "anja"}
+LABELS = {"nastya": "Настя", "chef": "Шеф"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.04'
+SOURCE_FILE = 'sources/kukhnya/s02/e04.ru.srt'
 
 INTRO = "Still in Vika's apartment, Max stumbles through an awkward argument about whether they have any future left together. When Vika tells him to leave, Max admits he does not want to go, and their heated confrontation suddenly turns into a passionate reconciliation."
 
 STORY = [
-    ('anya', 'И все.', 'And that is all.', [(127, 'И все')], ''),
-    ('vika', 'Значит, хорошо?', 'So that is good?', [(127, 'Значит, хорошо')], ''),
+    ('chef', 'И все.', 'And that is all.', [(127, 'И все')], ''),
+    ('nastya', 'Значит, хорошо?', 'So that is good?', [(127, 'Значит, хорошо')], ''),
     ('nastya', 'Ну, то, что ты с ним.', 'Well, the fact that you are with him.', [(128, 'Ну, то, что ты с ним')], ''),
-    ('anya', 'Что хорошо?', 'What is good about it?', [(128, 'Что хорошо')], ''),
-    ('vika', 'Ну, в смысле, не с ним, а я.', 'Well, I mean not with him, but me.', [(129, 'Ну, в смысле, не с ним, а я')], ''),
+    ('chef', 'Что хорошо?', 'What is good about it?', [(128, 'Что хорошо')], ''),
+    ('nastya', 'Ну, в смысле, не с ним, а я.', 'Well, I mean not with him, but me.', [(129, 'Ну, в смысле, не с ним, а я')], ''),
     ('nastya', 'Черт, как все запуталось.', 'Damn, how complicated everything has become.', [(130, 'Черт, как все запуталось')], ''),
-    ('anya', 'Вика, что нам делать?', 'Vika, what should we do?', [(131, 'Вика, что нам делать')], ''),
-    ('vika', 'Нет никаких нас.', "There is no 'us'.", [(131, 'Нет никаких нас')], ''),
+    ('chef', 'Вика, что нам делать?', 'Vika, what should we do?', [(131, 'Вика, что нам делать')], ''),
+    ('nastya', 'Нет никаких нас.', "There is no 'us'.", [(131, 'Нет никаких нас')], ''),
     ('nastya', 'Есть я и ты.', 'There is only you and me.', [(132, 'Есть я и ты')], ''),
-    ('anya', 'Я хочу, чтобы ты ушел.', 'I want you to leave.', [(133, 'Я хочу, чтобы ты ушел')], ''),
-    ('vika', 'Подожди, я не хочу, чтобы не уходил.', 'Wait, I do not want to leave.', [(134, 'Подожди, я не хочу, чтобы не уходил')], ''),
+    ('chef', 'Я хочу, чтобы ты ушел.', 'I want you to leave.', [(133, 'Я хочу, чтобы ты ушел')], ''),
+    ('nastya', 'Подожди, я не хочу, чтобы не уходил.', 'Wait, I do not want to leave.', [(134, 'Подожди, я не хочу, чтобы не уходил')], ''),
     ('nastya', 'Если я скажу нет, ты уйдешь?', 'If I say no, will you leave?', [(137, 'Если я скажу нет, ты уйдешь')], ''),
-    ('anya', 'Я серьезно.', 'I am serious.', [(143, 'Я серьезно')], ''),
+    ('chef', 'Я серьезно.', 'I am serious.', [(143, 'Я серьезно')], ''),
 ]
 
 OPENER = "Now let's go back through the conversation line by line."
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the whole conversation once more from start to finish."
-
-OUTRO = 'When you watch Scene 8 of Episode 4, listen out for the exchange around tangled feelings — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('anya', 'Я серьезно.')
+OUTRO = 'That wraps up this scene as max and Vika argue intensely in her apartment over their breakup before giving in to a passionate kiss when she challenges him to stay. See you next time!'
+CLOSING = ("chef", "Пока!")

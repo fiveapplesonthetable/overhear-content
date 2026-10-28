@@ -27,7 +27,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'That football player from yesterday just arrived.' Spoken Russian keeps this brisk, leaning on 'there' and finishing on 'came'. Chef Viktor answers right away.
-- 'Do not be afraid.' Notice the reflexive suffix on the verb meaning 'be afraid', turning the action back on the subject.
+- 'Do not be afraid.' Spoken Russian keeps this brief and expressive, built right around 'be afraid' without extra helper words.
 - 'Thank you for warning me.' Vika anchors the line on 'thank you', while 'warned' completes the thought.
 - 'Chef, I hope you are not planning to poison him again?' Notice how Russian expresses 'chef' and 'him' with crisp inflection rather than helper words. Chef Viktor answers right away.
 - 'Lyova, I beg of you.' The grammar packs 'Lev' and 'I beg' into a tight, idiomatic kitchen exchange.

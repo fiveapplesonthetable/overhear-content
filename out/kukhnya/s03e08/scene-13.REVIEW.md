@@ -12,11 +12,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 |---|---|---|---|---|---|
 | 1 | Аня | Подожди, ты что, в новую квартиру переехала? | Wait, did you move to a new apartment? | #205 00:13:36: Ты переехала | adapted: adapted |
 | 2 | Вика | Нет, я просто к подруге в гости пришла. | No, I just came to visit a friend. | #206 00:13:49: Нет, в гости пришла | adapted: adapted |
-| 3 | Нагиев | Дорогая, чего-то я уже скучать начал. | Darling, for some reason I already started missing you. | #208 00:13:53: я скучать начал | adapted: adapted |
-| 4 | Нагиев | О, привет, молодец, что зашёл, мы прямо скучали! | Oh, hi, good job dropping by, we really missed you! | #210 00:13:58: Привет. Молодец, что зашел, прямо скучали | adapted: adapted |
+| 3 | Вика | Дорогая, чего-то я уже скучать начал. | Darling, for some reason I already started missing you. | #208 00:13:53: я скучать начал | adapted: adapted |
+| 4 | Вика | О, привет, молодец, что зашёл, мы прямо скучали! | Oh, hi, good job dropping by, we really missed you! | #210 00:13:58: Привет. Молодец, что зашел, прямо скучали | adapted: adapted |
 | 5 | Аня | Всё с тобой понятно, значит, в гости пришла. | Everything is clear with you, so you came for a visit. | #211 00:14:02: Понятно. В гости | adapted: adapted |
 | 6 | Аня | Дмитрий Владимирович, можно мне с Викторией Сергеевной поговорить по работе? | Dmitry Vladimirovich, may I speak with Victoria Sergeyevna about work? | #212 00:14:05: Дмитрий Владимирович, можно мне с Викторией Сергеевной поговорить | adapted: adapted |
-| 7 | Нагиев | Дима, скажи, у вас там всё в порядке? | Dima, tell me, is everything alright with you out there? | #214 00:14:11: Дима, все в порядке | adapted: adapted |
+| 7 | Вика | Дима, скажи, у вас там всё в порядке? | Dima, tell me, is everything alright with you out there? | #214 00:14:11: Дима, все в порядке | adapted: adapted |
 | 8 | Вика | Макс, может, тебе правда надо уволиться? | Max, maybe you really should quit? | #217 00:14:25: уволиться | adapted: adapted |
 | 9 | Аня | Да, похоже, именно так будет лучше всем. | Yes, it seems that way will be better for everyone. | #218 00:14:28: Похоже, так будет лучше | adapted: adapted |
 | 10 | Вика | И что ты теперь делать будешь? | And what are you going to do now? | #219 00:14:30: Что делать будешь | adapted: adapted |

@@ -10,9 +10,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Мы приготовим всё в лучшем виде. | We will prepare everything in the best possible way. | #31 00:03:22: Приготовим все в лучшем виде | adapted: adapted |
+| 1 | Федя | Мы приготовим всё в лучшем виде. | We will prepare everything in the best possible way. | #31 00:03:22: Приготовим все в лучшем виде | adapted: adapted |
 | 2 | Сеня | Да, шеф, я внимательно вас слушаю. | Yes, chef, I am listening to you attentively. | #32 00:03:27: Сеня. Да, да, шеф | adapted: adapted |
-| 3 | Аня | Приготовь сегодня на обед сочные стейки. | Prepare juicy steaks for lunch today. | #33 00:03:34: Приготовь на обед | adapted: adapted |
+| 3 | Федя | Приготовь сегодня на обед сочные стейки. | Prepare juicy steaks for lunch today. | #33 00:03:34: Приготовь на обед | adapted: adapted |
 | 4 | Сеня | Не волнуйтесь, всё скоро будет сделано. | Do not worry, everything will be done soon. | #34 00:03:36: Будь сделано | adapted: adapted |
 | 5 | Сеня | А у нас сегодня отличный ужин. | And we have a great dinner tonight. | #35 00:03:41: на ужин | adapted: adapted |
 | 6 | Федя | Посмотри, какой большой кусок хорошего мяса. | Look what a big piece of good meat. | #36 00:03:43: стейк | adapted: adapted |

@@ -1,39 +1,39 @@
-# kukhnya-s01e20-scene-01: review sheet
+# Утро после  (The Morning After) — `kukhnya-s01e20-scene-01`
 
-Title: Утро после  (The Morning After)
-Level: A1 — Duolingo Section 2
-Pair: ru-en
-Source: Кухня (Kukhnya) S1.20
-Scene 1
+**Source:** Кухня (Kukhnya) S1.20 · `sources/kukhnya/s01/e20.ru.dual.srt`  
+**Target level:** A1 — Duolingo Section 2
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+## Cast
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+| Role | Voice | Label |
+|---|---|---|
+| `narrator` | sky | — |
+| `vika` | angelina | Вика |
+| `anya` | alisa | Макс |
+
+## Part 1 — Intro
+
+> Vika prepares coffee in the morning while Max searches for his old watch. Max does not realize it is Vika's birthday. Let's listen closely to their exchange in Russian first, and then walk through each line together.
+
+## Part 2 — Story
+
+| # | Speaker | Line | English | Source cue(s) | Change |
 |---|---|---|---|---|---|
-| 1 | Вика | Я не буду отмечать день рождения. | I will not celebrate my birthday. | #32 00:01:52: не буду я отмечать | adapted: adapted |
-| 2 | Вика | И дарить мне ничего не надо. | And there is no need to gift me anything. | #34 00:01:56: дарить ничего не надо | adapted: adapted |
-| 3 | Вика | Может, мы просто посидим с Максом. | Maybe we will just sit with Max. | #36 00:02:00: с Максом просто посидим | adapted: adapted |
-| 4 | Макс | Я даже не знал про праздник. | I did not even know about the holiday. | new | new: new |
-| 5 | Макс | Я только проснулся. | I just woke up. | #39 00:02:10: проснулся | adapted: adapted |
-| 6 | Вика | А я уже кофе сварила. | And I already brewed coffee. | #41 00:02:13: кофе сварила | adapted: adapted |
-| 7 | Макс | Доброе утро, спасибо за кофе. | Good morning, thank you for the coffee. | #42 00:02:15: Доброе утро | adapted: adapted |
-| 8 | Макс | А ты часы мои не видела? | And have you not seen my watch? | #43 00:02:17: часы мои не видела | adapted: adapted |
-| 9 | Вика | А, ты вот про эти часы? | Ah, you mean this watch? | #44 00:02:19: ты вот про эти | adapted: adapted |
-| 10 | Вика | Может, тебе купить новые? | Maybe buy you a new one? | #45 00:02:24: тебе новые купить | adapted: adapted |
-| 11 | Вика | Эти часы уже еле ходят. | This watch already barely works. | #45 00:02:24: уже еле ходят | adapted: adapted |
-| 12 | Макс | Нет, это мой дедовский антиквариат. | No, this is my grandfather's antique. | #46 00:02:26: дедовский антиквариат | adapted: adapted |
+| 0 | Вика | Я не буду отмечать день рождения. | I will not celebrate my birthday. | #32 "не буду я отмечать" |  |
+| 1 | Вика | И дарить мне ничего не надо. | And there is no need to gift me anything. | #34 "дарить ничего не надо" |  |
+| 2 | Вика | Может, мы просто посидим с Максом. | Maybe we will just sit with Max. | #36 "с Максом просто посидим" |  |
+| 3 | Макс | Я даже не знал про праздник. | I did not even know about the holiday. | *(added)* |  |
+| 4 | Макс | Я только проснулся. | I just woke up. | #39 "проснулся" |  |
+| 5 | Вика | А я уже кофе сварила. | And I already brewed coffee. | #41 "кофе сварила" |  |
+| 6 | Макс | Доброе утро, спасибо за кофе. | Good morning, thank you for the coffee. | #42 "Доброе утро" |  |
+| 7 | Макс | А ты часы мои не видела? | And have you not seen my watch? | #43 "часы мои не видела" |  |
+| 8 | Вика | А, ты вот про эти часы? | Ah, you mean this watch? | #44 "ты вот про эти" |  |
+| 9 | Вика | Может, тебе купить новые? | Maybe buy you a new one? | #45 "тебе новые купить" |  |
+| 10 | Вика | Эти часы уже еле ходят. | This watch already barely works. | #45 "уже еле ходят" |  |
+| 11 | Макс | Нет, это мой дедовский антиквариат. | No, this is my grandfather's antique. | #46 "дедовский антиквариат" |  |
 
-## Walk-through narration (English only, no target-language words quoted)
+## Part 5 — Outro & closing
 
-- 'I will not celebrate my birthday.' The little negative word sits right in front of the verb for 'will be', just like 'not' in English.
-- 'And there is no need to gift me anything.' Vika chooses the imperfective verb meaning 'to gift' for the ongoing action, followed by 'it is necessary'.
-- 'Maybe we will just sit with Max.' Vika chooses the imperfective verb meaning 'can' for the ongoing action, followed by 'just' and 'we'll sit for a while'.
-- 'I did not even know about the holiday.' Max chooses the imperfective verb meaning 'knew' for the ongoing action, followed by 'holiday'.
-- 'I just woke up.' Max puts the word for 'only' together with 'wake up' in a crisp, natural spoken turn of phrase.
-- 'And I already brewed coffee.' Here Vika anchors the line on the word meaning 'already' and builds the thought around 'of coffee' and 'to cook'.
-- 'Good morning, thank you for the coffee.' Russian omits the present-tense verb 'to be' here, linking 'good' directly with 'morning', combining 'good' with 'morning' and 'thank you'.
-- 'And have you not seen my watch?' The '-a' on the end of the past-tense verb for 'saw' tells you the subject is feminine. And Vika jumps in.
-- 'Ah, you mean this watch?' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'you' straight to 'watch'.
-- 'Maybe buy you a new one?' Vika turns a statement into a question purely through rising intonation on the word meaning 'can', pairing it with 'buy' and 'new'.
-- 'This watch already barely works.' The phrasing opens with 'watch' before bringing in 'already' and 'barely' to make the point clear.
-- 'No, this is my grandfather's antique.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'this' straight to 'antiques'.
+> Max remains completely unaware of Vika's special day, focusing only on his broken antique watch. Next time you watch the episode, listen for the Russian expressions for 'to be' and 'celebrate' — you will catch every word right away. See you next time!
+
+**Макс:** Пока!

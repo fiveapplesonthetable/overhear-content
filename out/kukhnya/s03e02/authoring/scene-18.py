@@ -1,20 +1,20 @@
 ID = 'kukhnya-s03e02-scene-18'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 2
 SCENE = 18
 TITLE = "Чужой столик  (Someone Else's Table)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'ilya': 'anja', 'sasha': 'angelina'}
-LABELS = {'anya': 'Макс', 'ilya': 'Илья', 'sasha': 'Саша'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.02"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "ilya": "anja"}
+LABELS = {"anya": "Макс", "ilya": "Илья"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.02'
 SOURCE_FILE = 'sources/kukhnya/s03/e02.ru.srt'
 
 INTRO = "When Ilya's fake guest arrives in a hurry, Max starts taking his order—but remembering the waiters' code, he hands the table over to waitress Sasha instead."
 
 STORY = [
-    ('sasha', 'Макс, позови Илью, к нему постоянный гость пришёл.', 'Max, call Ilya, a regular guest of his has arrived.', [(257, 'Макс'), (258, 'Позови Илью, к нему постоянный гость пришел')], 'adapted'),
+    ('ilya', 'Макс, позови Илью, к нему постоянный гость пришёл.', 'Max, call Ilya, a regular guest of his has arrived.', [(257, 'Макс'), (258, 'Позови Илью, к нему постоянный гость пришел')], 'adapted'),
     ('anya', 'Да, конечно.', 'Yes, of course.', [(259, 'Да, конечно')], ''),
     ('anya', 'Добрый день. Знаете, Ильи сегодня нет.', 'Good afternoon. You know, Ilya is not here today.', [(260, 'Добрый день. Знаете, Ильи сегодня')], 'adapted'),
     ('anya', 'Могу я чем-то помочь?', 'Can I help you with something?', [(261, 'Могу я чем-то помочь')], ''),
@@ -25,7 +25,7 @@ STORY = [
     ('ilya', 'Да так, вышел подышать.', 'Oh nothing, I stepped out to get some air.', [(265, 'Да так вышел подышать')], ''),
     ('ilya', 'Макс, чего ты твой столик не забрал?', "Max, why didn't you take your table?", [(266, 'Макс, чего-то твой столик не забрал')], 'adapted'),
     ('anya', 'Это столик Ильи. Передай ему заказ.', "That is Ilya's table. Pass the order to him.", [(269, 'это столик Ильи'), (270, 'передай ему заказ')], 'adapted'),
-    ('sasha', 'Да я вынесла заказ, принесла счёт, он просто торопился.', 'I brought out the order and brought the bill, he was just in a hurry.', [(271, 'Да я вынесла заказ, принесла счет, он просто торопился')], ''),
+    ('ilya', 'Да я вынесла заказ, принесла счёт, он просто торопился.', 'I brought out the order and brought the bill, he was just in a hurry.', [(271, 'Да я вынесла заказ, принесла счет, он просто торопился')], ''),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "That brings Scene Eighteen to a close. Notice Ilya's horror when he realizes that Sasha, not Max, served his accomplice and brought the bill folder."
-CLOSING = ('anya', 'Это же столик Ильи!')
+OUTRO = "That brings Scene Eighteen to a close. Notice Ilya's horror when he realizes that Sasha, not Max, served his accomplice and brought the bill folder. See you next time!"
+CLOSING = ("anya", "Всего хорошего!")

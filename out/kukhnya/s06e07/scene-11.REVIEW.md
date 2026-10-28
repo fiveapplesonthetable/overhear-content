@@ -15,17 +15,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 3 | Айнура | Очень жалко, что он скоро умрёт. | It is a great pity that he will die soon. | #194 00:11:46: Жалко, что скоро умрет | adapted: adapted |
 | 4 | Айнура | Послушай сейчас мой добрый тебе совет. | Listen to my good advice for you right now. | #195 00:11:48: Мой тебе совет | adapted: adapted |
 | 5 | Айнура | Потом тебе будет намного тяжелее. | Later on it will be much harder for you. | #197 00:11:52: А потом тяжелее будет тебе | adapted: adapted |
-| 6 | Елена | Витя, я решила главврача Аню отблагодарить. | Vitya, I decided to thank chief doctor Anya. | #198 00:11:57: я решила Аню, главврача, отблагодарить | adapted: adapted |
-| 7 | Елена | Они с мужем могут у тебя пообедать. | She and her husband can have lunch at your place. | #199 00:12:02: Сказала, что они с мужем могут у тебя пообедать | adapted: adapted |
-| 8 | Елена | Покормишь их сегодня чем-нибудь вкусным? | Will you feed them something delicious today? | #200 00:12:04: Покормишь их вкусно | adapted: adapted |
-| 9 | Аня | Конечно, хорошо, пусть они приходят. | Of course, fine, let them come. | #201 00:12:06: Конечно. Хорошо, пусть приходят | adapted: adapted |
-| 10 | Аня | Только я сам встретить их не смогу. | Only I will not be able to greet them myself. | #202 00:12:09: Только я сам встретиться не смогу | adapted: adapted |
-| 11 | Аня | Мне через час нужно срочно отъехать. | I need to leave urgently in an hour. | #203 00:12:11: Мне через час нужно отъехать | adapted: adapted |
-| 12 | Елена | Иди встречай Аню, они уже пришли! | Go greet Anya, they have already arrived! | #205 00:12:17: Иди, встречай Аню, они уже пришли | adapted: adapted |
+| 6 | Айнура | Витя, я решила главврача Аню отблагодарить. | Vitya, I decided to thank chief doctor Anya. | #198 00:11:57: я решила Аню, главврача, отблагодарить | adapted: adapted |
+| 7 | Айнура | Они с мужем могут у тебя пообедать. | She and her husband can have lunch at your place. | #199 00:12:02: Сказала, что они с мужем могут у тебя пообедать | adapted: adapted |
+| 8 | Айнура | Покормишь их сегодня чем-нибудь вкусным? | Will you feed them something delicious today? | #200 00:12:04: Покормишь их вкусно | adapted: adapted |
+| 9 | Шеф | Конечно, хорошо, пусть они приходят. | Of course, fine, let them come. | #201 00:12:06: Конечно. Хорошо, пусть приходят | adapted: adapted |
+| 10 | Шеф | Только я сам встретить их не смогу. | Only I will not be able to greet them myself. | #202 00:12:09: Только я сам встретиться не смогу | adapted: adapted |
+| 11 | Шеф | Мне через час нужно срочно отъехать. | I need to leave urgently in an hour. | #203 00:12:11: Мне через час нужно отъехать | adapted: adapted |
+| 12 | Айнура | Иди встречай Аню, они уже пришли! | Go greet Anya, they have already arrived! | #205 00:12:17: Иди, встречай Аню, они уже пришли | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'He simply does not want to complain to you.' Notice the reflexive suffix on the verb meaning 'to complain', turning the action back on the subject.
+- 'He simply does not want to complain to you.' In everyday Russian, 'simply' flows straight into 'wants' without extra linking words.
 - 'He would have made a very good husband.' Notice how Russian expresses 'from' and 'husband' with crisp inflection rather than helper words.
 - 'It is a great pity that he will die soon.' Spoken Russian keeps this brisk, leaning on 'very' and finishing on 'will die'.
 - 'Listen to my good advice for you right now.' The meaning hinges on 'listen' working together with 'advice' in spoken Russian.

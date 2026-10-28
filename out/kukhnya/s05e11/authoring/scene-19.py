@@ -1,14 +1,14 @@
 ID = 'kukhnya-s05e11-scene-19'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 11
 SCENE = 19
 TITLE = "Обман деда раскрыт  (Grandpa's Trick Is Exposed)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja'}
-LABELS = {'anya': 'Макс', 'vika': 'Вика'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.11"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "vika": "angelina", "anya": "alisa"}
+LABELS = {"vika": "Вика", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.11'
 SOURCE_FILE = 'sources/kukhnya/s05/e11.ru.srt'
 
 INTRO = "At the bar, Vika gently pulls Max aside to break the sad news that his grandmother has only two months left to live. When Max blurts out 'Grandma too?!', the two of them realize that the sly grandfather told each of them a different lie just to drink and eat meat."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "And that finishes the revelation at the bar. Listen for Vika's dry joke that now she knows who Max takes after as they head upstairs to confront his grandfather. See you in the next scene."
-CLOSING = ('anya', 'Нам надо серьёзно поговорить!')
+OUTRO = "And that finishes the revelation at the bar. Listen for Vika's dry joke that now she knows who Max takes after as they head upstairs to confront his grandfather. Until next time!"
+CLOSING = ("anya", "Всего хорошего!")

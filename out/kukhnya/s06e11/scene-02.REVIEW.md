@@ -13,15 +13,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 1 | Михаил | Виктор, внимание, к нам сейчас едет Дягилев. | Viktor, attention, Dyagilev is on his way to us right now. | #26 00:01:31: К нам едет Дягилев | adapted: adapted |
 | 2 | Михаил | У него здесь сегодня назначена важная встреча. | He has an important meeting scheduled here today. | #27 00:01:33: У него здесь встреча | adapted: adapted |
 | 3 | Михаил | Мне об этом мой надёжный человек сообщил. | My reliable contact informed me about this. | #28 00:01:35: Мой человек сообщил. Надежный | adapted: adapted |
-| 4 | Аня | Доброе утро, твой человек надёжный, но очень медленный. | Good morning, your contact is reliable, but very slow. | #30 00:01:40: Доброе утро. Надежный, но очень медленный | adapted: adapted |
-| 5 | Аня | Потому что он уже давно сидит здесь. | Because he has been sitting here for a long time already. | #31 00:01:42: Он уже давно здесь | adapted: adapted |
+| 4 | Михаил | Доброе утро, твой человек надёжный, но очень медленный. | Good morning, your contact is reliable, but very slow. | #30 00:01:40: Доброе утро. Надежный, но очень медленный | adapted: adapted |
+| 5 | Михаил | Потому что он уже давно сидит здесь. | Because he has been sitting here for a long time already. | #31 00:01:42: Он уже давно здесь | adapted: adapted |
 | 6 | Элеонора | Так на чём мы с тобой остановились? | So where did you and I leave off? | #33 00:01:45: Так на чем мы остановились | adapted: adapted |
 | 7 | Михаил | Мы с тобой говорили о моём Никите. | You and I were talking about my Nikita. | #34 00:01:47: Мы говорили о Никите | adapted: adapted |
 | 8 | Элеонора | Знаешь, он очень хорошо справляется с работой. | You know, he is handling the job very well. | #35 00:01:49: Знаешь, он очень хорошо | adapted: adapted |
 | 9 | Михаил | Это хорошо, ведь мне он ничего не рассказывает. | That is good, because he tells me nothing at all. | #36 00:01:51: Вот хорошо, потому что у меня он совсем ничего не рассказывает | adapted: adapted |
 | 10 | Элеонора | Я тебя понимаю, у меня дочь такого же возраста. | I understand you, I have a daughter of the same age. | #37 00:01:54: Я тебя очень хорошо понимаю. У меня ведь тоже дочь такого же возраста | adapted: adapted |
 | 11 | Элеонора | И ты знаешь, из неё слова не вытянешь. | And you know, you cannot get a word out of her. | #38 00:01:57: Ты знаешь, из нее слова не вытянешь | adapted: adapted |
-| 12 | Аня | Добро пожаловать в наш ресторан, дорогой гость! | Welcome to our restaurant, dear guest! | #39 00:02:03: Добро пожаловать | adapted: adapted |
+| 12 | Михаил | Добро пожаловать в наш ресторан, дорогой гость! | Welcome to our restaurant, dear guest! | #39 00:02:03: Добро пожаловать | adapted: adapted |
 | 13 | Михаил | Слушай, я не знал, что у тебя есть дочь. | Listen, I did not know that you have a daughter. | #41 00:02:09: Слушай, я не знал, что у тебя есть дочь | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)

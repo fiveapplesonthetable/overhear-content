@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Гость | Я сейчас ставлю на кон всё. | I am betting everything on the line right now. | #178 00:13:05: Ставлю все | adapted: adapted |
-| 2 | Аня | А я сейчас рисковать не буду. | And I am not going to take a risk right now. | #178 00:13:05: А я рисковать не буду | adapted: adapted |
-| 3 | Аня | Я в этот раз просто пасую. | I simply pass this time. | #179 00:13:09: Пас | adapted: adapted |
-| 4 | Гость | Давайте уже быстро открывать наши карты. | Let us quickly show our cards already. | #182 00:13:41: давайте вскрываться | adapted: adapted |
-| 5 | Аня | Подождите секундочку, пожалуйста, не торопитесь так. | Wait a second, please, do not rush like that. | #183 00:13:48: Секундочку<br>#184 00:13:50: не торопись | adapted: adapted |
-| 6 | Аня | Ты здесь за столом не один. | You are not alone here at the table. | #185 00:13:54: Ты здесь не один | adapted: adapted |
-| 7 | Аня | Вот так, у него старшая карта. | Just like that, he has the higher hand. | #187 00:14:00: Вот так | adapted: adapted |
-| 8 | Аня | Да не расстраивайтесь вы так сильно. | Do not get so terribly upset. | #188 00:14:02: Да не расстраивайтесь так | adapted: adapted |
-| 9 | Аня | В конце концов, это только игра. | After all, this is only a game. | #188 00:14:02: В конце концов, это ведь только игра | adapted: adapted |
-| 10 | Аня | Предлагаю вам немного успокоить свои нервы. | I suggest you calm your nerves a little. | #189 00:14:06: Предлагаю немножко полечить | adapted: adapted |
-| 11 | Гость | Вы должны дать мне возможность отыграться. | You must give me a chance to win it back. | #190 00:14:16: дать мне возможность отыграться | adapted: adapted |
-| 12 | Аня | Но вы ведь уже всё проиграли. | But you have already lost everything. | #191 00:14:20: вы ведь все уже проиграли | adapted: adapted |
-| 13 | Гость | У меня ещё кое-что ценное осталось. | I still have something valuable left. | #192 00:14:24: у меня кое-что еще осталось | adapted: adapted |
+| 1 | Михаил | Я сейчас ставлю на кон всё. | I am betting everything on the line right now. | #178 00:13:05: Ставлю все | adapted: adapted |
+| 2 | Михаил | А я сейчас рисковать не буду. | And I am not going to take a risk right now. | #178 00:13:05: А я рисковать не буду | adapted: adapted |
+| 3 | Михаил | Я в этот раз просто пасую. | I simply pass this time. | #179 00:13:09: Пас | adapted: adapted |
+| 4 | Михаил | Давайте уже быстро открывать наши карты. | Let us quickly show our cards already. | #182 00:13:41: давайте вскрываться | adapted: adapted |
+| 5 | Михаил | Подождите секундочку, пожалуйста, не торопитесь так. | Wait a second, please, do not rush like that. | #183 00:13:48: Секундочку<br>#184 00:13:50: не торопись | adapted: adapted |
+| 6 | Михаил | Ты здесь за столом не один. | You are not alone here at the table. | #185 00:13:54: Ты здесь не один | adapted: adapted |
+| 7 | Михаил | Вот так, у него старшая карта. | Just like that, he has the higher hand. | #187 00:14:00: Вот так | adapted: adapted |
+| 8 | Михаил | Да не расстраивайтесь вы так сильно. | Do not get so terribly upset. | #188 00:14:02: Да не расстраивайтесь так | adapted: adapted |
+| 9 | Михаил | В конце концов, это только игра. | After all, this is only a game. | #188 00:14:02: В конце концов, это ведь только игра | adapted: adapted |
+| 10 | Михаил | Предлагаю вам немного успокоить свои нервы. | I suggest you calm your nerves a little. | #189 00:14:06: Предлагаю немножко полечить | adapted: adapted |
+| 11 | Михаил | Вы должны дать мне возможность отыграться. | You must give me a chance to win it back. | #190 00:14:16: дать мне возможность отыграться | adapted: adapted |
+| 12 | Михаил | Но вы ведь уже всё проиграли. | But you have already lost everything. | #191 00:14:20: вы ведь все уже проиграли | adapted: adapted |
+| 13 | Михаил | У меня ещё кое-что ценное осталось. | I still have something valuable left. | #192 00:14:24: у меня кое-что еще осталось | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -38,4 +38,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I suggest you calm your nerves a little.' Mikhail brings out the contrast between 'suggest' and 'you' in a few short words.
 - 'You must give me a chance to win it back.' the guest chooses the respectful plural 'you' alongside 'to tie the score' to keep a polite distance.
 - 'But you have already lost everything.' Mikhail brings out the contrast between 'but' and 'you' in a few short words. the guest answers right away.
-- 'I still have something valuable left.' Russian expresses 'having' with the preposition 'by' plus the genitive pronoun and 'remained'.
+- 'I still have something valuable left.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.

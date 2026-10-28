@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e15-scene-02'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 15
 SCENE = 2
 TITLE = "Кулинарный спор Нагиева  (Nagiyev's Culinary Bet)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'nagiyev': 'anja', 'guest': 'angelina'}
-LABELS = {'anya': 'Макс', 'nagiyev': 'Нагиев', 'guest': 'Гость'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.15"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "guest": "anja", "nagiyev": "angelina", "anya": "alisa"}
+LABELS = {"guest": "Гость", "nagiyev": "Нагиев", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.15'
 SOURCE_FILE = 'sources/kukhnya/s03/e15.ru.srt'
 
 INTRO = 'When the restaurateur claims that management is everything and any fool can cook, Nagiyev boasts about his army kitchen days and bets thirty thousand dollars that he can personally cook baked rabbit in almond sauce with truffles by tonight! Listen first.'
@@ -42,9 +42,9 @@ WALK = [
     (8, None, "'When you die, not a single germ will be left on you.' Spoken Russian keeps this brisk, leaning on 'when' and finishing on 'remains'."),
     (9, None, "'I hope I do not die from your dish!' An emphatic spoken line centered on the verb meaning 'hope'."),
     (10, None, "'I promise you, old pal, the dish will be excellent!' Notice how Russian expresses 'I' and 'excellent' with crisp inflection rather than helper words. the guest answers right away."),
-    (11, None, "'Great, then it is a deal, shake on it!' Notice the reflexive suffix on the verb meaning 'agreed', turning the action back on the subject."),
+    (11, None, "'Great, then it is a deal, shake on it!' Notice how Russian puts 'perfectly' and 'hand; arm' together in a short, direct phrase where word endings show how the ideas connect."),
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Nagiyev just shook hands on cooking a complex gourmet rabbit dish by tonight—without knowing the first thing about French cuisine! Next, let's visit Max, Kostya, and Nastya at home."
-CLOSING = ('nagiyev', 'Давай мы с тобой поспорим!')
+OUTRO = "Nagiyev just shook hands on cooking a complex gourmet rabbit dish by tonight—without knowing the first thing about French cuisine! Next, let's visit Max, Kostya, and Nastya at home. See you next time!"
+CLOSING = ("nagiyev", "Увидимся!")

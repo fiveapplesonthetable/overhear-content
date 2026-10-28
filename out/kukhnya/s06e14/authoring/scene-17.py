@@ -1,31 +1,31 @@
 ID = 'kukhnya-s06e14-scene-17'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 14
 SCENE = 17
-TITLE = 'Огненное возрождение  (Fiery Rebirth)'
+TITLE = "Огненное возрождение  (Fiery Rebirth)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'senya': 'anja', 'katya': 'angelina'}
-LABELS = {'anya': 'Шеф', 'senya': 'Сеня', 'katya': 'Катя'}
-SOURCE_NAME = "Кухня (Kukhnya) S6.14"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "senya": "angelina", "chef": "anja"}
+LABELS = {"senya": "Сеня", "chef": "Шеф"}
+SOURCE_NAME = 'Кухня (Kukhnya) S6.14'
 SOURCE_FILE = 'sources/kukhnya/s06/e14.ru.srt'
 
 INTRO = 'Chef Barinov orders everyone to lower their knives, but Senya accidentally drops a pan that ignites a huge flash of fire in front of Chef Barinov. Stunned by the flames, the Korean guests bow down to Chef Barinov as their reincarnated prophet, while on the roof the herbal tea hits Katya and Nastya!'
 
 STORY = [
-    ('anya', 'Немедленно успокойтесь и опустите все ножи!', 'Calm down immediately and lower all knives!', [(239, 'Успокойтесь'), (240, 'Ножи опустили')], 'adapted'),
+    ('chef', 'Немедленно успокойтесь и опустите все ножи!', 'Calm down immediately and lower all knives!', [(239, 'Успокойтесь'), (240, 'Ножи опустили')], 'adapted'),
     ('senya', 'Шеф, но ведь это даже не нож!', 'Chef, but this is not even a knife!', [(241, 'Сеня! Да это не нож')], 'adapted'),
-    ('anya', 'Я тебе ясно сказал, быстро брось!', 'I told you clearly, drop it quickly!', [(242, 'Я тебе сказал, брось')], 'adapted'),
-    ('anya', 'Скажите мне, что здесь сейчас происходит?', 'Tell me, what is happening here right now?', [(243, 'Что'), (244, 'происходит')], 'adapted'),
+    ('chef', 'Я тебе ясно сказал, быстро брось!', 'I told you clearly, drop it quickly!', [(242, 'Я тебе сказал, брось')], 'adapted'),
+    ('chef', 'Скажите мне, что здесь сейчас происходит?', 'Tell me, what is happening here right now?', [(243, 'Что'), (244, 'происходит')], 'adapted'),
     ('senya', 'Шеф, кажется, мы исполнили их пророчество.', 'Chef, it seems we fulfilled their prophecy.', [(244, 'Шеф, они походу исполнили их пророчества')], 'adapted'),
-    ('anya', 'Какое ещё пророчество мы тут исполнили?', 'What prophecy did we fulfill here?', [(245, 'Ага. Какое')], 'adapted'),
+    ('chef', 'Какое ещё пророчество мы тут исполнили?', 'What prophecy did we fulfill here?', [(245, 'Ага. Какое')], 'adapted'),
     ('senya', 'Дух возродился в вас из пламени.', 'The spirit was reborn in you from the flame.', [(246, 'возродился в вас из священного пламени')], 'adapted'),
     ('senya', 'Так что теперь вы их новый пророк.', 'So now you are their new prophet.', [(247, 'Теперь вы их пророк')], 'adapted'),
-    ('katya', 'Настя, ты почему свой чай не пьёшь?', 'Nastya, why are you not drinking your tea?', [(248, 'Настя, ты чего чая не пьешь')], 'adapted'),
-    ('katya', 'Не знаю, не нравится он мне.', 'I do not know, I do not like it.', [(249, 'Не знаю'), (250, 'Не нравится он мне')], 'adapted'),
-    ('katya', 'Ладно, мне уже пора идти работать.', 'Alright, it is time for me to go work already.', [(251, 'Ладно, работать надо')], 'adapted'),
-    ('katya', 'Настя, посмотри, что это там внизу?', 'Nastya, look, what is that down there?', [(252, 'Настя')], 'adapted'),
+    ('senya', 'Настя, ты почему свой чай не пьёшь?', 'Nastya, why are you not drinking your tea?', [(248, 'Настя, ты чего чая не пьешь')], 'adapted'),
+    ('senya', 'Не знаю, не нравится он мне.', 'I do not know, I do not like it.', [(249, 'Не знаю'), (250, 'Не нравится он мне')], 'adapted'),
+    ('senya', 'Ладно, мне уже пора идти работать.', 'Alright, it is time for me to go work already.', [(251, 'Ладно, работать надо')], 'adapted'),
+    ('senya', 'Настя, посмотри, что это там внизу?', 'Nastya, look, what is that down there?', [(252, 'Настя')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Under the influence of the strong Korean tea, Katya and Nastya begin experiencing vivid wedding hallucinations. See you in the next scene.'
-CLOSING = ('senya', 'Теперь вы их новый пророк.')
+OUTRO = 'Under the influence of the strong Korean tea, Katya and Nastya begin experiencing vivid wedding hallucinations. Until next time!'
+CLOSING = ("senya", "Пока!")

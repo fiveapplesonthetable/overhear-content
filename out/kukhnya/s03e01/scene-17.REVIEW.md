@@ -20,8 +20,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 8 | Гость | Давайте уже второй экземпляр. | Give me the second copy already. | #306 00:20:16: Давайте уже второй экземпляр | verbatim |
 | 9 | Настя | Папа, они хотят тебя обмануть! | Dad, they want to cheat you! | #308 00:20:33: тебя обмануть | adapted: adapted |
 | 10 | Гость | Ты что, беременна? | What, are you pregnant? | #310 00:20:40: Ты что, беременна | verbatim |
-| 11 | Аня | Да, она беременна, вы станете дедушкой! | Yes, she is pregnant, you will become a grandfather! | #311 00:20:46: Да. Она беременна, вы станете дедушкой | verbatim |
-| 12 | Аня | Мы скоро поженимся. Честное слово. | We are getting married soon. Word of honor. | #313 00:20:59: скоро поженимся<br>#314 00:21:03: Честное слово | adapted: adapted |
+| 11 | Гость | Да, она беременна, вы станете дедушкой! | Yes, she is pregnant, you will become a grandfather! | #311 00:20:46: Да. Она беременна, вы станете дедушкой | verbatim |
+| 12 | Гость | Мы скоро поженимся. Честное слово. | We are getting married soon. Word of honor. | #313 00:20:59: скоро поженимся<br>#314 00:21:03: Честное слово | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

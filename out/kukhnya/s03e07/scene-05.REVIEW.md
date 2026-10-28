@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Что же это такое, честное слово! | What on earth is this, honest word! | #55 00:02:52: честное слово | adapted: adapted |
-| 2 | Аня | Я прямо уже ничего не знаю. | I really do not know anything anymore. | #56 00:02:54: Я прям не знаю | adapted: adapted |
-| 3 | Аня | Ну что, тебе мало вчера было? | Well what, did you not have enough yesterday? | #57 00:02:56: тебе мало, что ли, вчера было | adapted: adapted |
-| 4 | Катя | Дима, пожалуйста, немедленно перестань! | Dima, please, stop immediately! | #58 00:02:58: Дима, перестань | adapted: adapted |
+| 1 | Шеф | Что же это такое, честное слово! | What on earth is this, honest word! | #55 00:02:52: честное слово | adapted: adapted |
+| 2 | Шеф | Я прямо уже ничего не знаю. | I really do not know anything anymore. | #56 00:02:54: Я прям не знаю | adapted: adapted |
+| 3 | Шеф | Ну что, тебе мало вчера было? | Well what, did you not have enough yesterday? | #57 00:02:56: тебе мало, что ли, вчера было | adapted: adapted |
+| 4 | Лёва | Дима, пожалуйста, немедленно перестань! | Dima, please, stop immediately! | #58 00:02:58: Дима, перестань | adapted: adapted |
 | 5 | Лёва | Шеф, там гость в блюде нашёл таракана. | Chef, a guest out there found a cockroach in his dish. | #60 00:03:02: нашел таракана | adapted: adapted |
-| 6 | Аня | Какого ещё таракана, чьё это блюдо? | What cockroach, whose dish is it? | #61 00:03:07: Таракана? Что это блюдо | adapted: adapted |
+| 6 | Шеф | Какого ещё таракана, чьё это блюдо? | What cockroach, whose dish is it? | #61 00:03:07: Таракана? Что это блюдо | adapted: adapted |
 | 7 | Лёва | К сожалению, это ваше блюдо, шеф. | Unfortunately, it is your dish, Chef. | #62 00:03:10: Ваше, шеф | adapted: adapted |
-| 8 | Катя | Вот именно поэтому я не люблю традиционную кухню. | That is precisely why I do not love traditional cuisine. | #63 00:03:13: Вот именно поэтому я не люблю традиционную кухню | adapted: adapted |
-| 9 | Катя | А в молекулярной кухне его бы никто не заметил. | And in molecular cuisine no one would have noticed it. | #64 00:03:16: А в молекулярной кухне | adapted: adapted |
-| 10 | Аня | Эй, куда он сейчас едет? | Hey, where is he driving right now? | #67 00:03:31: Куда | adapted: adapted |
+| 8 | Лёва | Вот именно поэтому я не люблю традиционную кухню. | That is precisely why I do not love traditional cuisine. | #63 00:03:13: Вот именно поэтому я не люблю традиционную кухню | adapted: adapted |
+| 9 | Лёва | А в молекулярной кухне его бы никто не заметил. | And in molecular cuisine no one would have noticed it. | #64 00:03:16: А в молекулярной кухне | adapted: adapted |
+| 10 | Шеф | Эй, куда он сейчас едет? | Hey, where is he driving right now? | #67 00:03:31: Куда | adapted: adapted |
 | 11 | Лёва | Тормози скорее, это же сам Нагиев! | Brake quickly, that is Nagiyev himself! | #68 00:03:32: Тормози, тормози | adapted: adapted |
-| 12 | Аня | Давай быстро уезжаем отсюда! | Let us drive away from here quickly! | #69 00:03:38: Валим | adapted: adapted |
+| 12 | Шеф | Давай быстро уезжаем отсюда! | Let us drive away from here quickly! | #69 00:03:38: Валим | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

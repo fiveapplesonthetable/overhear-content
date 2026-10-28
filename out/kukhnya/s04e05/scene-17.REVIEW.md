@@ -25,14 +25,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Folks, the sous-chef said it, the sous-chef quickly did it!' Balanced perfective past verbs create a punchy boast.
-- 'Our previous salaries are staying in place.' The reflexive verb for remaining agrees with the plural subject 'salaries'.
-- 'I said that we would all quit together.' Max claims he threatened a mass resignation using a perfective reflexive verb.
-- 'Let's all get to work, why are we standing around?' The exhortation particle combines with 'for' plus the accusative noun 'work'.
+- 'Folks, the sous-chef said it, the sous-chef quickly did it!' Notice how Russian puts 'friend' and 'made' together in a short, direct phrase where word endings show how the ideas connect.
+- 'Our previous salaries are staying in place.' Here Max anchors the thought on 'former, previous, the same as before' and finishes on 'place', keeping the spoken rhythm brisk and natural.
+- 'I said that we would all quit together.' In everyday Russian, 'said' flows straight into 'quit, resign' without extra linking words.
+- 'Let's all get to work, why are we standing around?' Starting with the everyday word for 'let us' is how Russian speakers warmly invite someone to do something together.
 - 'And here is our Kamchatka royal crab!' Presentational particles introduce the finished platter at the pass counter.
-- 'We need to ask the sous-chef about this first.' The verb for asking requires the preposition 'at/from' plus the genitive case.
+- 'We need to ask the sous-chef about this first.' Here Chef Barinov anchors the thought on 'necessary, need to' and finishes on 'to ask', keeping the spoken rhythm brisk and natural.
 - 'Lev Semyonovich, may we carry the dish to the hall?' Barinov shows genuine respect by deferring to Lyova in front of the staff.
-- 'Yes, carry it quickly to the guests' table already!' Lyova waves the waiter off with a plural imperative and emphatic particle.
+- 'Yes, carry it quickly to the guests' table already!' Lyova pairs 'bring' with 'table, desk' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
 - 'Viktor Petrovich, your crab was a huge hit!' The Russian idiom 'went to hurrah' means something succeeded brilliantly.
 - 'Thank you, you can never drink away true skill.' A classic Russian proverb uses the generalized second-person singular future.
 - 'Mister Sous-Chef, may I have a little smoke break?' Barinov politely asks permission before stepping outside.

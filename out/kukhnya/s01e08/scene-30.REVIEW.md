@@ -1,41 +1,40 @@
-# kukhnya-s01e08-scene-30: review sheet
+# Иллюзия контроля  (The Illusion of Control) — `kukhnya-s01e08-scene-30`
 
-Title: Иллюзия контроля  (The Illusion of Control)
-Level: A1 — Duolingo Section 2
-Pair: ru-en
-Source: Кухня (Kukhnya) S1.08
-Cues 357-358. Max reflects on the inevitability of human errors and the illusion of total control, while Chef Barinov stubbornly claims he orchestrated every chaotic event.
+**Source:** Кухня (Kukhnya) S1.08 · `sources/kukhnya/s01/e08.ru.dual.srt`  
+**Target level:** A1 — Duolingo Section 2
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+## Cast
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+| Role | Voice | Label |
+|---|---|---|
+| `narrator` | sky | — |
+| `anya` | alisa | Макс |
+| `chef` | anja | Шеф |
+
+## Part 1 — Intro
+
+> Watching Chef Barinov pour himself a victory drink in his office, Max reflects on how human beings dread making mistakes yet commit them continuously. When Max challenges the head chef's inflated pride, Barinov insists that the kitchen's chaos was part of his grand master plan all along. Let's listen to their conversation in Russian first.
+
+## Part 2 — Story
+
+| # | Speaker | Line | English | Source cue(s) | Change |
 |---|---|---|---|---|---|
-| 1 | Макс | Шеф, люди очень не любят делать ошибки. | Chef, people really do not like making mistakes. | #357 00:21:10: Люди не любят делать ошибки | adapted: Max opens on mistakes |
-| 2 | Макс | Но тем не менее постоянно их совершают. | Yet nevertheless constantly make them. | #357 00:21:10: но тем не менее постоянно их совершают. | adapted: Max notes inevitability |
-| 3 | Шеф | Макс, умные повара вообще не ошибаются. | Max, smart cooks do not make mistakes at all. | new | new: Barinov claims perfection |
-| 4 | Макс | Вы думаете, что контролируете абсолютно всё? | You think that you control absolutely everything? | new | new: Max questions control |
-| 5 | Шеф | Конечно, на моей кухне всегда идеальный порядок! | Of course, in my kitchen there is always perfect order! | new | new: Barinov boasts authority |
-| 6 | Макс | Одни заблуждаются, что могут всё контролировать. | Some fool themselves into thinking they can control everything. | #358 00:21:18: Одни заблуждаются, что могут все контролировать. | adapted: Max reflects on illusion |
-| 7 | Шеф | Я выиграл пари и доказал свою правоту. | I won the bet and proved I was right. | new | new: Barinov points to wager |
-| 8 | Макс | Но повара сегодня устроили настоящий кошмар. | But the cooks caused a real nightmare today. | new | new: Max recalls kitchen mess |
-| 9 | Шеф | Они точно выполнили мой секретный план! | They accurately carried out my secret plan! | new | new: Barinov claims orchestration |
-| 10 | Макс | Иногда наши победы бывают слишком странными. | Sometimes our victories turn out too strange. | new | new: Max observes irony |
-| 11 | Шеф | Главное, что победа осталась за мной! | The main thing is that victory remained mine! | new | new: Barinov savors triumph |
-| 12 | Макс | Самоуверенность часто приводит к неожиданным проблемам. | Overconfidence often leads to unexpected problems. | new | new: Max warns of pride |
-| 13 | Шеф | Иди работай и не умничай здесь! | Go work and do not be a smart-aleck here! | new | new: Barinov cuts Max off |
+| 0 | Макс | Шеф, люди очень не любят делать ошибки. | Chef, people really do not like making mistakes. | #357 "Люди не любят делать ошибки" |  |
+| 1 | Макс | Но тем не менее постоянно их совершают. | Yet nevertheless constantly make them. | #357 "но тем не менее постоянно их совершают." |  |
+| 2 | Шеф | Макс, умные повара вообще не ошибаются. | Max, smart cooks do not make mistakes at all. | *(added)* |  |
+| 3 | Макс | Вы думаете, что контролируете абсолютно всё? | You think that you control absolutely everything? | *(added)* |  |
+| 4 | Шеф | Конечно, на моей кухне всегда идеальный порядок! | Of course, in my kitchen there is always perfect order! | *(added)* |  |
+| 5 | Макс | Одни заблуждаются, что могут всё контролировать. | Some fool themselves into thinking they can control everything. | #358 "Одни заблуждаются, что могут все контролировать." |  |
+| 6 | Шеф | Я выиграл пари и доказал свою правоту. | I won the bet and proved I was right. | *(added)* |  |
+| 7 | Макс | Но повара сегодня устроили настоящий кошмар. | But the cooks caused a real nightmare today. | *(added)* |  |
+| 8 | Шеф | Они точно выполнили мой секретный план! | They accurately carried out my secret plan! | *(added)* |  |
+| 9 | Макс | Иногда наши победы бывают слишком странными. | Sometimes our victories turn out too strange. | *(added)* |  |
+| 10 | Шеф | Главное, что победа осталась за мной! | The main thing is that victory remained mine! | *(added)* |  |
+| 11 | Макс | Самоуверенность часто приводит к неожиданным проблемам. | Overconfidence often leads to unexpected problems. | *(added)* |  |
+| 12 | Шеф | Иди работай и не умничай здесь! | Go work and do not be a smart-aleck here! | *(added)* |  |
 
-## Walk-through narration (English only, no target-language words quoted)
+## Part 5 — Outro & closing
 
-- 'Chef, people really do not like making mistakes.' As Max begins his philosophical contemplation about human imperfection.
-- 'Yet nevertheless constantly make them.' The rookie notes the inescapable nature of daily blunders.
-- 'Max, smart cooks do not make mistakes at all.' Barinov pompously claims absolute immunity to errors.
-- 'You think that you control absolutely everything?' Max gently challenges the chef's inflated sense of mastery.
-- 'Of course, in my kitchen there is always ideal order!' Viktor proudly insists that his authority remains supreme.
-- 'Some fool themselves into thinking they can control everything.' Max reflects on the classic illusion of total domination.
-- 'I won the bet and proved I was right.' The head chef clings stubbornly to his victory over Elena.
-- 'But the cooks caused a real nightmare today.' Max points to the chaotic kitchen sabotage earlier that evening.
-- 'They accurately carried out my secret plan!' Barinov spins the kitchen breakdown as deliberate tactical genius.
-- 'Sometimes our victories turn out too strange.' The young cook remains skeptical of the Pyrrhic triumph.
-- 'The main thing is that victory remained with me!' Viktor dismisses any doubt and relishes his winning position.
-- 'Overconfidence often leads to unexpected problems.' Max warns about the perils of excessive professional pride.
-- 'Go work and do not be a smart-aleck here!' Barinov brusquely shooes the rookie back to his cooking station.
+> Max's reflections on human errors reveal that even master chefs are blinded by the illusion of control. Next time you watch the episode, listen for the Russian expressions for 'absolutely' and 'to happen' — you will catch every word right away. See you next time!
+
+**Шеф:** Пока!

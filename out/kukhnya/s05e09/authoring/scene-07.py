@@ -1,14 +1,14 @@
 ID = 'kukhnya-s05e09-scene-07'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 9
 SCENE = 7
-TITLE = 'Комплимент по-киргизски  (A Compliment in Kyrgyz)'
+TITLE = "Комплимент по-киргизски  (A Compliment in Kyrgyz)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'senya': 'anja', 'chef': 'angelina'}
-LABELS = {'anya': 'Лёва', 'senya': 'Сеня', 'chef': 'Шеф'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.09"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "senya": "angelina", "chef": "anja"}
+LABELS = {"senya": "Сеня", "chef": "Шеф"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.09'
 SOURCE_FILE = 'sources/kukhnya/s05/e09.ru.srt'
 
 INTRO = "Seeing that Lyova has a crush on Ainura's niece Gulya, the kitchen staff suggest surprising her with a compliment in the Kyrgyz language. Meanwhile, a hungry Chef Barinov snaps at everyone after eating nothing but celery all day."
@@ -19,13 +19,13 @@ STORY = [
     ('senya', 'На киргизском языке.', 'In the Kyrgyz language.', [(86, 'на киргизском языке')], 'adapted'),
     ('senya', 'Это ей точно понравится.', 'She will definitely like that.', [(87, 'это ей точно понравится')], 'adapted'),
     ('senya', 'Вот что ты ей хочешь сказать?', 'Now what do you want to say to her?', [(88, 'Вот что ты ей хочешь сказать')], 'adapted'),
-    ('anya', 'У тебя очень красивые глаза.', 'You have very beautiful eyes.', [(90, 'У тебя очень красивые глаза')], 'adapted'),
-    ('anya', 'Я очень рад с тобой познакомиться.', 'I am very glad to meet you.', [(91, 'Я очень рад с тобой познакомиться')], 'adapted'),
+    ('senya', 'У тебя очень красивые глаза.', 'You have very beautiful eyes.', [(90, 'У тебя очень красивые глаза')], 'adapted'),
+    ('senya', 'Я очень рад с тобой познакомиться.', 'I am very glad to meet you.', [(91, 'Я очень рад с тобой познакомиться')], 'adapted'),
     ('chef', 'Ты что, не видел, что я здесь стою?', 'Did you not see that I am standing here?', [(92, 'Ты что, не видел, что я здесь стою')], 'adapted'),
-    ('anya', 'Извините, шеф.', 'Excuse me, chef.', [(92, 'я здесь стою')], 'adapted'),
-    ('anya', 'Чего шеф сегодня такой злой?', 'Why is the chef so angry today?', [(94, 'Чего, Сим, Сим, такой')], 'adapted'),
+    ('senya', 'Извините, шеф.', 'Excuse me, chef.', [(92, 'я здесь стою')], 'adapted'),
+    ('senya', 'Чего шеф сегодня такой злой?', 'Why is the chef so angry today?', [(94, 'Чего, Сим, Сим, такой')], 'adapted'),
     ('senya', 'Он весь день ест этот сельдерей.', 'He has been eating this celery all day.', [(95, 'Он весь день есть этот пихотивный сельдерейп')], 'adapted'),
-    ('anya', 'А, ну понятно.', 'Ah, well that makes sense.', [(97, 'А, ну понятно')], 'adapted'),
+    ('senya', 'А, ну понятно.', 'Ah, well that makes sense.', [(97, 'А, ну понятно')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -42,9 +42,9 @@ WALK = [
     (8, None, "'Excuse me, chef.' Here the Russian phrasing highlights 'excuse me' before landing on 'proper name'."),
     (9, None, "'Why is the chef so angry today?' Lyova anchors the line on 'what', while 'angry' completes the thought."),
     (10, None, "'He has been eating this celery all day.' Senya anchors the line on 'he', while 'celery' completes the thought."),
-    (11, None, "'Ah, well that makes sense.' The grammar packs 'and' and 'understood' into a tight, idiomatic kitchen exchange."),
+    (11, None, "'Ah, well that makes sense.' Lyova centers this short reply on 'understood', letting a few direct words carry the whole meaning."),
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'And that finishes our scene in the courtyard. Listen for the warm phrases Lyova wants to say to Gulya and why Chef Barinov is in such a foul mood. See you in the next scene.'
-CLOSING = ('anya', 'Очень красивые глаза!')
+OUTRO = 'And that finishes our scene in the courtyard. Listen for the warm phrases Lyova wants to say to Gulya and why Chef Barinov is in such a foul mood. Until next time!'
+CLOSING = ("senya", "До свидания!")

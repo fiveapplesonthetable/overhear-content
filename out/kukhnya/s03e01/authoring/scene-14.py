@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e01-scene-14'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 1
 SCENE = 14
-TITLE = 'Обеденный перерыв  (Lunch Break)'
+TITLE = "Обеденный перерыв  (Lunch Break)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'guest': 'anja', 'katya': 'angelina'}
-LABELS = {'anya': 'Макс', 'guest': 'Гость', 'katya': 'Катя'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.01"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "guest": "anja", "anya": "alisa", "katya": "angelina"}
+LABELS = {"guest": "Гость", "anya": "Макс", "katya": "Катя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.01'
 SOURCE_FILE = 'sources/kukhnya/s03/e01.ru.srt'
 
 INTRO = "After Fedya and Senya mock Max in the kitchen as a lowly waiter, Max decides to get revenge on Chef Barinov by recommending Katya's molecular menu to Nastya's hungry father."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'That brings Scene Fourteen to a close. Listen for Max assuring the sausage-factory boss that the molecular dishes are completely natural.'
-CLOSING = ('katya', 'Заказ принят!')
+OUTRO = 'That brings Scene Fourteen to a close. Listen for Max assuring the sausage-factory boss that the molecular dishes are completely natural. See you next time!'
+CLOSING = ("katya", "До встречи!")

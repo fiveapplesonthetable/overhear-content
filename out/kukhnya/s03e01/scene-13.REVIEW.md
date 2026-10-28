@@ -15,7 +15,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 3 | Шеф | Печёные сливы с ягодами. | Baked plums with berries. | #241 00:15:17: Печеные сливы с ягодами | verbatim |
 | 4 | Шеф | Кролик с розмарином. | Rabbit with rosemary. | #242 00:15:19: Кролик с розмарином | verbatim |
 | 5 | Шеф | Всем понятно? | Is that clear to everyone? | #243 00:15:21: Всем понятно | verbatim |
-| 6 | Аня | Да, шеф! | Yes, Chef! | #243 00:15:21: Да, шеф | verbatim |
+| 6 | Шеф | Да, шеф! | Yes, Chef! | #243 00:15:21: Да, шеф | verbatim |
 | 7 | Шеф | Так, Екатерина. | Right, Yekaterina. | #244 00:15:26: Так, Екатерина | verbatim |
 | 8 | Шеф | Вы не должны стоять и бездельничать. | You must not stand around and loaf. | #246 00:15:33: вы должны стоять и бездельничать | adapted: adapted |
 | 9 | Катя | Так нет же заказов. | But there are no orders. | #247 00:15:36: Так нет же заказов | verbatim |
@@ -35,5 +35,5 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'You must not stand around and loaf.' Chef Barinov brings out the contrast between 'you' and 'not' in a few short words.
 - 'But there are no orders.' Spoken Russian keeps this brisk, leaning on 'so' and finishing on 'orders'. Chef Barinov answers right away.
 - 'So what? Fedya, please.' Notice how Russian expresses 'and' and 'please' with crisp inflection rather than helper words.
-- 'We will find work for everyone here.' Russian expresses 'having' with the preposition 'by' plus the genitive pronoun and 'is found'.
+- 'We will find work for everyone here.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.
 - 'Go ahead!' Chef Barinov brings out the contrast between 'forward' and 'forward' in a few short words.

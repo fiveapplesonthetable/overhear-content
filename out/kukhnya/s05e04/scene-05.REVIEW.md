@@ -10,10 +10,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Ну почему он меня не хочет? | Why does he not want me? | #68 00:05:34: Ну почему он | adapted: adapted |
+| 1 | Настя | Ну почему он меня не хочет? | Why does he not want me? | #68 00:05:34: Ну почему он | adapted: adapted |
 | 2 | Настя | Так ты ему отказала. У него стресс. | Because you turned him down. He is under stress. | #69 00:05:36: Так ты ему | adapted: adapted |
 | 3 | Настя | Я вот на Сеню наору, он потом неделю ничего не может. | When I yell at Senya, he cannot do anything for a week afterward. | #70 00:05:39: Я вот на | adapted: adapted |
-| 4 | Аня | У него стресс, а мучаюсь я. | He is stressed, and I am the one suffering. | #72 00:05:45: У него стресс | adapted: adapted |
+| 4 | Настя | У него стресс, а мучаюсь я. | He is stressed, and I am the one suffering. | #72 00:05:45: У него стресс | adapted: adapted |
 | 5 | Настя | А тебе нужно его расслабить. | You need to help him relax. | #73 00:05:47: А тебе нужно | adapted: adapted |
 | 6 | Настя | Устроим романтический вечер? | How about arranging a romantic evening? | #74 00:05:49: Устроим романтический вечер | adapted: adapted |
 | 7 | Настя | Ванна с пеной, свечи, музыка. | A bubble bath, candles, music. | #75 00:05:52: Ванна с пеной | adapted: adapted |
@@ -28,9 +28,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Why does he not want me?' The meaning hinges on 'come on' working together with 'wants' in spoken Russian.
-- 'Because you turned him down. He is under stress.' Russian expresses 'having' with the preposition 'by' plus the genitive pronoun and 'stress'.
+- 'Because you turned him down. He is under stress.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.
 - 'When I yell at Senya, he cannot do anything for a week afterward.' Nastya brings out the contrast between 'I' and 'here' in a few short words.
-- 'He is stressed, and I am the one suffering.' Notice the reflexive suffix on the verb meaning 'I suffer', turning the action back on the subject.
+- 'He is stressed, and I am the one suffering.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.
 - 'You need to help him relax.' Spoken Russian keeps this brisk, leaning on 'and' and finishing on 'to relax'.
 - 'How about arranging a romantic evening?' Nastya anchors the line on 'let us arrange', while 'evening' completes the thought.
 - 'A bubble bath, candles, music.' The meaning hinges on 'bathtub' working together with 'music' in spoken Russian.

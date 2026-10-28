@@ -10,11 +10,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Слушай, алексу свободное есть? | Listen, are there any luxury suites free? | #139 00:10:59: Слушай, алексу свободное | adapted: adapted |
-| 2 | Хостес | Триста тринадцатый занят, триста одиннадцатый свободен. | Suite 313 is occupied, 311 is free. | #140 00:11:03: 313 занят, 311 | adapted: adapted |
-| 3 | Аня | Дай мне его на пару часов. Хать, ты, конечно, дочка хозяйки, но есть проблемка. | Give it to me for a couple of hours. Katya, you are the owner's daughter, of course, but there is a little problem. | #141 00:11:08: Дай мне его | adapted: adapted |
-| 4 | Хостес | Если Блэк Джек узнает, он меня по ресепшену размажет. | If Blackjack finds out, he will smear me across the reception desk. | #142 00:11:12: Если Блэк Джек | adapted: adapted |
-| 5 | Аня | Если он узнает, я скажу, что взяла сама. | If he finds out, I will say I took the key myself. | #143 00:11:15: Если он узнает | adapted: adapted |
+| 1 | Катя | Слушай, алексу свободное есть? | Listen, are there any luxury suites free? | #139 00:10:59: Слушай, алексу свободное | adapted: adapted |
+| 2 | Шеф | Триста тринадцатый занят, триста одиннадцатый свободен. | Suite 313 is occupied, 311 is free. | #140 00:11:03: 313 занят, 311 | adapted: adapted |
+| 3 | Катя | Катя, ты, конечно, дочка хозяйки, но есть одна проблемка. | Katya, you are the owner's daughter, of course, but there is one problem. | #141 00:11:08: ты, конечно, дочка хозяйки, но есть проблемка | adapted: adapted |
+| 4 | Шеф | Если Блэк Джек узнает, он меня по ресепшену размажет. | If Blackjack finds out, he will smear me across the reception desk. | #142 00:11:12: Если Блэк Джек | adapted: adapted |
+| 5 | Катя | Если он узнает, я скажу, что взяла сама. | If he finds out, I will say I took the key myself. | #143 00:11:15: Если он узнает | adapted: adapted |
 | 6 | Шеф | Ты мне своими желаниями всю личную жизнь испоган. | You ruined my entire personal life with your wishes. | #145 00:11:23: Ты мне своими | adapted: adapted |
 | 7 | Шеф | Виктор Петрович, вам надо успокоиться. | Viktor Petrovich, you need to calm down. | #146 00:11:27: Виктор Петрович, вам | adapted: adapted |
 | 8 | Шеф | Я тебя сейчас успокою навсегда. | I am going to calm you down permanently right now. | #147 00:11:29: Я тебя сейчас | adapted: adapted |
@@ -28,11 +28,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Listen, are there any luxury suites free?' Here the Russian phrasing highlights 'listen' before landing on 'there is'.
 - 'Suite 313 is occupied, 311 is free.' Here the Russian phrasing highlights 'three hundred' before landing on 'free'.
-- 'Give it to me for a couple of hours. Katya, you are the owner's daughter, of course, but there is a little problem.' Katya addresses the listener with the informal singular 'you' alongside 'a little problem'. the hostess answers right away.
+- 'Katya, you are the owner's daughter, of course, but there is one problem.' Katya pairs 'of course' with 'little problem' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
 - 'If Blackjack finds out, he will smear me across the reception desk.' the hostess anchors the line on 'if', while 'will smear' completes the thought.
 - 'If he finds out, I will say I took the key myself.' In Russian, the idea of 'if' flows naturally into 'myself' without extra filler words.
 - 'You ruined my entire personal life with your wishes.' Spoken Russian keeps this brisk, leaning on 'you' and finishing on 'ruined'.
-- 'Viktor Petrovich, you need to calm down.' Notice the reflexive suffix on the verb meaning 'to calm down', turning the action back on the subject.
+- 'Viktor Petrovich, you need to calm down.' Russian expresses feelings and needs by saying 'to me it is needed' or 'to me it seems', putting the person in the 'to me' form.
 - 'I am going to calm you down permanently right now.' The grammar packs 'I' and 'forever' into a tight, idiomatic kitchen exchange.
 - 'And I will make such a wish that you will remember it for the rest of your life.' Notice how Russian expresses 'and' and 'will' with crisp inflection rather than helper words.
 - 'I have twenty.' Here the Russian phrasing highlights 'at' before landing on 'twenty'.

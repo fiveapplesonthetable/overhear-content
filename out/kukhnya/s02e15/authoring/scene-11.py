@@ -1,15 +1,15 @@
-ID = "kukhnya-s02e15-scene-11"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e15-scene-11'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 15
 SCENE = 11
-TITLE = 'Идея отправить маму на балет  (The Idea to Send Mom to the Ballet)'
+TITLE = "Идея отправить маму на балет  (The Idea to Send Mom to the Ballet)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'kostya': 'anja'}
-LABELS = {'anya': 'Макс', 'kostya': 'Костя'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.15"
-SOURCE_FILE = "sources/kukhnya/s02/e15.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "kostya": "anja"}
+LABELS = {"anya": "Макс", "kostya": "Костя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.15'
+SOURCE_FILE = 'sources/kukhnya/s02/e15.ru.srt'
 
 INTRO = "Learning that Chef Barinov's romantic evening in the office fell apart, Senya and Fedya joke about TV commercials before suggesting he invite Elena home while his mother is out at the ballet. Inspired, Barinov immediately hatches a plan to clear Lyova's apartment."
 
@@ -40,7 +40,7 @@ WALK = [
     (5, None, "'They advertise plenty of remedies during the commercial breaks.' Spoken Russian keeps this brisk, leaning on 'there' and finishing on 'advise'."),
     (6, None, "'I do not need pills!' Max brings out the contrast between 'yes' and 'for me' in a few short words."),
     (7, None, "'I told you she would never agree to do it here.' Spoken Russian keeps this brisk, leaning on 'what' and finishing on 'to agree'. Max answers right away."),
-    (8, None, "'What about inviting her to your home?' The grammar packs 'and' and 'to invite' into a tight, idiomatic kitchen exchange."),
+    (8, None, "'What about inviting her to your home?' In spoken Russian, the words stay in their normal statement order and Max's rising voice at the end turns the line into a question."),
     (9, None, "'Send your mother where?' Kostya brings out the contrast between 'where to' and 'to send' in a few short words."),
     (10, None, "'To the cinema or the ballet, there you go.' In Russian, the idea of 'the cinema' flows naturally into 'there you go' without extra filler words. Kostya answers right away."),
     (11, None, "'For the entire night?' In Russian, the idea of 'on' flows naturally into 'night' without extra filler words."),
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Let's hear the full exchange one more time at natural speed."
-
-OUTRO = 'When you watch Scene 11 of Episode 15, listen out for the exchange around the idea to send mom to the ballet — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('kostya', 'На всю ночь?')
+OUTRO = "That wraps up this scene as senya and Fedya tease Chef Barinov after his failed evening in the office and give him the idea to send Lyova's mother to the ballet for the night. Until next time!"
+CLOSING = ("kostya", "До завтра!")

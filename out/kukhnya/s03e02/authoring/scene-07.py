@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e02-scene-07'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 2
 SCENE = 7
-TITLE = 'Битва за заказ  (Battle for the Order)'
+TITLE = "Битва за заказ  (Battle for the Order)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'ilya': 'anja', 'nastya': 'angelina'}
-LABELS = {'anya': 'Макс', 'ilya': 'Илья', 'nastya': 'Настя'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.02"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "ilya": "anja", "nastya": "angelina"}
+LABELS = {"anya": "Макс", "ilya": "Илья", "nastya": "Настя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.02'
 SOURCE_FILE = 'sources/kukhnya/s03/e02.ru.srt'
 
 INTRO = "While Nastya secretly devours a piece of sausage in the storage room, Max and Ilya begin sabotaging each other's orders in the dining room to win the tip bet."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "And that finishes Scene Seven. Listen for Max's quick-thinking excuse to the guest when he discovers a bite taken out of the lamb."
-CLOSING = ('anya', 'Я сейчас всё переделаю!')
+OUTRO = "And that finishes Scene Seven. Listen for Max's quick-thinking excuse to the guest when he discovers a bite taken out of the lamb. Until next time!"
+CLOSING = ("anya", "До встречи!")

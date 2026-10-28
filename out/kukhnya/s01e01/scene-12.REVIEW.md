@@ -1,33 +1,40 @@
-# kukhnya-s01e01-scene-12: review sheet
+# Спасительный литр воды  (A Lifesaving Liter of Water) — `kukhnya-s01e01-scene-12`
 
-Title: Спасительный литр воды  (A Lifesaving Liter of Water)
-Level: A1 — Duolingo Section 2
-Pair: ru-en
-Source: Кухня (Kukhnya) S1.01
-Cues 75-80. Max sits at the bar nursing a hangover, and bartender Kostya fetches him water.
+**Source:** Кухня (Kukhnya) S1.01 · `sources/kukhnya/s01/e01.ru.dual.srt`  
+**Target level:** A1 — Duolingo Section 2
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+## Cast
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+| Role | Voice | Label |
+|---|---|---|
+| `narrator` | sky | — |
+| `anya` | alisa | Макс |
+| `kostya` | anja | Костя |
+
+## Part 1 — Intro
+
+> Slumping onto a stool at the Claude Monet bar, Max attempts to recover from a sleepless night of drinking at the nightclub. Bartender Kostya immediately detects the painful signs of a hangover and pours a lifesaving jug of cold water for the young newcomer. Let's listen to their conversation in Russian first.
+
+## Part 2 — Story
+
+| # | Speaker | Line | English | Source cue(s) | Change |
 |---|---|---|---|---|---|
-| 1 | Костя | Бухал вчера? | Been drinking yesterday? | #75 00:06:33: Бухал вчера | adapted: noticing Max's rough condition |
-| 2 | Макс | Заметно? | Is it noticeable? | #76 00:06:36: Заметно | adapted: asking ruefully |
-| 3 | Костя | Лицо бледное, руки немного дрожат. | Your face is pale, your hands are shaking a bit. | new | new: listing the symptoms |
-| 4 | Макс | Да, ночь была очень бурной. | Yes, the night was very wild. | new | new: admitting the partying |
-| 5 | Костя | Приятного аппетита. | Enjoy your meal. | #77 00:06:39: Приятного аппетита | adapted: serving a nearby diner |
-| 6 | Макс | Кому ты сейчас это сказал? | Who did you just say that to? | new | new: confused by the greeting |
-| 7 | Костя | Гостю за соседним столиком. | To a guest at the next table. | new | new: clarifying who he addressed |
-| 8 | Костя | Что-нибудь желаете? | Would you like anything? | #78 00:06:42: Что-нибудь желаете | adapted: switching to Max |
-| 9 | Макс | Воды. | Water. | #78 00:06:42: Воды | adapted: pleading for hydration |
-| 10 | Костя | С газом или без газа? | Sparkling or still? | #79 00:06:44: без газа | adapted: asking for preference |
-| 11 | Макс | Литр! Без всякого газа! | A liter! Without any gas at all! | #79 00:06:44: Литр | adapted: demanding still water urgently |
-| 12 | Костя | Всё, я уже несу. | Right away, I am already bringing it. | #80 00:06:46: я несу | adapted: hurrying to pour water |
-| 13 | Макс | Спасибо, друг, ты спасаешь мне жизнь. | Thank you, my friend, you are saving my life. | new | new: expressing profound gratitude |
+| 0 | Костя | Бухал вчера? | Been drinking yesterday? | #75 "Бухал вчера" |  |
+| 1 | Макс | Заметно? | Is it noticeable? | #76 "Заметно" |  |
+| 2 | Костя | Лицо бледное, руки немного дрожат. | Your face is pale, your hands are shaking a bit. | *(added)* |  |
+| 3 | Макс | Да, ночь была очень бурной. | Yes, the night was very wild. | *(added)* |  |
+| 4 | Костя | Приятного аппетита. | Enjoy your meal. | #77 "Приятного аппетита" |  |
+| 5 | Макс | Кому ты сейчас это сказал? | Who did you just say that to? | *(added)* |  |
+| 6 | Костя | Гостю за соседним столиком. | To a guest at the next table. | *(added)* |  |
+| 7 | Костя | Что-нибудь желаете? | Would you like anything? | #78 "Что-нибудь желаете" |  |
+| 8 | Макс | Воды. | Water. | #78 "Воды" |  |
+| 9 | Костя | С газом или без газа? | Sparkling or still? | #79 "без газа" |  |
+| 10 | Макс | Литр! Без всякого газа! | A liter! Without any gas at all! | #79 "Литр" |  |
+| 11 | Костя | Всё, я уже несу. | Right away, I am already bringing it. | #80 "я несу" |  |
+| 12 | Макс | Спасибо, друг, ты спасаешь мне жизнь. | Thank you, my friend, you are saving my life. | *(added)* |  |
 
-## Walk-through narration (English only, no target-language words quoted)
+## Part 5 — Outro & closing
 
-- 'Been drinking yesterday?' Kostya asks casually, using the colloquial verb for drinking alcohol.
-- 'Is it noticeable?' Max replies ruefully, realizing his rough night shows on his face.
-- 'Would you like anything?' the bartender inquires, switching into professional hospitality mode.
-- 'Water.' Max croaks, as he is in need of cold water before his interview.
-- 'A liter! Without any gas at all!' Max exclaims, emphasizing the urgent quantity of cold still water he requires. Now listen to the full bar dialogue once more.
+> Kostya slides a large carafe of water across the bar. Next time you watch the episode, listen for the Russian expressions for 'appetite' and 'pale' — you will catch every word right away. See you next time!
+
+**Макс:** Пока!
