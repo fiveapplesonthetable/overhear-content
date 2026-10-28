@@ -28,10 +28,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Lavrov, did you understand everything about the order?' Barinov uses Max's surname, the way a stern boss does. "Po zakazu" is "regarding the order".
 - 'Yes, Chef, I understood everything perfectly!' "Ponyal" has a man's -l. "Otlichno" is "perfectly", the how-form of "otlichnyy".
 - 'The soup must be ideal and hot.' "Dolzhen byt'" is "must be", and the describing words after it take the "-ym" ending: "ideal'nym", "goryachim".
-- 'I use the best vegetables and cream.' "Ispol'zuyu" is "I use", the family of "ispol'zuy" from the cognac scene. "Luchshiye" is "the best", plural.
+- 'I use the best vegetables and cream.' "Ispol'zuyu" is "I use", a relative of "ispol'zuy" from the cognac scene. "Luchshiye" is "the best", plural.
 - 'Our guests do not tolerate foolish mistakes.' "Terpyat" means "they bear" or "tolerate", and it comes from "terpet'", to suffer. "Oshibok" is the plural "of" form of "oshibka", mistake.
 - 'I guarantee the flawless taste of this dish.' "Bezuprechnyy" is "bez" plus "uprek", reproach: without blame. Max sounds like a brochure.
-- 'Stop chattering away, Lavrov.' The chef's idiom is "chatter with the tongue", which means stop talking. The word for tongue is also the word for language.
+- 'Stop chattering away, Lavrov.' The chef's idiom is "chatter with the tongue", which means stop talking. Tongue and language are one word.
 - 'Well get to work quickly!' "Pristupay k" means "set about", and "k rabote" means "to work", with an -e.
 - 'Already starting to cook right now, Chef!' Russian has no "-ing" form, so "nachinayu" means "I'm starting".
 - 'And watch this stove attentively!' "Sledi za" is "keep an eye on", literally "follow behind". The stove ends in "-oy".

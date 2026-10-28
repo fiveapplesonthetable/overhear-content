@@ -27,11 +27,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'There is a terrible rush in the kitchen today!' "Strashnaya" comes from "strakh", fear, so it's "scary" as well as "terrible". "Speshka" is rush, and the family of "speshu", I hurry.
-- 'Chef, I did not hear your shouts.' After "not", the thing you didn't hear takes the "of" ending: "kriki" becomes "krikov". "Slyshal" is "heard", with a man's -l.
-- 'What are you doing here in the dark?' "V temnote" is "in the dark", built on "temnyy", dark. The chef uses the friendly "you".
-- 'I simply lay down for five minutes.' "Na" before a number of minutes means "for". "Prilyog" is "lay down for a bit", with the "pri-" for a short rest.
+- 'Chef, I did not hear your shouts.' After "not", the thing you didn't hear takes the "of" ending: "kriki" becomes "krikov". "Slyshal" is "heard", the -l marking a man.
+- 'What are you doing here in the dark?' "V temnote", "in the dark", comes from "temnyy", dark. The chef uses the friendly "you".
+- 'I simply lay down for five minutes.' "Na" before a number of minutes means "for". "Prilyog" is "lay down for a bit": the "pri-" gives a short rest.
 - 'Oguzok, are you sleeping right on the crates?!' "Na yashchikakh" is "on crates", with "-akh", the plural "on" ending. "Spish'" is "you sleep".
-- 'Forgive me, chef, I was very tired.' A man says "ustal", and a woman would say "ustala". "Prostite" is the polite "forgive me".
+- 'Forgive me, chef, I was very tired.' A man says "ustal", and a woman would say "ustala". Awake now, Max says "prostite", the formal "forgive me".
 - 'You have a daytime work shift going on!' "Dnevnaya" comes from "den'", day. "Idyot" is literally "goes", the verb Russians use for things that are in progress.
 - 'I could not fall asleep all night.' "Vsyu noch'" is "the whole night", and no little word is needed in front. "Zasnut'" is "to fall asleep".
 - 'Your nights do not concern me at all.' "Nochi" is plural, so the verb "volnuyut" is plural too, "worry". It's the same family as "ne volnuysya", don't worry.

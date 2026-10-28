@@ -30,7 +30,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Chef, what is this thing?' "Chto eto takoye" is "what is this such", a very handy way to ask what something is.
 - 'This is a real lie detector, Fedya.' "Lozh'" is a lie, and "lzhi" is "of a lie", with some letters dropped. The machine's name is a phrase, "detector of lies".
 - 'I must catch the rat in the kitchen.' Russians say "rat" for a traitor, just as English does. "Poymat'" is "to catch".
-- 'Answer only yes or no.' "Otvechayte" is the polite command, with the "-te".
+- 'Answer only yes or no.' "Otvechayte" ends in "-te", the ending of a command to a formal "you".
 - 'Fine, that is completely clear to me.' "Vpolne" is "in full", so "completely". "Ponyatno" means "it's clear" and needs no "I".
 - 'Tell me, is today really Wednesday?' "Sreda" is Wednesday, and it also means "middle", since it's the middle of the week. "Deystvitel'no" is "really".
 - 'Yes, today is Wednesday.' Fedya answers with the same word and no verb, because Russian leaves out "is".
@@ -38,4 +38,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Yes.' "Da" is the simplest word in the scene. It's the one he is allowed to say.
 - 'Did you go to the neighboring restaurant?' "Khodil" is "went and came back", the round-trip kind of "go". "Sosedniy" comes from "sosed", neighbour.
 - 'No, I did not go anywhere.' "Nikuda" is "nowhere", and with "ne" it's the double negative. Fedya answers with a bigger "no" than the question needed.
-- 'You are free to go. Call Senya in here.' "Svoboden" is "free", the short form for a man. "Pozovi" is "call", a command, and "Senyu" is the object form of "Senya".
+- 'You are free to go. Call Senya in here.' "Svoboden" is "free", the short form for a man. "Pozovi" is "call", a command. "Senyu" is the object form of "Senya".

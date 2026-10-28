@@ -31,9 +31,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I will make the most delicious cream soup.' "Samyy vkusnyy" is "the tastiest", made with "samyy" in front. "Krem-sup" is borrowed, "cream soup".
 - 'The main thing is do not oversalt the broth on the stove.' "Peresoli" is "pere-", over, plus "sol'", salt: over-salt. The "pere-" prefix is also in "redo" and "overcook".
 - 'Do not worry, I know the exact recipe.' "Ne volnuysya" is the friendly "don't worry", with "-sya" at the end. "Znayu" is "I know" for facts.
-- 'First chop the onion and carrot finely.' "Melko" is "finely", built on "melkiy", small. "Narezh'" has "na-" and "rezat'", to cut: cut it all up.
+- 'First chop the onion and carrot finely.' "Melko", "finely", has "melkiy", small, behind it. "Narezh'" has "na-" and "rezat'", to cut: cut it all up.
 - 'I will cut the vegetables into even pieces.' "Ravnymi kusochkami" is "with even little pieces". Both words end in "-ymi" and "-ami", the "with" ending.
-- 'Then add butter and warm cream.' Senya's recipe goes on with "after that, add", and the word for add shares a root with "seconds". "Maslo" is butter, and it can also be oil.
+- 'Then add butter and warm cream.' Senya's recipe goes on with "after that, add", and "add" shares a root with "seconds". "Maslo" is butter, and it can also be oil.
 - 'Everything will be ready on time, Senya.' "Budet gotovo" is "will be ready", and "gotovo" ends in -o to match "vsyo". "Vovremya" is "on time".
 - 'I will come and check your dish.' Senya promises to check, and both actions are single words: "I will come", "I will check". Russian needs no "will" in front.
 - 'You will be pleasantly surprised by this soup!' "Udivlyon" is "surprised", the short form for a man. "Etim supom" ends in "-om", the "by" ending. Max is sure of himself.

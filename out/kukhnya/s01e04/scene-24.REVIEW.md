@@ -30,14 +30,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Max, wait a minute!' "Podozhdi" is the friendly command "wait", and "minutu" ends in -u.
 - 'Vika? What happened?' Max says the question we've heard so many times, "chto sluchilos'", in a stunned voice.
 - 'You are not leaving anywhere.' The plain present, "ne ukhodish'", does the work of "you're not going anywhere". "Nikuda" is "nowhere".
-- 'But the chef just fired me.' "Just now" is literally "only what". The word for "fired" ends in the man's -l, since the chef is a man.
+- 'But the chef just fired me.' "Just now" is literally "only what". "Fired" ends in the man's -l, since the chef is a man.
 - 'I spoke with the chef.' "Pogovorila" has "po-", a short talk, and the woman's -la. "S shefom" is "with the chef".
 - 'And what did he tell you?' "Tebe" is "to you", the friendly form. The question is simple and short.
-- 'He allowed you to stay in the kitchen.' "Razreshil" is "allowed", and it's the family of "razresheniye", permission. "Tebe ostat'sya" is "to you to stay".
-- 'Really? You saved me!' "Spasla" is a woman's "saved", the family of "spasibo". "Pravda" is "truth", used for "really?".
+- 'He allowed you to stay in the kitchen.' "Razreshil", "allowed", belongs with "razresheniye", permission. "Tebe ostat'sya" is "to you to stay".
+- 'Really? You saved me!' "Spasla" is a woman's "saved", a relative of "spasibo". "Pravda" is "truth", used for "really?".
 - 'Just do not make stupid mistakes anymore.' Russian says "commit mistakes", the formal way to say "make mistakes". "No more" is "bol'she ne".
 - 'I promise, I will work very diligently.' "Starat'sya" is to try hard, and "starate'lno" is "diligently". "Budu rabotat'" is "I will work".
 - 'Return to your work station.' "Rabocheye mesto" is "work place", with "rabota" inside. "Vozvrashchaysya" ends in "-sya".
-- 'Thank you very much for your help, Vika!' Max thanks her with "huge thanks", and "help" is the noun "pomoshch'", from the same family as "pomoch'".
+- 'Thank you very much for your help, Vika!' Max thanks her with "huge thanks". "Help" is the noun "pomoshch'", from the same family as "pomoch'".
 - 'Go, before the chef changes his mind.' "Poka... ne" with a past form means "before" or "until". "Peredumal" is "changed his mind", from "pere-" and "dumat'".
-- 'I got a second chance!' "Appeared" is the word for something turning up. "Second chance" is "vtoroy shans", with "second" the number after two.
+- 'I got a second chance!' "Appeared" is what happens when something turns up. "Second chance" is "vtoroy shans", with "second" the number after two.

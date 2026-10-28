@@ -26,11 +26,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Kostya, prepare an urgent order for the guests.' "Prigotov'" is "prepare", a friendly command. "Srochnyy" is "urgent", and "dlya gostey" is "for the guests".
-- 'I am listening to you very attentively.' Kostya says he is listening "attentively", but he is staring at Nastya instead. "I listen" is a single word.
-- 'I need three hundred grams of good cognac.' Nastya's amounts go with "of" forms: "of good cognac" puts both words in the "of" shape, "-ogo" and "-a". "Three hundred" is a single word, "trista".
+- 'I am listening to you very attentively.' Kostya says he is listening "attentively", but he is staring at Nastya instead. Russian packs "I am listening" into one word, because it has no "-ing" form.
+- 'I need three hundred grams of good cognac.' Nastya's amounts go with "of" forms: "of good cognac" puts both words in the "of" shape, "-ogo" and "-a". "Three hundred" is "trista", where the "-sta" is a form of "hundred".
 - 'And pour two whiskeys of a hundred grams each.' "Po sto" is "a hundred each", with "po" for "each". "Viski" never changes.
 - 'And also bring three hot pots of tea.' "Chaynik" is a teapot, from "chay", tea. After "tri", three, the noun takes "-a", and "hot" takes "-ikh".
-- 'Of course, we will do everything quickly and neatly.' Kostya answers for the whole bar, and "we will do" is one word. "Neatly" is the word you'd use for a tidy job.
+- 'Of course, we will do everything quickly and neatly.' Kostya answers for the whole bar with a "we" future, where English needs "will do". "Neatly" suits a tidy job.
 - 'Why are you standing and not working?' Russians say a person "stands" when they're idle. "Ne rabotayesh'" is "not working".
 - 'Nastya, I wanted to ask something.' "Koye-chto" is "something", with "koye-" for a specific thing you don't name. "Sprosit'" is "to ask".
 - 'What exactly do you want to find out?' Nastya says "exactly" with "imenno", the word that points right at the thing. "Find out" is the single word "uznat'".

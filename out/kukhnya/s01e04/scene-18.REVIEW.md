@@ -29,13 +29,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I have a very simple question for you.' Russian says "at me to you a question". "Prostoy" is "simple", from the same family as "prosto".
 - 'From one head chef to another?' "Kak u X k Y" is "like from X to Y", and both chefs take the matching "of" and "to" endings.
 - 'Which of my cooks came to see you?' The chef asks "which of my cooks", and "came to you" uses the repeated kind of coming, a visit. "K vam" is "to you".
-- 'I do not rat out my people, Viktor.' "Sdavat'" is to hand over, and also to hand in an exam. "Svoikh lyudey" is "my own people", with the "own" word.
+- 'I do not rat out my people, Viktor.' "Sdavat'" is to hand over, and also to hand in an exam. "Svoikh lyudey" is "my own people", using the "own" word.
 - 'He is my cook, not yours!' "A ne vash" is "and not yours". The little "a ne" sets one claim against the other.
-- 'He wants to work in a good kitchen.' "Na khoroshey kukhne" is "in a good kitchen", with the "on" word and an "-ey" ending.
+- 'He wants to work in a good kitchen.' "Na khoroshey kukhne" is "in a good kitchen": the "on" word, then an "-ey" ending.
 - 'I have the best kitchen in this city!' "Luchshaya" is "the best", feminine, as "kukhnya" is. "V etom gorode" is "in this city", ending in -e.
-- 'Then why are your people looking for work?' "Ishchut" is "they look for", the family of "ishchi". "Vashi" is "your", plural.
+- 'Then why are your people looking for work?' "Ishchut" is "they look for", a relative of "ishchi". "Vashi" is "your", plural.
 - 'I will definitely find out his name myself!' "Yego imya" is "his name", and "yego" never changes. "Uznayu" is "I will find out".
-- 'It is time for me to go to the kitchen.' "Mne pora" is "to me it's time", and it's the same "pora" as in "it's time to".
+- 'It is time for me to go to the kitchen.' "Mne pora", "to me it's time", is the "pora" of "it's time to".
 - 'Will you find the way out yourself?' "Vykhod" is "vy-" plus "khod", going out. "Sami" is "yourselves", the plural of "sam".
 - 'I will, I remember the way very well.' Russians answer a question by repeating the verb: "naydu", "I'll find". "Dorogu" is "the road".
 - 'Wonderful then, all the best to you!' "Vsego dobrogo" is literally "of all good", a wish like "spokoynoy nochi". It's a polite goodbye, with a sting here.
