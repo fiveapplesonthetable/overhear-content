@@ -86,9 +86,44 @@ def groups(toks, words):
     return out
 
 
+def add_missing(show, e, toks, ent, bad):
+    """Letters of tokens and words differ (tokens dropped from the annotation, stray `-tu` pieces, half-split elisions):
+    keep the runs that match, rebuild the others from the corpus (insert/replace) or drop the stray words (delete)."""
+    import difflib
+    ws = e["words"]
+    sm = difflib.SequenceMatcher(None, [letters(t) for t in toks], [letters(w["t"]) for w in ws], autojunk=False)
+    new = []
+    for op, a0, a1, b0, b1 in sm.get_opcodes():
+        gt, gw = toks[a0:a1], ws[b0:b1]
+        if op == "equal": new += [{**w, "t": t} for t, w in zip(gt, gw)]
+        elif not gt: continue          # annotation words with no token (e.g. `-tu` after `vas-tu`): dropped
+        else:
+            r = rebuild(show, gt, gw, ent)
+            if r is None: bad.append(("token not in corpus", gt, [w["t"] for w in gw])); return None
+            new += r
+    return new
+
+
+def rebuild(show, gt, gw, ent):
+    out = []
+    prefer = {w["lemma"] for w in gw}
+    for tok in gt:
+        c = lookup(ent, show, tok, prefer)
+        if c: out.append({"t": tok, **c})
+        elif len(gt) == 1 and gw: out.append(compose(gw, tok))
+        elif gw:
+            u = gw[0]
+            out.append({"t": tok, "lemma": u["lemma"], "pos": u["pos"], "stress": None, "gloss": u["gloss"], "gram": u["gram"]})
+        elif tok[:1].isupper():                                    # a surname dropped from the annotation: a name, no stress needed
+            nm = key(tok).capitalize()
+            out.append({"t": tok, "lemma": nm, "pos": "name", "stress": None, "gloss": nm, "gram": "proper name"})
+        else: return None
+    return out
+
+
 def fix_line(show, e, toks, ent, bad):
     g = groups(toks, e["words"])
-    if g is None: bad.append(("letters differ", toks, [w["t"] for w in e["words"]])); return None
+    if g is None: return add_missing(show, e, toks, ent, bad)
     new = []
     for gt, gw in g:
         if len(gt) == 1 and len(gw) == 1: new.append({**gw[0], "t": gt[0]}); continue
