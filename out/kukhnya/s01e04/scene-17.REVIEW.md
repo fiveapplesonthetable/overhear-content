@@ -35,7 +35,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I immediately understood everything perfectly!' "Ponyala" ends in "-a" for Nastya. "Srazu" is "immediately" and "otlichno" is "perfectly".
 - 'Guys always say that about friends!' "Parni" is the plural of "paren'", guy. "Pro druzey" is "about friends", with "druzey" the plural "of" form of "drug".
 - 'Wait, you understood completely wrong.' "Nepravil'no" is "ne" plus "pravil'no", correctly: incorrectly. "Sovsem" adds "completely".
-- 'There is a real cosmic connection between us!' Nastya declares that "between us there is a real cosmic connection". The word for connection comes from "to tie", so it's a tie between them.
+- 'There is a real cosmic connection between us!' Nastya declares that "between us there is a real cosmic connection". "Connection" comes from "to tie", so it's a tie between them.
 - 'It is so great that you said this!' "Zdorovo" is casual for "great", from "zdorov'ye", health. "Tak... chto" joins "so great" to "that you said it".
 - 'I must run, the chef is calling for hot food!' "Pobegu" is "I will run", with "po-" for the start. "Goryacheye" is "hot" used as a noun, "the hot course".
 - 'Now I really helped Kostya...' "Vot eto" at the start is sarcastic, like "well, that went well". "Koste" is "to Kostya", the "to" form of his name.

@@ -31,9 +31,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I will tell you everything honestly myself!' "Sam" is "myself", here "of my own accord". "Rasskazhu" is "I will tell", and "chestno" is "honestly".
 - 'I took that fish after the banquet!' "Vzyal ya" is "took I", with "I" at the end for emphasis. "Posle banketa" is "after the banquet".
 - 'And I took that venison away too!' "Olenina" is venison, from "olen'", deer. "Unyos" is "carried away", with "u-" meaning "away".
-- 'And half a kilo of expensive caviar?' "Polkilo" is "pol-", half, plus "kilo". "Ikry" is "of caviar", with the "of" ending.
+- 'And half a kilo of expensive caviar?' "Polkilo" is "pol-", half, plus "kilo". "Ikry" is "of caviar", in the "of" form.
 - 'No, Chef, I did not take the caviar!' Senya puts "ikru" first, which stresses it: "the caviar I did not take". "Bral" is "took".
-- 'Forgive me, please, Chef!' "Prostite" is the polite "forgive me", and "pozhaluysta" is "please".
+- 'Forgive me, please, Chef!' "Prostite" is "forgive me" in the formal way, and "pozhaluysta" is "please".
 - 'I do not care about your venison!' "Mne plevat'" is literally "to me to spit", and it means "I couldn't care less". It's a rude phrase.
 - 'Did you go to the neighboring restaurant?' The chef asks the same question as before, with "khodil" for "went and came back".
 - 'No, Chef, I swear to you!' "Klyanus'" is "I swear", with "-s'" for "self". "Vam" is "to you", the polite form.

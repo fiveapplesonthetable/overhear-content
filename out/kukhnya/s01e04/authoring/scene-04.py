@@ -36,7 +36,7 @@ WALK = [
     (1, None, '\'Vityushenka, my little runt.\' "Vityushen\'ka" is a tender pet name, with extra syllables for affection. He flips the nickname by calling the chef his "oguzok".'),
     (2, None, '\'Have you completely lost your mind?\' Literally "went off the mind". Barinov says "ty chto" at the start, as a kind of "what\'s wrong with you?".'),
     (3, None, '\'Why are you sleeping here?\' "Ty chto" works as "why" here, a colloquial "what are you...?". "Spish\'" is "you sleep".'),
-    (4, None, '\'Chef, please forgive me.\' Now Max switches to "vy", the polite you, awake at last. "Prostite" is the polite command.'),
+    (4, None, '\'Chef, please forgive me.\' Now Max switches to "vy", the polite you, awake at last. "Prostite" is the formal "forgive".'),
     (5, None, '\'I lay down for five minutes.\' The little "pri-" on the front turns "lay down" into "lay down for a bit". For a stretch of time Russian uses "na", so "na pyat\' minut" is "for five minutes".'),
     (6, None, '\'You cannot sleep in the kitchen!\' "Nel\'zya" means "it\'s not allowed", or "it can\'t be done". It\'s a very useful word, and the one Nastya used to ask why she couldn\'t buy a knife.'),
     (7, None, '\'I could not sleep all night.\' Russian puts "all night" straight in the object form, "vsyu noch\'", with no "during" in front. "Couldn\'t" is just "ne mog".'),

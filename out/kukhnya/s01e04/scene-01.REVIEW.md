@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Maksim, I carefully read your résumé.' Elena uses his full first name, the way you do in a formal interview. The -la on "read" shows she is a woman, and "vashe" is the polite "your".
+- 'Maksim, I carefully read your résumé.' Elena uses his full first name, the way you do in a formal interview. The -la on "read" shows she is a woman, and "vashe" means "your" in the polite form.
 - 'I hope you liked my experience.' Russian says "to you pleased my experience", the same "pleasing" pattern as "mne nravitsya". Here it's "vam ponravilsya", because "opyt", experience, is masculine.
 - 'You are a very capable and promising cook.' "Sposobnyy" comes from "sposob", a way or a means, so it's someone with the means. "Perspektivnyy" sounds like "perspective", and means promising.
-- 'Thank you, I truly want to learn a lot.' "Deystvitel'no" is "really", built on "action". "Mnogomu" is "to much", and with "learn" it means "to learn a lot".
+- 'Thank you, I truly want to learn a lot.' "Deystvitel'no", "really", grows out of "action". "Mnogomu" is "to much", and with "learn" it means "to learn a lot".
 - 'I will gladly take you into the kitchen.' "S radost'yu" is "with joy", Russian for "gladly". And "voz'mu" is "I will take", one word.
-- 'At the Claude Monet restaurant they do not appreciate me.' Nobody is named: "they don't value me". The word for "value" grows from "tsena", price.
+- 'At the Claude Monet restaurant they do not appreciate me.' Nobody is named: "they don't value me". "Value" grows from "tsena", price.
 - 'I do not understand why they act like that.' "Postupat'" is to act or behave, and it often suggests how someone treats you. "Tak" is "so", "like that".
 - 'There they only give me vegetables to peel.' "To me they give" is how Max says "I'm given", and "peel" is also "clean". "Ovoshchi", vegetables, is plural.
 - 'With us you will cook complex dishes.' "At us" is "with us" here, and "you will cook" is "budete gotovit'", the future with "will be".
 - 'This is exactly what I dreamed about!' Russian stacks it up as "exactly that, about which I dreamed". The little "o", about, turns "chto", what, into "chyom". A man ends "dreamed" in -l.
 - 'Here are my contacts just in case.' "Na vsyakiy sluchay" is literally "for every chance", and it's what Russians say for "just in case".
-- 'When should I expect your call?' "Mne ozhidat'" is "to me to expect", and it makes "should I". "Zvonka" is "of the call", from "zvonok", a ring.
+- 'When should I expect your call?' "Mne ozhidat'", "to me to expect", makes "should I". "Zvonka" is "of the call", from "zvonok", a ring.
 - 'I will call you in a couple of days.' "Para" is a pair, so "paru dney" is "a couple of days". "Cherez" is "through", meaning "in" for future time.

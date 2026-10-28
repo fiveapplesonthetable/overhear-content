@@ -41,7 +41,7 @@ WALK = [
     (7, None, '\'But you do not let him grow at all.\' "Ne dayosh\' yemu rasti" is "you don\'t give him to grow", Russian for "you don\'t let him". The same pattern was "you don\'t let me cook".'),
     (8, None, '\'How many good people have left here?\' "Skol\'ko" asks "how many", and the verb comes in the plural, "ushli". "Lyudey" is the plural "of" form.'),
     (9, None, '\'Stop giving me your moral lectures!\' "Nravoucheniye" is built from "nrav", character, and "uchit\'", to teach. It is a lecture on morals.'),
-    (10, None, '\'I simply genuinely feel sorry for this guy.\' "Mne zhal\'" is "to me pity", with the thing pitied in the "of" form. "Iskrenne" is "sincerely".'),
+    (10, None, '\'I simply genuinely feel sorry for this guy.\' "Mne zhal\'" is "to me pity", and the thing pitied goes in the "of" form. "Iskrenne" is "sincerely".'),
     (11, None, '\'Can I say that he is not fired?\' "Uvolen" is the short "fired". "Ne uvolen" is "not fired".'),
     (12, None, '\'Do what you want, just leave me alone!\' The chef gives up with "do what you want", and then "leave me", the same "ostav\' menya" as "leave me alone". The shortest surrender possible.'),
 ]

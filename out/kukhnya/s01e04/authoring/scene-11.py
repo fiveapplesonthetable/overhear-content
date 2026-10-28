@@ -31,7 +31,7 @@ STORY = [
     ('kostya', 'Удачи, друг, покажи свою смелость.', 'Good luck, my friend, show your courage.', [], ''),
 ]
 WALK = [
-    (0, None, '\'Watching her from afar again?\' "Izdaleka" is "from afar", built on "daleko", far. "Na neyo" is "at her", with an "n" added to "her".'),
+    (0, None, '\'Watching her from afar again?\' "Izdaleka", "from afar", is "daleko", far, with a "from" prefix. "Na neyo" is "at her", with an "n" added to "her".'),
     (1, None, '\'She seems so unapproachable today.\' "Unapproachable" is built from "ne" plus "accessible", with the "-oy" ending that follows "seems". Max makes Vika sound like a distant planet.'),
     (2, None, '\'Stop standing and merely watching.\' "Khvatit" is "enough", the one that comes with an infinitive. "Prosto" adds "merely".'),
     (3, None, '\'And what should I do, Kostya?\' "Chto mne delat\'" is the standard advice question: "what to me to do".'),
@@ -42,6 +42,6 @@ WALK = [
     (8, None, '\'Then at least you tried.\' Kostya sounds like a coach: "at least you tried". Russian packs "at least" into "khotya by".'),
     (9, None, '\'You are right, one cannot be afraid forever.\' "Prav" is the short form for "right". "Nel\'zya" is "not allowed", here "one mustn\'t". "Vechno" is "forever".'),
     (10, None, '\'Walk over and talk with her confidently.\' Walking up has "pod-", up to, in front of "go". And "confidently" grows out of "uveren", sure.'),
-    (11, None, '\'Thanks for the advice, I will do it!\' "Sovet" is "advice", and it\'s the same word as the Soviet "council". "Sdelayu" is "I will do".'),
+    (11, None, '\'Thanks for the advice, I will do it!\' "Sovet", "advice", is also the Soviet "council". "Sdelayu" is "I will do".'),
     (12, None, '\'Good luck, my friend, show your courage.\' "Udachi" is "of luck", with "I wish you" left out, like "good night". "Smelost\'" is "courage", from "smelyy", brave.'),
 ]

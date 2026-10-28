@@ -27,7 +27,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'I take it you won't have a date?' "Ya ponyal" is literally "I understood", and Russians use it for "I take it". Then "u tebya ne budet", "at you there will not be", and the date takes an "of" ending.
-- 'Yes, I said something completely stupid again.' Russians say they "said a stupidity", with "glupost'" as the thing said. "Polnuyu" is "complete", and it ends in "-uyu" for the object.
+- 'Yes, I said something completely stupid again.' Russians say they "said a stupidity", with "glupost'" as the thing said. "Polnuyu", "complete", ends in "-uyu" for the object.
 - 'You get way too nervous around her.' "Slishkom" is "too". "Nervnichayesh'" grows out of "nervy", nerves. "Pered ney" is "in front of her".
 - 'I cannot manage to speak beautifully!' "Ne poluchayetsya u menya" is literally "it doesn't work out at me", and it's how Russians say they just can't do it. You may remember "ne poluchitsya" from the knife scene.
 - 'One needs to learn this long and patiently.' "Terpelivo" is "patiently", from "terpet'", to bear or suffer. "Uchit'sya" is "to learn", and what you learn takes the "to" ending.
@@ -37,5 +37,5 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Okay, I will try to talk with Nastya.' "S Nastey" is "with Nastya", and the name changes to "-ey" after "with".
 - 'Thank you, friend, you will really help me out!' "Vyruchish'" means "you'll get me out of a tight spot", a warmer word than just "help".
 - 'I have about seven minutes right now.' Russian puts the number after the noun for "about": "minut sem'" is "about seven minutes", where "sem' minut" would be exactly seven.
-- 'Just say everything as gently as possible.' "Maksimal'no" is "maximally", borrowed. "Nezhno" comes from "nezhnyy", tender, the word for the fillet.
+- 'Just say everything as gently as possible.' "Maksimal'no" is "maximally", borrowed. "Nezhno" comes from "nezhnyy", tender, as in the fillet.
 - 'Do not worry, I am a natural diplomat!' "Prirozhdyonnyy" is "pri-" plus "rozhdyonnyy", born, so "born into it". Max is bragging.

@@ -30,7 +30,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Max, are we going to have lunch today?' "Obedat'" is "to have lunch", from "obed". Russian puts the verb first, as "have-lunch will we?".
 - 'Of course, everything is already almost ready!' "Pochti" is "almost". "Gotovo" ends in -o to agree with "vsyo", everything.
 - 'We all really want to eat.' Russians say "we want to eat" for "we're hungry". "Khotim" is "we want".
-- 'Wait a couple more minutes.' "Podozhdite" is the polite or plural "wait". "Paru" is "a couple", and "yeshchyo" is "more".
+- 'Wait a couple more minutes.' "Podozhdite" is "wait", aimed at someone you address as "vy". "Paru" is "a couple", and "yeshchyo" is "more".
 - 'What did you prepare for us today?' "Nam" is "to us", Russian's way to say "for us". "Prigotovil" is a man's "prepared".
 - 'I cooked a special purée soup.' "Svaril" has "s-", done, in front of "varit'", to boil. "Sup-pyure" is borrowed from French.
 - 'A regular soup would be better.' "By" is the little word that makes "would": "byl by luchshe", "would be better".
@@ -39,5 +39,5 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'You have never tasted such a thing.' Max claims they have never tasted such a thing: "never not tried", the double negative, and "such" in its "of" form.
 - 'The main thing is that it is tasty.' "Chtoby" is "so that", and Russians put the next word in the past, "bylo", to express a hope. "Vkusno" is "tasty".
 - 'This is not that usual slop.' "Mesivo" is a rude word for a mush or slop, from "mesit'", to knead. "Obychnoye" is "usual".
-- 'Alright, bring it quickly to the table!' "Nesi" is "carry", the family of "prinesu". "Na stol" is "onto the table", with no ending for movement.
+- 'Alright, bring it quickly to the table!' "Nesi" is "carry", a relative of "prinesu". "Na stol" is "onto the table", with no ending for movement.
 - 'Now I will surprise you all!' "Udivlyu" is "I will surprise", and the root is "udivitel'nyy", surprising. "Vas vsekh" is "all of you".

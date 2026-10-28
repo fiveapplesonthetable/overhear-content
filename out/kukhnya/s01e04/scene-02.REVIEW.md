@@ -30,12 +30,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Hello, Viktor Petrovich. Yes, we are expanding.' Elena uses his first name and father's name, which is formal and a bit cool. "Rasshiryayemsya" has "shirokiy", wide, inside it: "we widen ourselves".
 - 'You had better put a sign near the metro!' "Luchshe" before a command turns it into advice: "better put". "Tablichka" is a little sign, with a small ending that makes it sound mocking.
 - 'There is no need for that.' "Net nikakoy neobkhodimosti" is "there isn't any necessity", with "necessity" in the "of" form after "net".
-- 'Normal professionals do not look for work in newspapers.' "Ishchut" is "they look for", and it's a cousin of "ishchi". "Po gazetam" is "through newspapers", with the "-am" ending.
+- 'Normal professionals do not look for work in newspapers.' "Ishchut", "they look for", is a cousin of "ishchi". "Po gazetam" is "through newspapers", the "-am" ending following "po".
 - 'Excellent candidates have already come to me.' "Ko mne" is "to me", with "k" growing a "-o" to make it easier to say. "Prishli" is "came" for a group.
 - 'And from which restaurants are these people?' "Iz kakikh restoranov" is "from which restaurants", and both words take a plural "of" ending.
-- 'Some work in very respectable places.' Elena says some of them work in "worthy places", and the word for worthy is from the same root as dignity. "Places" takes the plural "in" ending, -akh.
+- 'Some work in very respectable places.' Elena says some of them work in "worthy places", and "worthy" is from the same root as dignity. "Places" takes the plural "in" ending, -akh.
 - 'Could someone really be leaving good restaurants?' "Neuzheli" is a question word of disbelief: "really?". "Iz khoroshikh restoranov" is "from good restaurants".
-- 'Maybe even from your restaurant.' Elena says it quietly, with "mozhet byt'" and "dazhe", "maybe" and "even". "Vashego" is the polite "your".
+- 'Maybe even from your restaurant.' Elena says it quietly, with "mozhet byt'" and "dazhe", "maybe" and "even". Elena keeps to the polite "your" in "vashego".
 - 'I will eat my chef's hat if my cooks leave!' "S''yem" is "I will eat", an irregular word. "Kolpak" is the tall chef's hat. Russian has "eat my hat" too, so the idiom is the same.
 - 'Then in advance I wish you bon appétit!' "Zaranee" is "za" plus "ranee", earlier: in advance. Elena wishes him a good meal because he'll be eating his hat.
 - 'My people are loyal to me to the end.' "Predany" comes from "predat'", to betray, and it means "devoted". "Do kontsa" is "to the end", from "konets".

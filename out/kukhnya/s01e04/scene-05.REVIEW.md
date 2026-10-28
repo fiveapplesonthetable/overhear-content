@@ -35,7 +35,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Today our runt is cooking lunch for the staff.' "Obed" is the midday meal. The cook comes at the end, so the news is saved for last.
 - 'This is a very important assignment.' "Otvetstvennoye" comes from "otvet", an answer, so it's a job you answer for. "Zadaniye" is an assignment, something "set" for you.
 - 'If they don't like it, they will eat you.' The joke is built from "to them it won't please" and "they will eat up". The "s-" on the front of "eat" means all of it, so Max would be eaten whole.
-- 'Did you understand me?' "Ponyal" is "understood", with a man's -l. The chef uses the friendly "you", as usual.
+- 'Did you understand me?' "Ponyal" is "understood", and the -l marks a man. The chef uses the friendly "you", as usual.
 - 'Yes, Chef, I understood everything.' Max repeats "ponyal" and adds "vsyo", everything. It's the answer a boss wants.
 - 'I dreamed so much of cooking in the kitchen.' "Mechtal" is a man's past of "to dream", and "tak" makes it "so". "Na kukhne" is "in the kitchen".
 - 'Well, are you pleased?' "Dovolen" is "content", and a woman would say "dovol'na".

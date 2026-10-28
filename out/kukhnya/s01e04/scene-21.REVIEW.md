@@ -27,15 +27,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Chef, our newcomer stood out again.' "Otlichilsya" means "distinguished himself", and Fedya says it sarcastically. "Otlichnyy", excellent, is from the same root.
-- 'What did you do in the kitchen again?' "Natvoril" is "to get up to mischief", built on "tvorit'", to create. The chef sounds exhausted.
-- 'In the dining room the guest's tongue turned blue!' "Yazyk" is both tongue and language. "Stal sinim" is "became blue", with the "as" ending.
+- 'What did you do in the kitchen again?' "Natvoril" means "to get up to mischief", and "tvorit'", to create, is inside it. The chef sounds exhausted.
+- 'In the dining room the guest's tongue turned blue!' "Yazyk" is both tongue and language. "Stal sinim" is "became blue", the "as" ending on "blue".
 - 'Did you ruin the soup with food coloring?' "Pishchevym" is "food" as a describing word, from "pishcha". "Krasitelem" ends in "-em", the "with" ending.
 - 'Chef, the soup turned out very delicious!' "Poluchilsya" is "turned out", masculine to match "sup". "Vkusnym" has the "as" ending after it.
-- 'This is how you thank me for kindness!' "Blagodarish'" is "you thank", and it grows from "blago", good, and "dar", gift. "Za dobrotu" is "for kindness".
+- 'This is how you thank me for kindness!' "Blagodarish'", "you thank", grows from "blago", good, and "dar", gift. "Za dobrotu" is "for kindness".
 - 'I gave you a chance to become a good cook.' The chef "gave" Max a chance "to become" a good cook. The cook takes "-om", and "good" takes "-im", the "as" endings.
 - 'Please, listen to me for at least a minute.' "Vyslushayte" has "vy-", out, so it's "hear out". "Khotya by" is "at least".
-- 'You have exactly two minutes!' "Rovno" is "exactly". "Dve" is the feminine "two", and "minuty" is the form after "two".
-- 'Quickly pack all your things!' "Pack" is really "gather", and "your own" is the word Russians use whenever the owner is the one acting.
+- 'You have exactly two minutes!' "Rovno" is "exactly". "Dve" is the feminine "two". "Minuty" is the form after "two".
+- 'Quickly pack all your things!' "Pack" is really "gather", and "your own" is what Russians say whenever the owner is the one acting.
 - 'Chef, I did not want to offend anyone.' "Nikogo" is "nobody", in the object form. "Obidet'" comes from "obida", offense.
 - 'Leave here, you are fired from the restaurant!' "Uvolen iz" is "fired from". "Ukhodi" is the command "leave".
 - 'I do not want to hear anything anymore!' "Bol'she nichego ne" is "more nothing not", the double negative once more.

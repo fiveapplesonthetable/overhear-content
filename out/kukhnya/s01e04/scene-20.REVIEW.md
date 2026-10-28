@@ -31,13 +31,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'This is my new delicious soup!' Max uses the proud "my". The describing words "new" and "delicious" come before the soup.
 - 'Why is it such a blue color?' "Takogo sinego tsveta" is "of such a blue colour", and Russians put colours in this "of" form. "Tsvet" also gives "flowers" in another form.
 - 'This is an original creator's recipe.' "Avtorskiy" is "author's", the word behind "avtorskaya kukhnya", a chef's signature cooking.
-- 'Thanks, I am on a diet today.' "Spasibo" is also a polite "no, thank you" here. "Na diete" is "on a diet", with the "on" word and -e.
-- 'Wait, this is really very delicious!' Max sounds surprised himself. "Deystvitel'no" is "really", built on "action".
-- 'Pardon, that is my food coloring!' "Pardon" is borrowed from French. "Krasitel'" is "dye", and it comes from "krasit'", to paint, the family of "krasivyy", beautiful.
-- 'I looked for it for so long!' "Iskal" is "looked for", with a man's -l. "Tak dolgo" is "so long".
+- 'Thanks, I am on a diet today.' "Spasibo" is also a polite "no, thank you" here. "Na diete" is "on a diet": the "on" word, then -e.
+- 'Wait, this is really very delicious!' Max sounds surprised himself. "Deystvitel'no" grows out of "action", which is why it means "really".
+- 'Pardon, that is my food coloring!' "Pardon" is borrowed from French. "Krasitel'", "dye", comes from "krasit'", to paint, a relative of "krasivyy", beautiful.
+- 'I looked for it for so long!' "Iskal" is "looked for", the -l a man's again. "Tak dolgo" is "so long".
 - 'Wait, where are you all going?' Max asks where everyone is going with "kuda", where to, and "you all" is two little words.
 - 'We do not want to eat chemicals.' "Khimiya" is chemistry, but Russians use it for artificial food. "Khimiyu" ends in -u as the object.
 - 'But this is actually delicious!' "Real'no" is slang for "actually" or "really". "Eto zhe" adds "after all".
 - 'What an interesting pretty little soup.' "Supchik" is "soup" with a diminutive ending, and here it sounds ironic.
 - 'Like you are eating the sea directly.' Senya uses "you eat" for the general "one eats". "As if" opens the comparison.
-- 'I told you it was delicious!' "Ya zhe govoril" is "I told you so", with the "zhe" for "after all".
+- 'I told you it was delicious!' "Ya zhe govoril" is "I told you so", the "zhe" carrying "after all".

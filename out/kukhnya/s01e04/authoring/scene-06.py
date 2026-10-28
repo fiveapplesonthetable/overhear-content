@@ -32,14 +32,14 @@ STORY = [
     ('max', 'Надо быть очень осторожным сегодня.', 'Must be very careful today.', [], ''),
 ]
 WALK = [
-    (0, None, '\'I will eat my chef\'s hat!\' "Svoy" is "my own", and Russian uses it whenever the owner is the one speaking. "Povarskoy" is "cook\'s", built on "povar".'),
+    (0, None, '\'I will eat my chef\'s hat!\' "Svoy" is "my own", and Russian uses it whenever the owner is the one speaking. "Povarskoy", "cook\'s", is "povar" with a describing ending.'),
     (1, None, '\'None of my people will go to you!\' The chef says "nobody from my people will not go", and the doubled negative is correct. "To you" is the short "k vam", and the whole line is swagger.'),
     (2, None, '\'Then bon appétit to you, Viktor!\' Elena turns the chef\'s hat joke around and wishes him a good meal. "Priyatnogo vam appetita" puts "to you" in the middle.'),
     (3, None, '\'Oh you, ungrateful people!\' "Neblagodarnyye" is "ne-" plus "blagodarnyye", thankful, from "blagodarit\'", to thank. It\'s a formal word for a big accusation.'),
     (4, None, '\'Whose résumé is lying on the table?\' "Ch\'yo" is "whose", in the neuter, because "rezyume" is neuter. "Lezhit" is "lies", and Russians say a thing "lies" on a table.'),
-    (5, None, '\'Who went for an interview to the competitors?\' "Khodil" is "went and came back", a round-trip form of "go". "K konkurentam" is "to competitors", with the "-am" ending.'),
+    (5, None, '\'Who went for an interview to the competitors?\' "Khodil" is "went and came back", a round-trip form of "go". "K konkurentam" is "to competitors", ending in "-am".'),
     (6, None, '\'Chef, we know nothing about this.\' "Nichego ne znayem" is "nothing we don\'t know", the double negative. "Ob etom" is "about this", with "ob" before a vowel.'),
-    (7, None, '\'Why are you all silent?\' "Molchite" is "you are silent", and it\'s the polite or plural "you". "Vy vse" is "you all".'),
+    (7, None, '\'Why are you all silent?\' "Molchite", "you are silent", uses the polite or plural "you". "Vy vse" is "you all".'),
     (8, None, '\'Do you think I won\'t find out anything?\' "Uznayu" is "I will find out", from "znat\'", to know. The double negative is back.'),
     (9, None, '\'We are loyal to our restaurant.\' "Verny" is "faithful", from "vera", faith. "Nashemu restoranu" is "to our restaurant", with "-omu" and "-u" endings for "to".'),
     (10, None, '\'Well then, I will find out everything myself!\' "Vyyasnyu" has "yasno", clear, in it, so "I will make it clear". "Nu chto zh" is "well then".'),

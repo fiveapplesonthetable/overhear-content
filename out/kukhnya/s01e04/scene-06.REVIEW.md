@@ -27,14 +27,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I will eat my chef's hat!' "Svoy" is "my own", and Russian uses it whenever the owner is the one speaking. "Povarskoy" is "cook's", built on "povar".
+- 'I will eat my chef's hat!' "Svoy" is "my own", and Russian uses it whenever the owner is the one speaking. "Povarskoy", "cook's", is "povar" with a describing ending.
 - 'None of my people will go to you!' The chef says "nobody from my people will not go", and the doubled negative is correct. "To you" is the short "k vam", and the whole line is swagger.
 - 'Then bon appétit to you, Viktor!' Elena turns the chef's hat joke around and wishes him a good meal. "Priyatnogo vam appetita" puts "to you" in the middle.
 - 'Oh you, ungrateful people!' "Neblagodarnyye" is "ne-" plus "blagodarnyye", thankful, from "blagodarit'", to thank. It's a formal word for a big accusation.
 - 'Whose résumé is lying on the table?' "Ch'yo" is "whose", in the neuter, because "rezyume" is neuter. "Lezhit" is "lies", and Russians say a thing "lies" on a table.
-- 'Who went for an interview to the competitors?' "Khodil" is "went and came back", a round-trip form of "go". "K konkurentam" is "to competitors", with the "-am" ending.
+- 'Who went for an interview to the competitors?' "Khodil" is "went and came back", a round-trip form of "go". "K konkurentam" is "to competitors", ending in "-am".
 - 'Chef, we know nothing about this.' "Nichego ne znayem" is "nothing we don't know", the double negative. "Ob etom" is "about this", with "ob" before a vowel.
-- 'Why are you all silent?' "Molchite" is "you are silent", and it's the polite or plural "you". "Vy vse" is "you all".
+- 'Why are you all silent?' "Molchite", "you are silent", uses the polite or plural "you". "Vy vse" is "you all".
 - 'Do you think I won't find out anything?' "Uznayu" is "I will find out", from "znat'", to know. The double negative is back.
 - 'We are loyal to our restaurant.' "Verny" is "faithful", from "vera", faith. "Nashemu restoranu" is "to our restaurant", with "-omu" and "-u" endings for "to".
 - 'Well then, I will find out everything myself!' "Vyyasnyu" has "yasno", clear, in it, so "I will make it clear". "Nu chto zh" is "well then".

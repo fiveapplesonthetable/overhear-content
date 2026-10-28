@@ -31,7 +31,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Vityushenka, my little runt.' "Vityushen'ka" is a tender pet name, with extra syllables for affection. He flips the nickname by calling the chef his "oguzok".
 - 'Have you completely lost your mind?' Literally "went off the mind". Barinov says "ty chto" at the start, as a kind of "what's wrong with you?".
 - 'Why are you sleeping here?' "Ty chto" works as "why" here, a colloquial "what are you...?". "Spish'" is "you sleep".
-- 'Chef, please forgive me.' Now Max switches to "vy", the polite you, awake at last. "Prostite" is the polite command.
+- 'Chef, please forgive me.' Now Max switches to "vy", the polite you, awake at last. "Prostite" is the formal "forgive".
 - 'I lay down for five minutes.' The little "pri-" on the front turns "lay down" into "lay down for a bit". For a stretch of time Russian uses "na", so "na pyat' minut" is "for five minutes".
 - 'You cannot sleep in the kitchen!' "Nel'zya" means "it's not allowed", or "it can't be done". It's a very useful word, and the one Nastya used to ask why she couldn't buy a knife.
 - 'I could not sleep all night.' Russian puts "all night" straight in the object form, "vsyu noch'", with no "during" in front. "Couldn't" is just "ne mog".

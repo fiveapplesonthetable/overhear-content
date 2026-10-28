@@ -30,14 +30,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Only you, Arkady, understand me.' "Tol'ko ty" is "only you". Barinov talks to a fish, and "ponimayesh'" is "you understand".
 - 'Around me are only slackers and fools!' "Odni" here means "nothing but". "Lentyai" comes from "len'", laziness, and "neumekhi" is "ne-" plus "umet'", know how.
 - 'Maxim, where are you getting ready to go now?' "Sobirayesh'sya" is "gather yourself", so "get ready". "Kuda" is "where to".
-- 'Anywhere, the chef just fired me.' "Kuda-nibud'" is "anywhere", with the "-nibud'" for "any". "Uvolil" is "fired".
+- 'Anywhere, the chef just fired me.' "Kuda-nibud'" is "anywhere", the "-nibud'" giving "any". "Uvolil" is "fired".
 - 'Maybe the chef was just joking unsuccessfully?' "Neudachno" is "ne-" plus "udacha", luck. "Poshutil" is "joked", from "shutka", a joke.
 - 'No, he never jokes like that.' The answer is a stack of negatives, "never so not", and "jokes" grows out of "shutka", a joke.
 - 'I really do not want you to leave!' "Chtoby" is "so that", and what follows goes in the past: "chtoby ty ukhodil". It's Russian's way to say "I want you to".
-- 'I also wanted to stay in this kitchen.' "Ostat'sya" is "to stay", with the little "self". "Na etoy kukhne" is "in this kitchen".
+- 'I also wanted to stay in this kitchen.' "Ostat'sya" is "to stay", plus the little "self". "Na etoy kukhne" is "in this kitchen".
 - 'Let me hide you right here!' "Davay ya" followed by an "I" form is "let me". "Spryachu" is "I will hide".
 - 'Thank you, Nastya, but hiding is silly.' "Pryatat'sya" is "to hide oneself", with "-sya". "Glupo" is "silly".
-- 'The main thing is do not worry because of the chef.' "Ne perezhivay" is "don't worry", and it's built on "pere-" plus "zhit'", to live: live through. "Iz-za" is "because of".
+- 'The main thing is do not worry because of the chef.' "Ne perezhivay" is "don't worry", and underneath it is "pere-" plus "zhit'", to live: live through it. "Iz-za" is "because of".
 - 'Now you have me in the restaurant!' "U tebya yest' ya" is literally "at you there is I", the full "have" pattern.
 - 'Thank you for the support, you are a true friend.' "Podderzhka" is "pod-" plus "derzhat'", to hold: hold up. "Nastoyashchiy" is "true".
 - 'We will definitely come up with something!' "Pridumayem" is "we will think up", from "dumat'". "Chto-nibud'" is "something".
