@@ -1,43 +1,31 @@
-# dix-pour-cent-s04e02-scene-14: review sheet
+# Review: `dix-pour-cent-s04e02-scene-14` — L'orthophoniste secret  (The Secret Speech Therapist)
 
-Title: L'orthophoniste secret  (The Secret Speech Therapist)
-Level: A1 — débutant
-Pair: fr-en
-Source: Dix pour cent (Call My Agent!) S04E02
-Cues 809-833. Outside the community center, Gabriel tries to pressure Dylan into dropping his complaint against Franck Dubosc, but Franck reveals the man Dylan met was really his speech therapist.
+- **Source**: `sources/dix-pour-cent/s04/e02.fr.dual.srt`
+- **Level**: A1 — débutant
+- **Voices**: `{"narrator": "sky", "gabriel": "theo", "franck": "marcel"}`
+- **Labels**: `{"gabriel": "Gabriel", "franck": "Franck"}`
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+## Part 1 — Intro
+> Outside the community center, Gabriel confronts young actor Dylan to salvage Franck Dubosc's reputation. Desperate to make Dylan drop his complaint, Gabriel resorts to clumsy accusations until Franck steps in with a surprising discovery. Let's listen to their conversation in French first.
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
-|---|---|---|---|---|---|
-| 1 | Léa | Dylan! Attends une seconde, s'il te plaît. | Dylan! Wait a second, please. | #809 00:37:54: Dylan ?<br>#813 00:38:04: S'il te plaît | adapted: Gabriel calls out to Dylan |
-| 2 | Dylan | Qu'est-ce que tu veux de moi? | What do you want from me? | #810 00:37:58: Qu'est-ce que tu veux | adapted: Dylan responds defensively |
-| 3 | Léa | Franck n'a rien à voir là-dedans. | Franck has nothing to do with it. | #812 00:38:02: Franck n'a rien à voir là-dedans | adapted: Gabriel defends his client |
-| 4 | Léa | S'il te plaît, retire ta plainte. | Please, withdraw your complaint. | #813 00:38:04: retire ta plainte | adapted: Gabriel pleads with Dylan |
-| 5 | Dylan | Non, je ne retire rien du tout. | No, I am withdrawing nothing at all. | #814 00:38:06: je retire rien du tout | adapted: Dylan refuses firmly |
-| 6 | Léa | Tu files du fric à tes amis? | Do you hand out cash to your friends? | #817 00:38:14: Tu files du fric à tes amis | adapted: Gabriel questions the transaction |
-| 7 | Dylan | Pourquoi tu me cherches des histoires? | Why are you picking fights with me? | #819 00:38:18: Pourquoi tu me cherches | adapted: Dylan bristles at the suspicion |
-| 8 | Léa | Voilà ce que je te propose. | Here is what I offer you. | #820 00:38:21: voilà ce que je te propose | adapted: Gabriel makes an offer |
-| 9 | Léa | Tu ramènes ton dealer sur le tournage? | Are you bringing your dealer on set? | #821 00:38:23: ton dealer sur le tournage | adapted: Gabriel makes a wild accusation |
-| 10 | Dylan | C'est un beau stéréotype ridicule. | That is a nice ridiculous stereotype. | #823 00:38:29: Beau stéréotype | adapted: Dylan calls out the bias |
-| 11 | Dylan | Vas-y, fais ce que tu veux! | Go ahead, do what you want! | #826 00:38:37: Ouais, vas-y | adapted: Dylan walks away angrily |
-| 12 | Léa | Quel connard, je n'y crois pas! | What an idiot, I do not believe it! | #827 00:38:40: Quel connard | adapted: Gabriel vents his frustration |
-| 13 | Franck | Je crois que tu te trompes. | I think you are mistaken. | #827 00:38:40: Je crois que tu te trompes | adapted: Franck intervenes |
-| 14 | Franck | C'était son orthophoniste, pas un dealer. | It was his speech therapist, not a dealer. | #828 00:38:44: C'était son orthophoniste | adapted: Franck reveals the truth |
+## Part 2 — Story Lines
+| # | Role | French | English | Source Cues |
+|---|------|--------|---------|-------------|
+| 0 | `gabriel` (Gabriel) | Dylan! Attends une seconde, s'il te plaît. | Dylan! Wait a second, please. | 809:Dylan ?, 813:S'il te plaît |
+| 1 | `franck` (Franck) | Qu'est-ce que tu veux de moi? | What do you want from me? | 810:Qu'est-ce que tu veux |
+| 2 | `gabriel` (Gabriel) | Franck n'a rien à voir là-dedans. | Franck has nothing to do with it. | 812:Franck n'a rien à voir là-dedans |
+| 3 | `gabriel` (Gabriel) | S'il te plaît, retire ta plainte. | Please, withdraw your complaint. | 813:retire ta plainte |
+| 4 | `franck` (Franck) | Non, je ne retire rien du tout. | No, I am withdrawing nothing at all. | 814:je retire rien du tout |
+| 5 | `gabriel` (Gabriel) | Tu files du fric à tes amis? | Do you hand out cash to your friends? | 817:Tu files du fric à tes amis |
+| 6 | `franck` (Franck) | Pourquoi tu me cherches des histoires? | Why are you picking fights with me? | 819:Pourquoi tu me cherches |
+| 7 | `gabriel` (Gabriel) | Voilà ce que je te propose. | Here is what I offer you. | 820:voilà ce que je te propose |
+| 8 | `gabriel` (Gabriel) | Tu ramènes ton dealer sur le tournage? | Are you bringing your dealer on set? | 821:ton dealer sur le tournage |
+| 9 | `franck` (Franck) | C'est un beau stéréotype ridicule. | That is a nice ridiculous stereotype. | 823:Beau stéréotype |
+| 10 | `franck` (Franck) | Vas-y, fais ce que tu veux! | Go ahead, do what you want! | 826:Ouais, vas-y |
+| 11 | `gabriel` (Gabriel) | Quel idiot, je n'y crois pas! | What an idiot, I cannot believe it! | 827:Quel connard |
+| 12 | `franck` (Franck) | Je crois que tu te trompes. | I think you are mistaken. | 827:Je crois que tu te trompes |
+| 13 | `franck` (Franck) | C'était son orthophoniste, pas un dealer. | It was his speech therapist, not a dealer. | 828:C'était son orthophoniste |
 
-## Walk-through narration (English only, no target-language words quoted)
-
-- 'Dylan! Wait a second, please.' Gabriel tries to stop the young actor before he walks away. The reflexive pronoun sits right in front of the verb for 'wait', turning the action back onto the subject.
-- 'What do you want from me?' Dylan reacts defensively to being cornered outside. The informal 'you' form around 'want' marks a direct, personal relationship.
-- 'Franck has nothing to do with it.' Gabriel insists that Franck Dubosc is completely innocent in this conflict. The clause hinges on the everyday verb meaning 'has'.
-- 'Please, withdraw your complaint.' Gabriel urges Dylan to drop the formal legal action against his client. The imperative verb 'retire' comes from 'retirer'.
-- 'No, I am withdrawing nothing at all.' Dylan firmly refuses to drop the charges against Franck. The two-part French negation brackets the verb for 'withdraw' on both sides.
-- 'Do you hand out cash to your friends?' Gabriel probes Dylan about the money he just handed over. The colloquial verb 'filer' means to give or hand over.
-- 'Why are you picking fights with me?' Dylan challenges Gabriel's hostile and intrusive questions. The reflexive pronoun sits right in front of the verb for 'seek', turning the action back onto the subject.
-- 'Here is what I offer you.' Gabriel attempts to lay down an ultimatum to settle the issue. The clause hinges on the everyday verb meaning 'propose'.
-- 'Are you bringing your dealer on set?' Gabriel recklessly accuses Dylan of illegal drug dealings. The noun 'tournage' refers to a film shoot.
-- 'That is a nice ridiculous stereotype.' Dylan points out the insulting bias behind Gabriel's accusation. The key noun here means 'stereotype', anchored by its matching French article.
-- 'Go ahead, do what you want!' Dylan dismisses Gabriel and dares him to carry out his threat. The imperative 'vas-y' encourages someone to proceed.
-- 'What an idiot, I do not believe it!' Gabriel vents his irritation once Dylan turns his back. The exclamative adjective 'quel' introduces a strong emotional reaction.
-- 'I think you are mistaken.' Franck Dubosc steps in to correct Gabriel's hasty conclusion. The reflexive pronoun sits right in front of the verb for 'believe', turning the action back onto the subject.
-- 'It was his speech therapist, not a dealer.' Franck clarifies the true identity of the man Dylan met. The noun 'orthophoniste' designates a speech-language therapist.
+## Part 5 — Outro & Closing
+> Gabriel tries every trick to protect his client, even making baseless accusations against Dylan. When you watch the episode, listen out for the expressions meaning 'wait' and 'second'. You'll catch them now. See you next time.
+- **Closing**: `gabriel`: *À bientôt!*

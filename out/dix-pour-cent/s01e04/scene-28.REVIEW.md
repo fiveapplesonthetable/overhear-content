@@ -1,43 +1,31 @@
-# dix-pour-cent-s01e04-scene-28: review sheet
+# Review: `dix-pour-cent-s01e04-scene-28` — Un rôle pour Sofia  (A Role for Sofia)
 
-Title: Un rôle pour Sofia  (A Role for Sofia)
-Level: A1 — débutant
-Pair: fr-en
-Source: Dix pour cent (Call My Agent!) S01E04
+- **Source**: `sources/dix-pour-cent/s01/e04.fr.dual.srt`
+- **Level**: A1 — débutant
+- **Voices**: `{"narrator": "sky", "gabriel": "theo", "sofia": "emilie", "lea": "lucie"}`
+- **Labels**: `{"gabriel": "Gabriel", "sofia": "Sofia", "lea": "Andréa"}`
 
+## Part 1 — Intro
+> Now Gabriel gets the phone call with the result, though the part isn't quite what Andréa expects. Listen to the scene in French first. Don't worry if it goes fast; we'll go through every line right after. Let's listen to the scene in French first.
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+## Part 2 — Story Lines
+| # | Role | French | English | Source Cues |
+|---|------|--------|---------|-------------|
+| 0 | `gabriel` (Gabriel) | Qui veut une bonne nouvelle? | Who wants some good news? | 739:Qui veut une bonne nouvelle |
+| 1 | `gabriel` (Gabriel) | Sofia a eu le rôle! | Sofia got the part! | 740:Sofia a eu le rôle |
+| 2 | `lea` (Andréa) | Super! Dans le film en costume? | Great! In the costume drama? | 741:Super, 744:un film en costume |
+| 3 | `lea` (Andréa) | Le réalisateur est intelligent. | The director is smart. | 743:réalisateurs |
+| 4 | `gabriel` (Gabriel) | Non, Sofia joue l'esclave. | No, Sofia is playing the slave. | 745:Non, Sofia joue l'esclave |
+| 5 | `lea` (Andréa) | Non! C'est vrai? | No! Really? | 746:Non |
+| 6 | `gabriel` (Gabriel) | Oui, elle fait le ménage pour la duchesse. | Yes, she does the cleaning for the duchess. | 746:Elle fait le ménage, 746:la duchesse |
+| 7 | `gabriel` (Gabriel) | Elle va être furieuse contre moi. | She | 748:Elle va |
+| 8 | `sofia` (Sofia) | Je joue l'esclave? | I | 749:l'esclave |
+| 9 | `gabriel` (Gabriel) | Oui, mais avec du texte en plus. | Yes, but with lines to say as well. | 750:en plus |
+| 10 | `sofia` (Sofia) | J'ai eu le rôle? | I got the part? | 751:J'ai eu le rôle |
+| 11 | `sofia` (Sofia) | Dans un film avec JoeyStarr! | In a film with JoeyStarr! | 751:Dans un film avec JoeyStarr |
+| 12 | `sofia` (Sofia) | C'est génial! Oh, Gabriel! | That | 753:Oh, Gabriel |
+| 13 | `sofia` (Sofia) | Merci! Je t'aime, je t'aime! | Thank you! I love you, I love you! | 754:Je t'aime, je t'aime |
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
-|---|---|---|---|---|---|
-| 1 | Gabriel | Qui veut une bonne nouvelle? | Who wants some good news? | #739 00:44:03: Qui veut une bonne nouvelle | verbatim |
-| 2 | Gabriel | Sofia a eu le rôle! | Sofia got the part! | #740 00:44:06: Sofia a eu le rôle | verbatim |
-| 3 | Andréa | Super! Dans le film en costume? | Great! In the costume drama? | #741 00:44:08: Super<br>#744 00:44:17: un film en costume | verbatim |
-| 4 | Andréa | Le réalisateur est intelligent. | The director is smart. | #743 00:44:15: réalisateurs | adapted: simplified from 742-744 |
-| 5 | Gabriel | Non, Sofia joue l'esclave. | No, Sofia is playing the slave. | #745 00:44:19: Non, Sofia joue l'esclave | verbatim |
-| 6 | Andréa | Non! C'est vrai? | No! Really? | #746 00:44:22: Non | verbatim |
-| 7 | Gabriel | Oui, elle fait le ménage pour la duchesse. | Yes, she does the cleaning for the duchess. | #746 00:44:22: Elle fait le ménage<br>#746 00:44:22: la duchesse | adapted: simplified from 746-747 |
-| 8 | Gabriel | Elle va être furieuse contre moi. | She's going to be furious with me. | #748 00:44:28: Elle va | adapted: simplified from 'Elle va m'en vouloir' |
-| 9 | Léa | Je joue l'esclave? | I'm playing the slave? | #749 00:44:30: l'esclave | adapted: at the reception desk |
-| 10 | Gabriel | Oui, mais avec du texte en plus. | Yes, but with lines to say as well. | #750 00:44:33: en plus | adapted: 'des dialogues' -> 'du texte' |
-| 11 | Léa | J'ai eu le rôle? | I got the part? | #751 00:44:34: J'ai eu le rôle | verbatim |
-| 12 | Léa | Dans un film avec JoeyStarr! | In a film with JoeyStarr! | #751 00:44:34: Dans un film avec JoeyStarr | verbatim |
-| 13 | Léa | C'est génial! Oh, Gabriel! | That's brilliant! Oh, Gabriel! | #753 00:44:42: Oh, Gabriel | adapted: 752 swearing replaced by 'C'est génial!' |
-| 14 | Léa | Merci! Je t'aime, je t'aime! | Thank you! I love you, I love you! | #754 00:44:43: Je t'aime, je t'aime | verbatim |
-
-## Walk-through narration (English only, no target-language words quoted)
-
-- 'Who wants some good news?' In French, 'a piece of news' is a countable feminine word: literally 'a good news'.
-- 'Sofia got the part!' Literally 'Sofia has had the role'. The short word at the end is the past participle of 'to have'.
-- 'Great! In the costume drama?' Literally 'in the film in costume'.
-- 'The director is smart.' Andréa is impressed that the director cast a Black actress in a period film.
-- 'No, Sofia is playing the slave.' Gabriel has to admit the truth about the role.
-- 'No! Really?' Literally 'it's true?'. Andréa can't believe it.
-- 'Yes, she does the cleaning for the duchess.' 'To do the housework' or 'cleaning' is a fixed phrase with 'to do'.
-- 'She's going to be furious with me.' Gabriel dreads breaking the news to Sofia at the reception desk.
-- 'I'm playing the slave?' Now we're at reception. Sofia checks what she just heard.
-- 'Yes, but with lines to say as well.' Literally 'with some text in addition'. It's a speaking part, not just an extra.
-- 'I got the part?' Literally 'I have had the role?'. Only now does it sink in for Sofia that she actually passed the audition.
-- 'In a film with JoeyStarr!' For Sofia, acting in a real movie alongside a famous star is all that matters.
-- 'That's brilliant! Oh, Gabriel!' Instead of being angry, she is over the moon.
-- 'Thank you! I love you, I love you!' She jumps up and hugs her new agent.
+## Part 5 — Outro & Closing
+> Sofia has her very first film role, and Gabriel is a proud agent. Remember how 'I got the part' is said in French: 'I have had the role'. See you next time.
+- **Closing**: `sofia`: *Bonne soirée!*

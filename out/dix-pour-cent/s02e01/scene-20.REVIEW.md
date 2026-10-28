@@ -1,49 +1,34 @@
-# dix-pour-cent-s02e01-scene-20: review sheet
+# Review: `dix-pour-cent-s02e01-scene-20` — Le caprice d'Hicham  (Hicham's Whim)
 
-Title: Le caprice d'Hicham  (Hicham's Whim)
-Level: A1 — débutant
-Pair: fr-en
-Source: Dix pour cent (Call My Agent!) S02E01
-Cues 550-640. Arriving on the Burgundy film set, Hicham generously offers his luxury car to save the shoot, but throws a sudden tantrum when the crew refuses to cast his cousin as the on-screen driver.
+- **Source**: `sources/dix-pour-cent/s02/e01.fr.dual.srt`
+- **Level**: A1 — débutant
+- **Voices**: `{"narrator": "sky", "karine": "emilie", "hicham": "marcel", "lea": "lucie"}`
+- **Labels**: `{"karine": "Karine", "hicham": "Hicham", "lea": "Andréa"}`
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+## Part 1 — Intro
+> Andréa brings Hicham onto the chaotic film set of Léa Seydoux's latest movie. When a key vehicle breaks down, Hicham generously volunteers his own sports car to help. However, his impulsive demands quickly clash with the reality of film production. Listen to the scene in French first.
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
-|---|---|---|---|---|---|
-| 1 | Hicham | Je peux jeter un œil? | Can I take a look around? | #551 00:30:26: Je peux jeter un œil | verbatim |
-| 2 | Léa | C'est un film institutionnel pour ASK. | This is a major film for ASK. | #553 00:30:31: C'est un film institutionnel pour ASK | verbatim |
-| 3 | Léa | On a le réalisateur et l'actrice principale, Léa Seydoux. | We have the director and the lead actress, Léa Seydoux. | #554 00:30:34: On a le réalisateur<br>#556 00:30:39: et l'actrice principale, Léa Seydoux | verbatim |
-| 4 | Karine | Léa est rentrée à l'hôtel. | Léa went back to the hotel. | #561 00:30:57: moi c'est Karine<br>#562 00:31:00: Léa est rentrée à l'hôtel | verbatim |
-| 5 | Karine | C'est difficile depuis hier. Quand la voiture a lâché, on a dû s'arrêter. | It has been hard since yesterday. When the car gave up, we had to stop. | #599 00:33:06: depuis hier<br>#602 00:33:14: Quand la voiture a lâché | adapted: Cleaned vulgar language |
-| 6 | Hicham | Vous pourriez utiliser ma voiture? | Could you use my car? | #605 00:33:24: Vous pourriez utiliser ma voiture | verbatim |
-| 7 | Hicham | Même style, même couleur. | Same style, same color. | #606 00:33:27: Même style, même couleur | verbatim |
-| 8 | Karine | Pourquoi pas? C'est super! | Why not? That's great! | #608 00:33:30: Pourquoi pas<br>#611 00:33:36: C'est super | verbatim |
-| 9 | Karine | Il nous la faudrait encore quelques jours. | We would need it for a couple more days. | #613 00:33:41: il nous la faudrait encore quelques jours | verbatim |
-| 10 | Hicham | Pas de problème, avec plaisir. | No problem, with pleasure. | #614 00:33:43: Pas de problème, avec plaisir | verbatim |
-| 11 | Hicham | J'ai une idée. Mon cousin Saïd, c'est lui qui conduit dans le film. | I have an idea. My cousin Saïd, he's the one who drives in the film. | #619 00:33:53: J'ai une idée<br>#620 00:33:56: Dans le film<br>#627 00:34:14: Mon cousin | verbatim |
-| 12 | Karine | Non, Hicham, ce n'est pas comme ça que ça marche. | No, Hicham, that's not how it works. | #621 00:33:59: Non, Hicham, c'est pas comme ça que ça marche | adapted: Restored 'ne' for standard French |
-| 13 | Karine | On a déjà un acteur professionnel. | We already have a professional actor. | #622 00:34:02: On a déjà<br>#624 00:34:08: un acteur professionnel | verbatim |
-| 14 | Hicham | Mon cousin s'en sortira très bien. | My cousin will do very well. | #627 00:34:14: il s'en sortira très bien | verbatim |
-| 15 | Hicham | Bon, laissez tomber. Au revoir! | Okay, forget it. Goodbye! | #630 00:34:22: Bon, laissez tomber<br>#632 00:34:26: Au revoir | verbatim |
-| 16 | Karine | Il est fou ce mec. | The guy's crazy. | #637 00:34:44: Il est fou ce mec | verbatim |
-| 17 | Léa | Non, attendez, Hicham! Hicham! | No, wait, Hicham! Hicham! | #634 00:34:31: Non, attendez, Hicham<br>#639 00:34:48: Hicham | verbatim |
+## Part 2 — Story Lines
+| # | Role | French | English | Source Cues |
+|---|------|--------|---------|-------------|
+| 0 | `hicham` (Hicham) | Je peux jeter un œil? | Can I take a look around? | 551:Je peux jeter un œil |
+| 1 | `lea` (Andréa) | C'est un film institutionnel pour ASK. | This is a major film for ASK. | 553:C'est un film institutionnel pour ASK |
+| 2 | `lea` (Andréa) | On a le réalisateur et l'actrice principale, Léa Seydoux. | We have the director and the lead actress, Léa Seydoux. | 554:On a le réalisateur, 556:et l'actrice principale, Léa Seydoux |
+| 3 | `karine` (Karine) | Léa est rentrée à l'hôtel. | Léa went back to the hotel. | 561:moi c'est Karine, 562:Léa est rentrée à l'hôtel |
+| 4 | `karine` (Karine) | Hier, notre voiture est tombée en panne sur la route. | Yesterday, our car broke down on the road. | 599:depuis hier, 602:Quand la voiture a lâché |
+| 5 | `hicham` (Hicham) | Vous pourriez utiliser ma voiture? | Could you use my car? | 605:Vous pourriez utiliser ma voiture |
+| 6 | `hicham` (Hicham) | Même style, même couleur. | Same style, same color. | 606:Même style, même couleur |
+| 7 | `karine` (Karine) | Pourquoi pas? C'est super! | Why not? That | 608:Pourquoi pas, 611:C'est super |
+| 8 | `karine` (Karine) | Il nous la faudrait encore quelques jours. | We would need it for a couple more days. | 613:il nous la faudrait encore quelques jours |
+| 9 | `hicham` (Hicham) | Pas de problème, avec plaisir. | No problem, with pleasure. | 614:Pas de problème, avec plaisir |
+| 10 | `hicham` (Hicham) | J'ai une idée. Mon cousin Saïd conduit très bien. | I have an idea. My cousin Saïd drives very well. | 619:J'ai une idée, 620:Dans le film, 627:Mon cousin |
+| 11 | `karine` (Karine) | Non, Hicham, ce n'est pas comme ça que ça marche. | No, Hicham, that | 621:Non, Hicham, c'est pas comme ça que ça marche |
+| 12 | `karine` (Karine) | On a déjà un acteur professionnel. | We already have a professional actor. | 622:On a déjà, 624:un acteur professionnel |
+| 13 | `hicham` (Hicham) | Mon cousin s'en sortira très bien. | My cousin will do very well. | 627:il s'en sortira très bien |
+| 14 | `hicham` (Hicham) | Bon, laissez tomber. Au revoir! | Okay, forget it. Goodbye! | 630:Bon, laissez tomber, 632:Au revoir |
+| 15 | `karine` (Karine) | Il est fou ce mec. | The guy | 637:Il est fou ce mec |
+| 16 | `lea` (Andréa) | Non, attendez, Hicham! Hicham! | No, wait, Hicham! Hicham! | 634:Non, attendez, Hicham, 639:Hicham |
 
-## Walk-through narration (English only, no target-language words quoted)
-
-- 'Can I take a look around?' Hicham asks eagerly as they arrive on the set. The idiom jeter un œil literally means to throw an eye.
-- 'This is a major film for ASK.' Andréa proudly introduces the high-profile project. The demonstrative pronoun c'est introduces the predicate noun.
-- 'We have the director and the lead actress, Léa Seydoux.' She lists the prestigious talent. The adjective principale follows the noun it modifies.
-- 'Léa went back to the hotel.' Karine, the production assistant, explains the star's absence. Because Léa is female, the past participle rentrée takes an extra e.
-- 'It has been hard since yesterday. When the car gave up, we had to stop.' The crew faces major delays. The preposition depuis indicates an action continuing from the past.
-- 'Could you use my car?' Hicham steps forward with a generous offer. The conditional form vous pourriez makes a polite suggestion.
-- 'Same style, same color.' He points out that his sports car is an exact visual match. The adjective même precedes the noun when it means same.
-- 'Why not? That's great!' Karine is thrilled by the unexpected solution. The phrase pourquoi pas expresses enthusiastic agreement.
-- 'We would need it for a couple more days.' She explains the filming schedule. The conditional structure il faudrait expresses a requirement.
-- 'No problem, with pleasure.' Hicham basks in playing the generous patron. The prepositional phrase avec plaisir is a polite confirmation.
-- 'I have an idea. My cousin Saïd, he's the one who drives in the film.' He suddenly adds an impossible condition. The cleft sentence c'est lui qui emphasizes the subject.
-- 'No, Hicham, that's not how it works.' Karine firmly pushes back. The phrase comme ça means like that or in that way.
-- 'We already have a professional actor.' The production must respect union rules and continuity. The adverb déjà sits right after the verb.
-- 'My cousin will do very well.' Hicham refuses to take no for an answer. The future simple s'en sortira expresses certainty.
-- 'Okay, forget it. Goodbye!' Offended at not getting his way, Hicham abruptly storms off. The imperative phrase laissez tomber means drop it or forget it.
-- 'The guy's crazy.' Karine stares in shock as the billionaire walks away. The colloquial noun mec means guy or bloke.
-- 'No, wait, Hicham! Hicham!' Andréa chases after him in desperation. The imperative form attendez calls out for him to stop.
+## Part 5 — Outro & Closing
+> Hicham proved that while he has immense resources, his temper and whims are a force of nature. Remember the everyday expression for letting something drop: laisser tomber. Until next time.
+- **Closing**: `karine`: *Bonne soirée!*

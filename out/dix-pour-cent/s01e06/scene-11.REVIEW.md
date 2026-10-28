@@ -1,47 +1,33 @@
-# dix-pour-cent-s01e06-scene-11: review sheet
+# Review: `dix-pour-cent-s01e06-scene-11` — Notre père  (Our Father)
 
-Title: Notre père  (Our Father)
-Level: A1 — débutant
-Pair: fr-en
-Source: Dix pour cent (Call My Agent!) S01E06
-Cues 288-322. Camille and Hippolyte meet at a Parisian sidewalk cafe to sign his contracts. They discuss the cold weather, their father Mathias, and agree to become brother and sister buddies. Adapted for A1 French.
+- **Source**: `sources/dix-pour-cent/s01/e06.fr.dual.srt`
+- **Level**: A1 — débutant
+- **Voices**: `{"narrator": "sky", "hippolyte": "theo", "camille": "emilie", "serveur": "marcel"}`
+- **Labels**: `{"hippolyte": "Hippolyte", "camille": "Camille", "serveur": "Le serveur"}`
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+## Part 1 — Intro
+> Refusing to visit the agency while his father Mathias is there, Hippolyte asks Camille to meet him at a cafe. Sitting outside on a cold Paris afternoon, the two half-siblings sign contracts, talk about their shared father, and invent a warm new friendship. Let's listen to the scene in French first.
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
-|---|---|---|---|---|---|
-| 1 | Hippolyte | Mon père est là? | Is my father there? | #288 00:17:37: Mon père est là | verbatim |
-| 2 | Léa | Oui. | Yes. | #289 00:17:38: Oui | verbatim |
-| 3 | Hippolyte | Je ne viens pas, alors. Je ne veux pas le voir. | I'm not coming, then. I don't want to see him. | #290 00:17:39: Je ne viens pas, alors<br>#290 00:17:39: Je ne veux pas le voir | verbatim |
-| 4 | Léa | On peut se retrouver ailleurs? | Can we meet somewhere else? | #292 00:17:46: On peut se retrouver ailleurs | verbatim |
-| 5 | Hippolyte | Salut! | Hi! | #293 00:17:55: Salut | verbatim |
-| 6 | Léa | Un café, s'il vous plaît. | A coffee, please. | #294 00:18:02: Un café, s'il vous plaît | verbatim |
-| 7 | Le serveur | D'accord. | All right. | #294 00:18:02: D'accord | verbatim |
-| 8 | Hippolyte | Il a soudainement fait froid. C'est l'enfer en scooter. | It suddenly got cold. It is hell on a scooter. | #295 00:18:09: Il a soudainement fait froid<br>#296 00:18:12: C'est l'enfer en scooter | verbatim |
-| 9 | Léa | Il gèle à vélo. Je pédale comme une folle! | It's freezing on a bike. I pedal like crazy! | #297 00:18:14: Il gèle à vélo<br>#298 00:18:16: Je pédale comme une folle | verbatim |
-| 10 | Léa | Voici vos contrats. | Here are your contracts. | #302 00:18:30: Vos contrats | verbatim |
-| 11 | Hippolyte | Mon stylo ne marche pas. Désolé. | My pen is not working. Sorry. | #304 00:18:40: Mon stylo ne marche pas<br>#304 00:18:40: Désolé | verbatim |
-| 12 | Hippolyte | C'est mon père qui devrait s'excuser, pas toi. | My father is the one who should apologize, not you. | #306 00:18:51: C'est mon père qui devrait s'excuser, pas toi | verbatim |
-| 13 | Léa | Notre père! C'est trop bizarre. | Our father! It is so weird. | #307 00:18:56: Notre père<br>#308 00:19:00: C'est trop bizarre | verbatim |
-| 14 | Hippolyte | On va juste oublier ça et devenir amis. | We are just going to forget about that and become friends. | #315 00:19:17: On va... juste oublier ça<br>#316 00:19:20: Et devenir amis | verbatim |
-| 15 | Hippolyte | Tu es ma sœpote et je suis ton frote! | You are my sister-buddy and I am your brother-buddy! | #319 00:19:30: mon "frote"<br>#320 00:19:32: Je suis ta "sœpote" | adapted: Contraction unpacked |
-| 16 | Léa | Tchin, frote! | Cheers, brother-buddy! | #322 00:19:37: Tchin, frote | verbatim |
+## Part 2 — Story Lines
+| # | Role | French | English | Source Cues |
+|---|------|--------|---------|-------------|
+| 0 | `hippolyte` (Hippolyte) | Mon père est là? | Is my father there? | 288:Mon père est là |
+| 1 | `camille` (Camille) | Oui. | Yes. | 289:Oui |
+| 2 | `hippolyte` (Hippolyte) | Je ne viens pas, alors. Je ne veux pas le voir. | I am not coming, then. I do not want to see him. | 290:Je ne viens pas, alors, 290:Je ne veux pas le voir |
+| 3 | `camille` (Camille) | On peut se retrouver ailleurs? | Can we meet somewhere else? | 292:On peut se retrouver ailleurs |
+| 4 | `hippolyte` (Hippolyte) | Salut! | Hi! | 293:Salut |
+| 5 | `camille` (Camille) | Un café, s'il vous plaît. | A coffee, please. | 294:Un café, s'il vous plaît |
+| 6 | `serveur` (Le serveur) | D'accord. | All right. | 294:D'accord |
+| 7 | `hippolyte` (Hippolyte) | Il a soudainement fait froid. C'est l'enfer en scooter. | It suddenly got cold. It is hell on a scooter. | 295:Il a soudainement fait froid, 296:C'est l'enfer en scooter |
+| 8 | `camille` (Camille) | Il gèle à vélo. Je pédale comme une folle! | It is freezing on a bike. I pedal like crazy! | 297:Il gèle à vélo, 298:Je pédale comme une folle |
+| 9 | `camille` (Camille) | Voici vos contrats. | Here are your contracts. | 302:Vos contrats |
+| 10 | `hippolyte` (Hippolyte) | Mon stylo ne marche pas. Désolé. | My pen is not working. Sorry. | 304:Mon stylo ne marche pas, 304:Désolé |
+| 11 | `hippolyte` (Hippolyte) | C'est mon père qui devrait s'excuser, pas toi. | My father is the one who should apologize, not you. | 306:C'est mon père qui devrait s'excuser, pas toi |
+| 12 | `camille` (Camille) | Notre père! C'est trop bizarre. | Our father! It is so weird. | 307:Notre père, 308:C'est trop bizarre |
+| 13 | `hippolyte` (Hippolyte) | On va juste oublier ça et devenir amis. | We are just going to forget about that and become friends. | adapted |
+| 14 | `hippolyte` (Hippolyte) | Tu es ma sœpote et je suis ton frote! | You are my sister-buddy and I am your brother-buddy! | 300:suis, 300:suis |
+| 15 | `camille` (Camille) | Tchin, frote! | Cheers, brother-buddy! | adapted |
 
-## Walk-through narration (English only, no target-language words quoted)
-
-- 'Is my father there?' Hippolyte checks whether Mathias is at ASK. Mon pere means my father.
-- 'Yes.' Camille confirms with a simple affirmative oui, meaning yes.
-- 'I am not coming, then. I do not want to see him.' Venir means to come, and voir means to see.
-- 'Can we meet somewhere else?' Se retrouver is a reflexive verb meaning to meet up.
-- 'Hi!' Hippolyte greets Camille warmly when she arrives at the terrace.
-- 'A coffee, please.' Camille places an order with the waiter. Un cafe means an espresso coffee.
-- 'All right.' The waiter acknowledges her order with d'accord, meaning okay or all right.
-- 'It suddenly got cold. It is hell on a scooter.' Soudainement means suddenly, and l'enfer means hell.
-- 'It is freezing on a bike. I pedal like crazy!' Geler means to freeze, and pedaler means to pedal.
-- 'Here are your contracts.' Voici is a handy demonstrative word meaning here is or here are.
-- 'My pen is not working. Sorry.' Un stylo is a pen, and marcher means to work.
-- 'My father is the one who should apologize, not you.' S'excuser is a reflexive verb meaning to apologize.
-- 'Our father! It is so weird.' Notre pere emphasizes their sibling bond, and bizarre means weird.
-- 'We are just going to forget about that and become friends.' Oublier means to forget, and devenir means to become.
-- 'You are my sister-buddy and I am your brother-buddy!' They coin playful portmanteau words with pote.
-- 'Cheers, brother-buddy!' Tchin is a joyful French toast equivalent to cheers.
+## Part 5 — Outro & Closing
+> Having made peace with their unusual family bond, Camille and Hippolyte raise their cups together. Meanwhile, Andréa drives out to the countryside to track down François Berléand. Here is our final toast. Until next time.
+- **Closing**: `camille`: *Bonne soirée!*

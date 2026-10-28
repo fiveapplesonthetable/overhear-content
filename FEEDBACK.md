@@ -253,12 +253,12 @@ Done by script (all checked in, each with its output in a separate commit): `too
 (French IPA from the corpus or espeak-ng, Russian stress from the corpus or RuAccent, lexicon `stress` never null),
 `tools/fix_invariable_forms.py` (indeclinable nouns), `tools/fix_placeholder_narration.py`, plus 99 hand-written summaries and
 4 filled locations. After the merge with the new Kukhnya S2-S6 episodes (3,536 scenes) the scripts were simply re-run. Result with
-the app validator (`--require-notes`): **lenient 3536 of 3536 scenes pass, strict 95 of 3536**. Re-run the scripts on any new episode
+the app validator (`--require-notes`): **lenient 3536 of 3536 scenes pass, strict 751 of 3536**. Re-run the scripts on any new episode
 (`migrate_v1.py`, `fix_tokens.py`, `fill_stress.py`, `fix_invariable_forms.py`, `fix_placeholder_narration.py`; all idempotent).
 
 Still failing strictly, none of it mechanical:
-- **Closing line (3,333 scripts).** Needs a new farewell segment and its annotation entry per script (item 5).
-- **Source ties outside the scene (148 scripts)** (item 6) and **role keys missing from `characters.md`** (item 8). Writing
+- **Closing line (2,760 scripts).** Needs a new farewell segment and its annotation entry per script (item 5).
+- **Source ties outside the scene (96 scripts)** (item 6) and **role keys missing from `characters.md`** (item 8). Writing
   the character entries needs a human decision about who each extra is.
 - **Show-wide**: voices and role keys (item 7), lexicon conflicts (item 10), duplicated pictures (item 11).
 

@@ -1,43 +1,31 @@
-# dix-pour-cent-s02e02-scene-15: review sheet
+# Review: `dix-pour-cent-s02e02-scene-15` — La fausse Debbie MacWilliams  (The Fake Debbie MacWilliams)
 
-Title: La fausse Debbie MacWilliams  (The Fake Debbie MacWilliams)
-Level: A1 — débutant
-Pair: fr-en
-Source: Dix pour cent (Call My Agent!) S02E02
-Cues 505-539. At an upscale Parisian cafe, Linda Gérard meets Fabrice Luchini while posing as British casting director Debbie MacWilliams. She claims she wanted to cast him as a villain in the new James Bond film, but his agent Bréhier never replied, forcing her to offer the role to Antonio Banderas.
+- **Source**: `sources/dix-pour-cent/s02/e02.fr.dual.srt`
+- **Level**: A1 — débutant
+- **Voices**: `{"narrator": "sky", "linda": "emilie", "fabrice": "theo"}`
+- **Labels**: `{"linda": "Linda", "fabrice": "Fabrice"}`
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+## Part 1 — Intro
+> However, she claims his agent François Bréhier neglected her emails until the role had to be handed to Antonio Banderas instead. Listen to the scene in French first. Don't worry about catching every word. Let's listen to the scene in French first.
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
-|---|---|---|---|---|---|
-| 1 | Léa | Fabrice! Tu es enfin là. | Fabrice! You are finally here. | #505 00:26:09: Fabrice ! Tu es enfin là | verbatim |
-| 2 | Fabrice | Pardon, je ne t'ai pas fait attendre? | Sorry, I didn't keep you waiting? | #506 00:26:14: Je ne t'ai pas fait attendre | verbatim |
-| 3 | Léa | Ton agent Bréhier ne me répond jamais. | Your agent Bréhier never answers me. | #510 00:26:26: je n'entends jamais parler du tien | verbatim |
-| 4 | Fabrice | Vraiment? C'est très étrange. | Really? That is very strange. | #514 00:26:39: Il y a un problème | verbatim |
-| 5 | Léa | Je voulais te proposer le prochain Bond. | I wanted to offer you the next Bond. | #518 00:26:50: il s'agit du prochain Bond | verbatim |
-| 6 | Léa | Tu ferais un excellent méchant. | You would make an excellent villain. | #519 00:26:52: Tu ferais un excellent méchant | verbatim |
-| 7 | Fabrice | C'est vrai? C'est mon rêve d'enfant! | Is that true? That is my childhood dream! | #521 00:26:56: Jouer un méchant dans Bond, c'est un rêve<br>#522 00:26:59: Un rêve d'enfant | verbatim |
-| 8 | Fabrice | Ce serait absolument formidable pour moi. | It would be absolutely wonderful for me. | #522 00:26:59: Ce serait incroyable pour moi | verbatim |
-| 9 | Léa | Mais c'est trop tard, hélas. | But it is too late, alas. | #523 00:27:03: Malheureusement c'est trop tard | verbatim |
-| 10 | Léa | Sans réponse, nous avons choisi Antonio Banderas. | Without an answer, we chose Antonio Banderas. | #524 00:27:07: Le casting est bouclé<br>#525 00:27:09: Ce sera Antonio Banderas | verbatim |
-| 11 | Fabrice | Antonio Banderas? Je ne comprends pas! | Antonio Banderas? I do not understand! | #525 00:27:09: Ce sera Antonio Banderas<br>#526 00:27:15: Je ne comprends pas | verbatim |
-| 12 | Léa | J'ai un petit film en Irlande. | I have a small film in Ireland. | #529 00:27:21: J'ai ce film indépendant, situé en Irlande | verbatim |
-| 13 | Léa | Un rôle de professeur sous la pluie. | A role of teacher in the rain. | #531 00:27:27: sous la pluie<br>#532 00:27:29: jouer un professeur de français | verbatim |
-| 14 | Fabrice | Sous la pluie? Bréhier va m'entendre! | In the rain? Bréhier will hear from me! | #534 00:27:37: Il avait l'air comment | adapted: Dramatic comic realization |
+## Part 2 — Story Lines
+| # | Role | French | English | Source Cues |
+|---|------|--------|---------|-------------|
+| 0 | `linda` (Linda) | Fabrice! Tu es enfin là. | Fabrice! You are finally here. | 505:Fabrice ! Tu es enfin là |
+| 1 | `fabrice` (Fabrice) | Pardon, je ne t'ai pas fait attendre? | Sorry, I didn | 506:Je ne t'ai pas fait attendre |
+| 2 | `linda` (Linda) | Ton agent Bréhier ne me répond jamais. | Your agent Bréhier never answers me. | 510:je n'entends jamais parler du tien |
+| 3 | `fabrice` (Fabrice) | Vraiment? C'est très étrange. | Really? That is very strange. | 514:Il y a un problème |
+| 4 | `linda` (Linda) | Je voulais te proposer le prochain Bond. | I wanted to offer you the next Bond. | 518:il s'agit du prochain Bond |
+| 5 | `linda` (Linda) | Tu ferais un excellent méchant. | You would make an excellent villain. | 519:Tu ferais un excellent méchant |
+| 6 | `fabrice` (Fabrice) | C'est vrai? C'est mon rêve d'enfant! | Is that true? That is my childhood dream! | 521:Jouer un méchant dans Bond, c'est un rêve, 522:Un rêve d'enfant |
+| 7 | `fabrice` (Fabrice) | Ce serait absolument formidable pour moi. | It would be absolutely wonderful for me. | 522:Ce serait incroyable pour moi |
+| 8 | `linda` (Linda) | Mais c'est trop tard, hélas. | But it is too late, alas. | 523:Malheureusement c'est trop tard |
+| 9 | `linda` (Linda) | Sans réponse, nous avons choisi Antonio Banderas. | Without an answer, we chose Antonio Banderas. | 524:Le casting est bouclé, 525:Ce sera Antonio Banderas |
+| 10 | `fabrice` (Fabrice) | Antonio Banderas? Je ne comprends pas! | Antonio Banderas? I do not understand! | 525:Ce sera Antonio Banderas, 526:Je ne comprends pas |
+| 11 | `linda` (Linda) | J'ai un petit film en Irlande. | I have a small film in Ireland. | 529:J'ai ce film indépendant, situé en Irlande |
+| 12 | `linda` (Linda) | Un rôle de professeur sous la pluie. | A role of teacher in the rain. | 531:sous la pluie, 532:jouer un professeur de français |
+| 13 | `fabrice` (Fabrice) | Sous la pluie? Bréhier va m'entendre! | In the rain? Bréhier will hear from me! | 534:Il avait l'air comment |
 
-## Walk-through narration (English only, no target-language words quoted)
-
-- 'Fabrice! You are finally here.' Linda welcomes Luchini with warmth and apparent relief.
-- 'Sorry, I didn't keep you waiting?' Fabrice politely apologizes for being late to the cafe.
-- 'Your agent Bréhier never answers me.' Linda delivers the initial blow by claiming his agent is unresponsive.
-- 'Really? That is very strange.' Fabrice expresses genuine confusion and surprise.
-- 'I wanted to offer you the next Bond.' Linda reveals the high-profile international project she allegedly wanted him for.
-- 'You would make an excellent villain.' Linda compliments his acting ability to play a memorable 007 antagonist.
-- 'Is that true? That is my childhood dream!' Fabrice is visibly moved and confesses his lifelong ambition.
-- 'It would be absolutely wonderful for me.' Fabrice reflects on how deeply meaningful the opportunity would have been.
-- 'But it is too late, alas.' Linda dramatically dashes his hopes with counterfeit regret.
-- 'Without an answer, we chose Antonio Banderas.' Linda claims the production was forced to sign another international star.
-- 'Antonio Banderas? I do not understand!' Fabrice is outraged and bewildered by the perceived loss.
-- 'I have a small film in Ireland.' Linda offers a meager consolation project in Northern Ireland.
-- 'A role of teacher in the rain.' Linda describes an unglamorous low-budget production under harsh weather.
-- 'In the rain? Bréhier will hear from me!' Furious at the indignity, Fabrice vows to confront his negligent agent.
+## Part 5 — Outro & Closing
+> Devastated by the supposed loss of a James Bond villain role, Fabrice Luchini directs all his anger at his agent Bréhier. Listen to the scene once more to master French conversational expressions. Until next time.
+- **Closing**: `fabrice`: *Bonne journée!*
