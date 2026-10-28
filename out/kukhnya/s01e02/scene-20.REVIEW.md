@@ -10,10 +10,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Шеф | Лёва, зайди ко мне в кабинет! | Lyova, come to my office! | #230: Лева, зайди ко мне | verbatim |
-| 2 | Лёва | Да, шеф, я уже здесь. | Yes, chef, I am already here. | #230: Да, шеф | verbatim |
+| 1 | Шеф | Лёва, зайди ко мне в кабинет! | Lyova, come to my office! | #230 00:17:06: Лева, зайди ко мне | verbatim |
+| 2 | Лёва | Да, шеф, я уже здесь. | Yes, chef, I am already here. | #230 00:17:06: Да, шеф | verbatim |
 | 3 | Шеф | Где мой любимый рыбий нож? | Where is my favorite fish knife? | new | new |
-| 4 | Лёва | Мы везде ищем его, шеф. | We are looking for it everywhere, chef. | #230: шеф | verbatim |
+| 4 | Лёва | Мы везде ищем его, шеф. | We are looking for it everywhere, chef. | #230 00:17:06: шеф | verbatim |
 | 5 | Шеф | Ты су-шеф или кто такой? | Are you a sous-chef or who? | new | new |
 | 6 | Лёва | Я слежу за порядком на кухне. | I maintain order in the kitchen. | new | new |
 | 7 | Шеф | Ты очень плохо следишь за кухней! | You keep an eye on the kitchen very poorly! | new | new |
@@ -23,22 +23,21 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 11 | Шеф | Если нож не найдётся, всех уволю! | If the knife is not found, I will fire everyone! | new | new |
 | 12 | Лёва | Шеф, мы обязательно найдём пропажу. | Chef, we will certainly find what went missing. | new | new |
 | 13 | Шеф | Иди и найди его прямо сейчас! | Go and find it right now! | new | new |
-| 14 | Лёва | Слушаюсь, шеф! Я найду нож. | Understood, chef! I will find the knife. | #230: Да, шеф | verbatim |
+| 14 | Лёва | Слушаюсь, шеф! Я найду нож. | Understood, chef! I will find the knife. | #230 00:17:06: Да, шеф | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lyova, come to my office!' Barinov barks a commanding order for his second-in-command to step into his private sanctuary immediately.
-- 'Yes, chef, I am already here.' Lyova scurries into the room, eager to show his prompt obedience to the enraged boss.
-- 'Where is my favorite fish knife?' Barinov demands to know the exact whereabouts of his most prized culinary possession.
-- 'We are looking for it everywhere, chef.' Lyova nervously assures the boss that the entire staff is actively scouring the premises for the item.
-- 'Are you a sous-chef or who?' Barinov viciously insults his subordinate's authority, questioning his basic competence as a manager.
-- 'I maintain order in the kitchen.' Lyova defensively insists that he is doing his job and keeping the kitchen running smoothly.
-- 'You keep an eye on the kitchen very poorly!' Barinov brutally rejects the excuse, criticizing his deputy's absolute failure to maintain control.
-- 'All the cooks are very busy with the search right now.' Lyova tries to appease the chef by stating that the whole brigade has dropped everything to search.
-- 'Without this knife, the restaurant does not function!' Barinov dramatically declares that the entire establishment is paralyzed without his special blade.
-- 'We checked all tables and shelves.' Lyova lists the thorough measures the team has already taken to locate the missing object.
-- 'If the knife is not found, I will fire everyone!' Barinov issues a terrifying ultimatum, threatening to fire every single employee if they fail.
-- 'Chef, we will certainly find what went missing.' Lyova desperately promises that they will recover the lost treasure no matter what it takes.
-- 'Go and find it right now!' Barinov screams a final, non-negotiable order to resume the frantic search instantly.
-- 'Understood, chef!' Lyova snaps to attention, acknowledging the terrifying command with absolute submission.
-- 'I will find the knife.' Lyova vows to personally track down the elusive tool to save his job and his team.
+- 'Lyova, come to my office!' "Zaydi" is "drop by", with "za-" meaning "on the way". "To me" becomes "ko mne" with an extra "o" for easier saying.
+- 'Yes, chef, I am already here.' "Already here" is two short words. Lyova needs no "am", since Russian leaves it out.
+- 'Where is my favorite fish knife?' "Fish knife" is "fish's knife", with the fish word in an adjective form. "Favorite" comes from "to love".
+- 'We are looking for it everywhere, chef.' "Everywhere" is one word. "Looking for" is the family of "ishchi", and "it" is the word that never changes.
+- 'Are you a sous-chef or who?' "Sous" is borrowed from French, as in "sous-chef". The second half, "or who such", is a rude way to ask "who are you?".
+- 'I maintain order in the kitchen.' "Slezhu za" means "keep an eye on", close to "follow after". "Order" is the word from "disorder" earlier.
+- 'You keep an eye on the kitchen very poorly!' The same verb comes back, now "you keep an eye". "Poorly" is "plokho", the opposite of "khorosho".
+- 'All the cooks are very busy with the search right now.' "Busy" is a short word, and "searches" is plural, from "poisk". "With" is shown by the ending "-ami".
+- 'Without this knife, the restaurant does not function!' "Without" is "bez", and it makes the knife take an "of" ending. "Works" is the word for "functions".
+- 'We checked all tables and shelves.' "Checked" ends in "-li" for "we". "Tables" and "shelves" are both plural.
+- 'If the knife is not found, I will fire everyone!' "Is found" ends in "-sya", as if the knife finds itself. "Everyone" takes the object form.
+- 'Chef, we will certainly find what went missing.' "Certainly" is the word from "obligatory". "What went missing" is a single noun, from the verb "to vanish".
+- 'Go and find it right now!' "Go and find" is two commands joined by "and". "Right now" is "straight now".
+- 'Understood, chef! I will find the knife.' "Slushayus'" is what a soldier says: "I'm listening", meaning "yes, sir". "I will find" is one word.

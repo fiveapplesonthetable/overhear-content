@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'fedya': 'Федя', 'senya': 'Сеня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.02'
 SOURCE_FILE = 'sources/kukhnya/s01/e02.ru.dual.srt'
-INTRO = "Furious that someone took his prized Japanese chef's knife and served an unauthorized dish, Viktor Barinov storms back into the kitchen. Confronting cooks Senya and Fedya, Barinov maliciously lies that the rival chef found their fricassee utterly revolting, triggering a frantic blame game between the panicked staff. Let's listen in Russian first."
-OPENER = "Let's replay a few lines to examine key phrases and vocabulary."
+INTRO = 'Elena has told Barinov the fricassee was fine, and the chef marches back to the kitchen anyway, furious that his knife is gone and his kitchen has been used without him. He lies about what the guest said, and Senya and Fedya start to blame each other. Here it is in Russian first.'
+OPENER = "Let's hear the blame game again."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Senya and Fedya scurry away as Barinov stands alone fuming in the kitchen. Next time you watch the episode, listen for the Russian expressions for 'dish' and 'fast' — you will catch every word right away. See you next time!"
+OUTRO = 'Barinov sends them all out, and he is still fuming when they go. The phrase to keep is "khvatit", which means "enough".'
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('barinov', 'Вы украли мой любимый японский нож!', 'You stole my favorite Japanese knife!', [(169, 'нож мой сперли')], ''),
@@ -31,8 +31,17 @@ STORY = [
     ('barinov', 'Убирайтесь с моей кухни прямо сейчас!', 'Get out of my kitchen right now!', [], ''),
 ]
 WALK = [
-    (0, None, "'And all of you get out of here quickly!' Chef Barinov bellows, clearing the line in fury."),
-    (1, None, "'Chef, we were only trying to help!' Senya tries to explain they were only trying to help."),
-    (2, None, "'She said that it was disgusting!' Barinov lies gleefully to terrify his subordinate cooks."),
-    (3, None, "'Chef, I told them right away!' Senya exclaims, instantly throwing his fellow cooks under the bus."),
+    (0, None, '\'You stole my favorite Japanese knife!\' The "u-" at the front of "stole" is the "away" prefix. It ends in "-li" because the chef is speaking to several people.'),
+    (1, None, '\'And you completely ruined my dish!\' "Ruined" is "spoiled" with a prefix, and "completely" is one word.'),
+    (2, None, '\'And all of you get out of here quickly!\' "Went out" is used as an order, which Russians do all the time. "Here" is in the "from here" form.'),
+    (3, None, '\'Chef, we were only trying to help!\' Word for word it\'s "we wanted as better", the stock excuse for good intentions.'),
+    (4, None, '\'I do not care what you were trying to do!\' Literally "to me to spit", a rude way to say "I couldn\'t care less". The last words are "what you there wanted".'),
+    (5, None, '\'Do you know what the guest said about the fricassee?\' A rising voice turns "you know" into a question. The woman guest has her own feminine form, and "about" is a casual short word.'),
+    (6, None, '\'Was she completely delighted?\' "In full delight" is a nice phrase to reuse, and "was" ends in -a for a woman.'),
+    (7, None, '\'She said that it was disgusting!\' The word for "disgusting" is long. "It" refers to the fricassee, which is a neuter word, and "that" is the same word as "what".'),
+    (8, None, '\'Chef, I told them right away!\' "To them" is a single short word, and "right away" is one too.'),
+    (9, None, '\'It was Senya who made that terrible sauce!\' Russian starts with "this Senya cooked", a handy way to point at who did it. "Terrible" comes from "horror".'),
+    (10, None, '\'No, Fedya roasted that partridge himself!\' "Himself" is the shifting-the-blame word, and "that partridge" ends in -u as the thing roasted.'),
+    (11, None, '\'Stop arguing! You are all terrible cooks!\' "Enough" is literally "it suffices". "Cooks" has the odd plural in -a.'),
+    (12, None, '\'Get out of my kitchen right now!\' The verb is "clear yourselves off", a rude "scram". "Off my kitchen" uses the little word meaning "from".'),
 ]

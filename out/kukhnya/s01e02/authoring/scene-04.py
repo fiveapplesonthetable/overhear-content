@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'nastya': 'Настя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.02'
 SOURCE_FILE = 'sources/kukhnya/s01/e02.ru.dual.srt'
-INTRO = 'This scene is set in the kitchen of Claude Monet from the second episode. Chef Viktor Barinov discovers that his favorite knife has disappeared, and he halts all work until someone finds it. Listen to the Russian story first, and then we will review the phrases together.'
-OPENER = "Let's examine the chef's furious search line by line."
+INTRO = "Chef Barinov has lost his favourite knife, and he is not going to let anyone forget it. Nastya is one of the people he questions. Here's the whole scene in Russian first, and don't worry about catching every word."
+OPENER = "Let's go back and watch the chef lose his temper."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = 'That concludes our fourth scene. When you watch the second episode of Kukhnya, listen for the chef shouting about his missing knife and declaring that nobody goes home until it is found. See you next time!'
+OUTRO = 'A missing knife, and no one is allowed home. If you hear "ne znayu" or "ne budu" in the next episode, you\'ll know what they mean.'
 CLOSING = ('nastya', 'До встречи!')
 STORY = [
     ('barinov', 'А где мой нож?', 'And where is my knife?', [(76, 'где мой нож')], ''),
@@ -32,19 +32,18 @@ STORY = [
     ('barinov', 'А ты знаешь, что это за нож?', 'And do you know what kind of knife this is?', [(93, 'А ты знаешь, что это за нож')], ''),
 ]
 WALK = [
-    (0, None, "'And where is my knife?' Chef Barinov suddenly notices his favorite tool is missing from its spot."),
-    (1, None, "'Who took my knife?' He angrily questions the entire kitchen about the theft."),
-    (2, None, "'Chef, I didn't take it.' Nastya quickly denies any involvement in the disappearance."),
-    (3, None, "'I repeat.' Chef Barinov slowly grinds out a warning that he is losing patience."),
-    (4, None, "'Who took my knife?' He shouts the question again to the terrified room."),
-    (5, None, "'I don't know, chef.' Nastya nervously maintains her total ignorance of the situation."),
-    (6, None, "'Nobody will go home from here.' Chef Barinov dramatically holds the entire staff hostage."),
-    (7, None, "'Until you find the knife.' He sets an impossible condition for anyone leaving work today."),
-    (8, None, "'Understood, chef.' Nastya meekly accepts the dictator's outrageous decree."),
-    (9, None, "'I will not cook anything.' Chef Barinov completely halts all food production in protest."),
-    (10, None, "'Right, everyone, look for the knife.' He orders every single person to start hunting for his property."),
-    (11, None, "'Quick!' Chef Barinov barks a short command to get them moving instantly."),
-    (12, None, "'What is the problem?' Nastya remains utterly confused about why this is such a catastrophe."),
-    (13, None, "'We will buy the same knife.' She naively assumes a replacement can be easily purchased."),
-    (14, None, "'And do you know what kind of knife this is?' Chef Barinov stares at her in disbelief at her profound ignorance."),
+    (0, None, '\'And where is my knife?\' The question word comes first, as in English, and "my" sits in front of the knife. That small "a" at the start can mean "and" or "but", and here it just pushes the question along.'),
+    (1, None, '\'Who took my knife?\' Again the question word leads. The "-l" on the end of "took" is the past tense, used for a man or a thing.'),
+    (2, None, '\'Chef, I didn\'t take it.\' Literally, "I not took". The "-a" at the end of the last word tells you the speaker is a woman, and a man would say "bral".'),
+    (3, None, '\'I repeat: who took my knife?\' Think of "povtor", a repeat, with "-yayu" for "I". This is what you say when your patience has run out.'),
+    (4, None, '\'I don\'t know, chef.\' One of the most useful sentences in Russian, and it\'s built exactly as it sounds: "I not know". The "ne" goes right in front of the word it cancels.'),
+    (5, None, '\'Nobody will go home from here.\' Russian doubles the negative, so "nobody" and "not" both appear before the verb. "Domoy" is a single word for "to home", and "otsyuda" means "from here".'),
+    (6, None, '\'Until you find the knife.\' Russian has no separate word for "until" here. It says "while you don\'t find", so "poka" plus "ne". And "poka" is also the casual "bye", which really means "for now".'),
+    (7, None, '\'Understood, chef.\' One short word for "understood", literally "it\'s clear". Nastya needs no "I" in it, and it\'s the usual way to show you got the message.'),
+    (8, None, '\'I will not cook anything.\' Here\'s another double negative: "ne budu" and "nichego" both say no, and Russian insists on both. "To cook" has "ready" hiding inside it, because cooking is getting things ready.'),
+    (9, None, '\'Right, everyone, look for the knife.\' The first word works as "right" or "so". The chef says "we look", so he is joining the search, which is a nice touch for a boss.'),
+    (10, None, '\'Quick!\' It comes from the word for "alive", so "look lively", get a move on.'),
+    (11, None, '\'What is the problem?\' "Chto za" means "what kind of", so Nastya\'s question is "what kind of problem?". You can ask "chto za" about nearly anything.'),
+    (12, None, '\'We will buy the same knife.\' "The same kind of" is two little words, and "we will buy" is just one. Nastya makes it sound very simple.'),
+    (13, None, '\'And do you know what kind of knife this is?\' Look for the "chto za" again: "what kind of knife is this". The chef says "you" the friendly way to Nastya, as bosses do in kitchens.'),
 ]

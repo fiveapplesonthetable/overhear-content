@@ -10,34 +10,34 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Шеф | В зале гость нашёл нож в рыбе! | In the dining room a guest found a knife in the fish! | #253: Там рыбий нож нашли. | verbatim |
-| 2 | Макс | Шеф, нужно срочно что-то делать. | Chef, we must urgently do something. | #256: Нужно что-то делать. | verbatim |
-| 3 | Шеф | Я сам пойду в зал. | I will go out to the dining room myself. | #260: Я шеф-повар этого ресторана. | verbatim |
-| 4 | Гость | Вы объясните мне, что это такое? | Will you explain to me what this is? | #261: Вы не объясните мне, что это. | verbatim |
-| 5 | Макс | Позвольте мне всё объяснить гостю. | Allow me to explain everything to the guest. | #262: А позвольте я, шеф. | verbatim |
-| 6 | Макс | Перед вами уникальный старинный рецепт. | Before you is a unique ancient recipe. | #264: уникальный рецепт более чем с тысячелетней | verbatim |
-| 7 | Макс | Крестоносцы готовили рыбу прямо на мечах. | The Crusaders prepared fish right on their swords. | #268: нанизывания ее на лезвие меча. | verbatim |
-| 8 | Гость | Да, это действительно очень вкусно! | Yes, this is indeed very delicious! | #271: Да, действительно. | verbatim |
-| 9 | Гость | Это настоящая поэзия высокой кухни. | This is true poetry of haute cuisine. | #272: Это же настоящая поэзия кулинарии. | verbatim |
-| 10 | Гость | Принесите мне ещё одну такую рыбу! | Bring me another fish just like this! | #275: А можно мне такую же рыбу? | verbatim |
-| 11 | Шеф | Сейчас всё сделаем, приятного аппетита. | We will prepare everything right away, bon appetit. | #277: Приятного аппетита. | verbatim |
-| 12 | Шеф | Макс, пошли скорее на кухню. | Max, let's head quickly to the kitchen. | #276: Макс, пошли. | verbatim |
-| 13 | Макс | Шеф, вы назвали меня по имени! | Chef, you called me by my name! | #278: Шеф, а вы меня по именем назвали. | verbatim |
-| 14 | Шеф | Огузок, без спроса не выходи в зал! | Runt, do not come out to the dining room without permission! | #279: если ты еще раз без моего разрешения | verbatim |
+| 1 | Шеф | В зале гость нашёл нож в рыбе! | In the dining room a guest found a knife in the fish! | #253 00:19:21: Там рыбий нож нашли. | verbatim |
+| 2 | Макс | Шеф, нужно срочно что-то делать. | Chef, we must urgently do something. | #256 00:19:35: Нужно что-то делать. | verbatim |
+| 3 | Шеф | Я сам пойду в зал. | I will go out to the dining room myself. | #260 00:19:46: Я шеф-повар этого ресторана. | verbatim |
+| 4 | Гость | Вы объясните мне, что это такое? | Will you explain to me what this is? | #261 00:19:49: Вы не объясните мне, что это. | verbatim |
+| 5 | Макс | Позвольте мне всё объяснить гостю. | Allow me to explain everything to the guest. | #262 00:19:52: А позвольте я, шеф. | verbatim |
+| 6 | Макс | Перед вами уникальный старинный рецепт. | Before you is a unique ancient recipe. | #264 00:19:58: уникальный рецепт более чем с тысячелетней | verbatim |
+| 7 | Макс | Крестоносцы готовили рыбу прямо на мечах. | The Crusaders prepared fish right on their swords. | #268 00:20:12: нанизывания ее на лезвие меча. | verbatim |
+| 8 | Гость | Да, это действительно очень вкусно! | Yes, this is indeed very delicious! | #271 00:20:26: Да, действительно. | verbatim |
+| 9 | Гость | Это настоящая поэзия высокой кухни. | This is true poetry of haute cuisine. | #272 00:20:29: Это же настоящая поэзия кулинарии. | verbatim |
+| 10 | Гость | Принесите мне ещё одну такую рыбу! | Bring me another fish just like this! | #275 00:20:36: А можно мне такую же рыбу? | verbatim |
+| 11 | Шеф | Сейчас всё сделаем, приятного аппетита. | We will prepare everything right away, bon appetit. | #277 00:20:41: Приятного аппетита. | verbatim |
+| 12 | Шеф | Макс, пошли скорее на кухню. | Max, let's head quickly to the kitchen. | #276 00:20:38: Макс, пошли. | verbatim |
+| 13 | Макс | Шеф, вы назвали меня по имени! | Chef, you called me by my name! | #278 00:20:44: Шеф, а вы меня по именем назвали. | verbatim |
+| 14 | Шеф | Огузок, без спроса не выходи в зал! | Runt, do not come out to the dining room without permission! | #279 00:20:47: если ты еще раз без моего разрешения | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'In the dining room a guest found a knife in the fish!' Barinov announces the catastrophic news that a diner has discovered the missing blade embedded in his meal.
-- 'Chef, we must urgently do something.' Max immediately recognizes the impending doom and urges the head chef to take swift, decisive action.
-- 'I will go out to the dining room myself.' Barinov bravely takes personal responsibility, deciding to face the furious patron head-on.
-- 'Will you explain to me what this is?' The outraged customer demands a rational explanation for the deadly weapon hiding inside his expensive entree.
-- 'Allow me to explain everything to the guest.' Max boldly interrupts, offering to handle the delicate situation with his own quick thinking.
-- 'Before you is a unique ancient recipe.' Max spins a wildly creative lie, framing the kitchen's massive blunder as a rare culinary masterpiece.
-- 'The Crusaders prepared fish right on their swords.' Max invents an elaborate historical myth about medieval warriors to justify the bizarre presentation.
-- 'Yes, this is indeed very delicious!' The wealthy diner completely falls for the tall tale, praising the incredible flavor of the dish.
-- 'This is true poetry of haute cuisine.' The gullible patron elevates the absurd mistake to the level of exquisite culinary art.
-- 'Bring me another fish just like this!' The satisfied customer enthusiastically demands a second serving of the supposedly historical delicacy.
-- 'We will prepare everything right away, bon appetit.' Barinov plays along smoothly, wishing the man a good meal while hiding his profound relief.
-- 'Max, let's head quickly to the kitchen.' Barinov aggressively ushers his quick-witted subordinate back behind closed doors before the illusion shatters.
-- 'Chef, you called me by my name!' Max beams with pride, thrilled that the formidable boss finally acknowledged him respectfully.
-- 'Runt, do not come out to the dining room without permission!' Barinov instantly reverts to his harsh persona, reminding the rookie of his lowly place in the hierarchy.
+- 'In the dining room a guest found a knife in the fish!' "Found" is an irregular past, "nashyol". "In the fish" has the -e on the fish, and the position of "in the dining room" at the front sets the scene.
+- 'Chef, we must urgently do something.' "Necessary" is the word for "must". "Something" is "what" plus "-to", the "-to" we met before.
+- 'I will go out to the dining room myself.' "Myself" is one short word. "Will go" is also one, and "to the hall" has no ending.
+- 'Will you explain to me what this is?' Russian uses the future for a polite request, so "will you explain" means "please explain". "What is this" ends in a small word meaning "such".
+- 'Allow me to explain everything to the guest.' "Allow" is the polite command, and "to the guest" has the "to" ending. Max steps in to save the situation.
+- 'Before you is a unique ancient recipe.' "Before you" has "you" in a special shape after "before". "Ancient" is built on "old".
+- 'The Crusaders prepared fish right on their swords.' The word for crusaders means "cross-carriers": "cross" and "carry". "On swords" has the plural ending for "on".
+- 'Yes, this is indeed very delicious!' "Indeed" comes from the word for "action", so it means "truly". The guest agrees with Max.
+- 'This is true poetry of haute cuisine.' Russian says "high cuisine" for "haute cuisine". "Poetry" is borrowed, as the guest sounds grand.
+- 'Bring me another fish just like this!' "Bring" is the polite command. "One more" and "such" are both feminine, to match "fish".
+- 'We will prepare everything right away, bon appetit.' "Priyatnogo appetita" is "of pleasant appetite", the standard wish before a meal.
+- 'Max, let's head quickly to the kitchen.' "Went", used as "let's go", is a common Russian trick. "Quickly" is the "faster" word.
+- 'Chef, you called me by my name!' "By name" is literally "by name", and Max is delighted. "Called" is plural-polite.
+- 'Runt, do not come out to the dining room without permission!' "Without permission" is "without asking", and "come out" is a command with "not" in front. The chef is back to his nickname for Max.

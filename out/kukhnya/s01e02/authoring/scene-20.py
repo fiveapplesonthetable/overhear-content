@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'lyova': 'Лёва'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.02'
 SOURCE_FILE = 'sources/kukhnya/s01/e02.ru.dual.srt'
-INTRO = 'Furious about his missing fish knife, Chef Viktor Barinov calls his sous-chef Lyova into his private office. He demands an immediate explanation for the chaos in the kitchen and issues a dire threat to the whole team. Listen to their conversation in Russian first, and then we will examine every sentence in detail.'
-OPENER = 'Now let us go through the dialogue line by line to understand every expression.'
+INTRO = "The knife is still missing, and the chef summons his sous-chef, Lyova, to his private office. He wants to know why his kitchen is in chaos, and he leaves nobody in any doubt about what will happen if the knife isn't found. This is the Russian first."
+OPENER = "Let's go through the interrogation."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Lyova leaves Chef Barinov's office feeling the full weight of the crisis on his shoulders. Meanwhile, out in the kitchen prep area, someone has made an unexpected discovery. See you next time!"
+OUTRO = 'Lyova leaves the office with the weight of the whole crisis on his shoulders. Remember "slushayus\'", the answer of someone who knows he\'d better obey.'
 CLOSING = ('lyova', 'Пока!')
 STORY = [
     ('barinov', 'Лёва, зайди ко мне в кабинет!', 'Lyova, come to my office!', [(230, 'Лева, зайди ко мне')], ''),
@@ -32,19 +32,18 @@ STORY = [
     ('lyova', 'Слушаюсь, шеф! Я найду нож.', 'Understood, chef! I will find the knife.', [(230, 'Да, шеф')], ''),
 ]
 WALK = [
-    (0, None, "'Lyova, come to my office!' Barinov barks a commanding order for his second-in-command to step into his private sanctuary immediately."),
-    (1, None, "'Yes, chef, I am already here.' Lyova scurries into the room, eager to show his prompt obedience to the enraged boss."),
-    (2, None, "'Where is my favorite fish knife?' Barinov demands to know the exact whereabouts of his most prized culinary possession."),
-    (3, None, "'We are looking for it everywhere, chef.' Lyova nervously assures the boss that the entire staff is actively scouring the premises for the item."),
-    (4, None, "'Are you a sous-chef or who?' Barinov viciously insults his subordinate's authority, questioning his basic competence as a manager."),
-    (5, None, "'I maintain order in the kitchen.' Lyova defensively insists that he is doing his job and keeping the kitchen running smoothly."),
-    (6, None, "'You keep an eye on the kitchen very poorly!' Barinov brutally rejects the excuse, criticizing his deputy's absolute failure to maintain control."),
-    (7, None, "'All the cooks are very busy with the search right now.' Lyova tries to appease the chef by stating that the whole brigade has dropped everything to search."),
-    (8, None, "'Without this knife, the restaurant does not function!' Barinov dramatically declares that the entire establishment is paralyzed without his special blade."),
-    (9, None, "'We checked all tables and shelves.' Lyova lists the thorough measures the team has already taken to locate the missing object."),
-    (10, None, "'If the knife is not found, I will fire everyone!' Barinov issues a terrifying ultimatum, threatening to fire every single employee if they fail."),
-    (11, None, "'Chef, we will certainly find what went missing.' Lyova desperately promises that they will recover the lost treasure no matter what it takes."),
-    (12, None, "'Go and find it right now!' Barinov screams a final, non-negotiable order to resume the frantic search instantly."),
-    (13, None, "'Understood, chef!' Lyova snaps to attention, acknowledging the terrifying command with absolute submission."),
-    (14, None, "'I will find the knife.' Lyova vows to personally track down the elusive tool to save his job and his team."),
+    (0, None, '\'Lyova, come to my office!\' "Zaydi" is "drop by", with "za-" meaning "on the way". "To me" becomes "ko mne" with an extra "o" for easier saying.'),
+    (1, None, '\'Yes, chef, I am already here.\' "Already here" is two short words. Lyova needs no "am", since Russian leaves it out.'),
+    (2, None, '\'Where is my favorite fish knife?\' "Fish knife" is "fish\'s knife", with the fish word in an adjective form. "Favorite" comes from "to love".'),
+    (3, None, '\'We are looking for it everywhere, chef.\' "Everywhere" is one word. "Looking for" is the family of "ishchi", and "it" is the word that never changes.'),
+    (4, None, '\'Are you a sous-chef or who?\' "Sous" is borrowed from French, as in "sous-chef". The second half, "or who such", is a rude way to ask "who are you?".'),
+    (5, None, '\'I maintain order in the kitchen.\' "Slezhu za" means "keep an eye on", close to "follow after". "Order" is the word from "disorder" earlier.'),
+    (6, None, '\'You keep an eye on the kitchen very poorly!\' The same verb comes back, now "you keep an eye". "Poorly" is "plokho", the opposite of "khorosho".'),
+    (7, None, '\'All the cooks are very busy with the search right now.\' "Busy" is a short word, and "searches" is plural, from "poisk". "With" is shown by the ending "-ami".'),
+    (8, None, '\'Without this knife, the restaurant does not function!\' "Without" is "bez", and it makes the knife take an "of" ending. "Works" is the word for "functions".'),
+    (9, None, '\'We checked all tables and shelves.\' "Checked" ends in "-li" for "we". "Tables" and "shelves" are both plural.'),
+    (10, None, '\'If the knife is not found, I will fire everyone!\' "Is found" ends in "-sya", as if the knife finds itself. "Everyone" takes the object form.'),
+    (11, None, '\'Chef, we will certainly find what went missing.\' "Certainly" is the word from "obligatory". "What went missing" is a single noun, from the verb "to vanish".'),
+    (12, None, '\'Go and find it right now!\' "Go and find" is two commands joined by "and". "Right now" is "straight now".'),
+    (13, None, '\'Understood, chef! I will find the knife.\' "Slushayus\'" is what a soldier says: "I\'m listening", meaning "yes, sir". "I will find" is one word.'),
 ]

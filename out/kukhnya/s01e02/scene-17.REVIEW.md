@@ -11,31 +11,31 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Саша | Виктория Сергеевна, вам принести чашку кофе? | Viktoriya Sergeyevna, should I bring you a cup of coffee? | new | new |
-| 2 | Вика | Господи, как же меня всё достало! | Lord, how sick of everything I am! | #205: меня все достало | verbatim |
+| 2 | Вика | Господи, как же меня всё достало! | Lord, how sick of everything I am! | #205 00:15:09: меня все достало | verbatim |
 | 3 | Саша | В ресторане опять возникли новые проблемы? | Have new problems arisen in the restaurant again? | new | new |
 | 4 | Вика | Конечно, в баре пропал дорогой коньяк. | Of course, expensive cognac went missing in the bar. | new | new |
 | 5 | Саша | Бармен Костя сейчас ищет эту бутылку. | Bartender Kostya is looking for that bottle now. | new | new |
-| 6 | Вика | Ну почему всё всегда идёт не так? | Well why does everything always go wrong? | #206: Ну почему все всегда | verbatim |
+| 6 | Вика | Ну почему всё всегда идёт не так? | Well why does everything always go wrong? | #206 00:15:12: Ну почему все всегда | verbatim |
 | 7 | Саша | Наша работа всегда очень нервная. | Our work is always very stressful. | new | new |
 | 8 | Вика | Шеф кричит, повара спорят, бардак везде! | The chef shouts, cooks argue, mess everywhere! | new | new |
 | 9 | Саша | Вам нужно немного отдохнуть и успокоиться. | You need to rest a bit and calm down. | new | new |
-| 10 | Вика | Неужели нельзя, чтобы день прошёл нормально? | Can a day really not pass normally? | #207: прошел нормально | verbatim |
+| 10 | Вика | Неужели нельзя, чтобы день прошёл нормально? | Can a day really not pass normally? | #207 00:15:14: прошел нормально | verbatim |
 | 11 | Саша | Я уверена, скоро всё наладится. | I am sure everything will work out soon. | new | new |
-| 12 | Вика | Хочу хотя бы один спокойный день! | I want at least one calm day! | #208: Один день | verbatim |
+| 12 | Вика | Хочу хотя бы один спокойный день! | I want at least one calm day! | #208 00:15:18: Один день | verbatim |
 | 13 | Саша | Мы все очень хотим этого, поверьте. | We all want this very much, believe me. | new | new |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Viktoriya Sergeyevna, should I bring you a cup of coffee?' Sasha respectfully approaches her exhausted boss and offers a hot beverage to help her relax.
-- 'Lord, how sick of everything I am!' Vika lets out a deeply emotional sigh, expressing just how completely fed up she is with her job.
-- 'Have new problems arisen in the restaurant again?' Sasha gently inquires if another disaster has struck the establishment during the shift.
-- 'Of course, expensive cognac went missing in the bar.' Vika sarcastically confirms the bad news while mentioning the theft of a very pricey bottle.
-- 'Bartender Kostya is looking for that bottle now.' Sasha tries to reassure her manager by mentioning that the bartender is actively investigating the theft.
-- 'Well why does everything always go wrong?' Vika despairs over the seemingly endless string of chaotic events that ruin her days.
-- 'Our work is always very stressful.' Sasha offers a comforting observation about the inherently stressful nature of the hospitality industry.
-- 'The chef shouts, cooks argue, mess everywhere!' Vika lists the exhausting daily realities of a screaming boss and a chaotic kitchen staff.
-- 'You need to rest a bit and calm down.' Sasha kindly advises her superior to take a deep breath and find a moment of peace.
-- 'Can a day really not pass normally?' Vika pleads to the universe for a single ordinary shift without any dramatic catastrophes.
-- 'I am sure everything will work out soon.' Sasha provides a dose of optimism, promising that the situation will improve shortly.
-- 'I want at least one calm day!' Vika dramatically states her simple desire for just twenty-four hours of absolute tranquility.
-- 'We all want this very much, believe me.' Sasha emphasizes that the entire staff shares the manager's desperate wish for a peaceful workplace.
+- 'Viktoriya Sergeyevna, should I bring you a cup of coffee?' "To you to bring" is how Russian offers something: "vam prinesti". "Coffee" never changes.
+- 'Lord, how sick of everything I am!' The first word is "Gospodi", an exclamation like "oh Lord". The second half is "everything reached me", a stock way to say you've had enough.
+- 'Have new problems arisen in the restaurant again?' "Arisen" is a single word, and "again" is a small one. "New problems" is plural, so both words end in "-y".
+- 'Of course, expensive cognac went missing in the bar.' "Disappeared" is "propal", with the -l of a masculine word, because "cognac" is masculine. It's the same verb as "disappear to" in the last scene.
+- 'Bartender Kostya is looking for that bottle now.' "Looks for" is the family of "ishchi", the command from the knife scene. "That bottle" ends in -u as the thing being sought.
+- 'Well, why does everything always go wrong?' Literally "goes not so", using the everyday word for "go". Russians use it for events as well as people.
+- 'Our work is always very stressful.' "Stressful" comes from "nerves". It ends in -aya to match the feminine word "work".
+- 'The chef shouts, cooks argue, mess everywhere!' "Bardak" is slang for a mess, a stronger word than "besporyadok". No "and" between the items, just commas.
+- 'You need to rest a bit and calm down.' "To you necessary" is how Russian says "you need". "Calm down" has "-sya" on the end, and it's from the word for "calm".
+- 'Can a day really not pass normally?' "Neuzheli" is a question word meaning "really?". "Nel'zya, chtoby" is "is it impossible that", and "passed" is the past of the verb for "pass".
+- 'I am sure everything will work out soon.' A woman says "uverena", a man says "uveren". "Will work out" has the same root as "ladno", fine, so it means "will get into harmony".
+- 'I want at least one calm day!' "I want" drops the "I", because "khochu" already says it. "At least" is two little words.
+- 'We all want this very much, believe me.' "Believe me" is a polite command. "We all" is two short words.

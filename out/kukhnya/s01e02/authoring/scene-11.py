@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'ainura': 'Айнура', 'barinov': 'Шеф', 'elena': 'Елена'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.02'
 SOURCE_FILE = 'sources/kukhnya/s01/e02.ru.dual.srt'
-INTRO = "Summoned from his back office by cleaner Ainura, Chef Viktor Barinov walks into the dining room to meet Elena Sokolova. Elena, the head chef of the competing restaurant Arcobaleno, delivers a surprisingly positive verdict on the fricassee, though she makes sure to criticize the agonizingly long wait. Let's listen to their encounter in Russian first."
-OPENER = "Let's replay a few lines to examine key phrases and vocabulary."
+INTRO = 'Ainura, who cleans the kitchen, calls the chef out to the dining room, where a guest is waiting: Elena Sokolova, head chef of a rival restaurant called Arcobaleno. She has tasted the fricassee, and she has opinions. This is the Russian first.'
+OPENER = "Now let's see what she really says."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Elena walks out of the restaurant, leaving Barinov puzzled by the mixed compliments. Next time you watch the episode, listen for the Russian expressions for 'dish' and 'to be' — you will catch every word right away. See you next time!"
+OUTRO = 'Elena leaves with a compliment that sounds like an insult, or the other way round. Notice how "do svidaniya" ends her visit, a formal goodbye you can use anywhere.'
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('ainura', 'Шеф! Шеф! Вас зовут в зал!', 'Chef! Chef! You are being called to the dining hall!', [(149, 'Шеф! Шеф!')], ''),
@@ -31,8 +31,17 @@ STORY = [
     ('elena', 'До свидания, шеф-повар.', 'Goodbye, head chef.', [(168, 'До свидания')], ''),
 ]
 WALK = [
-    (0, None, "'How can I be of service?' Barinov asks courteously as he approaches Elena's table."),
-    (1, None, "'You know, I liked it very much.' Elena admits graciously, praising the improvised meal."),
-    (2, None, "'Partridge was left over, and it was a shame to throw it out.' Barinov explains that the partridge was left over and it was a shame to throw it out."),
-    (3, None, "'Your chef's special took far too long to prepare.' Elena remarks pointedly that the dish took far too long to prepare before leaving."),
+    (0, None, '\'Chef! Chef! You are being called to the dining hall!\' Literally "they call you", with no one named, and that\'s the usual way to say you\'re wanted. The "you" is the polite one.'),
+    (1, None, '\'What else? Who is waiting for me there?\' The first two words mean something like "what now?". "Waits" is one word, and "there" is a single small one.'),
+    (2, None, '\'That pretty lady from the neighboring restaurant.\' "Simpatichnaya" looks like "sympathetic" but really means nice-looking or likeable. A false friend worth knowing.'),
+    (3, None, '\'How can I be of service?\' Russian says "with what can I be useful". The word "useful" comes from the word for benefit.'),
+    (4, None, '\'I have just tasted your fricassee.\' "Just now" is literally "only what". The -la on "tasted" tells you Elena is a woman.'),
+    (5, None, '\'Well, and how did you like our dish?\' It starts with "nu", the "well..." of Russian. Then "how to you", which is how Russians ask what you think of something.'),
+    (6, None, '\'You know, I liked it very much.\' "You know" is a filler, as in English. Then "it pleased me", with the verb ending in -o to match "it".'),
+    (7, None, '\'Really? This is my old signature recipe.\' The word for "signature" comes from "firma", a company, so it means "of the house". The rest is plain: old and recipe.'),
+    (8, None, '\'Partridge was left over, and it was a shame to throw it out.\' "To throw out" has "vy-", out, in front. "It was a shame" is "it was a pity", all in one small word.'),
+    (9, None, '\'Understood. It is pleasant to leave your place alive.\' The word for "alive" is the one behind "quick!" in the knife scene, with the -oy of a woman. A joke with a sting.'),
+    (10, None, '\'What? Are you already leaving the restaurant?\' The first word, "kak", means "how" but here shows surprise, like "what?". "Out of the restaurant" is two short words.'),
+    (11, None, '\'Your chef\'s special took far too long to prepare.\' "Was being prepared" ends in "-s\'", as if the dish prepared itself. "Too long" is two little words.'),
+    (12, None, '\'Goodbye, head chef.\' Literally "until meeting", and it\'s the standard formal goodbye. Use it with anyone you don\'t know well.'),
 ]
