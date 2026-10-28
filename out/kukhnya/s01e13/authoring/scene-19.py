@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'elena': 'Елена', 'fedya': 'Федя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.13'
 SOURCE_FILE = 'sources/kukhnya/s01/e13.ru.dual.srt'
-INTRO = "Elena's car has disappeared from its place, and she storms into Barinov's kitchen to ask where it is. Barinov turns to Fedya for an answer. Here is the argument in Russian first."
-OPENER = "Let's go through it line by line, and watch the plot come out."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "So that is where the car went. When you watch, notice how quickly Fedya's answers get shorter. Until next time."
+INTRO = "Elena's car has disappeared from its place, and she storms into Barinov's kitchen to ask where it is. Barinov turns to Fedya for an answer. The Russian comes first."
+OPENER = 'Line by line, to watch the plot come out.'
+TRANSITION = 'Here is the whole hunt again.'
+OUTRO = "So that is where the car went. Notice how quickly Fedya's answers get shorter. Until next time."
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('barinov', 'Постучаться не учили?', "Didn't they teach you to knock?", [], ''),
@@ -38,20 +38,20 @@ STORY = [
 WALK = [
     (0, None, "'Didn't they teach you to knock?' 'Postuchatsya' is 'to knock', with 'sya' because you knock on something. 'Ne uchili' is 'didn't they teach', with nobody named."),
     (1, None, "'I am calling the police.' 'Zvonyu v politsiyu' is 'I phone to the police', with 'v' and an 'yu' ending for the direction. It's the kind of line that gets everyone's attention."),
-    (2, None, "'Where is my car?' 'Moya' is 'my' and ends in 'a' because 'mashina' is feminine. There's no 'is' in the question."),
+    (2, None, "'Where is my car?' Cars are feminine in Russian, so Elena says 'moya', not 'moy'. Nobody bothers with an 'is' in a question like this."),
     (3, None, "'I have no idea.' 'Ponyatiya ne imeyu' is a set phrase, literally 'idea I don't have'. Russians say it all the time."),
     (4, None, "'That is it. I have had enough.' 'Znachit tak' is a brisk 'right, so'. 'Nadoelo' is neuter, 'it has bored', and 'mne' is 'to me', so she's saying she's sick of it all."),
     (5, None, "'If in five minutes...' The sentence stops in the middle, and the three dots show it. Elena lets the threat hang and carries on in the next line."),
     (6, None, "'my car is not back...' 'Ne budet' with the thing after it means 'will not be there'. 'Moyey mashiny' is 'of my car', so it's 'there will be no car of mine'."),
     (7, None, "'I am reporting it stolen.' 'Zayavlyayu' is 'I declare' or 'I report'. 'Ob ugone' is 'about the theft', a word used only for stolen vehicles."),
-    (8, None, "'Do you understand me?' 'Ponyali' is 'did you understand', in the polite plural. 'Khorosho' means 'well', so 'did you understand me well'."),
+    (8, None, "'Do you understand me?' 'Ponyali' is the polite plural, 'did you understand'. 'Khorosho' is 'well'."),
     (9, None, "'That is all.' One word, 'vsyo', which Russians say to end a conversation. It's clear and firm."),
-    (10, None, "'Before I kill you...' 'Pered tem, kak' means 'before'. 'Ubyu' is 'I will kill', and Barinov says it as a joke. The chef says it nearly every day."),
-    (11, None, "'answer one question.' 'Otvet' is the order 'answer!', and Russians answer 'on' a question, so 'na vopros'. 'Mne' is 'to me'."),
-    (12, None, "'Why did you take the car?' 'Zachem' means 'what for', and 'uvyoz' means 'drove off with'. The 'u' at the front means 'away'."),
-    (13, None, "'Boss, he could not make it.' 'U nego ne poluchilos'' is 'with him it didn't work out', and it covers 'he couldn't'. 'Priekhat' means 'to arrive by vehicle'."),
+    (10, None, "'Before I kill you...' 'Pered tem, kak' is a set phrase for 'before'. 'Ubyu' is 'I will kill', and Barinov says it nearly every day, as a joke."),
+    (11, None, "'answer one question.' The order 'answer!' wants 'on', so Russians answer 'on a question'. 'Me' becomes 'to me'."),
+    (12, None, "'Why did you take the car?' 'Zachem' is 'what for', and 'uvyoz' is 'drove off with'. The 'u' means 'away'."),
+    (13, None, "'Boss, he could not make it.' 'U nego ne poluchilos'' is 'with him it didn't work out'. 'Priekhat' is to arrive by vehicle."),
     (14, None, "'He told me to bring the car.' 'Chtoby' is 'so that', and Russian puts the following action in the past: 'chtoby ya privyoz' is 'that I should bring'. 'Privyoz' means 'bring by vehicle'."),
-    (15, None, "'How did you even start it?' 'Zavyol' is 'started' for an engine. 'Voobshche' is 'at all', and it adds amazement."),
+    (15, None, "'How did you even start it?' 'Started' is the verb for an engine. 'At all' adds amazement."),
     (16, None, "'Well, whatever I used to unlock it, I used to start it.' 'Chem' means 'with what' and 'tem' means 'with that', so 'chem otkryl, tem i zavyol' is 'with what I opened, with that I started'. It's a clever, short way to dodge the question."),
     (17, None, "'Did you fix the mirror?' 'Pochinil' is 'fixed' or 'mended'. Barinov changes the subject, since the mirror was his first worry."),
 ]

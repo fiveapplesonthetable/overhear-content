@@ -34,16 +34,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I would say it is afternoon, Vika.' 'Dobry den' is 'good day', in a masculine ending, since 'den' is masculine. 'Pozhaluy' is 'perhaps', and Nagiyev says it with a smile.
 - 'Why didn't you fly out to the exhibition?' 'Vik' is the short form of Vika, which only the boss uses. 'Uleteli' is 'flew off', and 'na vystavku' is 'to the exhibition'.
 - 'It was cancelled.' 'Tak' starts it like 'well'. 'Eyo' is 'it', but a feminine one, because 'vystavka' is. 'Otmenili' means 'they cancelled', with nobody named.
-- 'I called my contacts.' 'Zvonila' is 'phoned', with an 'a' for a woman. 'Svoim druzyam' is 'to my friends', where 'ym' and 'yam' show 'to'.
-- 'Some businessman called you, right?' 'Vam' is 'to you', in the polite form. 'Kakoy-to' is 'some', and 'predprinimatel' is 'entrepreneur', a long word that sounds like what it is.
+- 'I called my contacts.' 'Zvonila' has the 'a' of a woman. 'Svoim druzyam' is 'to my friends', with 'ym' and 'yam' for 'to'.
+- 'Some businessman called you, right?' The 'to you' is the polite one. 'Entrepreneur' is a long word that sounds like what it is.
 - 'Who?' It's just 'kakoy', 'which one', in the masculine because it asks about a man. A short question that buys time.
 - 'Yeah, he called.' 'Zvonil' is 'phoned', in a man's form. Vika is cornered and confirms it.
 - 'Let's see.' 'Seychas skazhem' is literally 'now we'll say'. Nagiyev uses 'we', as bosses often do.
 - 'Alexander Del Piero.' Nagiyev reads out a name that he knows is fake. Russians spell foreign names the way they sound, letter by letter, so it looks very different on the page.
-- 'He said the exhibition was cancelled.' 'Skazal' is 'said'. 'Otmenyaetsya' ends in 'sya', so 'the exhibition cancels itself'.
+- 'He said the exhibition was cancelled.' A man's past tense gets an 'l', so 'skazal'. The exhibition cancels itself, which is why the action ends in 'sya'.
 - 'Was it a call from a Moscow number?' 'Moskovskogo' means 'Moscow', made from 'Moskva' with a new ending. 'Zvonyat' is 'they call', with nobody specified.
-- 'Yeah, here is the number.' 'Vot' is 'here is', and it's what you say when you hand something over.
+- 'Yeah, here is the number.' 'Vot' is 'here is', what you say when you hand something over.
 - 'Call it.' 'Nabirayte' is 'dial!', for a number. It's the polite plural.
 - 'I would have fired you.' 'By' turns 'I fired' into 'I would fire', and it's a tiny word that adds 'would'. 'Vas' is 'you', polite.
 - 'As it is, you are going to the exhibition.' 'A tak' is 'but as it is', so 'otherwise'. 'Letite' is 'you fly', and Russians use the present for 'you are going'.
-- 'And at your own expense.' 'Za svoy schyot' is 'at your own account', and it's the standard way to say 'at your own cost'. 'Svoy' means 'own'.
+- 'And at your own expense.' 'At your own account' is the usual way to say 'at your own cost'.

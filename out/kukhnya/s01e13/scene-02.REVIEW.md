@@ -27,15 +27,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Who parked this old car here?' Russians don't 'park' a car, they 'put' it, so 'postavil' is 'put' or 'stood'. 'Syuda' means 'to here', as it would in 'come here'.
-- 'Hello. I parked my car.' 'Zdravstvuyte' is the long, polite hello, and Russians say it to strangers. 'Postavila' ends in 'a' because Elena is a woman. 'Svoyu' means 'my own', and it hints that she knows whose car it is.
+- 'Hello. I parked my car.' The long, polite hello is for strangers. Elena is a woman, so 'parked' ends in 'a', and her 'my own' hints that she knows exactly whose spot it is.
 - 'Woman, move the automobile from my spot.' Calling a woman just 'zhenshchina' is rude, like shouting 'Hey, woman!'. 'Avtomobil' is the stiff word for 'car' where 'mashina' is the everyday one. Barinov is trying to sound official.
 - 'Where does it say this is your spot?' 'Napisano' is 'is written', and Russian doesn't say who wrote it. 'Vashe' is the polite 'your', fitting for a stranger.
 - 'A warning sign is hanging here.' A sign 'hangs' in Russian, 'visit', where English just says 'there is'. 'S preduprezhdeniem' means 'with a warning', and the 'em' is the ending for 'with'.
 - 'It only says about icicles there.' 'Sosulki' are icicles. Signs warning of falling icicles are a regular sight on Russian winter buildings, and Elena points out that it says nothing about parking. 'Napisano' is back, and 'pro' means 'about'.
 - 'I am the head chef of this famous restaurant.' There's no 'am', so it's just 'I head-chef'. 'Shef-povar' is 'chief cook', and 'izvestny' is 'well known'. He is boasting.
 - 'And I am the head chef of the neighboring restaurant.' The little 'a' at the front means 'and' with a hint of 'but', which is the right mood for a comeback. 'Sosedny' comes from 'sosed', neighbour.
-- 'Then you must understand the rules.' 'Vy dolzhny' is 'you must', in the polite 'vy' form. 'Ponimat' is 'to understand', and it's followed by 'pravila', 'the rules'.
-- 'I will not move my car.' 'Ne budu' is 'I won't', with the same 'budu' that means 'I will be'. 'Perestavlyat' is 'to move something to another place', and the 'pere' at the front means 'over' or 'again'.
+- 'Then you must understand the rules.' Barinov uses the polite 'you must' for a stranger. What follows is 'to understand', then 'the rules', as bare as can be.
+- 'I will not move my car.' Elena's 'I won't' uses 'budu', the same word that means 'I will be'. The 'pere' on the moving action means 'over' or 'again'.
 - 'Over there is another open spot.' 'Von tam' is a pointing 'over there', further away than 'tam'. 'Drugoe' and 'svobodnoe' both end in 'oe' because 'mesto' is a neuter word. 'Est' here is 'there is'.
 - 'What a stubborn and obnoxious woman!' 'Kakaya' with an exclamation means 'what a'. 'Upryamaya' is 'stubborn' and 'vrednaya' means 'harmful' or 'nasty'. Both end in 'aya' because 'zhenshchina' is feminine.
-- 'Have a nice working day, Mr. Chef!' 'Priyatnogo dnya' is literally 'of a pleasant day', and it's a good-wish phrase. 'Gospodin' is an old-fashioned 'Mr.' that Elena uses to tease him.
+- 'Have a nice working day, Mr. Chef!' Wishes in Russian use an 'of': 'of a pleasant working day'. The old-fashioned 'Mr.' is how Elena teases him.

@@ -28,14 +28,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Buongiorno, signori.' These are Italian words written in Russian letters, so Max's fake accent does the talking. It sounds like 'bonzhorno', not quite right, which is the joke.
 - 'Good afternoon, Claude Monet restaurant.' 'Dobry den' is 'good day', and Russians use it for the afternoon, too. The name of the restaurant doesn't change, whatever the sentence.
-- 'My name is Alexander.' 'Menya zovut' is literally 'me they call', which is the usual way to give your name. There's no 'my name is' in Russian.
-- 'The exhibition is cancelled.' 'Otmenyaetsya' ends in 'sya', so it's 'cancels itself'. Russians use this form for events and trains that are called off.
-- 'Pass this on to Victoria.' 'Peredayte' is 'pass on!', in the polite form. 'Viktorii' ends in 'i', which is the 'to' ending for a name like Viktoria.
+- 'My name is Alexander.' Russian has no 'my name is': it says 'me they call Alexander'. The 'they' is not spoken.
+- 'The exhibition is cancelled.' The event cancels itself, so the action takes 'sya'. That's the Russian form for trains and events that are called off.
+- 'Pass this on to Victoria.' The order is the polite one, ending in 'ite'. The name takes an 'i' to say 'to'.
 - 'All right, I will pass it on.' 'Peredam' is 'I will pass on'. It comes from the same word as Max's 'peredayte', but now it's the future.
 - 'Grazie, signora, ciao-ciao.' More fake Italian. 'Chao' is how Russians write 'ciao', and they use it as a casual goodbye with friends.
 - 'Yes, hello. Victoria Sergeyevna, hello.' 'Allo' is only for answering the phone. 'Zdravstvuyte' is the polite hello for people you don't know well.
-- 'A representative of the exhibition from Milan called.' 'Zvonil' means 'phoned', and it ends in 'l' for 'he'. 'Predstavitel' is 'representative', and 'iz Milana' is 'from Milan'.
+- 'A representative of the exhibition from Milan called.' 'Zvonil' ends in 'l' for a man. 'Iz Milana' is 'from Milan', with 'a' on the city after 'from'.
 - 'He said that it is cancelled.' 'Ona' is 'she', because 'vystavka' is feminine in Russian, so a trade show counts as a 'she'. 'Chto' here means 'that'.
 - 'Oh, really? I am already in Domodedovo.' 'Pravda' means 'truth', and Russians say it to mean 'really?'. Vika is at one of Moscow's airports, and she says 'v' for 'in' with no change to the name.
-- 'I almost flew away.' 'Chut ne' is 'barely not', and it means 'almost'. 'Uletela' is 'flew off', with the 'u' that means 'away'.
-- 'Thank you for warning me.' 'Spasibo, chto' means 'thanks that', which is how you thank someone for something. 'Predupredili' is 'warned' in the polite plural form.
+- 'I almost flew away.' 'Almost' is made of 'barely' and 'not', which is a quirk of the phrase. 'Flew off' starts with 'u', the prefix for 'away'.
+- 'Thank you for warning me.' 'Thanks that' is how you say thanks for something. The polite 'warned' is in the plural.

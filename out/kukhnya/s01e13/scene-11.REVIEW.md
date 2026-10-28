@@ -26,14 +26,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'I handled one of your trash bins.' 'Spravilsya' is 'managed' or 'coped', and it takes 'with' after it, like 'coped with'. 'S odnoy vashey musorkoy' is 'with one of your bins'.
-- 'Here is a document that proves it.' 'Kotory' is the word for 'which' or 'that' that connects two parts. 'Podtverzhdaet' is 'confirms', a bit formal.
+- 'Here is a document that proves it.' 'Kotory' is the linking word, 'which', that joins the two halves. 'Podtverzhdaet' is a formal verb that suits a document.
 - 'This is the plan from the district office.' 'Uprava' is an old-style word for a local administration. 'Iz upravy' is 'from the office'.
 - 'The bins must stand exactly in this place.' Russian says that bins 'stand', 'stoyat', and the same word is used for people. 'Imenno' means 'precisely', and 'dolzhny' is 'must'.
 - 'Are there any more questions for me?' 'Voprosy ko mne est eshchyo' is 'questions to me are still', which means 'any more questions'. 'Est' here is 'are', a rare spoken 'is'.
 - 'Timur? You decided to supply her with food?' The verb for 'supply' is the one used for businesses delivering goods. 'Her' changes shape to 'ey', as in 'supply to her'.
 - 'Viktor Petrovich, my respects.' 'Moyo pochtenie' is an old-fashioned greeting, almost bowing. It's a polite, slightly stiff way of saying hello.
-- 'Keep in mind, I will not return the debt.' 'Uchti' means 'take into account', and 'dolg' is a debt. 'Ne vernu' is 'I will not return', and it has 'ne' in the middle, before the verb.
+- 'Keep in mind, I will not return the debt.' 'Take into account' is the order for 'keep in mind'. Barinov puts the 'not' in front of 'return', and the debt comes first.
 - 'Excuse me, our cooperation has come to an end.' 'Sotrudnichestvo' is a long word that comes from 'trud', work. 'Podoshlo k kontsu' is 'came up to the end', a set phrase for 'is over'.
-- 'I cannot contradict an older man.' The word for 'older' comes from 'old', and it works as 'someone senior to me'. Timur uses it politely to be on the right side of the argument.
-- 'Especially since you owe me fifteen thousand.' 'Vy dolzhny mne' is literally 'you must me', and that is how Russians say 'you owe me'. It's the same 'dolzhen' that means 'must'. 'Tem bolee' is 'all the more'.
+- 'I cannot contradict an older man.' 'Starshemu' comes from 'stary', old, and works as 'someone senior'. Timur uses it to look respectful.
+- 'Especially since you owe me fifteen thousand.' Russian says 'you must me' for 'you owe me', with the same word that means 'must'. 'All the more' is the phrase for 'especially since'.
 - 'Ten.' It's just the number, 'desyat'. Barinov is bargaining the debt down in one word.

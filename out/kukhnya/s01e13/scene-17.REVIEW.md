@@ -27,14 +27,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Hello, Victoria Sergeyevna.' 'Zdravstvuyte' is the polite, long hello. Nastya uses name plus father's name, as she would for her boss.
-- 'Good morning, Nastya.' 'Dobroe utro' is 'good morning'. Vika drops the formal tone and says only 'Nastya', which is how a boss speaks.
+- 'Good morning, Nastya.' Vika drops the formal tone and says just 'Nastya', which is how a boss speaks. 'Good morning' is a neuter phrase.
 - 'Come in, I am already done.' 'Prokhodite' means 'go through', so it works for letting someone pass. 'Zakonchila' means 'finished', with an 'a' for a woman.
 - 'Thank you, I am just leaving for work.' 'Ukhozhu' is 'I am going away', with the 'u' that means 'away'. 'Na rabotu' is 'to work', and 'rabota' becomes 'rabotu' for the direction.
 - 'Excuse me, I will be a little late today.' 'Opozdayu' is 'I will be late'. 'Izvinite' is the polite 'excuse me', and 'nemnogo' means 'a little'.
 - 'Yes, I understand everything perfectly.' 'Prekrasno' means 'beautifully', but here it just says 'perfectly well'. 'Ponimayu' is 'I understand'.
-- 'I will also be delayed a bit today.' 'Zaderzhus'' ends in 'sya'-like 'us', so it's 'I'll be held up', literally 'I will hold myself up'. 'Tozhe' means 'also'.
+- 'I will also be delayed a bit today.' She will 'hold herself up', and the 'us' is the 'sya' ending. 'Also' is one small word.
 - 'Did you spend the whole night here?' 'Proveli' is 'spent', for time. 'Vsyu noch' is 'the whole night', where 'noch' picks up a 'yu' ending.
-- 'Are you seeing Maxim now?' 'Vstrechaetes'' is literally 'are you meeting each other', and it's how Russians ask whether two people are a couple. 'S Maksimom' is 'with Maxim', the full form of Max.
+- 'Are you seeing Maxim now?' Word for word, 'are you meeting each other', and that's how Russians ask whether two people are a couple. 'Maksim' is the full form of Max.
 - 'Nastya, do not ask silly questions.' Russian says 'give a question' for 'ask a question', 'zadavat vopros'. 'Ne zadavay' is 'don't ask', and 'glupykh' means 'of silly'.
 - 'That is all, I am silent and understood everything.' 'Vsyo' at the start is 'that's it'. 'Molchu' is 'I'm silent', and 'ponyala' is 'I understood', in a woman's form.
 - 'No one at the restaurant knows about this.' 'Nobody' and 'not' sit next to each other in the sentence. Russian wants both, so 'nikto ne znaet' is 'nobody doesn't know'.

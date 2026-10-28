@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'kostya': 'Костя', 'nastya': 'Настя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.13'
 SOURCE_FILE = 'sources/kukhnya/s01/e13.ru.dual.srt'
-INTRO = "Nastya has realised she is the one who broke Barinov's mirror, and now two people are fighting over it. She takes Kostya aside to tell him, but Kostya is thinking about something else. Here is the talk in Russian first."
-OPENER = "Let's go through it again, a bit more slowly."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Kostya's timing is terrible, and Nastya lets him know. When you watch, listen for the moment she says his name on its own. Until next time."
+INTRO = "Nastya has realised she is the one who broke Barinov's mirror, and now two people are fighting over it. She takes Kostya aside to tell him, but Kostya is thinking about something else. Listen to their talk in Russian first."
+OPENER = 'Again, a bit more slowly this time.'
+TRANSITION = 'Now their talk, straight through.'
+OUTRO = "Kostya's timing is terrible, and Nastya lets him know. Notice what she says when she says his name on its own. Until next time."
 CLOSING = ('nastya', 'Пока!')
 STORY = [
     ('nastya', 'Костя, мне надо тебе кое-что сказать.', 'Kostya, I need to tell you something.', [(103, 'надо тебе кое-что сказать')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('nastya', 'Ты только об одном и думаешь!', 'You only think about one thing!', [(111, 'только об одном и думаешь')], ''),
 ]
 WALK = [
-    (0, None, "'Kostya, I need to tell you something.' The word for 'something' starts with a 'koe' that means 'a certain', so it's 'a certain something', a thing she's hinting at. Both 'to me' and 'to you' sit in the sentence, as 'mne' and 'tebe'."),
-    (1, None, "'I acted wrongly.' 'Postupila' is 'I acted', and it ends in 'a' since Nastya is speaking. 'Nepravilno' is just 'pravilno', 'correctly', with 'ne' in front."),
+    (0, None, "'Kostya, I need to tell you something.' The 'koe' on the front of 'something' means 'a certain', so it comes out 'a certain something'. 'To me' and 'to you' both sit in the sentence."),
+    (1, None, "'I acted wrongly.' Nastya's 'a' on 'postupila' tells you a woman speaks. 'Nepravilno' is simply 'pravilno', correctly, with 'ne' in front."),
     (2, None, "'Nastya, did you change your mind about tonight?' 'Peredumala' is 'changed your mind', built from 'dumat', 'to think', and 'pere', 'over again'. 'Naschyot' means 'regarding' and is common in speech."),
-    (3, None, "'That's not what I'm talking about.' There's no verb. 'Ya ne ob etom' is literally 'I not about this', and it's a great line for steering a conversation back."),
+    (3, None, "'That's not what I'm talking about.' Russian says 'I not about this', with no action word. It is a good phrase for steering a conversation back."),
     (4, None, "'It was me who broke Viktor Petrovich's mirror.' 'Eto ya' starts it, 'it's me who'. 'Razbila' is 'smashed' in a woman's form. Russians say 'broke the mirror to him', so Viktor Petrovich takes 'u' at the end."),
     (5, None, "'And now they are fighting because of me.' 'Iz-za menya' is 'because of me', and 'ssoryatsya' means 'they quarrel with each other'."),
     (6, None, "'Wow!' It's literally 'nothing to oneself', and nobody can say why it means 'wow', but it does. It's a good one to say when you are surprised."),
-    (7, None, "'And what do we do now?' 'Chto delat' is 'what to do', with no 'we' and no 'should'. The basic form carries it."),
+    (7, None, "'And what do we do now?' Russian says 'what to do', with no 'we' and no 'should'. The basic form of the action carries all of it."),
     (8, None, "'So, is everything still on for tonight?' 'Stalo byt' means 'so', literally 'it has become to be'. 'V sile' is 'in force', so 'still on'. Kostya is thinking only about the date."),
-    (9, None, "'Kostya!' It's just his name, said as a telling-off. He's 'Kostya' here, not the pet name 'Kostik', which she only uses when she's pleased."),
+    (9, None, "'Kostya!' It is just his name, said as a telling-off. She calls him 'Kostya' here, and not the pet name 'Kostik', which she uses only when she is pleased."),
     (10, None, "'How could you?' 'Mozhesh' is 'you can', so literally 'how can you'. In Russian it works as a reproach when someone has done something unthinkable."),
-    (11, None, "'You only think about one thing!' 'Ob odnom' is 'about one', with 'ob' because the next word begins with a vowel. 'Tolko' is 'only', and the little 'i' is there to give it bite."),
+    (11, None, "'You only think about one thing!' 'Ob odnom' uses 'ob' before a vowel, which makes the phrase easier to say. A small 'i' in the sentence gives 'only' extra bite."),
 ]
