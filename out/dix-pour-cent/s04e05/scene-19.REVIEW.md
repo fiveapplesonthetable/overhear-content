@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Sigourney | Laissez-moi aller me changer! | Let me go change my clothes! | #772: Laissez-moi aller me changer | verbatim |
 | 14 | Guillaume | Sigourney, vraiment? Qu'allez-vous faire? | Sigourney, really? What are you going to do? | #773: Sigourney. Vraiment | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'What is she doing over there?' Guillaume spots Sigourney standing on the footbridge.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'The distributor pulled out of the project.' Guillaume explains that their financier backed out.
 - 'What? He refuses to switch the roles?' Sigourney realizes the distributor doubts an older leading woman.
 - 'Let me go change my clothes!' Sigourney decides to confront the distributor in person.
-- 'Sigourney, really? What are you going to do?' Guillaume is astonished by her bold determination.
+- 'Sigourney, really? What are you going to do?' Guillaume is astonished by her bold determination. Now let's listen to the complete discussion once more to reinforce the vocabulary.

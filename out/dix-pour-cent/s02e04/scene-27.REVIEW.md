@@ -27,6 +27,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 15 | Camille | Isabelle ne l'a jamais lu! | Isabelle never read it! | #867: Isabelle ne l'a jamais vu.<br>#868: Je suis vraiment désolé. | verbatim |
 | 16 | Isabelle | Au moins, nous avons vidé l'abcès ensemble. | At least, we cleared the air together. | #870: Alors tout va bien.<br>#871: On a vidé l'abcès. | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'I am here to see Sacha Hartman.' Isabelle politely introduces herself at the reception desk.
@@ -44,4 +45,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'It is my fault, forgive me both of you.' Camille steps forward bravely to explain what actually occurred.
 - 'I was an intern and I threw away this script.' Camille confesses that she inadvertently discarded the manuscript.
 - 'Isabelle never read it!' Camille completely exonerates Isabelle from any wrongdoing or neglect.
-- 'At least, we cleared the air together.' Isabelle smiles with relief that at least they cleared the air together.
+- 'At least, we cleared the air together.' Isabelle smiles with relief that at least they cleared the air together. Now let's listen to the scene once more from start to finish.

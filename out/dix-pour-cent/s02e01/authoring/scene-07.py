@@ -23,11 +23,11 @@ STORY = [
     ('mathias', 'Cette année, nos bénéfices sont vraiment en baisse.', 'This year, our profits are really down.', [(154, 'Sans compter le nouveau cadre sur les salaires des comédiens...'), (155, 'Nos bénéfices sont en baisse sur le premier semestre.')], ''),
     ('mathias', 'Nous devons payer une amende de cinq cent mille euros.', 'We must pay a fine of five hundred thousand euros.', [(156, "On pourrait s'en sortir"), (157, 'si Mme Brancillon ne nous avait pas frappés'), (158, 'avec un redressement fiscal de 500 000 €.')], ''),
     ('gabriel', "Cinq cent mille euros? C'est absurde!", 'Five hundred thousand euros? That is absurd!', [(168, "C'est absurde.")], ''),
-    ('andrea', "Dommage que la femme de Mathias n'ait pas pris de parts.", 'Too bad Mathias\\', [(160, "Dommage que la femme de Mathias n'ait pas pris de parts.")], ''),
+    ('andrea', "Dommage que la femme de Mathias n'ait pas pris de parts.", "Too bad Mathias\\'s wife did not take shares.", [(160, "Dommage que la femme de Mathias n'ait pas pris de parts.")], ''),
     ('mathias', "Mais elle n'en a pas pris. En conclusion...", 'But she did not take any. In conclusion...', [(161, "Mais elle n'en a pas pris."), (162, 'En conclusion...')], ''),
     ('mathias', 'Notre seule option est de réduire les salaires pendant deux mois.', 'Our only option is to reduce salaries for two months.', [(164, 'Notre seule option est de réduire les salaires pendant deux mois.')], ''),
     ('gabriel', 'Pardon? Les salaires de qui?', 'Excuse me? Whose salaries?', [(165, 'Pardon ?'), (166, '-Les salaires de qui ? -De tout le monde.')], ''),
-    ('mathias', "Les salaires de tout le monde. Il n'y a pas d'autre solution.", 'Everyone\\', [(166, '-Les salaires de qui ? -De tout le monde.')], ''),
+    ('mathias', "Les salaires de tout le monde. Il n'y a pas d'autre solution.", "Everyone\\'s salaries. There is no other solution.", [(166, '-Les salaires de qui ? -De tout le monde.')], ''),
     ('andrea', 'Hors de question! Ne baissez pas mon salaire!', 'Out of the question! Do not lower my salary!', [(167, 'Hors de question, si vous réduisez le mien, je vais crever de faim.')], ''),
     ('gabriel', "C'est absurde, je suis d'accord!", 'It is absurd, I agree!', [(168, "C'est absurde."), (170, "Je suis d'accord !")], ''),
 ]
@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'Excuse me? Whose salaries?' Gabriel is stunned by the idea that employees and partners should take pay cuts."),
     (11, None, "'Everyone\\'s salaries. There is no other solution.' Mathias insists that survival requires equal sacrifice."),
     (12, None, "'Out of the question! Do not lower my salary!' Andréa protests dramatically that any cut to her salary will leave her starving."),
-    (13, None, "'It is absurd, I agree!' Gabriel backs Andrea and rejects the proposed payroll reductions."),
+    (13, None, "'It is absurd, I agree!' Gabriel backs Andrea and rejects the proposed payroll reductions. Now let's listen to the tense partners meeting once more."),
 ]

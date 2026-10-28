@@ -27,6 +27,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 15 | Camille | Je veux être agent junior. | I want to be a junior agent. | #382: Je veux être agent junior | verbatim |
 | 16 | Camille | Donc je fais attention, Mathias. | So I am being careful, Mathias. | #383: donc je fais attention | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Hello everyone!' Hicham greets the open office with typical swagger.
@@ -44,4 +45,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'You are playing the babysitter for him.' Mathias warns her against subservient duties.
 - 'He will not respect you.' Mathias cautions that flunky tasks undermine authority.
 - 'I want to be a junior agent.' Camille reaffirms her clear professional ambition.
-- 'So I am being careful, Mathias.' Camille insists she knows how to manage the boundary.
+- 'So I am being careful, Mathias.' Camille insists she knows how to manage the boundary. Now listen to the whole scene again at normal speed, and see how much more you catch.

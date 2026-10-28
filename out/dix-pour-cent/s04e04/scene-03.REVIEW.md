@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Andréa | Rassure-la sur son immense talent. | Reassure her about her immense talent. | new | new |
 | 14 | Gabriel | Je ferai de mon mieux, Andréa. | I will do my best, Andrea. | new | new |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Hello Gabriel, you look well!' Andrea teases Gabriel about his tired and rumpled morning look.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'We must convince her quickly.' Andrea urges Gabriel to guide their valuable star back to prestigious cinematic roles.
 - 'I am going to see her again today.' Gabriel confirms he will speak with her once more before the final curtain.
 - 'Reassure her about her immense talent.' Andrea encourages Gabriel to rebuild Sandrine's confidence gently.
-- 'I will do my best, Andrea.' Gabriel promises to give his all to keep the agency on track.
+- 'I will do my best, Andrea.' Gabriel promises to give his all to keep the agency on track. Now let's listen to Andrea and Gabriel's conversation once more from start to finish.

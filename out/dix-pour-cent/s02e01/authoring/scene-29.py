@@ -16,26 +16,26 @@ TRANSITION = 'Now listen to the whole scene again at normal speed, and see how m
 OUTRO = 'Hicham Janowski has arrived as the wealthy new majority owner of ASK, but Mathias is so utterly overcome with shock that he faints dead away on the lobby floor. See you next time!'
 CLOSING = ('andrea', 'À demain!')
 STORY = [
-    ('andrea', "C'est quand même assez drôle.", 'It', [(887, "C'est quand même assez drôle")], ''),
+    ('andrea', "C'est quand même assez drôle.", "It's still pretty funny.", [(887, "C'est quand même assez drôle")], ''),
     ('andrea', "À cause de cette panne, j'ai deux jours de retard.", 'Because of that breakdown, I am two days behind.', [(888, 'À cause de cet idiot et sa voiture'), (889, "j'ai deux jours de retard dans mon travail")], ''),
     ('gabriel', "Ça va, Mathias? Vous avez l'air pâle.", 'Are you okay, Mathias? You look pale.', [(891, 'Ça va, Mathias'), (892, "Vous avez l'air pâle")], ''),
     ('andrea', 'Où étiez-vous?', 'Where were you?', [(894, 'Où étiez-vous')], ''),
-    ('andrea', "Je viens vous épouser et vous n'êtes pas là.", 'I come to marry you and you aren', [(895, "Je viens vous épouser et vous n'êtes pas là")], ''),
+    ('andrea', "Je viens vous épouser et vous n'êtes pas là.", "I come to marry you and you aren't here.", [(895, "Je viens vous épouser et vous n'êtes pas là")], ''),
     ('hicham', 'Bonjour, Andréa.', 'Hello, Andréa.', [(896, 'Bonjour, Andréa')], ''),
     ('gabriel', 'Parfait, tout le monde est là.', 'Perfect, everyone is here.', [(898, 'Parfait, tout le monde est là')], ''),
     ('gabriel', 'En tout cas merci, Andréa, de nous avoir envoyé M. Janowski.', 'In any case thanks, Andréa, for sending us Mr. Janowski.', [(899, 'En tout cas merci, Andréa, de nous avoir envoyé'), (900, 'M. Janowski')], ''),
-    ('gabriel', "On pourrait même l'appeler le chevalier en armure brillante d'ASK!", 'We could even call him ASK', [(901, "On pourrait même l'appeler le chevalier en armure brillante d'ASK")], ''),
+    ('gabriel', "On pourrait même l'appeler le chevalier en armure brillante d'ASK!", "We could even call him ASK's knight in shining armor!", [(901, "On pourrait même l'appeler le chevalier en armure brillante d'ASK")], ''),
     ('gabriel', 'Mathias Barneville, le quatrième associé.', 'Mathias Barneville, the fourth partner.', [(902, 'Mathias Barneville, le quatrième associé')], ''),
     ('hicham', 'Hicham Janowski, enchanté.', 'Hicham Janowski, delighted to meet you.', [(903, 'Hicham Janowski, enchanté')], ''),
     ('andrea', 'M. Janowski, votre nouvel associé.', 'Mr. Janowski, your new partner.', [(904, 'M. Janowski, votre nouvel associé')], ''),
     ('gabriel', 'Mathias?', 'Mathias, are you okay?', [(905, 'Mathias')], ''),
     ('gabriel', 'Mathias!', 'Mathias, hold on!', [(906, 'Mathias')], ''),
     ('gabriel', 'Essayez le bouche-à-bouche!', 'Try mouth-to-mouth!', [(908, 'Essayez le bouche-à-bouche')], ''),
-    ('andrea', "C'est juste sa cravate!", 'It', [(909, "C'est juste sa cravate")], ''),
+    ('andrea', "C'est juste sa cravate!", "It's just his tie!", [(909, "C'est juste sa cravate")], ''),
 ]
 WALK = [
     (0, None, "'It's still pretty funny.' Andrea grumbles humorously as she steps into the agency."),
-    (1, None, "'Because of that breakdown, I am two days behind.'m two days behind in my work.' The preposition 'a cause de' expresses a negative cause."),
+    (1, None, "'Because of that breakdown, I am two days behind.' The preposition 'a cause de' expresses a negative cause."),
     (2, None, "'Are you okay, Mathias? You look pale.' Gabriel notices Mathias's sickly expression."),
     (3, None, "'Where were you?' Andréa asks where the other partners were while she was waiting."),
     (4, None, "'I come to marry you and you aren't here.' Andrea teasingly references her desperate plea from the night before."),
@@ -49,5 +49,5 @@ WALK = [
     (12, None, "'Mathias, are you okay?' Gabriel calls out as Mathias sways on his feet."),
     (13, None, "'Mathias, hold on!' Gabriel cries in terror as Mathias collapses to the floor."),
     (14, None, "'Try mouth-to-mouth!' When Andréa faints in shock, Gabriel jokes that Hicham should try mouth-to-mouth."),
-    (15, None, "'It's just his tie!' Andrea kneels down to loosen his tight collar."),
+    (15, None, "'It's just his tie!' Andrea kneels down to loosen his tight collar. Now listen to the whole scene again at normal speed, and see how much more you catch."),
 ]

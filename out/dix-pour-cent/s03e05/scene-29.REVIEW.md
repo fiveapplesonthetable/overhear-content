@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Andréa | Pourquoi réagis-tu comme ça? | Why are you reacting like that? | #1135: Pourquoi tu le prends comme ça | verbatim |
 | 14 | Andréa | La fuite vient de nous. | The leak comes from us. | #1144: La fuite | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'I do not like that tone.' Gabriel hears Hicham's menacing voice on the line and senses disaster.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I am handing everything over to Mathias.' Hicham announces he is selling out to Mathias to punish them.
 - 'I have nothing left here anymore.' Hicham declares his departure from ASK.
 - 'Why are you reacting like that?' Andrea pleads as Hicham walks away.
-- 'The leak comes from us.' Andrea realizes that the internal leak came from within their own walls.
+- 'The leak comes from us.' Andrea realizes that the internal leak came from within their own walls. Now let's listen to the complete discussion once more to reinforce the vocabulary.

@@ -18,8 +18,8 @@ CLOSING = ('noemie', 'Au revoir!')
 STORY = [
     ('noemie', "J'ai trouvé une solution pour Nathalie Baye.", 'I found a solution for Nathalie Baye.', [(260, "j'ai trouvé une solution pour Nathalie Baye.")], ''),
     ('mathias', 'Ah, excellent. Montre-moi ça.', 'Ah, excellent. Show me that.', [(261, 'Ah, excellent.')], ''),
-    ('noemie', 'Voilà le planning de Xavier Beauvois.', 'Here is Xavier Beauvois', [(262, 'Voilà le planning de Xavier Beauvois.')], ''),
-    ('noemie', 'Celui-ci est celui de Tonie Marshall.', 'This one is Tonie Marshall', [(263, 'Celui-ci est celui de Tonie Marshall.')], ''),
+    ('noemie', 'Voilà le planning de Xavier Beauvois.', "Here is Xavier Beauvois's schedule.", [(262, 'Voilà le planning de Xavier Beauvois.')], ''),
+    ('noemie', 'Celui-ci est celui de Tonie Marshall.', "This one is Tonie Marshall's.", [(263, 'Celui-ci est celui de Tonie Marshall.')], ''),
     ('noemie', 'Les jours de tournage sont marqués en rouge.', 'The shooting days are marked in red.', [(264, 'sont marqués en rouge.')], ''),
     ('noemie', "Tout s'emboîte parfaitement ici.", 'Everything fits together perfectly here.', [(265, "Tout s'emboîte parfaitement.")], ''),
     ('noemie', 'Nathalie peut faire les deux films.', 'Nathalie can do both movies.', [(266, 'Nathalie peut faire')], ''),
@@ -49,5 +49,5 @@ WALK = [
     (12, None, "'You said no, so you do not regret anything.' Noemie interprets his hesitation flirtatiously."),
     (13, None, "'Listen, Noémie, I prefer not to speak of it here.' Mathias deflects the personal banter."),
     (14, None, "'In any case, do not worry, Mathias.' Noemie reassures him with confidence."),
-    (15, None, "'Leave it to me, it will fit.' Noemie concludes with breezy determination."),
+    (15, None, "'Leave it to me, it will fit.' Noemie concludes with breezy determination. Now let's listen to the entire dialogue once more to lock in what you have learned."),
 ]

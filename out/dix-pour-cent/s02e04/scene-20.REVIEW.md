@@ -27,6 +27,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 15 | Andréa | Et arrêtez de m'appeler Marteau! | And stop calling me Marteau! | #581: Et arrête de m'appeler Marteau, putain ! | verbatim |
 | 16 | Hicham | C'est promis, je respecte votre espace. | It is promised, I respect your space. | #580: Très bien, Marteau. | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Hello Andréa, it is time for our meeting.' Hicham enters Andréa's office unannounced.
@@ -44,4 +45,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Now, leave my office, please.' Andréa orders him to leave firmly.
 - 'Very well, Marteau, I leave you to work.' Hicham yields while using her annoying nickname.
 - 'And stop calling me Marteau!' Andréa refuses the patronizing nickname.
-- 'It is promised, I respect your space.' Hicham finally accepts the boundary and departs.
+- 'It is promised, I respect your space.' Hicham finally accepts the boundary and departs. Now let's listen to the sharp confrontation once more at natural pace.

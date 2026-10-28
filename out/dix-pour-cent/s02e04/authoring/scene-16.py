@@ -47,5 +47,5 @@ WALK = [
     (11, None, "'I do not know, quite possibly.' Gabriel backpedals on his unverified speculation."),
     (12, None, "'He has plenty of things to do.' The agent rationalizes the singer's busy schedule."),
     (13, None, "'Let us leave Juju alone for now.' Sofia decides against appearing too eager or demanding."),
-    (14, None, "'Of course. Obviously.' Gabriel agrees to respect the artist's personal space."),
+    (14, None, "'Of course. Obviously.' Gabriel agrees to respect the artist's personal space. Now listen to the whole scene again at normal speed, and see how much more you catch."),
 ]

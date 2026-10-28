@@ -17,19 +17,19 @@ OUTRO = 'Julie Gayet and JoeyStarr have locked themselves in their trailers, fiv
 CLOSING = ('joey', 'À demain!')
 STORY = [
     ('joey', 'Madame.', 'Madam.', [(1, 'Madame')], ''),
-    ('julie', "Non! Je n'y crois pas!", 'No! I don', [(2, "Non ! Je n'y crois pas")], ''),
+    ('julie', "Non! Je n'y crois pas!", "No! I don't believe it!", [(2, "Non ! Je n'y crois pas")], ''),
     ('samir', "Coupez! Qu'est-ce qui se passe?", 'Cut! What is going on?', [(4, 'Coupez'), (4, "Qu'est-ce qui se passe ?")], ''),
     ('julie', 'Il la pousse dans les buissons.', 'He pushes her into the bushes.', [(5, 'Il la pousse dans les buissons')], ''),
     ('joey', 'Vous êtes en verre?', 'Are you made of glass?', [(6, 'Vous êtes en verre ?')], ''),
     ('julie', 'Non, je suis une aristocrate, il est serviteur.', 'No, I am an aristocrat, he is a servant.', [(7, 'Non. Je suis une aristocrate, il est serviteur')], ''),
     ('julie', 'Il doit faire preuve de respect.', 'He has to show respect.', [(8, 'il doit'), (8, 'faire preuve de respect')], ''),
-    ('joey', "Je travaille, d'accord?", 'I', [(10, 'je travaille'), (11, "D'accord")], ''),
+    ('joey', "Je travaille, d'accord?", "I'm working, okay?", [(10, 'je travaille'), (11, "D'accord")], ''),
     ('julie', "On pourrait avoir un peu de délicatesse et d'élégance dans cette scène?", 'Could we have a little delicacy and elegance in this scene?', [(12, "On pourrait avoir un peu de délicatesse et d'élégance"), (13, 'dans cette scène ?')], ''),
-    ('joey', "C'est pour moi? J'en ai marre.", 'Is that aimed at me? I', [(14, "C'est pour moi ?"), (15, "J'en ai marre")], ''),
+    ('joey', "C'est pour moi? J'en ai marre.", "Is that aimed at me? I'm fed up.", [(14, "C'est pour moi ?"), (15, "J'en ai marre")], ''),
     ('julie', 'Moi aussi! Allez à vos dîners mondains!', 'Me too! Go to your high-society dinners!', [(16, 'Moi aussi'), (17, 'Allez à vos dîners mondains !')], ''),
-    ('julie', "Articulez, s'il vous plaît. Je ne comprends pas un mot.", 'Articulate, please. I don', [(18, "Articulez, s'il vous plaît. Je ne comprends pas un mot")], ''),
+    ('julie', "Articulez, s'il vous plaît. Je ne comprends pas un mot.", "Articulate, please. I don't understand a word.", [(18, "Articulez, s'il vous plaît. Je ne comprends pas un mot")], ''),
     ('samir', 'On a combien de retard?', 'How far behind schedule are we?', [(20, 'On a combien de retard ?')], ''),
-    ('samir', "Cinq jours. Je n'y crois pas!", 'Five days. I don', [(21, "Cinq jours. Je n'y crois pas !")], ''),
+    ('samir', "Cinq jours. Je n'y crois pas!", "Five days. I don't believe it!", [(21, "Cinq jours. Je n'y crois pas !")], ''),
     ('samir', 'Appelez leurs agents maintenant!', 'Call their agents right now!', [(22, 'Appelez leurs agents maintenant !')], ''),
 ]
 WALK = [
@@ -47,5 +47,5 @@ WALK = [
     (11, None, "'Articulate, please. I don't understand a word.' Julie fires back at his gravelly delivery before storming off to her trailer."),
     (12, None, "'How far behind schedule are we?' Literally 'we have how much of delay?'."),
     (13, None, "'Five days. I don't believe it!' Samir repeats the assistant director's answer in horror."),
-    (14, None, "'Call their agents right now!' With both stars locked in their trailers, only ASK can save the shoot. Now let's hear the whole scene on the film set again."),
+    (14, None, "'Call their agents right now!' With both stars locked in their trailers, only ASK can save the shoot."),
 ]

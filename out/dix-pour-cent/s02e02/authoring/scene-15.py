@@ -17,7 +17,7 @@ OUTRO = 'Devastated by the supposed loss of a James Bond villain role, Fabrice L
 CLOSING = ('fabrice', 'Bonne journée!')
 STORY = [
     ('linda', 'Fabrice! Tu es enfin là.', 'Fabrice! You are finally here.', [(505, 'Fabrice ! Tu es enfin là')], ''),
-    ('fabrice', "Pardon, je ne t'ai pas fait attendre?", 'Sorry, I didn', [(506, "Je ne t'ai pas fait attendre")], ''),
+    ('fabrice', "Pardon, je ne t'ai pas fait attendre?", "Sorry, I didn't keep you waiting?", [(506, "Je ne t'ai pas fait attendre")], ''),
     ('linda', 'Ton agent Bréhier ne me répond jamais.', 'Your agent Bréhier never answers me.', [(510, "je n'entends jamais parler du tien")], ''),
     ('fabrice', "Vraiment? C'est très étrange.", 'Really? That is very strange.', [(514, 'Il y a un problème')], ''),
     ('linda', 'Je voulais te proposer le prochain Bond.', 'I wanted to offer you the next Bond.', [(518, "il s'agit du prochain Bond")], ''),
@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'Antonio Banderas? I do not understand!' Fabrice is outraged and bewildered by the perceived loss."),
     (11, None, "'I have a small film in Ireland.' Linda offers a meager consolation project in Northern Ireland."),
     (12, None, "'A role of teacher in the rain.' Linda describes an unglamorous low-budget production under harsh weather."),
-    (13, None, "'In the rain? Bréhier will hear from me!' Furious at the indignity, Fabrice vows to confront his negligent agent."),
+    (13, None, "'In the rain? Bréhier will hear from me!' Furious at the indignity, Fabrice vows to confront his negligent agent. Now listen to the whole scene again at normal speed, and see how much more you catch."),
 ]

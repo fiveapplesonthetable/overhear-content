@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Sandrine | J'ai complètement raté ma carrière comique! | I have completely missed out on my comedic career! | #92: j'ai complètement raté ma carrière. | verbatim |
 | 14 | Gabriel | Tu es une immense comédienne, Sandrine. | You are an immense actress, Sandrine. | new | new |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Always marvelous, always the best, Sandrine!' Gabriel showers the actress with affectionate compliments in her dressing room.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Let us go instead to a comedy club.' Sandrine pushes Gabriel toward discovering fresh comedic talent.
 - 'All right, but let us stay very sensible tonight.' Gabriel agrees to accompany her while urging moderation.
 - 'I have completely missed out on my comedic career!' Sandrine confesses her secret longing to perform raw stand-up comedy.
-- 'You are an immense actress, Sandrine.' Gabriel reassures her that her theatrical stature remains beyond question.
+- 'You are an immense actress, Sandrine.' Gabriel reassures her that her theatrical stature remains beyond question. Now let's listen to Sandrine and Gabriel's full discussion once more from start to finish.

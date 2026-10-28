@@ -43,5 +43,5 @@ WALK = [
     (9, None, "'I have to go, I have to speak to the mayor.' Andrea cuts the call short to attend her ceremony in Couchey."),
     (10, None, "'Keep me posted. Take care of yourself.' Gabriel asks her to keep him posted and take care of herself."),
     (11, None, "'All right, see you soon Gabriel.' Andréa says goodbye warmly before heading into the ceremony."),
-    (12, None, "'Good luck in Couchey.' Gabriel wishes her good luck at the village ceremony in Couchey."),
+    (12, None, "'Good luck in Couchey.' Gabriel wishes her good luck at the village ceremony in Couchey. Now listen to the full phone call once more without interruption."),
 ]

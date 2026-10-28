@@ -27,6 +27,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 15 | Juliette | D'accord, mais nous partirons au bout d'une heure. | Alright, but we will leave after an hour. | #559: Je vais gerber sur son pont. | verbatim |
 | 16 | Andréa | C'est promis, personne ne te touchera! | It is promised, nobody will touch you! | #560: T'inquiète pas, on s'occupe de tout.<br>#561: tu seras la princesse de Cannes. | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Listen to this ridiculous poem sent by Gillières.' Juliette is appalled by the message.
@@ -44,4 +45,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Do you promise not to leave me alone?' Juliette demands guaranteed accompaniment.
 - 'I will always be at your side on the boat.' Andréa makes an absolute pledge of protection.
 - 'Alright, but we will leave after an hour.' Juliette imposes a strict time boundary.
-- 'It is promised, nobody will touch you!' Andréa seals the protective pact firmly.
+- 'It is promised, nobody will touch you!' Andréa seals the protective pact firmly. Now let's listen to the decisive conversation once more at normal pace.

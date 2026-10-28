@@ -17,7 +17,7 @@ OUTRO = "Calmed by Arlette's experience and warmth, Gabriel learns to separate h
 CLOSING = ('arlette', 'Bonne journée!')
 STORY = [
     ('arlette', 'Tu vas bien, mon cher Gabriel?', 'Are you doing well, my dear Gabriel?', [(640, 'Ça va ?')], ''),
-    ('gabriel', "C'est super pour le film de Sofia.", 'It is great for Sofia', [(641, "C'est super pour Sofia.")], ''),
+    ('gabriel', "C'est super pour le film de Sofia.", "It is great for Sofia's movie.", [(641, "C'est super pour Sofia.")], ''),
     ('arlette', 'Depuis leur rencontre, Sofia est rayonnante.', 'Since their meeting, Sofia is radiant.', [(643, 'mais depuis que vous êtes ensemble,'), (644, 'Sofia est rayonnante.')], ''),
     ('gabriel', 'Je crois que je suis jaloux!', 'I think that I am jealous!', [(648, 'Je crois que je suis jaloux !')], ''),
     ('gabriel', 'Je ne suis plus si sûr.', 'I am no longer so sure.', [(652, 'Je suis pas si sûr de ce film.')], ''),
@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'There must be desire between artists.' Arlette insists that creative passion requires genuine mutual attraction."),
     (11, None, "'Let her live her own life.' She counsels Gabriel to avoid suffocating his talented girlfriend."),
     (12, None, "'Trust her above all.' The veteran agent offers timeless wisdom on loving an artist."),
-    (13, None, "'She will love you even more that way.' Arlette reassures him that respecting Sofia's independence strengthens love."),
+    (13, None, "'She will love you even more that way.' Arlette reassures him that respecting Sofia's independence strengthens love. Now let's listen to the entire exchange once more from beginning to end."),
 ]

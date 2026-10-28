@@ -19,7 +19,7 @@ STORY = [
     ('gabriel', 'Les producteurs américains posent des questions.', 'The American producers are asking questions.', [(1018, 'de quoi vous nous accusiez')], ''),
     ('andrea', "Ils pensent qu'Isabelle a triché?", 'Do they think that Isabelle cheated?', [(1020, 'Isabelle Huppert ne pouvait pas tourner')], ''),
     ('gabriel', 'Ils ont vu le tournage nocturne.', 'They saw the night shoot.', [(1031, 'tournage de Marie de Médicis')], ''),
-    ('andrea', 'Isabelle était au mariage de son fils!', 'Isabelle was at her son', [(1022, 'mariage de son fils')], ''),
+    ('andrea', 'Isabelle était au mariage de son fils!', "Isabelle was at her son's wedding!", [(1022, 'mariage de son fils')], ''),
     ('gabriel', "Il s'agit d'un énorme malentendu.", 'This is a huge misunderstanding.', [(1028, 'énorme malentendu')], ''),
     ('andrea', 'Cédric Kahn a utilisé un double.', 'Cedric Kahn used a double.', [(1073, 'vrai double de son actrice')], ''),
     ('gabriel', 'Une doublure pour créer un fantôme.', 'A stand-in to create a ghost.', [(1072, 'créer un fantôme')], ''),
@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'The first cut is in the office.' Gabriel points toward the projection room."),
     (11, None, "'Let us go show them this fine film.' Andrea leads the delegation forward boldly."),
     (12, None, "'Let us hope the result is convincing.' Gabriel tempers enthusiasm with realism."),
-    (13, None, "'Our agency will save this important project.' Andrea rallies her fellow agent."),
+    (13, None, "'Our agency will save this important project.' Andrea rallies her fellow agent. Now let's listen to the complete discussion once more to reinforce the vocabulary."),
 ]

@@ -12,7 +12,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 |---|---|---|---|---|---|
 | 1 | Mathias | Prenez-le doucement dans vos bras. | Take him gently in your arms. | #1369: Agnez-le | verbatim |
 | 2 | Mathias | Il sort tout seul maintenant. | He is coming out on his own now. | #1370: il va sortir tout seul | verbatim |
-| 3 | Mathias | Directement sur le ventre d'Andréa! | Directly onto Andrea | #1372: Directement sur le ventre de la mer | verbatim |
+| 3 | Mathias | Directement sur le ventre d'Andréa! | Directly onto Andrea's stomach! | #1372: Directement sur le ventre de la mer | verbatim |
 | 4 | Andréa | Merci infiniment pour votre aide précieuse. | Thank you so much for your precious help. | #1377: Merci<br>#1378: merci de m'avoir accompagnée | verbatim |
 | 5 | Andréa | Je suis complètement épuisée maintenant. | I am completely exhausted now. | #1379: Je suis épuisée | verbatim |
 | 6 | Andréa | Je vais m'écrouler de fatigue. | I am going to collapse from tiredness. | #1380: Je vais m'écrouler, je crois | verbatim |
@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Mathias | Si, Camille, c'est à moi. | Yes, Camille, it is for me. | #1390: Si, c'est à moi | verbatim |
 | 14 | Mathias | C'est vraiment à moi. | It is truly for me. | #1391: C'est à moi | verbatim |
 | 15 | Camille | Alors, laisse-moi t'aider maintenant. | Then let me help you now. | #1388: je nettoie | verbatim |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 

@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Jean-Luc Birag | Sinon, nous déclarerons une rupture de contrat. | Otherwise, we will declare a breach of contract. | #504: que c'est une rupture de contrat | verbatim |
 | 14 | Andréa | Nous défendrons notre actrice jusqu'au bout! | We will defend our actress all the way! | #505: pas envie d'en arriver là | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Here is the signed contract of Beatrice Dalle.' Director Birag presents the binding legal document.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Beatrice refuses to shoot naked in this bag.' Andrea stands squarely behind her client's refusal.
 - 'Beatrice must resume shooting this afternoon.' The director issues a non-negotiable ultimatum.
 - 'Otherwise, we will declare a breach of contract.' Birag threatens formal legal retaliation.
-- 'We will defend our actress all the way!' Andrea vows complete loyalty to Beatrice.
+- 'We will defend our actress all the way!' Andrea vows complete loyalty to Beatrice. Now let's listen to the entire dialogue once more to lock in what you have learned.

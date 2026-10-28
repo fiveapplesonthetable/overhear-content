@@ -35,14 +35,14 @@ STORY = [
     ('arkady', 'Как не нашла? Послушай, в чёрном шкафу посмотри. Там справа от двери!', "What do you mean you didn't find it? Listen, look in the black cabinet. There to the right of the door!", [(540, 'Как не нашла?'), (541, 'Послушай'), (542, 'В черном шкафу посмотри. Там справа от двери')], ''),
 ]
 WALK = [
-    (0, None, "Standing by the boards of the ice rink, Pasha tells the governor that he really does not understand."),
+    (0, None, 'Standing by the boards of the ice rink, Pasha tells the governor that he really does not understand.'),
     (1, 'Что вы так переживаете?', "'Why are you worrying like that?' Notice the polite plural 'you' as Pasha addresses his boss."),
-    (1, 'Самсонов всё, он себя закопал.', "'Samsonov is finished, he buried himself' by crashing a luxury car into the Society of the Blind."),
+    (1, 'Самсонов всё, он себя закопал.', "'Samsonov is finished, he buried himself.' He ruined his own campaign by crashing a luxury car into the Society of the Blind."),
     (2, None, "'And what if Anikeev comes up with something?' The single-action form with the prefix 'pri-' means to think up or invent a plan."),
     (3, None, "'What could he come up with?' Pasha brushes the worry aside."),
     (4, None, "'He'll just make a deal with the blind people, and that's it.' Notice the 'with'-form plural ending '-ymi' after the little word 'with'."),
     (5, 'Не договорится, слепые его ненавидят.', "'He won't make a deal, the blind people hate him.' Pasha points out that the head of the Society for the Blind won't make a deal because they all hate Samsonov."),
-    (5, 'Они же думают, что виноват он.', "'They think that he is to blame' for delaying their new building."),
+    (5, 'Они же думают, что виноват он.', "'They think that he is to blame.' The locals blame him for delaying their new building."),
     (6, None, "'And in reality?' Literally 'and on the actual matter?', the standard Russian phrase for 'in fact' or 'actually'."),
     (7, 'На самом деле это сделал я.', "'In reality I did it.' Pasha admits the truth."),
     (7, 'Мне нужно было перехватить постройки.', "'I needed to grab the construction contracts.' That prompts a sharp question from the governor."),

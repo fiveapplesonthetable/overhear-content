@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'She is arriving very soon, Madame Weaver.' Camille promises that Andrea has resolved her domestic crisis and is en route."),
     (11, None, "'I look forward to discussing my contract.' Sigourney signals her eager anticipation regarding her French film project."),
     (12, None, "'She will explain all the details to you.' Camille confirms that Andrea will present full contract terms and shooting dates."),
-    (13, None, "'Perfect, I will start my exercises.' Sigourney wraps up the talk by launching straight into dynamic stretches."),
+    (13, None, "'Perfect, I will start my exercises.' Sigourney wraps up the talk by launching straight into dynamic stretches. Now let's listen to Camille and Sigourney's exchange once more from start to finish."),
 ]

@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'Right, where were we with our file?' Andrea pivots back to her desk tasks."),
     (11, None, "'Do not forget our housewarming party!' Colette calls out a happy reminder."),
     (12, None, "'I will be on time, promised!' Andrea pledges to make the party without delay."),
-    (13, None, "'Perfect, I am preparing champagne for us!' Colette readies drinks for their victory."),
+    (13, None, "'Perfect, I am preparing champagne for us!' Colette readies drinks for their victory. Now let's listen to the complete discussion once more to reinforce the vocabulary."),
 ]

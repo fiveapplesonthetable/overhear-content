@@ -50,7 +50,7 @@ WALK = [
     (10, None, "'I ask you to keep this a secret.' Literally, 'to leave this in secret'. Arkady's eyes light up with revenge."),
     (11, None, "'A secret? And did you keep my secret yesterday?' In court yesterday, Golovkin revealed Arkady's housing fraud. Now Arkady has the perfect weapon over his lawyer."),
     (12, None, "'I'll tell Samson everything this very day!' Adding the emphatic particle right after 'today' means 'today of all days, this very day'. And he points to his own bandaged head."),
-    (13, 'Он тебя найдёт!', "'He'll find you!' future-tense form: one quick, painful result."),
+    (13, 'Он тебя найдёт!', "'He'll find you!' That single Russian word promises one quick, painful result."),
     (13, 'Посмотри, что он со мной сделал.', "'Look what he did to me.' Literally, 'what he with me did'. Golovkin panics."),
     (14, None, "'Please, don't!' Just then, the investigator's door opens and Arkady is called inside, where Pasha is waiting at a table full of food."),
     (15, None, "'Good morning, Arkady Borisovich. Come in, sit down, have a bite to eat.' Notice the mockery: Pasha greets him by his polite name and patronymic, and then gives him three informal commands in a row."),

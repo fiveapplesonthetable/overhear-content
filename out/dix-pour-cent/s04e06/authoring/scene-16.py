@@ -20,7 +20,7 @@ STORY = [
     ('elise', "J'ai trois enfants à nourrir, Andréa.", 'I have three children to feed, Andrea.', [(736, "J'ai trois enfants")], ''),
     ('andrea', 'Alors viens me parler franchement maintenant.', 'Then come speak to me frankly now.', [(741, "Qu'est-ce que tu veux")], ''),
     ('elise', "Qu'est-ce que tu veux de moi?", 'What do you want from me?', [(741, "Qu'est-ce que tu veux")], ''),
-    ('andrea', 'Tu bloques le film de Beauvois!', 'You are blocking Beauvois', [(746, 'bloques le financement du film de Beauvois')], ''),
+    ('andrea', 'Tu bloques le film de Beauvois!', "You are blocking Beauvois's film!", [(746, 'bloques le financement du film de Beauvois')], ''),
     ('elise', 'Igor est libre de choisir ses projets.', 'Igor is free to choose his projects.', [(745, 'Igor')], ''),
     ('andrea', 'Tu manipules Igor contre notre agence.', 'You are manipulating Igor against our agency.', [(746, 'bloques le financement')], ''),
     ('elise', 'Ce scénario est trop sombre et risqué.', 'This script is too dark and risky.', [(746, 'bloques le financement')], ''),

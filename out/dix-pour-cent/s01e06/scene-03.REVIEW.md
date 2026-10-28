@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Mathias | Je m'inquiète pour toi. | I am worried about you. | #84: Je m'inquiète pour | verbatim |
 | 14 | Mathias | Appelle-moi, s'il te plaît. | Call me, please. | #88: Appelle-moi, hein ? | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'It was all my doing.' Camille defends Mathias by insisting she came to Paris on her own initiative.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Can we talk before shouting?' Camille desperately pleads for calm as emotions boil over.
 - 'I was pregnant! Leave!' Catherine reveals that she was carrying Hippolyte during the affair.
 - 'I am worried about you.' Down in the street, Mathias tries to reach Catherine on the phone.
-- 'Call me, please.' Mathias pleads into the receiver as his family life falls into crisis.
+- 'Call me, please.' Mathias pleads into the receiver as his family life falls into crisis. Now let's listen to the entire dramatic scene once more in French.

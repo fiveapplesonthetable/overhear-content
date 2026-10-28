@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Gabriel | Tu dois tenter le coup. | You must give it a shot. | #638: tu dois tenter le coup. | verbatim |
 | 14 | Sofia | D'accord, je vais lui parler. | All right, I will talk to him. | #640: Ah, c'est super que tu sois venu. | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Hi Julien! Are you doing well?' Gabriel greets the visiting artist in the party lounge.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Stop worrying like that.' Gabriel urges her not to let insecurity hold her back.
 - 'Julien is always very stressed.' The agent explains that creative people often experience intense anxiety.
 - 'You must give it a shot.' Gabriel encourages his client to take advantage of the opportunity.
-- 'All right, I will talk to him.' Sofia finally agrees to approach the artist directly.
+- 'All right, I will talk to him.' Sofia finally agrees to approach the artist directly. Now let's listen to the entire exchange once more from beginning to end.

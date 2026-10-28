@@ -24,6 +24,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 12 | Hicham | Qui vote pour sauver nos emplois? | Who votes to save our jobs? | #238: payer le loyer, les salaires | verbatim |
 | 13 | Gabriel | Je vote pour accueillir Élise chez nous. | I vote to welcome Elise into our firm. | #237: Qui est pour recruter Elise | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'What is Elise Formain doing in our offices?' Andrea asks angrily why their fiercest competitor has appeared.
@@ -38,4 +39,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Without her, our agency is ruined.' Hicham makes it clear that without Elise's revenues, ASK will collapse.
 - 'We must vote between partners now.' Andrea insists that the managing partners must decide together by formal vote.
 - 'Who votes to save our jobs?' Hicham asks who is prepared to vote for survival over personal pride.
-- 'I vote to welcome Elise into our firm.' Gabriel reluctantly votes yes to protect the company's financial future.
+- 'I vote to welcome Elise into our firm.' Gabriel reluctantly votes yes to protect the company's financial future. Now let's listen to the partners' crucial vote once more from start to finish.

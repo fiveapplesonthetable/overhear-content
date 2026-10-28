@@ -28,7 +28,7 @@ STORY = [
     ('sofia', "C'est grâce à ton soutien précieux.", 'It is thanks to your valuable support.', [(527, 'Merci')], ''),
     ('camille', 'Je suis très fière de toi.', 'I am very proud of you.', [], ''),
     ('sofia', 'Maintenant, nous pouvons prendre un café?', 'Now, can we have a coffee?', [(527, 'Merci')], ''),
-    ('camille', 'Oui, allons fêter cette belle journée!', 'Yes, let', [], ''),
+    ('camille', 'Oui, allons fêter cette belle journée!', "Yes, let's go celebrate this fine day!", [], ''),
     ('sofia', "Je me sens enfin tranquille aujourd'hui.", 'I feel peaceful at last today.', [], ''),
 ]
 WALK = [
@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'I am very proud of you.' Camille expresses sincere pride in her client's growth and talent."),
     (11, None, "'Now, can we have a coffee?' Sofia proposes a quiet moment away from studio lights."),
     (12, None, "'Yes, let's go celebrate this fine day!' Camille enthusiastically welcomes the idea of a break."),
-    (13, None, "'I feel peaceful at last today.' Sofia leaves behind her rivalry and feels confident in her career."),
+    (13, None, "'I feel peaceful at last today.' Sofia leaves behind her rivalry and feels confident in her career. Now let's listen to the complete discussion once more to reinforce the vocabulary."),
 ]

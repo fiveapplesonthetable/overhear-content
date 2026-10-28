@@ -43,5 +43,5 @@ WALK = [
     (9, None, "'Does he know that I am a receptionist?' Sofia worries that her day job at ASK will undermine her credibility."),
     (10, None, "'Of course not, sit down there.' Gabriel directs her to sit on the couch and look like an established actress."),
     (11, None, "'Do you really like Julien Dore?' Gabriel asks about her opinion of the musician."),
-    (12, None, "'I adore him, that is why I am panicking!' Sofia admits she is terrified precisely because she is such a big fan."),
+    (12, None, "'I adore him, that is why I am panicking!' Sofia admits she is terrified precisely because she is such a big fan. Now let's listen to the scene once more from start to finish."),
 ]

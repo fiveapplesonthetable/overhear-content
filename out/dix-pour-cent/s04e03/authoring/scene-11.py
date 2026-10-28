@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'Do not think about that award anymore.' Camille encourages Sofia to focus on the present photoshoot."),
     (11, None, "'You have an immense talent, Sofia.' Camille reminds her of her unique charisma and acting gifts."),
     (12, None, "'I want to give the best today.' Sofia finds her determination to shine for the photographer."),
-    (13, None, "'Show them your strength in front of the camera!' Camille gives a final boost of confidence before the flashbulbs fire."),
+    (13, None, "'Show them your strength in front of the camera!' Camille gives a final boost of confidence before the flashbulbs fire. Now let's listen to the complete discussion once more to reinforce the vocabulary."),
 ]

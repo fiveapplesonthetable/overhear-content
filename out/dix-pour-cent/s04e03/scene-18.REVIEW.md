@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Camille | Je comprends ta colère, tu as raison. | I understand your anger, you are right. | #876: Ce n'est pas la question | verbatim |
 | 14 | Suzanne | Prends soin de toi avant tout, chérie. | Take care of yourself above all, honey. | #857: fière de toi, chérie | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'I have a lot of work right now.' Camille sighs over the phone.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I am not going to change my name.' Camille reassures her mother of her lasting identity.
 - 'Thankfully! I did everything all alone.' Suzanne proudly asserts her maternal devotion.
 - 'I understand your anger, you are right.' Camille validates her mother's pain.
-- 'Take care of yourself above all, honey.' Suzanne closes the conversation with tender warmth.
+- 'Take care of yourself above all, honey.' Suzanne closes the conversation with tender warmth. Now let's listen to the complete discussion once more to reinforce the vocabulary.

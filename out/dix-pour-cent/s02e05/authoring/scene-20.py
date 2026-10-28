@@ -49,5 +49,5 @@ WALK = [
     (12, None, "'Your father was wrong to be so pessimistic.' Noémie rejects the cynical worldview."),
     (13, None, "'Maybe, but I have trouble keeping hope.' Mathias struggles against despair."),
     (14, None, "'Look at me, Mathias. You are not alone.' Noémie reminds him of her loyal presence."),
-    (15, None, "'I am here with you, we will succeed together.' Noémie promises her loving support."),
+    (15, None, "'I am here with you, we will succeed together.' Noémie promises her loving support. Now let's listen to the emotional conversation once more at normal pace."),
 ]

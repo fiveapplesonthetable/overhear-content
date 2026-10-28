@@ -47,5 +47,5 @@ WALK = [
     (11, None, "'I prefer going to New York with Andréa.' Camille declines in favor of an international adventure."),
     (12, None, "'Working for that American agency?' Hicham inquires about the famous talent representation firm."),
     (13, None, "'Yes, the agency is called UBA.' Camille names the prestigious international agency."),
-    (14, None, "'It is a very tempting opportunity.' Hicham nods in respect of her ambitious choice."),
+    (14, None, "'It is a very tempting opportunity.' Hicham nods in respect of her ambitious choice. Now listen to the whole scene again at normal speed, and see how much more you catch."),
 ]

@@ -17,13 +17,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 5 | Gabriel | Passe-moi la cigarette, s'il te plaît. | Pass me the cigarette, please. | #908: Passe s'il te plaît. | verbatim |
 | 6 | Gabriel | C'est vrai qu'elle est très forte! | It is true that it is very strong! | #907: est | verbatim |
 | 7 | Sofia | Pardon d'être sortie de la salle. | Sorry for having left the theater. | new | new |
-| 8 | Gabriel | Tu n'aimes pas le film de Julien? | Do you not like Julien | new | new |
+| 8 | Gabriel | Tu n'aimes pas le film de Julien? | Do you not like Julien's movie? | new | new |
 | 9 | Sofia | Si, le film est très beau. | Yes, the movie is very beautiful. | #907: est | verbatim |
 | 10 | Sofia | Mais je suis nue tout le temps! | But I am naked all the time! | #906: Mais | verbatim |
 | 11 | Sofia | C'est une expérience très difficile, Gabriel. | It is a very difficult experience, Gabriel. | #906: une | verbatim |
 | 12 | Gabriel | Tu es magnifique sur ce grand écran. | You are magnificent on this big screen. | new | new |
 | 13 | Gabriel | Le public adore ton immense talent! | The audience loves your immense talent! | new | new |
 | 14 | Sofia | Merci Gabriel, tu sais me rassurer. | Thank you Gabriel, you know how to reassure me. | new | new |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'It is a very difficult experience, Gabriel.' Sofia shares the vulnerability of exposing herself.
 - 'You are magnificent on this big screen.' Gabriel reassures her of her poise and beauty.
 - 'The audience loves your immense talent!' Gabriel reminds her of the crowd's warm admiration.
-- 'Thank you Gabriel, you know how to reassure me.' Sofia appreciates her agent's sensitive encouragement.
+- 'Thank you Gabriel, you know how to reassure me.' Sofia appreciates her agent's sensitive encouragement. Now let's listen to the scene once more from start to finish.

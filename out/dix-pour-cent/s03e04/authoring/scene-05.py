@@ -43,5 +43,5 @@ WALK = [
     (9, None, "'He spoke to me about agency loyalty.' Camille explains Mathias's pointed comments about family and trust."),
     (10, None, "'It is fine, he knows nothing.' Herve tries to calm her nerves with pragmatic reassurance."),
     (11, None, "'He never beats around the bush.' Herve points out that Mathias always confronts problems directly."),
-    (12, None, "'Your father is a total paranoid!' Herve laughs off the encounter as typical senior agent paranoia."),
+    (12, None, "'Your father is a total paranoid!' Herve laughs off the encounter as typical senior agent paranoia. Now let's listen to the full conversation once more to reinforce the key phrases."),
 ]

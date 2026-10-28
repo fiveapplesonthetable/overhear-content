@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'Thank you, Valentin, that is kind to say.' Camille appreciates his support."),
     (11, None, "'Then show me where you work every day.' Valentin urges a tour."),
     (12, None, "'Okay, walk forward slowly this way.' Camille leads the way quietly."),
-    (13, None, "'There, I am following you with great pleasure.' Valentin follows her down the hallway."),
+    (13, None, "'There, I am following you with great pleasure.' Valentin follows her down the hallway. Now let's listen to the entire dialogue once more to lock in what you have learned."),
 ]

@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Andréa | Bois seulement de l'eau fraîche maintenant. | Drink only cold water now. | #562: sers-toi | verbatim |
 | 14 | José | D'accord, je vais me calmer un peu. | All right, I am going to calm down a bit. | #549: Calme-toi | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Andrea! Open the door, it is me!' Jose calls out enthusiastically from the hallway.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'You must rest for your film shoot.' Andrea reminds him that a demanding camera crew awaits tomorrow.
 - 'Can I serve myself a drink?' Jose heads toward the kitchen counter looking for refreshments.
 - 'Drink only cold water now.' Andrea insists that alcohol is out of the question tonight.
-- 'All right, I am going to calm down a bit.' Jose relents and agrees to quiet down for the night.
+- 'All right, I am going to calm down a bit.' Jose relents and agrees to quiet down for the night. Now let's listen to the complete discussion once more to reinforce the vocabulary.

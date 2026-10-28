@@ -25,19 +25,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Gabriel | N'appuie pas sur le frein et l'accélérateur. | Do not press on the brake and the accelerator. | #29: N'appuyez pas<br>#30: sur le frein et l'accélérateur en même temps ! | verbatim |
 | 14 | Norman | D'accord, je respire calmement. | All right, I am breathing calmly. | #28: Respirez bien maintenant. Voilà. | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Are we on time for the exam?' An interrogative phrase inquiring about their schedule.
-- 'We must hurry, it is far.' An impersonal expression of necessity followed by distance.
+- 'Are we on time for the exam?' Gabriel inquires about their schedule.
+- 'We must hurry, it is far.' Norman says they must hurry because the destination is far.
 - 'Do not worry, breathe deeply.' Gabriel tells Norman soothingly not to worry and to take a deep breath.
-- 'It is useless to be tense.' A colloquial idiom expressing futility.
+- 'It is useless to be tense.' Norman expresses futility.
 - 'You forgot to initial this sheet.' Gabriel points out a page of the contract that Norman forgot to initial.
 - 'Wait, here, it is good now.' Norman quickly initials the sheet and says it is all set now.
 - 'Very good, we go anyway.' Gabriel encourages Norman and leads him inside anyway.
-- 'Good luck for your driving license.' A classic wish of success specifying the driver's test.
-- 'Thank you Gabriel, I am a bit stressed.' A courteous thanks followed by an adjective of emotional state.
-- 'Do I continue straight ahead?' A standard interrogative formula asking for directional guidance.
-- 'Norman, you must shift into second gear.' An impersonal modal verb followed by an ordinal gear number.
-- 'Watch out, that is fifth gear!' An exclamatory warning pointing out a mechanical error.
-- 'Do not press on the brake and the accelerator.' A negative imperative commanding pedal coordination.
-- 'All right, I am breathing calmly.' An agreement token followed by an adverbial description of composure.
+- 'Good luck for your driving license.' Gabriel specifies the driver's test.
+- 'Thank you Gabriel, I am a bit stressed.' Norman thanks Gabriel politely and admits he feels a bit stressed.
+- 'Do I continue straight ahead?' Norman asks for directional guidance.
+- 'Norman, you must shift into second gear.' Gabriel tells Norman that he needs to shift into second gear.
+- 'Watch out, that is fifth gear!' Gabriel points out a mechanical error.
+- 'Do not press on the brake and the accelerator.' Gabriel commands pedal coordination.
+- 'All right, I am breathing calmly.' Norman agrees and says he is breathing calmly.

@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Andréa | Merci pour tout ce courage, Corinne. | Thank you for all this courage, Corinne. | #1216: Merci de ce que vous avez fait | verbatim |
 | 14 | Andréa | J'étais très fière d'être votre agent! | I was very proud to be your agent! | #1217: très fière | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'The first cut of the film is ready.' Andrea presents the work-in-progress cut.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'It is an immense honor for you!' Andrea celebrates the prestigious recognition.
 - 'Thank you for this totally incredible evening.' Corinne expresses her warmth and gratitude.
 - 'Thank you for all this courage, Corinne.' Andrea honors her composure under pressure.
-- 'I was very proud to be your agent!' Andrea closes with sincere professional pride.
+- 'I was very proud to be your agent!' Andrea closes with sincere professional pride. Now let's listen to the complete discussion once more to reinforce the vocabulary.

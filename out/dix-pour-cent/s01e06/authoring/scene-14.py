@@ -43,5 +43,5 @@ WALK = [
     (9, None, "'You told me to wait, and you did not come home.' The next morning in the apartment, Colette confronts her."),
     (10, None, "'It was strictly professional, you know that.' Andrea defends herself."),
     (11, None, "'We do what I want this evening.' Colette lays down the law."),
-    (12, None, "'We meet my friends.' She adds her firm plan. Now let's hear the whole exchange between the restaurant and the apartment once more."),
+    (12, None, "'We meet my friends.' She adds her firm plan."),
 ]

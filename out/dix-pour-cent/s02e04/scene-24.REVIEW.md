@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Mathias | Ah oui, c'est vraiment excellent. | Oh yes, that is truly excellent. | #714: Ah, c'est bien.<br>#715: C'est excellent. | verbatim |
 | 14 | Noémie | Tu avais juste besoin de repos. | You just needed some rest. | #716: C'est bien ! | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Is everything going well, Mathias?' Noemie checks on her secret lover at his private apartment.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Let me eliminate all this tension.' Noemie begins massaging his stiff shoulders to relieve his knots.
 - 'Breathe calmly and relax.' She instructs him to slow his breathing and let go of his worries.
 - 'Oh yes, that is truly excellent.' Mathias sighs with deep relief as the soothing massage takes effect.
-- 'You just needed some rest.' Noemie lovingly observes the immediate benefits of stepping away from work.
+- 'You just needed some rest.' Noemie lovingly observes the immediate benefits of stepping away from work. Now let's listen to the entire exchange once more from beginning to end.

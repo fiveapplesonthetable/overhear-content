@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Mathias | Laisse-moi au moins t'expliquer tout ça. | Let me at least explain all that to you. | #1033: Camille ? | verbatim |
 | 14 | Camille | C'est terminé entre nous, monsieur Barneville. | It is over between us, Mr. Barneville. | #1033: Camille ? | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'I brought two glasses to toast.' Mathias walks in ready to celebrate.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Do not leave like that, Camille!' Mathias panics as she grabs her coat.
 - 'I am going home immediately.' Camille steps toward the door.
 - 'Let me at least explain all that to you.' Mathias makes a final plea.
-- 'It is over between us, Mr. Barneville.' Camille uses his formal surname to mark the break.
+- 'It is over between us, Mr. Barneville.' Camille uses his formal surname to mark the break. Now let's listen to the complete discussion once more to reinforce the vocabulary.

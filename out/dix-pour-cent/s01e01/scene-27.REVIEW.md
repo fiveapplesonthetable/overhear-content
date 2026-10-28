@@ -17,17 +17,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 5 | Andréa | Tu voulais un selfie? Un autographe? | Did you want a selfie? An autograph? | #714: Un selfie<br>#714: Un autographe | verbatim |
 | 6 | Andréa | Nous avons presque perdu une grande star! | We almost lost a big star! | #716: plus grandes stars | verbatim |
 | 7 | Camille | Oui, mais Cécile est restée à l'agence. | Yes, but Cécile stayed with the agency. | #717: Ouais, mais | verbatim |
-| 8 | Camille | Non, ce n'est pas comme ça. | No, it isn | #719: pas comme ça | verbatim |
-| 9 | Camille | Je ne suis pas bavarde. | I | #720: Je ne suis pas | verbatim |
+| 8 | Camille | Non, ce n'est pas comme ça. | No, it isn't like that. | #719: pas comme ça | verbatim |
+| 9 | Camille | Je ne suis pas bavarde. | I'm not a chatterbox. | #720: Je ne suis pas | verbatim |
 | 10 | Andréa | Prends tes affaires. | Get your things. | #724: Prends tes affaires | verbatim |
 | 11 | Hervé | C'était bref, mais intense. | It was short, but intense. | #725: C'était bref, mais intense | verbatim |
-| 12 | Hervé | Mais il y a un côté positif. | But there | #726: Mais il y a un côté positif | verbatim |
-| 13 | Hervé | Tu es loin de ce business. Je le pense vraiment. | You're far from this business. I really mean it. | #727: Tu es hors de ce<br>#727: Je le pense vraiment | verbatim |
+| 12 | Hervé | Mais il y a un côté positif. | But there's a bright side. | #726: Mais il y a un côté positif | verbatim |
+| 13 | Hervé | Tu es loin de ce business. Je le pense vraiment. | I really mean it. | #727: Tu es hors de ce<br>#727: Je le pense vraiment | verbatim |
 | 14 | Hervé | Noémie, dis au revoir à Camille! | Noémie, say goodbye to Camille! | #728: dire au revoir à Camille | verbatim |
-| 15 | Camille | Ce n'est pas grave. Elle est pressée. | It doesn't matter. She's in a hurry. | #730: je suis pressée | verbatim |
+| 15 | Camille | Ce n'est pas grave. Elle est pressée. | She's in a hurry. | #730: je suis pressée | verbatim |
 | 16 | Camille | Bon, au revoir. | Well, goodbye. | #733: Bon, au revoir | verbatim |
 | 17 | Hervé | Au revoir, Camille. Bon courage! | Goodbye, Camille. Good luck! | new | new |
-| 18 | Camille | Je suis sûre qu'on se reverra. | I | #734: Je suis sûre qu'on se reverra | verbatim |
+| 18 | Camille | Je suis sûre qu'on se reverra. | I'm sure we'll see each other again. | #734: Je suis sûre qu'on se reverra | verbatim |
+
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -49,5 +51,5 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'It doesn't matter.' Literally 'it isn't serious', with the same two negative words around the verb. It's what French people say all day long when something is no big deal.
 - 'She's in a hurry.' One more feminine ending: Noémie is a woman, so the adjective takes the extra letter. Camille picks up her bag.
 - 'Well, goodbye.' The first word is a little sigh that means 'right then'. Hervé answers warmly.
-- 'Goodbye, Camille. Good luck!' The second phrase literally means 'good courage', and it's how you wish someone strength for something hard. And Camille leaves on a hopeful note.
+- 'Goodbye, Camille. Good luck!' This second phrase literally means 'good courage', and it's how you wish someone strength for something hard. And Camille leaves on a hopeful note.
 - 'I'm sure we'll see each other again.' The word for 'sure' is in the feminine again. She doesn't know it yet, but she's right. Now listen to the whole scene once more, and see how much of it you can follow.

@@ -16,7 +16,7 @@ TRANSITION = "Now let's listen to the embarrassing conversation once more at nor
 OUTRO = "Gabriel's clumsy slip of the tongue leaves Élisabeth stunned by Julien Doré's wild imagination. Listen to the hilarious conversation once more in French. See you next time!"
 CLOSING = ('elisabeth', 'Bonne journée!')
 STORY = [
-    ('elisabeth', "J'adore vraiment le nouveau scénario de Julien Doré.", 'I really love Julien Doré', [(507, "j'adore le projet de Julien Doré.")], ''),
+    ('elisabeth', "J'adore vraiment le nouveau scénario de Julien Doré.", "I really love Julien Doré's new screenplay.", [(507, "j'adore le projet de Julien Doré.")], ''),
     ('gabriel', "C'est un projet très original et ambitieux.", 'It is a very original and ambitious project.', [(508, "C'est fantastique."), (515, "C'est bien au-dessus.")], ''),
     ('elisabeth', 'Je trouve son écriture particulièrement mature.', 'I find his writing particularly mature.', [(515, 'ça montre une vraie maturité...'), (516, "C'est très mature.")], ''),
     ('gabriel', 'Oui, mais ce film pousse les limites assez loin.', 'Yes, but this movie pushes the boundaries quite far.', [(518, 'Ce film pousse les limites assez loin.')], ''),
@@ -24,7 +24,7 @@ STORY = [
     ('gabriel', "Il n'y a rien de trop explicite dans le texte.", 'There is nothing too explicit in the text.', [(521, "Il n'y a rien d'explicite là-dedans.")], ''),
     ('gabriel', 'Sauf peut-être cette scène près du lac.', 'Except maybe that scene near the lake.', [(523, 'Cette scène où il...'), (538, 'près du lac...')], ''),
     ('elisabeth', 'De quelle scène parlez-vous exactement?', 'Which scene are you talking about exactly?', [(526, 'Non, je ne vous suis pas.'), (536, "C'est quoi alors, cette scène ?")], ''),
-    ('gabriel', "La scène où la femme coupe le machin de l'homme.", 'The scene where the woman cuts off the man', [(525, 'La scène où elle lui coupe... son machin.')], ''),
+    ('gabriel', "La scène où la femme coupe le machin de l'homme.", "The scene where the woman cuts off the man's thing.", [(525, 'La scène où elle lui coupe... son machin.')], ''),
     ('elisabeth', "Je n'ai jamais lu cette séquence dans mon dossier!", 'I never read this sequence in my file!', [(526, 'Non, je ne vous suis pas.'), (529, "On n'a peut-être pas eu la même version")], ''),
     ('gabriel', "Pardon, je crois que j'ai fait une grosse gaffe.", 'Sorry, I think that I made a big blunder.', [(531, "Pardon, j'ai fait une gaffe.")], ''),
     ('elisabeth', 'Avez-vous envoyé une version édulcorée au comité?', 'Did you send a toned-down version to the committee?', [(532, "J'espère qu'il ne fait pas partie de ces auteurs"), (533, 'qui nous envoient une version édulcorée')], ''),
@@ -49,5 +49,5 @@ WALK = [
     (12, None, "'No, not at all, it was just a first draft.' Gabriel scrambles to minimize the slip."),
     (13, None, "'Tell me the end of this scene anyway.' Élisabeth demands full transparency."),
     (14, None, "'She cooks the piece on a barbecue.' Gabriel confesses the absurd climax sheepishly."),
-    (15, None, "'Gabriel, your client is completely crazy!' Élisabeth concludes in disbelief."),
+    (15, None, "'Gabriel, your client is completely crazy!' Élisabeth concludes in disbelief. Now let's listen to the embarrassing conversation once more at normal pace."),
 ]

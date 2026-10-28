@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Franck | Je crois que tu te trompes. | I think you are mistaken. | #827: Je crois que tu te trompes | verbatim |
 | 14 | Franck | C'était son orthophoniste, pas un dealer. | It was his speech therapist, not a dealer. | #828: C'était son orthophoniste | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Dylan! Wait a second, please.' Gabriel tries to stop the young actor before he walks away.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Go ahead, do what you want!' Dylan dismisses Gabriel and dares him to carry out his threat.
 - 'What an idiot, I cannot believe it!' Gabriel vents his irritation once Dylan turns his back.
 - 'I think you are mistaken.' Franck Dubosc steps in to correct Gabriel's hasty conclusion.
-- 'It was his speech therapist, not a dealer.' Franck clarifies the true identity of the man Dylan met.
+- 'It was his speech therapist, not a dealer.' Franck clarifies the true identity of the man Dylan met. Now let's listen to the complete discussion once more to reinforce the vocabulary.

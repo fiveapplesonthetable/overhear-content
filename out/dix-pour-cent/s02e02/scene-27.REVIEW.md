@@ -10,7 +10,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Mathias | Vous êtes sur la messagerie de Mathias. | You have reached Mathias | #896: Bonjour, vous êtes sur la messagerie de Mathias Barneville. | verbatim |
+| 1 | Mathias | Vous êtes sur la messagerie de Mathias. | You have reached Mathias's voicemail. | #896: Bonjour, vous êtes sur la messagerie de Mathias Barneville. | verbatim |
 | 2 | Mathias | Laissez un message après le bip. | Leave a message after the beep. | #897: Laissez un message et je vous rappellerai. | verbatim |
 | 3 | Andréa | Mathias ne répond toujours pas. | Mathias is still not answering. | #898: tu as vu Mathias ? | verbatim |
 | 4 | Andréa | Bonjour, Hicham. Je suis désolée. | Hello, Hicham. I am sorry. | #902: Bonjour.<br>#903: Désolée pour hier soir. | verbatim |
@@ -28,22 +28,23 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 16 | Hicham | Je suis l'actionnaire majoritaire. | I am the majority shareholder. | #918: Je suis actionnaire majoritaire. | verbatim |
 | 17 | Hicham | Laisse ton ordinateur et tes dossiers. | Leave your computer and your files. | #920: Laisse tout ce qui appartient<br>#921: ordinateur, clients... tout. | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You have reached Mathias's voicemail.' A standard French greeting on an answering machine.
+- 'You have reached Mathias's voicemail.' Mathias's phone plays a standard French voicemail greeting.
 - 'Leave a message after the beep.' Mathias's voicemail greeting instructs callers to leave a message after the beep.
 - 'Mathias is still not answering.' Andréa sighs in frustration that Mathias is still not picking up his phone.
-- 'Hello, Hicham. I am sorry.' A polite opening apology addressed to her boss.
+- 'Hello, Hicham. I am sorry.' Andréa begins with a polite apology to her boss.
 - 'Last night, the situation was difficult.' Andréa explains that the situation with Fabrice Luchini was difficult the night before.
-- 'The honeymoon is over.' A metaphor announcing the end of good relations.
+- 'The honeymoon is over.' Hicham announces the end of good relations.
 - 'Take your things and go away.' Hicham snaps and orders Andréa to pack her things and get out.
-- 'Stop it, Hicham, be reasonable.' An imperative followed by the subjunctive form of etre.
+- 'Stop it, Hicham, be reasonable.' Andréa urges Hicham to stop and be reasonable.
 - 'There are limits here.' Hicham warns the partners that there are limits to what he will tolerate here.
-- 'We are not animals.' A formal first-person plural negative statement.
-- 'What more do you want?' An idiomatic question with de plus meaning further.
+- 'We are not animals.' Hicham dryly reminds her that they are not animals.
+- 'What more do you want?' Andréa asks indignantly what more he could possibly want.
 - 'Go home now.' Furious at her rebellion, Hicham orders Andréa to go home at once.
 - 'You cannot fire me!' Andréa shoots back that he cannot fire a founding partner of the agency.
 - 'And why not?' Hicham challenges her to say why he cannot dismiss her.
-- 'I am a partner in the agency.' The feminine noun associee referring to her partnership status.
+- 'I am a partner in the agency.' Andréa refers to her partnership status.
 - 'I am the majority shareholder.' Hicham reminds her that he owns the majority of ASK's shares.
-- 'Leave your computer and your files.' An imperative followed by possessive determiners.
+- 'Leave your computer and your files.' Hicham orders him to leave his computer and files behind.

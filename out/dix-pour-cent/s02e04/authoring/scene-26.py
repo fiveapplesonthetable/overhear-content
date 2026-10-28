@@ -47,5 +47,5 @@ WALK = [
     (11, None, "'Of course, we respect your approach.' Gabriel readily agrees to give Julien full artistic leeway."),
     (12, None, "'Without total freedom, art is useless.' Julien compares making art under constraint to windsurfing without wind."),
     (13, None, "'Very well, do as you wish, Julien.' Gabriel gracefully steps back to let the director lead."),
-    (14, None, "'Sofia is your actress for this film.' Gabriel places his full trust in Julien's creative vision."),
+    (14, None, "'Sofia is your actress for this film.' Gabriel places his full trust in Julien's creative vision. Now let's listen to the scene once more from start to finish."),
 ]

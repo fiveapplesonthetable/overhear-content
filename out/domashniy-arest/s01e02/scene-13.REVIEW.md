@@ -10,23 +10,23 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Самсон | Николай Филиппович, приветствую. Не помешал? | Nikolai Filippovich, greetings. Am I interrupting? | #354 00:23:05: Николай Филиппович, приветствую<br>#355 00:23:10: Не помешал | adapted: two cues joined |
-| 2 | Николай Филиппович | Помешал. Уходи. | You are. Go away. | #356 00:23:12: Помешал | adapted: 'Вали отсюда' (get lost) -> 'Уходи' |
-| 3 | Самсон | Ну что ты, Филиппович. Я же извинился. | Oh, come on, Filippovich. I said sorry, didn't I? | #358 00:23:16: Филиппович, ну что ты<br>#359 00:23:18: Я же извинился | adapted: cue 358 reordered; 'Ладно' dropped |
-| 4 | Николай Филиппович | А я тебя уже простил. Ты уволен. | And I've already forgiven you. You're fired. | #361 00:23:22: Ты уволен | adapted: cue 360 ('А я тебе уже извинил', mistranscribed) -> 'А я тебя уже простил'; 'с обслуном' dropped |
-| 5 | Самсон | Филиппович! Ну как же так? | Filippovich! How can you? | #362 00:23:26: Филиппович | adapted: 'Ну как же так?' new |
+| 1 | Самсон | Николай Филиппович, приветствую. Не помешал? | Nikolai Filippovich, greetings. Am I interrupting? | #354: Николай Филиппович, приветствую<br>#355: Не помешал | adapted: two cues joined |
+| 2 | Николай Филиппович | Помешал. Уходи. | You are. Go away. | #356: Помешал | adapted: 'Вали отсюда' (get lost) -> 'Уходи' |
+| 3 | Самсон | Ну что ты, Филиппович. Я же извинился. | Oh, come on, Filippovich. I said sorry, didn't I? | #358: Филиппович, ну что ты<br>#359: Я же извинился | adapted: cue 358 reordered; 'Ладно' dropped |
+| 4 | Николай Филиппович | А я тебя уже простил. Ты уволен. | And I've already forgiven you. You're fired. | #361: Ты уволен | adapted: cue 360 ('А я тебе уже извинил', mistranscribed) -> 'А я тебя уже простил'; 'с обслуном' dropped |
+| 5 | Самсон | Филиппович! Ну как же так? | Filippovich! How can you? | #362: Филиппович | adapted: 'Ну как же так?' new |
 | 6 | Николай Филиппович | Ты назвал меня плохим словом. Меня, начальника! | You called me a bad word. Me, your boss! | new | new: new: a clean retelling of cues 364-366 (an operator calling his boss a crude name) |
-| 7 | Самсон | Ну что, забыли? | So, shall we forget it? | #367 00:23:42: что, забыли | adapted: 'Филипп' dropped |
-| 8 | Николай Филиппович | Как я могу это забыть? Ну, давай попробуем. | How can I forget that? Well, let's try. | #369 00:23:49: Как я могу это забыть<br>#370 00:23:52: давай попробуем | adapted: 'хотя' dropped; 'ты идиот' (368) left out |
-| 9 | Самсон | Давай. Забываем! | Go on. We're forgetting! | #371 00:23:53: Давай<br>#372 00:23:57: забываем | adapted: 'Поехали' dropped |
-| 10 | Николай Филиппович | Не получается у меня это забыть. Удачи тебе на новом месте работы. | No, I just can't forget it. Good luck to you in your new job. | #374 00:24:02: не получается у меня это забыть<br>#376 00:24:07: удачи тебе<br>#377 00:24:08: на новом месте работы | adapted: 'Так что' dropped; cue 375 left out |
-| 11 | Прораб | Филиппыч, миксер проехать не может. Радиаторы мешают. | Filippych, the mixer truck can't get through. The radiators are in the way. | #379 00:24:11: Филиппыч, миксер проехать не может<br>#380 00:24:14: Радиаторы мешают | verbatim |
-| 12 | Николай Филиппович | Ну и в чём проблема? Возьмите их сами и перенесите. | So what's the problem? Pick them up yourselves and move them. | #381 00:24:15: Ну и в чем проблема<br>#382 00:24:17: Возьмите их сами и | adapted: 'перетащите' (drag over) -> 'перенесите' |
-| 13 | Прораб | Нет никого. Всех забрала полиция. | There's nobody. The police have taken everyone. | #383 00:24:19: Нет никого<br>#385 00:24:24: Полиция | adapted: simplified from cues 384-386 (all the best men taken by the police for a document check) |
-| 14 | Николай Филиппович | Ну где я сейчас найду грузчиков? | Well, where am I going to find movers right now? | #389 00:24:30: сейчас найду грузчиков | adapted: 'тебе' dropped |
-| 15 | Самсон | Ну я. Ничего, я могу. | Well, me. It's fine, I can do it. | #390 00:24:34: Ну я<br>#392 00:24:36: Ничего, я могу | adapted: two cues joined |
-| 16 | Николай Филиппович | Самсонов, ты видел эти радиаторы? | Samsonov, have you seen those radiators? | #393 00:24:37: Самсонов, ты видел эти радиаторы | verbatim |
-| 17 | Самсон | Да я три года грузчиком работал. Тут дел на пятнадцать минут. | Oh, I worked as a mover for three years. This is fifteen minutes' work. | #396 00:24:44: Да я три года грузчиком работал<br>#397 00:24:45: минут | adapted: cue 397 'делов-то на 15' -> 'дел на пятнадцать' |
+| 7 | Самсон | Ну что, забыли? | So, shall we forget it? | #367: что, забыли | adapted: 'Филипп' dropped |
+| 8 | Николай Филиппович | Как я могу это забыть? Ну, давай попробуем. | How can I forget that? Well, let's try. | #369: Как я могу это забыть<br>#370: давай попробуем | adapted: 'хотя' dropped; 'ты идиот' (368) left out |
+| 9 | Самсон | Давай. Забываем! | Go on. We're forgetting! | #371: Давай<br>#372: забываем | adapted: 'Поехали' dropped |
+| 10 | Николай Филиппович | Не получается у меня это забыть. Удачи тебе на новом месте работы. | No, I just can't forget it. Good luck to you in your new job. | #374: не получается у меня это забыть<br>#376: удачи тебе<br>#377: на новом месте работы | adapted: 'Так что' dropped; cue 375 left out |
+| 11 | Прораб | Филиппыч, миксер проехать не может. Радиаторы мешают. | Filippych, the mixer truck can't get through. The radiators are in the way. | #379: Филиппыч, миксер проехать не может<br>#380: Радиаторы мешают | verbatim |
+| 12 | Николай Филиппович | Ну и в чём проблема? Возьмите их сами и перенесите. | So what's the problem? Pick them up yourselves and move them. | #381: Ну и в чем проблема<br>#382: Возьмите их сами и | adapted: 'перетащите' (drag over) -> 'перенесите' |
+| 13 | Прораб | Нет никого. Всех забрала полиция. | There's nobody. The police have taken everyone. | #383: Нет никого<br>#385: Полиция | adapted: simplified from cues 384-386 (all the best men taken by the police for a document check) |
+| 14 | Николай Филиппович | Ну где я сейчас найду грузчиков? | Well, where am I going to find movers right now? | #389: сейчас найду грузчиков | adapted: 'тебе' dropped |
+| 15 | Самсон | Ну я. Ничего, я могу. | Well, me. It's fine, I can do it. | #390: Ну я<br>#392: Ничего, я могу | adapted: two cues joined |
+| 16 | Николай Филиппович | Самсонов, ты видел эти радиаторы? | Samsonov, have you seen those radiators? | #393: Самсонов, ты видел эти радиаторы | verbatim |
+| 17 | Самсон | Да я три года грузчиком работал. Тут дел на пятнадцать минут. | Oh, I worked as a mover for three years. This is fifteen minutes' work. | #396: Да я три года грузчиком работал<br>#397: минут | adapted: cue 397 'делов-то на 15' -> 'дел на пятнадцать' |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -52,4 +52,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Well, me. It's fine, I can do it.' The word for 'nothing' here means 'no problem'. The boss can hardly believe it.
 - 'Samsonov, have you seen those radiators?' Here, Samsonov is Samson's real surname; the boss uses it like a sergeant. Samson isn't worried at all.
 - 'Oh, I worked as a mover for three years.' The job, 'mover', is in the 'with/as' form after 'worked': you work 'as' something. Then a promise.
-- 'This is fifteen minutes' work.' Literally, 'here there's work for fifteen minutes'.
+- 'This is a fifteen-minute job.' Literally, 'here there's work for fifteen minutes'.

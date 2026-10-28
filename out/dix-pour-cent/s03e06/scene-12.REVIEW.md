@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Camille | Oui, un regard silencieux sera beaucoup plus fort. | Yes, a silent gaze will be much stronger. | #613: Un fantôme, ça apparaît, c'est tout. | verbatim |
 | 14 | Isabelle | Parfait, je peux enfin jouer ce rôle. | Perfect, I can finally play this role. | #615: Et peut-être que comme ça, Isabelle, elle pourra un petit peu s'épanouir | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'This spectral pallor is really magnificent.' The director praises the ghost aesthetic.
@@ -38,6 +39,6 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'This text is perfect, I wrote it!' The director indignantly defends his authorship.
 - 'She is right, the words do not flow.' Isabelle agrees that the phrasing feels awkward.
 - 'A ghost never speaks in the story.' Camille suggests an elegant atmospheric solution.
-- 'You want to delete all the lines?' The director is taken aback by cutting dialogue.
+- 'You want to delete all the lines?' The filmmaker cuts dialogue.
 - 'Yes, a silent gaze will be much stronger.' Camille makes a persuasive artistic case.
-- 'Perfect, I can finally play this role.' Isabelle gladly welcomes a silent performance.
+- 'Perfect, I can finally play this role.' Isabelle gladly welcomes a silent performance. Now let's listen to the complete discussion once more to reinforce the vocabulary.

@@ -17,7 +17,7 @@ OUTRO = 'Catherine has drawn the line after years of betrayals and demands a div
 CLOSING = ('catherine', 'À demain!')
 STORY = [
     ('catherine', 'Quelle heure est-il?', 'What time is it?', [(727, 'Quelle heure est-il ?')], ''),
-    ('mathias', 'Neuf heures pile, comme convenu.', 'Nine o', [(728, '9 heures pile, comme convenu.')], ''),
+    ('mathias', 'Neuf heures pile, comme convenu.', "Nine o'clock sharp, as agreed.", [(728, '9 heures pile, comme convenu.')], ''),
     ('mathias', 'Je peux avoir un café?', 'Can I have a coffee?', [(730, 'Je peux avoir un café ?')], ''),
     ('catherine', "Il n'en reste plus.", 'There is none left.', [(731, "Il n'en reste plus.")], ''),
     ('mathias', 'Ça va?', 'Are you okay?', [(732, 'Ça va ?')], ''),
@@ -32,7 +32,7 @@ STORY = [
     ('mathias', "Elle a rompu avec Ramzy, c'est tout.", 'She broke up with Ramzy, that is all.', [(756, 'Elle a rompu avec Ramzy')], ''),
     ('catherine', 'Tu vois, je ne te crois plus.', 'You see, I do not believe you anymore.', [(757, "Tu vois, c'est ça le problème. Je ne te crois plus.")], ''),
     ('mathias', "C'est la vérité, Catherine.", 'It is the truth, Catherine.', [(758, "C'est la vérité, Catherine.")], ''),
-    ('catherine', "Je n'en peux plus. On divorce.", 'I cannot take it anymore. We are getting a divorce.', [(761, "Je n'en peux plus."), (762, 'On divorce.')], ''),
+    ('catherine', "Je n'en peux plus. On divorce.", 'We are getting a divorce.', [(761, "Je n'en peux plus."), (762, 'On divorce.')], ''),
 ]
 WALK = [
     (0, None, "'What time is it?' Catherine checks the time as Mathias arrives to pack his things."),
@@ -52,5 +52,5 @@ WALK = [
     (14, None, "'You see, I do not believe you anymore.' Catherine tells him sadly that she simply does not believe him anymore."),
     (15, None, "'It is the truth, Catherine.' Mathias pleads his honesty."),
     (16, "Je n'en peux plus.", "'I cannot take it anymore.' Catherine admits she has reached her limit after years of lies."),
-    (16, 'On divorce.', "'We are getting a divorce.' Catherine quietly delivers her final decision to end their marriage. Now let's listen to the whole discussion again without stopping."),
+    (16, 'On divorce.', "'We are getting a divorce.' Catherine quietly delivers her final decision to end their marriage."),
 ]

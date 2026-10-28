@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Camille | Nous devons garder le secret. | We must keep the secret. | #1313: je suis en veille | verbatim |
 | 14 | Hervé | Cette agence est complètement folle! | This agency is completely crazy! | #1313: je suis en veille | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Herve, I must confess everything.' Camille prepares to reveal the agency secret.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'He had confidence in us.' Camille interprets Mathias's actions as a sign of trust.
 - 'Everything makes sense now.' Herve finally understands the strange clues.
 - 'We must keep the secret.' Camille urges discretion between the two assistants.
-- 'This agency is completely crazy!' Herve marvels at the daily drama of ASK.
+- 'This agency is completely crazy!' Herve marvels at the daily drama of ASK. Now let's listen to the complete discussion once more to reinforce the vocabulary.

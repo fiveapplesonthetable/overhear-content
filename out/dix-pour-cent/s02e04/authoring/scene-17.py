@@ -23,7 +23,7 @@ STORY = [
     ('benoit', 'Oui, je passe un entretien.', 'Yes, I am having an interview.', [(457, "Oui, mais ils n'en avaient pas parlé")], ''),
     ('noemie', "C'est pour travailler avec Gérard Depardieu.", 'It is to work with Gérard Depardieu.', [(454, 'exclusivement avec Depardieu')], ''),
     ('benoit', 'Avec Depardieu? Il est difficile?', 'With Depardieu? Is he difficult?', [(455, 'Pardon'), (458, 'Apparemment, il est difficile')], ''),
-    ('noemie', "Disons qu'il est très entier.", 'Let', [(459, "Disons qu'il est entier")], ''),
+    ('noemie', "Disons qu'il est très entier.", "Let's say he is quite extreme.", [(459, "Disons qu'il est entier")], ''),
     ('noemie', 'Tu as une bonne mutuelle santé?', 'Do you have good health insurance?', [(460, 'Vous avez une mutuelle')], ''),
     ('benoit', 'Une mutuelle normale. Pourquoi?', 'Standard insurance. Why?', [(461, 'La normale'), (462, 'Pourquoi')], ''),
     ('noemie', 'En cas de fractures du dos.', 'In case of back fractures.', [(463, 'En cas de fractures, de problèmes de dos')], ''),
@@ -49,5 +49,5 @@ WALK = [
     (12, None, "'Have you ever been to Russia?' She asks about international travel."),
     (13, None, "'No, I have never been there.' Benoît admits his lack of experience."),
     (14, None, "'Over there, they play Russian roulette.' She spins a terrifying tale."),
-    (15, None, "'I think that I will leave.' Benoît decides to flee the agency."),
+    (15, None, "'I think that I will leave.' Benoît decides to flee the agency. Now let's listen to Noémie's wild warnings once more at normal speed."),
 ]

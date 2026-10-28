@@ -25,19 +25,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Gabriel | Tu as tout à fait raison, excuse-moi. | You are completely right, excuse me. | #68: Non, non, | verbatim |
 | 14 | Andréa | Restons concentrés sur notre travail à l'agence. | Let us stay focused on our work at the agency. | #68: j'ai un besoin d'un martel. | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I still cannot get over it, Andrea.' An idiomatic negative expression registering ongoing amazement.
-- 'You cannot get over what?' A colloquial interrogative clause asking for clarification.
+- 'I still cannot get over it, Andrea.' Gabriel registers ongoing amazement.
+- 'You cannot get over what?' Andréa asks for clarification.
 - 'That you will soon be a mom!' Gabriel marvels that Andréa of all people is about to become a mother.
 - 'Me neither, it is a big surprise.' Andréa admits she cannot quite believe it either—it was a total surprise.
-- 'Can I ask you a quick question?' A courteous modal inquiry requesting permission to ask.
+- 'Can I ask you a quick question?' Gabriel requests permission to ask.
 - 'Yes, tell me what you want to know.' Andréa invites Gabriel to go ahead and ask whatever he wants to know.
-- 'A friend would also like to have a child.' A conditional desire formula framing an inquiry on behalf of a peer.
-- 'And she is looking for practical advice?' An intuitive follow-up question clarifying the friend's request.
-- 'Did you use an anonymous donor?' An inverted past interrogative raising personal conception details.
-- 'That is a particularly indiscreet question, Gabriel!' An intensified adjective rebuking conversational boundary crossing.
-- 'Sorry, I simply wanted to do a favor.' An apologetic explanation pleading good intentions.
-- 'My private life concerns nobody else.' A definitive privacy boundary asserting personal autonomy.
-- 'You are completely right, excuse me.' An agreeable concession offering sincere apology.
-- 'Let us stay focused on our work at the agency.' A collective imperative refocusing attention on professional duties.
+- 'A friend would also like to have a child.' Gabriel frames an inquiry on behalf of a peer.
+- 'And she is looking for practical advice?' Andréa clarifies the friend's request.
+- 'Did you use an anonymous donor?' Gabriel raises personal conception details.
+- 'That is a particularly indiscreet question, Gabriel!' Andréa rebukes conversational boundary crossing.
+- 'Sorry, I simply wanted to do a favor.' Gabriel pleads good intentions.
+- 'My private life concerns nobody else.' Andréa asserts personal autonomy.
+- 'You are completely right, excuse me.' Gabriel offers sincere apology.
+- 'Let us stay focused on our work at the agency.' Andréa refocuses attention on professional duties. Now let's listen to Gabriel and Andrea again at full speed.

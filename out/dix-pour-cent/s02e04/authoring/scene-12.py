@@ -28,7 +28,7 @@ STORY = [
     ('gabriel', 'Et pourquoi parler très fort?', 'And why speak very loudly?', [(347, 'parler très fort')], ''),
     ('noemie', "Parce qu'elle est sourde.", 'Because she is deaf.', [(348, "parce qu'elle est sourde.")], ''),
     ('gabriel', "Mais Arlette n'est pas sourde du tout!", 'But Arlette is not deaf at all!', [(348, 'elle est sourde.')], ''),
-    ('eugenie', 'Bonjour, madame!', 'Hello, ma', [(349, 'Bonjour, madame !')], ''),
+    ('eugenie', 'Bonjour, madame!', "Hello, ma'am!", [(349, 'Bonjour, madame !')], ''),
     ('eugenie', 'Tellement heureuse de vous rencontrer!', 'So happy to meet you!', [(350, 'Tellement heureuse de vous rencontrer !')], ''),
     ('eugenie', 'Travailler à vos côtés est un rêve pour tout jeune agent!', 'Working alongside you is a dream for any young agent!', [(351, 'Travailler à vos côtés'), (352, 'est un rêve pour tout jeune agent !')], ''),
     ('noemie', 'Voilà, sa carrière chez ASK commence très bien.', 'There, her career at ASK is off to a great start.', [(344, 'ici')], ''),
@@ -49,5 +49,5 @@ WALK = [
     (12, None, "'Hello, ma'am!' Eugenie shouts enthusiastically across the reception area."),
     (13, None, "'So happy to meet you!' Eugenie bellows her eager admiration."),
     (14, None, "'Working alongside you is a dream for any young agent!' Eugenie yells her flattery loudly."),
-    (15, None, "'There, her career at ASK is off to a great start.' Noemie watches the unfolding chaos with satisfaction."),
+    (15, None, "'There, her career at ASK is off to a great start.' Noemie watches the unfolding chaos with satisfaction. Now let's listen to the entire dialogue once more to lock in what you have learned."),
 ]

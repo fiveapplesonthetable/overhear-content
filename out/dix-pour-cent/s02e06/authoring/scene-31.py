@@ -17,8 +17,8 @@ OUTRO = 'As Andréa shares her life-changing secret with Gabriel, Hicham reveals
 CLOSING = ('gabriel', 'Bonne journée!')
 STORY = [
     ('andrea', 'Gabriel, je suis enceinte.', 'Gabriel, I am pregnant.', [(883, 'Je suis enceinte')], ''),
-    ('andrea', "C'est le bébé de Hicham.", 'It is Hicham', [(884, 'De Hicham')], ''),
-    ('andrea', 'Et je ne sais pas quoi faire.', 'And I don', [(885, 'Et je sais pas quoi faire')], ''),
+    ('andrea', "C'est le bébé de Hicham.", "It is Hicham's baby.", [(884, 'De Hicham')], ''),
+    ('andrea', 'Et je ne sais pas quoi faire.', "And I don't know what to do.", [(885, 'Et je sais pas quoi faire')], ''),
     ('gabriel', "C'est le truc dingue avec toi.", 'That is the crazy thing about you.', [(886, "C'est ça le truc dingue avec toi")], ''),
     ('gabriel', 'Tu as toujours un truc en plus.', 'You always have something extra.', [(887, "T'as toujours ce petit quelque chose en plus")], ''),
     ('gabriel', 'Tu es ma meilleure amie, Andréa.', 'You are my best friend, Andréa.', [(890, 'Tu es mon amie')], ''),
@@ -47,5 +47,5 @@ WALK = [
     (11, None, "'We make a real team now.' Andrea embraces their collective strength heading into the future."),
     (12, None, "'So, everyone into the pool!' Hicham playfully calls for a celebratory midnight plunge."),
     (13, None, "'We always stick together, right?' Gabriel reminds everyone of their shared solidarity."),
-    (14, None, "'Yes, we are always staying together!' Andrea seals the family pact as they leap into the water."),
+    (14, None, "'Yes, we are always staying together!' Andrea seals the family pact as they leap into the water. Now listen to the whole scene again at normal speed, and see how much more you catch."),
 ]

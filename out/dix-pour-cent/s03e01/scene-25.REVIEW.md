@@ -25,19 +25,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Andréa | Bonne chance pour la suite, Jean. | Good luck for what comes next, Jean. | new | new |
 | 14 | Jean | Merci pour tout, Andréa! | Thank you for everything, Andrea! | new | new |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Here is your warm coat to go outside, Jean.' A considerate offer presenting his winter coat.
-- 'No thank you, not the coat today.' A polite negative response declining the warm garment.
-- 'But it is very cold outside!' An emphatic weather observation with the impersonal il fait.
-- 'I need to feel the fresh air.' An expression of physical need using avoir besoin de.
-- 'Do you still want to stay in your role?' A gentle question probing his psychological state.
-- 'No, I want to finally become myself again.' A determined statement expressing recovery of self.
-- 'Take the time to rest, Jean.' A caring imperative advising personal recovery.
-- 'Yes, I am going to turn off my phone.' A near-future commitment to take disconnected rest.
-- 'That is a very good idea for you.' An encouraging evaluation supporting his decision.
-- 'Are we seeing each other soon at the agency?' A reciprocal pronominal question about their next meeting.
-- 'Yes, we have this big meeting.' A factual statement mentioning the upcoming staff meeting.
-- 'Then I leave you with the team.' A polite departure formula taking leave of Andrea.
-- 'Good luck for what comes next, Jean.' A cordial wish offering encouragement for the future.
-- 'Thank you for everything, Andrea!' A grateful parting exclamation thanking his loyal agent.
+- 'Here is your warm coat to go outside, Jean.' Andréa presents his winter coat.
+- 'No thank you, not the coat today.' Jean declines the warm garment.
+- 'But it is very cold outside!' Andréa points out how cold it is outside with 'il fait'.
+- 'I need to feel the fresh air.' Jean uses avoir besoin de.
+- 'Do you still want to stay in your role?' Andréa probes his psychological state.
+- 'No, I want to finally become myself again.' Jean expresses recovery of self.
+- 'Take the time to rest, Jean.' Andréa advises personal recovery.
+- 'Yes, I am going to turn off my phone.' Jean promises to turn off his phone and rest.
+- 'That is a very good idea for you.' Andréa supports his decision.
+- 'Are we seeing each other soon at the agency?' Jean asks when they will see each other again at the agency.
+- 'Yes, we have this big meeting.' Andréa mentions the upcoming staff meeting.
+- 'Then I leave you with the team.' Jean takes leave of Andrea.
+- 'Good luck for what comes next, Jean.' Andréa offers encouragement for the future.
+- 'Thank you for everything, Andrea!' Jean thanks his loyal agent warmly as they part.

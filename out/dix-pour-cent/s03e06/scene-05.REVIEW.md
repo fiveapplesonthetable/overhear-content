@@ -10,8 +10,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Camille | Fille de traître, voilà ce qu'il pense. | Traitor | #343: Fille de traître, c'est ça qu'il aurait dû écrire. | verbatim |
-| 2 | Noémie | Il faut parfois se salir les mains. | One must sometimes get one | #345: faut savoir se salir les mains | verbatim |
+| 1 | Camille | Fille de traître, voilà ce qu'il pense. | Traitor's daughter, that is what he thinks. | #343: Fille de traître, c'est ça qu'il aurait dû écrire. | verbatim |
+| 2 | Noémie | Il faut parfois se salir les mains. | One must sometimes get one's hands dirty. | #345: faut savoir se salir les mains | verbatim |
 | 3 | Hervé | Tu es pathétique à le défendre ainsi! | You are pathetic defending him like that! | #348: Tu sais que tu deviens pathétique | verbatim |
 | 4 | Noémie | Et vous avec vos petites manigances? | And what about you with your little schemes? | #349: avec vos petites bidouilles. | verbatim |
 | 5 | Noémie | On a tous un cadavre dans le placard! | We all have a skeleton in the closet! | #350: un petit cadavre dans le placard | verbatim |
@@ -21,8 +21,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 9 | Hervé | Il n'y a plus rien à dire. | There is nothing left to say. | #358: il y a plus rien à dire. | verbatim |
 | 10 | Hervé | C'est à moi de tout ranger ici. | It is up to me to tidy up everything here. | #360: C'est à moi de m'en occuper. | verbatim |
 | 11 | Camille | Attends Hervé, nous allons t'aider. | Wait Herve, we are going to help you. | #362: On va t'aider. | verbatim |
-| 12 | Noémie | Oui, préparons cette soirée ensemble. | Yes, let | #359: Allez-y, les filles. | verbatim |
-| 13 | Hervé | Merci les filles, rangeons ces dossiers. | Thank you ladies, let | #362: On va t'aider. | verbatim |
+| 12 | Noémie | Oui, préparons cette soirée ensemble. | Yes, let's prepare this evening together. | #359: Allez-y, les filles. | verbatim |
+| 13 | Hervé | Merci les filles, rangeons ces dossiers. | Thank you ladies, let's put away these files. | #362: On va t'aider. | verbatim |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -38,4 +39,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'It is up to me to tidy up everything here.' Herve prepares to clean the messy offices alone.
 - 'Wait Herve, we are going to help you.' Camille refuses to let her friend clean in isolation.
 - 'Yes, let's prepare this evening together.' Noemie joins in solidarity before the arrival of guests.
-- 'Thank you ladies, let's put away these files.' Herve accepts their help with genuine relief.
+- 'Thank you ladies, let's put away these files.' Herve accepts their help with genuine relief. Now let's listen to the assistants' reconciliation once more from start to finish.

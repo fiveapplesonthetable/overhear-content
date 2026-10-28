@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Gabriel | C'est une réaction trop impulsive, attends! | That is too impulsive a reaction, wait! | #937: quitter la cérémonie | verbatim |
 | 14 | Sofia | Je refuse de rester assise ici! | I refuse to sit here! | #938: Je n'ai pas gagné, alors | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Our seats are there, in the middle.' Gabriel directs Sophia to their assigned spots.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Sophia, stay seated, do not leave!' Gabriel urgently attempts to avoid a scandal.
 - 'I did not win, I am leaving.' Sophia refuses to witness the winner's victory speech.
 - 'That is too impulsive a reaction, wait!' Gabriel warns her about media optics.
-- 'I refuse to sit here!' Sophia walks past the seated guests into the corridor.
+- 'I refuse to sit here!' Sophia walks past the seated guests into the corridor. Now let's listen to the complete discussion once more to reinforce the vocabulary.

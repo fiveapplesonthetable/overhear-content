@@ -24,6 +24,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 12 | Andréa | Notre petite fille n'est pas encore née! | Our little girl is not born yet! | #477: Non, mais elle est pas encore née, la petite. | verbatim |
 | 13 | Andréa | Je veux profiter un peu de notre liberté. | I want to enjoy our freedom a little bit. | #478: on peut pas profiter encore un tout petit peu de notre liberté. | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'We were supposed to compare our lists of first names.' Colette reminds Andrea that they planned to choose baby names tonight.
@@ -38,4 +39,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'You are not invested in this pregnancy.' Colette shares her growing worry that Andrea is avoiding parenting responsibilities.
 - 'And my medical appointments every two weeks?' Andrea reminds Colette of the frequent medical examinations she endures.
 - 'Our little girl is not born yet!' Andrea points out that they still have time before the baby arrives.
-- 'I want to enjoy our freedom a little bit.' Andrea expresses her desire to cherish their time together as a couple.
+- 'I want to enjoy our freedom a little bit.' Andrea expresses her desire to cherish their time together as a couple. Now let's listen to the scene once more from start to finish.

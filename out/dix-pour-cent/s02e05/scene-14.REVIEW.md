@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Gabriel | Je comprends, mais si ça recommence? | I understand, but what if it happens again? | #402: Je comprends. Mais si ça recommence | verbatim |
 | 14 | Guy | À côté de Pialat, c'est une partie de plaisir! | Compared to Pialat, this is a walk in the park! | #404: J'ai survécu à une mise en scène de Pialat<br>#405: c'est une partie de plaisir | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Gabriel, hello!' Guy greets his agent as he walks in.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'One thing is clear: I am going to make this film!' Guy asserts his determination.
 - 'I can do it and I will do it.' Guy forcefully repeats his commitment.
 - 'I understand, but what if it happens again?' Gabriel gently raises the risk of another memory lapse.
-- 'Compared to Pialat, this is a walk in the park!' Guy laughs off the pressure by invoking a notoriously tough director.
+- 'Compared to Pialat, this is a walk in the park!' Guy laughs off the pressure by invoking a notoriously tough director. Now listen to the whole scene again at normal speed, and see how much more you catch.

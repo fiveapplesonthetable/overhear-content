@@ -27,6 +27,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 15 | Camille | Tu ne veux pas que je postule? | You do not want me to apply? | #308: Tu ne veux pas que je postule ? | verbatim |
 | 16 | Sofia | Bien sûr que si, j'y réfléchirai avec toi. | Of course I do, I will think about it with you. | #309: J'y réfléchirai. | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Here is Sofia, she is at reception.' Hicham introduces the receptionist to his son.
@@ -44,4 +45,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'The future of French cinema is in your hands!' Sofia encourages her colleague playfully.
 - 'Do not forget that many actors are actresses.' Sofia reminds her of gender representation.
 - 'You do not want me to apply?' Camille seeks clarification on agency training.
-- 'Of course I do, I will think about it with you.' Sofia pledges friendly career advice.
+- 'Of course I do, I will think about it with you.' Sofia pledges friendly career advice. Now let's listen to the entire dialogue once more to lock in what you have learned.

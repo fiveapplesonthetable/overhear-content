@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Charlotte | Le cinéma adore ta belle énergie. | Cinema loves your wonderful energy. | new | new |
 | 14 | Gabriel | Profitez pleinement de votre grand succès! | Enjoy your great success to the fullest! | #897: Je vous laisse | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Mimie, come take photos with me!' Charlotte welcomes Mimie warmly onto the red carpet.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'This red carpet arrival is superb.' Gabriel admires their shared public grace.
 - 'Thank you a thousand times for this gesture.' Mimie thanks Charlotte for sharing the limelight.
 - 'Cinema loves your wonderful energy.' Charlotte celebrates the young actor's infectious energy on screen.
-- 'Enjoy your great success to the fullest!' Gabriel encourages both actresses to relish the glory.
+- 'Enjoy your great success to the fullest!' Gabriel encourages both actresses to relish the glory. Now let's listen to the complete discussion once more to reinforce the vocabulary.

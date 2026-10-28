@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'Sandrine, get down from there immediately!' Gabriel rushes forward to grab the handlebars."),
     (11, None, "'Catch me if you can, my dear!' Sandrine squeezes the throttle and glides away."),
     (12, None, "'No, no, no, come back here!' Gabriel shouts as he watches her zip down the boulevard."),
-    (13, None, "'See you tomorrow morning at the agency!' Sandrine's voice echoes down the dark Parisian street."),
+    (13, None, "'See you tomorrow morning at the agency!' Sandrine's voice echoes down the dark Parisian street. Now let's listen to the complete discussion once more to reinforce the vocabulary."),
 ]

@@ -25,19 +25,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Hicham | Si les Américains apprennent cela, attention! | If the Americans learn about this, look out! | #38: elle a pas le droit de tourner dans un autre film en même temps. | verbatim |
 | 14 | Gabriel | Fais-moi confiance, tout se passera bien. | Trust me, everything will go well. | #67: T'inquiète pas. | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'There is a problem in your contracts.' An administrative warning alerting an agent to legal irregularities.
-- 'Which contract are you talking about today?' A defensive inquiry seeking specific clarification.
-- 'Isabelle Huppert is shooting two different films.' A direct accusation pointing out an impossible work schedule.
-- 'It is just a slight schedule overlap.' A minimizing explanation attempting to soften the conflict.
-- 'The American contract demands total exclusivity.' A stern contractual reminder enforcing legal boundaries.
-- 'She shoots at night for the French.' A practical explanation revealing the day-and-night filming arrangement.
-- 'We are completely outside the law, Gabriel!' An alarmed rebuke protesting unacceptable professional risk.
-- 'Isabelle is a veritable living legend.' A reverent defense justifying extraordinary accommodations for a star.
-- 'She cannot keep up this pace.' A worried assessment warning against physical and mental exhaustion.
-- 'She has an absolutely tremendous energy.' An admiring praise highlighting the actress's rare stamina.
-- 'This double shoot is too dangerous.' A grave executive verdict condemning the clandestine schedule.
-- 'Only two difficult days remain.' A calming temporal reassurance emphasizing that the ordeal is nearly over.
-- 'If the Americans learn about this, look out!' A cautionary warning anticipating severe contractual penalties.
-- 'Trust me, everything will go well.' A confident final promise reassuring an anxious supervisor.
+- 'There is a problem in your contracts.' Hicham alerts an agent to legal irregularities.
+- 'Which contract are you talking about today?' Gabriel seeks specific clarification.
+- 'Isabelle Huppert is shooting two different films.' Hicham points out an impossible work schedule.
+- 'It is just a slight schedule overlap.' Gabriel attempts to soften the conflict.
+- 'The American contract demands total exclusivity.' Hicham enforces legal boundaries.
+- 'She shoots at night for the French.' Gabriel reveals the day-and-night filming arrangement.
+- 'We are completely outside the law, Gabriel!' Hicham protests unacceptable professional risk.
+- 'Isabelle is a veritable living legend.' Gabriel justifies extraordinary accommodations for a star.
+- 'She cannot keep up this pace.' Hicham warns against physical and mental exhaustion.
+- 'She has an absolutely tremendous energy.' Gabriel highlights the actress's rare stamina.
+- 'This double shoot is too dangerous.' Hicham condemns the clandestine schedule.
+- 'Only two difficult days remain.' Gabriel emphasizes that the ordeal is nearly over.
+- 'If the Americans learn about this, look out!' Hicham anticipates severe contractual penalties.
+- 'Trust me, everything will go well.' Gabriel reassures an anxious supervisor. Now let's listen to Hicham and Gabriel again at full speed.

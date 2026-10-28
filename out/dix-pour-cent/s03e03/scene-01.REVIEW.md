@@ -25,19 +25,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Gérard | Si tu réussis, le rôle est à toi. | If you succeed, the role is yours. | #86: Si tu les rates, on ne peut plus rien pour toi. | verbatim |
 | 14 | Samy | Merci, je vais donner le meilleur! | Thank you, I will give my best! | #87: Ah non, mais il n'y a pas de problème. | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Samy, come see for a minute.' An informal call summoning the waiter for a conversation.
-- 'Yes, Mr. Barneville, I am coming.' A polite affirmative answer confirming immediate arrival.
-- 'Do you still want to do cinema?' An informal inquiry about artistic ambition in the film industry.
-- 'Yes, it is my great dream!' An enthusiastic exclamation expressing genuine passion.
-- 'Do you want to audition?' A direct question offering a casting opportunity.
-- 'An audition? Are you serious?' A stunned reaction questioning the reality of the offer.
-- 'It is for my film On Edge.' A clarifying statement identifying the upcoming motion picture.
-- 'Do you have a resume and photos?' A professional question checking standard actor materials.
-- 'I have everything in my bag.' A confident confirmation of prepared audition documents.
-- 'Bring them right away.' A direct imperative commanding immediate delivery of the files.
-- 'You are making my dream come true today!' A joyous exclamation of heartfelt gratitude.
-- 'Careful, these are just screen tests.' A grounding reminder setting realistic expectations.
-- 'If you succeed, the role is yours.' A conditional encouragement motivating the young actor.
-- 'Thank you, I will give my best!' An earnest commitment promising maximum effort.
+- 'Samy, come see for a minute.' Mathias summons the waiter for a conversation.
+- 'Yes, Mr. Barneville, I am coming.' Samy confirms immediate arrival.
+- 'Do you still want to do cinema?' Gérard asks informally about Samy's ambition to work in cinema.
+- 'Yes, it is my great dream!' Samy expresses genuine passion.
+- 'Do you want to audition?' Gérard offers a casting opportunity.
+- 'An audition? Are you serious?' Samy questions the reality of the offer.
+- 'It is for my film On Edge.' Gérard identifies the upcoming motion picture.
+- 'Do you have a resume and photos?' Mathias checks standard actor materials.
+- 'I have everything in my bag.' Samy confirms confidently that he has everything in his bag.
+- 'Bring them right away.' Mathias commands immediate delivery of the files.
+- 'You are making my dream come true today!' Samy exclaims with joy that Gérard is making his dream come true.
+- 'Careful, these are just screen tests.' Mathias sets realistic expectations.
+- 'If you succeed, the role is yours.' Gérard motivates the young actor.
+- 'Thank you, I will give my best!' Samy promises maximum effort. Now let's listen to Samy, Gerard, and Mathias again at full speed.

@@ -10,7 +10,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Arlette | C'est le directeur de StarMedia avec la femme de Samuel Kerr. | That is the director of StarMédia with Samuel Kerr\ | #131: C'est<br>#131: C'est | verbatim |
+| 1 | Arlette | C'est le directeur de StarMedia avec la femme de Samuel Kerr. | That is the director of StarMédia with Samuel Kerr\'s wife. | #131: C'est<br>#131: C'est | verbatim |
 | 2 | Gabriel | Elle trompe Ramzy? Ce n'est pas possible. | She is cheating on Ramzy? That is not possible. | #128: -Elle trompe Ramzy ? -Non. | verbatim |
 | 3 | Noémie | Elle le quitte? Des histoires de couple, c'est ma veine. | She is leaving him? Couple dramas are just my luck. | #130: Elle le quitte ?<br>#131: Ne me demande pas. Des histoires de couple, c'est ma veine. | verbatim |
 | 4 | Gabriel | On sait qui est le type sur la photo? | Do we know who the guy in the photo is? | #132: On sait qui est le type ? | verbatim |
@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Noémie | Il veut nous racheter? C'est notre plus grand rival! | He wants to buy us out? He is our biggest rival! | #148: Il veut nous racheter ? | verbatim |
 | 14 | Arlette | Bréhier est un charognard. Il ferait n'importe quoi pour nous couler. | Bréhier is a scavenger. He would do anything to sink us. | #149: Bréhier est un charognard. | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'That is the director of StarMédia with Samuel Kerr\'s wife.' Arlette recognizes their bitter competitor holding a private lunch.
@@ -38,6 +39,6 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'If they break up now, it is a disaster for the film.' Gabriel worries that the breakup will cause their new movie to flop.
 - 'That is the last thing we needed! Everything is going wrong this morning.' Arlette announces that an even bigger crisis is brewing.
 - 'What do you mean? What is happening?' Gabriel asks for clarification about her warning.
-- 'I just saw François Bréhier with Hélène Kerr at Mansart.' The construction venir de followed by an infinitive indicates a recent action.
+- 'I just saw François Bréhier with Hélène Kerr at Mansart.' This construction venir de followed by an infinitive indicates a recent action.
 - 'He wants to buy us out? He is our biggest rival!' Noemie expresses immediate alarm at StarMedia acquiring their shares.
-- 'Bréhier is a scavenger. He would do anything to sink us.' Arlette calls rival agent Bréhier a scavenger who preys on their crises.
+- 'Bréhier is a scavenger. He would do anything to sink us.' Arlette calls rival agent Bréhier a scavenger who preys on their crises. Now let's listen to the entire conversation once more from start to finish.

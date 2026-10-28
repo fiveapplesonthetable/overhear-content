@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'You do not want to work, Sofia!' Camille loses her temper at her client's unprofessional attitude."),
     (11, None, "'You do not want to be an actress.' Camille accuses Sofia of preferring celebrity glamour over real acting."),
     (12, None, "'Now, take back your things and get out!' Camille demands her shoes back and orders Sofia to leave."),
-    (13, None, "'There, I give you back your shoes!' Sofia angrily kicks off the heels and storms out of the room."),
+    (13, None, "'There, I give you back your shoes!' Sofia angrily kicks off the heels and storms out of the room. Now let's listen to the complete discussion once more to reinforce the vocabulary."),
 ]

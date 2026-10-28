@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'I am sorry for that word.' Mathias recognizes her genuine hurt."),
     (11, None, "'This circle remains cruel to me.' Noemie laments the snobbish film elite."),
     (12, None, "'Our two seats are right here.' Mathias finds their numbered row."),
-    (13, None, "'Let us sit down to watch the ceremony.' Noemie prepares for the evening program."),
+    (13, None, "'Let us sit down to watch the ceremony.' Noemie prepares for the evening program. Now let's listen to the complete discussion once more to reinforce the vocabulary."),
 ]

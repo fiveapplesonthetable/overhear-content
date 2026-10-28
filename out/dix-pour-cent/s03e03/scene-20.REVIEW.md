@@ -25,19 +25,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Gérard | J'ai flippé face à ta jeunesse. | I freaked out facing your youth. | #1225: de ta jeunesse.<br>#1226: J'ai flippé. | verbatim |
 | 14 | Samy | Je n'arrive pas à y croire. | I cannot bring myself to believe it. | #1228: Ben oui, c'est débile. | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Actors always have two great fears.' A general observation on professional artistic insecurity.
-- 'Fear of what, Gerard?' A direct question prompting an honest explanation.
-- 'The fear of being sent to the scrap heap.' A vivid idiom describing anxiety over career obsolescence.
-- 'Why do you tell me that now?' An intrigued inquiry seeking clarification of his motives.
-- 'You were not bad, Samy.' A reassuring negation correcting his false impression.
-- 'You really think that I was good?' A hopeful question seeking genuine validation.
-- 'You were even very good.' An emphatic confirmation offering sincere artistic praise.
-- 'Then why did everything go badly?' A logical question pressing for the root problem.
-- 'I did nothing to help you.' A candid admission taking personal responsibility.
-- 'That is not possible, Gerard!' An incredulous exclamation refusing to blame his mentor.
-- 'I was very afraid of your talent.' A courageous confession revealing deep professional vulnerability.
-- 'Afraid of me? That is completely crazy!' An astonished reaction marveling at the star's insecurity.
-- 'I freaked out facing your youth.' A colloquial admission acknowledging fear of aging.
-- 'I cannot bring myself to believe it.' A stunned expression absorbing the surprising revelation.
+- 'Actors always have two great fears.' Gérard makes a general observation about actors' deepest fears.
+- 'Fear of what, Gerard?' Samy prompts an honest explanation.
+- 'The fear of being sent to the scrap heap.' Gérard describes anxiety over career obsolescence.
+- 'Why do you tell me that now?' Samy seeks clarification of his motives.
+- 'You were not bad, Samy.' Gérard corrects his false impression.
+- 'You really think that I was good?' Samy seeks genuine validation.
+- 'You were even very good.' Gérard offers sincere artistic praise.
+- 'Then why did everything go badly?' Samy presses for the root problem.
+- 'I did nothing to help you.' Gérard takes personal responsibility.
+- 'That is not possible, Gerard!' Samy refuses to blame his mentor.
+- 'I was very afraid of your talent.' Gérard reveals deep professional vulnerability.
+- 'Afraid of me? That is completely crazy!' Samy marvels at the star's insecurity.
+- 'I freaked out facing your youth.' Gérard acknowledges fear of aging.
+- 'I cannot bring myself to believe it.' Samy admits in stunned disbelief that he cannot take it in.

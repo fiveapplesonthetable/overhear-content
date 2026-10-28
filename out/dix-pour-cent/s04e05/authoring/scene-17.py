@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'What? That is not true!' Hervé is stunned that his confidence was betrayed."),
     (11, None, "'She was supposed to keep the secret!' Hervé complains that Elise promised not to tell."),
     (12, None, "'My God, you are so naive!' Gabriel teases Hervé for trusting a rival agency head."),
-    (13, None, "'You cannot trust anyone.' Hervé laments the lack of discretion in the film industry."),
+    (13, None, "'You cannot trust anyone.' Hervé laments the lack of discretion in the film industry. Now let's listen to the complete discussion once more to reinforce the vocabulary."),
 ]

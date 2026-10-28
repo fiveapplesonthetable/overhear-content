@@ -11,21 +11,23 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Mathias | Qu'est-ce que tu fais là? | What are you doing here? | #443: Qu'est-ce que tu fais là ? | verbatim |
-| 2 | Camille | J'ai trouvé un travail. Super, non? | I found a job. Great, isn't it? | #443: J'ai trouvé un travail<br>#444: Super, non ? | verbatim |
+| 2 | Camille | J'ai trouvé un travail. Super, non? | Great, isn't it? | #443: J'ai trouvé un travail<br>#444: Super, non ? | verbatim |
 | 3 | Mathias | Un travail? | A job? | #445: Un travail ? | verbatim |
-| 4 | Camille | Je suis la nouvelle assistante d'Andréa Martel. | I | #446: Je suis la nouvelle assistante d'Andréa Martel | verbatim |
+| 4 | Camille | Je suis la nouvelle assistante d'Andréa Martel. | I'm Andréa Martel's new assistant. | #446: Je suis la nouvelle assistante d'Andréa Martel | verbatim |
 | 5 | Mathias | Écoute, j'ai mal réagi ce matin. | Listen, I reacted badly this morning. | #449: Écoute, j'ai<br>#450: J'ai mal réagi ce matin | verbatim |
-| 6 | Mathias | Je ne m'attendais pas à te voir. | I wasn | #450: je ne m'attendais pas à te voir | verbatim |
+| 6 | Mathias | Je ne m'attendais pas à te voir. | I wasn't expecting to see you. | #450: je ne m'attendais pas à te voir | verbatim |
 | 7 | Mathias | Si tu veux, je peux t'aider à trouver un poste. | If you want, I can help you find a job. | #451: si tu veux<br>#452: trouver un poste dans le cinéma | verbatim |
-| 8 | Camille | C'est gentil, mais je suis bien ici. | That | #453: C'est gentil, mais je suis bien ici | verbatim |
-| 9 | Mathias | Non, Camille! Ce n'est pas possible. | No, Camille! It | #454: Camille<br>#455: pas possible | verbatim |
+| 8 | Camille | C'est gentil, mais je suis bien ici. | That's kind, but I'm fine here. | #453: C'est gentil, mais je suis bien ici | verbatim |
+| 9 | Mathias | Non, Camille! Ce n'est pas possible. | No, Camille! It's not possible. | #454: Camille<br>#455: pas possible | verbatim |
 | 10 | Camille | Pourquoi? | Why? | #455: Pourquoi ? | verbatim |
-| 11 | Mathias | Parce que tu ne peux pas. C'est ma vie! | Because you can't. It's my life! | #456: Parce que tu ne peux pas<br>#456: c'est ma vie | verbatim |
+| 11 | Mathias | Parce que tu ne peux pas. C'est ma vie! | It's my life! | #456: Parce que tu ne peux pas<br>#456: c'est ma vie | verbatim |
 | 12 | Camille | Tu ne me donnes rien. | You give me nothing. | #457: Tu ne me donnes rien | verbatim |
-| 13 | Camille | Alors je me débrouille seule, comme toujours! | So I | #457: alors je me débrouille seule, comme toujours | verbatim |
+| 13 | Camille | Alors je me débrouille seule, comme toujours! | So I'll manage on my own, as always! | #457: alors je me débrouille seule, comme toujours | verbatim |
 | 14 | Noémie | Bonjour. En fait, vous et lui... | Hello. Actually, you and him... | #442: Bonjour<br>#442: Bonjour<br>#442: Bonjour | verbatim |
 | 15 | Noémie | Mathias, vous savez, est marié. | Mathias, you know, is married. | #443: est<br>#443: est | verbatim |
-| 16 | Noémie | Il est très, très marié. | He | #443: est | verbatim |
+| 16 | Noémie | Il est très, très marié. | He's very, very married. | #443: est | verbatim |
+
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -45,4 +47,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'So I'll manage on my own, as always!' That verb in the middle is a very French one: to get by, to sort yourself out. The word for 'alone' is feminine here, because she is talking about herself. Then Mathias walks off.
 - 'Hello. Actually, you and him...' Noémie, Mathias's assistant, has heard everything, and she has completely misunderstood. She uses the polite 'you' with the newcomer.
 - 'Mathias, you know, is married.' She thinks Camille is a girlfriend, not a daughter.
-- 'He's very, very married.' Saying a word twice is a fun way to make it stronger, and Camille can't tell her the truth. Now let's hear the whole scene again, all in French.
+- 'He's very, very married.' Saying a word twice is a fun way to make it stronger, and Camille can't tell her the truth.

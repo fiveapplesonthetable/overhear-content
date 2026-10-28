@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Jean-Denis | C'est bien plus sage ainsi. | It is much wiser this way. | #637: c'est mieux. | verbatim |
 | 14 | Juliette | À tout à l'heure, cher ami! | See you later, dear friend! | #637: À tout à l'heure | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'I wanted to wish you good luck.' Gillieres approaches Juliette backstage before her entrance.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Wait, let us talk rather after the party.' Gillieres quickly backs down from his insistence.
 - 'Yes, after the big official ceremony.' Juliette agrees to postpone any discussion safely.
 - 'It is much wiser this way.' Gillieres accepts the polite retreat with relief.
-- 'See you later, dear friend!' Juliette bids him farewell and returns to her duties.
+- 'See you later, dear friend!' Juliette bids him farewell and returns to her duties. Now let's listen to the scene once more from start to finish.

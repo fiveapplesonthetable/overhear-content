@@ -50,7 +50,7 @@ WALK = [
     (9, 'Это заложено в бюджет операции.', "'It's built into the operation budget.' To the chief, it's just normal bookkeeping. He hands her the pen."),
     (10, None, "'Please, go ahead.' Literally 'I ask', a formal one-word way to invite someone to sign or step through a door. Marina signs the sheet and takes the envelope, but she can't resist a parting shot."),
     (11, 'Хорошо.', "'Fine.' She gives in, then looks at the cash."),
-    (11, 'Значит, вот куда идут деньги налогоплательщиков.', "'So this is where taxpayers' money goes.' That long last word is 'of taxpayers', built from the words for 'tax' and 'payer'. Then she gets up to leave."),
+    (11, 'Значит, вот куда идут деньги налогоплательщиков.', "'So this is where taxpayer money goes.' That long last word means 'of taxpayers', built from the words for 'tax' and 'payer'. Then she gets up to leave."),
     (12, None, "'Right, I'm off. Goodbye.' She uses the feminine past form, 'I set off', which is how Russians say 'I'm heading out'. In the show, she even tries to walk out through the archive door by mistake. Once she is gone, the chief sighs."),
     (13, None, "'We should have taken the old lady.' Literally 'it was necessary to take the grandmother'—meaning old Klavdia Viktorovna, whom he wanted to recruit in the first place."),
 ]

@@ -25,19 +25,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Arlette | Nous te faisons confiance, mon cher Hervé. | We trust you, my dear Hervé. | #73: maître à bord ici | verbatim |
 | 14 | Hervé | D'accord, je vais surveiller les bureaux. | All right, I am going to watch over the offices. | #76: tienne la boutique. | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Do not cry over Cannes, Fabienne.' A negative imperative comforting an upset artist.
-- 'The Angouleme festival is very good too.' A consoling alternative pointing to another prestigious film event.
-- 'Are you ready for the departure?' An inverted plural question reviewing festival preparations.
-- 'Me, I am staying at the agency.' A stressed personal pronoun highlighting duty in Paris.
-- 'The boss and Andréa are going to Cannes.' A compound subject noting the executive travel roster.
-- 'My karma is bad this month.' A colloquial idiom expressing temporary professional misfortune.
-- 'You are going to be in charge here.' A nautical metaphor signifying leadership during absence.
-- 'Last year, I had a single phone call.' A past temporal memory recalling previous office solitude.
-- 'Someone is really needed to guard the agency.' An impersonal necessity structure emphasizing essential presence.
-- 'Holding the fort is very important, Hervé.' A professional idiom encouraging responsible oversight.
-- 'Two weeks all alone in Paris, that is long.' A duration assessment acknowledging quiet summer weeks.
-- 'You will have peace and quiet to work well.' A reassuring future tense predicting calm productivity.
-- 'We trust you, my dear Hervé.' A sincere expression of team confidence and affection.
-- 'All right, I am going to watch over the offices.' An accepting agreement undertaking office management.
+- 'Do not cry over Cannes, Fabienne.' Arlette comforts an upset artist.
+- 'The Angouleme festival is very good too.' Arlette points to another prestigious film event.
+- 'Are you ready for the departure?' Hicham reviews festival preparations.
+- 'Me, I am staying at the agency.' Hervé highlights duty in Paris.
+- 'The boss and Andréa are going to Cannes.' Hicham notes the executive travel roster.
+- 'My karma is bad this month.' Hervé expresses temporary professional misfortune.
+- 'You are going to be in charge here.' Arlette uses a nautical metaphor to put Hervé in charge during their absence.
+- 'Last year, I had a single phone call.' Hervé recalls previous office solitude.
+- 'Someone is really needed to guard the agency.' Hicham emphasizes essential presence.
+- 'Holding the fort is very important, Hervé.' Arlette encourages responsible oversight.
+- 'Two weeks all alone in Paris, that is long.' Hervé acknowledges quiet summer weeks.
+- 'You will have peace and quiet to work well.' Hicham predicts calm productivity.
+- 'We trust you, my dear Hervé.' Arlette expresses warm confidence and affection for Hervé.
+- 'All right, I am going to watch over the offices.' Hervé undertakes office management. Now let's listen to Arlette, Hicham, and Herve again at full speed.

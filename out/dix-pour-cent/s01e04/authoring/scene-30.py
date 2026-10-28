@@ -16,12 +16,12 @@ TRANSITION = "Now let's listen to the entire dialogue once more."
 OUTRO = 'Audrey has saved her reputation and won a big comedy role to pay off her taxes. See you next time!'
 CLOSING = ('audrey', 'À bientôt!')
 STORY = [
-    ('audrey', "Vous êtes sûr que c'est la seule solution?", 'Are you sure it', [(775, "que c'est la seule solution")], ''),
+    ('audrey', "Vous êtes sûr que c'est la seule solution?", "Are you sure it's the only solution?", [(775, "que c'est la seule solution")], ''),
     ('mathias', 'Faites-moi confiance, Audrey. Beyoncé a fait ça après son concert.', 'Trust me, Audrey. Beyoncé did that after her concert.', [(775, 'Faites-moi confiance, Audrey'), (777, 'Beyoncé a fait ça après son concert')], ''),
     ('audrey', "Je suis ravie d'être avec vous ce soir.", 'I am delighted to be with you tonight.', [(778, "Je veux vous dire combien je suis ravie d'être avec vous ce soir")], ''),
     ('audrey', 'Les médias peuvent être cruels.', 'The media can be cruel.', [(779, 'les médias peuvent être cruels')], ''),
     ('audrey', 'Je suis venue uniquement pour aider les enfants.', 'I came solely to help the children.', [(782, 'que je suis'), (782, 'à cette soirée'), (783, 'Uniquement pour les enfants'), (784, 'du monde entier')], ''),
-    ('audrey', "Je donne tout l'argent de monsieur Kadropov à l'UNICEF.", 'I am giving all of Mr. Kadropov', [(787, "j'ai le plaisir de"), (788, 'la somme'), (789, "Kadropov à l'UNICEF")], ''),
+    ('audrey', "Je donne tout l'argent de monsieur Kadropov à l'UNICEF.", "I am giving all of Mr. Kadropov's money to UNICEF.", [(787, "j'ai le plaisir de"), (788, 'la somme'), (789, "Kadropov à l'UNICEF")], ''),
     ('audrey', 'Dix mille euros. Vingt mille euros, pardon. Vingt mille euros.', 'Ten thousand euros. Twenty thousand euros, sorry. Twenty thousand euros.', [(790, 'euros'), (790, 'pardon')], ''),
     ('mathias', 'Vous avez oublié de signer.', 'You forgot to sign.', [(792, 'Vous avez oublié de signer')], ''),
     ('audrey', 'Pardon. Excusez-moi. Merci.', 'Sorry. Excuse me. Thank you.', [(793, 'Pardon. Excusez-moi'), (794, 'Merci')], ''),
@@ -30,10 +30,10 @@ STORY = [
     ('audrey', 'Quoi?', 'What?', [(798, 'Quoi')], ''),
     ('mathias', "Michel Hazanavicius. Il t'a vue avec Kadropov.", 'Michel Hazanavicius. He saw you with Kadropov.', [(799, 'Michel Hazanavicius'), (799, 'avec Kadropov')], ''),
     ('mathias', 'Il te veut pour le prochain OSS cent dix-sept.', 'He wants you for the next OSS one-one-seven.', [(800, 'Il te veut pour le prochain OSS')], ''),
-    ('audrey', "Mathias, c'est super!", 'Mathias, that', [(800, "Mathias, c'est super")], ''),
-    ('mathias', 'Tu vas pouvoir payer tes impôts.', 'You', [(801, 'Tu vas pouvoir payer tes impôts')], ''),
-    ('audrey', "Tu peux leur dire? J'ai peur de l'administration.", 'Can you tell them? I', [(802, 'Tu peux leur dire'), (802, "de l'administration")], ''),
-    ('mathias', 'Je vais chercher du champagne.', 'I', [(803, 'Je vais chercher du champagne')], ''),
+    ('audrey', "Mathias, c'est super!", "Mathias, that's great!", [(800, "Mathias, c'est super")], ''),
+    ('mathias', 'Tu vas pouvoir payer tes impôts.', "You'll be able to pay your taxes.", [(801, 'Tu vas pouvoir payer tes impôts')], ''),
+    ('audrey', "Tu peux leur dire? J'ai peur de l'administration.", "Can you tell them? I'm scared of the tax office.", [(802, 'Tu peux leur dire'), (802, "de l'administration")], ''),
+    ('mathias', 'Je vais chercher du champagne.', "I'll go and get some champagne.", [(803, 'Je vais chercher du champagne')], ''),
 ]
 WALK = [
     (0, None, "'Are you sure it's the only solution?' Even though Audrey and Mathias are old friends, in this opening exchange the subtitles use the polite 'vous'."),
@@ -41,7 +41,7 @@ WALK = [
     (2, None, "'I am delighted to be with you tonight.' Now Audrey is on stage at the microphone."),
     (3, None, "'The media can be cruel.' The verb 'can' is in the plural form to match 'the media'."),
     (4, None, "'I came solely to help the children.' On stage, Audrey almost slips and says 'for my children', then quickly turns it into 'the children of the whole world'."),
-    (5, None, "'I am giving all of Mr. Kadropov's money to UNICEF.' A grand, formal sentence for the cameras."),
+    (5, None, "'I am giving all of Mr. Kadropov's money to UNICEF.' Audrey delivers a grand, formal sentence for the cameras."),
     (6, None, "'Ten thousand euros. Twenty thousand euros, sorry. Twenty thousand euros.' She tries to keep half the money, catches Mathias's eye, and reluctantly says the full twenty thousand."),
     (7, None, "'You forgot to sign.' Even when she hands over the giant cheque, she tries one last trick—leaving off her signature!"),
     (8, None, "'Sorry. Excuse me. Thank you.' She signs at last, to big applause."),
@@ -53,5 +53,5 @@ WALK = [
     (14, None, "'Mathias, that's great!' After everything she went through today, a real starring role has landed in her lap."),
     (15, None, "'You'll be able to pay your taxes.' Literally 'you are going to be able to pay your taxes'."),
     (16, None, "'Can you tell them? I'm scared of the tax office.' Literally 'I have fear of the administration', a playful nod to a real French political scandal."),
-    (17, None, "'I'll go and get some champagne.' Literally 'I am going to fetch some champagne'. Now let's hear the whole charity gala scene again."),
+    (17, None, "'I'll go and get some champagne.' Literally 'I am going to fetch some champagne'."),
 ]

@@ -29,10 +29,10 @@ STORY = [
     ('virginie', 'Surtout, vous en savez trop sur nous.', 'Above all, you know too much about us.', [(874, 'Surtout, vous en savez trop sur nous')], ''),
     ('ramzy', "Et nous avons besoin d'une relation nouvelle.", 'And we need a new relationship.', [(875, "et nous avons besoin d'une relation nouvelle")], ''),
     ('virginie', 'On est vraiment désolés, bien sûr.', 'We are really sorry, of course.', [(877, 'On est vraiment désolés, bien sûr')], ''),
-    ('mathias', "Bon, écoutez, c'est votre décision.", 'Well, listen, it', [(878, 'Bon, écoutez'), (879, "c'est votre décision")], ''),
+    ('mathias', "Bon, écoutez, c'est votre décision.", "Well, listen, it's your decision.", [(878, 'Bon, écoutez'), (879, "c'est votre décision")], ''),
     ('mathias', 'Puis-je savoir où vous allez?', 'May I know where you are going?', [(880, 'Puis-je savoir où vous allez')], ''),
     ('ramzy', 'StarMedia.', 'We are going to StarMédia.', [(881, 'StarMedia')], ''),
-    ('virginie', 'On vous laisse, Mathias. À bientôt.', 'We', [(882, 'On vous laisse, Mathias'), (886, 'À bientôt')], ''),
+    ('virginie', 'On vous laisse, Mathias. À bientôt.', "We'll leave you, Mathias. See you soon.", [(882, 'On vous laisse, Mathias'), (886, 'À bientôt')], ''),
 ]
 WALK = [
     (0, None, "'Sit down.' Mathias politely invites his star clients in to the office."),
@@ -46,10 +46,10 @@ WALK = [
     (8, None, "'What exactly are you talking about?' Mathias tries to feign innocence."),
     (9, None, "'About the second contract.' Ramzy cites the secret wage clause Mathias negotiated behind Virginie's back."),
     (10, None, "'Above all, you know too much about us.' Virginie adds that Mathias knows far too much about their messy past."),
-    (11, None, "'And we need a new relationship.' The expression 'avoir besoin de' expresses necessity."),
+    (11, None, "'And we need a new relationship.' This expression 'avoir besoin de' expresses necessity."),
     (12, None, "'We are really sorry, of course.' Virginie softens the blow with polite regret."),
     (13, None, "'Well, listen, it's your decision.' Mathias accepts their departure with tight-lipped resignation."),
     (14, None, "'May I know where you are going?' The inversion 'puis-je' is a formal way to ask permission."),
     (15, None, "'We are going to StarMédia.' Ramzy names the fiercest corporate rival of ASK."),
-    (16, None, "'We'll leave you, Mathias. See you soon.' Virginie and Ramzy cheerfully say goodbye to Mathias and walk off with Gabriel."),
+    (16, None, "'We'll leave you, Mathias. See you soon.' Virginie and Ramzy cheerfully say goodbye to Mathias and walk off with Gabriel. Now listen to the whole scene again at normal speed, and see how much more you catch."),
 ]

@@ -17,21 +17,21 @@ OUTRO = "Arlette refuses to bend to Mathias's threats, and Doctor Ryan's fate lo
 CLOSING = ('mathias', 'Bonne soirée!')
 STORY = [
     ('mathias', 'Arlette, je veux vous parler de Jonathan Joubert.', 'Arlette, I want to talk to you about Jonathan Joubert.', [(218, 'Arlette'), (218, 'de Jonathan Joubert')], ''),
-    ('arlette', "C'est son fauteuil.", 'That', [(219, "C'est son fauteuil")], ''),
-    ('arlette', 'Marie-Sophie ne veut pas de vos fleurs.', 'Marie-Sophie doesn', [(220, 'Marie-Sophie ne veut pas de vos fleurs')], ''),
-    ('arlette', 'Vous ne pouvez rien faire contre la maladie de Ryan.', 'You can', [(221, 'Vous ne pouvez rien faire contre'), (221, 'de Ryan')], ''),
-    ('mathias', "On va perdre beaucoup d'argent!", 'We', [(222, "On va perdre beaucoup d'argent")], ''),
+    ('arlette', "C'est son fauteuil.", "That's his armchair.", [(219, "C'est son fauteuil")], ''),
+    ('arlette', 'Marie-Sophie ne veut pas de vos fleurs.', "Marie-Sophie doesn't want your flowers.", [(220, 'Marie-Sophie ne veut pas de vos fleurs')], ''),
+    ('arlette', 'Vous ne pouvez rien faire contre la maladie de Ryan.', "You can't do anything against Ryan's illness.", [(221, 'Vous ne pouvez rien faire contre'), (221, 'de Ryan')], ''),
+    ('mathias', "On va perdre beaucoup d'argent!", "We're going to lose a lot of money!", [(222, "On va perdre beaucoup d'argent")], ''),
     ('arlette', "Tout ne tourne pas autour de l'argent.", 'Not everything revolves around money.', [(222, "Tout ne tourne pas autour de l'argent")], ''),
     ('mathias', 'Arlette, votre part dans cette agence est très petite.', 'Arlette, your share in this agency is very small.', [(223, 'Arlette, votre part dans cette agence est')], ''),
     ('mathias', "Et Samuel n'est plus là pour vous protéger.", 'And Samuel is no longer here to protect you.', [(224, "Samuel n'est plus là pour vous protéger")], ''),
-    ('arlette', "Vos menaces ne m'impressionnent pas.", 'Your threats don', [(225, "Vos menaces ne m'impressionnent pas")], ''),
-    ('arlette', "Je ne parle pas d'argent, je parle de dignité et de loyauté.", 'I', [(226, "Je ne parle pas d'argent, je parle de dignité et de loyauté")], ''),
+    ('arlette', "Vos menaces ne m'impressionnent pas.", "Your threats don't impress me.", [(225, "Vos menaces ne m'impressionnent pas")], ''),
+    ('arlette', "Je ne parle pas d'argent, je parle de dignité et de loyauté.", "I'm not talking about money, I'm talking about dignity and loyalty.", [(226, "Je ne parle pas d'argent, je parle de dignité et de loyauté")], ''),
     ('arlette', 'Marie-Sophie vaut mille fois cet idiot de Jonathan Joubert!', 'Marie-Sophie is worth a thousand of that idiot Jonathan Joubert!', [(229, 'vaut mille fois'), (229, 'de Jonathan Joubert')], ''),
     ('arlette', 'Alors votre Ryan, coupez!', 'So as for your Ryan, cut!', [(230, 'Alors votre Ryan'), (231, 'Coupez')], ''),
     ('camille', 'Excusez-moi, il faut penser aux vrais fans de la série.', 'Excuse me, we have to think of the real fans of the series.', [(232, 'penser aux vrais fans de')], ''),
     ('mathias', 'Oui, Camille?', 'Yes, Camille?', [(234, 'Oui, Camille')], ''),
     ('camille', 'Andréa voulait vous montrer quelque chose, mais pas maintenant.', 'Andréa wanted to show you something, but not now.', [(235, 'Andréa voulait vous montrer quelque chose, mais'), (235, 'pas maintenant')], ''),
-    ('camille', 'Je vais revenir plus tard.', 'I', [], ''),
+    ('camille', 'Je vais revenir plus tard.', "I'll come back later.", [], ''),
 ]
 WALK = [
     (0, None, "'Arlette, I want to talk to you about Jonathan Joubert.' Mathias and Arlette use the formal 'you' here."),

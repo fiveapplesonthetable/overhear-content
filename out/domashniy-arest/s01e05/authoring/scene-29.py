@@ -47,7 +47,7 @@ WALK = [
     (6, 'Ты что, хуже обезьяны?', "'What, are you worse than a monkey?' After the comparative word 'worse', 'monkey' takes the 'of'-form ending 'than a monkey'. Pasha answers literally."),
     (7, None, "'No, I'm better than a monkey.' That sounds suspiciously like backtalk to the governor."),
     (8, 'Ты со мной шутишь, что ли?', "'What are you doing over there now? Are you joking with me, or what?' In the show he uses a colourful Russian verb meaning 'are you being cheeky with me?' Pasha quickly backs down."),
-    (9, None, "'No, I'm not joking, Viktor Stepanovich.' notice how the consonant in 'joke' changes to a 'ch' sound in the 'I' form."),
+    (9, None, "'No, I'm not joking, Viktor Stepanovich.' Notice how the consonant in 'joke' changes to a 'ch' sound in the 'I' form."),
     (10, None, "'Then don't joke with me right now!' Literally, 'there, and one must not joke with me now'."),
     (11, 'Тебе ничего нельзя доверить!', "'You can't be trusted with anything! Are you listening to me?' Literally, 'to you nothing is possible to entrust'."),
     (12, None, "'I'm listening.' Suddenly the governor notices the echo on the line."),

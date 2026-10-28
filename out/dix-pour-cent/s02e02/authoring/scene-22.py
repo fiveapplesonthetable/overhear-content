@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'There is no question of slipping this on.' She shuts down his intrusive demand with absolute authority."),
     (11, None, "'Very well. Do not let go of Luchini.' Hicham backs down but reminds her of the high stakes."),
     (12, None, "'I do not want to look foolish.' His massive pride cannot tolerate a public professional failure."),
-    (13, None, "'All right, I am managing the situation.' She concludes the confrontation on her own terms."),
+    (13, None, "'All right, I am managing the situation.' She concludes the confrontation on her own terms. Now let's listen to the entire exchange once more from beginning to end."),
 ]

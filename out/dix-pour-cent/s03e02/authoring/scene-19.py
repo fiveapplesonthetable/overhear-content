@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'Thanks to you, the film exists!' Julien credits Gabriel for saving the entire production."),
     (11, None, "'Bravo Julien, we are very proud.' Gabriel congratulates the director on his major milestone."),
     (12, None, "'Enjoy the film screening, everyone!' Julien invites the audience to enjoy the movie."),
-    (13, None, "'Let the screening finally begin, Gabriel!' Sofia looks forward to the audience's reaction."),
+    (13, None, "'Let the screening finally begin, Gabriel!' Sofia looks forward to the audience's reaction. Now let's listen to the scene once more from start to finish."),
 ]

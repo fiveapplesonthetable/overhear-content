@@ -20,8 +20,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 8 | Mathias | Dans le cinéma, fais une seule chose. | In cinema, do just one thing. | #251: choses | verbatim |
 | 9 | Mathias | Concentre-toi seulement sur le cinéma. | Focus only on cinema. | #254: Concentre-toi sur le jeu. | verbatim |
 | 10 | Gabriel | Mais non! Restons curieux et ouverts. | Of course not! Let us stay curious and open. | #257: restons curieux | verbatim |
-| 11 | Gabriel | Écoutons la proposition de Julien d'abord. | Let us listen to Julien | #258: Julien | verbatim |
+| 11 | Gabriel | Écoutons la proposition de Julien d'abord. | Let us listen to Julien's offer first. | #258: Julien | verbatim |
 | 12 | Sofia | D'accord, je vais parler avec Julien. | All right, I am going to talk with Julien. | #258: Julien | verbatim |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -36,4 +37,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Focus only on cinema.' Mathias tells her to stick to acting.
 - 'Of course not! Let us stay curious and open.' Feel how Gabriel pushes back against Mathias's strict rules.
 - 'Let us listen to Julien's offer first.' Gabriel suggests hearing what Julien has in mind before saying no.
-- 'All right, I am going to talk with Julien.' Sofia decides to hear Julien out.
+- 'All right, I am going to talk with Julien.' Sofia decides to hear Julien out. Now let's listen to the entire dialogue once more to lock in what you have learned.

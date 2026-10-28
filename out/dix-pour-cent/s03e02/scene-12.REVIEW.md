@@ -18,13 +18,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 6 | Hicham | Donc, je voudrais la reconnaître officiellement. | So, I would like to officially recognize her. | #717: reconnaître officiellement | verbatim |
 | 7 | Andréa | Ce n'est pas ce qu'on avait décidé! | That is not what we had decided! | #718: ce qu'on avait décidé | verbatim |
 | 8 | Hicham | Peut-être, mais c'est mon droit légal. | Maybe, but it is my legal right. | #719: c'est mon droit | verbatim |
-| 9 | Colette | Si tu deviens officiellement le père du bébé, | If you officially become the baby | #720: officiellement le père de ce bébé | verbatim |
+| 9 | Colette | Si tu deviens officiellement le père du bébé, | If you officially become the baby's father, | #720: officiellement le père de ce bébé | verbatim |
 | 10 | Colette | je ne serai jamais vraiment sa mère. | I will never really be her mother. | #721: jamais vraiment sa mère | verbatim |
 | 11 | Colette | L'adoption plénière ne sera plus possible. | Full adoption will no longer be possible. | #722: l'adoption plénière sera plus jamais possible | verbatim |
 | 12 | Hicham | Tu pourras faire une adoption simple. | You can still do a simple adoption. | #723: faire une adoption simple | verbatim |
 | 13 | Colette | Mais ce sera révocable avec ton consentement! | But that would be revocable with your consent! | #724: avec ton consentement | verbatim |
 | 14 | Andréa | Sans Colette, je n'aurais jamais gardé l'enfant. | Without Colette, I would never have kept the child. | #726: Sans Colette | verbatim |
 | 15 | Colette | Parce que moi, je ne peux pas en avoir. | Because I cannot have children myself. | #733: Pourquoi t'en fais pas un<br>#734: je peux pas en avoir | verbatim |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 

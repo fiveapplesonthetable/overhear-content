@@ -28,6 +28,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 16 | Andréa | J'espère que tu es libre ce soir, je t'invite à dîner. | I hope you are free tonight, I am inviting you to dinner. | #349: J'espère que tu es libre ce soir, je t'invite à dîner | verbatim |
 | 17 | Christophe | D'accord, avec plaisir. | All right, with pleasure. | new | new |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'François, it is me. I am here, as planned.' Andrea announces her arrival at the country house.
@@ -46,4 +47,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Then why does he not call me directly?' François wonders why Christophe has not called him in person to apologize.
 - 'Christophe? It is Andréa Martel.' Andrea takes initiative right away and dials his number.
 - 'I hope you are free tonight, I am inviting you to dinner.' Andréa calls Christophe on the spot and invites him to dinner that evening.
-- 'All right, with pleasure.' Christophe gladly accepts Andréa's dinner invitation.
+- 'All right, with pleasure.' Christophe gladly accepts Andréa's dinner invitation. Now listen to Andrea and Francois's conversation once more without interruption.

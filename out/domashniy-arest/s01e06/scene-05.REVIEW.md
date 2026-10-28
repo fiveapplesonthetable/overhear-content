@@ -10,22 +10,22 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Вася | Сколько сможешь мне давать? Скидку сделаешь? | How much can you supply me? Will you give me a discount? | #143 00:09:46: Сколько сможешь мне<br>#145 00:09:51: сделаешь | adapted: simplified 'отгружать' -> 'давать', 'скидочку' -> 'скидку' |
-| 2 | Игнатьев | Две тонны в месяц. Десять процентов. | Two tonnes a month. Ten percent. | #144 00:09:49: Две<br>#144 00:09:49: в месяц<br>#149 00:10:01: Десять процентов | adapted: fixed ASR 'Две стенок' -> 'Две тонны' |
-| 3 | Юля | Спасибо. Ваш кофе, пожалуйста. | Thank you. Your coffee, please. | #151 00:10:05: Спасибо. Ваш кофе, пожалуйста | verbatim |
-| 4 | Игнатьев | Спасибо, солнышко. Иди, Юля, работай. | Thank you, sweetheart. Go on, Yulya, work. | #152 00:10:08: Спасибо, солнышко<br>#155 00:10:15: Иди, Юля | adapted: simplified 'шевели' -> 'работай' |
-| 5 | Вася | Слушай, откуда ты красавиц таких берёшь? | Listen, where do you get such beauties from? | #153 00:10:12: Слушай<br>#154 00:10:13: откуда ты<br>#154 00:10:13: таких | adapted: fixed ASR 'красавицы таких набираешь' -> 'красавиц таких берёшь' |
-| 6 | Игнатьев | По объявлению. Девочка — сирота, у неё трагедия. | Through an ad. The girl is an orphan, she has a tragedy. | #155 00:10:15: По объявлению<br>#159 00:10:31: Девочка-сирота, у нее трагедия | verbatim |
-| 7 | Игнатьев | Мать под поезд попала. А отец с двадцатого этажа прыгнул. | Her mother was hit by a train. And her father jumped from the twentieth floor. | #160 00:10:33: Мать под<br>#160 00:10:33: попала<br>#161 00:10:36: Отец<br>#161 00:10:36: с двадцатого этажа | adapted: simplified 'электричку' -> 'поезд' and fixed ASR 'Горя ... осеганул' -> 'прыгнул'; omitted 'в лепёшку' |
-| 8 | Игнатьев | Она с бабушкой живёт. Бабушка болеет всё время. | She lives with her grandmother. Her grandmother is sick all the time. | #163 00:10:39: живет<br>#163 00:10:39: все время | adapted: simplified 'С бабкой' -> 'Она с бабушкой' and fixed ASR 'оболеет' -> 'болеет' |
-| 9 | Вася | Ну, так даже лучше! С сиротой вообще никаких проблем. | Well, that's even better! With an orphan there are no problems at all. | #165 00:10:42: Ну, так даже лучше<br>#166 00:10:44: вообще никаких проблем | adapted: restored 'С' before 'сиротой' |
-| 10 | Игнатьев | Вася, ты дурак? Встал и вышел отсюда! | Vasya, are you an idiot? Stand up and get out of here! | #167 00:10:47: Вася, ты дурак<br>#168 00:10:49: Встал<br>#168 00:10:49: вышел отсюда | verbatim |
-| 11 | Вася | Ну всё, понял. Значит, по пятнадцать рублей, да? | Alright, I got it. So, fifteen roubles each, right? | #169 00:10:50: все, ну, понял<br>#174 00:11:02: значит, пятнадцать, да | verbatim |
-| 12 | Игнатьев | Иди, пятнадцать. | Go on, fifteen. | #175 00:11:03: Иди, пятнадцать | verbatim |
-| 13 | Игнатьев | Ну как, Юля, не обижают тебя здесь? | Well, how is it, Yulya, is nobody bothering you here? | #177 00:11:15: не обижают тебя здесь | adapted: simplified 'Юляш' -> 'Юля' |
-| 14 | Юля | Да нет. Спасибо, Вениамин Игоревич. | No, not at all. 'Thank you, Veniamin Igorevich.' Here 'thank you' sets up the idea, while 'Igorevich' comes at the end for emphasis. | #178 00:11:16: Да нет<br>#179 00:11:18: Спасибо, Вениамин Игоревич | verbatim |
-| 15 | Игнатьев | Подожди. Купи себе платье или бабушке что-нибудь. | Wait. Buy yourself a dress or something for your grandmother. | #180 00:11:19: подожди<br>#181 00:11:25: Купи себе платье<br>#183 00:11:29: или бабушке что-нибудь | verbatim |
-| 16 | Юля | Спасибо, вы меня балуете! | Thank you, you're spoiling me! | #184 00:11:30: Спасибо, вы меня<br>#184 00:11:30: балуете | verbatim |
+| 1 | Вася | Сколько сможешь мне давать? Скидку сделаешь? | How much can you supply me? Will you give me a discount? | #143: Сколько сможешь мне<br>#145: сделаешь | adapted: simplified 'отгружать' -> 'давать', 'скидочку' -> 'скидку' |
+| 2 | Игнатьев | Две тонны в месяц. Десять процентов. | Two tonnes a month. Ten percent. | #144: Две<br>#144: в месяц<br>#149: Десять процентов | adapted: fixed ASR 'Две стенок' -> 'Две тонны' |
+| 3 | Юля | Спасибо. Ваш кофе, пожалуйста. | Thank you. Your coffee, please. | #151: Спасибо. Ваш кофе, пожалуйста | verbatim |
+| 4 | Игнатьев | Спасибо, солнышко. Иди, Юля, работай. | Thank you, sweetheart. Go on, Yulya, work. | #152: Спасибо, солнышко<br>#155: Иди, Юля | adapted: simplified 'шевели' -> 'работай' |
+| 5 | Вася | Слушай, откуда ты красавиц таких берёшь? | Listen, where do you get such beauties from? | #153: Слушай<br>#154: откуда ты<br>#154: таких | adapted: fixed ASR 'красавицы таких набираешь' -> 'красавиц таких берёшь' |
+| 6 | Игнатьев | По объявлению. Девочка — сирота, у неё трагедия. | Through an ad. The girl is an orphan, she has a tragedy. | #155: По объявлению<br>#159: Девочка-сирота, у нее трагедия | verbatim |
+| 7 | Игнатьев | Мать под поезд попала. А отец с двадцатого этажа прыгнул. | Her mother was hit by a train. And her father jumped from the twentieth floor. | #160: Мать под<br>#160: попала<br>#161: Отец<br>#161: с двадцатого этажа | adapted: simplified 'электричку' -> 'поезд' and fixed ASR 'Горя ... осеганул' -> 'прыгнул'; omitted 'в лепёшку' |
+| 8 | Игнатьев | Она с бабушкой живёт. Бабушка болеет всё время. | She lives with her grandmother. Her grandmother is sick all the time. | #163: живет<br>#163: все время | adapted: simplified 'С бабкой' -> 'Она с бабушкой' and fixed ASR 'оболеет' -> 'болеет' |
+| 9 | Вася | Ну, так даже лучше! С сиротой вообще никаких проблем. | Well, that's even better! With an orphan there are no problems at all. | #165: Ну, так даже лучше<br>#166: вообще никаких проблем | adapted: restored 'С' before 'сиротой' |
+| 10 | Игнатьев | Вася, ты дурак? Встал и вышел отсюда! | Vasya, are you an idiot? Stand up and get out of here! | #167: Вася, ты дурак<br>#168: Встал<br>#168: вышел отсюда | verbatim |
+| 11 | Вася | Ну всё, понял. Значит, по пятнадцать рублей, да? | Alright, I got it. So, fifteen roubles each, right? | #169: все, ну, понял<br>#174: значит, пятнадцать, да | verbatim |
+| 12 | Игнатьев | Иди, пятнадцать. | Go on, fifteen. | #175: Иди, пятнадцать | verbatim |
+| 13 | Игнатьев | Ну как, Юля, не обижают тебя здесь? | Well, how is it, Yulya, is nobody bothering you here? | #177: не обижают тебя здесь | adapted: simplified 'Юляш' -> 'Юля' |
+| 14 | Юля | Да нет. Спасибо, Вениамин Игоревич. | No, not at all. 'Thank you, Veniamin Igorevich.' Here 'thank you' sets up the idea, while 'Igorevich' comes at the end for emphasis. | #178: Да нет<br>#179: Спасибо, Вениамин Игоревич | verbatim |
+| 15 | Игнатьев | Подожди. Купи себе платье или бабушке что-нибудь. | Wait. Buy yourself a dress or something for your grandmother. | #180: подожди<br>#181: Купи себе платье<br>#183: или бабушке что-нибудь | verbatim |
+| 16 | Юля | Спасибо, вы меня балуете! | Thank you, you're spoiling me! | #184: Спасибо, вы меня<br>#184: балуете | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -41,7 +41,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Through an ad.', Ignatyev answers seriously.
 - He repeats the tale Yulya told him when she was hired: 'The girl is an orphan, she has a tragedy.'
 - According to Yulya's story, 'Her mother was hit by a train.'
-- 'And her father jumped from the twentieth floor' out of grief.
+- 'And her father jumped from the twentieth floor.' He did it out of grief in her dramatic story.
 - Now 'She lives with her grandmother.'
 - 'Her grandmother is sick all the time.' Notice how the verb meaning 'is sick' governs 'the time' in the object form form here.
 - Vasya chuckles cynically: 'Well, that's even better!'

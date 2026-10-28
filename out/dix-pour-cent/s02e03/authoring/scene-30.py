@@ -51,5 +51,5 @@ WALK = [
     (13, None, "'I heard you talking last night.' Moved by their midnight heart-to-heart, the officer admits he overheard them talking."),
     (14, None, "'Everyone has fear. He must make this movie.' The officer shows deep empathy for the young actor."),
     (15, None, "'Thank you very much!' Gabriel expresses immense gratitude."),
-    (16, None, "'Should I drive? No.' Norman jokes about his missing driver's license."),
+    (16, None, "'Should I drive? No.' Norman jokes about his missing driver's license. Now listen to the whole scene again at normal speed, and see how much more you catch."),
 ]

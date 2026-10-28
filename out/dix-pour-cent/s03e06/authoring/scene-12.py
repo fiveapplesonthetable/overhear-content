@@ -43,7 +43,7 @@ WALK = [
     (8, None, "'This text is perfect, I wrote it!' The director indignantly defends his authorship."),
     (9, None, "'She is right, the words do not flow.' Isabelle agrees that the phrasing feels awkward."),
     (10, None, "'A ghost never speaks in the story.' Camille suggests an elegant atmospheric solution."),
-    (11, None, "'You want to delete all the lines?' The director is taken aback by cutting dialogue."),
+    (11, None, "'You want to delete all the lines?' The filmmaker cuts dialogue."),
     (12, None, "'Yes, a silent gaze will be much stronger.' Camille makes a persuasive artistic case."),
-    (13, None, "'Perfect, I can finally play this role.' Isabelle gladly welcomes a silent performance."),
+    (13, None, "'Perfect, I can finally play this role.' Isabelle gladly welcomes a silent performance. Now let's listen to the complete discussion once more to reinforce the vocabulary."),
 ]

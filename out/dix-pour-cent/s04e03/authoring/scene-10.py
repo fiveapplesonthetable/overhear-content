@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'I am extremely claustrophobic!' Gabriel reveals his severe phobia of confined spaces."),
     (11, None, "'Breathe calmly, they will help us.' Elise instructs Gabriel to steady his breathing."),
     (12, None, "'I send an emergency text to Andrea.' Gabriel frantically pulls out his phone to seek rescue."),
-    (13, None, "'We are going to spend time together!' Elise ironically remarks that fate has forced them to bond."),
+    (13, None, "'We are going to spend time together!' Elise ironically remarks that fate has forced them to bond. Now let's listen to the complete discussion once more to reinforce the vocabulary."),
 ]

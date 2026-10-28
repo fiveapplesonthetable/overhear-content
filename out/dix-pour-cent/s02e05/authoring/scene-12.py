@@ -49,5 +49,5 @@ WALK = [
     (12, None, "'Something deeper, that would bring us closer one day.' Andrea speaks of an enduring bond."),
     (13, None, "'And you are not angry with me?' Camille seeks final reassurance."),
     (14, None, "'No, not at all. We are like a family.' Andrea reaffirms their sisterly connection."),
-    (15, None, "'Thank you, Andréa. That makes me feel good.' Camille finds comfort in her friendship."),
+    (15, None, "'Thank you, Andréa. That makes me feel good.' Camille finds comfort in her friendship. Now let's listen to the entire dialogue once more to lock in what you have learned."),
 ]

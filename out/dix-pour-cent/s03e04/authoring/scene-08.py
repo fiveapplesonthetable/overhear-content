@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'Cut! That is a wrap on this take!' The director halts the filming."),
     (11, None, "'Magnificent, Isabelle, bravo for this scene.' The director praises the actress enthusiastically."),
     (12, None, "'Thank you, this take was very intense.' Isabelle steps out of character."),
-    (13, None, "'Your emotion was absolutely perfect.' The director reiterates his admiration."),
+    (13, None, "'Your emotion was absolutely perfect.' The director reiterates his admiration. Now let's listen to the entire dialogue once more to lock in what you have learned."),
 ]

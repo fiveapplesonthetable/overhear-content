@@ -24,7 +24,7 @@ STORY = [
     ('leopoldine', 'Oui, surtout pour des concerts.', 'Yes, especially for concerts.', [(596, 'Oui, principalement dans la musique.')], ''),
     ('leopoldine', "J'ai organisé des spectacles de cirque.", 'I organized circus performances.', [(603, 'Pour les numéros de cirque aussi.')], ''),
     ('gabriel', 'Vous connaissez bien nos acteurs?', 'Do you know our actors well?', [(605, 'Il y a quand même beaucoup de jeunes, là-bas.')], ''),
-    ('leopoldine', "J'adore tous les artistes d'ASK.", 'I love all of ASK', [(606, "C'est vrai, j'ai amené plein de gamins.")], ''),
+    ('leopoldine', "J'adore tous les artistes d'ASK.", "I love all of ASK's artists.", [(606, "C'est vrai, j'ai amené plein de gamins.")], ''),
     ('hicham', "Vous avez beaucoup d'énergie positive.", 'You have lots of positive energy.', [(607, 'Cette frange est tellement convaincante !')], ''),
     ('leopoldine', 'Merci beaucoup pour ce joli compliment.', 'Thank you very much for that nice compliment.', [(608, "Je sais pas si c'est un compliment, mais merci.")], ''),
     ('gabriel', "Le travail d'assistant est difficile.", 'The assistant job is difficult.', [(610, 'Tout te va.')], ''),
@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'Thank you very much for that nice compliment.' Leopoldine politely accepts the encouraging feedback."),
     (11, None, "'The assistant job is difficult.' Gabriel reminds her of the intense demands of the position."),
     (12, None, "'I am ready for this job.' She confidently affirms her readiness to tackle the challenges."),
-    (13, None, "'That is perfect, we will think about it.' Hicham concludes the meeting courteously."),
+    (13, None, "'That is perfect, we will think about it.' Hicham concludes the meeting courteously. Now let's listen to the entire exchange once more from beginning to end."),
 ]

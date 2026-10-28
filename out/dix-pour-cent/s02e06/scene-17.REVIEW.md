@@ -24,8 +24,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 12 | Andréa | Les actrices ne sont pas des courtisanes! | Actresses are not courtesans! | #467: qu'on n'est plus au XIXe siècle<br>#468: et que les actrices ne sont ni des courtisanes | verbatim |
 | 13 | Gabriel | Tu dois utiliser tes talents diplomatiques. | You must use your diplomatic skills. | #466: je compte sur vos talents diplomatiques | verbatim |
 | 14 | Andréa | Je refuse de céder à ses caprices ridicules. | I refuse to give in to his ridiculous whims. | #480: Mais c'est ridicule ! | verbatim |
-| 15 | Gabriel | Pense au financement du prochain film de Juliette. | Think about the financing of Juliette | #474: Le film que Juliette veut réaliser<br>#475: Il faut un financement. | verbatim |
+| 15 | Gabriel | Pense au financement du prochain film de Juliette. | Think about the financing of Juliette's next movie. | #474: Le film que Juliette veut réaliser<br>#475: Il faut un financement. | verbatim |
 | 16 | Andréa | D'accord, je vais lui parler avec fermeté. | Alright, I will speak to him with firmness. | #481: Je suis désolé, mais il y a des règles strictes. | verbatim |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -44,4 +45,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'You must use your diplomatic skills.' Gabriel counsels tact over confrontation.
 - 'I refuse to give in to his ridiculous whims.' Andréa remains determined.
 - 'Think about the financing of Juliette's next movie.' Gabriel highlights the high financial stakes.
-- 'Alright, I will speak to him with firmness.' Andréa accepts the diplomatic mission.
+- 'Alright, I will speak to him with firmness.' Andréa accepts the diplomatic mission. Now let's listen to the strategic conversation once more at normal pace.

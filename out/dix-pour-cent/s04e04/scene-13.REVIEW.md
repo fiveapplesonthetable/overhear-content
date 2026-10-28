@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Camille | Maintenant, reprends tes affaires et sors! | Now, take back your things and get out! | #924: reprends tes chaussures | verbatim |
 | 14 | Sofia | Voilà, je te rends tes chaussures! | There, I give you back your shoes! | #925: rends-les<br>#925: Voilà | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Camille, Gabriel and Sarah are arguing!' Sofia eagerly shares the latest hallway drama.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'You do not want to work, Sofia!' Camille loses her temper at her client's unprofessional attitude.
 - 'You do not want to be an actress.' Camille accuses Sofia of preferring celebrity glamour over real acting.
 - 'Now, take back your things and get out!' Camille demands her shoes back and orders Sofia to leave.
-- 'There, I give you back your shoes!' Sofia angrily kicks off the heels and storms out of the room.
+- 'There, I give you back your shoes!' Sofia angrily kicks off the heels and storms out of the room. Now let's listen to the complete discussion once more to reinforce the vocabulary.

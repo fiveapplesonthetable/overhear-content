@@ -25,19 +25,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Samy | Merci Gérard, vous êtes un vrai grand! | Thank you Gerard, you are a truly great person! | #1238: La classe. | verbatim |
 | 14 | Gérard | Nous allons faire ce film ensemble. | We are going to make this film together. | #1241: rappeler Emma | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I did not know about your back.' A polite acknowledgment of physical vulnerability.
-- 'After fifty films, we hurt everywhere!' A humorous complaint describing long-term physical wear.
-- 'You really made fifty films?' An impressed question marveling at his vast filmography.
-- 'No, in reality, it is seventy films!' A proud correction updating the film count.
-- 'That is a very fine career, Gerard.' A respectful compliment honoring his artistic legacy.
-- 'It is true, a story with lots of class.' A satisfied agreement reflecting on an honorable journey.
-- 'And me, I have seventy coffees to serve.' A witty parallel linking cinema to catering duties.
-- 'Seventy-one coffees, my friend!' A playful tease adding another coffee to the tally.
-- 'I have to go back to work at the bar.' A practical statement returning to daily reality.
-- 'Wait, I am going to sort everything out for you.' A reassuring promise of professional intervention.
-- 'You want to speak to the director?' A curious question asking about his plan of action.
-- 'I am going to call Emma back immediately.' A decisive commitment to contact the filmmaker.
-- 'Thank you Gerard, you are a truly great person!' An affectionate exclamation admiring his generous spirit.
-- 'We are going to make this film together.' An inspiring pledge promising cinematic collaboration.
+- 'I did not know about your back.' Samy politely acknowledges that he did not know about Gérard's back pain.
+- 'After fifty films, we hurt everywhere!' Gérard describes long-term physical wear.
+- 'You really made fifty films?' Samy marvels at his vast filmography.
+- 'No, in reality, it is seventy films!' Gérard updates the film count.
+- 'That is a very fine career, Gerard.' Samy honors his artistic legacy.
+- 'It is true, a story with lots of class.' Gérard reflects on an honorable journey.
+- 'And me, I have seventy coffees to serve.' Samy links cinema to catering duties.
+- 'Seventy-one coffees, my friend!' Gérard adds another coffee to the tally.
+- 'I have to go back to work at the bar.' Samy returns to daily reality.
+- 'Wait, I am going to sort everything out for you.' Gérard promises reassuringly to sort everything out for him.
+- 'You want to speak to the director?' Samy asks about his plan of action.
+- 'I am going to call Emma back immediately.' Gérard commits to calling the director back immediately.
+- 'Thank you Gerard, you are a truly great person!' Samy admires his generous spirit.
+- 'We are going to make this film together.' Gérard promises cinematic collaboration. Now let's listen to Samy and Gerard again at full speed.

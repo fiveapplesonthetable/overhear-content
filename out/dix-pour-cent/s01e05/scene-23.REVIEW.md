@@ -17,14 +17,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 5 | Sofia | Coupée? | Cut? | #495: Coupée | verbatim |
 | 6 | L'assistant | On veut les esclaves derrière le château, d'accord? | We want the slaves behind the chateau, okay? | #496: On veut<br>#496: les esclaves<br>#497: derrière le château<br>#497: d'accord | verbatim |
 | 7 | Sofia | Excusez-moi! Ma scène est coupée? | Excuse me! My scene is cut? | #498: Excusez-moi<br>#498: scène<br>#498: coupée | verbatim |
-| 8 | L'assistant | Oui, elle n'est pas utile. | Yes, it isn | #499: Elle | verbatim |
-| 9 | Sofia | Pourquoi? On ne peut pas couper une scène comme ça! | Why? You can | #500: Pourquoi<br>#501: On ne peut pas couper une scène comme ça | verbatim |
+| 8 | L'assistant | Oui, elle n'est pas utile. | Yes, it isn't needed. | #499: Elle | verbatim |
+| 9 | Sofia | Pourquoi? On ne peut pas couper une scène comme ça! | Why? You can't cut a scene like that! | #500: Pourquoi<br>#501: On ne peut pas couper une scène comme ça | verbatim |
 | 10 | L'assistant | On a déjà assez de problèmes aujourd'hui. | We already have enough problems today. | #502: On a déjà assez de problèmes | verbatim |
 | 11 | Sofia | C'est à cause de Joey? | Is it because of Joey? | #503: C'est à cause de Joey | verbatim |
-| 12 | Sofia | Il ne voulait pas jouer avec moi? | He didn | #504: Il ne voulait pas jouer avec moi | verbatim |
+| 12 | Sofia | Il ne voulait pas jouer avec moi? | He didn't want to act with me? | #504: Il ne voulait pas jouer avec moi | verbatim |
 | 13 | L'assistant | Écoutez, j'ai quinze chevaux à préparer. | Listen, I have fifteen horses to get ready. | #505: Écoutez<br>#506: J'ai<br>#506: chevaux | verbatim |
 | 14 | L'assistant | Allez avec les autres, s'il vous plaît. Merci. | Go with the others, please. Thank you. | #507: s'il vous plaît<br>#507: les autres<br>#508: Merci | verbatim |
-| 15 | Sofia | Ce n'est pas juste! | It | new | new |
+| 15 | Sofia | Ce n'est pas juste! | It's not fair! | new | new |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -38,7 +39,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Yes, it isn't needed.' Literally 'it is not useful'. He brushes her off.
 - 'Why? You can't cut a scene like that!' Here the little word for 'we' or 'one' means 'you' or 'people'.
 - 'We already have enough problems today.' After the word for 'enough', French uses the little word for 'of' with no article.
-- 'Is it because of Joey?' The three-word phrase before his name means 'because of'.
+- 'Is it because of Joey?' This three-word phrase before his name means 'because of'.
 - 'He didn't want to act with me?' Sofia remembers how nervous she was earlier when she rehearsed for him, and blames herself.
 - 'Listen, I have fifteen horses to get ready.' The plural of 'horse' changes its ending from 'al' to 'aux'.
 - 'Go with the others, please. Thank you.' He hurries away, leaving Sofia alone in the courtyard.

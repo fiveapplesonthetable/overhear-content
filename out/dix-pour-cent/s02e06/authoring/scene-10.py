@@ -18,9 +18,9 @@ CLOSING = ('renard', 'Bonne soirée!')
 STORY = [
     ('andrea', "J'en déduis que les bijoux Chopard sont arrivés. Bonjour.", 'I deduce that the Chopard jewelry has arrived. Hello.', [(213, "J'en déduis que les bijoux Chopard sont arrivés. Bonjour.")], ''),
     ('renard', 'Qui êtes-vous, madame?', 'Who are you, madam?', [(217, 'Qui êtes-vous, madame ?')], ''),
-    ('andrea', "Andréa Martel, l'agent de Juliette Binoche.", 'Andréa Martel, Juliette Binoche', [(218, "Andréa Martel, l'agent de Juliette Binoche.")], ''),
+    ('andrea', "Andréa Martel, l'agent de Juliette Binoche.", "Andréa Martel, Juliette Binoche's agent.", [(218, "Andréa Martel, l'agent de Juliette Binoche.")], ''),
     ('renard', 'Vous devez attendre ici, madame.', 'You must wait here, madam.', [(217, 'madame ?')], ''),
-    ('andrea', "Vous n'êtes pas le garde du corps des bijoux?", 'Aren', [(215, "Vous n'êtes pas le garde du corps des bijoux ?")], ''),
+    ('andrea', "Vous n'êtes pas le garde du corps des bijoux?", "Aren't you the jewelry bodyguard?", [(215, "Vous n'êtes pas le garde du corps des bijoux ?")], ''),
     ('renard', 'Je protège la sécurité de la chambre.', 'I protect the security of the room.', [(222, 'la chambre 403.')], ''),
     ('andrea', 'Quoi, alors? Antiterrorisme?', 'What then? Counter-terrorism?', [(216, 'Quoi, alors ? Antiterrorisme ?')], ''),
     ('renard', "Ici Renard. J'ai une certaine Martel à la chambre 403.", 'Renard here. I have a certain Martel at room 403.', [(222, "Ici Renard. J'ai une certaine Martel à la chambre 403.")], ''),
@@ -49,5 +49,5 @@ WALK = [
     (12, None, "'Okay, I understand.' Renard receives confirmation on his radio."),
     (13, None, "'It is all right, you can go in.' Renard steps aside to permit entry."),
     (14, None, "'Thank you very much, Renard.' Andrea acknowledges the bodyguard with cool irony."),
-    (15, None, "'Have a good day, madam.' Renard concludes the exchange with professional courtesy."),
+    (15, None, "'Have a good day, madam.' Renard concludes the exchange with professional courtesy. Now let's listen to the entire dialogue once more to lock in what you have learned."),
 ]

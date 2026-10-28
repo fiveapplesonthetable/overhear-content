@@ -26,7 +26,7 @@ STORY = [
     ('gabriel', 'Mes amis nous attendent là-bas.', 'My friends are waiting for us there.', [(1099, 'va être de la bombe')], ''),
     ('sarah', 'As-tu prévu un bon transport?', 'Did you arrange good transportation?', [(1100, "besoin d'un transport")], ''),
     ('gabriel', 'Oui, un taxi attend dehors.', 'Yes, a taxi is waiting outside.', [(1100, "besoin d'un transport")], ''),
-    ('sarah', "D'accord, partons tout de suite.", 'All right, let', [(1101, 'on y va')], ''),
+    ('sarah', "D'accord, partons tout de suite.", "All right, let's leave right away.", [(1101, 'on y va')], ''),
     ('gabriel', 'Parfait, nous y allons ensemble.', 'Perfect, we are going there together.', [(1101, 'on y va')], ''),
     ('gabriel', 'Allez, viens avec moi, Sarah!', 'Come on, come with me, Sarah!', [(1102, 'Allez, viens')], ''),
     ('camille', 'Passez une très bonne nuit!', 'Have a very good night!', [(1095, 'Au revoir, Camille')], ''),

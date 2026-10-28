@@ -37,7 +37,7 @@ WALK = [
     (0, 'Всё по-новому.', "'Everything is in a new way.' Eduard Vladimirovich is enjoying a quiet morning with Marina."),
     (0, 'Нам сейчас никто не будет мешать.', "'No one will bother us now.' This phrase means 'to us'."),
     (1, None, "'Oh! What is the matter?' Suddenly Arkady's heavy plaster cast bangs the door open."),
-    (2, 'Извините, ради бога!', "'Forgive me, for goodness' sake!' Literally 'for the sake of God'."),
+    (2, 'Извините, ради бога!', "'Forgive me, for heaven's sake!' Literally 'for the sake of God'."),
     (2, 'Я хотел постучаться и не рассчитал.', "'I wanted to knock and miscalculated.' With both arms in plaster casts, he swung too hard."),
     (3, 'Я хочу извиниться за вчерашнее.', "'I want to apologise for yesterday.' The adjective used as a noun means 'yesterday's events'."),
     (3, 'Просто отошёл наркоз, и были дикие боли.', "'The anaesthesia simply wore off, and there were wild pains.' He blames the hospital painkillers for his rude behaviour the night before."),

@@ -28,7 +28,7 @@ STORY = [
     ('isabelle', 'Tout a dégénéré avec Ben Stiller.', 'Everything fell apart with Ben Stiller.', [(866, 'dégénéré entre le metteur en scène et Ben Stiller')], ''),
     ('isabelle', 'Ils ont commencé à se disputer.', 'They started arguing with each other.', [(867, 'venue aux mains')], ''),
     ('isabelle', 'Le tournage américain est interrompu.', 'The American shoot is suspended.', [(869, 'tournage interrompu')], ''),
-    ('isabelle', "C'est vraiment génial, non?", 'That is truly genius, isn', [(870, "C'est cool, non")], ''),
+    ('isabelle', "C'est vraiment génial, non?", "That is truly genius, isn't it?", [(870, "C'est cool, non")], ''),
     ('gabriel', 'Tu es incroyable, Isabelle!', 'You are incredible, Isabelle!', [(870, "C'est cool")], ''),
 ]
 WALK = [

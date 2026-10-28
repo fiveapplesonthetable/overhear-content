@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Camille | D'accord, avance lentement par ici. | Okay, walk forward slowly this way. | #386: Il est là | verbatim |
 | 14 | Valentin | Voilà, je te suis avec grand plaisir. | There, I am following you with great pleasure. | #387: Voilà | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Come in discreetly, we must not make noise.' Camille welcomes Valentin after hours.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Thank you, Valentin, that is kind to say.' Camille appreciates his support.
 - 'Then show me where you work every day.' Valentin urges a tour.
 - 'Okay, walk forward slowly this way.' Camille leads the way quietly.
-- 'There, I am following you with great pleasure.' Valentin follows her down the hallway.
+- 'There, I am following you with great pleasure.' Valentin follows her down the hallway. Now let's listen to the entire dialogue once more to lock in what you have learned.

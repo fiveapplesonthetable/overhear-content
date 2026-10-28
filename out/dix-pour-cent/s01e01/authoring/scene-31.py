@@ -16,26 +16,26 @@ TRANSITION = "Now let's listen to the entire dialogue once more."
 OUTRO = "And that's how Camille got her job back. Don't worry if some lines went by quickly; you'll recognise the formal 'you' and the 'going to' future when you watch the episode. See you next time!"
 CLOSING = ('camille', 'À demain, Andréa!')
 STORY = [
-    ('camille', "Voilà. J'ai les chiffres que vous vouliez.", 'There. I have the figures you wanted.', [(805, "J'ai les chiffres que vous vouliez")], ''),
+    ('camille', "Voilà. J'ai les chiffres que vous vouliez.", 'I have the figures you wanted.', [(805, "J'ai les chiffres que vous vouliez")], ''),
     ('camille', 'Au revoir, Andréa.', 'Goodbye, Andréa.', [], ''),
-    ('andrea', "Je vous rappelle, d'accord?", 'I', [(806, "Je vous rappelle, d'accord")], ''),
+    ('andrea', "Je vous rappelle, d'accord?", "I'll call you back, okay?", [(806, "Je vous rappelle, d'accord")], ''),
     ('andrea', 'Camille, attendez!', 'Camille, wait!', [(807, 'Camille, attendez')], ''),
     ('andrea', 'Richard, bonjour! Le Tchekhov était fabuleux.', 'Richard, hello! The Chekhov was fabulous.', [(809, 'Richard, bonjour'), (810, 'Le Tchekhov était fabuleux')], ''),
-    ('camille', 'Andréa? Mais je ne suis plus votre assistante.', 'Andréa? But I', [], ''),
+    ('camille', 'Andréa? Mais je ne suis plus votre assistante.', "Andréa? But I'm not your assistant anymore.", [], ''),
     ('andrea', 'Bon, donnez-moi les chiffres.', 'Okay, give me the figures.', [(812, 'Bon, donnez-moi les chiffres')], ''),
     ('camille', 'Tenez. Les voilà.', 'Here. There they are.', [], ''),
     ('camille', 'Et alors?', 'So?', [(813, 'Et alors')], ''),
-    ('andrea', 'Je vous garde.', 'I', [(814, 'Je vous garde')], ''),
+    ('andrea', 'Je vous garde.', "I'm keeping you.", [(814, 'Je vous garde')], ''),
     ('camille', "C'est sûr?", 'Really? For sure?', [(815, "C'est sûr")], ''),
     ('andrea', "Oui, c'est sûr.", 'Yes, for sure.', [(815, 'Oui')], ''),
     ('camille', 'Oh, merci! Merci, Andréa!', 'Oh, thank you! Thank you, Andréa!', [(816, 'Merci')], ''),
     ('camille', 'Je veux tellement ce poste!', 'I want this job so much!', [(817, 'Je veux ce poste')], ''),
-    ('camille', 'Je vais tout donner!', 'I', [(818, 'Je vais tout donner')], ''),
+    ('camille', 'Je vais tout donner!', "I'm going to give it everything!", [(818, 'Je vais tout donner')], ''),
     ('andrea', 'Vous allez à votre bureau?', 'Are you going to your desk?', [(820, 'Vous allez à votre bureau')], ''),
     ('camille', 'Oui! Et comment!', 'Yes! You bet!', [(821, 'Oui'), (822, 'Et comment')], ''),
 ]
 WALK = [
-    (0, 'Voilà.', "'There.' A tiny word for 'here it is' or 'that's it', and you'll hear it in every French conversation."),
+    (0, 'Voilà.', "'There.' Camille uses a tiny word for 'here it is' or 'that's it', heard in every French conversation."),
     (0, "J'ai les chiffres que vous vouliez.", "'I have the figures you wanted.' Camille writes the formal 'you' to her boss."),
     (1, None, "'Goodbye, Andréa.' The standard polite goodbye, literally 'until seeing again'. Camille heads for the stairs. Andréa, on the phone, sees the note."),
     (2, None, "'I'll call you back, okay?' She hangs up fast."),

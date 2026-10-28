@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Mathias | Voici deux verres pour fêter ça! | Here are two glasses to celebrate this! | #1029: pour | verbatim |
 | 14 | Camille | Oui, tout va très bien, papa. | Yes, everything is fine, dad. | new | new |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Let us look for this form on his computer.' Camille prepares to search for the legal paperwork.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'He lied to everyone.' Camille sees clearly that Mathias manipulated everyone around him.
 - 'Camille? Did you find that form?' Mathias returns from the kitchen holding two glasses.
 - 'Here are two glasses to celebrate this!' Mathias approaches warmly to toast their reunion.
-- 'Yes, everything is fine, dad.' Camille conceals her devastation behind a composed expression.
+- 'Yes, everything is fine, dad.' Camille conceals her devastation behind a composed expression. Now let's listen to the complete discussion once more to reinforce the vocabulary.

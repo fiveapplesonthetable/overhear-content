@@ -27,6 +27,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 15 | Annick | Vous vous occupez de tout, toujours. | You take care of everything, always. | #419: Vous vous occupez de tout | verbatim |
 | 16 | Mathias | Mieux vaut tard que jamais. | Better late than never. | #422: Mieux vaut tard que jamais | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'I need a drink. Waiter!' Annick signals the server to cope with her nerves.
@@ -44,4 +45,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'And a glass of red wine for me.' Annick chooses wine to steady her emotions.
 - 'I will take care of it.' Mathias offers to cover the order.
 - 'You take care of everything, always.' Annick evokes his habitual need for control.
-- 'Better late than never.' Mathias acknowledges their belated family reunion.
+- 'Better late than never.' Mathias acknowledges their belated family reunion. Now listen to the whole scene again at normal speed, and see how much more you catch.

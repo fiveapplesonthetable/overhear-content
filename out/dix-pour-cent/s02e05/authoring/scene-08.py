@@ -43,5 +43,5 @@ WALK = [
     (9, None, "'These roles are precious for his age.' Andrea reminds them how rare major parts are for older actors."),
     (10, None, "'A movie that collapses is bad for everyone.' Mathias insists that a failed production damages all involved."),
     (11, None, "'Gabriel, you are the one who must speak to him.' Andrea instructs Gabriel to handle the sensitive conversation."),
-    (12, None, "'All right, I am going to break the news to him.' Gabriel reluctantly agrees to talk to Guy."),
+    (12, None, "'All right, I am going to break the news to him.' Gabriel reluctantly agrees to talk to Guy. Now let's listen to the scene once more from start to finish."),
 ]

@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'He lied to everyone.' Camille sees clearly that Mathias manipulated everyone around him."),
     (11, None, "'Camille? Did you find that form?' Mathias returns from the kitchen holding two glasses."),
     (12, None, "'Here are two glasses to celebrate this!' Mathias approaches warmly to toast their reunion."),
-    (13, None, "'Yes, everything is fine, dad.' Camille conceals her devastation behind a composed expression."),
+    (13, None, "'Yes, everything is fine, dad.' Camille conceals her devastation behind a composed expression. Now let's listen to the complete discussion once more to reinforce the vocabulary."),
 ]

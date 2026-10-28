@@ -23,6 +23,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 11 | Virginie | Ramzy ne sait pas que je suis là. | Ramzy does not know that I am here. | new | new |
 | 12 | Virginie | Nous allons régler nos comptes en direct. | We are going to settle our scores live. | new | new |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'I think your dog likes me, Michel!' On the talk-show sofa, Ramzy jokes that Michel Drucker's dog likes him.
@@ -35,5 +36,5 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'My judo teacher from when I was ten?' The imperfect tense of avoir used for age.
 - 'I do not know, it is a surprise!' The host smiles that her sudden appearance on the show is a surprise.
 - 'It is my turn to go on stage.' Furious over the pay gap, Virginie announces it is her turn to take the stage.
-- 'Ramzy does not know that I am here.' A negative clause followed by the adverb la.
+- 'Ramzy does not know that I am here.' Virginie admits that Ramzy does not know she is here.
 - 'We are going to settle our scores live.' Virginie warns Ramzy that they are going to settle scores on live television.

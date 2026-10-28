@@ -41,5 +41,5 @@ WALK = [
     (8, None, "'For a young professor, I thought that was compelling.' She loved the idea of a younger love interest."),
     (9, None, "'Gaspard Ulliel is thirty-five years old.' Camille points out the massive age gap."),
     (10, None, "'It is time for things to change.' Sigourney wants to challenge the traditional double standards."),
-    (11, None, "'And Gaspard will be my lover.' She demands that they rewrite the script to give her what she wants. Now let's hear the scene once more."),
+    (11, None, "'And Gaspard will be my lover.' She demands that they rewrite the script to give her what she wants."),
 ]

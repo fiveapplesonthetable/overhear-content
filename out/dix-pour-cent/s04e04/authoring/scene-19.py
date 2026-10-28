@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'I want to do this costume film!' Sandrine states her true artistic desire."),
     (11, None, "'All right, you won, Sandrine.' Gabriel surrenders to her demand."),
     (12, None, "'Do you promise to sign this contract?' Sandrine secures her victory."),
-    (13, None, "'I will call the producer for you tomorrow.' Gabriel pledges to close the deal."),
+    (13, None, "'I will call the producer for you tomorrow.' Gabriel pledges to close the deal. Now let's listen to the complete discussion once more to reinforce the vocabulary."),
 ]

@@ -43,5 +43,5 @@ WALK = [
     (9, None, "'Lows that evoke the Earth.' Julien describes the rich lower frequencies he wants to hear."),
     (10, None, "'And highs like foliage.' Julien compares the higher notes to vibrant tree foliage."),
     (11, None, "'Nature is important in his project.' Gabriel helpfully synthesizes Julien's artistic concept for Sofia."),
-    (12, None, "'It is a very erotic musical!' Julien repeats his favorite phrase with infectious enthusiasm."),
+    (12, None, "'It is a very erotic musical!' Julien repeats his favorite phrase with infectious enthusiasm. Now let's listen to the scene once more from start to finish."),
 ]

@@ -21,9 +21,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 9 | Gabriel | J'ai changé de visage. | I changed my face. | #622: J'ai changé de visage | verbatim |
 | 10 | Le réalisateur | Cette réplique fonctionne très bien. | This line works very well. | #622: J'ai changé de visage | verbatim |
 | 11 | Gabriel | La magie du cinéma opère toujours. | Cinema magic always works. | #621: Cette pâleur spectrale | verbatim |
-| 12 | Le réalisateur | Tournons cette prise sans attendre. | Let | #621: Cette pâleur spectrale | verbatim |
+| 12 | Le réalisateur | Tournons cette prise sans attendre. | Let's film this take without waiting. | #621: Cette pâleur spectrale | verbatim |
 | 13 | Gabriel | Silence sur le plateau, s'il vous plaît! | Silence on set, please! | #621: Cette pâleur spectrale | verbatim |
 | 14 | Le réalisateur | Action! Tout le monde est prêt. | Action! Everyone is ready. | #621: Cette pâleur spectrale | verbatim |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Cinema magic always works.' Gabriel praises the power of artistic illusion.
 - 'Let's film this take without waiting.' The director decides to start rolling.
 - 'Silence on set, please!' Gabriel calls for absolute quiet around the cameras.
-- 'Action! Everyone is ready.' The director begins the crucial camera take.
+- 'Action! Everyone is ready.' The director begins the crucial camera take. Now let's listen to the complete discussion once more to reinforce the vocabulary.

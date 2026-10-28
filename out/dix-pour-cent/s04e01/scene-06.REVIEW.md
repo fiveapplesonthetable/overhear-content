@@ -21,8 +21,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 9 | Mathias | Je souhaite tout le meilleur à notre agence. | I wish all the best to our agency. | #472: souhaiter tout le meilleur à l'Agence Samuel Kerr. | verbatim |
 | 10 | Gabriel | Où vas-tu maintenant? Tu ouvres une boîte? | Where are you going now? Are you opening an agency? | #475: Où vas-tu ensuite ?<br>#476: Tu ouvres une agence ? | verbatim |
 | 11 | Mathias | Vous le saurez au bon moment. | You will know at the right time. | #478: Vous le saurez en temps voulu. | verbatim |
-| 12 | Mathias | Mon choix protège l'avenir de tout le monde. | My choice protects everyone | #481: ma décision était la plus | verbatim |
+| 12 | Mathias | Mon choix protège l'avenir de tout le monde. | My choice protects everyone's future. | #481: ma décision était la plus | verbatim |
 | 13 | Andréa | Bien sûr, on te croit sur parole! | Of course, we believe your word! | #483: Ouais, on te croit vraiment. | verbatim |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -38,4 +39,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Where are you going now? Are you opening an agency?' Gabriel demands to know if Mathias plans to start a rival enterprise.
 - 'You will know at the right time.' Mathias conceals his next career move until the official launch.
 - 'My choice protects everyone's future.' Mathias insists his buyout preserves the agency's stability.
-- 'Of course, we believe your word!' Andrea mocks Mathias's lofty justifications with sharp irony.
+- 'Of course, we believe your word!' Andrea mocks Mathias's lofty justifications with sharp irony. Now let's listen to Mathias's departure speech once more from start to finish.

@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Andréa | Oui, avec grand plaisir, Colette. | Yes, with great pleasure, Colette. | #826: Bien sûr... | verbatim |
 | 14 | Colette | Prenons le temps de nous poser. | Let us take the time to pause. | #824: On était dans le coin | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Colette! What are you doing here?' Andrea is stunned to see Colette outside ASK.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'You are so sweet, my Flora.' Andrea holds her daughter close against her chest.
 - 'Let us take a walk in the park.' Colette suggests stepping away from the office.
 - 'Yes, with great pleasure, Colette.' Andrea agrees gladly to spend time together.
-- 'Let us take the time to pause.' Colette leads the way toward the park bench.
+- 'Let us take the time to pause.' Colette leads the way toward the park bench. Now let's listen to the complete discussion once more to reinforce the vocabulary.

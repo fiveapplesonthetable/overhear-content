@@ -10,23 +10,25 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Audrey | Je n'ai pas eu le temps d'acheter une tenue. | I didn | #540: Je n'ai pas eu le temps d'acheter | verbatim |
-| 2 | Audrey | J'ai un mois. J'ai déjà fait ça, mais il y a longtemps. | I have one month. I've done it before, but a long time ago. | #543: J'ai un mois<br>#544: Il y a longtemps | verbatim |
-| 3 | Audrey | On commence par le carrousel? Oh, c'est rapide! | Do we start with the carousel? Oh, that | #546: Le carrousel<br>#551: Oh, c'est rapide | verbatim |
-| 4 | Audrey | Attention, c'est glissant! | Careful, it | #553: C'est glissant | verbatim |
-| 5 | Audrey | Mon cœur! Maman ne l'a pas fait exprès! | Sweetheart! Mummy didn | #554: Mon cœur ! Maman ne l'a pas fait exprès | verbatim |
+| 1 | Audrey | Je n'ai pas eu le temps d'acheter une tenue. | I didn't have time to buy an outfit. | #540: Je n'ai pas eu le temps d'acheter | verbatim |
+| 2 | Audrey | J'ai un mois. J'ai déjà fait ça, mais il y a longtemps. | I've done it before, but a long time ago. | #543: J'ai un mois<br>#544: Il y a longtemps | verbatim |
+| 3 | Audrey | On commence par le carrousel? Oh, c'est rapide! | Do we start with the carousel? Oh, that's fast! | #546: Le carrousel<br>#551: Oh, c'est rapide | verbatim |
+| 4 | Audrey | Attention, c'est glissant! | Careful, it's slippery! | #553: C'est glissant | verbatim |
+| 5 | Audrey | Mon cœur! Maman ne l'a pas fait exprès! | Sweetheart! Mummy didn't do it on purpose! | #554: Mon cœur ! Maman ne l'a pas fait exprès | verbatim |
 | 6 | Audrey | Fais voir, mon chéri. Je t'ai fait mal? | Let me see, darling. Did I hurt you? | #555: Fais voir, mon chéri. Je t'ai fait mal | verbatim |
 | 7 | Audrey | Bonjour, Mathias. Merci d'être venu. | Hello, Mathias. Thank you for coming. | #557: Bonjour, Mathias<br>#558: Merci d'être venu | verbatim |
 | 8 | Audrey | Traverser Paris avec les enfants, c'est difficile. | Crossing Paris with the children is hard. | #559: Traverser Paris avec | verbatim |
 | 9 | Mathias | Pas de problème, Audrey. | No problem, Audrey. | #560: Pas de problème<br>#557: Audrey | verbatim |
-| 10 | Audrey | Dis bonjour à Mathias. Mais c'est quoi ces bêtises? | Say hello to Mathias. Hey, what is this nonsense? | #561: Dis bonjour à Mathias<br>#563: C'est quoi ces bêtises | verbatim |
-| 11 | Audrey | Elle sent que je pars. Les enfants sont comme des éponges. | She senses that I | #564: Elle sent que je pars. Les enfants sont comme des éponges | verbatim |
-| 12 | Mathias | J'ai apporté cinq exemplaires des contrats. | I | #565: J'ai apporté cinq exemplaires des contrats | verbatim |
+| 10 | Audrey | Dis bonjour à Mathias. Mais c'est quoi ces bêtises? | Hey, what is this nonsense? | #561: Dis bonjour à Mathias<br>#563: C'est quoi ces bêtises | verbatim |
+| 11 | Audrey | Elle sent que je pars. Les enfants sont comme des éponges. | She senses that I'm leaving. Children are like sponges. | #564: Elle sent que je pars. Les enfants sont comme des éponges | verbatim |
+| 12 | Mathias | J'ai apporté cinq exemplaires des contrats. | I've brought five copies of the contracts. | #565: J'ai apporté cinq exemplaires des contrats | verbatim |
 | 13 | Audrey | Attends une seconde. C'est un questionnaire pour la nounou. | Wait a second. This is a questionnaire for the nanny. | #566: Attends une seconde<br>#567: C'est pour la nounou | verbatim |
 | 14 | Mathias | Avez-vous un problème avec l'alcool, le Coca-Cola, les bonbons? | Do you have a problem with alcohol, Coca-Cola, sweets? | #568: un problème avec<br>#568: l'alcool, le Coca-Cola, les bonbons | verbatim |
 | 15 | Mathias | Quoi? Les bonbons? | What? Sweets? | #568: les bonbons<br>#568: Quoi | verbatim |
 | 16 | Audrey | Le sucre est très mauvais! J'ai vu un documentaire. | Sugar is very bad! I saw a documentary. | #569: Le sucre est<br>#570: J'ai vu un documentaire | verbatim |
 | 17 | Audrey | Dis-moi ce que tu en penses. | Tell me what you think of it. | #571: Dis-moi ce que tu en penses | verbatim |
+
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 

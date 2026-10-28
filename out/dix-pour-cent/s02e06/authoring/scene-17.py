@@ -30,7 +30,7 @@ STORY = [
     ('andrea', 'Les actrices ne sont pas des courtisanes!', 'Actresses are not courtesans!', [(467, "qu'on n'est plus au XIXe siècle"), (468, 'et que les actrices ne sont ni des courtisanes')], ''),
     ('gabriel', 'Tu dois utiliser tes talents diplomatiques.', 'You must use your diplomatic skills.', [(466, 'je compte sur vos talents diplomatiques')], ''),
     ('andrea', 'Je refuse de céder à ses caprices ridicules.', 'I refuse to give in to his ridiculous whims.', [(480, "Mais c'est ridicule !")], ''),
-    ('gabriel', 'Pense au financement du prochain film de Juliette.', 'Think about the financing of Juliette', [(474, 'Le film que Juliette veut réaliser'), (475, 'Il faut un financement.')], ''),
+    ('gabriel', 'Pense au financement du prochain film de Juliette.', "Think about the financing of Juliette's next movie.", [(474, 'Le film que Juliette veut réaliser'), (475, 'Il faut un financement.')], ''),
     ('andrea', "D'accord, je vais lui parler avec fermeté.", 'Alright, I will speak to him with firmness.', [(481, 'Je suis désolé, mais il y a des règles strictes.')], ''),
 ]
 WALK = [
@@ -49,5 +49,5 @@ WALK = [
     (12, None, "'You must use your diplomatic skills.' Gabriel counsels tact over confrontation."),
     (13, None, "'I refuse to give in to his ridiculous whims.' Andréa remains determined."),
     (14, None, "'Think about the financing of Juliette's next movie.' Gabriel highlights the high financial stakes."),
-    (15, None, "'Alright, I will speak to him with firmness.' Andréa accepts the diplomatic mission."),
+    (15, None, "'Alright, I will speak to him with firmness.' Andréa accepts the diplomatic mission. Now let's listen to the strategic conversation once more at normal pace."),
 ]

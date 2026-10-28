@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Camille | Attends, reste, je suis désolée Valentin. | Wait, stay, I am sorry Valentin. | #439: reste<br>#444: Pardon si je t'ai fait douter | verbatim |
 | 14 | Camille | Pardon, c'est entièrement de ma faute. | Sorry, it is entirely my fault. | #445: Pardon c'est ma faute | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'You must leave over there immediately!' Valentin recites his dramatic audition dialogue loudly.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Keep your face calm like a mask.' Camille urges a restrained, interior performance.
 - 'You know what, forget it, I stop!' Valentin feels hurt and threatens to walk away.
 - 'Wait, stay, I am sorry Valentin.' Camille rushes to comfort her vulnerable boyfriend.
-- 'Sorry, it is entirely my fault.' Camille softens the critique to rebuild his confidence.
+- 'Sorry, it is entirely my fault.' Camille softens the critique to rebuild his confidence. Now let's listen to the entire dialogue once more to lock in what you have learned.

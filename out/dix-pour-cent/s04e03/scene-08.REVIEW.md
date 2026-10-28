@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Élise | Ton accueil est vraiment très direct! | Your welcome is really very direct! | #306: C'est le moins qu'on puisse dire | verbatim |
 | 14 | Andréa | Pardon, nous sommes tous très fatigués. | Excuse us, we are all very tired. | #307: Désolé | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Thank you all for your welcome at ASK.' Elise opens her speech with polite gratitude.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I propose a very clear toast.' Gabriel steps forward with bitter sarcasm.
 - 'To the end of our principles!' Gabriel raises his glass in solemn protest against the buyout.
 - 'Your welcome is really very direct!' Elise reacts with cool poise to Gabriel's blunt hostility.
-- 'Excuse us, we are all very tired.' Andrea apologizes to cover for her partner's explosive outburst.
+- 'Excuse us, we are all very tired.' Andrea apologizes to cover for her partner's explosive outburst. Now let's listen to the complete discussion once more to reinforce the vocabulary.

@@ -13,7 +13,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 1 | Andréa | Comment tu vas? | How are you? | #681: Comment tu vas | verbatim |
 | 2 | Andréa | Tu es où? | Where are you? | #682: Tu es où | verbatim |
 | 3 | Andréa | Arrête avec le mystère. | Stop with the mystery. | #683: arrête avec le mystère | verbatim |
-| 4 | Andréa | Je n'en peux plus. | I can | #683: je n'en peux plus | verbatim |
+| 4 | Andréa | Je n'en peux plus. | I can't take it anymore. | #683: je n'en peux plus | verbatim |
 | 5 | Andréa | Tu reviens quand? | When are you coming back? | #689: Tu reviens quand | verbatim |
 | 6 | Andréa | Coucou chérie, c'est maman. | Hi darling, it is mommy. | #692: Coucou chérie, c'est maman | verbatim |
 | 7 | Andréa | Je te vois très bientôt. | I will see you very soon. | #693: je te vois très bientôt | verbatim |
@@ -25,19 +25,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Arlette | Elle voulait voir des plumes et des paillettes. | She wanted to see feathers and glitter. | #725: elle voulait voir des plumes et des paillettes | verbatim |
 | 14 | Arlette | Je suis agent. | I am an agent. | #732: Je suis agent | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'How are you?' Andrea asks anxiously on the phone.
-- 'Where are you?' she asks her partner Colette.
-- 'Stop with the mystery.' she demands, tired of guessing.
+- 'Where are you?' She announces to the agency that the star wants out of his latest film.
+- 'Stop with the mystery.' She whispers this to her colleague.
 - 'I can't take it anymore.' Andrea sighs in exhaustion.
-- 'When are you coming back?' she asks hopefully.
-- 'Hi darling, it is mommy.' she coos to her baby.
-- 'I will see you very soon.' she promises softly.
-- 'Take care of yourself.' she whispers before hanging up.
-- 'Can you explain to us what is happening?' she asks Arlette.
+- 'When are you coming back?' She complains to the partners.
+- 'Hi darling, it is mommy.' She sighs as she watches the young actors rehearse.
+- 'I will see you very soon.' The older agent adds this dryly.
+- 'Take care of yourself.' She says this to her assistant.
+- 'Can you explain to us what is happening?' She mutters this as she reads the script.
 - 'What is this mess?' Andrea asks, looking at the crowd.
 - 'We partied.' Arlette replies smoothly.
 - 'That is where she met her Romeo.' Arlette explains.
-- 'She wanted to see feathers and glitter.' the older agent adds.
-- 'I am an agent.' Arlette shrugs, proud of her networking. Now let's hear the whole thing.
+- 'She wanted to see feathers and glitter.' She snaps at the director.
+- 'I am an agent.' Arlette shrugs, proud of her networking.

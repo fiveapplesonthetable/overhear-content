@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Gabriel | Un grand bravo pour ton talent. | A big bravo for your talent. | new | new |
 | 14 | Sandrine | Merci pour ton fidèle soutien, Gabriel. | Thank you for your faithful support, Gabriel. | new | new |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Congratulations on this beautiful evening, Sandrine!' Gabriel applauds the star actress as she steps off the stage.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Come, your fans are waiting at the dressing rooms.' Gabriel guides the leading lady toward greeting her guests.
 - 'I am coming, let us let the stage rest.' Sandrine takes a last look back at the quiet empty stage.
 - 'A big bravo for your talent.' Gabriel reiterates his boundless admiration for her artistic dedication.
-- 'Thank you for your faithful support, Gabriel.' Sandrine expresses deep appreciation for Gabriel's companionship.
+- 'Thank you for your faithful support, Gabriel.' Sandrine expresses deep appreciation for Gabriel's companionship. Now let's listen to Gabriel and Sandrine's exchange once more from start to finish.

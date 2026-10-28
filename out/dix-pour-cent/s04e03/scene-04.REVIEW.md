@@ -23,7 +23,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 11 | Andréa | Tu as fait ce qu'il fallait. | You did what was necessary. | #104: ce qu'il fallait faire | verbatim |
 | 12 | José | Regarde, mon hoquet est enfin parti! | Look, my hiccup is finally gone! | #109: C'est parti ! | verbatim |
 | 13 | Andréa | Qu'est-ce que je t'avais dit? | What did I tell you? | #110: Qu'est-ce que je t'avais dit ? | verbatim |
-| 14 | José | Allez, on y va maintenant! | Come on, let | #111: Allez ! On y va ! | verbatim |
+| 14 | José | Allez, on y va maintenant! | Come on, let's go now! | #111: Allez ! On y va ! | verbatim |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'You did what was necessary.' Andrea reassures him that he made the right choice.
 - 'Look, my hiccup is finally gone!' Jose realizes that the emotional release cured him.
 - 'What did I tell you?' Andrea smiles at the successful cure of his hiccups.
-- 'Come on, let's go now!' Jose returns eagerly to the set to resume filming.
+- 'Come on, let's go now!' Jose returns eagerly to the set to resume filming. Now let's listen to Jose and Andrea's full conversation once again from start to finish.

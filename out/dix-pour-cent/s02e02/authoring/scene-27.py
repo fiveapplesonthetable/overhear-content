@@ -16,7 +16,7 @@ TRANSITION = "Now let's listen to the whole discussion again without stopping."
 OUTRO = 'Hicham has ruthlessly fired Andréa, asserting his complete authority as majority owner. Andréa faces exile from the agency she helped build. See you next time!'
 CLOSING = ('andrea', 'Au revoir!')
 STORY = [
-    ('mathias', 'Vous êtes sur la messagerie de Mathias.', 'You have reached Mathias', [(896, 'Bonjour, vous êtes sur la messagerie de Mathias Barneville.')], ''),
+    ('mathias', 'Vous êtes sur la messagerie de Mathias.', "You have reached Mathias's voicemail.", [(896, 'Bonjour, vous êtes sur la messagerie de Mathias Barneville.')], ''),
     ('mathias', 'Laissez un message après le bip.', 'Leave a message after the beep.', [(897, 'Laissez un message et je vous rappellerai.')], ''),
     ('andrea', 'Mathias ne répond toujours pas.', 'Mathias is still not answering.', [(898, 'tu as vu Mathias ?')], ''),
     ('andrea', 'Bonjour, Hicham. Je suis désolée.', 'Hello, Hicham. I am sorry.', [(902, 'Bonjour.'), (903, 'Désolée pour hier soir.')], ''),
@@ -35,21 +35,21 @@ STORY = [
     ('hicham', 'Laisse ton ordinateur et tes dossiers.', 'Leave your computer and your files.', [(920, 'Laisse tout ce qui appartient'), (921, 'ordinateur, clients... tout.')], ''),
 ]
 WALK = [
-    (0, None, "'You have reached Mathias's voicemail.' A standard French greeting on an answering machine."),
+    (0, None, "'You have reached Mathias's voicemail.' Mathias's phone plays a standard French voicemail greeting."),
     (1, None, "'Leave a message after the beep.' Mathias's voicemail greeting instructs callers to leave a message after the beep."),
     (2, None, "'Mathias is still not answering.' Andréa sighs in frustration that Mathias is still not picking up his phone."),
-    (3, None, "'Hello, Hicham. I am sorry.' A polite opening apology addressed to her boss."),
+    (3, None, "'Hello, Hicham. I am sorry.' Andréa begins with a polite apology to her boss."),
     (4, None, "'Last night, the situation was difficult.' Andréa explains that the situation with Fabrice Luchini was difficult the night before."),
-    (5, None, "'The honeymoon is over.' A metaphor announcing the end of good relations."),
+    (5, None, "'The honeymoon is over.' Hicham announces the end of good relations."),
     (6, None, "'Take your things and go away.' Hicham snaps and orders Andréa to pack her things and get out."),
-    (7, None, "'Stop it, Hicham, be reasonable.' An imperative followed by the subjunctive form of etre."),
+    (7, None, "'Stop it, Hicham, be reasonable.' Andréa urges Hicham to stop and be reasonable."),
     (8, None, "'There are limits here.' Hicham warns the partners that there are limits to what he will tolerate here."),
-    (9, None, "'We are not animals.' A formal first-person plural negative statement."),
-    (10, None, "'What more do you want?' An idiomatic question with de plus meaning further."),
+    (9, None, "'We are not animals.' Hicham dryly reminds her that they are not animals."),
+    (10, None, "'What more do you want?' Andréa asks indignantly what more he could possibly want."),
     (11, None, "'Go home now.' Furious at her rebellion, Hicham orders Andréa to go home at once."),
     (12, None, "'You cannot fire me!' Andréa shoots back that he cannot fire a founding partner of the agency."),
     (13, None, "'And why not?' Hicham challenges her to say why he cannot dismiss her."),
-    (14, None, "'I am a partner in the agency.' The feminine noun associee referring to her partnership status."),
+    (14, None, "'I am a partner in the agency.' Andréa refers to her partnership status."),
     (15, None, "'I am the majority shareholder.' Hicham reminds her that he owns the majority of ASK's shares."),
-    (16, None, "'Leave your computer and your files.' An imperative followed by possessive determiners."),
+    (16, None, "'Leave your computer and your files.' Hicham orders him to leave his computer and files behind."),
 ]

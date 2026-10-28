@@ -20,10 +20,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 8 | Jean | Il plongeait jusqu'au bout de sa passion. | He dived to the very end of his passion. | #681: sa passion jusqu'au bout | verbatim |
 | 9 | Andréa | Comme dans Le Grand Bleu! | Like in The Big Blue! | #679: Le Grand Bleu | verbatim |
 | 10 | Jean | Ce nouveau scénario ressemble à cet esprit. | This new script resembles that spirit. | #683: quelque chose de ça | verbatim |
-| 11 | Andréa | Vous sauvez le projet de Xavier! | You are saving Xavier | #683: quelque chose de ça | verbatim |
+| 11 | Andréa | Vous sauvez le projet de Xavier! | You are saving Xavier's project! | #683: quelque chose de ça | verbatim |
 | 12 | Jean | Nous allons créer une œuvre magnifique. | We are going to create a magnificent work. | #683: quelque chose de ça | verbatim |
 | 13 | Andréa | Merci mille fois pour votre confiance. | Thank you a thousand times for your trust. | #683: quelque chose de ça | verbatim |
 | 14 | Jean | À bientôt pour le tournage, Andréa! | See you soon for filming, Andrea! | #684: À bientôt | verbatim |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 

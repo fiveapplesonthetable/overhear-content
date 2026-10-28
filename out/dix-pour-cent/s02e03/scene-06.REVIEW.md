@@ -24,6 +24,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 12 | Gabriel | Tu aimes vraiment Julien Doré? | Do you really like Julien Dore? | #171: Tu aimes Julien Doré ? | verbatim |
 | 13 | Sofia | Je l'adore, c'est pour ça que je panique! | I adore him, that is why I am panicking! | #172: Je l'adore !<br>#173: C'est pour ça que je panique ! | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Julien Dore is coming to talk about his film.' Gabriel announces the impending arrival of his pop-star client.
@@ -38,4 +39,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Does he know that I am a receptionist?' Sofia worries that her day job at ASK will undermine her credibility.
 - 'Of course not, sit down there.' Gabriel directs her to sit on the couch and look like an established actress.
 - 'Do you really like Julien Dore?' Gabriel asks about her opinion of the musician.
-- 'I adore him, that is why I am panicking!' Sofia admits she is terrified precisely because she is such a big fan.
+- 'I adore him, that is why I am panicking!' Sofia admits she is terrified precisely because she is such a big fan. Now let's listen to the scene once more from start to finish.

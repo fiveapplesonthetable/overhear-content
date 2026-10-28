@@ -17,13 +17,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 5 | Mathias | Cette année, nos bénéfices sont vraiment en baisse. | This year, our profits are really down. | #154: Sans compter le nouveau cadre sur les salaires des comédiens...<br>#155: Nos bénéfices sont en baisse sur le premier semestre. | verbatim |
 | 6 | Mathias | Nous devons payer une amende de cinq cent mille euros. | We must pay a fine of five hundred thousand euros. | #156: On pourrait s'en sortir<br>#157: si Mme Brancillon ne nous avait pas frappés<br>#158: avec un redressement fiscal de 500 000 €. | verbatim |
 | 7 | Gabriel | Cinq cent mille euros? C'est absurde! | Five hundred thousand euros? That is absurd! | #168: C'est absurde. | verbatim |
-| 8 | Andréa | Dommage que la femme de Mathias n'ait pas pris de parts. | Too bad Mathias\ | #160: Dommage que la femme de Mathias n'ait pas pris de parts. | verbatim |
+| 8 | Andréa | Dommage que la femme de Mathias n'ait pas pris de parts. | Too bad Mathias\'s wife did not take shares. | #160: Dommage que la femme de Mathias n'ait pas pris de parts. | verbatim |
 | 9 | Mathias | Mais elle n'en a pas pris. En conclusion... | But she did not take any. In conclusion... | #161: Mais elle n'en a pas pris.<br>#162: En conclusion... | verbatim |
 | 10 | Mathias | Notre seule option est de réduire les salaires pendant deux mois. | Our only option is to reduce salaries for two months. | #164: Notre seule option est de réduire les salaires pendant deux mois. | verbatim |
 | 11 | Gabriel | Pardon? Les salaires de qui? | Excuse me? Whose salaries? | #165: Pardon ?<br>#166: -Les salaires de qui ? -De tout le monde. | verbatim |
-| 12 | Mathias | Les salaires de tout le monde. Il n'y a pas d'autre solution. | Everyone\ | #166: -Les salaires de qui ? -De tout le monde. | verbatim |
+| 12 | Mathias | Les salaires de tout le monde. Il n'y a pas d'autre solution. | Everyone\'s salaries. There is no other solution. | #166: -Les salaires de qui ? -De tout le monde. | verbatim |
 | 13 | Andréa | Hors de question! Ne baissez pas mon salaire! | Out of the question! Do not lower my salary! | #167: Hors de question, si vous réduisez le mien, je vais crever de faim. | verbatim |
 | 14 | Gabriel | C'est absurde, je suis d'accord! | It is absurd, I agree! | #168: C'est absurde.<br>#170: Je suis d'accord ! | verbatim |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Excuse me? Whose salaries?' Gabriel is stunned by the idea that employees and partners should take pay cuts.
 - 'Everyone\'s salaries. There is no other solution.' Mathias insists that survival requires equal sacrifice.
 - 'Out of the question! Do not lower my salary!' Andréa protests dramatically that any cut to her salary will leave her starving.
-- 'It is absurd, I agree!' Gabriel backs Andrea and rejects the proposed payroll reductions.
+- 'It is absurd, I agree!' Gabriel backs Andrea and rejects the proposed payroll reductions. Now let's listen to the tense partners meeting once more.

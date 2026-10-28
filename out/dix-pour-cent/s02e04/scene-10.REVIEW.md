@@ -27,6 +27,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 15 | Sacha | Je vais la voir, on va mettre les choses au clair. | I am going to see her, we are going to clear things up. | #299: Je vais la voir, on va mettre les choses au clair. | verbatim |
 | 16 | Andréa | Bien sûr, c'est vous qui décidez. | Of course, you are the one who decides. | #300: Bien sûr, c'est vous qui décidez. | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'She could not come. She apologizes.' Andrea conveys Isabelle's polite excuse.
@@ -44,4 +45,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'You know what? Forget it.' Andrea pretends to abandon the negotiation.
 - 'Who cares what Adjani thinks?' Andrea dismisses the actress to provoke his competitive instinct.
 - 'I am going to see her, we are going to clear things up.' Sacha resolves to confront the star directly.
-- 'Of course, you are the one who decides.' Andrea seals her psychological triumph smoothly.
+- 'Of course, you are the one who decides.' Andrea seals her psychological triumph smoothly. Now let's listen to the entire dialogue once more to lock in what you have learned.

@@ -40,7 +40,7 @@ WALK = [
     (3, None, "'We have a slight change of schedule.' The mayor informs her of a last-minute change to the program."),
     (4, None, "'We have a surprise guest: Hicham Janowski!' He proudly announces that tech millionaire Hicham Janowski is joining them."),
     (5, None, "'The guy from the dating site?' Andréa recognizes Hicham as the founder of the famous dating website."),
-    (6, None, "'You do not mind sharing the spotlight?' The mayor checks that she does not mind sharing the spotlight with Hicham."),
+    (6, None, "'You do not mind sharing the spotlight?' The mayor shares the spotlight with Hicham."),
     (7, None, "'Of course not.' Andréa hides her annoyance and insists she does not mind at all."),
     (8, None, "'Here he is! Hicham, welcome to Couchey.' The mayor spots Hicham arriving and welcomes him to Couchey."),
     (9, None, "'I know you, right?' Hicham recognizes Andrea from their childhood in the village."),
@@ -49,5 +49,5 @@ WALK = [
     (12, None, "'Martel. My stage name.' Andréa quickly corrects him with her professional surname, Martel."),
     (13, None, "'So you changed your name.' Hicham teases her for changing her family name when she moved to Paris."),
     (14, None, "'Hicham sold his site for two hundred million euros!' The mayor boasts that Hicham sold his company for two hundred million euros."),
-    (15, None, "'Very well. Couchey humor!' Hicham laughs off the awkward reunion as typical village humor."),
+    (15, None, "'Very well. Couchey humor!' Hicham laughs off the awkward reunion as typical village humor. Now listen to Andrea and Hicham's conversation once more at a natural pace."),
 ]

@@ -20,7 +20,7 @@ STORY = [
     ('andrea', 'De quoi tu te mêles, Hicham?', 'What business is it of yours, Hicham?', [(626, 'de quoi je me mêle')], ''),
     ('hicham', 'Je vous invite à dîner ce soir.', 'I am inviting you to dinner tonight.', [(629, 'invite à dîner ce soir')], ''),
     ('andrea', 'Pourquoi organiser un dîner ce soir?', 'Why organize a dinner tonight?', [(630, 'Ce soir'), (634, 'Pourquoi ce soir')], ''),
-    ('hicham', 'Je réserve une table à vingt heures.', 'I am reserving a table at eight o', [(632, 'Je réserve')], ''),
+    ('hicham', 'Je réserve une table à vingt heures.', "I am reserving a table at eight o'clock.", [(632, 'Je réserve')], ''),
     ('andrea', "Qu'est-ce qui se passe, exactement?", 'What is going on, exactly?', [(635, "Qu'est-ce qui se passe")], ''),
     ('andrea', 'Il y a un problème particulier?', 'Is there a particular problem?', [(636, 'Y a un problème')], ''),
     ('hicham', "Non, non, il n'y a aucun problème.", 'No, no, there is no problem at all.', [(637, 'Non, non, aucun')], ''),

@@ -25,19 +25,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Béatrice | Pascal prépare une mauvaise surprise. | Pascal is preparing a nasty surprise. | #24: je ressens pas cet embrouille | verbatim |
 | 14 | Maquilleuse | Venez vous installer au maquillage. | Come and sit down in makeup. | #16: ce serait bien qu'on y aille | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'This shoot is particularly rough today.' A candid observation acknowledging grueling working conditions.
-- 'You did twenty-seven difficult takes.' An empathetic confirmation validating the physical strain.
-- 'I smashed through that door twenty-seven times!' An exclamatory complaint describing intense physical exertion.
-- 'We must prepare the next scene.' A polite professional reminder urging timely stage preparation.
-- 'I still have a few minutes of rest.' A defensive plea asserting a brief break before further filming.
-- 'We have to do your whole body with makeup.' A surprising procedural instruction announcing extensive cosmetics.
-- 'Is this the death scene?' A clarifying question identifying the scheduled script sequence.
-- 'Yes, exactly, it is that scene.' An affirmative confirmation verifying the plot point.
-- 'But my character is inside a bag!' A logical objection protesting unnecessary body cosmetics.
-- 'Pascal asked for full-body makeup.' A direct quote attributing the directive to the movie director.
-- 'Why put makeup on my entire body?' A sharp suspicious question probing the director's true intentions.
-- 'I do not know, these are orders.' A neutral disavowal reflecting crew hierarchy.
-- 'Pascal is preparing a nasty surprise.' A perceptive suspicion detecting an unscripted nude scene.
-- 'Come and sit down in makeup.' A gentle imperative repeating the backstage summons.
+- 'This shoot is particularly rough today.' Béatrice acknowledges grueling working conditions.
+- 'You did twenty-seven difficult takes.' The maquilleuse validates the physical strain.
+- 'I smashed through that door twenty-seven times!' Béatrice describes intense physical exertion.
+- 'We must prepare the next scene.' The maquilleuse urges timely stage preparation.
+- 'I still have a few minutes of rest.' Béatrice asserts a brief break before further filming.
+- 'We have to do your whole body with makeup.' The maquilleuse announces extensive cosmetics.
+- 'Is this the death scene?' Béatrice identifies the scheduled script sequence.
+- 'Yes, exactly, it is that scene.' The maquilleuse verifies the plot point.
+- 'But my character is inside a bag!' Béatrice protests unnecessary body cosmetics.
+- 'Pascal asked for full-body makeup.' The maquilleuse attributes the directive to the movie director.
+- 'Why put makeup on my entire body?' Béatrice probes the director's true intentions.
+- 'I do not know, these are orders.' The maquilleuse reflects crew hierarchy.
+- 'Pascal is preparing a nasty surprise.' Béatrice detects an unscripted nude scene.
+- 'Come and sit down in makeup.' The maquilleuse repeats the backstage summons. Now let's listen to Beatrice and the makeup artist again at full speed.

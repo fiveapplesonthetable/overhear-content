@@ -11,23 +11,24 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Andréa | Viens là. | Come here. | #23: Viens là | verbatim |
-| 2 | Colette | Je vais prendre une douche. | I | #24: Je vais prendre une douche | verbatim |
-| 3 | Colette | Voilà. De rien! | There you go. You | #25: Voilà<br>#25: De rien | verbatim |
-| 4 | Colette | Je vais vraiment être en retard. | I | #26: je vais vraiment<br>#26: être en retard | verbatim |
+| 2 | Colette | Je vais prendre une douche. | I'm going to take a shower. | #24: Je vais prendre une douche | verbatim |
+| 3 | Colette | Voilà. De rien! | There you go. You're welcome! | #25: Voilà<br>#25: De rien | verbatim |
+| 4 | Colette | Je vais vraiment être en retard. | I'm really going to be late. | #26: je vais vraiment<br>#26: être en retard | verbatim |
 | 5 | Andréa | Moi aussi. | Me too. | #27: moi aussi | verbatim |
-| 6 | Gabriel | Tu étais où? Tu ne répondais pas au téléphone. | Where were you? You weren | #28: étais où<br>#29: Tu ne répondais pas au téléphone | verbatim |
+| 6 | Gabriel | Tu étais où? Tu ne répondais pas au téléphone. | Where were you? You weren't answering your phone. | #28: étais où<br>#29: Tu ne répondais pas au téléphone | verbatim |
 | 7 | Gabriel | Il y a eu un drame sur le tournage! | There was a crisis on the film shoot! | #30: Il y a eu un<br>#30: sur le tournage | verbatim |
 | 8 | Andréa | Désolée. J'étais avec une fille. | Sorry. I was with a girl. | #30: Désolé<br>#31: J'étais avec une<br>#31: fille | verbatim |
 | 9 | Gabriel | Tu aurais quand même pu répondre. | You still could have answered. | #32: aurais quand même pu répondre | verbatim |
 | 10 | Gabriel | C'est la femme des impôts? | Is that the tax woman? | #33: C'est la femme des impôts ? | verbatim |
 | 11 | Andréa | Non. | No. | #35: Non | verbatim |
-| 12 | Gabriel | Incroyable! Et si c'est ta voisine? | Incredible! What if she | #35: Incroyable<br>#36: Si c'est ta voisine | verbatim |
-| 13 | Gabriel | C'est effrayant! | That | #36: Flippant<br>#37: Flippant | verbatim |
+| 12 | Gabriel | Incroyable! Et si c'est ta voisine? | Incredible! What if she's your neighbour? | #35: Incroyable<br>#36: Si c'est ta voisine | verbatim |
+| 13 | Gabriel | C'est effrayant! | That's scary! | #36: Flippant<br>#37: Flippant | verbatim |
 | 14 | Colette | Tu me manques déjà. | I miss you already. | #38: Tu me manques déjà | verbatim |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Come here.' The casual command of 'to come', followed by the word for 'there' or 'here'.
+- 'Come here.' This casual command of 'to come', followed by the word for 'there' or 'here'.
 - 'I'm going to take a shower.' The near future built with 'I go' plus the basic form 'to take'.
 - 'There you go. You're welcome!' In the kitchen, Colette hands Andréa a fresh slice of toast after she drops hers on the floor. Literally 'of nothing'.
 - 'I'm really going to be late.' Notice how the modifier 'really' sits right between 'I am going' and 'to be'.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'No.' Not wanting Gabriel to know she spent the night with the auditor, Andréa lies without blinking.
 - 'Incredible! What if she's your neighbour?' Gabriel assumes Colette must live in the same building.
 - 'That's scary!' Gabriel shudders at the thought of living next door to the tax inspector.
-- 'I miss you already.' In the taxi, Andréa's phone buzzes with a sweet message from Colette. In French, the person you miss is the subject: literally 'you are lacking to me already'. Now let's hear the whole scene with Andréa, Colette, and Gabriel again.
+- 'I miss you already.' In the taxi, Andréa's phone buzzes with a sweet message from Colette. In French, the person you miss is the subject: literally 'you are lacking to me already'.

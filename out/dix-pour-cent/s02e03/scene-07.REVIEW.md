@@ -24,6 +24,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 12 | Gabriel | La nature est importante dans son projet. | Nature is important in his project. | #199: comme vous l'avez compris,<br>#200: la nature fait très largement partie | verbatim |
 | 13 | Julien | C'est une comédie musicale très érotique! | It is a very erotic musical! | #201: Comédie musicale érotique. | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Hi Gabriel, I have an idea for the ending.' Julien arrives in Gabriel's office bursting with creative ideas.
@@ -38,4 +39,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Lows that evoke the Earth.' Julien describes the rich lower frequencies he wants to hear.
 - 'And highs like foliage.' Julien compares the higher notes to vibrant tree foliage.
 - 'Nature is important in his project.' Gabriel helpfully synthesizes Julien's artistic concept for Sofia.
-- 'It is a very erotic musical!' Julien repeats his favorite phrase with infectious enthusiasm.
+- 'It is a very erotic musical!' Julien repeats his favorite phrase with infectious enthusiasm. Now let's listen to the scene once more from start to finish.

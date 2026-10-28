@@ -11,7 +11,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Hicham | J'ai reçu un message très positif de Gillières. | I received a very positive message from Gillières. | #739: J'ai reçu un message de Jean-Denis Gillières. | verbatim |
-| 2 | Hicham | Il comprend parfaitement la situation de Juliette. | He perfectly understands Juliette | #742: Et il comprend parfaitement l'indisponibilité de Juliette. | verbatim |
+| 2 | Hicham | Il comprend parfaitement la situation de Juliette. | He perfectly understands Juliette's situation. | #742: Et il comprend parfaitement l'indisponibilité de Juliette. | verbatim |
 | 3 | Andréa | J'ai trouvé les bons mots pour le convaincre. | I found the right words to convince him. | #744: Elle a trouvé les mots justes pour rester dans ses bonnes grâces. | verbatim |
 | 4 | Directrice UBA | Bonsoir Andréa, je me suis renseignée sur vous. | Good evening Andréa, I looked into your background. | #745: Je me suis renseignée sur vous. | verbatim |
 | 5 | Directrice UBA | Votre travail avec Luchini est très impressionnant. | Your work with Luchini is very impressive. | #746: L'arrivée de Luchini dans votre agence a fait du bruit.<br>#747: Vous êtes assez impressionnante. | verbatim |
@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Directrice UBA | Est-il un atout ou un véritable handicap? | Is he an asset or a real handicap? | #760: C'est un atout ou un handicap ? | verbatim |
 | 14 | Andréa | Hicham est notre nouveau patron chez ASK. | Hicham is our new boss at ASK. | #761: C'est surtout mon patron. | verbatim |
 | 15 | Directrice UBA | Réfléchissez bien à votre avenir professionnel, Andréa. | Think carefully about your professional future, Andréa. | #762: Que va devenir ASK avec lui comme patron ?<br>#763: Tu veux te faire diriger par un type comme ça ? | verbatim |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -42,4 +43,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'And what do you really think of Hicham Janowski?' The executive probes Andrea's feelings about her new agency boss.
 - 'Is he an asset or a real handicap?' The executive sharply frames Hicham's erratic leadership style as a liability.
 - 'Hicham is our new boss at ASK.' Andrea provides a guarded answer to avoid undermining her own agency.
-- 'Think carefully about your professional future, Andréa.' The executive urges Andrea to consider her long-term horizons.
+- 'Think carefully about your professional future, Andréa.' The executive urges Andrea to consider her long-term horizons. Now let's listen to the scene once more from start to finish.

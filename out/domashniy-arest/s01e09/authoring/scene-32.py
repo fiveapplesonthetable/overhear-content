@@ -43,7 +43,7 @@ WALK = [
     (8, None, "'Vanya, wait, there is nothing between us!' Nina urgently denies any romantic connection with Danya."),
     (9, None, "'Did you tell Samsonov about the baby?' Marina inquires about Nina's undisclosed pregnancy."),
     (10, None, "'No, I did not tell him anything.' Nina admits she has kept the major news completely hidden."),
-    (11, None, "'Where would we put a third child?' A rhetorical question emphasizing their financial hardship."),
+    (11, None, "'Where would we put a third child?' Nina asks this pointed question to drive home how cramped their home already is."),
     (12, None, "'Am I supposed to put him on my head?' An exasperated Russian expression expressing complete lack of space and means."),
     (13, None, "'You are a fool! Go and tell him everything.' Marina bluntly urges Nina to be honest with Samsonov."),
 ]

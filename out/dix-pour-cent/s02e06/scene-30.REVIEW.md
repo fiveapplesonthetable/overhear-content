@@ -26,6 +26,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 14 | Gabriel | Je suis vraiment une ordure! | I really am a piece of trash! | #882: Je suis une ordure | verbatim |
 | 15 | Andréa | Gabriel, calme-toi un peu. | Gabriel, calm down a little. | #882: Je suis une ordure | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Hello, Colette?' Andrea answers her ringing phone away from the loud music.
@@ -42,4 +43,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'She definitely left me.' Gabriel faces the bitter finality of his breakup.
 - 'She was completely right.' Gabriel acknowledges that his deceit drove Sofia away.
 - 'I really am a piece of trash!' Gabriel wallows in intense self-reproach.
-- 'Gabriel, calm down a little.' Andrea immediately switches from lover to loyal friend.
+- 'Gabriel, calm down a little.' Andrea immediately switches from lover to loyal friend. Now listen to the whole scene again at normal speed, and see how much more you catch.

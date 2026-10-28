@@ -16,7 +16,7 @@ TRANSITION = "Now let's listen to the complete discussion once more to reinforce
 OUTRO = "Igor and Mathias look at Noemie with newfound respect, struck by her intellectual depth and passion for cinema. When you watch the episode, listen out for the expressions meaning 'read' and 'screenplay'. You'll catch them now. See you next time!"
 CLOSING = ('igor', 'Au revoir!')
 STORY = [
-    ('noemie', "J'ai lu le scénario de Xavier.", 'I read Xavier', [(918, "moi aussi j'ai lu le scénario")], ''),
+    ('noemie', "J'ai lu le scénario de Xavier.", "I read Xavier's screenplay.", [(918, "moi aussi j'ai lu le scénario")], ''),
     ('igor', 'Il est beaucoup trop violent et sombre.', 'It is much too violent and dark.', [(926, "C'est très violent"), (926, 'est')], ''),
     ('noemie', 'Mais cette violence a un sens profond.', 'But this violence has a deep meaning.', [(929, 'montrer de façon réaliste'), (931, 'Sa cruauté profonde')], ''),
     ('igor', "Pourquoi montrer une telle cruauté à l'écran?", 'Why show such cruelty on screen?', [(931, 'Sa cruauté profonde'), (941, 'Où est la vraie violence')], ''),
@@ -24,7 +24,7 @@ STORY = [
     ('igor', 'Le public risque de rejeter ce film.', 'The public risks rejecting this film.', [(940, 'film')], ''),
     ('noemie', "Ce n'est pas de la violence gratuite.", 'This is not gratuitous violence.', [(934, "Ce n'est pas gratuit")], ''),
     ('igor', 'Les personnages prennent les armes sans hésiter.', 'The characters take up arms without hesitating.', [(938, 'ils prennent les armes')], ''),
-    ('noemie', 'Ils réagissent aux contraintes de la société.', 'They react to society', [(936, 'contraintes qui leur sont imposées')], ''),
+    ('noemie', 'Ils réagissent aux contraintes de la société.', "They react to society's constraints.", [(936, 'contraintes qui leur sont imposées')], ''),
     ('igor', 'On les traite pourtant de barbares.', 'Yet they are treated as barbarians.', [(939, 'On les traite de barbares')], ''),
     ('noemie', "Qui sont les vrais barbares aujourd'hui?", 'Who are the real barbarians today?', [(940, 'qui sont les vrais barbares')], ''),
     ('igor', "Tu défends ce projet avec beaucoup d'ardeur.", 'You defend this project with great passion.', [(949, 'pas été aussi impressionné')], ''),
@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'Who are the real barbarians today?' Noemie delivers the central philosophical question."),
     (11, None, "'You defend this project with great passion.' Igor notes her remarkable conviction."),
     (12, None, "'I truly believe in this great film.' Noemie reaffirms her confidence."),
-    (13, None, "'I am very impressed by your analysis.' Igor pays tribute to her unexpected insight."),
+    (13, None, "'I am very impressed by your analysis.' Igor pays tribute to her unexpected insight. Now let's listen to the complete discussion once more to reinforce the vocabulary."),
 ]

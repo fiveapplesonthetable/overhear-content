@@ -19,7 +19,7 @@ STORY = [
     ('annick', 'Tu ne prends pas de petit-déjeuner?', 'Are you not having breakfast?', [(68, 'Pas de petit-déjeuner ?')], ''),
     ('camille', 'Maman, je suis très en retard.', 'Mom, I am very late.', [(69, 'Maman, je suis en retard.')], ''),
     ('annick', 'Assieds-toi et mange un peu.', 'Sit down and eat a little.', [(70, 'Camille, assieds-toi, mange quelque chose.')], ''),
-    ('annick', 'Qui coiffe cette pauvre actrice?', 'Who styles this poor actress', [(72, 'Qui coiffe Vanessa Paradis ?')], ''),
+    ('annick', 'Qui coiffe cette pauvre actrice?', "Who styles this poor actress's hair?", [(72, 'Qui coiffe Vanessa Paradis ?')], ''),
     ('camille', "Les agents ne s'occupent pas des coiffures.", 'Agents do not deal with hairstyles.', [(75, 'Les agents ne sont pas consultés pour les coiffures ?'), (76, 'Pas vraiment, maman.')], ''),
     ('annick', 'Dis-moi, Mathias est gentil avec toi?', 'Tell me, is Mathias nice to you?', [(77, 'Mathias est gentil avec toi ?')], ''),
     ('camille', "Oui, il est bien plus gentil qu'avant.", 'Yes, he is much nicer than before.', [(79, "Bien plus qu'avant.")], ''),
@@ -32,7 +32,7 @@ STORY = [
     ('annick', 'Fais bien attention sur ton vélo.', 'Be very careful on your bicycle.', [(90, 'Fais attention sur ton vélo.')], ''),
 ]
 WALK = [
-    (0, None, "'Are you not having breakfast?' A negative question expressing maternal concern."),
+    (0, None, "'Are you not having breakfast?' Annick expresses maternal concern."),
     (1, None, "'Mom, I am very late.' Camille apologizes to her mother Annick for running so late."),
     (2, None, "'Sit down and eat a little.' Annick tells her daughter to sit down and eat something."),
     (3, None, "'Who styles this poor actress's hair?' Looking around the salon, Annick wonders aloud who styled that poor actress's hair."),
@@ -40,10 +40,10 @@ WALK = [
     (5, None, "'Tell me, is Mathias nice to you?' Annick asks Camille directly whether Mathias is treating her well."),
     (6, None, "'Yes, he is much nicer than before.' Camille reassures her mother that Mathias is much nicer to her than before."),
     (7, None, "'We see each other and have lunch together.' Reciprocal pronominal actions in informal speech."),
-    (8, None, "'Look, he gave me a pretty lamp.' A compound past verb showing a thoughtful gift."),
+    (8, None, "'Look, he gave me a pretty lamp.' Camille shows a thoughtful gift."),
     (9, None, "'It is easy when one is very rich.' Annick remarks skeptically that being generous is easy when a man is very rich."),
-    (10, None, "'I light your lovely candle every evening.' A temporal routine phrase reassuring her mother."),
-    (11, None, "'I should have kept a child at home.' A past conditional expressing nostalgic maternal longing."),
-    (12, None, "'You have a real gift for drama.' A playful observation acknowledging maternal melodrama."),
-    (13, None, "'Be very careful on your bicycle.' An idiomatic imperative of caution for city cycling."),
+    (10, None, "'I light your lovely candle every evening.' Camille reassures her mother."),
+    (11, None, "'I should have kept a child at home.' Annick expresses nostalgic maternal longing."),
+    (12, None, "'You have a real gift for drama.' Camille acknowledges maternal melodrama."),
+    (13, None, "'Be very careful on your bicycle.' Annick warns him to be very careful on his bicycle."),
 ]

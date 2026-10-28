@@ -27,6 +27,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 15 | Gabriel | Tu mérites pleinement ce premier rôle. | You fully deserve this lead role. | #551: Elle est parfaite. | verbatim |
 | 16 | Sofia | Gabriel, nous devons fêter cette nouvelle! | Gabriel, we must celebrate this news! | #560: Tu sais qu'il veut que tu joues le rôle principal dans son film ? | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'I received a message from Julien Doré.' Gabriel announces the unexpected text.
@@ -44,4 +45,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'It is an incredible opportunity for my career.' Sofia realizes the significance of this break.
 - 'You worked hard to get here.' Gabriel acknowledges her dedication and perseverance.
 - 'You fully deserve this lead role.' Gabriel offers heartfelt encouragement.
-- 'Gabriel, we must celebrate this news!' Sofia is ready to celebrate the achievement.
+- 'Gabriel, we must celebrate this news!' Sofia is ready to celebrate the achievement. Now let's listen to the joyful conversation once more at full speed.

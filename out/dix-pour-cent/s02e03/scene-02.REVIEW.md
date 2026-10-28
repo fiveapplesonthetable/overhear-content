@@ -25,19 +25,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Réceptionniste | J'ai attendu dix ans pour mes papiers. | I waited ten years for my papers. | #60: Dix ans j'ai attendu, mais au final,<br>#61: J'ai eu mes papiers. | verbatim |
 | 14 | Réceptionniste | Alors, vous voulez le seize juin? | So, do you want June sixteenth? | #66: Alors...<br>#67: tu veux le 16 juin ? | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'There is nothing available for April.' A negative existential phrase introducing the month.
-- 'The next date is June sixteenth.' A cardinal date construction specifying the calendar appointment.
-- 'It is much too late, that will not work.' An emphatic negative evaluation expressing urgency.
+- 'There is nothing available for April.' The receptionist introduces the month.
+- 'The next date is June sixteenth.' The receptionist specifies the calendar appointment.
+- 'It is much too late, that will not work.' Gabriel expresses urgency.
 - 'My client acts in a major movie.' Gabriel proudly tells the driving-school receptionist that his client is starring in a major film.
 - 'Norman? My children often talk about him.' The receptionist recognizes Norman's name because her children talk about his videos all the time.
 - 'Exactly, it is a key moment for him.' Gabriel agrees warmly and explains that this movie is a turning point for Norman.
-- 'In the movie, he plays a taxi driver.' A prepositional locator describing the character's occupation.
-- 'The shooting starts in two weeks only.' A temporal construction expressing imminent production.
-- 'You must simply postpone this shoot.' A modal verb expressing an uncompromising practical solution.
-- 'Everyone is ready to shoot.' An indefinite subject pronoun followed by an adjective of readiness.
-- 'Can you make an effort for us?' An inverted formal question asking for special assistance.
-- 'No, the rules are the same for all.' An assertion of bureaucratic fairness rejecting exceptionalism.
-- 'I waited ten years for my papers.' A compound past verb illustrating personal resilience and delay.
-- 'So, do you want June sixteenth?' A transitional question offering the only remaining appointment.
+- 'In the movie, he plays a taxi driver.' Gabriel describes the character's occupation.
+- 'The shooting starts in two weeks only.' Gabriel expresses imminent production.
+- 'You must simply postpone this shoot.' The receptionist expresses an uncompromising practical solution.
+- 'Everyone is ready to shoot.' Gabriel announces that everyone on set is ready to shoot.
+- 'Can you make an effort for us?' Gabriel asks for special assistance.
+- 'No, the rules are the same for all.' The receptionist rejects exceptionalism.
+- 'I waited ten years for my papers.' The receptionist illustrates personal resilience and delay.
+- 'So, do you want June sixteenth?' The receptionist offers the only remaining appointment. Now let's listen to Gabriel's tense discussion at the counter again at full speed.

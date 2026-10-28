@@ -25,19 +25,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Andréa | Nos clients observent notre équipe avec attention. | Our clients are watching our team closely. | #338: On va pas se déchirer ce soir | verbatim |
 | 14 | Mathias | Nous valons tous beaucoup mieux que ça. | We are all worth much better than that. | #340: On vaut mieux que ça | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'It is the party for our thirty years.' A celebratory opening emphasizing the historic anniversary milestone.
-- 'Our agency has lasted for thirty long years.' A nostalgic acknowledgment recognizing three decades of collective endurance.
-- 'This success exists thanks to the four of us.' A generous admission crediting the original founding quartet.
-- 'We do not need to be friends.' A pragmatic statement prioritizing professional collaboration over personal affection.
-- 'I want to grow this beautiful agency.' An ambitious promise declaring an expansive corporate future for ASK.
-- 'I am ready to increase your shares.' A major financial concession offering increased ownership stakes.
-- 'I can also increase your fixed salaries.' An additional financial enticement proposing higher base compensation.
-- 'I am ready to discuss calmly together.' A diplomatic invitation seeking peaceful terms of reconciliation.
-- 'We are not beggars, Mathias.' An indignant rebuke rejecting what sounds like patronizing charity.
-- 'Wait a bit, this offer is worth considering.' A calculating intervention calling for thoughtful deliberation.
-- 'There is absolutely nothing to negotiate!' An uncompromising refusal shutting down further corporate horse-trading.
-- 'We are not going to tear each other apart tonight.' A sensible appeal enforcing decorum before an audience of film industry guests.
-- 'Our clients are watching our team closely.' A sobering reminder highlighting the professional scrutiny surrounding the gala.
-- 'We are all worth much better than that.' An earnest conclusion appealing to mutual self-respect and dignity.
+- 'It is the party for our thirty years.' Mathias emphasizes the historic anniversary milestone.
+- 'Our agency has lasted for thirty long years.' Mathias recognizes three decades of collective endurance.
+- 'This success exists thanks to the four of us.' Mathias credits the original founding quartet.
+- 'We do not need to be friends.' Mathias prioritizes professional collaboration over personal affection.
+- 'I want to grow this beautiful agency.' Mathias declares an expansive corporate future for ASK.
+- 'I am ready to increase your shares.' Mathias offers increased ownership stakes.
+- 'I can also increase your fixed salaries.' Mathias proposes higher base compensation.
+- 'I am ready to discuss calmly together.' Mathias seeks peaceful terms of reconciliation.
+- 'We are not beggars, Mathias.' Gabriel rejects what sounds like patronizing charity.
+- 'Wait a bit, this offer is worth considering.' Andréa calls for thoughtful deliberation.
+- 'There is absolutely nothing to negotiate!' Gabriel shuts down further corporate horse-trading.
+- 'We are not going to tear each other apart tonight.' Andréa enforces decorum before an audience of film industry guests.
+- 'Our clients are watching our team closely.' Andréa highlights the professional scrutiny surrounding the gala.
+- 'We are all worth much better than that.' Mathias appeals to mutual self-respect and dignity. Now let's listen to Mathias, Andrea, and Gabriel concluding their truce at full speed.

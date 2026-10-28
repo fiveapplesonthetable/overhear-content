@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Noémie | Nous allons reprendre notre agence, Mathias. | We are going to take back our agency, Mathias. | #1302: coursier | verbatim |
 | 14 | Mathias | Merci pour ta confiance, chère Noémie. | Thank you for your trust, dear Noemie. | #1302: coursier | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'The secret file is finally ready.' Noemie announces that the dossier is assembled.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'The courier arrives in ten minutes.' Noemie prepares the sealed package for dispatch.
 - 'Tonight, our plan finally begins.' Mathias reflects on the launch of their campaign.
 - 'We are going to take back our agency, Mathias.' Noemie reaffirms their joint partnership and ambition.
-- 'Thank you for your trust, dear Noemie.' Mathias acknowledges her steadfast loyalty.
+- 'Thank you for your trust, dear Noemie.' Mathias acknowledges her steadfast loyalty. Now let's listen to the complete discussion once more to reinforce the vocabulary.

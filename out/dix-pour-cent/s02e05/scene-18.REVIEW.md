@@ -27,6 +27,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 15 | Guy | Merci d'être venue me voir sur le plateau. | Thanks for coming to see me on the set. | #587: Bon, je retourne. | verbatim |
 | 16 | Arlette | Je serai toujours là pour veiller sur toi. | I will always be there to watch over you. | #581: Arlette Davidson.<br>#582: C'est mon surnom. | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'There is a wide selection of cheeses here.' Guy admires the canteen buffet.
@@ -44,4 +45,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I want to succeed in my scene this afternoon.' Guy focuses on his acting performance.
 - 'You are a wonderful actor, have confidence.' Arlette bolsters his self-assurance.
 - 'Thanks for coming to see me on the set.' Guy appreciates her physical presence.
-- 'I will always be there to watch over you.' Arlette pledges her unwavering loyalty.
+- 'I will always be there to watch over you.' Arlette pledges her unwavering loyalty. Now let's listen to the warm conversation once more at normal pace.

@@ -22,8 +22,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 10 | Isabelle | Tout a dégénéré avec Ben Stiller. | Everything fell apart with Ben Stiller. | #866: dégénéré entre le metteur en scène et Ben Stiller | verbatim |
 | 11 | Isabelle | Ils ont commencé à se disputer. | They started arguing with each other. | #867: venue aux mains | verbatim |
 | 12 | Isabelle | Le tournage américain est interrompu. | The American shoot is suspended. | #869: tournage interrompu | verbatim |
-| 13 | Isabelle | C'est vraiment génial, non? | That is truly genius, isn | #870: C'est cool, non | verbatim |
+| 13 | Isabelle | C'est vraiment génial, non? | That is truly genius, isn't it? | #870: C'est cool, non | verbatim |
 | 14 | Gabriel | Tu es incroyable, Isabelle! | You are incredible, Isabelle! | #870: C'est cool | verbatim |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 

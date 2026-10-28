@@ -12,7 +12,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 |---|---|---|---|---|---|
 | 1 | Andréa | Le contrat secret a été photocopié ici. | The secret contract was photocopied here. | #3: ça a bien été photocopié ici | verbatim |
 | 2 | Mathias | J'ai agi pour protéger notre agence. | I acted to protect our agency. | #94: Je suis en train d'essayer de sauver | verbatim |
-| 3 | Andréa | Tu as trahi la confiance de tous. | You betrayed everyone | #96: c'est moi qui suis le traître | verbatim |
+| 3 | Andréa | Tu as trahi la confiance de tous. | You betrayed everyone's trust. | #96: c'est moi qui suis le traître | verbatim |
 | 4 | Mathias | Je veux seulement sauver notre avenir. | I only want to save our future. | #94: Je suis en train d'essayer de sauver | verbatim |
 | 5 | Hicham | Cette situation devient totalement insupportable. | This situation is becoming completely unbearable. | #102: Félicitations, Mathias, t'as gagné | verbatim |
 | 6 | Mathias | Nous devons rester unis aujourd'hui. | We must remain united today. | #27: on se tait et on observe la bête | verbatim |
@@ -25,19 +25,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Mathias | Je sais exactement quoi faire. | I know exactly what to do. | #116: Je sais ce que je fais | verbatim |
 | 14 | Andréa | Nous verrons bien ce soir. | We shall see tonight. | #27: on se tait et on observe la bête | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'The secret contract was photocopied here.' A direct declaration confirming internal corporate sabotage.
-- 'I acted to protect our agency.' A defensive justification framing calculated intrigue as loyalty.
-- 'You betrayed everyone's trust.' A stern accusation condemning disloyalty toward colleagues.
-- 'I only want to save our future.' An emotional defense presenting personal ambition as corporate rescue.
-- 'This situation is becoming completely unbearable.' An exhausted complaint reflecting mounting executive frustration.
-- 'We must remain united today.' A diplomatic plea urging unity before the anniversary celebration.
-- 'You won, I am leaving the agency.' A sudden surrender conceding defeat to a persistent rival.
-- 'I sell you my shares right now.' A decisive offer transferring agency ownership on the spot.
-- 'I accept this offer with pleasure.' A triumphal acceptance seizing the long-awaited opportunity.
-- 'Tonight, we will celebrate this victory.' An optimistic declaration linking the buyout to the anniversary party.
-- 'I will announce the new management before everyone.' A confident promise publicizing the leadership change.
-- 'Do you have a solution for the Americans?' A skeptical question challenging his plan for the costly lawsuit.
-- 'I know exactly what to do.' A self-assured reply projecting complete mastery over the crisis.
-- 'We shall see tonight.' A cautious concluding remark suspending belief until results appear.
+- 'The secret contract was photocopied here.' Andréa confirms internal corporate sabotage.
+- 'I acted to protect our agency.' Mathias frames calculated intrigue as loyalty.
+- 'You betrayed everyone's trust.' Andréa condemns disloyalty toward colleagues.
+- 'I only want to save our future.' Mathias presents personal ambition as corporate rescue.
+- 'This situation is becoming completely unbearable.' Hicham reflects mounting executive frustration.
+- 'We must remain united today.' Mathias urges unity before the anniversary celebration.
+- 'You won, I am leaving the agency.' Hicham concedes defeat to a persistent rival.
+- 'I sell you my shares right now.' Hicham transfers agency ownership on the spot.
+- 'I accept this offer with pleasure.' Mathias seizes the long-awaited opportunity.
+- 'Tonight, we will celebrate this victory.' Mathias links the buyout to the anniversary party.
+- 'I will announce the new management before everyone.' Mathias publicizes the leadership change.
+- 'Do you have a solution for the Americans?' Andréa challenges his plan for the costly lawsuit.
+- 'I know exactly what to do.' Mathias projects complete mastery over the crisis.
+- 'We shall see tonight.' Andréa suspends belief until results appear. Now let's listen to the partners confronting each other again at full speed.

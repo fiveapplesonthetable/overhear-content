@@ -22,7 +22,7 @@ STORY = [
     ('gabriel', "Qu'est-ce qui manque à Fabrice?", 'What does Fabrice lack?', [(466, "Qu'est-ce qui manque à Luchini")], ''),
     ('mathias', 'Une carrière internationale dans James Bond.', 'An international career in James Bond.', [(468, 'Une carrière internationale'), (469, 'un méchant dans James Bond')], ''),
     ('andrea', 'Il rêve de jouer un méchant!', 'He dreams of playing a villain!', [(469, "J'ai lu qu'il rêvait de jouer un méchant")], ''),
-    ('gabriel', 'Faisons croire que Bréhier a raté ce contrat.', 'Let', [(471, 'Bréhier a raté le contrat')], ''),
+    ('gabriel', 'Faisons croire que Bréhier a raté ce contrat.', "Let's make him believe Bréhier missed this contract.", [(471, 'Bréhier a raté le contrat')], ''),
     ('mathias', "La directrice s'appelle Debbie MacWilliams.", 'The casting director is called Debbie MacWilliams.', [(477, "Elle s'appelle Debbie MacWilliams")], ''),
     ('andrea', 'Est-ce que Fabrice la connaît personnellement?', 'Does Fabrice know her personally?', [(480, 'Luchini la connaît')], ''),
     ('gabriel', "Non, il ne l'a jamais vue.", 'No, he has never seen her.', [(481, 'Je pourrais savoir')], ''),
@@ -47,5 +47,5 @@ WALK = [
     (11, None, "'She speaks English perfectly with the accent.' Gabriel highlights Linda's authentic Scottish background."),
     (12, None, "'Send a fake casting director?' Mathias questions the sanity and legality of sending an impostor."),
     (13, None, "'It is our only chance to succeed!' Andrea argues passionately that this bold bluff is their only viable option."),
-    (14, None, "'All right, but let us stay very discreet.' Mathias reluctantly agrees while demanding total secrecy."),
+    (14, None, "'All right, but let us stay very discreet.' Mathias reluctantly agrees while demanding total secrecy. Now listen to the whole scene again at normal speed, and see how much more you catch."),
 ]

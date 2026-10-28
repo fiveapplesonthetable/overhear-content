@@ -16,25 +16,25 @@ TRANSITION = "Now let's listen to the entire dialogue once more."
 OUTRO = 'Outside, Audrey admits she already owes forty thousand euros in back taxes, and Mathias tells her she has no choice: she has to go back to work right away. See you next time!'
 CLOSING = ('audrey', 'Au revoir!')
 STORY = [
-    ('audrey', 'Attends, tu marches trop vite. Je ne veux pas le réveiller.', "Wait, you're walking too fast. I don't want to wake him.", [(1, 'Attends, tu marches trop vite'), (2, 'Je ne veux pas le réveiller')], ''),
-    ('audrey', "Il n'a pas dormi de la nuit. Il fait ses dents.", "He didn't sleep all night. He's teething.", [(3, "Il n'a pas dormi de la nuit"), (4, 'Il fait ses dents')], ''),
-    ('mathias', 'On ne prend aucun risque. Laisse-moi parler.', 'We', [(10, 'On ne prend aucun risque'), (10, 'parler')], ''),
+    ('audrey', 'Attends, tu marches trop vite. Je ne veux pas le réveiller.', "I don't want to wake him.", [(1, 'Attends, tu marches trop vite'), (2, 'Je ne veux pas le réveiller')], ''),
+    ('audrey', "Il n'a pas dormi de la nuit. Il fait ses dents.", "He's teething.", [(3, "Il n'a pas dormi de la nuit"), (4, 'Il fait ses dents')], ''),
+    ('mathias', 'On ne prend aucun risque. Laisse-moi parler.', "We're not taking any risks. Let me do the talking.", [(10, 'On ne prend aucun risque'), (10, 'parler')], ''),
     ('inspecteur', "C'est votre mari?", 'Is he your husband?', [(16, "C'est votre mari ?")], ''),
     ('mathias', 'Non, son agent.', 'No, her agent.', [(16, 'Non, son agent')], ''),
     ('inspecteur', 'Madame, vous avez vingt-trois mois de retard.', 'Madam, you are twenty-three months late.', [(19, 'madame'), (20, 'vous avez'), (20, 'mois de retard')], ''),
     ('audrey', 'Oui, mais au moins je paie mes impôts en France!', 'Yes, but at least I pay my taxes in France!', [(21, 'Oui, mais au moins je paie mes impôts en France !')], ''),
     ('mathias', 'Audrey a eu deux enfants en trois ans.', 'Audrey had two children in three years.', [(24, 'Audrey a eu deux enfants en trois ans')], ''),
     ('mathias', 'Maintenant, elle veut retrouver du travail et payer ses impôts.', 'Now she wants to find work again and pay her taxes.', [(28, 'Maintenant, elle'), (28, 'retrouver du travail et payer ses impôts')], ''),
-    ('inspecteur', 'Vous ne trouvez pas de travail, madame?', 'You can', [(30, 'Vous ne trouvez pas de travail, madame ?')], ''),
+    ('inspecteur', 'Vous ne trouvez pas de travail, madame?', "You can't find work, madam?", [(30, 'Vous ne trouvez pas de travail, madame ?')], ''),
     ('mathias', 'Bien sûr que si!', 'Of course she can!', [(32, 'Bien sûr que si')], ''),
     ('inspecteur', "Mais vous avez refusé un rôle dans un film d'action.", 'But you turned down a role in an action film.', [(36, 'vous avez'), (36, 'refusé un rôle'), (37, "Un film d'action")], ''),
-    ('audrey', 'Je ne pouvais pas courir après des zombies!', 'I couldn', [(38, 'Je ne pouvais pas courir après des zombies')], ''),
-    ('mathias', "Le retour d'Audrey sur un tournage est imminent.", 'Audrey', [(42, "le retour d'Audrey sur un tournage est imminent")], ''),
-    ('audrey', "Oui, c'est un projet énorme.", 'Yes, it', [(44, "Oui, c'est un projet énorme")], ''),
+    ('audrey', 'Je ne pouvais pas courir après des zombies!', "I couldn't run after zombies!", [(38, 'Je ne pouvais pas courir après des zombies')], ''),
+    ('mathias', "Le retour d'Audrey sur un tournage est imminent.", "Audrey's return to a film shoot is imminent.", [(42, "le retour d'Audrey sur un tournage est imminent")], ''),
+    ('audrey', "Oui, c'est un projet énorme.", "Yes, it's a huge project.", [(44, "Oui, c'est un projet énorme")], ''),
     ('inspecteur', "J'attends votre chèque cette semaine, avec dix pour cent de plus.", 'I expect your cheque this week, with ten percent extra.', [(47, "J'attends votre chèque cette semaine"), (48, "Et comme c'est en retard")], ''),
 ]
 WALK = [
-    (0, 'Attends, tu marches trop vite.', "'Wait, you're walking too fast.' A casual command from the action word 'to wait', followed by 'you walk too fast'."),
+    (0, 'Attends, tu marches trop vite.', "'Wait, you're walking too fast.' Audrey gives a casual command from the action word 'to wait', followed by 'you walk too fast'."),
     (0, 'Je ne veux pas le réveiller.', "'I don't want to wake him.' The negative wraps around 'want', and the little word for 'him' sits right before the action word 'to wake'."),
     (1, "Il n'a pas dormi de la nuit.", "'He didn't sleep all night.' Literally 'of the night', the idiomatic way to say 'all night long' after a negative."),
     (1, 'Il fait ses dents.', "'He's teething.' Literally 'he is making his teeth'."),
@@ -51,5 +51,5 @@ WALK = [
     (12, None, "'I couldn't run after zombies!' She had just given birth when that part was offered to her."),
     (13, None, "'Audrey's return to a film shoot is imminent.' Mathias invents a big comeback on the spot."),
     (14, None, "'Yes, it's a huge project.' Audrey plays along with her agent's lie."),
-    (15, None, "'I expect your cheque this week, with ten percent extra.' The lie backfires: if she has a big film coming, she doesn't need any more time to pay. Now let's hear the whole scene at the tax office again."),
+    (15, None, "'I expect your cheque this week, with ten percent extra.' The lie backfires: if she has a big film coming, she doesn't need any more time to pay."),
 ]

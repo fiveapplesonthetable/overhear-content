@@ -43,5 +43,5 @@ WALK = [
     (9, None, "'Gabriel is finally arriving, come see quickly!' Herve calls Gabriel over to witness the situation."),
     (10, None, "'What is happening here, friends?' Gabriel asks what has caused such sudden panic near reception."),
     (11, None, "'Look in the hallway, Elise Formain is approaching!' Herve directs Gabriel's attention to the corridor."),
-    (12, None, "'My God, what is this competitor coming to do?' Gabriel stares in astonishment at their rival's bold entrance."),
+    (12, None, "'My God, what is this competitor coming to do?' Gabriel stares in astonishment at their rival's bold entrance. Now let's listen to the assistants' alert once more from start to finish."),
 ]

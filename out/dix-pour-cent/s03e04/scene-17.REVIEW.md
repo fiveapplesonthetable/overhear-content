@@ -12,7 +12,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 |---|---|---|---|---|---|
 | 1 | Mathias | Allô Noémie, je ne vous dérange pas? | Hello Noemie, am I not disturbing you? | #913: Eh, Mathias<br>#914: Je vous dérange pas | verbatim |
 | 2 | Noémie | Non Mathias, tout va très bien. | No Mathias, everything is going very well. | #915: Non, non, ça va | verbatim |
-| 3 | Mathias | Le tournage d'Isabelle est terminé. | Isabelle | #916: nuit d'Isabelle Huppert | verbatim |
+| 3 | Mathias | Le tournage d'Isabelle est terminé. | Isabelle's shoot is finished. | #916: nuit d'Isabelle Huppert | verbatim |
 | 4 | Mathias | Nous avons réussi cette folle nuit! | We made it through this crazy night! | #916: cette folle nuit | verbatim |
 | 5 | Noémie | C'est une merveilleuse nouvelle pour vous! | That is wonderful news for you! | #918: c'est super | verbatim |
 | 6 | Mathias | C'est largement grâce à votre aide. | It is largely thanks to your help. | #917: grâce à vous | verbatim |
@@ -24,6 +24,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 12 | Mathias | Non, je suis en bas. | No, I am downstairs. | #925: Non<br>#926: en bas de chez vous | verbatim |
 | 13 | Mathias | J'apporte des croissants bien chauds! | I am bringing warm croissants! | #926: croissants chauds | verbatim |
 | 14 | Noémie | Sonnez vite, je vous ouvre! | Ring quickly, I am buzzing you in! | #929: sonnez, je vous ouvre | verbatim |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 

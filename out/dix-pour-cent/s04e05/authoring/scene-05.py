@@ -18,16 +18,16 @@ CLOSING = ('gabriel', 'À bientôt!')
 STORY = [
     ('elise', 'Je peux me permettre?', 'Can I intrude?', [(250, 'Je peux me permettre ?')], ''),
     ('gabriel', 'Oui, bien sûr.', 'Yes, of course.', [(251, 'Oui, bien sûr.')], ''),
-    ('elise', 'Donnez-moi le contact de Monica Bellucci.', 'Give me Monica Bellucci', [(252, 'les coordonnées de Monica Bellucci ?')], ''),
+    ('elise', 'Donnez-moi le contact de Monica Bellucci.', "Give me Monica Bellucci's contact.", [(252, 'les coordonnées de Monica Bellucci ?')], ''),
     ('gabriel', 'Oui. Pour quoi faire?', 'Yes. What for?', [(253, 'Oui. Pour quoi faire ?')], ''),
     ('elise', 'Pour organiser des rencontres.', 'To organize meetings.', [(254, 'organiser des rencontres')], ''),
     ('elise', 'Il faut vraiment penser en équipe.', 'We really have to think as a team.', [(257, "Il faut vraiment qu'on pense... en équipe")], ''),
     ('gabriel', 'On le fait déjà.', 'We already do that.', [(258, 'On le fait déjà')], ''),
     ('elise', 'Mais peut-être pas assez.', 'But perhaps not enough.', [(259, 'Mais peut-être pas assez.')], ''),
     ('gabriel', 'OK, je vous envoie sa carte.', 'OK, I will send you her card.', [(261, 'OK'), (261, 'je vous envoie sa carte.')], ''),
-    ('elise', 'Très bien. Et celle de Dujardin?', 'Very good. And Dujardin', [(262, 'Très bien. Oh, et celle de Dujardin aussi.')], ''),
+    ('elise', 'Très bien. Et celle de Dujardin?', "Very good. And Dujardin's?", [(262, 'Très bien. Oh, et celle de Dujardin aussi.')], ''),
     ('gabriel', 'Jean est à Andréa.', 'Jean is with Andrea.', [(263, 'Jean'), (263, 'est à Andréa.')], ''),
-    ('elise', "Elle est débordée, ne l'embêtons pas.", 'She is swamped, let', [(264, "elle est débordée, ne l'embêtons pas")], ''),
+    ('elise', "Elle est débordée, ne l'embêtons pas.", "She is swamped, let's not bother her.", [(264, "elle est débordée, ne l'embêtons pas")], ''),
     ('elise', 'Merci, Gaby!', 'Thanks, Gaby!', [(265, 'Merci, Gaby !')], ''),
 ]
 WALK = [
@@ -43,5 +43,5 @@ WALK = [
     (9, None, "'Very good. And Dujardin's?' She immediately pushes her luck and asks for another star."),
     (10, None, "'Jean is with Andrea.' He clarifies that Jean Dujardin is represented by his colleague."),
     (11, None, "'She is swamped, let's not bother her.' Elise quickly drops the subject to avoid dealing with Andrea."),
-    (12, None, "'Thanks, Gaby!' She leaves with a cheerful, overly familiar goodbye. Now let's hear the scene once more."),
+    (12, None, "'Thanks, Gaby!' She leaves with a cheerful, overly familiar goodbye."),
 ]

@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'Please lower your arms.' The assistant gives posing directions."),
     (11, None, "'I am taking your measurements quickly.' The assistant works efficiently with the measuring tape."),
     (12, None, "'Do not suck in your stomach during the measurement.' The assistant instructs him on natural posture."),
-    (13, None, "'Thank you very much for your welcome.' The candidate concludes politely."),
+    (13, None, "'Thank you very much for your welcome.' The candidate concludes politely. Now let's listen to the entire dialogue once more to lock in what you have learned."),
 ]

@@ -40,7 +40,7 @@ WALK = [
     (2, 'Ты меня, я тебя.', "'You got me, I got you.' Word for word, just 'you me, I you'; the verbs are missing, and you don't need them. Then the score."),
     (2, 'Теперь у нас один-один.', "'Now it's one-all.' Like a football score: the toilet when they were boys, and the kiss today. Samson isn't convinced."),
     (3, None, "'Yeah, right.' A tiny word said twice, slowly, and it means 'I don't believe a word of it'. Arkady keeps going."),
-    (4, None, "'All by the rules, like a knights' tournament.' He makes it sound like a fair duel between gentlemen. Then he tries charm."),
+    (4, None, "'All by the rules, like a knightly tournament.' He makes it sound like a fair duel between gentlemen. Then he tries charm."),
     (5, 'Самсон, ну улыбнись.', "'Samson, come on, smile.' The little word in front of the command softens it, like 'come on'. And then the big word of the scene."),
     (5, 'У нас мир.', "'We're at peace.' Literally, 'at us, peace'. The same word means both 'peace' and 'the world'. Samson agrees, a little too happily."),
     (6, None, "'Peace!' He takes Arkady's hand, shakes it, and squeezes hard."),

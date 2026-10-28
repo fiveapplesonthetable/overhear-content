@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Gabriel | C'est un triomphe absolu, bravo! | It is an absolute triumph, bravo! | #703: Bravo ! | verbatim |
 | 14 | Arlette | Elle retombe toujours sur ses pieds! | She always lands on her feet! | #697: Elle retombe sur ses pieds ! | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Look at Juliette going on stage!' Gabriel watches the opening moments of the ceremony.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I am very happy tonight.' Juliette expresses her deep joy at hosting the grand occasion.
 - 'I declare open this great festival!' Juliette officially opens the Cannes Film Festival.
 - 'It is an absolute triumph, bravo!' Gabriel applauds Juliette's courage and charm on stage.
-- 'She always lands on her feet!' Arlette admires Juliette's ability to turn disaster into success.
+- 'She always lands on her feet!' Arlette admires Juliette's ability to turn disaster into success. Now let's listen to the scene once more from start to finish.

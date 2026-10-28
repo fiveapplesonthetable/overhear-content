@@ -26,6 +26,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 14 | Sacha | Merci beaucoup, Camille! | Thank you very much, Camille! | #422: Merci, Camille | verbatim |
 | 15 | Sacha | Je monte dans ce taxi. | I am getting into this taxi. | #422: Je t'envoie un taxi | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'No, Camille. You are mistaken.' Camille corrects Mathias on the surprise phone call.
@@ -42,4 +43,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Right, sneak out the back with him.' Andrea gives clear tactical escape directions.
 - 'I am sending you a taxi right now.' Camille arranges a swift getaway car.
 - 'Thank you very much, Camille!' Sacha expresses heartfelt relief at her quick thinking.
-- 'I am getting into this taxi.' The director safely steps into the vehicle.
+- 'I am getting into this taxi.' The director safely steps into the vehicle. Now listen to the whole scene again at normal speed, and see how much more you catch.

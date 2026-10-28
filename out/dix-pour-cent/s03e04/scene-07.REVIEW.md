@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Catherine | Il va beaucoup l'aider pour sa rééducation. | He will help her a lot with her rehabilitation. | #455: Pour votre rééducation. | verbatim |
 | 14 | Mathias | D'accord, nous verrons bien ce soir. | Okay, we shall see tonight. | #460: Oh, ben, certainement. | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Catherine, did you want to see me?' Mathias asks his wife about her visit.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Do you think that is a good idea?' Mathias questions the matchmaking scheme.
 - 'He is charming and extremely talented.' Catherine praises Alexandre's qualities.
 - 'He will help her a lot with her rehabilitation.' Catherine justifies the match with therapeutic benefits.
-- 'Okay, we shall see tonight.' Mathias concedes with quiet hesitation.
+- 'Okay, we shall see tonight.' Mathias concedes with quiet hesitation. Now let's listen to the entire dialogue once more to lock in what you have learned.

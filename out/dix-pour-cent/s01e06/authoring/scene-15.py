@@ -16,7 +16,7 @@ TRANSITION = "Now let's listen to the entire dialogue once more."
 OUTRO = 'Sofia gave the audition everything she had, but her intense kung-fu styling was not what Constance had in mind. Remember the phrase for starting right away: all of a continuation. See you next time!'
 CLOSING = ('constance', 'À demain!')
 STORY = [
-    ('gabriel', "Ne t'inquiète pas, sois naturelle.", 'Don', [(424, 'On y va')], ''),
+    ('gabriel', "Ne t'inquiète pas, sois naturelle.", "Don't worry, be natural.", [(424, 'On y va')], ''),
     ('constance', 'Sofia, on y va?', 'Sofia, shall we go?', [(423, 'Sofia'), (424, 'On y va')], ''),
     ('sofia', 'Oui, je suis prête.', 'Yes, I am ready.', [(425, 'Désolée, oui')], ''),
     ('sofia', "Je m'appelle Sofia Leprince, j'ai 25 ans.", 'My name is Sofia Leprince, I am twenty-five years old.', [(426, "Je m'appelle Sofia Leprince, j'ai 25 ans")], ''),

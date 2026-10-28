@@ -49,5 +49,5 @@ WALK = [
     (12, None, "'Thank you, it is very impressive.' Sofia admires the professional setting."),
     (13, None, "'Here are your headphones.' Julien hands her the audio gear."),
     (14, None, "'Relax, everything is fine. Whenever you are ready.' Julien offers warm reassurance."),
-    (15, None, "'Okay, I am ready.' Sofia collects herself to perform."),
+    (15, None, "'Okay, I am ready.' Sofia collects herself to perform. Now let's listen to the entire dialogue once more to lock in what you have learned."),
 ]

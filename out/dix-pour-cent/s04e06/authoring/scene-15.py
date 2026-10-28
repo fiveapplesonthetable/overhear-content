@@ -26,7 +26,7 @@ STORY = [
     ('jean', "Il plongeait jusqu'au bout de sa passion.", 'He dived to the very end of his passion.', [(681, "sa passion jusqu'au bout")], ''),
     ('andrea', 'Comme dans Le Grand Bleu!', 'Like in The Big Blue!', [(679, 'Le Grand Bleu')], ''),
     ('jean', 'Ce nouveau scénario ressemble à cet esprit.', 'This new script resembles that spirit.', [(683, 'quelque chose de ça')], ''),
-    ('andrea', 'Vous sauvez le projet de Xavier!', 'You are saving Xavier', [(683, 'quelque chose de ça')], ''),
+    ('andrea', 'Vous sauvez le projet de Xavier!', "You are saving Xavier's project!", [(683, 'quelque chose de ça')], ''),
     ('jean', 'Nous allons créer une œuvre magnifique.', 'We are going to create a magnificent work.', [(683, 'quelque chose de ça')], ''),
     ('andrea', 'Merci mille fois pour votre confiance.', 'Thank you a thousand times for your trust.', [(683, 'quelque chose de ça')], ''),
     ('jean', 'À bientôt pour le tournage, Andréa!', 'See you soon for filming, Andrea!', [(684, 'À bientôt')], ''),

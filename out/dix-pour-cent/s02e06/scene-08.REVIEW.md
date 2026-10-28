@@ -14,7 +14,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 2 | L'écrivain | C'est du très haut débit pour vous. | It is high-speed broadband for you. | #158: Le très haut débit pour toute votre équipe. | verbatim |
 | 3 | Hervé | Merci beaucoup, c'est vraiment très pratique. | Thank you very much, it is really very practical. | #159: Merci, c'est parfait. | verbatim |
 | 4 | L'écrivain | Vous savez, moi aussi je suis écrivain. | You know, I am a writer too. | #160: Moi aussi je suis écrivain. | verbatim |
-| 5 | L'écrivain | On voit des choses folles chez les gens. | One sees crazy things in people | #161: ce qu'on voit quand on entre chez les gens ! | verbatim |
+| 5 | L'écrivain | On voit des choses folles chez les gens. | One sees crazy things in people's homes. | #161: ce qu'on voit quand on entre chez les gens ! | verbatim |
 | 6 | Hervé | Non, je ne peux pas imaginer ça. | No, I cannot imagine that. | #162: Non, je n'imaginerais pas. | verbatim |
 | 7 | L'écrivain | J'ai tout écrit dans ce nouveau scénario. | I wrote everything in this new screenplay. | #163: J'ai tout raconté dans ce scénario. | verbatim |
 | 8 | L'écrivain | C'est incroyable derrière les portes fermées. | It is unbelievable behind closed doors. | #164: ce qu'on voit derrière les portes fermées. | verbatim |
@@ -23,6 +23,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 11 | Hervé | Isabelle Huppert rêve de jouer un routeur! | Isabelle Huppert dreams of playing a router! | #167: Isabelle Huppert a toujours rêvé de jouer un routeur ! | verbatim |
 | 12 | Hervé | Je plaisante, mais je ne vais pas là-bas. | I am joking, but I am not going there. | #168: C'est juste que je ne vais pas à Cannes. | verbatim |
 | 13 | Hervé | Je reste ici pour garder l'agence. | I stay here to look after the agency. | #168: C'est juste que je ne vais pas à Cannes. | verbatim |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -38,4 +39,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'You can give it to famous actors.' The amateur writer hopes to reach major stars on the red carpet.
 - 'Isabelle Huppert dreams of playing a router!' Herve mocks the absurd pitch with dry sarcasm.
 - 'I am joking, but I am not going there.' Herve gently lets the technician down.
-- 'I stay here to look after the agency.' Herve laments being stuck in Paris holding down the fort.
+- 'I stay here to look after the agency.' Herve laments being stuck in Paris holding down the fort. Now let's listen to the scene once more from start to finish.

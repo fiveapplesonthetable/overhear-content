@@ -27,6 +27,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 15 | Gabriel | C'est magnifique, Sofia. | It is wonderful, Sofia. | #857: C'est magnifique, Sofia. | verbatim |
 | 16 | Gabriel | Tu es vraiment magnifique. | You are really wonderful. | #857: Tu es magnifique. | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'A singing prisoner, that is very original.' Gabriel comments on the unusual premise of the film.

@@ -27,12 +27,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 15 | Le technicien | Vous me recevez? Faites un pas en arrière. | Do you receive me? Take a step back. | #254: Vous me recevez ?<br>#255: Faites un pas en arrière. | verbatim |
 | 16 | Le technicien | Très bien, elle est opérationnelle. | Very good, it is operational. | #246: Bien<br>#259: Elle est opérationnelle. | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Good evening everyone, thank you for coming.' Juliette greets the imaginary audience on stage.
 - 'It is with immense pride that I welcome you here.' Juliette delivers an emotional opening line.
 - 'In the most beautiful place in the world: a movie theater.' Juliette praises the cinema hall.
-- 'I have your earpiece. Do you want to try it?' The technician interrupts to fit the prompting device.
+- 'I have your earpiece. Do you want to try it?' The technician prompts device.
 - 'How does it work?' Juliette asks about the technical operation.
 - 'I can show you if you like.' The technician offers a direct demonstration.
 - 'Do you mind if we speak informally?' The technician asks to drop formal address.
@@ -44,4 +45,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'It is just a voice in your head, like your own thoughts.' The technician coaches her mental approach.
 - 'Oh, yes! I understand now.' Juliette catches on to the technique.
 - 'Do you receive me? Take a step back.' The technician tests the wireless range.
-- 'Very good, it is operational.' The technician concludes the audio test successfully.
+- 'Very good, it is operational.' The technician concludes the audio test successfully. Now let's listen to the entire dialogue once more to lock in what you have learned.

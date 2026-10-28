@@ -43,5 +43,5 @@ WALK = [
     (9, None, "'Yes, Andréa is managing her career.' Gabriel confirms that Andrea is representing her."),
     (10, None, "'You have a wonderful agency!' Julien compliments the vibrant atmosphere at ASK."),
     (11, None, "'Thank you for this lovely meeting, Julien.' Sofia warmly bids farewell to the pop singer."),
-    (12, None, "'Goodbye, see you very soon to rehearse!' Julien leaves on an upbeat note, promising to sing together soon."),
+    (12, None, "'Goodbye, see you very soon to rehearse!' Julien leaves on an upbeat note, promising to sing together soon. Now let's listen to the scene once more from start to finish."),
 ]

@@ -24,6 +24,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 12 | Mathias | Bon appétit chérie, passe une bonne journée! | Enjoy your lunch darling, have a good day! | #358: Bon appétit, chérie ! | verbatim |
 | 13 | Noémie | Merci monsieur Barneville, bon appétit aussi. | Thank you Mr. Barneville, enjoy your lunch too. | #359: Merci, monsieur Barneville. | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Watch out when Vincent speaks at lunchtime.' Justine alerts Noemie about an eccentric coworker in the dining hall.
@@ -38,4 +39,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Some people say that you were fast-tracked.' Justine admits that rumors circulate regarding Mathias's favoritism.
 - 'I have been working hard for years.' Noemie reminds her of six intense years proving her skills at ASK.
 - 'Enjoy your lunch darling, have a good day!' Mathias walks past and uses a pet name in public.
-- 'Thank you Mr. Barneville, enjoy your lunch too.' Noemie quickly responds with formal deference to maintain boundaries.
+- 'Thank you Mr. Barneville, enjoy your lunch too.' Noemie quickly responds with formal deference to maintain boundaries. Now let's listen to Noemie's workplace exchange once more from start to finish.

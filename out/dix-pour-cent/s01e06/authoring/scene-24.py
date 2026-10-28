@@ -18,7 +18,7 @@ CLOSING = ('andrea', 'Au revoir!')
 STORY = [
     ('sofia', 'Oui?', 'Yes?', [(630, 'Oui')], ''),
     ('gabriel', 'Sofia? Excuse-moi, je te dérange?', 'Sofia? Sorry, am I disturbing you?', [(631, 'Sofia'), (632, 'je te dérange')], ''),
-    ('sofia', 'Non, tu ne me déranges pas.', 'No, you aren', [(643, 'tu ne me déranges pas')], ''),
+    ('sofia', 'Non, tu ne me déranges pas.', "No, you aren't bothering me.", [(643, 'tu ne me déranges pas')], ''),
     ('gabriel', 'Je devais te voir.', 'I had to see you.', [(634, 'Je devais te voir')], ''),
     ('gabriel', "Je me sens vraiment mal pour tout à l'heure.", 'I feel really bad about earlier.', [(635, "Je me sens vraiment mal pour tout à l'heure")], ''),
     ('sofia', "Ce que j'ai dit était horrible.", 'What I said was horrible.', [(637, "ce que j'ai dit était horrible")], ''),
@@ -51,5 +51,5 @@ WALK = [
     (13, None, "'I had a pool problem!' Andrea explains her drenched clothes with frantic absurdity."),
     (14, None, "'Gabriel, marry me!' Heartbroken over Colette, Andréa blurts out a wild marriage proposal to Gabriel."),
     (15, None, "'Protect me, save me!' Andréa begs her bewildered colleague to rescue her from her loneliness."),
-    (16, None, "'Help me, Gabriel...' Andrea whispers her final desperate plea in the hallway."),
+    (16, None, "'Help me, Gabriel...' Andrea whispers her final desperate plea in the hallway. Now listen to the whole scene again at normal speed, and see how much more you catch."),
 ]

@@ -43,5 +43,5 @@ WALK = [
     (9, None, "'Without her, our agency is ruined.' Hicham makes it clear that without Elise's revenues, ASK will collapse."),
     (10, None, "'We must vote between partners now.' Andrea insists that the managing partners must decide together by formal vote."),
     (11, None, "'Who votes to save our jobs?' Hicham asks who is prepared to vote for survival over personal pride."),
-    (12, None, "'I vote to welcome Elise into our firm.' Gabriel reluctantly votes yes to protect the company's financial future."),
+    (12, None, "'I vote to welcome Elise into our firm.' Gabriel reluctantly votes yes to protect the company's financial future. Now let's listen to the partners' crucial vote once more from start to finish."),
 ]

@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'Is this a joke? Turn off that mobile phone!' The director loses patience with interruptions."),
     (11, None, "'It is my colleague Gladys from the hospital.' Isabelle reveals her genuine medical day job."),
     (12, None, "'Put your phone on airplane mode, Isabelle.' Camille prevents further interruptions."),
-    (13, None, "'Come on, everyone in position, action!' The director restarts the take with renewed energy."),
+    (13, None, "'Come on, everyone in position, action!' The director restarts the take with renewed energy. Now let's listen to the complete discussion once more to reinforce the vocabulary."),
 ]

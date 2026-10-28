@@ -17,12 +17,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 5 | Andréa | Mais tu poses dans des magazines. | But you pose in magazines. | #122: Tu poses dans des magazines... | verbatim |
 | 6 | Aymeline | Je travaille avec des artistes photographes. | I work with photographic artists. | #123: je travaille avec des artistes photographes. | verbatim |
 | 7 | Andréa | D'abord, on ouvre la fenêtre pour fumer. | First, we open the window to smoke. | #127: D'abord, on ouvre la fenêtre<br>#128: avant que l'alarme incendie | verbatim |
-| 8 | Andréa | Ensuite, parlons de ta future carrière. | Next, let | #129: Ensuite, parlons de ta carrière.<br>#130: Celle que tu pourrais avoir. | verbatim |
+| 8 | Andréa | Ensuite, parlons de ta future carrière. | Next, let's talk about your future career. | #129: Ensuite, parlons de ta carrière.<br>#130: Celle que tu pourrais avoir. | verbatim |
 | 9 | Aymeline | J'ai déjà un agent pour la publicité. | I already have an agent for advertising. | #131: J'ai déjà un agent.<br>#132: Pour la pub. C'est différent. | verbatim |
 | 10 | Andréa | Ici, il s'agit de vrais artistes. | Here, it is about real artists. | #133: Il s'agit de travailler<br>#134: avec de vrais artistes. | verbatim |
 | 11 | Andréa | Tu es une vraie actrice, pas un cintre. | You are a real actress, not a coat hanger. | #140: Tu es une vraie actrice, pas un cintre. | verbatim |
 | 12 | Aymeline | Tu as des nouvelles de Norman? | Do you have any news about Norman? | #141: Des nouvelles de Norman ? | verbatim |
 | 13 | Andréa | Deux mois d'attente, c'est une catastrophe. | Two months of waiting, it is a disaster. | #142: Deux mois d'attente. Catastrophe ! | verbatim |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -38,4 +39,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Here, it is about real artists.' Andrea insists that cinema acting involves working with genuine auteur artists.
 - 'You are a real actress, not a coat hanger.' Andrea pays her a sharp compliment to convince her she belongs on screen.
 - 'Do you have any news about Norman?' Aymeline inquires about the film project with Norman Thavaud.
-- 'Two months of waiting, it is a disaster.' Andrea laments the two-month delay facing the production.
+- 'Two months of waiting, it is a disaster.' Andrea laments the two-month delay facing the production. Now let's listen to the scene once more from start to finish.

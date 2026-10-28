@@ -47,5 +47,5 @@ WALK = [
     (11, None, "'Let us have lunch on my boat on Monday.' Gillieres proposes an exclusive meeting on his yacht."),
     (12, None, "'It will be calm and very pleasant.' The wealthy mogul promises a secluded setting."),
     (13, None, "'I can help with the financing.' Gillieres dangles financial backing for her movie project."),
-    (14, None, "'Monday is perfect for us!' Andrea eagerly agrees, knowing Juliette leaves Cannes on Sunday."),
+    (14, None, "'Monday is perfect for us!' Andrea eagerly agrees, knowing Juliette leaves Cannes on Sunday. Now listen to the whole scene again at normal speed, and see how much more you catch."),
 ]

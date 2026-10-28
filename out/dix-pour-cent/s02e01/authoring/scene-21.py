@@ -16,7 +16,7 @@ TRANSITION = "Now let's listen to the entire exchange once more from beginning t
 OUTRO = 'Virginie secures a temporary shelter away from the paparazzi. Remember the useful idiom for expressing a need: avoir besoin de. See you next time!'
 CLOSING = ('virginie', 'Bonne journée!')
 STORY = [
-    ('virginie', "Je suis chez ma sœur, c'est l'horreur!", 'I am at my sister', [(641, "Je suis chez ma sœur, c'est l'horreur !")], ''),
+    ('virginie', "Je suis chez ma sœur, c'est l'horreur!", "I am at my sister's, it is horrible!", [(641, "Je suis chez ma sœur, c'est l'horreur !")], ''),
     ('virginie', "Les paparazzi sont devant l'immeuble.", 'The paparazzi are in front of the building.', [(642, "Les paparazzi sont campés dans l'immeuble d'en face")], ''),
     ('virginie', "Ils attendent les enfants à l'école.", 'They wait for the kids at school.', [(643, "Ils ont chopé les enfants à la sortie de l'école")], ''),
     ('virginie', 'En plus, son copain me regarde bizarrement.', 'Plus, her boyfriend looks at me strangely.', [(644, 'En plus son copain me lance des drôles de regards')], ''),
@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'That does not bother me at all.' She is willing to put up with dust and noise to escape the cameras."),
     (11, None, "'I just need a quiet spot.' Any small corner will suffice for her temporary hideout."),
     (12, None, "'What do you mean by my door code?' Gabriel is surprised that she is already asking for access."),
-    (13, None, "'I just have pajamas and tissues. Thank you!' Virginie accepts without waiting for him to object."),
+    (13, None, "'I just have pajamas and tissues. Thank you!' Virginie accepts without waiting for him to object. Now let's listen to the entire exchange once more from beginning to end."),
 ]

@@ -18,7 +18,7 @@ CLOSING = ('mathias', 'Au revoir!')
 STORY = [
     ('mathias', 'Prenez-le doucement dans vos bras.', 'Take him gently in your arms.', [(1369, 'Agnez-le')], ''),
     ('mathias', 'Il sort tout seul maintenant.', 'He is coming out on his own now.', [(1370, 'il va sortir tout seul')], ''),
-    ('mathias', "Directement sur le ventre d'Andréa!", 'Directly onto Andrea', [(1372, 'Directement sur le ventre de la mer')], ''),
+    ('mathias', "Directement sur le ventre d'Andréa!", "Directly onto Andrea's stomach!", [(1372, 'Directement sur le ventre de la mer')], ''),
     ('andrea', 'Merci infiniment pour votre aide précieuse.', 'Thank you so much for your precious help.', [(1377, 'Merci'), (1378, "merci de m'avoir accompagnée")], ''),
     ('andrea', 'Je suis complètement épuisée maintenant.', 'I am completely exhausted now.', [(1379, 'Je suis épuisée')], ''),
     ('andrea', "Je vais m'écrouler de fatigue.", 'I am going to collapse from tiredness.', [(1380, "Je vais m'écrouler, je crois")], ''),

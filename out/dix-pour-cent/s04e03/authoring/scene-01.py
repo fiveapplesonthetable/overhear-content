@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'I know, I am getting my daughter Flora ready.' Andrea explains that she must dress and pack for the baby."),
     (11, None, "'Do not be late this morning.' Gabriel insists on total professionalism on the production set."),
     (12, None, "'I am coming right away to the film shoot.' Andrea reassures him that she will leave the apartment immediately."),
-    (13, None, "'Perfect, I count on you, Andrea.' Gabriel trusts his partner to handle the demanding actor smoothly."),
+    (13, None, "'Perfect, I count on you, Andrea.' Gabriel trusts his partner to handle the demanding actor smoothly. Now let's listen to Andrea and Gabriel's exchange once more from start to finish."),
 ]

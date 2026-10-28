@@ -16,13 +16,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 4 | Mathias | Il a parlé de vache à lait! | He spoke of a cash cow! | new | new |
 | 5 | Gabriel | Et aussi de dindon de la farce! | And also of a fall guy! | new | new |
 | 6 | Andréa | Il nous a dit de gérer nos problèmes. | He told us to handle our problems. | new | new |
-| 7 | Mathias | Il est très métaphore animalière, non? | He is very into animal metaphors, isn | #117: Il est très métaphore animalière, Hicham, non ? | verbatim |
+| 7 | Mathias | Il est très métaphore animalière, non? | He is very into animal metaphors, isn't he? | #117: Il est très métaphore animalière, Hicham, non ? | verbatim |
 | 8 | Gabriel | C'est vrai, il adore les animaux! | That is true, he loves animals! | #117: métaphore animalière | verbatim |
 | 9 | Andréa | Mais la situation reste très grave. | But the situation remains very serious. | #118: En attendant | verbatim |
-| 10 | Mathias | Nous devons fêter l'anniversaire d'ASK. | We must celebrate ASK | #118: il est 30 ans d'ASK | verbatim |
+| 10 | Mathias | Nous devons fêter l'anniversaire d'ASK. | We must celebrate ASK's anniversary. | #118: il est 30 ans d'ASK | verbatim |
 | 11 | Gabriel | Ce sont bientôt les trente ans. | The thirty years are coming soon. | #118: 30 ans d'ASK | verbatim |
 | 12 | Andréa | Ça risque de ressembler à des funérailles! | It is likely to look like a funeral! | #119: Ça risque fort de ressembler à des funérailles | verbatim |
 | 13 | Mathias | Nous devons trouver une solution rapide. | We must find a quick solution. | new | new |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -38,4 +39,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'We must celebrate ASK's anniversary.' Mathias mentions the major celebration planned for the agency.
 - 'The thirty years are coming soon.' Gabriel reminds them that the milestone date is approaching fast.
 - 'It is likely to look like a funeral!' Andrea fears the party will turn into a gloomy disaster.
-- 'We must find a quick solution.' Mathias urges the partners to take immediate action.
+- 'We must find a quick solution.' Mathias urges the partners to take immediate action. Now let's listen to the partners' conversation once more from start to finish.

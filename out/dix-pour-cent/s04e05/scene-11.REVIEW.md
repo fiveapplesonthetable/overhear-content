@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Sofia | Tu parles à Sarah ou à moi? | Are you talking to Sarah or to me? | #462: Tu parles à qui ? À Sarah ou à moi ? | verbatim |
 | 14 | Gabriel | Je ne sais plus du tout. | I no longer know at all. | #462: Tu parles à qui ? À Sarah ou à moi ? | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Sarah agrees to see me again tonight!' Gabriel shares his excitement.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Promise me that you no longer love her.' Sofia pushes for total reassurance.
 - 'Sofia, we should stop there.' Gabriel recognizes that the exercise has gone too far.
 - 'Are you talking to Sarah or to me?' Sofia challenges him to face his authentic emotions.
-- 'I no longer know at all.' Gabriel admits his helplessness in front of her.
+- 'I no longer know at all.' Gabriel admits his helplessness in front of her. Now let's listen to the complete discussion once more to reinforce the vocabulary.

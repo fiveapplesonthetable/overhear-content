@@ -49,5 +49,5 @@ WALK = [
     (12, None, "'Our father! It is so weird.' Camille marvels at how strange it feels to say 'our father' out loud."),
     (13, None, "'We are just going to forget about that and become friends.' Hippolyte suggests putting the family drama aside and simply becoming friends."),
     (14, None, "'You are my sister-buddy and I am your brother-buddy!' They invent playful nicknames blending 'sister' and 'brother' with the slang word for buddy."),
-    (15, None, "'Cheers, brother-buddy!' Camille clinks her coffee cup against his to toast their new friendship."),
+    (15, None, "'Cheers, brother-buddy!' Camille clinks her coffee cup against his to toast their new friendship. Now listen to their cafe conversation once more from start to finish."),
 ]

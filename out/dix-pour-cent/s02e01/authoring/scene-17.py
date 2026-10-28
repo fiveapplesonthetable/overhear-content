@@ -24,14 +24,14 @@ STORY = [
     ('francois', 'Vous savez, la maison de retraite.', 'You know, the retirement home.', [(474, 'Vous savez, la maison de retraite')], ''),
     ('arlette', "Tout le monde sait que j'y ai travaillé.", 'Everyone knows that I worked there.', [(475, "Tout le monde sait que j'y ai travaillé")], ''),
     ('arlette', "Et j'y ai rencontré beaucoup de gens.", 'And I met a lot of people there.', [(476, "Et j'y ai rencontré beaucoup de gens")], ''),
-    ('francois', 'Ils ne savent pas comment vous avez géré leur argent.', 'They don', [(477, "Ils ne savent pas comment vous avez géré l'argent")], ''),
+    ('francois', 'Ils ne savent pas comment vous avez géré leur argent.', "They don't know how you managed their money.", [(477, "Ils ne savent pas comment vous avez géré l'argent")], ''),
     ('arlette', "C'est de la diffamation!", 'That is slander!', [(478, "C'est de la diffamation")], ''),
     ('francois', "Non, c'est une menace. J'ai des preuves.", 'No, it is a threat. I have proof.', [(479, "Non, c'est une menace"), (479, "La diffamation, c'est quand on n'a pas de preuves")], ''),
     ('arlette', "Qu'est-ce que vous voulez?", 'What do you want?', [(480, "Qu'est-ce que vous voulez")], ''),
     ('francois', "C'est la guerre entre ASK et StarMedia.", 'It is war between ASK and StarMédia.', [(481, "C'est la guerre entre ASK et StarMedia")], ''),
     ('francois', 'Personne ne rachète personne.', 'Nobody buys anyone out.', [(482, 'mais chacun de son côté'), (483, 'et personne ne rachète personne')], ''),
     ('francois', 'Sinon les vieux dossiers ressortent.', 'Otherwise the old files come out.', [(484, 'Sinon les vieux dossiers ressortent')], ''),
-    ('arlette', 'Allez, Jean Gabin, on y va.', 'Come on, Jean Gabin, let', [(485, 'Allez, on y va')], ''),
+    ('arlette', 'Allez, Jean Gabin, on y va.', "Come on, Jean Gabin, let's go.", [(485, 'Allez, on y va')], ''),
 ]
 WALK = [
     (0, None, "'Come on, Jean Gabin. Take your walk.' Arlette encourages her dog on the sidewalk."),
@@ -49,5 +49,5 @@ WALK = [
     (12, None, "'It is war between ASK and StarMédia.' The rival agency head sets the stakes."),
     (13, None, "'Nobody buys anyone out.' He demands an end to the buyout talks."),
     (14, None, "'Otherwise the old files come out.' He issues a final ultimatum."),
-    (15, None, "'Come on, Jean Gabin, let's go.' Arlette walks away without yielding."),
+    (15, None, "'Come on, Jean Gabin, let's go.' Arlette walks away without yielding. Now let's listen to the entire dialogue once more without pauses."),
 ]

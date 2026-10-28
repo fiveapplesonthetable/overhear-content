@@ -41,5 +41,5 @@ WALK = [
     (8, None, "'What did you find?' She eagerly asks for the incriminating evidence."),
     (9, None, "'Nothing! Not a single message on her phone.' He is shocked to see an empty inbox."),
     (10, None, "'So we got worked up for nothing?' She is disappointed that their heist yielded no proof."),
-    (11, None, "'Cleaning up, it is a guilty move.' He insists that deleting everything proves she is hiding something. Now let's hear the scene once more."),
+    (11, None, "'Cleaning up, it is a guilty move.' He insists that deleting everything proves she is hiding something."),
 ]

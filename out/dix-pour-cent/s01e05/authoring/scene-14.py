@@ -26,13 +26,13 @@ STORY = [
     ('julie', "Pourquoi il y a toujours des scènes d'amour?", 'Why are there always love scenes?', [(258, "Pourquoi il y a toujours des scènes d'amour")], ''),
     ('julie', 'Ce serait tellement plus fort de le suggérer symboliquement.', 'It would be so much stronger to suggest it symbolically.', [(259, 'Ce serait tellement plus fort de le suggérer symboliquement')], ''),
     ('andrea', "C'est-à-dire?", 'Meaning what?', [(260, "C'est-à-dire")], ''),
-    ('julie', 'Je ne sais pas.', 'I don', [(261, 'sais pas')], ''),
+    ('julie', 'Je ne sais pas.', "I don't know.", [(261, 'sais pas')], ''),
     ('julie', 'Une rivière qui coule? Des animaux qui gambadent dans les bois?', 'A flowing river? Animals frolicking in the woods?', [(262, 'Une rivière qui coule'), (262, 'Des animaux qui gambadent dans les bois')], ''),
     ('andrea', 'Oui! Le public préférerait voir des lapins dans les bois.', 'Yes! The audience would prefer to see rabbits in the woods.', [(263, 'Le public préférerait voir des lapins')], ''),
     ('andrea', "Plutôt que toi et JoeyStarr ensemble à l'écran!", 'Rather than you and JoeyStarr together on screen!', [(264, 'plutôt que toi et JoeyStarr')], ''),
 ]
 WALK = [
-    (0, None, "'With all these delays, we have half a day left in the barn.' The impersonal construction literally means 'there remains to us'."),
+    (0, None, "'With all these delays, we have half a day left in the barn.' This impersonal construction literally means 'there remains to us'."),
     (1, None, "'I had to rewrite the schedule.' Notice the past participle of 'must' with a circumflex accent."),
     (2, None, "'We shoot the love scene tomorrow.' In French cinema, the verb for turning camera reels means to shoot or film."),
     (3, None, "'Maybe it is not the right time.' Andréa tries to buy time for her reluctant actress."),
@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'I don't know.' Put on the spot, Julie scrambles for an example."),
     (11, None, "'A flowing river? Animals frolicking in the woods?' She pitches vintage poetic cinema metaphors."),
     (12, None, "'Yes! The audience would prefer to see rabbits in the woods.' Andréa replies with dry, affectionate sarcasm."),
-    (13, None, "'Rather than you and JoeyStarr together on screen!' She reminds Julie what the public really paid to see. Now let's hear the whole conversation again from start to finish."),
+    (13, None, "'Rather than you and JoeyStarr together on screen!' She reminds Julie what the public really paid to see."),
 ]

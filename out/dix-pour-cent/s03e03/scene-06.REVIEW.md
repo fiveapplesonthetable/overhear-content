@@ -14,7 +14,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 2 | Sofia | Il y a seulement cent vingt copies distribuées! | There are only one hundred and twenty prints distributed! | #333: Il m'a dit qu'il y avait 120 copies dans toute la France. | verbatim |
 | 3 | Sofia | Ce n'est vraiment pas terrible du tout. | It is really not great at all. | #334: C'est pas terrible. | verbatim |
 | 4 | Mathias | C'est une très belle sortie en salles! | It is a very good theatrical release! | #336: C'est une très belle sortie pour un film aussi exigeant | verbatim |
-| 5 | Mathias | Le film de Julien est une œuvre exigeante. | Julien | #336: pour un film aussi exigeant que celui de Julien. | verbatim |
+| 5 | Mathias | Le film de Julien est une œuvre exigeante. | Julien's film is a demanding work. | #336: pour un film aussi exigeant que celui de Julien. | verbatim |
 | 6 | Sofia | Donc personne ne va voir ce film magnifique! | So nobody is going to see this magnificent film! | #339: Donc, personne va y aller, quoi. | verbatim |
 | 7 | Sofia | Le film va disparaître au bout d'une semaine. | The film will disappear after one week. | #343: le film, il peut dégager au bout d'une semaine, | verbatim |
 | 8 | Mathias | Sophia, calmez-vous, les dés sont jetés maintenant. | Sophia, calm down, the die is cast now. | #347: Sophia, calmez-vous.<br>#348: Les dés sont jetés. | verbatim |
@@ -23,6 +23,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 11 | Mathias | La séance du mercredi matin est un vrai baromètre. | The Wednesday morning screening is a real barometer. | #356: La séance de 9h au HAL, le mercredi, c'est un baromètre. | verbatim |
 | 12 | Sofia | Je ne veux plus tourner dans des films! | I do not want to act in movies anymore! | #362: Moi, je veux plus tourner dans un film si c'est pour vivre ça | verbatim |
 | 13 | Mathias | Ne renoncez pas, tout va très bien se passer. | Do not give up, everything will go very well. | #365: Très bien, très bien. | verbatim |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -38,4 +39,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I will call the distributor Wednesday morning at nine.' Mathias promises to monitor opening day theater receipts directly.
 - 'The Wednesday morning screening is a real barometer.' Mathias explains that Paris morning attendance accurately predicts nationwide success.
 - 'I do not want to act in movies anymore!' Sophia declares dramatically that the emotional stress of film releases is unbearable.
-- 'Do not give up, everything will go very well.' Mathias encourages his talented star to stay strong before the premiere.
+- 'Do not give up, everything will go very well.' Mathias encourages his talented star to stay strong before the premiere. Now let's listen to the scene once more from start to finish.

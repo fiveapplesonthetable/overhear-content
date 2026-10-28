@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Gabriel | Je vais essayer de réparer mon erreur. | I am going to try to fix my mistake. | #373: Messagerie. | verbatim |
 | 14 | Andréa | Dépêche-toi, le casting commence maintenant. | Hurry up, the casting is starting now. | #373: Messagerie. | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Andrea, we have a big problem with the casting.' Gabriel breaks the bad news to Andrea.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Yes, I reached his voicemail.' Gabriel explains that Mathias did not answer.
 - 'We must find a solution right away.' Andrea urges prompt action.
 - 'I am going to try to fix my mistake.' Gabriel vows to make amends.
-- 'Hurry up, the casting is starting now.' Andrea gives urgent marching orders.
+- 'Hurry up, the casting is starting now.' Andrea gives urgent marching orders. Now let's listen to the entire dialogue once more to lock in what you have learned.

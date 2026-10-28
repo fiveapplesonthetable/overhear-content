@@ -16,22 +16,22 @@ TRANSITION = "Now let's listen to the entire dialogue once more."
 OUTRO = 'Mathias has one more problem to fix before Hippolyte and Camille get any closer. See you next time!'
 CLOSING = ('catherine', 'Bonne journée!')
 STORY = [
-    ('catherine', 'Hippolyte ne sera pas là pour le dîner.', 'Hippolyte won', [(245, 'Hippolyte ne sera pas là pour le dîner')], ''),
+    ('catherine', 'Hippolyte ne sera pas là pour le dîner.', "Hippolyte won't be here for dinner.", [(245, 'Hippolyte ne sera pas là pour le dîner')], ''),
     ('mathias', 'Il travaille son texte?', 'Is he working on his lines?', [], ''),
-    ('catherine', "Il ne dit pas, mais j'en doute.", 'He doesn', [(247, "Il ne dit pas, mais j'en doute")], ''),
-    ('mathias', "Il voit toujours l'assistante d'Andréa?", 'Is he still seeing Andréa', [(248, "Il voit toujours l'assistante d'Andréa")], ''),
-    ('catherine', 'Aucune idée. Il ne me dit rien.', 'No idea. He doesn', [(249, 'Aucune idée. Il ne me dit rien')], ''),
-    ('catherine', "Camille, c'est ça? Elle est sympa, non?", "Camille, is that right? She's nice, isn't she?", [(250, "Camille, c'est ça"), (251, 'Elle est sympa, non')], ''),
-    ('mathias', 'Je ne la connais pas très bien.', 'I don', [(252, 'Je ne la connais pas très bien')], ''),
+    ('catherine', "Il ne dit pas, mais j'en doute.", "He doesn't say, but I doubt it.", [(247, "Il ne dit pas, mais j'en doute")], ''),
+    ('mathias', "Il voit toujours l'assistante d'Andréa?", "Is he still seeing Andréa's assistant?", [(248, "Il voit toujours l'assistante d'Andréa")], ''),
+    ('catherine', 'Aucune idée. Il ne me dit rien.', "No idea. He doesn't tell me anything.", [(249, 'Aucune idée. Il ne me dit rien')], ''),
+    ('catherine', "Camille, c'est ça? Elle est sympa, non?", "She's nice, isn't she?", [(250, "Camille, c'est ça"), (251, 'Elle est sympa, non')], ''),
+    ('mathias', 'Je ne la connais pas très bien.', "I don't know her very well.", [(252, 'Je ne la connais pas très bien')], ''),
     ('catherine', "Mais elle travaille à l'agence!", 'But she works at the agency!', [(253, 'Elle'), (253, 'travaille')], ''),
     ('mathias', 'Pas avec moi. Un petit peu.', 'Not with me. A little bit.', [(253, 'Pas avec moi'), (254, 'Un petit peu')], ''),
     ('mathias', 'Peut-être, mais et alors?', 'Maybe, but so what?', [(255, 'Peut-être, mais et alors')], ''),
     ('catherine', 'Il veut peut-être se marier avec elle!', 'Maybe he wants to marry her!', [], ''),
     ('mathias', "Mais qu'est-ce que tu racontes?", 'What on earth are you talking about?', [(256, "Mais qu'est-ce que tu racontes")], ''),
-    ('catherine', 'Je plaisante, Mathias.', 'I', [(257, 'Je plaisante, Mathias')], ''),
-    ('mathias', "Ce n'est pas très intelligent de sortir avec l'assistante de son agent.", 'It', [(258, 'très'), (259, "de sortir avec l'assistante de son agent")], ''),
+    ('catherine', 'Je plaisante, Mathias.', "I'm joking, Mathias.", [(257, 'Je plaisante, Mathias')], ''),
+    ('mathias', "Ce n'est pas très intelligent de sortir avec l'assistante de son agent.", "It's not very smart to go out with his agent's assistant.", [(258, 'très'), (259, "de sortir avec l'assistante de son agent")], ''),
     ('catherine', 'Dis-lui, alors.', 'Tell him, then.', [(260, 'alors')], ''),
-    ('mathias', 'Oui, je vais lui parler.', 'Yes, I', [], ''),
+    ('mathias', 'Oui, je vais lui parler.', "Yes, I'll talk to him.", [], ''),
 ]
 WALK = [
     (0, None, "'Hippolyte won't be here for dinner.' Future tense of 'to be' wrapped in the two-part negation."),
@@ -47,8 +47,8 @@ WALK = [
     (9, None, "'Maybe, but so what?' The two words at the end mean 'and so?' or 'so what?'."),
     (10, None, "'Maybe he wants to marry her!' Catherine teases him, having no idea why that thought horrifies Mathias."),
     (11, None, "'What on earth are you talking about?' Literally 'what is it that you are telling?'. Mathias nearly chokes on his wine."),
-    (12, None, "'I'm joking, Mathias.' A useful everyday verb for 'to joke' or 'to kid'."),
+    (12, None, "'I'm joking, Mathias.' Catherine uses a useful everyday action word for 'to joke' or 'to kid'."),
     (13, None, "'It's not very smart to go out with his agent's assistant.' Mathias quickly invents a professional excuse."),
     (14, None, "'Tell him, then.' Command form of 'tell' joined by a hyphen to the word for 'to him'."),
-    (15, None, "'Yes, I'll talk to him.' Near future again: 'I am going to talk to him'. Now let's listen to the whole dinner conversation again."),
+    (15, None, "'Yes, I'll talk to him.' Near future again: 'I am going to talk to him'."),
 ]

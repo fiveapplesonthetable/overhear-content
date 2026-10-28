@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Élise | Je t'envoie les contrats signés demain. | I will send you signed contracts tomorrow. | #1033: envoyez les contrats demain | verbatim |
 | 14 | Mathias | D'accord, bonne soirée à toi, Élise. | All right, good evening to you, Elise. | #1034: D'accord | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Hello Mathias? Yes, it is finally done.' Elise delivers the long-awaited news.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'This profession destroys our good friendships.' Elise mourns the erosion of authentic bonds.
 - 'Business demands toughness.' Mathias explains the uncompromising demands of corporate survival.
 - 'I will send you signed contracts tomorrow.' Elise returns to immediate paperwork tasks.
-- 'All right, good evening to you, Elise.' Mathias concludes the conversation pensively.
+- 'All right, good evening to you, Elise.' Mathias concludes the conversation pensively. Now let's listen to the complete discussion once more to reinforce the vocabulary.

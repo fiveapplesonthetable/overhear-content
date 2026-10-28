@@ -10,23 +10,25 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Sofia | Donc, en fait, je ne suis pas vraiment réceptionniste. | So, actually, I | #466: Donc, en fait<br>#467: Je ne suis pas vraiment réceptionniste | verbatim |
-| 2 | Sofia | C'est juste un travail pour faire plaisir à ma famille. | It | #469: C'est juste un travail pour faire plaisir à ma famille | verbatim |
+| 1 | Sofia | Donc, en fait, je ne suis pas vraiment réceptionniste. | So, actually, I'm not really a receptionist. | #466: Donc, en fait<br>#467: Je ne suis pas vraiment réceptionniste | verbatim |
+| 2 | Sofia | C'est juste un travail pour faire plaisir à ma famille. | It's just a job to make my family happy. | #469: C'est juste un travail pour faire plaisir à ma famille | verbatim |
 | 3 | Sofia | À mon banquier aussi. | My banker too. | #470: À mon banquier aussi | verbatim |
-| 4 | Sofia | Parce qu'en fait, je suis comédienne. | Because actually, I | #471: Parce qu'en fait, je suis comédienne | verbatim |
+| 4 | Sofia | Parce qu'en fait, je suis comédienne. | Because actually, I'm an actress. | #471: Parce qu'en fait, je suis comédienne | verbatim |
 | 5 | Gabriel | Ce vin est incroyablement bon! | This wine is incredibly good! | #473: Ce vin est incroyablement bon | verbatim |
 | 6 | Gabriel | Vous l'avez goûté? | Have you tasted it? | #474: Vous l'avez goûté ? | verbatim |
 | 7 | Sofia | Non. | No. | #474: Non | verbatim |
-| 8 | Gabriel | Il est magnifique. | It | #475: Il est magnifique | verbatim |
+| 8 | Gabriel | Il est magnifique. | It's magnificent. | #475: Il est magnifique | verbatim |
 | 9 | Sofia | En ce moment, je joue dans un nouveau spectacle. | Right now, I am acting in a new show. | #476: Je joue en ce moment dans un spectacle à la Porte des Lilas | verbatim |
 | 10 | Gabriel | Porte des Lilas, d'accord. | Porte des Lilas, right. | #477: Porte des Lilas, d'accord | verbatim |
 | 11 | Sofia | Ce serait super si vous pouviez venir. | It would be great if you could come. | #478: Ce serait super si vous pouviez venir | verbatim |
-| 12 | Sofia | Voilà le flyer. Ça s'appelle Absence. | Here's the flyer. It's called Absence. | #479: Voilà le flyer<br>#480: Ça s'appelle Absence | verbatim |
+| 12 | Sofia | Voilà le flyer. Ça s'appelle Absence. | It's called Absence. | #479: Voilà le flyer<br>#480: Ça s'appelle Absence | verbatim |
 | 13 | Gabriel | Merci. | Thank you. | #481: Merci | verbatim |
-| 14 | Sofia | Vous n'êtes pas intéressé? | You | #482: Vous n'êtes pas intéressé ? | verbatim |
-| 15 | Gabriel | Non, ce n'est pas ça. | No, it | #483: Non, c'est pas ça | verbatim |
-| 16 | Gabriel | J'ai un problème au boulot. | I | #484: j'ai un problème au boulot | verbatim |
+| 14 | Sofia | Vous n'êtes pas intéressé? | You're not interested? | #482: Vous n'êtes pas intéressé ? | verbatim |
+| 15 | Gabriel | Non, ce n'est pas ça. | No, it's not that. | #483: Non, c'est pas ça | verbatim |
+| 16 | Gabriel | J'ai un problème au boulot. | I've got a problem at work. | #484: j'ai un problème au boulot | verbatim |
 | 17 | Cécile | Un problème au boulot, Gabriel? | A problem at work, Gabriel? | #485: Un problème au boulot, Gabriel ? | verbatim |
+
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -38,13 +40,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Have you tasted it?' The small word before the verb stands for 'it', the wine. He's polite: the formal 'you'.
 - 'No.' She hasn't touched it; she's too busy pitching.
 - 'It's magnificent.' He's talking about the wine, of course, not about her play. Sofia tries again.
-- 'Right now, I am acting in a new show.'m in a show at the moment, at the Porte des Lilas.' The verb means 'to play', and it's also how you say 'to act'. The Porte des Lilas is a district on the edge of Paris.
+- 'Right now, I am acting in a new show.' The verb means 'to play', and it's also how you say 'to act'. The Porte des Lilas is a district on the edge of Paris.
 - 'Porte des Lilas, right.' He just repeats the name, the way you do when you're not really listening.
-- 'It would be great if you could come.' A very polite way to invite someone. Learn it as one block: 'it would be great', then 'if you could come'.
+- 'It would be great if you could come.' Sofia uses a very polite way to invite someone. Learn it as one block: 'it would be great', then 'if you could come'.
 - 'Here's the flyer.' This handy word means 'here it is', when you hand something over. The French borrow the English word for the leaflet.
 - 'It's called Absence.' Literally 'it calls itself Absence', the same pattern French uses to say your own name.
 - 'Thank you.' And then a long silence.
-- 'You're not interested?' A question made just by raising the voice at the end.
+- 'You're not interested?' Sofia forms a question just by raising her voice at the end.
 - 'No, it's not that.' He means: it's not you. Then he admits what's really on his mind.
 - 'I've got a problem at work.' The word for 'work' here is the casual, everyday one; you'll hear it all the time.
 - 'A problem at work, Gabriel?' And that voice belongs to Cécile, who has found him. The problem has just walked up to his table. Here's the whole lunch again, in French.

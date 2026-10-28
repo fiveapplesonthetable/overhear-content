@@ -17,17 +17,17 @@ OUTRO = 'François has made his position clear: he refuses to jump on a plastic 
 CLOSING = ('francois', 'Bonne soirée!')
 STORY = [
     ('andrea', "Tu sais ce qu'est un agent?", 'Do you know what an agent is?', [(1, "Tu sais ce qu'est un agent ?")], ''),
-    ('christophe', "Dix pour cent du cachet d'une star?", 'Ten percent of a star', [(2, "Dix pour cent du cachet d'une star ?")], ''),
+    ('christophe', "Dix pour cent du cachet d'une star?", "Ten percent of a star's pay?", [(2, "Dix pour cent du cachet d'une star ?")], ''),
     ('andrea', "Ce projet avec François Berléand, c'était mon idée.", 'This project with François Berléand was my idea.', [(8, "C'était mon idée"), (10, 'Bel avec Berléand')], ''),
     ('christophe', "Le jeune metteur en scène avec l'acteur âgé.", 'The young director with the older actor.', [(12, 'avec le jeune metteur en scène'), (12, "L'acteur âgé")], ''),
     ('andrea', 'Une perspective excitante, non?', 'An exciting prospect, right?', [(13, 'Une perspective excitante, non ?')], ''),
     ('christophe', "J'adore!", 'I love it!', [(14, "J'adore !")], ''),
     ('francois', 'Je suis tout à vous.', 'I am all yours.', [(19, 'Je suis tout à vous')], ''),
-    ('francois', 'Mais je ne saute pas sur le canard!', 'But I', [(20, 'Je ne saute pas sur le canard')], ''),
+    ('francois', 'Mais je ne saute pas sur le canard!', "But I'm not jumping on the duck!", [(20, 'Je ne saute pas sur le canard')], ''),
     ('christophe', 'Juste une fois, pour voir!', 'Just once, to see!', [(21, 'Juste une fois, pour voir !')], ''),
-    ('francois', "Je ne saute pas sur le canard, c'est clair?", 'I', [(22, "Je ne saute pas sur le canard ! C'est clair ?")], ''),
+    ('francois', "Je ne saute pas sur le canard, c'est clair?", "I'm not jumping on the duck, is that clear?", [(22, "Je ne saute pas sur le canard ! C'est clair ?")], ''),
     ('christophe', "L'eau est délicieuse, tu peux essayer.", 'The water is lovely, you can try.', [(23, "L'eau est délicieuse"), (24, 'Tu peux au moins essayer')], ''),
-    ('francois', "C'est ridicule, la piscine et le canard!", 'It', [(25, "C'est ridicule ! La piscine, le canard")], ''),
+    ('francois', "C'est ridicule, la piscine et le canard!", "It's ridiculous, the pool and the duck!", [(25, "C'est ridicule ! La piscine, le canard")], ''),
     ('francois', "Ce n'est pas Dom Juan, ça!", 'That is not Dom Juan!', [(25, "C'est pas Dom Juan, ça !")], ''),
     ('francois', "J'en ai marre!", 'I have had enough!', [(27, "J'en ai marre !")], ''),
 ]
@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'The water is lovely, you can try.' Christophe tries to tempt him into the heated swimming pool."),
     (11, None, "'It's ridiculous, the pool and the duck!' François insists that the avant-garde staging looks absurd."),
     (12, None, "'That is not Dom Juan!' He argues that modern stage gimmicks ruin the spirit of classical drama."),
-    (13, None, "'I have had enough!' Losing his patience entirely, François storms off the rehearsal set. Now let's hear the whole rehearsal once more from beginning to end."),
+    (13, None, "'I have had enough!' Losing his patience entirely, François storms off the rehearsal set."),
 ]

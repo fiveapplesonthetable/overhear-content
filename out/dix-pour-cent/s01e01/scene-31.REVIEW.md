@@ -10,27 +10,29 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Camille | Voilà. J'ai les chiffres que vous vouliez. | There. I have the figures you wanted. | #805: J'ai les chiffres que vous vouliez | verbatim |
+| 1 | Camille | Voilà. J'ai les chiffres que vous vouliez. | I have the figures you wanted. | #805: J'ai les chiffres que vous vouliez | verbatim |
 | 2 | Camille | Au revoir, Andréa. | Goodbye, Andréa. | new | new |
-| 3 | Andréa | Je vous rappelle, d'accord? | I | #806: Je vous rappelle, d'accord | verbatim |
+| 3 | Andréa | Je vous rappelle, d'accord? | I'll call you back, okay? | #806: Je vous rappelle, d'accord | verbatim |
 | 4 | Andréa | Camille, attendez! | Camille, wait! | #807: Camille, attendez | verbatim |
 | 5 | Andréa | Richard, bonjour! Le Tchekhov était fabuleux. | Richard, hello! The Chekhov was fabulous. | #809: Richard, bonjour<br>#810: Le Tchekhov était fabuleux | verbatim |
-| 6 | Camille | Andréa? Mais je ne suis plus votre assistante. | Andréa? But I | new | new |
+| 6 | Camille | Andréa? Mais je ne suis plus votre assistante. | Andréa? But I'm not your assistant anymore. | new | new |
 | 7 | Andréa | Bon, donnez-moi les chiffres. | Okay, give me the figures. | #812: Bon, donnez-moi les chiffres | verbatim |
 | 8 | Camille | Tenez. Les voilà. | Here. There they are. | new | new |
 | 9 | Camille | Et alors? | So? | #813: Et alors | verbatim |
-| 10 | Andréa | Je vous garde. | I | #814: Je vous garde | verbatim |
+| 10 | Andréa | Je vous garde. | I'm keeping you. | #814: Je vous garde | verbatim |
 | 11 | Camille | C'est sûr? | Really? For sure? | #815: C'est sûr | verbatim |
 | 12 | Andréa | Oui, c'est sûr. | Yes, for sure. | #815: Oui | verbatim |
 | 13 | Camille | Oh, merci! Merci, Andréa! | Oh, thank you! Thank you, Andréa! | #816: Merci | verbatim |
 | 14 | Camille | Je veux tellement ce poste! | I want this job so much! | #817: Je veux ce poste | verbatim |
-| 15 | Camille | Je vais tout donner! | I | #818: Je vais tout donner | verbatim |
+| 15 | Camille | Je vais tout donner! | I'm going to give it everything! | #818: Je vais tout donner | verbatim |
 | 16 | Andréa | Vous allez à votre bureau? | Are you going to your desk? | #820: Vous allez à votre bureau | verbatim |
 | 17 | Camille | Oui! Et comment! | Yes! You bet! | #821: Oui<br>#822: Et comment | verbatim |
 
+
+
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'There.' A tiny word for 'here it is' or 'that's it', and you'll hear it in every French conversation.
+- 'There.' Camille uses a tiny word for 'here it is' or 'that's it', heard in every French conversation.
 - 'I have the figures you wanted.' Camille writes the formal 'you' to her boss.
 - 'Goodbye, Andréa.' The standard polite goodbye, literally 'until seeing again'. Camille heads for the stairs. Andréa, on the phone, sees the note.
 - 'I'll call you back, okay?' She hangs up fast.

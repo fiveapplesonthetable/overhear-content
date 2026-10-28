@@ -11,9 +11,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Hervé | Attends, viens là, Camille. | Wait, come over here, Camille. | #313: Attends... viens là. | verbatim |
-| 2 | Hervé | Imiter Hicham à ton entretien? Tu ne devrais pas être toi-même? | Imitate Hicham at your interview? Shouldn | #326: Imiter Hicham à ton entretien ?<br>#327: Tu ne devrais pas être toi-même ? | verbatim |
+| 2 | Hervé | Imiter Hicham à ton entretien? Tu ne devrais pas être toi-même? | Imitate Hicham at your interview? Shouldn't you be yourself? | #326: Imiter Hicham à ton entretien ?<br>#327: Tu ne devrais pas être toi-même ? | verbatim |
 | 3 | Camille | J'ai la tête qui tourne. | My head is spinning. | #328: J'ai la tête qui tourne. | verbatim |
-| 4 | Camille | Les CV des candidats, c'est du niveau Harvard! | The candidates | #329: Les CV des candidats, c'est du niveau Harvard ! | verbatim |
+| 4 | Camille | Les CV des candidats, c'est du niveau Harvard! | The resumes of these candidates are Harvard level! | #329: Les CV des candidats, c'est du niveau Harvard ! | verbatim |
 | 5 | Noémie | Tu as l'avantage de travailler ici. | You have the advantage of working here. | #336: Tu as l'avantage de travailler ici. | verbatim |
 | 6 | Noémie | Regarde, c'est Eugénie Léon-Brun. | Look, that is Eugenie Leon-Brun. | #330: C'est Eugénie Léon-Brun. | verbatim |
 | 7 | Noémie | Droit, spécialisée en propriété intellectuelle. | Law school, specialized in intellectual property. | #331: Droit, spécialisée en propriété intellectuelle. | verbatim |
@@ -27,12 +27,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 15 | Camille | Tu as vraiment fait une formation? | Did you really take a training course? | #324: j'ai fait une formation. | verbatim |
 | 16 | Noémie | C'est comme ça que j'ai appris à contrôler mes émotions. | That is how I learned to control my emotions. | #325: C'est comme ça que j'ai appris à contrôler mes émotions. | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Wait, come over here, Camille.' Herve calls Camille over to discuss her interview.
 - 'Imitate Hicham at your interview? Shouldn't you be yourself?' Herve questions the psychological tactic.
 - 'My head is spinning.' Camille confesses her mounting panic.
-- 'The candidates' resumes are Harvard level!' Camille marvels at the fierce competition.
+- 'The resumes of these candidates are Harvard level!' Camille marvels at the fierce competition.
 - 'You have the advantage of working here.' Noemie reminds Camille of her insider status.
 - 'Look, that is Eugenie Leon-Brun.' Noemie identifies the most formidable rival.
 - 'Law school, specialized in intellectual property.' Noemie recites Eugenie's stellar academic qualifications.
@@ -44,4 +45,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Go on, Noémie, crush the rival!' Herve enthusiastically encourages the sabotage.
 - 'I will talk to her about NLP and body language.' Noemie devises a psychological scheme.
 - 'Did you really take a training course?' Camille asks skeptically about Noemie's qualifications.
-- 'That is how I learned to control my emotions.' Noemie claims newfound emotional mastery.
+- 'That is how I learned to control my emotions.' Noemie claims newfound emotional mastery. Now let's listen to the entire dialogue once more to lock in what you have learned.

@@ -47,5 +47,5 @@ WALK = [
     (11, None, "'Is that true? The plan worked!' Gabriel is thrilled that their elaborate bluff paid off."),
     (12, None, "'Be very gentle with him.' Gabriel counsels her to approach the wounded star with care and tact."),
     (13, None, "'Do not worry, I am handling it.' Andrea reassures him that she has the situation completely under control."),
-    (14, None, "'You are the best, good luck!' Gabriel cheers her on before she sets off into the night."),
+    (14, None, "'You are the best, good luck!' Gabriel cheers her on before she sets off into the night. Now listen to the whole scene again at normal speed, and see how much more you catch."),
 ]

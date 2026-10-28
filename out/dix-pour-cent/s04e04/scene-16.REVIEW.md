@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Mathias | Tu as raison, assieds-toi à mon bureau! | You are right, sit down at my desk! | #1022: Tu as raison<br>#1024: assieds-toi | verbatim |
 | 14 | Mathias | On trinque? Je vais chercher à boire! | Shall we drink to it? I will get something to drink! | #1026: On trinque | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Hello Camille! How are you doing?' Mathias welcomes his daughter into his apartment.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'We can go to town hall tomorrow!' Mathias eagerly suggests making the declaration immediately.
 - 'Can we download the form now?' Camille suggests preparing the paperwork right away.
 - 'You are right, sit down at my desk!' Mathias invites her to use his personal computer.
-- 'Shall we drink to it? I will get something to drink!' Mathias heads to the kitchen to celebrate the moment.
+- 'Shall we drink to it? I will get something to drink!' Mathias heads to the kitchen to celebrate the moment. Now let's listen to the complete discussion once more to reinforce the vocabulary.

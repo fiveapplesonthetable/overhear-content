@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'No, he still refuses to speak to me.' Here, Ramzy remains hurt and completely unreachable."),
     (11, None, "'It weighs on me to hurt him.' She carries a heavy emotional burden from their breakup."),
     (12, None, "'Look through the window, they are still there!' She spots the persistent paparazzi waiting outside on the street."),
-    (13, None, "'Leave me alone, go away from here!' She vents her anger and frustration into the night air."),
+    (13, None, "'Leave me alone, go away from here!' She vents her anger and frustration into the night air. Now let's listen to the entire exchange once more from beginning to end."),
 ]

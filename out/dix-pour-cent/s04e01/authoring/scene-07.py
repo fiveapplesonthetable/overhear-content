@@ -43,5 +43,5 @@ WALK = [
     (9, None, "'You can count on us for that!' Herve jokes back that they will miss her presence dearly."),
     (10, None, "'We could have a drink together tonight?' Camille invites Noemie to share a drink after working hours."),
     (11, None, "'Yes, a farewell drink just between us!' Noemie eagerly embraces the proposal for an assistants' gathering."),
-    (12, None, "'That is perfect, without the annoying bosses!' Herve celebrates the idea of an evening free from agency drama."),
+    (12, None, "'That is perfect, without the annoying bosses!' Herve celebrates the idea of an evening free from agency drama. Now let's listen to the assistants' farewell exchange once more from start to finish."),
 ]

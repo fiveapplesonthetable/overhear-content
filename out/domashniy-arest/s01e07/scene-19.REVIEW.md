@@ -32,7 +32,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Everything is in a new way.' Eduard Vladimirovich is enjoying a quiet morning with Marina.
 - 'No one will bother us now.' This phrase means 'to us'.
 - 'Oh! What is the matter?' Suddenly Arkady's heavy plaster cast bangs the door open.
-- 'Forgive me, for goodness' sake!' Literally 'for the sake of God'.
+- 'Forgive me, for heaven's sake!' Literally 'for the sake of God'.
 - 'I wanted to knock and miscalculated.' With both arms in plaster casts, he swung too hard.
 - 'I want to apologise for yesterday.' The adjective used as a noun means 'yesterday's events'.
 - 'The anaesthesia simply wore off, and there were wild pains.' He blames the hospital painkillers for his rude behaviour the night before.

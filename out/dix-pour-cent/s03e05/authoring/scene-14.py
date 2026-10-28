@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'Beatrice refuses to shoot naked in this bag.' Andrea stands squarely behind her client's refusal."),
     (11, None, "'Beatrice must resume shooting this afternoon.' The director issues a non-negotiable ultimatum."),
     (12, None, "'Otherwise, we will declare a breach of contract.' Birag threatens formal legal retaliation."),
-    (13, None, "'We will defend our actress all the way!' Andrea vows complete loyalty to Beatrice."),
+    (13, None, "'We will defend our actress all the way!' Andrea vows complete loyalty to Beatrice. Now let's listen to the entire dialogue once more to lock in what you have learned."),
 ]

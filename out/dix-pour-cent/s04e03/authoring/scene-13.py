@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'You must rest for your film shoot.' Andrea reminds him that a demanding camera crew awaits tomorrow."),
     (11, None, "'Can I serve myself a drink?' Jose heads toward the kitchen counter looking for refreshments."),
     (12, None, "'Drink only cold water now.' Andrea insists that alcohol is out of the question tonight."),
-    (13, None, "'All right, I am going to calm down a bit.' Jose relents and agrees to quiet down for the night."),
+    (13, None, "'All right, I am going to calm down a bit.' Jose relents and agrees to quiet down for the night. Now let's listen to the complete discussion once more to reinforce the vocabulary."),
 ]

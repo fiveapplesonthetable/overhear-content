@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Virginie | Regarde par la fenêtre, ils sont encore là! | Look through the window, they are still there! | #678: Sales cons ! | verbatim |
 | 14 | Virginie | Laissez-moi tranquille, partez d'ici! | Leave me alone, go away from here! | #680: Bande de voyeurs ! Lâchez-moi ! | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'This shoot was a big mistake.' Virginie reflects on the romantic comedy they filmed together.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'No, he still refuses to speak to me.' Here, Ramzy remains hurt and completely unreachable.
 - 'It weighs on me to hurt him.' She carries a heavy emotional burden from their breakup.
 - 'Look through the window, they are still there!' She spots the persistent paparazzi waiting outside on the street.
-- 'Leave me alone, go away from here!' She vents her anger and frustration into the night air.
+- 'Leave me alone, go away from here!' She vents her anger and frustration into the night air. Now let's listen to the entire exchange once more from beginning to end.

@@ -43,5 +43,5 @@ WALK = [
     (9, None, "'Hello gentlemen, is everything going well here?' Andrea steps into the corridor to check on the loud voices."),
     (10, None, "'Yes, I am talking with my new agent.' Franck announces his loyalty to Gabriel in front of the agency head."),
     (11, None, "'I just gave Dubosc a proper lecture!' Gabriel tells Andrea with immense pride how he stood up to the star."),
-    (12, None, "'Bravo Gabriel, that is how they make progress!' Andrea encourages Gabriel's newfound boldness in guiding talent."),
+    (12, None, "'Bravo Gabriel, that is how they make progress!' Andrea encourages Gabriel's newfound boldness in guiding talent. Now let's listen to Gabriel and Franck's conversation once more from start to finish."),
 ]

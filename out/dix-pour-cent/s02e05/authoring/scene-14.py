@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'One thing is clear: I am going to make this film!' Guy asserts his determination."),
     (11, None, "'I can do it and I will do it.' Guy forcefully repeats his commitment."),
     (12, None, "'I understand, but what if it happens again?' Gabriel gently raises the risk of another memory lapse."),
-    (13, None, "'Compared to Pialat, this is a walk in the park!' Guy laughs off the pressure by invoking a notoriously tough director."),
+    (13, None, "'Compared to Pialat, this is a walk in the park!' Guy laughs off the pressure by invoking a notoriously tough director. Now listen to the whole scene again at normal speed, and see how much more you catch."),
 ]

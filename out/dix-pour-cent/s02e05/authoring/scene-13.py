@@ -47,5 +47,5 @@ WALK = [
     (11, None, "'No, not at all.' Camille has never heard the expression before."),
     (12, None, "'Not a word to anyone!' Andrea demands complete confidentiality."),
     (13, None, "'I say nothing, promise.' Camille vows to keep quiet."),
-    (14, None, "'It is our little secret.' Andrea seals the shared discovery."),
+    (14, None, "'It is our little secret.' Andrea seals the shared discovery. Now listen to the whole scene again at normal speed, and see how much more you catch."),
 ]

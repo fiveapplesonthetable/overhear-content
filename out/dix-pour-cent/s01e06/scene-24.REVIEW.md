@@ -12,7 +12,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 |---|---|---|---|---|---|
 | 1 | Sofia | Oui? | Yes? | #630: Oui | verbatim |
 | 2 | Gabriel | Sofia? Excuse-moi, je te dérange? | Sofia? Sorry, am I disturbing you? | #631: Sofia<br>#632: je te dérange | verbatim |
-| 3 | Sofia | Non, tu ne me déranges pas. | No, you aren | #643: tu ne me déranges pas | verbatim |
+| 3 | Sofia | Non, tu ne me déranges pas. | No, you aren't bothering me. | #643: tu ne me déranges pas | verbatim |
 | 4 | Gabriel | Je devais te voir. | I had to see you. | #634: Je devais te voir | verbatim |
 | 5 | Gabriel | Je me sens vraiment mal pour tout à l'heure. | I feel really bad about earlier. | #635: Je me sens vraiment mal pour tout à l'heure | verbatim |
 | 6 | Sofia | Ce que j'ai dit était horrible. | What I said was horrible. | #637: ce que j'ai dit était horrible | verbatim |
@@ -27,6 +27,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 15 | Andréa | Gabriel, épouse-moi! | Gabriel, marry me! | #654: Gabriel, épouse-moi | verbatim |
 | 16 | Andréa | Protège-moi, sauve-moi! | Protect me, save me! | #655: Protège-moi, sauve-moi | verbatim |
 | 17 | Andréa | Aide-moi, Gabriel... | Help me, Gabriel... | #656: Aide-moi, Gabriel | verbatim |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -46,4 +47,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I had a pool problem!' Andrea explains her drenched clothes with frantic absurdity.
 - 'Gabriel, marry me!' Heartbroken over Colette, Andréa blurts out a wild marriage proposal to Gabriel.
 - 'Protect me, save me!' Andréa begs her bewildered colleague to rescue her from her loneliness.
-- 'Help me, Gabriel...' Andrea whispers her final desperate plea in the hallway.
+- 'Help me, Gabriel...' Andrea whispers her final desperate plea in the hallway. Now listen to the whole scene again at normal speed, and see how much more you catch.

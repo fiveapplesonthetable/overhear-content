@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'Our story was totally different!' Noemie passionately defends their past romance."),
     (11, None, "'We suffered as well.' Mathias remembers the guilt and heartache they experienced together."),
     (12, None, "'We were romantic and sincere.' Noemie insists that their feelings were noble and pure."),
-    (13, None, "'Then let us smile to save the evening.' Mathias offers a warm concluding reassurance."),
+    (13, None, "'Then let us smile to save the evening.' Mathias offers a warm concluding reassurance. Now let's listen to the complete discussion once more to reinforce the vocabulary."),
 ]

@@ -27,20 +27,21 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 15 | Gabriel | Un pas en arrière vers l'avant! | A step backward toward the future! | #362: Un pas en arrière vers l'avant. | verbatim |
 | 16 | Le journaliste | D'accord, j'écris ça. | All right, I am writing that. | #363: Vous pouvez écrire ça. | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'So, what made you want to make this film?' The journalist opens with a standard promotional question.
+- 'So, what made you want to make this film?' This journalist opens with a standard promotional question.
 - 'The story was good. It is a comedy.' Virginie gives a lukewarm answer with minimal enthusiasm.
-- 'Was the film shoot fun with Ramzy?' A friendly inquiry that touches a very sore subject.
+- 'Was the film shoot fun with Ramzy?' Friendly as it sounds, the journalist's question touches a very sore subject.
 - 'Comedy is not necessarily funny. It is very tense.' She shatters promotional cheerfulness with brutal honesty.
-- 'You can see it on screen, it is annoying.' A passive reflexive verb describing how tension shows on screen.
+- 'You can see it on screen, it is annoying.' Virginie describes how tension shows on screen.
 - 'We are starting over from the beginning, please!' Gabriel intervenes immediately to stop the damage.
 - 'Let us talk about lies in a relationship.' The journalist zeroes in on the painful theme of the film.
 - 'No private life! That was our agreement.' Gabriel reminds Camille of their pact: strictly professional, with no private drama at work.
 - 'Can we talk about the future and your projects?' The journalist pivots to future work.
 - 'The future... I want to take a break from all that.' Virginie drops an industry bombshell about pausing her career.
 - 'No, do not write that! She is not taking a break!' Gabriel panics and forbids the journalist from printing it.
-- 'And what do I put instead?' The journalist asks for an acceptable substitute phrase.
+- 'And what do I put instead?' This journalist asks for an acceptable substitute phrase.
 - 'A breather! Taking a step back!' Gabriel brainstorms euphemisms on the spot.
 - 'Taking a step back, yes, that is good.' Virginie gently approves the softer expression.
 - 'A step backward toward the future!' Gabriel invents a bizarre contradictory slogan to make it sound positive.

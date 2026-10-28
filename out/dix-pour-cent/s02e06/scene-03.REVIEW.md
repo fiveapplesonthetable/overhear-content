@@ -25,19 +25,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Arlette | Il te fera beaucoup de bien, tu verras. | He will do you a lot of good, you will see. | #82: Il te fera du bien. | verbatim |
 | 14 | Hervé | D'accord, amène-le ce soir chez moi. | All right, bring him tonight to my place. | #83: S'il te plaît ! | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Tell me one thing, my dear Hervé.' A polite conversational opening setting an affectionate personal tone.
-- 'Yes Arlette, what is the matter?' A ready inquiry asking for clarification.
-- 'Can you take care of Jean Gabin?' A direct pronominal request asking for pet sitting help.
-- 'You are not taking him to Cannes?' A surprised negative question inquiring about festival company.
-- 'No, that is impossible with the dresses.' A blunt negative asserting high-fashion incompatibility.
-- 'Why is it impossible with the dresses?' An interrogative phrase seeking practical explanation.
-- 'He takes dresses for lampposts!' A humorous idiom illustrating the dog's mischievous outdoor habit.
-- 'That is a very bad habit, indeed.' An amused acknowledgment conceding canine misbehavior.
-- 'Please, agree to look after him.' A courteous imperative pleading for temporary pet care.
-- 'I have never had a dog at my place.' A past experience statement noting domestic inexperience.
+- 'Tell me one thing, my dear Hervé.' Arlette sets an affectionate personal tone.
+- 'Yes Arlette, what is the matter?' Hervé asks for clarification.
+- 'Can you take care of Jean Gabin?' Arlette asks for pet sitting help.
+- 'You are not taking him to Cannes?' Hervé inquires about festival company.
+- 'No, that is impossible with the dresses.' Arlette asserts high-fashion incompatibility.
+- 'Why is it impossible with the dresses?' Hervé seeks practical explanation.
+- 'He takes dresses for lampposts!' Arlette illustrates the dog's mischievous outdoor habit.
+- 'That is a very bad habit, indeed.' Hervé concedes canine misbehavior.
+- 'Please, agree to look after him.' Arlette pleads for temporary pet care.
+- 'I have never had a dog at my place.' Hervé notes domestic inexperience.
 - 'He is very gentle and very well-behaved.' Complementary descriptive adjectives praising pet temperament.
-- 'And what if he gets bored without you?' A conditional question worrying about separation anxiety.
-- 'He will do you a lot of good, you will see.' A reassuring prediction promising beneficial companionship.
-- 'All right, bring him tonight to my place.' An agreeable consent arranging evening handover.
+- 'And what if he gets bored without you?' Hervé worries about separation anxiety.
+- 'He will do you a lot of good, you will see.' Arlette promises beneficial companionship.
+- 'All right, bring him tonight to my place.' Hervé arranges evening handover. Now let's listen to Arlette and Herve again at full speed.

@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'Look, we are totally zen.' Jose demonstrates how peaceful the nursery atmosphere is."),
     (11, None, "'A car is waiting for you for the shoot.' Andrea reminds Jose of his strict filming schedule."),
     (12, None, "'All right, I am leaving immediately.' Jose hands Flora over and prepares for his work day."),
-    (13, None, "'Never touch my baby again!' Andrea sets a firm boundary with her unpredictable star client."),
+    (13, None, "'Never touch my baby again!' Andrea sets a firm boundary with her unpredictable star client. Now let's listen to the complete discussion once more to reinforce the vocabulary."),
 ]

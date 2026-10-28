@@ -25,19 +25,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Constance | Le rôle a été écrit pour vous! | The role was written for you! | #150: Le rôle a été écrit pour vous. | verbatim |
 | 14 | Constance | Allez, recommencez quand vous voulez. | Come on, start again whenever you want. | #151: Allez, on y va.<br>#152: Quand vous voulez... | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Fancy meeting you here!' Sofia performs her opening audition line with playful surprise.
-- 'The Morteau sausage is spectacular.' A humorous culinary line from the audition script.
+- 'The Morteau sausage is spectacular.' Sofia delivers a humorous culinary line from the audition script.
 - 'Stop! You ruined my appetite.' Constance harshly cuts off the performance before Sofia can finish.
-- 'Your look is blank, nothing is happening.' A blunt critical evaluation of the actress's facial expression.
-- 'Frankly, it is very boring.' An honest and unvarnished reaction from the casting director.
+- 'Your look is blank, nothing is happening.' Constance bluntly criticizes the young actress's blank expression.
+- 'Frankly, it is very boring.' Constance gives an unvarnished reaction as casting director.
 - 'The character is not complicated.' Constance insists that the role requires little psychological depth.
-- 'She is cute and sleeps her way to success.' A cynical breakdown of the female role.
-- 'She is not so different from you.' A cruel personal attack aimed directly at Sofia's integrity.
+- 'She is cute and sleeps her way to success.' Constance offers a cynical breakdown of the female role.
+- 'She is not so different from you.' Constance aims a cruel personal barb at Sofia's integrity.
 - 'Excuse me? What did you say?' Sofia reacts with shock and immediate anger at the insult.
 - 'Calm down, everyone knows it.' Constance dismisses Sofia's outrage with gossipy arrogance.
 - 'An actress who sleeps with her agent for roles.' The casting director openly voices industry rumors.
-- 'This role does not require much effort.' A snide remark belittling the effort required for the part.
-- 'The role was written for you!' A poisonous compliment intended to undermine Sofia's self-worth.
-- 'Come on, start again whenever you want.' Constance coldly signals that Sofia can resume the audition.
+- 'This role does not require much effort.' Constance belittles the effort required for the part.
+- 'The role was written for you!' Constance delivers a backhanded compliment to rattle Sofia.
+- 'Come on, start again whenever you want.' Constance coldly signals that Sofia can resume the audition. Now let's listen to the cruel casting session again without stopping.

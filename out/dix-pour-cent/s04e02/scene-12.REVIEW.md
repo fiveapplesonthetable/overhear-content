@@ -21,9 +21,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 9 | Andréa | Je suis actuellement à Bergues. | I am currently in Bergues. | #695: Bergues | verbatim |
 | 10 | Colette | Bergues? C'est quelle ligne de métro? | Bergues? Which metro line is that? | #695: Bergues | verbatim |
 | 11 | Andréa | C'est loin, dans les Hauts-de-France! | It is far, in Hauts-de-France! | #697: dans les Hauts-de-France | verbatim |
-| 12 | Colette | Tu plaisantes? J'en peux plus! | Are you joking? I can | #699: j'en peux plus | verbatim |
+| 12 | Colette | Tu plaisantes? J'en peux plus! | Are you joking? I can't take it! | #699: j'en peux plus | verbatim |
 | 13 | Andréa | Je devais sauver un gros contrat. | I had to save a major contract. | #699: j'en peux plus | verbatim |
 | 14 | Colette | Rentre à Paris le plus vite! | Return to Paris as fast as possible! | #687: Au revoir | verbatim |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'It is far, in Hauts-de-France!' Andrea clarifies the geography.
 - 'Are you joking? I can't take it!' Colette vents her frustration at the broken promise.
 - 'I had to save a major contract.' Andrea justifies the emergency business trip.
-- 'Return to Paris as fast as possible!' Colette demands her immediate return home.
+- 'Return to Paris as fast as possible!' Colette demands her immediate return home. Now let's listen to the complete discussion once more to reinforce the vocabulary.

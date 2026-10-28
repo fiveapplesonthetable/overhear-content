@@ -49,5 +49,5 @@ WALK = [
     (12, None, "'No, but it is crazy. Chet Baker!' Gabriel marvels at the legendary name."),
     (13, None, "'It was in New York, at the jazz club where he was playing.' Arlette paints the romantic setting."),
     (14, None, "'He fell madly in love with me. And I followed him.' Arlette describes her whirlwind adventure."),
-    (15, None, "'Jealousy is so stupid.' Arlette philosophizes on romantic possessiveness."),
+    (15, None, "'Jealousy is so stupid.' Arlette philosophizes on romantic possessiveness. Now let's listen to the entire dialogue once more to lock in what you have learned."),
 ]

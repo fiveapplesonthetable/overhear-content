@@ -25,19 +25,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Mathias | Dis à Berléand que ses contrats sont prêts. | Tell Berléand that his contracts are ready. | #20: Dis à Berléand que les contrats sont prêts. | verbatim |
 | 14 | Mathias | Au fait, ton haut sent la friture. | By the way, your top smells like frying. | #21: Au fait, ton haut sent la friture. | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'That actress is so magnetic and elegant.' In the cinema, Arlette whispers that Isabelle Adjani is so magnetic and elegant on screen.
 - 'She is truly poetic as well.' Arlette adds admiringly that the actress has a truly poetic presence too.
 - 'Then, the small woman becomes blind.' Arlette loudly narrates the next plot twist: the shorter woman goes blind.
 - 'And the stupid tall girl dies!' Arlette spoils the ending out loud as the tall girl dies on screen.
-- 'Arlette, are you still watching this series?' A direct question inquiring about a workplace distraction.
-- 'Yes, the ending annoys me a lot.' A pronominal emotion verb governing an adverb of quantity.
-- 'Can you find the next season?' An inverted modal question asking for pirated episodes.
-- 'One year is too long to wait.' An expression of impatience regarding TV release schedules.
-- 'What is the title again?' A familiar interrogative seeking clarification.
-- 'Do you live in a cave, Mathias?' A sarcastic cultural idiom teasing his lack of television awareness.
-- 'It is the famous series Game of Thrones.' A demonstrative statement introducing the global hit series.
-- 'I will see Louis Garrel at the theater Thursday.' A simple future tense verb outlining his evening schedule.
-- 'Tell Berléand that his contracts are ready.' An imperative command delivering professional instructions.
-- 'By the way, your top smells like frying.' An informal critique pointing out a kitchen odor.
+- 'Arlette, are you still watching this series?' Mathias inquires about a workplace distraction.
+- 'Yes, the ending annoys me a lot.' Arlette says the ending of the series really annoys her.
+- 'Can you find the next season?' Arlette asks for pirated episodes.
+- 'One year is too long to wait.' Arlette complains impatiently about the long wait between seasons.
+- 'What is the title again?' Mathias seeks clarification.
+- 'Do you live in a cave, Mathias?' Arlette teases his lack of television awareness.
+- 'It is the famous series Game of Thrones.' Arlette introduces the global hit series.
+- 'I will see Louis Garrel at the theater Thursday.' Mathias outlines his evening schedule.
+- 'Tell Berléand that his contracts are ready.' Mathias delivers professional instructions.
+- 'By the way, your top smells like frying.' Mathias points out a kitchen odor. Now let's listen to Arlette and Mathias's humorous banter again at full speed.

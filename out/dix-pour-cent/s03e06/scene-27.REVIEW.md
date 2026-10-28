@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Andréa | C'est une offre incroyable, Hicham. | That is an incredible offer, Hicham. | #1326: Ça t'intéresse | verbatim |
 | 14 | Hicham | Réfléchis bien à cette opportunité. | Think carefully about this opportunity. | #1326: Ça t'intéresse | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'It will be strange without Mathias.' Andrea reflects on the agency atmosphere after Mathias leaves.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I am looking for a new director.' Hicham describes the executive vacancy.
 - 'Does the director post interest you?' Hicham presents Andrea with the ultimate promotion.
 - 'That is an incredible offer, Hicham.' Andrea is stunned by the magnitude of the proposal.
-- 'Think carefully about this opportunity.' Hicham encourages her to weigh the decision.
+- 'Think carefully about this opportunity.' Hicham encourages her to weigh the decision. Now let's listen to the complete discussion once more to reinforce the vocabulary.

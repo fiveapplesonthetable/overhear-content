@@ -46,7 +46,7 @@ WALK = [
     (5, 'По объявлению.', "'Through an ad.', Ignatyev answers seriously."),
     (5, 'Девочка — сирота, у неё трагедия.', "He repeats the tale Yulya told him when she was hired: 'The girl is an orphan, she has a tragedy.'"),
     (6, 'Мать под поезд попала.', "According to Yulya's story, 'Her mother was hit by a train.'"),
-    (6, 'А отец с двадцатого этажа прыгнул.', "'And her father jumped from the twentieth floor' out of grief."),
+    (6, 'А отец с двадцатого этажа прыгнул.', "'And her father jumped from the twentieth floor.' He did it out of grief in her dramatic story."),
     (7, 'Она с бабушкой живёт.', "Now 'She lives with her grandmother.'"),
     (7, 'Бабушка болеет всё время.', "'Her grandmother is sick all the time.' Notice how the verb meaning 'is sick' governs 'the time' in the object form form here."),
     (8, 'Ну, так даже лучше!', "Vasya chuckles cynically: 'Well, that's even better!'"),

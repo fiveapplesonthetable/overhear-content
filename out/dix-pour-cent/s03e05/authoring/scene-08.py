@@ -43,5 +43,5 @@ WALK = [
     (9, None, "'Everyone talks about that nude scene.' Sophia laments being reduced to a single scandalous movie moment."),
     (10, None, "'But the audience truly loved the film.' Herve reminds her of the positive critical and viewer reception."),
     (11, None, "'That is rather complimentary for an actress!' Herve playfully frames the public attention as a compliment."),
-    (12, None, "'You will soon land a great role!' Camille encourages Sophia to stay confident and patient."),
+    (12, None, "'You will soon land a great role!' Camille encourages Sophia to stay confident and patient. Now let's listen to the agency conversation once more from start to finish."),
 ]

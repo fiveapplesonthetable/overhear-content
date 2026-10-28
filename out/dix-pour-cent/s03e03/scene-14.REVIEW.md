@@ -10,7 +10,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Samy | Bonjour, Gérard. Bonjour, madame. | Hello, Gerard. Hello, ma | #620: Bonjour, Gérard<br>#621: Bonjour, madame | verbatim |
+| 1 | Samy | Bonjour, Gérard. Bonjour, madame. | Hello, Gerard. Hello, ma'am. | #620: Bonjour, Gérard<br>#621: Bonjour, madame | verbatim |
 | 2 | Samy | Je suis venu passer des essais. | I came to do some screen tests. | #623: Je suis venu passer des essais | verbatim |
 | 3 | Emma | Ne t'inquiète pas, on a tout. | Do not worry, we have everything. | #626: On a tout ce qu'il faut | verbatim |
 | 4 | Samy | Excusez-moi, j'ai une question. | Excuse me, I have a question. | #629: Excusez-moi, madame, juste une question | verbatim |
@@ -19,11 +19,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 7 | Samy | Je ne connais personne dans le cinéma. | I do not know anyone in cinema. | #644: je connais personne dans le milieu de cinéma | verbatim |
 | 8 | Samy | Je ne sais pas comment vous remercier. | I do not know how to thank you. | #645: Je sais pas comment vous remercier | verbatim |
 | 9 | Gérard | Montre ton talent, mon grand. | Show your talent, my boy. | #646: bon, mon grand | verbatim |
-| 10 | Emma | Gérard, restez pour les essais de Samy. | Gerard, please stay for Samy | #654: j'aimerais bien que vous restiez pour les essais de Samy | verbatim |
+| 10 | Emma | Gérard, restez pour les essais de Samy. | Gerard, please stay for Samy's test. | #654: j'aimerais bien que vous restiez pour les essais de Samy | verbatim |
 | 11 | Gérard | D'accord, je peux rester un peu. | Alright, I can stay for a bit. | #655: bon, ben oui, d'accord | verbatim |
 | 12 | Emma | Je veux voir si cela marche ensemble. | I want to see if it works together. | #656: vous voir ensemble<br>#657: voir si ça marche | verbatim |
 | 13 | Gérard | Vous avez peur du contraste d'âge? | Are you afraid of the age contrast? | #658: Vous avez peur | verbatim |
 | 14 | Emma | Non, j'adore l'expérience face à la vitalité. | No, I love experience facing fresh energy. | #663: j'adore l'expérience face à la vitalité | verbatim |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 

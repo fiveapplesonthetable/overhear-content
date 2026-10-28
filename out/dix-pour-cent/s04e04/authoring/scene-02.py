@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'Let us go instead to a comedy club.' Sandrine pushes Gabriel toward discovering fresh comedic talent."),
     (11, None, "'All right, but let us stay very sensible tonight.' Gabriel agrees to accompany her while urging moderation."),
     (12, None, "'I have completely missed out on my comedic career!' Sandrine confesses her secret longing to perform raw stand-up comedy."),
-    (13, None, "'You are an immense actress, Sandrine.' Gabriel reassures her that her theatrical stature remains beyond question."),
+    (13, None, "'You are an immense actress, Sandrine.' Gabriel reassures her that her theatrical stature remains beyond question. Now let's listen to Sandrine and Gabriel's full discussion once more from start to finish."),
 ]

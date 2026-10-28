@@ -43,5 +43,5 @@ WALK = [
     (9, None, "'Mathias still makes many sincere efforts.' Camille reminds Catherine that Mathias genuinely wants their marriage to work."),
     (10, None, "'We are currently doing couples therapy.' Catherine reveals that they have started seeing a marriage counselor."),
     (11, None, "'He even takes the time to do yoga!' Catherine notes with affection that Mathias joins her daily yoga sessions."),
-    (12, None, "'That is a very lovely proof of sincere love.' Camille finds encouragement in Mathias stepping outside his comfort zone."),
+    (12, None, "'That is a very lovely proof of sincere love.' Camille finds encouragement in Mathias stepping outside his comfort zone. Now let's listen to the scene once more from start to finish."),
 ]

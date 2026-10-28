@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Gabriel | Bon travail. | Good work. | new | new |
 | 14 | Hervé | Au revoir. | Goodbye. | new | new |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'I did what you asked me.' Herve reports proudly.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'See you later.' Gabriel adds politely.
 - 'Yes, see you later.' Herve replies from the door.
 - 'Good work.' Gabriel calls out finally.
-- 'Goodbye.' Herve finishes. Now let's hear the whole thing.
+- 'Goodbye.' Herve finishes.

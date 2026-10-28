@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Andréa | D'accord, je ferai des efforts pour nous. | Okay, I will make efforts for us. | #550: Et on pourra avoir du temps pour nous. | verbatim |
 | 14 | Colette | Merci, Flora sera très heureuse parmi eux. | Thank you, Flora will be very happy among them. | #549: un tout petit peu d'amour pour les enfants des autres | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Sorry Colette, I was held up at work.' Andrea apologizes for her delayed arrival.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I thought we paid for real help.' Andrea expected outsourced nursery staff.
 - 'I need to return to a normal life.' Colette expresses her longing for routine and career.
 - 'Okay, I will make efforts for us.' Andrea accepts the compromise for their couple.
-- 'Thank you, Flora will be very happy among them.' Colette appreciates Andrea's concession.
+- 'Thank you, Flora will be very happy among them.' Colette appreciates Andrea's concession. Now let's listen to the complete discussion once more to reinforce the vocabulary.

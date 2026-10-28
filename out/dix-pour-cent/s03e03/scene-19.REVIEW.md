@@ -25,19 +25,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Samy | Je n'ai pas le bon niveau. | I do not have the right level. | #1207: Je suis pas au niveau | verbatim |
 | 14 | Gérard | Assieds-toi deux minutes avec moi. | Sit down two minutes with me. | #1218: Tu sais, Samy | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Gerard, wait for me in the street!' An urgent imperative calling after the star.
-- 'Why are you running like that, Samy?' A curious inquiry asking about his hurried pace.
-- 'I am so angry with myself.' A raw emotional outburst confessing inner frustration.
-- 'But angry about what exactly?' A gentle question probing the cause of his distress.
-- 'I totally blew my audition today.' A regretful confession lamenting a failed performance.
-- 'It is not your fault.' A direct reassurance relieving the young actor of blame.
-- 'You trusted me so much!' An appreciative exclamation remembering his mentor's faith.
-- 'You have lots of natural talent.' An encouraging compliment praising his raw ability.
-- 'And look what I do with it.' A bitter self-criticism acknowledging missed opportunity.
-- 'Failure is part of this profession.' A realistic reminder framing setbacks as normal experience.
-- 'I am only a simple waiter.' A self-deprecating statement questioning his place in cinema.
-- 'Do not say such silly things.' A firm imperative rejecting unfair self-pity.
-- 'I do not have the right level.' A disheartened admission doubting his acting standard.
-- 'Sit down two minutes with me.' A friendly invitation offering compassionate counsel.
+- 'Gerard, wait for me in the street!' Samy calls after the star.
+- 'Why are you running like that, Samy?' Gérard asks about his hurried pace.
+- 'I am so angry with myself.' Samy confesses inner frustration.
+- 'But angry about what exactly?' Gérard probes the cause of his distress.
+- 'I totally blew my audition today.' Samy laments a failed performance.
+- 'It is not your fault.' Gérard relieves the young actor of blame.
+- 'You trusted me so much!' Samy remembers his mentor's faith.
+- 'You have lots of natural talent.' Gérard praises his raw ability.
+- 'And look what I do with it.' Samy acknowledges missed opportunity.
+- 'Failure is part of this profession.' Gérard frames setbacks as normal experience.
+- 'I am only a simple waiter.' Samy questions his place in cinema.
+- 'Do not say such silly things.' Gérard rejects unfair self-pity.
+- 'I do not have the right level.' Samy doubts his acting standard.
+- 'Sit down two minutes with me.' Gérard offers compassionate counsel. Now let's listen to Samy and Gerard again at natural speed.

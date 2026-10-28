@@ -22,7 +22,7 @@ STORY = [
     ('bonnero', 'Je ne parle jamais aux journalistes.', 'I never talk to journalists.', [(613, 'Je ne suis pas journaliste')], ''),
     ('andrea', 'Je ne suis pas une journaliste!', 'I am not a journalist!', [(613, 'Je ne suis pas journaliste')], ''),
     ('bonnero', 'Qui êtes-vous alors, jeune femme?', 'Who are you then, young woman?', [(613, 'Je ne suis pas journaliste')], ''),
-    ('andrea', 'Entrons, je vous explique tout.', 'Let', [(616, 'je vous explique tout')], ''),
+    ('andrea', 'Entrons, je vous explique tout.', "Let's go in, I explain everything.", [(616, 'je vous explique tout')], ''),
     ('bonnero', 'Venez dans ma cuisine chaleureuse.', 'Come into my warm kitchen.', [(616, 'je vous explique tout')], ''),
     ('andrea', 'Chez ASK, on connaît bien Dany.', 'At ASK, we know Dany well.', [(617, 'Chez ASK, on connaît bien Dany')], ''),
     ('bonnero', "Mathias s'occupait toujours de lui.", 'Mathias always took care of him.', [(619, 'Comme sa famille')], ''),
@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'Mathias abandoned ship.' Andrea uses a vivid metaphor for his sudden departure."),
     (11, None, "'Take the time and eat well.' Madame Bonnero dispenses motherly wisdom."),
     (12, None, "'I really want to take my time.' Andrea accepts the pause from agency stress."),
-    (13, None, "'So, what do we eat together?' Madame Bonnero prepares a generous northern meal."),
+    (13, None, "'So, what do we eat together?' Madame Bonnero prepares a generous northern meal. Now let's listen to the complete discussion once more to reinforce the vocabulary."),
 ]

@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Sigourney | C'est ma gourmandise préférée à Paris. | It is my favorite treat in Paris. | #35: Ma préférée ! | verbatim |
 | 14 | Camille | Vous avez des goûts tout à fait exquis. | You have truly exquisite tastes. | new | new |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Welcome to Paris, dear Madame Weaver!' Camille extends a warm French greeting to the distinguished Hollywood visitor.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I want to taste every flavor.' Sigourney inspects the vibrant vitrine filled with rainbow macarons.
 - 'Orange blossom macarons!' Sigourney specifically asks for orders her cherished floral-infused delicacy.
 - 'It is my favorite treat in Paris.' Sigourney admits that traditional confectioneries remain her biggest weakness.
-- 'You have truly exquisite tastes.' Camille happily escorts the satisfied star back toward the waiting car.
+- 'You have truly exquisite tastes.' Camille happily escorts the satisfied star back toward the waiting car. Now let's listen to Camille and Sigourney's exchange once more from start to finish.

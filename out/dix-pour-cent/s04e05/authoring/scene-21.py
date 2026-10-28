@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'She wants to destroy us from the inside.' Gabriel warns of an undercover plot."),
     (11, None, "'Let us go ask her the question directly.' Andrea chooses a forthright solution."),
     (12, None, "'She is not going to confess anything to us.' Gabriel warns that she will lie."),
-    (13, None, "'We are going to clear up this matter together.' Andrea wraps up the debate firmly."),
+    (13, None, "'We are going to clear up this matter together.' Andrea wraps up the debate firmly. Now let's listen to the complete discussion once more to reinforce the vocabulary."),
 ]

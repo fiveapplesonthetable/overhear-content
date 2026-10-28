@@ -16,7 +16,7 @@ TRANSITION = "Now let's listen to the scene once more from start to finish."
 OUTRO = "Hervé uses humor and cinema references to cheer up Camille as she adjusts to life in the spotlight at ASK. Let's review the conversational phrases and vocabulary from this scene. See you next time!"
 CLOSING = ('herve', 'À demain!')
 STORY = [
-    ('herve', "Arrête, Jean Gabin, c'est Camille!", 'Stop it, Jean Gabin, it', [(137, "Arrête, Jean Gabin, c'est Camille.")], ''),
+    ('herve', "Arrête, Jean Gabin, c'est Camille!", "Stop it, Jean Gabin, it's Camille!", [(137, "Arrête, Jean Gabin, c'est Camille.")], ''),
     ('camille', 'Ne lui en veux pas trop.', 'Do not hold it against him too much.', [(139, 'Ne lui en veux pas.')], ''),
     ('herve', 'Il te transfère sa haine pour Mathias.', 'He transfers his hatred for Mathias to you.', [(140, 'Il te transfère sa haine pour Mathias.')], ''),
     ('camille', "C'est horrible, je suis devenue une autre.", 'It is horrible, I have become someone else.', [(141, "c'est comme si j'étais devenue quelqu'un d'autre")], ''),
@@ -43,5 +43,5 @@ WALK = [
     (9, None, "'Mathias being my father changes nothing.' Camille insists that her relationship to Mathias does not alter who she is."),
     (10, None, "'It is rather like in Blade Runner.' Herve switches to a sci-fi reference about discovering an android identity."),
     (11, None, "'When you find out that he is a replicant.' Herve playfully compares Mathias's lineage to an artificial creation."),
-    (12, None, "'We love you anyway, Camillette!' Herve uses an affectionate nickname to reassure Camille of his loyalty."),
+    (12, None, "'We love you anyway, Camillette!' Herve uses an affectionate nickname to reassure Camille of his loyalty. Now let's listen to the scene once more from start to finish."),
 ]

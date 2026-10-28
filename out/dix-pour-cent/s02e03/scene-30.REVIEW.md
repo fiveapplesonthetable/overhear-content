@@ -28,6 +28,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 16 | Gabriel | Merci beaucoup! | Thank you very much! | #841: Merci beaucoup | verbatim |
 | 17 | Norman | Je conduis? Non. | Should I drive? No. | #846: Je conduis ? Non | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'He wanted me to be tough.' Norman describes the director's demanding vision.
@@ -46,4 +47,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I heard you talking last night.' Moved by their midnight heart-to-heart, the officer admits he overheard them talking.
 - 'Everyone has fear. He must make this movie.' The officer shows deep empathy for the young actor.
 - 'Thank you very much!' Gabriel expresses immense gratitude.
-- 'Should I drive? No.' Norman jokes about his missing driver's license.
+- 'Should I drive? No.' Norman jokes about his missing driver's license. Now listen to the whole scene again at normal speed, and see how much more you catch.

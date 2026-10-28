@@ -14,7 +14,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 2 | Hervé | Mon emploi du temps est trop chargé. | My schedule is much too tight. | #95: Mon emploi du temps est vraiment trop chargé. | verbatim |
 | 3 | Gabriel | C'est qui exactement, cette maison Chopard? | Who exactly is this fashion house Chopard? | #96: C'est qui, Chopard ? | verbatim |
 | 4 | Andréa | C'est le partenaire officiel du festival! | It is the official partner of the festival! | #97: Chopard, le partenaire du festival. | verbatim |
-| 5 | Andréa | Ils fabriquent la célèbre Palme d'or. | They manufacture the famous Palme d | #98: Ils fabriquent la Palme d'Or ! | verbatim |
+| 5 | Andréa | Ils fabriquent la célèbre Palme d'or. | They manufacture the famous Palme d'Or. | #98: Ils fabriquent la Palme d'Or ! | verbatim |
 | 6 | Gabriel | Andréa, nous n'avons pas le temps. | Andréa, we do not have the time. | #99: Non, Andréa, on n'a vraiment pas le temps. | verbatim |
 | 7 | Hervé | Pas juste avant notre départ pour Cannes! | Not right before our departure for Cannes! | #100: Non, pas juste avant Cannes. | verbatim |
 | 8 | Andréa | Je pars demain matin pour le festival. | I am leaving tomorrow morning for the festival. | #101: Exactement ! Je pars à Cannes demain | verbatim |
@@ -23,6 +23,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 11 | Andréa | Ne prononcez plus ce nom ici! | Do not utter that name here anymore! | #104: Ne prononcez pas ce nom dans ce bureau ! | verbatim |
 | 12 | Hervé | On fait tout le boulot nous-mêmes. | We are doing all the work ourselves. | #105: On fait tout le boulot pendant que Mme... | verbatim |
 | 13 | Gabriel | Calmons-nous avant de monter les marches. | Let us calm down before climbing the red carpet stairs. | #102: Je monte déjà ces marches ! | verbatim |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -38,4 +39,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'And without Camille, you cannot cope.' Gabriel notes how hard it is to work without their best assistant.
 - 'Do not utter that name here anymore!' Andrea refuses to hear Camille mentioned after her departure.
 - 'We are doing all the work ourselves.' Herve complains about taking on extra duties without help.
-- 'Let us calm down before climbing the red carpet stairs.' Gabriel urges the team to stay focused.
+- 'Let us calm down before climbing the red carpet stairs.' Gabriel urges the team to stay focused. Now let's listen to the scene once more from start to finish.

@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Andréa | Quinze mille euros? Marché conclu! | Fifteen thousand euros? Deal! | #445: Marché conclu | verbatim |
 | 14 | Mathias | Nous allons trouver une solution immédiatement. | We are going to find a solution immediately. | #446: tout le monde est partant | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Everyone in my office!' Hicham gathers the whole agency staff for an unexpected meeting.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'A bonus? Of how much?' Mathias immediately perks up and asks for the exact sum.
 - 'Fifteen thousand euros for the agency.' Hicham names the generous sum on offer.
 - 'Fifteen thousand euros? Deal!' Andrea accepts the challenge on the spot with enthusiasm.
-- 'We are going to find a solution immediately.' Mathias confirms that the team will take action without delay.
+- 'We are going to find a solution immediately.' Mathias confirms that the team will take action without delay. Now listen to the whole scene again at normal speed, and see how much more you catch.

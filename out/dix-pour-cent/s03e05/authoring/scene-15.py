@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'No Beatrice, I never abandon you!' Andrea fiercely reassures her iconic client."),
     (11, None, "'I am always completely behind you.' Andrea affirms total solidarity."),
     (12, None, "'We are going to find a solution together today.' Andrea pivots constructively toward a resolution."),
-    (13, None, "'Alright, I trust you completely, Andrea.' Beatrice relents and places her faith in Andrea."),
+    (13, None, "'Alright, I trust you completely, Andrea.' Beatrice relents and places her faith in Andrea. Now let's listen to the entire dialogue once more to lock in what you have learned."),
 ]

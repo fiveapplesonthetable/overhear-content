@@ -23,11 +23,11 @@ STORY = [
     ('mathias', "Camille m'a tout dit.", 'Camille told me everything.', [(1209, "Camille m'a tout dit.")], ''),
     ('mathias', 'Je sais la vérité.', 'I know the truth.', [], ''),
     ('ulrika', 'Mais Mathias, attendez.', 'But Mathias, wait.', [], ''),
-    ('mathias', "Non, c'est terminé.", 'No, it', [], ''),
+    ('mathias', "Non, c'est terminé.", "No, it's over.", [], ''),
     ('mathias', 'Vos méthodes sont révoltantes.', 'Your methods are revolting.', [(1209, 'Vos méthodes sont révoltantes,')], ''),
     ('mathias', 'Je refuse de travailler avec vous.', 'I refuse to work with you.', [], ''),
     ('ulrika', 'Vous faites une erreur.', 'You are making a mistake.', [], ''),
-    ('mathias', 'Ne me rappelez plus jamais.', 'Don', [(1210, 'ne me rappelez plus jamais.')], ''),
+    ('mathias', 'Ne me rappelez plus jamais.', "Don't ever call me again.", [(1210, 'ne me rappelez plus jamais.')], ''),
     ('mathias', 'Au revoir, Ulrika.', 'Goodbye, Ulrika.', [], ''),
 ]
 WALK = [

@@ -15,16 +15,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 3 | Andréa | Arlette, cette herbe est terrible. | Arlette, that weed is killer. | #848: Arlette, cette herbe est terrible | verbatim |
 | 4 | Andréa | J'ai fait des rêves érotiques dingues tout le week-end. | I had crazy erotic dreams all weekend. | #849: J'ai fait des rêves érotiques dingues tout le week-end | verbatim |
 | 5 | Gabriel | Pas moi. | Not me. | #850: Pas moi | verbatim |
-| 6 | Andréa | Pourquoi tu n'es pas venu à la fête? | Why didn | #851: Pourquoi tu n'es pas venu | verbatim |
+| 6 | Andréa | Pourquoi tu n'es pas venu à la fête? | Why didn't you come to the party? | #851: Pourquoi tu n'es pas venu | verbatim |
 | 7 | Gabriel | J'avais des obligations personnelles. | I had some personal obligations. | #852: J'avais des obligations personnelles | verbatim |
 | 8 | Arlette | Des obligations personnelles un dimanche soir? | Personal obligations on a Sunday evening? | #852: obligations personnelles | verbatim |
 | 9 | Gabriel | Une affaire urgente avec un talent. | An urgent matter with a talent. | #852: J'avais des obligations | verbatim |
 | 10 | Arlette | Salut tout le monde. Ça va, Marteau? | Hello everyone. How are you, Marteau? | #853: Salut<br>#854: Salut tout le monde. Ça va, Marteau | verbatim |
 | 11 | Andréa | Ça va très bien! | I am doing very well! | #854: Ça va | verbatim |
 | 12 | Arlette | Et pour Aymeline Val aussi! | And for Aymeline Val too! | #855: Aymeline Val aussi | verbatim |
-| 13 | Arlette | C'était pas dingue ce projet? | Wasn | #855: C'était pas dingue | verbatim |
+| 13 | Arlette | C'était pas dingue ce projet? | Wasn't that project crazy? | #855: C'était pas dingue | verbatim |
 | 14 | Andréa | C'était dingue! | It was crazy! | #856: C'était dingue | verbatim |
 | 15 | Gabriel | Au moins, tout le monde est là ce matin. | At least everyone is here this morning. | #856: C'était dingue | verbatim |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -42,4 +43,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'And for Aymeline Val too!' Arlette brings up the agency's new client.
 - 'Wasn't that project crazy?' Arlette uses informal negative phrasing to seek agreement.
 - 'It was crazy!' Andrea enthusiastically confirms the wild success of the weekend.
-- 'At least everyone is here this morning.' Gabriel concludes with quiet relief after his night in jail.
+- 'At least everyone is here this morning.' Gabriel concludes with quiet relief after his night in jail. Now listen to the whole scene again at normal speed, and see how much more you catch.

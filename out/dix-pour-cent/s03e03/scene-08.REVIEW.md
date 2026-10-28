@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Samy | Je t'aime de tout mon cœur. | I love you with all my heart. | #389: Je t'aime. | verbatim |
 | 14 | Camille | Moi aussi, je t'aime beaucoup. | I love you very much too. | #390: Moi aussi. | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'We are going to do it together.' Samy announces their joint decision.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'What are you saying?' Samy is taken aback by the sudden shift.
 - 'Go there quickly to fix things.' Camille Valentini urges him to save the day.
 - 'I love you with all my heart.' Samy reaffirms his love before leaving.
-- 'I love you very much too.' Camille Valentini returns the sentiment warmly.
+- 'I love you very much too.' Camille Valentini returns the sentiment warmly. Now let's listen to the entire dialogue once more to lock in what you have learned.

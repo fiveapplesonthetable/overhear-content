@@ -47,5 +47,5 @@ WALK = [
     (11, None, "'Call them yourself, then!' Andréa tells Camille to call Hippolyte about his contracts herself."),
     (12, None, "'Hello, Hippolyte? Hello, this is Camille from ASK.' Camille makes the phone call to Mathias's son."),
     (13, None, "'Andréa asked me to call you about your contracts.' Camille explains that Andréa asked her to follow up on his paperwork."),
-    (14, None, "'Can you come by to check them and sign them?' Camille politely asks if he can stop by the office to review and sign them."),
+    (14, None, "'Can you come by to check them and sign them?' Camille politely asks if he can stop by the office to review and sign them. Now listen to the full conversation once more at a natural pace."),
 ]

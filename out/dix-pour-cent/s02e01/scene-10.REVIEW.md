@@ -27,16 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 15 | Camille | Il ne veut vraiment pas faire la promotion? | Does he really not want to do the promotion? | new | new |
 | 16 | Mathias | Rien du tout. C'est une catastrophe. | Nothing at all. It is a disaster. | new | new |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'I do not want to see her.' Ramzy refuses flatly to see Virginie.
-- 'Interviews, photos for the film, it is out of the question.' A useful everyday idiom for an absolute refusal.
+- 'Interviews, photos for the film, it is out of the question.' Ramzy uses a common everyday idiom for an absolute refusal.
 - 'Without promotion, the film is going to be a failure.' Mathias warns about the financial stakes with near future.
-- 'It is bad for everyone.' The adjective for bad followed by a preposition.
-- 'What she did is unforgivable.' A relative clause followed by a strong negative adjective.
+- 'It is bad for everyone.' Mathias warns Ramzy that the scandal is bad for everyone.
+- 'What she did is unforgivable.' Ramzy declares that what she did is unforgivable.
 - 'That depends on your school of thought.' Mathias switches to philosophical persuasion.
 - 'What school of thought?' Ramzy asks sceptically with an interrogative determiner.
-- 'Your body belongs to you. You do not own someone.' Two core principles of modern autonomy.
+- 'Your body belongs to you. You do not own someone.' Mathias states two core principles of personal autonomy.
 - 'Infidelity does not really exist.' Mathias tries to philosophicalize that infidelity does not really exist.
 - 'You could promote peace and progress!' Mathias argues grandly that forgiving Virginie would promote peace and progress.
 - 'No! Not at all!' Ramzy rejects the argument completely.

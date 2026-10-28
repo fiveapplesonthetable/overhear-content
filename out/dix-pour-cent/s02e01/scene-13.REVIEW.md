@@ -24,6 +24,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 12 | Andréa | D'accord, à bientôt Gabriel. | All right, see you soon Gabriel. | new | new |
 | 13 | Gabriel | Bonne chance à Couchey. | Good luck in Couchey. | new | new |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Andréa? Why me and not you for Virginie?' Gabriel asks why Mathias picked him.
@@ -38,4 +39,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I have to go, I have to speak to the mayor.' Andrea cuts the call short to attend her ceremony in Couchey.
 - 'Keep me posted. Take care of yourself.' Gabriel asks her to keep him posted and take care of herself.
 - 'All right, see you soon Gabriel.' Andréa says goodbye warmly before heading into the ceremony.
-- 'Good luck in Couchey.' Gabriel wishes her good luck at the village ceremony in Couchey.
+- 'Good luck in Couchey.' Gabriel wishes her good luck at the village ceremony in Couchey. Now listen to the full phone call once more without interruption.

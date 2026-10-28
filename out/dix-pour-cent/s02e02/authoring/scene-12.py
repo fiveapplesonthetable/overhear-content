@@ -49,5 +49,5 @@ WALK = [
     (12, None, "'Novelty is a concept that does not interest me.' Luchini rejects trendy career shifts."),
     (13, None, "'Maybe you just want to be bored.' Andrea challenges his resistance with witty sarcasm."),
     (14, None, "'Do not speak ill of boredom.' Luchini defends existential boredom as a creative state."),
-    (15, None, "'I leave you then to be bored with Bréhier.' Andrea concludes her exit with sharp wit."),
+    (15, None, "'I leave you then to be bored with Bréhier.' Andrea concludes her exit with sharp wit. Now let's listen to the entire dialogue once more to lock in what you have learned."),
 ]

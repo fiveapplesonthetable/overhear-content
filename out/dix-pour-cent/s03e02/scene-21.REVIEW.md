@@ -25,19 +25,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Gabriel | Je reste juste ici avec toi. | I stay right here with you. | new | new |
 | 14 | Hervé | Merci Gabriel, tu es un vrai ami. | Thank you Gabriel, you are a true friend. | #909: c'est vrai | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You smoke a cigarette now, Herve?' An inquisitive question expressing gentle surprise.
-- 'I bummed a smoke to de-stress.' A casual explanation using colloquial vocabulary.
-- 'You seem really very troubled.' An empathetic observation on visible emotional distress.
-- 'It is making my head spin!' An idiomatic expression describing dizziness from strong tobacco.
-- 'Pass that cigarette, please.' A polite request asking to share the smoke.
-- 'Here, take it if you want.' A generous presentative handing over the cigarette.
-- 'It is true that it is strong!' An agreement exclaiming astonishment at the cigarette's strength.
-- 'I feel so anxious, Gabriel.' A vulnerable confession sharing internal emotional turmoil.
-- 'Breathe calmly instead of smoking.' A sensible imperative advising calm relaxation.
-- 'The film completely shook me.' A direct statement explaining intense emotional reaction.
-- 'We are going to talk about it calmly together.' A reassuring commitment to supportive discussion.
-- 'I need to get fresh air.' An expression of physical necessity using avoir besoin de.
-- 'I stay right here with you.' A comforting promise of faithful companionship.
-- 'Thank you Gabriel, you are a true friend.' A heartfelt expression of deep personal gratitude.
+- 'You smoke a cigarette now, Herve?' Gabriel expresses gentle surprise.
+- 'I bummed a smoke to de-stress.' Hervé uses colloquial vocabulary.
+- 'You seem really very troubled.' Gabriel observes sympathetically that Hervé looks deeply troubled.
+- 'It is making my head spin!' Hervé describes dizziness from strong tobacco.
+- 'Pass that cigarette, please.' Gabriel asks to share the smoke.
+- 'Here, take it if you want.' Hervé hands over the cigarette.
+- 'It is true that it is strong!' Gabriel exclaims astonishment at the cigarette's strength.
+- 'I feel so anxious, Gabriel.' Hervé shares internal emotional turmoil.
+- 'Breathe calmly instead of smoking.' Gabriel advises calm relaxation.
+- 'The film completely shook me.' Hervé explains intense emotional reaction.
+- 'We are going to talk about it calmly together.' Gabriel reassures him that they will talk it through calmly together.
+- 'I need to get fresh air.' Hervé uses avoir besoin de.
+- 'I stay right here with you.' Gabriel promises to stay right there beside his friend.
+- 'Thank you Gabriel, you are a true friend.' Hervé expresses deep gratitude to Gabriel for being a true friend.

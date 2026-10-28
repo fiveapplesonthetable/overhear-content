@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Isabelle | Merci, cette prise était très intense. | Thank you, this take was very intense. | #647: Magnifique, Isabelle. Bravo. | verbatim |
 | 14 | Le réalisateur | Votre émotion était absolument parfaite. | Your emotion was absolutely perfect. | #647: Magnifique, Isabelle. Bravo. | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'I forgive you for everything, my child.' Isabelle begins her character's deathbed scene.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Cut! That is a wrap on this take!' The director halts the filming.
 - 'Magnificent, Isabelle, bravo for this scene.' The director praises the actress enthusiastically.
 - 'Thank you, this take was very intense.' Isabelle steps out of character.
-- 'Your emotion was absolutely perfect.' The director reiterates his admiration.
+- 'Your emotion was absolutely perfect.' The director reiterates his admiration. Now let's listen to the entire dialogue once more to lock in what you have learned.

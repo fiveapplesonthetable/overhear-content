@@ -49,5 +49,5 @@ WALK = [
     (12, None, "'But I do not want to date her.' Andrea draws a sharp line between attraction and action."),
     (13, None, "'That is the big difference between you and me.' Andrea summarizes her professional discipline."),
     (14, None, "'I am being careful, do not worry.' Gabriel attempts to reassure his colleague."),
-    (15, None, "'Stay away from her, that is all I ask of you.' Andrea delivers her final firm instruction."),
+    (15, None, "'Stay away from her, that is all I ask of you.' Andrea delivers her final firm instruction. Now let's listen to the entire dialogue once more to lock in what you have learned."),
 ]

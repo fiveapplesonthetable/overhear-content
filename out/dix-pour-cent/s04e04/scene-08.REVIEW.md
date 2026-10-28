@@ -12,7 +12,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 |---|---|---|---|---|---|
 | 1 | Gabriel | Tout va très mal avec Sandrine Kiberlain. | Everything goes very badly with Sandrine Kiberlain. | #494: Juste un petit contretemps sur le film | verbatim |
 | 2 | Andréa | Qu'est-ce qui se passe sur son tournage? | What is happening on her shoot? | #496: Qu'est-ce qui se passe ? | verbatim |
-| 3 | Gabriel | Elle veut abandonner le film de Thompson. | She wants to abandon Thompson | #496: Sandrine veut se retirer ? | verbatim |
+| 3 | Gabriel | Elle veut abandonner le film de Thompson. | She wants to abandon Thompson's film. | #496: Sandrine veut se retirer ? | verbatim |
 | 4 | Andréa | Ne panique pas, tu vas arranger ça. | Do not panic, you will fix that. | #495: je vais arranger ça<br>#498: T'inquiète pas. Respire. | verbatim |
 | 5 | Gabriel | Elle veut faire du stand-up maintenant! | She wants to do stand-up now! | #499: je suis un peu à cran | verbatim |
 | 6 | Andréa | Respire Gabriel, tout va bien se passer. | Breathe Gabriel, everything will go well. | #498: Respire | verbatim |
@@ -24,6 +24,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 12 | Andréa | Oui, elle est très calme aujourd'hui. | Yes, she is very calm today. | #517: Mais je m'en sors | verbatim |
 | 13 | Andréa | Attends, où est passée ma fille? | Wait, where did my daughter go? | #518: Qu'est-ce qu'il y a ? | verbatim |
 | 14 | Andréa | Mince, je l'ai oubliée à la photocopieuse! | Darn, I forgot it at the photocopier! | #518: Je l'ai oubliée à la photocopieuse !<br>#519: Merde ! | verbatim |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'But the baby is doing well here?' Gabriel observes that the child seems surprisingly quiet at the office.
 - 'Yes, she is very calm today.' Andrea proudly notes that her baby has been well-behaved.
 - 'Wait, where did my daughter go?' Andrea suddenly stops in her tracks with rising unease.
-- 'Darn, I forgot it at the photocopier!' Andrea rushes frantically down the corridor to retrieve her child.
+- 'Darn, I forgot it at the photocopier!' Andrea rushes frantically down the corridor to retrieve her child. Now let's listen to the complete discussion once more to reinforce the vocabulary.

@@ -23,7 +23,7 @@ STORY = [
     ('camille', 'Je suis si heureuse pour toi.', 'I am so happy for you.', [(917, 'tout le monde')], ''),
     ('mathias', "Écoute, l'appareil sonne déjà doucement!", 'Listen, the device is already beeping softly!', [(917, 'bipe')], ''),
     ('camille', "C'est parce que tu es ému!", 'It is because you are moved!', [(917, 'tout le monde')], ''),
-    ('mathias', 'Je ne bipe pas pour tout le monde.', 'I don', [(917, 'Je ne bipe pas pour tout le monde')], ''),
+    ('mathias', 'Je ne bipe pas pour tout le monde.', "I don't beep for everyone.", [(917, 'Je ne bipe pas pour tout le monde')], ''),
     ('camille', "C'est la preuve de ton affection.", 'It is proof of your affection.', [(917, 'tout le monde')], ''),
     ('mathias', 'Tu comptes beaucoup pour moi, Camille.', 'You mean a lot to me, Camille.', [(917, 'tout le monde')], ''),
     ('camille', 'Promets-moi de faire très attention.', 'Promise me to be very careful.', [(917, 'tout le monde')], ''),

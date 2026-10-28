@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Gabriel | Notre agence est complètement ruinée, Andréa. | Our agency is completely ruined, Andrea. | #846: Donne-moi au moins une raison | verbatim |
 | 14 | Andréa | Je vais lui faire payer cher. | I am going to make her pay dearly. | #847: Elle a raccroché | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'The phones are ringing without stopping today.' Gabriel rushes across the bustling floor.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I had warned you about that traitor!' Gabriel's earlier warnings prove prophetic.
 - 'She is taking everyone to StarMedia.' Andrea names the rival agency destination.
 - 'Our agency is completely ruined, Andrea.' Gabriel faces financial collapse.
-- 'I am going to make her pay dearly.' Andrea's shock turns to cold anger.
+- 'I am going to make her pay dearly.' Andrea's shock turns to cold anger. Now let's listen to the complete discussion once more to reinforce the vocabulary.

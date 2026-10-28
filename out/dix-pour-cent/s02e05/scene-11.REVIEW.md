@@ -27,6 +27,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 15 | Camille | Arrête, Hervé! Je ne voulais pas te blesser. | Stop, Hervé! I did not want to hurt you. | #338: Arrête !<br>#338: Pas du tout ! | verbatim |
 | 16 | Hervé | Tu as pris ma place, Camille. | You took my place, Camille. | #323: C'était Hicham. | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Here it is, and he that was called Judas!' Herve summons Camille with ominous biblical solemnity.
@@ -44,4 +45,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'He influenced Hicham to pick you!' Herve asserts Mathias's hidden leverage over the agency boss.
 - 'And Miss Judas was telling me that it is bad to trip up others!' Herve mocks Camille's earlier moral advice.
 - 'Stop, Hervé! I did not want to hurt you.' Camille pleads for understanding.
-- 'You took my place, Camille.' Herve states his deep feeling of professional loss.
+- 'You took my place, Camille.' Herve states his deep feeling of professional loss. Now let's listen to the entire dialogue once more to lock in what you have learned.

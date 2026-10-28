@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Julien | Bonne projection du film à tous! | Enjoy the film screening, everyone! | #886: Bonne projection à vous. | verbatim |
 | 14 | Sofia | Que la séance commence enfin, Gabriel! | Let the screening finally begin, Gabriel! | #875: bon film. | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Good evening everyone, thank you for being here!' Julien welcomes the packed theater audience warmly.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Thanks to you, the film exists!' Julien credits Gabriel for saving the entire production.
 - 'Bravo Julien, we are very proud.' Gabriel congratulates the director on his major milestone.
 - 'Enjoy the film screening, everyone!' Julien invites the audience to enjoy the movie.
-- 'Let the screening finally begin, Gabriel!' Sofia looks forward to the audience's reaction.
+- 'Let the screening finally begin, Gabriel!' Sofia looks forward to the audience's reaction. Now let's listen to the scene once more from start to finish.

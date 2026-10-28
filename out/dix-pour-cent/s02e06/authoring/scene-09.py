@@ -27,7 +27,7 @@ STORY = [
     ('juliette', 'Je me sentais très bien dans ce smoking.', 'I felt very good in that tuxedo.', [(182, 'Je me sentais très bien dans ce smoking.')], ''),
     ('andrea', 'Je vais appeler son agent et on en discutera.', 'I will call her agent and we will discuss it.', [(184, "Je vais appeler l'agent de Gong Li et on en discutera.")], ''),
     ('juliette', 'Ça ne servira à rien.', 'That will be useless.', [(185, 'Ça ne servira à rien.')], ''),
-    ('andrea', "Gong Li est l'icône de L'Oréal, le partenaire principal du festival.", 'Gong Li is the icon of L', [(187, "Gong Li est l'icône de L'Oréal en Chine."), (188, 'Le partenaire principal du festival.')], ''),
+    ('andrea', "Gong Li est l'icône de L'Oréal, le partenaire principal du festival.", "Gong Li is the icon of L'Oreal, the main partner of the festival.", [(187, "Gong Li est l'icône de L'Oréal en Chine."), (188, 'Le partenaire principal du festival.')], ''),
     ('andrea', 'Mais nous avons une bonne nouvelle. Votre second choix a été réparé.', 'But we have good news. Your second choice has been repaired.', [(190, 'Mais nous avons une bonne nouvelle.'), (191, 'Votre second choix a été réparé.')], ''),
     ('juliette', "Et j'ai besoin de chaussures à talons hauts.", 'And I need high-heeled shoes.', [(192, "Mais c'est toute une production, avec ça."), (193, "Et j'ai besoin de talons de quinze centimètres.")], ''),
     ('andrea', 'On pourrait organiser un nouvel essayage avec trois tenues.', 'We could arrange a new fitting with three outfits.', [(194, 'On pourrait organiser un nouvel essayage avec Dune,'), (195, 'avec seulement trois tenues.')], ''),
@@ -49,5 +49,5 @@ WALK = [
     (12, None, "'But we have good news. Your second choice has been repaired.' Andrea presents an alternative."),
     (13, None, "'And I need high-heeled shoes.' Juliette highlights the complexity."),
     (14, None, "'We could arrange a new fitting with three outfits.' Andrea proposes a quick styling session."),
-    (15, None, "'No, I think that will be very fine.' Juliette decides to make the best of the backup gown."),
+    (15, None, "'No, I think that will be very fine.' Juliette decides to make the best of the backup gown. Now let's listen to the entire dialogue once more to lock in what you have learned."),
 ]

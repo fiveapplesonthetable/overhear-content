@@ -24,6 +24,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 12 | Gabriel | Je viens de passer un savon à Dubosc! | I just gave Dubosc a proper lecture! | #403: Je viens de passer un savon à Dubosc ! | verbatim |
 | 13 | Andréa | Bravo Gabriel, c'est comme ça qu'ils avancent! | Bravo Gabriel, that is how they make progress! | #408: C'est ce qu'il faut faire. | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'What is this interview in Telerama?' Franck demands to know why Gabriel pitched him to an intellectual film magazine.
@@ -38,4 +39,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Hello gentlemen, is everything going well here?' Andrea steps into the corridor to check on the loud voices.
 - 'Yes, I am talking with my new agent.' Franck announces his loyalty to Gabriel in front of the agency head.
 - 'I just gave Dubosc a proper lecture!' Gabriel tells Andrea with immense pride how he stood up to the star.
-- 'Bravo Gabriel, that is how they make progress!' Andrea encourages Gabriel's newfound boldness in guiding talent.
+- 'Bravo Gabriel, that is how they make progress!' Andrea encourages Gabriel's newfound boldness in guiding talent. Now let's listen to Gabriel and Franck's conversation once more from start to finish.

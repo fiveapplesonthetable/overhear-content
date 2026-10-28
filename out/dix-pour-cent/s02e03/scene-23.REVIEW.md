@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Hicham | Amusez-vous bien tous ensemble. | Have good fun all together. | #612: Allez. | verbatim |
 | 14 | Norman | C'est parti pour le combat! | Here we go for the fight! | #607: -Allez, on se bat ! | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Look, Norman is finally here!' Hicham announces the arrival of the special guest to the gathering.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'We are going to win the game!' The youngster confidently predicts victory for his side.
 - 'Do not be too shy.' Norman kindly encourages the boy to relax and have fun.
 - 'Have good fun all together.' Hicham sends the kids off to begin their laser adventure.
-- 'Here we go for the fight!' Norman joins the children as the match kicks off.
+- 'Here we go for the fight!' Norman joins the children as the match kicks off. Now let's listen to the entire exchange once more from beginning to end.

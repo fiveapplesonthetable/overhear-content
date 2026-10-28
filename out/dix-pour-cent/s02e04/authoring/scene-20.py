@@ -49,5 +49,5 @@ WALK = [
     (12, None, "'Now, leave my office, please.' Andréa orders him to leave firmly."),
     (13, None, "'Very well, Marteau, I leave you to work.' Hicham yields while using her annoying nickname."),
     (14, None, "'And stop calling me Marteau!' Andréa refuses the patronizing nickname."),
-    (15, None, "'It is promised, I respect your space.' Hicham finally accepts the boundary and departs."),
+    (15, None, "'It is promised, I respect your space.' Hicham finally accepts the boundary and departs. Now let's listen to the sharp confrontation once more at natural pace."),
 ]

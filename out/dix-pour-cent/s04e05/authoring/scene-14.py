@@ -27,7 +27,7 @@ STORY = [
     ('herve', "C'est faux!", 'That is false!', [(663, "C'est faux")], ''),
     ('herve', 'Tout le monde a failli tuer ton père.', 'Everyone has almost killed your father.', [(664, 'Tout le monde a failli tuer ton père')], ''),
     ('herve', "Il a l'habitude.", 'He is used to it.', [(664, "il a l'habitude")], ''),
-    ('herve', "Tu viens d'appeler Mathias 'papa'.", 'You just called Mathias', [(666, 'Tu viens d\'appeler Mathias "papa"')], ''),
+    ('herve', "Tu viens d'appeler Mathias 'papa'.", "You just called Mathias 'dad'.", [(666, 'Tu viens d\'appeler Mathias "papa"')], ''),
     ('camille', 'Un, deux, trois, quatre...', 'One, two, three, four...', [(667, 'Un, deux, trois, quatre')], ''),
     ('herve', "Tu récupères l'argent.", 'You get the money.', [(669, 'tu récupères')], ''),
 ]
@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'He is used to it.' Herve adds with a reassuring smile."),
     (11, None, "'You just called Mathias 'dad'.' Herve points out in surprise."),
     (12, None, "'One, two, three, four...' Camille counts out the board game moves."),
-    (13, None, "'You get the money.' Herve explains the game rules. Now let's hear the whole thing."),
+    (13, None, "'You get the money.' Herve explains the game rules."),
 ]

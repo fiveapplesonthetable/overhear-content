@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Camille | Mettez votre téléphone en mode avion, Isabelle. | Put your phone on airplane mode, Isabelle. | #567: On se met en mode avion, maintenant, Isabelle ? | verbatim |
 | 14 | Le réalisateur | Allez, tout le monde en place, action! | Come on, everyone in position, action! | #569: Action. | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'This intimate scene must remain very spectacular.' The director outlines his vision.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Is this a joke? Turn off that mobile phone!' The director loses patience with interruptions.
 - 'It is my colleague Gladys from the hospital.' Isabelle reveals her genuine medical day job.
 - 'Put your phone on airplane mode, Isabelle.' Camille prevents further interruptions.
-- 'Come on, everyone in position, action!' The director restarts the take with renewed energy.
+- 'Come on, everyone in position, action!' The director restarts the take with renewed energy. Now let's listen to the complete discussion once more to reinforce the vocabulary.

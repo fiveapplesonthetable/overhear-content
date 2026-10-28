@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Noémie | Tu me dis ça maintenant? | You tell me that now? | #798: tu me dis ça maintenant | verbatim |
 | 14 | Noémie | Mon beau rôti est brûlé! | My nice roast is burned! | #798: tu me dis ça maintenant | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Look, this lamb is truly perfect.' Noemie admires the roasted meat she cooked for the guests.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'She defends endangered species.' Mathias describes the guest's passionate activism.
 - 'She fights slaughterhouse cruelty.' Mathias casually mentions that she campaigns against meat production.
 - 'You tell me that now?' Noemie is horrified that she cooked a meat feast for an animal activist.
-- 'My nice roast is burned!' Noemie realizes with despair that her main dish cannot be served.
+- 'My nice roast is burned!' Noemie realizes with despair that her main dish cannot be served. Now let's listen to the complete discussion once more to reinforce the vocabulary.

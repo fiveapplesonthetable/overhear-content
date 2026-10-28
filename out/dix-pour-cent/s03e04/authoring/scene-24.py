@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'We must go on the offensive.' Mathias resolves to initiate their decisive takeover maneuver."),
     (11, None, "'Go for it boldly, Mathias!' Noemie encourages him to trust his strength."),
     (12, None, "'Break through without hesitation!' Noemie repeats the inspirational command of the hexagram."),
-    (13, None, "'Yes, we are going to break through together.' Mathias confirms their shared commitment to victory."),
+    (13, None, "'Yes, we are going to break through together.' Mathias confirms their shared commitment to victory. Now let's listen to the complete discussion once more to reinforce the vocabulary."),
 ]

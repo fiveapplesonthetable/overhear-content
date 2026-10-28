@@ -47,5 +47,5 @@ WALK = [
     (11, None, "'There is just me and my body.' She firmly asserts bodily autonomy over her pregnancy."),
     (12, None, "'I am the one who decides, okay?' Andrea makes it clear that the choice belongs solely to her."),
     (13, None, "'You do not decide all alone.' Hicham refuses to be excluded from parental decisions."),
-    (14, None, "'That child is mine as well!' He claims an equal right to the unborn child."),
+    (14, None, "'That child is mine as well!' He claims an equal right to the unborn child. Now listen to the whole scene again at normal speed, and see how much more you catch."),
 ]

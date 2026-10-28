@@ -17,7 +17,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 5 | Catherine | Vous pourriez me réserver un vol? | Could you book a flight for me? | #343: me réserver un vol | verbatim |
 | 6 | Noémie | Mais tout est complet aujourd'hui. | But everything is fully booked today. | #344: tout est complet | verbatim |
 | 7 | Catherine | Les choses vont beaucoup mieux entre nous. | Things are going much better between us. | #347: beaucoup mieux entre nous | verbatim |
-| 8 | Noémie | Je vais imprimer le programme de Mathias. | I will print Mathias | #356: imprimer le programme de Mathias | verbatim |
+| 8 | Noémie | Je vais imprimer le programme de Mathias. | I will print Mathias's schedule. | #356: imprimer le programme de Mathias | verbatim |
 | 9 | Noémie | Tous les vols sont complets, madame. | All flights are fully booked, madam. | #357: Tous les vols sont complets | verbatim |
 | 10 | Catherine | Et pour le train? | What about the train? | #358: Et le train | verbatim |
 | 11 | Noémie | Une place reste dans le train de nuit. | One seat remains on the night train. | #359: une place dans le train de nuit | verbatim |
@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Catherine | Tu es mon sauveur, Noémie! | You are my savior, Noémie! | #362: Tu es mon sauveur, Noémie | verbatim |
 | 14 | Catherine | Merci pour votre aide précieuse. | Thank you for your valuable help. | #363: Merci | verbatim |
 | 15 | Catherine | Mathias ne peut pas se passer de toi. | Mathias cannot manage without you. | #364: ne peut pas se passer de toi | verbatim |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -42,4 +43,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I can bring him croissants!' Catherine excitedly imagines breakfast with her husband.
 - 'You are my savior, Noémie!' Catherine warmly hugs the conflicted assistant.
 - 'Thank you for your valuable help.' She expresses heartfelt appreciation for the booking.
-- 'Mathias cannot manage without you.' Catherine praises Noemie's indispensable role, unaware of their secret romance.
+- 'Mathias cannot manage without you.' Catherine praises Noemie's indispensable role, unaware of their secret romance. Now listen to the whole scene again at normal speed, and see how much more you catch.

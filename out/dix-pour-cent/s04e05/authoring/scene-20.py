@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'Look, the whole restaurant loves the idea!' Several guests share their own age-gap romances in support."),
     (11, None, "'Well, all right, it is very credible!' Outnumbered by the enthusiastic diners, the distributor relents."),
     (12, None, "'Wait, first we sign the contracts!' Sigourney makes sure to lock in the deal on the spot."),
-    (13, None, "'Yes, of course, that is a good idea.' The distributor takes out his pen to sign the agreement."),
+    (13, None, "'Yes, of course, that is a good idea.' The distributor takes out his pen to sign the agreement. Now let's listen to the complete discussion once more to reinforce the vocabulary."),
 ]

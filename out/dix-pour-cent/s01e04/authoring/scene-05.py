@@ -20,7 +20,7 @@ STORY = [
     ('noemie', "Oui, un médicament. J'ai mal au dos.", 'Yes, some medicine. My back hurts.', [(127, 'Oui'), (128, 'mal'), (128, 'dos')], ''),
     ('noemie', "J'ai fait un stage d'escalade ce week-end.", 'I did a rock-climbing course this weekend.', [(129, "J'ai fait un stage d'escalade ce week-end.")], ''),
     ('herve', 'Tu as aimé?', 'Did you like it?', [(131, 'Tu as aimé ?')], ''),
-    ('noemie', 'Oui, beaucoup! Mais je suis une fille de la ville.', 'Yes, a lot! But I', [(132, 'Oui, beaucoup !'), (133, 'je suis une fille de la ville')], ''),
+    ('noemie', 'Oui, beaucoup! Mais je suis une fille de la ville.', "Yes, a lot! But I'm a city girl.", [(132, 'Oui, beaucoup !'), (133, 'je suis une fille de la ville')], ''),
     ('noemie', 'Et la corde fait très mal!', 'And the rope really hurts!', [(137, 'la corde'), (138, 'fait mal')], ''),
     ('camille', 'Hervé, sur Internet, cette actrice a dix ans de plus!', 'Hervé, on the Internet, this actress is ten years older!', [(146, 'dix ans'), (146, 'cette actrice'), (146, 'Je fais quoi ?')], ''),
     ('herve', "Corrige l'âge, tout simplement.", 'Just correct the age.', [(147, 'corrige')], ''),
@@ -29,7 +29,7 @@ STORY = [
     ('noemie', 'Vous dites bisou-bisou à une grande star?', 'Do you say kiss-kiss to a big star?', [(154, 'Vous'), (154, 'bisou-bisou'), (154, 'stars ?')], ''),
     ('camille', 'Non!', 'No!', [(155, 'Non.')], ''),
     ('noemie', 'Si!', 'Yes, you did!', [(155, 'Si.')], ''),
-    ('camille', "C'est juste une habitude.", 'It', [(156, "C'est juste une habitude.")], ''),
+    ('camille', "C'est juste une habitude.", "It's just a habit.", [(156, "C'est juste une habitude.")], ''),
     ('noemie', "Cette jeune actrice ne peut pas faire tout ce qu'elle veut!", 'This young actress cannot do whatever she wants!', [(159, 'la fille de Christophe Lambert'), (159, 'faire ce que')], ''),
 ]
 WALK = [
@@ -47,5 +47,5 @@ WALK = [
     (11, None, "'No!' Camille tries to deny it."),
     (12, None, "'Yes, you did!' There's that special French 'yes' again, used to contradict a negative statement."),
     (13, None, "'It's just a habit.' Camille defends herself mildly."),
-    (14, None, "'This young actress cannot do whatever she wants!'s daughter can't do whatever she wants!' Remember that since last episode, Noémie is convinced that Camille's secret father is the actor Christophe Lambert."),
+    (14, None, "'This young actress cannot do whatever she wants!' Remember that since last episode, Noémie is convinced that Camille's secret father is the actor Christophe Lambert."),
 ]

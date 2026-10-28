@@ -43,5 +43,5 @@ WALK = [
     (9, None, "'That makes no sense, Andrea!' Colette dismisses the idea of trusting a strange neighbor."),
     (10, None, "'I cannot stay locked up twenty-four hours!' Andrea expresses her frustration with maternity isolation."),
     (11, None, "'A baby needs to be with her mother.' Colette reminds Andrea of maternal duties during the early months."),
-    (12, None, "'It is not human to always be alone!' Andrea argues that complete isolation is unhealthy for parents."),
+    (12, None, "'It is not human to always be alone!' Andrea argues that complete isolation is unhealthy for parents. Now let's listen to the domestic conversation once more to solidify your understanding."),
 ]

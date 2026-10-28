@@ -23,7 +23,7 @@ STORY = [
     ('andrea', 'Cette scène lui semble un peu gratuite.', 'This scene seems a little gratuitous to her.', [(202, 'ça lui semble un petit peu gratuit')], ''),
     ('realisateur', "Rien n'est gratuit dans mon travail!", 'Nothing is gratuitous in my work!', [(203, "rien n'est gratuit dans mon travail")], ''),
     ('beatrice', 'Trouve une autre idée sans me déshabiller!', 'Find another idea without undressing me!', [(206, 'ce soit troublant')], ''),
-    ('andrea', 'Regardons ce qui est écrit dans le scénario.', 'Let', [(212, "qu'est-ce qu'il y a dans le scénario ?")], ''),
+    ('andrea', 'Regardons ce qui est écrit dans le scénario.', "Let's look at what is written in the script.", [(212, "qu'est-ce qu'il y a dans le scénario ?")], ''),
     ('andrea', 'Le personnage découvre seulement son visage.', 'The character only discovers her face.', [(214, 'il découvre son visage')], ''),
     ('andrea', "C'est écrit ici, seulement son visage!", 'It is written here, only her face!', [(215, "C'est écrit, là, son visage !")], ''),
     ('realisateur', 'Un scénario est fait pour être détruit!', 'A script is made to be destroyed!', [(217, "Un scénario, c'est fait pour être détruit")], ''),
@@ -43,5 +43,5 @@ WALK = [
     (9, None, "'It is written here, only her face!' Andrea underlines the exact scripted instructions to the director."),
     (10, None, "'A script is made to be destroyed!' The director claims artistic license to change agreed terms."),
     (11, None, "'A contract is signed based on a script!' Andrea counters with firm legal and contractual reality."),
-    (12, None, "'You are the best, my favorite agent!' Beatrice expresses deep gratitude to Andrea for protecting her."),
+    (12, None, "'You are the best, my favorite agent!' Beatrice expresses deep gratitude to Andrea for protecting her. Now let's listen to the on-set showdown once more from beginning to end."),
 ]

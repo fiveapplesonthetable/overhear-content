@@ -25,19 +25,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Andréa | Elle a déjà un fort caractère! | She already has a strong personality! | #18: elle fait un doigt d'honneur. | verbatim |
 | 14 | Colette | Elle ressemble beaucoup à sa maman. | She looks a lot like her mother. | #19: notre fille. | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'My lawyer says the situation is complicated.' A reported speech structure introducing legal counsel.
-- 'What is agency UBA trying to prove?' An interrogative clause inquiring into employer defense tactics.
-- 'They say other candidates wanted the position.' An indirect statement outlining rival candidate claims.
-- 'That is false, they are lying completely!' An assertive rejection denouncing corporate dishonesty.
-- 'They refuse a pregnant woman in New York.' A direct assertion identifying pregnancy discrimination.
-- 'That is real hiring discrimination.' A formal legal concept framing employment injustice.
+- 'My lawyer says the situation is complicated.' Andréa introduces legal counsel.
+- 'What is agency UBA trying to prove?' Colette inquires into employer defense tactics.
+- 'They say other candidates wanted the position.' Andréa outlines rival candidate claims.
+- 'That is false, they are lying completely!' Colette denounces corporate dishonesty.
+- 'They refuse a pregnant woman in New York.' Andréa identifies pregnancy discrimination.
+- 'That is real hiring discrimination.' Colette frames employment injustice.
 - 'But we will have to fight in court.' Andréa warns Jean Dujardin that they will have to fight the producers in court.
-- 'Do not worry, we are going to win.' A comforting negative imperative paired with confident future success.
-- 'You are really very optimistic, Colette.' A heartfelt personal evaluation acknowledging morale support.
-- 'Look instead at this lovely ultrasound!' An enthusiastic imperative directing focus to baby imagery.
-- 'Our baby girl is already moving a lot.' An affectionate present observation noting fetal activity.
-- 'Place your hand here on your belly.' A gentle directive guiding physical maternal contact.
-- 'She already has a strong personality!' A proud familial exclamation admiring feisty baby energy.
-- 'She looks a lot like her mother.' A warm comparative statement affirming maternal resemblance.
+- 'Do not worry, we are going to win.' Colette comforts her client and predicts they will win.
+- 'You are really very optimistic, Colette.' Andréa acknowledges morale support.
+- 'Look instead at this lovely ultrasound!' Colette directs focus to baby imagery.
+- 'Our baby girl is already moving a lot.' Andréa notes fetal activity.
+- 'Place your hand here on your belly.' Colette guides physical maternal contact.
+- 'She already has a strong personality!' Andréa admires feisty baby energy.
+- 'She looks a lot like her mother.' Colette affirms maternal resemblance. Now let's listen to Andrea and Colette again at full speed.

@@ -18,13 +18,13 @@ CLOSING = ('virginie', 'À bientôt!')
 STORY = [
     ('michel', 'Virginie Efira!', 'Introducing Virginie Efira!', [(791, 'Virginie Efira')], ''),
     ('virginie', 'Michel, bonjour. Bonjour, mon amour.', 'Michel, hello. Hello, my love.', [(793, 'Michel, bonjour. Bonjour, mon amour')], ''),
-    ('ramzy', "C'est super que tu sois là.", 'It', [(795, "c'est super que tu sois là")], ''),
+    ('ramzy', "C'est super que tu sois là.", "It's great that you're here.", [(795, "c'est super que tu sois là")], ''),
     ('virginie', "Les surprises, c'est important.", 'Surprises are important.', [(797, "les surprises, c'est important")], ''),
     ('ramzy', "Il y a pire que l'ennui dans une relation.", 'There are worse things than boredom in a relationship.', [(800, "il y a pire que l'ennui dans une relation")], ''),
     ('virginie', 'Certaines surprises sont indésirables.', 'Some surprises are unwelcome.', [(804, 'Certaines surprises sont indésirables')], ''),
     ('ramzy', 'Comme là, maintenant.', 'Like right now.', [(808, 'Comme là, maintenant')], ''),
-    ('michel', 'Regardons un extrait du film.', 'Let', [(809, 'Regardons un extrait du film')], ''),
-    ('ramzy', "Qu'est-ce que tu fais là? C'est tellement gênant.", 'What are you doing here? It', [(812, "Qu'est-ce que tu fais là"), (812, "C'est tellement gênant")], ''),
+    ('michel', 'Regardons un extrait du film.', "Let's watch a clip of the film.", [(809, 'Regardons un extrait du film')], ''),
+    ('ramzy', "Qu'est-ce que tu fais là? C'est tellement gênant.", "What are you doing here? It's so awkward.", [(812, "Qu'est-ce que tu fais là"), (812, "C'est tellement gênant")], ''),
     ('virginie', "T'es tellement horrible.", 'You are so horrible.', [(814, "T'es tellement horrible")], ''),
     ('ramzy', 'Je suis horrible?', 'I am horrible?', [(815, 'Je suis horrible')], ''),
     ('virginie', 'Complètement!', 'Totally!', [(815, 'Complètement')], ''),
@@ -32,7 +32,7 @@ STORY = [
     ('ramzy', "Tu peux garder l'argent.", 'You can keep the money.', [(824, "Tu peux garder l'argent")], ''),
     ('virginie', "Parce que je t'aime.", 'Because I love you.', [(831, "Parce que je t'aime")], ''),
     ('michel', 'Quel couple volcanique!', 'What a volcanic couple!', [(832, 'Quel couple volcanique')], ''),
-    ('virginie', 'Oui, ça en vaut la peine.', 'Yes, it', [(844, 'Oui, ça en vaut la peine')], ''),
+    ('virginie', 'Oui, ça en vaut la peine.', "Yes, it's worth it.", [(844, 'Oui, ça en vaut la peine')], ''),
 ]
 WALK = [
     (0, None, "'Introducing Virginie Efira!' Michel Drucker introduces his special guest to the television audience."),
@@ -51,5 +51,5 @@ WALK = [
     (13, None, "'You can keep the money.' Cornered on the air, Ramzy tells her she can keep the extra money."),
     (14, None, "'Because I love you.' Virginie confesses the real reason she is so furious with him."),
     (15, None, "'What a volcanic couple!' The host marvels at their fiery reconciliation in front of the cameras."),
-    (16, None, "'Yes, it's worth it.' Virginie laughs through her tears that their chaotic love is worth the trouble."),
+    (16, None, "'Yes, it's worth it.' Virginie laughs through her tears that their chaotic love is worth the trouble. Now listen to the whole scene again at normal speed, and see how much more you catch."),
 ]

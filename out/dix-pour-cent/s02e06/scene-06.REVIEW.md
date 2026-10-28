@@ -24,6 +24,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 12 | Annick | C'est comme ça qu'il te remercie? | Is that how he thanks you? | #131: C'est comme ça qu'il te remercie ? | verbatim |
 | 13 | Annick | Ce milieu n'est que de la façade. | This world is nothing but a facade. | #132: Tout ça c'est de la façade. | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Tell me stories about your actors!' Annick presses Camille for juicy gossip about celebrity clients.
@@ -38,4 +39,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'She does not trust me at all anymore.' Camille understands why Andrea felt deeply betrayed.
 - 'And Mathias is very busy with his divorce.' Camille explains her father's chaotic personal life.
 - 'Is that how he thanks you?' Annick expresses maternal outrage over Mathias's lack of loyalty.
-- 'This world is nothing but a facade.' Annick concludes that Parisian agency glamour hides cold reality.
+- 'This world is nothing but a facade.' Annick concludes that Parisian agency glamour hides cold reality. Now let's listen to the scene once more from start to finish.

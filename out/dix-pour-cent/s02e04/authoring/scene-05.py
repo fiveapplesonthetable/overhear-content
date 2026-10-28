@@ -43,5 +43,5 @@ WALK = [
     (9, None, "'All right, I will do two candidates.' Andrea yields slightly but caps her participation at two."),
     (10, None, "'But I am the one who decides when.' Andrea maintains the upper hand by dictating the schedule."),
     (11, None, "'Perfect, interviews in my office.' Hicham accepts the compromise while keeping the meetings on his turf."),
-    (12, None, "'Here, have some coffee.' Gabriel breaks the lingering tension by offering Andrea a cup of coffee."),
+    (12, None, "'Here, have some coffee.' Gabriel breaks the lingering tension by offering Andrea a cup of coffee. Now let's listen to the scene once more from start to finish."),
 ]

@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'And then, we will be able to speak calmly.' Franck hopes this gesture will open a genuine dialogue."),
     (11, None, "'You are really strange today.' Dylan is struck by Franck's unconventional attempt at making peace."),
     (12, None, "'I regret my stupid gesture.' Franck sincerely acknowledges his past bad behavior on the film set."),
-    (13, None, "'Let us forget that for now.' Dylan decides to let go of the grudge and move forward."),
+    (13, None, "'Let us forget that for now.' Dylan decides to let go of the grudge and move forward. Now let's listen to the complete discussion once more to reinforce the vocabulary."),
 ]

@@ -17,7 +17,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 5 | Andréa | Tu m'as beaucoup manqué ces derniers jours. | I missed you very much these past days. | #770: -Tu m'as manqué. -Vraiment ? | verbatim |
 | 6 | Camille | C'est vrai? Tu m'as manqué aussi. | Is that true? I missed you too. | #770: -Tu m'as manqué. -Vraiment ? | verbatim |
 | 7 | Andréa | Et c'est quoi ces drôles de chaussures? | And what are these funny shoes? | #772: -C'est quoi ces chaussures ? -Oui, je l'avoue ! | verbatim |
-| 8 | Camille | Ce sont les chaussures de ma mère! | These are my mother | #773: Ce sont celles de ma mère. | verbatim |
+| 8 | Camille | Ce sont les chaussures de ma mère! | These are my mother's shoes! | #773: Ce sont celles de ma mère. | verbatim |
 | 9 | Andréa | Dis-moi, tu connais la ville de New York? | Tell me, do you know the city of New York? | #774: Tu connais New York ? | verbatim |
 | 10 | Camille | Pas du tout, je n'y suis jamais allée. | Not at all, I have never been there. | #775: Non. Enfin, si, bien sûr.<br>#776: -Mais je n'y suis jamais allée. -Tu parles anglais ? | verbatim |
 | 11 | Andréa | Veux-tu venir à New York avec moi? | Do you want to come to New York with me? | #777: Tu veux venir à New York avec moi, | verbatim |
@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Andréa | J'aurai absolument besoin d'une assistante là-bas. | I will definitely need an assistant over there. | #779: J'aurais besoin d'une assistante. | verbatim |
 | 14 | Camille | Oui, bien sûr, c'est complètement dingue! | Yes, of course, that is completely crazy! | #784: Ouais !<br>#785: C'est dingue ! | verbatim |
 | 15 | Andréa | Parfait, nous en reparlerons très vite ensemble. | Perfect, we will discuss it very soon together. | #786: -Très bien ! -On se reparlera. | verbatim |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -42,4 +43,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'They are offering me a position at UBA.' Andrea discloses the confidential offer from the international agency.
 - 'I will definitely need an assistant over there.' Andrea makes clear that she trusts no one else by her side.
 - 'Yes, of course, that is completely crazy!' Camille reacts with joyous shock at the incredible prospect.
-- 'Perfect, we will discuss it very soon together.' Andrea seals the partnership with optimistic confidence.
+- 'Perfect, we will discuss it very soon together.' Andrea seals the partnership with optimistic confidence. Now let's listen to the scene once more from start to finish.

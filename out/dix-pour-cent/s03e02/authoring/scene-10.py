@@ -25,7 +25,7 @@ STORY = [
     ('gabriel', 'Ça pourrait vraiment nous intéresser.', 'It could really interest us.', [(602, "ça pourrait m'intéresser, en fait.")], ''),
     ('monica', "Super, j'en suis très ravie.", 'Great, I am very delighted about it.', [(604, 'Super, je suis ravi.')], ''),
     ('gabriel', 'Tu veux passer au bureau pour en discuter?', 'Do you want to come by the office to discuss it?', [(605, 'Tu veux passer au bureau pour en discuter ?')], ''),
-    ('monica', 'Tu ne pourrais pas passer à la maison plutôt?', 'Couldn', [(606, 'Tu pourrais pas passer à la maison, plutôt ?')], ''),
+    ('monica', 'Tu ne pourrais pas passer à la maison plutôt?', "Couldn't you come by my place instead?", [(606, 'Tu pourrais pas passer à la maison, plutôt ?')], ''),
     ('monica', 'Je voudrais te montrer des photos pour une pub.', 'I would like to show you photos for an ad.', [(607, 'Je voudrais te montrer des photos pour une pub,')], ''),
     ('gabriel', "Oui, c'est une excellente idée.", 'Yes, that is an excellent idea.', [(611, "Oui, d'accord, super.")], ''),
     ('monica', 'Ce soir, tu peux venir chez moi?', 'Tonight, can you come to my place?', [(610, 'Ce soir, tu peux ?')], ''),
@@ -49,5 +49,5 @@ WALK = [
     (12, None, "'Tonight, can you come to my place?' Monica proposes dinner that very evening."),
     (13, None, "'Yes okay, that is perfect for me.' Gabriel confirms the evening plan without hesitation."),
     (14, None, "'I will make you my secret risotto recipe.' Monica entices Gabriel with homemade cooking."),
-    (15, None, "'See you at your place at eight thirty!' Gabriel confirms the dinner appointment."),
+    (15, None, "'See you at your place at eight thirty!' Gabriel confirms the dinner appointment. Now let's listen to the entire dialogue once more to lock in what you have learned."),
 ]

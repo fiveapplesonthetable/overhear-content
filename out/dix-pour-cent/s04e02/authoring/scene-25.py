@@ -18,8 +18,8 @@ CLOSING = ('sofia', 'Au revoir!')
 STORY = [
     ('camille', 'Il vient de partir avec Sarah.', 'He just left with Sarah.', [(1104, 'vient de partir avec Sarah')], ''),
     ('camille', 'Ils sont allés à Saint-Ouen ensemble.', 'They went to Saint-Ouen together.', [(1104, 'vient de partir avec Sarah')], ''),
-    ('camille', "Il ne t'a pas prévenue?", 'Didn', [(1104, 'pas dit au revoir')], ''),
-    ('camille', "Il n'a pas dit au revoir?", 'Didn', [(1104, 'pas dit au revoir')], ''),
+    ('camille', "Il ne t'a pas prévenue?", "Didn't he tell you?", [(1104, 'pas dit au revoir')], ''),
+    ('camille', "Il n'a pas dit au revoir?", "Didn't he say goodbye?", [(1104, 'pas dit au revoir')], ''),
     ('sofia', "Bien sûr, bien sûr, c'est normal.", 'Of course, of course, that is normal.', [(1105, 'Bien sûr, bien sûr')], ''),
     ('sofia', 'Il a le droit de sortir.', 'He has the right to go out.', [(1105, 'Bien sûr, bien sûr')], ''),
     ('camille', "Tu as l'air un peu triste.", 'You look a little sad.', [(1105, 'Bien sûr, bien sûr')], ''),

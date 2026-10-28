@@ -13,7 +13,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 1 | Annick | Tu ne prends pas de petit-déjeuner? | Are you not having breakfast? | #68: Pas de petit-déjeuner ? | verbatim |
 | 2 | Camille | Maman, je suis très en retard. | Mom, I am very late. | #69: Maman, je suis en retard. | verbatim |
 | 3 | Annick | Assieds-toi et mange un peu. | Sit down and eat a little. | #70: Camille, assieds-toi, mange quelque chose. | verbatim |
-| 4 | Annick | Qui coiffe cette pauvre actrice? | Who styles this poor actress | #72: Qui coiffe Vanessa Paradis ? | verbatim |
+| 4 | Annick | Qui coiffe cette pauvre actrice? | Who styles this poor actress's hair? | #72: Qui coiffe Vanessa Paradis ? | verbatim |
 | 5 | Camille | Les agents ne s'occupent pas des coiffures. | Agents do not deal with hairstyles. | #75: Les agents ne sont pas consultés pour les coiffures ?<br>#76: Pas vraiment, maman. | verbatim |
 | 6 | Annick | Dis-moi, Mathias est gentil avec toi? | Tell me, is Mathias nice to you? | #77: Mathias est gentil avec toi ? | verbatim |
 | 7 | Camille | Oui, il est bien plus gentil qu'avant. | Yes, he is much nicer than before. | #79: Bien plus qu'avant. | verbatim |
@@ -25,9 +25,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Camille | Tu as un vrai don pour le drame. | You have a real gift for drama. | #88: Tu as un don pour ça. | verbatim |
 | 14 | Annick | Fais bien attention sur ton vélo. | Be very careful on your bicycle. | #90: Fais attention sur ton vélo. | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Are you not having breakfast?' A negative question expressing maternal concern.
+- 'Are you not having breakfast?' Annick expresses maternal concern.
 - 'Mom, I am very late.' Camille apologizes to her mother Annick for running so late.
 - 'Sit down and eat a little.' Annick tells her daughter to sit down and eat something.
 - 'Who styles this poor actress's hair?' Looking around the salon, Annick wonders aloud who styled that poor actress's hair.
@@ -35,9 +36,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Tell me, is Mathias nice to you?' Annick asks Camille directly whether Mathias is treating her well.
 - 'Yes, he is much nicer than before.' Camille reassures her mother that Mathias is much nicer to her than before.
 - 'We see each other and have lunch together.' Reciprocal pronominal actions in informal speech.
-- 'Look, he gave me a pretty lamp.' A compound past verb showing a thoughtful gift.
+- 'Look, he gave me a pretty lamp.' Camille shows a thoughtful gift.
 - 'It is easy when one is very rich.' Annick remarks skeptically that being generous is easy when a man is very rich.
-- 'I light your lovely candle every evening.' A temporal routine phrase reassuring her mother.
-- 'I should have kept a child at home.' A past conditional expressing nostalgic maternal longing.
-- 'You have a real gift for drama.' A playful observation acknowledging maternal melodrama.
-- 'Be very careful on your bicycle.' An idiomatic imperative of caution for city cycling.
+- 'I light your lovely candle every evening.' Camille reassures her mother.
+- 'I should have kept a child at home.' Annick expresses nostalgic maternal longing.
+- 'You have a real gift for drama.' Camille acknowledges maternal melodrama.
+- 'Be very careful on your bicycle.' Annick warns him to be very careful on his bicycle.

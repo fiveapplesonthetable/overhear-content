@@ -35,11 +35,11 @@ STORY = [
 WALK = [
     (0, None, "'From the beginning. And closer to the water.' Christophe commands his actors with zero patience."),
     (1, None, "'Closer? How? My feet are already wet!' Francois complains about the dangerous conditions on stage."),
-    (2, None, "'François, manage on your own! You are an actor, do something!' A colloquial imperative telling him to work it out."),
+    (2, None, "'François, manage on your own! You are an actor, do something!' Christophe tells him to work it out."),
     (3, None, "'What can I tell you? I love you both.' Francois recites his lines as Dom Juan facing two peasant women."),
     (4, None, "'No, that will not do! That does not work!' Christophe cuts him off angrily."),
     (5, None, "'If you are not in the pool, it simply does not work.' The director refuses to compromise on his water concept."),
-    (6, None, "'You are stiff, you are like an old redneck!' A direct insult mocking the older actor's physical stiffness."),
+    (6, None, "'You are stiff, you are like an old redneck!' Christophe mocks the older actor's physical stiffness."),
     (7, None, "'This is theatre, not the Olympic Games!' Francois snaps back with a witty cultural retort."),
     (8, None, "'You are explaining to me what theatre is? I am listening!' Christophe takes deep offence at being lectured."),
     (9, None, "'Christophe, please, calm down.' Andrea attempts to step between them before things get worse."),

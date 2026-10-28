@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Annick | On ira ensemble à la plage. | We will go together to the beach. | #727: On mangera des tomates et on ira à la plage. | verbatim |
 | 14 | Camille | Merci maman, je vais y réfléchir. | Thank you Mom, I will think about it. | #715: D'accord. | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Hi Mom, things are not going well.' Camille reaches out to her mother in tears late at night.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Work must not be painful.' Annick affirms that no job is worth sacrificing mental health.
 - 'I will pay for your ticket.' The mother generously offers to cover her train fare home.
 - 'We will go together to the beach.' She paints an idyllic picture of rest and recovery by the Mediterranean.
-- 'Thank you Mom, I will think about it.' Camille feels soothed by her mother's unconditional love.
+- 'Thank you Mom, I will think about it.' Camille feels soothed by her mother's unconditional love. Now let's listen to the entire exchange once more from beginning to end.

@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Andréa | Mais j'aime ton vrai visage. | But I love your true face. | #909: Mais j'aime ton visage. | verbatim |
 | 14 | Gabriel | Moi aussi j'adore ton visage. | I adore your face too. | #910: Moi aussi j'aime ton visage.<br>#911: J'adore ton visage... | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Why did you do that, Gabriel?' Andrea demands an immediate explanation from her partner.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I will keep an eye on that pest.' Gabriel reveals his true undercover strategy.
 - 'Even if I lose face!' Gabriel accepts the damage to his reputation.
 - 'But I love your true face.' Andrea responds with tender affection and understanding.
-- 'I adore your face too.' Gabriel softens completely before his longtime friend.
+- 'I adore your face too.' Gabriel softens completely before his longtime friend. Now let's listen to the complete discussion once more to reinforce the vocabulary.

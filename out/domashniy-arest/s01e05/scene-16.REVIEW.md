@@ -36,7 +36,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Can you come over here right now? They're killing me here!' On the other end of the line, Vitalik and his twin brother Valerik politely reply that they cannot come because they no longer guard him.
 - 'What do you mean you can't?' Arkady is stunned by their refusal.
 - 'Get over here right now, quickly, both of you!' Right then, Vitalik calmly says goodbye and hangs up on him, so Arkady pretends to the collectors that help is on the way.
-- 'Right, I'm waiting for you,' he says into the dead phone.
+- 'Right, I'm waiting for you.' He says this into the dead phone so the room thinks the call is still live.
 - 'They'll be here in five minutes.' Notice how Russian uses the preposition meaning 'through' or 'across' with an object-form time span to mean 'in five minutes'. Uncle Grisha sees straight through the act.
 - 'You see, Kostik, what it means to think with your head?' The noun for 'head' is in the 'with/as' form, 'with your head'.
 - 'Well, yes,' Kostik agrees with a nod.
@@ -53,6 +53,6 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Well, of course gold!' Arkady insists.
 - 'I'm the mayor, after all!' Uncle Grisha inspects the heavy Swiss watch and nods.
 - 'Nice watch, we're taking it,' Grisha decides with satisfaction.
-- 'Alright, let him go,' he tells Kostik.
+- 'Alright, let him go.' He tells Kostik to release the man.
 - 'He was a boss, he became nobody.' Notice how 'was' takes the subject-form here.
 - 'Thus passes earthly glory!' Grisha translates his favourite Latin saying as they head for the door.

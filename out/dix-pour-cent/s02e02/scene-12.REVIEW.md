@@ -27,6 +27,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 15 | Fabrice | Ne dites pas du mal de l'ennui. | Do not speak ill of boredom. | #386: Ne dites pas du mal de l'ennui. | verbatim |
 | 16 | Andréa | Je vous laisse donc vous ennuyer avec Bréhier. | I leave you then to be bored with Bréhier. | #389: Je vous laisse donc vous ennuyer avec Bréhier. | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Hello, Fabrice! Do you come here often?' Andrea initiates conversation with casual charm.
@@ -44,4 +45,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Novelty is a concept that does not interest me.' Luchini rejects trendy career shifts.
 - 'Maybe you just want to be bored.' Andrea challenges his resistance with witty sarcasm.
 - 'Do not speak ill of boredom.' Luchini defends existential boredom as a creative state.
-- 'I leave you then to be bored with Bréhier.' Andrea concludes her exit with sharp wit.
+- 'I leave you then to be bored with Bréhier.' Andrea concludes her exit with sharp wit. Now let's listen to the entire dialogue once more to lock in what you have learned.

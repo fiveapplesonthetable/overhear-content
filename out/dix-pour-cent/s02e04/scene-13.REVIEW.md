@@ -26,6 +26,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 14 | Mathias | Il pense à une actrice américaine. | He is thinking of an American actress. | #370: sur une actrice américaine | verbatim |
 | 15 | Isabelle | Oui, bien sûr. C'est dommage. | Yes, of course. It is a pity. | #373: Oui, bien sûr | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'It is a profound and intelligent screenplay.' Isabelle praises the artistic depth of the text.
@@ -35,11 +36,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'You must know an important thing.' The agent issues a diplomatic preliminary warning.
 - 'Sacha Hartman is not easy.' Mathias describes the director's notoriously stubborn temperament.
 - 'I am used to it, you know.' Isabelle brushes off the concern with experienced confidence.
-- 'I can be exhausting too.' The diva playfully acknowledges her own demanding reputation.
+- 'I can be exhausting too.' Isabelle demands reputation.
 - 'He makes his entire crew sing.' Mathias mentions an eccentric routine between rehearsal takes.
 - 'I have always loved your frankness.' Isabelle values transparent communication from her agent.
 - 'If there is a problem, say so.' She invites direct truth about any casting obstacles.
 - 'Did Hartman choose someone else?' Isabelle cuts straight to the central question.
 - 'Andréa was a bit too hasty.' Mathias gently blames his colleague for premature promises.
 - 'He is thinking of an American actress.' The agent reveals rival international interest.
-- 'Yes, of course. It is a pity.' Isabelle acknowledges the setback with quiet dignity.
+- 'Yes, of course. It is a pity.' Isabelle acknowledges the setback with quiet dignity. Now listen to the whole scene again at normal speed, and see how much more you catch.

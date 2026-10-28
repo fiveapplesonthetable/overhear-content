@@ -43,5 +43,5 @@ WALK = [
     (9, None, "'Some people say that you were fast-tracked.' Justine admits that rumors circulate regarding Mathias's favoritism."),
     (10, None, "'I have been working hard for years.' Noemie reminds her of six intense years proving her skills at ASK."),
     (11, None, "'Enjoy your lunch darling, have a good day!' Mathias walks past and uses a pet name in public."),
-    (12, None, "'Thank you Mr. Barneville, enjoy your lunch too.' Noemie quickly responds with formal deference to maintain boundaries."),
+    (12, None, "'Thank you Mr. Barneville, enjoy your lunch too.' Noemie quickly responds with formal deference to maintain boundaries. Now let's listen to Noemie's workplace exchange once more from start to finish."),
 ]

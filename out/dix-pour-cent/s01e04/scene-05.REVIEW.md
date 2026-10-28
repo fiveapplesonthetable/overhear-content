@@ -14,7 +14,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 2 | Noémie | Oui, un médicament. J'ai mal au dos. | Yes, some medicine. My back hurts. | #127: Oui<br>#128: mal<br>#128: dos | verbatim |
 | 3 | Noémie | J'ai fait un stage d'escalade ce week-end. | I did a rock-climbing course this weekend. | #129: J'ai fait un stage d'escalade ce week-end. | verbatim |
 | 4 | Hervé | Tu as aimé? | Did you like it? | #131: Tu as aimé ? | verbatim |
-| 5 | Noémie | Oui, beaucoup! Mais je suis une fille de la ville. | Yes, a lot! But I | #132: Oui, beaucoup !<br>#133: je suis une fille de la ville | verbatim |
+| 5 | Noémie | Oui, beaucoup! Mais je suis une fille de la ville. | Yes, a lot! But I'm a city girl. | #132: Oui, beaucoup !<br>#133: je suis une fille de la ville | verbatim |
 | 6 | Noémie | Et la corde fait très mal! | And the rope really hurts! | #137: la corde<br>#138: fait mal | verbatim |
 | 7 | Camille | Hervé, sur Internet, cette actrice a dix ans de plus! | Hervé, on the Internet, this actress is ten years older! | #146: dix ans<br>#146: cette actrice<br>#146: Je fais quoi ? | verbatim |
 | 8 | Hervé | Corrige l'âge, tout simplement. | Just correct the age. | #147: corrige | verbatim |
@@ -23,8 +23,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 11 | Noémie | Vous dites bisou-bisou à une grande star? | Do you say kiss-kiss to a big star? | #154: Vous<br>#154: bisou-bisou<br>#154: stars ? | verbatim |
 | 12 | Camille | Non! | No! | #155: Non. | verbatim |
 | 13 | Noémie | Si! | Yes, you did! | #155: Si. | verbatim |
-| 14 | Camille | C'est juste une habitude. | It | #156: C'est juste une habitude. | verbatim |
+| 14 | Camille | C'est juste une habitude. | It's just a habit. | #156: C'est juste une habitude. | verbatim |
 | 15 | Noémie | Cette jeune actrice ne peut pas faire tout ce qu'elle veut! | This young actress cannot do whatever she wants! | #159: la fille de Christophe Lambert<br>#159: faire ce que | verbatim |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -42,4 +43,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'No!' Camille tries to deny it.
 - 'Yes, you did!' There's that special French 'yes' again, used to contradict a negative statement.
 - 'It's just a habit.' Camille defends herself mildly.
-- 'This young actress cannot do whatever she wants!'s daughter can't do whatever she wants!' Remember that since last episode, Noémie is convinced that Camille's secret father is the actor Christophe Lambert.
+- 'This young actress cannot do whatever she wants!' Remember that since last episode, Noémie is convinced that Camille's secret father is the actor Christophe Lambert.

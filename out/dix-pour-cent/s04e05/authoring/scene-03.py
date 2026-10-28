@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'An additional shock would be dangerous for him.' Gabriel acknowledges that stress could provoke a dangerous relapse."),
     (11, None, "'Let us simply send a very warm note.' Camille proposes sending considerate wishes through a thoughtful message."),
     (12, None, "'Yes, let us all sign this card together.' Gabriel suggests collecting signatures from all senior partners."),
-    (13, None, "'I will have it signed at the agency.' Camille takes charge of circulating the card among colleagues."),
+    (13, None, "'I will have it signed at the agency.' Camille takes charge of circulating the card among colleagues. Now let's listen to Camille and Gabriel's discussion once more from start to finish."),
 ]

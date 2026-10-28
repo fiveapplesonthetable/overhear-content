@@ -28,7 +28,7 @@ STORY = [
     ('realisateur', "Ce craquement gâche toute l'émotion.", 'This crunching ruins all the emotion.', [(626, 'quand même')], ''),
     ('gabriel', "L'ingénieur du son peut nettoyer ça.", 'The sound engineer can clean that.', [(626, 'quand même')], ''),
     ('realisateur', 'Tu as toujours une solution, Gabriel.', 'You always have a solution, Gabriel.', [(626, 'quand même')], ''),
-    ('gabriel', 'Gardons cette magnifique prise maintenant.', 'Let', [(623, 'Je reviens du royaume')], ''),
+    ('gabriel', 'Gardons cette magnifique prise maintenant.', "Let's keep this wonderful take now.", [(623, 'Je reviens du royaume')], ''),
     ('realisateur', "D'accord, c'est bon pour moi!", 'Agreed, it is good for me!', [(623, 'Je reviens du royaume')], ''),
 ]
 WALK = [
@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'The sound engineer can clean that.' Gabriel suggests fixing the audio in postproduction."),
     (11, None, "'You always have a solution, Gabriel.' The director admires Gabriel's endless resourcefulness."),
     (12, None, "'Let's keep this wonderful take now.' Gabriel presses to save the take and move on."),
-    (13, None, "'Agreed, it is good for me!' The director finally gives his approval."),
+    (13, None, "'Agreed, it is good for me!' The director finally gives his approval. Now let's listen to the complete discussion once more to reinforce the vocabulary."),
 ]

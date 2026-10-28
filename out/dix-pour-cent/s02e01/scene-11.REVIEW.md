@@ -24,25 +24,27 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 12 | Camille | J'ai réservé un hôtel pour la nuit. | I booked a hotel for the night. | #297: pas dormir là-bas ! | verbatim |
 | 13 | Andréa | Je voulais faire l'aller-retour dans la journée! | I wanted to make a round trip in a single day! | #297: je voulais faire l'aller-retour dans la journée | verbatim |
 | 14 | Camille | Mais le dernier train part très tôt. | But the last train leaves very early. | #298: Mais tu dois changer deux fois dans le dernier train. | verbatim |
-| 15 | Andréa | La maison de mes parents me déprime. Re-réserve un billet! | My parents' house depresses me. Rebook a ticket! | #299: re-réserve.<br>#300: La maison de mes parents me déprime. | verbatim |
+| 15 | Andréa | La maison de mes parents me déprime. Re-réserve un billet! | Rebook a ticket! | #299: re-réserve.<br>#300: La maison de mes parents me déprime. | verbatim |
 | 16 | Camille | D'accord, je m'en occupe tout de suite. | All right, I am taking care of it right away. | #302: Merci. Changez ça ! | verbatim |
+
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Do you have my ticket for tomorrow?' Andrea begins with a practical administrative question.
 - 'Yes, here it is. Where are you going?' Camille hands over the travel document and asks about the destination.
 - 'To Couchey. The village of my parents.' Andrea reveals the name of her small provincial hometown.
-- 'In eight years, nobody knew where you came from.' A negative expression of time highlighting Andrea's secrecy.
+- 'In eight years, nobody knew where you came from.' Camille highlights Andrea's secrecy.
 - 'Me neither, I would like to forget.' Andréa mutters that she too would love to forget her school days in Couchey.
 - 'What are you going to do in Couchey?' Camille asks curiously what Andréa is going to do in her home village.
 - 'My mother is receiving the town medal.' The present tense describes an upcoming civic ceremony.
 - 'That is classy!' Camille thinks an honorary medal sounds prestigious.
 - 'An ordeal, you mean.' Andréa grimaces and calls the hometown ceremony a total ordeal.
 - 'Do you have a meeting with Lea Seydoux?' Camille mentions a major client filming nearby.
-- 'Yes, on her film shoot near Couchey.' The prepositional phrase meaning next to or nearby.
-- 'I booked a hotel for the night.' A compound past action using the auxiliary to have.
-- 'I wanted to make a round trip in a single day!' An imperfect expression of original intention.
+- 'Yes, on her film shoot near Couchey.' Andréa uses the everyday phrase for 'next to' or 'near'.
+- 'I booked a hotel for the night.' Camille uses the auxiliary to have.
+- 'I wanted to make a round trip in a single day!' Andréa explains what she originally intended to do in a single day.
 - 'But the last train leaves very early.' Camille explains the tight train schedule in Burgundy.
-- 'My parents' house depresses me.' A vivid present tense description of her family home.
-- 'Rebook a ticket!' An imperative ordering an immediate change of plans.
-- 'All right, I am taking care of it right away.' Camille agrees with a useful pronominal idiom.
+- 'The house of my parents depresses me.' Andréa describes how gloomy her family home feels.
+- 'Rebook a ticket!' Andréa orders an immediate change of plans.
+- 'All right, I am taking care of it right away.' Camille agrees with a useful pronominal idiom. Let's listen to Andrea and Camille one more time.

@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'Your agency is completely ruined!' He sneers at ASK's desperate financial state."),
     (11, None, "'Believe what you want, Fabrice.' She refuses to grovel or debate further in front of her rival."),
     (12, None, "'You agents are really strange!' Fabrice is disgusted by the vicious pettiness of talent agents."),
-    (13, None, "'Leave me alone, François!' Andrea finishes the confrontation by dismissing Brehier completely."),
+    (13, None, "'Leave me alone, François!' Andrea finishes the confrontation by dismissing Brehier completely. Now let's listen to the entire exchange once more from beginning to end."),
 ]

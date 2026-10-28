@@ -13,7 +13,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 1 | Corinne | Bonsoir, je cherche les organisateurs. | Good evening, I am looking for the organizers. | #981: Bonsoir | verbatim |
 | 2 | Noémie | Bonsoir, je suis Noémie, assistante. | Good evening, I am Noemie, assistant. | #983: Je suis Noémie | verbatim |
 | 3 | Corinne | C'est moi le fameux fantôme. | I am the famous ghost. | #991: c'est moi le fantôme | verbatim |
-| 4 | Noémie | Vous êtes le double d'Isabelle? | Are you Isabelle | #988: je sais qui vous êtes | verbatim |
+| 4 | Noémie | Vous êtes le double d'Isabelle? | Are you Isabelle's double? | #988: je sais qui vous êtes | verbatim |
 | 5 | Corinne | Oui, j'ai fait de mon mieux. | Yes, I did my best. | #992: fait ce que j'ai pu | verbatim |
 | 6 | Noémie | Vous êtes une actrice de théâtre? | Are you a theater actress? | #993: pas mon métier | verbatim |
 | 7 | Corinne | Non, je suis une simple infirmière. | No, I am an ordinary nurse. | #993: pas mon métier | verbatim |
@@ -24,6 +24,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 12 | Noémie | C'est une catastrophe pour l'agence! | This is a disaster for the agency! | #1000: On a un problème | verbatim |
 | 13 | Corinne | Je viens juste pour la fête. | I just came for the party. | #998: Noémie | verbatim |
 | 14 | Noémie | Attendez ici, je cherche Andréa! | Wait here, I am finding Andrea! | #999: Attends, Andréa | verbatim |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Yes, I know everything now.' Corinne states that she grasps the whole picture.
 - 'This is a disaster for the agency!' Noemie panics over the high legal stakes.
 - 'I just came for the party.' Corinne clarifies that she has no malicious intent.
-- 'Wait here, I am finding Andrea!' Noemie rushes off to warn her boss.
+- 'Wait here, I am finding Andrea!' Noemie rushes off to warn her boss. Now let's listen to the complete discussion once more to reinforce the vocabulary.

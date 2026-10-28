@@ -11,21 +11,22 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Solveig | Non, merci. Un verre d'eau. | No, thank you. A glass of water. | #415: Non, merci<br>#419: Un verre d'eau | verbatim |
-| 2 | Mathias | Non, Nathalie, tu ne peux pas faire ça. | No, Nathalie, you can | #420: Non, Nathalie, tu ne peux pas faire ça | verbatim |
+| 2 | Mathias | Non, Nathalie, tu ne peux pas faire ça. | No, Nathalie, you can't do that. | #420: Non, Nathalie, tu ne peux pas faire ça | verbatim |
 | 3 | Nathalie | Bien sûr que oui. | Of course I can. | #421: Bien sûr que oui | verbatim |
-| 4 | Mathias | Tu ne sais même pas comment faire. | You don | #422: même pas comment faire | verbatim |
+| 4 | Mathias | Tu ne sais même pas comment faire. | You don't even know how to do it. | #422: même pas comment faire | verbatim |
 | 5 | Nathalie | Qu'est-ce que tu en sais, Mathias? | What do you know about it, Mathias? | #423: Qu'est-ce que tu en sais, Mathias | verbatim |
-| 6 | Nathalie | C'est très poétique. Je suis très émue. | It | #424: C'est très poétique<br>#424: émue | verbatim |
+| 6 | Nathalie | C'est très poétique. Je suis très émue. | It's very poetic. I'm very moved. | #424: C'est très poétique<br>#424: émue | verbatim |
 | 7 | Nathalie | Bon, j'y vais. | Right, here I go. | #425: J'y vais | verbatim |
-| 8 | Nathalie | Mais c'est toi qui veux partir. | But you | #426: Mais c'est toi qui veux partir | verbatim |
+| 8 | Nathalie | Mais c'est toi qui veux partir. | But you're the one who wants to leave. | #426: Mais c'est toi qui veux partir | verbatim |
 | 9 | Nathalie | Pars, alors! Pars! | Go, then! Go! | #428: Pars, alors ! Pars | verbatim |
-| 10 | Nathalie | Je ne suis pas surprise. | I | #430: je ne suis pas surprise | verbatim |
-| 11 | Nathalie | Tu as toujours aimé le vent. | You | #432: Tu as toujours aimé le vent | verbatim |
+| 10 | Nathalie | Je ne suis pas surprise. | I'm not surprised. | #430: je ne suis pas surprise | verbatim |
+| 11 | Nathalie | Tu as toujours aimé le vent. | You've always loved the wind. | #432: Tu as toujours aimé le vent | verbatim |
 | 12 | Solveig | Tu peux réessayer, sans tant de tragédie? | Can you try again, without so much tragedy? | #437: réessayer, sans tant de tragédie | verbatim |
 | 13 | Solveig | Quelque chose de plus neutre. | Something more neutral. | #438: Quelque chose de plus neutre | verbatim |
-| 14 | Nathalie | Si c'est ce que tu veux. | If that | #442: Si c'est ce que tu veux | verbatim |
+| 14 | Nathalie | Si c'est ce que tu veux. | If that's what you want. | #442: Si c'est ce que tu veux | verbatim |
 | 15 | Nathalie | Depuis que tu es petite, je le savais. | Since you were little, I knew it. | #444: Depuis que tu es petite | verbatim |
 | 16 | Nathalie | C'est plus neutre? | Is that more neutral? | #445: C'est plus neutre | verbatim |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -37,7 +38,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'It's very poetic. I'm very moved.' The word for 'moved' ends in the feminine spelling because Nathalie is a woman, though it sounds the same. She is talking about the script, and she means it.
 - 'Right, here I go.' Literally 'I go there'. People say it before jumping into anything.
 - 'But you're the one who wants to leave.' Now she is reading the script: a mother talking to her daughter. The pattern 'it's you who' puts the weight on the person.
-- 'Go, then! Go!' A casual command from the action word 'to leave'. Commands are our language point: the action word alone, with no word for 'you'. She plays it with huge drama.
+- 'Go, then! Go!' Nathalie gives a casual command from the action word 'to leave'. Commands are our language point: the action word alone, with no word for 'you'. She plays it with huge drama.
 - 'I'm not surprised.' The two-part negative around the action word 'to be'.
 - 'You've always loved the wind.' The word for 'always' sits between the two parts of the past action word. Solveig listens, and then asks for something else.
 - 'Can you try again, without so much tragedy?' The verb for 'try again' is just 'try' with a prefix meaning 'again'. Solveig wants less drama.

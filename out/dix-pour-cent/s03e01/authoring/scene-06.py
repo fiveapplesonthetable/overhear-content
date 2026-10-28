@@ -16,8 +16,8 @@ TRANSITION = "Now let's listen to the scene once more from start to finish."
 OUTRO = "That's it for this scene around the damaged contract. When you watch the episode, listen out for the expressions meaning 'phone' and 'cut off.'. You'll catch them now. See you next time!"
 CLOSING = ('gabriel', 'À bientôt!')
 STORY = [
-    ('gabriel', 'Le téléphone de Jean est totalement coupé.', 'Jean', [(85, 'Le téléphone de Jean est coupé')], ''),
-    ('camille', 'Le téléphone de sa femme ne répond pas.', 'His wife', [(85, 'celui de sa femme répond pas non plus.')], ''),
+    ('gabriel', 'Le téléphone de Jean est totalement coupé.', "Jean's phone is completely turned off.", [(85, 'Le téléphone de Jean est coupé')], ''),
+    ('camille', 'Le téléphone de sa femme ne répond pas.', "His wife's phone does not answer.", [(85, 'celui de sa femme répond pas non plus.')], ''),
     ('gabriel', 'Jean ne plaisante jamais avec ses contrats.', 'Jean never jokes with his contracts.', [(88, "c'est un truc avec lequel il rigole pas,")], ''),
     ('camille', 'Ce contrat sent vraiment la bête morte!', 'This contract really smells like a dead animal!', [(100, '2000 pages moisies qui puent la bête morte.')], ''),
     ('camille', 'Les pages sont complètement moisies et sales.', 'The pages are completely moldy and dirty.', [(100, 'pages moisies')], ''),
@@ -43,5 +43,5 @@ WALK = [
     (9, None, "'Gabriel, your meeting with the producer is arriving.' Andrea interrupts with urgent news about the lobby."),
     (10, None, "'Tell her that the legal department has a delay.' Gabriel invents an administrative delay to hide the disaster."),
     (11, None, "'I am going to keep her waiting in my office.' Andrea volunteers to distract the visiting executive."),
-    (12, None, "'Let us find a solution very quickly for this contract.' Gabriel tries to regain control before the deal collapses."),
+    (12, None, "'Let us find a solution very quickly for this contract.' Gabriel tries to regain control before the deal collapses. Now let's listen to the scene once more from start to finish."),
 ]

@@ -28,7 +28,7 @@ STORY = [
     ('colette', "Andréa, s'il te plaît, raccroche maintenant.", 'Andrea, please hang up right now.', [(258, 'je te laisse finir')], ''),
     ('andrea', 'Fabrice, je peux te rappeler?', 'Fabrice, can I call you back?', [(284, 'je peux te rappeler ?')], ''),
     ('andrea', "J'ai un imprévu en ce moment.", 'I have an unexpected situation right now.', [(285, "j'ai un imprévu.")], ''),
-    ('colette', 'Merci, pensons enfin à notre bébé.', 'Thank you, let', [(287, 'Non.')], ''),
+    ('colette', 'Merci, pensons enfin à notre bébé.', "Thank you, let's finally think about our baby.", [(287, 'Non.')], ''),
 ]
 WALK = [
     (0, None, "'You do not have to answer.' Colette gently tells Andrea to ignore her ringing mobile phone."),
@@ -43,5 +43,5 @@ WALK = [
     (9, None, "'Andrea, please hang up right now.' Colette tries to steer Andrea's attention back to family time."),
     (10, None, "'Fabrice, can I call you back?' Andrea finally concedes and prepares to pause the conversation."),
     (11, None, "'I have an unexpected situation right now.' Andrea invents an urgent excuse to end the work call."),
-    (12, None, "'Thank you, let's finally think about our baby.' Colette welcomes Andrea back into their peaceful hospital room."),
+    (12, None, "'Thank you, let's finally think about our baby.' Colette welcomes Andrea back into their peaceful hospital room. Now let's listen to the maternity clinic conversation once more to solidify what you have learned."),
 ]

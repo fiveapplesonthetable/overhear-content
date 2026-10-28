@@ -17,9 +17,9 @@ OUTRO = "Facing stiff outside competition for the junior agent post, Camille fee
 CLOSING = ('noemie', 'À demain!')
 STORY = [
     ('herve', 'Attends, viens là, Camille.', 'Wait, come over here, Camille.', [(313, 'Attends... viens là.')], ''),
-    ('herve', 'Imiter Hicham à ton entretien? Tu ne devrais pas être toi-même?', 'Imitate Hicham at your interview? Shouldn', [(326, 'Imiter Hicham à ton entretien ?'), (327, 'Tu ne devrais pas être toi-même ?')], ''),
+    ('herve', 'Imiter Hicham à ton entretien? Tu ne devrais pas être toi-même?', "Imitate Hicham at your interview? Shouldn't you be yourself?", [(326, 'Imiter Hicham à ton entretien ?'), (327, 'Tu ne devrais pas être toi-même ?')], ''),
     ('camille', "J'ai la tête qui tourne.", 'My head is spinning.', [(328, "J'ai la tête qui tourne.")], ''),
-    ('camille', "Les CV des candidats, c'est du niveau Harvard!", 'The candidates', [(329, "Les CV des candidats, c'est du niveau Harvard !")], ''),
+    ('camille', "Les CV des candidats, c'est du niveau Harvard!", 'The resumes of these candidates are Harvard level!', [(329, "Les CV des candidats, c'est du niveau Harvard !")], ''),
     ('noemie', "Tu as l'avantage de travailler ici.", 'You have the advantage of working here.', [(336, "Tu as l'avantage de travailler ici.")], ''),
     ('noemie', "Regarde, c'est Eugénie Léon-Brun.", 'Look, that is Eugenie Leon-Brun.', [(330, "C'est Eugénie Léon-Brun.")], ''),
     ('noemie', 'Droit, spécialisée en propriété intellectuelle.', 'Law school, specialized in intellectual property.', [(331, 'Droit, spécialisée en propriété intellectuelle.')], ''),
@@ -37,7 +37,7 @@ WALK = [
     (0, None, "'Wait, come over here, Camille.' Herve calls Camille over to discuss her interview."),
     (1, None, "'Imitate Hicham at your interview? Shouldn't you be yourself?' Herve questions the psychological tactic."),
     (2, None, "'My head is spinning.' Camille confesses her mounting panic."),
-    (3, None, "'The candidates' resumes are Harvard level!' Camille marvels at the fierce competition."),
+    (3, None, "'The resumes of these candidates are Harvard level!' Camille marvels at the fierce competition."),
     (4, None, "'You have the advantage of working here.' Noemie reminds Camille of her insider status."),
     (5, None, "'Look, that is Eugenie Leon-Brun.' Noemie identifies the most formidable rival."),
     (6, None, "'Law school, specialized in intellectual property.' Noemie recites Eugenie's stellar academic qualifications."),
@@ -49,5 +49,5 @@ WALK = [
     (12, None, "'Go on, Noémie, crush the rival!' Herve enthusiastically encourages the sabotage."),
     (13, None, "'I will talk to her about NLP and body language.' Noemie devises a psychological scheme."),
     (14, None, "'Did you really take a training course?' Camille asks skeptically about Noemie's qualifications."),
-    (15, None, "'That is how I learned to control my emotions.' Noemie claims newfound emotional mastery."),
+    (15, None, "'That is how I learned to control my emotions.' Noemie claims newfound emotional mastery. Now let's listen to the entire dialogue once more to lock in what you have learned."),
 ]

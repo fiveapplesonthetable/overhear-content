@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Andréa | C'est quoi? Allez, dis-moi! | What is it? Come on, tell me! | #113: C'est quoi ?<br>#116: C'est quoi ? Allez, dis-moi ! | verbatim |
 | 14 | François | Je ne sais pas nager. | I do not know how to swim. | #117: Je ne sais pas nager. | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'What is so bad about that scene?' Andrea asks why he finds the rehearsal scene so intolerable.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Drop it, forget about it.' Francois cuts the conversation short and refuses to listen.
 - 'François, help me understand! Why are you afraid of water?' Andrea begs him to explain what is really going on.
 - 'What is it? Come on, tell me!' She urges him to open up and tell the truth.
-- 'I do not know how to swim.' Francois finally confesses the childhood secret he has kept hidden for decades.
+- 'I do not know how to swim.' Francois finally confesses the childhood secret he has kept hidden for decades. Now let's listen to the entire dialogue once more from beginning to end.

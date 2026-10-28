@@ -35,7 +35,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'You got me, I got you.' Word for word, just 'you me, I you'; the verbs are missing, and you don't need them. Then the score.
 - 'Now it's one-all.' Like a football score: the toilet when they were boys, and the kiss today. Samson isn't convinced.
 - 'Yeah, right.' A tiny word said twice, slowly, and it means 'I don't believe a word of it'. Arkady keeps going.
-- 'All by the rules, like a knights' tournament.' He makes it sound like a fair duel between gentlemen. Then he tries charm.
+- 'All by the rules, like a knightly tournament.' He makes it sound like a fair duel between gentlemen. Then he tries charm.
 - 'Samson, come on, smile.' The little word in front of the command softens it, like 'come on'. And then the big word of the scene.
 - 'We're at peace.' Literally, 'at us, peace'. The same word means both 'peace' and 'the world'. Samson agrees, a little too happily.
 - 'Peace!' He takes Arkady's hand, shakes it, and squeezes hard.

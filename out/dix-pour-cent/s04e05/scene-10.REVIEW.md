@@ -24,6 +24,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 12 | Andréa | C'est une offre tout à fait inattendue. | It is a completely unexpected offer. | #438: De rien ! | verbatim |
 | 13 | Andréa | Cela sauve ma semaine de travail! | That saves my work week! | #438: De rien ! | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Colette, it is me on the phone.' Andrea begins her voicemail message.
@@ -38,4 +39,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'My niece is looking for new work.' Elise presents her niece's job search.
 - 'She can babysit Flora day and night.' Elise proposes round-the-clock childcare.
 - 'It is a completely unexpected offer.' Andrea marvels at the convenient timing.
-- 'That saves my work week!' Andrea feels a huge burden lifted from her shoulders.
+- 'That saves my work week!' Andrea feels a huge burden lifted from her shoulders. Now let's listen to the complete discussion once more to reinforce the vocabulary.

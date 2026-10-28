@@ -49,5 +49,5 @@ WALK = [
     (12, None, "'The machine must be broken.' Andrea excuses her complete lack of muscle strength."),
     (13, None, "'Sweat or it will not look credible.' Herve insists on physical authenticity for the cover story."),
     (14, None, "'You are as stiff as a hammer!' Herve critiques her rigid posture bluntly."),
-    (15, None, "'Now run, every second counts! Come on!' Herve urges her onto the treadmill."),
+    (15, None, "'Now run, every second counts! Come on!' Herve urges her onto the treadmill. Now let's listen to the entire dialogue once more to lock in what you have learned."),
 ]

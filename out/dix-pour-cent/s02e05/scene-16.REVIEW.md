@@ -26,6 +26,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 14 | Gabriel | Vous êtes pressée ce midi? | Are you in a hurry this noon? | #472: Vous êtes pressée | verbatim |
 | 15 | Gabriel | Je peux vous inviter à déjeuner? | Can I invite you to lunch? | #473: Je pourrais peut-être vous inviter à déjeuner | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Everything is going very well, thanks!' Guy reassures everyone on set after finishing his take.
@@ -42,4 +43,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'We decide whether we finance his film.' The commission will vote on Julien's project.
 - 'Now, I am stressing a lot!' Gabriel feels immediate agent anxiety over the verdict.
 - 'Are you in a hurry this noon?' Gabriel looks for an opening to lobby her informally.
-- 'Can I invite you to lunch?' Gabriel seizes the chance to pitch and connect over food.
+- 'Can I invite you to lunch?' Gabriel seizes the chance to pitch and connect over food. Now listen to the whole scene again at normal speed, and see how much more you catch.

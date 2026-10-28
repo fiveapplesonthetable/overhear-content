@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'This profession destroys our good friendships.' Elise mourns the erosion of authentic bonds."),
     (11, None, "'Business demands toughness.' Mathias explains the uncompromising demands of corporate survival."),
     (12, None, "'I will send you signed contracts tomorrow.' Elise returns to immediate paperwork tasks."),
-    (13, None, "'All right, good evening to you, Elise.' Mathias concludes the conversation pensively."),
+    (13, None, "'All right, good evening to you, Elise.' Mathias concludes the conversation pensively. Now let's listen to the complete discussion once more to reinforce the vocabulary."),
 ]

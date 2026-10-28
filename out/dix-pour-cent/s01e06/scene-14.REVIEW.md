@@ -24,6 +24,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 12 | Colette | On fait ce que je veux ce soir. | We do what I want this evening. | #405: On fait ce que je veux ce soir | verbatim |
 | 13 | Colette | On retrouve mes amies. | We meet my friends. | #406: On retrouve mes amies | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'For example, what do you want?' Christophe leans back and tests Andrea's skills.
@@ -38,4 +39,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'You told me to wait, and you did not come home.' The next morning in the apartment, Colette confronts her.
 - 'It was strictly professional, you know that.' Andrea defends herself.
 - 'We do what I want this evening.' Colette lays down the law.
-- 'We meet my friends.' She adds her firm plan. Now let's hear the whole exchange between the restaurant and the apartment once more.
+- 'We meet my friends.' She adds her firm plan.

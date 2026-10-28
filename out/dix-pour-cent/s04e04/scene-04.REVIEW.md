@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Andréa | Nous formons une équipe solide. | We form a solid team. | #94: Merci, les filles ! | verbatim |
 | 14 | Andréa | Allez, au travail maintenant! | Come on, back to work now! | #94: Merci, les filles ! | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Thanks, girls, have a good day!' Andrea warmly thanks the reception staff as she enters the building.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I keep control of everything.' Andrea refuses to let domestic complications derail her authority.
 - 'All right, I trust you.' Gabriel steps back and supports her decision.
 - 'We form a solid team.' Andrea acknowledges their collaborative partnership.
-- 'Come on, back to work now!' Andrea heads toward her office with renewed focus.
+- 'Come on, back to work now!' Andrea heads toward her office with renewed focus. Now let's listen to the full discussion once again from start to finish.

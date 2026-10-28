@@ -49,5 +49,5 @@ WALK = [
     (12, None, "'This is not you.' Camille firmly challenges his uncharacteristic weakness."),
     (13, None, "'You are a fighter, a winner!' Camille motivates him with powerful words of encouragement."),
     (14, None, "'Come on, get up now!' Camille commands him to snap out of his stupor."),
-    (15, None, "'All right, I am coming with you.' Mathias finally gathers the resolve to stand up."),
+    (15, None, "'All right, I am coming with you.' Mathias finally gathers the resolve to stand up. Now listen to the whole scene again at normal speed, and see how much more you catch."),
 ]

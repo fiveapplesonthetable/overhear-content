@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Camille | Un jour, tu me remercieras. | One day, you will thank me. | #1212: tu me remercieras. | verbatim |
 | 14 | Camille | La France entière me remerciera. | All of France will thank me. | #1213: me remerciera | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'What level is your instinct at?' Herve asks Camille skeptically about her intuition.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I will be his own Pygmalion.' Camille vows to mentor and train him into shape.
 - 'I can make him a star.' Camille declares her ambition with absolute confidence.
 - 'One day, you will thank me.' Camille promises Herve he will appreciate her decision.
-- 'All of France will thank me.' Camille concludes with dramatic enthusiasm.
+- 'All of France will thank me.' Camille concludes with dramatic enthusiasm. Now let's listen to the complete discussion once more to reinforce the vocabulary.

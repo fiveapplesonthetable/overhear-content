@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'I want to do this job differently.' Mathias expresses his desire for a fresh start."),
     (11, None, "'Do you really mean it, Dad?' Camille looks at him with affectionate respect."),
     (12, None, "'Yes, let us create beautiful memories together.' Mathias warmly agrees to build wonderful memories together with his daughter."),
-    (13, None, "'Then here we go for the adventure!' Camille smiles enthusiastically at their future."),
+    (13, None, "'Then here we go for the adventure!' Camille smiles enthusiastically at their future. Now let's listen to the complete discussion once more to reinforce the vocabulary."),
 ]

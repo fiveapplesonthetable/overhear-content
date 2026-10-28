@@ -13,19 +13,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 1 | Andréa | Je peux vous donner mes papiers? | Can I give you my papers? | #727: Je peux vous donner mes papiers | verbatim |
 | 2 | Colette | Oui, bien sûr. | Yes, of course. | #728: Oui | verbatim |
 | 3 | Andréa | Voilà. | There you go. | #729: Voilà | verbatim |
-| 4 | Colette | Madame Martel? Ça, ce n'est pas pour moi. | Ms Martel? This isn | #730: Martel | verbatim |
+| 4 | Colette | Madame Martel? Ça, ce n'est pas pour moi. | Ms Martel? This isn't for me. | #730: Martel | verbatim |
 | 5 | Andréa | Ah bon? C'est quoi? | Really? What is it? | new | new |
-| 6 | Colette | Ce sont vos résultats médicaux. | It | #732: Résultats médicaux | verbatim |
+| 6 | Colette | Ce sont vos résultats médicaux. | It's your medical results. | #732: Résultats médicaux | verbatim |
 | 7 | Andréa | Oh, pardon! C'était sur mon bureau. | Oh, sorry! It was on my desk. | #733: sur mon bureau | verbatim |
 | 8 | Colette | Au revoir, Madame Martel. | Goodbye, Ms Martel. | #734: Au revoir | verbatim |
 | 9 | Andréa | Oui, au revoir. | Yes, goodbye. | #734: Oui, au revoir | verbatim |
 | 10 | Colette | Vous êtes stressée par l'audit? | Are you stressed about the audit? | #735: Vous êtes stressée par l'audit | verbatim |
-| 11 | Colette | Vous n'aimez pas perdre le contrôle. | You don | #736: contrôle | verbatim |
-| 12 | Colette | Vous êtes une femme de pouvoir, Andréa! | You | #737: Vous êtes une femme de pouvoir, Andréa | verbatim |
+| 11 | Colette | Vous n'aimez pas perdre le contrôle. | You don't like losing control. | #736: contrôle | verbatim |
+| 12 | Colette | Vous êtes une femme de pouvoir, Andréa! | You're a woman who likes power, Andréa! | #737: Vous êtes une femme de pouvoir, Andréa | verbatim |
 | 13 | Andréa | On va manger? | Shall we go and eat? | #739: On va manger | verbatim |
-| 14 | Colette | Non, je rentre chez moi. | No, I | #740: Non, je rentre chez moi | verbatim |
+| 14 | Colette | Non, je rentre chez moi. | No, I'm going home. | #740: Non, je rentre chez moi | verbatim |
 | 15 | Colette | Merci quand même. | Thanks anyway. | #741: Merci quand même | verbatim |
-| 16 | Andréa | Vous avez raison. À demain. | You | #743: Vous avez raison<br>#744: À demain | verbatim |
+| 16 | Andréa | Vous avez raison. À demain. | You're right. See you tomorrow. | #743: Vous avez raison<br>#744: À demain | verbatim |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 

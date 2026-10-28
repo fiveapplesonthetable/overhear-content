@@ -16,21 +16,21 @@ TRANSITION = "Now let's listen to the entire dialogue once more."
 OUTRO = "Andréa and Colette are officially a secret couple, while back in Paris Mathias is preparing to buy the agency with his wife's money. Remember that the French word that looks like 'sensible' actually means 'sensitive'. See you next time!"
 CLOSING = ('andrea', 'Au revoir!')
 STORY = [
-    ('gabriel', 'Je suis content de rentrer à Paris.', 'I', [(549, 'content de rentrer à Paris')], ''),
+    ('gabriel', 'Je suis content de rentrer à Paris.', "I'm glad to be going back to Paris.", [(549, 'content de rentrer à Paris')], ''),
     ('gabriel', 'Tu as des nouvelles de Brancillon?', 'Do you have any news of Brancillon?', [(550, 'Des nouvelles de Brancillon')], ''),
     ('andrea', "Elle s'appelle Colette. Elle a mal aux côtes.", 'Her name is Colette. Her ribs hurt.', [(551, "Elle s'appelle Colette"), (552, 'côte')], ''),
     ('gabriel', 'Elle doit me détester!', 'She must hate me!', [(553, 'Elle doit me détester')], ''),
-    ('andrea', 'Elle ne comprend pas pourquoi tu manges autant avec tes clients.', 'She doesn', [(555, 'comprendre'), (555, 'tu manges autant avec tes clients')], ''),
-    ('gabriel', 'Tu peux lui expliquer, non?', 'You can explain to her, can', [(557, 'Tu peux'), (557, 'expliquer, non')], ''),
+    ('andrea', 'Elle ne comprend pas pourquoi tu manges autant avec tes clients.', "She doesn't understand why you eat so much with your clients.", [(555, 'comprendre'), (555, 'tu manges autant avec tes clients')], ''),
+    ('gabriel', 'Tu peux lui expliquer, non?', "You can explain to her, can't you?", [(557, 'Tu peux'), (557, 'expliquer, non')], ''),
     ('gabriel', 'Les acteurs sont fragiles et sensibles.', 'Actors are fragile and sensitive.', [(558, 'Les acteurs sont fragiles et sensibles')], ''),
     ('gabriel', 'Quand ça va mal, ils mangent. Et je mange avec eux!', 'When things go badly, they eat. And I eat with them!', [(559, 'Quand ça va mal, ils mangent. Et je mange avec eux')], ''),
     ('gabriel', "Quand j'ai vu Colette dans la rue, elle sortait de chez toi!", 'When I saw Colette in the street, she was coming out of your place!', [(561, "Quand j'ai vu Colette dans la rue"), (562, 'elle sortait de chez toi')], ''),
     ('gabriel', 'Vous êtes vraiment en couple?', 'Are you really a couple?', [(563, 'Vous êtes vraiment en couple')], ''),
     ('andrea', 'Je crois, oui.', 'I think so, yes.', [(563, 'Je crois, oui')], ''),
     ('gabriel', 'Et ça se passe comment?', 'And how is it going?', [(564, 'Et ça se passe comment')], ''),
-    ('andrea', 'Ça se passe vraiment bien.', 'It', [(567, 'Ça se passe vraiment bien')], ''),
-    ('andrea', "C'est bizarre, je sais, mais voilà.", 'It', [(568, "C'est bizarre, je sais, mais"), (569, 'Mais voilà')], ''),
-    ('andrea', 'Ne dis rien à personne, Gabriel.', 'Don', [(570, 'personne, Gabriel')], ''),
+    ('andrea', 'Ça se passe vraiment bien.', "It's going really well.", [(567, 'Ça se passe vraiment bien')], ''),
+    ('andrea', "C'est bizarre, je sais, mais voilà.", "It's strange, I know, but there it is.", [(568, "C'est bizarre, je sais, mais"), (569, 'Mais voilà')], ''),
+    ('andrea', 'Ne dis rien à personne, Gabriel.', "Don't say anything to anyone, Gabriel.", [(570, 'personne, Gabriel')], ''),
     ('andrea', "Ce serait mauvais pour nous tous, d'accord?", 'That would be bad for all of us, okay?', [(571, "Ce serait mauvais pour nous tous, d'accord")], ''),
 ]
 WALK = [
@@ -48,6 +48,6 @@ WALK = [
     (11, None, "'And how is it going?' Literally 'and that passes itself how?'."),
     (12, None, "'It's going really well.' Andréa can't hide a smile."),
     (13, None, "'It's strange, I know, but there it is.' Even Andréa is surprised to be dating a tax inspector."),
-    (14, None, "'Don't say anything to anyone, Gabriel.' A double negative in French: 'do not say nothing to nobody'."),
-    (15, None, "'That would be bad for all of us, okay?' Dating the woman who is auditing your company is against the rules, so it has to stay a secret."),
+    (14, None, "'Don't say anything to anyone, Gabriel.' Andréa uses a double negative in French: 'do not say nothing to nobody'."),
+    (15, None, "'That would be bad for all of us, okay?' Dating the woman who is auditing your company is against the rules, so it has to stay a secret. Here is the whole scene one more time."),
 ]

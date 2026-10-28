@@ -26,6 +26,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 14 | Camille | Je ne dis rien, promis. | I say nothing, promise. | #372: Pas un mot | verbatim |
 | 15 | Andréa | C'est notre petit secret. | It is our little secret. | #372: Pas un mot | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Look at that! It is funny.' Andrea points out the unexpected object with amusement.
@@ -42,4 +43,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'No, not at all.' Camille has never heard the expression before.
 - 'Not a word to anyone!' Andrea demands complete confidentiality.
 - 'I say nothing, promise.' Camille vows to keep quiet.
-- 'It is our little secret.' Andrea seals the shared discovery.
+- 'It is our little secret.' Andrea seals the shared discovery. Now listen to the whole scene again at normal speed, and see how much more you catch.

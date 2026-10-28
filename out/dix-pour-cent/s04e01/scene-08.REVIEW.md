@@ -24,6 +24,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 12 | Gabriel | Merci Mathias, nous allons très bien réussir. | Thank you Mathias, we will succeed very well. | #508: Mathias | verbatim |
 | 13 | Andréa | Adieu Mathias, et bon vent à toi! | Farewell Mathias, and godspeed to you! | #508: Mathias | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'The elevator doors are finally closing.' Mathias watches the automatic doors begin to shut.
@@ -38,4 +39,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Here, take this office key.' Mathias pulls the key from his pocket and hands it over.
 - 'Good luck running this agency alone.' Mathias doubts whether the remaining team can sustain the business.
 - 'Thank you Mathias, we will succeed very well.' Gabriel affirms their determination to prosper without him.
-- 'Farewell Mathias, and godspeed to you!' Andrea bids a final goodbye as the doors slide shut.
+- 'Farewell Mathias, and godspeed to you!' Andrea bids a final goodbye as the doors slide shut. Now let's listen to the elevator exchange once more from start to finish.

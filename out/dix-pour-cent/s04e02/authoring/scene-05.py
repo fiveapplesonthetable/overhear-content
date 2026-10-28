@@ -43,5 +43,5 @@ WALK = [
     (9, None, "'You have to observe and track them down!' Arlette urges Camille to rely on keen intuition rather than agency files."),
     (10, None, "'Wait, I think that I found her!' Camille suddenly connects Arlette's advice to a real morning encounter."),
     (11, None, "'Who did you find? A famous actress?' Gabriel inquires whether Camille discovered a celebrated film star."),
-    (12, None, "'A Spanish tourist crossed paths with in the subway!' Camille recalls the passionate foreign traveler from the subway station."),
+    (12, None, "'A Spanish tourist crossed paths with in the subway!' Camille recalls the passionate foreign traveler from the subway station. Now let's listen to Camille and Arlette's dialogue once more from start to finish."),
 ]

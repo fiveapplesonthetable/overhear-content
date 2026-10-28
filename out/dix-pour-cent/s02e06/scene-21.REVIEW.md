@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Andréa | Non, pas vraiment beaucoup de temps. | No, not really a lot of time. | #596: Pas vraiment. | verbatim |
 | 14 | Andréa | D'accord, courons chercher des toilettes! | All right, let us run to find a bathroom! | #598: d'accord. | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'You are very elegant tonight, Andréa.' Hicham compliments Andrea as they arrive at the event.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Yes, I am really going to burst!' Juliette insists that she cannot wait any longer.
 - 'Do we still have time?' Hicham asks if a quick detour is possible.
 - 'No, not really a lot of time.' Andrea warns that the schedule is extremely tight.
-- 'All right, let us run to find a bathroom!' Andrea agrees to rush backstage to locate a restroom.
+- 'All right, let us run to find a bathroom!' Andrea agrees to rush backstage to locate a restroom. Now let's listen to the scene once more from start to finish.

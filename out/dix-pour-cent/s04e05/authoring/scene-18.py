@@ -18,7 +18,7 @@ CLOSING = ('vendeur', 'Bonne journée à Paris!')
 STORY = [
     ('sigourney', 'Voici la passerelle Debilly à Paris.', 'Here is the Debilly footbridge in Paris.', [(743, 'DEBILY')], ''),
     ('sigourney', 'Quelle vue magnifique sur la Seine!', 'What a magnificent view over the Seine!', [], ''),
-    ('vendeur', 'Bonjour madame! Regardez mes beaux souvenirs!', 'Hello ma', [], ''),
+    ('vendeur', 'Bonjour madame! Regardez mes beaux souvenirs!', "Hello ma'am! Look at my beautiful souvenirs!", [], ''),
     ('sigourney', 'Bonjour! Vous avez des tours Eiffel?', 'Hello! Do you have Eiffel Towers?', [], ''),
     ('vendeur', "Oui, j'ai des petites miniatures.", 'Yes, I have small miniatures.', [], ''),
     ('sigourney', 'Elles sont vraiment très mignonnes!', 'They are really very cute!', [], ''),
@@ -42,8 +42,8 @@ WALK = [
     (7, None, "'Yes, I will take this little tower.' Sigourney makes her selection from the stand."),
     (8, None, "'It is five euros, please.' The vendor tells her the cost of the souvenir."),
     (9, None, "'Here, take a ten-euro bill.' Sigourney hands over a banknote to pay."),
-    (10, None, "'Thank you very much! Are you waiting for someone?' The vendor notices her looking down the walkway."),
+    (10, None, "'Thank you very much! Are you waiting for someone?' The salesman looks down the walkway."),
     (11, None, "'Yes, I have a secret meeting.' Sigourney shares that she is meeting a mystery companion."),
     (12, None, "'Watch out for photographers on the bridge!' The seller points out paparazzi hiding nearby."),
-    (13, None, "'Thank you! Ah, here he comes!' Sigourney waves as her companion walks onto the bridge."),
+    (13, None, "'Thank you! Ah, here he comes!' Sigourney waves as her companion walks onto the bridge. Now let's listen to the complete discussion once more to reinforce the vocabulary."),
 ]

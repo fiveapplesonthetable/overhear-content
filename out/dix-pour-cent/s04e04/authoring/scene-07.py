@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'Another scene for my character?' Herve is astonished by the chance to expand his role."),
     (11, None, "'Yes, an extra day of shooting!' Valerie confirms that production will extend his contract."),
     (12, None, "'Will I receive another bouquet?' Herve jokes playfully about receiving more flowers."),
-    (13, None, "'I am really very happy!' Herve expresses pure joy at his growing acting prospects."),
+    (13, None, "'I am really very happy!' Herve expresses pure joy at his growing acting prospects. Now let's listen to the full discussion once again from start to finish."),
 ]

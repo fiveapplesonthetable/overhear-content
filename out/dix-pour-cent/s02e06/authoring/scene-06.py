@@ -43,5 +43,5 @@ WALK = [
     (9, None, "'She does not trust me at all anymore.' Camille understands why Andrea felt deeply betrayed."),
     (10, None, "'And Mathias is very busy with his divorce.' Camille explains her father's chaotic personal life."),
     (11, None, "'Is that how he thanks you?' Annick expresses maternal outrage over Mathias's lack of loyalty."),
-    (12, None, "'This world is nothing but a facade.' Annick concludes that Parisian agency glamour hides cold reality."),
+    (12, None, "'This world is nothing but a facade.' Annick concludes that Parisian agency glamour hides cold reality. Now let's listen to the scene once more from start to finish."),
 ]

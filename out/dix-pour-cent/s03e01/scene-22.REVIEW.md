@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Noémie | Je sais qu'il pense encore à moi! | I know he still thinks of me! | #952: Je sais qu'il pense à moi. | verbatim |
 | 14 | Hervé | Tu aimes les situations très compliquées! | You love very complicated situations! | #946: comment tu fais | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'What are you doing tonight, girls?' Herve asks his fellow assistants about their evening plans.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'It is up to him to move, honestly.' Noemie insists that Philippe should be the one to relocate.
 - 'I clearly see his discreet glances.' Noemie notices lingering signs of mutual attraction in the hallways.
 - 'I know he still thinks of me!' Noemie remains convinced of his ongoing feelings.
-- 'You love very complicated situations!' Herve humorously highlights Noemie's taste for drama.
+- 'You love very complicated situations!' Herve humorously highlights Noemie's taste for drama. Now let's listen to the scene once more from start to finish.

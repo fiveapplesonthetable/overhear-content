@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'For the leading role of the schoolteacher?' Laurence pictures the casting immediately."),
     (11, None, "'Exactly, with a quick agreement in principle.' Arlette guarantees the backing."),
     (12, None, "'Add an appearance by Balasko and I accept.' Laurence drives a hard bargain."),
-    (13, None, "'Deal done, sign this paper now.' Arlette clinches the contract on the spot."),
+    (13, None, "'Deal done, sign this paper now.' Arlette clinches the contract on the spot. Now let's listen to the complete discussion once more to reinforce the vocabulary."),
 ]

@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'He had confidence in us.' Camille interprets Mathias's actions as a sign of trust."),
     (11, None, "'Everything makes sense now.' Herve finally understands the strange clues."),
     (12, None, "'We must keep the secret.' Camille urges discretion between the two assistants."),
-    (13, None, "'This agency is completely crazy!' Herve marvels at the daily drama of ASK."),
+    (13, None, "'This agency is completely crazy!' Herve marvels at the daily drama of ASK. Now let's listen to the complete discussion once more to reinforce the vocabulary."),
 ]

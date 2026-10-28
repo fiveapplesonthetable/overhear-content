@@ -24,6 +24,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 12 | Colette | Un bébé a besoin d'être avec sa maman. | A baby needs to be with her mother. | #140: un bébé a besoin d'être avec sa maman | verbatim |
 | 13 | Andréa | Ce n'est pas humain d'être seule toujours! | It is not human to always be alone! | #149: c'est pas humain | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'I have not eaten anything all morning.' Andrea complains about being exhausted from baby care.
@@ -38,4 +39,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'That makes no sense, Andrea!' Colette dismisses the idea of trusting a strange neighbor.
 - 'I cannot stay locked up twenty-four hours!' Andrea expresses her frustration with maternity isolation.
 - 'A baby needs to be with her mother.' Colette reminds Andrea of maternal duties during the early months.
-- 'It is not human to always be alone!' Andrea argues that complete isolation is unhealthy for parents.
+- 'It is not human to always be alone!' Andrea argues that complete isolation is unhealthy for parents. Now let's listen to the domestic conversation once more to solidify your understanding.

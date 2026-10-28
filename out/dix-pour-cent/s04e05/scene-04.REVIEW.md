@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Camille | Elle vous expliquera tous les détails. | She will explain all the details to you. | new | new |
 | 14 | Sigourney | Parfait, je vais commencer ma gymnastique. | Perfect, I will start my exercises. | new | new |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Here is your splendid suite at the Crillon.' Camille welcomes Sigourney into the opulent reception room of the five-star hotel.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'She is arriving very soon, Madame Weaver.' Camille promises that Andrea has resolved her domestic crisis and is en route.
 - 'I look forward to discussing my contract.' Sigourney signals her eager anticipation regarding her French film project.
 - 'She will explain all the details to you.' Camille confirms that Andrea will present full contract terms and shooting dates.
-- 'Perfect, I will start my exercises.' Sigourney wraps up the talk by launching straight into dynamic stretches.
+- 'Perfect, I will start my exercises.' Sigourney wraps up the talk by launching straight into dynamic stretches. Now let's listen to Camille and Sigourney's exchange once more from start to finish.

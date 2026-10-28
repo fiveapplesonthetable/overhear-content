@@ -25,19 +25,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Camille | Merci Mathias, c'est super gentil. | Thank you Mathias, that is super nice. | #106: Demain. Pour le café. | verbatim |
 | 14 | Mathias | Mais pas un mot aux autres agents. | But not a word to the other agents. | #106: Demain. Pour le café. | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Mathias, hello, do you have a minute?' A polite greeting followed by a request for brief attention.
-- 'Good morning Camille, I am in a hurry.' A busy professional acknowledgement indicating lack of time.
-- 'Did I tell you that mom was here?' A compound past question introducing family news.
-- 'Yes, I think so. When did she arrive?' An interrogative inquiring about the timing of her arrival.
+- 'Mathias, hello, do you have a minute?' Camille greets Mathias politely and asks if he has a minute.
+- 'Good morning Camille, I am in a hurry.' Mathias indicates lack of time.
+- 'Did I tell you that mom was here?' Camille introduces family news.
+- 'Yes, I think so. When did she arrive?' Mathias inquires about the timing of her arrival.
 - 'She just arrived in Paris this morning.' Camille tells Mathias that her mother just arrived in Paris this morning.
-- 'If we have lunch, you could join us.' A conditional proposal suggesting a shared informal meal.
-- 'It is impossible, I do not have time.' A direct refusal citing professional unavailability.
-- 'Tomorrow or Friday, she is staying all week.' A temporal alternative offering flexible scheduling.
-- 'Please, it would really make me happy.' A polite formula followed by a conditional expression of pleasure.
-- 'It would please mom as well.' An indirect object construction extending the personal request.
-- 'Do not look at me with that sad look.' A negative imperative reacting to an emotional expression.
-- 'All right, tomorrow, just for coffee.' A reluctant concession agreeing to a brief morning encounter.
-- 'Thank you Mathias, that is super nice.' A warm expression of gratitude acknowledging the effort.
-- 'But not a word to the other agents.' A discreet warning maintaining workplace confidentiality.
+- 'If we have lunch, you could join us.' Camille suggests a shared informal meal.
+- 'It is impossible, I do not have time.' Mathias cites professional unavailability.
+- 'Tomorrow or Friday, she is staying all week.' Camille offers flexible scheduling.
+- 'Please, it would really make me happy.' Camille adds 'please' and says it would really make her happy.
+- 'It would please mom as well.' Camille extends the personal request.
+- 'Do not look at me with that sad look.' Mathias reacts to an emotional expression.
+- 'All right, tomorrow, just for coffee.' Mathias agrees to a brief morning encounter.
+- 'Thank you Mathias, that is super nice.' Camille acknowledges the effort.
+- 'But not a word to the other agents.' Mathias maintains workplace confidentiality. Now let's listen to Camille and Mathias's quiet discussion again at full speed.

@@ -15,7 +15,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 3 | Andréa | Bonjour, Fabrice. Vous allez bien? | Hello, Fabrice. Are you well? | #923: Bonjour, Fabrice<br>#924: Vous allez bien | verbatim |
 | 4 | Fabrice | Très bien. Je voulais juste vous dire... | Very well. I just wanted to tell you... | #924: Très bien<br>#925: Je voulais juste vous dire | verbatim |
 | 5 | Fabrice | J'ai rendez-vous avec elle ce soir. | I have a date with her tonight. | #926: j'ai rendez-vous avec elle ce soir | verbatim |
-| 6 | Andréa | C'est formidable, je suis vraiment contente pour vous. | That | #928: C'est formidable, je suis vraiment contente pour vous | verbatim |
+| 6 | Andréa | C'est formidable, je suis vraiment contente pour vous. | That's wonderful, I am really happy for you. | #928: C'est formidable, je suis vraiment contente pour vous | verbatim |
 | 7 | Fabrice | Grâce à vous! Vous m'avez revigoré. | Thanks to you! You have revitalized me. | #929: Grâce à vous<br>#931: Vous m'avez revigoré | verbatim |
 | 8 | Fabrice | Je trouve ça drôle. Vous êtes une joueuse, et c'est rare. | I find it funny. You are a gambler, and that is rare. | #932: je trouve ça drôle<br>#933: Vous êtes une joueuse, et c'est rare | verbatim |
 | 9 | Andréa | Merci. | Thank you. | #934: Merci | verbatim |
@@ -26,6 +26,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 14 | Fabrice | À bientôt. | Talk to you soon. | #940: À bientôt | verbatim |
 | 15 | Hicham | Bravo, Martel. | Well done, Martel. | #941: Bravo, Martel | verbatim |
 | 16 | Hicham | Je savais que vous en étiez capable. | I knew you were capable of it. | #942: Je savais que vous en étiez capable | verbatim |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -44,4 +45,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'See you soon, Fabrice.' Andrea says goodbye to her prestigious new client.
 - 'Talk to you soon.' Fabrice returns the farewell before hanging up.
 - 'Well done, Martel.' Hicham steps in to congratulate his daring agent.
-- 'I knew you were capable of it.' Impressed by her victory, Hicham admits he knew she could pull it off.
+- 'I knew you were capable of it.' Impressed by her victory, Hicham admits he knew she could pull it off. Now listen to the whole scene again at normal speed, and see how much more you catch.

@@ -10,7 +10,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Camille | Les anciens talents de Mathias hésitent beaucoup. | Mathias | #81: sur le dos de Mathias | verbatim |
+| 1 | Camille | Les anciens talents de Mathias hésitent beaucoup. | Mathias's former talents hesitate a lot. | #81: sur le dos de Mathias | verbatim |
 | 2 | Hervé | Ils réclament tous des agents confirmés. | They all demand senior agents. | #86: veulent des agents confirmés | verbatim |
 | 3 | Andréa | Vous devez montrer beaucoup plus d'assurance. | You must show much more confidence. | #87: Montrez plus d'assurance | verbatim |
 | 4 | Andréa | Organisez des rendez-vous avec les associés. | Set up meetings with the partners. | #91: organisez des rendez-vous | verbatim |
@@ -19,25 +19,26 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 7 | Hervé | En revanche, François Cluzet nous quitte. | On the other hand, Francois Cluzet leaves us. | #115: Cluzet, c'est fini | verbatim |
 | 8 | Hervé | Il ne veut plus aucun agent désormais. | He wants no agent anymore from now on. | #121: veut plus d'agent | verbatim |
 | 9 | Andréa | Nous ne pouvons pas tout perdre. | We cannot lose everything. | #126: mettre la clé sous la porte | verbatim |
-| 10 | Camille | Où en est le dossier de Dany? | How is Dany | #126: mettre la clé sous la porte | verbatim |
+| 10 | Camille | Où en est le dossier de Dany? | How is Dany's case coming along? | #126: mettre la clé sous la porte | verbatim |
 | 11 | Andréa | Il tourne actuellement à New York. | He is currently filming in New York. | #126: mettre la clé sous la porte | verbatim |
 | 12 | Andréa | Perdre Dany fermerait définitivement notre agence. | Losing Dany would permanently close our agency. | #126: mettre la clé sous la porte | verbatim |
 | 13 | Hervé | Je vais le contacter dès ce soir. | I will contact him tonight. | #126: mettre la clé sous la porte | verbatim |
 | 14 | Andréa | Battez-vous pour chaque contrat sans faiblir. | Fight for each contract without faltering. | #87: Montrez plus d'assurance | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Mathias's former talents hesitate a lot.' A concerning report noting client instability across the agency's roster.
-- 'They all demand senior agents.' A professional hurdle showing client reluctance to trust junior representatives.
-- 'You must show much more confidence.' An empowering piece of advice urging the young agents to project authority.
-- 'Set up meetings with the partners.' A practical operational tactic leveraging senior partner presence to reassure clients.
-- 'Sofia succeeded in a wonderful audition.' A welcome piece of good news celebrating an assistant-turned-actress's triumph.
-- 'She will soon act with Fabrice Luchini.' An exciting confirmation of a prestigious high-profile film collaboration.
-- 'On the other hand, Francois Cluzet leaves us.' A sobering announcement confirming the departure of a major movie star.
-- 'He wants no agent anymore from now on.' A definitive break indicating the actor's choice to work independently.
-- 'We cannot lose everything.' An urgent acknowledgment that consecutive departures will imperil the firm.
-- 'How is Dany's case coming along?' A strategic inquiry regarding the agency's most commercially valuable client.
-- 'He is currently filming in New York.' A status report noting geographical distance complicating ongoing negotiations.
-- 'Losing Dany would permanently close our agency.' A stark financial truth highlighting the existential risk facing ASK.
-- 'I will contact him tonight.' A dedicated initiative volunteering to reach out across time zones.
-- 'Fight for each contract without faltering.' An inspiring battle cry mobilizing the entire staff for the fight ahead.
+- 'Mathias's former talents hesitate a lot.' Camille notes client instability across the agency's roster.
+- 'They all demand senior agents.' Hervé shows client reluctance to trust junior representatives.
+- 'You must show much more confidence.' Andréa urges the young agents to project authority.
+- 'Set up meetings with the partners.' Andréa leverages senior partner presence to reassure clients.
+- 'Sofia succeeded in a wonderful audition.' Camille celebrates an assistant-turned-actress's triumph.
+- 'She will soon act with Fabrice Luchini.' Camille confirms an exciting upcoming film collaboration with Fabrice Luchini.
+- 'On the other hand, Francois Cluzet leaves us.' Hervé confirms the departure of a major movie star.
+- 'He wants no agent anymore from now on.' Hervé indicates the actor's choice to work independently.
+- 'We cannot lose everything.' Andréa acknowledges urgently that further departures could sink the firm.
+- 'How is Dany's case coming along?' Camille asks strategically about the agency's most lucrative client.
+- 'He is currently filming in New York.' Andréa notes geographical distance complicating ongoing negotiations.
+- 'Losing Dany would permanently close our agency.' Andréa highlights the existential risk facing ASK.
+- 'I will contact him tonight.' Hervé volunteers to reach out across time zones.
+- 'Fight for each contract without faltering.' Andréa mobilizes the entire staff for the fight ahead. Now let's listen to Andrea, Camille, and Herve discussing their strategy again at full speed.

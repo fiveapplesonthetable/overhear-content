@@ -19,7 +19,7 @@ STORY = [
     ('corinne', 'Bonsoir, je cherche les organisateurs.', 'Good evening, I am looking for the organizers.', [(981, 'Bonsoir')], ''),
     ('noemie', 'Bonsoir, je suis Noémie, assistante.', 'Good evening, I am Noemie, assistant.', [(983, 'Je suis Noémie')], ''),
     ('corinne', "C'est moi le fameux fantôme.", 'I am the famous ghost.', [(991, "c'est moi le fantôme")], ''),
-    ('noemie', "Vous êtes le double d'Isabelle?", 'Are you Isabelle', [(988, 'je sais qui vous êtes')], ''),
+    ('noemie', "Vous êtes le double d'Isabelle?", "Are you Isabelle's double?", [(988, 'je sais qui vous êtes')], ''),
     ('corinne', "Oui, j'ai fait de mon mieux.", 'Yes, I did my best.', [(992, "fait ce que j'ai pu")], ''),
     ('noemie', 'Vous êtes une actrice de théâtre?', 'Are you a theater actress?', [(993, 'pas mon métier')], ''),
     ('corinne', 'Non, je suis une simple infirmière.', 'No, I am an ordinary nurse.', [(993, 'pas mon métier')], ''),
@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'Yes, I know everything now.' Corinne states that she grasps the whole picture."),
     (11, None, "'This is a disaster for the agency!' Noemie panics over the high legal stakes."),
     (12, None, "'I just came for the party.' Corinne clarifies that she has no malicious intent."),
-    (13, None, "'Wait here, I am finding Andrea!' Noemie rushes off to warn her boss."),
+    (13, None, "'Wait here, I am finding Andrea!' Noemie rushes off to warn her boss. Now let's listen to the complete discussion once more to reinforce the vocabulary."),
 ]

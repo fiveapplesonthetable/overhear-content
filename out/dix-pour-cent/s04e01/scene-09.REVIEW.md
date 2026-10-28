@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Andréa | Une nouvelle histoire commence pour nous tous. | A new story begins for all of us. | #511: Au revoir. Vraiment, j'en reviens pas. | verbatim |
 | 14 | Mathias | Bonne chance avec vos nouveaux problèmes quotidiens! | Good luck with your new daily problems! | #511: Au revoir. Vraiment, j'en reviens pas. | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Mathias, wait a second please.' Andrea stops Mathias before he reaches the lift.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Thank you Mathias, good luck with your projects.' Andrea offers civil farewell wishes.
 - 'Goodbye. Seriously, I cannot believe it.' Mathias shakes his head in disbelief.
 - 'A new story begins for all of us.' Andrea looks forward to leading the agency.
-- 'Good luck with your new daily problems!' Mathias delivers a sardonic parting remark.
+- 'Good luck with your new daily problems!' Mathias delivers a sardonic parting remark. Now let's listen to the complete discussion once more to reinforce the vocabulary.

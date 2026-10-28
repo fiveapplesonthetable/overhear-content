@@ -27,6 +27,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 15 | Mathias | Tu as raison, j'ai été lâche avec elle. | You are right, I was cowardly with her. | #499: et tu ne fais rien. | verbatim |
 | 16 | Catherine | Appelle ta fille maintenant et assume ton rôle. | Call your daughter now and take on your role. | #510: Qu'est-ce que tu veux ?<br>#511: Je ne peux pas t'aimer | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Catherine? What a surprise to see you in Cannes!' Mathias reacts with astonishment.
@@ -44,4 +45,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I was so afraid of losing your love.' Mathias confesses his deep insecurity.
 - 'I do not want a man who flees his duties.' Catherine demands integrity and responsibility.
 - 'You are right, I was cowardly with her.' Mathias finally recognizes his failings.
-- 'Call your daughter now and take on your role.' Catherine urges him to act honorably.
+- 'Call your daughter now and take on your role.' Catherine urges him to act honorably. Now let's listen to the painful confrontation once more at normal pace.

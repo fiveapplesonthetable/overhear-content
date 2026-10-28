@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Andréa | Attends, mon téléphone sonne enfin. | Wait, my phone is ringing at last. | #331: Ah putain, ça sonne | verbatim |
 | 14 | Andréa | Allô Béatrice? Où es-tu exactement? | Hello Beatrice? Where are you exactly? | #333: Allô Béatrice, ça va ? T'es où là ? | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Andrea, Pascal just called me.' Arlette breaks the urgent news.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I keep reaching her voicemail.' Andrea vents her frustration.
 - 'The production threatens a lawsuit.' Arlette warns of legal repercussions.
 - 'Wait, my phone is ringing at last.' Andrea notices an incoming call.
-- 'Hello Beatrice? Where are you exactly?' Andrea answers urgently.
+- 'Hello Beatrice? Where are you exactly?' Andrea answers urgently. Now let's listen to the entire dialogue once more to lock in what you have learned.

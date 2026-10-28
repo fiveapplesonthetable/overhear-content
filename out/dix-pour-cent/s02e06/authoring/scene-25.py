@@ -47,5 +47,5 @@ WALK = [
     (11, None, "'I completely forgot to get shoes.' Mathias realizes he overlooked formal footwear during his shopping trip."),
     (12, None, "'Take mine, we wear the same shoe size.' Annick generously offers her own stylish shoes to save the day."),
     (13, None, "'Thank you Mom, you are truly wonderful!' Camille thanks her mother with heartfelt enthusiasm."),
-    (14, None, "'Go on, darling, enjoy your evening.' Annick encourages Camille to seize the exciting opportunity with confidence."),
+    (14, None, "'Go on, darling, enjoy your evening.' Annick encourages Camille to seize the exciting opportunity with confidence. Now let's listen to the scene once more from start to finish."),
 ]

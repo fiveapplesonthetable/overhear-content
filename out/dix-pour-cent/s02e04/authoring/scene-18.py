@@ -27,7 +27,7 @@ STORY = [
     ('andrea', "Allô Isabelle? C'est Andréa Martel.", 'Hello Isabelle? It is Andréa Martel.', [(497, "Isabelle, c'est Andréa Martel d'ASK")], ''),
     ('andrea', 'Sacha Hartman aimerait beaucoup vous voir.', 'Sacha Hartman would really like to see you.', [(498, "J'appelle de la part de Sacha Hartman"), (499, 'Souhaitez-vous le rencontrer ?')], ''),
     ('andrea', 'Seriez-vous libre demain matin au bureau?', 'Would you be free tomorrow morning at the office?', [(501, 'Demain, au bureau ?')], ''),
-    ('andrea', 'Parfait, rendez-vous demain à onze heures!', 'Perfect, see you tomorrow at eleven o', [(504, 'Demain à 11h'), (505, 'Parfait, à demain, Isabelle')], ''),
+    ('andrea', 'Parfait, rendez-vous demain à onze heures!', "Perfect, see you tomorrow at eleven o'clock!", [(504, 'Demain à 11h'), (505, 'Parfait, à demain, Isabelle')], ''),
     ('andrea', "Vous voyez, Sacha? C'est réglé.", 'You see, Sacha? It is settled.', [(510, "Alors, c'est réglé !")], ''),
     ('sacha', 'Elle a vraiment accepté de me voir?', 'She really agreed to see me?', [(506, 'Indisponible ?')], ''),
     ('andrea', 'Oui, elle essaie de vous joindre depuis deux jours.', 'Yes, she has been trying to reach you for two days.', [(499, 'Depuis deux jours'), (500, "j'essaie !")], ''),
@@ -49,5 +49,5 @@ WALK = [
     (12, None, "'You see, Sacha? It is settled.' Andréa shows him that his fears were unfounded."),
     (13, None, "'She really agreed to see me?' Sacha is pleasantly stunned by the outcome."),
     (14, None, "'Yes, she has been trying to reach you for two days.' Andréa reveals Isabelle's true interest."),
-    (15, None, "'Alright, then I will be there tomorrow.' Sacha commits to attending the appointment."),
+    (15, None, "'Alright, then I will be there tomorrow.' Sacha commits to attending the appointment. Now let's listen to the negotiation once more at normal pace."),
 ]

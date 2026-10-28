@@ -16,7 +16,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 4 | Gabriel | Tu aurais dû lui parler. | You should have spoken to him. | #204: Tu aurais dû lui parler. | verbatim |
 | 5 | Virginie | C'était rien, juste un au revoir très affectueux. | It was nothing, just a very affectionate goodbye. | #205: C'était rien, juste un au revoir.<br>#206: Un au revoir très affectueux, | verbatim |
 | 6 | Virginie | Ce type ne compte pas, c'est une vieille histoire. | That guy does not matter, it is an old story. | #211: Ce type ne compte pas<br>#212: C'est une très vieille flamme. | verbatim |
-| 7 | Virginie | J'ai tout gâché! Comment on paie le loyer maintenant? | I ruined everything! How do we pay the rent now? | #224: J'ai tout gâché.<br>#225: Comment on paie le loyer ? | verbatim |
+| 7 | Virginie | J'ai tout gâché! Comment on paie le loyer maintenant? | How do we pay the rent now? | #224: J'ai tout gâché.<br>#225: Comment on paie le loyer ? | verbatim |
 | 8 | Gabriel | Il faut être raisonnables. Mathias va trouver une solution. | We must be reasonable. Mathias will find a solution. | #227: Il faut être raisonnables.<br>#228: Mathias va trouver une solution. | verbatim |
 | 9 | Mathias | Virginie, calme-toi. On s'en occupe. | Virginie, calm down. We are handling it. | #245: on s'en occupe. | verbatim |
 | 10 | Mathias | Les paparazzi sont en bas, ils vous attendent. | The paparazzi are downstairs, they are waiting for you. | #246: Les paparazzi sont en bas !<br>#247: Ils m'ont dans leur viseur ! | verbatim |
@@ -26,6 +26,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 14 | Virginie | D'abord mon mec me quitte, maintenant mon agent! | First my boyfriend leaves me, now my agent! | #260: D'abord mon mec me plaque, maintenant mon agent. | verbatim |
 | 15 | Mathias | Ne le prends pas comme ça. Gabriel et moi travaillons ensemble. | Do not take it like that. Gabriel and I work together. | #262: Ne le prends pas comme ça. Gabriel et moi<br>#263: travaillons en étroite collaboration. | verbatim |
 | 16 | Gabriel | On va arranger ça, on te le promet. | We are going to fix this, we promise you. | #268: on va arranger de belles façades.<br>#269: On vous le promet. | verbatim |
+
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -39,10 +41,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'How do we pay the rent now?' Changing the subject to agency finances, Andréa asks how they will pay the rent now.
 - 'We must be reasonable. Mathias will find a solution.' Gabriel urges patience while invoking Mathias's authority.
 - 'Virginie, calm down. We are handling it.' Mathias tells Virginie to calm down and promises that the agency is handling it.
-- 'The paparazzi are downstairs, they are waiting for you.' The spatial adverb meaning downstairs.
-- 'Here is what we are going to do.' A classic presentative phrase introducing a plan of action.
-- 'I will be your interim agent in a way.' The simple future tense of the verb to be.
+- 'The paparazzi are downstairs, they are waiting for you.' Mathias warns them that the paparazzi are waiting downstairs.
+- 'Here is what we are going to do.' Mathias introduces a plan of action.
+- 'I will be your interim agent in a way.' Gabriel offers to serve as her interim agent.
 - 'A temporary arrangement, just a facade.' Mathias clarifies the diplomatic nature of the split.
 - 'First my boyfriend leaves me, now my agent!' Virginie sums up her terrible morning with dark humour.
-- 'Do not take it like that. Gabriel and I work together.' A reassuring negative imperative.
-- 'We are going to fix this, we promise you.' A near-future promise ending on a supportive note. Now let's listen to the whole discussion again without stopping.
+- 'Do not take it like that. Gabriel and I work together.' Mathias calms her down and reminds her that he and Gabriel work together.
+- 'We are going to fix this, we promise you.' Gabriel ends on a supportive note.

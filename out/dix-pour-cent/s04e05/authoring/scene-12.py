@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'Look, I am going to show you.' Sigourney offers a live demonstration right in the dining room."),
     (11, None, "'But what are you doing?' Bernard gasps as Sigourney hops energetically across the floor."),
     (12, None, "'Dance with me, it is wonderful!' Sigourney invites him to share her joy of movement."),
-    (13, None, "'No, that is too many steps!' Bernard grabs his coat and flees in terror of exceeding his quota."),
+    (13, None, "'No, that is too many steps!' Bernard grabs his coat and flees in terror of exceeding his quota. Now let's listen to the complete discussion once more to reinforce the vocabulary."),
 ]

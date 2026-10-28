@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'I do not need it at all.' The YouTuber insists that he can manage his stress naturally."),
     (11, None, "'I am very calm and relaxed.' He claims to feel completely peaceful despite his obvious anxiety."),
     (12, None, "'As you wish, my dear Norman.' Herve gracefully accepts his client's personal decision."),
-    (13, None, "'Wait, I forgot my mobile phone!' Norman panics at the last second as he prepares to depart."),
+    (13, None, "'Wait, I forgot my mobile phone!' Norman panics at the last second as he prepares to depart. Now let's listen to the entire exchange once more from beginning to end."),
 ]

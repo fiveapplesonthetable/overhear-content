@@ -19,7 +19,7 @@ STORY = [
     ('herve', 'Santé à tout le monde!', 'Cheers to everyone!', [(293, 'Santé.')], ''),
     ('sofia', 'Comment tu vas ce soir, Camille?', 'How are you doing tonight, Camille?', [(298, 'Comment tu vas ?')], ''),
     ('camille', 'Ça va très bien, merci beaucoup.', 'I am doing very well, thank you very much.', [(298, 'Comment tu vas ?')], ''),
-    ('sofia', 'Pourquoi tu ne sors pas avec Hippolyte?', 'Why don', [(307, 'Pourquoi tu ne sors pas avec Hippolyte')], ''),
+    ('sofia', 'Pourquoi tu ne sors pas avec Hippolyte?', "Why don't you go out with Hippolyte?", [(307, 'Pourquoi tu ne sors pas avec Hippolyte')], ''),
     ('camille', "Ne dis pas n'importe quoi, Sofia.", 'Do not say foolish things, Sofia.', [(308, "ne dis pas n'importe quoi.")], ''),
     ('camille', "On est amis, c'est tout.", 'We are friends, that is all.', [(310, "On est amis, c'est tout.")], ''),
     ('herve', "Tu plaisantes? Vous êtes faits l'un pour l'autre!", 'Are you kidding? You are made for each other!', [(311, 'Tu plaisantes ?'), (312, "faits l'un pour l'autre !")], ''),
@@ -49,5 +49,5 @@ WALK = [
     (12, None, "'Who is her real father?' Sofia asks with intense curiosity."),
     (13, None, "'Christophe Lambert! That is her father!' Hervé dramatically reveals the star name."),
     (14, None, "'Seriously? That is incredible!' Sofia reacts with genuine astonishment."),
-    (15, None, "'She looks a lot like him, do you think so too?' Hervé seeks agreement on the likeness."),
+    (15, None, "'She looks a lot like him, do you think so too?' Hervé seeks agreement on the likeness. Now let's listen to the entire dialogue once more to lock in what you have learned."),
 ]

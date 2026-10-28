@@ -25,11 +25,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Andréa | Viens, Flora, on rentre à la maison. | Come, Flora, we are going home. | #433: Bonne nuit, ma chérie. | verbatim |
 | 14 | Andréa | Bonne nuit, mon petit bébé. | Goodnight, my little baby. | #433: Bonne nuit, ma chérie. | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'You are late, Madame Martel!' The director expresses her immediate frustration.
 - 'I know, I had an emergency.' Andrea justifies her arrival with a serious excuse.
-- 'You left your daughter alone!' The director reproaches Andrea for leaving Flora unattended.
+- 'You left your daughter alone!' The headmistress leaves Flora unattended.
 - 'She was safe here.' Andrea argues that the daycare is a protected place.
 - 'It is a complete lack of respect.' The director condemns the late pickup.
 - 'It was proof of trust!' Andrea reframes her lateness as total confidence in the staff.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Very well, goodbye, madame.' Andrea accepts the verdict coldly without pleading.
 - 'You are really crazy!' The director watches Andrea leave in bewilderment.
 - 'Come, Flora, we are going home.' Andrea speaks gently to her infant daughter.
-- 'Goodnight, my little baby.' Andrea tucks Flora safely into her crib for the night.
+- 'Goodnight, my little baby.' Andrea tucks Flora safely into her crib for the night. Now let's listen to the complete discussion once more to reinforce the vocabulary.

@@ -13,20 +13,21 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 1 | Mathias | Bonjour à tous. Merci à tous d'être venus. | Good morning, everyone. Thank you all for coming. | #592: Bonjour à tous<br>#593: Merci à tous d'être venus | verbatim |
 | 2 | Mathias | Ce matin, j'ai une bonne nouvelle pour vous. | This morning, I have good news for you. | #599: Je vous ai demandé de venir ce matin pour vous annoncer une bonne nouvelle | verbatim |
 | 3 | Mathias | ASK ne sera pas vendue. | ASK will not be sold. | #600: ASK ne sera pas vendue | verbatim |
-| 4 | Andréa | Hélène Kerr garde les parts de Samuel? | Is Hélène Kerr keeping Samuel | #601: Hélène Kerr garde les parts de Samuel | verbatim |
-| 5 | Mathias | Non. Je les rachète. | No. I | #601: Non. Je les rachète | verbatim |
-| 6 | Mathias | L'avenir d'ASK est assuré. Vous pouvez être soulagés. | ASK | #602: L'avenir d'ASK est assuré. Vous pouvez être soulagés | verbatim |
+| 4 | Andréa | Hélène Kerr garde les parts de Samuel? | Is Hélène Kerr keeping Samuel's shares? | #601: Hélène Kerr garde les parts de Samuel | verbatim |
+| 5 | Mathias | Non. Je les rachète. | No. I'm buying them. | #601: Non. Je les rachète | verbatim |
+| 6 | Mathias | L'avenir d'ASK est assuré. Vous pouvez être soulagés. | ASK's future is secure. You can be relieved. | #602: L'avenir d'ASK est assuré. Vous pouvez être soulagés | verbatim |
 | 7 | Gabriel | Depuis quand tu le sais? | How long have you known? | #603: Depuis quand tu le sais | verbatim |
 | 8 | Mathias | J'ai trouvé un partenaire financier hier. | I found a financial partner yesterday. | #604: J'ai trouvé un partenaire financier hier | verbatim |
-| 9 | Andréa | Mais tu ne voulais pas nous le présenter? | But you didn | #605: Mais tu ne voulais pas nous le présenter | verbatim |
-| 10 | Mathias | Je n'en avais pas l'intention parce que c'est ma femme. | I didn | #606: Je n'en avais pas l'intention parce que c'est ma femme | verbatim |
-| 11 | Gabriel | Quoi? Et on est censés être soulagés? | What? And we | #607: Quoi<br>#608: Et on est censés être soulagés | verbatim |
+| 9 | Andréa | Mais tu ne voulais pas nous le présenter? | But you didn't want to introduce us to him? | #605: Mais tu ne voulais pas nous le présenter | verbatim |
+| 10 | Mathias | Je n'en avais pas l'intention parce que c'est ma femme. | I didn't intend to, because it's my wife. | #606: Je n'en avais pas l'intention parce que c'est ma femme | verbatim |
+| 11 | Gabriel | Quoi? Et on est censés être soulagés? | What? And we're supposed to be relieved? | #607: Quoi<br>#608: Et on est censés être soulagés | verbatim |
 | 12 | Andréa | Bravo! | Well done! | #610: Bravo | verbatim |
 | 13 | Mathias | Vous auriez préféré les Allemands? | Would you have preferred the Germans? | #611: Vous auriez préféré les Allemands | verbatim |
 | 14 | Gabriel | Avec lui, même une bonne nouvelle semble très triste! | With him, even good news sounds very sad! | #612: Il récupère tout, lui<br>#613: même les bonnes nouvelles ont l'air de mauvaises nouvelles | verbatim |
 | 15 | Gabriel | Oui? Julie Gayet et JoeyStarr ont disparu. | Yes? Julie Gayet and JoeyStarr have disappeared. | #620: Oui<br>#621: Julie Gayet et JoeyStarr ont disparu | verbatim |
-| 16 | Andréa | Julie, c'est encore moi. Rappelle-moi, s'il te plaît. | Julie, it | #623: Julie, c'est encore moi<br>#624: Rappelle-moi, s'il te plaît | verbatim |
+| 16 | Andréa | Julie, c'est encore moi. Rappelle-moi, s'il te plaît. | Julie, it's me again. Call me back, please. | #623: Julie, c'est encore moi<br>#624: Rappelle-moi, s'il te plaît | verbatim |
 | 17 | Gabriel | Didier, rappelle-moi. La prod est furieuse! | Didier, call me back. Production is furious! | #624: Didier, rappelle-moi<br>#625: La prod est furieuse | verbatim |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 

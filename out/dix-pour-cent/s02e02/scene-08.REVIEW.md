@@ -24,13 +24,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 12 | Gabriel | Désolé, Constance... C'est bon, je gère. | Sorry, Constance... It is fine, I will handle it. | #243: Désolé, Constance...<br>#247: C'est bon, je gère. | verbatim |
 | 13 | Gabriel | Calme-toi, Sofia, elle est très puissante. | Calm down, Sofia, she is very powerful. | #249: Elle est très puissante. | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Yes, my dear? What is wrong?' Gabriel addresses Sofia warmly when she enters his office in tears.
 - 'Can I do anything to cheer you up?' Gabriel asks the crying casting director if he can do anything to cheer her up.
 - 'What have you done now?' Gabriel instinctively worries that an audition went wrong.
 - 'That is not what I meant to say.' He quickly backtracks after sounding overly critical.
-- 'Never mind, I will call her.' The expression laisser tomber means to drop it or let it go.
+- 'Never mind, I will call her.' This expression laisser tomber means to drop it or let it go.
 - 'We will sort this out.' Gabriel promises Sofia that they will sort out this casting disaster.
 - 'Tell her the truth!' Sofia urges Gabriel to confront the casting director firmly.
 - 'I will handle it.' He assures her that he is taking care of the problem himself.
@@ -38,4 +39,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Are you joking! I am completely disfigured!' Constance dramatically exaggerates the altercation.
 - 'I barely touched her!' Sofia protests that she barely touched the assistant during the audition.
 - 'Sorry, Constance... It is fine, I will handle it.' Gabriel tries to pacify both women simultaneously.
-- 'Calm down, Sofia, she is very powerful.' Gabriel urges Sofia to calm down because the casting director is very influential.
+- 'Calm down, Sofia, she is very powerful.' Gabriel urges Sofia to calm down because the casting director is very influential. Now let's listen to Gabriel's difficult phone call once more.

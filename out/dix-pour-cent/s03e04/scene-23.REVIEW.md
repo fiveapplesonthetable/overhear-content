@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Isabelle | Pas de contrat, pas de producteur. | No contract, no producer. | #1257: pas de contrat, pas de producteur. | verbatim |
 | 14 | Isabelle | Juste la caméra et moi. | Just the camera and me. | #1259: Et moi. | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'How are you doing?' Gabriel asks Isabelle warmly as he arrives at her home.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'You need to rest.' Gabriel reminds her firmly of her doctor's orders.
 - 'But we are having so much fun.' Isabelle defends her passion for filmmaking without commercial pressure.
 - 'No contract, no producer.' Isabelle celebrates the pure freedom of making cinema without bureaucracy.
-- 'Just the camera and me.' Isabelle concludes with poetic dedication to her lifelong craft.
+- 'Just the camera and me.' Isabelle concludes with poetic dedication to her lifelong craft. Now let's listen to the entire dialogue once more to consolidate the expressions.

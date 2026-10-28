@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'We simply want to protect ourselves.' Gabriel defends their motives for acting behind Hicham's back."),
     (11, None, "'Loyalty is essential here.' Arlette underscores the foundational virtue of their profession."),
     (12, None, "'Thank you for your wisdom, Arlette.' Gabriel appreciates her steadying presence."),
-    (13, None, "'Keep your calm today.' Arlette offers parting advice before returning to her work."),
+    (13, None, "'Keep your calm today.' Arlette offers parting advice before returning to her work. Now let's listen to the complete discussion once more to reinforce the vocabulary."),
 ]

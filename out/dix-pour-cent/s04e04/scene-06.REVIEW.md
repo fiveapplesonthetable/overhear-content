@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Hervé | C'est une excellente nouvelle pour toi. | That is excellent news for you. | #465: aussi simple que ça | verbatim |
 | 14 | Camille | Maintenant, je fais une petite sieste! | Now, I am taking a short nap! | #466: Micro-sieste | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'So, did you have a good time?' Herve eagerly questions Camille about her lunch.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'You scared me so much!' Herve breathes a sigh of relief after the joke.
 - 'He simply listens to my useful advice.' Camille reveals that he truly values her perspective.
 - 'That is excellent news for you.' Herve congratulates her on earning his genuine respect.
-- 'Now, I am taking a short nap!' Camille rests her head on her desk to recharge.
+- 'Now, I am taking a short nap!' Camille rests her head on her desk to recharge. Now let's listen to Camille and Herve's full conversation once again from start to finish.

@@ -11,7 +11,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Catherine | Quelle heure est-il? | What time is it? | #727: Quelle heure est-il ? | verbatim |
-| 2 | Mathias | Neuf heures pile, comme convenu. | Nine o | #728: 9 heures pile, comme convenu. | verbatim |
+| 2 | Mathias | Neuf heures pile, comme convenu. | Nine o'clock sharp, as agreed. | #728: 9 heures pile, comme convenu. | verbatim |
 | 3 | Mathias | Je peux avoir un café? | Can I have a coffee? | #730: Je peux avoir un café ? | verbatim |
 | 4 | Catherine | Il n'en reste plus. | There is none left. | #731: Il n'en reste plus. | verbatim |
 | 5 | Mathias | Ça va? | Are you okay? | #732: Ça va ? | verbatim |
@@ -26,7 +26,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 14 | Mathias | Elle a rompu avec Ramzy, c'est tout. | She broke up with Ramzy, that is all. | #756: Elle a rompu avec Ramzy | verbatim |
 | 15 | Catherine | Tu vois, je ne te crois plus. | You see, I do not believe you anymore. | #757: Tu vois, c'est ça le problème. Je ne te crois plus. | verbatim |
 | 16 | Mathias | C'est la vérité, Catherine. | It is the truth, Catherine. | #758: C'est la vérité, Catherine. | verbatim |
-| 17 | Catherine | Je n'en peux plus. On divorce. | I cannot take it anymore. We are getting a divorce. | #761: Je n'en peux plus.<br>#762: On divorce. | verbatim |
+| 17 | Catherine | Je n'en peux plus. On divorce. | We are getting a divorce. | #761: Je n'en peux plus.<br>#762: On divorce. | verbatim |
+
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -47,4 +49,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'You see, I do not believe you anymore.' Catherine tells him sadly that she simply does not believe him anymore.
 - 'It is the truth, Catherine.' Mathias pleads his honesty.
 - 'I cannot take it anymore.' Catherine admits she has reached her limit after years of lies.
-- 'We are getting a divorce.' Catherine quietly delivers her final decision to end their marriage. Now let's listen to the whole discussion again without stopping.
+- 'We are getting a divorce.' Catherine quietly delivers her final decision to end their marriage.

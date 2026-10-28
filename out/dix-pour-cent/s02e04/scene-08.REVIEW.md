@@ -15,7 +15,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 3 | Andréa | Je suis dans une situation terrible, Camille. | I am in a terrible situation, Camille. | #197: Je suis dans la merde, Camille. Vraiment dans la merde. | verbatim |
 | 4 | Andréa | Tu es la seule personne de confiance. | You are the only trustworthy person. | #198: Tu es la seule personne ici en qui j'ai entièrement confiance | verbatim |
 | 5 | Andréa | Je n'ai pas rappelé Isabelle Adjani. | I have not called Isabelle Adjani back. | #200: Je n'ai pas rappelé Isabelle Adjani. | verbatim |
-| 6 | Camille | Pourquoi n'as-tu pas appelé Isabelle? | Why didn | #203: Pourquoi tu as fait ça ? | verbatim |
+| 6 | Camille | Pourquoi n'as-tu pas appelé Isabelle? | Why didn't you call Isabelle? | #203: Pourquoi tu as fait ça ? | verbatim |
 | 7 | Andréa | J'ai jeté le scénario à la poubelle! | I threw the script in the trash! | #202: j'ai jeté le scénario d'Amour Éternel directement à la poubelle. | verbatim |
 | 8 | Andréa | C'était il y a quatre ans. | That was four years ago. | #201: il y a quatre ans | verbatim |
 | 9 | Andréa | C'est la pire bourde de ma carrière. | It is the worst blunder of my career. | #207: La pire bourde de ma carrière. | verbatim |
@@ -23,6 +23,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 11 | Andréa | Isabelle et Hartman ne doivent pas se voir. | Isabelle and Hartman must not see each other. | #216: Donc ils ne doivent pas se rencontrer. | verbatim |
 | 12 | Andréa | J'ai besoin de toi pour bloquer ça. | I need you to block that. | #218: C'est pour ça que j'ai besoin de toi.<br>#219: Pour mettre des bâtons dans les roues. | verbatim |
 | 13 | Camille | D'accord Andréa, je vais t'aider. | All right Andréa, I will help you. | #224: C'est bon.<br>#225: Je le fais. | verbatim |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -38,4 +39,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Is the situation truly beyond repair?' Camille asks if there is any diplomatic way to fix the error.
 - 'Isabelle and Hartman must not see each other.' Andrea explains that an in-person meeting will expose her lie immediately.
 - 'I need you to block that.' Andrea tasks Camille with secretly derailing the scheduled encounter.
-- 'All right Andréa, I will help you.' Camille agrees to stand by Andrea and help sabotage the meeting.
+- 'All right Andréa, I will help you.' Camille agrees to stand by Andrea and help sabotage the meeting. Now let's listen to the scene once more from start to finish.

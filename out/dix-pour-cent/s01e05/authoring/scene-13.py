@@ -16,22 +16,22 @@ TRANSITION = 'Now listen to the entire office exchange one more time at natural 
 OUTRO = "Poor Hervé thought his missing-person poster was a stroke of genius, while Camille's salon rumor idea may actually work. Keep the phrase for drop it handy: listen and let it fall. See you next time!"
 CLOSING = ('mathias', 'Bonne journée!')
 STORY = [
-    ('camille', "Notre public, c'est la femme qui parle chez le coiffeur.", 'Our audience is the woman chatting at the hairdresser', [(237, 'La cible'), (238, "c'est la femme qui bavarde avec ses amies chez le coiffeur")], ''),
+    ('camille', "Notre public, c'est la femme qui parle chez le coiffeur.", "Our audience is the woman chatting at the hairdresser's.", [(237, 'La cible'), (238, "c'est la femme qui bavarde avec ses amies chez le coiffeur")], ''),
     ('camille', 'Le genre de femme qui adore Jonathan Joubert.', 'The kind of woman who adores Jonathan Joubert.', [(239, 'le genre de femme qui adore Jonathan Joubert')], ''),
     ('camille', 'Ryan, je veux dire.', 'Ryan, I mean.', [(240, 'Ryan, je veux dire')], ''),
     ('camille', 'Il nous faut une rumeur pour faire réagir les fans.', 'We need a rumor to make the fans react.', [(241, "Ce qu'il nous faut, c'est une fuite, pour que les fans commencent à protester")], ''),
     ('mathias', "C'est quoi ton idée, comme un avis de décès?", 'What is your idea, like a death notice?', [(242, "C'est quoi ton idée"), (242, 'un avis de décès')], ''),
     ('herve', 'Exactement!', 'Exactly!', [(243, 'Exactement')], ''),
     ('herve', "Je me suis inspiré de cette affaire d'un enfant disparu en Corrèze.", 'I took inspiration from that case of a missing child in Corrèze.', [(244, "Je me suis inspiré de cette affaire d'un enfant disparu en Corrèze")], ''),
-    ('mathias', "C'est horrible.", 'It', [(246, "C'est"), (247, 'horrible')], ''),
+    ('mathias', "C'est horrible.", "It's horrible.", [(246, "C'est"), (247, 'horrible')], ''),
     ('mathias', 'Écoute, laisse tomber.', 'Listen, drop it.', [(248, 'Écoute, laisse tomber')], ''),
     ('mathias', "Occupe-toi d'Audrey Fleurot.", 'Take care of Audrey Fleurot.', [(249, "Occupe-toi d'Audrey Fleurot")], ''),
     ('mathias', "Elle a un problème d'emploi du temps avec ses enfants.", 'She has a schedule problem with her children.', [(250, "Elle a un problème d'emploi du temps avec ses enfants")], ''),
     ('mathias', 'Merci quand même.', 'Thanks all the same.', [(251, 'Merci quand même')], ''),
-    ('herve', 'De rien.', 'You', [(251, 'De rien')], ''),
+    ('herve', 'De rien.', "You're welcome.", [(251, 'De rien')], ''),
 ]
 WALK = [
-    (0, None, "'Our audience is the woman chatting at the hairdresser's.'s.' The linking word before a profession means at their shop."),
+    (0, None, "'Our audience is the woman chatting at the hairdresser's.' The linking word before a profession means at their shop."),
     (1, None, "'The kind of woman who adores Jonathan Joubert.' Notice the word for type or kind followed by the linking word 'of'."),
     (2, None, "'Ryan, I mean.' Literally 'I want to say', the standard everyday French way to say 'I mean'."),
     (3, None, "'We need a rumor to make the fans react.' Notice how 'what we need' is built with the impersonal action word for needing."),
@@ -43,5 +43,5 @@ WALK = [
     (9, None, "'Take care of Audrey Fleurot.' Notice how the reflexive pronoun attaches to the end of a positive command."),
     (10, None, "'She has a schedule problem with her children.' The compound noun for a schedule literally means 'use of time'."),
     (11, None, "'Thanks all the same.' Mathias softens the blow before dismissing them."),
-    (12, None, "'You're welcome.' Unbothered by the rejection, Hervé replies with the everyday phrase meaning 'of nothing'."),
+    (12, None, "'You're welcome.' Unbothered by the rejection, Hervé replies with the everyday phrase meaning 'of nothing'. Now listen to the entire office exchange one more time at natural speed."),
 ]

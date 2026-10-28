@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Mathias | Oui, créons ensemble de beaux souvenirs. | Yes, let us create beautiful memories together. | #880: Il n'est jamais trop tôt pour créer de bons souvenirs avec son père. | verbatim |
 | 14 | Camille | Alors c'est parti pour l'aventure! | Then here we go for the adventure! | #880: avec son père. | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'You must take the plunge now, Camille.' Mathias encourages his daughter to take the next career step.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I want to do this job differently.' Mathias expresses his desire for a fresh start.
 - 'Do you really mean it, Dad?' Camille looks at him with affectionate respect.
 - 'Yes, let us create beautiful memories together.' Mathias warmly agrees to build wonderful memories together with his daughter.
-- 'Then here we go for the adventure!' Camille smiles enthusiastically at their future.
+- 'Then here we go for the adventure!' Camille smiles enthusiastically at their future. Now let's listen to the complete discussion once more to reinforce the vocabulary.

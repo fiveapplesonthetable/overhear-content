@@ -27,6 +27,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 15 | Hicham | Fais attention à toi sur la route. | Take care of yourself on the road. | #244: la santé de mes employés. | verbatim |
 | 16 | Andréa | Ne t'inquiète pas, je gère tout. | Do not worry, I manage everything. | #242: et que je gérais | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'I know that it is not easy.' Hicham acknowledges the workplace pressure.
@@ -44,4 +45,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Cordially, Hicham.' Andrea delivers a delightfully brisk, email-style farewell.
 - 'I am going to see Jean Dujardin now.' Andrea announces her immediate off-site priority.
 - 'Take care of yourself on the road.' Hicham reiterates his paternalistic care.
-- 'Do not worry, I manage everything.' Andrea reasserts total command of her affairs.
+- 'Do not worry, I manage everything.' Andrea reasserts total command of her affairs. Now let's listen to the entire dialogue once more to lock in what you have learned.

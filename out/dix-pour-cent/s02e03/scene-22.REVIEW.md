@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Norman | Merci beaucoup, c'est formidable! | Thank you very much, that is wonderful! | #586: Oh ! Merci !<br>#588: Oui, oui. J'ai eu mon permis ! | verbatim |
 | 14 | L'examinateur | Maintenant, sortez du véhicule. | Now, exit the vehicle. | #587: Maintenant partez ! | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'I truly love driving.' Norman expresses his newfound enthusiasm behind the steering wheel.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'You mean that I passed?' Norman hopes for confirmation that he finally earned his license.
 - 'I said absolutely nothing!' The examiner refuses to break official confidentiality rules.
 - 'Thank you very much, that is wonderful!' Norman rejoices at having overcome his driving exam anxiety.
-- 'Now, exit the vehicle.' The official dismisses the candidate at the end of the test.
+- 'Now, exit the vehicle.' The official dismisses the candidate at the end of the test. Now let's listen to the entire exchange once more from beginning to end.

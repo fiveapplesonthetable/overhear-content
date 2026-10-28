@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Mathias | Les secours arrivent dans quelques minutes. | The rescue arrives in a few minutes. | new | new |
 | 14 | Mathias | Je suis là avec toi, Catherine. | I am here with you, Catherine. | new | new |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Yes Catherine, what is this appointment?' Mathias asks his wife about their planned meeting.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I run to join you, hold on!' Mathias dashes frantically across town toward her.
 - 'In how much time do they arrive?' Catherine asks how long the ambulance will take.
 - 'The rescue arrives in a few minutes.' Mathias reassures her that help is on the way.
-- 'I am here with you, Catherine.' Mathias comforts his injured wife by her side.
+- 'I am here with you, Catherine.' Mathias comforts his injured wife by her side. Now let's listen to the scene once more from start to finish.

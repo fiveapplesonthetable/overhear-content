@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | José | Je ne serai jamais prêt à temps. | I will never be ready on time. | new | new |
 | 14 | Andréa | Tu es un acteur formidable, José. | You are a wonderful actor, Jose. | new | new |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Jose? Do you hear me?' Andrea snaps her fingers to regain Jose's attention.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'The director will call us soon.' Jose fears ruining the shooting schedule.
 - 'Drink a large glass of cool water.' Andrea recommends a quick remedy to stop the spasms.
 - 'I will never be ready on time.' Jose doubts his ability to pull himself together before filming.
-- 'You are a wonderful actor, Jose.' Andrea boosts his professional confidence with sincere praise.
+- 'You are a wonderful actor, Jose.' Andrea boosts his professional confidence with sincere praise. Now let's listen to Andrea and Jose's dialogue once more from start to finish.

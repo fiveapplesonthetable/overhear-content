@@ -47,5 +47,5 @@ WALK = [
     (11, None, "'Everything flipped in a fraction of a second!' Julien highlights how instantly fortunes change in the film industry."),
     (12, None, "'I am coping very badly with this terrible injustice.' Julien opens up honestly about his helplessness and despair."),
     (13, None, "'Keep courage, we will find a solution tomorrow.' Gabriel reassures him that the fight is far from over."),
-    (14, None, "'Courage Julien, we are thinking very warmly of you.' Sofia steps in to offer her genuine friendship and empathy."),
+    (14, None, "'Courage Julien, we are thinking very warmly of you.' Sofia steps in to offer her genuine friendship and empathy. Now let's listen to the scene once more from start to finish."),
 ]

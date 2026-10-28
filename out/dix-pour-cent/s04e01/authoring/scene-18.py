@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'This red carpet arrival is superb.' Gabriel admires their shared public grace."),
     (11, None, "'Thank you a thousand times for this gesture.' Mimie thanks Charlotte for sharing the limelight."),
     (12, None, "'Cinema loves your wonderful energy.' Charlotte celebrates the young actor's infectious energy on screen."),
-    (13, None, "'Enjoy your great success to the fullest!' Gabriel encourages both actresses to relish the glory."),
+    (13, None, "'Enjoy your great success to the fullest!' Gabriel encourages both actresses to relish the glory. Now let's listen to the complete discussion once more to reinforce the vocabulary."),
 ]

@@ -12,7 +12,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 |---|---|---|---|---|---|
 | 1 | Andréa | Viens jouer au laser game! | Come and play laser games! | #642: Viens jouer au laser game. | verbatim |
 | 2 | Norman | Se déguiser et se faire tirer dessus, ce n'est pas mon truc. | Dressing up and being shot at is not my thing. | #643: Me déguiser en GI et me faire tirer dessus, c'est pas mon truc. | verbatim |
-| 3 | Andréa | Tu vas voir l'ambiance de l'agence. | You will see the agency | #644: Elle va voir ce qu'est ASK. | verbatim |
+| 3 | Andréa | Tu vas voir l'ambiance de l'agence. | You will see the agency's atmosphere. | #644: Elle va voir ce qu'est ASK. | verbatim |
 | 4 | Andréa | Où sont les gilets? | Where are the vests? | #646: Où sont les gilets pare-balles ? | verbatim |
 | 5 | Andréa | Janowski, à toi de jouer! | Janowski, your turn to play! | #647: Hé, Janowski !<br>#649: À toi ! | verbatim |
 | 6 | Gabriel | Salut, Norman. Félicitations pour ton film. | Hi, Norman. Congratulations on your movie. | #654: Salut, Norman.<br>#655: Félicitations pour le film d'Audiard. | verbatim |
@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Norman | De toute façon, c'est très cool. | Anyway, it is very cool. | #661: De toute façon, c'est cool. | verbatim |
 | 14 | Gabriel | Tu as beaucoup de talent, Norman. | You have a lot of talent, Norman. | new | new |
 | 15 | Norman | J'espère que le public va aimer. | I hope the public will like it. | new | new |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 

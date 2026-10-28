@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'I will keep an eye on that pest.' Gabriel reveals his true undercover strategy."),
     (11, None, "'Even if I lose face!' Gabriel accepts the damage to his reputation."),
     (12, None, "'But I love your true face.' Andrea responds with tender affection and understanding."),
-    (13, None, "'I adore your face too.' Gabriel softens completely before his longtime friend."),
+    (13, None, "'I adore your face too.' Gabriel softens completely before his longtime friend. Now let's listen to the complete discussion once more to reinforce the vocabulary."),
 ]

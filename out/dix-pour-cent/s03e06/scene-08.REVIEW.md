@@ -24,6 +24,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 12 | Andréa | Tout va très bien se passer. | Everything is going to go very well. | #461: C'est plutôt simple. | verbatim |
 | 13 | Isabelle | Faites confiance à une infirmière diplômée! | Trust a certified nurse! | #448: au cinéma ? | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'What on earth is that?' The director is horrified by the strange makeup look.
@@ -38,4 +39,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Yes please, clean her face.' Andrea urges him to fix the makeup quickly.
 - 'The shoot is falling very behind!' The director stresses over the tight production schedule.
 - 'Everything is going to go very well.' Andrea reassures the crew that the shot will work.
-- 'Trust a certified nurse!' Isabelle brings comedic confidence to her acting debut.
+- 'Trust a certified nurse!' Isabelle brings comedic confidence to her acting debut. Now let's listen to the on-set banter once more from start to finish.

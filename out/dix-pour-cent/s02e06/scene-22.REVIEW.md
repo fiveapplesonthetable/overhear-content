@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Andréa | Oh non, un accroc en bas! | Oh no, a tear at the bottom! | #607: c'est pas ça ! | verbatim |
 | 14 | Juliette | La cérémonie va bientôt commencer! | The ceremony will begin soon! | #600: Tu montes | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'This way, let us hurry up a bit!' Andrea urges everyone to move quickly through the building.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Let us take this corridor this way.' Andrea tries another turn to escape the maze.
 - 'Watch out, my beautiful dress is tearing!' Juliette gasps as her garment snags on an obstacle.
 - 'Oh no, a tear at the bottom!' Andrea spots the damage to the gown with dismay.
-- 'The ceremony will begin soon!' Juliette worries that she must go on stage in damaged clothes.
+- 'The ceremony will begin soon!' Juliette worries that she must go on stage in damaged clothes. Now let's listen to the scene once more from start to finish.

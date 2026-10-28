@@ -24,6 +24,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 12 | Andréa | Gabriel, c'est toi qui dois lui parler. | Gabriel, you are the one who must speak to him. | #256: Alors, Gabriel, tu lui diras, hein ? | verbatim |
 | 13 | Gabriel | D'accord, je vais lui annoncer la nouvelle. | All right, I am going to break the news to him. | #250: D'accord.<br>#257: Bien. | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'So, how is our dear Guy Marchand?' Andrea asks for news after Gabriel's check-in with the production.
@@ -38,4 +39,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'These roles are precious for his age.' Andrea reminds them how rare major parts are for older actors.
 - 'A movie that collapses is bad for everyone.' Mathias insists that a failed production damages all involved.
 - 'Gabriel, you are the one who must speak to him.' Andrea instructs Gabriel to handle the sensitive conversation.
-- 'All right, I am going to break the news to him.' Gabriel reluctantly agrees to talk to Guy.
+- 'All right, I am going to break the news to him.' Gabriel reluctantly agrees to talk to Guy. Now let's listen to the scene once more from start to finish.

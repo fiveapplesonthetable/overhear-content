@@ -23,21 +23,22 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 11 | Mathias | C'est simplement la réalité du métier. | It is simply the reality of the business. | #255: ce n'est pas personnel | verbatim |
 | 12 | Mathias | Diriger implique de perdre certaines batailles. | Leading implies losing certain battles. | #256: perdre des batailles | verbatim |
 | 13 | Andréa | Je ne me laisserai jamais intimider. | I will never let myself be intimidated. | #253: C'est un coup bas | verbatim |
-| 14 | Mathias | Réfléchis bien à l'intérêt de l'agence. | Think carefully about the agency | #256: perdre des batailles | verbatim |
+| 14 | Mathias | Réfléchis bien à l'intérêt de l'agence. | Think carefully about the agency's interest. | #256: perdre des batailles | verbatim |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'This financial proposal is a bad joke.' An indignant opening dismissing the offer as completely inadequate.
-- 'You would send a producer packing with this offer.' A sharp comparison turning his own past agent standards against him.
-- 'We are talking about Fabrice Luchini here.' A powerful reminder emphasizing the immense prestige of the lead actor.
-- 'And we are also talking about Sofia Leprince.' A shrewd counter-argument pointing to the unproven newcomer co-star.
-- 'Add a zero to all these amounts.' An aggressive counter-demand insisting on a tenfold increase in fees.
-- 'You accept this offer as is.' An uncompromising ultimatum rejecting any further discussion on price.
-- 'Otherwise, I notify Dany Boon immediately.' A ruthless threat turning private client trust into extortion.
-- 'I will tell him ASK lacks a future.' A damaging weapon aimed directly at undermining client confidence.
-- 'That is really a dirty low blow!' An outraged condemnation of unethical betrayal by a former partner.
-- 'This is absolutely nothing personal.' A cynical disavowal detaching private sentiment from commercial aggression.
-- 'It is simply the reality of the business.' A cold justification rationalizing vicious tactics as standard practice.
-- 'Leading implies losing certain battles.' A patronizing lesson instructing his successor on executive pragmatism.
-- 'I will never let myself be intimidated.' A defiant declaration refusing to cave in to corporate blackmail.
-- 'Think carefully about the agency's interest.' A calculated parting shot advising surrender for corporate survival.
+- 'This financial proposal is a bad joke.' Andréa dismisses the offer as completely inadequate.
+- 'You would send a producer packing with this offer.' Andréa turns his own past agent standards against him.
+- 'We are talking about Fabrice Luchini here.' Andréa emphasizes the immense prestige of the lead actor.
+- 'And we are also talking about Sofia Leprince.' Mathias points to the unproven newcomer co-star.
+- 'Add a zero to all these amounts.' Andréa insists on a tenfold increase in fees.
+- 'You accept this offer as is.' Mathias rejects any further discussion on price.
+- 'Otherwise, I notify Dany Boon immediately.' Mathias turns private client trust into extortion.
+- 'I will tell him ASK lacks a future.' Mathias threatens to tell the star that ASK has no future.
+- 'That is really a dirty low blow!' Andréa condemns the betrayal by her former partner as a low blow.
+- 'This is absolutely nothing personal.' Mathias detaches private sentiment from commercial aggression.
+- 'It is simply the reality of the business.' Mathias rationalizes vicious tactics as standard practice.
+- 'Leading implies losing certain battles.' Mathias instructs his successor on executive pragmatism.
+- 'I will never let myself be intimidated.' Andréa refuses to cave in to corporate blackmail.
+- 'Think carefully about the agency's interest.' Mathias delivers a calculated parting shot advising surrender.

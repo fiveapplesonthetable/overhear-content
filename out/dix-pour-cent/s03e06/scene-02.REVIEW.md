@@ -25,19 +25,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Noémie | Pourtant, Mathias adore cette lutte acharnée. | Yet, Mathias loves this fierce struggle. | #230: j'ai l'impression que t'adores ça | verbatim |
 | 14 | Andréa | Je refuse de céder sans combattre. | I refuse to give up without fighting. | #173: je peux pas rester | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We are serving only champagne tonight.' A firm directive demanding prestigious catering for the anniversary.
-- 'Please cancel this cocktail bar.' An authoritative order dismissing casual party arrangements.
-- 'Everyone knows the log of a photocopier!' An exasperated remark highlighting a foolish operational oversight.
-- 'What is done is done.' A pragmatic dismissal refusing to dwell on past errors.
-- 'You are now the big boss.' An encouraging statement affirming his newly won executive authority.
-- 'We must look toward the future.' A positive exhortation focusing on upcoming corporate challenges.
-- 'I can no longer work with him.' A sharp rejection expressing total loss of confidence in Mathias.
-- 'We should all resign together.' A bold proposal suggesting collective resignation in protest.
-- 'Mathias would find himself completely alone.' A thoughtful evaluation considering the consequence of a mass walkout.
-- 'It is betrayal on every floor.' A bitter assessment describing pervasive intrigue within the agency.
-- 'Our little mistakes seem insignificant now.' A candid comparison contrasting minor blunders with major power struggles.
-- 'This atmosphere is destroying our whole team.' A regretful complaint noting the erosion of mutual trust.
-- 'Yet, Mathias loves this fierce struggle.' An astute insight into the rival's relentless competitive drive.
-- 'I refuse to give up without fighting.' A determined declaration resolving to fight back against the takeover.
+- 'We are serving only champagne tonight.' Mathias demands prestigious catering for the anniversary.
+- 'Please cancel this cocktail bar.' Mathias dismisses casual party arrangements.
+- 'Everyone knows the log of a photocopier!' Noémie highlights a foolish operational oversight.
+- 'What is done is done.' Mathias refuses to dwell on past errors.
+- 'You are now the big boss.' Noémie affirms his newly won executive authority.
+- 'We must look toward the future.' Noémie focuses on upcoming corporate challenges.
+- 'I can no longer work with him.' Andréa expresses total loss of confidence in Mathias.
+- 'We should all resign together.' Andréa suggests collective resignation in protest.
+- 'Mathias would find himself completely alone.' Noémie considers the consequence of a mass walkout.
+- 'It is betrayal on every floor.' Andréa describes pervasive intrigue within the agency.
+- 'Our little mistakes seem insignificant now.' Noémie contrasts minor blunders with major power struggles.
+- 'This atmosphere is destroying our whole team.' Andréa notes the erosion of mutual trust.
+- 'Yet, Mathias loves this fierce struggle.' Noémie shares an astute insight into Mathias's love of fierce competition.
+- 'I refuse to give up without fighting.' Andréa resolves to fight back against the takeover. Now let's listen to Mathias and the agents again at full speed.

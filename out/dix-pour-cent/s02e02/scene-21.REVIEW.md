@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Christophe | D'accord, je vais le lire rapidement. | All right, I will read it quickly. | #743: Ouais, bien sûr | verbatim |
 | 14 | Christophe | À tout à l'heure Mathias. Au revoir! | See you later Mathias. Goodbye! | #752: À tout à l'heure, Mathias !<br>#754: Au revoir | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Oh my goodness, it is Christophe Lambert!' Noemie is astonished to see the famous film star walk into the lobby.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'The director wants you for this role.' Mathias pitches an exciting new film offer right away.
 - 'Read the script tonight.' The agent encourages him to evaluate the material without delay.
 - 'All right, I will read it quickly.' Christophe agrees to look through the project immediately.
-- 'See you later Mathias. Goodbye!' He wraps up the visit on an upbeat note before leaving.
+- 'See you later Mathias. Goodbye!' He wraps up the visit on an upbeat note before leaving. Now let's listen to the entire exchange once more from beginning to end.

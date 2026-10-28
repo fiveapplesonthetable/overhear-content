@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Laurence | Ajoute une participation de Balasko et j'accepte. | Add an appearance by Balasko and I accept. | #487: Balasco, en participation exceptionnelle. | verbatim |
 | 14 | Arlette | Marché conclu, signe ce papier maintenant. | Deal done, sign this paper now. | #489: Allez, signe. | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Your lookalike scheme will never work.' Laurence dismisses the risky plan.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'For the leading role of the schoolteacher?' Laurence pictures the casting immediately.
 - 'Exactly, with a quick agreement in principle.' Arlette guarantees the backing.
 - 'Add an appearance by Balasko and I accept.' Laurence drives a hard bargain.
-- 'Deal done, sign this paper now.' Arlette clinches the contract on the spot.
+- 'Deal done, sign this paper now.' Arlette clinches the contract on the spot. Now let's listen to the complete discussion once more to reinforce the vocabulary.

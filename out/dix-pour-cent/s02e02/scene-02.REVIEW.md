@@ -25,19 +25,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Andréa | Un talent, il faut se battre pour lui. | A talent, you have to fight for them. | #96: Un talent, c'est comme une femme,<br>#97: il faut se battre pour | verbatim |
 | 14 | Andréa | Je vais chercher Luchini! | I am going to get Luchini! | #99: Je vais chercher Luchini ! | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'What is this story about Ramzy and Virginie Efira?' Hicham inquires about the sudden loss of two marquee talents.
 - 'They broke up, and François Bréhier took advantage of it.' Mathias explains the marital crisis that enabled the rival move.
-- 'Bréhier runs our rival agency, StarMédia.' A clarification of the competitor who orchestrated the raid.
-- 'They stole our actors from us!' A direct exclamation accusing the rival agency of theft.
+- 'Bréhier runs our rival agency, StarMédia.' Mathias identifies the rival competitor who orchestrated the raid.
+- 'They stole our actors from us!' Hicham accuses the rival agency of theft.
 - 'So let us take their biggest star, Fabrice Luchini.' Hicham proposes an aggressive retaliatory strike.
 - 'You cannot ask us to steal a client.' Mathias raises a professional objection based on agency ethics.
-- 'Why not? They did it.' A pragmatic retort arguing that ruthlessness should be met with ruthlessness.
+- 'Why not? They did it.' Hicham argues that ruthlessness should be met with ruthlessness.
 - 'Luchini has been with Bréhier for thirty-five years!' Andrea emphasizes the deep loyalty between the actor and his agent.
-- 'He will never leave them.' A future tense prediction asserting that poaching is impossible.
-- 'I want Luchini at ASK before the end of the month.' An ultimatum setting a strict deadline for the partners.
-- 'Otherwise, I can sell my shares to StarMédia.' A financial threat to pull out and ruin the agency.
+- 'He will never leave them.' Andréa asserts that poaching is impossible.
+- 'I want Luchini at ASK before the end of the month.' Hicham sets a strict deadline for the partners.
+- 'Otherwise, I can sell my shares to StarMédia.' Hicham threatens to pull out and sell his shares to the rival agency.
 - 'It is a ridiculous revenge!' Mathias protests the irrationality of attacking an established star.
 - 'A talent, you have to fight for them.' Andrea expresses her instinct to take on impossible challenges.
-- 'I am going to get Luchini!' A near-future declaration accepting the high-stakes mission.
+- 'I am going to get Luchini!' Andréa accepts the high-stakes mission. Now let's listen to the argument about Fabrice Luchini again at natural speed.

@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Ulrika | N'ayez pas peur, ils sont affamés! | Do not be afraid, they are hungry! | #638: Vous n'avez pas peur ? | verbatim |
 | 14 | Mathias | Très bien, avançons avec grand courage. | Very well, let us advance with great courage. | #639: Non, non | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Welcome to our shelter for elderly animals.' Ulrika shows the stylish Parisian producer around the grounds.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'We are going to feed wild wolves!' Ulrika announces the terrifying chore with cheerful enthusiasm.
 - 'Wolves? Inside this enclosed pen?' Mathias stammers as his suave composure quickly evaporates.
 - 'Do not be afraid, they are hungry!' Ulrika laughs and encourages the pale agent to enter.
-- 'Very well, let us advance with great courage.' Mathias forces a smile while stepping trembling toward the wolves.
+- 'Very well, let us advance with great courage.' Mathias forces a smile while stepping trembling toward the wolves. Now let's listen to the complete discussion once more to reinforce the vocabulary.

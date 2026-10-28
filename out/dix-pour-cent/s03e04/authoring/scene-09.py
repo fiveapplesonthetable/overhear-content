@@ -33,9 +33,9 @@ STORY = [
 ]
 WALK = [
     (0, None, "'Isabelle, we are going to do one last take.' The assistant asks for another camera take."),
-    (1, None, "'We need a tighter shot.' The assistant specifies the framing needed."),
+    (1, None, "'We need a tighter shot.' The assistant frames needed."),
     (2, None, "'Oh no, I am already on my seventh death scene!' Isabelle protests the repetition."),
-    (3, None, "'The director still lacks footage for editing.' The assistant defends the request with editorial needs."),
+    (3, None, "'The director still lacks footage for editing.' This assistant defends the request with editorial needs."),
     (4, None, "'Wait, I am stopping you right there.' Isabelle interrupts the assistant firmly."),
     (5, None, "'I am not a machine!' Isabelle asserts her humanity as an artist."),
     (6, None, "'I do not die on command.' Isabelle emphasizes the emotional effort required."),
@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'That is the true job of an assistant.' Isabelle lectures on professional roles."),
     (11, None, "'Okay, you are right on this point.' The assistant concedes defeat graciously."),
     (12, None, "'We have everything that is needed now.' The crew agrees they have enough footage."),
-    (13, None, "'Perfect, then I am going to rest a bit.' Isabelle claims her well-earned break."),
+    (13, None, "'Perfect, then I am going to rest a bit.' Isabelle claims her well-earned break. Now let's listen to the entire dialogue once more to lock in what you have learned."),
 ]

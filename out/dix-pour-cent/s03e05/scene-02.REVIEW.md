@@ -22,22 +22,23 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 10 | Andréa | Je quitte la maison dès maintenant. | I am leaving home right now. | #40: je vais tout faire pour venir | verbatim |
 | 11 | Béatrice | Merci Andréa, j'ai besoin de toi. | Thank you Andrea, I need you. | #41: ramène-toi, Andréa | verbatim |
 | 12 | Andréa | Garde ton calme face au réalisateur. | Keep your cool when dealing with the director. | #45: allez, calme | verbatim |
-| 13 | Béatrice | Je t'attends pour quinze heures. | I will expect you at three o | #45: 15 heures | verbatim |
+| 13 | Béatrice | Je t'attends pour quinze heures. | I will expect you at three o'clock. | #45: 15 heures | verbatim |
 | 14 | Andréa | J'arrive pour défendre tes droits. | I am coming to defend your rights. | #44: T'inquiète, je serai là | verbatim |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello Andrea, it is Beatrice.' An informal telephone opening identifying the caller.
-- 'Hello Beatrice, how are you doing?' A friendly greeting inquiring after a client.
-- 'I have a big problem on the shoot.' A direct declaration announcing an urgent workplace issue.
-- 'What is happening with Pascal?' A focused question asking about the director's conduct.
-- 'Pascal wants to change the planned scene.' A specific complaint explaining the unapproved change.
-- 'This modification was not agreed upon.' A clear statement pointing to a breach of prior agreement.
-- 'He is imposing unacceptable changes.' An emphatic protest rejecting unilateral demands.
-- 'You are completely right to refuse.' An empowering validation supporting the actress's firm stance.
-- 'Can you come help me on the set?' A direct appeal requesting agent presence on location.
-- 'I am leaving home right now.' A prompt commitment promising immediate travel to set.
-- 'Thank you Andrea, I need you.' A heartfelt acknowledgment expressing genuine reliance on representation.
-- 'Keep your cool when dealing with the director.' A sensible strategic counsel advising emotional control.
-- 'I will expect you at three o'clock.' A precise logistical appointment establishing meeting time.
-- 'I am coming to defend your rights.' A resolute professional declaration assuring advocacy.
+- 'Hello Andrea, it is Beatrice.' Béatrice identifies the caller.
+- 'Hello Beatrice, how are you doing?' Andréa inquires after a client.
+- 'I have a big problem on the shoot.' Béatrice announces an urgent workplace issue.
+- 'What is happening with Pascal?' Andréa asks about the director's conduct.
+- 'Pascal wants to change the planned scene.' Béatrice explains the unapproved change.
+- 'This modification was not agreed upon.' Andréa points to a breach of prior agreement.
+- 'He is imposing unacceptable changes.' Béatrice rejects unilateral demands.
+- 'You are completely right to refuse.' Andréa supports the actress's firm stance.
+- 'Can you come help me on the set?' Béatrice requests agent presence on location.
+- 'I am leaving home right now.' Andréa promises immediate travel to set.
+- 'Thank you Andrea, I need you.' Béatrice expresses genuine reliance on representation.
+- 'Keep your cool when dealing with the director.' Andréa advises emotional control.
+- 'I will expect you at three o'clock.' Béatrice establishes meeting time.
+- 'I am coming to defend your rights.' Andréa assures advocacy. Now let's listen to Beatrice and Andrea again at full speed.

@@ -27,6 +27,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 15 | Noémie | Regarde-moi, Mathias. Tu n'es pas tout seul. | Look at me, Mathias. You are not alone. | #641: Chéri. | verbatim |
 | 16 | Noémie | Je suis là avec toi, nous réussirons ensemble. | I am here with you, we will succeed together. | #642: Chéri. | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'The apartment viewing has just finished.' Mathias speaks with weary relief.
@@ -44,4 +45,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Your father was wrong to be so pessimistic.' Noémie rejects the cynical worldview.
 - 'Maybe, but I have trouble keeping hope.' Mathias struggles against despair.
 - 'Look at me, Mathias. You are not alone.' Noémie reminds him of her loyal presence.
-- 'I am here with you, we will succeed together.' Noémie promises her loving support.
+- 'I am here with you, we will succeed together.' Noémie promises her loving support. Now let's listen to the emotional conversation once more at normal pace.

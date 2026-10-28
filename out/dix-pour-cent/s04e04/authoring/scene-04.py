@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'I keep control of everything.' Andrea refuses to let domestic complications derail her authority."),
     (11, None, "'All right, I trust you.' Gabriel steps back and supports her decision."),
     (12, None, "'We form a solid team.' Andrea acknowledges their collaborative partnership."),
-    (13, None, "'Come on, back to work now!' Andrea heads toward her office with renewed focus."),
+    (13, None, "'Come on, back to work now!' Andrea heads toward her office with renewed focus. Now let's listen to the full discussion once again from start to finish."),
 ]

@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'You have no respect for the artists.' Andrea identifies the fundamental difference between them."),
     (11, None, "'They all prefer to sign with me.' Elise boasts of her commercial triumph."),
     (12, None, "'Repeat that to my face if you dare!' Andrea's temper explodes into fury."),
-    (13, None, "'Let go of my arm immediately, stop!' Elise panics as physical violence erupts."),
+    (13, None, "'Let go of my arm immediately, stop!' Elise panics as physical violence erupts. Now let's listen to the complete discussion once more to reinforce the vocabulary."),
 ]

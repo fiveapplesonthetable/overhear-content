@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Élise | Les nounous à Paris, c'est une mafia! | Nannies in Paris are a mafia! | #859: Les nounous, c'est une mafia. | verbatim |
 | 14 | Élise | Laisse-moi faire, je connais du monde. | Leave it to me, I know people. | #858: Tu veux que je te trouve une nounou ?<br>#860: Moi, oui. | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'What is all this coming and going here?' Elise asks about the steady stream of candidates outside Andrea's door.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'To make Flora happy, be happy.' Elise offers wise perspective on prioritizing personal well-being.
 - 'I just need a good nanny.' Andrea focuses on her immediate practical obstacle.
 - 'Nannies in Paris are a mafia!' Elise jokes about the hyper-competitive and secretive nanny market.
-- 'Leave it to me, I know people.' Elise promises to unlock her secret contact list to find the ideal caregiver.
+- 'Leave it to me, I know people.' Elise promises to unlock her secret contact list to find the ideal caregiver. Now let's listen to the complete discussion once more to reinforce the vocabulary.

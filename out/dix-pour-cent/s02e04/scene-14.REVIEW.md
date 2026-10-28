@@ -16,7 +16,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 4 | Sacha | J'ai fréquenté l'école française à Berlin. | I attended the French school in Berlin. | #376: J'ai fréquenté l'école française à Berlin | verbatim |
 | 5 | Sacha | Mes parents ont toujours aimé la France. | My parents have always loved France. | #377: Mes parents ont toujours aimé la France | verbatim |
 | 6 | L'animateur | Votre premier film a remporté un prix. | Your first movie won a prize. | #379: Votre premier film | verbatim |
-| 7 | L'animateur | La Palme d'Or à Cannes! | The Palme d | #379: la Palme d'Or à Cannes | verbatim |
+| 7 | L'animateur | La Palme d'Or à Cannes! | The Palme d'Or at Cannes! | #379: la Palme d'Or à Cannes | verbatim |
 | 8 | L'animateur | Une association cherche à faire interdire votre film. | An association is trying to ban your film. | #380: cherche à faire interdire | verbatim |
 | 9 | L'animateur | Comment réagissez-vous à ces attaques? | How do you react to these attacks? | #381: Comment réagissez-vous | verbatim |
 | 10 | Sacha | Je ne veux pas leur offrir une tribune. | I do not want to give them a platform. | #383: je ne veux pas leur offrir une tribune | verbatim |
@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Camille | L'interview est terminée, Sacha. | The interview is over, Sacha. | #394: On y va | verbatim |
 | 14 | Camille | Nous devons y aller maintenant. | We must go now. | #394: On y va | verbatim |
 | 15 | Sacha | D'accord, je te suis. | All right, I am following you. | #394: On y va | verbatim |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -35,11 +36,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'My parents have always loved France.' He attributes his bilingualism to family ties.
 - 'Your first movie won a prize.' The journalist recalls his striking artistic debut.
 - 'The Palme d'Or at Cannes!' The host highlights the highest festival accolade.
-- 'An association is trying to ban your film.' The question addresses conservative censorship.
-- 'How do you react to these attacks?' The host invites his comment on public controversy.
+- 'An association is trying to ban your film.' This question addresses conservative censorship.
+- 'How do you react to these attacks?' This host invites his comment on public controversy.
 - 'I do not want to give them a platform.' Sacha refuses to amplify his loudest critics.
 - 'Nor give them the slightest attention.' He dismisses the protesters entirely.
 - 'They belong to the old world.' The filmmaker views the opposition as outdated reactionaries.
 - 'The interview is over, Sacha.' Camille signals that their broadcast segment has wrapped up.
 - 'We must go now.' Camille urges him toward the door before crowds gather.
-- 'All right, I am following you.' Sacha calmly prepares to leave the premises.
+- 'All right, I am following you.' Sacha calmly prepares to leave the premises. Now listen to the whole scene again at normal speed, and see how much more you catch.

@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'This is not a romantic date.' Annick pretends indifference despite her visible nervousness."),
     (11, None, "'It has been eight years!' She emphasizes the long passage of time since they last met."),
     (12, None, "'This is a great product.' Camille fixes her mother's hair with a cosmetic spray."),
-    (13, None, "'There, you look very nice.' Camille offers heartfelt encouragement before Mathias arrives."),
+    (13, None, "'There, you look very nice.' Camille offers heartfelt encouragement before Mathias arrives. Now listen to the whole scene again at normal speed, and see how much more you catch."),
 ]

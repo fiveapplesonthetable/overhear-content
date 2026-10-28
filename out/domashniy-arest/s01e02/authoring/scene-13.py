@@ -57,5 +57,5 @@ WALK = [
     (14, None, "'Well, me. It's fine, I can do it.' The word for 'nothing' here means 'no problem'. The boss can hardly believe it."),
     (15, None, "'Samsonov, have you seen those radiators?' Here, Samsonov is Samson's real surname; the boss uses it like a sergeant. Samson isn't worried at all."),
     (16, 'Да я три года грузчиком работал.', "'Oh, I worked as a mover for three years.' The job, 'mover', is in the 'with/as' form after 'worked': you work 'as' something. Then a promise."),
-    (16, 'Тут дел на пятнадцать минут.', "'This is fifteen minutes' work.' Literally, 'here there's work for fifteen minutes'."),
+    (16, 'Тут дел на пятнадцать минут.', "'This is a fifteen-minute job.' Literally, 'here there's work for fifteen minutes'."),
 ]

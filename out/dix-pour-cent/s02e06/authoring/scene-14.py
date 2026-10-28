@@ -23,7 +23,7 @@ STORY = [
     ('catherine', 'Vous pourriez me réserver un vol?', 'Could you book a flight for me?', [(343, 'me réserver un vol')], ''),
     ('noemie', "Mais tout est complet aujourd'hui.", 'But everything is fully booked today.', [(344, 'tout est complet')], ''),
     ('catherine', 'Les choses vont beaucoup mieux entre nous.', 'Things are going much better between us.', [(347, 'beaucoup mieux entre nous')], ''),
-    ('noemie', 'Je vais imprimer le programme de Mathias.', 'I will print Mathias', [(356, 'imprimer le programme de Mathias')], ''),
+    ('noemie', 'Je vais imprimer le programme de Mathias.', "I will print Mathias's schedule.", [(356, 'imprimer le programme de Mathias')], ''),
     ('noemie', 'Tous les vols sont complets, madame.', 'All flights are fully booked, madam.', [(357, 'Tous les vols sont complets')], ''),
     ('catherine', 'Et pour le train?', 'What about the train?', [(358, 'Et le train')], ''),
     ('noemie', 'Une place reste dans le train de nuit.', 'One seat remains on the night train.', [(359, 'une place dans le train de nuit')], ''),
@@ -47,5 +47,5 @@ WALK = [
     (11, None, "'I can bring him croissants!' Catherine excitedly imagines breakfast with her husband."),
     (12, None, "'You are my savior, Noémie!' Catherine warmly hugs the conflicted assistant."),
     (13, None, "'Thank you for your valuable help.' She expresses heartfelt appreciation for the booking."),
-    (14, None, "'Mathias cannot manage without you.' Catherine praises Noemie's indispensable role, unaware of their secret romance."),
+    (14, None, "'Mathias cannot manage without you.' Catherine praises Noemie's indispensable role, unaware of their secret romance. Now listen to the whole scene again at normal speed, and see how much more you catch."),
 ]

@@ -27,6 +27,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 15 | Jean | Ici, je me sens libre et vivant. | Here, I feel free and alive. | #300: C'est l'odeur de la terre, | verbatim |
 | 16 | Andréa | Tu dois redevenir un acteur maintenant. | You must become an actor again now. | #296: je suis passé à l'agence. | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Jean? Are you there?' Andrea calls out into the dense garden foliage.
@@ -44,4 +45,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'It is coming to steal something from me.' Jean projects paranoia onto the bird.
 - 'Jean, you have an important meeting tomorrow.' Andrea tries to anchor him in reality.
 - 'Here, I feel free and alive.' Jean defends his primitive outdoor lifestyle.
-- 'You must become an actor again now.' Andrea delivers her firm managerial verdict.
+- 'You must become an actor again now.' Andrea delivers her firm managerial verdict. Now let's listen to the entire dialogue once more to lock in what you have learned.

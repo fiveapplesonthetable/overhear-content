@@ -26,6 +26,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 14 | Camille | Merci maman, tu es vraiment formidable! | Thank you Mom, you are truly wonderful! | #735: -Vas-y. -Merci, maman. | verbatim |
 | 15 | Annick | Allez, ma chérie, profite bien de ta soirée. | Go on, darling, enjoy your evening. | #736: Allez, ma chérie, profites-en bien. | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Do you want to eat an ice cream with me?' Annick suggests a relaxing treat to distract Camille from her worries.
@@ -42,4 +43,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I completely forgot to get shoes.' Mathias realizes he overlooked formal footwear during his shopping trip.
 - 'Take mine, we wear the same shoe size.' Annick generously offers her own stylish shoes to save the day.
 - 'Thank you Mom, you are truly wonderful!' Camille thanks her mother with heartfelt enthusiasm.
-- 'Go on, darling, enjoy your evening.' Annick encourages Camille to seize the exciting opportunity with confidence.
+- 'Go on, darling, enjoy your evening.' Annick encourages Camille to seize the exciting opportunity with confidence. Now let's listen to the scene once more from start to finish.

@@ -25,19 +25,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Hicham | Je refuse de perdre tout mon argent! | I refuse to lose all my money! | #102: Tu veux dire, j'ai les fonds ? | verbatim |
 | 14 | Mathias | Nous allons trouver une solution ensemble. | We are going to find a solution together. | #100: on a les fonds, non ? | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'A very serious registered letter just arrived.' An alarming announcement delivering urgent legal correspondence.
-- 'Which company does this mail come from?' A prompt inquiry identifying the sender.
-- 'American producers are suing us in court.' A grave declaration stating foreign litigation.
-- 'What do these producers claim exactly?' A direct question inquiring about monetary damages.
-- 'They are claiming two million dollars!' An astonished exclamation stating the staggering claim.
-- 'Two million? That is an enormous sum!' A shocked reaction expressing profound financial dismay.
-- 'It is because of the production shutdown.' An explanatory phrase pinpointing the cause of damages.
-- 'Does their insurance not cover these costs?' A hopeful question seeking third-party indemnification.
-- 'The insurance formally rejected their claim.' A categorical denial ending hopes of coverage.
-- 'We must negotiate with their lawyers.' A pragmatic recommendation urging settlement talks.
-- 'To negotiate, one needs solid leverage.' A realistic tactical assessment evaluating bargaining power.
-- 'Can we use reserve funds?' A tentative proposal suggesting agency capital to absorb the loss.
-- 'I refuse to lose all my money!' An angry executive outburst rejecting personal financial sacrifice.
-- 'We are going to find a solution together.' A constructive concluding promise committing to joint resolution.
+- 'A very serious registered letter just arrived.' Hicham delivers urgent legal correspondence.
+- 'Which company does this mail come from?' Mathias identifies the sender.
+- 'American producers are suing us in court.' Hicham states foreign litigation.
+- 'What do these producers claim exactly?' Mathias inquires about monetary damages.
+- 'They are claiming two million dollars!' Hicham states the staggering claim.
+- 'Two million? That is an enormous sum!' Mathias expresses profound financial dismay.
+- 'It is because of the production shutdown.' Hicham pinpoints the cause of damages.
+- 'Does their insurance not cover these costs?' Mathias seeks third-party indemnification.
+- 'The insurance formally rejected their claim.' Hicham ends hopes of coverage.
+- 'We must negotiate with their lawyers.' Mathias urges settlement talks.
+- 'To negotiate, one needs solid leverage.' Hicham evaluates bargaining power.
+- 'Can we use reserve funds?' Mathias suggests agency capital to absorb the loss.
+- 'I refuse to lose all my money!' Hicham rejects personal financial sacrifice.
+- 'We are going to find a solution together.' Mathias commits to joint resolution. Now let's listen to Hicham and Mathias again at full speed.

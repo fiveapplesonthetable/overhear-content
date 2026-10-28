@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Sofia | D'accord, je vais l'attendre un peu. | All right, I am going to wait for her a bit. | #883: OK | verbatim |
 | 14 | Gabriel | À tout à l'heure, grande star! | See you later, big star! | #884: Mme Theron | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Hello Gabriel, look at my new dress!' Sofia makes a grand entrance in her shimmering gown.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I must go back quickly.' Sofia remembers that the photographer is waiting for her next door.
 - 'You can wait for her in her office.' Gabriel suggests she relax in Camille's room for a few minutes.
 - 'All right, I am going to wait for her a bit.' Sofia decides to stay briefly until Camille returns.
-- 'See you later, big star!' Gabriel waves goodbye with a playful tease.
+- 'See you later, big star!' Gabriel waves goodbye with a playful tease. Now let's listen to the complete discussion once more to reinforce the vocabulary.

@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Arlette | Quelque chose s'ouvre enfin ici. | Something is finally opening up here. | #1359: quelque chose qui s'ouvre | verbatim |
 | 14 | Gabriel | C'est un tout nouveau départ! | It is a brand new start! | #1362: C'est un nouveau départ | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Sophia, will you pick up the phone?' Gabriel asks as the late-night telephone rings.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'We are going to bounce back together.' Gabriel rallies the team spirit for the upcoming year.
 - 'It is so exciting now.' Gabriel embraces the thrill of renewed agency momentum.
 - 'Something is finally opening up here.' Arlette perceives the positive shift in ASK's fortunes.
-- 'It is a brand new start!' Gabriel concludes with exuberance as a new dawn begins.
+- 'It is a brand new start!' Gabriel concludes with exuberance as a new dawn begins. Now let's listen to the complete discussion once more to reinforce the vocabulary.

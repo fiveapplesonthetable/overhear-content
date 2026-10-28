@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Andréa | Flora? Où est mon bébé? | Flora? Where is my baby? | #665: Flora ? | verbatim |
 | 14 | Andréa | Non, ce n'est pas possible! | No, this is not possible! | #665: Flora ? | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Darn! What time is it?' Andrea realizes that her alarm failed to ring.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Sweetheart, you must wake up.' Andrea enters the nursery to get her baby daughter ready.
 - 'We are late for the daycare.' Andrea rushes over to the small bed.
 - 'Flora? Where is my baby?' Andrea stares at the unoccupied sheets in disbelief.
-- 'No, this is not possible!' Andrea panics when she realizes that both Jose and Flora are gone.
+- 'No, this is not possible!' Andrea panics when she realizes that both Jose and Flora are gone. Now let's listen to the complete discussion once more to reinforce the vocabulary.

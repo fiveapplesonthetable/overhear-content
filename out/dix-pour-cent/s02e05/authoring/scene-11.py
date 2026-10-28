@@ -49,5 +49,5 @@ WALK = [
     (12, None, "'He influenced Hicham to pick you!' Herve asserts Mathias's hidden leverage over the agency boss."),
     (13, None, "'And Miss Judas was telling me that it is bad to trip up others!' Herve mocks Camille's earlier moral advice."),
     (14, None, "'Stop, Hervé! I did not want to hurt you.' Camille pleads for understanding."),
-    (15, None, "'You took my place, Camille.' Herve states his deep feeling of professional loss."),
+    (15, None, "'You took my place, Camille.' Herve states his deep feeling of professional loss. Now let's listen to the entire dialogue once more to lock in what you have learned."),
 ]

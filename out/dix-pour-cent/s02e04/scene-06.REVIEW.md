@@ -24,6 +24,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 12 | Gabriel | Alors, c'était comment avec Hicham? | So, what was it like with Hicham? | #168: C'était comment ? | verbatim |
 | 13 | Andréa | C'était très lourd et poilu! | It was very heavy and hairy! | #169: Lourd et poilu. | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Are you okay? You seemed tense.' Gabriel checks in on his visibly agitated colleague.
@@ -38,4 +39,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'You sleep with men now?' Gabriel playfully teases Andrea about her sudden departure from her usual dating preferences.
 - 'No, it was a tiny exception.' Andrea insists the one-night stand was completely out of character.
 - 'So, what was it like with Hicham?' Gabriel cannot resist probing for funny personal details.
-- 'It was very heavy and hairy!' Andrea's candid summary leaves Gabriel in stitches.
+- 'It was very heavy and hairy!' Andrea's candid summary leaves Gabriel in stitches. Now let's listen to the scene once more from start to finish.

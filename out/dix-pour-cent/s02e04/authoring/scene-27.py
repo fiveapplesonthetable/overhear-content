@@ -49,5 +49,5 @@ WALK = [
     (12, None, "'It is my fault, forgive me both of you.' Camille steps forward bravely to explain what actually occurred."),
     (13, None, "'I was an intern and I threw away this script.' Camille confesses that she inadvertently discarded the manuscript."),
     (14, None, "'Isabelle never read it!' Camille completely exonerates Isabelle from any wrongdoing or neglect."),
-    (15, None, "'At least, we cleared the air together.' Isabelle smiles with relief that at least they cleared the air together."),
+    (15, None, "'At least, we cleared the air together.' Isabelle smiles with relief that at least they cleared the air together. Now let's listen to the scene once more from start to finish."),
 ]

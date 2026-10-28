@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'The director will call us soon.' Jose fears ruining the shooting schedule."),
     (11, None, "'Drink a large glass of cool water.' Andrea recommends a quick remedy to stop the spasms."),
     (12, None, "'I will never be ready on time.' Jose doubts his ability to pull himself together before filming."),
-    (13, None, "'You are a wonderful actor, Jose.' Andrea boosts his professional confidence with sincere praise."),
+    (13, None, "'You are a wonderful actor, Jose.' Andrea boosts his professional confidence with sincere praise. Now let's listen to Andrea and Jose's dialogue once more from start to finish."),
 ]

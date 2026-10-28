@@ -25,8 +25,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Andréa | Non! | No! | #284: Non | verbatim |
 | 14 | Colette | Si. Toujours un coiffeur différent. | Yes, you do. Always a different hairdresser. | #284: Si. Toujours un coiffeur différent | verbatim |
 | 15 | Colette | Et tu as beaucoup de petites amies. | And you have lots of girlfriends. | #286: Et tu as beaucoup de petites amies | verbatim |
-| 16 | Andréa | C'est faux. Je suis souvent seule. | That | #286: Faux<br>#290: Je suis souvent | verbatim |
-| 17 | Colette | De toute façon, tu n'es pas quelqu'un pour moi. | Anyway, you | #287: De toute façon, tu n'es pas quelqu'un pour moi | verbatim |
+| 16 | Andréa | C'est faux. Je suis souvent seule. | That's false. I'm often alone. | #286: Faux<br>#290: Je suis souvent | verbatim |
+| 17 | Colette | De toute façon, tu n'es pas quelqu'un pour moi. | Anyway, you're not someone for me. | #287: De toute façon, tu n'es pas quelqu'un pour moi | verbatim |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -36,7 +37,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Colette? Hello! This jacket is very nice.' Later, in a clothes shop, Andréa approaches Colette by the racks.
 - 'Do you want to have dinner with me tonight?' Andréa stays on the polite 'you' and invites her out.
 - 'Stop it, Andréa. I know who you are.' Colette switches straight to the informal 'you'.
-- 'Really?' Two short words that mean 'oh really?' or 'is that so?'.
+- 'Really?' Andréa replies with two short words that mean 'oh really?' or 'is that so?'.
 - 'Yes. I see everything in your bills.' Every restaurant receipt and shop bill is sitting in Colette's audit file.
 - 'What?' Andréa is caught off guard.
 - 'Everything. You eat very badly, and you never take a holiday.' The negative wraps around 'take' with the word for 'never'.
@@ -46,4 +47,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Yes, you do. Always a different hairdresser.' Once again, the special word for 'yes' contradicts Andréa's 'no'.
 - 'And you have lots of girlfriends.' Literally 'little friends' in the feminine.
 - 'That's false. I'm often alone.' For once, Andréa drops her tough act and speaks honestly.
-- 'Anyway, you're not someone for me.' The three-word phrase at the start means 'in any case' or 'anyway'.
+- 'Anyway, you're not someone for me.' This three-word phrase at the start means 'in any case' or 'anyway'.

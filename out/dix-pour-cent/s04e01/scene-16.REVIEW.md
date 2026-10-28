@@ -22,8 +22,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 10 | Charlotte | Nous devons nous parler en toute franchise. | We must speak to each other frankly. | #855: Faut qu'on parle | verbatim |
 | 11 | Oscar | Tu as raison, ce tournage était absurde. | You are right, this shoot was absurd. | #871: C'était un coup de tête | verbatim |
 | 12 | Oscar | Je prépare maintenant un beau film d'animation. | I am preparing a beautiful animated film now. | #874: un film d'animation | verbatim |
-| 13 | Oscar | Veux-tu être la voix de mon héroïne? | Do you want to be my heroine | #875: prêter sa voix à mon héroïne | verbatim |
+| 13 | Oscar | Veux-tu être la voix de mon héroïne? | Do you want to be my heroine's voice? | #875: prêter sa voix à mon héroïne | verbatim |
 | 14 | Charlotte | Oui, je lirai ton scénario avec joie! | Yes, I will read your script with joy! | #877: lire le scénario<br>#878: Bien sûr | verbatim |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 

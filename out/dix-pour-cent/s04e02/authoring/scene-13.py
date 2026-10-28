@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'I call Franck to arrange everything.' Gabriel intervenes directly with the talent."),
     (11, None, "'He filters all my recent calls.' Mathias warns that Franck is avoiding him."),
     (12, None, "'Hello Franck? Yes, it is Gabriel here.' Gabriel manages to reach Franck on the phone."),
-    (13, None, "'Good luck convincing our friend!' Mathias offers parting encouragement."),
+    (13, None, "'Good luck convincing our friend!' Mathias offers parting encouragement. Now let's listen to the complete discussion once more to reinforce the vocabulary."),
 ]

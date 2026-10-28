@@ -16,7 +16,7 @@ TRANSITION = "Now let's listen to the entire dialogue once more."
 OUTRO = "Turning a catastrophic box office flop into an artistic victory, Julien Dore embraces Gabriel for inadvertently preserving his creative freedom. When you watch the episode, listen out for the expressions meaning 'figures' and 'film'. You'll catch them now. See you next time!"
 CLOSING = ('sofia', 'Bonne journée!')
 STORY = [
-    ('julien', 'Les chiffres du film sont catastrophiques.', 'The film', [(1090, 'avoir les chiffres de mon film')], ''),
+    ('julien', 'Les chiffres du film sont catastrophiques.', "The film's numbers are catastrophic.", [(1090, 'avoir les chiffres de mon film')], ''),
     ('julien', "Même ma famille n'est pas venue!", 'Even my family did not come!', [(1103, "ma propre famille n'a pas été voir le film")], ''),
     ('gabriel', 'Ce film va devenir culte!', 'This film will become a cult classic!', [(1115, 'sont devenus cultes')], ''),
     ('sofia', "Nous avons manqué d'argent partout!", 'We lacked money everywhere!', [(1125, "on s'en fout pas des millions")], ''),

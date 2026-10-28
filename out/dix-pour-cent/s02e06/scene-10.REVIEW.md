@@ -12,9 +12,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 |---|---|---|---|---|---|
 | 1 | Andréa | J'en déduis que les bijoux Chopard sont arrivés. Bonjour. | I deduce that the Chopard jewelry has arrived. Hello. | #213: J'en déduis que les bijoux Chopard sont arrivés. Bonjour. | verbatim |
 | 2 | Renard | Qui êtes-vous, madame? | Who are you, madam? | #217: Qui êtes-vous, madame ? | verbatim |
-| 3 | Andréa | Andréa Martel, l'agent de Juliette Binoche. | Andréa Martel, Juliette Binoche | #218: Andréa Martel, l'agent de Juliette Binoche. | verbatim |
+| 3 | Andréa | Andréa Martel, l'agent de Juliette Binoche. | Andréa Martel, Juliette Binoche's agent. | #218: Andréa Martel, l'agent de Juliette Binoche. | verbatim |
 | 4 | Renard | Vous devez attendre ici, madame. | You must wait here, madam. | #217: madame ? | verbatim |
-| 5 | Andréa | Vous n'êtes pas le garde du corps des bijoux? | Aren | #215: Vous n'êtes pas le garde du corps des bijoux ? | verbatim |
+| 5 | Andréa | Vous n'êtes pas le garde du corps des bijoux? | Aren't you the jewelry bodyguard? | #215: Vous n'êtes pas le garde du corps des bijoux ? | verbatim |
 | 6 | Renard | Je protège la sécurité de la chambre. | I protect the security of the room. | #222: la chambre 403. | verbatim |
 | 7 | Andréa | Quoi, alors? Antiterrorisme? | What then? Counter-terrorism? | #216: Quoi, alors ? Antiterrorisme ? | verbatim |
 | 8 | Renard | Ici Renard. J'ai une certaine Martel à la chambre 403. | Renard here. I have a certain Martel at room 403. | #222: Ici Renard. J'ai une certaine Martel à la chambre 403. | verbatim |
@@ -26,6 +26,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 14 | Renard | C'est bon, vous pouvez entrer. | It is all right, you can go in. | #227: C'est bon, vous pouvez entrer. | verbatim |
 | 15 | Andréa | Merci beaucoup, Renard. | Thank you very much, Renard. | #228: Merci... Renard. | verbatim |
 | 16 | Renard | Bonne journée, madame. | Have a good day, madam. | #217: madame ? | verbatim |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -44,4 +45,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Okay, I understand.' Renard receives confirmation on his radio.
 - 'It is all right, you can go in.' Renard steps aside to permit entry.
 - 'Thank you very much, Renard.' Andrea acknowledges the bodyguard with cool irony.
-- 'Have a good day, madam.' Renard concludes the exchange with professional courtesy.
+- 'Have a good day, madam.' Renard concludes the exchange with professional courtesy. Now let's listen to the entire dialogue once more to lock in what you have learned.

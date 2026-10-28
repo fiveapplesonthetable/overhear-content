@@ -10,8 +10,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Andréa | Je sors de chez le médecin de Guy. | I have just come from Guy | #159: Je sors de chez le médecin de Guy. | verbatim |
-| 2 | Andréa | La santé de Guy est une catastrophe. | Guy | #159: C'est une catastrophe | verbatim |
+| 1 | Andréa | Je sors de chez le médecin de Guy. | I have just come from Guy's doctor. | #159: Je sors de chez le médecin de Guy. | verbatim |
+| 2 | Andréa | La santé de Guy est une catastrophe. | Guy's health is a disaster. | #159: C'est une catastrophe | verbatim |
 | 3 | Gabriel | Tu veux me parler d'autre chose? | Do you want to talk about something else? | #164: Tu veux quoi ?<br>#165: Parler. | verbatim |
 | 4 | Andréa | Oui, au sujet de l'agent junior. | Yes, about the junior agent. | #168: Un junior. | verbatim |
 | 5 | Andréa | Est-ce que tu en veux un? | Do you want one? | #169: T'en veux un ou pas ? | verbatim |
@@ -23,6 +23,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 11 | Andréa | Tu crois que ça va te rendre faible? | Do you think that will make you look weak? | #184: Tu crois que ça va te rendre faible ? | verbatim |
 | 12 | Gabriel | Je ne suis pas comme ça, Andréa. | I am not like that, Andréa. | #186: Je ne suis pas comme ça, Andréa. | verbatim |
 | 13 | Gabriel | Maintenant, j'ai beaucoup de travail. | Right now, I have a lot of work. | #187: J'ai du travail. | verbatim |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -38,4 +39,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Both suit me very well.' Gabriel stays open-minded with no preference for either.
 - 'Do you think that will make you look weak?' Andrea probes whether showing stress makes him feel vulnerable.
 - 'I am not like that, Andréa.' Gabriel asserts that he is not guarded or competitive toward her.
-- 'Right now, I have a lot of work.' Gabriel closes the discussion to return to his pressing tasks.
+- 'Right now, I have a lot of work.' Gabriel closes the discussion to return to his pressing tasks. Now let's listen to the scene once more from start to finish.

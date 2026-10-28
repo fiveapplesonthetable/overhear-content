@@ -41,7 +41,7 @@ WALK = [
     (2, 'Вы можете сейчас приехать сюда? Меня тут убивают!', "'Can you come over here right now? They're killing me here!' On the other end of the line, Vitalik and his twin brother Valerik politely reply that they cannot come because they no longer guard him."),
     (3, 'В смысле не можете?', "'What do you mean you can't?' Arkady is stunned by their refusal."),
     (3, 'Живо сюда, быстро, оба!', "'Get over here right now, quickly, both of you!' Right then, Vitalik calmly says goodbye and hangs up on him, so Arkady pretends to the collectors that help is on the way."),
-    (4, 'Всё, я вас жду.', "'Right, I'm waiting for you,' he says into the dead phone."),
+    (4, 'Всё, я вас жду.', "'Right, I'm waiting for you.' He says this into the dead phone so the room thinks the call is still live."),
     (4, 'Через пять минут будут.', "'They'll be here in five minutes.' Notice how Russian uses the preposition meaning 'through' or 'across' with an object-form time span to mean 'in five minutes'. Uncle Grisha sees straight through the act."),
     (5, None, "'You see, Kostik, what it means to think with your head?' The noun for 'head' is in the 'with/as' form, 'with your head'."),
     (6, None, "'Well, yes,' Kostik agrees with a nod."),
@@ -58,7 +58,7 @@ WALK = [
     (14, 'Ну конечно золотые!', "'Well, of course gold!' Arkady insists."),
     (14, 'Я же мэр, в конце концов!', "'I'm the mayor, after all!' Uncle Grisha inspects the heavy Swiss watch and nods."),
     (15, 'Хорошие часы, забираем их.', "'Nice watch, we're taking it,' Grisha decides with satisfaction."),
-    (15, 'Ладно, отпусти его.', "'Alright, let him go,' he tells Kostik."),
+    (15, 'Ладно, отпусти его.', "'Alright, let him go.' He tells Kostik to release the man."),
     (16, 'Был начальник, стал никто.', "'He was a boss, he became nobody.' Notice how 'was' takes the subject-form here."),
     (16, 'Так проходит земная слава!', "'Thus passes earthly glory!' Grisha translates his favourite Latin saying as they head for the door."),
 ]

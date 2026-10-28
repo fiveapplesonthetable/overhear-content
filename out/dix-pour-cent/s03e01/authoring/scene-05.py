@@ -43,5 +43,5 @@ WALK = [
     (9, None, "'What letter B on my contract?' Gabriel looks down in confusion at the contract lines."),
     (10, None, "'Look here, it says Emile Berthier.' Camille reads out the completely unfamiliar alias written on the page."),
     (11, None, "'Who then is this Emile Berthier, Gabriel?' Mathias immediately questions the validity of the contract."),
-    (12, None, "'I understand absolutely nothing about this signature!' Gabriel realizes with dread that something is very wrong."),
+    (12, None, "'I understand absolutely nothing about this signature!' Gabriel realizes with dread that something is very wrong. Now let's listen to the scene once more from start to finish."),
 ]

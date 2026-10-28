@@ -20,9 +20,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 8 | Gabriel | Oui! Le second rôle, avec un cachet formidable! | Yes! The supporting role, with a huge paycheck! | #127: Ouais.<br>#128: Le second rôle<br>#128: Avec un cachet de folie | verbatim |
 | 9 | Gabriel | Une fille magnifique, pleine d'énergie... Et qui danse le hip-hop! | A gorgeous girl, full of energy... And who dances hip-hop! | #131: Et qui danse... le hip-hop ! | verbatim |
 | 10 | Sofia | Elle danse le hip-hop? | She dances hip-hop? | #132: Elle danse le hip-hop ? | verbatim |
-| 11 | Gabriel | Oui! C'est toi, non? | Yes! That is you, isn | #133: Ouais ! C'est toi, non ? | verbatim |
+| 11 | Gabriel | Oui! C'est toi, non? | Yes! That is you, isn't it? | #133: Ouais ! C'est toi, non ? | verbatim |
 | 12 | Sofia | Oui, oui... C'est tout à fait moi, oui. | Yes, yes... That is completely me, yes. | #134: Ouais, ouais... C'est tout à fait moi, ouais. | verbatim |
 | 13 | Gabriel | Va voir Hervé pour la musique. Mais garde le secret! | Go see Hervé for the music. But keep the secret! | #135: Va voir Hervé.<br>#136: Il te filera les paroles<br>#137: Mais surtout, bouche cousue ! C'est top secret ! | verbatim |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -38,4 +39,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'She dances hip-hop?' Sofia repeats the condition with a touch of uncertainty.
 - 'Yes! That is you, isn't it?' Gabriel assumes that Sofia already knows how to dance hip-hop.
 - 'Yes, yes... That is completely me, yes.' Eager for the chance, Sofia quickly claims the role fits her perfectly.
-- 'Go see Hervé for the music. But keep the secret!' Gabriel sends her to his assistant and swears her to secrecy.
+- 'Go see Hervé for the music. But keep the secret!' Gabriel sends her to his assistant and swears her to secrecy. Now let's listen to Gabriel and Sofia's conversation once more.

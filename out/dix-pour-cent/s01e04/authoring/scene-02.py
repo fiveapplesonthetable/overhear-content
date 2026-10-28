@@ -16,22 +16,22 @@ TRANSITION = "Now let's listen to the entire dialogue once more."
 OUTRO = 'As they step out of the lift into the corridor, tax inspector Colette Brancillon politely reminds them about the documents she asked for, and Gabriel and Andréa worry that tax inspectors always find something wrong. See you next time!'
 CLOSING = ('gabriel', 'À demain!')
 STORY = [
-    ('sofia', 'ASK, bonjour. Oui, je vous la passe.', 'ASK, hello. Yes, I', [(49, 'ASK, bonjour'), (51, 'Oui, je vous la passe')], ''),
+    ('sofia', 'ASK, bonjour. Oui, je vous la passe.', "ASK, hello. Yes, I'll put you through to her.", [(49, 'ASK, bonjour'), (51, 'Oui, je vous la passe')], ''),
     ('sofia', 'Gabriel! Voilà mes nouvelles photos.', 'Gabriel! Here are my new photos.', [(52, 'Gabriel !'), (53, 'les photos')], ''),
-    ('sofia', 'Elles sont en noir et blanc.', 'They', [(55, 'Elles sont en noir et blanc')], ''),
-    ('sofia', "Tu crois qu'elles sont bien?", 'Do you think they', [(56, "Tu crois qu'elles sont bien ?")], ''),
+    ('sofia', 'Elles sont en noir et blanc.', "They're in black and white.", [(55, 'Elles sont en noir et blanc')], ''),
+    ('sofia', "Tu crois qu'elles sont bien?", "Do you think they're good?", [(56, "Tu crois qu'elles sont bien ?")], ''),
     ('gabriel', 'Oui, très bien. Tes photos sont bonnes.', 'Yes, very good. Your photos are good.', [(61, 'Très bien'), (59, 'les photos'), (59, 'bonnes')], ''),
     ('sofia', 'Vraiment?', 'Really?', [(60, 'Vraiment ?')], ''),
-    ('gabriel', 'Tu es photogénique.', 'You', [(64, 'Tu es photogénique')], ''),
+    ('gabriel', 'Tu es photogénique.', "You're photogenic.", [(64, 'Tu es photogénique')], ''),
     ('gabriel', "J'aime le regard dans les yeux, et le sourire aussi.", 'I like the look in your eyes, and the smile too.', [(68, 'Le regard dans les yeux'), (69, 'Le sourire aussi')], ''),
-    ('gabriel', 'Enfin, vous êtes belle.', 'Well, you', [(70, 'Enfin, vous êtes belle')], ''),
-    ('gabriel', "C'est simple et naturel.", 'It', [(72, "C'est simple"), (72, 'naturel')], ''),
-    ('gabriel', "Vous avez de la grâce. Oui, c'est ça, de la grâce.", 'You have grace. Yes, that', [(77, "Vous avez de la grâce. Oui, c'est ça, de la grâce")], ''),
+    ('gabriel', 'Enfin, vous êtes belle.', "Well, you're beautiful.", [(70, 'Enfin, vous êtes belle')], ''),
+    ('gabriel', "C'est simple et naturel.", "It's simple and natural.", [(72, "C'est simple"), (72, 'naturel')], ''),
+    ('gabriel', "Vous avez de la grâce. Oui, c'est ça, de la grâce.", "You have grace. Yes, that's it, grace.", [(77, "Vous avez de la grâce. Oui, c'est ça, de la grâce")], ''),
     ('sofia', 'Merci, Gabriel!', 'Thank you, Gabriel!', [(50, 'Merci'), (52, 'Gabriel !')], ''),
     ('gabriel', 'Bon, au travail!', 'Right, back to work!', [(79, 'Bon, au travail !')], ''),
     ('andrea', 'Et après Sofia, tu prends aussi la fille de la boulangerie?', 'And after Sofia, are you taking on the girl from the bakery too?', [(81, 'la fille de la boulangerie')], ''),
-    ('gabriel', "Elle fera la couverture d'un grand magazine!", 'She', [(82, 'Elle fera la couverture de')], ''),
-    ('andrea', "Tu es amoureux d'elle, non?", 'You', [(83, 'non ?')], ''),
+    ('gabriel', "Elle fera la couverture d'un grand magazine!", "She'll be on the cover of a big magazine!", [(82, 'Elle fera la couverture de')], ''),
+    ('andrea', "Tu es amoureux d'elle, non?", "You're in love with her, aren't you?", [(83, 'non ?')], ''),
     ('gabriel', 'Jamais avec mes clientes!', 'Never with my clients!', [(83, 'Jamais avec mes clientes')], ''),
 ]
 WALK = [

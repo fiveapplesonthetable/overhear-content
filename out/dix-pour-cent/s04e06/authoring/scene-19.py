@@ -43,5 +43,5 @@ WALK = [
     (9, None, "'It is a kiss of mutual respect.' Colette honors everything they shared together."),
     (10, None, "'I will never forget our shared moments.' Andrea acknowledges the deep impact of their love."),
     (11, None, "'Me neither, dear Andrea.' Colette smiles with peaceful finality."),
-    (12, None, "'Thank you for your tenderness and listening.' Andrea expresses her heartfelt gratitude."),
+    (12, None, "'Thank you for your tenderness and listening.' Andrea expresses her heartfelt gratitude. Now let's listen to the complete discussion once more to reinforce the vocabulary."),
 ]

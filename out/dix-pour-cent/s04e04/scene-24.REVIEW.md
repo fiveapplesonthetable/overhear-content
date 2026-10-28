@@ -14,7 +14,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 2 | Chanteuse | Il fait très nuit. | It is very dark. | new | new |
 | 3 | Chanteuse | Je suis un peu fatiguée. | I am a little tired. | new | new |
 | 4 | Chanteuse | Je regarde les étoiles. | I look at the stars. | new | new |
-| 5 | Chanteuse | Je ne sais pas où je vais. | I don | #1211: Je ne sais pas où je vais | verbatim |
+| 5 | Chanteuse | Je ne sais pas où je vais. | I don't know where I'm going. | #1211: Je ne sais pas où je vais | verbatim |
 | 6 | Chanteuse | Je marche encore un peu. | I walk a little more. | new | new |
 | 7 | Chanteuse | J'écoute une mélodie. | I listen to a melody. | new | new |
 | 8 | Chanteuse | De la musique dans la tête. | Music in my head. | #1212: De la musique dans la tête | verbatim |
@@ -23,6 +23,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 11 | Chanteuse | Le temps file très vite. | Time flies very fast. | new | new |
 | 12 | Chanteuse | Pendant que les jours passent. | While the days come and go. | #1213: Pendant que les jours passent | verbatim |
 | 13 | Chanteuse | La vie continue toujours. | Life always goes on. | new | new |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 

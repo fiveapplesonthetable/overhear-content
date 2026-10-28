@@ -26,6 +26,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 14 | Norman | Il y a un problème? | Is there a problem? | #348: Il y a un problème | verbatim |
 | 15 | Gabriel | Elle veut quelque chose de plus personnel. | She wants something more personal. | #349: elle veut juste un souvenir<br>#352: quelque chose de plus personnel | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'I found someone to swap with you.' Gabriel announces his successful negotiation.
@@ -42,4 +43,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Smile for the photo!' She prepares to capture the memorable moment.
 - 'Violaine, we are done. Thank you!' Gabriel gently steps in to conclude the visit.
 - 'Is there a problem?' Norman senses an awkward hitch in the plan.
-- 'She wants something more personal.' Gabriel hints that she expects an unusual keepsake.
+- 'She wants something more personal.' Gabriel hints that she expects an unusual keepsake. Now listen to the whole scene again at normal speed, and see how much more you catch.

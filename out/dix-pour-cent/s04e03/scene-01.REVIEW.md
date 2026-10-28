@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Andréa | J'arrive tout de suite au tournage. | I am coming right away to the film shoot. | new | new |
 | 14 | Gabriel | Parfait, je compte sur toi, Andréa. | Perfect, I count on you, Andrea. | new | new |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'I am coming, my little baby, I am coming!' Andrea reassures Flora as she hurries into her nursery.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I know, I am getting my daughter Flora ready.' Andrea explains that she must dress and pack for the baby.
 - 'Do not be late this morning.' Gabriel insists on total professionalism on the production set.
 - 'I am coming right away to the film shoot.' Andrea reassures him that she will leave the apartment immediately.
-- 'Perfect, I count on you, Andrea.' Gabriel trusts his partner to handle the demanding actor smoothly.
+- 'Perfect, I count on you, Andrea.' Gabriel trusts his partner to handle the demanding actor smoothly. Now let's listen to Andrea and Gabriel's exchange once more from start to finish.

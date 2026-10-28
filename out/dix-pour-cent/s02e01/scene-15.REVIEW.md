@@ -20,10 +20,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 8 | Michel | Agissez de manière responsable! | Act in a responsible manner! | #431: Agissez de manière responsable | verbatim |
 | 9 | Mathias | Michel, tu as tout à fait raison. | Michel, you are completely right. | #432: Michel, tu as tout à fait raison | verbatim |
 | 10 | Mathias | Je raccroche et je trouve Ramzy. | I hang up and I find Ramzy. | #432: Je raccroche | verbatim |
-| 11 | Michel | S'il ne fait pas l'émission de Drucker cette semaine, je l'attaque! | If he does not do Drucker | #434: S'il ne fait pas l'émission de Drucker cette semaine<br>#435: je l'attaque pour rupture de contrat | verbatim |
+| 11 | Michel | S'il ne fait pas l'émission de Drucker cette semaine, je l'attaque! | If he does not do Drucker's show this week, I will sue him! | #434: S'il ne fait pas l'émission de Drucker cette semaine<br>#435: je l'attaque pour rupture de contrat | verbatim |
 | 12 | Mathias | Ne t'inquiète pas, il sera là. | Do not worry, he will be there. | new | new |
 | 13 | Camille | C'est une catastrophe, Mathias! | It is a disaster, Mathias! | new | new |
 | 14 | Mathias | Je dois régler ce problème immédiatement. | I must settle this problem immediately. | new | new |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'If he does not do Drucker's show this week, I will sue him!' Michel threatens to sue if Ramzy misses Michel Drucker's television show.
 - 'Do not worry, he will be there.' Mathias reassures the furious producer that Ramzy will be on the set.
 - 'It is a disaster, Mathias!' Camille reacts with alarm to the legal threat.
-- 'I must settle this problem immediately.' Mathias tells Camille he has to fix this problem right away.
+- 'I must settle this problem immediately.' Mathias tells Camille he has to fix this problem right away. Now listen to the heated exchange once more from beginning to end.

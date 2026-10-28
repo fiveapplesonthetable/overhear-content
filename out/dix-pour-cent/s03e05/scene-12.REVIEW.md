@@ -12,8 +12,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 |---|---|---|---|---|---|
 | 1 | Camille | Valentin? Qu'est-ce que tu fais là-dedans? | Valentin? What are you doing in there? | #388: Valentin ?<br>#389: Valentin ? | verbatim |
 | 2 | Valentin | Oh, j'adore cette immense pièce lumineuse! | Oh, I love this huge, luminous room! | #391: Oh celui-là j'adore | verbatim |
-| 3 | Camille | Non, sors vite, c'est le bureau de Mathias! | No, get out quickly, that is Mathias | #392: Non mais sûrement pas c'est celui de mon patron ça | verbatim |
-| 4 | Valentin | Ce sera bientôt le tien, non? | It will be yours soon, won | #396: Mais attends ce sera bientôt le tien non ? | verbatim |
+| 3 | Camille | Non, sors vite, c'est le bureau de Mathias! | No, get out quickly, that is Mathias's office! | #392: Non mais sûrement pas c'est celui de mon patron ça | verbatim |
+| 4 | Valentin | Ce sera bientôt le tien, non? | It will be yours soon, won't it? | #396: Mais attends ce sera bientôt le tien non ? | verbatim |
 | 5 | Valentin | Agence Camille Valentini, ça sonne très bien! | Camille Valentini Agency, that sounds great! | #398: Agence Camille Valentini | verbatim |
 | 6 | Camille | Arrête, Valentin, ne touche à rien. | Stop it, Valentin, do not touch anything. | #395: Arrête Valentin<br>#400: Patouche | verbatim |
 | 7 | Valentin | Regarde toutes ces belles bouteilles prestigieuses. | Look at all these beautiful prestigious bottles. | #399: Les bouteilles | verbatim |
@@ -24,6 +24,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 12 | Camille | Tu veux répéter ta scène ici maintenant? | You want to rehearse your scene here now? | #405: Là ici ? | verbatim |
 | 13 | Valentin | Oui, nous sommes tous les deux prêts. | Yes, both of us are ready. | #406: Bah ouais<br>#407: On est chaud là non ? | verbatim |
 | 14 | Camille | D'accord, mais juste une seule fois alors. | Okay, but just once then. | #407: On est chaud là non ? | verbatim |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'What if we rehearsed my casting scene?' Valentin proposes an impromptu rehearsal.
 - 'You want to rehearse your scene here now?' Camille reacts with incredulity.
 - 'Yes, both of us are ready.' Valentin encourages her to participate.
-- 'Okay, but just once then.' Camille relents under his charm.
+- 'Okay, but just once then.' Camille relents under his charm. Now let's listen to the entire dialogue once more to lock in what you have learned.

@@ -25,19 +25,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Noémie | Je vais réfléchir à toute cette situation. | I am going to think about this whole situation. | new | new |
 | 14 | Catherine | Mathias tient énormément à vous, Noémie. | Mathias cares enormously about you, Noemie. | #1056: Noémie, moi, je sais à quel point il tient à vous. | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I put this bag on the table for you.' A considerate announcement setting down groceries.
-- 'Thank you Mathias, that is very kind of you.' A polite acknowledgment expressing domestic gratitude.
-- 'Do you want to eat a good hot soup, Noemie?' A caring offer proposing homemade comfort food.
-- 'No thank you Catherine, do not trouble yourself.' A polite refusal relieving her host of effort.
-- 'We are going to let you rest now.' A considerate departure formula allowing the patient peace.
-- 'I am not paralyzed either!' A humorous defense asserting physical independence.
-- 'Mathias told me everything at the emergency room.' A candid disclosure revealing hospital confidences.
-- 'What did he tell you exactly?' A cautious question inquiring about shared secrets.
-- 'Do you really want to leave agency ASK?' A direct inquiry challenging her career departure.
-- 'A headhunter contacted me.' An objective explanation explaining external recruitment.
-- 'Noemie is in high demand for her talent.' A protective defense highlighting professional excellence.
-- 'This is perhaps not the right time.' A cautious opinion advising patient deliberation.
-- 'I am going to think about this whole situation.' A thoughtful concession promising careful reflection.
-- 'Mathias cares enormously about you, Noemie.' A profound revelation affirming deep professional loyalty.
+- 'I put this bag on the table for you.' Mathias sets down groceries.
+- 'Thank you Mathias, that is very kind of you.' Noémie expresses domestic gratitude.
+- 'Do you want to eat a good hot soup, Noemie?' Catherine proposes homemade comfort food.
+- 'No thank you Catherine, do not trouble yourself.' Noémie relieves her host of effort.
+- 'We are going to let you rest now.' Mathias allows the patient peace.
+- 'I am not paralyzed either!' Noémie asserts physical independence.
+- 'Mathias told me everything at the emergency room.' Catherine reveals hospital confidences.
+- 'What did he tell you exactly?' Noémie inquires about shared secrets.
+- 'Do you really want to leave agency ASK?' Catherine challenges her career departure.
+- 'A headhunter contacted me.' Noémie explains external recruitment.
+- 'Noemie is in high demand for her talent.' Mathias highlights professional excellence.
+- 'This is perhaps not the right time.' Catherine advises patient deliberation.
+- 'I am going to think about this whole situation.' Noémie promises careful reflection.
+- 'Mathias cares enormously about you, Noemie.' Catherine affirms deep professional loyalty. Now let's listen to Catherine, Mathias, and Noemie again at natural pace.

@@ -25,19 +25,21 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Julien | Tu crois qu'on trouvera un autre projet? | Do you believe we will find another project? | #92: Je suis là, d'accord ? | verbatim |
 | 14 | Gabriel | Oui, je suis toujours là avec toi. | Yes, I am always here with you. | #92: Je suis là, d'accord ? | verbatim |
 
+
+
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello Gabriel, do you have a minute?' A telephone greeting checking conversational availability.
+- 'Hello Gabriel, do you have a minute?' Julien checks conversational availability.
 - 'Yes Julien, I was just thinking of you.' Answering his phone, Gabriel tells Julien warmly that he was just thinking of him.
-- 'I am rereading my rejected screenplay again.' An iterative present verb showing obsessive artistic doubt.
-- 'Stop reading this screenplay, please.' A protective imperative urging a client to break negative habits.
-- 'I want to understand our commercial failure.' A modal phrase seeking reasons for professional setback.
-- 'You are only making your sadness worse.' A restrictive negative structure highlighting emotional harm.
-- 'No producer wants my story.' A negative subject construction stating perceived total rejection.
-- 'Many films lack financing.' A reassuring industry generalization contextualizing production challenges.
-- 'It is too brutal an artistic milieu.' An intensified adjective describing harsh cinema realities.
-- 'Cinema is a veritable rollercoaster.' A vivid metaphor illustrating unpredictable career fortunes.
-- 'I no longer know what to write now.' A negative knowledge formula revealing creative disorientation.
-- 'You simply must move on to something else.' An impersonal necessity idiom advising creative renewal.
-- 'Do you believe we will find another project?' A tentative question seeking future collaborative hope.
-- 'Yes, I am always here with you.' A steadfast affirmation guaranteeing personal and professional loyalty.
+- 'I am rereading my rejected screenplay again.' Julien shows obsessive artistic doubt.
+- 'Stop reading this screenplay, please.' Gabriel urges a client to break negative habits.
+- 'I want to understand our commercial failure.' Julien seeks reasons for professional setback.
+- 'You are only making your sadness worse.' Gabriel highlights emotional harm.
+- 'No producer wants my story.' Julien feels that every producer in town has rejected his story.
+- 'Many films lack financing.' Gabriel puts the financing struggles in perspective for him.
+- 'It is too brutal an artistic milieu.' Julien describes harsh cinema realities.
+- 'Cinema is a veritable rollercoaster.' Gabriel illustrates unpredictable career fortunes.
+- 'I no longer know what to write now.' Julien reveals creative disorientation.
+- 'You simply must move on to something else.' Gabriel advises creative renewal.
+- 'Do you believe we will find another project?' Julien seeks future collaborative hope.
+- 'Yes, I am always here with you.' Gabriel guarantees personal and professional loyalty. Now let's listen to Gabriel and Julien again at full speed.

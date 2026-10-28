@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'I run to join you, hold on!' Mathias dashes frantically across town toward her."),
     (11, None, "'In how much time do they arrive?' Catherine asks how long the ambulance will take."),
     (12, None, "'The rescue arrives in a few minutes.' Mathias reassures her that help is on the way."),
-    (13, None, "'I am here with you, Catherine.' Mathias comforts his injured wife by her side."),
+    (13, None, "'I am here with you, Catherine.' Mathias comforts his injured wife by her side. Now let's listen to the scene once more from start to finish."),
 ]

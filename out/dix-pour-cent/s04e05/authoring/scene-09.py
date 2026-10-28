@@ -34,7 +34,7 @@ STORY = [
 WALK = [
     (0, None, "'You are late, Madame Martel!' The director expresses her immediate frustration."),
     (1, None, "'I know, I had an emergency.' Andrea justifies her arrival with a serious excuse."),
-    (2, None, "'You left your daughter alone!' The director reproaches Andrea for leaving Flora unattended."),
+    (2, None, "'You left your daughter alone!' The headmistress leaves Flora unattended."),
     (3, None, "'She was safe here.' Andrea argues that the daycare is a protected place."),
     (4, None, "'It is a complete lack of respect.' The director condemns the late pickup."),
     (5, None, "'It was proof of trust!' Andrea reframes her lateness as total confidence in the staff."),
@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'Very well, goodbye, madame.' Andrea accepts the verdict coldly without pleading."),
     (11, None, "'You are really crazy!' The director watches Andrea leave in bewilderment."),
     (12, None, "'Come, Flora, we are going home.' Andrea speaks gently to her infant daughter."),
-    (13, None, "'Goodnight, my little baby.' Andrea tucks Flora safely into her crib for the night."),
+    (13, None, "'Goodnight, my little baby.' Andrea tucks Flora safely into her crib for the night. Now let's listen to the complete discussion once more to reinforce the vocabulary."),
 ]

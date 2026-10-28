@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'It is an immense honor for you!' Andrea celebrates the prestigious recognition."),
     (11, None, "'Thank you for this totally incredible evening.' Corinne expresses her warmth and gratitude."),
     (12, None, "'Thank you for all this courage, Corinne.' Andrea honors her composure under pressure."),
-    (13, None, "'I was very proud to be your agent!' Andrea closes with sincere professional pride."),
+    (13, None, "'I was very proud to be your agent!' Andrea closes with sincere professional pride. Now let's listen to the complete discussion once more to reinforce the vocabulary."),
 ]

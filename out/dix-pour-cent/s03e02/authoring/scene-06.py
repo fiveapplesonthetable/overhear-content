@@ -43,5 +43,5 @@ WALK = [
     (9, None, "'You are not invested in this pregnancy.' Colette shares her growing worry that Andrea is avoiding parenting responsibilities."),
     (10, None, "'And my medical appointments every two weeks?' Andrea reminds Colette of the frequent medical examinations she endures."),
     (11, None, "'Our little girl is not born yet!' Andrea points out that they still have time before the baby arrives."),
-    (12, None, "'I want to enjoy our freedom a little bit.' Andrea expresses her desire to cherish their time together as a couple."),
+    (12, None, "'I want to enjoy our freedom a little bit.' Andrea expresses her desire to cherish their time together as a couple. Now let's listen to the scene once more from start to finish."),
 ]

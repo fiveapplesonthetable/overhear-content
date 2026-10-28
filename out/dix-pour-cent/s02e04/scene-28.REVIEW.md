@@ -27,6 +27,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 15 | Camille | Allez, lève-toi maintenant! | Come on, get up now! | #895: Allez, lève-toi<br>#896: Maintenant viens | verbatim |
 | 16 | Mathias | D'accord, je viens avec toi. | All right, I am coming with you. | #896: Maintenant viens | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Congratulate Mathias on his absence.' Isabelle delivers a bitterly sarcastic remark before leaving.
@@ -44,4 +45,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'This is not you.' Camille firmly challenges his uncharacteristic weakness.
 - 'You are a fighter, a winner!' Camille motivates him with powerful words of encouragement.
 - 'Come on, get up now!' Camille commands him to snap out of his stupor.
-- 'All right, I am coming with you.' Mathias finally gathers the resolve to stand up.
+- 'All right, I am coming with you.' Mathias finally gathers the resolve to stand up. Now listen to the whole scene again at normal speed, and see how much more you catch.

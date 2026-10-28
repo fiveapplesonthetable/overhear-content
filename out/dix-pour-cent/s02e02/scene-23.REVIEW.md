@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Fabrice | On mange quelque chose maintenant? | Shall we eat something now? | #797: -On mange ? -Oui | verbatim |
 | 14 | Andréa | Oui, commandons un bon dîner. | Yes, let us order a good dinner. | #797: -On mange ? -Oui | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Good evening Andréa! You look very elegant.' Fabrice greets Andrea warmly as they meet at the restaurant table.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I do not know where to start.' Andrea admits feeling completely at a loss with dating.
 - 'Trust me when it comes to love.' He poses as an experienced philosopher of romantic relationships.
 - 'Shall we eat something now?' He suggests turning their attention to ordering food.
-- 'Yes, let us order a good dinner.' Andrea agrees happily to start their meal.
+- 'Yes, let us order a good dinner.' Andrea agrees happily to start their meal. Now let's listen to the entire exchange once more from beginning to end.

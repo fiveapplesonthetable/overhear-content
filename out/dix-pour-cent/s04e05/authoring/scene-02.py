@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'I want to taste every flavor.' Sigourney inspects the vibrant vitrine filled with rainbow macarons."),
     (11, None, "'Orange blossom macarons!' Sigourney specifically asks for orders her cherished floral-infused delicacy."),
     (12, None, "'It is my favorite treat in Paris.' Sigourney admits that traditional confectioneries remain her biggest weakness."),
-    (13, None, "'You have truly exquisite tastes.' Camille happily escorts the satisfied star back toward the waiting car."),
+    (13, None, "'You have truly exquisite tastes.' Camille happily escorts the satisfied star back toward the waiting car. Now let's listen to Camille and Sigourney's exchange once more from start to finish."),
 ]

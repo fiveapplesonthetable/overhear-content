@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Véro | Elle veut te donner un vrai rôle! | She wants to give you a real role! | #948: un petit rôle | verbatim |
 | 14 | Hervé | C'est le plus beau jour! | It is the most beautiful day! | #949: Mon étoile montante | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Herve, I am very busy today.' Vero pops into the room while juggling several tasks on set.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Valerie is thinking of you now.' Vero reveals that the film director was praising Hervé earlier.
 - 'She is preparing her next big film.' The director is already planning her upcoming feature project.
 - 'She wants to give you a real role!' Vero adds that the director has a major part in mind for him.
-- 'It is the most beautiful day!' Hervé beams with joy at the prospect of becoming a real movie star.
+- 'It is the most beautiful day!' Hervé beams with joy at the prospect of becoming a real movie star. Now let's listen to the complete discussion once more to reinforce the vocabulary.

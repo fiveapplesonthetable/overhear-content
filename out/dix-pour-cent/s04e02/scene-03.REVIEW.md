@@ -25,19 +25,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Igor | Consultez vos courriels pour notre négociation. | Check your emails for our negotiation. | #225: un brief pour une négociation | verbatim |
 | 14 | Mathias | Je m'occupe de ce dossier immédiatement. | I am taking care of this file immediately. | #225: un brief pour une négociation | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Here is a pretty plant for our office.' A cheerful domestic touch creating a welcoming workspace.
-- 'It is the perfect place to work together.' An enthusiastic compliment celebrating their joint professional setup.
-- 'We share this room with great pleasure.' An affectionate validation affirming their collaborative partnership.
-- 'You now direct all creative development.' A prestigious promotion recognizing her editorial responsibilities.
-- 'I never want to hide again.' A courageous emotional declaration rejecting secrecy in work and romance.
-- 'Hello Mathias, how are you this morning?' A polite corporate greeting from the visiting senior executive.
-- 'We are very well settled in, thank you.' A courteous professional reply confirming contentment with the new facilities.
-- 'I thought of Noemie for this work.' A condescending overture introducing an unexpected batch of reading tasks.
-- 'You can write reader reports.' A patronizing assignment relegating the new development head to entry-level script coverage.
-- 'Simple summaries for your assistant?' A stung reaction expressing disbelief at being treated like auxiliary staff.
-- 'Yes, short and precise notes.' A casual dismissal ignoring her executive aspirations without hesitation.
-- 'Congratulations on the contract with Xavier Beauvois.' A warm commendation praising the producer's swift commercial acquisition.
-- 'Check your emails for our negotiation.' A directive instruction moving the conversation to business strategy.
-- 'I am taking care of this file immediately.' A compliant executive acknowledgment pledging prompt focus to the deal.
+- 'Here is a pretty plant for our office.' Noémie creates a welcoming workspace.
+- 'It is the perfect place to work together.' Noémie celebrates their joint professional setup.
+- 'We share this room with great pleasure.' Mathias affirms their collaborative partnership.
+- 'You now direct all creative development.' Mathias recognizes her editorial responsibilities.
+- 'I never want to hide again.' Noémie rejects secrecy in work and romance.
+- 'Hello Mathias, how are you this morning?' Igor offers a polite corporate greeting as the visiting executive.
+- 'We are very well settled in, thank you.' Mathias confirms contentment with the new facilities.
+- 'I thought of Noemie for this work.' Igor introduces an unexpected batch of reading tasks.
+- 'You can write reader reports.' Igor relegates the new development head to entry-level script coverage.
+- 'Simple summaries for your assistant?' Noémie expresses disbelief at being treated like auxiliary staff.
+- 'Yes, short and precise notes.' Igor ignores her executive aspirations without hesitation.
+- 'Congratulations on the contract with Xavier Beauvois.' Igor praises the producer's swift commercial acquisition.
+- 'Check your emails for our negotiation.' Igor directs Mathias to check his emails for their negotiation.
+- 'I am taking care of this file immediately.' Mathias pledges prompt focus to the deal. Now let's listen to Noemie, Mathias, and Igor talking again at full speed.

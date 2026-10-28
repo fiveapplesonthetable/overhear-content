@@ -24,6 +24,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 12 | Hervé | C'est plutôt élogieux pour une actrice! | That is rather complimentary for an actress! | #274: C'est plutôt élogieux | verbatim |
 | 13 | Camille | Tu vas bientôt décrocher un grand rôle! | You will soon land a great role! | #260: attendre la bonne proposition | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Hello Sophia, are you doing well today?' Camille warmly greets the young actress at the agency entrance.
@@ -38,4 +39,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Everyone talks about that nude scene.' Sophia laments being reduced to a single scandalous movie moment.
 - 'But the audience truly loved the film.' Herve reminds her of the positive critical and viewer reception.
 - 'That is rather complimentary for an actress!' Herve playfully frames the public attention as a compliment.
-- 'You will soon land a great role!' Camille encourages Sophia to stay confident and patient.
+- 'You will soon land a great role!' Camille encourages Sophia to stay confident and patient. Now let's listen to the agency conversation once more from start to finish.

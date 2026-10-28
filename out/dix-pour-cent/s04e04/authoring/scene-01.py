@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'Come, your fans are waiting at the dressing rooms.' Gabriel guides the leading lady toward greeting her guests."),
     (11, None, "'I am coming, let us let the stage rest.' Sandrine takes a last look back at the quiet empty stage."),
     (12, None, "'A big bravo for your talent.' Gabriel reiterates his boundless admiration for her artistic dedication."),
-    (13, None, "'Thank you for your faithful support, Gabriel.' Sandrine expresses deep appreciation for Gabriel's companionship."),
+    (13, None, "'Thank you for your faithful support, Gabriel.' Sandrine expresses deep appreciation for Gabriel's companionship. Now let's listen to Gabriel and Sandrine's exchange once more from start to finish."),
 ]

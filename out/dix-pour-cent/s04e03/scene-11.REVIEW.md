@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Sofia | Je veux donner le meilleur aujourd'hui. | I want to give the best today. | #457: cette femme | verbatim |
 | 14 | Camille | Montre-leur ta force devant la caméra! | Show them your strength in front of the camera! | #485: boulot | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Camille, can you help me a bit?' Sofia asks her agent for a helping hand with her dress.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Do not think about that award anymore.' Camille encourages Sofia to focus on the present photoshoot.
 - 'You have an immense talent, Sofia.' Camille reminds her of her unique charisma and acting gifts.
 - 'I want to give the best today.' Sofia finds her determination to shine for the photographer.
-- 'Show them your strength in front of the camera!' Camille gives a final boost of confidence before the flashbulbs fire.
+- 'Show them your strength in front of the camera!' Camille gives a final boost of confidence before the flashbulbs fire. Now let's listen to the complete discussion once more to reinforce the vocabulary.

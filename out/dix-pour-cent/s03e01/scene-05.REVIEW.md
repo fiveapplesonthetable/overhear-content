@@ -24,6 +24,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 12 | Mathias | Qui est donc cet Émile Berthier, Gabriel? | Who then is this Emile Berthier, Gabriel? | #84: Émile Berthier. | verbatim |
 | 13 | Gabriel | Je ne comprends absolument rien à cette signature! | I understand absolutely nothing about this signature! | #84: Émile Berthier. | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'The contract for Guillaume Canet is signed!' Mathias announces that he has finalized the deal for his client.
@@ -38,4 +39,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'What letter B on my contract?' Gabriel looks down in confusion at the contract lines.
 - 'Look here, it says Emile Berthier.' Camille reads out the completely unfamiliar alias written on the page.
 - 'Who then is this Emile Berthier, Gabriel?' Mathias immediately questions the validity of the contract.
-- 'I understand absolutely nothing about this signature!' Gabriel realizes with dread that something is very wrong.
+- 'I understand absolutely nothing about this signature!' Gabriel realizes with dread that something is very wrong. Now let's listen to the scene once more from start to finish.

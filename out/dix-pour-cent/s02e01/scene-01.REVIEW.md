@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Ramzy | Jamais, je suis un pro. | Never, I am a pro. | #23: Jamais, je suis un pro. | verbatim |
 | 14 | Virginie | Ça va aller. Merci beaucoup. | It will be fine. Thank you very much. | #25: Ça va aller.<br>#26: Merci beaucoup. | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'You have lived together for many years.' The radio host notes that Virginie and Ramzy have been a couple for many years.
@@ -36,8 +37,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Equal pay is important in every profession.' Virginie states proudly that equal pay is vital in every profession.
 - 'Two equal fees, into the same account.' Ramzy jokes that both equal fees go straight into the same joint bank account.
 - 'Everyone is happy, even our agent.' Virginie adds with a smile that everyone is happy, including their agent Mathias.
-- 'Do you have the same agent?' A straightforward question checking a surprising professional arrangement.
-- 'We share everything. Absolutely everything.' The verb meaning to share followed by an intensifying adverb.
-- 'Good luck with the film! Are you anxious?' A polite well-wishing expression followed by a plural adjective.
-- 'Never, I am a pro.' A negative frequency adverb followed by the verb to be.
-- 'It will be fine. Thank you very much.' A reassuring conversational formula ending with gratitude.
+- 'Do you have the same agent?' The journalist checks a surprising professional arrangement.
+- 'We share everything. Absolutely everything.' Ramzy boasts that they share everything, repeating the word for emphasis.
+- 'Good luck with the film! Are you anxious?' The journalist offers polite good wishes before asking if they feel anxious.
+- 'Never, I am a pro.' Ramzy boasts that he is never anxious because he is a pro.
+- 'It will be fine. Thank you very much.' Virginie ends with gratitude.

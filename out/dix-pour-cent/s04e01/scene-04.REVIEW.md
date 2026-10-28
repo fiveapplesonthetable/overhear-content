@@ -25,19 +25,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Noémie | Mathias sera totalement sous le charme. | Mathias will be totally charmed. | #192: une question de séduction | verbatim |
 | 14 | Le vendeur | Vous brillerez sur le tapis rouge. | You will shine on the red carpet. | #181: La Cérémonie des César | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Is it for a birthday party?' A courteous inquiry seeking the occasion for the new outfit.
-- 'No, it is for the Cesar ceremony.' A proud specification identifying France's premier cinematic gala.
-- 'I have dressed many great actresses.' An impressive claim showcasing the stylist's celebrity fashion credentials.
-- 'Here is a chic and understated dress.' A polite proposal showcasing a conventional and understated garment.
-- 'This classic dress is rather boring.' A frank rejection dismissing understated elegance as uninspiring.
-- 'Do you dress to impress the public?' A discerning question exploring the shopper's true stylistic motives.
-- 'For me, it is a matter of seduction.' A candid declaration prioritizing personal allure and romantic impact.
-- 'I understand, you love contrasts.' An intuitive observation recognizing her taste for creative tension in style.
-- 'Here is a flashy and daring design.' An enthusiastic suggestion presenting a vibrant and daring garment.
-- 'This daring outfit is so me!' An elated endorsement recognizing the dress as an authentic reflection of her spirit.
-- 'A woman must embrace her contradictions.' A spirited personal philosophy celebrating individuality and complex charm.
-- 'It will give you an unforgettable look.' A professional compliment predicting a memorable aesthetic impact.
-- 'Mathias will be totally charmed.' An affectionate remark anticipating her partner's delighted admiration.
-- 'You will shine on the red carpet.' A flattering prediction foreseeing a dazzling entrance on cinema's biggest night.
+- 'Is it for a birthday party?' The salesman seeks the occasion for the new outfit.
+- 'No, it is for the Cesar ceremony.' Noémie identifies France's premier cinematic gala.
+- 'I have dressed many great actresses.' The salesman showcases the stylist's celebrity fashion credentials.
+- 'Here is a chic and understated dress.' The salesman showcases a conventional and understated garment.
+- 'This classic dress is rather boring.' Noémie dismisses understated elegance as uninspiring.
+- 'Do you dress to impress the public?' The salesman explores the shopper's true stylistic motives.
+- 'For me, it is a matter of seduction.' Noémie prioritizes personal allure and romantic impact.
+- 'I understand, you love contrasts.' The salesman recognizes her taste for creative tension in style.
+- 'Here is a flashy and daring design.' The salesman presents a vibrant and daring garment.
+- 'This daring outfit is so me!' Noémie recognizes the dress as an authentic reflection of her spirit.
+- 'A woman must embrace her contradictions.' Noémie celebrates individuality and complex charm.
+- 'It will give you an unforgettable look.' The salesman predicts a memorable aesthetic impact.
+- 'Mathias will be totally charmed.' Noémie anticipates her partner's delighted admiration.
+- 'You will shine on the red carpet.' The salesman foresees a dazzling entrance on cinema's biggest night. Now let's listen to Noemie and the stylist chatting again at full speed.
