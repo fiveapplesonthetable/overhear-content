@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'louis': 'Луи'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.09'
 SOURCE_FILE = 'sources/kukhnya/s01/e09.ru.dual.srt'
-INTRO = "At Claude Monet, Chef Barinov discovers his young daughter Alisa happily painting the face of pastry chef Louis in the kitchen. Relieved that she is safe and occupied, Barinov allows her to stay under one strict condition: no whiskey under any circumstances. Let's listen to their conversation in Russian."
-OPENER = "Let's examine the dialogue sentence by sentence. Notice the parental instructions, strict prohibitions, and pastry culinary terminology."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Reassured that his daughter is safe with Louis and delighted by the lucrative dessert order, Chef Barinov leaves the kitchen in good spirits. Great work practicing conversational Russian! Next time you watch the episode, listen for the Russian expressions for 'banquet' and 'to be' — you will catch every word right away. See you next time!"
+INTRO = "It's later in the same long day. Alisa is with Louis in the pastry section, and she has used his face as a drawing board. Barinov arrives to check on the cake and on his daughter. Here's the scene in Russian first."
+OPENER = "Now let's take it a line at a time."
+TRANSITION = 'And here it all is again, from the top.'
+OUTRO = "The banquet will go well, and Alisa will stay. The only rule is the one about whiskey. Next, we'll see how the evening ends. Until next time."
 CLOSING = ('louis', 'Пока!')
 STORY = [
     ('barinov', 'Луи, ты отлично справляешься с Алисой.', 'Louis, you are handling Alisa great.', [(323, 'Луи')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('louis', 'Шеф, наш банкет пройдёт на высшем уровне!', 'Chef, our banquet will go at the highest level!', [(340, 'нашего банка')], ''),
 ]
 WALK = [
-    (0, None, "'Louis, you are handling Alisa great.' Finding Alisa happily occupied in the kitchen, Barinov praises Louis for handling her so well."),
-    (1, None, "'Chef, she was simply drawing on my face!' With painted cheeks covered in frosting, Louis explains that she was just drawing on his face."),
-    (2, None, "'Fine, let her stay here with you.' Relieved that she is staying out of trouble, Viktor lets her remain at Louis's station."),
-    (3, None, "'Just remember the main and strict rule.' However, the chef tells Louis to remember one strict rule."),
-    (4, None, "'Under no circumstances can she have whiskey!' Joking darkly about his own habits, Viktor warns that under no circumstances is the child allowed whiskey."),
-    (5, None, "'Chef, I remember your strict words perfectly.' Louis solemnly assures the chef that he remembers every word of his rules."),
-    (6, None, "'I prepared a magnificent cake for the important banquet.' Turning to his work, Louis shows off the magnificent cake he finished for the banquet."),
-    (7, None, "'The guests paid huge money for it!' Viktor reminds him that the bank clients paid a fortune for this reception."),
-    (8, None, "'They gave a whole hundred thousand rubles!' Louis marvels that the guests paid a full hundred thousand rubles for the order."),
-    (9, None, "'They know that you are a famous pastry chef.' Barinov flatters Louis by saying the clients know he is a renowned French pastry chef."),
-    (10, None, "'French desserts always cost very much.' Louis proudly agrees that genuine French desserts always command a high price."),
-    (11, None, "'The main thing is that all guests are satisfied.' Viktor says the only thing that matters now is keeping every guest happy."),
-    (12, None, "'Chef, our banquet will go at the highest level!' Louis promises that their banquet dessert will be a triumph."),
+    (0, None, '\'Louis, you are handling Alisa great.\' The "cope with" word is the one Louis used in the first scene, when he said he couldn\'t manage alone. Now it\'s a compliment. Barinov flatters, and this time he means it.'),
+    (1, None, '\'Chef, she was simply drawing on my face!\' Louis protests, and we can imagine the marker lines. "On my face" has an ending that means "on", and the girl\'s "was drawing" has her -la on the end. He sounds more hurt than angry.'),
+    (2, None, '\'Fine, let her stay here with you.\' The "let" word is the same one Louis used when he said "let him wash dishes". Barinov is easy about it, as long as someone else is in charge. He leaves the child with the nearest adult.'),
+    (3, None, '\'Just remember the main and strict rule.\' The term for "main" is also "the main thing". "Strict" comes from the same family as the strict chef himself. He is serious now, because the rule is serious, and everybody knows it.'),
+    (4, None, '\'Under no circumstances can she have whiskey!\' Russian says "not under any circumstances", with the double negative. And the "not allowed" word is the one from the chocolate rule. The russian for whiskey never changes its ending, since it\'s borrowed.'),
+    (5, None, '\'Chef, I remember your strict words perfectly.\' Louis says "your" the polite way, as he does with the chef. The word for "perfectly" is the same as "wonderfully". He is a calm man again, after the mess with the clamp.'),
+    (6, None, '\'I prepared a magnificent cake for the important banquet.\' The "prepared" word is the one from the first scene, now in the past with the man\'s -l. Louis is proud of his work, and rightly. He drops "banquet" in again as if it were a rank.'),
+    (7, None, '\'The guests paid huge money for it!\' "Money" is always plural in Russian, so it is "huge monies" there. Barinov states how much is at stake. And "paid" has the guests\' plural ending. Everyone in the room has an opinion on the price.'),
+    (8, None, '\'They gave a whole hundred thousand rubles!\' "A whole" is the same as in "a whole half-hour". The hundred is a short, plain word, and the thousand follows. Louis gets to name the price, and it sounds enormous.'),
+    (9, None, '\'They know that you are a famous pastry chef.\' The russian for "famous" is built from the term for "known". Barinov hands out a compliment, which is rare. Louis can enjoy it, and probably wants to frame it.'),
+    (10, None, '\'French desserts always cost very much.\' The russian for "dearly" comes from the word for "dear", so "dear" and "expensive" are the same idea. Louis is proud to be French, and proud of the price. He is a happy man at last.'),
+    (11, None, '\'The main thing is that all guests are satisfied.\' The "so that" word is back from the baking lesson. "Satisfied" is the Russian for "pleased". Barinov names the point of the whole day, and he sounds like a chef again.'),
+    (12, None, '\'Chef, our banquet will go at the highest level!\' It\'s an idiom: "at the highest level" for "top-notch". The term for "go" is really "pass", the same one as in "how did it go". Louis finishes on a flourish.'),
 ]

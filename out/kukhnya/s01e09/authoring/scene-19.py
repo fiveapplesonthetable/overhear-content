@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.09'
 SOURCE_FILE = 'sources/kukhnya/s01/e09.ru.dual.srt'
-INTRO = "After the high-stakes bank banquet successfully wraps up at Claude Monet, Vika anxiously checks in with Chef Barinov about the evening's results. As Barinov happily confirms that the guests were thrilled with the cake, both reflect on the astonishing discoveries of human nature and parenthood. Let's listen to their conversation in Russian."
-OPENER = "Let's examine the dialogue sentence by sentence. Notice the expressions of relief, philosophical reflections on teamwork, and parenting dynamics."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Pleased by the successful banquet and enlightened by the trials of the day, Vika and Chef Barinov share a rare moment of mutual understanding. Great work practicing conversational Russian! Next time you watch the episode, listen for the Russian expressions for 'banquet' and 'big' — you will catch every word right away. See you next time!"
+INTRO = "The banquet is over. In the quiet that follows, Vika asks Barinov how it went. The two of them talk about the day, and about children. Here's the scene in Russian first."
+OPENER = "Let's take it slowly now."
+TRANSITION = 'One more time, the whole conversation.'
+OUTRO = 'The day has taught them both something. Barinov has found out that a child is harder than a brigade, and Vika has been reassured. See you in the next scene.'
 CLOSING = ('vika', 'Пока!')
 STORY = [
     ('vika', 'Виктор, скажи, как прошёл этот сложный банкет?', 'Viktor, tell me, how did this difficult banquet go?', [(341, 'Ну и как, банкет')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('vika', 'Я рада, что этот вечер закончился успешно!', 'I am glad that this evening ended successfully!', [(341, 'Все хорошо')], ''),
 ]
 WALK = [
-    (0, None, "'Viktor, tell me, how did this difficult banquet go?' Once the banquet wraps up, Vika checks in with Viktor to ask how the stressful evening went."),
-    (1, None, "'Everything went simply wonderfully and very calmly.' Barinov happily reports that everything went smoothly and calmly in the end."),
-    (2, None, "'And what happened to our celebration cake?' Remembering the earlier chaos, Vika asks what happened with the celebration cake."),
-    (3, None, "'Nothing terrible, all the guests remained very pleased!' Viktor reassures her that nothing went wrong and the guests were thrilled."),
-    (4, None, "'Well, thank goodness, I was worrying intensely.' Vika breathes a sigh of relief and admits she had been worried sick."),
-    (5, None, "'We make astonishing discoveries every day.' Reflecting on the day, Viktor muses that we make surprising discoveries every day."),
-    (6, None, "'Sometimes a person wants to save, not destroy.' Sometimes a person's instinct is to protect and save rather than tear things down."),
-    (7, None, "'Yes, I clearly understood that today too.' Barinov nods and says he realized that clearly today too."),
-    (8, None, "'You think that you easily manage a big team.' It is easy to think you are a master at commanding a big team of adults."),
-    (9, None, "'And handling a little child is much harder!' Yet handling one little child turns out to be a hundred times harder."),
-    (10, None, "'Children demand much patience and real care.' Vika agrees that children take endless patience and genuine care."),
-    (11, None, "'But my daughter brought us great luck.' Still smiling, Viktor says his daughter ended up bringing the restaurant great luck tonight."),
-    (12, None, "'I am glad that this evening ended successfully!' Vika says she is glad the long evening finished on such a happy note."),
+    (0, None, '\'Viktor, tell me, how did this difficult banquet go?\' Vika\'s "tell" is a command from the word Alisa used for "I will tell". "How did it go" is "how did it pass" in Russian. She sounds tired, and she wants the news.'),
+    (1, None, '\'Everything went simply wonderfully and very calmly.\' "Everything" is neuter, so "went" ends in -o to match. The words for "wonderfully" and "calmly" are both adverbs ending in -o. Barinov gives her the polite version of the day.'),
+    (2, None, '\'And what happened to our celebration cake?\' The Russian is "what happened with our festive cake", and all three words after "with" take the "by means of" endings. Vika has heard something, and she asks it lightly.'),
+    (3, None, '\'Nothing terrible, all the guests remained very pleased!\' "Nothing frightening" is the set phrase for "no big deal" that you heard in the knife scene. Barinov is relieved and a bit smug, and he says it with a wave of the hand.'),
+    (4, None, '\'Well, thank goodness, I was worrying intensely.\' "Glory to God" is the Russian "thank goodness", the same one Alisa quoted from her mother. The woman\'s -las on "worried" tells you Vika is speaking. She lets out her breath.'),
+    (5, None, '\'We make astonishing discoveries every day.\' The russian for "discovery" grows from the word for "to open", so a discovery is an "opening". Barinov is in a philosophical mood, which happens after a long day.'),
+    (6, None, '\'Sometimes a person wants to save, not destroy.\' The russian for "save" shares a root with the word Russians say for "thank you", which started as "God save". Vika is in a thoughtful mood too, and she says it softly.'),
+    (7, None, '\'Yes, I clearly understood that today too.\' Barinov agrees with her. The "g" in the term for "today" is said as a "v", which is a common oddity in Russian spelling. "Understood" ends in the man\'s -l.'),
+    (8, None, '\'You think that you easily manage a big team.\' "Steer" is the word Alisa used for controlling the rat, and here it stands for managing the kitchen. Vika is describing Barinov, and she is kind about it.'),
+    (9, None, '\'And handling a little child is much harder!\' It\'s the "cope" word again, with a comparative: "harder" is just "hard" with an ending, like "faster" earlier. Barinov says it with the weariness of a man who has learned something.'),
+    (10, None, '\'Children demand much patience and real care.\' The russian for "demand" is the one Barinov used when he wanted silence. Vika says it like a rule she has learned, and it sounds right. "Patience" and "care" take the "of" ending.'),
+    (11, None, '\'But my daughter brought us great luck.\' "Brought" has the woman\'s ending because the daughter is a girl. The word for luck is a gentle, positive one. Barinov sees the day\'s silver lining, and he means it.'),
+    (12, None, '\'I am glad that this evening ended successfully!\' Vika uses the woman\'s form of "glad". The russian for "ended" has the -sya, "ended by itself", where the baking lesson\'s "finished" took an object. She can go home.'),
 ]

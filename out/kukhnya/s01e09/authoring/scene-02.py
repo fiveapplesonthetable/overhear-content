@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.09'
 SOURCE_FILE = 'sources/kukhnya/s01/e09.ru.dual.srt'
-INTRO = "In the dining room of Claude Monet, restaurant administrator Victoria agrees to watch her young niece Alisa during a busy shift. But when Chef Viktor Barinov spots his ex-wife and daughter, an emotional argument erupts over who should care for the girl. Let's listen to their conversation in Russian first."
-OPENER = "Now let's examine Victoria and Chef Barinov's conversation line by line."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "With Alisa eagerly choosing to stay with her father, Chef Barinov takes charge of his daughter for the day, promising to keep her entertained while Victoria returns to managing the dining room. Next time you watch the episode, listen for the Russian expressions for 'evening' and 'tasty' — you will catch every word right away. See you next time!"
+INTRO = "Barinov has given Max to Louis, so that's settled. Now to the dining room, where Vika, who looks after the restaurant's guests and events, has a day of her own to get through. Her niece Alisa needs minding, and Alisa's father happens to be the chef. First the whole scene in Russian, no pressure."
+OPENER = "Now we'll take it one line at a time."
+TRANSITION = 'Now the whole scene again, without stopping.'
+OUTRO = 'So Alisa picks her father, and Vika is left with the dining room and a warning about chocolate. That chocolate will matter later. Speak soon.'
 CLOSING = ('vika', 'Пока!')
 STORY = [
     ('vika', 'Виктор, у меня сегодня много работы.', 'Viktor, I have a lot of work today.', [(38, 'у меня еще сегодня банкет.')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('vika', 'Смотри за ней внимательно до вечера.', 'Watch her attentively until the evening.', [(82, 'Вика, до вечера.')], ''),
 ]
 WALK = [
-    (0, None, "'Viktor, I have a lot of work today.' With her niece visiting during a busy shift, Vika tells Viktor she is swamped with work today."),
-    (1, None, "'What is the matter, dear Victoria?' Barinov asks Victoria what the problem is."),
-    (2, None, "'My sister asked me to babysit Alisa.' Vika explains that her sister asked her to look after little Alisa for the day."),
-    (3, None, "'And why with you and not with me?' Since Alisa is Viktor's own daughter, he feels hurt and asks why Tanya trusted Vika instead of him."),
-    (4, None, "'Because you are always busy in the kitchen.' Vika reminds him frankly that he is always tied up running the kitchen."),
-    (5, None, "'I want to spend time with my daughter myself.' Stung by the remark, Viktor insists he wants to spend time with his daughter himself."),
-    (6, None, "'Alisa, who do you want to stay with?' To settle it fairly, Vika bends down and asks Alisa who she wants to stay with."),
-    (7, None, "'My daughter wants to stay with her dad.' Viktor proudly answers for her, declaring that his little girl wants to stay with her dad."),
-    (8, None, "'Well, you decided everything yourselves.' Seeing the two of them team up, Vika smiles and says they have made their choice."),
-    (9, None, "'I will buy her delicious sweet chocolate.' Wanting to spoil his daughter, Viktor promises to buy her delicious sweet chocolate."),
-    (10, None, "'Remember, she is not allowed to eat chocolate.' Vika immediately warns him to stop, reminding him that Alisa is not allowed to eat chocolate."),
-    (11, None, "'Do not worry, Vika, I know everything.' Brushing off the warning, Barinov tells Vika not to worry because he knows all about his daughter."),
-    (12, None, "'Watch her attentively until the evening.' Vika tells him to keep a close eye on the girl until evening."),
+    (0, None, '\'Viktor, I have a lot of work today.\' It\'s the same "at me" pattern as in the last scene: "at me today a lot of work". Vika uses his first name, Viktor, so these two know each other well.'),
+    (1, None, '\'What is the matter, dear Victoria?\' Word for word it\'s "in what is the matter?". Barinov uses her full name, Victoria, instead of Vika, and puts a sweet "dear" in front. It\'s a man turning on the charm.'),
+    (2, None, '\'My sister asked me to babysit Alisa.\' Russian babysits by saying "sit with": you "sit with" a child. The sister is Tanya, Alisa\'s mother. And the Russian for "asked" ends in -a because a woman did the asking.'),
+    (3, None, '\'And why with you and not with me?\' It\'s short and blunt: "with you, not with me", and the little word "a" sets the two against each other. Barinov is the father, and he\'s hurt that nobody thought of him.'),
+    (4, None, '\'Because you are always busy in the kitchen.\' "Potomu chto" is "because", literally "for that what". "Zanyat" is "busy", and there\'s no word for "are". Vika isn\'t unkind, just honest.'),
+    (5, None, '\'I want to spend time with my daughter myself.\' The word "sam" is "myself", as in "me, personally". The term for "spend" here also means "lead through", so you guide your time along like a walk. It\'s an odd picture and a very common phrase.'),
+    (6, None, '\'Alisa, who do you want to stay with?\' "S kem" is "with whom", and the Russian for "stay" really means "stay behind". Vika uses "ty" with the little girl, as you do with any child.'),
+    (7, None, '\'My daughter wants to stay with her dad.\' "Doch" is "daughter", and "dochka" is the fond, softer version. Barinov beats the girl to the answer. He says "with his own dad", using "svoim" for "one\'s own".'),
+    (8, None, '\'Well, you decided everything yourselves.\' "Nu vot" is "well, there you are". Here "vy" means "you two", so it\'s plural, and "sami" is "yourselves". Vika shrugs. She knows she has lost.'),
+    (9, None, '\'I will buy her delicious sweet chocolate.\' Barinov starts spoiling his daughter at once. "Ey" is "for her", and "kuplyu" is "I will buy". Two describing words sit in front of the chocolate, tasty and sweet, as if he were selling it.'),
+    (10, None, '\'Remember, she is not allowed to eat chocolate.\' "Nelzya" is one handy word for "not allowed" or "must not", and Russian puts it as "to her, not allowed". "Pomni" is a bare command, "remember", with no "you" needed.'),
+    (11, None, '\'Do not worry, Vika, I know everything.\' "Ne volnuysya" is "don\'t worry". The -sya on the end is a small "yourself", like "don\'t get yourself worked up". Barinov is overconfident, and the story is about to prove it.'),
+    (12, None, '\'Watch her attentively until the evening.\' "Smotri za ney" is "look after her": the word "look" plus the small word "za", "after". "Do vechera" is "until evening". Vika gives her orders and keeps an eye on the clock.'),
 ]

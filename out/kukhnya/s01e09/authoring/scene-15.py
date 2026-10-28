@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'alisa': 'Алиса', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.09'
 SOURCE_FILE = 'sources/kukhnya/s01/e09.ru.dual.srt'
-INTRO = "Allergic red spots have indeed broken out across Alisa's face, driving Chef Barinov to write his humorous last will. While Barinov trembles in his office, Alisa wanders over to the pastry section where Max is admiring his latest cake. Examining Max's romantic dessert, the observant child casually drops a revelation that catches Max completely off guard. Let's listen to their sweet and surprising chat in Russian first."
-OPENER = "Let's break down this charming exchange line by line. Notice how childlike logic uncovers hidden romantic truths in conversational Russian."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Stunned by Alisa's innocent gossip, Max is left with a racing heart and a big smile. Fantastic job exploring emotional storytelling in conversational Russian! Next time you watch the episode, listen for the Russian expressions for 'important' and 'tasty' — you will catch every word right away. See you next time!"
+INTRO = "Alisa has red spots on her face, and Barinov is writing his will. While he is in his office, Alisa goes to the pastry section, where Max is admiring a cake. She spots something about the cake that Max would rather she hadn't. Here's the scene in Russian first."
+OPENER = "Now let's slow it down and look at each line."
+TRANSITION = "And here's the whole scene once more."
+OUTRO = 'Max has just learned that Vika loves him, from a child, and he looks stunned. He was told by the least likely person. See you in the next scene.'
 CLOSING = ('alisa', 'Пока!')
 STORY = [
     ('max', 'Алиса, что за красные пятна появились?', 'Alisa, what kind of red spots have appeared?', [(294, 'Ой, а что это у нее на лице')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('max', 'Ого, вот это настоящая важная новость!', 'Wow, that is real important news!', [], ''),
 ]
 WALK = [
-    (0, None, "'Alisa, what kind of red spots have appeared?' When Alisa wanders back to the pastry counter, Max notices her cheeks and asks where those red spots came from."),
-    (1, None, "'I really cannot eat chocolate at all.' Alisa casually admits that she is actually allergic to chocolate."),
-    (2, None, "'Papa got scared and is writing his will!' Max jokes that her father is so terrified of her mom's reaction that he is writing his last will."),
-    (3, None, "'Wow, what a handsome sweet cake!' Spotting the dessert on Max's counter, Alisa gasps at what a pretty cake he made."),
-    (4, None, "'You like it? I made it myself.' Pleased, Max asks if she likes it and says he baked it himself."),
-    (5, None, "'Did you make it for Aunt Vika?' Guessing his crush, the perceptive girl asks if he made the cake for Aunt Vika."),
-    (6, None, "'Why do you think about Aunt Vika?' Caught off guard, Max asks why she immediately thought of Vika."),
-    (7, None, "'Papa always made tasty food for Mama.' Alisa explains her logic: her dad always cooked special treats for her mom."),
-    (8, None, "'And what is this supposed to mean at all?' Max asks what that has to do with him."),
-    (9, None, "'So Papa loves my Mama very much.' Alisa says cooking for someone means you love them very much."),
-    (10, None, "'But Vika and I are just friends.' Turning red, Max claims that he and Vika are just friends."),
-    (11, None, "'And Aunt Vika said that she loves you!' Alisa cheerfully lets slip that Aunt Vika told her she loves Max."),
-    (12, None, "'Wow, that is real important news!' Stunned and delighted, Max calls that a huge piece of news."),
+    (0, None, '\'Alisa, what kind of red spots have appeared?\' "What for" is how Russian asks "what kind of", literally. Max is mostly curious. The russian for red is also an old word for beautiful, which is why Red Square has that name.'),
+    (1, None, '\'I really cannot eat chocolate at all.\' Alisa says "to me after all completely not allowed". The "after all" is the little word from the last scene, the "but you know" one. She answers like a child who has heard the rule a hundred times.'),
+    (2, None, '\'Papa got scared and is writing his will!\' The ending that means "himself" turns up in "got scared", as if fear happened to him. The will is the legal one, and Max says it with a grin. Barinov is dramatic in any language.'),
+    (3, None, '\'Wow, what a handsome sweet cake!\' Alisa\'s "wow" is a short, admiring sound. The word for "handsome" or "beautiful" is the same one she used about her father. She isn\'t easily impressed, so this is real praise.'),
+    (4, None, '\'You like it? I made it myself.\' Russian doesn\'t say "do you like it". It says "is it pleasing", just as the guest\'s taste did earlier. Max stresses that he did it himself. He\'s proud, and he wants to hear it.'),
+    (5, None, '\'Did you make it for Aunt Vika?\' After the Russian for "for", both words change their ending, and names do too: Vika becomes "Viki". Alisa asks it as plain fact, and that is the problem. Max has been seen through by a child.'),
+    (6, None, '\'Why do you think about Aunt Vika?\' After the term for "about", the endings change again, so Vika turns into "Viku". Max tries to sound casual, and he does not manage it. He answers a question with a question.'),
+    (7, None, '\'Papa always made tasty food for Mama.\' The cooking word is back, with the man\'s -l. "To Mama" has its own ending. Alisa has noticed that her father cooks for the people he loves, which is a sharp thing to notice.'),
+    (8, None, '\'And what is this supposed to mean at all?\' The russian for "supposed to" and the word for "to mean" sit next to each other. Max is confused, and his question is a good one. The little "at all" filler is back again.'),
+    (9, None, '\'So Papa loves my Mama very much.\' The first word is literally "means", and Russians use it as "so" when they draw a conclusion. Alisa works it out like a detective, and she delivers it without any fuss.'),
+    (10, None, '\'But Vika and I are just friends.\' Russian says "we with Vika" for "Vika and I". It is the usual way to put it. Max is trying to wriggle out, and he sounds a bit too quick.'),
+    (11, None, '\'And Aunt Vika said that she loves you!\' Alisa\'s "said" has the woman\'s ending, because it\'s Vika who said it. She has heard it from the source, and she passes it on. The kitchen\'s other secret is out.'),
+    (12, None, '\'Wow, that is real important news!\' The russian for news is one piece in Russian, singular, so "a piece of news". The "wow" is the one from the dining room scene. Max hasn\'t been so happy all day.'),
 ]
