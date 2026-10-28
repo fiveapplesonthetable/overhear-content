@@ -31,9 +31,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Step aside a little, do not disturb me!' "Otoydi" is "step away", and "v storonu" is "to the side". "Ne meshay mne" is "don't disturb me", with "mne", "to me", because Russian disturbs "to" someone.
 - 'Excuse me, Chef, I am simply watching carefully.' "Izvinite" is the formal "excuse me", and "smotryu" is "I look". Max says "I look" for "I'm watching", with "vnimatel'no", "carefully", in the middle.
 - 'Exactly three minutes remain until the dish is ready.' "Ostalos'" is "remained": Russian says "there remained three minutes". After "tri", three, "minuta" becomes "minuty", while after seven it lost its ending completely: "minut".
-- 'Keep close watch on the fire on the skillet.' "Prosledi" is "watch through", from "sledit'", to follow. "Ogon'" is fire, as in the flame under the pan, and "na skovorode" is "on the pan".
+- 'Keep close watch on the fire on the skillet.' "Prosledi za", "keep watch on", uses the same "za" as "sledi za poryadkom" at the cutting board. "Ogon'" is fire, and "na skovorode" is "on the pan".
 - 'Yes, Chef, I am not stepping away anywhere!' "Ne otkhozhu nikuda" is a double negative: "not... nowhere". "Nikuda" is built like "nikogda", "never", and both begin with "ni-".
-- 'The main thing is do not overcook this tender fillet.' "Perezhar'" is "pere-", over, plus "zharit'", to fry: over-fry. "Glavnoye" is "the main thing", a relative of "glavnyy", main.
-- 'I will remove the pan from the hot stove on time.' "Vovremya" is "v", in, plus "vremya", time: on time. "Snimu" means "I will take off", and "goryachey" is "hot", in the form that follows "s".
-- 'Serve the meat to the guests on a hot plate.' "Podavay" is "serve", from "pod-" and "davat'", to give: you hand it up to the table. "Gostyam" is "to the guests": the "-am" ending means "to".
+- 'The main thing is do not overcook this tender fillet.' "Perezhar'" is "pere-", over, plus "zharit'", to fry: over-fry. "Glavnoye" is "the main thing", made from "glavnyy", main.
+- 'I will remove the pan from the hot stove on time.' "Vovremya", "on time", is "v", in, plus "vremya", time, written as one word. "S goryachey plity" is "off the hot stove": after "s" meaning "off", "plita" becomes "plity".
+- 'Serve the meat to the guests on a hot plate.' "Podavay" is "serve", and inside it is "davat'", to give. "Gostyam" is "to the guests": "-am" means "to" when it's a group.
 - 'It will be executed in the very best form!' "Budet ispolneno" is the sort of thing a soldier says: "it will be carried out". It doesn't even say "I". "V samom luchshem vide" is "in the very best form".

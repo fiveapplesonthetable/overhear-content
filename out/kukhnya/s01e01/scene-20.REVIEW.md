@@ -30,14 +30,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Chef, I have an excellent idea.' "U menya yest'" is "at me there is", the full form of "I have". Earlier it was just "u menya dela", with "yest'" left out.
 - 'I can prepare my signature dish.' "Mogu" is "I can". "Firmennoye" comes from "firma", company, so a "firmennoye blyudo" is the house's own dish.
 - 'It is tender chicken in cream sauce.' "Nezhnaya" is "tender", and "kuritsa" is "chicken". "Slivochnyy" comes from "slivki", cream, and "v souse" is "in the sauce".
-- 'A magnificent idea from an unknown person.' "Velikolepnaya" has "velikiy", great, inside it. "Neizvestnogo" is "ne" plus "izvestnyy", known. The chef is being sarcastic.
+- 'A magnificent idea from an unknown person.' "Velikolepnaya" has "velikiy", great, inside it. "Neizvestnogo" is "ne" plus "izvestnyy", known, so "unknown". Praise this big from Barinov is a joke at Max's expense.
 - 'You came to my kitchen by accident.' "Sluchayno" comes from "sluchay", chance, which is also in "chto sluchilos'", "what happened". "Na moyu kukhnyu" is "to my kitchen".
 - 'Better keep peeling bananas!' "Luchshe" is "better", used as "you'd better". "Chisti" is the command "peel", from "chistyy", clean. "Dal'she" is "further", meaning "keep going".
-- 'Why peel off these stickers at all?' "Zachem" is "what for". "Snimat'" is "to take off", the family of "snimu". "Nakleyki" are stickers, from "kleit'", to stick.
-- 'For ideal order in the universe.' "Poryadok" is "order", the word from "keep order on your table". "Vo vselennoy" is "in the universe", and "v" becomes "vo" before two consonants.
+- 'Why peel off these stickers at all?' "Zachem" is "what for". "Snimat'" is "to take off", the everyday partner of "snimu" from the stove. "Nakleyki" are stickers, from "kleit'", to glue.
+- 'For ideal order in the universe.' "Poryadok" is "order", the word from "keep order on your table". "Vo vselennoy" is "in the universe": "v" becomes "vo" before a heavy cluster like "vs", just to make it sayable.
 - 'But I know how to prepare wonderful desserts.' "No" is the plain "but", different from "a". "Prekrasnyye deserty" is plural, so the describing word ends in "-ye".
 - 'All right, I will give you one chance.' "Dam" is "I will give", irregular and short. "Tebe" is "to you", the friendly form.
-- 'Our regular guest has arrived.' "Postoyannyy" means "regular", from "postoyanno", constantly. "K nam prishyol" is "has come to us".
+- 'Our regular guest has arrived.' "Postoyannyy" means "regular", and its partner "postoyanno" means "constantly". "K nam prishyol" is "has come to us".
 - 'You will prepare dessert for Eleonora Andreyevna.' Names change after "dlya", even the father's name: "Eleonora" becomes "Eleonory", and "Andreyevna" becomes "Andreyevny".
 - 'If the dessert is liked, you will stay here.' "Ponravitsya" is "will please", the future of "nravit'sya". "Ostanyosh'sya" is "you will stay", the "self" ending included.
-- 'Agreed, chef! I will make the best dessert.' "Dogovorilis'" is "we have agreed", the same word as "we didn't agree". "Luchshiy" already means "best", with no need for "very".
+- 'Agreed, chef! I will make the best dessert.' "Dogovorilis'!" is the everyday "deal!", the finished partner of "dogovarivalis'" from the morning after. "Luchshiy" already means "best", with no need for "very".

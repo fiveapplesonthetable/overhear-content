@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e01.ru.dual.srt'
 INTRO = 'Vika turns a corner in the corridor and runs straight into Max, the man she met in the nightclub. Max plays it cool and says the head chef is begging him to join the kitchen, which makes her furious. Here is the argument in Russian first.'
 OPENER = 'Now the argument, piece by piece.'
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = 'Vika storms off to check his story with the chef herself. Max, meanwhile, has shown you how a cheeky person swings between "you" and "your".'
+OUTRO = "Vika storms off to check his story with the chef herself. And Max has shown you how a cheeky man can talk his way into a job he hasn't got yet."
 CLOSING = ('vika', 'Пока!')
 STORY = [
     ('vika', 'Подожди минуту... Ты что здесь вообще делаешь?', 'Wait a minute... What are you doing here at all?', [(149, 'Ты что здесь делаешь')], ''),
@@ -31,11 +31,11 @@ STORY = [
     ('vika', 'Я сейчас лично проверю эти нелепые слова!', 'I will personally check these ridiculous words right now!', [(149, 'Ты что здесь делаешь')], ''),
 ]
 WALK = [
-    (0, None, '\'Wait a minute... What are you doing here at all?\' "Podozhdi" is the friendly command "wait", and "minutu" takes an -u. "Vobshche" is "at all", the word that makes her sound exasperated.'),
-    (1, None, '\'Hello, I am simply strolling through your restaurant.\' "Privet" is the casual hello, as opposed to the long polite one. "Po tvoyemu restoranu" is "around your restaurant": "po" calls for that ending.'),
-    (2, None, '\'How did you dare to come into my establishment?\' "Posmel" is "dared", with -l. "Zavedeniye" is a word for any place that\'s been "set up": restaurant, cafe, bar. It sounds a little grand, which suits Vika.'),
-    (3, None, '\'I was just chatting for a long time with your head chef.\' "Tol\'ko chto" is "just now", literally "only what". "Boltal" is slang for chatting. Here Max says "vashim", the polite "your", after "tvoyemu" earlier, so he slides between friendly and formal.'),
-    (4, None, '\'And what did you talk with him about?\' "O chyom" is "about what": "chto" turns into "chyom" after "o". "S nim" is "with him", and Russian adds an "n" to "him" after "s".'),
+    (0, None, '\'Wait a minute... What are you doing here at all?\' "Podozhdi" is the friendly command "wait", and "minuta" turns into "minutu" as the thing she\'s asking for. "Voobshche", "at all", is the word that makes her sound exasperated.'),
+    (1, None, '\'Hello, I am simply strolling through your restaurant.\' "Privet" is the casual hello, nothing like the long polite one. "Po" here means "around", and it changes "tvoy restoran" into "po tvoyemu restoranu".'),
+    (2, None, '\'How did you dare to come into my establishment?\' "Kak ty posmel" is the Russian "how dare you". "Zavedeniye" is any place that\'s been set up, a restaurant, a cafe, a bar, and it sounds a little grand.'),
+    (3, None, '\'I was just chatting for a long time with your head chef.\' "Tol\'ko chto", literally "only what", means "just now". "Boltal" is casual for chatting, and "vashim" is the "your" for a group, because the chef belongs to the whole restaurant, not to Vika alone.'),
+    (4, None, '\'And what did you talk with him about?\' "O chyom" is "about what": "chto" turns into "chyom" after "o". "Razgovarival", "were talking", is a longer cousin of "govorit\'", to speak.'),
     (5, None, '\'He is persistently inviting me to work with him.\' "Nastoychivo" is "persistently", from "nastoychivyy", with the -o ending. "K sebe" is "to himself", which Russian uses for "to his place".'),
     (6, None, '\'You are joking, the chef never takes novices!\' "Shutish\'" comes from "shutka", a joke. "Nikogda ne beryot" is "never not takes", with the double negative. "Novichok" is a newcomer, from "novyy".'),
     (7, None, '\'Here I stand and think, whether to agree or not.\' "Vot stoyu" is "here I stand", close to the English phrase. "Ili net" is "or not", literally "or no".'),

@@ -28,12 +28,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Chop the onion finer, this is a restaurant!' "Mel'che" is "finer": "melkiy", small, with the ending "-che". "Eto zhe restoran" has a tiny word, "zhe", that means "after all", so this is a restaurant, after all.
 - 'Alright, Chef, I try to cut thinner.' "Khorosho" is "good", used as "alright". "Ton'she", thinner, is made like "mel'che": "tonkiy", thin, plus an ending that means "more".
 - 'Now tenderize the fresh meat properly.' "Otbivay" has "bit'", to hit, inside it, so tenderizing is beating the meat flat. Barinov says "ty" to Max, which is why it's a short command. "Svezheye myaso" is "fresh meat".
-- 'I already prepared a special wooden mallet.' "Prigotovil" is "gotovit'", to cook, with "pri-" in front. "Derevyannyy" has "derevo", wood or tree, inside it, and "molotok" is a little "molot", hammer.
+- 'I already prepared a special wooden mallet.' "Prigotovil" is "prepared", the finished partner of "gotovit'", to cook or get ready. "Molotok", a mallet, is a small "molot", a hammer, and "derevyannyy" has "derevo", wood, inside it.
 - 'The meat must become tender and juicy.' "Sochnyy", juicy, comes from "sok", juice. "Dolzhno" is "must", ending in -o because "myaso" is a neuter word. After "stat'", "become", the describing words take the endings "-im" and "-ym".
 - 'How much time does each piece need tenderizing?' "Skol'ko vremeni" is "how much time", and "vremya" turns into "vremeni" after "skol'ko". Max is asking a perfectly fair question.
-- 'Do not ask stupid questions, work faster!' "Zadavat' vopros" is literally "to give a question", the Russian way to say "ask". "Bystreye" is "faster": the "-eye" ending means "more".
+- 'Do not ask stupid questions, work faster!' "Zadavat' vopros" is "to set a question", the Russian way to say "ask". "Bystreye", "faster", is "bystro", quickly, with "-eye" for "more".
 - 'I do everything exactly according to your order.' "Tochno" is "exactly", and "po zakazu" is "according to the order". "Vashemu" is the formal "your", with the ending that goes after "po".
 - 'Keep watch over the order on your work table.' "Svoyom" means "your own", and Russian uses it whenever the owner is the one the sentence is about. "Rabochiy stol" is "work table", made of "rabota" and "stol".
 - 'I always have complete cleanliness here.' "U menya" is "at me" once more, with "zdes'" and "vsegda" in the middle. "Chistota", cleanliness, comes from "chistyy", clean.
-- 'Now the pieces are cut beautifully and neatly.' "Kusochki" are "little pieces": "kusok", a piece, plus a small ending. "Narezany" is "cut", the "na-" prefix finishing the job, and nobody is named as the one who cut them.
+- 'Now the pieces are cut beautifully and neatly.' "Kusochki" are little pieces: "kusok", a piece, made small. "Narezany", "cut up", describes the result and never says who did the cutting.
 - 'Thank you, Chef, I am preparing the next batch!' "Sleduyushchuyu", "next", grows out of "sledovat'", to follow. "Gotovlyu" is "I am preparing", related to "prigotovil".

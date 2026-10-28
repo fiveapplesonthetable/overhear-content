@@ -36,9 +36,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Thank you. It was fun.' "Prikol'no" is slang for fun or cool, from "prikol", a gag or a joke. It's exactly the wrong word to use after a night like this, and she hears it that way.
 - 'Fun, and that's it?' Vika picks up his slang word and hands it straight back. Repeating someone's word is the quickest way in any language to say you didn't like it.
 - 'What else?' "A chto yeshchyo" is "and what more". The "a" at the start works like "so" in English, and Max sounds blank.
-- 'Oh, come on.' "Da ladno" is literally "yes, fine", but with the right tone it means "come on!" or "you can't be serious". "Tebe" on the end, "to you", adds a bit of scolding.
+- 'Oh, come on.' "Da ladno" is, word for word, "yes, fine", but with the right tone it means "come on!" or "you can't be serious". Adding "tebe", "to you", gives it a bit of scolding.
 - 'No, I have no money.' The two "nyet" words do different jobs: the first is "no", and the second is "there isn't". After "there isn't", "money" changes shape and becomes "deneg". Putting "money" first gives it the stress.
-- 'You and I didn't agree to that.' "My s toboy" is "we with you", the usual Russian for "you and I". "Dogovarivalis'" ends in "-lis'", which is the "we did" ending of the past, and it comes from "dogovor", an agreement.
+- 'You and I didn't agree to that.' "My s toboy", "we with you", is the usual Russian for "you and I". "Dogovarivalis'", "agreed", has "dogovor", an agreement, inside it, and the "-li" is the plural past, because it's the two of them.
 - 'I don't need your money.' "Mne ne nuzhny" is the "to me needed" pattern, but with plural "nuzhny" because "den'gi" is always plural in Russian. It's a bit like "pants" in English.
-- 'Then I am off. I have things to do.' "Ya poshyol" is literally "I went", and Russians say it to mean "I'm off". "U menya dela" is the "at me" pattern with "dela", things to do.
+- 'Then I am off. I have things to do.' "Ya poshyol" means "I went", and Russians say it to mean "I'm off", as if they've already gone. "U menya dela" is the "at me" pattern with "dela", things to do.
 - 'Leave. And do not come back here.' "Ukhodi" is the command form of the same "ukhozhu", "I'm leaving". "Syuda" is "to here", used when you move toward the place. For being there, Russians say a different word.
