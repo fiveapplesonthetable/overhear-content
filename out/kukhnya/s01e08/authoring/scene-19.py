@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.08'
 SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
-INTRO = "To adopt a dog named Hector, Max and Vika visit the owner's home. When the protective owner insists on giving Hector only to a married couple, Max suddenly invents an upcoming wedding, prompting a frantic whispered argument between the two coworkers. Let's listen to their conversation in Russian."
-OPENER = "Let's examine the dialogue sentence by sentence. Notice the colloquial whispered rebukes, urgent imperatives, and comedic pretenses."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Max's quick wit and impromptu pretense push Vika to her limits, but their comedic teamwork keeps the adoption dream alive. Great work practicing conversational Russian! Next time you watch the episode, listen for the Russian expressions for 'madly' and 'future' — you will catch every word right away. See you next time!"
+INTRO = "A different story now: Max and Vika are at a stranger's flat to pick up a dog. The owner will only give the dog to a married couple, so Max has just told her he and Vika are getting married. Vika is not pleased. It's in Russian first."
+OPENER = "Let's go through the whispering. Vika is furious, and Max is improvising as fast as he can."
+TRANSITION = 'And now in one piece.'
+OUTRO = "Max says 'play along with me', and Vika says 'are you out of your mind'. Between them, that's most of an emergency. See you next time."
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('vika', 'Макс, зачем ты соврал про нашу будущую свадьбу?', 'Max, why did you lie about our future wedding?', [(226, 'Мы с Викой как раз женимся через месяц')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('max', 'Зато этот милый пёс будет жить у нас.', 'At least this sweet dog will live with us.', [(232, 'забрать собаку')], ''),
 ]
 WALK = [
-    (0, None, "'Max, why did you lie about our future wedding?' Vika fiercely whispers her frustration about the fake marriage he just invented."),
-    (1, None, "'She will give this dog only to a married couple.' Max defends his lie as the only possible way to satisfy the strict dog owner."),
-    (2, None, "'I do not know how to lie so foolishly to people.' She complains about being dragged into such an awkward and transparent deception."),
-    (3, None, "'You yourself desperately wanted to take this puppy!' Max reminds her that she was the one begging to bring the animal home."),
-    (4, None, "'But you and I are not even dating!' Vika points out the massive leap from coworkers to engaged couple."),
-    (5, None, "'Play along with me a little while she pours tea.' He begs her to just act the part for a few minutes to secure the deal."),
-    (6, None, "'She will immediately realize that we are just coworkers.' She worries that their lack of chemistry will immediately expose the scam."),
-    (7, None, "'Then quickly hug me right now.' Max instructs her to show some physical affection to sell the romantic illusion."),
-    (8, None, "'Are you out of your mind, stop shouting immediately!' Vika snaps at him for barking orders while trying to look like a loving partner."),
-    (9, None, "'Smile, the owner is already coming back here.' He spots the owner returning and quickly forces a bright, happy face."),
-    (10, None, "'I will kill you after this strange meeting.' She promises severe consequences once they are finally out of this house."),
-    (11, None, "'At least this sweet dog will live with us.' Max focuses entirely on the prize, ignoring her death threats for the sake of the pet."),
+    (0, None, "'Max, why did you lie about our future wedding?' The term for 'lied' is the one-time kind, built from the term for 'lie'. 'Future' ends in 'uyu' to match 'wedding', which is grammatically a she-word."),
+    (1, None, "'She will give this dog only to a married couple.' 'Family' turns into a describing word, so it's 'family couple'. A couple appears in the 'to' form, after 'give'."),
+    (2, None, "'I do not know how to lie so foolishly to people.' 'I know how' is the skill word, and it's followed by 'lie'. 'To people' uses a special form of the word 'people'."),
+    (3, None, "'You yourself desperately wanted to take this puppy!' 'Madly' is assembled from 'without' and 'mind'. 'Take away' has a prefix that means 'away'."),
+    (4, None, "'But you and I are not even dating!' Russian puts 'you and I' as 'we with you', which is a very natural way to join two people. The expression for 'not even' sits right in front of the action."),
+    (5, None, "'Play along with me a little while she pours tea.' 'Play along' is made of 'under' plus 'play'. 'While' is again the word that also means 'bye'."),
+    (6, None, "'She will immediately realize that we are just coworkers.' The Russian for 'will realize' is one word that carries the future. 'Ordinary' goes in front of 'coworkers', and the term for 'colleagues' is borrowed."),
+    (7, None, "'Then quickly hug me right now.' The expression for 'hug' is a short command, built on the expression for 'embrace'. 'Me' takes a changed form because Max is the one being hugged."),
+    (8, None, "'Are you out of your mind, stop shouting immediately!' The phrase literally means 'went off the mind'. 'Stop' is the short command."),
+    (9, None, "'Smile, the owner is already coming back here.' 'Smile' ends in 'sya'. 'Coming' is the term for walking, used for arrivals."),
+    (10, None, "'I will kill you after this strange meeting.' Vika is joking, and the Russian for 'I will kill' is a one-word future. 'After' is followed by the 'of' form, so 'meeting' changes its ending."),
+    (11, None, "'At least this sweet dog will live with us.' The first word means 'but on the plus side'. 'dog' here is the he-form, 'pyos', since the dog is a boy."),
 ]

@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'elena': 'Елена', 'lyova': 'Лёва'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.08'
 SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
-INTRO = "With Chef Barinov away, guest chef Elena Pavlovna Sokolova takes command of the Claude Monet kitchen. Accustomed to Barinov's relaxed habits, the cooks struggle under Elena's uncompromising discipline. When she refuses smoke breaks and orders sous-chef Lyova to fetch herbs from the cellar, tension flares. Let's listen to their confrontation in Russian first."
-OPENER = "Let's examine how authority and resistance clash in this restaurant kitchen. Notice the decisive imperative commands and the indignant defensive replies."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Lyova reluctantly heads off to the storage room, stewing over Elena's demanding management style. Outstanding work mastering workplace and culinary Russian! Next time you watch the episode, listen for the Russian expressions for 'fast' and 'to go out' — you will catch every word right away. See you next time!"
+INTRO = "Back in the kitchen, Elena's rules are strict. The cooks are used to Barinov's looser ways and want a cigarette break. Lyova asks for them, and she says no. It's in Russian first."
+OPENER = "Let's go back through it. Lyova is polite, and Elena is firm."
+TRANSITION = 'Now with all the pieces in place.'
+OUTRO = "Elena's last lines are about who decides, and Lyova's is about who he is. You get 'I decide myself' and 'I am a sous-chef, not a courier'. See you next time."
 CLOSING = ('elena', 'Пока!')
 STORY = [
     ('lyova', 'Шеф, можно поварам выйти перекурить?', 'Chef, can the cooks go smoke?', [(241, 'Шеф, мы перекурить')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('lyova', 'Хорошо, шеф, я принесу эту зелень.', 'Fine, Chef, I will bring this greenery.', [], ''),
 ]
 WALK = [
-    (0, None, "'Chef, can the cooks go smoke?' Lyova asks for a simple break, expecting the usual relaxed kitchen atmosphere."),
-    (1, None, "'Are you mad? Plenty of orders!' Elena reacts with pure outrage, pointing to the endless stream of waiting orders."),
-    (2, None, "'But there are no meat orders now.' He tries to justify the request logically by noting a lull in his specific station."),
-    (3, None, "'Then quickly switch over to poultry!' Elena demands absolute efficiency, ordering him to immediately pivot to a different task."),
-    (4, None, "'The cooks are very tired from this work.' Lyova attempts to appeal to her sympathy, explaining the crew's exhaustion."),
-    (5, None, "'No smoke breaks, everyone stays in the kitchen!' She completely shuts down any talk of rest, enforcing a strict lockdown on the line."),
-    (6, None, "'You are too strict with our team.' He bravely calls out her dictatorial management style right to her face."),
-    (7, None, "'I need you to work excellently!' Elena does not care about being liked, only about achieving flawless culinary results."),
-    (8, None, "'The kitchen has run out of fresh arugula.' Lyova reports a missing ingredient, expecting someone else to handle the logistics."),
-    (9, None, "'Lyova, quickly bring arugula from the storeroom!' She barks a direct order at him to fetch it himself from the basement."),
-    (10, None, "'I am a sous-chef, not a courier!' Lyova protests the severe demotion, insulted that a sous-chef is being sent on errands."),
-    (11, None, "'I decide myself who will go there!' Elena brutally reminds him that her word is absolute law in this kitchen."),
-    (12, None, "'Fine, Chef, I will bring this greenery.' Defeated, he bites his tongue and accepts the humiliating task."),
+    (0, None, "'Chef, can the cooks go out for a smoke?' 'Is it possible' is followed by 'to the cooks' and then the action, which is how Russians ask for permission. The last word is 'to have a smoke break'."),
+    (1, None, "'Are you mad? There are plenty of orders!' 'In your mind' is the Russian for 'in your right mind'. 'Plenty' means 'full'."),
+    (2, None, "'But there are no meat orders now.' 'For meat' uses 'po', which means 'regarding'. 'No' is followed by the 'of' form."),
+    (3, None, "'Then quickly switch over to poultry!' 'Switch' is taken from 'across' and 'go'. 'To chicken' uses the movement ending."),
+    (4, None, "'The cooks are very tired from this work.' 'Got tired' is the finished kind of 'tire'. 'From this work' uses the short word for 'from'."),
+    (5, None, "'No smoke breaks, everyone stays in the kitchen!' 'No ... at all' is stronger than 'no'. 'Breaks' goes into the 'of' form."),
+    (6, None, "'You are too strict with our team.' 'Strict' has a short form, which sounds formal. 'With our team' ends in 'oy'."),
+    (7, None, "'I need you to work excellently!' Russian says 'I need that you worked', with the past form after the small word 'chtoby'. This pattern is used for wishes about other people."),
+    (8, None, "'The kitchen has run out of fresh arugula.' 'Ran out' ends in 'as' because 'arugula' counts as a she-word. 'Arugula' itself is borrowed from Italian."),
+    (9, None, "'Lyova, quickly bring arugula from the storeroom!' 'Bring' is the polite plural. 'From the storeroom' uses 'so', which is 'from' made easier to say."),
+    (10, None, "'I am a sous-chef, not a courier!' 'Sous' is French for 'under', and the Russian keeps it. 'Courier' is another French borrowing."),
+    (11, None, "'I decide myself who will go there!' 'Myself' is the woman's form. 'Who will go' is a one-word future."),
+    (12, None, "'Fine, Chef, I will bring this greenery.' 'Greenery' is a collective word for herbs, built on 'green'. 'I will bring' starts with 'pri'."),
 ]

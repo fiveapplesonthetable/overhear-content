@@ -16,8 +16,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 4 | Костя | С тобой всегда легко и очень приятно работать. | With you it is always easy and very pleasant to work. | new | new |
 | 5 | Настя | Мы с тобой просто замечательные верные друзья. | You and I are simply wonderful loyal friends. | new | new |
 | 6 | Костя | Конечно, между нами только крепкая искренняя дружба. | Of course, between us there is only strong sincere friendship. | new | new |
-| 7 | Настя | Некоторые уверены, что ничего не может быть. | Some are sure that nothing can happen. | #359: Другие...<br>#360: в их отношениях никогда и ничего не может быть | verbatim |
-| 8 | Настя | Они не понимают, что всё уже началось. | They do not understand that everything has already begun. | #361: даже не понимая, что все уже началось. | verbatim |
+| 7 | Настя | Некоторые уверены, что ничего не может быть. | Some are sure that nothing can happen. | #359 00:21:27: Другие...<br>#360 00:21:29: в их отношениях никогда и ничего не может быть | verbatim |
+| 8 | Настя | Они не понимают, что всё уже началось. | They do not understand that everything has already begun. | #361 00:21:32: даже не понимая, что все уже началось. | verbatim |
 | 9 | Костя | Ты говоришь про нас или про шефа? | Are you talking about us or about the chef? | new | new |
 | 10 | Настя | Я просто размышляю о жизни и чувствах. | I am simply reflecting on life and feelings. | new | new |
 | 11 | Костя | Тогда давай вместе выпьем вкусного чаю. | Then let us drink some delicious tea together. | new | new |
@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostya, this crazy workday has finally ended.' Nastya leans against the bar counter with a sigh of relief.
-- 'Yes, Nastya, real madness was happening in the kitchen.' The bartender agrees after surviving the evening chaos.
-- 'On the other hand, we supported each other well today.' She appreciates their teamwork amid the stress.
-- 'With you it is always easy and very pleasant to work.' Kostya expresses his genuine appreciation for her presence.
-- 'You and I are simply wonderful loyal friends.' Nastya firmly establishes their relationship as strictly platonic.
-- 'Of course, between us there is only strong sincere friendship.' Kostya nods in agreement, concealing his deeper feelings.
-- 'Some are sure that nothing can happen.' Nastya echoes Max's voiceover about denial in romance.
-- 'They do not understand that everything has already begun.' She smiles softly, hinting at an unspoken romantic spark.
-- 'Are you talking about us or about the chef?' Kostya feels a sudden rush of hope and curiosity.
-- 'I am simply reflecting on life and feelings.' The waitress plays coy with an enigmatic smile.
-- 'Then let us drink some delicious tea together.' Kostya hospitably offers to pour her a hot beverage.
-- 'With great pleasure I will sit here with you.' Nastya gladly accepts the invitation to stay by his side.
-- 'I am insanely glad for our unexpected warm meeting!' Kostya smiles warmly as they share a private moment.
+- 'Kostya, this crazy workday has finally ended.' 'Crazy' starts from 'with' plus 'mind' plus 'gone', which makes it 'gone off one's mind'. 'Ended' ends in 'sya', since the day ended itself.
+- 'Yes, Nastya, real madness was happening in the kitchen.' 'Madness' is pieced together from 'without' plus 'mind'. 'Was happening' is a verb that comes from 'create', and it is used for strange events.
+- 'On the other hand, we supported each other great today.' 'On the other hand' is a favourite of Kostya's. 'Each other' is literally 'friend of friend'.
+- 'With you it is always easy and very pleasant to work.' 'With you' is two short words. 'Easy' and 'pleasant' stand alone, like 'it is easy'.
+- 'You and I are simply wonderful loyal friends.' 'You and I' is 'we with you'. 'Wonderful' comes from 'notice', so it means 'worth noticing'.
+- 'Of course, between us there is only strong sincere friendship.' 'Strong' is the word you use for tea or drink. 'Friendship' comes from 'friend'.
+- 'Some are sure that nothing can happen.' 'Some' is a plural word. 'Nothing can be' keeps the usual negative.
+- 'They do not understand that everything has already begun.' 'Began' ends in 'o' because 'everything' is neuter. 'Already' sits before the action.
+- 'Are you talking about us or about the chef?' 'About' here is a casual word, 'pro'.
+- 'I am simply reflecting on life and feelings.' 'Reflect' is derived from 'think'. 'About life' ends in 'i', and so does 'feelings'.
+- 'Then let us drink some delicious tea together.' 'Let us drink' is the 'we' form. 'Tea' takes a special 'u' ending, to mean 'some tea'.
+- 'With great pleasure I will sit here with you.' 'With great pleasure' is a polite and warm way to accept. 'Sit for a while' has a prefix that makes it a short sit.
+- 'I am insanely glad of our unexpected warm meeting!' 'Insanely' springs from 'without mind', and it means 'madly'. 'Glad' goes into the 'to' form, so 'meeting' ends in 'e'.

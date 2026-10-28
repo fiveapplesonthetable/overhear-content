@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'kostya': 'Костя', 'nastya': 'Настя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.08'
 SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
-INTRO = 'As the shift winds down and credits roll, the restaurant crew unwinds with playful teasing and hilarious outtakes. Kostya works up the courage to ask Nastya to the movies, while Chef Barinov vents loudly about his beloved football match.'
-OPENER = "Let's enjoy the post-shift banter between Kostya and Nastya alongside Chef Barinov's fiery football passion."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "A demanding shift at Claude Monet comes to an end with laughter, plans for romance, and endless passion for football. Next time you watch the episode, listen for the Russian expressions for 'to be ill' and 'cheerful' — you will catch every word right away. See you next time!"
+INTRO = "This is the last scene of the episode, and it plays like the bloopers at the end of a show. Kostya and Nastya are making plans for the evening, and Barinov is shouting about football. It's in Russian first."
+OPENER = "Let's go back through it for the last time. It is a light scene, with a little flirting and a lot of noise."
+TRANSITION = 'Listen again, and notice what you recognise.'
+OUTRO = "That is the end of the episode. You've heard how Russians ask someone out, 'will you go with me to the cinema', and how a football fan says he 'suffers' for his team. Thanks for listening, and see you next time."
 CLOSING = ('nastya', 'Пока!')
 STORY = [
     ('kostya', 'Настя, прекрати так громко смеяться на кухне!', 'Nastya, stop laughing so loudly in the kitchen!', [], ''),
@@ -32,18 +32,18 @@ STORY = [
     ('nastya', 'Да, идём скорее смотреть весёлый фильм!', "Yes, let's go quickly to watch a fun movie!", [], ''),
 ]
 WALK = [
-    (0, None, "'Nastya, stop laughing so loudly in the kitchen!' Kostya jokingly scolds his colleague for making too much noise."),
-    (1, None, "'Kostya, you are very angry and funny today.' Nastya jokes that the exhausted bartender is acting amusing."),
-    (2, None, "'I am simply tired after a long hard shift.' Kostya defends himself, mentioning the difficult hours he just worked."),
-    (3, None, "'You always get angry without any reason.' Nastya playfully accuses him of being grumpy over nothing."),
-    (4, None, "'Will you go to the cinema with me tonight?' Kostya boldly pivots from complaints to asking her out on a date."),
-    (5, None, "'Well you are a real oddball, of course I will go!' Nastya affectionately accepts his awkward invitation."),
-    (6, None, "'Then we meet at seven o'clock near the metro.' Kostya finalizes the meeting time for their upcoming date."),
-    (7, None, "'Who touched my favorite pot again?!' Barinov shouts from the office about someone touching his things."),
-    (8, None, "'Who were you rooting for today at the match?!' Barinov demands to know which football team they supported."),
-    (9, None, "'The chef is shouting again about his favorite football.' Kostya whispers about the chef's predictable sports obsession."),
-    (10, None, "'He always worries so loudly about Spartak.' Nastya finds the boss's loud football fandom very entertaining."),
-    (11, None, "'Football is the most important thing in life!' Barinov declares his undying love for the sport to everyone."),
-    (12, None, "'Let's go quickly from here while he is calm.' Kostya urges the waitress to leave before the chef finds them."),
-    (13, None, "'Yes, let's go quickly to watch a fun movie!' Nastya agrees to sneak away and enjoy their movie date."),
+    (0, None, "'Nastya, stop laughing so loudly in the kitchen!' 'Stop' is a short command, followed by the bare 'to laugh'. The expression for 'laugh' ends in 'sya', so it is 'laugh yourself'."),
+    (1, None, "'Kostya, you are very angry and funny today.' 'Angry' comes from 'heart'. 'Funny' comes from 'laughter'."),
+    (2, None, "'I am simply tired after a long hard shift.' The Russian for 'tired' is the man's form, with no ending. 'After' is followed by the 'of' form, so 'shift' changes its end."),
+    (3, None, "'You always get angry without any reason.' The word for 'get angry' ends in 'sya', which makes it 'anger yourself'. 'Without' goes into the 'of' form, so 'reason' ends in 'y'."),
+    (4, None, "'Will you go with me to the cinema tonight?' Russians ask 'will you go' to invite someone, just as English does with 'will you come'. 'With me' becomes 'so mnoy'."),
+    (5, None, "'Well, you are a real oddball, of course I will go!' 'Oddball' comes from 'miracle'. 'Of course I will go' is two words."),
+    (6, None, "'Then we meet at seven o'clock near the metro.' Russians use the present for a plan, so 'we meet' means 'let's meet'. 'Metro' never changes."),
+    (7, None, "'Who touched my favorite pot again?!' The Russian for 'touched' is the man's form. 'Pot' is a she-word, so 'my favorite' ends in 'yu' as the thing touched."),
+    (8, None, "'Who were you rooting for at the match today?!' 'Be ill' is also what Russian fans do, so a fan 'is ill' for a team. 'Who for' is two words."),
+    (9, None, "'The chef is shouting again about his favorite football.' 'About' is the casual 'pro'."),
+    (10, None, "'He always worries so loudly for Spartak.' 'Worry' is the word that also means 'live through'. 'For' is the word that marks the team."),
+    (11, None, "'Football is the most important thing in life!' 'The most important' is literally 'most' plus 'main'. 'In life' puts an 'i' on the end of the expression for 'life'."),
+    (12, None, "'Let's go quickly from here, while he is calm.' 'From here' is one word, the opposite of 'to here'. 'While' is the word that also means 'bye'."),
+    (13, None, "'Yes, let's go quickly to watch a fun movie!' 'We go' works as 'let's go'. 'Fun' comes from 'cheerful'."),
 ]

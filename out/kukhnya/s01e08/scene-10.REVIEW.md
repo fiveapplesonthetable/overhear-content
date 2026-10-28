@@ -10,7 +10,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Прохожий | Эй, дурак, почему ты сидишь здесь? | Hey, idiot, why are you sitting here? | #124: Эй, дурак | verbatim |
+| 1 | Прохожий | Эй, дурак, почему ты сидишь здесь? | Hey, idiot, why are you sitting here? | #124 00:07:04: Эй, дурак | verbatim |
 | 2 | Шеф | Я великий шеф-повар, а вовсе не дурак! | I am a great head chef, not an idiot at all! | new | new |
 | 3 | Прохожий | Тогда почему ты не готовишь на кухне? | Then why are you not cooking in the kitchen? | new | new |
 | 4 | Шеф | Меня временно выгнали из собственного ресторана. | They temporarily kicked me out of my own restaurant. | new | new |
@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hey, fool, why are you sitting here?' A cheeky passerby calls out to Barinov on the park bench.
-- 'I am a great head chef, and not a fool at all!' Barinov defends his culinary dignity with offended pride.
-- 'Then why are you not cooking in the kitchen?' The bystander questions why a top chef is idling outside.
-- 'I was temporarily kicked out of my own restaurant.' Barinov bitterly admits his temporary banishment.
-- 'Who dared to kick out such a strict cook?' The stranger is amazed that anyone could unseat the fearsome cook.
-- 'One impudent woman from the neighboring restaurant.' Barinov grumbles about his cunning rival Elena Sokolova.
-- 'Women always bring men big problems.' The passerby offers a cynical philosophical observation.
-- 'You are absolutely right, my chance interlocutor.' Barinov finds unexpected comfort in the stranger's words.
-- 'And what are you going to do now?' The bystander asks about Barinov's next move.
-- 'I will return and win back my kitchen!' Barinov resolves to reclaim his rightful kitchen kingdom.
-- 'Now those are the right words, brave cook!' The stranger cheers on Barinov's fighting spirit.
-- 'Thank you for the advice, I am going to win!' Barinov stands up from the bench, ready for victory.
+- 'Hey, idiot, why are you sitting here?' The stranger uses the familiar 'you' with a person he doesn't know, which is rude on purpose. 'Hey' is as casual as it looks.
+- 'I am a great head chef, not an idiot at all!' The word 'a' in the middle means 'and not', and the expression for 'at all' sits in front of 'idiot'. 'Great' is the grand word for famous people.
+- 'Then why are you not cooking in the kitchen?' 'Don't cook' keeps its 'not' right in front of the cooking word. 'In the kitchen' puts the 'e' ending on the room.
+- 'They temporarily kicked me out of my own restaurant.' 'Temporarily' springs from 'time'. 'Kicked out' has no one named, so it sounds like 'I got thrown out'.
+- 'Who dared to kick out such a strict chef?' 'Dared' is a rare, slightly grand word. 'Such a strict chef' has the same 'ogo' ending on all three words.
+- 'An insolent woman from a neighboring restaurant.' 'One' here means 'a certain', and Barinov won't say her name. 'Neighboring' comes from 'neighbour'.
+- 'Women always bring men big problems.' The word for 'to men' ends in 'am', the ending that means 'to'. 'Bring' is the 'they' form.
+- 'You are absolutely right, my random conversational partner.' 'Right' is the short form that people use to agree. 'Conversational partner' is taken from 'with' plus 'conversation'.
+- 'And what are you going to do now?' 'are planning' ends in 'sya', so it is literally 'gathering yourself'. 'To do' follows it directly.
+- 'I will return and get my kitchen back!' The two words 'I will return' and 'I will give back' are close relatives, with one 'sya' between them. 'My own' points back at Barinov.
+- 'Now those are the right words, brave cook!' 'Those are the right words' is a pointing phrase. The term for 'brave' is rooted in the Russian for 'courage'.
+- 'Thank you for the advice, I am going to win!' 'Thank you for' is followed by the thing you're thanking for. 'I am going' is the present, used for the near future.

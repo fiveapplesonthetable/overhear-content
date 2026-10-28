@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'elena': 'Елена', 'louis': 'Луи'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.08'
 SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
-INTRO = "Elena Sokolova approaches pastry station where French chef Louis is delicately assembling gourmet desserts. Recognizing his regional accent, Elena strikes a chord by reminiscing about his native home of Provence and the famous desserts in Saint-Paul-de-Vence. Let's listen to their conversation in Russian first."
-OPENER = "Let's review this heartwarming conversation about France line by line."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Completely won over by Elena's knowledge and charm, Louis happily presents his finest pastries for the dining room. See you next time!"
+INTRO = "Elena keeps working the room. This time she walks over to Louis, the French pastry chef, who is the most prickly of her new team. She knows exactly how to soften him. It's in Russian first."
+OPENER = "Let's go back through the conversation. Louis starts by bristling, and Elena slowly wins him round."
+TRANSITION = 'Try following it without my help.'
+OUTRO = "Elena's trick is to ask about home. In Russian it is just 'you have a familiar accent' and a place name. See you next time."
 CLOSING = ('louis', 'Пока!')
 STORY = [
     ('elena', 'Луи, чем вы сейчас занимаетесь на десертах?', 'Louis, what are you doing on the desserts right now?', [], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('louis', 'Спасибо, я словно ненадолго вернулся домой!', 'Thank you, I felt as if I briefly returned home!', [(138, 'Я как будто ненадолго вернулся домой')], ''),
 ]
 WALK = [
-    (0, None, "'Louis, what are you doing on the desserts right now?' Elena approaches the pastry station to inspect the ongoing prep work."),
-    (1, None, "'What business is it of yours regarding my desserts?' Louis snaps at her, protective of his delicate desserts and annoyed by her presence."),
-    (2, None, "'You have such a warm and familiar accent.' She ignores his hostility and focuses on the distinct lilt in his voice."),
-    (3, None, "'Yes, I came here from France itself.' Louis proudly confirms his authentic French origins."),
-    (4, None, "'It is Provence, am I absolutely right?' Elena pinpoints the exact region, showing off her deep culinary knowledge."),
-    (5, None, "'Yes, madame, you guessed very subtly!' Louis is genuinely impressed by her accurate geographical guess."),
-    (6, None, "'I simply adore wonderful Saint-Paul-de-Vence!' She mentions a specific, picturesque village to build an immediate rapport."),
-    (7, None, "'Incredible, my whole family lives right there!' Louis lights up, thrilled to meet someone who knows his hometown."),
-    (8, None, "'And what desserts they serve at La Colombe d'Or!' Elena casually name-drops a legendary local restaurant to win him over."),
-    (9, None, "'Oh, madame, that is my most favorite place!' Louis is completely charmed, confirming it is his favorite spot in the world."),
-    (10, None, "'There is a magnificent view and completely magical atmosphere.' She vividly describes the beautiful setting, proving she has actually been there."),
-    (11, None, "'Thank you, I felt as if I briefly returned home!' Louis sincerely thanks her for giving him a brief, comforting taste of home."),
+    (0, None, "'Louis, what are you doing on desserts right now?' 'What are you doing' is a pair of words with a 'with' form. 'On desserts' means at the dessert station."),
+    (1, None, "'What business is it of yours regarding my desserts?' This is a fixed phrase for 'what's it to you'. It's a rude phrase, and Louis knows it."),
+    (2, None, "'You have such a warm and familiar accent.' 'Familiar' comes from 'know'. 'Such' goes in front of 'warm'."),
+    (3, None, "'Yes, I came here from France itself.' 'From France itself' uses 'the very', which is the same word as 'most'. 'Came' is how Russian says arriving by transport."),
+    (4, None, "'It is Provence, am I absolutely right?' 'Right' ends in 'a' for a woman, where a man says 'prav'. 'Absolutely' is a favourite word of Elena's."),
+    (5, None, "'Yes, madame, you guessed very subtly!' 'Madame' is French, and Louis uses it. 'Subtly' comes from 'thin'."),
+    (6, None, "'I simply adore wonderful Saint-Paul-de-Vence!' 'I adore' is a stronger word than 'I love'. The French place name keeps its hyphens."),
+    (7, None, "'Incredible, my whole family lives right there!' 'Incredible' starts from 'not' and 'believable'. 'Exactly there' is two small words."),
+    (8, None, "'And what desserts they serve at La Colombe d'Or!' 'Serve' has no person named. The name is translated into Russian as 'Golden Dove'."),
+    (9, None, "'Oh, madame, that is my most favorite place!' 'Most favourite' is 'most' plus 'beloved'. 'Place' is a neuter word."),
+    (10, None, "'There is a magnificent view and a completely magical atmosphere.' 'Magical' comes from the word for a wizard. 'View' is also 'sort' or 'kind'."),
+    (11, None, "'Thank you, I felt as if I briefly returned home!' 'For a short while' is one word too."),
 ]

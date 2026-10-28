@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'lyova': 'Лёва'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.08'
 SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
-INTRO = "Sitting alone in his office, Chef Viktor Barinov stares sadly into his fishbowl. Feeling betrayed by the entire restaurant staff, he pours out his grief to his faithful pet goldfish Arkasha until sous-chef Lyova walks in. Let's listen to their conversation in Russian."
-OPENER = "Let's examine the dialogue sentence by sentence. Notice the emotional laments, terms of endearment, and caring workplace expressions."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Lyova's gentle concern offers Chef Barinov comfort as he nurses his wounded pride in seclusion. Great work practicing conversational Russian! Next time you watch the episode, listen for the Russian expressions for 'to throw' and 'faithful' — you will catch every word right away. See you next time!"
+INTRO = "Barinov has been sent off the kitchen floor, and he has retreated to his office to talk to his goldfish, Arkasha. Lyova, the loyal sous-chef, comes to find him. It's in Russian first."
+OPENER = "Let's go through it. Barinov is dramatic, and Lyova tries to bring him back."
+TRANSITION = 'Quick replay now.'
+OUTRO = "Barinov's fish is the only one who listens in silence, and that's the point of the joke. You've heard 'I won't go anywhere' and 'before the soup gets cold', which are good sentences to keep. See you next time."
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('barinov', 'Один ты остался у меня, милый Аркашка.', 'You are all I have left, dear Arkasha.', [(213, 'Один ты у меня остался, Аркашка')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('lyova', 'Тогда я принесу вам горячего чаю сюда.', 'Then I will bring you some hot tea here.', [(213, 'Аркашка')], ''),
 ]
 WALK = [
-    (0, None, "'You are all I have left, dear Arkasha.' Barinov leans over his fishbowl, feeling entirely abandoned by his human staff."),
-    (1, None, "'Chef, why are you sitting here in the dark?' Lyova finds him sulking in the shadows and wants to understand his gloomy mood."),
-    (2, None, "'My fish is the only loyal organism in the world.' The head chef bitterly concludes that only a silent pet can be trusted."),
-    (3, None, "'But our entire kitchen misses you very much!' The sous-chef tries to reassure his boss that the team still needs him."),
-    (4, None, "'All the cooks in the kitchen are true traitors.' Barinov refuses to listen, firmly believing everyone has turned their backs on him."),
-    (5, None, "'They just got scared of the new strict order.' Lyova explains that the crew was simply intimidated by Elena's harsh demands."),
-    (6, None, "'They gladly abandoned their old chef.' He takes their compliance with the guest chef as a deeply personal betrayal."),
-    (7, None, "'We all sincerely love only you, chef.' Lyova declares their unwavering devotion, hoping to pull him out of his misery."),
-    (8, None, "'Only Arkasha listens to me attentively and keeps quiet.' Barinov praises his goldfish for never talking back or following other orders."),
-    (9, None, "'Let's go to the kitchen before the soup gets cold.' Lyova tries a practical approach, hoping a culinary emergency will spark some action."),
-    (10, None, "'I will not go anywhere out of this office.' Barinov stubbornly plants himself in his chair, refusing to step foot outside."),
-    (11, None, "'Then I will bring you some hot tea here.' The loyal sous-chef gives up and offers to serve him right there."),
+    (0, None, "'You are all I have left, dear Arkasha.' Russian says 'only you remained with me'. The Russian for 'only' is also the term for 'one', and the name Arkasha is a pet form of the name Arkady."),
+    (1, None, "'Chef, why are you sitting here in the dark?' The term for 'in the darkness' puts an 'e' on the end of the expression for 'darkness'. 'Sit' is the plain word, nothing special."),
+    (2, None, "'My fish is the only loyal organism in the world.' The word for 'little fish' adds a small 'ka' to the expression for 'fish', which makes it affectionate. 'In the world' uses the Russian word for 'light', which makes it literally 'in the light'."),
+    (3, None, "'But our entire kitchen misses you very much!' The expression for 'misses' is the Russian for 'is bored', and Russians add 'without you'. So 'misses you' is literally 'is bored without you'."),
+    (4, None, "'All the cooks in the kitchen are true traitors.' 'Traitors' comes from 'betray'. 'True' agrees with it in the plural."),
+    (5, None, "'They just got scared of the new strict order.' The Russian word for 'got scared' ends in 'sya', so it comes out as something that happens to themselves. 'Of the order' puts the 'of' ending on the Russian for 'order'."),
+    (6, None, "'They gladly abandoned their old chef.' 'With pleasure' is Russian for 'gladly'. 'Abandoned' is the same word as 'threw'."),
+    (7, None, "'We all sincerely love only you, chef.' The Russian for 'we love' ends in 'im', which is the ending for 'we'. 'only' sits right in front of 'you', so it points at the one person."),
+    (8, None, "'Only Arkasha listens to me attentively and keeps quiet.' 'Attentively' comes from 'attention'."),
+    (9, None, "'Let's go to the kitchen before the soup gets cold.' The polite 'let's go' ends in 'te'. 'Before ... not' is the Russian way to put 'before it has gone cold'."),
+    (10, None, "'I will not go anywhere out of this office.' 'Nowhere' is 'no' plus 'where', and 'not' follows it. 'Office' is a masculine word."),
+    (11, None, "'Then I will bring you some hot tea here.' 'Hot tea' takes a special 'u' ending, 'chayu', meaning 'some tea'. 'Here' is the movement word."),
 ]

@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'nagiyev': 'Нагиев'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.08'
 SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
-INTRO = 'In the restaurant dining room, Chef Viktor Barinov confronts owner Dmitry Nagiyev after a televised culinary duel. Nagiyev is thrilled with the dramatic ratings of pitting rival chefs against each other on screen, while Barinov fumes about his rival Elena working in his kitchen. Listen to their funny argument in Russian first, and then we will examine every line.'
-OPENER = "Let's examine this show-business argument step by step."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = 'That concludes our fifth scene. In Kukhnya, restaurant ownership and television drama frequently collide with explosive comedic results. See you next time!'
+INTRO = "After the broadcast, Barinov storms into the restaurant to complain to the owner. Nagiyev is delighted with how the show went and sees no problem with the bet. It's in Russian first."
+OPENER = 'Slowly now. Barinov is furious, and Nagiyev is calm in the way of a man who has won.'
+TRANSITION = 'Back to the full version.'
+OUTRO = "'Good luck' is a short, kind line to end on, and it works as a wish at any time. You've also heard how Russians say 'at the highest level'. See you next time."
 CLOSING = ('barinov', 'До встречи!')
 STORY = [
     ('barinov', 'Дмитрий, это была твоя глупая идея!', 'Dmitry, this was your stupid idea!', [(54, 'Так это твоя была идея')], ''),
@@ -32,18 +32,18 @@ STORY = [
     ('nagiyev', 'Удачи тебе на кухне, шеф!', 'Good luck in the kitchen, chef!', [(73, 'Прошу')], ''),
 ]
 WALK = [
-    (0, None, "'Dmitry, this was your stupid idea!' Barinov storms into the office, furious at the owner for setting up the television stunt."),
-    (1, None, "'Stop shouting, it turned out a great show!' Nagiyev waves off his anger, thrilled by the excellent ratings the drama will bring."),
-    (2, None, "'Rivals in life — rivals on screen.' The owner cynically points out that their real-life friction makes for perfect television."),
-    (3, None, "'You just wanted to make me angry.' Barinov realizes the entire argument was orchestrated just to get a rise out of him."),
-    (4, None, "'And it worked, you got angry perfectly!' Nagiyev gleefully admits his manipulation worked like a charm."),
-    (5, None, "'Now that woman will be in my kitchen.' Barinov complains that he now has to deal with a rival chef invading his territory."),
-    (6, None, "'She lost the bet and will work the shift honestly.' Nagiyev reminds him that they made a public bet that must be honored."),
-    (7, None, "'Viktor, get your cooks in order.' The owner orders his head chef to ensure the kitchen staff behaves appropriately."),
-    (8, None, "'My cooks always work perfectly.' Barinov defensively insists his team is always a well-oiled machine."),
-    (9, None, "'I shouldn't feel ashamed before the guests.' Nagiyev makes it clear he will not tolerate any embarrassment in front of customers."),
-    (10, None, "'Don't worry, everything will be at the highest level.' Barinov promises that the restaurant's reputation will remain spotless."),
-    (11, None, "'Great, then I am calm about the restaurant.' Nagiyev relaxes, satisfied that his publicity stunt will not ruin dinner service."),
-    (12, None, "'I will go meet our new worker.' Barinov heads out to grudgingly welcome his temporary replacement."),
-    (13, None, "'Good luck in the kitchen, chef!' Nagiyev wishes him luck with a sarcastic smirk as the chef leaves."),
+    (0, None, "'Dmitry, this was your stupid idea!' 'Was' gets 'a' since 'idea' counts as a she-word. 'Your' agrees with it."),
+    (1, None, "'Stop shouting, it turned out a great show!' 'Enough' is followed by 'shouting'. 'Turned out' is a neuter form, since 'show' behaves as neuter."),
+    (2, None, "'Rivals in life, rivals on screen.' 'Rivals' is borrowed from French. 'On the screen' ends in 'e', and the dash replaces 'are'."),
+    (3, None, "'You just wanted to make me angry.' 'Make angry' comes from 'angry'. 'Wanted' ends in a consonant for a man."),
+    (4, None, "'And it worked, you got angry perfectly!' 'At me it worked out' is how Russian says 'it worked for me'. 'Got angry' ends in 'sya'."),
+    (5, None, "'Now that woman will be in my kitchen.' 'That' in front of 'woman' carries a sneer, like 'that woman there'. 'Will be' is the future of 'be', and 'in my kitchen' needs no other word for 'in'."),
+    (6, None, "'She lost the bet and will honestly work the shift.' 'Lost' is the opposite of 'won', and it ends in 'a' for a woman. 'Honestly' comes from 'honour'."),
+    (7, None, "'Viktor, get your cooks in order.' 'Bring into order' is the Russian for 'tidy up'. 'Your own' is a special word pointing back at Viktor."),
+    (8, None, "'My cooks always work perfectly.' 'Always' is a very common word. 'Perfectly' is based on 'ideal'."),
+    (9, None, "'I shouldn't feel ashamed before the guests.' 'To me shameful' puts the feeling outside. 'Before the guests' uses a word for 'in front of'."),
+    (10, None, "'Do not worry, everything will be at the highest level.' 'At the highest level' is a set phrase for 'first-class'. 'Worry' is also 'live through'."),
+    (11, None, "'Great, then I am calm about the restaurant.' 'Calm' is the man's short form. 'About' here is 'for', which shows what you are calm about."),
+    (12, None, "'I will go meet our new worker.' 'I will go' and 'meet' stand side by side. 'Worker' is related to 'work'."),
+    (13, None, "'Good luck in the kitchen, chef!' 'Luck' is in the 'of' form, as if 'I wish' were left out. It is a handy chunk."),
 ]

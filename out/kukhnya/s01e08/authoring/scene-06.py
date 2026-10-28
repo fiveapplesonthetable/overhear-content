@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'elena': 'Елена'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.08'
 SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
-INTRO = "In the restaurant kitchen, Chef Viktor Barinov introduces Elena Pavlovna Sokolova to his rebellious kitchen brigade. Elena immediately takes command of the tickets, criticizes Lyova's slow cooking, and demands absolute perfection on the dinner orders. Listen to their sharp dialogue in Russian first, and then we will examine every line."
-OPENER = "Let's examine this kitchen takeover step by step."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = 'That concludes our sixth scene. In Kukhnya, welcoming a rival head chef onto the pass instantly turns standard dinner service into a clash of culinary egos. See you next time!'
+INTRO = "The bet is on, and the next day Elena arrives at Claude Monet to work a shift. Barinov presents her to his cooks, who are not pleased to see a rival from the Italian restaurant. It's in Russian first."
+OPENER = "Let's go through the first minutes. Elena takes charge faster than anyone expected."
+TRANSITION = 'One more time, at normal pace.'
+OUTRO = "Elena's last line is one every cook should know: a real chef watches quality. Between this and 'everything clear?' you can run your own kitchen. See you next time."
 CLOSING = ('barinov', 'До встречи!')
 STORY = [
     ('barinov', 'Внимание всем, на кухне важный гость!', 'Attention everyone, in the kitchen is an important guest!', [(84, 'У кухни, внимание, это Елена Павловна')], ''),
@@ -32,18 +32,18 @@ STORY = [
     ('elena', 'Настоящий шеф всегда следит за качеством!', 'A true chef always watches over quality!', [(85, 'ну вы все сами слышали')], ''),
 ]
 WALK = [
-    (0, None, "'Attention everyone, in the kitchen is an important guest!' Barinov claps for attention, gathering his brigade to introduce their unexpected guest."),
-    (1, None, "'This is Chef Elena Pavlovna Sokolova.' He formally presents the rival head chef to the bewildered line cooks."),
-    (2, None, "'Hello, dear chefs of the restaurant.' Elena greets the team with a professional, slightly patronizing smile."),
-    (3, None, "'Today she works together with us.' Barinov explains the unusual arrangement for the day's service."),
-    (4, None, "'I hope you know how to cook tasty and fast.' Elena sets immediate high expectations, hoping they can actually cook."),
-    (5, None, "'My guys know how to do absolutely everything!' Barinov proudly defends his staff's universal competence."),
-    (6, None, "'Then why has Lyova been cooking soup for an hour already?' Elena immediately spots a flaw, pointing out a painfully slow soup preparation."),
-    (7, None, "'Lyova, answer the chef quickly and clearly!' Barinov barks at his sous-chef to justify the delay to their guest."),
-    (8, None, "'Right, the waiter brought the first big order.' Elena takes control as the first major ticket of the shift arrives."),
-    (9, None, "'One veal, cod, and fresh salad!' She rapidly fires off the required dishes, taking charge of the pass."),
-    (10, None, "'Is everything clear to everyone? Start cooking!' Barinov echoes her command, urging the team to get moving."),
-    (11, None, "'I will personally check every finished dish.' Elena warns them she will personally inspect every plate before it leaves."),
-    (12, None, "'Don't boss around too loudly, Elena.' Barinov quietly tells her to dial back her aggressive tone."),
-    (13, None, "'A true chef always watches over quality!' Elena ignores his advice, insisting that strict oversight is the only way."),
+    (0, None, "'Attention everyone, in the kitchen is an important guest!' 'Attention to all' is how Russians open an announcement, and 'all' appears in the 'to' form. 'In the kitchen is' leaves out 'there is'."),
+    (1, None, "'This is Chef Elena Pavlovna Sokolova.' Russian uses 'chef' as a title even for a woman, without changing it. The woman's father's name ends in 'ovna' and her surname in 'ova'."),
+    (2, None, "'Hello, dear chefs of the restaurant.' The formal hello is assembled from 'health', meaning close to 'be healthy'. 'Dear' also means 'expensive'."),
+    (3, None, "'Today she works together with us.' 'Together with us' has the 'ami' ending on 'us'. 'Works' ends in 'et', for 'she'."),
+    (4, None, "'I hope you know how to cook tasty and fast.' 'Know how' is the skill word, as opposed to 'know'. 'Tasty' and 'fast' both end in 'o', as how-words."),
+    (5, None, "'My guys know how to do absolutely everything!' 'Guys' is an affectionate plural, close to 'my lads'. 'Know how' is the 'they' form."),
+    (6, None, "'Then why has Lyova been cooking soup for an hour already?' Russian says 'cooks soup already an hour', and the present tense covers the whole hour. 'Cooks' is Russian for boiling or making soup."),
+    (7, None, "'Lyova, answer the chef quickly and clearly!' 'Answer' is followed by 'to the chef', so the chef gets the 'u' ending. 'Clearly' comes from 'clear'."),
+    (8, None, "'Right, the waiter brought the first big order.' 'Right' is a Russian 'so', used to get attention. 'Brought' is a past form for a man, and the order is the 'first big' one."),
+    (9, None, "'One veal, cod, and fresh salad!' A list of dishes needs no verbs. 'Veal' comes from 'calf'."),
+    (10, None, "'Is everything clear to everyone? Start cooking!' 'To everyone everything clear' is a quick check you can use anywhere. 'Start' is a plural command."),
+    (11, None, "'I will personally check every finished dish.' 'Personally' comes from 'personal'. 'Finished' also means 'ready'."),
+    (12, None, "'Do not boss around too loudly, Elena.' 'Boss around' rests on 'command'. 'Too' is placed before 'loudly'."),
+    (13, None, "'A real chef always watches over quality.' 'Watches over' is followed by the 'with' form, so 'quality' ends in 'om'. 'Quality' comes from 'what kind'."),
 ]

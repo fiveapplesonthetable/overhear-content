@@ -10,11 +10,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Лёва | Где же лежит эта чёртова рукола? | Where is this damn arugula lying? | #259: Где это чертова рукола | verbatim |
-| 2 | Настя | Лёва, гости в зале ждут салат! | Lyova, guests in the dining room await salad! | #262: Спасибо. Салат | verbatim |
-| 3 | Лёва | Она нашла себе мальчика на побегушках! | She found herself an errand boy! | #258: Тоже мне нашла мальчика на побегушках | verbatim |
+| 1 | Лёва | Где же лежит эта чёртова рукола? | Where is this damn arugula lying? | #259 00:15:19: Где это чертова рукола | verbatim |
+| 2 | Настя | Лёва, гости в зале ждут салат! | Lyova, guests in the dining room await salad! | #262 00:15:32: Спасибо. Салат | verbatim |
+| 3 | Лёва | Она нашла себе мальчика на побегушках! | She found herself an errand boy! | #258 00:15:14: Тоже мне нашла мальчика на побегушках | verbatim |
 | 4 | Настя | Не переживай, шеф просто очень нервничает. | Do not worry, the chef is just very nervous. | new | new |
-| 5 | Лёва | Сначала ищи зелень, потом мой посуду! | First look for greens, then wash dishes! | #260: Сначала-то ищем руколу<br>#261: Потом, может, еще посуду мне помыть | verbatim |
+| 5 | Лёва | Сначала ищи зелень, потом мой посуду! | First look for greens, then wash dishes! | #260 00:15:27: Сначала-то ищем руколу<br>#261 00:15:30: Потом, может, еще посуду мне помыть | verbatim |
 | 6 | Настя | Ты опытный су-шеф, не обижайся так. | You are an experienced sous-chef, do not be so offended. | new | new |
 | 7 | Лёва | Я уважаемый повар, а не грузчик! | I am a respected cook, not a loader! | new | new |
 | 8 | Настя | Помоги мне скорее найти эту коробку. | Help me find this box quickly. | new | new |
@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Where is this damn arugula lying?' Lyova grumbles to himself in the dark, furious about his undignified search mission.
-- 'Lyova, guests in the dining room await salad!' Nastya runs down to hurry him up, stressing the mounting delays upstairs.
-- 'She found herself an errand boy!' He vents his anger about being treated like a lowly intern by the new boss.
-- 'Do not worry, the chef is just very nervous.' Nastya tries to excuse Elena's behavior as just high-pressure stress.
-- 'First look for greens, then wash dishes!' Lyova sarcastically predicts that he will be scrubbing pots next.
-- 'You are an experienced sous-chef, do not be so offended.' She urges him to swallow his pride because the restaurant needs his help.
-- 'I am a respected cook, not a loader!' He stubbornly defends his high rank and culinary prestige.
-- 'Help me find this box quickly.' Nastya ignores his wounded ego and asks for immediate practical assistance.
-- 'Here it is, hidden behind old boxes.' Lyova finally spots the missing ingredient tucked away in a corner.
-- 'Great, take it and let us run to the kitchen!' She grabs the box and tries to motivate him into a quick sprint back up.
-- 'I cannot stand such strange rules.' He complains one last time about the unbearable new regime.
-- 'The main thing is that guests receive their dishes.' Nastya gently reminds him that feeding the customers is their ultimate priority.
-- 'Alright, let us go save our beloved restaurant.' Lyova sighs and agrees to put his duty above his pride for the sake of the team.
+- 'Where is this damn arugula lying?' 'Damn' starts from 'devil'. 'Lies' is the Russian for 'is located' when an object is put down.
+- 'Lyova, the guests in the dining room are waiting for salad!' The expression for 'in the dining room' takes an 'e' ending. 'Wait for' takes the salad directly, without a word for 'for'.
+- 'She found herself an errand boy!' 'Errand boy' is a fixed phrase that is literally 'boy on running-about'. 'for herself' adds a note of contempt.
+- 'Do not worry, the chef is just very nervous.' 'Nervous' comes from 'nerves'. 'Don't worry' is 'not' plus a command.
+- 'First look for greens, then wash dishes!' 'Wash' is spelled exactly like 'my', so 'my dishes' and 'wash the dishes' look the same. 'First' and 'then' keep the order.
+- 'You are an experienced sous-chef, do not be so offended.' 'Don't take offence' ends in 'sya'. 'Experienced' is derived from 'experience'.
+- 'I am a respected cook, not a loader!' 'Respected' is the formal word from speeches. 'Loader' is pieced together from 'cargo'.
+- 'Help me find this box quickly.' The Russian word for 'help' takes 'me' in the 'to' form, since you help 'to' someone. 'Find' follows directly, with no 'to' in front.
+- 'Here it is, hidden behind old crates.' The Russian for 'hid' gets 'as' since 'box' is grammatically a she-word, and it carries the 'sya' tail, so the box 'hid itself'. 'Behind the crates' uses the 'with' form, since the box is not moving.
+- 'Great, take it and let us run to the kitchen!' The term for 'take' is a short command. The term for 'let's run' ends in 'im', the ending for 'we'.
+- 'I cannot stand such strange rules.' The first words are a fixed phrase for 'I can't stand'. 'Rules' here is the plural of 'order'.
+- 'The main thing is that the guests get their dishes.' This pattern uses the past form after the little word 'chtoby', even though it talks about the future. It is the Russian way of saying what you really want to happen.
+- 'Alright, let us go save our beloved restaurant.' 'Let's go' is the respectful plural. 'Beloved' comes from 'to love'.

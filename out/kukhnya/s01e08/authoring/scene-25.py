@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.08'
 SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
-INTRO = 'In the restaurant Claude Monet, Chef Barinov has just found and returned Tyson the pet dog. At that exact moment, Victoria arrives holding an identical Shih Tzu puppy she frantically bought to replace him. Listen to their funny conversation in Russian first, then we will break down each line in English.'
-OPENER = "Now let's go back through the exchange around Two Dogs line by line and unpack how the Russian works."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Chef Barinov brings back the lost dog Tyson, only for Vika to walk in holding an identical Shih Tzu puppy she frantically bought to replace him. Next time you watch the episode, listen for the Russian expressions for 'to be liked' and 'to call' — you will catch every word right away. See you next time!"
+INTRO = "Barinov has just got his dog back, and now Vika turns up with a second dog that looks exactly like it. She bought it in a panic, and she has not thought up an explanation. It's in Russian first."
+OPENER = "Let's go back through it. Barinov asks, and Vika makes things worse with every answer."
+TRANSITION = 'Now the story in one go.'
+OUTRO = "Vika's best moment is 'breed sushi, oh, Shih Tzu'. It's the kind of slip that anyone can make in a foreign language. See you next time."
 CLOSING = ('vika', 'Пока!')
 STORY = [
     ('barinov', 'Вика, посмотри на меня. Это что такое?', 'Vika, look at me. What is this?', [(296, 'Вика, это чё?')], ''),
@@ -32,15 +32,18 @@ STORY = [
     ('vika', 'Как и ваша собака. Я пойду!', 'Just like your dog. I will go!', [(309, 'Как и ваша.'), (310, 'Ну, я пойду.')], ''),
 ]
 WALK = [
-    (0, None, "'What is this?' Barinov stares in total confusion at the second identical dog."),
-    (1, None, "'Chef, this is my new little dog!' Vika introduces her impulsive new purchase to the head chef."),
-    (2, None, "'I bought her this morning.' Vika explains that she went shopping earlier that day."),
-    (3, None, "'I just really liked your Dyson.' Vika admits she fell in love with his pet."),
-    (4, None, "'I could not resist and bought a puppy.' Vika says she simply had to get one for herself."),
-    (5, None, "'Sorry, I still mix them up.' Vika apologizes for losing track of which dog is which."),
-    (6, None, "'It seems this one is yours, and this one is mine.' Vika guesses the ownership based on a quick glance."),
-    (7, None, "'Vika, what is your dog's name?' Barinov asks what she decided to name her new companion."),
-    (8, None, "'His name is Maxik!' Vika blurts out the first name that comes to mind."),
-    (9, None, "'Oh, Shih Tzu!' Vika immediately corrects herself with the actual breed name."),
-    (10, None, "'Just like your dog.' Vika awkwardly points out the similarity to his own pet."),
+    (0, None, "'Vika, look at me. What is this?' 'Look at me' is a command plus a short phrase. 'What is this' has a small extra word, so it sounds indignant."),
+    (1, None, "'Chef, this is my new little dog!' 'Little dog' adds the ending 'ka', which makes the word small and affectionate. 'My new' ends in 'aya', to match."),
+    (2, None, "'I bought her this morning.' 'Bought' ends in 'a' because Vika is a woman. 'Her' goes before the action, as in a quick explanation."),
+    (3, None, "'Why do you need a dog of the same breed?' 'The same' is one word, and 'of the breed' puts the 'of' ending on the breed. 'To you' is how Russian says 'do you need'."),
+    (4, None, "'I just really liked your Dyson.' Vika gets the dog's name wrong, and 'Dyson' is a vacuum-cleaner brand, so it comes out as a funny slip. 'To me pleased' is the Russian way of saying 'I liked'."),
+    (5, None, "'I could not resist and bought a puppy.' 'Could not resist' ends in 'las', and it literally means 'did not hold myself back'. 'puppy' is a diminutive of 'dog'."),
+    (6, None, "'But they are completely identical!' 'Identical' is made from 'one' and 'kind'. 'Completely' sits before it."),
+    (7, None, "'Sorry, I still mix them up.' 'Sorry' is the respectful command to 'excuse me'. 'Still' is literally 'until these times'."),
+    (8, None, "'It seems this one is yours, and this one is mine.' 'This is yours' ends in 'a' to match the dog, which is one of the she-words. 'And' at the start of each half sets up the contrast."),
+    (9, None, "'Vika, what is your dog's name?' Russian says 'how do they call your dog', with nobody named. 'Your dog' takes a changed form for a male dog."),
+    (10, None, "'Mine? His name is Maxik!' 'His name is' is literally 'they call him'. 'Maxik' is a pet form of Max."),
+    (11, None, "'And what breed is this dog?' 'What breed' is a pair of words, and 'at this dog' stands for 'this dog's'. 'Breed' counts as a she-word."),
+    (12, None, "'Breed sushi... Oh, Shih Tzu!' Vika blurts out a Japanese food word instead of the dog's name. 'Oh' is a casual way to correct yourself."),
+    (13, None, "'Just like your dog. I will go!' 'Just like' is two words, 'as and'. 'I will go' is how Russians say 'I'm off'."),
 ]

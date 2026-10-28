@@ -14,11 +14,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 2 | Настя | Костя, ты сегодня очень сердитый и смешной. | Kostya, you are very angry and funny today. | new | new |
 | 3 | Костя | Я просто устал после долгой тяжёлой смены. | I am simply tired after a long hard shift. | new | new |
 | 4 | Настя | Ты всегда сердишься без всякой причины. | You always get angry without any reason. | new | new |
-| 5 | Костя | Пойдёшь со мной сегодня вечером в кино? | Will you go to the cinema with me tonight? | #379: Пойдешь к кино? | verbatim |
-| 6 | Настя | Ну ты настоящий чудак, конечно пойду! | Well you are a real oddball, of course I will go! | #380: Ну ты придурок. | verbatim |
-| 7 | Костя | Тогда встречаемся в семь часов около метро. | Then we meet at seven o'clock near the metro. | #381: Ладно, пойдем. Тогда до вечера. | verbatim |
-| 8 | Шеф | Кто опять трогал мою любимую кастрюлю?! | Who touched my favorite pot again?! | #382: Подонки! | verbatim |
-| 9 | Шеф | Ты за кого сегодня болел на матче?! | Who were you rooting for today at the match?! | #383: Ты за кого болел? Ты за кого болел? | verbatim |
+| 5 | Костя | Пойдёшь со мной сегодня вечером в кино? | Will you go to the cinema with me tonight? | #379 00:23:07: Пойдешь к кино? | verbatim |
+| 6 | Настя | Ну ты настоящий чудак, конечно пойду! | Well you are a real oddball, of course I will go! | #380 00:23:10: Ну ты придурок. | verbatim |
+| 7 | Костя | Тогда встречаемся в семь часов около метро. | Then we meet at seven o'clock near the metro. | #381 00:23:14: Ладно, пойдем. Тогда до вечера. | verbatim |
+| 8 | Шеф | Кто опять трогал мою любимую кастрюлю?! | Who touched my favorite pot again?! | #382 00:23:18: Подонки! | verbatim |
+| 9 | Шеф | Ты за кого сегодня болел на матче?! | Who were you rooting for today at the match?! | #383 00:23:21: Ты за кого болел? Ты за кого болел? | verbatim |
 | 10 | Костя | Шеф опять кричит про свой любимый футбол. | The chef is shouting again about his favorite football. | new | new |
 | 11 | Настя | Он всегда так громко переживает за Спартак. | He always worries so loudly about Spartak. | new | new |
 | 12 | Шеф | Футбол — это самое главное в жизни! | Football is the most important thing in life! | new | new |
@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Nastya, stop laughing so loudly in the kitchen!' Kostya jokingly scolds his colleague for making too much noise.
-- 'Kostya, you are very angry and funny today.' Nastya jokes that the exhausted bartender is acting amusing.
-- 'I am simply tired after a long hard shift.' Kostya defends himself, mentioning the difficult hours he just worked.
-- 'You always get angry without any reason.' Nastya playfully accuses him of being grumpy over nothing.
-- 'Will you go to the cinema with me tonight?' Kostya boldly pivots from complaints to asking her out on a date.
-- 'Well you are a real oddball, of course I will go!' Nastya affectionately accepts his awkward invitation.
-- 'Then we meet at seven o'clock near the metro.' Kostya finalizes the meeting time for their upcoming date.
-- 'Who touched my favorite pot again?!' Barinov shouts from the office about someone touching his things.
-- 'Who were you rooting for today at the match?!' Barinov demands to know which football team they supported.
-- 'The chef is shouting again about his favorite football.' Kostya whispers about the chef's predictable sports obsession.
-- 'He always worries so loudly about Spartak.' Nastya finds the boss's loud football fandom very entertaining.
-- 'Football is the most important thing in life!' Barinov declares his undying love for the sport to everyone.
-- 'Let's go quickly from here while he is calm.' Kostya urges the waitress to leave before the chef finds them.
-- 'Yes, let's go quickly to watch a fun movie!' Nastya agrees to sneak away and enjoy their movie date.
+- 'Nastya, stop laughing so loudly in the kitchen!' 'Stop' is a short command, followed by the bare 'to laugh'. The expression for 'laugh' ends in 'sya', so it is 'laugh yourself'.
+- 'Kostya, you are very angry and funny today.' 'Angry' comes from 'heart'. 'Funny' comes from 'laughter'.
+- 'I am simply tired after a long hard shift.' The Russian for 'tired' is the man's form, with no ending. 'After' is followed by the 'of' form, so 'shift' changes its end.
+- 'You always get angry without any reason.' The word for 'get angry' ends in 'sya', which makes it 'anger yourself'. 'Without' goes into the 'of' form, so 'reason' ends in 'y'.
+- 'Will you go with me to the cinema tonight?' Russians ask 'will you go' to invite someone, just as English does with 'will you come'. 'With me' becomes 'so mnoy'.
+- 'Well, you are a real oddball, of course I will go!' 'Oddball' comes from 'miracle'. 'Of course I will go' is two words.
+- 'Then we meet at seven o'clock near the metro.' Russians use the present for a plan, so 'we meet' means 'let's meet'. 'Metro' never changes.
+- 'Who touched my favorite pot again?!' The Russian for 'touched' is the man's form. 'Pot' is a she-word, so 'my favorite' ends in 'yu' as the thing touched.
+- 'Who were you rooting for at the match today?!' 'Be ill' is also what Russian fans do, so a fan 'is ill' for a team. 'Who for' is two words.
+- 'The chef is shouting again about his favorite football.' 'About' is the casual 'pro'.
+- 'He always worries so loudly for Spartak.' 'Worry' is the word that also means 'live through'. 'For' is the word that marks the team.
+- 'Football is the most important thing in life!' 'The most important' is literally 'most' plus 'main'. 'In life' puts an 'i' on the end of the expression for 'life'.
+- 'Let's go quickly from here, while he is calm.' 'From here' is one word, the opposite of 'to here'. 'While' is the word that also means 'bye'.
+- 'Yes, let's go quickly to watch a fun movie!' 'We go' works as 'let's go'. 'Fun' comes from 'cheerful'.

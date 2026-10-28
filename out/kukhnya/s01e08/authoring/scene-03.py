@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'elena': 'Елена'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.08'
 SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
-INTRO = "Continuing his provocative commentary on the morning cooking broadcast, Chef Viktor Barinov declares that he would never allow a female chef to work in the Claude Monet kitchen. He argues that women talk too much and cannot withstand the grueling pressure of haute cuisine, but Elena Sokolova fiercely defends the competence and discipline of her staff. Let's listen to their argument in Russian first."
-OPENER = "Now let's examine Barinov and Elena's debate on kitchen discipline line by line."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "With neither chef backing down from their entrenched positions, Elena prepares to challenge Barinov to put his pride on the line before the entire television audience. Next time you watch the episode, listen for the Russian expressions for 'carefully' and 'to be afraid' — you will catch every word right away. See you next time!"
+INTRO = "On air, Barinov keeps going. He says he would never take a woman into his kitchen, and Elena has an answer to every point. It's in Russian first."
+OPENER = 'Slowly now. Each line is a claim, and the next line is the reply.'
+TRANSITION = 'It comes round again, in order.'
+OUTRO = "'Prove it in practice' is Elena's best line, and it works for any argument. By the end you've heard 'hard', 'order' and 'rules' a few times each. See you next time."
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('barinov', 'Я никогда не возьму женщину на кухню.', 'I will never take a woman into the kitchen.', [(29, 'Я бы себе на кухню поварику бы не взял')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('barinov', 'Тогда докажите это на деле, Елена!', 'Then prove it in deed, Elena!', [], ''),
 ]
 WALK = [
-    (0, None, "'I will never take a woman into the kitchen.' Barinov bluntly states his hiring policy against female cooks."),
-    (1, None, "'What foolish thoughts, Viktor?' Elena calls out the absurdity of his outdated mindset."),
-    (2, None, "'Women talk too much at work.' He throws out another stereotype about women being too chatty during service."),
-    (3, None, "'In my kitchen there is always perfect order.' Elena counters by highlighting the pristine discipline in her own restaurant."),
-    (4, None, "'In a restaurant kitchen strict control is needed.' Barinov insists that a top-tier kitchen requires a firm hand to keep things running."),
-    (5, None, "'My cooks work calmly and neatly.' Elena emphasizes that her staff operates smoothly without unnecessary yelling."),
-    (6, None, "'You will not cope with our hard work.' He bluntly predicts that she would fail under the immense pressure of his kitchen."),
-    (7, None, "'I cope with any difficult task.' Elena confidently asserts her ability to handle any culinary crisis."),
-    (8, None, "'At Claude Monet restaurant it is very hard.' Barinov tries to intimidate her by talking up the punishing environment at Claude Monet."),
-    (9, None, "'I am not afraid of hard work, chef!' Elena refuses to back down, stating she does not fear a demanding shift."),
-    (10, None, "'You do not understand our male rules.' He implies there is an unspoken brotherhood that she could never grasp."),
-    (11, None, "'The rules in the kitchen are the same for everyone.' Elena rejects his exclusivity, arguing that professional standards apply to everyone."),
-    (12, None, "'Then prove it in deed, Elena!' Barinov finally dares her to put her skills to the ultimate test."),
+    (0, None, "'I will never take a woman into the kitchen.' 'Never' needs 'not' too. 'Will take' is the one-word future, and 'woman' has the movement ending."),
+    (1, None, "'What foolish thoughts, Viktor?' 'What kind of' is the chunk 'chto za'. 'Thoughts' is a plural."),
+    (2, None, "'Women talk too much at work.' 'Too much' is two words in Russian. 'At work' uses 'na', which Russians use for workplaces."),
+    (3, None, "'In my kitchen there is always perfect order.' 'On my kitchen' is the Russian choice for 'in my kitchen', because Russians say 'on' for workplaces. 'Perfect' springs from 'ideal'."),
+    (4, None, "'In a restaurant kitchen strict control is needed.' 'Needed' ends in a consonant to agree with 'control'. 'Strict' goes in front, as it does with most describing words."),
+    (5, None, "'My cooks work calmly and neatly.' 'Cooks' ends in 'a'. 'Calmly' and 'neatly' both end in 'o'."),
+    (6, None, "'You will not cope with our hard work.' 'Cope' ends in 'sya' and is followed by 'with'. 'Hard' also means 'heavy', as in 'a heavy job'."),
+    (7, None, "'I cope with any difficult task.' The same word for 'cope', now in the 'I' form. 'Any' and 'difficult' agree with 'task'."),
+    (8, None, "'At Claude Monet restaurant it is very hard.' 'Hard' has no subject, so it's like 'it is heavy'. The word is also used for weather and mood."),
+    (9, None, "'I am not afraid of hard work, chef!' After 'not afraid', the thing feared appears in the 'of' form. So 'work' changes shape."),
+    (10, None, "'You do not understand our male rules.' With 'not understand', the thing you don't understand takes the 'of' form. 'Male' comes from 'man'."),
+    (11, None, "'The rules in the kitchen are the same for everyone.' 'The same' is one word that means 'identical'. 'For everyone' is two short words."),
+    (12, None, "'Then prove it in deed, Elena!' 'In deed' means 'in practice'. It's a favourite phrase of Russian bosses."),
 ]
