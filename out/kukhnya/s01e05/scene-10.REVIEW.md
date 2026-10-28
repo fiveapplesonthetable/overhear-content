@@ -27,7 +27,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Listen, Oguzok, come here to me.' 'Listen' is the everyday way to get someone's attention, like 'hey'. 'Come up to me' is a short command, and 'oguzok' is the nickname Barinov uses for Max.
-- 'Yes, chef! What needs to be done?' 'Needed' is a handy word that says 'it's necessary' without naming anyone. 'To be done' is a single word, so there's no 'to be' to add.
+- 'Yes, chef! What needs to be done?' 'Needed' is a handy word that says 'it's necessary' without naming anyone. 'To be done' is a single word with no 'to be' in it.
 - 'Go to the bar and bring cognac.' The little 's' at the start of the first word means 'go there and come back'. 'Bring' starts with 'pri', the piece that means 'toward'.
 - 'Which cognac exactly do you need?' The polite 'you' appears as 'to you needed', again with no 'I need'. The small word 'exactly' comes right after 'which'.
 - 'I wrote the name on this piece of paper.' The word for the paper has a 'ka' on the end, which makes it a small scrap. 'The name' here is for a thing, like a brand, not a person's name.
@@ -38,4 +38,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Understood, I will do everything quickly and quietly.' The first word is a one-word 'got it'. Quickly and quietly both end in 'o', which is how Russian often makes 'how' words from describing ones.
 - 'And stuff the fish with julienne and lemon.' The command comes from the word for minced filling. 'with lemon' ends in 'om', and that 'om' is what 'with' asks for.
 - 'Then put it into the hot oven.' 'it' is a woman's form because fish is a 'she' in Russian. The command means 'stand it', as Russians say 'stand' for putting something upright.
-- 'Right away, chef, I'm already running!' The first word is what a soldier would say, 'I obey'. The last two are 'already' and 'I run', and the 'u' on the end is the ending for 'I'.
+- 'Right away, chef, I'm already running!' The line begins with what a soldier would say, 'I obey'. The last two are 'already' and 'I run', and the 'u' on the end is the ending for 'I'.

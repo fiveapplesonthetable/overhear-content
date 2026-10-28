@@ -12,7 +12,7 @@ SOURCE_NAME = 'Кухня (Kukhnya) S1.05'
 SOURCE_FILE = 'sources/kukhnya/s01/e05.ru.dual.srt'
 INTRO = "The fish duel is over, and the verdict is about to be read out. Vika has tasted both dishes, and Chef Barinov is relaying what she said to Max, who is bracing for the worst. It's in Russian first, and you don't need to understand all of it."
 OPENER = "Let's take the verdict apart. Barinov enjoys this far too much."
-TRANSITION = 'And now the full verdict again.'
+TRANSITION = 'Let it play straight through.'
 OUTRO = 'A good chunk of this scene was borrowed words: verdict, jury, congratulations. If you can hear them, you already know more Russian than you thought. See you next time.'
 CLOSING = ('barinov', 'Пока!')
 STORY = [
@@ -30,16 +30,16 @@ STORY = [
     ('max', 'Надеюсь, наши гости останутся очень довольны.', 'I hope our guests will remain very pleased.', [(202, 'Вкусно, да')], ''),
 ]
 WALK = [
-    (0, None, "'Chef, it seems the end has come for me now.' Max uses 'it seems', which is a handy way to soften any guess. 'To me an end' is how Russian says 'I'm finished', and 'will set in' is the one used for seasons arriving."),
+    (0, None, "'Chef, it seems the end has come for me now.' Max uses 'it seems', which is a handy way to soften any guess. 'To me an end' is Russian for 'I'm finished', and 'will set in' is the one used for seasons arriving."),
     (1, None, "'Keep quiet and listen to the jury's strict verdict.' Both commands are short: 'be quiet' and 'listen'. 'Verdict' and 'jury' are borrowed, so they sound nearly like English."),
     (2, None, "'Vika chose this first dish in particular.' Barinov calls her by her full first name here, which is more formal than 'Vika'. 'dish' ends in 'o', and 'this' and 'first' end in 'o' too, to match it."),
     (3, None, "'And the second fish she called awful?' 'awful' comes from 'horror'. Russian says 'called the fish awful' with a special ending on 'awful', rather than 'as' or 'to be'."),
-    (4, None, "'She didn't recommend it to anyone in the hall.' 'Recommend' is built on 'advice', so it is 'she didn't advise it'. 'To nobody' is a single word, and the 'not' stays in the sentence."),
-    (5, None, "'Congratulations, our cook won fairly today!' The first word is 'I congratulate', in one word with no 'I'. 'Fairly' comes from 'honor', so it is 'honestly'."),
+    (4, None, "'She didn't recommend it to anyone in the hall.' 'Recommend' stems from 'advice', so it comes out as 'she didn't advise it'. 'To nobody' is a single word, and the 'not' stays in the sentence."),
+    (5, None, "'Congratulations, our cook won fairly today!' The first word is 'I congratulate', in one word with no 'I'. 'Fairly' comes from 'honor', meaning 'honestly'."),
     (6, None, "'Thank you very much for the great, fair evaluation.' Russian says 'thanks big' for 'thank you very much'. 'Fair' comes from 'justice', and 'evaluation' is a close cousin of a school grade."),
-    (7, None, "'Lord, how incredibly delicious this is!' The first word is what Russians say when they're amazed, like 'good Lord'. 'Delicious' is built from 'taste'."),
-    (8, None, "'Chef, let me taste a little too.' 'give' with the 'te' ending is the polite form, because Max is talking to his boss. 'Too' is a small word that sits in the middle, and 'a little' is one word."),
+    (7, None, "'Lord, how incredibly delicious this is!' The line begins with what Russians say when they're amazed, like 'good Lord'. 'Delicious' grows out of 'taste'."),
+    (8, None, "'Chef, let me taste a little too.' 'Give' with the 'te' ending is the formal form, because Max is talking to his boss. 'Too' sits in the middle of the sentence, and"),
     (9, None, "'Wait, I haven't properly tasted it myself yet.' 'myself' stresses who's doing the tasting. 'Not yet' is two small words, and the long word at the end has a prefix that means 'really taking it in'."),
-    (10, None, "'And the losing cook must finish eating everything himself.' 'The losing one' is built on 'to lose a game'. 'finish eating' starts with the little piece that means 'all the way to the end'."),
-    (11, None, "'I hope our guests will remain very pleased.' 'I hope' is one word and comes from 'hope'. 'Remain' is the future, and 'pleased' takes a plural ending to match 'guests'."),
+    (10, None, "'And the losing cook must finish eating everything himself.' 'The losing one' is derived from 'to lose a game'. 'finish eating' starts with the little piece that means 'all the way to the end'."),
+    (11, None, "'I hope our guests will remain very pleased.' 'I hope' is a single word that comes from 'hope'. 'Remain' is the future, and 'pleased' takes a plural ending to match 'guests'."),
 ]

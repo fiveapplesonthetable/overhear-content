@@ -29,11 +29,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Hi, Nastya, no, I am completely free.' 'Completely' is the same small word as in 'not at all'. 'Free' ends in a consonant because Kostya is a man.
 - 'Then come with me into the quiet room.' 'Let's go' ends in 'yom', a form that means 'we'. 'With me' is 'so mnoy', where the 'so' is just 'with' made easier to say.
 - 'Wait a second, where exactly are we going?' 'where to' is not the same as 'where at'; Russian wants one for movement. 'Wait' is a command that sounds like 'hang on'.
-- 'I wanted to ask you seriously for a long time.' 'Wanted' ends in 'a' because Nastya is a woman. 'For a long time' is a single word that works with a past action.
+- 'I wanted to ask you seriously for a long time.' 'Wanted' ends in 'a' because Nastya is a woman. 'For a long time' is one word, and it goes naturally with an action that has been on her mind.
 - 'I will listen to you with pleasure now.' 'With pleasure' is a short, polite phrase, and it takes three words. 'hear out' has a prefix that means 'all the way to the end'.
 - 'Do you want us to start dating?' Russian doesn't say 'want us to start'. It says 'want so-that we started', using a past form after a linking word. 'Dating' is the same 'meeting' word that Russians use for going out.
 - 'Nastya, I just got a little confused.' The long word at the end ends in 'sya', and it means roughly 'lost myself'. 'Just' and 'a little' soften it, so he sounds shy.
-- 'Or do you not want this at all?' 'Not at all' is built from 'completely' and 'not'. 'This' ends in 'ogo', because Russian changes it after a negative 'want'.
-- 'Of course I want to, I like you very much!' Kostya answers with one word, 'I want', and then there's no 'I' in the second half either. 'You to me are pleasing' is the Russian way to say 'I like you'.
+- 'Or do you not want this at all?' 'Not at all' is made from 'completely' and 'not'. 'This' ends in 'ogo', because Russian changes it after a negative 'want'.
+- 'Of course I want to, I like you very much!' Kostya answers with one word, 'I want', and then there's no 'I' in the second half either. 'You to me are pleasing' is the Russian way of saying 'I like you'.
 - 'I am very glad to hear this from you.' 'glad' ends in 'a' for a woman. 'From you' is the same pair of words that Russians use for any 'from'.
 - 'Now it is time for us to return to the guests.' 'time to' is short and has no 'is'. 'To us' sits right after it, and 'to the guests' needs the little word 'k' to mean 'toward'.

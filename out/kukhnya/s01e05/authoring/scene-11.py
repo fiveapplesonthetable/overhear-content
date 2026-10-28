@@ -12,7 +12,7 @@ SOURCE_NAME = 'Кухня (Kukhnya) S1.05'
 SOURCE_FILE = 'sources/kukhnya/s01/e05.ru.dual.srt'
 INTRO = "Nastya is still crying over Max, and her friend Sasha has decided that crying won't fix anything. She has a plan, and it involves Kostya the bartender. It's in Russian first, so just listen to how it sounds."
 OPENER = 'Slowly now. Sasha sounds like a general giving orders, and Nastya sounds unconvinced.'
-TRANSITION = 'And the whole plan once more.'
+TRANSITION = 'Back to the full version.'
 OUTRO = "You've heard the Russian way of saying 'I'll feel better': the feeling simply 'becomes lighter'. It's one of those phrases you can reuse for a headache, a worry or a bad day. See you next time."
 CLOSING = ('nastya', 'Пока!')
 STORY = [
@@ -32,8 +32,8 @@ STORY = [
 ]
 WALK = [
     (0, None, "'Max treated me very badly.' Russian says 'acted with me', with the small word for 'with me' in a different shape from plain 'me'. 'Very badly' is two easy words you'll use again."),
-    (1, None, "'Stop crying, Nastya, wipe your tears.' The first word is 'enough', and it's followed directly by 'to cry', with no 'of' or 'from'. 'Wipe' is a command, and 'tears' is the plural, which in Russian looks a lot like a soft 'zy' ending."),
-    (2, None, "'You just need to get back at him.' 'You need' is 'to you needed', which is the way Russian says it. 'Get back at' is built on 'revenge', and 'him' appears as 'to him'."),
+    (1, None, "'Stop crying, Nastya, wipe your tears.' The opening word is 'enough', and it's followed directly by 'to cry', with no 'of' or 'from'. 'Wipe' is a command, and 'tears' is the plural, which in Russian looks a lot like a soft 'zy' ending."),
+    (2, None, "'You just need to get back at him.' 'You need' is 'to you needed', which is the way Russian says it. 'Get back at' is rooted in 'revenge', and 'him' appears as 'to him'."),
     (3, None, "'Will I feel better if I get revenge?' 'I will feel better' is literally 'to me will become lighter'. The same word for 'lighter' is also 'easier'."),
     (4, None, "'Of course, you will immediately feel better.' Sasha uses the same 'to you will become lighter' shape. 'immediately' is a handy single word: 'at once'."),
     (5, None, "'But how can I punish him?' 'I can' is a short form you'll use constantly. 'Punish' belongs to the family of 'punishment'."),

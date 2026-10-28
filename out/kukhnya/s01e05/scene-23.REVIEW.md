@@ -28,16 +28,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'There are days when everything goes wrong.' 'There are' here is 'happen', which Russians use for things that come round. 'Goes wrong' is literally 'goes not so'.
-- 'In the kitchen today there was a real rush.' 'Was' ends in 'a' to match 'rush', which is a she-word. 'Real' is the same word that means 'true', as in 'true love'.
+- 'In the kitchen today there was a real rush.' 'Was' ends in 'a' to match 'rush', which counts as a she-word. 'Real' is the same word that means 'true', as in 'true love'.
 - 'The chef shouted, and the orders did not end.' The little word 'a' in the middle is a contrast, like 'while'. 'Did not end' ends in 'sya', which is 'finish themselves'.
 - 'But such difficult days always end.' 'Difficult' comes from 'labour'. 'Such' and 'difficult' have the same plural ending.
 - 'To someone this day brought something new.' 'Someone' is 'who' plus a tiny 'to', and here it is in the 'to' form. 'Something' is 'what' with the same little piece.
 - 'For someone everything stays the same.' 'The same' is literally 'in the old way'. 'Stays' ends in 'sya'.
 - 'Hi, Nastya, glad to see you.' 'Glad' is the man's form. 'To see you' has 'you' in a changed shape.
-- 'I hope your shift went well.' 'I hope' is one word. 'Your shift went' uses 'went' in the sense of 'passed', as if the shift walked by.
+- 'I hope your shift went well.' 'Your shift went' uses 'went' in the sense of 'passed', as if the shift walked by.
 - 'Seven thousand rubles on Spartak!' Barinov loves Spartak, a Moscow football club, so he bets on them. 'Thousand' has a plural form after 'seven'.
 - 'My favorite team will definitely win!' 'Favorite' comes from 'to love'. 'Will win' is a one-word future.
-- 'Someone is sincerely happy with this day.' 'Sincerely' is built from the same family as 'sincere'. 'Glad' is followed by the 'to' form, so it's 'glad to this day'.
+- 'Someone is sincerely happy with this day.' 'Sincerely' is assembled from the same family as 'sincere'. 'Glad' is followed by the 'to' form, so it's 'glad to this day'.
 - 'And I am happy that it ended.' 'Happy' ends in a consonant because Max is a man. 'It ended' is about the day, which is masculine in Russian.
-- 'Tomorrow in the kitchen new work will begin.' 'Tomorrow' is a short word. 'Will begin' ends in 'sya', so the work begins itself.
-- 'And today it is time to rest a little.' 'Time to' is a short word with no 'is'. 'Rest' comes from 'a break'.
+- 'Tomorrow in the kitchen new work will begin.' 'Will begin' ends in 'sya', so the work begins itself.
+- 'And today it is time to rest a little.' 'Time to' is one word with no 'is'. 'Rest' comes from 'a break'.

@@ -27,15 +27,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Max, come here right now!' There are two words for 'here' in Russian, one for 'I am here' and one for 'come here'. This one is the 'come here' type, which is why it goes with a command.
-- 'Hi, Vika, what happened?' The last word is the past of 'to happen', and it is built on 'chance'. It's what you ask when someone looks upset.
-- 'Listen to me very attentively, one time.' 'Listen' is the plain command, and 'attentively' is built on 'attention'. 'One time' is literally 'one time', which means 'only once'.
+- 'Hi, Vika, what happened?' The last word is the past of 'to happen', and it is based on 'chance'. It's what you ask when someone looks upset.
+- 'Listen to me very attentively, one time.' 'Listen' is the plain command, and 'attentively' is related to 'attention'. 'One time' is literally 'one time', which means 'only once'.
 - 'Don't touch my waitresses ever again!' 'Don't' goes before the command. The word for a female waiter is the male word with 'ka' on the end, and 'never again' is 'more never'.
 - 'Or I will take very strict measures.' Russian 'accepts' measures, rather than 'taking' them. 'Strict' comes before 'measures' and the two words share the same ending.
 - 'Vika, why are you so angry?' The last word ends in 'sya', so it means 'be angry' as a state you are in. The little word 'so' in front of 'strongly' gives it extra force.
 - 'Poor Nastya has been crying because of you all day.' 'Poor' is 'pitiable', and it comes before her name. 'All day' is just 'all' and 'day', with no word for 'the whole of'.
 - 'But absolutely nothing happened between us!' 'Between us' has an unusual form for 'us'. 'Nothing was not' is a negative on top of a negative, and it's correct.
-- 'I saw your strange conversations by the bar.' 'Saw' ends in 'la' because Vika is a woman. 'Your' is the plural kind, as it points at Max and Nastya together.
+- 'I saw your strange conversations by the bar.' 'Saw' carries 'la' since Vika is a woman. 'Your' is the plural kind, as it points at Max and Nastya together.
 - 'I warned you for the last time.' 'warned' starts with a prefix meaning 'before'. 'For the last time' is 'in the last time' in Russian.
 - 'Alright, I understood you, thanks for the advice.' Max says 'understood' with no ending, since he is a man. 'Thanks for' is two small words, and the thing you're thanking someone for comes right after.
-- 'Now I need to quickly salt the soup.' 'to salt' is built on the word for salt itself. 'I need' is 'to me needed', the usual way to say it.
+- 'Now I need to quickly salt the soup.' 'to salt' rests on the word for salt itself. 'I need' is 'to me needed', the usual way to say it.
 - 'And not forget to add fresh cream.' Cream is always plural in Russian, so it's more like 'the creams'. 'Not forget' is a neat pair of words that you can reuse in any list of reminders.

@@ -27,15 +27,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'You are handling all the fish orders!' The word 'you' is at the very end, which stresses it: 'it's you who does them'. 'Fish orders' is 'orders on fish'.
-- 'Yes, Chef, I am ready to work!' The first word is what a soldier says to an order, a bit like 'aye, sir'. 'Ready for work' uses a short 'toward' word before the work.
-- 'Let us see what kind of fish master you are.' 'What sort out of you' is the Russian way to say 'what you're made of'. 'Fish' turns into a describing word, so it's 'fishy master'.
+- 'Yes, Chef, I am ready to work!' The opening word is what a soldier says to an order, a bit like 'aye, sir'. 'Ready for work' uses a short 'toward' word before the work.
+- 'Let us see what kind of fish master you are.' 'What sort out of you' is the Russian phrase for saying 'what you're made of'. 'Fish' turns into a describing word, so it's 'fishy master'.
 - 'I will prepare all dishes very quickly.' 'All' is the plural kind, to match 'dishes'. 'Prepare' is the 'I will' form, which finishes with 'u'.
 - 'Maxim, take the order: two cod Florentines!' Barinov uses Max's full name, which is stricter. 'Two' is the female form because the fish is female, and the 'po' and 'ski' on the dish name mean 'in the style of'.
 - 'Yes, Chef, I am already starting to cook.' 'Already' is a useful little word. 'I start' ends in 'u', and the cooking word comes straight after it.
-- 'And two more portions of cod with almonds!' 'More' is the same small word you hear for 'still'. 'With almonds' ends in 'om' because of 'with'.
+- 'And two more portions of cod with almonds!' 'More' is the same small word you hear for 'still'. 'With almonds' gets 'om' since of 'with'.
 - 'But I already took two dishes!' The little word at the start adds 'after all', as in 'I've only just taken two!' After 'two', the dish word looks singular, but the form is a special one.
 - 'Do not argue, Fedya managed somehow!' 'Don't argue' is 'not' and then a command, from 'dispute'. 'Managed' is 'coped', and 'somehow' is a nice vague little word.
 - 'I do not have enough fresh fish here.' Russian says 'to me not enough', and then 'of fresh fish', in a slightly different shape. The word 'here' is the one for a place.
-- 'Search in the storage and hustle faster!' 'hustle' is literally 'spin', and it ends in 'sya'. 'Faster' is built from 'fast' with 'ee' on the end.
+- 'Search in the storage and hustle faster!' 'hustle' is literally 'spin', and it ends in 'sya'. 'Faster' is formed from 'fast' with 'ee' on the end.
 - 'I will handle all orders myself.' 'Handle' is the 'I will' form of 'cope'. 'With all orders' has 'with' plus an 'imi' ending.
 - 'Prove it with action then, rump!' 'Prove' is a command, and 'with action' is just the word for a deed with 'om' on the end. The last word is the chef's nickname for Max.

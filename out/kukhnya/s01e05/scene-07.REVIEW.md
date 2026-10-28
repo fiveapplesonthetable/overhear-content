@@ -32,8 +32,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Do not be upset over a foolish cook.' Russian makes 'don't' by putting 'not' before the command. It ends in 'sya', so it is really 'don't upset yourself'.
 - 'I feel very hurt and sad.' She says 'to me hurtful and hard', with the feelings sitting outside her. This is the standard way to talk about a feeling in Russian.
 - 'Wash your face with cold water and calm down.' Both commands end in 'sya': 'wash yourself' and 'calm yourself'. 'With cold water' changes both words' endings to show 'using'.
-- 'Thank you for the support, Victoria Sergeevna.' Nastya uses the full name and the father's name, which is the polite way to address a senior colleague. Vika is usually 'Vika' in the kitchen, but here she's treated with respect.
+- 'Thank you for the support, Victoria Sergeevna.' Nastya uses the full name and the father's name, which is the respectful way to address a senior colleague. Vika is usually 'Vika' in the kitchen, but here she's treated with respect.
 - 'Go back to the dining room, the guests are waiting for their order.' 'Go back' ends in 'sya' too: 'return yourself'. The word for the dining room is short, and 'wait' is followed directly by what you're waiting for.
 - 'I have already dried my tears and I am ready.' 'Dried' ends in 'la' because Nastya is a woman. 'ready' also takes a woman's ending, an 'a'.
-- 'Good girl, work cures everything!' The first word is a pet word for a clever woman, from 'mind'. Then 'cures' is a doctor's word, so work is the medicine.
-- 'You are absolutely right, I am going to work!' She switches to the polite 'you' again, and 'right' takes the plural ending to match. 'I am going' is the word for walking, and it takes 'to work' straight after it.
+- 'Good girl, work cures everything!' The line begins with a pet word for a clever woman, from 'mind'. Then 'cures' is a doctor's word, so work is the medicine.
+- 'You are absolutely right, I am going to work!' She switches to the polite 'you' again, and 'right' takes the plural ending to match. 'I am going' is the term for walking, and it takes 'to work' straight after it.

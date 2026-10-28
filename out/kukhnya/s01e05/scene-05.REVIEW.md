@@ -29,8 +29,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Good morning, Chef!' Literally the greeting is 'kind morning', and the 'kind' takes the same ending as the morning does. 'chef' is borrowed from French, and in this kitchen it works as 'boss'.
 - 'Runt, you are constantly late for work.' The chef's nickname for Max is back. The verb for 'be late' is in the present, which in Russian can mean 'you keep being late'.
-- 'Chef, they did not issue my uniform on time.' Max says 'to me they didn't issue', with no one named. 'on time' is a single word, written as one.
-- 'Enough excuses, quickly go to work!' The first word is 'enough', and the thing you've had enough of comes after it. The last two words are 'go' and 'work', with no 'to' between them, which is how Russian says 'go and work'.
+- 'Chef, they did not issue my uniform on time.' Max says 'to me they didn't issue', with no one named, which is the standard way to blame nobody. The phrase for 'on time' is written as a single word.
+- 'Enough excuses, quickly go to work!' The line opens with 'enough', and the thing you've had enough of comes after it. The last two words are 'go' and 'work', with no 'to' between them, which is how Russian says 'go and work'.
 - 'You joke as badly as you cook.' The two halves are built to match: 'as badly' and then 'as you cook'. The verb for 'cook' is also the one for 'prepare', so Fedya uses it for any food.
 - 'I didn't understand your joke, Fedya.' It's the polite way of saying 'I didn't get it'. 'Joke' changes its ending after 'your', because the joke is the thing that wasn't understood.
 - 'This is a normal state for your brain.' 'normal' is closer to 'usual' or 'ordinary'. It is a good insult because it sounds almost calm.
@@ -39,5 +39,5 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'And do you think you cook better than me?' Russian says 'better of me', putting 'me' in a different form instead of using a word for 'than'. That is the usual way to compare two people.
 - 'Certainly much better than you!' It's the same comparison, with 'you' in the same changed form. 'much' is stuck on the front of 'better' to make 'far better'.
 - 'Then let's make a culinary bet!' 'let's' is literally 'give', and it's how Russians propose something. The thing they propose is 'a dispute', and the same word also means 'bet' in this context.
-- 'Wanna bet, runt! I will easily beat you!' Fedya's first word is built on 'dispute' from the line before. 'easily' comes from 'light', as in light weight.
+- 'Wanna bet, runt! I will easily beat you!' Fedya's first word stems from 'dispute' from the line before. 'easily' comes from 'light', as in light weight.
 - 'We will see which of us is the best cook!' The first word is the 'we'll see' you use when you want the last word. 'Of us' is a nice chunk: 'which of us' becomes 'who from us'.
