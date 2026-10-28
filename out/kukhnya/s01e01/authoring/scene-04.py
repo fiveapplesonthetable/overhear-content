@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.01'
 SOURCE_FILE = 'sources/kukhnya/s01/e01.ru.dual.srt'
-INTRO = 'On the morning after a lively night at the club. Max is quietly trying to leave the apartment, but Vika wakes up and catches him at the door. As always, listen to the whole conversation in Russian first, and then we will break it down together in English.'
-OPENER = "Let's go through their awkward morning exchange step by step. Max is eager to leave, but Vika has questions."
+INTRO = "The morning after. Max is trying to slip out of Vika's flat without a fuss, but she is awake, and he has got hold of completely the wrong idea about what she expects from him. Here is the awkward conversation in Russian first."
+OPENER = "Now let's untangle it."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = 'That concludes our fourth scene. When you watch the first episode of Kukhnya, listen for Max trying to slip away and Vika asking if he is really running away. You will recognise these lines right away. See you next time!'
+OUTRO = 'That is a messy start to a love story. On the way you picked up "I have to" and "I don\'t need", two patterns that will serve you well in everyday Russian.'
 CLOSING = ('vika', 'До встречи!')
 STORY = [
     ('max', 'Мне уже идти надо.', 'I need to go now.', [(24, 'мне идти надо')], ''),
@@ -32,19 +32,19 @@ STORY = [
     ('vika', 'Уходи. И не возвращайся сюда.', 'Leave. And do not come back here.', [], ''),
 ]
 WALK = [
-    (0, None, "'I need to go now.' Max attempts to slip out quietly in the morning, keeping his exit brief."),
-    (1, None, "'What, are you running away?' Vika catches him at the door and confronts him about sneaking out."),
-    (2, None, "'Why running away?' He plays dumb, pretending this is just a normal departure."),
-    (3, None, "'No, I'm just leaving.' Max stammers out a weak denial to defend his hasty exit."),
-    (4, None, "'Just like that? And that's all?' She is shocked by his casual attitude after their intimate night together."),
-    (5, None, "'What about what was between us?' Vika demands to know if their connection meant anything to him."),
-    (6, None, "'Thank you. It was fun.' He brushes it off as a casual hookup, completely misreading her emotional investment."),
-    (7, None, "'Fun, and that's it?' She repeats his careless word, offended by his dismissive tone."),
-    (8, None, "'What else?' Max coldly implies there was nothing more to their encounter."),
-    (9, None, "'Oh, come on.' Vika scoffs at his callousness, unable to believe his behavior."),
-    (10, None, "'No, I have no money.' He tries to excuse himself by claiming he cannot offer her financial compensation."),
-    (11, None, "'You and I didn't agree to that.' Max points out that they made no promises to each other."),
-    (12, None, "'I don't need your money.' She snaps back that she doesn't want a payout, deeply insulted by the suggestion."),
-    (13, None, "'Then I am off.' He takes her rejection of money as an opportunity to finally leave."),
-    (14, None, "'Leave. And do not come back here.' Vika kicks him out in anger, commanding him never to return."),
+    (0, None, '\'I need to go now.\' "Mne idti nado" is "to me to go is necessary", the same "mne nado" pattern for needing to do something. "Uzhe", "already", turns it into a ready-made excuse.'),
+    (1, None, '\'What, are you running away?\' "Ubegayesh\'" is "bezhat\'", to run, with "u-" on the front for "away". "Ty chto" at the start is like "what, you...?", a little burst of disbelief.'),
+    (2, 'Почему убегаю?', '\'Why running away?\' Max throws her word back at her with one change. Hers ended in "-esh", "you", and his ends in "-yu", "I".'),
+    (2, 'Нет, просто ухожу.', '\'No, I\'m just leaving.\' "Prosto", "simply", is back, and it makes the sentence sound like a shrug. "Ukhozhu" uses the same "u-" for "away" as Vika\'s "run away", this time on foot.'),
+    (3, None, '\'Just like that? And that\'s all?\' "Vot tak" is "like so", and "i vsyo" is "and everything". Put together, "i vsyo?" is how Russians say "and that\'s it?", a very handy reaction.'),
+    (4, None, '\'What about what was between us?\' Word for word it\'s "and that what between us was". "Nami" is "us" in the form that comes after "between", and "bylo", "was", is the neuter one, because it refers to "that".'),
+    (5, 'Спасибо. Прикольно было.', '\'Thank you. It was fun.\' "Prikol\'no" is slang for fun or cool, built on "prikol", a gag or a joke. It\'s exactly the wrong word to use after a night like this, and she hears it that way.'),
+    (6, None, "'Fun, and that's it?' Vika picks up his slang word and hands it straight back. Repeating someone's word is the quickest way in any language to say you didn't like it."),
+    (7, None, '\'What else?\' "A chto yeshchyo" is "and what more". The "a" at the start works like "so" in English, and Max sounds blank.'),
+    (8, None, '\'Oh, come on.\' "Da ladno" is literally "yes, fine", but with the right tone it means "come on!" or "you can\'t be serious". "Tebe" on the end, "to you", adds a bit of scolding.'),
+    (9, None, '\'No, I have no money.\' The two "nyet" words do different jobs: the first is "no", and the second is "there isn\'t". After "there isn\'t", "money" changes shape and becomes "deneg". Putting "money" first gives it the stress.'),
+    (10, None, '\'You and I didn\'t agree to that.\' "My s toboy" is "we with you", the usual Russian for "you and I". "Dogovarivalis\'" ends in "-lis\'", which is the "we did" ending of the past, and it comes from "dogovor", an agreement.'),
+    (11, None, '\'I don\'t need your money.\' "Mne ne nuzhny" is the "to me needed" pattern, but with plural "nuzhny" because "den\'gi" is always plural in Russian. It\'s a bit like "pants" in English.'),
+    (12, None, '\'Then I am off. I have things to do.\' "Ya poshyol" is literally "I went", and Russians say it to mean "I\'m off". "U menya dela" is the "at me" pattern with "dela", things to do.'),
+    (13, None, '\'Leave. And do not come back here.\' "Ukhodi" is the command form of the same "ukhozhu", "I\'m leaving". "Syuda" is "to here", used when you move toward the place. For being there, Russians say a different word.'),
 ]

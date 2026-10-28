@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'sasha': 'Саша', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.01'
 SOURCE_FILE = 'sources/kukhnya/s01/e01.ru.dual.srt'
-INTRO = "In the hallway of Claude Monet, restaurant art director Vika catches up with waitress Sasha. Anxious to update the dining room offerings, Vika asks whether the head chef has prepared the requested new menu. Hearing that the temperamental chef simply shouted in response, Vika prepares to confront him directly. Let's listen to their conversation in Russian first."
-OPENER = "Let's examine the dialogue line by line. Notice the workplace requests and expressions of concern regarding the chef's temper."
+INTRO = "In the corridor of Claude Monet, the art director, Vika, catches up with the waitress, Sasha. She wants to know if the chef has seen her request for a new menu, and what he said. Here's their talk in Russian first."
+OPENER = "Let's go through it line by line."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Vika prepares to face the formidable head chef to keep the restaurant running smoothly. Keep up the great work practicing conversational Russian! Next time you watch the episode, listen for the Russian expressions for 'dish' and 'to be' — you will catch every word right away. See you next time!"
+OUTRO = 'Vika decides to deal with the chef herself, which is typical of her. You\'ve heard Russian for "I\'ll go myself", and a handy way to say "be careful".'
 CLOSING = ('vika', 'Пока!')
 STORY = [
     ('vika', 'Саша, ты передала шефу мою важную просьбу?', 'Sasha, did you pass my important request to the chef?', [(146, 'ты сказал у шефа')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('vika', 'Ничего, порядок в ресторане важнее его капризов!', 'That is fine, order in the restaurant is more important than his whims!', [(148, 'Но и')], ''),
 ]
 WALK = [
-    (0, None, "'Sasha, did you pass my important request to the chef?' Vika checks in with her subordinate to ensure a crucial message reached the kitchen leadership."),
-    (1, None, "'Yes, Viktoriya Sergeyevna, I told him everything.' The waitress respectfully confirms that the communication was delivered exactly as instructed earlier."),
-    (2, None, "'Did you say that I asked for the new menu?' Wanting absolute certainty, the manager specifies the exact topic that was supposed to be discussed."),
-    (3, None, "'Yes, I personally reminded the chef about this.' Emphasizing her diligence, the staff member reassures her boss that she personally brought it up."),
-    (4, None, "'And what was his answer to that?' Pressing for details, the art director inquires about the culinary mastermind's reaction to the demand."),
-    (5, None, "'He only loudly shouted at the entire kitchen.' Recounting the volatile response, the waitress describes a typical loud outburst instead of a yes."),
-    (6, None, "'I see, he again is completely not listening to me.' Vika sighs in frustration, realizing her authority is being ignored once more."),
-    (7, None, "'The chef has been very angry since this morning.' Warning her superior, the server notes the particularly foul temper radiating from the back room."),
-    (8, None, "'We urgently need to update the list of our dishes.' Stressing the business necessity, the manager insists the offerings must be modernized without delay."),
-    (9, None, "'Guests in the dining room are already asking for new desserts.' Backing up the urgency, the waitress mentions that customers are already noticing the stale options."),
-    (10, None, "'I will go myself right now and talk to him.' Taking matters into her own hands, the determined manager resolves to confront the problem directly."),
-    (11, None, "'Be very careful, the chef is in a bad mood.' A final word of caution is offered regarding the volatile emotional state of the head cook."),
-    (12, None, "'That is fine, order in the restaurant is more important than his whims!' Brushing off the danger, the art director prioritizes professional standards over any temper tantrums."),
+    (0, None, '\'Sasha, did you pass my important request to the chef?\' "Peredala" ends in "-la" because Sasha is a woman. "Pros\'ba", a request, comes from "prosit\'", to ask, so "pros\'bu" is "request" as the object.'),
+    (1, None, '\'Yes, Viktoriya Sergeyevna, I told him everything.\' Sasha uses Vika\'s full name and father\'s name, as Max did with Nagiyev. "Skazala" is "said", with -a for a woman, and "yemu" is "to him".'),
+    (2, None, '\'Did you say that I asked for the new menu?\' "Prosila" is "asked", also with -la for Vika. "Novoye menyu" is "new menu", and "menyu" never changes.'),
+    (3, None, '\'Yes, I personally reminded the chef about this.\' "Napomnila" has "pomnit\'", to remember, inside it, so "reminded" is "made remember". "Ob etom" is "about this", and "o" becomes "ob" before a vowel.'),
+    (4, None, '\'And what was his answer to that?\' "Yego otvet" is "his answer", and "yego" never changes, unlike "moy" and "moya". "Byl" is masculine "was", because "otvet" is masculine.'),
+    (5, None, '\'He only loudly shouted at the entire kitchen.\' "Zakrichal" is "krichat\'", to shout, with "za-" for "burst into". "Gromko" is "loudly", and "na vsyu kukhnyu" is "across the whole kitchen".'),
+    (6, None, '\'I see, he again is completely not listening to me.\' "Slushayet" takes "menya" directly, with no "to". "Sovershenno" is "completely", and "opyat\'" is "again".'),
+    (7, None, '\'The chef has been very angry since this morning.\' "S samogo utra" is "from the very morning". "Serdityy", angry, comes from "serdtse", the heart.'),
+    (8, None, '\'We urgently need to update the list of our dishes.\' "Obnovit\'" is "to renew", from "novyy". "Nashikh blyud" is "of our dishes", with a plural "of" shape that loses the last vowel.'),
+    (9, None, '\'Guests in the dining room are already asking for new desserts.\' "Sprashivayut" is "they ask", and "gosti" is "guests". "Novyye deserty" is plural, with "-ye" and "-y".'),
+    (10, None, '\'I will go myself right now and talk to him.\' "Sama" is the feminine "sam", "myself" or "herself". "Poydu" and "pogovoryu" are two futures, one word each. "S nim" is "with him", with the added "n".'),
+    (11, None, '\'Be very careful, the chef is in a bad mood.\' "Bud\'te" is the polite command "be". "Ostorozhny" ends in a plural "-y" because Sasha speaks to Vika as "vy". "V plokhom nastroyenii" is "in a bad mood".'),
+    (12, None, '\'That is fine, order in the restaurant is more important than his whims!\' "Nichego" is "never mind" here. "Vazhneye" is "more important", with the same "-eye" as "faster". "Kapriz" is borrowed from French.'),
 ]

@@ -10,35 +10,35 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Макс | Мне уже идти надо. | I need to go now. | #24: мне идти надо | verbatim |
-| 2 | Вика | Ты что, убегаешь? | What, are you running away? | #25: Ты что<br>#25: убегаешь | verbatim |
-| 3 | Макс | Почему убегаю? Нет, просто ухожу. | Why running away? No, I'm just leaving. | #26: Почему убегаю<br>#26: Нет, просто ухожу | verbatim |
-| 4 | Вика | Вот так? И всё? | Just like that? And that's all? | #27: Вот так вот<br>#27: И все | verbatim |
-| 5 | Вика | А то, что между нами было? | What about what was between us? | #28: то, что между нами было | verbatim |
-| 6 | Макс | Спасибо. Прикольно было. | Thank you. It was fun. | #29: Спасибо<br>#29: прикольно было | verbatim |
-| 7 | Вика | Прикольно, и всё? | Fun, and that's it? | #30: Прикольно и все | verbatim |
-| 8 | Макс | А что ещё? | What else? | #31: А что ещё | verbatim |
-| 9 | Вика | Да ладно тебе. | Oh, come on. | #32: Да ладно | verbatim |
-| 10 | Макс | Нет, денег у меня нет. | No, I have no money. | #33: Нет, денег у меня нет | verbatim |
-| 11 | Макс | Мы с тобой так не договаривались. | You and I didn't agree to that. | #34: мы с тобой так не договаривались | verbatim |
+| 1 | Макс | Мне уже идти надо. | I need to go now. | #24 00:02:44: мне идти надо | verbatim |
+| 2 | Вика | Ты что, убегаешь? | What, are you running away? | #25 00:02:47: Ты что<br>#25 00:02:47: убегаешь | verbatim |
+| 3 | Макс | Почему убегаю? Нет, просто ухожу. | Why running away? No, I'm just leaving. | #26 00:02:49: Почему убегаю<br>#26 00:02:49: Нет, просто ухожу | verbatim |
+| 4 | Вика | Вот так? И всё? | Just like that? And that's all? | #27 00:02:54: Вот так вот<br>#27 00:02:54: И все | verbatim |
+| 5 | Вика | А то, что между нами было? | What about what was between us? | #28 00:02:57: то, что между нами было | verbatim |
+| 6 | Макс | Спасибо. Прикольно было. | Thank you. It was fun. | #29 00:03:00: Спасибо<br>#29 00:03:00: прикольно было | verbatim |
+| 7 | Вика | Прикольно, и всё? | Fun, and that's it? | #30 00:03:02: Прикольно и все | verbatim |
+| 8 | Макс | А что ещё? | What else? | #31 00:03:04: А что ещё | verbatim |
+| 9 | Вика | Да ладно тебе. | Oh, come on. | #32 00:03:11: Да ладно | verbatim |
+| 10 | Макс | Нет, денег у меня нет. | No, I have no money. | #33 00:03:14: Нет, денег у меня нет | verbatim |
+| 11 | Макс | Мы с тобой так не договаривались. | You and I didn't agree to that. | #34 00:03:16: мы с тобой так не договаривались | verbatim |
 | 12 | Вика | Мне не нужны твои деньги. | I don't need your money. | new | new |
 | 13 | Макс | Тогда я пошёл. У меня дела. | Then I am off. I have things to do. | new | new |
 | 14 | Вика | Уходи. И не возвращайся сюда. | Leave. And do not come back here. | new | new |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I need to go now.' Max attempts to slip out quietly in the morning, keeping his exit brief.
-- 'What, are you running away?' Vika catches him at the door and confronts him about sneaking out.
-- 'Why running away?' He plays dumb, pretending this is just a normal departure.
-- 'No, I'm just leaving.' Max stammers out a weak denial to defend his hasty exit.
-- 'Just like that? And that's all?' She is shocked by his casual attitude after their intimate night together.
-- 'What about what was between us?' Vika demands to know if their connection meant anything to him.
-- 'Thank you. It was fun.' He brushes it off as a casual hookup, completely misreading her emotional investment.
-- 'Fun, and that's it?' She repeats his careless word, offended by his dismissive tone.
-- 'What else?' Max coldly implies there was nothing more to their encounter.
-- 'Oh, come on.' Vika scoffs at his callousness, unable to believe his behavior.
-- 'No, I have no money.' He tries to excuse himself by claiming he cannot offer her financial compensation.
-- 'You and I didn't agree to that.' Max points out that they made no promises to each other.
-- 'I don't need your money.' She snaps back that she doesn't want a payout, deeply insulted by the suggestion.
-- 'Then I am off.' He takes her rejection of money as an opportunity to finally leave.
-- 'Leave. And do not come back here.' Vika kicks him out in anger, commanding him never to return.
+- 'I need to go now.' "Mne idti nado" is "to me to go is necessary", the same "mne nado" pattern for needing to do something. "Uzhe", "already", turns it into a ready-made excuse.
+- 'What, are you running away?' "Ubegayesh'" is "bezhat'", to run, with "u-" on the front for "away". "Ty chto" at the start is like "what, you...?", a little burst of disbelief.
+- 'Why running away?' Max throws her word back at her with one change. Hers ended in "-esh", "you", and his ends in "-yu", "I".
+- 'No, I'm just leaving.' "Prosto", "simply", is back, and it makes the sentence sound like a shrug. "Ukhozhu" uses the same "u-" for "away" as Vika's "run away", this time on foot.
+- 'Just like that? And that's all?' "Vot tak" is "like so", and "i vsyo" is "and everything". Put together, "i vsyo?" is how Russians say "and that's it?", a very handy reaction.
+- 'What about what was between us?' Word for word it's "and that what between us was". "Nami" is "us" in the form that comes after "between", and "bylo", "was", is the neuter one, because it refers to "that".
+- 'Thank you. It was fun.' "Prikol'no" is slang for fun or cool, built on "prikol", a gag or a joke. It's exactly the wrong word to use after a night like this, and she hears it that way.
+- 'Fun, and that's it?' Vika picks up his slang word and hands it straight back. Repeating someone's word is the quickest way in any language to say you didn't like it.
+- 'What else?' "A chto yeshchyo" is "and what more". The "a" at the start works like "so" in English, and Max sounds blank.
+- 'Oh, come on.' "Da ladno" is literally "yes, fine", but with the right tone it means "come on!" or "you can't be serious". "Tebe" on the end, "to you", adds a bit of scolding.
+- 'No, I have no money.' The two "nyet" words do different jobs: the first is "no", and the second is "there isn't". After "there isn't", "money" changes shape and becomes "deneg". Putting "money" first gives it the stress.
+- 'You and I didn't agree to that.' "My s toboy" is "we with you", the usual Russian for "you and I". "Dogovarivalis'" ends in "-lis'", which is the "we did" ending of the past, and it comes from "dogovor", an agreement.
+- 'I don't need your money.' "Mne ne nuzhny" is the "to me needed" pattern, but with plural "nuzhny" because "den'gi" is always plural in Russian. It's a bit like "pants" in English.
+- 'Then I am off. I have things to do.' "Ya poshyol" is literally "I went", and Russians say it to mean "I'm off". "U menya dela" is the "at me" pattern with "dela", things to do.
+- 'Leave. And do not come back here.' "Ukhodi" is the command form of the same "ukhozhu", "I'm leaving". "Syuda" is "to here", used when you move toward the place. For being there, Russians say a different word.

@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.01'
 SOURCE_FILE = 'sources/kukhnya/s01/e01.ru.dual.srt'
-INTRO = 'In the busy restaurant Claude Monet, the fiery Chef commands everyone back to work. Max has just arrived in kitchen whites, eager to prove that he is a professional cook. As always, listen to the story first, and then we will break it down together in English.'
-OPENER = 'Now let us go through each line together to understand every word.'
+INTRO = 'Max has been given a kitchen jacket and is eager to show off. Chef Barinov first sends everybody back to work, and then turns to Max with some pointed questions about what a professional cook actually does. This is the conversation in Russian first.'
+OPENER = "Let's go back over the chef's questions."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Max is confident and eager to cook, but Chef Viktor Barinov has a very different first task in mind. Next time you watch the episode, listen for the Russian expressions for 'fast' and 'to be' — you will catch every word right away. See you next time!"
+OUTRO = 'Max feels like a professional, but the chef has a job in mind that is not cooking. You\'ve learned a few ways to say "I can" and "I know how".'
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('barinov', 'Все за работу, быстро!', 'Everyone get to work, quickly!', [(168, 'все за работу')], ''),
@@ -32,22 +32,18 @@ STORY = [
     ('barinov', 'Для тебя есть особенная работа!', 'There is a special job for you!', [(203, 'Есть работа'), (204, 'Только тебе')], ''),
 ]
 WALK = [
-    (0, None, "'Everyone get to work, quickly!' Chef Barinov snaps everyone out of the spectacle and demands focus."),
-    (1, None, "'And you, go get changed!' He brusquely orders the new hire to put on a proper uniform."),
-    (2, None, "'Chef, I am ready.' Max returns eagerly in his new white jacket, ready to begin."),
-    (3, None, "'What should I do?' He asks for his very first assignment on the line."),
-    (4, None, "'Why did you come to this kitchen?' Chef Barinov questions his underlying motivation for being there."),
-    (5, None, "'Because I am a cook.' Max confidently states his chosen profession as his driving purpose."),
-    (6, None, "'I am a true professional.' He proudly boasts about his skills and readiness for high-level culinary work."),
-    (7, None, "'A professional?' Chef Barinov echoes the boast with heavy skepticism."),
-    (8, None, "'Come here.' He commands the young man to step forward and face the music."),
-    (9, None, "'Look around at my cooks.' Chef Barinov gestures to his busy, experienced team working around them."),
-    (10, None, "'What can you do yourself?' He aggressively challenges the newcomer to list his actual abilities."),
-    (11, None, "'I can cook very well.' Max bravely doubles down on his core talent."),
-    (12, None, "'Really?' Chef Barinov delivers a short, mocking response to this generic claim."),
-    (13, None, "'Attention everyone in the kitchen!' He theatrically calls for the entire staff to stop and listen."),
-    (14, None, "'A great cook has come to us!' Chef Barinov sarcastically announces the arrival of a culinary genius."),
-    (15, None, "'We waited for him for so long!' He continues to mock the rookie's grand ego in front of everyone."),
-    (16, None, "'What work will I have?' Max ignores the teasing and earnestly asks for a task."),
-    (17, None, "'There is a special job for you!' Chef Barinov gleefully prepares to hand out a demeaning chore."),
+    (0, None, '\'Everyone get to work, quickly!\' "Vse za rabotu" is "everyone for work". "Bystro" is "quickly", the root of "bystreye", faster.'),
+    (1, None, '\'And you, go get changed!\' "A ty" is "and you", with "a" for contrast: everyone else works, you change. "Pereodevaysya" is "pere-", re-, plus "odevat\'", to dress, with a "self" on the end.'),
+    (2, None, '\'Chef, I am ready. What should I do?\' "Gotov" is "ready", from the same family as "gotovit\'", to cook: cooking is getting things ready. "Chto mne delat\'" is "what to me to do".'),
+    (3, None, '\'Why did you come to this kitchen?\' "Pochemu" is "why". "Prishyol" is "came", and "na etu kukhnyu" has -u because it\'s movement toward.'),
+    (4, None, '\'Because I am a cook. I am a true professional.\' "Pochemu" asks and "potomu chto" answers: "why" and "because" are a matching pair. "Professional" is borrowed.'),
+    (5, None, '\'A professional? Come here.\' "Idi syuda" is literally "go here". Russians use "go" where English says "come" when the target is a place.'),
+    (6, None, '\'Look around at my cooks.\' "Vokrug" is "v" plus "krug", in a circle, so "around". "Posmotri" is "look". "Moikh povarov" is "my cooks", with the "-ov" plural ending.'),
+    (7, None, '\'What can you do yourself?\' "Sam" is "yourself", which pushes the question back at Max. "Umeyesh\'" is "you know how to", the skill word.'),
+    (8, None, '\'I can cook very well.\' "Khorosho" is "well", from "khoroshiy", good. "Umeyu gotovit\'" is "I know how to cook", with Max sure of himself.'),
+    (9, None, '\'Really? Attention everyone in the kitchen!\' "Da nu" is a sarcastic "really?". "Vsem vnimaniye" is "to everyone, attention", with "vsem" the "to" form of "all".'),
+    (10, None, '\'A great cook has come to us!\' "Velikiy" is "great", as in a great king, and here it\'s mockery. "K nam" is "to us".'),
+    (11, None, '\'We waited for him for so long!\' "Zhdali" is "we waited", and "yego" is "him". It\'s the same word as "his", and it never changes.'),
+    (12, None, '\'What work will I have?\' "U menya budet" is "at me will be", the "I have" pattern in the future. "Kakaya" is "what kind of", and it ends in "-aya" to match "rabota".'),
+    (13, None, '\'There is a special job for you!\' "Yest\'" is "there is". It\'s a word you\'ve not heard yet in this show, and it\'s often dropped in the present. "Dlya tebya" is "for you", in the friendly form.'),
 ]
