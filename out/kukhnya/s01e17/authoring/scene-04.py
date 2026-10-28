@@ -10,16 +10,16 @@ PAIR = 'ru-en'
 LABELS = {'kostya': 'Костя', 'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.17'
 SOURCE_FILE = 'sources/kukhnya/s01/e17.ru.dual.srt'
-INTRO = "In the dining room, Vika is in a bad mood. She scolds Nastya and Kostya for chatting at work, and then Max comes over to ask what's wrong, and to invite her out. Russian first, no need to catch it all."
-OPENER = "Let's unpack it."
-TRANSITION = 'Here is the whole conversation again.'
-OUTRO = "Vika doesn't say yes or no, which is just how she wanted it. 'Posmotrim' is a good noncommittal word to borrow, since it means 'we'll see'. See you next time!"
-CLOSING = ('vika', 'Пока!')
+INTRO = "In the dining room, Vika is in a bad mood. She scolds Nastya and Kostya for chatting at work, and then Max comes over to ask what's wrong, and to invite her out. Here is the telling-off in Russian first."
+OPENER = "Now slowly, from Vika's first order."
+TRANSITION = "Here's the whole telling-off again."
+OUTRO = 'Vika doesn\'t say yes or no, which is just how she wants it. "Posmotrim" is a good word to borrow when you don\'t want to commit, since it means "we\'ll see". See you next time!'
+CLOSING = ('max', 'До встречи, Вика!')
 STORY = [
     ('vika', 'Настя, быстро убери пятый столик!', 'Nastya, quickly clear the fifth table!', [(48, 'Настя, убери пятый столик.')], ''),
     ('vika', 'Вы совсем обнаглели на этой работе?', 'Have you completely lost your nerve at this job?', [(50, 'На работе вы должны работать')], ''),
     ('vika', 'Здесь надо работать, а не обжиматься.', 'One must work here, not cuddle.', [(50, 'На работе вы должны работать, а не обжиматься и ржать.')], ''),
-    ('kostya', 'Мы просто спокойно разговаривали, Виктория Сергеевна.', 'We were just calmly talking, Victoria Sergeevna.', [], ''),
+    ('kostya', 'Мы просто спокойно разговаривали, Виктория Сергеевна.', 'We were just calmly talking, Viktoria Sergeevna.', [], ''),
     ('vika', 'У нас строго запрещены любые отношения!', 'Any relationships are strictly forbidden here!', [(51, 'Или вам напомнить, что у нас запрещены отношения?')], ''),
     ('kostya', 'Мы ничего плохого не сделали.', 'We did nothing bad.', [(55, 'Да мы ничего такого и не сделали.')], ''),
     ('vika', 'Быстро идите работать в зал.', 'Quickly go work in the hall.', [(56, 'Настя, быстро в зал.')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('vika', 'Посмотрим, мне надо подумать об этом.', 'We will see, I need to think about this.', [], ''),
 ]
 WALK = [
-    (0, None, "'Nastya, quickly clear the fifth table!' The 'u' at the start of 'clear' means 'away'. 'Fifth' is made from the number five, and the table is a 'little table', as restaurants usually say."),
-    (1, None, "'Have you completely lost your nerve at this job?' The verb comes from 'cheeky' and means to become brazen. Vika speaks to the whole group, so it's 'you' in the plural."),
-    (2, None, "'You have to work here, not cuddle.' 'Necessary' plus the plain 'to work' means 'you must work'. The small 'a ne' means 'and not', and the last word is a slangy one for cuddling."),
-    (3, None, "'We were just calmly talking, Victoria.' Kostya uses her first name with her patronymic, the way you talk to a boss. 'Were talking' has the plural 'li'."),
-    (4, None, "'Any relationships are strictly forbidden here!' 'At us' is used for 'with us' or 'here at our place'. 'Forbidden' is a plural short form, matching the plural 'relationships'."),
-    (5, None, "'We haven't done anything bad.' Again Russian piles the negatives, with 'nothing' and 'not' together. The ending on 'bad' is the one that follows 'nothing'."),
-    (6, None, "'Quickly, go and work in the hall.' The command 'go' is polite plural. 'Hall' with no ending is the direction."),
-    (7, None, "'Vika, why are you so tense?' Max uses the casual 'you' when he speaks to Vika alone. 'Tense' is feminine, since it describes her, and comes from 'tension'."),
-    (8, None, "'I have so many difficult tasks.' 'At me' stands for 'I have'. After 'many', 'matters' loses its ending entirely."),
-    (9, None, "'Shall we go to an awesome place tonight?' The 'we' form of 'go' can be an invitation. 'Awesome' is a slangy word from 'class'."),
-    (10, None, "'Max, I'm too tired.' The 'a' on 'tired' says Vika is a woman. 'Too' comes before 'strongly' to make 'too much'."),
-    (11, None, "'You'll rest there wonderfully with me.' 'Will rest' is a finished-action future. 'With me' squeezes in a helper vowel."),
-    (12, None, "'We'll see, I need to think about it.' The first word is the 'we' form meaning 'we'll see'. 'About this' picks up a 'b' before a vowel."),
+    (0, None, '\'Nastya, clear table five, quickly!\' "Stolik" is a little "stol", table, and restaurants number them: "pyatyy stolik", the fifth table. "Uberi" means "clear away".'),
+    (1, None, '\'Have you completely lost all shame at this job?\' "Obnagleli" comes from "naglyy", cheeky. "Sovsem" means "completely".'),
+    (2, None, '\'You\'re here to work, not to cuddle.\' "Nado rabotat" is "one has to work". "A ne" means "and not", and "obzhimatsya" is a slangy word for hugging and squeezing.'),
+    (3, None, '\'We were just quietly talking, Viktoria Sergeevna.\' Kostya uses her first name and her father\'s name, "Viktoriya Sergeevna", which is how staff address a boss.'),
+    (4, None, '\'Any relationships are strictly forbidden here!\' "U nas", literally "at us", means "here, at our place". "Zapreshcheny", forbidden, is plural to match "otnosheniya", relationships.'),
+    (5, None, '\'We didn\'t do anything wrong.\' "Nichego plokhogo" is literally "nothing of bad", and "ne" still comes before the action.'),
+    (6, None, '\'Quick, go and work in the dining room.\' "Zal" is the dining room of a restaurant. "Idite" ends in "-ite" because she\'s sending both of them.'),
+    (7, None, '\'Vika, why are you so tense?\' "Takaya" ends in "-aya" to match Vika; about a man Max would say "takoy".'),
+    (8, None, '\'I have so many difficult things to deal with.\' After "mnogo", a lot, the words change shape: "dela" becomes "del", and "slozhnye" becomes "slozhnykh".'),
+    (9, None, '\'Shall we go somewhere cool tonight?\' "Klassnyy" is casual praise, like "cool". "Segodnya vecherom" is literally "today in the evening".'),
+    (10, None, '\'Max, I\'m far too tired.\' "Ustala" ends in "-a" because Vika is a woman; Max would say "ustal". "Slishkom" means "too".'),
+    (11, None, '\'You\'ll get a really good rest there with me.\' "Otdokhnyosh" comes from "otdykhat", to rest, which is also what Russians say for going on holiday. "S" grows to "so" before "mnoy".'),
+    (12, None, '\'We\'ll see, I need to think about it.\' "Posmotrim", we\'ll see, is the classic way to say neither yes nor no. "O", about, grows to "ob" before the vowel in "etom".'),
 ]

@@ -11,9 +11,9 @@ LABELS = {'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.17'
 SOURCE_FILE = 'sources/kukhnya/s01/e17.ru.dual.srt'
 INTRO = "Max has plans for the evening. Vika is waiting for him at home for a quiet dinner, but he has brought his friends along as a surprise. We'll hear their phone call in Russian first."
-OPENER = "Let's replay it, with a word or two on each line."
-TRANSITION = "Let's hear the whole thing again, start to finish."
-OUTRO = "Vika is not ready for guests, and Max is about to find out how much. Notice that both friends' names change their endings, with 'ya' turning into 'yu' after 'wait for'. See you next time!"
+OPENER = "Let's go back over the phone call, slowly."
+TRANSITION = 'Now the phone call once more, without a break.'
+OUTRO = 'Vika is not ready for guests, and Max is about to find out how much. "Vsyo budet khorosho", everything will be fine, is what Russians say right before it isn\'t. See you next time!'
 CLOSING = ('vika', 'Пока!')
 STORY = [
     ('vika', 'Макс, ну ты где?', 'Max, well where are you?', [(295, 'Макс, ну ты где?')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('vika', 'Заходи быстрее.', 'Come in faster.', [], ''),
 ]
 WALK = [
-    (0, None, "'Max, well, where are you?' The opening 'nu' is impatient. There is no 'are', only 'you where'."),
-    (1, None, "'Are you coming soon?' It is just 'you soon?', with no verb. The rising voice does the asking."),
-    (2, None, "'I'm already here.' Three tiny words. 'Here' is the one with a soft sign at the end."),
-    (3, None, "'Why are you standing there?' Russians use 'stand' for being on your feet. 'Stand' carries 'sh', for the casual 'you'."),
-    (4, None, "'I'm waiting for my friends.' 'Wait for' takes the 'of' form, so 'friends' ends in 'ey'. 'Own' points back to Max."),
-    (5, None, "'Which friends?' 'Which' finishes with 'ikh', the same as in the previous line. It's the same ending, so you can hear the match."),
-    (6, None, "'Nastya and Kostya.' Both names change their endings, with the final 'ya' turning into 'yu'. Russian names change shape like ordinary nouns."),
-    (7, None, "'Did you invite them here?' 'Invited' ends in the masculine 'l'. 'Here' means 'to here', which is why it has a different shape."),
-    (8, None, "'Yes, it's a surprise.' 'Surprise' is a word borrowed from French. Max says it with a grin."),
-    (9, None, "'I'm not ready for guests.' 'Ready' carries 'a' because Vika is a woman. 'For guests' needs a little word and a different ending on 'guests'."),
-    (10, None, "'Everything will be fine.' 'Will be' is a word on its own. Max is cheerfully optimistic."),
-    (11, None, "'Come in faster.' 'Come in' is a casual command. 'Faster' is one word, built on 'quickly'."),
+    (0, None, '\'Max, where are you?\' "Nu" adds impatience, and "ty gde?" is literally "you where?".'),
+    (1, None, '\'Will you be long?\' "Ty skoro?" is literally "you soon?", with no word for coming at all.'),
+    (2, None, '\'I\'m already here.\' "Uzhe" means already, and "zdes" means here.'),
+    (3, None, '\'Why are you standing there?\' "Stoish" comes from "stoyat", to stand, the word Barinov barked earlier.'),
+    (4, None, '\'I\'m waiting for my friends.\' "Zhdu", I\'m waiting, takes the friends straight after it, with no "for".'),
+    (5, None, '\'What friends?\' "Kakikh druzey" copies the ending of "svoikh druzey" in Max\'s line.'),
+    (6, None, '\'Nastya and Kostya.\' Both names switch "-ya" to "-yu", since they\'re still the people being waited for.'),
+    (7, None, '\'Did you invite them here?\' "Pozval", called over, comes from "zvat", to call. "Ikh" means them.'),
+    (8, None, '\'Yes, it\'s a surprise.\' "Syurpriz" is borrowed from French, like many party words.'),
+    (9, None, '\'I\'m not ready for guests.\' "Gotova", ready, ends in "-a" for a woman. "K gostyam" is "for guests", literally "towards guests".'),
+    (10, None, '\'Everything will be fine.\' "Vsyo budet khorosho" is the classic Russian reassurance.'),
+    (11, None, '\'Hurry up and come in.\' "Zakhodi" is "come in", and "bystree", faster, turns it into "hurry up".'),
 ]

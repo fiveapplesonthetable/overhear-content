@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Nastya, bring me a clean glass.' 'Bring' is the command for carrying a thing. The 'glass' is the kind with a stem.
-- 'I'll bring it right away, Chef.' 'Right away' is 'now' or 'soon'. 'I'll bring' is the completed kind.
-- 'We must drink to the holiday.' 'Must' is plural to go with 'we'. For a toast, Russian uses the little word 'za' for 'to'.
-- 'Chef, this is very nice.' 'Pleasant' is a word with an 'o' ending, used on its own. There's no 'is'.
-- 'Pour good wine for everyone.' 'Pour' is the command for pouring drinks. 'Wine' is neuter, so 'good' carries 'ee'.
-- 'Here is your glass, Chef.' 'Here' points at the glass, and 'your' is polite and masculine. There's no 'is'.
-- 'Thank you, Nastya, well done.' 'Well done' is masculine, but it is used for women too. It literally means something like 'fine fellow'.
-- 'What a beautiful glass!' The word 'kakoy' in front of an adjective makes an exclamation. 'Beautiful' has a masculine ending.
-- 'A beautiful glass is needed for good wine.' 'For good wine' has the 'ogo' and 'a' endings. 'Needed' is masculine, as the glass is.
-- 'I brought glasses for everyone.' The 'a' on the end of 'brought' marks Nastya as a woman. 'For everyone' uses a plural ending.
-- 'Now everyone has glasses.' 'At everyone there are' is the Russian for 'everyone has'. 'Glasses' is plural.
-- 'Raise your glasses.' The command is polite and plural. 'Your' is plural too, to go with 'glasses'.
-- 'Let's drink to friendship!' 'Let's drink' is a polite 'give' plus a 'we' form. 'Friendship' is built from 'friend'.
+- 'Nastya, bring me a clean glass.' "Prinesi" is "bring" to one person. "Bokal" is a wine glass, not a tumbler.
+- 'Coming right up, chef.' "Seychas prinesu" is literally "now I'll bring", a waiter's standard reply.
+- 'We have to drink to the celebration.' "Vypit za" means "to drink to"; "za" is always the toast word.
+- 'Chef, that's very kind.' "Priyatno", pleasant, here means "that's nice of you".
+- 'Pour everyone some good wine.' "Nalivay" means "pour". "Vsem" is "for everyone".
+- 'Here's your glass, chef.' "Vot vash" is "here is your", with the polite "vash".
+- 'Thanks, Nastya, well done.' "Molodets" means "well done" or "good job", and Russians say it to women too.
+- 'What a beautiful glass!' "Kakoy" at the start turns the line into "what a...!".
+- 'Good wine needs a beautiful glass.' "Dlya" means "for", and "vino" becomes "vina" after it.
+- 'I brought glasses for everyone.' "Prinesla", brought, carries the woman's "-a": it was Nastya who fetched them.
+- 'Now everyone has a glass.' "U vsekh est" is "at everyone there is", the Russian "everyone has".
+- 'Raise your glasses.' "Podnimite" is "raise" said to the whole room.
+- 'Let's drink to friendship!' "Druzhba", friendship, is built on "drug", friend, and becomes "druzhbu" after "za".

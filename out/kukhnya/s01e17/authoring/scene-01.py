@@ -10,11 +10,11 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.17'
 SOURCE_FILE = 'sources/kukhnya/s01/e17.ru.dual.srt'
-INTRO = "Welcome to Kukhnya, which means 'The Kitchen', a Russian comedy set in Claude Monet, a smart Moscow restaurant. Chef Viktor Barinov rules the kitchen, and young Max Lavrov is the cook he loves to boss around. This morning Barinov drags Max to the market to teach him how to tell whether a fish is fresh. First the Russian, and don't worry about catching every word."
-OPENER = "Let's walk through what each line is doing."
-TRANSITION = "Let's hear the whole thing again, start to finish."
-OUTRO = "Barinov has read the seller like a book, and Max is impressed, at least for now. Remember that Russians give an age with 'to': 'to this fish, five days'. See you next time!"
-CLOSING = ('max', 'Пока!')
+INTRO = "Welcome to Kukhnya, which means 'The Kitchen', a Russian comedy set in Claude Monet, a smart Moscow restaurant. Chef Viktor Barinov rules the kitchen, and young Max Lavrov is the cook he loves to boss around. This morning Barinov drags Max to the market to teach him how to tell whether a fish is fresh. Listen to the lesson in Russian first, and watch how much Barinov reads from one face."
+OPENER = "Now let's take it slowly, and see how Barinov reads a fish seller."
+TRANSITION = 'Now the market lesson again, start to finish.'
+OUTRO = 'Barinov has read the seller like a book, and Max is impressed, at least for now. Remember that Russians give an age with \'to\': "etoy rybe pyat dney", to this fish, five days. See you next time!'
+CLOSING = ('max', 'До свидания!')
 STORY = [
     ('max', 'Я наступил в гнилую сливу, шеф.', 'I stepped in a rotten plum, chef.', [(1, 'Я только чувствую, что я в гнилую сливу наступил.')], ''),
     ('barinov', 'Хватит ныть, у меня хорошее настроение.', 'Quit whining, I am in a good mood.', [(2, 'Хватит ныть. У меня хорошее настроение.')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('max', 'Спасибо за этот важный урок, шеф.', 'Thank you for this important lesson, chef.', [], ''),
 ]
 WALK = [
-    (0, None, "'I stepped in a rotten plum, chef.' 'Rotten' comes from the verb for rotting, and the plum finishes with 'u' because Max stepped into it. The 'l' on the end of 'stepped' says it's a man speaking."),
-    (1, None, "'Quit whining, I'm in a good mood.' The opening word means 'enough' and is followed by the plain 'whine', a slangy one. 'At me good mood' is how Russian says 'I'm in a good mood'."),
-    (2, None, "'Today you will learn the art of buying fish.' 'Art' is followed by the plain 'to buy', with no 'of' in between. 'Fish' takes a 'u' ending as the thing being bought."),
-    (3, None, "'How many days old is this fish, Max?' Russian gives an age with 'to': literally 'to this fish how many days'. After 'how many', 'days' takes a special plural."),
-    (4, None, "'The seller says they brought it today.' 'They brought' has the 'li' ending with no 'they', which is how Russian says 'it was brought'. The verb is the one for bringing by vehicle."),
-    (5, None, "'Watch closely, he pursed his lips.' 'Watch' is a casual command, and 'closely' is a describing word ending in 'o'. 'Lips' is always plural in Russian."),
-    (6, None, "'That means this fish is at least three days old.' The word at the start is 'it means', used here as 'so' or 'in other words'. After 'three', 'days' changes again, to a shorter form."),
-    (7, None, "'And now he scratched his nose.' The 'po' on the front of 'scratch' means he did it briefly. Barinov reads a scratch of the nose like a confession."),
-    (8, None, "'This fish is already five days old.' After 'five' the days switch back to the longer form, just like after 'how many'. Two, three or four days take the short one, and five or more take the long."),
-    (9, None, "'And it was definitely frozen before.' 'They froze' is built on the word for frost, and again has no 'they'. 'Definitely' and 'before' are tiny words, easy to lift into other sentences."),
-    (10, None, "'Chef, you're a real master of your craft.' 'Real' is also 'present', as in the present moment. 'Of your own business' is a phrase for a trade, and 'business' is a very common one."),
-    (11, None, "'Learn from me while I'm kind.' 'While' is spelled and said like the casual 'bye', so it does double duty. 'From me' uses the same little word as 'at me'."),
-    (12, None, "'Thank you for this important lesson, chef.' 'Thanks for' needs a small word for 'for', then the lesson with its masculine endings. It's the polite, schoolboy thanks."),
+    (0, None, '\'I stepped in a rotten plum, chef.\' "Sliva", plum, becomes "slivu" after "v" when you step into it, and "gnilaya", rotten, follows it to "gniluyu".'),
+    (1, None, '\'Quit whining, I\'m in a good mood.\' "Khvatit" means "enough", and the next word stays in its dictionary form: "khvatit nyt", enough whining. "U menya khoroshee nastroenie" is literally "at me, a good mood".'),
+    (2, None, '\'Today you will learn the art of buying fish.\' Where English says "of buying", Russian just puts "pokupat", to buy, after "iskusstvo", art. "Ryba" becomes "rybu" as the thing being bought.'),
+    (3, None, '\'How many days old is this fish, Max?\' Russian gives the age to the fish: "etoy rybe" means "to this fish", so the question is literally "how many days to this fish?".'),
+    (4, None, '\'The seller says they brought it in today.\' "Privezli" has no "they" in front of it. The plural ending on its own says that somebody delivered it.'),
+    (5, None, '\'Watch closely, he pursed his lips.\' "Podzhal guby" is "pressed lips", with no "his". Russian rarely says whose body part it is when that\'s obvious.'),
+    (6, None, '\'That means this fish is at least three days old.\' "Znachit", it means, opens a conclusion. After "tri" the word for days is "dnya"; from five upwards it turns into "dney".'),
+    (7, None, '\'And now he scratched his nose.\' "Chesat" is to scratch, and "po-" on the front makes it one quick scratch: "pochesal". Again there\'s no "his" before "nos".'),
+    (8, None, '\'This fish is already five days old.\' Here comes "pyat dney", five days, with the ending promised a moment ago. "Uzhe" means "already": the fish gets older with every gesture.'),
+    (9, None, '\'And it was definitely frozen before.\' "Zamorazhivali" is "they froze", again with no "they". "Tochno", for sure, is a little word you\'ll hear constantly.'),
+    (10, None, '\'Chef, you\'re a true master of your craft.\' "Master svoego dela" is literally "master of his own business". "Svoy" means "one\'s own" and works for any person.'),
+    (11, None, '\'Learn from me while I\'m in a good mood.\' "Poka" here means "while", and it\'s the same word as the casual "poka" for "bye". "Uchis u menya" is literally "learn at me".'),
+    (12, None, '\'Thank you for this important lesson, chef.\' "Spasibo za" is "thanks for", and anything can follow it: "za urok", for the lesson.'),
 ]

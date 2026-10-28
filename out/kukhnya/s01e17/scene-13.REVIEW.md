@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good afternoon, I'm glad to see you here.' 'Glad' ends in 'a' because the hostess is a woman. 'See' takes the 'you' form.
-- 'Welcome to our new restaurant.' It's a fixed greeting, literally 'good to come'. 'New' and 'our' both match the restaurant.
-- 'Would you like the smoking room or not?' 'Hall for smokers' is the phrase, and 'smokers' is plural. 'Or not' is a normal way to complete a question.
-- 'Do you have separate sections here?' 'At you here' stands for 'do you have'. 'Division' is the word for the split.
-- 'Yes, we have two dining rooms.' After 'two', 'hall' goes in the singular with an 'a' ending. 'At us there is' stands for 'we have'.
-- 'Well I never, there are even two rooms!' The first two words form a fixed phrase meaning 'what d'you know'. 'Even' tags on before 'two'.
-- 'And the air conditioner works well here too.' 'Air conditioner' comes from English. Machines 'work' in Russian too.
-- 'It's a regular palace of an eastern sheikh.' Both 'eastern' and 'sheikh' end in 'ogo' and 'a', the 'of' form. 'Real' is the same as 'genuine'.
-- 'You have very funny jokes today.' 'Funny' is built from the word for laughter. The hostess uses polite 'you' and doesn't smile.
-- 'We need a plain room for smokers.' 'Simple' gives 'plain'. 'Needed' is masculine to go with the room.
-- 'Very well, please follow me.' The first word is a formal 'please' and the next is the verb 'to pass'. 'Behind me' means 'after me'.
-- 'Thank you very much, we are following you.' 'Behind you' picks up the same little word, now with 'you' in its 'vami' form. 'We go' is the 'm' ending.
-- 'Here is your comfortable table by the window.' 'By the window' uses a word for 'near' and an 'a' ending. 'Table' is a little table again.
-- 'Great, bring us the menu, please.' 'Bring' is the polite command, and 'please' is the longer word. 'Menu' never changes its ending.
+- 'Good afternoon, I'm glad to see you here.' "Dobryy den" is the polite daytime hello. "Rada" ends in "-a" because the hostess is a woman.
+- 'Welcome to our new restaurant.' "Dobro pozhalovat" is a fixed phrase, literally "kindly come".
+- 'Would you like the smoking room or not?' "Dlya kuryashchikh" means "for those who smoke", from "kurit", to smoke. "Vam", for you, is polite.
+- 'So you have separate sections here?' "Razdelenie", division, comes from "delit", to divide. "U vas" means "you have", literally "at you".
+- 'Yes, we have two dining rooms.' After "dva", two, "zal" picks up an "-a": "dva zala".
+- 'Well, would you look at that, even two rooms!' "Nado zhe" is a set phrase of surprise, here fake surprise. "Dazhe" means "even".
+- 'And the air conditioning works well here too.' "Konditsioner" is borrowed, with its stress near the end. "Tozhe" means "too".
+- 'It's a real palace for an eastern sheikh.' "Vostochnyy", eastern, comes from "vostok", east. "Dvorets" means palace.
+- 'You have very funny jokes today.' "Smeshnye", funny, comes from "smekh", laughter. She can be as dry as he is.
+- 'We need a regular room for smokers.' "Prostoy" means simple or ordinary, and the jokes stop for a moment.
+- 'Very well, please follow me.' "Proshu" is literally "I ask", a polite "please". "Za mnoy" means "behind me".
+- 'Thank you very much, we're right behind you.' "Idyom za vami" is "we go behind you", the same "za" as hers.
+- 'Here's your comfortable table by the window.' "U okna" means "at the window": "okno" becomes "okna" after "u".
+- 'Great, bring us the menu, please.' "Prinesite" is "bring" said with "vy". "Nam" means "to us".

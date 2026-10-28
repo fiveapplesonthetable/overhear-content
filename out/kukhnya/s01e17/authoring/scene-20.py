@@ -10,14 +10,14 @@ PAIR = 'ru-en'
 LABELS = {'max': 'Макс', 'nastya': 'Настя', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.17'
 SOURCE_FILE = 'sources/kukhnya/s01/e17.ru.dual.srt'
-INTRO = "Max has brought Nastya and Kostya to Vika's flat as a birthday surprise, and it is a mistake. Vika expected a quiet evening for two, and Nastya was told that Vika wouldn't be there. Here it is in Russian."
-OPENER = 'Now for a closer look.'
-TRANSITION = 'Once more, all the way through.'
-OUTRO = "Max leaves in a huff, and Vika calls him back. When you hear 'zachem' next time, remember it asks 'what for?', which is a different question from 'why?'. See you next time!"
-CLOSING = ('vika', 'Пока!')
+INTRO = "Max has brought Nastya and Kostya to Vika's flat as a birthday surprise, and it is a mistake. Vika expected a quiet evening for two, and Nastya was told that Vika wouldn't be there. Listen to it fall apart in Russian first."
+OPENER = "Now let's replay the evening, line by line."
+TRANSITION = "Here's the whole evening again, start to finish."
+OUTRO = 'Max leaves in a huff, and Vika calls him back. When you hear "zachem", remember it asks "what for?", a different question from "pochemu", why. See you next time!'
+CLOSING = ('nastya', 'Ну, мы пойдём. Пока!')
 STORY = [
     ('nastya', 'Здрасте.', 'Hello.', [(297, 'Здрасте.')], ''),
-    ('vika', 'Это твоя вечеринка?', 'Is this your party?', [(298, 'Макс, это и есть твоя безбашенная вечеруха с бывшими одногруппниками?')], ''),
+    ('nastya', 'Это твоя вечеринка?', 'Is this your party?', [(298, 'Макс, это и есть твоя безбашенная вечеруха с бывшими одногруппниками?')], ''),
     ('nastya', 'Ты сказал, её не будет.', 'You said she would not be here.', [(299, 'Ты же говорил, что Вики, Виктория Сергеевна не будет.')], ''),
     ('vika', 'Как может меня не быть дома?', 'How can I not be at home?', [(300, 'Как может меня не быть у меня дома?')], ''),
     ('vika', 'Зачем ты их привёл?', 'Why did you bring them?', [(301, 'Ты зачем их сюда привел?')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('vika', 'Макс, стой!', 'Max, wait!', [(309, 'Макс!')], ''),
 ]
 WALK = [
-    (0, None, "'Hello.' This is the clipped, casual version of the long formal hello, with half the letters dropped. Nastya says it sourly."),
-    (1, None, "'Is this your party?' 'Your' is the casual one, and 'party' is an evening word with a small ending on it. The question is only in the rising voice."),
-    (2, None, "'You said she wouldn't be here.' For 'she won't be here', Russian says 'her not will be', with 'her' in the object form. The absent person is the one in that form."),
-    (3, None, "'How can I not be at home?' The same pattern again: 'me not to be at home'. 'At home' is one word."),
-    (4, None, "'Why did you bring them?' 'What for' is a different question word from the 'why' of cause. 'Brought' is the word for bringing a person, on foot."),
-    (5, None, "'Why didn't you warn us?' Here the 'why' is the ordinary one. 'Warned' is a once-and-done action, and 'us' is a short word with an 'as' ending."),
-    (6, None, "'You wouldn't ever have come.' A small word 'by' after 'you' makes it 'would'. 'Never' and 'not' are both there."),
-    (7, None, "'You're my friends.' There's no 'are'. It's just 'you my friends', and the plural of 'friend' is irregular."),
-    (8, None, "'I wanted to celebrate the birthday together.' 'Celebrate' comes from 'mark'. 'Birthday' is 'day of birth', and 'together' is one word."),
-    (9, None, "'You needn't worry.' Russian says 'you can not worry'. The 'sya' on the end of 'worry' is the little 'oneself'."),
-    (10, None, "'Thank you for a lovely evening.' Max is being sarcastic here, since the evening has been a disaster. 'Lovely' is the word from 'beautiful', in the masculine."),
-    (11, None, "'Bye.' It's the casual goodbye, short and sharp. Max slams the door with it."),
-    (12, None, "'Max, wait!' The command is the same word as 'stand', and it works for both 'stand' and 'stop'. Vika calls out to him."),
+    (0, None, '\'Hello.\' "Zdraste" is the quick spoken form of "zdravstvuyte", and it\'s what you\'ll actually hear.'),
+    (1, None, '\'Is this your party?\' "Vecherinka", party, comes from "vecher", evening.'),
+    (2, None, '\'You said she wouldn\'t be here.\' "Eyo ne budet" is literally "of her there won\'t be", the Russian way to say someone will be absent.'),
+    (3, None, '\'How can I not be at home?\' "Menya ne byt" follows the same pattern as "eyo ne budet". "Doma" means at home.'),
+    (4, None, '\'Why did you bring them?\' "Zachem" asks "what for?", about the purpose. "Privyol" means "brought along".'),
+    (5, None, '\'Why didn\'t you warn us?\' "Pochemu" asks about the reason, unlike "zachem". "Predupredil" means "warned".'),
+    (6, None, '\'You\'d never have come.\' "By" turns "prishli", came, into "would have come". "Nikogda ne" means never.'),
+    (7, None, '\'You\'re my friends.\' "Vy moi druzya" needs no "are".'),
+    (8, None, '\'I wanted us to celebrate my birthday together.\' "Otmetit" is literally "to mark", and it\'s the usual word for celebrating an occasion.'),
+    (9, None, '\'You don\'t have to worry.\' "Mozhete ne", you can not, is Russian for "you don\'t have to". "Volnovatsya" means to worry.'),
+    (10, None, '\'Thanks for a lovely evening.\' "Prekrasnyy" means lovely or beautiful, and here it\'s pure sarcasm.'),
+    (11, None, '\'Bye.\' Max\'s "poka" is the casual goodbye, said to all of them on his way out.'),
+    (12, None, '\'Max, wait!\' "Stoy", stop, comes from "stoyat" again, this time as a plea.'),
 ]

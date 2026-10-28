@@ -14,8 +14,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 2 | Сеня | Нет, конечно. | No, of course not. | #291 00:18:37: Нет, конечно. | verbatim |
 | 3 | Шеф | Рулеты из телятины с ветчиной. | Veal rolls with ham. | #292 00:18:42: рулеты из телятины с | verbatim |
 | 4 | Сеня | Я не понимаю. | I do not understand. | new | new |
-| 5 | Шеф | Ты украл мой рецепт. | You stole my recipe. | new | new |
-| 6 | Сеня | Я ничего не брал. | I took nothing. | new | new |
+| 5 | Шеф | Ты отдал им наш рецепт. | You gave them our recipe. | new | new |
+| 6 | Сеня | Я ничего им не давал. | I didn't give them anything. | new | new |
 | 7 | Шеф | Ну, Сеня, ты труп. | Well, Senya, you are dead meat. | #293 00:18:49: Ну, Сеня, ты труп | verbatim |
 | 8 | Сеня | Шеф, это не я! | Chef, it is not me! | new | new |
 | 9 | Шеф | Кто тогда? | Who then? | new | new |
@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Were you there?' Barinov uses the casual 'you'. There is no word for 'did', only the rising voice.
-- 'No, of course not.' 'Of course' is said with a 'sh' sound in the middle. Senya's answer is quick.
-- 'Veal rolls with ham.' 'From veal' uses the small word for 'out of'. 'With ham' needs the 'oy' ending on ham.
-- 'I don't understand.' 'I understand' is a long word with a clear 'I' ending. The 'not' stands in front.
-- 'You stole my recipe.' The past form of 'steal' ends in a bare 'l' for a man. 'My recipe' is masculine, with no extra ending.
-- 'I didn't take anything.' 'Nothing' and 'not' are both there, as the rule requires. 'Take' is the everyday word for grabbing.
-- 'Well, Senya, you're dead meat.' 'Corpse' is used as a threat, literally 'you are a corpse'. There's no 'are' in the line.
-- 'Chef, it wasn't me!' It reads 'this not I', with no verb at all. Senya is panicking.
-- 'Who then?' Two tiny words, 'who' and 'then'. The short question is Barinov's whole interrogation.
-- 'Maybe Fedya.' The phrase for 'maybe' is built from 'can be'. Senya throws his friend under the bus.
-- 'I don't believe you.' Russians 'believe to' someone, so 'you' takes the 'to you' form. The 'not' sits before 'believe'.
-- 'Word of honor!' It is literally 'honest word'. 'Honest' is the same one used for 'honestly'.
+- 'Were you there?' "Byl" is "was" for a man. "Ty byl tam?" is a plain statement turned into a question by the voice.
+- 'No, of course not.' "Konechno" is "of course", and the "net" in front turns it into "of course not".
+- 'Veal rolls with ham.' "Iz telyatiny" is "made of veal": "telyatina" becomes "telyatiny" after "iz".
+- 'I don't understand.' "Ne ponimayu" is a phrase worth having ready, with "ne" right before the action.
+- 'You gave them our recipe.' "Otdal" means "handed over". "Im" is "to them", the rival kitchen.
+- 'I didn't give them anything.' Senya answers "otdal" with "ne daval": he denies giving them anything, ever.
+- 'Well, Senya, you're dead meat.' "Ty trup" is literally "you're a corpse", the same threat as in English.
+- 'Chef, it wasn't me!' "Eto ne ya" is literally "it not I", with no "was" needed.
+- 'Who, then?' "Togda" means "then", in the sense of "in that case".
+- 'Maybe Fedya.' "Mozhet byt", literally "may be", is the everyday "maybe".
+- 'I don't believe you.' Russian believes "to" a person: "veryu tebe", I believe to you.
+- 'Word of honour!' "Chestnoe slovo", literally "honest word", is how Russians swear they're telling the truth.

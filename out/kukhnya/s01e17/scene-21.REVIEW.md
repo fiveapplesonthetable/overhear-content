@@ -13,7 +13,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 1 | Вика | Максим, прости нас, пожалуйста. | Maxim, please forgive us. | #321 00:22:00: Максим, прости нас, пожалуйста, что испортили тебе праздник. | verbatim |
 | 2 | Вика | Мы испортили тебе отличный праздник. | We ruined a great holiday for you. | #321 00:22:00: что испортили тебе праздник | verbatim |
 | 3 | Макс | Я не сержусь на вас. | I am not angry at you. | new | new |
-| 4 | Вика | Прости их, пожалуйста, от души. | Please forgive them from the heart. | #322 00:22:06: Прости их, пожалуйста. | verbatim |
+| 4 | Вика | Прости их, пожалуйста. | Please forgive them. | #322 00:22:06: Прости их, пожалуйста. | verbatim |
 | 5 | Шеф | Ну и меня тоже прости. | Well and forgive me too. | #323 00:22:08: Ну и меня. | verbatim |
 | 6 | Шеф | Так, всё? Конфликт закончился? | So, is that all? The conflict is over? | #323 00:22:08: Так все?<br>#324 00:22:10: Конфликт исчерпан? | verbatim |
 | 7 | Макс | Да, шеф, конфликт закончился. | Yes, chef, the conflict is over. | #324 00:22:10: Конфликт исчерпан | verbatim |
@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Maxim, please forgive us.' Vika uses his full first name, which is formal. 'Forgive' is the casual command, and 'us' takes its object form.
-- 'We ruined a great holiday for you.' 'Ruined' ends in 'li' for the plural. 'To you' tells whose holiday it was.
-- 'I'm not angry with you.' Russian is angry 'on' someone, so a small word for 'on' comes before 'you'. 'I am angry' finishes with 'sya'.
-- 'Please forgive them, from the heart.' 'Them' is a short word. 'From the soul' is Russian's version of 'from the heart'.
-- 'And forgive me too.' The 'me' comes first, and 'too' follows it. Putting the object first makes it sound like a plea.
-- 'So, is that all? Is the conflict over?' The verb for 'ended' has 'sya' on it, so the conflict ended by itself. 'Is that all' is just 'all?', said as a question.
-- 'Yes, Chef, the conflict is over.' Max simply repeats what Barinov said. Repeating the question's own words is how Russians say yes.
-- 'But only until someone makes a mistake again.' 'Until' is built from 'while' plus 'not'. 'Makes a mistake' is a finished action.
-- 'We all want peace in the kitchen.' 'Peace' also means 'world'. After 'want', 'peace' takes an 'a' ending.
-- 'Peace in the kitchen is the main thing.' The dash takes the place of 'is'. 'Main' comes from 'head'.
-- 'Thank you all for the kind words.' 'To all' is a short word for 'thank everyone'. 'Kind' is the same as in 'good day'.
-- 'Now we can work calmly.' 'Now' and 'calmly' are the two small words. 'We can' is one word on its own.
-- 'I'm very glad we made up.' 'Glad' has a bare ending for a man. 'Made up' is built from 'peace', plus 'sya'.
+- 'Maksim, please forgive us.' "Prosti" is "forgive" said to one person. Vika uses his full name to sound serious.
+- 'We ruined a great celebration for you.' "Isportili" means "spoiled". "Tebe", for you, says whose celebration it was.
+- 'I'm not angry with you.' "Serzhus na vas" is "I'm angry at you", using "na", onto.
+- 'Please forgive them.' Now she asks on behalf of the staff: "ikh" means them.
+- 'Well, and forgive me too.' "Menya" means me. Barinov tacks himself on at the end.
+- 'So, is that it? Is the conflict over?' "Tak, vsyo?" is literally "so, all?", meaning "are we done?".
+- 'Yes, chef, the conflict is over.' "Zakonchilsya", ended, is related to "konets", end.
+- 'But only until somebody makes a mistake again.' "Poka" with "ne" means "until". "Oshibyotsya" is related to "oshibka", a mistake.
+- 'We all want peace in the kitchen.' "Mir" means both peace and world, and here it becomes "mira".
+- 'Peace in the kitchen is the main thing.' "Glavnoe", the main thing, is related to "glava", head.
+- 'Thanks to everyone for the kind words.' "Vsem" means "to everyone". "Za dobrye slova" is "for the kind words".
+- 'Now we can work in peace.' "Mozhem" is "we can", and "spokoyno" means without trouble.
+- 'I'm really glad we made up.' "Pomirilis", made peace with each other, is built on "mir" too.

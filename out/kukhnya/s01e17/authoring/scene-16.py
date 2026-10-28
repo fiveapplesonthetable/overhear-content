@@ -10,17 +10,17 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'hostess': 'Хостес', 'nagiyev': 'Нагиев'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.17'
 SOURCE_FILE = 'sources/kukhnya/s01/e17.ru.dual.srt'
-INTRO = 'Barinov and Nagiyev have finished their meal at the rival restaurant. The hostess comes over to ask how they liked it, and Nagiyev gushes while Barinov gives a grudging verdict. First, the Russian.'
-OPENER = "Let's go back through it slowly."
-TRANSITION = 'Here is the whole conversation again.'
-OUTRO = "The two men leave on a polite note, though only one of them means it. 'Vsyo ravno', literally 'all equal', is a useful phrase for 'anyway' or 'all the same'. See you next time!"
-CLOSING = ('barinov', 'Пока!')
+INTRO = 'Barinov and Nagiyev have finished their meal at the rival restaurant. The hostess comes over to ask how they liked it, and Nagiyev gushes while Barinov gives a grudging verdict. Here is the verdict in Russian first.'
+OPENER = 'Now back to the verdict, line by line.'
+TRANSITION = "Here's the farewell at the rival restaurant once more."
+OUTRO = 'The two men leave on a polite note, though only one of them means it. "Vsyo ravno", still, is a handy pair of words for any argument you refuse to lose. See you next time!'
+CLOSING = ('nagiyev', 'До свидания!')
 STORY = [
     ('hostess', 'Добрый день, уважаемые гости нашего ресторана.', 'Good afternoon, respected guests of our restaurant.', [(265, 'Добрый день')], ''),
     ('hostess', 'Я надеюсь, вам сегодня всё понравилось.', 'I hope you enjoyed everything today.', [(266, 'Я надеюсь, вам все понравилось')], ''),
     ('nagiyev', 'Здравствуйте, да, всё было очень вкусно.', 'Hello, yes, everything was very delicious.', [(267, 'Да, очень вкусно')], ''),
     ('nagiyev', 'У вас тут просто отличная кухня.', 'You have a simply great kitchen here.', [(267, 'очень вкусно')], ''),
-    ('nagiyev', 'Почти так же вкусно, как дома.', 'Almost as delicious as at home.', [(268, 'Практически как у нас')], ''),
+    ('nagiyev', 'Почти как у нас.', 'Almost like at our place.', [(268, 'Практически как у нас')], ''),
     ('nagiyev', 'Ты согласен со мной, дорогой друг?', 'Do you agree with me, dear friend?', [(268, 'Да, Вик')], ''),
     ('barinov', 'Ну, в целом эта еда нормальная.', 'Well, overall this food is fine.', [(269, 'Сойдет')], ''),
     ('hostess', 'Спасибо вам за такие добрые слова.', 'Thank you for such kind words.', [(266, 'вам все понравилось')], ''),
@@ -29,21 +29,21 @@ STORY = [
     ('hostess', 'Приходите к нам в гости снова.', 'Come visit us again.', [(265, 'Добрый день')], ''),
     ('nagiyev', 'Обязательно придём сюда в следующий раз.', 'We will definitely come here next time.', [(267, 'очень вкусно')], ''),
     ('barinov', 'Ладно, нам уже пора ехать обратно.', 'All right, it is time for us to head back.', [(269, 'Сойдет')], ''),
-    ('hostess', 'Всего доброго, до новой скорой встречи!', 'All the best, until we meet again soon!', [(265, 'Добрый день')], ''),
+    ('hostess', 'Всего доброго, до скорой встречи!', 'All the best, see you again soon!', [(265, 'Добрый день')], ''),
 ]
 WALK = [
-    (0, None, "'Good afternoon, respected guests of our restaurant.' 'Respected' comes from the verb for respecting and is the usual way to address guests. 'Of our restaurant' needs an 'ogo' and an 'a'."),
-    (1, None, "'I hope you enjoyed everything today.' 'I hope' carries 'sya'. 'Liked' is neuter, because it agrees with 'everything'."),
-    (2, None, "'Hello, yes, it was all very tasty.' The long hello is hard to say, because the first 'v' is silent. 'Was' is neuter, to go with 'everything'."),
-    (3, None, "'You have simply excellent cooking here.' 'Kitchen' stands for 'cuisine' again. 'Excellent' ends in 'aya' to match."),
-    (4, None, "'Almost as tasty as at home.' 'As...as' is made with 'so same' and 'how'. 'At home' is just one word."),
-    (5, None, "'Do you agree with me, dear friend?' Nagiyev uses the casual 'you' with Barinov. 'Agree' is a short form with a masculine ending."),
-    (6, None, "'Well, overall the food is fine.' 'In general' is made with a small word 'in' and an ending. 'Normal' is the same word as in English."),
-    (7, None, "'Thank you for such kind words.' 'Kind' is the word from 'good day', and 'words' is plural. 'Thanks for' needs the little word 'for'."),
-    (8, None, "'We spent a very pleasant day here.' 'Spent' is built from the word for leading through. 'Pleasant' is masculine to match 'day'."),
-    (9, None, "'But our restaurant is still better.' 'All the same' is literally 'everything equal'. 'Better' is a one-word comparison."),
-    (10, None, "'Come visit us again.' Russians say 'come to us as guests', with the small word for 'as guests'. 'Again' is a nice short word."),
-    (11, None, "'We'll definitely come here next time.' 'Definitely' is a longer word, but it comes from 'obligatory'. 'Next time' is 'in the next time'."),
-    (12, None, "'All right, it's time for us to head back.' 'Time' means 'it's time', and the verb is 'to go by vehicle'. 'Back' comes as one word."),
-    (13, None, "'All the best, until we meet again soon!' 'All of good' is the Russian for 'all the best'. 'Until a new soon meeting' is a formal send-off."),
+    (0, None, '\'Good afternoon, dear guests of our restaurant.\' "Uvazhaemye", respected, is the formal way to address customers or an audience.'),
+    (1, None, '\'I hope you enjoyed everything today.\' "Vam vsyo ponravilos" is literally "to you everything was pleasing".'),
+    (2, None, '\'Hello, yes, everything was very tasty.\' "Zdravstvuyte" is the full polite hello. "Vkusno", tasty, needs no "it" in front.'),
+    (3, None, '\'You have a simply excellent kitchen here.\' "Kukhnya" here means the food, not the room.'),
+    (4, None, '\'Almost like at our place.\' "U nas", at ours, is his own restaurant. "Pochti" means almost.'),
+    (5, None, '\'Do you agree with me, my dear friend?\' "Soglasen", agreed, has a man\'s ending; a woman would say "soglasna".'),
+    (6, None, '\'Well, on the whole, the food is okay.\' "V tselom" means "on the whole". "Normalnaya", okay, is about as much praise as Barinov gives.'),
+    (7, None, '\'Thank you for such kind words.\' "Dobrye", kind, comes from "dobro", good. "Za" here means "for".'),
+    (8, None, '\'We spent a very pleasant day here.\' "Proveli", spent, is the word for spending time, never money.'),
+    (9, None, '\'But our restaurant is still better.\' "Vsyo ravno" is literally "all equal", meaning "still" or "anyway".'),
+    (10, None, '\'Come and visit us again.\' "K nam v gosti" is literally "to us, into guests", the set way to invite someone round.'),
+    (11, None, '\'We\'ll definitely come here next time.\' "Obyazatelno" means "definitely" or "without fail". "Pridyom" is "we\'ll come".'),
+    (12, None, '\'All right, it\'s time for us to head back.\' "Nam pora" is "it\'s time for us". "Ekhat" means going by car, not on foot.'),
+    (13, None, '\'All the best, see you soon!\' "Vsego dobrogo" is a polite goodbye, literally "of all good". "Do skoroy vstrechi" is "until a soon meeting".'),
 ]

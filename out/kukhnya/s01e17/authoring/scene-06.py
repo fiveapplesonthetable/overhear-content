@@ -10,36 +10,36 @@ PAIR = 'ru-en'
 LABELS = {'max': 'Макс', 'nastya': 'Настя', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.17'
 SOURCE_FILE = 'sources/kukhnya/s01/e17.ru.dual.srt'
-INTRO = 'After work, Max has brought his new girlfriend, Vika, to a bar to meet his friends Kostya and Nastya. It is a little awkward, since Vika is also their boss. First, the Russian.'
-OPENER = "Let's see how the Russian puts it together."
-TRANSITION = 'Now the whole conversation once more, from start to finish.'
-OUTRO = "The evening is sinking fast. The toast 'za vstrechu', literally 'to the meeting', is the easiest Russian toast you can learn. See you next time!"
-CLOSING = ('vika', 'До свидания.')
+INTRO = 'After a long day, Vika is in a lousy mood, and Max takes her to a bar to cheer her up. There they meet his friends Kostya and Nastya, which is a little awkward, since Vika is their boss at Claude Monet. Here are the introductions in Russian first.'
+OPENER = 'Now back to the introductions, slowly.'
+TRANSITION = 'Here are the introductions again, all together.'
+OUTRO = 'Max has made the introductions and gone off for drinks, leaving his girlfriend with her own staff. Hold on to "poznakomtes", meet each other, for the next time you introduce your friends. See you next time!'
+CLOSING = ('max', 'До скорого!')
 STORY = [
-    ('max', 'Познакомьтесь, это Вика.', 'Meet Vika.', [(78, 'А, познакомьтесь, это Вика.')], ''),
-    ('nastya', 'Вообще-то мы знакомы.', 'Actually, we know each other.', [(79, 'Вообще-то мы знакомы с Викторией Сергеевной.')], ''),
-    ('max', 'Это просто Вика, моя девушка.', 'She is just Vika, my girlfriend.', [(80, 'Не-не-не, стоп. Это просто Вика, моя девушка.')], ''),
-    ('max', 'А это Настя, моя подруга.', 'And this is Nastya, my friend.', [(81, 'Вика. А это просто Настя и просто Костя, мои друзья.')], ''),
-    ('nastya', 'Давайте за встречу.', "Let's drink to seeing each other.", [], ''),
-    ('vika', 'Почему не сказал, что она будет?', "Why didn't you tell me she'd be here?", [(82, 'Ты')], ''),
-    ('max', 'Мы много времени вместе проводим.', 'We spend a lot of time together.', [], ''),
-    ('vika', 'Мы, наверное, пойдем.', 'We should probably get going.', [(76, 'пойдем')], ''),
-    ('vika', 'Нам домой уже пора.', 'We should head home.', [], ''),
-    ('nastya', 'Вы оставайтесь, а мы уходим.', 'You stay; we are leaving.', [], ''),
-    ('nastya', 'Костя, пошли.', "Kostya, let's go.", [(81, 'костя')], ''),
-    ('max', 'Костя, ну ты куда?', 'Kostya, where are you going?', [(81, 'костя')], ''),
+    ('vika', 'Настроение паршивое.', "I'm in a lousy mood.", [(75, 'Настроение паршивое')], ''),
+    ('vika', 'Хочется на пиццу.', 'I could go for pizza.', [(75, 'хочется на пиццу')], ''),
+    ('max', 'Пойдём, я подниму тебе настроение.', "Come on, I'll cheer you up.", [(76, 'Сейчас мы будем повышать твое настроение.')], ''),
+    ('nastya', 'Привет! А вот и мы.', 'Hi! Here we are.', [(77, 'Привет! А вот и мы.')], ''),
+    ('max', 'А, познакомьтесь, это Вика.', 'Oh, meet Vika.', [(78, 'А, познакомьтесь, это Вика.')], ''),
+    ('nastya', 'Вообще-то мы знакомы с Викторией Сергеевной.', 'Actually, we know Viktoria Sergeevna.', [(79, 'Вообще-то мы знакомы с Викторией Сергеевной.')], ''),
+    ('max', 'Не-не-не, стоп. Это просто Вика, моя девушка.', "No, no, no, stop. She's just Vika, my girlfriend.", [(80, 'Не-не-не, стоп. Это просто Вика, моя девушка.')], ''),
+    ('max', 'Вика, а это просто Настя и просто Костя, мои друзья.', 'Vika, this is just Nastya and just Kostya, my friends.', [(81, 'А это просто Настя и просто Костя, мои друзья.')], ''),
+    ('max', 'Ну, с работы.', 'Well, from work.', [(82, 'Ну, с работы.')], ''),
+    ('max', 'Ладно, садись.', 'All right, sit down.', [(83, 'Ладно, садись.')], ''),
+    ('max', 'Садись сюда, поудобнее.', 'Sit here, make yourself comfortable.', [(83, 'Садись сюда, поудобнее.')], ''),
+    ('max', 'А я пойду принесу выпить, окей?', "And I'll go get us something to drink, okay?", [(84, 'принесу выпить, окей?')], ''),
 ]
 WALK = [
-    (0, None, "'Meet Vika.' Russian says 'get acquainted', with the 'sya' ending meaning 'with each other'. The little word for 'this is' introduces her."),
-    (1, None, "'Actually, we know each other.' The first word has a small 'to' tacked on, which sharpens the correction. 'Acquainted' is plural, as she means both of them."),
-    (2, None, "'This is just Vika, my girlfriend.' 'Girl' also serves for 'girlfriend'. 'My' carries 'ya' to match the feminine word."),
-    (3, None, "'And this is Nastya, my friend.' A female friend and a male friend have different words, so this one ends in 'a'. The opening 'and' just switches to the next person."),
-    (4, None, "'Let's drink to the meeting.' The small word for 'to' in a toast is the same one that means 'for'. 'Meeting' takes a 'u' ending after it."),
-    (5, None, "'Why didn't you tell me she would be here?' The 'a' stays off, and 'told' ends in a bare 'l' for Max. 'Will be' is a short word that comes just after 'she'."),
-    (6, None, "'We spend a lot of time together.' After 'a lot', 'time' takes a different ending. 'Spend' is built from 'to lead through'."),
-    (7, None, "'We should probably be going.' 'Probably' is one word, and 'we will go' is the soft way to say 'we're off'. It's a polite excuse."),
-    (8, None, "'It's time for us to go home.' 'To us' stands for 'we', and 'time' means 'it's time'. 'Home' is one word on its own of direction."),
-    (9, None, "'You stay, and we're leaving.' The command is the plural polite one. The small 'a' in the middle sets the two groups against each other."),
-    (10, None, "'Kostya, let's go.' The past form of 'go' is used as a casual 'let's go'. It's short, brisk and rude."),
-    (11, None, "'Kostya, hey, where are you going?' The opening word is a filler like 'come on'. There's no verb at all, just 'where to', and that's enough."),
+    (0, None, '\'I\'m in a lousy mood.\' Russian says "the mood is lousy": "nastroenie", mood, and "parshivoe", a casual word for lousy.'),
+    (1, None, '\'I could go for pizza.\' "Khochetsya" is a softer "I want", with no "I" in it at all. "Na pitstsu" is literally "onto pizza", meaning out for pizza.'),
+    (2, None, '\'Come on, I\'ll cheer you up.\' "Podnimu tebe nastroenie" is literally "I\'ll lift the mood for you". "Poydyom" is how friends say "let\'s go".'),
+    (3, None, '\'Hi! Here we are.\' "A vot i my" is a set phrase for arriving somewhere: literally "and here also we".'),
+    (4, None, '\'Oh, meet Vika.\' "Poznakomtes" means "get acquainted", and its "-tes" ending is for more than one person, since Max is talking to both friends.'),
+    (5, None, '\'Actually, we already know Viktoria Sergeevna.\' "Voobshche-to", actually, is a gentle correction. After "znakomy s", acquainted with, her name changes to "Viktoriey Sergeevnoy".'),
+    (6, None, '\'No, no, no, stop. She\'s just Vika, my girlfriend.\' "Devushka", girl, is also the usual word for girlfriend. "Prosto Vika", just Vika, drops the boss.'),
+    (7, None, '\'Vika, this is just Nastya and just Kostya, my friends.\' Max puts "prosto", just, in front of each name, and "druzya" is the plural of "drug", friend.'),
+    (8, None, '\'Well, from work.\' "S raboty" means "from work": "rabota" ends in "-y" after "s" when it means "from".'),
+    (9, None, '\'All right, sit down.\' "Sadis" is the casual command for one person, so Max is now talking only to Vika.'),
+    (10, None, '\'Sit here, get comfortable.\' "Poudobnee" comes from "udobno", comfortable, and means "more comfortably". Max is fussing over her.'),
+    (11, None, '\'And I\'ll go get us something to drink, okay?\' "Prinesu vypit" is literally "I\'ll bring to drink". "Okey" is borrowed straight from English.'),
 ]

@@ -14,7 +14,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 2 | Хостес | Я надеюсь, вам сегодня всё понравилось. | I hope you enjoyed everything today. | #266 00:17:21: Я надеюсь, вам все понравилось | verbatim |
 | 3 | Нагиев | Здравствуйте, да, всё было очень вкусно. | Hello, yes, everything was very delicious. | #267 00:17:23: Да, очень вкусно | verbatim |
 | 4 | Нагиев | У вас тут просто отличная кухня. | You have a simply great kitchen here. | #267 00:17:23: очень вкусно | verbatim |
-| 5 | Нагиев | Почти так же вкусно, как дома. | Almost as delicious as at home. | #268 00:17:25: Практически как у нас | verbatim |
+| 5 | Нагиев | Почти как у нас. | Almost like at our place. | #268 00:17:25: Практически как у нас | verbatim |
 | 6 | Нагиев | Ты согласен со мной, дорогой друг? | Do you agree with me, dear friend? | #268 00:17:25: Да, Вик | verbatim |
 | 7 | Шеф | Ну, в целом эта еда нормальная. | Well, overall this food is fine. | #269 00:17:28: Сойдет | verbatim |
 | 8 | Хостес | Спасибо вам за такие добрые слова. | Thank you for such kind words. | #266 00:17:21: вам все понравилось | verbatim |
@@ -23,21 +23,21 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 11 | Хостес | Приходите к нам в гости снова. | Come visit us again. | #265 00:17:19: Добрый день | verbatim |
 | 12 | Нагиев | Обязательно придём сюда в следующий раз. | We will definitely come here next time. | #267 00:17:23: очень вкусно | verbatim |
 | 13 | Шеф | Ладно, нам уже пора ехать обратно. | All right, it is time for us to head back. | #269 00:17:28: Сойдет | verbatim |
-| 14 | Хостес | Всего доброго, до новой скорой встречи! | All the best, until we meet again soon! | #265 00:17:19: Добрый день | verbatim |
+| 14 | Хостес | Всего доброго, до скорой встречи! | All the best, see you again soon! | #265 00:17:19: Добрый день | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good afternoon, respected guests of our restaurant.' 'Respected' comes from the verb for respecting and is the usual way to address guests. 'Of our restaurant' needs an 'ogo' and an 'a'.
-- 'I hope you enjoyed everything today.' 'I hope' carries 'sya'. 'Liked' is neuter, because it agrees with 'everything'.
-- 'Hello, yes, it was all very tasty.' The long hello is hard to say, because the first 'v' is silent. 'Was' is neuter, to go with 'everything'.
-- 'You have simply excellent cooking here.' 'Kitchen' stands for 'cuisine' again. 'Excellent' ends in 'aya' to match.
-- 'Almost as tasty as at home.' 'As...as' is made with 'so same' and 'how'. 'At home' is just one word.
-- 'Do you agree with me, dear friend?' Nagiyev uses the casual 'you' with Barinov. 'Agree' is a short form with a masculine ending.
-- 'Well, overall the food is fine.' 'In general' is made with a small word 'in' and an ending. 'Normal' is the same word as in English.
-- 'Thank you for such kind words.' 'Kind' is the word from 'good day', and 'words' is plural. 'Thanks for' needs the little word 'for'.
-- 'We spent a very pleasant day here.' 'Spent' is built from the word for leading through. 'Pleasant' is masculine to match 'day'.
-- 'But our restaurant is still better.' 'All the same' is literally 'everything equal'. 'Better' is a one-word comparison.
-- 'Come visit us again.' Russians say 'come to us as guests', with the small word for 'as guests'. 'Again' is a nice short word.
-- 'We'll definitely come here next time.' 'Definitely' is a longer word, but it comes from 'obligatory'. 'Next time' is 'in the next time'.
-- 'All right, it's time for us to head back.' 'Time' means 'it's time', and the verb is 'to go by vehicle'. 'Back' comes as one word.
-- 'All the best, until we meet again soon!' 'All of good' is the Russian for 'all the best'. 'Until a new soon meeting' is a formal send-off.
+- 'Good afternoon, dear guests of our restaurant.' "Uvazhaemye", respected, is the formal way to address customers or an audience.
+- 'I hope you enjoyed everything today.' "Vam vsyo ponravilos" is literally "to you everything was pleasing".
+- 'Hello, yes, everything was very tasty.' "Zdravstvuyte" is the full polite hello. "Vkusno", tasty, needs no "it" in front.
+- 'You have a simply excellent kitchen here.' "Kukhnya" here means the food, not the room.
+- 'Almost like at our place.' "U nas", at ours, is his own restaurant. "Pochti" means almost.
+- 'Do you agree with me, my dear friend?' "Soglasen", agreed, has a man's ending; a woman would say "soglasna".
+- 'Well, on the whole, the food is okay.' "V tselom" means "on the whole". "Normalnaya", okay, is about as much praise as Barinov gives.
+- 'Thank you for such kind words.' "Dobrye", kind, comes from "dobro", good. "Za" here means "for".
+- 'We spent a very pleasant day here.' "Proveli", spent, is the word for spending time, never money.
+- 'But our restaurant is still better.' "Vsyo ravno" is literally "all equal", meaning "still" or "anyway".
+- 'Come and visit us again.' "K nam v gosti" is literally "to us, into guests", the set way to invite someone round.
+- 'We'll definitely come here next time.' "Obyazatelno" means "definitely" or "without fail". "Pridyom" is "we'll come".
+- 'All right, it's time for us to head back.' "Nam pora" is "it's time for us". "Ekhat" means going by car, not on foot.
+- 'All the best, see you soon!' "Vsego dobrogo" is a polite goodbye, literally "of all good". "Do skoroy vstrechi" is "until a soon meeting".

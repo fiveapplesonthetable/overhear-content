@@ -11,7 +11,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Настя | Здрасте. | Hello. | #297 00:20:06: Здрасте. | verbatim |
-| 2 | Вика | Это твоя вечеринка? | Is this your party? | #298 00:20:08: Макс, это и есть твоя безбашенная вечеруха с бывшими одногруппниками? | verbatim |
+| 2 | Настя | Это твоя вечеринка? | Is this your party? | #298 00:20:08: Макс, это и есть твоя безбашенная вечеруха с бывшими одногруппниками? | verbatim |
 | 3 | Настя | Ты сказал, её не будет. | You said she would not be here. | #299 00:20:13: Ты же говорил, что Вики, Виктория Сергеевна не будет. | verbatim |
 | 4 | Вика | Как может меня не быть дома? | How can I not be at home? | #300 00:20:17: Как может меня не быть у меня дома? | verbatim |
 | 5 | Вика | Зачем ты их привёл? | Why did you bring them? | #301 00:20:19: Ты зачем их сюда привел? | verbatim |
@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello.' This is the clipped, casual version of the long formal hello, with half the letters dropped. Nastya says it sourly.
-- 'Is this your party?' 'Your' is the casual one, and 'party' is an evening word with a small ending on it. The question is only in the rising voice.
-- 'You said she wouldn't be here.' For 'she won't be here', Russian says 'her not will be', with 'her' in the object form. The absent person is the one in that form.
-- 'How can I not be at home?' The same pattern again: 'me not to be at home'. 'At home' is one word.
-- 'Why did you bring them?' 'What for' is a different question word from the 'why' of cause. 'Brought' is the word for bringing a person, on foot.
-- 'Why didn't you warn us?' Here the 'why' is the ordinary one. 'Warned' is a once-and-done action, and 'us' is a short word with an 'as' ending.
-- 'You wouldn't ever have come.' A small word 'by' after 'you' makes it 'would'. 'Never' and 'not' are both there.
-- 'You're my friends.' There's no 'are'. It's just 'you my friends', and the plural of 'friend' is irregular.
-- 'I wanted to celebrate the birthday together.' 'Celebrate' comes from 'mark'. 'Birthday' is 'day of birth', and 'together' is one word.
-- 'You needn't worry.' Russian says 'you can not worry'. The 'sya' on the end of 'worry' is the little 'oneself'.
-- 'Thank you for a lovely evening.' Max is being sarcastic here, since the evening has been a disaster. 'Lovely' is the word from 'beautiful', in the masculine.
-- 'Bye.' It's the casual goodbye, short and sharp. Max slams the door with it.
-- 'Max, wait!' The command is the same word as 'stand', and it works for both 'stand' and 'stop'. Vika calls out to him.
+- 'Hello.' "Zdraste" is the quick spoken form of "zdravstvuyte", and it's what you'll actually hear.
+- 'Is this your party?' "Vecherinka", party, comes from "vecher", evening.
+- 'You said she wouldn't be here.' "Eyo ne budet" is literally "of her there won't be", the Russian way to say someone will be absent.
+- 'How can I not be at home?' "Menya ne byt" follows the same pattern as "eyo ne budet". "Doma" means at home.
+- 'Why did you bring them?' "Zachem" asks "what for?", about the purpose. "Privyol" means "brought along".
+- 'Why didn't you warn us?' "Pochemu" asks about the reason, unlike "zachem". "Predupredil" means "warned".
+- 'You'd never have come.' "By" turns "prishli", came, into "would have come". "Nikogda ne" means never.
+- 'You're my friends.' "Vy moi druzya" needs no "are".
+- 'I wanted us to celebrate my birthday together.' "Otmetit" is literally "to mark", and it's the usual word for celebrating an occasion.
+- 'You don't have to worry.' "Mozhete ne", you can not, is Russian for "you don't have to". "Volnovatsya" means to worry.
+- 'Thanks for a lovely evening.' "Prekrasnyy" means lovely or beautiful, and here it's pure sarcasm.
+- 'Bye.' Max's "poka" is the casual goodbye, said to all of them on his way out.
+- 'Max, wait!' "Stoy", stop, comes from "stoyat" again, this time as a plea.

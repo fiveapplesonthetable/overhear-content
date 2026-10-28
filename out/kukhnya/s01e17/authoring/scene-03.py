@@ -10,11 +10,11 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.17'
 SOURCE_FILE = 'sources/kukhnya/s01/e17.ru.dual.srt'
-INTRO = "Barinov is alone in the kitchen with his pet fish, Arkady, when Vika comes in. She reminds him that he owes her money, and also that he promised a new dish for the season. First the Russian, and don't worry about catching every word."
-OPENER = "We'll go through it again, this time with the meaning."
-TRANSITION = 'Now it all together again, from the top.'
-OUTRO = "Vika gives him until tomorrow, and the chef promises to think of something. As you listen again, notice that 'nuzhno' and 'nado' both mean 'necessary', and Russians use them interchangeably. See you next time!"
-CLOSING = ('barinov', 'Пока!')
+INTRO = 'Barinov is alone in the kitchen with his pet fish, Arkady, when Vika comes in. She reminds him that he owes her money, and also that he promised a new dish for the season. Here is their talk in Russian first.'
+OPENER = "Let's go back through what Vika says, one line at a time."
+TRANSITION = 'Now listen to Vika and Barinov again from the top.'
+OUTRO = 'Vika gives him until tomorrow, and the chef promises to think of something. Keep "cherez nedelyu", in a week, for the next time you need to buy yourself some time. See you next time!'
+CLOSING = ('vika', 'До завтра, Виктор!')
 STORY = [
     ('barinov', 'Приятного аппетита, мой дорогой Аркадий.', 'Enjoy your meal, my dear Arkady.', [(35, 'приятного аппетита, Аркадий.')], ''),
     ('vika', 'Ты кормишь рыбу лучше наших гостей.', 'You feed the fish better than our guests.', [(36, 'ты для своей селедки готовишь с большим удовольствием')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('barinov', 'Хорошо, Вика, я что-нибудь придумаю.', 'Fine, Vika, I will come up with something.', [], ''),
 ]
 WALK = [
-    (0, None, "'Enjoy your meal, my dear Arkady.' The phrase is 'of pleasant appetite', as if wishing it on someone. It's what Russians say before every meal. 'Dear' is the same word as 'expensive', and works for affection."),
-    (1, None, "'You feed the fish better than our guests.' The 'sh' ending on 'feed' says 'you', casual. After 'better', the guests take a different ending, and that does the job of 'than'."),
-    (2, None, "'Arkady, be quiet and don't listen to her.' Two commands in a row, the second negative. 'Her' is a tiny word that changes shape from 'she'."),
-    (3, None, "'Do you remember that tomorrow is the first?' Russians say the date as 'first number'. 'Tomorrow' is a handy word to learn."),
-    (4, None, "'I'll give you the money back in a week.' 'In a week' is 'through a week', with the week ending in 'yu'. 'Money' is plural, as always in Russian."),
-    (5, None, "'You promised to pay the debt back today.' 'Debt' is also what Russians use for 'duty'. The 'l' on 'promised' shows Barinov is the man who promised."),
-    (6, None, "'Your money is with the footballer Magidi right now.' 'At the footballer' stands for 'with the footballer'. 'Your money' is plural, so 'your' ends in 'i'."),
-    (7, None, "'He didn't score a goal, so what has he got to do with it?' Russian says 'score' with a verb that really means 'hammer in'. 'What has he to do with it' is a fixed phrase, and a handy one."),
-    (8, None, "'Ask him directly for your money.' The phrase 'from him' picks up an extra 'n' after 'from'. That 'n' appears on all such words after a little word like 'from' or 'at'."),
-    (9, None, "'You promised a new seasonal dish, Viktor.' 'New' and 'seasonal' both end in 'oe', the neuter, because 'dish' is neuter. Vika is using his first name, which she doesn't often do."),
-    (10, None, "'When money is needed, you always promise a lot.' 'You' here is anyone, so no word for it appears. 'Needed' is a plural, because it's about the plural 'money'."),
-    (11, None, "'Tomorrow I expect either the money or the dish.' 'I wait' also means 'I expect'. Both the money and the dish come after it, joined by a small word for 'or'."),
-    (12, None, "'Fine, Vika, I'll think of something.' The word 'something' is built with a small tail that makes 'what' mean 'anything'. 'Think of' means to invent, from 'think'."),
+    (0, None, '\'Enjoy your meal, my dear Arkady.\' "Priyatnogo appetita" is what Russians say to anyone about to eat, here to a fish. "Moy dorogoy" means "my dear".'),
+    (1, None, '\'You feed the fish better than our guests.\' "Kormish" comes from "kormit", to feed. After "luchshe", better, the guests just change their ending: "nashikh gostey".'),
+    (2, None, '\'Arkady, be quiet and don\'t listen to her.\' Two commands in a row, "molchi" and "ne slushay". "Ona", she, turns into "eyo" after "slushat".'),
+    (3, None, '\'Do you remember that tomorrow is the first?\' "Pervoe chislo", literally "the first number", is how Russians say the first of the month.'),
+    (4, None, '\'I\'ll give you the money back in a week.\' "Verny" means "I\'ll return", and "cherez nedelyu" is literally "through a week", Russian for "a week from now".'),
+    (5, None, '\'You promised to pay back the debt today.\' Vika throws his own word back: "vernut dolg", to return a debt, means "pay it back".'),
+    (6, None, '\'Your money is with the footballer Magidi right now.\' "U futbolista", at the footballer\'s: "u" plus a person tells you who has something.'),
+    (7, None, '\'He didn\'t score a goal, so what\'s he got to do with it?\' "Pri chyom tut on" is a fixed way to ask that. "Zabil gol" is literally "hammered in a goal".'),
+    (8, None, '\'Ask him for your money yourself.\' "Sprosi s nego" is literally "ask from him": "s" plus a person here means holding them to account.'),
+    (9, None, '\'You promised a new seasonal dish, Viktor.\' "Sezonnoe", seasonal, comes from "sezon". "Blyudo", dish, ends in "-o", so both words before it end in "-oe" to match.'),
+    (10, None, '\'When you need money, you always promise a lot.\' "Dengi", money, is always plural in Russian, so "nuzhny", needed, is plural too.'),
+    (11, None, '\'Tomorrow I expect the money or the dish.\' "Zhdu" comes from "zhdat", to wait for or expect. "Ili" is "or", and she leaves him exactly two choices.'),
+    (12, None, '\'All right, Vika, I\'ll think of something.\' "Chto-nibud" is "something or other": "chto", what, with "-nibud" added. "Pridumayu" means "I\'ll come up with".'),
 ]

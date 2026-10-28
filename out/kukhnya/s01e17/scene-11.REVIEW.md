@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What do you do if your friends and your girlfriend have quarrelled?' 'What to do' is the plain verb, with no 'you'. 'Quarrelled' ends in 's' with a soft sign, 'with each other'.
-- 'Obviously you have to make them up quickly.' 'Make peace' is built from the word for peace. 'Them it's necessary to reconcile' is the order.
-- 'But how can I do it today?' 'To me' stands for the ability, so it's 'how to-me this to do'. 'Today' is a word you'll hear every day.
-- 'We need a good reason for a shared celebration.' 'Needed' is masculine to match 'reason'. 'Shared' and 'holiday' take the 'of' ending.
-- 'For example, a happy birthday!' Russian says 'day of birth' for 'birthday', and the second word has an 'ya' ending. 'Cheerful' is the word you'd use for a cheerful person.
-- 'On a day like that, everyone should forget their grudges.' 'In such a day' is used for 'on a day like that'. 'Must' is plural to go with 'everyone'.
-- 'Exactly! My birthday is tomorrow!' 'At me tomorrow birthday' is the way to say 'I have a birthday tomorrow'. 'Exactly' is a one-word reaction.
-- 'How could I forget about this myself?' 'Could' has the masculine ending, and the little word for 'about' gets a 'b' before a vowel. 'Myself' is a short word.
-- 'Seriously, how could you forget your own holiday?' 'Own' is the word that points back to the speaker. 'Holiday' is the same word Kostya used before.
-- 'I never told anyone anything.' Count the negatives: 'to no one', 'nothing', 'not'. Russian wants them all.
-- 'And then suddenly tomorrow is your birthday.' 'And here' sets up the surprise. 'Suddenly' is the word you'd use in a story.
-- 'They won't just believe me.' Russians 'believe to' someone, so 'me' takes the 'to me' form. 'Just like that' is a fixed phrase for 'so easily'.
-- 'So you need to dream up a clever plan.' 'Clever' comes from the word for cunning. 'Dream up' is the finished form of 'think'.
+- 'What do you do when your friends and your girlfriend have fallen out?' "Chto delat?", what's to be done, is a famous Russian question. "Possorilis" means "fell out with each other".
+- 'Obviously, they need to make up, and fast.' "Ponyatno" is "it's clear". "Pomirit" means to get people to make peace, and it comes from "mir", peace.
+- 'But how do I do it today?' "Kak mne eto sdelat" is literally "how to me to do this", with no "I do" anywhere.
+- 'You need a good excuse for a party for everyone.' "Povod" is an excuse or reason for something. "Obshchiy" means shared, for all.
+- 'A fun birthday, for example!' "Den rozhdeniya" is literally "day of birth". "Naprimer" means "for example".
+- 'On a day like that, everyone has to forget their grudges.' "Obidy", grudges or hurt feelings, is the plural of "obida". "Dolzhny" means "must".
+- 'That's it! My birthday is tomorrow!' "Tochno!" here means "that's it!". "U menya den rozhdeniya" is literally "at me, a birthday".
+- 'How could I forget about it myself?' "Mog", could, is the man's form; Vika would say "mogla". "Ob etom" means "about it".
+- 'Seriously, how could you forget your own birthday?' "Seryozno" means seriously. "Svoy prazdnik" is "your own celebration".
+- 'I never told anybody anything before.' Three negatives in a row, "nikomu nichego ne", and Russian needs all three.
+- 'And then suddenly, it's his birthday tomorrow.' "Vdrug" means suddenly. Kostya acts out how it will sound to the others.
+- 'They won't just believe me like that.' "Prosto tak" is "just like that". "Poveryat" means "will believe".
+- 'So you need to come up with a clever plan.' "Khitryy" means cunning or sly. "Pridumat" means to come up with, as you would a new dish.

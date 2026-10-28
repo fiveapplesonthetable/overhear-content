@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Макс | Познакомьтесь, это Вика. | Meet Vika. | #78 00:05:15: А, познакомьтесь, это Вика. | verbatim |
-| 2 | Настя | Вообще-то мы знакомы. | Actually, we know each other. | #79 00:05:17: Вообще-то мы знакомы с Викторией Сергеевной. | verbatim |
-| 3 | Макс | Это просто Вика, моя девушка. | She is just Vika, my girlfriend. | #80 00:05:19: Не-не-не, стоп. Это просто Вика, моя девушка. | verbatim |
-| 4 | Макс | А это Настя, моя подруга. | And this is Nastya, my friend. | #81 00:05:23: Вика. А это просто Настя и просто Костя, мои друзья. | verbatim |
-| 5 | Настя | Давайте за встречу. | Let's drink to seeing each other. | new | new |
-| 6 | Вика | Почему не сказал, что она будет? | Why didn't you tell me she'd be here? | #82 00:05:26: Ты | verbatim |
-| 7 | Макс | Мы много времени вместе проводим. | We spend a lot of time together. | new | new |
-| 8 | Вика | Мы, наверное, пойдем. | We should probably get going. | #76 00:05:06: пойдем | verbatim |
-| 9 | Вика | Нам домой уже пора. | We should head home. | new | new |
-| 10 | Настя | Вы оставайтесь, а мы уходим. | You stay; we are leaving. | new | new |
-| 11 | Настя | Костя, пошли. | Kostya, let's go. | #81 00:05:23: костя | verbatim |
-| 12 | Макс | Костя, ну ты куда? | Kostya, where are you going? | #81 00:05:23: костя | verbatim |
+| 1 | Вика | Настроение паршивое. | I'm in a lousy mood. | #75 00:05:03: Настроение паршивое | verbatim |
+| 2 | Вика | Хочется на пиццу. | I could go for pizza. | #75 00:05:03: хочется на пиццу | verbatim |
+| 3 | Макс | Пойдём, я подниму тебе настроение. | Come on, I'll cheer you up. | #76 00:05:06: Сейчас мы будем повышать твое настроение. | verbatim |
+| 4 | Настя | Привет! А вот и мы. | Hi! Here we are. | #77 00:05:12: Привет! А вот и мы. | verbatim |
+| 5 | Макс | А, познакомьтесь, это Вика. | Oh, meet Vika. | #78 00:05:15: А, познакомьтесь, это Вика. | verbatim |
+| 6 | Настя | Вообще-то мы знакомы с Викторией Сергеевной. | Actually, we know Viktoria Sergeevna. | #79 00:05:17: Вообще-то мы знакомы с Викторией Сергеевной. | verbatim |
+| 7 | Макс | Не-не-не, стоп. Это просто Вика, моя девушка. | No, no, no, stop. She's just Vika, my girlfriend. | #80 00:05:19: Не-не-не, стоп. Это просто Вика, моя девушка. | verbatim |
+| 8 | Макс | Вика, а это просто Настя и просто Костя, мои друзья. | Vika, this is just Nastya and just Kostya, my friends. | #81 00:05:23: А это просто Настя и просто Костя, мои друзья. | verbatim |
+| 9 | Макс | Ну, с работы. | Well, from work. | #82 00:05:26: Ну, с работы. | verbatim |
+| 10 | Макс | Ладно, садись. | All right, sit down. | #83 00:05:28: Ладно, садись. | verbatim |
+| 11 | Макс | Садись сюда, поудобнее. | Sit here, make yourself comfortable. | #83 00:05:28: Садись сюда, поудобнее. | verbatim |
+| 12 | Макс | А я пойду принесу выпить, окей? | And I'll go get us something to drink, okay? | #84 00:05:31: принесу выпить, окей? | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Meet Vika.' Russian says 'get acquainted', with the 'sya' ending meaning 'with each other'. The little word for 'this is' introduces her.
-- 'Actually, we know each other.' The first word has a small 'to' tacked on, which sharpens the correction. 'Acquainted' is plural, as she means both of them.
-- 'This is just Vika, my girlfriend.' 'Girl' also serves for 'girlfriend'. 'My' carries 'ya' to match the feminine word.
-- 'And this is Nastya, my friend.' A female friend and a male friend have different words, so this one ends in 'a'. The opening 'and' just switches to the next person.
-- 'Let's drink to the meeting.' The small word for 'to' in a toast is the same one that means 'for'. 'Meeting' takes a 'u' ending after it.
-- 'Why didn't you tell me she would be here?' The 'a' stays off, and 'told' ends in a bare 'l' for Max. 'Will be' is a short word that comes just after 'she'.
-- 'We spend a lot of time together.' After 'a lot', 'time' takes a different ending. 'Spend' is built from 'to lead through'.
-- 'We should probably be going.' 'Probably' is one word, and 'we will go' is the soft way to say 'we're off'. It's a polite excuse.
-- 'It's time for us to go home.' 'To us' stands for 'we', and 'time' means 'it's time'. 'Home' is one word on its own of direction.
-- 'You stay, and we're leaving.' The command is the plural polite one. The small 'a' in the middle sets the two groups against each other.
-- 'Kostya, let's go.' The past form of 'go' is used as a casual 'let's go'. It's short, brisk and rude.
-- 'Kostya, hey, where are you going?' The opening word is a filler like 'come on'. There's no verb at all, just 'where to', and that's enough.
+- 'I'm in a lousy mood.' Russian says "the mood is lousy": "nastroenie", mood, and "parshivoe", a casual word for lousy.
+- 'I could go for pizza.' "Khochetsya" is a softer "I want", with no "I" in it at all. "Na pitstsu" is literally "onto pizza", meaning out for pizza.
+- 'Come on, I'll cheer you up.' "Podnimu tebe nastroenie" is literally "I'll lift the mood for you". "Poydyom" is how friends say "let's go".
+- 'Hi! Here we are.' "A vot i my" is a set phrase for arriving somewhere: literally "and here also we".
+- 'Oh, meet Vika.' "Poznakomtes" means "get acquainted", and its "-tes" ending is for more than one person, since Max is talking to both friends.
+- 'Actually, we already know Viktoria Sergeevna.' "Voobshche-to", actually, is a gentle correction. After "znakomy s", acquainted with, her name changes to "Viktoriey Sergeevnoy".
+- 'No, no, no, stop. She's just Vika, my girlfriend.' "Devushka", girl, is also the usual word for girlfriend. "Prosto Vika", just Vika, drops the boss.
+- 'Vika, this is just Nastya and just Kostya, my friends.' Max puts "prosto", just, in front of each name, and "druzya" is the plural of "drug", friend.
+- 'Well, from work.' "S raboty" means "from work": "rabota" ends in "-y" after "s" when it means "from".
+- 'All right, sit down.' "Sadis" is the casual command for one person, so Max is now talking only to Vika.
+- 'Sit here, get comfortable.' "Poudobnee" comes from "udobno", comfortable, and means "more comfortably". Max is fussing over her.
+- 'And I'll go get us something to drink, okay?' "Prinesu vypit" is literally "I'll bring to drink". "Okey" is borrowed straight from English.
