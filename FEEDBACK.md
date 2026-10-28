@@ -244,3 +244,31 @@ text does not support. README, `sources/INDEX.md` (regenerated) and `out/PROGRES
 Order of work to keep the error list shrinking quickly: items 2 and 3 (one script over `out/`), 1, 4, then 9, 10 (script,
 then check by hand), 5, 6, 7, 8, 11, then the content points. Commit per group (`git add -A && git commit`), push
 after each; never force-push.
+
+## Status 2026-10-28 (content side): migration done, what is left
+
+Done by script (all checked in, each with its output in a separate commit): `tools/migrate_v1.py` (P0 format: schemaVersion,
+`gram`, aspect/animacy/gender/number spellings, IPA moved out of `pos`, notes ids, scenes.json fields and English-only titles),
+`tools/fix_tokens.py` (item 9: 5,716 Dix lines now one word entry per whitespace token), `tools/fill_stress.py` (461 French IPA
+values from the corpus or espeak-ng, 20 Russian stress marks from the corpus or RuAccent), `tools/fix_invariable_forms.py`
+(3 indeclinable nouns), plus 99 hand-written summaries, 8 rewritten narrator intros and 4 filled locations. Result with the app
+validator (`--require-notes`): lenient 1617 of 1617 scenes pass, strict 68 of 1617 pass (the repo validator gives the same 68).
+
+Still failing strictly, none of it mechanical:
+- **Closing line (1,444 scripts).** Needs a new farewell segment and its annotation entry per script (item 5).
+- **Source ties outside the scene (142 scripts)** (item 6) and **role keys missing from `characters.md`** (item 8). Writing
+  the character entries needs a human decision about who each extra is.
+- **Show-wide**: voices and role keys (item 7), lexicon conflicts (item 10), 61 duplicated pictures (item 11).
+
+## Needs human (not done on purpose)
+
+- **Plot accuracy.** The new summaries only say what each scene's own lines say; whether a scene is faithful to the episode
+  (domashniy-arest s01e10 scene-12, kukhnya s01e18 scene-10, ...) was not judged. Kukhnya s01e19 scene-05 to -08 have
+  story lines that are mostly filler ("What a pleasant evening N") and need rewriting from the real cues; their summaries are
+  deliberately minimal. kukhnya s02e03 scene-20 to -23 have mismatched role labels.
+- **Real president.** `Путин` is still in domashniy-arest s01e11 scene-05, -06, -07, -14, -15, -17. Reframe or reword; the
+  summaries say "the president" and do not name him.
+- **Generated annotation text.** Where a split or merged token had no correct entry elsewhere in the show, its gloss/gram
+  was composed from the pieces (e.g. `l'ai` = "have him"); French IPA for 198 rare tokens comes from espeak-ng, not a
+  dictionary. A French speaker should skim them.
+- **Level, register, A1 difficulty and the walk-through wording** (Content quality above) are untouched.
