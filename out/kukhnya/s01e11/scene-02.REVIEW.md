@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Attention everyone! I have important information.' "Attention to all" is the Russian call to a room, and then "at me" stands for "I have". Vika wants every pair of eyes and ears, and she gets them.
-- 'Vika, speak faster, we have a lot of orders.' "Faster" is just "quick" with a new ending, like English "-er". After "many", the thing counted takes an "of" ending. Barinov uses the friendly "ty" with her and is in no mood for suspense.
-- 'Dmitry Vladimirovich himself just called.' "Himself" is added for emphasis: the owner in person. And "only what" is the Russian way to say "just now". Vika drops his full name like a weight.
-- 'And what did our respected owner say?' "Respected" grows from the word Max used in the pastry kitchen, "I respect". Barinov says it with a trace of irony. He knows the owner is more trouble than help.
-- 'A restaurant critic will come to us today.' "Will arrive" is the by-vehicle "come". "To us" means "to our place". And "restaurant" turns into a describing word to make "restaurant critic". Vika says it gravely.
-- 'We will feed him a delicious hot lunch.' The prefix at the start of "feed" means "fill up", and it comes from the same root as the animal feed in the winnings line. Barinov's whole plan is food, as usual.
-- 'Nobody knows what he looks like.' Russian says "nobody not knows", and both negatives are needed. "How he looks" is the way to ask about appearance. The critic is invisible, and that's the whole problem.
-- 'That means we cook each dish with perfect precision.' Barinov begins with "so", which in Russian is literally "means". Then two adverbs pile up, "ideally exactly". He draws the sensible conclusion, loudly.
-- 'And do not let Max into the kitchen today.' "Don't let" comes from the same family as "let him" in the dishes line. The name Max gets a special ending because he's the one being kept out. Vika is firm.
-- 'And why should the new cook not work?' Barinov asks as if cross-examining a witness. "Must" is the cousin of "owe", and it goes with "not" here to make "should not". "New" and "cook" stand side by side.
-- 'Because this guy brings constant problems.' "Solid problems" is the literal, meaning nothing but problems. "Brings" uses the carrying word. Vika's flat delivery is what makes it funny. Max's reputation precedes him.
-- 'Fine, Max will wash dirty dishes.' Barinov gives in at once, because the dishes are the safest place to keep Max. "Dirty dishes" takes the object ending, so the whole phrase is "wash dirty tableware".
-- 'Today complete order is needed in the kitchen.' Russian has several "orders", and this is a third one: tidiness and discipline, not a dish and not a command. "Needed" agrees with it. Vika has the last, strictest word.
+- 'Attention everyone! I have important information.' "Vnimanie vsem" is "attention to all", the Russian call to a room. Then "u menya", "at me", stands for "I have". "Informatsiya" is easy.
+- 'Vika, speak faster, we have a lot of orders.' "Bystree" is "bystro", "quickly", with -ee, like English "-er". After "mnogo", "many", "zakazy" becomes "zakazov". Barinov uses "ty" with her.
+- 'Dmitry Vladimirovich himself just called.' "Sam", "himself", is added for emphasis: the owner in person. "Tolko chto", "only what", is the Russian "just now". "Zvonil" is "called" on the phone.
+- 'And what did our respected owner say?' "Uvazhaemy", "respected", is from the same family as "uvazhayu", "I respect", which Max said to Louis. "Khozyain" is the owner, the man of the house.
+- 'A restaurant critic will come to us today.' "Priedet", "will arrive", is the by-vehicle "come". "K nam" is "to us", to our place. And "restoranny" turns "restoran" into a describing word: "restaurant critic".
+- 'We will feed him a delicious hot lunch.' "Nakormim", "we will feed", is built on "korm", the animal feed Barinov joked about with his winnings. The na- in front means "fill up". Barinov's whole plan is food.
+- 'Nobody knows what he looks like.' Russian says "nikto ne znaet", "nobody not knows", and both negatives are needed. "Kak on vyglyadit" is "how he looks", the way to ask about appearance.
+- 'That means we cook each dish with perfect precision.' "Znachit", "so", is literally "means". Then "idealno tochno", "ideally exactly", piles up two -o words. "Gotovim" is "we cook".
+- 'And do not let Max into the kitchen today.' "Ne puskay", "don't let", is a relative of "pust", "let him". "Maks" becomes "Maksa" because he's the one being kept out. "Na kukhnyu" is "onto the kitchen".
+- 'And why should the new cook not work?' "Dolzhen", "must", is a cousin of "dolg", "debt", what you owe. With "ne" it makes "should not". "Novy povar" is "the new cook".
+- 'Because this guy brings constant problems.' "Sploshnye problemy" is "solid problems", meaning nothing but problems. "Prinosit", "brings", is the carrying word, "nesti", with pri- for "arriving". "Paren" is "guy".
+- 'Fine, Max will wash dirty dishes.' "Budet myt" is "will wash", the "budet" future. "Gryaznuyu posudu" is "dirty dishes", both ending in -u because they're what gets washed. The dishes are the safest place for Max.
+- 'Today complete order is needed in the kitchen.' Russian has several "orders": "zakaz" for food, "prikaz" for a command, and here "poryadok", tidiness and discipline. "Nuzhen", "needed", matches "poryadok".

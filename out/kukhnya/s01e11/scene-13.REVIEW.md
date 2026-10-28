@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, a strange guest is sitting in the corner of the dining room.' "In the corner" has a special ending, as a few Russian words do. Vika brings the news in a calm voice. She has done her homework.
-- 'What is this person doing at his table?' The general word for a person is the one you heard in "what a foolish person". "At his own table" uses the "own" word. Barinov can't make the man out.
-- 'He does not order anything and constantly writes.' Vika repeats Sasha's clue. The double negative is required, and "constantly" comes from "regular". She reports it as proof.
-- 'Could it be a famous writer or journalist?' "Can be" means "maybe", as before. "Journalist" is borrowed from French. Barinov offers two jobs, because he has no evidence. He is guessing.
-- 'He studies everything around us too attentively.' "Around us" is two small words. "Too attentively" repeats "slishkom", the "too" that you know. Vika is suspicious of anyone who watches so closely. It is her job to notice.
-- 'But you yourself considered that young woman to be the critic!' "Considered as critic" puts the critic in the special "as" ending. Barinov throws her own words back at her. He enjoys being right.
-- 'That young woman also behaves very suspiciously.' "Suspiciously" grows from "suspicion". "Also" is one small word. Vika does not back down. She sticks to her view.
-- 'Does it turn out that I have two critics at once in the restaurant?' "At once" can mean "immediately" or "at the same time". Here it is "at the same time". Barinov counts them, and the number makes him nervous.
-- 'We must feed both guests at the highest level.' The "feed" word has the filling-up prefix. "Both" takes the object ending. "At the highest level" is the phrase from the banquet. Vika is professional.
-- 'I will prepare my best dishes for them.' "My own best dishes" uses the "own" word. Barinov is proud of his food, and he knows that his best is very good.
-- 'The main thing is that the waiters do not make foolish mistakes.' After "so that", the verb takes its past form, though the meaning is not past. Vika worries about the waiters. They are the weak link.
-- 'I will personally oversee every finished order!' "Oversee" grows from what Russian calls "follow", so the chef will follow each plate with his eyes. Barinov takes charge. The scene ends on his promise.
+- 'Chef, a strange guest is sitting in the corner of the dining room.' "V uglu" is "in the corner", from "ugol", with a special -u ending that a few words take after "v". "Zala" is "of the hall".
+- 'What is this person doing at his table?' "Chelovek", "person", is the word in Barinov's "kakoy glupy chelovek". "Za svoim stolom" is "at his own table", where "svoim" is "own".
+- 'He does not order anything and constantly writes.' Vika repeats Sasha's clue. "Nichego ne zakazyvaet" keeps both negatives, and "postoyanno pishet" is "constantly writes".
+- 'Could it be a famous writer or journalist?' "Mozhet byt", "can be", is "maybe". "Zhurnalist" is borrowed from French. Barinov offers two jobs, because he is guessing.
+- 'He studies everything around us too attentively.' "Vokrug nas" is "around us". "Slishkom vnimatelno" is "too attentively". Vika is suspicious of anyone who watches so closely.
+- 'But you yourself considered that young woman to be the critic!' "Schitala kritikom", "considered as critic", puts "kritik" in its -om form, as with "schitala menya trusom". "Sama" is "yourself".
+- 'That young woman also behaves very suspiciously.' "Podozritelno", "suspiciously", grows from "podozrenie", "suspicion". "Vedyot sebya" is "behaves", the "leads herself" phrase.
+- 'Does it turn out that I have two critics at once in the restaurant?' "Srazu" can mean "immediately" or "at the same time", and here it is "at the same time". "Dva kritika" is "two critics".
+- 'We must feed both guests at the highest level.' "Nakormit", "to feed", has na-, "fill up". "Na vysshem urovne", "at the highest level", is Louis's phrase about the banquet.
+- 'I will prepare my best dishes for them.' "Svoi luchshie blyuda" is "my own best dishes", with "svoi" for "own". "Dlya nikh" is "for them".
+- 'The main thing is that the waiters do not make foolish mistakes.' After "chtoby", "so that", the verb takes its past form, "ne sdelali", though the meaning is not past. "Glavnoe" is "the main thing".
+- 'I will personally oversee every finished order!' "Proslezhu", "I will oversee", grows from "sled", "track", so the chef will follow each plate. "Lichno" is "personally".

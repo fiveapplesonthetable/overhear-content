@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Nastya, please forgive me for yesterday.' "Yesterday's" is a describing word used as a noun, "the yesterday thing". The little "well" in front softens it. Kostya starts with an apology, as he has been rehearsing.
-- 'Kostya, now is really not the time.' "Not up to this" is the idiom for "I'm in no mood for this". Nastya uses "voobshche" again, for emphasis. She has other things to think about.
-- 'What happened? Do you have problems?' "At you problems" is the usual pattern for "do you have". Kostya notices that something is wrong and drops his own apology at once. He is a good boyfriend.
-- 'I have a difficult guest at the table.' "Problem guest" is the literal Russian. A "problem" guest is a guest who causes trouble. Nastya says it quietly, in a low voice.
-- 'Is he being rude to you?' "Khamit" comes from "kham", a boor. It means to behave boorishly. Kostya goes straight to the likeliest cause. He guessed it right.
-- 'Worse. He is constantly bothering me.' In Russian, "bothering" means to pester, to keep at someone. "Constantly" recalls "regular guests". Nastya says it with a hint of tears.
-- 'What? I will go sort it out right now!' Kostya says "go sort out" without an "and", as Russians do. The chef used the same word for solving the stove. He is angry now, and ready to fight.
-- 'Kostya, stop! Do not go there.' Negative commands in Russian prefer the repeated form of "go", so it's "ne khodi", not "ne idi". "There" means "to there". Nastya grabs his arm.
-- 'Why should I stand and watch?' "Must" is "dolzhen", the cousin of "owe". Kostya's question is half protest and half plea. He cannot see why he should stand still while someone bothers his girlfriend.
-- 'This man is an important restaurant critic.' The dash stands in for "is". Nastya names the problem in one sentence. She has understood the stakes better than Kostya has.
-- 'And what can he do?' "Can do" is two short words. Kostya doesn't care who he is. The question is a challenge, said with a stubborn jaw.
-- 'He can write a terrible article.' "Statya" stands for an article, and it's feminine, so "terrible" ends in -uyu. "Write" has a prefix that means "finish writing". Nastya spells out the danger.
-- 'Make the order faster, I will go to the hall.' "Make the order" means to get it ready. "Faster" ends in -ee. Nastya wants him to hurry, and then she goes. The scene ends with a push.
+- 'Nastya, please forgive me for yesterday.' "Za vcherashnee" is "for the yesterday thing", a describing word used as a noun. "Nu" in front softens it. "Prosti" is "forgive!".
+- 'Kostya, now is really not the time.' "Ne do etogo", "not up to this", is the idiom for "I'm in no mood for this". "Voobshche" adds weight: "not at all".
+- 'What happened? Do you have problems?' "U tebya problemy", "at you problems", is the usual pattern for "do you have". Kostya drops his own apology at once.
+- 'I have a difficult guest at the table.' "Problemny gost", "problem guest", is the literal Russian. "Za stolikom" is "at the little table", with "za", "behind".
+- 'Is he being rude to you?' "Khamit" comes from "kham", a boor, so it means to behave boorishly. "Tebe" is "to you". "On chto" is "what, is he".
+- 'Worse. He is constantly bothering me.' "Pristayot" is "pesters", from "pristavat", to keep at someone. "Ko mne" is "to me". "Khuzhe" is "worse", the word from the hungover guest.
+- 'What? I will go sort it out right now!' Kostya says "poydu razberus", "I'll go sort out", without an "and". "Razberus" is the word Barinov used when he stormed off to the dining room.
+- 'Kostya, stop! Do not go there.' After "ne", Russian prefers "khodit" to "idti" for "go", so it's "ne khodi". "Tuda" is "to there", and "stoy" is "stop!".
+- 'Why should I stand and watch?' "Dolzhen", "must", is the cousin of "dolg", "debt". "Stoyat i smotret" is "to stand and to watch". Kostya cannot see why he should stand still.
+- 'This man is an important restaurant critic.' The dash stands in for "is": "etot chelovek, vazhny kritik". "Vazhny" is "important". Nastya names the problem in one sentence.
+- 'And what can he do?' "Mozhet sdelat" is "can do", from "moch", "to be able". "I chto", "and what", makes it a challenge.
+- 'He can write a terrible article.' "Statya", "article", is feminine, so "uzhasnuyu" ends in -uyu. "Napisat" has na-, which makes "write" a finished job: "get written".
+- 'Make the order faster, I will go to the hall.' "Sdelay zakaz" is "make the order", here the drinks for her table. "Bystree", "faster", ends in -ee. "V zal" is "to the hall".
