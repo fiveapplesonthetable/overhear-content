@@ -26,7 +26,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'I have an announcement.' The usual 'at me' pattern stands for 'I have'. The same word also means a notice or ad on a board, so it's the word for anything pinned up.
-- 'We need a seasonal dish.' The thing needed stays in its plain form, so it's 'needed dish'. 'Seasonal' ends in 'oe' to match the neuter 'dish'.
+- 'We need a seasonal dish.' The thing needed stays in its plain form, so it's 'needed dish'. 'Seasonal' finishes with 'oe' to match the neuter 'dish'.
 - 'Chef, wait.' The command is the polite plural one. The 'po' on the front softens it to 'wait a moment'.
 - 'You said you wouldn't come up with it.' 'You said' begins with a little word that means 'but', reminding him. 'Won't invent' is built from 'will not' plus the plain 'invent'.
 - 'And I won't.' The little 'i' in the middle puts weight on the refusal. It's a flat reply, three words long.

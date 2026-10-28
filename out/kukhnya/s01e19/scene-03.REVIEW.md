@@ -25,10 +25,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What are you doing here?' 'Doing' ends in 'esh' for the casual 'you'. 'Here' is the casual word.
+- 'What are you doing here?' 'Doing' finishes with 'esh' for the casual 'you'. 'Here' is the casual word.
 - 'Why aren't you at work?' 'What' is used for 'why' in casual talk. 'At work' uses 'on' and an 'e' ending.
-- 'Another interrogation.' 'Again' is a single word, and 'interrogation' is the same as in the last scene. Kostya has heard this one before.
-- 'Did you two plan this, or what?' 'Plotted together' ends in 's', for 'with each other'. 'Or something' is made with a small tag 'li' on 'what'.
+- 'Another interrogation.' 'Again' is just one word, and 'interrogation' is the same as in the last scene. Kostya has heard this one before.
+- 'Did you two plan this, or what?' 'Plotted together' carries 's', for 'with each other'. 'Or something' is made with a small tag 'li' on 'what'.
 - 'I'm on the second shift today.' 'On the second shift' is 'in the second shift', with the object form. 'Second' comes from 'two'.
 - 'Great, I'll come with you.' 'I'll go' is a future form for going by vehicle. 'With you' is the irregular 'toboy'.
 - 'Maybe you forgot.' 'Maybe' is a short word. 'Forgot' ends in the masculine 'l'.
@@ -36,4 +36,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I got fired.' Russian says 'me they fired', putting 'me' first. 'They fired' has no 'they', only an ending.
 - 'Why didn't you stay at Vika's?' 'At Vika's' is 'at Vika', with the name taking an 'i' ending. 'Stayed' ends in 'sya'.
 - 'She didn't let me in.' The 'a' on 'let in' says it's a woman. 'Me' takes the 'a' form.
-- 'She started making everything complicated.' 'Complicate' is built from 'complex', with a prefix. 'Started' ends in 'a', for a woman.
+- 'She started making everything complicated.' 'Complicate' is built from 'complex', with a prefix. 'Started' finishes with 'a', for a woman.

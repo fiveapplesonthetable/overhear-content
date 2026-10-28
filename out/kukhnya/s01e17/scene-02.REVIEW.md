@@ -26,8 +26,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Max, hold the fish tighter!' The command 'hold' is the casual one. 'Tighter' is a single word, with the 'che' ending doing the work of 'er'.
-- 'Chef, I'm holding everything very tightly.' 'I hold' is one word, and 'tightly' ends in 'o', like many of the 'how' words. 'Everything' is a tiny word that you'll hear all the time.
+- 'Max, hold the fish tighter!' The command 'hold' is the casual one. 'Tighter' comes as one word, with the 'che' ending doing the work of 'er'.
+- 'Chef, I'm holding everything very tightly.' 'I hold' is one word, and 'tightly' carries 'o', like many of the 'how' words. 'Everything' is a tiny word that you'll hear all the time.
 - 'We've almost reached the restaurant.' 'Almost' and 'already' are the two small words. 'Came' is the one for arriving on foot, and 'to the restaurant' is a direction, so the restaurant doesn't change.
 - 'Are you really going to the neighboring restaurant?' 'Really' is a long word, but you can hear 'actual' in it. 'Will go' is a polite plural, since Max is speaking to the chef.
 - 'I have nothing better to do, Max.' The Russian is 'to do more nothing', which is an idiom for a sneer. 'To me' stands in for 'I'.
@@ -38,4 +38,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Probably you're right, chef.' 'Probably' is one word. 'Right' is a short form here, in the plural polite form.
 - 'Our restaurant is the best in the city.' The dash stands in for 'is'. 'Most best' sounds odd in English, but Russian often stacks the two for emphasis.
 - 'I agree with you a hundred percent.' 'Agree' is a short form, and a woman would say it a different way. 'Hundred percent' needs 'to' in front of it, as in 'to a hundred percent'.
-- 'Then quickly go and work in the kitchen.' Russian says 'go work' with no 'and' between, as do many languages. 'To the kitchen' uses the little word for 'on', which is the one for work places.
+- 'Then quickly go and work in the kitchen.' Russian says 'go work' with no 'and' between, as do many languages. 'To the kitchen' uses the small word for 'on', which is the one for work places.

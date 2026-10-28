@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, Fedya, hi!' The first word is how Russians answer or start a phone call. 'Hi' is the casual 'privet'.
+- 'Hello, Fedya, hi!' The word at the start is how Russians answer or start a phone call. 'Hi' is the casual 'privet'.
 - 'Hello, Chef, how are you?' The long hello is the polite one. 'How are your matters' is a standard way to ask.
 - 'Fedya, stop putting on an act.' The phrase 'to break a comedy' means to put on a show. 'Enough' is followed by the plain form.
 - 'Come back, I really need you.' 'Come back back' is not a mistake; the doubled word is normal. 'You to me needed' makes 'you' the subject.
-- 'Chef, I'm not coming back to the kitchen.' 'I'll return' ends in 'sya'. 'To the kitchen' uses 'on' and a 'u' ending.
+- 'Chef, I'm not coming back to the kitchen.' 'I'll return' carries 'sya'. 'To the kitchen' uses 'on' and a 'u' ending.
 - 'I know I was in the wrong.' 'In the wrong' is a short masculine form meaning 'guilty'. 'That' joins the two parts.
-- 'Sorry, but Senya has already agreed to come back.' 'Sorry' is the casual command to excuse. 'Agreed' ends in 'sya'.
+- 'Sorry, but Senya has already agreed to come back.' 'Sorry' is the informal order to excuse. 'Agreed' ends in 'sya'.
 - 'Did Senya really agree?' The first word means 'is it possible?' and shows surprise. It stands for 'really?' at the start.
 - 'Senya was the first to agree to everything.' 'Agree to' needs a small word, 'na'. 'First' goes before the action.
 - 'Then make me the new sous-chef.' 'Make' is the polite command, and 'sous-chef' takes an 'om' ending after it. Fedya gets ambitious.
 - 'No, no sous-chefs, Fedya.' 'Not any' is one word, and it brings the 'of' plural. 'No' comes first.
-- 'Fine, then I'll come tomorrow morning.' 'I'll come' is a finished action. 'Tomorrow morning' is two words.
+- 'Fine, then I'll come tomorrow morning.' 'I'll come' is the completed kind. 'Tomorrow morning' is two words.
 - 'I'll expect you at exactly ten o'clock.' 'I wait' stands for 'I'll expect'. 'Exactly' goes in front of 'at ten hours'.

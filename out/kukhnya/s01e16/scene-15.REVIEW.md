@@ -27,14 +27,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, I'm very cold.' Russian says 'to me cold', as if the cold happens to you. 'Cold' ends in 'o' and is cousin to the word for the fridge he was stuck in.
+- 'Chef, I'm very cold.' Russian says 'to me cold', as if the cold happens to you. 'Cold' carries 'o' and is cousin to the word for the fridge he was stuck in.
 - 'I froze in here.' The past form of 'freeze' ends in a bare consonant for a man, and a woman would add an 'a'. The little word for 'here' is the casual one.
 - 'Clean.' The short form drops its ending, so what's left is a bare 'clean', as if reading from a form. It's the inspector's dry verdict.
 - 'Checked.' There's no 'he' and no 'we', just the 'li' ending, which says somebody did it. Officials talk like this.
 - 'I knew it.' The line is 'I so and knew', and 'so and' is a way of saying 'just as I thought'. The masculine 'l' ending is back.
 - 'Viktor Petrovich, a little mistake happened.' 'Little mistake' is a diminutive, a gentler version of 'mistake'. Russian says the mistake 'came out', which also hides who made it.
 - 'My people checked this man.' The plural of 'person' is 'lyudi', which looks nothing like the singular. 'This man' takes an 'ogo' ending because it's the thing that was checked.
-- 'Completely clean.' The first word is a borrowed 'absolutely', and the second is the same short 'clean' as before. Two words, no sentence needed.
+- 'Completely clean.' The opening word is a borrowed 'absolutely', and the second is the same short 'clean' as before. Two words, no sentence needed.
 - 'And I always knew.' The small opening 'a' means 'and' with a bit of contrast. 'Always' is the same one you use for habits.
 - 'Fedya, how are you?' Literally just 'you how', with no verb at all. The casual 'you' shows how close they are.
 - 'Fine.' Literally 'normally', and it's the standard reply to 'how are you'. Russians don't say it with much more enthusiasm than this.

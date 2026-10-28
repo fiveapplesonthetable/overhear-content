@@ -36,4 +36,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'No, why didn't you mention me?' 'Said' ends in 'a' here, since Max is speaking to Vika. 'About me' is a small word and 'menya'.
 - 'Because he didn't ask about you.' 'Because' is two words, 'potomu chto'. 'Ask' is the ongoing kind, as for a question that never came.
 - 'After all, we have an open relationship.' The small word 'ved' means 'after all'. 'We with you' is a Russian way to say 'you and I'.
-- 'Yes, but I don't like it at all.' 'To me it doesn't please' is the pattern. 'At all' is a single word.
+- 'Yes, but I don't like it at all.' 'To me it doesn't please' is the pattern. 'At all' comes as one word.

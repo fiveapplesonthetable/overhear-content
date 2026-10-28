@@ -10,9 +10,9 @@ PAIR = 'ru-en'
 LABELS = {'max': 'Макс', 'nastya': 'Настя', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.17'
 SOURCE_FILE = 'sources/kukhnya/s01/e17.ru.dual.srt'
-INTRO = "Max has brought Nastya and Kostya to Vika's flat as a birthday surprise, and it is a mistake. Vika expected a quiet evening for two, and Nastya was told that Vika wouldn't be there. We'll hear it in Russian first."
-OPENER = "Let's replay it a line at a time."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
+INTRO = "Max has brought Nastya and Kostya to Vika's flat as a birthday surprise, and it is a mistake. Vika expected a quiet evening for two, and Nastya was told that Vika wouldn't be there. Here it is in Russian."
+OPENER = 'Now for a closer look.'
+TRANSITION = 'Once more, all the way through.'
 OUTRO = "Max leaves in a huff, and Vika calls him back. When you hear 'zachem' next time, remember it asks 'what for?', which is a different question from 'why?'. See you next time!"
 CLOSING = ('vika', 'Пока!')
 STORY = [
@@ -36,7 +36,7 @@ WALK = [
     (2, None, "'You said she wouldn't be here.' For 'she won't be here', Russian says 'her not will be', with 'her' in the object form. The absent person is the one in that form."),
     (3, None, "'How can I not be at home?' The same pattern again: 'me not to be at home'. 'At home' is one word."),
     (4, None, "'Why did you bring them?' 'What for' is a different question word from the 'why' of cause. 'Brought' is the word for bringing a person, on foot."),
-    (5, None, "'Why didn't you warn us?' Here the 'why' is the ordinary one. 'Warned' is a finished action, and 'us' is a short word with an 'as' ending."),
+    (5, None, "'Why didn't you warn us?' Here the 'why' is the ordinary one. 'Warned' is a once-and-done action, and 'us' is a short word with an 'as' ending."),
     (6, None, "'You wouldn't ever have come.' A small word 'by' after 'you' makes it 'would'. 'Never' and 'not' are both there."),
     (7, None, "'You're my friends.' There's no 'are'. It's just 'you my friends', and the plural of 'friend' is irregular."),
     (8, None, "'I wanted to celebrate the birthday together.' 'Celebrate' comes from 'mark'. 'Birthday' is 'day of birth', and 'together' is one word."),

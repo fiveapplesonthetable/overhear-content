@@ -12,7 +12,7 @@ SOURCE_NAME = 'Кухня (Kukhnya) S1.16'
 SOURCE_FILE = 'sources/kukhnya/s01/e16.ru.dual.srt'
 INTRO = "Welcome to Kukhnya, the Russian comedy set in Claude Monet, a smart Moscow restaurant where Chef Barinov rules the kitchen. Today a fire inspector arrives and finds fault with everything he sees, while Vika, the art director, tries to keep her cool. First you'll hear it in Russian, and you don't need to catch every word."
 OPENER = "Let's go back through it slowly."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
+TRANSITION = 'Now the whole conversation once more, from start to finish.'
 OUTRO = "Two days is the inspector's deadline, and he doesn't sound like a man who bends. When you watch, listen for the little word that means 'there isn't', because the inspector uses it again and again. See you next time!"
 CLOSING = ('vika', 'Пока!')
 STORY = [
@@ -42,7 +42,7 @@ WALK = [
     (7, None, "'It must hang within three meters.' Russian's 'must' changes with whoever is the subject, and here it's the masculine form because the extinguisher is masculine in Russian. The second word stays in its dictionary form, 'to hang', and 'three meters' wears a plural ending."),
     (8, None, "'From the place of a possible fire.' This is a pile-up of the 'of' form: place, possible, fire all end in the matching ending. 'Fire' here is the destructive one, not the one for a campfire."),
     (9, None, "'This is not a problem.' Vika shrugs it off. The small word for 'not' sits right in front of what it denies, and the Russian for 'problem' is one you already know from English."),
-    (10, None, "'This is a very big problem.' Russian's 'big' ends in 'aya' because 'problem' is feminine in Russian, just like the Russian for 'bad' did in the first line. 'Very' is the same word as before."),
+    (10, None, "'This is a very big problem.' Russian's 'big' finishes with 'aya' because 'problem' is feminine in Russian, just like the Russian for 'bad' did in the first line. 'Very' is the same word as before."),
     (11, None, "'Oh, how bad everything is.' The first sound is just a sigh, like 'ugh'. Russian's 'bad' has no 'aya' this time, because it describes a whole situation instead of a noun."),
     (12, None, "'I give you two days for correction.' 'I give' is one word, with the ending that means 'I'. 'Day' changes after 'two', and the Russian for 'correction' comes from the verb 'to fix'."),
     (13, None, "'We will do everything.' This looks like the present, but it's the kind of word that means one finished job, so it points to the future. It's the right thing to promise, even if Vika isn't sure how."),

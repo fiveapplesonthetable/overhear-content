@@ -27,13 +27,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We prepared a Parisian-style egg.' 'Parisian-style' is made with 'po' and a describing ending, 'po-parizhski'. 'We prepared' ends in 'li'.
+- 'We prepared a Parisian-style egg.' 'Parisian-style' is made with 'po' and a describing ending, 'po-parizhski'. 'We prepared' carries 'li'.
 - 'We're waiting for you at Claude Monet!' 'We wait' ends in 'yom', and 'for you' takes the 'a' form. 'At the restaurant' needs an 'e'.
 - 'Cut! You didn't name the sponsor!' 'Not filmed' is a short neuter form, since a take is neuter. 'Sponsor' is borrowed.
 - 'You're fired! Get out of here!' 'Fired' is a short plural form, with no 'are'. 'Von' is a one-word shove, 'out'.
 - 'How are you, Viktor Petrovich?' 'How are matters' is the standard way to ask. Vika uses his name and patronymic.
-- 'Tomorrow it'll be a full house.' 'Anshlag' is a borrowed German word used in theatres. 'It will be' is a single word.
-- 'Even Bianca's coming.' 'Even' sits in front of the name. 'Will arrive' is a finished action, for arriving by vehicle.
+- 'Tomorrow it'll be a full house.' 'Anshlag' is a borrowed German word used in theatres. 'It will be' is just one word.
+- 'Even Bianca's coming.' 'Even' sits in front of the name. 'Will arrive' is a once-and-done action, for arriving by vehicle.
 - 'Who's Bianca?' The Russian is 'who such Bianca', and 'such' is feminine. It makes the question sound dismissive.
 - 'Everyone knows her.' 'Her' goes first, and 'everyone knows' follows. That puts the stress on her.
 - 'I've got another ace up my sleeve.' 'Trump card' is a card-game term. 'Another' is 'one more'.

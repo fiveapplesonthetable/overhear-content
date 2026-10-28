@@ -25,9 +25,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostya, we need to have a serious talk.' 'To us necessary' stands for 'we need'. 'Seriously' ends in 'o', and 'to talk' is a plain form.
-- 'I wanted to discuss something with you.' 'Something' is built from two pieces, 'koe' and 'what'. 'Discuss' is the finished kind.
-- 'Wait a minute, I'll be right back.' 'Right now' also means 'in a moment', so it softens the line. 'Come back' ends in 'sya'.
+- 'Kostya, we need to have a serious talk.' 'To us necessary' stands for 'we need'. 'Seriously' carries 'o', and 'to talk' is a plain form.
+- 'I wanted to discuss something with you.' 'Something' is built from two pieces, 'koe' and 'what'. 'Discuss' is a once-and-done action.
+- 'Wait a minute, I'll be right back.' 'Right now' also means 'in a moment', so it softens the line. 'Come back' carries 'sya'.
 - 'It's a very important conversation for us.' 'Important' agrees with the masculine 'conversation'. 'For us' is a small word and 'nas'.
 - 'I understand, but I have to go.' 'To me necessary' stands for 'I need'. 'Go' is the plain form.
 - 'Are you running away from my questions again?' 'Run away' is the ongoing kind. 'From my questions' takes the 'ov' plural after 'from'.

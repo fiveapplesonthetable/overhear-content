@@ -10,9 +10,9 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.16'
 SOURCE_FILE = 'sources/kukhnya/s01/e16.ru.dual.srt'
-INTRO = "Max has just tasted the Chef's own pâté, and he is wowed. He asks what is in it, Barinov refuses to say, and Max, never short of nerve, offers a bet. Here it is in Russian first."
-OPENER = "Now we'll take it apart, line by line."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
+INTRO = "Max has just tasted the Chef's own pâté, and he is wowed. He asks what is in it, Barinov refuses to say, and Max, never short of nerve, offers a bet. Russian first, then we'll take it apart."
+OPENER = 'Now for a closer look.'
+TRANSITION = 'Here is the whole conversation again.'
 OUTRO = "The wager is two days off against one evening at the stove, and Max has accepted already. Next time you hear a Russian say 'vot', which means 'here you are', you'll notice how often it turns up. See you next time!"
 CLOSING = ('max', 'Пока!')
 STORY = [
@@ -35,7 +35,7 @@ WALK = [
     (1, None, "'Of course, this is my best signature recipe.' The 'ch' in the first word is pronounced 'sh', which surprises learners. Russian's 'signature' is built from 'firm' or company, so it's the house's own recipe."),
     (2, None, "'And what ingredients did you put in there?' The Russian word looks like 'products', but it's used for food items and ingredients. The one at the end of the line means 'you put', plural, as Max is being polite."),
     (3, None, "'This is my biggest personal secret.' To say 'biggest', Russian puts the little word 'most' in front of 'big'. There's no special ending on 'big' to remember."),
-    (4, None, "'At least tell me one secret ingredient.' The first word is a command made polite for a boss, and the next two words mean 'at least'. A word like 'secret' is easy to spot since it looks the same as in English."),
+    (4, None, "'At least tell me one secret ingredient.' The word at the start is a command made polite for a boss, and the next two words mean 'at least'. A word like 'secret' is easy to spot since it looks the same as in English."),
     (5, None, "'You will never guess this yourself.' Russian doubles up here: 'never' and 'not' sit in the same line, and that is right. The little word for 'yourself' keeps the insult in."),
     (6, None, "'I will be able to make such a masterpiece myself!' The first word means 'I will be able', a promise about the future. The Russian for 'masterpiece' is French, from the same place as the word for chef."),
     (7, None, "'Do you seriously want to bet with me?' Russian's 'argue' is also the Russian for 'bet', and the meaning depends on the situation. 'With me' is one short word that borrows a helper vowel to make it easier to say."),
@@ -43,5 +43,5 @@ WALK = [
     (9, None, "'Here, take a piece.' Barinov points with 'here you go' and hands him a command, 'take'. Russian's 'piece' gets a tiny ending that makes it 'a little piece'."),
     (10, None, "'If I guess it, will you give me a day off?' 'If' opens the deal. The Russian for 'day off' comes from 'exit', so it's a day to go out."),
     (11, None, "'Fine, if you repeat it, you will get two days off.' The chef raises the stakes: two instead of one. After 'two' the word changes, and 'days off' is really a word that describes the day."),
-    (12, None, "'It's a deal, tonight I will bring my dish!' The first word ends in 'sya' because it means 'we have come to terms with each other'. 'Bring' is a promise for the future, and 'my own' makes it clear whose dish it is."),
+    (12, None, "'It's a deal, tonight I will bring my dish!' The first word finishes with 'sya' because it means 'we have come to terms with each other'. 'Bring' is a promise for the future, and 'my own' makes it clear whose dish it is."),
 ]

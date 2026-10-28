@@ -29,11 +29,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'How can I not worry?' 'How' plus 'not' plus the plain form means 'how can I not'. 'Here' is a filler.
 - 'Did you see that huge bouquet?' 'Saw' ends in the masculine 'l'. 'Huge' and 'bouquet' agree, both masculine.
 - 'The size of the bouquet isn't important at all.' 'Of the bouquet' needs an 'a' ending. 'Important' is a short masculine form.
-- 'The main thing isn't the size of the boat.' The dash is the 'is'. 'Of the boat' ends in 'i'.
+- 'The main thing isn't the size of the boat.' The dash is the 'is'. 'Of the boat' carries 'i'.
 - 'The main thing is the swell of the ocean.' 'Swell' comes from 'wave' and also means 'worry'. 'Of the ocean' takes an 'a' ending.
-- 'Wait, where did such beautiful words come from?' 'From where' is a single word. 'Such beautiful words' is all plural.
-- 'Did you read someone's status on the internet?' 'Someone's' is made with a tail on 'whose'. 'Read through' is the finished kind, and 'on the internet' needs an 'e'.
+- 'Wait, where did such beautiful words come from?' 'From where' is one word on its own. 'Such beautiful words' is all plural.
+- 'Did you read someone's status on the internet?' 'Someone's' is made with a tail on 'whose'. 'Read through' is a finished action, and 'on the internet' needs an 'e'.
 - 'Yes, it's Nastya's new status.' Russians make 'Nastya's' by adding 'in' to the name. It acts like an adjective, so it agrees with 'status'.
 - 'She wrote it this morning.' 'Wrote' ends in 'a', for a woman. 'This morning' is made from 'today' and 'in the morning'.
 - 'I wonder what she's hinting at.' 'Interesting' is used on its own as 'I wonder'. 'About what' is two small words.
-- 'She's probably writing about your relationship.' 'Writes' ends in 't' for 'she'. 'About' takes the plural 'your relationship'.
+- 'She's probably writing about your relationship.' 'Writes' finishes with 't' for 'she'. 'About' takes the plural 'your relationship'.

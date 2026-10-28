@@ -38,4 +38,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'And does it resemble the chef's signature pâté?' The Russian for 'looks like' is followed by a small word for 'on' in Russian. The chef is not 'chef's' with an apostrophe-s, but the word itself with an 'a' on the end.
 - 'No, the chef's dish is much better.' The first three words are 'at the chef' and mean the chef's version. Russian's 'better' is a short form that doesn't change, and 'much' is built from 'by much'.
 - 'Did you put too much sauce in there?' The Russian for 'too' is the one to pair with 'much', and then the sauce takes an 'a' ending, because 'much' makes it a 'some of'. The 'l' on 'put' says the speaker is addressing a man.
-- 'Yes, keep trying and keep cooking!' The first word is a command that means 'carry on'. Russian's 'try hard' ends in 'sya', the little 'oneself', and the last word means 'further'.
+- 'Yes, keep trying and keep cooking!' The opening word is a command that means 'carry on'. Russian's 'try hard' finishes with 'sya', the little 'oneself', and the last word means 'further'.

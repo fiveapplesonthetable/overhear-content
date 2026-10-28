@@ -26,8 +26,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Max, I heard everything.' 'Heard' is the finished kind, meaning he managed to hear. 'Everything' is a single small word.
-- 'What did she say to him?' 'To him' is 'emu'. 'Said' ends in 'a', for a woman.
+- 'Max, I heard everything.' 'Heard' is a once-and-done action, meaning he managed to hear. 'Everything' is a single small word.
+- 'What did she say to him?' 'To him' is 'emu'. 'Said' carries 'a', for a woman.
 - 'She says thank you for the beautiful flowers.' Kostya quotes the word 'thanks' as it is. 'Beautiful flowers' is plural.
 - 'Is that so? And what about him?' The first part is a set phrase, literally 'that's how it is'. 'And he what' is a quick way to ask.
 - 'He's talking about an important business meeting.' 'About' makes all three words take the same 'oy' ending. A feminine noun and its two descriptions line up.
@@ -35,7 +35,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'He said they'd have to leave soon.' 'Soon necessary to go' is the word order. 'Go' is the word for going by vehicle.
 - 'So she has a business meeting now.' 'So' is 'it means'. 'At her' picks up an 'n', so it becomes 'u neyo'.
 - 'Vika said she's already free.' 'Free' ends in 'a' for a woman. 'Already' is a handy small word.
-- 'Is she really going to go with him?' 'Is planning' ends in 'sya'. 'With him' picks up an 'n'.
-- 'Yes, she's already ready to go.' 'Ready' ends in 'a', for a woman. 'Go' is the plain form.
+- 'Is she really going to go with him?' 'Is planning' finishes with 'sya'. 'With him' picks up an 'n'.
+- 'Yes, she's already ready to go.' 'Ready' carries 'a', for a woman. 'Go' is the plain form.
 - 'I won't let them go off together.' 'I won't allow' is a finished action. 'Together, the two of them' is a single word.
 - 'Max, don't do anything silly today.' 'Don't do' uses the ongoing form for a negative command. 'Any' brings the plural 'of' form for 'silly things'.

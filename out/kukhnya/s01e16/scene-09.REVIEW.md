@@ -28,7 +28,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Everything is in order with you.' The first two words are the 'at you' that Russian uses where we say 'you have'. It's a happy ending to a long inspection.
 - 'We do everything right.' Russian's 'everything' has an 'o' ending to say 'all of it', and 'right' is 'correctly'. The ending on 'do' is the one for 'we'.
 - 'Thank you very much.' The Russian for 'thanks' is a noun, so Russian's 'big' has to match it. Elena's 'to you' at the end is polite.
-- 'You really surprised me.' The Russian for 'me' changes its shape when it is the one being surprised. The verb is the finished kind, so it's about one moment, not a habit.
+- 'You really surprised me.' The Russian for 'me' changes its shape when it is the one being surprised. The verb is a finished action, so it's about one moment, not a habit.
 - 'Not a single cook without documents.' The first two words mean 'not even one' and are followed by the 'of' form for the cook. 'Without' is another small word that brings a particular ending after it.
 - 'I got used to working by the law.' The 'a' on the end of the first word says Elena is a woman, since a man would end it with 'l'. 'By the law' is a tiny two-word chunk, and the law gets an 'u' ending.
 - 'It was very pleasant for me.' The little middle word, 'was', is the neuter form since no one is actually doing it. 'To me' is how Russian puts it: the pleasure happens to me, rather than being something I do.

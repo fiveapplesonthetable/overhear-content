@@ -10,9 +10,9 @@ PAIR = 'ru-en'
 LABELS = {'guest': 'Гость', 'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.20'
 SOURCE_FILE = 'sources/kukhnya/s01/e20.ru.dual.srt'
-INTRO = "It's Vika's birthday, and an important guest has given her a very expensive painting. Then Max, who has been drinking in the kitchen, staggers in with a ring of his own. We'll hear it in Russian first."
-OPENER = "Let's take it step by step."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
+INTRO = "It's Vika's birthday, and an important guest has given her a very expensive painting. Then Max, who has been drinking in the kitchen, staggers in with a ring of his own. Russian first, then we'll take it apart."
+OPENER = "Let's walk through what each line is doing."
+TRANSITION = 'Now it all together again, from the top.'
 OUTRO = "Max has just made the most embarrassing entrance of his career. The word 'pyan' means 'drunk' and is the short masculine form of 'pyanyy'. See you next time!"
 CLOSING = ('vika', 'До свидания!')
 STORY = [
@@ -34,16 +34,16 @@ STORY = [
 WALK = [
     (0, None, "'Vika, I heard it's your birthday.' 'At you birthday' stands for 'you have a birthday'. 'You' is the polite 'vas'."),
     (1, None, "'I have a beautiful gift for you.' 'At me there is' stands for 'I have'. 'For you' takes the 'a' form, 'vas'."),
-    (2, None, "'Oh my God! It's a very expensive painting.' 'Bozhe' is the form used when you call out to heaven. 'Painting' is the one for 'picture', and ends in 'a'."),
+    (2, None, "'Oh my God! It's a very expensive painting.' 'Bozhe' is the form used when you call out to heaven. 'Painting' is the one for 'picture', and carries 'a'."),
     (3, None, "'The main thing is that you like it very much.' 'It pleases you' is the pattern, with 'it' as the subject. 'The main thing' comes from 'head'."),
     (4, None, "'Thank you very much, he's my favourite artist.' 'Favourite' comes from 'love'. 'Artist' is a masculine noun."),
-    (5, None, "'And I see you're having a good time here.' 'I look' is how the sentence begins, meaning 'I see'. 'Enjoy yourselves' ends in 'sya'."),
-    (6, None, "'Max, what are you doing? Get out of here.' 'Doing' ends in 'sh', for the casual 'you'. 'Get out of here' is 'go from here'."),
-    (7, None, "'I want to drink to an amazing girl.' 'To' in a toast is 'za', followed by the object form. 'Amazing' comes from the word for 'surprise'."),
+    (5, None, "'And I see you're having a good time here.' 'I look' is how the sentence begins, meaning 'I see'. 'Enjoy yourselves' carries 'sya'."),
+    (6, None, "'Max, what are you doing? Get out of here.' 'Doing' finishes with 'sh', for the casual 'you'. 'Get out of here' is 'go from here'."),
+    (7, None, "'I want to drink to an amazing girl.' 'To' in a toast is 'za', followed by the object form. 'Amazing' comes from the Russian for 'surprise'."),
     (8, None, "'Max, you're drunk. Let's step out, please.' 'Drunk' is a short masculine form, without an ending. 'Let's go, let's go out' are two 'we' forms."),
-    (9, None, "'Wait, I haven't given my gift yet.' 'Gave as a gift' is the finished kind, with 'not' before it. 'My own gift' uses the special pointing-back word."),
-    (10, None, "'I don't need your silly presents right now.' 'Needed' is plural, to go with 'presents'. 'Silly' ends in 'ye' for the plural."),
-    (11, None, "'Look, it's a beautiful ring for you.' 'Look' is the casual command. 'For you' is the casual 'tebya'."),
-    (12, None, "'Excuse me, I'll probably go now.' 'Probably' is one word. 'I'll go' is a finished action."),
-    (13, None, "'No, stay. Max, you've lost your mind!' 'Stay' ends in 'tes', which is the polite plural command with 'sya'. 'Went off from mind' is the idiom for 'lost your mind'."),
+    (9, None, "'Wait, I haven't given my gift yet.' 'Gave as a gift' is the completed kind, with 'not' before it. 'My own gift' uses the special pointing-back word."),
+    (10, None, "'I don't need your silly presents right now.' 'Needed' is plural, to go with 'presents'. 'Silly' carries 'ye' for the plural."),
+    (11, None, "'Look, it's a beautiful ring for you.' 'Look' is the informal order. 'For you' is the casual 'tebya'."),
+    (12, None, "'Excuse me, I'll probably go now.' 'Probably' is one word. 'I'll go' is an action seen as complete."),
+    (13, None, "'No, stay. Max, you've lost your mind!' 'Stay' finishes with 'tes', which is the polite plural command with 'sya'. 'Went off from mind' is the idiom for 'lost your mind'."),
 ]

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Here, look, I'll show you a clever method.' 'Look' is the casual command, and 'method' means a way of doing things.
-- 'What other method do you want to show?' The words for 'what other' are 'which' and 'else'. The word for 'you want' ends in 'sh' for the casual 'you'.
+- 'Here, look, I'll show you a clever method.' 'Look' is the informal order, and 'method' means a way of doing things.
+- 'What other method do you want to show?' The words for 'what other' are 'which' and 'else'. The word for 'you want' carries 'sh' for the casual 'you'.
 - 'Guests often don't understand alcohol at all.' The word for 'understand' means 'take oneself apart in', and ends in 'sya'. Russians use it for knowing a subject.
-- 'And what have you come up with now?' 'Came up with' is the finished kind, meaning the idea is already done. 'Now' closes the line.
+- 'And what have you come up with now?' 'Came up with' is the completed kind, meaning the idea is already done. 'Now' closes the line.
 - 'We sold cheap cognac for a thousand roubles!' 'For' puts the price in the object form, and 'roubles' goes into the 'of' form.
 - 'You've lost your mind, this is real deception!' The Russian words 'went off from mind' mean 'lost your mind'. The word for 'real' is the same as in 'real friends'.
 - 'But on the plus side, we quickly earned easy money.' The word 'zato' turns the sentence to the good side. The word for 'easy' is the same as the one for 'light'.
 - 'If they catch us, they'll lock us up straight away!' The word for 'seat' is also used for jailing someone, literally 'to plant'. 'They catch' has no word for 'they'.
-- 'Don't be afraid, no one will ever know the truth.' The word for 'don't be afraid' ends in 'sya'. There are three negative words: 'no one', 'never' and 'not'.
-- 'The law is strictly against such dangerous business.' The word for 'against' is followed by the 'of' form, and 'strictly' ends in 'o', like many words that say how.
-- 'You're a smart guy, you'll protect us.' 'Smart' ends in 'yy', as a masculine word. 'You'll protect' is a finished action word.
+- 'Don't be afraid, no one will ever know the truth.' The word for 'don't be afraid' finishes with 'sya'. There are three negative words: 'no one', 'never' and 'not'.
+- 'The law is strictly against such dangerous business.' The word for 'against' is followed by the 'of' form, and 'strictly' carries 'o', like many words that say how.
+- 'You're a smart guy, you'll protect us.' 'Smart' ends in 'yy', as a masculine word. 'You'll protect' is an action seen as complete.
 - 'I won't defend such dangerous schemes.' The word 'stanu' means 'I will' here, followed by the plain 'defend', and the negative sits in front of it.
-- 'Calm down, let's just hide this money!' The word for 'calm down' ends in 'sya', so it means 'calm yourself'. 'Let's hide' is the 'we' form of a finished action.
+- 'Calm down, let's just hide this money!' The word for 'calm down' finishes with 'sya', so it means 'calm yourself'. 'Let's hide' is the 'we' form of a finished action.

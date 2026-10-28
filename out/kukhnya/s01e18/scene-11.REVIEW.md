@@ -28,12 +28,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Well, have we arrived?' 'Arrived' means arrived by vehicle, and it's a plural. Said as a question, it needs no extra word.
 - 'Let's go and see how things are.' 'Let's go' is the past form used as an invitation. 'How at us the matters' is 'how are things'.
 - 'Guys, these past few days I went too far.' The idiom is 'I bent the stick', meaning I overdid it. 'Went too far' is a very natural thing to say with a stick.
-- 'Dmitry, we understand everything.' The short form of his name is the kind used by friends. 'We understand' ends in 'em'.
+- 'Dmitry, we understand everything.' The short form of his name is the kind used by friends. 'We understand' finishes with 'em'.
 - 'It's your restaurant, it breaks my heart.' Russians say the soul aches, not the heart. 'Your restaurant' has 'your' in the casual form.
-- 'I sat at home and thought it over.' 'Sat' is the kind that means a short while. 'Thought' is a finished action, and 'well' ends in 'o'.
+- 'I sat at home and thought it over.' 'Sat' is the kind that means a short while. 'Thought' is a finished action, and 'well' carries 'o'.
 - 'Kristina and I talked it over.' Russian says 'we with Kristina', and the name takes an 'oy' ending. 'Talked it over' ends in 's', for 'each other'.
-- 'The restaurant should be run by someone who knows the business.' 'Manage' takes the 'with' form, so the restaurant ends in 'om'. 'Knowing' is made from 'know'.
-- 'Yes, that's quite right.' 'Completely' is a long word. 'Right' ends in 'o', like many words that say how.
+- 'The restaurant should be run by someone who knows the business.' 'Manage' takes the 'with' form, so the restaurant finishes with 'om'. 'Knowing' is made from 'know'.
+- 'Yes, that's quite right.' 'Completely' is a long word. 'Right' carries 'o', like many words that say how.
 - 'That person is right here among us.' 'Among us' is a single small word and 'us'. 'Right now' is added to say 'here'.
 - 'I'm always ready to help.' 'Ready' is a short form with a masculine ending. 'Always' sits at the front.
 - 'This is my wife, Kristina.' There's no 'is', only 'this my wife'. 'My' ends in 'ya', for a feminine noun.

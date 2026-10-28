@@ -10,9 +10,9 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'hostess': 'Хостес'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.20'
 SOURCE_FILE = 'sources/kukhnya/s01/e20.ru.dual.srt'
-INTRO = "At the start of the day, the hostess finds Chef Barinov and tells him that the restaurant's owner is waiting for him. Barinov wonders what he wants. We'll hear it in Russian first."
-OPENER = "Let's go over it one line at a time."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
+INTRO = "At the start of the day, the hostess finds Chef Barinov and tells him that the restaurant's owner is waiting for him. Barinov wonders what he wants. First the Russian, and don't worry about catching every word."
+OPENER = "Now we'll take it apart."
+TRANSITION = "Let's finish by hearing it all again."
 OUTRO = "Barinov goes to find out, and asks for coffee to be brought. 'Excited', 'vzvolnovannyy', comes from 'wave', which makes sense. See you next time!"
 CLOSING = ('barinov', 'До свидания!')
 STORY = [
@@ -32,16 +32,16 @@ STORY = [
 ]
 WALK = [
     (0, None, "'Hello.' The long formal hello, with a silent 'v' at the start. The hostess uses the polite form."),
-    (1, None, "'Good morning.' 'Morning' is neuter, so 'good' ends in 'oe'. A short, friendly reply."),
+    (1, None, "'Good morning.' 'Morning' is neuter, so 'good' carries 'oe'. A short, friendly reply."),
     (2, None, "'Chef, they're waiting for you.' 'You' goes first, as 'vas'. 'They await' has no 'they'."),
-    (3, None, "'Who's waiting for me?' 'Who' comes first. 'Waits' ends in 't', for 'he'."),
+    (3, None, "'Who's waiting for me?' 'Who' comes first. 'Waits' carries 't', for 'he'."),
     (4, None, "'Dmitry Vladimirovich is waiting for you.' She uses his first name and patronymic. 'You' is the polite form."),
     (5, None, "'Is Nagiyev here?' There's no 'is'. The question lives on the rising voice."),
     (6, None, "'Yes, he's at his table.' 'Behind his own table' is how Russian says 'at his table'. 'His own' points back to the owner."),
     (7, None, "'What does he want?' 'He wants' is irregular. 'What' sits at the front."),
-    (8, None, "'I don't know.' One of the shortest sentences you can say. 'I know' ends in 'u'."),
-    (9, None, "'He usually rings first.' 'Usually' ends in 'o'. 'First' is a single word."),
+    (8, None, "'I don't know.' One of the shortest sentences you can say. 'I know' finishes with 'u'."),
+    (9, None, "'He usually rings first.' 'Usually' carries 'o'. 'First' is just one word."),
     (10, None, "'He seems very agitated.' 'Seems' is one word, and 'agitated' comes from 'wave'. It ends in 'ym' because it follows 'seems'."),
     (11, None, "'Okay, I'm coming.' 'I go' is a short word with a 'u' ending. A quick reply."),
-    (12, None, "'Bring him some coffee.' 'Bring' is the casual command. 'To him' is 'emu', and coffee never changes."),
+    (12, None, "'Bring him some coffee.' 'Bring' is the friendly command. 'To him' is 'emu', and coffee never changes."),
 ]

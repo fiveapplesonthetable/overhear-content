@@ -32,10 +32,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'All right, let's try it.' 'Davay' with 'we will be' and the plain 'try' is a casual way to say 'let's'. Barinov uses the casual form with Senya.
 - 'And what is this?' The two words 'what such' make it more pointed, as in 'what exactly is this?'. A bit suspicious, and a bit curious.
 - 'It's tender meat with thin ham.' 'With' makes 'ham' take an 'oy' ending, and 'thin' follows it. 'Tender' and 'meat' both end in 'oe'.
-- 'Very tasty, I like this recipe!' 'Tasty' ends in 'o' when it describes a thing. 'I like' is 'to me pleases', so the recipe does the pleasing.
+- 'Very tasty, I like this recipe!' 'Tasty' finishes with 'o' when it describes a thing. 'I like' is 'to me pleases', so the recipe does the pleasing.
 - 'Congratulations, your dish is now on the menu.' 'Menu' never changes its ending, even after 'in'. It is a borrowed word that stays put.
 - 'Chef, wait, this is completely unfair!' 'Unfair' is 'not' plus 'honestly', stuck together. 'Completely' is a handy intensifier.
-- 'Thank you very much, Chef, I'm very glad!' The short form for 'glad' ends in a bare consonant for a man. 'Thanks' is a neuter noun, so 'big' ends in 'oe'.
-- 'Congratulations on your win, colleague.' Russians say 'I congratulate with victory', using the little word for 'with'. 'Colleague' ends in 'a' but is masculine.
+- 'Thank you very much, Chef, I'm very glad!' The short form for 'glad' ends in a bare consonant for a man. 'Thanks' is a neuter noun, so 'big' carries 'oe'.
+- 'Congratulations on your win, colleague.' Russians say 'I congratulate with victory', using the tiny word for 'with'. 'Colleague' ends in 'a' but is masculine.
 - 'Chef, what about our dishes?' The opening words, 'and how then', protest politely. 'Dishes' is plural, with an 'a' ending.
 - 'I don't need anything else, I've found it.' Russian has 'more nothing not needed', which makes three negatives in a row. 'Found' ends in the masculine 'l'.

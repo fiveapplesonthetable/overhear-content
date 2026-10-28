@@ -31,7 +31,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'You said she wouldn't be here.' For 'she won't be here', Russian says 'her not will be', with 'her' in the object form. The absent person is the one in that form.
 - 'How can I not be at home?' The same pattern again: 'me not to be at home'. 'At home' is one word.
 - 'Why did you bring them?' 'What for' is a different question word from the 'why' of cause. 'Brought' is the word for bringing a person, on foot.
-- 'Why didn't you warn us?' Here the 'why' is the ordinary one. 'Warned' is a finished action, and 'us' is a short word with an 'as' ending.
+- 'Why didn't you warn us?' Here the 'why' is the ordinary one. 'Warned' is a once-and-done action, and 'us' is a short word with an 'as' ending.
 - 'You wouldn't ever have come.' A small word 'by' after 'you' makes it 'would'. 'Never' and 'not' are both there.
 - 'You're my friends.' There's no 'are'. It's just 'you my friends', and the plural of 'friend' is irregular.
 - 'I wanted to celebrate the birthday together.' 'Celebrate' comes from 'mark'. 'Birthday' is 'day of birth', and 'together' is one word.

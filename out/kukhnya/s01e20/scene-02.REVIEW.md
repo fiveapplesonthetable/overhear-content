@@ -29,11 +29,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Well yes, of course it's good.' 'Well yes' is two small words. 'Of course' is a long word with a 'sh' sound in the middle.
 - 'It's as if we're climbing a staircase.' 'As if' is two words in Russian. 'Along the staircase' uses a small word for 'along' and an 'e' ending.
 - 'We're going up, straight to the sun.' 'Up' is the word for direction. The sun is pronounced with a silent 'l', so it is 'sontse'.
-- 'We're going high, step by step.' 'Step after step' is a phrase made with 'za' and an 'om' ending. 'High' ends in 'o'.
+- 'We're going high, step by step.' 'Step after step' is a phrase made with 'za' and an 'om' ending. 'High' carries 'o'.
 - 'We're not in a hurry to climb, are we?' 'Hurry' and 'climb' both end in 'sya'. The small word 'zhe' makes it a question looking for 'no'.
 - 'Seems not, we aren't in a hurry.' 'Seems' is one word, meaning 'apparently'. It is a handy way to hedge.
-- 'If we stop, we might fall.' 'Stop' ends in 'sya' as it means 'stop oneself'. 'Might' is 'can', and 'fall' follows it.
-- 'We might fall down and smash ourselves up.' 'Smash' ends in 'sya', and means 'smash oneself'. 'Down' is the direction word.
+- 'If we stop, we might fall.' 'Stop' carries 'sya' as it means 'stop oneself'. 'Might' is 'can', and 'fall' follows it.
+- 'We might fall down and smash ourselves up.' 'Smash' finishes with 'sya', and means 'smash oneself'. 'Down' is the direction word.
 - 'On no account can we stop.' The phrase means 'in no case'. The word 'nelzya' is the 'not allowed' word.
 - 'We must always only go forward.' 'Must' is plural to go with 'we'. 'Only' and 'forward' are two small words.
 - 'Yes, I agree with you.' 'Agree' is a short masculine form. 'With you' is the irregular 'toboy'.

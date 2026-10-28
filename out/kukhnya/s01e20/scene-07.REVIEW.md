@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Are you serious right now?' There's no verb, just 'you now seriously'. 'Seriously' ends in 'o', like many words that say how.
+- 'Are you serious right now?' There's no verb, just 'you now seriously'. 'Seriously' carries 'o', like many words that say how.
 - 'Yes, I'm completely serious.' 'Serious' has an 'a' at the end because Nastya is a woman. 'Completely' is a borrowed word.
 - 'I didn't expect this.' After a negative, 'this' takes the 'of' form, 'etogo'. 'Expected' ends in the masculine 'l'.
 - 'You should have expected it.' The word 'sledovalo' is neuter and means 'it was due', from 'follow'. 'To you' is the first word.
 - 'Everything was so good yesterday.' 'Was' is neuter, to go with 'everything'. 'So good' is two small words.
-- 'Yesterday is in the past.' The line really says 'yesterday stayed in the past'. 'In the past' ends in 'om'.
+- 'Yesterday is in the past.' The line really says 'yesterday stayed in the past'. 'In the past' finishes with 'om'.
 - 'What do you want from me?' 'You want' is irregular, ending in 'sh'. 'From me' is a small word and 'menya'.
 - 'I want a serious relationship.' After 'want', the plural takes the 'of' form. So 'serious' and 'relationships' both change.
-- 'I'm trying my best.' 'Try' ends in 'sya'. 'Very' sits in front of it.
+- 'I'm trying my best.' 'Try' finishes with 'sya'. 'Very' sits in front of it.
 - 'It's not enough, Kostya.' The word is built from 'not' plus 'enough'. 'This' takes the 'of' form.
-- 'Are you angry with me?' Russians are angry 'on' someone. 'Be angry' ends in 'sya'.
+- 'Are you angry with me?' Russians are angry 'on' someone. 'Be angry' carries 'sya'.
 - 'No, I'm not angry.' The 'd' of 'angry' changes to 'zh' for 'I'. It is the same change as in 'I see'.
-- 'Aren't you happy with me?' 'Happy' ends in 'a' for a woman. 'With me' is the irregular 'so mnoy'.
+- 'Aren't you happy with me?' 'Happy' carries 'a' for a woman. 'With me' is the irregular 'so mnoy'.

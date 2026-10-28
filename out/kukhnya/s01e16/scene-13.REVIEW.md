@@ -35,5 +35,5 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'He is in the fridge.' 'In' plus an 'e' ending on the fridge says where he is. Barinov doesn't need to say more, since the fridge is the whole problem.
 - 'Excellent.' It's the top mark in a Russian school, a five out of five, so it carries a bit of pride. Here it's said through a gritted smile.
 - 'Viktor Petrovich, would you be so kind.' The phrase is literally 'be kind', in the polite plural command. It's what a very formal person says before asking for something.
-- 'Open the fridge, please.' The command ends in 'yte', which is the polite way to order someone around. 'Please' is a long, friendly-sounding word, and it also means 'you're welcome'.
+- 'Open the fridge, please.' The command finishes with 'yte', which is the polite way to order someone around. 'Please' is a long, friendly-sounding word, and it also means 'you're welcome'.
 - 'I'm waiting.' It's just one word, no 'I', and no 'am'. Three words from the inspector would be more polite, but he says one, and it is more menacing.

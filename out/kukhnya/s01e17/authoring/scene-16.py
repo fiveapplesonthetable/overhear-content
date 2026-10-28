@@ -10,9 +10,9 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'hostess': 'Хостес', 'nagiyev': 'Нагиев'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.17'
 SOURCE_FILE = 'sources/kukhnya/s01/e17.ru.dual.srt'
-INTRO = "Barinov and Nagiyev have finished their meal at the rival restaurant. The hostess comes over to ask how they liked it, and Nagiyev gushes while Barinov gives a grudging verdict. We'll hear it in Russian first."
-OPENER = 'Here it is again, one line at a time.'
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
+INTRO = 'Barinov and Nagiyev have finished their meal at the rival restaurant. The hostess comes over to ask how they liked it, and Nagiyev gushes while Barinov gives a grudging verdict. First, the Russian.'
+OPENER = "Let's go back through it slowly."
+TRANSITION = 'Here is the whole conversation again.'
 OUTRO = "The two men leave on a polite note, though only one of them means it. 'Vsyo ravno', literally 'all equal', is a useful phrase for 'anyway' or 'all the same'. See you next time!"
 CLOSING = ('barinov', 'Пока!')
 STORY = [
@@ -33,17 +33,17 @@ STORY = [
 ]
 WALK = [
     (0, None, "'Good afternoon, respected guests of our restaurant.' 'Respected' comes from the verb for respecting and is the usual way to address guests. 'Of our restaurant' needs an 'ogo' and an 'a'."),
-    (1, None, "'I hope you enjoyed everything today.' 'I hope' ends in 'sya'. 'Liked' is neuter, because it agrees with 'everything'."),
+    (1, None, "'I hope you enjoyed everything today.' 'I hope' carries 'sya'. 'Liked' is neuter, because it agrees with 'everything'."),
     (2, None, "'Hello, yes, it was all very tasty.' The long hello is hard to say, because the first 'v' is silent. 'Was' is neuter, to go with 'everything'."),
     (3, None, "'You have simply excellent cooking here.' 'Kitchen' stands for 'cuisine' again. 'Excellent' ends in 'aya' to match."),
-    (4, None, "'Almost as tasty as at home.' 'As...as' is made with 'so same' and 'how'. 'At home' is a single word."),
+    (4, None, "'Almost as tasty as at home.' 'As...as' is made with 'so same' and 'how'. 'At home' is just one word."),
     (5, None, "'Do you agree with me, dear friend?' Nagiyev uses the casual 'you' with Barinov. 'Agree' is a short form with a masculine ending."),
     (6, None, "'Well, overall the food is fine.' 'In general' is made with a small word 'in' and an ending. 'Normal' is the same word as in English."),
     (7, None, "'Thank you for such kind words.' 'Kind' is the word from 'good day', and 'words' is plural. 'Thanks for' needs the little word 'for'."),
     (8, None, "'We spent a very pleasant day here.' 'Spent' is built from the word for leading through. 'Pleasant' is masculine to match 'day'."),
     (9, None, "'But our restaurant is still better.' 'All the same' is literally 'everything equal'. 'Better' is a one-word comparison."),
-    (10, None, "'Come visit us again.' Russians say 'come to us as guests', with the little word for 'as guests'. 'Again' is a nice short word."),
+    (10, None, "'Come visit us again.' Russians say 'come to us as guests', with the small word for 'as guests'. 'Again' is a nice short word."),
     (11, None, "'We'll definitely come here next time.' 'Definitely' is a longer word, but it comes from 'obligatory'. 'Next time' is 'in the next time'."),
-    (12, None, "'All right, it's time for us to head back.' 'Time' means 'it's time', and the verb is 'to go by vehicle'. 'Back' is a single word."),
+    (12, None, "'All right, it's time for us to head back.' 'Time' means 'it's time', and the verb is 'to go by vehicle'. 'Back' comes as one word."),
     (13, None, "'All the best, until we meet again soon!' 'All of good' is the Russian for 'all the best'. 'Until a new soon meeting' is a formal send-off."),
 ]

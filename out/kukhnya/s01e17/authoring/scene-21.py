@@ -10,9 +10,9 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.17'
 SOURCE_FILE = 'sources/kukhnya/s01/e17.ru.dual.srt'
-INTRO = 'The big row is over. In the dining room, Vika and the staff apologise to Max for ruining what they thought was his birthday, and Barinov wants to be sure the matter is closed. First, the Russian.'
-OPENER = "Now let's go back through it slowly."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
+INTRO = 'The big row is over. In the dining room, Vika and the staff apologise to Max for ruining what they thought was his birthday, and Barinov wants to be sure the matter is closed. Listen to it in Russian first.'
+OPENER = "Let's walk through what each line is doing."
+TRANSITION = 'Now it all together again, from the top.'
 OUTRO = "Everyone has made up, at least until the next mistake. 'Poka ne' means 'until', and it's built by saying 'while' and 'not' together. See you next time!"
 CLOSING = ('max', 'Пока!')
 STORY = [
@@ -33,7 +33,7 @@ STORY = [
 WALK = [
     (0, None, "'Maxim, please forgive us.' Vika uses his full first name, which is formal. 'Forgive' is the casual command, and 'us' takes its object form."),
     (1, None, "'We ruined a great holiday for you.' 'Ruined' ends in 'li' for the plural. 'To you' tells whose holiday it was."),
-    (2, None, "'I'm not angry with you.' Russian is angry 'on' someone, so a small word for 'on' comes before 'you'. 'I am angry' ends in 'sya'."),
+    (2, None, "'I'm not angry with you.' Russian is angry 'on' someone, so a small word for 'on' comes before 'you'. 'I am angry' finishes with 'sya'."),
     (3, None, "'Please forgive them, from the heart.' 'Them' is a short word. 'From the soul' is Russian's version of 'from the heart'."),
     (4, None, "'And forgive me too.' The 'me' comes first, and 'too' follows it. Putting the object first makes it sound like a plea."),
     (5, None, "'So, is that all? Is the conflict over?' The verb for 'ended' has 'sya' on it, so the conflict ended by itself. 'Is that all' is just 'all?', said as a question."),
@@ -42,6 +42,6 @@ WALK = [
     (8, None, "'We all want peace in the kitchen.' 'Peace' also means 'world'. After 'want', 'peace' takes an 'a' ending."),
     (9, None, "'Peace in the kitchen is the main thing.' The dash takes the place of 'is'. 'Main' comes from 'head'."),
     (10, None, "'Thank you all for the kind words.' 'To all' is a short word for 'thank everyone'. 'Kind' is the same as in 'good day'."),
-    (11, None, "'Now we can work calmly.' 'Now' and 'calmly' are the two small words. 'We can' is a single word."),
+    (11, None, "'Now we can work calmly.' 'Now' and 'calmly' are the two small words. 'We can' is one word on its own."),
     (12, None, "'I'm very glad we made up.' 'Glad' has a bare ending for a man. 'Made up' is built from 'peace', plus 'sya'."),
 ]

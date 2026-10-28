@@ -28,16 +28,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Come on, Max, let's go outside now.' 'We'll go' is used as 'let's go'. 'Outside' is 'onto the street', with an 'u' ending.
-- 'What did I do? I just gave you a gift.' 'Did' ends in 'l' for a man. 'Gave' is the irregular 'dal'.
+- 'What did I do? I just gave you a gift.' 'Did' finishes with 'l' for a man. 'Gave' is the irregular 'dal'.
 - 'How are you behaving? I'm very ashamed.' 'Behave' is 'lead yourself'. Russian says 'to me ashamed', not 'I am ashamed'.
 - 'Aren't you ashamed that he kisses your hands?' 'To you ashamed' has the same pattern. 'Hands' is plural, and the singular looks different.
 - 'He's a good man and he behaves properly.' 'Properly' is made from 'normal'. 'Behaves' has 'yourself' inside it.
 - 'Maybe you'll go out with him?' 'Date' is built from 'meet', with 'sya'. 'With him' picks up an 'n'.
 - 'You're talking nonsense, Max. I don't understand you.' 'Nonsense' is plural in Russian. 'You' takes the 'a' form.
-- 'He gives you expensive gifts. Be grateful.' 'Be' is the command form of 'to be'. 'Grateful' ends in 'oy'.
+- 'He gives you expensive gifts. Be grateful.' 'Be' is the command form of 'to be'. 'Grateful' carries 'oy'.
 - 'Fine, if you want it that way, I'll do it.' 'If' opens the condition. 'So' is a small word that appears twice.
 - 'Great, go to him and kiss his hands.' 'To him' picks up an 'n'. 'Kiss' is the command form.
 - 'You're just a fool, Max. I'm leaving.' 'Fool' is a short, blunt word. 'I'm leaving' is the ongoing kind.
 - 'Excuse me, is that normal? Do you think that's normal?' 'Normal' is used for 'okay' or 'acceptable'. 'You think' is polite, plural.
-- 'I think you're just a drunken fool.' 'Drunken' ends in 'yy', for a masculine word. 'That' joins the two parts.
+- 'I think you're just a drunken fool.' 'Drunken' finishes with 'yy', for a masculine word. 'That' joins the two parts.
 - 'Nobody understands me today. I'm going to bed.' 'Nobody' and 'not' are together. 'I'll go sleep' is two words, with no 'to'.

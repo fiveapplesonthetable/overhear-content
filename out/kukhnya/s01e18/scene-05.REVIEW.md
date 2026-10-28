@@ -32,7 +32,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Guests always love fresh, tasty drinks.' 'They love' is a plural form. 'Fresh' and 'tasty' both end in 'ie', matching the plural.
 - 'Our bar offers the very best, most expensive drinks.' 'Offers' is a long word, but the sense is clear. 'The most best' is how Russian stresses 'the very best'.
 - 'People in the dining room are ready to pay any money.' 'Any' is a single word that comes before 'money'. 'Ready' takes the plural, and 'pay' follows it.
-- 'The main thing is always to do your work honestly.' 'Honestly' ends in 'o', like many words that say how. 'Your own work' uses the special pointing-back word.
+- 'The main thing is always to do your work honestly.' 'Honestly' finishes with 'o', like many words that say how. 'Your own work' uses the special pointing-back word.
 - 'But some bartenders know clever tricks.' 'Some' is made from 'which' with a tail. 'They know' has a plural ending.
 - 'I don't want to deceive our guests.' 'I want' is irregular, so 'khochu' is the form to learn. The guests take the 'ey' ending.
 - 'You're simply too honest and kind a guy.' 'Too' sits in front of the describing words. 'Guy' is informal.

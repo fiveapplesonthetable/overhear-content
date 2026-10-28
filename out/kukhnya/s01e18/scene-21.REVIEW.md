@@ -29,11 +29,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'At least we have somewhere to live.' 'At least' is built as 'by the least extent'. 'To us there is where to live' is the pattern.
 - 'We fall and suffer from pain.' 'We fall' and 'we suffer' both end in 'em'. 'From pain' needs a small word and an 'i' ending on 'pain'.
 - 'And then we get up and go on.' Two 'we' forms side by side. 'Further' closes the line.
-- 'And will it go on like this forever?' 'Go on' ends in 'sya', so it means 'goes on by itself'. 'Forever' is built from 'without end'.
+- 'And will it go on like this forever?' 'Go on' finishes with 'sya', so it means 'goes on by itself'. 'Forever' is built from 'without end'.
 - 'Life is always full of hard moments.' 'Full' has a feminine ending, because 'life' is feminine. 'Moments' takes the 'of' plural, and so does 'hard'.
 - 'Maybe it's time to watch our step?' 'Look under the feet' is how Russians say 'watch your step'. 'Maybe' and 'time' are two small words.
 - 'You're right, we need to be more careful.' 'Right' is a short masculine form. 'More careful' is made with the ending 'ee'.
-- 'Tomorrow we'll start looking for new work.' 'Will begin' is a finished action. 'Look for' takes the plain form, and 'work' takes a 'u' ending.
-- 'Everything will definitely work out for us.' 'Work out' means 'get obtained', and ends in 'sya'. 'For us' is 'at us'.
+- 'Tomorrow we'll start looking for new work.' 'Will begin' is an action seen as complete. 'Look for' takes the plain form, and 'work' takes a 'u' ending.
+- 'Everything will definitely work out for us.' 'Work out' means 'get obtained', and carries 'sya'. 'For us' is 'at us'.
 - 'The main thing is that we're not giving up.' 'Give up' ends in 'sya', meaning 'surrender oneself'. The 'main thing' comes from 'head'.
-- 'I believe in us.' 'Believe in' takes the little word for 'in', followed by 'us'. A short ending line for the episode.
+- 'I believe in us.' 'Believe in' takes the small word for 'in', followed by 'us'. A short ending line for the episode.

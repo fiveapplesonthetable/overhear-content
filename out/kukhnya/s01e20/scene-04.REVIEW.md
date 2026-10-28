@@ -29,15 +29,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Hi. I wanted to ask about the gift.' 'Wanted to find out' uses the plain 'find out'. 'About' is a one-word phrase.
 - 'Did you like this lovely ring?' 'Liked' is neuter, because 'ring' is neuter. 'To you' sits next to it.
-- 'Yes, it's very pretty.' 'It' is the neuter 'ono', since 'ring' is neuter. 'Beautiful' ends in 'oe'.
+- 'Yes, it's very pretty.' 'It' is the neuter 'ono', since 'ring' is neuter. 'Beautiful' carries 'oe'.
 - 'And do you know how much it costs?' 'How much' is one word. 'Costs' means 'stands' in this sense.
-- 'Do you think that's reasonable for a gift?' 'You consider' ends in 'sh'. 'For a gift' needs a small word and an 'a'.
+- 'Do you think that's reasonable for a gift?' 'You consider' finishes with 'sh'. 'For a gift' needs a small word and an 'a'.
 - 'Of course. Tanya was choosing a present for herself.' 'Herself' is the same for everyone, 'sebya'. 'Was choosing' is the ongoing past.
-- 'She just sent me a photo.' 'Sent' ends in 'a', and 'just' is a small word. 'Photograph' is a borrowed word.
+- 'She just sent me a photo.' 'Sent' carries 'a', and 'just' is a small word. 'Photograph' is a borrowed word.
 - 'But I wanted to give you the ring myself.' 'Myself' is a short word, 'sam'. 'Give as a gift' is the same word from before.
-- 'You wanted to give the same thing?' 'The same thing' is three words, and means 'that very same'. 'Wanted' ends in 'l'.
-- 'I'll tell her to choose something else.' 'To her' is the short word 'ey'. 'Something else' ends in 'oe' since it is neuter.
-- 'And you'll give me this ring.' 'You'll give' is a finished action, ending in 'sh'. 'Me' takes the 'to me' form.
-- 'What for? She's already bought it.' 'What for' asks about purpose. 'Bought' ends in 'a' for a woman.
-- 'No, she was just asking for advice.' 'Ask for' is followed by the 'of' form, so 'advice' ends in 'a'. 'Asked' ends in 'a' for a woman.
-- 'I'll call her now.' 'Call' goes with 'to her', not 'her'. 'I'll call' is a finished action.
+- 'You wanted to give the same thing?' 'The same thing' is three words, and means 'that very same'. 'Wanted' carries 'l'.
+- 'I'll tell her to choose something else.' 'To her' is the short word 'ey'. 'Something else' finishes with 'oe' since it is neuter.
+- 'And you'll give me this ring.' 'You'll give' is an action seen as complete, ending in 'sh'. 'Me' takes the 'to me' form.
+- 'What for? She's already bought it.' 'What for' asks about purpose. 'Bought' carries 'a' for a woman.
+- 'No, she was just asking for advice.' 'Ask for' is followed by the 'of' form, so 'advice' finishes with 'a'. 'Asked' finishes with 'a' for a woman.
+- 'I'll call her now.' 'Call' goes with 'to her', not 'her'. 'I'll call' treats the action as done.

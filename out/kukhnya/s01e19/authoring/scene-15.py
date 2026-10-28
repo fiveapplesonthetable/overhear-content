@@ -10,9 +10,9 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'director': 'Режиссёр', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.19'
 SOURCE_FILE = 'sources/kukhnya/s01/e19.ru.dual.srt'
-INTRO = "Barinov is recording a cooking segment for television to advertise the restaurant's birthday party, but he keeps plugging the wrong thing and the director loses patience. Later he talks with Vika about who is coming. We'll hear it in Russian first."
-OPENER = "Let's replay it step by step."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
+INTRO = "Barinov is recording a cooking segment for television to advertise the restaurant's birthday party, but he keeps plugging the wrong thing and the director loses patience. Later he talks with Vika about who is coming. Russian first, then we'll take it apart."
+OPENER = 'Now for a closer look.'
+TRANSITION = 'Now the whole conversation once more, from start to finish.'
 OUTRO = "The party will be packed, and one very rich guest is on the list. Keep 'anshlag' in mind, since it's the Russian word for a full house at a theatre or a restaurant. See you next time!"
 CLOSING = ('vika', 'До свидания!')
 STORY = [
@@ -32,13 +32,13 @@ STORY = [
     ('barinov', 'Его точно все знают.', 'Everyone definitely knows him.', [(275, 'его-то точно все знают')], ''),
 ]
 WALK = [
-    (0, None, "'We prepared a Parisian-style egg.' 'Parisian-style' is made with 'po' and a describing ending, 'po-parizhski'. 'We prepared' ends in 'li'."),
+    (0, None, "'We prepared a Parisian-style egg.' 'Parisian-style' is made with 'po' and a describing ending, 'po-parizhski'. 'We prepared' carries 'li'."),
     (1, None, "'We're waiting for you at Claude Monet!' 'We wait' ends in 'yom', and 'for you' takes the 'a' form. 'At the restaurant' needs an 'e'."),
     (2, None, "'Cut! You didn't name the sponsor!' 'Not filmed' is a short neuter form, since a take is neuter. 'Sponsor' is borrowed."),
     (3, None, "'You're fired! Get out of here!' 'Fired' is a short plural form, with no 'are'. 'Von' is a one-word shove, 'out'."),
     (4, None, "'How are you, Viktor Petrovich?' 'How are matters' is the standard way to ask. Vika uses his name and patronymic."),
-    (5, None, "'Tomorrow it'll be a full house.' 'Anshlag' is a borrowed German word used in theatres. 'It will be' is a single word."),
-    (6, None, "'Even Bianca's coming.' 'Even' sits in front of the name. 'Will arrive' is a finished action, for arriving by vehicle."),
+    (5, None, "'Tomorrow it'll be a full house.' 'Anshlag' is a borrowed German word used in theatres. 'It will be' is just one word."),
+    (6, None, "'Even Bianca's coming.' 'Even' sits in front of the name. 'Will arrive' is a once-and-done action, for arriving by vehicle."),
     (7, None, "'Who's Bianca?' The Russian is 'who such Bianca', and 'such' is feminine. It makes the question sound dismissive."),
     (8, None, "'Everyone knows her.' 'Her' goes first, and 'everyone knows' follows. That puts the stress on her."),
     (9, None, "'I've got another ace up my sleeve.' 'Trump card' is a card-game term. 'Another' is 'one more'."),

@@ -27,10 +27,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Nastya, bring me a clean glass.' 'Bring' is the command for carrying a thing. The 'glass' is the kind with a stem.
-- 'I'll bring it right away, Chef.' 'Right away' is 'now' or 'soon'. 'I'll bring' is a finished action.
+- 'I'll bring it right away, Chef.' 'Right away' is 'now' or 'soon'. 'I'll bring' is the completed kind.
 - 'We must drink to the holiday.' 'Must' is plural to go with 'we'. For a toast, Russian uses the little word 'za' for 'to'.
 - 'Chef, this is very nice.' 'Pleasant' is a word with an 'o' ending, used on its own. There's no 'is'.
-- 'Pour good wine for everyone.' 'Pour' is the command for pouring drinks. 'Wine' is neuter, so 'good' ends in 'ee'.
+- 'Pour good wine for everyone.' 'Pour' is the command for pouring drinks. 'Wine' is neuter, so 'good' carries 'ee'.
 - 'Here is your glass, Chef.' 'Here' points at the glass, and 'your' is polite and masculine. There's no 'is'.
 - 'Thank you, Nastya, well done.' 'Well done' is masculine, but it is used for women too. It literally means something like 'fine fellow'.
 - 'What a beautiful glass!' The word 'kakoy' in front of an adjective makes an exclamation. 'Beautiful' has a masculine ending.

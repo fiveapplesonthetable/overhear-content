@@ -11,8 +11,8 @@ LABELS = {'fedya': 'Федя', 'senya': 'Сеня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.18'
 SOURCE_FILE = 'sources/kukhnya/s01/e18.ru.dual.srt'
 INTRO = "Senya is lying in the staff room looking terrible after eating fish that was past its best, and Fedya is trying to help. His remedy is not a very medical one. We'll hear it in Russian first."
-OPENER = "Let's go through it one line at a time."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
+OPENER = "Now we'll take it apart."
+TRANSITION = "Let's hear the whole thing again, start to finish."
 OUTRO = "Senya collapses just as Fedya reaches for the pepper, and the scene ends on a note of alarm. Keep 'ne nado bylo' in mind, since it means 'you shouldn't have' and is useful for any mistake. See you next time!"
 CLOSING = ('fedya', 'Пока!')
 STORY = [
@@ -32,10 +32,10 @@ STORY = [
 WALK = [
     (0, None, "'You look really terrible.' The word for 'you look' ends in 'sh', for the casual 'you'. 'Completely bad' is how Russian says 'really terrible'."),
     (1, None, "'Does your stomach hurt?' 'At you hurts stomach' is the pattern, with the stomach as the thing doing the hurting. The word for 'stomach' really means belly."),
-    (2, None, "'Yes, I feel really bad.' Feelings go in the 'to me' form, so it's 'to me very bad'. The word for 'bad' ends in 'o'."),
+    (2, None, "'Yes, I feel really bad.' Feelings go in the 'to me' form, so it's 'to me very bad'. The word for 'bad' finishes with 'o'."),
     (3, None, "'I told you so.' The little 'zhe' in the middle adds the sense of 'didn't I?'. The word for 'told' ends in the masculine 'l'."),
     (4, None, "'You shouldn't have eaten the fish.' 'It wasn't necessary' is the Russian for 'you shouldn't have'. The word for 'eat' is the plain form, and 'fish' takes a 'u' ending."),
-    (5, None, "'I thought it was fine.' 'She' stands for the fish, because the word for fish is feminine. 'Thought' ends in 'l', for the masculine speaker."),
+    (5, None, "'I thought it was fine.' 'She' stands for the fish, because the word for fish is feminine. 'Thought' carries 'l', for the masculine speaker."),
     (6, None, "'Do you know what you need to do?' The word for 'you know' ends in 'sh'. 'What to do' uses the plain form, with the word for 'necessary' before it."),
     (7, None, "'You need to drink pepper and water.' The word for 'pepper' is short, and 'water' takes the 'u' ending. The word for 'necessary' goes in front of 'drink'."),
     (8, None, "'Oh, I can't take any more.' 'More not can' is the word order. 'Oy' is the same little cry as in other languages."),

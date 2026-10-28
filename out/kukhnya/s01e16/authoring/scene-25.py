@@ -10,9 +10,9 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.16'
 SOURCE_FILE = 'sources/kukhnya/s01/e16.ru.dual.srt'
-INTRO = "Barinov has led Max to the kitchen to show him what his famous pâté really contains. It is not what Max expected, and Eleonora Andreyevna, who loves the stuff, comes into it. We'll hear it in Russian first."
-OPENER = "Let's look at it again, piece by piece."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
+INTRO = 'Barinov has led Max to the kitchen to show him what his famous pâté really contains. It is not what Max expected, and Eleonora Andreyevna, who loves the stuff, comes into it. The Russian comes first.'
+OPENER = 'Now for a closer look.'
+TRANSITION = 'Now the whole conversation once more, from start to finish.'
 OUTRO = "So the famous pâté is a very ordinary recipe, and Max is left to digest it. You've now heard how Russians say 'by the way' and 'are you kidding me?', which will be handy for a lot of conversations. See you next time!"
 CLOSING = ('max', 'До свидания!')
 STORY = [
@@ -37,8 +37,8 @@ WALK = [
     (4, None, "'Are you kidding me?' The 'sya' ending makes the verb 'mock' and means you are doing it to someone. Max uses the polite 'you' with the boss."),
     (5, None, "'Why?' One word again. Barinov is pretending to be surprised."),
     (6, None, "'You were educating yourself.' It's a made-up kind of word, built from 'self' plus 'bring up', plus 'sya'. Barinov enjoys the sound of it."),
-    (7, None, "'Well, let's go.' The first word is the 'well' that Russians use when they change the subject. The second is the 'we' form, standing in for 'let's go'."),
-    (8, None, "'By the way, it's good pâté.' 'By the way' is a single word. The 'good' has the masculine ending to go with the pâté."),
+    (7, None, "'Well, let's go.' The opening word is the 'well' that Russians use when they change the subject. The second is the 'we' form, standing in for 'let's go'."),
+    (8, None, "'By the way, it's good pâté.' 'By the way' is just one word. The 'good' has the masculine ending to go with the pâté."),
     (9, None, "'How do you make it?' Barinov uses the casual 'you', and the ending 'sh' shows it. He has gone from bossy to curious."),
     (10, None, "'What did you put in?' There's no word for 'you'. The question about 'did you add' relies on the 'l' ending, and the context."),
     (11, None, "'Beef, liver.' A list of two nouns, with no verb. Max replies with the plainest possible words."),

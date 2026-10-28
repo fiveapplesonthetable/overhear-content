@@ -28,14 +28,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Dmitry, why did they turn off the bright light?' Barinov uses the name without a patronymic, because they are old friends. 'Turned off' has no 'they', only the plural ending.
 - 'We mustn't spend money on electricity.' 'Light' is also used for electricity. 'On' needs the object form after it.
-- 'But it's hard for cooks to cook in a dark hall!' 'To cooks' ends in 'am', as the work is for them. 'Hard' is a word with an 'o', used with the plain 'to cook'.
+- 'But it's hard for cooks to cook in a dark hall!' 'To cooks' carries 'am', as the work is for them. 'Hard' is a word with an 'o', used with the plain 'to cook'.
 - 'On the plus side, our restaurant will save many useful rubles.' The opening is 'zato', which turns the sentence around. 'Useful rubles' is a sarcastic touch.
 - 'Timur has just brought us fresh meat.' 'Just now' is two words, 'only what'. 'Brought' is the word for bringing by vehicle.
 - 'This meat costs far too much money!' 'Costs' is a word you'll see on price tags. 'Too much' is followed by the 'of' form of 'money'.
 - 'But he always has the very best products.' 'At him there is' stands for 'he has'. 'The most best' is the way to stress 'the very best'.
-- 'Buy only cheap meat with my money.' 'Buy' is a command. 'For my money' uses the little word for 'for', and 'money' stays plural.
+- 'Buy only cheap meat with my money.' 'Buy' is a command. 'For my money' uses the tiny word for 'for', and 'money' stays plural.
 - 'Our guests will notice the poor quality of these dishes.' 'Will notice' is a plural, finished action. 'Quality' ends in 'o'.
 - 'Let the waiters light beautiful candles on the tables.' 'Let' goes before the 'they' form. 'On the tables' has an 'akh' ending, the plural of 'on'.
 - 'Candles won't help save a bad dinner.' 'Will not help' is a plural, with 'not' in front. 'Save' is the plain form.
 - 'It's a wonderful, cheap romantic move!' 'Move' is the one used for a move in chess. It comes from the word for walking.
-- 'You're turning into too greedy an owner, Dmitry!' 'You become' ends in 'sya'. 'Greedy' takes an 'ym' ending after 'become'.
+- 'You're turning into too greedy an owner, Dmitry!' 'You become' finishes with 'sya'. 'Greedy' takes an 'ym' ending after 'become'.

@@ -28,16 +28,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Good afternoon, respected guests of our restaurant.' 'Respected' comes from the verb for respecting and is the usual way to address guests. 'Of our restaurant' needs an 'ogo' and an 'a'.
-- 'I hope you enjoyed everything today.' 'I hope' ends in 'sya'. 'Liked' is neuter, because it agrees with 'everything'.
+- 'I hope you enjoyed everything today.' 'I hope' carries 'sya'. 'Liked' is neuter, because it agrees with 'everything'.
 - 'Hello, yes, it was all very tasty.' The long hello is hard to say, because the first 'v' is silent. 'Was' is neuter, to go with 'everything'.
 - 'You have simply excellent cooking here.' 'Kitchen' stands for 'cuisine' again. 'Excellent' ends in 'aya' to match.
-- 'Almost as tasty as at home.' 'As...as' is made with 'so same' and 'how'. 'At home' is a single word.
+- 'Almost as tasty as at home.' 'As...as' is made with 'so same' and 'how'. 'At home' is just one word.
 - 'Do you agree with me, dear friend?' Nagiyev uses the casual 'you' with Barinov. 'Agree' is a short form with a masculine ending.
 - 'Well, overall the food is fine.' 'In general' is made with a small word 'in' and an ending. 'Normal' is the same word as in English.
 - 'Thank you for such kind words.' 'Kind' is the word from 'good day', and 'words' is plural. 'Thanks for' needs the little word 'for'.
 - 'We spent a very pleasant day here.' 'Spent' is built from the word for leading through. 'Pleasant' is masculine to match 'day'.
 - 'But our restaurant is still better.' 'All the same' is literally 'everything equal'. 'Better' is a one-word comparison.
-- 'Come visit us again.' Russians say 'come to us as guests', with the little word for 'as guests'. 'Again' is a nice short word.
+- 'Come visit us again.' Russians say 'come to us as guests', with the small word for 'as guests'. 'Again' is a nice short word.
 - 'We'll definitely come here next time.' 'Definitely' is a longer word, but it comes from 'obligatory'. 'Next time' is 'in the next time'.
-- 'All right, it's time for us to head back.' 'Time' means 'it's time', and the verb is 'to go by vehicle'. 'Back' is a single word.
+- 'All right, it's time for us to head back.' 'Time' means 'it's time', and the verb is 'to go by vehicle'. 'Back' comes as one word.
 - 'All the best, until we meet again soon!' 'All of good' is the Russian for 'all the best'. 'Until a new soon meeting' is a formal send-off.

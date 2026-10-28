@@ -27,10 +27,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'You look really terrible.' The word for 'you look' ends in 'sh', for the casual 'you'. 'Completely bad' is how Russian says 'really terrible'.
 - 'Does your stomach hurt?' 'At you hurts stomach' is the pattern, with the stomach as the thing doing the hurting. The word for 'stomach' really means belly.
-- 'Yes, I feel really bad.' Feelings go in the 'to me' form, so it's 'to me very bad'. The word for 'bad' ends in 'o'.
+- 'Yes, I feel really bad.' Feelings go in the 'to me' form, so it's 'to me very bad'. The word for 'bad' finishes with 'o'.
 - 'I told you so.' The little 'zhe' in the middle adds the sense of 'didn't I?'. The word for 'told' ends in the masculine 'l'.
 - 'You shouldn't have eaten the fish.' 'It wasn't necessary' is the Russian for 'you shouldn't have'. The word for 'eat' is the plain form, and 'fish' takes a 'u' ending.
-- 'I thought it was fine.' 'She' stands for the fish, because the word for fish is feminine. 'Thought' ends in 'l', for the masculine speaker.
+- 'I thought it was fine.' 'She' stands for the fish, because the word for fish is feminine. 'Thought' carries 'l', for the masculine speaker.
 - 'Do you know what you need to do?' The word for 'you know' ends in 'sh'. 'What to do' uses the plain form, with the word for 'necessary' before it.
 - 'You need to drink pepper and water.' The word for 'pepper' is short, and 'water' takes the 'u' ending. The word for 'necessary' goes in front of 'drink'.
 - 'Oh, I can't take any more.' 'More not can' is the word order. 'Oy' is the same little cry as in other languages.

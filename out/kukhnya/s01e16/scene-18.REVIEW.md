@@ -30,10 +30,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I am just an ordinary guest of the restaurant.' There is no word for 'of'. The restaurant simply takes an 'a' ending and goes after 'guest'.
 - 'No, you work here as a chef.' There's no word for 'as' either. The chef takes an 'om' ending, and that does the job.
 - 'Why did you suddenly decide that?' 'Suddenly' is a good little word to keep, and it sits right after the 'why'. 'Decided' has the 'li' ending since the inspector is addressed as 'you', politely.
-- 'You are looking at the dish very carefully.' 'Carefully' is a describing word with an 'o' ending, like many of the 'how' words. 'Look at' takes the little word for 'on'.
+- 'You are looking at the dish very carefully.' 'Carefully' is a describing word with an 'o' ending, like many of the 'how' words. 'Look at' takes the tiny word for 'on'.
 - 'You don't like this food at all.' Again it's 'to you not pleasing', so 'you' takes the 'am' ending. 'At all' is the pair 'altogether not'.
 - 'Because another chef cooked it.' Russian says 'her' for the food, because the word for food is feminine. The first two words are 'because'.
-- 'I simply love good cuisine.' The word for cuisine is the same as for 'kitchen', which is the title of the show. 'Good' ends in 'uyu' because it's what is loved.
+- 'I simply love good cuisine.' The word for cuisine is the same as for 'kitchen', which is the title of the show. 'Good' carries 'uyu' because it's what is loved.
 - 'Also you constantly touch your head.' 'Your own' is a special little word, which always points back to the person doing the action. 'Constantly' is built from a word meaning 'constant'.
 - 'At work you always wear a cap.' Russians say 'on work' for 'at work', and the work takes an 'e'. 'Wear' is the one for something you carry on yourself regularly.
 - 'And you aren't drinking the wine at all.' 'Not at all' appears again, now in front of 'drink'. The wine itself stays in its basic form, because it isn't being drunk.

@@ -27,15 +27,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Hello.' The long formal hello, with a silent 'v' at the start. The hostess uses the polite form.
-- 'Good morning.' 'Morning' is neuter, so 'good' ends in 'oe'. A short, friendly reply.
+- 'Good morning.' 'Morning' is neuter, so 'good' carries 'oe'. A short, friendly reply.
 - 'Chef, they're waiting for you.' 'You' goes first, as 'vas'. 'They await' has no 'they'.
-- 'Who's waiting for me?' 'Who' comes first. 'Waits' ends in 't', for 'he'.
+- 'Who's waiting for me?' 'Who' comes first. 'Waits' carries 't', for 'he'.
 - 'Dmitry Vladimirovich is waiting for you.' She uses his first name and patronymic. 'You' is the polite form.
 - 'Is Nagiyev here?' There's no 'is'. The question lives on the rising voice.
 - 'Yes, he's at his table.' 'Behind his own table' is how Russian says 'at his table'. 'His own' points back to the owner.
 - 'What does he want?' 'He wants' is irregular. 'What' sits at the front.
-- 'I don't know.' One of the shortest sentences you can say. 'I know' ends in 'u'.
-- 'He usually rings first.' 'Usually' ends in 'o'. 'First' is a single word.
+- 'I don't know.' One of the shortest sentences you can say. 'I know' finishes with 'u'.
+- 'He usually rings first.' 'Usually' carries 'o'. 'First' is just one word.
 - 'He seems very agitated.' 'Seems' is one word, and 'agitated' comes from 'wave'. It ends in 'ym' because it follows 'seems'.
 - 'Okay, I'm coming.' 'I go' is a short word with a 'u' ending. A quick reply.
-- 'Bring him some coffee.' 'Bring' is the casual command. 'To him' is 'emu', and coffee never changes.
+- 'Bring him some coffee.' 'Bring' is the friendly command. 'To him' is 'emu', and coffee never changes.

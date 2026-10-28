@@ -27,7 +27,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Kostya, look over there quickly.' The command is casual. 'There' means 'to there', as Max is pointing.
-- 'What happened, Max?' 'Happened' ends in 'sya' and is neuter. 'What' sits at the front.
+- 'What happened, Max?' 'Happened' finishes with 'sya' and is neuter. 'What' sits at the front.
 - 'What is Vika talking about with that man?' 'About what' is two words. 'With this man' takes 'im' and 'om' endings.
 - 'Max, I have no idea at all.' The phrase is 'without an idea', and it is a set idiom. 'Anyway' is the long word you've already heard.
 - 'This man gave her a huge bouquet.' 'Gave as a gift' is one word. 'To her' is the short word 'ey'.
@@ -36,6 +36,6 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'You shouldn't worry so much.' 'It's not worth to you' is the pattern. 'So much' is two small words.
 - 'Kostya, go a bit closer to them.' The prefix 'po' makes 'closer' into 'a bit closer'. 'Go up' also has a prefix.
 - 'Why should I go up to their table?' 'What for' asks about purpose, not cause. 'To their little table' has a 'u' ending.
-- 'Listen to what they're discussing now.' 'Listen' is the finished kind of command. 'They discuss' is plural.
-- 'Fine, I'll go and find out everything.' Two verbs side by side with 'and'. 'Find out' is a finished action.
+- 'Listen to what they're discussing now.' 'Listen' is an action seen as complete of command. 'They discuss' is plural.
+- 'Fine, I'll go and find out everything.' Two verbs side by side with 'and'. 'Find out' treats the action as done.
 - 'Thanks, friend, I'm waiting for news.' 'News' is plural and takes an 'ey' ending after 'wait for'. 'Friend' is the casual form of address.

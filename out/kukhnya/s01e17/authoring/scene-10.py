@@ -10,9 +10,9 @@ PAIR = 'ru-en'
 LABELS = {'fedya': 'Федя', 'senya': 'Сеня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.17'
 SOURCE_FILE = 'sources/kukhnya/s01/e17.ru.dual.srt'
-INTRO = "The contest is over, and Fedya is still holding the plate of lamb chops he cooked for Barinov. The chef has already picked Senya's dish and left without tasting Fedya's. Fedya grumbles to Senya about it. We'll hear it in Russian first."
-OPENER = "Let's replay it a line at a time."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
+INTRO = "The contest is over, and Fedya is still holding the plate of lamb chops he cooked for Barinov. The chef has already picked Senya's dish and left without tasting Fedya's. Fedya grumbles to Senya about it. Listen to it in Russian first."
+OPENER = "Let's go over what we just heard."
+TRANSITION = 'Here is the whole conversation again.'
 OUTRO = "Fedya's chops are good, and Senya is generous enough to say so. Notice the phrase 's udovolstviem', literally 'with pleasure', which Russians use to say 'gladly'. See you next time!"
 CLOSING = ('senya', 'Пока!')
 STORY = [
@@ -32,16 +32,16 @@ STORY = [
 ]
 WALK = [
     (0, None, "'Here are my tasty chops for the chef.' 'Vot' points at the plate, and 'my' is plural to match the chops. 'For the chef' is a small word and an 'a' ending."),
-    (1, None, "'The chef has already chosen my meat dish.' 'Meat' is turned into an adjective, a sort of 'meaty dish'. 'Chosen' ends in 'l' for the masculine chef."),
+    (1, None, "'The chef has already chosen my meat dish.' 'Meat' is turned into an adjective, a sort of 'meaty dish'. 'Chosen' finishes with 'l' for the masculine chef."),
     (2, None, "'He didn't even taste my food!' 'Even' sits before 'not', and the word is the one for tasting once. 'Food' has a 'u' ending as the thing that was not tasted."),
     (3, None, "'Well, I came first.' 'First' takes an 'ym' ending, as if Senya came 'as first'. 'Came' has the masculine 'l' ending."),
     (4, None, "'I cooked these chops all morning.' Russian says 'all morning' with no 'during', just 'all' plus the morning. The 'ongoing' form of 'cook' suggests a long job."),
-    (5, None, "'Don't be so upset, friend.' 'Not necessary' plus the plain action word means 'don't'. 'Be upset' ends in 'sya' as it is something that happens to you."),
+    (5, None, "'Don't be so upset, friend.' 'Not necessary' plus the plain action word means 'don't'. 'Be upset' carries 'sya' as it is something that happens to you."),
     (6, None, "'But these are lamb chops with asparagus!' 'Lamb' becomes an adjective, as 'of lamb'. 'With' comes out as 'so' before a cluster of consonants, to make it easy to say."),
-    (7, None, "'Next time you'll definitely win.' 'Next time' is 'in the next time', with a small word for 'in'. 'Will win' is a finished action, which gives a future sense."),
-    (8, None, "'Do you want to try my new chops?' 'You want' is irregular and ends in 'sh' for the casual 'you'. The new chops are plural, so 'new' ends in 'ye'."),
-    (9, None, "'Sure, I'll gladly try.' The first word is a casual 'go ahead'. 'With pleasure' is how Russians say 'gladly'."),
-    (10, None, "'So how does it taste to you? Tell me honestly.' Russian says 'how to you taste', putting the taster in the 'to you' form. 'Honestly' ends in 'o', like many of the 'how' words."),
+    (7, None, "'Next time you'll definitely win.' 'Next time' is 'in the next time', with a small word for 'in'. 'Will win' is the completed kind, which gives a future sense."),
+    (8, None, "'Do you want to try my new chops?' 'You want' is irregular and ends in 'sh' for the casual 'you'. The new chops are plural, so 'new' finishes with 'ye'."),
+    (9, None, "'Sure, I'll gladly try.' The word at the start is a casual 'go ahead'. 'With pleasure' is how Russians say 'gladly'."),
+    (10, None, "'So how does it taste to you? Tell me honestly.' Russian says 'how to you taste', putting the taster in the 'to you' form. 'Honestly' carries 'o', like many of the 'how' words."),
     (11, None, "'Listen, this is really very tasty!' 'Listen' is a casual command, used like 'hey'. 'Tasty' has no 'is' with it."),
     (12, None, "'Then we'll eat it ourselves for lunch.' 'Ourselves' is a short word. 'Eat up' has a prefix that means finishing it all off."),
 ]

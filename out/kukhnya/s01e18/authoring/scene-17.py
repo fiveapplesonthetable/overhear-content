@@ -10,9 +10,9 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'nagiyev': 'Нагиев'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.18'
 SOURCE_FILE = 'sources/kukhnya/s01/e18.ru.dual.srt'
-INTRO = "Kristina's plans for the budget have landed on Nagiyev's desk, and he has decided to dismiss the highest-paid cooks. Barinov hears about it, and the two have a furious argument in the office. First, the Russian."
-OPENER = "Let's go over it a line at a time."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
+INTRO = "Kristina's plans for the budget have landed on Nagiyev's desk, and he has decided to dismiss the highest-paid cooks. Barinov hears about it, and the two have a furious argument in the office. Here it is in Russian."
+OPENER = "Let's walk through what each line is doing."
+TRANSITION = "Let's finish by hearing it all again."
 OUTRO = "Barinov threatens to quit, and Nagiyev has to talk him round. 'Uvolit'' means 'to fire', and add 'sya' and it becomes 'to quit', which is a neat little pair to remember. See you next time!"
 CLOSING = ('nagiyev', 'Пока!')
 STORY = [
@@ -34,16 +34,16 @@ STORY = [
 WALK = [
     (0, None, "'I have to fire your cooks.' 'Must' ends in a bare consonant, for a man. The cooks end in 'ov', which is the form for living things being acted on."),
     (1, None, "'Have you gone completely mad?' The words mean 'gone out of your mind'. Barinov uses the casual 'you'."),
-    (2, None, "'They cost too much.' Russian says 'stand expensively' where English says 'cost a lot'. 'Expensively' ends in 'o', like many words that say how."),
-    (3, None, "'That's nearly half a million every month.' 'Half a million' is a single word, with 'pol' for 'half'. 'Every month' needs no word for 'during'."),
+    (2, None, "'They cost too much.' Russian says 'stand expensively' where English says 'cost a lot'. 'Expensively' finishes with 'o', like many words that say how."),
+    (3, None, "'That's nearly half a million every month.' 'Half a million' comes as one word, with 'pol' for 'half'. 'Every month' needs no word for 'during'."),
     (4, None, "'You can't fire them.' 'Fire' is the ongoing form, which suits a refusal. 'Them' is a short word."),
     (5, None, "'It's the best team in Moscow.' 'Best' is the irregular word that doesn't look like 'good'. 'In Moscow' needs an 'e' on the end of the city's name."),
     (6, None, "'It's cheaper to find new people.' 'Cheaper' is the comparative of 'cheaply', in a single word. 'People' is the irregular plural."),
     (7, None, "'What difference does it make who cuts carrots?' 'Which difference' is the Russian for 'what difference'. 'Carrots' is a singular collective word."),
-    (8, None, "'It's my team!' There's no 'is'. 'My' ends in 'ya', since 'team' is feminine."),
-    (9, None, "'If you fire them, you'll lose me.' 'If' opens the condition, and both verbs are future ones. 'Lose' is a finished action."),
+    (8, None, "'It's my team!' There's no 'is'. 'My' carries 'ya', since 'team' is feminine."),
+    (9, None, "'If you fire them, you'll lose me.' 'If' opens the condition, and both verbs are future ones. 'Lose' is the completed kind."),
     (10, None, "'Just sit down and calm down.' Nagiyev uses a pet form of Barinov's name. 'Calm down' ends in 'sya', so it's 'calm yourself'."),
-    (11, None, "'All right, sort it out yourselves.' 'Sort out' ends in 'sya' and is plural and polite. 'Yourselves' is a handy little word."),
+    (11, None, "'All right, sort it out yourselves.' 'Sort out' finishes with 'sya' and is plural and polite. 'Yourselves' is a handy little word."),
     (12, None, "'And meanwhile I'm quitting.' The word is the one for 'fire', with 'sya' added, so it's 'fire myself'. 'Meanwhile' is a small word that is also used for 'bye'."),
-    (13, None, "'Wait, we'll work it all out.' 'Wait' is the casual command. 'We'll decide' is a finished action word."),
+    (13, None, "'Wait, we'll work it all out.' 'Wait' is the casual command. 'We'll decide' is an action seen as complete."),
 ]

@@ -28,7 +28,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Max, happy birthday to you!' Russians say 'I congratulate you with the day of birth'. The little word for 'with' makes both of the last words take an ending.
-- 'Thank you very much, my loyal friend.' 'Thanks' is neuter, so 'big' ends in 'oe'. 'Loyal' is the word you'd use for a faithful dog.
+- 'Thank you very much, my loyal friend.' 'Thanks' is neuter, so 'big' finishes with 'oe'. 'Loyal' is the word you'd use for a faithful dog.
 - 'I also congratulate you from the heart!' Russians say 'from the soul' where English says 'from the heart'. 'Also' is a short word before 'congratulate'.
 - 'Thank you, Nastya, I'm very pleased.' 'To me pleasant' is the Russian pattern, and it works for anything you're glad about. 'Very' goes before it.
 - 'And here is a gift for you.' 'Gift' comes from the verb for giving. 'And here' sets up the present.

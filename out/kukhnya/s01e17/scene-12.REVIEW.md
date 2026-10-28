@@ -27,15 +27,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Who are you? What is this?' Russian says 'you who such' for 'who are you', and it's rude as the casual 'you' is used. The second question has the same 'such' tucked in.
-- 'This is a new dish from the chef.' 'From' is the word for origin, so it's 'from the chef'. 'New' ends in 'oe' for the neuter dish.
+- 'This is a new dish from the chef.' 'From' is the word for origin, so it's 'from the chef'. 'New' finishes with 'oe' for the neuter dish.
 - 'Veal rolls with thin slices of ham.' 'Veal' comes from 'calf'. 'Of ham' takes a 'y' ending, and 'thin slices' goes in the plural.
 - 'I came up with it, the chef approved it.' 'Approved' comes from 'firm', as if he made it firm. Two short statements in a row.
 - 'A man invented a dish instead of the chef.' Nagiyev calls Senya just 'a man' to make it sound absurd. 'Instead of' is a single word, and the chef takes an 'a'.
 - 'The chef will be furious.' Russian says 'will be in fury'. The 'in' is a tiny word and fury takes an 'i' ending.
 - 'Not bad at all. Thank you.' 'Very not-bad' is a way to praise without gushing. 'Thanks' is a short, friendly word.
 - 'We also need a slicer for this dish in the kitchen.' 'Slicer' is borrowed from English. 'For this dish' has a 'dlya' and an 'a' ending.
-- 'What's that? I hope it's legal.' The word for 'legal' comes from 'law'. 'I hope' ends in 'sya', as one hopes for oneself.
+- 'What's that? I hope it's legal.' The word for 'legal' comes from 'law'. 'I hope' carries 'sya', as one hopes for oneself.
 - 'It's a gadget for slicing ham very thin.' 'Gadget' is colloquial and literally means 'a thing'. 'For slicing' is built from the verb for cutting.
-- 'Fine, we'll buy him this slicer.' 'Will buy' is a finished action, and 'him' takes the 'to him' form. Nagiyev gives in and spends someone else's money.
+- 'Fine, we'll buy him this slicer.' 'Will buy' is an action seen as complete, and 'him' takes the 'to him' form. Nagiyev gives in and spends someone else's money.
 - 'Let the man slice away.' 'Let' goes before the plain 'he slices'. 'Slices' is the noun in its 'with' form, as in 'with slices'.
 - 'After all, somebody has to invent dishes!' 'In the end of ends' is how Russian says 'after all'. 'Somebody' is built with a small 'to' tail, and 'must' follows.

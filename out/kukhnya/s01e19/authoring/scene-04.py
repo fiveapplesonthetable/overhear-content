@@ -10,9 +10,9 @@ PAIR = 'ru-en'
 LABELS = {'nagiyev': 'Нагиев', 'nastya': 'Настя', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.19'
 SOURCE_FILE = 'sources/kukhnya/s01/e19.ru.dual.srt'
-INTRO = "Nagiyev is showing his friend Igor around Claude Monet, boasting about everything. He calls the staff by the wrong names and proudly introduces his art director. We'll hear it in Russian first."
-OPENER = "Let's go through it one line at a time."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
+INTRO = 'Nagiyev is showing his friend Igor around Claude Monet, boasting about everything. He calls the staff by the wrong names and proudly introduces his art director. First, the Russian.'
+OPENER = 'Slowly this time.'
+TRANSITION = "Let's hear the whole thing again, start to finish."
 OUTRO = "Nagiyev has no idea who half his staff are, but he makes the tour sound grand. 'Voobshche-to' is a handy phrase for 'actually' when you're correcting someone. See you next time!"
 CLOSING = ('vika', 'До свидания!')
 STORY = [
@@ -40,7 +40,7 @@ WALK = [
     (6, None, "'I'm Nastya, actually.' 'Actually' has the little 'to' added, which sharpens the correction. There's no 'am'."),
     (7, None, "'She must be new.' 'New girl' is made by adding a small ending to 'new'. 'Probably' is one word."),
     (8, None, "'Well, let's keep going.' 'We'll go' works as 'let's go'. 'Further' is another handy small word."),
-    (9, None, "'Make us two coffees.' Coffee is masculine and never changes, so 'two' takes its masculine form. 'Make' is the casual command."),
+    (9, None, "'Make us two coffees.' Coffee is masculine and never changes, so 'two' takes its masculine form. 'Make' is the friendly command."),
     (10, None, "'This is Viktoria Sergeyevna.' He gives her first name and patronymic, the formal way. There's no 'is'."),
     (11, None, "'The art director of our restaurant.' 'Art director' is a hyphenated compound. 'Of our restaurant' takes an 'ogo' and an 'a'."),
     (12, None, "'Good afternoon.' The greeting means 'kind day'. Vika keeps it short and formal."),

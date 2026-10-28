@@ -11,8 +11,8 @@ LABELS = {'fedya': 'Федя', 'max': 'Макс', 'senya': 'Сеня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.19'
 SOURCE_FILE = 'sources/kukhnya/s01/e19.ru.dual.srt'
 INTRO = "In the kitchen, Max and some of the cooks are having a quick rest after a long morning when two familiar faces walk in. Senya and Fedya are back, and they have something to say about the people who stayed. We'll hear it in Russian first."
-OPENER = "Now let's walk through it one line at a time."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
+OPENER = 'Here it is again, piece by piece.'
+TRANSITION = 'Here is the whole conversation again.'
 OUTRO = "The old pair are back, as cheeky as ever. The word the cooks throw at each other, 'invalidy', is Barinov's favourite insult, and it has become the kitchen's password. See you next time!"
 CLOSING = ('max', 'До свидания!')
 STORY = [
@@ -38,8 +38,8 @@ WALK = [
     (5, None, "'Can't you see?' It is only 'don't you see', with the polite plural. Fedya is mocking."),
     (6, None, "'The pros have arrived.' 'Professionals' is a borrowed word, in the plural. 'Arrived' has the plural ending 'li'."),
     (7, None, "'You aren't professionals.' The 'not' goes in front of the noun. There's no 'are'."),
-    (8, None, "'You just talk a lot.' 'Just' and 'a lot' flank the verb. 'Talk' ends in 'ite', the polite plural."),
+    (8, None, "'You just talk a lot.' 'Just' and 'a lot' flank the verb. 'Talk' carries 'ite', the polite plural."),
     (9, None, "'We're telling the truth.' 'We tell' ends in 'im'. 'Truth' takes a 'u' ending."),
     (10, None, "'Go and work!' 'Go' is a polite plural command. The next word is the plain form 'to work'."),
-    (11, None, "'Okay, we're going.' 'We go' ends in 'yom'. The first word is a quick 'okay'."),
+    (11, None, "'Okay, we're going.' 'We go' finishes with 'yom'. The first word is a quick 'okay'."),
 ]

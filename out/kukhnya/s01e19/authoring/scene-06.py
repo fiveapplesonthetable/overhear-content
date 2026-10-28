@@ -10,9 +10,9 @@ PAIR = 'ru-en'
 LABELS = {'igor': 'Игорь', 'vika': 'Вика', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.19'
 SOURCE_FILE = 'sources/kukhnya/s01/e19.ru.dual.srt'
-INTRO = "Igor is about to leave Claude Monet when he stops Vika to ask her something personal. Max, who is standing close enough to hear, does not like the answer, or the question. We'll hear it in Russian first."
-OPENER = "Now let's replay it a line at a time."
-TRANSITION = "Now let's hear the whole scene once more from start to finish."
+INTRO = "Igor is about to leave Claude Monet when he stops Vika to ask her something personal. Max, who is standing close enough to hear, does not like the answer, or the question. Let's hear how it sounds in Russian."
+OPENER = 'Time for the details.'
+TRANSITION = 'Now it all together again, from the top.'
 OUTRO = "Max is jealous of a relationship he himself called open. Remember 'drug drugu'? Not here, but 'ni ... ni', meaning 'neither ... nor', is worth keeping for later. See you next time!"
 CLOSING = ('vika', 'До свидания!')
 STORY = [
@@ -41,5 +41,5 @@ WALK = [
     (8, None, "'No, why didn't you mention me?' 'Said' ends in 'a' here, since Max is speaking to Vika. 'About me' is a small word and 'menya'."),
     (9, None, "'Because he didn't ask about you.' 'Because' is two words, 'potomu chto'. 'Ask' is the ongoing kind, as for a question that never came."),
     (10, None, "'After all, we have an open relationship.' The small word 'ved' means 'after all'. 'We with you' is a Russian way to say 'you and I'."),
-    (11, None, "'Yes, but I don't like it at all.' 'To me it doesn't please' is the pattern. 'At all' is a single word."),
+    (11, None, "'Yes, but I don't like it at all.' 'To me it doesn't please' is the pattern. 'At all' comes as one word."),
 ]

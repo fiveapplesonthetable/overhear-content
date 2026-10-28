@@ -36,6 +36,6 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'We could negotiate.' The second word means 'it will work out', and it has no subject, no 'we' and no 'I'. Together they say 'to come to terms, it will succeed'.
 - 'There.' This little pointing word, 'vot', can mean 'here you are' or 'that's it', and here Barinov seems to have thought of something.
 - 'Though...' It's a hinge word, the kind you say when you are turning an idea around. Russians often let it hang.
-- 'If you save his life...' Barinov uses the casual 'you' with his staff. 'Will save' is a finished action, so the future is built into the ending.
+- 'If you save his life...' Barinov uses the casual 'you' with his staff. 'Will save' is an action seen as complete, so the future is built into the ending.
 - 'Maybe he will forgive us.' 'Maybe' is the same word as at the start of the scene. The little 'i' in the middle can mean 'even', so it's 'he might even forgive us'.
-- 'All right, Chef. I will try.' 'I will try' is the finished kind, meaning 'I'll give it a go'. Ainura calls her boss by his job title, as everyone in the kitchen does.
+- 'All right, Chef. I will try.' 'I will try' treats the action as done, meaning 'I'll give it a go'. Ainura calls her boss by his job title, as everyone in the kitchen does.

@@ -27,13 +27,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Meet Vika.' Russian says 'get acquainted', with the 'sya' ending meaning 'with each other'. The little word for 'this is' introduces her.
 - 'Actually, we know each other.' The first word has a small 'to' tacked on, which sharpens the correction. 'Acquainted' is plural, as she means both of them.
-- 'This is just Vika, my girlfriend.' 'Girl' also serves for 'girlfriend'. 'My' ends in 'ya' to match the feminine word.
+- 'This is just Vika, my girlfriend.' 'Girl' also serves for 'girlfriend'. 'My' carries 'ya' to match the feminine word.
 - 'And this is Nastya, my friend.' A female friend and a male friend have different words, so this one ends in 'a'. The opening 'and' just switches to the next person.
 - 'Let's drink to the meeting.' The small word for 'to' in a toast is the same one that means 'for'. 'Meeting' takes a 'u' ending after it.
 - 'Why didn't you tell me she would be here?' The 'a' stays off, and 'told' ends in a bare 'l' for Max. 'Will be' is a short word that comes just after 'she'.
 - 'We spend a lot of time together.' After 'a lot', 'time' takes a different ending. 'Spend' is built from 'to lead through'.
 - 'We should probably be going.' 'Probably' is one word, and 'we will go' is the soft way to say 'we're off'. It's a polite excuse.
-- 'It's time for us to go home.' 'To us' stands for 'we', and 'time' means 'it's time'. 'Home' is a single word of direction.
+- 'It's time for us to go home.' 'To us' stands for 'we', and 'time' means 'it's time'. 'Home' is one word on its own of direction.
 - 'You stay, and we're leaving.' The command is the plural polite one. The small 'a' in the middle sets the two groups against each other.
 - 'Kostya, let's go.' The past form of 'go' is used as a casual 'let's go'. It's short, brisk and rude.
-- 'Kostya, hey, where are you going?' The first word is a filler like 'come on'. There's no verb at all, just 'where to', and that's enough.
+- 'Kostya, hey, where are you going?' The opening word is a filler like 'come on'. There's no verb at all, just 'where to', and that's enough.

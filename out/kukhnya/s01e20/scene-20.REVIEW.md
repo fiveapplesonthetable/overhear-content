@@ -26,14 +26,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Hello.' This is the clipped version of the long hello, with half the letters dropped. It's what you say to someone at the door.
-- 'Good morning.' The word for 'morning' is neuter, so the word for 'good' ends in 'oe'. A plain greeting.
+- 'Good morning.' The word for 'morning' is neuter, so the Russian for 'good' finishes with 'oe'. A plain greeting.
 - 'Is that Max?' There's no verb, just 'this Max'. The question lives on the voice.
 - 'Yes, that's me.' Russian says 'this I' where English says 'that's me'. 'I' stays in its plain form.
-- 'I'm looking for him.' The word for 'look for' changes its consonants, so 'sk' turns into 'shch', and the word for 'him' takes the 'yego' form.
-- 'I can't get through to him at home.' The word for 'get through' is built from 'ring' with a prefix and 'sya', and 'at home' is one word.
+- 'I'm looking for him.' The Russian for 'look for' changes its consonants, so 'sk' turns into 'shch', and the word for 'him' takes the 'yego' form.
+- 'I can't get through to him at home.' The Russian for 'get through' is built from 'ring' with a prefix and 'sya', and 'at home' is one word.
 - 'Where is he?' There's no 'is', just 'where he'. A very short question.
-- 'I don't know.' The word for 'I know' ends in 'u', and the word for 'not' stands in front.
-- 'Probably the keys are hanging there.' Russians say keys 'hang', and the word for 'probably' is a single word.
-- 'So he's at home.' The word for 'it means' is used for 'so'. 'At home' needs no word for 'is'.
-- 'Do you want to come in?' The word for 'come in' is the plain form, and the word for 'do you want' is the polite plural.
+- 'I don't know.' The Russian for 'I know' finishes with 'u', and the word for 'not' stands in front.
+- 'Probably the keys are hanging there.' Russians say keys 'hang', and the Russian for 'probably' is one word on its own.
+- 'So he's at home.' The Russian for 'it means' is used for 'so'. 'At home' needs no word for 'is'.
+- 'Do you want to come in?' The word for 'come in' is the plain form, and the Russian for 'do you want' is the polite plural.
 - 'Come in.' The polite command, ending in 'ite', is the usual invitation. Max says it simply.

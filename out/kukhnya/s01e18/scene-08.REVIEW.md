@@ -30,12 +30,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I never thought I would agree with you.' The 'a' on 'thought' tells you a woman is speaking. 'With you' is the irregular 'toboy', which has to be learned.
 - 'He wants to wreck all the work of our restaurant.' Two 'of' forms stack up: 'of the work', 'of the restaurant'. 'Wreck' is a strong word, close to 'ruin'.
 - 'He made us turn off the light, even in the dining room.' 'Made' is a word followed by the plain 'turn off'. 'Even' goes before 'in the hall'.
-- 'And he demands that we buy the cheapest meat.' 'Cheapest' is made with 'most' in front of 'cheap'. 'Meat' is neuter, so 'cheap' ends in 'oe'.
+- 'And he demands that we buy the cheapest meat.' 'Cheapest' is made with 'most' in front of 'cheap'. 'Meat' is neuter, so 'cheap' carries 'oe'.
 - 'Guests are already starting to criticise our restaurant loudly.' 'Start' is followed by the plain 'scold'. 'Loudly' comes from the word for thunder.
 - 'We must urgently stop this terrible nightmare.' 'Nightmare' is borrowed from French. 'Urgently' is a word that sounds like an order.
-- 'But what exactly can we do right now?' 'Exactly' is one word. 'We can' is a single word too.
+- 'But what exactly can we do right now?' 'Exactly' is one word. 'We can' is just one word too.
 - 'We have to act together against a common enemy.' 'Against' brings the 'of' form, so 'common' and 'enemy' both change. 'Together' is another handy word.
 - 'Are you proposing to fight our greedy owner?' 'Fight' ends in 'sya' and is followed by 'against'. 'Greedy' and 'owner' both take the 'of' ending.
-- 'We'll protect the restaurant and restore normal order.' 'Order' is the word that Russians use for 'in order', as in 'all is in order'. 'We'll protect' is a finished action.
+- 'We'll protect the restaurant and restore normal order.' 'Order' is the word that Russians use for 'in order', as in 'all is in order'. 'We'll protect' treats the action as done.
 - 'Fine, let's calmly work out a good plan together.' 'Let's' is made with 'davay' and the 'we' form. Vika uses the casual 'you' for the first time with him.
 - 'Great, together we will certainly defeat this greed!' 'Defeat' comes from 'victory'. 'Greed' is made from 'greedy' by adding the ending 'ost'.

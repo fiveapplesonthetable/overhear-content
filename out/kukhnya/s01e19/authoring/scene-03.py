@@ -11,8 +11,8 @@ LABELS = {'kostya': 'Костя', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.19'
 SOURCE_FILE = 'sources/kukhnya/s01/e19.ru.dual.srt'
 INTRO = "The morning after, Max is surprised to find Kostya at home when he should be at work. Kostya has bad news, and Max has some of his own. We'll hear it in Russian first."
-OPENER = "Let's replay it step by step."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
+OPENER = "Now let's look at what was said."
+TRANSITION = 'Now the whole conversation once more, from start to finish.'
 OUTRO = "Both friends are in the same boat: no jobs, and troubles with women. Remember 'menya uvolili', literally 'me they fired', which is the standard way to say you've lost your job. See you next time!"
 CLOSING = ('kostya', 'До свидания!')
 STORY = [
@@ -30,10 +30,10 @@ STORY = [
     ('kostya', 'Она все усложнять начала.', 'She started making everything complicated.', [(39, 'Она все усложнять начала.')], ''),
 ]
 WALK = [
-    (0, None, "'What are you doing here?' 'Doing' ends in 'esh' for the casual 'you'. 'Here' is the casual word."),
+    (0, None, "'What are you doing here?' 'Doing' finishes with 'esh' for the casual 'you'. 'Here' is the casual word."),
     (1, None, "'Why aren't you at work?' 'What' is used for 'why' in casual talk. 'At work' uses 'on' and an 'e' ending."),
-    (2, None, "'Another interrogation.' 'Again' is a single word, and 'interrogation' is the same as in the last scene. Kostya has heard this one before."),
-    (3, None, "'Did you two plan this, or what?' 'Plotted together' ends in 's', for 'with each other'. 'Or something' is made with a small tag 'li' on 'what'."),
+    (2, None, "'Another interrogation.' 'Again' is just one word, and 'interrogation' is the same as in the last scene. Kostya has heard this one before."),
+    (3, None, "'Did you two plan this, or what?' 'Plotted together' carries 's', for 'with each other'. 'Or something' is made with a small tag 'li' on 'what'."),
     (4, None, "'I'm on the second shift today.' 'On the second shift' is 'in the second shift', with the object form. 'Second' comes from 'two'."),
     (5, None, "'Great, I'll come with you.' 'I'll go' is a future form for going by vehicle. 'With you' is the irregular 'toboy'."),
     (6, None, "'Maybe you forgot.' 'Maybe' is a short word. 'Forgot' ends in the masculine 'l'."),
@@ -41,5 +41,5 @@ WALK = [
     (8, None, "'I got fired.' Russian says 'me they fired', putting 'me' first. 'They fired' has no 'they', only an ending."),
     (9, None, "'Why didn't you stay at Vika's?' 'At Vika's' is 'at Vika', with the name taking an 'i' ending. 'Stayed' ends in 'sya'."),
     (10, None, "'She didn't let me in.' The 'a' on 'let in' says it's a woman. 'Me' takes the 'a' form."),
-    (11, None, "'She started making everything complicated.' 'Complicate' is built from 'complex', with a prefix. 'Started' ends in 'a', for a woman."),
+    (11, None, "'She started making everything complicated.' 'Complicate' is built from 'complex', with a prefix. 'Started' finishes with 'a', for a woman."),
 ]

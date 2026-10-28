@@ -25,14 +25,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I worry.' The word means both 'worry' and 'go through feelings'. It ends in 'yu' for 'I'.
+- 'I worry.' The word means both 'worry' and 'go through feelings'. It carries 'yu' for 'I'.
 - 'Don't worry so much.' A negative command uses the ongoing form. 'So' sits in front of 'much'.
 - 'Why?' One word, 'pochemu'. Vika wants the reason.
 - 'The main thing is that we're together.' 'Main' comes from 'head'. 'That' joins the two halves.
 - 'That is the main thing.' 'This main' is the sentence, without 'is'. Vika repeats his idea.
 - 'For some people it's easier to lose everything.' 'Someone' is built with a tail on 'who', in the 'to' form. 'Easier' comes from 'simple'.
 - 'What for?' This is the word for purpose, not cause. It's one short word.
-- 'In order to understand.' 'In order to' is a single word, 'chtoby'. It is followed by the plain form.
+- 'In order to understand.' 'In order to' is one word on its own, 'chtoby'. It is followed by the plain form.
 - 'To understand what?' The question word comes after the verb. It's a quick way to ask for the missing piece.
 - 'How precious it was.' 'How much' begins it, and 'dear' follows. The word 'was' is neuter, to go with 'this'.
 - 'We don't need to lose.' 'To us not necessary' is the pattern. The plain 'lose' follows.

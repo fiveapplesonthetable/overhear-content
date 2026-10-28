@@ -29,19 +29,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Beautiful ring.' There's no verb at all. The word for 'ring' is neuter, so the word for 'beautiful' ends in 'oe'.
-- 'Max gave it.' The word for 'gave away' has the prefix 'ot', meaning 'off'. The name is unchanged because Max is the one doing the giving.
+- 'Beautiful ring.' There's no verb at all. The Russian for 'ring' is neuter, so the word for 'beautiful' carries 'oe'.
+- 'Max gave it.' The Russian for 'gave away' has the prefix 'ot', meaning 'off'. The name is unchanged because Max is the one doing the giving.
 - 'Max? Eleonora Andreyevna, please.' The woman is addressed with first name and patronymic. 'I ask' is used as a polite 'after you'.
-- 'Eat, eat, the boss is paying.' The word for 'eat' here is slangy and doubled, and the word for 'boss' really means the owner of the place.
+- 'Eat, eat, the boss is paying.' The Russian for 'eat' here is slangy and doubled, and the word for 'boss' really means the owner of the place.
 - 'Oh, look who it is. Hello.' The words for 'look who' are just 'look, who'. The word for hello is the long polite one.
 - 'Am I interrupting? Viktor Petrovich, I know what happened.' 'Won't I disturb' is the polite way to ask if you are interrupting. The phrase 'in the course' means 'up to date'.
-- 'I'm very sorry for you. And I want to say you're a real professional.' The word for 'sympathise' takes 'to you', and the word for 'real' means 'genuine'.
+- 'I'm very sorry for you. And I want to say you're a real professional.' The Russian for 'sympathise' takes 'to you', and the Russian for 'real' means 'genuine'.
 - 'Honestly. Whatever happened, whatever.' The phrase 'in any case' is three small words, and 'whatever it was' is made with 'chto by ni'.
 - 'What are you talking about?' There's no verb here, just 'you in general about what'. 'About what' is two small words.
 - 'We had a hard time, you and I.' The phrase 'at us with you' means 'between us', and the words 'why hide the sin' are the idiom for 'no point denying it'.
 - 'But thanks to you, it all worked out. Thank you for being you.' The word for 'thanks to' takes the 'to you' form, and 'for you' is a toast.
-- 'Did you sell the restaurant?' 'You what' is a casual opening. The word for 'sold' ends in the masculine 'l'.
+- 'Did you sell the restaurant?' 'You what' is a casual opening. The Russian for 'sold' ends in the masculine 'l'.
 - 'To you. Come on, let's go.' 'To you' is the toast again, with 'za'. Doubling 'let's go' makes it a gentle push.
-- 'How could you? We fixed everything.' The word for 'could' ends in a bare 'g', and 'we fixed' is a finished action, with the word 'zhe' for emphasis.
+- 'How could you? We fixed everything.' The Russian for 'could' ends in a bare 'g', and 'we fixed' treats the action as done, with the word 'zhe' for emphasis.
 - 'Don't yell. It's business. Just business.' The word for 'yell' is a rough one. 'Business' is a borrowed word, and 'just' sits before it.
-- 'Trust me, it's better to sell on a high.' The word for 'better' is one word, and 'on a high' is built from the word for 'rise'.
+- 'Trust me, it's better to sell on a high.' The Russian for 'better' is one word, and 'on a high' is built from the Russian for 'rise'.

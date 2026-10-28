@@ -25,7 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hi, Vika, I was just thinking.' 'Here' is used as a filler. The 'thought' is the finished kind, so it means a thought that has arrived.
+- 'Hi, Vika, I was just thinking.' 'Here' is used as a filler. The 'thought' is a once-and-done action, so it means a thought that has arrived.
 - 'Anyway, this is for you.' The opening is a stock phrase, 'in general'. 'This to you' means 'this is for you'.
 - 'How unexpected, thank you very much!' 'Unexpected' is 'not' plus 'expected', stuck together. 'How' plus an adverb makes an exclamation.
 - 'Listen, maybe we could go somewhere tonight?' 'We'll go' is the kind of going that comes back, so it suits an outing. 'Somewhere' is built with a tail on 'where to'.
@@ -33,7 +33,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I have an important business meeting.' 'Business' is an adjective made from 'matter'. 'At me' stands for 'I have'.
 - 'Excuse me, are you Viktoria Goncharova, the art director?' There is no 'are', only 'you' and the name. 'Excuse me' is the polite word.
 - 'Yes, that's me.' Russian says 'this I', where English says 'that's me'. The 'I' stays in its plain form.
-- 'Then this is for you, sign here.' 'Sign' ends in 'sya', so it means 'sign yourself'. 'For you' is the polite 'vam'.
+- 'Then this is for you, sign here.' 'Sign' finishes with 'sya', so it means 'sign yourself'. 'For you' is the polite 'vam'.
 - 'How beautiful! Max, hold these, please.' 'What beauty' is the Russian exclamation, with 'beauty' as a noun. 'Hold' is the casual command.
 - 'Thank you for the lovely flowers.' 'Wonderful' is built from 'miracle'. 'Flowers' is plural, with a 'y' ending.
 - 'We need to put them quickly in water.' Russians say flowers 'stand' in water, so the word is the one for standing something up. 'In water' needs an 'u' ending.

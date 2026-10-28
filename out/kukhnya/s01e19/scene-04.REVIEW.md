@@ -35,7 +35,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I'm Nastya, actually.' 'Actually' has the little 'to' added, which sharpens the correction. There's no 'am'.
 - 'She must be new.' 'New girl' is made by adding a small ending to 'new'. 'Probably' is one word.
 - 'Well, let's keep going.' 'We'll go' works as 'let's go'. 'Further' is another handy small word.
-- 'Make us two coffees.' Coffee is masculine and never changes, so 'two' takes its masculine form. 'Make' is the casual command.
+- 'Make us two coffees.' Coffee is masculine and never changes, so 'two' takes its masculine form. 'Make' is the friendly command.
 - 'This is Viktoria Sergeyevna.' He gives her first name and patronymic, the formal way. There's no 'is'.
 - 'The art director of our restaurant.' 'Art director' is a hyphenated compound. 'Of our restaurant' takes an 'ogo' and an 'a'.
 - 'Good afternoon.' The greeting means 'kind day'. Vika keeps it short and formal.

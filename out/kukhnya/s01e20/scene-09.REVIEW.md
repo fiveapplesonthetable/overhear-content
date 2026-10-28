@@ -28,16 +28,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Now let's talk.' 'And now' opens the line. The word 'davay' plus a 'we' form makes the invitation 'let's talk'.
-- 'Remember we're supposed to take a new step?' The word for 'you remember' ends in 'sh', and 'take a step' is literally 'make a step'.
-- 'I have a feeling you're not ready yet.' The phrase 'at me there is' stands for 'I have', and the word for 'ready' is a short masculine form.
+- 'Remember we're supposed to take a new step?' The word for 'you remember' finishes with 'sh', and 'take a step' is literally 'make a step'.
+- 'I have a feeling you're not ready yet.' The phrase 'at me there is' stands for 'I have', and the Russian for 'ready' is a short masculine form.
 - 'Me?' Just 'I', and the rising voice. Kostya is startled.
-- 'I'm ready.' The word for 'ready' is a short masculine form, so it has no ending, and there is no word for 'am'.
+- 'I'm ready.' The Russian for 'ready' is a short masculine form, so it has no ending, and there is no word for 'am'.
 - 'Sure?' is one word, 'tochno', which means 'exactly?' and works as 'are you sure?'.
 - 'Sure.' He repeats the word as a statement. Repeating is the way to say yes.
 - 'Then I'm inviting my parents for the weekend.' 'Weekend' is 'the days off', in the plural. 'Parents' only exists in the plural.
 - 'Okay.' A casual 'ladno' that means 'all right'. He hasn't yet understood.
-- 'Wait, your parents?' 'Your' and 'parents' both end in 'ey' or 'ikh', as they are people being acted on. 'Wait' is the casual command.
+- 'Wait, your parents?' 'Your' and 'parents' both end in 'ey' or 'ikh', as they are people being acted on. 'Wait' is the informal order.
 - 'Yes, my mum and dad.' 'Mum' and 'dad' both end in 'u' as the object. Both nouns end in 'a', though one is masculine.
 - 'To our flat?' 'To our flat' is a direction, with 'u' on both words. The question is the tone.
 - 'Of course, where else?' 'Where to' asks about direction. 'Else' is a small word that follows it.
-- 'I need to tidy the room.' The word for 'tidy' is built from 'take away', and the word for 'room' takes a 'u' ending.
+- 'I need to tidy the room.' The word for 'tidy' is built from 'take away', and the Russian for 'room' takes a 'u' ending.

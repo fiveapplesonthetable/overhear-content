@@ -29,15 +29,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Vika, I heard it's your birthday.' 'At you birthday' stands for 'you have a birthday'. 'You' is the polite 'vas'.
 - 'I have a beautiful gift for you.' 'At me there is' stands for 'I have'. 'For you' takes the 'a' form, 'vas'.
-- 'Oh my God! It's a very expensive painting.' 'Bozhe' is the form used when you call out to heaven. 'Painting' is the one for 'picture', and ends in 'a'.
+- 'Oh my God! It's a very expensive painting.' 'Bozhe' is the form used when you call out to heaven. 'Painting' is the one for 'picture', and carries 'a'.
 - 'The main thing is that you like it very much.' 'It pleases you' is the pattern, with 'it' as the subject. 'The main thing' comes from 'head'.
 - 'Thank you very much, he's my favourite artist.' 'Favourite' comes from 'love'. 'Artist' is a masculine noun.
-- 'And I see you're having a good time here.' 'I look' is how the sentence begins, meaning 'I see'. 'Enjoy yourselves' ends in 'sya'.
-- 'Max, what are you doing? Get out of here.' 'Doing' ends in 'sh', for the casual 'you'. 'Get out of here' is 'go from here'.
-- 'I want to drink to an amazing girl.' 'To' in a toast is 'za', followed by the object form. 'Amazing' comes from the word for 'surprise'.
+- 'And I see you're having a good time here.' 'I look' is how the sentence begins, meaning 'I see'. 'Enjoy yourselves' carries 'sya'.
+- 'Max, what are you doing? Get out of here.' 'Doing' finishes with 'sh', for the casual 'you'. 'Get out of here' is 'go from here'.
+- 'I want to drink to an amazing girl.' 'To' in a toast is 'za', followed by the object form. 'Amazing' comes from the Russian for 'surprise'.
 - 'Max, you're drunk. Let's step out, please.' 'Drunk' is a short masculine form, without an ending. 'Let's go, let's go out' are two 'we' forms.
-- 'Wait, I haven't given my gift yet.' 'Gave as a gift' is the finished kind, with 'not' before it. 'My own gift' uses the special pointing-back word.
-- 'I don't need your silly presents right now.' 'Needed' is plural, to go with 'presents'. 'Silly' ends in 'ye' for the plural.
-- 'Look, it's a beautiful ring for you.' 'Look' is the casual command. 'For you' is the casual 'tebya'.
-- 'Excuse me, I'll probably go now.' 'Probably' is one word. 'I'll go' is a finished action.
-- 'No, stay. Max, you've lost your mind!' 'Stay' ends in 'tes', which is the polite plural command with 'sya'. 'Went off from mind' is the idiom for 'lost your mind'.
+- 'Wait, I haven't given my gift yet.' 'Gave as a gift' is the completed kind, with 'not' before it. 'My own gift' uses the special pointing-back word.
+- 'I don't need your silly presents right now.' 'Needed' is plural, to go with 'presents'. 'Silly' carries 'ye' for the plural.
+- 'Look, it's a beautiful ring for you.' 'Look' is the informal order. 'For you' is the casual 'tebya'.
+- 'Excuse me, I'll probably go now.' 'Probably' is one word. 'I'll go' is an action seen as complete.
+- 'No, stay. Max, you've lost your mind!' 'Stay' finishes with 'tes', which is the polite plural command with 'sya'. 'Went off from mind' is the idiom for 'lost your mind'.

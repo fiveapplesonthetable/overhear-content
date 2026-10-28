@@ -11,8 +11,8 @@ LABELS = {'barinov': 'Шеф', 'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.17'
 SOURCE_FILE = 'sources/kukhnya/s01/e17.ru.dual.srt'
 INTRO = "Two scenes are cut together here. Barinov is sitting in the rival restaurant, reading the menu and finding it ridiculous. Back at Claude Monet, Vika asks Max about the kitchen and spots the ticket his friends gave him. We'll hear it in Russian first."
-OPENER = "Let's take it apart a line at a time."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
+OPENER = 'Here is the same thing, explained.'
+TRANSITION = 'Now it all together again, from the top.'
 OUTRO = "Barinov sneers at the menu, and Vika finds a ticket that has only one seat. Remember 'nu i chto', a handy way to say 'so, what have we got?'. See you next time!"
 CLOSING = ('max', 'Пока!')
 STORY = [
@@ -32,18 +32,18 @@ STORY = [
     ('max', 'Вика, мои друзья меня точно поймут.', 'Vika, my friends will definitely understand me.', [(264, 'они меня поймут')], ''),
 ]
 WALK = [
-    (0, None, "'We already have the menu, thank you very much.' Russian says 'the menu is already at us'. 'Thanks' is neuter, so 'big' ends in 'oe'."),
+    (0, None, "'We already have the menu, thank you very much.' Russian says 'the menu is already at us'. 'Thanks' is neuter, so 'big' carries 'oe'."),
     (1, None, "'So what have we got here?' The opening 'nu i' is 'well and', a way to move on. 'At us' stands for 'we've got'."),
     (2, None, "'There's Russian, French and Japanese cuisine here.' Nationality words don't get a capital letter in Russian. All three share one noun at the end, so each ends in 'aya'."),
     (3, None, "'They call this the cuisine of the whole world.' 'They call' has no 'they', as in many Russian sentences about nobody in particular. The 'world' takes an 'a' ending to make 'of the world'."),
     (4, None, "'They have pizza, sushi and borscht.' 'Here there is' covers it. Pizza and sushi are borrowed, but borscht is as Russian as it gets."),
     (5, None, "'Max, how are things going in the kitchen?' 'Matters go' is the idiom, and 'matters' is plural. 'In the kitchen' uses 'on' with an 'e' ending."),
-    (6, None, "'Everything is fine, we're working calmly.' 'Everything is fine' is just 'everything well', with no 'is'. 'Calmly' ends in 'o', like many words that tell you how."),
+    (6, None, "'Everything is fine, we're working calmly.' 'Everything is fine' is just 'everything well', with no 'is'. 'Calmly' finishes with 'o', like many words that tell you how."),
     (7, None, "'I thought of a dish for the holiday dinner.' The 'a' on the end of 'thought of' says Vika is a woman. 'Holiday' becomes an adjective, built from 'holiday'."),
     (8, None, "'That is simply great, thank you very much.' 'Great' is a colloquial word that grows out of 'health'. 'Simply' is the word you hear everywhere."),
     (9, None, "'Wait, what kind of ticket is this?' The 'wait' command is the casual one. 'What kind of' is made with 'chto za'."),
     (10, None, "'Nastya and Kostya gave me a ticket to the club.' 'Gave as a gift' is a particular word, with the 'li' ending. 'To the club' is a direction, so the club doesn't change."),
     (11, None, "'So there's only one ticket?' The opening word is 'it means', which works as 'so'. 'Only' goes in front of 'one', and the whole question lives on the rising voice."),
     (12, None, "'Should I cook dinner tonight or not?' Russian leaves out 'should' and says 'to me to cook?'. 'Or not' closes the question."),
-    (13, None, "'Vika, my friends will definitely understand me.' 'Will understand' is a finished action, in the plural. 'Me' takes the 'a' ending of 'menya'."),
+    (13, None, "'Vika, my friends will definitely understand me.' 'Will understand' treats the action as done, in the plural. 'Me' takes the 'a' ending of 'menya'."),
 ]

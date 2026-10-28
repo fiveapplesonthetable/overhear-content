@@ -27,15 +27,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Nastya said that we're climbing a staircase.' 'Said that' is two words. 'Staircase' is feminine and goes after a small word.
-- 'And that if we stop we'll smash ourselves up.' 'Smash' ends in 'sya', and the 'we' ending marks the future. 'If' opens the condition.
-- 'I didn't understand a thing.' 'Nothing' and 'not' appear together. 'Understood' ends in 'l', for a man.
+- 'And that if we stop we'll smash ourselves up.' The word for 'smash' carries 'sya', and the 'we' ending marks the future. 'If' opens the condition.
+- 'I didn't understand a thing.' The words 'nothing' and 'not' appear together. The word for 'understood' finishes with 'l', for a man.
 - 'What didn't you understand?' The casual 'chyo' stands for 'what'. 'A' at the start means 'and'.
-- 'She's hinting at a wedding.' 'Hint' goes with 'on', so it hints 'on' a wedding. 'Wedding' takes a 'u' ending.
-- 'Come on, are you serious?' 'Da ladno' means something like 'no way'. 'Serious' becomes 'seriously' with an 'o' ending.
-- 'Pretend you didn't understand anything.' The phrase is 'make a look'. 'Make' is the casual command.
+- 'She's hinting at a wedding.' The word for 'hint' goes with 'on', so it hints 'on' a wedding. The word for 'wedding' takes a 'u' ending.
+- 'Come on, are you serious?' 'Da ladno' means something like 'no way'. The word for 'serious' becomes 'seriously' with an 'o' ending.
+- 'Pretend you didn't understand anything.' The phrase is 'make a look', and the word for 'make' is the casual command.
 - 'But I really didn't understand anything.' 'I tak' means 'anyway' or 'as it is'. It sits before the 'nothing'.
-- 'Well, then you won't even have to lie.' The word for 'will have to' has no subject, so it's 'to lie it will not come'. 'To you' sits at the front.
-- 'What is it? What did she send?' 'What there' is the casual question. 'Sent' ends in 'a' and has a prefix meaning 'toward'.
-- 'She sent me a photo of a beautiful ring.' 'Photo' never changes. 'Of a beautiful ring' needs an 'ogo' and an 'a'.
-- 'She's hinting at an expensive present.' 'Hints' goes with 'on', again. 'Expensive' ends in 'oy' as the word after 'on'.
+- 'Well, then you won't even have to lie.' The Russian for 'will have to' has no subject, so it's 'to lie it will not come'. 'To you' sits at the front.
+- 'What is it? What did she send?' 'What there' is the casual question. 'Sent' finishes with 'a' and has a prefix meaning 'toward'.
+- 'She sent me a photo of a beautiful ring.' The word 'photo' never changes. 'Of a beautiful ring' needs an 'ogo' and an 'a'.
+- 'She's hinting at an expensive present.' The word for 'hints' goes with 'on', again. The word for 'expensive' takes 'oy' after 'on'.
 - 'I'd have to work for a year to afford it.' 'To me on it a year to work' is the order. 'On it' picks up an 'n', so it's 'na nego'.

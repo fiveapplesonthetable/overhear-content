@@ -38,4 +38,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'And clever people seat them in the dining room.' 'People' is irregular, a plural that looks nothing like 'person'. 'Seat' is the verb that means to make someone sit.
 - 'But this apple strudel is simply wonderful!' No 'is' again, just 'strudel simply wonderful'. The strudel is a German loan, and the sentence is the inspector's only flash of joy.
 - 'Today the delicious dessert saved you.' The 'saved' of a masculine thing ends in a bare 's', with no extra letter. Word order is the same as English, with the dessert as the hero.
-- 'All right, thank you very much!' 'Thanks' is a neuter noun, so 'big' ends in 'oe' to agree with it. Ainura puts 'you' in between, which is polite.
+- 'All right, thank you very much!' 'Thanks' is a neuter noun, so 'big' finishes with 'oe' to agree with it. Ainura puts 'you' in between, which is polite.

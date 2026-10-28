@@ -10,9 +10,9 @@ PAIR = 'ru-en'
 LABELS = {'guest': 'Гость', 'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.20'
 SOURCE_FILE = 'sources/kukhnya/s01/e20.ru.dual.srt'
-INTRO = "Vika has pulled Max outside, and they have it out in the street. She is embarrassed, he is jealous, and he is too drunk to listen. We'll hear it in Russian first."
-OPENER = "Now let's go through it carefully."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
+INTRO = "Vika has pulled Max outside, and they have it out in the street. She is embarrassed, he is jealous, and he is too drunk to listen. Let's hear how it sounds in Russian."
+OPENER = 'Back to the start, then, with the details.'
+TRANSITION = 'Here is the whole conversation again.'
 OUTRO = "Max retires, feeling misunderstood, and Vika walks away. 'Stydno' means 'ashamed', and Russians say 'to me ashamed' rather than 'I am ashamed'. See you next time!"
 CLOSING = ('vika', 'До свидания!')
 STORY = [
@@ -33,17 +33,17 @@ STORY = [
 ]
 WALK = [
     (0, None, "'Come on, Max, let's go outside now.' 'We'll go' is used as 'let's go'. 'Outside' is 'onto the street', with an 'u' ending."),
-    (1, None, "'What did I do? I just gave you a gift.' 'Did' ends in 'l' for a man. 'Gave' is the irregular 'dal'."),
+    (1, None, "'What did I do? I just gave you a gift.' 'Did' finishes with 'l' for a man. 'Gave' is the irregular 'dal'."),
     (2, None, "'How are you behaving? I'm very ashamed.' 'Behave' is 'lead yourself'. Russian says 'to me ashamed', not 'I am ashamed'."),
     (3, None, "'Aren't you ashamed that he kisses your hands?' 'To you ashamed' has the same pattern. 'Hands' is plural, and the singular looks different."),
     (4, None, "'He's a good man and he behaves properly.' 'Properly' is made from 'normal'. 'Behaves' has 'yourself' inside it."),
     (5, None, "'Maybe you'll go out with him?' 'Date' is built from 'meet', with 'sya'. 'With him' picks up an 'n'."),
     (6, None, "'You're talking nonsense, Max. I don't understand you.' 'Nonsense' is plural in Russian. 'You' takes the 'a' form."),
-    (7, None, "'He gives you expensive gifts. Be grateful.' 'Be' is the command form of 'to be'. 'Grateful' ends in 'oy'."),
+    (7, None, "'He gives you expensive gifts. Be grateful.' 'Be' is the command form of 'to be'. 'Grateful' carries 'oy'."),
     (8, None, "'Fine, if you want it that way, I'll do it.' 'If' opens the condition. 'So' is a small word that appears twice."),
     (9, None, "'Great, go to him and kiss his hands.' 'To him' picks up an 'n'. 'Kiss' is the command form."),
     (10, None, "'You're just a fool, Max. I'm leaving.' 'Fool' is a short, blunt word. 'I'm leaving' is the ongoing kind."),
     (11, None, "'Excuse me, is that normal? Do you think that's normal?' 'Normal' is used for 'okay' or 'acceptable'. 'You think' is polite, plural."),
-    (12, None, "'I think you're just a drunken fool.' 'Drunken' ends in 'yy', for a masculine word. 'That' joins the two parts."),
+    (12, None, "'I think you're just a drunken fool.' 'Drunken' finishes with 'yy', for a masculine word. 'That' joins the two parts."),
     (13, None, "'Nobody understands me today. I'm going to bed.' 'Nobody' and 'not' are together. 'I'll go sleep' is two words, with no 'to'."),
 ]

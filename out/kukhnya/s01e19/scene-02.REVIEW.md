@@ -31,7 +31,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Senya was fired.' The name changes its ending to 'yu' because Senya is the one affected. 'Fired' has the plural 'li', for an unnamed 'they'.
 - 'I don't care who you are.' The phrase is literally 'to me, to spit'. It's a rude, informal way to say you don't care.
 - 'Today you're Senya.' No 'are' again. 'Today' sits in front of 'you', and the name stays as it is.
-- 'Fedya would have done that quickly.' The small word 'by' after the name is what makes it 'would'. 'Did' is the finished kind, ending in 'l'.
+- 'Fedya would have done that quickly.' The small word 'by' after the name is what makes it 'would'. 'Did' treats the action as done, ending in 'l'.
 - 'I'm Fedya too, Chef.' 'Too' goes after 'I'. Again there's no 'am', just a name.
 - 'No, you're not Fedya.' The 'not' stands right before the name. It's as blunt as it sounds.
 - 'You have to earn the name Fedya.' The Russian puts the verb first, 'earn', and 'necessary' at the end, which gives the line weight. 'Name' ends in 'ya', and is neuter.

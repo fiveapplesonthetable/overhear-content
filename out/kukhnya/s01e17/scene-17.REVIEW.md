@@ -27,7 +27,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Hold it right there.' The basic form of 'stand' is used as a command, like a guard's 'freeze!'. It's bossy by itself.
 - 'What's the matter?' Russian says 'in what is the matter', with 'matter' a very common word. It's a fixed phrase.
-- 'You stole our dish.' 'Stole' ends in 'li', because he says 'you' in the plural. 'Our dish' is neuter, with the 'e' ending.
+- 'You stole our dish.' 'Stole' finishes with 'li', because he says 'you' in the plural. 'Our dish' is neuter, with the 'e' ending.
 - 'We invented it ourselves.' 'Ourselves' goes first, which puts weight on it. 'It' is the same as 'him', a quirk for neuter nouns.
 - 'I knew it.' The line is 'I so and knew', with the 'so and' as 'I thought as much'. 'Knew' ends in the masculine 'l'.
 - 'You can't do anything yourselves.' 'Nothing' and 'not' appear together, and Russian demands both. 'Yourselves' sits at the end.

@@ -28,16 +28,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'What are you doing here?' The casual 'you' gives 'esh'. 'What' goes first.
-- 'You're supposed to be in Monaco!' 'Must' ends in 'a' because Kristina is a woman. 'In Monaco' leaves 'Monaco' unchanged.
-- 'But I came back!' 'Came back' ends in 'las', for a woman. The opening 'a' means 'but'.
-- 'You sent me there on purpose.' 'Sent' ends in 'l' for the masculine speaker. 'On purpose' is a single word.
-- 'Who is this woman?' 'This' ends in 'a' to match the feminine noun. There's no 'is'.
-- 'I don't know anything.' 'Nothing' and 'not' are both there. 'I know' ends in 'u'.
+- 'You're supposed to be in Monaco!' 'Must' finishes with 'a' because Kristina is a woman. 'In Monaco' leaves 'Monaco' unchanged.
+- 'But I came back!' 'Came back' carries 'las', for a woman. The opening 'a' means 'but'.
+- 'You sent me there on purpose.' 'Sent' ends in 'l' for the masculine speaker. 'On purpose' comes as one word.
+- 'Who is this woman?' 'This' finishes with 'a' to match the feminine noun. There's no 'is'.
+- 'I don't know anything.' 'Nothing' and 'not' are both there. 'I know' carries 'u'.
 - 'Sasha told me everything.' 'To me' comes first for emphasis. 'Told' ends in 'a' for a woman.
 - 'She works here and sees everything.' 'Works' and 'sees' both end in 't' for 'she'. 'Everything' is the object of the second.
-- 'May I say something?' The pattern is 'possible I will say'. 'Say' is a finished action.
+- 'May I say something?' The pattern is 'possible I will say'. 'Say' is the completed kind.
 - 'Viktoria Sergeyevna is my girlfriend.' The dash takes the place of 'is'. 'My girlfriend' is feminine.
 - 'We have a serious relationship.' 'At us with her' is a Russian way of saying 'between us'. 'Relationship' is plural.
-- 'Let your wife apologise to my girlfriend!' 'Apologise' means 'excuse oneself', which is why it ends in 'sya'. 'Before' is the small word used here for 'to'.
+- 'Let your wife apologise to my girlfriend!' 'Apologise' means 'excuse oneself', which is why it finishes with 'sya'. 'Before' is the small word used here for 'to'.
 - 'Let's go home, my dear.' 'Let's go' is the 'we' form of going on foot. 'Dear' is a word that means 'own' or 'native'.
 - 'Tomorrow we'll fly off to rest, okay?' 'We'll fly' is the 'we' form of the word for flying. 'Okay?' is a rising word, 'khorosho'.

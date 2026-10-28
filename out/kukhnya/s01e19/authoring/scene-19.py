@@ -10,9 +10,9 @@ PAIR = 'ru-en'
 LABELS = {'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.19'
 SOURCE_FILE = 'sources/kukhnya/s01/e19.ru.dual.srt'
-INTRO = "Max has just asked Vika to be his girlfriend, and she has begun to answer. The next few lines are the answer and its happy aftermath. We'll hear it in Russian first."
-OPENER = "Let's replay it a line at a time."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
+INTRO = 'Max has just asked Vika to be his girlfriend, and she has begun to answer. The next few lines are the answer and its happy aftermath. The Russian comes first.'
+OPENER = "Let's unpack it."
+TRANSITION = 'Here is the whole conversation again.'
 OUTRO = "The two of them are, at last, a couple. Notice that men and women say 'I'm glad' differently: 'rad' for a man and 'rada' for a woman. See you next time!"
 CLOSING = ('vika', 'Пока!')
 STORY = [
@@ -33,7 +33,7 @@ WALK = [
     (0, None, "'Does that mean yes?' Russian says 'this means yes' and lets the voice rise. 'Means' is 'signifies'."),
     (1, None, "'Yes.' One word. Her answer is as short as his question was long."),
     (2, None, "'I'm so glad.' 'Glad' is a short masculine form, with no ending. The small word 'tak' means 'so'."),
-    (3, None, "'I'm glad too.' This time the word ends in 'a', since Vika is a woman. The pair 'rad' and 'rada' are worth remembering."),
+    (3, None, "'I'm glad too.' This time the word carries 'a', since Vika is a woman. The pair 'rad' and 'rada' are worth remembering."),
     (4, None, "'Now we're together.' There's no 'are', just 'now we together'. 'Together' is a handy word."),
     (5, None, "'Yes, we're together.' Vika repeats Max's words. Repetition is how Russians say yes."),
     (6, None, "'It's wonderful.' 'Wonderful' ends in 'o', and there's no 'is'. It comes from 'beautiful'."),
@@ -41,5 +41,5 @@ WALK = [
     (8, None, "'I love you.' 'I love' is one word with a 'yu' ending. 'You' takes the 'a' form, 'tebya'."),
     (9, None, "'I love you, Max.' The same line again, with his name added. A name added at the end is a vocative, and it needs no change."),
     (10, None, "'At last.' The word is 'nakonets', with a little 'to' added for emphasis. It's what you say when something has taken too long."),
-    (11, None, "'I'm so glad, Max.' Vika's word for 'glad' ends in 'a'. 'So' sits before it."),
+    (11, None, "'I'm so glad, Max.' Vika's word for 'glad' finishes with 'a'. 'So' sits before it."),
 ]

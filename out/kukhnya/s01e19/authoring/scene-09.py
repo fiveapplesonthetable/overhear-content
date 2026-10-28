@@ -10,9 +10,9 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'fedya': 'Федя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.19'
 SOURCE_FILE = 'sources/kukhnya/s01/e19.ru.dual.srt'
-INTRO = "Barinov is in his office on the phone, trying to talk Fedya into coming back to the kitchen. Fedya is in no hurry to forgive him. We'll hear it in Russian first."
-OPENER = 'Here it is again, line by line.'
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
+INTRO = 'Barinov is in his office on the phone, trying to talk Fedya into coming back to the kitchen. Fedya is in no hurry to forgive him. The Russian comes first.'
+OPENER = "Let's listen again, with the meaning this time."
+TRANSITION = 'Now the whole conversation once more, from start to finish.'
 OUTRO = "Fedya returns, but on his own terms, or so he thinks. 'Ty mne nuzhen' is the Russian way to say 'I need you', and it makes the person you need the subject. See you next time!"
 CLOSING = ('barinov', 'До свидания!')
 STORY = [
@@ -31,17 +31,17 @@ STORY = [
     ('barinov', 'Жду тебя ровно в десять часов.', "I expect you at exactly ten o'clock.", [(205, 'Тогда завтра в десять.')], ''),
 ]
 WALK = [
-    (0, None, "'Hello, Fedya, hi!' The first word is how Russians answer or start a phone call. 'Hi' is the casual 'privet'."),
+    (0, None, "'Hello, Fedya, hi!' The word at the start is how Russians answer or start a phone call. 'Hi' is the casual 'privet'."),
     (1, None, "'Hello, Chef, how are you?' The long hello is the polite one. 'How are your matters' is a standard way to ask."),
     (2, None, "'Fedya, stop putting on an act.' The phrase 'to break a comedy' means to put on a show. 'Enough' is followed by the plain form."),
     (3, None, "'Come back, I really need you.' 'Come back back' is not a mistake; the doubled word is normal. 'You to me needed' makes 'you' the subject."),
-    (4, None, "'Chef, I'm not coming back to the kitchen.' 'I'll return' ends in 'sya'. 'To the kitchen' uses 'on' and a 'u' ending."),
+    (4, None, "'Chef, I'm not coming back to the kitchen.' 'I'll return' carries 'sya'. 'To the kitchen' uses 'on' and a 'u' ending."),
     (5, None, "'I know I was in the wrong.' 'In the wrong' is a short masculine form meaning 'guilty'. 'That' joins the two parts."),
-    (6, None, "'Sorry, but Senya has already agreed to come back.' 'Sorry' is the casual command to excuse. 'Agreed' ends in 'sya'."),
+    (6, None, "'Sorry, but Senya has already agreed to come back.' 'Sorry' is the informal order to excuse. 'Agreed' ends in 'sya'."),
     (7, None, "'Did Senya really agree?' The first word means 'is it possible?' and shows surprise. It stands for 'really?' at the start."),
     (8, None, "'Senya was the first to agree to everything.' 'Agree to' needs a small word, 'na'. 'First' goes before the action."),
     (9, None, "'Then make me the new sous-chef.' 'Make' is the polite command, and 'sous-chef' takes an 'om' ending after it. Fedya gets ambitious."),
     (10, None, "'No, no sous-chefs, Fedya.' 'Not any' is one word, and it brings the 'of' plural. 'No' comes first."),
-    (11, None, "'Fine, then I'll come tomorrow morning.' 'I'll come' is a finished action. 'Tomorrow morning' is two words."),
+    (11, None, "'Fine, then I'll come tomorrow morning.' 'I'll come' is the completed kind. 'Tomorrow morning' is two words."),
     (12, None, "'I'll expect you at exactly ten o'clock.' 'I wait' stands for 'I'll expect'. 'Exactly' goes in front of 'at ten hours'."),
 ]

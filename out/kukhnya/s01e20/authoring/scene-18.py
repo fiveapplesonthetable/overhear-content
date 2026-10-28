@@ -10,9 +10,9 @@ PAIR = 'ru-en'
 LABELS = {'kostya': 'Костя', 'nastya': 'Настя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.20'
 SOURCE_FILE = 'sources/kukhnya/s01/e20.ru.dual.srt'
-INTRO = "Kostya has finally found his nerve and says what he has been planning all day: he wants Nastya to marry him. She is horrified, and says so. We'll hear it in Russian first."
-OPENER = "Let's go over it a line at a time."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
+INTRO = 'Kostya has finally found his nerve and says what he has been planning all day: he wants Nastya to marry him. She is horrified, and says so. The Russian comes first.'
+OPENER = 'Now the same story, slowly.'
+TRANSITION = "Let's hear the whole thing again, start to finish."
 OUTRO = "The proposal goes off the rails, and Nastya forgives him, which is a start. 'Proshchayu' is 'I forgive', and it is the same as the one for 'farewell'. See you next time!"
 CLOSING = ('nastya', 'До свидания!')
 STORY = [
@@ -32,18 +32,18 @@ STORY = [
     ('nastya', 'Я прощаю тебя.', 'I forgive you.', [], ''),
 ]
 WALK = [
-    (0, None, "'I wanted to tell you something.' 'Something' is built from two pieces, 'koe' and 'what'. 'Wanted' ends in 'l' for a man."),
+    (0, None, "'I wanted to tell you something.' 'Something' is built from two pieces, 'koe' and 'what'. 'Wanted' carries 'l' for a man."),
     (1, None, "'I want...' He starts and stops. 'I want' is irregular."),
     (2, None, "'For you to be my wife.' 'In order that' is followed by a past form: 'chtoby you became'. 'My wife' takes an 'oy' ending."),
     (3, None, "'Have you lost your mind?' 'Went off from mind' is the idiom for 'lost your mind'. The tag 'chto li' means 'or what'."),
     (4, None, "'What? What?' 'Chego' is the casual way to say 'what?'. It sounds like 'huh?'."),
-    (5, None, "'You said yourself that every day is a new step.' 'Yourself' ends in 'a' for a woman. 'Every day' is two words, with no 'is' between."),
+    (5, None, "'You said yourself that every day is a new step.' 'Yourself' carries 'a' for a woman. 'Every day' is two words, with no 'is' between."),
     (6, None, "'Kostya, I meant meeting the parents.' 'I had in view' is how Russian says 'I meant'. 'Acquaintance' stands for 'meeting'."),
     (7, None, "'Not this.' The word 'a ne' means 'and not'. It contrasts the two ideas."),
     (8, None, "'In my plan this step was only a year away.' 'By plan' uses 'po' and a 'u' ending. 'In a year' is 'through a year'."),
     (9, None, "'What, you have a plan?' 'Some' is made with a tail, 'to'. 'What' at the start is a casual way to ask."),
     (10, None, "'Yes, I do.' Nastya repeats 'there is' as her answer. That's how Russians say yes."),
-    (11, None, "'And you nearly wrecked it.' 'Nearly' is made with 'chut ne'. 'Wrecked' ends in 'l', for a man."),
-    (12, None, "'Forgive me, please.' 'Forgive' is the casual command. 'Me' takes the 'a' form."),
-    (13, None, "'I forgive you.' The word for 'I forgive' is from the same family as 'goodbye'. 'You' takes the 'a' form."),
+    (11, None, "'And you nearly wrecked it.' 'Nearly' is made with 'chut ne'. 'Wrecked' finishes with 'l', for a man."),
+    (12, None, "'Forgive me, please.' 'Forgive' is the informal order. 'Me' takes the 'a' form."),
+    (13, None, "'I forgive you.' The Russian for 'I forgive' is from the same family as 'goodbye'. 'You' takes the 'a' form."),
 ]

@@ -10,9 +10,9 @@ PAIR = 'ru-en'
 LABELS = {'fedya': 'Федя', 'nagiyev': 'Нагиев', 'senya': 'Сеня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.18'
 SOURCE_FILE = 'sources/kukhnya/s01/e18.ru.dual.srt'
-INTRO = 'Nagiyev has called in the kitchen staff to tell them they are being let go. Senya and Fedya talk it over, and then the payout arrives, and it is not what they hoped. First, the Russian.'
-OPENER = "Let's replay it a line at a time."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
+INTRO = "Nagiyev has called in the kitchen staff to tell them they are being let go. Senya and Fedya talk it over, and then the payout arrives, and it is not what they hoped. Here's the Russian, start to finish."
+OPENER = "Let's unpack it."
+TRANSITION = 'Once more, all the way through.'
 OUTRO = "The payout is smaller than anyone expected, and the rest is promised for later. 'Raschyot' is a word for a final payment, and it is built on 'count'. See you next time!"
 CLOSING = ('nagiyev', 'Пока!')
 STORY = [
@@ -37,7 +37,7 @@ WALK = [
     (3, None, "'How, fired? You too?' 'How' is used here as 'what?'. 'You too' needs the 'a' ending on 'you'."),
     (4, None, "'Yes, we're all leaving.' 'Leave' is the ongoing kind, a going away. 'All' goes before it."),
     (5, None, "'And what did the chef say?' The opening 'a' means 'and' with a hint of contrast. 'Said' ends in the masculine 'l'."),
-    (6, None, "'The chef did nothing.' 'Nothing' and 'not' appear together. 'Did' is the finished kind of 'do'."),
+    (6, None, "'The chef did nothing.' 'Nothing' and 'not' appear together. 'Did' is the completed kind of 'do'."),
     (7, None, "'Now we are out of work.' 'Without' brings in the 'of' form, so 'work' changes its ending. There's no 'are'."),
     (8, None, "'What do we do now?' 'To us' stands in for 'we', and 'to do' is the plain form. 'Now' sits in the middle."),
     (9, None, "'I don't know, let's go home.' 'We'll go' works as 'let's go'. 'Home' as a direction is a single word."),

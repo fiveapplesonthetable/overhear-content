@@ -27,13 +27,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Excuse me, have a pleasant evening.' The wish is 'of pleasant evening', with the 'ogo' and 'a' endings. 'Excuse me' is the polite word.
 - 'What do you need from me?' Barinov uses the casual 'you', and 'what to you needed' is the order. 'From me' is a little word and the 'menya' form.
-- 'I need this bottle.' 'Needed' ends in 'a' to match 'bottle', which is feminine. For a masculine thing, it would be 'nuzhen'.
-- 'What are you talking about?' 'About what' is written as two words and said as one. 'You speak' ends in 'sh'.
+- 'I need this bottle.' 'Needed' finishes with 'a' to match 'bottle', which is feminine. For a masculine thing, it would be 'nuzhen'.
+- 'What are you talking about?' 'About what' is written as two words and said as one. 'You speak' carries 'sh'.
 - 'I'll take this bottle.' 'I will take' is an irregular word. 'This bottle' ends in 'u', as it is being taken.
 - 'And I'll put another one down for you.' Russian says 'put' with a word that means to stand something up. 'For you' is the polite form.
 - 'Don't you have anything better to do?' 'Nothing to do' is one word plus the plain 'do'. The 'chto' in the middle is a filler like 'what, ...?'.
-- 'No, I just want to give you another one.' 'Just' is the word you hear everywhere. 'Another' ends in 'uyu' for the feminine bottle.
+- 'No, I just want to give you another one.' 'Just' is the word you hear everywhere. 'Another' finishes with 'uyu' for the feminine bottle.
 - 'Don't touch anything, get out of here!' A negative command uses the ongoing form of 'touch'. 'From here' is one word.
-- 'But I have to take it.' 'Must' ends in 'en', for a man. 'It' is 'her' in Russian, because the bottle is feminine.
+- 'But I have to take it.' 'Must' carries 'en', for a man. 'It' is 'her' in Russian, because the bottle is feminine.
 - 'I said, get out of here!' 'Said' ends in 'l', for the masculine speaker. Barinov repeats himself because he isn't obeyed.
 - 'All right, sorry, I'll go.' 'I'll go' is a plain future form. 'Sorry' is 'excuse me' once more.

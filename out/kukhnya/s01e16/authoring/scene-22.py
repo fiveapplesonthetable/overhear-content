@@ -10,9 +10,9 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'max': 'Макс', 'nastya': 'Настя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.16'
 SOURCE_FILE = 'sources/kukhnya/s01/e16.ru.dual.srt'
-INTRO = "At Claude Monet, the news is bad. Barinov asks what has just been said, and Nastya tells him they've been told to go; for a moment it looks like the end of everything. We'll hear it in Russian first."
-OPENER = "Now let's go through it carefully."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
+INTRO = "At Claude Monet, the news is bad. Barinov asks what has just been said, and Nastya tells him they've been told to go; for a moment it looks like the end of everything. Here it is in Russian."
+OPENER = "Now we'll take it apart."
+TRANSITION = 'Now it all together again, from the top.'
 OUTRO = "Nobody in the kitchen is sure what happens next. Remember that 'dolg' means both 'duty' and 'debt', which is why Russians use it for obligations of any kind. See you next time!"
 CLOSING = ('nastya', 'До свидания!')
 STORY = [
@@ -36,10 +36,10 @@ WALK = [
     (3, None, "'Is this the end?' There's no word for 'is', and the question comes only from the rising voice. 'End' ends in a hard 'ts'."),
     (4, None, "'I don't know.' This time the 'I' is spelled out, which gives the line a heavier tone. Without it, the line would sound a touch more casual."),
     (5, None, "'Chef, what do we do?' It's just 'what to do', in the basic form, with no 'we' at all. Max talks to the boss with a plain title."),
-    (6, None, "'We have to leave.' 'Must' is plural to go with 'we'. 'Leave' is the finished kind, meaning to go away for good."),
+    (6, None, "'We have to leave.' 'Must' is plural to go with 'we'. 'Leave' is a once-and-done action, meaning to go away for good."),
     (7, None, "'I'm very sorry.' Russian says 'to me very pity', so the sorrow is something that happens to you. It's a gentle way to give bad news."),
     (8, None, "'Pack your things.' The 'sya' on the end means 'gather yourselves', and 'te' makes it a command to several people. In real life it also means 'get ready to go'."),
-    (9, None, "'Excuse me.' It's the standard word for apologising to a stranger, like bumping into someone. It ends in 'ite', the polite command ending again."),
+    (9, None, "'Excuse me.' It's the standard word for apologising to a stranger, like bumping into someone. It carries 'ite', the polite command ending again."),
     (10, None, "'It's my duty.' 'Duty' is also 'debt', so duty is what you owe. 'My' is masculine to match."),
     (11, None, "'Good.' It sounds resigned here, like 'fine' or 'all right'. Barinov has nothing left to argue with."),
 ]

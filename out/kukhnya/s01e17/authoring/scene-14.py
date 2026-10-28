@@ -10,9 +10,9 @@ PAIR = 'ru-en'
 LABELS = {'kostya': 'Костя', 'max': 'Макс', 'nastya': 'Настя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.17'
 SOURCE_FILE = 'sources/kukhnya/s01/e17.ru.dual.srt'
-INTRO = "It's Max's birthday, and Kostya and Nastya have come to the kitchen to wish him well. They've got a present: tickets for an evening out for the three of them. We'll hear it in Russian first."
-OPENER = "Let's slow it down and take it line by line."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
+INTRO = "It's Max's birthday, and Kostya and Nastya have come to the kitchen to wish him well. They've got a present: tickets for an evening out for the three of them. Russian first, no need to catch it all."
+OPENER = "Let's listen again, with the meaning this time."
+TRANSITION = 'Once more, all the way through.'
 OUTRO = "The friends have made up, thanks to a birthday that nobody knew about. Remember the greeting 's dnyom rozhdeniya', which you can say to anyone on their birthday. See you next time!"
 CLOSING = ('kostya', 'Пока!')
 STORY = [
@@ -33,7 +33,7 @@ STORY = [
 ]
 WALK = [
     (0, None, "'Max, happy birthday to you!' Russians say 'I congratulate you with the day of birth'. The little word for 'with' makes both of the last words take an ending."),
-    (1, None, "'Thank you very much, my loyal friend.' 'Thanks' is neuter, so 'big' ends in 'oe'. 'Loyal' is the word you'd use for a faithful dog."),
+    (1, None, "'Thank you very much, my loyal friend.' 'Thanks' is neuter, so 'big' finishes with 'oe'. 'Loyal' is the word you'd use for a faithful dog."),
     (2, None, "'I also congratulate you from the heart!' Russians say 'from the soul' where English says 'from the heart'. 'Also' is a short word before 'congratulate'."),
     (3, None, "'Thank you, Nastya, I'm very pleased.' 'To me pleasant' is the Russian pattern, and it works for anything you're glad about. 'Very' goes before it."),
     (4, None, "'And here is a gift for you.' 'Gift' comes from the verb for giving. 'And here' sets up the present."),

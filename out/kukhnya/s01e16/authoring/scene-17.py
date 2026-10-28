@@ -10,9 +10,9 @@ PAIR = 'ru-en'
 LABELS = {'ainura': 'Айнура', 'inspector': 'Инспектор'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.16'
 SOURCE_FILE = 'sources/kukhnya/s01/e16.ru.dual.srt'
-INTRO = "To keep Ainura out of the inspector's sight, the staff have dressed her as a guest at a table in the dining room. The inspector sits down right opposite her and orders dessert, and what he says over it is far from friendly. We'll hear it in Russian first."
-OPENER = "Let's take it line by line."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
+INTRO = "To keep Ainura out of the inspector's sight, the staff have dressed her as a guest at a table in the dining room. The inspector sits down right opposite her and orders dessert, and what he says over it is far from friendly. First, the Russian."
+OPENER = "Let's pull it apart a little."
+TRANSITION = 'Here is the whole conversation again.'
 OUTRO = "The strudel saves Ainura, and the inspector walks off with a full stomach. Look out for 'nravitsya' next time, the odd verb Russians use for 'like', as in 'to you it pleases'. See you next time!"
 CLOSING = ('inspector', 'До свидания!')
 STORY = [
@@ -43,5 +43,5 @@ WALK = [
     (9, None, "'And clever people seat them in the dining room.' 'People' is irregular, a plural that looks nothing like 'person'. 'Seat' is the verb that means to make someone sit."),
     (10, None, "'But this apple strudel is simply wonderful!' No 'is' again, just 'strudel simply wonderful'. The strudel is a German loan, and the sentence is the inspector's only flash of joy."),
     (11, None, "'Today the delicious dessert saved you.' The 'saved' of a masculine thing ends in a bare 's', with no extra letter. Word order is the same as English, with the dessert as the hero."),
-    (12, None, "'All right, thank you very much!' 'Thanks' is a neuter noun, so 'big' ends in 'oe' to agree with it. Ainura puts 'you' in between, which is polite."),
+    (12, None, "'All right, thank you very much!' 'Thanks' is a neuter noun, so 'big' finishes with 'oe' to agree with it. Ainura puts 'you' in between, which is polite."),
 ]

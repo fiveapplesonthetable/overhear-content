@@ -10,9 +10,9 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'nagiyev': 'Нагиев', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.18'
 SOURCE_FILE = 'sources/kukhnya/s01/e18.ru.dual.srt'
-INTRO = "Nagiyev has just announced that his wife Kristina will run the restaurant. Barinov asks what he means, and Nagiyev lists her qualifications, which turn out to include working there for a year. We'll hear it in Russian first."
-OPENER = 'Here it is again, one line at a time.'
-TRANSITION = "Now let's listen to the conversation again without interruption."
+INTRO = 'Nagiyev has just announced that his wife Kristina will run the restaurant. Barinov asks what he means, and Nagiyev lists her qualifications, which turn out to include working there for a year. Russian first, no need to catch it all.'
+OPENER = "Let's go back through it slowly."
+TRANSITION = 'Now the whole conversation once more, from start to finish.'
 OUTRO = "The staff greet their new boss, though not warmly. Notice 'upravlenie', the word for management, which is just the verb for managing with 'enie' on the end. See you next time!"
 CLOSING = ('barinov', 'Всего хорошего!')
 STORY = [
@@ -33,13 +33,13 @@ WALK = [
     (0, None, "'What do you mean?' The Russian is literally 'in the sense?', two words that work as a whole question. It's a short phrase you can use anywhere."),
     (1, None, "'Well, in the literal sense.' 'Direct' also means 'straight', so the phrase is literally 'in the straight sense'. Nagiyev says it with a flourish."),
     (2, None, "'She is smart and beautiful.' Both words end in 'aya', the feminine ending, since Kristina is a woman. There's no word for 'is'."),
-    (3, None, "'But it's a hard job.' The little word 'ved' means 'but, you know'. 'Hard' ends in 'aya' to agree with the feminine word for work."),
+    (3, None, "'But it's a hard job.' The little word 'ved' means 'but, you know'. 'Hard' finishes with 'aya' to agree with the feminine word for work."),
     (4, None, "'She studied restaurant management.' 'Management' is the word for managing with 'enie' on the end, which turns an action into a thing. 'Restaurants' takes a plural 'ami' ending."),
-    (5, None, "'And then she worked here.' 'And then' is two small words. 'Worked' ends in 'a', since it is about a woman."),
+    (5, None, "'And then she worked here.' 'And then' is two small words. 'Worked' carries 'a', since it is about a woman."),
     (6, None, "'Did she work in our restaurant?' Both 'our' and 'restaurant' take the 'e' ending after 'in'. The question comes from the tone, not the word order."),
     (7, None, "'Yes, she worked here for a whole year.' The word for 'whole' has a masculine ending, and Russian needs no word for 'for' with a length of time."),
-    (8, None, "'Yes, I remember that time well.' 'I remember' ends in 'u'. 'Time' is a neuter word, so 'that' ends in 'o'."),
+    (8, None, "'Yes, I remember that time well.' 'I remember' ends in 'u'. 'Time' is a neuter word, so 'that' finishes with 'o'."),
     (9, None, "'In short, please welcome and respect her.' The phrase is a set one, literally 'I ask you to love and favour'. Russians use it when they introduce a new person."),
-    (10, None, "'Here is your new boss.' 'Bosses' is a group word and is neuter, so 'new' ends in 'oe'. 'Here' points at Kristina."),
+    (10, None, "'Here is your new boss.' 'Bosses' is a group word and is neuter, so 'new' carries 'oe'. 'Here' points at Kristina."),
     (11, None, "'Welcome, Kristina.' The words for 'welcome' make a set greeting, and the name used is her first name and patronymic. It is a formal and slightly nervous welcome."),
 ]

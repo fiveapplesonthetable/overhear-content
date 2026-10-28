@@ -10,9 +10,9 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'eleonora': 'Элеонора', 'nagiyev': 'Нагиев'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.20'
 SOURCE_FILE = 'sources/kukhnya/s01/e20.ru.dual.srt'
-INTRO = "Max's ring has gone to a surprising place, and so has the restaurant. Eleonora Andreyevna arrives at the owner's table with warm words for Barinov, and slowly he realises what is going on. This scene has longer sentences, so don't worry if you only catch the gist. We'll hear it in Russian first."
-OPENER = "Let's take it slowly, a line at a time."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
+INTRO = "Max's ring has gone to a surprising place, and so has the restaurant. Eleonora Andreyevna arrives at the owner's table with warm words for Barinov, and slowly he realises what is going on. This scene has longer sentences, so don't worry if you only catch the gist. Here's the Russian, start to finish."
+OPENER = "Let's see how the Russian puts it together."
+TRANSITION = 'Once more, all the way through.'
 OUTRO = "Barinov has just found out that the restaurant was sold from under him. Remember 'chego greha taity', literally 'why hide the sin', which is how Russians say 'to be honest'. See you next time!"
 CLOSING = ('nagiyev', 'До свидания!')
 STORY = [
@@ -34,20 +34,20 @@ STORY = [
     ('nagiyev', 'Поверь мне, лучше продать на подъеме.', 'Trust me, it is better to sell while on the upswing.', [(328, 'Поверь мне, лучше продать'), (329, 'на подъеме')], ''),
 ]
 WALK = [
-    (0, None, "'Beautiful ring.' There's no verb at all. The word for 'ring' is neuter, so the word for 'beautiful' ends in 'oe'."),
-    (1, None, "'Max gave it.' The word for 'gave away' has the prefix 'ot', meaning 'off'. The name is unchanged because Max is the one doing the giving."),
+    (0, None, "'Beautiful ring.' There's no verb at all. The Russian for 'ring' is neuter, so the word for 'beautiful' carries 'oe'."),
+    (1, None, "'Max gave it.' The Russian for 'gave away' has the prefix 'ot', meaning 'off'. The name is unchanged because Max is the one doing the giving."),
     (2, None, "'Max? Eleonora Andreyevna, please.' The woman is addressed with first name and patronymic. 'I ask' is used as a polite 'after you'."),
-    (3, None, "'Eat, eat, the boss is paying.' The word for 'eat' here is slangy and doubled, and the word for 'boss' really means the owner of the place."),
+    (3, None, "'Eat, eat, the boss is paying.' The Russian for 'eat' here is slangy and doubled, and the word for 'boss' really means the owner of the place."),
     (4, None, "'Oh, look who it is. Hello.' The words for 'look who' are just 'look, who'. The word for hello is the long polite one."),
     (5, None, "'Am I interrupting? Viktor Petrovich, I know what happened.' 'Won't I disturb' is the polite way to ask if you are interrupting. The phrase 'in the course' means 'up to date'."),
-    (6, None, "'I'm very sorry for you. And I want to say you're a real professional.' The word for 'sympathise' takes 'to you', and the word for 'real' means 'genuine'."),
+    (6, None, "'I'm very sorry for you. And I want to say you're a real professional.' The Russian for 'sympathise' takes 'to you', and the Russian for 'real' means 'genuine'."),
     (7, None, "'Honestly. Whatever happened, whatever.' The phrase 'in any case' is three small words, and 'whatever it was' is made with 'chto by ni'."),
     (8, None, "'What are you talking about?' There's no verb here, just 'you in general about what'. 'About what' is two small words."),
     (9, None, "'We had a hard time, you and I.' The phrase 'at us with you' means 'between us', and the words 'why hide the sin' are the idiom for 'no point denying it'."),
     (10, None, "'But thanks to you, it all worked out. Thank you for being you.' The word for 'thanks to' takes the 'to you' form, and 'for you' is a toast."),
-    (11, None, "'Did you sell the restaurant?' 'You what' is a casual opening. The word for 'sold' ends in the masculine 'l'."),
+    (11, None, "'Did you sell the restaurant?' 'You what' is a casual opening. The Russian for 'sold' ends in the masculine 'l'."),
     (12, None, "'To you. Come on, let's go.' 'To you' is the toast again, with 'za'. Doubling 'let's go' makes it a gentle push."),
-    (13, None, "'How could you? We fixed everything.' The word for 'could' ends in a bare 'g', and 'we fixed' is a finished action, with the word 'zhe' for emphasis."),
+    (13, None, "'How could you? We fixed everything.' The Russian for 'could' ends in a bare 'g', and 'we fixed' treats the action as done, with the word 'zhe' for emphasis."),
     (14, None, "'Don't yell. It's business. Just business.' The word for 'yell' is a rough one. 'Business' is a borrowed word, and 'just' sits before it."),
-    (15, None, "'Trust me, it's better to sell on a high.' The word for 'better' is one word, and 'on a high' is built from the word for 'rise'."),
+    (15, None, "'Trust me, it's better to sell on a high.' The Russian for 'better' is one word, and 'on a high' is built from the Russian for 'rise'."),
 ]

@@ -10,9 +10,9 @@ PAIR = 'ru-en'
 LABELS = {'kostya': 'Костя', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.18'
 SOURCE_FILE = 'sources/kukhnya/s01/e18.ru.dual.srt'
-INTRO = "At the bar of Claude Monet, Kostya is serving a drink with a smile, and Max drops by for a chat. The talk turns to how honest a bartender should be. We'll hear it in Russian first."
-OPENER = "Let's go through it a line at a time."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
+INTRO = "At the bar of Claude Monet, Kostya is serving a drink with a smile, and Max drops by for a chat. The talk turns to how honest a bartender should be. Russian first, then we'll take it apart."
+OPENER = 'Slowly this time.'
+TRANSITION = "Let's finish by hearing it all again."
 OUTRO = "Kostya comes out of the chat with a clear conscience and a glass of juice. Remember 'zato', which means 'but on the plus side' and turns a complaint around. See you next time!"
 CLOSING = ('kostya', 'Пока!')
 STORY = [
@@ -37,7 +37,7 @@ WALK = [
     (3, None, "'Guests always love fresh, tasty drinks.' 'They love' is a plural form. 'Fresh' and 'tasty' both end in 'ie', matching the plural."),
     (4, None, "'Our bar offers the very best, most expensive drinks.' 'Offers' is a long word, but the sense is clear. 'The most best' is how Russian stresses 'the very best'."),
     (5, None, "'People in the dining room are ready to pay any money.' 'Any' is a single word that comes before 'money'. 'Ready' takes the plural, and 'pay' follows it."),
-    (6, None, "'The main thing is always to do your work honestly.' 'Honestly' ends in 'o', like many words that say how. 'Your own work' uses the special pointing-back word."),
+    (6, None, "'The main thing is always to do your work honestly.' 'Honestly' finishes with 'o', like many words that say how. 'Your own work' uses the special pointing-back word."),
     (7, None, "'But some bartenders know clever tricks.' 'Some' is made from 'which' with a tail. 'They know' has a plural ending."),
     (8, None, "'I don't want to deceive our guests.' 'I want' is irregular, so 'khochu' is the form to learn. The guests take the 'ey' ending."),
     (9, None, "'You're simply too honest and kind a guy.' 'Too' sits in front of the describing words. 'Guy' is informal."),

@@ -10,9 +10,9 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.19'
 SOURCE_FILE = 'sources/kukhnya/s01/e19.ru.dual.srt'
-INTRO = "Vika catches Barinov in the kitchen with a simple question: what is he going to do about the restaurant? The owner has given him two weeks to attract more customers, and half the time is gone. We'll hear it in Russian first."
-OPENER = "Let's take it apart a line at a time."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
+INTRO = 'Vika catches Barinov in the kitchen with a simple question: what is he going to do about the restaurant? The owner has given him two weeks to attract more customers, and half the time is gone. First, the Russian.'
+OPENER = "Let's replay it, with a word or two on each line."
+TRANSITION = "Let's finish by hearing it all again."
 OUTRO = "Barinov has a plan, which involves drinking and a very big party. As you listen again, notice the rhyme in 'pir na ves mir', which literally means 'a feast for the whole world'. See you next time!"
 CLOSING = ('vika', 'До свидания!')
 STORY = [
@@ -31,16 +31,16 @@ STORY = [
     ('barinov', 'Спасибо.', 'Thanks.', [(247, 'Спасибо')], ''),
 ]
 WALK = [
-    (0, None, "'What are you going to do?' 'Intend' ends in 'sya', and literally means 'gather yourself'. It is followed by the plain 'to do'."),
+    (0, None, "'What are you going to do?' 'Intend' carries 'sya', and literally means 'gather yourself'. It is followed by the plain 'to do'."),
     (1, None, "'You mean the restaurant?' The small word 'naschyot' means 'regarding'. 'Restaurant' takes an 'a' ending after it."),
     (2, None, "'The owner gave you two weeks.' 'Two' takes the feminine form, 'dve', as 'week' is feminine. 'Weeks' after 'two' ends in 'i'."),
-    (3, None, "'A week's already gone by.' 'Passed' ends in 'a' because 'week' is feminine. 'Already' is placed first."),
+    (3, None, "'A week's already gone by.' 'Passed' finishes with 'a' because 'week' is feminine. 'Already' is placed first."),
     (4, None, "'Don't worry, I have an idea.' A negative command uses the ongoing form of 'worry'. 'At me there is' stands for 'I have'."),
-    (5, None, "'Let me guess. You'll get drunk?' 'Give' plus 'I'll guess' makes 'let me guess'. 'Get drunk' is a finished action, from 'drink'."),
+    (5, None, "'Let me guess. You'll get drunk?' 'Give' plus 'I'll guess' makes 'let me guess'. 'Get drunk' is the completed kind, from 'drink'."),
     (6, None, "'Naturally. It's such an occasion.' 'Naturally' is built from 'nature'. 'Occasion' also means 'reason'."),
     (7, None, "'The birthday of the Claude Monet restaurant.' Three nouns in a row, each in the 'of' form. 'Day of birth' is a pair of words."),
-    (8, None, "'We'll throw a feast for the whole world.' The phrase rhymes in Russian, 'pir na ves mir', which makes it a favourite saying. 'Arrange' is a finished action."),
-    (9, None, "'And how will the world hear about it?' 'Find out' is a finished action, in the future. 'About this' adds a 'b' before the vowel."),
+    (8, None, "'We'll throw a feast for the whole world.' The phrase rhymes in Russian, 'pir na ves mir', which makes it a favourite saying. 'Arrange' is an action seen as complete."),
+    (9, None, "'And how will the world hear about it?' 'Find out' treats the action as done, in the future. 'About this' adds a 'b' before the vowel."),
     (10, None, "'I'll take care of that.' The idiom is 'I take it on myself'. 'Myself' is a special word, here with an 'ya' ending."),
     (11, None, "'Got it. Good luck.' 'Understandable' is a one-word reply. 'Luck' takes an 'i' ending in a wish."),
     (12, None, "'Thanks.' One word, and plenty for Barinov. It's the plain Russian thank-you."),

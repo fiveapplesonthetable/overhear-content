@@ -10,9 +10,9 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'lanovsky': 'Лановский'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.16'
 SOURCE_FILE = 'sources/kukhnya/s01/e16.ru.dual.srt'
-INTRO = "Major Lanovsky is still sitting with Barinov and still being unpleasantly friendly, and now he is talking about rats. Then his phone rings. We'll hear it in Russian first."
-OPENER = "Now we'll take it slowly."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
+INTRO = 'Major Lanovsky is still sitting with Barinov and still being unpleasantly friendly, and now he is talking about rats. Then his phone rings. Russian first, no need to catch it all.'
+OPENER = "We'll take the lines one by one."
+TRANSITION = "Let's finish by hearing it all again."
 OUTRO = "That phone call ends the small talk, and the major wants Barinov to come with him. Remember 'seychas', which means 'right now' and also 'in a moment', and Russians use it for both. See you next time!"
 CLOSING = ('lanovsky', 'Пока!')
 STORY = [
@@ -33,13 +33,13 @@ WALK = [
     (0, None, "'In this world, rats are enemies.' The dash stands where the English 'are' would be, since Russian leaves it out. The Russian for 'world' also means 'peace'."),
     (1, None, "'Everyone hates them very much.' The Russian starts with 'them', so it's 'them everyone very hates'. Putting the object first is common when you want to stress it."),
     (2, None, "'And you also don't like rats.' Here too the rats come first. Russian's 'also' sits after 'you', and 'rats' loses a letter on the way."),
-    (3, None, "'Mice are very similar to them.' 'Similar' ends in 'i' for a plural, since mice are plural. 'Like them' is two tiny words, one for 'on' and one for 'them'."),
+    (3, None, "'Mice are very similar to them.' 'Similar' carries 'i' for a plural, since mice are plural. 'Like them' is two tiny words, one for 'on' and one for 'them'."),
     (4, None, "'Yes, I don't like them.' The Russian for 'like' is the same as the one for 'love', and the 'not' in front turns it into dislike. Again the 'them' comes first."),
     (5, None, "'They are like cute mice.' Russian's 'like' is the same as the one for 'how', so it's easy to remember. 'Cute' ends in 'ye', the plural."),
     (6, None, "'But everyone hates rats.' The small word for 'but' marks the turn, and the rats come first once more. By now you can hear the rhythm."),
     (7, None, "'Excuse me, they are calling me.' Russians say 'to-me they call' for a ringing phone. Nobody is meant by 'they'."),
     (8, None, "'Yes, I am listening.' This is the standard way to answer the phone in Russian. The word 'yes' is how he picks up."),
     (9, None, "'Where are they? In the fridge?' The Russian for 'fridge' comes from Russian's 'cold', and its 'e' ending says 'in'. He asks it quickly, like a policeman."),
-    (10, None, "'Great, we're coming right now.' The first word is an adverb meaning 'wonderful'. 'We go' is the 'we' form, and it means 'we're on our way'."),
+    (10, None, "'Great, we're coming right now.' The word at the start is an adverb meaning 'wonderful'. 'We go' is the 'we' form, and it means 'we're on our way'."),
     (11, None, "'Viktor Petrovich, come with me.' This is the polite 'let's go' that is also used for 'come along'. 'With' picks up an extra 'o' before 'me'."),
 ]

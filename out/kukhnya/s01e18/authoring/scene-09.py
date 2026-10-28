@@ -10,9 +10,9 @@ PAIR = 'ru-en'
 LABELS = {'kostya': 'Костя', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.18'
 SOURCE_FILE = 'sources/kukhnya/s01/e18.ru.dual.srt'
-INTRO = "Max has come up with a plan to cover the rent for the flat he shares with Kostya, and it involves the bar's cognac. Kostya doesn't see how rent comes into it, so Max sets out the scheme. First, the Russian."
-OPENER = "Let's replay it step by step."
-TRANSITION = "Now let's listen to the conversation again without interruption."
+INTRO = "Max has come up with a plan to cover the rent for the flat he shares with Kostya, and it involves the bar's cognac. Kostya doesn't see how rent comes into it, so Max sets out the scheme. The Russian comes first."
+OPENER = "Now we'll look at each line."
+TRANSITION = 'Now it all together again, from the top.'
 OUTRO = "Max's logic is, shall we say, creative, and Kostya is not at all convinced. Look out for 'besplatno', which means 'free' and is literally 'without pay'. See you next time!"
 CLOSING = ('max', 'До встречи!')
 STORY = [
@@ -40,6 +40,6 @@ WALK = [
     (7, None, "'Five liters of cognac every week.' After 'five', 'liters' takes an 'ov' ending. 'Every week' needs no word for 'during'."),
     (8, None, "'Does he bring it for free?' 'For free' is built from 'without' and 'pay'. It's the same 'pay' word as in 'rent'."),
     (9, None, "'Yes, absolutely free.' 'Absolutely' is a borrowed word, and it sits right before 'free'."),
-    (10, None, "'And what do we do with it?' 'With it' picks up an 'n', so 'nim'. 'We do' ends in 'em'."),
-    (11, None, "'We swap the bottles and pay for the apartment.' 'We swap' ends in 'em'. 'For' brings the apartment into the 'u' form."),
+    (10, None, "'And what do we do with it?' 'With it' picks up an 'n', so 'nim'. 'We do' finishes with 'em'."),
+    (11, None, "'We swap the bottles and pay for the apartment.' 'We swap' carries 'em'. 'For' brings the apartment into the 'u' form."),
 ]
