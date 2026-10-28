@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Here is dessert from our pastry chef.' The chef says "from our pastry chef" as if it were someone else's work, with the "from" ending on both words. "Vot" does the pointing.
-- 'Thank you for changing the menu for me.' "Thank you that" is the Russian frame for thanking someone for what they did. The ending on "changed" is plural, out of politeness.
-- 'I am the chef and I fulfill any orders.' Russian says "any" with a word that has "love" in it: "whichever you like". Barinov is bragging.
-- 'And what do you do, if it is not a secret?' Literally "as whom do you work", with the "as" ending on "whom". "If it's not a secret" is a polite way to ask a personal question.
-- 'I work as a judge at the Tverskoy court.' The woman says "as a judge" with an "-oy" ending, the same "as a" idea. "At the court" has an "-e" after "in".
-- 'Whoa! And they suspended my license yesterday!' Russians call a driving licence "rights", always in the plural, so "they deprived me of rights" means "they took my licence". The unnamed "they" is the authorities.
-- 'What is your last name?' The Russian "surname" looks like "family" but means only the last name. A good false friend to know.
-- 'My last name is Barinov. Viktor Barinov.' In Russian "is" is left out, so it's just "my surname Barinov". Notice the order, first name and then surname.
-- 'So it was I who issued that decision!' The judge uses a word that really means "carried out", the usual verb for passing a sentence. The little "eto ya" puts the spotlight on "I".
-- 'Maybe we can fix everything?' "Maybe" is the two words "can be". "Fix" starts from "right", so it means "make right".
-- 'No. You knocked down a traffic light on the road!' A traffic light puts "light" next to a Greek "bearer", so it's literally a "light-bearer". "On the road" has an "-e" ending.
-- 'But I had a valid excuse.' Russian says "at me there was", the usual "had" in the past. And "valid" has "respect" inside it, so it's an excuse that deserves respect.
-- 'Say thank you that the suspension is only a year.' "Say thanks" is a Russian way of saying "count yourself lucky". "Only a year" is "in all a year".
+- 'Here is dessert from our pastry chef.' "Ot nashego konditera" puts the "from" ending on both words, -ego and -a. A "konditer" makes cakes and pastries.
+- 'Thank you for changing the menu for me.' "Spasibo, chto" is "thanks that", the frame for thanking someone for what they did. "Izmenili", changed, has the -li of the polite "vy".
+- 'I am the chef and I fulfill any orders.' "Lyubyye", any, comes from "lyubit'", to love, so it's "whichever you like". "Vypolnyayu zakazy" is "I fulfill orders".
+- 'And what do you do, if it is not a secret?' "Kem vy rabotayete?" is "as whom do you work?", with "kto" changed to "kem". "Yesli ne sekret" softens a personal question.
+- 'I work as a judge at the Tverskoy court.' "Sud'ya" becomes "sud'yoy" for "as a judge". "V Tverskom sude" is "in the Tverskoy court", with -om and -e for being in a place.
+- 'Whoa! And they suspended my license yesterday!' A driving licence is "prava", rights, always plural. "Menya lishili prav" is "they deprived me of rights", with no one named as "they".
+- 'What is your last name?' "Familiya" looks like "family", but it means only your surname. "Kak vasha familiya?" is "how your surname?".
+- 'My last name is Barinov. Viktor Barinov.' Russian leaves out "is": "moya familiya Barinov". "Viktor" is his first name.
+- 'So it was I who issued that decision!' "Vynesti resheniye", to carry out a decision, is how a court passes a ruling. "Eto ya", it's I, puts the weight on her.
+- 'Maybe we can fix everything?' "Mozhet byt'" is "may be", the full "maybe". "Ispravit'", to fix, has "pravyy", right, at its core, so it means "set right".
+- 'No. You knocked down a traffic light on the road!' "Svetofor" joins "svet", light, to a Greek root for "carrying". "Sbili" is "knocked down", and "na doroge" is "on the road".
+- 'But I had a valid excuse.' "U menya bylo" is "at me there was", the past of "I have". "Uvazhitel'noye", valid, shares a root with "uvazheniye", respect, and "opravdaniye" is "excuse".
+- 'Say thank you that the suspension is only a year.' "Skazhite spasibo, chto" means "be grateful that". "Srok" is a fixed term, and "vsego god" is "in all a year".

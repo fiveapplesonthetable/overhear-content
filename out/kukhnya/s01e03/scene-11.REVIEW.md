@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vika, we need to talk seriously.' "To us necessary" is the pattern for "we need". "Seriously" is "ser'yozno", a word you may have heard before.
-- 'I already told you everything.' Vika is a woman, so "told" ends in "-la". "To you" is a short, friendly word.
-- 'Come on, don't be angry with me.' "Enough" starts it, literally "it suffices". "Don't be angry" has the "self" ending, and "at me" is a short word.
-- 'You know my real feelings.' "Feelings" is plural in Russian, with "my" matching. "Real" is the "true" word.
-- 'Leave me alone right now!' Russian says "leave me in peace". "In peace" takes an "-e", because of the "in".
-- 'Vadik, darling, there you are!' "Vadik" is a pet form of Vadim, with a small ending. "Milyy" is "sweet", which Elvira uses for "darling". "Here you where" is Russian for "there you are".
-- 'We are just discussing an important banquet.' "Just" is two words, "as time". "Discuss" is from "judge", a relative of "court".
-- 'Get acquainted, this is my wife Elvira.' "Wife" here is the formal one. The usual one is shorter. "Get acquainted" is a command in the formal register.
-- 'And she and I have already met!' "We with her" is the Russian "she and I". "Met" has the "-lis'" of "we".
-- 'Viktoria Sergeyevna helped me a lot today.' Russians help "to" a person, so "me" is in the "to me" form. And "helped" ends in "-la", because Vika is a woman.
-- 'Vadik, good for you for choosing this restaurant!' "Molodets" is the "well done" word for praise. "Chose" is "take" with "out" in front.
-- 'You are my absolute best husband.' "At me" is used for "in my life" here. "Husband" is a short word. "The very best" is the "samyy" pattern.
-- 'Thank you, I am always glad to help you.' A woman says "rada", and a man would say "rad". "Help" ends the sentence.
+- 'Vika, we need to talk seriously.' "Nam nuzhno" is "to us necessary", the "we need" pattern again. "Ser'yozno pogovorit'" is "seriously to talk".
+- 'I already told you everything.' "Skazala", told, ends in -la because Vika is a woman. "Tebe" is "to you", and "uzhe" is "already".
+- 'Come on, don't be angry with me.' "Khvatit" is "it's enough", a way of saying "stop it". "Ne zlis'", don't be angry, has the -s' ending, and "na menya" is "at me".
+- 'You know my real feelings.' "Ty zhe znayesh'" is "you do know", with "zhe" leaning on it. "Chuvstva", feelings, is the plural of "chuvstvo", and "moi" matches it.
+- 'Leave me alone right now!' "Ostav' menya v pokoye" is "leave me in peace". "Pokoy", peace, becomes "pokoye" after "v".
+- 'Vadik, darling, there you are!' "Vadik" is a pet form of "Vadim". "Milyy" is "sweet" or "dear", and "vot ty gde" is "here you where", Russian for "there you are".
+- 'We are just discussing an important banquet.' "Kak raz" is "just", in the sense of "exactly now". "Obsuzhdayem", we discuss, has "sud", judgement, at its root.
+- 'Get acquainted, this is my wife Elvira.' "Supruga" is the formal word for wife; "zhena" is the everyday one. "Poznakom'tes'", get acquainted, is said to two people.
+- 'And she and I have already met!' "My s ney" is "we with her", the Russian "she and I". "Poznakomilis'", met, ends in -lis' for "we".
+- 'Viktoria Sergeyevna helped me a lot today.' Russians help "to" someone, so "me" is "mne". "Pomogla", helped, ends in -la for a woman, and "ochen'" is "a lot".
+- 'Vadik, good for you for choosing this restaurant!' "Ty molodets, chto" is "you're well done that", the frame for praising what someone did. "Vybral", chose, is "brat'" with "vy-".
+- 'You are my absolute best husband.' "Ty u menya" is "you at me", a warm way to say "you're my". "Samyy luchshiy" doubles up on "best", and "muzh" is husband.
+- 'Thank you, I am always glad to help you.' "Rada", glad, is the woman's form; a man would say "rad". "Vsegda" is "always", and "pomoch' vam" is "to help to you".

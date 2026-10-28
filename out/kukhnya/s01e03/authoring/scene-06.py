@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e03.ru.dual.srt'
 INTRO = 'Max runs to the bar and accuses Kostya of telling the prosecutor everything. Kostya has no idea what he is talking about, and the truth turns out to be much funnier. Here is their talk in Russian first.'
 OPENER = 'Back through the misunderstanding.'
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = 'Max\'s terrifying prosecutor was only looking for the restroom. The phrase to take away is "slava bogu", "thank goodness", which is what he says next.'
+OUTRO = 'Max\'s terrifying prosecutor was only looking for the restroom. The phrase to take away is "slava bogu", "thank goodness", which is what Max says once the danger has passed.'
 CLOSING = ('max', 'До встречи!')
 STORY = [
     ('max', 'Костя, зачем ты ему сказал?', 'Kostya, why did you tell him?', [(163, 'Зачем ты ему сказал')], ''),
@@ -32,18 +32,18 @@ STORY = [
     ('max', 'Неважно, налей мне скорее воды.', 'Never mind, pour me some water quickly.', [], ''),
 ]
 WALK = [
-    (0, None, '\'Kostya, why did you tell him?\' Max asks "what for", not just "why", which makes it sound like an accusation. "Him" is in the "to him" form.'),
-    (1, None, '\'I am completely finished now.\' Literally "to me now complete end". "End" is how Russians say "I\'m done for".'),
-    (2, None, '\'Who did I tell?\' Kostya repeats the question in his own words. "To whom" is "komu", the "to" form of "who".'),
-    (3, None, '\'That man in the suit.\' "Man" here is a casual, slightly rough word. "In the suit" has an ending after "in".'),
-    (4, None, '\'What was he asking you?\' Russian says "ask at you", not "ask you". The question word has a special shape for "asking about".'),
-    (5, None, '\'Oh, calm down already.\' The command has "-sya" at the end, which is a little "self". "Finally" is a good word for impatience.'),
-    (6, None, '\'He was simply asking about the restroom.\' "Tualet" is borrowed from French, and it never changes. "Asking about" has a casual short word for "about".'),
-    (7, None, '\'Seriously? Only about the restroom?\' "Only" goes right in front of "about". Max can hardly believe it.'),
-    (8, None, '\'Yes, he was looking for the restroom.\' "Looked for" ends in "-l" for a man. It\'s the same family as "ishchet", looks for.'),
-    (9, None, '\'And he didn\'t ask about me?\' The opening "a" is a contrast, like "and what about me?". "Didn\'t ask" is the negative of the same word.'),
-    (10, None, '\'Who needs you anyway?\' "To whom needed" is the pattern for "who needs", and "anyway" is a word for "at all".'),
-    (11, None, '\'Thank goodness, dodged a bullet.\' The first part is "glory to God", the usual "thank goodness". The idiom for a danger passing is "it carried past".'),
-    (12, None, '\'Why are you so nervous today?\' The first two words are a colloquial "why are you". "So nervous" has matching endings on both words.'),
-    (13, None, '\'Never mind, pour me some water quickly.\' "Not important" is how Russians say "never mind". "Water" is in the "some" form, like when you order a drink.'),
+    (0, None, '\'Kostya, why did you tell him?\' "Zachem" asks "what for", which sounds more accusing than "pochemu". "Yemu", to him, is "on" in its "to" shape.'),
+    (1, None, '\'I am completely finished now.\' "Mne zhe teper\' polnyy konets" is "to me, you know, now a full end". "Konets", end, is how Russians say "I\'m done for".'),
+    (2, None, '\'Who did I tell?\' "Komu" is "to whom", the "to" shape of "kto". Kostya throws Max\'s question back at him.'),
+    (3, None, '\'That man in the suit.\' "Muzhik" is a plain, slightly rough word for a man. Max answers "komu" with "tomu muzhiku", to that man, and "v kostyume" is "in a suit".'),
+    (4, None, '\'What was he asking you?\' "Sprashivat\' u" is "to ask at" someone, so "u tebya" is "at you". "Chego" here stands in for "chto", what, as people say it in speech.'),
+    (5, None, '\'Oh, calm down already.\' "Uspokoysya" ends in -sya, "calm yourself", built on "pokoy", peace. "Nakonets", finally, adds the impatience.'),
+    (6, None, '\'He was simply asking about the restroom.\' "Tualet" came from French, and it takes Russian endings like any noun. After "pro", about, it stays "tualet".'),
+    (7, None, '\'Seriously? Only about the restroom?\' "Ser\'yozno" is "seriously". "Tol\'ko pro", "only about", puts "only" right in front.'),
+    (8, None, '\'Yes, he was looking for the restroom.\' "Iskal", looked for, ends in -l for a man. It\'s the past of "iskat\'", the verb behind "ishchet".'),
+    (9, None, '\'And he didn\'t ask about me?\' The opening "a" marks a contrast, like "and what about...". "Pro menya" is "about me", and "ne sprashival" is "didn\'t ask".'),
+    (10, None, '\'Who needs you anyway?\' "Komu ty nuzhen?" is "to whom are you needed?", the Russian for "who needs you?". "Voobshche" is "at all".'),
+    (11, None, '\'Thank goodness, dodged a bullet.\' "Slava bogu" is "glory to God", the everyday "thank goodness". "Proneslo" is "it carried past", said when trouble has gone by.'),
+    (12, None, '\'Why are you so nervous today?\' "Ty chego" is a colloquial "why are you". "Takoy nervnyy" is "such nervous", and "segodnya" is "today".'),
+    (13, None, '\'Never mind, pour me some water quickly.\' "Nevazhno" is "ne" plus "vazhno", important. "Naley mne vody" asks for some water: "voda" becomes "vody", the "some of" form.'),
 ]

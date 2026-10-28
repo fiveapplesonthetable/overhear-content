@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vika, we need to talk calmly.' The pattern is "to us necessary", and "calmly" grows out of "calm", a relative of "good night".
-- 'My personal life is none of your business.' Vika says "does not touch you", which is the Russian idea of "none of your business". "Personal" is borrowed enough to follow.
-- 'Let us not tell anyone anything.' A stack of negatives once more: "let's not", "to nobody" and "nothing". The first word is the friendly "let's".
-- 'Are you afraid that I will tell colleagues?' "Are you afraid" has a "-sya" at the end, a little "self". "Colleagues" ends in "-am", the "to" ending.
-- 'Me? No, I do not care at all.' "Mne vsyo ravno" is literally "to me everything is equal", and it's how Russians say "I don't care". It's worth learning whole.
-- 'There is nothing serious between us anyway.' The same "vsyo ravno" turns up with the meaning "anyway" or "all the same". "Between us" and "nothing serious isn't" are the other two chunks.
-- 'Oh, so that is how you speak now!' "Started speaking" has a prefix meaning "begin", so it's "you've started talking like that". Vika is hurt.
-- 'Vika, wait! Who is this young man?' "Wait" has "stand" inside it, so it means "stand a moment". "Young man" is the usual polite way to point at a young man.
-- 'Vadim, did you want to know the truth?' She speaks to him with the friendly "you". "Wanted" has a man's "-l" ending, and "truth" doubles as "really?".
-- 'Yes, I want to know everything.' Short and demanding, with "I want" and "everything" as the only pieces. Vadim doesn't waste words.
-- 'Here, meet my boyfriend.' The same word means "guy" and "boyfriend", so context does the work. "Meet" is a command with "self" on the end, and "with my boyfriend" takes the "with" endings.
-- 'This is my Max, we are together now!' "My Max" is how Russians show affection or ownership. "We together" is all you need to say you're a couple.
-- 'Very nice to meet you, esteemed Vadim.' This is the formal "pleased to meet you", with "pleasant" at the heart of it. "Esteemed" is "respect" stretched into a describing word, so it sounds stiff, and Max is making fun.
+- 'Vika, we need to talk calmly.' "Nam nuzhno" is "to us necessary". "Spokoyno", calmly, is from "spokoynyy", calm, the word in "spokoynoy nochi", good night.
+- 'My personal life is none of your business.' "Tebya ne kasayetsya" is "does not touch you", the Russian "none of your business". "Lichnaya zhizn'" is "personal life".
+- 'Let us not tell anyone anything.' "Davay ne budem" is "let's not". Then come "nikomu", to nobody, and "nichego", nothing, stacking the negatives.
+- 'Are you afraid that I will tell colleagues?' "Boish'sya", you're afraid, ends in -sya. "Kollegam" is "to colleagues", with the -am plural for "to".
+- 'Me? No, I do not care at all.' "Mne vsyo ravno" is "to me all is equal", the Russian for "I don't care". "Voobshche" adds "at all".
+- 'There is nothing serious between us anyway.' Here "vsyo ravno" means "anyway". "Mezhdu nami" is "between us", and "nichego ser'yoznogo net" is "nothing serious there isn't".
+- 'Oh, so that is how you speak now!' "Zagovoril" is "govoril", spoke, with "za-", which here means "started". "Ah vot kak" is "ah, so that's how".
+- 'Vika, wait! Who is this young man?' "Postoy" is "stand a moment", from "stoyat'", to stand. "Molodoy chelovek", young man, is the standard way to refer to a young stranger.
+- 'Vadim, did you want to know the truth?' Vika says "ty" to her ex-husband. "Khotel", wanted, ends in -l for a man, and "pravda" is "truth".
+- 'Yes, I want to know everything.' "Khochu znat'" is "I want to know", and "vsyo" is "everything".
+- 'Here, meet my boyfriend.' "Paren'" means both "guy" and "boyfriend". "Poznakom'sya", meet, ends in -sya, and "s moim parnem", with my boyfriend, ends in -im and -em after "s".
+- 'This is my Max, we are together now!' "Moy Maks" is "my Max". "My teper' vmeste" is "we now together", with no verb at all.
+- 'Very nice to meet you, esteemed Vadim.' "Ochen' priyatno poznakomit'sya" is "very pleasant to get acquainted". "Uvazhayemyy", esteemed, means "respected", and it sounds stiff here.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Relax, my friend, do not be so nervous.' The command for "relax" starts from "weak": "go slack". "Nervous" comes straight from "nerves". "So" is the short word you know.
-- 'He simply wants to get a rise out of me.' "Annoy" grows out of "angry". "Simply" is the shrug.
-- 'Do not take offense at my words.' "Offense" gives "take offense", with the "self" ending on it. "At my words" takes the plural of "word", "slova".
-- 'What do you want to tell me?' Two short ideas: "want" and "tell". "To me" sits between them.
-- 'She would never choose you.' "Will choose" is "take" with "out" in front. "Never not" is the double negative, and "you" takes the object form.
-- 'Why are you so confident about this?' A man says "uveren", and a woman would say "uverena". "About this" is the small word for "in" and "this" in a new shape.
-- 'She is a beautiful and mature woman.' "Mature" means "grown up", from the idea of having grown. Kostya says "woman", and not "girl".
-- 'And you are simply a broke young cook.' "Poor" also means "poor thing", so it's both unkind and a bit tender. "Simply" is back.
-- 'I know her from a completely different side.' "Side" is the "side" of "next door" in the knife scenes. "Her" is the object form of "she".
-- 'Do you want to drink some juice with me?' "Drink up" has the "vy-" in front. "With me" is "so mnoy", because "s" turns into "so" before a tricky sound.
-- 'No, thank you, I am at work right now.' "At work" is "on work", with an "-e" after "on". Max politely refuses.
-- 'Well, suit yourself, it is your business.' "As you know" is the Russian for "suit yourself". "Business" is really "matter" or "deed".
-- 'I will still talk with her anyway.' This "anyway" is the "all equal" idiom from the last scene. "With her" turns "she" into "ney", with an added "n".
+- 'Relax, my friend, do not be so nervous.' "Rasslab'sya", relax, is built on "slabyy", weak, so it's "go slack". "Ne nervnichay" comes from "nervy", nerves.
+- 'He simply wants to get a rise out of me.' "Pozlit'", to annoy, grows out of "zloy", angry. "Prosto" is "simply", and "menya" is "me".
+- 'Do not take offense at my words.' "Ne obizhaysya" is "don't take offence", from "obida", an offence. "Na moi slova" is "at my words", with "slova" the plural of "slovo".
+- 'What do you want to tell me?' "Chto ty khochesh' mne skazat'?" is "what you want to me to say?". "Mne" is "to me".
+- 'She would never choose you.' "Vyberet" is "will choose", from "brat'", to take, with "vy-", out. "Nikogda ne" is the double negative, and "tebya" is "you".
+- 'Why are you so confident about this?' "Uveren", sure, is for a man, and a woman would say "uverena". "V etom" is "in this".
+- 'She is a beautiful and mature woman.' "Vzroslaya", grown up, hides "rasti", to grow. Kostya says "zhenshchina", woman, not "devushka", girl.
+- 'And you are simply a broke young cook.' "Bednyy" means "poor", short of money, and also "poor thing". "Molodoy povar" is "young cook".
+- 'I know her from a completely different side.' "S drugoy storony" is "from another side", with "storona", side, becoming "storony" after "s". "Yeyo" is "her".
+- 'Do you want to drink some juice with me?' "Vypit'" is "to drink up", with "vy-". "So mnoy" is "with me": "s" turns into "so" before "mnoy". "Soka" is "some juice".
+- 'No, thank you, I am at work right now.' Russians are "na rabote", on work, not "in" it. "Seychas" is "right now".
+- 'Well, suit yourself, it is your business.' "Kak znayesh'" is "as you know", the Russian "suit yourself". "Tvoyo delo" is "your affair".
+- 'I will still talk with her anyway.' "Vsyo ravno" is the "anyway" from the last scene. "S ney" is "with her", where "ona" turns into "ney" with an added "n".

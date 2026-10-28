@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Nastya, why do you not eat meat?' Ainura uses "kushat'", a soft, homely word for eating that you'd say to a child or at the table. The plain word is "yest'". And the meat is "myaso".
-- 'Because I am a strict vegetarian.' "Potomu chto" is the matching answer to "pochemu": "why" and "because" make a pair. The "-ka" at the end of "vegetarian" marks a woman, so a man would be a "vegetarianets".
-- 'Really? And here I thought you were Russian.' "Da ty chto" is a very Russian "you don't say!", literally "yes, you what?". Ainura says "dumala" with the "-la" of a woman.
-- 'Vegetarians are people who do not eat meat.' "Kotoryye" means "who" or "which", and joins a group to what they do. "They eat" is irregular. And "people" is irregular too.
-- 'I used to be a vegetarian too.' "Ran'she" means "earlier", so it gives you "used to". After "was", the job takes the "-oy" ending, the same "as a" idea as before.
-- 'Really? When did you not eat meat?' Nastya uses the polite "you" with Ainura, who is older, though Ainura says "ty" to her. "Kogda" is "when".
-- 'In the nineties there was no money at all.' Russian says "in the ninety years" for "in the nineties". And "there was not of money" uses the "of" form of money, "deneg", after "not".
-- 'I ate only potatoes for a whole year.' "Whole year" is "tselyy god". Russians say "potato" in the singular for the whole crop, like "a year of potato".
-- 'I consider killing animals unacceptable.' "Animals" is a relative of "alive", which you heard in the goose scene. "Unacceptable" is "not permissible".
-- 'But juicy meat cutlets are so tasty!' "Juicy" comes from "sok", juice. "Meat" turns into a describing word, and every word in "so tasty" takes the plural ending.
-- 'Every cow has the right to life.' A cow is "korova", and Nastya makes it tender with "-ka". "Has the right" is formal, since "have" in this sense is not the everyday "at me" pattern.
-- 'Oh my! You tell stories so beautifully!' "Bay" is an exclamation from Ainura's home region, which fits her. "Beautifully" comes from "krasivyy", beautiful.
-- 'I hope you finally understood me.' "Nakonets", "finally", is a handy word for anything long awaited. "Understood" ends in "-li", the polite plural.
+- 'Nastya, why do you not eat meat?' Ainura says "kushat'", a soft, homely verb for eating, often used with children. The plain verb is "yest'". Meat is "myaso".
+- 'Because I am a strict vegetarian.' "Potomu chto", because, answers "pochemu", why. In "vegetarianka" the -ka marks a woman; a man would be a "vegetarianets".
+- 'Really? And here I thought you were Russian.' "Da ty chto?" is a very Russian "you don't say!", word for word "yes, you what?". "Dumala", thought, ends in -la because Ainura is a woman.
+- 'Vegetarians are people who do not eat meat.' "Lyudi", people, is the plural of "chelovek", a person. "Kotoryye" is "who", and "ne yedyat" is "do not eat", from the irregular verb "yest'".
+- 'I used to be a vegetarian too.' "Ran'she", earlier, gives you "used to". After "byla", was, the word changes to "vegetariankoy", the ending Russian uses for "as a".
+- 'Really? When did you not eat meat?' Nastya says "vy" to the older Ainura, while Ainura calls her "ty". "Kogda" is "when", and "yeli", ate, has the -li of "vy".
+- 'In the nineties there was no money at all.' "V devyanostyye gody" is "in the ninetieth years", how Russians name a decade. "Ne bylo deneg" is "there was not of money": "den'gi" becomes "deneg" after "ne bylo".
+- 'I ate only potatoes for a whole year.' "Tselyy god" is "a whole year". Russian keeps "kartoshka", potato, in the singular for potatoes as food, so it's "kartoshku" here.
+- 'I consider killing animals unacceptable.' "Zhivotnoye", animal, grows from "zhivoy", alive. "Nedopustimym" is "ne" plus "dopustimyy", permissible, and it takes -ym after "schitayu", I consider.
+- 'But juicy meat cutlets are so tasty!' "Sochnyye", juicy, grows out of "sok", juice, and "myasnyye" is "meaty", from "myaso". "Takiye vkusnyye" is "such tasty", plural to match "kotlety".
+- 'Every cow has the right to life.' A cow is "korova", and "korovka" makes her small and dear. "Imeyet pravo na zhizn'" is "has a right to life"; this bookish "imet'" replaces the usual "u menya yest'".
+- 'Oh my! You tell stories so beautifully!' "Oy, bay!" is a cry of surprise from Ainura's homeland. "Krasivo", beautifully, comes from "krasivyy", and "rasskazyvayesh'" is "you tell".
+- 'I hope you finally understood me.' "Nadeyus'" is "I hope". "Nakonets" is "at last", and "ponyali" has the -li of the polite "vy".

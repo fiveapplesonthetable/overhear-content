@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Listen, kid, I want to talk.' This is street Russian. The first word is a clipped "hey, listen", and "maloy", kid, comes from "small". "There is a conversation" is how he says he wants a word.
-- 'What do you need?' Max uses the polite "you" with a stranger, and he is wary. The shape is "what to you needed".
-- 'Vika works here with you.' "Here at you" is Russian for "where you work". Vadim talks like a policeman, short and flat.
-- 'Viktoria Sergeyevna.' He uses her full name and father's name, which makes it sound like a police file.
-- 'Who is she seeing here?' "Meet" turns into "date" when it has "with" after it, so it's the normal way to say you're seeing someone.
-- 'Well, why are we silent?' Vadim says "we are silent" when he means "you". It's the patronising "we" Russians use for scolding children and suspects.
-- 'Why should I answer?' "Should" has a masculine ending, because Max is a man. "Answer" is from "otvet", an answer.
-- 'Don't want to answer here?' Vadim switches to the friendly "you", which sounds rude from a stranger. It's a way of putting Max in his place.
-- 'You'll answer in my prosecutor's office.' "At me in the prosecutor's office" is how he says "my office". The future is a threat dressed as a statement.
-- 'Did you understand me?' The answer will end in "-l", because Max is a man. Vadim keeps using the friendly "you", which is rude here.
-- 'Understood, understood everything.' Max repeats "understood" and adds "everything". Fear makes him say it twice.
-- 'She is not seeing anyone.' The pieces of "nobody" come apart here: "ni" and "kem" have "with" wedged between them. "Not" follows, so it's a double negative with a preposition in the middle.
-- 'Well, you watch yourself.' Literally "look at me", but with that tone it's a threat meaning "watch your step".
-- 'Must urgently warn everyone.' "Nado" is the one-word "must", and "everyone" takes the object ending. Max plans to spread the news.
+- 'Listen, kid, I want to talk.' "Slysh'" is street speech, clipped from "slyshish'", do you hear. "Maloy", kid, is really "malyy", small, and "yest' razgovor" is "there is a conversation".
+- 'What do you need?' "Chto vam nuzhno?" is "what to you needed?". Max uses "vam", the polite "you", with a stranger.
+- 'Vika works here with you.' "U vas" is "at you", meaning "at your place". "Tut" is an everyday "here", and "rabotayet" is "works".
+- 'Viktoria Sergeyevna.' A first name plus the father's name, "Sergeyevna", daughter of Sergey, is the formal way to name an adult.
+- 'Who is she seeing here?' "Vstrechat'sya s", to meet with, is the normal way to say you're dating someone. "S kem" is "with whom", from "kto", who.
+- 'Well, why are we silent?' "Molchim" is "we are silent", from "molchat'". Vadim says "we" when he means "you", the scolding "we" used on children.
+- 'Why should I answer?' "Dolzhen", should, has a man's ending. "Otvechat'", to answer, sits next to the noun "otvet", an answer.
+- 'Don't want to answer here?' Vadim has called Max "ty" from his first word, and "khochesh'" is the "ty" form of "want". "Zdes'" is "here".
+- 'You'll answer in my prosecutor's office.' "Otvetish'" is the finished verb, so it means "you will answer". "U menya v prokurature" is "at me in the prosecutor's office".
+- 'Did you understand me?' "Ty menya ponyal?" is "you me understood?". "Ponyal" ends in -l because Max is a man.
+- 'Understood, understood everything.' "Ponyal, vsyo ponyal" repeats the same word and adds "vsyo", everything.
+- 'She is not seeing anyone.' The pieces of "nikem", nobody, come apart around "s", with: "ni s kem". Then "ne" follows, so the double negative has a preposition inside it.
+- 'Well, you watch yourself.' "Smotri u menya" is "look, at me", meaning "careful, or you'll answer to me". "Smotri" is the "ty" command of "smotret'", to look.
+- 'Must urgently warn everyone.' "Nado" is a one-word "must". "Predupredit'" is "to warn", and "vse", everyone, becomes "vsekh" as the object.

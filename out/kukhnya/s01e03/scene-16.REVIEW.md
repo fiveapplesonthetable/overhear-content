@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good evening, dear guests of our restaurant!' "Dobryy vecher" is masculine, because "vecher" is. "Dear" also means "expensive", which is how Russian sees the people you value.
-- 'Good evening, head chef!' Vadim answers with the same two words, and calls Barinov by his title, a chef and a cook stuck together.
-- 'I brought you a special surprise.' A man says "prinyos", carrying it. A woman would say "prinesla". The surprise is a borrowed word.
-- 'This is a compliment in honor of the birthday.' In Russian restaurants a "compliment from the chef" is a free extra. "In honour of" is two short words, and "birthday" is literally "day of birth".
-- 'Thank you very much, everything looks very delicious!' "Big thanks" is how Russians say "thank you very much". After "looks", "delicious" takes an "-o" ending.
-- 'I see that you are an excellent cook.' Vadim is flattering the chef because he wants something.
-- 'I can help you in the city.' "In the city" ends in -e after "in". Vadim is offering favours, the way a prosecutor can.
-- 'Call me tomorrow at any time.' "Call" comes from "zvon", a ring, so it's "ring me". "Any" has "love" inside it, so it means "whichever you like".
-- 'Thank you, this is a great honor for me!' "Honour" is the same word as in "in honour of". Barinov is being polite to a powerful man.
-- 'Wait, I will taste the dish myself first.' "Wait" comes in its formal form, with "-te". "Myself" is a short word, and "first" can also mean "at the beginning".
-- 'Oh, the cook put way too much pepper in the sauce!' The verb is "pere-", over, plus "perets", pepper: over-peppered. Russians build words like this whenever something has too much.
-- 'And in my opinion, it turned out quite delicious.' "In my opinion" is literally "by mine". "Quite" shares a root with "pleased".
-- 'No, I will immediately redo everything!' "Pere-" again, this time meaning "again": do it over. "Immediately" is "not slowly".
-- 'I will personally bring you an ideal dish.' "Prinesu" carries "will bring" inside it, and "personally" comes from "personal". The chef is not backing down.
+- 'Good evening, dear guests of our restaurant!' "Dobryy vecher" is masculine, like "vecher". "Dorogiye", dear, also means "expensive", and "nashego restorana" is "of our restaurant".
+- 'Good evening, head chef!' Vadim gives back the same greeting. "Shef-povar" glues "shef" to "povar", cook, and it's the formal title.
+- 'I brought you a special surprise.' "Prinyos", brought, is a man's form; a woman would say "prinesla". "Vam" is "to you", and "syurpriz" came from French.
+- 'This is a compliment in honor of the birthday.' "V chest'" is "in honour", and "dnya rozhdeniya" is "of the day of birth". A chef's "kompliment" is a free extra dish.
+- 'Thank you very much, everything looks very delicious!' "Spasibo bol'shoye" is "thanks big". After "vyglyadit", looks, comes "vkusno", tasty, with an -o.
+- 'I see that you are an excellent cook.' "Ya vizhu, chto" is "I see that". "Otlichnyy", excellent, is from "otlichat'sya", to stand out.
+- 'I can help you in the city.' "Pomoch' vam" is "to help to you", with the "to" form again. "V gorode" is "in the city", with -e after "v".
+- 'Call me tomorrow at any time.' "Pozvonite", call, has "zvon", a ringing, at its heart. "V lyuboye vremya" is "at any time", and "zavtra" is "tomorrow".
+- 'Thank you, this is a great honor for me!' "Chest'" is the "honour" from "v chest'". "Dlya menya" is "for me", and "bol'shaya" is feminine to match "chest'".
+- 'Wait, I will taste the dish myself first.' "Podozhdite", wait, has the -te of the polite form. "Snachala", first, grows out of "nachalo", beginning, and "sam" is "myself".
+- 'Oh, the cook put way too much pepper in the sauce!' "Pereperchil" is "pere-", over, plus "perets", pepper: he over-peppered it. "Slishkom sil'no" is "too strongly".
+- 'And in my opinion, it turned out quite delicious.' "Po-moyemu" is "by mine", the Russian "in my opinion". "Dovol'no", quite, shares a root with "dovolen", pleased.
+- 'No, I will immediately redo everything!' "Peredelayu" uses "pere-" again, now meaning "over again": I'll redo it. "Nemedlenno" is "ne" plus "medlenno", slowly.
+- 'I will personally bring you an ideal dish.' "Prinesu" is "I'll bring", from the same verb as "prinyos". "Lichno" is "personally", and "ideal'noye blyudo" is "ideal dish".
