@@ -27,15 +27,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'It turned out somewhat awkward, Kostya.' "Kak-to" is "somehow", with the "-to" that makes things vague. "Awkward" is "ne" plus "lovkiy", deft.
+- 'It turned out somewhat awkward, Kostya.' "Kak-to" is "somehow": the "-to" makes things vague. "Awkward" is "ne" plus "lovkiy", deft.
 - 'You almost broke my nose!' "Chut' ne" is literally "barely not", and it means "almost". Russian says "broke to me the nose", where we say "my nose".
-- 'Old buddy, forgive me, please!' "Starichok" is "old man" with a small ending that makes it warm. "Prosti" is the friendly "forgive me".
+- 'Old buddy, forgive me, please!' "Starichok" is "old man", given a small ending that makes it warm. "Prosti" is the friendly "forgive me".
 - 'What good is your simple apology to me?' This is a pun: "prostoye" means "simple" and shares its root with "prosti", "forgive". Kostya plays with Max's words.
-- 'Now you owe me big time.' Russian says "behind you a big debt". "Debt" is the word you'd see on a bill.
+- 'Now you owe me big time.' Russian says "behind you a big debt". "Debt" is what you'd see on a bill.
 - 'What can I do for you?' "Mogu" is "I can", and "sdelat'" is "to do". "For you" is "dlya tebya", the friendly form.
-- 'Make me some fresh orange juice.' The word for orange is the fruit, "apel'sin", with an ending that makes it a describing word. "Fresh" is the word from "a fresh head".
+- 'Make me some fresh orange juice.' Orange is the fruit, "apel'sin", with an ending that makes it a describing word. "Fresh" is the "fresh" of "a fresh head".
 - 'My head is spinning very much.' Russian says "at me spins the head", the "I have" pattern. "Spins" comes from "krug", a circle.
-- 'I will do everything quickly right now.' "I will do" is a single word, with an "s-" that means "done". "Right now" is one word as well.
+- 'I will do everything quickly right now.' The "s-" in front of "do" means "get it done". "Seychas" is "right now".
 - 'It is very loud in the kitchen right now.' "Gromko" means "loud" and doubles as "loudly". Russian needs no "it is".
 - 'Is the chef shouting at the cooks again?' "Shouts at" uses a short word for "at". "Cooks" ends in "-ov" as the object.
 - 'He is still looking for the knife.' "Do sikh por" is literally "until these times", and it means "still". "Looks for" is the "ishchi" family.

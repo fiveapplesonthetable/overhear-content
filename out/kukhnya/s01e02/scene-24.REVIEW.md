@@ -28,15 +28,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'In the dining room a guest found a knife in the fish!' "Found" is an irregular past, "nashyol". "In the fish" has the -e on the fish, and the position of "in the dining room" at the front sets the scene.
-- 'Chef, we must urgently do something.' "Necessary" is the word for "must". "Something" is "what" plus "-to", the "-to" we met before.
+- 'Chef, we must urgently do something.' "Necessary" does the job of "must". "Something" is "what" plus "-to", the "-to" we met before.
 - 'I will go out to the dining room myself.' "Myself" is one short word. "Will go" is also one, and "to the hall" has no ending.
 - 'Will you explain to me what this is?' Russian uses the future for a polite request, so "will you explain" means "please explain". "What is this" ends in a small word meaning "such".
-- 'Allow me to explain everything to the guest.' "Allow" is the polite command, and "to the guest" has the "to" ending. Max steps in to save the situation.
-- 'Before you is a unique ancient recipe.' "Before you" has "you" in a special shape after "before". "Ancient" is built on "old".
-- 'The Crusaders prepared fish right on their swords.' The word for crusaders means "cross-carriers": "cross" and "carry". "On swords" has the plural ending for "on".
-- 'Yes, this is indeed very delicious!' "Indeed" comes from the word for "action", so it means "truly". The guest agrees with Max.
+- 'Allow me to explain everything to the guest.' "Allow" is a formal command, and "to the guest" has the "to" ending. Max steps in to save the situation.
+- 'Before you is a unique ancient recipe.' "Before you" has "you" in a special shape after "before". "Ancient" starts from "old".
+- 'The Crusaders prepared fish right on their swords.' "Crusaders" means "cross-carriers": "cross" and "carry". "On swords" has the plural ending for "on".
+- 'Yes, this is indeed very delicious!' "Indeed" comes from "action", so it means "truly". The guest agrees with Max.
 - 'This is true poetry of haute cuisine.' Russian says "high cuisine" for "haute cuisine". "Poetry" is borrowed, as the guest sounds grand.
-- 'Bring me another fish just like this!' "Bring" is the polite command. "One more" and "such" are both feminine, to match "fish".
+- 'Bring me another fish just like this!' "Bring" takes the "-te" of formal commands. "One more" and "such" are both feminine, to match "fish".
 - 'We will prepare everything right away, bon appetit.' "Priyatnogo appetita" is "of pleasant appetite", the standard wish before a meal.
 - 'Max, let's head quickly to the kitchen.' "Went", used as "let's go", is a common Russian trick. "Quickly" is the "faster" word.
 - 'Chef, you called me by my name!' "By name" is literally "by name", and Max is delighted. "Called" is plural-polite.

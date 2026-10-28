@@ -29,13 +29,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Wait, guy! Where are you carrying the expensive cognac?' "Stoy" is literally "stand", so "stop!". The question word is "kuda", where to, because the bottle is moving.
 - 'What cognac? I took nothing.' Another double negative: "nothing I didn't take". The man plays dumb.
 - 'The bottle from the bar! It costs twenty thousand.' "Costs" looks exactly like "stands", and the numbers are "twenty" and "thousand". "From the bar" is two short words.
-- 'Wow, twenty thousand rubles? What a price!' "Ogo" is a plain "wow". "Nichego sebe" is the "nothing to oneself" exclamation, and "price" is the word you'll hear in any shop.
-- 'You seriously got into trouble, bartender.' Russian says you "fall into" trouble, the way English says "land in". The word for trouble is "beda", a good one to know.
+- 'Wow, twenty thousand rubles? What a price!' "Ogo" is a plain "wow". "Nichego sebe" is the "nothing to oneself" exclamation, and "price" turns up in any shop.
+- 'You seriously got into trouble, bartender.' Russian says you "fall into" trouble, the way English says "land in". "Beda", trouble, is a good one to know.
 - 'No, you are the one in trouble!' "Eto ty" is "it's you", which puts the stress on "you". Kostya turns the man's own sentence back on him.
-- 'Return this expensive bottle to me immediately.' The command is "return", and it's the friendly kind. "To me" is a short word.
+- 'Return this expensive bottle to me immediately.' The command is "return", in the friendly form. "To me" is a short word.
 - 'Listen here, guy, you are asking for it now.' "Slushay syuda" is literally "listen here". The last word means "running into" trouble, so it's a threat.
 - 'A big wardrobe always falls very loudly.' It sounds like a folk saying, and the man is hinting that big guys make big noise when they fall. "Falls" is easy to remember, and "loudly" is just "loud" with a new ending.
-- 'Have you heard such a clever folk rule?' "Clever" comes from "um", mind. "Folk" comes from the word for people, "narod". And "heard" has the -l of a man.
-- 'I seriously practiced boxing for many years.' After "many", the word for "year" changes to "let", an irregular plural. Sport takes the ending "-om": "boxing" becomes "boksom".
+- 'Have you heard such a clever folk rule?' "Clever" comes from "um", mind. "Folk" comes from "narod", people. And "heard" has the -l of a man.
+- 'I seriously practiced boxing for many years.' After "many", "year" changes to "let", an irregular plural. Sport takes the ending "-om": "boxing" becomes "boksom".
 - 'Hand over the cognac, otherwise I will hit you!' "Give back" is a command, and "otherwise" is a handy word. "I will hit" is just one word.
-- 'Okay, okay, no need to fight right away!' The doubled "okay" is common. "Fight" has "-sya" at the end, a little "self", and "right away" is a single word.
+- 'Okay, okay, no need to fight right away!' The doubled "okay" is common. "Fight" has "-sya" at the end, a little "self", and "right away" is "srazu".

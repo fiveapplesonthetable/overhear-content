@@ -32,12 +32,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Make two espressos, please.' The command is friendly, and "espresso" doesn't change after "two" because it's a borrowed word. "Pozhaluysta" does the work of "please".
 - 'What are you doing here?' Nastya says "tut", the casual "here", which is shorter than "zdes'". She's using the friendly "you" with Max.
 - 'And I am now the new bartender.' A cheeky "and I" begins it, as though Max had been waiting to say so. "Now" and "new" are the next two words, and they look nothing alike.
-- 'Oh, stop making things up.' "Da ladno" is literally "yes, fine", but it means "come on!". The word for "make up" has "dumat'", to think, inside it: you think something out.
+- 'Oh, stop making things up.' "Da ladno" is literally "yes, fine", but it means "come on!". "Make up" has "dumat'", to think, inside it: you think something out.
 - 'I saw you in the kitchen.' The -a on "videla" shows Nastya is a woman. And Russian says "on the kitchen", not "in", for a restaurant kitchen.
 - 'You are a cook after all.' Russian skips "are", so this is just "you cook". The tiny word "zhe" in the middle brings in "after all".
-- 'I have very many talents.' "At me" is how Russian says "I have". After "many", the word for talent takes a plural ending.
+- 'I have very many talents.' "At me" is how Russian says "I have". After "many", "talent" takes a plural ending.
 - 'And at heart I am a bartender.' Literally "in the soul". Russians use it like English "deep down".
-- 'Did Kostya already fix the machine?' The word for "fixed" ends in -l for a man. "Apparat" is "machine", borrowed from German.
+- 'Did Kostya already fix the machine?' "Fixed" ends in -l for a man. "Apparat" is "machine", borrowed from German.
 - 'Of course, everything works wonderfully.' It's spelled with a "ch" but said "koneshno". And "vsyo" means "everything".
 - 'Then make coffee faster.' Russians "cook" coffee, so the command here comes from the verb for boiling or cooking. "Faster" is the one with the "-eye" ending.
-- 'Right away. Everything will be ready.' "This second" is a fixed phrase meaning "right away". The word for "ready" ends in -o to agree with "everything".
+- 'Right away. Everything will be ready.' "This second" is a fixed phrase meaning "right away". "Ready" ends in -o to agree with "everything".

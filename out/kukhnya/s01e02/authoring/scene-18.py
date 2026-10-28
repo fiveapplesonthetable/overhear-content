@@ -32,13 +32,13 @@ STORY = [
 ]
 WALK = [
     (0, None, '\'Chef, is it time to start preparing hot dishes?\' "Pora" means "it\'s time", and it takes the plain "to start". "Hot dishes" is plural, so both words end alike.'),
-    (1, None, '\'Quiet, Senya! A decisive match is on right now!\' A match "goes", so Russian says "idyot". "Decisive" is built on "to decide".'),
+    (1, None, '\'Quiet, Senya! A decisive match is on right now!\' A match "goes", so Russian says "idyot". "Decisive" is from "to decide".'),
     (2, None, '\'Who is playing in this match today?\' "Plays" is the everyday word for playing a game or a match. "In this match" has an "-e" ending.'),
     (3, None, '\'Our great Spartak is playing against CSKA!\' "Protiv" is "against". "Velikiy" is "great", the grand word, and "our" shows the chef is a fan.'),
-    (4, None, '\'And what is the score in the game now?\' The word for "score" also means "bill" in a restaurant, as in "schyot, pozhaluysta". "In the game" ends in -e.'),
-    (5, None, '\'A draw so far, but we must win!\' "Nich\'ya" is a draw, and "so far" is the word that also means "bye". "Must" and "win" are two short words.'),
-    (6, None, '\'Look, the ball is flying toward their goal!\' The word for "goal" is "vorota", always plural, because it\'s really "gates". "Their" never changes.'),
-    (7, None, '\'Near the opponent penalty area CSKA is holding defense.\' The word for "area" is also "square". "Defense" comes from "oborona", and "holds" is the same word as "hold the menu".'),
+    (4, None, '\'And what is the score in the game now?\' "Score" also means "bill" in a restaurant, as in "schyot, pozhaluysta". "In the game" ends in -e.'),
+    (5, None, '\'A draw so far, but we must win!\' "Nich\'ya" is a draw, and "so far" also means "bye". "Must" and "win" are two short words.'),
+    (6, None, '\'Look, the ball is flying toward their goal!\' "Vorota", goal, is always plural, because it\'s really "gates". "Their" never changes.'),
+    (7, None, '\'Near the opponent penalty area CSKA is holding defense.\' "Area" is also "square". "Defense" comes from "oborona". "Holds" is the same word as "hold the menu".'),
     (8, None, '\'The Spartak forward receives a fast pass.\' "Forward" comes from the verb "to attack". "Receives" is the everyday word for "to get".'),
     (9, None, '\'Come on, Ari with the ball shoots hard!\' "Davay" is a friendly "come on!". "With the ball" has the ending "-om", and "hits" is how Russians describe shooting.'),
     (10, None, '\'The goalkeeper catches this ball with difficulty.\' "Vratar\'" is the goalkeeper, from "vorota", the goal: the gatekeeper. "With difficulty" is literally "with labour".'),

@@ -29,15 +29,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Lyova, come to my office!' "Zaydi" is "drop by", with "za-" meaning "on the way". "To me" becomes "ko mne" with an extra "o" for easier saying.
 - 'Yes, chef, I am already here.' "Already here" is two short words. Lyova needs no "am", since Russian leaves it out.
-- 'Where is my favorite fish knife?' "Fish knife" is "fish's knife", with the fish word in an adjective form. "Favorite" comes from "to love".
-- 'We are looking for it everywhere, chef.' "Everywhere" is one word. "Looking for" is the family of "ishchi", and "it" is the word that never changes.
+- 'Where is my favorite fish knife?' "Fish knife" is "fish's knife", the fish word turned into a describing word. "Favorite" comes from "to love".
+- 'We are looking for it everywhere, chef.' "Vezde" is "everywhere". "Looking for" is the family of "ishchi", and "it" never changes.
 - 'Are you a sous-chef or who?' "Sous" is borrowed from French, as in "sous-chef". The second half, "or who such", is a rude way to ask "who are you?".
-- 'I maintain order in the kitchen.' "Slezhu za" means "keep an eye on", close to "follow after". "Order" is the word from "disorder" earlier.
+- 'I maintain order in the kitchen.' "Slezhu za" means "keep an eye on", close to "follow after". "Order" is the root of "disorder" earlier.
 - 'You keep an eye on the kitchen very poorly!' The same verb comes back, now "you keep an eye". "Poorly" is "plokho", the opposite of "khorosho".
 - 'All the cooks are very busy with the search right now.' "Busy" is a short word, and "searches" is plural, from "poisk". "With" is shown by the ending "-ami".
-- 'Without this knife, the restaurant does not function!' "Without" is "bez", and it makes the knife take an "of" ending. "Works" is the word for "functions".
+- 'Without this knife, the restaurant does not function!' "Without" is "bez", which makes the knife take an "of" ending. "Works" does the job of "functions".
 - 'We checked all tables and shelves.' "Checked" ends in "-li" for "we". "Tables" and "shelves" are both plural.
 - 'If the knife is not found, I will fire everyone!' "Is found" ends in "-sya", as if the knife finds itself. "Everyone" takes the object form.
-- 'Chef, we will certainly find what went missing.' "Certainly" is the word from "obligatory". "What went missing" is a single noun, from the verb "to vanish".
+- 'Chef, we will certainly find what went missing.' "Certainly" comes from "obligatory". "Propazha", what went missing, comes from "to vanish".
 - 'Go and find it right now!' "Go and find" is two commands joined by "and". "Right now" is "straight now".
-- 'Understood, chef! I will find the knife.' "Slushayus'" is what a soldier says: "I'm listening", meaning "yes, sir". "I will find" is one word.
+- 'Understood, chef! I will find the knife.' "Slushayus'" is what a soldier says: "I'm listening", meaning "yes, sir". "Naydu" is "I will find".

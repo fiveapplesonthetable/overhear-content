@@ -38,10 +38,10 @@ WALK = [
     (4, None, '\'No, she is calling specifically for the head chef.\' "Imenno" means "precisely", a word that points right at the one you mean.'),
     (5, None, '\'I warned you! That was a bad idea!\' Senya is a man, so "warned" ends in -l. "Was" ends in -a, because "idea" is a feminine word.'),
     (6, None, '\'Go to Chef\'s office yourself!\' One word, "sam", means "yourself", and it throws the job back at the other cook. "Into the office" has no ending, since you\'re going into it.'),
-    (7, None, '\'Why me? You came up with all of this!\' Russian keeps "I" after the question word, so it\'s literally "why I?". The word for "came up with" has "dumat\'", to think, inside.'),
+    (7, None, '\'Why me? You came up with all of this!\' Russian keeps "I" after the question word, so it\'s literally "why I?". "Came up with" has "dumat\'", to think, inside.'),
     (8, None, '\'You are his right-hand man in the kitchen.\' Russian has the same idiom as English: "right hand". The word "right" also means "correct", so it\'s a happy double meaning.'),
-    (9, None, '\'I am not going, he will kill me!\' "Will go" is one word, with "po-" making it a future. Senya\'s fear is clear in the short sentences.'),
-    (10, None, '\'Let us just send Chef a text message.\' "Let\'s write" is two short words, and the word for "message" comes from the word for "report".'),
+    (9, None, '\'I am not going, he will kill me!\' "Poydu" is "I will go": "po-" turns the going into a future. Senya\'s fear is clear in the short sentences.'),
+    (10, None, '\'Let us just send Chef a text message.\' "Let\'s write" is two short words, and "message" grows out of "report".'),
     (11, None, '\'And write our resignation letters right away?\' The phrase is "application about dismissal", and the "dismissal" is from "to fire", the one you heard in scene 8. The "o" becomes "ob" before a vowel.'),
     (12, None, '\'No need to jinx it ahead of time!\' The verb means to caw like a crow, and Russians use it for predicting doom out loud. "Ahead of time" is literally "earlier than time".'),
 ]

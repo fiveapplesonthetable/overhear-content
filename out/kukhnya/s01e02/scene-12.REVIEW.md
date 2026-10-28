@@ -27,14 +27,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'You stole my favorite Japanese knife!' The "u-" at the front of "stole" is the "away" prefix. It ends in "-li" because the chef is speaking to several people.
-- 'And you completely ruined my dish!' "Ruined" is "spoiled" with a prefix, and "completely" is one word.
+- 'And you completely ruined my dish!' "Ruined" is "spoiled", plus a prefix, and "completely" is "sovershenno".
 - 'And all of you get out of here quickly!' "Went out" is used as an order, which Russians do all the time. "Here" is in the "from here" form.
 - 'Chef, we were only trying to help!' Word for word it's "we wanted as better", the stock excuse for good intentions.
 - 'I do not care what you were trying to do!' Literally "to me to spit", a rude way to say "I couldn't care less". The last words are "what you there wanted".
 - 'Do you know what the guest said about the fricassee?' A rising voice turns "you know" into a question. The woman guest has her own feminine form, and "about" is a casual short word.
 - 'Was she completely delighted?' "In full delight" is a nice phrase to reuse, and "was" ends in -a for a woman.
-- 'She said that it was disgusting!' The word for "disgusting" is long. "It" refers to the fricassee, which is a neuter word, and "that" is the same word as "what".
-- 'Chef, I told them right away!' "To them" is a single short word, and "right away" is one too.
+- 'She said that it was disgusting!' "Disgusting" is a long word. "It" refers to the fricassee, which is a neuter word. "That" is the same word as "what".
+- 'Chef, I told them right away!' "Im" is the "to them" form of "they", and "srazu" is "right away".
 - 'It was Senya who made that terrible sauce!' Russian starts with "this Senya cooked", a handy way to point at who did it. "Terrible" comes from "horror".
 - 'No, Fedya roasted that partridge himself!' "Himself" is the shifting-the-blame word, and "that partridge" ends in -u as the thing roasted.
 - 'Stop arguing! You are all terrible cooks!' "Enough" is literally "it suffices". "Cooks" has the odd plural in -a.
