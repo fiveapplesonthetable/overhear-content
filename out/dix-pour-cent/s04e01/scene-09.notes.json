@@ -39,12 +39,28 @@
           "gram": "feminine singular"
         },
         {
-          "t": "s'il te plaît.",
+          "t": "s'il",
           "lemma": "s'il te plaît",
           "pos": "phrase",
-          "stress": "siltəplɛ",
-          "gloss": "please",
-          "gram": "polite expression"
+          "stress": "sil",
+          "gloss": "if it (please)",
+          "gram": "si (elided s') + il: part of 's'il te plaît'"
+        },
+        {
+          "t": "te",
+          "lemma": "s'il te plaît",
+          "pos": "phrase",
+          "stress": "tə",
+          "gloss": "to you (please)",
+          "gram": "informal object pronoun in 's'il te plaît'"
+        },
+        {
+          "t": "plaît.",
+          "lemma": "s'il te plaît",
+          "pos": "phrase",
+          "stress": "plɛ",
+          "gloss": "pleases (please)",
+          "gram": "part of 's'il te plaît' = please (informal)"
         }
       ]
     },
@@ -69,20 +85,36 @@
           "gram": "proper name"
         },
         {
-          "t": "Qu'est-ce qu'",
+          "t": "Qu'est-ce",
           "lemma": "qu'est-ce que",
-          "pos": "pron",
-          "stress": "kɛsk",
-          "gloss": "what",
-          "gram": "interrogative pronoun phrase, elided"
+          "pos": "phrase",
+          "stress": "kɛs",
+          "gloss": "what is it",
+          "gram": "question opener"
         },
         {
-          "t": "il y a?",
+          "t": "qu'il",
+          "lemma": "que",
+          "pos": "conj",
+          "stress": "kil",
+          "gloss": "that he",
+          "gram": "conjunction que (elided) + subject pronoun il"
+        },
+        {
+          "t": "y",
           "lemma": "il y a",
-          "pos": "verb",
-          "stress": "ilja",
-          "gloss": "is there",
-          "gram": "impersonal verb phrase"
+          "pos": "phrase",
+          "stress": "i",
+          "gloss": "(ago)",
+          "gram": "part of il y a"
+        },
+        {
+          "t": "a?",
+          "lemma": "il y a",
+          "pos": "phrase",
+          "stress": "a",
+          "gloss": "(ago)",
+          "gram": "part of il y a: avoir, 3rd person singular"
         }
       ]
     },
@@ -139,20 +171,12 @@
           "gram": "feminine plural"
         },
         {
-          "t": "d'",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "d",
-          "gloss": "of",
-          "gram": "preposition, elided"
-        },
-        {
-          "t": "agence.",
+          "t": "d'agence.",
           "lemma": "agence",
           "pos": "noun",
-          "stress": "aʒɑ̃s",
-          "gloss": "agency",
-          "gram": "feminine singular"
+          "stress": "daʒɑ̃s",
+          "gloss": "of agency",
+          "gram": "d': preposition, elided + agence.: feminine singular"
         }
       ]
     },
@@ -293,20 +317,12 @@
       "trans": "I ran this agency for thirty years!",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "subject pronoun, elided"
-        },
-        {
-          "t": "ai",
+          "t": "J'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "e",
-          "gloss": "have",
-          "gram": "present, 1st singular"
+          "stress": "ʒe",
+          "gloss": "I have",
+          "gram": "je + ai: 1sg subject pronoun + present 1sg"
         },
         {
           "t": "dirigé",
@@ -581,20 +597,12 @@
           "gram": "subject pronoun, 1st singular"
         },
         {
-          "t": "n'",
+          "t": "n'en",
           "lemma": "ne",
-          "pos": "adv",
-          "stress": "n",
-          "gloss": "not",
-          "gram": "negative particle, elided"
-        },
-        {
-          "t": "en",
-          "lemma": "en",
-          "pos": "pron",
-          "stress": "ɑ̃",
-          "gloss": "of them",
-          "gram": "adverbial pronoun"
+          "pos": "part",
+          "stress": "nɑ̃",
+          "gloss": "not (of it)",
+          "gram": "elided ne + pronoun en ('avoir envie de')"
         },
         {
           "t": "veux",
@@ -681,12 +689,20 @@
       "trans": "Goodbye. Seriously, I cannot believe it.",
       "words": [
         {
-          "t": "Au revoir.",
+          "t": "Au",
           "lemma": "au revoir",
-          "pos": "noun",
-          "stress": "oʁvwaʁ",
-          "gloss": "goodbye",
-          "gram": "fixed farewell formula"
+          "pos": "phrase",
+          "stress": "o",
+          "gloss": "good-",
+          "gram": "first word of au revoir"
+        },
+        {
+          "t": "revoir.",
+          "lemma": "au revoir",
+          "pos": "phrase",
+          "stress": "ʁəvwaʁ",
+          "gloss": "-bye",
+          "gram": "second word of au revoir"
         },
         {
           "t": "Vraiment,",
@@ -705,20 +721,12 @@
           "gram": "subject pronoun, 1st singular"
         },
         {
-          "t": "n'",
+          "t": "n'en",
           "lemma": "ne",
-          "pos": "adv",
-          "stress": "n",
-          "gloss": "not",
-          "gram": "negative particle, elided"
-        },
-        {
-          "t": "en",
-          "lemma": "en",
-          "pos": "pron",
-          "stress": "ɑ̃",
-          "gloss": "of it",
-          "gram": "adverbial pronoun"
+          "pos": "part",
+          "stress": "nɑ̃",
+          "gloss": "not (of it)",
+          "gram": "elided ne + pronoun en ('avoir envie de')"
         },
         {
           "t": "reviens",
@@ -899,12 +907,28 @@
           "gram": "feminine singular"
         },
         {
-          "t": "s'il te plaît.",
+          "t": "s'il",
           "lemma": "s'il te plaît",
           "pos": "phrase",
-          "stress": "siltəplɛ",
-          "gloss": "please",
-          "gram": "polite expression"
+          "stress": "sil",
+          "gloss": "if it (please)",
+          "gram": "si (elided s') + il: part of 's'il te plaît'"
+        },
+        {
+          "t": "te",
+          "lemma": "s'il te plaît",
+          "pos": "phrase",
+          "stress": "tə",
+          "gloss": "to you (please)",
+          "gram": "informal object pronoun in 's'il te plaît'"
+        },
+        {
+          "t": "plaît.",
+          "lemma": "s'il te plaît",
+          "pos": "phrase",
+          "stress": "plɛ",
+          "gloss": "pleases (please)",
+          "gram": "part of 's'il te plaît' = please (informal)"
         }
       ]
     },
@@ -929,20 +953,36 @@
           "gram": "proper name"
         },
         {
-          "t": "Qu'est-ce qu'",
+          "t": "Qu'est-ce",
           "lemma": "qu'est-ce que",
-          "pos": "pron",
-          "stress": "kɛsk",
-          "gloss": "what",
-          "gram": "interrogative pronoun phrase, elided"
+          "pos": "phrase",
+          "stress": "kɛs",
+          "gloss": "what is it",
+          "gram": "question opener"
         },
         {
-          "t": "il y a?",
+          "t": "qu'il",
+          "lemma": "que",
+          "pos": "conj",
+          "stress": "kil",
+          "gloss": "that he",
+          "gram": "conjunction que (elided) + subject pronoun il"
+        },
+        {
+          "t": "y",
           "lemma": "il y a",
-          "pos": "verb",
-          "stress": "ilja",
-          "gloss": "is there",
-          "gram": "impersonal verb phrase"
+          "pos": "phrase",
+          "stress": "i",
+          "gloss": "(ago)",
+          "gram": "part of il y a"
+        },
+        {
+          "t": "a?",
+          "lemma": "il y a",
+          "pos": "phrase",
+          "stress": "a",
+          "gloss": "(ago)",
+          "gram": "part of il y a: avoir, 3rd person singular"
         }
       ]
     },
@@ -999,20 +1039,12 @@
           "gram": "feminine plural"
         },
         {
-          "t": "d'",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "d",
-          "gloss": "of",
-          "gram": "preposition, elided"
-        },
-        {
-          "t": "agence.",
+          "t": "d'agence.",
           "lemma": "agence",
           "pos": "noun",
-          "stress": "aʒɑ̃s",
-          "gloss": "agency",
-          "gram": "feminine singular"
+          "stress": "daʒɑ̃s",
+          "gloss": "of agency",
+          "gram": "d': preposition, elided + agence.: feminine singular"
         }
       ]
     },
@@ -1153,20 +1185,12 @@
       "trans": "I ran this agency for thirty years!",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "subject pronoun, elided"
-        },
-        {
-          "t": "ai",
+          "t": "J'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "e",
-          "gloss": "have",
-          "gram": "present, 1st singular"
+          "stress": "ʒe",
+          "gloss": "I have",
+          "gram": "je + ai: 1sg subject pronoun + present 1sg"
         },
         {
           "t": "dirigé",
@@ -1441,20 +1465,12 @@
           "gram": "subject pronoun, 1st singular"
         },
         {
-          "t": "n'",
+          "t": "n'en",
           "lemma": "ne",
-          "pos": "adv",
-          "stress": "n",
-          "gloss": "not",
-          "gram": "negative particle, elided"
-        },
-        {
-          "t": "en",
-          "lemma": "en",
-          "pos": "pron",
-          "stress": "ɑ̃",
-          "gloss": "of them",
-          "gram": "adverbial pronoun"
+          "pos": "part",
+          "stress": "nɑ̃",
+          "gloss": "not (of it)",
+          "gram": "elided ne + pronoun en ('avoir envie de')"
         },
         {
           "t": "veux",
@@ -1541,12 +1557,20 @@
       "trans": "Goodbye. Seriously, I cannot believe it.",
       "words": [
         {
-          "t": "Au revoir.",
+          "t": "Au",
           "lemma": "au revoir",
-          "pos": "noun",
-          "stress": "oʁvwaʁ",
-          "gloss": "goodbye",
-          "gram": "fixed farewell formula"
+          "pos": "phrase",
+          "stress": "o",
+          "gloss": "good-",
+          "gram": "first word of au revoir"
+        },
+        {
+          "t": "revoir.",
+          "lemma": "au revoir",
+          "pos": "phrase",
+          "stress": "ʁəvwaʁ",
+          "gloss": "-bye",
+          "gram": "second word of au revoir"
         },
         {
           "t": "Vraiment,",
@@ -1565,20 +1589,12 @@
           "gram": "subject pronoun, 1st singular"
         },
         {
-          "t": "n'",
+          "t": "n'en",
           "lemma": "ne",
-          "pos": "adv",
-          "stress": "n",
-          "gloss": "not",
-          "gram": "negative particle, elided"
-        },
-        {
-          "t": "en",
-          "lemma": "en",
-          "pos": "pron",
-          "stress": "ɑ̃",
-          "gloss": "of it",
-          "gram": "adverbial pronoun"
+          "pos": "part",
+          "stress": "nɑ̃",
+          "gloss": "not (of it)",
+          "gram": "elided ne + pronoun en ('avoir envie de')"
         },
         {
           "t": "reviens",
@@ -1759,12 +1775,28 @@
           "gram": "feminine singular"
         },
         {
-          "t": "s'il te plaît.",
+          "t": "s'il",
           "lemma": "s'il te plaît",
           "pos": "phrase",
-          "stress": "siltəplɛ",
-          "gloss": "please",
-          "gram": "polite expression"
+          "stress": "sil",
+          "gloss": "if it (please)",
+          "gram": "si (elided s') + il: part of 's'il te plaît'"
+        },
+        {
+          "t": "te",
+          "lemma": "s'il te plaît",
+          "pos": "phrase",
+          "stress": "tə",
+          "gloss": "to you (please)",
+          "gram": "informal object pronoun in 's'il te plaît'"
+        },
+        {
+          "t": "plaît.",
+          "lemma": "s'il te plaît",
+          "pos": "phrase",
+          "stress": "plɛ",
+          "gloss": "pleases (please)",
+          "gram": "part of 's'il te plaît' = please (informal)"
         }
       ]
     },
@@ -1789,20 +1821,36 @@
           "gram": "proper name"
         },
         {
-          "t": "Qu'est-ce qu'",
+          "t": "Qu'est-ce",
           "lemma": "qu'est-ce que",
-          "pos": "pron",
-          "stress": "kɛsk",
-          "gloss": "what",
-          "gram": "interrogative pronoun phrase, elided"
+          "pos": "phrase",
+          "stress": "kɛs",
+          "gloss": "what is it",
+          "gram": "question opener"
         },
         {
-          "t": "il y a?",
+          "t": "qu'il",
+          "lemma": "que",
+          "pos": "conj",
+          "stress": "kil",
+          "gloss": "that he",
+          "gram": "conjunction que (elided) + subject pronoun il"
+        },
+        {
+          "t": "y",
           "lemma": "il y a",
-          "pos": "verb",
-          "stress": "ilja",
-          "gloss": "is there",
-          "gram": "impersonal verb phrase"
+          "pos": "phrase",
+          "stress": "i",
+          "gloss": "(ago)",
+          "gram": "part of il y a"
+        },
+        {
+          "t": "a?",
+          "lemma": "il y a",
+          "pos": "phrase",
+          "stress": "a",
+          "gloss": "(ago)",
+          "gram": "part of il y a: avoir, 3rd person singular"
         }
       ]
     },
@@ -1859,20 +1907,12 @@
           "gram": "feminine plural"
         },
         {
-          "t": "d'",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "d",
-          "gloss": "of",
-          "gram": "preposition, elided"
-        },
-        {
-          "t": "agence.",
+          "t": "d'agence.",
           "lemma": "agence",
           "pos": "noun",
-          "stress": "aʒɑ̃s",
-          "gloss": "agency",
-          "gram": "feminine singular"
+          "stress": "daʒɑ̃s",
+          "gloss": "of agency",
+          "gram": "d': preposition, elided + agence.: feminine singular"
         }
       ]
     },
@@ -2013,20 +2053,12 @@
       "trans": "I ran this agency for thirty years!",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "subject pronoun, elided"
-        },
-        {
-          "t": "ai",
+          "t": "J'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "e",
-          "gloss": "have",
-          "gram": "present, 1st singular"
+          "stress": "ʒe",
+          "gloss": "I have",
+          "gram": "je + ai: 1sg subject pronoun + present 1sg"
         },
         {
           "t": "dirigé",
@@ -2301,20 +2333,12 @@
           "gram": "subject pronoun, 1st singular"
         },
         {
-          "t": "n'",
+          "t": "n'en",
           "lemma": "ne",
-          "pos": "adv",
-          "stress": "n",
-          "gloss": "not",
-          "gram": "negative particle, elided"
-        },
-        {
-          "t": "en",
-          "lemma": "en",
-          "pos": "pron",
-          "stress": "ɑ̃",
-          "gloss": "of them",
-          "gram": "adverbial pronoun"
+          "pos": "part",
+          "stress": "nɑ̃",
+          "gloss": "not (of it)",
+          "gram": "elided ne + pronoun en ('avoir envie de')"
         },
         {
           "t": "veux",
@@ -2401,12 +2425,20 @@
       "trans": "Goodbye. Seriously, I cannot believe it.",
       "words": [
         {
-          "t": "Au revoir.",
+          "t": "Au",
           "lemma": "au revoir",
-          "pos": "noun",
-          "stress": "oʁvwaʁ",
-          "gloss": "goodbye",
-          "gram": "fixed farewell formula"
+          "pos": "phrase",
+          "stress": "o",
+          "gloss": "good-",
+          "gram": "first word of au revoir"
+        },
+        {
+          "t": "revoir.",
+          "lemma": "au revoir",
+          "pos": "phrase",
+          "stress": "ʁəvwaʁ",
+          "gloss": "-bye",
+          "gram": "second word of au revoir"
         },
         {
           "t": "Vraiment,",
@@ -2425,20 +2457,12 @@
           "gram": "subject pronoun, 1st singular"
         },
         {
-          "t": "n'",
+          "t": "n'en",
           "lemma": "ne",
-          "pos": "adv",
-          "stress": "n",
-          "gloss": "not",
-          "gram": "negative particle, elided"
-        },
-        {
-          "t": "en",
-          "lemma": "en",
-          "pos": "pron",
-          "stress": "ɑ̃",
-          "gloss": "of it",
-          "gram": "adverbial pronoun"
+          "pos": "part",
+          "stress": "nɑ̃",
+          "gloss": "not (of it)",
+          "gram": "elided ne + pronoun en ('avoir envie de')"
         },
         {
           "t": "reviens",
@@ -2587,12 +2611,20 @@
       "trans": "Goodbye. Seriously, I cannot believe it.",
       "words": [
         {
-          "t": "Au revoir.",
+          "t": "Au",
           "lemma": "au revoir",
-          "pos": "noun",
-          "stress": "oʁvwaʁ",
-          "gloss": "goodbye",
-          "gram": "fixed farewell formula"
+          "pos": "phrase",
+          "stress": "o",
+          "gloss": "good-",
+          "gram": "first word of au revoir"
+        },
+        {
+          "t": "revoir.",
+          "lemma": "au revoir",
+          "pos": "phrase",
+          "stress": "ʁəvwaʁ",
+          "gloss": "-bye",
+          "gram": "second word of au revoir"
         },
         {
           "t": "Vraiment,",
@@ -2611,20 +2643,12 @@
           "gram": "subject pronoun, 1st singular"
         },
         {
-          "t": "n'",
+          "t": "n'en",
           "lemma": "ne",
-          "pos": "adv",
-          "stress": "n",
-          "gloss": "not",
-          "gram": "negative particle, elided"
-        },
-        {
-          "t": "en",
-          "lemma": "en",
-          "pos": "pron",
-          "stress": "ɑ̃",
-          "gloss": "of it",
-          "gram": "adverbial pronoun"
+          "pos": "part",
+          "stress": "nɑ̃",
+          "gloss": "not (of it)",
+          "gram": "elided ne + pronoun en ('avoir envie de')"
         },
         {
           "t": "reviens",
@@ -7397,6 +7421,47 @@
           "gloss": "action of to avoid"
         }
       ]
+    },
+    "que": {
+      "examples": [
+        {
+          "text": "Dis-lui que je ne peux pas venir.",
+          "trans": "Tell her I can't come."
+        },
+        {
+          "text": "Je n'ai que deux places.",
+          "trans": "I've only got two tickets."
+        },
+        {
+          "text": "Appelle Clémentine. Dis-lui que je ne peux pas venir ce soir.",
+          "trans": "Call Clémentine. Tell her I can't come tonight."
+        }
+      ],
+      "forms": null,
+      "gloss": "that; than; only (ne...que)",
+      "lemma": "que",
+      "meanings": [
+        {
+          "en": "that",
+          "note": "joins two parts: dis-lui que..."
+        },
+        {
+          "en": "which, that",
+          "note": "relative: tout ce que"
+        },
+        {
+          "en": "only",
+          "note": "with ne: ne... que"
+        },
+        {
+          "en": "since",
+          "note": "ça fait trois semaines que..."
+        }
+      ],
+      "moreForms": [],
+      "pos": "conj",
+      "stress": "kə",
+      "related": []
     }
   }
 }

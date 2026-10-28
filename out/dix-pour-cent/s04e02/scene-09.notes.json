@@ -129,12 +129,20 @@
       "trans": "Of course, I bring it to you immediately.",
       "words": [
         {
-          "t": "Bien sûr,",
+          "t": "Bien",
           "lemma": "bien sûr",
           "pos": "phrase",
-          "stress": "bjɛ̃syʁ",
-          "gloss": "of course",
-          "gram": "adverbial phrase"
+          "stress": "bjɛ̃",
+          "gloss": "well, very",
+          "gram": "first part of 'bien sûr'"
+        },
+        {
+          "t": "sûr,",
+          "lemma": "bien sûr",
+          "pos": "phrase",
+          "stress": "syʁ",
+          "gloss": "sure, of course",
+          "gram": "second part of 'bien sûr' = of course"
         },
         {
           "t": "je",
@@ -153,20 +161,12 @@
           "gram": "indirect object pronoun, 2nd plural"
         },
         {
-          "t": "l'",
-          "lemma": "le",
-          "pos": "pron",
-          "stress": "l",
-          "gloss": "it",
-          "gram": "direct object pronoun, elided"
-        },
-        {
-          "t": "apporte",
+          "t": "l'apporte",
           "lemma": "apporter",
           "pos": "verb",
-          "stress": "apɔʁt",
-          "gloss": "bring",
-          "gram": "present, 1st singular"
+          "stress": "lapɔʁt",
+          "gloss": "it bring",
+          "gram": "l': direct object pronoun, elided + apporte: present, 1st singular"
         },
         {
           "t": "immédiatement.",
@@ -261,12 +261,28 @@
           "gram": "negative adverb"
         },
         {
-          "t": "pas du tout.",
+          "t": "pas",
           "lemma": "pas du tout",
-          "pos": "adv",
-          "stress": "padytu",
-          "gloss": "not at all",
-          "gram": "adverbial phrase"
+          "pos": "phrase",
+          "stress": "pa",
+          "gloss": "not",
+          "gram": "pas du tout = not at all, first part"
+        },
+        {
+          "t": "du",
+          "lemma": "pas du tout",
+          "pos": "phrase",
+          "stress": "dy",
+          "gloss": "(at)",
+          "gram": "pas du tout, second part (de + le)"
+        },
+        {
+          "t": "tout.",
+          "lemma": "pas du tout",
+          "pos": "phrase",
+          "stress": "tu",
+          "gloss": "all",
+          "gram": "pas du tout, last part"
         }
       ]
     },
@@ -399,20 +415,12 @@
           "gram": "present, 1st singular"
         },
         {
-          "t": "c'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "it",
-          "gram": "demonstrative pronoun, elided"
-        },
-        {
-          "t": "était",
+          "t": "c'était",
           "lemma": "être",
           "pos": "verb",
-          "stress": "etɛ",
-          "gloss": "was",
-          "gram": "imperfect, 3rd singular"
+          "stress": "setɛ",
+          "gloss": "it was",
+          "gram": "ce (it) + était: imperfect (imparfait), 3rd person singular"
         },
         {
           "t": "une",
@@ -461,20 +469,12 @@
           "gram": "subject pronoun, 1st singular"
         },
         {
-          "t": "n'",
-          "lemma": "ne",
-          "pos": "adv",
-          "stress": "n",
-          "gloss": "not",
-          "gram": "negative particle, elided"
-        },
-        {
-          "t": "ai",
+          "t": "n'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "e",
-          "gloss": "have",
-          "gram": "present, 1st singular"
+          "stress": "ne",
+          "gloss": "have (not)",
+          "gram": "ne (elided n') + ai: present, 1st person singular"
         },
         {
           "t": "pas",
@@ -585,20 +585,12 @@
           "gram": "proper name"
         },
         {
-          "t": "l'",
-          "lemma": "le",
-          "pos": "pron",
-          "stress": "l",
-          "gloss": "her",
-          "gram": "direct object pronoun, elided"
-        },
-        {
-          "t": "a",
+          "t": "l'a",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "a",
-          "gloss": "has",
-          "gram": "present, 3rd singular"
+          "stress": "la",
+          "gloss": "has ... it",
+          "gram": "le (elided l', it) + a: auxiliary, present, 3rd person singular"
         },
         {
           "t": "emmenée",
@@ -625,20 +617,12 @@
           "gram": "preposition"
         },
         {
-          "t": "l'",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "l",
-          "gloss": "the",
-          "gram": "definite article, elided"
-        },
-        {
-          "t": "agence!",
+          "t": "l'agence!",
           "lemma": "agence",
           "pos": "noun",
-          "stress": "aʒɑ̃s",
-          "gloss": "agency",
-          "gram": "feminine singular"
+          "stress": "laʒɑ̃s",
+          "gloss": "the agency",
+          "gram": "la (elided l') + agence, feminine singular"
         }
       ]
     },
@@ -869,12 +853,20 @@
       "trans": "Of course, I bring it to you immediately.",
       "words": [
         {
-          "t": "Bien sûr,",
+          "t": "Bien",
           "lemma": "bien sûr",
           "pos": "phrase",
-          "stress": "bjɛ̃syʁ",
-          "gloss": "of course",
-          "gram": "adverbial phrase"
+          "stress": "bjɛ̃",
+          "gloss": "well, very",
+          "gram": "first part of 'bien sûr'"
+        },
+        {
+          "t": "sûr,",
+          "lemma": "bien sûr",
+          "pos": "phrase",
+          "stress": "syʁ",
+          "gloss": "sure, of course",
+          "gram": "second part of 'bien sûr' = of course"
         },
         {
           "t": "je",
@@ -893,20 +885,12 @@
           "gram": "indirect object pronoun, 2nd plural"
         },
         {
-          "t": "l'",
-          "lemma": "le",
-          "pos": "pron",
-          "stress": "l",
-          "gloss": "it",
-          "gram": "direct object pronoun, elided"
-        },
-        {
-          "t": "apporte",
+          "t": "l'apporte",
           "lemma": "apporter",
           "pos": "verb",
-          "stress": "apɔʁt",
-          "gloss": "bring",
-          "gram": "present, 1st singular"
+          "stress": "lapɔʁt",
+          "gloss": "it bring",
+          "gram": "l': direct object pronoun, elided + apporte: present, 1st singular"
         },
         {
           "t": "immédiatement.",
@@ -1001,12 +985,28 @@
           "gram": "negative adverb"
         },
         {
-          "t": "pas du tout.",
+          "t": "pas",
           "lemma": "pas du tout",
-          "pos": "adv",
-          "stress": "padytu",
-          "gloss": "not at all",
-          "gram": "adverbial phrase"
+          "pos": "phrase",
+          "stress": "pa",
+          "gloss": "not",
+          "gram": "pas du tout = not at all, first part"
+        },
+        {
+          "t": "du",
+          "lemma": "pas du tout",
+          "pos": "phrase",
+          "stress": "dy",
+          "gloss": "(at)",
+          "gram": "pas du tout, second part (de + le)"
+        },
+        {
+          "t": "tout.",
+          "lemma": "pas du tout",
+          "pos": "phrase",
+          "stress": "tu",
+          "gloss": "all",
+          "gram": "pas du tout, last part"
         }
       ]
     },
@@ -1139,20 +1139,12 @@
           "gram": "present, 1st singular"
         },
         {
-          "t": "c'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "it",
-          "gram": "demonstrative pronoun, elided"
-        },
-        {
-          "t": "était",
+          "t": "c'était",
           "lemma": "être",
           "pos": "verb",
-          "stress": "etɛ",
-          "gloss": "was",
-          "gram": "imperfect, 3rd singular"
+          "stress": "setɛ",
+          "gloss": "it was",
+          "gram": "ce (it) + était: imperfect (imparfait), 3rd person singular"
         },
         {
           "t": "une",
@@ -1201,20 +1193,12 @@
           "gram": "subject pronoun, 1st singular"
         },
         {
-          "t": "n'",
-          "lemma": "ne",
-          "pos": "adv",
-          "stress": "n",
-          "gloss": "not",
-          "gram": "negative particle, elided"
-        },
-        {
-          "t": "ai",
+          "t": "n'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "e",
-          "gloss": "have",
-          "gram": "present, 1st singular"
+          "stress": "ne",
+          "gloss": "have (not)",
+          "gram": "ne (elided n') + ai: present, 1st person singular"
         },
         {
           "t": "pas",
@@ -1325,20 +1309,12 @@
           "gram": "proper name"
         },
         {
-          "t": "l'",
-          "lemma": "le",
-          "pos": "pron",
-          "stress": "l",
-          "gloss": "her",
-          "gram": "direct object pronoun, elided"
-        },
-        {
-          "t": "a",
+          "t": "l'a",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "a",
-          "gloss": "has",
-          "gram": "present, 3rd singular"
+          "stress": "la",
+          "gloss": "has ... it",
+          "gram": "le (elided l', it) + a: auxiliary, present, 3rd person singular"
         },
         {
           "t": "emmenée",
@@ -1365,20 +1341,12 @@
           "gram": "preposition"
         },
         {
-          "t": "l'",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "l",
-          "gloss": "the",
-          "gram": "definite article, elided"
-        },
-        {
-          "t": "agence!",
+          "t": "l'agence!",
           "lemma": "agence",
           "pos": "noun",
-          "stress": "aʒɑ̃s",
-          "gloss": "agency",
-          "gram": "feminine singular"
+          "stress": "laʒɑ̃s",
+          "gloss": "the agency",
+          "gram": "la (elided l') + agence, feminine singular"
         }
       ]
     },
@@ -1609,12 +1577,20 @@
       "trans": "Of course, I bring it to you immediately.",
       "words": [
         {
-          "t": "Bien sûr,",
+          "t": "Bien",
           "lemma": "bien sûr",
           "pos": "phrase",
-          "stress": "bjɛ̃syʁ",
-          "gloss": "of course",
-          "gram": "adverbial phrase"
+          "stress": "bjɛ̃",
+          "gloss": "well, very",
+          "gram": "first part of 'bien sûr'"
+        },
+        {
+          "t": "sûr,",
+          "lemma": "bien sûr",
+          "pos": "phrase",
+          "stress": "syʁ",
+          "gloss": "sure, of course",
+          "gram": "second part of 'bien sûr' = of course"
         },
         {
           "t": "je",
@@ -1633,20 +1609,12 @@
           "gram": "indirect object pronoun, 2nd plural"
         },
         {
-          "t": "l'",
-          "lemma": "le",
-          "pos": "pron",
-          "stress": "l",
-          "gloss": "it",
-          "gram": "direct object pronoun, elided"
-        },
-        {
-          "t": "apporte",
+          "t": "l'apporte",
           "lemma": "apporter",
           "pos": "verb",
-          "stress": "apɔʁt",
-          "gloss": "bring",
-          "gram": "present, 1st singular"
+          "stress": "lapɔʁt",
+          "gloss": "it bring",
+          "gram": "l': direct object pronoun, elided + apporte: present, 1st singular"
         },
         {
           "t": "immédiatement.",
@@ -1741,12 +1709,28 @@
           "gram": "negative adverb"
         },
         {
-          "t": "pas du tout.",
+          "t": "pas",
           "lemma": "pas du tout",
-          "pos": "adv",
-          "stress": "padytu",
-          "gloss": "not at all",
-          "gram": "adverbial phrase"
+          "pos": "phrase",
+          "stress": "pa",
+          "gloss": "not",
+          "gram": "pas du tout = not at all, first part"
+        },
+        {
+          "t": "du",
+          "lemma": "pas du tout",
+          "pos": "phrase",
+          "stress": "dy",
+          "gloss": "(at)",
+          "gram": "pas du tout, second part (de + le)"
+        },
+        {
+          "t": "tout.",
+          "lemma": "pas du tout",
+          "pos": "phrase",
+          "stress": "tu",
+          "gloss": "all",
+          "gram": "pas du tout, last part"
         }
       ]
     },
@@ -1879,20 +1863,12 @@
           "gram": "present, 1st singular"
         },
         {
-          "t": "c'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "it",
-          "gram": "demonstrative pronoun, elided"
-        },
-        {
-          "t": "était",
+          "t": "c'était",
           "lemma": "être",
           "pos": "verb",
-          "stress": "etɛ",
-          "gloss": "was",
-          "gram": "imperfect, 3rd singular"
+          "stress": "setɛ",
+          "gloss": "it was",
+          "gram": "ce (it) + était: imperfect (imparfait), 3rd person singular"
         },
         {
           "t": "une",
@@ -1941,20 +1917,12 @@
           "gram": "subject pronoun, 1st singular"
         },
         {
-          "t": "n'",
-          "lemma": "ne",
-          "pos": "adv",
-          "stress": "n",
-          "gloss": "not",
-          "gram": "negative particle, elided"
-        },
-        {
-          "t": "ai",
+          "t": "n'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "e",
-          "gloss": "have",
-          "gram": "present, 1st singular"
+          "stress": "ne",
+          "gloss": "have (not)",
+          "gram": "ne (elided n') + ai: present, 1st person singular"
         },
         {
           "t": "pas",
@@ -2065,20 +2033,12 @@
           "gram": "proper name"
         },
         {
-          "t": "l'",
-          "lemma": "le",
-          "pos": "pron",
-          "stress": "l",
-          "gloss": "her",
-          "gram": "direct object pronoun, elided"
-        },
-        {
-          "t": "a",
+          "t": "l'a",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "a",
-          "gloss": "has",
-          "gram": "present, 3rd singular"
+          "stress": "la",
+          "gloss": "has ... it",
+          "gram": "le (elided l', it) + a: auxiliary, present, 3rd person singular"
         },
         {
           "t": "emmenée",
@@ -2105,20 +2065,12 @@
           "gram": "preposition"
         },
         {
-          "t": "l'",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "l",
-          "gloss": "the",
-          "gram": "definite article, elided"
-        },
-        {
-          "t": "agence!",
+          "t": "l'agence!",
           "lemma": "agence",
           "pos": "noun",
-          "stress": "aʒɑ̃s",
-          "gloss": "agency",
-          "gram": "feminine singular"
+          "stress": "laʒɑ̃s",
+          "gloss": "the agency",
+          "gram": "la (elided l') + agence, feminine singular"
         }
       ]
     },

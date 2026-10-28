@@ -23,20 +23,20 @@
           "gram": "proper name"
         },
         {
-          "t": "qu'est-ce qu'",
+          "t": "qu'est-ce",
           "lemma": "qu'est-ce que",
           "pos": "phrase",
-          "stress": "kɛsk",
-          "gloss": "what",
-          "gram": "interrogative phrase elided"
+          "stress": "kɛs",
+          "gloss": "what is it",
+          "gram": "question opener"
         },
         {
-          "t": "on",
+          "t": "qu'on",
           "lemma": "on",
           "pos": "pron",
-          "stress": "ɔ̃",
-          "gloss": "we",
-          "gram": "indefinite subject pronoun"
+          "stress": "kɔ̃",
+          "gloss": "that we",
+          "gram": "que (elided qu', that) + on (we, subject pronoun)"
         },
         {
           "t": "fait?",
@@ -215,12 +215,20 @@
       "trans": "Would the actors follow us?",
       "words": [
         {
-          "t": "Est-ce que",
+          "t": "Est-ce",
           "lemma": "est-ce que",
           "pos": "phrase",
           "stress": "ɛskə",
-          "gloss": "whether",
-          "gram": "interrogative marker"
+          "gloss": "does",
+          "gram": "first part of question formula 'est-ce que'"
+        },
+        {
+          "t": "que",
+          "lemma": "est-ce que",
+          "pos": "phrase",
+          "stress": "kə",
+          "gloss": "that (question marker)",
+          "gram": "second part of 'est-ce que'"
         },
         {
           "t": "les",
@@ -261,28 +269,28 @@
       "trans": "Of course they are going to follow us.",
       "words": [
         {
-          "t": "Bien sûr",
+          "t": "Bien",
           "lemma": "bien sûr",
-          "pos": "adv",
-          "stress": "bjɛ̃syʁ",
-          "gloss": "undoubtedly",
-          "gram": "adverbial phrase"
+          "pos": "phrase",
+          "stress": "bjɛ̃",
+          "gloss": "well, very",
+          "gram": "first part of 'bien sûr'"
         },
         {
-          "t": "qu'",
+          "t": "sûr",
+          "lemma": "bien sûr",
+          "pos": "phrase",
+          "stress": "syʁ",
+          "gloss": "sure, of course",
+          "gram": "second part of 'bien sûr' = of course"
+        },
+        {
+          "t": "qu'ils",
           "lemma": "que",
           "pos": "conj",
-          "stress": "k",
-          "gloss": "that",
-          "gram": "conjunction elided"
-        },
-        {
-          "t": "ils",
-          "lemma": "il",
-          "pos": "pron",
-          "stress": "il",
-          "gloss": "they",
-          "gram": "subject pronoun 3pl masculine"
+          "stress": "kil",
+          "gloss": "that they",
+          "gram": "qu' + ils"
         },
         {
           "t": "vont",
@@ -323,20 +331,12 @@
           "gram": "impersonal subject pronoun"
         },
         {
-          "t": "n'",
-          "lemma": "ne",
-          "pos": "part",
-          "stress": "n",
-          "gloss": "no (with aucune)",
-          "gram": "negative particle elided"
-        },
-        {
-          "t": "y",
+          "t": "n'y",
           "lemma": "y",
           "pos": "pron",
-          "stress": "i",
+          "stress": "ni",
           "gloss": "there",
-          "gram": "adverbial pronoun"
+          "gram": "elided negative particle ne + adverbial pronoun y"
         },
         {
           "t": "a",
@@ -363,20 +363,12 @@
           "gram": "feminine noun"
         },
         {
-          "t": "d'",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "d",
-          "gloss": "to",
-          "gram": "preposition elided"
-        },
-        {
-          "t": "hésiter.",
+          "t": "d'hésiter.",
           "lemma": "hésiter",
           "pos": "verb",
-          "stress": "ezite",
-          "gloss": "waver / hesitate",
-          "gram": "infinitive"
+          "stress": "dezite",
+          "gloss": "to waver / hesitate",
+          "gram": "d': preposition elided + hésiter.: infinitive"
         }
       ]
     },
@@ -833,20 +825,20 @@
           "gram": "proper name"
         },
         {
-          "t": "qu'est-ce qu'",
+          "t": "qu'est-ce",
           "lemma": "qu'est-ce que",
           "pos": "phrase",
-          "stress": "kɛsk",
-          "gloss": "what",
-          "gram": "interrogative phrase elided"
+          "stress": "kɛs",
+          "gloss": "what is it",
+          "gram": "question opener"
         },
         {
-          "t": "on",
+          "t": "qu'on",
           "lemma": "on",
           "pos": "pron",
-          "stress": "ɔ̃",
-          "gloss": "we",
-          "gram": "indefinite subject pronoun"
+          "stress": "kɔ̃",
+          "gloss": "that we",
+          "gram": "que (elided qu', that) + on (we, subject pronoun)"
         },
         {
           "t": "fait?",
@@ -1025,12 +1017,20 @@
       "trans": "Would the actors follow us?",
       "words": [
         {
-          "t": "Est-ce que",
+          "t": "Est-ce",
           "lemma": "est-ce que",
           "pos": "phrase",
           "stress": "ɛskə",
-          "gloss": "whether",
-          "gram": "interrogative marker"
+          "gloss": "does",
+          "gram": "first part of question formula 'est-ce que'"
+        },
+        {
+          "t": "que",
+          "lemma": "est-ce que",
+          "pos": "phrase",
+          "stress": "kə",
+          "gloss": "that (question marker)",
+          "gram": "second part of 'est-ce que'"
         },
         {
           "t": "les",
@@ -1071,28 +1071,28 @@
       "trans": "Of course they are going to follow us.",
       "words": [
         {
-          "t": "Bien sûr",
+          "t": "Bien",
           "lemma": "bien sûr",
-          "pos": "adv",
-          "stress": "bjɛ̃syʁ",
-          "gloss": "undoubtedly",
-          "gram": "adverbial phrase"
+          "pos": "phrase",
+          "stress": "bjɛ̃",
+          "gloss": "well, very",
+          "gram": "first part of 'bien sûr'"
         },
         {
-          "t": "qu'",
+          "t": "sûr",
+          "lemma": "bien sûr",
+          "pos": "phrase",
+          "stress": "syʁ",
+          "gloss": "sure, of course",
+          "gram": "second part of 'bien sûr' = of course"
+        },
+        {
+          "t": "qu'ils",
           "lemma": "que",
           "pos": "conj",
-          "stress": "k",
-          "gloss": "that",
-          "gram": "conjunction elided"
-        },
-        {
-          "t": "ils",
-          "lemma": "il",
-          "pos": "pron",
-          "stress": "il",
-          "gloss": "they",
-          "gram": "subject pronoun 3pl masculine"
+          "stress": "kil",
+          "gloss": "that they",
+          "gram": "qu' + ils"
         },
         {
           "t": "vont",
@@ -1133,20 +1133,12 @@
           "gram": "impersonal subject pronoun"
         },
         {
-          "t": "n'",
-          "lemma": "ne",
-          "pos": "part",
-          "stress": "n",
-          "gloss": "no (with aucune)",
-          "gram": "negative particle elided"
-        },
-        {
-          "t": "y",
+          "t": "n'y",
           "lemma": "y",
           "pos": "pron",
-          "stress": "i",
+          "stress": "ni",
           "gloss": "there",
-          "gram": "adverbial pronoun"
+          "gram": "elided negative particle ne + adverbial pronoun y"
         },
         {
           "t": "a",
@@ -1173,20 +1165,12 @@
           "gram": "feminine noun"
         },
         {
-          "t": "d'",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "d",
-          "gloss": "to",
-          "gram": "preposition elided"
-        },
-        {
-          "t": "hésiter.",
+          "t": "d'hésiter.",
           "lemma": "hésiter",
           "pos": "verb",
-          "stress": "ezite",
-          "gloss": "waver / hesitate",
-          "gram": "infinitive"
+          "stress": "dezite",
+          "gloss": "to waver / hesitate",
+          "gram": "d': preposition elided + hésiter.: infinitive"
         }
       ]
     },
@@ -1643,20 +1627,20 @@
           "gram": "proper name"
         },
         {
-          "t": "qu'est-ce qu'",
+          "t": "qu'est-ce",
           "lemma": "qu'est-ce que",
           "pos": "phrase",
-          "stress": "kɛsk",
-          "gloss": "what",
-          "gram": "interrogative phrase elided"
+          "stress": "kɛs",
+          "gloss": "what is it",
+          "gram": "question opener"
         },
         {
-          "t": "on",
+          "t": "qu'on",
           "lemma": "on",
           "pos": "pron",
-          "stress": "ɔ̃",
-          "gloss": "we",
-          "gram": "indefinite subject pronoun"
+          "stress": "kɔ̃",
+          "gloss": "that we",
+          "gram": "que (elided qu', that) + on (we, subject pronoun)"
         },
         {
           "t": "fait?",
@@ -1835,12 +1819,20 @@
       "trans": "Would the actors follow us?",
       "words": [
         {
-          "t": "Est-ce que",
+          "t": "Est-ce",
           "lemma": "est-ce que",
           "pos": "phrase",
           "stress": "ɛskə",
-          "gloss": "whether",
-          "gram": "interrogative marker"
+          "gloss": "does",
+          "gram": "first part of question formula 'est-ce que'"
+        },
+        {
+          "t": "que",
+          "lemma": "est-ce que",
+          "pos": "phrase",
+          "stress": "kə",
+          "gloss": "that (question marker)",
+          "gram": "second part of 'est-ce que'"
         },
         {
           "t": "les",
@@ -1881,28 +1873,28 @@
       "trans": "Of course they are going to follow us.",
       "words": [
         {
-          "t": "Bien sûr",
+          "t": "Bien",
           "lemma": "bien sûr",
-          "pos": "adv",
-          "stress": "bjɛ̃syʁ",
-          "gloss": "undoubtedly",
-          "gram": "adverbial phrase"
+          "pos": "phrase",
+          "stress": "bjɛ̃",
+          "gloss": "well, very",
+          "gram": "first part of 'bien sûr'"
         },
         {
-          "t": "qu'",
+          "t": "sûr",
+          "lemma": "bien sûr",
+          "pos": "phrase",
+          "stress": "syʁ",
+          "gloss": "sure, of course",
+          "gram": "second part of 'bien sûr' = of course"
+        },
+        {
+          "t": "qu'ils",
           "lemma": "que",
           "pos": "conj",
-          "stress": "k",
-          "gloss": "that",
-          "gram": "conjunction elided"
-        },
-        {
-          "t": "ils",
-          "lemma": "il",
-          "pos": "pron",
-          "stress": "il",
-          "gloss": "they",
-          "gram": "subject pronoun 3pl masculine"
+          "stress": "kil",
+          "gloss": "that they",
+          "gram": "qu' + ils"
         },
         {
           "t": "vont",
@@ -1943,20 +1935,12 @@
           "gram": "impersonal subject pronoun"
         },
         {
-          "t": "n'",
-          "lemma": "ne",
-          "pos": "part",
-          "stress": "n",
-          "gloss": "no (with aucune)",
-          "gram": "negative particle elided"
-        },
-        {
-          "t": "y",
+          "t": "n'y",
           "lemma": "y",
           "pos": "pron",
-          "stress": "i",
+          "stress": "ni",
           "gloss": "there",
-          "gram": "adverbial pronoun"
+          "gram": "elided negative particle ne + adverbial pronoun y"
         },
         {
           "t": "a",
@@ -1983,20 +1967,12 @@
           "gram": "feminine noun"
         },
         {
-          "t": "d'",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "d",
-          "gloss": "to",
-          "gram": "preposition elided"
-        },
-        {
-          "t": "hésiter.",
+          "t": "d'hésiter.",
           "lemma": "hésiter",
           "pos": "verb",
-          "stress": "ezite",
-          "gloss": "waver / hesitate",
-          "gram": "infinitive"
+          "stress": "dezite",
+          "gloss": "to waver / hesitate",
+          "gram": "d': preposition elided + hésiter.: infinitive"
         }
       ]
     },

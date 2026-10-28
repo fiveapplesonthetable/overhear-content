@@ -7,15 +7,23 @@
       "trans": "Are you alright, Renard?",
       "words": [
         {
-          "t": "Ça va",
-          "lemma": "ça va",
-          "pos": "phrase",
-          "stress": "sava",
-          "gloss": "how are things",
-          "gram": "greeting"
+          "t": "Ça",
+          "lemma": "ça",
+          "pos": "pron",
+          "stress": "sa",
+          "gloss": "that",
+          "gram": "demonstrative pronoun"
         },
         {
-          "t": "Renard",
+          "t": "va,",
+          "lemma": "aller",
+          "pos": "verb",
+          "stress": "va",
+          "gloss": "goes",
+          "gram": "present, 3sg"
+        },
+        {
+          "t": "Renard?",
           "lemma": "renard",
           "pos": "name",
           "stress": "ʁənaʁ",
@@ -29,12 +37,20 @@
       "trans": "Everything is going fine.",
       "words": [
         {
-          "t": "Ça va",
-          "lemma": "ça va",
-          "pos": "phrase",
-          "stress": "sava",
-          "gloss": "it is going fine",
-          "gram": "fixed expression"
+          "t": "Ça",
+          "lemma": "ça",
+          "pos": "pron",
+          "stress": "sa",
+          "gloss": "that",
+          "gram": "demonstrative pronoun"
+        },
+        {
+          "t": "va,",
+          "lemma": "aller",
+          "pos": "verb",
+          "stress": "va",
+          "gloss": "goes",
+          "gram": "present, 3sg"
         },
         {
           "t": "tout",
@@ -61,7 +77,7 @@
           "gram": "3rd sing pres"
         },
         {
-          "t": "bien",
+          "t": "bien.",
           "lemma": "bien",
           "pos": "adv",
           "stress": "bjɛ̃",
@@ -75,20 +91,12 @@
       "trans": "I have a special mission for you.",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "1st sing subj pron"
-        },
-        {
-          "t": "ai",
+          "t": "J'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "e",
-          "gloss": "have",
-          "gram": "1st sing pres aux"
+          "stress": "ʒe",
+          "gloss": "I have",
+          "gram": "je + ai: 1sg subject pronoun + present 1sg"
         },
         {
           "t": "une",
@@ -123,7 +131,7 @@
           "gram": "preposition"
         },
         {
-          "t": "toi",
+          "t": "toi.",
           "lemma": "toi",
           "pos": "pron",
           "stress": "twa",
@@ -145,23 +153,15 @@
           "gram": "1st sing subj pron"
         },
         {
-          "t": "t'",
-          "lemma": "te",
-          "pos": "pron",
-          "stress": "t",
-          "gloss": "you",
-          "gram": "2nd sing obj pron"
-        },
-        {
-          "t": "écoute",
+          "t": "t'écoute",
           "lemma": "écouter",
           "pos": "verb",
-          "stress": "ekut",
-          "gloss": "listen",
-          "gram": "1st sing pres"
+          "stress": "tekut",
+          "gloss": "am listening to you",
+          "gram": "te (elided t', you) + écoute: present, 1st person singular"
         },
         {
-          "t": "attentivement",
+          "t": "attentivement,",
           "lemma": "attentivement",
           "pos": "adv",
           "stress": "atɑ̃tivmɑ̃",
@@ -169,7 +169,7 @@
           "gram": "adverb"
         },
         {
-          "t": "Mathias",
+          "t": "Mathias.",
           "lemma": "mathias",
           "pos": "name",
           "stress": "matjas",
@@ -231,7 +231,7 @@
           "gram": "masc sing dem det"
         },
         {
-          "t": "soir",
+          "t": "soir.",
           "lemma": "soir",
           "pos": "noun",
           "stress": "swaʁ",
@@ -277,7 +277,7 @@
           "gram": "masc plur noun"
         },
         {
-          "t": "précis",
+          "t": "précis?",
           "lemma": "précis",
           "pos": "adj",
           "stress": "pʁesi",
@@ -323,7 +323,7 @@
           "gram": "proper noun"
         },
         {
-          "t": "Downing",
+          "t": "Downing.",
           "lemma": "downing",
           "pos": "name",
           "stress": "dawniŋ",
@@ -361,23 +361,15 @@
           "gram": "fem sing noun"
         },
         {
-          "t": "arrivent",
+          "t": "arrivent-ils",
           "lemma": "arriver",
           "pos": "verb",
-          "stress": "aʁiv",
-          "gloss": "arrive",
-          "gram": "3rd plur pres"
+          "stress": "aʁivil",
+          "gloss": "arrive they",
+          "gram": "arrivent: 3rd plur pres + -ils: 3rd masc plur subj pron"
         },
         {
-          "t": "-ils",
-          "lemma": "il",
-          "pos": "pron",
-          "stress": "il",
-          "gloss": "they",
-          "gram": "3rd masc plur subj pron"
-        },
-        {
-          "t": "ici",
+          "t": "ici?",
           "lemma": "ici",
           "pos": "adv",
           "stress": "isi",
@@ -431,7 +423,7 @@
           "gram": "compound numeral"
         },
         {
-          "t": "heures",
+          "t": "heures.",
           "lemma": "heure",
           "pos": "noun",
           "stress": "œʁ",
@@ -453,20 +445,12 @@
           "gram": "interrogative pron"
         },
         {
-          "t": "dois",
+          "t": "dois-je",
           "lemma": "devoir",
           "pos": "verb",
-          "stress": "dwa",
-          "gloss": "must",
-          "gram": "1st sing pres"
-        },
-        {
-          "t": "-je",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒə",
-          "gloss": "I",
-          "gram": "1st sing subj pron"
+          "stress": "dwaʒə",
+          "gloss": "must I",
+          "gram": "dois: 1st sing pres + -je: 1st sing subj pron"
         },
         {
           "t": "faire",
@@ -477,7 +461,7 @@
           "gram": "infinitive"
         },
         {
-          "t": "exactement",
+          "t": "exactement?",
           "lemma": "exactement",
           "pos": "adv",
           "stress": "ɛɡzaktəmɑ̃",
@@ -491,20 +475,12 @@
       "trans": "Notify me as soon as they arrive downstairs.",
       "words": [
         {
-          "t": "Préviens",
+          "t": "Préviens-moi",
           "lemma": "prévenir",
           "pos": "verb",
-          "stress": "pʁevjɛ̃",
-          "gloss": "notify",
-          "gram": "2nd sing imp"
-        },
-        {
-          "t": "-moi",
-          "lemma": "moi",
-          "pos": "pron",
-          "stress": "mwa",
-          "gloss": "me",
-          "gram": "1st sing tonic pron"
+          "stress": "pʁevjɛ̃mwa",
+          "gloss": "notify me",
+          "gram": "Préviens: 2nd sing imp + -moi: 1st sing tonic pron"
         },
         {
           "t": "dès",
@@ -531,12 +507,20 @@
           "gram": "fem sing noun"
         },
         {
-          "t": "en bas",
-          "lemma": "en bas",
-          "pos": "adv",
-          "stress": "ɑ̃ba",
-          "gloss": "downstairs",
-          "gram": "adverbial locution"
+          "t": "en",
+          "lemma": "en",
+          "pos": "prep",
+          "stress": "ɑ̃",
+          "gloss": "in",
+          "gram": "preposition"
+        },
+        {
+          "t": "bas.",
+          "lemma": "bas",
+          "pos": "noun",
+          "stress": "ba",
+          "gloss": "below, downstairs",
+          "gram": "masculine singular; 'en bas' = downstairs"
         }
       ]
     },
@@ -577,7 +561,7 @@
           "gram": "adverb"
         },
         {
-          "t": "confidentielle",
+          "t": "confidentielle?",
           "lemma": "confidentiel",
           "pos": "adj",
           "stress": "kɔ̃fidɑ̃sjɛl",
@@ -591,7 +575,7 @@
       "trans": "Yes, nobody must know that.",
       "words": [
         {
-          "t": "Oui",
+          "t": "Oui,",
           "lemma": "oui",
           "pos": "adv",
           "stress": "wi",
@@ -631,7 +615,7 @@
           "gram": "infinitive"
         },
         {
-          "t": "cela",
+          "t": "cela.",
           "lemma": "cela",
           "pos": "pron",
           "stress": "səla",
@@ -677,7 +661,7 @@
           "gram": "masc sing noun"
         },
         {
-          "t": "absolu",
+          "t": "absolu.",
           "lemma": "absolu",
           "pos": "adj",
           "stress": "apsɔly",
@@ -691,15 +675,23 @@
       "trans": "Are you alright, Renard?",
       "words": [
         {
-          "t": "Ça va",
-          "lemma": "ça va",
-          "pos": "phrase",
-          "stress": "sava",
-          "gloss": "how are things",
-          "gram": "greeting"
+          "t": "Ça",
+          "lemma": "ça",
+          "pos": "pron",
+          "stress": "sa",
+          "gloss": "that",
+          "gram": "demonstrative pronoun"
         },
         {
-          "t": "Renard",
+          "t": "va,",
+          "lemma": "aller",
+          "pos": "verb",
+          "stress": "va",
+          "gloss": "goes",
+          "gram": "present, 3sg"
+        },
+        {
+          "t": "Renard?",
           "lemma": "renard",
           "pos": "name",
           "stress": "ʁənaʁ",
@@ -713,12 +705,20 @@
       "trans": "Everything is going fine.",
       "words": [
         {
-          "t": "Ça va",
-          "lemma": "ça va",
-          "pos": "phrase",
-          "stress": "sava",
-          "gloss": "it is going fine",
-          "gram": "fixed expression"
+          "t": "Ça",
+          "lemma": "ça",
+          "pos": "pron",
+          "stress": "sa",
+          "gloss": "that",
+          "gram": "demonstrative pronoun"
+        },
+        {
+          "t": "va,",
+          "lemma": "aller",
+          "pos": "verb",
+          "stress": "va",
+          "gloss": "goes",
+          "gram": "present, 3sg"
         },
         {
           "t": "tout",
@@ -745,7 +745,7 @@
           "gram": "3rd sing pres"
         },
         {
-          "t": "bien",
+          "t": "bien.",
           "lemma": "bien",
           "pos": "adv",
           "stress": "bjɛ̃",
@@ -759,20 +759,12 @@
       "trans": "I have a special mission for you.",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "1st sing subj pron"
-        },
-        {
-          "t": "ai",
+          "t": "J'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "e",
-          "gloss": "have",
-          "gram": "1st sing pres aux"
+          "stress": "ʒe",
+          "gloss": "I have",
+          "gram": "je + ai: 1sg subject pronoun + present 1sg"
         },
         {
           "t": "une",
@@ -807,7 +799,7 @@
           "gram": "preposition"
         },
         {
-          "t": "toi",
+          "t": "toi.",
           "lemma": "toi",
           "pos": "pron",
           "stress": "twa",
@@ -829,23 +821,15 @@
           "gram": "1st sing subj pron"
         },
         {
-          "t": "t'",
-          "lemma": "te",
-          "pos": "pron",
-          "stress": "t",
-          "gloss": "you",
-          "gram": "2nd sing obj pron"
-        },
-        {
-          "t": "écoute",
+          "t": "t'écoute",
           "lemma": "écouter",
           "pos": "verb",
-          "stress": "ekut",
-          "gloss": "listen",
-          "gram": "1st sing pres"
+          "stress": "tekut",
+          "gloss": "am listening to you",
+          "gram": "te (elided t', you) + écoute: present, 1st person singular"
         },
         {
-          "t": "attentivement",
+          "t": "attentivement,",
           "lemma": "attentivement",
           "pos": "adv",
           "stress": "atɑ̃tivmɑ̃",
@@ -853,7 +837,7 @@
           "gram": "adverb"
         },
         {
-          "t": "Mathias",
+          "t": "Mathias.",
           "lemma": "mathias",
           "pos": "name",
           "stress": "matjas",
@@ -915,7 +899,7 @@
           "gram": "masc sing dem det"
         },
         {
-          "t": "soir",
+          "t": "soir.",
           "lemma": "soir",
           "pos": "noun",
           "stress": "swaʁ",
@@ -961,7 +945,7 @@
           "gram": "masc plur noun"
         },
         {
-          "t": "précis",
+          "t": "précis?",
           "lemma": "précis",
           "pos": "adj",
           "stress": "pʁesi",
@@ -1007,7 +991,7 @@
           "gram": "proper noun"
         },
         {
-          "t": "Downing",
+          "t": "Downing.",
           "lemma": "downing",
           "pos": "name",
           "stress": "dawniŋ",
@@ -1045,23 +1029,15 @@
           "gram": "fem sing noun"
         },
         {
-          "t": "arrivent",
+          "t": "arrivent-ils",
           "lemma": "arriver",
           "pos": "verb",
-          "stress": "aʁiv",
-          "gloss": "arrive",
-          "gram": "3rd plur pres"
+          "stress": "aʁivil",
+          "gloss": "arrive they",
+          "gram": "arrivent: 3rd plur pres + -ils: 3rd masc plur subj pron"
         },
         {
-          "t": "-ils",
-          "lemma": "il",
-          "pos": "pron",
-          "stress": "il",
-          "gloss": "they",
-          "gram": "3rd masc plur subj pron"
-        },
-        {
-          "t": "ici",
+          "t": "ici?",
           "lemma": "ici",
           "pos": "adv",
           "stress": "isi",
@@ -1115,7 +1091,7 @@
           "gram": "compound numeral"
         },
         {
-          "t": "heures",
+          "t": "heures.",
           "lemma": "heure",
           "pos": "noun",
           "stress": "œʁ",
@@ -1137,20 +1113,12 @@
           "gram": "interrogative pron"
         },
         {
-          "t": "dois",
+          "t": "dois-je",
           "lemma": "devoir",
           "pos": "verb",
-          "stress": "dwa",
-          "gloss": "must",
-          "gram": "1st sing pres"
-        },
-        {
-          "t": "-je",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒə",
-          "gloss": "I",
-          "gram": "1st sing subj pron"
+          "stress": "dwaʒə",
+          "gloss": "must I",
+          "gram": "dois: 1st sing pres + -je: 1st sing subj pron"
         },
         {
           "t": "faire",
@@ -1161,7 +1129,7 @@
           "gram": "infinitive"
         },
         {
-          "t": "exactement",
+          "t": "exactement?",
           "lemma": "exactement",
           "pos": "adv",
           "stress": "ɛɡzaktəmɑ̃",
@@ -1175,20 +1143,12 @@
       "trans": "Notify me as soon as they arrive downstairs.",
       "words": [
         {
-          "t": "Préviens",
+          "t": "Préviens-moi",
           "lemma": "prévenir",
           "pos": "verb",
-          "stress": "pʁevjɛ̃",
-          "gloss": "notify",
-          "gram": "2nd sing imp"
-        },
-        {
-          "t": "-moi",
-          "lemma": "moi",
-          "pos": "pron",
-          "stress": "mwa",
-          "gloss": "me",
-          "gram": "1st sing tonic pron"
+          "stress": "pʁevjɛ̃mwa",
+          "gloss": "notify me",
+          "gram": "Préviens: 2nd sing imp + -moi: 1st sing tonic pron"
         },
         {
           "t": "dès",
@@ -1215,12 +1175,20 @@
           "gram": "fem sing noun"
         },
         {
-          "t": "en bas",
-          "lemma": "en bas",
-          "pos": "adv",
-          "stress": "ɑ̃ba",
-          "gloss": "downstairs",
-          "gram": "adverbial locution"
+          "t": "en",
+          "lemma": "en",
+          "pos": "prep",
+          "stress": "ɑ̃",
+          "gloss": "in",
+          "gram": "preposition"
+        },
+        {
+          "t": "bas.",
+          "lemma": "bas",
+          "pos": "noun",
+          "stress": "ba",
+          "gloss": "below, downstairs",
+          "gram": "masculine singular; 'en bas' = downstairs"
         }
       ]
     },
@@ -1261,7 +1229,7 @@
           "gram": "adverb"
         },
         {
-          "t": "confidentielle",
+          "t": "confidentielle?",
           "lemma": "confidentiel",
           "pos": "adj",
           "stress": "kɔ̃fidɑ̃sjɛl",
@@ -1275,7 +1243,7 @@
       "trans": "Yes, nobody must know that.",
       "words": [
         {
-          "t": "Oui",
+          "t": "Oui,",
           "lemma": "oui",
           "pos": "adv",
           "stress": "wi",
@@ -1315,7 +1283,7 @@
           "gram": "infinitive"
         },
         {
-          "t": "cela",
+          "t": "cela.",
           "lemma": "cela",
           "pos": "pron",
           "stress": "səla",
@@ -1361,7 +1329,7 @@
           "gram": "masc sing noun"
         },
         {
-          "t": "absolu",
+          "t": "absolu.",
           "lemma": "absolu",
           "pos": "adj",
           "stress": "apsɔly",
@@ -1375,15 +1343,23 @@
       "trans": "Are you alright, Renard?",
       "words": [
         {
-          "t": "Ça va",
-          "lemma": "ça va",
-          "pos": "phrase",
-          "stress": "sava",
-          "gloss": "how are things",
-          "gram": "greeting"
+          "t": "Ça",
+          "lemma": "ça",
+          "pos": "pron",
+          "stress": "sa",
+          "gloss": "that",
+          "gram": "demonstrative pronoun"
         },
         {
-          "t": "Renard",
+          "t": "va,",
+          "lemma": "aller",
+          "pos": "verb",
+          "stress": "va",
+          "gloss": "goes",
+          "gram": "present, 3sg"
+        },
+        {
+          "t": "Renard?",
           "lemma": "renard",
           "pos": "name",
           "stress": "ʁənaʁ",
@@ -1397,12 +1373,20 @@
       "trans": "Everything is going fine.",
       "words": [
         {
-          "t": "Ça va",
-          "lemma": "ça va",
-          "pos": "phrase",
-          "stress": "sava",
-          "gloss": "it is going fine",
-          "gram": "fixed expression"
+          "t": "Ça",
+          "lemma": "ça",
+          "pos": "pron",
+          "stress": "sa",
+          "gloss": "that",
+          "gram": "demonstrative pronoun"
+        },
+        {
+          "t": "va,",
+          "lemma": "aller",
+          "pos": "verb",
+          "stress": "va",
+          "gloss": "goes",
+          "gram": "present, 3sg"
         },
         {
           "t": "tout",
@@ -1429,7 +1413,7 @@
           "gram": "3rd sing pres"
         },
         {
-          "t": "bien",
+          "t": "bien.",
           "lemma": "bien",
           "pos": "adv",
           "stress": "bjɛ̃",
@@ -1443,20 +1427,12 @@
       "trans": "I have a special mission for you.",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "1st sing subj pron"
-        },
-        {
-          "t": "ai",
+          "t": "J'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "e",
-          "gloss": "have",
-          "gram": "1st sing pres aux"
+          "stress": "ʒe",
+          "gloss": "I have",
+          "gram": "je + ai: 1sg subject pronoun + present 1sg"
         },
         {
           "t": "une",
@@ -1491,7 +1467,7 @@
           "gram": "preposition"
         },
         {
-          "t": "toi",
+          "t": "toi.",
           "lemma": "toi",
           "pos": "pron",
           "stress": "twa",
@@ -1513,23 +1489,15 @@
           "gram": "1st sing subj pron"
         },
         {
-          "t": "t'",
-          "lemma": "te",
-          "pos": "pron",
-          "stress": "t",
-          "gloss": "you",
-          "gram": "2nd sing obj pron"
-        },
-        {
-          "t": "écoute",
+          "t": "t'écoute",
           "lemma": "écouter",
           "pos": "verb",
-          "stress": "ekut",
-          "gloss": "listen",
-          "gram": "1st sing pres"
+          "stress": "tekut",
+          "gloss": "am listening to you",
+          "gram": "te (elided t', you) + écoute: present, 1st person singular"
         },
         {
-          "t": "attentivement",
+          "t": "attentivement,",
           "lemma": "attentivement",
           "pos": "adv",
           "stress": "atɑ̃tivmɑ̃",
@@ -1537,7 +1505,7 @@
           "gram": "adverb"
         },
         {
-          "t": "Mathias",
+          "t": "Mathias.",
           "lemma": "mathias",
           "pos": "name",
           "stress": "matjas",
@@ -1599,7 +1567,7 @@
           "gram": "masc sing dem det"
         },
         {
-          "t": "soir",
+          "t": "soir.",
           "lemma": "soir",
           "pos": "noun",
           "stress": "swaʁ",
@@ -1645,7 +1613,7 @@
           "gram": "masc plur noun"
         },
         {
-          "t": "précis",
+          "t": "précis?",
           "lemma": "précis",
           "pos": "adj",
           "stress": "pʁesi",
@@ -1691,7 +1659,7 @@
           "gram": "proper noun"
         },
         {
-          "t": "Downing",
+          "t": "Downing.",
           "lemma": "downing",
           "pos": "name",
           "stress": "dawniŋ",
@@ -1729,23 +1697,15 @@
           "gram": "fem sing noun"
         },
         {
-          "t": "arrivent",
+          "t": "arrivent-ils",
           "lemma": "arriver",
           "pos": "verb",
-          "stress": "aʁiv",
-          "gloss": "arrive",
-          "gram": "3rd plur pres"
+          "stress": "aʁivil",
+          "gloss": "arrive they",
+          "gram": "arrivent: 3rd plur pres + -ils: 3rd masc plur subj pron"
         },
         {
-          "t": "-ils",
-          "lemma": "il",
-          "pos": "pron",
-          "stress": "il",
-          "gloss": "they",
-          "gram": "3rd masc plur subj pron"
-        },
-        {
-          "t": "ici",
+          "t": "ici?",
           "lemma": "ici",
           "pos": "adv",
           "stress": "isi",
@@ -1799,7 +1759,7 @@
           "gram": "compound numeral"
         },
         {
-          "t": "heures",
+          "t": "heures.",
           "lemma": "heure",
           "pos": "noun",
           "stress": "œʁ",
@@ -1821,20 +1781,12 @@
           "gram": "interrogative pron"
         },
         {
-          "t": "dois",
+          "t": "dois-je",
           "lemma": "devoir",
           "pos": "verb",
-          "stress": "dwa",
-          "gloss": "must",
-          "gram": "1st sing pres"
-        },
-        {
-          "t": "-je",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒə",
-          "gloss": "I",
-          "gram": "1st sing subj pron"
+          "stress": "dwaʒə",
+          "gloss": "must I",
+          "gram": "dois: 1st sing pres + -je: 1st sing subj pron"
         },
         {
           "t": "faire",
@@ -1845,7 +1797,7 @@
           "gram": "infinitive"
         },
         {
-          "t": "exactement",
+          "t": "exactement?",
           "lemma": "exactement",
           "pos": "adv",
           "stress": "ɛɡzaktəmɑ̃",
@@ -1859,20 +1811,12 @@
       "trans": "Notify me as soon as they arrive downstairs.",
       "words": [
         {
-          "t": "Préviens",
+          "t": "Préviens-moi",
           "lemma": "prévenir",
           "pos": "verb",
-          "stress": "pʁevjɛ̃",
-          "gloss": "notify",
-          "gram": "2nd sing imp"
-        },
-        {
-          "t": "-moi",
-          "lemma": "moi",
-          "pos": "pron",
-          "stress": "mwa",
-          "gloss": "me",
-          "gram": "1st sing tonic pron"
+          "stress": "pʁevjɛ̃mwa",
+          "gloss": "notify me",
+          "gram": "Préviens: 2nd sing imp + -moi: 1st sing tonic pron"
         },
         {
           "t": "dès",
@@ -1899,12 +1843,20 @@
           "gram": "fem sing noun"
         },
         {
-          "t": "en bas",
-          "lemma": "en bas",
-          "pos": "adv",
-          "stress": "ɑ̃ba",
-          "gloss": "downstairs",
-          "gram": "adverbial locution"
+          "t": "en",
+          "lemma": "en",
+          "pos": "prep",
+          "stress": "ɑ̃",
+          "gloss": "in",
+          "gram": "preposition"
+        },
+        {
+          "t": "bas.",
+          "lemma": "bas",
+          "pos": "noun",
+          "stress": "ba",
+          "gloss": "below, downstairs",
+          "gram": "masculine singular; 'en bas' = downstairs"
         }
       ]
     },
@@ -1945,7 +1897,7 @@
           "gram": "adverb"
         },
         {
-          "t": "confidentielle",
+          "t": "confidentielle?",
           "lemma": "confidentiel",
           "pos": "adj",
           "stress": "kɔ̃fidɑ̃sjɛl",
@@ -1959,7 +1911,7 @@
       "trans": "Yes, nobody must know that.",
       "words": [
         {
-          "t": "Oui",
+          "t": "Oui,",
           "lemma": "oui",
           "pos": "adv",
           "stress": "wi",
@@ -1999,7 +1951,7 @@
           "gram": "infinitive"
         },
         {
-          "t": "cela",
+          "t": "cela.",
           "lemma": "cela",
           "pos": "pron",
           "stress": "səla",
@@ -2045,7 +1997,7 @@
           "gram": "masc sing noun"
         },
         {
-          "t": "absolu",
+          "t": "absolu.",
           "lemma": "absolu",
           "pos": "adj",
           "stress": "apsɔly",
@@ -2091,7 +2043,7 @@
           "gram": "masc sing noun"
         },
         {
-          "t": "absolu",
+          "t": "absolu.",
           "lemma": "absolu",
           "pos": "adj",
           "stress": "apsɔly",
@@ -6204,6 +6156,133 @@
         {
           "word": "écoute",
           "gloss": "listening ear"
+        }
+      ]
+    },
+    "ça": {
+      "examples": [
+        {
+          "text": "Je prends ça.",
+          "trans": "I'll take that."
+        },
+        {
+          "text": "Ça fait trois semaines.",
+          "trans": "It's been three weeks."
+        },
+        {
+          "text": "Je prends ça. Merci.",
+          "trans": "I'll take that. Thanks."
+        }
+      ],
+      "forms": null,
+      "gloss": "that, it",
+      "lemma": "ça",
+      "meanings": [
+        {
+          "en": "that, it",
+          "note": "informal for cela"
+        },
+        {
+          "en": "ça fait... que = it's been...",
+          "note": "with time"
+        }
+      ],
+      "moreForms": [],
+      "pos": "pron",
+      "stress": "sa",
+      "related": []
+    },
+    "en": {
+      "examples": [
+        {
+          "text": "Je pars en vacances.",
+          "trans": "I'm going on holiday."
+        },
+        {
+          "text": "J'en ai assez!",
+          "trans": "I've had enough!"
+        },
+        {
+          "text": "Je suis en retard.",
+          "trans": "I'm late."
+        }
+      ],
+      "forms": null,
+      "gloss": "in; (pronoun) of it, some",
+      "lemma": "en",
+      "meanings": [
+        {
+          "en": "in",
+          "note": "preposition: en vacances, en huit ans"
+        },
+        {
+          "en": "of it, of them",
+          "note": "pronoun before the verb: j'en ai assez, je n'en peux plus"
+        }
+      ],
+      "moreForms": [],
+      "pos": "prep",
+      "stress": "ɑ̃",
+      "related": []
+    },
+    "bas": {
+      "examples": [
+        {
+          "text": "C'est vraiment bas.",
+          "trans": "That's really low."
+        },
+        {
+          "text": "La table est basse.",
+          "trans": "The table is low."
+        },
+        {
+          "text": "C'est vraiment bas, Emma.",
+          "trans": "That's really low, Emma."
+        }
+      ],
+      "forms": {
+        "columns": [
+          "",
+          "m",
+          "f"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "sg",
+              "bas",
+              "basse"
+            ]
+          },
+          {
+            "cells": [
+              "pl",
+              "bas",
+              "basses"
+            ]
+          }
+        ],
+        "title": "Forms"
+      },
+      "gloss": "low",
+      "lemma": "bas",
+      "meanings": [
+        {
+          "en": "low",
+          "note": "physically, or morally: c'est bas = that's low"
+        },
+        {
+          "en": "quietly",
+          "note": "as an adverb: parler bas"
+        }
+      ],
+      "moreForms": [],
+      "pos": "adj",
+      "stress": "bɑ",
+      "related": [
+        {
+          "word": "basement",
+          "gloss": "in a low manner (adv.)"
         }
       ]
     }

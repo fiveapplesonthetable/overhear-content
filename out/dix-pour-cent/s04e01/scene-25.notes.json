@@ -7,20 +7,12 @@
       "trans": "Do you really want to go to the big dinner?",
       "words": [
         {
-          "t": "Veux",
+          "t": "Veux-tu",
           "lemma": "vouloir",
           "pos": "verb",
-          "stress": "vø",
-          "gloss": "want",
-          "gram": "present 2sg"
-        },
-        {
-          "t": "-tu",
-          "lemma": "tu",
-          "pos": "pron",
-          "stress": "ty",
-          "gloss": "you",
-          "gram": "subject pronoun 2sg inverted"
+          "stress": "vøty",
+          "gloss": "do you want",
+          "gram": "veux + tu (verb inversion 2sg)"
         },
         {
           "t": "vraiment",
@@ -123,12 +115,28 @@
       "trans": "Everyone will monopolize you over there.",
       "words": [
         {
-          "t": "Tout le monde",
+          "t": "Tout",
           "lemma": "tout le monde",
-          "pos": "pron",
-          "stress": "tulmɔ̃d",
-          "gloss": "everyone",
-          "gram": "indefinite pronoun locution"
+          "pos": "phrase",
+          "stress": "tu",
+          "gloss": "all (everyone)",
+          "gram": "part of tout le monde"
+        },
+        {
+          "t": "le",
+          "lemma": "tout le monde",
+          "pos": "phrase",
+          "stress": "lə",
+          "gloss": "the (everyone)",
+          "gram": "part of tout le monde"
+        },
+        {
+          "t": "monde",
+          "lemma": "tout le monde",
+          "pos": "phrase",
+          "stress": "mɔ̃d",
+          "gloss": "world (everyone)",
+          "gram": "part of tout le monde"
         },
         {
           "t": "va",
@@ -139,20 +147,12 @@
           "gram": "present 3sg aux"
         },
         {
-          "t": "t'",
-          "lemma": "te",
-          "pos": "pron",
-          "stress": "t",
-          "gloss": "you",
-          "gram": "direct object pronoun 2sg elided"
-        },
-        {
-          "t": "accaparer",
+          "t": "t'accaparer",
           "lemma": "accaparer",
           "pos": "verb",
-          "stress": "akapaʁe",
-          "gloss": "monopolize",
-          "gram": "infinitive"
+          "stress": "takapaʁe",
+          "gloss": "you monopolize",
+          "gram": "t': direct object pronoun 2sg elided + accaparer: infinitive"
         },
         {
           "t": "là-bas.",
@@ -177,20 +177,12 @@
           "gram": "subject pronoun 1sg"
         },
         {
-          "t": "n'",
-          "lemma": "ne",
-          "pos": "part",
-          "stress": "n",
-          "gloss": "not",
-          "gram": "negative particle elided"
-        },
-        {
-          "t": "aurai",
+          "t": "n'aurai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "oʁe",
-          "gloss": "will have",
-          "gram": "future 1sg"
+          "stress": "noʁe",
+          "gloss": "not will have",
+          "gram": "n': negative particle elided + aurai: future 1sg"
         },
         {
           "t": "pas",
@@ -301,12 +293,20 @@
           "gram": "present 1pl"
         },
         {
-          "t": "ce que",
-          "lemma": "ce que",
-          "pos": "pron",
-          "stress": "səkə",
-          "gloss": "what / whatever",
-          "gram": "relative pronoun locution"
+          "t": "ce",
+          "lemma": "ce",
+          "pos": "det",
+          "stress": "sə",
+          "gloss": "this",
+          "gram": "demonstrative determiner, masculine singular"
+        },
+        {
+          "t": "que",
+          "lemma": "que",
+          "pos": "conj",
+          "stress": "kə",
+          "gloss": "that",
+          "gram": "subordinating conjunction"
         },
         {
           "t": "tu",
@@ -687,20 +687,12 @@
           "gram": "preposition"
         },
         {
-          "t": "l'",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "l",
-          "gloss": "the",
-          "gram": "definite article elided"
-        },
-        {
-          "t": "hôtel.",
+          "t": "l'hôtel.",
           "lemma": "hôtel",
           "pos": "noun",
-          "stress": "otɛl",
-          "gloss": "hotel",
-          "gram": "masculine noun"
+          "stress": "lotɛl",
+          "gloss": "the hotel",
+          "gram": "le (elided l') + hôtel: masculine singular"
         }
       ]
     },
@@ -709,20 +701,12 @@
       "trans": "That is the best idea of the evening.",
       "words": [
         {
-          "t": "C'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "it",
-          "gram": "demonstrative pronoun elided"
-        },
-        {
-          "t": "est",
+          "t": "C'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present 3sg"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "la",
@@ -779,20 +763,12 @@
       "trans": "Do you really want to go to the big dinner?",
       "words": [
         {
-          "t": "Veux",
+          "t": "Veux-tu",
           "lemma": "vouloir",
           "pos": "verb",
-          "stress": "vø",
-          "gloss": "want",
-          "gram": "present 2sg"
-        },
-        {
-          "t": "-tu",
-          "lemma": "tu",
-          "pos": "pron",
-          "stress": "ty",
-          "gloss": "you",
-          "gram": "subject pronoun 2sg inverted"
+          "stress": "vøty",
+          "gloss": "do you want",
+          "gram": "veux + tu (verb inversion 2sg)"
         },
         {
           "t": "vraiment",
@@ -895,12 +871,28 @@
       "trans": "Everyone will monopolize you over there.",
       "words": [
         {
-          "t": "Tout le monde",
+          "t": "Tout",
           "lemma": "tout le monde",
-          "pos": "pron",
-          "stress": "tulmɔ̃d",
-          "gloss": "everyone",
-          "gram": "indefinite pronoun locution"
+          "pos": "phrase",
+          "stress": "tu",
+          "gloss": "all (everyone)",
+          "gram": "part of tout le monde"
+        },
+        {
+          "t": "le",
+          "lemma": "tout le monde",
+          "pos": "phrase",
+          "stress": "lə",
+          "gloss": "the (everyone)",
+          "gram": "part of tout le monde"
+        },
+        {
+          "t": "monde",
+          "lemma": "tout le monde",
+          "pos": "phrase",
+          "stress": "mɔ̃d",
+          "gloss": "world (everyone)",
+          "gram": "part of tout le monde"
         },
         {
           "t": "va",
@@ -911,20 +903,12 @@
           "gram": "present 3sg aux"
         },
         {
-          "t": "t'",
-          "lemma": "te",
-          "pos": "pron",
-          "stress": "t",
-          "gloss": "you",
-          "gram": "direct object pronoun 2sg elided"
-        },
-        {
-          "t": "accaparer",
+          "t": "t'accaparer",
           "lemma": "accaparer",
           "pos": "verb",
-          "stress": "akapaʁe",
-          "gloss": "monopolize",
-          "gram": "infinitive"
+          "stress": "takapaʁe",
+          "gloss": "you monopolize",
+          "gram": "t': direct object pronoun 2sg elided + accaparer: infinitive"
         },
         {
           "t": "là-bas.",
@@ -949,20 +933,12 @@
           "gram": "subject pronoun 1sg"
         },
         {
-          "t": "n'",
-          "lemma": "ne",
-          "pos": "part",
-          "stress": "n",
-          "gloss": "not",
-          "gram": "negative particle elided"
-        },
-        {
-          "t": "aurai",
+          "t": "n'aurai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "oʁe",
-          "gloss": "will have",
-          "gram": "future 1sg"
+          "stress": "noʁe",
+          "gloss": "not will have",
+          "gram": "n': negative particle elided + aurai: future 1sg"
         },
         {
           "t": "pas",
@@ -1073,12 +1049,20 @@
           "gram": "present 1pl"
         },
         {
-          "t": "ce que",
-          "lemma": "ce que",
-          "pos": "pron",
-          "stress": "səkə",
-          "gloss": "what / whatever",
-          "gram": "relative pronoun locution"
+          "t": "ce",
+          "lemma": "ce",
+          "pos": "det",
+          "stress": "sə",
+          "gloss": "this",
+          "gram": "demonstrative determiner, masculine singular"
+        },
+        {
+          "t": "que",
+          "lemma": "que",
+          "pos": "conj",
+          "stress": "kə",
+          "gloss": "that",
+          "gram": "subordinating conjunction"
         },
         {
           "t": "tu",
@@ -1459,20 +1443,12 @@
           "gram": "preposition"
         },
         {
-          "t": "l'",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "l",
-          "gloss": "the",
-          "gram": "definite article elided"
-        },
-        {
-          "t": "hôtel.",
+          "t": "l'hôtel.",
           "lemma": "hôtel",
           "pos": "noun",
-          "stress": "otɛl",
-          "gloss": "hotel",
-          "gram": "masculine noun"
+          "stress": "lotɛl",
+          "gloss": "the hotel",
+          "gram": "le (elided l') + hôtel: masculine singular"
         }
       ]
     },
@@ -1481,20 +1457,12 @@
       "trans": "That is the best idea of the evening.",
       "words": [
         {
-          "t": "C'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "it",
-          "gram": "demonstrative pronoun elided"
-        },
-        {
-          "t": "est",
+          "t": "C'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present 3sg"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "la",
@@ -1551,20 +1519,12 @@
       "trans": "Do you really want to go to the big dinner?",
       "words": [
         {
-          "t": "Veux",
+          "t": "Veux-tu",
           "lemma": "vouloir",
           "pos": "verb",
-          "stress": "vø",
-          "gloss": "want",
-          "gram": "present 2sg"
-        },
-        {
-          "t": "-tu",
-          "lemma": "tu",
-          "pos": "pron",
-          "stress": "ty",
-          "gloss": "you",
-          "gram": "subject pronoun 2sg inverted"
+          "stress": "vøty",
+          "gloss": "do you want",
+          "gram": "veux + tu (verb inversion 2sg)"
         },
         {
           "t": "vraiment",
@@ -1667,12 +1627,28 @@
       "trans": "Everyone will monopolize you over there.",
       "words": [
         {
-          "t": "Tout le monde",
+          "t": "Tout",
           "lemma": "tout le monde",
-          "pos": "pron",
-          "stress": "tulmɔ̃d",
-          "gloss": "everyone",
-          "gram": "indefinite pronoun locution"
+          "pos": "phrase",
+          "stress": "tu",
+          "gloss": "all (everyone)",
+          "gram": "part of tout le monde"
+        },
+        {
+          "t": "le",
+          "lemma": "tout le monde",
+          "pos": "phrase",
+          "stress": "lə",
+          "gloss": "the (everyone)",
+          "gram": "part of tout le monde"
+        },
+        {
+          "t": "monde",
+          "lemma": "tout le monde",
+          "pos": "phrase",
+          "stress": "mɔ̃d",
+          "gloss": "world (everyone)",
+          "gram": "part of tout le monde"
         },
         {
           "t": "va",
@@ -1683,20 +1659,12 @@
           "gram": "present 3sg aux"
         },
         {
-          "t": "t'",
-          "lemma": "te",
-          "pos": "pron",
-          "stress": "t",
-          "gloss": "you",
-          "gram": "direct object pronoun 2sg elided"
-        },
-        {
-          "t": "accaparer",
+          "t": "t'accaparer",
           "lemma": "accaparer",
           "pos": "verb",
-          "stress": "akapaʁe",
-          "gloss": "monopolize",
-          "gram": "infinitive"
+          "stress": "takapaʁe",
+          "gloss": "you monopolize",
+          "gram": "t': direct object pronoun 2sg elided + accaparer: infinitive"
         },
         {
           "t": "là-bas.",
@@ -1721,20 +1689,12 @@
           "gram": "subject pronoun 1sg"
         },
         {
-          "t": "n'",
-          "lemma": "ne",
-          "pos": "part",
-          "stress": "n",
-          "gloss": "not",
-          "gram": "negative particle elided"
-        },
-        {
-          "t": "aurai",
+          "t": "n'aurai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "oʁe",
-          "gloss": "will have",
-          "gram": "future 1sg"
+          "stress": "noʁe",
+          "gloss": "not will have",
+          "gram": "n': negative particle elided + aurai: future 1sg"
         },
         {
           "t": "pas",
@@ -1845,12 +1805,20 @@
           "gram": "present 1pl"
         },
         {
-          "t": "ce que",
-          "lemma": "ce que",
-          "pos": "pron",
-          "stress": "səkə",
-          "gloss": "what / whatever",
-          "gram": "relative pronoun locution"
+          "t": "ce",
+          "lemma": "ce",
+          "pos": "det",
+          "stress": "sə",
+          "gloss": "this",
+          "gram": "demonstrative determiner, masculine singular"
+        },
+        {
+          "t": "que",
+          "lemma": "que",
+          "pos": "conj",
+          "stress": "kə",
+          "gloss": "that",
+          "gram": "subordinating conjunction"
         },
         {
           "t": "tu",
@@ -2231,20 +2199,12 @@
           "gram": "preposition"
         },
         {
-          "t": "l'",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "l",
-          "gloss": "the",
-          "gram": "definite article elided"
-        },
-        {
-          "t": "hôtel.",
+          "t": "l'hôtel.",
           "lemma": "hôtel",
           "pos": "noun",
-          "stress": "otɛl",
-          "gloss": "hotel",
-          "gram": "masculine noun"
+          "stress": "lotɛl",
+          "gloss": "the hotel",
+          "gram": "le (elided l') + hôtel: masculine singular"
         }
       ]
     },
@@ -2253,20 +2213,12 @@
       "trans": "That is the best idea of the evening.",
       "words": [
         {
-          "t": "C'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "it",
-          "gram": "demonstrative pronoun elided"
-        },
-        {
-          "t": "est",
+          "t": "C'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present 3sg"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "la",
@@ -2339,12 +2291,20 @@
           "gram": "present 1pl"
         },
         {
-          "t": "ce que",
-          "lemma": "ce que",
-          "pos": "pron",
-          "stress": "səkə",
-          "gloss": "what / whatever",
-          "gram": "relative pronoun locution"
+          "t": "ce",
+          "lemma": "ce",
+          "pos": "det",
+          "stress": "sə",
+          "gloss": "this",
+          "gram": "demonstrative determiner, masculine singular"
+        },
+        {
+          "t": "que",
+          "lemma": "que",
+          "pos": "conj",
+          "stress": "kə",
+          "gloss": "that",
+          "gram": "subordinating conjunction"
         },
         {
           "t": "tu",
@@ -6837,6 +6797,47 @@
           "gloss": "verb family relative (to be)"
         }
       ]
+    },
+    "que": {
+      "examples": [
+        {
+          "text": "Dis-lui que je ne peux pas venir.",
+          "trans": "Tell her I can't come."
+        },
+        {
+          "text": "Je n'ai que deux places.",
+          "trans": "I've only got two tickets."
+        },
+        {
+          "text": "Appelle Clémentine. Dis-lui que je ne peux pas venir ce soir.",
+          "trans": "Call Clémentine. Tell her I can't come tonight."
+        }
+      ],
+      "forms": null,
+      "gloss": "that; than; only (ne...que)",
+      "lemma": "que",
+      "meanings": [
+        {
+          "en": "that",
+          "note": "joins two parts: dis-lui que..."
+        },
+        {
+          "en": "which, that",
+          "note": "relative: tout ce que"
+        },
+        {
+          "en": "only",
+          "note": "with ne: ne... que"
+        },
+        {
+          "en": "since",
+          "note": "ça fait trois semaines que..."
+        }
+      ],
+      "moreForms": [],
+      "pos": "conj",
+      "stress": "kə",
+      "related": []
     }
   }
 }

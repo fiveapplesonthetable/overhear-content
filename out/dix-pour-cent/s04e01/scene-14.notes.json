@@ -7,20 +7,12 @@
       "trans": "Excuse me, I set this box down here.",
       "words": [
         {
-          "t": "Excusez",
+          "t": "Excusez-moi,",
           "lemma": "excuser",
           "pos": "verb",
-          "stress": "ɛkskyze",
-          "gloss": "excuse",
-          "gram": "2nd plur imp"
-        },
-        {
-          "t": "-moi",
-          "lemma": "moi",
-          "pos": "pron",
-          "stress": "mwa",
-          "gloss": "me",
-          "gram": "1st sing tonic pron"
+          "stress": "ɛkskyzemwa",
+          "gloss": "excuse me, sorry",
+          "gram": "imperative, polite (vous) + moi"
         },
         {
           "t": "je",
@@ -55,7 +47,7 @@
           "gram": "masc sing noun"
         },
         {
-          "t": "ici",
+          "t": "ici.",
           "lemma": "ici",
           "pos": "adv",
           "stress": "isi",
@@ -69,7 +61,7 @@
       "trans": "Gabriel! What are you doing?",
       "words": [
         {
-          "t": "Gabriel",
+          "t": "Gabriel!",
           "lemma": "gabriel",
           "pos": "name",
           "stress": "ɡabʁijɛl",
@@ -85,12 +77,20 @@
           "gram": "coordinating conj"
         },
         {
-          "t": "qu'est-ce que",
+          "t": "qu'est-ce",
           "lemma": "qu'est-ce que",
-          "pos": "pron",
-          "stress": "kɛskə",
-          "gloss": "what",
-          "gram": "idiomatic question pron"
+          "pos": "phrase",
+          "stress": "kɛs",
+          "gloss": "what is it",
+          "gram": "question opener"
+        },
+        {
+          "t": "que",
+          "lemma": "qu'est-ce que",
+          "pos": "phrase",
+          "stress": "kə",
+          "gloss": "what (part 2)",
+          "gram": "question phrase qu'est-ce que, second part"
         },
         {
           "t": "tu",
@@ -101,7 +101,7 @@
           "gram": "2nd sing subj pron"
         },
         {
-          "t": "fais",
+          "t": "fais?",
           "lemma": "faire",
           "pos": "verb",
           "stress": "fɛ",
@@ -131,7 +131,7 @@
           "gram": "2nd sing pres"
         },
         {
-          "t": "bien",
+          "t": "bien,",
           "lemma": "bien",
           "pos": "adv",
           "stress": "bjɛ̃",
@@ -139,23 +139,15 @@
           "gram": "adverb"
         },
         {
-          "t": "j'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "1st sing subj pron"
-        },
-        {
-          "t": "emménage",
+          "t": "j'emménage",
           "lemma": "emménager",
           "pos": "verb",
-          "stress": "ɑ̃menaʒ",
-          "gloss": "move in",
-          "gram": "1st sing pres"
+          "stress": "ʒɑ̃menaʒ",
+          "gloss": "I move in",
+          "gram": "j': 1st sing subj pron + emménage: 1st sing pres"
         },
         {
-          "t": "aujourd'hui",
+          "t": "aujourd'hui!",
           "lemma": "aujourd'hui",
           "pos": "adv",
           "stress": "oʒuʁdɥi",
@@ -169,20 +161,12 @@
       "trans": "This is my official office, Gabriel!",
       "words": [
         {
-          "t": "C'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "this",
-          "gram": "dem pron"
-        },
-        {
-          "t": "est",
+          "t": "C'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "3rd sing pres"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "mon",
@@ -201,7 +185,7 @@
           "gram": "masc sing noun"
         },
         {
-          "t": "officiel",
+          "t": "officiel,",
           "lemma": "officiel",
           "pos": "adj",
           "stress": "ɔfisjɛl",
@@ -209,7 +193,7 @@
           "gram": "masc sing adj"
         },
         {
-          "t": "Gabriel",
+          "t": "Gabriel!",
           "lemma": "gabriel",
           "pos": "name",
           "stress": "ɡabʁijɛl",
@@ -223,12 +207,28 @@
       "trans": "In any case, you are never here.",
       "words": [
         {
-          "t": "De toute façon",
-          "lemma": "de toute façon",
-          "pos": "adv",
-          "stress": "dətutfasɔ̃",
-          "gloss": "in any case",
-          "gram": "adverbial locution"
+          "t": "De",
+          "lemma": "de",
+          "pos": "prep",
+          "stress": "də",
+          "gloss": "of",
+          "gram": "preposition"
+        },
+        {
+          "t": "toute",
+          "lemma": "tout",
+          "pos": "det",
+          "stress": "tut",
+          "gloss": "all",
+          "gram": "indefinite determiner, feminine singular"
+        },
+        {
+          "t": "façon,",
+          "lemma": "façon",
+          "pos": "noun",
+          "stress": "fasɔ̃",
+          "gloss": "way, manner",
+          "gram": "feminine singular"
         },
         {
           "t": "tu",
@@ -239,20 +239,12 @@
           "gram": "2nd sing subj pron"
         },
         {
-          "t": "n'",
-          "lemma": "ne",
-          "pos": "adv",
-          "stress": "n",
-          "gloss": "not",
-          "gram": "neg part"
-        },
-        {
-          "t": "es",
+          "t": "n'es",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "are",
-          "gram": "2nd sing pres"
+          "stress": "nɛ",
+          "gloss": "are (not)",
+          "gram": "ne (elided n') + es: present, 2nd person singular"
         },
         {
           "t": "jamais",
@@ -263,7 +255,7 @@
           "gram": "adverb of time"
         },
         {
-          "t": "là",
+          "t": "là.",
           "lemma": "là",
           "pos": "adv",
           "stress": "la",
@@ -293,20 +285,12 @@
           "gram": "1st sing pres"
         },
         {
-          "t": "l'",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "l",
-          "gloss": "the",
-          "gram": "fem sing def art"
-        },
-        {
-          "t": "agence",
+          "t": "l'agence",
           "lemma": "agence",
           "pos": "noun",
-          "stress": "aʒɑ̃s",
-          "gloss": "agency",
-          "gram": "fem sing noun"
+          "stress": "laʒɑ̃s",
+          "gloss": "the agency",
+          "gram": "la (elided l') + agence, feminine singular"
         },
         {
           "t": "tout",
@@ -317,7 +301,7 @@
           "gram": "adverb"
         },
         {
-          "t": "entière",
+          "t": "entière!",
           "lemma": "entier",
           "pos": "adj",
           "stress": "ɑ̃tjɛʁ",
@@ -371,7 +355,7 @@
           "gram": "masc sing dem det"
         },
         {
-          "t": "téléphone",
+          "t": "téléphone?",
           "lemma": "téléphone",
           "pos": "noun",
           "stress": "telefɔn",
@@ -385,20 +369,12 @@
       "trans": "I am calling ASK legal department.",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "1st sing subj pron"
-        },
-        {
-          "t": "appelle",
+          "t": "J'appelle",
           "lemma": "appeler",
           "pos": "verb",
-          "stress": "apɛl",
-          "gloss": "call",
-          "gram": "1st sing pres"
+          "stress": "ʒapɛl",
+          "gloss": "I call",
+          "gram": "J': 1st sing subj pron + appelle: 1st sing pres"
         },
         {
           "t": "le",
@@ -425,20 +401,12 @@
           "gram": "sing adj"
         },
         {
-          "t": "d'",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "d",
-          "gloss": "of",
-          "gram": "preposition"
-        },
-        {
-          "t": "ASK",
+          "t": "d'ASK.",
           "lemma": "ask",
           "pos": "name",
-          "stress": "aɛsk",
-          "gloss": "ASK",
-          "gram": "proper noun"
+          "stress": "dask",
+          "gloss": "of ASK",
+          "gram": "de (elided) + ASK, the agency's name"
         }
       ]
     },
@@ -487,7 +455,7 @@
           "gram": "infinitive aux"
         },
         {
-          "t": "expulser",
+          "t": "expulser?",
           "lemma": "expulser",
           "pos": "verb",
           "stress": "ɛkspylse",
@@ -501,20 +469,12 @@
       "trans": "I have good news for you.",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "1st sing subj pron"
-        },
-        {
-          "t": "ai",
+          "t": "J'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "e",
-          "gloss": "have",
-          "gram": "1st sing pres"
+          "stress": "ʒe",
+          "gloss": "I have",
+          "gram": "je + ai: 1sg subject pronoun + present 1sg"
         },
         {
           "t": "une",
@@ -549,7 +509,7 @@
           "gram": "preposition"
         },
         {
-          "t": "toi",
+          "t": "toi.",
           "lemma": "toi",
           "pos": "pron",
           "stress": "twa",
@@ -603,7 +563,7 @@
           "gram": "fem sing adj"
         },
         {
-          "t": "promotion",
+          "t": "promotion?",
           "lemma": "promotion",
           "pos": "noun",
           "stress": "pʁɔmɔsjɔ̃",
@@ -617,7 +577,7 @@
       "trans": "Yes, I promote you right away!",
       "words": [
         {
-          "t": "Oui",
+          "t": "Oui,",
           "lemma": "oui",
           "pos": "adv",
           "stress": "wi",
@@ -649,12 +609,28 @@
           "gram": "1st sing pres"
         },
         {
-          "t": "tout de suite",
+          "t": "tout",
           "lemma": "tout de suite",
-          "pos": "adv",
-          "stress": "tudəsɥit",
-          "gloss": "right away",
-          "gram": "adverbial locution"
+          "pos": "phrase",
+          "stress": "tu",
+          "gloss": "all, right",
+          "gram": "first part of 'tout de suite' = right away"
+        },
+        {
+          "t": "de",
+          "lemma": "tout de suite",
+          "pos": "phrase",
+          "stress": "də",
+          "gloss": "of",
+          "gram": "second part of 'tout de suite'"
+        },
+        {
+          "t": "suite!",
+          "lemma": "tout de suite",
+          "pos": "phrase",
+          "stress": "sɥit",
+          "gloss": "away, at once",
+          "gram": "third part of 'tout de suite' = immediately"
         }
       ]
     },
@@ -703,7 +679,7 @@
           "gram": "masc sing noun"
         },
         {
-          "t": "enfin",
+          "t": "enfin?",
           "lemma": "enfin",
           "pos": "adv",
           "stress": "ɑ̃fɛ̃",
@@ -717,7 +693,7 @@
       "trans": "No, not salary, a change of floor!",
       "words": [
         {
-          "t": "Non",
+          "t": "Non,",
           "lemma": "non",
           "pos": "adv",
           "stress": "nɔ̃",
@@ -741,7 +717,7 @@
           "gram": "preposition"
         },
         {
-          "t": "salaire",
+          "t": "salaire,",
           "lemma": "salaire",
           "pos": "noun",
           "stress": "salɛʁ",
@@ -765,20 +741,12 @@
           "gram": "masc sing noun"
         },
         {
-          "t": "d'",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "d",
-          "gloss": "of",
-          "gram": "preposition"
-        },
-        {
-          "t": "étage",
+          "t": "d'étage!",
           "lemma": "étage",
           "pos": "noun",
-          "stress": "etaʒ",
-          "gloss": "floor",
-          "gram": "masc sing noun"
+          "stress": "detaʒ",
+          "gloss": "of floor",
+          "gram": "d': preposition + étage: masc sing noun"
         }
       ]
     },
@@ -787,20 +755,12 @@
       "trans": "Excuse me, I set this box down here.",
       "words": [
         {
-          "t": "Excusez",
+          "t": "Excusez-moi,",
           "lemma": "excuser",
           "pos": "verb",
-          "stress": "ɛkskyze",
-          "gloss": "excuse",
-          "gram": "2nd plur imp"
-        },
-        {
-          "t": "-moi",
-          "lemma": "moi",
-          "pos": "pron",
-          "stress": "mwa",
-          "gloss": "me",
-          "gram": "1st sing tonic pron"
+          "stress": "ɛkskyzemwa",
+          "gloss": "excuse me, sorry",
+          "gram": "imperative, polite (vous) + moi"
         },
         {
           "t": "je",
@@ -835,7 +795,7 @@
           "gram": "masc sing noun"
         },
         {
-          "t": "ici",
+          "t": "ici.",
           "lemma": "ici",
           "pos": "adv",
           "stress": "isi",
@@ -849,7 +809,7 @@
       "trans": "Gabriel! What are you doing?",
       "words": [
         {
-          "t": "Gabriel",
+          "t": "Gabriel!",
           "lemma": "gabriel",
           "pos": "name",
           "stress": "ɡabʁijɛl",
@@ -865,12 +825,20 @@
           "gram": "coordinating conj"
         },
         {
-          "t": "qu'est-ce que",
+          "t": "qu'est-ce",
           "lemma": "qu'est-ce que",
-          "pos": "pron",
-          "stress": "kɛskə",
-          "gloss": "what",
-          "gram": "idiomatic question pron"
+          "pos": "phrase",
+          "stress": "kɛs",
+          "gloss": "what is it",
+          "gram": "question opener"
+        },
+        {
+          "t": "que",
+          "lemma": "qu'est-ce que",
+          "pos": "phrase",
+          "stress": "kə",
+          "gloss": "what (part 2)",
+          "gram": "question phrase qu'est-ce que, second part"
         },
         {
           "t": "tu",
@@ -881,7 +849,7 @@
           "gram": "2nd sing subj pron"
         },
         {
-          "t": "fais",
+          "t": "fais?",
           "lemma": "faire",
           "pos": "verb",
           "stress": "fɛ",
@@ -911,7 +879,7 @@
           "gram": "2nd sing pres"
         },
         {
-          "t": "bien",
+          "t": "bien,",
           "lemma": "bien",
           "pos": "adv",
           "stress": "bjɛ̃",
@@ -919,23 +887,15 @@
           "gram": "adverb"
         },
         {
-          "t": "j'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "1st sing subj pron"
-        },
-        {
-          "t": "emménage",
+          "t": "j'emménage",
           "lemma": "emménager",
           "pos": "verb",
-          "stress": "ɑ̃menaʒ",
-          "gloss": "move in",
-          "gram": "1st sing pres"
+          "stress": "ʒɑ̃menaʒ",
+          "gloss": "I move in",
+          "gram": "j': 1st sing subj pron + emménage: 1st sing pres"
         },
         {
-          "t": "aujourd'hui",
+          "t": "aujourd'hui!",
           "lemma": "aujourd'hui",
           "pos": "adv",
           "stress": "oʒuʁdɥi",
@@ -949,20 +909,12 @@
       "trans": "This is my official office, Gabriel!",
       "words": [
         {
-          "t": "C'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "this",
-          "gram": "dem pron"
-        },
-        {
-          "t": "est",
+          "t": "C'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "3rd sing pres"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "mon",
@@ -981,7 +933,7 @@
           "gram": "masc sing noun"
         },
         {
-          "t": "officiel",
+          "t": "officiel,",
           "lemma": "officiel",
           "pos": "adj",
           "stress": "ɔfisjɛl",
@@ -989,7 +941,7 @@
           "gram": "masc sing adj"
         },
         {
-          "t": "Gabriel",
+          "t": "Gabriel!",
           "lemma": "gabriel",
           "pos": "name",
           "stress": "ɡabʁijɛl",
@@ -1003,12 +955,28 @@
       "trans": "In any case, you are never here.",
       "words": [
         {
-          "t": "De toute façon",
-          "lemma": "de toute façon",
-          "pos": "adv",
-          "stress": "dətutfasɔ̃",
-          "gloss": "in any case",
-          "gram": "adverbial locution"
+          "t": "De",
+          "lemma": "de",
+          "pos": "prep",
+          "stress": "də",
+          "gloss": "of",
+          "gram": "preposition"
+        },
+        {
+          "t": "toute",
+          "lemma": "tout",
+          "pos": "det",
+          "stress": "tut",
+          "gloss": "all",
+          "gram": "indefinite determiner, feminine singular"
+        },
+        {
+          "t": "façon,",
+          "lemma": "façon",
+          "pos": "noun",
+          "stress": "fasɔ̃",
+          "gloss": "way, manner",
+          "gram": "feminine singular"
         },
         {
           "t": "tu",
@@ -1019,20 +987,12 @@
           "gram": "2nd sing subj pron"
         },
         {
-          "t": "n'",
-          "lemma": "ne",
-          "pos": "adv",
-          "stress": "n",
-          "gloss": "not",
-          "gram": "neg part"
-        },
-        {
-          "t": "es",
+          "t": "n'es",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "are",
-          "gram": "2nd sing pres"
+          "stress": "nɛ",
+          "gloss": "are (not)",
+          "gram": "ne (elided n') + es: present, 2nd person singular"
         },
         {
           "t": "jamais",
@@ -1043,7 +1003,7 @@
           "gram": "adverb of time"
         },
         {
-          "t": "là",
+          "t": "là.",
           "lemma": "là",
           "pos": "adv",
           "stress": "la",
@@ -1073,20 +1033,12 @@
           "gram": "1st sing pres"
         },
         {
-          "t": "l'",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "l",
-          "gloss": "the",
-          "gram": "fem sing def art"
-        },
-        {
-          "t": "agence",
+          "t": "l'agence",
           "lemma": "agence",
           "pos": "noun",
-          "stress": "aʒɑ̃s",
-          "gloss": "agency",
-          "gram": "fem sing noun"
+          "stress": "laʒɑ̃s",
+          "gloss": "the agency",
+          "gram": "la (elided l') + agence, feminine singular"
         },
         {
           "t": "tout",
@@ -1097,7 +1049,7 @@
           "gram": "adverb"
         },
         {
-          "t": "entière",
+          "t": "entière!",
           "lemma": "entier",
           "pos": "adj",
           "stress": "ɑ̃tjɛʁ",
@@ -1151,7 +1103,7 @@
           "gram": "masc sing dem det"
         },
         {
-          "t": "téléphone",
+          "t": "téléphone?",
           "lemma": "téléphone",
           "pos": "noun",
           "stress": "telefɔn",
@@ -1165,20 +1117,12 @@
       "trans": "I am calling ASK legal department.",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "1st sing subj pron"
-        },
-        {
-          "t": "appelle",
+          "t": "J'appelle",
           "lemma": "appeler",
           "pos": "verb",
-          "stress": "apɛl",
-          "gloss": "call",
-          "gram": "1st sing pres"
+          "stress": "ʒapɛl",
+          "gloss": "I call",
+          "gram": "J': 1st sing subj pron + appelle: 1st sing pres"
         },
         {
           "t": "le",
@@ -1205,20 +1149,12 @@
           "gram": "sing adj"
         },
         {
-          "t": "d'",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "d",
-          "gloss": "of",
-          "gram": "preposition"
-        },
-        {
-          "t": "ASK",
+          "t": "d'ASK.",
           "lemma": "ask",
           "pos": "name",
-          "stress": "aɛsk",
-          "gloss": "ASK",
-          "gram": "proper noun"
+          "stress": "dask",
+          "gloss": "of ASK",
+          "gram": "de (elided) + ASK, the agency's name"
         }
       ]
     },
@@ -1267,7 +1203,7 @@
           "gram": "infinitive aux"
         },
         {
-          "t": "expulser",
+          "t": "expulser?",
           "lemma": "expulser",
           "pos": "verb",
           "stress": "ɛkspylse",
@@ -1281,20 +1217,12 @@
       "trans": "I have good news for you.",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "1st sing subj pron"
-        },
-        {
-          "t": "ai",
+          "t": "J'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "e",
-          "gloss": "have",
-          "gram": "1st sing pres"
+          "stress": "ʒe",
+          "gloss": "I have",
+          "gram": "je + ai: 1sg subject pronoun + present 1sg"
         },
         {
           "t": "une",
@@ -1329,7 +1257,7 @@
           "gram": "preposition"
         },
         {
-          "t": "toi",
+          "t": "toi.",
           "lemma": "toi",
           "pos": "pron",
           "stress": "twa",
@@ -1383,7 +1311,7 @@
           "gram": "fem sing adj"
         },
         {
-          "t": "promotion",
+          "t": "promotion?",
           "lemma": "promotion",
           "pos": "noun",
           "stress": "pʁɔmɔsjɔ̃",
@@ -1397,7 +1325,7 @@
       "trans": "Yes, I promote you right away!",
       "words": [
         {
-          "t": "Oui",
+          "t": "Oui,",
           "lemma": "oui",
           "pos": "adv",
           "stress": "wi",
@@ -1429,12 +1357,28 @@
           "gram": "1st sing pres"
         },
         {
-          "t": "tout de suite",
+          "t": "tout",
           "lemma": "tout de suite",
-          "pos": "adv",
-          "stress": "tudəsɥit",
-          "gloss": "right away",
-          "gram": "adverbial locution"
+          "pos": "phrase",
+          "stress": "tu",
+          "gloss": "all, right",
+          "gram": "first part of 'tout de suite' = right away"
+        },
+        {
+          "t": "de",
+          "lemma": "tout de suite",
+          "pos": "phrase",
+          "stress": "də",
+          "gloss": "of",
+          "gram": "second part of 'tout de suite'"
+        },
+        {
+          "t": "suite!",
+          "lemma": "tout de suite",
+          "pos": "phrase",
+          "stress": "sɥit",
+          "gloss": "away, at once",
+          "gram": "third part of 'tout de suite' = immediately"
         }
       ]
     },
@@ -1483,7 +1427,7 @@
           "gram": "masc sing noun"
         },
         {
-          "t": "enfin",
+          "t": "enfin?",
           "lemma": "enfin",
           "pos": "adv",
           "stress": "ɑ̃fɛ̃",
@@ -1497,7 +1441,7 @@
       "trans": "No, not salary, a change of floor!",
       "words": [
         {
-          "t": "Non",
+          "t": "Non,",
           "lemma": "non",
           "pos": "adv",
           "stress": "nɔ̃",
@@ -1521,7 +1465,7 @@
           "gram": "preposition"
         },
         {
-          "t": "salaire",
+          "t": "salaire,",
           "lemma": "salaire",
           "pos": "noun",
           "stress": "salɛʁ",
@@ -1545,20 +1489,12 @@
           "gram": "masc sing noun"
         },
         {
-          "t": "d'",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "d",
-          "gloss": "of",
-          "gram": "preposition"
-        },
-        {
-          "t": "étage",
+          "t": "d'étage!",
           "lemma": "étage",
           "pos": "noun",
-          "stress": "etaʒ",
-          "gloss": "floor",
-          "gram": "masc sing noun"
+          "stress": "detaʒ",
+          "gloss": "of floor",
+          "gram": "d': preposition + étage: masc sing noun"
         }
       ]
     },
@@ -1567,20 +1503,12 @@
       "trans": "Excuse me, I set this box down here.",
       "words": [
         {
-          "t": "Excusez",
+          "t": "Excusez-moi,",
           "lemma": "excuser",
           "pos": "verb",
-          "stress": "ɛkskyze",
-          "gloss": "excuse",
-          "gram": "2nd plur imp"
-        },
-        {
-          "t": "-moi",
-          "lemma": "moi",
-          "pos": "pron",
-          "stress": "mwa",
-          "gloss": "me",
-          "gram": "1st sing tonic pron"
+          "stress": "ɛkskyzemwa",
+          "gloss": "excuse me, sorry",
+          "gram": "imperative, polite (vous) + moi"
         },
         {
           "t": "je",
@@ -1615,7 +1543,7 @@
           "gram": "masc sing noun"
         },
         {
-          "t": "ici",
+          "t": "ici.",
           "lemma": "ici",
           "pos": "adv",
           "stress": "isi",
@@ -1629,7 +1557,7 @@
       "trans": "Gabriel! What are you doing?",
       "words": [
         {
-          "t": "Gabriel",
+          "t": "Gabriel!",
           "lemma": "gabriel",
           "pos": "name",
           "stress": "ɡabʁijɛl",
@@ -1645,12 +1573,20 @@
           "gram": "coordinating conj"
         },
         {
-          "t": "qu'est-ce que",
+          "t": "qu'est-ce",
           "lemma": "qu'est-ce que",
-          "pos": "pron",
-          "stress": "kɛskə",
-          "gloss": "what",
-          "gram": "idiomatic question pron"
+          "pos": "phrase",
+          "stress": "kɛs",
+          "gloss": "what is it",
+          "gram": "question opener"
+        },
+        {
+          "t": "que",
+          "lemma": "qu'est-ce que",
+          "pos": "phrase",
+          "stress": "kə",
+          "gloss": "what (part 2)",
+          "gram": "question phrase qu'est-ce que, second part"
         },
         {
           "t": "tu",
@@ -1661,7 +1597,7 @@
           "gram": "2nd sing subj pron"
         },
         {
-          "t": "fais",
+          "t": "fais?",
           "lemma": "faire",
           "pos": "verb",
           "stress": "fɛ",
@@ -1691,7 +1627,7 @@
           "gram": "2nd sing pres"
         },
         {
-          "t": "bien",
+          "t": "bien,",
           "lemma": "bien",
           "pos": "adv",
           "stress": "bjɛ̃",
@@ -1699,23 +1635,15 @@
           "gram": "adverb"
         },
         {
-          "t": "j'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "1st sing subj pron"
-        },
-        {
-          "t": "emménage",
+          "t": "j'emménage",
           "lemma": "emménager",
           "pos": "verb",
-          "stress": "ɑ̃menaʒ",
-          "gloss": "move in",
-          "gram": "1st sing pres"
+          "stress": "ʒɑ̃menaʒ",
+          "gloss": "I move in",
+          "gram": "j': 1st sing subj pron + emménage: 1st sing pres"
         },
         {
-          "t": "aujourd'hui",
+          "t": "aujourd'hui!",
           "lemma": "aujourd'hui",
           "pos": "adv",
           "stress": "oʒuʁdɥi",
@@ -1729,20 +1657,12 @@
       "trans": "This is my official office, Gabriel!",
       "words": [
         {
-          "t": "C'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "this",
-          "gram": "dem pron"
-        },
-        {
-          "t": "est",
+          "t": "C'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "3rd sing pres"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "mon",
@@ -1761,7 +1681,7 @@
           "gram": "masc sing noun"
         },
         {
-          "t": "officiel",
+          "t": "officiel,",
           "lemma": "officiel",
           "pos": "adj",
           "stress": "ɔfisjɛl",
@@ -1769,7 +1689,7 @@
           "gram": "masc sing adj"
         },
         {
-          "t": "Gabriel",
+          "t": "Gabriel!",
           "lemma": "gabriel",
           "pos": "name",
           "stress": "ɡabʁijɛl",
@@ -1783,12 +1703,28 @@
       "trans": "In any case, you are never here.",
       "words": [
         {
-          "t": "De toute façon",
-          "lemma": "de toute façon",
-          "pos": "adv",
-          "stress": "dətutfasɔ̃",
-          "gloss": "in any case",
-          "gram": "adverbial locution"
+          "t": "De",
+          "lemma": "de",
+          "pos": "prep",
+          "stress": "də",
+          "gloss": "of",
+          "gram": "preposition"
+        },
+        {
+          "t": "toute",
+          "lemma": "tout",
+          "pos": "det",
+          "stress": "tut",
+          "gloss": "all",
+          "gram": "indefinite determiner, feminine singular"
+        },
+        {
+          "t": "façon,",
+          "lemma": "façon",
+          "pos": "noun",
+          "stress": "fasɔ̃",
+          "gloss": "way, manner",
+          "gram": "feminine singular"
         },
         {
           "t": "tu",
@@ -1799,20 +1735,12 @@
           "gram": "2nd sing subj pron"
         },
         {
-          "t": "n'",
-          "lemma": "ne",
-          "pos": "adv",
-          "stress": "n",
-          "gloss": "not",
-          "gram": "neg part"
-        },
-        {
-          "t": "es",
+          "t": "n'es",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "are",
-          "gram": "2nd sing pres"
+          "stress": "nɛ",
+          "gloss": "are (not)",
+          "gram": "ne (elided n') + es: present, 2nd person singular"
         },
         {
           "t": "jamais",
@@ -1823,7 +1751,7 @@
           "gram": "adverb of time"
         },
         {
-          "t": "là",
+          "t": "là.",
           "lemma": "là",
           "pos": "adv",
           "stress": "la",
@@ -1853,20 +1781,12 @@
           "gram": "1st sing pres"
         },
         {
-          "t": "l'",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "l",
-          "gloss": "the",
-          "gram": "fem sing def art"
-        },
-        {
-          "t": "agence",
+          "t": "l'agence",
           "lemma": "agence",
           "pos": "noun",
-          "stress": "aʒɑ̃s",
-          "gloss": "agency",
-          "gram": "fem sing noun"
+          "stress": "laʒɑ̃s",
+          "gloss": "the agency",
+          "gram": "la (elided l') + agence, feminine singular"
         },
         {
           "t": "tout",
@@ -1877,7 +1797,7 @@
           "gram": "adverb"
         },
         {
-          "t": "entière",
+          "t": "entière!",
           "lemma": "entier",
           "pos": "adj",
           "stress": "ɑ̃tjɛʁ",
@@ -1931,7 +1851,7 @@
           "gram": "masc sing dem det"
         },
         {
-          "t": "téléphone",
+          "t": "téléphone?",
           "lemma": "téléphone",
           "pos": "noun",
           "stress": "telefɔn",
@@ -1945,20 +1865,12 @@
       "trans": "I am calling ASK legal department.",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "1st sing subj pron"
-        },
-        {
-          "t": "appelle",
+          "t": "J'appelle",
           "lemma": "appeler",
           "pos": "verb",
-          "stress": "apɛl",
-          "gloss": "call",
-          "gram": "1st sing pres"
+          "stress": "ʒapɛl",
+          "gloss": "I call",
+          "gram": "J': 1st sing subj pron + appelle: 1st sing pres"
         },
         {
           "t": "le",
@@ -1985,20 +1897,12 @@
           "gram": "sing adj"
         },
         {
-          "t": "d'",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "d",
-          "gloss": "of",
-          "gram": "preposition"
-        },
-        {
-          "t": "ASK",
+          "t": "d'ASK.",
           "lemma": "ask",
           "pos": "name",
-          "stress": "aɛsk",
-          "gloss": "ASK",
-          "gram": "proper noun"
+          "stress": "dask",
+          "gloss": "of ASK",
+          "gram": "de (elided) + ASK, the agency's name"
         }
       ]
     },
@@ -2047,7 +1951,7 @@
           "gram": "infinitive aux"
         },
         {
-          "t": "expulser",
+          "t": "expulser?",
           "lemma": "expulser",
           "pos": "verb",
           "stress": "ɛkspylse",
@@ -2061,20 +1965,12 @@
       "trans": "I have good news for you.",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "1st sing subj pron"
-        },
-        {
-          "t": "ai",
+          "t": "J'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "e",
-          "gloss": "have",
-          "gram": "1st sing pres"
+          "stress": "ʒe",
+          "gloss": "I have",
+          "gram": "je + ai: 1sg subject pronoun + present 1sg"
         },
         {
           "t": "une",
@@ -2109,7 +2005,7 @@
           "gram": "preposition"
         },
         {
-          "t": "toi",
+          "t": "toi.",
           "lemma": "toi",
           "pos": "pron",
           "stress": "twa",
@@ -2163,7 +2059,7 @@
           "gram": "fem sing adj"
         },
         {
-          "t": "promotion",
+          "t": "promotion?",
           "lemma": "promotion",
           "pos": "noun",
           "stress": "pʁɔmɔsjɔ̃",
@@ -2177,7 +2073,7 @@
       "trans": "Yes, I promote you right away!",
       "words": [
         {
-          "t": "Oui",
+          "t": "Oui,",
           "lemma": "oui",
           "pos": "adv",
           "stress": "wi",
@@ -2209,12 +2105,28 @@
           "gram": "1st sing pres"
         },
         {
-          "t": "tout de suite",
+          "t": "tout",
           "lemma": "tout de suite",
-          "pos": "adv",
-          "stress": "tudəsɥit",
-          "gloss": "right away",
-          "gram": "adverbial locution"
+          "pos": "phrase",
+          "stress": "tu",
+          "gloss": "all, right",
+          "gram": "first part of 'tout de suite' = right away"
+        },
+        {
+          "t": "de",
+          "lemma": "tout de suite",
+          "pos": "phrase",
+          "stress": "də",
+          "gloss": "of",
+          "gram": "second part of 'tout de suite'"
+        },
+        {
+          "t": "suite!",
+          "lemma": "tout de suite",
+          "pos": "phrase",
+          "stress": "sɥit",
+          "gloss": "away, at once",
+          "gram": "third part of 'tout de suite' = immediately"
         }
       ]
     },
@@ -2263,7 +2175,7 @@
           "gram": "masc sing noun"
         },
         {
-          "t": "enfin",
+          "t": "enfin?",
           "lemma": "enfin",
           "pos": "adv",
           "stress": "ɑ̃fɛ̃",
@@ -2277,7 +2189,7 @@
       "trans": "No, not salary, a change of floor!",
       "words": [
         {
-          "t": "Non",
+          "t": "Non,",
           "lemma": "non",
           "pos": "adv",
           "stress": "nɔ̃",
@@ -2301,7 +2213,7 @@
           "gram": "preposition"
         },
         {
-          "t": "salaire",
+          "t": "salaire,",
           "lemma": "salaire",
           "pos": "noun",
           "stress": "salɛʁ",
@@ -2325,20 +2237,12 @@
           "gram": "masc sing noun"
         },
         {
-          "t": "d'",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "d",
-          "gloss": "of",
-          "gram": "preposition"
-        },
-        {
-          "t": "étage",
+          "t": "d'étage!",
           "lemma": "étage",
           "pos": "noun",
-          "stress": "etaʒ",
-          "gloss": "floor",
-          "gram": "masc sing noun"
+          "stress": "detaʒ",
+          "gloss": "of floor",
+          "gram": "d': preposition + étage: masc sing noun"
         }
       ]
     },
@@ -2347,7 +2251,7 @@
       "trans": "No, not salary, a change of floor!",
       "words": [
         {
-          "t": "Non",
+          "t": "Non,",
           "lemma": "non",
           "pos": "adv",
           "stress": "nɔ̃",
@@ -2371,7 +2275,7 @@
           "gram": "preposition"
         },
         {
-          "t": "salaire",
+          "t": "salaire,",
           "lemma": "salaire",
           "pos": "noun",
           "stress": "salɛʁ",
@@ -2395,20 +2299,12 @@
           "gram": "masc sing noun"
         },
         {
-          "t": "d'",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "d",
-          "gloss": "of",
-          "gram": "preposition"
-        },
-        {
-          "t": "étage",
+          "t": "d'étage!",
           "lemma": "étage",
           "pos": "noun",
-          "stress": "etaʒ",
-          "gloss": "floor",
-          "gram": "masc sing noun"
+          "stress": "detaʒ",
+          "gloss": "of floor",
+          "gram": "d': preposition + étage: masc sing noun"
         }
       ]
     }
@@ -6744,6 +6640,58 @@
         {
           "word": "reêtre",
           "gloss": "verb family relative (to be)"
+        }
+      ]
+    },
+    "façon": {
+      "examples": [
+        {
+          "text": "C'est une façon bizarre de faire.",
+          "trans": "It's a strange way of doing things."
+        },
+        {
+          "text": "De toute façon, je viens.",
+          "trans": "Anyway, I'm coming."
+        },
+        {
+          "text": "Les Français sont de vrais romantiques. C'est une façon bizarre de faire.",
+          "trans": "The French are true romantics. It's a strange way of doing things."
+        }
+      ],
+      "forms": {
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "la façon",
+              "les façons"
+            ]
+          }
+        ],
+        "title": "Forms"
+      },
+      "gender": "f",
+      "gloss": "way, manner",
+      "lemma": "façon",
+      "meanings": [
+        {
+          "en": "way, manner",
+          "note": "une façon de faire = a way of doing things"
+        }
+      ],
+      "moreForms": [],
+      "plural": "façons",
+      "pos": "noun",
+      "stress": "fasɔ̃",
+      "related": [
+        {
+          "word": "le/la façon",
+          "gloss": "the way (with article)"
         }
       ]
     }

@@ -7,20 +7,12 @@
       "trans": "I like your movie project very much.",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "subject pronoun, elided"
-        },
-        {
-          "t": "aime",
+          "t": "J'aime",
           "lemma": "aimer",
           "pos": "verb",
-          "stress": "ɛm",
-          "gloss": "like, love",
-          "gram": "present, 1st singular"
+          "stress": "ʒɛm",
+          "gloss": "I like",
+          "gram": "je (elided j', I) + aime: present, 1st person singular"
         },
         {
           "t": "beaucoup",
@@ -69,20 +61,12 @@
       "trans": "It is an honour to act with you.",
       "words": [
         {
-          "t": "C'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "it",
-          "gram": "demonstrative pronoun"
-        },
-        {
-          "t": "est",
+          "t": "C'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present, 3rd singular"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "un",
@@ -147,20 +131,12 @@
           "gram": "coordinating conjunction"
         },
         {
-          "t": "j'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "subject pronoun, elided"
-        },
-        {
-          "t": "ai",
+          "t": "j'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "e",
-          "gloss": "have",
-          "gram": "present, 1st singular"
+          "stress": "ʒe",
+          "gloss": "I have",
+          "gram": "je + ai: 1sg subject pronoun + present 1sg"
         },
         {
           "t": "une",
@@ -457,20 +433,12 @@
           "gram": "feminine singular"
         },
         {
-          "t": "j'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "subject pronoun, elided"
-        },
-        {
-          "t": "espère.",
+          "t": "j'espère.",
           "lemma": "espérer",
           "pos": "verb",
-          "stress": "ɛspɛʁ",
-          "gloss": "hope",
-          "gram": "present, 1st singular"
+          "stress": "ʒɛspɛʁ",
+          "gloss": "I hope?",
+          "gram": "infinitive"
         }
       ]
     },
@@ -487,20 +455,12 @@
           "gram": "adverb"
         },
         {
-          "t": "j'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "subject pronoun, elided"
-        },
-        {
-          "t": "ai",
+          "t": "j'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "e",
-          "gloss": "have",
-          "gram": "present auxiliary, 1st singular"
+          "stress": "ʒe",
+          "gloss": "I have",
+          "gram": "je + ai: 1sg subject pronoun + present 1sg"
         },
         {
           "t": "choisi",
@@ -519,10 +479,18 @@
           "gram": "definite article, masculine singular"
         },
         {
-          "t": "lindy hop!",
+          "t": "lindy",
           "lemma": "lindy hop",
           "pos": "noun",
-          "stress": "lindiɔp",
+          "stress": null,
+          "gloss": "Lindy Hop (swing dance)",
+          "gram": "masculine singular"
+        },
+        {
+          "t": "hop!",
+          "lemma": "lindy hop",
+          "pos": "noun",
+          "stress": null,
           "gloss": "Lindy Hop (swing dance)",
           "gram": "masculine singular"
         }
@@ -541,28 +509,28 @@
           "gram": "definite article, masculine singular"
         },
         {
-          "t": "lindy hop?",
+          "t": "lindy",
           "lemma": "lindy hop",
           "pos": "noun",
-          "stress": "lindiɔp",
+          "stress": null,
           "gloss": "Lindy Hop (swing dance)",
           "gram": "masculine singular"
         },
         {
-          "t": "C'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "that",
-          "gram": "demonstrative pronoun"
+          "t": "hop?",
+          "lemma": "lindy hop",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "Lindy Hop (swing dance)",
+          "gram": "masculine singular"
         },
         {
-          "t": "est",
+          "t": "C'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present, 3rd singular"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "très",
@@ -641,12 +609,20 @@
           "gram": "coordinating conjunction"
         },
         {
-          "t": "qu'est-ce que",
+          "t": "qu'est-ce",
           "lemma": "qu'est-ce que",
           "pos": "phrase",
-          "stress": "kɛskə",
-          "gloss": "what",
-          "gram": "interrogative object phrase"
+          "stress": "kɛs",
+          "gloss": "what is it",
+          "gram": "question opener"
+        },
+        {
+          "t": "que",
+          "lemma": "qu'est-ce que",
+          "pos": "phrase",
+          "stress": "kə",
+          "gloss": "what (part 2)",
+          "gram": "question phrase qu'est-ce que, second part"
         },
         {
           "t": "vous",
@@ -695,20 +671,12 @@
           "gram": "stressed pronoun, 1st singular"
         },
         {
-          "t": "c'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "it",
-          "gram": "demonstrative pronoun"
-        },
-        {
-          "t": "est",
+          "t": "c'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present, 3rd singular"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "formidable!",
@@ -733,20 +701,12 @@
           "gram": "adverb"
         },
         {
-          "t": "c'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "that",
-          "gram": "demonstrative pronoun"
-        },
-        {
-          "t": "est",
+          "t": "c'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present, 3rd singular"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "trop",
@@ -779,20 +739,12 @@
       "trans": "I like your movie project very much.",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "subject pronoun, elided"
-        },
-        {
-          "t": "aime",
+          "t": "J'aime",
           "lemma": "aimer",
           "pos": "verb",
-          "stress": "ɛm",
-          "gloss": "like, love",
-          "gram": "present, 1st singular"
+          "stress": "ʒɛm",
+          "gloss": "I like",
+          "gram": "je (elided j', I) + aime: present, 1st person singular"
         },
         {
           "t": "beaucoup",
@@ -841,20 +793,12 @@
       "trans": "It is an honour to act with you.",
       "words": [
         {
-          "t": "C'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "it",
-          "gram": "demonstrative pronoun"
-        },
-        {
-          "t": "est",
+          "t": "C'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present, 3rd singular"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "un",
@@ -919,20 +863,12 @@
           "gram": "coordinating conjunction"
         },
         {
-          "t": "j'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "subject pronoun, elided"
-        },
-        {
-          "t": "ai",
+          "t": "j'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "e",
-          "gloss": "have",
-          "gram": "present, 1st singular"
+          "stress": "ʒe",
+          "gloss": "I have",
+          "gram": "je + ai: 1sg subject pronoun + present 1sg"
         },
         {
           "t": "une",
@@ -1229,20 +1165,12 @@
           "gram": "feminine singular"
         },
         {
-          "t": "j'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "subject pronoun, elided"
-        },
-        {
-          "t": "espère.",
+          "t": "j'espère.",
           "lemma": "espérer",
           "pos": "verb",
-          "stress": "ɛspɛʁ",
-          "gloss": "hope",
-          "gram": "present, 1st singular"
+          "stress": "ʒɛspɛʁ",
+          "gloss": "I hope?",
+          "gram": "infinitive"
         }
       ]
     },
@@ -1259,20 +1187,12 @@
           "gram": "adverb"
         },
         {
-          "t": "j'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "subject pronoun, elided"
-        },
-        {
-          "t": "ai",
+          "t": "j'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "e",
-          "gloss": "have",
-          "gram": "present auxiliary, 1st singular"
+          "stress": "ʒe",
+          "gloss": "I have",
+          "gram": "je + ai: 1sg subject pronoun + present 1sg"
         },
         {
           "t": "choisi",
@@ -1291,10 +1211,18 @@
           "gram": "definite article, masculine singular"
         },
         {
-          "t": "lindy hop!",
+          "t": "lindy",
           "lemma": "lindy hop",
           "pos": "noun",
-          "stress": "lindiɔp",
+          "stress": null,
+          "gloss": "Lindy Hop (swing dance)",
+          "gram": "masculine singular"
+        },
+        {
+          "t": "hop!",
+          "lemma": "lindy hop",
+          "pos": "noun",
+          "stress": null,
           "gloss": "Lindy Hop (swing dance)",
           "gram": "masculine singular"
         }
@@ -1313,28 +1241,28 @@
           "gram": "definite article, masculine singular"
         },
         {
-          "t": "lindy hop?",
+          "t": "lindy",
           "lemma": "lindy hop",
           "pos": "noun",
-          "stress": "lindiɔp",
+          "stress": null,
           "gloss": "Lindy Hop (swing dance)",
           "gram": "masculine singular"
         },
         {
-          "t": "C'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "that",
-          "gram": "demonstrative pronoun"
+          "t": "hop?",
+          "lemma": "lindy hop",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "Lindy Hop (swing dance)",
+          "gram": "masculine singular"
         },
         {
-          "t": "est",
+          "t": "C'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present, 3rd singular"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "très",
@@ -1413,12 +1341,20 @@
           "gram": "coordinating conjunction"
         },
         {
-          "t": "qu'est-ce que",
+          "t": "qu'est-ce",
           "lemma": "qu'est-ce que",
           "pos": "phrase",
-          "stress": "kɛskə",
-          "gloss": "what",
-          "gram": "interrogative object phrase"
+          "stress": "kɛs",
+          "gloss": "what is it",
+          "gram": "question opener"
+        },
+        {
+          "t": "que",
+          "lemma": "qu'est-ce que",
+          "pos": "phrase",
+          "stress": "kə",
+          "gloss": "what (part 2)",
+          "gram": "question phrase qu'est-ce que, second part"
         },
         {
           "t": "vous",
@@ -1467,20 +1403,12 @@
           "gram": "stressed pronoun, 1st singular"
         },
         {
-          "t": "c'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "it",
-          "gram": "demonstrative pronoun"
-        },
-        {
-          "t": "est",
+          "t": "c'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present, 3rd singular"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "formidable!",
@@ -1505,20 +1433,12 @@
           "gram": "adverb"
         },
         {
-          "t": "c'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "that",
-          "gram": "demonstrative pronoun"
-        },
-        {
-          "t": "est",
+          "t": "c'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present, 3rd singular"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "trop",
@@ -1551,20 +1471,12 @@
       "trans": "I like your movie project very much.",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "subject pronoun, elided"
-        },
-        {
-          "t": "aime",
+          "t": "J'aime",
           "lemma": "aimer",
           "pos": "verb",
-          "stress": "ɛm",
-          "gloss": "like, love",
-          "gram": "present, 1st singular"
+          "stress": "ʒɛm",
+          "gloss": "I like",
+          "gram": "je (elided j', I) + aime: present, 1st person singular"
         },
         {
           "t": "beaucoup",
@@ -1613,20 +1525,12 @@
       "trans": "It is an honour to act with you.",
       "words": [
         {
-          "t": "C'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "it",
-          "gram": "demonstrative pronoun"
-        },
-        {
-          "t": "est",
+          "t": "C'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present, 3rd singular"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "un",
@@ -1691,20 +1595,12 @@
           "gram": "coordinating conjunction"
         },
         {
-          "t": "j'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "subject pronoun, elided"
-        },
-        {
-          "t": "ai",
+          "t": "j'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "e",
-          "gloss": "have",
-          "gram": "present, 1st singular"
+          "stress": "ʒe",
+          "gloss": "I have",
+          "gram": "je + ai: 1sg subject pronoun + present 1sg"
         },
         {
           "t": "une",
@@ -2001,20 +1897,12 @@
           "gram": "feminine singular"
         },
         {
-          "t": "j'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "subject pronoun, elided"
-        },
-        {
-          "t": "espère.",
+          "t": "j'espère.",
           "lemma": "espérer",
           "pos": "verb",
-          "stress": "ɛspɛʁ",
-          "gloss": "hope",
-          "gram": "present, 1st singular"
+          "stress": "ʒɛspɛʁ",
+          "gloss": "I hope?",
+          "gram": "infinitive"
         }
       ]
     },
@@ -2031,20 +1919,12 @@
           "gram": "adverb"
         },
         {
-          "t": "j'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "subject pronoun, elided"
-        },
-        {
-          "t": "ai",
+          "t": "j'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "e",
-          "gloss": "have",
-          "gram": "present auxiliary, 1st singular"
+          "stress": "ʒe",
+          "gloss": "I have",
+          "gram": "je + ai: 1sg subject pronoun + present 1sg"
         },
         {
           "t": "choisi",
@@ -2063,10 +1943,18 @@
           "gram": "definite article, masculine singular"
         },
         {
-          "t": "lindy hop!",
+          "t": "lindy",
           "lemma": "lindy hop",
           "pos": "noun",
-          "stress": "lindiɔp",
+          "stress": null,
+          "gloss": "Lindy Hop (swing dance)",
+          "gram": "masculine singular"
+        },
+        {
+          "t": "hop!",
+          "lemma": "lindy hop",
+          "pos": "noun",
+          "stress": null,
           "gloss": "Lindy Hop (swing dance)",
           "gram": "masculine singular"
         }
@@ -2085,28 +1973,28 @@
           "gram": "definite article, masculine singular"
         },
         {
-          "t": "lindy hop?",
+          "t": "lindy",
           "lemma": "lindy hop",
           "pos": "noun",
-          "stress": "lindiɔp",
+          "stress": null,
           "gloss": "Lindy Hop (swing dance)",
           "gram": "masculine singular"
         },
         {
-          "t": "C'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "that",
-          "gram": "demonstrative pronoun"
+          "t": "hop?",
+          "lemma": "lindy hop",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "Lindy Hop (swing dance)",
+          "gram": "masculine singular"
         },
         {
-          "t": "est",
+          "t": "C'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present, 3rd singular"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "très",
@@ -2185,12 +2073,20 @@
           "gram": "coordinating conjunction"
         },
         {
-          "t": "qu'est-ce que",
+          "t": "qu'est-ce",
           "lemma": "qu'est-ce que",
           "pos": "phrase",
-          "stress": "kɛskə",
-          "gloss": "what",
-          "gram": "interrogative object phrase"
+          "stress": "kɛs",
+          "gloss": "what is it",
+          "gram": "question opener"
+        },
+        {
+          "t": "que",
+          "lemma": "qu'est-ce que",
+          "pos": "phrase",
+          "stress": "kə",
+          "gloss": "what (part 2)",
+          "gram": "question phrase qu'est-ce que, second part"
         },
         {
           "t": "vous",
@@ -2239,20 +2135,12 @@
           "gram": "stressed pronoun, 1st singular"
         },
         {
-          "t": "c'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "it",
-          "gram": "demonstrative pronoun"
-        },
-        {
-          "t": "est",
+          "t": "c'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present, 3rd singular"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "formidable!",
@@ -2277,20 +2165,12 @@
           "gram": "adverb"
         },
         {
-          "t": "c'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "that",
-          "gram": "demonstrative pronoun"
-        },
-        {
-          "t": "est",
+          "t": "c'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present, 3rd singular"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "trop",

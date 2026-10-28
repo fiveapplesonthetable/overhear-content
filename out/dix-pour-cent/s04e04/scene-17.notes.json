@@ -69,28 +69,28 @@
           "gram": "conjugated verb"
         },
         {
-          "t": "qu'est-ce que",
+          "t": "qu'est-ce",
           "lemma": "qu'est-ce que",
-          "pos": "pron",
-          "stress": "kɛskə",
-          "gloss": "what",
-          "gram": "pronoun"
+          "pos": "phrase",
+          "stress": "kɛs",
+          "gloss": "what is it",
+          "gram": "question opener"
         },
         {
-          "t": "c'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "sə",
-          "gloss": "it",
-          "gram": "pronoun"
+          "t": "que",
+          "lemma": "qu'est-ce que",
+          "pos": "phrase",
+          "stress": "kə",
+          "gloss": "what (part 2)",
+          "gram": "question phrase qu'est-ce que, second part"
         },
         {
-          "t": "est",
+          "t": "c'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛtʁ",
-          "gloss": "is",
-          "gram": "conjugated verb"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "que",
@@ -115,20 +115,12 @@
       "trans": "It is an open draft email.",
       "words": [
         {
-          "t": "C'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "sə",
-          "gloss": "it",
-          "gram": "pronoun"
-        },
-        {
-          "t": "est",
+          "t": "C'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛtʁ",
-          "gloss": "is",
-          "gram": "conjugated verb"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "un",
@@ -147,20 +139,12 @@
           "gram": "noun"
         },
         {
-          "t": "d'",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "də",
-          "gloss": "of",
-          "gram": "preposition"
-        },
-        {
-          "t": "e-mail",
+          "t": "d'e-mail",
           "lemma": "e-mail",
           "pos": "noun",
-          "stress": "imɛjl",
-          "gloss": "email / message",
-          "gram": "noun"
+          "stress": "dəimɛjl",
+          "gloss": "of email / message",
+          "gram": "d': preposition + e-mail: noun"
         },
         {
           "t": "ouvert.",
@@ -177,20 +161,12 @@
       "trans": "I made promises to Ulrika...",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒə",
-          "gloss": "I",
-          "gram": "pronoun"
-        },
-        {
-          "t": "ai",
+          "t": "J'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "avwaʁ",
-          "gloss": "have",
-          "gram": "conjugated verb"
+          "stress": "ʒe",
+          "gloss": "I have",
+          "gram": "je + ai: 1sg subject pronoun + present 1sg"
         },
         {
           "t": "fait",
@@ -247,20 +223,12 @@
           "gram": "preposition"
         },
         {
-          "t": "qu'",
-          "lemma": "que",
-          "pos": "conj",
-          "stress": "kə",
-          "gloss": "that",
-          "gram": "conjunction"
-        },
-        {
-          "t": "elle",
+          "t": "qu'elle",
           "lemma": "elle",
           "pos": "pron",
-          "stress": "ɛl",
-          "gloss": "she",
-          "gram": "subject personal pronoun"
+          "stress": "kɛl",
+          "gloss": "that she",
+          "gram": "que + elle: elided conjunction + subject pronoun 3sg"
         },
         {
           "t": "signe",
@@ -417,12 +385,28 @@
           "gram": "determiner"
         },
         {
-          "t": "note de frais...",
-          "lemma": "note de frais",
+          "t": "note",
+          "lemma": "noter",
+          "pos": "verb",
+          "stress": "nɔt",
+          "gloss": "write down / record",
+          "gram": "present 1sg"
+        },
+        {
+          "t": "de",
+          "lemma": "de",
+          "pos": "prep",
+          "stress": "də",
+          "gloss": "of",
+          "gram": "preposition"
+        },
+        {
+          "t": "frais...",
+          "lemma": "frais",
           "pos": "noun",
-          "stress": "nɔtdəfʁɛ",
-          "gloss": "expense account / expenses",
-          "gram": "noun"
+          "stress": "fʁɛ",
+          "gloss": "expenses",
+          "gram": "masculine plural"
         }
       ]
     },
@@ -485,20 +469,12 @@
           "gram": "noun"
         },
         {
-          "t": "c'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "sə",
-          "gloss": "it",
-          "gram": "pronoun"
-        },
-        {
-          "t": "est",
+          "t": "c'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛtʁ",
-          "gloss": "is",
-          "gram": "conjugated verb"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "une",
@@ -563,12 +539,28 @@
           "gram": "preposition"
         },
         {
-          "t": "tout le monde.",
+          "t": "tout",
           "lemma": "tout le monde",
-          "pos": "pron",
-          "stress": "tuləmɔ̃d",
-          "gloss": "everyone / everybody",
-          "gram": "pronoun"
+          "pos": "phrase",
+          "stress": "tu",
+          "gloss": "all (everyone)",
+          "gram": "part of tout le monde"
+        },
+        {
+          "t": "le",
+          "lemma": "tout le monde",
+          "pos": "phrase",
+          "stress": "lə",
+          "gloss": "the (everyone)",
+          "gram": "part of tout le monde"
+        },
+        {
+          "t": "monde.",
+          "lemma": "tout le monde",
+          "pos": "phrase",
+          "stress": "mɔ̃d",
+          "gloss": "world (everyone)",
+          "gram": "part of tout le monde"
         }
       ]
     },
@@ -801,28 +793,28 @@
           "gram": "conjugated verb"
         },
         {
-          "t": "qu'est-ce que",
+          "t": "qu'est-ce",
           "lemma": "qu'est-ce que",
-          "pos": "pron",
-          "stress": "kɛskə",
-          "gloss": "what",
-          "gram": "pronoun"
+          "pos": "phrase",
+          "stress": "kɛs",
+          "gloss": "what is it",
+          "gram": "question opener"
         },
         {
-          "t": "c'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "sə",
-          "gloss": "it",
-          "gram": "pronoun"
+          "t": "que",
+          "lemma": "qu'est-ce que",
+          "pos": "phrase",
+          "stress": "kə",
+          "gloss": "what (part 2)",
+          "gram": "question phrase qu'est-ce que, second part"
         },
         {
-          "t": "est",
+          "t": "c'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛtʁ",
-          "gloss": "is",
-          "gram": "conjugated verb"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "que",
@@ -847,20 +839,12 @@
       "trans": "It is an open draft email.",
       "words": [
         {
-          "t": "C'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "sə",
-          "gloss": "it",
-          "gram": "pronoun"
-        },
-        {
-          "t": "est",
+          "t": "C'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛtʁ",
-          "gloss": "is",
-          "gram": "conjugated verb"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "un",
@@ -879,20 +863,12 @@
           "gram": "noun"
         },
         {
-          "t": "d'",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "də",
-          "gloss": "of",
-          "gram": "preposition"
-        },
-        {
-          "t": "e-mail",
+          "t": "d'e-mail",
           "lemma": "e-mail",
           "pos": "noun",
-          "stress": "imɛjl",
-          "gloss": "email / message",
-          "gram": "noun"
+          "stress": "dəimɛjl",
+          "gloss": "of email / message",
+          "gram": "d': preposition + e-mail: noun"
         },
         {
           "t": "ouvert.",
@@ -909,20 +885,12 @@
       "trans": "I made promises to Ulrika...",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒə",
-          "gloss": "I",
-          "gram": "pronoun"
-        },
-        {
-          "t": "ai",
+          "t": "J'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "avwaʁ",
-          "gloss": "have",
-          "gram": "conjugated verb"
+          "stress": "ʒe",
+          "gloss": "I have",
+          "gram": "je + ai: 1sg subject pronoun + present 1sg"
         },
         {
           "t": "fait",
@@ -979,20 +947,12 @@
           "gram": "preposition"
         },
         {
-          "t": "qu'",
-          "lemma": "que",
-          "pos": "conj",
-          "stress": "kə",
-          "gloss": "that",
-          "gram": "conjunction"
-        },
-        {
-          "t": "elle",
+          "t": "qu'elle",
           "lemma": "elle",
           "pos": "pron",
-          "stress": "ɛl",
-          "gloss": "she",
-          "gram": "subject personal pronoun"
+          "stress": "kɛl",
+          "gloss": "that she",
+          "gram": "que + elle: elided conjunction + subject pronoun 3sg"
         },
         {
           "t": "signe",
@@ -1149,12 +1109,28 @@
           "gram": "determiner"
         },
         {
-          "t": "note de frais...",
-          "lemma": "note de frais",
+          "t": "note",
+          "lemma": "noter",
+          "pos": "verb",
+          "stress": "nɔt",
+          "gloss": "write down / record",
+          "gram": "present 1sg"
+        },
+        {
+          "t": "de",
+          "lemma": "de",
+          "pos": "prep",
+          "stress": "də",
+          "gloss": "of",
+          "gram": "preposition"
+        },
+        {
+          "t": "frais...",
+          "lemma": "frais",
           "pos": "noun",
-          "stress": "nɔtdəfʁɛ",
-          "gloss": "expense account / expenses",
-          "gram": "noun"
+          "stress": "fʁɛ",
+          "gloss": "expenses",
+          "gram": "masculine plural"
         }
       ]
     },
@@ -1217,20 +1193,12 @@
           "gram": "noun"
         },
         {
-          "t": "c'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "sə",
-          "gloss": "it",
-          "gram": "pronoun"
-        },
-        {
-          "t": "est",
+          "t": "c'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛtʁ",
-          "gloss": "is",
-          "gram": "conjugated verb"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "une",
@@ -1295,12 +1263,28 @@
           "gram": "preposition"
         },
         {
-          "t": "tout le monde.",
+          "t": "tout",
           "lemma": "tout le monde",
-          "pos": "pron",
-          "stress": "tuləmɔ̃d",
-          "gloss": "everyone / everybody",
-          "gram": "pronoun"
+          "pos": "phrase",
+          "stress": "tu",
+          "gloss": "all (everyone)",
+          "gram": "part of tout le monde"
+        },
+        {
+          "t": "le",
+          "lemma": "tout le monde",
+          "pos": "phrase",
+          "stress": "lə",
+          "gloss": "the (everyone)",
+          "gram": "part of tout le monde"
+        },
+        {
+          "t": "monde.",
+          "lemma": "tout le monde",
+          "pos": "phrase",
+          "stress": "mɔ̃d",
+          "gloss": "world (everyone)",
+          "gram": "part of tout le monde"
         }
       ]
     },
@@ -1533,28 +1517,28 @@
           "gram": "conjugated verb"
         },
         {
-          "t": "qu'est-ce que",
+          "t": "qu'est-ce",
           "lemma": "qu'est-ce que",
-          "pos": "pron",
-          "stress": "kɛskə",
-          "gloss": "what",
-          "gram": "pronoun"
+          "pos": "phrase",
+          "stress": "kɛs",
+          "gloss": "what is it",
+          "gram": "question opener"
         },
         {
-          "t": "c'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "sə",
-          "gloss": "it",
-          "gram": "pronoun"
+          "t": "que",
+          "lemma": "qu'est-ce que",
+          "pos": "phrase",
+          "stress": "kə",
+          "gloss": "what (part 2)",
+          "gram": "question phrase qu'est-ce que, second part"
         },
         {
-          "t": "est",
+          "t": "c'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛtʁ",
-          "gloss": "is",
-          "gram": "conjugated verb"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "que",
@@ -1579,20 +1563,12 @@
       "trans": "It is an open draft email.",
       "words": [
         {
-          "t": "C'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "sə",
-          "gloss": "it",
-          "gram": "pronoun"
-        },
-        {
-          "t": "est",
+          "t": "C'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛtʁ",
-          "gloss": "is",
-          "gram": "conjugated verb"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "un",
@@ -1611,20 +1587,12 @@
           "gram": "noun"
         },
         {
-          "t": "d'",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "də",
-          "gloss": "of",
-          "gram": "preposition"
-        },
-        {
-          "t": "e-mail",
+          "t": "d'e-mail",
           "lemma": "e-mail",
           "pos": "noun",
-          "stress": "imɛjl",
-          "gloss": "email / message",
-          "gram": "noun"
+          "stress": "dəimɛjl",
+          "gloss": "of email / message",
+          "gram": "d': preposition + e-mail: noun"
         },
         {
           "t": "ouvert.",
@@ -1641,20 +1609,12 @@
       "trans": "I made promises to Ulrika...",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒə",
-          "gloss": "I",
-          "gram": "pronoun"
-        },
-        {
-          "t": "ai",
+          "t": "J'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "avwaʁ",
-          "gloss": "have",
-          "gram": "conjugated verb"
+          "stress": "ʒe",
+          "gloss": "I have",
+          "gram": "je + ai: 1sg subject pronoun + present 1sg"
         },
         {
           "t": "fait",
@@ -1711,20 +1671,12 @@
           "gram": "preposition"
         },
         {
-          "t": "qu'",
-          "lemma": "que",
-          "pos": "conj",
-          "stress": "kə",
-          "gloss": "that",
-          "gram": "conjunction"
-        },
-        {
-          "t": "elle",
+          "t": "qu'elle",
           "lemma": "elle",
           "pos": "pron",
-          "stress": "ɛl",
-          "gloss": "she",
-          "gram": "subject personal pronoun"
+          "stress": "kɛl",
+          "gloss": "that she",
+          "gram": "que + elle: elided conjunction + subject pronoun 3sg"
         },
         {
           "t": "signe",
@@ -1881,12 +1833,28 @@
           "gram": "determiner"
         },
         {
-          "t": "note de frais...",
-          "lemma": "note de frais",
+          "t": "note",
+          "lemma": "noter",
+          "pos": "verb",
+          "stress": "nɔt",
+          "gloss": "write down / record",
+          "gram": "present 1sg"
+        },
+        {
+          "t": "de",
+          "lemma": "de",
+          "pos": "prep",
+          "stress": "də",
+          "gloss": "of",
+          "gram": "preposition"
+        },
+        {
+          "t": "frais...",
+          "lemma": "frais",
           "pos": "noun",
-          "stress": "nɔtdəfʁɛ",
-          "gloss": "expense account / expenses",
-          "gram": "noun"
+          "stress": "fʁɛ",
+          "gloss": "expenses",
+          "gram": "masculine plural"
         }
       ]
     },
@@ -1949,20 +1917,12 @@
           "gram": "noun"
         },
         {
-          "t": "c'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "sə",
-          "gloss": "it",
-          "gram": "pronoun"
-        },
-        {
-          "t": "est",
+          "t": "c'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛtʁ",
-          "gloss": "is",
-          "gram": "conjugated verb"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "une",
@@ -2027,12 +1987,28 @@
           "gram": "preposition"
         },
         {
-          "t": "tout le monde.",
+          "t": "tout",
           "lemma": "tout le monde",
-          "pos": "pron",
-          "stress": "tuləmɔ̃d",
-          "gloss": "everyone / everybody",
-          "gram": "pronoun"
+          "pos": "phrase",
+          "stress": "tu",
+          "gloss": "all (everyone)",
+          "gram": "part of tout le monde"
+        },
+        {
+          "t": "le",
+          "lemma": "tout le monde",
+          "pos": "phrase",
+          "stress": "lə",
+          "gloss": "the (everyone)",
+          "gram": "part of tout le monde"
+        },
+        {
+          "t": "monde.",
+          "lemma": "tout le monde",
+          "pos": "phrase",
+          "stress": "mɔ̃d",
+          "gloss": "world (everyone)",
+          "gram": "part of tout le monde"
         }
       ]
     },
@@ -7017,6 +6993,224 @@
         {
           "word": "reêtre",
           "gloss": "verb family relative (to be)"
+        }
+      ]
+    },
+    "noter": {
+      "lemma": "noter",
+      "stress": "nɔte",
+      "pos": "verb",
+      "gloss": "to note, write down",
+      "meanings": [
+        {
+          "en": "to write down, note, record",
+          "note": "First-group '-er' verb (from Latin first conjugation '-are'), the most productive verb class in French. Core French verb meaning 'to note, write down'."
+        }
+      ],
+      "forms": {
+        "title": "Present",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "je note",
+              "nous notons"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "tu notes",
+              "vous notez"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "il/elle note",
+              "ils/elles notent"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Passé composé",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "j'ai noté",
+                "nous avons noté"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "tu as noté",
+                "vous avez noté"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "il/elle a noté",
+                "ils/elles ont noté"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imparfait",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "je notais",
+                "nous notions"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "tu notais",
+                "vous notiez"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "il/elle notait",
+                "ils/elles notaient"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Futur",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "je noterai",
+                "nous noterons"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "tu noteras",
+                "vous noterez"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "il/elle notera",
+                "ils/elles noteront"
+              ]
+            }
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Notez tout ce que je dis.",
+          "trans": "Write down everything I say."
+        },
+        {
+          "text": "Je note votre adresse.",
+          "trans": "I'll note your address."
+        },
+        {
+          "text": "Notez tout: des fontaines et de la musique.",
+          "trans": "Note everything: fountains and music."
+        }
+      ],
+      "related": [
+        {
+          "word": "note",
+          "gloss": "bill"
+        },
+        {
+          "word": "note de frais",
+          "gloss": "expense account"
+        }
+      ]
+    },
+    "frais": {
+      "examples": [
+        {
+          "text": "Mes notes de frais.",
+          "trans": "My expense claims."
+        },
+        {
+          "text": "Les frais de voyage.",
+          "trans": "Travel expenses."
+        },
+        {
+          "text": "Pour vérifier mes costumes et mes notes de frais. Bonne chance!",
+          "trans": "To check my suits and my expense claims. Good luck!"
+        }
+      ],
+      "forms": {
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "—",
+              "les frais"
+            ]
+          }
+        ],
+        "title": "Forms"
+      },
+      "gender": "m",
+      "gloss": "expenses, costs",
+      "lemma": "frais",
+      "meanings": [
+        {
+          "en": "expenses, costs (always plural)",
+          "note": "une note de frais = an expense claim"
+        },
+        {
+          "en": "fresh, cool (adjective)",
+          "note": "de l'eau fraîche"
+        }
+      ],
+      "moreForms": [],
+      "plural": "frais",
+      "pos": "noun",
+      "stress": "fʁɛ",
+      "related": [
+        {
+          "word": "fraise",
+          "gloss": "strawberry"
         }
       ]
     }

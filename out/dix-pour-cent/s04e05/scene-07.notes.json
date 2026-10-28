@@ -15,20 +15,12 @@
           "gram": "proper noun"
         },
         {
-          "t": "qu'",
+          "t": "qu'est-ce",
           "lemma": "que",
-          "pos": "conj",
-          "stress": "kə",
-          "gloss": "that; than; only (ne...que)",
-          "gram": "conjunction"
-        },
-        {
-          "t": "est-ce",
-          "lemma": "est-ce que",
-          "pos": "phrase",
-          "stress": "ɛskə",
-          "gloss": "(question marker)",
-          "gram": "fixed expression"
+          "pos": "pron",
+          "stress": "kɛskə",
+          "gloss": "what",
+          "gram": "interrogative pronoun idiom"
         },
         {
           "t": "qui",
@@ -323,20 +315,12 @@
           "gram": "noun"
         },
         {
-          "t": "n'",
-          "lemma": "ne",
-          "pos": "part",
-          "stress": "nə",
-          "gloss": "not (first part)",
-          "gram": "particle"
-        },
-        {
-          "t": "a",
-          "lemma": "être",
+          "t": "n'a",
+          "lemma": "avoir",
           "pos": "verb",
-          "stress": "ɛtʁ",
-          "gloss": "to be",
-          "gram": "conjugated verb"
+          "stress": "na",
+          "gloss": "has (not)",
+          "gram": "ne (elided n') + a: auxiliary, present, 3rd person singular"
         },
         {
           "t": "dit",
@@ -655,20 +639,12 @@
           "gram": "proper noun"
         },
         {
-          "t": "qu'",
+          "t": "qu'est-ce",
           "lemma": "que",
-          "pos": "conj",
-          "stress": "kə",
-          "gloss": "that; than; only (ne...que)",
-          "gram": "conjunction"
-        },
-        {
-          "t": "est-ce",
-          "lemma": "est-ce que",
-          "pos": "phrase",
-          "stress": "ɛskə",
-          "gloss": "(question marker)",
-          "gram": "fixed expression"
+          "pos": "pron",
+          "stress": "kɛskə",
+          "gloss": "what",
+          "gram": "interrogative pronoun idiom"
         },
         {
           "t": "qui",
@@ -963,20 +939,12 @@
           "gram": "noun"
         },
         {
-          "t": "n'",
-          "lemma": "ne",
-          "pos": "part",
-          "stress": "nə",
-          "gloss": "not (first part)",
-          "gram": "particle"
-        },
-        {
-          "t": "a",
-          "lemma": "être",
+          "t": "n'a",
+          "lemma": "avoir",
           "pos": "verb",
-          "stress": "ɛtʁ",
-          "gloss": "to be",
-          "gram": "conjugated verb"
+          "stress": "na",
+          "gloss": "has (not)",
+          "gram": "ne (elided n') + a: auxiliary, present, 3rd person singular"
         },
         {
           "t": "dit",
@@ -1295,20 +1263,12 @@
           "gram": "proper noun"
         },
         {
-          "t": "qu'",
+          "t": "qu'est-ce",
           "lemma": "que",
-          "pos": "conj",
-          "stress": "kə",
-          "gloss": "that; than; only (ne...que)",
-          "gram": "conjunction"
-        },
-        {
-          "t": "est-ce",
-          "lemma": "est-ce que",
-          "pos": "phrase",
-          "stress": "ɛskə",
-          "gloss": "(question marker)",
-          "gram": "fixed expression"
+          "pos": "pron",
+          "stress": "kɛskə",
+          "gloss": "what",
+          "gram": "interrogative pronoun idiom"
         },
         {
           "t": "qui",
@@ -1603,20 +1563,12 @@
           "gram": "noun"
         },
         {
-          "t": "n'",
-          "lemma": "ne",
-          "pos": "part",
-          "stress": "nə",
-          "gloss": "not (first part)",
-          "gram": "particle"
-        },
-        {
-          "t": "a",
-          "lemma": "être",
+          "t": "n'a",
+          "lemma": "avoir",
           "pos": "verb",
-          "stress": "ɛtʁ",
-          "gloss": "to be",
-          "gram": "conjugated verb"
+          "stress": "na",
+          "gloss": "has (not)",
+          "gram": "ne (elided n') + a: auxiliary, present, 3rd person singular"
         },
         {
           "t": "dit",
@@ -5616,6 +5568,207 @@
         {
           "word": "tardif",
           "gloss": "late"
+        }
+      ]
+    },
+    "avoir": {
+      "examples": [
+        {
+          "text": "J'ai un problème.",
+          "trans": "I have a problem."
+        },
+        {
+          "text": "Elle a trente ans.",
+          "trans": "She's thirty."
+        },
+        {
+          "text": "Il y a un macaron sur la table.",
+          "trans": "There's a macaron on the table."
+        }
+      ],
+      "forms": {
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "j'ai",
+              "nous avons"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "tu as",
+              "vous avez"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "il/elle a",
+              "ils/elles ont"
+            ]
+          }
+        ],
+        "title": "Present"
+      },
+      "gloss": "to have",
+      "lemma": "avoir",
+      "meanings": [
+        {
+          "en": "to have",
+          "note": "avoir peur = to be afraid, avoir raison = to be right, avoir 40 ans = to be 40"
+        },
+        {
+          "en": "to be (an age)",
+          "note": "elle a quarante ans = she is forty"
+        },
+        {
+          "en": "auxiliary for most past forms",
+          "note": "j'ai vécu = I lived"
+        },
+        {
+          "en": "il y a = there is / there are",
+          "note": ""
+        }
+      ],
+      "moreForms": [
+        {
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "j'ai eu",
+                "nous avons eu"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "tu as eu",
+                "vous avez eu"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "il/elle a eu",
+                "ils/elles ont eu"
+              ]
+            }
+          ],
+          "title": "Passé composé"
+        },
+        {
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "j'avais",
+                "nous avions"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "tu avais",
+                "vous aviez"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "il/elle avait",
+                "ils/elles avaient"
+              ]
+            }
+          ],
+          "title": "Imparfait"
+        },
+        {
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "j'aurai",
+                "nous aurons"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "tu auras",
+                "vous aurez"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "il/elle aura",
+                "ils/elles auront"
+              ]
+            }
+          ],
+          "title": "Futur"
+        },
+        {
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "—",
+                "ayons"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "aie",
+                "ayez"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "—",
+                "—"
+              ]
+            }
+          ],
+          "title": "Imperative"
+        }
+      ],
+      "pos": "verb",
+      "stress": "avwaʁ",
+      "related": [
+        {
+          "word": "avoir à voir",
+          "gloss": "to have to do with"
         }
       ]
     }

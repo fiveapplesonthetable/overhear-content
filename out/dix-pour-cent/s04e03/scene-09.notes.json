@@ -115,20 +115,12 @@
       "trans": "I forget my lines every time!",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "subject pronoun, 1st singular elided"
-        },
-        {
-          "t": "oublie",
+          "t": "J'oublie",
           "lemma": "oublier",
           "pos": "verb",
-          "stress": "ubli",
-          "gloss": "forget",
-          "gram": "present, 1st singular"
+          "stress": "ʒubli",
+          "gloss": "I forget",
+          "gram": "present subjunctive, 1st singular"
         },
         {
           "t": "mon",
@@ -247,20 +239,12 @@
           "gram": "subject pronoun, 1st singular"
         },
         {
-          "t": "n'",
-          "lemma": "ne",
-          "pos": "adv",
-          "stress": "n",
-          "gloss": "not",
-          "gram": "negative particle, elided"
-        },
-        {
-          "t": "y",
+          "t": "n'y",
           "lemma": "y",
           "pos": "pron",
-          "stress": "i",
-          "gloss": "there, at it",
-          "gram": "adverbial pronoun"
+          "stress": "ni",
+          "gloss": "there",
+          "gram": "elided negative particle ne + adverbial pronoun y"
         },
         {
           "t": "arrive",
@@ -395,20 +379,12 @@
           "gram": "preposition"
         },
         {
-          "t": "l'",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "l",
-          "gloss": "the",
-          "gram": "definite article, elided"
-        },
-        {
-          "t": "hôtel.",
+          "t": "l'hôtel.",
           "lemma": "hôtel",
           "pos": "noun",
-          "stress": "otɛl",
-          "gloss": "hotel",
-          "gram": "masculine singular"
+          "stress": "lotɛl",
+          "gloss": "the hotel",
+          "gram": "le (elided l') + hôtel: masculine singular"
         }
       ]
     },
@@ -417,28 +393,36 @@
       "trans": "That was twenty years ago!",
       "words": [
         {
-          "t": "C'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "it, that",
-          "gram": "demonstrative pronoun, elided"
-        },
-        {
-          "t": "était",
+          "t": "C'était",
           "lemma": "être",
           "pos": "verb",
-          "stress": "etɛ",
-          "gloss": "was",
-          "gram": "imperfect, 3rd singular"
+          "stress": "setɛ",
+          "gloss": "it was",
+          "gram": "ce (it) + était: imperfect (imparfait), 3rd person singular"
         },
         {
-          "t": "il y a",
+          "t": "il",
           "lemma": "il y a",
           "pos": "phrase",
-          "stress": "ilja",
-          "gloss": "ago",
-          "gram": "adverbial expression of past time"
+          "stress": "il",
+          "gloss": "(ago)",
+          "gram": "part of il y a; with a time = ago"
+        },
+        {
+          "t": "y",
+          "lemma": "il y a",
+          "pos": "phrase",
+          "stress": "i",
+          "gloss": "(ago)",
+          "gram": "part of il y a"
+        },
+        {
+          "t": "a",
+          "lemma": "il y a",
+          "pos": "phrase",
+          "stress": "a",
+          "gloss": "(ago)",
+          "gram": "part of il y a: avoir, 3rd person singular"
         },
         {
           "t": "vingt",
@@ -517,20 +501,12 @@
       "trans": "I spoke with Laurence just earlier.",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "subject pronoun, 1st singular elided"
-        },
-        {
-          "t": "ai",
+          "t": "J'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "e",
-          "gloss": "have",
-          "gram": "present, 1st singular"
+          "stress": "ʒe",
+          "gloss": "I have",
+          "gram": "je + ai: 1sg subject pronoun + present 1sg"
         },
         {
           "t": "parlé",
@@ -557,12 +533,28 @@
           "gram": "proper name"
         },
         {
-          "t": "tout à l'heure.",
-          "lemma": "tout à l'heure",
-          "pos": "phrase",
-          "stress": "tut‿al‿œʁ",
-          "gloss": "just earlier",
-          "gram": "adverbial phrase"
+          "t": "tout",
+          "lemma": "tout",
+          "pos": "pron",
+          "stress": "tu",
+          "gloss": "everything",
+          "gram": "indefinite pronoun"
+        },
+        {
+          "t": "à",
+          "lemma": "à",
+          "pos": "prep",
+          "stress": "a",
+          "gloss": "to",
+          "gram": "preposition"
+        },
+        {
+          "t": "l'heure.",
+          "lemma": "heure",
+          "pos": "noun",
+          "stress": "lœʁ",
+          "gloss": "the hour (a bit)",
+          "gram": "la (elided l') + heure: 'à tout à l'heure' = see you in a bit"
         }
       ]
     },
@@ -571,20 +563,20 @@
       "trans": "What did she say about me?",
       "words": [
         {
-          "t": "Qu'est-ce qu'",
+          "t": "Qu'est-ce",
           "lemma": "qu'est-ce que",
           "pos": "phrase",
-          "stress": "kɛsk",
-          "gloss": "what",
-          "gram": "interrogative expression, elided"
+          "stress": "kɛs",
+          "gloss": "what is it",
+          "gram": "question opener"
         },
         {
-          "t": "elle",
+          "t": "qu'elle",
           "lemma": "elle",
           "pos": "pron",
-          "stress": "ɛl",
-          "gloss": "she",
-          "gram": "subject pronoun, 3rd feminine singular"
+          "stress": "kɛl",
+          "gloss": "that she",
+          "gram": "que + elle: elided conjunction + subject pronoun 3sg"
         },
         {
           "t": "a",
@@ -633,20 +625,12 @@
           "gram": "subject pronoun, 3rd feminine singular"
         },
         {
-          "t": "n'",
-          "lemma": "ne",
-          "pos": "adv",
-          "stress": "n",
-          "gloss": "not",
-          "gram": "negative particle, elided"
-        },
-        {
-          "t": "est",
+          "t": "n'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present, 3rd singular"
+          "stress": "nɛ",
+          "gloss": "is (not)",
+          "gram": "ne (elided n') + est: present, 3rd person singular"
         },
         {
           "t": "pas",
@@ -673,20 +657,12 @@
           "gram": "preposition"
         },
         {
-          "t": "l'",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "l",
-          "gloss": "the",
-          "gram": "definite article, elided"
-        },
-        {
-          "t": "hôtel!",
+          "t": "l'hôtel!",
           "lemma": "hôtel",
           "pos": "noun",
-          "stress": "otɛl",
-          "gloss": "hotel",
-          "gram": "masculine singular"
+          "stress": "lotɛl",
+          "gloss": "the hotel",
+          "gram": "le (elided l') + hôtel: masculine singular"
         }
       ]
     },
@@ -703,20 +679,12 @@
           "gram": "subject pronoun, 3rd feminine singular"
         },
         {
-          "t": "m'",
-          "lemma": "me",
-          "pos": "pron",
-          "stress": "m",
-          "gloss": "me",
-          "gram": "indirect object pronoun, elided"
-        },
-        {
-          "t": "a",
+          "t": "m'a",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "a",
-          "gloss": "has",
-          "gram": "present, 3rd singular"
+          "stress": "ma",
+          "gloss": "has (me)",
+          "gram": "present, 3rd singular with elided me"
         },
         {
           "t": "posé",
@@ -927,20 +895,12 @@
       "trans": "I forget my lines every time!",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "subject pronoun, 1st singular elided"
-        },
-        {
-          "t": "oublie",
+          "t": "J'oublie",
           "lemma": "oublier",
           "pos": "verb",
-          "stress": "ubli",
-          "gloss": "forget",
-          "gram": "present, 1st singular"
+          "stress": "ʒubli",
+          "gloss": "I forget",
+          "gram": "present subjunctive, 1st singular"
         },
         {
           "t": "mon",
@@ -1059,20 +1019,12 @@
           "gram": "subject pronoun, 1st singular"
         },
         {
-          "t": "n'",
-          "lemma": "ne",
-          "pos": "adv",
-          "stress": "n",
-          "gloss": "not",
-          "gram": "negative particle, elided"
-        },
-        {
-          "t": "y",
+          "t": "n'y",
           "lemma": "y",
           "pos": "pron",
-          "stress": "i",
-          "gloss": "there, at it",
-          "gram": "adverbial pronoun"
+          "stress": "ni",
+          "gloss": "there",
+          "gram": "elided negative particle ne + adverbial pronoun y"
         },
         {
           "t": "arrive",
@@ -1207,20 +1159,12 @@
           "gram": "preposition"
         },
         {
-          "t": "l'",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "l",
-          "gloss": "the",
-          "gram": "definite article, elided"
-        },
-        {
-          "t": "hôtel.",
+          "t": "l'hôtel.",
           "lemma": "hôtel",
           "pos": "noun",
-          "stress": "otɛl",
-          "gloss": "hotel",
-          "gram": "masculine singular"
+          "stress": "lotɛl",
+          "gloss": "the hotel",
+          "gram": "le (elided l') + hôtel: masculine singular"
         }
       ]
     },
@@ -1229,28 +1173,36 @@
       "trans": "That was twenty years ago!",
       "words": [
         {
-          "t": "C'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "it, that",
-          "gram": "demonstrative pronoun, elided"
-        },
-        {
-          "t": "était",
+          "t": "C'était",
           "lemma": "être",
           "pos": "verb",
-          "stress": "etɛ",
-          "gloss": "was",
-          "gram": "imperfect, 3rd singular"
+          "stress": "setɛ",
+          "gloss": "it was",
+          "gram": "ce (it) + était: imperfect (imparfait), 3rd person singular"
         },
         {
-          "t": "il y a",
+          "t": "il",
           "lemma": "il y a",
           "pos": "phrase",
-          "stress": "ilja",
-          "gloss": "ago",
-          "gram": "adverbial expression of past time"
+          "stress": "il",
+          "gloss": "(ago)",
+          "gram": "part of il y a; with a time = ago"
+        },
+        {
+          "t": "y",
+          "lemma": "il y a",
+          "pos": "phrase",
+          "stress": "i",
+          "gloss": "(ago)",
+          "gram": "part of il y a"
+        },
+        {
+          "t": "a",
+          "lemma": "il y a",
+          "pos": "phrase",
+          "stress": "a",
+          "gloss": "(ago)",
+          "gram": "part of il y a: avoir, 3rd person singular"
         },
         {
           "t": "vingt",
@@ -1329,20 +1281,12 @@
       "trans": "I spoke with Laurence just earlier.",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "subject pronoun, 1st singular elided"
-        },
-        {
-          "t": "ai",
+          "t": "J'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "e",
-          "gloss": "have",
-          "gram": "present, 1st singular"
+          "stress": "ʒe",
+          "gloss": "I have",
+          "gram": "je + ai: 1sg subject pronoun + present 1sg"
         },
         {
           "t": "parlé",
@@ -1369,12 +1313,28 @@
           "gram": "proper name"
         },
         {
-          "t": "tout à l'heure.",
-          "lemma": "tout à l'heure",
-          "pos": "phrase",
-          "stress": "tut‿al‿œʁ",
-          "gloss": "just earlier",
-          "gram": "adverbial phrase"
+          "t": "tout",
+          "lemma": "tout",
+          "pos": "pron",
+          "stress": "tu",
+          "gloss": "everything",
+          "gram": "indefinite pronoun"
+        },
+        {
+          "t": "à",
+          "lemma": "à",
+          "pos": "prep",
+          "stress": "a",
+          "gloss": "to",
+          "gram": "preposition"
+        },
+        {
+          "t": "l'heure.",
+          "lemma": "heure",
+          "pos": "noun",
+          "stress": "lœʁ",
+          "gloss": "the hour (a bit)",
+          "gram": "la (elided l') + heure: 'à tout à l'heure' = see you in a bit"
         }
       ]
     },
@@ -1383,20 +1343,20 @@
       "trans": "What did she say about me?",
       "words": [
         {
-          "t": "Qu'est-ce qu'",
+          "t": "Qu'est-ce",
           "lemma": "qu'est-ce que",
           "pos": "phrase",
-          "stress": "kɛsk",
-          "gloss": "what",
-          "gram": "interrogative expression, elided"
+          "stress": "kɛs",
+          "gloss": "what is it",
+          "gram": "question opener"
         },
         {
-          "t": "elle",
+          "t": "qu'elle",
           "lemma": "elle",
           "pos": "pron",
-          "stress": "ɛl",
-          "gloss": "she",
-          "gram": "subject pronoun, 3rd feminine singular"
+          "stress": "kɛl",
+          "gloss": "that she",
+          "gram": "que + elle: elided conjunction + subject pronoun 3sg"
         },
         {
           "t": "a",
@@ -1445,20 +1405,12 @@
           "gram": "subject pronoun, 3rd feminine singular"
         },
         {
-          "t": "n'",
-          "lemma": "ne",
-          "pos": "adv",
-          "stress": "n",
-          "gloss": "not",
-          "gram": "negative particle, elided"
-        },
-        {
-          "t": "est",
+          "t": "n'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present, 3rd singular"
+          "stress": "nɛ",
+          "gloss": "is (not)",
+          "gram": "ne (elided n') + est: present, 3rd person singular"
         },
         {
           "t": "pas",
@@ -1485,20 +1437,12 @@
           "gram": "preposition"
         },
         {
-          "t": "l'",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "l",
-          "gloss": "the",
-          "gram": "definite article, elided"
-        },
-        {
-          "t": "hôtel!",
+          "t": "l'hôtel!",
           "lemma": "hôtel",
           "pos": "noun",
-          "stress": "otɛl",
-          "gloss": "hotel",
-          "gram": "masculine singular"
+          "stress": "lotɛl",
+          "gloss": "the hotel",
+          "gram": "le (elided l') + hôtel: masculine singular"
         }
       ]
     },
@@ -1515,20 +1459,12 @@
           "gram": "subject pronoun, 3rd feminine singular"
         },
         {
-          "t": "m'",
-          "lemma": "me",
-          "pos": "pron",
-          "stress": "m",
-          "gloss": "me",
-          "gram": "indirect object pronoun, elided"
-        },
-        {
-          "t": "a",
+          "t": "m'a",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "a",
-          "gloss": "has",
-          "gram": "present, 3rd singular"
+          "stress": "ma",
+          "gloss": "has (me)",
+          "gram": "present, 3rd singular with elided me"
         },
         {
           "t": "posé",
@@ -1739,20 +1675,12 @@
       "trans": "I forget my lines every time!",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "subject pronoun, 1st singular elided"
-        },
-        {
-          "t": "oublie",
+          "t": "J'oublie",
           "lemma": "oublier",
           "pos": "verb",
-          "stress": "ubli",
-          "gloss": "forget",
-          "gram": "present, 1st singular"
+          "stress": "ʒubli",
+          "gloss": "I forget",
+          "gram": "present subjunctive, 1st singular"
         },
         {
           "t": "mon",
@@ -1871,20 +1799,12 @@
           "gram": "subject pronoun, 1st singular"
         },
         {
-          "t": "n'",
-          "lemma": "ne",
-          "pos": "adv",
-          "stress": "n",
-          "gloss": "not",
-          "gram": "negative particle, elided"
-        },
-        {
-          "t": "y",
+          "t": "n'y",
           "lemma": "y",
           "pos": "pron",
-          "stress": "i",
-          "gloss": "there, at it",
-          "gram": "adverbial pronoun"
+          "stress": "ni",
+          "gloss": "there",
+          "gram": "elided negative particle ne + adverbial pronoun y"
         },
         {
           "t": "arrive",
@@ -2019,20 +1939,12 @@
           "gram": "preposition"
         },
         {
-          "t": "l'",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "l",
-          "gloss": "the",
-          "gram": "definite article, elided"
-        },
-        {
-          "t": "hôtel.",
+          "t": "l'hôtel.",
           "lemma": "hôtel",
           "pos": "noun",
-          "stress": "otɛl",
-          "gloss": "hotel",
-          "gram": "masculine singular"
+          "stress": "lotɛl",
+          "gloss": "the hotel",
+          "gram": "le (elided l') + hôtel: masculine singular"
         }
       ]
     },
@@ -2041,28 +1953,36 @@
       "trans": "That was twenty years ago!",
       "words": [
         {
-          "t": "C'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "it, that",
-          "gram": "demonstrative pronoun, elided"
-        },
-        {
-          "t": "était",
+          "t": "C'était",
           "lemma": "être",
           "pos": "verb",
-          "stress": "etɛ",
-          "gloss": "was",
-          "gram": "imperfect, 3rd singular"
+          "stress": "setɛ",
+          "gloss": "it was",
+          "gram": "ce (it) + était: imperfect (imparfait), 3rd person singular"
         },
         {
-          "t": "il y a",
+          "t": "il",
           "lemma": "il y a",
           "pos": "phrase",
-          "stress": "ilja",
-          "gloss": "ago",
-          "gram": "adverbial expression of past time"
+          "stress": "il",
+          "gloss": "(ago)",
+          "gram": "part of il y a; with a time = ago"
+        },
+        {
+          "t": "y",
+          "lemma": "il y a",
+          "pos": "phrase",
+          "stress": "i",
+          "gloss": "(ago)",
+          "gram": "part of il y a"
+        },
+        {
+          "t": "a",
+          "lemma": "il y a",
+          "pos": "phrase",
+          "stress": "a",
+          "gloss": "(ago)",
+          "gram": "part of il y a: avoir, 3rd person singular"
         },
         {
           "t": "vingt",
@@ -2141,20 +2061,12 @@
       "trans": "I spoke with Laurence just earlier.",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "subject pronoun, 1st singular elided"
-        },
-        {
-          "t": "ai",
+          "t": "J'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "e",
-          "gloss": "have",
-          "gram": "present, 1st singular"
+          "stress": "ʒe",
+          "gloss": "I have",
+          "gram": "je + ai: 1sg subject pronoun + present 1sg"
         },
         {
           "t": "parlé",
@@ -2181,12 +2093,28 @@
           "gram": "proper name"
         },
         {
-          "t": "tout à l'heure.",
-          "lemma": "tout à l'heure",
-          "pos": "phrase",
-          "stress": "tut‿al‿œʁ",
-          "gloss": "just earlier",
-          "gram": "adverbial phrase"
+          "t": "tout",
+          "lemma": "tout",
+          "pos": "pron",
+          "stress": "tu",
+          "gloss": "everything",
+          "gram": "indefinite pronoun"
+        },
+        {
+          "t": "à",
+          "lemma": "à",
+          "pos": "prep",
+          "stress": "a",
+          "gloss": "to",
+          "gram": "preposition"
+        },
+        {
+          "t": "l'heure.",
+          "lemma": "heure",
+          "pos": "noun",
+          "stress": "lœʁ",
+          "gloss": "the hour (a bit)",
+          "gram": "la (elided l') + heure: 'à tout à l'heure' = see you in a bit"
         }
       ]
     },
@@ -2195,20 +2123,20 @@
       "trans": "What did she say about me?",
       "words": [
         {
-          "t": "Qu'est-ce qu'",
+          "t": "Qu'est-ce",
           "lemma": "qu'est-ce que",
           "pos": "phrase",
-          "stress": "kɛsk",
-          "gloss": "what",
-          "gram": "interrogative expression, elided"
+          "stress": "kɛs",
+          "gloss": "what is it",
+          "gram": "question opener"
         },
         {
-          "t": "elle",
+          "t": "qu'elle",
           "lemma": "elle",
           "pos": "pron",
-          "stress": "ɛl",
-          "gloss": "she",
-          "gram": "subject pronoun, 3rd feminine singular"
+          "stress": "kɛl",
+          "gloss": "that she",
+          "gram": "que + elle: elided conjunction + subject pronoun 3sg"
         },
         {
           "t": "a",
@@ -2257,20 +2185,12 @@
           "gram": "subject pronoun, 3rd feminine singular"
         },
         {
-          "t": "n'",
-          "lemma": "ne",
-          "pos": "adv",
-          "stress": "n",
-          "gloss": "not",
-          "gram": "negative particle, elided"
-        },
-        {
-          "t": "est",
+          "t": "n'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present, 3rd singular"
+          "stress": "nɛ",
+          "gloss": "is (not)",
+          "gram": "ne (elided n') + est: present, 3rd person singular"
         },
         {
           "t": "pas",
@@ -2297,20 +2217,12 @@
           "gram": "preposition"
         },
         {
-          "t": "l'",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "l",
-          "gloss": "the",
-          "gram": "definite article, elided"
-        },
-        {
-          "t": "hôtel!",
+          "t": "l'hôtel!",
           "lemma": "hôtel",
           "pos": "noun",
-          "stress": "otɛl",
-          "gloss": "hotel",
-          "gram": "masculine singular"
+          "stress": "lotɛl",
+          "gloss": "the hotel",
+          "gram": "le (elided l') + hôtel: masculine singular"
         }
       ]
     },
@@ -2327,20 +2239,12 @@
           "gram": "subject pronoun, 3rd feminine singular"
         },
         {
-          "t": "m'",
-          "lemma": "me",
-          "pos": "pron",
-          "stress": "m",
-          "gloss": "me",
-          "gram": "indirect object pronoun, elided"
-        },
-        {
-          "t": "a",
+          "t": "m'a",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "a",
-          "gloss": "has",
-          "gram": "present, 3rd singular"
+          "stress": "ma",
+          "gloss": "has (me)",
+          "gram": "present, 3rd singular with elided me"
         },
         {
           "t": "posé",
@@ -7796,6 +7700,74 @@
         {
           "word": "reêtre",
           "gloss": "verb family relative (to be)"
+        }
+      ]
+    },
+    "heure": {
+      "examples": [
+        {
+          "text": "À tout à l'heure!",
+          "trans": "See you later!"
+        },
+        {
+          "text": "Il est quelle heure?",
+          "trans": "What time is it?"
+        },
+        {
+          "text": "Dans une heure.",
+          "trans": "In an hour."
+        }
+      ],
+      "forms": {
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "l'heure",
+              "les heures"
+            ]
+          }
+        ],
+        "title": "Forms"
+      },
+      "gender": "f",
+      "gloss": "hour; time",
+      "lemma": "heure",
+      "meanings": [
+        {
+          "en": "hour",
+          "note": "quelle heure est-il? = what time is it?"
+        },
+        {
+          "en": "time (o'clock)",
+          "note": "quelle heure est-il? = what time is it?"
+        },
+        {
+          "en": "later today",
+          "note": "à tout à l'heure = see you later"
+        }
+      ],
+      "moreForms": [],
+      "plural": "heures",
+      "pos": "noun",
+      "stress": "œʁ",
+      "related": [
+        {
+          "word": "heurter",
+          "gloss": "to hit"
+        },
+        {
+          "word": "heureux",
+          "gloss": "happy"
+        },
+        {
+          "word": "heureusement",
+          "gloss": "fortunately"
         }
       ]
     }

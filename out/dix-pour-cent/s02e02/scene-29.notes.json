@@ -15,12 +15,20 @@
           "gram": "proper name"
         },
         {
-          "t": "Qu'est-ce que",
+          "t": "Qu'est-ce",
           "lemma": "qu'est-ce que",
           "pos": "phrase",
-          "stress": "kɛskə",
-          "gloss": "what",
-          "gram": "interrogative phrase"
+          "stress": "kɛs",
+          "gloss": "what is it",
+          "gram": "question opener"
+        },
+        {
+          "t": "que",
+          "lemma": "qu'est-ce que",
+          "pos": "phrase",
+          "stress": "kə",
+          "gloss": "what (part 2)",
+          "gram": "question phrase qu'est-ce que, second part"
         },
         {
           "t": "tu",
@@ -681,12 +689,28 @@
           "gram": "infinitive"
         },
         {
-          "t": "au lieu de",
-          "lemma": "au lieu de",
+          "t": "au",
+          "lemma": "au",
           "pos": "prep",
-          "stress": "oljødə",
-          "gloss": "instead of",
-          "gram": "prepositional phrase"
+          "stress": "o",
+          "gloss": "to the, at the",
+          "gram": "contracted preposition à + le"
+        },
+        {
+          "t": "lieu",
+          "lemma": "lieu",
+          "pos": "noun",
+          "stress": "ljø",
+          "gloss": "place; avoir lieu = to take place",
+          "gram": "masculine singular"
+        },
+        {
+          "t": "de",
+          "lemma": "de",
+          "pos": "prep",
+          "stress": "də",
+          "gloss": "of",
+          "gram": "preposition"
         },
         {
           "t": "s'embrasser?",
@@ -839,12 +863,20 @@
           "gram": "proper name"
         },
         {
-          "t": "Qu'est-ce que",
+          "t": "Qu'est-ce",
           "lemma": "qu'est-ce que",
           "pos": "phrase",
-          "stress": "kɛskə",
-          "gloss": "what",
-          "gram": "interrogative phrase"
+          "stress": "kɛs",
+          "gloss": "what is it",
+          "gram": "question opener"
+        },
+        {
+          "t": "que",
+          "lemma": "qu'est-ce que",
+          "pos": "phrase",
+          "stress": "kə",
+          "gloss": "what (part 2)",
+          "gram": "question phrase qu'est-ce que, second part"
         },
         {
           "t": "tu",
@@ -1505,12 +1537,28 @@
           "gram": "infinitive"
         },
         {
-          "t": "au lieu de",
-          "lemma": "au lieu de",
+          "t": "au",
+          "lemma": "au",
           "pos": "prep",
-          "stress": "oljødə",
-          "gloss": "instead of",
-          "gram": "prepositional phrase"
+          "stress": "o",
+          "gloss": "to the, at the",
+          "gram": "contracted preposition à + le"
+        },
+        {
+          "t": "lieu",
+          "lemma": "lieu",
+          "pos": "noun",
+          "stress": "ljø",
+          "gloss": "place; avoir lieu = to take place",
+          "gram": "masculine singular"
+        },
+        {
+          "t": "de",
+          "lemma": "de",
+          "pos": "prep",
+          "stress": "də",
+          "gloss": "of",
+          "gram": "preposition"
         },
         {
           "t": "s'embrasser?",
@@ -1663,12 +1711,20 @@
           "gram": "proper name"
         },
         {
-          "t": "Qu'est-ce que",
+          "t": "Qu'est-ce",
           "lemma": "qu'est-ce que",
           "pos": "phrase",
-          "stress": "kɛskə",
-          "gloss": "what",
-          "gram": "interrogative phrase"
+          "stress": "kɛs",
+          "gloss": "what is it",
+          "gram": "question opener"
+        },
+        {
+          "t": "que",
+          "lemma": "qu'est-ce que",
+          "pos": "phrase",
+          "stress": "kə",
+          "gloss": "what (part 2)",
+          "gram": "question phrase qu'est-ce que, second part"
         },
         {
           "t": "tu",
@@ -2329,12 +2385,28 @@
           "gram": "infinitive"
         },
         {
-          "t": "au lieu de",
-          "lemma": "au lieu de",
+          "t": "au",
+          "lemma": "au",
           "pos": "prep",
-          "stress": "oljødə",
-          "gloss": "instead of",
-          "gram": "prepositional phrase"
+          "stress": "o",
+          "gloss": "to the, at the",
+          "gram": "contracted preposition à + le"
+        },
+        {
+          "t": "lieu",
+          "lemma": "lieu",
+          "pos": "noun",
+          "stress": "ljø",
+          "gloss": "place; avoir lieu = to take place",
+          "gram": "masculine singular"
+        },
+        {
+          "t": "de",
+          "lemma": "de",
+          "pos": "prep",
+          "stress": "də",
+          "gloss": "of",
+          "gram": "preposition"
         },
         {
           "t": "s'embrasser?",
@@ -7176,6 +7248,91 @@
         {
           "word": "reêtre",
           "gloss": "verb family relative (to be)"
+        }
+      ]
+    },
+    "au": {
+      "examples": [
+        {
+          "text": "Non, au contraire.",
+          "trans": "No, quite the opposite."
+        },
+        {
+          "text": "Au revoir!",
+          "trans": "Goodbye!"
+        },
+        {
+          "text": "Je suis au boulot.",
+          "trans": "I'm at work."
+        }
+      ],
+      "forms": null,
+      "gloss": "to the, at the",
+      "lemma": "au",
+      "meanings": [
+        {
+          "en": "to the, at the (à + le)",
+          "note": "à + le contracted: au boulot, au téléphone"
+        },
+        {
+          "en": "au contraire = on the contrary; au revoir = goodbye",
+          "note": ""
+        }
+      ],
+      "moreForms": [],
+      "pos": "prep",
+      "stress": "o",
+      "related": []
+    },
+    "lieu": {
+      "lemma": "lieu",
+      "stress": "ljø",
+      "pos": "noun",
+      "gloss": "place, spot",
+      "meanings": [
+        {
+          "en": "place, spot, location",
+          "note": "avoir lieu = to happen, take place"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "le lieu",
+              "les lieux"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Les entretiens auront lieu dans mon bureau.",
+          "trans": "The interviews will take place in my office."
+        },
+        {
+          "text": "Un lieu magnifique.",
+          "trans": "A beautiful place."
+        },
+        {
+          "text": "La clôture des comptes a lieu vendredi.",
+          "trans": "The account closing takes place on Friday."
+        }
+      ],
+      "gender": "m",
+      "plural": "lieux",
+      "related": [
+        {
+          "word": "le/la lieu",
+          "gloss": "the place (with article)"
         }
       ]
     }

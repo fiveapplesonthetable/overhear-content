@@ -39,12 +39,20 @@
           "gram": "adverb"
         },
         {
-          "t": "un peu.",
-          "lemma": "un peu",
+          "t": "un",
+          "lemma": "un",
+          "pos": "det",
+          "stress": "œ̃",
+          "gloss": "a",
+          "gram": "indefinite article, masculine singular"
+        },
+        {
+          "t": "peu.",
+          "lemma": "peu",
           "pos": "adv",
-          "stress": "œ̃pø",
-          "gloss": "a little",
-          "gram": "adverbial locution"
+          "stress": "pø",
+          "gloss": "little, bit",
+          "gram": "adverb of quantity"
         }
       ]
     },
@@ -115,20 +123,12 @@
           "gram": "interrogative adverb"
         },
         {
-          "t": "es",
+          "t": "es-tu",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "are",
-          "gram": "present 2sg"
-        },
-        {
-          "t": "-tu",
-          "lemma": "tu",
-          "pos": "pron",
-          "stress": "ty",
-          "gloss": "you",
-          "gram": "subject pronoun 2sg inverted"
+          "stress": "ɛ-ty",
+          "gloss": "are you",
+          "gram": "present, 2nd singular inverted"
         },
         {
           "t": "si",
@@ -161,20 +161,12 @@
       "trans": "I have a problem with my card.",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "subject pronoun 1sg elided"
-        },
-        {
-          "t": "ai",
+          "t": "J'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "e",
-          "gloss": "have",
-          "gram": "present 1sg"
+          "stress": "ʒe",
+          "gloss": "I have",
+          "gram": "je + ai: 1sg subject pronoun + present 1sg"
         },
         {
           "t": "un",
@@ -301,28 +293,28 @@
           "gram": "noun"
         },
         {
-          "t": "m'",
-          "lemma": "me",
-          "pos": "pron",
-          "stress": "m",
-          "gloss": "me",
-          "gram": "direct object pronoun 1sg elided"
-        },
-        {
-          "t": "attend",
+          "t": "m'attend",
           "lemma": "attendre",
           "pos": "verb",
-          "stress": "atɑ̃",
-          "gloss": "waits for",
-          "gram": "present 3sg"
+          "stress": "matɑ̃",
+          "gloss": "me waits for",
+          "gram": "m': direct object pronoun 1sg elided + attend: present 3sg"
         },
         {
-          "t": "en bas.",
-          "lemma": "en bas",
-          "pos": "adv",
-          "stress": "ɑ̃ba",
-          "gloss": "downstairs / below",
-          "gram": "adverbial locution"
+          "t": "en",
+          "lemma": "en",
+          "pos": "prep",
+          "stress": "ɑ̃",
+          "gloss": "in",
+          "gram": "preposition"
+        },
+        {
+          "t": "bas.",
+          "lemma": "bas",
+          "pos": "noun",
+          "stress": "ba",
+          "gloss": "below, downstairs",
+          "gram": "masculine singular; 'en bas' = downstairs"
         }
       ]
     },
@@ -425,20 +417,12 @@
           "gram": "feminine noun"
         },
         {
-          "t": "d'",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "d",
-          "gloss": "of",
-          "gram": "preposition elided"
-        },
-        {
-          "t": "hôtel.",
+          "t": "d'hôtel.",
           "lemma": "hôtel",
           "pos": "noun",
-          "stress": "otɛl",
-          "gloss": "hotel",
-          "gram": "masculine noun"
+          "stress": "dotɛl",
+          "gloss": "hotel ('chambre d'hôtel' = hotel room)",
+          "gram": "de (elided d', of) + hôtel: noun, masculine singular"
         }
       ]
     },
@@ -671,20 +655,12 @@
           "gram": "negative particle"
         },
         {
-          "t": "t'",
-          "lemma": "te",
-          "pos": "pron",
-          "stress": "t",
-          "gloss": "yourself",
-          "gram": "reflexive pronoun 2sg elided"
-        },
-        {
-          "t": "inquiète",
+          "t": "t'inquiète",
           "lemma": "inquiéter",
           "pos": "verb",
-          "stress": "ɛ̃kjɛt",
-          "gloss": "worry",
-          "gram": "imperative 2sg"
+          "stress": "ɛ̃kjete",
+          "gloss": "to worry (someone)",
+          "gram": "conjugated verb"
         },
         {
           "t": "pas,",
@@ -749,20 +725,12 @@
           "gram": "interrogative adverb"
         },
         {
-          "t": "vas",
+          "t": "vas-tu",
           "lemma": "aller",
           "pos": "verb",
-          "stress": "va",
-          "gloss": "go",
-          "gram": "present 2sg"
-        },
-        {
-          "t": "-tu",
-          "lemma": "tu",
-          "pos": "pron",
-          "stress": "ty",
-          "gloss": "you",
-          "gram": "subject pronoun 2sg inverted"
+          "stress": "vaty",
+          "gloss": "are you doing",
+          "gram": "vas + tu (present 2sg + subject pronoun)"
         },
         {
           "t": "donc?",
@@ -811,12 +779,20 @@
           "gram": "adverb"
         },
         {
-          "t": "un peu.",
-          "lemma": "un peu",
+          "t": "un",
+          "lemma": "un",
+          "pos": "det",
+          "stress": "œ̃",
+          "gloss": "a",
+          "gram": "indefinite article, masculine singular"
+        },
+        {
+          "t": "peu.",
+          "lemma": "peu",
           "pos": "adv",
-          "stress": "œ̃pø",
-          "gloss": "a little",
-          "gram": "adverbial locution"
+          "stress": "pø",
+          "gloss": "little, bit",
+          "gram": "adverb of quantity"
         }
       ]
     },
@@ -887,20 +863,12 @@
           "gram": "interrogative adverb"
         },
         {
-          "t": "es",
+          "t": "es-tu",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "are",
-          "gram": "present 2sg"
-        },
-        {
-          "t": "-tu",
-          "lemma": "tu",
-          "pos": "pron",
-          "stress": "ty",
-          "gloss": "you",
-          "gram": "subject pronoun 2sg inverted"
+          "stress": "ɛ-ty",
+          "gloss": "are you",
+          "gram": "present, 2nd singular inverted"
         },
         {
           "t": "si",
@@ -933,20 +901,12 @@
       "trans": "I have a problem with my card.",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "subject pronoun 1sg elided"
-        },
-        {
-          "t": "ai",
+          "t": "J'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "e",
-          "gloss": "have",
-          "gram": "present 1sg"
+          "stress": "ʒe",
+          "gloss": "I have",
+          "gram": "je + ai: 1sg subject pronoun + present 1sg"
         },
         {
           "t": "un",
@@ -1073,28 +1033,28 @@
           "gram": "noun"
         },
         {
-          "t": "m'",
-          "lemma": "me",
-          "pos": "pron",
-          "stress": "m",
-          "gloss": "me",
-          "gram": "direct object pronoun 1sg elided"
-        },
-        {
-          "t": "attend",
+          "t": "m'attend",
           "lemma": "attendre",
           "pos": "verb",
-          "stress": "atɑ̃",
-          "gloss": "waits for",
-          "gram": "present 3sg"
+          "stress": "matɑ̃",
+          "gloss": "me waits for",
+          "gram": "m': direct object pronoun 1sg elided + attend: present 3sg"
         },
         {
-          "t": "en bas.",
-          "lemma": "en bas",
-          "pos": "adv",
-          "stress": "ɑ̃ba",
-          "gloss": "downstairs / below",
-          "gram": "adverbial locution"
+          "t": "en",
+          "lemma": "en",
+          "pos": "prep",
+          "stress": "ɑ̃",
+          "gloss": "in",
+          "gram": "preposition"
+        },
+        {
+          "t": "bas.",
+          "lemma": "bas",
+          "pos": "noun",
+          "stress": "ba",
+          "gloss": "below, downstairs",
+          "gram": "masculine singular; 'en bas' = downstairs"
         }
       ]
     },
@@ -1197,20 +1157,12 @@
           "gram": "feminine noun"
         },
         {
-          "t": "d'",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "d",
-          "gloss": "of",
-          "gram": "preposition elided"
-        },
-        {
-          "t": "hôtel.",
+          "t": "d'hôtel.",
           "lemma": "hôtel",
           "pos": "noun",
-          "stress": "otɛl",
-          "gloss": "hotel",
-          "gram": "masculine noun"
+          "stress": "dotɛl",
+          "gloss": "hotel ('chambre d'hôtel' = hotel room)",
+          "gram": "de (elided d', of) + hôtel: noun, masculine singular"
         }
       ]
     },
@@ -1443,20 +1395,12 @@
           "gram": "negative particle"
         },
         {
-          "t": "t'",
-          "lemma": "te",
-          "pos": "pron",
-          "stress": "t",
-          "gloss": "yourself",
-          "gram": "reflexive pronoun 2sg elided"
-        },
-        {
-          "t": "inquiète",
+          "t": "t'inquiète",
           "lemma": "inquiéter",
           "pos": "verb",
-          "stress": "ɛ̃kjɛt",
-          "gloss": "worry",
-          "gram": "imperative 2sg"
+          "stress": "ɛ̃kjete",
+          "gloss": "to worry (someone)",
+          "gram": "conjugated verb"
         },
         {
           "t": "pas,",
@@ -1521,20 +1465,12 @@
           "gram": "interrogative adverb"
         },
         {
-          "t": "vas",
+          "t": "vas-tu",
           "lemma": "aller",
           "pos": "verb",
-          "stress": "va",
-          "gloss": "go",
-          "gram": "present 2sg"
-        },
-        {
-          "t": "-tu",
-          "lemma": "tu",
-          "pos": "pron",
-          "stress": "ty",
-          "gloss": "you",
-          "gram": "subject pronoun 2sg inverted"
+          "stress": "vaty",
+          "gloss": "are you doing",
+          "gram": "vas + tu (present 2sg + subject pronoun)"
         },
         {
           "t": "donc?",
@@ -1583,12 +1519,20 @@
           "gram": "adverb"
         },
         {
-          "t": "un peu.",
-          "lemma": "un peu",
+          "t": "un",
+          "lemma": "un",
+          "pos": "det",
+          "stress": "œ̃",
+          "gloss": "a",
+          "gram": "indefinite article, masculine singular"
+        },
+        {
+          "t": "peu.",
+          "lemma": "peu",
           "pos": "adv",
-          "stress": "œ̃pø",
-          "gloss": "a little",
-          "gram": "adverbial locution"
+          "stress": "pø",
+          "gloss": "little, bit",
+          "gram": "adverb of quantity"
         }
       ]
     },
@@ -1659,20 +1603,12 @@
           "gram": "interrogative adverb"
         },
         {
-          "t": "es",
+          "t": "es-tu",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "are",
-          "gram": "present 2sg"
-        },
-        {
-          "t": "-tu",
-          "lemma": "tu",
-          "pos": "pron",
-          "stress": "ty",
-          "gloss": "you",
-          "gram": "subject pronoun 2sg inverted"
+          "stress": "ɛ-ty",
+          "gloss": "are you",
+          "gram": "present, 2nd singular inverted"
         },
         {
           "t": "si",
@@ -1705,20 +1641,12 @@
       "trans": "I have a problem with my card.",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "subject pronoun 1sg elided"
-        },
-        {
-          "t": "ai",
+          "t": "J'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "e",
-          "gloss": "have",
-          "gram": "present 1sg"
+          "stress": "ʒe",
+          "gloss": "I have",
+          "gram": "je + ai: 1sg subject pronoun + present 1sg"
         },
         {
           "t": "un",
@@ -1845,28 +1773,28 @@
           "gram": "noun"
         },
         {
-          "t": "m'",
-          "lemma": "me",
-          "pos": "pron",
-          "stress": "m",
-          "gloss": "me",
-          "gram": "direct object pronoun 1sg elided"
-        },
-        {
-          "t": "attend",
+          "t": "m'attend",
           "lemma": "attendre",
           "pos": "verb",
-          "stress": "atɑ̃",
-          "gloss": "waits for",
-          "gram": "present 3sg"
+          "stress": "matɑ̃",
+          "gloss": "me waits for",
+          "gram": "m': direct object pronoun 1sg elided + attend: present 3sg"
         },
         {
-          "t": "en bas.",
-          "lemma": "en bas",
-          "pos": "adv",
-          "stress": "ɑ̃ba",
-          "gloss": "downstairs / below",
-          "gram": "adverbial locution"
+          "t": "en",
+          "lemma": "en",
+          "pos": "prep",
+          "stress": "ɑ̃",
+          "gloss": "in",
+          "gram": "preposition"
+        },
+        {
+          "t": "bas.",
+          "lemma": "bas",
+          "pos": "noun",
+          "stress": "ba",
+          "gloss": "below, downstairs",
+          "gram": "masculine singular; 'en bas' = downstairs"
         }
       ]
     },
@@ -1969,20 +1897,12 @@
           "gram": "feminine noun"
         },
         {
-          "t": "d'",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "d",
-          "gloss": "of",
-          "gram": "preposition elided"
-        },
-        {
-          "t": "hôtel.",
+          "t": "d'hôtel.",
           "lemma": "hôtel",
           "pos": "noun",
-          "stress": "otɛl",
-          "gloss": "hotel",
-          "gram": "masculine noun"
+          "stress": "dotɛl",
+          "gloss": "hotel ('chambre d'hôtel' = hotel room)",
+          "gram": "de (elided d', of) + hôtel: noun, masculine singular"
         }
       ]
     },
@@ -2215,20 +2135,12 @@
           "gram": "negative particle"
         },
         {
-          "t": "t'",
-          "lemma": "te",
-          "pos": "pron",
-          "stress": "t",
-          "gloss": "yourself",
-          "gram": "reflexive pronoun 2sg elided"
-        },
-        {
-          "t": "inquiète",
+          "t": "t'inquiète",
           "lemma": "inquiéter",
           "pos": "verb",
-          "stress": "ɛ̃kjɛt",
-          "gloss": "worry",
-          "gram": "imperative 2sg"
+          "stress": "ɛ̃kjete",
+          "gloss": "to worry (someone)",
+          "gram": "conjugated verb"
         },
         {
           "t": "pas,",
@@ -2293,20 +2205,12 @@
           "gram": "interrogative adverb"
         },
         {
-          "t": "vas",
+          "t": "vas-tu",
           "lemma": "aller",
           "pos": "verb",
-          "stress": "va",
-          "gloss": "go",
-          "gram": "present 2sg"
-        },
-        {
-          "t": "-tu",
-          "lemma": "tu",
-          "pos": "pron",
-          "stress": "ty",
-          "gloss": "you",
-          "gram": "subject pronoun 2sg inverted"
+          "stress": "vaty",
+          "gloss": "are you doing",
+          "gram": "vas + tu (present 2sg + subject pronoun)"
         },
         {
           "t": "donc?",
@@ -2363,20 +2267,12 @@
           "gram": "feminine noun"
         },
         {
-          "t": "d'",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "d",
-          "gloss": "of",
-          "gram": "preposition elided"
-        },
-        {
-          "t": "hôtel.",
+          "t": "d'hôtel.",
           "lemma": "hôtel",
           "pos": "noun",
-          "stress": "otɛl",
-          "gloss": "hotel",
-          "gram": "masculine noun"
+          "stress": "dotɛl",
+          "gloss": "hotel ('chambre d'hôtel' = hotel room)",
+          "gram": "de (elided d', of) + hôtel: noun, masculine singular"
         }
       ]
     }
@@ -7478,6 +7374,138 @@
         {
           "word": "reêtre",
           "gloss": "verb family relative (to be)"
+        }
+      ]
+    },
+    "peu": {
+      "examples": [
+        {
+          "text": "Un peu de café?",
+          "trans": "A little coffee?"
+        },
+        {
+          "text": "Je suis un peu fatigué.",
+          "trans": "I'm a bit tired."
+        },
+        {
+          "text": "Oui, Cécile est un peu plus âgée.",
+          "trans": "Yes, Cécile is a little older."
+        }
+      ],
+      "forms": null,
+      "gloss": "little",
+      "lemma": "peu",
+      "meanings": [
+        {
+          "en": "un peu = a little, a bit",
+          "note": "peu de temps = little time"
+        },
+        {
+          "en": "not much",
+          "note": "peu de temps = little time"
+        }
+      ],
+      "moreForms": [],
+      "pos": "adv",
+      "stress": "pø",
+      "related": [
+        {
+          "word": "très peu",
+          "gloss": "related adverbial expression (little)"
+        }
+      ]
+    },
+    "en": {
+      "examples": [
+        {
+          "text": "Je pars en vacances.",
+          "trans": "I'm going on holiday."
+        },
+        {
+          "text": "J'en ai assez!",
+          "trans": "I've had enough!"
+        },
+        {
+          "text": "Je suis en retard.",
+          "trans": "I'm late."
+        }
+      ],
+      "forms": null,
+      "gloss": "in; (pronoun) of it, some",
+      "lemma": "en",
+      "meanings": [
+        {
+          "en": "in",
+          "note": "preposition: en vacances, en huit ans"
+        },
+        {
+          "en": "of it, of them",
+          "note": "pronoun before the verb: j'en ai assez, je n'en peux plus"
+        }
+      ],
+      "moreForms": [],
+      "pos": "prep",
+      "stress": "ɑ̃",
+      "related": []
+    },
+    "bas": {
+      "examples": [
+        {
+          "text": "C'est vraiment bas.",
+          "trans": "That's really low."
+        },
+        {
+          "text": "La table est basse.",
+          "trans": "The table is low."
+        },
+        {
+          "text": "C'est vraiment bas, Emma.",
+          "trans": "That's really low, Emma."
+        }
+      ],
+      "forms": {
+        "columns": [
+          "",
+          "m",
+          "f"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "sg",
+              "bas",
+              "basse"
+            ]
+          },
+          {
+            "cells": [
+              "pl",
+              "bas",
+              "basses"
+            ]
+          }
+        ],
+        "title": "Forms"
+      },
+      "gloss": "low",
+      "lemma": "bas",
+      "meanings": [
+        {
+          "en": "low",
+          "note": "physically, or morally: c'est bas = that's low"
+        },
+        {
+          "en": "quietly",
+          "note": "as an adverb: parler bas"
+        }
+      ],
+      "moreForms": [],
+      "pos": "adj",
+      "stress": "bɑ",
+      "related": [
+        {
+          "word": "basement",
+          "gloss": "in a low manner (adv.)"
         }
       ]
     }
