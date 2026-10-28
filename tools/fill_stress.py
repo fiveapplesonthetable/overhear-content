@@ -64,6 +64,14 @@ def main(argv):
                 elif needs(lang, w):
                     if lang == "fr": todo_fr.add(key(w["t"]))
                     else: todo_ru.append(script["segments"][e["seg"]]["t"])
+    # lexicon entries with stress null (the schema wants a string): collected here, filled below
+    lex_known = collections.defaultdict(lambda: collections.defaultdict(set))   # show -> lemma -> {stress}
+    lex_todo = {"fr": set(), "ru": set()}
+    for nf, show, lang, script, notes in files:
+        for k, L in notes["lexicon"].items():
+            if L.get("stress"): lex_known[show][k].add(L["stress"])
+            elif lang == "ru" and vowels(k) > 1 and "ё" not in k: lex_todo["ru"].add(k)
+            elif lang == "fr": lex_todo["fr"].add(k)
     # French: corpus first, espeak for the rest
     fr_map = {k: next(iter(v)) for s in known.values() for k, v in s.items() if len(v) == 1}
     need_phon = sorted(k for k in todo_fr if not any(k in known[s] and len(known[s][k]) == 1 for s in known))
@@ -71,6 +79,12 @@ def main(argv):
     if need_phon:
         out = run([PHON_PY, "-c", PHON_SRC], need_phon)
         phon = {k: re.sub(r"[ːˈˌ]", "", v).replace(" ", "") for k, v in zip(need_phon, out)}
+    lex_fr = sorted(k for k in lex_todo["fr"] if not any(len(lex_known[sh].get(k, ())) == 1 for sh in lex_known))
+    if lex_fr:
+        out = run([PHON_PY, "-c", PHON_SRC], lex_fr)
+        phon.update({"lex:" + k: re.sub(r"[ːˈˌ]", "", v).replace(" ", "") for k, v in zip(lex_fr, out)})
+    lex_ru = sorted(lex_todo["ru"])
+    ru_lex = dict(zip(lex_ru, run([ACC_PY, ACC_CLI], lex_ru))) if lex_ru else {}
     ru_text = sorted(set(todo_ru))
     acc = dict(zip(ru_text, run([ACC_PY, ACC_CLI], ru_text))) if ru_text else {}
     stats = collections.Counter()
@@ -97,6 +111,14 @@ def main(argv):
                         if bare(w["t"])[:1].isupper(): v = v[:1].upper() + v[1:]
                 if v: w["stress"] = v; hit = True; stats[f"{lang} filled from {src}"] += 1
                 else: stats[f"{lang} left"] += 1; print("LEFT", nf.name, w["t"])
+        for k, L in notes["lexicon"].items():
+            if L.get("stress"): continue
+            if lang == "ru" and (vowels(k) <= 1 or "ё" in k): v, src = k, "lexicon lemma"            # one vowel or ё: no mark needed
+            elif len(lex_known[show].get(k, ())) == 1: v, src = next(iter(lex_known[show][k])), "lexicon corpus"
+            elif lang == "ru": v, src = (ru_lex.get(k) if ACUTE in ru_lex.get(k, "") else None), "lexicon ruaccent"
+            else: v, src = phon.get("lex:" + k), "lexicon espeak"
+            if v: L["stress"] = v; hit = True; stats[f"{lang} {src}"] += 1
+            else: stats[f"{lang} lexicon left"] += 1; print("LEFT lexicon", nf.name, k)
         if hit and not dry: nf.write_text(json.dumps(notes, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     print(dict(stats))
 

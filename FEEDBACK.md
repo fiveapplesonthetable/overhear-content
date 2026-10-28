@@ -249,16 +249,18 @@ after each; never force-push.
 
 Done by script (all checked in, each with its output in a separate commit): `tools/migrate_v1.py` (P0 format: schemaVersion,
 `gram`, aspect/animacy/gender/number spellings, IPA moved out of `pos`, notes ids, scenes.json fields and English-only titles),
-`tools/fix_tokens.py` (item 9: 5,716 Dix lines now one word entry per whitespace token), `tools/fill_stress.py` (461 French IPA
-values from the corpus or espeak-ng, 20 Russian stress marks from the corpus or RuAccent), `tools/fix_invariable_forms.py`
-(3 indeclinable nouns), plus 99 hand-written summaries, 8 rewritten narrator intros and 4 filled locations. Result with the app
-validator (`--require-notes`): lenient 1617 of 1617 scenes pass, strict 68 of 1617 pass (the repo validator gives the same 68).
+`tools/fix_tokens.py` (item 9: one word entry per whitespace token; also adds tokens the annotation dropped), `tools/fill_stress.py`
+(French IPA from the corpus or espeak-ng, Russian stress from the corpus or RuAccent, lexicon `stress` never null),
+`tools/fix_invariable_forms.py` (indeclinable nouns), `tools/fix_placeholder_narration.py`, plus 99 hand-written summaries and
+4 filled locations. After the merge with the new Kukhnya S2-S6 episodes (3,536 scenes) the scripts were simply re-run. Result with
+the app validator (`--require-notes`): **lenient 3536 of 3536 scenes pass, strict 95 of 3536**. Re-run the scripts on any new episode
+(`migrate_v1.py`, `fix_tokens.py`, `fill_stress.py`, `fix_invariable_forms.py`, `fix_placeholder_narration.py`; all idempotent).
 
 Still failing strictly, none of it mechanical:
-- **Closing line (1,444 scripts).** Needs a new farewell segment and its annotation entry per script (item 5).
-- **Source ties outside the scene (142 scripts)** (item 6) and **role keys missing from `characters.md`** (item 8). Writing
+- **Closing line (3,333 scripts).** Needs a new farewell segment and its annotation entry per script (item 5).
+- **Source ties outside the scene (148 scripts)** (item 6) and **role keys missing from `characters.md`** (item 8). Writing
   the character entries needs a human decision about who each extra is.
-- **Show-wide**: voices and role keys (item 7), lexicon conflicts (item 10), 61 duplicated pictures (item 11).
+- **Show-wide**: voices and role keys (item 7), lexicon conflicts (item 10), duplicated pictures (item 11).
 
 ## Needs human (not done on purpose)
 
