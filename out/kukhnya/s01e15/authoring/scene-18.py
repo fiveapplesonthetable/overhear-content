@@ -10,8 +10,8 @@ PAIR = 'ru-en'
 LABELS = {'kostya': 'Костя', 'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.15'
 SOURCE_FILE = 'sources/kukhnya/s01/e15.ru.dual.srt'
-INTRO = "Vika has listened to Max, and she tells him that it's too soon to live together. She says goodnight, and Max is left in the hallway. Then his phone rings. The Russian comes first."
-OPENER = 'One line at a time, once more.'
+INTRO = "Vika has listened to Max, and she tells him that it's too soon to live together. She says goodnight, and Max is left in the hallway. Then his phone rings."
+OPENER = "Back through it, slowly."
 TRANSITION = 'And the hallway scene, from the top.'
 OUTRO = "Kostya has asked Max to come back, and Max says he'll try. That's the end of the flat-swapping for now. Talk soon."
 CLOSING = ('max', 'Пока!')
@@ -30,16 +30,16 @@ STORY = [
     ('max', 'Я постараюсь приехать.', 'I will try to come.', [(358, 'Ну, Костян, обещать не буду, но постараюсь.')], ''),
 ]
 WALK = [
-    (0, None, "'Therefore I will not pressure you.' 'Press' is the word behind 'blood pressure'. Vika opens with 'therefore' as if she'd been thinking it over."),
-    (1, None, "'Let everything remain as it was.' Russian says 'let everything stay as was', with no subject for 'was'. It's a very Russian way to ask for no changes."),
+    (0, None, "'Therefore I will not pressure you.' 'Davit' is 'to press', the root of 'davlenie', as in blood pressure. 'Ne budu davit' is 'I won't press', the future made with 'budu'."),
+    (1, None, "'Let everything remain as it was.' 'Pust' is 'let', for wishes about how things go. 'Kak bylo', literally 'as was', needs no subject at all."),
     (2, None, "'Yes, but I...' Max trails off. The Russian 'no' looks like English 'no' but means 'but', so the line begins 'da, no ya'."),
     (3, None, "'We will definitely live together.' The future is made of 'will be' plus 'live', as in 'we will be living'. 'Definitely' comes from 'obligatory'."),
-    (4, None, "'And now good night.' Literally, 'of a calm night', and the 'of' ending shows it's a wish. It works like 'bon appetit' in that way."),
+    (4, None, "'And now good night.' 'Spokoynoy nochi' is literally 'of a calm night'. The 'of' ending is there because 'I wish you' is left unsaid, the same as in 'priyatnogo appetita'."),
     (5, None, "'Moved to live in the hallway.' There's no 'I' and no 'am'. The stairwell of a block of flats is 'podyezd'."),
-    (6, None, "'Hi, Max.' 'Privet' is the casual hello, and Kostya says it on the phone. It's what Russians say to friends."),
+    (6, None, "'Hi, Max.' In the show Kostya says 'zdorovo', a matey 'hi' between men. The lesson keeps the plain 'privet'."),
     (7, None, "'What do you need?' Russian says 'what to you necessary', and it's a rude way to open a call. Max is still hurt."),
     (8, None, "'Max, come back.' 'Vozvrashchaysya' has a 'sya', so it's 'return yourself'. Kostya uses the plain order for a friend."),
-    (9, None, "'We miss you.' Literally, 'to us you are not enough'. 'Khvatat'' is also the root behind the word for 'grab'."),
+    (9, None, "'We miss you.' Literally, 'to us you are not enough'. 'Khvatat' means 'to be enough', and also 'to grab'."),
     (10, None, "'We will divide the apartment among three.' Russians say 'divide on three'. The sharing word is built from 'divide', with 'po' in front."),
-    (11, None, "'I will try to come.' The 'sya' on 'try' gives 'I will try myself'. 'Come' means arriving by vehicle."),
+    (11, None, "'I will try to come.' 'Postarayus' is 'I will try', its 'sya' ending shrunk to 's' after a vowel. 'Priekhat' is 'to come' by transport, not on foot."),
 ]

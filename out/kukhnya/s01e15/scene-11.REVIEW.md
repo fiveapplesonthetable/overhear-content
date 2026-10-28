@@ -26,14 +26,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Fedya, take care of the last order.' 'Zaymis'' has a 'sya', so it's 'occupy yourself'. 'Poslednim zakazom' takes 'im' and 'om' for 'with the last order'.
-- 'That is it, the kitchen is closed.' 'Zakryta' has an 'a' because the kitchen is feminine. 'Vsyo' at the start closes the day.
-- 'I always said that you are the most capable.' 'The most capable' is stacked up with 'most' and 'capable'. 'Always said' sounds a bit too sweet.
+- 'That is it, the kitchen is closed.' 'Vsyo' is 'everything', and on its own at the start of a line it means 'that's it, done'. 'Zakryta' ends in 'a' because 'kukhnya' is feminine.
+- 'I always said that you are the most capable.' 'Samyy sposobnyy': put 'samyy' in front of an adjective and you get 'the most'. 'Govoril' ends in 'l', the past of a man.
 - 'Viktor Petrovich, you have a sick heart.' Russian says 'at you a sick heart'. 'Bolnoe' has an 'oe' because 'heart' is neuter.
 - 'My heart is in perfect order.' 'V polnom poryadke' is 'in full order'. The speaker puts the heart first, 'serdtse u menya', to stress it.
 - 'So you tricked me?' 'Obmanuli' is 'tricked', in the polite plural form. 'Tak' at the start is 'so', a word of discovery.
 - 'And how else could I bring you back?' 'Vernut' is 'to bring back', for a person or an object. 'Kak eshchyo' is 'how else'.
-- 'Ah, you bastard!' 'Ah ty' is a pattern: 'ah you' plus an insult. 'Svolokh' is a very rough word, used only when the speaker has lost control.
-- 'Lyova, calm down!' 'Uspokoysya' is 'calm yourself'. It is the order everyone gives to everyone in this series.
-- 'I will give you an attack right now!' Literally, 'I will arrange', and the word is also used for staging a scene. An 'attack' here is a sudden fit.
-- 'Lyova, put that in its place!' 'Polozhi' means 'put down' for flat things. 'Na mesto' is 'onto the place'.
-- 'I will kill you!' 'Ubyu' is the future of 'kill', in one word. It's a joke threat here, as it often is among Russian friends.
+- 'Ah, you bastard!' 'Akh ty' plus an insult is a fixed pattern, like 'why, you...'. 'Svoloch' is a very rough word, not one to try on your boss.
+- 'Lyova, calm down!' 'Uspokoysya' is the order 'calm yourself', with the 'sya' doing the 'yourself'. Barinov still calls him 'ty'.
+- 'I will give you an attack right now!' 'Ustroyu' is 'I will arrange', the same verb as in 'ustroit skandal', to make a scene. 'Pristup' is an attack or fit, the thing Lyova thought Barinov had.
+- 'Lyova, put that in its place!' 'Polozhi' is 'put', for laying something down flat; for standing a thing upright Russian uses 'postav'. 'Na mesto' is 'onto the place', back where it belongs.
+- 'I will kill you!' 'Ubyu' is the future of 'ubit', to kill, in one word. 'Tebya', you, comes after it.

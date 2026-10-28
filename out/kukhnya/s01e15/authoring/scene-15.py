@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e15.ru.dual.srt'
 INTRO = 'Lyova has just poured out an apology to the sleeping Barinov. Now Barinov opens his eyes. The Russian comes first.'
 OPENER = 'Gently, once more.'
 TRANSITION = 'Now the whole scene again.'
-OUTRO = 'Barinov forgives Lyova and falls asleep again. Was he really listening the whole time? Talk soon.'
+OUTRO = "Barinov forgives Lyova and falls asleep again. Was he really listening the whole time? Bye for now."
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('lyova', 'Виктор Петрович, вы не спите?', 'Viktor Petrovich, are you not sleeping?', [(329, 'Лёва, меня чуть не хватил удар от твоей пламенной речи второй за день.')], ''),
@@ -32,16 +32,16 @@ STORY = [
 ]
 WALK = [
     (0, None, "'Viktor Petrovich, are you not sleeping?' A negative question is how Russians ask 'are you awake?'. The polite 'you' goes with the 'ite' ending."),
-    (1, None, "'I heard everything, Lyova.' 'Heard' has a man's ending. 'Everything' is the all-purpose 'vsyo'."),
-    (2, None, "'Did you hear my words?' 'Slova' is the plural of 'slovo', word. Lyova is nervous."),
+    (1, None, "'I heard everything, Lyova.' 'Slyshal' ends in 'l', the past of a man. 'Vsyo' is 'everything'."),
+    (2, None, "'Did you hear my words?' 'Slova' is the plural of 'slovo', word. 'Slyshali' has the 'li' that goes with the polite 'vy'."),
     (3, None, "'I almost had a stroke.' Literally, 'a blow grabbed me', the Russian idiom for a stroke. 'Chut' ne' is 'almost'."),
     (4, None, "'Your speech was very fiery.' 'Plamenny' comes from 'plamya', flame, so a fiery speech is a flamy one. 'Rech' is feminine, so the word ends in 'oy'."),
-    (5, None, "'I spoke from a pure heart.' It's a fixed phrase. English says 'from the bottom of my heart'."),
-    (6, None, "'This is already the second heart attack today.' 'Second' is the usual number word. 'In a day' covers 'today'. His heart is behaving worse than it ever did."),
+    (5, None, "'I spoke from a pure heart.' 'Ot chistogo serdtsa' is a fixed phrase. English says 'from the bottom of my heart'."),
+    (6, None, "'This is already the second heart attack today.' 'Infarkt' is the medical word for a heart attack. 'Za den', literally 'over a day', is 'in one day'."),
     (7, None, "'So, you are not angry at me?' 'To be angry at' wants 'on', so Russians say 'angry on me'. 'So' opens the line."),
     (8, None, "'No, I am not angry at you.' Barinov repeats the question as an answer. The same 'na' comes before 'tebya'."),
     (9, None, "'Will you stay to live with us?' 'Ostanetes zhit' is 'will you stay to live', two verbs together. 'U nas' is 'at our place'."),
     (10, None, "'Yes, I will stay here.' 'Ostanus'' has the 'sya' of 'stay yourself'. Barinov agrees in four words."),
-    (11, None, "'I am very glad to hear this.' 'Glad' has a man's form. 'To hear' follows it directly."),
-    (12, None, "'And now let me sleep.' 'Day pospat' is again 'give me to sleep'. The 'po' keeps the sleep short and sweet."),
+    (11, None, "'I am very glad to hear this.' 'Rad' is 'glad'; a woman would say 'rada'. 'Slyshat', to hear, follows it directly."),
+    (12, None, "'And now let me sleep.' 'Day mne' is 'give me', the usual way to say 'let me'. The 'po' in 'pospat' makes it a short sleep, a nap."),
 ]

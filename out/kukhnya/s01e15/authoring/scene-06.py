@@ -7,41 +7,37 @@ SCENE = 6
 TITLE = 'Трудный разговор  (A Difficult Conversation)'
 LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-LABELS = {'kostya': 'Костя', 'max': 'Макс'}
+LABELS = {'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.15'
 SOURCE_FILE = 'sources/kukhnya/s01/e15.ru.dual.srt'
-INTRO = "At work, Kostya hears that Max is going to Nastya's. He has a problem with this, and he tries to explain it to Max. Hear it in Russian first."
+INTRO = "Still in Vika's flat, Max answers her question. He would like to move in, he says, but there is Kostya and the rent to think about. Vika isn't convinced. Hear it in Russian first."
 OPENER = 'Their conversation, slowly.'
 TRANSITION = 'Here is the conversation again.'
-OUTRO = 'Kostya promises to talk to the one person who can solve it. He avoids saying the real reason. See you next time.'
-CLOSING = ('kostya', 'Пока!')
+OUTRO = "Max promises to talk to Kostya today. Vika has heard excuses before, and she'll want to know how that talk goes. Speak soon."
+CLOSING = ('vika', 'Пока!')
 STORY = [
-    ('kostya', 'Ну ты куда?', 'Where are you going?', [(31, 'Ну ты куда?')], ''),
-    ('max', 'Я иду к Насте.', 'I am going to Nastya.', [], ''),
-    ('kostya', 'Понимаешь, я не могу переехать к ней.', 'You see, I cannot move in with her.', [], ''),
-    ('max', 'Почему ты не хочешь жить с ней?', 'Why do you not want to live with her?', [], ''),
-    ('kostya', 'Мы с Максом вместе за квартиру платим.', 'Max and I split the rent together.', [], ''),
-    ('max', 'Это очень глупая и плохая отговорка.', 'This is a very stupid and bad excuse.', [], ''),
-    ('kostya', 'Один он ее не потянет.', 'He cannot afford it on his own.', [], ''),
-    ('max', 'Если ты не хочешь жить со мной, скажи.', 'If you do not want to live with me, say so.', [], ''),
-    ('kostya', 'Да я хочу. Это Макс не хочет.', 'I do want to. Max does not want to.', [], ''),
-    ('max', 'Она тебе не поверит.', 'She will not believe you.', [], ''),
-    ('kostya', 'Я его понимаю. Но я с ним поговорю.', 'I understand him. But I will talk to him.', [], ''),
-    ('max', 'Тебе нужно сделать это сегодня.', 'You need to do this today.', [], ''),
-    ('kostya', 'Обещаю.', 'I promise.', [], ''),
+    ('max', 'Понимаешь, я не могу к тебе переехать.', 'You see, I cannot move in with you.', [(32, 'Понимаешь, я не могу к тебе переехать.')], ''),
+    ('vika', 'Почему ты не хочешь жить со мной?', 'Why do you not want to live with me?', [], ''),
+    ('max', 'Мы с Костей вместе за квартиру платим.', 'Kostya and I pay for the flat together.', [(33, 'Мы с Костей вместе за квартиру платим.')], ''),
+    ('vika', 'Это просто глупая отговорка.', 'That is just a silly excuse.', [], ''),
+    ('max', 'Один он её не потянет.', 'He cannot afford it on his own.', [(34, 'Один он ее не потянет.')], ''),
+    ('vika', 'Макс, если ты не хочешь жить со мной, так и скажи.', 'Max, if you do not want to live with me, just say so.', [(35, 'Макс, если ты не хочешь жить со мной, так и скажи.')], ''),
+    ('max', 'Да я хочу. Это Костя не хочет.', 'I do want to. It is Kostya who does not want to.', [(36, 'Да я хочу. Это Костян не хочет.')], 'adapted: Костя for the slangy Костян'),
+    ('vika', 'Тогда поговори с ним сегодня.', 'Then talk to him today.', [], ''),
+    ('max', 'Я его понимаю. Но я с ним поговорю.', 'I understand him. But I will talk to him.', [(37, 'Я его понимаю. Но я с ним поговорю обязательно.')], 'adapted: обязательно dropped'),
+    ('vika', 'Ты обещаешь?', 'Do you promise?', [], ''),
+    ('max', 'Обещаю.', 'I promise.', [(38, 'Обещаю.')], ''),
 ]
 WALK = [
-    (0, None, "'Where are you going?' It's the same short question again, 'you where'. Russian does without the verb for movement."),
-    (1, None, "'I am going to Nastya.' 'K Naste' means 'to Nastya', and her name loses an 'a' for an 'e'. The little 'k' means 'towards'."),
-    (2, None, "'You see, I cannot move in with her.' 'You understand' works as a filler, like 'you see'. 'To her' is 'k ney', where 'ona' turns into 'ney'."),
-    (3, None, "'Why do you not want to live with her?' 'With her' has the same 'ney' shape. 'To live' follows 'you want' directly."),
-    (4, None, "'Max and I split the rent together.' Russians say 'we with Max' for 'Max and I'. 'Za kvartiru' is 'for the flat', which is the right way to say what you pay for."),
-    (5, None, "'This is a very stupid and bad excuse.' 'Otgovorka' is an excuse, and the word has a slightly dismissive flavour. Both 'glupaya' and 'plokhaya' end in 'aya', matching the feminine noun."),
-    (6, None, "'He cannot afford it on his own.' 'Ne potyanet' is literally 'won't pull', slang for 'won't be able to afford'. 'Odin on' is 'he alone'."),
-    (7, None, "'If you do not want to live with me, say so.' The order 'say!' is the end of a sentence that begins with 'if'. Max is exasperated."),
-    (8, None, "'I do want to. Max does not want to.' 'Da ya khochu' has a 'da' that doesn't mean 'yes'; it pushes the point. 'Eto Maks ne khochet' puts the blame on Max."),
-    (9, None, "'She will not believe you.' In Russian you believe 'to' someone, so 'you' appears as 'tebe'. 'Ne poverit' is the future, 'won't believe'."),
-    (10, None, "'I understand him. But I will talk to him.' After 'with', 'him' gets an 'n', so it's 'nim'. 'Pogovoryu' squeezes 'I will have a talk' into one word."),
-    (11, None, "'You need to do this today.' 'Tebe nuzhno' is 'to you it's needed', and it works for friendly pressure. 'Segodnya' is 'today'."),
-    (12, None, "'I promise.' One word, 'obeshchayu', and it ends the scene. Russians say it on its own with no 'I'."),
+    (0, None, "'You see, I cannot move in with you.' 'Ponimaesh', literally 'you understand', is a softener, like 'you see'. 'K tebe' is 'to you', and with a verb of moving it means 'to your place'."),
+    (1, None, "'Why do you not want to live with me?' 'So mnoy' is 'with me': 's' becomes 'so' in front of 'mnoy', which is easier to say. 'Zhit', to live, follows 'khochesh' in its basic form."),
+    (2, None, "'Kostya and I pay for the flat together.' Russian says 'my s Kostey', 'we with Kostya', for 'Kostya and I'. After 'za', pay for, 'kvartira' becomes 'kvartiru'."),
+    (3, None, "'That is just a silly excuse.' 'Otgovorka' comes from 'otgovorit', to talk your way out of something. It's feminine, so 'silly' is 'glupaya'."),
+    (4, None, "'He cannot afford it on his own.' 'Ne potyanet' is literally 'won't pull', everyday Russian for 'can't manage' or 'can't afford'. 'Odin', alone, comes first for weight."),
+    (5, None, "'Max, if you do not want to live with me, just say so.' 'Tak i skazhi' is literally 'so and say', a set way to say 'then just say it'. 'Esli' is 'if'."),
+    (6, None, "'I do want to. It is Kostya who does not want to.' The 'da' here isn't 'yes'; it pushes back, like 'but I do'. 'Eto Kostya ne khochet' points the finger: 'it's Kostya who doesn't'."),
+    (7, None, "'Then talk to him today.' 'Pogovori' is the order form of 'pogovorit', to have a talk. 'S nim' is 'with him', and 'on' turns into 'nim' after 's'."),
+    (8, None, "'I understand him. But I will talk to him.' 'Ego' is 'him' as the thing understood. 'Pogovoryu' is a single word for 'I will have a talk': the 'po' form has no present, so it points ahead."),
+    (9, None, "'Do you promise?' No word order change, no helper word: in Russian a statement becomes a question just by rising at the end."),
+    (10, None, "'I promise.' 'Obeshchayu' is one word, and its ending already means 'I', so nobody says the 'ya'."),
 ]

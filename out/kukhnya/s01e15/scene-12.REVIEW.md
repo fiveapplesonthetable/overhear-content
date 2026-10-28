@@ -25,9 +25,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Open up, we need to talk.' The order 'open!' sounds like a knock. 'To us necessary' stands for 'we need'.
-- 'Lyova, what do you want?' 'Chto ty khochesh' is 'what you want'. Barinov's voice is muffled and calm.
-- 'I want to tell you one thing.' 'One thing' takes the form for the thing told. 'To say to you' follows.
+- 'Open up, we need to talk.' 'Otkryvay' is the order 'open!', in the form that sounds like 'come on, open up'. 'Nam nado', 'to us needed', is 'we need'.
+- 'Lyova, what do you want?' 'Khochesh' is 'you want', with the 'esh' ending that goes with 'ty'. The two of them are on 'ty' terms here.
+- 'I want to tell you one thing.' 'Odna veshch' becomes 'odnu veshch' because it is the thing being told. 'Veshch' also means a physical thing, an object.
 - 'So that your foot is no longer in my house.' This is an idiom: 'chtoby nogi tvoey ne bylo' is 'let your foot not be', which means 'never set foot'. 'Nogi' takes the 'of' ending after 'not be'.
 - 'Today pack your things and leave.' 'Segodnya zhe' is 'today, right now'. The little 'zhe' stresses the immediacy. 'Sobiray' and 'uezzhay' are two orders joined by 'i'.
 - 'You no longer live with me and Mom.' Russians say 'at us with Mom' for 'with me and Mom'. 'Bolshe ne zhivyosh'' is 'no more you live'.
@@ -35,5 +35,5 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Yes, sure.' 'Da pozhaluysta' sounds polite, but here it means 'fine, be my guest'. The tone makes all the difference.
 - 'As if I need it.' 'Ochen mne nado' is 'very to me necessary', which in the right voice means the opposite: 'as if I cared'. Russian has sarcasm built in.
 - 'I am waiting until you leave.' 'Poka' means both 'while' and 'until'. Here it takes the plain future, 'you will leave', which in English would be 'until you leave'.
-- 'I am already leaving.' 'Already' comes before the action. Barinov has given up, and two words say it.
-- 'Leave the keys on the table.' Keys are always plural. 'Leave!' is the order, and 'on the table' follows.
+- 'I am already leaving.' 'Ukhozhu' is 'I am leaving', from 'ukhodit'. 'Uzhe', already, comes before it.
+- 'Leave the keys on the table.' 'Klyuchi' is the plural of 'klyuch', key. 'Ostav' is the order 'leave!', and 'na stole' is 'on the table', with the 'e' ending for where something is.

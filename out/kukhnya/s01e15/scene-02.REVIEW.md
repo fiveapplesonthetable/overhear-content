@@ -26,14 +26,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'This is my loofah, and this one is Kostya's.' The scrubby bath sponge is 'mochalka'. 'Kostya's' is made by turning the name into a describing word, 'Kostina'.
-- 'Hey, guys, let us go to the cinema?' 'Slysh' is a rough, loud 'hey', and 'narod' literally means 'people', slang for 'folks'. 'Skhodim' is a short trip, 'go and come back'.
+- 'Hey, guys, let us go to the cinema?' 'Slysh' is clipped from 'slyshish', 'do you hear', and it's a rough, matey 'hey'. 'Narod' means 'people', used here like 'folks'. 'Skhodim' means going somewhere and coming back.
 - 'Max, we have been sleeping for a long time.' Russian uses the plain present, 'we sleep', along with 'already for a long time'. English needs 'have been', and Russian doesn't.
-- 'Yes. More precisely, we were sleeping.' 'Tochnee' is 'more precisely', made with the same 'ee' that makes 'faster'. Then 'spali' is the plural past, 'we slept'.
-- 'Well, let us go later together.' 'A bit later' has a 'po' that softens it. Max still hopes to persuade them.
+- 'Yes. More precisely, we were sleeping.' 'Tochnee' is 'tochno', precisely, with the 'ee' ending for 'more', the same one in 'bystree', faster. 'Spali' is the plural past, 'we slept'.
+- 'Well, let us go later together.' 'Popozzhe' is 'pozzhe', later, with 'po' in front to make it 'a bit later'. The verb, 'skhodim', waits until the end of the line.
 - 'You see that we are resting.' The little 'zhe' makes it sound like 'come on, you can see'. 'We rest' also means 'we are resting'.
 - 'Go to sleep, please, Max!' 'Idi spat' is 'go sleep', two actions side by side, with no 'to'. Nastya says it with a polite 'please' squeezed in the middle.
 - 'Well, understood, I am going to my room.' 'Ponyatno' means 'it's clear', and Russians say it to mean 'I get it'. 'K sebe' is 'to oneself', so 'to my own place'.
-- 'That is it, I cannot take this anymore!' 'Vsyo' at the start works like a full stop. The rest is 'I like this more not can', the order Russian prefers.
-- 'Nastya, calm down, he is just our friend.' 'Calm yourself' is the usual order. A friend is 'drug', and 'our friend' is just two words.
-- 'He constantly walks into our room!' The 'za' on the front of 'drops in' means 'popping in on the way'. The room takes a 'u' ending to show where he goes.
+- 'That is it, I cannot take this anymore!' 'Vsyo' at the start works like a full stop: that's it. The rest is literally 'I so more not can', with 'ne' right before the verb it cancels.
+- 'Nastya, calm down, he is just our friend.' 'Uspokoysya' ends in 'sya', 'calm yourself'. 'Drug' is 'friend', and 'prosto', just, plays it down.
+- 'He constantly walks into our room!' The 'za' on the front of 'zakhodit' gives 'drop in'. 'Komnata', room, becomes 'komnatu' after 'v' when it means 'into'.
 - 'I want Max to move out of here!' Russian says 'I want that Max moved out', with the past form after 'so that'. The moving word is built from 'ride off'.
