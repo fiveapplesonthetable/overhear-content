@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Viktor Petrovich, are you alive?' ENG She is shocked and worried.
-- 'Huh?' ENG He is dazed and confused.
-- 'Oh, please forgive me.' ENG She apologizes profusely.
-- 'For God's sake, forgive me.' ENG She is very sorry.
-- 'I just didn't see you.' ENG She explains her mistake.
-- 'So this is how you deal with the competition.' ENG He jokes despite the pain.
-- 'Here, let me help you up.' ENG She tries to assist him.
-- 'We will go to the hospital.' ENG She wants to get him medical help.
-- 'It hurts.' ENG He complains about his injuries.
-- 'We need to go to the doctor.' ENG She insists on medical attention.
-- 'All right, let's go.' ENG He agrees to go with her.
-- 'Careful.' ENG She helps him gently.
+- 'Viktor Petrovich, are you alive?' Notice the word order: 'Viktor' comes first, and 'living' finishes the sentence.
+- 'Huh?' Notice the word order: 'and' comes first, and 'and' finishes the sentence.
+- 'Oh, please forgive me.' Here 'oh' sets up the idea, while 'me' comes at the end for emphasis.
+- 'For God's sake, forgive me.' Listen for the word meaning 'God' right alongside 'excuse me' in this line.
+- 'I just didn't see you.' In Russian, 'I' leads into 'to notice' in a very natural everyday phrasing.
+- 'So this is how you deal with the competition.' A compact expression built around 'you' and 'rival'. Then Elena replies.
+- 'Here, let me help you up.' Elena puts 'give' up front so the listener immediately catches the tone, followed by 'I'.
+- 'We will go to the hospital.' Elena starts with 'will be off' and pairs it with 'the hospital' to make the point clear.
+- 'It hurts.' The first content word means 'to me', and 'it hurts' rounds out the thought. And Elena jumps in.
+- 'We need to go to the doctor.' The key word here means 'it is necessary', which Elena combines with 'to drive'.
+- 'All right, let's go.' Listen for the word meaning 'here we go' right alongside 'here we go' in this line.
+- 'Careful.' You'll hear 'careful' all the time in the show, here connected with 'careful'.

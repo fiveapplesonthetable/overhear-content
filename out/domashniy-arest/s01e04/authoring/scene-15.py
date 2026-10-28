@@ -120,7 +120,7 @@ WALK = [
   "'Hands off the beer!' Literally 'hands away from the beer', with 'beer' in the genitive case. Then Arkady gives "
   "him a pep talk."),
  (11, "Послушай меня, Ваня.",
-  "'Listen to me, Vanya.'"),
+  "'Listen to me, Vanya.' A compact expression built around 'listen to' and 'Vanya'."),
  (11, "Нам нужно чуть-чуть потерпеть и немножко поработать.",
   "'We need to be patient a little and work a bit.' Both verbs have the prefix 'po-', which means doing something "
   "for a short while."),
@@ -133,7 +133,7 @@ WALK = [
   "'I'll keep an eye on him.' First-person perfective future: 'I will supervise'. Before heading out to go door to "
   "door, Arkady gives one last warning."),
  (15, "Будут разные провокации.",
-  "'There will be various provocations.'"),
+  "'There will be various provocations.' Here 'there will be' sets up the idea, while 'provocations' comes at the end for emphasis."),
  (15, "Все контакты только через меня.",
   "'All contacts go only through me.' After the preposition 'through', 'me' is in the accusative."),
 ]

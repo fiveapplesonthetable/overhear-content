@@ -34,33 +34,33 @@ OPENER = "Let's review the scene line by line."
 
 WALK = [
     (0, None,
-     "'Not bad.' -- The Russian word '' is a very common way to express mild approval. ENG"),
+     "'Not bad.' In Russian, 'not bad' leads into 'not bad' in a very natural everyday phrasing. Then Maks replies."),
     (1, None,
-     "'Huh?' -- Maks is pleased. ENG"),
+     "'Huh?' Notice the word order: 'yes' comes first, and 'yes' finishes the sentence."),
     (2, None,
-     "'Only this isn't my pâté.' -- t my pâté.' The Chef reveals the truth. The word '' means 'only' or 'except'. ENG"),
+     "'Only this isn't my pâté.' Here 'only' sets up the idea, while 'pâté' comes at the end for emphasis."),
     (3, None,
-     "'What?' -- The literal translation is 'how?', which is used to express surprise, just like 'what?' in English. ENG"),
+     "'What?' You'll hear 'how' all the time in the show, here connected with 'how'."),
     (4, None,
-     "'Same texture.' -- Maks defends his work. The word '' means 'the same' for feminine nouns. ENG"),
+     "'Same texture.' The key word here means 'that', which Maks combines with 'consistency'."),
     (5, None,
-     "'And I got the ingredients right.' -- He is sure he used the correct recipe. ENG"),
+     "'And I got the ingredients right.' Maks starts with 'roster' and pairs it with 'I' to make the point clear."),
     (6, None,
-     "'Wait.' -- The verb is in the formal plural imperative, showing respect to the Chef. ENG"),
+     "'Wait.' Notice the word order: 'wait' comes first, and 'wait' finishes the sentence."),
     (7, None,
-     "'What goes into your pâté?' -- He wants to know the secret ingredient. ENG"),
+     "'What goes into your pâté?' The question word for 'what' comes right at the start, followed directly by 'pâté'."),
     (8, None,
-     "'The Chef smiles.' -- He enjoys this moment. ENG"),
+     "'This is a secret.' The first content word means 'this', and 'secret' rounds out the thought."),
     (9, None,
-     "'Let's go.' -- s go.' The Russian verb '' is used to suggest leaving together. ENG"),
+     "'Let's go.' A compact expression built around 'let's go' and 'let's go'."),
     (10, None,
-     "'Take a look.' -- They will see it together. ENG"),
+     "'Take a look.' In Russian, 'have a look' leads into 'have a look' in a very natural everyday phrasing."),
     (11, None,
-     "'They walk to the kitchen.' -- The secret will be revealed. ENG"),
+     "'Good.' Maks starts with 'good' and pairs it with 'good' to make the point clear."),
 ]
 
 
 
 TRANSITION = "Let's listen to the dialog one more time."
-OUTRO = "Things are getting very interesting in the kitchen. See you next time."
+OUTRO = "And that's it for this scene. When you watch the episode, listen out for the exchange around not my pâté, and for the words meaning 'pâté' and 'consistency'. You'll catch them now. See you next time."
 CLOSING = ("anya", "До свидания!")

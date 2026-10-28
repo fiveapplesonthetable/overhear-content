@@ -40,10 +40,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'In a waffle-cone costume.' Literally, 'in a costume of a waffle horn'. Picture big, burly Samson dressed as an ice-cream cone. Samson is outraged.
 - 'Nina, I'm not going to be a waffle!' After 'will not be', the noun 'waffle' goes into the instrumental case. Nina doesn't care about his pride; she wants to know the pay.
 - 'And how much do they pay?' Third person plural with no subject: 'how much do they pay?'.
-- 'On weekdays seven hundred roubles.'
+- 'On weekdays seven hundred roubles.' Notice the word order: 'weekdays' comes first, and 'roubles' finishes the sentence.
 - 'On weekends, fifteen hundred.' Literally, 'one and a half thousands'. That settles it for Nina.
 - 'We agree, do the paperwork!' The plural short form 'agreed' covers both of them, whether Samson likes it or not. As the clerk writes the slip, she looks closely at Samson's face.
-- 'I'll write out a referral right now.'
+- 'I'll write out a referral right now.' Here 'right now' sets up the idea, while 'referral slip' comes at the end for emphasis.
 - 'Where could I have seen you?' Remember the viral video on the morning news: half the country has already seen Samson throwing the mayor out the window. Samson just stares at her.
-- 'What?'
+- 'What?' the speaker puts 'what' up front so the listener immediately catches the tone, followed by 'what'.
 - 'Well, I must have mistaken you for someone else. That's all.' The feminine past verb ends in 'a' before the reflexive ending because the clerk is a woman.

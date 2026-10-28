@@ -26,7 +26,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Having some tea, Viktor Petrovich?' -- ENG The boss sarcastically asks about his beverage.
-- 'That is right.' -- ENG The chef confidently confirms his action.
-- 'You must work.' -- ENG The boss strictly commands him to do his job.
-- 'This is simply outrageous.' -- ENG The boss expresses his deep anger.
+- 'Having some tea, Viktor Petrovich?' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'tea' straight to 'Petrovich'.
+- 'That is right.' Notice the word order: 'this' comes first, and 'right' finishes the sentence.
+- 'You must work.' Here 'you' sets up the idea, while 'to work' comes at the end for emphasis.
+- 'This is simply outrageous.' You'll hear 'this' all the time in the show, here connected with 'outrageous'.

@@ -86,7 +86,7 @@ WALK = [
     (4, "Он тебя очаровал.",
      "'He charmed you!' A perfective past verb meaning to enchant or charm someone."),
     (6, None,
-     "'Why do you need an old man when there is such a lively young neighbor nearby?'"),
+     "'Why do you need an old man when there's such a lively young neighbor nearby?' the speaker puts 'why' up front so the listener immediately catches the tone, followed by 'to you'."),
     (7, "Перестань! Никто меня не очаровал.",
      "'Stop it! Nobody charmed me.' Remember that Russian uses double negation with nobody."),
     (8, None,

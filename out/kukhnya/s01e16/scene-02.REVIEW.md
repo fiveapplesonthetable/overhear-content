@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Where is your fire extinguisher?' — Notice the adverb meaning 'where' paired with the det for 'your'.
-- 'It was hanging here last time.' — Notice the pronoun meaning 'he' paired with the verb for 'to hang, be hanging'.
-- 'Are you laughing at me?' — Notice the pronoun meaning 'you' paired with the pronoun for 'what'.
-- 'This one is not suitable.' — Notice the det meaning 'this' paired with the verb for 'is coming up, is approaching'.
-- 'Here is a normal fire extinguisher.' — Notice the adjective meaning 'decent, normal' paired with the noun for 'fire extinguisher'.
-- 'And where is its seal?' — Notice the adverb meaning 'where' paired with the pronoun for 'him'.
-- 'Good afternoon.' — Notice the adjective meaning 'good' paired with the noun for 'day'.
-- 'May I know one thing?' — Notice the adverb meaning 'may, can' paired with the verb for 'to find out'.
-- 'Why do you have such an interest in the restaurant?' — Notice the adverb meaning 'why' paired with the pronoun for 'you'.
-- 'We are fighting with bad management.' — Notice the pronoun meaning 'we' paired with the verb for 'to fight, struggle'.
-- 'There was a call to my boss.' — Notice the verb meaning 'was' paired with the noun for 'call; bell'.
-- 'From the neighboring restaurant.' — Notice the adjective meaning 'neighboring' paired with the noun for 'restaurant'.
-- 'Everything is clear.' — Notice the det meaning 'everything' paired with the adverb for '(is) clear'.
-- 'Well then, until tomorrow.' — Notice the pronoun meaning 'what' paired with the adverb for 'tomorrow'.
+- 'Where is your fire extinguisher?' Notice the word order: 'where' comes first, and 'fire extinguisher' finishes the sentence.
+- 'It was hanging here last time.' Notice the word order: 'he' comes first, and 'time' finishes the sentence.
+- 'Are you laughing at me?' A compact expression built around 'you' and 'me'.
+- 'This one is not suitable.' You'll hear 'is coming up' all the time in the show, here connected with 'is coming up'.
+- 'Here is a normal fire extinguisher.' The key word here means 'decent', which Vika combines with 'fire extinguisher'.
+- 'And where is its seal?' A compact expression built around 'where' and 'seal'. Then Dmitry replies.
+- 'Good afternoon.' Dmitry puts 'good' up front so the listener immediately catches the tone, followed by 'day'.
+- 'May I know one thing?' In Russian, 'may' leads into 'thing' in a very natural everyday phrasing.
+- 'Why do you have such an interest in the restaurant?' In Russian, 'why' leads into 'restaurant' in a very natural everyday phrasing.
+- 'We are fighting with bad management.' A compact expression built around 'we' and 'leadership'.
+- 'There was a call to my boss.' Listen for the word meaning 'was' right alongside 'call' in this line.
+- 'From the neighboring restaurant.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'neighboring' straight to 'restaurant'. Dmitry answers straight away.
+- 'Everything is clear.' Notice the word order: 'clear' comes first, and 'clear' finishes the sentence.
+- 'Well then, until tomorrow.' Listen for the word meaning 'what' right alongside 'tomorrow' in this line.

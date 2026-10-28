@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'They say we are masters of our fate.' ENG Note how he philosophizes about life.
-- 'We decide everything ourselves.' ENG This means we have control.
-- 'We decide who we want to be with.' ENG A deep reflection on love.
-- 'Everything depends only on us.' ENG He emphasizes personal responsibility.
-- 'But fate brings us a surprise.' ENG Things do not always go as planned.
-- 'When we start believing in this.' ENG Just when we feel secure.
-- 'It usually does this.' ENG A common occurrence in life.
-- 'All right, Timur.' ENG The chef is talking to a supplier on the phone.
-- 'Bring me some lamb meat.' ENG He is ordering ingredients for the kitchen.
-- 'A young lamb, not a pensioner.' ENG He demands high quality, fresh meat.
-- 'Not like yesterday.' ENG He was unhappy with the previous delivery.
-- 'Yesterday the meat was bad.' ENG The chef complains about poor ingredients.
+- 'They say we are masters of our fate.' The question word for 'what' comes right at the start, followed directly by 'fate'.
+- 'We decide everything ourselves.' Max puts 'we' up front so the listener immediately catches the tone, followed by 'yourselves'.
+- 'We decide who we want to be with.' The key word here means 'we', which Max combines with 'decide'.
+- 'Everything depends only on us.' Here 'depends' sets up the idea, while 'us' comes at the end for emphasis.
+- 'But fate brings us a surprise.' The key word here means 'fate', which Max combines with 'present'.
+- 'When we start believing in this.' Max starts with 'when' and pairs it with 'we' to make the point clear.
+- 'It usually does this.' Listen for the word meaning 'it' right alongside 'does' in this line.
+- 'All right, Timur.' In Russian, 'good' leads into 'Timur' in a very natural everyday phrasing.
+- 'Bring me some lamb meat.' A compact expression built around 'to bring' and 'lamb'.
+- 'A young lamb, not a pensioner.' A compact expression built around 'young' and 'pensioner'.
+- 'Not like yesterday.' A compact expression built around 'how' and 'yesterday'.
+- 'Yesterday the meat was bad.' Chef Viktor puts 'yesterday' up front so the listener immediately catches the tone, followed by 'was'.

@@ -14,7 +14,7 @@ LABELS = {'anya': 'Viktor', 'senya': 'Senya'}
 INTRO = 'Viktor confronts Senya in the kitchen about the stolen recipe. We will hear it in Russian first, do not worry about catching every word. Let's listen closely to their conversation in Russian first, and then walk through each line together.'
 OPENER = "Let's walk through it. Viktor is furious."
 TRANSITION = "Now let's hear the scene once more."
-OUTRO = 'Senya is in big trouble. See you next time.'
+OUTRO = 'And that's it for this scene. When you watch the episode, listen out for the exchange around you are a corpse, and for the words meaning 'was' and 'roll'. You'll catch them now. See you next time.'
 
 STORY = [
     ('anya', 'Ты был там?', 'Were you there?', [(290, 'Ты что, был там в Аркабалена?')], 'Simplified'),

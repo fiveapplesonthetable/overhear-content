@@ -29,12 +29,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Maybe if something happened to you.' ENG: The last word means happened.
-- 'When I was a kid, I had a dog.' ENG: The first phrase means in childhood, and the last word is another word for dog.
+- 'Maybe if something happened to you.' The reflexive ending on the verb for 'happened' turns the action back onto the subject.
+- 'When I was a kid, I had a dog.' The key word here means 'childhood', which Kostya combines with 'me'.
 - 'Ralph. And one day he bit me really badly.' — Notice the proper name meaning 'Ralph' paired with the pronoun for 'he'.
-- 'I was mad at him for a long time.' ENG: The verb means took offense or was angry.
-- 'Then a car hit him.' ENG: The verb means hit or knocked down, often used for vehicle accidents.
-- 'Too bad he didn't appreciate it.' ENG: The first word means it is a pity, and the verb means appreciated.
-- 'What, he died?' ENG: The verb means died.
-- 'No, of course not. He bit me again.' ENG: The word means of course, and the adverb means again.
+- 'I was mad at him for a long time.' A compact expression built around 'I' and 'to take offence'.
+- 'Then a car hit him.' Here 'a car' sets up the idea, while 'then' comes at the end for emphasis.
+- 'Too bad he didn't appreciate it.' You'll hear 'it is a pity' all the time in the show, here connected with 'to appreciate'.
+- 'What, he died?' Max puts 'what' up front so the listener immediately catches the tone, followed by 'died'. Then Kostya replies.
+- 'No, of course not. He bit me again.' In Russian, 'of course' leads into 'bit' in a very natural everyday phrasing.
 - 'Better a live, angry dog than no dog at all.' ENG: The adjective means angry or mean, and the last word means none at all.

@@ -14,7 +14,7 @@ SOURCE_FILE = "sources/kukhnya/s02/e02.ru.dual.srt"
 INTRO = "In this scene focused on where is the sushi chef?, the Chef confronts Senya and Fedya because Timur the sushi chef is missing and customers are waiting for sushi. Let's listen closely to Chef Viktor and Senya's exchange in Russian first, and then walk through each line together."
 OPENER = "Now let us examine the conversation line by line."
 TRANSITION = "Now let us listen to the conversation once again."
-OUTRO = "The conversation concludes the matter at hand."
+OUTRO = "And that's it for this scene. When you watch the episode, listen out for the exchange around where is the sushi chef?, and for the words meaning 'sushi chef' and 'know'. You'll catch them now. See you next time."
 CLOSING = ('kristina', 'Думай быстрее.')
 
 STORY = [
@@ -33,17 +33,17 @@ STORY = [
 ]
 
 WALK = [
-    (0, None, "'Where is my sushi chef?' -- The speaker states this. ENG"),
-    (1, None, "'How should I know?' -- The speaker states this. ENG"),
-    (2, None, "'He was here this morning.' -- The speaker states this. ENG"),
-    (3, None, "'Maybe he got sick.' -- The speaker states this. ENG"),
-    (4, None, "'Is sushi canceled?' -- The speaker states this. ENG"),
-    (5, None, "'Nothing is canceled.' -- The speaker states this. ENG"),
-    (6, None, "'We have eight orders.' -- The speaker states this. ENG"),
-    (7, None, "'I will do everything myself.' -- The speaker states this. ENG"),
-    (8, None, "'Customers are waiting.' -- The speaker states this. ENG"),
-    (9, None, "'Get out of here.' -- The speaker states this. ENG"),
-    (10, None, "'We are already leaving.' -- The speaker states this. ENG"),
-    (11, None, "'Think fast.' -- The speaker states this. ENG"),
+    (0, None, "'Where is my sushi chef?' You'll hear 'where' all the time in the show, here connected with 'sushi chef'."),
+    (1, None, "'How should I know?' Notice the word order: 'where from' comes first, and 'know' finishes the sentence. And Chef Viktor jumps in."),
+    (2, None, "'He was here this morning.' Here 'this morning' sets up the idea, while 'here' comes at the end for emphasis."),
+    (3, None, "'Maybe he got sick.' You'll hear 'can' all the time in the show, here connected with 'to fall ill'."),
+    (4, None, "'Is sushi canceled?' Kristina starts with 'sushi' and pairs it with 'to be canceled' to make the point clear. Chef Viktor answers straight away."),
+    (5, None, "'Nothing is canceled.' Chef Viktor puts 'nothing' up front so the listener immediately catches the tone, followed by 'is canceled'."),
+    (6, None, "'We have eight orders.' Listen for the word meaning 'us' right alongside 'eight' in this line."),
+    (7, None, "'I will do everything myself.' Here 'I' sets up the idea, while 'I'll do' comes at the end for emphasis. Then Kristina replies."),
+    (8, None, "'Customers are waiting.' You'll hear 'client' all the time in the show, here connected with 'are waiting'."),
+    (9, None, "'Get out of here.' Notice the word order: 'come' comes first, and 'from here' finishes the sentence."),
+    (10, None, "'We are already leaving.' Listen for the word meaning 'we' right alongside 'already' in this line. And Kristina jumps in."),
+    (11, None, "'Think fast.' The first content word means 'think', and 'faster' rounds out the thought."),
 ]
 

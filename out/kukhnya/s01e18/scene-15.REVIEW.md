@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostya, this is just a nightmare!' -- The speaker states this. ENG
-- 'Senya got poisoned by our cognac.' -- The speaker states this. ENG
-- 'Oh no, what to do?' -- The speaker states this. ENG
-- 'Kostya, give me a bottle of cognac.' -- The speaker states this. ENG
-- 'The one that stands on the right.' -- The speaker states this. ENG
-- 'This bottle right here?' -- The speaker states this. ENG
-- 'No, give me another one. Yes, this one.' -- The speaker states this. ENG
-- 'Chef took our cognac!' -- The speaker states this. ENG
-- 'We need to take this bottle back.' -- The speaker states this. ENG
-- 'I can not approach him.' -- The speaker states this. ENG
-- 'Come on, Kostya, you must.' -- The speaker states this. ENG
-- 'Got it, let's move on.' -- The speaker wraps up the exchange in the kitchen.
+- 'Kostya, this is just a nightmare!' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'Kostya' straight to 'horror'.
+- 'Senya got poisoned by our cognac.' Here 'Senya' sets up the idea, while 'cognac' comes at the end for emphasis.
+- 'Oh no, what to do?' Here 'what' sets up the idea, while 'do' comes at the end for emphasis.
+- 'Kostya, give me a bottle of cognac.' Notice the word order: 'Kostya' comes first, and 'cognac' finishes the sentence.
+- 'The one that stands on the right.' Listen for the word meaning 'who' right alongside 'is parked' in this line.
+- 'This bottle right here?' Notice the word order: 'a bottle' comes first, and 'a bottle' finishes the sentence.
+- 'No, give me another one. Yes, this one.' A compact expression built around 'give' and 'the other one'. Max answers straight away.
+- 'Chef took our cognac!' Max puts 'chef' up front so the listener immediately catches the tone, followed by 'takes it back'.
+- 'We need to take this bottle back.' Max starts with 'it is necessary' and pairs it with 'take' to make the point clear.
+- 'I can not approach him.' A compact expression built around 'I' and 'to walk up to'. Then Max replies.
+- 'Come on, Kostya, you must.' Listen for the word meaning 'let's' right alongside 'Kostya' in this line.
+- 'Got it, let's move on.' Here 'clear' sets up the idea, while 'next' comes at the end for emphasis.

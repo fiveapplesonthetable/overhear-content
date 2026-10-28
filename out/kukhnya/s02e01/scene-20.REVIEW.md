@@ -14,7 +14,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 2 | Вика | Какой же ты дурак. | What a fool you are. | #258 00:18:54: Дурак. | adapted: adapted |
 | 3 | Вика | Думаешь, это смешные шутки? | Do you think these are funny jokes? | #259 00:18:56: Думаешь, это шутки? | adapted: adapted |
 | 4 | Аня | Вика, прости меня, пожалуйста. | Vika, forgive me, please. | #260 00:18:58: Вик, прости меня. | adapted: adapted |
-| 5 | Аня | Я реально очень сильно облажался. | I really screwed up very strongly. | #261 00:19:02: Я реально облажался. | adapted: adapted |
+| 5 | Аня | Я реально очень сильно облажался. | I really screwed up badly. | #261 00:19:02: Я реально облажался. | adapted: adapted |
 | 6 | Аня | Я просто не хочу тебя терять. | I simply do not want to lose you. | #262 00:19:03: Я не хочу тебя терять | adapted: adapted |
 | 7 | Аня | У меня есть хоть маленький шанс? | Do I have even a small chance? | #262 00:19:03: есть хоть маленький шанс | adapted: adapted |
 | 8 | Аня | Я сделаю всё, что ты скажешь. | I will do everything that you say. | new | new: new |
@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Thank you for saving me.' -- ENG He gasps for air and thanks his friend for the rescue.
-- 'What a fool you are.' -- ENG She sighs deeply and insults him for his incredible stupidity.
-- 'Do you think these are funny jokes?' -- ENG She asks if he understands how terrifying the situation was.
-- 'Vika, forgive me, please.' -- ENG He finally drops the act and apologizes with genuine regret.
-- 'I really screwed up very strongly.' -- ENG He admits that his dangerous prank was a massive mistake.
-- 'I simply do not want to lose you.' -- ENG He explains that his fear of rejection caused his actions.
-- 'Do I have even a small chance?' -- ENG He asks if she will ever forgive him for this.
-- 'I will do everything that you say.' -- ENG He desperately offers complete obedience to win back her trust.
-- 'I no longer believe your words.' -- ENG She states that his constant lies have destroyed her faith.
-- 'But I am telling you the truth.' -- ENG He insists that his feelings are real this time.
-- 'You need to change.' -- ENG She tells him that apologies are useless without better behavior.
-- 'I promise, I will change.' -- ENG He swears to become a more mature and responsible partner.
-- 'Once again, forgive me.' -- ENG He offers one last apology while looking down in shame.
+- 'Thank you for saving me.' The question word for 'what' comes right at the start, followed directly by 'me'.
+- 'What a fool you are.' Listen for the word meaning 'you' right alongside 'fool' in this line.
+- 'Do you think these are funny jokes?' Here 'think' sets up the idea, while 'jokes' comes at the end for emphasis. Max answers straight away.
+- 'Vika, forgive me, please.' Max starts with 'Vika' and pairs it with 'sorry' to make the point clear.
+- 'I really screwed up badly.' Notice the word order: 'I' comes first, and 'screw up' finishes the sentence.
+- 'I simply do not want to lose you.' Max starts with 'I' and pairs it with 'just' to make the point clear.
+- 'Do I have even a small chance?' Max puts 'me' up front so the listener immediately catches the tone, followed by 'there is'.
+- 'I will do everything that you say.' Listen for the word meaning 'I' right alongside 'I'll do' in this line.
+- 'I no longer believe your words.' The first content word means 'I', and 'word' rounds out the thought. And Max jumps in.
+- 'But I am telling you the truth.' A compact expression built around 'I' and 'truth'.
+- 'You need to change.' Vika starts with 'for you' and pairs it with 'necessary' to make the point clear.
+- 'I promise, I will change.' The reflexive ending on the verb for 'to change' turns the action back onto the subject.
+- 'Once again, forgive me.' In Russian, 'more' leads into 'me' in a very natural everyday phrasing.

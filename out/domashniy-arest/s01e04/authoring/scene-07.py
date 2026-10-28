@@ -109,19 +109,19 @@ WALK = [
  (9, None,
   "'And how much do they pay?' Third person plural with no subject: 'how much do they pay?'."),
  (10, "В будни семьсот рублей.",
-  "'On weekdays seven hundred roubles.'"),
+  "'On weekdays seven hundred roubles.' Notice the word order: 'weekdays' comes first, and 'roubles' finishes the sentence."),
  (10, "В выходные — полторы тысячи.",
   "'On weekends, fifteen hundred.' Literally, 'one and a half thousands'. That settles it for Nina."),
  (11, None,
   "'We agree, do the paperwork!' The plural short form 'agreed' covers both of them, whether Samson likes it or "
   "not. As the clerk writes the slip, she looks closely at Samson's face."),
  (12, "Сейчас выпишу направление.",
-  "'I'll write out a referral right now.'"),
+  "'I'll write out a referral right now.' Here 'right now' sets up the idea, while 'referral slip' comes at the end for emphasis."),
  (12, "Где я вас могла видеть?",
   "'Where could I have seen you?' Remember the viral video on the morning news: half the country has already seen "
   "Samson throwing the mayor out the window. Samson just stares at her."),
  (13, None,
-  "'What?'"),
+  "'What?' the speaker puts 'what' up front so the listener immediately catches the tone, followed by 'what'."),
  (14, None,
   "'Well, I must have mistaken you for someone else. That's all.' The feminine past verb ends in 'a' before the "
   "reflexive ending because the clerk is a woman."),

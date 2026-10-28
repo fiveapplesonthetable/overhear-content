@@ -35,21 +35,21 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Take the bag off the branch and I'll give it to you.' Both verbs are in the perfective future: 'you will take it off, and I will give it'.
 - 'What?' Arkady stares at her in disbelief.
 - 'What bag?' He walks over to the window.
-- 'It's right here, the upstairs neighbours threw it.'
+- 'It's right here, the upstairs neighbours threw it.' In Russian, 'it' leads into 'threw' in a very natural everyday phrasing.
 - 'It's been hanging outside for a month already!' Russian uses the present tense for an action that started in the past and is still going on.
-- 'I walk up to the stove.'
+- 'I walk up to the stove.' the speaker starts with 'I' and pairs it with 'the stove' to make the point clear.
 - 'And it dangles right before my eyes!' After 'in front of', 'eyes' takes the instrumental plural.
-- 'But it's not in the flat, it's outside!'
+- 'But it's not in the flat, it's outside!' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'it' straight to 'outside'.
 - 'Well, you can see the Moon too.' Arkady points out the flaw in her logic, but Klavdia will not budge.
-- 'But I can see it!'
+- 'But I can see it!' Here 'I' sets up the idea, while 'see' comes at the end for emphasis.
 - 'Well, if you don't want to, suit yourself.' Literally 'you don't want, as you want'. Meanwhile, in the Samsonovs' room, soaking-wet Samson and Nina are scolding Slavik over the collage he made at school.
-- 'Our daughter hasn't been going to school for two weeks!'
+- 'Our daughter hasn't been going to school for two weeks!' Nina starts with 'daughter' and pairs it with 'two' to make the point clear.
 - 'Is that normal too?' Nina turns on young Slavik.
 - 'Slavik, why didn't you tell us about your sister?' Slavik mutters proudly that he is not a snitch, and Samson agrees that a real boy never rats anyone out.
 - 'We don't know what is happening with our daughter!' After 'with', both 'our' and 'daughter' take the instrumental case.
-- 'If you don't care about our daughter, I do!'
+- 'If you don't care about our daughter, I do!' The key word here means 'to you', which Nina combines with 'don't care'.
 - 'You're driving.' Nina marches Samson out the door to look for Yulia. Back in the kitchen, Arkady ties a short broom to the end of a wooden mop and makes up a little rhyme.
-- 'When there is no money in your pocket.'
+- 'When there is no money in your pocket.' A compact expression built around 'pocket' and 'money'.
 - 'Tie a broom to a mop!' Leaning out the open window, he pokes at the tree branch with his contraption.
 - 'It's not working.' The branch is still just out of reach.
 - 'Well, where there's nothing, there's no money either.' He plays on a famous Russian proverb that means 'where there is nothing, there is no trial either'.

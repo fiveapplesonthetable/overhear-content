@@ -15,7 +15,7 @@ SOURCE_NOTE = "Cues."
 INTRO = "In this scene focused on doubts, max reflects on how people value what they have. Let's listen closely to Vika and Max's exchange in Russian first, and then walk through each line together."
 OPENER = "Now let us examine the conversation line by line."
 TRANSITION = "This is the end of the scene."
-OUTRO = "Goodbye."
+OUTRO = "And that's it for this scene. When you watch the episode, listen out for the exchange around doubts, and for the words meaning 'people' and 'to doubt'. You'll catch them now. See you next time."
 CLOSING = ("anya", "Конец.")
 
 STORY = [
@@ -35,16 +35,16 @@ STORY = [
 ]
 
 WALK = [
-    (0, None, "'People often doubt.' — Notice the noun meaning 'people' paired with the adverb for 'often'."),
-    (1, None, "'In what?' — Notice the preposition meaning 'in' paired with the conjunction for 'than'."),
-    (2, None, "'In what they have.' — Notice the pronoun meaning 'that' paired with the pronoun for 'what'."),
-    (3, None, "'That is true.' — Notice the pronoun meaning 'this' paired with the noun for 'honestly'."),
-    (4, None, "'They do not know.' — Notice the pronoun meaning 'they' paired with the verb for '(they) know'."),
-    (5, None, "'What do they not know?' — Notice the pronoun meaning 'what?' paired with the verb for '(they) know'."),
-    (6, None, "'How dear is what there is.' — Notice the adverb meaning 'as far as' paired with the pronoun for 'to them'."),
-    (7, None, "'We know.' — Notice the pronoun meaning 'we' paired with the verb for '(we) know'."),
-    (8, None, "'Yes, we know.' — Notice the pronoun meaning 'we' paired with the verb for '(we) know'."),
-    (9, None, "'This is good.' — Notice the pronoun meaning 'this' paired with the adverb for 'good, fine'."),
-    (10, None, "'Very good.' — Notice the adverb meaning 'very much' paired with the adverb for 'good, fine'."),
+    (0, None, "'People often doubt.' The reflexive ending on the verb for 'to doubt' turns the action back onto the subject."),
+    (1, None, "'In what?' You'll hear 'in' all the time in the show, here connected with 'than'."),
+    (2, None, "'In what they have.' Here 'that' sets up the idea, while 'to have' comes at the end for emphasis. Vika answers straight away."),
+    (3, None, "'That is true.' You'll hear 'this' all the time in the show, here connected with 'honestly'."),
+    (4, None, "'They do not know.' The key word here means 'they', which Max combines with 'know'."),
+    (5, None, "'What do they not know?' Vika starts with 'what?' and pairs it with 'know' to make the point clear. Then Max replies."),
+    (6, None, "'How dear is what there is.' Max puts 'as far as' up front so the listener immediately catches the tone, followed by 'to them'."),
+    (7, None, "'We know.' You'll hear 'we' all the time in the show, here connected with 'know'."),
+    (8, None, "'Yes, we know.' Notice the word order: 'we' comes first, and 'know' finishes the sentence. And Vika jumps in."),
+    (9, None, "'This is good.' A compact expression built around 'this' and 'good'."),
+    (10, None, "'Very good.' Listen for the word meaning 'very much' right alongside 'good' in this line."),
     (11, None, "'I agree.' — Notice the pronoun meaning 'I' paired with the adjective for 'agree'."),
 ]

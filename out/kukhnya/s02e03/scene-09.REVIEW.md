@@ -11,7 +11,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Аня | Привет. | Hi. | new | new |
-| 2 | Настя | Привет, илья. | Hi, my friend. | new | new |
+| 2 | Настя | Привет, Илья. | Hi, Ilya. | new | new |
 | 3 | Аня | Здесь была девушка в зеленом платье? | Was there a girl in a green dress here? | #153 00:09:45: А разве здесь была девушка в зеленом платье | verbatim |
 | 4 | Настя | Вообще да. | Yes, actually. | #154 00:09:47: Вообще да | verbatim |
 | 5 | Аня | Где она? | Where is she? | new | new |
@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hi.' — Built around the key interjection meaning 'hi'.
-- 'Hi, my friend.' — Notice the interjection meaning 'hi' paired with the proper name for 'Ilya'.
-- 'Was there a girl in a green dress here?' — Notice the adverb meaning 'here' paired with the verb for 'was'.
-- 'Yes, actually.' — Built around the key adverb meaning 'at all'.
-- 'Where is she?' — Notice the adverb meaning 'where' paired with the pronoun for 'it (the pipe)'.
-- 'I don't know.' — Notice the pronoun meaning 'I' paired with the verb for '(I) know'.
-- 'You didn't see her?' — Notice the pronoun meaning 'you' paired with the noun for 'her, hers'.
-- 'That's strange, I didn't see.' — Notice the adverb meaning 'strange' paired with the pronoun for 'I'.
-- 'Maybe she left?' — Notice the verb meaning 'can' paired with the pronoun for 'it (the pipe)'.
-- 'Maybe.' — Notice the verb meaning 'can' paired with the verb for 'be'.
-- 'I need to find her.' — Notice the pronoun meaning 'to me (  = I have no time)' paired with the adverb for '(it is) necessary'.
-- 'Look in the bar.' — Notice the verb meaning 'look' paired with the noun for 'bar'.
+- 'Hi.' You'll hear 'hi' all the time in the show, here connected with 'hi'. Nastya answers straight away.
+- 'Hi, Ilya.' Notice the word order: 'hi' comes first, and 'Ilya' finishes the sentence.
+- 'Was there a girl in a green dress here?' Notice the word order: 'here' comes first, and 'a dress' finishes the sentence.
+- 'Yes, actually.' You'll hear 'at all' all the time in the show, here connected with 'at all'. Then Ilya replies.
+- 'Where is she?' The key word here means 'where', which Ilya combines with 'it'.
+- 'I don't know.' Nastya starts with 'I' and pairs it with 'know' to make the point clear.
+- 'You didn't see her?' Ilya starts with 'you' and pairs it with 'her' to make the point clear. And Nastya jumps in.
+- 'That's strange, I didn't see.' Here 'strange' sets up the idea, while 'saw' comes at the end for emphasis.
+- 'Maybe she left?' You'll hear 'can' all the time in the show, here connected with 'left'.
+- 'Maybe.' Here 'can' sets up the idea, while 'be' comes at the end for emphasis. Ilya answers straight away.
+- 'I need to find her.' Listen for the word meaning 'to me' right alongside 'necessary' in this line.
+- 'Look in the bar.' Notice the word order: 'look' comes first, and 'bar' finishes the sentence.

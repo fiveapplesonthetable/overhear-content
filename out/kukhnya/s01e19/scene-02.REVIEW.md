@@ -26,14 +26,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Senya, is the sauce ready?' — Notice the proper name meaning 'Senya' paired with the noun for 'sauce'.
-- 'I am not Senya.' — Notice the pronoun meaning 'I' paired with the proper name for 'Senya'.
-- 'I am Artyom.' — Notice the pronoun meaning 'I' paired with the proper name for 'Artyom'.
+- 'I am not Senya.' Notice the word order: 'I' comes first, and 'Senya' finishes the sentence.
+- 'I am Artyom.' Here 'I' sets up the idea, while 'Artyom' comes at the end for emphasis. Viktor answers straight away.
 - 'Senya got fired.' — Notice the proper name meaning 'Senya' paired with the verb for 'to fire, to dismiss'.
-- 'I do not care who you are.' — Notice the pronoun meaning 'to me (  = I have no time)' paired with the verb for 'don't care (lit. to spit)'.
-- 'Today you are Senya.' — Notice the adverb meaning 'today' paired with the pronoun for 'you'.
+- 'I do not care who you are.' The first content word means 'to me', and 'you' rounds out the thought.
+- 'Today you are Senya.' A compact expression built around 'today' and 'Senya'.
 - 'Fedya would have done it fast.' — Notice the proper name meaning 'Fedya' paired with the pronoun for 'this'.
-- 'I am Fedya too, Chef.' — Notice the pronoun meaning 'I' paired with the adverb for 'too'.
-- 'No, you are not Fedya.' — Notice the pronoun meaning 'you' paired with the proper name for 'Fedya'.
-- 'You have to earn the name Fedya.' — Notice the noun meaning 'name' paired with the proper name for 'Fedya'.
-- 'Now you are Artyom.' — Notice the adverb meaning 'now' paired with the pronoun for 'you'.
+- 'I am Fedya too, Chef.' In Russian, 'I' leads into 'chef' in a very natural everyday phrasing.
+- 'No, you are not Fedya.' In Russian, 'you' leads into 'Fedya' in a very natural everyday phrasing.
+- 'You have to earn the name Fedya.' The key word here means 'name', which Viktor combines with 'Fedya'.
+- 'Now you are Artyom.' Notice the word order: 'now' comes first, and 'Artyom' finishes the sentence.
 - 'Yes, Chef.' — Built around the key proper name meaning 'chef, boss'.

@@ -39,7 +39,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'No change. Listen.' Literally 'without changes'. They both listen as Arkady mutters again.
 - 'Not the soldering iron! Not the soldering iron!' Lavrov sighs.
 - 'It's been like that all night! He's having terrible dreams.' In Russian, dreams appear 'to' you: literally 'to him terrible dreams dream themselves'. Zavarzin asks the only question that matters.
-- 'And didn't he say where the money is?'
+- 'And didn't he say where the money is?' A compact expression built around 'where' and 'said'.
 - 'He says I won't tell, and that's it! He hasn't said a thing.' Notice the double negative in the second sentence: 'nothing not said'.
 - 'What a partisan! Never mind, soon he'll tell us everything.' Calling someone a partisan is the classic Russian joke for a person who refuses to talk under questioning. Then Lavrov catches Zavarzin heading for the door again.
 - 'And where are you off to again? Sit down, we wait fifteen minutes.' And just then, Arkady wakes up in his hospital bed and touches his bandages.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I am not needed by anyone.' -- ENG He says this to him.
-- 'Lyuba, a customer found a SIM card in the dessert.' -- ENG He says this to him.
-- 'A SIM card? In the dessert?' -- ENG He says this to him.
-- 'Yes, he demands the chef.' -- ENG He says this to him.
-- 'Go to him, Lyova.' -- ENG He says this to him.
-- 'I will not go there.' -- ENG He says this to him.
-- 'What do you mean, you will not go?' -- ENG He says this to him.
-- 'You are the chef today.' -- ENG He says this to him.
-- 'Go and figure this out.' -- ENG He says this to him.
-- 'But I am not the chef.' -- ENG He says this to him.
-- 'Lyova, you need to figure it out.' -- ENG He says this to him.
-- 'I am afraid to go there.' -- ENG He says this to him.
-- 'Come on, go.' -- ENG He says this to him.
+- 'I am not needed by anyone.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'I' straight to 'is needed'.
+- 'Lyuba, a customer found a SIM card in the dessert.' Notice the word order: 'Lyuba' comes first, and 'dessert' finishes the sentence.
+- 'A SIM card? In the dessert?' There is no question word here — in Russian, rising intonation on 'dessert' is enough to make it a question. And Kostya jumps in.
+- 'Yes, he demands the chef.' The key word here means 'he', which Kostya combines with 'demands'.
+- 'Go to him, Lyova.' Here 'go' sets up the idea, while 'Lyova' comes at the end for emphasis.
+- 'I will not go there.' Lyova starts with 'I' and pairs it with 'go' to make the point clear. Kostya answers straight away.
+- 'What do you mean, you will not go?' The question word for 'what' comes right at the start, followed directly by 'will go'.
+- 'You are the chef today.' You'll hear 'you' all the time in the show, here connected with 'head chef'.
+- 'Go and figure this out.' The first content word means 'go', and 'to understand well' rounds out the thought. Then Lyova replies.
+- 'But I am not the chef.' A compact expression built around 'I' and 'head chef'.
+- 'Lyova, you need to figure it out.' The first content word means 'Lyova', and 'to deal with' rounds out the thought.
+- 'I am afraid to go there.' The reflexive ending on the verb for 'am afraid' turns the action back onto the subject. And Kostya jumps in.
+- 'Come on, go.' Kostya puts 'let's' up front so the listener immediately catches the tone, followed by 'go'.

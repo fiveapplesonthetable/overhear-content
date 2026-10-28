@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello.' -- She tells him this.
-- 'Good morning.' -- He says this to her.
-- 'Chef, they are waiting for you.' -- She talks directly to him.
-- 'Who is waiting for me?' -- He asks her a question.
-- 'Dima is waiting for you.' -- She talks directly to him.
-- 'Nagiyev is here?' -- He asks her a question.
-- 'Yes, he is at his table.' -- She tells him this.
-- 'What does he want?' -- He asks her a question.
-- 'I do not know.' -- She explains her feelings to him.
-- 'He usually calls first.' -- He says this to her.
-- 'He seems very excited.' -- She tells him this.
-- 'Okay, I am coming.' -- He explains his feelings to her.
-- 'Bring him some coffee.' -- He says this to her.
+- 'Hello.' The first content word means 'hello', and 'hello' rounds out the thought.
+- 'Good morning.' Notice the word order: 'good' comes first, and 'morning' finishes the sentence.
+- 'Chef, they are waiting for you.' Here 'chef' sets up the idea, while 'to expect' comes at the end for emphasis.
+- 'Who is waiting for me?' You'll hear 'who' all the time in the show, here connected with 'wait for'.
+- 'Dima is waiting for you.' The key word here means 'Dima', which the speaker combines with 'you'. Then Chef Viktor replies.
+- 'Nagiyev is here?' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'Nagiyev' straight to 'here'.
+- 'Yes, he is at his table.' the speaker puts 'he' up front so the listener immediately catches the tone, followed by 'of yours'.
+- 'What does he want?' In Russian, 'what' leads into 'wants' in a very natural everyday phrasing.
+- 'I do not know.' The first content word means 'I', and 'know' rounds out the thought.
+- 'He usually calls first.' Listen for the word meaning 'usually' right alongside 'he' in this line.
+- 'He seems very excited.' Listen for the word meaning 'he' right alongside 'it seems' in this line. Chef Viktor answers straight away.
+- 'Okay, I am coming.' A compact expression built around 'good' and 'going'.
+- 'Bring him some coffee.' In Russian, 'bring' leads into 'of coffee' in a very natural everyday phrasing.

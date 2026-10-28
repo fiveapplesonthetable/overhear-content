@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Let's snooze it for another ten minutes.' ENG He wants to sleep a little longer.
-- 'Again?' ENG She asks if he really wants to hit snooze again.
-- 'Yeah.' ENG He confirms he is still tired.
-- 'Let's just skip work altogether.' ENG She jokes about not working.
-- 'Let's.' ENG He enthusiastically agrees.
-- 'I want to sleep so much.' ENG He expresses his exhaustion.
-- 'Me too.' ENG She shares his feeling.
-- 'We can just stay home.' ENG He proposes a lazy day.
-- 'That is a bad idea.' ENG She brings them back to reality.
-- 'They will fire us.' ENG The consequence of skipping work.
-- 'Then we need to get up.' ENG He accepts the sad truth.
-- 'Good morning.' ENG They finally start their day.
+- 'Let's snooze it for another ten minutes.' Listen for the word meaning 'let's' right alongside 'still' in this line. And Sasha jumps in.
+- 'Again?' Notice the word order: 'again' comes first, and 'again' finishes the sentence.
+- 'Yeah.' A compact expression built around 'yeah' and 'yeah'.
+- 'Let's just skip work altogether.' You'll hear 'let's' all the time in the show, here connected with 'let's go'. Max answers straight away.
+- 'Let's.' Max starts with 'let's' and pairs it with 'let's' to make the point clear.
+- 'I want to sleep so much.' Max puts 'I' up front so the listener immediately catches the tone, followed by 'want'.
+- 'Me too.' Sasha puts 'I' up front so the listener immediately catches the tone, followed by 'too'. Then Max replies.
+- 'We can just stay home.' In Russian, 'may' leads into 'at home' in a very natural everyday phrasing.
+- 'That is a bad idea.' The first content word means 'this', and 'idea' rounds out the thought.
+- 'They will fire us.' Notice the word order: 'us' comes first, and 'will fire' finishes the sentence. And Max jumps in.
+- 'Then we need to get up.' Listen for the word meaning 'back then' right alongside 'it is necessary' in this line.
+- 'Good morning.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'good' straight to 'morning'.

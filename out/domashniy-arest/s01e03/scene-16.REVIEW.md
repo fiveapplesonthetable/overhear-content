@@ -28,7 +28,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lyolya, this is very simple.'
+- 'Lyolya, this is very simple.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'Lyolya' straight to 'simple'.
 - 'You come to our park today.' He uses the present tense to lay out instructions step by step, just as we do in English.
 - 'A girl walks a little dog there.' Literally 'there walks a girl with a doggy', using the instrumental case after 'with'.
 - 'Every day from three to four.' Both numbers are in the genitive case after 'from' and 'until'.
@@ -36,7 +36,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Arkashenka, come on, this is nonsense!' Even while calling his plan nonsense, she uses a sweet pet form of his name.
 - 'I'm not going to steal a dog.' Literally 'I will not steal a dog', with the accusative ending on 'dog'. Arkady tries to reassure her.
 - 'That's not stealing, listen! It's completely safe.' He adds a detail about the rich cottage village where he and the judge live.
-- 'You remember our village, don't you?'
+- 'You remember our village, don't you?' Here 'you' sets up the idea, while 'village' comes at the end for emphasis.
 - 'There's no security there at all.' With the word for 'there is not', both 'security' and 'no kind of' go into the genitive case. Lyolya stands firm.
 - 'No, I already told you! No, Arkasha.' Notice the feminine past ending on 'said'. So Arkady pulls out the same argument he just used on the judge.
 - 'Lyolechka, have you forgotten who got you your little flat?' And it turns out Lyolya got her flat through the very same housing scheme!

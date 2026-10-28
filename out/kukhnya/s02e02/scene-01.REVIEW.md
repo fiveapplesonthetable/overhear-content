@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Business is going well?' -- The speaker states this. ENG
-- 'A lot of work.' -- The speaker states this. ENG
-- 'I hired my nephew.' -- The speaker states this. ENG
-- 'His name is Suslan.' -- The speaker states this. ENG
-- 'What did you bring?' -- The speaker states this. ENG
-- 'Suslan, unload.' -- The speaker states this. ENG
-- 'I was hired as a driver.' -- The speaker states this. ENG
-- 'Not as a loader.' -- The speaker states this. ENG
-- 'What a bastard.' -- The speaker states this. ENG
-- 'Here is your fish, Chef.' -- The speaker states this. ENG
-- 'Why do I need fish?' -- The speaker states this. ENG
-- 'Take it back.' -- The speaker states this. ENG
+- 'Business is going well?' You'll hear 'things' all the time in the show, here connected with 'let's go'.
+- 'A lot of work.' Notice the word order: 'a lot' comes first, and 'of work' finishes the sentence.
+- 'I hired my nephew.' Here 'I' sets up the idea, while 'nephew' comes at the end for emphasis.
+- 'His name is Suslan.' Here 'him' sets up the idea, while 'Suslan' comes at the end for emphasis.
+- 'What did you bring?' Chef Viktor starts with 'what' and pairs it with 'you' to make the point clear. Then Timur replies.
+- 'Suslan, unload.' Timur starts with 'Suslan' and pairs it with 'unload' to make the point clear.
+- 'I was hired as a driver.' Listen for the word meaning 'I' right alongside 'sign up for' in this line.
+- 'Not as a loader.' In Russian, 'mover' leads into 'mover' in a very natural everyday phrasing. And Timur jumps in.
+- 'What a bastard.' The first content word means 'brute', and 'brute' rounds out the thought.
+- 'Here is your fish, Chef.' The first content word means 'fish', and 'chef' rounds out the thought.
+- 'Why do I need fish?' A compact expression built around 'what for' and 'fish'.
+- 'Take it back.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'take away' straight to 'back'.

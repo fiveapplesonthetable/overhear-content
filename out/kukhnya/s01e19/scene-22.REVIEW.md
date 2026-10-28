@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Do you know what is the main thing?' — Notice the verb meaning 'know' paired with the pronoun for 'what'.
-- 'What?' — Built around the key pronoun meaning 'what'.
-- 'The main thing is to cherish.' — Notice the adjective meaning 'important (thing)' paired with the verb for 'to appreciate, to value'.
-- 'Cherish what?' — Notice the verb meaning 'to appreciate, to value' paired with the pronoun for 'what'.
-- 'What we have.' — Notice the det meaning 'that (thing)' paired with the pronoun for 'what'.
-- 'Where?' — Built around the key adverb meaning 'where'.
-- 'Here.' — Built around the key adverb meaning 'here'.
-- 'And when?' — Built around the key adverb meaning 'when'.
-- 'And now.' — Built around the key adverb meaning 'now'.
-- 'Here and now.' — Notice the adverb meaning 'here' paired with the adverb for 'now'.
-- 'Exactly.' — Built around the key adverb meaning 'definitely, for sure'.
+- 'Do you know what is the main thing?' The question word for 'what' comes right at the start, followed directly by 'important'.
+- 'What?' Notice the word order: 'what' comes first, and 'what' finishes the sentence. And Max jumps in.
+- 'The main thing is to cherish.' Notice the word order: 'important' comes first, and 'to appreciate' finishes the sentence.
+- 'Cherish what?' You'll hear 'to appreciate' all the time in the show, here connected with 'what'.
+- 'What we have.' In Russian, 'what' leads into 'there is' in a very natural everyday phrasing. Vika answers straight away.
+- 'Where?' Vika starts with 'where' and pairs it with 'where' to make the point clear.
+- 'Here.' In Russian, 'here' leads into 'here' in a very natural everyday phrasing.
+- 'And when?' Vika starts with 'when' and pairs it with 'when' to make the point clear. Then Max replies.
+- 'And now.' The first content word means 'now', and 'now' rounds out the thought.
+- 'Here and now.' A compact expression built around 'here' and 'now'.
+- 'Exactly.' Here 'definitely' sets up the idea, while 'definitely' comes at the end for emphasis. And Vika jumps in.
 - 'Good.' — Built around the key adverb meaning 'good, fine'.

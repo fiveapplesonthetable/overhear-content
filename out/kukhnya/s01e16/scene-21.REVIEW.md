@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, can I help?' -- Anya asks if she can assist the Chef. The Russian word '' is a useful verb meaning 'to help'. ENG
-- 'I don't know.' -- t know.' The Chef is very uncertain. ENG
-- 'He fined me.' -- The inspector was not happy with the kitchen. ENG
-- 'You must be deported.' -- A terrible consequence for Anya. ENG
-- 'I'm thinking, what is this?' -- m thinking, what is this?' The Chef is confused by the situation. ENG
-- 'I don't think so.' -- t think so.' He rejects the idea of a simple solution. ENG
-- 'Maybe with another...' -- He considers talking to someone else. ENG
-- 'We could negotiate.' -- The Russian verb here is about reaching an agreement. ENG
+- 'Chef, can I help?' There is no question word here — in Russian, rising intonation on 'to help' is enough to make it a question. And Chef jumps in.
+- 'I don't know.' Notice the word order: 'know' comes first, and 'know' finishes the sentence.
+- 'He fined me.' Here 'me' sets up the idea, while 'to fine' comes at the end for emphasis.
+- 'You must be deported.' You'll hear 'you' all the time in the show, here connected with 'deport'.
+- 'I'm thinking, what is this?' The key word here means 'I think', which Chef combines with 'what'.
+- 'I don't think so.' Notice the word order: 'I think' comes first, and 'I think' finishes the sentence.
+- 'Maybe with another...' Listen for the word meaning 'can' right alongside 'can' in this line.
+- 'We could negotiate.' Here 'to agree' sets up the idea, while 'to succeed' comes at the end for emphasis.
 - 'There.' -- Anya points something out. ENG
-- 'Though...' -- She considers a wild idea. ENG
-- 'If you save his life...' -- A very dramatic suggestion. The verb '' means 'you will save'. ENG
-- 'Maybe he will forgive us.' -- The verb '' means 'he will forgive'. She is hopeful. ENG
-- 'A chair, right?' -- She offers him a seat to execute her plan. ENG
+- 'Though...' In Russian, 'at least' leads into 'at least' in a very natural everyday phrasing.
+- 'If you save his life...' Listen for the word meaning 'you' right alongside 'him' in this line.
+- 'Maybe he will forgive us.' Anya puts 'can' up front so the listener immediately catches the tone, followed by 'he'.
+- 'A chair, right?' Anya starts with 'little chair' and pairs it with 'little chair' to make the point clear.

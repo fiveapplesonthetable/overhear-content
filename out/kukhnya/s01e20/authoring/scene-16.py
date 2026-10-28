@@ -63,13 +63,13 @@ OPENER = "Let us break down this interaction."
 
 WALK = [
     (4, None,
-     "'I do not need them anymore.' -- ENG He explains that he is letting go of the item."),
+     "'I do not need them anymore.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'they' straight to 'needed'."),
     (7, None,
-     "'Here, take it, old man.' -- ENG He officially hands over the family heirloom."),
+     "'Here, take it, old man.' Notice the word order: 'hang in there' comes first, and 'old man' finishes the sentence."),
     (9, None,
-     "'You need it more than I do.' -- ENG He assures the poor man that the gift is well-deserved."),
+     "'You need it more than I do.' Max puts 'for you' up front so the listener immediately catches the tone, followed by 'more needed'."),
     (13, None,
-     "'You are a very kind person.' -- ENG The man sincerely expresses his deep gratitude."),
+     "'You are a very kind person.' Listen for the word meaning 'you' right alongside 'very much' in this line."),
 ]
 
 TRANSITION = "Now let us listen to the conversation again without interruption."

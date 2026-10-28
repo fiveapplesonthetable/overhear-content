@@ -125,7 +125,7 @@ WALK = [
   "'Better into my coffin than to you! You're a bad man, Arkady.' Just then Samson comes in for breakfast, and "
   "Nina tries to calm the old lady down—and switches the channel."),
  (13, "Клавдия Викторовна, здесь же ребёнок, мы завтракаем.",
-  "'Klavdia Viktorovna, there's a child here, we're having breakfast.'"),
+  "'Klavdia Viktorovna, there's a child here, we're having breakfast.' Nina starts with 'Klavdia' and pairs it with 'Viktorovna' to make the point clear."),
  (13, "А телевизор, между прочим, наш!",
   "'And the television, by the way, is ours!' Remember that Klavdia wants a television of her very own. And the "
   "moment Nina changes the channel, a breaking news report comes on."),

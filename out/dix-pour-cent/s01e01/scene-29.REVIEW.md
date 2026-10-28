@@ -31,7 +31,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'No! Let go of the contract!' She's talking to a dog, so she uses the casual 'you' command. You'd never use the polite form with an animal. Then a voice behind her.
 - 'What are you doing?' The opening chunk is a fixed way to start a 'what' question; just learn it as one block. Arlette uses the casual 'you' with Camille, a young stranger. Older people sometimes do that.
-- 'Look, here's your owner.' Camille says this to the dog, not to Arlette, so again it's the casual 'you'. The word she uses for 'owner' is the feminine one, literally the dog's 'mistress'.
+- 'Look, here's your owner.' Listen for the word meaning 'look' right alongside 'here is' in this line.
 - 'I was walking by.' Literally 'I was passing through there'. The ending of the verb tells you it was going on in the background, an ongoing past action.
 - 'He was playing with a contract.' Same background past tense, same ending sound. Arlette is not convinced.
 - 'I doubt it. Jean Gabin hates contracts.' The dog is named after a famous French film star of the old days, which tells you a lot about Arlette.

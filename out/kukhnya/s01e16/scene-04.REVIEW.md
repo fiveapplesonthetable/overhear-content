@@ -28,16 +28,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Chef.' — Built around the key proper name meaning 'chef, boss'.
-- 'What do you need?' — Notice the pronoun meaning 'what' paired with the pronoun for 'for you, to you'.
-- 'And what are you preparing?' — Notice the pronoun meaning 'what' paired with the pronoun for 'you'.
-- 'And what is it to you?' — Notice the pronoun meaning 'for you, to you' paired with the adjective for 'what a'.
-- 'Do you have nothing to do?' — Notice the pronoun meaning 'for you, to you' paired with the noun for 'nothing (to do it with)'.
-- 'I have five minutes.' — Notice the pronoun meaning 'me' paired with the verb for 'there is (   = I have)'.
-- 'I wanted to learn from you.' — Notice the pronoun meaning 'I' paired with the verb for 'wanted'.
-- 'Go work.' — Notice the verb meaning 'go' paired with the verb for 'work'.
-- 'And can I try it?' — Notice the adverb meaning 'may, can' paired with the verb for 'to taste'.
-- 'No, you cannot.' — Built around the key adverb meaning 'not allowed, can't'.
-- 'Why?' — Built around the key adverb meaning 'why'.
-- 'Because I said so.' — Notice the adverb meaning 'because (with )' paired with the pronoun for 'what'.
-- 'Alright, I understand.' — Notice the pronoun meaning 'I' paired with the verb for 'understood? (got it?)'.
-- 'Then go from here.' — Notice the adverb meaning 'back then' paired with the verb for 'go'.
+- 'What do you need?' The key word here means 'what', which Viktor combines with 'for you'. And Max jumps in.
+- 'And what are you preparing?' Max puts 'what' up front so the listener immediately catches the tone, followed by 'you'.
+- 'And what is it to you?' Viktor uses the casual singular 'you' with 'for you', as close colleagues and friends do.
+- 'Do you have nothing to do?' In Russian, 'for you' leads into 'to attend to' in a very natural everyday phrasing. Max answers straight away.
+- 'I have five minutes.' Max starts with 'me' and pairs it with 'there is' to make the point clear.
+- 'I wanted to learn from you.' The key word here means 'I', which Max combines with 'wanted'.
+- 'Go work.' Listen for the word meaning 'go' right alongside 'work' in this line. Then Max replies.
+- 'And can I try it?' The first content word means 'may', and 'to taste' rounds out the thought.
+- 'No, you cannot.' A compact expression built around 'not allowed' and 'not allowed'.
+- 'Why?' Listen for the word meaning 'why' right alongside 'why' in this line. And Viktor jumps in.
+- 'Because I said so.' The question word for 'what' comes right at the start, followed directly by 'said'.
+- 'Alright, I understand.' Notice the word order: 'I' comes first, and 'understood?' finishes the sentence.
+- 'Then go from here.' The key word here means 'back then', which Viktor combines with 'go'.

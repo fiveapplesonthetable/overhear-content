@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostya, we have to talk.' -- She tells him this.
-- 'Can it wait?' -- He asks her a question.
-- 'No, it is important.' -- She tells him this.
-- 'Nastya, I have missed you so much.' -- He talks directly to her.
-- 'Please, listen to me.' -- She tells him this.
-- 'I am listening to you.' -- He talks directly to her.
-- 'Our relationship is moving fast.' -- She tells him this.
-- 'I think this is great.' -- He explains his feelings to her.
-- 'But we need to discuss our future.' -- She tells him this.
-- 'We have a lot of time.' -- He says this to her.
-- 'No, the time is now.' -- She tells him this.
-- 'Okay, I am ready to talk.' -- He explains his feelings to her.
+- 'Kostya, we have to talk.' Russian expresses this impersonally, literally saying 'to me' or 'to you' with 'to talk'. Then Kostya replies.
+- 'Can it wait?' Notice the word order: 'this' comes first, and 'to wait' finishes the sentence.
+- 'No, it is important.' Here 'this' sets up the idea, while 'important' comes at the end for emphasis.
+- 'Nastya, I have missed you so much.' Notice the word order: 'Nastya' comes first, and 'missed' finishes the sentence. And Nastya jumps in.
+- 'Please, listen to me.' In Russian, 'listen' leads into 'me' in a very natural everyday phrasing.
+- 'I am listening to you.' Kostya starts with 'I' and pairs it with 'you' to make the point clear.
+- 'Our relationship is moving fast.' Nastya puts 'relations' up front so the listener immediately catches the tone, followed by 'develop'. Kostya answers straight away.
+- 'I think this is great.' The key word here means 'I', which Kostya combines with 'I think'.
+- 'But we need to discuss our future.' The first content word means 'us', and 'future' rounds out the thought.
+- 'We have a lot of time.' A compact expression built around 'us' and 'time'. Then Nastya replies.
+- 'No, the time is now.' Notice the word order: 'time' comes first, and 'now' finishes the sentence.
+- 'Okay, I am ready to talk.' Listen for the word meaning 'good' right alongside 'I' in this line.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Our rent?' -- ENG He asks him a question.
-- 'What do you mean?' -- ENG He talks directly to him.
-- 'Exactly what I said.' -- ENG He explains his feelings to him.
-- 'I will explain everything to you now.' -- ENG He talks directly to him.
-- 'I do not understand anything.' -- ENG He explains his feelings to him.
-- 'Let's assume one situation.' -- ENG He says this to him.
-- 'Timur brings us cognac.' -- ENG He says this to him.
-- 'Five liters of cognac every week.' -- ENG He says this to him.
-- 'Does he bring it for free?' -- ENG He asks him a question.
-- 'Yes, absolutely for free.' -- ENG He says this to him.
-- 'And what do we do with it?' -- ENG He asks him a question.
-- 'This cognac goes to payment.' -- ENG He says this to him.
+- 'Our rent?' Max starts with 'rent' and pairs it with 'rent' to make the point clear.
+- 'What do you mean?' Max puts 'sense' up front so the listener immediately catches the tone, followed by 'sense'.
+- 'Exactly what I said.' Here 'straight' sets up the idea, while 'sense' comes at the end for emphasis.
+- 'I will explain everything to you now.' You'll hear 'now' all the time in the show, here connected with 'I'll explain'. Then Max replies.
+- 'I do not understand anything.' The key word here means 'I', which Max combines with 'nothing'.
+- 'Let's assume one situation.' Ilya starts with 'suppose' and pairs it with 'one' to make the point clear.
+- 'Timur brings us cognac.' Ilya puts 'Timur' up front so the listener immediately catches the tone, followed by 'bring'.
+- 'Five liters of cognac every week.' In Russian, 'five' leads into 'for a week' in a very natural everyday phrasing.
+- 'Does he bring it for free?' You'll hear 'he' all the time in the show, here connected with 'for free'.
+- 'Yes, absolutely for free.' A compact expression built around 'completely' and 'for free'. Max answers straight away.
+- 'And what do we do with it?' Listen for the word meaning 'what' right alongside 'we' in this line.
+- 'This cognac goes to payment.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'cognac' straight to 'payment'.

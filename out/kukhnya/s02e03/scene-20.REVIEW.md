@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What is this?' -- The speaker states this. ENG
-- 'What kind of restaurant is this?' -- The speaker states this. ENG
-- 'I'm sorry, I didn't mean to.' -- The speaker states this. ENG
-- 'Any plans for tonight?' -- The speaker states this. ENG
-- 'I don't have any.' -- The speaker states this. ENG
-- 'Got something in mind?' -- The speaker states this. ENG
-- 'One thing.' -- The speaker states this. ENG
-- 'But it takes two.' -- The speaker states this. ENG
-- 'What a subtle hint.' -- The speaker states this. ENG
-- 'I wanted to go shopping.' -- The speaker states this. ENG
-- 'But I like your idea.' -- The speaker states this. ENG
-- 'Excellent.' -- The speaker states this. ENG
+- 'What is this?' Here 'what' sets up the idea, while 'on earth' comes at the end for emphasis.
+- 'What kind of restaurant is this?' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'what' straight to 'restaurant'.
+- 'I'm sorry, I didn't mean to.' The '-a' on the end of the past-tense verb for 'wanted' tells you the subject is feminine. Chef Viktor answers straight away.
+- 'Any plans for tonight?' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'plans' straight to 'evening'.
+- 'I don't have any.' Notice the word order: 'me' comes first, and 'me' finishes the sentence.
+- 'Got something in mind?' Elena starts with 'what' and pairs it with 'there is' to make the point clear. Then Chef Viktor replies.
+- 'One thing.' Chef Viktor puts 'option' up front so the listener immediately catches the tone, followed by 'one'.
+- 'But it takes two.' You'll hear 'necessary' all the time in the show, here connected with 'the two of us together'.
+- 'What a subtle hint.' The question word for 'what a' comes right at the start, followed directly by 'hint'.
+- 'I wanted to go shopping.' The key word here means 'I', which Elena combines with 'wanted'.
+- 'But I like your idea.' The first content word means 'option', and 'is pleasing' rounds out the thought.
+- 'Excellent.' A compact expression built around 'perfect' and 'perfect'.

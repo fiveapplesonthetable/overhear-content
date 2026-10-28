@@ -33,7 +33,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Well then, how is it?' Ilona is genuinely impressed.
 - 'Incredible!' she exclaims.
 - 'Is it Spanish?' Ignatyev beams with local pride.
-- 'We make it right here, in Lozhkino.'
+- 'We make it right here, in Lozhkino.' Listen for the word meaning 'right here' right alongside 'make' in this line.
 - 'And better than over there!' Then his face darkens as he thinks of the town authorities.
 - 'If only the people from City Hall weren't strangling me!' Notice the conditional particle 'would' with the past tense for an unreal condition.
 - 'I would really expand here.' Charmed by Ilona's praise, he makes her a generous offer.
@@ -47,10 +47,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'So what kind of weak spot?' That phrase 'what for a...' means 'what kind of...'. First Yulya secures her deal.
 - 'And you won't tell my parents about me?' Ilona promises.
 - 'I won't tell.' So Yulya shares the boss's family secret.
-- 'He loves his daughter madly.'
+- 'He loves his daughter madly.' the speaker starts with 'daughter' and pairs it with 'he' to make the point clear.
 - 'And she doesn't want to see him.' Yulya explains why they fell out.
 - 'He wanted her to continue his business.' Notice how 'wanted that she continue' uses the past tense after 'in order that'. Instead, his daughter chose the exact opposite path.
 - 'And she's a ballerina, and a vegetarian on top of that!' Literally 'yes still and a vegetarian!'.
-- 'They haven't spoken for a year already.'
+- 'They haven't spoken for a year already.' the speaker starts with 'they' and pairs it with 'already' to make the point clear.
 - 'She left home.' And Yulya adds one last observation.
 - 'And he never learned how to talk to girls.' Ilona's eyes light up with a new plan.

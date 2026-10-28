@@ -15,7 +15,7 @@ SOURCE_NOTE = "Cues."
 INTRO = "In this scene focused on in search of the key, viktor Petrovich is asked to open the fridge. He pretends to need the spare key. Let's listen closely to Chef Viktor and the staff's exchange in Russian first, and then walk through each line together."
 OPENER = "Now let us examine the conversation line by line."
 TRANSITION = "This is the end of the scene."
-OUTRO = "Goodbye."
+OUTRO = "And that's it for this scene. When you watch the episode, listen out for the exchange around in search of the key, and for the words meaning 'inspector' and 'know'. You'll catch them now. See you next time."
 CLOSING = ("anya", "Конец.")
 
 STORY = [
@@ -35,27 +35,27 @@ STORY = [
 
 WALK = [
     (0, None,
-     "'The inspector is here.' — Notice the noun meaning 'inspector' paired with the adverb for 'here'. ENG"),
+     "'The inspector is here.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'inspector' straight to 'here'."),
     (1, None,
-     "'I know.' — Notice the pronoun meaning 'I' paired with the verb for '(I) know'. ENG"),
+     "'I know.' The first content word means 'I', and 'know' rounds out the thought. And Chef Viktor jumps in."),
     (2, None,
-     "'He wants to check the kitchen.' — Notice the pronoun meaning 'he' paired with the verb for 'wants'. ENG"),
+     "'He wants to check the kitchen.' A compact expression built around 'he' and 'kitchen'."),
     (3, None,
-     "'Let him check.' — Built around the key verb meaning 'is testing'. ENG"),
+     "'Let him check.' In Russian, 'is testing' leads into 'is testing' in a very natural everyday phrasing."),
     (4, None,
-     "'He is looking for illegals.' — Notice the pronoun meaning 'he' paired with the verb for 'looks for, seeks'. ENG"),
+     "'He is looking for illegals.' Chef Viktor starts with 'he' and pairs it with 'looks for' to make the point clear. /  / answers straight away."),
     (5, None,
-     "'We do not have them.' — Notice the pronoun meaning 'us' paired with the pronoun for 'them'. ENG"),
+     "'We do not have them.' /  / puts 'us' up front so the listener immediately catches the tone, followed by 'them'."),
     (6, None,
-     "'Where is Fedya?' — Notice the adverb meaning 'where' paired with the proper name for 'Fedya'. ENG"),
+     "'Where is Fedya?' Listen for the word meaning 'where' right alongside 'Fedya' in this line."),
     (7, None,
-     "'He is in the fridge.' — Notice the pronoun meaning 'he' paired with the noun for 'fridge'. ENG"),
+     "'He is in the fridge.' In Russian, 'he' leads into 'fridge' in a very natural everyday phrasing. Then Chef Viktor replies."),
     (8, None,
-     "'Excellent.' — Built around the key adverb meaning 'perfect, great'. ENG"),
+     "'Excellent.' You'll hear 'perfect' all the time in the show, here connected with 'perfect'."),
     (9, None,
-     "'Viktor Petrovich, would you be so kind.' — Notice the proper name meaning 'Viktor' paired with the proper name for 'Petrovich'. ENG"),
+     "'Viktor Petrovich, would you be so kind.' Notice the word order: 'Viktor' comes first, and 'kind' finishes the sentence."),
     (10, None,
-     "'Open the fridge, please.' — Notice the verb meaning 'open' paired with the noun for 'fridge'. ENG"),
+     "'Open the fridge, please.' Listen for the word meaning 'open' right alongside 'fridge' in this line."),
     (11, None,
      "'I am waiting.' -- The speaker states this. ENG"),
 ]

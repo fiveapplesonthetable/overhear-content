@@ -31,7 +31,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'We conducted polls. Verses work best of all!' 'Best of all' is literally 'better of everything'. Ksyusha explains why.
 - 'It is easy, accessible, and easy to remember.' Literally 'is remembered well'. Then she reads the slogan on the poster.
-- 'Pensioner, does your knee hurt?'
+- ''Pensioner, does your knee hurt?' There is no question word here — in Russian, rising intonation on 'knee' is enough to make it a question.
 - 'Vote for Pavel Osipenko!' In Russian, the word for 'knee' rhymes with the surname 'Osipenko'. Notice that voting 'for' someone uses the preposition 'behind, for' plus the accusative case. Ksyusha beams proudly.
 - 'Pavel Yuryevich likes this very much!' Literally 'to Pavel Yuryevich this is very pleasing'. From the back of the room, Ilona speaks up coolly.
 - 'I'm glad.' The short adjective has the feminine ending because Ilona is a woman.
@@ -47,7 +47,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'He has neither brains, nor money, nor education!' Repeated before each noun, that little negative particle means 'neither ... nor ...', and every noun after it goes into the genitive case. Ksyusha asks a pointed question.
 - 'Pavel Yuryevich, do they show you a lot on television?' Pasha mumbles.
 - 'Well, not yet so far.' And Ksyusha delivers the punchline.
-- 'And they show him all day long!'
+- 'And they show him all day long!' In Russian, 'him' leads into 'show' in a very natural everyday phrasing.
 - 'He is the most famous man in Sineozersk.' The exact same words Arkady just used! Pasha loses his temper.
-- 'He is the most famous clown in Sineozersk!'
-- 'I don't want to hear about this.'
+- 'He is the most famous clown in Sineozersk!' A compact expression built around 'he' and 'Sineozersk'.
+- 'I don't want to hear about this.' Listen for the word meaning 'I' right alongside 'want' in this line.

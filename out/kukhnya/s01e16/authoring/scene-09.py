@@ -57,33 +57,33 @@ OPENER = "Now let us examine the conversation line by line."
 
 WALK = [
     (0, None,
-     "'Your restaurant will be excellent.' -- The speaker states this. ENG"),
+     "'Your restaurant will be excellent.' the speaker uses the polite plural 'you' here alongside 'restaurant', keeping a formal or respectful tone. Elena answers straight away."),
     (1, None,
-     "'We do everything right.' -- The speaker states this. ENG"),
+     "'We do everything right.' Notice the word order: 'we' comes first, and 'right' finishes the sentence."),
     (2, None,
-     "'Thank you very much.' -- The speaker states this. ENG"),
+     "'Thank you very much.' Listen for the word meaning 'big' right alongside 'thank you' in this line."),
     (3, None,
-     "'You really surprised me.' -- The speaker states this. ENG"),
+     "'You really surprised me.' Here 'to surprise' uses the plural past-tense ending, which also serves for the polite 'you'."),
     (4, None,
-     "'Not a single cook without documents.' -- The speaker states this. ENG"),
+     "'Not a single cook without documents.' The key word here means 'alone', which the speaker combines with 'cook'."),
     (5, None,
-     "'I got used to working by the law.' -- The speaker states this. ENG"),
+     "'I got used to working by the law.' The first content word means 'I', and 'law' rounds out the thought."),
     (6, None,
-     "'It was very pleasant for me.' -- The speaker states this. ENG"),
+     "'It was very pleasant for me.' the speaker starts with 'to me' and pairs it with 'was' to make the point clear."),
     (7, None,
-     "'Let us go to another restaurant?' -- The speaker states this. ENG"),
+     "'Let us go to another restaurant?' In Russian, 'let's go' leads into 'restaurant' in a very natural everyday phrasing."),
     (8, None,
-     "'Here is Claude Monet.' -- The speaker states this. ENG"),
+     "'Here is Claude Monet.' The key word here means 'here', which the speaker combines with 'there is'."),
     (9, None,
-     "'Excellent, I love French cuisine.' -- The speaker states this. ENG"),
+     "'Excellent, I love French cuisine.' Here 'perfect' sets up the idea, while 'kitchen' comes at the end for emphasis. Chef Viktor answers straight away."),
     (10, None,
-     "'An inspection is coming to us!' -- The speaker states this. ENG"),
+     "'An inspection is coming to us!' Listen for the word meaning 'us' right alongside 'goes' in this line."),
     (11, None,
-     "'Everyone without documents, get out!' -- The speaker states this. ENG"),
+     "'Everyone without documents, get out!' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'documents' straight to 'documents'."),
 ]
 
 
 
 TRANSITION = "Now let us listen to the conversation once again."
-OUTRO = "The conversation concludes the matter at hand."
+OUTRO = "And that's it for this scene. When you watch the episode, listen out for the exchange around inspection at the rivals, and for the words meaning 'restaurant' and 'will be'. You'll catch them now. See you next time."
 CLOSING = ("dima", "Все без документов, вон!")

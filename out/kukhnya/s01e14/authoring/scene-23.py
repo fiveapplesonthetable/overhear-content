@@ -31,18 +31,18 @@ STORY = [
 
 OPENER = "Let's go through it line by line. Kostya nods toward Max."
 WALK = [
- (0, None, "'Maxim did great.' It is a simple phrase."),
- (1, None, "'He helped Vika.' It is a simple phrase."),
- (2, None, "'He saved the evening.' It is a simple phrase."),
- (3, None, "'Yeah, she said awful things.' It is a simple phrase."),
- (4, None, "'All sorts of awful things to him.' It is a simple phrase."),
- (5, None, "'And she feels terrible.' It is a simple phrase."),
- (6, None, "'So how's she going to make it right?' It is a simple phrase."),
- (7, None, "'What will she do?' It is a simple phrase."),
- (8, None, "'Ah, vodka.' It is a simple phrase."),
- (9, None, "'She will pour him vodka.' It is a simple phrase."),
- (10, None, "'That's a good plan.' It is a simple phrase."),
- (11, None, "'She knows what to do.' It is a simple phrase."),
+ (0, None, "'Maxim did great.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'Maxim' straight to 'well done'."),
+ (1, None, "'He helped Vika.' The first content word means 'he', and 'Vika' rounds out the thought."),
+ (2, None, "'He saved the evening.' A compact expression built around 'he' and 'evening'. And Nastya jumps in."),
+ (3, None, "'Yeah, she said awful things.' Nastya puts 'it' up front so the listener immediately catches the tone, followed by 'said'."),
+ (4, None, "'All sorts of awful things to him.' The key word here means 'him', which Nastya combines with 'any'."),
+ (5, None, "'And she feels terrible.' Nastya starts with 'to her' and pairs it with 'very much' to make the point clear. Kostya answers straight away."),
+ (6, None, "'So how's she going to make it right?' Kostya puts 'how' up front so the listener immediately catches the tone, followed by 'it'."),
+ (7, None, "'What will she do?' In Russian, 'what' leads into 'do' in a very natural everyday phrasing."),
+ (8, None, "'Ah, vodka.' The first content word means 'vodka', and 'vodka' rounds out the thought."),
+ (9, None, "'She will pour him vodka.' Notice the word order: 'it' comes first, and 'vodka' finishes the sentence."),
+ (10, None, "'That's a good plan.' Listen for the word meaning 'this' right alongside 'good' in this line."),
+ (11, None, "'She knows what to do.' The question word for 'what' comes right at the start, followed directly by 'do'."),
 ]
 
 TRANSITION = "Now let's hear the whole scene once more, start to finish."

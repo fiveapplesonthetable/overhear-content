@@ -102,7 +102,7 @@ WALK = [
  (4, "Руку дай, говорю!",
   "'Give me your hand, I say!' Ilona holds Yulya's wrist for a moment as if checking her pulse, then drops it."),
  (5, "Ты меня за идиотку принимаешь?",
-  "'Do you take me for an idiot?'"),
+  "'Do you take me for an idiot?' Listen for the word meaning 'you' right alongside 'me' in this line."),
  (5, "Никакая ты не беременная!",
   "'You're not pregnant at all!' Yulya gasps in amazement."),
  (6, None,
@@ -133,7 +133,7 @@ WALK = [
   "'I'll go to auditions and become an actress.' Having moved to Moscow from Sineozersk herself years ago, Ilona "
   "nods."),
  (14, "Ну да, это понятно.",
-  "'Well yes, that's understandable.'"),
+  "'Well yes, that's understandable.' Here 'this' sets up the idea, while 'understandable' comes at the end for emphasis."),
  (14, "Потом разберёмся.",
   "'We'll sort it out later.' Right now Ilona has a campaign sponsor to meet."),
  (15, None,

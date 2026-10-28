@@ -45,10 +45,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Everyone talks, while I get things done.' Literally 'all speak, and I do'. Just then Slavik runs in with bottles of free beer sent by the local brewery, who want the people's candidate to pose with a bottle. Samson reaches for one, and Arkady slaps his hand away.
 - 'Wait, don't!' Two quick words to stop him.
 - 'Hands off the beer!' Literally 'hands away from the beer', with 'beer' in the genitive case. Then Arkady gives him a pep talk.
-- 'Listen to me, Vanya.'
+- 'Listen to me, Vanya.' A compact expression built around 'listen to' and 'Vanya'.
 - 'We need to be patient a little and work a bit.' Both verbs have the prefix 'po-', which means doing something for a short while.
 - 'And at the end a tasty carrot is waiting for us all!' He means the big prize once Samson wins the election. Knowing Samson's weakness, Arkady turns to Nina.
 - 'Nina, keep an eye on him, please.' He uses the polite plural command with Nina.
 - 'I'll keep an eye on him.' First-person perfective future: 'I will supervise'. Before heading out to go door to door, Arkady gives one last warning.
-- 'There will be various provocations.'
+- 'There will be various provocations.' Here 'there will be' sets up the idea, while 'provocations' comes at the end for emphasis.
 - 'All contacts go only through me.' After the preposition 'through', 'me' is in the accusative.

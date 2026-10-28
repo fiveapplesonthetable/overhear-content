@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Alright, we will figure this out.' — Notice the pronoun meaning 'we' paired with the verb for 'will sort this out'.
-- 'Everything will be fine.' — Notice the det meaning 'everything' paired with the verb for 'will be'.
-- 'What should we do now?' — Notice the pronoun meaning 'what' paired with the pronoun for '(to) us'.
-- 'Let's go.' — Built around the key verb meaning 'here we go, let's go'.
-- 'Where are we going?' — Notice the adverb meaning 'where to' paired with the pronoun for 'we'.
-- 'We are not going anywhere.' — Notice the pronoun meaning 'we' paired with the adverb for 'nowhere, anywhere (with motion)'.
-- 'It means that we are starting.' — Notice the pronoun meaning 'this' paired with the adverb for 'then, so'.
-- 'Now I understand everything.' — Notice the adverb meaning 'now' paired with the pronoun for 'I'.
-- 'Then let's work.' — Notice the adverb meaning 'back then' paired with the verb for 'let's (do it)'.
-- 'Yes, back to work.' — Built around the key noun meaning 'job'.
-- 'We have little time.' — Notice the pronoun meaning 'us' paired with the adverb for 'little, not enough'.
-- 'We must be in time.' — Notice the pronoun meaning 'we' paired with the adjective for 'must, should'.
-- 'Of course we will be in time.' — Notice the adverb meaning 'of course' paired with the pronoun for 'we'.
-- 'Then we start right now.' — Notice the adverb meaning 'back then' paired with the verb for 'are starting'.
+- 'Alright, we will figure this out.' The reflexive ending on the verb for 'will sort this out' turns the action back onto the subject.
+- 'Everything will be fine.' Notice the word order: 'will be' comes first, and 'good' finishes the sentence. Ilya answers straight away.
+- 'What should we do now?' Here 'what' sets up the idea, while 'now' comes at the end for emphasis.
+- 'Let's go.' You'll hear 'here we go' all the time in the show, here connected with 'here we go'.
+- 'Where are we going?' The key word here means 'where to', which Sasha combines with 'we'. Then Max replies.
+- 'We are not going anywhere.' Max starts with 'we' and pairs it with 'nowhere' to make the point clear.
+- 'It means that we are starting.' Max puts 'this' up front so the listener immediately catches the tone, followed by 'then'.
+- 'Now I understand everything.' In Russian, 'now' leads into 'understood?' in a very natural everyday phrasing. And Sasha jumps in.
+- 'Then let's work.' The key word here means 'back then', which Sasha combines with 'let's'.
+- 'Yes, back to work.' A compact expression built around 'job' and 'job'.
+- 'We have little time.' Ilya starts with 'us' and pairs it with 'little' to make the point clear. Sasha answers straight away.
+- 'We must be in time.' Notice the word order: 'we' comes first, and 'to make it' finishes the sentence.
+- 'Of course we will be in time.' Listen for the word meaning 'of course' right alongside 'we' in this line.
+- 'Then we start right now.' The first content word means 'back then', and 'now' rounds out the thought.

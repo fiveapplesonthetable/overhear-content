@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Does this worry you too?' — Notice the pronoun meaning 'you' paired with the pronoun for 'this'.
-- 'What exactly?' — Built around the key pronoun meaning 'what'.
-- 'For example, will Max come or not?' — Notice the adverb meaning 'for example' paired with the proper name for 'Max'.
-- 'I think he will come.' — Notice the pronoun meaning 'I' paired with the verb for 'I think'.
-- 'He loves our kitchen.' — Notice the pronoun meaning 'he' paired with the verb for 'loves'.
-- 'And he loves to work.' — Notice the pronoun meaning 'he' paired with the verb for 'loves'.
-- 'And what about the chef?' — Notice the adverb meaning 'how' paired with the proper name for 'chef, boss'.
+- 'Does this worry you too?' Here 'you' sets up the idea, while 'to worry' comes at the end for emphasis.
+- 'What exactly?' You'll hear 'what' all the time in the show, here connected with 'what'.
+- 'For example, will Max come or not?' Here 'for example' sets up the idea, while 'will come' comes at the end for emphasis. Senya answers straight away.
+- 'I think he will come.' Senya starts with 'I' and pairs it with 'I think' to make the point clear.
+- 'He loves our kitchen.' Ilya puts 'he' up front so the listener immediately catches the tone, followed by 'loves'.
+- 'And he loves to work.' The key word here means 'he', which Senya combines with 'loves'. Then Ilya replies.
+- 'And what about the chef?' Ilya puts 'how' up front so the listener immediately catches the tone, followed by 'chef'.
 - 'The chef will forgive him.' — Notice the proper name meaning 'chef, boss' paired with the pronoun for 'him'.
-- 'They will make peace.' — Notice the pronoun meaning 'they' paired with the verb for 'to make up, to reconcile'.
-- 'Of course they will make peace.' — Notice the adverb meaning 'of course' paired with the verb for 'to make up, to reconcile'.
-- 'Then everything will be fine.' — Notice the adverb meaning 'back then' paired with the det for 'everything'.
-- 'Yes, we are just waiting.' — Notice the adverb meaning 'just' paired with the verb for 'we wait'.
+- 'They will make peace.' The first content word means 'they', and 'to make up' rounds out the thought. And Senya jumps in.
+- 'Of course they will make peace.' A compact expression built around 'of course' and 'to make up'.
+- 'Then everything will be fine.' The first content word means 'back then', and 'good' rounds out the thought.
+- 'Yes, we are just waiting.' A compact expression built around 'just' and 'we wait'.

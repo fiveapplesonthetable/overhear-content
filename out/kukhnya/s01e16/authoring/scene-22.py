@@ -31,20 +31,20 @@ STORY = [
 OPENER = "Let's review the scene line by line."
 
 WALK = [
-    (0, None, "'What did he say?' -- The speaker asks a question. ENG"),
-    (1, None, "'He told us to leave.' -- The speaker states this. ENG"),
-    (2, None, "'I do not believe this.' -- The speaker states this. ENG"),
-    (3, None, "'Is this the end?' -- The speaker states this. ENG"),
-    (4, None, "'I do not know.' -- The speaker states this. ENG"),
-    (5, None, "'Chef, what to do?' -- The speaker states this. ENG"),
-    (6, None, "'We must leave.' -- The speaker states this. ENG"),
-    (7, None, "'I am very sorry.' -- The speaker states this. ENG"),
-    (8, None, "'Pack your things.' -- The speaker states this. ENG"),
-    (9, None, "'I am sorry.' -- The speaker states this. ENG"),
-    (10, None, "'It is my duty.' -- The speaker states this. ENG"),
-    (11, None, "'Good.' -- The speaker states this. ENG"),
+    (0, None, "'What did he say?' The first content word means 'what', and 'said' rounds out the thought."),
+    (1, None, "'He told us to leave.' Notice the word order: 'he' comes first, and 'to leave' finishes the sentence. And Chef jumps in."),
+    (2, None, "'I do not believe this.' Here 'I' sets up the idea, while 'this' comes at the end for emphasis."),
+    (3, None, "'Is this the end?' You'll hear 'this' all the time in the show, here connected with 'end'."),
+    (4, None, "'I do not know.' The key word here means 'I', which Chef combines with 'know'. Maks answers straight away."),
+    (5, None, "'Chef, what to do?' Maks starts with 'chef' and pairs it with 'what' to make the point clear."),
+    (6, None, "'We must leave.' In Russian, 'we' leads into 'to leave' in a very natural everyday phrasing."),
+    (7, None, "'I am very sorry.' Anya starts with 'to me' and pairs it with 'very much' to make the point clear."),
+    (8, None, "'Pack your things.' The first content word means 'to intend', and 'to intend' rounds out the thought."),
+    (9, None, "'I am sorry.' The key word here means 'sorry', which Anya combines with 'sorry'."),
+    (10, None, "'It is my duty.' Listen for the word meaning 'this' right alongside 'debt' in this line. And Chef jumps in."),
+    (11, None, "'Good.' You'll hear 'good' all the time in the show, here connected with 'good'."),
 ]
 
 TRANSITION = "Let's listen to the dialog one more time."
-OUTRO = "Things are getting very interesting in the kitchen. See you next time."
+OUTRO = "And that's it for this scene. When you watch the episode, listen out for the exchange around my duty, and for the words meaning 'said' and 'to leave'. You'll catch them now. See you next time."
 CLOSING = ("anya", "До свидания!")

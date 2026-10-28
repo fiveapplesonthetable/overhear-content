@@ -49,5 +49,5 @@ WALK = [
 
 TRANSITION = "Now let's hear the whole thing once more."
 
-OUTRO = "That wraps up this scene."
+OUTRO = "And that's it for this scene. When you watch the episode, listen out for the exchange around the homeless, and for the words meaning 'ready' and 'let's go'. You'll catch them now. See you next time."
 CLOSING = ("anya", "До свидания!")

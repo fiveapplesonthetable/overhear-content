@@ -21,7 +21,7 @@ INTRO = (
 )
 OPENER = "Let's go back through it. A song begins."
 TRANSITION = "Let's listen to the whole scene again."
-OUTRO = "That concludes episode four."
+OUTRO = "And that's it for this scene. When you watch the episode, listen out for the exchange around music in the head, and for the words meaning 'step' and 'city'. You'll catch them now. See you next time."
 
 STORY = [
     ("lea", "Je marche dans la ville.", "I walk in the city.", [], ""),

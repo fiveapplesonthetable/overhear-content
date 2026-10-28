@@ -46,10 +46,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'And who got your mother a flat?' Literally 'made a flat for your mum', with 'your mum' in the dative case.
 - 'Under the Affordable Housing programme! Did you forget?' That's the town housing scheme for people in need. Berg defends himself.
 - 'My mother had a right to the flat. She is a pensioner.' 'A right to' uses the preposition 'onto' plus the accusative. Arkady points out the catch.
-- 'Half the town had the right here!'
+- 'Half the town had the right here!' The first content word means 'here', and 'right' rounds out the thought.
 - 'But she didn't stand in the queue.' Ordinary people wait years on the housing waiting list. Then Arkady tries to blackmail the judge.
 - 'And what if they find out about this in court?' Literally 'if about this they find out on the court'. Berg turns the threat right back on him.
-- 'Then I'll give you two more years!'
+- 'Then I'll give you two more years!' You'll hear 'then' all the time in the show, here connected with 'years'.
 - 'For property fraud.' After all, Arkady was the mayor who signed the papers! Berg hangs up, and suddenly Golovkin, who has heard every word in the room, speaks up in shock.
 - 'Did you hand out waiting-list flats through connections?' 'Through connections' — pulling strings for friends — is a classic Russian phrase.
 - 'I've been standing in the queue for fifteen years!' Russian uses the present tense for an action that started in the past and is still going on. Arkady has just confessed his own housing fraud to a lawyer who has been waiting in that very queue for fifteen years! Arkady quickly sends him out.

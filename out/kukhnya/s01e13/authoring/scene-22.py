@@ -16,7 +16,7 @@ INTRO = "In this scene focused on borders, vika angrily breaks up with Max, whil
 
 STORY = [
     ("max", "Вик, что с тобой?", "Vik, what is wrong?", [(297, "Угадай, кто. Макс.")], ""),
-    ("max", "В чем дело?, макс.", "What is the matter?, my friend.", [(297, "Угадай, кто. Макс.")], ""),
+    ("max", "В чём дело, Макс?", "What is the matter, Max?", [(297, "Угадай, кто. Макс.")], ""),
     ("anya", "В чем дело?", "What is the matter?", [(297, "Угадай, кто. Макс.")], ""),
     ("anya", "Меня сегодня чуть не уволили с работы.", "I almost got fired today.", [(297, "Угадай, кто. Макс.")], ""),
     ("anya", "И все благодаря тебе.", "And it is all thanks to you.", [(297, "Угадай, кто. Макс.")], ""),
@@ -53,5 +53,5 @@ WALK = [
 ]
 
 TRANSITION = "Now let's listen to the conversation without interruption."
-OUTRO = "That was an interesting exchange. Let's see what happens next."
+OUTRO = "And that's it for this scene. When you watch the episode, listen out for the exchange around borders, and for the words meaning 'matter' and 'to fire'. You'll catch them now. See you next time."
 CLOSING = STORY[-1][:2]

@@ -31,19 +31,19 @@ STORY = [
 
 OPENER = "Let's review the conversation line by line."
 WALK = [
- (0, None, "'I didn't mean to, honestly.' — Notice the pronoun meaning 'I' paired with the verb for 'wanted, meant'."),
- (1, None, "'I will wipe it all up now.' — Notice the pronoun meaning 'I' paired with the adverb for 'now'."),
- (2, None, "'Don't cry.' — Notice the adverb meaning 'it is necessary' paired with the verb for 'to cry'."),
- (3, None, "'Everything is fine.' — Notice the det meaning 'all' paired with the adverb for 'good, fine'."),
- (4, None, "'Will you fire me?' — Notice the pronoun meaning 'you' paired with the pronoun for 'me'."),
- (5, None, "'You will tell management everything.' — Notice the pronoun meaning 'you' paired with the verb for 'will tell'."),
- (6, None, "'I am not going anywhere.' — Notice the adverb meaning 'nowhere, anywhere (with motion)' paired with the pronoun for 'I'."),
- (7, None, "'I won't say anything.' — Notice the pronoun meaning 'nothing' paired with the pronoun for 'I'."),
- (8, None, "'Excuse me.' — Notice the verb meaning 'sorry, excuse me' paired with the pronoun for 'me'."),
- (9, None, "'I really didn't mean to.' — Notice the pronoun meaning 'I' paired with the noun for 'honestly'."),
- (10, None, "'Calm down.' — Built around the key verb meaning 'calm down'."),
- (11, None, "'Go on working.' — Notice the verb meaning 'go' paired with the verb for 'to work'."),
+ (0, None, "'I didn't mean to, honestly.' A compact expression built around 'I' and 'honestly'."),
+ (1, None, "'I will wipe it all up now.' The key word here means 'I', which Sasha combines with 'now'."),
+ (2, None, "'Don't cry.' Here 'it is necessary' sets up the idea, while 'to cry' comes at the end for emphasis."),
+ (3, None, "'Everything is fine.' You'll hear 'good' all the time in the show, here connected with 'good'."),
+ (4, None, "'Will you fire me?' Notice the word order: 'you' comes first, and 'will fire' finishes the sentence."),
+ (5, None, "'You will tell management everything.' Sasha starts with 'you' and pairs it with 'will tell' to make the point clear. And Max jumps in."),
+ (6, None, "'I am not going anywhere.' Max puts 'nowhere' up front so the listener immediately catches the tone, followed by 'I'."),
+ (7, None, "'I won't say anything.' In Russian, 'nothing' leads into 'I'll tell' in a very natural everyday phrasing."),
+ (8, None, "'Excuse me.' In Russian, 'sorry' leads into 'me' in a very natural everyday phrasing."),
+ (9, None, "'I really didn't mean to.' The key word here means 'I', which Sasha combines with 'honestly'."),
+ (10, None, "'Calm down.' Listen for the word meaning 'calm down' right alongside 'calm down' in this line."),
+ (11, None, "'Go on working.' The key word here means 'go', which Max combines with 'to work'."),
 ]
 TRANSITION = "Let's hear it again."
-OUTRO = "That was an interesting scene. See you in the next one."
+OUTRO = "And that's it for this scene. When you watch the episode, listen out for the exchange around sasha's apology, and for the words meaning 'wanted' and 'honestly'. You'll catch them now. See you next time."
 CLOSING = ("anya", "До встречи!")

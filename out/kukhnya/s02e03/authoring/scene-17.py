@@ -60,13 +60,13 @@ OPENER = "Let us break down this interaction."
 
 WALK = [
     (2, None,
-     "'We have a problem with our order.' -- ENG The customer complains about a mistake."),
+     "'We have a problem with our order.' The key word here means 'us', which the guest combines with 'problem'."),
     (4, None,
-     "'I asked for no onions.' -- ENG He points out the specific error in his dish."),
+     "'I asked for no onions.' Notice the word order: 'I' comes first, and 'onion' finishes the sentence."),
     (9, None,
-     "'Excuse me.' -- ENG He loudly demands attention from the passing staff."),
+     "'Excuse me.' the guest starts with 'respected' and pairs it with 'respected' to make the point clear."),
     (11, None,
-     "'I want to speak with the chef.' -- ENG He requests to see the person responsible for the kitchen."),
+     "'I want to speak with the chef.' the guest puts 'I' up front so the listener immediately catches the tone, followed by 'want'."),
 ]
 
 TRANSITION = "Now let us listen to the conversation again without interruption."

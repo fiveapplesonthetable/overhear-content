@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well what, we arrived?' -- ENG He asks him a question.
-- 'Yes, we are in place.' -- ENG He says this to him.
-- 'Are they waiting for us already?' -- ENG He asks him a question.
-- 'Yes, they are waiting for us.' -- ENG He says this to him.
-- 'Let's go find out how things are.' -- ENG He says this to him.
-- 'I am a little worried.' -- ENG He explains his feelings to him.
-- 'Guys, listen to me.' -- ENG He says this to him.
-- 'I want to tell you something.' -- ENG He talks directly to him.
-- 'In the last days I went overboard.' -- ENG He explains his feelings to him.
-- 'I behaved very badly.' -- ENG He explains his feelings to him.
-- 'We understand you.' -- ENG He says this to him.
-- 'Thank you for the support.' -- ENG He talks directly to him.
+- 'Well what, we arrived?' The question word for 'what' comes right at the start, followed directly by 'we've arrived'.
+- 'Yes, we are in place.' Notice the word order: 'we' comes first, and 'place' finishes the sentence.
+- 'Are they waiting for us already?' Here 'us' sets up the idea, while 'are waiting' comes at the end for emphasis. Kostya answers straight away.
+- 'Yes, they are waiting for us.' Here 'they' sets up the idea, while 'are waiting' comes at the end for emphasis.
+- 'Let's go find out how things are.' Listen for the word meaning 'let's go' right alongside 'will find out' in this line.
+- 'I am a little worried.' Kostya starts with 'I' and pairs it with 'a bit' to make the point clear. Then Max replies.
+- 'Guys, listen to me.' Listen for the word meaning 'the boys' right alongside 'listen' in this line.
+- 'I want to tell you something.' In Russian, 'I' leads into 'tell' in a very natural everyday phrasing.
+- 'In the last days I went overboard.' The first content word means 'last', and 'stick' rounds out the thought.
+- 'I behaved very badly.' A compact expression built around 'I' and 'badly'.
+- 'We understand you.' Listen for the word meaning 'we' right alongside 'to understand' in this line.
+- 'Thank you for the support.' In Russian, 'thank you' leads into 'support' in a very natural everyday phrasing.

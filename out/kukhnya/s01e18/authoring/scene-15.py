@@ -34,20 +34,20 @@ STORY = [
 OPENER = "Now let us examine the conversation line by line."
 
 WALK = [
-    (0, None, "'Kostya, this is just a nightmare!' -- The speaker states this. ENG"),
-    (1, None, "'Senya got poisoned by our cognac.' -- The speaker states this. ENG"),
-    (2, None, "'Oh no, what to do?' -- The speaker states this. ENG"),
-    (3, None, "'Kostya, give me a bottle of cognac.' -- The speaker states this. ENG"),
-    (4, None, "'The one that stands on the right.' -- The speaker states this. ENG"),
-    (5, None, "'This bottle right here?' -- The speaker states this. ENG"),
-    (6, None, "'No, give me another one. Yes, this one.' -- The speaker states this. ENG"),
-    (7, None, "'Chef took our cognac!' -- The speaker states this. ENG"),
-    (8, None, "'We need to take this bottle back.' -- The speaker states this. ENG"),
-    (9, None, "'I can not approach him.' -- The speaker states this. ENG"),
-    (10, None, "'Come on, Kostya, you must.' -- The speaker states this. ENG"),
-    (11, None, "'Got it, let's move on.' -- The speaker wraps up the exchange in the kitchen.")
+    (0, None, "'Kostya, this is just a nightmare!' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'Kostya' straight to 'horror'."),
+    (1, None, "'Senya got poisoned by our cognac.' Here 'Senya' sets up the idea, while 'cognac' comes at the end for emphasis."),
+    (2, None, "'Oh no, what to do?' Here 'what' sets up the idea, while 'do' comes at the end for emphasis."),
+    (3, None, "'Kostya, give me a bottle of cognac.' Notice the word order: 'Kostya' comes first, and 'cognac' finishes the sentence."),
+    (4, None, "'The one that stands on the right.' Listen for the word meaning 'who' right alongside 'is parked' in this line."),
+    (5, None, "'This bottle right here?' Notice the word order: 'a bottle' comes first, and 'a bottle' finishes the sentence."),
+    (6, None, "'No, give me another one. Yes, this one.' A compact expression built around 'give' and 'the other one'. Max answers straight away."),
+    (7, None, "'Chef took our cognac!' Max puts 'chef' up front so the listener immediately catches the tone, followed by 'takes it back'."),
+    (8, None, "'We need to take this bottle back.' Max starts with 'it is necessary' and pairs it with 'take' to make the point clear."),
+    (9, None, "'I can not approach him.' A compact expression built around 'I' and 'to walk up to'. Then Max replies."),
+    (10, None, "'Come on, Kostya, you must.' Listen for the word meaning 'let's' right alongside 'Kostya' in this line."),
+    (11, None, "'Got it, let's move on.' Here 'clear' sets up the idea, while 'next' comes at the end for emphasis.")
 ]
 
 TRANSITION = "Now let us listen to the conversation once again."
-OUTRO = "The conversation concludes the matter at hand."
+OUTRO = "And that's it for this scene. When you watch the episode, listen out for the exchange around the wrong bottle, and for the words meaning 'horror' and 'to get poisoned'. You'll catch them now. See you next time."
 CLOSING = ("anya", "Давай, Костя, ты должен.")

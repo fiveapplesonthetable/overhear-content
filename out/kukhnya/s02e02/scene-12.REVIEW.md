@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Please talk to dad.' -- The speaker states this. ENG
-- 'I will try.' -- The speaker states this. ENG
-- 'And what is this?' -- The speaker states this. ENG
-- 'This is my dessert.' -- The speaker states this. ENG
-- 'Just like the Chef's.' -- The speaker states this. ENG
-- 'Thank you very much.' -- The speaker states this. ENG
-- 'Can I taste it?' -- The speaker states this. ENG
-- 'Of course, take it.' -- The speaker states this. ENG
-- 'This is very tasty.' -- The speaker states this. ENG
-- 'Yes, I like it too.' -- The speaker states this. ENG
-- 'I studied this for a long time.' -- The speaker states this. ENG
-- 'Well done, Valya.' -- The speaker states this. ENG
-- 'The Chef will be happy.' -- The speaker states this. ENG
+- 'Please talk to dad.' Here 'talk' sets up the idea, while 'dad' comes at the end for emphasis. And Nastya jumps in.
+- 'I will try.' Notice the word order: 'I' comes first, and 'to try' finishes the sentence.
+- 'And what is this?' The first content word means 'what', and 'on earth' rounds out the thought.
+- 'This is my dessert.' You'll hear 'this' all the time in the show, here connected with 'dessert'. Max answers straight away.
+- 'Just like the Chef's.' Here 'right' sets up the idea, while 'chef' comes at the end for emphasis.
+- 'Thank you very much.' the speaker starts with 'thank you' and pairs it with 'big' to make the point clear.
+- 'Can I taste it?' Max puts 'may' up front so the listener immediately catches the tone, followed by 'to taste'.
+- 'Of course, take it.' the speaker starts with 'of course' and pairs it with 'take' to make the point clear.
+- 'This is very tasty.' The first content word means 'this', and 'it's tasty' rounds out the thought.
+- 'Yes, I like it too.' A compact expression built around 'to me' and 'is pleasing'.
+- 'I studied this for a long time.' the speaker puts 'I' up front so the listener immediately catches the tone, followed by 'for a long time'.
+- 'Well done, Valya.' Listen for the word meaning 'you' right alongside 'well done' in this line.
+- 'The Chef will be happy.' Notice the word order: 'chef' comes first, and 'glad' finishes the sentence.

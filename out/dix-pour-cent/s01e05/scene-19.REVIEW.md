@@ -31,16 +31,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I had lunch with my father today.'
+- 'I had lunch with my father today.' You'll hear 'I have' all the time in the show, here connected with 'today'.
 - 'He's worried about you.' A reflexive verb meaning 'to worry'.
 - 'Really? What's wrong with my professional future?' Literally 'what is it that does not go with my professional future'.
 - 'You just turned down a golden opportunity at StarMédia.' The verb 'come from' plus an infinitive means 'just did something', and 'a chance in gold' means a golden opportunity.
-- 'To stay at ASK, where the situation is uncertain.'
+- 'To stay at ASK, where the situation is uncertain.' A compact expression built around 'to stay' and 'uncertain'. Then Mathias replies.
 - 'But he wants to stick his nose in everywhere and tell me what to do!' Literally 'put his nose everywhere', the exact same image as in English.
 - 'That's a shame. It was good news.' Notice that 'news' is singular in French here.
 - 'Good night.' Catherine pretends to drop the subject and turn off her lamp, knowing Mathias won't be able to resist asking.
 - 'What good news? What is it?' Mathias takes the bait immediately.
-- 'Especially since he wants to lend us money.'
+- 'Especially since he wants to lend us money.' Here 'especially' sets up the idea, while 'money' comes at the end for emphasis.
 - 'Sorry, what?' Mathias sits up in surprise.
 - 'To buy out ASK.' Adding the prefix 're-' to 'buy' gives the verb 'to buy out' or 'buy back'.
 - 'Was it his idea?' Mathias is still suspicious of his father-in-law.
@@ -50,6 +50,6 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I do what I want with it.' The little two-letter word before the verb means 'with it'.
 - 'If we buy out Samuel's shares, you'll be the boss. CEO of ASK.' The three letters stand for 'president-director general', the French equivalent of chief executive officer.
 - 'Do you know what I'd like? A writers-directors department.' Mathias's eyes light up at the thought of running the agency.
-- 'And an image-management department for the actors.'
+- 'And an image-management department for the actors.' Here 'department' sets up the idea, while 'actors' comes at the end for emphasis. Catherine answers straight away.
 - 'And production!' Catherine adds enthusiastically, knowing that producing films is Mathias's dream.
-- 'Why not? Yes!'
+- 'Why not? Yes!' Notice the word order: 'why' comes first, and 'yes' finishes the sentence.

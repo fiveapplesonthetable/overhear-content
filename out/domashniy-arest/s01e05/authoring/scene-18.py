@@ -124,7 +124,7 @@ WALK = [
  (14, None,
   "'Here you go.' The same word means both 'please' and 'here you are' when handing something over."),
  (15, "Пока ещё на мои деньги куплен!",
-  "'It's still bought with my money!'"),
+  "'It's still bought with my money!' A compact expression built around 'for now' and 'bought'."),
  (15, "Встала и мыть посуду, шагом марш!",
   "'Get up and wash the dishes, forward march!' He finishes with the army drill command 'forward march!'."),
 ]

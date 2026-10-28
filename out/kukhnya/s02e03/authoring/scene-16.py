@@ -63,15 +63,15 @@ OPENER = "Let us break down this interaction."
 
 WALK = [
     (4, None,
-     "'Hey, have you seen my salad?' -- ENG The cook asks his colleague about the missing dish."),
+     "'Hey, have you seen my salad?' In Russian, 'oui' leads into 'saw' in a very natural everyday phrasing."),
     (8, None,
-     "'It was my best salad.' -- ENG He complains about losing his perfect creation."),
+     "'It was my best salad.' Notice the word order: 'this' comes first, and 'salad' finishes the sentence. Then Fedya replies."),
     (9, None,
-     "'Make a new one, there is time.' -- ENG His coworker tells him to just prepare another portion."),
+     "'Make a new one, there is time.' The first content word means 'make', and 'there is' rounds out the thought."),
     (12, None,
-     "'I will not have time to make a new one.' -- ENG He worries about the strict deadline."),
+     "'I will not have time to make a new one.' You'll hear 'I' all the time in the show, here connected with 'new'."),
     (13, None,
-     "'Then think of something else.' -- ENG His friend suggests finding a creative solution."),
+     "'Then think of something else.' In Russian, 'back then' leads into 'another' in a very natural everyday phrasing."),
 ]
 
 TRANSITION = "Now let us listen to the conversation again without interruption."

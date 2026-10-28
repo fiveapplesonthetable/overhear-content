@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What's with your phones?' -- The speaker states this. ENG
-- 'I can't get through.' -- The speaker states this. ENG
-- 'My phone was stolen.' -- The speaker states this. ENG
-- 'Mom called me.' -- The speaker states this. ENG
-- 'Dad met Kostya.' -- The speaker states this. ENG
-- 'But he thinks it's you.' -- The speaker states this. ENG
-- 'I don't get it.' -- The speaker states this. ENG
-- 'He thinks that you are Kostya.' -- The speaker states this. ENG
-- 'Why did he come?' -- The speaker states this. ENG
-- 'He threatened me.' -- The speaker states this. ENG
-- 'Tell him the truth.' -- The speaker states this. ENG
-- 'I can't.' -- The speaker states this. ENG
-- 'He is very cruel.' -- The speaker states this. ENG
-- 'What should I do?' -- The speaker states this. ENG
+- 'What's with your phones?' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'what' straight to 'telephone'.
+- 'I can't get through.' Notice the word order: 'I' comes first, and 'to get through' finishes the sentence.
+- 'My phone was stolen.' Here 'phone' sets up the idea, while 'stole' comes at the end for emphasis. Nastya answers straight away.
+- 'Mom called me.' Nastya puts 'to me' up front so the listener immediately catches the tone, followed by 'called'.
+- 'Dad met Kostya.' Listen for the word meaning 'Dad' right alongside 'to get acquainted' in this line.
+- 'But he thinks it's you.' Nastya uses the casual singular 'you' with 'he', as close colleagues and friends do. Then Max replies.
+- 'I don't get it.' The key word here means 'I', which Max combines with 'understood?'.
+- 'He thinks that you are Kostya.' The first content word means 'he', and 'Kostya' rounds out the thought.
+- 'Why did he come?' A compact expression built around 'what for' and 'used to come'. And Kostya jumps in.
+- 'He threatened me.' A compact expression built around 'he' and 'to me'.
+- 'Tell him the truth.' Max starts with 'say' and pairs it with 'him' to make the point clear.
+- 'I can't.' The little negative word sits right in front of the verb for 'can', just like 'not' in English.
+- 'He is very cruel.' Notice the word order: 'he' comes first, and 'cruel' finishes the sentence.
+- 'What should I do?' Here 'what' sets up the idea, while 'do' comes at the end for emphasis.

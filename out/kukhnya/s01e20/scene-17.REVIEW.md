@@ -27,7 +27,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Bye.' -- ENG She simply waves and heads for the exit.
-- 'Oh, you are leaving already?' -- ENG He nervously tries to start a conversation.
-- 'Yeah. It is kind of a downer here.' -- ENG She honestly admits that the event is boring.
-- 'Please, hear me out.' -- ENG He desperately begs for a brief moment of her time.
+- 'Bye.' A compact expression built around 'bye' and 'bye'.
+- 'Oh, you are leaving already?' Notice the word order: 'already' comes first, and 'are leaving' finishes the sentence.
+- 'Yeah. It is kind of a downer here.' Here 'yeah' sets up the idea, while 'sadly' comes at the end for emphasis. Then Kostya replies.
+- 'Please, hear me out.' Kostya puts 'hear out' up front so the listener immediately catches the tone, followed by 'me'.

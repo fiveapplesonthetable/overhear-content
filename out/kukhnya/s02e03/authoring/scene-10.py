@@ -31,19 +31,19 @@ STORY = [
 
 OPENER = "Let's review the conversation line by line."
 WALK = [
- (0, None, "'I feel good with you.' — Notice the adverb meaning 'good, fine' paired with the pronoun for 'you'."),
- (1, None, "'I feel good too.' — Notice the pronoun meaning 'to me (  = I have no time)' paired with the adverb for 'too'."),
- (2, None, "'Especially when you are without clothes.' — Notice the adverb meaning 'especially' paired with the adverb for 'when'."),
- (3, None, "'You are very funny.' — Notice the pronoun meaning 'you' paired with the adverb for 'very much'."),
- (4, None, "'I am serious.' — Notice the pronoun meaning 'I' paired with the noun for 'seriously'."),
- (5, None, "'I know.' — Notice the pronoun meaning 'I' paired with the verb for '(I) know'."),
- (6, None, "'Should I call you a taxi?' — Notice the pronoun meaning 'for you, to you' paired with the verb for 'to call, to summon'."),
- (7, None, "'Why?' — Built around the key adverb meaning 'what for'."),
- (8, None, "'You are without a car today.' — Notice the pronoun meaning 'you' paired with the adverb for 'today'."),
- (9, None, "'How will you get home?' — Notice the adverb meaning 'how' paired with the pronoun for 'you'."),
- (10, None, "'I will go by subway.' — Notice the pronoun meaning 'I' paired with the verb for 'will go'."),
- (11, None, "'The subway is already closed.' — Notice the noun meaning 'metro' paired with the adverb for 'already, now'."),
+ (0, None, "'I feel good with you.' The first content word means 'good', and 'you' rounds out the thought."),
+ (1, None, "'I feel good too.' Notice the word order: 'to me' comes first, and 'good' finishes the sentence."),
+ (2, None, "'Especially when you are without clothes.' In Russian, 'especially' leads into 'clothes' in a very natural everyday phrasing."),
+ (3, None, "'You are very funny.' You'll hear 'you' all the time in the show, here connected with 'funny'."),
+ (4, None, "'I am serious.' The key word here means 'I', which Sasha combines with 'seriously'. Then Max replies."),
+ (5, None, "'I know.' The key word here means 'I', which Max combines with 'know'."),
+ (6, None, "'Should I call you a taxi?' Notice the word order: 'for you' comes first, and 'taxi' finishes the sentence."),
+ (7, None, "'Why?' In Russian, 'what for' leads into 'what for' in a very natural everyday phrasing. And Sasha jumps in."),
+ (8, None, "'You are without a car today.' Sasha puts 'you' up front so the listener immediately catches the tone, followed by 'today'."),
+ (9, None, "'How will you get home?' Sasha starts with 'how' and pairs it with 'you' to make the point clear."),
+ (10, None, "'I will go by subway.' The first content word means 'I', and 'metro' rounds out the thought. Sasha answers straight away."),
+ (11, None, "'The subway is already closed.' A compact expression built around 'metro' and 'to close'."),
 ]
 TRANSITION = "Let's hear it again."
-OUTRO = "That was an interesting scene. See you in the next one."
+OUTRO = "And that's it for this scene. When you watch the episode, listen out for the exchange around without a car, and for the words meaning 'clothes' and 'funny'. You'll catch them now. See you next time."
 CLOSING = ("anya", "До встречи!")

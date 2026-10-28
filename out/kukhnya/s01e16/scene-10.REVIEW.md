@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Try the new version of the dish.' -- The speaker states this. ENG
-- 'Chef, the exit through the hall is closed.' -- The speaker states this. ENG
-- 'We exit one person at a time.' -- The speaker states this. ENG
-- 'Half goes through the hall.' -- The speaker states this. ENG
-- 'What kind of idiots are you?' -- The speaker states this. ENG
-- 'Quickly to my office.' -- The speaker states this. ENG
-- 'Good afternoon, Viktor Petrovich.' -- The speaker states this. ENG
-- 'I am a major of the migration service.' -- The speaker states this. ENG
-- 'Can we go to the office?' -- The speaker states this. ENG
-- 'Unfortunately, I cannot.' -- The speaker states this. ENG
-- 'I need to cook for the guests.' -- The speaker states this. ENG
-- 'Alright, I will wait for you here.' -- The speaker states this. ENG
+- 'Try the new version of the dish.' The first content word means 'to try', and 'of dish' rounds out the thought.
+- 'Chef, the exit through the hall is closed.' Notice the word order: 'chef' comes first, and 'is closed' finishes the sentence. Chef Viktor answers straight away.
+- 'We exit one person at a time.' In Russian, 'we' leads into 'person' in a very natural everyday phrasing.
+- 'Half goes through the hall.' Chef Viktor starts with 'half' and pairs it with 'goes' to make the point clear.
+- 'What kind of idiots are you?' The key word here means 'what', which Chef Viktor combines with 'you'.
+- 'Quickly to my office.' Chef Viktor starts with 'quickly' and pairs it with 'to me' to make the point clear.
+- 'Good afternoon, Viktor Petrovich.' the speaker puts 'good' up front so the listener immediately catches the tone, followed by 'day'.
+- 'I am a major of the migration service.' In Russian, 'I' leads into 'service' in a very natural everyday phrasing.
+- 'Can we go to the office?' The first content word means 'we', and 'office' rounds out the thought.
+- 'Unfortunately, I cannot.' A compact expression built around 'regret' and 'can'.
+- 'I need to cook for the guests.' Listen for the word meaning 'to me' right alongside 'necessary' in this line.
+- 'Alright, I will wait for you here.' the speaker uses the polite plural 'you' here alongside 'good', keeping a formal or respectful tone.

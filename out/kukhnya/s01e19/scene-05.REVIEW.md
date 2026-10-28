@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Victoria, it was a great pleasure meeting you.' It is a simple phrase.
-- 'Likewise. Goodbye.' It is a simple phrase.
-- 'Have a pleasant evening.' It is a simple phrase.
-- 'What a pleasant evening 0.' — Notice the det meaning 'what a, how' paired with the adjective for 'nice, pleasant'.
-- 'What a pleasant evening 1.' — Notice the det meaning 'what a, how' paired with the adjective for 'nice, pleasant'.
-- 'What a pleasant evening 2.' — Notice the det meaning 'what a, how' paired with the adjective for 'nice, pleasant'.
-- 'What a pleasant evening 3.' — Notice the det meaning 'what a, how' paired with the adjective for 'nice, pleasant'.
-- 'What a pleasant evening 4.' — Notice the det meaning 'what a, how' paired with the adjective for 'nice, pleasant'.
-- 'What a pleasant evening 5.' — Notice the det meaning 'what a, how' paired with the adjective for 'nice, pleasant'.
-- 'What a pleasant evening 6.' — Notice the det meaning 'what a, how' paired with the adjective for 'nice, pleasant'.
-- 'What a pleasant evening 7.' — Notice the det meaning 'what a, how' paired with the adjective for 'nice, pleasant'.
-- 'What a pleasant evening 8.' — Notice the det meaning 'what a, how' paired with the adjective for 'nice, pleasant'.
+- 'Victoria, it was a great pleasure meeting you.' The reflexive ending on the verb for 'to meet' turns the action back onto the subject.
+- 'Likewise. Goodbye.' Notice the word order: 'likewise' comes first, and 'meeting' finishes the sentence.
+- 'Have a pleasant evening.' Here 'pleasant' sets up the idea, while 'evening' comes at the end for emphasis. And Vika jumps in.
+- 'What a pleasant evening 0.' Here 'nice' sets up the idea, while 'zero' comes at the end for emphasis.
+- 'What a pleasant evening 1.' You'll hear 'nice' all the time in the show, here connected with 'one'.
+- 'What a pleasant evening 2.' In Russian, 'nice' leads into 'two' in a very natural everyday phrasing.
+- 'What a pleasant evening 3.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'nice' straight to 'three'.
+- 'What a pleasant evening 4.' Notice the word order: 'nice' comes first, and 'four' finishes the sentence.
+- 'What a pleasant evening 5.' Vika starts with 'nice' and pairs it with 'evening' to make the point clear.
+- 'What a pleasant evening 6.' Vika puts 'nice' up front so the listener immediately catches the tone, followed by 'evening'.
+- 'What a pleasant evening 7.' Listen for the word meaning 'nice' right alongside 'evening' in this line.
+- 'What a pleasant evening 8.' The question word for 'what a' comes right at the start, followed directly by 'eight'.

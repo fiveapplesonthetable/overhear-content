@@ -36,7 +36,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'He is waiting for me.' That important man, as we will soon learn, is Pasha. Arturik just smirks.
 - 'Then why didn't this important man meet you at the station?' Ilona drops the polite tone.
 - 'Stop the car!' She puts 'the car' first, in the accusative case, followed by a sharp singular command.
-- 'Did you move to Moscow and get all important? Don't you want to be with your own people anymore?'
+- 'Did you move to Moscow and get all important? Don't you want to be with your own people anymore?' Listen for the word meaning 'you' right alongside 'Moscow' in this line. And Ilona jumps in.
 - 'No, I don't.' Just two words: 'not I-want'.
 - 'Well, you'll have to! Don't be afraid, you'll like it.' The first word is an impersonal future verb that means 'it will be necessary, you'll have no choice'. Seeing that the doors are locked, Ilona changes tactics and pretends to play along.
 - 'All right, Arturik. Listen, I really am running late.' Notice that she has switched to the informal 'listen' to sound friendly.

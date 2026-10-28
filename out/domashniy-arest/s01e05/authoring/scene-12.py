@@ -95,7 +95,7 @@ WALK = [
  (3, None,
   "'What, are the seams uneven everywhere?' Samson points right at the wall planks."),
  (4, "О, смотри, у тебя вон щели!",
-  "'Oh, look, you have gaps over there!'"),
+  "'Oh, look, you have gaps over there!' the speaker puts 'oh' up front so the listener immediately catches the tone, followed by 'look'."),
  (4, "Я же строитель, я разбираюсь.",
   "'I'm a builder, I know my stuff.' That reflexive verb literally means 'I sort things out, I understand a "
   "subject well'. Nina steps in politely."),
@@ -125,17 +125,17 @@ WALK = [
  (12, None,
   "'They jumped into a car and drove off.' And according to Golovkin, Samson gave chase."),
  (13, "Ты за ними поехал на машине.",
-  "'You drove after them in the car.'"),
+  "'You drove after them in the car.' In Russian, 'you' leads into 'car' in a very natural everyday phrasing."),
  (13, "И сразу в лоб!",
   "'And rammed them head-on!' Literally 'and right into the forehead!'. Golovkin acts amazed that Samson forgot."),
  (14, None,
   "'Don't you remember anything at all?' Flattered again, Samson pretends it's coming back to him."),
  (15, "Я так вспоминаю.",
-  "'I'm trying to recall it.'"),
+  "'I'm trying to recall it.' You'll hear 'I' all the time in the show, here connected with 'am recalling'."),
  (15, "Значит, машину разбил, что ли?",
   "'So I wrecked the car, then?' Golovkin waves it away."),
  (16, None,
-  "'And the car is insured, don't be upset.'"),
+  "'And the car is insured, don't be upset.' Listen for the word meaning 'car' right alongside 'is insured' in this line."),
 ]
 
 TRANSITION = "Now let's hear the whole conversation again from the beginning."

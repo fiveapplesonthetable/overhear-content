@@ -43,4 +43,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'You're a lawyer? That's great, well done!' That last word literally means 'fine fellow' and is used for 'good job!' or 'well done!'. From inside their room, Samson calls out impatiently.
 - 'Nina, well, are you coming? I'm waiting!' So they say a quick goodbye.
 - 'Yes, Vanya, I'm coming now! Well, Danya, bye.' And Danya replies warmly.
-- 'Well, take care, bye, Nina.'
+- 'Well, take care, bye, Nina.' the speaker starts with 'bye' and pairs it with 'Nina' to make the point clear.

@@ -56,7 +56,7 @@ WALK = [
  (1, None,
   "'What are you doing?' The opening chunk is a fixed way to start a 'what' question; just learn it as one block. Arlette uses the casual 'you' with Camille, a young stranger. Older people sometimes do that."),
  (2, None,
-  "'Look, here's your owner.' Camille says this to the dog, not to Arlette, so again it's the casual 'you'. The word she uses for 'owner' is the feminine one, literally the dog's 'mistress'."),
+  "'Look, here's your owner.' Listen for the word meaning 'look' right alongside 'here is' in this line."),
  (3, "Je passais par là.",
   "'I was walking by.' Literally 'I was passing through there'. The ending of the verb tells you it was going on in the background, an ongoing past action."),
  (3, "Il jouait avec un contrat.",

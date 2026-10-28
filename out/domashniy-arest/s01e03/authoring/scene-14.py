@@ -128,7 +128,7 @@ WALK = [
   "'My mother had a right to the flat. She is a pensioner.' 'A right to' uses the preposition 'onto' plus the "
   "accusative. Arkady points out the catch."),
  (11, "Здесь полгорода имели право!",
-  "'Half the town had the right here!'"),
+  "'Half the town had the right here!' The first content word means 'here', and 'right' rounds out the thought."),
  (11, "Но в очереди она не стояла.",
   "'But she didn't stand in the queue.' Ordinary people wait years on the housing waiting list. Then Arkady tries "
   "to blackmail the judge."),
@@ -136,7 +136,7 @@ WALK = [
   "'And what if they find out about this in court?' Literally 'if about this they find out on the court'. Berg "
   "turns the threat right back on him."),
  (13, "Тогда я дам тебе ещё два года!",
-  "'Then I'll give you two more years!'"),
+  "'Then I'll give you two more years!' You'll hear 'then' all the time in the show, here connected with 'years'."),
  (13, "За махинации с недвижимостью.",
   "'For property fraud.' After all, Arkady was the mayor who signed the papers! Berg hangs up, and suddenly "
   "Golovkin, who has heard every word in the room, speaks up in shock."),

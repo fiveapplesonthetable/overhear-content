@@ -51,5 +51,5 @@ WALK = [
 ]
 
 TRANSITION = "Now let's listen to the conversation without interruption."
-OUTRO = "That was an interesting exchange. Let's see what happens next."
+OUTRO = "And that's it for this scene. When you watch the episode, listen out for the exchange around the crashed car, and for the words meaning 'bumper' and 'headlight'. You'll catch them now. See you next time."
 CLOSING = STORY[-1][:2]

@@ -27,8 +27,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hey, have you seen my salad?' -- ENG The cook asks his colleague about the missing dish.
-- 'It was my best salad.' -- ENG He complains about losing his perfect creation.
-- 'Make a new one, there is time.' -- ENG His coworker tells him to just prepare another portion.
-- 'I will not have time to make a new one.' -- ENG He worries about the strict deadline.
-- 'Then think of something else.' -- ENG His friend suggests finding a creative solution.
+- 'Hey, have you seen my salad?' In Russian, 'oui' leads into 'saw' in a very natural everyday phrasing.
+- 'It was my best salad.' Notice the word order: 'this' comes first, and 'salad' finishes the sentence. Then Fedya replies.
+- 'Make a new one, there is time.' The first content word means 'make', and 'there is' rounds out the thought.
+- 'I will not have time to make a new one.' You'll hear 'I' all the time in the show, here connected with 'new'.
+- 'Then think of something else.' In Russian, 'back then' leads into 'another' in a very natural everyday phrasing.

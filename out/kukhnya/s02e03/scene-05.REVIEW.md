@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You cannot fry.' ENG Senya criticizes his cooking skills.
-- 'The meat is tough as a shoe sole.' ENG He complains about the texture.
-- 'In the navy we ate boots.' ENG Fedya says he can eat anything.
-- 'And we ate belts too.' ENG He adds to his wild story.
-- 'You are lying about the boots.' ENG Senya doesn't believe him.
-- 'You don't believe me?' ENG Fedya takes offense.
-- 'Let's bet five grand.' ENG He proposes a serious wager.
-- 'You'll eat my belt for five grand?' ENG Senya sets the terms.
-- 'Well, I'll eat it.' ENG Fedya confidently accepts.
-- 'Louis, break it.' ENG They ask Louis to witness the bet.
-- 'Okay.' ENG Louis agrees to witness.
-- 'Here is the belt.' ENG Senya hands over his belt.
+- 'You cannot fry.' The key word here means 'you', which Senya combines with 'fry'.
+- 'The meat is tough as a shoe sole.' The first content word means 'meat', and 'shoe sole' rounds out the thought.
+- 'In the navy we ate boots.' You'll hear 'we' all the time in the show, here connected with 'were eating'.
+- 'And we ate belts too.' Notice the word order: 'belt' comes first, and 'were eating' finishes the sentence.
+- 'You are lying about the boots.' The key word here means 'you', which Senya combines with 'are lying'.
+- 'You don't believe me?' In Russian, 'do you believe' leads into 'to me' in a very natural everyday phrasing.
+- 'Let's bet five grand.' A compact expression built around 'let's' and 'pieces/grand'.
+- 'You'll eat my belt for five grand?' In Russian, 'eat' leads into 'pieces/grand' in a very natural everyday phrasing.
+- 'Well, I'll eat it.' Fedya starts with 'to eat up' and pairs it with 'to eat up' to make the point clear. Then Senya replies.
+- 'Louis, break it.' Senya puts 'Louis' up front so the listener immediately catches the tone, followed by 'to break'.
+- 'Okay.' The key word here means 'good', which Louis combines with 'good'.
+- 'Here is the belt.' Here 'here you go' sets up the idea, while 'belt' comes at the end for emphasis.

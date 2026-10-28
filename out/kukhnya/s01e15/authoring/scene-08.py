@@ -88,5 +88,5 @@ WALK = [
 ]
 
 TRANSITION = "Now let's listen to the conversation again without interruption."
-OUTRO = "Max is left without a place to stay."
+OUTRO = "And that's it for this scene. When you watch the episode, listen out for the exchange around moving out, and for the words meaning 'to have a talk' and 'to beg'. You'll catch them now. See you next time."
 CLOSING = ("anya", "Ты пойми, важно, чтобы мы хотели.")

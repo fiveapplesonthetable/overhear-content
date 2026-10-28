@@ -14,7 +14,7 @@ SOURCE_FILE = "sources/kukhnya/s02/e02.ru.dual.srt"
 INTRO = "In this scene focused on sweet lie, max begs Nastya to talk to her dad. Then they notice Valya making a dessert that looks exactly like the Chef's. Let's listen closely to Max and Nastya's exchange in Russian first, and then walk through each line together."
 OPENER = "Now let us examine the conversation line by line."
 TRANSITION = "Now let us listen to the conversation once again."
-OUTRO = "The conversation concludes the matter at hand."
+OUTRO = "And that's it for this scene. When you watch the episode, listen out for the exchange around sweet lie, and for the words meaning 'talk' and 'dad'. You'll catch them now. See you next time."
 CLOSING = ('nastya', 'Шеф будет рад.')
 
 STORY = [
@@ -34,18 +34,18 @@ STORY = [
 ]
 
 WALK = [
-    (0, None, "'Please talk to dad.' -- The speaker states this. ENG"),
-    (1, None, "'I will try.' -- The speaker states this. ENG"),
-    (2, None, "'And what is this?' -- The speaker states this. ENG"),
-    (3, None, "'This is my dessert.' -- The speaker states this. ENG"),
-    (4, None, "'Just like the Chef's.' -- The speaker states this. ENG"),
-    (5, None, "'Thank you very much.' -- The speaker states this. ENG"),
-    (6, None, "'Can I taste it?' -- The speaker states this. ENG"),
-    (7, None, "'Of course, take it.' -- The speaker states this. ENG"),
-    (8, None, "'This is very tasty.' -- The speaker states this. ENG"),
-    (9, None, "'Yes, I like it too.' -- The speaker states this. ENG"),
-    (10, None, "'I studied this for a long time.' -- The speaker states this. ENG"),
-    (11, None, "'Well done, Valya.' -- The speaker states this. ENG"),
-    (12, None, "'The Chef will be happy.' -- The speaker states this. ENG"),
+    (0, None, "'Please talk to dad.' Here 'talk' sets up the idea, while 'dad' comes at the end for emphasis. And Nastya jumps in."),
+    (1, None, "'I will try.' Notice the word order: 'I' comes first, and 'to try' finishes the sentence."),
+    (2, None, "'And what is this?' The first content word means 'what', and 'on earth' rounds out the thought."),
+    (3, None, "'This is my dessert.' You'll hear 'this' all the time in the show, here connected with 'dessert'. Max answers straight away."),
+    (4, None, "'Just like the Chef's.' Here 'right' sets up the idea, while 'chef' comes at the end for emphasis."),
+    (5, None, "'Thank you very much.' the speaker starts with 'thank you' and pairs it with 'big' to make the point clear."),
+    (6, None, "'Can I taste it?' Max puts 'may' up front so the listener immediately catches the tone, followed by 'to taste'."),
+    (7, None, "'Of course, take it.' the speaker starts with 'of course' and pairs it with 'take' to make the point clear."),
+    (8, None, "'This is very tasty.' The first content word means 'this', and 'it's tasty' rounds out the thought."),
+    (9, None, "'Yes, I like it too.' A compact expression built around 'to me' and 'is pleasing'."),
+    (10, None, "'I studied this for a long time.' the speaker puts 'I' up front so the listener immediately catches the tone, followed by 'for a long time'."),
+    (11, None, "'Well done, Valya.' Listen for the word meaning 'you' right alongside 'well done' in this line."),
+    (12, None, "'The Chef will be happy.' Notice the word order: 'chef' comes first, and 'glad' finishes the sentence."),
 ]
 

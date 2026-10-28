@@ -32,27 +32,27 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - In the mayor's office, Pasha addresses his two bodyguards: 'I have a serious assignment for you.'
 - 'I can trust you, right?' Notice the dative pronoun after the verb for trusting.
 - 'As you know, Vitaly, I am taking part in the election,' Pasha continues.
-- 'And I have one competitor.'
-- 'I am talking about Samsonov, of course.'
+- 'And I have one competitor.' You'll hear 'me' all the time in the show, here connected with 'competitor'.
+- 'I am talking about Samsonov, of course.' The key word here means 'I', which the speaker combines with 'am talking'.
 - 'And life is a complicated thing,' Pasha hints darkly.
-- 'Do you understand what I am talking about?'
+- 'Do you understand what I am talking about?' There is no question word here — in Russian, rising intonation on 'I' is enough to make it a question.
 - 'Say a man is running for mayor,' Pasha explains.
-- 'That same Samsonov, for example.'
-- 'And some hooligans suddenly attacked him.'
-- 'Not badly, of course, but the man feels unwell.'
-- 'And he cannot run for office anymore.'
+- 'That same Samsonov, for example.' The first content word means 'that', and 'for example' rounds out the thought.
+- 'And some hooligans suddenly attacked him.' A compact expression built around 'some' and 'him'.
+- 'Not badly, of course, but the man feels unwell.' Listen for the word meaning 'badly' right alongside 'to the man' in this line.
+- 'And he cannot run for office anymore.' The reflexive ending on the verb for 'to run for office' turns the action back onto the subject.
 - 'So, is that clear?' Pasha asks pointedly.
 - To Pasha's surprise, the bodyguard objects: 'Pavel Yuryevich, we are against this!'
 - 'We are bodyguards, not body-breakers!' Vitalik says, coining a funny opposite word from the roots for body, guard, and break.
 - 'And what were you doing for Anikeyev, I wonder?' Pasha asks sarcastically.
 - 'Breaking an arm at karaoke is one thing,' Vitalik explains.
-- 'And hurting a person for life is another.'
+- 'And hurting a person for life is another.' Notice the word order: 'another' comes first, and 'life' finishes the sentence.
 - 'Believe us, you do not need this,' the bodyguard adds.
-- 'You ruin your karma that way.'
+- 'You ruin your karma that way.' The first content word means 'you', and 'ruin' rounds out the thought.
 - Pasha loses his temper: 'Listen to me carefully, you philosophers!'
-- 'I gave you an order!'
+- 'I gave you an order!' Notice the word order: 'I' comes first, and 'order' finishes the sentence.
 - 'If you cannot do the job, leave!' he snaps.
-- 'And find yourselves another job with a good salary!'
+- 'And find yourselves another job with a good salary!' Notice the word order: 'look for' comes first, and 'salary' finishes the sentence.
 - Faced with losing their perks, the bodyguards fold immediately: 'Fine, we will do everything.'
 - 'I hope so,' Pasha replies.
 - 'Go on, act quickly!' he orders them out of his office.

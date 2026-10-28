@@ -49,5 +49,5 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Hold on, Nina.' Samson decides to take charge of the situation himself.
 - 'Hand the little phone over here!' Literally 'give hither'.
 - 'Here you go.' The same word means both 'please' and 'here you are' when handing something over.
-- 'It's still bought with my money!'
+- 'It's still bought with my money!' A compact expression built around 'for now' and 'bought'.
 - 'Get up and wash the dishes, forward march!' He finishes with the army drill command 'forward march!'.

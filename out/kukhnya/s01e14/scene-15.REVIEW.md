@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dear friends, a moment of attention.' -- ENG She tells him this.
-- 'I want to introduce you to the best chef.' -- ENG She tells him this.
-- 'Good evening, dear guests.' -- ENG He says this to him.
-- 'This is Maximilian, an expert in French cuisine.' -- ENG She tells him this.
-- 'I am very glad to be here.' -- ENG He says this to him.
-- 'He kindly agreed to prepare an old dish.' -- ENG She tells him this.
-- 'We took it from this French book.' -- ENG She tells him this.
-- 'I chose this dish for us.' -- ENG She tells him this.
-- 'This is an excellent choice for tonight.' -- ENG He says this to him.
-- 'Maximilian will prepare it for us today.' -- ENG She tells him this.
-- 'I will do everything in the best way.' -- ENG He says this to him.
-- 'We are waiting for your culinary masterpiece.' -- ENG She tells him this.
+- 'Dear friends, a moment of attention.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'dear' straight to 'attention'.
+- 'I want to introduce you to the best chef.' Notice the word order: 'I' comes first, and 'head chef' finishes the sentence.
+- 'Good evening, dear guests.' Here 'good' sets up the idea, while 'visitors' comes at the end for emphasis.
+- 'This is Maximilian, an expert in French cuisine.' You'll hear 'this' all the time in the show, here connected with 'kitchen'. And Max jumps in.
+- 'I am very glad to be here.' Listen for the word meaning 'I' right alongside 'very much' in this line.
+- 'He kindly agreed to prepare an old dish.' Notice the word order: 'he' comes first, and 'dish' finishes the sentence.
+- 'We took it from this French book.' Elena puts 'we' up front so the listener immediately catches the tone, followed by 'took'.
+- 'I chose this dish for us.' Elena puts 'I' up front so the listener immediately catches the tone, followed by 'chose'.
+- 'This is an excellent choice for tonight.' The first content word means 'this', and 'evening' rounds out the thought.
+- 'Maximilian will prepare it for us today.' Elena puts 'person name' up front so the listener immediately catches the tone, followed by 'makes'. Then Max replies.
+- 'I will do everything in the best way.' The key word here means 'I', which Max combines with 'I'll do'.
+- 'We are waiting for your culinary masterpiece.' The first content word means 'we', and 'masterpiece' rounds out the thought.

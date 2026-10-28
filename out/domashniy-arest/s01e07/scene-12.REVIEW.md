@@ -32,7 +32,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'What kind of nonsense is that?' Marina dismisses his suspicion right away.
 - 'Edik, I just feel sorry for him.' Impersonal dative with the accusative of the person pitied.
 - 'He charmed you!' A perfective past verb meaning to enchant or charm someone.
-- 'Why do you need an old man when there is such a lively young neighbor nearby?'
+- 'Why do you need an old man when there's such a lively young neighbor nearby?' the speaker puts 'why' up front so the listener immediately catches the tone, followed by 'to you'.
 - 'Stop it! Nobody charmed me.' Remember that Russian uses double negation with nobody.
 - 'Nobody? Not even me?' Eduard teases her with a wounded smile.
 - 'I am the one who should be offended!' Marina turns the tables on him.

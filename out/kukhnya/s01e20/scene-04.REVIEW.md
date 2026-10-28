@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hi. I wanted to find out about the gift.' -- ENG He nervously calls her to discuss the photo.
-- 'Did you like this beautiful ring?' -- ENG He casually asks for her opinion on the jewelry.
-- 'Yes, it is very beautiful.' -- ENG She confirms that she absolutely loves the piece.
-- 'And do you know how much it costs?' -- ENG He points out the incredibly high price tag.
-- 'You consider this normal for a gift?' -- ENG He questions whether such an extravagant present is reasonable.
-- 'Of course. Tanya was choosing a gift for herself.' -- ENG She reveals that the ring was never for her.
-- 'She simply sent me a photograph.' -- ENG She explains why she forwarded the image to him.
-- 'But I wanted to gift you a ring myself.' -- ENG He foolishly tries to sound generous and romantic.
-- 'She undercut your gift?' -- ENG She asks if her friend ruined his secret plan.
-- 'I will tell her to choose something else.' -- ENG She decides to intervene to save his surprise.
-- 'And you will gift me this ring.' -- ENG She happily accepts his fake offer to buy it.
-- 'Why then? She already bought it.' -- ENG He desperately tries to stop her from calling Tanya.
-- 'No, she was simply asking for advice.' -- ENG She clarifies that the purchase is not final yet.
-- 'I will call her now.' -- ENG She hangs up, leaving him trapped in a lie.
+- 'Hi. I wanted to find out about the gift.' The verb for 'wanted' is in the masculine past tense, marked by that 'l' sound at the end.
+- 'Did you like this beautiful ring?' You'll hear 'for you' all the time in the show, here connected with 'ring'. And Vika jumps in.
+- 'Yes, it is very beautiful.' Here 'it' sets up the idea, while 'beautiful' comes at the end for emphasis.
+- 'And do you know how much it costs?' Listen for the word meaning 'you' right alongside 'know' in this line.
+- 'You consider this normal for a gift?' Max uses the casual singular 'you' with 'you', as close colleagues and friends do. Vika answers straight away.
+- 'Of course. Tanya was choosing a gift for herself.' Vika starts with 'of course' and pairs it with 'Tanya' to make the point clear.
+- 'She simply sent me a photograph.' The first content word means 'it', and 'a photo' rounds out the thought.
+- 'But I wanted to gift you a ring myself.' A compact expression built around 'I' and 'ring'. Then Vika replies.
+- 'She undercut your gift?' Notice the word order: 'it' comes first, and 'gift' finishes the sentence.
+- 'I will tell her to choose something else.' A compact expression built around 'I' and 'another'.
+- 'And you will gift me this ring.' Listen for the word meaning 'you' right alongside 'to me' in this line. And Max jumps in.
+- 'Why then? She already bought it.' Max starts with 'what for' and pairs it with 'it' to make the point clear.
+- 'No, she was simply asking for advice.' Notice the word order: 'it' comes first, and 'council' finishes the sentence.
+- 'I will call her now.' The key word here means 'I', which Vika combines with 'now'.

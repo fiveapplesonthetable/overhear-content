@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You have a very bad picture regarding safety.' — Notice the pronoun meaning 'you' paired with the adverb for 'very much'.
-- 'Everything is fine with us.' — Notice the pronoun meaning 'us' paired with the det for 'everything'.
-- 'We passed all inspections.' — Notice the pronoun meaning 'we' paired with the verb for 'to go through, to pass; to come along'.
-- 'How did you pass the inspections?' — Notice the adverb meaning 'how' paired with the pronoun for 'you'.
-- 'You have no fire extinguishers in the kitchen.' — Notice the pronoun meaning 'you' paired with the noun for 'fire extinguisher'.
-- 'We have one.' — Notice the pronoun meaning 'us' paired with the verb for 'there is (   = I have)'.
-- 'It is hanging under the table.' — Notice the pronoun meaning 'he' paired with the verb for '(it) has been hanging'.
-- 'It must hang within three meters.' — Notice the pronoun meaning 'he' paired with the adjective for 'has to, must'.
-- 'From the place of a possible fire.' — Notice the noun meaning 'places' paired with the adjective for 'possible, feasible'.
-- 'This is not a problem.' — Notice the pronoun meaning 'this' paired with the noun for 'problem'.
-- 'This is a very big problem.' — Notice the pronoun meaning 'this' paired with the adverb for 'very much'.
-- 'Oh, how bad everything is.' — Notice the interjection meaning 'oh' paired with the adverb for 'how'.
-- 'I give you two days for correction.' — Notice the pronoun meaning 'I' paired with the verb for 'give'.
-- 'We will do everything.' — Notice the pronoun meaning 'we' paired with the det for 'everything'.
+- 'You have a very bad picture regarding safety.' the speaker puts 'you' up front so the listener immediately catches the tone, followed by 'very much'.
+- 'Everything is fine with us.' In Russian, 'us' leads into 'order' in a very natural everyday phrasing.
+- 'We passed all inspections.' Here 'we' sets up the idea, while 'check' comes at the end for emphasis.
+- 'How did you pass the inspections?' Listen for the word meaning 'how' right alongside 'you' in this line.
+- 'You have no fire extinguishers in the kitchen.' the speaker uses the polite plural 'you' here alongside 'you', keeping a formal or respectful tone. Then Vika replies.
+- 'We have one.' Vika starts with 'us' and pairs it with 'there is' to make the point clear.
+- 'It is hanging under the table.' Listen for the word meaning 'he' right alongside 'has been hanging' in this line.
+- 'It must hang within three meters.' The first content word means 'he', and 'metre' rounds out the thought.
+- 'From the place of a possible fire.' The first content word means 'places', and 'fire' rounds out the thought.
+- 'This is not a problem.' A compact expression built around 'this' and 'problem'.
+- 'This is a very big problem.' Listen for the word meaning 'this' right alongside 'very much' in this line.
+- 'Oh, how bad everything is.' Here 'oh' sets up the idea, while 'badly' comes at the end for emphasis.
+- 'I give you two days for correction.' Notice the word order: 'I' comes first, and 'correction' finishes the sentence.
+- 'We will do everything.' Here 'we' sets up the idea, while 'we'll do' comes at the end for emphasis.

@@ -34,20 +34,20 @@ STORY = [
 OPENER = "Now let us examine the conversation line by line."
 
 WALK = [
-    (0, None, "'You look completely bad.' -- The speaker states this. ENG"),
-    (1, None, "'Does your stomach hurt?' -- The speaker states this. ENG"),
-    (2, None, "'Yes, I feel very bad.' -- The speaker states this. ENG"),
-    (3, None, "'I told you so.' -- The speaker states this. ENG"),
-    (4, None, "'You should not have eaten the fish.' -- The speaker states this. ENG"),
-    (5, None, "'I thought it was normal.' -- The speaker states this. ENG"),
-    (6, None, "'Do you know what to do?' -- The speaker states this. ENG"),
-    (7, None, "'You need to drink pepper and water.' -- The speaker states this. ENG"),
-    (8, None, "'Oh, I can not take it anymore.' -- The speaker states this. ENG"),
-    (9, None, "'Senya, what is wrong with you?' -- The speaker states this. ENG"),
-    (10, None, "'Senya, open your eyes! Senya!' -- The speaker states this. ENG"),
-    (11, None, "'Got it, let's move on.' -- The speaker wraps up the exchange in the kitchen.")
+    (0, None, "'You look completely bad.' Fedya uses the casual singular 'you' with 'you', as close colleagues and friends do."),
+    (1, None, "'Does your stomach hurt?' In Russian, 'you' leads into 'belly' in a very natural everyday phrasing. And Senya jumps in."),
+    (2, None, "'Yes, I feel very bad.' Here 'to me' sets up the idea, while 'badly' comes at the end for emphasis."),
+    (3, None, "'I told you so.' Notice the word order: 'I' comes first, and 'said' finishes the sentence."),
+    (4, None, "'You should not have eaten the fish.' The key word here means 'it is necessary', which Fedya combines with 'was'. Senya answers straight away."),
+    (5, None, "'I thought it was normal.' Senya starts with 'I' and pairs it with 'thought' to make the point clear."),
+    (6, None, "'Do you know what to do?' Fedya puts 'know' up front so the listener immediately catches the tone, followed by 'what'."),
+    (7, None, "'You need to drink pepper and water.' Here 'it is necessary' sets up the idea, while 'water' comes at the end for emphasis. Then Senya replies."),
+    (8, None, "'Oh, I can not take it anymore.' The first content word means 'oh', and 'can' rounds out the thought."),
+    (9, None, "'Senya, what is wrong with you?' Fedya puts 'Senya' up front so the listener immediately catches the tone, followed by 'what'."),
+    (10, None, "'Senya, open your eyes! Senya!' Listen for the word meaning 'Senya' right alongside 'to open' in this line."),
+    (11, None, "'Got it, let's move on.' The first content word means 'clear', and 'next' rounds out the thought.")
 ]
 
 TRANSITION = "Now let us listen to the conversation once again."
-OUTRO = "The conversation concludes the matter at hand."
+OUTRO = "And that's it for this scene. When you watch the episode, listen out for the exchange around poisoned, and for the words meaning 'look' and 'hurts'. You'll catch them now. See you next time."
 CLOSING = ("anya", "Сеня, открой глаза! Сеня!")

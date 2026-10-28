@@ -102,7 +102,7 @@ WALK = [
  (6, "Песни орём!",
   "'Bellowing songs!' Literally 'we yell songs': she uses 'we' sarcastically to describe her noisy neighbours."),
  (7, "Это кошмар, я не спорю.",
-  "'That's a nightmare, I don't argue.'"),
+  "'That's a nightmare, I don't argue.' A compact expression built around 'that' and 'argue'."),
  (7, "Но зачем на видео снимать?",
   "'But why film it on video?' Literally 'for what purpose to shoot onto video?'. Klavdia has a ready answer."),
  (8, None,

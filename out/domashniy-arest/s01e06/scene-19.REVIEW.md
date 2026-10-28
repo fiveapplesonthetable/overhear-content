@@ -49,5 +49,5 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Alright, we have arrived.' Yulia thanks him and says she could have taken the bus on her own.
 - 'How could you go on your own?' Literally 'where you yourself?'.
 - 'Look what a blizzard is out there!' Ignatyev still believes Yulia's tall tale that she is a poor orphan caring for a sick grandmother.
-- 'Alright, go on, run along.'
+- 'Alright, go on, run along.' Listen for the word meaning 'go on' right alongside 'run along!' in this line.
 - 'Say hello to your grandmother!' Literally 'to grandmother a greeting!' in the dative case.

@@ -15,7 +15,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 3 | Аня | Да, но я... | Yes, but I... | #345 00:22:12: Да, но я... | adapted: adapted |
 | 4 | Вика | Мы обязательно будем жить вместе. | We will definitely live together. | #345 00:22:12: Мы обязательно будем жить вместе, | adapted: adapted |
 | 5 | Вика | А сейчас спокойной ночи. | And now good night. | #347 00:22:19: А сейчас спокойной ночи. | adapted: adapted |
-| 6 | Аня | До завтра, макс. | Until tomorrow, my friend. | #348 00:22:23: До завтра. | adapted: adapted |
+| 6 | Аня | До завтра, Макс. | Until tomorrow, Max. | #348 00:22:23: До завтра. | adapted: adapted |
 | 7 | Вика | До завтра. | Until tomorrow. | #349 00:22:25: До завтра. | adapted: adapted |
 | 8 | Аня | Переехал жить в подъезд. | Moved to live in the hallway. | #350 00:22:29: Переехал жить своей девушке в подъезд. | adapted: adapted |
 | 9 | Костя | Привет, Макс. | Hi, Max. | #351 00:22:38: Да. Здорово, Макс. | adapted: adapted |
@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Therefore I will not pressure you.' — Notice the adverb meaning 'that's why' paired with the pronoun for 'I'.
-- 'Let everything remain as it was.' — Notice the det meaning 'everything' paired with the verb for 'stays'.
-- 'Yes, but I...' — Built around the key pronoun meaning 'I'.
-- 'We will definitely live together.' — Notice the pronoun meaning 'we' paired with the adverb for 'surely, without fail'.
-- 'And now good night.' — Notice the adverb meaning 'now' paired with the adjective for 'good (lit. calm)'.
-- 'Until tomorrow, my friend.' — Notice the adverb meaning 'tomorrow' paired with the proper name for 'Max'.
-- 'Until tomorrow.' — Built around the key adverb meaning 'tomorrow'.
-- 'Moved to live in the hallway.' — Notice the verb meaning 'to move (to a new home or city)' paired with the verb for 'to live'.
-- 'Hi, Max.' — Notice the interjection meaning 'hi' paired with the proper name for 'Max'.
-- 'What do you need?' — Notice the pronoun meaning 'what' paired with the pronoun for 'for you, to you'.
+- 'Therefore I will not pressure you.' The little negative word sits right in front of the verb for 'will be', just like 'not' in English.
+- 'Let everything remain as it was.' The question word for 'how' comes right at the start, followed directly by 'was'.
+- 'Yes, but I...' Here 'I' sets up the idea, while 'I' comes at the end for emphasis.
+- 'We will definitely live together.' You'll hear 'we' all the time in the show, here connected with 'together'.
+- 'And now good night.' The key word here means 'now', which Vika combines with 'good'.
+- 'Until tomorrow, Max.' Max starts with 'tomorrow' and pairs it with 'Max' to make the point clear.
+- 'Until tomorrow.' Vika puts 'tomorrow' up front so the listener immediately catches the tone, followed by 'tomorrow'. And Max jumps in.
+- 'Moved to live in the hallway.' In Russian, 'to move' leads into 'entrance' in a very natural everyday phrasing.
+- 'Hi, Max.' The first content word means 'hi', and 'Max' rounds out the thought.
+- 'What do you need?' The key word here means 'what', which Max combines with 'for you'. Kostya answers straight away.
 - 'Max, come back.' — Notice the proper name meaning 'Max' paired with the verb for 'return'.
-- 'We miss you.' — Notice the pronoun meaning '(to) us' paired with the pronoun for 'you'.
-- 'We will divide the apartment by three.' — Notice the pronoun meaning 'we' paired with the verb for 'we'll divide, split'.
-- 'I will try to come.' — Notice the pronoun meaning 'I' paired with the verb for 'to try, make an effort'.
+- 'We miss you.' You'll hear 'us' all the time in the show, here connected with 'grabs'.
+- 'We will divide the apartment by three.' Here 'we' sets up the idea, while 'three' comes at the end for emphasis. Then Max replies.
+- 'I will try to come.' Here 'I' sets up the idea, while 'to come' comes at the end for emphasis.

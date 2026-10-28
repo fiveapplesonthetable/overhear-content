@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Your restaurant will be excellent.' -- The speaker states this. ENG
-- 'We do everything right.' -- The speaker states this. ENG
-- 'Thank you very much.' -- The speaker states this. ENG
-- 'You really surprised me.' -- The speaker states this. ENG
-- 'Not a single cook without documents.' -- The speaker states this. ENG
-- 'I got used to working by the law.' -- The speaker states this. ENG
-- 'It was very pleasant for me.' -- The speaker states this. ENG
-- 'Let us go to another restaurant?' -- The speaker states this. ENG
-- 'Here is Claude Monet.' -- The speaker states this. ENG
-- 'Excellent, I love French cuisine.' -- The speaker states this. ENG
-- 'An inspection is coming to us!' -- The speaker states this. ENG
-- 'Everyone without documents, get out!' -- The speaker states this. ENG
+- 'Your restaurant will be excellent.' the speaker uses the polite plural 'you' here alongside 'restaurant', keeping a formal or respectful tone. Elena answers straight away.
+- 'We do everything right.' Notice the word order: 'we' comes first, and 'right' finishes the sentence.
+- 'Thank you very much.' Listen for the word meaning 'big' right alongside 'thank you' in this line.
+- 'You really surprised me.' Here 'to surprise' uses the plural past-tense ending, which also serves for the polite 'you'.
+- 'Not a single cook without documents.' The key word here means 'alone', which the speaker combines with 'cook'.
+- 'I got used to working by the law.' The first content word means 'I', and 'law' rounds out the thought.
+- 'It was very pleasant for me.' the speaker starts with 'to me' and pairs it with 'was' to make the point clear.
+- 'Let us go to another restaurant?' In Russian, 'let's go' leads into 'restaurant' in a very natural everyday phrasing.
+- 'Here is Claude Monet.' The key word here means 'here', which the speaker combines with 'there is'.
+- 'Excellent, I love French cuisine.' Here 'perfect' sets up the idea, while 'kitchen' comes at the end for emphasis. Chef Viktor answers straight away.
+- 'An inspection is coming to us!' Listen for the word meaning 'us' right alongside 'goes' in this line.
+- 'Everyone without documents, get out!' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'documents' straight to 'documents'.

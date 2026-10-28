@@ -99,14 +99,14 @@ WALK = [
   "'Ivan Vasilyevich, is throwing a person out the window normal?' Notice how 'into the window' uses the "
   "accusative case, which is how Russian says 'out of the window'. Samson answers bluntly."),
  (5, "А что с ними делать?",
-  "'And what are we supposed to do with them?'"),
+  "'And what are we supposed to do with them?' In Russian, 'what' leads into 'to do' in a very natural everyday phrasing."),
  (5, "Они совсем совесть потеряли!",
   "'They've completely lost their conscience!' Meaning the town officials. The reporter presses him."),
  (6, None,
   "'And what do you propose? Throwing all officials out the window?' Samson starts to agree, then remembers what "
   "Arkady coached him to say."),
  (7, "Можно и всех!",
-  "'Could do all of them!'"),
+  "'Could do all of them!' Listen for the word meaning 'one could' right alongside 'one could' in this line."),
  (7, "Но только это не поможет.",
   "'Only that won't help.' Arkady jumps in on cue to steer the conversation."),
  (8, None,
@@ -128,7 +128,7 @@ WALK = [
   "'Yes, yes! I am putting forward my candidacy.' And Arkady wraps up with a campaign pitch and their new "
   "slogan."),
  (15, "У Самсонова есть главное — честность и порядочность.",
-  "'Samsonov has the main thing — honesty and decency.'"),
+  "'Samsonov has the main thing — honesty and decency.' The key word here means 'Samsonov', which Arkady combines with 'there is'."),
  (15, "Все говорят, а он делает!",
   "'Everyone talks, while he gets things done!' Nina immediately steps up to give reporters the phone number of "
   "their campaign headquarters, and soon the news is on every screen in town."),

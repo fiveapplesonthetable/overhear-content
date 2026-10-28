@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Excellent tea!' -- ENG The chef is pleasantly surprised by the delicious alcoholic taste.
-- 'And what kind of tea is this?' -- ENG He playfully asks about the specific variety of the drink.
-- 'This is Sencha.' -- ENG The sous-chef replies with the name of a Japanese green tea.
-- 'Good job, we are acting according to our plan.' -- ENG The boss approves of their clever rule-breaking strategy.
-- 'Come on, Kostyan, come on, come on!' -- ENG Lyova encourages the bartender to hurry up with his tasks.
-- 'Everything is understood.' -- ENG Kostya confirms that he has heard the instructions clearly.
-- 'Take care of the seventh table, please.' -- ENG The sous-chef directs the bartender to serve waiting customers.
-- 'Victoria Sergeyevna, this is a note for you.' -- ENG Kostya hands a folded piece of paper to the manager.
-- 'This tea calms very well.' -- ENG The chef notes the immediate relaxing effect of the alcohol.
-- 'I am glad that you liked it.' -- ENG Lyova is relieved that his risky trick was successful.
-- 'Brew me one more cup.' -- ENG The boss demands a refill of his favorite new beverage.
-- 'We will do everything now.' -- ENG The loyal assistant rushes to prepare another spiked drink.
-- 'And from whom is this note?' -- ENG The bartender asks a question about the mysterious message.
-- 'Just pass it to Victoria Sergeyevna.' -- ENG He is told to simply deliver the paper without asking questions.
+- 'Excellent tea!' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'excellent' straight to 'tea'.
+- 'And what kind of tea is this?' The first content word means 'what', and 'tea' rounds out the thought.
+- 'This is Sencha.' Here 'this' sets up the idea, while 'sencha' comes at the end for emphasis. Then Chef Viktor replies.
+- 'Good job, we are acting according to our plan.' Chef Viktor puts 'well done' up front so the listener immediately catches the tone, followed by 'to act'.
+- 'Come on, Kostyan, come on, come on!' The key word here means 'let's', which Lyova combines with 'Kostyan'.
+- 'Everything is understood.' Kostya starts with 'clear' and pairs it with 'clear' to make the point clear. And Lyova jumps in.
+- 'Take care of the seventh table, please.' Lyova puts 'to attend to' up front so the listener immediately catches the tone, followed by 'seventh'.
+- 'Victoria Sergeyevna, this is a note for you.' Notice the word order: 'Viktoriya' comes first, and 'you' finishes the sentence.
+- 'This tea calms very well.' Listen for the word meaning 'tea' right alongside 'very much' in this line. Lyova answers straight away.
+- 'I am glad that you liked it.' The first content word means 'I', and 'pleased' rounds out the thought.
+- 'Brew me one more cup.' Listen for the word meaning 'brew' right alongside 'to me' in this line.
+- 'We will do everything now.' In Russian, 'now' leads into 'we'll do' in a very natural everyday phrasing. Then Kostya replies.
+- 'And from whom is this note?' The key word here means 'whom', which Kostya combines with 'note'.
+- 'Just pass it to Victoria Sergeyevna.' Lyova puts 'just' up front so the listener immediately catches the tone, followed by 'pass on'.

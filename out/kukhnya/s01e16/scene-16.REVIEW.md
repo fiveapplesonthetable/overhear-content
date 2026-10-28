@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Where did you get that?' — Notice the pronoun meaning 'you' paired with the pronoun for 'what?'.
-- 'Another illegal.' — Notice the adverb meaning 'more, still' paired with the numeral for 'one'.
-- 'Lord, where to put you?' — Notice the interjection meaning 'Good Lord' paired with the adverb for 'where to'.
-- 'You will sit in the toilet.' — Notice the pronoun meaning 'you' paired with the verb for 'to sit out'.
-- 'Then leave through the entrance.' — Notice the adverb meaning 'then' paired with the verb for 'to leave'.
-- 'They are on guard at the entrance.' — Notice the pronoun meaning 'they' paired with the verb for 'to be on duty'.
-- 'He will sit in the hall.' — Notice the verb meaning 'to sit down' paired with the noun for 'the hall'.
-- 'Go to the bar, take clothes.' — Notice the verb meaning 'go (and come back)' paired with the noun for 'bar'.
-- 'Endure, come on.' — Notice the verb meaning 'bear, endure' paired with the verb for 'let's'.
-- 'I congratulate you.' — Notice the verb meaning 'congratulations (lit. I congratulate)' paired with the pronoun for 'you'.
-- 'Everything is clean with you.' — Notice the pronoun meaning 'you' paired with the det for 'all'.
-- 'I told you right away.' — Notice the pronoun meaning 'I' paired with the pronoun for 'you (polite)'.
-- 'I have no right to believe.' — Notice the pronoun meaning 'I' paired with the verb for 'have (   = I mean)'.
+- 'Where did you get that?' In Russian, 'you' leads into 'got' in a very natural everyday phrasing.
+- 'Another illegal.' Notice the word order: 'more' comes first, and 'illegal immigrant' finishes the sentence. Then Chef Viktor replies.
+- 'Lord, where to put you?' Chef Viktor puts 'Good Lord' up front so the listener immediately catches the tone, followed by 'where to'.
+- 'You will sit in the toilet.' Listen for the word meaning 'you' right alongside 'to sit out' in this line.
+- 'Then leave through the entrance.' In Russian, 'then' leads into 'entrance' in a very natural everyday phrasing. And /  / jumps in.
+- 'They are on guard at the entrance.' /  / starts with 'they' and pairs it with 'to be on duty' to make the point clear.
+- 'He will sit in the hall.' Chef Viktor puts 'to sit down' up front so the listener immediately catches the tone, followed by 'the hall'.
+- 'Go to the bar, take clothes.' The key word here means 'go', which Chef Viktor combines with 'bar'.
+- 'Endure, come on.' Here 'bear' sets up the idea, while 'let's' comes at the end for emphasis.
+- 'I congratulate you.' A compact expression built around 'congratulations' and 'you'.
+- 'Everything is clean with you.' You'll hear 'you' all the time in the show, here connected with 'clean'. Then Chef Viktor replies.
+- 'I told you right away.' Chef Viktor uses the polite plural 'you' here alongside 'I', keeping a formal or respectful tone.
+- 'I have no right to believe.' Notice the word order: 'I' comes first, and 'to believe' finishes the sentence.
 - 'We are professionals.' — Notice the pronoun meaning 'we' paired with the noun for 'professionals'.

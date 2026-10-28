@@ -30,7 +30,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Vanya, understand at last! This is real success.' That little particle before the command adds impatience: 'come on, understand!'. Samson has had enough.
-- 'Get out of here, I told you!'
+- 'Get out of here, I told you!' the speaker puts 'get out' up front so the listener immediately catches the tone, followed by 'from here'.
 - 'Leave us in peace.' A very common set phrase: literally 'leave us in calm'. Arkady keeps pushing.
 - 'Vanya, this is the very best chance of your life!' 'The very best' combines 'most' with 'best'. Samson lists what Arkady's arrival has actually brought him.
 - 'Ever since I met you, my whole life has gone badly.' Literally 'how I met you, all life went badly'. He continues.
@@ -39,14 +39,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'There is your room, and here is ours. Between us is a wall, got it?' Notice how 'our' is feminine to match 'room', even though the word 'room' isn't repeated. So Arkady aims his pitch at the family.
 - 'Right now everything is in your hands! You can change your family's life.' And that catches Nina's ear.
 - 'Wait, are the chances really good?' The noun for 'truth' is used right in the middle of the sentence to mean 'really, truly'. Arkady turns to Nina with his smoothest smile.
-- 'Think about it yourselves.'
+- 'Think about it yourselves.' Listen for the word meaning 'you' right alongside 'think' in this line.
 - 'He is the most famous man in Sineozersk!' That superlative word 'most' in front of any adjective makes it 'the most...'. He hands them the tablet.
 - 'Read the comments about him. He's a people's hero!' And then he gives Nina the clincher.
-- 'Everything will go well.'
+- 'Everything will go well.' Here 'everything' sets up the idea, while 'well' comes at the end for emphasis.
 - 'In two months you will be the mayor's wife!' After 'will be', the noun 'wife' goes into the instrumental case. Even Samson stops and asks the key question.
 - 'And what's in it for you?' Literally 'and to you this what for?'. Arkady answers Nina honestly, as if Samson weren't even in the room.
 - 'He will become mayor and get me out.' Again, 'become' takes the instrumental case: 'will become mayor'.
 - 'I'll tell him how.' Meanwhile, Nina and their daughter Yulia look at the comments under the video.
 - 'Listen, here they write: Pride of Russia! Finally someone is for the people!' Ignoring a few rude comments about Arkady, the internet loves Samson. Nina is sold.
 - 'And what is needed from us?' Arkady rubs his hands together.
-- 'I will explain everything to you right now.'
+- 'I will explain everything to you right now.' A compact expression built around 'I' and 'will explain'.

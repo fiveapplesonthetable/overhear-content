@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'And what am I?' It is a simple phrase.
-- 'A croissant or celery?' It is a simple phrase.
-- 'Well, of course a croissant.' It is a simple phrase.
-- 'Why a croissant?' It is a simple phrase.
-- 'I don't eat flour products.' It is a simple phrase.
-- 'You saved our restaurant.' It is a simple phrase.
-- 'You did great, Max.' It is a simple phrase.
-- 'I just did my job.' It is a simple phrase.
-- 'No, it was cool.' It is a simple phrase.
-- 'You helped me a lot.' It is a simple phrase.
-- 'Thank you.' It is a simple phrase.
-- 'My brave croissant.' It is a simple phrase.
+- 'And what am I?' The question word for 'who' comes right at the start, followed directly by 'who'.
+- 'A croissant or celery?' The key word here means 'a croissant', which Max combines with 'celery'.
+- 'Well, of course a croissant.' Here 'of course' sets up the idea, while 'a croissant' comes at the end for emphasis.
+- 'Why a croissant?' A compact expression built around 'why' and 'a croissant'.
+- 'I don't eat flour products.' The key word here means 'I', which Max combines with 'to eat'.
+- 'You saved our restaurant.' Vika starts with 'you' and pairs it with 'saved' to make the point clear.
+- 'You did great, Max.' In Russian, 'you' leads into 'Max' in a very natural everyday phrasing. Max answers straight away.
+- 'I just did my job.' In Russian, 'I' leads into 'job' in a very natural everyday phrasing.
+- 'No, it was cool.' The first content word means 'this', and 'cool' rounds out the thought.
+- 'You helped me a lot.' A compact expression built around 'you' and 'to me'.
+- 'Thank you.' Vika puts 'thank you' up front so the listener immediately catches the tone, followed by 'for you'.
+- 'My brave croissant.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'brave' straight to 'a croissant'.

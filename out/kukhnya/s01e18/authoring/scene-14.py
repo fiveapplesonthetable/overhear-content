@@ -59,31 +59,31 @@ OPENER = "Now let us examine the conversation line by line."
 
 WALK = [
     (0, None,
-     "'Dima and I discussed the affairs.' -- The speaker states this. ENG"),
+     "'Dima and I discussed the affairs.' Here 'to discuss' uses the plural past-tense ending, which also serves for the polite 'you'."),
     (1, None,
-     "'I have a good idea.' -- The speaker states this. ENG"),
+     "'I have a good idea.' Notice the word order: 'me' comes first, and 'idea' finishes the sentence."),
     (2, None,
-     "'How to make the restaurant better.' -- The speaker states this. ENG"),
+     "'How to make the restaurant better.' Here 'how' sets up the idea, while 'better' comes at the end for emphasis."),
     (3, None,
-     "'But first I want to talk with you.' -- The speaker states this. ENG"),
+     "'But first I want to talk with you.' You'll hear 'first' all the time in the show, here connected with 'you'."),
     (4, None,
-     "'Only with you, Viktor Petrovich.' -- The speaker states this. ENG"),
+     "'Only with you, Viktor Petrovich.' The first content word means 'only', and 'Petrovich' rounds out the thought."),
     (5, None,
-     "'If you do not mind, Victoria Sergeyevna?' -- The speaker states this. ENG"),
+     "'If you do not mind, Victoria Sergeyevna?' In Russian, 'you' leads into 'Sergeyevna' in a very natural everyday phrasing. Vika answers straight away."),
     (6, None,
-     "'Yes, of course, I do not mind.' -- The speaker states this. ENG"),
+     "'Yes, of course, I do not mind.' Vika puts 'of course' up front so the listener immediately catches the tone, followed by 'I'."),
     (7, None,
-     "'Great, I am listening to you.' -- The speaker states this. ENG"),
+     "'Great, I am listening to you.' In Russian, 'wonderful' leads into 'I'm listening' in a very natural everyday phrasing."),
     (8, None,
-     "'I looked at the employees salaries.' -- The speaker states this. ENG"),
+     "'I looked at the employees salaries.' In Russian, 'I' leads into 'staff members' in a very natural everyday phrasing."),
     (9, None,
-     "'We need to make layoffs.' -- The speaker states this. ENG"),
+     "'We need to make layoffs.' A compact expression built around 'us' and 'dismissal'."),
     (10, None,
-     "'What are you talking about?' -- The speaker states this. ENG"),
+     "'What are you talking about?' Notice the word order: 'what' comes first, and 'say' finishes the sentence."),
     (11, None,
-     "'Vika receives a lot of money.' -- The speaker states this. ENG"),
+     "'Vika receives a lot of money.' Kristina starts with 'Vika' and pairs it with 'earns' to make the point clear."),
 ]
 
 TRANSITION = "Now let us listen to the conversation once again."
-OUTRO = "The conversation concludes the matter at hand."
+OUTRO = "And that's it for this scene. When you watch the episode, listen out for the exchange around secret conversation, and for the words meaning 'to discuss' and 'things'. You'll catch them now. See you next time."
 CLOSING = ("anya", "Вика получает очень много денег.")

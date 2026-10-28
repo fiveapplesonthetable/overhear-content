@@ -34,7 +34,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Are you buying rings for each other?' -- He asks if they buy rings for each other.
 - 'What is it to you, Senya? Go away.' -- He tells Senya to go away.
 - 'Just interesting, when will be your wedding?' -- He asks when their wedding will be.
-- 'This is not your problem. Shut up.' -- He tells him this is not his problem.
+- 'This is not your problem. Shut up.' The little negative word sits right in front of the verb for 'to fall silent', just like 'not' in English. Then Senya replies.
 - 'Okay, okay. I just joked.' -- He says he was just joking.
 - 'Did you already give the ring to Nastya?' -- He asks if he already gave the ring.
 - 'Not yet. I want to do this now.' -- He says he wants to do this now.

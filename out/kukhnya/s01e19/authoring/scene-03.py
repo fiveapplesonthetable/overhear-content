@@ -33,16 +33,16 @@ STORY = [
 ]
 
 WALK = [
-    (0, 'Что ты здесь делаешь?', "'What are you doing here?' — Notice the pronoun meaning 'what' paired with the pronoun for 'you'."),
-    (1, 'Что не на работе?', "'Why aren't you at work?' — Notice the pronoun meaning 'what' paired with the noun for 'work'."),
-    (2, 'Опять допрос.', "'Another interrogation.' — Notice the adverb meaning 'again' paired with the noun for 'interrogation'."),
-    (3, 'Вы сговорились что ли?', "'Did you plan this or something?' — Notice the pronoun meaning 'you' paired with the verb for 'conspired'."),
-    (4, 'Я сегодня во вторую смену.', "'I am on the second shift today.' — Notice the pronoun meaning 'I' paired with the adverb for 'today'."),
-    (5, 'Отлично. Я с тобой поеду.', "'Great. I will go with you.' — Notice the adverb meaning 'perfect, great' paired with the pronoun for 'I'."),
-    (6, 'Может ты забыл,', "'Maybe you forgot,' — Notice the verb meaning 'can' paired with the pronoun for 'you'."),
-    (7, 'Да, я помню.', "'Yeah, I remember.' — Notice the pronoun meaning 'I' paired with the verb for 'remember'."),
-    (8, 'Меня уволили.', "'I got fired.' — Notice the pronoun meaning 'me' paired with the verb for 'to fire, to dismiss'."),
-    (9, 'А что ты не у Вики остался?', "'Why didn't you stay at Vika's?' — Notice the pronoun meaning 'what' paired with the pronoun for 'you'."),
-    (10, 'Она меня не пустила.', "'She wouldn't let me in.' — Notice the pronoun meaning 'it (the pipe)' paired with the pronoun for 'me'."),
+    (0, 'Что ты здесь делаешь?', "'What are you doing here?' A compact expression built around 'what' and 'are you doing'."),
+    (1, 'Что не на работе?', "'Why aren't you at work?' Here 'what' sets up the idea, while 'work' comes at the end for emphasis."),
+    (2, 'Опять допрос.', "'Another interrogation.' Here 'again' sets up the idea, while 'interrogation' comes at the end for emphasis."),
+    (3, 'Вы сговорились что ли?', "'Did you plan this or something?' Kostya puts 'you' up front so the listener immediately catches the tone, followed by 'conspired'. Max answers straight away."),
+    (4, 'Я сегодня во вторую смену.', "'I am on the second shift today.' The key word here means 'I', which Max combines with 'today'."),
+    (5, 'Отлично. Я с тобой поеду.', "'Great. I will go with you.' Kostya starts with 'perfect' and pairs it with 'I' to make the point clear."),
+    (6, 'Может ты забыл,', "'Maybe you forgot,' Max starts with 'can' and pairs it with 'you' to make the point clear. Then Kostya replies."),
+    (7, 'Да, я помню.', "'Yeah, I remember.' Here 'I' sets up the idea, while 'remember' comes at the end for emphasis."),
+    (8, 'Меня уволили.', "'I got fired.' The first content word means 'me', and 'to fire' rounds out the thought."),
+    (9, 'А что ты не у Вики остался?', "'Why didn't you stay at Vika's?' Max starts with 'what' and pairs it with 'you' to make the point clear."),
+    (10, 'Она меня не пустила.', "'She wouldn't let me in.' You'll hear 'it' all the time in the show, here connected with 'to let go'."),
     (11, 'Она все усложнять начала.', "'She started making everything complicated.' — Notice the pronoun meaning 'it (the pipe)' paired with the det for 'all'.")
 ]

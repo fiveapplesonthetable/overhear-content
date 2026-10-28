@@ -31,21 +31,21 @@ STORY = [
 OPENER = "Let's listen to their conversation."
 
 WALK = [
- (0, "Давай еще на десять минут переведем.", "'Let's snooze it for another ten minutes.' ENG He wants to sleep a little longer."),
- (1, "Опять?", "'Again?' ENG She asks if he really wants to hit snooze again."),
- (2, None, "'Yeah.' ENG He confirms he is still tired."),
- (3, "Давай вообще на работу не пойдем.", "'Let's just skip work altogether.' ENG She jokes about not working."),
- (4, "Давай.", "'Let's.' ENG He enthusiastically agrees."),
- (5, "Я так хочу спать.", "'I want to sleep so much.' ENG He expresses his exhaustion."),
- (6, None, "'Me too.' ENG She shares his feeling."),
- (7, "Можно просто остаться дома.", "'We can just stay home.' ENG He proposes a lazy day."),
- (8, "Это плохая идея.", "'That is a bad idea.' ENG She brings them back to reality."),
- (9, None, "'They will fire us.' ENG The consequence of skipping work."),
- (10, "Тогда надо вставать.", "'Then we need to get up.' ENG He accepts the sad truth."),
- (11, None, "'Good morning.' ENG They finally start their day."),
+ (0, "Давай еще на десять минут переведем.", "'Let's snooze it for another ten minutes.' Listen for the word meaning 'let's' right alongside 'still' in this line. And Sasha jumps in."),
+ (1, "Опять?", "'Again?' Notice the word order: 'again' comes first, and 'again' finishes the sentence."),
+ (2, None, "'Yeah.' A compact expression built around 'yeah' and 'yeah'."),
+ (3, "Давай вообще на работу не пойдем.", "'Let's just skip work altogether.' You'll hear 'let's' all the time in the show, here connected with 'let's go'. Max answers straight away."),
+ (4, "Давай.", "'Let's.' Max starts with 'let's' and pairs it with 'let's' to make the point clear."),
+ (5, "Я так хочу спать.", "'I want to sleep so much.' Max puts 'I' up front so the listener immediately catches the tone, followed by 'want'."),
+ (6, None, "'Me too.' Sasha puts 'I' up front so the listener immediately catches the tone, followed by 'too'. Then Max replies."),
+ (7, "Можно просто остаться дома.", "'We can just stay home.' In Russian, 'may' leads into 'at home' in a very natural everyday phrasing."),
+ (8, "Это плохая идея.", "'That is a bad idea.' The first content word means 'this', and 'idea' rounds out the thought."),
+ (9, None, "'They will fire us.' Notice the word order: 'us' comes first, and 'will fire' finishes the sentence. And Max jumps in."),
+ (10, "Тогда надо вставать.", "'Then we need to get up.' Listen for the word meaning 'back then' right alongside 'it is necessary' in this line."),
+ (11, None, "'Good morning.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'good' straight to 'morning'."),
 ]
 
 TRANSITION = "Now let's hear the whole thing once more."
 
-OUTRO = "That wraps up this scene."
+OUTRO = "And that's it for this scene. When you watch the episode, listen out for the exchange around the alarm clock, and for the words meaning 'let's' and 'minutes'. You'll catch them now. See you next time."
 CLOSING = ("max", "Тогда надо вставать.")

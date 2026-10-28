@@ -36,19 +36,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - Right on cue, Arkady bangs his plaster cast against the wall: 'Oh, what is going on?'
 - 'I had only just dozed off!' he groans loudly.
 - 'Can you be quiet for the sake of a sick person?' he calls through the wall.
-- 'I need peace and quiet!'
+- 'I need peace and quiet!' A compact expression built around 'to me' and 'peace'.
 - A few seconds later he knocks again: 'Well, stop rustling behind the wall!' Notice the negative imperative plural.
 - 'Well, will there be silence or not?' Arkady demands.
 - 'We are sleeping already, we're sleeping!' Marina calls back, completely ending Eduard's romantic mood.
 - Meanwhile, Samsonov picks up his phone and calls Nina's lawyer friend: 'Hello, Danya, hi!'
-- 'This is Samsonov. How are things?'
+- 'This is Samsonov. How are things?' the speaker puts 'this is' up front so the listener immediately catches the tone, followed by 'Samsonov'.
 - 'Listen, forgive me for today,' Samsonov says, pretending to make peace.
-- 'I was wrong.'
+- 'I was wrong.' the speaker starts with 'I' and pairs it with 'was' to make the point clear.
 - 'Slavik said you are coming over tomorrow?' he asks.
-- 'Do you want to bring fondue?'
-- 'Haven't you changed your mind yet?'
-- 'Come on, come visit us!'
+- 'Do you want to bring fondue?' In Russian, 'do you want' leads into 'to bring' in a very natural everyday phrasing.
+- 'Haven't you changed your mind yet?' A compact expression built around 'changed your mind' and 'yet'.
+- 'Come on, come visit us!' A compact expression built around 'come on' and 'guests'.
 - 'Don't be afraid, everything is fine!' Samsonov reassures him.
-- 'We will sit together in a friendly way at the table.'
-- 'We're waiting for you tomorrow!'
+- 'We will sit together in a friendly way at the table.' The first content word means 'we will sit for a while', and 'the table' rounds out the thought.
+- 'We are waiting for you tomorrow!' the speaker uses an urgent command built around the verb for 'we are waiting for'.
 - 'Good night, Danya,' Samsonov says with a sly smile.

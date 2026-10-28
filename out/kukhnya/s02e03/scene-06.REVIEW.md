@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Look, this is a leather belt.' — Notice the verb meaning 'look' paired with the pronoun for 'this'.
-- 'Why do you have it in the kitchen?' — Notice the adverb meaning 'what for' paired with the pronoun for 'he'.
-- 'I am going to eat it.' — Notice the pronoun meaning 'I' paired with the verb for 'will be (there)'.
-- 'Is it a leather belt?' — Notice the pronoun meaning 'this' paired with the noun for 'leather'.
-- 'It is very long.' — Notice the pronoun meaning 'he' paired with the adverb for 'very much'.
-- 'I am a chef.' — Notice the pronoun meaning 'I' paired with the noun for 'chef, cook'.
-- 'I will cook it and eat it.' — Notice the pronoun meaning 'I' paired with the verb for 'will prepare'.
-- 'Nobody eats belts.' — Notice the pronoun meaning 'nobody' paired with the verb for 'to eat'.
-- 'But I will.' — Notice the pronoun meaning 'I' paired with the verb for 'will be (there)'.
-- 'All right, cook it.' — Notice the adverb meaning 'good, fine' paired with the verb for 'prepare'.
-- 'I will watch this.' — Notice the pronoun meaning 'I' paired with the verb for '(I'll) have a look'.
-- 'It will be very delicious.' — Notice the pronoun meaning 'this' paired with the verb for 'will be'.
+- 'Look, this is a leather belt.' Notice the word order: 'look' comes first, and 'belt' finishes the sentence. Then Senya replies.
+- 'Why do you have it in the kitchen?' The key word here means 'what for', which Senya combines with 'he'.
+- 'I am going to eat it.' The first content word means 'I', and 'there is' rounds out the thought.
+- 'Is it a leather belt?' Senya starts with 'this' and pairs it with 'leather' to make the point clear.
+- 'It is very long.' The key word here means 'he', which Senya combines with 'very much'.
+- 'I am a chef.' Fedya starts with 'I' and pairs it with 'chef' to make the point clear.
+- 'I will cook it and eat it.' Fedya puts 'I' up front so the listener immediately catches the tone, followed by 'will prepare'. Senya answers straight away.
+- 'Nobody eats belts.' In Russian, 'nobody' leads into 'belt' in a very natural everyday phrasing.
+- 'But I will.' Here 'I' sets up the idea, while 'will be' comes at the end for emphasis.
+- 'All right, cook it.' You'll hear 'good' all the time in the show, here connected with 'prepare'.
+- 'I will watch this.' Notice the word order: 'I' comes first, and 'this' finishes the sentence.
+- 'It will be very delicious.' Listen for the word meaning 'this' right alongside 'will be' in this line.

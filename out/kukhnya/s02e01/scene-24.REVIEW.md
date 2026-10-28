@@ -26,13 +26,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Oh, pour me a cup, would you?' -- ENG He casually asks the boss for a drink.
-- 'Oh, it is gone.' -- ENG The boss notices the empty teapot.
-- 'I will ask them to bring some.' -- ENG The boss offers to order more drink.
-- 'Boss, more tea.' -- ENG Someone brings a fresh pot to the table.
-- 'I have to hand it to you, Viktor Petrovich.' -- ENG The boss pretends to admire his foresight.
-- 'You have got everything under control.' -- ENG He compliments the chef's perfect organization.
-- 'You only had to think of it, and there it was.' -- ENG He comments on the fast service.
-- 'Oh, it has gone cold. I will brew a fresh pot.' -- ENG The chef makes an excuse about the temperature.
-- 'That is all right.' -- ENG The boss dismisses the concern.
-- 'I do not like it hot.' -- ENG He claims he prefers a warm drink.
+- 'Oh, pour me a cup, would you?' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'pour' straight to 'small cup'.
+- 'Oh, it is gone.' The key word here means 'he', which the speaker combines with 'ended'.
+- 'I will ask them to bring some.' Here 'I' sets up the idea, while 'will bring' comes at the end for emphasis.
+- 'Boss, more tea.' You'll hear 'chef' all the time in the show, here connected with 'tea'.
+- 'I have to hand it to you, Viktor Petrovich.' Here 'be amazed' sets up the idea, while 'Petrovich' comes at the end for emphasis.
+- 'You have got everything under control.' the speaker starts with 'how' and pairs it with 'you' to make the point clear.
+- 'You only had to think of it, and there it was.' Notice the word order: 'to cost' comes first, and 'to think' finishes the sentence. Chef Viktor answers straight away.
+- 'Oh, it has gone cold. I will brew a fresh pot.' In Russian, 'oh' leads into 'brew' in a very natural everyday phrasing.
+- 'That is all right.' The first content word means 'nothing', and 'terrible' rounds out the thought.
+- 'I do not like it hot.' A compact expression built around 'I' and 'hot'.

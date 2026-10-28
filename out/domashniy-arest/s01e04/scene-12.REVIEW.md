@@ -36,10 +36,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'But I thought too little about people.' Then he plays for sympathy.
 - 'I got into trouble. And I understood how hard life is for the people.' Literally 'how hard it is lived to the people', an impersonal reflexive verb with the dative case. The reporter turns to Samson.
 - 'Ivan Vasilyevich, is throwing a person out the window normal?' Notice how 'into the window' uses the accusative case, which is how Russian says 'out of the window'. Samson answers bluntly.
-- 'And what are we supposed to do with them?'
+- 'And what are we supposed to do with them?' In Russian, 'what' leads into 'to do' in a very natural everyday phrasing.
 - 'They've completely lost their conscience!' Meaning the town officials. The reporter presses him.
 - 'And what do you propose? Throwing all officials out the window?' Samson starts to agree, then remembers what Arkady coached him to say.
-- 'Could do all of them!'
+- 'Could do all of them!' Listen for the word meaning 'one could' right alongside 'one could' in this line.
 - 'Only that won't help.' Arkady jumps in on cue to steer the conversation.
 - 'Right, that won't help! People need to do it themselves now.' Samson forgets his next line.
 - 'Do what themselves?' Luckily, the reporter guesses it for him.
@@ -48,5 +48,5 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'He is putting forward his candidacy for the post of mayor of the city!' The reporters gasp and ask Samson directly.
 - 'Do you confirm this, Ivan Vasilyevich?' Prompted by a nod from Arkady, Samson repeats the long phrase.
 - 'Yes, yes! I am putting forward my candidacy.' And Arkady wraps up with a campaign pitch and their new slogan.
-- 'Samsonov has the main thing — honesty and decency.'
+- 'Samsonov has the main thing — honesty and decency.' The key word here means 'Samsonov', which Arkady combines with 'there is'.
 - 'Everyone talks, while he gets things done!' Nina immediately steps up to give reporters the phone number of their campaign headquarters, and soon the news is on every screen in town.

@@ -35,7 +35,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Come on, Anton, you call this a house.' Then Samson inspects the woodwork more closely.
 - 'And did you do the renovation yourself?' Golovkin immediately guesses what's coming.
 - 'What, are the seams uneven everywhere?' Samson points right at the wall planks.
-- 'Oh, look, you have gaps over there!'
+- 'Oh, look, you have gaps over there!' the speaker puts 'oh' up front so the listener immediately catches the tone, followed by 'look'.
 - 'I'm a builder, I know my stuff.' That reflexive verb literally means 'I sort things out, I understand a subject well'. Nina steps in politely.
 - 'Well I like it, Danya.' Notice the dative 'to me'.
 - 'Good job, it's very cosy.' Then Samson opens his shirt collar and looks down at his chest.
@@ -48,9 +48,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Nina, what is he saying?' Nina plays along with the lie.
 - 'No, he's telling it all right!' Notice that 'yes no' at the start simply means an emphatic 'no!'. Encouraged, Golovkin elaborates.
 - 'They jumped into a car and drove off.' And according to Golovkin, Samson gave chase.
-- 'You drove after them in the car.'
+- 'You drove after them in the car.' In Russian, 'you' leads into 'car' in a very natural everyday phrasing.
 - 'And rammed them head-on!' Literally 'and right into the forehead!'. Golovkin acts amazed that Samson forgot.
 - 'Don't you remember anything at all?' Flattered again, Samson pretends it's coming back to him.
-- 'I'm trying to recall it.'
+- 'I'm trying to recall it.' You'll hear 'I' all the time in the show, here connected with 'am recalling'.
 - 'So I wrecked the car, then?' Golovkin waves it away.
-- 'And the car is insured, don't be upset.'
+- 'And the car is insured, don't be upset.' Listen for the word meaning 'car' right alongside 'is insured' in this line.

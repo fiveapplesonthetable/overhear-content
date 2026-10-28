@@ -31,20 +31,20 @@ STORY = [
 
 OPENER = "Let's go through it line by line. Pay close attention to the grammar and vocabulary."
 WALK = [
-    (0, None, "'Victoria Sergeyevna, wait.' It is a simple phrase."),
-    (1, None, "'I'll never forgive myself.' It is a simple phrase."),
-    (2, None, "'If I don't ask you this right now.' It is a simple phrase."),
-    (3, None, "'Do you have a husband?' It is a simple phrase."),
-    (4, None, "'Or boyfriend?' It is a simple phrase."),
-    (5, None, "'I don't have a husband or a boyfriend.' It is a simple phrase."),
-    (6, None, "'In that case, I look forward to seeing you again.' It is a simple phrase."),
-    (7, None, "'What a pleasant evening 0.' — Notice the det meaning 'what a, how' paired with the adjective for 'nice, pleasant'."),
-    (8, None, "'What a pleasant evening 1.' — Notice the det meaning 'what a, how' paired with the adjective for 'nice, pleasant'."),
-    (9, None, "'What a pleasant evening 2.' — Notice the det meaning 'what a, how' paired with the adjective for 'nice, pleasant'."),
-    (10, None, "'What a pleasant evening 3.' — Notice the det meaning 'what a, how' paired with the adjective for 'nice, pleasant'."),
-    (11, None, "'What a pleasant evening 4.' — Notice the det meaning 'what a, how' paired with the adjective for 'nice, pleasant'.")
+    (0, None, "'Victoria Sergeyevna, wait.' Notice the word order: 'Viktoriya' comes first, and 'wait' finishes the sentence."),
+    (1, None, "'I'll never forgive myself.' Notice the word order: 'I' comes first, and 'yourself' finishes the sentence."),
+    (2, None, "'If I don't ask you this right now.' Here 'will ask' sets up the idea, while 'now' comes at the end for emphasis."),
+    (3, None, "'Do you have a husband?' Notice the word order: 'you' comes first, and 'husband' finishes the sentence."),
+    (4, None, "'Or boyfriend?' the guest puts 'boyfriend' up front so the listener immediately catches the tone, followed by 'boyfriend'."),
+    (5, None, "'I don't have a husband or a boyfriend.' Vika starts with 'husband' and pairs it with 'boyfriend' to make the point clear."),
+    (6, None, "'In that case, I look forward to seeing you again.' the guest puts 'I' up front so the listener immediately catches the tone, followed by 'will be'. Vika answers straight away."),
+    (7, None, "'What a pleasant evening 0.' The key word here means 'nice', which Vika combines with 'evening'."),
+    (8, None, "'What a pleasant evening 1.' The first content word means 'nice', and 'one' rounds out the thought."),
+    (9, None, "'What a pleasant evening 2.' A compact expression built around 'nice' and 'two'."),
+    (10, None, "'What a pleasant evening 3.' Here 'nice' sets up the idea, while 'three' comes at the end for emphasis."),
+    (11, None, "'What a pleasant evening 4.' You'll hear 'nice' all the time in the show, here connected with 'four'.")
 ]
 
 TRANSITION = "Now let's hear the whole scene once more, start to finish."
-OUTRO = "This concludes the scene. We hope you enjoyed practicing your Russian listening skills with us."
+OUTRO = "And that's it for this scene. When you watch the episode, listen out for the exchange around a guest's apology, and for the words meaning 'wait' and 'will forgive'. You'll catch them now. See you next time."
 CLOSING = ("guest", "Я буду ждать новой встречи.")

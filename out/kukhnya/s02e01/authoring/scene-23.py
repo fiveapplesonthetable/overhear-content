@@ -60,13 +60,13 @@ OPENER = "Let us break down this interaction."
 
 WALK = [
     (4, None,
-     "'Having some tea, Viktor Petrovich?' -- ENG The boss sarcastically asks about his beverage."),
+     "'Having some tea, Viktor Petrovich?' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'tea' straight to 'Petrovich'."),
     (7, None,
-     "'That is right.' -- ENG The chef confidently confirms his action."),
+     "'That is right.' Notice the word order: 'this' comes first, and 'right' finishes the sentence."),
     (8, None,
-     "'You must work.' -- ENG The boss strictly commands him to do his job."),
+     "'You must work.' Here 'you' sets up the idea, while 'to work' comes at the end for emphasis."),
     (11, None,
-     "'This is simply outrageous.' -- ENG The boss expresses his deep anger."),
+     "'This is simply outrageous.' You'll hear 'this' all the time in the show, here connected with 'outrageous'."),
 ]
 
 TRANSITION = "Now let us listen to the conversation again without interruption."

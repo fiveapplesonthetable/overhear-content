@@ -60,13 +60,13 @@ OPENER = "Let us break down this interaction."
 
 WALK = [
     (4, None,
-     "'Vik,' -- ENG He casually calls out her name."),
+     "'Vik,' Here 'Vika' sets up the idea, while 'Vika' comes at the end for emphasis."),
     (5, None,
-     "'Looks like your plan worked.' -- ENG He loudly announces the success of their trick."),
+     "'Looks like your plan worked.' A compact expression built around 'apparently' and 'plan'. And Vika jumps in."),
     (6, None,
-     "'Shut up, please.' -- ENG She nervously asks him to stop talking."),
+     "'Shut up, please.' Notice the word order: 'to fall silent' comes first, and 'to fall silent' finishes the sentence."),
     (10, None,
-     "'This is our new owner.' -- ENG She quietly explains the identity of the man."),
+     "'This is our new owner.' You'll hear 'this' all the time in the show, here connected with 'owner'."),
 ]
 
 TRANSITION = "Now let us listen to the conversation again without interruption."

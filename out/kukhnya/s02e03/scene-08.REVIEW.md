@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I didn't mean to, honestly.' — Notice the pronoun meaning 'I' paired with the verb for 'wanted, meant'.
-- 'I will wipe it all up now.' — Notice the pronoun meaning 'I' paired with the adverb for 'now'.
-- 'Don't cry.' — Notice the adverb meaning 'it is necessary' paired with the verb for 'to cry'.
-- 'Everything is fine.' — Notice the det meaning 'all' paired with the adverb for 'good, fine'.
-- 'Will you fire me?' — Notice the pronoun meaning 'you' paired with the pronoun for 'me'.
-- 'You will tell management everything.' — Notice the pronoun meaning 'you' paired with the verb for 'will tell'.
-- 'I am not going anywhere.' — Notice the adverb meaning 'nowhere, anywhere (with motion)' paired with the pronoun for 'I'.
-- 'I won't say anything.' — Notice the pronoun meaning 'nothing' paired with the pronoun for 'I'.
-- 'Excuse me.' — Notice the verb meaning 'sorry, excuse me' paired with the pronoun for 'me'.
-- 'I really didn't mean to.' — Notice the pronoun meaning 'I' paired with the noun for 'honestly'.
-- 'Calm down.' — Built around the key verb meaning 'calm down'.
-- 'Go on working.' — Notice the verb meaning 'go' paired with the verb for 'to work'.
+- 'I didn't mean to, honestly.' A compact expression built around 'I' and 'honestly'.
+- 'I will wipe it all up now.' The key word here means 'I', which Sasha combines with 'now'.
+- 'Don't cry.' Here 'it is necessary' sets up the idea, while 'to cry' comes at the end for emphasis.
+- 'Everything is fine.' You'll hear 'good' all the time in the show, here connected with 'good'.
+- 'Will you fire me?' Notice the word order: 'you' comes first, and 'will fire' finishes the sentence.
+- 'You will tell management everything.' Sasha starts with 'you' and pairs it with 'will tell' to make the point clear. And Max jumps in.
+- 'I am not going anywhere.' Max puts 'nowhere' up front so the listener immediately catches the tone, followed by 'I'.
+- 'I won't say anything.' In Russian, 'nothing' leads into 'I'll tell' in a very natural everyday phrasing.
+- 'Excuse me.' In Russian, 'sorry' leads into 'me' in a very natural everyday phrasing.
+- 'I really didn't mean to.' The key word here means 'I', which Sasha combines with 'honestly'.
+- 'Calm down.' Listen for the word meaning 'calm down' right alongside 'calm down' in this line.
+- 'Go on working.' The key word here means 'go', which Max combines with 'to work'.

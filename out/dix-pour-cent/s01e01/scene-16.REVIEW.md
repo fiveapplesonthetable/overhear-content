@@ -34,7 +34,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'It's just a job to make my family happy.' Literally 'to do pleasure to my family'. Then she adds, with a smile...
 - 'My banker too.' Because a job pays the rent, after all.
 - 'Because actually, I'm an actress.' That's the word for a stage and screen actress. Again, no word for 'an' before it. And Gabriel? He's busy with his glass.
-- 'This wine is incredibly good!' The long word in the middle is just 'incredible' with an ending that makes it an adverb, like 'ly' in English. He asks her a question.
+- 'This wine is incredibly good!' In French, 'wine' leads into 'good' in a very natural everyday phrasing.
 - 'Have you tasted it?' The small word before the verb stands for 'it', the wine. He's polite: the formal 'you'.
 - 'No.' She hasn't touched it; she's too busy pitching.
 - 'It's magnificent.' He's talking about the wine, of course, not about her play. Sofia tries again.

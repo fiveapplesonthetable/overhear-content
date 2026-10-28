@@ -22,7 +22,7 @@ INTRO = (
 )
 OPENER = "Let's go back through it. Mathias calls Camille."
 TRANSITION = "Let's listen to the whole scene again."
-OUTRO = "Mathias is left with his regrets."
+OUTRO = "And that's it for this scene. When you watch the episode, listen out for the exchange around camille valentini, i am absent, and for the words meaning 'to answer' and 'to please'. You'll catch them now. See you next time."
 
 STORY = [
     ("mathias", "Camille, réponds-moi.", "Camille, answer me.", [], ""),

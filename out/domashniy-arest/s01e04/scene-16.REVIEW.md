@@ -37,7 +37,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'And when was this?' Neuter past tense of 'to be'.
 - 'Oh, that happens very often, Arkashenka.' This verb means 'happens regularly'.
 - 'Bellowing songs!' Literally 'we yell songs': she uses 'we' sarcastically to describe her noisy neighbours.
-- 'That's a nightmare, I don't argue.'
+- 'That's a nightmare, I don't argue.' A compact expression built around 'that' and 'argue'.
 - 'But why film it on video?' Literally 'for what purpose to shoot onto video?'. Klavdia has a ready answer.
 - 'I wanted to show it to the local policeman.' The noun is actually an adjective used as a noun: the officer in charge of the local district, here in the 'to' case. Arkady switches into politician mode.
 - 'Give this video to me.' Polite plural command.

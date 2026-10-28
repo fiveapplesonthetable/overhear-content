@@ -28,16 +28,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Boss, I got it.' — Notice the proper name meaning 'chef, boss' paired with the pronoun for 'I'.
-- 'You added basil, right?' — Notice the pronoun meaning 'you' paired with the verb for 'to add'.
-- 'Clear.' — Built around the key adjective meaning 'clean'.
-- 'Checked.' — Built around the key verb meaning 'checked'.
-- 'I knew it.' — Notice the pronoun meaning 'I' paired with the verb for 'knew'.
+- 'You added basil, right?' The first content word means 'you', and 'basil' rounds out the thought.
+- 'Clear.' You'll hear 'clean' all the time in the show, here connected with 'clean'.
+- 'Checked.' You'll hear 'checked' all the time in the show, here connected with 'checked'. And Chef Viktor jumps in.
+- 'I knew it.' The key word here means 'I', which Chef Viktor combines with 'knew'.
 - 'Viktor Petrovich, a mistake happened.' — Notice the proper name meaning 'Viktor' paired with the proper name for 'Petrovich'.
-- 'My people checked this person.' — Notice the det meaning 'my' paired with the noun for 'people'.
-- 'Completely clean.' — Notice the adverb meaning 'completely, absolutely' paired with the adjective for 'clean'.
-- 'And I always knew.' — Notice the pronoun meaning 'I' paired with the adverb for 'always'.
+- 'My people checked this person.' the speaker puts 'people' up front so the listener immediately catches the tone, followed by 'checked'.
+- 'Completely clean.' In Russian, 'completely' leads into 'clean' in a very natural everyday phrasing.
+- 'And I always knew.' The first content word means 'I', and 'knew' rounds out the thought.
 - 'Fedya, how are you?' — Notice the proper name meaning 'Fedya' paired with the pronoun for 'you'.
-- 'Fine.' — Built around the key adverb meaning 'fine, OK'.
-- 'How did you get me out?' — Notice the pronoun meaning 'you' paired with the adverb for 'how'.
-- 'Only the boss had keys.' — Notice the noun meaning 'the keys' paired with the adverb for 'only'.
+- 'Fine.' The key word here means 'fine', which /  / combines with 'fine'.
+- 'How did you get me out?' The key word here means 'you', which /  / combines with 'how'.
+- 'Only the boss had keys.' Notice the word order: 'the keys' comes first, and 'be' finishes the sentence. And Chef Viktor jumps in.
 - 'Let him think so.' — Notice the pronoun meaning 'he' paired with the verb for 'thinks'.

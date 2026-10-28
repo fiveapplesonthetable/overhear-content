@@ -22,7 +22,7 @@ INTRO = (
 )
 OPENER = "Let's go back through it. Mathias makes his call."
 TRANSITION = "Let's listen to the whole scene again."
-OUTRO = "Mathias has finally made his choice."
+OUTRO = "And that's it for this scene. When you watch the episode, listen out for the exchange around your methods are revolting, and for the words meaning 'to have' and 'to say'. You'll catch them now. See you next time."
 
 STORY = [
     ("lea", "Allô?", "Hello?", [(1207, "Allô ?")], ""),

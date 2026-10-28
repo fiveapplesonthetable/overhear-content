@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lyova, close the door, I am already sleeping.' -- He explains his feelings to him.
-- 'Oh, Viktor Petrovich, you are home.' -- He talks directly to him.
-- 'Thank god.' -- She tells him this.
-- 'I was so afraid that you would leave.' -- He talks directly to him.
-- 'I was very wrong.' -- He explains his feelings to him.
-- 'I should not have kicked you out.' -- He talks directly to him.
-- 'We have known each other for thousands of years.' -- She tells him this.
-- 'Anything can happen.' -- She tells him this.
-- 'We just need to ask for forgiveness.' -- She tells him this.
-- 'We need to forget this stupid story.' -- She tells him this.
-- 'I ask for your forgiveness.' -- He talks directly to him.
-- 'Viktor Petrovich, do you hear me?' -- He talks directly to him.
+- 'Lyova, close the door, I am already sleeping.' In Russian, 'Lyova' leads into 'sleep' in a very natural everyday phrasing.
+- 'Oh, Viktor Petrovich, you are home.' Listen for the word meaning 'oh' right alongside 'Viktor' in this line.
+- 'Thank god.' Here 'glory' sets up the idea, while 'to God' comes at the end for emphasis.
+- 'I was so afraid that you would leave.' Listen for the word meaning 'I' right alongside 'was afraid' in this line.
+- 'I was very wrong.' The key word here means 'I', which Lyova combines with 'was'.
+- 'I should not have kicked you out.' In Russian, 'I' leads into 'kick out' in a very natural everyday phrasing.
+- 'We have known each other for thousands of years.' Lyova puts 'we' up front so the listener immediately catches the tone, followed by 'acquainted'.
+- 'Anything can happen.' In Russian, 'can' leads into 'to happen' in a very natural everyday phrasing.
+- 'We just need to ask for forgiveness.' The first content word means 'it is necessary', and 'forgiveness' rounds out the thought.
+- 'We need to forget this stupid story.' A compact expression built around 'it is necessary' and 'history'.
+- 'I ask for your forgiveness.' Notice the word order: 'I' comes first, and 'forgiveness' finishes the sentence.
+- 'Viktor Petrovich, do you hear me?' Lyova starts with 'Viktor' and pairs it with 'Petrovich' to make the point clear.

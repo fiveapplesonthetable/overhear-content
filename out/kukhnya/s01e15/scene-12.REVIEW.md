@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Open up, we need to talk.' — Notice the verb meaning 'to open' paired with the pronoun for '(to) us'.
+- 'Open up, we need to talk.' Russian expresses this impersonally, literally saying 'to me' or 'to you' with 'to talk'. And Viktor jumps in.
 - 'Leva, what do you want?' — Notice the proper name meaning 'Lyova' paired with the pronoun for 'what'.
-- 'I want to tell you one thing.' — Notice the pronoun meaning 'I' paired with the verb for 'want'.
-- 'So that your foot is no longer in my house.' — Notice the noun meaning 'legs' paired with the det for 'your'.
-- 'Today pack your things and leave.' — Notice the adverb meaning 'today' paired with the verb for 'pack, gather'.
-- 'You no longer live with me and Mom.' — Notice the adverb meaning 'more' paired with the pronoun for 'you'.
-- 'Is that clear to you?' — Notice the pronoun meaning 'for you, to you' paired with the pronoun for 'this'.
-- 'Yes, sure.' — Notice the particle meaning 'yes (  = really?)' paired with the particle for 'please'.
-- 'As if I need it.' — Notice the adverb meaning 'very much' paired with the pronoun for 'to me (  = I have no time)'.
-- 'I am waiting until you leave.' — Notice the pronoun meaning 'I' paired with the verb for 'I'm waiting'.
-- 'I am already leaving.' — Notice the pronoun meaning 'I' paired with the adverb for 'already, now'.
-- 'Leave the keys on the table.' — Notice the noun meaning 'the keys' paired with the verb for 'keep, leave'.
+- 'I want to tell you one thing.' Here 'I' sets up the idea, while 'thing' comes at the end for emphasis.
+- 'So that your foot is no longer in my house.' You'll hear 'legs' all the time in the show, here connected with 'house'.
+- 'Today pack your things and leave.' The first content word means 'today', and 'go away' rounds out the thought.
+- 'You no longer live with me and Mom.' Lyova puts 'more' up front so the listener immediately catches the tone, followed by 'you'.
+- 'Is that clear to you?' Here 'for you' sets up the idea, while 'clear?' comes at the end for emphasis. Then Viktor replies.
+- 'Yes, sure.' In Russian, 'yes' leads into 'please' in a very natural everyday phrasing.
+- 'As if I need it.' Notice the word order: 'very much' comes first, and 'it is necessary' finishes the sentence.
+- 'I am waiting until you leave.' A compact expression built around 'I' and 'you'll leave'. And Viktor jumps in.
+- 'I am already leaving.' Here 'I' sets up the idea, while 'am leaving' comes at the end for emphasis.
+- 'Leave the keys on the table.' You'll hear 'the keys' all the time in the show, here connected with 'table'.

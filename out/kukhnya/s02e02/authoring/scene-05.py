@@ -14,7 +14,7 @@ SOURCE_FILE = "sources/kukhnya/s02/e02.ru.dual.srt"
 INTRO = "In this scene focused on sushi in a french restaurant, the Chef argues with Kristina about serving sushi in a French restaurant. Kristina reveals that Vika no longer works there. Let's listen closely to Chef Viktor and Kristina's exchange in Russian first, and then walk through each line together."
 OPENER = "Now let us examine the conversation line by line."
 TRANSITION = "Now let us listen to the conversation once again."
-OUTRO = "The conversation concludes the matter at hand."
+OUTRO = "And that's it for this scene. When you watch the episode, listen out for the exchange around sushi in a french restaurant, and for the words meaning 'French' and 'restaurant'. You'll catch them now. See you next time."
 CLOSING = ('kristina', 'Она сама уволилась.')
 
 STORY = [
@@ -33,17 +33,17 @@ STORY = [
 ]
 
 WALK = [
-    (0, None, "'We have a French restaurant.' -- The speaker states this. ENG"),
-    (1, None, "'And not Japanese.' -- The speaker states this. ENG"),
-    (2, None, "'I adore sushi.' -- The speaker states this. ENG"),
-    (3, None, "'I eat them every day.' -- The speaker states this. ENG"),
-    (4, None, "'And what if you want khachapuri?' -- The speaker states this. ENG"),
-    (5, None, "'I will call a khachapuri maker.' -- The speaker states this. ENG"),
-    (6, None, "'I know how to cook khachapuri.' -- The speaker states this. ENG"),
-    (7, None, "'Shut up and get out.' -- The speaker states this. ENG"),
-    (8, None, "'It is impossible to talk to you.' -- The speaker states this. ENG"),
-    (9, None, "'By the way, Vika doesn't work for us.' -- The speaker states this. ENG"),
-    (10, None, "'Did you fire her?' -- The speaker states this. ENG"),
-    (11, None, "'She quit herself.' -- The speaker states this. ENG"),
+    (0, None, "'We have a French restaurant.' The key word here means 'us', which Chef Viktor combines with 'French'."),
+    (1, None, "'And not Japanese.' Notice the word order: 'Japanese' comes first, and 'Japanese' finishes the sentence."),
+    (2, None, "'I adore sushi.' You'll hear 'I' all the time in the show, here connected with 'sushi'."),
+    (3, None, "'I eat them every day.' Notice the word order: 'I' comes first, and 'day' finishes the sentence."),
+    (4, None, "'And what if you want khachapuri?' You'll hear 'you' all the time in the show, here connected with 'khachapuri'."),
+    (5, None, "'I will call a khachapuri maker.' The first content word means 'I', and 'khachapuri baker' rounds out the thought. Senya answers straight away."),
+    (6, None, "'I know how to cook khachapuri.' A compact expression built around 'I' and 'khachapuri'."),
+    (7, None, "'Shut up and get out.' Notice the word order: 'shut up' comes first, and 'went' finishes the sentence."),
+    (8, None, "'It is impossible to talk to you.' The first content word means 'you', and 'to talk' rounds out the thought. Then Kristina replies."),
+    (9, None, "'By the way, Vika doesn't work for us.' Kristina puts 'by the way' up front so the listener immediately catches the tone, followed by 'Vika'."),
+    (10, None, "'Did you fire her?' You'll hear 'you' all the time in the show, here connected with 'to fire'."),
+    (11, None, "'She quit herself.' The reflexive ending on the verb for 'quit' turns the action back onto the subject."),
 ]
 

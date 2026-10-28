@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Did I wake you?' — Built around the key verb meaning 'to wake (someone) up'.
-- 'Please forgive me.' — Notice the verb meaning 'sorry, forgive me' paired with the pronoun for 'me'.
-- 'Where were you, anyway?' — Notice the adverb meaning 'where' paired with the pronoun for 'you'.
-- 'What is this, an interrogation?' — Notice the pronoun meaning 'what' paired with the adverb for 'here'.
-- 'You think you can wander off anywhere?' — Notice the pronoun meaning 'you' paired with the verb for 'to count; to think, to consider'.
-- 'And stroll in at three o'clock?' — Notice the verb meaning 'to come, to walk in' paired with the numeral for 'three'.
-- 'Quarter to.' — Built around the key numeral meaning 'fifteen'.
-- 'What kind of relationship do we have?' — Notice the pronoun meaning 'what' paired with the pronoun for 'us'.
-- 'We have an open relationship.' — Notice the pronoun meaning 'us' paired with the adjective for 'free'.
-- 'Everything is fine.' — Notice the det meaning 'all' paired with the adverb for 'good, fine'.
-- 'Since we have an open relationship,' — Notice the noun meaning 'time, occasion' paired with the pronoun for 'us'.
+- 'Did I wake you?' You'll hear 'to wake up' all the time in the show, here connected with 'to wake up'.
+- 'Please forgive me.' Max puts 'sorry' up front so the listener immediately catches the tone, followed by 'me'. Vika answers straight away.
+- 'Where were you, anyway?' You'll hear 'where' all the time in the show, here connected with 'was'.
+- 'What is this, an interrogation?' Notice the word order: 'what' comes first, and 'interrogation' finishes the sentence.
+- 'You think you can wander off anywhere?' The reflexive ending on the verb for 'wander' turns the action back onto the subject.
+- 'And stroll in at three o'clock?' Vika starts with 'to come' and pairs it with 'three' to make the point clear.
+- 'Quarter to.' Max puts 'fifteen' up front so the listener immediately catches the tone, followed by 'fifteen'.
+- 'What kind of relationship do we have?' The key word here means 'what', which Vika combines with 'us'. And Max jumps in.
+- 'We have an open relationship.' The key word here means 'us', which Max combines with 'free'.
+- 'Everything is fine.' A compact expression built around 'good' and 'good'.
+- 'Since we have an open relationship,' A compact expression built around 'time' and 'relations'.
 - 'You are free for tonight.' — Notice the adverb meaning 'today' paired with the pronoun for 'you'.

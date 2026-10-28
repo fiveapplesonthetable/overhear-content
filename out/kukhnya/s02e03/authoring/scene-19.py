@@ -57,15 +57,15 @@ OPENER = "Let us break down this interaction."
 
 WALK = [
     (1, None,
-     "'You saved me. That was quick thinking.' -- ENG He praises her ability to react fast in an emergency."),
+     "'You saved me. That was quick thinking.' Listen for the word meaning 'to help out' right alongside 'quickly' in this line."),
     (5, None,
-     "'By the way, did that girl leave a message for me?' -- ENG He casually asks about a recent visitor."),
+     "'By the way, did that girl leave a message for me?' There is no question word here — in Russian, rising intonation on 'pass on' is enough to make it a question. Sasha answers straight away."),
     (6, None,
-     "'No idea. I did not even see her leave.' -- ENG She admits she has no useful information about the person."),
+     "'No idea. I did not even see her leave.' You'll hear 'concept' all the time in the show, here connected with 'take off'."),
     (8, None,
-     "'Excuse me, would you like the check?' -- ENG Vika mockingly asks if he is ready to pay and leave."),
+     "'Excuse me, would you like the check?' Notice the word order: 'excuse me' comes first, and 'bill' finishes the sentence."),
     (10, None,
-     "'I would like to thank the chef personally.' -- ENG Max continues the joke, acting like a VIP customer."),
+     "'I would like to thank the chef personally.' A compact expression built around 'want' and 'cook'."),
 ]
 
 TRANSITION = "Now let us listen to the conversation again without interruption."

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We have a French restaurant.' -- The speaker states this. ENG
-- 'And not Japanese.' -- The speaker states this. ENG
-- 'I adore sushi.' -- The speaker states this. ENG
-- 'I eat them every day.' -- The speaker states this. ENG
-- 'And what if you want khachapuri?' -- The speaker states this. ENG
-- 'I will call a khachapuri maker.' -- The speaker states this. ENG
-- 'I know how to cook khachapuri.' -- The speaker states this. ENG
-- 'Shut up and get out.' -- The speaker states this. ENG
-- 'It is impossible to talk to you.' -- The speaker states this. ENG
-- 'By the way, Vika doesn't work for us.' -- The speaker states this. ENG
-- 'Did you fire her?' -- The speaker states this. ENG
-- 'She quit herself.' -- The speaker states this. ENG
+- 'We have a French restaurant.' The key word here means 'us', which Chef Viktor combines with 'French'.
+- 'And not Japanese.' Notice the word order: 'Japanese' comes first, and 'Japanese' finishes the sentence.
+- 'I adore sushi.' You'll hear 'I' all the time in the show, here connected with 'sushi'.
+- 'I eat them every day.' Notice the word order: 'I' comes first, and 'day' finishes the sentence.
+- 'And what if you want khachapuri?' You'll hear 'you' all the time in the show, here connected with 'khachapuri'.
+- 'I will call a khachapuri maker.' The first content word means 'I', and 'khachapuri baker' rounds out the thought. Senya answers straight away.
+- 'I know how to cook khachapuri.' A compact expression built around 'I' and 'khachapuri'.
+- 'Shut up and get out.' Notice the word order: 'shut up' comes first, and 'went' finishes the sentence.
+- 'It is impossible to talk to you.' The first content word means 'you', and 'to talk' rounds out the thought. Then Kristina replies.
+- 'By the way, Vika doesn't work for us.' Kristina puts 'by the way' up front so the listener immediately catches the tone, followed by 'Vika'.
+- 'Did you fire her?' You'll hear 'you' all the time in the show, here connected with 'to fire'.
+- 'She quit herself.' The reflexive ending on the verb for 'quit' turns the action back onto the subject.

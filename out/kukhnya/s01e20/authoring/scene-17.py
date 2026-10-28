@@ -63,13 +63,13 @@ OPENER = "Let us break down this interaction."
 
 WALK = [
     (1, None,
-     "'Bye.' -- ENG She simply waves and heads for the exit."),
+     "'Bye.' A compact expression built around 'bye' and 'bye'."),
     (2, None,
-     "'Oh, you are leaving already?' -- ENG He nervously tries to start a conversation."),
+     "'Oh, you are leaving already?' Notice the word order: 'already' comes first, and 'are leaving' finishes the sentence."),
     (3, None,
-     "'Yeah. It is kind of a downer here.' -- ENG She honestly admits that the event is boring."),
+     "'Yeah. It is kind of a downer here.' Here 'yeah' sets up the idea, while 'sadly' comes at the end for emphasis. Then Kostya replies."),
     (13, None,
-     "'Please, hear me out.' -- ENG He desperately begs for a brief moment of her time."),
+     "'Please, hear me out.' Kostya puts 'hear out' up front so the listener immediately catches the tone, followed by 'me'."),
 ]
 
 TRANSITION = "Now let us listen to the conversation again without interruption."

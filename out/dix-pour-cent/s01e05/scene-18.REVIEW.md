@@ -30,7 +30,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'But we don't really enjoy each other's company.' The phrase at the end literally means 'the one of the other'.
 - 'We shouldn't let the job define us.' The conditional form of 'must' means 'should'.
 - 'Arlette, for example.' Gabriel thinks about their oldest colleague at the agency.
-- 'What do we know about her? Or about Mathias?'
+- 'What do we know about her? Or about Mathias?' Notice the word order: 'what is it' comes first, and 'Mathias' finishes the sentence.
 - 'That's what the job is, Gabriel.' Literally 'it is that, the work'.
 - 'And us. Look at us.' The pronoun after the hyphen means 'us'.
 - 'What do I know about you?' Gabriel has no idea Colette is waiting upstairs in Andréa's room right now.
@@ -43,4 +43,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Someone important to me forgot my birthday.' After the word for 'someone', French links the adjective with the little word for 'of'.
 - 'No, it's past midnight.' Hippolyte says there is still time for the person to call, but the clock has already passed twelve.
 - 'He forgot.' She means her father, Mathias.
-- 'It's too late now.'
+- 'It's too late now.' A compact expression built around 'it is' and 'now'.

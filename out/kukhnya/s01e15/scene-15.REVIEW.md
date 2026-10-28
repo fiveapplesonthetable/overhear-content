@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Viktor Petrovich, are you not sleeping?' -- He talks directly to him.
-- 'I heard everything, Lyova.' -- He explains his feelings to him.
-- 'Did you hear my words?' -- He talks directly to him.
-- 'I almost had a stroke.' -- He explains his feelings to him.
-- 'Your speech was very fiery.' -- She tells him this.
-- 'I spoke from a pure heart.' -- He explains his feelings to him.
-- 'This is already the second heart attack today.' -- She tells him this.
-- 'So, you are not angry at me?' -- He talks directly to him.
-- 'No, I am not angry at you.' -- He talks directly to him.
-- 'Will you stay to live with us?' -- He talks directly to him.
-- 'Yes, I will stay here.' -- He explains his feelings to him.
-- 'I am very glad to hear this.' -- He explains his feelings to him.
-- 'And now let me sleep.' -- She tells him this.
+- 'Viktor Petrovich, are you not sleeping?' Notice the word order: 'Viktor' comes first, and 'to sleep' finishes the sentence. Then Viktor replies.
+- 'I heard everything, Lyova.' Notice the word order: 'I' comes first, and 'Lyova' finishes the sentence.
+- 'Did you hear my words?' A compact expression built around 'you' and 'words'.
+- 'I almost had a stroke.' In Russian, 'me' leads into 'blow' in a very natural everyday phrasing.
+- 'Your speech was very fiery.' Viktor puts 'your' up front so the listener immediately catches the tone, followed by 'speech'.
+- 'I spoke from a pure heart.' Lyova starts with 'I' and pairs it with 'said' to make the point clear.
+- 'This is already the second heart attack today.' Viktor puts 'this' up front so the listener immediately catches the tone, followed by 'already'. Lyova answers straight away.
+- 'So, you are not angry at me?' The first content word means 'then', and 'to be angry' rounds out the thought.
+- 'No, I am not angry at you.' The reflexive ending on the verb for 'to be angry' turns the action back onto the subject.
+- 'Will you stay to live with us?' The first content word means 'you', and 'us' rounds out the thought. Then Viktor replies.
+- 'Yes, I will stay here.' Listen for the word meaning 'I' right alongside 'stay' in this line.
+- 'I am very glad to hear this.' Here 'I' sets up the idea, while 'to hear' comes at the end for emphasis.
+- 'And now let me sleep.' You'll hear 'now' all the time in the show, here connected with 'get some sleep'.

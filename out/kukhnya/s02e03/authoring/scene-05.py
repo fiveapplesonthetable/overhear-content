@@ -31,21 +31,21 @@ STORY = [
 OPENER = "Let's listen to their conversation."
 
 WALK = [
- (0, "Ты жарить не умеешь.", "'You cannot fry.' ENG Senya criticizes his cooking skills."),
- (1, "Мясо жёсткое, как подошва.", "'The meat is tough as a shoe sole.' ENG He complains about the texture."),
- (2, None, "'In the navy we ate boots.' ENG Fedya says he can eat anything."),
- (3, "И ремни тоже ели.", "'And we ate belts too.' ENG He adds to his wild story."),
- (4, "Ты врёшь про сапоги.", "'You are lying about the boots.' ENG Senya doesn't believe him."),
- (5, "Не веришь мне?", "'You don't believe me?' ENG Fedya takes offense."),
- (6, None, "'Let's bet five grand.' ENG He proposes a serious wager."),
- (7, "Съешь мой ремень за пять штук?", "'You'll eat my belt for five grand?' ENG Senya sets the terms."),
- (8, "Ну, съем.", "'Well, I'll eat it.' ENG Fedya confidently accepts."),
- (9, "Луи, разбей.", "'Louis, break it.' ENG They ask Louis to witness the bet."),
- (10, "Хорошо.", "'Okay.' ENG Louis agrees to witness."),
- (11, None, "'Here is the belt.' ENG Senya hands over his belt."),
+ (0, "Ты жарить не умеешь.", "'You cannot fry.' The key word here means 'you', which Senya combines with 'fry'."),
+ (1, "Мясо жёсткое, как подошва.", "'The meat is tough as a shoe sole.' The first content word means 'meat', and 'shoe sole' rounds out the thought."),
+ (2, None, "'In the navy we ate boots.' You'll hear 'we' all the time in the show, here connected with 'were eating'."),
+ (3, "И ремни тоже ели.", "'And we ate belts too.' Notice the word order: 'belt' comes first, and 'were eating' finishes the sentence."),
+ (4, "Ты врёшь про сапоги.", "'You are lying about the boots.' The key word here means 'you', which Senya combines with 'are lying'."),
+ (5, "Не веришь мне?", "'You don't believe me?' In Russian, 'do you believe' leads into 'to me' in a very natural everyday phrasing."),
+ (6, None, "'Let's bet five grand.' A compact expression built around 'let's' and 'pieces/grand'."),
+ (7, "Съешь мой ремень за пять штук?", "'You'll eat my belt for five grand?' In Russian, 'eat' leads into 'pieces/grand' in a very natural everyday phrasing."),
+ (8, "Ну, съем.", "'Well, I'll eat it.' Fedya starts with 'to eat up' and pairs it with 'to eat up' to make the point clear. Then Senya replies."),
+ (9, "Луи, разбей.", "'Louis, break it.' Senya puts 'Louis' up front so the listener immediately catches the tone, followed by 'to break'."),
+ (10, "Хорошо.", "'Okay.' The key word here means 'good', which Louis combines with 'good'."),
+ (11, None, "'Here is the belt.' Here 'here you go' sets up the idea, while 'belt' comes at the end for emphasis."),
 ]
 
 TRANSITION = "Now let's hear the whole thing once more."
 
-OUTRO = "That wraps up this scene."
+OUTRO = "And that's it for this scene. When you watch the episode, listen out for the exchange around betting on a belt, and for the words meaning 'fry' and 'know how to'. You'll catch them now. See you next time."
 CLOSING = ("anya", "Съем.")

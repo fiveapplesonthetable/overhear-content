@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Are you sick? Get down immediately!' -- ENG She yells at him for climbing up to a dangerous height.
-- 'Vika, I cannot live without you.' -- ENG He acts heartbroken and ready to end his own life.
-- 'Stop this circus!' -- ENG She orders him to stop performing his ridiculous tragic play.
-- 'Do not blame yourself for anything.' -- ENG He continues his dramatic monologue while balancing carefully on the edge.
-- 'I understand that this is your trick.' -- ENG She exposes his obvious attempt to manipulate her feelings again.
-- 'You want to hang yourself — hang yourself, I do not care.' -- ENG She calls his bluff and turns away in disgust.
-- 'Wait, I want you to know.' -- ENG He begs her to listen to his final romantic words.
-- 'I truly love you!' -- ENG He shouts his loud declaration of love across the room.
-- 'Help! Kostya, help!' -- ENG He suddenly loses his balance and screams in absolute terror.
-- 'The guy loves you, and what about you?' -- ENG The bartender criticizes the manager for her cold and heartless reaction.
-- 'You shoved him into a noose.' -- ENG He blames her harsh words for his friend's terrible accident.
-- 'Kostya, urgently help him!' -- ENG She panics and begs the bartender to save the falling boy.
-- 'Did you really hang yourself?' -- ENG The bartender is shocked to see his friend actually choking.
+- 'Are you sick? Get down immediately!' The question word for 'what' comes right at the start, followed directly by 'immediately'.
+- 'Vika, I cannot live without you.' The little negative word sits right in front of the verb for 'can', just like 'not' in English. Vika answers straight away.
+- 'Stop this circus!' Here 'stop it' sets up the idea, while 'circus' comes at the end for emphasis.
+- 'Do not blame yourself for anything.' You'll hear 'to blame' all the time in the show, here connected with 'what'.
+- 'I understand that this is your trick.' A compact expression built around 'I' and 'trick'.
+- 'You want to hang yourself — hang yourself, I do not care.' Here 'do you want' sets up the idea, while 'the same' comes at the end for emphasis.
+- 'Wait, I want you to know.' Max starts with 'wait' and pairs it with 'I' to make the point clear.
+- 'I truly love you!' In Russian, 'I' leads into 'you' in a very natural everyday phrasing.
+- 'Help! Kostya, help!' The first content word means 'help', and 'help' rounds out the thought.
+- 'The guy loves you, and what about you?' Notice the word order: 'boyfriend' comes first, and 'what' finishes the sentence.
+- 'You shoved him into a noose.' Kostya starts with 'you' and pairs it with 'shove' to make the point clear. Vika answers straight away.
+- 'Kostya, urgently help him!' Vika uses an urgent command built around the verb for 'help'.
+- 'Did you really hang yourself?' You'll hear 'you' all the time in the show, here connected with 'hang oneself'.

@@ -42,6 +42,6 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I told you I'll pay it all back! What a greedy woman you are.' And he adds a dark joke.
 - 'You can't put caviar in your coffin to take with you!' Literally 'into the coffin with yourself you won't put caviar'.
 - 'Better into my coffin than to you! You're a bad man, Arkady.' Just then Samson comes in for breakfast, and Nina tries to calm the old lady down—and switches the channel.
-- 'Klavdia Viktorovna, there's a child here, we're having breakfast.'
+- 'Klavdia Viktorovna, there's a child here, we're having breakfast.' Nina starts with 'Klavdia' and pairs it with 'Viktorovna' to make the point clear.
 - 'And the television, by the way, is ours!' Remember that Klavdia wants a television of her very own. And the moment Nina changes the channel, a breaking news report comes on.
 - 'Oh, look, they're showing Samson on television! Several million views already!' It's the video from episode one, where Samson threw the corrupt mayor out the window and said ordinary people can't live decent lives because of crooks like him—and the whole country is watching it.

@@ -92,7 +92,7 @@ WALK = [
     (6, "Они остались в больнице!",
      "'They stayed at the hospital!' Marina realizes they left the X-rays behind."),
     (7, "Как остались? Надо срочно за ними бежать!",
-     "'How could they stay there? One must urgently run back for them!'"),
+     "'How could they stay there? I must urgently run back for them!' Listen for the word meaning 'how' right alongside 'stayed' in this line."),
     (8, None,
      "'Are you doing this on purpose?' Eduard suspects that Arkady is playing another trick."),
     (9, None,

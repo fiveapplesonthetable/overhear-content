@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Excuse me, have a pleasant evening.' -- The speaker states this. ENG
-- 'What do you need from me?' -- The speaker states this. ENG
-- 'I need this bottle.' -- The speaker states this. ENG
-- 'What are you talking about?' -- The speaker states this. ENG
-- 'I will take this bottle.' -- The speaker states this. ENG
-- 'And I will put another one for you.' -- The speaker states this. ENG
-- 'Do you have absolutely nothing to do?' -- The speaker states this. ENG
-- 'No, I just want to give another one.' -- The speaker states this. ENG
-- 'Do not touch anything, get out of here!' -- The speaker states this. ENG
-- 'But I must take it.' -- The speaker states this. ENG
-- 'I said, get out of here!' -- The speaker states this. ENG
-- 'Got it, let's move on.' -- The speaker wraps up the exchange in the kitchen.
+- 'Excuse me, have a pleasant evening.' Kostya uses the polite plural 'you' here alongside 'sorry', keeping a formal or respectful tone.
+- 'What do you need from me?' Russian expresses this impersonally, literally saying 'to me' or 'to you' with 'me'. Then Kostya replies.
+- 'I need this bottle.' Here 'to me' sets up the idea, while 'bottle' comes at the end for emphasis.
+- 'What are you talking about?' Listen for the word meaning 'what' right alongside 'you' in this line.
+- 'I will take this bottle.' In Russian, 'I' leads into 'a bottle' in a very natural everyday phrasing.
+- 'And I will put another one for you.' Kostya starts with 'you' and pairs it with 'will set' to make the point clear.
+- 'Do you have absolutely nothing to do?' The first content word means 'for you', and 'do' rounds out the thought.
+- 'No, I just want to give another one.' The key word here means 'I', which Kostya combines with 'just'. Chef Viktor answers straight away.
+- 'Do not touch anything, get out of here!' Here 'touch' sets up the idea, while 'from here' comes at the end for emphasis.
+- 'But I must take it.' You'll hear 'I' all the time in the show, here connected with 'take'.
+- 'I said, get out of here!' In Russian, 'I' leads into 'from here' in a very natural everyday phrasing. Then Kostya replies.
+- 'Got it, let's move on.' Listen for the word meaning 'clear' right alongside 'let's' in this line.

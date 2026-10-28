@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Not bad.' -- The Russian word '' is a very common way to express mild approval. ENG
-- 'Huh?' -- Maks is pleased. ENG
-- 'Only this isn't my pâté.' -- t my pâté.' The Chef reveals the truth. The word '' means 'only' or 'except'. ENG
-- 'What?' -- The literal translation is 'how?', which is used to express surprise, just like 'what?' in English. ENG
-- 'Same texture.' -- Maks defends his work. The word '' means 'the same' for feminine nouns. ENG
-- 'And I got the ingredients right.' -- He is sure he used the correct recipe. ENG
-- 'Wait.' -- The verb is in the formal plural imperative, showing respect to the Chef. ENG
-- 'What goes into your pâté?' -- He wants to know the secret ingredient. ENG
-- 'The Chef smiles.' -- He enjoys this moment. ENG
-- 'Let's go.' -- s go.' The Russian verb '' is used to suggest leaving together. ENG
-- 'Take a look.' -- They will see it together. ENG
-- 'They walk to the kitchen.' -- The secret will be revealed. ENG
+- 'Not bad.' In Russian, 'not bad' leads into 'not bad' in a very natural everyday phrasing. Then Maks replies.
+- 'Huh?' Notice the word order: 'yes' comes first, and 'yes' finishes the sentence.
+- 'Only this isn't my pâté.' Here 'only' sets up the idea, while 'pâté' comes at the end for emphasis.
+- 'What?' You'll hear 'how' all the time in the show, here connected with 'how'.
+- 'Same texture.' The key word here means 'that', which Maks combines with 'consistency'.
+- 'And I got the ingredients right.' Maks starts with 'roster' and pairs it with 'I' to make the point clear.
+- 'Wait.' Notice the word order: 'wait' comes first, and 'wait' finishes the sentence.
+- 'What goes into your pâté?' The question word for 'what' comes right at the start, followed directly by 'pâté'.
+- 'This is a secret.' The first content word means 'this', and 'secret' rounds out the thought.
+- 'Let's go.' A compact expression built around 'let's go' and 'let's go'.
+- 'Take a look.' In Russian, 'have a look' leads into 'have a look' in a very natural everyday phrasing.
+- 'Good.' Maks starts with 'good' and pairs it with 'good' to make the point clear.

@@ -96,5 +96,5 @@ WALK = [
 ]
 
 TRANSITION = "Now listen to the full conversation once more."
-OUTRO = "Great job! Keep practicing these lively dialogues with us to master everyday Russian."
+OUTRO = "And that's it for this scene. When you watch the episode, listen out for the exchange around time to return, and for the words meaning 'found' and 'work'. You'll catch them now. See you next time."
 CLOSING = ("anya", "Шеф, я же на работе!")
