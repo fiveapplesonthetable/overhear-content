@@ -1,5 +1,4 @@
-"""s01e09 scene 30: Мы же детский сад (bizarre tour)."""
-
+# domashniy-arest/s01e09/scene-30.py
 ID = "domashniy-arest-s01e09-scene-30"
 SHOW = "domashniy-arest"
 SEASON = 1
@@ -8,108 +7,46 @@ SCENE = 30
 TITLE = "Мы же детский сад  (We Are a Kindergarten)"
 LEVEL = "A1 — Duolingo Section 2"
 PAIR = "ru-en"
-VOICES = {"narrator": "sky", "anya": "alisa", "ilona": "angelina", "grisha": "anja"}
-LABELS = {"anya": "Землинкин", "ilona": "Илона", "grisha": "Гриша"}
 SOURCE_NAME = "Домашний арест (Domashniy Arest) S1.09"
 SOURCE_FILE = "sources/domashniy-arest/s01/e09.ru.dual.srt"
-SOURCE_NOTE = (
-    "Cues 776-838 (00:44:13-00:46:42). Ilona tours the bizarre nursery with fake director Zemlinkin. "
-    "He explains the other kids are away on an excursion, leaving only massive operative Grisha to dance and hug Auntie Ilona. "
-    "Zemlinkin touts lump-free porridge for three thousand rubles, and when Ilona asks whether anyone from City Hall called, "
-    "Zemlinkin feigns innocent surprise, claiming they are a daycare, not a night club."
-)
-
-INTRO = (
-    "Inside the makeshift daycare, Ilona looks around the oddly quiet rooms, accompanied by the nervous undercover director. "
-    "To cover for the total lack of children, the director presents a hulking adult agent named Grisha as their star pupil, "
-    "leading to an absurd tour full of forced hugs and reassuring nursery promises. "
-    "Let's listen to their conversation in Russian first; don't worry about catching every word."
-)
-
+VOICES = {"narrator": "sky", "zemlinkin": "anja", "ilona": "angelina"}
+LABELS = {"zemlinkin": "Землинкин", "ilona": "Илона"}
+INTRO = "Inside the makeshift daycare, Ilona looks around the oddly quiet rooms, accompanied by the nervous undercover director. To cover for the total lack of children, the director presents a hulking adult agent named Grisha as their star pupil, leading to an absurd tour full of forced hugs and reassuring nursery promises. Let's listen to their conversation in Russian first; don't worry about catching every word."
 STORY = [
-    ("anya", "Спрашивайте, если вас что-то интересует.",
-     "Ask if anything interests you.",
-     [(776, "спрашивайте, если вас что-то интересует")], "shortened cue 776"),
-    ("ilona", "Хорошо у вас тут. Тепло.",
-     "It is nice at your place. Warm.",
-     [(777, "Хорошо у вас тут"), (778, "Тепло, это главное")], "combined cues 777-778"),
-    ("ilona", "А где остальные детишки?",
-     "And where are the rest of the children?",
-     [(779, "А где остальные детишки")], "verbatim cue 779"),
-    ("anya", "Они сейчас на интересной экскурсии.",
-     "They are currently on an interesting field trip.",
-     [(780, "на экскурсии")], "adapted cue 780"),
-    ("anya", "А Гришенька к утреннику готовится.",
-     "And little Grisha is preparing for the morning show.",
-     [(781, "А Гришенька не поехал, мы к утреннику готовимся")], "adapted cue 781"),
-    ("anya", "Гриша, станцуй для тёти Илоны!",
-     "Grisha, dance for Auntie Ilona!",
-     [(784, "Для тети Илоны станцуем наш танец")], "adapted cue 784 with yo"),
-    ("grisha", "Я очень люблю танцевать.",
-     "I love to dance very much.",
-     [], "added Grisha line"),
-    ("anya", "Гриша, обними тётю Илону!",
-     "Grisha, hug Auntie Ilona!",
-     [(806, "Гриша, обними тетю Илону")], "verbatim cue 806 with yo"),
-    ("anya", "У него очень большое сердце.",
-     "He has a very big heart.",
-     [(808, "Сердце большое у него")], "adapted cue 808"),
-    ("ilona", "Какой добрый и сильный мальчик.",
-     "What a kind and strong boy.",
-     [(807, "очень добрый мальчик")], "adapted cue 807"),
-    ("anya", "Три тысячи в месяц с питанием.",
-     "Three thousand a month with meals included.",
-     [(826, "три тысячи в месяц с питанием")], "verbatim cue 826"),
-    ("anya", "Каша у нас без комочков.",
-     "Our porridge is without lumps.",
-     [(827, "Каша у нас без комочков")], "verbatim cue 827"),
-    ("ilona", "К вам из мэрии не звонили?",
-     "Did anyone call you from the mayor's office?",
-     [(832, "к вам из мэрии"), (833, "Не звонили")], "combined cues 832-833"),
-    ("anya", "Из мэрии? Мы же детский сад!",
-     "From the mayor's office? We are a kindergarten!",
-     [(834, "Из мэрии? А зачем? Мы же детский")], "adapted cue 834"),
-    ("ilona", "Спасибо вам. До свидания!",
-     "Thank you. Goodbye!",
-     [(836, "Все, до свидания")], "adapted cue 836"),
+    ("zemlinkin", "Спрашивайте, если вас что-то интересует.", "Ask if anything interests you.", [(776, 'спрашивайте, если вас что-то интересует')], "shortened cue 776"),
+    ("ilona", "Хорошо у вас тут. Тепло.", "It is nice at your place. Warm.", [(777, 'Хорошо у вас тут'), (778, 'Тепло, это главное')], "combined cues 777-778"),
+    ("ilona", "А где остальные детишки?", "And where are the rest of the children?", [(779, 'А где остальные детишки')], "verbatim cue 779"),
+    ("zemlinkin", "Они сейчас на интересной экскурсии.", "They are currently on an interesting field trip.", [(780, 'на экскурсии')], "adapted cue 780"),
+    ("zemlinkin", "А Гришенька к утреннику готовится.", "And little Grisha is preparing for the morning show.", [(781, 'А Гришенька не поехал, мы к утреннику готовимся')], "adapted cue 781"),
+    ("zemlinkin", "Гриша, станцуй для тёти Илоны!", "Grisha, dance for Auntie Ilona!", [(784, 'Для тети Илоны станцуем наш танец')], "adapted cue 784 with yo"),
+    ("zemlinkin", "Я очень люблю танцевать.", "I love to dance very much.", [], "added Grisha line"),
+    ("zemlinkin", "Гриша, обними тётю Илону!", "Grisha, hug Auntie Ilona!", [(806, 'Гриша, обними тетю Илону')], "verbatim cue 806 with yo"),
+    ("zemlinkin", "У него очень большое сердце.", "He has a very big heart.", [(808, 'Сердце большое у него')], "adapted cue 808"),
+    ("ilona", "Какой добрый и сильный мальчик.", "What a kind and strong boy.", [(807, 'очень добрый мальчик')], "adapted cue 807"),
+    ("zemlinkin", "Три тысячи в месяц с питанием.", "Three thousand a month with meals included.", [(826, 'три тысячи в месяц с питанием')], "verbatim cue 826"),
+    ("zemlinkin", "Каша у нас без комочков.", "Our porridge is without lumps.", [(827, 'Каша у нас без комочков')], "verbatim cue 827"),
+    ("ilona", "К вам из мэрии не звонили?", "Did anyone call you from the mayor's office?", [(832, 'к вам из мэрии'), (833, 'Не звонили')], "combined cues 832-833"),
+    ("zemlinkin", "Из мэрии? Мы же детский сад!", "From the mayor's office? We are a kindergarten!", [(834, 'Из мэрии? А зачем? Мы же детский')], "adapted cue 834"),
+    ("ilona", "Спасибо вам. До свидания!", "Thank you. Goodbye!", [(836, 'Все, до свидания')], "adapted cue 836"),
 ]
-
 OPENER = "Let us follow this surreal nursery walkthrough phrase by phrase to enjoy the dry comedy."
-
 WALK = [
-    (0, None,
-     "'Ask if anything interests you.' The polite imperative prompts the visitor to inquire freely."),
-    (1, None,
-     "'It is nice at your place. Warm.' The short adverbial predicates convey a pleasant indoor atmosphere."),
-    (2, None,
-     "'And where are the rest of the children?' The diminutive noun for children carries an affectionate tone."),
-    (3, None,
-     "'They are currently on an interesting field trip.' The preposition takes the locative case form."),
-    (4, None,
-     "'And little Grisha is preparing for the morning show.' The reflexive verb expresses active preparation."),
-    (5, None,
-     "'Grisha, dance for Auntie Ilona!' The informal imperative instructs the operative to perform his child dance."),
-    (6, None,
-     "'I love to dance very much.' The first-person verb combines with an infinitive to express personal enjoyment."),
-    (7, None,
-     "'Grisha, hug Auntie Ilona!' The imperative command prompts an awkward physical bear hug."),
-    (8, None,
-     "'He has a very big heart.' Russian uses the preposition with a genitive pronoun to express possession."),
-    (9, None,
-     "'What a kind and strong boy.' The exclamation word agrees in gender with the masculine noun."),
-    (10, None,
-     "'Three thousand a month with meals included.' The preposition with the instrumental indicates inclusive board."),
-    (11, None,
-     "'Our porridge is without lumps.' The preposition meaning 'without' takes the genitive plural noun ending."),
-    (12, None,
-     "'Did anyone call you from the mayor's office?' The preposition indicates origin or institutional affiliation."),
-    (13, None,
-     "'From the mayor's office? We are a kindergarten!' The emphatic particle expresses obvious common sense."),
-    (14, None,
-     "'Thank you. Goodbye!' The visitor offers standard polite parting wishes before quickly exiting."),
+    (0, None, "'Ask if anything interests you.' The polite command prompts the visitor to inquire freely."),
+    (1, None, "'It is nice at your place. Warm.' The short adverbial predicates convey a pleasant indoor atmosphere."),
+    (2, None, "'And where are the rest of the children?' The diminutive noun for children carries an affectionate tone."),
+    (3, None, "'They are currently on an interesting field trip.' The preposition takes the location case form."),
+    (4, None, "'And little Grisha is preparing for the morning show.' This phrase expresses active preparation."),
+    (5, None, "'Grisha, dance for Auntie Ilona!' The informal command instructs the operative to perform his child dance."),
+    (6, None, "'I love to dance very much.' The first-person verb combines with an action verb to express personal enjoyment."),
+    (7, None, "'Grisha, hug Auntie Ilona!' The command form command prompts an awkward physical bear hug."),
+    (8, None, "'He has a very big heart.' Russian uses the preposition with a 'of me/you' pronoun to express possession."),
+    (9, None, "'What a kind and strong boy.' The exclamation word agrees in gender with the masculine noun."),
+    (10, None, "'Three thousand a month with meals included.' The preposition with This phrase indicates inclusive board."),
+    (11, None, "'Our porridge is without lumps.' The preposition meaning 'without' takes the plural 'of' form noun ending."),
+    (12, None, "'Did anyone call you from the mayor's office?' The preposition indicates origin or institutional affiliation."),
+    (13, None, "'From the mayor's office? We are a kindergarten!' The emphatic particle expresses obvious common sense."),
+    (14, None, "'Thank you. Goodbye!' The visitor offers standard polite parting wishes before quickly exiting."),
 ]
-
 TRANSITION = "Now let us listen to the complete nursery tour once more, paying attention to the comical excuses."
-OUTRO = ("Ilona leaves satisfied that the nursery is genuine, completely fooled by the awkward performance. "
-         "Superb progress following this humorous Russian scene.")
-CLOSING = ("anya", "Мы же детский сад!")
+OUTRO = "Ilona leaves satisfied that the nursery is genuine, completely fooled by the awkward performance. Superb progress following this humorous Russian scene. See you next time!"
+CLOSING = ("zemlinkin", "Пока!")

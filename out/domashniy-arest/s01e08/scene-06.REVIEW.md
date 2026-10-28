@@ -4,39 +4,39 @@ Title: Песня о деньгах  (The Money Song)
 Level: A1 — Duolingo Section 2
 Pair: ru-en
 Source: Домашний арест (Domashniy Arest) S1.08
-Cues 85-97. The show's satirical title theme song by Semyon Slepakov. The verses humorously explore wealth, Swiss accounts, Monaco villas, and human greed.
+
 
 Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Сколько денег нужно человеку? | How much money does a person need? | #85 00:04:53: Сколько денег нужно | verbatim |
+| 1 | Певец | Сколько денег нужно человеку? | How much money does a person need? | #85 00:04:53: Сколько денег нужно | verbatim |
 | 2 | Хор | Сколько денег нужно, чтобы стать счастливым? | How much money do you need to be happy? | #85 00:04:53: чтобы стать счастливым<br>#86 00:05:09: Сколько денег нужно, чтобы стать счастливым | verbatim |
-| 3 | Аня | Сколько денег нужно тебе? | How much money do you need? | #85 00:04:53: нужно тебе<br>#87 00:05:15: Сколько денег нужно тебе | verbatim |
+| 3 | Певец | Сколько денег нужно тебе? | How much money do you need? | #85 00:04:53: нужно тебе<br>#87 00:05:15: Сколько денег нужно тебе | verbatim |
 | 4 | Хор | Немного там, немного здесь. | A little here, a little there. | #88 00:05:21: Немного там, немного здесь | verbatim |
-| 5 | Аня | И вот уже есть миллионов шесть! | And now you already have six million! | #89 00:05:26: И вот уже есть миллионов шесть | verbatim |
+| 5 | Певец | И вот уже есть миллионов шесть! | And now you already have six million! | #89 00:05:26: И вот уже есть миллионов шесть | verbatim |
 | 6 | Хор | Вилла в Монако, в Швейцарии счёт. | A villa in Monaco, an account in Switzerland. | #90 00:05:32: Вилла в Монако, в Швейцарии счет | verbatim |
-| 7 | Аня | Но человеку надо ещё! | But a person always needs more! | #91 00:05:36: Но надо, надо еще | verbatim |
+| 7 | Певец | Но человеку надо ещё! | But a person always needs more! | #91 00:05:36: Но надо, надо еще | verbatim |
 | 8 | Хор | Денег всегда мало. | There is never enough money. | new | new: theme elaborated for A1 learners |
-| 9 | Аня | Аппетит растёт каждый день. | The appetite grows every day. | new | new |
+| 9 | Певец | Аппетит растёт каждый день. | The appetite grows every day. | new | new |
 | 10 | Хор | Сколько денег нужно для счастья? | How much money is needed for happiness? | #92 00:05:41: сколько денег<br>#93 00:05:45: чтобы стать счастливым | verbatim |
-| 11 | Аня | Миллион, два миллиона или десять? | A million, two million, or ten? | new | new |
+| 11 | Певец | Миллион, два миллиона или десять? | A million, two million, or ten? | new | new |
 | 12 | Хор | Никто не знает точный ответ. | Nobody knows the exact answer. | new | new |
-| 13 | Аня | Сколько миллионов нужно человеку для счастья? | How many millions does a person need for happiness? | #95 00:05:52: Сколько денег<br>#96 00:05:55: чтобы стать счастливым | verbatim |
+| 13 | Певец | Сколько миллионов нужно человеку для счастья? | How many millions does a person need for happiness? | #95 00:05:52: Сколько денег<br>#96 00:05:55: чтобы стать счастливым | verbatim |
 | 14 | Хор | Каждый решает этот вопрос сам. | Everyone decides this question for themselves. | #97 00:05:57: сколько денег | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'How much money does a person need?' Notice the dative singular ending in the noun for a person.
+- 'How much money does a person need?' Notice the 'to'-form singular ending in the noun for a person.
 - 'How much money do you need to be happy?' The conjunction introduces a clause of purpose.
-- 'How much money do you need?' The dative pronoun indicates the person who experiences the need.
+- 'How much money do you need?' This phrase indicates the person who experiences the need.
 - 'A little here, a little there.' The word for a little bit is used twice for rhythm.
 - 'And now you already have six million!' Placing the numeral after the noun implies an approximate amount.
-- 'A villa in Monaco, an account in Switzerland.' Both geographic names take the prepositional case.
+- 'A villa in Monaco, an account in Switzerland.' Both geographic names take the location form.
 - 'But a person always needs more!' The impersonal modal expression indicates that more is required.
 - 'There is never enough money.' The adverb expresses an insufficient quantity.
 - 'The appetite grows every day.' The present tense verb indicates ongoing growth.
-- 'How much money is needed for happiness?' The preposition meaning 'for' governs the genitive case.
+- 'How much money is needed for happiness?' The preposition meaning 'for' governs the 'of' form.
 - 'A million, two million, or ten?' Notice the different counting forms following the numerals.
 - 'Nobody knows the exact answer.' The negative pronoun means nobody or no one.
 - 'How many millions does a person need for happiness?' The singer wonders about the true price of contentment.

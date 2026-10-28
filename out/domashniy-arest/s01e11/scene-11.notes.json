@@ -11,15 +11,15 @@
           "lemma": "я",
           "pos": "pron",
           "stress": null,
-          "gloss": "to me",
-          "gram": "dative 1st person pronoun"
+          "gloss": "to me (мне некогда = I have no time)",
+          "gram": "1st person singular, dative"
         },
         {
           "t": "ещё",
           "lemma": "ещё",
           "pos": "adv",
-          "stress": "ещё",
-          "gloss": "yet, ever",
+          "stress": null,
+          "gloss": "more, still",
           "gram": "adverb"
         },
         {
@@ -27,7 +27,7 @@
           "lemma": "никто",
           "pos": "pron",
           "stress": "никто́",
-          "gloss": "no one",
+          "gloss": "nobody",
           "gram": "negative pronoun, nominative"
         },
         {
@@ -36,7 +36,7 @@
           "pos": "adv",
           "stress": "никогда́",
           "gloss": "never",
-          "gram": "negative adverb"
+          "gram": "adverb"
         },
         {
           "t": "не",
@@ -60,7 +60,7 @@
           "pos": "noun",
           "stress": "за́втрак",
           "gloss": "breakfast",
-          "gram": "masculine inanimate noun, accusative singular"
+          "gram": "masculine singular nominative"
         }
       ]
     },
@@ -73,8 +73,8 @@
           "lemma": "я",
           "pos": "pron",
           "stress": null,
-          "gloss": "to me",
-          "gram": "dative 1st person pronoun"
+          "gloss": "to me (мне некогда = I have no time)",
+          "gram": "1st person singular, dative"
         },
         {
           "t": "поручили",
@@ -97,8 +97,8 @@
           "lemma": "о",
           "pos": "prep",
           "stress": null,
-          "gloss": "about, of",
-          "gram": "preposition with prepositional"
+          "gloss": "about",
+          "gram": "preposition + prepositional"
         },
         {
           "t": "вас,",
@@ -106,15 +106,15 @@
           "pos": "pron",
           "stress": null,
           "gloss": "you",
-          "gram": "prepositional plural pronoun"
+          "gram": "2nd person plural / polite, accusative"
         },
         {
           "t": "Виктория.",
           "lemma": "виктория",
           "pos": "name",
-          "stress": "Викто́рия",
-          "gloss": "Viktoriya",
-          "gram": "proper name, feminine, vocative"
+          "stress": null,
+          "gloss": "Victoria",
+          "gram": "full first name"
         }
       ]
     },
@@ -125,10 +125,10 @@
         {
           "t": "Спасибо",
           "lemma": "спасибо",
-          "pos": "interj",
-          "stress": "Спаси́бо",
+          "pos": "noun",
+          "stress": "спаси́бо",
           "gloss": "thank you",
-          "gram": "interjection"
+          "gram": "fixed expression"
         },
         {
           "t": "большое,",
@@ -136,30 +136,30 @@
           "pos": "adj",
           "stress": "большо́е",
           "gloss": "big, very much",
-          "gram": "neuter singular nominative adjective"
+          "gram": "nominative singular, neuter; спасибо большое = thank you very much"
         },
         {
           "t": "это",
           "lemma": "это",
           "pos": "pron",
           "stress": "э́то",
-          "gloss": "this is",
-          "gram": "demonstrative, unchanging"
+          "gloss": "this",
+          "gram": "demonstrative pronoun, nominative"
         },
         {
           "t": "очень",
           "lemma": "очень",
           "pos": "adv",
           "stress": "о́чень",
-          "gloss": "very",
-          "gram": "adverb"
+          "gloss": "very much",
+          "gram": "adverb of degree"
         },
         {
           "t": "вкусно!",
           "lemma": "вкусно",
           "pos": "adv",
           "stress": "вку́сно",
-          "gloss": "tasty, delicious",
+          "gloss": "it's tasty",
           "gram": "predicative adverb"
         }
       ]
@@ -181,24 +181,24 @@
           "lemma": "вообще",
           "pos": "adv",
           "stress": "вообще́",
-          "gloss": "in general, actually",
-          "gram": "adverb"
+          "gloss": "at all",
+          "gram": "adverb, emphatic"
         },
         {
           "t": "очень",
           "lemma": "очень",
           "pos": "adv",
           "stress": "о́чень",
-          "gloss": "very",
-          "gram": "adverb"
+          "gloss": "very much",
+          "gram": "adverb of degree"
         },
         {
           "t": "люблю",
           "lemma": "любить",
           "pos": "verb",
           "stress": "люблю́",
-          "gloss": "love, like",
-          "gram": "1st person singular present"
+          "gloss": "(I) love",
+          "gram": "present, 1st person singular, imperfective"
         },
         {
           "t": "готовить",
@@ -206,15 +206,15 @@
           "pos": "verb",
           "stress": "гото́вить",
           "gloss": "to cook",
-          "gram": "imperfective infinitive"
+          "gram": "infinitive, imperfective"
         },
         {
           "t": "еду.",
-          "lemma": "еда",
-          "pos": "noun",
-          "stress": "еду́",
-          "gloss": "food",
-          "gram": "feminine inanimate noun, accusative singular"
+          "lemma": "ехать",
+          "pos": "verb",
+          "stress": "е́ду",
+          "gloss": "am driving, am on my way",
+          "gram": "present, 1st person singular, imperfective"
         }
       ]
     },
@@ -236,7 +236,7 @@
           "pos": "adv",
           "stress": "всегда́",
           "gloss": "always",
-          "gram": "adverb"
+          "gram": "adverb of time"
         },
         {
           "t": "готовил",
@@ -259,8 +259,8 @@
           "lemma": "свой",
           "pos": "det",
           "stress": "свое́й",
-          "gloss": "one's own",
-          "gram": "feminine dative singular possessive pronoun"
+          "gloss": "your own",
+          "gram": "instrumental singular, feminine"
         },
         {
           "t": "жене.",
@@ -268,7 +268,7 @@
           "pos": "noun",
           "stress": "жене́",
           "gloss": "wife",
-          "gram": "feminine animate noun, dative singular"
+          "gram": "feminine singular, prepositional"
         }
       ]
     },
@@ -279,10 +279,10 @@
         {
           "t": "Так",
           "lemma": "так",
-          "pos": "adv",
+          "pos": "part",
           "stress": null,
           "gloss": "so",
-          "gram": "adverbial connector"
+          "gram": "adverb"
         },
         {
           "t": "вы",
@@ -290,7 +290,7 @@
           "pos": "pron",
           "stress": null,
           "gloss": "you",
-          "gram": "nominative plural pronoun"
+          "gram": "2nd person plural, nominative"
         },
         {
           "t": "сейчас",
@@ -298,7 +298,7 @@
           "pos": "adv",
           "stress": "сейча́с",
           "gloss": "now",
-          "gram": "adverb"
+          "gram": "adverb of time"
         },
         {
           "t": "женаты",
@@ -321,8 +321,8 @@
           "lemma": "нет",
           "pos": "part",
           "stress": null,
-          "gloss": "not, no",
-          "gram": "negative particle"
+          "gloss": "no",
+          "gram": "negative answer"
         }
       ]
     },
@@ -336,7 +336,7 @@
           "pos": "part",
           "stress": null,
           "gloss": "no",
-          "gram": "negative particle"
+          "gram": "negative answer"
         },
         {
           "t": "я",
@@ -351,7 +351,7 @@
           "lemma": "уже",
           "pos": "adv",
           "stress": "уже́",
-          "gloss": "already",
+          "gloss": "already, now",
           "gram": "adverb"
         },
         {
@@ -360,13 +360,13 @@
           "pos": "adv",
           "stress": "давно́",
           "gloss": "for a long time",
-          "gram": "adverb"
+          "gram": "adverb of time"
         },
         {
           "t": "разведён.",
           "lemma": "разведённый",
           "pos": "adj",
-          "stress": "разведён",
+          "stress": null,
           "gloss": "divorced",
           "gram": "short form adjective, masculine singular"
         }
@@ -389,8 +389,8 @@
           "lemma": "весь",
           "pos": "det",
           "stress": null,
-          "gloss": "all, whole",
-          "gram": "neuter accusative singular pronoun"
+          "gloss": "everything",
+          "gram": "nominative neuter singular, used as a noun"
         },
         {
           "t": "время",
@@ -398,7 +398,7 @@
           "pos": "noun",
           "stress": "вре́мя",
           "gloss": "time",
-          "gram": "neuter inanimate noun, accusative singular"
+          "gram": "accusative singular, neuter"
         },
         {
           "t": "был",
@@ -406,14 +406,14 @@
           "pos": "verb",
           "stress": null,
           "gloss": "was",
-          "gram": "past masculine singular"
+          "gram": "past tense, masculine singular"
         },
         {
           "t": "на",
           "lemma": "на",
           "pos": "prep",
           "stress": null,
-          "gloss": "on, at",
+          "gloss": "on, onto",
           "gram": "preposition"
         },
         {
@@ -451,16 +451,16 @@
           "lemma": "вообще",
           "pos": "adv",
           "stress": "вообще́",
-          "gloss": "in general, actually",
-          "gram": "adverb"
+          "gloss": "at all",
+          "gram": "adverb, emphatic"
         },
         {
           "t": "очень",
           "lemma": "очень",
           "pos": "adv",
           "stress": "о́чень",
-          "gloss": "very",
-          "gram": "adverb"
+          "gloss": "very much",
+          "gram": "adverb of degree"
         },
         {
           "t": "верная",
@@ -476,7 +476,7 @@
           "pos": "noun",
           "stress": "же́нщина",
           "gloss": "woman",
-          "gram": "feminine animate noun, nominative singular"
+          "gram": "nominative singular"
         }
       ]
     },
@@ -498,7 +498,7 @@
           "pos": "det",
           "stress": "на́ше",
           "gloss": "our",
-          "gram": "neuter accusative singular possessive pronoun"
+          "gram": "nominative singular, neuter"
         },
         {
           "t": "время",
@@ -506,23 +506,23 @@
           "pos": "noun",
           "stress": "вре́мя",
           "gloss": "time",
-          "gram": "neuter inanimate noun, accusative singular"
+          "gram": "accusative singular, neuter"
         },
         {
           "t": "это",
           "lemma": "это",
           "pos": "pron",
           "stress": "э́то",
-          "gloss": "this is",
-          "gram": "demonstrative, unchanging"
+          "gloss": "this",
+          "gram": "demonstrative pronoun, nominative"
         },
         {
           "t": "большая",
           "lemma": "большой",
           "pos": "adj",
           "stress": "больша́я",
-          "gloss": "great, big",
-          "gram": "feminine nominative singular adjective"
+          "gloss": "large",
+          "gram": "nominative, feminine singular"
         },
         {
           "t": "редкость.",
@@ -542,9 +542,9 @@
           "t": "Мужчины",
           "lemma": "мужчина",
           "pos": "noun",
-          "stress": "Мужчи́ны",
-          "gloss": "men",
-          "gram": "masculine animate noun, nominative plural"
+          "stress": "мужчи́ны",
+          "gloss": "man",
+          "gram": "genitive singular, masculine"
         },
         {
           "t": "часто",
@@ -576,7 +576,7 @@
           "pos": "adj",
           "stress": "хоро́ших",
           "gloss": "good",
-          "gram": "accusative plural adjective"
+          "gram": "genitive plural"
         },
         {
           "t": "женщин.",
@@ -584,7 +584,7 @@
           "pos": "noun",
           "stress": "же́нщин",
           "gloss": "women",
-          "gram": "feminine animate noun, accusative plural"
+          "gram": "feminine plural genitive"
         }
       ]
     },
@@ -596,9 +596,9 @@
           "t": "Настоящий",
           "lemma": "настоящий",
           "pos": "adj",
-          "stress": "Настоя́щий",
+          "stress": "настоя́щий",
           "gloss": "real, genuine",
-          "gram": "masculine nominative singular adjective"
+          "gram": "nominative singular, masculine"
         },
         {
           "t": "мужчина",
@@ -606,7 +606,7 @@
           "pos": "noun",
           "stress": "мужчи́на",
           "gloss": "man",
-          "gram": "masculine animate noun, nominative singular"
+          "gram": "nominative singular, masculine"
         },
         {
           "t": "всегда",
@@ -614,7 +614,7 @@
           "pos": "adv",
           "stress": "всегда́",
           "gloss": "always",
-          "gram": "adverb"
+          "gram": "adverb of time"
         },
         {
           "t": "оценит",
@@ -630,7 +630,7 @@
           "pos": "det",
           "stress": "ва́шу",
           "gloss": "your",
-          "gram": "feminine accusative singular possessive pronoun"
+          "gram": "accusative singular, feminine"
         },
         {
           "t": "доброту.",
@@ -651,15 +651,15 @@
           "lemma": "я",
           "pos": "pron",
           "stress": null,
-          "gloss": "to me",
-          "gram": "dative 1st person pronoun"
+          "gloss": "to me (мне некогда = I have no time)",
+          "gram": "1st person singular, dative"
         },
         {
           "t": "ещё",
           "lemma": "ещё",
           "pos": "adv",
-          "stress": "ещё",
-          "gloss": "yet, ever",
+          "stress": null,
+          "gloss": "more, still",
           "gram": "adverb"
         },
         {
@@ -667,7 +667,7 @@
           "lemma": "никто",
           "pos": "pron",
           "stress": "никто́",
-          "gloss": "no one",
+          "gloss": "nobody",
           "gram": "negative pronoun, nominative"
         },
         {
@@ -676,7 +676,7 @@
           "pos": "adv",
           "stress": "никогда́",
           "gloss": "never",
-          "gram": "negative adverb"
+          "gram": "adverb"
         },
         {
           "t": "не",
@@ -700,7 +700,7 @@
           "pos": "noun",
           "stress": "за́втрак",
           "gloss": "breakfast",
-          "gram": "masculine inanimate noun, accusative singular"
+          "gram": "masculine singular nominative"
         }
       ]
     },
@@ -713,8 +713,8 @@
           "lemma": "я",
           "pos": "pron",
           "stress": null,
-          "gloss": "to me",
-          "gram": "dative 1st person pronoun"
+          "gloss": "to me (мне некогда = I have no time)",
+          "gram": "1st person singular, dative"
         },
         {
           "t": "поручили",
@@ -737,8 +737,8 @@
           "lemma": "о",
           "pos": "prep",
           "stress": null,
-          "gloss": "about, of",
-          "gram": "preposition with prepositional"
+          "gloss": "about",
+          "gram": "preposition + prepositional"
         },
         {
           "t": "вас,",
@@ -746,15 +746,15 @@
           "pos": "pron",
           "stress": null,
           "gloss": "you",
-          "gram": "prepositional plural pronoun"
+          "gram": "2nd person plural / polite, accusative"
         },
         {
           "t": "Виктория.",
           "lemma": "виктория",
           "pos": "name",
-          "stress": "Викто́рия",
-          "gloss": "Viktoriya",
-          "gram": "proper name, feminine, vocative"
+          "stress": null,
+          "gloss": "Victoria",
+          "gram": "full first name"
         }
       ]
     },
@@ -765,10 +765,10 @@
         {
           "t": "Спасибо",
           "lemma": "спасибо",
-          "pos": "interj",
-          "stress": "Спаси́бо",
+          "pos": "noun",
+          "stress": "спаси́бо",
           "gloss": "thank you",
-          "gram": "interjection"
+          "gram": "fixed expression"
         },
         {
           "t": "большое,",
@@ -776,30 +776,30 @@
           "pos": "adj",
           "stress": "большо́е",
           "gloss": "big, very much",
-          "gram": "neuter singular nominative adjective"
+          "gram": "nominative singular, neuter; спасибо большое = thank you very much"
         },
         {
           "t": "это",
           "lemma": "это",
           "pos": "pron",
           "stress": "э́то",
-          "gloss": "this is",
-          "gram": "demonstrative, unchanging"
+          "gloss": "this",
+          "gram": "demonstrative pronoun, nominative"
         },
         {
           "t": "очень",
           "lemma": "очень",
           "pos": "adv",
           "stress": "о́чень",
-          "gloss": "very",
-          "gram": "adverb"
+          "gloss": "very much",
+          "gram": "adverb of degree"
         },
         {
           "t": "вкусно!",
           "lemma": "вкусно",
           "pos": "adv",
           "stress": "вку́сно",
-          "gloss": "tasty, delicious",
+          "gloss": "it's tasty",
           "gram": "predicative adverb"
         }
       ]
@@ -821,24 +821,24 @@
           "lemma": "вообще",
           "pos": "adv",
           "stress": "вообще́",
-          "gloss": "in general, actually",
-          "gram": "adverb"
+          "gloss": "at all",
+          "gram": "adverb, emphatic"
         },
         {
           "t": "очень",
           "lemma": "очень",
           "pos": "adv",
           "stress": "о́чень",
-          "gloss": "very",
-          "gram": "adverb"
+          "gloss": "very much",
+          "gram": "adverb of degree"
         },
         {
           "t": "люблю",
           "lemma": "любить",
           "pos": "verb",
           "stress": "люблю́",
-          "gloss": "love, like",
-          "gram": "1st person singular present"
+          "gloss": "(I) love",
+          "gram": "present, 1st person singular, imperfective"
         },
         {
           "t": "готовить",
@@ -846,15 +846,15 @@
           "pos": "verb",
           "stress": "гото́вить",
           "gloss": "to cook",
-          "gram": "imperfective infinitive"
+          "gram": "infinitive, imperfective"
         },
         {
           "t": "еду.",
-          "lemma": "еда",
-          "pos": "noun",
-          "stress": "еду́",
-          "gloss": "food",
-          "gram": "feminine inanimate noun, accusative singular"
+          "lemma": "ехать",
+          "pos": "verb",
+          "stress": "е́ду",
+          "gloss": "am driving, am on my way",
+          "gram": "present, 1st person singular, imperfective"
         }
       ]
     },
@@ -876,7 +876,7 @@
           "pos": "adv",
           "stress": "всегда́",
           "gloss": "always",
-          "gram": "adverb"
+          "gram": "adverb of time"
         },
         {
           "t": "готовил",
@@ -899,8 +899,8 @@
           "lemma": "свой",
           "pos": "det",
           "stress": "свое́й",
-          "gloss": "one's own",
-          "gram": "feminine dative singular possessive pronoun"
+          "gloss": "your own",
+          "gram": "instrumental singular, feminine"
         },
         {
           "t": "жене.",
@@ -908,7 +908,7 @@
           "pos": "noun",
           "stress": "жене́",
           "gloss": "wife",
-          "gram": "feminine animate noun, dative singular"
+          "gram": "feminine singular, prepositional"
         }
       ]
     },
@@ -919,10 +919,10 @@
         {
           "t": "Так",
           "lemma": "так",
-          "pos": "adv",
+          "pos": "part",
           "stress": null,
           "gloss": "so",
-          "gram": "adverbial connector"
+          "gram": "adverb"
         },
         {
           "t": "вы",
@@ -930,7 +930,7 @@
           "pos": "pron",
           "stress": null,
           "gloss": "you",
-          "gram": "nominative plural pronoun"
+          "gram": "2nd person plural, nominative"
         },
         {
           "t": "сейчас",
@@ -938,7 +938,7 @@
           "pos": "adv",
           "stress": "сейча́с",
           "gloss": "now",
-          "gram": "adverb"
+          "gram": "adverb of time"
         },
         {
           "t": "женаты",
@@ -961,8 +961,8 @@
           "lemma": "нет",
           "pos": "part",
           "stress": null,
-          "gloss": "not, no",
-          "gram": "negative particle"
+          "gloss": "no",
+          "gram": "negative answer"
         }
       ]
     },
@@ -976,7 +976,7 @@
           "pos": "part",
           "stress": null,
           "gloss": "no",
-          "gram": "negative particle"
+          "gram": "negative answer"
         },
         {
           "t": "я",
@@ -991,7 +991,7 @@
           "lemma": "уже",
           "pos": "adv",
           "stress": "уже́",
-          "gloss": "already",
+          "gloss": "already, now",
           "gram": "adverb"
         },
         {
@@ -1000,13 +1000,13 @@
           "pos": "adv",
           "stress": "давно́",
           "gloss": "for a long time",
-          "gram": "adverb"
+          "gram": "adverb of time"
         },
         {
           "t": "разведён.",
           "lemma": "разведённый",
           "pos": "adj",
-          "stress": "разведён",
+          "stress": null,
           "gloss": "divorced",
           "gram": "short form adjective, masculine singular"
         }
@@ -1029,8 +1029,8 @@
           "lemma": "весь",
           "pos": "det",
           "stress": null,
-          "gloss": "all, whole",
-          "gram": "neuter accusative singular pronoun"
+          "gloss": "everything",
+          "gram": "nominative neuter singular, used as a noun"
         },
         {
           "t": "время",
@@ -1038,7 +1038,7 @@
           "pos": "noun",
           "stress": "вре́мя",
           "gloss": "time",
-          "gram": "neuter inanimate noun, accusative singular"
+          "gram": "accusative singular, neuter"
         },
         {
           "t": "был",
@@ -1046,14 +1046,14 @@
           "pos": "verb",
           "stress": null,
           "gloss": "was",
-          "gram": "past masculine singular"
+          "gram": "past tense, masculine singular"
         },
         {
           "t": "на",
           "lemma": "на",
           "pos": "prep",
           "stress": null,
-          "gloss": "on, at",
+          "gloss": "on, onto",
           "gram": "preposition"
         },
         {
@@ -1091,16 +1091,16 @@
           "lemma": "вообще",
           "pos": "adv",
           "stress": "вообще́",
-          "gloss": "in general, actually",
-          "gram": "adverb"
+          "gloss": "at all",
+          "gram": "adverb, emphatic"
         },
         {
           "t": "очень",
           "lemma": "очень",
           "pos": "adv",
           "stress": "о́чень",
-          "gloss": "very",
-          "gram": "adverb"
+          "gloss": "very much",
+          "gram": "adverb of degree"
         },
         {
           "t": "верная",
@@ -1116,7 +1116,7 @@
           "pos": "noun",
           "stress": "же́нщина",
           "gloss": "woman",
-          "gram": "feminine animate noun, nominative singular"
+          "gram": "nominative singular"
         }
       ]
     },
@@ -1138,7 +1138,7 @@
           "pos": "det",
           "stress": "на́ше",
           "gloss": "our",
-          "gram": "neuter accusative singular possessive pronoun"
+          "gram": "nominative singular, neuter"
         },
         {
           "t": "время",
@@ -1146,23 +1146,23 @@
           "pos": "noun",
           "stress": "вре́мя",
           "gloss": "time",
-          "gram": "neuter inanimate noun, accusative singular"
+          "gram": "accusative singular, neuter"
         },
         {
           "t": "это",
           "lemma": "это",
           "pos": "pron",
           "stress": "э́то",
-          "gloss": "this is",
-          "gram": "demonstrative, unchanging"
+          "gloss": "this",
+          "gram": "demonstrative pronoun, nominative"
         },
         {
           "t": "большая",
           "lemma": "большой",
           "pos": "adj",
           "stress": "больша́я",
-          "gloss": "great, big",
-          "gram": "feminine nominative singular adjective"
+          "gloss": "large",
+          "gram": "nominative, feminine singular"
         },
         {
           "t": "редкость.",
@@ -1182,9 +1182,9 @@
           "t": "Мужчины",
           "lemma": "мужчина",
           "pos": "noun",
-          "stress": "Мужчи́ны",
-          "gloss": "men",
-          "gram": "masculine animate noun, nominative plural"
+          "stress": "мужчи́ны",
+          "gloss": "man",
+          "gram": "genitive singular, masculine"
         },
         {
           "t": "часто",
@@ -1216,7 +1216,7 @@
           "pos": "adj",
           "stress": "хоро́ших",
           "gloss": "good",
-          "gram": "accusative plural adjective"
+          "gram": "genitive plural"
         },
         {
           "t": "женщин.",
@@ -1224,7 +1224,7 @@
           "pos": "noun",
           "stress": "же́нщин",
           "gloss": "women",
-          "gram": "feminine animate noun, accusative plural"
+          "gram": "feminine plural genitive"
         }
       ]
     },
@@ -1236,9 +1236,9 @@
           "t": "Настоящий",
           "lemma": "настоящий",
           "pos": "adj",
-          "stress": "Настоя́щий",
+          "stress": "настоя́щий",
           "gloss": "real, genuine",
-          "gram": "masculine nominative singular adjective"
+          "gram": "nominative singular, masculine"
         },
         {
           "t": "мужчина",
@@ -1246,7 +1246,7 @@
           "pos": "noun",
           "stress": "мужчи́на",
           "gloss": "man",
-          "gram": "masculine animate noun, nominative singular"
+          "gram": "nominative singular, masculine"
         },
         {
           "t": "всегда",
@@ -1254,7 +1254,7 @@
           "pos": "adv",
           "stress": "всегда́",
           "gloss": "always",
-          "gram": "adverb"
+          "gram": "adverb of time"
         },
         {
           "t": "оценит",
@@ -1270,7 +1270,7 @@
           "pos": "det",
           "stress": "ва́шу",
           "gloss": "your",
-          "gram": "feminine accusative singular possessive pronoun"
+          "gram": "accusative singular, feminine"
         },
         {
           "t": "доброту.",
@@ -1291,15 +1291,15 @@
           "lemma": "я",
           "pos": "pron",
           "stress": null,
-          "gloss": "to me",
-          "gram": "dative 1st person pronoun"
+          "gloss": "to me (мне некогда = I have no time)",
+          "gram": "1st person singular, dative"
         },
         {
           "t": "ещё",
           "lemma": "ещё",
           "pos": "adv",
-          "stress": "ещё",
-          "gloss": "yet, ever",
+          "stress": null,
+          "gloss": "more, still",
           "gram": "adverb"
         },
         {
@@ -1307,7 +1307,7 @@
           "lemma": "никто",
           "pos": "pron",
           "stress": "никто́",
-          "gloss": "no one",
+          "gloss": "nobody",
           "gram": "negative pronoun, nominative"
         },
         {
@@ -1316,7 +1316,7 @@
           "pos": "adv",
           "stress": "никогда́",
           "gloss": "never",
-          "gram": "negative adverb"
+          "gram": "adverb"
         },
         {
           "t": "не",
@@ -1340,7 +1340,7 @@
           "pos": "noun",
           "stress": "за́втрак",
           "gloss": "breakfast",
-          "gram": "masculine inanimate noun, accusative singular"
+          "gram": "masculine singular nominative"
         }
       ]
     },
@@ -1353,8 +1353,8 @@
           "lemma": "я",
           "pos": "pron",
           "stress": null,
-          "gloss": "to me",
-          "gram": "dative 1st person pronoun"
+          "gloss": "to me (мне некогда = I have no time)",
+          "gram": "1st person singular, dative"
         },
         {
           "t": "поручили",
@@ -1377,8 +1377,8 @@
           "lemma": "о",
           "pos": "prep",
           "stress": null,
-          "gloss": "about, of",
-          "gram": "preposition with prepositional"
+          "gloss": "about",
+          "gram": "preposition + prepositional"
         },
         {
           "t": "вас,",
@@ -1386,15 +1386,15 @@
           "pos": "pron",
           "stress": null,
           "gloss": "you",
-          "gram": "prepositional plural pronoun"
+          "gram": "2nd person plural / polite, accusative"
         },
         {
           "t": "Виктория.",
           "lemma": "виктория",
           "pos": "name",
-          "stress": "Викто́рия",
-          "gloss": "Viktoriya",
-          "gram": "proper name, feminine, vocative"
+          "stress": null,
+          "gloss": "Victoria",
+          "gram": "full first name"
         }
       ]
     },
@@ -1405,10 +1405,10 @@
         {
           "t": "Спасибо",
           "lemma": "спасибо",
-          "pos": "interj",
-          "stress": "Спаси́бо",
+          "pos": "noun",
+          "stress": "спаси́бо",
           "gloss": "thank you",
-          "gram": "interjection"
+          "gram": "fixed expression"
         },
         {
           "t": "большое,",
@@ -1416,30 +1416,30 @@
           "pos": "adj",
           "stress": "большо́е",
           "gloss": "big, very much",
-          "gram": "neuter singular nominative adjective"
+          "gram": "nominative singular, neuter; спасибо большое = thank you very much"
         },
         {
           "t": "это",
           "lemma": "это",
           "pos": "pron",
           "stress": "э́то",
-          "gloss": "this is",
-          "gram": "demonstrative, unchanging"
+          "gloss": "this",
+          "gram": "demonstrative pronoun, nominative"
         },
         {
           "t": "очень",
           "lemma": "очень",
           "pos": "adv",
           "stress": "о́чень",
-          "gloss": "very",
-          "gram": "adverb"
+          "gloss": "very much",
+          "gram": "adverb of degree"
         },
         {
           "t": "вкусно!",
           "lemma": "вкусно",
           "pos": "adv",
           "stress": "вку́сно",
-          "gloss": "tasty, delicious",
+          "gloss": "it's tasty",
           "gram": "predicative adverb"
         }
       ]
@@ -1461,24 +1461,24 @@
           "lemma": "вообще",
           "pos": "adv",
           "stress": "вообще́",
-          "gloss": "in general, actually",
-          "gram": "adverb"
+          "gloss": "at all",
+          "gram": "adverb, emphatic"
         },
         {
           "t": "очень",
           "lemma": "очень",
           "pos": "adv",
           "stress": "о́чень",
-          "gloss": "very",
-          "gram": "adverb"
+          "gloss": "very much",
+          "gram": "adverb of degree"
         },
         {
           "t": "люблю",
           "lemma": "любить",
           "pos": "verb",
           "stress": "люблю́",
-          "gloss": "love, like",
-          "gram": "1st person singular present"
+          "gloss": "(I) love",
+          "gram": "present, 1st person singular, imperfective"
         },
         {
           "t": "готовить",
@@ -1486,15 +1486,15 @@
           "pos": "verb",
           "stress": "гото́вить",
           "gloss": "to cook",
-          "gram": "imperfective infinitive"
+          "gram": "infinitive, imperfective"
         },
         {
           "t": "еду.",
-          "lemma": "еда",
-          "pos": "noun",
-          "stress": "еду́",
-          "gloss": "food",
-          "gram": "feminine inanimate noun, accusative singular"
+          "lemma": "ехать",
+          "pos": "verb",
+          "stress": "е́ду",
+          "gloss": "am driving, am on my way",
+          "gram": "present, 1st person singular, imperfective"
         }
       ]
     },
@@ -1516,7 +1516,7 @@
           "pos": "adv",
           "stress": "всегда́",
           "gloss": "always",
-          "gram": "adverb"
+          "gram": "adverb of time"
         },
         {
           "t": "готовил",
@@ -1539,8 +1539,8 @@
           "lemma": "свой",
           "pos": "det",
           "stress": "свое́й",
-          "gloss": "one's own",
-          "gram": "feminine dative singular possessive pronoun"
+          "gloss": "your own",
+          "gram": "instrumental singular, feminine"
         },
         {
           "t": "жене.",
@@ -1548,7 +1548,7 @@
           "pos": "noun",
           "stress": "жене́",
           "gloss": "wife",
-          "gram": "feminine animate noun, dative singular"
+          "gram": "feminine singular, prepositional"
         }
       ]
     },
@@ -1559,10 +1559,10 @@
         {
           "t": "Так",
           "lemma": "так",
-          "pos": "adv",
+          "pos": "part",
           "stress": null,
           "gloss": "so",
-          "gram": "adverbial connector"
+          "gram": "adverb"
         },
         {
           "t": "вы",
@@ -1570,7 +1570,7 @@
           "pos": "pron",
           "stress": null,
           "gloss": "you",
-          "gram": "nominative plural pronoun"
+          "gram": "2nd person plural, nominative"
         },
         {
           "t": "сейчас",
@@ -1578,7 +1578,7 @@
           "pos": "adv",
           "stress": "сейча́с",
           "gloss": "now",
-          "gram": "adverb"
+          "gram": "adverb of time"
         },
         {
           "t": "женаты",
@@ -1601,8 +1601,8 @@
           "lemma": "нет",
           "pos": "part",
           "stress": null,
-          "gloss": "not, no",
-          "gram": "negative particle"
+          "gloss": "no",
+          "gram": "negative answer"
         }
       ]
     },
@@ -1616,7 +1616,7 @@
           "pos": "part",
           "stress": null,
           "gloss": "no",
-          "gram": "negative particle"
+          "gram": "negative answer"
         },
         {
           "t": "я",
@@ -1631,7 +1631,7 @@
           "lemma": "уже",
           "pos": "adv",
           "stress": "уже́",
-          "gloss": "already",
+          "gloss": "already, now",
           "gram": "adverb"
         },
         {
@@ -1640,13 +1640,13 @@
           "pos": "adv",
           "stress": "давно́",
           "gloss": "for a long time",
-          "gram": "adverb"
+          "gram": "adverb of time"
         },
         {
           "t": "разведён.",
           "lemma": "разведённый",
           "pos": "adj",
-          "stress": "разведён",
+          "stress": null,
           "gloss": "divorced",
           "gram": "short form adjective, masculine singular"
         }
@@ -1669,8 +1669,8 @@
           "lemma": "весь",
           "pos": "det",
           "stress": null,
-          "gloss": "all, whole",
-          "gram": "neuter accusative singular pronoun"
+          "gloss": "everything",
+          "gram": "nominative neuter singular, used as a noun"
         },
         {
           "t": "время",
@@ -1678,7 +1678,7 @@
           "pos": "noun",
           "stress": "вре́мя",
           "gloss": "time",
-          "gram": "neuter inanimate noun, accusative singular"
+          "gram": "accusative singular, neuter"
         },
         {
           "t": "был",
@@ -1686,14 +1686,14 @@
           "pos": "verb",
           "stress": null,
           "gloss": "was",
-          "gram": "past masculine singular"
+          "gram": "past tense, masculine singular"
         },
         {
           "t": "на",
           "lemma": "на",
           "pos": "prep",
           "stress": null,
-          "gloss": "on, at",
+          "gloss": "on, onto",
           "gram": "preposition"
         },
         {
@@ -1731,16 +1731,16 @@
           "lemma": "вообще",
           "pos": "adv",
           "stress": "вообще́",
-          "gloss": "in general, actually",
-          "gram": "adverb"
+          "gloss": "at all",
+          "gram": "adverb, emphatic"
         },
         {
           "t": "очень",
           "lemma": "очень",
           "pos": "adv",
           "stress": "о́чень",
-          "gloss": "very",
-          "gram": "adverb"
+          "gloss": "very much",
+          "gram": "adverb of degree"
         },
         {
           "t": "верная",
@@ -1756,7 +1756,7 @@
           "pos": "noun",
           "stress": "же́нщина",
           "gloss": "woman",
-          "gram": "feminine animate noun, nominative singular"
+          "gram": "nominative singular"
         }
       ]
     },
@@ -1778,7 +1778,7 @@
           "pos": "det",
           "stress": "на́ше",
           "gloss": "our",
-          "gram": "neuter accusative singular possessive pronoun"
+          "gram": "nominative singular, neuter"
         },
         {
           "t": "время",
@@ -1786,23 +1786,23 @@
           "pos": "noun",
           "stress": "вре́мя",
           "gloss": "time",
-          "gram": "neuter inanimate noun, accusative singular"
+          "gram": "accusative singular, neuter"
         },
         {
           "t": "это",
           "lemma": "это",
           "pos": "pron",
           "stress": "э́то",
-          "gloss": "this is",
-          "gram": "demonstrative, unchanging"
+          "gloss": "this",
+          "gram": "demonstrative pronoun, nominative"
         },
         {
           "t": "большая",
           "lemma": "большой",
           "pos": "adj",
           "stress": "больша́я",
-          "gloss": "great, big",
-          "gram": "feminine nominative singular adjective"
+          "gloss": "large",
+          "gram": "nominative, feminine singular"
         },
         {
           "t": "редкость.",
@@ -1822,9 +1822,9 @@
           "t": "Мужчины",
           "lemma": "мужчина",
           "pos": "noun",
-          "stress": "Мужчи́ны",
-          "gloss": "men",
-          "gram": "masculine animate noun, nominative plural"
+          "stress": "мужчи́ны",
+          "gloss": "man",
+          "gram": "genitive singular, masculine"
         },
         {
           "t": "часто",
@@ -1856,7 +1856,7 @@
           "pos": "adj",
           "stress": "хоро́ших",
           "gloss": "good",
-          "gram": "accusative plural adjective"
+          "gram": "genitive plural"
         },
         {
           "t": "женщин.",
@@ -1864,7 +1864,7 @@
           "pos": "noun",
           "stress": "же́нщин",
           "gloss": "women",
-          "gram": "feminine animate noun, accusative plural"
+          "gram": "feminine plural genitive"
         }
       ]
     },
@@ -1876,9 +1876,9 @@
           "t": "Настоящий",
           "lemma": "настоящий",
           "pos": "adj",
-          "stress": "Настоя́щий",
+          "stress": "настоя́щий",
           "gloss": "real, genuine",
-          "gram": "masculine nominative singular adjective"
+          "gram": "nominative singular, masculine"
         },
         {
           "t": "мужчина",
@@ -1886,7 +1886,7 @@
           "pos": "noun",
           "stress": "мужчи́на",
           "gloss": "man",
-          "gram": "masculine animate noun, nominative singular"
+          "gram": "nominative singular, masculine"
         },
         {
           "t": "всегда",
@@ -1894,7 +1894,7 @@
           "pos": "adv",
           "stress": "всегда́",
           "gloss": "always",
-          "gram": "adverb"
+          "gram": "adverb of time"
         },
         {
           "t": "оценит",
@@ -1910,7 +1910,7 @@
           "pos": "det",
           "stress": "ва́шу",
           "gloss": "your",
-          "gram": "feminine accusative singular possessive pronoun"
+          "gram": "accusative singular, feminine"
         },
         {
           "t": "доброту.",
@@ -2091,9 +2091,9 @@
       "lemma": "быть",
       "stress": "быть",
       "pos": "verb",
+      "gloss": "to be; there is",
       "aspect": "impf",
       "pair": null,
-      "gloss": "to be; there is",
       "meanings": [
         {
           "en": "to be",
@@ -2293,7 +2293,7 @@
         }
       ],
       "forms": {
-        "title": "Declension",
+        "title": "Forms",
         "columns": [
           "",
           "m",
@@ -2511,7 +2511,7 @@
         }
       ],
       "forms": {
-        "title": "Declension",
+        "title": "Forms",
         "columns": [
           "",
           "m",
@@ -2690,8 +2690,8 @@
       "lemma": "время",
       "stress": "вре́мя",
       "pos": "noun",
-      "gender": "n",
       "gloss": "time",
+      "gender": "n",
       "meanings": [
         {
           "en": "time",
@@ -2826,7 +2826,7 @@
         }
       ],
       "forms": {
-        "title": "Declension",
+        "title": "Forms",
         "columns": [
           "",
           "form"
@@ -2896,9 +2896,9 @@
       "lemma": "готовить",
       "stress": "гото́вить",
       "pos": "verb",
+      "gloss": "to cook; to prepare",
       "aspect": "impf",
       "pair": "приготовить",
-      "gloss": "to cook; to prepare",
       "meanings": [
         {
           "en": "to cook",
@@ -3034,8 +3034,8 @@
       "lemma": "доброта",
       "stress": "доброта́",
       "pos": "noun",
-      "gender": "f",
       "gloss": "kindness; goodness",
+      "gender": "f",
       "meanings": [
         {
           "en": "kindness",
@@ -3124,8 +3124,8 @@
       "lemma": "еда",
       "stress": "еда́",
       "pos": "noun",
-      "gender": "f",
       "gloss": "food, meal",
+      "gender": "f",
       "meanings": [
         {
           "en": "food, meal",
@@ -3206,6 +3206,115 @@
         }
       ]
     },
+    "ехать": {
+      "lemma": "ехать",
+      "stress": "е́хать",
+      "pos": "verb",
+      "gloss": "to go (by vehicle), to drive, to ride",
+      "aspect": "impf",
+      "pair": "поехать",
+      "meanings": [
+        {
+          "en": "to go, to drive, to ride",
+          "note": "by car, bus, train, in one direction, now"
+        },
+        {
+          "en": "let's go",
+          "note": "'едем' = we're going / let's go. Used as an imperfective (ongoing/repeated action) verb meaning 'to go (by vehicle), to drive, to ride', paired with 'поехать'."
+        }
+      ],
+      "forms": {
+        "title": "Present",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "еду",
+              "едем"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "едешь",
+              "едете"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "едет",
+              "едут"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Past",
+          "columns": [
+            "",
+            "m",
+            "f",
+            "n",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "past",
+                "ехал",
+                "ехала",
+                "ехало",
+                "ехали"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "поезжай",
+                "поезжайте"
+              ]
+            }
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Виталик, в Санта-Фе едем.",
+          "trans": "Vitalik, we're going to the Santa Fe."
+        },
+        {
+          "text": "Едем!",
+          "trans": "Let's go!"
+        },
+        {
+          "text": "Виталик, почему мы так медленно едем? Быстрее!",
+          "trans": "Vitalik, why are we going so slowly? Faster!"
+        }
+      ],
+      "related": [
+        {
+          "word": "идти",
+          "gloss": "to go on foot"
+        }
+      ]
+    },
     "ещё": {
       "lemma": "ещё",
       "stress": "ещё",
@@ -3252,8 +3361,8 @@
       "lemma": "жена",
       "stress": "жена́",
       "pos": "noun",
-      "gender": "f",
       "gloss": "wife",
+      "gender": "f",
       "meanings": [
         {
           "en": "wife",
@@ -3441,8 +3550,8 @@
       "lemma": "женщина",
       "stress": "же́нщина",
       "pos": "noun",
-      "gender": "f",
       "gloss": "woman",
+      "gender": "f",
       "meanings": [
         {
           "en": "woman",
@@ -3527,9 +3636,9 @@
       "lemma": "заботиться",
       "stress": "забо́титься",
       "pos": "verb",
+      "gloss": "to care for; to look after",
       "aspect": "impf",
       "pair": "позаботиться",
-      "gloss": "to care for; to look after",
       "meanings": [
         {
           "en": "to care for",
@@ -3636,12 +3745,12 @@
       "lemma": "завтрак",
       "stress": "за́втрак",
       "pos": "noun",
-      "gender": "m",
       "gloss": "breakfast",
+      "gender": "m",
       "meanings": [
         {
           "en": "breakfast",
-          "note": "На завтрак = for breakfast. Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'втрак'). Common masculine noun meaning 'breakfast' in everyday Russian."
+          "note": "Morning meal. Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'втрак'). Common masculine noun meaning 'breakfast' in everyday Russian."
         }
       ],
       "forms": {
@@ -3699,16 +3808,16 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Завтрак ещё не остыл.",
-          "trans": "Breakfast hasn't gone cold yet."
+          "text": "У вас тут романтический завтрак.",
+          "trans": "You are having a romantic breakfast here."
         },
         {
           "text": "Что у нас сегодня на завтрак?",
           "trans": "What do we have for breakfast today?"
         },
         {
-          "text": "У вас тут романтический завтрак.",
-          "trans": "You are having a romantic breakfast here."
+          "text": "Свежие ягоды, кофе! У вас тут романтический завтрак.",
+          "trans": "Fresh berries, coffee! You are having a romantic breakfast here."
         }
       ],
       "related": [
@@ -3764,9 +3873,9 @@
       "lemma": "любить",
       "stress": "люби́ть",
       "pos": "verb",
+      "gloss": "to love, to like",
       "aspect": "impf",
       "pair": "полюбить",
-      "gloss": "to love, to like",
       "meanings": [
         {
           "en": "to love",
@@ -3881,8 +3990,8 @@
       "lemma": "мужчина",
       "stress": "мужчи́на",
       "pos": "noun",
-      "gender": "m",
       "gloss": "man",
+      "gender": "m",
       "meanings": [
         {
           "en": "man",
@@ -4128,7 +4237,7 @@
         }
       ],
       "forms": {
-        "title": "Declension",
+        "title": "Forms",
         "columns": [
           "",
           "m",
@@ -4341,33 +4450,84 @@
       "meanings": [
         {
           "en": "nobody, no one",
-          "note": "needs 'не' with the verb: никто не войдёт"
+          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'nobody', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "Case",
+          "Negative",
+          "Interrogative (кто)"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "никто",
+              "кто"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "никого",
+              "кого"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "никому",
+              "кому"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "никого",
+              "кого"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "никем",
+              "кем"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "ни о ком",
+              "о ком"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
-          "text": "Никто не войдёт.",
-          "trans": "Nobody will come in."
+          "text": "Никто не будет командовать на моей кухне!",
+          "trans": "Nobody is going to give orders in my kitchen!"
         },
         {
-          "text": "Я знаю город как никто.",
-          "trans": "I know the town like nobody else."
+          "text": "Не говори об этом никому, ладно?",
+          "trans": "Do not tell anyone about this, okay?"
         },
         {
-          "text": "Садитесь и держите дверь. Никто не войдёт.",
-          "trans": "Sit down and hold the door. Nobody will come in."
+          "text": "Но юридически ты ей никто.",
+          "trans": "But legally you are nobody to her."
         }
       ],
       "related": [
         {
-          "word": "кто",
-          "gloss": "who"
+          "word": "вот никто",
+          "gloss": "right here (nobody)"
         },
         {
-          "word": "ничто",
-          "gloss": "nothing"
+          "word": "именно никто",
+          "gloss": "precisely nobody"
         }
       ]
     },
@@ -4413,9 +4573,9 @@
       "lemma": "оценить",
       "stress": "оцени́ть",
       "pos": "verb",
+      "gloss": "to appreciate; to evaluate",
       "aspect": "pf",
       "pair": "оценивать",
-      "gloss": "to appreciate; to evaluate",
       "meanings": [
         {
           "en": "to appreciate",
@@ -4560,13 +4720,51 @@
         }
       ]
     },
+    "пока": {
+      "lemma": "пока",
+      "stress": "пока́",
+      "pos": "adv",
+      "gloss": "bye",
+      "meanings": [
+        {
+          "en": "bye, see you",
+          "note": "Informal. Core Russian interj meaning 'bye' in everyday speech."
+        },
+        {
+          "en": "while, for now",
+          "note": "As an adverb. Core Russian interj meaning 'bye' in everyday speech."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Пока!",
+          "trans": "Bye!"
+        },
+        {
+          "text": "Пока, папа!",
+          "trans": "Bye, Dad!"
+        },
+        {
+          "text": "Пока, милый!",
+          "trans": "Bye, darling!"
+        }
+      ],
+      "related": [
+        {
+          "word": "пока",
+          "gloss": "bye (as an adverb/interjection)"
+        }
+      ]
+    },
     "поручить": {
       "lemma": "поручить",
       "stress": "поручи́ть",
       "pos": "verb",
+      "gloss": "to assign; to entrust",
       "aspect": "pf",
       "pair": "поручать",
-      "gloss": "to assign; to entrust",
       "meanings": [
         {
           "en": "to assign",
@@ -4798,8 +4996,8 @@
       "lemma": "редкость",
       "stress": "ре́дкость",
       "pos": "noun",
-      "gender": "f",
       "gloss": "rarity; curiosity",
+      "gender": "f",
       "meanings": [
         {
           "en": "rarity",
@@ -4896,7 +5094,7 @@
         }
       ],
       "forms": {
-        "title": "Declension",
+        "title": "Forms",
         "columns": [
           "",
           "m",
@@ -5029,8 +5227,8 @@
       "lemma": "служба",
       "stress": "слу́жба",
       "pos": "noun",
-      "gender": "f",
       "gloss": "service, department",
+      "gender": "f",
       "meanings": [
         {
           "en": "service, public agency, department",
@@ -5118,15 +5316,67 @@
     "спасибо": {
       "lemma": "спасибо",
       "stress": "спаси́бо",
-      "pos": "interj",
+      "pos": "noun",
       "gloss": "thank you",
+      "gender": "n",
       "meanings": [
         {
-          "en": "thank you, thanks",
-          "note": "спасибо за + accusative = thank you for"
+          "en": "thank you",
+          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'пасибо'). Common neuter noun meaning 'thank you' in everyday Russian."
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "спасибо",
+              "спасиба"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "спасиба",
+              "спасиб"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "спасибу",
+              "спасибам"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "спасибо",
+              "спасиба"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "спасибом",
+              "спасибами"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "спасибе",
+              "спасибах"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -5144,8 +5394,12 @@
       ],
       "related": [
         {
-          "word": "не спасибо",
-          "gloss": "negated / contrasted form (thank you)"
+          "word": "без спасиб",
+          "gloss": "without thank you"
+        },
+        {
+          "word": "наш спасибо",
+          "gloss": "our thank you"
         }
       ]
     },
@@ -5336,9 +5590,9 @@
       "lemma": "ценить",
       "stress": "цени́ть",
       "pos": "verb",
+      "gloss": "to value, to appreciate",
       "aspect": "impf",
       "pair": "оценить",
-      "gloss": "to value, to appreciate",
       "meanings": [
         {
           "en": "to value, to appreciate, to esteem",
@@ -5452,16 +5706,16 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "О, это, Аркашенька, бывает очень часто.",
-          "trans": "Oh, that happens very often, Arkashenka."
-        },
-        {
-          "text": "Мы часто встречаемся в парке.",
-          "trans": "We often meet in the park."
-        },
-        {
           "text": "Я к вам часто приходил.",
           "trans": "I used to come see you often."
+        },
+        {
+          "text": "Он часто звонит маме.",
+          "trans": "He often calls his mum."
+        },
+        {
+          "text": "А меня не помнишь? Я Артурик, я к вам часто приходил.",
+          "trans": "And don't you remember me? I'm Arturik, I used to come see you often."
         }
       ],
       "related": [
@@ -5503,7 +5757,7 @@
         }
       ],
       "forms": {
-        "title": "Declension",
+        "title": "Forms",
         "columns": [
           "",
           "form"
@@ -5585,7 +5839,7 @@
         }
       ],
       "forms": {
-        "title": "Declension",
+        "title": "Forms",
         "columns": [
           "",
           "form"

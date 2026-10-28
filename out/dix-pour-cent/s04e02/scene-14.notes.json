@@ -5925,21 +5925,22 @@
       ]
     },
     "tout": {
-      "examples": [
+      "lemma": "tout",
+      "stress": "tu",
+      "pos": "det",
+      "gloss": "all, every; everything",
+      "meanings": [
         {
-          "text": "Merci à tous.",
-          "trans": "Thank you, everyone."
+          "en": "all, the whole",
+          "note": "Tout le monde = everybody. Spoken French det expression meaning 'all', common in natural conversation."
         },
         {
-          "text": "Oui à tout.",
-          "trans": "Yes to everything."
-        },
-        {
-          "text": "Ça ne va pas du tout.",
-          "trans": "It's not going at all."
+          "en": "tout ce que = all that, everything that",
+          "note": "Pronoun use. Spoken French det expression meaning 'all', common in natural conversation."
         }
       ],
       "forms": {
+        "title": "Forms",
         "columns": [
           "",
           "m",
@@ -5960,32 +5961,23 @@
               "toutes"
             ]
           }
-        ],
-        "title": "Forms"
+        ]
       },
-      "gloss": "all, everything; everyone",
-      "lemma": "tout",
-      "meanings": [
+      "moreForms": [],
+      "examples": [
         {
-          "en": "everything",
-          "note": "oui à tout = yes to everything"
+          "text": "Tout le monde est là.",
+          "trans": "Everyone is here."
         },
         {
-          "en": "all, everyone",
-          "note": "plural tous (pronounced 'tous' with s): merci à tous"
+          "text": "C'est tout ce que je peux faire.",
+          "trans": "That's all I can do."
         },
         {
-          "en": "at all",
-          "note": "pas du tout"
-        },
-        {
-          "en": "all, the whole",
-          "note": "before a noun: tout le monde = everyone"
+          "text": "Désolé, c'est tout ce que je peux faire.",
+          "trans": "Sorry, that's all I can do."
         }
       ],
-      "moreForms": [],
-      "pos": "pron",
-      "stress": "tu",
       "related": [
         {
           "word": "tout le monde",
@@ -6381,21 +6373,22 @@
       ]
     },
     "voir": {
-      "examples": [
+      "lemma": "voir",
+      "stress": "vwaʁ",
+      "pos": "verb",
+      "gloss": "to see",
+      "meanings": [
         {
-          "text": "Je veux voir Mathias.",
-          "trans": "I want to see Mathias."
+          "en": "to see",
+          "note": "n'avoir rien à voir avec = to have nothing to do with"
         },
         {
-          "text": "On se voit demain?",
-          "trans": "See you tomorrow?"
-        },
-        {
-          "text": "Magali, je dois voir la pièce de Koltès cette semaine.",
-          "trans": "Magali, I have to see the Koltès play this week."
+          "en": "to meet, to visit",
+          "note": "Voir quelqu'un. French '-ir' verb (from Latin '-ire'). Core French verb meaning 'to see'."
         }
       ],
       "forms": {
+        "title": "Present",
         "columns": [
           "",
           "sg",
@@ -6423,23 +6416,11 @@
               "ils/elles voient"
             ]
           }
-        ],
-        "title": "Present"
+        ]
       },
-      "gloss": "to see",
-      "lemma": "voir",
-      "meanings": [
-        {
-          "en": "to see",
-          "note": "n'avoir rien à voir avec = to have nothing to do with"
-        },
-        {
-          "en": "to meet, to visit",
-          "note": "voir quelqu'un"
-        }
-      ],
       "moreForms": [
         {
+          "title": "Passé composé",
           "columns": [
             "",
             "sg",
@@ -6467,10 +6448,10 @@
                 "ils/elles ont vu"
               ]
             }
-          ],
-          "title": "Passé composé"
+          ]
         },
         {
+          "title": "Imparfait",
           "columns": [
             "",
             "sg",
@@ -6498,10 +6479,10 @@
                 "ils/elles voyaient"
               ]
             }
-          ],
-          "title": "Imparfait"
+          ]
         },
         {
+          "title": "Futur",
           "columns": [
             "",
             "sg",
@@ -6529,12 +6510,23 @@
                 "ils/elles verront"
               ]
             }
-          ],
-          "title": "Futur"
+          ]
         }
       ],
-      "pos": "verb",
-      "stress": "vwaʁ",
+      "examples": [
+        {
+          "text": "Je veux voir Mathias.",
+          "trans": "I want to see Mathias."
+        },
+        {
+          "text": "On se voit demain?",
+          "trans": "See you tomorrow?"
+        },
+        {
+          "text": "Magali, je dois voir la pièce de Koltès cette semaine.",
+          "trans": "Magali, I have to see the Koltès play this week."
+        }
+      ],
       "related": [
         {
           "word": "revoir",

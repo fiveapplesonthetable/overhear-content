@@ -1,10 +1,10 @@
 # domashniy-arest-s01e08-scene-23: review sheet
 
 Title: Военная игра  (War Games)
-Level: beginner
+Level: A1 — Duolingo Section 2
 Pair: ru-en
 Source: Домашний арест, Сезон 1, Эпизод 8
-Cues 358-368 (00:22:42-00:23:31). Arkady and Lyosha play war games together in the corridor.
+
 
 Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
@@ -29,13 +29,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I am counting to five!' Arkady starts the playful countdown in the corridor.
 - 'One, two, three, four, five!' The Russian cardinal numbers build tension in their game.
 - 'Where are those Russian partisans?' The demonstrative pronoun modifies the plural noun.
-- 'I do not see anyone here.' The negative pronoun takes the genitive case with negation.
-- 'I am here, right behind the door!' The preposition 'za' with the instrumental indicates location.
-- 'Surrender, the enemy is surrounded!' The imperative command demands full capitulation.
+- 'I do not see anyone here.' The negative pronoun takes the 'of' form with negation.
+- 'I am here, right behind the door!' The preposition 'za' with This phrase indicates location.
+- 'Surrender, the enemy is surrounded!' The command form command demands full capitulation.
 - 'Never will I surrender!' The negative adverb emphasizes Arkady's defiant refusal.
 - 'I am opening return fire!' The present tense verb describes his playful counterattack.
-- 'You are wounded in the arm!' The short passive participle indicates the hit.
+- 'You are wounded in the arm!' This phrase indicates the hit.
 - 'Oh, I am heavily wounded!' Arkady melodramatically plays along with the boy.
-- 'But I still have strength left.' The genitive plural follows the existence construction.
+- 'But I still have strength left.' The plural 'of' form follows the existence construction.
 - 'Great game, Arkady!' Lyosha happily praises their imaginative battle in the corridor.
 - 'Thank you, Lyosha. We are a great team.' Arkady strengthens his bond with Marina's son.

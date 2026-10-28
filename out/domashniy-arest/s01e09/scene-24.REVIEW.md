@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Good heavens, I completely forgot!' Arkady feigns a sudden realization of urgency.
-- 'I must write a speech for Samsonov.' The modal short adjective requires an infinitive.
-- 'What speech?' Notice the interrogative pronoun agreeing with the feminine noun.
+- 'I must write a speech for Samsonov.' The modal short adjective requires an action verb.
+- 'What speech?' Notice the question word agreeing with the feminine noun.
 - 'Are you already leaving?' The verb of motion describes departing right now.
-- 'Yes, we have important debates soon.' The short predicative expresses time.
+- 'Yes, we have important debates soon.' This phrase expresses time.
 - 'And what about our wonderful conversation?' The particle phrase means 'what about'.
 - 'We had such a wonderful time together!' The adverb means wonderfully or delightfully.
 - 'But you did not even finish your tea.' The prefix indicates completing an action.
 - 'I ask for forgiveness, now it is work, unfortunately.' A courteous Russian apology.
-- 'Will you return here in the evening?' The reflexive verb denotes returning.
-- 'There are so many tasks, I do not know.' The genitive plural follows the quantity word.
-- 'I will go.' The future perfective indicates an immediate departure.
-- 'All the best!' A classic polite Russian farewell formula in the genitive.
+- 'Will you return here in the evening?' The self-action verb form denotes returning.
+- 'There are so many tasks, I do not know.' The plural 'of' form follows the quantity word.
+- 'I will go.' This phrase indicates an immediate departure.
+- 'All the best!' A classic polite Russian farewell formula in the 'of' form.
 - 'Goodbye, Arkady Borisovich.' The patronymic shows respectful formal address.

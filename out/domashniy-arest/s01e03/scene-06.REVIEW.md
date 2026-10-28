@@ -4,7 +4,7 @@ Title: Народные деньги  (The People's Money)
 Level: A1 — Duolingo Section 2
 Pair: ru-en
 Source: Домашний арест (Domashniy Arest) S1.03
-Cues 215-263. Nina pushing Samson into the corridor (215-218) is told in the intro. Cue 219 garbles 'Самсончик' as 'Санцовчик'; cue 225 garbles 'чтобы ты деньги отдал' as 'замуж ему деньги отдал'; cue 233 garbles 'Осипенко' as 'А Сипенко'; cue 255 garbles 'очкарик' as 'очканавт'. The crude 'kiss my backside' callback (248-249) and swearing (256-257) are left out.
+
 
 Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
@@ -42,7 +42,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Seriously, tell me, where's the money?' After asking if Arkady is joking, he uses the informal command 'tell'.
 - 'They hired me.' Samson blurts out that someone put him up to this, and Arkady guesses who.
 - 'Was it Osipenko who hired you?' Osipenko is the surname of Pasha, Arkady's treacherous deputy. The two little words in the middle mean 'or what, is it really?'. Then Arkady calls Samson's bluff.
-- 'And if I don't tell you, then what?' Again, the perfective verb 'I will tell' points to the future.
+- 'And if I don't tell you, then what?' Again, the single-action form 'I will tell' points to the future.
 - 'Will you cut my ear off?' In Russian, body parts take 'to me' instead of 'my': 'will you cut off an ear to me?'. Samson tries to sound menacing.
 - 'Well, maybe.' Literally, 'well, let's suppose'. Arkady just smiles and flatters him.
 - 'Samson, you're a kind, good person.' The little particle after 'you' means 'after all, as we both know'. Samson is baffled and holds up Arkady's bandaged hand.
@@ -54,4 +54,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I lost it on the stock exchange.' Because 'money' is plural, he says 'I lost them'. Samson loses his temper.
 - 'Don't you get it, four-eyes?' He falls back on his old schoolyard nickname for Arkady.
 - 'I'm going to have to torture you.' Literally, 'to me it will fall to torture you'. Arkady bursts out laughing.
-- 'Torture? What childish words. Go on then, torture me, Samson!' First the infinitive 'to torture', and then the command 'torture!'. Samson has no idea what to do next and walks out.
+- 'Torture? What childish words. Go on then, torture me, Samson!' First the basic verb form 'to torture', and then the command 'torture!'. Samson has no idea what to do next and walks out.

@@ -4,7 +4,7 @@ Title: Плохой кофе и Лёля  (Bad Coffee and Lyolya)
 Level: A1 — Duolingo Section 2
 Pair: ru-en
 Source: Домашний арест (Domashniy Arest) S1.03
-Cues 78-115. The boys' opening chatter about a YouTube vlog (78-82) and the crude joke at the end (109-113) are left out. Cue 95 mistranscribes 'Лёля' as 'Юля'; the script restores 'Это Лёля' (consistent with scenes 16, 20, 28, 31). Slang in cues 91-94 ('фотки попер', 'отжали', 'не ной') is simplified to plain A1 Russian.
+
 
 Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
@@ -37,9 +37,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Who is that on your phone? Hey, that used to be my phone!' Literally 'in the phone'. In the previous episode, Arkady gave Slavik that phone as a present and then took it back when he needed one himself. Arkady waves that away and shows off the photo.
 - 'All right, don't cry. That's Lyolya. Do you like her?' The last word is one verb: 'does she please you?'. Slavik looks closely.
 - 'She's pretty. But that's not your wife!' The little particle after 'this' adds 'after all, wait a minute'.
-- 'I've seen your wife.' Because 'wife' is the object here, both 'your' and 'wife' take the feminine accusative ending. Arkady answers with a smug little lecture.
+- 'I've seen your wife.' Because 'wife' is the object here, both 'your' and 'wife' take the feminine object ending. Arkady answers with a smug little lecture.
 - 'A man, my boy, can have more than just a wife. She's my girlfriend.' The word for 'girlfriend' literally means 'young woman'. Slavik is curious.
-- 'And how did you meet her?' In Russian you don't just 'meet' someone, you 'get acquainted with her', using the preposition 'with' and the instrumental case. Arkady brags shamelessly.
+- 'And how did you meet her?' In Russian you don't just 'meet' someone, you 'get acquainted with her', using the preposition 'with' and the 'with/as' form. Arkady brags shamelessly.
 - 'She was the one who met me!' Putting 'it is she' at the start puts all the emphasis on her.
 - 'She circled around me like a shark.' Literally 'walked around me like a shark'. Keep that shark line in mind, because Slavik is going to repeat it at school later. Then Arkady takes a bite of his breakfast.
 - 'Very bad sausage.' First the coffee was masculine, now the sausage is feminine, so the adjective changes its ending to match. Slavik is still staring at the photo of Lyolya.

@@ -32,14 +32,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I'm Danila Golovkin, your lawyer.' In the show, poor Golovkin has a strong stutter and accidentally says 'your avocado' instead of 'your lawyer'. Arkady is baffled.
 - 'What do you mean? Where is Mishkin?' The first phrase literally means 'in what sense?' and is a very common way to say 'what do you mean?'. Golovkin explains why he is here.
 - 'I don't know. I'm the free state-appointed lawyer.' That means a public defender paid by the state when a defendant has no lawyer of his own. Arkady immediately reaches for his phone.
-- 'One second. I'll call Mishkin right now.' The name takes the 'to' ending because in Russian you phone 'to' a person. Mishkin answers on the train.
+- 'One second. I'll call Mishkin right now.' The key word here means 'second', anchored at the close by 'will call'.
 - 'Andrei Iosifovich, it's Anikeev calling.' Literally 'Anikeev disturbs you' — standard polite phone Russian when you call someone on business.
 - 'Listen, there's a mistake here.' Then he explains what happened.
-- 'They sent me a free lawyer. What's going on?' Notice the animate accusative ending on 'free lawyer': for masculine living beings, the object form looks like the 'of' form. Mishkin's answer is cold.
+- 'They sent me a free lawyer. What's going on?' Notice the animate object ending on 'free lawyer': for masculine living beings, the object form looks like the 'of' form. Mishkin's answer is cold.
 - 'Work with him. I'm forced to return to Moscow.' The short form in the middle means 'forced' or 'obliged'. Arkady cannot believe his ears.
 - 'What does that mean, return to Moscow?' The evening court hearing is only hours away.
 - 'For family reasons.' Literally 'by family circumstances' — the classic official excuse.
 - 'Don't call me any more.' And Mishkin hangs up.
 - 'What a mess. He left!' Meanwhile, Golovkin is still standing awkwardly by the door.
-- 'So should I leave?' Literally 'and to me what, to leave?'. With an infinitive, the dative 'to me' asks what someone is supposed to do. Arkady has no choice left.
+- 'So should I leave?' Literally 'and to me what, to leave?'. With an action verb, the 'to'-form 'to me' asks what someone is supposed to do. Arkady has no choice left.
 - 'No, wait. Come in.' Two polite commands, and Golovkin steps inside.

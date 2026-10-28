@@ -4217,37 +4217,38 @@
       ]
     },
     "en": {
-      "examples": [
-        {
-          "text": "Je pars en vacances.",
-          "trans": "I'm going on holiday."
-        },
-        {
-          "text": "J'en ai assez!",
-          "trans": "I've had enough!"
-        },
-        {
-          "text": "Je suis en retard.",
-          "trans": "I'm late."
-        }
-      ],
-      "forms": null,
-      "gloss": "in; (pronoun) of it, some",
       "lemma": "en",
+      "stress": "ɑ̃",
+      "pos": "prep",
+      "gloss": "in",
       "meanings": [
         {
           "en": "in",
-          "note": "preposition: en vacances, en huit ans"
-        },
-        {
-          "en": "of it, of them",
-          "note": "pronoun before the verb: j'en ai assez, je n'en peux plus"
+          "note": "en retard = late, en vacances = on holiday"
         }
       ],
+      "forms": null,
       "moreForms": [],
-      "pos": "prep",
-      "stress": "ɑ̃",
-      "related": []
+      "examples": [
+        {
+          "text": "Je suis en retard.",
+          "trans": "I'm late."
+        },
+        {
+          "text": "Tu es en vacances?",
+          "trans": "Are you on holiday?"
+        },
+        {
+          "text": "Oh non! Je suis en retard.",
+          "trans": "Oh no! I'm late."
+        }
+      ],
+      "related": [
+        {
+          "word": "en retard",
+          "gloss": "late, en vacances = on holiday"
+        }
+      ]
     },
     "entrer": {
       "lemma": "entrer",
@@ -5989,6 +5990,8 @@
       "stress": "tʁɛ̃",
       "pos": "noun",
       "gloss": "train (railway); ongoing action (en train de)",
+      "gender": "m",
+      "plural": "trains",
       "meanings": [
         {
           "en": "train (railway)",
@@ -6031,20 +6034,10 @@
           "trans": "Jean Gabin! What? Jean Gabin is ruining the money!"
         }
       ],
-      "gender": "m",
-      "plural": "trains",
       "related": [
         {
-          "word": "retraite",
-          "gloss": "retirement"
-        },
-        {
-          "word": "traitement",
-          "gloss": "treatment"
-        },
-        {
-          "word": "traiter",
-          "gloss": "to treat"
+          "word": "prendre le train",
+          "gloss": "to take the train"
         }
       ]
     },
@@ -6461,6 +6454,22 @@
       ]
     },
     "y": {
+      "lemma": "y",
+      "stress": "i",
+      "pos": "pron",
+      "gloss": "there",
+      "meanings": [
+        {
+          "en": "there",
+          "note": "Il y a = there is / there are. High-frequency French pronoun meaning 'there'; clitic object forms precede the conjugated verb."
+        },
+        {
+          "en": "to it",
+          "note": "J'y pense = I think about it. High-frequency French pronoun meaning 'there'; clitic object forms precede the conjugated verb."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
       "examples": [
         {
           "text": "Il y a un problème.",
@@ -6475,23 +6484,12 @@
           "trans": "Please. There's nothing between Mathias and me, okay?"
         }
       ],
-      "forms": null,
-      "gloss": "there",
-      "lemma": "y",
-      "meanings": [
+      "related": [
         {
-          "en": "there",
-          "note": "il y a = there is / there are"
-        },
-        {
-          "en": "to it",
-          "note": "j'y pense = I think about it"
+          "word": "il y a",
+          "gloss": "there is / there are"
         }
-      ],
-      "moreForms": [],
-      "pos": "pron",
-      "stress": "i",
-      "related": []
+      ]
     },
     "à": {
       "lemma": "à",
@@ -6536,6 +6534,22 @@
       ]
     },
     "ça": {
+      "lemma": "ça",
+      "stress": "sa",
+      "pos": "pron",
+      "gloss": "that, it",
+      "meanings": [
+        {
+          "en": "that, it",
+          "note": "Informal for cela. High-frequency French pronoun meaning 'that'; clitic object forms precede the conjugated verb."
+        },
+        {
+          "en": "ça fait... que = it's been...",
+          "note": "With time. High-frequency French pronoun meaning 'that'; clitic object forms precede the conjugated verb."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
       "examples": [
         {
           "text": "Je prends ça.",
@@ -6550,23 +6564,12 @@
           "trans": "I'll take that. Thanks."
         }
       ],
-      "forms": null,
-      "gloss": "that, it",
-      "lemma": "ça",
-      "meanings": [
+      "related": [
         {
-          "en": "that, it",
-          "note": "informal for cela"
-        },
-        {
-          "en": "ça fait... que = it's been...",
-          "note": "with time"
+          "word": "ça",
+          "gloss": "that"
         }
-      ],
-      "moreForms": [],
-      "pos": "pron",
-      "stress": "sa",
-      "related": []
+      ]
     },
     "écouter": {
       "lemma": "écouter",

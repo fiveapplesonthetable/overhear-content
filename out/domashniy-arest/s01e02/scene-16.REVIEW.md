@@ -16,17 +16,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 4 | Лавров | Мэр куда-то спрятал деньги. Местные чиновники не могут собрать нужную сумму. | The mayor has hidden the money somewhere. The local officials can't put together the sum they need. | #466 00:28:00: Мэр<br>#467 00:28:02: не могут собрать | adapted: simplified from cues 466-467: 'перепрятал' -> 'спрятал', 'коррупционеры' -> 'чиновники', 'необходимую сумму и выйти на сделку' -> 'нужную сумму' |
 | 5 | Генерал Круглов | Понятно. И что теперь? | I see. And what now? | #468 00:28:08: Понятно | adapted: 'Так и что?' (469) -> 'И что теперь?' |
 | 6 | Лавров | Мы дали объекту три дня. | We gave the target three days. | #470 00:28:11: Мы дали объекту три дня | adapted: 'на сбор денег' (to collect the money) dropped |
-| 7 | Аня | Арестовать их надо, а деньги потом найдём. | They should be arrested, and we'll find the money later. | #473 00:28:17: а деньги потом найдем | adapted: the cue's 'Довязать' (garbled) -> 'Арестовать' |
+| 7 | Лавров | Арестовать их надо, а деньги потом найдём. | They should be arrested, and we'll find the money later. | #473 00:28:17: а деньги потом найдем | adapted: the cue's 'Довязать' (garbled) -> 'Арестовать' |
 | 8 | Лавров | Товарищ генерал, операция называется Золотой ярд. | Comrade General, the operation is called Golden Yard. | #476 00:28:24: Товарищ генерал, операция называется «Золотой ярд» | adapted: guillemets dropped in the spoken line |
 | 9 | Лавров | Наша задача — взять у взяточников миллиард рублей. | Our task is to take a billion roubles from the bribe-takers. | #479 00:28:32: у взяточников миллиард рублей | adapted: 'изъять' (seize) -> 'взять' |
 | 10 | Лавров | Легенда с кластером отличная. Всё работает. | The cover story with the cluster is excellent. Everything works. | #482 00:28:38: Легенда с кластером отличная<br>#483 00:28:40: Все работает | adapted: speaker of 481-483 not certain from the subtitles; given to Lavrov, who is arguing against an early arrest |
 | 11 | Генерал Круглов | Да! Все деньги брать надо. | Yes! We have to take all the money. | #484 00:28:42: Да<br>#484 00:28:42: брать надо | adapted: slang 'бабки' -> 'деньги' |
 | 12 | Генерал Круглов | Так, а это кто? | Right, and who's this? | #485 00:28:45: Так, а это кто | verbatim |
-| 13 | Аня | Лейтенант Соколов, товарищ генерал. Работает у нас в архиве. | Lieutenant Sokolov, Comrade General. He works in our archive. | #486 00:28:47: Лейтенант Соколов, товарищ генерал<br>#487 00:28:51: Работает у нас в архиве | verbatim |
+| 13 | Лавров | Лейтенант Соколов, товарищ генерал. Работает у нас в архиве. | Lieutenant Sokolov, Comrade General. He works in our archive. | #486 00:28:47: Лейтенант Соколов, товарищ генерал<br>#487 00:28:51: Работает у нас в архиве | verbatim |
 | 14 | Генерал Круглов | А почему он на секретном совещании? | And why is he at a secret meeting? | #488 00:28:53: А почему он | adapted: 'присутствует' (is present) dropped |
-| 15 | Аня | А на секретном совещании он мой племянник. | And at the secret meeting, he is my nephew. | #490 00:28:57: А на секретном совещании он мой | adapted: the cue's typo 'племенник' corrected to 'племянник' |
+| 15 | Лавров | А на секретном совещании он мой племянник. | And at the secret meeting, he is my nephew. | #490 00:28:57: А на секретном совещании он мой | adapted: the cue's typo 'племенник' corrected to 'племянник' |
 | 16 | Генерал Круглов | Так, операцию продолжаем. Михаил Михайлович, помогайте Лаврову. | Right, the operation goes on. Mikhail Mikhailovich, give Lavrov your help. | #493 00:29:04: Так, операцию продолжаем<br>#494 00:29:09: Михаил Михайлович | adapted: 'оказывайте Лаврову полное содействие' (give Lavrov full cooperation) -> 'помогайте Лаврову' |
-| 17 | Аня | Есть! | Yes, sir! | #495 00:29:14: Есть | verbatim |
+| 17 | Лавров | Есть! | Yes, sir! | #495 00:29:14: Есть | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -37,7 +37,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'The local officials can't put together the sum they need.' 'Can't' is 'not' plus 'they can'. These are the people who were supposed to pay for the cluster deal. The general takes it in.
 - 'I see. And what now?' The first word, 'it's clear', is a very common way to say 'I see' or 'got it'.
 - 'We gave the target three days.' The target is Pasha, the acting mayor. 'To the target' takes the ending for giving something to someone. The chief has a simpler plan.
-- 'They should be arrested, and we'll find the money later.' Literally, 'to arrest them is necessary'. Then 'we'll find' is perfective, so it's future. Lavrov has to explain the whole point.
+- 'They should be arrested, and we'll find the money later.' Literally, 'to arrest them is necessary'. Then 'we'll find' is a single-action verb, so it's future. Lavrov has to explain the whole point.
 - 'Comrade General, the operation is called Golden Yard.' 'Yard' here is slang for a billion, a short way of saying the full word. So golden yard means 'a golden billion'. Then he spells it out.
 - 'Our task is to take a billion roubles from the bribe-takers.' The short dash in the middle stands for 'is'. 'From' someone uses the same little word as 'at', with the ending for 'of'. That's why arresting them now would spoil everything.
 - 'The cover story with the cluster is excellent.' The word for legend is also the spy word for a cover story. The cluster, Pasha's big industrial project, is just bait. And it's working.

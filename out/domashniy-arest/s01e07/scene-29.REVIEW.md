@@ -4,7 +4,7 @@ Title: Этот ключ мне больше не понадобится  (I Won
 Level: A1 — Duolingo Section 2
 Pair: ru-en
 Source: Домашний арест (Domashniy Arest) S1.07
-Cues 1108-1140. ASR 'Да не ехать буду три часа' (1110, for 'Да они ехать будут три часа') is restored to 'Нет, врачи ехать будут три часа!', 'был слишком вспыльчив' (1133) is shortened so the sentence fits A1 length, ASR 'Мы сначала писали' (1136, for 'Мы сначала пи́сали') is omitted for clean retelling, and 'мерзкие' (1137) is dropped.
+
 
 Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
@@ -18,17 +18,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 6 | Марина | Да скажите мне, где! Я же не смотрю! | Then tell me where! I'm not looking, after all! | #1121 00:52:30: Да скажите мне | verbatim |
 | 7 | Аня | Марина, посмотрите, пожалуйста, что вы делаете! | Marina, please look at what you are doing! | #1123 00:52:35: Марина, посмотрите, пожалуйста, что вы делаете | verbatim |
 | 8 | Аня | Вот, да, мажьте! Ай, печёт! Дуйте, дуйте скорее! | There, yes, rub it! Ow, it burns! Blow on it, blow on it quickly! | #1125 00:52:39: Вот, да, мажьте<br>#1129 00:52:45: Печет! Дуйте, дуйте скорее | verbatim |
-| 9 | Эдик | Простите, что потревожил. Я зашёл попросить прощения. | Sorry to disturb you. I dropped by to apologize. | #1131 00:52:50: Простите, что потревожил<br>#1133 00:52:55: Я зашел попросить прощения | verbatim |
-| 10 | Эдик | Но, видимо, я зря зашёл. | But, apparently, I came in vain. | #1133 00:52:55: видимо, я зря зашел | verbatim |
+| 9 | Эдуард Владимирович | Простите, что потревожил. Я зашёл попросить прощения. | Sorry to disturb you. I dropped by to apologize. | #1131 00:52:50: Простите, что потревожил<br>#1133 00:52:55: Я зашел попросить прощения | verbatim |
+| 10 | Эдуард Владимирович | Но, видимо, я зря зашёл. | But, apparently, I came in vain. | #1133 00:52:55: видимо, я зря зашел | verbatim |
 | 11 | Марина | Эдик, стой! Я просто случайно его защемила! | Edik, stop! I just accidentally pinched him! | #1134 00:53:03: Эдик<br>#1136 00:53:08: я его защемила | adapted: 'Мы сначала писали' omitted |
 | 12 | Марина | Вот видишь, я ищу перчатку! | See, I'm looking for the glove! | #1136 00:53:08: Вот видишь, я ищу перчатку | verbatim |
-| 13 | Эдик | Я прошу тебя, не надо! Не хочу слышать эти подробности. | I beg you, don't! I don't want to hear these details. | #1137 00:53:13: Я прошу тебя<br>#1137 00:53:13: я не хочу слышать эти<br>#1137 00:53:13: подробности | adapted: 'мерзкие' omitted |
-| 14 | Эдик | У меня была жена и любимая женщина. Осталась только жена. | I used to have a wife and the woman I loved. Only the wife is left. | #1138 00:53:16: у меня была жена и любимая женщина, осталась только жена | adapted: split into two short sentences |
-| 15 | Эдик | Спасибо тебе, Марина. Этот ключ мне больше не понадобится. | Thank you, Marina. I won't need this key anymore. | #1139 00:53:24: Спасибо тебе, Марина. Этот ключ мне больше не понадобится | verbatim |
+| 13 | Эдуард Владимирович | Я прошу тебя, не надо! Не хочу слышать эти подробности. | I beg you, don't! I don't want to hear these details. | #1137 00:53:13: Я прошу тебя<br>#1137 00:53:13: я не хочу слышать эти<br>#1137 00:53:13: подробности | adapted: 'мерзкие' omitted |
+| 14 | Эдуард Владимирович | У меня была жена и любимая женщина. Осталась только жена. | I used to have a wife and the woman I loved. Only the wife is left. | #1138 00:53:16: у меня была жена и любимая женщина, осталась только жена | adapted: split into two short sentences |
+| 15 | Эдуард Владимирович | Спасибо тебе, Марина. Этот ключ мне больше не понадобится. | Thank you, Marina. I won't need this key anymore. | #1139 00:53:24: Спасибо тебе, Марина. Этот ключ мне больше не понадобится | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Maybe we should call a doctor? I'm very scared!' Because 'doctor' is an animate masculine noun, its accusative singular ends in '-a'.
+- 'Maybe we should call a doctor? I'm very scared!' Because 'doctor' is an animate masculine noun, its object-form singular ends in '-a'.
 - 'No, the doctors will take three hours to get here!' Literally, 'will be driving for three hours'.
 - 'Do you want me to get an infection?' After 'want that', Russian uses the conjunction 'chtoby' plus a past-tense verb.
 - 'Alright, fine, fine! I'll put the ointment on myself. Here?' Marina grabs a bottle of green antiseptic and tries to dab it on with her eyes averted.

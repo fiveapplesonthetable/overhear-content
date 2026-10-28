@@ -3067,37 +3067,38 @@
       ]
     },
     "au": {
-      "examples": [
+      "lemma": "au",
+      "stress": "o",
+      "pos": "prep",
+      "gloss": "at the, to the",
+      "meanings": [
         {
-          "text": "Non, au contraire.",
-          "trans": "No, quite the opposite."
-        },
-        {
-          "text": "Au revoir!",
-          "trans": "Goodbye!"
-        },
-        {
-          "text": "Je suis au boulot.",
-          "trans": "I'm at work."
+          "en": "at the, to the",
+          "note": "à + le contracted: au boulot, au téléphone"
         }
       ],
       "forms": null,
-      "gloss": "to the, at the",
-      "lemma": "au",
-      "meanings": [
+      "moreForms": [],
+      "examples": [
         {
-          "en": "to the, at the (à + le)",
-          "note": "à + le contracted: au boulot, au téléphone"
+          "text": "Je suis au boulot.",
+          "trans": "I'm at work."
         },
         {
-          "en": "au contraire = on the contrary; au revoir = goodbye",
-          "note": ""
+          "text": "Elle est au téléphone.",
+          "trans": "She's on the phone."
+        },
+        {
+          "text": "J'ai un problème au boulot.",
+          "trans": "I've got a problem at work."
         }
       ],
-      "moreForms": [],
-      "pos": "prep",
-      "stress": "o",
-      "related": []
+      "related": [
+        {
+          "word": "au",
+          "gloss": "at the"
+        }
+      ]
     },
     "avoir": {
       "lemma": "avoir",
@@ -5128,10 +5129,12 @@
       "stress": "ljø",
       "pos": "noun",
       "gloss": "place, spot",
+      "gender": "m",
+      "plural": "lieux",
       "meanings": [
         {
           "en": "place, spot, location",
-          "note": "avoir lieu = to happen, take place"
+          "note": "Avoir lieu = to happen, take place. Masculine noun ('le lieu', plural 'les lieux') inherited through Romance vocabulary, used in everyday and professional French for 'place'."
         }
       ],
       "forms": {
@@ -5166,12 +5169,10 @@
           "trans": "The account closing takes place on Friday."
         }
       ],
-      "gender": "m",
-      "plural": "lieux",
       "related": [
         {
-          "word": "le/la lieu",
-          "gloss": "the place (with article)"
+          "word": "avoir lieu",
+          "gloss": "to happen, take place"
         }
       ]
     },

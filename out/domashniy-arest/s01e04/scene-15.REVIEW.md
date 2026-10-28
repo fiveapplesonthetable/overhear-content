@@ -35,20 +35,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I don't buy it.' Literally 'I do not believe', the famous phrase of the theatre director Stanislavsky.
 - 'You look like some rich crook.' The short adjective at the start is masculine: 'similar to'. And Samson spots the irony right away.
 - 'What? Which one of us is a crook?' After all, Arkady is the one wearing an electronic ankle tag for taking a bribe. Arkady quickly changes the subject and rummages through the wardrobe.
-- 'Don't take offence, Vanya.' A negative command with a reflexive ending.
-- 'I'll find suitable clothes right now.' 'Clothes' in Russian is a singular feminine noun, so the adjective takes the feminine accusative ending '-uyu'. Meanwhile Yulia answers another voter call on the sofa, and Samson tries on a pale sweater.
+- 'Don't take offence, Vanya.' A negative command.
+- 'I'll find suitable clothes right now.' 'Clothes' in Russian is a singular feminine noun, so the adjective takes the feminine object ending '-uyu'. Meanwhile Yulia answers another voter call on the sofa, and Samson tries on a pale sweater.
 - 'I don't know, I don't like this sweater.' Remember how 'to like' works in Russian: 'this sweater does not please to me'. Nina comes to the rescue.
 - 'A caramel-cream colour.' Nina sounds like a fashion magazine.
 - 'It really suits you! Put the jacket on.' Literally 'very much to you to the face', an idiom meaning 'it looks great on you'. Then she tells him to put his work jacket over it. Arkady beams.
 - 'Perfect, Vanya! That right there is your look!' Now Samson looks like an honest working man. Time to rehearse.
-- 'Now say your slogan.' An informal imperative: 'say'.
+- 'Now say your slogan.' An informal command: 'say'.
 - 'Everyone talks, while I get things done.' Literally 'all speak, and I do'. Just then Slavik runs in with bottles of free beer sent by the local brewery, who want the people's candidate to pose with a bottle. Samson reaches for one, and Arkady slaps his hand away.
 - 'Wait, don't!' Two quick words to stop him.
-- 'Hands off the beer!' Literally 'hands away from the beer', with 'beer' in the genitive case. Then Arkady gives him a pep talk.
-- 'Listen to me, Vanya.' A compact expression built around 'listen to' and 'Vanya'.
+- 'Hands off the beer!' Literally 'hands away from the beer', with 'beer' in the 'of' form. Then Arkady gives him a pep talk.
+- 'Listen to me, Vanya.' The key word here means 'listen to', anchored at the close by 'listen to'.
 - 'We need to be patient a little and work a bit.' Both verbs have the prefix 'po-', which means doing something for a short while.
 - 'And at the end a tasty carrot is waiting for us all!' He means the big prize once Samson wins the election. Knowing Samson's weakness, Arkady turns to Nina.
 - 'Nina, keep an eye on him, please.' He uses the polite plural command with Nina.
-- 'I'll keep an eye on him.' First-person perfective future: 'I will supervise'. Before heading out to go door to door, Arkady gives one last warning.
-- 'There will be various provocations.' Here 'there will be' sets up the idea, while 'provocations' comes at the end for emphasis.
-- 'All contacts go only through me.' After the preposition 'through', 'me' is in the accusative.
+- 'I'll keep an eye on him.' First-person future-tense form: 'I will supervise'. Before heading out to go door to door, Arkady gives one last warning.
+- 'There will be various provocations.' In spoken Russian, word order is flexible: 'there will be' comes first to set the focus, followed by 'provocations'.
+- 'All contacts go only through me.' After the preposition 'through', 'me' is in the object form.

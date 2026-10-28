@@ -10,9 +10,9 @@
           "t": "Аркаша,",
           "lemma": "аркаша",
           "pos": "name",
-          "stress": "Арка́ша",
-          "gloss": "Arkasha (Arkady)",
-          "gram": "affectionate short name, used as address"
+          "stress": null,
+          "gloss": "Arkasha",
+          "gram": "affectionate form of Аркадий, used as address"
         },
         {
           "t": "где",
@@ -28,14 +28,14 @@
           "pos": "det",
           "stress": "на́ша",
           "gloss": "our",
-          "gram": "nominative singular, feminine"
+          "gram": "possessive, nominative singular, feminine"
         },
         {
           "t": "машина?",
           "lemma": "машина",
           "pos": "noun",
           "stress": "маши́на",
-          "gloss": "car",
+          "gloss": "a car",
           "gram": "nominative singular, feminine"
         }
       ]
@@ -48,9 +48,9 @@
           "t": "Ваня,",
           "lemma": "ваня",
           "pos": "name",
-          "stress": "Ва́ня",
+          "stress": null,
           "gloss": "Vanya (Ivan)",
-          "gram": "short form of Иван, used as address"
+          "gram": "name, used as address"
         },
         {
           "t": "всё",
@@ -58,7 +58,7 @@
           "pos": "det",
           "stress": null,
           "gloss": "everything",
-          "gram": "neuter singular, used alone = everything"
+          "gram": "nominative neuter singular, used as a noun"
         },
         {
           "t": "гораздо",
@@ -82,7 +82,7 @@
           "pos": "pron",
           "stress": "меня́",
           "gloss": "me",
-          "gram": "1st person singular, accusative"
+          "gram": "1st person singular, genitive"
         },
         {
           "t": "обманули.",
@@ -104,7 +104,7 @@
           "pos": "pron",
           "stress": "чего́",
           "gloss": "what?",
-          "gram": "genitive form, used colloquially for 'what?'"
+          "gram": "genitive form, casual 'what?' (pronounced 'chevo')"
         },
         {
           "t": "Кто",
@@ -112,7 +112,7 @@
           "pos": "pron",
           "stress": null,
           "gloss": "who",
-          "gram": "nominative"
+          "gram": "question word, nominative"
         },
         {
           "t": "тебя",
@@ -120,7 +120,7 @@
           "pos": "pron",
           "stress": "тебя́",
           "gloss": "you",
-          "gram": "2nd person singular, accusative"
+          "gram": "2nd person singular, genitive"
         },
         {
           "t": "обманул?",
@@ -141,7 +141,7 @@
           "lemma": "у",
           "pos": "prep",
           "stress": null,
-          "gloss": "at (у меня = I have)",
+          "gloss": "at, near, with",
           "gram": "preposition + genitive"
         },
         {
@@ -157,8 +157,8 @@
           "lemma": "больше",
           "pos": "adv",
           "stress": "бо́льше",
-          "gloss": "no longer, any more",
-          "gram": "adverb; with 'нет' = nothing left"
+          "gloss": "more",
+          "gram": "comparative adverb (of много)"
         },
         {
           "t": "ничего",
@@ -166,15 +166,15 @@
           "pos": "pron",
           "stress": "ничего́",
           "gloss": "nothing",
-          "gram": "genitive (after 'нет')"
+          "gram": "genitive (with не); г is said like в"
         },
         {
           "t": "нет.",
           "lemma": "нет",
           "pos": "part",
           "stress": null,
-          "gloss": "there is no",
-          "gram": "negation of existence"
+          "gloss": "no",
+          "gram": "negative answer"
         }
       ]
     },
@@ -187,7 +187,7 @@
           "lemma": "а",
           "pos": "conj",
           "stress": null,
-          "gloss": "and (what about)",
+          "gloss": "and, but",
           "gram": "conjunction"
         },
         {
@@ -204,14 +204,14 @@
           "pos": "noun",
           "stress": "кварти́ра",
           "gloss": "flat",
-          "gram": "nominative singular, feminine"
+          "gram": "nominative singular"
         },
         {
           "t": "машина,",
           "lemma": "машина",
           "pos": "noun",
           "stress": "маши́на",
-          "gloss": "car",
+          "gloss": "a car",
           "gram": "nominative singular, feminine"
         },
         {
@@ -220,7 +220,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "spa",
-          "gram": "indeclinable, neuter"
+          "gram": "indeclinable, neuter; accusative here"
         }
       ]
     },
@@ -232,7 +232,7 @@
           "t": "Ванечка!",
           "lemma": "ванечка",
           "pos": "name",
-          "stress": "Ва́нечка",
+          "stress": null,
           "gloss": "Vanechka (Ivan)",
           "gram": "tender form of Ваня, used as address"
         }
@@ -255,7 +255,7 @@
           "lemma": "ты",
           "pos": "pron",
           "stress": "тебе́",
-          "gloss": "(to) you",
+          "gloss": "for you, to you",
           "gram": "2nd person singular, dative"
         },
         {
@@ -272,15 +272,15 @@
           "pos": "noun",
           "stress": "де́нег",
           "gloss": "money",
-          "gram": "genitive plural (after 'нет')"
+          "gram": "genitive plural (after не хватило)"
         },
         {
           "t": "нет.",
           "lemma": "нет",
           "pos": "part",
           "stress": null,
-          "gloss": "there is no",
-          "gram": "negation of existence"
+          "gloss": "no",
+          "gram": "negative answer"
         },
         {
           "t": "Где",
@@ -303,7 +303,7 @@
           "lemma": "ты",
           "pos": "pron",
           "stress": "тебе́",
-          "gloss": "(for) you",
+          "gloss": "for you, to you",
           "gram": "2nd person singular, dative"
         },
         {
@@ -333,7 +333,7 @@
           "lemma": "держать",
           "pos": "verb",
           "stress": "держи́",
-          "gloss": "here, take it",
+          "gloss": "here you go (lit. hold)",
           "gram": "imperative, 2nd person singular, imperfective"
         },
         {
@@ -341,8 +341,8 @@
           "lemma": "быть",
           "pos": "verb",
           "stress": "бу́дешь",
-          "gloss": "(you) will",
-          "gram": "future, 2nd person singular (helper for the future)"
+          "gloss": "will (be)",
+          "gram": "future, 2nd person singular (auxiliary)"
         },
         {
           "t": "чинить",
@@ -357,7 +357,7 @@
           "lemma": "труба",
           "pos": "noun",
           "stress": "трубу́",
-          "gloss": "pipe",
+          "gloss": "the pipe",
           "gram": "accusative singular, feminine"
         }
       ]
@@ -372,7 +372,7 @@
           "pos": "adv",
           "stress": "заче́м",
           "gloss": "what for",
-          "gram": "question word"
+          "gram": "question word (purpose)"
         },
         {
           "t": "Не",
@@ -387,8 +387,8 @@
           "lemma": "быть",
           "pos": "verb",
           "stress": "бу́ду",
-          "gloss": "will",
-          "gram": "future, 1st person singular (helper for the future)"
+          "gloss": "will be (there)",
+          "gram": "future, 1st person singular, imperfective"
         },
         {
           "t": "я",
@@ -403,8 +403,8 @@
           "lemma": "ничто",
           "pos": "pron",
           "stress": "ничего́",
-          "gloss": "anything, nothing",
-          "gram": "genitive (with 'не')"
+          "gloss": "nothing",
+          "gram": "genitive (with не); г is said like в"
         },
         {
           "t": "чинить!",
@@ -425,8 +425,8 @@
           "lemma": "что",
           "pos": "pron",
           "stress": "чего́",
-          "gloss": "what",
-          "gram": "genitive form, used colloquially for 'what, why'"
+          "gloss": "what?",
+          "gram": "genitive form, casual 'what?' (pronounced 'chevo')"
         },
         {
           "t": "ты",
@@ -434,7 +434,7 @@
           "pos": "pron",
           "stress": null,
           "gloss": "you",
-          "gram": "2nd person singular, nominative"
+          "gram": "2nd person singular, nominative, informal"
         },
         {
           "t": "смотришь,",
@@ -448,9 +448,9 @@
           "t": "Нина?",
           "lemma": "нина",
           "pos": "name",
-          "stress": "Ни́на",
+          "stress": null,
           "gloss": "Nina",
-          "gram": "name, used as address"
+          "gram": "used as address"
         },
         {
           "t": "Королева!",
@@ -487,7 +487,7 @@
           "lemma": "вот",
           "pos": "part",
           "stress": null,
-          "gloss": "there (is)",
+          "gloss": "there, here",
           "gram": "pointing particle"
         },
         {
@@ -502,8 +502,8 @@
           "t": "твоё",
           "lemma": "твой",
           "pos": "det",
-          "stress": "твоё",
-          "gloss": "your",
+          "stress": null,
+          "gloss": "yours",
           "gram": "nominative singular, neuter"
         },
         {
@@ -524,9 +524,9 @@
           "t": "Ваня,",
           "lemma": "ваня",
           "pos": "name",
-          "stress": "Ва́ня",
+          "stress": null,
           "gloss": "Vanya (Ivan)",
-          "gram": "short form of Иван, used as address"
+          "gram": "name, used as address"
         },
         {
           "t": "вода!",
@@ -562,9 +562,9 @@
           "t": "Ваня,",
           "lemma": "ваня",
           "pos": "name",
-          "stress": "Ва́ня",
+          "stress": null,
           "gloss": "Vanya (Ivan)",
-          "gram": "short form of Иван, used as address"
+          "gram": "name, used as address"
         },
         {
           "t": "я",
@@ -579,7 +579,7 @@
           "lemma": "просить",
           "pos": "verb",
           "stress": "прошу́",
-          "gloss": "am begging",
+          "gloss": "beg, ask",
           "gram": "present, 1st person singular, imperfective"
         },
         {
@@ -588,7 +588,7 @@
           "pos": "pron",
           "stress": "тебя́",
           "gloss": "you",
-          "gram": "2nd person singular, accusative"
+          "gram": "2nd person singular, genitive"
         }
       ]
     },
@@ -602,14 +602,14 @@
           "pos": "pron",
           "stress": "э́то",
           "gloss": "this",
-          "gram": "demonstrative pronoun, unchanging"
+          "gram": "demonstrative pronoun, nominative"
         },
         {
           "t": "же",
           "lemma": "же",
           "pos": "part",
           "stress": null,
-          "gloss": "after all",
+          "gloss": "but, after all",
           "gram": "emphatic particle"
         },
         {
@@ -625,16 +625,16 @@
           "lemma": "туалет",
           "pos": "noun",
           "stress": "туале́т",
-          "gloss": "toilet, bathroom",
-          "gram": "nominative singular, masculine"
+          "gloss": "toilet",
+          "gram": "accusative singular, masculine"
         },
         {
           "t": "Ваня!",
           "lemma": "ваня",
           "pos": "name",
-          "stress": "Ва́ня",
+          "stress": null,
           "gloss": "Vanya (Ivan)",
-          "gram": "short form of Иван, used as address"
+          "gram": "name, used as address"
         }
       ]
     },
@@ -646,9 +646,9 @@
           "t": "Аркаша,",
           "lemma": "аркаша",
           "pos": "name",
-          "stress": "Арка́ша",
-          "gloss": "Arkasha (Arkady)",
-          "gram": "affectionate short name, used as address"
+          "stress": null,
+          "gloss": "Arkasha",
+          "gram": "affectionate form of Аркадий, used as address"
         },
         {
           "t": "где",
@@ -664,14 +664,14 @@
           "pos": "det",
           "stress": "на́ша",
           "gloss": "our",
-          "gram": "nominative singular, feminine"
+          "gram": "possessive, nominative singular, feminine"
         },
         {
           "t": "машина?",
           "lemma": "машина",
           "pos": "noun",
           "stress": "маши́на",
-          "gloss": "car",
+          "gloss": "a car",
           "gram": "nominative singular, feminine"
         }
       ]
@@ -684,9 +684,9 @@
           "t": "Ваня,",
           "lemma": "ваня",
           "pos": "name",
-          "stress": "Ва́ня",
+          "stress": null,
           "gloss": "Vanya (Ivan)",
-          "gram": "short form of Иван, used as address"
+          "gram": "name, used as address"
         },
         {
           "t": "всё",
@@ -694,7 +694,7 @@
           "pos": "det",
           "stress": null,
           "gloss": "everything",
-          "gram": "neuter singular, used alone = everything"
+          "gram": "nominative neuter singular, used as a noun"
         },
         {
           "t": "гораздо",
@@ -724,7 +724,7 @@
           "pos": "pron",
           "stress": "меня́",
           "gloss": "me",
-          "gram": "1st person singular, accusative"
+          "gram": "1st person singular, genitive"
         },
         {
           "t": "обманули.",
@@ -746,7 +746,7 @@
           "pos": "pron",
           "stress": "чего́",
           "gloss": "what?",
-          "gram": "genitive form, used colloquially for 'what?'"
+          "gram": "genitive form, casual 'what?' (pronounced 'chevo')"
         },
         {
           "t": "Кто",
@@ -754,7 +754,7 @@
           "pos": "pron",
           "stress": null,
           "gloss": "who",
-          "gram": "nominative"
+          "gram": "question word, nominative"
         },
         {
           "t": "тебя",
@@ -762,7 +762,7 @@
           "pos": "pron",
           "stress": "тебя́",
           "gloss": "you",
-          "gram": "2nd person singular, accusative"
+          "gram": "2nd person singular, genitive"
         },
         {
           "t": "обманул?",
@@ -783,7 +783,7 @@
           "lemma": "у",
           "pos": "prep",
           "stress": null,
-          "gloss": "at (у меня = I have)",
+          "gloss": "at, near, with",
           "gram": "preposition + genitive"
         },
         {
@@ -799,8 +799,8 @@
           "lemma": "больше",
           "pos": "adv",
           "stress": "бо́льше",
-          "gloss": "no longer, any more",
-          "gram": "adverb; with 'нет' = nothing left"
+          "gloss": "more",
+          "gram": "comparative adverb (of много)"
         },
         {
           "t": "ничего",
@@ -808,15 +808,15 @@
           "pos": "pron",
           "stress": "ничего́",
           "gloss": "nothing",
-          "gram": "genitive (after 'нет')"
+          "gram": "genitive (with не); г is said like в"
         },
         {
           "t": "нет.",
           "lemma": "нет",
           "pos": "part",
           "stress": null,
-          "gloss": "there is no",
-          "gram": "negation of existence"
+          "gloss": "no",
+          "gram": "negative answer"
         }
       ]
     },
@@ -829,7 +829,7 @@
           "lemma": "а",
           "pos": "conj",
           "stress": null,
-          "gloss": "and (what about)",
+          "gloss": "and, but",
           "gram": "conjunction"
         },
         {
@@ -846,14 +846,14 @@
           "pos": "noun",
           "stress": "кварти́ра",
           "gloss": "flat",
-          "gram": "nominative singular, feminine"
+          "gram": "nominative singular"
         },
         {
           "t": "машина,",
           "lemma": "машина",
           "pos": "noun",
           "stress": "маши́на",
-          "gloss": "car",
+          "gloss": "a car",
           "gram": "nominative singular, feminine"
         },
         {
@@ -862,7 +862,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "spa",
-          "gram": "indeclinable, neuter"
+          "gram": "indeclinable, neuter; accusative here"
         }
       ]
     },
@@ -874,7 +874,7 @@
           "t": "Ванечка!",
           "lemma": "ванечка",
           "pos": "name",
-          "stress": "Ва́нечка",
+          "stress": null,
           "gloss": "Vanechka (Ivan)",
           "gram": "tender form of Ваня, used as address"
         }
@@ -897,7 +897,7 @@
           "lemma": "ты",
           "pos": "pron",
           "stress": "тебе́",
-          "gloss": "(to) you",
+          "gloss": "for you, to you",
           "gram": "2nd person singular, dative"
         },
         {
@@ -914,15 +914,15 @@
           "pos": "noun",
           "stress": "де́нег",
           "gloss": "money",
-          "gram": "genitive plural (after 'нет')"
+          "gram": "genitive plural (after не хватило)"
         },
         {
           "t": "нет.",
           "lemma": "нет",
           "pos": "part",
           "stress": null,
-          "gloss": "there is no",
-          "gram": "negation of existence"
+          "gloss": "no",
+          "gram": "negative answer"
         }
       ]
     },
@@ -951,7 +951,7 @@
           "lemma": "ты",
           "pos": "pron",
           "stress": "тебе́",
-          "gloss": "(for) you",
+          "gloss": "for you, to you",
           "gram": "2nd person singular, dative"
         },
         {
@@ -981,7 +981,7 @@
           "lemma": "держать",
           "pos": "verb",
           "stress": "держи́",
-          "gloss": "here, take it",
+          "gloss": "here you go (lit. hold)",
           "gram": "imperative, 2nd person singular, imperfective"
         },
         {
@@ -989,8 +989,8 @@
           "lemma": "быть",
           "pos": "verb",
           "stress": "бу́дешь",
-          "gloss": "(you) will",
-          "gram": "future, 2nd person singular (helper for the future)"
+          "gloss": "will (be)",
+          "gram": "future, 2nd person singular (auxiliary)"
         },
         {
           "t": "чинить",
@@ -1005,7 +1005,7 @@
           "lemma": "труба",
           "pos": "noun",
           "stress": "трубу́",
-          "gloss": "pipe",
+          "gloss": "the pipe",
           "gram": "accusative singular, feminine"
         }
       ]
@@ -1020,7 +1020,7 @@
           "pos": "adv",
           "stress": "заче́м",
           "gloss": "what for",
-          "gram": "question word"
+          "gram": "question word (purpose)"
         },
         {
           "t": "Не",
@@ -1035,8 +1035,8 @@
           "lemma": "быть",
           "pos": "verb",
           "stress": "бу́ду",
-          "gloss": "will",
-          "gram": "future, 1st person singular (helper for the future)"
+          "gloss": "will be (there)",
+          "gram": "future, 1st person singular, imperfective"
         },
         {
           "t": "я",
@@ -1051,8 +1051,8 @@
           "lemma": "ничто",
           "pos": "pron",
           "stress": "ничего́",
-          "gloss": "anything, nothing",
-          "gram": "genitive (with 'не')"
+          "gloss": "nothing",
+          "gram": "genitive (with не); г is said like в"
         },
         {
           "t": "чинить!",
@@ -1073,8 +1073,8 @@
           "lemma": "что",
           "pos": "pron",
           "stress": "чего́",
-          "gloss": "what",
-          "gram": "genitive form, used colloquially for 'what, why'"
+          "gloss": "what?",
+          "gram": "genitive form, casual 'what?' (pronounced 'chevo')"
         },
         {
           "t": "ты",
@@ -1082,7 +1082,7 @@
           "pos": "pron",
           "stress": null,
           "gloss": "you",
-          "gram": "2nd person singular, nominative"
+          "gram": "2nd person singular, nominative, informal"
         },
         {
           "t": "смотришь,",
@@ -1096,9 +1096,9 @@
           "t": "Нина?",
           "lemma": "нина",
           "pos": "name",
-          "stress": "Ни́на",
+          "stress": null,
           "gloss": "Nina",
-          "gram": "name, used as address"
+          "gram": "used as address"
         },
         {
           "t": "Королева!",
@@ -1135,7 +1135,7 @@
           "lemma": "вот",
           "pos": "part",
           "stress": null,
-          "gloss": "there (is)",
+          "gloss": "there, here",
           "gram": "pointing particle"
         },
         {
@@ -1150,8 +1150,8 @@
           "t": "твоё",
           "lemma": "твой",
           "pos": "det",
-          "stress": "твоё",
-          "gloss": "your",
+          "stress": null,
+          "gloss": "yours",
           "gram": "nominative singular, neuter"
         },
         {
@@ -1172,9 +1172,9 @@
           "t": "Ваня,",
           "lemma": "ваня",
           "pos": "name",
-          "stress": "Ва́ня",
+          "stress": null,
           "gloss": "Vanya (Ivan)",
-          "gram": "short form of Иван, used as address"
+          "gram": "name, used as address"
         },
         {
           "t": "вода!",
@@ -1210,9 +1210,9 @@
           "t": "Ваня,",
           "lemma": "ваня",
           "pos": "name",
-          "stress": "Ва́ня",
+          "stress": null,
           "gloss": "Vanya (Ivan)",
-          "gram": "short form of Иван, used as address"
+          "gram": "name, used as address"
         },
         {
           "t": "я",
@@ -1227,7 +1227,7 @@
           "lemma": "просить",
           "pos": "verb",
           "stress": "прошу́",
-          "gloss": "am begging",
+          "gloss": "beg, ask",
           "gram": "present, 1st person singular, imperfective"
         },
         {
@@ -1236,7 +1236,7 @@
           "pos": "pron",
           "stress": "тебя́",
           "gloss": "you",
-          "gram": "2nd person singular, accusative"
+          "gram": "2nd person singular, genitive"
         }
       ]
     },
@@ -1250,14 +1250,14 @@
           "pos": "pron",
           "stress": "э́то",
           "gloss": "this",
-          "gram": "demonstrative pronoun, unchanging"
+          "gram": "demonstrative pronoun, nominative"
         },
         {
           "t": "же",
           "lemma": "же",
           "pos": "part",
           "stress": null,
-          "gloss": "after all",
+          "gloss": "but, after all",
           "gram": "emphatic particle"
         },
         {
@@ -1273,16 +1273,16 @@
           "lemma": "туалет",
           "pos": "noun",
           "stress": "туале́т",
-          "gloss": "toilet, bathroom",
-          "gram": "nominative singular, masculine"
+          "gloss": "toilet",
+          "gram": "accusative singular, masculine"
         },
         {
           "t": "Ваня!",
           "lemma": "ваня",
           "pos": "name",
-          "stress": "Ва́ня",
+          "stress": null,
           "gloss": "Vanya (Ivan)",
-          "gram": "short form of Иван, used as address"
+          "gram": "name, used as address"
         }
       ]
     },
@@ -1294,9 +1294,9 @@
           "t": "Аркаша,",
           "lemma": "аркаша",
           "pos": "name",
-          "stress": "Арка́ша",
-          "gloss": "Arkasha (Arkady)",
-          "gram": "affectionate short name, used as address"
+          "stress": null,
+          "gloss": "Arkasha",
+          "gram": "affectionate form of Аркадий, used as address"
         },
         {
           "t": "где",
@@ -1312,14 +1312,14 @@
           "pos": "det",
           "stress": "на́ша",
           "gloss": "our",
-          "gram": "nominative singular, feminine"
+          "gram": "possessive, nominative singular, feminine"
         },
         {
           "t": "машина?",
           "lemma": "машина",
           "pos": "noun",
           "stress": "маши́на",
-          "gloss": "car",
+          "gloss": "a car",
           "gram": "nominative singular, feminine"
         }
       ]
@@ -1332,9 +1332,9 @@
           "t": "Ваня,",
           "lemma": "ваня",
           "pos": "name",
-          "stress": "Ва́ня",
+          "stress": null,
           "gloss": "Vanya (Ivan)",
-          "gram": "short form of Иван, used as address"
+          "gram": "name, used as address"
         },
         {
           "t": "всё",
@@ -1342,7 +1342,7 @@
           "pos": "det",
           "stress": null,
           "gloss": "everything",
-          "gram": "neuter singular, used alone = everything"
+          "gram": "nominative neuter singular, used as a noun"
         },
         {
           "t": "гораздо",
@@ -1366,7 +1366,7 @@
           "pos": "pron",
           "stress": "меня́",
           "gloss": "me",
-          "gram": "1st person singular, accusative"
+          "gram": "1st person singular, genitive"
         },
         {
           "t": "обманули.",
@@ -1388,7 +1388,7 @@
           "pos": "pron",
           "stress": "чего́",
           "gloss": "what?",
-          "gram": "genitive form, used colloquially for 'what?'"
+          "gram": "genitive form, casual 'what?' (pronounced 'chevo')"
         },
         {
           "t": "Кто",
@@ -1396,7 +1396,7 @@
           "pos": "pron",
           "stress": null,
           "gloss": "who",
-          "gram": "nominative"
+          "gram": "question word, nominative"
         },
         {
           "t": "тебя",
@@ -1404,7 +1404,7 @@
           "pos": "pron",
           "stress": "тебя́",
           "gloss": "you",
-          "gram": "2nd person singular, accusative"
+          "gram": "2nd person singular, genitive"
         },
         {
           "t": "обманул?",
@@ -1425,7 +1425,7 @@
           "lemma": "у",
           "pos": "prep",
           "stress": null,
-          "gloss": "at (у меня = I have)",
+          "gloss": "at, near, with",
           "gram": "preposition + genitive"
         },
         {
@@ -1441,8 +1441,8 @@
           "lemma": "больше",
           "pos": "adv",
           "stress": "бо́льше",
-          "gloss": "no longer, any more",
-          "gram": "adverb; with 'нет' = nothing left"
+          "gloss": "more",
+          "gram": "comparative adverb (of много)"
         },
         {
           "t": "ничего",
@@ -1450,15 +1450,15 @@
           "pos": "pron",
           "stress": "ничего́",
           "gloss": "nothing",
-          "gram": "genitive (after 'нет')"
+          "gram": "genitive (with не); г is said like в"
         },
         {
           "t": "нет.",
           "lemma": "нет",
           "pos": "part",
           "stress": null,
-          "gloss": "there is no",
-          "gram": "negation of existence"
+          "gloss": "no",
+          "gram": "negative answer"
         }
       ]
     },
@@ -1471,7 +1471,7 @@
           "lemma": "а",
           "pos": "conj",
           "stress": null,
-          "gloss": "and (what about)",
+          "gloss": "and, but",
           "gram": "conjunction"
         },
         {
@@ -1488,14 +1488,14 @@
           "pos": "noun",
           "stress": "кварти́ра",
           "gloss": "flat",
-          "gram": "nominative singular, feminine"
+          "gram": "nominative singular"
         },
         {
           "t": "машина,",
           "lemma": "машина",
           "pos": "noun",
           "stress": "маши́на",
-          "gloss": "car",
+          "gloss": "a car",
           "gram": "nominative singular, feminine"
         },
         {
@@ -1504,7 +1504,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "spa",
-          "gram": "indeclinable, neuter"
+          "gram": "indeclinable, neuter; accusative here"
         }
       ]
     },
@@ -1516,7 +1516,7 @@
           "t": "Ванечка!",
           "lemma": "ванечка",
           "pos": "name",
-          "stress": "Ва́нечка",
+          "stress": null,
           "gloss": "Vanechka (Ivan)",
           "gram": "tender form of Ваня, used as address"
         }
@@ -1539,7 +1539,7 @@
           "lemma": "ты",
           "pos": "pron",
           "stress": "тебе́",
-          "gloss": "(to) you",
+          "gloss": "for you, to you",
           "gram": "2nd person singular, dative"
         },
         {
@@ -1556,15 +1556,15 @@
           "pos": "noun",
           "stress": "де́нег",
           "gloss": "money",
-          "gram": "genitive plural (after 'нет')"
+          "gram": "genitive plural (after не хватило)"
         },
         {
           "t": "нет.",
           "lemma": "нет",
           "pos": "part",
           "stress": null,
-          "gloss": "there is no",
-          "gram": "negation of existence"
+          "gloss": "no",
+          "gram": "negative answer"
         },
         {
           "t": "Где",
@@ -1587,7 +1587,7 @@
           "lemma": "ты",
           "pos": "pron",
           "stress": "тебе́",
-          "gloss": "(for) you",
+          "gloss": "for you, to you",
           "gram": "2nd person singular, dative"
         },
         {
@@ -1617,7 +1617,7 @@
           "lemma": "держать",
           "pos": "verb",
           "stress": "держи́",
-          "gloss": "here, take it",
+          "gloss": "here you go (lit. hold)",
           "gram": "imperative, 2nd person singular, imperfective"
         },
         {
@@ -1625,8 +1625,8 @@
           "lemma": "быть",
           "pos": "verb",
           "stress": "бу́дешь",
-          "gloss": "(you) will",
-          "gram": "future, 2nd person singular (helper for the future)"
+          "gloss": "will (be)",
+          "gram": "future, 2nd person singular (auxiliary)"
         },
         {
           "t": "чинить",
@@ -1641,7 +1641,7 @@
           "lemma": "труба",
           "pos": "noun",
           "stress": "трубу́",
-          "gloss": "pipe",
+          "gloss": "the pipe",
           "gram": "accusative singular, feminine"
         }
       ]
@@ -1656,7 +1656,7 @@
           "pos": "adv",
           "stress": "заче́м",
           "gloss": "what for",
-          "gram": "question word"
+          "gram": "question word (purpose)"
         },
         {
           "t": "Не",
@@ -1671,8 +1671,8 @@
           "lemma": "быть",
           "pos": "verb",
           "stress": "бу́ду",
-          "gloss": "will",
-          "gram": "future, 1st person singular (helper for the future)"
+          "gloss": "will be (there)",
+          "gram": "future, 1st person singular, imperfective"
         },
         {
           "t": "я",
@@ -1687,8 +1687,8 @@
           "lemma": "ничто",
           "pos": "pron",
           "stress": "ничего́",
-          "gloss": "anything, nothing",
-          "gram": "genitive (with 'не')"
+          "gloss": "nothing",
+          "gram": "genitive (with не); г is said like в"
         },
         {
           "t": "чинить!",
@@ -1709,8 +1709,8 @@
           "lemma": "что",
           "pos": "pron",
           "stress": "чего́",
-          "gloss": "what",
-          "gram": "genitive form, used colloquially for 'what, why'"
+          "gloss": "what?",
+          "gram": "genitive form, casual 'what?' (pronounced 'chevo')"
         },
         {
           "t": "ты",
@@ -1718,7 +1718,7 @@
           "pos": "pron",
           "stress": null,
           "gloss": "you",
-          "gram": "2nd person singular, nominative"
+          "gram": "2nd person singular, nominative, informal"
         },
         {
           "t": "смотришь,",
@@ -1732,9 +1732,9 @@
           "t": "Нина?",
           "lemma": "нина",
           "pos": "name",
-          "stress": "Ни́на",
+          "stress": null,
           "gloss": "Nina",
-          "gram": "name, used as address"
+          "gram": "used as address"
         },
         {
           "t": "Королева!",
@@ -1771,7 +1771,7 @@
           "lemma": "вот",
           "pos": "part",
           "stress": null,
-          "gloss": "there (is)",
+          "gloss": "there, here",
           "gram": "pointing particle"
         },
         {
@@ -1786,8 +1786,8 @@
           "t": "твоё",
           "lemma": "твой",
           "pos": "det",
-          "stress": "твоё",
-          "gloss": "your",
+          "stress": null,
+          "gloss": "yours",
           "gram": "nominative singular, neuter"
         },
         {
@@ -1808,9 +1808,9 @@
           "t": "Ваня,",
           "lemma": "ваня",
           "pos": "name",
-          "stress": "Ва́ня",
+          "stress": null,
           "gloss": "Vanya (Ivan)",
-          "gram": "short form of Иван, used as address"
+          "gram": "name, used as address"
         },
         {
           "t": "вода!",
@@ -1846,9 +1846,9 @@
           "t": "Ваня,",
           "lemma": "ваня",
           "pos": "name",
-          "stress": "Ва́ня",
+          "stress": null,
           "gloss": "Vanya (Ivan)",
-          "gram": "short form of Иван, used as address"
+          "gram": "name, used as address"
         },
         {
           "t": "я",
@@ -1863,7 +1863,7 @@
           "lemma": "просить",
           "pos": "verb",
           "stress": "прошу́",
-          "gloss": "am begging",
+          "gloss": "beg, ask",
           "gram": "present, 1st person singular, imperfective"
         },
         {
@@ -1872,7 +1872,7 @@
           "pos": "pron",
           "stress": "тебя́",
           "gloss": "you",
-          "gram": "2nd person singular, accusative"
+          "gram": "2nd person singular, genitive"
         }
       ]
     },
@@ -1886,14 +1886,14 @@
           "pos": "pron",
           "stress": "э́то",
           "gloss": "this",
-          "gram": "demonstrative pronoun, unchanging"
+          "gram": "demonstrative pronoun, nominative"
         },
         {
           "t": "же",
           "lemma": "же",
           "pos": "part",
           "stress": null,
-          "gloss": "after all",
+          "gloss": "but, after all",
           "gram": "emphatic particle"
         },
         {
@@ -1909,16 +1909,16 @@
           "lemma": "туалет",
           "pos": "noun",
           "stress": "туале́т",
-          "gloss": "toilet, bathroom",
-          "gram": "nominative singular, masculine"
+          "gloss": "toilet",
+          "gram": "accusative singular, masculine"
         },
         {
           "t": "Ваня!",
           "lemma": "ваня",
           "pos": "name",
-          "stress": "Ва́ня",
+          "stress": null,
           "gloss": "Vanya (Ivan)",
-          "gram": "short form of Иван, used as address"
+          "gram": "name, used as address"
         }
       ]
     },
@@ -1929,26 +1929,26 @@
         {
           "t": "Ну",
           "lemma": "ну",
-          "pos": "interj",
+          "pos": "part",
           "stress": null,
-          "gloss": "well, right",
-          "gram": "interjection"
+          "gloss": "oh, come on",
+          "gram": "particle of impatience"
         },
         {
           "t": "всё.",
           "lemma": "весь",
           "pos": "det",
           "stress": null,
-          "gloss": "that's it",
-          "gram": "neuter singular, used alone = that's all"
+          "gloss": "everything",
+          "gram": "nominative neuter singular, used as a noun"
         },
         {
           "t": "Пока!",
           "lemma": "пока",
-          "pos": "interj",
+          "pos": "adv",
           "stress": "пока́",
-          "gloss": "bye",
-          "gram": "informal goodbye"
+          "gloss": "bye!",
+          "gram": "informal farewell interjection"
         }
       ]
     }
@@ -1958,31 +1958,31 @@
       "lemma": "а",
       "stress": "а",
       "pos": "conj",
-      "gloss": "and; but",
+      "gloss": "and, but; so",
       "meanings": [
         {
           "en": "and, while",
-          "note": "Contrast. Core Russian conj meaning 'and; but' in everyday speech."
+          "note": "Contrast. Core Russian conj meaning 'and, but; so' in everyday speech."
         },
         {
-          "en": "but rather",
-          "note": "Не ..., а ... = not ..., but . Core Russian conj meaning 'and; but' in everyday speech."
+          "en": "so, and what about",
+          "note": "Starting a question: а жвачку?. Core Russian conj meaning 'and, but; so' in everyday speech."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Не местные, а московские.",
-          "trans": "Not local, but from Moscow."
-        },
-        {
-          "text": "А зачем?",
-          "trans": "And why?"
-        },
-        {
           "text": "А это тебе.",
           "trans": "And this is for you."
+        },
+        {
+          "text": "А где машинка?",
+          "trans": "And where's the toy car?"
+        },
+        {
+          "text": "Папа, а жвачку ты привёз?",
+          "trans": "Dad, did you bring any gum?"
         }
       ],
       "related": [
@@ -2000,31 +2000,31 @@
       "lemma": "больше",
       "stress": "бо́льше",
       "pos": "adv",
-      "gloss": "more; (with не) no longer, no more",
+      "gloss": "more",
       "meanings": [
         {
           "en": "more",
-          "note": "больше ничего нет = there's nothing left"
+          "note": "Comparative of много. Core Russian adv meaning 'more' in everyday speech."
         },
         {
-          "en": "no longer, nothing left",
-          "note": "больше ничего нет = there's nothing left"
+          "en": "bigger",
+          "note": "Comparative of большой. Core Russian adv meaning 'more' in everyday speech."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "У меня больше ничего нет.",
-          "trans": "I have nothing left."
-        },
-        {
-          "text": "Я больше не буду.",
-          "trans": "I won't do it again."
-        },
-        {
           "text": "Надо сделать ещё больше.",
           "trans": "We need to do even more."
+        },
+        {
+          "text": "Мне больше не надо.",
+          "trans": "I don't need any more."
+        },
+        {
+          "text": "Мы сделали много, но надо сделать ещё больше.",
+          "trans": "We've done a lot, but we need to do even more."
         }
       ],
       "related": [
@@ -2046,21 +2046,21 @@
       "lemma": "быть",
       "stress": "быть",
       "pos": "verb",
+      "gloss": "to be; there is",
       "aspect": "impf",
       "pair": null,
-      "gloss": "to be",
       "meanings": [
         {
           "en": "to be",
-          "note": "present 'is/are' is normally left out"
+          "note": "the present tense is normally left out: я мэр = I am the mayor"
         },
         {
-          "en": "there is (есть)",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to be'."
+          "en": "there is, there are",
+          "note": "Present есть; у меня есть = I have. Used as an imperfective (ongoing/repeated action) verb meaning 'to be; there is'."
         },
         {
-          "en": "will (future helper: буду + infinitive)",
-          "note": "Будешь чинить = You'll fix. Used as an imperfective (ongoing/repeated action) verb meaning 'to be'."
+          "en": "will (with an imperfective infinitive)",
+          "note": "future: буду / будешь ... + infinitive"
         }
       ],
       "forms": {
@@ -2074,15 +2074,15 @@
           {
             "cells": [
               "1st",
-              "—",
-              "—"
+              "есть",
+              "есть"
             ]
           },
           {
             "cells": [
               "2nd",
-              "—",
-              "—"
+              "есть",
+              "есть"
             ]
           },
           {
@@ -2167,16 +2167,16 @@
       ],
       "examples": [
         {
-          "text": "Это были не местные.",
-          "trans": "They weren't locals."
-        },
-        {
-          "text": "Лидер должен быть жёстким.",
-          "trans": "A leader has to be tough."
-        },
-        {
           "text": "У меня есть машинка.",
           "trans": "I have a toy car."
+        },
+        {
+          "text": "Детство было трудное.",
+          "trans": "Childhood was hard."
+        },
+        {
+          "text": "Ты будешь просить прощения.",
+          "trans": "You will be asking for forgiveness."
         }
       ],
       "related": [
@@ -2239,16 +2239,16 @@
           "note": "The neuter form 'всё' used alone. Core Russian det meaning 'all, whole; everyone, everything' in everyday speech."
         },
         {
-          "en": "все = everyone",
-          "note": "Plural used alone. Core Russian det meaning 'all, whole; everyone, everything' in everyday speech."
+          "en": "everything",
+          "note": "Neuter всё. Core Russian det meaning 'all, whole; everyone, everything' in everyday speech."
         },
         {
-          "en": "всё = everything; that's it",
-          "note": "Neuter used alone. Core Russian det meaning 'all, whole; everyone, everything' in everyday speech."
+          "en": "everyone",
+          "note": "Plural все. Core Russian det meaning 'all, whole; everyone, everything' in everyday speech."
         }
       ],
       "forms": {
-        "title": "Declension",
+        "title": "Forms",
         "columns": [
           "",
           "m",
@@ -2316,16 +2316,16 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Все деньги у жены.",
-          "trans": "All the money is with the wife."
+          "text": "Всё нормально.",
+          "trans": "Everything's fine."
         },
         {
-          "text": "Всё, пока!",
-          "trans": "That's it, bye!"
+          "text": "Как вы все знаете...",
+          "trans": "As you all know..."
         },
         {
-          "text": "Все в городе хотят кластер.",
-          "trans": "Everyone in town wants the cluster."
+          "text": "Поделись со всеми.",
+          "trans": "Share with everyone."
         }
       ],
       "related": [
@@ -2347,17 +2347,17 @@
       "lemma": "взять",
       "stress": "взять",
       "pos": "verb",
+      "gloss": "to take",
       "aspect": "pf",
       "pair": "брать",
-      "gloss": "to take; to get",
       "meanings": [
         {
           "en": "to take",
           "note": "'взять на работу' = to give someone a job"
         },
         {
-          "en": "to get (from somewhere)",
-          "note": "Где я возьму...? = Where am I to get...?"
+          "en": "to hire",
+          "note": "'взять на работу' = to give someone a job"
         }
       ],
       "forms": {
@@ -2433,16 +2433,16 @@
       ],
       "examples": [
         {
-          "text": "Где я возьму деньги?",
-          "trans": "Where am I going to get the money?"
-        },
-        {
-          "text": "Возьми ключи.",
-          "trans": "Take the keys."
-        },
-        {
           "text": "Возьмите на работу Галилея.",
           "trans": "Go and hire Galileo."
+        },
+        {
+          "text": "Возьми деньги.",
+          "trans": "Take the money."
+        },
+        {
+          "text": "Вот и возьмите на работу Галилея.",
+          "trans": "Then go and hire Galileo."
         }
       ],
       "related": [
@@ -2464,8 +2464,8 @@
       "lemma": "вода",
       "stress": "вода́",
       "pos": "noun",
-      "gender": "f",
       "gloss": "water",
+      "gender": "f",
       "meanings": [
         {
           "en": "water",
@@ -2550,27 +2550,31 @@
       "lemma": "вот",
       "stress": "вот",
       "pos": "part",
-      "gloss": "here is, there is",
+      "gloss": "here, there (pointing)",
       "meanings": [
         {
-          "en": "here (it) is, there (it) is",
-          "note": "Pointing. Core Russian part meaning 'here is, there is' in everyday speech."
+          "en": "here is, there is",
+          "note": "Pointing at something. Core Russian part meaning 'here, there (pointing)' in everyday speech."
+        },
+        {
+          "en": "вот увидишь! = you'll see!",
+          "note": "Emphasis. Core Russian part meaning 'here, there (pointing)' in everyday speech."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Вот оно!",
-          "trans": "There it is!"
-        },
-        {
-          "text": "Вот мой список.",
-          "trans": "Here is my list."
-        },
-        {
           "text": "Вот, смотри.",
           "trans": "There, look."
+        },
+        {
+          "text": "Вот моя машинка.",
+          "trans": "Here's my toy car."
+        },
+        {
+          "text": "Ладно, держи. Вот, смотри.",
+          "trans": "All right, here you go. There, look."
         }
       ],
       "related": [
@@ -2599,16 +2603,16 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Где наша машина?",
-          "trans": "Where is our car?"
-        },
-        {
-          "text": "Где ты?",
-          "trans": "Where are you?"
-        },
-        {
           "text": "Где моя машинка?",
           "trans": "Where's my toy car?"
+        },
+        {
+          "text": "Где папа?",
+          "trans": "Where's Dad?"
+        },
+        {
+          "text": "А где машинка? Где моя машинка?",
+          "trans": "Hey, where's the toy car? Where's my toy car?"
         }
       ],
       "related": [
@@ -2622,21 +2626,17 @@
       "lemma": "говорить",
       "stress": "говори́ть",
       "pos": "verb",
+      "gloss": "to speak, to say, to talk",
       "aspect": "impf",
       "pair": "сказать",
-      "gloss": "to speak, to say, to tell",
       "meanings": [
         {
-          "en": "to speak, to talk",
-          "note": "Я тебе говорю = I'm telling you. Used as an imperfective (ongoing/repeated action) verb meaning 'to speak, to say, to tell', paired with 'сказать'."
-        },
-        {
           "en": "to say, to tell",
-          "note": "Я тебе говорю = I'm telling you. Used as an imperfective (ongoing/repeated action) verb meaning 'to speak, to say, to tell', paired with 'сказать'."
+          "note": "Я тебе говорю = I'm telling you. Used as an imperfective (ongoing/repeated action) verb meaning 'to speak, to say, to talk', paired with 'сказать'."
         },
         {
-          "en": "Кто бы говорил = Look who's talking",
-          "note": "Idiom. Used as an imperfective (ongoing/repeated action) verb meaning 'to speak, to say, to tell', paired with 'сказать'."
+          "en": "to speak, to talk",
+          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to speak, to say, to talk', paired with 'сказать'."
         }
       ],
       "forms": {
@@ -2712,16 +2712,16 @@
       ],
       "examples": [
         {
-          "text": "Я тебе говорю: денег нет.",
-          "trans": "I'm telling you: there's no money."
-        },
-        {
-          "text": "Ты говоришь по-русски?",
-          "trans": "Do you speak Russian?"
-        },
-        {
           "text": "Это то, что ты говорил.",
           "trans": "That's what you said."
+        },
+        {
+          "text": "Я говорю по-русски.",
+          "trans": "I speak Russian."
+        },
+        {
+          "text": "Ну, то, что ты говорил.",
+          "trans": "Well, the thing you said."
         }
       ],
       "related": [
@@ -2782,10 +2782,12 @@
       "stress": "де́ньги",
       "pos": "noun",
       "gloss": "money",
+      "gender": "f",
+      "number": "pl",
       "meanings": [
         {
           "en": "money",
-          "note": "plural only: деньги нужны, денег нет"
+          "note": "plural only: there is no singular in everyday use"
         }
       ],
       "forms": {
@@ -2847,15 +2849,14 @@
           "trans": "I have no money."
         },
         {
-          "text": "Где деньги?",
-          "trans": "Where is the money?"
-        },
-        {
           "text": "Деньги на столе.",
           "trans": "The money is on the table."
+        },
+        {
+          "text": "Жвачку? Денег не хватило.",
+          "trans": "Gum? I didn't have enough money."
         }
       ],
-      "number": "pl",
       "related": [
         {
           "word": "день",
@@ -2867,17 +2868,21 @@
       "lemma": "держать",
       "stress": "держа́ть",
       "pos": "verb",
+      "gloss": "to hold",
       "aspect": "impf",
       "pair": null,
-      "gloss": "to hold",
       "meanings": [
         {
           "en": "to hold, to keep",
           "note": "imperative держи! when handing something over"
         },
         {
-          "en": "Держи! = Here, take it!",
-          "note": "When handing something over. Used as an imperfective (ongoing/repeated action) verb meaning 'to hold'."
+          "en": "here you are!",
+          "note": "imperative держи! when handing something over"
+        },
+        {
+          "en": "catch!, grab (him)!",
+          "note": "Держи его!. Used as an imperfective (ongoing/repeated action) verb meaning 'to hold'."
         }
       ],
       "forms": {
@@ -2954,15 +2959,15 @@
       "examples": [
         {
           "text": "Держи, это тебе.",
-          "trans": "Here, this is for you."
-        },
-        {
-          "text": "Он держит дверь.",
-          "trans": "He is holding the door."
+          "trans": "Here you go, this is for you."
         },
         {
           "text": "Держи его!",
           "trans": "Grab him!"
+        },
+        {
+          "text": "Ладно, держи. Вот, смотри.",
+          "trans": "All right, here you go. There, look."
         }
       ],
       "related": [
@@ -2984,27 +2989,27 @@
       "lemma": "же",
       "stress": "же",
       "pos": "part",
-      "gloss": "after all, really (emphasis)",
+      "gloss": "but, after all (emphasis)",
       "meanings": [
         {
-          "en": "after all, you know",
-          "note": "Emphasises the word before it. Core Russian part meaning 'after all, really (emphasis)' in everyday speech."
+          "en": "but, after all",
+          "note": "adds emphasis to the word before it"
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Это же общий туалет!",
-          "trans": "This is a shared toilet, after all!"
-        },
-        {
-          "text": "Ты же знаешь.",
-          "trans": "You know that."
-        },
-        {
           "text": "У тебя же есть ещё.",
           "trans": "But you've still got some."
+        },
+        {
+          "text": "Я же знаю.",
+          "trans": "But I know."
+        },
+        {
+          "text": "У тебя же есть ещё. Дай хоть одну.",
+          "trans": "But you've still got some. Give me just one."
         }
       ],
       "related": [
@@ -3022,12 +3027,12 @@
       "lemma": "захотеть",
       "stress": "захоте́ть",
       "pos": "verb",
+      "gloss": "to want (to come to want)",
       "aspect": "pf",
       "pair": "хотеть",
-      "gloss": "to want (suddenly), to feel like",
       "meanings": [
         {
-          "en": "to come to want, to feel like",
+          "en": "to want",
           "note": "'всё, что захотите' = everything you (may) want"
         }
       ],
@@ -3087,16 +3092,16 @@
       ],
       "examples": [
         {
-          "text": "Спа захотела?",
-          "trans": "You wanted a spa?"
-        },
-        {
-          "text": "Он захотел пить.",
-          "trans": "He felt thirsty."
-        },
-        {
           "text": "У вас будет всё, что захотите.",
           "trans": "You'll have everything you want."
+        },
+        {
+          "text": "Если захочешь, позвони.",
+          "trans": "If you want, call me."
+        },
+        {
+          "text": "Всё, что захотим, говоришь?",
+          "trans": "Everything we want, you say?"
         }
       ],
       "related": [
@@ -3114,11 +3119,11 @@
       "lemma": "зачем",
       "stress": "заче́м",
       "pos": "adv",
-      "gloss": "why, what for",
+      "gloss": "what for, why",
       "meanings": [
         {
-          "en": "why, what for",
-          "note": "Asks about the purpose. Core Russian adv meaning 'why, what for' in everyday speech."
+          "en": "what for, why",
+          "note": "Asks about the purpose. Core Russian adv meaning 'what for, why' in everyday speech."
         }
       ],
       "forms": null,
@@ -3126,15 +3131,15 @@
       "examples": [
         {
           "text": "Зачем ты пришёл?",
-          "trans": "Why did you come?"
-        },
-        {
-          "text": "А зачем?",
-          "trans": "And what for?"
+          "trans": "What have you come for?"
         },
         {
           "text": "Зачем это?",
           "trans": "What's that for?"
+        },
+        {
+          "text": "О, Самсон. Зачем пришёл?",
+          "trans": "Oh, Samson. What have you come for?"
         }
       ],
       "related": [
@@ -3148,8 +3153,8 @@
       "lemma": "квартира",
       "stress": "кварти́ра",
       "pos": "noun",
-      "gender": "f",
       "gloss": "flat, apartment",
+      "gender": "f",
       "meanings": [
         {
           "en": "flat, apartment",
@@ -3211,16 +3216,16 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Я хочу квартиру.",
-          "trans": "I want a flat."
-        },
-        {
-          "text": "Это большая квартира.",
-          "trans": "It's a big flat."
-        },
-        {
           "text": "Это моя квартира.",
           "trans": "This is my flat."
+        },
+        {
+          "text": "Мы живём в квартире.",
+          "trans": "We live in a flat."
+        },
+        {
+          "text": "Помнишь туалет в коммунальной квартире?",
+          "trans": "Do you remember the toilet in the communal flat?"
         }
       ],
       "related": [
@@ -3238,8 +3243,8 @@
       "lemma": "королева",
       "stress": "короле́ва",
       "pos": "noun",
-      "gender": "f",
       "gloss": "queen",
+      "gender": "f",
       "meanings": [
         {
           "en": "queen",
@@ -3332,8 +3337,8 @@
       "lemma": "королевство",
       "stress": "короле́вство",
       "pos": "noun",
-      "gender": "n",
       "gloss": "kingdom",
+      "gender": "n",
       "meanings": [
         {
           "en": "kingdom",
@@ -3430,7 +3435,7 @@
         }
       ],
       "forms": {
-        "title": "Declension",
+        "title": "Forms",
         "columns": [
           "",
           "form"
@@ -3477,16 +3482,16 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Кто тебя обманул?",
-          "trans": "Who cheated you?"
-        },
-        {
-          "text": "Кто бы говорил.",
-          "trans": "Look who's talking."
-        },
-        {
           "text": "Кто ваши конкуренты?",
           "trans": "Who are your rivals?"
+        },
+        {
+          "text": "Кто там?",
+          "trans": "Who's there?"
+        },
+        {
+          "text": "Аркадий Борисович, кто ваши конкуренты?",
+          "trans": "Arkady Borisovich, who are your rivals?"
         }
       ],
       "related": [
@@ -3504,16 +3509,16 @@
       "lemma": "машина",
       "stress": "маши́на",
       "pos": "noun",
+      "gloss": "car; machine",
       "gender": "f",
-      "gloss": "car",
       "meanings": [
         {
           "en": "car",
-          "note": "Common feminine noun meaning 'car' in everyday Russian."
+          "note": "Common feminine noun meaning 'car; machine' in everyday Russian."
         },
         {
           "en": "machine",
-          "note": "Common feminine noun meaning 'car' in everyday Russian."
+          "note": "Common feminine noun meaning 'car; machine' in everyday Russian."
         }
       ],
       "forms": {
@@ -3571,16 +3576,16 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Где наша машина?",
-          "trans": "Where is our car?"
-        },
-        {
-          "text": "Это белая машина.",
-          "trans": "It's a white car."
-        },
-        {
           "text": "Это теперь наша машина?",
           "trans": "Is this our car now?"
+        },
+        {
+          "text": "На какой машине ты приехала?",
+          "trans": "Which car did you come in?"
+        },
+        {
+          "text": "Машина. Немецкая.",
+          "trans": "A car. A German one."
         }
       ],
       "related": [
@@ -3594,7 +3599,7 @@
       "lemma": "наш",
       "stress": "наш",
       "pos": "det",
-      "gloss": "our",
+      "gloss": "our, ours",
       "meanings": [
         {
           "en": "our, ours",
@@ -3602,7 +3607,7 @@
         }
       ],
       "forms": {
-        "title": "Declension",
+        "title": "Forms",
         "columns": [
           "",
           "m",
@@ -3670,16 +3675,16 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Где наша машина?",
-          "trans": "Where is our car?"
-        },
-        {
-          "text": "Это наш дом.",
-          "trans": "This is our house."
-        },
-        {
           "text": "Я люблю наш город.",
           "trans": "I love our town."
+        },
+        {
+          "text": "Это наша квартира.",
+          "trans": "This is our flat."
+        },
+        {
+          "text": "Я очень люблю наш город. Поэтому я иду на второй срок.",
+          "trans": "I love our town very much. That's why I'm running for a second term."
         }
       ],
       "related": [
@@ -3712,8 +3717,8 @@
           "trans": "I don't know."
         },
         {
-          "text": "Не трогай меня!",
-          "trans": "Don't touch me!"
+          "text": "Денег не хватило.",
+          "trans": "There wasn't enough money."
         },
         {
           "text": "Шеф, я не брала.",
@@ -3735,31 +3740,31 @@
       "lemma": "нет",
       "stress": "нет",
       "pos": "part",
-      "gloss": "no; there is no",
+      "gloss": "no; there isn't",
       "meanings": [
         {
           "en": "no",
           "note": "+ genitive: 'у нас нет выбора' = we have no choice"
         },
         {
-          "en": "there is no, there isn't",
-          "note": "+ genitive: денег нет. Core Russian part meaning 'no; there is no' in everyday speech."
+          "en": "there isn't",
+          "note": "+ genitive. Core Russian part meaning 'no; there isn't' in everyday speech."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Нет, Вика.",
-          "trans": "No, Vika."
-        },
-        {
-          "text": "У меня нет денег.",
-          "trans": "I have no money."
-        },
-        {
           "text": "Нет, это моё.",
           "trans": "No, it's mine."
+        },
+        {
+          "text": "Нет? Ладно.",
+          "trans": "No? All right."
+        },
+        {
+          "text": "Нет. Это моё.",
+          "trans": "No. That's mine."
         }
       ],
       "related": [
@@ -3781,11 +3786,11 @@
       "meanings": [
         {
           "en": "nothing",
-          "note": "usually in the genitive ничего, with не / нет"
+          "note": "usually in the genitive ничего, with не: ничего не осталось"
         }
       ],
       "forms": {
-        "title": "Declension",
+        "title": "Forms",
         "columns": [
           "",
           "form"
@@ -3832,16 +3837,16 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "У меня ничего нет.",
-          "trans": "I have nothing."
+          "text": "Ничего не осталось.",
+          "trans": "There's nothing left."
         },
         {
           "text": "Я ничего не знаю.",
           "trans": "I don't know anything."
         },
         {
-          "text": "Ничего не осталось.",
-          "trans": "There's nothing left."
+          "text": "Ну что, очкарик? Видишь, ничего не осталось.",
+          "trans": "Well, four-eyes? See, there's nothing left."
         }
       ],
       "related": [
@@ -3854,32 +3859,32 @@
     "ну": {
       "lemma": "ну",
       "stress": "ну",
-      "pos": "interj",
-      "gloss": "well",
+      "pos": "part",
+      "gloss": "well; come on",
       "meanings": [
         {
-          "en": "well, so",
-          "note": "Filler at the start of a sentence. Core Russian interj meaning 'well' in everyday speech."
+          "en": "well",
+          "note": "hesitation, at the start of a sentence"
         },
         {
-          "en": "Ну и что? = So what?",
-          "note": "Core Russian interj meaning 'well' in everyday speech."
+          "en": "oh come on!",
+          "note": "Ну, папа!. Core Russian part meaning 'well; come on' in everyday speech."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Ну и что?",
-          "trans": "So what?"
-        },
-        {
-          "text": "Ну, пока!",
-          "trans": "Well, bye!"
-        },
-        {
           "text": "Ну, папа!",
           "trans": "Oh, come on, Dad!"
+        },
+        {
+          "text": "Ну что?",
+          "trans": "Well?"
+        },
+        {
+          "text": "Ну что, очкарик? Видишь, ничего не осталось.",
+          "trans": "Well, four-eyes? See, there's nothing left."
         }
       ],
       "related": [
@@ -3897,13 +3902,13 @@
       "lemma": "обмануть",
       "stress": "обману́ть",
       "pos": "verb",
+      "gloss": "to cheat, to deceive",
       "aspect": "pf",
       "pair": "обманывать",
-      "gloss": "to deceive, to cheat",
       "meanings": [
         {
-          "en": "to deceive, to cheat",
-          "note": "Меня обманули = I've been cheated. Prefix 'об-' ('around, about') marks encirclement or comprehensive action (stem 'мануть'). Used as an perfective (single completed action) verb meaning 'to deceive, to cheat', paired with 'обманывать'."
+          "en": "to cheat, to deceive, to trick",
+          "note": "Меня обманули = I've been cheated. Prefix 'об-' ('around, about') marks encirclement or comprehensive action (stem 'мануть'). Used as an perfective (single completed action) verb meaning 'to cheat, to deceive', paired with 'обманывать'."
         }
       ],
       "forms": {
@@ -3979,16 +3984,16 @@
       ],
       "examples": [
         {
-          "text": "Он нас обманул.",
-          "trans": "He cheated us."
-        },
-        {
-          "text": "Не обмани меня.",
-          "trans": "Don't deceive me."
-        },
-        {
           "text": "Обманешь — будут проблемы.",
           "trans": "If you cheat us, there'll be trouble."
+        },
+        {
+          "text": "Он меня обманул.",
+          "trans": "He tricked me."
+        },
+        {
+          "text": "Слушай, обманешь — будут проблемы. Понял?",
+          "trans": "Listen, if you cheat us, there'll be trouble. Got it?"
         }
       ],
       "related": [
@@ -4109,7 +4114,7 @@
         }
       ],
       "forms": {
-        "title": "Declension",
+        "title": "Forms",
         "columns": [
           "",
           "form"
@@ -4182,7 +4187,7 @@
     "пока": {
       "lemma": "пока",
       "stress": "пока́",
-      "pos": "interj",
+      "pos": "adv",
       "gloss": "bye",
       "meanings": [
         {
@@ -4190,8 +4195,8 @@
           "note": "Informal. Core Russian interj meaning 'bye' in everyday speech."
         },
         {
-          "en": "for now; while",
-          "note": "Adverb / conjunction. Core Russian interj meaning 'bye' in everyday speech."
+          "en": "while, for now",
+          "note": "As an adverb. Core Russian interj meaning 'bye' in everyday speech."
         }
       ],
       "forms": null,
@@ -4202,12 +4207,12 @@
           "trans": "Bye!"
         },
         {
-          "text": "Ну всё, пока!",
-          "trans": "Right, that's it, bye!"
-        },
-        {
           "text": "Пока, папа!",
           "trans": "Bye, Dad!"
+        },
+        {
+          "text": "Пока, милый!",
+          "trans": "Bye, darling!"
         }
       ],
       "related": [
@@ -4221,9 +4226,9 @@
       "lemma": "просить",
       "stress": "проси́ть",
       "pos": "verb",
+      "gloss": "to ask (for)",
       "aspect": "impf",
       "pair": "попросить",
-      "gloss": "to ask (for), to beg",
       "meanings": [
         {
           "en": "to ask for, to request",
@@ -4231,7 +4236,7 @@
         },
         {
           "en": "to beg",
-          "note": "Я прошу тебя! = I'm begging you!. Prefix 'про-' indicates movement through, completion, or missing the mark (stem 'сить'). Used as an imperfective (ongoing/repeated action) verb meaning 'to ask (for), to beg', paired with 'попросить'."
+          "note": "Prefix 'про-' indicates movement through, completion, or missing the mark (stem 'сить'). Used as an imperfective (ongoing/repeated action) verb meaning 'to ask (for)', paired with 'попросить'."
         }
       ],
       "forms": {
@@ -4307,16 +4312,16 @@
       ],
       "examples": [
         {
-          "text": "Я прошу тебя!",
-          "trans": "I'm begging you!"
+          "text": "Я прошу прощения.",
+          "trans": "I apologise."
         },
         {
           "text": "Он просит помощи.",
-          "trans": "He is asking for help."
+          "trans": "He's asking for help."
         },
         {
-          "text": "Я прошу прощения.",
-          "trans": "I apologise."
+          "text": "Когда вырасту, ты будешь просить у меня прощения!",
+          "trans": "When I grow up, you'll be begging me to forgive you!"
         }
       ],
       "related": [
@@ -4330,17 +4335,17 @@
       "lemma": "смотреть",
       "stress": "смотре́ть",
       "pos": "verb",
+      "gloss": "to look, to watch",
       "aspect": "impf",
       "pair": "посмотреть",
-      "gloss": "to look, to watch",
       "meanings": [
         {
-          "en": "to look, to stare",
+          "en": "to look (at)",
           "note": "Смотреть на + accusative. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'мотреть'). Used as an imperfective (ongoing/repeated action) verb meaning 'to look, to watch', paired with 'посмотреть'."
         },
         {
           "en": "to watch",
-          "note": "Смотреть телевизор. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'мотреть'). Used as an imperfective (ongoing/repeated action) verb meaning 'to look, to watch', paired with 'посмотреть'."
+          "note": "TV, a film. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'мотреть'). Used as an imperfective (ongoing/repeated action) verb meaning 'to look, to watch', paired with 'посмотреть'."
         }
       ],
       "forms": {
@@ -4416,16 +4421,16 @@
       ],
       "examples": [
         {
-          "text": "Чего ты смотришь?",
-          "trans": "What are you staring at?"
-        },
-        {
-          "text": "Мы смотрим кино.",
-          "trans": "We're watching a film."
-        },
-        {
           "text": "Смотри, что у меня есть.",
           "trans": "Look what I've got."
+        },
+        {
+          "text": "Я смотрю телевизор.",
+          "trans": "I'm watching TV."
+        },
+        {
+          "text": "Привет! Смотри, что у меня есть.",
+          "trans": "Hi! Look what I've got."
         }
       ],
       "related": [
@@ -4439,8 +4444,8 @@
       "lemma": "спа",
       "stress": "спа",
       "pos": "noun",
-      "gender": "n",
       "gloss": "spa",
+      "gender": "n",
       "meanings": [
         {
           "en": "spa",
@@ -4502,16 +4507,16 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Нина хочет в спа.",
-          "trans": "Nina wants to go to a spa."
-        },
-        {
-          "text": "Это хороший спа.",
-          "trans": "It's a good spa."
-        },
-        {
           "text": "Или ещё лучше: спа!",
           "trans": "Or even better: a spa!"
+        },
+        {
+          "text": "Я хочу в спа.",
+          "trans": "I want to go to a spa."
+        },
+        {
+          "text": "Спа. Давайте!",
+          "trans": "A spa. Let's do it!"
         }
       ],
       "related": [
@@ -4525,8 +4530,8 @@
       "lemma": "список",
       "stress": "спи́сок",
       "pos": "noun",
-      "gender": "m",
       "gloss": "list",
+      "gender": "m",
       "meanings": [
         {
           "en": "list",
@@ -4615,11 +4620,11 @@
       "meanings": [
         {
           "en": "your, yours",
-          "note": "To one person you call ты. Core Russian det meaning 'your (informal)' in everyday speech."
+          "note": "To someone you call ты. Core Russian det meaning 'your (informal)' in everyday speech."
         }
       ],
       "forms": {
-        "title": "Declension",
+        "title": "Forms",
         "columns": [
           "",
           "m",
@@ -4687,16 +4692,16 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Это твои деньги.",
-          "trans": "This is your money."
-        },
-        {
-          "text": "Вот оно, твоё королевство!",
-          "trans": "There it is, your kingdom!"
-        },
-        {
           "text": "Это твой кофе.",
           "trans": "This is your coffee."
+        },
+        {
+          "text": "Я бы на твоём месте подумал.",
+          "trans": "If I were you, I'd think about it."
+        },
+        {
+          "text": "Твой начальник здесь.",
+          "trans": "Your boss is here."
         }
       ],
       "related": [
@@ -4714,8 +4719,8 @@
       "lemma": "труба",
       "stress": "труба́",
       "pos": "noun",
-      "gender": "f",
       "gloss": "pipe",
+      "gender": "f",
       "meanings": [
         {
           "en": "pipe",
@@ -4785,12 +4790,12 @@
           "trans": "The pipe is leaking."
         },
         {
-          "text": "Он чинит трубу.",
-          "trans": "He is fixing the pipe."
-        },
-        {
           "text": "Новая труба.",
           "trans": "A new pipe."
+        },
+        {
+          "text": "Меня уже тошнит от этой коммуналки! У нас труба уже неделю течёт.",
+          "trans": "I'm sick of this communal flat! Our pipe has been leaking for a week now."
         }
       ],
       "related": [
@@ -4812,12 +4817,12 @@
       "lemma": "туалет",
       "stress": "туале́т",
       "pos": "noun",
+      "gloss": "toilet",
       "gender": "m",
-      "gloss": "toilet, bathroom",
       "meanings": [
         {
-          "en": "toilet; the room with the toilet",
-          "note": "общий туалет = shared toilet in a communal flat"
+          "en": "toilet",
+          "note": "The room or the bowl. Common masculine noun meaning 'toilet' in everyday Russian."
         }
       ],
       "forms": {
@@ -4876,15 +4881,15 @@
       "examples": [
         {
           "text": "Где туалет?",
-          "trans": "Where is the toilet?"
-        },
-        {
-          "text": "Это общий туалет.",
-          "trans": "It's a shared toilet."
+          "trans": "Where's the toilet?"
         },
         {
           "text": "Туалет в коридоре.",
           "trans": "The toilet is in the corridor."
+        },
+        {
+          "text": "Помнишь туалет в коммунальной квартире?",
+          "trans": "Do you remember the toilet in the communal flat?"
         }
       ],
       "related": [
@@ -4902,11 +4907,15 @@
       "meanings": [
         {
           "en": "you",
-          "note": "to one person: family, friends, children"
+          "note": "One person, informal. Core Russian pron meaning 'you (informal)' in everyday speech."
+        },
+        {
+          "en": "other forms: тебя (gen/acc), тебе (dat), тобой (instr), тебе (prep)",
+          "note": "Case forms. Core Russian pron meaning 'you (informal)' in everyday speech."
         }
       ],
       "forms": {
-        "title": "Declension",
+        "title": "Forms",
         "columns": [
           "",
           "form"
@@ -4953,16 +4962,16 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Ты знаешь?",
-          "trans": "Do you know?"
-        },
-        {
-          "text": "Я прошу тебя.",
-          "trans": "I'm begging you."
-        },
-        {
           "text": "Ты жадина!",
           "trans": "You're greedy!"
+        },
+        {
+          "text": "У тебя есть ещё?",
+          "trans": "Have you got any more?"
+        },
+        {
+          "text": "Папа, а жвачку ты привёз?",
+          "trans": "Dad, did you bring any gum?"
         }
       ],
       "related": [
@@ -4980,34 +4989,38 @@
       "lemma": "у",
       "stress": "у",
       "pos": "prep",
-      "gloss": "at, by; (у меня = I have)",
+      "gloss": "at, by; (у меня) I have",
+      "governs": "+ genitive",
       "meanings": [
         {
           "en": "at, by, near",
-          "note": "+ genitive. Core Russian prep meaning 'at, by; (у меня = I have)' in everyday speech."
+          "note": "+ genitive. Core Russian prep meaning 'at, by; (у меня) I have' in everyday speech."
         },
         {
-          "en": "у меня (есть) = I have",
-          "note": "Possession: 'at me there is'. Core Russian prep meaning 'at, by; (у меня = I have)' in everyday speech."
+          "en": "у меня есть = I have",
+          "note": "Possession. Core Russian prep meaning 'at, by; (у меня) I have' in everyday speech."
+        },
+        {
+          "en": "from (ask from someone)",
+          "note": "Просить у кого. Core Russian prep meaning 'at, by; (у меня) I have' in everyday speech."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "У меня есть машина.",
-          "trans": "I have a car."
-        },
-        {
-          "text": "Деньги у жены.",
-          "trans": "The money is with the wife."
-        },
-        {
           "text": "У меня есть машинка.",
           "trans": "I have a toy car."
+        },
+        {
+          "text": "Он у нас.",
+          "trans": "He's at our place."
+        },
+        {
+          "text": "Привет! Смотри, что у меня есть.",
+          "trans": "Hi! Look what I've got."
         }
       ],
-      "governs": "+ genitive",
       "related": [
         {
           "word": "около",
@@ -5027,10 +5040,75 @@
       "meanings": [
         {
           "en": "worse",
-          "note": "Comparative of плохо / плохой. Core Russian adv meaning 'worse' in everyday speech."
+          "note": "Agrees in gender, number, and case with the noun it modifies ('worse')."
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "m",
+          "f",
+          "n",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "хуже",
+              "хуже",
+              "хуже",
+              "хуже"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "хуже",
+              "хуже",
+              "хуже",
+              "хуже"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "хуже",
+              "хуже",
+              "хуже",
+              "хуже"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "хуже",
+              "хуже",
+              "хуже",
+              "хуже"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "хуже",
+              "хуже",
+              "хуже",
+              "хуже"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "хуже",
+              "хуже",
+              "хуже",
+              "хуже"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -5061,9 +5139,9 @@
       "lemma": "чинить",
       "stress": "чини́ть",
       "pos": "verb",
+      "gloss": "to fix, to repair",
       "aspect": "impf",
       "pair": "починить",
-      "gloss": "to fix, to repair",
       "meanings": [
         {
           "en": "to fix, to repair",
@@ -5143,16 +5221,16 @@
       ],
       "examples": [
         {
-          "text": "Он чинит трубу.",
-          "trans": "He is fixing the pipe."
-        },
-        {
-          "text": "Я не буду чинить.",
-          "trans": "I'm not going to fix it."
-        },
-        {
           "text": "Сейчас будешь чинить трубу.",
           "trans": "Now you're going to fix the pipe."
+        },
+        {
+          "text": "Он чинит машину.",
+          "trans": "He's repairing the car."
+        },
+        {
+          "text": "Сейчас будешь чинить трубу. И унитаз не забудь помыть.",
+          "trans": "Now you're going to fix the pipe. And don't forget to wash the toilet."
         }
       ],
       "related": [
@@ -5170,15 +5248,19 @@
       "meanings": [
         {
           "en": "what",
-          "note": "Colloquial чего? = what?. Core Russian pron meaning 'what' in everyday speech."
+          "note": "Question word. Core Russian pron meaning 'what' in everyday speech."
         },
         {
-          "en": "that (conjunction)",
+          "en": "that",
+          "note": "Conjunction. Core Russian pron meaning 'what' in everyday speech."
+        },
+        {
+          "en": "ну что? = well?",
           "note": "Core Russian pron meaning 'what' in everyday speech."
         }
       ],
       "forms": {
-        "title": "Declension",
+        "title": "Forms",
         "columns": [
           "",
           "form"
@@ -5225,16 +5307,16 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Что? Как ты можешь?",
-          "trans": "What? How can you?"
-        },
-        {
-          "text": "Чего ты смотришь?",
-          "trans": "What are you staring at?"
-        },
-        {
           "text": "Что это?",
           "trans": "What's this?"
+        },
+        {
+          "text": "Смотри, что у меня есть.",
+          "trans": "Look what I've got."
+        },
+        {
+          "text": "Привет! Смотри, что у меня есть.",
+          "trans": "Hi! Look what I've got."
         }
       ],
       "related": [
@@ -5256,15 +5338,27 @@
       "lemma": "это",
       "stress": "э́то",
       "pos": "pron",
-      "gloss": "this, that, it",
+      "gloss": "this, that; it is",
       "meanings": [
         {
-          "en": "this is, that is, it is",
-          "note": "Pointing word, never changes here. Core Russian pron meaning 'this, that, it' in everyday speech."
+          "en": "this, that",
+          "note": "pointing at a thing or a situation; 'это' + noun = 'this is ...'"
+        },
+        {
+          "en": "this is, that is",
+          "note": "points at something: это моё = that's mine"
+        },
+        {
+          "en": "is",
+          "note": "Linking word: главное — это народ. Core Russian pron meaning 'this, that; it is' in everyday speech."
+        },
+        {
+          "en": "other forms: этого, этому, это, этим, этом",
+          "note": "Case forms. Core Russian pron meaning 'this, that; it is' in everyday speech."
         }
       ],
       "forms": {
-        "title": "Declension",
+        "title": "Forms",
         "columns": [
           "",
           "form"
@@ -5311,16 +5405,16 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Это моя жена.",
-          "trans": "This is my wife."
-        },
-        {
-          "text": "Это очень важно.",
-          "trans": "It's very important."
-        },
-        {
           "text": "Это моё.",
           "trans": "That's mine."
+        },
+        {
+          "text": "А это тебе.",
+          "trans": "And this is for you."
+        },
+        {
+          "text": "А это тебе. Машинка!",
+          "trans": "And this is for you. A toy car!"
         }
       ],
       "related": [
@@ -5339,10 +5433,14 @@
         {
           "en": "I",
           "note": "меня = me (genitive/accusative), мне = to me (dative)"
+        },
+        {
+          "en": "other forms: меня (gen/acc), мне (dat), мной (instr), мне (prep)",
+          "note": "Case forms. Core Russian pron meaning 'I' in everyday speech."
         }
       ],
       "forms": {
-        "title": "Declension",
+        "title": "Forms",
         "columns": [
           "",
           "form"
@@ -5389,12 +5487,12 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Я тебя слушаю.",
-          "trans": "I'm listening to you."
+          "text": "Я учу уроки.",
+          "trans": "I'm doing my homework."
         },
         {
-          "text": "У меня нет денег.",
-          "trans": "I have no money."
+          "text": "Я вырос здесь.",
+          "trans": "I grew up here."
         },
         {
           "text": "Шеф, я не брала.",

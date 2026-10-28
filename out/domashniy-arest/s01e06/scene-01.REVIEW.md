@@ -4,7 +4,7 @@ Title: Искусство войны  (The Art of War)
 Level: A1 — Duolingo Section 2
 Pair: ru-en
 Source: Домашний арест (Domashniy Arest) S1.06
-Cues 1-50. Crude words in cues 1-2 ('шлюх'), 31 ('твари' -> 'злодеи'), and 35 ('секс приснился' -> 'такой сон прервал') are omitted or cleaned up. Marina's brief inspector dream cameo (12-19) and the English song in the dream (20-28) are narrated in the walkthrough, and the opening credits song (44-50) is left out. Garbled 'Рейх' (29), 'Маккавелли' (30), and 'Искусство военной сунь зей' (39) are restored to 'Аркаша', 'Макиавелли', and '«Искусство войны», Сунь-цзы'.
+
 
 Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
@@ -29,20 +29,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Lyolechka, why did you come?' Arkady uses an affectionate diminutive of Lyolya's name.
-- 'Because I missed you, kitty!' The reflexive verb for 'missed' is past feminine singular, and she calls Arkady her tomcat.
+- 'Because I missed you, kitty!' The self-action verb form for 'missed' is past feminine singular, and she calls Arkady her tomcat.
 - 'Do you think I didn't miss you?' Arkady answers with the masculine past tense of the same verb.
 - 'I'm already climbing the wall!' Climbing onto the wall is the classic Russian idiom for going crazy from boredom or impatience.
 - 'But I have a lot of work. So go on home.' Notice that 'home' as a direction is a special adverb.
 - 'What, did I come for nothing?' The short adverb means 'in vain' or 'for nothing'.
-- 'I put on a bunny costume!' Literally 'costume of a little hare', with 'bunny' in the genitive case.
+- 'I put on a bunny costume!' Literally 'costume of a little hare', with 'bunny' in the 'of' form.
 - 'That is a forbidden move!' It is a sports term for an illegal hold or foul play. In his dream, neighbour Marina suddenly bursts in dressed as a strict police inspector while Pasha's assistant sings on stage, until someone shakes Arkady's shoulder in real life.
 - 'Arkasha, you said so yourself! So that my diction would be normal!' Samson is standing over Arkady's bed at dawn, wide awake.
 - 'I read Machiavelli, that book The Prince.' Arkady had given him the classic book on political power to practise reading aloud.
 - 'Well, they are all villains in there, of course!' Samson is shocked by how ruthless politicians are.
 - 'But the book is interesting.' He uses the friendly diminutive word for a book.
-- 'What else should I read here?' An infinitive question asking what he ought to read next.
+- 'What else should I read here?' An action verb question asking what he ought to read next.
 - 'Just one more second! You interrupted such a dream of mine!' Literally 'to me you interrupted such a dream'.
 - 'Go on, come by later! Later!' Arkady pulls the blanket over his head, but Samson won't budge.
-- 'Arkasha, you said so yourself! There is no time at all!' With 'there is no', the noun 'time' takes the genitive singular.
-- 'Read The Art of War, by Sun Tzu!' Literally 'Art of war', with 'war' in the genitive singular. Samson blinks at the unfamiliar Chinese name.
+- 'Arkasha, you said so yourself! There is no time at all!' With 'there is no', the noun 'time' takes the 'of'-form singular.
+- 'Read The Art of War, by Sun Tzu!' Literally 'Art of war', with 'war' in the 'of' form singular. Samson blinks at the unfamiliar Chinese name.
 - 'Sun what? What are you dreaming about in there?' Literally 'what dreams itself to you there?'

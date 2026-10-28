@@ -28,12 +28,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'A whole hour has passed already!' Lyosha taps his crutches impatiently. Notice the past tense verb with the masculine noun.
 - 'So what? This is complex work.' Arkady looks up defensively from the workbench with his plaster casts.
 - 'You are taking very long to fix my tank.' Notice the polite plural verb form used by the boy to an adult.
-- 'Do you think this is done in fifteen minutes?' Notice the reflexive verb used in a passive sense.
+- 'Do you think this is done in fifteen minutes?' Notice the self-action verb form used in a passive sense.
 - 'This is sophisticated modern equipment!' Arkady grandly inflates the complexity of a plastic toy.
 - 'I took it apart myself before.' Lyosha points out that he unscrewed the parts on his own.
 - 'One thing is you, another is a grown adult.' Arkady insists on the difference between a child and an experienced man.
 - 'Does it hurt you here?' Arkady touches the boy's side to distract him from the toy.
-- 'No, it just tickles.' Notice the impersonal construction with the dative pronoun.
+- 'No, it just tickles.' Notice the impersonal construction.
 - 'Why are you hovering over me?' Notice the colourful Russian idiom for hovering anxiously over someone.
 - 'Uncle Arkady will fix everything and call you.' Arkady refers to himself in the third person to reassure the boy.
 - 'Go into the room and don't get in the way!' Arkady gently shooes Lyosha away so he can inspect the damage in peace.

@@ -4,7 +4,7 @@ Title: Пир из холодильника  (A Feast from the Fridge)
 Level: A1 — Duolingo Section 2
 Pair: ru-en
 Source: Домашний арест (Domashniy Arest) S1.02
-Arkady is `anya` (label Аркадий); Lyosha (anja) and Yulia (angelina) speak, Slavik has no voice. The speakers of the children's cues (998, 1003, 1005, 1009, 1017) are not marked in the subtitles; they are shared between Yulia and Lyosha. Slang is replaced (жрать -> есть, чё -> что, нищие dropped). Samson's phone call to Nina about the Crimea trip (1032-1046) is told by the narrator.
+
 
 Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
@@ -30,7 +30,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I can't believe it!' Literally, 'I can't to believe': the verb for 'can' is followed by a plain infinitive, just like in English. Then he explains why.
+- 'I can't believe it!' Literally, 'I can't to believe': the verb for 'can' is followed by a basic action verb, just like in English. Then he explains why.
 - 'I did it all for five hundred roubles.' The little word in front of the price means 'for', in the sense of 'in exchange for'. Five hundred roubles is what the faking app cost, and it came out of little Lyosha's piggy bank. Samson's teenage daughter Yulia has a question.
 - 'So they'll let you go soon?' The first word means 'so' or 'that means', a handy way to draw a conclusion. Arkady is sure of it, but his stomach comes first.
 - 'Soon.' A one-word answer. Then a famous way of saying you are very hungry.

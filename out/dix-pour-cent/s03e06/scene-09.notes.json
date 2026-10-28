@@ -3995,21 +3995,18 @@
       ]
     },
     "du": {
-      "examples": [
+      "lemma": "du",
+      "stress": "dy",
+      "pos": "det",
+      "gloss": "some (partitive)",
+      "meanings": [
         {
-          "text": "Du Botox chaque année.",
-          "trans": "Botox every year."
-        },
-        {
-          "text": "Je veux du café.",
-          "trans": "I want some coffee."
-        },
-        {
-          "text": "C'est du compost.",
-          "trans": "It's compost."
+          "en": "some",
+          "note": "for things you can't count; de la (feminine)"
         }
       ],
       "forms": {
+        "title": "Forms",
         "columns": [
           "",
           "m",
@@ -4030,25 +4027,29 @@
               "des"
             ]
           }
-        ],
-        "title": "Forms"
+        ]
       },
-      "gloss": "some; of the",
-      "lemma": "du",
-      "meanings": [
+      "moreForms": [],
+      "examples": [
         {
-          "en": "some (partitive, masculine)",
-          "note": "du Botox, du pain"
+          "text": "C'est du compost.",
+          "trans": "It's compost."
         },
         {
-          "en": "of the (de + le)",
-          "note": ""
+          "text": "Je veux du pain.",
+          "trans": "I want some bread."
+        },
+        {
+          "text": "C'est du compost. Ça nourrit la terre.",
+          "trans": "It's compost. It feeds the earth."
         }
       ],
-      "moreForms": [],
-      "pos": "det",
-      "stress": "dy",
-      "related": []
+      "related": [
+        {
+          "word": "du",
+          "gloss": "some"
+        }
+      ]
     },
     "elle": {
       "lemma": "elle",
@@ -7236,6 +7237,26 @@
       ]
     },
     "à": {
+      "lemma": "à",
+      "stress": "a",
+      "pos": "prep",
+      "gloss": "at, in, to",
+      "meanings": [
+        {
+          "en": "at, in",
+          "note": "Place: à Paris, à mon cours. Core French preposition meaning 'at', linking a noun phrase or infinitive complement to the clause."
+        },
+        {
+          "en": "at",
+          "note": "Time: à midi. Core French preposition meaning 'at', linking a noun phrase or infinitive complement to the clause."
+        },
+        {
+          "en": "au = à + le, aux = à + les",
+          "note": "Contractions. Core French preposition meaning 'at', linking a noun phrase or infinitive complement to the clause."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
       "examples": [
         {
           "text": "Je suis à Paris.",
@@ -7250,27 +7271,12 @@
           "trans": "We're at the Westin."
         }
       ],
-      "forms": null,
-      "gloss": "at, in, to",
-      "lemma": "à",
-      "meanings": [
+      "related": [
         {
-          "en": "at, in",
-          "note": "place: à Paris, à mon cours"
-        },
-        {
-          "en": "at",
-          "note": "time: à midi"
-        },
-        {
-          "en": "au = à + le, aux = à + les",
-          "note": "contractions"
+          "word": "à",
+          "gloss": "at"
         }
-      ],
-      "moreForms": [],
-      "pos": "prep",
-      "stress": "a",
-      "related": []
+      ]
     },
     "échange": {
       "lemma": "échange",

@@ -25,12 +25,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Эдуард Владимирович | Хорошо, вот, возьмите круассан! И, пожалуйста, только уходите. | Fine, here, take a croissant! And please, just leave. | #771 00:38:55: Хорошо, вот, возьмите<br>#772 00:38:57: пожалуйста, только уходите | verbatim |
 | 14 | Аня | Больно мне! Зачем вы мне руку прищемили? | That hurts me! Why did you pinch my arm in the door? | #779 00:39:04: больно мне<br>#780 00:39:06: Зачем вы мне руку прищемили | adapted: Eduard tries to shut the door on Arkady's plaster cast |
 | 15 | Эдуард Владимирович | Я не прищемил! Вы её здесь оставили специально. | I did not pinch it! You left it right here on purpose. | #781 00:39:08: Я не прищемил, вы ее здесь оставили специально | verbatim |
-| 16 | Аня | Извините, вы очень щедрый, а я неловкий. Я пойду попробую приготовить себе кашу. | Forgive me, you are very generous, and I am clumsy. I will go try to cook myself some porridge. | #782 00:39:10: вы очень щедрый, а я<br>#782 00:39:10: неловкий<br>#783 00:39:14: Я пойду попробую приготовить себе кашу | verbatim |
+| 16 | Аня | Вы очень щедрый, а я неловкий. Я пойду приготовить себе кашу. | Forgive me, you are very generous, and I am clumsy. I will go try to cook myself some porridge. | #782 00:39:10: вы очень щедрый, а я<br>#782 00:39:10: неловкий<br>#783 00:39:14: приготовить себе кашу | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Everything is in a new way.' Eduard Vladimirovich is enjoying a quiet morning with Marina.
-- 'No one will bother us now.' The dative pronoun means 'to us'.
+- 'No one will bother us now.' This phrase means 'to us'.
 - 'Oh! What is the matter?' Suddenly Arkady's heavy plaster cast bangs the door open.
 - 'Forgive me, for goodness' sake!' Literally 'for the sake of God'.
 - 'I wanted to knock and miscalculated.' With both arms in plaster casts, he swung too hard.
@@ -44,9 +44,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I really want to have breakfast too.' He puts on his most pitiful voice.
 - 'But that is alright, we will lose weight.' He sighs tragically as if starving.
 - 'Please, lose weight out there, behind the door.' Eduard is not moved at all.
-- 'Close the door, please!' He repeats the polite plural imperative.
+- 'Close the door, please!' He repeats the polite plural command.
 - 'Edik, let's treat Arkady to some croissants.' Marina feels sorry for the helpless neighbour.
-- 'Why must we treat someone to our croissants?' Notice the instrumental plural ending on 'croissants' after the verb for 'to treat'.
+- 'Why must we treat someone to our croissants?' Notice the 'with'-form plural ending on 'croissants' after the verb for 'to treat'.
 - 'You don't owe anything, that is true.' Arkady plays the humble martyr.
 - 'He is absolutely right.' That makes Marina feel even guiltier.
 - 'Fine, here, take a croissant!' Eduard shoves a pastry onto Arkady's cast.
@@ -55,5 +55,5 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Why did you pinch my arm?' Arkady's plaster cast is wedged in the doorway.
 - 'I didn't pinch it!' Eduard protests.
 - 'You left it here on purpose.' The adverb means 'deliberately' or 'on purpose'.
-- 'Sorry, you are very generous, and I am clumsy.' Contrast the two masculine adjectives: 'generous' and 'clumsy'.
-- 'I will go try to cook myself porridge.' Eduard tells him to go right ahead and finally shuts the door.
+- 'You are very generous, and I am clumsy.' Contrast the two masculine adjectives: 'generous' and 'clumsy'.
+- 'I will go cook myself some porridge.' Eduard tells him to go right ahead and finally shuts the door.

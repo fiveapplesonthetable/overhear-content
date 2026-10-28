@@ -4,7 +4,7 @@ Title: Момент упущен  (The Moment Has Passed)
 Level: A1 — Duolingo Section 2
 Pair: ru-en
 Source: Домашний арест (Domashniy Arest) S1.06
-Cues 1089-1128. Colloquial 'Здрасте... Чемпотичненько' (1091, 1093) -> A1 'Здравствуйте! У вас тут очень мило.'; slang 'обиженку включил' (1109) -> 'на меня обиделся'; brand name 'шанель' (1118) -> 'духи'.
+
 
 Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
@@ -22,11 +22,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 10 | Аня | Нет, я не обижаюсь. Всё по-прежнему! | No, I'm not upset. Everything is still the same! | #1115 01:03:24: Нет, не обижаюсь<br>#1117 01:03:28: Всё по-прежнему | verbatim |
 | 11 | Аня | Держи свои духи. Давай я тебя провожу. Пока! | Here is your perfume. Let me walk you out. Bye! | #1118 01:03:29: Держи свою<br>#1119 01:03:31: Давай, я тебя провожу<br>#1120 01:03:32: Пока | adapted: 'шанель' -> 'духи' |
 | 12 | Аня | Марина, послушайте, она ушла! Давайте пить ракию! | Marina, listen, she has left! Let's drink the rakia! | #1121 01:03:45: Марина, послушайте, она ушла<br>#1122 01:03:49: Давайте пить ракию | verbatim |
-| 13 | Марина | А мне что-то уже не хочется. Момент упущен. | Somehow I don't feel like it anymore. The moment has passed. | #1123 01:03:51: А мне что-то уже не хочется<br>#1124 01:03:52: Момент упущен | verbatim |
+| 13 | Лёля | А мне что-то уже не хочется. Момент упущен. | Somehow I don't feel like it anymore. The moment has passed. | #1123 01:03:51: А мне что-то уже не хочется<br>#1124 01:03:52: Момент упущен | verbatim |
 | 14 | Аня | У нас с ней ничего не было, правда! | Nothing happened between her and me, really! | #1125 01:03:54: У нас с ней ничего не было, правда | verbatim |
-| 15 | Марина | Ой, да мне всё равно. | Oh, I don't care anyway. | #1126 01:03:55: Ой, да<br>#1126 01:03:55: мне всё равно | verbatim |
+| 15 | Лёля | Ой, да мне всё равно. | Oh, I don't care anyway. | #1126 01:03:55: Ой, да<br>#1126 01:03:55: мне всё равно | verbatim |
 | 16 | Аня | Но ведь между нами что-то промелькнуло! | But surely a spark passed between us! | #1127 01:03:59: Но ведь между нами что-то промелькнуло | verbatim |
-| 17 | Марина | Это ваша самоуверенность промелькнула. Спокойной ночи! | That was your overconfidence flashing by. Good night! | #1128 01:04:03: Это самоуверенность ваша промелькнула | verbatim |
+| 17 | Лёля | Это ваша самоуверенность промелькнула. Спокойной ночи! | That was your overconfidence flashing by. Good night! | #1128 01:04:03: Это самоуверенность ваша промелькнула | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -35,7 +35,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Yes, in here, into my room.' Lyolya looks around the tiny room behind the wardrobe.
 - 'Are there no cockroaches here? I've been afraid of them since childhood!' And she starts unbuttoning her coat. Arkady immediately stops her.
 - 'Listen, Lyolya, I really appreciate that you came.' He holds her coat on her shoulders.
-- 'But now isn't the time. Don't, don't take your coat off!' The reflexive verb means 'to undress' or 'to take off one's coat' when coming indoors. Lyolya stares at him.
+- 'But now isn't the time. Don't, don't take your coat off!' This phrase means 'to undress' or 'to take off one's coat' when coming indoors. Lyolya stares at him.
 - 'What do you mean? But I want to stay!' Literally, 'in what sense?'. Arkady gently steers her back toward the door.
 - 'Lyolya, everything is fine. Let's do it another time!' All Arkady can think about is getting back to his evening with Marina. Lyolya narrows her eyes.
 - 'I don't get it, are you upset with me right now?' She thinks he is sulking because she didn't visit sooner.

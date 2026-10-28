@@ -4709,6 +4709,36 @@
       ]
     },
     "façon": {
+      "lemma": "façon",
+      "stress": "fasɔ̃",
+      "pos": "noun",
+      "gloss": "way, manner",
+      "gender": "f",
+      "plural": "façons",
+      "meanings": [
+        {
+          "en": "way, manner",
+          "note": "une façon de faire = a way of doing things"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "la façon",
+              "les façons"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
       "examples": [
         {
           "text": "C'est une façon bizarre de faire.",
@@ -4723,40 +4753,10 @@
           "trans": "The French are true romantics. It's a strange way of doing things."
         }
       ],
-      "forms": {
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "la façon",
-              "les façons"
-            ]
-          }
-        ],
-        "title": "Forms"
-      },
-      "gender": "f",
-      "gloss": "way, manner",
-      "lemma": "façon",
-      "meanings": [
-        {
-          "en": "way, manner",
-          "note": "une façon de faire = a way of doing things"
-        }
-      ],
-      "moreForms": [],
-      "plural": "façons",
-      "pos": "noun",
-      "stress": "fasɔ̃",
       "related": [
         {
-          "word": "le/la façon",
-          "gloss": "the way (with article)"
+          "word": "une façon de faire",
+          "gloss": "a way of doing things"
         }
       ]
     },
@@ -6662,21 +6662,18 @@
       ]
     },
     "sauver": {
-      "examples": [
+      "lemma": "sauver",
+      "stress": "sove",
+      "pos": "verb",
+      "gloss": "to save, rescue",
+      "meanings": [
         {
-          "text": "Il a sauvé le contrat.",
-          "trans": "He saved the contract."
-        },
-        {
-          "text": "Tu m'as sauvé!",
-          "trans": "You saved me!"
-        },
-        {
-          "text": "J'ai sauvé une cliente de l'agence, c'est tout.",
-          "trans": "I saved one of the agency's clients, that's all."
+          "en": "to save, rescue",
+          "note": "Regular first-group '-er' verb (from Latin first conjugation '-are') meaning 'to save'; conjugates with 'avoir' in compound tenses (past participle 'sauvé')."
         }
       ],
       "forms": {
+        "title": "Present",
         "columns": [
           "",
           "sg",
@@ -6704,19 +6701,11 @@
               "ils/elles sauvent"
             ]
           }
-        ],
-        "title": "Present"
+        ]
       },
-      "gloss": "to save, rescue",
-      "lemma": "sauver",
-      "meanings": [
-        {
-          "en": "to save, rescue",
-          "note": "First-group '-er' verb (from Latin first conjugation '-are'), the most productive verb class in French. Core French verb meaning 'to save, rescue'."
-        }
-      ],
       "moreForms": [
         {
+          "title": "Passé composé",
           "columns": [
             "",
             "sg",
@@ -6744,10 +6733,10 @@
                 "ils/elles ont sauvé"
               ]
             }
-          ],
-          "title": "Passé composé"
+          ]
         },
         {
+          "title": "Imparfait",
           "columns": [
             "",
             "sg",
@@ -6775,10 +6764,10 @@
                 "ils/elles sauvaient"
               ]
             }
-          ],
-          "title": "Imparfait"
+          ]
         },
         {
+          "title": "Futur",
           "columns": [
             "",
             "sg",
@@ -6806,12 +6795,23 @@
                 "ils/elles sauveront"
               ]
             }
-          ],
-          "title": "Futur"
+          ]
         }
       ],
-      "pos": "verb",
-      "stress": "sove",
+      "examples": [
+        {
+          "text": "Il a sauvé le contrat.",
+          "trans": "He saved the contract."
+        },
+        {
+          "text": "Tu m'as sauvé!",
+          "trans": "You saved me!"
+        },
+        {
+          "text": "J'ai sauvé une cliente de l'agence, c'est tout.",
+          "trans": "I saved one of the agency's clients, that's all."
+        }
+      ],
       "related": [
         {
           "word": "sauvage",
@@ -8153,58 +8153,6 @@
         {
           "word": "peut-être",
           "gloss": "maybe, perhaps"
-        }
-      ]
-    },
-    "mise": {
-      "lemma": "mise",
-      "stress": "miz",
-      "pos": "noun",
-      "gloss": "putting, placing; mise à jour = update",
-      "meanings": [
-        {
-          "en": "putting, placing, stake",
-          "note": "Standard feminine noun meaning 'putting, placing; mise à jour = update'."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "mise",
-              "mises"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Une petite mise à jour du dossier.",
-          "trans": "A quick update of the file."
-        },
-        {
-          "text": "Il lui faut une petite mise à jour.",
-          "trans": "It just needs a small update."
-        },
-        {
-          "text": "Sauver la mise.",
-          "trans": "To save the day."
-        }
-      ],
-      "gender": "f",
-      "plural": "mises",
-      "related": [
-        {
-          "word": "miser",
-          "gloss": "to bet"
         }
       ]
     }

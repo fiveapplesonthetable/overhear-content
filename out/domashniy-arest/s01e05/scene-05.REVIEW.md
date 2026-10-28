@@ -29,26 +29,26 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- Arkady paces the room thinking aloud: so, he did not simply crash into the Society of the Blind.
-- He had a goal! Notice the standard Russian possessive construction literally meaning 'by him was a goal'.
-- Ilona raises an eyebrow sceptically: to punish the blind?
+- Arkady paces the room thinking aloud: 'So he didn't just crash into the Society of the Blind.'
+- 'He had a goal!' Notice the standard Russian possessive construction literally meaning 'by him was a goal'.
+- Ilona raises an eyebrow sceptically: 'To punish the blind?'
 - Arkady points at her seriously: you are laughing in vain — meaning 'don't laugh'.
-- He repeats with conviction: yes, to punish the blind!
-- Ilona plays along and asks him: punish the blind for what?
-- For the fact that they are not blind, Arkady suggests.
-- They are pretending in order to receive state benefits.
-- Ilona shoots that down immediately: that is easy to check.
-- Arkady waves his hands: you understand, we need some kind of fantastic version — something so shocking everyone believes it.
-- Ilona starts tossing out absurd headlines: the blind are preparing a state coup!
-- Getting warmer, warmer! Arkady cheers.
-- And the blind are terrorists.
-- Ilona keeps escalating the joke: the blind are torturing dogs!
-- The blind killed Samsonov's friend!
-- Suddenly Ilona stops and rubs her temples: good Lord, what nonsense am I talking?
-- Arkady sighs: quite right, exactly.
-- But I must not give up. Notice the dative pronoun with the impersonal word for 'not allowed'.
-- He decides on a real step: we need at least to talk with them.
-- Ilona asks practically: well, and what can we offer them?
+- He repeats with conviction: 'Yes, to punish the blind!'
+- Ilona plays along and asks him: 'Punish the blind for what?'
+- 'For the fact that they're not blind', Arkady suggests.
+- 'They're pretending in order to collect benefits.' Notice how the verb meaning 'are pretending' governs 'benefits' in the object form form here.
+- Ilona shoots that down immediately: 'That's easy to check.'
+- Arkady waves his hands: 'You see, we need some kind of fantastic version' — something so shocking everyone believes it.
+- Ilona starts tossing out absurd headlines: 'The blind are preparing a state coup!'
+- 'Getting warmer, warmer!' Arkady cheers.
+- 'And the blind are terrorists.' The adjective for 'the blind' agrees in gender, number, and case with 'terrorists'.
+- Ilona keeps escalating the joke: 'The blind are torturing dogs!'
+- 'The blind killed Samsonov's friend!' The key word here means 'the blind', anchored at the close by 'the friend'.
+- Suddenly Ilona stops and rubs her temples: 'Good Lord, what nonsense am I talking?'
+- Arkady sighs: 'Exactly.'
+- 'But I must not give up.' Notice the 'to me/you' pronoun with the impersonal word for 'not allowed'.
+- He decides on a real step: 'We need at least to talk with them.'
+- Ilona asks practically: 'Well, and what can we offer them?'
 - Promise anything at all! Arkady tells her.
 - Golden mountains — the Russian idiom for promising the moon and the stars!
 - The main thing is that there is a result, understood?

@@ -35,7 +35,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Arkady Borisovich, give the packet here.' Marina reaches for the spilled groats.
 - 'I can't.' Arkady tries to wipe his face with his plaster cast.
 - 'And rice got into my eyes!' Literally 'fell into the eyes'.
-- 'Forgive me, I will tidy up right now.' The perfective verb means 'to clean up' or 'tidy away'.
+- 'Forgive me, I will tidy up right now.' This phrase means 'to clean up' or 'tidy away'.
 - 'I will clean everything up myself!' He tries to bend down with his stiff casts.
 - 'Wait, Marina.' Eduard holds Marina back from cleaning the floor for Arkady.
 - 'Leave all of this in peace.' That is the standard Russian idiom for 'leave it alone'.
@@ -46,7 +46,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Oh, I am falling!' Arkady's feet fly out from under him and he crashes onto his back.
 - 'Help me!' With both arms in plaster, he cannot push himself up.
 - 'Look, don't touch him!' Eduard warns Marina as she rushes over.
-- 'One must not touch him right now.' Notice how the impersonal word for 'not allowed' takes an infinitive.
+- 'One must not touch him right now.' Notice how the impersonal word for 'not allowed' takes an action verb.
 - 'Do not touch me like that!' Arkady winces on the kitchen floor.
 - 'Lift me up quickly!' The comparative adverb means 'more quickly' or 'right away'.
 - 'Hold on, Arkady Borisovich! Careful!' Together they struggle to get the mayor back on his feet.

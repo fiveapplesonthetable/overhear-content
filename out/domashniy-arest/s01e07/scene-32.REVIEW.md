@@ -21,20 +21,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 9 | Аня | Заметался пожар голубой! Первый раз я запел про любовь! | A blue flame flickered! For the first time I sang of love! | #1238 00:58:31: Заметался пожар голубой<br>#1240 00:58:44: Первый раз я запел про любовь | verbatim |
 | 10 | Аня | Марина, это телефон. Отключите его, пожалуйста! | Marina, that's the phone. Please turn it off! | #1249 00:59:34: телефон, Марина, отключите его, пожалуйста | adapted: 'Черт' omitted |
 | 11 | Марина | Ой, это Илона! Я громко поставлю. | Oh, it's Ilona! I'll put it on speaker. | #1250 01:00:04: Ой, это Илона<br>#1252 01:00:06: Я громко поставлю | verbatim |
-| 12 | Илона | Аркадий Борисович, зачем вам этот ложный гипс на руках? | Arkady Borisovich, why do you need those fake casts on your arms? | new | new: speakerphone line heard in cue 1252-1253 |
+| 12 | Марина | Аркадий Борисович, зачем вам этот ложный гипс на руках? | Arkady Borisovich, why do you need those fake casts on your arms? | new | new: speakerphone line heard in cue 1252-1253 |
 | 13 | Аня | Илона, ты что такое несёшь? Марина, я всё объясню! | Ilona, what nonsense are you saying? Marina, I'll explain everything! | #1253 01:00:08: Илона, ты<br>#1253 01:00:08: несешь такое<br>#1254 01:00:16: Марина<br>#1254 01:00:16: я все объясню | verbatim |
 | 14 | Аня | Марина, послушайте, это всё из-за любви! | Marina, listen, it's all because of love! | #1254 01:00:16: Марина, послушайте<br>#1254 01:00:16: это все из-за любви | verbatim |
 | 15 | Марина | Значит, вы симулянт? Вам сейчас больно? | So, you're a faker? Does it hurt right now? | #1256 01:00:32: Симулянт<br>#1258 01:00:35: Вам больно | verbatim |
 | 16 | Аня | Нет, я не симулянт! Ай, мне очень больно, Марина! | No, I'm not a faker! Ow, it hurts me so much, Marina! | #1257 01:00:33: Нет, я не симулянт<br>#1261 01:00:38: Мне очень больно<br>#1261 01:00:38: Марина | verbatim |
-| 17 | Илона | Что, в третий раз с ногами не вышло? | What, the shoe-kissing trick didn't work the third time? | #1266 01:00:54: Что, в третий раз с | adapted: 'с ножками не прокатило' -> 'с ногами не вышло' |
+| 17 | Марина | Что, в третий раз с ногами не вышло? | What, the shoe-kissing trick didn't work the third time? | #1266 01:00:54: Что, в третий раз с | adapted: 'с ножками не прокатило' -> 'с ногами не вышло' |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Hello again! I wanted to apologize for today.' Arkady steps into Marina's room looking contrite after Eduard stormed out.
-- 'Everything is my fault.' Notice the prepositional phrase literally meaning 'guilty in everything'.
+- 'Everything is my fault.' Notice the location phrase literally meaning 'guilty in everything'.
 - 'Oh, stop it, you didn't do it on purpose!' Marina sighs and tells him not to blame himself.
 - 'Maybe it's for the best. Everything was falling apart for a long time.' She admits her romance with Eduard was already crumbling.
-- 'You deserve the very best!' The short-form adjective takes the genitive case for what someone is worthy of.
+- 'You deserve the very best!' The short-form adjective takes the 'of' form for what someone is worthy of.
 - 'I have something for you.' Quietly slipping his right hand out of his cast behind his back, Arkady pulls out an antique brooch.
 - 'Please take it! My grandfather gave this brooch to my grandmother.' Notice how the direct object comes first for emphasis.
 - 'Very beautiful! What if you meet someone else?' Marina admires the family heirloom, hesitating to accept such a personal gift.

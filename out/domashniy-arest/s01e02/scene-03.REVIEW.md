@@ -4,7 +4,7 @@ Title: Я не вор  (I'm Not a Thief)
 Level: A1 — Duolingo Section 2
 Pair: ru-en
 Source: Домашний арест (Domashniy Arest) S1.02
-Cues 87-117, plus merged scene 4 (118-137, Arkady's sleepless night and Klavdia Viktorovna), which is told only in the OUTRO. Speakers are not marked: 88 is given to Samson; 99-101 are read as Arkady taking off his ring (cue 99 is garbled, its English says 'ring'), Samson asking why, and Arkady answering. Slang 'Булька' (belly) -> 'Живот'; the State Duma line (92) -> 'как у депутата'; 'Чё' -> 'Что'. Cues 94-95, 97-98, 102-103 (pet names, practice) and 116-117 are left out.
+
 
 Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 

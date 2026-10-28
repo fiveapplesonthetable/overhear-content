@@ -4,7 +4,7 @@ Title: У нас просто сгущёнка взорвалась!  (Our Conde
 Level: A1 — Duolingo Section 2
 Pair: ru-en
 Source: Домашний арест (Domashniy Arest) S1.06
-Cues 773-813. Klavdia Viktorovna's scolding in cues 781-783, Marina's apology in 795, and Kapustina's answers in 807-812 are narrated or echoed within the three-role limit so Arkady, Slavik, and Samson hold the three voices. Crude 'идите вы все в жопу' (796) dropped; ASR 'Владимир Викторович' (787, 792) corrected to 'Клавдия Викторовна'; ASR 'Юрку' (806) -> 'Юльку'; slang 'к хахоти своему' (810) cleaned to 'К жениху своему'.
+
 
 Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
@@ -18,7 +18,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 6 | Аня | Что вы, Клавдия Викторовна! Ладно, я сам полезу. | Oh stop it, Klavdia Viktorovna! Fine, I'll climb up myself. | #783 00:43:02: Что вы<br>#784 00:43:03: Ладно, я сам полезу | adapted: Klavdia Viktorovna's scolding in 781-782 narrated; ASR 'Владимир Викторович' (787) restored to 'Клавдия Викторовна' |
 | 7 | Аня | Только держи меня! — А как держать? — Нежно! | Just hold me! — How do I hold you? — Gently! | #784 00:43:03: Только держи меня<br>#785 00:43:07: А как держать<br>#786 00:43:08: Нежно | verbatim |
 | 8 | Аня | Смотри, держи меня за ногу. Вот так! Крепче держи! | Look, hold me by the leg. Like that! Hold tighter! | #789 00:43:16: смотри<br>#789 00:43:16: держи меня за ногу. Вот так<br>#791 00:43:24: Крепче держи | verbatim |
-| 9 | Славик | Ой! У нас просто сгущёнка взорвалась! | Oh! Our condensed milk just exploded! | #795 00:43:34: у нас просто сгущенка взорвалась | adapted: Marina's apology in 795 voiced by startled Slavik at the stove explosion |
+| 9 | Самсон | Ой! У нас просто сгущёнка взорвалась! | Oh! Our condensed milk just exploded! | #795 00:43:34: у нас просто сгущенка взорвалась | adapted: Marina's apology in 795 voiced by startled Slavik at the stove explosion |
 | 10 | Самсон | Сейчас пойду, найду её! — Ты что, Аркаша? | I'll go find her right now! — What are you doing, Arkasha? | #797 00:43:59: Сейчас пойду, найду ее<br>#802 00:44:32: Ты что, Аркаша | verbatim |
 | 11 | Аня | Ничего! Твой сын — убийца! | Nothing! Your son is a murderer! | #803 00:44:33: Ничего. Твой сын убийца | verbatim |
 | 12 | Самсон | Капустина! Привет. Юльку видела? | Kapustina! Hi. Have you seen Yulka? | #805 00:44:39: Капустина<br>#806 00:44:40: Привет<br>#806 00:44:40: видела | adapted: ASR 'Юрку' restored to 'Юльку' |
@@ -34,7 +34,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Grab the mop, go! Come on, come on!' Just as Slavik steps up, Klavdia Viktorovna walks in and scolds them, warning that the boy will fall and get hurt.
 - 'Oh stop it, Klavdia Viktorovna! Fine, I'll climb up myself.' Shamed by the old lady, Arkady climbs onto the windowsill himself.
 - 'Just hold me! — How do I hold you? — Gently!' Arkady's sarcastic reply is the adverb 'tenderly' or 'gently'.
-- 'Look, hold me by the leg. Like that! Hold tighter!' After verbs of holding or grabbing, Russian uses the preposition 'for' plus the accusative case: 'by the leg'.
+- 'Look, hold me by the leg. Like that! Hold tighter!' After verbs of holding or grabbing, Russian uses the preposition 'for' plus the direct-object form: 'by the leg'.
 - 'Oh! Our condensed milk just exploded!' Behind them on the stove, Marina's forgotten tin of condensed milk blows up with a thunderous bang. Startled Slavik lets go of Arkady's ankle, and Arkady tumbles headfirst out the first-floor window into a snowbank!
 - 'I'll go find her right now! — What are you doing, Arkasha?' Running out into the courtyard to look for Yulya, Samson pauses in surprise as he sees Arkady lying in the snow.
 - 'Nothing! Your son is a murderer!' Groaning in the snowdrift, Arkady blames Slavik for letting go of his leg.

@@ -4,7 +4,7 @@ Title: Первая стадия отрицания  (First Stage: Denial)
 Level: A1 — Duolingo Section 2
 Pair: ru-en
 Source: Домашний арест (Domashniy Arest) S1.09
-Cues 168-182. Arkady consoles Samsonov after the stare fails, explaining that Nina's mockery is just the first psychological stage of denial. He instructs him to kiss his children goodbye and head to his hotel.
+
 
 Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
@@ -35,7 +35,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'What? What denial?' Samsonov is confused by the unfamiliar psychological terminology.
 - 'Don't worry about it.' The Russian idiom literally means 'do not take it into your head'.
 - 'When you are leaving home...' The compound future construction sets the timeframe.
-- 'Don't forget to kiss the children.' The negative imperative is followed by an infinitive.
+- 'Don't forget to kiss the children.' The negative command is followed by an action verb.
 - 'Say: I am always your dad.' Arkady scripts a melodramatic parting line.
 - 'Got it, I will kiss them and say it.' Samsonov agrees to deliver the scripted goodbye.
 - 'And where do I go afterwards?' Samsonov asks about the practical destination.

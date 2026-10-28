@@ -29,25 +29,25 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'I warned you.' A masculine past-tense verb. Remember, earlier Samson came to ask for the money nicely, and Arkady just laughed at him.
-- 'Warned me about what?' After the preposition 'about', 'what' changes to its prepositional form with the vowel 'yo'.
+- 'Warned me about what?' After the preposition 'about', 'what' changes to its location form with the vowel 'yo'.
 - 'Hey, what are you doing?' Arkady realises this is not a chat. Nina steps in to help.
 - 'Hold him tighter, Vanya!' She uses the informal command 'hold' and calls her husband by his real first name, Vanya. Arkady panics as the rope goes round him.
 - 'Samsonovs, what are you doing?' He addresses the two of them by their plural surname, and uses a strong verb that means 'what are you perpetrating?'.
 - 'Stop it, I beg you!' The first word literally means 'it will suffice', the standard Russian way to say 'enough!'.
 - 'Where is the money?' Two blunt words from Samson. Notice that 'money' in Russian is always plural.
 - 'I'm telling you again!' Word for word: 'I to you one more time say'.
-- 'I don't have any money, do you hear?' After 'there is no', both 'any' and 'money' go into the genitive plural. Actually, Arkady is telling the truth: his wife Vika and Pasha took everything.
+- 'I don't have any money, do you hear?' After 'there is no', both 'any' and 'money' go into the plural 'of' form. Actually, Arkady is telling the truth: his wife Vika and Pasha took everything.
 - 'I have nothing.' Double negation is the rule in Russian: 'by me nothing there-is-not'.
-- 'I swear to you, I swear!' A reflexive verb ending in '-s', followed by 'to you'. Samson is not convinced.
+- 'I swear to you, I swear!' A self-action verb form ending in '-s', followed by 'to you'. Samson is not convinced.
 - 'Ninul, plug in the soldering iron.' He uses an affectionate pet form of Nina's name and the command 'switch on'. Nina obliges.
-- 'I'll plug it in right now.' The perfective future form means 'I will switch it on'.
-- 'He'll remember everything quickly with us.' Another perfective future: 'he will recall'. Arkady shouts over them.
+- 'I'll plug it in right now.' The future-tense form means 'I will switch it on'.
+- 'He'll remember everything quickly with us.' Another future-tense form: 'he will recall'. Arkady shouts over them.
 - 'I don't have any money!' Putting 'no' right at the front makes the denial even more desperate.
 - 'Can you hear me?' He switches to the plural 'you' for both husband and wife. Samson leans in.
 - 'I'm asking for the last time. Where is the money?' Still the same two-word question. Arkady tries appealing to their conscience.
 - 'Samsonovs, come to your senses!' Literally 'wake up!'. Then he mentions Pasha's bribe.
-- 'I understand you really want the flat.' Impersonal phrasing: 'to you it very much wants itself a flat', with 'flat' in the accusative.
+- 'I understand you really want the flat.' Impersonal phrasing: 'to you it very much wants itself a flat', with 'flat' in the object form.
 - 'But you're normal people.' The little particle after 'you' means 'after all'.
-- 'Think about your children.' After 'about', 'children' and 'your own' take the prepositional plural.
+- 'Think about your children.' After 'about', 'children' and 'your own' take the location plural.
 - 'Listen, they will put you in prison for this!' Literally 'they will seat you for this': in Russian, 'to seat someone' means to put them behind bars. When that fails, he yells for the flatmates.
 - 'Neighbours! Please, help! They're killing me!' Across the street in the surveillance room, the agents hear his muffled screams through the wall, remark that a neighbour is yelling as if someone is torturing him, and keep eating their bread rings.

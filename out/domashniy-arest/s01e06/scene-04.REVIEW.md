@@ -22,32 +22,32 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 10 | Ирина Петровна | Потому что к выборам особое внимание. Самсонов — звезда! | Because there is special attention on the election. Samsonov is a star! | #116 00:08:16: потому что к выборам<br>#117 00:08:18: особое внимание<br>#118 00:08:23: Самсонов звезда | verbatim |
 | 11 | Ирина Петровна | И народ интересуется его судьбой. | And the people are interested in his fate. | #119 00:08:24: И народ интересуется его судьбой | verbatim |
 | 12 | Паша | Никогда Самсонов не победит! Никогда! | Samsonov will never win! Never! | #120 00:08:26: Никогда Самсонов не победит<br>#121 00:08:28: Никогда | verbatim |
-| 13 | Аня | Пожалуйста, ваш капучино с корицей. | Here you go, your cappuccino with cinnamon. | #128 00:08:46: Пожалуйста, с корицей | adapted: added 'ваш капучино' |
+| 13 | Ирина Петровна | Пожалуйста, ваш капучино с корицей. | Here you go, your cappuccino with cinnamon. | #128 00:08:46: Пожалуйста, с корицей | adapted: added 'ваш капучино' |
 | 14 | Паша | Ну сколько можно каждые три минуты? Туда-сюда, туда-сюда! | How long can you keep coming every three minutes? Back and forth, back and forth! | #130 00:08:50: Ну сколько можно<br>#130 00:08:50: каждые три минуты<br>#131 00:08:53: Туда-сюда, туда-сюда | verbatim |
 | 15 | Паша | Дай поговорить, наконец! | Let me talk, finally! | #132 00:08:55: Дай поговорить | adapted: simplified 'в конце концов' -> 'наконец' |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- Pasha smiles confidently across the table at the election commission chairwoman: Irina Petrovna, tell me, please.
-- He prompts her for the answer they agreed on: candidate Samsonov submitted his signatures with violations, isn't that right?
-- She calmly contradicts him at the table: actually, no.
-- The signatures are collected and all of them are registered properly.
-- Pasha blinks in shock: wait, you and I speculated something else!
-- We agreed there would be a multitude of violations.
-- Irina Petrovna shrugs: we speculated and we speculated — talk is just talk.
-- Dropping his polite tone, Pasha switches to the informal 'you': you were sitting right here the day before yesterday!
-- You were drinking French cognac with me!
-- Irina Petrovna explains what changed: and yesterday they called me from Moscow, from the central election commission.
-- They told me that the election must take place honestly.
-- Honestly and transparently!
-- And she adds firmly: and they warned me very strictly not to play any tricks!
-- Pasha tries to keep his composure: that is very interesting.
-- And why is Moscow suddenly watching their small town?
-- Because there is special attention on the election from the capital.
-- After his viral videos, Samsonov is a television star!
-- And the public is following his fate with interest.
-- Pasha slams his hand on the table: Samsonov will never win!
-- Never! Yet the businessmen around the table immediately tell Pasha they are backing out until his victory is guaranteed.
+- Pasha smiles confidently across the table at the election commission chairwoman: 'Irina Petrovna, tell me, please.'
+- He prompts her for the answer they agreed on: 'Candidate Samsonov submitted signatures with violations, right?'
+- She calmly contradicts him at the table: 'Actually, no.'
+- 'The signatures are collected and all properly filed.' The adverb meaning 'properly' modifies the verb for 'are collected' to sharpen the tone.
+- Pasha blinks in shock: 'Wait, you and I speculated something else!'
+- 'There would be many violations.' Listen for the word meaning 'there', which leads straight into 'of violations'.
+- Irina Petrovna shrugs: 'We speculated and we speculated' — talk is just talk.
+- Dropping his polite tone, Pasha switches to the informal 'you': 'You were sitting here the day before yesterday!'
+- 'You were drinking French cognac with me!' The '-a' ending on the past-tense verb for 'were drinking' shows that the subject is feminine.
+- Irina Petrovna explains what changed: 'And yesterday they called me from Moscow, from the central election commission.'
+- 'They told me that the election must be conducted honestly.' In spoken Russian, word order is flexible: 'told' comes first to set the focus, followed by 'honestly'.
+- 'Honestly and transparently!' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'honestly' straight to 'transparently'.
+- And she adds firmly: 'And they warned me very strictly not to play any tricks!'
+- Pasha tries to keep his composure: 'That is very interesting.'
+- 'And why?' is Moscow suddenly watching their small town?
+- 'Because there is special attention on the election' from the capital.
+- After his viral videos, 'Samsonov is a star!'
+- 'And the people are interested in his fate.' Irina Petrovna puts 'the people' up front and finishes with 'fate' to make the point unmistakable.
+- Pasha slams his hand on the table: 'Samsonov will never win!'
+- 'Never!' Yet the businessmen around the table immediately tell Pasha they are backing out until his victory is guaranteed.
 - At that worst possible moment, teenage waitress Yulya approaches the table: here you go, your cappuccino with cinnamon.
 - Boiling with frustration, Pasha snaps at the girl: how long can you keep hovering every three minutes?
 - Back and forth, back and forth!

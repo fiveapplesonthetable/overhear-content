@@ -4,7 +4,7 @@ Title: Звонок от Третьякова  (A Call from Tretyakov)
 Level: A1 — Duolingo Section 2
 Pair: ru-en
 Source: Домашний арест (Domashniy Arest) S1.02
-Cues 710-757. Arkady's impression of Tretyakov is full of swearing and prison threats; the story keeps only its clean lines (710-713, 729-732). The watch episode (719-728) is left out. The two children who praise the impression (736-737) are given to Slavik and Yulia; Lyosha is present but has no voice (role limit). Slang: 'Че' -> 'Что', 'реально' -> 'правда', 'директриса' -> 'директор', 'Копейки нету' -> 'ни копейки'.
+
 
 Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 

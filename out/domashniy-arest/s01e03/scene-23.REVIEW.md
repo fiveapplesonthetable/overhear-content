@@ -4,7 +4,7 @@ Title: Скальпель медсестры  (The Nurse's Scalpel)
 Level: A1 — Duolingo Section 2
 Pair: ru-en
 Source: Домашний арест (Domashniy Arest) S1.03
-Swearing and crude lines cleaned: 'бабки' (756) -> 'деньги', 'разводят' (759) -> 'обманывают', 'дебил' (757, 778, 784) -> dropped / 'глупый', 'Блин' (781) dropped, crude 802 ('обоссался от страха') and 814 ('ты дура') dropped. Transcription slip 'Очконавт' (796) -> 'очкарик'.
+
 
 Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
@@ -29,8 +29,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, have you calmed down? Where's the money?' The verb has the masculine past ending plus the reflexive tail at the end. Arkady gives the same answer as before.
-- 'I'm telling you, I don't have any money.' After 'there isn't', both 'any' and 'money' take the genitive plural ending. Then he warns both of them.
+- 'Well, have you calmed down? Where's the money?' The verb has the masculine past ending plus the self-action verb form at the end. Arkady gives the same answer as before.
+- 'I'm telling you, I don't have any money.' After 'there isn't', both 'any' and 'money' take the plural 'of' form ending. Then he warns both of them.
 - 'They're tricking you!' Literally 'they are deceiving you', using the third-person plural with no subject to mean 'Pasha is playing you'. Samson decides to act tough and grabs Arkady's bandaged finger.
 - 'Right, that's it. I'm squeezing your finger right now!' He barely touches it, but Arkady screams anyway.
 - 'No, don't! Don't, it hurts!' Literally 'to me it is painful'. That is enough to make big Samson lose his nerve.

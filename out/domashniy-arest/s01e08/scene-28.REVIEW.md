@@ -31,7 +31,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'What happened?' The past tense neuter question is the standard phrase for 'what's wrong?'.
 - 'Yakov Grigoryevich, I have an urgent question for you.' Arkady addresses his old physician respectfully.
 - 'There is a boy here, Lyokha.' Lyokha is the informal nickname for Lyosha.
-- 'Speak with him.' The preposition takes the instrumental pronoun.
+- 'Speak with him.' The preposition takes the 'with' pronoun.
 - 'Hello, doctor.' Lyosha introduces himself politely.
 - 'I have osteochondropathy.' He recites the scary diagnosis from the local hospital.
 - 'So how are they treating you?' The doctor asks about his current therapy.
@@ -42,7 +42,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Then everything went away.' The symptoms disappeared temporarily.
 - 'Well then, run along, boy!' The doctor sends Lyosha out of the room so he can speak privately with Arkady.
 - 'Arkasha, listen to me.' He addresses Arkady by his familiar diminutive.
-- 'This boy has no osteochondropathy at all.' The negative construction takes the genitive case.
+- 'This boy has no osteochondropathy at all.' The negative construction takes the 'of' form.
 - 'He has Lyme disease from a tick bite!' The doctor identifies the real cause of the boy's joint problems.
 - 'And he does not need surgery.' The short adjective expresses that surgery is unnecessary.
 - 'This condition is treated with medication.' A simple course of antibiotics is all Lyosha needs.

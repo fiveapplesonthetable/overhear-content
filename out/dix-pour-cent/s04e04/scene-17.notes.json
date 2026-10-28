@@ -3911,6 +3911,40 @@
       ]
     },
     "frais": {
+      "lemma": "frais",
+      "stress": "fʁɛ",
+      "pos": "noun",
+      "gloss": "expenses, costs",
+      "gender": "m",
+      "plural": "frais",
+      "meanings": [
+        {
+          "en": "expenses, costs (always plural)",
+          "note": "une note de frais = an expense claim"
+        },
+        {
+          "en": "fresh, cool (adjective)",
+          "note": "De l'eau fraîche. Masculine noun ('le frais', plural 'les frais') inherited through Romance vocabulary, used in everyday and professional French for 'expenses'."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "—",
+              "les frais"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
       "examples": [
         {
           "text": "Mes notes de frais.",
@@ -3925,40 +3959,6 @@
           "trans": "To check my suits and my expense claims. Good luck!"
         }
       ],
-      "forms": {
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "—",
-              "les frais"
-            ]
-          }
-        ],
-        "title": "Forms"
-      },
-      "gender": "m",
-      "gloss": "expenses, costs",
-      "lemma": "frais",
-      "meanings": [
-        {
-          "en": "expenses, costs (always plural)",
-          "note": "une note de frais = an expense claim"
-        },
-        {
-          "en": "fresh, cool (adjective)",
-          "note": "de l'eau fraîche"
-        }
-      ],
-      "moreForms": [],
-      "plural": "frais",
-      "pos": "noun",
-      "stress": "fʁɛ",
       "related": [
         {
           "word": "fraise",
@@ -4643,7 +4643,7 @@
       "meanings": [
         {
           "en": "to write down, note, record",
-          "note": "First-group '-er' verb (from Latin first conjugation '-are'), the most productive verb class in French. Core French verb meaning 'to note, write down'."
+          "note": "Regular first-group '-er' verb (from Latin first conjugation '-are') meaning 'to note'; conjugates with 'avoir' in compound tenses (past participle 'noté')."
         }
       ],
       "forms": {
@@ -4787,10 +4787,6 @@
         }
       ],
       "related": [
-        {
-          "word": "note",
-          "gloss": "bill"
-        },
         {
           "word": "note de frais",
           "gloss": "expense account"

@@ -4914,41 +4914,36 @@
       ]
     },
     "plus": {
-      "examples": [
+      "lemma": "plus",
+      "stress": "ply",
+      "pos": "adv",
+      "gloss": "no more, no longer; more",
+      "meanings": [
         {
-          "text": "À plus!",
-          "trans": "See you!"
+          "en": "no more, no longer",
+          "note": "With ne: je n'en peux plus. Invariable French adverb meaning 'no more'; placed immediately after the conjugated verb in simple tenses."
         },
         {
-          "text": "Je veux plus de café.",
-          "trans": "I want more coffee."
-        },
-        {
-          "text": "Je n'en peux plus.",
-          "trans": "I can't take any more."
+          "en": "more",
+          "note": "pronounced plys at the end of a sentence in this sense"
         }
       ],
       "forms": null,
-      "gloss": "more",
-      "lemma": "plus",
-      "meanings": [
+      "moreForms": [],
+      "examples": [
         {
-          "en": "more",
-          "note": "pronounced plys when it means 'more' at the end"
+          "text": "Je n'en peux plus.",
+          "trans": "I can't take any more."
         },
         {
-          "en": "à plus = see you later",
-          "note": "informal goodbye"
+          "text": "Il n'est plus là.",
+          "trans": "He's not here any more."
         },
         {
-          "en": "ne... plus = no longer",
-          "note": "pronounced ply"
+          "text": "Je n'en peux plus, Andréa.",
+          "trans": "I can't take any more, Andréa."
         }
       ],
-      "moreForms": [],
-      "pos": "adv",
-      "register": "à plus: informal",
-      "stress": "ply",
       "related": [
         {
           "word": "plusieurs",
@@ -5403,21 +5398,23 @@
       ]
     },
     "s'occuper": {
-      "examples": [
+      "lemma": "s'occuper",
+      "stress": "sɔkype",
+      "pos": "verb",
+      "gloss": "to take care of, to deal with",
+      "governs": "+ de",
+      "meanings": [
         {
-          "text": "Tu t'occupes de lui?",
-          "trans": "Do you look after him?"
+          "en": "to look after, to take care of",
+          "note": "S'occuper de quelqu'un. Regular first-group '-er' verb (from Latin first conjugation '-are') meaning 'to take care of'; conjugates with 'avoir' in compound tenses (past participle 's'occupé')."
         },
         {
-          "text": "Je m'occupe de tout.",
-          "trans": "I'll take care of everything."
-        },
-        {
-          "text": "Je m'occupe du café.",
-          "trans": "I'll take care of the coffee."
+          "en": "to deal with, to handle",
+          "note": "Je m'en occupe = I'll handle it. Regular first-group '-er' verb (from Latin first conjugation '-are') meaning 'to take care of'; conjugates with 'avoir' in compound tenses (past participle 's'occupé')."
         }
       ],
       "forms": {
+        "title": "Present",
         "columns": [
           "",
           "sg",
@@ -5445,24 +5442,11 @@
               "ils/elles s'occupent"
             ]
           }
-        ],
-        "title": "Present"
+        ]
       },
-      "gloss": "to take care of, to deal with",
-      "governs": "+ de",
-      "lemma": "s'occuper",
-      "meanings": [
-        {
-          "en": "to look after, to take care of",
-          "note": "s'occuper de quelqu'un"
-        },
-        {
-          "en": "to deal with, to handle",
-          "note": "je m'en occupe = I'll handle it"
-        }
-      ],
       "moreForms": [
         {
+          "title": "Passé composé",
           "columns": [
             "",
             "sg",
@@ -5490,10 +5474,10 @@
                 "ils/elles se sont occupé(e)s"
               ]
             }
-          ],
-          "title": "Passé composé"
+          ]
         },
         {
+          "title": "Imparfait",
           "columns": [
             "",
             "sg",
@@ -5521,10 +5505,10 @@
                 "ils/elles s'occupaient"
               ]
             }
-          ],
-          "title": "Imparfait"
+          ]
         },
         {
+          "title": "Futur",
           "columns": [
             "",
             "sg",
@@ -5552,16 +5536,31 @@
                 "ils/elles s'occuperont"
               ]
             }
-          ],
-          "title": "Futur"
+          ]
         }
       ],
-      "pos": "verb",
-      "stress": "sɔkype",
+      "examples": [
+        {
+          "text": "Tu t'occupes de lui?",
+          "trans": "Do you look after him?"
+        },
+        {
+          "text": "Je m'occupe de tout.",
+          "trans": "I'll take care of everything."
+        },
+        {
+          "text": "Je m'occupe du café.",
+          "trans": "I'll take care of the coffee."
+        }
+      ],
       "related": [
         {
-          "word": "s'occupation",
-          "gloss": "action of to take care of"
+          "word": "occuper",
+          "gloss": "to occupy"
+        },
+        {
+          "word": "occupé",
+          "gloss": "busy"
         }
       ]
     },
@@ -5627,6 +5626,22 @@
       ]
     },
     "tard": {
+      "lemma": "tard",
+      "stress": "taʁ",
+      "pos": "adv",
+      "gloss": "late",
+      "meanings": [
+        {
+          "en": "late",
+          "note": "Il est tard = it's late. Invariable French adverb meaning 'late'; placed immediately after the conjugated verb in simple tenses."
+        },
+        {
+          "en": "à plus tard = see you later",
+          "note": "Invariable French adverb meaning 'late'; placed immediately after the conjugated verb in simple tenses."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
       "examples": [
         {
           "text": "À plus tard!",
@@ -5641,31 +5656,7 @@
           "trans": "I'm getting home late."
         }
       ],
-      "forms": null,
-      "gloss": "late",
-      "lemma": "tard",
-      "meanings": [
-        {
-          "en": "late",
-          "note": "il est tard = it's late"
-        },
-        {
-          "en": "à plus tard = see you later",
-          "note": ""
-        }
-      ],
-      "moreForms": [],
-      "pos": "adv",
-      "stress": "taʁ",
       "related": [
-        {
-          "word": "retard",
-          "gloss": "delay"
-        },
-        {
-          "word": "retardement",
-          "gloss": "time delay"
-        },
         {
           "word": "tardif",
           "gloss": "late"

@@ -3019,21 +3019,22 @@
       ]
     },
     "bas": {
-      "examples": [
+      "lemma": "bas",
+      "stress": "bɑ",
+      "pos": "adj",
+      "gloss": "low",
+      "meanings": [
         {
-          "text": "C'est vraiment bas.",
-          "trans": "That's really low."
+          "en": "low",
+          "note": "physically, or morally: c'est bas = that's low"
         },
         {
-          "text": "La table est basse.",
-          "trans": "The table is low."
-        },
-        {
-          "text": "C'est vraiment bas, Emma.",
-          "trans": "That's really low, Emma."
+          "en": "quietly",
+          "note": "As an adverb: parler bas. Descriptive French adjective meaning 'low'; agrees in gender and number with the noun it modifies."
         }
       ],
       "forms": {
+        "title": "Forms",
         "columns": [
           "",
           "m",
@@ -3054,28 +3055,27 @@
               "basses"
             ]
           }
-        ],
-        "title": "Forms"
+        ]
       },
-      "gloss": "low",
-      "lemma": "bas",
-      "meanings": [
+      "moreForms": [],
+      "examples": [
         {
-          "en": "low",
-          "note": "physically, or morally: c'est bas = that's low"
+          "text": "C'est vraiment bas.",
+          "trans": "That's really low."
         },
         {
-          "en": "quietly",
-          "note": "as an adverb: parler bas"
+          "text": "La table est basse.",
+          "trans": "The table is low."
+        },
+        {
+          "text": "C'est vraiment bas, Emma.",
+          "trans": "That's really low, Emma."
         }
       ],
-      "moreForms": [],
-      "pos": "adj",
-      "stress": "bɑ",
       "related": [
         {
-          "word": "basement",
-          "gloss": "in a low manner (adv.)"
+          "word": "physically, or morally: c'est bas",
+          "gloss": "that's low"
         }
       ]
     },
@@ -3577,37 +3577,38 @@
       ]
     },
     "en": {
-      "examples": [
-        {
-          "text": "Je pars en vacances.",
-          "trans": "I'm going on holiday."
-        },
-        {
-          "text": "J'en ai assez!",
-          "trans": "I've had enough!"
-        },
-        {
-          "text": "Je suis en retard.",
-          "trans": "I'm late."
-        }
-      ],
-      "forms": null,
-      "gloss": "in; (pronoun) of it, some",
       "lemma": "en",
+      "stress": "ɑ̃",
+      "pos": "prep",
+      "gloss": "in",
       "meanings": [
         {
           "en": "in",
-          "note": "preposition: en vacances, en huit ans"
-        },
-        {
-          "en": "of it, of them",
-          "note": "pronoun before the verb: j'en ai assez, je n'en peux plus"
+          "note": "en retard = late, en vacances = on holiday"
         }
       ],
+      "forms": null,
       "moreForms": [],
-      "pos": "prep",
-      "stress": "ɑ̃",
-      "related": []
+      "examples": [
+        {
+          "text": "Je suis en retard.",
+          "trans": "I'm late."
+        },
+        {
+          "text": "Tu es en vacances?",
+          "trans": "Are you on holiday?"
+        },
+        {
+          "text": "Oh non! Je suis en retard.",
+          "trans": "Oh no! I'm late."
+        }
+      ],
+      "related": [
+        {
+          "word": "en retard",
+          "gloss": "late, en vacances = on holiday"
+        }
+      ]
     },
     "et": {
       "lemma": "et",
@@ -3818,6 +3819,40 @@
       ]
     },
     "grâce": {
+      "lemma": "grâce",
+      "stress": "ʁɑs",
+      "pos": "noun",
+      "gloss": "grace, charm",
+      "gender": "f",
+      "plural": "grâces",
+      "meanings": [
+        {
+          "en": "grace, elegance, charm",
+          "note": "Avoir de la grâce = to have grace. Feminine noun ('la grâce', plural 'les grâces') inherited through Romance vocabulary, used in everyday and professional French for 'grace'."
+        },
+        {
+          "en": "grâce à = thanks to",
+          "note": "Feminine noun ('la grâce', plural 'les grâces') inherited through Romance vocabulary, used in everyday and professional French for 'grace'."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "la grâce",
+              "les grâces"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
       "examples": [
         {
           "text": "Vous avez de la grâce.",
@@ -3832,40 +3867,6 @@
           "trans": "You have grace. Yes, that's it, grace."
         }
       ],
-      "forms": {
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "la grâce",
-              "les grâces"
-            ]
-          }
-        ],
-        "title": "Forms"
-      },
-      "gender": "f",
-      "gloss": "grace, charm",
-      "lemma": "grâce",
-      "meanings": [
-        {
-          "en": "grace, elegance, charm",
-          "note": "avoir de la grâce = to have grace"
-        },
-        {
-          "en": "grâce à = thanks to",
-          "note": ""
-        }
-      ],
-      "moreForms": [],
-      "plural": "grâces",
-      "pos": "noun",
-      "stress": "ɡʁɑs",
       "related": [
         {
           "word": "grâce à",
@@ -4961,6 +4962,18 @@
       ]
     },
     "simplement": {
+      "lemma": "simplement",
+      "stress": "sɛ̃plmɑ̃",
+      "pos": "adv",
+      "gloss": "simply, just",
+      "meanings": [
+        {
+          "en": "simply, just",
+          "note": "Manner adverb formed by adding '-ment' (from Latin 'mente', 'with a ... mind') to the feminine adjective stem."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
       "examples": [
         {
           "text": "C'est simplement parfait.",
@@ -4975,18 +4988,6 @@
           "trans": "You simply collect the profits."
         }
       ],
-      "forms": null,
-      "gloss": "simply, just",
-      "lemma": "simplement",
-      "meanings": [
-        {
-          "en": "simply, just",
-          "note": "Manner adverb formed by adding '-ment' (from Latin 'mente', 'with a ... mind') to the feminine adjective stem."
-        }
-      ],
-      "moreForms": [],
-      "pos": "adv",
-      "stress": "sɛ̃pləmɑ̃",
       "related": [
         {
           "word": "simple",
@@ -5710,6 +5711,26 @@
       ]
     },
     "à": {
+      "lemma": "à",
+      "stress": "a",
+      "pos": "prep",
+      "gloss": "at, in, to",
+      "meanings": [
+        {
+          "en": "at, in",
+          "note": "Place: à Paris, à mon cours. Core French preposition meaning 'at', linking a noun phrase or infinitive complement to the clause."
+        },
+        {
+          "en": "at",
+          "note": "Time: à midi. Core French preposition meaning 'at', linking a noun phrase or infinitive complement to the clause."
+        },
+        {
+          "en": "au = à + le, aux = à + les",
+          "note": "Contractions. Core French preposition meaning 'at', linking a noun phrase or infinitive complement to the clause."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
       "examples": [
         {
           "text": "Je suis à Paris.",
@@ -5724,27 +5745,12 @@
           "trans": "We're at the Westin."
         }
       ],
-      "forms": null,
-      "gloss": "at, in, to",
-      "lemma": "à",
-      "meanings": [
+      "related": [
         {
-          "en": "at, in",
-          "note": "place: à Paris, à mon cours"
-        },
-        {
-          "en": "at",
-          "note": "time: à midi"
-        },
-        {
-          "en": "au = à + le, aux = à + les",
-          "note": "contractions"
+          "word": "à",
+          "gloss": "at"
         }
-      ],
-      "moreForms": [],
-      "pos": "prep",
-      "stress": "a",
-      "related": []
+      ]
     },
     "été": {
       "lemma": "été",

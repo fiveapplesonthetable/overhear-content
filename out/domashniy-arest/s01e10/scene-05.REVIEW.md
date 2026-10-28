@@ -1,10 +1,10 @@
 # domashniy-arest-s01e10-scene-05: review sheet
 
-Title: Проблема в детском саду (Lyosha's Kindergarten Problem)
+Title: Проблема в детском саду  (Lyosha's Kindergarten Problem)
 Level: A1 — Duolingo Section 2
 Pair: ru-en
 Source: Домашний арест (Domashniy Arest) S1.10
-Cues 155-185. Arkady talks to Lyosha about unfair treatment at kindergarten, where the teacher favors a bully named Petukhov. Arkady gives his word of honor that things will change, impressing Marina with his rapport with the boy.
+
 
 Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
@@ -28,8 +28,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'They don't let you play with the fire truck?' Arkady uses a third-person plural impersonal construction.
-- 'No, and they don't let me play with the tank either.' Lyosha specifies another denied toy with the instrumental case.
-- 'The teacher yells at everyone except Petukhov!' The preposition meaning 'except' governs the genitive case.
+- 'No, and they don't let me play with the tank either.' Lyosha specifies another denied toy with the 'with/as' form.
+- 'The teacher yells at everyone except Petukhov!' The preposition meaning 'except' governs the 'of' form.
 - 'And why does she yell at everyone?' Arkady asks for the cause behind the kindergarten teacher's bias.
 - 'Because his dad comes by often.' The causal conjunction introduces the explanation for favoritism.
 - 'And this teacher is not Petukhov's mom?' Arkady checks whether family ties explain the unfairness.
@@ -38,6 +38,6 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'No, they definitely will not let me.' The negative pronoun with a modal adverb expresses Lyosha's skepticism.
 - 'If they don't let you, you won't go there anymore!' Arkady offers a conditional promise with a future verb.
 - 'Really? Is that a boy's word of honor?' Lyosha seeks reassurance through a popular colloquial idiom.
-- 'Yes, word of honor, we have a deal.' Arkady seals the masculine agreement with a past reflexive verb.
+- 'Yes, word of honor, we have a deal.' Arkady seals the masculine agreement.
 - 'I didn't understand how you managed that.' Marina expresses surprise at Arkady's rapport with her son.
 - 'These are our little men's secrets!' Arkady humorously maintains his male solidarity with young Lyosha.

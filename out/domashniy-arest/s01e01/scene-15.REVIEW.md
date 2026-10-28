@@ -4,27 +4,27 @@ Title: Новости по телевизору  (News on TV)
 Level: A1 — Duolingo Section 2
 Pair: ru-en
 Source: Домашний арест (Domashniy Arest) S1.01
-Arkady is absent: Samson is the viewpoint character (`anya`, label Самсон). The TV newsreader is a voiced role. The source's crude wording of the 'kiss' is retold cleanly.
+
 
 Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Нина | Ну, Ваня! Ты всё сделал, а работы нет. | Oh, Vanya! You did everything, and there's no job. | new | new: new: clean retelling of cues 577-578 (the humiliating 'kiss' for the mayor) |
-| 2 | Аня | А что ты кричишь? | Why are you shouting? | #580 00:35:31: А что ты | adapted: орёшь-то -> кричишь (plain word) |
+| 2 | Самсон | А что ты кричишь? | Why are you shouting? | #580 00:35:31: А что ты | adapted: орёшь-то -> кричишь (plain word) |
 | 3 | Нина | Что я кричу? Я жить нормально хочу! | Why am I shouting? I want to live a normal life! | #582 00:35:36: Я жить нормально хочу | adapted: 'Что я кричу?' adapts cue 581 'Че я ору?' (орать -> кричать) |
-| 4 | Аня | А что я мог сделать? | And what could I do? | new | new: new: plain version of cue 586 'Как тебе подстраховаться?' |
+| 4 | Самсон | А что я мог сделать? | And what could I do? | new | new: new: plain version of cue 586 'Как тебе подстраховаться?' |
 | 5 | Нина | Надо было у него расписку взять. | You should have got a receipt from him. | #587 00:35:46: Надо было у него расписку взять | verbatim |
-| 6 | Аня | Расписку? У мэра? | A receipt? From the mayor? | new | new: new |
+| 6 | Самсон | Расписку? У мэра? | A receipt? From the mayor? | new | new: new |
 | 7 | Нина | Да! Даже ребёнок знает. | Yes! Even a child knows. | #588 00:35:48: даже ребенок знает | adapted: 'Да!' new; the speaker of cue 588 is unclear in the source, given to Nina |
-| 8 | Аня | Юля, иди уроки учи! | Yulia, go and do your homework! | #589 00:35:50: Иди уроки учи | adapted: 'Юля' added as address (the daughter is listening in) |
+| 8 | Самсон | Юля, иди уроки учи! | Yulia, go and do your homework! | #589 00:35:50: Иди уроки учи | adapted: 'Юля' added as address (the daughter is listening in) |
 | 9 | Нина | Ой, смотри! Новости. | Oh, look! The news. | new | new: new: the TV news starts (cue 593) |
-| 10 | Диктор | Задержан мэр города Аркадий Аникеев. | The town's mayor, Arkady Anikeev, has been detained. | #593 00:36:08: Задержан мэр города<br>#593 00:36:08: Аркадий Аникеев | adapted: town name (garbled in the cue) left out |
-| 11 | Аня | Что? Наш Аркашка? | What? Our Arkasha? | new | new: new: Samson's reaction; Аркашка is the childhood name used in the show (cue 609) |
-| 12 | Диктор | Суд решил: домашний арест по месту прописки. | The court has decided: house arrest at his registered address. | #596 00:36:19: домашний арест по месту прописки | adapted: 'Суд решил' simplifies 'суд, который избрал меру пресечения' (595-596) |
+| 10 | Самсон | Задержан мэр города Аркадий Аникеев. | The town's mayor, Arkady Anikeev, has been detained. | #593 00:36:08: Задержан мэр города<br>#593 00:36:08: Аркадий Аникеев | adapted: town name (garbled in the cue) left out |
+| 11 | Самсон | Что? Наш Аркашка? | What? Our Arkasha? | new | new: new: Samson's reaction; Аркашка is the childhood name used in the show (cue 609) |
+| 12 | Самсон | Суд решил: домашний арест по месту прописки. | The court has decided: house arrest at his registered address. | #596 00:36:19: домашний арест по месту прописки | adapted: 'Суд решил' simplifies 'суд, который избрал меру пресечения' (595-596) |
 | 13 | Нина | По месту прописки? Это же здесь, у нас! | At his registered address? But that's here, at our place! | new | new: new: Arkady is still registered in the communal flat (scene 16) |
-| 14 | Диктор | Новый мэр — заместитель Аникеева. | The new mayor is Anikeev's deputy. | #600 00:36:28: заместитель Аникеева | adapted: simplified from cue 600 (the deputy, Pasha, is appointed acting mayor) |
-| 15 | Аня | Вот это новости! | Well, that's news! | new | new: new |
+| 14 | Самсон | Новый мэр — заместитель Аникеева. | The new mayor is Anikeev's deputy. | #600 00:36:28: заместитель Аникеева | adapted: simplified from cue 600 (the deputy, Pasha, is appointed acting mayor) |
+| 15 | Самсон | Вот это новости! | Well, that's news! | new | new: new |
 | 16 | Нина | И работы нет, и мэра нет. | No job, and no mayor either. | new | new: new: Nina's wry summing-up |
 
 ## Walk-through narration (English only, no target-language words quoted)

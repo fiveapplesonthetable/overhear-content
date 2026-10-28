@@ -28,7 +28,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'What is our candidate like? Simple, hardworking, one of our own!' The third adjective literally means 'one's own' — someone who belongs to us, a local man of the people.
-- 'Not in word, but in deed! Everyone chatters, while I work.' Both 'word' and 'deed' are in the instrumental case: by word, by deed. Then Arkady sharpens the slogan.
+- 'Not in word, but in deed! Everyone chatters, while I work.' Both 'word' and 'deed' are in the 'with/as' form: by word, by deed. Then Arkady sharpens the slogan.
 - 'No, better like this: everyone talks, while I do! Excellent.' Outside the building, reporters have already gathered on the pavement, and Samson has to duck past them into the flat. He bursts into the hallway shouting for his daughter.
 - 'Yulia, what have you done?' Yulia isn't sorry at all.
 - 'What? Dad is a star now!' Literally 'Dad by us is now a star'.
@@ -37,7 +37,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'There are reporters out on the street! They're waiting for me!' Just then, Arkady steps out into the corridor with his arms spread wide like a statesman.
 - 'My friends, please don't quarrel.' Putting 'my' after 'friends' gives it a warm, theatrical ring.
 - 'In fact, yesterday was a fateful day.' The long adjective comes from the words for 'fate' and 'carry': a day that brings destiny.
-- 'Do you think ordinary Vanya Samsonov is standing before you?' After the preposition 'before' or 'in front of', 'you' takes the instrumental form.
+- 'Do you think ordinary Vanya Samsonov is standing before you?' After the preposition 'before' or 'in front of', 'you' takes the 'with'-form form.
 - 'Who else, then?' Samson looks at him as if he is crazy, and Arkady delivers his grand announcement.
 - 'No, my friends! Standing before you is Ivan Vasilyevich Samsonov.' No longer 'Vanya', but full first name, patronymic and surname.
 - 'He is the future mayor of Sineozersk!' Samson, Nina and Yulia stare at Arkady in stunned silence.

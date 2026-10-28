@@ -27,16 +27,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Sanya, answer me urgently!' Arkady demands immediate attention over the phone line.
-- 'Sanya, I have a day off.' In Russian, the possessive pronoun appears with genitive.
+- 'Sanya, I have a day off.' In Russian, the possessive pronoun appears with 'of'-form.
 - 'Forget the day off!' A colourful colloquial Russian idiom meaning disregard it.
-- 'Marina works for Osipenko.' The preposition with accusative marks who she works for.
+- 'Marina works for Osipenko.' The preposition with object-form marks who she works for.
 - 'What makes you think that?' A set conversational phrase asking for evidence.
 - 'She kept questioning me about the money.' The prefix indicates persistent questioning.
 - 'Your romantic love or what?' An ironic tag question expressing teasing disbelief.
-- 'I told her about the kindergarten.' The preposition with accusative introduces topic.
+- 'I told her about the kindergarten.' The preposition with object-form introduces topic.
 - 'Supposedly hid the cash in Golden Key.' The modal particle expresses allegation.
-- 'And what should I do now?' An infinitive question asking for direction and instructions.
-- 'Can you go there and check?' Notice the pair of perfective infinitives after modal.
+- 'And what should I do now?' An action verb question asking for direction and instructions.
+- 'Can you go there and check?' Notice the pair of single-action form infinitives after modal.
 - 'We need to see if everything is quiet there.' The particle serves as whether in indirect.
 - 'Understood.' The masculine past tense verb is used colloquially for message received.
 - 'I am already driving out.' The prefix indicates motion starting outward by vehicle.

@@ -40,7 +40,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'And this is my wife, Victoria.' Victoria is the full form of her name, a little more formal. Vika notices something.
 - 'Arkasha, what's happened to your finger?' Literally 'what with the finger?' She uses the affectionate form of his name. He plays it down.
 - 'Nothing serious. Now we're one team.' The first phrase means 'nothing terrible', the normal way to say it's no big deal. And then his big idea, team spirit.
-- 'Vika, which car did you come in today?' In Russian you arrive 'on' a car, so the word for 'on' comes first. Vika answers in the same way.
+- 'Vika, which car did you come in today?' Arkady uses the informal singular 'you' here with 'came', as friends and close colleagues do.
 - 'The Cayenne.' That's her white Porsche, a very expensive car. The name is masculine in Russian.
 - 'The white one? Give me the keys.' 'White' is masculine, to match the car's name. And the second sentence is a blunt way of saying 'hand them over'. Arkady turns to Samson.
 - 'Vanya, this is yours now. And it's only the beginning.' The word for 'yours' here is the casual one, for a friend. Vika is speechless.

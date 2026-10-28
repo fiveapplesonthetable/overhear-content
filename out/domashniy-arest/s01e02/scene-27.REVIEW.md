@@ -11,13 +11,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Губернатор | Ну что, все лайкнули? | Well, has everyone liked it? | #918 00:49:43: Ну что, все лайкнули | verbatim |
-| 2 | Ксения | Вот здесь сердечко, видите? Жмите на него. | There's a little heart right here, see? Press it. | #922 00:50:21: вот здесь сердечко, видите<br>#923 00:50:23: жмите на него | adapted: 'Ну' dropped twice; said to an older official |
+| 2 | Ксюша | Вот здесь сердечко, видите? Жмите на него. | There's a little heart right here, see? Press it. | #922 00:50:21: вот здесь сердечко, видите<br>#923 00:50:23: жмите на него | adapted: 'Ну' dropped twice; said to an older official |
 | 3 | Губернатор | Сколько там? | How many is it? | #931 00:50:45: сколько там | adapted: 'Ну что' dropped |
-| 4 | Ксения | Сто семнадцать лайков. | A hundred and seventeen likes. | #932 00:50:47: лайков | adapted: the number written out in words |
+| 4 | Ксюша | Сто семнадцать лайков. | A hundred and seventeen likes. | #932 00:50:47: лайков | adapted: the number written out in words |
 | 5 | Губернатор | А почему так мало? | And why so few? | #933 00:50:48: так мало | adapted: colloquial 'чего ... -то' -> 'почему' |
-| 6 | Ксения | Мы же только начинаем. Через месяц будет пять тысяч. | But we're only just starting. In a month there'll be five thousand. | #934 00:50:50: мы же только начинаем<br>#934 00:50:50: Через месяц | adapted: 'по 5 тысяч' -> 'пять тысяч' |
+| 6 | Ксюша | Мы же только начинаем. Через месяц будет пять тысяч. | But we're only just starting. In a month there'll be five thousand. | #934 00:50:50: мы же только начинаем<br>#934 00:50:50: Через месяц | adapted: 'по 5 тысяч' -> 'пять тысяч' |
 | 7 | Губернатор | Смотри, не будет — я тебя уволю. | Watch out: if there aren't, I'll fire you. | #935 00:50:53: Смотри, не будет<br>#935 00:50:53: я тебя уволю | verbatim |
-| 8 | Ксения | Виктор Степанович, вам звонит Третьяков! | Viktor Stepanovich, Tretyakov is calling you! | new | new: tells the listener who is (supposedly) on the line |
+| 8 | Ксюша | Виктор Степанович, вам звонит Третьяков! | Viktor Stepanovich, Tretyakov is calling you! | new | new: tells the listener who is (supposedly) on the line |
 | 9 | Губернатор | Так, тихо все! Алло? | Right, quiet, everyone! Hello? | #938 00:51:01: Так, тихо все | adapted: 'Алло?' added |
 | 10 | Аня | Ты меня слышишь? Почему у вас Аникеев под арестом? | Can you hear me? Why is Anikeev under arrest over there? | #949 00:51:28: Почему у вас<br>#949 00:51:28: под арестом | adapted: garbled 'антикейф' read as 'Аникеев'; first sentence new, standing in for the mocking cues 942-948 |
 | 11 | Губернатор | Ну так он же на взятке попался. | Well, he got caught taking a bribe. | #951 00:51:34: Ну так он же | adapted: 'на взятки' -> 'на взятке' |
@@ -31,7 +31,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, has everyone liked it?' The verb is new, but you may recognise it: it's the English word 'like', given Russian endings, for clicking 'like' online. One older official is struggling, so the assistant, Ksenia, shows her how.
+- 'Well, has everyone liked it?' Listen for the word meaning 'liked', which leads straight into 'liked'.
 - 'There's a little heart right here, see?' The word for 'heart' has a small, cute ending: a little heart. Then a clear instruction.
 - 'Press it.' Literally 'press on it'. It's the polite command, because the official is older. The governor wants numbers.
 - 'How many is it?' The first word means 'how many' or 'how much'. Ksenia checks her phone.
