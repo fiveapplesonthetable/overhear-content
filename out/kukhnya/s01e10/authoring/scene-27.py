@@ -10,18 +10,18 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.10'
 SOURCE_FILE = 'sources/kukhnya/s01/e10.ru.dual.srt'
-INTRO = "In the office, Barinov speaks to Max about Vika's family. He has some experience of them, and not good experience. No need to catch everything on the first pass."
+INTRO = "Barinov has overheard the news, and he marches Max off to his office for a talk about Vika's family. He has some experience of them, and not good experience. No need to catch everything on the first pass."
 OPENER = 'Now, step by step.'
 TRANSITION = 'Listen to it once more.'
 OUTRO = "Barinov tells Max he must take responsibility. It's the first time the chef has sounded fatherly. Talk soon."
 CLOSING = ('barinov', 'Пока!')
 STORY = [
+    ('barinov', 'Ну-ка, пойдём со мной.', 'Come with me, now.', [(188, 'Ну-ка, пойдем со мной')], ''),
     ('barinov', 'Вот это ты сильно попал, парень.', 'Now you are in deep trouble, lad.', [(189, 'Вот это ты попал')], ''),
     ('max', 'Шеф, поверьте, так случайно получилось.', 'Chef, believe me, it just happened accidentally.', [(192, 'Шеф, так получилось')], ''),
     ('barinov', 'Надо было заранее думать головой.', 'You had to think with your head in advance.', [(190, 'Надо было как-то думать')], ''),
     ('max', 'Что же мне теперь делать?', 'What am I to do now?', [], ''),
     ('barinov', 'Их семья теперь не отстанет от тебя.', 'Their family will not leave you alone now.', [(194, 'Теперь они с тебя')], ''),
-    ('max', 'Вы так хорошо знаете эту семью?', 'Do you know this family so well?', [], ''),
     ('barinov', 'Я сам раньше жил в этой семье.', 'I myself used to live in this family.', [(196, 'в их семье'), (198, 'О себе')], ''),
     ('max', 'И они выгнали вас из дома?', 'And did they drive you out of the house?', [(197, 'Выжили')], ''),
     ('barinov', 'Они забрали у меня все силы.', 'They took all strength from me.', [(195, 'Все соки выжмут')], ''),
@@ -31,12 +31,12 @@ STORY = [
     ('barinov', 'Мужчина обязан отвечать за свои поступки.', 'A man is obliged to answer for his actions.', [(201, 'За свои поступки надо отвечать')], ''),
 ]
 WALK = [
-    (0, None, '\'Now you are in deep trouble, lad.\' "Popal", literally "hit", as in hitting a target, here means "you\'ve landed in it". "Paren" is "lad", a casual word. "Vot eto" adds "now that\'s".'),
-    (1, None, '\'Chef, believe me, it just happened accidentally.\' "Poverte" is "believe me", the polite command. "Sluchayno" is "by accident", from "sluchay", "chance". "Tak poluchilos" is "it just turned out that way".'),
-    (2, None, '\'You had to think with your head in advance.\' "Nado bylo", "it was necessary", means "you should have". "Dumat golovoy", "think with the head": "golova" becomes "golovoy". "Zaranee" is "in advance".'),
-    (3, None, '\'What am I to do now?\' "Chto zhe" is "what on earth". "Mne delat", "to me to do", is the Russian for "am I to do". "Teper" is "now". Max asks for help.'),
-    (4, None, '\'Their family will not leave you alone now.\' "Ne otstanet ot tebya", literally "won\'t fall behind you", is "won\'t leave you alone". "Ikh", "their", never changes its ending. "Semya" is "family".'),
-    (5, None, '\'Do you know this family so well?\' "Znaete" is "you know", polite form. "Etu semyu" is "this family": "eta semya" becomes "etu semyu" as the thing known. "Tak khorosho" is "so well".'),
+    (0, None, "'Come with me, now.' 'Nu-ka' in front of an order makes it brisk, like 'come on'. 'Poydyom' is 'let's go', and so mnoy is 'with me': s becomes so before mnoy."),
+    (1, None, '\'Now you are in deep trouble, lad.\' "Popal", literally "hit", as in hitting a target, here means "you\'ve landed in it". "Paren" is "lad", a casual word. "Vot eto" adds "now that\'s".'),
+    (2, None, '\'Chef, believe me, it just happened accidentally.\' "Poverte" is "believe me", the polite command. "Sluchayno" is "by accident", from "sluchay", "chance". "Tak poluchilos" is "it just turned out that way".'),
+    (3, None, '\'You had to think with your head in advance.\' "Nado bylo", "it was necessary", means "you should have". "Dumat golovoy", "think with the head": "golova" becomes "golovoy". "Zaranee" is "in advance".'),
+    (4, None, '\'What am I to do now?\' "Chto zhe" is "what on earth". "Mne delat", "to me to do", is the Russian for "am I to do". "Teper" is "now". Max asks for help.'),
+    (5, None, '\'Their family will not leave you alone now.\' "Ne otstanet ot tebya", literally "won\'t fall behind you", is "won\'t leave you alone". "Ikh", "their", never changes its ending. "Semya" is "family".'),
     (6, None, '\'I myself used to live in this family.\' "Zhil", "lived", is the past of "zhit". "Ranshe", "earlier", gives the "used to". "V etoy seme" is "in this family". Barinov says he was once part of it.'),
     (7, None, '\'And did they drive you out of the house?\' "Vygnali", "drove out", is the verb Kostya used in "vygnat s kukhni". "Iz doma" is "out of the house": "dom" becomes "doma" after "iz". Max guesses at the story.'),
     (8, None, '\'They took all strength from me.\' "Zabrali u menya", literally "took at me", is how Russian says "took from me". "Vse sily" is "all strength", and "sily" is plural. Barinov sounds worn out.'),
