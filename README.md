@@ -11,7 +11,7 @@ a script, annotations and one picture:
 
 | show | slug | language | sidecars in `sources/` |
 |---|---|---|---|
-| Кухня (Kukhnya) | `kukhnya` | ru | S1 e01-20, S2 e01-03 (see `sources/INDEX.md`) |
+| Кухня (Kukhnya) | `kukhnya` | ru | S1 e01-20, S2 e01-03 dual; S2 e04-S6 e20 Russian only (see `sources/INDEX.md`) |
 | Dix pour cent (Call My Agent!) | `dix-pour-cent` | fr | S1-S4, 6 episodes each |
 | Домашний арест (Domashniy Arest) | `domashniy-arest` | ru | S1 e01-12 |
 
@@ -45,8 +45,11 @@ The narrator speaks **English only**, calm, no hype. Target-language text must r
 1. Kukhnya S1, e01 -> e20 in order.
 2. Dix pour cent S1, e01 -> e06.
 3. Domashniy Arest S1, e01 -> e12.
-4. Remaining Kukhnya (S2 e01-03 are available; S3-S6 sidecars are not in this repo yet: if they appear in `sources/`,
-   continue S2 e04.. through S6 in order), then Dix pour cent S2, S3, S4.
+4. Kukhnya S2 e01-03, then Dix pour cent S2, S3, S4.
+5. Kukhnya S2 e04 -> S6 e20 last. These are `eNN.ru.srt` (Russian only, machine transcribed, no English yet). Do them
+   only after everything above, and prefer waiting: when an `eNN.ru.dual.srt` appears next to one, use that instead.
+   If you do work from a Russian-only file, translate it yourself for your own understanding, and note in
+   `out/kukhnya/NOTES.md` that the transcript may have recognition errors.
 
 Finish an episode completely (all scenes, notes, art, validated, pushed) before starting the next.
 
