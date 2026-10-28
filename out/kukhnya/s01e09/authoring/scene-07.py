@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.09'
 SOURCE_FILE = 'sources/kukhnya/s01/e09.ru.dual.srt'
-INTRO = "The knife has been found, and Max has it. In the kitchen he reports to Barinov, who is not as grateful as Max hoped. Alisa, the chef's daughter, is at the centre of this one too. Here they are in Russian first."
-OPENER = "Let's go back through this one slowly."
-TRANSITION = "Now let's hear every line again, in order."
-OUTRO = 'Barinov has a problem on his hands, and the solution, Aunt Vika, is waiting in the dining room. Max follows it all with a grin. See you in the next scene.'
+INTRO = "The knife has been found, and Max has it. In the kitchen he reports to Barinov, who is not as grateful as Max hoped. Alisa, the chef's daughter, is at the centre of this one too. Here is how it goes."
+OPENER = "Let's see what each line is doing."
+TRANSITION = "Let's hear it as a whole again."
+OUTRO = 'Barinov has a problem on his hands, and the solution, Aunt Vika, is waiting in the dining room. Max follows it all with a grin. Happy listening.'
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('max', 'Шеф, я наконец забрал ваш любимый нож.', 'Chef, I finally retrieved your favorite knife.', [(179, 'мой нож')], ''),
@@ -30,7 +30,7 @@ STORY = [
     ('barinov', 'Ладно, я отведу её к тёте Вике!', 'All right, I will take her to Aunt Vika!', [(185, 'Ладно')], ''),
 ]
 WALK = [
-    (0, None, '\'Chef, I finally retrieved your favorite knife.\' "Nakonets" is "finally". Max says "vash", the polite "your", because he is speaking to the chef. The russian for "retrieved" is "took" with a small "za" in front.'),
+    (0, None, '\'Chef, I finally retrieved your favorite knife.\' "Nakonets" is "finally". Max says "vash", the polite "your", because he is speaking to the chef. The Russian for "retrieved" is "took" with a small "za" in front.'),
     (1, None, '\'Where did you find it at all, Oguzok?\' "Voobshche" is a filler that means "in general" or "at all", the way English says "where on earth". Oguzok is the nickname Barinov gives Max, and it comes out when the chef is cross.'),
     (2, None, '\'Your daughter was playing with it in the kitchen!\' Russian says "s nim" for "with it", and the "n" appears because pronouns grow an "n" after a small word like "with". The -la on "igrala" is the girl\'s ending, since the daughter is a girl.'),
     (3, None, '\'Could she hurt herself or you?\' "Mogla" is "could", with the -a ending of a girl. "Sebya" means "herself", and it is the same for everyone, he, she, or I. Barinov goes straight to the worry about Alisa.'),
@@ -40,6 +40,6 @@ WALK = [
     (7, None, '\'Stop chattering, go work immediately!\' "Khvatit" is "enough", and "zhivo" means "quick", "look lively". Two quick commands, and the break is over.'),
     (8, None, '\'And what will you do with your daughter?\' Max says "vy", the polite "you", and "chto vy budete delat" is "what you will do". It\'s a risky question to put to the boss, but Max is curious.'),
     (9, None, '\'Alice, what am I to do with you now?\' The Russian is "what to me to do with you", and there is no "should". The name is spelled Alisa in Russian. Barinov stops being a chef for a moment and sounds like a puzzled father.'),
-    (10, None, '\'She will run off to the dining hall again.\' "Ubezhit" is "will run away", where the u- carries the "off". The word for the dining hall comes from "obed", the midday meal, so it\'s literally the "lunch hall". "Snova" is "again".'),
+    (10, None, '\'She will run off to the dining hall again.\' "Ubezhit" is "will run away", where the u- carries the "off". What Russian calls the dining hall comes from "obed", the midday meal, so it\'s literally the "lunch hall". "Snova" is "again".'),
     (11, None, '\'All right, I will take her to Aunt Vika!\' "Otvedu" means "take along", someone you lead by the hand. "K tyote Vike" is "to Aunt Vika", with an ending for "to". So Barinov\'s problem becomes Vika\'s problem.'),
 ]

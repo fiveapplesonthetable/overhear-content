@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'alisa': 'Алиса', 'barinov': 'Шеф'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.09'
 SOURCE_FILE = 'sources/kukhnya/s01/e09.ru.dual.srt'
-INTRO = 'Barinov is alone with Alisa, and the restaurant can wait. His daughter, who is about to say a lot about her parents, asks him a simple question. Here it is in Russian first.'
-OPENER = "Now we'll go back through it slowly."
-TRANSITION = "Now we'll hear it all again, from the top."
-OUTRO = 'Under the joking, Barinov is clearly happy to have Alisa with him. They keep playing. See you in the next scene.'
+INTRO = "Barinov is alone with Alisa, and the restaurant can wait. His daughter, who is about to say a lot about her parents, asks him a simple question. You'll hear it all in Russian before I explain a thing."
+OPENER = "Now we'll go over it."
+TRANSITION = 'Listen again, and see how much more you catch.'
+OUTRO = 'Under the joking, Barinov is clearly happy to have Alisa with him. They keep playing. Goodbye for now.'
 CLOSING = ('alisa', 'Пока!')
 STORY = [
     ('barinov', 'Алиса, как тебе мой ресторан?', 'Alisa, how do you like my restaurant?', [], ''),
@@ -39,11 +39,11 @@ WALK = [
     (4, None, '\'And mom says something else.\' The little word "a" means "and" or "but", and here it turns the corner. "Drugoe" is "other", so "says other" means "says something different". Alisa repeats it exactly as she heard it.'),
     (5, None, '\'She says, thank God, you do not look like him!\' "Slava bogu" is "glory to God", which is how Russians say "thank God". There\'s no "you" in it, just "not similar". Alisa quotes her mother\'s cruel joke and has no idea how it sounds.'),
     (6, None, '\'She was just joking.\' The Russian is in the present: "it she so jokes". "Tak" means "like this" or "that way". Barinov is quick to wave it away, with a straight face.'),
-    (7, None, '\'Do not pay any attention.\' It\'s a fixed phrase, "don\'t turn attention". The word for attention is "vnimanie", and you\'ll see it in plenty of places. He wants her to forget her mother\'s remark.'),
+    (7, None, '\'Do not pay any attention.\' It\'s a fixed phrase, "don\'t turn attention". The Russian for attention is "vnimanie", and you\'ll see it in plenty of places. He wants her to forget her mother\'s remark.'),
     (8, None, '\'Are you handsome too, Dad?\' "Krasivy" means beautiful, and Russians use it for handsome men too. "Tozhe" is "also". It\'s the question a child asks, and the one a father can\'t resist answering.'),
     (9, None, '\'I am the most handsome chef in Moscow!\' "Samy" is "the most", and it sits right before the adjective. "Moskve" ends in -e, which gives you "in Moscow". Barinov is never modest, and this is his favourite subject.'),
     (10, None, '\'But mom says you are very funny.\' "Smeshnoy" means funny, and it can also mean laughable. Alisa doesn\'t know which her mother means. "Ochen", "very", sits in front of it, exactly as in English.'),
-    (11, None, '\'Mom is simply jealous of my talent.\' The russian for "envies" takes "to", so it\'s "envies to my talent". "Prosto" is "simply". It\'s a vain man\'s explanation, and a very Barinov one.'),
+    (11, None, '\'Mom is simply jealous of my talent.\' The Russian for "envies" takes "to", so it\'s "envies to my talent". "Prosto" is "simply". It\'s a vain man\'s explanation, and a very Barinov one.'),
     (12, None, '\'Then let us keep playing!\' "Togda" is "then". "Davay" literally means "give", but in front of another verb it\'s "let\'s". "Dalshe" is "further". She changes the subject like a child who\'s had enough of grown-up talk.'),
     (13, None, '\'I am always ready to play with you.\' "Gotov" is "ready" and "vsegda" is "always". That\'s the soft side of the chef, said plainly. This is the line that makes you like him.'),
 ]

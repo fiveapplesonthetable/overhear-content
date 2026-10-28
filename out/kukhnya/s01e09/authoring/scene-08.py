@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.09'
 SOURCE_FILE = 'sources/kukhnya/s01/e09.ru.dual.srt'
-INTRO = "The restaurant's floor is calm, and Vika is looking after Alisa between her duties. Max comes over to ask for water and notices a little girl at her side. Here's the scene in Russian first."
-OPENER = "Let's take it again, one line at a time."
-TRANSITION = 'Now the whole scene once more, as it happened.'
-OUTRO = 'Max now knows who the girl is, and Vika is not pleased that he knows. Everyone in this kitchen is related to someone. Speak soon.'
+INTRO = "The restaurant's floor is calm, and Vika is looking after Alisa between her duties. Max comes over to ask for water and notices a little girl at her side. Here's the Russian, from the top."
+OPENER = "Let's go back to the beginning."
+TRANSITION = 'Here is the full story once more.'
+OUTRO = 'Max now knows who the girl is, and Vika is not pleased that he knows. Everyone in this kitchen is related to someone. Keep listening.'
 CLOSING = ('vika', 'Пока!')
 STORY = [
     ('max', 'Вика, налей немного воды, пожалуйста.', 'Vika, pour a little water, please.', [(193, 'Костя, налей водички, пожалуйста')], ''),
@@ -33,7 +33,7 @@ WALK = [
     (0, None, '\'Vika, pour a little water, please.\' "Naley" is "pour", as a bare command. "Nemnogo vody" is "a little of water", with an ending that means "some of". And "pozhaluysta" is both "please" and "you\'re welcome". It\'s a very useful word.'),
     (1, None, '\'Kostya will pour for you, and I have no time.\' "Tebe nalyot" is "to you will pour". "Mne nekogda" is "to me no-time", one little word where English needs three. Vika is busy, and she\'s quick about it.'),
     (2, None, '\'Wow, I did not know about your children!\' "Ogo" is the sound of surprise, like "wow". Max says "ya ne znal" with the man\'s -l on the end. Then it\'s "about your children", which has its own plural ending.'),
-    (3, None, '\'This is not my daughter, but my niece.\' "A" after "ne" means "but rather". Max would say "moy" for a masculine thing, but a daughter is feminine, so it\'s "moya". The russian for niece is "plemyannitsa". Vika sets him straight.'),
+    (3, None, '\'This is not my daughter, but my niece.\' "A" after "ne" means "but rather". Max would say "moy" for a masculine thing, but a daughter is feminine, so it\'s "moya". The Russian for niece is "plemyannitsa". Vika sets him straight.'),
     (4, None, '\'She looks very much like you externally.\' Max says "pokhozha na tebya" again, the same words Alisa used in the office. "Vneshne" means "on the outside". This is a kind of compliment, and a nosy one.'),
     (5, None, '\'Her name is Alice, and she is a good girl.\' Russian says "her they-call Alisa", with no "name" in it at all. "Khoroshaya devochka" is "good little girl". Vika, who is proud of her, says it lightly.'),
     (6, None, '\'And why is she talking about our chef?\' "Pochemu" is "why", and "pro" is "about". "Nashego shefa" is "our chef", with an ending that shows he\'s the one being talked about. Max can\'t see why a child cares about the chef.'),

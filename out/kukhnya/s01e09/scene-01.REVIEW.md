@@ -28,14 +28,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Chef, I have big problems.' The Russian has no word for "have". It says "at me big problems", and you'll meet that "at me" pattern again and again. Louis opens with the title to get the chef's attention.
 - 'What happened in the kitchen again?' Barinov has heard this before. The small word for "again" carries all his weariness, and the word is the everyday "what happened?".
-- 'I urgently need a good assistant.' Louis doesn't say "I need". He says "to me needed a good assistant". The word for "urgently", "srochno", is what you'd stamp on a parcel that can't wait.
+- 'I urgently need a good assistant.' Louis doesn't say "I need". He says "to me needed a good assistant". The Russian for "urgently", "srochno", is what you'd stamp on a parcel that can't wait.
 - 'Why are you not working alone?' Barinov says "ty", the casual "you", as a boss does to someone on his team. And the Russian for "alone", "odin", is also the number one.
 - 'I alone will not manage today.' Louis takes the chef's own word "odin" and hands it straight back. The term for "manage" means coping with a job that is too big, and you'll hear it a lot in any kitchen.
 - 'Do you have too much work?' Again it's "at you", with no "have". The little word "slishkom" is "too". And there's no question word here, only the voice going up at the end.
 - 'A very big banquet order arrived.' Word for word it's "came a very big order". Russian orders "come" where English ones "arrive". "Zakaz" is the order, and the Russian for banquet, "banket", is nearly the English one.
 - 'What exactly needs to be prepared?' Barinov wants the list, like a cook. "Imenno" is the word that adds "exactly". And "nuzhno" is "needed", a cousin of "nuzhen", which Louis used earlier.
 - 'Fresh croissants and a big cake.' There's no verb at all, just a list. "Kruassany" is the French croissant spelled in Russian letters, so you can almost guess it. Cake is "tort".
-- 'Max will work with you.' Barinov decides on the spot. "With you" is "s toboy", because the word for "you" changes shape after "with". "Budet" is "will be", and joined to "work" it makes the future.
+- 'Max will work with you.' Barinov decides on the spot. "With you" is "s toboy", because the term for "you" changes shape after "with". "Budet" is "will be", and joined to "work" it makes the future.
 - 'But he does not know how to do anything.' Louis piles up the no's: "nichego" is "nothing", and "ne", "not", comes as well. Russian wants both, and that's correct. It means "knows how to", a skill and not a fact.
 - 'He will peel and cut.' Two small jobs, joined by the little word "i", "and". These are the beginner's tasks, the ones with a peeler and a knife. Barinov isn't giving Max anything fancy.
 - 'Fine, let him wash the dishes.' "Ladno" is the all-purpose "okay, have it your way". "Pust" makes the "let him", and "posuda" is the whole pile of dishes. Louis gives in, but with a sulk.

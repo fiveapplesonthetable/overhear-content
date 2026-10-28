@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'louis': 'Луи', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.09'
 SOURCE_FILE = 'sources/kukhnya/s01/e09.ru.dual.srt'
-INTRO = "Max has been given to Louis for the day, and Louis has an anniversary cake to make for a bank's banquet. In the pastry section the two of them work, and Louis can't stop giving orders. Here is their baking lesson in Russian first."
-OPENER = "Now let's slow it down."
-TRANSITION = 'Here it is again in full, without the pauses.'
-OUTRO = "The cake is coming along nicely, and then a knife goes missing. We'll find out where it went in the next scene. Bye for now."
+INTRO = "Max has been given to Louis for the day, and Louis has an anniversary cake to make for a bank's banquet. In the pastry section the two of them work, and Louis can't stop giving orders. See what you can catch."
+OPENER = "Here's what is going on, line by line."
+TRANSITION = 'Now you can hear it all again.'
+OUTRO = "The cake is coming along nicely, and then a knife goes missing. We'll find out where it went in the next scene. Until the next scene."
 CLOSING = ('louis', 'Пока!')
 STORY = [
     ('louis', 'Макс, быстрее! Уже пора добавлять яйца.', 'Max, faster! It is time to add the eggs.', [(160, 'Быстрее. Уже пора добавлять яйца.')], ''),
@@ -36,13 +36,13 @@ WALK = [
     (1, None, '\'Louis, I am doing everything according to the recipe.\' "Po retsepty" is "by the recipe", with "po" meaning "by" or "according to". Max uses "ty" with Louis, and Louis\'s name needs no change at all. He sounds a little hurt.'),
     (2, None, '\'Usually I make the filling right away.\' "Obychno" is "usually" and "srazu" is "right away", which you heard when Louis first asked for a helper. Louis is explaining how a proper pastry chef works, and he can\'t resist.'),
     (3, None, '\'Stir evenly, so there are no lumps.\' "Meshay" is "stir", and "chtoby" is "so that". The term for lumps is "komochki", little lumps, and Russians often make a thing smaller and sweeter in the ending like this. It\'s a kitchen word.'),
-    (4, None, '\'How much chocolate needs to be melted?\' Russian says "how much of chocolate". The russian for melt, "razogret", is really "warm up", and in a kitchen that means melting. Max asks it because he doesn\'t know yet.'),
+    (4, None, '\'How much chocolate needs to be melted?\' Russian says "how much of chocolate". The Russian for melt, "razogret", is really "warm up", and in a kitchen that means melting. Max asks it because he doesn\'t know yet.'),
     (5, None, '\'And melt the chocolate in a water bath.\' Russian calls it a "water banya". A banya is the Russian steam bath, a bathhouse, so a bain-marie is literally a little steam bath for the chocolate. It\'s a lovely picture.'),
-    (6, None, '\'All right, white or dark chocolate?\' "Ili" is "or". The Russian for dark chocolate is "temny", which really means "dark" and not "black". Max is learning fast, and he knows to ask before he melts.'),
+    (6, None, '\'All right, white or dark chocolate?\' "Ili" is "or". What Russian calls dark chocolate is "temny", which really means "dark" and not "black". Max is learning fast, and he knows to ask before he melts.'),
     (7, None, '\'Only white, for the bank logo!\' "Tolko" is "only". "Logotip banka" is "logo of bank", and Russian has no little word for "of". The ending on "bank" does that job. Louis answers at once, like a man with a plan.'),
     (8, None, '\'Oh, the phone is ringing, one second.\' "Telefon zvonit" is "the phone rings". "Odnu sekundu" is "one second", the same as English "just a sec". He leaves Max with the bowl. This is where things start to go wrong.'),
     (9, None, '\'Hello? No, right now I am in the kitchen.\' "Allo" is what you say on the phone, and only on the phone. "Seychas ya na kukhne" repeats "on the kitchen" from the last scene. Louis speaks to a caller we never hear.'),
-    (10, None, '\'Louis, I finished whipping the cream.\' The word for "finished" ends in -l because Max is a man. A woman would say "zakonchila". "Krem" is the sweet cream here, and the Russian for whipping is "vzbivat". Max is pleased with himself.'),
+    (10, None, '\'Louis, I finished whipping the cream.\' The term for "finished" ends in -l because Max is a man. A woman would say "zakonchila". "Krem" is the sweet cream here, and the Russian for whipping is "vzbivat". Max is pleased with himself.'),
     (11, None, '\'Oh, thank you, great job!\' "Spasibo", "thank you", began as a short prayer, "God save". Louis moves from nagging to praise in one breath. "Otlichnaya rabota" is "excellent work", which any boss is glad to hear.'),
     (12, None, '\'Wait, where is my favorite knife?\' "Postoy" is "wait", and "lyubimy" is "favourite", from the term for "love", so it\'s really "beloved". The kitchen\'s mood changes. Louis has stopped praising.'),
     (13, None, '\'I did not touch your knife, Louis.\' Max uses "tvoy", "your", the casual one. His "trogal" ends in -l, the man\'s ending. A woman would say "ne trogala" with an -a. Max denies it, but nobody is listening.'),

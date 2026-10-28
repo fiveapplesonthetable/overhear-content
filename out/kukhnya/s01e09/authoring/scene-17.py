@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'tanya': 'Таня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.09'
 SOURCE_FILE = 'sources/kukhnya/s01/e09.ru.dual.srt'
-INTRO = "The banquet is winding down, and Alisa's mother Tanya arrives at the restaurant to pick her up. Barinov has some explaining to do, and he does not want to do it. Here's the scene in Russian first."
-OPENER = "Let's go through it again, slowly."
-TRANSITION = "Now we'll hear every line again."
-OUTRO = "Tanya has seen through him in a second, and Barinov is running after her. It's a family argument, in a restaurant. Speak soon."
+INTRO = "The banquet is winding down, and Alisa's mother Tanya arrives at the restaurant to pick her up. Barinov has some explaining to do, and he does not want to do it. Here is how they put it."
+OPENER = 'First line first.'
+TRANSITION = 'Time to hear it all again.'
+OUTRO = "Tanya has seen through him in a second, and Barinov is running after her. It's a family argument, in a restaurant. Catch you next time."
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('tanya', 'Виктор, добрый вечер. Где Алиса?', 'Viktor, good evening. Where is Alisa?', [(314, 'Где Алиса?')], ''),
@@ -37,11 +37,11 @@ WALK = [
     (3, None, '\'You do not mind, Tanya?\' The little word "zhe" makes it half a question and half a plea. It\'s the same "but you know" word the chef used on Alisa. Barinov is trying a friendly tone, and it\'s wobbling.'),
     (4, None, '\'Well, if she decided so herself.\' Tanya uses "herself" and "so" in one short sentence. She isn\'t convinced, but she gives him a little room. There\'s a warning in the "well" at the start.'),
     (5, None, '\'Let us go, I will quickly say goodbye to her.\' Tanya\'s "let\'s go" is the one Alisa used in the dining room. The farewell word ends in -sya, "bid farewell". She wants to see her daughter, and she is not wasting time.'),
-    (6, None, '\'What for? I will pass on everything myself!\' The russian for "what for" is not quite "why". It means "to what purpose". And "pass on" is literally "give across". Barinov is panicking, and the speed gives him away.'),
-    (7, None, '\'She is having fun there in the kitchen.\' The word for "have fun" is "amuse oneself", with the -sya again. It\'s the line of a man with no real plan. He says "in the kitchen" with an easy smile, and it doesn\'t convince.'),
+    (6, None, '\'What for? I will pass on everything myself!\' The Russian for "what for" is not quite "why". It means "to what purpose". And "pass on" is literally "give across". Barinov is panicking, and the speed gives him away.'),
+    (7, None, '\'She is having fun there in the kitchen.\' What Russian calls "have fun" is "amuse oneself", with the -sya again. It\'s the line of a man with no real plan. He says "in the kitchen" with an easy smile, and it doesn\'t convince.'),
     (8, None, '\'She asked me to say goodbye to you.\' The goodbye here is the same word that means "while" in the cake scene. "Asked" has the woman\'s ending, which tells you that the child is a girl. Barinov is inventing messages from his daughter.'),
-    (9, None, '\'Wait, what happened to her?\' "What with her happened" is the Russian, and the happening word is the one from the first scene\'s question. Tanya\'s "right" at the start works like a snap. She is not stupid.'),
-    (10, None, '\'Everything is fine, she is just playing.\' The russian for "normal" is the same as in English. Barinov says it twice, almost, and the repetition tells you he is lying. A calm voice is the hardest thing to fake.'),
+    (9, None, '\'Wait, what happened to her?\' "What with her happened" is the Russian, and the happening word was heard in the first scene\'s question. Tanya\'s "right" at the start works like a snap. She is not stupid.'),
+    (10, None, '\'Everything is fine, she is just playing.\' The Russian for "normal" equals in English. Barinov says it twice, almost, and the repetition tells you he is lying. A calm voice is the hardest thing to fake.'),
     (11, None, '\'And you still have not learned how to lie.\' "So and not learned" is how Russian says "never did learn". Tanya sounds fond and weary at the same time. She has known him for years, and she\'s seen all of it.'),
     (12, None, '\'Tanya, wait, I will explain everything!\' The "wait" word is the one Barinov used on Louis. He uses her first name and then runs after her. The scene ends mid-chase, which is a good place to end it.'),
 ]

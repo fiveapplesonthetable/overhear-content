@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'alisa': 'Алиса', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.09'
 SOURCE_FILE = 'sources/kukhnya/s01/e09.ru.dual.srt'
-INTRO = 'A banquet is about to start, and Vika has to get Alisa settled. She seats her niece at a table in the dining room and gives her a few rules. Here is the scene in Russian first.'
-OPENER = "Now we'll go through it slowly."
-TRANSITION = 'And here is the whole scene again.'
-OUTRO = "Alisa promises to be good, and Vika decides to believe her. It won't last. We'll see what the guests make of her. Until next time."
+INTRO = "A banquet is about to start, and Vika has to get Alisa settled. She seats her niece at a table in the dining room and gives her a few rules. Listen first, and I'll explain afterwards."
+OPENER = "Let's unpack it."
+TRANSITION = 'Back to the full version.'
+OUTRO = "Alisa promises to be good, and Vika decides to believe her. It won't last. We'll see what the guests make of her. Take care until then."
 CLOSING = ('alisa', 'Пока!')
 STORY = [
     ('vika', 'Алиса, садись скорее за этот стол.', 'Alice, sit down at this table quickly.', [(219, 'Садись')], ''),
@@ -40,6 +40,6 @@ WALK = [
     (7, None, '\'I promise to behave very well.\' "Obeshchayu" is "I promise". And "vesti sebya" is "to lead oneself", the Russian way to say "behave". It\'s the same word as "lead through" in the earlier scene about spending time.'),
     (8, None, '\'You definitely will not let me down today?\' "Tochno" means "exactly" or "for sure". "Ne podvedyosh" is "you won\'t let down", and the picture is of leading someone to a place and leaving them. Vika has met this niece before.'),
     (9, None, '\'I will be calmness itself, honest word!\' "Samo" is "itself", and it matches the neuter word for calm. "Chestnoe slovo" is "honest word", a promise on honour. Alisa uses every big phrase she knows.'),
-    (10, None, '\'You are a real clever girl, dear niece.\' "Umnitsa" is a clever girl, and it is also what you say to a child who has done well. "Dorogaya" means both "dear" and "expensive", so the Russian for a dear person is the word for a pricey thing. Vika is persuaded, for now.'),
+    (10, None, '\'You are a real clever girl, dear niece.\' "Umnitsa" is a clever girl, and it is also what you say to a child who has done well. "Dorogaya" means both "dear" and "expensive", so the Russian for a dear person is the term for a pricey thing. Vika is persuaded, for now.'),
     (11, None, '\'I will simply draw pictures quietly.\' "Prosto" is "simply", as before. "Risovat" is "to draw", and "kartinki" are little pictures. Alisa plays the good girl well, and she sounds sincere.'),
 ]

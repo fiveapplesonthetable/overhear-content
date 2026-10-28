@@ -26,11 +26,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Only the very last touch remains.' Russian doubles up "most" and "last" to get "the very last", so it reads "the most last touch". The russian for touch comes from a pen stroke, which fits a man putting the final line on a cake.
+- 'Only the very last touch remains.' Russian doubles up "most" and "last" to get "the very last", so it reads "the most last touch". The Russian for touch comes from a pen stroke, which fits a man putting the final line on a cake.
 - 'Look, I made this myself!' Alisa is a girl, so "myself" ends in -a and so does "made". A boy would say it with a bare "sam" and an -l. Her pride comes through, and so does her grammar.
 - 'It is I who control you, like in the cartoon!' Children say "multik" for a cartoon, a cosy cut-down of the long word. And the Russian for "control you" needs no "with": the ending on "you" means "by means of".
 - 'So you are a clever little rat?' Alisa starts with "that is", which Russians use the way we use "so" or "in other words". The term for rat is feminine, so the adjective for "cunning" is feminine too. Max is a she-rat for the length of the game.
-- 'Artists always sign their masterpiece.' Max is making it up as he goes. The russian for "masterpiece" is the French one in Russian letters, and the word for "sign" is literally "write under", which is just what a signature is.
+- 'Artists always sign their masterpiece.' Max is making it up as he goes. The Russian for "masterpiece" is the French one in Russian letters, and the Russian for "sign" is literally "write under", which is just what a signature is.
 - 'Where has our liquid chocolate gone?' Russian has two "where" words. One asks where something is, and the other asks where it went. Here Max uses the second one, because the chocolate has vanished, not simply stayed somewhere.
 - 'You ate it yourself just now!' Alisa tells the truth, as children do. She says "you yourself", and "just now" is literally "only what". Chocolate is a masculine word in Russian, so "it" is the masculine "him".
 - 'Not true, I left it for decoration.' Russian packs "not true" into a single word. Max's reply is weak, and his "I left" ends in the man's -l. Notice that it sounds more like an excuse in Russian too.
@@ -38,4 +38,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'She is sitting here helping me.' Max says "to me" after the Russian for "help", where English says "helps me". The same family gives the term for an assistant. He tries to sound as if everything is perfectly normal.
 - 'The chef is already looking for her all over the restaurant!' Nastya delivers the news and the warning in one go. "All over the restaurant" is "by the whole restaurant" in Russian, with the ending doing the work of "by".
 - 'We are cooking the most delicious dish in the world!' Alisa has no idea she is in trouble. "In the world" is odd in Russian: it says "on the light". It's the usual way to say it, and it makes the boast bigger.
-- 'Run to dad quickly, while he is kind.' The russian for "while" is also the word Russians say for "bye for now". Same word, different jobs. Nastya knows the chef's mood won't last, and she's practical about it.
+- 'Run to dad quickly, while he is kind.' The Russian for "while" is also the word Russians say for "bye for now". Same word, different jobs. Nastya knows the chef's mood won't last, and she's practical about it.
