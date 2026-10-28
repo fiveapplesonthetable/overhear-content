@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'lyova': 'Лёва'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.07'
 SOURCE_FILE = 'sources/kukhnya/s01/e07.ru.dual.srt'
-INTRO = "A cooking accident with vinegar has left Chef Barinov without his sense of taste just before a crucial dinner service. Fearing disaster for the restaurant, the proud chef is on the verge of despair. However, sous-chef Lyova and the kitchen staff rally behind him, offering their own palates to guide his cooking. Let's listen to their inspiring teamwork in Russian first."
-OPENER = "Let's analyze this uplifting kitchen moment line by line. Notice how the cooks show loyalty and camaraderie to rescue their vulnerable chef."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "United as a true team, the cooks and Barinov prepare to conquer the evening dinner rush together. Fantastic job practicing conversational Russian with Overhear! Next time you watch the episode, listen for the Russian expressions for 'dish' and 'broth' — you will catch every word right away. See you next time!"
+INTRO = "Barinov has lost his sense of taste, and the dinner service is about to start. For once he is not shouting. Lyova, his deputy, steps forward to say that the team will do the tasting for him. It's in Russian first."
+OPENER = "Let's go slowly. Lyova is reassuring, Barinov is gloomy, and it's a very gentle scene for a kitchen."
+TRANSITION = 'And the whole rescue once more.'
+OUTRO = "'We won't let you down' is a promise worth knowing, and Lyova says it with all his heart. See you next time."
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('lyova', 'Шеф, не переживайте вы так сильно!', 'Chef, do not worry so much!', [(303, 'Шеф, не переживайте так')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('lyova', 'Конечно, шеф, мы вас не подведём!', 'Of course, Chef, we will not let you down!', [(311, 'Конечно')], ''),
 ]
 WALK = [
-    (0, None, '\'Chef, do not worry so much!\' Lyova tries to calm his panicked boss. He uses the formal "you" to show respect even in a crisis.'),
-    (1, None, "'How not to worry? I lost my sense of taste!' Barinov is absolutely frantic. He cannot imagine cooking without his most important tool."),
-    (2, None, "'Everything will definitely be fine and calm.' Lyova reassures him with soothing words. He acts as the voice of reason for the dramatic chef."),
-    (3, None, "'I cannot prepare the signature sauce.' Barinov feels completely helpless. He is terrified of failing before a big dinner service."),
-    (4, None, "'We will help you, the whole team is with you!' Lyova pledges the kitchen's full support. He reminds the boss that they are all in this together."),
-    (5, None, "'But you do not know the exact recipe.' Barinov is hesitant to trust them with his secret creation. He usually keeps his recipes closely guarded."),
-    (6, None, "'Direct us, command our every step!' Lyova offers to be the chef's hands. He tells Barinov to just give the orders."),
-    (7, None, "'Has the broth already boiled for this sauce?' Barinov tentatively starts managing the process. He checks on the very first step."),
-    (8, None, "'The broth is ready, and fresh vegetables are chopped.' Lyova proudly reports that prep is already done. He shows that the team is fully prepared."),
-    (9, None, "'Who then will taste the finished dish?' Barinov points out the final problem. He still needs a reliable palate to approve the sauce."),
-    (10, None, "'We will taste everything carefully ourselves!' Lyova volunteers the entire staff for the job. He promises they will be extremely thorough."),
-    (11, None, "'To work then, everything will turn out well for us!' Barinov finally regains his confidence. He rallies the team with a burst of energy."),
-    (12, None, '\'Of course, Chef, we will not let you down!\' Lyova vows to deliver. The phrase for "let down" literally means to lead someone under.'),
+    (0, None, "'Chef, do not worry so much!' 'Don't worry' is 'not' plus a polite command. 'You' is added for emphasis, which isn't needed but sounds warm."),
+    (1, None, "'How not to worry? I lost my sense of taste!' 'How not to' is a neat phrase: 'how could I not'. 'Taste' is the same word as 'flavour'."),
+    (2, None, "'Everything will definitely be fine and calm.' 'Will be good' needs no word for 'good', only 'well'. 'Definitely' comes from 'obliged'."),
+    (3, None, "'I cannot prepare the signature sauce.' 'I cannot' is plain. 'Signature' means 'the house's own'."),
+    (4, None, "'We will help you, the whole team is with you!' 'Help' takes 'you' in the 'to' form. 'The whole team' is 'all team'."),
+    (5, None, "'But you do not know the exact recipe.' 'Exact' is a short describing word. 'Recipe' is borrowed."),
+    (6, None, "'Direct us, command our every step!' 'Direct' and 'command' are polite commands. 'By every step' ends in 'om'."),
+    (7, None, "'Has the broth already boiled for this sauce?' 'Boiled' ends in 'sya', so the broth boiled by itself. 'Broth' is borrowed from French."),
+    (8, None, "'The broth is ready, and fresh vegetables are chopped.' 'Chopped' is a plural form, because 'vegetables' is plural. 'Ready' agrees with 'broth'."),
+    (9, None, "'Who then will taste the finished dish?' 'Who then' has a small word that adds impatience. 'Finished' is the same word as 'ready'."),
+    (10, None, "'We will taste everything carefully ourselves!' 'Ourselves' is a plural word that stresses the team. 'Carefully' is built on 'attention'."),
+    (11, None, "'To work then, everything will turn out well for us!' 'To work' is a short call to action. 'Will turn out' ends in 'sya'."),
+    (12, None, "'Of course, Chef, we will not let you down!' 'Let down' is the 'lead under' verb again. 'We' form ends in 'em'."),
 ]

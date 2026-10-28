@@ -10,7 +10,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Макс | Алло, Костя, ты меня слышишь? | Hello, Kostya, do you hear me? | #352: Алло. | verbatim |
+| 1 | Макс | Алло, Костя, ты меня слышишь? | Hello, Kostya, do you hear me? | #352 00:23:34: Алло. | verbatim |
 | 2 | Костя | Макс, привет, что случилось? | Max, hi, what happened? | new | new |
 | 3 | Макс | Я стою ночью прямо на улице. | I am standing at night right on the street. | new | new |
 | 4 | Костя | А почему ты не поехал к другу? | And why did you not go to your friend? | new | new |
@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, Kostya, do you hear me?' Max calls his friend in desperation from the dark sidewalk.
-- 'Max, hi, what happened?' Kostya answers the phone from his quiet apartment.
-- 'I am standing at night right on the street.' Max explains his miserable situation out in the cold.
-- 'And why did you not go to your friend?' Kostya wonders why Max has not settled in anywhere.
-- 'They gave me someone else's home address.' Max explains that he was handed a deceptive note.
-- 'And whose place did you end up at?' The bartender is curious about the unexpected destination.
-- 'I arrived at our pastry chef Louis's place!' Max reveals the hilarious and embarrassing mistake.
-- 'To Louis? With a suitcase and things?' Kostya is completely stunned by the bizarre mix-up.
-- 'Yes, and with a bouquet of flowers too!' Max confesses the most awkward detail of the evening.
-- 'Now that is a prank the guys played on you!' Kostya realizes the kitchen cooks orchestrated a practical joke.
-- 'Louis thought that I was in love with him.' Max describes the mortifying misunderstanding at the door.
-- 'And what did he tell you?' Kostya asks while struggling to suppress laughter at the situation.
-- 'He said that his heart is already taken.' Max repeats the pastry chef's gentle romantic rejection.
-- 'Come over to my place, we will stay the night together.' The loyal friend offers him a warm place to stay.
+- 'Hello, Kostya, can you hear me?' 'Hear' and 'listen' are different words in Russian. This one is for hearing.
+- 'Max, hi, what happened?' 'What happened' is a short question that you can use for any trouble. It's built on 'chance'.
+- 'I am standing on the street at night.' 'Stand' is the word for staying upright. 'On the street' means 'outside'.
+- 'And why did you not go to your friend?' 'Go' is the word for going by transport. 'To a friend' uses a short word meaning 'toward'.
+- 'They gave me someone else's home address.' 'They gave' has no person named. 'Home' is a describing word built on 'house'.
+- 'And whose place did you end up at?' 'To whom' is the movement form of 'who'. 'In the end' is a neat little phrase for 'finally'.
+- 'I arrived at our pastry chef Louis's place!' 'Pastry chef' is a borrowed word, with an 'u' ending after 'to'. 'Our' agrees with it.
+- 'To Louis? With a suitcase and things?' 'With' asks for the 'om' and 'ami' endings. 'Things' is a plural that includes luggage.
+- 'Yes, and with a bouquet of flowers too!' 'And also' is two small words. 'With a bouquet' ends in 'om'.
+- 'What a prank the guys played on you!' The start is 'now this', and it means 'what a...'. 'Play a joke' is built on 'a joke'.
+- 'Louis thought that I was in love with him.' 'In love' has a short form for a man. 'In him' puts an 'n' at the front of 'him', as Russian does after a preposition.
+- 'And what did he tell you?' 'To you' is the short 'tebe'. 'Said' is the finished kind.
+- 'He said that his heart is already taken.' 'taken' is the same one as 'occupied'. A phone line is 'occupied' too.
+- 'Come over to my place, we will spend the night together.' 'Come' here means arrive by transport. 'We will spend the night' is made of 'will' plus 'spend the night'.

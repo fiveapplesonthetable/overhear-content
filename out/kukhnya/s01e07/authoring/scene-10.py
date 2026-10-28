@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'nagiyev': 'Нагиев'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.07'
 SOURCE_FILE = 'sources/kukhnya/s01/e07.ru.dual.srt'
-INTRO = "Chef Viktor Barinov personally brings his latest culinary creation to the VIP table of restaurant owner Dmitry Nagiyev. Confident in his culinary genius, the chef boasts about the exquisite flavor while Dmitry prepares to judge the dish. Let's listen to their conversation in Russian first."
-OPENER = "Let's explore how Chef Barinov presents his signature sauce to the restaurant owner."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = 'That wraps up this scene from Kukhnya. Listen for these everyday Russian expressions when you watch the episode. See you next time!'
+INTRO = "The sauce is done, and Barinov carries it to the owner of the restaurant, Dmitry Nagiyev. He calls it a masterpiece, which is just what you'd expect. It's in Russian first."
+OPENER = 'Slowly now. Barinov brags, Nagiyev teases, and the food gets cold.'
+TRANSITION = 'And the whole tasting once more.'
+OUTRO = "The last line, 'bon appetit', is literally 'pleasant appetite'. You can say it before any meal in Russia. See you next time."
 CLOSING = ('nagiyev', 'Пока!')
 STORY = [
     ('barinov', 'Дмитрий, сейчас ты попробуешь шедевр!', 'Dmitry, right now you will taste a masterpiece!', [(192, 'Сейчас попробуешь произведение искусства')], ''),
@@ -31,8 +31,17 @@ STORY = [
     ('barinov', 'Приятного аппетита, дорогой хозяин!', 'Bon appetit, my dear owner!', [], ''),
 ]
 WALK = [
-    (0, None, "'Dmitry, right now you will taste a masterpiece!' Barinov boasts confidently about his dish. He calls Dmitry by his first name, showing their close relationship."),
-    (1, None, '\'This is a real culinary work of art!\' He is incredibly proud of the sauce. The Russian phrase for "work of art" literally means a piece of production.'),
-    (2, None, '\'I cannot wait to taste your sauce.\' Nagiyev is eager to try it. He says literally "to me it does not endure", which is a common way to say you cannot wait.'),
-    (3, None, "'First try the sauce with bread.' Barinov tells him exactly how to eat it. The chef wants Dmitry to appreciate the pure flavor before anything else."),
+    (0, None, "'Dmitry, right now you will taste a masterpiece!' 'Masterpiece' comes from French. 'Will taste' is a one-word future."),
+    (1, None, "'Viktor, are you praising yourself again?' 'Praise' is followed by 'yourself'. 'Again' is a short word."),
+    (2, None, "'This is a real culinary work of art!' 'Work' is built on 'produce'. 'Of art' ends in 'a'."),
+    (3, None, "'I cannot wait to taste your sauce.' Russian says 'to me it is not endured', which means 'I can't wait'. 'Taste' is a rather literary word."),
+    (4, None, "'I was preparing this sauce all morning.' 'All morning' has no word for 'during'. 'Was preparing' is the long kind of past."),
+    (5, None, "'I hope you put the right spices.' 'Spices' is a plural. 'Put in' is the finished form."),
+    (6, None, "'There are only the freshest ingredients there.' 'Freshest' is 'most fresh'. 'There' is a short word."),
+    (7, None, "'The aroma is indeed very pleasant and subtle.' 'Subtle' is 'thin'. 'Aroma' is also 'smell'."),
+    (8, None, "'One piece of meat will change everything.' 'Little piece' has the diminutive 'ochek'. 'Of meat' ends in 'a'."),
+    (9, None, "'Do not exaggerate, give me a fork.' 'Don't exaggerate' is 'not' plus a command. 'Give' is a short word."),
+    (10, None, "'First try the sauce with bread.' 'With bread' uses 'om'. 'First' is made of 'from the start'."),
+    (11, None, "'Alright, let us begin this tasting.' 'Tasting' is borrowed. 'Let us begin' is the form that ends in 'em'."),
+    (12, None, "'Bon appetit, my dear owner!' The Russian phrase is literally 'pleasant appetite'. 'Dear' also means 'expensive'."),
 ]

@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'kostya': 'Костя', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.07'
 SOURCE_FILE = 'sources/kukhnya/s01/e07.ru.dual.srt'
-INTRO = "Arriving at Claude Monet well before his shift, Kostya finds Max wandering around in casual clothes instead of his chef uniform. Pressing him for answers, Kostya uncovers Max's shocking secret: to avoid Moscow's exorbitant rents, Max has been sleeping overnight in the restaurant dining room. Let's listen to their confrontation in Russian first."
-OPENER = "Now let's examine Kostya and Max's confrontation line by line."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Terrified of what Chef Barinov would do if he caught a cook sleeping in the restaurant, Kostya considers how to help his friend out of this dangerous situation. Next time you watch the episode, listen for the Russian expressions for 'fast' and 'at all' — you will catch every word right away. See you next time!"
+INTRO = "Kostya comes in early and finds Max wandering about in ordinary clothes long before his shift. When Kostya asks why, Max has to admit what he has been doing at night. It's in Russian first, and it's a good scene for numbers and times."
+OPENER = "Let's go back through it. Kostya asks the questions, and Max does his best to avoid the answers."
+TRANSITION = 'Here is the whole chat again.'
+OUTRO = "Max's secret comes out in four words: 'I live right here'. Kostya's answer is the sort of thing that anybody would say. See you next time."
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('max', 'Костя, почему ты пришёл так рано?', 'Kostya, why did you arrive so early?', [(5, 'ты как так рано приперся')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('max', 'Пожалуйста, не рассказывай никому мой секрет.', 'Please do not tell anyone my secret.', [], ''),
 ]
 WALK = [
-    (0, None, "'Kostya, why did you arrive so early?' Max turns the question around, wondering why Kostya is here so soon."),
-    (1, None, "'It is already eight o'clock in the morning, Max.' Kostya points out the actual time, showing it is morning already."),
-    (2, None, "'I thought that the restaurant was still closed.' He genuinely believed he was safe from being caught before opening hours."),
-    (3, None, "'Why haven't you put on your uniform yet?' The lack of kitchen attire immediately raises a red flag."),
-    (4, None, "'My locker key is lying here.' Max tries to deflect by casually mentioning his locker key."),
-    (5, None, "'Then go faster to the staff locker room.' Kostya urges his friend to get changed before anyone sees him."),
-    (6, None, "'Do not boss me around, I will manage everything in time.' He gets defensive, claiming he has everything under control."),
-    (7, None, "'What were you doing here at night at all?' Suspicion finally takes over as Kostya demands to know the truth."),
-    (8, None, "'Honestly speaking, I live right here.' Max confesses his desperate housing situation with total honesty."),
-    (9, None, "'You spend the night in Chef Barinov's restaurant?!' The idea of sleeping at work leaves Kostya utterly speechless."),
-    (10, None, "'Yes, I sleep on the sofa in the dining room.' He confirms the crazy setup, specifically mentioning the dining room furniture."),
-    (11, None, "'If the chef finds out, he will kill you!' The chef will be furious if he discovers a squatter in his establishment."),
-    (12, None, "'Please do not tell anyone my secret.' Max begs for silence, knowing his job is on the line."),
+    (0, None, "'Kostya, why did you arrive so early?' 'Came' is a form for a man, and it means he arrived on foot. 'Early' is a short word that you will use again."),
+    (1, None, "'It is already eight o'clock in the morning, Max.' Russians say 'eight hours', so the clock time has 'hours' after it. 'Of the morning' is how they say 'a.m.'."),
+    (2, None, "'I thought that the restaurant was still closed.' The word 'still' comes before 'closed'. 'Thought' ends with nothing, because Max is a man."),
+    (3, None, "'Why haven't you put on your uniform yet?' 'Not yet' is made of 'still' and 'not'. 'Put on' is used for clothes, and 'uniform' ends in 'u' since it's the thing put on."),
+    (4, None, "'My locker key is lying here.' Russians say a key 'lies' on a table. 'Key from the locker' uses 'from' where English uses 'to' or 'of'."),
+    (5, None, "'Then go faster to the staff locker room.' 'Faster' is a short word that works as 'hurry'. 'Of the staff' comes from the borrowed word for 'personnel'."),
+    (6, None, "'Do not boss me around, I will manage everything in time.' 'Command' is followed by 'me' in a special form, the one that goes with 'by'. 'I will manage' is the one-word future."),
+    (7, None, "'What were you doing here at night at all?' 'At all' sits in the middle and adds suspicion. 'At night' is a one-word time, and it ends in 'yu'."),
+    (8, None, "'Honestly speaking, I live right here.' The opening is a fixed phrase for 'to be honest'. 'Right here' is the pair 'directly' and 'here'."),
+    (9, None, "'You spend the night in Chef Barinov's restaurant?!' 'Spend the night' is built from 'night'. 'Chef Barinov's' is two words with the 'a' ending, which is how Russian says 'of'."),
+    (10, None, "'Yes, I sleep on the sofa in the dining room.' 'I sleep' is an irregular form that adds an extra 'l' sound to the stem. 'On the sofa' ends in 'e', and so does 'in the hall'."),
+    (11, None, "'If the chef finds out, he will kill you!' 'If' starts the line, and 'will find out' and 'will kill' are both one-word futures. 'You' has the changed form."),
+    (12, None, "'Please, do not tell anyone my secret.' 'Don't tell' is 'not' plus a command. 'To nobody' is one word, and the 'not' stays in the line."),
 ]

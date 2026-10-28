@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'kostya': 'Костя', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.07'
 SOURCE_FILE = 'sources/kukhnya/s01/e07.ru.dual.srt'
-INTRO = "Kostya is devastated after learning that Nastya suddenly decided not to move in with him. When Sasha reveals that Max secretly portrayed Kostya as an unbearable roommate, Kostya storms over to confront him. Max tries to shrug it off as a harmless joke, but Kostya feels deeply betrayed by his best friend. Let's listen to their fiery argument in Russian first."
-OPENER = "Let's break down this tense friendship clash line by line. Notice how emotional accusations and defensive excuses reveal the strain in their bond."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Kostya storms off in anger, leaving Max to regret meddling in his friend's love life. Great job following this emotional confrontation in conversational Russian! Next time you watch the episode, listen for the Russian expressions for 'more' and 'stupid' — you will catch every word right away. See you next time!"
+INTRO = "Nastya has decided not to move in with Kostya after all, and Kostya has found out why: Max told her Kostya was a nightmare to live with. He storms over to find him. It's in Russian first."
+OPENER = "Let's go back through the row. Kostya is hurt, and Max keeps saying it was only a joke."
+TRANSITION = 'Here is the whole fight again.'
+OUTRO = "The last line is a good one to keep for the right moment: 'some best friend you are'. It has no verb to speak of, only scorn. See you next time."
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('kostya', 'Макс, нам нужно срочно кое-что прояснить.', 'Max, we urgently need to clarify something.', [(286, 'нужно кое-что прояснить')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('kostya', 'Тоже мне лучший друг называется, уходи!', 'Some best friend you are, leave!', [(296, 'Тоже мне друг называется')], ''),
 ]
 WALK = [
-    (0, None, "'Max, we urgently need to clarify something.' Kostya sounds incredibly serious. He is furious about the rumor that ruined his chances with Nastya."),
-    (1, None, "'Guys, I really do not have time for you now.' Max tries to brush him off. The Russian phrase implies he has no mental capacity to deal with them at the moment."),
-    (2, None, "'What did you tell Nastya about me?' Kostya demands an immediate explanation. He gets straight to the point of the betrayal."),
-    (3, None, "'I was just joking a little, do not be mad.' Max downplays his sabotage as a harmless prank. He hopes Kostya will just laugh it off."),
-    (4, None, "'Joking? You called me a real psycho!' Kostya repeats the word in disbelief. He is genuinely hurt by the extreme label Max used."),
-    (5, None, "'I wanted to protect you from mistakes.' Max invents a noble excuse for his selfish behavior. He pretends he was looking out for his friend."),
-    (6, None, '\'First you promised to help, and then bailed!\' Kostya points out the hypocrisy. The slang word for "bailed" literally means he threw him.'),
-    (7, None, "'I did not want to hurt you, Kostya.' Max realizes his friend is genuinely upset. He tries to sound sympathetic and apologetic."),
-    (8, None, "'Because of your stupid words Nastya left.' Kostya blames Max for ruining his romantic evening. He is crushed that she walked away."),
-    (9, None, "'Forgive me, I will fix everything today.' Max promises to repair the damage. He realizes he has to clear Kostya's name with Nastya."),
-    (10, None, "'Never poke your nose into my business again!' Kostya sets a firm boundary. He tells his friend to stay out of his personal life from now on."),
-    (11, None, "'Kostya, wait, let us discuss everything calmly.' Max begs him to stay and talk. He wants to avoid a permanent rift between them."),
-    (12, None, "'Some best friend you are, leave!' Kostya throws the title of best friend back in his face. He is too angry to listen to any more excuses."),
+    (0, None, "'Max, we urgently need to clarify something.' 'Something or other' is 'what' with a 'koye' in front. 'Clarify' is built on 'clear'."),
+    (1, None, "'Guys, I really do not have time for you now.' 'Guys' is a friendly word for a group. 'Not up to you' is the idiom for 'I haven't time or mood for you'."),
+    (2, None, "'What did you tell Nastya about me?' 'told' has a prefix that means 'a lot, and not nice'. 'To Nastya' puts an 'e' on the name."),
+    (3, None, "'I was just joking a little, do not be mad.' 'Joked' comes from 'a joke'. 'Don't be mad' ends in 'sya'."),
+    (4, None, "'Joking? You called me a real psycho!' 'Called' takes a 'with' form, so 'real psycho' ends in 'om'. 'Joking?' is just a repeat of the word with the voice up."),
+    (5, None, "'I wanted to protect you from mistakes.' 'Protect' comes from 'guard'. 'From mistakes' is 'from' with a plural."),
+    (6, None, "'First you promised to help, and then bailed!' 'Threw' is the slang for 'let down'. 'Promised' has a prefix that makes it a one-off."),
+    (7, None, "'I did not want to hurt you, Kostya.' 'Hurt' comes from 'an offence'. 'Did not want' is the past he-form."),
+    (8, None, "'Because of your stupid words Nastya left.' 'Because of' is the blame form, as opposed to a thank-you one. 'Left' ends in 'a' since Nastya is a woman."),
+    (9, None, "'Forgive me, I will fix everything today.' 'Forgive' is the informal command. 'Fix' comes from 'right', so it's 'make right'."),
+    (10, None, "'Never poke your nose into my business again!' 'Climb' is 'to poke'. 'My business' is 'my affairs', and Russians say it in the plural."),
+    (11, None, "'Kostya, wait, let us discuss everything calmly.' 'Wait' is the casual command. 'Calmly' comes from 'calm'."),
+    (12, None, "'Some best friend you are, leave!' The first words make a sarcastic phrase: 'also to-me best friend is-called'. It's what you say when someone has just let you down."),
 ]

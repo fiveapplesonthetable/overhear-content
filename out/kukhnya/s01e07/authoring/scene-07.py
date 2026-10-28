@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'kostya': 'Костя', 'nastya': 'Настя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.07'
 SOURCE_FILE = 'sources/kukhnya/s01/e07.ru.dual.srt'
-INTRO = "In the quiet restaurant back area, bartender Kostya finds waitress Nastya in deep distress. She tearfully confesses that her strict landlady threw her out of her rented apartment for rescuing live carp and keeping them in the bathtub. Let's listen to their conversation in Russian first."
-OPENER = "Let's review this sweet and humorous conversation line by line."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Relieved by Kostya's generous invitation, Nastya prepares to move her belongings out of her old apartment. See you next time!"
+INTRO = "Back at the restaurant, Nastya is upset. She tells Kostya what happened at home: she has been thrown out of her flat, and the reason is a pair of live fish. It's in Russian first."
+OPENER = "Let's go through it. Nastya explains, and Kostya keeps asking why."
+TRANSITION = 'And the whole story again.'
+OUTRO = "Kostya's offer is a kind one: 'you can stay at my place'. It's an easy sentence to say, and it opens a lot of doors. See you next time."
 CLOSING = ('nastya', 'Пока!')
 STORY = [
     ('kostya', 'Настя, что у тебя сегодня случилось?', 'Nastya, what happened with you today?', [(60, 'Значит, что случилось')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('nastya', 'Спасибо, Костик, ты настоящий друг!', 'Thank you, Kostik, you are a true friend!', [(70, 'Спасибо, Костик'), (71, 'Ты настоящий друг')], ''),
 ]
 WALK = [
-    (0, None, "'Nastya, what happened with you today?' Kostya gently checks in on his distressed colleague."),
-    (1, None, "'My wicked landlady kicked me out.' Nastya blurts out the tragic news of losing her home."),
-    (2, None, "'What did she kick you out for?' He is confused about what could have triggered such a harsh reaction."),
-    (3, None, "'I brought live carp home.' She confesses to bringing live sea creatures into her flat."),
-    (4, None, "'Why do you need live fish at home?' Kostya is completely baffled by this bizarre choice of pets."),
-    (5, None, "'In the store they could simply kill them!' Nastya defends her actions as a necessary rescue mission."),
-    (6, None, "'And where are they swimming now?' He asks the most logical question about their current location."),
-    (7, None, "'They live wonderfully in the bathtub.' She casually mentions they are occupying the bathroom plumbing."),
-    (8, None, "'I see, the landlady was very unhappy.' Kostya easily understands why the property owner lost her patience."),
-    (9, None, "'I cannot live with cruel people.' Nastya stands her ground, refusing to compromise her morals."),
-    (10, None, "'Listen, you can stay at my place for now.' He kindly offers her a safe haven in his own place."),
-    (11, None, "'Thank you, Kostik, you are a true friend!' She is overwhelmed by his generosity in her time of need."),
+    (0, None, "'Nastya, what happened to you today?' 'At you happened' is how Russian puts 'to you'. 'Today' sounds like 'sevodnya'."),
+    (1, None, "'My wicked landlady kicked me out.' 'Landlady' is the word for the woman of the house. 'Kicked out' ends in 'la' because the landlady is a woman."),
+    (2, None, "'What did she kick you out for?' 'For what' is the short way to ask 'why'. 'Kicked out' is built from 'drive' with a prefix."),
+    (3, None, "'I brought live carp home.' 'Home' as a direction is a different word from 'at home'. 'Live' has the 'ikh' plural, and 'carp' takes 'ov'."),
+    (4, None, "'Why do you need live fish at home?' 'To you' sits where English would say 'you'. 'Live' agrees with 'fish', which is a she-word."),
+    (5, None, "'In the store they could simply kill them!' The 'they' is no one in particular. 'Could' is the plural past of 'can'."),
+    (6, None, "'And where are they swimming now?' 'Swim' ends in 'yut', for 'they'. 'Now' is 'at once' in other places."),
+    (7, None, "'They live wonderfully in the bathtub.' 'live' is the same one Max used for 'live in Moscow'. 'Bathtub' ends in 'e' for the place."),
+    (8, None, "'I see, the landlady was very unhappy.' 'Unhappy' is 'not' plus 'satisfied', and the 'a' ending shows a woman. 'I see' is one word."),
+    (9, None, "'I cannot live with cruel people.' 'With people' uses a special form of 'people', 'lyudmi'. 'Cruel' agrees with it."),
+    (10, None, "'Listen, you can stay at my place for now.' 'Stay for a while' starts with a prefix that means 'a little'. 'At my place' is 'at me'."),
+    (11, None, "'Thank you, Kostik, you are a true friend!' 'Kostik' is a pet form of Kostya's name, with a soft 'ik'. 'Real' and 'true' are the same word."),
 ]

@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'kostya': 'Костя', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.07'
 SOURCE_FILE = 'sources/kukhnya/s01/e07.ru.dual.srt'
-INTRO = "Stranded out on the cold street with his suitcase and a bouquet of flowers after Louis's awkward rejection, Max dials Kostya in desperation to explain the kitchen prank and ask for a place to spend the night."
-OPENER = "Let's explore Max's hilarious phone call to Kostya after falling for a kitchen prank."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Rescued by Kostya's hospitality, Max grabs his bags and heads to his friend's apartment. Next time you watch the episode, listen for the Russian expressions for 'address' and 'bouquet' — you will catch every word right away. See you next time!"
+INTRO = "After Louis shut the door, Max is standing outside in the dark with a suitcase and flowers. He rings Kostya to explain what has happened. It's in Russian first."
+OPENER = "Let's go through the phone call. Kostya asks, and Max has to confess."
+TRANSITION = 'Here is the whole call again.'
+OUTRO = "A phone call is a good way to practise Russian: 'hello', 'do you hear me', 'come to me'. You've now had all three. See you next time."
 CLOSING = ('kostya', 'Пока!')
 STORY = [
     ('max', 'Алло, Костя, ты меня слышишь?', 'Hello, Kostya, do you hear me?', [(352, 'Алло.')], ''),
@@ -32,18 +32,18 @@ STORY = [
     ('kostya', 'Приезжай ко мне, будем ночевать вместе.', 'Come over to my place, we will stay the night together.', [], ''),
 ]
 WALK = [
-    (0, None, "'Hello, Kostya, do you hear me?' Max calls his friend in desperation from the dark sidewalk."),
-    (1, None, "'Max, hi, what happened?' Kostya answers the phone from his quiet apartment."),
-    (2, None, "'I am standing at night right on the street.' Max explains his miserable situation out in the cold."),
-    (3, None, "'And why did you not go to your friend?' Kostya wonders why Max has not settled in anywhere."),
-    (4, None, "'They gave me someone else's home address.' Max explains that he was handed a deceptive note."),
-    (5, None, "'And whose place did you end up at?' The bartender is curious about the unexpected destination."),
-    (6, None, "'I arrived at our pastry chef Louis's place!' Max reveals the hilarious and embarrassing mistake."),
-    (7, None, "'To Louis? With a suitcase and things?' Kostya is completely stunned by the bizarre mix-up."),
-    (8, None, "'Yes, and with a bouquet of flowers too!' Max confesses the most awkward detail of the evening."),
-    (9, None, "'Now that is a prank the guys played on you!' Kostya realizes the kitchen cooks orchestrated a practical joke."),
-    (10, None, "'Louis thought that I was in love with him.' Max describes the mortifying misunderstanding at the door."),
-    (11, None, "'And what did he tell you?' Kostya asks while struggling to suppress laughter at the situation."),
-    (12, None, "'He said that his heart is already taken.' Max repeats the pastry chef's gentle romantic rejection."),
-    (13, None, "'Come over to my place, we will stay the night together.' The loyal friend offers him a warm place to stay."),
+    (0, None, "'Hello, Kostya, can you hear me?' 'Hear' and 'listen' are different words in Russian. This one is for hearing."),
+    (1, None, "'Max, hi, what happened?' 'What happened' is a short question that you can use for any trouble. It's built on 'chance'."),
+    (2, None, "'I am standing on the street at night.' 'Stand' is the word for staying upright. 'On the street' means 'outside'."),
+    (3, None, "'And why did you not go to your friend?' 'Go' is the word for going by transport. 'To a friend' uses a short word meaning 'toward'."),
+    (4, None, "'They gave me someone else's home address.' 'They gave' has no person named. 'Home' is a describing word built on 'house'."),
+    (5, None, "'And whose place did you end up at?' 'To whom' is the movement form of 'who'. 'In the end' is a neat little phrase for 'finally'."),
+    (6, None, "'I arrived at our pastry chef Louis's place!' 'Pastry chef' is a borrowed word, with an 'u' ending after 'to'. 'Our' agrees with it."),
+    (7, None, "'To Louis? With a suitcase and things?' 'With' asks for the 'om' and 'ami' endings. 'Things' is a plural that includes luggage."),
+    (8, None, "'Yes, and with a bouquet of flowers too!' 'And also' is two small words. 'With a bouquet' ends in 'om'."),
+    (9, None, "'What a prank the guys played on you!' The start is 'now this', and it means 'what a...'. 'Play a joke' is built on 'a joke'."),
+    (10, None, "'Louis thought that I was in love with him.' 'In love' has a short form for a man. 'In him' puts an 'n' at the front of 'him', as Russian does after a preposition."),
+    (11, None, "'And what did he tell you?' 'To you' is the short 'tebe'. 'Said' is the finished kind."),
+    (12, None, "'He said that his heart is already taken.' 'taken' is the same one as 'occupied'. A phone line is 'occupied' too."),
+    (13, None, "'Come over to my place, we will spend the night together.' 'Come' here means arrive by transport. 'We will spend the night' is made of 'will' plus 'spend the night'."),
 ]

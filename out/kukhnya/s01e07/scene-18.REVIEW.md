@@ -10,32 +10,32 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Макс | Привет, Луи, а где наш Феликс? | Hi, Louis, and where is our Felix? | #343: Привет. А Фелик где? | verbatim |
-| 2 | Луи | Я не знаю, наверное, он дома. | I do not know, he is probably at home. | #344: Я не знаю, наверное, дома | verbatim |
-| 3 | Луи | Но как ты узнал мой адрес? | But how did you find out my address? | #345: Ты как узнал мой адрес? | verbatim |
+| 1 | Макс | Привет, Луи, а где наш Феликс? | Hi, Louis, and where is our Felix? | #343 00:22:55: Привет. А Фелик где? | verbatim |
+| 2 | Луи | Я не знаю, наверное, он дома. | I do not know, he is probably at home. | #344 00:22:59: Я не знаю, наверное, дома | verbatim |
+| 3 | Луи | Но как ты узнал мой адрес? | But how did you find out my address? | #345 00:23:02: Ты как узнал мой адрес? | verbatim |
 | 4 | Макс | Луи, мне просто нужна помощь сегодня. | Louis, I just need help today. | new | new |
-| 5 | Луи | Подожди, Максим, нет, не надо продолжать! | Wait, Maxim, no, no need to continue! | #346: Подожди. Нет, не надо | verbatim |
+| 5 | Луи | Подожди, Максим, нет, не надо продолжать! | Wait, Maxim, no, no need to continue! | #346 00:23:07: Подожди. Нет, не надо | verbatim |
 | 6 | Макс | Мне негде провести эту ночь. | I have nowhere to spend this night. | new | new |
-| 7 | Луи | У нас с тобой ничего не получится. | Nothing will work out between us. | #347: У нас с тобой ничего не получится | verbatim |
-| 8 | Луи | Моё сердце уже давно занято. | My heart has long been occupied. | #348: Мое сердце занято | verbatim |
+| 7 | Луи | У нас с тобой ничего не получится. | Nothing will work out between us. | #347 00:23:09: У нас с тобой ничего не получится | verbatim |
+| 8 | Луи | Моё сердце уже давно занято. | My heart has long been occupied. | #348 00:23:12: Мое сердце занято | verbatim |
 | 9 | Макс | Луи, ты меня совсем неправильно понял! | Louis, you misunderstood me completely! | new | new |
-| 10 | Луи | Ты не переживай, всё образуется. | Do not worry, everything will work out. | #349: Но ты не переживай | verbatim |
-| 11 | Луи | Ты обязательно найдёшь себе кого-нибудь другого. | You will definitely find yourself someone else. | #349: ты еще найдешь себе кого-нибудь | verbatim |
-| 12 | Луи | Всё будет отлично, уля-ля, пока! | Everything will be great, ooh-la-la, bye! | #350: Все будет уля-ля. До завтра<br>#351: Пока | verbatim |
+| 10 | Луи | Ты не переживай, всё образуется. | Do not worry, everything will work out. | #349 00:23:14: Но ты не переживай | verbatim |
+| 11 | Луи | Ты обязательно найдёшь себе кого-нибудь другого. | You will definitely find yourself someone else. | #349 00:23:14: ты еще найдешь себе кого-нибудь | verbatim |
+| 12 | Луи | Всё будет отлично, уля-ля, пока! | Everything will be great, ooh-la-la, bye! | #350 00:23:17: Все будет уля-ля. До завтра<br>#351 00:23:21: Пока | verbatim |
 | 13 | Макс | Луи, открой дверь, подожди секунду! | Louis, open the door, wait a second! | new | new |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hi, Louis, and where is our Felix?' Max arrives at the doorway hoping to find his friend.
-- 'I do not know, he is probably at home.' The French pastry chef greets the unexpected evening visitor.
-- 'But how did you find out my address?' Louis is puzzled by how Max tracked down his private residence.
-- 'Louis, I just need help today.' The rookie cook tries to explain his desperate homeless situation.
-- 'Wait, Maxim, no, no need to continue!' Louis hastily waves his hands to cut off the conversation.
-- 'I have nowhere to spend this night.' Max clarifies that he is simply looking for a sofa to sleep on.
-- 'Nothing will work out between us.' The dramatic baker misinterprets the visit as a romantic overture.
-- 'My heart has long been occupied.' Louis politely turns down what he presumes to be a confession.
-- 'Louis, you misunderstood me completely!' Max desperately tries to correct the awkward misunderstanding.
-- 'Do not worry, everything will work out.' The pastry chef offers warm consolation with a sympathetic smile.
-- 'You will definitely find yourself someone else.' Louis reassures Max that true love awaits him elsewhere.
-- 'Everything will be great, ooh-la-la, bye!' The eccentric Frenchman bids farewell and closes the door firmly.
-- 'Louis, open the door, wait a second!' Max bangs on the wooden frame, left stranded in the hallway.
+- 'Hi, Louis, and where is our colleague?' 'Where' asks about a place. 'Our' agrees with the person asked about.
+- 'I do not know, he is probably at home.' 'Probably' is a long word that you can use for any guess. 'At home' is one word.
+- 'But how did you find out my address?' 'Found out' can also mean 'recognized', as it comes from 'know'. 'My address' is the thing found out.
+- 'Louis, I just need help today.' 'Help' is a she-word, so 'needed' ends in 'a'. 'Just' is a short word that means 'simply'.
+- 'Wait, Maxim, no, no need to continue!' Louis uses Max's full name to sound dramatic. 'No need' is 'not' plus 'necessary'.
+- 'I have nowhere to spend this night.' 'Nowhere' is 'no' plus 'where'. 'Spend' literally means 'lead through'.
+- 'Nothing will work out between us.' The Russian idiom is 'at us with you nothing will come out'. It is the sentence you use when you turn someone down.
+- 'My heart has long been occupied.' 'Occupied' is the word for a seat that's taken. Louis says it with a flourish.
+- 'Louis, you misunderstood me completely!' 'Wrongly' is built from 'not' plus 'rightly'. 'Understood' ends in a consonant, because the word is about Louis.
+- 'Do not worry, everything will work out.' 'Will work out' ends in 'sya'. It's a fixed phrase that people say to comfort each other.
+- 'You will definitely find yourself someone else.' 'Someone' ends in 'nibud', which means 'anyone at all'. 'Other' agrees with 'someone'.
+- 'Everything will be great, ooh-la-la, bye!' Louis's 'ooh-la-la' is French, and he adds it to everything. 'Bye' is the same short word as 'for now'.
+- 'Louis, open the door, wait a second!' 'Open' is a short command. 'Wait a second' is a casual 'hold on'.

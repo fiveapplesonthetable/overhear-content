@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'elena': 'Елена'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.07'
 SOURCE_FILE = 'sources/kukhnya/s01/e07.ru.dual.srt'
-INTRO = 'At the food market, Chef Viktor Barinov runs into his culinary rival, Elena Pavlovna Sokolova. Elena is shopping for produce for her new restaurant opening, and the two exchange sharp remarks and competitive banter over fresh vegetables and sour apples. Listen to their amusing conversation in Russian first, and then we will examine every line.'
-OPENER = "Let's examine this rival encounter line by line."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = 'That concludes our fifth scene. In Kukhnya, intense professional rivalry between chefs spills over even into morning trips to the food market. See you next time!'
+INTRO = "Barinov has gone to the food market for the day's vegetables, and who should he run into at the next stall but Elena Pavlovna, who runs the rival restaurant down the road? They are exquisitely polite for about ten seconds. It's in Russian first."
+OPENER = "Let's go back. Both of them use the polite 'you' and the father's name, which makes the insults land harder."
+TRANSITION = 'And the whole meeting again.'
+OUTRO = "The fight is about who is best, and it's told through apples. 'We'll see' and 'learn while I'm kind' are two good lines to keep. See you next time."
 CLOSING = ('barinov', 'До встречи!')
 STORY = [
     ('elena', 'Доброе утро, шеф Виктор Петрович!', 'Good morning, Chef Viktor Petrovich!', [(41, 'Доброе утро, Виктор Петрович')], ''),
@@ -32,18 +32,18 @@ STORY = [
     ('barinov', 'Учитесь, пока я добрый шеф!', 'Learn while I am a kind chef!', [(55, 'Ну')], ''),
 ]
 WALK = [
-    (0, None, "'Good morning, Chef Viktor Petrovich!' Elena kicks things off with a deceptively sweet greeting."),
-    (1, None, "'Good morning, Elena Pavlovna.' Barinov responds with equal, forced politeness."),
-    (2, None, "'Why did you come to this market?' She probes to find out what brings a high-end chef to a public stall."),
-    (3, None, "'I am choosing the best fresh vegetables.' He proudly declares that he personally selects top-tier produce."),
-    (4, None, "'And did you decide to make your husband borscht?' He cannot resist taking a jab at her culinary skills."),
-    (5, None, "'No, I am opening a new expensive restaurant.' Elena reveals her ambitious plans to launch a rival establishment."),
-    (6, None, "'I am preparing a new menu myself.' She emphasizes her hands-on approach to designing the dishes."),
-    (7, None, "'Nobody will go to your restaurant!' Barinov aggressively predicts total failure for her venture."),
-    (8, None, "'We will see whose kitchen is better!' She confidently accepts the challenge, ready to prove him wrong."),
-    (9, None, "'My restaurant will always be first!' He fiercely defends Claude Monet's position at the top."),
-    (10, None, "'Then try these beautiful apples.' Elena tries to trick him into eating something unpleasant."),
-    (11, None, "'Oh, how sour these apples are!' She feigns surprise at the terrible taste of the fruit."),
-    (12, None, "'One must know how to choose good fruit!' Barinov seizes the moment to insult her professional judgment."),
-    (13, None, "'Learn while I am a kind chef!' He haughtily tells her to take notes while he is still feeling generous."),
+    (0, None, "'Good morning, Chef Viktor Petrovich!' Russians address each other by first name plus father's name when being formal. 'Petrovich' means 'son of Pyotr'."),
+    (1, None, "'Good morning, Elena Pavlovna.' For a woman, the father's name ends in 'ovna', so 'Pavlovna' is 'daughter of Pavel'. Barinov answers in the same formal way."),
+    (2, None, "'Why did you come to this market?' 'You' is the polite one, and 'came' is in the plural to match. 'To this market' ends in 'ok'."),
+    (3, None, "'I am choosing the best fresh vegetables.' 'The very best' is 'most' plus 'best', and it goes with 'fresh' in the same plural. 'Vegetables' is a plural word."),
+    (4, None, "'And did you decide to make your husband borscht?' 'Borscht' is a beetroot soup, and the jab is that she cooks at home. 'To husband' ends in 'u', as in 'for husband'."),
+    (5, None, "'No, I am opening a new expensive restaurant.' 'open' is related to 'opening'. 'New' and 'expensive' agree with 'restaurant'."),
+    (6, None, "'I am preparing a new menu myself.' 'myself' is the woman's form, so Elena uses 'sama'. A man would say 'sam'."),
+    (7, None, "'Nobody will go to your restaurant!' 'Nobody will go' uses 'not', as Russian always does with 'nobody'. 'Your' is polite, and it agrees with 'restaurant'."),
+    (8, None, "'We will see whose kitchen is better!' 'Whose' agrees with 'kitchen', so it is the she-form. 'Better' is a short word."),
+    (9, None, "'My restaurant will always be first!' After 'will be', 'first' takes an 'ym' ending, which is why it sounds a little different from the dictionary form. 'Always' is plain."),
+    (10, None, "'Then try these beautiful apples.' 'Try' is the polite command. 'Apples' is plural."),
+    (11, None, "'Oh, how sour these apples are!' 'How' becomes 'what kind of' in an exclamation. 'Sour' is related to 'acid'."),
+    (12, None, "'One must know how to choose good fruit!' 'One must' is a short word, and it's followed by 'know how'. 'To know how' means 'to be skilled at'."),
+    (13, None, "'Learn while I am a kind chef!' The word 'poka' means 'while', and it also means 'bye'. 'Learn' ends in 'sya'."),
 ]

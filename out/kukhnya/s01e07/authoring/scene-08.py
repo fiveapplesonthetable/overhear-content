@@ -10,13 +10,13 @@ PAIR = 'ru-en'
 LABELS = {'max': 'Макс', 'nastya': 'Настя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.07'
 SOURCE_FILE = 'sources/kukhnya/s01/e07.ru.dual.srt'
-INTRO = "In the dining room between shifts, Max asks waitress Nastya if she knows of any cheap rooms for rent in Moscow. To his horror, she reveals that Kostya just invited her to move into their shared flat. Desperate to protect his living space, Max cleverly persuades Nastya that living with Kostya would be a noisy nightmare. Let's listen to their conversation in Russian first."
-OPENER = "Let's review this sneaky and hilarious conversation line by line."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = 'Relieved that his bachelor apartment is safe, Max smiles as Nastya decides to find alternative lodging. See you next time!'
+INTRO = "Max has a problem: Kostya has offered Nastya a room in the same flat where Max has just agreed to live. Max doesn't want to share the flat, and he knows how to talk Nastya out of it. It's in Russian first."
+OPENER = "Let's replay the talk. Max is smooth and a bit sly, and the lines are short."
+TRANSITION = 'And the whole persuasion once more.'
+OUTRO = "Max's trick is to make his friend sound unbearable: 'he snores'. It works, and it also gives you a good Russian word for a very common complaint. See you next time."
 CLOSING = ('nastya', 'Пока!')
 STORY = [
-    ('max', 'Настя, ты знаешь, где сдать квартиру?', 'Nastya, do you know where to rent a flat?', [(86, 'Настя, тебя никто знакомый квартиру не сдает')], ''),
+    ('max', 'Настя, ты знаешь, где снять квартиру?', 'Nastya, do you know where to rent a flat?', [(86, 'Настя, тебя никто знакомый квартиру не сдает')], 'a tenant rents with the word for снять, so the line says where to take a flat'),
     ('nastya', 'Сама искала жильё сегодня утром.', 'I was looking for a place myself this morning.', [(88, 'Сама только утром искала')], ''),
     ('max', 'И тебе удалось найти комнату?', 'And did you manage to find a room?', [], ''),
     ('nastya', 'Мне помог Костик, я переезжаю к нему.', 'Kostik helped me, I am moving to his place.', [(89, 'Ну, предложил у него пожить')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('nastya', 'Ты прав, поищу другой вариант.', 'You are right, I will look for another option.', [(107, 'Спасибо, Макс')], ''),
 ]
 WALK = [
-    (0, None, "'Nastya, do you know where to rent a flat?' Max fishes for information about the local real estate market."),
-    (1, None, "'I was looking for a place myself this morning.' Nastya shares that she was just hunting for a spot herself."),
-    (2, None, "'And did you manage to find a room?' He hopes she found a good lead he might be able to use."),
-    (3, None, "'Kostik helped me, I am moving to his place.' She happily announces that she is taking the spare room at Kostya's."),
-    (4, None, "'Wait, Kostya invited you to live together?' Max panics internally, realizing his sweet deal is in jeopardy."),
-    (5, None, "'Yes, after all he and I are dating.' Nastya sees it as a perfectly normal step for a couple."),
-    (6, None, "'To be honest, I do not envy you at all.' He quickly pivots, pretending to pity her future situation."),
-    (7, None, "'Why? Kostya is such a sweet guy.' She is taken aback, defending her supposedly perfect boyfriend."),
-    (8, None, "'At night he snores terribly and loudly!' Max invents a horrible nocturnal habit to scare her away."),
-    (9, None, "'Oh, I cannot stand snoring at all!' Nastya instantly reacts with disgust, revealing her weak spot."),
-    (10, None, "'Think well before agreeing.' He pretends to offer wise counsel while secretly sabotaging the move."),
-    (11, None, "'You are right, I will look for another option.' She falls for the trick and decides to keep looking."),
+    (0, None, "'Nastya, do you know where to rent a flat?' The word a tenant uses for 'rent' is the one that also means 'take off' or 'take down', so it's 'where to take a flat'. There is no 'should': 'where to rent' is just two words."),
+    (1, None, "'I was looking for a place myself this morning.' There's no 'I' at all, only 'myself was looking', and the 'a' tells you it's a woman. 'A place' is the word for housing, from 'to live'."),
+    (2, None, "'And did you manage to find a room?' 'To you it succeeded' is how Russian says 'did you manage'. It's a smooth chunk to know."),
+    (3, None, "'Kostik helped me, I am moving to his place.' The pet form of a name adds a soft 'ik', and it signals warmth. 'Moving' starts with a piece meaning 'across', as if you'd ride across town to a new home."),
+    (4, None, "'Wait, Kostya invited you to live together?' 'Wait' is a casual 'hold on'. 'Invited' is literally 'called', so he 'called you to live together'."),
+    (5, None, "'Yes, we are dating, after all.' The small word 'ved' means 'after all' and adds a feeling of 'it's obvious'. 'Dating' ends in 'sya' and literally means 'meeting each other'."),
+    (6, None, "'To be honest, I do not envy you at all.' Russians envy 'to' someone, so 'you' takes the 'to' form. 'Not at all' puts the 'at all' word in front of the 'not'."),
+    (7, None, "'Why? Kostya is such a sweet guy.' 'Sweet' is the word that Russians use for a lovable person. 'Such' goes in front, and 'guy' is the casual word for a young man."),
+    (8, None, "'At night he snores terribly and loudly!' 'Terribly' comes from 'fear'. 'At night' is the 'yu' form again."),
+    (9, None, "'Oh, I cannot stand snoring at all!' 'I can stand' means 'I can bear'. 'Snoring' is a plain word."),
+    (10, None, "'Think well before agreeing.' 'Before' is a two-word phrase. 'Agreeing' ends in 'sya'."),
+    (11, None, "'You are right, I will look for another option.' 'Right' has a short form that is used for 'you are right'. 'I will look for' has a prefix that means 'for a while'."),
 ]

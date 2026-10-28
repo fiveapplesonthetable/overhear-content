@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'lyova': 'Лёва', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.07'
 SOURCE_FILE = 'sources/kukhnya/s01/e07.ru.dual.srt'
-INTRO = "In the kitchen of Claude Monet, Chef Viktor Barinov puts the finishing touches on a brand new signature sauce. Calling his line cooks over to the stove, he demands their honest feedback and basks in their immediate admiration. Let's listen to their enthusiastic exchange in Russian first."
-OPENER = "Let's examine how Chef Barinov invites his kitchen crew to taste his culinary masterpiece."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Now you understand how Russian chefs present new dishes to their brigade. Listen for these culinary compliments next time you watch the episode. Next time you watch the episode, listen for the Russian expressions for 'to chatter' and 'fast' — you will catch every word right away. See you next time!"
+INTRO = "Barinov has invented a new sauce and wants his cooks to try it. He calls them over, and nobody is going to dare say anything but yes. It's in Russian first."
+OPENER = "Let's go through the tasting. Everyone says what the chef wants to hear."
+TRANSITION = 'Here is the whole tasting again.'
+OUTRO = "The tasting teaches you a handful of praise words: delicious, amazing, delight. They're the cheap way to please a chef. See you next time."
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('barinov', 'Повара, быстро подойдите все сюда!', 'Cooks, quickly come over here, everyone!', [(169, 'подошли все сюда')], ''),
@@ -31,8 +31,17 @@ STORY = [
     ('lyova', 'Всё сделаем идеально, шеф!', 'We will make everything ideally, chef!', [], ''),
 ]
 WALK = [
-    (0, None, "'Cooks, quickly come over here, everyone!' Barinov loudly summons his team for a crucial tasting."),
-    (1, None, "'Everyone taste the new sauce. Quickly!' He demands immediate attention and participation from everyone."),
-    (2, None, "'Amazing sauce, chef, pure delight!' Max heaps extreme praise on the culinary creation."),
-    (3, None, "'I have never tasted anything better.' He flatters the boss by claiming it is the finest thing he has ever eaten. Okay, let's hear the sauce tasting dialogue once more."),
+    (0, None, "'Cooks, quickly come over here, everyone!' 'Cooks' is the plural that ends in 'a'. 'All' is placed near the end for force."),
+    (1, None, "'What did you cook, chef?' 'Prepared' is in the plural because Max is polite. 'What' is the first word."),
+    (2, None, "'Everyone taste the new sauce. Quickly!' The 'we' form of the word is used as an order, so it's 'let us all taste'. 'Sauce' is borrowed."),
+    (3, None, "'Lyova, you taste very first.' 'The very first' is 'most first'. 'You taste' ends in 'esh'."),
+    (4, None, "'Chef, this is incredibly delicious!' 'Incredibly' is built from 'not' and 'credible'. 'Delicious' comes from 'taste'."),
+    (5, None, "'And now it is your turn, Oguzok.' 'Turn' is also the word for a queue. 'Oguzok' is the chef's name for Max."),
+    (6, None, "'Haven't you tasted anything like this in Voronezh?' 'Anything like this' is the compact word 'such' in the 'of' form. 'In Voronezh' ends in 'e'."),
+    (7, None, "'Amazing sauce, Chef, pure delight!' 'Amazing' comes from 'shake'. 'Delight' is a strong, old word."),
+    (8, None, "'I have never tasted anything better.' 'Never' and 'nothing' and 'not' all show up. 'Better' follows 'nothing'."),
+    (9, None, "'Learn while I am kind today!' 'While' is the word that also means 'bye'. 'Learn' ends in 'sya'."),
+    (10, None, "'I genuinely envy our guest.' 'Genuinely' comes from 'sincere'. 'Envy' is followed by 'guest' in the 'to' form."),
+    (11, None, "'Stop chatting, arrange a beautiful presentation.' 'Enough' is followed by 'chat'. 'Arrange' is a polite plural command."),
+    (12, None, "'We will make everything perfectly, Chef!' 'We will do' ends in 'em'. 'Perfectly' is a plain word."),
 ]
