@@ -10,10 +10,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Шеф | Хорошо, давайте только быстро. | Alright, let us just do it quickly. | #132: Хорошо. Давайте только быстро. | verbatim |
+| 1 | Шеф | Хорошо, давайте только быстро. | Alright, let us just do it quickly. | #132 00:09:39: Хорошо. Давайте только быстро. | verbatim |
 | 2 | Лановский | Я перейду сразу к делу. | I will get straight to the point. | new | new |
 | 3 | Лановский | Вы слышали что-нибудь обо мне? | Have you heard anything about me? | new | new |
-| 4 | Шеф | Да, слышали во всех странах. | Yes, heard in all countries. | new | new |
+| 4 | Шеф | Да, слышал. | Yes, I have heard. | new | new |
 | 5 | Лановский | Знаете, как меня называют? | Do you know what they call me? | new | new |
 | 6 | Лановский | Меня называют страшным человеком. | They call me a scary person. | new | new |
 | 7 | Шеф | Месяц назад была проверка. | A month ago there was an inspection. | new | new |
@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Alright, let us just do it quickly.' Barinov agrees to the request but immediately sets a boundary, asking to keep things brief.
-- 'I will get straight to the point.' Lanovsky promises to skip the small talk and jump right into the main topic.
-- 'Have you heard anything about me?' Leaning across the desk with a smug smile, Lanovsky asks whether Viktor has heard of his fearsome reputation.
-- 'Yes, heard in all countries.' Barinov replies with a sarcastic exaggeration, implying that the person's fame is worldwide.
-- 'Do you know what they call me?' The migration officer builds suspense by asking about his own nickname.
-- 'They call me a scary person.' Lanovsky embraces his intimidating reputation, proudly sharing his fearsome title.
-- 'A month ago there was an inspection.' Trying to deflect suspicion, the chef points out that they recently passed a review.
-- 'They did not find anything here.' Trying to bluff his way through, Barinov insists that previous migration checks found nothing wrong here.
-- 'Do you want a mint candy?' Offering a small treat, the guest attempts to create a falsely friendly atmosphere.
-- 'No, I do not need it.' The chef bluntly rejects the polite offer, keeping the interaction strictly professional.
-- 'Our service is like birds.' Lanovsky makes a poetic comparison, likening his department's work to creatures in the sky.
-- 'We always look at you from above.' Finishing his metaphor, the inspector implies that they are constantly watching everyone from a higher position of power.
+- 'Alright, let's just be quick.' Russian's 'let's' is the plural, polite form, used between two people who don't know each other. The little word for 'only' makes 'but quickly' sound like a request.
+- 'I'll get straight to the point.' The key chunk is 'to the matter', and the verb that goes with it means 'move over to'. The Russian for 'immediately' sits in the middle.
+- 'Have you heard anything about me?' Russian's 'anything' is 'what' plus a small tail that makes it 'any'. 'About me' squeezes in an extra 'o', so the little word for 'about' and the word for 'me' flow together.
+- 'Yes, I have heard.' Barinov answers in one word, and the word needs no 'I'. The 'l' on the end says the speaker is a man.
+- 'Do you know what they call me?' 'They call' has no 'they' in front of it, only the ending. It's the way Russian says it when nobody in particular is named.
+- 'They call me a scary person.' When someone is called something, the title takes a special ending, 'ym' on the describing word and 'om' on the person. The Russian for 'scary' is built from the word for fear.
+- 'A month ago there was an inspection.' Russian puts 'ago' after the time, so it says 'month ago'. The 'was' ends in 'a' because 'inspection' is feminine.
+- 'They didn't find anything here.' Russia says 'nothing' and 'not' together, and both are required. 'Here' is the casual word for it.
+- 'Would you like a mint candy?' The offer begins with the thing, and then comes 'not wish', which is how Russians make an offer polite. 'Mint' and 'candy' both end in 'u' sounds because that's what is being offered.
+- 'No, I don't need it.' The structure is 'to me not necessary', and the last word is the one you'll use whenever you want to say you need something. It is short and absolutely clear.
+- 'Our service is like birds.' Russian's 'is like' ends in 'a' to match 'service', which is feminine. 'Birds' has no ending after 'on', since it's the plural form.
+- 'We always look at you from above.' 'From above' is a single word. 'We look' has an 'm' ending for 'we', and 'always' sits in the middle.

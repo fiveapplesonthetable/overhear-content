@@ -10,15 +10,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Макс | Шеф. | Chef. | #33: Шеф. | verbatim |
+| 1 | Макс | Шеф. | Chef. | #33 00:02:35: Шеф. | verbatim |
 | 2 | Шеф | Что тебе надо? | What do you need? | new | new |
-| 3 | Макс | А что вы готовите? | And what are you preparing? | #34: А что вы готовите? | verbatim |
-| 4 | Шеф | А тебе какое дело? | And what is it to you? | #34: Тебе какое дело? | verbatim |
-| 5 | Шеф | Тебе нечем заняться? | Do you have nothing to do? | #35: Тебе что, заняться нечем? | verbatim |
-| 6 | Макс | У меня есть пять минут. | I have five minutes. | #35: Ну, у меня пять минут есть, | verbatim |
-| 7 | Макс | Я хотел поучиться у вас. | I wanted to learn from you. | #35: я хотел поучиться у вас. | verbatim |
+| 3 | Макс | А что вы готовите? | And what are you preparing? | #34 00:02:36: А что вы готовите? | verbatim |
+| 4 | Шеф | А тебе какое дело? | And what is it to you? | #34 00:02:36: Тебе какое дело? | verbatim |
+| 5 | Шеф | Тебе нечем заняться? | Do you have nothing to do? | #35 00:02:38: Тебе что, заняться нечем? | verbatim |
+| 6 | Макс | У меня есть пять минут. | I have five minutes. | #35 00:02:38: Ну, у меня пять минут есть, | verbatim |
+| 7 | Макс | Я хотел поучиться у вас. | I wanted to learn from you. | #35 00:02:38: я хотел поучиться у вас. | verbatim |
 | 8 | Шеф | Иди работай. | Go work. | new | new |
-| 9 | Макс | А можно попробовать? | And can I try it? | #36: А можно попробовать? | verbatim |
+| 9 | Макс | А можно попробовать? | And can I try it? | #36 00:02:42: А можно попробовать? | verbatim |
 | 10 | Шеф | Нет, нельзя. | No, you cannot. | new | new |
 | 11 | Макс | Почему? | Why? | new | new |
 | 12 | Шеф | Потому что я так сказал. | Because I said so. | new | new |
@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef.' Max tries to grab his boss's attention with a respectful title.
-- 'What do you need?' Barinov snaps back, annoyed by the interruption.
-- 'And what are you preparing?' Curious about the dish, Max attempts to start a conversation about cooking.
-- 'And what is it to you?' The chef dismisses the question entirely, refusing to share his process.
-- 'Do you have nothing to do?' Barinov implies that his subordinate should be busy with his own tasks instead of hovering.
-- 'I have five minutes.' Max defends his presence by pointing out his brief break.
-- 'I wanted to learn from you.' He flatters the older man, expressing a desire to pick up some culinary skills.
-- 'Go work.' Unmoved by the compliment, the boss orders him back to his station.
-- 'And can I try it?' Max pushes his luck, asking for a taste of the mysterious dish.
-- 'No, you cannot.' Barinov flatly denies the request without any hesitation.
-- 'Why?' Max whines a little, looking for a reason behind the strict refusal.
-- 'Because I said so.' The chef shuts down the argument using his absolute authority.
-- 'Alright, I understand.' Defeated, Max backs off and accepts the rejection.
-- 'Then go from here.' Barinov delivers a final, harsh instruction for the younger man to leave the area.
+- 'Chef.' One word is enough. Max uses the title instead of a name, and it is the Russian spelling of a French word, so you already know it.
+- 'What do you need?' Barinov says 'to you' with the casual form, the way a boss talks down to a junior. The last word means 'needed' and has no 'I', 'you' or 'is' anywhere near it.
+- 'And what are you cooking?' Max answers with the polite 'you' that matches the ending on Russian's 'cook'. It starts with a small 'and', which here only softens the question.
+- 'And what's it to you?' Word for word it is 'and to-you what business', which is how Russian says 'mind your own'. The casual 'to you' comes back from the first line.
+- 'Don't you have anything to do?' The word 'nechem' squeezes 'with nothing' into one piece. The end of the last word, 'sya', is the little 'oneself' that Russians add to 'occupy yourself'.
+- 'I have five minutes.' Russian has no 'I have' here, so the line says 'at me there is'. After 'five' the word for minutes loses its ending, one of those number rules you simply absorb.
+- 'I wanted to learn from you.' The 'l' on the end of 'wanted' tells you the speaker is a man; a woman would add an 'a'. The little word 'u' appears again, this time meaning 'from you'.
+- 'Go work.' Two commands side by side with no 'and' between them, which Russians do all the time. They're short, flat and rude.
+- 'And can I try it?' The word for 'is it possible' is the way to ask permission, and Max slips it in cheekily. The verb at the end is for tasting rather than for any old trying.
+- 'No, you cannot.' This is the exact opposite of the word Max just used, and it means 'not allowed'. It's the most useful 'no' in Russian for rules and signs.
+- 'Why?' It is one word, and it is the same 'why' every child uses. Max isn't going to give up that easily.
+- 'Because I said so.' The first two words are 'because', literally 'for that, what'. The ending on 'said' is the masculine 'l' again.
+- 'Alright, I understand.' The first word means 'fine, okay' and sounds resigned. Max's 'understood' has the masculine 'l' ending, so a woman here would say it with an 'a' on the end.
+- 'Then get out of here.' The Russian for 'from here' makes it a proper dismissal. 'Go' is the same command as before, and now it's an order to leave the room.

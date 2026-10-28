@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Макс | Попробуй новый вариант блюда. | Try the new version of the dish. | #88: попробуй новый вариант, а? | verbatim |
-| 2 | Макс | Шеф, выход через зал закрыт. | Chef, the exit through the hall is closed. | #108: Шеф, с парадом не вариант. | verbatim |
-| 3 | Шеф | Мы выходим по одному человеку. | We exit one person at a time. | #92: Не ломимся толпой, выходим по одному человеку. | verbatim |
-| 4 | Шеф | Половина идёт через зал. | Half goes through the hall. | #97: Половина через зал. | verbatim |
-| 5 | Шеф | Что вы за идиоты? | What kind of idiots are you? | #110: Что вы за инвалиды? | verbatim |
-| 6 | Шеф | Быстро ко мне в кабинет. | Quickly to my office. | #113: Ко мне в кабинет, только тихо. | verbatim |
-| 7 | Лановский | Добрый день, Виктор Петрович. | Good afternoon, Viktor Petrovich. | #117: О, Виктор Петрович, чрезвычайно рад с вами лично познакомиться. | verbatim |
-| 8 | Лановский | Я майор миграционной службы. | I am a major of the migration service. | #121: майор федеральной миграционной службы. | verbatim |
-| 9 | Лановский | Мы можем пройти в кабинет? | Can we go to the office? | #124: Виктор Петрович, мы не могли бы пройти в ваш кабинет и обсудить все там? | verbatim |
-| 10 | Шеф | К сожалению, я не могу. | Unfortunately, I cannot. | #125: К сожалению, не могу. | verbatim |
-| 11 | Шеф | Мне нужно готовить для гостей. | I need to cook for the guests. | #127: Простите, мне нужно готовить для гостей нашего замечательного ареста. | verbatim |
-| 12 | Лановский | Хорошо, я подожду вас здесь. | Alright, I will wait for you here. | #131: Я, с вашего позволения, подожду вас здесь. | verbatim |
+| 1 | Шеф | Половина идёт через чёрный ход. | Half go through the back door. | #88 00:07:16: попробуй новый вариант, а? | verbatim |
+| 2 | Шеф | Половина идёт через зал. | Half go through the hall. | #108 00:08:10: Шеф, с парадом не вариант. | verbatim |
+| 3 | Макс | Шеф, чёрный ход закрыт! | Chef, the back door is closed! | #92 00:07:28: Не ломимся толпой, выходим по одному человеку. | verbatim |
+| 4 | Шеф | Что вы за идиоты? | What kind of idiots are you? | #97 00:07:43: Половина через зал. | verbatim |
+| 5 | Шеф | Даже сбежать вы не можете! | You cannot even run away! | #110 00:08:20: Что вы за инвалиды? | verbatim |
+| 6 | Шеф | Быстро ко мне в кабинет. | Quickly to my office. | #113 00:08:27: Ко мне в кабинет, только тихо. | verbatim |
+| 7 | Лановский | Добрый день, Виктор Петрович. | Good afternoon, Viktor Petrovich. | #117 00:08:41: О, Виктор Петрович, чрезвычайно рад с вами лично познакомиться. | verbatim |
+| 8 | Лановский | Я майор миграционной службы. | I am a major of the migration service. | #121 00:08:50: майор федеральной миграционной службы. | verbatim |
+| 9 | Лановский | Мы можем пройти в кабинет? | Can we go to the office? | #124 00:08:57: Виктор Петрович, мы не могли бы пройти в ваш кабинет и обсудить все там? | verbatim |
+| 10 | Шеф | К сожалению, я не могу. | Unfortunately, I cannot. | #125 00:09:02: К сожалению, не могу. | verbatim |
+| 11 | Шеф | Мне нужно готовить для гостей. | I need to cook for the guests. | #127 00:09:09: Простите, мне нужно готовить для гостей нашего замечательного ареста. | verbatim |
+| 12 | Лановский | Хорошо, я подожду вас здесь. | Alright, I will wait for you here. | #131 00:09:22: Я, с вашего позволения, подожду вас здесь. | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Try the new version of the dish.' Max shoves another plate forward, asking for a fresh taste test of his updated attempt.
-- 'Chef, the exit through the hall is closed.' Warning the boss, the young cook points out that their usual escape route is blocked.
-- 'We exit one person at a time.' Barinov takes control of the panic, ordering his team to leave the room singly.
-- 'Half goes through the hall.' Directing the flow of traffic, he tells fifty percent of them to take the main route.
-- 'What kind of idiots are you?' Losing his temper, the chef yells at his staff for acting foolishly during the crisis.
-- 'Quickly to my office.' Demanding immediate action, he tells them to rush into his private workspace.
-- 'Good afternoon, Viktor Petrovich.' Lanovsky enters politely, offering a formal greeting to the man in charge.
-- 'I am a major of the migration service.' Introducing himself, the visitor states his rank and government agency.
-- 'Can we go to the office?' Requesting a private space, the official asks if they can move into the back room.
-- 'Unfortunately, I cannot.' Barinov politely declines, claiming he is too tied up with his current duties.
-- 'I need to cook for the guests.' Providing an excuse, the chef explains that he has to finish preparing meals for the patrons.
-- 'Alright, I will wait for you here.' Lanovsky calmly accepts the delay, stating he is perfectly fine staying right where he is.
+- 'Half go through the back door.' The Russian for 'half' is singular, so the 'goes' that follows is singular too, though many people are involved. The back door is 'black way' in Russian, a neat piece of word-picture.
+- 'Half go through the hall.' The same pattern again, with a different place. 'Hall' is also what Russians call the dining room of a restaurant.
+- 'Chef, the back door is closed!' There is no 'is' in the Russian. The Russian for 'closed' does the job all by itself, and Max just says it.
+- 'What kind of idiots are you?' The little word 'za' in the middle turns 'what' into 'what kind of'. Barinov uses the polite 'you' here, because he is speaking to the whole group.
+- 'You cannot even run away!' Russian's 'even' sits in front of the thing that fails. 'Can't' is plural and polite, since he's shouting at all of them.
+- 'Quickly to my office.' There is no word for 'go' in it, only the direction. The first part of the phrase, 'ko mne', means 'to me' and has an 'o' added to make it easy to say.
+- 'Good afternoon, Viktor Petrovich.' The second name means 'son of Pyotr', and using both names is how you speak to someone with respect. The greeting itself is the same 'kind day' that you'd use all afternoon.
+- 'I am a major of the migration service.' Russian has no 'am' here, so the sentence is just 'I major'. The 'oy' ending on 'service' and on its describing word is the 'of' form.
+- 'Can we go to the office?' 'We can' is one word. After the 'go' word comes the 'to the office', and the office itself keeps its form because it's a direction.
+- 'Unfortunately, I cannot.' The opening is a fixed phrase that really means 'to my regret'. 'I can't' is the irregular 'I' form, so it's worth learning whole.
+- 'I need to cook for the guests.' Russian says 'to me needed', not 'I need'. The word for 'guests' ends in 'ey', which is the plural after 'for'.
+- 'Alright, I'll wait for you here.' The Russian for 'wait' is the kind that means to wait a while, and its ending is the 'I' one. The major is polite and in no rush, which is the worrying part.

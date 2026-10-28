@@ -224,15 +224,23 @@
     },
     {
       "seg": 7,
-      "trans": "He will sit in the hall.",
+      "trans": "Let him sit in the hall for a while.",
       "words": [
         {
-          "t": "Сядет",
-          "lemma": "сесть",
+          "t": "Пусть",
+          "lemma": "пусть",
+          "pos": "part",
+          "stress": null,
+          "gloss": "let (him)",
+          "gram": "particle"
+        },
+        {
+          "t": "посидит",
+          "lemma": "посидеть",
           "pos": "verb",
-          "stress": "ся́дет",
-          "gloss": "to sit down",
-          "gram": "todo"
+          "stress": "посиди́т",
+          "gloss": "he will sit for a while",
+          "gram": "3rd person singular, perfective future"
         },
         {
           "t": "в",
@@ -243,12 +251,12 @@
           "gram": "preposition"
         },
         {
-          "t": "зал.",
+          "t": "зале.",
           "lemma": "зал",
           "pos": "noun",
-          "stress": null,
+          "stress": "за́ле",
           "gloss": "hall",
-          "gram": "nominative / accusative"
+          "gram": "prepositional masculine singular"
         }
       ]
     },
@@ -716,15 +724,23 @@
     },
     {
       "seg": 28,
-      "trans": "He will sit in the hall.",
+      "trans": "Let him sit in the hall for a while.",
       "words": [
         {
-          "t": "Сядет",
-          "lemma": "сесть",
+          "t": "Пусть",
+          "lemma": "пусть",
+          "pos": "part",
+          "stress": null,
+          "gloss": "let (him)",
+          "gram": "particle"
+        },
+        {
+          "t": "посидит",
+          "lemma": "посидеть",
           "pos": "verb",
-          "stress": "ся́дет",
-          "gloss": "to sit down",
-          "gram": "todo"
+          "stress": "посиди́т",
+          "gloss": "he will sit for a while",
+          "gram": "3rd person singular, perfective future"
         },
         {
           "t": "в",
@@ -735,12 +751,12 @@
           "gram": "preposition"
         },
         {
-          "t": "зал.",
+          "t": "зале.",
           "lemma": "зал",
           "pos": "noun",
-          "stress": null,
+          "stress": "за́ле",
           "gloss": "hall",
-          "gram": "nominative / accusative"
+          "gram": "prepositional masculine singular"
         }
       ]
     },
@@ -1208,15 +1224,23 @@
     },
     {
       "seg": 50,
-      "trans": "He will sit in the hall.",
+      "trans": "Let him sit in the hall for a while.",
       "words": [
         {
-          "t": "Сядет",
-          "lemma": "сесть",
+          "t": "Пусть",
+          "lemma": "пусть",
+          "pos": "part",
+          "stress": null,
+          "gloss": "let (him)",
+          "gram": "particle"
+        },
+        {
+          "t": "посидит",
+          "lemma": "посидеть",
           "pos": "verb",
-          "stress": "ся́дет",
-          "gloss": "to sit down",
-          "gram": "todo"
+          "stress": "посиди́т",
+          "gloss": "he will sit for a while",
+          "gram": "3rd person singular, perfective future"
         },
         {
           "t": "в",
@@ -1227,12 +1251,12 @@
           "gram": "preposition"
         },
         {
-          "t": "зал.",
+          "t": "зале.",
           "lemma": "зал",
           "pos": "noun",
-          "stress": null,
+          "stress": "за́ле",
           "gloss": "hall",
-          "gram": "nominative / accusative"
+          "gram": "prepositional masculine singular"
         }
       ]
     },
@@ -4977,6 +5001,161 @@
         {
           "word": "мне",
           "gloss": "to me (dative)"
+        }
+      ]
+    },
+    "пусть": {
+      "lemma": "пусть",
+      "stress": "пусть",
+      "pos": "part",
+      "gloss": "let (them)",
+      "meanings": [
+        {
+          "en": "let",
+          "note": "+ 3rd person verb: 'пусть строят' = let them build"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Пусть строят.",
+          "trans": "Let them build."
+        },
+        {
+          "text": "Пусть он придёт.",
+          "trans": "Let him come."
+        },
+        {
+          "text": "Ты преподавай. А они пусть строят свои торговые центры.",
+          "trans": "You teach. And let them build their shopping centres."
+        }
+      ],
+      "related": [
+        {
+          "word": "пустить",
+          "gloss": "to let go"
+        },
+        {
+          "word": "пустой",
+          "gloss": "empty"
+        },
+        {
+          "word": "допустить",
+          "gloss": "to allow"
+        }
+      ]
+    },
+    "посидеть": {
+      "lemma": "посидеть",
+      "stress": "посиде́ть",
+      "pos": "verb",
+      "gloss": "to sit for a while; to stay (with someone)",
+      "aspect": "pf",
+      "pair": "сидеть",
+      "meanings": [
+        {
+          "en": "to sit for a while",
+          "note": "Perfective of limited duration. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'сидеть'). Used as an perfective (single completed action) verb meaning 'to sit for a while; to stay (with someone)', paired with 'сидеть'."
+        },
+        {
+          "en": "to stay with, keep company",
+          "note": "Посиди с ним = stay with him. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'сидеть'). Used as an perfective (single completed action) verb meaning 'to sit for a while; to stay (with someone)', paired with 'сидеть'."
+        }
+      ],
+      "forms": {
+        "title": "Future",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "посижу",
+              "посидим"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "посидишь",
+              "посидите"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "посидит",
+              "посидят"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Past",
+          "columns": [
+            "",
+            "m",
+            "f",
+            "n",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "past",
+                "посидел",
+                "посидела",
+                "посидело",
+                "посидели"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "посиди",
+                "посидите"
+              ]
+            }
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Посиди с Викой.",
+          "trans": "Stay with Vika for a while."
+        },
+        {
+          "text": "Давай посидим в кафе.",
+          "trans": "Let's sit in a café for a bit."
+        },
+        {
+          "text": "Слушай, я уеду на полтора часа. Ты с Викой посиди, понял?",
+          "trans": "Listen, I'm going out for an hour and a half. You stay with Vika, got it?"
+        }
+      ],
+      "related": [
+        {
+          "word": "сидеть",
+          "gloss": "to sit"
+        },
+        {
+          "word": "отсидеться",
+          "gloss": "to sit out"
         }
       ]
     }

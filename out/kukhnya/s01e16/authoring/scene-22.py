@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'max': 'Макс', 'nastya': 'Настя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.16'
 SOURCE_FILE = 'sources/kukhnya/s01/e16.ru.dual.srt'
-INTRO = "The fire inspector makes a harsh decision. Let's listen closely to their exchange in Russian first, and then walk through each line together at Claude Monet. Let's listen closely to the Russian exchange first, and then walk through every line together."
-OPENER = "Now let's go back through the exchange around My duty line by line and unpack how the Russian works."
+INTRO = "At Claude Monet, the news is bad. Barinov asks what has just been said, and Nastya tells him they've been told to go; for a moment it looks like the end of everything. We'll hear it in Russian first."
+OPENER = "Now let's go through it carefully."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "The fire inspector makes a harsh decision. Let us see what happens next in this scene. Next time you watch the episode, listen for the Russian expressions for 'to say' and 'to leave' — you will catch every word right away. See you next time!"
+OUTRO = "Nobody in the kitchen is sure what happens next. Remember that 'dolg' means both 'duty' and 'debt', which is why Russians use it for obligations of any kind. See you next time!"
 CLOSING = ('nastya', 'До свидания!')
 STORY = [
     ('barinov', 'Что он сказал?', 'What did he say?', [], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('barinov', 'Хорошо.', 'Good.', [], ''),
 ]
 WALK = [
-    (0, None, "'What did he say?' Demanding an update, the head cook asks for the exact words spoken by the officer."),
-    (1, None, "'He told us to leave.' Nastya passes on the grim instruction that everyone must clear out."),
-    (2, None, "'I do not believe this.' Expressing pure shock, the chef refuses to accept the terrible news."),
-    (3, None, "'Is this the end?' A sense of doom hangs in the air as she wonders if their workplace is closed forever."),
-    (4, None, "'I do not know.' Barinov repeats his earlier feeling of helplessness, unable to predict the future."),
-    (5, None, "'Chef, what to do?' Max turns to his boss for guidance, asking for their next course of action."),
-    (6, None, "'We must leave.' Realizing they have no choice, the manager accepts the order to evacuate."),
-    (7, None, "'I am very sorry.' Apologizing for her role in the disaster, the waitress expresses deep regret."),
-    (8, None, "'Pack your things.' A short, sharp instruction is given to start gathering belongings."),
-    (9, None, "'I am sorry.' Repeating her apology shows just how awful she feels about the entire situation."),
-    (10, None, "'It is my duty.' Defending her actions, she claims she was only following her personal moral code."),
-    (11, None, "'Good.' A quick, dismissive reply ends the conversation, showing his cold acceptance."),
+    (0, None, "'What did he say?' The order is just like English. The past form of 'say' ends in a bare 'l' because the one who spoke is a man."),
+    (1, None, "'He told us to leave.' Russian says 'said to us', with an 'am' type ending, and then simply 'to leave'. It leaves out the 'that'."),
+    (2, None, "'I don't believe it.' Russians believe 'in' something, so a small word for 'in' comes before 'this'. The 'u' at the end of 'believe' is the 'I' ending."),
+    (3, None, "'Is this the end?' There's no word for 'is', and the question comes only from the rising voice. The word for 'end' ends in a hard 'ts'."),
+    (4, None, "'I don't know.' This time the 'I' is spelled out, which gives the line a heavier tone. Without it, the line would sound a touch more casual."),
+    (5, None, "'Chef, what do we do?' It's just 'what to do', in the basic form, with no 'we' at all. Max talks to the boss with a plain title."),
+    (6, None, "'We have to leave.' 'Must' is plural to go with 'we'. 'Leave' is the finished kind, meaning to go away for good."),
+    (7, None, "'I'm very sorry.' Russian says 'to me very pity', so the sorrow is something that happens to you. It's a gentle way to give bad news."),
+    (8, None, "'Pack your things.' The 'sya' on the end means 'gather yourselves', and 'te' makes it a command to several people. In real life it also means 'get ready to go'."),
+    (9, None, "'Excuse me.' It's the standard word for apologising to a stranger, like bumping into someone. It ends in 'ite', the polite command ending again."),
+    (10, None, "'It's my duty.' The word for 'duty' is also the word for 'debt', so duty is what you owe. 'My' is masculine to match."),
+    (11, None, "'Good.' It sounds resigned here, like 'fine' or 'all right'. Barinov has nothing left to argue with."),
 ]

@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'inspector': 'Инспектор', 'senya': 'Сеня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.16'
 SOURCE_FILE = 'sources/kukhnya/s01/e16.ru.dual.srt'
-INTRO = "Focused on the lost key, The kitchen staff feigns ignorance about the lost key until Chef produces a spare. Let's listen closely to Chef Viktor and the staff's exchange in Russian first, and then walk through each line together."
-OPENER = 'Now let us examine the conversation line by line.'
+INTRO = "The fridge is locked, and the cooks are suddenly very sure they have never seen the spare key. The inspector plays along and says his own staff lost the key too. Barinov, meanwhile, decides he does have a spare after all. We'll hear it in Russian first."
+OPENER = 'Back through it, line by line.'
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "The kitchen staff feigns ignorance about the lost key until Chef produces a spare. Next time you watch the episode, listen for the Russian expressions for 'to see' and 'spare' — you will catch every word right away. See you next time!"
+OUTRO = "The key turns up at exactly the wrong moment for Fedya. Notice 'vot on', which means 'here it is', and how Russian says 'he' for a key. See you next time!"
 CLOSING = ('inspector', 'Пока!')
 STORY = [
     ('barinov', 'Никто не видел запасного ключа?', 'Has anyone seen the spare key?', [(169, 'Никто не видел запасного ключа?')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('inspector', 'Нашелся ключ?', 'Found the key?', [(179, 'Нашелся? Ключ.')], ''),
 ]
 WALK = [
-    (0, None, "'Has anyone seen the spare key?' Barinov pretends to look for a missing item, stalling for time while standing in front of the locked door."),
-    (1, None, "'We do not know.' Senya plays along with the boss's act, denying any knowledge of the missing object."),
-    (2, None, "'And we have not seen it.' Adding to the lie, the cook insists that they have not laid eyes on the item in question."),
-    (3, None, "'But, generally speaking...' The frustrated official tries to interject, clearly losing patience with the obvious delay tactics."),
-    (4, None, "'I am afraid I cannot help you.' Delivering a dismissive remark, the official states his inability to assist in the current situation."),
-    (5, None, "'My staff lost the key.' Trying to stall the raid, Barinov claims with a straight face that his staff misplaced the storage room key."),
-    (6, None, "'What a shame.' Barinov reacts with exaggerated, theatrical disappointment to the news about the missing item."),
-    (7, None, "'Oh, oh, oh.' The chef continues his fake performance of distress with a series of theatrical sighs."),
-    (8, None, "'So what are we to do?' Asking a rhetorical question, the guest pushes them to find a solution to this convenient problem."),
-    (9, None, "'I have a spare key.' Barinov suddenly produces a solution, ending the charade of the lost item."),
-    (10, None, "'I always keep a duplicate.' The boss brags about his foresight, explaining why he conveniently had a backup ready."),
-    (11, None, "'Ah, there is the key.' Once the coast is clear, Barinov pats his pocket and pretends to discover the missing key at last."),
-    (12, None, "'Found the key?' The officer responds with heavy sarcasm, clearly not believing the little performance he just watched."),
+    (0, None, "'Has anyone seen the spare key?' It is 'no one not saw', with the 'not' in there as well. Russian needs it. 'Spare' comes from the word for a stock or reserve."),
+    (1, None, "'We don't know.' The ending on 'know' is the 'em' that says 'we'. The tiny opening word is like our 'well'."),
+    (2, None, "'And we haven't seen it.' It echoes the question's own word for 'saw', now with the 'li' that means more than one person. Nobody wants to be the one who admits to anything."),
+    (3, None, "'But, generally speaking...' This is the trailing-off kind of word that Russians use when they have run out of what to say. It's pronounced something like 'vaapshe'."),
+    (4, None, "'I can't help you.' Russian says 'help to you' rather than 'help you', so the 'you' has the 'am' ending. Before it comes 'with nothing I can't', a very official-sounding opening."),
+    (5, None, "'My staff lost the key.' 'My' is in the plural, and so is the 'li' ending of 'lost'. The inspector shifts the blame to his people."),
+    (6, None, "'What a shame.' The first word is an old-fashioned 'what a', which makes the line sound like mock sympathy. The second is 'annoyance', so he doesn't sound sad at all."),
+    (7, None, "'Oh, oh, oh.' 'Oy' is Russian's all-purpose groan. Saying it three times is Barinov overacting."),
+    (8, None, "'So what are we to do?' It's 'how then to-us to-be', an idiom, and the little 'zhe' in the middle adds weight. You can use the same frame to ask about anything you're stuck on."),
+    (9, None, "'I have a spare key.' 'At me there is', the pattern for 'I have'. 'Spare' goes with the masculine word for 'key'."),
+    (10, None, "'I always keep duplicates.' 'Duplicates' is borrowed, so it's easy to spot. The 'keep' word comes last in the line, which gives it extra emphasis."),
+    (11, None, "'Ah, there is the key.' Russian says 'here he', and not 'here it', because the word for key is masculine. A thing is 'he', 'she' or 'it' depending on its word."),
+    (12, None, "'Did the key turn up?' The 'sya' ending on 'found' makes it 'found itself', which means it turned up on its own. That's how Russians talk about lost things that reappear."),
 ]

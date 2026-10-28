@@ -10,11 +10,11 @@ PAIR = 'ru-en'
 LABELS = {'inspector': 'Инспектор', 'louis': 'Луи'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.16'
 SOURCE_FILE = 'sources/kukhnya/s01/e16.ru.dual.srt'
-INTRO = "Having seen right through Louis's disguise in the dining room, the migration officer demands to inspect his official work papers. When the French pastry chef admits that his documents are not in order, the inspector firmly escorts him toward Chef Barinov's office. Let's listen to their exchange in Russian."
-OPENER = "Let's see how the migration officer questions Louis and orders him to the office."
+INTRO = "The inspector has seen through Louis, and now he asks for the one thing a guest wouldn't have to show: his work permit. Louis explains that his papers are somewhere else, and things go downhill from there. First, the Russian."
+OPENER = "Let's go through it in order."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = 'That wraps up this scene from Kukhnya. Listen for these everyday Russian expressions when you watch the episode. See you next time!'
-CLOSING = ('inspector', 'Пока!')
+OUTRO = "The inspector politely marches Louis off to see the chef. Next time you hear someone say 'proydyomte', which is the polite way to say 'come along', you'll know what it is. See you next time!"
+CLOSING = ('inspector', 'До свидания!')
 STORY = [
     ('inspector', 'Где ваше разрешение на работу?', 'Where is your work permit?', [], ''),
     ('louis', 'Мои документы лежат в кабинете шефа.', "My documents are lying in the chef's office.", [], ''),
@@ -31,8 +31,17 @@ STORY = [
     ('louis', 'Хорошо, пойдёмте в кабинет шефа.', "All right, let's go to the chef's office.", [], ''),
 ]
 WALK = [
-    (0, None, "'Where is your work permit?' A direct demand is fired off, asking for official authorization to hold a job in the country."),
-    (1, None, "'I simply forgot to make new documents.' Louis tries to excuse himself by claiming he merely slipped up on renewing his paperwork."),
-    (2, None, "'I need to talk to your boss.' Firm and serious, the migration officer insists on speaking directly with the manager in charge."),
-    (3, None, "'Get up, now come with me.' An authoritative command tells the cook to stand and follow him immediately."),
+    (0, None, "'Where is your work permit?' The word for 'permit' comes from the verb 'to allow', so it's a permission. 'For work' is two small words, with the work in a form ending in 'u'."),
+    (1, None, "'My documents are in the chef's office.' Russians say that papers 'lie' somewhere, as if they were people having a rest. The chef's office has two endings, 'e' for 'in' and 'a' for 'of the chef'."),
+    (2, None, "'Don't you have the necessary papers?' After 'there isn't', the missing thing takes a different ending, here on both 'necessary' and 'papers'. The first words are the 'at you there isn't' pattern."),
+    (3, None, "'I simply forgot to make new documents.' 'Forgot' has the masculine 'l', and it is followed by the plain 'to make', as in English. 'New documents' are plural, and so are the endings."),
+    (4, None, "'This is a very big problem for the restaurant.' 'Big' ends in 'aya' because 'problem' is feminine. 'For the restaurant' is a short word and the 'a' ending."),
+    (5, None, "'I make the best desserts here!' The word for 'best' is irregular, and it doesn't look like the word for 'good'. 'Desserts' is plural, so it has a 'y' ending."),
+    (6, None, "'The law is one for all people.' It has no 'is' and is shaped like a proverb. 'For all people' puts both words in the plural 'for' form."),
+    (7, None, "'What are you going to do now?' 'Will you do' is made from the word for 'will be' plus 'do', as in English. 'Now' is a word you'll hear every day."),
+    (8, None, "'I need to speak to your boss.' The pattern is 'to me needed', then 'to have a talk' with the 'po' prefix that makes it a short chat. 'With your boss' has an 'im' ending."),
+    (9, None, "'Our chef is very busy right now.' 'Busy' is a short form, and the ending would change for a woman. 'Right now' is a good one-word reply to a request for someone's time."),
+    (10, None, "'He will quickly find time for me.' 'Will find' is a future made from a finished action. The 'me' after 'for' has the ending that Russian puts on it whenever it is the one affected."),
+    (11, None, "'Get up, now come with me.' The first word is the polite plural order for 'stand up'. The second word, with the 'te' at the end, is the formal 'come along'."),
+    (12, None, "'Alright, let's go to the chef's office.' Louis uses the same 'te' form but this time as 'let's go'. The office doesn't change since it's a direction."),
 ]

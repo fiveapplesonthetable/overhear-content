@@ -10,38 +10,38 @@ PAIR = 'ru-en'
 LABELS = {'ainura': 'Айнура', 'barinov': 'Шеф'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.16'
 SOURCE_FILE = 'sources/kukhnya/s01/e16.ru.dual.srt'
-INTRO = "The fire inspector is inspecting Claude Monet. The kitchen is in chaos. Let's listen closely to their exchange in Russian first, and then walk through each line together."
-OPENER = "Now let's go back through the exchange around Can I help line by line and unpack how the Russian works."
+INTRO = 'The inspector has left Barinov with a fine and a bigger problem: Louis, his pastry chef, is to be deported. Ainura, who has just played the guest in the dining room, offers to help, and Barinov, out of ideas, thinks aloud. First the Russian.'
+OPENER = "Let's take it one piece at a time."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "The fire inspector is inspecting Claude Monet. The kitchen is in chaos. Let us see what happens next in this scene. Next time you watch the episode, listen for the Russian expressions for 'can' and 'to help' — you will catch every word right away. See you next time!"
+OUTRO = "Ainura agrees to try, though neither of them quite knows how. Keep an ear out for 'mozhet': here it means 'maybe', although in other sentences it means 'can'. See you next time!"
 CLOSING = ('ainura', 'До свидания!')
 STORY = [
     ('ainura', 'Шеф, может помочь?', 'Chef, can I help?', [(277, 'Шеф, может помочь?')], ''),
     ('barinov', 'Не знаю.', "I don't know.", [(278, 'Не знаю.')], ''),
     ('barinov', 'Меня он оштрафовал.', 'He fined me.', [(278, 'Меня он оштрафовал')], ''),
-    ('barinov', 'Тебя депортировать.', 'You must be deported.', [(278, 'тебя депортировать.')], ''),
-    ('barinov', 'Думаю, что это?', "I'm thinking, what is this?", [(279, 'Думаю, что это?')], ''),
+    ('barinov', 'Луи он хочет депортировать.', 'He wants to deport Louis.', [(278, 'тебя депортировать.')], ''),
+    ('barinov', 'Что же делать?', 'What should we do?', [(279, 'Думаю, что это?')], ''),
     ('barinov', 'Думаю, нет.', "I don't think so.", [(279, 'Думаю, нет.')], ''),
     ('barinov', 'С другим может...', 'Maybe with another...', [(280, 'С другим может...')], ''),
     ('barinov', 'Договориться удастся.', 'We could negotiate.', [(281, 'Договориться удастся.')], ''),
-    ('ainura', 'Вот.', 'There.', [(282, 'Вот.')], ''),
-    ('ainura', 'Хотя...', 'Though...', [(283, 'Хотя,')], ''),
-    ('ainura', 'Если ты ему жизнь спасёшь...', 'If you save his life...', [(283, 'если ты ему жизнь спасешь,')], ''),
-    ('ainura', 'Может, он нас и простит.', 'Maybe he will forgive us.', [(283, 'может, он нас и простит.')], ''),
-    ('ainura', 'Стульчик, да?', 'A chair, right?', [(284, 'Стульчик, да?')], ''),
+    ('barinov', 'Вот.', 'There.', [(282, 'Вот.')], ''),
+    ('barinov', 'Хотя...', 'Though...', [(283, 'Хотя,')], ''),
+    ('barinov', 'Если ты ему жизнь спасёшь...', 'If you save his life...', [(283, 'если ты ему жизнь спасешь,')], ''),
+    ('barinov', 'Может, он нас и простит.', 'Maybe he will forgive us.', [(283, 'может, он нас и простит.')], ''),
+    ('ainura', 'Хорошо, шеф. Я попробую.', 'All right, Chef. I will try.', [(284, 'Стульчик, да?')], ''),
 ]
 WALK = [
-    (0, None, "'Chef, can I help?' Ainura offers her assistance, turning a simple phrase into a question just by raising her pitch at the end."),
-    (1, None, "'I don't know.' Feeling completely defeated, the head cook admits he has no idea what to do next."),
-    (2, None, "'He fined me.' Barinov gives a blunt update, stating that the restaurant has been hit with a financial penalty."),
-    (3, None, "'You must be deported.' The harsh reality comes out as he tells her she is going to be sent away."),
-    (4, None, "'I'm thinking, what is this?' Pausing to collect his thoughts, the boss tries to figure out their current predicament."),
-    (5, None, "'I don't think so.' Quickly dismissing an idea, he rejects the possibility out of hand."),
-    (6, None, "'Maybe with another...' A flicker of hope appears as he wonders if dealing with a different official might change things."),
-    (7, None, "'We could negotiate.' The possibility of reaching a mutual agreement or paying a bribe is briefly entertained."),
-    (8, None, "'There.' Handing something over, the cleaner uses a tiny word to focus attention on the object."),
-    (9, None, "'Though...' A sudden afterthought makes her pause, hinting that she has an alternative plan."),
-    (10, None, "'If you save his life...' Suggesting a wild hypothetical scenario, she brings up the idea of a dramatic rescue."),
-    (11, None, "'Maybe he will forgive us.' The optimistic conclusion is that such an extreme favor might cancel out their rule-breaking."),
-    (12, None, "'A chair, right?' Picking up a heavy object, she checks if this makeshift weapon is what he needs."),
+    (0, None, "'Chef, can I help?' In speech Russians shorten it to 'Chef, maybe help?', leaving out the 'I'. 'Maybe' and 'can' are the same word, which is why it can start a sentence like this."),
+    (1, None, "'I don't know.' It's two words with no 'I' at all, since the ending on 'know' already says it. A flat, tired answer."),
+    (2, None, "'He fined me.' The Russian is 'me he fined', with the object first, to put the weight on Barinov himself. 'Fine' is built from the same root as the noun for a fine, with an 'o' on the front."),
+    (3, None, "'He wants to deport Louis.' The ending 'irovat' turns many foreign words into Russian action words, which is how 'deport' arrives. The name stays as it is."),
+    (4, None, "'What should we do?' Literally 'what to do?', and it's one of the best-known questions in Russian, since a famous nineteenth-century Russian novel is named after it. The little 'zhe' adds a note of desperation."),
+    (5, None, "'I don't think so.' Russian says 'I think, no', where English says 'I think not'. It's a handy way to answer a question you don't like."),
+    (6, None, "'Maybe with another...' 'With' makes the next word take an 'im' ending. He trails off, which is also what the dots in the subtitle suggest."),
+    (7, None, "'We could negotiate.' The second word means 'it will work out', and it has no subject, no 'we' and no 'I'. Together they say 'to come to terms, it will succeed'."),
+    (8, None, "'There.' This little pointing word, 'vot', can mean 'here you are' or 'that's it', and here Barinov seems to have thought of something."),
+    (9, None, "'Though...' It's a hinge word, the kind you say when you are turning an idea around. Russians often let it hang."),
+    (10, None, "'If you save his life...' Barinov uses the casual 'you' with his staff. 'Will save' is a finished action, so the future is built into the ending."),
+    (11, None, "'Maybe he will forgive us.' 'Maybe' is the same word as at the start of the scene. The little 'i' in the middle can mean 'even', so it's 'he might even forgive us'."),
+    (12, None, "'All right, Chef. I will try.' 'I will try' is the finished kind, meaning 'I'll give it a go'. Ainura calls her boss by his job title, as everyone in the kitchen does."),
 ]

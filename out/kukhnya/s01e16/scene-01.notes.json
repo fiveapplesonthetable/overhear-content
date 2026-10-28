@@ -280,7 +280,7 @@
     },
     {
       "seg": 7,
-      "trans": "It is hanging under the table.",
+      "trans": "It is hanging in the back room.",
       "words": [
         {
           "t": "Он",
@@ -299,20 +299,20 @@
           "gram": "3rd person singular present, imperfective"
         },
         {
-          "t": "под",
-          "lemma": "под",
+          "t": "в",
+          "lemma": "в",
           "pos": "prep",
           "stress": null,
-          "gloss": "to",
-          "gram": "preposition + accusative"
+          "gloss": "in, into",
+          "gram": "preposition"
         },
         {
-          "t": "столом.",
-          "lemma": "стол",
+          "t": "подсобке.",
+          "lemma": "подсобка",
           "pos": "noun",
-          "stress": "столо́м",
-          "gloss": "the table",
-          "gram": "masculine, instrumental singular"
+          "stress": "подсо́бке",
+          "gloss": "the back room, storeroom",
+          "gram": "feminine, prepositional singular"
         }
       ]
     },
@@ -884,7 +884,7 @@
     },
     {
       "seg": 28,
-      "trans": "It is hanging under the table.",
+      "trans": "It is hanging in the back room.",
       "words": [
         {
           "t": "Он",
@@ -903,20 +903,20 @@
           "gram": "3rd person singular present, imperfective"
         },
         {
-          "t": "под",
-          "lemma": "под",
+          "t": "в",
+          "lemma": "в",
           "pos": "prep",
           "stress": null,
-          "gloss": "to",
-          "gram": "preposition + accusative"
+          "gloss": "in, into",
+          "gram": "preposition"
         },
         {
-          "t": "столом.",
-          "lemma": "стол",
+          "t": "подсобке.",
+          "lemma": "подсобка",
           "pos": "noun",
-          "stress": "столо́м",
-          "gloss": "the table",
-          "gram": "masculine, instrumental singular"
+          "stress": "подсо́бке",
+          "gloss": "the back room, storeroom",
+          "gram": "feminine, prepositional singular"
         }
       ]
     },
@@ -1488,7 +1488,7 @@
     },
     {
       "seg": 50,
-      "trans": "It is hanging under the table.",
+      "trans": "It is hanging in the back room.",
       "words": [
         {
           "t": "Он",
@@ -1507,20 +1507,20 @@
           "gram": "3rd person singular present, imperfective"
         },
         {
-          "t": "под",
-          "lemma": "под",
+          "t": "в",
+          "lemma": "в",
           "pos": "prep",
           "stress": null,
-          "gloss": "to",
-          "gram": "preposition + accusative"
+          "gloss": "in, into",
+          "gram": "preposition"
         },
         {
-          "t": "столом.",
-          "lemma": "стол",
+          "t": "подсобке.",
+          "lemma": "подсобка",
           "pos": "noun",
-          "stress": "столо́м",
-          "gloss": "the table",
-          "gram": "masculine, instrumental singular"
+          "stress": "подсо́бке",
+          "gloss": "the back room, storeroom",
+          "gram": "feminine, prepositional singular"
         }
       ]
     },
@@ -5217,6 +5217,96 @@
         {
           "word": "мне",
           "gloss": "to me (dative)"
+        }
+      ]
+    },
+    "подсобка": {
+      "lemma": "подсобка",
+      "stress": "подсо́бка",
+      "pos": "noun",
+      "gloss": "back room, storage room",
+      "gender": "f",
+      "meanings": [
+        {
+          "en": "back room, storage room",
+          "note": "Prefix 'под-' ('under, up to') indicates approaching or supporting from below (stem 'собка'). Common feminine noun meaning 'back room, storage room' in everyday Russian."
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "подсобка",
+              "подсобки"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "подсобки",
+              "подсобк"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "подсобке",
+              "подсобкам"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "подсобку",
+              "подсобки"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "подсобкой",
+              "подсобками"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "подсобке",
+              "подсобках"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Марш в подсобку.",
+          "trans": "March to the utility room."
+        },
+        {
+          "text": "Быстро убирайте все лишние коробки в подсобку!",
+          "trans": "Quickly clear all the extra boxes into the storage room!"
+        },
+        {
+          "text": "В дальней подсобке ресторана хранятся запасы муки и сахара.",
+          "trans": "Supplies of flour and sugar are kept in the back storage room of the restaurant."
+        }
+      ],
+      "related": [
+        {
+          "word": "дело",
+          "gloss": "matter, business"
+        },
+        {
+          "word": "место",
+          "gloss": "place"
         }
       ]
     }

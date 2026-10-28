@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.16'
 SOURCE_FILE = 'sources/kukhnya/s01/e16.ru.dual.srt'
-INTRO = "Maks has been trying to recreate a special recipe. Maks approaches the Chef. Let's listen closely to their exchange in Russian first, and then walk through each line together."
-OPENER = "Now let's go back through the exchange around Exactly the Same line by line and unpack how the Russian works."
+INTRO = "Max has been trying all day to copy Barinov's pâté, and he thinks he has done it. He walks up to the chef to announce it, and Barinov listens with growing disbelief. We'll hear it in Russian first."
+OPENER = "Let's replay it slowly."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Maks has been trying to recreate a special recipe. Maks approaches the Chef. Let us see what happens next in this scene. Next time you watch the episode, listen for the Russian expressions for 'to do' and 'pâté' — you will catch every word right away. See you next time!"
+OUTRO = "Barinov will not take Max's word for it, and the chef is on his way to taste it. The phrase 'one in one' is a lovely one to borrow when something is exactly the same. See you next time!"
 CLOSING = ('max', 'До свидания!')
 STORY = [
     ('max', 'Шеф, я сделал это.', 'Chef, I did it.', [(287, 'Шеф, я сделал это.')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('barinov', 'Мы посмотрим.', 'We will see.', [], ''),
 ]
 WALK = [
-    (0, None, "'Chef, I did it.' Max bursts in with a proud announcement of his cooking success."),
-    (1, None, "'What did you make?' Confused by the sudden interruption, the boss asks for clarification."),
-    (2, None, "'I made your pâté.' The young cook reveals he successfully recreated the signature dish of the restaurant."),
-    (3, None, "'My pâté?' Disbelief colours the boss's reaction as he repeats the claim as a question."),
-    (4, None, "'It came out exactly the same.' Using a common idiom that translates to 'one to one', the rookie boasts about his perfect copy."),
-    (5, None, "'I must taste it.' Refusing to take his word for it, the expert insists on checking the results himself."),
-    (6, None, "'Even a little better.' Pushing his luck, the newcomer claims his version actually surpasses the original."),
-    (7, None, "'No way!' An exclamation of total disbelief is thrown back at the arrogant claim."),
-    (8, None, "'Yeah.' Standing his ground, the confident rookie confirms his bold statement."),
-    (9, None, "'This is impossible.' Still in denial, the master chef refuses to accept that his masterpiece could be duplicated."),
-    (10, None, "'I am a good cook.' A simple declaration of skill serves as the young man's ultimate defense."),
-    (11, None, "'We will see.' Barinov ends the exchange with a challenge, ready to put the dish to a taste test."),
+    (0, None, "'Chef, I did it.' 'Did' is the finished kind, ending in the masculine 'l'. The little word for 'it' follows."),
+    (1, None, "'What did you make?' The order is the same as English. Barinov uses the casual 'you', as a boss does."),
+    (2, None, "'I made your pâté.' Max says 'your' in the polite form, matching the masculine pâté. A casual 'your' would be 'tvoy', but that's for friends."),
+    (3, None, "'My pâté?' He says just 'my pâté' and the rising voice turns it into a question. There's no extra word for 'what'."),
+    (4, None, "'It came out exactly the same.' The first word is 'it got obtained', a very Russian way of saying 'it turned out'. 'One in one' is the picture for identical."),
+    (5, None, "'I must taste it.' The word for 'must' ends in 'en' for a man, and a woman would say a different ending. After it comes the plain 'to try'."),
+    (6, None, "'Even a little better.' The doubled 'chut' is a bit like 'teeny-weeny', and Russians double a word to make it smaller or bigger. 'Better' is the short form."),
+    (7, None, "'No way!' Literally 'yes okay?', and it works as 'really?'. It is a casual line, the sort a friend would use."),
+    (8, None, "'Yeah.' Max answers with the same first word of the chef's phrase. In Russian 'da' is the plain 'yes'."),
+    (9, None, "'It's impossible.' The 'ne' in front of 'possible' does what 'im' does in English. It's a long word, but you can recognise its parts."),
+    (10, None, "'I'm a good cook.' It has no 'am' and no 'a', just 'I good cook'. 'Good' has a masculine ending."),
+    (11, None, "'We will see.' It's literally 'we will look', and the future 'we' form is used for 'let's see'. A neat, ominous closing."),
 ]

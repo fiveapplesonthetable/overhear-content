@@ -10,34 +10,34 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Шеф | Ты с чего взял? | Where did you get that? | #191: Ты с чего? | verbatim |
-| 2 | Макс | Ещё один нелегал. | Another illegal. | #192: Еще один. Господи, куда вас всех девать? | verbatim |
-| 3 | Шеф | Господи, куда вас девать? | Lord, where to put you? | #192: Еще один. Господи, куда вас всех девать? | verbatim |
-| 4 | Шеф | Вы отсидитесь в туалете. | You will sit in the toilet. | #193: Да сейчас вы в туалете отсидитесь, потом через главный день. | verbatim |
-| 5 | Шеф | Потом уйдёте через вход. | Then leave through the entrance. | #193: Да сейчас вы в туалете отсидитесь, потом через главный день. | verbatim |
-| 6 | Макс | Они дежурят на входе. | They are on guard at the entrance. | #194: Ты самоумный, да? Они на входе дежурят. | verbatim |
-| 7 | Шеф | Сядет в зал. | He will sit in the hall. | #195: Боже мой, сядет в зал, как и Анюра. | verbatim |
-| 8 | Шеф | Сходи в бар, возьми одежду. | Go to the bar, take clothes. | #196: Пойди, сходи в Костя на бар, возьми для него одежду. | verbatim |
-| 9 | Шеф | Терпи, давай. | Endure, come on. | #198: Давай, давай, терпи, давай. | verbatim |
-| 10 | Инспектор | Поздравляю вас. | I congratulate you. | #203: Все ж, поздравляю вас. У вас все чисто. | verbatim |
-| 11 | Инспектор | У вас все чисто. | Everything is clean with you. | #203: Все ж, поздравляю вас. У вас все чисто. | verbatim |
-| 12 | Шеф | Я же вам сразу сказал. | I told you right away. | #204: Ну, я же вам сразу сказал. | verbatim |
-| 13 | Инспектор | Я не имею права верить. | I have no right to believe. | #205: Ну, вы простите меня, конечно, но я не имею права верить на слово. | verbatim |
-| 14 | Шеф | Мы профессионалы. | We are professionals. | #208: Мы профессионалы. | verbatim |
+| 1 | Шеф | Ты с чего взял? | Where did you get that? | #191 00:13:55: Ты с чего? | verbatim |
+| 2 | Макс | Ещё один нелегал. | Another illegal. | #192 00:14:00: Еще один. Господи, куда вас всех девать? | verbatim |
+| 3 | Шеф | Господи, куда вас девать? | Lord, where to put you? | #192 00:14:00: Еще один. Господи, куда вас всех девать? | verbatim |
+| 4 | Шеф | Вы отсидитесь в туалете. | You will sit in the toilet. | #193 00:14:03: Да сейчас вы в туалете отсидитесь, потом через главный день. | verbatim |
+| 5 | Шеф | Потом уйдёте через вход. | Then leave through the entrance. | #193 00:14:03: Да сейчас вы в туалете отсидитесь, потом через главный день. | verbatim |
+| 6 | Макс | Они дежурят на входе. | They are on guard at the entrance. | #194 00:14:05: Ты самоумный, да? Они на входе дежурят. | verbatim |
+| 7 | Шеф | Пусть посидит в зале. | Let him sit in the hall for a while. | #195 00:14:08: Боже мой, сядет в зал, как и Анюра. | verbatim |
+| 8 | Шеф | Сходи в бар, возьми одежду. | Go to the bar, take clothes. | #196 00:14:10: Пойди, сходи в Костя на бар, возьми для него одежду. | verbatim |
+| 9 | Шеф | Терпи, давай. | Endure, come on. | #198 00:14:15: Давай, давай, терпи, давай. | verbatim |
+| 10 | Инспектор | Поздравляю вас. | I congratulate you. | #203 00:14:26: Все ж, поздравляю вас. У вас все чисто. | verbatim |
+| 11 | Инспектор | У вас все чисто. | Everything is clean with you. | #203 00:14:26: Все ж, поздравляю вас. У вас все чисто. | verbatim |
+| 12 | Шеф | Я же вам сразу сказал. | I told you right away. | #204 00:14:30: Ну, я же вам сразу сказал. | verbatim |
+| 13 | Инспектор | Я не имею права верить. | I have no right to believe. | #205 00:14:31: Ну, вы простите меня, конечно, но я не имею права верить на слово. | verbatim |
+| 14 | Шеф | Мы профессионалы. | We are professionals. | #208 00:14:41: Мы профессионалы. | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Where did you get that?' Barinov questions the source of the surprising information, demanding to know the origin of the claim.
-- 'Another illegal.' Max drops a bombshell, revealing the presence of a second undocumented person in the restaurant.
-- 'Lord, where to put you?' Expressing extreme exasperation, the chef complains to the heavens about having to hide so many people.
-- 'You will sit in the toilet.' Barinov issues a direct command, assigning a rather undignified hiding spot to the newcomer.
-- 'Then leave through the entrance.' Outlining the escape plan, the boss instructs the person to walk out the front door once the coast is clear.
-- 'They are on guard at the entrance.' Max quickly points out a fatal flaw in the escape plan, noting that the exits are watched.
-- 'He will sit in the hall.' Changing strategies on the fly, the chef decides to hide the person in plain sight among the customers.
-- 'Go to the bar, take clothes.' Barinov barks out a rapid series of orders, telling someone to fetch a disguise.
-- 'Endure, come on.' Whispering through the rack of spice jars, Barinov urges Ainura to hold still just a little longer.
-- 'I congratulate you.' The inspector offers formal praise, likely hiding his disappointment at finding nothing.
-- 'Everything is clean with you.' Admitting defeat, the official confirms that the restaurant passed the inspection flawlessly.
-- 'I told you right away.' The chef smugly reminds the officer that he had claimed innocence from the very beginning.
-- 'I have no right to believe.' Defending his actions, the official explains that his job requires him to doubt everyone.
-- 'We are professionals.' Barinov delivers a proud closing statement, attributing their success to their high level of expertise.
+- 'What makes you think so?' Word for word it is 'you from what took', which is a favourite Russian idiom. It really asks 'on what grounds?'.
+- 'Another illegal.' 'One more' is the way to say 'another'. The 'ne' prefix does the same job as 'il' in English.
+- 'Good grief, where do we put you?' The first word is 'Lord', used the way we say 'good grief'. 'Where to' asks for a direction, and the 'put' word is used for getting rid of someone.
+- 'You'll sit it out in the toilet.' The 'ot' on the front means 'out', as in sitting through something until it is over. The ending in 'sya' makes it 'sit yourselves out'.
+- 'Then you'll leave through the entrance.' 'Entrance' is built as an 'in-way', and when you swap the first part for 'out' you get the word for 'exit'. 'Go away' is a finished action, which gives the line a future meaning.
+- 'They are on duty at the entrance.' Russians say 'on the entrance' where English says 'at'. The ending is an 'e', the one that says where.
+- 'Let him sit in the hall for a while.' The 'po' at the front of 'sit' makes it 'sit a bit'. The hall takes an 'e' because he'll be in it.
+- 'Go to the bar and take some clothes.' The first word means going somewhere and coming straight back. 'Clothes' is singular in Russian, so it's 'take clothing'.
+- 'Hang in there, come on.' The first word is 'endure', a command. The second, 'davay', is the all-purpose 'come on' or 'okay' that Russians use constantly.
+- 'Congratulations.' It literally says 'I congratulate you', with 'I' folded into the ending. The inspector sounds oddly warm.
+- 'Everything is clean with you.' 'At you everything' is the pattern again, and the ending 'o' on 'clean' makes it describe a state of things.
+- 'I told you so right away.' The little word 'zhe' adds the sense of 'didn't I?'. 'Told' has the masculine 'l', and 'right away' is a single word.
+- 'I have no right to believe.' This is the formal way to say 'have', not the casual 'at me is'. It's the inspector's official tone, which Russians would recognise at once.
+- 'We are professionals.' It has no 'are'. It's a short plural statement and Barinov says it with pride.

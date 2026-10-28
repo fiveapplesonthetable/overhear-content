@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'lanovsky': 'Лановский'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.16'
 SOURCE_FILE = 'sources/kukhnya/s01/e16.ru.dual.srt'
-INTRO = 'Lanovsky compares people without documents to rats. He gets a phone call saying they found them in the fridge. He tells Viktor to come with him. Let us listen to their conversation in Russian first.'
-OPENER = 'Now let us examine the conversation line by line.'
+INTRO = "Major Lanovsky is still sitting with Barinov and still being unpleasantly friendly, and now he is talking about rats. Then his phone rings. We'll hear it in Russian first."
+OPENER = "Now we'll take it slowly."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Lanovsky compares people without documents to rats. He gets a phone call saying they found them in the fridge. He tells Viktor to come with him. Next time you watch the episode, listen for the Russian expressions for 'rat' and 'enemy' — you will catch every word right away. See you next time!"
+OUTRO = "That phone call ends the small talk, and the major wants Barinov to come with him. Remember 'seychas', which means 'right now' and also 'in a moment', and Russians use it for both. See you next time!"
 CLOSING = ('lanovsky', 'Пока!')
 STORY = [
     ('lanovsky', 'В этом мире крысы — враги.', 'In this world rats are enemies.', [(154, 'поскольку в нашем мире крысы это же враги.')], ''),
@@ -27,19 +27,19 @@ STORY = [
     ('lanovsky', 'Да, я вас слушаю.', 'Yes, I am listening to you.', [(164, 'Я слушаю.')], ''),
     ('lanovsky', 'Где они? В холодильнике?', 'Where are they? In the fridge?', [(165, 'Где? В холодильнике?')], ''),
     ('lanovsky', 'Замечательно, мы сейчас идём.', 'Great, we are going now.', [(166, 'Замечательно. Сейчас идем.')], ''),
-    ('lanovsky', 'Виктор Петрович, пойдёмте со мной.', 'Viktor Petrovich, let us go with me.', [(167, 'Виктор Петрович, вы не могли бы пройти со мной?')], ''),
+    ('lanovsky', 'Виктор Петрович, пойдёмте со мной.', 'Viktor Petrovich, come with me.', [(167, 'Виктор Петрович, вы не могли бы пройти со мной?')], ''),
 ]
 WALK = [
-    (0, None, "'In this world rats are enemies.' Setting up a metaphor about illegal workers, the official declares that rodents are the villains."),
-    (1, None, "'Everyone hates them very much.' Lanovsky stresses the universal dislike for these metaphorical pests."),
-    (2, None, "'And you also do not like rats.' Comparing undocumented workers to pests, Lanovsky coldly assumes the chef dislikes rats too."),
-    (3, None, "'Mice are very similar to them.' The conversation shifts to a slightly different animal, drawing a comparison between the two."),
-    (4, None, "'Yes, I do not like them.' Barinov agrees with the statement, confirming his distaste for the rodents."),
-    (5, None, "'They are like cute mice.' Lanovsky contrasts the hated pests with something that might seem innocent and harmless."),
-    (6, None, "'But everyone hates rats.' Circling back to his main point, the officer reiterates the absolute disgust people have for the real troublemakers."),
-    (7, None, "'Excuse me, they are calling me.' A sudden phone call interrupts the dramatic monologue, prompting a quick apology."),
-    (8, None, "'Yes, I am listening to you.' When his phone rings mid-sentence, Lanovsky answers briskly to hear his team's report."),
-    (9, None, "'Where are they? In the fridge?' The official repeats the shocking information he just heard over the phone, giving away the hiding spot."),
-    (10, None, "'Great, we are going now.' Expressing satisfaction with the tip, the caller announces their immediate departure to investigate."),
-    (11, None, "'Viktor Petrovich, let us go with me.' Lanovsky invites the chef to accompany him, making it clear that they are about to uncover the truth together."),
+    (0, None, "'In this world, rats are enemies.' The dash stands where the English 'are' would be, since Russian leaves it out. The Russian for 'world' also means 'peace'."),
+    (1, None, "'Everyone hates them very much.' The Russian starts with 'them', so it's 'them everyone very hates'. Putting the object first is common when you want to stress it."),
+    (2, None, "'And you also don't like rats.' Here too the rats come first. Russian's 'also' sits after 'you', and 'rats' loses a letter on the way."),
+    (3, None, "'Mice are very similar to them.' The word for 'similar' ends in 'i' for a plural, since mice are plural. 'Like them' is two tiny words, one for 'on' and one for 'them'."),
+    (4, None, "'Yes, I don't like them.' The Russian for 'like' is the same as the one for 'love', and the 'not' in front turns it into dislike. Again the 'them' comes first."),
+    (5, None, "'They are like cute mice.' Russian's 'like' is the same as the one for 'how', so it's easy to remember. 'Cute' ends in 'ye', the plural."),
+    (6, None, "'But everyone hates rats.' The small word for 'but' marks the turn, and the rats come first once more. By now you can hear the rhythm."),
+    (7, None, "'Excuse me, they are calling me.' Russians say 'to-me they call' for a ringing phone. Nobody is meant by 'they'."),
+    (8, None, "'Yes, I am listening.' This is the standard way to answer the phone in Russian. The word 'yes' is how he picks up."),
+    (9, None, "'Where are they? In the fridge?' The Russian for 'fridge' comes from Russian's 'cold', and its 'e' ending says 'in'. He asks it quickly, like a policeman."),
+    (10, None, "'Great, we're coming right now.' The first word is an adverb meaning 'wonderful'. 'We go' is the 'we' form, and it means 'we're on our way'."),
+    (11, None, "'Viktor Petrovich, come with me.' This is the polite 'let's go' that is also used for 'come along'. The word for 'with' picks up an extra 'o' before 'me'."),
 ]
