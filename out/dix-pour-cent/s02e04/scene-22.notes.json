@@ -10,7 +10,7 @@
           "t": "Je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒ",
+          "stress": "ʒə",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -34,7 +34,7 @@
           "t": "depuis",
           "lemma": "depuis",
           "pos": "prep",
-          "stress": "dpɥi",
+          "stress": "dəpɥi",
           "gloss": "for (since)",
           "gram": "preposition, with the present tense"
         },
@@ -126,7 +126,7 @@
           "t": "se",
           "lemma": "se",
           "pos": "pron",
-          "stress": "s",
+          "stress": "sə",
           "gloss": "(reflexive)",
           "gram": "reflexive pronoun, part of se passer"
         },
@@ -158,7 +158,7 @@
           "t": "petit",
           "lemma": "petit",
           "pos": "adj",
-          "stress": "pti",
+          "stress": "pəti",
           "gloss": "little",
           "gram": "masculine singular, before the noun"
         },
@@ -204,7 +204,7 @@
           "t": "je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒ",
+          "stress": "ʒə",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -234,7 +234,7 @@
           "t": "Ne",
           "lemma": "ne",
           "pos": "part",
-          "stress": "n",
+          "stress": "nə",
           "gloss": "not",
           "gram": "negation, first half, before the verb"
         },
@@ -242,7 +242,7 @@
           "t": "prenez",
           "lemma": "prendre",
           "pos": "verb",
-          "stress": "pʁne",
+          "stress": "pʁəne",
           "gloss": "take ('prenez garde' = beware)",
           "gram": "imperative, 2nd person plural/polite"
         },
@@ -297,8 +297,8 @@
           "lemma": "avoir",
           "pos": "verb",
           "stress": "ʒe",
-          "gloss": "I have (need)",
-          "gram": "je + ai: present, 1st person singular; avoir besoin de = to need"
+          "gloss": "I have, I did",
+          "gram": "je (I) + ai: 1st person singular present of avoir"
         },
         {
           "t": "l'habitude",
@@ -312,7 +312,7 @@
           "t": "de",
           "lemma": "de",
           "pos": "prep",
-          "stress": "d",
+          "stress": "də",
           "gloss": "of ('s)",
           "gram": "preposition, shows possession"
         },
@@ -328,7 +328,7 @@
           "t": "remarques.",
           "lemma": "remarque",
           "pos": "noun",
-          "stress": "ʁmaʁk",
+          "stress": "ʁəmaʁk",
           "gloss": "remarks",
           "gram": "feminine plural"
         }
@@ -350,7 +350,7 @@
           "t": "revoir,",
           "lemma": "au revoir",
           "pos": "phrase",
-          "stress": "ʁvwaʁ",
+          "stress": "ʁəvwaʁ",
           "gloss": "goodbye (seeing again)",
           "gram": "part of au revoir"
         },
@@ -396,7 +396,7 @@
           "t": "revoir",
           "lemma": "au revoir",
           "pos": "phrase",
-          "stress": "ʁvwaʁ",
+          "stress": "ʁəvwaʁ",
           "gloss": "goodbye (seeing again)",
           "gram": "part of au revoir"
         },
@@ -440,19 +440,19 @@
       "words": [
         {
           "t": "Qu'est-ce",
-          "lemma": "qu'est-ce que",
-          "pos": "phrase",
+          "lemma": "que",
+          "pos": "pron",
           "stress": "kɛs",
-          "gloss": "what",
-          "gram": "question phrase qu'est-ce que, first part"
+          "gloss": "what is",
+          "gram": "qu' (what) + est-ce (is it): question opener"
         },
         {
           "t": "qu'il",
           "lemma": "que",
           "pos": "conj",
           "stress": "kil",
-          "gloss": "that he",
-          "gram": "qu' (que) + il: conjunction + subject pronoun"
+          "gloss": "that he, that it",
+          "gram": "que (that) + il (he/it)"
         },
         {
           "t": "a",
@@ -488,7 +488,7 @@
           "t": "Je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒ",
+          "stress": "ʒə",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -496,7 +496,7 @@
           "t": "ne",
           "lemma": "ne",
           "pos": "part",
-          "stress": "n",
+          "stress": "nə",
           "gloss": "not",
           "gram": "negation, first half, before the verb"
         },
@@ -549,10 +549,10 @@
         {
           "t": "m'en",
           "lemma": "en",
-          "pos": "prep",
+          "pos": "pron",
           "stress": "mɑ̃",
-          "gloss": "(myself) of it",
-          "gram": "m' (reflexive, elided) + en (of it); s'en occuper = to take care of it"
+          "gloss": "me of it, about it",
+          "gram": "me (me/myself) + en (of it)"
         },
         {
           "t": "veut",
@@ -598,7 +598,7 @@
           "pos": "verb",
           "stress": "ta",
           "gloss": "has ... you",
-          "gram": "te + a: object pronoun + auxiliary, 3rd person singular"
+          "gram": "te (you) + a: 3rd person singular present of avoir"
         },
         {
           "t": "quand",
@@ -651,8 +651,8 @@
           "lemma": "avoir",
           "pos": "verb",
           "stress": "la",
-          "gloss": "has (helper verb) ... it",
-          "gram": "la (it, elided l', the clinic) + a: present, 3rd person singular; helper for the passé composé"
+          "gloss": "has him/her/it",
+          "gram": "le/la (him/her/it) + a: 3rd person singular present of avoir"
         },
         {
           "t": "fait",
@@ -705,14 +705,14 @@
           "lemma": "imaginer",
           "pos": "verb",
           "stress": "dimaʒine",
-          "gloss": "of to imagine",
-          "gram": "infinitive"
+          "gloss": "to imagine, of imagining",
+          "gram": "de (to/of) + imaginer: infinitive"
         },
         {
           "t": "le",
           "lemma": "tout le monde",
           "pos": "phrase",
-          "stress": "l",
+          "stress": "lə",
           "gloss": "the (everyone)",
           "gram": "part of tout le monde"
         },
@@ -742,7 +742,7 @@
           "t": "Je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒ",
+          "stress": "ʒə",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -766,7 +766,7 @@
           "t": "depuis",
           "lemma": "depuis",
           "pos": "prep",
-          "stress": "dpɥi",
+          "stress": "dəpɥi",
           "gloss": "for (since)",
           "gram": "preposition, with the present tense"
         },
@@ -858,7 +858,7 @@
           "t": "se",
           "lemma": "se",
           "pos": "pron",
-          "stress": "s",
+          "stress": "sə",
           "gloss": "(reflexive)",
           "gram": "reflexive pronoun, part of se passer"
         },
@@ -890,7 +890,7 @@
           "t": "petit",
           "lemma": "petit",
           "pos": "adj",
-          "stress": "pti",
+          "stress": "pəti",
           "gloss": "little",
           "gram": "masculine singular, before the noun"
         },
@@ -936,7 +936,7 @@
           "t": "je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒ",
+          "stress": "ʒə",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -966,7 +966,7 @@
           "t": "Ne",
           "lemma": "ne",
           "pos": "part",
-          "stress": "n",
+          "stress": "nə",
           "gloss": "not",
           "gram": "negation, first half, before the verb"
         },
@@ -974,7 +974,7 @@
           "t": "prenez",
           "lemma": "prendre",
           "pos": "verb",
-          "stress": "pʁne",
+          "stress": "pʁəne",
           "gloss": "take ('prenez garde' = beware)",
           "gram": "imperative, 2nd person plural/polite"
         },
@@ -1029,8 +1029,8 @@
           "lemma": "avoir",
           "pos": "verb",
           "stress": "ʒe",
-          "gloss": "I have (need)",
-          "gram": "je + ai: present, 1st person singular; avoir besoin de = to need"
+          "gloss": "I have, I did",
+          "gram": "je (I) + ai: 1st person singular present of avoir"
         },
         {
           "t": "l'habitude",
@@ -1044,7 +1044,7 @@
           "t": "de",
           "lemma": "de",
           "pos": "prep",
-          "stress": "d",
+          "stress": "də",
           "gloss": "of ('s)",
           "gram": "preposition, shows possession"
         },
@@ -1060,7 +1060,7 @@
           "t": "remarques.",
           "lemma": "remarque",
           "pos": "noun",
-          "stress": "ʁmaʁk",
+          "stress": "ʁəmaʁk",
           "gloss": "remarks",
           "gram": "feminine plural"
         }
@@ -1082,7 +1082,7 @@
           "t": "revoir,",
           "lemma": "au revoir",
           "pos": "phrase",
-          "stress": "ʁvwaʁ",
+          "stress": "ʁəvwaʁ",
           "gloss": "goodbye (seeing again)",
           "gram": "part of au revoir"
         },
@@ -1128,7 +1128,7 @@
           "t": "revoir",
           "lemma": "au revoir",
           "pos": "phrase",
-          "stress": "ʁvwaʁ",
+          "stress": "ʁəvwaʁ",
           "gloss": "goodbye (seeing again)",
           "gram": "part of au revoir"
         },
@@ -1172,19 +1172,19 @@
       "words": [
         {
           "t": "Qu'est-ce",
-          "lemma": "qu'est-ce que",
-          "pos": "phrase",
+          "lemma": "que",
+          "pos": "pron",
           "stress": "kɛs",
-          "gloss": "what",
-          "gram": "question phrase qu'est-ce que, first part"
+          "gloss": "what is",
+          "gram": "qu' (what) + est-ce (is it): question opener"
         },
         {
           "t": "qu'il",
           "lemma": "que",
           "pos": "conj",
           "stress": "kil",
-          "gloss": "that he",
-          "gram": "qu' (que) + il: conjunction + subject pronoun"
+          "gloss": "that he, that it",
+          "gram": "que (that) + il (he/it)"
         },
         {
           "t": "a",
@@ -1220,7 +1220,7 @@
           "t": "Je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒ",
+          "stress": "ʒə",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -1228,7 +1228,7 @@
           "t": "ne",
           "lemma": "ne",
           "pos": "part",
-          "stress": "n",
+          "stress": "nə",
           "gloss": "not",
           "gram": "negation, first half, before the verb"
         },
@@ -1281,10 +1281,10 @@
         {
           "t": "m'en",
           "lemma": "en",
-          "pos": "prep",
+          "pos": "pron",
           "stress": "mɑ̃",
-          "gloss": "(myself) of it",
-          "gram": "m' (reflexive, elided) + en (of it); s'en occuper = to take care of it"
+          "gloss": "me of it, about it",
+          "gram": "me (me/myself) + en (of it)"
         },
         {
           "t": "veut",
@@ -1330,7 +1330,7 @@
           "pos": "verb",
           "stress": "ta",
           "gloss": "has ... you",
-          "gram": "te + a: object pronoun + auxiliary, 3rd person singular"
+          "gram": "te (you) + a: 3rd person singular present of avoir"
         },
         {
           "t": "quand",
@@ -1383,8 +1383,8 @@
           "lemma": "avoir",
           "pos": "verb",
           "stress": "la",
-          "gloss": "has (helper verb) ... it",
-          "gram": "la (it, elided l', the clinic) + a: present, 3rd person singular; helper for the passé composé"
+          "gloss": "has him/her/it",
+          "gram": "le/la (him/her/it) + a: 3rd person singular present of avoir"
         },
         {
           "t": "fait",
@@ -1437,14 +1437,14 @@
           "lemma": "imaginer",
           "pos": "verb",
           "stress": "dimaʒine",
-          "gloss": "of to imagine",
-          "gram": "infinitive"
+          "gloss": "to imagine, of imagining",
+          "gram": "de (to/of) + imaginer: infinitive"
         },
         {
           "t": "le",
           "lemma": "tout le monde",
           "pos": "phrase",
-          "stress": "l",
+          "stress": "lə",
           "gloss": "the (everyone)",
           "gram": "part of tout le monde"
         },
@@ -1474,7 +1474,7 @@
           "t": "Je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒ",
+          "stress": "ʒə",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -1498,7 +1498,7 @@
           "t": "depuis",
           "lemma": "depuis",
           "pos": "prep",
-          "stress": "dpɥi",
+          "stress": "dəpɥi",
           "gloss": "for (since)",
           "gram": "preposition, with the present tense"
         },
@@ -1590,7 +1590,7 @@
           "t": "se",
           "lemma": "se",
           "pos": "pron",
-          "stress": "s",
+          "stress": "sə",
           "gloss": "(reflexive)",
           "gram": "reflexive pronoun, part of se passer"
         },
@@ -1622,7 +1622,7 @@
           "t": "petit",
           "lemma": "petit",
           "pos": "adj",
-          "stress": "pti",
+          "stress": "pəti",
           "gloss": "little",
           "gram": "masculine singular, before the noun"
         },
@@ -1668,7 +1668,7 @@
           "t": "je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒ",
+          "stress": "ʒə",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -1698,7 +1698,7 @@
           "t": "Ne",
           "lemma": "ne",
           "pos": "part",
-          "stress": "n",
+          "stress": "nə",
           "gloss": "not",
           "gram": "negation, first half, before the verb"
         },
@@ -1706,7 +1706,7 @@
           "t": "prenez",
           "lemma": "prendre",
           "pos": "verb",
-          "stress": "pʁne",
+          "stress": "pʁəne",
           "gloss": "take ('prenez garde' = beware)",
           "gram": "imperative, 2nd person plural/polite"
         },
@@ -1761,8 +1761,8 @@
           "lemma": "avoir",
           "pos": "verb",
           "stress": "ʒe",
-          "gloss": "I have (need)",
-          "gram": "je + ai: present, 1st person singular; avoir besoin de = to need"
+          "gloss": "I have, I did",
+          "gram": "je (I) + ai: 1st person singular present of avoir"
         },
         {
           "t": "l'habitude",
@@ -1776,7 +1776,7 @@
           "t": "de",
           "lemma": "de",
           "pos": "prep",
-          "stress": "d",
+          "stress": "də",
           "gloss": "of ('s)",
           "gram": "preposition, shows possession"
         },
@@ -1792,7 +1792,7 @@
           "t": "remarques.",
           "lemma": "remarque",
           "pos": "noun",
-          "stress": "ʁmaʁk",
+          "stress": "ʁəmaʁk",
           "gloss": "remarks",
           "gram": "feminine plural"
         }
@@ -1814,7 +1814,7 @@
           "t": "revoir,",
           "lemma": "au revoir",
           "pos": "phrase",
-          "stress": "ʁvwaʁ",
+          "stress": "ʁəvwaʁ",
           "gloss": "goodbye (seeing again)",
           "gram": "part of au revoir"
         },
@@ -1860,7 +1860,7 @@
           "t": "revoir",
           "lemma": "au revoir",
           "pos": "phrase",
-          "stress": "ʁvwaʁ",
+          "stress": "ʁəvwaʁ",
           "gloss": "goodbye (seeing again)",
           "gram": "part of au revoir"
         },
@@ -1904,19 +1904,19 @@
       "words": [
         {
           "t": "Qu'est-ce",
-          "lemma": "qu'est-ce que",
-          "pos": "phrase",
+          "lemma": "que",
+          "pos": "pron",
           "stress": "kɛs",
-          "gloss": "what",
-          "gram": "question phrase qu'est-ce que, first part"
+          "gloss": "what is",
+          "gram": "qu' (what) + est-ce (is it): question opener"
         },
         {
           "t": "qu'il",
           "lemma": "que",
           "pos": "conj",
           "stress": "kil",
-          "gloss": "that he",
-          "gram": "qu' (que) + il: conjunction + subject pronoun"
+          "gloss": "that he, that it",
+          "gram": "que (that) + il (he/it)"
         },
         {
           "t": "a",
@@ -1952,7 +1952,7 @@
           "t": "Je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒ",
+          "stress": "ʒə",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -1960,7 +1960,7 @@
           "t": "ne",
           "lemma": "ne",
           "pos": "part",
-          "stress": "n",
+          "stress": "nə",
           "gloss": "not",
           "gram": "negation, first half, before the verb"
         },
@@ -2013,10 +2013,10 @@
         {
           "t": "m'en",
           "lemma": "en",
-          "pos": "prep",
+          "pos": "pron",
           "stress": "mɑ̃",
-          "gloss": "(myself) of it",
-          "gram": "m' (reflexive, elided) + en (of it); s'en occuper = to take care of it"
+          "gloss": "me of it, about it",
+          "gram": "me (me/myself) + en (of it)"
         },
         {
           "t": "veut",
@@ -2062,7 +2062,7 @@
           "pos": "verb",
           "stress": "ta",
           "gloss": "has ... you",
-          "gram": "te + a: object pronoun + auxiliary, 3rd person singular"
+          "gram": "te (you) + a: 3rd person singular present of avoir"
         },
         {
           "t": "quand",
@@ -2115,8 +2115,8 @@
           "lemma": "avoir",
           "pos": "verb",
           "stress": "la",
-          "gloss": "has (helper verb) ... it",
-          "gram": "la (it, elided l', the clinic) + a: present, 3rd person singular; helper for the passé composé"
+          "gloss": "has him/her/it",
+          "gram": "le/la (him/her/it) + a: 3rd person singular present of avoir"
         },
         {
           "t": "fait",
@@ -2169,14 +2169,14 @@
           "lemma": "imaginer",
           "pos": "verb",
           "stress": "dimaʒine",
-          "gloss": "of to imagine",
-          "gram": "infinitive"
+          "gloss": "to imagine, of imagining",
+          "gram": "de (to/of) + imaginer: infinitive"
         },
         {
           "t": "le",
           "lemma": "tout le monde",
           "pos": "phrase",
-          "stress": "l",
+          "stress": "lə",
           "gloss": "the (everyone)",
           "gram": "part of tout le monde"
         },
@@ -2224,7 +2224,7 @@
   "lexicon": {
     "arrêter": {
       "lemma": "arrêter",
-      "stress": "aʁete",
+      "stress": "aʁɛte",
       "pos": "verb",
       "gloss": "to stop",
       "meanings": [
@@ -2444,7 +2444,7 @@
     },
     "au revoir": {
       "lemma": "au revoir",
-      "stress": "oʁvwaʁ",
+      "stress": "oʁəvwaʁ",
       "pos": "phrase",
       "gloss": "goodbye",
       "meanings": [
@@ -2903,7 +2903,7 @@
     },
     "ce": {
       "lemma": "ce",
-      "stress": "s",
+      "stress": "sə",
       "pos": "det",
       "gloss": "this, that; it",
       "meanings": [
@@ -3092,7 +3092,7 @@
     },
     "de": {
       "lemma": "de",
-      "stress": "d",
+      "stress": "də",
       "pos": "prep",
       "gloss": "of, from; some",
       "meanings": [
@@ -3138,7 +3138,7 @@
     },
     "depuis": {
       "lemma": "depuis",
-      "stress": "dpɥi",
+      "stress": "dəpɥi",
       "pos": "prep",
       "gloss": "since; for",
       "meanings": [
@@ -4271,7 +4271,7 @@
     },
     "je": {
       "lemma": "je",
-      "stress": "ʒ",
+      "stress": "ʒə",
       "pos": "pron",
       "gloss": "I",
       "meanings": [
@@ -4403,7 +4403,7 @@
     },
     "le": {
       "lemma": "le",
-      "stress": "l",
+      "stress": "lə",
       "pos": "det",
       "gloss": "the",
       "meanings": [
@@ -4638,7 +4638,7 @@
     },
     "ne": {
       "lemma": "ne",
-      "stress": "n",
+      "stress": "nə",
       "pos": "part",
       "gloss": "not (with pas, rien, que)",
       "meanings": [
@@ -4976,7 +4976,7 @@
     },
     "petit": {
       "lemma": "petit",
-      "stress": "pti",
+      "stress": "pəti",
       "pos": "adj",
       "gloss": "small, little",
       "meanings": [
@@ -5542,7 +5542,7 @@
     },
     "qu'est-ce que": {
       "lemma": "qu'est-ce que",
-      "stress": "kɛsk",
+      "stress": "kɛskə",
       "pos": "phrase",
       "gloss": "what (in questions)",
       "meanings": [
@@ -5610,7 +5610,7 @@
     },
     "que": {
       "lemma": "que",
-      "stress": "k",
+      "stress": "kə",
       "pos": "conj",
       "gloss": "that; than; only (ne...que)",
       "meanings": [
@@ -5656,7 +5656,7 @@
     },
     "remarque": {
       "lemma": "remarque",
-      "stress": "ʁmaʁk",
+      "stress": "ʁəmaʁk",
       "pos": "noun",
       "gloss": "remark, comment",
       "gender": "f",
@@ -5874,7 +5874,7 @@
     },
     "revoir": {
       "lemma": "revoir",
-      "stress": "ʁvwaʁ",
+      "stress": "ʁəvwaʁ",
       "pos": "verb",
       "gloss": "to see again",
       "meanings": [
@@ -6198,7 +6198,7 @@
     },
     "se": {
       "lemma": "se",
-      "stress": "s",
+      "stress": "sə",
       "pos": "pron",
       "gloss": "oneself, itself (reflexive)",
       "meanings": [
@@ -6519,7 +6519,7 @@
     },
     "tout le monde": {
       "lemma": "tout le monde",
-      "stress": "tulmɔ̃d",
+      "stress": "tuləmɔ̃d",
       "pos": "phrase",
       "gloss": "everybody, everyone",
       "meanings": [

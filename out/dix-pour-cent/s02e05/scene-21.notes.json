@@ -8,17 +8,17 @@
       "words": [
         {
           "t": "Qu'est-ce",
-          "lemma": "qu'est-ce que",
-          "pos": "phrase",
+          "lemma": "que",
+          "pos": "pron",
           "stress": "kɛs",
-          "gloss": "what",
-          "gram": "question phrase qu'est-ce que, first part"
+          "gloss": "what is",
+          "gram": "qu' (what) + est-ce (is it): question opener"
         },
         {
           "t": "que",
           "lemma": "que",
           "pos": "conj",
-          "stress": "k",
+          "stress": "kə",
           "gloss": "that",
           "gram": "conjunction, introduces what to say"
         },
@@ -88,7 +88,7 @@
           "t": "petite",
           "lemma": "petit",
           "pos": "adj",
-          "stress": "ptit",
+          "stress": "pətit",
           "gloss": "little one, dear",
           "gram": "feminine singular, used as a noun of address"
         },
@@ -110,7 +110,7 @@
           "t": "Je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒ",
+          "stress": "ʒə",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -156,7 +156,7 @@
           "t": "Je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒ",
+          "stress": "ʒə",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -172,7 +172,7 @@
           "t": "te",
           "lemma": "te",
           "pos": "pron",
-          "stress": "t",
+          "stress": "tə",
           "gloss": "you (casual)",
           "gram": "indirect object pronoun, 2nd person singular, before the verb"
         },
@@ -180,7 +180,7 @@
           "t": "demander",
           "lemma": "demander",
           "pos": "verb",
-          "stress": "dmɑ̃de",
+          "stress": "dəmɑ̃de",
           "gloss": "to ask",
           "gram": "infinitive"
         },
@@ -188,7 +188,7 @@
           "t": "quelque",
           "lemma": "quelque chose",
           "pos": "phrase",
-          "stress": "kɛlk",
+          "stress": "kɛlkə",
           "gloss": "some (something)",
           "gram": "part of quelque chose"
         },
@@ -270,25 +270,25 @@
         },
         {
           "t": "est-ce",
-          "lemma": "est-ce que",
-          "pos": "phrase",
+          "lemma": "être",
+          "pos": "verb",
           "stress": "ɛs",
-          "gloss": "(question marker)",
-          "gram": "first part of est-ce que"
+          "gloss": "is it, do/does (question helper)",
+          "gram": "est + ce: inverted 3rd person singular of être"
         },
         {
           "t": "qu'on",
-          "lemma": "on",
-          "pos": "pron",
+          "lemma": "que",
+          "pos": "conj",
           "stress": "kɔ̃",
-          "gloss": "that we",
-          "gram": "subject pronoun on (we) with elided conjunction que (qu')"
+          "gloss": "that we, that one",
+          "gram": "que (that) + on (we/one)"
         },
         {
           "t": "se",
           "lemma": "se",
           "pos": "pron",
-          "stress": "s",
+          "stress": "sə",
           "gloss": "(reflexive)",
           "gram": "reflexive pronoun, part of se passer"
         },
@@ -326,7 +326,7 @@
           "t": "calmement,",
           "lemma": "calmement",
           "pos": "adv",
-          "stress": "kalmmɑ̃",
+          "stress": "kalməmɑ̃",
           "gloss": "calmly, quietly",
           "gram": "adverb of manner"
         },
@@ -335,8 +335,8 @@
           "lemma": "être",
           "pos": "verb",
           "stress": "sɛ",
-          "gloss": "it's",
-          "gram": "ce (it) + est: present, 3rd person singular"
+          "gloss": "it is, that is",
+          "gram": "ce (it/that) + est: 3rd person singular present of être"
         },
         {
           "t": "tout.",
@@ -380,7 +380,7 @@
           "t": "me",
           "lemma": "me",
           "pos": "pron",
-          "stress": "m",
+          "stress": "mə",
           "gloss": "me, to me (object)",
           "gram": "object pronoun, 1st person singular, before the verb"
         },
@@ -410,7 +410,7 @@
           "t": "ce",
           "lemma": "ce",
           "pos": "det",
-          "stress": "s",
+          "stress": "sə",
           "gloss": "this (ce soir = tonight)",
           "gram": "demonstrative, masculine singular"
         },
@@ -419,8 +419,8 @@
           "lemma": "être",
           "pos": "verb",
           "stress": "nɛ",
-          "gloss": "is (not)",
-          "gram": "ne + est: present, 3rd person singular; ne... rien = nothing"
+          "gloss": "is not",
+          "gram": "ne (not) + est: 3rd person singular present of être"
         },
         {
           "t": "pas",
@@ -448,7 +448,7 @@
           "t": "Je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒ",
+          "stress": "ʒə",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -532,7 +532,7 @@
           "t": "Je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒ",
+          "stress": "ʒə",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -540,7 +540,7 @@
           "t": "devais",
           "lemma": "devoir",
           "pos": "verb",
-          "stress": "dvɛ",
+          "stress": "dəvɛ",
           "gloss": "had to, needed to",
           "gram": "imparfait, 1st person singular"
         },
@@ -556,7 +556,7 @@
           "t": "te",
           "lemma": "te",
           "pos": "pron",
-          "stress": "t",
+          "stress": "tə",
           "gloss": "you (casual)",
           "gram": "indirect object pronoun, 2nd person singular, before the verb"
         },
@@ -564,7 +564,7 @@
           "t": "le",
           "lemma": "tout le monde",
           "pos": "phrase",
-          "stress": "l",
+          "stress": "lə",
           "gloss": "the (everyone)",
           "gram": "part of tout le monde"
         },
@@ -610,7 +610,7 @@
           "t": "te",
           "lemma": "te",
           "pos": "pron",
-          "stress": "t",
+          "stress": "tə",
           "gloss": "you (casual)",
           "gram": "indirect object pronoun, 2nd person singular, before the verb"
         },
@@ -641,14 +641,14 @@
           "lemma": "être",
           "pos": "verb",
           "stress": "sɛ",
-          "gloss": "it's",
-          "gram": "ce (it) + est: present, 3rd person singular"
+          "gloss": "it is, that is",
+          "gram": "ce (it/that) + est: 3rd person singular present of être"
         },
         {
           "t": "largement",
           "lemma": "largement",
           "pos": "adv",
-          "stress": "laʁʒmɑ̃",
+          "stress": "laʁʒəmɑ̃",
           "gloss": "more than, amply",
           "gram": "adverb modifying 'suffisant'"
         },
@@ -668,17 +668,17 @@
       "words": [
         {
           "t": "Qu'est-ce",
-          "lemma": "qu'est-ce que",
-          "pos": "phrase",
+          "lemma": "que",
+          "pos": "pron",
           "stress": "kɛs",
-          "gloss": "what",
-          "gram": "question phrase qu'est-ce que, first part"
+          "gloss": "what is",
+          "gram": "qu' (what) + est-ce (is it): question opener"
         },
         {
           "t": "que",
           "lemma": "que",
           "pos": "conj",
-          "stress": "k",
+          "stress": "kə",
           "gloss": "that",
           "gram": "conjunction, introduces what to say"
         },
@@ -748,7 +748,7 @@
           "t": "petite",
           "lemma": "petit",
           "pos": "adj",
-          "stress": "ptit",
+          "stress": "pətit",
           "gloss": "little one, dear",
           "gram": "feminine singular, used as a noun of address"
         },
@@ -770,7 +770,7 @@
           "t": "Je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒ",
+          "stress": "ʒə",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -816,7 +816,7 @@
           "t": "Je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒ",
+          "stress": "ʒə",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -832,7 +832,7 @@
           "t": "te",
           "lemma": "te",
           "pos": "pron",
-          "stress": "t",
+          "stress": "tə",
           "gloss": "you (casual)",
           "gram": "indirect object pronoun, 2nd person singular, before the verb"
         },
@@ -840,7 +840,7 @@
           "t": "demander",
           "lemma": "demander",
           "pos": "verb",
-          "stress": "dmɑ̃de",
+          "stress": "dəmɑ̃de",
           "gloss": "to ask",
           "gram": "infinitive"
         },
@@ -848,7 +848,7 @@
           "t": "quelque",
           "lemma": "quelque chose",
           "pos": "phrase",
-          "stress": "kɛlk",
+          "stress": "kɛlkə",
           "gloss": "some (something)",
           "gram": "part of quelque chose"
         },
@@ -930,25 +930,25 @@
         },
         {
           "t": "est-ce",
-          "lemma": "est-ce que",
-          "pos": "phrase",
+          "lemma": "être",
+          "pos": "verb",
           "stress": "ɛs",
-          "gloss": "(question marker)",
-          "gram": "first part of est-ce que"
+          "gloss": "is it, do/does (question helper)",
+          "gram": "est + ce: inverted 3rd person singular of être"
         },
         {
           "t": "qu'on",
-          "lemma": "on",
-          "pos": "pron",
+          "lemma": "que",
+          "pos": "conj",
           "stress": "kɔ̃",
-          "gloss": "that we",
-          "gram": "subject pronoun on (we) with elided conjunction que (qu')"
+          "gloss": "that we, that one",
+          "gram": "que (that) + on (we/one)"
         },
         {
           "t": "se",
           "lemma": "se",
           "pos": "pron",
-          "stress": "s",
+          "stress": "sə",
           "gloss": "(reflexive)",
           "gram": "reflexive pronoun, part of se passer"
         },
@@ -986,7 +986,7 @@
           "t": "calmement,",
           "lemma": "calmement",
           "pos": "adv",
-          "stress": "kalmmɑ̃",
+          "stress": "kalməmɑ̃",
           "gloss": "calmly, quietly",
           "gram": "adverb of manner"
         },
@@ -995,8 +995,8 @@
           "lemma": "être",
           "pos": "verb",
           "stress": "sɛ",
-          "gloss": "it's",
-          "gram": "ce (it) + est: present, 3rd person singular"
+          "gloss": "it is, that is",
+          "gram": "ce (it/that) + est: 3rd person singular present of être"
         },
         {
           "t": "tout.",
@@ -1040,7 +1040,7 @@
           "t": "me",
           "lemma": "me",
           "pos": "pron",
-          "stress": "m",
+          "stress": "mə",
           "gloss": "me, to me (object)",
           "gram": "object pronoun, 1st person singular, before the verb"
         },
@@ -1070,7 +1070,7 @@
           "t": "ce",
           "lemma": "ce",
           "pos": "det",
-          "stress": "s",
+          "stress": "sə",
           "gloss": "this (ce soir = tonight)",
           "gram": "demonstrative, masculine singular"
         },
@@ -1079,8 +1079,8 @@
           "lemma": "être",
           "pos": "verb",
           "stress": "nɛ",
-          "gloss": "is (not)",
-          "gram": "ne + est: present, 3rd person singular; ne... rien = nothing"
+          "gloss": "is not",
+          "gram": "ne (not) + est: 3rd person singular present of être"
         },
         {
           "t": "pas",
@@ -1108,7 +1108,7 @@
           "t": "Je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒ",
+          "stress": "ʒə",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -1192,7 +1192,7 @@
           "t": "Je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒ",
+          "stress": "ʒə",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -1200,7 +1200,7 @@
           "t": "devais",
           "lemma": "devoir",
           "pos": "verb",
-          "stress": "dvɛ",
+          "stress": "dəvɛ",
           "gloss": "had to, needed to",
           "gram": "imparfait, 1st person singular"
         },
@@ -1216,7 +1216,7 @@
           "t": "te",
           "lemma": "te",
           "pos": "pron",
-          "stress": "t",
+          "stress": "tə",
           "gloss": "you (casual)",
           "gram": "indirect object pronoun, 2nd person singular, before the verb"
         },
@@ -1224,7 +1224,7 @@
           "t": "le",
           "lemma": "tout le monde",
           "pos": "phrase",
-          "stress": "l",
+          "stress": "lə",
           "gloss": "the (everyone)",
           "gram": "part of tout le monde"
         },
@@ -1270,7 +1270,7 @@
           "t": "te",
           "lemma": "te",
           "pos": "pron",
-          "stress": "t",
+          "stress": "tə",
           "gloss": "you (casual)",
           "gram": "indirect object pronoun, 2nd person singular, before the verb"
         },
@@ -1301,14 +1301,14 @@
           "lemma": "être",
           "pos": "verb",
           "stress": "sɛ",
-          "gloss": "it's",
-          "gram": "ce (it) + est: present, 3rd person singular"
+          "gloss": "it is, that is",
+          "gram": "ce (it/that) + est: 3rd person singular present of être"
         },
         {
           "t": "largement",
           "lemma": "largement",
           "pos": "adv",
-          "stress": "laʁʒmɑ̃",
+          "stress": "laʁʒəmɑ̃",
           "gloss": "more than, amply",
           "gram": "adverb modifying 'suffisant'"
         },
@@ -1328,17 +1328,17 @@
       "words": [
         {
           "t": "Qu'est-ce",
-          "lemma": "qu'est-ce que",
-          "pos": "phrase",
+          "lemma": "que",
+          "pos": "pron",
           "stress": "kɛs",
-          "gloss": "what",
-          "gram": "question phrase qu'est-ce que, first part"
+          "gloss": "what is",
+          "gram": "qu' (what) + est-ce (is it): question opener"
         },
         {
           "t": "que",
           "lemma": "que",
           "pos": "conj",
-          "stress": "k",
+          "stress": "kə",
           "gloss": "that",
           "gram": "conjunction, introduces what to say"
         },
@@ -1408,7 +1408,7 @@
           "t": "petite",
           "lemma": "petit",
           "pos": "adj",
-          "stress": "ptit",
+          "stress": "pətit",
           "gloss": "little one, dear",
           "gram": "feminine singular, used as a noun of address"
         },
@@ -1430,7 +1430,7 @@
           "t": "Je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒ",
+          "stress": "ʒə",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -1476,7 +1476,7 @@
           "t": "Je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒ",
+          "stress": "ʒə",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -1492,7 +1492,7 @@
           "t": "te",
           "lemma": "te",
           "pos": "pron",
-          "stress": "t",
+          "stress": "tə",
           "gloss": "you (casual)",
           "gram": "indirect object pronoun, 2nd person singular, before the verb"
         },
@@ -1500,7 +1500,7 @@
           "t": "demander",
           "lemma": "demander",
           "pos": "verb",
-          "stress": "dmɑ̃de",
+          "stress": "dəmɑ̃de",
           "gloss": "to ask",
           "gram": "infinitive"
         },
@@ -1508,7 +1508,7 @@
           "t": "quelque",
           "lemma": "quelque chose",
           "pos": "phrase",
-          "stress": "kɛlk",
+          "stress": "kɛlkə",
           "gloss": "some (something)",
           "gram": "part of quelque chose"
         },
@@ -1590,25 +1590,25 @@
         },
         {
           "t": "est-ce",
-          "lemma": "est-ce que",
-          "pos": "phrase",
+          "lemma": "être",
+          "pos": "verb",
           "stress": "ɛs",
-          "gloss": "(question marker)",
-          "gram": "first part of est-ce que"
+          "gloss": "is it, do/does (question helper)",
+          "gram": "est + ce: inverted 3rd person singular of être"
         },
         {
           "t": "qu'on",
-          "lemma": "on",
-          "pos": "pron",
+          "lemma": "que",
+          "pos": "conj",
           "stress": "kɔ̃",
-          "gloss": "that we",
-          "gram": "subject pronoun on (we) with elided conjunction que (qu')"
+          "gloss": "that we, that one",
+          "gram": "que (that) + on (we/one)"
         },
         {
           "t": "se",
           "lemma": "se",
           "pos": "pron",
-          "stress": "s",
+          "stress": "sə",
           "gloss": "(reflexive)",
           "gram": "reflexive pronoun, part of se passer"
         },
@@ -1646,7 +1646,7 @@
           "t": "calmement,",
           "lemma": "calmement",
           "pos": "adv",
-          "stress": "kalmmɑ̃",
+          "stress": "kalməmɑ̃",
           "gloss": "calmly, quietly",
           "gram": "adverb of manner"
         },
@@ -1655,8 +1655,8 @@
           "lemma": "être",
           "pos": "verb",
           "stress": "sɛ",
-          "gloss": "it's",
-          "gram": "ce (it) + est: present, 3rd person singular"
+          "gloss": "it is, that is",
+          "gram": "ce (it/that) + est: 3rd person singular present of être"
         },
         {
           "t": "tout.",
@@ -1700,7 +1700,7 @@
           "t": "me",
           "lemma": "me",
           "pos": "pron",
-          "stress": "m",
+          "stress": "mə",
           "gloss": "me, to me (object)",
           "gram": "object pronoun, 1st person singular, before the verb"
         },
@@ -1730,7 +1730,7 @@
           "t": "ce",
           "lemma": "ce",
           "pos": "det",
-          "stress": "s",
+          "stress": "sə",
           "gloss": "this (ce soir = tonight)",
           "gram": "demonstrative, masculine singular"
         },
@@ -1739,8 +1739,8 @@
           "lemma": "être",
           "pos": "verb",
           "stress": "nɛ",
-          "gloss": "is (not)",
-          "gram": "ne + est: present, 3rd person singular; ne... rien = nothing"
+          "gloss": "is not",
+          "gram": "ne (not) + est: 3rd person singular present of être"
         },
         {
           "t": "pas",
@@ -1768,7 +1768,7 @@
           "t": "Je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒ",
+          "stress": "ʒə",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -1852,7 +1852,7 @@
           "t": "Je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒ",
+          "stress": "ʒə",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -1860,7 +1860,7 @@
           "t": "devais",
           "lemma": "devoir",
           "pos": "verb",
-          "stress": "dvɛ",
+          "stress": "dəvɛ",
           "gloss": "had to, needed to",
           "gram": "imparfait, 1st person singular"
         },
@@ -1876,7 +1876,7 @@
           "t": "te",
           "lemma": "te",
           "pos": "pron",
-          "stress": "t",
+          "stress": "tə",
           "gloss": "you (casual)",
           "gram": "indirect object pronoun, 2nd person singular, before the verb"
         },
@@ -1884,7 +1884,7 @@
           "t": "le",
           "lemma": "tout le monde",
           "pos": "phrase",
-          "stress": "l",
+          "stress": "lə",
           "gloss": "the (everyone)",
           "gram": "part of tout le monde"
         },
@@ -1930,7 +1930,7 @@
           "t": "te",
           "lemma": "te",
           "pos": "pron",
-          "stress": "t",
+          "stress": "tə",
           "gloss": "you (casual)",
           "gram": "indirect object pronoun, 2nd person singular, before the verb"
         },
@@ -1961,14 +1961,14 @@
           "lemma": "être",
           "pos": "verb",
           "stress": "sɛ",
-          "gloss": "it's",
-          "gram": "ce (it) + est: present, 3rd person singular"
+          "gloss": "it is, that is",
+          "gram": "ce (it/that) + est: 3rd person singular present of être"
         },
         {
           "t": "largement",
           "lemma": "largement",
           "pos": "adv",
-          "stress": "laʁʒmɑ̃",
+          "stress": "laʁʒəmɑ̃",
           "gloss": "more than, amply",
           "gram": "adverb modifying 'suffisant'"
         },
@@ -2483,7 +2483,7 @@
     },
     "calmement": {
       "lemma": "calmement",
-      "stress": "kalmmɑ̃",
+      "stress": "kalməmɑ̃",
       "pos": "adv",
       "gloss": "calmly, serenely",
       "meanings": [
@@ -2521,7 +2521,7 @@
     },
     "ce": {
       "lemma": "ce",
-      "stress": "s",
+      "stress": "sə",
       "pos": "det",
       "gloss": "this, that; it",
       "meanings": [
@@ -2582,7 +2582,7 @@
     },
     "demander": {
       "lemma": "demander",
-      "stress": "dmɑ̃de",
+      "stress": "dəmɑ̃de",
       "pos": "verb",
       "gloss": "to ask",
       "meanings": [
@@ -2829,7 +2829,7 @@
     },
     "devoir": {
       "lemma": "devoir",
-      "stress": "dvwaʁ",
+      "stress": "dəvwaʁ",
       "pos": "verb",
       "gloss": "must, to have to",
       "meanings": [
@@ -3322,7 +3322,7 @@
     },
     "est-ce que": {
       "lemma": "est-ce que",
-      "stress": "ɛsk",
+      "stress": "ɛskə",
       "pos": "phrase",
       "gloss": "(question marker)",
       "meanings": [
@@ -3526,7 +3526,7 @@
     },
     "je": {
       "lemma": "je",
-      "stress": "ʒ",
+      "stress": "ʒə",
       "pos": "pron",
       "gloss": "I",
       "meanings": [
@@ -3598,7 +3598,7 @@
     },
     "largement": {
       "lemma": "largement",
-      "stress": "laʁʒmɑ̃",
+      "stress": "laʁʒəmɑ̃",
       "pos": "adv",
       "gloss": "more than (enough), widely",
       "meanings": [
@@ -3636,7 +3636,7 @@
     },
     "le": {
       "lemma": "le",
-      "stress": "l",
+      "stress": "lə",
       "pos": "det",
       "gloss": "the",
       "meanings": [
@@ -3735,7 +3735,7 @@
     },
     "me": {
       "lemma": "me",
-      "stress": "m",
+      "stress": "mə",
       "pos": "pron",
       "gloss": "me, to me (object)",
       "meanings": [
@@ -4216,7 +4216,7 @@
     },
     "petit": {
       "lemma": "petit",
-      "stress": "pti",
+      "stress": "pəti",
       "pos": "adj",
       "gloss": "small, little",
       "meanings": [
@@ -4535,7 +4535,7 @@
     },
     "qu'est-ce que": {
       "lemma": "qu'est-ce que",
-      "stress": "kɛsk",
+      "stress": "kɛskə",
       "pos": "phrase",
       "gloss": "what (in questions)",
       "meanings": [
@@ -4611,7 +4611,7 @@
     },
     "que": {
       "lemma": "que",
-      "stress": "k",
+      "stress": "kə",
       "pos": "conj",
       "gloss": "that; than; only (ne...que)",
       "meanings": [
@@ -4657,7 +4657,7 @@
     },
     "quelque chose": {
       "lemma": "quelque chose",
-      "stress": "kɛlkʃoz",
+      "stress": "kɛlkəʃoz",
       "pos": "phrase",
       "gloss": "something",
       "meanings": [
@@ -4733,7 +4733,7 @@
     },
     "se": {
       "lemma": "se",
-      "stress": "s",
+      "stress": "sə",
       "pos": "pron",
       "gloss": "oneself, itself (reflexive)",
       "meanings": [
@@ -5257,7 +5257,7 @@
     },
     "te": {
       "lemma": "te",
-      "stress": "t",
+      "stress": "tə",
       "pos": "pron",
       "gloss": "you (casual, object)",
       "meanings": [
@@ -5416,7 +5416,7 @@
     },
     "tout le monde": {
       "lemma": "tout le monde",
-      "stress": "tulmɔ̃d",
+      "stress": "tuləmɔ̃d",
       "pos": "phrase",
       "gloss": "everybody, everyone",
       "meanings": [

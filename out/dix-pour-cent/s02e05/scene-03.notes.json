@@ -10,7 +10,7 @@
           "t": "Regardez",
           "lemma": "regarder",
           "pos": "verb",
-          "stress": "ʁaʁde",
+          "stress": "ʁəɡaʁde",
           "gloss": "look",
           "gram": "imperative, 2nd person plural"
         },
@@ -26,7 +26,7 @@
           "t": "examens,",
           "lemma": "examen",
           "pos": "noun",
-          "stress": "ɛzamɛ̃",
+          "stress": "ɛɡzamɛ̃",
           "gloss": "medical tests, scans",
           "gram": "masculine plural"
         },
@@ -34,7 +34,7 @@
           "t": "ce",
           "lemma": "ce",
           "pos": "det",
-          "stress": "s",
+          "stress": "sə",
           "gloss": "this (ce soir = tonight)",
           "gram": "demonstrative, masculine singular"
         },
@@ -43,8 +43,8 @@
           "lemma": "être",
           "pos": "verb",
           "stress": "nɛ",
-          "gloss": "is (not)",
-          "gram": "ne + est: present, 3rd person singular; ne... rien = nothing"
+          "gloss": "is not",
+          "gram": "ne (not) + est: 3rd person singular present of être"
         },
         {
           "t": "pas",
@@ -72,7 +72,7 @@
           "t": "Ce",
           "lemma": "ce",
           "pos": "det",
-          "stress": "s",
+          "stress": "sə",
           "gloss": "this (ce soir = tonight)",
           "gram": "demonstrative, masculine singular"
         },
@@ -81,8 +81,8 @@
           "lemma": "être",
           "pos": "verb",
           "stress": "nɛ",
-          "gloss": "is (not)",
-          "gram": "ne + est: present, 3rd person singular; ne... rien = nothing"
+          "gloss": "is not",
+          "gram": "ne (not) + est: 3rd person singular present of être"
         },
         {
           "t": "pas",
@@ -120,7 +120,7 @@
           "t": "grave.",
           "lemma": "grave",
           "pos": "adj",
-          "stress": "ʁav",
+          "stress": "ɡʁav",
           "gloss": "serious",
           "gram": "masculine singular"
         }
@@ -135,8 +135,8 @@
           "lemma": "être",
           "pos": "verb",
           "stress": "sɛ",
-          "gloss": "it's",
-          "gram": "ce (it) + est: present, 3rd person singular"
+          "gloss": "it is, that is",
+          "gram": "ce (it/that) + est: 3rd person singular present of être"
         },
         {
           "t": "donc",
@@ -204,7 +204,7 @@
           "t": "simplement",
           "lemma": "simplement",
           "pos": "adv",
-          "stress": "sɛ̃plmɑ̃",
+          "stress": "sɛ̃pləmɑ̃",
           "gloss": "simply",
           "gram": "invariable adverb ('simplement', meaning 'simply')"
         },
@@ -228,7 +228,7 @@
           "t": "petit",
           "lemma": "petit",
           "pos": "adj",
-          "stress": "pti",
+          "stress": "pəti",
           "gloss": "little",
           "gram": "masculine singular, before the noun"
         },
@@ -258,7 +258,7 @@
           "t": "petit",
           "lemma": "petit",
           "pos": "adj",
-          "stress": "pti",
+          "stress": "pəti",
           "gloss": "little",
           "gram": "masculine singular, before the noun"
         },
@@ -274,7 +274,7 @@
           "t": "sanguin",
           "lemma": "sanguin",
           "pos": "adj",
-          "stress": "sɑ̃ɛ̃",
+          "stress": "sɑ̃ɡɛ̃",
           "gloss": "blood, vascular",
           "gram": "adjective, masculine singular"
         },
@@ -283,8 +283,8 @@
           "lemma": "être",
           "pos": "verb",
           "stress": "sɛ",
-          "gloss": "(each other) have",
-          "gram": "s' (se, each other) + est: auxiliary être"
+          "gloss": "himself/herself/itself (past reflexive helper)",
+          "gram": "se (reflexive) + est: 3rd person singular auxiliary être"
         },
         {
           "t": "bouché.",
@@ -304,7 +304,7 @@
           "t": "Cela",
           "lemma": "ça",
           "pos": "pron",
-          "stress": "sla",
+          "stress": "səla",
           "gloss": "this luxury event",
           "gram": "demonstrative pronoun"
         },
@@ -364,17 +364,17 @@
       "words": [
         {
           "t": "Est-ce",
-          "lemma": "est-ce que",
-          "pos": "phrase",
+          "lemma": "être",
+          "pos": "verb",
           "stress": "ɛs",
-          "gloss": "(question marker)",
-          "gram": "first part of est-ce que"
+          "gloss": "is it, do/does (question helper)",
+          "gram": "est + ce: inverted 3rd person singular of être"
         },
         {
           "t": "que",
           "lemma": "que",
           "pos": "conj",
-          "stress": "k",
+          "stress": "kə",
           "gloss": "that",
           "gram": "conjunction, introduces what to say"
         },
@@ -382,7 +382,7 @@
           "t": "cela",
           "lemma": "ça",
           "pos": "pron",
-          "stress": "sla",
+          "stress": "səla",
           "gloss": "this luxury event",
           "gram": "demonstrative pronoun"
         },
@@ -428,7 +428,7 @@
           "t": "cela",
           "lemma": "ça",
           "pos": "pron",
-          "stress": "sla",
+          "stress": "səla",
           "gloss": "this luxury event",
           "gram": "demonstrative pronoun"
         },
@@ -445,8 +445,8 @@
           "lemma": "améliorer",
           "pos": "verb",
           "stress": "sameljɔʁe",
-          "gloss": "itself to improve",
-          "gram": "infinitive"
+          "gloss": "to improve",
+          "gram": "se (reflexive) + améliorer: infinitive"
         },
         {
           "t": "avec",
@@ -460,7 +460,7 @@
           "t": "le",
           "lemma": "tout le monde",
           "pos": "phrase",
-          "stress": "l",
+          "stress": "lə",
           "gloss": "the (everyone)",
           "gram": "part of tout le monde"
         },
@@ -490,7 +490,7 @@
           "t": "je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒ",
+          "stress": "ʒə",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -530,7 +530,7 @@
           "t": "ce",
           "lemma": "ce",
           "pos": "det",
-          "stress": "s",
+          "stress": "sə",
           "gloss": "this (ce soir = tonight)",
           "gram": "demonstrative, masculine singular"
         },
@@ -560,7 +560,7 @@
           "t": "demain",
           "lemma": "demain",
           "pos": "adv",
-          "stress": "dmɛ̃",
+          "stress": "dəmɛ̃",
           "gloss": "tomorrow",
           "gram": "adverb of time"
         },
@@ -662,7 +662,7 @@
           "t": "de",
           "lemma": "de",
           "pos": "prep",
-          "stress": "d",
+          "stress": "də",
           "gloss": "of ('s)",
           "gram": "preposition, shows possession"
         },
@@ -700,7 +700,7 @@
           "t": "de",
           "lemma": "de",
           "pos": "prep",
-          "stress": "d",
+          "stress": "də",
           "gloss": "of ('s)",
           "gram": "preposition, shows possession"
         },
@@ -724,7 +724,7 @@
           "t": "le",
           "lemma": "tout le monde",
           "pos": "phrase",
-          "stress": "l",
+          "stress": "lə",
           "gloss": "the (everyone)",
           "gram": "part of tout le monde"
         },
@@ -778,7 +778,7 @@
           "t": "semaines",
           "lemma": "semaine",
           "pos": "noun",
-          "stress": "smɛn",
+          "stress": "səmɛn",
           "gloss": "weeks",
           "gram": "feminine plural"
         },
@@ -794,7 +794,7 @@
           "t": "venir.",
           "lemma": "venir",
           "pos": "verb",
-          "stress": "vniʁ",
+          "stress": "vəniʁ",
           "gloss": "come",
           "gram": "infinitive, after pouvoir"
         }
@@ -870,7 +870,7 @@
           "t": "Regardez",
           "lemma": "regarder",
           "pos": "verb",
-          "stress": "ʁaʁde",
+          "stress": "ʁəɡaʁde",
           "gloss": "look",
           "gram": "imperative, 2nd person plural"
         },
@@ -886,7 +886,7 @@
           "t": "examens,",
           "lemma": "examen",
           "pos": "noun",
-          "stress": "ɛzamɛ̃",
+          "stress": "ɛɡzamɛ̃",
           "gloss": "medical tests, scans",
           "gram": "masculine plural"
         },
@@ -894,7 +894,7 @@
           "t": "ce",
           "lemma": "ce",
           "pos": "det",
-          "stress": "s",
+          "stress": "sə",
           "gloss": "this (ce soir = tonight)",
           "gram": "demonstrative, masculine singular"
         },
@@ -903,8 +903,8 @@
           "lemma": "être",
           "pos": "verb",
           "stress": "nɛ",
-          "gloss": "is (not)",
-          "gram": "ne + est: present, 3rd person singular; ne... rien = nothing"
+          "gloss": "is not",
+          "gram": "ne (not) + est: 3rd person singular present of être"
         },
         {
           "t": "pas",
@@ -932,7 +932,7 @@
           "t": "Ce",
           "lemma": "ce",
           "pos": "det",
-          "stress": "s",
+          "stress": "sə",
           "gloss": "this (ce soir = tonight)",
           "gram": "demonstrative, masculine singular"
         },
@@ -941,8 +941,8 @@
           "lemma": "être",
           "pos": "verb",
           "stress": "nɛ",
-          "gloss": "is (not)",
-          "gram": "ne + est: present, 3rd person singular; ne... rien = nothing"
+          "gloss": "is not",
+          "gram": "ne (not) + est: 3rd person singular present of être"
         },
         {
           "t": "pas",
@@ -980,7 +980,7 @@
           "t": "grave.",
           "lemma": "grave",
           "pos": "adj",
-          "stress": "ʁav",
+          "stress": "ɡʁav",
           "gloss": "serious",
           "gram": "masculine singular"
         }
@@ -995,8 +995,8 @@
           "lemma": "être",
           "pos": "verb",
           "stress": "sɛ",
-          "gloss": "it's",
-          "gram": "ce (it) + est: present, 3rd person singular"
+          "gloss": "it is, that is",
+          "gram": "ce (it/that) + est: 3rd person singular present of être"
         },
         {
           "t": "donc",
@@ -1064,7 +1064,7 @@
           "t": "simplement",
           "lemma": "simplement",
           "pos": "adv",
-          "stress": "sɛ̃plmɑ̃",
+          "stress": "sɛ̃pləmɑ̃",
           "gloss": "simply",
           "gram": "invariable adverb ('simplement', meaning 'simply')"
         },
@@ -1088,7 +1088,7 @@
           "t": "petit",
           "lemma": "petit",
           "pos": "adj",
-          "stress": "pti",
+          "stress": "pəti",
           "gloss": "little",
           "gram": "masculine singular, before the noun"
         },
@@ -1118,7 +1118,7 @@
           "t": "petit",
           "lemma": "petit",
           "pos": "adj",
-          "stress": "pti",
+          "stress": "pəti",
           "gloss": "little",
           "gram": "masculine singular, before the noun"
         },
@@ -1134,7 +1134,7 @@
           "t": "sanguin",
           "lemma": "sanguin",
           "pos": "adj",
-          "stress": "sɑ̃ɛ̃",
+          "stress": "sɑ̃ɡɛ̃",
           "gloss": "blood, vascular",
           "gram": "adjective, masculine singular"
         },
@@ -1143,8 +1143,8 @@
           "lemma": "être",
           "pos": "verb",
           "stress": "sɛ",
-          "gloss": "(each other) have",
-          "gram": "s' (se, each other) + est: auxiliary être"
+          "gloss": "himself/herself/itself (past reflexive helper)",
+          "gram": "se (reflexive) + est: 3rd person singular auxiliary être"
         },
         {
           "t": "bouché.",
@@ -1164,7 +1164,7 @@
           "t": "Cela",
           "lemma": "ça",
           "pos": "pron",
-          "stress": "sla",
+          "stress": "səla",
           "gloss": "this luxury event",
           "gram": "demonstrative pronoun"
         },
@@ -1224,17 +1224,17 @@
       "words": [
         {
           "t": "Est-ce",
-          "lemma": "est-ce que",
-          "pos": "phrase",
+          "lemma": "être",
+          "pos": "verb",
           "stress": "ɛs",
-          "gloss": "(question marker)",
-          "gram": "first part of est-ce que"
+          "gloss": "is it, do/does (question helper)",
+          "gram": "est + ce: inverted 3rd person singular of être"
         },
         {
           "t": "que",
           "lemma": "que",
           "pos": "conj",
-          "stress": "k",
+          "stress": "kə",
           "gloss": "that",
           "gram": "conjunction, introduces what to say"
         },
@@ -1242,7 +1242,7 @@
           "t": "cela",
           "lemma": "ça",
           "pos": "pron",
-          "stress": "sla",
+          "stress": "səla",
           "gloss": "this luxury event",
           "gram": "demonstrative pronoun"
         },
@@ -1288,7 +1288,7 @@
           "t": "cela",
           "lemma": "ça",
           "pos": "pron",
-          "stress": "sla",
+          "stress": "səla",
           "gloss": "this luxury event",
           "gram": "demonstrative pronoun"
         },
@@ -1305,8 +1305,8 @@
           "lemma": "améliorer",
           "pos": "verb",
           "stress": "sameljɔʁe",
-          "gloss": "itself to improve",
-          "gram": "infinitive"
+          "gloss": "to improve",
+          "gram": "se (reflexive) + améliorer: infinitive"
         },
         {
           "t": "avec",
@@ -1320,7 +1320,7 @@
           "t": "le",
           "lemma": "tout le monde",
           "pos": "phrase",
-          "stress": "l",
+          "stress": "lə",
           "gloss": "the (everyone)",
           "gram": "part of tout le monde"
         },
@@ -1350,7 +1350,7 @@
           "t": "je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒ",
+          "stress": "ʒə",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -1390,7 +1390,7 @@
           "t": "ce",
           "lemma": "ce",
           "pos": "det",
-          "stress": "s",
+          "stress": "sə",
           "gloss": "this (ce soir = tonight)",
           "gram": "demonstrative, masculine singular"
         },
@@ -1420,7 +1420,7 @@
           "t": "demain",
           "lemma": "demain",
           "pos": "adv",
-          "stress": "dmɛ̃",
+          "stress": "dəmɛ̃",
           "gloss": "tomorrow",
           "gram": "adverb of time"
         },
@@ -1522,7 +1522,7 @@
           "t": "de",
           "lemma": "de",
           "pos": "prep",
-          "stress": "d",
+          "stress": "də",
           "gloss": "of ('s)",
           "gram": "preposition, shows possession"
         },
@@ -1560,7 +1560,7 @@
           "t": "de",
           "lemma": "de",
           "pos": "prep",
-          "stress": "d",
+          "stress": "də",
           "gloss": "of ('s)",
           "gram": "preposition, shows possession"
         },
@@ -1584,7 +1584,7 @@
           "t": "le",
           "lemma": "tout le monde",
           "pos": "phrase",
-          "stress": "l",
+          "stress": "lə",
           "gloss": "the (everyone)",
           "gram": "part of tout le monde"
         },
@@ -1638,7 +1638,7 @@
           "t": "semaines",
           "lemma": "semaine",
           "pos": "noun",
-          "stress": "smɛn",
+          "stress": "səmɛn",
           "gloss": "weeks",
           "gram": "feminine plural"
         },
@@ -1654,7 +1654,7 @@
           "t": "venir.",
           "lemma": "venir",
           "pos": "verb",
-          "stress": "vniʁ",
+          "stress": "vəniʁ",
           "gloss": "come",
           "gram": "infinitive, after pouvoir"
         }
@@ -1730,7 +1730,7 @@
           "t": "Regardez",
           "lemma": "regarder",
           "pos": "verb",
-          "stress": "ʁaʁde",
+          "stress": "ʁəɡaʁde",
           "gloss": "look",
           "gram": "imperative, 2nd person plural"
         },
@@ -1746,7 +1746,7 @@
           "t": "examens,",
           "lemma": "examen",
           "pos": "noun",
-          "stress": "ɛzamɛ̃",
+          "stress": "ɛɡzamɛ̃",
           "gloss": "medical tests, scans",
           "gram": "masculine plural"
         },
@@ -1754,7 +1754,7 @@
           "t": "ce",
           "lemma": "ce",
           "pos": "det",
-          "stress": "s",
+          "stress": "sə",
           "gloss": "this (ce soir = tonight)",
           "gram": "demonstrative, masculine singular"
         },
@@ -1763,8 +1763,8 @@
           "lemma": "être",
           "pos": "verb",
           "stress": "nɛ",
-          "gloss": "is (not)",
-          "gram": "ne + est: present, 3rd person singular; ne... rien = nothing"
+          "gloss": "is not",
+          "gram": "ne (not) + est: 3rd person singular present of être"
         },
         {
           "t": "pas",
@@ -1792,7 +1792,7 @@
           "t": "Ce",
           "lemma": "ce",
           "pos": "det",
-          "stress": "s",
+          "stress": "sə",
           "gloss": "this (ce soir = tonight)",
           "gram": "demonstrative, masculine singular"
         },
@@ -1801,8 +1801,8 @@
           "lemma": "être",
           "pos": "verb",
           "stress": "nɛ",
-          "gloss": "is (not)",
-          "gram": "ne + est: present, 3rd person singular; ne... rien = nothing"
+          "gloss": "is not",
+          "gram": "ne (not) + est: 3rd person singular present of être"
         },
         {
           "t": "pas",
@@ -1840,7 +1840,7 @@
           "t": "grave.",
           "lemma": "grave",
           "pos": "adj",
-          "stress": "ʁav",
+          "stress": "ɡʁav",
           "gloss": "serious",
           "gram": "masculine singular"
         }
@@ -1855,8 +1855,8 @@
           "lemma": "être",
           "pos": "verb",
           "stress": "sɛ",
-          "gloss": "it's",
-          "gram": "ce (it) + est: present, 3rd person singular"
+          "gloss": "it is, that is",
+          "gram": "ce (it/that) + est: 3rd person singular present of être"
         },
         {
           "t": "donc",
@@ -1924,7 +1924,7 @@
           "t": "simplement",
           "lemma": "simplement",
           "pos": "adv",
-          "stress": "sɛ̃plmɑ̃",
+          "stress": "sɛ̃pləmɑ̃",
           "gloss": "simply",
           "gram": "invariable adverb ('simplement', meaning 'simply')"
         },
@@ -1948,7 +1948,7 @@
           "t": "petit",
           "lemma": "petit",
           "pos": "adj",
-          "stress": "pti",
+          "stress": "pəti",
           "gloss": "little",
           "gram": "masculine singular, before the noun"
         },
@@ -1978,7 +1978,7 @@
           "t": "petit",
           "lemma": "petit",
           "pos": "adj",
-          "stress": "pti",
+          "stress": "pəti",
           "gloss": "little",
           "gram": "masculine singular, before the noun"
         },
@@ -1994,7 +1994,7 @@
           "t": "sanguin",
           "lemma": "sanguin",
           "pos": "adj",
-          "stress": "sɑ̃ɛ̃",
+          "stress": "sɑ̃ɡɛ̃",
           "gloss": "blood, vascular",
           "gram": "adjective, masculine singular"
         },
@@ -2003,8 +2003,8 @@
           "lemma": "être",
           "pos": "verb",
           "stress": "sɛ",
-          "gloss": "(each other) have",
-          "gram": "s' (se, each other) + est: auxiliary être"
+          "gloss": "himself/herself/itself (past reflexive helper)",
+          "gram": "se (reflexive) + est: 3rd person singular auxiliary être"
         },
         {
           "t": "bouché.",
@@ -2024,7 +2024,7 @@
           "t": "Cela",
           "lemma": "ça",
           "pos": "pron",
-          "stress": "sla",
+          "stress": "səla",
           "gloss": "this luxury event",
           "gram": "demonstrative pronoun"
         },
@@ -2084,17 +2084,17 @@
       "words": [
         {
           "t": "Est-ce",
-          "lemma": "est-ce que",
-          "pos": "phrase",
+          "lemma": "être",
+          "pos": "verb",
           "stress": "ɛs",
-          "gloss": "(question marker)",
-          "gram": "first part of est-ce que"
+          "gloss": "is it, do/does (question helper)",
+          "gram": "est + ce: inverted 3rd person singular of être"
         },
         {
           "t": "que",
           "lemma": "que",
           "pos": "conj",
-          "stress": "k",
+          "stress": "kə",
           "gloss": "that",
           "gram": "conjunction, introduces what to say"
         },
@@ -2102,7 +2102,7 @@
           "t": "cela",
           "lemma": "ça",
           "pos": "pron",
-          "stress": "sla",
+          "stress": "səla",
           "gloss": "this luxury event",
           "gram": "demonstrative pronoun"
         },
@@ -2148,7 +2148,7 @@
           "t": "cela",
           "lemma": "ça",
           "pos": "pron",
-          "stress": "sla",
+          "stress": "səla",
           "gloss": "this luxury event",
           "gram": "demonstrative pronoun"
         },
@@ -2165,8 +2165,8 @@
           "lemma": "améliorer",
           "pos": "verb",
           "stress": "sameljɔʁe",
-          "gloss": "itself to improve",
-          "gram": "infinitive"
+          "gloss": "to improve",
+          "gram": "se (reflexive) + améliorer: infinitive"
         },
         {
           "t": "avec",
@@ -2180,7 +2180,7 @@
           "t": "le",
           "lemma": "tout le monde",
           "pos": "phrase",
-          "stress": "l",
+          "stress": "lə",
           "gloss": "the (everyone)",
           "gram": "part of tout le monde"
         },
@@ -2210,7 +2210,7 @@
           "t": "je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒ",
+          "stress": "ʒə",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -2250,7 +2250,7 @@
           "t": "ce",
           "lemma": "ce",
           "pos": "det",
-          "stress": "s",
+          "stress": "sə",
           "gloss": "this (ce soir = tonight)",
           "gram": "demonstrative, masculine singular"
         },
@@ -2280,7 +2280,7 @@
           "t": "demain",
           "lemma": "demain",
           "pos": "adv",
-          "stress": "dmɛ̃",
+          "stress": "dəmɛ̃",
           "gloss": "tomorrow",
           "gram": "adverb of time"
         },
@@ -2382,7 +2382,7 @@
           "t": "de",
           "lemma": "de",
           "pos": "prep",
-          "stress": "d",
+          "stress": "də",
           "gloss": "of ('s)",
           "gram": "preposition, shows possession"
         },
@@ -2420,7 +2420,7 @@
           "t": "de",
           "lemma": "de",
           "pos": "prep",
-          "stress": "d",
+          "stress": "də",
           "gloss": "of ('s)",
           "gram": "preposition, shows possession"
         },
@@ -2444,7 +2444,7 @@
           "t": "le",
           "lemma": "tout le monde",
           "pos": "phrase",
-          "stress": "l",
+          "stress": "lə",
           "gloss": "the (everyone)",
           "gram": "part of tout le monde"
         },
@@ -2498,7 +2498,7 @@
           "t": "semaines",
           "lemma": "semaine",
           "pos": "noun",
-          "stress": "smɛn",
+          "stress": "səmɛn",
           "gloss": "weeks",
           "gram": "feminine plural"
         },
@@ -2514,7 +2514,7 @@
           "t": "venir.",
           "lemma": "venir",
           "pos": "verb",
-          "stress": "vniʁ",
+          "stress": "vəniʁ",
           "gloss": "come",
           "gram": "infinitive, after pouvoir"
         }
@@ -3679,7 +3679,7 @@
     },
     "ce": {
       "lemma": "ce",
-      "stress": "s",
+      "stress": "sə",
       "pos": "det",
       "gloss": "this, that; it",
       "meanings": [
@@ -3740,7 +3740,7 @@
     },
     "cela": {
       "lemma": "cela",
-      "stress": "sla",
+      "stress": "səla",
       "pos": "pron",
       "gloss": "that, this (demonstrative)",
       "meanings": [
@@ -3826,7 +3826,7 @@
     },
     "de": {
       "lemma": "de",
-      "stress": "d",
+      "stress": "də",
       "pos": "prep",
       "gloss": "of, from; some",
       "meanings": [
@@ -3872,7 +3872,7 @@
     },
     "demain": {
       "lemma": "demain",
-      "stress": "dmɛ̃",
+      "stress": "dəmɛ̃",
       "pos": "adv",
       "gloss": "tomorrow",
       "meanings": [
@@ -4188,7 +4188,7 @@
     },
     "est-ce que": {
       "lemma": "est-ce que",
-      "stress": "ɛsk",
+      "stress": "ɛskə",
       "pos": "phrase",
       "gloss": "(question marker)",
       "meanings": [
@@ -4256,7 +4256,7 @@
     },
     "examen": {
       "lemma": "examen",
-      "stress": "ɛzamɛ̃",
+      "stress": "ɛɡzamɛ̃",
       "pos": "noun",
       "gloss": "exam, test, examination",
       "gender": "m",
@@ -4527,7 +4527,7 @@
     },
     "grave": {
       "lemma": "grave",
-      "stress": "ʁav",
+      "stress": "ɡʁav",
       "pos": "adj",
       "gloss": "serious",
       "meanings": [
@@ -4592,7 +4592,7 @@
     },
     "je": {
       "lemma": "je",
-      "stress": "ʒ",
+      "stress": "ʒə",
       "pos": "pron",
       "gloss": "I",
       "meanings": [
@@ -4626,7 +4626,7 @@
     },
     "le": {
       "lemma": "le",
-      "stress": "l",
+      "stress": "lə",
       "pos": "det",
       "gloss": "the",
       "meanings": [
@@ -5382,7 +5382,7 @@
     },
     "petit": {
       "lemma": "petit",
-      "stress": "pti",
+      "stress": "pəti",
       "pos": "adj",
       "gloss": "small, little",
       "meanings": [
@@ -5573,7 +5573,7 @@
     },
     "que": {
       "lemma": "que",
-      "stress": "k",
+      "stress": "kə",
       "pos": "conj",
       "gloss": "that; than; only (ne...que)",
       "meanings": [
@@ -5619,7 +5619,7 @@
     },
     "regarder": {
       "lemma": "regarder",
-      "stress": "ʁaʁde",
+      "stress": "ʁəɡaʁde",
       "pos": "verb",
       "gloss": "to look at, to watch",
       "meanings": [
@@ -5838,7 +5838,7 @@
     },
     "sanguin": {
       "lemma": "sanguin",
-      "stress": "sɑ̃ɛ̃",
+      "stress": "sɑ̃ɡɛ̃",
       "pos": "adj",
       "gloss": "vascular, blood",
       "meanings": [
@@ -5895,7 +5895,7 @@
     },
     "se passer": {
       "lemma": "se passer",
-      "stress": "spase",
+      "stress": "səpase",
       "pos": "verb",
       "gloss": "to happen, to go (well/badly)",
       "governs": "mostly used with ça or il as subject",
@@ -6062,7 +6062,7 @@
     },
     "semaine": {
       "lemma": "semaine",
-      "stress": "smɛn",
+      "stress": "səmɛn",
       "pos": "noun",
       "gloss": "week",
       "gender": "f",
@@ -6114,7 +6114,7 @@
     },
     "simplement": {
       "lemma": "simplement",
-      "stress": "sɛ̃plmɑ̃",
+      "stress": "sɛ̃pləmɑ̃",
       "pos": "adv",
       "gloss": "simply, just",
       "meanings": [
@@ -6494,7 +6494,7 @@
     },
     "tout le monde": {
       "lemma": "tout le monde",
-      "stress": "tulmɔ̃d",
+      "stress": "tuləmɔ̃d",
       "pos": "phrase",
       "gloss": "everybody, everyone",
       "meanings": [
@@ -6739,7 +6739,7 @@
     },
     "venir": {
       "lemma": "venir",
-      "stress": "vniʁ",
+      "stress": "vəniʁ",
       "pos": "verb",
       "gloss": "to come",
       "meanings": [

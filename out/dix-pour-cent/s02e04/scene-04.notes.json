@@ -81,8 +81,8 @@
           "lemma": "être",
           "pos": "verb",
           "stress": "sɛ",
-          "gloss": "it's",
-          "gram": "ce (it) + est: present, 3rd person singular"
+          "gloss": "it is, that is",
+          "gram": "ce (it/that) + est: 3rd person singular present of être"
         },
         {
           "t": "votre",
@@ -104,7 +104,7 @@
           "t": "le",
           "lemma": "tout le monde",
           "pos": "phrase",
-          "stress": "l",
+          "stress": "lə",
           "gloss": "the (everyone)",
           "gram": "part of tout le monde"
         },
@@ -188,7 +188,7 @@
           "t": "Arrêtez!",
           "lemma": "arrêter",
           "pos": "verb",
-          "stress": "aʁete",
+          "stress": "aʁɛte",
           "gloss": "stop",
           "gram": "imperative, 2nd person plural/formal (vous)"
         },
@@ -312,7 +312,7 @@
           "t": "de",
           "lemma": "de",
           "pos": "prep",
-          "stress": "d",
+          "stress": "də",
           "gloss": "of ('s)",
           "gram": "preposition, shows possession"
         },
@@ -336,7 +336,7 @@
           "t": "ne",
           "lemma": "ne",
           "pos": "part",
-          "stress": "n",
+          "stress": "nə",
           "gloss": "not",
           "gram": "negation, first half, before the verb"
         },
@@ -345,8 +345,8 @@
           "lemma": "excuser",
           "pos": "verb",
           "stress": "sɛkskyzʁa",
-          "gloss": "itself will apologize",
-          "gram": "future, 3sg"
+          "gloss": "will apologize",
+          "gram": "se (reflexive) + excusera: 3rd person singular future of s'excuser"
         },
         {
           "t": "pas!",
@@ -366,7 +366,7 @@
           "t": "Je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒ",
+          "stress": "ʒə",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -374,7 +374,7 @@
           "t": "refuse",
           "lemma": "refuser",
           "pos": "verb",
-          "stress": "ʁfyz",
+          "stress": "ʁəfyz",
           "gloss": "refuses",
           "gram": "subjunctive (same form as present), 3rd person singular"
         },
@@ -382,7 +382,7 @@
           "t": "de",
           "lemma": "de",
           "pos": "prep",
-          "stress": "d",
+          "stress": "də",
           "gloss": "of ('s)",
           "gram": "preposition, shows possession"
         },
@@ -404,11 +404,11 @@
         },
         {
           "t": "s'humilier.",
-          "lemma": "s'humilier",
+          "lemma": "humilier",
           "pos": "verb",
           "stress": "symilje",
           "gloss": "to humiliate oneself",
-          "gram": "verb"
+          "gram": "se (reflexive) + humilier: infinitive"
         }
       ]
     },
@@ -428,7 +428,7 @@
           "t": "se",
           "lemma": "se",
           "pos": "pron",
-          "stress": "s",
+          "stress": "sə",
           "gloss": "(reflexive)",
           "gram": "reflexive pronoun, part of se passer"
         },
@@ -480,17 +480,17 @@
         },
         {
           "t": "qu'est-ce",
-          "lemma": "qu'est-ce que",
-          "pos": "phrase",
+          "lemma": "que",
+          "pos": "pron",
           "stress": "kɛs",
-          "gloss": "what",
-          "gram": "question phrase qu'est-ce que, first part"
+          "gloss": "what is",
+          "gram": "qu' (what) + est-ce (is it): question opener"
         },
         {
           "t": "que",
           "lemma": "que",
           "pos": "conj",
-          "stress": "k",
+          "stress": "kə",
           "gloss": "that",
           "gram": "conjunction, introduces what to say"
         },
@@ -506,7 +506,7 @@
           "t": "faisons",
           "lemma": "faire",
           "pos": "verb",
-          "stress": "fzɔ̃",
+          "stress": "fəzɔ̃",
           "gloss": "let's make",
           "gram": "imperative 1st person plural of 'faire'"
         },
@@ -536,7 +536,7 @@
           "t": "que",
           "lemma": "que",
           "pos": "conj",
-          "stress": "k",
+          "stress": "kə",
           "gloss": "that",
           "gram": "conjunction, introduces what to say"
         },
@@ -591,8 +591,8 @@
           "lemma": "être",
           "pos": "verb",
           "stress": "sɛ",
-          "gloss": "it's",
-          "gram": "ce (it) + est: present, 3rd person singular"
+          "gloss": "it is, that is",
+          "gram": "ce (it/that) + est: 3rd person singular present of être"
         },
         {
           "t": "ma",
@@ -614,17 +614,17 @@
           "t": "je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒ",
+          "stress": "ʒə",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
         {
           "t": "m'en",
           "lemma": "en",
-          "pos": "prep",
+          "pos": "pron",
           "stress": "mɑ̃",
-          "gloss": "(myself) of it",
-          "gram": "m' (reflexive, elided) + en (of it); s'en occuper = to take care of it"
+          "gloss": "me of it, about it",
+          "gram": "me (me/myself) + en (of it)"
         },
         {
           "t": "charge.",
@@ -750,11 +750,11 @@
       "words": [
         {
           "t": "D'accord,",
-          "lemma": "d'accord",
-          "pos": "interj",
+          "lemma": "accord",
+          "pos": "noun",
           "stress": "dakɔʁ",
-          "gloss": "okay",
-          "gram": "interjection / exclamation ('d'accord')"
+          "gloss": "agreed, okay",
+          "gram": "de (of) + accord (agreement): fixed expression"
         },
         {
           "t": "mais",
@@ -877,8 +877,8 @@
           "lemma": "être",
           "pos": "verb",
           "stress": "sɛ",
-          "gloss": "it's",
-          "gram": "ce (it) + est: present, 3rd person singular"
+          "gloss": "it is, that is",
+          "gram": "ce (it/that) + est: 3rd person singular present of être"
         },
         {
           "t": "votre",
@@ -900,7 +900,7 @@
           "t": "le",
           "lemma": "tout le monde",
           "pos": "phrase",
-          "stress": "l",
+          "stress": "lə",
           "gloss": "the (everyone)",
           "gram": "part of tout le monde"
         },
@@ -984,7 +984,7 @@
           "t": "Arrêtez!",
           "lemma": "arrêter",
           "pos": "verb",
-          "stress": "aʁete",
+          "stress": "aʁɛte",
           "gloss": "stop",
           "gram": "imperative, 2nd person plural/formal (vous)"
         },
@@ -1108,7 +1108,7 @@
           "t": "de",
           "lemma": "de",
           "pos": "prep",
-          "stress": "d",
+          "stress": "də",
           "gloss": "of ('s)",
           "gram": "preposition, shows possession"
         },
@@ -1132,7 +1132,7 @@
           "t": "ne",
           "lemma": "ne",
           "pos": "part",
-          "stress": "n",
+          "stress": "nə",
           "gloss": "not",
           "gram": "negation, first half, before the verb"
         },
@@ -1141,8 +1141,8 @@
           "lemma": "excuser",
           "pos": "verb",
           "stress": "sɛkskyzʁa",
-          "gloss": "itself will apologize",
-          "gram": "future, 3sg"
+          "gloss": "will apologize",
+          "gram": "se (reflexive) + excusera: 3rd person singular future of s'excuser"
         },
         {
           "t": "pas!",
@@ -1162,7 +1162,7 @@
           "t": "Je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒ",
+          "stress": "ʒə",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -1170,7 +1170,7 @@
           "t": "refuse",
           "lemma": "refuser",
           "pos": "verb",
-          "stress": "ʁfyz",
+          "stress": "ʁəfyz",
           "gloss": "refuses",
           "gram": "subjunctive (same form as present), 3rd person singular"
         },
@@ -1178,7 +1178,7 @@
           "t": "de",
           "lemma": "de",
           "pos": "prep",
-          "stress": "d",
+          "stress": "də",
           "gloss": "of ('s)",
           "gram": "preposition, shows possession"
         },
@@ -1200,11 +1200,11 @@
         },
         {
           "t": "s'humilier.",
-          "lemma": "s'humilier",
+          "lemma": "humilier",
           "pos": "verb",
           "stress": "symilje",
           "gloss": "to humiliate oneself",
-          "gram": "verb"
+          "gram": "se (reflexive) + humilier: infinitive"
         }
       ]
     },
@@ -1224,7 +1224,7 @@
           "t": "se",
           "lemma": "se",
           "pos": "pron",
-          "stress": "s",
+          "stress": "sə",
           "gloss": "(reflexive)",
           "gram": "reflexive pronoun, part of se passer"
         },
@@ -1276,17 +1276,17 @@
         },
         {
           "t": "qu'est-ce",
-          "lemma": "qu'est-ce que",
-          "pos": "phrase",
+          "lemma": "que",
+          "pos": "pron",
           "stress": "kɛs",
-          "gloss": "what",
-          "gram": "question phrase qu'est-ce que, first part"
+          "gloss": "what is",
+          "gram": "qu' (what) + est-ce (is it): question opener"
         },
         {
           "t": "que",
           "lemma": "que",
           "pos": "conj",
-          "stress": "k",
+          "stress": "kə",
           "gloss": "that",
           "gram": "conjunction, introduces what to say"
         },
@@ -1302,7 +1302,7 @@
           "t": "faisons",
           "lemma": "faire",
           "pos": "verb",
-          "stress": "fzɔ̃",
+          "stress": "fəzɔ̃",
           "gloss": "let's make",
           "gram": "imperative 1st person plural of 'faire'"
         },
@@ -1332,7 +1332,7 @@
           "t": "que",
           "lemma": "que",
           "pos": "conj",
-          "stress": "k",
+          "stress": "kə",
           "gloss": "that",
           "gram": "conjunction, introduces what to say"
         },
@@ -1387,8 +1387,8 @@
           "lemma": "être",
           "pos": "verb",
           "stress": "sɛ",
-          "gloss": "it's",
-          "gram": "ce (it) + est: present, 3rd person singular"
+          "gloss": "it is, that is",
+          "gram": "ce (it/that) + est: 3rd person singular present of être"
         },
         {
           "t": "ma",
@@ -1410,17 +1410,17 @@
           "t": "je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒ",
+          "stress": "ʒə",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
         {
           "t": "m'en",
           "lemma": "en",
-          "pos": "prep",
+          "pos": "pron",
           "stress": "mɑ̃",
-          "gloss": "(myself) of it",
-          "gram": "m' (reflexive, elided) + en (of it); s'en occuper = to take care of it"
+          "gloss": "me of it, about it",
+          "gram": "me (me/myself) + en (of it)"
         },
         {
           "t": "charge.",
@@ -1546,11 +1546,11 @@
       "words": [
         {
           "t": "D'accord,",
-          "lemma": "d'accord",
-          "pos": "interj",
+          "lemma": "accord",
+          "pos": "noun",
           "stress": "dakɔʁ",
-          "gloss": "okay",
-          "gram": "interjection / exclamation ('d'accord')"
+          "gloss": "agreed, okay",
+          "gram": "de (of) + accord (agreement): fixed expression"
         },
         {
           "t": "mais",
@@ -1673,8 +1673,8 @@
           "lemma": "être",
           "pos": "verb",
           "stress": "sɛ",
-          "gloss": "it's",
-          "gram": "ce (it) + est: present, 3rd person singular"
+          "gloss": "it is, that is",
+          "gram": "ce (it/that) + est: 3rd person singular present of être"
         },
         {
           "t": "votre",
@@ -1696,7 +1696,7 @@
           "t": "le",
           "lemma": "tout le monde",
           "pos": "phrase",
-          "stress": "l",
+          "stress": "lə",
           "gloss": "the (everyone)",
           "gram": "part of tout le monde"
         },
@@ -1780,7 +1780,7 @@
           "t": "Arrêtez!",
           "lemma": "arrêter",
           "pos": "verb",
-          "stress": "aʁete",
+          "stress": "aʁɛte",
           "gloss": "stop",
           "gram": "imperative, 2nd person plural/formal (vous)"
         },
@@ -1904,7 +1904,7 @@
           "t": "de",
           "lemma": "de",
           "pos": "prep",
-          "stress": "d",
+          "stress": "də",
           "gloss": "of ('s)",
           "gram": "preposition, shows possession"
         },
@@ -1928,7 +1928,7 @@
           "t": "ne",
           "lemma": "ne",
           "pos": "part",
-          "stress": "n",
+          "stress": "nə",
           "gloss": "not",
           "gram": "negation, first half, before the verb"
         },
@@ -1937,8 +1937,8 @@
           "lemma": "excuser",
           "pos": "verb",
           "stress": "sɛkskyzʁa",
-          "gloss": "itself will apologize",
-          "gram": "future, 3sg"
+          "gloss": "will apologize",
+          "gram": "se (reflexive) + excusera: 3rd person singular future of s'excuser"
         },
         {
           "t": "pas!",
@@ -1958,7 +1958,7 @@
           "t": "Je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒ",
+          "stress": "ʒə",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -1966,7 +1966,7 @@
           "t": "refuse",
           "lemma": "refuser",
           "pos": "verb",
-          "stress": "ʁfyz",
+          "stress": "ʁəfyz",
           "gloss": "refuses",
           "gram": "subjunctive (same form as present), 3rd person singular"
         },
@@ -1974,7 +1974,7 @@
           "t": "de",
           "lemma": "de",
           "pos": "prep",
-          "stress": "d",
+          "stress": "də",
           "gloss": "of ('s)",
           "gram": "preposition, shows possession"
         },
@@ -1996,11 +1996,11 @@
         },
         {
           "t": "s'humilier.",
-          "lemma": "s'humilier",
+          "lemma": "humilier",
           "pos": "verb",
           "stress": "symilje",
           "gloss": "to humiliate oneself",
-          "gram": "verb"
+          "gram": "se (reflexive) + humilier: infinitive"
         }
       ]
     },
@@ -2020,7 +2020,7 @@
           "t": "se",
           "lemma": "se",
           "pos": "pron",
-          "stress": "s",
+          "stress": "sə",
           "gloss": "(reflexive)",
           "gram": "reflexive pronoun, part of se passer"
         },
@@ -2072,17 +2072,17 @@
         },
         {
           "t": "qu'est-ce",
-          "lemma": "qu'est-ce que",
-          "pos": "phrase",
+          "lemma": "que",
+          "pos": "pron",
           "stress": "kɛs",
-          "gloss": "what",
-          "gram": "question phrase qu'est-ce que, first part"
+          "gloss": "what is",
+          "gram": "qu' (what) + est-ce (is it): question opener"
         },
         {
           "t": "que",
           "lemma": "que",
           "pos": "conj",
-          "stress": "k",
+          "stress": "kə",
           "gloss": "that",
           "gram": "conjunction, introduces what to say"
         },
@@ -2098,7 +2098,7 @@
           "t": "faisons",
           "lemma": "faire",
           "pos": "verb",
-          "stress": "fzɔ̃",
+          "stress": "fəzɔ̃",
           "gloss": "let's make",
           "gram": "imperative 1st person plural of 'faire'"
         },
@@ -2128,7 +2128,7 @@
           "t": "que",
           "lemma": "que",
           "pos": "conj",
-          "stress": "k",
+          "stress": "kə",
           "gloss": "that",
           "gram": "conjunction, introduces what to say"
         },
@@ -2183,8 +2183,8 @@
           "lemma": "être",
           "pos": "verb",
           "stress": "sɛ",
-          "gloss": "it's",
-          "gram": "ce (it) + est: present, 3rd person singular"
+          "gloss": "it is, that is",
+          "gram": "ce (it/that) + est: 3rd person singular present of être"
         },
         {
           "t": "ma",
@@ -2206,17 +2206,17 @@
           "t": "je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒ",
+          "stress": "ʒə",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
         {
           "t": "m'en",
           "lemma": "en",
-          "pos": "prep",
+          "pos": "pron",
           "stress": "mɑ̃",
-          "gloss": "(myself) of it",
-          "gram": "m' (reflexive, elided) + en (of it); s'en occuper = to take care of it"
+          "gloss": "me of it, about it",
+          "gram": "me (me/myself) + en (of it)"
         },
         {
           "t": "charge.",
@@ -2342,11 +2342,11 @@
       "words": [
         {
           "t": "D'accord,",
-          "lemma": "d'accord",
-          "pos": "interj",
+          "lemma": "accord",
+          "pos": "noun",
           "stress": "dakɔʁ",
-          "gloss": "okay",
-          "gram": "interjection / exclamation ('d'accord')"
+          "gloss": "agreed, okay",
+          "gram": "de (of) + accord (agreement): fixed expression"
         },
         {
           "t": "mais",
@@ -2742,7 +2742,7 @@
     },
     "arrêter": {
       "lemma": "arrêter",
-      "stress": "aʁete",
+      "stress": "aʁɛte",
       "pos": "verb",
       "gloss": "to stop",
       "meanings": [
@@ -3270,7 +3270,7 @@
     },
     "ce": {
       "lemma": "ce",
-      "stress": "s",
+      "stress": "sə",
       "pos": "det",
       "gloss": "this, that; it",
       "meanings": [
@@ -3561,7 +3561,7 @@
     },
     "de": {
       "lemma": "de",
-      "stress": "d",
+      "stress": "də",
       "pos": "prep",
       "gloss": "of, from; some",
       "meanings": [
@@ -4725,7 +4725,7 @@
     },
     "je": {
       "lemma": "je",
-      "stress": "ʒ",
+      "stress": "ʒə",
       "pos": "pron",
       "gloss": "I",
       "meanings": [
@@ -4945,7 +4945,7 @@
     },
     "le": {
       "lemma": "le",
-      "stress": "l",
+      "stress": "lə",
       "pos": "det",
       "gloss": "the",
       "meanings": [
@@ -5169,7 +5169,7 @@
     },
     "ne": {
       "lemma": "ne",
-      "stress": "n",
+      "stress": "nə",
       "pos": "part",
       "gloss": "not (with pas, rien, que)",
       "meanings": [
@@ -5903,7 +5903,7 @@
     },
     "qu'est-ce que": {
       "lemma": "qu'est-ce que",
-      "stress": "kɛsk",
+      "stress": "kɛskə",
       "pos": "phrase",
       "gloss": "what (in questions)",
       "meanings": [
@@ -5937,7 +5937,7 @@
     },
     "que": {
       "lemma": "que",
-      "stress": "k",
+      "stress": "kə",
       "pos": "conj",
       "gloss": "that; than; only (ne...que)",
       "meanings": [
@@ -6039,7 +6039,7 @@
     },
     "refuser": {
       "lemma": "refuser",
-      "stress": "ʁfyze",
+      "stress": "ʁəfyze",
       "pos": "verb",
       "gloss": "to refuse, to turn down",
       "meanings": [
@@ -6736,7 +6736,7 @@
     },
     "se": {
       "lemma": "se",
-      "stress": "s",
+      "stress": "sə",
       "pos": "pron",
       "gloss": "oneself, itself (reflexive)",
       "meanings": [
@@ -6822,7 +6822,7 @@
     },
     "tout le monde": {
       "lemma": "tout le monde",
-      "stress": "tulmɔ̃d",
+      "stress": "tuləmɔ̃d",
       "pos": "phrase",
       "gloss": "everybody, everyone",
       "meanings": [

@@ -16,17 +16,17 @@
         },
         {
           "t": "Qu'est-ce",
-          "lemma": "qu'est-ce que",
-          "pos": "phrase",
+          "lemma": "que",
+          "pos": "pron",
           "stress": "kɛs",
-          "gloss": "what",
-          "gram": "question phrase qu'est-ce que, first part"
+          "gloss": "what is",
+          "gram": "qu' (what) + est-ce (is it): question opener"
         },
         {
           "t": "que",
           "lemma": "que",
           "pos": "conj",
-          "stress": "k",
+          "stress": "kə",
           "gloss": "that",
           "gram": "conjunction, introduces what to say"
         },
@@ -50,7 +50,7 @@
           "t": "là-dedans?",
           "lemma": "là-dedans",
           "pos": "adv",
-          "stress": "laddɑ̃",
+          "stress": "ladədɑ̃",
           "gloss": "in there",
           "gram": "compound adverb"
         }
@@ -143,14 +143,14 @@
           "lemma": "être",
           "pos": "verb",
           "stress": "sɛ",
-          "gloss": "it's",
-          "gram": "ce (it) + est: present, 3rd person singular"
+          "gloss": "it is, that is",
+          "gram": "ce (it/that) + est: 3rd person singular present of être"
         },
         {
           "t": "le",
           "lemma": "tout le monde",
           "pos": "phrase",
-          "stress": "l",
+          "stress": "lə",
           "gloss": "the (everyone)",
           "gram": "part of tout le monde"
         },
@@ -166,7 +166,7 @@
           "t": "de",
           "lemma": "de",
           "pos": "prep",
-          "stress": "d",
+          "stress": "də",
           "gloss": "of ('s)",
           "gram": "preposition, shows possession"
         },
@@ -188,7 +188,7 @@
           "t": "Ce",
           "lemma": "ce",
           "pos": "det",
-          "stress": "s",
+          "stress": "sə",
           "gloss": "this (ce soir = tonight)",
           "gram": "demonstrative, masculine singular"
         },
@@ -196,7 +196,7 @@
           "t": "sera",
           "lemma": "être",
           "pos": "verb",
-          "stress": "sʁa",
+          "stress": "səʁa",
           "gloss": "will be",
           "gram": "future, 3rd person singular"
         },
@@ -212,7 +212,7 @@
           "t": "le",
           "lemma": "tout le monde",
           "pos": "phrase",
-          "stress": "l",
+          "stress": "lə",
           "gloss": "the (everyone)",
           "gram": "part of tout le monde"
         },
@@ -320,7 +320,7 @@
           "t": "ne",
           "lemma": "ne",
           "pos": "part",
-          "stress": "n",
+          "stress": "nə",
           "gloss": "not",
           "gram": "negation, first half, before the verb"
         },
@@ -358,7 +358,7 @@
           "t": "Regarde",
           "lemma": "regarder",
           "pos": "verb",
-          "stress": "ʁaʁd",
+          "stress": "ʁəɡaʁd",
           "gloss": "look",
           "gram": "imperative, 2nd person singular"
         },
@@ -436,25 +436,25 @@
           "t": "furieux",
           "lemma": "furieux",
           "pos": "adj",
-          "stress": "fyrjø",
+          "stress": "fyʁjø",
           "gloss": "enraged, furious",
           "gram": "adjective, masculine singular"
         },
         {
           "t": "s'il",
-          "lemma": "s'il vous plaît",
-          "pos": "phrase",
+          "lemma": "si",
+          "pos": "conj",
           "stress": "sil",
-          "gloss": "if it (please)",
-          "gram": "part of s'il vous plaît"
+          "gloss": "if he, if it",
+          "gram": "si (if) + il (he/it)"
         },
         {
           "t": "l'apprend.",
           "lemma": "apprendre",
           "pos": "verb",
           "stress": "lapʁɑ̃",
-          "gloss": "the learns",
-          "gram": "present, 3rd person singular"
+          "gloss": "learns it, finds out",
+          "gram": "le (it) + apprend: 3rd person singular present of apprendre"
         }
       ]
     },
@@ -466,7 +466,7 @@
           "t": "Ne",
           "lemma": "ne",
           "pos": "part",
-          "stress": "n",
+          "stress": "nə",
           "gloss": "not",
           "gram": "negation, first half, before the verb"
         },
@@ -475,8 +475,8 @@
           "lemma": "inquiéter",
           "pos": "verb",
           "stress": "tɛ̃kjɛt",
-          "gloss": "worries you",
-          "gram": "te (elided t', you) + inquiète: present, 3rd person singular"
+          "gloss": "worry (in ne t'inquiète pas = don't worry)",
+          "gram": "te (reflexive) + inquiète: 2nd person singular present/imperative of s'inquiéter"
         },
         {
           "t": "pas,",
@@ -536,7 +536,7 @@
           "t": "confortablement",
           "lemma": "confortablement",
           "pos": "adv",
-          "stress": "kɔ̃fɔʁtablmɑ̃",
+          "stress": "kɔ̃fɔʁtabləmɑ̃",
           "gloss": "comfortably",
           "gram": "adverb"
         },
@@ -552,7 +552,7 @@
           "t": "ce",
           "lemma": "ce",
           "pos": "det",
-          "stress": "s",
+          "stress": "sə",
           "gloss": "this (ce soir = tonight)",
           "gram": "demonstrative, masculine singular"
         },
@@ -614,7 +614,7 @@
           "t": "de",
           "lemma": "de",
           "pos": "prep",
-          "stress": "d",
+          "stress": "də",
           "gloss": "of ('s)",
           "gram": "preposition, shows possession"
         },
@@ -722,7 +722,7 @@
           "t": "tous",
           "lemma": "tout",
           "pos": "det",
-          "stress": "tus",
+          "stress": "tu",
           "gloss": "everyone, all",
           "gram": "pronoun, masculine plural; final s pronounced"
         },
@@ -758,11 +758,11 @@
       "words": [
         {
           "t": "D'accord,",
-          "lemma": "d'accord",
-          "pos": "interj",
+          "lemma": "accord",
+          "pos": "noun",
           "stress": "dakɔʁ",
-          "gloss": "okay",
-          "gram": "interjection / exclamation ('d'accord')"
+          "gloss": "agreed, okay",
+          "gram": "de (of) + accord (agreement): fixed expression"
         },
         {
           "t": "mais",
@@ -828,17 +828,17 @@
         },
         {
           "t": "Qu'est-ce",
-          "lemma": "qu'est-ce que",
-          "pos": "phrase",
+          "lemma": "que",
+          "pos": "pron",
           "stress": "kɛs",
-          "gloss": "what",
-          "gram": "question phrase qu'est-ce que, first part"
+          "gloss": "what is",
+          "gram": "qu' (what) + est-ce (is it): question opener"
         },
         {
           "t": "que",
           "lemma": "que",
           "pos": "conj",
-          "stress": "k",
+          "stress": "kə",
           "gloss": "that",
           "gram": "conjunction, introduces what to say"
         },
@@ -862,7 +862,7 @@
           "t": "là-dedans?",
           "lemma": "là-dedans",
           "pos": "adv",
-          "stress": "laddɑ̃",
+          "stress": "ladədɑ̃",
           "gloss": "in there",
           "gram": "compound adverb"
         }
@@ -955,14 +955,14 @@
           "lemma": "être",
           "pos": "verb",
           "stress": "sɛ",
-          "gloss": "it's",
-          "gram": "ce (it) + est: present, 3rd person singular"
+          "gloss": "it is, that is",
+          "gram": "ce (it/that) + est: 3rd person singular present of être"
         },
         {
           "t": "le",
           "lemma": "tout le monde",
           "pos": "phrase",
-          "stress": "l",
+          "stress": "lə",
           "gloss": "the (everyone)",
           "gram": "part of tout le monde"
         },
@@ -978,7 +978,7 @@
           "t": "de",
           "lemma": "de",
           "pos": "prep",
-          "stress": "d",
+          "stress": "də",
           "gloss": "of ('s)",
           "gram": "preposition, shows possession"
         },
@@ -1000,7 +1000,7 @@
           "t": "Ce",
           "lemma": "ce",
           "pos": "det",
-          "stress": "s",
+          "stress": "sə",
           "gloss": "this (ce soir = tonight)",
           "gram": "demonstrative, masculine singular"
         },
@@ -1008,7 +1008,7 @@
           "t": "sera",
           "lemma": "être",
           "pos": "verb",
-          "stress": "sʁa",
+          "stress": "səʁa",
           "gloss": "will be",
           "gram": "future, 3rd person singular"
         },
@@ -1024,7 +1024,7 @@
           "t": "le",
           "lemma": "tout le monde",
           "pos": "phrase",
-          "stress": "l",
+          "stress": "lə",
           "gloss": "the (everyone)",
           "gram": "part of tout le monde"
         },
@@ -1132,7 +1132,7 @@
           "t": "ne",
           "lemma": "ne",
           "pos": "part",
-          "stress": "n",
+          "stress": "nə",
           "gloss": "not",
           "gram": "negation, first half, before the verb"
         },
@@ -1170,7 +1170,7 @@
           "t": "Regarde",
           "lemma": "regarder",
           "pos": "verb",
-          "stress": "ʁaʁd",
+          "stress": "ʁəɡaʁd",
           "gloss": "look",
           "gram": "imperative, 2nd person singular"
         },
@@ -1248,25 +1248,25 @@
           "t": "furieux",
           "lemma": "furieux",
           "pos": "adj",
-          "stress": "fyrjø",
+          "stress": "fyʁjø",
           "gloss": "enraged, furious",
           "gram": "adjective, masculine singular"
         },
         {
           "t": "s'il",
-          "lemma": "s'il vous plaît",
-          "pos": "phrase",
+          "lemma": "si",
+          "pos": "conj",
           "stress": "sil",
-          "gloss": "if it (please)",
-          "gram": "part of s'il vous plaît"
+          "gloss": "if he, if it",
+          "gram": "si (if) + il (he/it)"
         },
         {
           "t": "l'apprend.",
           "lemma": "apprendre",
           "pos": "verb",
           "stress": "lapʁɑ̃",
-          "gloss": "the learns",
-          "gram": "present, 3rd person singular"
+          "gloss": "learns it, finds out",
+          "gram": "le (it) + apprend: 3rd person singular present of apprendre"
         }
       ]
     },
@@ -1278,7 +1278,7 @@
           "t": "Ne",
           "lemma": "ne",
           "pos": "part",
-          "stress": "n",
+          "stress": "nə",
           "gloss": "not",
           "gram": "negation, first half, before the verb"
         },
@@ -1287,8 +1287,8 @@
           "lemma": "inquiéter",
           "pos": "verb",
           "stress": "tɛ̃kjɛt",
-          "gloss": "worries you",
-          "gram": "te (elided t', you) + inquiète: present, 3rd person singular"
+          "gloss": "worry (in ne t'inquiète pas = don't worry)",
+          "gram": "te (reflexive) + inquiète: 2nd person singular present/imperative of s'inquiéter"
         },
         {
           "t": "pas,",
@@ -1348,7 +1348,7 @@
           "t": "confortablement",
           "lemma": "confortablement",
           "pos": "adv",
-          "stress": "kɔ̃fɔʁtablmɑ̃",
+          "stress": "kɔ̃fɔʁtabləmɑ̃",
           "gloss": "comfortably",
           "gram": "adverb"
         },
@@ -1364,7 +1364,7 @@
           "t": "ce",
           "lemma": "ce",
           "pos": "det",
-          "stress": "s",
+          "stress": "sə",
           "gloss": "this (ce soir = tonight)",
           "gram": "demonstrative, masculine singular"
         },
@@ -1426,7 +1426,7 @@
           "t": "de",
           "lemma": "de",
           "pos": "prep",
-          "stress": "d",
+          "stress": "də",
           "gloss": "of ('s)",
           "gram": "preposition, shows possession"
         },
@@ -1534,7 +1534,7 @@
           "t": "tous",
           "lemma": "tout",
           "pos": "det",
-          "stress": "tus",
+          "stress": "tu",
           "gloss": "everyone, all",
           "gram": "pronoun, masculine plural; final s pronounced"
         },
@@ -1570,11 +1570,11 @@
       "words": [
         {
           "t": "D'accord,",
-          "lemma": "d'accord",
-          "pos": "interj",
+          "lemma": "accord",
+          "pos": "noun",
           "stress": "dakɔʁ",
-          "gloss": "okay",
-          "gram": "interjection / exclamation ('d'accord')"
+          "gloss": "agreed, okay",
+          "gram": "de (of) + accord (agreement): fixed expression"
         },
         {
           "t": "mais",
@@ -1640,17 +1640,17 @@
         },
         {
           "t": "Qu'est-ce",
-          "lemma": "qu'est-ce que",
-          "pos": "phrase",
+          "lemma": "que",
+          "pos": "pron",
           "stress": "kɛs",
-          "gloss": "what",
-          "gram": "question phrase qu'est-ce que, first part"
+          "gloss": "what is",
+          "gram": "qu' (what) + est-ce (is it): question opener"
         },
         {
           "t": "que",
           "lemma": "que",
           "pos": "conj",
-          "stress": "k",
+          "stress": "kə",
           "gloss": "that",
           "gram": "conjunction, introduces what to say"
         },
@@ -1674,7 +1674,7 @@
           "t": "là-dedans?",
           "lemma": "là-dedans",
           "pos": "adv",
-          "stress": "laddɑ̃",
+          "stress": "ladədɑ̃",
           "gloss": "in there",
           "gram": "compound adverb"
         }
@@ -1767,14 +1767,14 @@
           "lemma": "être",
           "pos": "verb",
           "stress": "sɛ",
-          "gloss": "it's",
-          "gram": "ce (it) + est: present, 3rd person singular"
+          "gloss": "it is, that is",
+          "gram": "ce (it/that) + est: 3rd person singular present of être"
         },
         {
           "t": "le",
           "lemma": "tout le monde",
           "pos": "phrase",
-          "stress": "l",
+          "stress": "lə",
           "gloss": "the (everyone)",
           "gram": "part of tout le monde"
         },
@@ -1790,7 +1790,7 @@
           "t": "de",
           "lemma": "de",
           "pos": "prep",
-          "stress": "d",
+          "stress": "də",
           "gloss": "of ('s)",
           "gram": "preposition, shows possession"
         },
@@ -1812,7 +1812,7 @@
           "t": "Ce",
           "lemma": "ce",
           "pos": "det",
-          "stress": "s",
+          "stress": "sə",
           "gloss": "this (ce soir = tonight)",
           "gram": "demonstrative, masculine singular"
         },
@@ -1820,7 +1820,7 @@
           "t": "sera",
           "lemma": "être",
           "pos": "verb",
-          "stress": "sʁa",
+          "stress": "səʁa",
           "gloss": "will be",
           "gram": "future, 3rd person singular"
         },
@@ -1836,7 +1836,7 @@
           "t": "le",
           "lemma": "tout le monde",
           "pos": "phrase",
-          "stress": "l",
+          "stress": "lə",
           "gloss": "the (everyone)",
           "gram": "part of tout le monde"
         },
@@ -1944,7 +1944,7 @@
           "t": "ne",
           "lemma": "ne",
           "pos": "part",
-          "stress": "n",
+          "stress": "nə",
           "gloss": "not",
           "gram": "negation, first half, before the verb"
         },
@@ -1982,7 +1982,7 @@
           "t": "Regarde",
           "lemma": "regarder",
           "pos": "verb",
-          "stress": "ʁaʁd",
+          "stress": "ʁəɡaʁd",
           "gloss": "look",
           "gram": "imperative, 2nd person singular"
         },
@@ -2060,25 +2060,25 @@
           "t": "furieux",
           "lemma": "furieux",
           "pos": "adj",
-          "stress": "fyrjø",
+          "stress": "fyʁjø",
           "gloss": "enraged, furious",
           "gram": "adjective, masculine singular"
         },
         {
           "t": "s'il",
-          "lemma": "s'il vous plaît",
-          "pos": "phrase",
+          "lemma": "si",
+          "pos": "conj",
           "stress": "sil",
-          "gloss": "if it (please)",
-          "gram": "part of s'il vous plaît"
+          "gloss": "if he, if it",
+          "gram": "si (if) + il (he/it)"
         },
         {
           "t": "l'apprend.",
           "lemma": "apprendre",
           "pos": "verb",
           "stress": "lapʁɑ̃",
-          "gloss": "the learns",
-          "gram": "present, 3rd person singular"
+          "gloss": "learns it, finds out",
+          "gram": "le (it) + apprend: 3rd person singular present of apprendre"
         }
       ]
     },
@@ -2090,7 +2090,7 @@
           "t": "Ne",
           "lemma": "ne",
           "pos": "part",
-          "stress": "n",
+          "stress": "nə",
           "gloss": "not",
           "gram": "negation, first half, before the verb"
         },
@@ -2099,8 +2099,8 @@
           "lemma": "inquiéter",
           "pos": "verb",
           "stress": "tɛ̃kjɛt",
-          "gloss": "worries you",
-          "gram": "te (elided t', you) + inquiète: present, 3rd person singular"
+          "gloss": "worry (in ne t'inquiète pas = don't worry)",
+          "gram": "te (reflexive) + inquiète: 2nd person singular present/imperative of s'inquiéter"
         },
         {
           "t": "pas,",
@@ -2160,7 +2160,7 @@
           "t": "confortablement",
           "lemma": "confortablement",
           "pos": "adv",
-          "stress": "kɔ̃fɔʁtablmɑ̃",
+          "stress": "kɔ̃fɔʁtabləmɑ̃",
           "gloss": "comfortably",
           "gram": "adverb"
         },
@@ -2176,7 +2176,7 @@
           "t": "ce",
           "lemma": "ce",
           "pos": "det",
-          "stress": "s",
+          "stress": "sə",
           "gloss": "this (ce soir = tonight)",
           "gram": "demonstrative, masculine singular"
         },
@@ -2238,7 +2238,7 @@
           "t": "de",
           "lemma": "de",
           "pos": "prep",
-          "stress": "d",
+          "stress": "də",
           "gloss": "of ('s)",
           "gram": "preposition, shows possession"
         },
@@ -2346,7 +2346,7 @@
           "t": "tous",
           "lemma": "tout",
           "pos": "det",
-          "stress": "tus",
+          "stress": "tu",
           "gloss": "everyone, all",
           "gram": "pronoun, masculine plural; final s pronounced"
         },
@@ -2382,11 +2382,11 @@
       "words": [
         {
           "t": "D'accord,",
-          "lemma": "d'accord",
-          "pos": "interj",
+          "lemma": "accord",
+          "pos": "noun",
           "stress": "dakɔʁ",
-          "gloss": "okay",
-          "gram": "interjection / exclamation ('d'accord')"
+          "gloss": "agreed, okay",
+          "gram": "de (of) + accord (agreement): fixed expression"
         },
         {
           "t": "mais",
@@ -2462,6 +2462,66 @@
     }
   ],
   "lexicon": {
+    "accord": {
+      "lemma": "accord",
+      "stress": "akɔʁ",
+      "pos": "noun",
+      "gloss": "deal, agreement",
+      "gender": "m",
+      "plural": "accords",
+      "meanings": [
+        {
+          "en": "agreement, deal",
+          "note": "Masculine noun ('le accord', plural 'les accords') inherited through Romance vocabulary, used in everyday and professional French for 'deal'."
+        },
+        {
+          "en": "d'accord = okay, agreed",
+          "note": "Masculine noun ('le accord', plural 'les accords') inherited through Romance vocabulary, used in everyday and professional French for 'deal'."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "l'accord",
+              "les accords"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "On oublie notre accord.",
+          "trans": "Forget our deal."
+        },
+        {
+          "text": "Nous avons un accord.",
+          "trans": "We have a deal."
+        },
+        {
+          "text": "Avec Colette Brancillon, ça va aller. On oublie notre accord.",
+          "trans": "With Colette Brancillon, it'll be fine. Forget our deal."
+        }
+      ],
+      "related": [
+        {
+          "word": "d'accord",
+          "gloss": "agreed, okay"
+        },
+        {
+          "word": "accorder",
+          "gloss": "to grant, tune"
+        }
+      ]
+    },
     "adorer": {
       "lemma": "adorer",
       "stress": "adɔʁe",
@@ -3080,7 +3140,7 @@
     },
     "arrêter": {
       "lemma": "arrêter",
-      "stress": "aʁete",
+      "stress": "aʁɛte",
       "pos": "verb",
       "gloss": "to stop",
       "meanings": [
@@ -3829,7 +3889,7 @@
     },
     "ce": {
       "lemma": "ce",
-      "stress": "s",
+      "stress": "sə",
       "pos": "det",
       "gloss": "this, that; it",
       "meanings": [
@@ -3890,7 +3950,7 @@
     },
     "confortablement": {
       "lemma": "confortablement",
-      "stress": "kɔ̃fɔʁtablmɑ̃",
+      "stress": "kɔ̃fɔʁtabləmɑ̃",
       "pos": "adv",
       "gloss": "comfortably",
       "meanings": [
@@ -3966,7 +4026,7 @@
     },
     "de": {
       "lemma": "de",
-      "stress": "d",
+      "stress": "də",
       "pos": "prep",
       "gloss": "of, from; some",
       "meanings": [
@@ -4662,7 +4722,7 @@
     },
     "le": {
       "lemma": "le",
-      "stress": "l",
+      "stress": "lə",
       "pos": "det",
       "gloss": "the",
       "meanings": [
@@ -4780,7 +4840,7 @@
     },
     "là-dedans": {
       "lemma": "là-dedans",
-      "stress": "laddɑ̃",
+      "stress": "ladədɑ̃",
       "pos": "adv",
       "gloss": "in there, inside",
       "meanings": [
@@ -4943,7 +5003,7 @@
     },
     "ne": {
       "lemma": "ne",
-      "stress": "n",
+      "stress": "nə",
       "pos": "part",
       "gloss": "not (with pas, rien, que)",
       "meanings": [
@@ -5387,7 +5447,7 @@
     },
     "qu'est-ce que": {
       "lemma": "qu'est-ce que",
-      "stress": "kɛsk",
+      "stress": "kɛskə",
       "pos": "phrase",
       "gloss": "what (in questions)",
       "meanings": [
@@ -5421,7 +5481,7 @@
     },
     "que": {
       "lemma": "que",
-      "stress": "k",
+      "stress": "kə",
       "pos": "conj",
       "gloss": "that; than; only (ne...que)",
       "meanings": [
@@ -5467,7 +5527,7 @@
     },
     "regarder": {
       "lemma": "regarder",
-      "stress": "ʁaʁde",
+      "stress": "ʁəɡaʁde",
       "pos": "verb",
       "gloss": "to look at, to watch",
       "meanings": [
@@ -6750,7 +6810,7 @@
     },
     "tout le monde": {
       "lemma": "tout le monde",
-      "stress": "tulmɔ̃d",
+      "stress": "tuləmɔ̃d",
       "pos": "phrase",
       "gloss": "everybody, everyone",
       "meanings": [

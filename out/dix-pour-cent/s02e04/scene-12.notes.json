@@ -32,11 +32,11 @@
         },
         {
           "t": "s'il",
-          "lemma": "s'il vous plaît",
-          "pos": "phrase",
+          "lemma": "si",
+          "pos": "conj",
           "stress": "sil",
-          "gloss": "if it (please)",
-          "gram": "part of s'il vous plaît"
+          "gloss": "if he, if it",
+          "gram": "si (if) + il (he/it)"
         },
         {
           "t": "vous",
@@ -92,17 +92,17 @@
       "words": [
         {
           "t": "Qu'est-ce",
-          "lemma": "qu'est-ce que",
-          "pos": "phrase",
+          "lemma": "que",
+          "pos": "pron",
           "stress": "kɛs",
-          "gloss": "what",
-          "gram": "question phrase qu'est-ce que, first part"
+          "gloss": "what is",
+          "gram": "qu' (what) + est-ce (is it): question opener"
         },
         {
           "t": "que",
           "lemma": "que",
           "pos": "conj",
-          "stress": "k",
+          "stress": "kə",
           "gloss": "that",
           "gram": "conjunction, introduces what to say"
         },
@@ -156,7 +156,7 @@
           "t": "Je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒ",
+          "stress": "ʒə",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -196,7 +196,7 @@
           "t": "petit",
           "lemma": "petit",
           "pos": "adj",
-          "stress": "pti",
+          "stress": "pəti",
           "gloss": "little",
           "gram": "masculine singular, before the noun"
         },
@@ -250,7 +250,7 @@
           "t": "de",
           "lemma": "de",
           "pos": "prep",
-          "stress": "d",
+          "stress": "də",
           "gloss": "of ('s)",
           "gram": "preposition, shows possession"
         },
@@ -272,7 +272,7 @@
           "t": "Je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒ",
+          "stress": "ʒə",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -304,7 +304,7 @@
           "t": "que",
           "lemma": "que",
           "pos": "conj",
-          "stress": "k",
+          "stress": "kə",
           "gloss": "that",
           "gram": "conjunction, introduces what to say"
         },
@@ -345,8 +345,8 @@
           "lemma": "être",
           "pos": "verb",
           "stress": "setɛ",
-          "gloss": "it was",
-          "gram": "ce (elided) + était: imparfait, 3rd person singular"
+          "gloss": "it was, that was",
+          "gram": "ce (it/that) + était: 3rd person singular imperfect of être"
         },
         {
           "t": "Arlette",
@@ -382,7 +382,7 @@
           "t": "que",
           "lemma": "que",
           "pos": "conj",
-          "stress": "k",
+          "stress": "kə",
           "gloss": "that",
           "gram": "conjunction, introduces what to say"
         },
@@ -391,8 +391,8 @@
           "lemma": "être",
           "pos": "verb",
           "stress": "sɛ",
-          "gloss": "it's",
-          "gram": "ce (it) + est: present, 3rd person singular"
+          "gloss": "it is, that is",
+          "gram": "ce (it/that) + est: 3rd person singular present of être"
         },
         {
           "t": "elle",
@@ -407,8 +407,8 @@
           "lemma": "que",
           "pos": "conj",
           "stress": "kil",
-          "gloss": "that he",
-          "gram": "qu' (que) + il: conjunction + subject pronoun"
+          "gloss": "that he, that it",
+          "gram": "que (that) + il (he/it)"
         },
         {
           "t": "fallait",
@@ -452,7 +452,7 @@
           "t": "ce",
           "lemma": "ce",
           "pos": "det",
-          "stress": "s",
+          "stress": "sə",
           "gloss": "this (ce soir = tonight)",
           "gram": "demonstrative, masculine singular"
         },
@@ -461,8 +461,8 @@
           "lemma": "être",
           "pos": "verb",
           "stress": "nɛ",
-          "gloss": "is (not)",
-          "gram": "ne + est: present, 3rd person singular; ne... rien = nothing"
+          "gloss": "is not",
+          "gram": "ne (not) + est: 3rd person singular present of être"
         },
         {
           "t": "pas",
@@ -492,7 +492,7 @@
           "t": "recrute!",
           "lemma": "recruter",
           "pos": "verb",
-          "stress": "ʁkʁyt",
+          "stress": "ʁəkʁyt",
           "gloss": "hires",
           "gram": "verb recruter, 3rd person singular present"
         }
@@ -506,7 +506,7 @@
           "t": "Je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒ",
+          "stress": "ʒə",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -539,8 +539,8 @@
           "lemma": "y",
           "pos": "pron",
           "stress": "di",
-          "gloss": "to there",
-          "gram": "preposition de + adverbial pronoun y"
+          "gloss": "to go there, of it",
+          "gram": "de (to/of) + y (there/to it)"
         },
         {
           "t": "aller,",
@@ -554,7 +554,7 @@
           "t": "de",
           "lemma": "de",
           "pos": "prep",
-          "stress": "d",
+          "stress": "də",
           "gloss": "of ('s)",
           "gram": "preposition, shows possession"
         },
@@ -647,8 +647,8 @@
           "lemma": "que",
           "pos": "conj",
           "stress": "kɛl",
-          "gloss": "that she",
-          "gram": "que (that, elided) + elle (she)"
+          "gloss": "that she, that it",
+          "gram": "que (that) + elle (she/it)"
         },
         {
           "t": "est",
@@ -693,8 +693,8 @@
           "lemma": "être",
           "pos": "verb",
           "stress": "nɛ",
-          "gloss": "is (not)",
-          "gram": "ne + est: present, 3rd person singular; ne... rien = nothing"
+          "gloss": "is not",
+          "gram": "ne (not) + est: 3rd person singular present of être"
         },
         {
           "t": "pas",
@@ -776,7 +776,7 @@
           "t": "de",
           "lemma": "de",
           "pos": "prep",
-          "stress": "d",
+          "stress": "də",
           "gloss": "of ('s)",
           "gram": "preposition, shows possession"
         },
@@ -992,11 +992,11 @@
         },
         {
           "t": "s'il",
-          "lemma": "s'il vous plaît",
-          "pos": "phrase",
+          "lemma": "si",
+          "pos": "conj",
           "stress": "sil",
-          "gloss": "if it (please)",
-          "gram": "part of s'il vous plaît"
+          "gloss": "if he, if it",
+          "gram": "si (if) + il (he/it)"
         },
         {
           "t": "vous",
@@ -1052,17 +1052,17 @@
       "words": [
         {
           "t": "Qu'est-ce",
-          "lemma": "qu'est-ce que",
-          "pos": "phrase",
+          "lemma": "que",
+          "pos": "pron",
           "stress": "kɛs",
-          "gloss": "what",
-          "gram": "question phrase qu'est-ce que, first part"
+          "gloss": "what is",
+          "gram": "qu' (what) + est-ce (is it): question opener"
         },
         {
           "t": "que",
           "lemma": "que",
           "pos": "conj",
-          "stress": "k",
+          "stress": "kə",
           "gloss": "that",
           "gram": "conjunction, introduces what to say"
         },
@@ -1116,7 +1116,7 @@
           "t": "Je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒ",
+          "stress": "ʒə",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -1156,7 +1156,7 @@
           "t": "petit",
           "lemma": "petit",
           "pos": "adj",
-          "stress": "pti",
+          "stress": "pəti",
           "gloss": "little",
           "gram": "masculine singular, before the noun"
         },
@@ -1210,7 +1210,7 @@
           "t": "de",
           "lemma": "de",
           "pos": "prep",
-          "stress": "d",
+          "stress": "də",
           "gloss": "of ('s)",
           "gram": "preposition, shows possession"
         },
@@ -1232,7 +1232,7 @@
           "t": "Je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒ",
+          "stress": "ʒə",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -1264,7 +1264,7 @@
           "t": "que",
           "lemma": "que",
           "pos": "conj",
-          "stress": "k",
+          "stress": "kə",
           "gloss": "that",
           "gram": "conjunction, introduces what to say"
         },
@@ -1305,8 +1305,8 @@
           "lemma": "être",
           "pos": "verb",
           "stress": "setɛ",
-          "gloss": "it was",
-          "gram": "ce (elided) + était: imparfait, 3rd person singular"
+          "gloss": "it was, that was",
+          "gram": "ce (it/that) + était: 3rd person singular imperfect of être"
         },
         {
           "t": "Arlette",
@@ -1342,7 +1342,7 @@
           "t": "que",
           "lemma": "que",
           "pos": "conj",
-          "stress": "k",
+          "stress": "kə",
           "gloss": "that",
           "gram": "conjunction, introduces what to say"
         },
@@ -1351,8 +1351,8 @@
           "lemma": "être",
           "pos": "verb",
           "stress": "sɛ",
-          "gloss": "it's",
-          "gram": "ce (it) + est: present, 3rd person singular"
+          "gloss": "it is, that is",
+          "gram": "ce (it/that) + est: 3rd person singular present of être"
         },
         {
           "t": "elle",
@@ -1367,8 +1367,8 @@
           "lemma": "que",
           "pos": "conj",
           "stress": "kil",
-          "gloss": "that he",
-          "gram": "qu' (que) + il: conjunction + subject pronoun"
+          "gloss": "that he, that it",
+          "gram": "que (that) + il (he/it)"
         },
         {
           "t": "fallait",
@@ -1412,7 +1412,7 @@
           "t": "ce",
           "lemma": "ce",
           "pos": "det",
-          "stress": "s",
+          "stress": "sə",
           "gloss": "this (ce soir = tonight)",
           "gram": "demonstrative, masculine singular"
         },
@@ -1421,8 +1421,8 @@
           "lemma": "être",
           "pos": "verb",
           "stress": "nɛ",
-          "gloss": "is (not)",
-          "gram": "ne + est: present, 3rd person singular; ne... rien = nothing"
+          "gloss": "is not",
+          "gram": "ne (not) + est: 3rd person singular present of être"
         },
         {
           "t": "pas",
@@ -1452,7 +1452,7 @@
           "t": "recrute!",
           "lemma": "recruter",
           "pos": "verb",
-          "stress": "ʁkʁyt",
+          "stress": "ʁəkʁyt",
           "gloss": "hires",
           "gram": "verb recruter, 3rd person singular present"
         }
@@ -1466,7 +1466,7 @@
           "t": "Je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒ",
+          "stress": "ʒə",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -1499,8 +1499,8 @@
           "lemma": "y",
           "pos": "pron",
           "stress": "di",
-          "gloss": "to there",
-          "gram": "preposition de + adverbial pronoun y"
+          "gloss": "to go there, of it",
+          "gram": "de (to/of) + y (there/to it)"
         },
         {
           "t": "aller,",
@@ -1514,7 +1514,7 @@
           "t": "de",
           "lemma": "de",
           "pos": "prep",
-          "stress": "d",
+          "stress": "də",
           "gloss": "of ('s)",
           "gram": "preposition, shows possession"
         },
@@ -1607,8 +1607,8 @@
           "lemma": "que",
           "pos": "conj",
           "stress": "kɛl",
-          "gloss": "that she",
-          "gram": "que (that, elided) + elle (she)"
+          "gloss": "that she, that it",
+          "gram": "que (that) + elle (she/it)"
         },
         {
           "t": "est",
@@ -1653,8 +1653,8 @@
           "lemma": "être",
           "pos": "verb",
           "stress": "nɛ",
-          "gloss": "is (not)",
-          "gram": "ne + est: present, 3rd person singular; ne... rien = nothing"
+          "gloss": "is not",
+          "gram": "ne (not) + est: 3rd person singular present of être"
         },
         {
           "t": "pas",
@@ -1736,7 +1736,7 @@
           "t": "de",
           "lemma": "de",
           "pos": "prep",
-          "stress": "d",
+          "stress": "də",
           "gloss": "of ('s)",
           "gram": "preposition, shows possession"
         },
@@ -1952,11 +1952,11 @@
         },
         {
           "t": "s'il",
-          "lemma": "s'il vous plaît",
-          "pos": "phrase",
+          "lemma": "si",
+          "pos": "conj",
           "stress": "sil",
-          "gloss": "if it (please)",
-          "gram": "part of s'il vous plaît"
+          "gloss": "if he, if it",
+          "gram": "si (if) + il (he/it)"
         },
         {
           "t": "vous",
@@ -2012,17 +2012,17 @@
       "words": [
         {
           "t": "Qu'est-ce",
-          "lemma": "qu'est-ce que",
-          "pos": "phrase",
+          "lemma": "que",
+          "pos": "pron",
           "stress": "kɛs",
-          "gloss": "what",
-          "gram": "question phrase qu'est-ce que, first part"
+          "gloss": "what is",
+          "gram": "qu' (what) + est-ce (is it): question opener"
         },
         {
           "t": "que",
           "lemma": "que",
           "pos": "conj",
-          "stress": "k",
+          "stress": "kə",
           "gloss": "that",
           "gram": "conjunction, introduces what to say"
         },
@@ -2076,7 +2076,7 @@
           "t": "Je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒ",
+          "stress": "ʒə",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -2116,7 +2116,7 @@
           "t": "petit",
           "lemma": "petit",
           "pos": "adj",
-          "stress": "pti",
+          "stress": "pəti",
           "gloss": "little",
           "gram": "masculine singular, before the noun"
         },
@@ -2170,7 +2170,7 @@
           "t": "de",
           "lemma": "de",
           "pos": "prep",
-          "stress": "d",
+          "stress": "də",
           "gloss": "of ('s)",
           "gram": "preposition, shows possession"
         },
@@ -2192,7 +2192,7 @@
           "t": "Je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒ",
+          "stress": "ʒə",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -2224,7 +2224,7 @@
           "t": "que",
           "lemma": "que",
           "pos": "conj",
-          "stress": "k",
+          "stress": "kə",
           "gloss": "that",
           "gram": "conjunction, introduces what to say"
         },
@@ -2265,8 +2265,8 @@
           "lemma": "être",
           "pos": "verb",
           "stress": "setɛ",
-          "gloss": "it was",
-          "gram": "ce (elided) + était: imparfait, 3rd person singular"
+          "gloss": "it was, that was",
+          "gram": "ce (it/that) + était: 3rd person singular imperfect of être"
         },
         {
           "t": "Arlette",
@@ -2302,7 +2302,7 @@
           "t": "que",
           "lemma": "que",
           "pos": "conj",
-          "stress": "k",
+          "stress": "kə",
           "gloss": "that",
           "gram": "conjunction, introduces what to say"
         },
@@ -2311,8 +2311,8 @@
           "lemma": "être",
           "pos": "verb",
           "stress": "sɛ",
-          "gloss": "it's",
-          "gram": "ce (it) + est: present, 3rd person singular"
+          "gloss": "it is, that is",
+          "gram": "ce (it/that) + est: 3rd person singular present of être"
         },
         {
           "t": "elle",
@@ -2327,8 +2327,8 @@
           "lemma": "que",
           "pos": "conj",
           "stress": "kil",
-          "gloss": "that he",
-          "gram": "qu' (que) + il: conjunction + subject pronoun"
+          "gloss": "that he, that it",
+          "gram": "que (that) + il (he/it)"
         },
         {
           "t": "fallait",
@@ -2372,7 +2372,7 @@
           "t": "ce",
           "lemma": "ce",
           "pos": "det",
-          "stress": "s",
+          "stress": "sə",
           "gloss": "this (ce soir = tonight)",
           "gram": "demonstrative, masculine singular"
         },
@@ -2381,8 +2381,8 @@
           "lemma": "être",
           "pos": "verb",
           "stress": "nɛ",
-          "gloss": "is (not)",
-          "gram": "ne + est: present, 3rd person singular; ne... rien = nothing"
+          "gloss": "is not",
+          "gram": "ne (not) + est: 3rd person singular present of être"
         },
         {
           "t": "pas",
@@ -2412,7 +2412,7 @@
           "t": "recrute!",
           "lemma": "recruter",
           "pos": "verb",
-          "stress": "ʁkʁyt",
+          "stress": "ʁəkʁyt",
           "gloss": "hires",
           "gram": "verb recruter, 3rd person singular present"
         }
@@ -2426,7 +2426,7 @@
           "t": "Je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒ",
+          "stress": "ʒə",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -2459,8 +2459,8 @@
           "lemma": "y",
           "pos": "pron",
           "stress": "di",
-          "gloss": "to there",
-          "gram": "preposition de + adverbial pronoun y"
+          "gloss": "to go there, of it",
+          "gram": "de (to/of) + y (there/to it)"
         },
         {
           "t": "aller,",
@@ -2474,7 +2474,7 @@
           "t": "de",
           "lemma": "de",
           "pos": "prep",
-          "stress": "d",
+          "stress": "də",
           "gloss": "of ('s)",
           "gram": "preposition, shows possession"
         },
@@ -2567,8 +2567,8 @@
           "lemma": "que",
           "pos": "conj",
           "stress": "kɛl",
-          "gloss": "that she",
-          "gram": "que (that, elided) + elle (she)"
+          "gloss": "that she, that it",
+          "gram": "que (that) + elle (she/it)"
         },
         {
           "t": "est",
@@ -2613,8 +2613,8 @@
           "lemma": "être",
           "pos": "verb",
           "stress": "nɛ",
-          "gloss": "is (not)",
-          "gram": "ne + est: present, 3rd person singular; ne... rien = nothing"
+          "gloss": "is not",
+          "gram": "ne (not) + est: 3rd person singular present of être"
         },
         {
           "t": "pas",
@@ -2696,7 +2696,7 @@
           "t": "de",
           "lemma": "de",
           "pos": "prep",
-          "stress": "d",
+          "stress": "də",
           "gloss": "of ('s)",
           "gram": "preposition, shows possession"
         },
@@ -3587,7 +3587,7 @@
     },
     "ce": {
       "lemma": "ce",
-      "stress": "s",
+      "stress": "sə",
       "pos": "det",
       "gloss": "this, that; it",
       "meanings": [
@@ -4123,7 +4123,7 @@
     },
     "de": {
       "lemma": "de",
-      "stress": "d",
+      "stress": "də",
       "pos": "prep",
       "gloss": "of, from; some",
       "meanings": [
@@ -5010,7 +5010,7 @@
     },
     "je": {
       "lemma": "je",
-      "stress": "ʒ",
+      "stress": "ʒə",
       "pos": "pron",
       "gloss": "I",
       "meanings": [
@@ -5101,7 +5101,7 @@
     },
     "le": {
       "lemma": "le",
-      "stress": "l",
+      "stress": "lə",
       "pos": "det",
       "gloss": "the",
       "meanings": [
@@ -5410,7 +5410,7 @@
     },
     "parce que": {
       "lemma": "parce que",
-      "stress": "paʁsk",
+      "stress": "paʁskə",
       "pos": "conj",
       "gloss": "because",
       "meanings": [
@@ -5720,7 +5720,7 @@
     },
     "petit": {
       "lemma": "petit",
-      "stress": "pti",
+      "stress": "pəti",
       "pos": "adj",
       "gloss": "small, little",
       "meanings": [
@@ -6047,7 +6047,7 @@
     },
     "qu'est-ce que": {
       "lemma": "qu'est-ce que",
-      "stress": "kɛsk",
+      "stress": "kɛskə",
       "pos": "phrase",
       "gloss": "what (in questions)",
       "meanings": [
@@ -6081,7 +6081,7 @@
     },
     "que": {
       "lemma": "que",
-      "stress": "k",
+      "stress": "kə",
       "pos": "conj",
       "gloss": "that; than; only (ne...que)",
       "meanings": [
@@ -6234,7 +6234,7 @@
     },
     "recruter": {
       "lemma": "recruter",
-      "stress": "ʁkʁyte",
+      "stress": "ʁəkʁyte",
       "pos": "verb",
       "gloss": "to recruit, to hire",
       "meanings": [
@@ -7109,7 +7109,7 @@
     },
     "tout le monde": {
       "lemma": "tout le monde",
-      "stress": "tulmɔ̃d",
+      "stress": "tuləmɔ̃d",
       "pos": "phrase",
       "gloss": "everybody, everyone",
       "meanings": [
