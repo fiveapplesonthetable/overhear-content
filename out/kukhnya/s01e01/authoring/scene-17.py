@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.01'
 SOURCE_FILE = 'sources/kukhnya/s01/e01.ru.dual.srt'
-INTRO = "Turning a corner in the restaurant corridor, Vika is stunned to run into Max, the young man from the nightclub. Acting completely relaxed, Max claims the famous head chef is practically begging him to join the kitchen staff. Indignant at his casual attitude and cocky remarks about the restaurant, Vika demands an explanation. Let's listen to their conversation in Russian first."
-OPENER = "Let's examine the dialogue line by line. Notice the surprised questions and the playful boastful responses."
+INTRO = 'Vika turns a corner in the corridor and runs straight into Max, the man she met in the nightclub. Max plays it cool and says the head chef is begging him to join the kitchen, which makes her furious. Here is the argument in Russian first.'
+OPENER = 'Now the argument, piece by piece.'
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Vika rushes into the kitchen to verify Max's outrageous claims before the head chef. Keep up the great work practicing conversational Russian! Next time you watch the episode, listen for the Russian expressions for 'to chatter' and 'to take' — you will catch every word right away. See you next time!"
+OUTRO = 'Vika storms off to check his story with the chef herself. Max, meanwhile, has shown you how a cheeky person swings between "you" and "your".'
 CLOSING = ('vika', 'Пока!')
 STORY = [
     ('vika', 'Подожди минуту... Ты что здесь вообще делаешь?', 'Wait a minute... What are you doing here at all?', [(149, 'Ты что здесь делаешь')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('vika', 'Я сейчас лично проверю эти нелепые слова!', 'I will personally check these ridiculous words right now!', [(149, 'Ты что здесь делаешь')], ''),
 ]
 WALK = [
-    (0, None, "'Wait a minute... What are you doing here at all?' Vika stops in her tracks, utterly bewildered by the unexpected appearance of her recent date."),
-    (1, None, "'Hello, I am simply strolling through your restaurant.' Playing it incredibly cool, the young man pretends he is merely taking a casual wander inside."),
-    (2, None, "'How did you dare to come into my establishment?' Furious at his audacity, the manager views his presence as a direct invasion of her territory."),
-    (3, None, "'I was just chatting for a long time with your head chef.' Dropping a casual brag, the intruder implies he just had a lengthy sit-down with the boss."),
-    (4, None, "'And what did you talk with him about?' Highly skeptical of this claim, the art director demands to know the nature of their chat."),
-    (5, None, "'He is persistently inviting me to work with him.' Exaggerating wildly, the cocky cook claims the culinary genius is begging for his services."),
-    (6, None, "'You are joking, the chef never takes novices!' Knowing the strict hiring practices, the manager immediately calls out the sheer improbability of this."),
-    (7, None, "'Here I stand and think, whether to agree or not.' Maintaining the facade, the young chef pretends to be weighing his options about the job offer."),
-    (8, None, "'Do you dare to still doubt our level?' Insulted by his hesitation, the proud manager defends the high prestige of her workplace."),
-    (9, None, "'Frankly speaking, your kitchen seems a bit basic to me.' Throwing shade, the cheeky applicant acts unimpressed by the culinary complexity of their menu."),
-    (10, None, "'Our restaurant is one of the best in Moscow!' Defending her establishment's honor, the fiery woman boasts about their elite status in the city."),
-    (11, None, "'Then I, perhaps, will agree to show my talent.' Smirking in victory, the newcomer graciously agrees to grace them with his supposed culinary brilliance."),
-    (12, None, "'I will personally check these ridiculous words right now!' Marching off to investigate, the manager refuses to believe a single word of his ridiculous story."),
+    (0, None, '\'Wait a minute... What are you doing here at all?\' "Podozhdi" is the friendly command "wait", and "minutu" takes an -u. "Vobshche" is "at all", the word that makes her sound exasperated.'),
+    (1, None, '\'Hello, I am simply strolling through your restaurant.\' "Privet" is the casual hello, as opposed to the long polite one. "Po tvoyemu restoranu" is "around your restaurant", with the ending that "po" calls for.'),
+    (2, None, '\'How did you dare to come into my establishment?\' "Posmel" is "dared", with -l. "Zavedeniye" is a word for any place that\'s been "set up": restaurant, cafe, bar. It sounds a little grand, which suits Vika.'),
+    (3, None, '\'I was just chatting for a long time with your head chef.\' "Tol\'ko chto" is "just now", literally "only what". "Boltal" is slang for chatting. Here Max says "vashim", the polite "your", after "tvoyemu" earlier, so he slides between friendly and formal.'),
+    (4, None, '\'And what did you talk with him about?\' "O chyom" is "about what": "chto" turns into "chyom" after "o". "S nim" is "with him", and Russian adds an "n" to "him" after "s".'),
+    (5, None, '\'He is persistently inviting me to work with him.\' "Nastoychivo" is "persistently", from "nastoychivyy", with the -o ending. "K sebe" is "to himself", which Russian uses for "to his place".'),
+    (6, None, '\'You are joking, the chef never takes novices!\' "Shutish\'" comes from "shutka", a joke. "Nikogda ne beryot" is "never not takes", with the double negative. "Novichok" is a newcomer, from "novyy".'),
+    (7, None, '\'Here I stand and think, whether to agree or not.\' "Vot stoyu" is "here I stand", close to the English phrase. "Ili net" is "or not", literally "or no".'),
+    (8, None, '\'Do you dare to still doubt our level?\' "Smeyesh\'" is "you dare", from the same root as "posmel", and "yeshchyo" is "still". "Somnevat\'sya v" is "to doubt in".'),
+    (9, None, '\'Frankly speaking, your kitchen seems a bit basic to me.\' "Chestno govorya" is literally "honestly speaking". "Mne kazhetsya" is "it seems to me". And "prostovataya" has "-ovat-", which adds "somewhat" to "prostaya", simple.'),
+    (10, None, '\'Our restaurant is one of the best in Moscow!\' "Odin iz luchshikh" is "one of the best", literally "one from the best", with a plural ending on "best". The dash stands for "is".'),
+    (11, None, '\'Then I, perhaps, will agree to show my talent.\' "Pozhaluy" is "perhaps", a softener you can drop into any sentence. "Soglashus\'" is "I will agree", and "svoy" is "my own".'),
+    (12, None, '\'I will personally check these ridiculous words right now!\' "Lichno" is "personally", from "lichnyy". "Proveryu" is "I will check", and "nelepyye" is "ridiculous", plural to match "slova", words.'),
 ]

@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.01'
 SOURCE_FILE = 'sources/kukhnya/s01/e01.ru.dual.srt'
-INTRO = "Inside the lively bar, Max and Vika order drinks and sit close together. Vika chooses white wine while Max stays focused on tomorrow's interview, choosing only juice. Impressed by his passion and ambition to become an elite chef, Vika smiles warmly as the music plays. Let's listen to their conversation in Russian first."
-OPENER = "Now let's examine Max and Vika's bar conversation line by line."
+INTRO = "A little later Max and Vika are sitting at a bar. She orders white wine, but Max sticks to juice, because tomorrow is the job interview he keeps mentioning. Here's their conversation in Russian first."
+OPENER = "Let's go back and pick out the useful bits."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = 'That wraps up this scene from Kukhnya. Listen for these everyday Russian expressions when you watch the episode. See you next time!'
+OUTRO = "Ordering a drink is half of what you need at a Russian bar, and you've now heard both the question and the answer. Max keeps his head clear, which will matter more than he thinks."
 CLOSING = ('vika', 'Пока!')
 STORY = [
     ('max', 'Какой коктейль ты будешь пить, Вика?', 'What cocktail will you drink, Vika?', [], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('max', 'Пойдём танцевать под эту красивую музыку!', "Let's go dance to this beautiful music!", [], ''),
 ]
 WALK = [
-    (0, None, "'What cocktail will you drink, Vika?' Max asks his new acquaintance what she would like to have now that they are settled inside the bar."),
-    (1, None, "'I like dry white wine.' Vika shares her beverage preference, keeping it classy and simple for the evening."),
-    (2, None, "'Bartender, bring us a glass of white wine!' He confidently orders her chosen drink from the staff at the counter."),
-    (3, None, "'And what will you drink yourself?' Flipping the attention back to him, she is curious about what he plans to have."),
-    (4, None, "'I will drink a little good juice.' Max keeps his order strictly non-alcoholic to ensure he stays sharp for the next day."),
-    (5, None, "'Do you not drink strong drinks at all?' Vika is slightly amused and wonders if he generally avoids alcohol or if it is just a temporary choice."),
-    (6, None, "'Tomorrow morning I need a clear head.' Explaining his practical reasoning, he shows his dedication to making a good impression at his meeting."),
-    (7, None, "'You take your work very seriously.' She admires his level of commitment and professional attitude toward his culinary goals."),
-    (8, None, "'I dream of becoming the very best chef!' Max passionately declares his ultimate ambition in life, wearing his heart on his sleeve."),
-    (9, None, "'I like your big dream very much.' Smiling warmly at his bold aspirations, she is clearly charmed by his drive and enthusiasm."),
-    (10, None, "'You look simply stunning tonight.' He shifts the focus away from his career to give her a very direct and romantic compliment."),
-    (11, None, "'Thank you, Max, I am very pleased.' Vika bashfully accepts his sweet words, feeling flattered by his attention."),
-    (12, None, "'Let's go dance to this beautiful music!' Max proposes a toast to celebrate the lucky chance that brought them together tonight."),
+    (0, None, '\'What cocktail will you drink, Vika?\' "Budesh\' pit\'" is "you will drink", built like English: a word for "will" and then the plain "to drink". Max ends with her name, and a name needs no change to be called out.'),
+    (1, None, '\'I like dry white wine.\' "Lyublyu" is "I love", and Russians use it for liking things too, like wine. "Beloye", "sukhoye" and "vino" all end in the same sound, and that echo is how Russian shows that the describing words belong to "wine".'),
+    (2, None, '\'Bartender, bring us a glass of white wine!\' "Prinesite" is a polite order: "bring". The "-ite" on the end is the polite "you". "A glass of white wine" makes both "white" and "wine" change their endings, and that change is the "of".'),
+    (3, None, '\'And what will you drink yourself?\' "Sam" means "yourself", and it turns the question back at Max: what about you? The little "a" at the start isn\'t "and" exactly. It means something like "and as for you".'),
+    (4, None, '\'I will drink a little good juice.\' "Vypyu" has the little prefix "vy-", which means to drink something up, a serving, rather than just "be drinking". "Nemnogo", "a little", is useful in any sentence.'),
+    (5, None, '\'Do you not drink strong drinks at all?\' "Sovsem ne" is "not at all", and notice how Russian puts "at all" first. "Krepkiye napitki" are "strong drinks", the usual way to talk about alcohol.'),
+    (6, None, '\'Tomorrow morning I need a clear head.\' There\'s no "I need" in the Russian. It says "mne nuzhna", "to me is needed", and then the thing. A "fresh head" is just how Russians say a clear one.'),
+    (7, None, '\'You take your work very seriously.\' "Ser\'yozno" is "seriously": take "ser\'yozny", serious, and swap the ending for -o, and you get the how-word. Almost any describing word can do this.'),
+    (8, None, '\'I dream of becoming the very best chef!\' "Mechtayu" comes from "mechta", a dream, so you can see where it grows from. "Shefom" has the "-om" ending that means "as a", the same as "povarom" earlier.'),
+    (9, None, '\'I like your big dream very much.\' This is the other way to like something: "mne nravitsya", "to me is pleasing". The dream is the one doing the pleasing, so the verb follows the dream and not the "I".'),
+    (10, None, '\'You look simply stunning tonight.\' "Potryasayushche" comes from a word meaning "to shake", so something stunning is something that shakes you. "Prosto", "simply", is the shrug that makes the compliment sound easy.'),
+    (11, None, '\'Thank you, Max, I\'m very pleased.\' "Mne priyatno" is "to me it\'s pleasant". It\'s the standard polite reply to a compliment, and it\'s the same "to me" pattern again.'),
+    (12, None, '\'Let\'s go dance to this beautiful music!\' "Poydyom" is "let\'s go", then "tantsevat\'", "to dance". "Pod muzyku" means "to the music", but "pod" literally means "under", so Russians dance under the music.'),
 ]

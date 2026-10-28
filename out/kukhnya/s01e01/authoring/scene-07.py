@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.01'
 SOURCE_FILE = 'sources/kukhnya/s01/e01.ru.dual.srt'
-INTRO = "In the bustling kitchen of Claude Monet, Chef Viktor Barinov inspects the sauce station. Catching young Max about to pour cheap cognac into an expensive reduction, the Chef reacts furiously. Let's listen in Russian first."
-OPENER = "Let's examine the dialogue line by line. Notice kitchen commands, culinary vocabulary, and expressions of apology."
+INTRO = 'Max is at the sauce station when Chef Barinov spots what he has done to the sauce: he has added cheap cognac. The chef is furious, and Max has to fix it. First, in Russian.'
+OPENER = "Back through the chef's orders."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Chastened by the Chef's sharp reprimand, Max starts the sauce over, learning that perfection admits no shortcuts. See you next time!"
+OUTRO = "Barinov's orders all use short, sharp command forms, and now you can spot them. Max starts the sauce again, and this time the cognac stays on the shelf."
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('barinov', 'Никогда не используй этот дешёвый коньяк!', 'Never use that cheap cognac!', [(64, 'Никогда не используй этот')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('max', 'Да, шеф, я помню ваши правила!', 'Yes, Chef, I remember your rules!', [(64, 'Да, шеф')], ''),
 ]
 WALK = [
-    (0, None, "'Never use that cheap cognac!' Barinov violently scolds his new hire for selecting a low-quality ingredient."),
-    (1, None, "'Yes, Chef, I understood everything!' Max quickly acknowledges the correction, terrified by the sudden outburst."),
-    (2, None, "'You ruined the meat sauce with this.' The head cook explains exactly how the subpar liquor destroyed the dish."),
-    (3, None, "'I simply wanted to add a vivid aroma.' Max tries to justify his mistake as an attempt to enhance the flavor profile."),
-    (4, None, "'A real chef feels every taste of the dish.' Barinov lectures him on the intuitive sense required to be a true culinary master."),
-    (5, None, "'Forgive me, Chef, I will not do it anymore.' The young cook apologizes profusely and promises never to repeat the error."),
-    (6, None, "'Take a good bottle on the top shelf.' The boss points out where the premium spirits are kept for professional use."),
-    (7, None, "'Now I will quickly bring the needed wine.' Max scrambles to correct his mistake by fetching the proper bottle."),
-    (8, None, "'And begin making this sauce anew!' Barinov orders him to throw out the ruined batch and start completely over."),
-    (9, None, "'I will do everything correctly right now.' The rookie assures his boss that he will follow the instructions perfectly this time."),
-    (10, None, "'Watch carefully the temperature on the stove.' The head cook barks a final reminder about heat control before walking away."),
-    (11, None, "'Yes, Chef, I remember your rules!' Max eagerly confirms that he has memorized all the strict guidelines."),
+    (0, None, '\'Never use that cheap cognac!\' "Nikogda ne" is "never not", a double negative, and Russian insists on it. "Ispol\'zuy" is a short, sharp "use!", and "konyak" is just cognac.'),
+    (1, None, '\'Yes, Chef, I understood everything!\' "Ponyal" is "understood", with -l for a man. Russians use the past to say "got it". "Vsyo", "everything", is the same word as in "and that\'s all?".'),
+    (2, None, '\'You ruined the meat sauce with this.\' "Isportil" is "portit\'", to spoil, with "is-" on the front, so "you spoiled it for good". "Sous dlya myasa" is "sauce for meat", and "myaso" becomes "myasa" after "dlya".'),
+    (3, None, '\'I simply wanted to add a vivid aroma.\' "Khotel" is "wanted", with -l for a man. "Yarkiy" is bright, usually for colours, so Max is claiming the sauce would have been vivid. "Aromat" is borrowed.'),
+    (4, None, '\'A real chef feels every taste of the dish.\' "Nastoyashchiy" is "real", the word from "true love". "Vkus bluda" is "taste of the dish", and "blyudo" changes to "bluda" for "of".'),
+    (5, None, '\'Forgive me, Chef, I will not do it anymore.\' "Prostite" is the polite "forgive", and Max uses it with his boss. "Ya ne budu" is "I won\'t be", and Russians leave it at that: a bare "ne budu" means "I won\'t do it again".'),
+    (6, None, '\'Take a good bottle on the top shelf.\' "Voz\'mi" is "take", an irregular command people simply learn. "Verkhniy" is "top", from "verkh", the peak, and "polka" is "shelf", ending in -e after "na", "on".'),
+    (7, None, '\'Now I will quickly bring the needed wine.\' "Seychas" means "right now", though it often means "in a moment". "Prinesu" is "I will bring", and it\'s family to "prinesite" from the bar: same root, different ending.'),
+    (8, None, '\'And begin making this sauce anew!\' "Nachni" is the command "begin". "Zanovo" is "anew", and you can hear "novyy", new, inside it.'),
+    (9, None, '\'I will do everything correctly right now.\' "Sdelayu" has an "s-" on the front that means "done", so it\'s "I will have done". "Pryamo seychas" is "straight now", meaning "this very second".'),
+    (10, None, '\'Watch carefully the temperature on the stove.\' "Vnimatel\'no" comes from "vnimaniye", attention. "Smotri za" is "keep an eye on", literally "look behind". And "plita" becomes "plite" after "na", "on".'),
+    (11, None, '\'Yes, Chef, I remember your rules!\' "Pomnyu" is "I remember", and "vashi pravila" is "your rules" in the polite form. "Pravila", rules, is family to "pravil\'no", correctly, so correct means "by the rules".'),
 ]

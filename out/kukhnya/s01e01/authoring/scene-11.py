@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'ilya': 'Илья', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.01'
 SOURCE_FILE = 'sources/kukhnya/s01/e01.ru.dual.srt'
-INTRO = "Desperate to avoid being seen by Vika before his job interview, Max dives behind a marble pillar in the Claude Monet dining room. Holding a large menu upside down to mask his face, he attracts the curious attention of a busy waiter who politely intervenes. Let's listen to the scene in Russian first."
-OPENER = "Let's replay a few lines to examine key phrases and grammar."
+INTRO = "Max has just spotted Vika across the dining room, so he dives behind a pillar and hides his face behind a menu, held upside down. A waiter called Ilya notices, and politely tries to find out what is going on. Here's the conversation in Russian first."
+OPENER = 'Back through the hiding attempt.'
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Max ducks away and heads toward the bar counter. Next time you watch the episode, listen for the Russian expressions for 'bartender' and 'bar' — you will catch every word right away. See you next time!"
+OUTRO = 'Max has run out of ideas, so he heads for the bar. The good news is that you now know how to say "I\'ll go to the bar", and how to say you\'re simply reading the menu.'
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('ilya', 'Молодой человек, вам помочь?', 'Young man, can I help you?', [], ''),
@@ -31,8 +31,17 @@ STORY = [
     ('ilya', 'Бармен нальёт вам отличный напиток.', 'The bartender will pour you an excellent drink.', [], ''),
 ]
 WALK = [
-    (0, None, "'But you are holding the menu upside down.' Ilya gently points out the absurdity of the hiding tactic being used by the stranger."),
-    (1, None, "'The owner definitely is not standing behind this pillar.' The observant waiter remarks that the boss is nowhere near the architectural feature being clung to."),
-    (2, None, "'You can wait at the bar counter.' Suggesting a more natural waiting spot, the staff member directs the man away from the floor."),
-    (3, None, "'Great idea, I will go to the bar!' Max jumps at the suggestion, grateful for an excuse to escape the center of attention."),
+    (0, None, '\'Young man, can I help you?\' "Molodoy chelovek" is how a waiter addresses a man who isn\'t old, literally "young person". "Vam pomoch\'" is "to you to help", and there\'s no "I" in it.'),
+    (1, None, '\'No, thank you, I am simply reading the menu.\' "Menyu" never changes its ending, like "kofe" in the first scene. "Chitayu" is "I read", and "prosto" gives the shrug.'),
+    (2, None, '\'But you are holding the menu upside down.\' "Vverkh nogami" is literally "up with legs", "nogami" being "legs" with the ending "-ami", "with". So upside down is "legs up".'),
+    (3, None, '\'Really? I am studying the original design.\' "Pravda?" is "truth?" once more. "Original\'nyy dizayn" is borrowed from English, so you can follow Max\'s excuse even with no Russian.'),
+    (4, None, '\'Are you afraid of someone in the dining hall?\' "Kogo-to" is "kogo", whom, plus "-to", which makes it "someone". "Boites\'" takes that object form, and "v zale" is "in the hall", with -e after "v".'),
+    (5, None, '\'Not at all, I am waiting for the restaurant owner.\' "Vovse net" is "not at all". "Zhdu" is "I wait", and Russian says "I wait the owner", with no "for", just an -a on "khozyaina".'),
+    (6, None, '\'The owner definitely is not standing behind this pillar.\' Russian says a person "stands" somewhere, and doesn\'t just "be". "Tochno" is "exactly", here "definitely", and "za etoy kolonnoy" is "behind this pillar".'),
+    (7, None, '\'I understand, I am simply resting here.\' "Ponimayu" is "I understand", the same family as "ponyal" from the kitchen. "Otdykhayu" is "I rest", from "otdykh", rest.'),
+    (8, None, '\'Please, do not block the walkway for the waiters.\' "Pozhaluysta" is "please", and also "you\'re welcome". "Zagorazhivayte" ends in "-te", the polite-"you" ending, and "ofitsiantam" is "to the waiters".'),
+    (9, None, '\'Oh no, I do not want to disturb anyone!\' "Nikomu" is "to nobody", and "ne" stays in the sentence too: the double negative. "Meshat\'" is "to disturb", the word Barinov used in "don\'t disturb me".'),
+    (10, None, '\'You can wait at the bar counter.\' "Mozhete" is "you can", the same family as "mozhet byt\'", maybe. "Stoyka" comes from "stoyat\'", to stand, so a bar counter is a standing place.'),
+    (11, None, '\'Great idea, I will go to the bar!\' "V bar" has no ending because he\'s going to it; if he were inside it would be "v bare". And "poydu" is "I will go", where "po-" turns "go" into a future.'),
+    (12, None, '\'The bartender will pour you an excellent drink.\' "Napitok", drink, comes from "pit\'", to drink, which you heard in the bar scene. "Nal\'yot" is "will pour" in a single word, and "vam" is "to you".'),
 ]
