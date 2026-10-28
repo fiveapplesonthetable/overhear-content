@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'This is divine.' 'Bozhestvenno' comes from 'bog', god. It's a very strong compliment, and English uses 'divine' the same way.
-- 'This is very tasty.' 'Tasty' needs no 'is', and 'very' goes in front. It's the shortest praise in the language.
-- 'I didn't expect this.' 'Expected' ends in a bare consonant for a man. 'Such' takes an 'o' ending to show it's the thing not expected.
-- 'You are lucky, little chef.' 'Povezlo tebe' is 'it was lucky to you', so luck is a thing that happens to you. 'Povaryonok' is a nickname, 'little cook'.
-- 'Dmitry Vladimirovich.' First name plus father's name is the respectful way to address a boss. Max says it to thank him, very carefully.
-- 'Well, we're all lucky.' 'Vsem povezlo' is 'to all it was lucky', the same luck pattern as before. 'Vsem' is 'to everyone'.
-- 'Our restaurant is the best.' 'Luchshiy' means 'the best', and there's no 'is'. Nagiyev says it with satisfaction.
-- 'The guests are very pleased.' 'Pleased' is a plural here, to match 'guests'. It's a short form with no extra word.
-- 'We did it.' 'My sdelali eto' is 'we did this', and Russians like to say 'we' about team victories.
-- 'Now we can rest.' 'Mozhno' means 'we may', 'it's allowed', and 'otdykhat' is 'to rest'. 'Teper' is 'now'.
-- 'Excellent work, team.' 'Team' is feminine, so 'excellent' has an 'aya'. A Russian team is a 'she'.
-- 'Bravo!' It's the same as in English, and Russians say it to applaud too. No translation needed.
+- 'This is divine.' 'Bozhestvenno' is built on bog, 'god', just as English 'divine' is. It's top-grade praise for food.
+- 'This is very tasty.' 'Vkusno' comes from vkus, taste. There's no 'is' here: eto, this, then ochen vkusno, very tasty.
+- 'I didn't expect this.' 'Ozhidal' ends in a bare 'l' because Nagiyev is a man; a woman would say ozhidala. 'Takogo', 'such a thing', takes the 'of' ending that often comes after 'not'.
+- 'You're lucky, little chef.' 'Povezlo tebe' is literally 'it got lucky to you', so the luck happens to you. 'Povaryonok' is povar, cook, with the ending for baby animals, as in kotyonok, a kitten.
+- 'Dmitry Vladimirovich.' First name plus the father's name, with 'ovich', 'son of'. It's how you address the boss politely.
+- 'Well, we're all lucky.' The same luck pattern: vsem povezlo, 'to everyone it got lucky'. 'Vsem' is 'to all'.
+- 'Our restaurant is the best.' 'Luchshiy' means 'the best'. Put it after the noun with no 'is', and it makes a full sentence.
+- 'The guests are very pleased.' 'Dovolny' is a short form that sits after the noun. For one man it's dovolen, for one woman dovolna.
+- 'We did it.' 'Sdelali' is delat, to do, with an 's' in front, which marks the job as finished. 'Delali' would only mean 'were doing'.
+- 'Now we can rest.' Literally 'now it's allowed to rest'. 'Mozhno', 'it's allowed', needs no 'we' at all.
+- 'Excellent work, team.' 'Rabota', work, is feminine, so 'excellent' takes the 'aya' ending: otlichnaya rabota. 'Komanda' is just who he's talking to.
+- 'Bravo!' Russian borrowed it from Italian, like English did, and it's used the same way, for applause.

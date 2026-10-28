@@ -21,21 +21,21 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 9 | Шеф | И прекрати свои постоянные пустые жалобы. | And stop your constant empty complaints. | new | new |
 | 10 | Шеф | Эй, повара, почему вы все стоите? | Hey, cooks, why are you all standing around? | #177 00:11:18: Что уставились | verbatim |
 | 11 | Луи | Мы уже начинаем быстро делать заказы. | We are already starting to prepare orders quickly. | new | new |
-| 12 | Шеф | Живее, лентяи, начинаем дружно работать! | Move lively, sluggards, let us begin working together! | #178 00:11:21: Работаем! | verbatim |
+| 12 | Шеф | Живее, лентяи, начинаем дружно работать! | Look lively, slackers, let us all start working! | #178 00:11:21: Работаем! | verbatim |
 | 13 | Шеф | Работаем быстро, гости ждут свои заказы! | Work quickly, guests are waiting for their orders! | #178 00:11:21: Работаем! | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Louis, why are you crying bitterly again?' 'Gorko plachesh' is 'cry bitterly', and 'gorko' comes from 'gorky', bitter. 'Opyat' means 'again'.
-- 'Chef, a terrible drama happened to me.' 'U menya sluchilas'' is 'at me happened', which Russians use for events. 'Strashnaya' is 'terrible', from 'strakh', fear.
-- 'Stop this foolish noise right now!' The order 'stop' sounds harsh, and 'foolish noise' makes Louis's crying sound ridiculous. Barinov has no patience.
-- 'My tender heart is broken into pieces.' 'Broken' ends in 'o' to match the neuter 'heart'. 'Into pieces' is literally 'onto pieces'.
-- 'Quickly wipe your tears and make desserts.' Tears are always plural in Russian, so there's no word for a single tear in this form. Two orders sit side by side, 'wipe' and 'make'.
-- 'I cannot bake sweet cakes right now.' 'Pech' is 'to bake', and 'pirozhnye' are small cakes, which look like a describing word but work as a name. 'Ne mogu' is 'I can't'.
-- 'Our important guests have been waiting for desserts for a long time!' 'Davno zhdut' is 'for a long time wait', and Russian uses the present for 'have been waiting'. Barinov keeps it short.
-- 'All right, chef, I will start making creams.' 'Nachnu' is 'I will begin'. 'Creams' is plural, as Russians list each kind of cream.
-- 'And stop your constant empty complaints.' 'Complaints' is always plural in Russian. 'Empty' stands for 'meaningless'.
-- 'Hey, cooks, why are you all standing around?' The plural of 'cook' ends in 'a', the odd one for masculine words. 'You all' is two small words.
-- 'We are already starting to prepare orders quickly.' Louis says 'we', not 'I', to include the whole kitchen. 'Orders' is plural, and it's what the cooks produce.
-- 'Move lively, sluggards, let us begin working together!' 'Zhivee' is 'more alive', so 'faster', and 'lentyai' is 'lazybones'. 'Druzhno' means 'in a friendly, united way' and comes from 'drug', friend.
-- 'Work quickly, guests are waiting for their orders!' 'We work' is used for 'let's work' in Russian. 'Their own' is a small word that Russians add.
+- 'Louis, why are you crying bitterly again?' 'Gorko', bitterly, is the 'o' form of 'gorky', bitter, and Russians cry 'gorko' just as English speakers cry bitterly. 'Opyat' means 'again'.
+- 'Chef, a terrible drama happened to me.' Literally, 'at me happened a terrible drama'. 'Sluchilas', happened, ends in 'as' to match 'drama', a feminine word.
+- 'Stop this foolish noise right now!' 'Prekrati' is the same 'stop it!' that Vika threw at Max this morning. 'Shum', noise, is masculine, so 'this foolish' is 'etot glupy'.
+- 'My tender heart is broken into pieces.' 'Razbito' is from the same verb as 'razbil' in the last scene, now meaning 'is broken', with 'o' for the neuter 'serdtse'. 'Na kuski' is literally 'onto pieces'.
+- 'Quickly wipe your tears and make desserts.' 'Slyozy' is the plural of 'slyoza', a tear. 'Vytri' is a one-off 'wipe!', while 'delay' is 'make!' for work that carries on.
+- 'I cannot bake sweet cakes right now.' 'Pech' is 'to bake'. 'Pirozhnoe', a small cake or pastry, is shaped like a describing word but used as a noun, and its plural is 'pirozhnye'.
+- 'Our important guests have been waiting for desserts for a long time!' 'Davno zhdut' is 'long wait', present tense for 'have been waiting', the same pattern as Vika's 'davno ne splyu' this morning.
+- 'All right, chef, I will start making creams.' 'Nachnu', I'll start, is followed by 'gotovit', the form for an ongoing activity. After 'nachat', to start, Russian always uses that form.
+- 'And stop your constant empty complaints.' 'Zhaloba' is one complaint, and 'zhaloby' are several. 'Svoi' is 'your own', which Russian uses when the owner is the subject, here the 'you' being told off.
+- 'Hey, cooks, why are you all standing around?' 'Povar', cook, makes its plural with a stressed 'a', 'povara', like 'gorod', city, becoming 'goroda'. 'Vy vse' is 'you all'.
+- 'We are already starting to prepare orders quickly.' 'Nachinaem' is 'we're starting', from the everyday partner of Louis's 'nachnu'. 'Delat zakazy', make orders, is everyday kitchen talk.
+- 'Look lively, slackers, let us all start working!' 'Zhivee' is 'more alive', so 'look lively'. 'Druzhno', all together, comes from 'drug', friend; 'nachinaem', we start, here means 'let's start'.
+- 'Work quickly, guests are waiting for their orders!' 'Rabotaem', we work, is the boss's 'let's work!'. 'Svoi zakazy', their own orders, uses 'svoi' again, because the orders belong to the guests in the sentence.

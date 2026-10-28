@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.14'
 SOURCE_FILE = 'sources/kukhnya/s01/e14.ru.dual.srt'
-INTRO = 'Max goes to the bar, where Vika has poured him a drink to say thanks. They talk about whether he is a croissant or a stick of celery. Russian first.'
+INTRO = 'Max goes to the bar, where Vika has a drink waiting for him. In this kitchen, people are croissants or sticks of celery, and Max wants to know which he is.'
 OPENER = 'Again, slowly.'
 TRANSITION = 'Now the scene in one piece.'
-OUTRO = 'Vika gives him a nickname that sticks. Notice how soft her voice is. Until next time.'
+OUTRO = 'Vika gives Max a nickname, and the night ends warmly at the bar. One more talk is waiting in the office. Until next time.'
 CLOSING = ('vika', 'Пока!')
 STORY = [
     ('max', 'А я кто?', 'And what am I?', [(313, 'А я кто')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('vika', 'Мой храбрый круассан.', 'My brave croissant.', [(316, 'мой храбрый круассан')], ''),
 ]
 WALK = [
-    (0, None, "'And what am I?' 'A ya kto' is 'and I who', with no verb. The little 'a' at the start is the 'and' that starts a new thought."),
-    (1, None, "'A croissant or celery?' Both 'kruassan' and 'selderey' are loan words, so you can guess them. 'Ili' means 'or'."),
-    (2, None, "'Well, of course a croissant.' Vika answers without a verb, just 'kruassan'. 'Nu' is a 'well' that makes it sound casual."),
-    (3, None, "'Why a croissant?' Max repeats her answer as a question. It works like a mini echo."),
-    (4, None, "'I don't eat flour products.' 'Muchnoe' means 'floury things' and grows from 'muka', flour. 'Ne em' is 'I don't eat', and 'zhe' says 'after all'."),
-    (5, None, "'You saved our restaurant.' 'Spas' is 'saved', and 'nash restoran' stays the same because it is the thing saved. A short, grateful sentence."),
-    (6, None, "'You did great, Max.' 'Good lad' is a word for praising a man. Russians use the same word for a woman, too."),
-    (7, None, "'I just did my job.' 'Svoyu rabotu' is 'my own job', with 'u' endings. Max is modest, or tries to be."),
-    (8, None, "'No, it was cool.' 'Kruto' means 'cool' in slang, and it literally means 'steeply'. 'Eto bylo' is 'this was'."),
-    (9, None, "'You helped me a lot.' 'Pomog mne' is 'helped to me', so the helped person goes in the 'to' form. 'Ochen' is 'very'."),
-    (10, None, "'Thank you.' 'Thanks to you' is the full Russian, and the 'to you' makes it personal. It's what you'd say to a friend."),
-    (11, None, "'My brave croissant.' 'Brave' describes the croissant. A pet name, nothing more."),
+    (0, None, "'And what am I?' Literally 'and I who?' Russian uses kto, who, for a person even here, where English says 'what'."),
+    (1, None, "'A croissant or celery?' 'Kruassan' is French and selderey is borrowed too, so both are easy to guess. 'Ili' means 'or'."),
+    (2, None, "'Well, of course a croissant.' Vika answers with the noun alone, no 'you are'. Nu, 'well', softens it."),
+    (3, None, "'Why a croissant?' 'Pochemu' is 'why'. Inside it is chemu, a form of chto, 'what'."),
+    (4, None, "'I don't eat flour products.' 'Muchnoe', 'floury things', comes from muka, flour. Ne em is 'I don't eat', and zhe adds 'after all'."),
+    (5, None, "'You saved our restaurant.' 'Spas', 'saved', is the same word Kostya used about Max. 'Nash restoran' doesn't change its ending here, even though it's the thing being saved."),
+    (6, None, "'You did great, Max.' 'Molodets' again. Russians say ty molodets, 'you are a fine fellow', to anyone who did well."),
+    (7, None, "'I just did my job.' 'Svoyu rabotu', 'my own job'. 'Svoy' means 'one's own' and replaces moy when it belongs to the subject."),
+    (8, None, "'No, it was cool.' 'Kruto' is slang for 'cool', but its plain meaning is 'steeply', as in a steep hill."),
+    (9, None, "'You helped me a lot.' 'Pomog mne', 'helped to me', the same 'to' pattern as 'pomog Vike'. 'Ochen pomog', 'very helped', is how Russian says 'helped a lot'."),
+    (10, None, "'Thank you.' 'Spasibo tebe', 'thanks to you', uses the 'to' form of ty. With someone you call vy, it's spasibo vam."),
+    (11, None, "'My brave croissant.' 'Khrabryy', brave, has the masculine ending because kruassan is masculine. Now it's a pet name."),
 ]

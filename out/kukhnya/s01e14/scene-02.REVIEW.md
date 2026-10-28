@@ -16,7 +16,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 4 | Саша | Спасибо, я очень сильно старалась. | Thank you, I tried very hard. | new | new |
 | 5 | Макс | Шеф уже видел твою новую работу? | Has the chef already seen your new work? | new | new |
 | 6 | Саша | Да, он был очень доволен мной. | Yes, he was very satisfied with me. | new | new |
-| 7 | Макс | И это у вас получилось. | And you pulled it off. | #4 00:00:48: И это у вас получилось. | verbatim |
+| 7 | Макс | И это у тебя получилось. | And you pulled it off. | #4 00:00:48: И это у вас получилось. | adapted: adapted: тебя for вас, so Max keeps calling Sasha ты |
 | 8 | Саша | А теперь можно немного отдохнуть. | And now we can rest a little. | new | new |
 | 9 | Макс | Кто тут хочет повеселиться? | Who wants to have some fun? | #5 00:00:50: Кто тут хочет повеселиться? | verbatim |
 | 10 | Саша | Я хочу. | I do. | #6 00:00:52: Я хочу. | verbatim |
@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Sasha, did you see the new beautiful cake?' The 'a' on 'videla' is there because the question is to a woman. 'Tort' is masculine, which is why 'new' and 'beautiful' both end in 'y'.
-- 'Of course, I decorated it myself today.' Sasha's 'sama' means 'by myself' and has an 'a' because she is a woman. Russians call a cake 'he', so the 'it' is 'him' again.
-- 'It looks simply magnificent.' The cake is masculine, so Russian says 'he looks'. After 'looks' comes 'velikolepno', and it describes how he looks.
-- 'Thank you, I tried very hard.' Literally 'I tried myself', because 'staralas'' ends in 'sya'. And 'very hard' is 'very strongly' in Russian.
-- 'Has the chef already seen your new work?' 'Tvoyu novuyu rabotu' is 'your new work', where 'work' takes the 'u' it needs after 'saw'. 'Uzhe' means 'already'.
-- 'Yes, he was very satisfied with me.' Russian says 'pleased by me', so 'me' takes the ending 'oy' and becomes 'mnoy'. A man would be 'dovolen', with no ending.
-- 'And you pulled it off.' Literally, 'at you it turned out'. Max suddenly switches to the formal 'you', as if he were a judge of the cake.
-- 'And now we can rest a little.' 'Mozhno' is the handy word for 'it's allowed' or 'we can'. 'Otdokhnut' is 'to have a rest'.
-- 'Who wants to have some fun?' Fun comes from 'veselye', and the 'sya' on the end of the action turns it into 'enjoy oneself'.
-- 'I do.' Sasha answers with just 'ya khochu', 'I want', and nothing else. Russians answer by repeating the action word, so a separate 'yes' isn't needed.
-- 'Then let us go outside with me.' Russians say 'onto the street' for 'outside'. Max's 'let's go' is a single word, and 'with me' is 'so mnoy'.
-- 'Wait, I will just take off my apron.' 'Snimu' is 'I will take off'. The 'my own' that Russians like to add means the apron is hers.
+- 'Sasha, did you see the new beautiful cake?' 'Videla' ends in 'a' because the 'you' is Sasha. 'Tort' is masculine, so 'novy' and 'krasivy' both end in 'y' to match it.
+- 'Of course, I decorated it myself today.' 'Sama', myself, has the 'a' of a woman; Max would say 'sam'. And the cake is 'he' again, so 'it' is 'ego', him.
+- 'It looks simply magnificent.' Russian says 'on vyglyadit', 'he looks', about the cake. After 'vyglyadit' comes an 'o' word, 'velikolepno', where English uses 'magnificent'.
+- 'Thank you, I tried very hard.' 'Staralas' is 'staratsya', to try hard, and after a vowel the 'sya' shrinks to a short 's'. 'Ochen silno' is literally 'very strongly'.
+- 'Has the chef already seen your new work?' 'Rabota', work, becomes 'rabotu' as the thing seen, and 'tvoyu novuyu' take the matching 'u' ending.
+- 'Yes, he was very satisfied with me.' After 'dovolen', pleased, the person you're pleased with takes the 'with' form, so 'ya' becomes 'mnoy'. 'Dovolen' has no ending because the chef is a man.
+- 'And you pulled it off.' Literally, 'and this at you turned out'. Russians say 'u tebya poluchilos' for 'you managed it': the success happens 'at you' rather than being done by you.
+- 'And now we can rest a little.' 'Mozhno' means 'it's allowed' or 'one can', and it works without any 'we' or 'I'. 'Otdokhnut', to have a rest, follows it in the basic form.
+- 'Who wants to have some fun?' 'Poveselitsya' is built on 'vesyoly', cheerful: 'po' gives 'for a bit' and 'sya' makes it 'enjoy oneself'.
+- 'I do.' Sasha just says 'ya khochu', 'I want'. Russians often answer a question by repeating its verb instead of saying 'yes'.
+- 'Then let us go outside with me.' Outside in Russian is 'na ulitsu', literally 'onto the street'. 'Poydyom', let's go, is one word, and 'so mnoy' is 'with me', where 'ya' turns into 'mnoy' just as it did a moment ago.
+- 'Wait, I will just take off my apron.' 'Snimu' is a future, 'I'll take off', with no 'will' word needed. 'Svoy fartuk', her own apron, uses the word for 'one's own' instead of 'my'.

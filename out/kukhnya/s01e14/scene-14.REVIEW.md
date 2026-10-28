@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I am not needed by anyone.' Russian stacks up negatives, so it's 'to nobody not needed'. Lyova is a man, and so the short word for 'needed' has no ending.
-- 'Lyova, a customer found a SIM card in the dessert.' Dessert borrows an 'e' ending after 'in', so it reads 'v deserte'. The SIM card is a loan word too, joined by a hyphen.
-- 'A SIM card? In the dessert?' Lyova just echoes the two pieces back as questions. Russian doesn't need a verb to ask 'what?'.
-- 'Yes, he demands the chef.' The verb 'trebuet' is stronger than 'asks', closer to 'insists'. After it, the chef goes into the 'of' form, 'shef-povara'.
-- 'Go to him, Lyova.' When 'him' comes after a little word like 'to', it gets an extra 'n', so 'on' turns into 'nemu'. That 'n' is a small rule worth knowing.
-- 'I will not go there.' Russian has two words for 'there': one for being there and one for going there. This one is the second, the going kind.
-- 'What do you mean, you will not go?' It begins with the stock phrase 'what does it mean', and it works for any 'what do you mean'. Kostya is incredulous.
+- 'I am not needed by anyone.' Literally 'to nobody not needed': nikomu and ne together, a double negative Russian requires. 'Nuzhen', needed, is the man's form; a woman would say nuzhna.
+- 'Lyova, a customer found a SIM card in the dessert.' After 'v' for location, desert becomes deserte. And the card is sim-kartu, with a 'u', because it's the thing found.
+- 'A SIM card? In the dessert?' Lyova repeats Kostya's words exactly, still sim-kartu with that 'u', as if the verb 'found' were still there. Echoing like this is the natural Russian way to say 'you what?'.
+- 'Yes, he demands the chef.' 'Trebuet' is stronger than 'asks', closer to 'insists on'. 'Shef-povar' becomes shef-povara: for a person who is wanted, Russian uses the same 'a' ending as 'of'.
+- 'Go to him, Lyova.' K nemu, to him. After a little word like 'k', 'him' gains an 'n' at the front, so it's nemu, not emu.
+- 'I will not go there.' Russian has tam for being there and tuda for going there. With 'I will go', it has to be tuda.
+- 'What do you mean, you will not go?' 'Chto znachit' is literally 'what does it mean', and it's the everyday way to pounce on something someone just said.
 - 'You are the chef today.' No 'are' appears. Just 'you today chef', and it sounds like a verdict.
-- 'Go and figure this out.' 'Razbirat'sya' literally means 'take yourself apart over it', which is Russian for 'sort it out'. A little 'i' joins the two orders.
-- 'But I am not the chef.' It's a flat 'but I not chef'. The 'but' at the start is the one you use to object.
-- 'Lyova, you need to figure it out.' Here the need is the person's: 'to you it is necessary'. It's the same pattern as 'I need' and 'he needs', with only the little word in front changing.
-- 'I am afraid to go there.' 'Boyus'' is 'I fear'. The going-to 'there', 'tuda', is the same one he used earlier, and the action stays in its basic form.
-- 'Come on, go.' 'Davay' is the all-purpose 'come on', literally 'give'. Russians put it in front of an order to make it friendlier.
+- 'Go and figure this out.' 'Razbirat' means 'to take apart, to sort through'. With 'sya' and 's etim', 'with this', it becomes 'deal with it', and razbirays is the order form.
+- 'But I am not the chef.' Careful with the first word: no sounds like English 'no', but in Russian it means 'but'. The Russian 'no' is net.
+- 'Lyova, you need to figure it out.' Tebe nado, literally 'to you it's necessary'. Swap tebe for mne and you get 'I need to'.
+- 'I am afraid to go there.' 'Boyus' is 'I'm afraid', and 'to go' follows in its basic form, idti. It's tuda again, the going-there word from a moment ago.
+- 'Come on, go.' 'Davay' comes from the verb 'to give', and it's the all-purpose 'come on'. Russians put it in front of an order to push someone along.

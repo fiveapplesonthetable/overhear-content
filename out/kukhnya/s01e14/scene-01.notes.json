@@ -325,10 +325,10 @@
         {
           "t": "человек-паук!",
           "lemma": "человек-паук",
-          "pos": "name",
-          "stress": null,
+          "pos": "noun",
+          "stress": "челове́к-пау́к",
           "gloss": "Spider-Man",
-          "gram": "UNKNOWN"
+          "gram": "compound noun, masculine singular, nominative"
         }
       ]
     },
@@ -510,15 +510,15 @@
     },
     {
       "seg": 12,
-      "trans": "Before you go take a shower.",
+      "trans": "Not until you take a shower.",
       "words": [
         {
           "t": "Пока",
           "lemma": "пока",
-          "pos": "adv",
+          "pos": "conj",
           "stress": "пока́",
-          "gloss": "bye!",
-          "gram": "informal farewell interjection"
+          "gloss": "until (with не)",
+          "gram": "conjunction; пока не = until"
         },
         {
           "t": "ты",
@@ -534,7 +534,7 @@
           "pos": "part",
           "stress": null,
           "gloss": "not",
-          "gram": "negation"
+          "gram": "part of пока не, until"
         },
         {
           "t": "сходишь",
@@ -885,10 +885,10 @@
         {
           "t": "человек-паук!",
           "lemma": "человек-паук",
-          "pos": "name",
-          "stress": null,
+          "pos": "noun",
+          "stress": "челове́к-пау́к",
           "gloss": "Spider-Man",
-          "gram": "UNKNOWN"
+          "gram": "compound noun, masculine singular, nominative"
         }
       ]
     },
@@ -1070,15 +1070,15 @@
     },
     {
       "seg": 36,
-      "trans": "Before you go take a shower.",
+      "trans": "Not until you take a shower.",
       "words": [
         {
           "t": "Пока",
           "lemma": "пока",
-          "pos": "adv",
+          "pos": "conj",
           "stress": "пока́",
-          "gloss": "bye!",
-          "gram": "informal farewell interjection"
+          "gloss": "until (with не)",
+          "gram": "conjunction; пока не = until"
         },
         {
           "t": "ты",
@@ -1094,7 +1094,7 @@
           "pos": "part",
           "stress": null,
           "gloss": "not",
-          "gram": "negation"
+          "gram": "part of пока не, until"
         },
         {
           "t": "сходишь",
@@ -1445,10 +1445,10 @@
         {
           "t": "человек-паук!",
           "lemma": "человек-паук",
-          "pos": "name",
-          "stress": null,
+          "pos": "noun",
+          "stress": "челове́к-пау́к",
           "gloss": "Spider-Man",
-          "gram": "UNKNOWN"
+          "gram": "compound noun, masculine singular, nominative"
         }
       ]
     },
@@ -1630,15 +1630,15 @@
     },
     {
       "seg": 49,
-      "trans": "Before you go take a shower.",
+      "trans": "Not until you take a shower.",
       "words": [
         {
           "t": "Пока",
           "lemma": "пока",
-          "pos": "adv",
+          "pos": "conj",
           "stress": "пока́",
-          "gloss": "bye!",
-          "gram": "informal farewell interjection"
+          "gloss": "until (with не)",
+          "gram": "conjunction; пока не = until"
         },
         {
           "t": "ты",
@@ -1654,7 +1654,7 @@
           "pos": "part",
           "stress": null,
           "gloss": "not",
-          "gram": "negation"
+          "gram": "part of пока не, until"
         },
         {
           "t": "сходишь",
@@ -4862,6 +4862,91 @@
         {
           "word": "мне",
           "gloss": "to me (dative)"
+        }
+      ]
+    },
+    "человек-паук": {
+      "lemma": "человек-паук",
+      "stress": "челове́к-пау́к",
+      "pos": "noun",
+      "gloss": "Spider-Man",
+      "meanings": [
+        {
+          "en": "Spider-Man",
+          "note": "Literally 'man-spider': человек, person, plus паук, spider. Both halves change their endings together."
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "человек-паук",
+              "люди-пауки"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "человека-паука",
+              "людей-пауков"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "человеку-пауку",
+              "людям-паукам"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "человека-паука",
+              "людей-пауков"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "человеком-пауком",
+              "людьми-пауками"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "человеке-пауке",
+              "людях-пауках"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Сейчас я человек-паук!",
+          "trans": "Now I am Spider-Man!"
+        },
+        {
+          "text": "Он смотрит фильм про человека-паука.",
+          "trans": "He is watching a film about Spider-Man."
+        }
+      ],
+      "related": [
+        {
+          "word": "паук",
+          "gloss": "spider"
+        },
+        {
+          "word": "человек",
+          "gloss": "person, man"
         }
       ]
     }

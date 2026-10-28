@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostya, the new order for the guests is ready.' 'Zakaz' means 'order', in a restaurant. 'Gotov' is 'ready', and a man's form ends in a bare consonant because 'zakaz' is masculine.
-- 'Great, show me these beautiful plates.' 'Pokazhi' is 'show!'. 'Eti krasivye tarelki' is the plural, 'these beautiful plates', and all three words end in 'i' or 'e'.
-- 'Here is a delicious French steak and hot fish.' 'Vot' points at the plate. 'Hot' ends in 'aya' because 'fish' is feminine, while 'steak' is masculine and gets 'y'.
-- 'This dish looks very appetizing and expensive.' After 'looks', Russian uses the adverb, so it's 'looks expensively'. English prefers 'looks expensive'.
-- 'I cooked this rare recipe for a long time.' 'Dolgo' means for a long time. Max's 'gotovil' is a man's past form, and 'redkiy' means rare.
-- 'Our guests in the hall are very hungry.' 'Hungry' is plural here, ending in 'ye' to match 'gosti'. 'V zale' puts an 'e' on the hall after 'in'.
-- 'Then carry these plates right now.' The order 'carry!' is for carrying on foot. 'Right now' is literally 'straight now'.
-- 'I will quickly take the hot food to the guests.' 'Otnesu' is 'carry away to', with 'ot' showing the direction. The guests take 'yam' for 'to'.
-- 'Be sure to wish them bon appetit.' 'Of pleasant appetite' is the literal meaning of the set phrase. The order 'wish!' sits in front.
-- 'Of course, I will do everything very politely.' 'Vezhlivo' grows from 'vezhlivy', polite. 'Sdelayu' is 'I will do', in one word.
-- 'Say that the chef cooked for them.' 'Say!' is the order. After 'for', 'ikh' picks up an extra 'n' in front, so it's 'nikh'.
-- 'Good, I will pass on your warm words.' 'Peredam' is 'I'll pass on', and 'tyoplye slova' means 'warm words'. Russians use 'warm' for kind words, as English does.
-- 'Go quickly, the guests are already waiting for the order!' Russians wait the order, with no 'for'. 'Quicker' is the plain word for quick with an 'e'.
+- 'Kostya, the new order for the guests is ready.' 'Gotov', ready, matches 'zakaz', order, which is masculine. A dish, 'blyudo', would be 'gotovo', and a pizza 'gotova'.
+- 'Great, show me these beautiful plates.' 'Pokazhi' is the order 'show!'. 'Eti krasivye tarelki' is all plural: 'eto' becomes 'eti', and 'tarelka', plate, becomes 'tarelki'.
+- 'Here is a delicious French steak and hot fish.' 'Vot' is 'here is', for pointing at something. 'Ryba', fish, is feminine, so 'hot' is 'goryachaya'; 'steyk' is masculine and takes 'vkusny'.
+- 'This dish looks very appetizing and expensive.' After 'vyglyadit', looks, Russian uses the 'o' words, 'appetitno' and 'dorogo', literally 'looks appetizingly and expensively'.
+- 'I cooked this rare recipe for a long time.' 'Gotovil' is the kind of past that describes a process, so with 'dolgo', for a long time, it means 'I spent ages cooking'.
+- 'Our guests in the hall are very hungry.' 'Golodnye' ends in 'ye' to match the plural 'gosti'. 'Zal', the hall or dining room, becomes 'v zale', in the hall.
+- 'Then carry these plates right now.' 'Nesi' is 'carry!' when you carry by hand on foot. 'Pryamo seychas' is literally 'straight now', so 'this minute'.
+- 'I will quickly take the hot food to the guests.' 'Otnesu' has 'ot', away, for 'carry over'. 'Gostyam' is 'to the guests', with the plural 'yam' ending meaning 'to'.
+- 'Be sure to wish them bon appetit.' 'Priyatnogo appetita' is literally 'of pleasant appetite'. 'Pozhelat', to wish, puts what you wish into the 'of' form.
+- 'Of course, I will do everything very politely.' 'Vezhlivo', politely, is the 'o' form of 'vezhlivy', polite. 'Vsyo sdelayu' is 'everything I'll do', with 'vsyo' first.
+- 'Say that the chef cooked for them.' 'Ikh', them, gains an 'n' after little words like 'dlya', for: 'dlya nikh'. The same happens to 'nego' and 'ney'.
+- 'Good, I will pass on your warm words.' 'Peredam' is 'I'll pass on'. Kostya calls Max 'ty', so it's 'tvoi tyoplye slova', with 'tvoi', your, in the plural for 'slova', words.
+- 'Go quickly, the guests are already waiting for the order!' 'Skoree' is literally 'sooner', and 'idi skoree' is the everyday 'hurry up'. 'Zhdut zakaz' has no word for 'for'.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'The guests are loudly singing La Marseillaise.' The anthem is the thing being sung, so it takes a 'u'. 'Ispolnyat' is a formal verb, 'perform', used for singing.
-- 'It seems our French guest is tired.' 'It seems' is one word. 'Got tired' is a past form, and Russians use it for 'is tired'.
-- 'Let us all forgive Jacques.' 'Druzhno' means 'all together' and comes from 'drug', friend. Jacques takes an 'a' ending because he is the one forgiven.
-- 'He apparently had too much today.' 'Vidimo' is literally 'visibly'. 'Nakushalsya' is a polite and funny way to say 'ate and drank too much'.
-- 'Even without our main dish.' After 'bez', 'without', the dish goes into its 'of' form, 'blyuda'. 'Dazhe' is 'even'.
-- 'He can no longer judge the food.' 'Already not' is Russian for 'no longer'. 'Judge' means to rate, as of a dish.
-- 'That is why he is just singing right now.' 'Therefore' is one word. 'Sings' is a short action, and 'just' makes it sound like a shrug.
-- 'Well then, dear friends.' 'Nu chto zh' is a drawn-out 'well then', a favourite of people who are about to make a speech.
-- 'Then I will be the main taster.' Russian says 'as the main taster will be I', with the job in the 'ym' ending. The word order puts 'I' last for drama.
-- 'I will taste this dish myself.' 'Sam' is 'myself', the same as in 'I'll do it myself'. 'Poprobuyu' means 'try', and also 'taste'.
-- 'I hope you will really like the dish.' 'Nadeyus' is 'I hope', with 'sya' in it. 'Vam ponravitsya' is 'to you it will be pleasing'.
-- 'Let us see what our cook prepared.' 'Let's see' is one word, and the second half asks 'what did he prepare'. 'Cook' is the word for a chef.
+- 'The guests are loudly singing La Marseillaise.' The anthem is what's being sung, so 'Marselyeza' becomes 'Marselyezu'. 'Ispolnyat', to perform, is a formal verb for singing or playing.
+- 'It seems our French guest is tired.' 'Ustal' is past, 'got tired', but Russians use it to mean 'is tired'. 'Kazhetsya', it seems, opens the sentence with a comma.
+- 'Let us all forgive Jacques.' 'Druzhno', all together, comes from drug, friend. 'Zhak' becomes 'Zhaka' because he's the one being forgiven.
+- 'He apparently had too much today.' 'Vidimo' is from videt, to see, and means 'apparently'. 'Nakushatsya' is 'to eat one's fill', and here it's a polite joke for too much to drink.
+- 'Even without our main dish.' After bez, without, the dish goes into its 'of' form: nashe glavnoe blyudo becomes nashego glavnogo blyuda.
+- 'He can no longer judge the food.' 'Uzhe ne', 'already not', is the Russian 'no longer'. 'Otsenivat', to judge or rate, comes from otsenka, a school mark.
+- 'That is why he is just singing right now.' 'Poetomu' is po plus etomu, 'by this', and it means 'that's why'. Poet, sings, comes from pet, an odd verb: ya poyu, on poet.
+- 'Well then, dear friends.' Nu chto zh is a drawn-out 'well then', a favourite of people who are about to make a speech.
+- 'Then I will be the main taster.' After budu, I will be, the job takes the 'as' ending: glavnym degustatorom. The 'I' comes last, ya, for drama.
+- 'I will taste this dish myself.' 'Sam' is 'myself', as in ya sam, 'I'll do it myself'. 'Poprobuyu' is 'I'll try', and for food it also means 'I'll taste'.
+- 'I hope you will really like the dish.' 'Nadeyus', I hope, ends in a short 'sya' after a vowel, just 's'. 'Vam ponravitsya' is 'to you it will be pleasing'.
+- 'Let us see what our chef cooked.' 'Posmotrim' is 'we'll look', and Russians use it as 'let's see'. 'Povar' is the everyday word for a cook.

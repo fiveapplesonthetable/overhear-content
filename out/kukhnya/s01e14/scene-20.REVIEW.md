@@ -15,7 +15,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 3 | Жак | Я здесь, я иду! | I am here, I am coming! | #285 00:18:42: Жак! Несу, несу! | verbatim |
 | 4 | Нагиев | А вы кто такой? | And who are you? | #288 00:18:54: А вы кто? Сосед. | verbatim |
 | 5 | Шеф | Он мой сосед. | He is my neighbor. | #288 00:18:54: Сосед. | verbatim |
-| 6 | Нагиев | Представляешь, мы жили в Париже. | Can you imagine, we lived in Paris. | #290 00:18:59: Его. Представляешь, мы с ним жили в Париже на соседних улицах. | verbatim |
+| 6 | Шеф | Представляешь, мы жили в Париже. | Can you imagine, we lived in Paris. | #290 00:18:59: Его. Представляешь, мы с ним жили в Париже на соседних улицах. | verbatim |
 | 7 | Шеф | Подожди, мы не будем целоваться. | Wait, we are not going to kiss. | #293 00:19:09: Подожди, целоваться. | verbatim |
 | 8 | Шеф | Сначала надо закусить. | First we need to have a bite. | #294 00:19:10: Сначала закусить. | verbatim |
 | 9 | Шеф | На, попробуй это. | Here, try this. | #295 00:19:14: На, попробуй. | verbatim |
@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Let's try this.' 'Davayte' and 'we' make a group suggestion. 'Poprobuem' covers both trying and tasting.
-- 'Jacques, where are you?' There is no 'are'. The name sits in front of 'ty gde', and it's an order for him to turn up.
-- 'I am here, I am coming!' 'Idu' means 'I am coming' and 'I go', and the repetition makes it friendly. 'Zdes' is 'here'.
-- 'And who are you?' He mixes the polite 'you' with the rude 'who such', so the question comes out cold. Nagiyev has never seen him.
-- 'He is my neighbor.' Russian says 'he my neighbour', with no 'is'. A woman neighbour would be 'sosedka'.
-- 'Can you imagine, we lived in Paris.' Literally, 'you imagine', and Russians use it to say 'imagine that'. 'In Paris' takes an 'e' after 'in'.
-- 'Wait, we are not going to kiss.' The 'sya' in 'tselovatsya' means 'each other', so the word is 'to kiss each other'. 'Ne budem' is 'we won't'.
-- 'First we need to have a bite.' 'Zakusit' means to eat a bite after a drink, a Russian tradition. 'Snachala' is 'first of all'.
-- 'Here, try this.' 'Na' is a short word for 'here you are', used when you hand someone something. 'Poprobuy' is 'taste it'.
-- 'This is very delicious.' 'Eto ochen vkusno' has no verb at all. Russians just point and say it.
-- 'He says that it is delicious?' 'Says that' needs a comma in front of 'that' in Russian. Nagiyev can't understand the French and asks Barinov.
-- 'Yes, he likes it very much.' 'Emu nravitsya' is 'to him it is pleasing'. Russians make the food the subject and the person 'to him'.
-- 'Thank you, my dear friend.' 'Dorogoy' means 'dear' and 'expensive', and Russians use it for people they love. Jacques is on his best behaviour.
-- 'You are welcome, eat to your health.' 'Na zdorovye' is 'to health', and Russians say it to anyone who is eating or drinking. 'Kushay' is a cosy word for 'eat'.
+- 'Let's try this.' 'Davayte' with a 'we' future, poprobuem, makes a group suggestion. 'Poprobovat' covers both 'try' and 'taste'.
+- 'Jacques, where are you?' 'Ty gde' is literally 'you where'. In casual speech the question word can come last.
+- 'I am here, I am coming!' 'Idu' is 'I'm going on foot', and shouted like this it means 'coming!'. 'Zdes' is 'here' as a place where you are.
+- 'And who are you?' Nagiyev uses the polite vy, but keeps takoy, 'such', in the singular because he's asking one man. 'Kto takoy' is pointed: 'and who might you be?'.
+- 'He is my neighbor.' Russian says 'he my neighbour', with no 'is'. A woman neighbour would be sosedka.
+- 'Can you imagine, we lived in Paris.' Barinov explains, using predstavlyaesh, literally 'you imagine', the Russian 'can you believe it'. 'Parizh' becomes 'Parizhe' after 'v' for 'in'.
+- 'Wait, we are not going to kiss.' The 'sya' in tselovatsya means 'each other', so it's 'kiss each other'. Ne budem is 'we won't'.
+- 'First we need to have a bite.' 'Zakusit' means to eat a bite, often after a drink. A zakuska is the snack you have with vodka.
+- 'Here, try this.' Na, said while handing something over, means 'here, take it'. 'Poprobuy' is the 'ty' order form of 'try'.
+- 'This is very delicious.' 'Eto ochen vkusno' has no verb at all. 'Vkusno', tasty, is the word you'll use most at any Russian table.
+- 'He says that it is delicious?' 'Govorit', chto: chto here means 'that', not 'what'. Nagiyev can't understand the French and asks Barinov.
+- 'Yes, he likes it very much.' 'Emu nravitsya' is 'to him it is pleasing'. The food is the subject, and the person is emu, to him.
+- 'Thank you, my dear friend.' Moy dorogoy drug: all three words are masculine. To a woman it would be moya dorogaya podruga.
+- 'You are welcome, eat to your health.' Na zdorove, 'to health', is the reply when someone thanks you for food. Despite the myth, it isn't the usual Russian toast.

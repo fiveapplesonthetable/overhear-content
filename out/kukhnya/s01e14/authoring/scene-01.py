@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.14'
 SOURCE_FILE = 'sources/kukhnya/s01/e14.ru.dual.srt'
-INTRO = "Welcome to Kukhnya, a comedy about the kitchen of Claude Monet, a smart Moscow restaurant. In this episode, the head chef turns up drunk before an important dinner, and a very nervous Lyova has to take charge. We start earlier, in Vika's flat, where Max wakes up in a playful mood and Vika has a busy day to get through. First in Russian, and you don't need to catch everything."
-OPENER = 'Now the same scene, slowly, a line at a time.'
+INTRO = "Welcome to Kukhnya, a comedy about the kitchen of Claude Monet, a smart Moscow restaurant. In this episode, the head chef turns up drunk before an important dinner, and a very nervous Lyova has to take charge. We start earlier, in Vika's flat, where Max wakes up in a playful mood and Vika has a busy day ahead. Here's the scene in Russian; you don't need to catch everything."
+OPENER = 'Now the same morning, slowly.'
 TRANSITION = 'And the whole morning once more.'
-OUTRO = 'Max goes off to make the coffee, and Vika goes off to work. It is a quiet start to a day that is going to get very loud. Until next time.'
+OUTRO = "Max goes off to make the coffee, Vika gets ready for work, and the day that's about to get very loud starts quietly. Keep 'poka ne', 'until', in your pocket. Bye for now."
 CLOSING = ('vika', 'Пока!')
 STORY = [
     ('max', 'Вика, ты уже проснулась сегодня?', 'Vika, are you awake already today?', [], ''),
@@ -27,19 +27,19 @@ STORY = [
     ('max', 'Сейчас я тебя!', 'I am going to get you!', [(2, 'Сейчас я тебя.')], 'adapted: shortened'),
     ('vika', 'Макс, прекрати это немедленно!', 'Max, stop this immediately!', [], ''),
     ('max', 'Хорошо, я иду варить нам кофе.', 'Alright, I am going to brew coffee for us.', [], ''),
-    ('vika', 'Пока ты не сходишь в душ.', 'Before you go take a shower.', [(3, 'Пока ты не сходишь в душ.')], ''),
+    ('vika', 'Пока ты не сходишь в душ.', 'Not until you take a shower.', [(3, 'Пока ты не сходишь в душ.')], ''),
 ]
 WALK = [
-    (0, None, "'Vika, are you awake already today?' English asks 'are you awake', but Russian asks 'have you woken up', and uses a past form for it. The 'las' on the end shows Vika is a woman."),
-    (1, None, "'Yes, I have not been sleeping for a long time.' Literally, 'for a long time I don't sleep'. A plain present covers what English needs 'have been' for, and 'davno' carries the 'long time'."),
-    (2, None, "'Why did you get up so early?' Getting up is literally 'standing up', built on the verb 'to stand'. 'Rano' is early."),
-    (3, None, "'I have a lot of things today.' 'Del' is 'of things' or 'of affairs', which is the plural of 'delo' with the ending chopped off. It follows 'many', as Russian puts the counted thing in a special shape."),
-    (4, None, "'And what about our tasty breakfast?' 'A kak zhe' is a handy opener for 'what about...?' when you suddenly remember something. 'Zavtrak' is masculine, so 'tasty' ends in 'y'."),
-    (5, None, "'You can prepare it yourself.' In Russian a breakfast is a 'he', so the 'it' comes out as 'him'. You hear 'cook him yourself', which is odd to English ears."),
-    (6, None, "'Now I am Spider-Man!' 'Chelovek-pauk' is literally 'man-spider', with a hyphen. There's no 'am' in the sentence. 'Seychas' means 'now', and Max shouts it."),
-    (7, None, "'Very funny, but I need to go.' 'Smeshno' is 'funny', with no 'is' and no 'it'. 'Mne nado' is 'to me it's necessary', and 'idti' is 'to go on foot'."),
-    (8, None, "'I am going to get you!' The sentence has no action word: 'seychas ya tebya', literally 'now I you'. Russians leave out the verb when a threat is obvious, like English 'I'll get you!'."),
-    (9, None, "'Max, stop this immediately!' Vika's order is the friendly kind, but 'nemedlenno' is formal, literally 'without delay'. The mix of the two makes it sound firm."),
-    (10, None, "'Alright, I am going to brew coffee for us.' Russians boil their coffee, so the word they use is 'varit'. Put 'I go' in front and you have 'I'm off to make some'."),
-    (11, None, "'Before you go take a shower.' 'Poka ty ne skhodish' is literally 'until you don't go', with a 'ne' that English would never add. Russian often puts 'ne' into time clauses like this."),
+    (0, None, "'Vika, are you awake already today?' Russian asks 'have you woken up?', with the past form 'prosnulas'. The 'la' in the middle is there because the 'you' is Vika, a woman; asked of Max, it would be 'prosnulsya'."),
+    (1, None, "'Yes, I have not been sleeping for a long time.' Literally, 'already long I don't sleep'. With 'davno', 'for a long time', Russian keeps the plain present 'ne splyu' where English needs 'have been'."),
+    (2, None, "'Why did you get up so early?' 'Vstala', got up, is literally 'stood up'. It ends in 'a' because Max is asking Vika."),
+    (3, None, "'I have a lot of things today.' 'U menya mnogo del' is the everyday 'I've got lots to do'. After 'mnogo', a lot, the noun goes into its 'of' form, so 'delo', a thing to do, becomes 'del'."),
+    (4, None, "'And what about our tasty breakfast?' 'A kak zhe...?' is the handy 'and what about...?' when you feel let down. 'Zavtrak' is masculine, so 'nash vkusny' match it."),
+    (5, None, "'You can prepare it yourself.' Breakfast is a 'he' in Russian, so 'it' comes out as 'ego', him. 'Sam', yourself, has no ending because it's Max who'll do the cooking."),
+    (6, None, "'Now I am Spider-Man!' 'Chelovek-pauk' is literally 'man-spider', joined with a hyphen. There's no 'am': 'seychas ya chelovek-pauk', 'now I man-spider'."),
+    (7, None, "'Very funny, but I need to go.' 'Smeshno' on its own is a full reply, 'that's funny'. 'Mne nado idti' is literally 'to me it's necessary to go', the standard way to say you have to leave."),
+    (8, None, "'I am going to get you!' There's no verb at all: 'seychas ya tebya', 'now I you'. The action is obvious, so Russian simply leaves it out, the same playful threat as 'I'll get you!'."),
+    (9, None, "'Max, stop this immediately!' 'Prekrati' is the order 'stop it!' to one person you call 'ty'. 'Nemedlenno' is 'ne' plus 'medlenno', 'slowly', so literally 'not slowly'."),
+    (10, None, "'Alright, I am going to brew coffee for us.' Russians 'varit' coffee, the cooking-by-boiling verb you'd also use for soup, 'varit sup'. 'Idu varit' is 'I'm off to make', two verbs with no 'to' between them."),
+    (11, None, "'Not until you take a shower.' 'Poka ... ne' together mean 'until', so literally 'while you don't go to the shower'. The 'ne' here isn't a real 'not'; it's simply part of the pattern."),
 ]
